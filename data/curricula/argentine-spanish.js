@@ -496,9 +496,9 @@
         {
           "prompt": "How are the letters 'll' and 'y' pronounced in modern Rioplatense (Argentine) Spanish?",
           "options": [
-            "Silent, not pronounced (Greet people the Rioplatense way using che and hola)",
-            "Like an English 'j' (Greet people the Rioplatense way using che and hola)",
-            "Like an English 'y' (Greet people the Rioplatense way using che and hola)",
+            "Silent, not pronounced",
+            "Like an English 'j'",
+            "Like an English 'y'",
             "Like an English 'sh' (in shoe)"
           ],
           "answerIndex": 3,
@@ -507,10 +507,10 @@
         {
           "prompt": "How is the letter 'v' in 'vos' pronounced in Argentine Spanish?",
           "options": [
-            "As a bilabial 'b' sound (Greet people the Rioplatense way using che and hola)",
-            "As an English 'f' sound (Greet people the Rioplatense way using che and hola)",
-            "As a silent letter (Greet people the Rioplatense way using che and hola)",
-            "As an English 'w' sound (Greet people the Rioplatense way using che and hola)"
+            "As a bilabial 'b' sound",
+            "As an English 'f' sound",
+            "As a silent letter",
+            "As an English 'w' sound"
           ],
           "answerIndex": 0,
           "explanation": "Spanish has complete betacismo: v and b represent the exact same bilabial sound."
@@ -518,10 +518,10 @@
         {
           "prompt": "Someone opens with '¡Che, ...!' What is che doing here?",
           "options": [
-            "It's a swear word (Greet people the Rioplatense way using che and hola)",
-            "It means 'goodbye' (Greet people the Rioplatense way using che and hola)",
-            "It's a formal title (Greet people the Rioplatense way using che and hola)",
-            "It's an all-purpose attention-getter/filler, roughly 'hey' (Greet people the Rioplatense way using che and hola)"
+            "It's a swear word",
+            "It means 'goodbye'",
+            "It's a formal title",
+            "It's an all-purpose attention-getter/filler, roughly 'hey'"
           ],
           "answerIndex": 3,
           "explanation": "Che is a ubiquitous interjection used to open sentences or grab attention."
@@ -529,10 +529,10 @@
         {
           "prompt": "Someone greets you with ¿Todo bien? What's the natural reply?",
           "options": [
-            "Che, ¿qué tal? (Greet people the Rioplatense way using che and hola)",
-            "Todo bien (Greet people the Rioplatense way using che and hola)",
-            "No entiendo (Greet people the Rioplatense way using che and hola)",
-            "Buenas noches (Greet people the Rioplatense way using che and hola)"
+            "Che, ¿qué tal?",
+            "Todo bien",
+            "No entiendo",
+            "Buenas noches"
           ],
           "answerIndex": 1,
           "explanation": "Todo bien echoes the greeting back — the standard casual exchange."
@@ -544,10 +544,10 @@
         {
           "prompt": "How would 'me llamo' (my name is) sound out loud in Rioplatense Spanish?",
           "options": [
-            "me lyamo (Greet people the Rioplatense way using che and hola)",
-            "me jamo (Greet people the Rioplatense way using che and hola)",
-            "me shamo (Greet people the Rioplatense way using che and hola)",
-            "me yamo (Greet people the Rioplatense way using che and hola)"
+            "me lyamo",
+            "me jamo",
+            "me shamo",
+            "me yamo"
           ],
           "answerIndex": 2,
           "explanation": "The ll triggers the 'sh' sound: 'me shamo'."
@@ -555,10 +555,10 @@
         {
           "prompt": "Translate casually: 'Hey, everything good?'",
           "options": [
-            "Adiós, che (Greet people the Rioplatense way using che and hola)",
-            "Che, ¿todo bien? (Greet people the Rioplatense way using che and hola)",
-            "Che, ¿cómo te llamás tú? (Greet people the Rioplatense way using che and hola)",
-            "Buenas noches, señor (Greet people the Rioplatense way using che and hola)"
+            "Adiós, che",
+            "Che, ¿todo bien?",
+            "Che, ¿cómo te llamás tú?",
+            "Buenas noches, señor"
           ],
           "answerIndex": 1,
           "explanation": "Che opens the sentence, todo bien is the everyday check-in."
@@ -571,10 +571,10 @@
           "type": "multiple-choice",
           "prompt": "In Rioplatense Spanish, 'll' and 'y' sound like:",
           "options": [
-            "English 'sh' (Greet people the Rioplatense way using che and hola)",
-            "English 'j' (Greet people the Rioplatense way using che and hola)",
-            "They're silent (Greet people the Rioplatense way using che and hola)",
-            "English 'y' (Greet people the Rioplatense way using che and hola)"
+            "English 'sh'",
+            "English 'j'",
+            "They're silent",
+            "English 'y'"
           ],
           "answerIndex": 0,
           "explanation": "Yeísmo rehilado: both sound like 'sh'."
@@ -583,10 +583,10 @@
           "type": "multiple-choice",
           "prompt": "How does the 'v' in vos sound compared to 'b' in bien in Spanish?",
           "options": [
-            "They are phonetically identical bilabial sounds (Greet people the Rioplatense way using che and hola)",
-            "v is biting the lip, b is two lips (Greet people the Rioplatense way using che and hola)",
-            "v is silent (Greet people the Rioplatense way using che and hola)",
-            "b is silent (Greet people the Rioplatense way using che and hola)"
+            "They are phonetically identical bilabial sounds",
+            "v is biting the lip, b is two lips",
+            "v is silent",
+            "b is silent"
           ],
           "answerIndex": 0,
           "explanation": "Spanish merges v and b into the same bilabial phoneme."
@@ -595,10 +595,10 @@
           "type": "multiple-choice",
           "prompt": "Che functions as:",
           "options": [
-            "A number (Greet people the Rioplatense way using che and hola)",
-            "A goodbye phrase (Greet people the Rioplatense way using che and hola)",
-            "A formal greeting only (Greet people the Rioplatense way using che and hola)",
-            "An all-purpose 'hey'/attention-getter (Greet people the Rioplatense way using che and hola)"
+            "A number",
+            "A goodbye phrase",
+            "A formal greeting only",
+            "An all-purpose 'hey'/attention-getter"
           ],
           "answerIndex": 3,
           "explanation": "Che is a ubiquitous interjection, not a formal word."
@@ -607,10 +607,10 @@
           "type": "multiple-choice",
           "prompt": "Reply to ¿Todo bien?",
           "options": [
-            "Chau, nos vemos (Greet people the Rioplatense way using che and hola)",
-            "Un gusto (Greet people the Rioplatense way using che and hola)",
-            "Todo bien (Greet people the Rioplatense way using che and hola)",
-            "Buenas noches (Greet people the Rioplatense way using che and hola)"
+            "Chau, nos vemos",
+            "Un gusto",
+            "Todo bien",
+            "Buenas noches"
           ],
           "answerIndex": 2,
           "explanation": "The standard echoed reply."
@@ -622,7 +622,11 @@
             "Che",
             "che"
           ],
-          "explanation": "Che is the world-famous Argentine interjection."
+          "explanation": "Che is the world-famous Argentine interjection.",
+          "acceptableAnswers": [
+            "Che",
+            "che"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -681,10 +685,10 @@
         {
           "prompt": "Vos ___ de Buenos Aires. (permanent origin)",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "es (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "eres (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "estás",
+            "es",
+            "eres"
           ],
           "answerIndex": 0,
           "explanation": "Origin/identity uses ser → vos sos."
@@ -692,10 +696,10 @@
         {
           "prompt": "¿Cómo ___ hoy? (how do you feel today — temporary)",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "son (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "soy (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "estás",
+            "son",
+            "soy"
           ],
           "answerIndex": 1,
           "explanation": "Temporary states use estar → vos estás."
@@ -703,10 +707,10 @@
         {
           "prompt": "Which voseo form is IDENTICAL to the tú form?",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "tenés (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "hablás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "estás",
+            "tenés",
+            "hablás"
           ],
           "answerIndex": 1,
           "explanation": "estás is the same for tú and vos; the others shift stress and drop a vowel."
@@ -714,10 +718,10 @@
         {
           "prompt": "Vos ___ simpático. (a lasting personality trait)",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "eres (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "está (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "estás",
+            "eres",
+            "está"
           ],
           "answerIndex": 0,
           "explanation": "Personality trait = permanent identity = ser → sos."
@@ -729,10 +733,10 @@
         {
           "prompt": "Why is vos estás identical to tú estás, unlike vos sos vs. tú eres?",
           "options": [
-            "estar's tú form already stresses the final syllable, so voseo's usual stress-shift changes nothing (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estar has no voseo form at all (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás is actually informal slang, not real grammar (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "It's a random exception with no reason (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "estar's tú form already stresses the final syllable, so voseo's usual stress-shift changes nothing",
+            "estar has no voseo form at all",
+            "estás is actually informal slang, not real grammar",
+            "It's a random exception with no reason"
           ],
           "answerIndex": 0,
           "explanation": "This is the phonetic reasoning given directly in the lesson."
@@ -740,10 +744,10 @@
         {
           "prompt": "Translate: 'Are you tired?' (asking a friend, right now)",
           "options": [
-            "¿Sos cansado? (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "¿Eres cansado? (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "¿Está cansado? (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "¿Estás cansado? (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "¿Sos cansado?",
+            "¿Eres cansado?",
+            "¿Está cansado?",
+            "¿Estás cansado?"
           ],
           "answerIndex": 3,
           "explanation": "Tiredness is a temporary state → estar → vos estás."
@@ -751,10 +755,10 @@
         {
           "prompt": "What does porteño specifically identify, compared to argentino?",
           "options": [
-            "Any Argentine, no distinction (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "Someone from Uruguay (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "A type of food (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "Someone from the city of Buenos Aires specifically (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "Any Argentine, no distinction",
+            "Someone from Uruguay",
+            "A type of food",
+            "Someone from the city of Buenos Aires specifically"
           ],
           "answerIndex": 3,
           "explanation": "Porteño narrows to the city of Buenos Aires ('port' city), like 'New Yorker' vs. 'American'."
@@ -766,10 +770,10 @@
         {
           "prompt": "Vos ___ porteño. (identity/origin)",
           "options": [
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "eres (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "son (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "estás",
+            "eres",
+            "son",
+            "sos"
           ],
           "answerIndex": 3,
           "explanation": "ser → vos sos for identity.",
@@ -778,10 +782,10 @@
         {
           "prompt": "¿Vos ___ cansado ahora? (right now)",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "soy (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "es (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "soy",
+            "estás",
+            "es"
           ],
           "answerIndex": 2,
           "explanation": "estar → vos estás for temporary states.",
@@ -790,10 +794,10 @@
         {
           "prompt": "Which verb form is the SAME for tú and vos?",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "vivís (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "hablás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "estás",
+            "vivís",
+            "hablás"
           ],
           "answerIndex": 1,
           "explanation": "estás is unchanged because it was already final-syllable-stressed.",
@@ -802,10 +806,10 @@
         {
           "prompt": "Vos ___ de Rosario. (where you're from — lasting fact)",
           "options": [
-            "sos (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "está (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "estás (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "eres (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "sos",
+            "está",
+            "estás",
+            "eres"
           ],
           "answerIndex": 0,
           "explanation": "Origin uses ser → sos.",
@@ -814,10 +818,10 @@
         {
           "prompt": "Where does sos historically come from?",
           "options": [
-            "A recent internet slang invention (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "It has no historical origin (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "It's borrowed from Italian (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "A fossil of the old vosotros sois form, repurposed when vos became the singular 'you' (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "A recent internet slang invention",
+            "It has no historical origin",
+            "It's borrowed from Italian",
+            "A fossil of the old vosotros sois form, repurposed when vos became the singular 'you'"
           ],
           "answerIndex": 3,
           "explanation": "The mnemonic explains sos as a shrunk-down remnant of vosotros sois.",
@@ -826,10 +830,10 @@
         {
           "prompt": "Porteño means:",
           "options": [
-            "Someone who speaks formally (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "Any Spanish speaker (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "Someone from Buenos Aires city specifically (Use vos sos and vos ests to distinguish identity ser from temporary states estar)",
-            "A type of mate (Use vos sos and vos ests to distinguish identity ser from temporary states estar)"
+            "Someone who speaks formally",
+            "Any Spanish speaker",
+            "Someone from Buenos Aires city specifically",
+            "A type of mate"
           ],
           "answerIndex": 2,
           "explanation": "From puerto — a Buenos Aires-specific identity, narrower than 'argentino'.",
@@ -893,10 +897,10 @@
         {
           "prompt": "¿Cómo te ___? (What's your name? — asking a friend)",
           "options": [
-            "llamas (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "llamo (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "llama (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "llamás (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "llamas",
+            "llamo",
+            "llama",
+            "llamás"
           ],
           "answerIndex": 3,
           "explanation": "Voseo -ar ending: llamás, not llamas."
@@ -904,10 +908,10 @@
         {
           "prompt": "Vos ___ español muy bien. (hablar — you speak)",
           "options": [
-            "hablas (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "hablo (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "habla (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "hablás (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "hablas",
+            "hablo",
+            "habla",
+            "hablás"
           ],
           "answerIndex": 3,
           "explanation": "-ar verbs → -ás ending in voseo."
@@ -915,10 +919,10 @@
         {
           "prompt": "Vos ___ acá. (vivir — you live)",
           "options": [
-            "vives (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "vivo (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "vive (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "vivís (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "vives",
+            "vivo",
+            "vive",
+            "vivís"
           ],
           "answerIndex": 3,
           "explanation": "-ir verbs → -ís ending in voseo."
@@ -927,9 +931,9 @@
           "prompt": "What does me llamo do under voseo?",
           "options": [
             "It stays exactly the same — voseo only affects the tú/vos ('you')",
-            "It becomes me llama (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "It's not used in Argentina (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "It changes to me llamás (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "It becomes me llama",
+            "It's not used in Argentina",
+            "It changes to me llamás"
           ],
           "answerIndex": 0,
           "explanation": "me llamo is 1st person (yo); voseo only touches 2nd person singular."
@@ -941,10 +945,10 @@
         {
           "prompt": "What's the voseo ending pattern for -er verbs, like tener?",
           "options": [
-            "-és → tenés (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "-ás → tenás (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "-ís → tenís (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "No change, stays tienes (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "-és → tenés",
+            "-ás → tenás",
+            "-ís → tenís",
+            "No change, stays tienes"
           ],
           "answerIndex": 0,
           "explanation": "-er verbs land on -és: tú tienes → vos tenés."
@@ -952,10 +956,10 @@
         {
           "prompt": "Translate: 'My name is Florencia, but everyone calls me Flor.'",
           "options": [
-            "Me llamo Florencia, pero todos me dicen Flor. (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "Te llamás Florencia, pero te dicen Flor. (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "Se llama Florencia, pero le dicen Flor. (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "Me llamás Florencia, todos me dice Flor. (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "Me llamo Florencia, pero todos me dicen Flor.",
+            "Te llamás Florencia, pero te dicen Flor.",
+            "Se llama Florencia, pero le dicen Flor.",
+            "Me llamás Florencia, todos me dice Flor."
           ],
           "answerIndex": 0,
           "explanation": "First-person me llamo, unaffected by voseo."
@@ -963,10 +967,10 @@
         {
           "prompt": "Someone asks 'or what do people call you?' right after you give your full name. Why is that typical in Argentina?",
           "options": [
-            "Nicknames are the cultural default — most full names have an expected short form (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "It's rude and unusual (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "It means they didn't hear you (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "Only children get nicknames (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "Nicknames are the cultural default — most full names have an expected short form",
+            "It's rude and unusual",
+            "It means they didn't hear you",
+            "Only children get nicknames"
           ],
           "answerIndex": 0,
           "explanation": "This matches the cultural note about nicknames being the norm, not the exception."
@@ -978,10 +982,10 @@
         {
           "prompt": "¿Cómo te ___?",
           "options": [
-            "llama (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "llamas (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "llamás (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "llamo (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "llama",
+            "llamas",
+            "llamás",
+            "llamo"
           ],
           "answerIndex": 2,
           "explanation": "Voseo -ar → -ás: llamás.",
@@ -990,10 +994,10 @@
         {
           "prompt": "Vos ___ bien. (hablar)",
           "options": [
-            "hablas (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "hablás (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "hable (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "hablo (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "hablas",
+            "hablás",
+            "hable",
+            "hablo"
           ],
           "answerIndex": 1,
           "explanation": "-ar verbs → -ás in voseo.",
@@ -1002,10 +1006,10 @@
         {
           "prompt": "Vos ___ hambre. (tener — to have)",
           "options": [
-            "tenés (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "tienes (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "tiene (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "tengo (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "tenés",
+            "tienes",
+            "tiene",
+            "tengo"
           ],
           "answerIndex": 0,
           "explanation": "-er verbs → -és in voseo: tenés.",
@@ -1014,10 +1018,10 @@
         {
           "prompt": "Vos ___ acá hace un año. (vivir)",
           "options": [
-            "vive (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "vives (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "vivo (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "vivís (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "vive",
+            "vives",
+            "vivo",
+            "vivís"
           ],
           "answerIndex": 3,
           "explanation": "-ir verbs → -ís in voseo: vivís.",
@@ -1026,10 +1030,10 @@
         {
           "prompt": "Does 'me llamo' change under voseo?",
           "options": [
-            "Yes, it becomes me llama (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "Yes, it becomes me llamás (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "No, it's a 1st-person form and voseo only affects 2nd person (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "It's not used at all in Argentina (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "Yes, it becomes me llama",
+            "Yes, it becomes me llamás",
+            "No, it's a 1st-person form and voseo only affects 2nd person",
+            "It's not used at all in Argentina"
           ],
           "answerIndex": 2,
           "explanation": "Voseo only touches the 'you' (2nd person singular) form.",
@@ -1038,10 +1042,10 @@
         {
           "prompt": "The three voseo stress vowels, one per verb family, are:",
           "options": [
-            "a, e, o (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "á, é, í (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "í, é, á in reverse order only (Introduce yourself and ask someones name using the voseo form Cmo te llams)",
-            "There's only one ending for all verbs (Introduce yourself and ask someones name using the voseo form Cmo te llams)"
+            "a, e, o",
+            "á, é, í",
+            "í, é, á in reverse order only",
+            "There's only one ending for all verbs"
           ],
           "answerIndex": 1,
           "explanation": "The mnemonic: á for -ar, é for -er, í for -ir.",
@@ -1112,10 +1116,10 @@
         {
           "prompt": "¿De dónde ___? (asking a friend where they're from)",
           "options": [
-            "sos (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "es (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "soy (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "eres (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "sos",
+            "es",
+            "soy",
+            "eres"
           ],
           "answerIndex": 0,
           "explanation": "Voseo ser: ¿de dónde sos?"
@@ -1123,10 +1127,10 @@
         {
           "prompt": "___ de Rosario. (I'm from Rosario)",
           "options": [
-            "Soy (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Es (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Estoy (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Sos (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Soy",
+            "Es",
+            "Estoy",
+            "Sos"
           ],
           "answerIndex": 0,
           "explanation": "Soy is the yo (I) form of ser, unaffected by voseo."
@@ -1134,10 +1138,10 @@
         {
           "prompt": "What's the everyday Rioplatense word for 'here'?",
           "options": [
-            "acá (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "allá (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "aquí (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "ahí (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "acá",
+            "allá",
+            "aquí",
+            "ahí"
           ],
           "answerIndex": 0,
           "explanation": "acá is the casual default; aquí sounds more formal/bookish."
@@ -1145,10 +1149,10 @@
         {
           "prompt": "How do you say 'I'm not from another province'?",
           "options": [
-            "No soy de otra provincia (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Nunca soy provincia (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Soy no de otra provincia (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "No sos de otra provincia (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "No soy de otra provincia",
+            "Nunca soy provincia",
+            "Soy no de otra provincia",
+            "No sos de otra provincia"
           ],
           "answerIndex": 0,
           "explanation": "Negation: no goes directly before the conjugated verb."
@@ -1160,10 +1164,10 @@
         {
           "prompt": "What is Baires shorthand for?",
           "options": [
-            "Buenos Aires (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "A type of mate (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "A province name (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "A greeting (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Buenos Aires",
+            "A type of mate",
+            "A province name",
+            "A greeting"
           ],
           "answerIndex": 0,
           "explanation": "Baires is casual shorthand for the city of Buenos Aires."
@@ -1171,10 +1175,10 @@
         {
           "prompt": "Translate: 'I live here in Buenos Aires for three years.' (i.e., I've lived here three years)",
           "options": [
-            "Vivo acá en Buenos Aires hace tres años. (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Vivo aquí en Buenos Aires con tres años. (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Soy acá en Buenos Aires hace tres años. (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Vivís acá en Buenos Aires hace tres años. (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Vivo acá en Buenos Aires hace tres años.",
+            "Vivo aquí en Buenos Aires con tres años.",
+            "Soy acá en Buenos Aires hace tres años.",
+            "Vivís acá en Buenos Aires hace tres años."
           ],
           "answerIndex": 0,
           "explanation": "vivo (I live) + acá + hace tres años (for three years)."
@@ -1182,10 +1186,10 @@
         {
           "prompt": "Why might mentioning Rosario prompt a soccer comment from a porteño?",
           "options": [
-            "Rosario has no connection to soccer (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "It's the birthplace of Lionel Messi, and there's a friendly city rivalry (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Soccer is never discussed casually (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Rosario is not a real city (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Rosario has no connection to soccer",
+            "It's the birthplace of Lionel Messi, and there's a friendly city rivalry",
+            "Soccer is never discussed casually",
+            "Rosario is not a real city"
           ],
           "answerIndex": 1,
           "explanation": "This is the cultural detail given in the lesson's notes."
@@ -1197,10 +1201,10 @@
         {
           "prompt": "¿De dónde ___, che?",
           "options": [
-            "eres (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "sos (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "es (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "estás (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "eres",
+            "sos",
+            "es",
+            "estás"
           ],
           "answerIndex": 1,
           "explanation": "Voseo ser for origin: sos.",
@@ -1209,10 +1213,10 @@
         {
           "prompt": "___ de Buenos Aires. (I am from Buenos Aires)",
           "options": [
-            "Soy (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Sos (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Es (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Somos (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Soy",
+            "Sos",
+            "Es",
+            "Somos"
           ],
           "answerIndex": 0,
           "explanation": "Soy = yo form, same across dialects.",
@@ -1221,10 +1225,10 @@
         {
           "prompt": "Default Rioplatense word for 'here':",
           "options": [
-            "ahí (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "aquí (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "acullá (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "acá (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "ahí",
+            "aquí",
+            "acullá",
+            "acá"
           ],
           "answerIndex": 3,
           "explanation": "acá is the everyday casual choice.",
@@ -1233,10 +1237,10 @@
         {
           "prompt": "'I'm not from another province':",
           "options": [
-            "Soy no otra provincia (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "No sos otra provincia (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "No soy de otra provincia (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Otra provincia no soy (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Soy no otra provincia",
+            "No sos otra provincia",
+            "No soy de otra provincia",
+            "Otra provincia no soy"
           ],
           "answerIndex": 2,
           "explanation": "no + conjugated verb.",
@@ -1245,10 +1249,10 @@
         {
           "prompt": "Baires refers to:",
           "options": [
-            "A type of greeting (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Buenos Aires (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "A province (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "A dance style (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "A type of greeting",
+            "Buenos Aires",
+            "A province",
+            "A dance style"
           ],
           "answerIndex": 1,
           "explanation": "Casual nickname for the city.",
@@ -1257,10 +1261,10 @@
         {
           "prompt": "de acá nomás roughly means:",
           "options": [
-            "Right from here, plain and simple (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "From very far away (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "From another country entirely (State your nationality and origin using ser de  place with voseo de dnde sos)",
-            "Never from here (State your nationality and origin using ser de  place with voseo de dnde sos)"
+            "Right from here, plain and simple",
+            "From very far away",
+            "From another country entirely",
+            "Never from here"
           ],
           "answerIndex": 0,
           "explanation": "nomás adds a casual 'just/simply' emphasis.",
@@ -1340,10 +1344,10 @@
         {
           "prompt": "Put in order: greeting → asking name → asking origin. Which comes first?",
           "options": [
-            "¡Che, hola! ¿Todo bien? (Combine greetings)",
-            "¿De dónde sos? (Combine greetings)",
-            "¿Cómo te llamás? (Combine greetings)",
-            "Dale, gracias (Combine greetings)"
+            "¡Che, hola! ¿Todo bien?",
+            "¿De dónde sos?",
+            "¿Cómo te llamás?",
+            "Dale, gracias"
           ],
           "answerIndex": 0,
           "explanation": "A conversation naturally opens with a greeting before names or origin."
@@ -1351,10 +1355,10 @@
         {
           "prompt": "What does dale mean in 'Tomás unos mates? — ¡Dale!'?",
           "options": [
-            "No, thanks (Combine greetings)",
-            "Sure/okay, an enthusiastic agreement (Combine greetings)",
-            "Goodbye (Combine greetings)",
-            "I don't understand (Combine greetings)"
+            "No, thanks",
+            "Sure/okay, an enthusiastic agreement",
+            "Goodbye",
+            "I don't understand"
           ],
           "answerIndex": 1,
           "explanation": "Dale is a flexible word for agreement/enthusiasm."
@@ -1362,10 +1366,10 @@
         {
           "prompt": "Todo re bien — what is re doing here?",
           "options": [
-            "Intensifying bien, roughly 'really good' (Combine greetings)",
-            "Negating bien (Combine greetings)",
-            "Making it a question (Combine greetings)",
-            "It's a typo for 'muy' with no meaning (Combine greetings)"
+            "Intensifying bien, roughly 'really good'",
+            "Negating bien",
+            "Making it a question",
+            "It's a typo for 'muy' with no meaning"
           ],
           "answerIndex": 0,
           "explanation": "re is a casual intensifier prefix."
@@ -1374,9 +1378,9 @@
           "prompt": "Why should you be cautious using boludo with someone you just met?",
           "options": [
             "It can range from affectionate (close friends)",
-            "It's only used in writing (Combine greetings)",
-            "It's always neutral, no risk at all (Combine greetings)",
-            "It's a formal, polite word (Combine greetings)"
+            "It's only used in writing",
+            "It's always neutral, no risk at all",
+            "It's a formal, polite word"
           ],
           "answerIndex": 0,
           "explanation": "The register warning is explicit in the lesson."
@@ -1388,10 +1392,10 @@
         {
           "prompt": "Write the voseo question for 'What's your name?'",
           "options": [
-            "¿Cómo te llamás? (Combine greetings)",
-            "¿Cómo se llama? (Combine greetings)",
-            "¿Cómo os llamáis? (Combine greetings)",
-            "¿Cómo te llamas? (Combine greetings)"
+            "¿Cómo te llamás?",
+            "¿Cómo se llama?",
+            "¿Cómo os llamáis?",
+            "¿Cómo te llamas?"
           ],
           "answerIndex": 0,
           "explanation": "Voseo: te llamás, not te llamas."
@@ -1399,10 +1403,10 @@
         {
           "prompt": "What social gesture does accepting shared mate represent?",
           "options": [
-            "Nothing, it's purely functional (Combine greetings)",
-            "An insult to the host (Combine greetings)",
-            "A formal business agreement (Combine greetings)",
-            "A small, genuine gesture of joining the group (Combine greetings)"
+            "Nothing, it's purely functional",
+            "An insult to the host",
+            "A formal business agreement",
+            "A small, genuine gesture of joining the group"
           ],
           "answerIndex": 3,
           "explanation": "This is the cultural meaning given in the lesson's notes."
@@ -1410,10 +1414,10 @@
         {
           "prompt": "Combine: greet someone, ask how they are, ask their name, ask where they're from — pick the best full sequence.",
           "options": [
-            "¡Che, hola! ¿Todo bien? ¿Cómo te llamás? ¿De dónde sos? (Combine greetings)",
-            "¿Todo bien? ¿De dónde sos? ¡Che, hola! ¿Cómo te llamás? (Combine greetings)",
-            "¿De dónde sos? ¡Che, hola! ¿Cómo te llamás? ¿Todo bien? (Combine greetings)",
-            "¿Cómo te llamás? ¿De dónde sos? ¡Che, hola! ¿Todo bien? (Combine greetings)"
+            "¡Che, hola! ¿Todo bien? ¿Cómo te llamás? ¿De dónde sos?",
+            "¿Todo bien? ¿De dónde sos? ¡Che, hola! ¿Cómo te llamás?",
+            "¿De dónde sos? ¡Che, hola! ¿Cómo te llamás? ¿Todo bien?",
+            "¿Cómo te llamás? ¿De dónde sos? ¡Che, hola! ¿Todo bien?"
           ],
           "answerIndex": 0,
           "explanation": "The natural order matches how the unit built up: greet, check in, name, origin."
@@ -1425,10 +1429,10 @@
         {
           "prompt": "¡Che, hola! ¿Todo bien? is best translated as:",
           "options": [
-            "Hey, hi! Everything good? (Combine greetings)",
-            "What's your name? (Combine greetings)",
-            "Where are you from? (Combine greetings)",
-            "Goodbye, see you later (Combine greetings)"
+            "Hey, hi! Everything good?",
+            "What's your name?",
+            "Where are you from?",
+            "Goodbye, see you later"
           ],
           "answerIndex": 0,
           "explanation": "Standard casual Rioplatense greeting exchange.",
@@ -1437,10 +1441,10 @@
         {
           "prompt": "Voseo form of 'What's your name?':",
           "options": [
-            "¿Cómo te llamas? (Combine greetings)",
-            "¿Cómo os llamáis? (Combine greetings)",
-            "¿Cómo se llaman? (Combine greetings)",
-            "¿Cómo te llamás? (Combine greetings)"
+            "¿Cómo te llamas?",
+            "¿Cómo os llamáis?",
+            "¿Cómo se llaman?",
+            "¿Cómo te llamás?"
           ],
           "answerIndex": 3,
           "explanation": "Voseo -ar ending: llamás.",
@@ -1449,10 +1453,10 @@
         {
           "prompt": "Dale in response to an invitation means roughly:",
           "options": [
-            "No way (Combine greetings)",
-            "Goodbye (Combine greetings)",
-            "Sure/okay (Combine greetings)",
-            "I don't know (Combine greetings)"
+            "No way",
+            "Goodbye",
+            "Sure/okay",
+            "I don't know"
           ],
           "answerIndex": 2,
           "explanation": "Dale is an enthusiastic agreement word.",
@@ -1461,10 +1465,10 @@
         {
           "prompt": "re bien means:",
           "options": [
-            "Not good (Combine greetings)",
-            "Really good (Combine greetings)",
-            "Bad (Combine greetings)",
-            "Sort of good (Combine greetings)"
+            "Not good",
+            "Really good",
+            "Bad",
+            "Sort of good"
           ],
           "answerIndex": 1,
           "explanation": "re intensifies the adjective/adverb.",
@@ -1473,10 +1477,10 @@
         {
           "prompt": "Sharing mate in a group is best understood as:",
           "options": [
-            "A real social ritual — accepting is a small gesture of joining the group (Combine greetings)",
-            "An insult if you accept (Combine greetings)",
-            "Only done alone, never in groups (Combine greetings)",
-            "A meaningless routine (Combine greetings)"
+            "A real social ritual — accepting is a small gesture of joining the group",
+            "An insult if you accept",
+            "Only done alone, never in groups",
+            "A meaningless routine"
           ],
           "answerIndex": 0,
           "explanation": "The cultural note on mate explains this directly.",
@@ -1485,10 +1489,10 @@
         {
           "prompt": "Using boludo with a total stranger, in the wrong tone, could be:",
           "options": [
-            "Always perfectly safe (Combine greetings)",
-            "Required as a formal greeting (Combine greetings)",
-            "A compliment in every context (Combine greetings)",
-            "Genuinely insulting — the word's meaning depends heavily on relationship and tone (Combine greetings)"
+            "Always perfectly safe",
+            "Required as a formal greeting",
+            "A compliment in every context",
+            "Genuinely insulting — the word's meaning depends heavily on relationship and tone"
           ],
           "answerIndex": 3,
           "explanation": "The lesson explicitly warns about this register risk.",
@@ -1558,10 +1562,10 @@
         {
           "prompt": "How do you say '15' in Spanish?",
           "options": [
-            "catorce (Count from zero to veinte)",
-            "dieciséis (Count from zero to veinte)",
-            "quisce (Count from zero to veinte)",
-            "quince (Count from zero to veinte)"
+            "catorce",
+            "dieciséis",
+            "quisce",
+            "quince"
           ],
           "answerIndex": 3,
           "explanation": "Quince (15) belongs to the once–quince fossil block."
@@ -1569,10 +1573,10 @@
         {
           "prompt": "How do you say '17' in Spanish?",
           "options": [
-            "decisiete (Count from zero to veinte)",
-            "diez siete (Count from zero to veinte)",
-            "diecisiete (Count from zero to veinte)",
-            "diecisieta (Count from zero to veinte)"
+            "decisiete",
+            "diez siete",
+            "diecisiete",
+            "diecisieta"
           ],
           "answerIndex": 2,
           "explanation": "17 is a diez y siete compound, written diecisiete."
@@ -1580,10 +1584,10 @@
         {
           "prompt": "Tengo diecinueve años. How old is the speaker?",
           "options": [
-            "90 (Count from zero to veinte)",
-            "19 (Count from zero to veinte)",
-            "16 (Count from zero to veinte)",
-            "9 (Count from zero to veinte)"
+            "90",
+            "19",
+            "16",
+            "9"
           ],
           "answerIndex": 1,
           "explanation": "Diecinueve = 19 (diez y nueve)."
@@ -1591,10 +1595,10 @@
         {
           "prompt": "Which of these numbers does NOT follow the 'diez y' compound pattern?",
           "options": [
-            "diecisiete (Count from zero to veinte)",
-            "doce (Count from zero to veinte)",
-            "dieciocho (Count from zero to veinte)",
-            "dieciséis (Count from zero to veinte)"
+            "diecisiete",
+            "doce",
+            "dieciocho",
+            "dieciséis"
           ],
           "answerIndex": 1,
           "explanation": "Doce (12) is in the fossilized once–quince block, not a diez y compound."
@@ -1602,10 +1606,10 @@
         {
           "prompt": "Quiero ___ mate. (I want a mate — mate is masculine)",
           "options": [
-            "una (Count from zero to veinte)",
-            "un (Count from zero to veinte)",
-            "unos (Count from zero to veinte)",
-            "uno (Count from zero to veinte)"
+            "una",
+            "un",
+            "unos",
+            "uno"
           ],
           "answerIndex": 1,
           "explanation": "Uno shortens to un right before a masculine singular noun."
@@ -1617,10 +1621,10 @@
         {
           "prompt": "Translate: 'twelve empanadas'",
           "options": [
-            "dos empanadas (Count from zero to veinte)",
-            "diez empanadas (Count from zero to veinte)",
-            "doce empanada (Count from zero to veinte)",
-            "doce empanadas (Count from zero to veinte)"
+            "dos empanadas",
+            "diez empanadas",
+            "doce empanada",
+            "doce empanadas"
           ],
           "answerIndex": 3,
           "explanation": "Doce = 12; empanadas stays plural."
@@ -1628,10 +1632,10 @@
         {
           "prompt": "Which is the correct spelling of 16?",
           "options": [
-            "dieciseiz (Count from zero to veinte)",
-            "diez y seis (Count from zero to veinte)",
-            "dieciséis (Count from zero to veinte)",
-            "diesiseis (Count from zero to veinte)"
+            "dieciseiz",
+            "diez y seis",
+            "dieciséis",
+            "diesiseis"
           ],
           "answerIndex": 2,
           "explanation": "The compound is written as one word with an accent: dieciséis."
@@ -1639,10 +1643,10 @@
         {
           "prompt": "Uno changes to un when:",
           "options": [
-            "It precedes a feminine noun (Count from zero to veinte)",
-            "It directly precedes a masculine singular noun (Count from zero to veinte)",
-            "It never changes (Count from zero to veinte)",
-            "It's used to count out loud, alone (Count from zero to veinte)"
+            "It precedes a feminine noun",
+            "It directly precedes a masculine singular noun",
+            "It never changes",
+            "It's used to count out loud, alone"
           ],
           "answerIndex": 1,
           "explanation": "Un mate, un café — the shortened form appears only right before a masculine singular noun."
@@ -1654,10 +1658,10 @@
         {
           "prompt": "¿Cuántos años tenés? asks:",
           "options": [
-            "Where are you from? (Count from zero to veinte)",
-            "What's your name? (Count from zero to veinte)",
-            "How are you feeling? (Count from zero to veinte)",
-            "How old are you? (Count from zero to veinte)"
+            "Where are you from?",
+            "What's your name?",
+            "How are you feeling?",
+            "How old are you?"
           ],
           "answerIndex": 3,
           "explanation": "Age is expressed with tener, literally 'how many years do you have'.",
@@ -1666,10 +1670,10 @@
         {
           "prompt": "11 in Spanish is:",
           "options": [
-            "unce (Count from zero to veinte)",
-            "diez y uno (Count from zero to veinte)",
-            "once (Count from zero to veinte)",
-            "doce (Count from zero to veinte)"
+            "unce",
+            "diez y uno",
+            "once",
+            "doce"
           ],
           "answerIndex": 2,
           "explanation": "Once is the fossilized Latin-derived form for 11.",
@@ -1678,10 +1682,10 @@
         {
           "prompt": "20 in Spanish is:",
           "options": [
-            "veintidós (Count from zero to veinte)",
-            "veinte (Count from zero to veinte)",
-            "docena (Count from zero to veinte)",
-            "diecinueve (Count from zero to veinte)"
+            "veintidós",
+            "veinte",
+            "docena",
+            "diecinueve"
           ],
           "answerIndex": 1,
           "explanation": "Veinte (20) stands alone, not a compound.",
@@ -1690,10 +1694,10 @@
         {
           "prompt": "18 in Spanish is:",
           "options": [
-            "dieciocho (Count from zero to veinte)",
-            "dieciseis (Count from zero to veinte)",
-            "ochenta (Count from zero to veinte)",
-            "diecisiete (Count from zero to veinte)"
+            "dieciocho",
+            "dieciseis",
+            "ochenta",
+            "diecisiete"
           ],
           "answerIndex": 0,
           "explanation": "Dieciocho = diez y ocho compounded.",
@@ -1702,10 +1706,10 @@
         {
           "prompt": "How do Argentines typically read out a phone number or DNI?",
           "options": [
-            "Never spoken aloud, only written (Count from zero to veinte)",
-            "Only in pairs, never single digits (Count from zero to veinte)",
-            "Using Roman numerals (Count from zero to veinte)",
-            "Digit by digit (Count from zero to veinte)"
+            "Never spoken aloud, only written",
+            "Only in pairs, never single digits",
+            "Using Roman numerals",
+            "Digit by digit"
           ],
           "answerIndex": 3,
           "explanation": "The cultural note describes the digit-by-digit convention.",
@@ -1714,10 +1718,10 @@
         {
           "prompt": "Quiero ___ cerveza. (cerveza is feminine)",
           "options": [
-            "unos (Count from zero to veinte)",
-            "uno (Count from zero to veinte)",
-            "una (Count from zero to veinte)",
-            "un (Count from zero to veinte)"
+            "unos",
+            "uno",
+            "una",
+            "un"
           ],
           "answerIndex": 2,
           "explanation": "Uno becomes una before a feminine noun.",
@@ -1793,10 +1797,10 @@
         {
           "prompt": "How do you say 24 in Spanish?",
           "options": [
-            "veinticuatro (Count in tens from veinte to cien)",
-            "veinte y cuatro (Count in tens from veinte to cien)",
-            "veinte cuatro (Count in tens from veinte to cien)",
-            "cuatroveinte (Count in tens from veinte to cien)"
+            "veinticuatro",
+            "veinte y cuatro",
+            "veinte cuatro",
+            "cuatroveinte"
           ],
           "answerIndex": 0,
           "explanation": "21–29 fuse into one word with veinti-, no y."
@@ -1804,10 +1808,10 @@
         {
           "prompt": "How do you say 45 in Spanish?",
           "options": [
-            "cuarenta y cinco (Count in tens from veinte to cien)",
-            "cuarenticinco (Count in tens from veinte to cien)",
-            "cuarenta cinco (Count in tens from veinte to cien)",
-            "cuatro cinco (Count in tens from veinte to cien)"
+            "cuarenta y cinco",
+            "cuarenticinco",
+            "cuarenta cinco",
+            "cuatro cinco"
           ],
           "answerIndex": 0,
           "explanation": "From 31 onward, tens and units stay as separate words joined by y."
@@ -1815,10 +1819,10 @@
         {
           "prompt": "Pagué doscientos ___ por la entrada. (pesos, masculine)",
           "options": [
-            "pesos (Count in tens from veinte to cien)",
-            "peso (Count in tens from veinte to cien)",
-            "pesoss (Count in tens from veinte to cien)",
-            "pesas (Count in tens from veinte to cien)"
+            "pesos",
+            "peso",
+            "pesoss",
+            "pesas"
           ],
           "answerIndex": 0,
           "explanation": "Doscientos (masc.) pairs with pesos; pesos is simply the plural noun."
@@ -1826,10 +1830,10 @@
         {
           "prompt": "Había ___ personas en la fiesta. (200, personas is feminine)",
           "options": [
-            "doscientas (Count in tens from veinte to cien)",
-            "doscientos (Count in tens from veinte to cien)",
-            "dosciento (Count in tens from veinte to cien)",
-            "doscientes (Count in tens from veinte to cien)"
+            "doscientas",
+            "doscientos",
+            "dosciento",
+            "doscientes"
           ],
           "answerIndex": 0,
           "explanation": "-cientos agrees in gender with its noun: doscientas personas."
@@ -1837,10 +1841,10 @@
         {
           "prompt": "In lunfardo, una luca means:",
           "options": [
-            "1.000 pesos (Count in tens from veinte to cien)",
-            "100 pesos (Count in tens from veinte to cien)",
-            "1.000.000 pesos (Count in tens from veinte to cien)",
-            "10 pesos (Count in tens from veinte to cien)"
+            "1.000 pesos",
+            "100 pesos",
+            "1.000.000 pesos",
+            "10 pesos"
           ],
           "answerIndex": 0,
           "explanation": "Una luca = one thousand pesos."
@@ -1852,10 +1856,10 @@
         {
           "prompt": "How would you write 500 (irregular hundred)?",
           "options": [
-            "cincocientos (Count in tens from veinte to cien)",
-            "cincuentos (Count in tens from veinte to cien)",
-            "cienquinientos (Count in tens from veinte to cien)",
-            "quinientos (Count in tens from veinte to cien)"
+            "cincocientos",
+            "cincuentos",
+            "cienquinientos",
+            "quinientos"
           ],
           "answerIndex": 3,
           "explanation": "Quinientos is an irregular form, not built regularly from cinco + cientos."
@@ -1863,10 +1867,10 @@
         {
           "prompt": "Which is correct: 'cien' or 'ciento' right before a noun?",
           "options": [
-            "ciento pesos (Count in tens from veinte to cien)",
-            "cien de pesos (Count in tens from veinte to cien)",
-            "cientos peso (Count in tens from veinte to cien)",
-            "cien pesos (Count in tens from veinte to cien)"
+            "ciento pesos",
+            "cien de pesos",
+            "cientos peso",
+            "cien pesos"
           ],
           "answerIndex": 3,
           "explanation": "Cien stands alone directly before a noun; ciento only appears before another number (ciento diez)."
@@ -1874,10 +1878,10 @@
         {
           "prompt": "Translate: 'The car cost about five million.' (colloquial)",
           "options": [
-            "El auto salió como cinco lucas. (Count in tens from veinte to cien)",
-            "El auto salió como cinco mangos. (Count in tens from veinte to cien)",
-            "El auto salió como cinco cientos. (Count in tens from veinte to cien)",
-            "El auto salió como cinco palos. (Count in tens from veinte to cien)"
+            "El auto salió como cinco lucas.",
+            "El auto salió como cinco mangos.",
+            "El auto salió como cinco cientos.",
+            "El auto salió como cinco palos."
           ],
           "answerIndex": 3,
           "explanation": "Un palo is lunfardo for a million; cinco palos = five million."
@@ -1889,10 +1893,10 @@
         {
           "prompt": "27 in Spanish is:",
           "options": [
-            "siete veinte (Count in tens from veinte to cien)",
-            "veintesiete (Count in tens from veinte to cien)",
-            "veintisiete (Count in tens from veinte to cien)",
-            "veinte y siete (Count in tens from veinte to cien)"
+            "siete veinte",
+            "veintesiete",
+            "veintisiete",
+            "veinte y siete"
           ],
           "answerIndex": 2,
           "explanation": "21–29 fuse without y: veintisiete.",
@@ -1901,10 +1905,10 @@
         {
           "prompt": "56 in Spanish is:",
           "options": [
-            "cinco y seis (Count in tens from veinte to cien)",
-            "cincuenta y seis (Count in tens from veinte to cien)",
-            "cincuenta seis (Count in tens from veinte to cien)",
-            "cincuentiseis (Count in tens from veinte to cien)"
+            "cinco y seis",
+            "cincuenta y seis",
+            "cincuenta seis",
+            "cincuentiseis"
           ],
           "answerIndex": 1,
           "explanation": "From 31 up, tens + y + unit stay as separate words.",
@@ -1913,10 +1917,10 @@
         {
           "prompt": "150 in Spanish is:",
           "options": [
-            "ciento cincuenta (Count in tens from veinte to cien)",
-            "cien y cincuenta (Count in tens from veinte to cien)",
-            "cien cincuenta (Count in tens from veinte to cien)",
-            "cientos cincuenta (Count in tens from veinte to cien)"
+            "ciento cincuenta",
+            "cien y cincuenta",
+            "cien cincuenta",
+            "cientos cincuenta"
           ],
           "answerIndex": 0,
           "explanation": "Ciento is used when another number follows, not cien.",
@@ -1925,10 +1929,10 @@
         {
           "prompt": "Compré trescientas ___. (entradas — tickets, feminine)",
           "options": [
-            "entrados (Count in tens from veinte to cien)",
-            "entrada (Count in tens from veinte to cien)",
-            "entrado (Count in tens from veinte to cien)",
-            "entradas (Count in tens from veinte to cien)"
+            "entrados",
+            "entrada",
+            "entrado",
+            "entradas"
           ],
           "answerIndex": 3,
           "explanation": "Trescientas agrees with the feminine noun entradas.",
@@ -1937,10 +1941,10 @@
         {
           "prompt": "2.000 in Spanish is:",
           "options": [
-            "dos miles (Count in tens from veinte to cien)",
-            "dos mills (Count in tens from veinte to cien)",
-            "dos mil (Count in tens from veinte to cien)",
-            "dosmil (Count in tens from veinte to cien)"
+            "dos miles",
+            "dos mills",
+            "dos mil",
+            "dosmil"
           ],
           "answerIndex": 2,
           "explanation": "Mil never pluralizes after a number: dos mil, not dos miles.",
@@ -1949,10 +1953,10 @@
         {
           "prompt": "No tengo un mango means roughly:",
           "options": [
-            "I don't like fruit (Count in tens from veinte to cien)",
-            "I'm completely broke (Count in tens from veinte to cien)",
-            "I'm not hungry (Count in tens from veinte to cien)",
-            "I don't have a car (Count in tens from veinte to cien)"
+            "I don't like fruit",
+            "I'm completely broke",
+            "I'm not hungry",
+            "I don't have a car"
           ],
           "answerIndex": 1,
           "explanation": "Mango is lunfardo slang for money/a peso; the phrase means being out of money.",
@@ -1999,10 +2003,10 @@
         {
           "prompt": "How do you say 4:30 in Argentine Spanish?",
           "options": [
-            "Es la cuatro y media. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las cuatro y medio. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las cuatro con treinta. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las cuatro y media. (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "Es la cuatro y media.",
+            "Son las cuatro y medio.",
+            "Son las cuatro con treinta.",
+            "Son las cuatro y media."
           ],
           "answerIndex": 3,
           "explanation": "4:30 takes plural 'Son las' + 'cuatro y media'."
@@ -2010,10 +2014,10 @@
         {
           "prompt": "How do you say 6:45 (quarter to seven)?",
           "options": [
-            "Son las seis y cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las siete y cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las seis menos cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las siete menos cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "Son las seis y cuarto.",
+            "Son las siete y cuarto.",
+            "Son las seis menos cuarto.",
+            "Son las siete menos cuarto."
           ],
           "answerIndex": 3,
           "explanation": "6:45 is 'Son las siete menos cuarto' (seven minus a quarter)."
@@ -2021,10 +2025,10 @@
         {
           "prompt": "How do you ask 'Do you have the time?' in natural Buenos Aires voseo?",
           "options": [
-            "¿Tienes hora? (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "¿Tiene usted tiempo? (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "¿Hora qué es? (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "¿Tenés hora? (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "¿Tienes hora?",
+            "¿Tiene usted tiempo?",
+            "¿Hora qué es?",
+            "¿Tenés hora?"
           ],
           "answerIndex": 3,
           "explanation": "'¿Tenés hora?' uses the authentic Argentine voseo form of tener."
@@ -2036,10 +2040,10 @@
         {
           "prompt": "Translate: 'The meeting is at 1:00 PM.'",
           "options": [
-            "La reunión es a la una de la tarde. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "La reunión es a las una de la tarde. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "La reunión es en la una de la tarde. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "La reunión son a la una. (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "La reunión es a la una de la tarde.",
+            "La reunión es a las una de la tarde.",
+            "La reunión es en la una de la tarde.",
+            "La reunión son a la una."
           ],
           "answerIndex": 0,
           "explanation": "1:00 is feminine singular: 'a la una de la tarde'."
@@ -2047,10 +2051,10 @@
         {
           "prompt": "What does the expression 'a eso de las ocho' mean in Argentina?",
           "options": [
-            "Around eight o'clock (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Exactly at 8:00 sharp (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Before 8:00 (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "After 8:00 tomorrow (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "Around eight o'clock",
+            "Exactly at 8:00 sharp",
+            "Before 8:00",
+            "After 8:00 tomorrow"
           ],
           "answerIndex": 0,
           "explanation": "'a eso de las...' expresses approximate time ('around...')."
@@ -2062,10 +2066,10 @@
         {
           "prompt": "¿Qué hora es? (1:30)",
           "options": [
-            "Son la una y media. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Es la una y media. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las una y media. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Es las una y media. (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "Son la una y media.",
+            "Es la una y media.",
+            "Son las una y media.",
+            "Es las una y media."
           ],
           "answerIndex": 1,
           "explanation": "1:30 uses singular 'Es la una y media'.",
@@ -2074,10 +2078,10 @@
         {
           "prompt": "¿Qué hora es? (8:45)",
           "options": [
-            "Son las nueve menos cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las ocho menos cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Es la nueve menos cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Son las nueve y cuarto. (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "Son las nueve menos cuarto.",
+            "Son las ocho menos cuarto.",
+            "Es la nueve menos cuarto.",
+            "Son las nueve y cuarto."
           ],
           "answerIndex": 0,
           "explanation": "8:45 is 'Son las nueve menos cuarto'.",
@@ -2086,10 +2090,10 @@
         {
           "prompt": "Completá la frase en voseo: 'Che, ¿a qué hora ___ del laburo?' (salir)",
           "options": [
-            "sale (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "sales (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "salgo (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "salís (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "sale",
+            "sales",
+            "salgo",
+            "salís"
           ],
           "answerIndex": 3,
           "explanation": "Voseo of salir is 'salís' (stressed on final syllable).",
@@ -2098,10 +2102,10 @@
         {
           "prompt": "'Es el mediodía' significa:",
           "options": [
-            "It is late afternoon (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "It is midnight (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "It is 12:00 PM (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "It is morning (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "It is late afternoon",
+            "It is midnight",
+            "It is 12:00 PM",
+            "It is morning"
           ],
           "answerIndex": 2,
           "explanation": "Mediodía is midday / noon.",
@@ -2110,10 +2114,10 @@
         {
           "prompt": "¿A qué hora suele cenar la gente en Argentina?",
           "options": [
-            "Temprano, a las 17:00 (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "Tarde, alrededor de las 21:30 a 22:30 (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "A las 12:00 del mediodía (Can ask and tell time in Rioplatense Spanish using Qu hora es)",
-            "A las 6:00 de la mañana (Can ask and tell time in Rioplatense Spanish using Qu hora es)"
+            "Temprano, a las 17:00",
+            "Tarde, alrededor de las 21:30 a 22:30",
+            "A las 12:00 del mediodía",
+            "A las 6:00 de la mañana"
           ],
           "answerIndex": 1,
           "explanation": "Argentine dinner culture is famously late.",
@@ -2160,10 +2164,10 @@
         {
           "prompt": "How do you say 'on Friday' in Spanish?",
           "options": [
-            "el viernes (Can name all days of the week and months of the year in Argentine Spanish)",
-            "a viernes (Can name all days of the week and months of the year in Argentine Spanish)",
-            "por viernes (Can name all days of the week and months of the year in Argentine Spanish)",
-            "en viernes (Can name all days of the week and months of the year in Argentine Spanish)"
+            "el viernes",
+            "a viernes",
+            "por viernes",
+            "en viernes"
           ],
           "answerIndex": 0,
           "explanation": "Days of the week take the definite article 'el' (el viernes), never 'en'."
@@ -2171,10 +2175,10 @@
         {
           "prompt": "What does 'el finde' mean in colloquial Argentine Spanish?",
           "options": [
-            "The weekend (Can name all days of the week and months of the year in Argentine Spanish)",
-            "The final exam (Can name all days of the week and months of the year in Argentine Spanish)",
-            "The holiday (Can name all days of the week and months of the year in Argentine Spanish)",
-            "The end of the month (Can name all days of the week and months of the year in Argentine Spanish)"
+            "The weekend",
+            "The final exam",
+            "The holiday",
+            "The end of the month"
           ],
           "answerIndex": 0,
           "explanation": "'el finde' is the universal abbreviation for 'el fin de semana'."
@@ -2182,10 +2186,10 @@
         {
           "prompt": "Which preposition is used with calendar months (e.g. in July)?",
           "options": [
-            "en (Can name all days of the week and months of the year in Argentine Spanish)",
-            "de (Can name all days of the week and months of the year in Argentine Spanish)",
-            "el (Can name all days of the week and months of the year in Argentine Spanish)",
-            "a (Can name all days of the week and months of the year in Argentine Spanish)"
+            "en",
+            "de",
+            "el",
+            "a"
           ],
           "answerIndex": 0,
           "explanation": "Months take the preposition 'en' (en julio)."
@@ -2197,10 +2201,10 @@
         {
           "prompt": "Translate: 'On Saturdays we make an asado.'",
           "options": [
-            "Los sábados hacemos un asado. (Can name all days of the week and months of the year in Argentine Spanish)",
-            "En sábados hacemos un asado. (Can name all days of the week and months of the year in Argentine Spanish)",
-            "A los sábados hacemos un asado. (Can name all days of the week and months of the year in Argentine Spanish)",
-            "El sábados hacemos un asado. (Can name all days of the week and months of the year in Argentine Spanish)"
+            "Los sábados hacemos un asado.",
+            "En sábados hacemos un asado.",
+            "A los sábados hacemos un asado.",
+            "El sábados hacemos un asado."
           ],
           "answerIndex": 0,
           "explanation": "Habitual days take the plural article 'Los sábados'."
@@ -2208,10 +2212,10 @@
         {
           "prompt": "Select the correct sequence of days from Tuesday to Thursday:",
           "options": [
-            "martes, miércoles, jueves (Can name all days of the week and months of the year in Argentine Spanish)",
-            "lunes, martes, miércoles (Can name all days of the week and months of the year in Argentine Spanish)",
-            "jueves, viernes, sábado (Can name all days of the week and months of the year in Argentine Spanish)",
-            "miércoles, jueves, viernes (Can name all days of the week and months of the year in Argentine Spanish)"
+            "martes, miércoles, jueves",
+            "lunes, martes, miércoles",
+            "jueves, viernes, sábado",
+            "miércoles, jueves, viernes"
           ],
           "answerIndex": 0,
           "explanation": "Tuesday (martes), Wednesday (miércoles), Thursday (jueves)."
@@ -2223,10 +2227,10 @@
         {
           "prompt": "Hoy es jueves. Mañana es:",
           "options": [
-            "viernes (Can name all days of the week and months of the year in Argentine Spanish)",
-            "sábado (Can name all days of the week and months of the year in Argentine Spanish)",
-            "miércoles (Can name all days of the week and months of the year in Argentine Spanish)",
-            "martes (Can name all days of the week and months of the year in Argentine Spanish)"
+            "viernes",
+            "sábado",
+            "miércoles",
+            "martes"
           ],
           "answerIndex": 0,
           "explanation": "The day after Thursday is Friday (viernes).",
@@ -2235,10 +2239,10 @@
         {
           "prompt": "Completá: 'Nos vemos ___ viernes ___ las ocho de la noche.'",
           "options": [
-            "a / el (Can name all days of the week and months of the year in Argentine Spanish)",
-            "en / a (Can name all days of the week and months of the year in Argentine Spanish)",
-            "el / en (Can name all days of the week and months of the year in Argentine Spanish)",
-            "el / a (Can name all days of the week and months of the year in Argentine Spanish)"
+            "a / el",
+            "en / a",
+            "el / en",
+            "el / a"
           ],
           "answerIndex": 3,
           "explanation": "EL for day (el viernes) / A for clock time (a las ocho).",
@@ -2247,10 +2251,10 @@
         {
           "prompt": "Completá: 'Las vacaciones son ___ enero.'",
           "options": [
-            "a (Can name all days of the week and months of the year in Argentine Spanish)",
-            "el (Can name all days of the week and months of the year in Argentine Spanish)",
-            "en (Can name all days of the week and months of the year in Argentine Spanish)",
-            "de (Can name all days of the week and months of the year in Argentine Spanish)"
+            "a",
+            "el",
+            "en",
+            "de"
           ],
           "answerIndex": 2,
           "explanation": "Months take 'en' (en enero).",
@@ -2259,10 +2263,10 @@
         {
           "prompt": "¿Se escriben los días de la semana y los meses con mayúscula en español?",
           "options": [
-            "Sí, siempre con mayúscula (Can name all days of the week and months of the year in Argentine Spanish)",
-            "No, se escriben con minúscula (Can name all days of the week and months of the year in Argentine Spanish)",
-            "Solo los meses (Can name all days of the week and months of the year in Argentine Spanish)",
-            "Solo los días (Can name all days of the week and months of the year in Argentine Spanish)"
+            "Sí, siempre con mayúscula",
+            "No, se escriben con minúscula",
+            "Solo los meses",
+            "Solo los días"
           ],
           "answerIndex": 1,
           "explanation": "In Spanish, days and months are common nouns and written in lowercase.",
@@ -2271,10 +2275,10 @@
         {
           "prompt": "¿Qué se celebra en Argentina el 25 de Mayo?",
           "options": [
-            "La Revolución de Mayo (Can name all days of the week and months of the year in Argentine Spanish)",
-            "El Año Nuevo (Can name all days of the week and months of the year in Argentine Spanish)",
-            "La Navidad (Can name all days of the week and months of the year in Argentine Spanish)",
-            "El Día del Amigo (Can name all days of the week and months of the year in Argentine Spanish)"
+            "La Revolución de Mayo",
+            "El Año Nuevo",
+            "La Navidad",
+            "El Día del Amigo"
           ],
           "answerIndex": 0,
           "explanation": "May 25th commemorates the 1810 May Revolution.",
@@ -2323,10 +2327,10 @@
         {
           "prompt": "How does Martín say the pizza price (8,000 pesos) in authentic Buenos Aires slang?",
           "options": [
-            "ocho lucas (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "ocho mangos (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "ocho palos (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "ocho guitas (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "ocho lucas",
+            "ocho mangos",
+            "ocho palos",
+            "ocho guitas"
           ],
           "answerIndex": 0,
           "explanation": "1 luca = 1,000 pesos; 8,000 pesos = 'ocho lucas'."
@@ -2334,10 +2338,10 @@
         {
           "prompt": "What does the popular Argentine expression '¡De una!' mean when making plans?",
           "options": [
-            "For sure! / Absolutely! / Let's do it! (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Only one time (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "I disagree (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Maybe next week (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "For sure! / Absolutely! / Let's do it!",
+            "Only one time",
+            "I disagree",
+            "Maybe next week"
           ],
           "answerIndex": 0,
           "explanation": "'¡De una!' expresses instant enthusiastic confirmation."
@@ -2345,10 +2349,10 @@
         {
           "prompt": "How do you say: 'The meetup is on Friday at 9:30 PM and costs 5,000 pesos'?",
           "options": [
-            "La juntada es el viernes a las nueve y media de la noche y sale cinco lucas. (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "La juntada es en viernes en nueve y media y sale cinco pesos. (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "La juntada es a viernes a las nueve y media y sale cinco palos. (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "La juntada es el sábado a las ocho y sale cinco lucas. (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "La juntada es el viernes a las nueve y media de la noche y sale cinco lucas.",
+            "La juntada es en viernes en nueve y media y sale cinco pesos.",
+            "La juntada es a viernes a las nueve y media y sale cinco palos.",
+            "La juntada es el sábado a las ocho y sale cinco lucas."
           ],
           "answerIndex": 0,
           "explanation": "'el viernes' + 'a las nueve y media de la noche' + 'cinco lucas' ($5.000)."
@@ -2360,10 +2364,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:30 PM?' (using Argentine voseo)",
           "options": [
-            "¿Estás libre el martes a las cuatro y media de la tarde? (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "¿Estás libre el martes a las cuatro y treinta de la mañana? (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "¿Estás libre a martes a las cuatro? (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "¿Estás libre en martes a las cuatro y media? (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "¿Estás libre el martes a las cuatro y media de la tarde?",
+            "¿Estás libre el martes a las cuatro y treinta de la mañana?",
+            "¿Estás libre a martes a las cuatro?",
+            "¿Estás libre en martes a las cuatro y media?"
           ],
           "answerIndex": 0,
           "explanation": "'¿Estás libre el martes a las cuatro y media de la tarde?'"
@@ -2371,10 +2375,10 @@
         {
           "prompt": "How is the Buenos Aires phone number 11 24 58 72 dictated naturally?",
           "options": [
-            "once, veinticuatro, cincuenta y ocho, setenta y dos (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "once doscientos cuarenta y cinco (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "mil ciento veinticuatro (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "uno uno dos cuatro cinco ocho siete dos (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "once, veinticuatro, cincuenta y ocho, setenta y dos",
+            "once doscientos cuarenta y cinco",
+            "mil ciento veinticuatro",
+            "uno uno dos cuatro cinco ocho siete dos"
           ],
           "answerIndex": 0,
           "explanation": "Standard Buenos Aires dictation pairs digits: once, veinticuatro, cincuenta y ocho, setenta y dos."
@@ -2386,10 +2390,10 @@
         {
           "prompt": "Completá: '¿Estás libre ___ viernes ___ las nueve de la noche?'",
           "options": [
-            "en / a (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "a / el (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "el / en (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "el / a (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "en / a",
+            "a / el",
+            "el / en",
+            "el / a"
           ],
           "answerIndex": 3,
           "explanation": "EL for day, A for time.",
@@ -2398,10 +2402,10 @@
         {
           "prompt": "La pizza cuesta $6.000. En lunfardo porteño se dice:",
           "options": [
-            "seis palos (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "seis mangos (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "seis lucas (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "seis guitas (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "seis palos",
+            "seis mangos",
+            "seis lucas",
+            "seis guitas"
           ],
           "answerIndex": 2,
           "explanation": "6,000 pesos is 'seis lucas'.",
@@ -2410,10 +2414,10 @@
         {
           "prompt": "'¡Nos vemos el viernes a las nueve!' — ¿Cómo confirmás entusiasmado en Argentina?",
           "options": [
-            "No sé. (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "¡De una! / ¡De diez! ¡Nos vemos! (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "¿Cómo te llamás? (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Perdón. (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "No sé.",
+            "¡De una! / ¡De diez! ¡Nos vemos!",
+            "¿Cómo te llamás?",
+            "Perdón."
           ],
           "answerIndex": 1,
           "explanation": "'¡De una! / ¡De diez!' is the natural confirmation.",
@@ -2422,10 +2426,10 @@
         {
           "prompt": "¿Qué significa 'hacer una vaquita' entre amigos?",
           "options": [
-            "Juntar plata entre todos para pagar la cuenta (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Cocinar para los demás (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Pedir descuento (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Comprar carne de vaca (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "Juntar plata entre todos para pagar la cuenta",
+            "Cocinar para los demás",
+            "Pedir descuento",
+            "Comprar carne de vaca"
           ],
           "answerIndex": 0,
           "explanation": "'Hacer una vaquita' means pooling money together to split a cost.",
@@ -2434,10 +2438,10 @@
         {
           "prompt": "¿Cuál es el objetivo principal de este diálogo integrador?",
           "options": [
-            "Solo repasar el abecedario (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Solo contar del 1 al 10 (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Solo hablar del clima (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)",
-            "Integrar saludos rioplatenses, voseo, días, horas, números y lunfardo para organizar una salida real (Can participate in a multiturn Argentine Spanish dialogue organizing a social gathering)"
+            "Solo repasar el abecedario",
+            "Solo contar del 1 al 10",
+            "Solo hablar del clima",
+            "Integrar saludos rioplatenses, voseo, días, horas, números y lunfardo para organizar una salida real"
           ],
           "answerIndex": 3,
           "explanation": "Capstone integrates Rioplatense greetings, voseo, days, times, numbers, prices, and conversational scheduling.",
@@ -2484,10 +2488,10 @@
         {
           "prompt": "What is the common affectionate Argentine term for 'my parents'?",
           "options": [
-            "mis padres formales (Identify immediate family members in Argentine Spanish padreviejo)",
-            "mis tíos (Identify immediate family members in Argentine Spanish padreviejo)",
-            "mis abuelos (Identify immediate family members in Argentine Spanish padreviejo)",
-            "mis viejos (Identify immediate family members in Argentine Spanish padreviejo)"
+            "mis padres formales",
+            "mis tíos",
+            "mis abuelos",
+            "mis viejos"
           ],
           "answerIndex": 3,
           "explanation": "'mis viejos' is the standard affectionate term for parents in Argentina."
@@ -2495,10 +2499,10 @@
         {
           "prompt": "Choose the correct possessive: '¿Dónde viven ___ hermanos?' (your [vos] siblings)",
           "options": [
-            "tuyos (Identify immediate family members in Argentine Spanish padreviejo)",
-            "tuyo (Identify immediate family members in Argentine Spanish padreviejo)",
-            "tus (Identify immediate family members in Argentine Spanish padreviejo)",
-            "tu (Identify immediate family members in Argentine Spanish padreviejo)"
+            "tuyos",
+            "tuyo",
+            "tus",
+            "tu"
           ],
           "answerIndex": 2,
           "explanation": "'tus' is the plural possessive adjective matching 'hermanos'."
@@ -2506,10 +2510,10 @@
         {
           "prompt": "What is the Rioplatense slang word for 'kids / youngsters'?",
           "options": [
-            "los nonos (Identify immediate family members in Argentine Spanish padreviejo)",
-            "los pibes (Identify immediate family members in Argentine Spanish padreviejo)",
-            "los viejos (Identify immediate family members in Argentine Spanish padreviejo)",
-            "los chabones (Identify immediate family members in Argentine Spanish padreviejo)"
+            "los nonos",
+            "los pibes",
+            "los viejos",
+            "los chabones"
           ],
           "answerIndex": 1,
           "explanation": "'los pibes' means kids/children."
@@ -2521,10 +2525,10 @@
         {
           "prompt": "Translate: 'Our family is big.'",
           "options": [
-            "Nuestro familia es grande. (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Nuestros familia es grande. (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Mi familia son grandes. (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Nuestra familia es grande. (Identify immediate family members in Argentine Spanish padreviejo)"
+            "Nuestro familia es grande.",
+            "Nuestros familia es grande.",
+            "Mi familia son grandes.",
+            "Nuestra familia es grande."
           ],
           "answerIndex": 3,
           "explanation": "'familia' is feminine singular -> 'Nuestra familia'."
@@ -2532,10 +2536,10 @@
         {
           "prompt": "How do you ask 'Do you have siblings?' in Argentine Spanish with voseo?",
           "options": [
-            "¿Tenéis hermanos? (Identify immediate family members in Argentine Spanish padreviejo)",
-            "¿Tiene hermanos? (Identify immediate family members in Argentine Spanish padreviejo)",
-            "¿Tenés hermanos? (Identify immediate family members in Argentine Spanish padreviejo)",
-            "¿Tienes hermanos? (Identify immediate family members in Argentine Spanish padreviejo)"
+            "¿Tenéis hermanos?",
+            "¿Tiene hermanos?",
+            "¿Tenés hermanos?",
+            "¿Tienes hermanos?"
           ],
           "answerIndex": 2,
           "explanation": "Rioplatense voseo conjugation is '¿Tenés hermanos?'."
@@ -2547,10 +2551,10 @@
         {
           "prompt": "En Argentina, 'mi vieja' significa con cariño:",
           "options": [
-            "Una mujer anciana desconocida (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Mi abuela (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Mi mamá / Mi madre (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Mi hermana mayor (Identify immediate family members in Argentine Spanish padreviejo)"
+            "Una mujer anciana desconocida",
+            "Mi abuela",
+            "Mi mamá / Mi madre",
+            "Mi hermana mayor"
           ],
           "answerIndex": 2,
           "explanation": "'mi vieja' is affectionate for 'my mother'.",
@@ -2559,10 +2563,10 @@
         {
           "prompt": "Completá con el posesivo correcto: 'Che, ¿dónde está ___ celular?' (your)",
           "options": [
-            "nuestro (Identify immediate family members in Argentine Spanish padreviejo)",
-            "tu (Identify immediate family members in Argentine Spanish padreviejo)",
-            "su (Identify immediate family members in Argentine Spanish padreviejo)",
-            "tus (Identify immediate family members in Argentine Spanish padreviejo)"
+            "nuestro",
+            "tu",
+            "su",
+            "tus"
           ],
           "answerIndex": 1,
           "explanation": "celular is singular -> 'tu celular'.",
@@ -2571,10 +2575,10 @@
         {
           "prompt": "'Los pibes están en la escuela' significa:",
           "options": [
-            "The kids are at school (Identify immediate family members in Argentine Spanish padreviejo)",
-            "The teachers are arriving (Identify immediate family members in Argentine Spanish padreviejo)",
-            "The boys are sleeping (Identify immediate family members in Argentine Spanish padreviejo)",
-            "The parents are at work (Identify immediate family members in Argentine Spanish padreviejo)"
+            "The kids are at school",
+            "The teachers are arriving",
+            "The boys are sleeping",
+            "The parents are at work"
           ],
           "answerIndex": 0,
           "explanation": "pibes = kids/children.",
@@ -2583,10 +2587,10 @@
         {
           "prompt": "¿Cuál es la forma correcta del posesivo para 'our daughters'?",
           "options": [
-            "nuestra hijas (Identify immediate family members in Argentine Spanish padreviejo)",
-            "nuestros hijas (Identify immediate family members in Argentine Spanish padreviejo)",
-            "nuestro hijas (Identify immediate family members in Argentine Spanish padreviejo)",
-            "nuestras hijas (Identify immediate family members in Argentine Spanish padreviejo)"
+            "nuestra hijas",
+            "nuestros hijas",
+            "nuestro hijas",
+            "nuestras hijas"
           ],
           "answerIndex": 3,
           "explanation": "nuestras hijas agrees in feminine plural.",
@@ -2595,10 +2599,10 @@
         {
           "prompt": "¿Por qué en Argentina 'los viejos' no es una falta de respeto?",
           "options": [
-            "Porque es un modismo importado de España (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Porque solo se usa en broma (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Porque es una expresión tradicional de afecto y confianza familiar arraigada en el lunfardo (Identify immediate family members in Argentine Spanish padreviejo)",
-            "Porque todos los padres son ancianos (Identify immediate family members in Argentine Spanish padreviejo)"
+            "Porque es un modismo importado de España",
+            "Porque solo se usa en broma",
+            "Porque es una expresión tradicional de afecto y confianza familiar arraigada en el lunfardo",
+            "Porque todos los padres son ancianos"
           ],
           "answerIndex": 2,
           "explanation": "It is an affectionate cultural norm in Rioplatense Spanish.",
@@ -2646,10 +2650,10 @@
         {
           "prompt": "What is the primary conversational role of the particle 'che' in Argentina?",
           "options": [
-            "To catch attention, initiate conversation, or express friendly solidarity (Master the Argentine discourse particle che origin)",
-            "It means 'goodbye' (Master the Argentine discourse particle che origin)",
-            "It means 'how much does it cost' (Master the Argentine discourse particle che origin)",
-            "It means 'thank you very much' (Master the Argentine discourse particle che origin)"
+            "To catch attention, initiate conversation, or express friendly solidarity",
+            "It means 'goodbye'",
+            "It means 'how much does it cost'",
+            "It means 'thank you very much'"
           ],
           "answerIndex": 0,
           "explanation": "'Che' is the quintessential attention and camaraderie particle."
@@ -2657,10 +2661,10 @@
         {
           "prompt": "How can you casually and politely call the attention of a stranger on the street?",
           "options": [
-            "Disculpá, flaco, ¿tenés hora? (Master the Argentine discourse particle che origin)",
-            "Che, boludo, ¿qué hora es? (Master the Argentine discourse particle che origin)",
-            "Oiga, anciano (Master the Argentine discourse particle che origin)",
-            "Hola, mi amor (Master the Argentine discourse particle che origin)"
+            "Disculpá, flaco, ¿tenés hora?",
+            "Che, boludo, ¿qué hora es?",
+            "Oiga, anciano",
+            "Hola, mi amor"
           ],
           "answerIndex": 0,
           "explanation": "'Flaco/flaca' is widely used as a casual, neutral address."
@@ -2668,10 +2672,10 @@
         {
           "prompt": "When is it appropriate to use the vocative 'boludo / boluda'?",
           "options": [
-            "Only in informal banter with close friends and trusted peers (Master the Argentine discourse particle che origin)",
-            "In a formal job interview (Master the Argentine discourse particle che origin)",
-            "With police officers (Master the Argentine discourse particle che origin)",
-            "With university professors and elders (Master the Argentine discourse particle che origin)"
+            "Only in informal banter with close friends and trusted peers",
+            "In a formal job interview",
+            "With police officers",
+            "With university professors and elders"
           ],
           "answerIndex": 0,
           "explanation": "'boludo/a' is strictly informal peer vocabulary."
@@ -2683,10 +2687,10 @@
         {
           "prompt": "Translate: 'Hey, do you want to have some mate?'",
           "options": [
-            "Che, ¿quieres tomar mate? (Master the Argentine discourse particle che origin)",
-            "Oye, ¿desea mate? (Master the Argentine discourse particle che origin)",
-            "Che, ¿tomáis mate? (Master the Argentine discourse particle che origin)",
-            "Che, ¿querés tomar unos mates? (Master the Argentine discourse particle che origin)"
+            "Che, ¿quieres tomar mate?",
+            "Oye, ¿desea mate?",
+            "Che, ¿tomáis mate?",
+            "Che, ¿querés tomar unos mates?"
           ],
           "answerIndex": 3,
           "explanation": "Che + voseo querés + tomar unos mates."
@@ -2694,10 +2698,10 @@
         {
           "prompt": "What is the meaning of 'el chabón' in Porteño Spanish?",
           "options": [
-            "The grandfather (Master the Argentine discourse particle che origin)",
-            "The street (Master the Argentine discourse particle che origin)",
-            "The restaurant (Master the Argentine discourse particle che origin)",
-            "The guy / dude (Master the Argentine discourse particle che origin)"
+            "The grandfather",
+            "The street",
+            "The restaurant",
+            "The guy / dude"
           ],
           "answerIndex": 3,
           "explanation": "chabón = guy/dude."
@@ -2709,10 +2713,10 @@
         {
           "prompt": "¿De qué lengua indígena se cree que proviene principalmente la partícula 'che'?",
           "options": [
-            "Del náhuatl (Master the Argentine discourse particle che origin)",
-            "Del guaraní (Master the Argentine discourse particle che origin)",
-            "Del latín medieval (Master the Argentine discourse particle che origin)",
-            "Del quechua (Master the Argentine discourse particle che origin)"
+            "Del náhuatl",
+            "Del guaraní",
+            "Del latín medieval",
+            "Del quechua"
           ],
           "answerIndex": 1,
           "explanation": "Guaraní / Mapudungun origin.",
@@ -2721,10 +2725,10 @@
         {
           "prompt": "'¡Che, qué sorpresa!' se usa para:",
           "options": [
-            "Expresar asombro o entusiasmo espontáneo (Master the Argentine discourse particle che origin)",
-            "Despedirse por teléfono (Master the Argentine discourse particle che origin)",
-            "Preguntar la dirección (Master the Argentine discourse particle che origin)",
-            "Pedir la cuenta en el bar (Master the Argentine discourse particle che origin)"
+            "Expresar asombro o entusiasmo espontáneo",
+            "Despedirse por teléfono",
+            "Preguntar la dirección",
+            "Pedir la cuenta en el bar"
           ],
           "answerIndex": 0,
           "explanation": "Expresses spontaneous surprise.",
@@ -2733,10 +2737,10 @@
         {
           "prompt": "¿Cuál de estas opciones es la forma MÁS común de dirigirse a un pibe desconocido amablemente en la calle?",
           "options": [
-            "Oye tú... (Master the Argentine discourse particle che origin)",
-            "Estimado señorito... (Master the Argentine discourse particle che origin)",
-            "Che, loco mío... (Master the Argentine discourse particle che origin)",
-            "Disculpá, flaco... (Master the Argentine discourse particle che origin)"
+            "Oye tú...",
+            "Estimado señorito...",
+            "Che, loco mío...",
+            "Disculpá, flaco..."
           ],
           "answerIndex": 3,
           "explanation": "Disculpá, flaco...",
@@ -2745,10 +2749,10 @@
         {
           "prompt": "¿Por qué llamaban 'El Che' a Ernesto Guevara en Centroamérica y Cuba?",
           "options": [
-            "Porque era su apellido materno (Master the Argentine discourse particle che origin)",
-            "Porque inventó la palabra (Master the Argentine discourse particle che origin)",
-            "Por su hábito constante y típicamente argentino de decir 'che' al hablar (Master the Argentine discourse particle che origin)",
-            "Porque significa comandante en francés (Master the Argentine discourse particle che origin)"
+            "Porque era su apellido materno",
+            "Porque inventó la palabra",
+            "Por su hábito constante y típicamente argentino de decir 'che' al hablar",
+            "Porque significa comandante en francés"
           ],
           "answerIndex": 2,
           "explanation": "Iconic Argentine speech marker.",
@@ -2757,10 +2761,10 @@
         {
           "prompt": "¿Qué regla de oro debe recordarse sobre la palabra 'boludo'?",
           "options": [
-            "Significa 'muy inteligente' (Master the Argentine discourse particle che origin)",
-            "Solo se usa con amigos íntimos en confianza; con desconocidos puede resultar ofensiva (Master the Argentine discourse particle che origin)",
-            "Es una palabra formal para usar en cartas (Master the Argentine discourse particle che origin)",
-            "Solo la usan los médicos (Master the Argentine discourse particle che origin)"
+            "Significa 'muy inteligente'",
+            "Solo se usa con amigos íntimos en confianza; con desconocidos puede resultar ofensiva",
+            "Es una palabra formal para usar en cartas",
+            "Solo la usan los médicos"
           ],
           "answerIndex": 1,
           "explanation": "Strictly intimate peer slang.",
@@ -2807,10 +2811,10 @@
         {
           "prompt": "What popular Argentine words for grandfather and grandmother come directly from Italian?",
           "options": [
-            "el tata y la mama (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "el viejo y la vieja (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "el tío y la tía (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "el nono y la nona (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "el tata y la mama",
+            "el viejo y la vieja",
+            "el tío y la tía",
+            "el nono y la nona"
           ],
           "answerIndex": 3,
           "explanation": "nono/nona comes from Italian nonno/nonna."
@@ -2818,10 +2822,10 @@
         {
           "prompt": "What is the relationship of 'mi cuñado' to you?",
           "options": [
-            "Father-in-law (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Son-in-law (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Cousin (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Brother-in-law (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "Father-in-law",
+            "Son-in-law",
+            "Cousin",
+            "Brother-in-law"
           ],
           "answerIndex": 3,
           "explanation": "cuñado = brother-in-law."
@@ -2829,10 +2833,10 @@
         {
           "prompt": "What is the traditional family event on Sunday afternoons in Argentina?",
           "options": [
-            "Ir a dormir todo el día (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Trabajar horas extras (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Comer solos en el cuarto (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "El asado del domingo o las pastas en familia (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "Ir a dormir todo el día",
+            "Trabajar horas extras",
+            "Comer solos en el cuarto",
+            "El asado del domingo o las pastas en familia"
           ],
           "answerIndex": 3,
           "explanation": "Sunday family asado or pasta gathering."
@@ -2844,10 +2848,10 @@
         {
           "prompt": "Translate: 'My cousins are coming on Sunday.'",
           "options": [
-            "Mis primos vienen el domingo. (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Mi primos viene el domingo. (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Mis sobrinos vienen el domingo. (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Mis tíos vienen el lunes. (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "Mis primos vienen el domingo.",
+            "Mi primos viene el domingo.",
+            "Mis sobrinos vienen el domingo.",
+            "Mis tíos vienen el lunes."
           ],
           "answerIndex": 0,
           "explanation": "Mis primos (cousins) vienen el domingo."
@@ -2855,10 +2859,10 @@
         {
           "prompt": "What is 'la suegra' in English?",
           "options": [
-            "Mother-in-law (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Sister-in-law (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Grandmother (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Daughter-in-law (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "Mother-in-law",
+            "Sister-in-law",
+            "Grandmother",
+            "Daughter-in-law"
           ],
           "answerIndex": 0,
           "explanation": "suegra = mother-in-law."
@@ -2870,10 +2874,10 @@
         {
           "prompt": "El hermano de mi padre es mi:",
           "options": [
-            "tío (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "cuñado (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "nono (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "primo (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "tío",
+            "cuñado",
+            "nono",
+            "primo"
           ],
           "answerIndex": 0,
           "explanation": "Father's brother is tío.",
@@ -2882,10 +2886,10 @@
         {
           "prompt": "Los hijos de mis tíos son mis:",
           "options": [
-            "nietos (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "sobrinos (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "hermanos (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "primos (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "nietos",
+            "sobrinos",
+            "hermanos",
+            "primos"
           ],
           "answerIndex": 3,
           "explanation": "Children of aunts/uncles are primos.",
@@ -2894,10 +2898,10 @@
         {
           "prompt": "¿De qué idioma llegaron al español rioplatense las palabras 'nono' y 'nona'?",
           "options": [
-            "Del portugués (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Del francés (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Del italiano (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Del alemán (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "Del portugués",
+            "Del francés",
+            "Del italiano",
+            "Del alemán"
           ],
           "answerIndex": 2,
           "explanation": "Italian immigration heritage.",
@@ -2906,10 +2910,10 @@
         {
           "prompt": "El esposo de mi hija es mi:",
           "options": [
-            "cuñado (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "yerno (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "sobrino (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "suegro (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "cuñado",
+            "yerno",
+            "sobrino",
+            "suegro"
           ],
           "answerIndex": 1,
           "explanation": "yerno = son-in-law.",
@@ -2918,10 +2922,10 @@
         {
           "prompt": "¿Qué representa el 'asado del domingo' en la cultura argentina?",
           "options": [
-            "El ritual social y familiar más importante de unión y encuentro generacional (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Una comida rápida de negocios (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Una cena formal de gala (Identify extended family members and Italianheritage kinship terms el nono  la nona)",
-            "Un festival de música (Identify extended family members and Italianheritage kinship terms el nono  la nona)"
+            "El ritual social y familiar más importante de unión y encuentro generacional",
+            "Una comida rápida de negocios",
+            "Una cena formal de gala",
+            "Un festival de música"
           ],
           "answerIndex": 0,
           "explanation": "Crucial family ritual of generational unity.",
@@ -2969,10 +2973,10 @@
         {
           "prompt": "How do you say 'You are very cool / great' in Argentine Spanish using voseo and 're-'?",
           "options": [
-            "Vos sos re copado. (Describe people and relatives using Ser vs Estar)",
-            "Vos estás re copado. (Describe people and relatives using Ser vs Estar)",
-            "Usted es re copado. (Describe people and relatives using Ser vs Estar)",
-            "Tú eres muy copado. (Describe people and relatives using Ser vs Estar)"
+            "Vos sos re copado.",
+            "Vos estás re copado.",
+            "Usted es re copado.",
+            "Tú eres muy copado."
           ],
           "answerIndex": 0,
           "explanation": "Vos sos (ser for identity) + re copado."
@@ -2980,10 +2984,10 @@
         {
           "prompt": "What does 'Mi tío es un tipo macanudo' mean?",
           "options": [
-            "My uncle is a great, noble, wonderful guy (Describe people and relatives using Ser vs Estar)",
-            "My uncle is short (Describe people and relatives using Ser vs Estar)",
-            "My uncle is rich (Describe people and relatives using Ser vs Estar)",
-            "My uncle is very angry (Describe people and relatives using Ser vs Estar)"
+            "My uncle is a great, noble, wonderful guy",
+            "My uncle is short",
+            "My uncle is rich",
+            "My uncle is very angry"
           ],
           "answerIndex": 0,
           "explanation": "macanudo = great/noble/good-natured."
@@ -2991,10 +2995,10 @@
         {
           "prompt": "Which Argentine word is used for a dark-haired person (brunette)?",
           "options": [
-            "morocho / morocha (Describe people and relatives using Ser vs Estar)",
-            "pelado (Describe people and relatives using Ser vs Estar)",
-            "rubio (Describe people and relatives using Ser vs Estar)",
-            "colorado (Describe people and relatives using Ser vs Estar)"
+            "morocho / morocha",
+            "pelado",
+            "rubio",
+            "colorado"
           ],
           "answerIndex": 0,
           "explanation": "morocho/a = dark-haired."
@@ -3006,10 +3010,10 @@
         {
           "prompt": "Translate: 'My sister is very smart.' (using Argentine 're-')",
           "options": [
-            "Mi hermana es re inteligente. (Describe people and relatives using Ser vs Estar)",
-            "Mi hermana es mucho inteligente. (Describe people and relatives using Ser vs Estar)",
-            "Mi hermana está re inteligente. (Describe people and relatives using Ser vs Estar)",
-            "Mi hermana son re inteligente. (Describe people and relatives using Ser vs Estar)"
+            "Mi hermana es re inteligente.",
+            "Mi hermana es mucho inteligente.",
+            "Mi hermana está re inteligente.",
+            "Mi hermana son re inteligente."
           ],
           "answerIndex": 0,
           "explanation": "es (ser) + re inteligente."
@@ -3017,10 +3021,10 @@
         {
           "prompt": "What is the voseo form of 'estar' for 'you are happy'?",
           "options": [
-            "Vos estás contento. (Describe people and relatives using Ser vs Estar)",
-            "Vos sos contento. (Describe people and relatives using Ser vs Estar)",
-            "Vos está contento. (Describe people and relatives using Ser vs Estar)",
-            "Tú estás contento. (Describe people and relatives using Ser vs Estar)"
+            "Vos estás contento.",
+            "Vos sos contento.",
+            "Vos está contento.",
+            "Tú estás contento."
           ],
           "answerIndex": 0,
           "explanation": "Estar for moods -> Vos estás contento."
@@ -3032,10 +3036,10 @@
         {
           "prompt": "En Argentina, el prefijo 're-' delante de un adjetivo (como 're lindo') equivale a:",
           "options": [
-            "Nunca (Describe people and relatives using Ser vs Estar)",
-            "Poco / Casi nada (Describe people and relatives using Ser vs Estar)",
-            "Más o menos (Describe people and relatives using Ser vs Estar)",
-            "Muy / Súper / Extremadamente (Describe people and relatives using Ser vs Estar)"
+            "Nunca",
+            "Poco / Casi nada",
+            "Más o menos",
+            "Muy / Súper / Extremadamente"
           ],
           "answerIndex": 3,
           "explanation": "re- = super / very.",
@@ -3044,10 +3048,10 @@
         {
           "prompt": "'Una persona buena onda' es alguien:",
           "options": [
-            "Que no habla con nadie (Describe people and relatives using Ser vs Estar)",
-            "Enojona y antipática (Describe people and relatives using Ser vs Estar)",
-            "Simpática, agradable y de trato fácil (Describe people and relatives using Ser vs Estar)",
-            "Que nada en el mar (Describe people and relatives using Ser vs Estar)"
+            "Que no habla con nadie",
+            "Enojona y antipática",
+            "Simpática, agradable y de trato fácil",
+            "Que nada en el mar"
           ],
           "answerIndex": 2,
           "explanation": "buena onda = friendly/good vibes.",
@@ -3056,10 +3060,10 @@
         {
           "prompt": "¿Cuál es la conjugación de 'ser' para 'vos' en presente?",
           "options": [
-            "eres (Describe people and relatives using Ser vs Estar)",
-            "sos (Describe people and relatives using Ser vs Estar)",
-            "sois (Describe people and relatives using Ser vs Estar)",
-            "es (Describe people and relatives using Ser vs Estar)"
+            "eres",
+            "sos",
+            "sois",
+            "es"
           ],
           "answerIndex": 1,
           "explanation": "vos sos.",
@@ -3068,10 +3072,10 @@
         {
           "prompt": "¿Qué describe la palabra 'copado / copada'?",
           "options": [
-            "Alguien o algo genial, divertido o muy piola (Describe people and relatives using Ser vs Estar)",
-            "Un vaso lleno de vino (Describe people and relatives using Ser vs Estar)",
-            "Un día con mucha niebla (Describe people and relatives using Ser vs Estar)",
-            "Una comida muy picante (Describe people and relatives using Ser vs Estar)"
+            "Alguien o algo genial, divertido o muy piola",
+            "Un vaso lleno de vino",
+            "Un día con mucha niebla",
+            "Una comida muy picante"
           ],
           "answerIndex": 0,
           "explanation": "copado = cool/great.",
@@ -3080,10 +3084,10 @@
         {
           "prompt": "¿Cuál es la diferencia entre 'sos' y 'estás' en Rioplatense?",
           "options": [
-            "Son sinónimos intercambiables en cualquier frase (Describe people and relatives using Ser vs Estar)",
-            "'Sos' es solo para el pasado (Describe people and relatives using Ser vs Estar)",
-            "'Estás' solo se usa en preguntas (Describe people and relatives using Ser vs Estar)",
-            "'Sos' describe características esenciales de la persona; 'estás' describe estados de ánimo o ubicación temporal (Describe people and relatives using Ser vs Estar)"
+            "Son sinónimos intercambiables en cualquier frase",
+            "'Sos' es solo para el pasado",
+            "'Estás' solo se usa en preguntas",
+            "'Sos' describe características esenciales de la persona; 'estás' describe estados de ánimo o ubicación temporal"
           ],
           "answerIndex": 3,
           "explanation": "Ser (sos) for permanent traits vs Estar (estás) for states.",
@@ -3132,10 +3136,10 @@
         {
           "prompt": "How does Facundo introduce Tom to his father in natural Rioplatense speech?",
           "options": [
-            "Che, viejo, él es Tom, mi compañero de la facultad. (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Padre, este es el señor Tom. (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Oiga, padre, mire a Tom. (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Señor Carlos, le presento a mi amigo. (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Che, viejo, él es Tom, mi compañero de la facultad.",
+            "Padre, este es el señor Tom.",
+            "Oiga, padre, mire a Tom.",
+            "Señor Carlos, le presento a mi amigo."
           ],
           "answerIndex": 0,
           "explanation": "'Che, viejo...' is authentic and affectionate."
@@ -3143,10 +3147,10 @@
         {
           "prompt": "How does Nona Rosa affectionately comment on Tom's slim build using voseo?",
           "options": [
-            "¡Qué flaquito que sos! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "¡Qué flaquito que eres! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "¡Qué flaquito que estás tú! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "¡Usted es flaquito! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "¡Qué flaquito que sos!",
+            "¡Qué flaquito que eres!",
+            "¡Qué flaquito que estás tú!",
+            "¡Usted es flaquito!"
           ],
           "answerIndex": 0,
           "explanation": "flaquito + voseo 'sos'."
@@ -3154,10 +3158,10 @@
         {
           "prompt": "What traditional welcome gesture is offered while waiting for the asado to cook?",
           "options": [
-            "Tomar unos mates (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Tomar una sopa caliente (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Beber té inglés (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Comer cereal (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Tomar unos mates",
+            "Tomar una sopa caliente",
+            "Beber té inglés",
+            "Comer cereal"
           ],
           "answerIndex": 0,
           "explanation": "Passing the mate gourd is the ultimate Argentine welcome."
@@ -3169,10 +3173,10 @@
         {
           "prompt": "Translate: 'What a great and close family you have!'",
           "options": [
-            "¡Qué familia de viejo tienen! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "¡Qué familia tan macanuda y unida tienen! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "¡Ustedes son familia! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "¡Qué familia tan malo tienen! (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "¡Qué familia de viejo tienen!",
+            "¡Qué familia tan macanuda y unida tienen!",
+            "¡Ustedes son familia!",
+            "¡Qué familia tan malo tienen!"
           ],
           "answerIndex": 1,
           "explanation": "macanuda y unida = great and close-knit."
@@ -3180,10 +3184,10 @@
         {
           "prompt": "What Italian city did Nona Rosa's ancestors emigrate from in the dialogue?",
           "options": [
-            "Nápoles (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Milán (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Florencia (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Roma (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Nápoles",
+            "Milán",
+            "Florencia",
+            "Roma"
           ],
           "answerIndex": 0,
           "explanation": "Naples (Nápoles)."
@@ -3195,10 +3199,10 @@
         {
           "prompt": "En el diálogo, ¿quién es el 'asador oficial' de la casa?",
           "options": [
-            "Tom (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "La nona Rosa (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "El tío Jorge (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Facundo (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Tom",
+            "La nona Rosa",
+            "El tío Jorge",
+            "Facundo"
           ],
           "answerIndex": 2,
           "explanation": "Tío Jorge is the asador.",
@@ -3207,10 +3211,10 @@
         {
           "prompt": "'¡Qué hacés, Tom! Pasá, sentate.' muestra:",
           "options": [
-            "Enojo formal (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Hospitalidad informal porteña usando voseo en imperativo (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Un saludo en español neutro (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Una orden militar (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Enojo formal",
+            "Hospitalidad informal porteña usando voseo en imperativo",
+            "Un saludo en español neutro",
+            "Una orden militar"
           ],
           "answerIndex": 1,
           "explanation": "Informal Porteño voseo hospitality.",
@@ -3219,10 +3223,10 @@
         {
           "prompt": "¿Qué costumbre social argentina acompaña la bienvenida a una casa?",
           "options": [
-            "Saludar con un beso en la mejilla y compartir el mate (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Quitarse los zapatos y no hablar (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Dar la mano con guantes (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Hacer una reverencia en silencio (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Saludar con un beso en la mejilla y compartir el mate",
+            "Quitarse los zapatos y no hablar",
+            "Dar la mano con guantes",
+            "Hacer una reverencia en silencio"
           ],
           "answerIndex": 0,
           "explanation": "Cheek kiss and sharing mate.",
@@ -3231,9 +3235,9 @@
         {
           "prompt": "¿Cuál de las siguientes afirmaciones resume el aprendizaje de esta Unidad 3 de Español Argentino?",
           "options": [
-            "Solo saber decir hola y chau (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Solo memorizar números del 1 al 10 (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Aprender español de España clásico (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
+            "Solo saber decir hola y chau",
+            "Solo memorizar números del 1 al 10",
+            "Aprender español de España clásico",
             "Dominio de términos familiares (viejos, nonos)"
           ],
           "answerIndex": 3,
@@ -3243,10 +3247,10 @@
         {
           "prompt": "'Un tipo macanudo' en lunfardo significa:",
           "options": [
-            "Una persona tramposa (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Un extranjero (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Una persona noble, excelente y de gran corazón (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)",
-            "Un cocinero (Participate in a multiturn Argentine Spanish dialogue during a Sunday family asado in Buenos Aires)"
+            "Una persona tramposa",
+            "Un extranjero",
+            "Una persona noble, excelente y de gran corazón",
+            "Un cocinero"
           ],
           "answerIndex": 2,
           "explanation": "macanudo = noble/excellent person.",
@@ -3293,10 +3297,10 @@
         {
           "prompt": "How do you conjugate 'hablar' (to speak) for 'vos' in Argentine Spanish?",
           "options": [
-            "vos hablas (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vos habláis (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vos hablasen (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vos hablás (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "vos hablas",
+            "vos habláis",
+            "vos hablasen",
+            "vos hablás"
           ],
           "answerIndex": 3,
           "explanation": "vos hablás (stressed -ás)."
@@ -3304,10 +3308,10 @@
         {
           "prompt": "How do you conjugate the popular Argentine Lunfardo verb 'laburar' (to work) for 'vos'?",
           "options": [
-            "vos laburáis (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vos labura (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vos laburás (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vos laburas (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "vos laburáis",
+            "vos labura",
+            "vos laburás",
+            "vos laburas"
           ],
           "answerIndex": 2,
           "explanation": "vos laburás."
@@ -3315,10 +3319,10 @@
         {
           "prompt": "Which 2nd-person plural pronoun is universally used in Argentina instead of Peninsular 'vosotros'?",
           "options": [
-            "vosotres (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "ustedes (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vosotros hablan (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "vosotros (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "vosotres",
+            "ustedes",
+            "vosotros hablan",
+            "vosotros"
           ],
           "answerIndex": 1,
           "explanation": "Argentina universally uses 'ustedes'."
@@ -3330,10 +3334,10 @@
         {
           "prompt": "Translate: 'Where do you study?' (using natural Argentine voseo)",
           "options": [
-            "¿Dónde estudias tú? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "¿Dónde estudiáis vosotros? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "¿Dónde estudiar vos? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "¿Dónde estudiás vos? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "¿Dónde estudias tú?",
+            "¿Dónde estudiáis vosotros?",
+            "¿Dónde estudiar vos?",
+            "¿Dónde estudiás vos?"
           ],
           "answerIndex": 3,
           "explanation": "¿Dónde estudiás vos?"
@@ -3341,10 +3345,10 @@
         {
           "prompt": "What does the Argentine phrase '¿Qué tomás?' mean?",
           "options": [
-            "What time is it? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "Who are you taking? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "What are you drinking / What will you have to drink? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "Where are you going? (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "What time is it?",
+            "Who are you taking?",
+            "What are you drinking / What will you have to drink?",
+            "Where are you going?"
           ],
           "answerIndex": 2,
           "explanation": "'tomar' = to drink/take -> ¿Qué tomás?"
@@ -3356,10 +3360,10 @@
         {
           "prompt": "En el voseo rioplatense, ¿dónde recae el acento tónico en los verbos terminados en -AR (ej: hablar, laburar, cantar)?",
           "options": [
-            "En la penúltima sílaba sin tilde (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "En la última sílaba con tilde obligatoria: -ÁS (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "No lleva acento (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "En la primera sílaba (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "En la penúltima sílaba sin tilde",
+            "En la última sílaba con tilde obligatoria: -ÁS",
+            "No lleva acento",
+            "En la primera sílaba"
           ],
           "answerIndex": 1,
           "explanation": "Stressed final syllable with written tilde: -ás.",
@@ -3368,10 +3372,10 @@
         {
           "prompt": "¿Qué verbo del lunfardo significa 'trabajar' en Argentina?",
           "options": [
-            "laburar (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "charlar (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "caminar (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "morfar (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "laburar",
+            "charlar",
+            "caminar",
+            "morfar"
           ],
           "answerIndex": 0,
           "explanation": "laburar = to work (from Italian lavorare).",
@@ -3380,10 +3384,10 @@
         {
           "prompt": "Complete: 'Che, ¿vos ___ mate?' (tomar)",
           "options": [
-            "tomáis (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "toma (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "tomas (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "tomás (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "tomáis",
+            "toma",
+            "tomas",
+            "tomás"
           ],
           "answerIndex": 3,
           "explanation": "vos tomás.",
@@ -3392,10 +3396,10 @@
         {
           "prompt": "¿Por qué no se usa 'tú' en la conversación diaria en Argentina?",
           "options": [
-            "Porque solo se usa en el campo (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "Porque no existe el pronombre (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "Porque el voseo es la norma lingüística culta y natural de toda la sociedad argentina (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "Porque está prohibido por ley (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "Porque solo se usa en el campo",
+            "Porque no existe el pronombre",
+            "Porque el voseo es la norma lingüística culta y natural de toda la sociedad argentina",
+            "Porque está prohibido por ley"
           ],
           "answerIndex": 2,
           "explanation": "Voseo is the universal standard in Argentine culture.",
@@ -3404,10 +3408,10 @@
         {
           "prompt": "'Nosotros caminamos por la Avenida Corrientes' significa:",
           "options": [
-            "They live on Corrientes Avenue (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "We walk along Corrientes Avenue (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "I drive on Corrientes Avenue (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)",
-            "You walk along Corrientes Avenue (Conjugate regular AR verbs in the present tense with Argentine voseo hablar  vos habls)"
+            "They live on Corrientes Avenue",
+            "We walk along Corrientes Avenue",
+            "I drive on Corrientes Avenue",
+            "You walk along Corrientes Avenue"
           ],
           "answerIndex": 1,
           "explanation": "We walk along Corrientes Avenue.",
@@ -3455,10 +3459,10 @@
         {
           "prompt": "How do you conjugate 'comer' (to eat) for 'vos' in Argentine Spanish?",
           "options": [
-            "vos comés (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "vos comes (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "vos comas (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "vos coméis (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "vos comés",
+            "vos comes",
+            "vos comas",
+            "vos coméis"
           ],
           "answerIndex": 0,
           "explanation": "vos comés."
@@ -3466,10 +3470,10 @@
         {
           "prompt": "How do you conjugate 'vivir' (to live) for 'vos'?",
           "options": [
-            "vos vivís (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "vos vives (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "vos viva (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "vos vivísis (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "vos vivís",
+            "vos vives",
+            "vos viva",
+            "vos vivísis"
           ],
           "answerIndex": 0,
           "explanation": "vos vivís."
@@ -3477,10 +3481,10 @@
         {
           "prompt": "What happens to stem-changing verbs like 'entender' in Argentine voseo?",
           "options": [
-            "They do NOT diphthongize: 'vos entendés' (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "They diphthongize to 'vos entiendes' (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "They take -ar endings (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "They become irregular (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "They do NOT diphthongize: 'vos entendés'",
+            "They diphthongize to 'vos entiendes'",
+            "They take -ar endings",
+            "They become irregular"
           ],
           "answerIndex": 0,
           "explanation": "Voseo does not diphthongize: vos entendés."
@@ -3492,10 +3496,10 @@
         {
           "prompt": "Translate: 'Where do you live?' (Argentine standard)",
           "options": [
-            "¿Dónde vives? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "¿Dónde vivir? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "¿Dónde vivís vosotros? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "¿Dónde vivís? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "¿Dónde vives?",
+            "¿Dónde vivir?",
+            "¿Dónde vivís vosotros?",
+            "¿Dónde vivís?"
           ],
           "answerIndex": 3,
           "explanation": "¿Dónde vivís?"
@@ -3503,10 +3507,10 @@
         {
           "prompt": "What does the Lunfardo verb 'morfar' mean?",
           "options": [
-            "To sleep (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "To dance (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "To work (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "To eat (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "To sleep",
+            "To dance",
+            "To work",
+            "To eat"
           ],
           "answerIndex": 3,
           "explanation": "morfar = to eat."
@@ -3518,10 +3522,10 @@
         {
           "prompt": "¿Cuáles son las terminaciones del presente de voseo para -ER y -IR?",
           "options": [
-            "-ÉS para -ER (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "-áis y -éis (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "-o y -as (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "-es y -es sin tilde (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "-ÉS para -ER",
+            "-áis y -éis",
+            "-o y -as",
+            "-es y -es sin tilde"
           ],
           "answerIndex": 0,
           "explanation": "-és and -ís.",
@@ -3530,10 +3534,10 @@
         {
           "prompt": "¿Cómo se conjuga 'escribir' para 'vos'?",
           "options": [
-            "escribes (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "escribí (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "escribas (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "escribís (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "escribes",
+            "escribí",
+            "escribas",
+            "escribís"
           ],
           "answerIndex": 3,
           "explanation": "vos escribís.",
@@ -3542,10 +3546,10 @@
         {
           "prompt": "Complete: '¿Vos ___ la puerta, por favor?' (abrir)",
           "options": [
-            "abrí (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "abras (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "abrís (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "abres (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "abrí",
+            "abras",
+            "abrís",
+            "abres"
           ],
           "answerIndex": 2,
           "explanation": "vos abrís.",
@@ -3554,10 +3558,10 @@
         {
           "prompt": "¿Por qué en voseo se dice 'vos entendés' y no 'vos entiendes'?",
           "options": [
-            "Es una forma informal de escribir (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "Porque el acento tónico en la última sílaba (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "Es una excepción arbitraria (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "Porque viene del portugués (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "Es una forma informal de escribir",
+            "Porque el acento tónico en la última sílaba",
+            "Es una excepción arbitraria",
+            "Porque viene del portugués"
           ],
           "answerIndex": 1,
           "explanation": "Final syllable stress prevents root vowel diphthongization.",
@@ -3566,10 +3570,10 @@
         {
           "prompt": "'¿Qué morfamos hoy?' en lunfardo porteño significa:",
           "options": [
-            "What are we eating today? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "When are we working today? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "Where are we sleeping today? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)",
-            "What are we buying today? (Conjugate regular ER and IR verbs in the present tense with Argentine voseo comer  vos coms)"
+            "What are we eating today?",
+            "When are we working today?",
+            "Where are we sleeping today?",
+            "What are we buying today?"
           ],
           "answerIndex": 0,
           "explanation": "What are we eating today?",
@@ -3616,10 +3620,10 @@
         {
           "prompt": "How do you conjugate 'tener' (to have) for 'vos' in Argentine Spanish?",
           "options": [
-            "vos tienes (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos tenís (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos ten (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos tenés (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "vos tienes",
+            "vos tenís",
+            "vos ten",
+            "vos tenés"
           ],
           "answerIndex": 3,
           "explanation": "vos tenés (no diphthong)."
@@ -3627,10 +3631,10 @@
         {
           "prompt": "How do you say 'you want' (querer) in Argentine voseo?",
           "options": [
-            "vos quieres (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos querís (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos queras (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos querés (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "vos quieres",
+            "vos querís",
+            "vos queras",
+            "vos querés"
           ],
           "answerIndex": 3,
           "explanation": "vos querés."
@@ -3638,10 +3642,10 @@
         {
           "prompt": "What is the voseo form of the verb 'ir' (to go)?",
           "options": [
-            "vos vaís (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos ves (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos voy (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos vas (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "vos vaís",
+            "vos ves",
+            "vos voy",
+            "vos vas"
           ],
           "answerIndex": 3,
           "explanation": "vos vas."
@@ -3653,10 +3657,10 @@
         {
           "prompt": "Translate: 'Can you help me?' (using Argentine voseo: poder)",
           "options": [
-            "¿Me podés ayudar? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "¿Me puedes ayudar? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "¿Me podéis ayudar? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "¿Me poder ayudar? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "¿Me podés ayudar?",
+            "¿Me puedes ayudar?",
+            "¿Me podéis ayudar?",
+            "¿Me poder ayudar?"
           ],
           "answerIndex": 0,
           "explanation": "¿Me podés ayudar?"
@@ -3664,10 +3668,10 @@
         {
           "prompt": "What does '¿Qué hacés?' mean in daily Buenos Aires street greeting?",
           "options": [
-            "What are you doing? / What's up? / How are you doing? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Where are you making that? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Who did that? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "What time is work? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "What are you doing? / What's up? / How are you doing?",
+            "Where are you making that?",
+            "Who did that?",
+            "What time is work?"
           ],
           "answerIndex": 0,
           "explanation": "'¿Qué hacés?' is the universal Argentine greeting for 'What's up / How's it going?'."
@@ -3679,10 +3683,10 @@
         {
           "prompt": "¿Por qué en el voseo argentino se dice 'vos tenés, vos querés, vos podés' sin diptongos?",
           "options": [
-            "Es un error del habla popular (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Solo se aplica a verbos en pasado (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Porque los argentinos olvidaron los diptongos (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Porque la fuerza de la voz recae en la terminación -ÉS, manteniendo pura la vocal de la raíz (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "Es un error del habla popular",
+            "Solo se aplica a verbos en pasado",
+            "Porque los argentinos olvidaron los diptongos",
+            "Porque la fuerza de la voz recae en la terminación -ÉS, manteniendo pura la vocal de la raíz"
           ],
           "answerIndex": 3,
           "explanation": "Syllable stress rule.",
@@ -3691,10 +3695,10 @@
         {
           "prompt": "Complete: 'Che, ¿vos ___ ganas de tomar un café?' (tener)",
           "options": [
-            "tienes (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "tiene (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "tenés (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "tenéis (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "tienes",
+            "tiene",
+            "tenés",
+            "tenéis"
           ],
           "answerIndex": 2,
           "explanation": "vos tenés.",
@@ -3703,10 +3707,10 @@
         {
           "prompt": "¿Cuál es la forma correcta de 'saber' para 'vos'?",
           "options": [
-            "vos sabes (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos sabés (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos sepás (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "vos sabéis (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "vos sabes",
+            "vos sabés",
+            "vos sepás",
+            "vos sabéis"
           ],
           "answerIndex": 1,
           "explanation": "vos sabés.",
@@ -3716,9 +3720,9 @@
           "prompt": "¿Cuáles son los únicos 3 verbos con formas especiales irregulares en el presente de voseo?",
           "options": [
             "ser (sos)",
-            "tener, querer, poder (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "hacer, decir, ver (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "comer, vivir, hablar (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "tener, querer, poder",
+            "hacer, decir, ver",
+            "comer, vivir, hablar"
           ],
           "answerIndex": 0,
           "explanation": "ser (sos), ir (vas), haber (has).",
@@ -3727,10 +3731,10 @@
         {
           "prompt": "'¿Vos sabés dónde queda el Obelisco?' significa:",
           "options": [
-            "Are you walking to the Obelisk? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Do you want to see the Obelisk? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Is the Obelisk open? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)",
-            "Do you know where the Obelisk is located? (Master highfrequency irregular and monophthongized voseo verbs in Argentine Spanish)"
+            "Are you walking to the Obelisk?",
+            "Do you want to see the Obelisk?",
+            "Is the Obelisk open?",
+            "Do you know where the Obelisk is located?"
           ],
           "answerIndex": 3,
           "explanation": "Do you know where the Obelisk is located?",
@@ -3777,10 +3781,10 @@
         {
           "prompt": "Which pronoun replaces 'el asado' (masculine singular)?",
           "options": [
-            "lo (Master Direct Object Pronouns lo)",
-            "los (Master Direct Object Pronouns lo)",
-            "le (Master Direct Object Pronouns lo)",
-            "la (Master Direct Object Pronouns lo)"
+            "lo",
+            "los",
+            "le",
+            "la"
           ],
           "answerIndex": 0,
           "explanation": "'el asado' is masculine singular -> lo."
@@ -3788,10 +3792,10 @@
         {
           "prompt": "How do you say 'I want to drink it' (mate = masculine) with the pronoun attached to the infinitive?",
           "options": [
-            "Quiero tomarlo. (Master Direct Object Pronouns lo)",
-            "Lo tomo querer. (Master Direct Object Pronouns lo)",
-            "Tomar quiero lo. (Master Direct Object Pronouns lo)",
-            "Quiero lo tomar. (Master Direct Object Pronouns lo)"
+            "Quiero tomarlo.",
+            "Lo tomo querer.",
+            "Tomar quiero lo.",
+            "Quiero lo tomar."
           ],
           "answerIndex": 0,
           "explanation": "Attached to infinitive: Quiero tomarlo."
@@ -3799,10 +3803,10 @@
         {
           "prompt": "What does the popular Argentine phrase 'Ni idea' mean?",
           "options": [
-            "No idea / I haven't got a clue (Master Direct Object Pronouns lo)",
-            "I agree (Master Direct Object Pronouns lo)",
-            "Good idea (Master Direct Object Pronouns lo)",
-            "What a bad idea (Master Direct Object Pronouns lo)"
+            "No idea / I haven't got a clue",
+            "I agree",
+            "Good idea",
+            "What a bad idea"
           ],
           "answerIndex": 0,
           "explanation": "'Ni idea' = No clue / No idea."
@@ -3814,10 +3818,10 @@
         {
           "prompt": "Translate: 'Do you have the keys?' (las llaves) -> 'Yes, I have them.'",
           "options": [
-            "¿Tenés las llaves? — Sí, las tengo. (Master Direct Object Pronouns lo)",
-            "¿Tenés las llaves? — Sí, tengo las. (Master Direct Object Pronouns lo)",
-            "¿Tenés las llaves? — Sí, los tengo. (Master Direct Object Pronouns lo)",
-            "¿Tenés las llaves? — Sí, la tengo. (Master Direct Object Pronouns lo)"
+            "¿Tenés las llaves? — Sí, las tengo.",
+            "¿Tenés las llaves? — Sí, tengo las.",
+            "¿Tenés las llaves? — Sí, los tengo.",
+            "¿Tenés las llaves? — Sí, la tengo."
           ],
           "answerIndex": 0,
           "explanation": "las llaves -> las tengo."
@@ -3826,9 +3830,9 @@
           "prompt": "At an Argentine bakery (*panadería*), what are 'facturas'?",
           "options": [
             "Sweet traditional pastries (like medialunas)",
-            "Tax receipts (Master Direct Object Pronouns lo)",
-            "Meat sandwiches (Master Direct Object Pronouns lo)",
-            "Salty crackers (Master Direct Object Pronouns lo)"
+            "Tax receipts",
+            "Meat sandwiches",
+            "Salty crackers"
           ],
           "answerIndex": 0,
           "explanation": "facturas = sweet pastries."
@@ -3840,10 +3844,10 @@
         {
           "prompt": "Reemplace el objeto directo: 'Nosotros preparamos la pizza.'",
           "options": [
-            "Nosotros las preparamos. (Master Direct Object Pronouns lo)",
-            "Nosotros lo preparamos. (Master Direct Object Pronouns lo)",
-            "Nosotros la preparamos. (Master Direct Object Pronouns lo)",
-            "Nosotros le preparamos. (Master Direct Object Pronouns lo)"
+            "Nosotros las preparamos.",
+            "Nosotros lo preparamos.",
+            "Nosotros la preparamos.",
+            "Nosotros le preparamos."
           ],
           "answerIndex": 2,
           "explanation": "la pizza -> la preparamos.",
@@ -3852,10 +3856,10 @@
         {
           "prompt": "En la frase 'Voy a preparar el mate', ¿cuáles son las dos formas correctas de usar el pronombre 'lo'?",
           "options": [
-            "Solo 'Voy lo a preparar' (Master Direct Object Pronouns lo)",
-            "Lo voy a preparar OR Voy a prepararlo (Master Direct Object Pronouns lo)",
-            "Solo 'Preparar voy lo' (Master Direct Object Pronouns lo)",
-            "No se puede usar pronombre (Master Direct Object Pronouns lo)"
+            "Solo 'Voy lo a preparar'",
+            "Lo voy a preparar OR Voy a prepararlo",
+            "Solo 'Preparar voy lo'",
+            "No se puede usar pronombre"
           ],
           "answerIndex": 1,
           "explanation": "Before conjugated verb OR enclitic on infinitive.",
@@ -3864,10 +3868,10 @@
         {
           "prompt": "'¿La conocés a mi hermana?' muestra:",
           "options": [
-            "El uso del pronombre de objeto directo 'la' con un objeto femenino singular (Master Direct Object Pronouns lo)",
-            "Un error de concordancia (Master Direct Object Pronouns lo)",
-            "Un tiempo pasado (Master Direct Object Pronouns lo)",
-            "El modo subjuntivo (Master Direct Object Pronouns lo)"
+            "El uso del pronombre de objeto directo 'la' con un objeto femenino singular",
+            "Un error de concordancia",
+            "Un tiempo pasado",
+            "El modo subjuntivo"
           ],
           "answerIndex": 0,
           "explanation": "Direct object pronoun with feminine person.",
@@ -3876,10 +3880,10 @@
         {
           "prompt": "Si alguien te pregunta '¿Dónde está el baño?' y no sabés la respuesta, una respuesta informal y típica es:",
           "options": [
-            "De nada. (Master Direct Object Pronouns lo)",
-            "Sí, claro. (Master Direct Object Pronouns lo)",
-            "Buen día. (Master Direct Object Pronouns lo)",
-            "Ni idea, che. (Master Direct Object Pronouns lo)"
+            "De nada.",
+            "Sí, claro.",
+            "Buen día.",
+            "Ni idea, che."
           ],
           "answerIndex": 3,
           "explanation": "Ni idea, che.",
@@ -3888,10 +3892,10 @@
         {
           "prompt": "Reemplace el objeto directo: 'Ellos compran los alfajores.'",
           "options": [
-            "Ellos las compran. (Master Direct Object Pronouns lo)",
-            "Ellos lo compran. (Master Direct Object Pronouns lo)",
-            "Ellos los compran. (Master Direct Object Pronouns lo)",
-            "Ellos les compran. (Master Direct Object Pronouns lo)"
+            "Ellos las compran.",
+            "Ellos lo compran.",
+            "Ellos los compran.",
+            "Ellos les compran."
           ],
           "answerIndex": 2,
           "explanation": "los alfajores -> los compran.",
@@ -3940,10 +3944,10 @@
         {
           "prompt": "How does Martín ask Lucas if he wants to share the giant milanesa using correct voseo and direct object syntax?",
           "options": [
-            "¿La querés compartir conmigo? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "¿La quieres compartir? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "¿Lo querés compartir? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "¿Compartir la tú? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "¿La querés compartir conmigo?",
+            "¿La quieres compartir?",
+            "¿Lo querés compartir?",
+            "¿Compartir la tú?"
           ],
           "answerIndex": 0,
           "explanation": "la (la milanesa) + querés (voseo)."
@@ -3951,10 +3955,10 @@
         {
           "prompt": "What does the Argentine phrase '¡De una!' mean when agreeing to a proposal?",
           "options": [
-            "Totally! / Absolutely! / Count me in! / Let's do it! (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Only one item (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Never (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "I disagree (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "Totally! / Absolutely! / Count me in! / Let's do it!",
+            "Only one item",
+            "Never",
+            "I disagree"
           ],
           "answerIndex": 0,
           "explanation": "'¡De una!' expresses instant enthusiastic agreement."
@@ -3962,10 +3966,10 @@
         {
           "prompt": "What traditional Argentine table beverage setup is ordered alongside Malbec wine?",
           "options": [
-            "Un sifón de soda (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Jugo de naranja (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Té caliente (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Leche (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "Un sifón de soda",
+            "Jugo de naranja",
+            "Té caliente",
+            "Leche"
           ],
           "answerIndex": 0,
           "explanation": "El sifón de soda is the iconic bodegón companion to house wine."
@@ -3977,10 +3981,10 @@
         {
           "prompt": "Translate: 'What are you bringing us to drink?' (addressing the waiter as vos/usted)",
           "options": [
-            "¿Qué tomar vos? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "¿Qué nos traés para tomar? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "¿Dónde está la comida? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "¿Qué nos traes? (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "¿Qué tomar vos?",
+            "¿Qué nos traés para tomar?",
+            "¿Dónde está la comida?",
+            "¿Qué nos traes?"
           ],
           "answerIndex": 1,
           "explanation": "¿Qué nos traés para tomar?"
@@ -3988,10 +3992,10 @@
         {
           "prompt": "What does the phrase 'Es de diez' mean in Argentine praise?",
           "options": [
-            "It is 10/10 / Fantastic / Top-notch quality (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "It is ten o'clock (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "It is very small (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "It costs ten pesos (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "It is 10/10 / Fantastic / Top-notch quality",
+            "It is ten o'clock",
+            "It is very small",
+            "It costs ten pesos"
           ],
           "answerIndex": 0,
           "explanation": "'De diez' = 10 out of 10 / Outstanding."
@@ -4003,10 +4007,10 @@
         {
           "prompt": "La expresión porteña '¡Al toque!' dicha por el mozo significa:",
           "options": [
-            "Never (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Right away! / Immediately! (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Wait an hour (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Touch the table (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "Never",
+            "Right away! / Immediately!",
+            "Wait an hour",
+            "Touch the table"
           ],
           "answerIndex": 1,
           "explanation": "'Al toque' = Right away / Immediately.",
@@ -4015,10 +4019,10 @@
         {
           "prompt": "¿Qué síntesis gramatical domina toda esta 4ª Unidad de Español Argentino?",
           "options": [
-            "La conjugación del presente con voseo regular e irregular (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Solo el futuro simple (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Solo los números del 1 al 10 (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Solo el pretérito indefinido (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "La conjugación del presente con voseo regular e irregular",
+            "Solo el futuro simple",
+            "Solo los números del 1 al 10",
+            "Solo el pretérito indefinido"
           ],
           "answerIndex": 0,
           "explanation": "Unit 4 master grammar synthesis.",
@@ -4027,10 +4031,10 @@
         {
           "prompt": "¿Qué es un 'bodegón' en la cultura gastronómica de Buenos Aires?",
           "options": [
-            "Un supermercado moderno (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Un bar nocturno de música electrónica (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Una panadería pequeña (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Un restaurante tradicional de porciones abundantes y recetas caseras italo-españolas (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "Un supermercado moderno",
+            "Un bar nocturno de música electrónica",
+            "Una panadería pequeña",
+            "Un restaurante tradicional de porciones abundantes y recetas caseras italo-españolas"
           ],
           "answerIndex": 3,
           "explanation": "Traditional neighborhood restaurant.",
@@ -4039,10 +4043,10 @@
         {
           "prompt": "'El morfi' en lunfardo es un sinónimo de:",
           "options": [
-            "El dinero (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "El trabajo (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "La comida (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "La ropa (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "El dinero",
+            "El trabajo",
+            "La comida",
+            "La ropa"
           ],
           "answerIndex": 2,
           "explanation": "el morfi = food.",
@@ -4051,10 +4055,10 @@
         {
           "prompt": "La frase 'Un viaje de ida' se utiliza coloquialmente para describir:",
           "options": [
-            "Un boleto de avión sin regreso (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Una experiencia tan maravillosa que una vez que la probás, no querés volver atrás (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Una pérdida de tiempo (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)",
-            "Un viaje aburrido (Participate in a multiturn Argentine dialogue at a classic Buenos Aires Bodegn  Caf Notable in San Telmo)"
+            "Un boleto de avión sin regreso",
+            "Una experiencia tan maravillosa que una vez que la probás, no querés volver atrás",
+            "Una pérdida de tiempo",
+            "Un viaje aburrido"
           ],
           "answerIndex": 1,
           "explanation": "A mind-blowing experience you can never go back from.",
@@ -4108,10 +4112,10 @@
         {
           "prompt": "How do Argentines naturally ask someone 'What time do you have?' using voseo?",
           "options": [
-            "¿Qué hora tienes tú? (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "¿Qué hora tenéis? (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "¿Qué hora haber? (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "¿Qué hora tenés? (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "¿Qué hora tienes tú?",
+            "¿Qué hora tenéis?",
+            "¿Qué hora haber?",
+            "¿Qué hora tenés?"
           ],
           "answerIndex": 3,
           "explanation": "¿Qué hora tenés? uses Argentine voseo with acute stress."
@@ -4119,10 +4123,10 @@
         {
           "prompt": "What is 'la merienda' in Argentine daily culture?",
           "options": [
-            "Sunday lunch (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Midnight snack (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "The traditional late-afternoon snack/tea (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "The early morning breakfast (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "Sunday lunch",
+            "Midnight snack",
+            "The traditional late-afternoon snack/tea",
+            "The early morning breakfast"
           ],
           "answerIndex": 2,
           "explanation": "La merienda is the late-afternoon meal."
@@ -4134,10 +4138,10 @@
         {
           "prompt": "Translate: 'We have dinner at ten at night.'",
           "options": [
-            "Almorzamos a las diez de la mañana. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Desayunamos a las diez. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Merendamos a las diez. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Cenamos a las diez de la noche. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "Almorzamos a las diez de la mañana.",
+            "Desayunamos a las diez.",
+            "Merendamos a las diez.",
+            "Cenamos a las diez de la noche."
           ],
           "answerIndex": 3,
           "explanation": "Cenamos a las diez de la noche = We have dinner at 10 PM."
@@ -4145,9 +4149,9 @@
         {
           "prompt": "What does 'Son las siete y cuarto' mean?",
           "options": [
-            "It is 7:30. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "It is 6:45. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "It is 7:00. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
+            "It is 7:30.",
+            "It is 6:45.",
+            "It is 7:00.",
             "It is 7:15 (quarter past seven)"
           ],
           "answerIndex": 3,
@@ -4160,10 +4164,10 @@
         {
           "prompt": "Which time schedule is typical for dinner (*la cena*) in Argentina?",
           "options": [
-            "Between 9:30 PM and 11:00 PM (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "At 6:00 PM (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "At noon (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "At 5:00 PM (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "Between 9:30 PM and 11:00 PM",
+            "At 6:00 PM",
+            "At noon",
+            "At 5:00 PM"
           ],
           "answerIndex": 0,
           "explanation": "Argentines dine late (9:30-11:00 PM).",
@@ -4172,10 +4176,10 @@
         {
           "prompt": "Translate: '¿A qué hora empieza la clase? — A las dos y media de la tarde.'",
           "options": [
-            "What time does the class finish? — At 2:00 PM. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Where is the class? — Room 2. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Who is the teacher? — At 2:30. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "What time does the class start? — At 2:30 in the afternoon. (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "What time does the class finish? — At 2:00 PM.",
+            "Where is the class? — Room 2.",
+            "Who is the teacher? — At 2:30.",
+            "What time does the class start? — At 2:30 in the afternoon."
           ],
           "answerIndex": 3,
           "explanation": "las dos y media de la tarde = 2:30 PM.",
@@ -4184,10 +4188,10 @@
         {
           "prompt": "What does 'Son las ocho menos cuarto' indicate?",
           "options": [
-            "8:30 (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "8:45 (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "7:45 (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "8:15 (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "8:30",
+            "8:45",
+            "7:45",
+            "8:15"
           ],
           "answerIndex": 2,
           "explanation": "menos cuarto = minus a quarter (7:45).",
@@ -4196,10 +4200,10 @@
         {
           "prompt": "What is the typical pairing for an Argentine afternoon 'merienda'?",
           "options": [
-            "Pizza de cena (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Mate o café con medialunas / facturas (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Asado con vino tinto (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)",
-            "Sopa de pescado (Tell exact clock time and schedule daily Argentine activities across distinct parts of the day including la merienda)"
+            "Pizza de cena",
+            "Mate o café con medialunas / facturas",
+            "Asado con vino tinto",
+            "Sopa de pescado"
           ],
           "answerIndex": 1,
           "explanation": "Mate/coffee with sweet facturas or medialunas.",
@@ -4252,10 +4256,10 @@
         {
           "prompt": "How do you conjugate 'despertarse' for 'vos' in Argentine Spanish?",
           "options": [
-            "te despertás (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "te despertiés (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "te despiertas (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "te despiertes (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "te despertás",
+            "te despertiés",
+            "te despiertas",
+            "te despiertes"
           ],
           "answerIndex": 0,
           "explanation": "In voseo, the stem does not split: te despertás."
@@ -4263,10 +4267,10 @@
         {
           "prompt": "What is the 'vos' form of 'acostarse' (to go to bed)?",
           "options": [
-            "te acostás (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "te acuestas (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "te acuestes (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "te acostiés (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "te acostás",
+            "te acuestas",
+            "te acuestes",
+            "te acostiés"
           ],
           "answerIndex": 0,
           "explanation": "vos te acostás."
@@ -4278,10 +4282,10 @@
         {
           "prompt": "Translate: 'You get dressed and leave for work.' (using voseo)",
           "options": [
-            "Tú te vistes y te vas. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "Vos te vistes y salís. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "Vos te vestís y te vas a trabajar. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "Vos vestirse y trabajar. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "Tú te vistes y te vas.",
+            "Vos te vistes y salís.",
+            "Vos te vestís y te vas a trabajar.",
+            "Vos vestirse y trabajar."
           ],
           "answerIndex": 2,
           "explanation": "vos te vestís (with -ís ending)."
@@ -4289,10 +4293,10 @@
         {
           "prompt": "Translate: 'Me lavo las manos antes de comer.'",
           "options": [
-            "You wash your hands after eating. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "I brush my teeth before sleeping. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "He washes the dishes. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "I wash my hands before eating. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "You wash your hands after eating.",
+            "I brush my teeth before sleeping.",
+            "He washes the dishes.",
+            "I wash my hands before eating."
           ],
           "answerIndex": 3,
           "explanation": "Me lavo las manos = I wash my hands."
@@ -4304,10 +4308,10 @@
         {
           "prompt": "Why do stem-changing verbs like 'despertarse' ($e ightarrow ie$) and 'acostarse' ($o ightarrow ue$) become regular in Argentine voseo (*te despertás, te acostás*)?",
           "options": [
-            "Because of Italian influence. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "Because reflexives never change vowels in Spanish. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "Because it is the subjunctive mood. (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "Because the stress falls on the final inflectional suffix (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "Because of Italian influence.",
+            "Because reflexives never change vowels in Spanish.",
+            "Because it is the subjunctive mood.",
+            "Because the stress falls on the final inflectional suffix"
           ],
           "answerIndex": 3,
           "explanation": "The final stress on -ás keeps the root unstressed and monophthongal.",
@@ -4316,10 +4320,10 @@
         {
           "prompt": "Translate into Argentine Spanish: 'Do you shower in the morning or at night?'",
           "options": [
-            "¿Bañarse tú en la mañana? (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "¿Vos bañas por la mañana? (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "¿Te bañás a la mañana o a la noche? (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "¿Te bañas en la mañana o noche? (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "¿Bañarse tú en la mañana?",
+            "¿Vos bañas por la mañana?",
+            "¿Te bañás a la mañana o a la noche?",
+            "¿Te bañas en la mañana o noche?"
           ],
           "answerIndex": 2,
           "explanation": "¿Te bañás a la mañana o a la noche? (Argentine prepositions & voseo).",
@@ -4328,10 +4332,10 @@
         {
           "prompt": "Conjugate 'vestirse' for 'yo' and 'vos':",
           "options": [
-            "yo me viesto / vos te viestás (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "yo me visto / vos te vestís (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "yo me visto / vos te vestes (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "yo me visto / vos te vistes (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "yo me viesto / vos te viestás",
+            "yo me visto / vos te vestís",
+            "yo me visto / vos te vestes",
+            "yo me visto / vos te vistes"
           ],
           "answerIndex": 1,
           "explanation": "yo me visto, vos te vestís.",
@@ -4340,10 +4344,10 @@
         {
           "prompt": "What is 'la pava' in an Argentine kitchen?",
           "options": [
-            "The traditional kettle used to heat water for mate (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "A microwave (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "A refrigerator (Conjugate daily routine reflexive verbs with Argentine voseo te levants)",
-            "A frying pan (Conjugate daily routine reflexive verbs with Argentine voseo te levants)"
+            "The traditional kettle used to heat water for mate",
+            "A microwave",
+            "A refrigerator",
+            "A frying pan"
           ],
           "answerIndex": 0,
           "explanation": "La pava is the water kettle.",
@@ -4397,10 +4401,10 @@
         {
           "prompt": "What is 'el bondi' in Argentine Porteño slang?",
           "options": [
-            "The subway (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "The taxi (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "The bicycle (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "The city bus (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "The subway",
+            "The taxi",
+            "The bicycle",
+            "The city bus"
           ],
           "answerIndex": 3,
           "explanation": "el bondi = the city bus."
@@ -4408,10 +4412,10 @@
         {
           "prompt": "What card is required to pay for buses, subways, and trains in Argentina?",
           "options": [
-            "El boleto de papel (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "La tarjeta Metro (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "El pase libre (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "La tarjeta SUBE (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "El boleto de papel",
+            "La tarjeta Metro",
+            "El pase libre",
+            "La tarjeta SUBE"
           ],
           "answerIndex": 3,
           "explanation": "La tarjeta SUBE is the national transit card."
@@ -4423,10 +4427,10 @@
         {
           "prompt": "Translate: 'Before going out, I brush my teeth.'",
           "options": [
-            "Antes de salir, me lavo los dientes. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Después de salir, me lavo los dientes. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Primero salgo, luego me lavo los dientes. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "No me lavo los dientes antes de salir. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "Antes de salir, me lavo los dientes.",
+            "Después de salir, me lavo los dientes.",
+            "Primero salgo, luego me lavo los dientes.",
+            "No me lavo los dientes antes de salir."
           ],
           "answerIndex": 0,
           "explanation": "Antes de salir = Before going out."
@@ -4434,10 +4438,10 @@
         {
           "prompt": "What does 'el subte' refer to in Buenos Aires?",
           "options": [
-            "The underground subway network (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "The suburban commuter train (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "An express taxi (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "The ferry to Uruguay (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "The underground subway network",
+            "The suburban commuter train",
+            "An express taxi",
+            "The ferry to Uruguay"
           ],
           "answerIndex": 0,
           "explanation": "el subte = the subway."
@@ -4449,10 +4453,10 @@
         {
           "prompt": "Which sequence demonstrates a typical morning commute in Buenos Aires?",
           "options": [
-            "Primero duermo en el subte, después me acuesto en la cama. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Primero llego al trabajo y después me despierto. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Primero tomo unos mates, después cargo la tarjeta SUBE y me tomo el bondi al centro. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Ceno a las 8 de la mañana y me tomo el avión. (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "Primero duermo en el subte, después me acuesto en la cama.",
+            "Primero llego al trabajo y después me despierto.",
+            "Primero tomo unos mates, después cargo la tarjeta SUBE y me tomo el bondi al centro.",
+            "Ceno a las 8 de la mañana y me tomo el avión."
           ],
           "answerIndex": 2,
           "explanation": "Logical commute sequence in Porteño terminology.",
@@ -4461,10 +4465,10 @@
         {
           "prompt": "What grammatical structure follows 'antes de' and 'después de' in Spanish?",
           "options": [
-            "A gerund (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "An Infinitive verb (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "A conjugated present verb (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "A past participle (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "A gerund",
+            "An Infinitive verb",
+            "A conjugated present verb",
+            "A past participle"
           ],
           "answerIndex": 1,
           "explanation": "'antes de' / 'después de' + infinitive.",
@@ -4473,10 +4477,10 @@
         {
           "prompt": "What is the historical artistic decorative painting seen on Buenos Aires buses called?",
           "options": [
-            "Fileteado porteño (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Tango mural (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Arte pampeano (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Graffiti rioplatense (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "Fileteado porteño",
+            "Tango mural",
+            "Arte pampeano",
+            "Graffiti rioplatense"
           ],
           "answerIndex": 0,
           "explanation": "Fileteado porteño is the UNESCO-recognized decorative painting style.",
@@ -4485,10 +4489,10 @@
         {
           "prompt": "Translate: '¿Nos juntamos después de la facultad?'",
           "options": [
-            "Are you leaving the university? (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Do we have class before university? (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Where is the faculty building? (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)",
-            "Shall we meet up / hang out after university? (Sequence daily habits and Buenos Aires transit commutes using temporal connectors primero)"
+            "Are you leaving the university?",
+            "Do we have class before university?",
+            "Where is the faculty building?",
+            "Shall we meet up / hang out after university?"
           ],
           "answerIndex": 3,
           "explanation": "juntarse = to get together / hang out.",
@@ -4541,10 +4545,10 @@
         {
           "prompt": "How do you say 'Come here!' in Argentine voseo?",
           "options": [
-            "¡Vení! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Venga! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Venid! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Ven tú! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "¡Vení!",
+            "¡Venga!",
+            "¡Venid!",
+            "¡Ven tú!"
           ],
           "answerIndex": 0,
           "explanation": "venir -> ¡Vení! in voseo."
@@ -4552,10 +4556,10 @@
         {
           "prompt": "What is the voseo imperative of 'poner' in '¡_____ la pava!'?",
           "options": [
-            "Poné (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Ponga (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Poneis (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Pon (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "Poné",
+            "Ponga",
+            "Poneis",
+            "Pon"
           ],
           "answerIndex": 0,
           "explanation": "poner -> ¡Poné!"
@@ -4567,10 +4571,10 @@
         {
           "prompt": "Translate: 'Sit down and tell me!' (voseo)",
           "options": [
-            "¡Sentate y decime! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Siéntese y dígame! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Siéntate y dime! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Sentaos y decidme! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "¡Sentate y decime!",
+            "¡Siéntese y dígame!",
+            "¡Siéntate y dime!",
+            "¡Sentaos y decidme!"
           ],
           "answerIndex": 0,
           "explanation": "¡Sentate y decime! is the authentic Argentine voseo command."
@@ -4578,10 +4582,10 @@
         {
           "prompt": "How do you say 'Go to sleep!' using voseo?",
           "options": [
-            "¡Andá a dormir! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Ve a dormir! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Id a dormir! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Vaya a dormir! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "¡Andá a dormir!",
+            "¡Ve a dormir!",
+            "¡Id a dormir!",
+            "¡Vaya a dormir!"
           ],
           "answerIndex": 0,
           "explanation": "ir in voseo imperative uses 'andar': ¡Andá a dormir!"
@@ -4593,10 +4597,10 @@
         {
           "prompt": "How are affirmative voseo commands formed in Argentine Spanish?",
           "options": [
-            "Use the 3rd person singular present tense like in Spain. (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Drop the final -r from the infinitive and place an acute stress accent on the final vowel (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Use the subjunctive mood with no accents. (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Add -te to the end of any past tense verb. (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "Use the 3rd person singular present tense like in Spain.",
+            "Drop the final -r from the infinitive and place an acute stress accent on the final vowel",
+            "Use the subjunctive mood with no accents.",
+            "Add -te to the end of any past tense verb."
           ],
           "answerIndex": 1,
           "explanation": "Infinitive minus -r with stressed final vowel.",
@@ -4605,10 +4609,10 @@
         {
           "prompt": "Match the Argentine voseo commands: venir, hacer, poner, ir:",
           "options": [
-            "¡Vení!, ¡Hacé!, ¡Poné!, ¡Andá! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Ven!, ¡Haz!, ¡Pon!, ¡Ve! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Venga!, ¡Haga!, ¡Ponga!, ¡Vaya! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Venid!, ¡Haced!, ¡Poned!, ¡Id! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "¡Vení!, ¡Hacé!, ¡Poné!, ¡Andá!",
+            "¡Ven!, ¡Haz!, ¡Pon!, ¡Ve!",
+            "¡Venga!, ¡Haga!, ¡Ponga!, ¡Vaya!",
+            "¡Venid!, ¡Haced!, ¡Poned!, ¡Id!"
           ],
           "answerIndex": 0,
           "explanation": "Core irregular voseo imperatives.",
@@ -4617,10 +4621,10 @@
         {
           "prompt": "Translate: '¡Dale, apurate que perdemos el bondi!'",
           "options": [
-            "The bus has arrived on time! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Stop, wait for the train! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Let's buy a bus ticket! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "Come on, hurry up or we'll miss the bus! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "The bus has arrived on time!",
+            "Stop, wait for the train!",
+            "Let's buy a bus ticket!",
+            "Come on, hurry up or we'll miss the bus!"
           ],
           "answerIndex": 3,
           "explanation": "¡Dale, apurate! = Come on, hurry up!",
@@ -4629,10 +4633,10 @@
         {
           "prompt": "What command does an Argentine host give when welcoming you into their home?",
           "options": [
-            "¡Pagá la cuenta! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Salí de acá! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡Pasá, che, sentate y tomemos unos mates! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)",
-            "¡No toques nada! (Form and apply affirmative informal commands using Argentine voseo imperatives Hac)"
+            "¡Pagá la cuenta!",
+            "¡Salí de acá!",
+            "¡Pasá, che, sentate y tomemos unos mates!",
+            "¡No toques nada!"
           ],
           "answerIndex": 2,
           "explanation": "¡Pasá, sentate! is the iconic hospitable Argentine welcome.",
@@ -4686,10 +4690,10 @@
         {
           "prompt": "In the dialogue, what does Nico buy from the bakery for breakfast?",
           "options": [
-            "Medialunas de manteca calientes (Synthesize clock times)",
-            "Churros con chocolate (Synthesize clock times)",
-            "Pan francés solo (Synthesize clock times)",
-            "Empanadas de carne (Synthesize clock times)"
+            "Medialunas de manteca calientes",
+            "Churros con chocolate",
+            "Pan francés solo",
+            "Empanadas de carne"
           ],
           "answerIndex": 0,
           "explanation": "Nico buys medialunas de manteca calientes."
@@ -4697,10 +4701,10 @@
         {
           "prompt": "How does Julieta commute to work in the dialogue?",
           "options": [
-            "She takes Subway Line D and transfers to Line B (Synthesize clock times)",
-            "She drives a car (Synthesize clock times)",
-            "She takes a taxi (Synthesize clock times)",
-            "She walks the entire way (Synthesize clock times)"
+            "She takes Subway Line D and transfers to Line B",
+            "She drives a car",
+            "She takes a taxi",
+            "She walks the entire way"
           ],
           "answerIndex": 0,
           "explanation": "Julieta takes Subte D and transfers to Line B."
@@ -4712,10 +4716,10 @@
         {
           "prompt": "Translate: 'Load the SUBE card and come with me!' (voseo)",
           "options": [
-            "¡Cargad la SUBE y venid conmigo! (Synthesize clock times)",
-            "¡Cargá la SUBE y vení conmigo! (Synthesize clock times)",
-            "¡Cargue la SUBE y venga conmigo! (Synthesize clock times)",
-            "¡Carga la SUBE y ven conmigo! (Synthesize clock times)"
+            "¡Cargad la SUBE y venid conmigo!",
+            "¡Cargá la SUBE y vení conmigo!",
+            "¡Cargue la SUBE y venga conmigo!",
+            "¡Carga la SUBE y ven conmigo!"
           ],
           "answerIndex": 1,
           "explanation": "¡Cargá ... y vení! (voseo commands)."
@@ -4723,10 +4727,10 @@
         {
           "prompt": "Translate: 'A las cinco de la tarde merendamos.'",
           "options": [
-            "At 5:00 PM we have afternoon tea/snack. (Synthesize clock times)",
-            "At 5:00 PM we have dinner. (Synthesize clock times)",
-            "At 5:00 PM we go to sleep. (Synthesize clock times)",
-            "At 5:00 AM we wake up. (Synthesize clock times)"
+            "At 5:00 PM we have afternoon tea/snack.",
+            "At 5:00 PM we have dinner.",
+            "At 5:00 PM we go to sleep.",
+            "At 5:00 AM we wake up."
           ],
           "answerIndex": 0,
           "explanation": "merendamos = we have our afternoon merienda."
@@ -4738,10 +4742,10 @@
         {
           "prompt": "Which sentence demonstrates accurate Argentine voseo commands, routine verbs, and transit vocabulary?",
           "options": [
-            "¡Che, levantate, poné la pava y cargá la SUBE que nos tomamos el bondi! (Synthesize clock times)",
-            "¡Tú levántate, pon la pava y toma el autobús tú! (Synthesize clock times)",
-            "¡Vos levantas y pones la pava sin tarjeta! (Synthesize clock times)",
-            "¡Venga y haga el bondi rápido! (Synthesize clock times)"
+            "¡Che, levantate, poné la pava y cargá la SUBE que nos tomamos el bondi!",
+            "¡Tú levántate, pon la pava y toma el autobús tú!",
+            "¡Vos levantas y pones la pava sin tarjeta!",
+            "¡Venga y haga el bondi rápido!"
           ],
           "answerIndex": 0,
           "explanation": "Flawless Argentine Rioplatense daily routine phrasing.",
@@ -4750,9 +4754,9 @@
         {
           "prompt": "What is the standard order of Argentine daily meals?",
           "options": [
-            "Breakfast -> Dinner at 5 PM -> Sleep (Synthesize clock times)",
-            "Lunch only -> Dinner at 6 PM (Synthesize clock times)",
-            "Breakfast -> Snack -> Sleep (Synthesize clock times)",
+            "Breakfast -> Dinner at 5 PM -> Sleep",
+            "Lunch only -> Dinner at 6 PM",
+            "Breakfast -> Snack -> Sleep",
             "Desayuno (morning)"
           ],
           "answerIndex": 3,
@@ -4762,10 +4766,10 @@
         {
           "prompt": "Translate: 'Primero me baño, me visto y después salgo para la facultad.'",
           "options": [
-            "First I eat, sleep, and then go home. (Synthesize clock times)",
-            "I never shower before university. (Synthesize clock times)",
-            "First I shower, get dressed, and then leave for university. (Synthesize clock times)",
-            "After university I get dressed. (Synthesize clock times)"
+            "First I eat, sleep, and then go home.",
+            "I never shower before university.",
+            "First I shower, get dressed, and then leave for university.",
+            "After university I get dressed."
           ],
           "answerIndex": 2,
           "explanation": "Sequential morning routine.",
@@ -4774,10 +4778,10 @@
         {
           "prompt": "What core grammatical and cultural pillars were mastered across Unit 5 in Argentine Spanish?",
           "options": [
-            "Past subjunctive conditionals only (Synthesize clock times)",
+            "Past subjunctive conditionals only",
             "Clock times & late daily rhythms, voseo routine reflexives (bondi, subte, SUBE)",
-            "Alphabet only (Synthesize clock times)",
-            "Indirect speech passive voice only (Synthesize clock times)"
+            "Alphabet only",
+            "Indirect speech passive voice only"
           ],
           "answerIndex": 1,
           "explanation": "Unit 5 comprehensive daily routine, voseo, and transit synthesis.",
@@ -4831,10 +4835,10 @@
         {
           "prompt": "What is 'el choripán' in Argentine street food culture?",
           "options": [
-            "A sweet pastry with dulce de leche (Identify and classify staple Argentine food)",
-            "A type of fried fish (Identify and classify staple Argentine food)",
-            "Cold cheese salad (Identify and classify staple Argentine food)",
-            "Grilled chorizo sausage in crusty bread with chimichurri sauce (Identify and classify staple Argentine food)"
+            "A sweet pastry with dulce de leche",
+            "A type of fried fish",
+            "Cold cheese salad",
+            "Grilled chorizo sausage in crusty bread with chimichurri sauce"
           ],
           "answerIndex": 3,
           "explanation": "el choripán = grilled chorizo in bread."
@@ -4842,10 +4846,10 @@
         {
           "prompt": "When should you say 'gracias' in an Argentine mate circle (*la ronda de mate*)?",
           "options": [
-            "When the water boils (Identify and classify staple Argentine food)",
-            "Before taking the first sip (Identify and classify staple Argentine food)",
-            "Only when you are completely finished and do not want any more mates (Identify and classify staple Argentine food)",
-            "Every single time someone hands you the gourd (Identify and classify staple Argentine food)"
+            "When the water boils",
+            "Before taking the first sip",
+            "Only when you are completely finished and do not want any more mates",
+            "Every single time someone hands you the gourd"
           ],
           "answerIndex": 2,
           "explanation": "Saying 'gracias' in a mate circle signifies 'No more for me, thank you'."
@@ -4857,10 +4861,10 @@
         {
           "prompt": "Translate: 'a medium-rare sirloin steak with French fries'",
           "options": [
-            "un pollo frito con arroz (Identify and classify staple Argentine food)",
-            "una empanada de queso con ensalada (Identify and classify staple Argentine food)",
-            "un sándwich de jamón frío (Identify and classify staple Argentine food)",
-            "un bife de chorizo a punto con papas fritas (Identify and classify staple Argentine food)"
+            "un pollo frito con arroz",
+            "una empanada de queso con ensalada",
+            "un sándwich de jamón frío",
+            "un bife de chorizo a punto con papas fritas"
           ],
           "answerIndex": 3,
           "explanation": "bife de chorizo a punto = sirloin steak cooked medium."
@@ -4868,10 +4872,10 @@
         {
           "prompt": "What is the metal straw with a filter used for drinking mate called?",
           "options": [
-            "el termo (Identify and classify staple Argentine food)",
-            "la pava (Identify and classify staple Argentine food)",
-            "el mate (Identify and classify staple Argentine food)",
-            "la bombilla (Identify and classify staple Argentine food)"
+            "el termo",
+            "la pava",
+            "el mate",
+            "la bombilla"
           ],
           "answerIndex": 3,
           "explanation": "la bombilla is the metal filtered straw."
@@ -4883,10 +4887,10 @@
         {
           "prompt": "Match the Argentine culinary terms: asado, empanada, provoleta, yerba:",
           "options": [
-            "soup, sausage, rice, wine (Identify and classify staple Argentine food)",
-            "pizza, pasta, bread, beer (Identify and classify staple Argentine food)",
-            "fish, chicken, beef, dessert (Identify and classify staple Argentine food)",
-            "barbecue, stuffed pastry, grilled provolone cheese, mate tea leaves (Identify and classify staple Argentine food)"
+            "soup, sausage, rice, wine",
+            "pizza, pasta, bread, beer",
+            "fish, chicken, beef, dessert",
+            "barbecue, stuffed pastry, grilled provolone cheese, mate tea leaves"
           ],
           "answerIndex": 3,
           "explanation": "Core Argentine food vocabulary.",
@@ -4895,10 +4899,10 @@
         {
           "prompt": "Translate: 'El agua del termo no tiene que hervir para el mate.'",
           "options": [
-            "The water must boil for 10 minutes. (Identify and classify staple Argentine food)",
-            "Mate is made with ice water. (Identify and classify staple Argentine food)",
-            "The water in the thermos must not boil for mate (Identify and classify staple Argentine food)",
-            "The thermos is broken. (Identify and classify staple Argentine food)"
+            "The water must boil for 10 minutes.",
+            "Mate is made with ice water.",
+            "The water in the thermos must not boil for mate",
+            "The thermos is broken."
           ],
           "answerIndex": 2,
           "explanation": "Boiling water scorches yerba leaves; water must be ~75-80°C.",
@@ -4907,10 +4911,10 @@
         {
           "prompt": "What is 'chimichurri'?",
           "options": [
-            "A thick tomato paste (Identify and classify staple Argentine food)",
-            "A traditional sauce made with parsley, oregano, garlic, red pepper flakes, oil, and vinegar (Identify and classify staple Argentine food)",
-            "A spicy mustard (Identify and classify staple Argentine food)",
-            "A sweet chocolate syrup (Identify and classify staple Argentine food)"
+            "A thick tomato paste",
+            "A traditional sauce made with parsley, oregano, garlic, red pepper flakes, oil, and vinegar",
+            "A spicy mustard",
+            "A sweet chocolate syrup"
           ],
           "answerIndex": 1,
           "explanation": "Chimichurri is the classic Argentine herb and garlic steak sauce.",
@@ -4919,10 +4923,10 @@
         {
           "prompt": "What cut of beef is 'bife de chorizo' in Argentina?",
           "options": [
-            "Sirloin / strip loin steak (Identify and classify staple Argentine food)",
-            "Beef liver (Identify and classify staple Argentine food)",
-            "Ribeye bone-in (Identify and classify staple Argentine food)",
-            "Spicy pork chorizo sausage (Identify and classify staple Argentine food)"
+            "Sirloin / strip loin steak",
+            "Beef liver",
+            "Ribeye bone-in",
+            "Spicy pork chorizo sausage"
           ],
           "answerIndex": 0,
           "explanation": "Bife de chorizo is sirloin steak (despite 'chorizo' in the name!).",
@@ -4976,10 +4980,10 @@
         {
           "prompt": "How do you ask a waiter 'Can you bring me the menu, please?' in Argentina?",
           "options": [
-            "¿Me traés la carta, porfa? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "¿Traéis el menú? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "¿Me traes la carta tú? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "¿Traerme la carta? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "¿Me traés la carta, porfa?",
+            "¿Traéis el menú?",
+            "¿Me traes la carta tú?",
+            "¿Traerme la carta?"
           ],
           "answerIndex": 0,
           "explanation": "¿Me traés la carta, porfa? is natural Rioplatense Spanish."
@@ -4987,10 +4991,10 @@
         {
           "prompt": "What is 'un café cortado' in an Argentine café?",
           "options": [
-            "Espresso with a dash / splash of hot milk (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Black coffee with no water (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Tea with lemon (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Iced sweet latte (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "Espresso with a dash / splash of hot milk",
+            "Black coffee with no water",
+            "Tea with lemon",
+            "Iced sweet latte"
           ],
           "answerIndex": 0,
           "explanation": "cortado = espresso 'cut' with a touch of milk."
@@ -5002,10 +5006,10 @@
         {
           "prompt": "Translate: 'Can I pay with Mercado Pago QR?'",
           "options": [
-            "¿Puedo pagar con dólares? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "¿La comida es gratis? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "¿Te puedo pagar con Mercado Pago? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "¿Dónde está el banco? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "¿Puedo pagar con dólares?",
+            "¿La comida es gratis?",
+            "¿Te puedo pagar con Mercado Pago?",
+            "¿Dónde está el banco?"
           ],
           "answerIndex": 2,
           "explanation": "Mercado Pago is the universal digital payment system in Argentina."
@@ -5013,10 +5017,10 @@
         {
           "prompt": "Translate: 'Mozo, ¿nos cobrás, por favor?'",
           "options": [
-            "Waiter, can you bring more food? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Where is the bathroom? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Is the table ready? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Waiter, can you charge us / bring the bill, please? (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "Waiter, can you bring more food?",
+            "Where is the bathroom?",
+            "Is the table ready?",
+            "Waiter, can you charge us / bring the bill, please?"
           ],
           "answerIndex": 3,
           "explanation": "nos cobrás = charge us / bring the check."
@@ -5028,10 +5032,10 @@
         {
           "prompt": "What is the polite and traditional word used to address a male waiter in Argentina?",
           "options": [
-            "Mesero (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Garzón (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Mozo (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Camarero (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "Mesero",
+            "Garzón",
+            "Mozo",
+            "Camarero"
           ],
           "answerIndex": 2,
           "explanation": "'Mozo' is the standard Argentine term for a waiter.",
@@ -5040,10 +5044,10 @@
         {
           "prompt": "Translate: 'Para mí una milanesa napolitana con fritas a caballo.'",
           "options": [
-            "For me, pasta with tomato sauce. (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "For me, a Neapolitan schnitzel with French fries topped with two fried eggs. (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "We don't eat meat or potatoes. (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "For me, grilled chicken with salad. (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "For me, pasta with tomato sauce.",
+            "For me, a Neapolitan schnitzel with French fries topped with two fried eggs.",
+            "We don't eat meat or potatoes.",
+            "For me, grilled chicken with salad."
           ],
           "answerIndex": 1,
           "explanation": "milanesa napolitana (tomato sauce, ham, melted cheese) + fritas a caballo (with fried eggs on top).",
@@ -5052,10 +5056,10 @@
         {
           "prompt": "What is a 'bodegón' in Argentine culinary culture?",
           "options": [
-            "A traditional neighborhood restaurant serving generous, classic comfort food (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "A wine cellar only (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "A tea shop (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "A fast food chain (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "A traditional neighborhood restaurant serving generous, classic comfort food",
+            "A wine cellar only",
+            "A tea shop",
+            "A fast food chain"
           ],
           "answerIndex": 0,
           "explanation": "A bodegón is a classic neighborhood family restaurant.",
@@ -5064,10 +5068,10 @@
         {
           "prompt": "What tip (propina) is customary in Argentine restaurants for good service?",
           "options": [
-            "Tipping is strictly prohibited (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "50% mandatory fee (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "1 peso coin only (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)",
-            "Around 10% in cash or added to the bill (Order food and drinks politely in Argentine bodegones and cafs using voseo requests Me tras)"
+            "Tipping is strictly prohibited",
+            "50% mandatory fee",
+            "1 peso coin only",
+            "Around 10% in cash or added to the bill"
           ],
           "answerIndex": 3,
           "explanation": "10% is the standard customary tip in Argentina.",
@@ -5121,10 +5125,10 @@
         {
           "prompt": "What does '¡Me re copa!' mean in Argentine youth slang?",
           "options": [
-            "I hate it (Express food preferences and enthusiasm using gustar)",
-            "It is very expensive (Express food preferences and enthusiasm using gustar)",
-            "It makes me sleepy (Express food preferences and enthusiasm using gustar)",
-            "I super love it! / It's awesome to me! (Express food preferences and enthusiasm using gustar)"
+            "I hate it",
+            "It is very expensive",
+            "It makes me sleepy",
+            "I super love it! / It's awesome to me!"
           ],
           "answerIndex": 3,
           "explanation": "Me re copa = I really like / love it."
@@ -5132,10 +5136,10 @@
         {
           "prompt": "What two toppings come with an Argentine 'flan mixto'?",
           "options": [
-            "Chocolate and strawberry sauce (Express food preferences and enthusiasm using gustar)",
-            "Ice cream and nuts (Express food preferences and enthusiasm using gustar)",
-            "Fruit and honey (Express food preferences and enthusiasm using gustar)",
-            "Dulce de leche and whipped cream (Express food preferences and enthusiasm using gustar)"
+            "Chocolate and strawberry sauce",
+            "Ice cream and nuts",
+            "Fruit and honey",
+            "Dulce de leche and whipped cream"
           ],
           "answerIndex": 3,
           "explanation": "Flan mixto = flan with dulce de leche and crema chantilly."
@@ -5147,10 +5151,10 @@
         {
           "prompt": "Translate: 'I am not into sweet wine; I prefer Malbec.'",
           "options": [
-            "No me cabe el vino dulce, prefiero el Malbec. (Express food preferences and enthusiasm using gustar)",
-            "Me copa el vino dulce con Malbec. (Express food preferences and enthusiasm using gustar)",
-            "No tomo vino nunca. (Express food preferences and enthusiasm using gustar)",
-            "El vino dulce es caro. (Express food preferences and enthusiasm using gustar)"
+            "No me cabe el vino dulce, prefiero el Malbec.",
+            "Me copa el vino dulce con Malbec.",
+            "No tomo vino nunca.",
+            "El vino dulce es caro."
           ],
           "answerIndex": 0,
           "explanation": "no me cabe = I'm not into it, prefiero = I prefer."
@@ -5158,10 +5162,10 @@
         {
           "prompt": "Translate: '¡Este asado es una locura!'",
           "options": [
-            "This barbecue is insanely good / out of this world! (Express food preferences and enthusiasm using gustar)",
-            "This barbecue is crazy expensive. (Express food preferences and enthusiasm using gustar)",
-            "The meat is burnt. (Express food preferences and enthusiasm using gustar)",
-            "We are going crazy. (Express food preferences and enthusiasm using gustar)"
+            "This barbecue is insanely good / out of this world!",
+            "This barbecue is crazy expensive.",
+            "The meat is burnt.",
+            "We are going crazy."
           ],
           "answerIndex": 0,
           "explanation": "es una locura = it's amazingly delicious / incredible."
@@ -5173,10 +5177,10 @@
         {
           "prompt": "What does the Argentine prefix 're-' express when added to adjectives or verbs (e.g. 're rico', 'me re gusta')?",
           "options": [
-            "A question marker (Express food preferences and enthusiasm using gustar)",
-            "An intensifier meaning 'very / super / extremely' (Express food preferences and enthusiasm using gustar)",
-            "A negative meaning 'not at all' (Express food preferences and enthusiasm using gustar)",
-            "A past tense indicator (Express food preferences and enthusiasm using gustar)"
+            "A question marker",
+            "An intensifier meaning 'very / super / extremely'",
+            "A negative meaning 'not at all'",
+            "A past tense indicator"
           ],
           "answerIndex": 1,
           "explanation": "re- is the universal Rioplatense intensifier (re bueno, re lindo).",
@@ -5186,9 +5190,9 @@
           "prompt": "Translate: '¿Te copan las pizzas a la piedra o al molde?'",
           "options": [
             "Do you like thin-crust (stone-baked)",
-            "How many pizzas do you want? (Express food preferences and enthusiasm using gustar)",
-            "Do you cook pizza at home? (Express food preferences and enthusiasm using gustar)",
-            "Where is the pizzeria? (Express food preferences and enthusiasm using gustar)"
+            "How many pizzas do you want?",
+            "Do you cook pizza at home?",
+            "Where is the pizzeria?"
           ],
           "answerIndex": 0,
           "explanation": "a la piedra (thin crust) vs. al molde (thick spongy crust).",
@@ -5197,10 +5201,10 @@
         {
           "prompt": "Choose the correct sentence for 'I really like homemade empanadas':",
           "options": [
-            "Yo re gusto las empanadas caseras. (Express food preferences and enthusiasm using gustar)",
-            "A mí re copa las empanadas. (Express food preferences and enthusiasm using gustar)",
-            "Me re gusta las empanadas caseras. (Express food preferences and enthusiasm using gustar)",
-            "Me re gustan las empanadas caseras. (Express food preferences and enthusiasm using gustar)"
+            "Yo re gusto las empanadas caseras.",
+            "A mí re copa las empanadas.",
+            "Me re gusta las empanadas caseras.",
+            "Me re gustan las empanadas caseras."
           ],
           "answerIndex": 3,
           "explanation": "Me gustan (plural agreement with empanadas).",
@@ -5209,10 +5213,10 @@
         {
           "prompt": "What famous grape variety produces Argentina's most iconic red wine in Mendoza?",
           "options": [
-            "Chardonnay (Express food preferences and enthusiasm using gustar)",
-            "Cabernet Franc (Express food preferences and enthusiasm using gustar)",
-            "Malbec (Express food preferences and enthusiasm using gustar)",
-            "Pinot Noir (Express food preferences and enthusiasm using gustar)"
+            "Chardonnay",
+            "Cabernet Franc",
+            "Malbec",
+            "Pinot Noir"
           ],
           "answerIndex": 2,
           "explanation": "Malbec from Mendoza is Argentina's flagship wine.",
@@ -5266,10 +5270,10 @@
         {
           "prompt": "What does 'riquísimo' mean?",
           "options": [
-            "Very salty (Describe flavors)",
-            "Extremely delicious (Describe flavors)",
-            "Very cold (Describe flavors)",
-            "Extremely wealthy (Describe flavors)"
+            "Very salty",
+            "Extremely delicious",
+            "Very cold",
+            "Extremely wealthy"
           ],
           "answerIndex": 1,
           "explanation": "riquísimo = extremely delicious."
@@ -5277,10 +5281,10 @@
         {
           "prompt": "What does 'un diez' mean when rating a dish in Argentina?",
           "options": [
-            "A 10/10 rating (Describe flavors)",
-            "Ten minutes late (Describe flavors)",
-            "Under-cooked (Describe flavors)",
-            "Ten dollars (Describe flavors)"
+            "A 10/10 rating",
+            "Ten minutes late",
+            "Under-cooked",
+            "Ten dollars"
           ],
           "answerIndex": 0,
           "explanation": "de diez / un diez = 10 out of 10."
@@ -5292,10 +5296,10 @@
         {
           "prompt": "Translate: 'The meat is super tender and juicy.'",
           "options": [
-            "La carne está súper tierna y jugosa. (Describe flavors)",
-            "La carne no tiene sabor. (Describe flavors)",
-            "La carne está dura y seca. (Describe flavors)",
-            "La carne está fría y salada. (Describe flavors)"
+            "La carne está súper tierna y jugosa.",
+            "La carne no tiene sabor.",
+            "La carne está dura y seca.",
+            "La carne está fría y salada."
           ],
           "answerIndex": 0,
           "explanation": "tierna = tender, jugosa = juicy."
@@ -5303,10 +5307,10 @@
         {
           "prompt": "Translate: '¡Esta pizza está zarpada!'",
           "options": [
-            "This pizza is off the charts / insanely good! (Describe flavors)",
-            "We don't want pizza. (Describe flavors)",
-            "This pizza is burnt. (Describe flavors)",
-            "This pizza is cheap. (Describe flavors)"
+            "This pizza is off the charts / insanely good!",
+            "We don't want pizza.",
+            "This pizza is burnt.",
+            "This pizza is cheap."
           ],
           "answerIndex": 0,
           "explanation": "zarpado/a = incredible / off the charts."
@@ -5318,10 +5322,10 @@
         {
           "prompt": "Match the Argentine taste and temperature descriptors: riquísimo, tibio, crocante, tierno:",
           "options": [
-            "very delicious, lukewarm, crispy, tender (Describe flavors)",
-            "spicy, cold, soft, hard (Describe flavors)",
-            "fresh, stale, hot, frozen (Describe flavors)",
-            "sweet, sour, bitter, salty (Describe flavors)"
+            "very delicious, lukewarm, crispy, tender",
+            "spicy, cold, soft, hard",
+            "fresh, stale, hot, frozen",
+            "sweet, sour, bitter, salty"
           ],
           "answerIndex": 0,
           "explanation": "Core culinary descriptors.",
@@ -5330,10 +5334,10 @@
         {
           "prompt": "How does traditional Argentine cooking generally treat spicy chili peppers (*picante*)?",
           "options": [
-            "Food is always sweetened with sugar. (Describe flavors)",
-            "Everything is seasoned with extreme chili peppers. (Describe flavors)",
-            "Chili peppers are eaten raw for breakfast. (Describe flavors)",
-            "Spicy heat is rarely used; the focus is on natural meat flavors, herbs, and garlic. (Describe flavors)"
+            "Food is always sweetened with sugar.",
+            "Everything is seasoned with extreme chili peppers.",
+            "Chili peppers are eaten raw for breakfast.",
+            "Spicy heat is rarely used; the focus is on natural meat flavors, herbs, and garlic."
           ],
           "answerIndex": 3,
           "explanation": "Argentine cuisine is very mild and non-spicy.",
@@ -5342,10 +5346,10 @@
         {
           "prompt": "Translate: 'El alfajor de dulce de leche bañado en chocolate negro es riquísimo.'",
           "options": [
-            "We don't like chocolate alfajores. (Describe flavors)",
-            "The alfajor is dry and stale. (Describe flavors)",
-            "The dulce de leche alfajor dipped in dark chocolate is extremely delicious. (Describe flavors)",
-            "The alfajor is filled with fruit. (Describe flavors)"
+            "We don't like chocolate alfajores.",
+            "The alfajor is dry and stale.",
+            "The dulce de leche alfajor dipped in dark chocolate is extremely delicious.",
+            "The alfajor is filled with fruit."
           ],
           "answerIndex": 2,
           "explanation": "bañado en chocolate negro = dipped in dark chocolate.",
@@ -5354,10 +5358,10 @@
         {
           "prompt": "What does 'un lujo' express when praising a meal or service?",
           "options": [
-            "Too expensive, I won't pay. (Describe flavors)",
-            "Top tier / a wonderful luxury / magnificent! (Describe flavors)",
-            "The restaurant is dirty. (Describe flavors)",
-            "The food is cold. (Describe flavors)"
+            "Too expensive, I won't pay.",
+            "Top tier / a wonderful luxury / magnificent!",
+            "The restaurant is dirty.",
+            "The food is cold."
           ],
           "answerIndex": 1,
           "explanation": "un lujo = magnificent / top quality.",
@@ -5410,10 +5414,10 @@
         {
           "prompt": "In the dialogue, what dessert do Martín and Sofía order to share?",
           "options": [
-            "Un flan mixto con dulce de leche y crema para compartir (Synthesize food vocabulary)",
-            "Helado de vainilla (Synthesize food vocabulary)",
-            "Tarta de manzana (Synthesize food vocabulary)",
-            "Fruta fresca (Synthesize food vocabulary)"
+            "Un flan mixto con dulce de leche y crema para compartir",
+            "Helado de vainilla",
+            "Tarta de manzana",
+            "Fruta fresca"
           ],
           "answerIndex": 0,
           "explanation": "They order a flan mixto to share."
@@ -5421,10 +5425,10 @@
         {
           "prompt": "What does the waiter mean when he says '¡Sale con fritas!'?",
           "options": [
-            "Coming right up! / Right away! / Consider it done! (Synthesize food vocabulary)",
-            "You must order French fries. (Synthesize food vocabulary)",
-            "The fries are free. (Synthesize food vocabulary)",
-            "We are out of fries. (Synthesize food vocabulary)"
+            "Coming right up! / Right away! / Consider it done!",
+            "You must order French fries.",
+            "The fries are free.",
+            "We are out of fries."
           ],
           "answerIndex": 0,
           "explanation": "'¡Sale con fritas!' is the popular idiom for 'Coming right up!'."
@@ -5436,10 +5440,10 @@
         {
           "prompt": "Translate: 'Can you bring us the check? We will pay with Mercado Pago.'",
           "options": [
-            "No queremos pagar la cuenta. (Synthesize food vocabulary)",
-            "¿Nos traés la cuenta? Vamos a pagar con Mercado Pago. (Synthesize food vocabulary)",
-            "¿Dónde está el mozo? (Synthesize food vocabulary)",
-            "¿Nos traes el menú? Pagamos con dólares. (Synthesize food vocabulary)"
+            "No queremos pagar la cuenta.",
+            "¿Nos traés la cuenta? Vamos a pagar con Mercado Pago.",
+            "¿Dónde está el mozo?",
+            "¿Nos traes el menú? Pagamos con dólares."
           ],
           "answerIndex": 1,
           "explanation": "¿Nos traés la cuenta? Pagamos con Mercado Pago."
@@ -5447,10 +5451,10 @@
         {
           "prompt": "Translate: 'La carne estuvo zarpada de tierna.'",
           "options": [
-            "We didn't eat the meat. (Synthesize food vocabulary)",
-            "The meat was insanely / incredibly tender. (Synthesize food vocabulary)",
-            "The meat was undercooked. (Synthesize food vocabulary)",
-            "The meat was tough and cold. (Synthesize food vocabulary)"
+            "We didn't eat the meat.",
+            "The meat was insanely / incredibly tender.",
+            "The meat was undercooked.",
+            "The meat was tough and cold."
           ],
           "answerIndex": 1,
           "explanation": "zarpada de tierna = extraordinarily tender."
@@ -5462,10 +5466,10 @@
         {
           "prompt": "Which sentence demonstrates accurate Argentine Rioplatense voseo, food vocabulary, and restaurant courtesy?",
           "options": [
-            "Camarero tú tráeme carne y no te pago nada tú. (Synthesize food vocabulary)",
-            "Mozo me traes agua sin vaso. (Synthesize food vocabulary)",
-            "Traed comida rápida y salgo. (Synthesize food vocabulary)",
-            "Mozo, ¿nos traés una provoleta, un bife de chorizo a punto y la cuenta cuando puedas, porfa? (Synthesize food vocabulary)"
+            "Camarero tú tráeme carne y no te pago nada tú.",
+            "Mozo me traes agua sin vaso.",
+            "Traed comida rápida y salgo.",
+            "Mozo, ¿nos traés una provoleta, un bife de chorizo a punto y la cuenta cuando puedas, porfa?"
           ],
           "answerIndex": 3,
           "explanation": "Flawless, authentic Argentine dining request.",
@@ -5474,10 +5478,10 @@
         {
           "prompt": "What does 'a punto' mean when ordering beef steak in Argentina?",
           "options": [
-            "Very well done / charred (Synthesize food vocabulary)",
-            "Raw / blue rare (Synthesize food vocabulary)",
-            "Medium doneness (Synthesize food vocabulary)",
-            "Boiled in water (Synthesize food vocabulary)"
+            "Very well done / charred",
+            "Raw / blue rare",
+            "Medium doneness",
+            "Boiled in water"
           ],
           "answerIndex": 2,
           "explanation": "'a punto' is medium doneness (jugoso = rare/medium-rare; cocido = well done).",
@@ -5486,10 +5490,10 @@
         {
           "prompt": "Translate: 'Pedimos empanadas de carne cortada a cuchillo de entrada.'",
           "options": [
-            "We ordered cheese pizza for dessert. (Synthesize food vocabulary)",
-            "We ordered knife-cut beef empanadas as an appetizer. (Synthesize food vocabulary)",
-            "The empanadas are cooked in water. (Synthesize food vocabulary)",
-            "We don't eat meat appetizers. (Synthesize food vocabulary)"
+            "We ordered cheese pizza for dessert.",
+            "We ordered knife-cut beef empanadas as an appetizer.",
+            "The empanadas are cooked in water.",
+            "We don't eat meat appetizers."
           ],
           "answerIndex": 1,
           "explanation": "carne cortada a cuchillo = knife-cut beef, de entrada = as an appetizer.",
@@ -5499,9 +5503,9 @@
           "prompt": "What core grammatical, lexical, and cultural competencies were mastered across Unit 6 in Argentine Spanish?",
           "options": [
             "Asado & mate culture vocabulary, polite voseo restaurant requests (zarpado, de diez, flan mixto)",
-            "Subjunctive pluperfect only (Synthesize food vocabulary)",
-            "Spanish alphabet only (Synthesize food vocabulary)",
-            "Preterite perfect indicative passive only (Synthesize food vocabulary)"
+            "Subjunctive pluperfect only",
+            "Spanish alphabet only",
+            "Preterite perfect indicative passive only"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive dining, mate culture, and voseo ordering mastery.",
@@ -5549,10 +5553,10 @@
         {
           "prompt": "How do you say 'I bought the alfajores yesterday' in Argentine Spanish?",
           "options": [
-            "Ayer compro los alfajores. (Conjugate regular ar)",
-            "Ayer compraste los alfajores. (Conjugate regular ar)",
-            "Ayer compró los alfajores. (Conjugate regular ar)",
-            "Ayer compré los alfajores. (Conjugate regular ar)"
+            "Ayer compro los alfajores.",
+            "Ayer compraste los alfajores.",
+            "Ayer compró los alfajores.",
+            "Ayer compré los alfajores."
           ],
           "answerIndex": 3,
           "explanation": "Yo + comprar in preterite = compré."
@@ -5560,10 +5564,10 @@
         {
           "prompt": "What is the preterite form for 'vos' with the verb 'comer' in standard Rioplatense?",
           "options": [
-            "Vos comisteis (Conjugate regular ar)",
-            "Vos comió (Conjugate regular ar)",
-            "Vos comiste (Conjugate regular ar)",
-            "Vos comés (Conjugate regular ar)"
+            "Vos comisteis",
+            "Vos comió",
+            "Vos comiste",
+            "Vos comés"
           ],
           "answerIndex": 2,
           "explanation": "Preterite with vos = comiste (present is comés)."
@@ -5575,10 +5579,10 @@
         {
           "prompt": "Translate: 'Ellos vivieron dos años en el barrio de San Telmo.'",
           "options": [
-            "They are living in San Telmo now. (Conjugate regular ar)",
-            "We want to live in San Telmo. (Conjugate regular ar)",
-            "They will visit San Telmo next year. (Conjugate regular ar)",
-            "They lived for two years in the San Telmo neighborhood. (Conjugate regular ar)"
+            "They are living in San Telmo now.",
+            "We want to live in San Telmo.",
+            "They will visit San Telmo next year.",
+            "They lived for two years in the San Telmo neighborhood."
           ],
           "answerIndex": 3,
           "explanation": "vivieron = they lived (preterite of vivir)."
@@ -5586,10 +5590,10 @@
         {
           "prompt": "Choose the correct verb: 'Anoche nosotros _______ unas empanadas riquísimas.'",
           "options": [
-            "comieron (Conjugate regular ar)",
-            "comí (Conjugate regular ar)",
-            "comiste (Conjugate regular ar)",
-            "comimos (Conjugate regular ar)"
+            "comieron",
+            "comí",
+            "comiste",
+            "comimos"
           ],
           "answerIndex": 3,
           "explanation": "Nosotros + -er preterite ending = comimos."
@@ -5601,10 +5605,10 @@
         {
           "prompt": "Match the preterite forms of 'hablar' to their subjects: Yo, Vos, Él, Nosotros, Ellos:",
           "options": [
-            "Yo hablo, Vos hablás, Él habla, Nosotros hablamos, Ellos hablan (Conjugate regular ar)",
-            "Yo hablaré, Vos hablarás, Él hablará, Nosotros hablaremos, Ellos hablarán (Conjugate regular ar)",
-            "Yo hablé, Vos hablaste, Él habló, Nosotros hablamos, Ellos hablaron (Conjugate regular ar)",
-            "All use -ó (Conjugate regular ar)"
+            "Yo hablo, Vos hablás, Él habla, Nosotros hablamos, Ellos hablan",
+            "Yo hablaré, Vos hablarás, Él hablará, Nosotros hablaremos, Ellos hablarán",
+            "Yo hablé, Vos hablaste, Él habló, Nosotros hablamos, Ellos hablaron",
+            "All use -ó"
           ],
           "answerIndex": 2,
           "explanation": "Regular -ar preterite conjugation paradigm.",
@@ -5613,10 +5617,10 @@
         {
           "prompt": "Translate: '¿Che, a dónde viajaste en las vacaciones de invierno?'",
           "options": [
-            "Where are you going for winter? (Conjugate regular ar)",
-            "Hey, where did you travel during winter vacation? (Conjugate regular ar)",
-            "Why did you leave? (Conjugate regular ar)",
-            "Do you like winter vacation? (Conjugate regular ar)"
+            "Where are you going for winter?",
+            "Hey, where did you travel during winter vacation?",
+            "Why did you leave?",
+            "Do you like winter vacation?"
           ],
           "answerIndex": 1,
           "explanation": "viajaste = you traveled (preterite).",
@@ -5625,10 +5629,10 @@
         {
           "prompt": "Why is the preterite preferred over 'he comido / he ido' in everyday Argentine speech?",
           "options": [
-            "Rioplatense Spanish uses the simple preterite exclusively for all completed past events, whether they happened five minutes ago or ten years ago. (Conjugate regular ar)",
-            "Because simple preterite is only for formal writing. (Conjugate regular ar)",
-            "It is a recent slang invention. (Conjugate regular ar)",
-            "Because compound tenses are illegal in Argentina. (Conjugate regular ar)"
+            "Rioplatense Spanish uses the simple preterite exclusively for all completed past events, whether they happened five minutes ago or ten years ago.",
+            "Because simple preterite is only for formal writing.",
+            "It is a recent slang invention.",
+            "Because compound tenses are illegal in Argentina."
           ],
           "answerIndex": 0,
           "explanation": "Rioplatense systematically favors the simple preterite over the compound present perfect.",
@@ -5637,10 +5641,10 @@
         {
           "prompt": "Complete the sentence: 'Ayer yo _______ (caminar) por Palermo Soho y _______ (tomar) un café.'",
           "options": [
-            "caminaste / tomaste (Conjugate regular ar)",
-            "caminó / tomó (Conjugate regular ar)",
-            "camino / tomo (Conjugate regular ar)",
-            "caminé / tomé (Conjugate regular ar)"
+            "caminaste / tomaste",
+            "caminó / tomó",
+            "camino / tomo",
+            "caminé / tomé"
           ],
           "answerIndex": 3,
           "explanation": "Yo preterite forms: caminé and tomé.",
@@ -5688,10 +5692,10 @@
         {
           "prompt": "What is the preterite form of 'estar' for 'yo'?",
           "options": [
-            "estuve (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "estuvé (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "estaba (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "estoy (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "estuve",
+            "estuvé",
+            "estaba",
+            "estoy"
           ],
           "answerIndex": 0,
           "explanation": "Estar -> irregular stem estuv- + e = estuve (no accent mark)."
@@ -5699,10 +5703,10 @@
         {
           "prompt": "How do you say 'We went to the stadium' in Argentine Spanish?",
           "options": [
-            "Fuimos a la cancha. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "Vamos a la cancha. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "Fui a la cancha. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "Fueron a la cancha. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "Fuimos a la cancha.",
+            "Vamos a la cancha.",
+            "Fui a la cancha.",
+            "Fueron a la cancha."
           ],
           "answerIndex": 0,
           "explanation": "Nosotros + ir in preterite = fuimos."
@@ -5714,10 +5718,10 @@
         {
           "prompt": "Translate: 'No pude ir a la fiesta porque tuve que laburar.'",
           "options": [
-            "I didn't want to go to the party with them. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "I will go to the party after work. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "I couldn't go to the party because I had to work. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "I was at the party working. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "I didn't want to go to the party with them.",
+            "I will go to the party after work.",
+            "I couldn't go to the party because I had to work.",
+            "I was at the party working."
           ],
           "answerIndex": 2,
           "explanation": "pude = I could/managed to; tuve que = I had to."
@@ -5725,10 +5729,10 @@
         {
           "prompt": "Why does 'hacer' spell its 3rd-person preterite as 'hizo' instead of 'hico'?",
           "options": [
-            "Because it is a printing error. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "Because 'z' is pronounced like 'k'. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "It is optional. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "To preserve the soft /s/ sound (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "Because it is a printing error.",
+            "Because 'z' is pronounced like 'k'.",
+            "It is optional.",
+            "To preserve the soft /s/ sound"
           ],
           "answerIndex": 3,
           "explanation": "Orthographic rule: 'c' before 'o' would sound like /k/ ('hico'), so 'z' preserves the /s/ sound."
@@ -5740,10 +5744,10 @@
         {
           "prompt": "Match the irregular preterites of 'yo': tener, hacer, decir, venir:",
           "options": [
-            "tuvo, hizo, dijo, vino (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "tuve, hice, dije, vine (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "tuviste, hiciste, dijiste, viniste (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "tení, hací, decí, vení (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "tuvo, hizo, dijo, vino",
+            "tuve, hice, dije, vine",
+            "tuviste, hiciste, dijiste, viniste",
+            "tení, hací, decí, vení"
           ],
           "answerIndex": 1,
           "explanation": "Core irregular preterite 1st-person stems: tuve, hice, dije, vine.",
@@ -5752,10 +5756,10 @@
         {
           "prompt": "Translate: 'Le dije a Martín que viniera a tomar mate.'",
           "options": [
-            "I told Martin to come drink mate. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "I was drinking mate with Martin. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "Martin brought the mate. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "Martin told me he was busy. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "I told Martin to come drink mate.",
+            "I was drinking mate with Martin.",
+            "Martin brought the mate.",
+            "Martin told me he was busy."
           ],
           "answerIndex": 0,
           "explanation": "dije = I said/told.",
@@ -5764,10 +5768,10 @@
         {
           "prompt": "What does 'La pasamos bomba' mean in Argentine colloquial speech?",
           "options": [
-            "We were bored. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "There was an explosion nearby. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "We lost our luggage. (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "We had a fantastic, incredible time! (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "We were bored.",
+            "There was an explosion nearby.",
+            "We lost our luggage.",
+            "We had a fantastic, incredible time!"
           ],
           "answerIndex": 3,
           "explanation": "'Pasarla bomba' is idiomatic Argentine for having a wonderful time.",
@@ -5776,10 +5780,10 @@
         {
           "prompt": "Complete the sentence: 'El concierto de rock _______ (ser) increíble y la gente _______ (estar) re manija.'",
           "options": [
-            "fuiste / estuviste (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "fui / estuve (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "fue / estuvo (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)",
-            "era / estaba (Conjugate and deploy the essential irregular preterite verbs in Rioplatense Spanish irser)"
+            "fuiste / estuviste",
+            "fui / estuve",
+            "fue / estuvo",
+            "era / estaba"
           ],
           "answerIndex": 2,
           "explanation": "El concierto fue... y la gente estuvo...",
@@ -5828,10 +5832,10 @@
         {
           "prompt": "What does 'al toque' mean in Argentine narrative slang?",
           "options": [
-            "Slowly and carefully (Utilize Rioplatense past time expressions ayer)",
-            "Tomorrow afternoon (Utilize Rioplatense past time expressions ayer)",
-            "Never again (Utilize Rioplatense past time expressions ayer)",
-            "Immediately / right away / on the spot (Utilize Rioplatense past time expressions ayer)"
+            "Slowly and carefully",
+            "Tomorrow afternoon",
+            "Never again",
+            "Immediately / right away / on the spot"
           ],
           "answerIndex": 3,
           "explanation": "Al toque = right away / immediately."
@@ -5839,10 +5843,10 @@
         {
           "prompt": "How do you say 'last night' in Spanish?",
           "options": [
-            "ayer de noche (Utilize Rioplatense past time expressions ayer)",
-            "anteayer (Utilize Rioplatense past time expressions ayer)",
-            "mañana a la noche (Utilize Rioplatense past time expressions ayer)",
-            "anoche (Utilize Rioplatense past time expressions ayer)"
+            "ayer de noche",
+            "anteayer",
+            "mañana a la noche",
+            "anoche"
           ],
           "answerIndex": 3,
           "explanation": "Anoche is the universal word for 'last night'."
@@ -5854,10 +5858,10 @@
         {
           "prompt": "Translate: 'Llegamos a Mar del Plata tipo ocho de la noche.'",
           "options": [
-            "We arrived in Mar del Plata around eight in the evening. (Utilize Rioplatense past time expressions ayer)",
-            "We left Mar del Plata at eight in the morning. (Utilize Rioplatense past time expressions ayer)",
-            "We like eight people from Mar del Plata. (Utilize Rioplatense past time expressions ayer)",
-            "The eight of us are in Mar del Plata. (Utilize Rioplatense past time expressions ayer)"
+            "We arrived in Mar del Plata around eight in the evening.",
+            "We left Mar del Plata at eight in the morning.",
+            "We like eight people from Mar del Plata.",
+            "The eight of us are in Mar del Plata."
           ],
           "answerIndex": 0,
           "explanation": "tipo ocho = around eight."
@@ -5865,10 +5869,10 @@
         {
           "prompt": "What does the Argentine prefix 're-' express in 're tarde' and 're lindo'?",
           "options": [
-            "A powerful amplifier meaning 'super' or 'extremely' (Utilize Rioplatense past time expressions ayer)",
-            "Repetition of an action (Utilize Rioplatense past time expressions ayer)",
-            "Negation (Utilize Rioplatense past time expressions ayer)",
-            "Past tense marker (Utilize Rioplatense past time expressions ayer)"
+            "A powerful amplifier meaning 'super' or 'extremely'",
+            "Repetition of an action",
+            "Negation",
+            "Past tense marker"
           ],
           "answerIndex": 0,
           "explanation": "Re- is Argentina's signature colloquial intensifying prefix."
@@ -5880,10 +5884,10 @@
         {
           "prompt": "Match the Argentine temporal phrases: anteayer, el finde pasado, de la nada, al final:",
           "options": [
-            "anteayer: day before yesterday | finde pasado: last weekend | de la nada: out of nowhere | al final: in the end (Utilize Rioplatense past time expressions ayer)",
-            "All mean 'right now' (Utilize Rioplatense past time expressions ayer)",
-            "anteayer: tomorrow | finde pasado: next week | de la nada: always | al final: first (Utilize Rioplatense past time expressions ayer)",
-            "All mean 'yesterday' (Utilize Rioplatense past time expressions ayer)"
+            "anteayer: day before yesterday | finde pasado: last weekend | de la nada: out of nowhere | al final: in the end",
+            "All mean 'right now'",
+            "anteayer: tomorrow | finde pasado: next week | de la nada: always | al final: first",
+            "All mean 'yesterday'"
           ],
           "answerIndex": 0,
           "explanation": "Temporal and transitional story connectors.",
@@ -5892,10 +5896,10 @@
         {
           "prompt": "Translate: 'De repente se largó a llover con todo y nos tuvimos que meter en un café.'",
           "options": [
-            "We drank coffee in the sunny park. (Utilize Rioplatense past time expressions ayer)",
-            "The café was closed because of rain. (Utilize Rioplatense past time expressions ayer)",
-            "It never rains in the afternoon. (Utilize Rioplatense past time expressions ayer)",
-            "Suddenly it started pouring rain and we had to duck into a café. (Utilize Rioplatense past time expressions ayer)"
+            "We drank coffee in the sunny park.",
+            "The café was closed because of rain.",
+            "It never rains in the afternoon.",
+            "Suddenly it started pouring rain and we had to duck into a café."
           ],
           "answerIndex": 3,
           "explanation": "De repente = suddenly; largarse a llover = to start pouring.",
@@ -5904,10 +5908,10 @@
         {
           "prompt": "What is the meaning of 'hace un rato'?",
           "options": [
-            "In one hour (Utilize Rioplatense past time expressions ayer)",
-            "A long time ago (Utilize Rioplatense past time expressions ayer)",
-            "A short while ago / a few moments ago (Utilize Rioplatense past time expressions ayer)",
-            "Every day (Utilize Rioplatense past time expressions ayer)"
+            "In one hour",
+            "A long time ago",
+            "A short while ago / a few moments ago",
+            "Every day"
           ],
           "answerIndex": 2,
           "explanation": "Hace un rato = a little while ago.",
@@ -5916,10 +5920,10 @@
         {
           "prompt": "Complete the sequence: 'Primero fuimos al hotel, _______ salimos a cenar, y _______ volvimos a dormir.'",
           "options": [
-            "ayer / mañana (Utilize Rioplatense past time expressions ayer)",
-            "después / al final (Utilize Rioplatense past time expressions ayer)",
-            "tipo / re (Utilize Rioplatense past time expressions ayer)",
-            "nunca / siempre (Utilize Rioplatense past time expressions ayer)"
+            "ayer / mañana",
+            "después / al final",
+            "tipo / re",
+            "nunca / siempre"
           ],
           "answerIndex": 1,
           "explanation": "después (afterward) and al final (in the end).",
@@ -5968,10 +5972,10 @@
         {
           "prompt": "What does an Argentine mean when they text you: 'Che, se me re complicó hoy, ¿nos vemos mañana?'",
           "options": [
-            "Hey, the road is very straight. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Hey, things got super complicated / something came up today, can we meet tomorrow? (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "I don't have a phone. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Hey, I am already at the restaurant. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "Hey, the road is very straight.",
+            "Hey, things got super complicated / something came up today, can we meet tomorrow?",
+            "I don't have a phone.",
+            "Hey, I am already at the restaurant."
           ],
           "answerIndex": 1,
           "explanation": "'Se me complicó' means something unexpected came up."
@@ -5979,10 +5983,10 @@
         {
           "prompt": "How do Argentines refer to going to a football stadium?",
           "options": [
-            "Ir a la cancha (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Ir al gimnasio (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Ir a la plaza (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Ir al palacio (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "Ir a la cancha",
+            "Ir al gimnasio",
+            "Ir a la plaza",
+            "Ir al palacio"
           ],
           "answerIndex": 0,
           "explanation": "'La cancha' is the universal term for the football pitch/stadium."
@@ -5994,10 +5998,10 @@
         {
           "prompt": "Translate: 'El viernes nos juntamos con los pibes a tomar unas cervezas.'",
           "options": [
-            "On Friday we got together with the guys to have some beers. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "We will travel on Friday. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "We bought beers for Friday. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "The kids drank water on Friday. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "On Friday we got together with the guys to have some beers.",
+            "We will travel on Friday.",
+            "We bought beers for Friday.",
+            "The kids drank water on Friday."
           ],
           "answerIndex": 0,
           "explanation": "juntarse con los pibes = get together with the guys."
@@ -6005,10 +6009,10 @@
         {
           "prompt": "What does 'quedarse manija' express?",
           "options": [
-            "Being left extremely excited, energetic, and eager for more after a great experience (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Being broke (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Losing a handle on a door (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Feeling sleepy (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "Being left extremely excited, energetic, and eager for more after a great experience",
+            "Being broke",
+            "Losing a handle on a door",
+            "Feeling sleepy"
           ],
           "answerIndex": 0,
           "explanation": "Estar/quedarse manija = full of excitement/craving more."
@@ -6020,9 +6024,9 @@
         {
           "prompt": "Match the Argentine idioms to their meanings: bajón, quilombo, de diez, pibes:",
           "options": [
-            "All mean food dishes (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "bajón: happy | quilombo: silence | de diez: terrible | pibes: teachers (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "All mean days of the week (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
+            "All mean food dishes",
+            "bajón: happy | quilombo: silence | de diez: terrible | pibes: teachers",
+            "All mean days of the week",
             "bajón: bummer/downer | quilombo: chaos/mess | de diez: 10 out of 10 (perfect)"
           ],
           "answerIndex": 3,
@@ -6032,10 +6036,10 @@
         {
           "prompt": "Translate: 'Ayer fui a la cancha, comí un chori afuera y cantamos los noventa minutos.'",
           "options": [
-            "We lost the football match 90 to 0. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "I ran 90 kilometers yesterday and ate pork. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "Yesterday I went to the stadium, ate a choripán outside, and we sang for the full ninety minutes. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "The stadium was closed yesterday. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "We lost the football match 90 to 0.",
+            "I ran 90 kilometers yesterday and ate pork.",
+            "Yesterday I went to the stadium, ate a choripán outside, and we sang for the full ninety minutes.",
+            "The stadium was closed yesterday."
           ],
           "answerIndex": 2,
           "explanation": "Authentic football culture: cancha, chori, singing 90 minutes.",
@@ -6044,10 +6048,10 @@
         {
           "prompt": "What does 'nos cagamos de risa' mean in an informal social recount?",
           "options": [
-            "We were scared. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "We laughed until our stomachs hurt / we had a hilarious blast together. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "We cried all evening. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "We fought with each other. (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "We were scared.",
+            "We laughed until our stomachs hurt / we had a hilarious blast together.",
+            "We cried all evening.",
+            "We fought with each other."
           ],
           "answerIndex": 1,
           "explanation": "Informal idiom for laughing hysterically.",
@@ -6056,10 +6060,10 @@
         {
           "prompt": "Complete the sentence: 'El tránsito en la autopista _______ (ser) un quilombo total.'",
           "options": [
-            "fue (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "hizo (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "estuvo (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)",
-            "pudo (Incorporate expressive Rioplatense narrative idioms and social collocations se me complic)"
+            "fue",
+            "hizo",
+            "estuvo",
+            "pudo"
           ],
           "answerIndex": 0,
           "explanation": "El tránsito fue un quilombo total (the traffic was total chaos).",
@@ -6248,10 +6252,10 @@
         {
           "prompt": "How do Argentines say 'T-shirt' in everyday speech?",
           "options": [
-            "la camiseta (Identify distinctive Rioplatense clothing)",
-            "la camisa (Identify distinctive Rioplatense clothing)",
-            "el buzo (Identify distinctive Rioplatense clothing)",
-            "la remera (Identify distinctive Rioplatense clothing)"
+            "la camiseta",
+            "la camisa",
+            "el buzo",
+            "la remera"
           ],
           "answerIndex": 3,
           "explanation": "'Remera' is the universal Argentine word for a casual T-shirt."
@@ -6259,10 +6263,10 @@
         {
           "prompt": "What is the standard Rioplatense word for 'skirt'?",
           "options": [
-            "la falda (Identify distinctive Rioplatense clothing)",
-            "el saco (Identify distinctive Rioplatense clothing)",
-            "la campera (Identify distinctive Rioplatense clothing)",
-            "la pollera (Identify distinctive Rioplatense clothing)"
+            "la falda",
+            "el saco",
+            "la campera",
+            "la pollera"
           ],
           "answerIndex": 3,
           "explanation": "'La pollera' is the universal term for skirt in the Southern Cone."
@@ -6274,10 +6278,10 @@
         {
           "prompt": "Translate: 'Me compré una campera de cuero en Palermo y unas zapatillas blancas.'",
           "options": [
-            "I sold my jacket and shoes in Palermo. (Identify distinctive Rioplatense clothing)",
-            "I am looking for a black dress in Palermo. (Identify distinctive Rioplatense clothing)",
-            "Palermo has no shoe stores. (Identify distinctive Rioplatense clothing)",
-            "I bought a leather jacket in Palermo and white sneakers. (Identify distinctive Rioplatense clothing)"
+            "I sold my jacket and shoes in Palermo.",
+            "I am looking for a black dress in Palermo.",
+            "Palermo has no shoe stores.",
+            "I bought a leather jacket in Palermo and white sneakers."
           ],
           "answerIndex": 3,
           "explanation": "campera de cuero = leather jacket; zapatillas blancas = white sneakers."
@@ -6285,10 +6289,10 @@
         {
           "prompt": "What does 'el buzo' mean in Argentine wardrobe vocabulary?",
           "options": [
-            "A scuba diver only (Identify distinctive Rioplatense clothing)",
-            "A pair of socks (Identify distinctive Rioplatense clothing)",
-            "A raincoat (Identify distinctive Rioplatense clothing)",
-            "A hoodie / sweatshirt / pullover (Identify distinctive Rioplatense clothing)"
+            "A scuba diver only",
+            "A pair of socks",
+            "A raincoat",
+            "A hoodie / sweatshirt / pullover"
           ],
           "answerIndex": 3,
           "explanation": "'Buzo' is the everyday Argentine term for a sweatshirt or hoodie."
@@ -6300,10 +6304,10 @@
         {
           "prompt": "Match the Argentine clothing terms: remera, campera, pollera, anteojos:",
           "options": [
-            "remera: hat | campera: belt | pollera: shoes | anteojos: socks (Identify distinctive Rioplatense clothing)",
-            "remera: T-shirt | campera: jacket | pollera: skirt | anteojos: glasses (Identify distinctive Rioplatense clothing)",
-            "All mean fabrics (Identify distinctive Rioplatense clothing)",
-            "All mean shoes (Identify distinctive Rioplatense clothing)"
+            "remera: hat | campera: belt | pollera: shoes | anteojos: socks",
+            "remera: T-shirt | campera: jacket | pollera: skirt | anteojos: glasses",
+            "All mean fabrics",
+            "All mean shoes"
           ],
           "answerIndex": 1,
           "explanation": "Distinctive Argentine everyday clothing vocabulary.",
@@ -6312,10 +6316,10 @@
         {
           "prompt": "Translate: '¿Dónde dejaste los lentes de sol y la billetera?'",
           "options": [
-            "Where did you leave the sunglasses and the wallet? (Identify distinctive Rioplatense clothing)",
-            "I lost my jacket and keys. (Identify distinctive Rioplatense clothing)",
-            "The sunglasses are on the bed. (Identify distinctive Rioplatense clothing)",
-            "How much do the sunglasses cost? (Identify distinctive Rioplatense clothing)"
+            "Where did you leave the sunglasses and the wallet?",
+            "I lost my jacket and keys.",
+            "The sunglasses are on the bed.",
+            "How much do the sunglasses cost?"
           ],
           "answerIndex": 0,
           "explanation": "lentes de sol = sunglasses; billetera = wallet.",
@@ -6324,10 +6328,10 @@
         {
           "prompt": "Why do Argentines avoid using 'camiseta' for a regular casual cotton top?",
           "options": [
-            "Because camiseta is a forbidden word. (Identify distinctive Rioplatense clothing)",
-            "Because remera is only for winter. (Identify distinctive Rioplatense clothing)",
-            "It is a spelling error. (Identify distinctive Rioplatense clothing)",
-            "Because in Argentina, 'camiseta' specifically refers to a sports/football team jersey (Identify distinctive Rioplatense clothing)"
+            "Because camiseta is a forbidden word.",
+            "Because remera is only for winter.",
+            "It is a spelling error.",
+            "Because in Argentina, 'camiseta' specifically refers to a sports/football team jersey"
           ],
           "answerIndex": 3,
           "explanation": "Camiseta = football jersey / undershirt; Remera = casual T-shirt.",
@@ -6336,10 +6340,10 @@
         {
           "prompt": "Complete: 'Ayer me probé un _______ (hoodie) azul y una _______ (jacket) re abrigada.'",
           "options": [
-            "pollera / remera (Identify distinctive Rioplatense clothing)",
-            "lentes / zapatillas (Identify distinctive Rioplatense clothing)",
-            "buzo / campera (Identify distinctive Rioplatense clothing)",
-            "billetera / saco (Identify distinctive Rioplatense clothing)"
+            "pollera / remera",
+            "lentes / zapatillas",
+            "buzo / campera",
+            "billetera / saco"
           ],
           "answerIndex": 2,
           "explanation": "buzo (masculine with azul) and campera (feminine with abrigada).",
@@ -6388,10 +6392,10 @@
         {
           "prompt": "What does an Argentine mean by saying 'Esta remera sale quince lucas'?",
           "options": [
-            "This T-shirt costs 15,000 pesos (Inquire about prices using Cunto salecuesta)",
-            "This T-shirt is not for sale. (Inquire about prices using Cunto salecuesta)",
-            "This T-shirt costs 15 pesos. (Inquire about prices using Cunto salecuesta)",
-            "This T-shirt costs 150,000 pesos. (Inquire about prices using Cunto salecuesta)"
+            "This T-shirt costs 15,000 pesos",
+            "This T-shirt is not for sale.",
+            "This T-shirt costs 15 pesos.",
+            "This T-shirt costs 150,000 pesos."
           ],
           "answerIndex": 0,
           "explanation": "Lucas = thousands (quince lucas = $15,000)."
@@ -6399,10 +6403,10 @@
         {
           "prompt": "What is an 'alias' in modern Argentine payment transactions?",
           "options": [
-            "A personalized alphanumeric username/tag for instant mobile bank and Mercado Pago transfers (Inquire about prices using Cunto salecuesta)",
-            "A fake name for criminals (Inquire about prices using Cunto salecuesta)",
-            "A physical credit card number (Inquire about prices using Cunto salecuesta)",
-            "A secret password (Inquire about prices using Cunto salecuesta)"
+            "A personalized alphanumeric username/tag for instant mobile bank and Mercado Pago transfers",
+            "A fake name for criminals",
+            "A physical credit card number",
+            "A secret password"
           ],
           "answerIndex": 0,
           "explanation": "An alias is the standard Argentine identifier for wire transfers."
@@ -6414,10 +6418,10 @@
         {
           "prompt": "Translate: '¿Me pasás tu alias de Mercado Pago? Te transfiero la guita ahora mismo.'",
           "options": [
-            "Do you have a bank account in Madrid? (Inquire about prices using Cunto salecuesta)",
-            "Can you send me your Mercado Pago alias? I'll transfer you the money right now. (Inquire about prices using Cunto salecuesta)",
-            "I don't have money to pay the bill. (Inquire about prices using Cunto salecuesta)",
-            "The ATM is out of cash. (Inquire about prices using Cunto salecuesta)"
+            "Do you have a bank account in Madrid?",
+            "Can you send me your Mercado Pago alias? I'll transfer you the money right now.",
+            "I don't have money to pay the bill.",
+            "The ATM is out of cash."
           ],
           "answerIndex": 1,
           "explanation": "alias = transfer tag; guita = money; ahora mismo = right now."
@@ -6425,10 +6429,10 @@
         {
           "prompt": "What does '¿Cuánto sale?' mean when asking a shopkeeper?",
           "options": [
-            "When does it leave? (Inquire about prices using Cunto salecuesta)",
-            "How many people left? (Inquire about prices using Cunto salecuesta)",
-            "How much does it cost? (Inquire about prices using Cunto salecuesta)",
-            "Where is the exit? (Inquire about prices using Cunto salecuesta)"
+            "When does it leave?",
+            "How many people left?",
+            "How much does it cost?",
+            "Where is the exit?"
           ],
           "answerIndex": 2,
           "explanation": "'¿Cuánto sale?' is the standard Rioplatense phrase for 'How much is it?'."
@@ -6440,10 +6444,10 @@
         {
           "prompt": "Match the Argentine financial slang: guita, luca, palo, mangos:",
           "options": [
-            "guita: money | luca: thousand pesos | palo: million pesos | mangos: pesos (Inquire about prices using Cunto salecuesta)",
-            "All mean gold coins (Inquire about prices using Cunto salecuesta)",
-            "All mean days of the week (Inquire about prices using Cunto salecuesta)",
-            "guita: credit card | luca: wallet | palo: wooden stick | mangos: fruit (Inquire about prices using Cunto salecuesta)"
+            "guita: money | luca: thousand pesos | palo: million pesos | mangos: pesos",
+            "All mean gold coins",
+            "All mean days of the week",
+            "guita: credit card | luca: wallet | palo: wooden stick | mangos: fruit"
           ],
           "answerIndex": 0,
           "explanation": "Everyday Argentine colloquial money terms.",
@@ -6452,10 +6456,10 @@
         {
           "prompt": "Translate: 'En efectivo sale cincuenta lucas, pero con tarjeta es diez por ciento más.'",
           "options": [
-            "Credit card has a fifty percent discount. (Inquire about prices using Cunto salecuesta)",
-            "We don't accept cash or cards. (Inquire about prices using Cunto salecuesta)",
-            "The price is fifty million pesos. (Inquire about prices using Cunto salecuesta)",
-            "In cash it costs 50,000 pesos, but with card it is ten percent more. (Inquire about prices using Cunto salecuesta)"
+            "Credit card has a fifty percent discount.",
+            "We don't accept cash or cards.",
+            "The price is fifty million pesos.",
+            "In cash it costs 50,000 pesos, but with card it is ten percent more."
           ],
           "answerIndex": 3,
           "explanation": "cincuenta lucas = $50,000; efectivo = cash; tarjeta = card.",
@@ -6464,10 +6468,10 @@
         {
           "prompt": "What does 'un palo' represent in Argentine monetary slang?",
           "options": [
-            "One dollar (Inquire about prices using Cunto salecuesta)",
-            "Ten pesos (Inquire about prices using Cunto salecuesta)",
-            "One million pesos (Inquire about prices using Cunto salecuesta)",
-            "One hundred pesos (Inquire about prices using Cunto salecuesta)"
+            "One dollar",
+            "Ten pesos",
+            "One million pesos",
+            "One hundred pesos"
           ],
           "answerIndex": 2,
           "explanation": "Un palo = 1 million.",
@@ -6476,10 +6480,10 @@
         {
           "prompt": "Complete the conversation: 'A: ¿Cuánto te debo? B: Son tres _______ (thousand pesos - slang), pero si pagás por Mercado Pago está todo bien.'",
           "options": [
-            "remeras (Inquire about prices using Cunto salecuesta)",
-            "lucas (Inquire about prices using Cunto salecuesta)",
-            "anteojos (Inquire about prices using Cunto salecuesta)",
-            "palos (Inquire about prices using Cunto salecuesta)"
+            "remeras",
+            "lucas",
+            "anteojos",
+            "palos"
           ],
           "answerIndex": 1,
           "explanation": "tres lucas = $3,000.",
@@ -6528,10 +6532,10 @@
         {
           "prompt": "What does a friend mean when they look at your new outfit and say '¡Te queda joya!'?",
           "options": [
-            "You are wearing jewelry. (Ask for clothing sizes el talle and shoe sizes)",
-            "It looks terrible. (Ask for clothing sizes el talle and shoe sizes)",
-            "You should return it. (Ask for clothing sizes el talle and shoe sizes)",
-            "It fits you perfectly and looks fantastic! (Ask for clothing sizes el talle and shoe sizes)"
+            "You are wearing jewelry.",
+            "It looks terrible.",
+            "You should return it.",
+            "It fits you perfectly and looks fantastic!"
           ],
           "answerIndex": 3,
           "explanation": "'Queda joya' is Argentine slang for fitting or looking great."
@@ -6539,10 +6543,10 @@
         {
           "prompt": "What is the Argentine word for clothing size?",
           "options": [
-            "la talla (Ask for clothing sizes el talle and shoe sizes)",
-            "el peso (Ask for clothing sizes el talle and shoe sizes)",
-            "el metro (Ask for clothing sizes el talle and shoe sizes)",
-            "el talle (Ask for clothing sizes el talle and shoe sizes)"
+            "la talla",
+            "el peso",
+            "el metro",
+            "el talle"
           ],
           "answerIndex": 3,
           "explanation": "In Argentina, clothing size is masculine: 'el talle'."
@@ -6554,10 +6558,10 @@
         {
           "prompt": "Translate: '¿Tenés este buzo en talle M? Me lo quiero probar.'",
           "options": [
-            "Do you have this hoodie in size M? I want to try it on. (Ask for clothing sizes el talle and shoe sizes)",
-            "How much is this hoodie in size M? (Ask for clothing sizes el talle and shoe sizes)",
-            "I want to return this size M hoodie. (Ask for clothing sizes el talle and shoe sizes)",
-            "Size M is sold out. (Ask for clothing sizes el talle and shoe sizes)"
+            "Do you have this hoodie in size M? I want to try it on.",
+            "How much is this hoodie in size M?",
+            "I want to return this size M hoodie.",
+            "Size M is sold out."
           ],
           "answerIndex": 0,
           "explanation": "talle M = size M; me lo quiero probar = I want to try it on."
@@ -6565,10 +6569,10 @@
         {
           "prompt": "What does 'un toque' mean in 'me queda un toque largo'?",
           "options": [
-            "A little bit / slightly (Ask for clothing sizes el talle and shoe sizes)",
-            "A heavy blow (Ask for clothing sizes el talle and shoe sizes)",
-            "Very quickly (Ask for clothing sizes el talle and shoe sizes)",
-            "Not at all (Ask for clothing sizes el talle and shoe sizes)"
+            "A little bit / slightly",
+            "A heavy blow",
+            "Very quickly",
+            "Not at all"
           ],
           "answerIndex": 0,
           "explanation": "'Un toque' is everyday Argentine slang for 'a little bit'."
@@ -6580,10 +6584,10 @@
         {
           "prompt": "Match the Argentine fit phrases: queda pintado, queda suelto, queda apretado, talle:",
           "options": [
-            "All mean shoes (Ask for clothing sizes el talle and shoe sizes)",
-            "All mean prices (Ask for clothing sizes el talle and shoe sizes)",
-            "queda pintado: dirty with paint | queda suelto: lost | queda apretado: cold | talle: belt (Ask for clothing sizes el talle and shoe sizes)",
-            "queda pintado: fits like a glove | queda suelto: fits loose | queda apretado: fits tight | talle: size (Ask for clothing sizes el talle and shoe sizes)"
+            "All mean shoes",
+            "All mean prices",
+            "queda pintado: dirty with paint | queda suelto: lost | queda apretado: cold | talle: belt",
+            "queda pintado: fits like a glove | queda suelto: fits loose | queda apretado: fits tight | talle: size"
           ],
           "answerIndex": 3,
           "explanation": "Authentic Rioplatense fitting and sizing expressions.",
@@ -6592,10 +6596,10 @@
         {
           "prompt": "Translate: 'Che, probátela a ver si te gusta el corte.'",
           "options": [
-            "Hey, don't buy that shirt. (Ask for clothing sizes el talle and shoe sizes)",
-            "The fitting room is full. (Ask for clothing sizes el talle and shoe sizes)",
+            "Hey, don't buy that shirt.",
+            "The fitting room is full.",
             "Hey, try it on (voseo imperative)",
-            "We have to leave the store. (Ask for clothing sizes el talle and shoe sizes)"
+            "We have to leave the store."
           ],
           "answerIndex": 2,
           "explanation": "Probátela = try it on (voseo imperative of probarse).",
@@ -6604,10 +6608,10 @@
         {
           "prompt": "What is the difference between Argentine 'el talle' and Peninsular 'la talla'?",
           "options": [
-            "There is no difference. (Ask for clothing sizes el talle and shoe sizes)",
-            "Both mean clothing size, but Argentina uses masculine 'el talle' while Spain uses feminine 'la talla'. (Ask for clothing sizes el talle and shoe sizes)",
-            "El talle is for shoes only. (Ask for clothing sizes el talle and shoe sizes)",
-            "La talla is for children only. (Ask for clothing sizes el talle and shoe sizes)"
+            "There is no difference.",
+            "Both mean clothing size, but Argentina uses masculine 'el talle' while Spain uses feminine 'la talla'.",
+            "El talle is for shoes only.",
+            "La talla is for children only."
           ],
           "answerIndex": 1,
           "explanation": "Regional lexical variation: el talle (Argentina) vs. la talla (Spain).",
@@ -6616,10 +6620,10 @@
         {
           "prompt": "Complete: 'Este pantalón me queda _______ (a bit) chico, ¿me traés el talle 42?'",
           "options": [
-            "un toque (Ask for clothing sizes el talle and shoe sizes)",
-            "un palo (Ask for clothing sizes el talle and shoe sizes)",
-            "un mango (Ask for clothing sizes el talle and shoe sizes)",
-            "una luca (Ask for clothing sizes el talle and shoe sizes)"
+            "un toque",
+            "un palo",
+            "un mango",
+            "una luca"
           ],
           "answerIndex": 0,
           "explanation": "un toque chico = a bit small.",
@@ -6668,10 +6672,10 @@
         {
           "prompt": "What does an Argentine mean when saying 'En ese negocio te arrancan la cabeza'?",
           "options": [
-            "They sell hats. (Form comparisons ms)",
+            "They sell hats.",
             "In that shop they charge exorbitant, ridiculously high prices (overpriced)",
-            "The shop is closed. (Form comparisons ms)",
-            "They give hair cuts. (Form comparisons ms)"
+            "The shop is closed.",
+            "They give hair cuts."
           ],
           "answerIndex": 1,
           "explanation": "'Arrancar la cabeza' is idiomatic for charging outrageous prices."
@@ -6679,10 +6683,10 @@
         {
           "prompt": "What does 'trucho' mean when describing branded clothing at a street stall?",
           "options": [
-            "Fake / counterfeit / knock-off (Form comparisons ms)",
-            "Made of wool (Form comparisons ms)",
-            "Very old (Form comparisons ms)",
-            "Original and authentic (Form comparisons ms)"
+            "Fake / counterfeit / knock-off",
+            "Made of wool",
+            "Very old",
+            "Original and authentic"
           ],
           "answerIndex": 0,
           "explanation": "'Trucho/a' means fake or counterfeit."
@@ -6694,10 +6698,10 @@
         {
           "prompt": "Translate: 'Ese buzo te sale dos mangos y es de re buena calidad.'",
           "options": [
-            "That hoodie costs next to nothing and is of super good quality. (Form comparisons ms)",
-            "I don't like buying hoodies. (Form comparisons ms)",
-            "That hoodie costs two mango fruits. (Form comparisons ms)",
-            "That hoodie is very expensive and ugly. (Form comparisons ms)"
+            "That hoodie costs next to nothing and is of super good quality.",
+            "I don't like buying hoodies.",
+            "That hoodie costs two mango fruits.",
+            "That hoodie is very expensive and ugly."
           ],
           "answerIndex": 0,
           "explanation": "dos mangos = super cheap; re buena calidad = super good quality."
@@ -6705,10 +6709,10 @@
         {
           "prompt": "What does 'es una ganga' mean in shopping context?",
           "options": [
-            "It's a fantastic bargain / a steal! (Form comparisons ms)",
-            "It's too heavy. (Form comparisons ms)",
-            "It's broken. (Form comparisons ms)",
-            "It's stolen. (Form comparisons ms)"
+            "It's a fantastic bargain / a steal!",
+            "It's too heavy.",
+            "It's broken.",
+            "It's stolen."
           ],
           "answerIndex": 0,
           "explanation": "'Una ganga' = a great bargain."
@@ -6720,10 +6724,10 @@
         {
           "prompt": "Match the Argentine idioms: te arrancan la cabeza, dos mangos, trucho, ganga:",
           "options": [
-            "All mean types of music (Form comparisons ms)",
-            "te arrancan la cabeza: cheap | dos mangos: expensive | trucho: real | ganga: fake (Form comparisons ms)",
+            "All mean types of music",
+            "te arrancan la cabeza: cheap | dos mangos: expensive | trucho: real | ganga: fake",
             "te arrancan la cabeza: ridiculously overpriced | dos mangos: next to nothing (cheap)",
-            "All mean food items (Form comparisons ms)"
+            "All mean food items"
           ],
           "answerIndex": 2,
           "explanation": "Expressive Rioplatense commercial and shopping idioms.",
@@ -6732,10 +6736,10 @@
         {
           "prompt": "Translate: 'Esta feria artesanal es mucho más barata que las tiendas de la avenida.'",
           "options": [
-            "The artisan fair is closed on the avenue. (Form comparisons ms)",
-            "This artisan fair is much cheaper than the shops on the avenue. (Form comparisons ms)",
-            "We didn't find any crafts at the fair. (Form comparisons ms)",
-            "Shops on the avenue sell better items. (Form comparisons ms)"
+            "The artisan fair is closed on the avenue.",
+            "This artisan fair is much cheaper than the shops on the avenue.",
+            "We didn't find any crafts at the fair.",
+            "Shops on the avenue sell better items."
           ],
           "answerIndex": 1,
           "explanation": "más barata que = cheaper than.",
@@ -6744,10 +6748,10 @@
         {
           "prompt": "What does the Argentine amplifier 're-' indicate in 're barato' and 're lindo'?",
           "options": [
-            "An intensifier meaning 'super / extremely' (Form comparisons ms)",
-            "Repetition of action (Form comparisons ms)",
-            "Doubt or negation (Form comparisons ms)",
-            "Past tense (Form comparisons ms)"
+            "An intensifier meaning 'super / extremely'",
+            "Repetition of action",
+            "Doubt or negation",
+            "Past tense"
           ],
           "answerIndex": 0,
           "explanation": "'Re-' is the ubiquitous Argentine booster prefix.",
@@ -6756,10 +6760,10 @@
         {
           "prompt": "Complete: 'No compres esas zapatillas ahí porque son _______ (fake/counterfeit) y se rompen al toque.'",
           "options": [
-            "palos (Form comparisons ms)",
-            "gangas (Form comparisons ms)",
-            "lucas (Form comparisons ms)",
-            "truchas (Form comparisons ms)"
+            "palos",
+            "gangas",
+            "lucas",
+            "truchas"
           ],
           "answerIndex": 3,
           "explanation": "Zapatillas (fem. pl.) -> truchas (fake).",
@@ -6949,10 +6953,10 @@
         {
           "prompt": "What is the quintessential Argentine lunfardo term for a city bus?",
           "options": [
-            "el camión (Identify essential Rioplatense public transit vocabulary el subte)",
-            "la guagua (Identify essential Rioplatense public transit vocabulary el subte)",
-            "el tranvía (Identify essential Rioplatense public transit vocabulary el subte)",
-            "el bondi (Identify essential Rioplatense public transit vocabulary el subte)"
+            "el camión",
+            "la guagua",
+            "el tranvía",
+            "el bondi"
           ],
           "answerIndex": 3,
           "explanation": "El bondi / el colectivo is the universal Argentine bus term."
@@ -6960,10 +6964,10 @@
         {
           "prompt": "How do you say 'I went on foot' in authentic Argentine slang?",
           "options": [
-            "Fui en pata. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "Fui con pata. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "Fui por pata. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "Fui a pata. (Identify essential Rioplatense public transit vocabulary el subte)"
+            "Fui en pata.",
+            "Fui con pata.",
+            "Fui por pata.",
+            "Fui a pata."
           ],
           "answerIndex": 3,
           "explanation": "'Ir a pata' is the standard Argentine idiom for walking on foot."
@@ -6975,10 +6979,10 @@
         {
           "prompt": "Translate: 'No tengo saldo en la SUBE, tengo que cargarla en el kiosco.'",
           "options": [
-            "I lost my SUBE card on the bus. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "The kiosk does not accept credit cards. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "I need to buy a new SUBE card. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "I have no balance on my SUBE transit card, I have to top it up at the kiosk. (Identify essential Rioplatense public transit vocabulary el subte)"
+            "I lost my SUBE card on the bus.",
+            "The kiosk does not accept credit cards.",
+            "I need to buy a new SUBE card.",
+            "I have no balance on my SUBE transit card, I have to top it up at the kiosk."
           ],
           "answerIndex": 3,
           "explanation": "saldo en la SUBE = transit card balance; cargarla = top it up."
@@ -6986,10 +6990,10 @@
         {
           "prompt": "What does 'hacer combinación' mean in the Buenos Aires Subte network?",
           "options": [
-            "To combine two bus tickets (Identify essential Rioplatense public transit vocabulary el subte)",
-            "To share a taxi (Identify essential Rioplatense public transit vocabulary el subte)",
-            "To exit through the turnstiles (Identify essential Rioplatense public transit vocabulary el subte)",
-            "To transfer between subway lines (Identify essential Rioplatense public transit vocabulary el subte)"
+            "To combine two bus tickets",
+            "To share a taxi",
+            "To exit through the turnstiles",
+            "To transfer between subway lines"
           ],
           "answerIndex": 3,
           "explanation": "Hacer combinación = to make a subway line transfer."
@@ -7001,10 +7005,10 @@
         {
           "prompt": "Match the Rioplatense transit terms: el subte, el bondi, la combinación, el molinete:",
           "options": [
-            "el subte: subway | el bondi: bus | la combinación: line transfer | el molinete: turnstile gate (Identify essential Rioplatense public transit vocabulary el subte)",
-            "All mean bicycles (Identify essential Rioplatense public transit vocabulary el subte)",
-            "All mean traffic lights (Identify essential Rioplatense public transit vocabulary el subte)",
-            "el subte: car | el bondi: train | la combinación: ticket | el molinete: driver (Identify essential Rioplatense public transit vocabulary el subte)"
+            "el subte: subway | el bondi: bus | la combinación: line transfer | el molinete: turnstile gate",
+            "All mean bicycles",
+            "All mean traffic lights",
+            "el subte: car | el bondi: train | la combinación: ticket | el molinete: driver"
           ],
           "answerIndex": 0,
           "explanation": "Rioplatense public transit terms matching.",
@@ -7013,10 +7017,10 @@
         {
           "prompt": "Translate: 'Tomate el bondi 152 en la esquina que te deja en la puerta de la cancha.'",
           "options": [
-            "Bus 152 is delayed at the corner. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "The stadium has no bus stops. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "Walk 152 blocks to the stadium. (Identify essential Rioplatense public transit vocabulary el subte)",
-            "Take bus 152 at the corner which drops you right at the stadium door. (Identify essential Rioplatense public transit vocabulary el subte)"
+            "Bus 152 is delayed at the corner.",
+            "The stadium has no bus stops.",
+            "Walk 152 blocks to the stadium.",
+            "Take bus 152 at the corner which drops you right at the stadium door."
           ],
           "answerIndex": 3,
           "explanation": "Tomate el bondi = take the bus (voseo); te deja = drops you off; la cancha = stadium/field.",
@@ -7025,10 +7029,10 @@
         {
           "prompt": "What does the porteño idiom 'el subte está hasta las manos' mean during rush hour?",
           "options": [
-            "The subway is empty (Identify essential Rioplatense public transit vocabulary el subte)",
-            "The subway driver is waving their hands (Identify essential Rioplatense public transit vocabulary el subte)",
-            "The subway is completely packed with passengers / bursting at the seams (Identify essential Rioplatense public transit vocabulary el subte)",
-            "The subway is out of service (Identify essential Rioplatense public transit vocabulary el subte)"
+            "The subway is empty",
+            "The subway driver is waving their hands",
+            "The subway is completely packed with passengers / bursting at the seams",
+            "The subway is out of service"
           ],
           "answerIndex": 2,
           "explanation": "'Hasta las manos' is the universal Argentine idiom for completely packed / overwhelmed.",
@@ -7037,10 +7041,10 @@
         {
           "prompt": "Complete: 'Apoyá la tarjeta SUBE en el _______ (turnstile) para entrar al andén.'",
           "options": [
-            "asiento (Identify essential Rioplatense public transit vocabulary el subte)",
-            "molinete (Identify essential Rioplatense public transit vocabulary el subte)",
-            "espejo (Identify essential Rioplatense public transit vocabulary el subte)",
-            "tacho (Identify essential Rioplatense public transit vocabulary el subte)"
+            "asiento",
+            "molinete",
+            "espejo",
+            "tacho"
           ],
           "answerIndex": 1,
           "explanation": "el molinete = the turnstile barrier.",
@@ -7089,10 +7093,10 @@
         {
           "prompt": "How do Argentines describe a location that is two city blocks away?",
           "options": [
-            "Está a dos cuadras. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "Está a dos casas. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "Está a dos metros. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "Está a dos millas. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "Está a dos cuadras.",
+            "Está a dos casas.",
+            "Está a dos metros.",
+            "Está a dos millas."
           ],
           "answerIndex": 0,
           "explanation": "A tantas cuadras is the standard distance metric across Argentina."
@@ -7100,10 +7104,10 @@
         {
           "prompt": "What does 'está a la vuelta' mean?",
           "options": [
-            "It is right around the corner on the next block (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "It is 50 kilometers away (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "It is closed for vacation (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "It is on top of the roof (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "It is right around the corner on the next block",
+            "It is 50 kilometers away",
+            "It is closed for vacation",
+            "It is on top of the roof"
           ],
           "answerIndex": 0,
           "explanation": "'A la vuelta' = around the corner."
@@ -7115,10 +7119,10 @@
         {
           "prompt": "Translate: 'El Teatro Colón queda en la esquina de Cerrito y Tucumán, frente a la Plaza Lavalle.'",
           "options": [
-            "The theater is inside Plaza Lavalle. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "The Colón Theater is at the corner of Cerrito and Tucumán, opposite Plaza Lavalle. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "The theater is far from Tucumán street. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "Plaza Lavalle has no theaters. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "The theater is inside Plaza Lavalle.",
+            "The Colón Theater is at the corner of Cerrito and Tucumán, opposite Plaza Lavalle.",
+            "The theater is far from Tucumán street.",
+            "Plaza Lavalle has no theaters."
           ],
           "answerIndex": 1,
           "explanation": "en la esquina de = at the corner of; frente a = opposite / across from."
@@ -7126,10 +7130,10 @@
         {
           "prompt": "What does the prefix 're-' signify in 'queda re lejos'?",
           "options": [
-            "It means repetition (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "It means negative (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "It is the Rioplatense intensifier meaning 'very / super / extremely' (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "It is a verb ending (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "It means repetition",
+            "It means negative",
+            "It is the Rioplatense intensifier meaning 'very / super / extremely'",
+            "It is a verb ending"
           ],
           "answerIndex": 2,
           "explanation": "Re- is the signature Argentine booster prefix."
@@ -7141,10 +7145,10 @@
         {
           "prompt": "Match the Rioplatense spatial terms: a dos cuadras, a la vuelta, re cerca, entre:",
           "options": [
-            "All mean tomorrow (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "All mean inside (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "a dos cuadras: two miles | a la vuelta: straight ahead | re cerca: far (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "a dos cuadras: two blocks away | a la vuelta: around the corner | re cerca: super close | entre: between (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "All mean tomorrow",
+            "All mean inside",
+            "a dos cuadras: two miles | a la vuelta: straight ahead | re cerca: far",
+            "a dos cuadras: two blocks away | a la vuelta: around the corner | re cerca: super close | entre: between"
           ],
           "answerIndex": 3,
           "explanation": "Spatial terms matching.",
@@ -7153,10 +7157,10 @@
         {
           "prompt": "Translate: 'Caminás tres cuadras derecho y la heladería está a mano derecha, al lado del café.'",
           "options": [
-            "Turn left after three blocks for coffee. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "The café is inside the ice cream parlor. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "You walk three blocks straight and the ice cream parlor is on the right hand side, next to the café. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "The ice cream parlor is closed three blocks away. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "Turn left after three blocks for coffee.",
+            "The café is inside the ice cream parlor.",
+            "You walk three blocks straight and the ice cream parlor is on the right hand side, next to the café.",
+            "The ice cream parlor is closed three blocks away."
           ],
           "answerIndex": 2,
           "explanation": "tres cuadras derecho = 3 blocks straight; a mano derecha = on the right hand side.",
@@ -7165,10 +7169,10 @@
         {
           "prompt": "Why is the concept of 'la cuadra' foundational to Argentine urban geography?",
           "options": [
-            "Because cars are forbidden. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
+            "Because cars are forbidden.",
             "Because Spanish colonial city planning laid out Argentine cities in identical 100-meter grid squares (manzanas)",
-            "It is a modern law. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "Because blocks are round in Argentina. (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "It is a modern law.",
+            "Because blocks are round in Argentina."
           ],
           "answerIndex": 1,
           "explanation": "Colonial grid planning standardizes all city blocks to 100m.",
@@ -7177,10 +7181,10 @@
         {
           "prompt": "Complete: 'La estación de subte queda a _______ (half a block) de acá.'",
           "options": [
-            "media cuadra (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "media hora (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "medio litro (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)",
-            "medio kilo (Master Rioplatense spatial orientation and distance measurements a tantas cuadras)"
+            "media cuadra",
+            "media hora",
+            "medio litro",
+            "medio kilo"
           ],
           "answerIndex": 0,
           "explanation": "a media cuadra = half a block away (~50m).",
@@ -7230,10 +7234,10 @@
         {
           "prompt": "How do you tell a friend 'Go straight and turn right' using Argentine voseo imperatives?",
           "options": [
-            "Ve recto y gira a la derecha. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Vaya derecho y gire. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Andá derecho y doblá a la derecha. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Andar derecho y doblar. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "Ve recto y gira a la derecha.",
+            "Vaya derecho y gire.",
+            "Andá derecho y doblá a la derecha.",
+            "Andar derecho y doblar."
           ],
           "answerIndex": 2,
           "explanation": "Andá (imperative of ir) + doblá (imperative of doblar)."
@@ -7241,10 +7245,10 @@
         {
           "prompt": "What is the voseo imperative of 'bajarse' (to get off transit)?",
           "options": [
-            "Bájate (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Bájese (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Baja (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Bajate (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "Bájate",
+            "Bájese",
+            "Baja",
+            "Bajate"
           ],
           "answerIndex": 3,
           "explanation": "Bajate is the regular voseo imperative with enclitic pronoun 'te'."
@@ -7256,10 +7260,10 @@
         {
           "prompt": "Translate: 'Seguí caminando tres cuadras más y vas a ver el café en la ochava.'",
           "options": [
-            "Keep walking three more blocks and you will see the café on the chamfered corner. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Stop walking after three blocks. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Take the bus for three blocks. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "The café is closed on the corner. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "Keep walking three more blocks and you will see the café on the chamfered corner.",
+            "Stop walking after three blocks.",
+            "Take the bus for three blocks.",
+            "The café is closed on the corner."
           ],
           "answerIndex": 0,
           "explanation": "Seguí caminando = keep walking; ochava = chamfered corner building."
@@ -7267,10 +7271,10 @@
         {
           "prompt": "What does a porteño mean by 'te vas a chocar con el teatro'?",
           "options": [
-            "It is impossible to miss / you will run right into it (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "You will crash your car into the building (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "The theater is dangerous (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "The theater is hidden underground (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "It is impossible to miss / you will run right into it",
+            "You will crash your car into the building",
+            "The theater is dangerous",
+            "The theater is hidden underground"
           ],
           "answerIndex": 0,
           "explanation": "'Te chocás con' is the colorful Argentine idiom for 'you can't miss it'."
@@ -7282,10 +7286,10 @@
         {
           "prompt": "Match the voseo directional commands: Andá derecho, Doblá a la izquierda, Cruzá la calle, Tomate el bondi:",
           "options": [
-            "All are food commands (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "All mean stop (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Andá derecho: go straight | Doblá a la izquierda: turn left | Cruzá la calle: cross the street | Tomate el bondi: take the bus (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "All mean turn right (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "All are food commands",
+            "All mean stop",
+            "Andá derecho: go straight | Doblá a la izquierda: turn left | Cruzá la calle: cross the street | Tomate el bondi: take the bus",
+            "All mean turn right"
           ],
           "answerIndex": 2,
           "explanation": "Voseo directional imperatives matching.",
@@ -7294,10 +7298,10 @@
         {
           "prompt": "Translate: 'Para ir a San Telmo, tomate la Línea C en Retiro y bajate en Independencia.'",
           "options": [
-            "San Telmo is next to Retiro. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "To go to San Telmo, take Line C at Retiro and get off at Independencia. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Line C to San Telmo is closed at Retiro. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Take a taxi from Independencia to Retiro. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "San Telmo is next to Retiro.",
+            "To go to San Telmo, take Line C at Retiro and get off at Independencia.",
+            "Line C to San Telmo is closed at Retiro.",
+            "Take a taxi from Independencia to Retiro."
           ],
           "answerIndex": 1,
           "explanation": "tomate la Línea C = take Line C; bajate en Independencia = get off at Independencia.",
@@ -7306,10 +7310,10 @@
         {
           "prompt": "Why do Argentine imperatives like 'andá', 'doblá', 'cruzá' have an acute accent on the final vowel?",
           "options": [
-            "Because Rioplatense voseo imperatives are derived from historical 2nd-person plural forms where the stress falls squarely on the final syllable. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "It is optional spelling. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Because Spanish words always have accents. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Because they are foreign words. (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "Because Rioplatense voseo imperatives are derived from historical 2nd-person plural forms where the stress falls squarely on the final syllable.",
+            "It is optional spelling.",
+            "Because Spanish words always have accents.",
+            "Because they are foreign words."
           ],
           "answerIndex": 0,
           "explanation": "Voseo imperatives carry end-stress on the final vowel (-á, -é, -í).",
@@ -7318,10 +7322,10 @@
         {
           "prompt": "Complete: '¡_______ (cross - voseo) la avenida con cuidado que hay mucho tráfico!'",
           "options": [
-            "Cruzar (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Cruces (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Cruce (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)",
-            "Cruzá (Give and follow walking and transit directions using authentic Rioplatense voseo imperatives and)"
+            "Cruzar",
+            "Cruces",
+            "Cruce",
+            "Cruzá"
           ],
           "answerIndex": 3,
           "explanation": "¡Cruzá! = cross! (voseo imperative).",
@@ -7370,10 +7374,10 @@
         {
           "prompt": "Which preposition marks destination: 'Este subte va _______ (bound for) Plaza de Mayo'?",
           "options": [
-            "en (Apply the Por vs)",
-            "para (Apply the Por vs)",
-            "con (Apply the Por vs)",
-            "por (Apply the Por vs)"
+            "en",
+            "para",
+            "con",
+            "por"
           ],
           "answerIndex": 1,
           "explanation": "'Para' marks destination / heading towards."
@@ -7381,10 +7385,10 @@
         {
           "prompt": "Which preposition marks the path traversed: 'Caminamos _______ (along/through) la calle Corrientes'?",
           "options": [
-            "por (Apply the Por vs)",
-            "de (Apply the Por vs)",
-            "hacia (Apply the Por vs)",
-            "para (Apply the Por vs)"
+            "por",
+            "de",
+            "hacia",
+            "para"
           ],
           "answerIndex": 0,
           "explanation": "'Por' expresses motion along or through a path."
@@ -7396,10 +7400,10 @@
         {
           "prompt": "Translate: 'Compré la tarjeta SUBE para viajar por toda la ciudad.'",
           "options": [
-            "I bought the SUBE card in order to travel throughout the entire city. (Apply the Por vs)",
-            "Where can I buy a card for the city? (Apply the Por vs)",
-            "The SUBE card is valid for one train only. (Apply the Por vs)",
-            "I cannot travel through the city with SUBE. (Apply the Por vs)"
+            "I bought the SUBE card in order to travel throughout the entire city.",
+            "Where can I buy a card for the city?",
+            "The SUBE card is valid for one train only.",
+            "I cannot travel through the city with SUBE."
           ],
           "answerIndex": 0,
           "explanation": "para viajar (purpose) + por toda la ciudad (throughout space)."
@@ -7407,10 +7411,10 @@
         {
           "prompt": "Complete: 'El bondi no pasa por acá _______ (because of) la obra en la avenida.'",
           "options": [
-            "por (Apply the Por vs)",
-            "hacia (Apply the Por vs)",
-            "para (Apply the Por vs)",
-            "sin (Apply the Por vs)"
+            "por",
+            "hacia",
+            "para",
+            "sin"
           ],
           "answerIndex": 0,
           "explanation": "por = cause / because of."
@@ -7422,10 +7426,10 @@
         {
           "prompt": "Match the sentences with their Por / Para functions: 'El bondi para Retiro', 'Pasear por San Telmo', 'Cargar saldo para viajar', 'Demora por lluvia':",
           "options": [
-            "All express deadlines (Apply the Por vs)",
-            "El bondi para Retiro: Destination | Pasear por San Telmo: Path through space | Cargar saldo para viajar: Purpose | Demora por lluvia: Cause (Apply the Por vs)",
-            "All are past tense (Apply the Por vs)",
-            "All express recipients (Apply the Por vs)"
+            "All express deadlines",
+            "El bondi para Retiro: Destination | Pasear por San Telmo: Path through space | Cargar saldo para viajar: Purpose | Demora por lluvia: Cause",
+            "All are past tense",
+            "All express recipients"
           ],
           "answerIndex": 1,
           "explanation": "Por vs. Para use cases.",
@@ -7434,10 +7438,10 @@
         {
           "prompt": "Translate: 'Salimos para la cancha temprano y cruzamos por el parque Lezama.'",
           "options": [
-            "We left for the stadium early and crossed via Lezama Park. (Apply the Por vs)",
-            "The stadium is inside Lezama Park. (Apply the Por vs)",
-            "We walked away from the stadium. (Apply the Por vs)",
-            "We missed the match in Lezama Park. (Apply the Por vs)"
+            "We left for the stadium early and crossed via Lezama Park.",
+            "The stadium is inside Lezama Park.",
+            "We walked away from the stadium.",
+            "We missed the match in Lezama Park."
           ],
           "answerIndex": 0,
           "explanation": "para la cancha = destination; por el parque = path traversed through.",
@@ -7446,10 +7450,10 @@
         {
           "prompt": "What is the difference between 'ir por Palermo' and 'ir para Palermo'?",
           "options": [
-            "The second is plural. (Apply the Por vs)",
-            "There is no difference. (Apply the Por vs)",
-            "The first is past tense. (Apply the Por vs)",
-            "'Ir por Palermo' means wandering around/through Palermo; 'Ir para Palermo' means travelling towards Palermo as your final destination. (Apply the Por vs)"
+            "The second is plural.",
+            "There is no difference.",
+            "The first is past tense.",
+            "'Ir por Palermo' means wandering around/through Palermo; 'Ir para Palermo' means travelling towards Palermo as your final destination."
           ],
           "answerIndex": 3,
           "explanation": "Por (route through) vs. Para (destination towards).",
@@ -7458,10 +7462,10 @@
         {
           "prompt": "Complete: 'Te mando la dirección del bar _______ (via/by) WhatsApp.'",
           "options": [
-            "de (Apply the Por vs)",
-            "para (Apply the Por vs)",
-            "por (Apply the Por vs)",
-            "hacia (Apply the Por vs)"
+            "de",
+            "para",
+            "por",
+            "hacia"
           ],
           "answerIndex": 2,
           "explanation": "por WhatsApp = means of communication.",
@@ -7645,10 +7649,10 @@
         {
           "prompt": "¿Cómo se llama exclusivamente al refrigerador / nevera en Argentina?",
           "options": [
-            "La nevera (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El frigorífico (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El congelador únicamente (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "La heladera (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "La nevera",
+            "El frigorífico",
+            "El congelador únicamente",
+            "La heladera"
           ],
           "answerIndex": 3,
           "explanation": "In Argentina, the refrigerator is universally called 'la heladera'."
@@ -7656,10 +7660,10 @@
         {
           "prompt": "¿Qué significa un departamento de 'dos ambientes' en Buenos Aires?",
           "options": [
-            "Un departamento con dos baños (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Una casa de dos pisos (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Un monoambiente (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Un departamento con un living y un dormitorio separado (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "Un departamento con dos baños",
+            "Una casa de dos pisos",
+            "Un monoambiente",
+            "Un departamento con un living y un dormitorio separado"
           ],
           "answerIndex": 3,
           "explanation": "'Dos ambientes' means living room + 1 bedroom."
@@ -7671,10 +7675,10 @@
         {
           "prompt": "Traduce al estilo porteño: 'My clothes are in the closet.'",
           "options": [
-            "Mi ropa es en la heladera. (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Mi ropa está en el balcón. (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Mi ropa está en el piso. (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Mi ropa está en el placard. (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "Mi ropa es en la heladera.",
+            "Mi ropa está en el balcón.",
+            "Mi ropa está en el piso.",
+            "Mi ropa está en el placard."
           ],
           "answerIndex": 3,
           "explanation": "Placard is the standard Argentine word for closet/wardrobe."
@@ -7682,10 +7686,10 @@
         {
           "prompt": "¿Qué espacio es fundamental en una casa o terraza argentina para hacer asados con amigos?",
           "options": [
-            "El lavadero (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El ascensor (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El garaje (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "La parrilla (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "El lavadero",
+            "El ascensor",
+            "El garaje",
+            "La parrilla"
           ],
           "answerIndex": 3,
           "explanation": "La parrilla / el quincho is the dedicated barbecue area."
@@ -7697,10 +7701,10 @@
         {
           "prompt": "Empareja los términos de vivienda argentina: el depto, la heladera, el placard, la parrilla:",
           "options": [
-            "el depto: house | la heladera: oven | el placard: table | la parrilla: bed (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "All mean bedroom (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "All mean garage (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "el depto: apartment | la heladera: fridge | el placard: closet | la parrilla: barbecue grill (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "el depto: house | la heladera: oven | el placard: table | la parrilla: bed",
+            "All mean bedroom",
+            "All mean garage",
+            "el depto: apartment | la heladera: fridge | el placard: closet | la parrilla: barbecue grill"
           ],
           "answerIndex": 3,
           "explanation": "Argentine housing terminology matching.",
@@ -7709,10 +7713,10 @@
         {
           "prompt": "¿Cómo se pronuncia la 'll' en 'parrilla' en el acento rioplatense?",
           "options": [
-            "Como una 'l' normal (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Como una 'y' mexicana suave (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "Con yeísmo rehilado: como una 'sh' suave o 'zh' (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "No se pronuncia (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "Como una 'l' normal",
+            "Como una 'y' mexicana suave",
+            "Con yeísmo rehilado: como una 'sh' suave o 'zh'",
+            "No se pronuncia"
           ],
           "answerIndex": 2,
           "explanation": "Rioplatense yeísmo rehilado pronounces 'll' as [ʃ] or [ʒ].",
@@ -7721,10 +7725,10 @@
         {
           "prompt": "Completa: 'En el living tenemos una mesa ratona y un _______ muy cómodo.'",
           "options": [
-            "inodoro (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "sillón (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "placard (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "horno (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "inodoro",
+            "sillón",
+            "placard",
+            "horno"
           ],
           "answerIndex": 1,
           "explanation": "Un sillón cómodo sits in the living room.",
@@ -7733,10 +7737,10 @@
         {
           "prompt": "¿Qué término coloquial usan los argentinos para referirse a la habitación o dormitorio?",
           "options": [
-            "La pieza (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El local (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El galpón (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)",
-            "El aula (Identify and describe parts of an Argentine apartmenthouse and distinct Rioplatense furniture terms el depto)"
+            "La pieza",
+            "El local",
+            "El galpón",
+            "El aula"
           ],
           "answerIndex": 0,
           "explanation": "'La pieza' is standard casual Argentine for bedroom.",
@@ -7780,10 +7784,10 @@
         {
           "prompt": "¿Cómo se dice comúnmente 'to mop the floor' en Argentina?",
           "options": [
-            "Pasar el trapo (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Barrer la pared (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Tirar agua al suelo (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Pintar el piso (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "Pasar el trapo",
+            "Barrer la pared",
+            "Tirar agua al suelo",
+            "Pintar el piso"
           ],
           "answerIndex": 0,
           "explanation": "'Pasar el trapo' is the standard Argentine expression for mopping floors."
@@ -7791,10 +7795,10 @@
         {
           "prompt": "¿Qué significa la palabra lunfarda 'quilombo' en el contexto del hogar?",
           "options": [
-            "Un gran desorden o desastre (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Un tipo de mueble (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Una comida rápida (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Un producto de limpieza (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "Un gran desorden o desastre",
+            "Un tipo de mueble",
+            "Una comida rápida",
+            "Un producto de limpieza"
           ],
           "answerIndex": 0,
           "explanation": "'Quilombo' means a huge mess/chaos."
@@ -7806,10 +7810,10 @@
         {
           "prompt": "Traduce al estilo porteño: 'I have to do laundry and wash the dishes.'",
           "options": [
-            "Tengo que cocinar asado y dormir. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Tengo que poner el lavarropas y lavar los platos. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Tengo que vender la heladera. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Tengo que comprar un sillón nuevo. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "Tengo que cocinar asado y dormir.",
+            "Tengo que poner el lavarropas y lavar los platos.",
+            "Tengo que vender la heladera.",
+            "Tengo que comprar un sillón nuevo."
           ],
           "answerIndex": 1,
           "explanation": "Poner el lavarropas (do laundry) + lavar los platos (wash dishes)."
@@ -7817,10 +7821,10 @@
         {
           "prompt": "Completa con voseo: 'Che, ¿vos _______ (sacar) la basura hoy?'",
           "options": [
-            "sacas (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "sacáis (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "sacás (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "sacaron (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "sacas",
+            "sacáis",
+            "sacás",
+            "sacaron"
           ],
           "answerIndex": 2,
           "explanation": "Present tense voseo for sacar is 'vos sacás'."
@@ -7832,10 +7836,10 @@
         {
           "prompt": "Empareja las tareas domésticas: pasar el trapo, poner el lavarropas, sacar la basura, ordenar la pieza:",
           "options": [
-            "All mean buying groceries (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "All mean cooking (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "pasar el trapo: mop floor | poner el lavarropas: do laundry | sacar la basura: take out trash | ordenar la pieza: tidy bedroom (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "pasar el trapo: wash dishes | poner el lavarropas: cook | sacar la basura: sleep | ordenar la pieza: vacuum (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "All mean buying groceries",
+            "All mean cooking",
+            "pasar el trapo: mop floor | poner el lavarropas: do laundry | sacar la basura: take out trash | ordenar la pieza: tidy bedroom",
+            "pasar el trapo: wash dishes | poner el lavarropas: cook | sacar la basura: sleep | ordenar la pieza: vacuum"
           ],
           "answerIndex": 2,
           "explanation": "Argentine chore vocabulary matching.",
@@ -7844,10 +7848,10 @@
         {
           "prompt": "¿Quién es el 'encargado' en un edificio porteño?",
           "options": [
-            "El repartidor de correo (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "El portero o conserje responsable del mantenimiento y limpieza de las áreas comunes del edificio (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Un vecino cualquiera (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "El dueño de todos los departamentos (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "El repartidor de correo",
+            "El portero o conserje responsable del mantenimiento y limpieza de las áreas comunes del edificio",
+            "Un vecino cualquiera",
+            "El dueño de todos los departamentos"
           ],
           "answerIndex": 1,
           "explanation": "The encargado is the building superintendent/porter.",
@@ -7856,10 +7860,10 @@
         {
           "prompt": "Traduce: 'My roommate and I clean the apartment together on Saturdays.'",
           "options": [
-            "Mi compañero de depto y yo limpiamos el depto juntos los sábados. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Nosotros dormimos en el living. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Salimos a bailar todos los días. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "Mi amigo y yo compramos ropa los sábados. (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "Mi compañero de depto y yo limpiamos el depto juntos los sábados.",
+            "Nosotros dormimos en el living.",
+            "Salimos a bailar todos los días.",
+            "Mi amigo y yo compramos ropa los sábados."
           ],
           "answerIndex": 0,
           "explanation": "Limpiamos el depto juntos los sábados.",
@@ -7868,10 +7872,10 @@
         {
           "prompt": "Completa: 'No encuentro mis llaves porque esta mesa es un _______.'",
           "options": [
-            "balcón (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "espejo (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "asado (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)",
-            "quilombo (Describe daily household chores and habits in Argentine Spanish using authentic collocations limpiar el depto)"
+            "balcón",
+            "espejo",
+            "asado",
+            "quilombo"
           ],
           "answerIndex": 3,
           "explanation": "Quilombo = mess/disorder.",
@@ -7915,10 +7919,10 @@
         {
           "prompt": "¿Cómo se conjuga el verbo 'laburar' (trabajar) para 'vos' en pretérito imperfecto?",
           "options": [
-            "Vos laburás (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Vos laburabás (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Vos laburabas (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Vos laburaste (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "Vos laburás",
+            "Vos laburabás",
+            "Vos laburabas",
+            "Vos laburaste"
           ],
           "answerIndex": 2,
           "explanation": "In the imperfect, voseo takes standard -abas: vos laburabas."
@@ -7926,10 +7930,10 @@
         {
           "prompt": "¿Qué palabra usan los argentinos para decir 'sidewalk' (la acera)?",
           "options": [
-            "La acera (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "El andén (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "La pista (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "La vereda (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "La acera",
+            "El andén",
+            "La pista",
+            "La vereda"
           ],
           "answerIndex": 3,
           "explanation": "In Argentina, the sidewalk is universally 'la vereda'."
@@ -7941,10 +7945,10 @@
         {
           "prompt": "Traduce al estilo argentino: 'Before, you used to play tennis every Saturday.'",
           "options": [
-            "Antes vos jugabas al tenis todos los sábados. (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Antes vos jugás al tenis mañana. (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Vos jugarás al tenis. (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Ayer vos jugaste al tenis. (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "Antes vos jugabas al tenis todos los sábados.",
+            "Antes vos jugás al tenis mañana.",
+            "Vos jugarás al tenis.",
+            "Ayer vos jugaste al tenis."
           ],
           "answerIndex": 0,
           "explanation": "Antes vos jugabas (imperfect) expresses repeated past habit."
@@ -7952,10 +7956,10 @@
         {
           "prompt": "¿Qué significa 'los pibes del barrio'?",
           "options": [
-            "The kids / young guys from the neighborhood (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "The police officers (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "The old teachers (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "The grocery stores (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "The kids / young guys from the neighborhood",
+            "The police officers",
+            "The old teachers",
+            "The grocery stores"
           ],
           "answerIndex": 0,
           "explanation": "'Los pibes' is standard Argentine for the kids/lads."
@@ -7967,10 +7971,10 @@
         {
           "prompt": "Conjuga 'charlar' en imperfecto rioplatense para: yo, vos, él, nosotros, ustedes:",
           "options": [
-            "charlo, charlás, charla, charlamos, charlan (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "charlaba, charlabas, charlaba, charlábamos, charlaban (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "charlarás, charlará, charlaremos, charlarán (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "charlé, charlaste, charló, charlamos, charlaron (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "charlo, charlás, charla, charlamos, charlan",
+            "charlaba, charlabas, charlaba, charlábamos, charlaban",
+            "charlarás, charlará, charlaremos, charlarán",
+            "charlé, charlaste, charló, charlamos, charlaron"
           ],
           "answerIndex": 1,
           "explanation": "Complete Rioplatense -ar imperfect paradigm (using ustedes instead of vosotros).",
@@ -7979,10 +7983,10 @@
         {
           "prompt": "¿Por qué el pretérito imperfecto es más fácil para los estudiantes de español rioplatense que el presente?",
           "options": [
-            "Porque el pronombre 'vos' no tiene formas irregulares exclusivas en el imperfecto; usa las mismas terminaciones (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Porque solo se usa en películas (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Porque no tiene verbos (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Porque se habla en inglés (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "Porque el pronombre 'vos' no tiene formas irregulares exclusivas en el imperfecto; usa las mismas terminaciones",
+            "Porque solo se usa en películas",
+            "Porque no tiene verbos",
+            "Porque se habla en inglés"
           ],
           "answerIndex": 0,
           "explanation": "Voseo in the imperfect is completely regular and identical to standard -abas/-ías.",
@@ -7991,10 +7995,10 @@
         {
           "prompt": "Completa: 'En verano, nosotros _______ (tomar) mate en la vereda hasta tarde.'",
           "options": [
-            "tomamos (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "tomaron (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "tomabamos (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "tomábamos (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "tomamos",
+            "tomaron",
+            "tomabamos",
+            "tomábamos"
           ],
           "answerIndex": 3,
           "explanation": "Nosotros in -ar imperfect always carries a written accent: tomábamos.",
@@ -8003,10 +8007,10 @@
         {
           "prompt": "¿Qué pronombre de segunda persona del plural se usa en Argentina en lugar de 'vosotros'?",
           "options": [
-            "Vos (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Ellos (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Ustedes (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)",
-            "Tú (Conjugate regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto within Rioplatense Spanish)"
+            "Vos",
+            "Ellos",
+            "Ustedes",
+            "Tú"
           ],
           "answerIndex": 2,
           "explanation": "Ustedes is universally used for 2nd person plural in Argentina.",
@@ -8050,10 +8054,10 @@
         {
           "prompt": "¿Cuáles son los únicos 3 verbos irregulares en el imperfecto en español rioplatense?",
           "options": [
-            "ESTAR, QUERER y SABER (Conjugate regular erir verbs a)",
+            "ESTAR, QUERER y SABER",
             "SER (eras)",
-            "DECIR, PONER y VENIR (Conjugate regular erir verbs a)",
-            "TENER, HACER y PODER (Conjugate regular erir verbs a)"
+            "DECIR, PONER y VENIR",
+            "TENER, HACER y PODER"
           ],
           "answerIndex": 1,
           "explanation": "Ser, Ir, and Ver are the only 3 irregular verbs in the imperfect tense."
@@ -8061,10 +8065,10 @@
         {
           "prompt": "¿Qué significa el prefijo coloquial 're-' en Argentina (e.g. 'era un depto re lindo')?",
           "options": [
-            "Muy / súper (Conjugate regular erir verbs a)",
-            "Malo (Conjugate regular erir verbs a)",
-            "Poco (Conjugate regular erir verbs a)",
-            "Repetir (Conjugate regular erir verbs a)"
+            "Muy / súper",
+            "Malo",
+            "Poco",
+            "Repetir"
           ],
           "answerIndex": 0,
           "explanation": "The prefix 're-' (or 'recontra-') is the classic Argentine intensifier for 'very/super'."
@@ -8076,10 +8080,10 @@
         {
           "prompt": "Traduce al estilo argentino: 'When I was young, I used to live in San Telmo.'",
           "options": [
-            "Cuando era joven, vivía en San Telmo. (Conjugate regular erir verbs a)",
-            "Cuando sea joven, viviré en San Telmo. (Conjugate regular erir verbs a)",
-            "Cuando fui joven, viví en San Telmo ayer. (Conjugate regular erir verbs a)",
-            "Cuando soy joven, vivo en San Telmo hoy. (Conjugate regular erir verbs a)"
+            "Cuando era joven, vivía en San Telmo.",
+            "Cuando sea joven, viviré en San Telmo.",
+            "Cuando fui joven, viví en San Telmo ayer.",
+            "Cuando soy joven, vivo en San Telmo hoy."
           ],
           "answerIndex": 0,
           "explanation": "'Era' (ser) and 'vivía' (vivir) describe past state and residence in the imperfect."
@@ -8087,10 +8091,10 @@
         {
           "prompt": "¿Qué significa 'ir a la cancha' en la cultura argentina?",
           "options": [
-            "Ir al estadio de fútbol a ver un partido (Conjugate regular erir verbs a)",
-            "Ir a dormir (Conjugate regular erir verbs a)",
-            "Ir a la cancha de tenis exclusivamente (Conjugate regular erir verbs a)",
-            "Ir al supermercado (Conjugate regular erir verbs a)"
+            "Ir al estadio de fútbol a ver un partido",
+            "Ir a dormir",
+            "Ir a la cancha de tenis exclusivamente",
+            "Ir al supermercado"
           ],
           "answerIndex": 0,
           "explanation": "'Ir a la cancha' is the universal Argentine idiom for going to a football match."
@@ -8102,10 +8106,10 @@
         {
           "prompt": "Empareja los verbos irregulares en imperfecto para 'vos': SER, IR, VER:",
           "options": [
-            "SER: vos eras | IR: vos ibas | VER: vos veías (Conjugate regular erir verbs a)",
-            "SER: vos fuiste | IR: vos fuiste | VER: vos viste (Conjugate regular erir verbs a)",
-            "SER: vos serás | IR: vos irás | VER: vos verás (Conjugate regular erir verbs a)",
-            "SER: vos sos | IR: vos vas | VER: vos ves (Conjugate regular erir verbs a)"
+            "SER: vos eras | IR: vos ibas | VER: vos veías",
+            "SER: vos fuiste | IR: vos fuiste | VER: vos viste",
+            "SER: vos serás | IR: vos irás | VER: vos verás",
+            "SER: vos sos | IR: vos vas | VER: vos ves"
           ],
           "answerIndex": 0,
           "explanation": "Imperfect irregular forms for vos matching.",
@@ -8114,10 +8118,10 @@
         {
           "prompt": "Conjuga 'tener' para 'nosotros' en imperfecto:",
           "options": [
-            "Tenemos (Conjugate regular erir verbs a)",
-            "Tuvimos (Conjugate regular erir verbs a)",
-            "Tenabamos (Conjugate regular erir verbs a)",
-            "Teníamos (Conjugate regular erir verbs a)"
+            "Tenemos",
+            "Tuvimos",
+            "Tenabamos",
+            "Teníamos"
           ],
           "answerIndex": 3,
           "explanation": "Teníamos carries a written tilde on the 'í'.",
@@ -8126,10 +8130,10 @@
         {
           "prompt": "¿Por qué el mate se considera el epicentro de la nostalgia y la vida cotidiana argentina?",
           "options": [
-            "Porque es obligatorio por ley (Conjugate regular erir verbs a)",
-            "Porque es una medicina amarga (Conjugate regular erir verbs a)",
-            "Porque es un ritual compartido que une a amigos y familia en largas charlas y recuerdos en la casa o el parque (Conjugate regular erir verbs a)",
-            "Porque solo se toma una vez al año (Conjugate regular erir verbs a)"
+            "Porque es obligatorio por ley",
+            "Porque es una medicina amarga",
+            "Porque es un ritual compartido que une a amigos y familia en largas charlas y recuerdos en la casa o el parque",
+            "Porque solo se toma una vez al año"
           ],
           "answerIndex": 2,
           "explanation": "Mate is the communal ritual of conversation, connection, and shared memories.",
@@ -8138,10 +8142,10 @@
         {
           "prompt": "Completa: 'En aquella época, el barrio _______ (ser) re tranquilo y la gente _______ (vivir) sin apuro.'",
           "options": [
-            "fue / vivió (Conjugate regular erir verbs a)",
-            "era / vivía (Conjugate regular erir verbs a)",
-            "es / vive (Conjugate regular erir verbs a)",
-            "será / vivirá (Conjugate regular erir verbs a)"
+            "fue / vivió",
+            "era / vivía",
+            "es / vive",
+            "será / vivirá"
           ],
           "answerIndex": 1,
           "explanation": "Era (ser) and vivía (vivir) paint the nostalgic background of the neighborhood.",
@@ -8185,10 +8189,10 @@
         {
           "prompt": "En el texto de síntesis, ¿qué característica especial tiene el balcón del departamento?",
           "options": [
-            "Tiene una parrilla chica para hacer asado con los amigos los fines de semana (Synthesize Argentine housing vocabulary)",
-            "No tiene espacio para nada (Synthesize Argentine housing vocabulary)",
-            "Tiene una piscina olímpica (Synthesize Argentine housing vocabulary)",
-            "Es un estacionamiento de autos (Synthesize Argentine housing vocabulary)"
+            "Tiene una parrilla chica para hacer asado con los amigos los fines de semana",
+            "No tiene espacio para nada",
+            "Tiene una piscina olímpica",
+            "Es un estacionamiento de autos"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'tengo una parrilla chica donde los fines de semana hago asado con los pibes'."
@@ -8196,10 +8200,10 @@
         {
           "prompt": "¿Qué frase porteña se usa en el texto para invitar cordialmente a alguien a pasar y sentirse en casa?",
           "options": [
-            "¡Pasá, ponete cómodo, que el depto es tuyo! (Synthesize Argentine housing vocabulary)",
-            "Quedate afuera (Synthesize Argentine housing vocabulary)",
-            "No toques nada (Synthesize Argentine housing vocabulary)",
-            "Pagá la entrada (Synthesize Argentine housing vocabulary)"
+            "¡Pasá, ponete cómodo, que el depto es tuyo!",
+            "Quedate afuera",
+            "No toques nada",
+            "Pagá la entrada"
           ],
           "answerIndex": 0,
           "explanation": "«Pasá, ponete cómodo, que el depto es tuyo» is the quintessential Rioplatense welcome."
@@ -8211,10 +8215,10 @@
         {
           "prompt": "Traduce al estilo argentino: 'Before we lived in a quiet house and drank mate on the sidewalk.'",
           "options": [
-            "Ahora vivimos en un auto hoy. (Synthesize Argentine housing vocabulary)",
-            "Antes vivíamos en una casa tranquila y tomábamos mate en la vereda. (Synthesize Argentine housing vocabulary)",
-            "Mañana tomaremos café en el cine. (Synthesize Argentine housing vocabulary)",
-            "Antes vivimos en una casa ruidosa ayer. (Synthesize Argentine housing vocabulary)"
+            "Ahora vivimos en un auto hoy.",
+            "Antes vivíamos en una casa tranquila y tomábamos mate en la vereda.",
+            "Mañana tomaremos café en el cine.",
+            "Antes vivimos en una casa ruidosa ayer."
           ],
           "answerIndex": 1,
           "explanation": "Vivíamos, tomábamos, and vereda perfectly reflect Argentine imperfect storytelling."
@@ -8222,10 +8226,10 @@
         {
           "prompt": "¿Qué significa 'la merienda' en la rutina diaria argentina?",
           "options": [
-            "La cena a la medianoche (Synthesize Argentine housing vocabulary)",
-            "La comida ligera de la tarde (Synthesize Argentine housing vocabulary)",
-            "El almuerzo del mediodía (Synthesize Argentine housing vocabulary)",
-            "El desayuno a las 6 AM (Synthesize Argentine housing vocabulary)"
+            "La cena a la medianoche",
+            "La comida ligera de la tarde",
+            "El almuerzo del mediodía",
+            "El desayuno a las 6 AM"
           ],
           "answerIndex": 1,
           "explanation": "La merienda is the cherished afternoon tea/mate meal in Argentina."
@@ -8237,9 +8241,9 @@
         {
           "prompt": "¿Qué competencias principales se consolidaron a lo largo de la Unidad 10 de Español Argentino?",
           "options": [
-            "Conjugación del futuro perfecto solamente (Synthesize Argentine housing vocabulary)",
-            "Nombres de planetas solamente (Synthesize Argentine housing vocabulary)",
-            "Instrucciones de aviación solamente (Synthesize Argentine housing vocabulary)",
+            "Conjugación del futuro perfecto solamente",
+            "Nombres de planetas solamente",
+            "Instrucciones de aviación solamente",
             "Vocabulario de vivienda rioplatense (depto de dos ambientes, living, heladera, placard, parrilla)"
           ],
           "answerIndex": 3,
@@ -8249,10 +8253,10 @@
         {
           "prompt": "Completa el dicho popular argentino: «El que no arriesga, no _______ .»",
           "options": [
-            "duerme (Synthesize Argentine housing vocabulary)",
-            "come (Synthesize Argentine housing vocabulary)",
-            "gana (Synthesize Argentine housing vocabulary)",
-            "corre (Synthesize Argentine housing vocabulary)"
+            "duerme",
+            "come",
+            "gana",
+            "corre"
           ],
           "answerIndex": 2,
           "explanation": "«El que no arriesga, no gana» (He who doesn't risk, doesn't win).",
@@ -8261,10 +8265,10 @@
         {
           "prompt": "¿Por qué dominar la descripción del hogar y la infancia con voseo es crucial para la integración sociocultural en Argentina?",
           "options": [
-            "Porque solo sirve para alquilar departamentos (Synthesize Argentine housing vocabulary)",
-            "Porque hablar del barrio de origen, el depto y las anécdotas de la infancia tomando mate es el corazón de las conversaciones de sobremesa y amistad porteña (Synthesize Argentine housing vocabulary)",
-            "Porque es una exigencia bancaria (Synthesize Argentine housing vocabulary)",
-            "No tiene valor comunicativo (Synthesize Argentine housing vocabulary)"
+            "Porque solo sirve para alquilar departamentos",
+            "Porque hablar del barrio de origen, el depto y las anécdotas de la infancia tomando mate es el corazón de las conversaciones de sobremesa y amistad porteña",
+            "Porque es una exigencia bancaria",
+            "No tiene valor comunicativo"
           ],
           "answerIndex": 1,
           "explanation": "Home tours, barrio memories, and mate conversations are the bedrock of Argentine social bonding.",
@@ -8273,10 +8277,10 @@
         {
           "prompt": "Completa con voseo en imperfecto: «Me acuerdo de que vos siempre _______ (llegar) tarde a los asados.»",
           "options": [
-            "llegabas (Synthesize Argentine housing vocabulary)",
-            "llegaste (Synthesize Argentine housing vocabulary)",
-            "llegás (Synthesize Argentine housing vocabulary)",
-            "llegarás (Synthesize Argentine housing vocabulary)"
+            "llegabas",
+            "llegaste",
+            "llegás",
+            "llegarás"
           ],
           "answerIndex": 0,
           "explanation": "Vos in imperfect takes -abas: vos siempre llegabas.",
@@ -8319,10 +8323,10 @@
         {
           "prompt": "¿Cuál es la palabra coloquial rioplatense común para \"stomach / belly\"?",
           "options": [
-            "El ojo (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "El brazo (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "La pierna (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "La panza (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)"
+            "El ojo",
+            "El brazo",
+            "La pierna",
+            "La panza"
           ],
           "answerIndex": 3,
           "explanation": "La panza is widely used in Rioplatense Spanish."
@@ -8334,10 +8338,10 @@
         {
           "prompt": "Traduce al estilo argentino: \"My back hurts, che.\"",
           "options": [
-            "La espalda duele mucho. (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "Tengo espalda mala. (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "Soy espalda. (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "Me duele la espalda, che. (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)"
+            "La espalda duele mucho.",
+            "Tengo espalda mala.",
+            "Soy espalda.",
+            "Me duele la espalda, che."
           ],
           "answerIndex": 3,
           "explanation": "Me duele la espalda, che uses natural Rioplatense expression."
@@ -8349,10 +8353,10 @@
         {
           "prompt": "Completa con el verbo doler: \"A mí me ______ las piernas después de caminar por Palermo.\"",
           "options": [
-            "duele (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "doliendo (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "duelen (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "dolemos (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)"
+            "duele",
+            "doliendo",
+            "duelen",
+            "dolemos"
           ],
           "answerIndex": 2,
           "explanation": "Piernas is plural, requiring \"duelen\".",
@@ -8361,10 +8365,10 @@
         {
           "prompt": "¿Qué parte del cuerpo te duele si tenés \"dolor de garganta\"?",
           "options": [
-            "El tobillo (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "La garganta (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "El codo (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)",
-            "La uña (Identificar las partes del cuerpo y vocabulario de salud con modismos y entonacin rioplatense)"
+            "El tobillo",
+            "La garganta",
+            "El codo",
+            "La uña"
           ],
           "answerIndex": 1,
           "explanation": "Garganta means throat.",
@@ -8401,10 +8405,10 @@
         {
           "prompt": "¿Qué significa la expresión rioplatense \"estar pachucho\"?",
           "options": [
-            "To feel under the weather / mildly unwell (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "To be rich (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "To be very happy (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "To be extremely hungry (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)"
+            "To feel under the weather / mildly unwell",
+            "To be rich",
+            "To be very happy",
+            "To be extremely hungry"
           ],
           "answerIndex": 0,
           "explanation": "Pachucho means feeling slightly sick."
@@ -8416,10 +8420,10 @@
         {
           "prompt": "¿Cómo le preguntás a un amigo con voseo cómo se siente?",
           "options": [
-            "¿Cómo te sentís? (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "¿Cómo se siente usted? (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "¿Cómo sientes tú? (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "¿Quién siente? (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)"
+            "¿Cómo te sentís?",
+            "¿Cómo se siente usted?",
+            "¿Cómo sientes tú?",
+            "¿Quién siente?"
           ],
           "answerIndex": 0,
           "explanation": "¿Cómo te sentís? is standard Rioplatense voseo."
@@ -8431,10 +8435,10 @@
         {
           "prompt": "¿Qué significa la expresión lunfarda \"estar hecho bolsa\"?",
           "options": [
-            "To go to the supermarket (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "To feel completely exhausted or wrecked by sickness (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "To make bags in a factory (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "To carry a plastic shopping bag (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)"
+            "To go to the supermarket",
+            "To feel completely exhausted or wrecked by sickness",
+            "To make bags in a factory",
+            "To carry a plastic shopping bag"
           ],
           "answerIndex": 1,
           "explanation": "Hecho bolsa means totally worn out or feeling terrible.",
@@ -8443,10 +8447,10 @@
         {
           "prompt": "Traduce: \"I have a high fever and a cough since yesterday.\"",
           "options": [
-            "Tengo fiebre alta y tos desde ayer. (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "Ayer fui al teatro. (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "El sol está alto. (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)",
-            "Comí carne ayer. (Expresar sntomas fsicos y malestares usando el voseo rioplatense tener fiebre)"
+            "Tengo fiebre alta y tos desde ayer.",
+            "Ayer fui al teatro.",
+            "El sol está alto.",
+            "Comí carne ayer."
           ],
           "answerIndex": 0,
           "explanation": "Tengo fiebre alta y tos desde ayer is exact.",
@@ -8484,10 +8488,10 @@
         {
           "prompt": "¿Qué significa \"medicamento de venta libre\"?",
           "options": [
-            "Free medicine with no cost (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Medicine for sale outdoors (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Over-the-counter medicine (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Illegal medicine (Comprar medicamentos y remedios en la farmacia argentina)"
+            "Free medicine with no cost",
+            "Medicine for sale outdoors",
+            "Over-the-counter medicine",
+            "Illegal medicine"
           ],
           "answerIndex": 2,
           "explanation": "Venta libre means sold without requiring a doctor prescription."
@@ -8499,10 +8503,10 @@
         {
           "prompt": "¿Cómo pedís educadamente algo para el dolor de garganta en Buenos Aires?",
           "options": [
-            "Hola, ¿tenés algo para el dolor de garganta? (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Dame todo lo que tengas (Comprar medicamentos y remedios en la farmacia argentina)",
-            "¿Dónde venden autos? (Comprar medicamentos y remedios en la farmacia argentina)",
-            "No tengo garganta (Comprar medicamentos y remedios en la farmacia argentina)"
+            "Hola, ¿tenés algo para el dolor de garganta?",
+            "Dame todo lo que tengas",
+            "¿Dónde venden autos?",
+            "No tengo garganta"
           ],
           "answerIndex": 0,
           "explanation": "Natural, polite pharmacy phrasing."
@@ -8514,10 +8518,10 @@
         {
           "prompt": "¿Cómo se le llama comúnmente a los medicamentos en Argentina?",
           "options": [
-            "Los remedios (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Los libros (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Los boletos (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Los platos (Comprar medicamentos y remedios en la farmacia argentina)"
+            "Los remedios",
+            "Los libros",
+            "Los boletos",
+            "Los platos"
           ],
           "answerIndex": 0,
           "explanation": "Los remedios is the standard everyday term.",
@@ -8526,10 +8530,10 @@
         {
           "prompt": "Traduce: \"Take this remedy every eight hours with water.\"",
           "options": [
-            "Tomás agua cada ocho días. (Comprar medicamentos y remedios en la farmacia argentina)",
-            "El agua cura todo. (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Ocho remedios en un vaso. (Comprar medicamentos y remedios en la farmacia argentina)",
-            "Tomá este remedio cada ocho horas con agua. (Comprar medicamentos y remedios en la farmacia argentina)"
+            "Tomás agua cada ocho días.",
+            "El agua cura todo.",
+            "Ocho remedios en un vaso.",
+            "Tomá este remedio cada ocho horas con agua."
           ],
           "answerIndex": 3,
           "explanation": "Tomá este remedio cada ocho horas con agua uses natural voseo imperative.",
@@ -8566,10 +8570,10 @@
         {
           "prompt": "¿Qué significa \"despejarse\" en el contexto de salir a caminar?",
           "options": [
-            "To sleep on a bench (Conversar sobre vida sana)",
-            "To clear one's mind and relax (Conversar sobre vida sana)",
-            "To lose direction (Conversar sobre vida sana)",
-            "To become cloudy (Conversar sobre vida sana)"
+            "To sleep on a bench",
+            "To clear one's mind and relax",
+            "To lose direction",
+            "To become cloudy"
           ],
           "answerIndex": 1,
           "explanation": "Despejarse means relaxing and clearing your head."
@@ -8581,10 +8585,10 @@
         {
           "prompt": "Completa: \"Para cuidar el corazón es fundamental hacer ______ todos los días.\"",
           "options": [
-            "ejercicio físico (Conversar sobre vida sana)",
-            "gritos (Conversar sobre vida sana)",
-            "fiaca (Conversar sobre vida sana)",
-            "humo (Conversar sobre vida sana)"
+            "ejercicio físico",
+            "gritos",
+            "fiaca",
+            "humo"
           ],
           "answerIndex": 0,
           "explanation": "Ejercicio físico is essential for heart health."
@@ -8596,10 +8600,10 @@
         {
           "prompt": "¿Cuál es un hábito de recuperación física excelente?",
           "options": [
-            "No comer nada en tres días (Conversar sobre vida sana)",
-            "Tomar gaseosas antes de dormir (Conversar sobre vida sana)",
-            "Fumar un atado de cigarrillos (Conversar sobre vida sana)",
-            "Dormir ocho horas y estirar los músculos (Conversar sobre vida sana)"
+            "No comer nada en tres días",
+            "Tomar gaseosas antes de dormir",
+            "Fumar un atado de cigarrillos",
+            "Dormir ocho horas y estirar los músculos"
           ],
           "answerIndex": 3,
           "explanation": "8 hours of sleep and stretching promote muscle recovery.",
@@ -8608,10 +8612,10 @@
         {
           "prompt": "Traduce: \"Staying active improves both physical and mental health.\"",
           "options": [
-            "Es mejor no moverse. (Conversar sobre vida sana)",
-            "La mente no tiene cuerpo. (Conversar sobre vida sana)",
-            "Mantenerse activo mejora tanto la salud física como la mental. (Conversar sobre vida sana)",
-            "El deporte cansa mucho. (Conversar sobre vida sana)"
+            "Es mejor no moverse.",
+            "La mente no tiene cuerpo.",
+            "Mantenerse activo mejora tanto la salud física como la mental.",
+            "El deporte cansa mucho."
           ],
           "answerIndex": 2,
           "explanation": "Mantenerse activo mejora tanto la salud física como la mental is accurate.",
@@ -8648,10 +8652,10 @@
         {
           "prompt": "¿Qué significa la expresión rioplatense \"vas a estar de diez\"?",
           "options": [
-            "You will be in perfect 10/10 shape (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "You will have ten problems (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "You will wait ten hours (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "You have ten pesos (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)"
+            "You will be in perfect 10/10 shape",
+            "You will have ten problems",
+            "You will wait ten hours",
+            "You have ten pesos"
           ],
           "answerIndex": 0,
           "explanation": "Estar de diez means being in excellent condition."
@@ -8663,10 +8667,10 @@
         {
           "prompt": "¿Cómo le dice el médico al paciente con voseo para desearle mejoría?",
           "options": [
-            "¡Chau, nos vemos nunca! (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "¡Que te mejores pronto! (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "¡Buena suerte con el auto! (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "¡Comé carne! (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)"
+            "¡Chau, nos vemos nunca!",
+            "¡Que te mejores pronto!",
+            "¡Buena suerte con el auto!",
+            "¡Comé carne!"
           ],
           "answerIndex": 1,
           "explanation": "¡Que te mejores pronto! is standard well-wishing."
@@ -8678,10 +8682,10 @@
         {
           "prompt": "¿Cómo se llama la sala de emergencias / atención rápida en los hospitales argentinos?",
           "options": [
-            "El comedor (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "La boletería (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "La guardia médica (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "La aduana (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)"
+            "El comedor",
+            "La boletería",
+            "La guardia médica",
+            "La aduana"
           ],
           "answerIndex": 2,
           "explanation": "La guardia is the hospital emergency / urgent care department.",
@@ -8690,10 +8694,10 @@
         {
           "prompt": "Ordena la visita a la guardia médica:",
           "options": [
-            "1. Tomar jarabe -> 2. Ir a la guardia -> 3. Sentirse bien (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "1. Triage en recepción -> 2. Consulta con médico -> 3. Receta e indicaciones -> 4. Reposo en casa (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "1. Dormir -> 2. Pagar -> 3. Enfermarse (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)",
-            "1. Salir -> 2. Entrar -> 3. Viajar (Simular una consulta mdica en una clnica argentina guardia mdica o consultorio)"
+            "1. Tomar jarabe -> 2. Ir a la guardia -> 3. Sentirse bien",
+            "1. Triage en recepción -> 2. Consulta con médico -> 3. Receta e indicaciones -> 4. Reposo en casa",
+            "1. Dormir -> 2. Pagar -> 3. Enfermarse",
+            "1. Salir -> 2. Entrar -> 3. Viajar"
           ],
           "answerIndex": 1,
           "explanation": "Standard clinical consultation workflow.",
@@ -8730,10 +8734,10 @@
         {
           "prompt": "¿Qué significa la palabra lunfarda \"laburo\"?",
           "options": [
-            "Vacaciones (Vocabulario laboral argentino)",
-            "Comida (Vocabulario laboral argentino)",
-            "Automóvil (Vocabulario laboral argentino)",
-            "Trabajo / Empleo (Vocabulario laboral argentino)"
+            "Vacaciones",
+            "Comida",
+            "Automóvil",
+            "Trabajo / Empleo"
           ],
           "answerIndex": 3,
           "explanation": "Laburo significa trabajo."
@@ -8745,10 +8749,10 @@
         {
           "prompt": "¿Cómo le preguntás con voseo a un amigo cómo va su trabajo?",
           "options": [
-            "¿Quién tiene trabajo? (Vocabulario laboral argentino)",
-            "El trabajo no existe. (Vocabulario laboral argentino)",
-            "Vendo autos. (Vocabulario laboral argentino)",
-            "¿Cómo viene el laburo, che? (Vocabulario laboral argentino)"
+            "¿Quién tiene trabajo?",
+            "El trabajo no existe.",
+            "Vendo autos.",
+            "¿Cómo viene el laburo, che?"
           ],
           "answerIndex": 3,
           "explanation": "¿Cómo viene el laburo, che? is authentic Rioplatense."
@@ -8760,10 +8764,10 @@
         {
           "prompt": "¿Qué es una \"changa\" en Argentina?",
           "options": [
-            "Un mono de zoológico (Vocabulario laboral argentino)",
-            "Un trabajo informal o temporal de corta duración (Vocabulario laboral argentino)",
-            "Un plato de carne (Vocabulario laboral argentino)",
-            "Una fiesta de cumpleaños (Vocabulario laboral argentino)"
+            "Un mono de zoológico",
+            "Un trabajo informal o temporal de corta duración",
+            "Un plato de carne",
+            "Una fiesta de cumpleaños"
           ],
           "answerIndex": 1,
           "explanation": "Changa es un trabajo temporal o changuita.",
@@ -8772,10 +8776,10 @@
         {
           "prompt": "Traduce: \"I work from home as a programmer.\"",
           "options": [
-            "Trabajo desde casa como programador. (Vocabulario laboral argentino)",
-            "La oficina está lejos. (Vocabulario laboral argentino)",
-            "No me gusta la tecnología. (Vocabulario laboral argentino)",
-            "Compré una computadora ayer. (Vocabulario laboral argentino)"
+            "Trabajo desde casa como programador.",
+            "La oficina está lejos.",
+            "No me gusta la tecnología.",
+            "Compré una computadora ayer."
           ],
           "answerIndex": 0,
           "explanation": "Trabajo desde casa como programador is exact.",
@@ -8812,10 +8816,10 @@
         {
           "prompt": "¿Qué frase se usa en Argentina para referirse al trabajo remoto desde casa?",
           "options": [
-            "Hacer home office (Describir la rutina de oficina)",
-            "Dormir en la plaza (Describir la rutina de oficina)",
-            "Ir al campo (Describir la rutina de oficina)",
-            "Cerrar la fábrica (Describir la rutina de oficina)"
+            "Hacer home office",
+            "Dormir en la plaza",
+            "Ir al campo",
+            "Cerrar la fábrica"
           ],
           "answerIndex": 0,
           "explanation": "Hacer home office is standard Argentine workplace lingo."
@@ -8827,10 +8831,10 @@
         {
           "prompt": "Completa: \"Antes de arrancar la reunión, nos cebamos unos ______.\"",
           "options": [
-            "mates (Describir la rutina de oficina)",
-            "vinos (Describir la rutina de oficina)",
-            "helados (Describir la rutina de oficina)",
-            "alfajores (Describir la rutina de oficina)"
+            "mates",
+            "vinos",
+            "helados",
+            "alfajores"
           ],
           "answerIndex": 0,
           "explanation": "Cebarse unos mates is the classic morning office habit."
@@ -8842,10 +8846,10 @@
         {
           "prompt": "¿Qué significa \"arrancar el día\" en el ámbito laboral?",
           "options": [
-            "Comenzar la jornada de trabajo (Describir la rutina de oficina)",
-            "Irse a dormir (Describir la rutina de oficina)",
-            "Viajar en avión (Describir la rutina de oficina)",
-            "Apagar la computadora (Describir la rutina de oficina)"
+            "Comenzar la jornada de trabajo",
+            "Irse a dormir",
+            "Viajar en avión",
+            "Apagar la computadora"
           ],
           "answerIndex": 0,
           "explanation": "Arrancar el día means starting the day.",
@@ -8854,10 +8858,10 @@
         {
           "prompt": "Traduce: \"We have an important client meeting at 3 PM.\"",
           "options": [
-            "La oficina está cerrada. (Describir la rutina de oficina)",
-            "Ayer comí pizza. (Describir la rutina de oficina)",
-            "El cliente no vino. (Describir la rutina de oficina)",
-            "Tenemos una reunión importante con un cliente a las tres de la tarde. (Describir la rutina de oficina)"
+            "La oficina está cerrada.",
+            "Ayer comí pizza.",
+            "El cliente no vino.",
+            "Tenemos una reunión importante con un cliente a las tres de la tarde."
           ],
           "answerIndex": 3,
           "explanation": "Accurate business translation.",
@@ -8894,10 +8898,10 @@
         {
           "prompt": "¿Cómo le decís coloquialmente a un compañero que tiene el micrófono apagado en Zoom?",
           "options": [
-            "No tienes boca. (Terminologa informtica)",
-            "Apaga la luz. (Terminologa informtica)",
-            "Che, estás muteado, desmuteate. (Terminologa informtica)",
-            "Cierra la ventana. (Terminologa informtica)"
+            "No tienes boca.",
+            "Apaga la luz.",
+            "Che, estás muteado, desmuteate.",
+            "Cierra la ventana."
           ],
           "answerIndex": 2,
           "explanation": "Estás muteado is the universal tech expression."
@@ -8909,10 +8913,10 @@
         {
           "prompt": "¿Cómo se le llama comúnmente a una laptop en Argentina?",
           "options": [
-            "La notebook / la compu (Terminologa informtica)",
-            "El ordenador de bolsillo (Terminologa informtica)",
-            "El libro electrónico (Terminologa informtica)",
-            "La tele (Terminologa informtica)"
+            "La notebook / la compu",
+            "El ordenador de bolsillo",
+            "El libro electrónico",
+            "La tele"
           ],
           "answerIndex": 0,
           "explanation": "La notebook / compu is standard Argentine terminology."
@@ -8924,10 +8928,10 @@
         {
           "prompt": "¿Qué hacés si se cae la conexión de internet en plena reunión?",
           "options": [
-            "Tirar la compu por la ventana (Terminologa informtica)",
-            "Dormir una siesta (Terminologa informtica)",
-            "Comprar un televisor (Terminologa informtica)",
-            "Reconectar el módem o compartir datos desde el celular (Terminologa informtica)"
+            "Tirar la compu por la ventana",
+            "Dormir una siesta",
+            "Comprar un televisor",
+            "Reconectar el módem o compartir datos desde el celular"
           ],
           "answerIndex": 3,
           "explanation": "Troubleshooting internet connectivity.",
@@ -8936,10 +8940,10 @@
         {
           "prompt": "Traduce: \"I shared the updated document in the team folder.\"",
           "options": [
-            "El archivo se perdió. (Terminologa informtica)",
-            "No tengo computadora. (Terminologa informtica)",
-            "Compartí el documento actualizado en la carpeta del equipo. (Terminologa informtica)",
-            "Borré todos los archivos. (Terminologa informtica)"
+            "El archivo se perdió.",
+            "No tengo computadora.",
+            "Compartí el documento actualizado en la carpeta del equipo.",
+            "Borré todos los archivos."
           ],
           "answerIndex": 2,
           "explanation": "Accurate technical workplace statement.",
@@ -8976,10 +8980,10 @@
         {
           "prompt": "¿Cuál es una fórmula de cierre muy natural y profesional en un email de trabajo en Buenos Aires?",
           "options": [
-            "Nos vemos en el boliche (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "Saludos cordiales, / Quedo a disposición, (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "Hasta el año que viene (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "Chau chau chauuuuu (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)"
+            "Nos vemos en el boliche",
+            "Saludos cordiales, / Quedo a disposición,",
+            "Hasta el año que viene",
+            "Chau chau chauuuuu"
           ],
           "answerIndex": 1,
           "explanation": "Saludos cordiales is formal and polite."
@@ -8991,10 +8995,10 @@
         {
           "prompt": "¿Cómo le decís a un colega con voseo \"let me know if you have any questions\"?",
           "options": [
-            "Cualquier duda que tengas, avisame y lo vemos. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "El documento no existe. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "No me preguntes nada. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "No sé nada del tema. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)"
+            "Cualquier duda que tengas, avisame y lo vemos.",
+            "El documento no existe.",
+            "No me preguntes nada.",
+            "No sé nada del tema."
           ],
           "answerIndex": 0,
           "explanation": "Natural Argentine voseo phrasing."
@@ -9006,10 +9010,10 @@
         {
           "prompt": "¿Qué significa la frase \"adjunto el reporte\"?",
           "options": [
-            "El reporte está roto (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "El reporte está en el correo postal (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "Envío el informe dentro del correo electrónico (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "No hay ningún informe (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)"
+            "El reporte está roto",
+            "El reporte está en el correo postal",
+            "Envío el informe dentro del correo electrónico",
+            "No hay ningún informe"
           ],
           "answerIndex": 2,
           "explanation": "Adjunto means attached in the email.",
@@ -9018,10 +9022,10 @@
         {
           "prompt": "Traduce: \"Thank you for your prompt reply.\"",
           "options": [
-            "Llegaste tarde. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "Muchas gracias por tu pronta respuesta. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "El teléfono no suena. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)",
-            "No me contestes. (Redactar emails comerciales y mensajes formales de trabajo con tono rioplatense profesional)"
+            "Llegaste tarde.",
+            "Muchas gracias por tu pronta respuesta.",
+            "El teléfono no suena.",
+            "No me contestes."
           ],
           "answerIndex": 1,
           "explanation": "Accurate business gratitude.",
@@ -9058,10 +9062,10 @@
         {
           "prompt": "¿Cómo se le llama en Argentina a la expectativa de remuneración en una entrevista?",
           "options": [
-            "Sueldo pretendido / Remuneración pretendida (Simular una entrevista laboral en Argentina)",
-            "Precio de entrada (Simular una entrevista laboral en Argentina)",
-            "Propina (Simular una entrevista laboral en Argentina)",
-            "Boleto (Simular una entrevista laboral en Argentina)"
+            "Sueldo pretendido / Remuneración pretendida",
+            "Precio de entrada",
+            "Propina",
+            "Boleto"
           ],
           "answerIndex": 0,
           "explanation": "Sueldo pretendido is the standard HR term."
@@ -9073,10 +9077,10 @@
         {
           "prompt": "¿Cómo destacás tu capacidad de trabajo colaborativo en una entrevista?",
           "options": [
-            "No me interesan los proyectos. (Simular una entrevista laboral en Argentina)",
-            "Tengo facilidad para coordinar y laburar en equipo. (Simular una entrevista laboral en Argentina)",
-            "Trabajo sólo si me obligan. (Simular una entrevista laboral en Argentina)",
-            "Prefiero no hablar con nadie. (Simular una entrevista laboral en Argentina)"
+            "No me interesan los proyectos.",
+            "Tengo facilidad para coordinar y laburar en equipo.",
+            "Trabajo sólo si me obligan.",
+            "Prefiero no hablar con nadie."
           ],
           "answerIndex": 1,
           "explanation": "Professional highlight of teamwork skills."
@@ -9088,10 +9092,10 @@
         {
           "prompt": "¿Qué documento clave presentás al postularte a una vacante laboral?",
           "options": [
-            "El boleto de colectivo (Simular una entrevista laboral en Argentina)",
-            "El currículum vitae (Simular una entrevista laboral en Argentina)",
-            "El recibo del alquiler (Simular una entrevista laboral en Argentina)",
-            "El menú del restaurante (Simular una entrevista laboral en Argentina)"
+            "El boleto de colectivo",
+            "El currículum vitae",
+            "El recibo del alquiler",
+            "El menú del restaurante"
           ],
           "answerIndex": 1,
           "explanation": "CV / LinkedIn profile.",
@@ -9100,10 +9104,10 @@
         {
           "prompt": "Traduce: \"I am excited about the opportunity to contribute to this project.\"",
           "options": [
-            "Me entusiasma mucho la oportunidad de aportar a este proyecto. (Simular una entrevista laboral en Argentina)",
-            "No quiero trabajar en este proyecto. (Simular una entrevista laboral en Argentina)",
-            "El proyecto ya terminó. (Simular una entrevista laboral en Argentina)",
-            "La empresa cerró sus puertas. (Simular una entrevista laboral en Argentina)"
+            "Me entusiasma mucho la oportunidad de aportar a este proyecto.",
+            "No quiero trabajar en este proyecto.",
+            "El proyecto ya terminó.",
+            "La empresa cerró sus puertas."
           ],
           "answerIndex": 0,
           "explanation": "Accurate professional statement.",
@@ -9140,10 +9144,10 @@
         {
           "prompt": "¿Qué significa la expresión rioplatense \"me copa\"?",
           "options": [
-            "Tengo sueño (Expresar pasatiempos)",
-            "Tengo frío (Expresar pasatiempos)",
-            "Estoy enojado (Expresar pasatiempos)",
-            "Me encanta / Me gusta muchísimo (Expresar pasatiempos)"
+            "Tengo sueño",
+            "Tengo frío",
+            "Estoy enojado",
+            "Me encanta / Me gusta muchísimo"
           ],
           "answerIndex": 3,
           "explanation": "Me copa significa me encanta."
@@ -9155,10 +9159,10 @@
         {
           "prompt": "¿Cómo se le llama en Argentina a un partido informal de fútbol entre amigos?",
           "options": [
-            "Un maratón (Expresar pasatiempos)",
-            "Una regata (Expresar pasatiempos)",
-            "Un rally (Expresar pasatiempos)",
-            "Un picadito (Expresar pasatiempos)"
+            "Un maratón",
+            "Una regata",
+            "Un rally",
+            "Un picadito"
           ],
           "answerIndex": 3,
           "explanation": "Un picadito is an informal pickup match."
@@ -9170,10 +9174,10 @@
         {
           "prompt": "¿Cuál es la avenida de Buenos Aires famosa mundialmente por sus teatros y pizzerías?",
           "options": [
-            "La Avenida Corrientes (Expresar pasatiempos)",
-            "El Río de la Plata (Expresar pasatiempos)",
-            "El Glaciar Perito Moreno (Expresar pasatiempos)",
-            "La Ruta 40 (Expresar pasatiempos)"
+            "La Avenida Corrientes",
+            "El Río de la Plata",
+            "El Glaciar Perito Moreno",
+            "La Ruta 40"
           ],
           "answerIndex": 0,
           "explanation": "Avenida Corrientes is the theatre district.",
@@ -9182,10 +9186,10 @@
         {
           "prompt": "Traduce: \"On Sundays we get together to eat an asado with friends.\"",
           "options": [
-            "Los domingos estudiamos en la biblioteca. (Expresar pasatiempos)",
-            "No me gusta la carne. (Expresar pasatiempos)",
-            "Ayer llovió mucho. (Expresar pasatiempos)",
-            "Los domingos nos juntamos a comer un asado con amigos. (Expresar pasatiempos)"
+            "Los domingos estudiamos en la biblioteca.",
+            "No me gusta la carne.",
+            "Ayer llovió mucho.",
+            "Los domingos nos juntamos a comer un asado con amigos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate cultural leisure translation.",
@@ -9222,10 +9226,10 @@
         {
           "prompt": "¿Cómo se le llama popularmente al estadio del club Boca Juniors en La Boca?",
           "options": [
-            "La Bombonera (Cultura futbolstica argentina)",
-            "Wembley (Cultura futbolstica argentina)",
-            "El Coliseo (Cultura futbolstica argentina)",
-            "El Camp Nou (Cultura futbolstica argentina)"
+            "La Bombonera",
+            "Wembley",
+            "El Coliseo",
+            "El Camp Nou"
           ],
           "answerIndex": 0,
           "explanation": "La Bombonera."
@@ -9237,10 +9241,10 @@
         {
           "prompt": "¿Qué significa \"alentar\" al equipo en la cancha?",
           "options": [
-            "Cantar y animar con fervor al equipo para que gane (Cultura futbolstica argentina)",
-            "Insultar a los árbitros (Cultura futbolstica argentina)",
-            "Dormir en la tribuna (Cultura futbolstica argentina)",
-            "Vender entradas (Cultura futbolstica argentina)"
+            "Cantar y animar con fervor al equipo para que gane",
+            "Insultar a los árbitros",
+            "Dormir en la tribuna",
+            "Vender entradas"
           ],
           "answerIndex": 0,
           "explanation": "Alentar means cheering with passion."
@@ -9252,10 +9256,10 @@
         {
           "prompt": "¿Cómo se denomina al partido más famoso y apasionado del fútbol argentino (Boca vs River)?",
           "options": [
-            "El torneo de barrio (Cultura futbolstica argentina)",
-            "La carrera de autos (Cultura futbolstica argentina)",
-            "El partido amistoso (Cultura futbolstica argentina)",
-            "El Superclásico (Cultura futbolstica argentina)"
+            "El torneo de barrio",
+            "La carrera de autos",
+            "El partido amistoso",
+            "El Superclásico"
           ],
           "answerIndex": 3,
           "explanation": "El Superclásico.",
@@ -9264,10 +9268,10 @@
         {
           "prompt": "Traduce: \"Our team scored a goal in the last minute and won the match.\"",
           "options": [
-            "No había pelota. (Cultura futbolstica argentina)",
-            "El estadio estaba cerrado. (Cultura futbolstica argentina)",
-            "Nuestro equipo metió un gol en el último minuto y ganó el partido. (Cultura futbolstica argentina)",
-            "Perdimos el partido ayer. (Cultura futbolstica argentina)"
+            "No había pelota.",
+            "El estadio estaba cerrado.",
+            "Nuestro equipo metió un gol en el último minuto y ganó el partido.",
+            "Perdimos el partido ayer."
           ],
           "answerIndex": 2,
           "explanation": "Accurate football match translation.",
@@ -9387,10 +9391,10 @@
         {
           "prompt": "¿Qué significa la expresión porteña \"¿Te pinta salir a tomar algo?\"?",
           "options": [
-            "Are you angry? (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Do you fancy going out for a drink? (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Do you have a paintbrush? (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Do you want to paint a wall? (Armar planes con amigos usando voseo rioplatense Te pinta)"
+            "Are you angry?",
+            "Do you fancy going out for a drink?",
+            "Do you have a paintbrush?",
+            "Do you want to paint a wall?"
           ],
           "answerIndex": 1,
           "explanation": "¿Te pinta? means are you up for it / fancy it?"
@@ -9402,10 +9406,10 @@
         {
           "prompt": "¿Cómo decís en lunfardo con entusiasmo \"I'm completely down / count me in\"?",
           "options": [
-            "¡De una, me re prendo! (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Prefiero no ir (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Me voy a dormir (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "No me gusta nada (Armar planes con amigos usando voseo rioplatense Te pinta)"
+            "¡De una, me re prendo!",
+            "Prefiero no ir",
+            "Me voy a dormir",
+            "No me gusta nada"
           ],
           "answerIndex": 0,
           "explanation": "¡De una, me re prendo! expresses eager agreement."
@@ -9417,10 +9421,10 @@
         {
           "prompt": "¿Qué significa la palabra argentina \"birra\"?",
           "options": [
-            "Sopa (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Cerveza (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Agua mineral (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "Café caliente (Armar planes con amigos usando voseo rioplatense Te pinta)"
+            "Sopa",
+            "Cerveza",
+            "Agua mineral",
+            "Café caliente"
           ],
           "answerIndex": 1,
           "explanation": "Birra is colloquial for cerveza (beer).",
@@ -9429,10 +9433,10 @@
         {
           "prompt": "Traduce: \"Let's meet in Plaza Serrano around 9 PM.\"",
           "options": [
-            "Nos encontramos en Plaza Serrano tipo nueve de la noche. (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "La plaza está vacía. (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "El bar cerró a las cinco. (Armar planes con amigos usando voseo rioplatense Te pinta)",
-            "No voy a salir hoy. (Armar planes con amigos usando voseo rioplatense Te pinta)"
+            "Nos encontramos en Plaza Serrano tipo nueve de la noche.",
+            "La plaza está vacía.",
+            "El bar cerró a las cinco.",
+            "No voy a salir hoy."
           ],
           "answerIndex": 0,
           "explanation": "Accurate social appointment translation.",
@@ -9469,10 +9473,10 @@
         {
           "prompt": "¿Qué película argentina ganó el Premio Oscar a Mejor Película Extranjera en 2009?",
           "options": [
-            "El secreto de sus ojos (Escribir una crtica de espectculos)",
-            "Nueve Reinas (Escribir una crtica de espectculos)",
-            "Esperando la carroza (Escribir una crtica de espectculos)",
-            "Relatos salvajes (Escribir una crtica de espectculos)"
+            "El secreto de sus ojos",
+            "Nueve Reinas",
+            "Esperando la carroza",
+            "Relatos salvajes"
           ],
           "answerIndex": 0,
           "explanation": "El secreto de sus ojos won the Oscar."
@@ -9484,10 +9488,10 @@
         {
           "prompt": "¿Qué significa decir que un espectáculo \"fue una locura\" en Argentina?",
           "options": [
-            "That nobody showed up (Escribir una crtica de espectculos)",
-            "That the sound was broken (Escribir una crtica de espectculos)",
-            "That the show was phenomenally exciting and wildly successful (Escribir una crtica de espectculos)",
-            "That everyone lost their minds in madness (Escribir una crtica de espectculos)"
+            "That nobody showed up",
+            "That the sound was broken",
+            "That the show was phenomenally exciting and wildly successful",
+            "That everyone lost their minds in madness"
           ],
           "answerIndex": 2,
           "explanation": "Fue una locura means it was insanely good."
@@ -9499,10 +9503,10 @@
         {
           "prompt": "¿Quién es uno de los actores más emblemáticos del cine argentino internacional?",
           "options": [
-            "Ricardo Darín (Escribir una crtica de espectculos)",
-            "Lionel Messi (Escribir una crtica de espectculos)",
-            "Diego Maradona (Escribir una crtica de espectculos)",
-            "Carlos Gardel (Escribir una crtica de espectculos)"
+            "Ricardo Darín",
+            "Lionel Messi",
+            "Diego Maradona",
+            "Carlos Gardel"
           ],
           "answerIndex": 0,
           "explanation": "Ricardo Darín is Argentina's leading actor.",
@@ -9511,10 +9515,10 @@
         {
           "prompt": "Traduce: \"The concert was thrilling and the crowd sang every lyric.\"",
           "options": [
-            "La música no sonaba. (Escribir una crtica de espectculos)",
-            "El concierto fue aburrido. (Escribir una crtica de espectculos)",
-            "No había nadie en el estadio. (Escribir una crtica de espectculos)",
-            "El recital fue emocionante y el público cantó cada letra. (Escribir una crtica de espectculos)"
+            "La música no sonaba.",
+            "El concierto fue aburrido.",
+            "No había nadie en el estadio.",
+            "El recital fue emocionante y el público cantó cada letra."
           ],
           "answerIndex": 3,
           "explanation": "Accurate concert review translation.",
@@ -9551,10 +9555,10 @@
         {
           "prompt": "¿Cómo se dice \"to check luggage\" en el español rioplatense de Argentina?",
           "options": [
-            "Facturar coches (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "Comprar aviones (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "Guardar casas (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "Despachar las valijas (Vocabulario de vuelos y aeropuertos en Argentina)"
+            "Facturar coches",
+            "Comprar aviones",
+            "Guardar casas",
+            "Despachar las valijas"
           ],
           "answerIndex": 3,
           "explanation": "Despachar las valijas is Argentine Spanish."
@@ -9566,10 +9570,10 @@
         {
           "prompt": "¿Cuál es el aeropuerto ubicado dentro de la Ciudad de Buenos Aires para vuelos de cabotaje?",
           "options": [
-            "Aeropuerto de Ezeiza (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "Aeropuerto de Córdoba (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "Aeropuerto de Mendoza (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "Aeroparque Jorge Newbery (Vocabulario de vuelos y aeropuertos en Argentina)"
+            "Aeropuerto de Ezeiza",
+            "Aeropuerto de Córdoba",
+            "Aeropuerto de Mendoza",
+            "Aeroparque Jorge Newbery"
           ],
           "answerIndex": 3,
           "explanation": "Aeroparque Jorge Newbery."
@@ -9581,10 +9585,10 @@
         {
           "prompt": "¿Cómo se le llama a la maleta en Argentina?",
           "options": [
-            "El baúl de madera (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "La caja fuerte (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "El cartón (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "La valija (Vocabulario de vuelos y aeropuertos en Argentina)"
+            "El baúl de madera",
+            "La caja fuerte",
+            "El cartón",
+            "La valija"
           ],
           "answerIndex": 3,
           "explanation": "La valija.",
@@ -9593,10 +9597,10 @@
         {
           "prompt": "Traduce: \"The flight to Bariloche is on time at gate 4.\"",
           "options": [
-            "El vuelo se canceló ayer. (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "No hay aviones a Bariloche. (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "El vuelo a Bariloche está en horario por la puerta cuatro. (Vocabulario de vuelos y aeropuertos en Argentina)",
-            "El aeropuerto está cerrado. (Vocabulario de vuelos y aeropuertos en Argentina)"
+            "El vuelo se canceló ayer.",
+            "No hay aviones a Bariloche.",
+            "El vuelo a Bariloche está en horario por la puerta cuatro.",
+            "El aeropuerto está cerrado."
           ],
           "answerIndex": 2,
           "explanation": "Accurate flight status translation.",
@@ -9633,10 +9637,10 @@
         {
           "prompt": "¿Cómo pedís la contraseña de internet en el hotel en Argentina usando voseo?",
           "options": [
-            "¿Tenés la clave de wifi, por favor? (Alojamientos en Argentina)",
-            "Pagame la cuenta (Alojamientos en Argentina)",
-            "Dormí en el piso (Alojamientos en Argentina)",
-            "No quiero internet (Alojamientos en Argentina)"
+            "¿Tenés la clave de wifi, por favor?",
+            "Pagame la cuenta",
+            "Dormí en el piso",
+            "No quiero internet"
           ],
           "answerIndex": 0,
           "explanation": "¿Tenés la clave...? uses natural voseo."
@@ -9648,10 +9652,10 @@
         {
           "prompt": "¿Qué tipo de alojamiento campestre tradicional argentino ofrece cabalgatas y asados criollos?",
           "options": [
-            "Una estancia de campo (Alojamientos en Argentina)",
-            "Un rascacielos (Alojamientos en Argentina)",
-            "Una estación de subte (Alojamientos en Argentina)",
-            "Un barco pesquero (Alojamientos en Argentina)"
+            "Una estancia de campo",
+            "Un rascacielos",
+            "Una estación de subte",
+            "Un barco pesquero"
           ],
           "answerIndex": 0,
           "explanation": "Una estancia de campo."
@@ -9663,10 +9667,10 @@
         {
           "prompt": "¿En qué región de lagos y montañas se encuentran las famosas cabañas alpinas con hogar a leña?",
           "options": [
-            "En el desierto del Sahara (Alojamientos en Argentina)",
-            "En la selva amazónica (Alojamientos en Argentina)",
-            "En la Patagonia (Alojamientos en Argentina)",
-            "En el Río Nilo (Alojamientos en Argentina)"
+            "En el desierto del Sahara",
+            "En la selva amazónica",
+            "En la Patagonia",
+            "En el Río Nilo"
           ],
           "answerIndex": 2,
           "explanation": "Patagonia.",
@@ -9675,10 +9679,10 @@
         {
           "prompt": "Traduce: \"Could you please give me the key card to our room?\"",
           "options": [
-            "La habitación no existe. (Alojamientos en Argentina)",
-            "¿Me podés dar la tarjeta magnética de la habitación, por favor? (Alojamientos en Argentina)",
-            "Me voy a casa. (Alojamientos en Argentina)",
-            "No pagué el hotel. (Alojamientos en Argentina)"
+            "La habitación no existe.",
+            "¿Me podés dar la tarjeta magnética de la habitación, por favor?",
+            "Me voy a casa.",
+            "No pagué el hotel."
           ],
           "answerIndex": 1,
           "explanation": "Accurate reception request in voseo.",
@@ -9715,10 +9719,10 @@
         {
           "prompt": "¿Cuál es la tarjeta electrónica recargable obligatoria para pagar el transporte público en Argentina?",
           "options": [
-            "La tarjeta de crédito solamente (Transporte pblico en Argentina)",
-            "Un ticket de papel antiguo (Transporte pblico en Argentina)",
-            "La tarjeta SUBE (Transporte pblico en Argentina)",
-            "Una moneda de oro (Transporte pblico en Argentina)"
+            "La tarjeta de crédito solamente",
+            "Un ticket de papel antiguo",
+            "La tarjeta SUBE",
+            "Una moneda de oro"
           ],
           "answerIndex": 2,
           "explanation": "La tarjeta SUBE."
@@ -9730,10 +9734,10 @@
         {
           "prompt": "¿Cómo se le llama popularmente al autobús urbano en el lunfardo porteño?",
           "options": [
-            "El bondi / el colectivo (Transporte pblico en Argentina)",
-            "El tren bala (Transporte pblico en Argentina)",
-            "La canoa (Transporte pblico en Argentina)",
-            "El tranvía aéreo (Transporte pblico en Argentina)"
+            "El bondi / el colectivo",
+            "El tren bala",
+            "La canoa",
+            "El tranvía aéreo"
           ],
           "answerIndex": 0,
           "explanation": "El bondi."
@@ -9745,10 +9749,10 @@
         {
           "prompt": "¿Qué tipo de asiento reclinable con servicio a bordo se elige comúnmente en micros de larga distancia en Argentina?",
           "options": [
-            "Banco de madera (Transporte pblico en Argentina)",
-            "Coche Cama / Cama Ejecutivo / Suite (Transporte pblico en Argentina)",
-            "De pie en el pasillo (Transporte pblico en Argentina)",
-            "Asiento de plástico duro (Transporte pblico en Argentina)"
+            "Banco de madera",
+            "Coche Cama / Cama Ejecutivo / Suite",
+            "De pie en el pasillo",
+            "Asiento de plástico duro"
           ],
           "answerIndex": 1,
           "explanation": "Coche Cama.",
@@ -9757,10 +9761,10 @@
         {
           "prompt": "Traduce: \"We took the long-distance bus from Buenos Aires to Mendoza.\"",
           "options": [
-            "Nos tomamos un micro de larga distancia desde Buenos Aires hasta Mendoza. (Transporte pblico en Argentina)",
-            "No hay micros a Mendoza. (Transporte pblico en Argentina)",
-            "El viaje duró cinco minutos. (Transporte pblico en Argentina)",
-            "Fuimos caminando a Mendoza. (Transporte pblico en Argentina)"
+            "Nos tomamos un micro de larga distancia desde Buenos Aires hasta Mendoza.",
+            "No hay micros a Mendoza.",
+            "El viaje duró cinco minutos.",
+            "Fuimos caminando a Mendoza."
           ],
           "answerIndex": 0,
           "explanation": "Accurate bus travel translation.",
@@ -9797,10 +9801,10 @@
         {
           "prompt": "¿Cómo se le llama a la gasolina para autos en Argentina?",
           "options": [
-            "Kerosene (Alquilar autos en Argentina)",
-            "Nafta (Alquilar autos en Argentina)",
-            "Alcohol puro (Alquilar autos en Argentina)",
-            "Aceite de cocina (Alquilar autos en Argentina)"
+            "Kerosene",
+            "Nafta",
+            "Alcohol puro",
+            "Aceite de cocina"
           ],
           "answerIndex": 1,
           "explanation": "Nafta."
@@ -9812,10 +9816,10 @@
         {
           "prompt": "¿Cuál es la ruta más larga y emblemática de Argentina que recorre la Cordillera de los Andes?",
           "options": [
-            "La Ruta Nacional 40 (Alquilar autos en Argentina)",
-            "La Autopista Panamericana (Alquilar autos en Argentina)",
-            "La Avenida 9 de Julio (Alquilar autos en Argentina)",
-            "La Ruta 66 de Estados Unidos (Alquilar autos en Argentina)"
+            "La Ruta Nacional 40",
+            "La Autopista Panamericana",
+            "La Avenida 9 de Julio",
+            "La Ruta 66 de Estados Unidos"
           ],
           "answerIndex": 0,
           "explanation": "Ruta 40."
@@ -9827,10 +9831,10 @@
         {
           "prompt": "¿Cómo le pedís al playero en la estación de servicio que cargue todo el combustible?",
           "options": [
-            "Llená el tanque con nafta súper, por favor. (Alquilar autos en Argentina)",
-            "Rompé el tanque. (Alquilar autos en Argentina)",
-            "Vaciá el auto. (Alquilar autos en Argentina)",
-            "Lavá el motor con agua. (Alquilar autos en Argentina)"
+            "Llená el tanque con nafta súper, por favor.",
+            "Rompé el tanque.",
+            "Vaciá el auto.",
+            "Lavá el motor con agua."
           ],
           "answerIndex": 0,
           "explanation": "Llená el tanque con nafta súper.",
@@ -9839,10 +9843,10 @@
         {
           "prompt": "Traduce: \"We rented a 4x4 vehicle to drive across the gravel roads in Patagonia.\"",
           "options": [
-            "No hay caminos en la Patagonia. (Alquilar autos en Argentina)",
-            "Vendimos la camioneta. (Alquilar autos en Argentina)",
-            "El auto no arranca. (Alquilar autos en Argentina)",
-            "Alquilamos una camioneta 4x4 para manejar por los caminos de ripio en la Patagonia. (Alquilar autos en Argentina)"
+            "No hay caminos en la Patagonia.",
+            "Vendimos la camioneta.",
+            "El auto no arranca.",
+            "Alquilamos una camioneta 4x4 para manejar por los caminos de ripio en la Patagonia."
           ],
           "answerIndex": 3,
           "explanation": "Accurate car rental translation.",
@@ -9879,10 +9883,10 @@
         {
           "prompt": "¿Qué organismo porteño asiste y protege a los turistas ante pérdidas, robos o reclamos?",
           "options": [
-            "La Defensoría del Turista / Policía Turística (Resolver problemas en viaje)",
-            "El club de fútbol (Resolver problemas en viaje)",
-            "El banco central (Resolver problemas en viaje)",
-            "La panadería de la esquina (Resolver problemas en viaje)"
+            "La Defensoría del Turista / Policía Turística",
+            "El club de fútbol",
+            "El banco central",
+            "La panadería de la esquina"
           ],
           "answerIndex": 0,
           "explanation": "La Defensoría del Turista."
@@ -9894,10 +9898,10 @@
         {
           "prompt": "¿Cómo decís en Argentina que tu valija no llegó en el vuelo?",
           "options": [
-            "La valija es muy pesada. (Resolver problemas en viaje)",
-            "No viajé en avión. (Resolver problemas en viaje)",
-            "Mi valija no salió en la cinta de equipajes. (Resolver problemas en viaje)",
-            "Tengo tres valijas nuevas. (Resolver problemas en viaje)"
+            "La valija es muy pesada.",
+            "No viajé en avión.",
+            "Mi valija no salió en la cinta de equipajes.",
+            "Tengo tres valijas nuevas."
           ],
           "answerIndex": 2,
           "explanation": "Mi valija no salió en la cinta."
@@ -9909,10 +9913,10 @@
         {
           "prompt": "¿Qué seguro es indispensable contratar para viajar cubierto ante cualquier emergencia médica o de vuelo?",
           "options": [
-            "Ningún seguro (Resolver problemas en viaje)",
-            "Seguro contra incendios de casa (Resolver problemas en viaje)",
-            "Seguro de bicicleta (Resolver problemas en viaje)",
-            "Seguro de asistencia al viajero (Resolver problemas en viaje)"
+            "Ningún seguro",
+            "Seguro contra incendios de casa",
+            "Seguro de bicicleta",
+            "Seguro de asistencia al viajero"
           ],
           "answerIndex": 3,
           "explanation": "Seguro de asistencia al viajero.",
@@ -9921,10 +9925,10 @@
         {
           "prompt": "Traduce: \"Our flight was rescheduled for tomorrow morning due to heavy fog.\"",
           "options": [
-            "No hay niebla en el aeropuerto. (Resolver problemas en viaje)",
-            "El vuelo salió a tiempo. (Resolver problemas en viaje)",
-            "Nuestro vuelo fue reprogramado para mañana a la mañana debido a la intensa niebla. (Resolver problemas en viaje)",
-            "Llegamos antes de hora. (Resolver problemas en viaje)"
+            "No hay niebla en el aeropuerto.",
+            "El vuelo salió a tiempo.",
+            "Nuestro vuelo fue reprogramado para mañana a la mañana debido a la intensa niebla.",
+            "Llegamos antes de hora."
           ],
           "answerIndex": 2,
           "explanation": "Accurate flight rescheduling translation.",
@@ -9961,10 +9965,10 @@
         {
           "prompt": "¿Cómo se le llama a una camiseta (T-shirt) en Argentina?",
           "options": [
-            "Un abrigo (Vocabulario de indumentaria)",
-            "Una corbata (Vocabulario de indumentaria)",
-            "Un sombrero (Vocabulario de indumentaria)",
-            "Una remera (Vocabulario de indumentaria)"
+            "Un abrigo",
+            "Una corbata",
+            "Un sombrero",
+            "Una remera"
           ],
           "answerIndex": 3,
           "explanation": "Remera is T-shirt."
@@ -9976,10 +9980,10 @@
         {
           "prompt": "¿Cómo se dice \"jacket\" en el español rioplatense?",
           "options": [
-            "Un guante (Vocabulario de indumentaria)",
-            "Una media (Vocabulario de indumentaria)",
-            "Un zapato (Vocabulario de indumentaria)",
-            "Una campera (Vocabulario de indumentaria)"
+            "Un guante",
+            "Una media",
+            "Un zapato",
+            "Una campera"
           ],
           "answerIndex": 3,
           "explanation": "Campera is jacket."
@@ -9991,10 +9995,10 @@
         {
           "prompt": "¿Cuál es el histórico centro comercial de Buenos Aires famoso por sus murales pintados en la cúpula central?",
           "options": [
-            "Times Square (Vocabulario de indumentaria)",
-            "Harrods (Vocabulario de indumentaria)",
-            "Galerías Pacífico (Vocabulario de indumentaria)",
-            "El Mercado de Flores (Vocabulario de indumentaria)"
+            "Times Square",
+            "Harrods",
+            "Galerías Pacífico",
+            "El Mercado de Flores"
           ],
           "answerIndex": 2,
           "explanation": "Galerías Pacífico.",
@@ -10003,10 +10007,10 @@
         {
           "prompt": "Traduce: \"This genuine leather jacket from San Telmo is of excellent quality.\"",
           "options": [
-            "La campera es de papel. (Vocabulario de indumentaria)",
-            "Esta campera de cuero genuino de San Telmo es de excelente calidad. (Vocabulario de indumentaria)",
-            "La tienda no vende ropa. (Vocabulario de indumentaria)",
-            "No me gusta el cuero. (Vocabulario de indumentaria)"
+            "La campera es de papel.",
+            "Esta campera de cuero genuino de San Telmo es de excelente calidad.",
+            "La tienda no vende ropa.",
+            "No me gusta el cuero."
           ],
           "answerIndex": 1,
           "explanation": "Accurate fashion translation.",
@@ -10125,10 +10129,10 @@
         {
           "prompt": "¿Cuál es la billetera virtual y sistema de pago QR más masivo en toda Argentina?",
           "options": [
-            "Alipay (Liquidaciones de temporada)",
-            "Mercado Pago (Liquidaciones de temporada)",
-            "Venmo (Liquidaciones de temporada)",
-            "WeChat Pay (Liquidaciones de temporada)"
+            "Alipay",
+            "Mercado Pago",
+            "Venmo",
+            "WeChat Pay"
           ],
           "answerIndex": 1,
           "explanation": "Mercado Pago."
@@ -10140,10 +10144,10 @@
         {
           "prompt": "¿Qué significa pagar en \"cuotas sin interés\"?",
           "options": [
-            "Splitting the total purchase price into monthly credit card installments with zero interest charge (Liquidaciones de temporada)",
-            "Paying with a cheque (Liquidaciones de temporada)",
-            "Paying next year only (Liquidaciones de temporada)",
-            "Paying double (Liquidaciones de temporada)"
+            "Splitting the total purchase price into monthly credit card installments with zero interest charge",
+            "Paying with a cheque",
+            "Paying next year only",
+            "Paying double"
           ],
           "answerIndex": 0,
           "explanation": "Cuotas sin interés is interest-free installments."
@@ -10155,10 +10159,10 @@
         {
           "prompt": "¿Qué beneficio suelen ofrecer muchos comercios minoristas por pagar en efectivo?",
           "options": [
-            "Un descuento directo sobre el precio de lista (Liquidaciones de temporada)",
-            "Un aumento de precio (Liquidaciones de temporada)",
-            "Nada (Liquidaciones de temporada)",
-            "Una multa (Liquidaciones de temporada)"
+            "Un descuento directo sobre el precio de lista",
+            "Un aumento de precio",
+            "Nada",
+            "Una multa"
           ],
           "answerIndex": 0,
           "explanation": "Cash discount.",
@@ -10167,10 +10171,10 @@
         {
           "prompt": "Traduce: \"Can I pay in 3 interest-free installments with my credit card?\"",
           "options": [
-            "El precio es muy alto. (Liquidaciones de temporada)",
-            "No tengo tarjeta. (Liquidaciones de temporada)",
-            "No quiero pagar. (Liquidaciones de temporada)",
-            "¿Puedo pagar en tres cuotas sin interés con tarjeta de crédito? (Liquidaciones de temporada)"
+            "El precio es muy alto.",
+            "No tengo tarjeta.",
+            "No quiero pagar.",
+            "¿Puedo pagar en tres cuotas sin interés con tarjeta de crédito?"
           ],
           "answerIndex": 3,
           "explanation": "Accurate installment payment inquiry.",
@@ -10207,10 +10211,10 @@
         {
           "prompt": "¿Cuál es el arte pictórico tradicional de Buenos Aires con flores, espirales y frases populares?",
           "options": [
-            "El arte gótico (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El fileteado porteño (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El grabado japonés (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El cubismo (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)"
+            "El arte gótico",
+            "El fileteado porteño",
+            "El grabado japonés",
+            "El cubismo"
           ],
           "answerIndex": 1,
           "explanation": "El fileteado porteño."
@@ -10222,10 +10226,10 @@
         {
           "prompt": "¿Cuál es la piedra semipreciosa de color rosado considerada la piedra nacional de Argentina?",
           "options": [
-            "La rodocrosita (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El rubí (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "La esmeralda (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El diamante (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)"
+            "La rodocrosita",
+            "El rubí",
+            "La esmeralda",
+            "El diamante"
           ],
           "answerIndex": 0,
           "explanation": "La rodocrosita."
@@ -10237,10 +10241,10 @@
         {
           "prompt": "¿Qué feria tradicional en Buenos Aires es el epicentro de la cultura gaucha, el folklore y la comida criolla?",
           "options": [
-            "El Planetario (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El Obelisco (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "El Rosedal (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "La Feria de Mataderos (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)"
+            "El Planetario",
+            "El Obelisco",
+            "El Rosedal",
+            "La Feria de Mataderos"
           ],
           "answerIndex": 3,
           "explanation": "Feria de Mataderos.",
@@ -10249,10 +10253,10 @@
         {
           "prompt": "Traduce: \"We bought an authentic handcrafted silver bombilla for drinking mate.\"",
           "options": [
-            "Compramos una taza de té rota. (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "La feria estaba vacía. (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "Compramos una bombilla artesanal de alpaca auténtica para tomar mate. (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)",
-            "No tomamos mate. (Ferias artesanales y mercados de pulgas en Buenos Aires Feria de San Telmo)"
+            "Compramos una taza de té rota.",
+            "La feria estaba vacía.",
+            "Compramos una bombilla artesanal de alpaca auténtica para tomar mate.",
+            "No tomamos mate."
           ],
           "answerIndex": 2,
           "explanation": "Accurate artisanal purchase translation.",
@@ -10289,10 +10293,10 @@
         {
           "prompt": "¿Cómo se le llama a una sudadera / hoodie en el lenguaje cotidiano argentino?",
           "options": [
-            "Un buzo (Cambios de prendas)",
-            "Un saco (Cambios de prendas)",
-            "Una remera (Cambios de prendas)",
-            "Una bufanda (Cambios de prendas)"
+            "Un buzo",
+            "Un saco",
+            "Una remera",
+            "Una bufanda"
           ],
           "answerIndex": 0,
           "explanation": "Un buzo is a sweatshirt/hoodie."
@@ -10304,10 +10308,10 @@
         {
           "prompt": "¿Qué empresa líder de comercio electrónico originaria de Argentina domina las compras online en América Latina?",
           "options": [
-            "Rakuten (Cambios de prendas)",
-            "Alibaba (Cambios de prendas)",
-            "Mercado Libre (Cambios de prendas)",
-            "Ebay (Cambios de prendas)"
+            "Rakuten",
+            "Alibaba",
+            "Mercado Libre",
+            "Ebay"
           ],
           "answerIndex": 2,
           "explanation": "Mercado Libre."
@@ -10319,10 +10323,10 @@
         {
           "prompt": "¿Dónde validan los turistas extranjeros sus facturas de Tax Free para recuperar el IVA al salir de Argentina?",
           "options": [
-            "En una farmacia (Cambios de prendas)",
-            "En el subte (Cambios de prendas)",
-            "En los puestos de Aduana / Global Blue en los aeropuertos internacionales (Cambios de prendas)",
-            "En el hotel (Cambios de prendas)"
+            "En una farmacia",
+            "En el subte",
+            "En los puestos de Aduana / Global Blue en los aeropuertos internacionales",
+            "En el hotel"
           ],
           "answerIndex": 2,
           "explanation": "Aduana / Global Blue at airports.",
@@ -10331,10 +10335,10 @@
         {
           "prompt": "Traduce: \"Can you please give me the Tax-Free form for customs tax refund?\"",
           "options": [
-            "La factura es inválida. (Cambios de prendas)",
-            "¿Me podés dar el formulario de Tax Free para el reintegro en la aduana, por favor? (Cambios de prendas)",
-            "No quiero reintegro. (Cambios de prendas)",
-            "El vuelo salió. (Cambios de prendas)"
+            "La factura es inválida.",
+            "¿Me podés dar el formulario de Tax Free para el reintegro en la aduana, por favor?",
+            "No quiero reintegro.",
+            "El vuelo salió."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Tax-Free request.",
@@ -10371,10 +10375,10 @@
         {
           "prompt": "¿Cuál es el viento cálido y extremadamente seco característico de la región de Cuyo en Argentina?",
           "options": [
-            "El Monzón (El pronstico del tiempo)",
-            "El Tifón (El pronstico del tiempo)",
-            "La Brisa marina (El pronstico del tiempo)",
-            "El viento Zonda (El pronstico del tiempo)"
+            "El Monzón",
+            "El Tifón",
+            "La Brisa marina",
+            "El viento Zonda"
           ],
           "answerIndex": 3,
           "explanation": "El Zonda."
@@ -10386,10 +10390,10 @@
         {
           "prompt": "¿Qué viento del sudeste provoca la crecida de las aguas del Río de la Plata en Buenos Aires y el Delta?",
           "options": [
-            "El Zonda (El pronstico del tiempo)",
-            "El Siroco (El pronstico del tiempo)",
-            "El Mistral (El pronstico del tiempo)",
-            "La Sudestada (El pronstico del tiempo)"
+            "El Zonda",
+            "El Siroco",
+            "El Mistral",
+            "La Sudestada"
           ],
           "answerIndex": 3,
           "explanation": "La Sudestada."
@@ -10401,10 +10405,10 @@
         {
           "prompt": "¿Qué viento frío y vigoroso barre la humedad de la pampa y deja el cielo límpido y fresco?",
           "options": [
-            "El Zonda (El pronstico del tiempo)",
-            "El Pampero (El pronstico del tiempo)",
-            "La Sudestada (El pronstico del tiempo)",
-            "El Ciclón (El pronstico del tiempo)"
+            "El Zonda",
+            "El Pampero",
+            "La Sudestada",
+            "El Ciclón"
           ],
           "answerIndex": 1,
           "explanation": "El Pampero.",
@@ -10413,10 +10417,10 @@
         {
           "prompt": "Traduce: \"The weather forecast warns of heavy thunderstorms and strong gusts of wind tonight.\"",
           "options": [
-            "El pronóstico del tiempo alerta sobre tormentas fuertes y ráfagas intensas de viento para esta noche. (El pronstico del tiempo)",
-            "No lloverá nunca. (El pronstico del tiempo)",
-            "Hace un sol radiante. (El pronstico del tiempo)",
-            "El cielo está completamente calmo. (El pronstico del tiempo)"
+            "El pronóstico del tiempo alerta sobre tormentas fuertes y ráfagas intensas de viento para esta noche.",
+            "No lloverá nunca.",
+            "Hace un sol radiante.",
+            "El cielo está completamente calmo."
           ],
           "answerIndex": 0,
           "explanation": "Accurate storm warning translation.",
@@ -10453,10 +10457,10 @@
         {
           "prompt": "¿En qué meses transcurre el verano en Argentina y el hemisferio sur?",
           "options": [
-            "De diciembre a marzo (Las estaciones del hemisferio sur invierno en julio)",
-            "En septiembre únicamente (Las estaciones del hemisferio sur invierno en julio)",
-            "De junio a agosto (Las estaciones del hemisferio sur invierno en julio)",
-            "De abril a mayo (Las estaciones del hemisferio sur invierno en julio)"
+            "De diciembre a marzo",
+            "En septiembre únicamente",
+            "De junio a agosto",
+            "De abril a mayo"
           ],
           "answerIndex": 0,
           "explanation": "Diciembre a marzo."
@@ -10468,10 +10472,10 @@
         {
           "prompt": "¿Qué árboles tiñen de lila y violeta las calles de Buenos Aires durante la primavera en noviembre?",
           "options": [
-            "Los jacarandás (Las estaciones del hemisferio sur invierno en julio)",
-            "Los pinos (Las estaciones del hemisferio sur invierno en julio)",
-            "Los cactus (Las estaciones del hemisferio sur invierno en julio)",
-            "Las palmeras (Las estaciones del hemisferio sur invierno en julio)"
+            "Los jacarandás",
+            "Los pinos",
+            "Los cactus",
+            "Las palmeras"
           ],
           "answerIndex": 0,
           "explanation": "Los jacarandás."
@@ -10483,10 +10487,10 @@
         {
           "prompt": "¿Cuál es la ciudad balnearia más emblemática y masiva de la costa atlántica argentina durante el verano?",
           "options": [
-            "Mar del Plata (Las estaciones del hemisferio sur invierno en julio)",
-            "La Paz (Las estaciones del hemisferio sur invierno en julio)",
-            "Mendoza (Las estaciones del hemisferio sur invierno en julio)",
-            "Ushuaia (Las estaciones del hemisferio sur invierno en julio)"
+            "Mar del Plata",
+            "La Paz",
+            "Mendoza",
+            "Ushuaia"
           ],
           "answerIndex": 0,
           "explanation": "Mar del Plata.",
@@ -10495,10 +10499,10 @@
         {
           "prompt": "Traduce: \"In July, ski resorts in Bariloche and Ushuaia are covered in fresh powdery snow.\"",
           "options": [
-            "En julio hace mucho calor en Bariloche. (Las estaciones del hemisferio sur invierno en julio)",
-            "No hay nieve en invierno. (Las estaciones del hemisferio sur invierno en julio)",
-            "Bariloche es una playa tropical. (Las estaciones del hemisferio sur invierno en julio)",
-            "En julio, los centros de esquí en Bariloche y Ushuaia se cubren de nieve en polvo fresca. (Las estaciones del hemisferio sur invierno en julio)"
+            "En julio hace mucho calor en Bariloche.",
+            "No hay nieve en invierno.",
+            "Bariloche es una playa tropical.",
+            "En julio, los centros de esquí en Bariloche y Ushuaia se cubren de nieve en polvo fresca."
           ],
           "answerIndex": 3,
           "explanation": "Accurate seasonal translation.",
@@ -10535,10 +10539,10 @@
         {
           "prompt": "¿Cuál es la impresionante caída de agua en forma de herradura de las Cataratas del Iguazú?",
           "options": [
-            "El Salto Ángel (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "La Garganta del Diablo (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "Las Cataratas del Niágara (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "El Lago Nahuel Huapi (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)"
+            "El Salto Ángel",
+            "La Garganta del Diablo",
+            "Las Cataratas del Niágara",
+            "El Lago Nahuel Huapi"
           ],
           "answerIndex": 1,
           "explanation": "La Garganta del Diablo."
@@ -10550,10 +10554,10 @@
         {
           "prompt": "¿Qué famoso glaciar patagónico de hielo azul es Patrimonio de la Humanidad UNESCO?",
           "options": [
-            "El Glaciar Perito Moreno (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "El Glaciar Aletsch (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "El Glaciar Franz Josef (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "El Glaciar Hubbard (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)"
+            "El Glaciar Perito Moreno",
+            "El Glaciar Aletsch",
+            "El Glaciar Franz Josef",
+            "El Glaciar Hubbard"
           ],
           "answerIndex": 0,
           "explanation": "El Glaciar Perito Moreno."
@@ -10565,10 +10569,10 @@
         {
           "prompt": "¿Qué localidad patagónica al pie del cerro Fitz Roy es reconocida como la \"Capital Nacional del Trekking\"?",
           "options": [
-            "Córdoba (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "Rosario (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "Tucumán (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "El Chaltén (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)"
+            "Córdoba",
+            "Rosario",
+            "Tucumán",
+            "El Chaltén"
           ],
           "answerIndex": 3,
           "explanation": "El Chaltén.",
@@ -10577,10 +10581,10 @@
         {
           "prompt": "Traduce: \"Península Valdés is a world sanctuary for watching southern right whales and Magellanic penguins.\"",
           "options": [
-            "Las ballenas están extintas. (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "Es una fábrica de autos. (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "Península Valdés es un santuario mundial para el avistaje de ballenas francas australes y pingüinos de Magallanes. (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)",
-            "En Península Valdés no hay animales marinos. (Parques nacionales y maravillas naturales de Argentina Glaciar Perito Moreno)"
+            "Las ballenas están extintas.",
+            "Es una fábrica de autos.",
+            "Península Valdés es un santuario mundial para el avistaje de ballenas francas australes y pingüinos de Magallanes.",
+            "En Península Valdés no hay animales marinos."
           ],
           "answerIndex": 2,
           "explanation": "Accurate wildlife sanctuary translation.",
@@ -10617,10 +10621,10 @@
         {
           "prompt": "¿Qué expresión popular usan los argentinos para advertir sobre la caída inminente de granizo?",
           "options": [
-            "Hace mucho calor (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "¡Guarden el auto que cae piedra! (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "No pasa nada (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "Viene la nieve suave (Alertas del Servicio Meteorolgico Nacional SMN)"
+            "Hace mucho calor",
+            "¡Guarden el auto que cae piedra!",
+            "No pasa nada",
+            "Viene la nieve suave"
           ],
           "answerIndex": 1,
           "explanation": "¡Cae piedra! means hail is falling."
@@ -10632,10 +10636,10 @@
         {
           "prompt": "¿Qué organismo público argentino emite las alertas meteorológicas oficiales y pronósticos?",
           "options": [
-            "El Servicio Meteorológico Nacional (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "La AFA (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "El Correo (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "El Banco Central (Alertas del Servicio Meteorolgico Nacional SMN)"
+            "El Servicio Meteorológico Nacional",
+            "La AFA",
+            "El Correo",
+            "El Banco Central"
           ],
           "answerIndex": 0,
           "explanation": "El SMN."
@@ -10647,10 +10651,10 @@
         {
           "prompt": "¿Qué color de alerta meteorológica del SMN indica una situación de emergencia con peligro extremo?",
           "options": [
-            "Alerta Verde (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "Alerta Blanca (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "Alerta Roja (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "Alerta Celeste (Alertas del Servicio Meteorolgico Nacional SMN)"
+            "Alerta Verde",
+            "Alerta Blanca",
+            "Alerta Roja",
+            "Alerta Celeste"
           ],
           "answerIndex": 2,
           "explanation": "Alerta Roja.",
@@ -10659,10 +10663,10 @@
         {
           "prompt": "Traduce: \"Do not touch downed power lines and avoid parking vehicles under tall trees during the tempest.\"",
           "options": [
-            "La tormenta es inofensiva. (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "No toque cables caídos de electricidad y evite estacionar vehículos debajo de árboles añosos durante el temporal. (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "Camine sobre los cables. (Alertas del Servicio Meteorolgico Nacional SMN)",
-            "Estacione debajo del árbol más débil. (Alertas del Servicio Meteorolgico Nacional SMN)"
+            "La tormenta es inofensiva.",
+            "No toque cables caídos de electricidad y evite estacionar vehículos debajo de árboles añosos durante el temporal.",
+            "Camine sobre los cables.",
+            "Estacione debajo del árbol más débil."
           ],
           "answerIndex": 1,
           "explanation": "Accurate storm safety advisory.",
@@ -10699,10 +10703,10 @@
         {
           "prompt": "¿Qué recurso mineral estratégico para la fabricación de baterías de autos eléctricos abunda en los salares del norte argentino?",
           "options": [
-            "El litio (Parques elicos en la Patagonia)",
-            "El carbón (Parques elicos en la Patagonia)",
-            "El azufre (Parques elicos en la Patagonia)",
-            "El mercurio (Parques elicos en la Patagonia)"
+            "El litio",
+            "El carbón",
+            "El azufre",
+            "El mercurio"
           ],
           "answerIndex": 0,
           "explanation": "El litio."
@@ -10714,10 +10718,10 @@
         {
           "prompt": "¿Qué felino autóctono en peligro de extinción es Monumento Natural Nacional en Argentina?",
           "options": [
-            "El león africano (Parques elicos en la Patagonia)",
-            "El guepardo (Parques elicos en la Patagonia)",
-            "El gato persa (Parques elicos en la Patagonia)",
-            "El yaguareté (Parques elicos en la Patagonia)"
+            "El león africano",
+            "El guepardo",
+            "El gato persa",
+            "El yaguareté"
           ],
           "answerIndex": 3,
           "explanation": "El yaguareté."
@@ -10729,10 +10733,10 @@
         {
           "prompt": "¿Dónde se encuentra el monumental Parque Solar Cauchari a 4.000 metros sobre el nivel del mar?",
           "options": [
-            "En Mar del Plata (Parques elicos en la Patagonia)",
-            "En la Puna jujeña (Parques elicos en la Patagonia)",
-            "En Ushuaia (Parques elicos en la Patagonia)",
-            "En el Río Paraná (Parques elicos en la Patagonia)"
+            "En Mar del Plata",
+            "En la Puna jujeña",
+            "En Ushuaia",
+            "En el Río Paraná"
           ],
           "answerIndex": 1,
           "explanation": "En Jujuy (Puna).",
@@ -10741,10 +10745,10 @@
         {
           "prompt": "Traduce: \"Harnessing wind power in Patagonia and conserving native forests is crucial for sustainable development.\"",
           "options": [
-            "Aprovechar la energía eólica en la Patagonia y conservar los bosques nativos es crucial para el desarrollo sustentable. (Parques elicos en la Patagonia)",
-            "Debemos talar todos los bosques. (Parques elicos en la Patagonia)",
-            "La energía eólica no funciona. (Parques elicos en la Patagonia)",
-            "No hay viento en la Patagonia. (Parques elicos en la Patagonia)"
+            "Aprovechar la energía eólica en la Patagonia y conservar los bosques nativos es crucial para el desarrollo sustentable.",
+            "Debemos talar todos los bosques.",
+            "La energía eólica no funciona.",
+            "No hay viento en la Patagonia."
           ],
           "answerIndex": 0,
           "explanation": "Accurate environmental conservation statement.",
@@ -10781,10 +10785,10 @@
         {
           "prompt": "¿Cómo se le llama comúnmente al estómago o vientre en el lenguaje cotidiano argentino?",
           "options": [
-            "El codo (Partes del cuerpo)",
-            "La oreja (Partes del cuerpo)",
-            "La ceja (Partes del cuerpo)",
-            "La panza (Partes del cuerpo)"
+            "El codo",
+            "La oreja",
+            "La ceja",
+            "La panza"
           ],
           "answerIndex": 3,
           "explanation": "La panza."
@@ -10796,10 +10800,10 @@
         {
           "prompt": "¿Cómo le preguntás a alguien qué síntoma o dolor tiene usando voseo rioplatense?",
           "options": [
-            "¿Dónde compraste eso? (Partes del cuerpo)",
-            "¿Qué comiste ayer? (Partes del cuerpo)",
-            "¿A qué hora salís? (Partes del cuerpo)",
-            "¿Qué te duele? / ¿Cómo te sentís? (Partes del cuerpo)"
+            "¿Dónde compraste eso?",
+            "¿Qué comiste ayer?",
+            "¿A qué hora salís?",
+            "¿Qué te duele? / ¿Cómo te sentís?"
           ],
           "answerIndex": 3,
           "explanation": "¿Cómo te sentís? / ¿Qué te duele?"
@@ -10811,10 +10815,10 @@
         {
           "prompt": "¿Qué significa la expresión argentina \"Estoy re engripado\"?",
           "options": [
-            "I have a very severe case of the flu (Partes del cuerpo)",
-            "I am very hungry (Partes del cuerpo)",
-            "I am very happy (Partes del cuerpo)",
-            "I am lost in the street (Partes del cuerpo)"
+            "I have a very severe case of the flu",
+            "I am very hungry",
+            "I am very happy",
+            "I am lost in the street"
           ],
           "answerIndex": 0,
           "explanation": "Re engripado means very bad flu.",
@@ -10823,10 +10827,10 @@
         {
           "prompt": "Traduce: \"I have a sharp throat pain and chills; I need to see a clinical doctor.\"",
           "options": [
-            "No me duele nada y estoy bárbaro. (Partes del cuerpo)",
-            "El médico está en su casa. (Partes del cuerpo)",
-            "No hay hospitales en la ciudad. (Partes del cuerpo)",
-            "Tengo un dolor de garganta re fuerte y escalofríos; necesito ver a un médico clínico. (Partes del cuerpo)"
+            "No me duele nada y estoy bárbaro.",
+            "El médico está en su casa.",
+            "No hay hospitales en la ciudad.",
+            "Tengo un dolor de garganta re fuerte y escalofríos; necesito ver a un médico clínico."
           ],
           "answerIndex": 3,
           "explanation": "Accurate symptom translation.",
@@ -10863,10 +10867,10 @@
         {
           "prompt": "¿Cómo se le llama a los pequeños apósitos adhesivos para heridas en Argentina?",
           "options": [
-            "Las curitas (La farmacia en Argentina Farmacity)",
-            "Las vendas de tela (La farmacia en Argentina Farmacity)",
-            "Las tiritas españolas (La farmacia en Argentina Farmacity)",
-            "Los yesos grandes (La farmacia en Argentina Farmacity)"
+            "Las curitas",
+            "Las vendas de tela",
+            "Las tiritas españolas",
+            "Los yesos grandes"
           ],
           "answerIndex": 0,
           "explanation": "Las curitas."
@@ -10878,10 +10882,10 @@
         {
           "prompt": "¿Cómo se llama la farmacia que atiende guardias durante la noche y fines de semana en Argentina?",
           "options": [
-            "La farmacia de turno (La farmacia en Argentina Farmacity)",
-            "La farmacia cerrada (La farmacia en Argentina Farmacity)",
-            "El shopping (La farmacia en Argentina Farmacity)",
-            "El quiosco de revistas (La farmacia en Argentina Farmacity)"
+            "La farmacia de turno",
+            "La farmacia cerrada",
+            "El shopping",
+            "El quiosco de revistas"
           ],
           "answerIndex": 0,
           "explanation": "Farmacia de turno."
@@ -10893,10 +10897,10 @@
         {
           "prompt": "¿Cuál es la cadena de farmacias moderna más masiva de Argentina presente en las principales ciudades?",
           "options": [
-            "Boots (La farmacia en Argentina Farmacity)",
-            "Walgreens (La farmacia en Argentina Farmacity)",
-            "CVS (La farmacia en Argentina Farmacity)",
-            "Farmacity (La farmacia en Argentina Farmacity)"
+            "Boots",
+            "Walgreens",
+            "CVS",
+            "Farmacity"
           ],
           "answerIndex": 3,
           "explanation": "Farmacity.",
@@ -10905,10 +10909,10 @@
         {
           "prompt": "Traduce: \"Take one tablet every twelve hours after eating for seven consecutive days.\"",
           "options": [
-            "Tomá todo el frasco junto. (La farmacia en Argentina Farmacity)",
-            "No tomes ningún remedio. (La farmacia en Argentina Farmacity)",
-            "Tomá un comprimido cada doce horas después de comer durante siete días seguidos. (La farmacia en Argentina Farmacity)",
-            "Tomá el remedio con gaseosa. (La farmacia en Argentina Farmacity)"
+            "Tomá todo el frasco junto.",
+            "No tomes ningún remedio.",
+            "Tomá un comprimido cada doce horas después de comer durante siete días seguidos.",
+            "Tomá el remedio con gaseosa."
           ],
           "answerIndex": 2,
           "explanation": "Accurate posology translation.",
@@ -11027,10 +11031,10 @@
         {
           "prompt": "¿Qué famosa infusión tradicional argentina es un potente antioxidante natural y símbolo de conexión social?",
           "options": [
-            "El refresco con gas (El mate como antioxidante y ritual de bienestar)",
-            "El mate (El mate como antioxidante y ritual de bienestar)",
-            "El licor (El mate como antioxidante y ritual de bienestar)",
-            "El café instantáneo (El mate como antioxidante y ritual de bienestar)"
+            "El refresco con gas",
+            "El mate",
+            "El licor",
+            "El café instantáneo"
           ],
           "answerIndex": 1,
           "explanation": "El mate."
@@ -11042,10 +11046,10 @@
         {
           "prompt": "¿Qué gran parque urbano de Buenos Aires es el punto de encuentro principal para runners y ciclistas?",
           "options": [
-            "Los Bosques de Palermo (El mate como antioxidante y ritual de bienestar)",
-            "La Avenida 9 de Julio (El mate como antioxidante y ritual de bienestar)",
-            "El Puerto de Buenos Aires (El mate como antioxidante y ritual de bienestar)",
-            "La Plaza de Mayo (El mate como antioxidante y ritual de bienestar)"
+            "Los Bosques de Palermo",
+            "La Avenida 9 de Julio",
+            "El Puerto de Buenos Aires",
+            "La Plaza de Mayo"
           ],
           "answerIndex": 0,
           "explanation": "Los Bosques de Palermo."
@@ -11057,10 +11061,10 @@
         {
           "prompt": "¿Por qué disciplina de cuidado de la salud mental es mundialmente conocida Buenos Aires con la mayor tasa de profesionales per cápita?",
           "options": [
-            "La acupuntura (El mate como antioxidante y ritual de bienestar)",
-            "La psicología y el psicoanálisis (El mate como antioxidante y ritual de bienestar)",
-            "La quiropráctica (El mate como antioxidante y ritual de bienestar)",
-            "La homeopatía solamente (El mate como antioxidante y ritual de bienestar)"
+            "La acupuntura",
+            "La psicología y el psicoanálisis",
+            "La quiropráctica",
+            "La homeopatía solamente"
           ],
           "answerIndex": 1,
           "explanation": "La psicología y el psicoanálisis.",
@@ -11069,10 +11073,10 @@
         {
           "prompt": "Traduce: \"Exercising outdoors, drinking antioxidant herbal mate, and prioritizing mental health ensures long-term vitality.\"",
           "options": [
-            "Hacer ejercicio al aire libre, tomar mate con antioxidantes y priorizar la salud mental asegura vitalidad a largo plazo. (El mate como antioxidante y ritual de bienestar)",
-            "El mate hace daño. (El mate como antioxidante y ritual de bienestar)",
-            "El sedentarismo es bueno para la salud. (El mate como antioxidante y ritual de bienestar)",
-            "La salud mental no importa. (El mate como antioxidante y ritual de bienestar)"
+            "Hacer ejercicio al aire libre, tomar mate con antioxidantes y priorizar la salud mental asegura vitalidad a largo plazo.",
+            "El mate hace daño.",
+            "El sedentarismo es bueno para la salud.",
+            "La salud mental no importa."
           ],
           "answerIndex": 0,
           "explanation": "Accurate wellness statement translation.",
@@ -11110,10 +11114,10 @@
         {
           "prompt": "¿Qué célebre médico cirujano argentino revolucionó la medicina mundial al inventar la técnica del bypass coronario?",
           "options": [
-            "El Dr. René Favaloro (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "El Dr. Bernardo Houssay (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "El Dr. Luis Leloir (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "El Dr. César Milstein (Los Premios Nobel de Medicina de Argentina Houssay)"
+            "El Dr. René Favaloro",
+            "El Dr. Bernardo Houssay",
+            "El Dr. Luis Leloir",
+            "El Dr. César Milstein"
           ],
           "answerIndex": 0,
           "explanation": "El Dr. René Favaloro."
@@ -11125,10 +11129,10 @@
         {
           "prompt": "¿Qué científico argentino recibió el Premio Nobel de Medicina en 1984 por desarrollar los anticuerpos monoclonales?",
           "options": [
-            "René Favaloro (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "Carlos Gardel (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "Jorge Luis Borges (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "César Milstein (Los Premios Nobel de Medicina de Argentina Houssay)"
+            "René Favaloro",
+            "Carlos Gardel",
+            "Jorge Luis Borges",
+            "César Milstein"
           ],
           "answerIndex": 3,
           "explanation": "César Milstein."
@@ -11140,10 +11144,10 @@
         {
           "prompt": "¿Cuál es el principal organismo estatal dedicado a la investigación científica de excelencia y biotecnología en Argentina?",
           "options": [
-            "El CONICET (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "La AFIP (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "El INTI únicamente (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "El ANSES (Los Premios Nobel de Medicina de Argentina Houssay)"
+            "El CONICET",
+            "La AFIP",
+            "El INTI únicamente",
+            "El ANSES"
           ],
           "answerIndex": 0,
           "explanation": "El CONICET.",
@@ -11152,10 +11156,10 @@
         {
           "prompt": "Traduce: \"The bypass surgery pioneered by Dr. Favaloro remains the gold standard in coronary revascularization.\"",
           "options": [
-            "La cardiología no utiliza cirugías. (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "El bypass nunca funcionó. (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "Favaloro no era médico. (Los Premios Nobel de Medicina de Argentina Houssay)",
-            "La cirugía de bypass impulsada por el doctor Favaloro sigue siendo el estándar de oro en la revascularización coronaria. (Los Premios Nobel de Medicina de Argentina Houssay)"
+            "La cardiología no utiliza cirugías.",
+            "El bypass nunca funcionó.",
+            "Favaloro no era médico.",
+            "La cirugía de bypass impulsada por el doctor Favaloro sigue siendo el estándar de oro en la revascularización coronaria."
           ],
           "answerIndex": 3,
           "explanation": "Accurate cardiology history translation.",
@@ -11192,10 +11196,10 @@
         {
           "prompt": "¿Cómo se le llama en Argentina a un departamento que cuenta con un dormitorio independiente más el living-comedor?",
           "options": [
-            "Monoambiente (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Cuatro ambientes (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Loft vacío (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Dos ambientes (Buscar alquiler en Buenos Aires Zonaprop)"
+            "Monoambiente",
+            "Cuatro ambientes",
+            "Loft vacío",
+            "Dos ambientes"
           ],
           "answerIndex": 3,
           "explanation": "Dos ambientes."
@@ -11207,10 +11211,10 @@
         {
           "prompt": "¿Qué tipo de expensas del edificio le corresponden pagar exclusivamente al propietario y no al inquilino?",
           "options": [
-            "Las expensas ordinarias (Buscar alquiler en Buenos Aires Zonaprop)",
-            "La factura de luz (Buscar alquiler en Buenos Aires Zonaprop)",
-            "La factura de internet (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Las expensas extraordinarias (Buscar alquiler en Buenos Aires Zonaprop)"
+            "Las expensas ordinarias",
+            "La factura de luz",
+            "La factura de internet",
+            "Las expensas extraordinarias"
           ],
           "answerIndex": 3,
           "explanation": "Expensas extraordinarias."
@@ -11222,10 +11226,10 @@
         {
           "prompt": "¿Qué opción de garantía de alquiler se utiliza masivamente en Argentina cuando el inquilino no tiene garantía propietaria de un familiar?",
           "options": [
-            "Una promesa verbal (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Una carta de recomendación escolar (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Un cheque sin fondos (Buscar alquiler en Buenos Aires Zonaprop)",
-            "Un seguro de caución o garantía de fianza (Buscar alquiler en Buenos Aires Zonaprop)"
+            "Una promesa verbal",
+            "Una carta de recomendación escolar",
+            "Un cheque sin fondos",
+            "Un seguro de caución o garantía de fianza"
           ],
           "answerIndex": 3,
           "explanation": "Seguro de caución / fianza.",
@@ -11234,10 +11238,10 @@
         {
           "prompt": "Traduce: \"The bright two-room apartment features a balcony, low maintenance fees, and an integrated kitchen.\"",
           "options": [
-            "El departamento no tiene ventanas ni cocina. (Buscar alquiler en Buenos Aires Zonaprop)",
-            "El edificio no tiene puertas. (Buscar alquiler en Buenos Aires Zonaprop)",
-            "El dos ambientes luminoso cuenta con balcón, bajas expensas y cocina integrada. (Buscar alquiler en Buenos Aires Zonaprop)",
-            "El alquiler dura solo tres días. (Buscar alquiler en Buenos Aires Zonaprop)"
+            "El departamento no tiene ventanas ni cocina.",
+            "El edificio no tiene puertas.",
+            "El dos ambientes luminoso cuenta con balcón, bajas expensas y cocina integrada.",
+            "El alquiler dura solo tres días."
           ],
           "answerIndex": 2,
           "explanation": "Accurate real estate translation.",
@@ -11274,10 +11278,10 @@
         {
           "prompt": "¿Cómo se le llama en la jerga inmobiliaria argentina a las viviendas en pasillo con patio o terraza y sin gastos centrales de expensas?",
           "options": [
-            "PH (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "Hotel de pasajeros (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "Rascacielos (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "Torre de lujo (El PH porteo Propiedad Horizontal con patio y terraza)"
+            "PH",
+            "Hotel de pasajeros",
+            "Rascacielos",
+            "Torre de lujo"
           ],
           "answerIndex": 0,
           "explanation": "PH (Propiedad Horizontal)."
@@ -11289,10 +11293,10 @@
         {
           "prompt": "¿Qué tipo de casa histórica de Buenos Aires se caracteriza por tener todas sus habitaciones en fila a lo largo de un patio lateral?",
           "options": [
-            "La casa chorizo (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "El iglú (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "El castillo medieval (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "La cabaña de troncos (El PH porteo Propiedad Horizontal con patio y terraza)"
+            "La casa chorizo",
+            "El iglú",
+            "El castillo medieval",
+            "La cabaña de troncos"
           ],
           "answerIndex": 0,
           "explanation": "La casa chorizo."
@@ -11304,10 +11308,10 @@
         {
           "prompt": "¿Qué espacio o instalación de la casa es el centro de reunión dominical para hacer el tradicional asado en Argentina?",
           "options": [
-            "El garaje cerrado sin ventilación (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "El lavadero (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "La parrilla o el quincho (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "El sótano oscuro (El PH porteo Propiedad Horizontal con patio y terraza)"
+            "El garaje cerrado sin ventilación",
+            "El lavadero",
+            "La parrilla o el quincho",
+            "El sótano oscuro"
           ],
           "answerIndex": 2,
           "explanation": "La parrilla / quincho.",
@@ -11316,10 +11320,10 @@
         {
           "prompt": "Traduce: \"The renovated townhouse features historic pitch-pine floors, high ceilings, and a private rooftop barbecue terrace.\"",
           "options": [
-            "La casa es moderna y no tiene terraza. (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "El PH reciclado cuenta con pisos históricos de pinotea, techos altos y una terraza privada con parrilla. (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "La terraza está clausurada. (El PH porteo Propiedad Horizontal con patio y terraza)",
-            "No hay pisos de madera en la vivienda. (El PH porteo Propiedad Horizontal con patio y terraza)"
+            "La casa es moderna y no tiene terraza.",
+            "El PH reciclado cuenta con pisos históricos de pinotea, techos altos y una terraza privada con parrilla.",
+            "La terraza está clausurada.",
+            "No hay pisos de madera en la vivienda."
           ],
           "answerIndex": 1,
           "explanation": "Accurate architectural description translation.",
@@ -11356,10 +11360,10 @@
         {
           "prompt": "¿Cómo se le llama comúnmente en los edificios argentinos al trabajador encargado del mantenimiento y limpieza del inmueble?",
           "options": [
-            "El chofer (El consorcio de propietarios en Argentina)",
-            "El encargado de edificio (El consorcio de propietarios en Argentina)",
-            "El cartero (El consorcio de propietarios en Argentina)",
-            "El comisario (El consorcio de propietarios en Argentina)"
+            "El chofer",
+            "El encargado de edificio",
+            "El cartero",
+            "El comisario"
           ],
           "answerIndex": 1,
           "explanation": "El encargado de edificio."
@@ -11371,10 +11375,10 @@
         {
           "prompt": "¿Qué sigla se utiliza en los edificios argentinos para el salón común de eventos y festejos comunitarios?",
           "options": [
-            "SUM (El consorcio de propietarios en Argentina)",
-            "DNI (El consorcio de propietarios en Argentina)",
-            "VIP (El consorcio de propietarios en Argentina)",
-            "SOS (El consorcio de propietarios en Argentina)"
+            "SUM",
+            "DNI",
+            "VIP",
+            "SOS"
           ],
           "answerIndex": 0,
           "explanation": "SUM (Salón de Usos Múltiples)."
@@ -11386,10 +11390,10 @@
         {
           "prompt": "¿A qué hora reglamentaria se debe sacar la basura embolsada a los contenedores de la calle en la Ciudad de Buenos Aires?",
           "options": [
-            "A cualquier hora del día (El consorcio de propietarios en Argentina)",
-            "A las 20:00 (El consorcio de propietarios en Argentina)",
-            "Nunca se saca la basura (El consorcio de propietarios en Argentina)",
-            "A las 12:00 del mediodía (El consorcio de propietarios en Argentina)"
+            "A cualquier hora del día",
+            "A las 20:00",
+            "Nunca se saca la basura",
+            "A las 12:00 del mediodía"
           ],
           "answerIndex": 1,
           "explanation": "De 19:00 a 21:00 (las 20:00).",
@@ -11398,10 +11402,10 @@
         {
           "prompt": "Traduce: \"The building caretaker cleans the communal areas and coordinates maintenance repairs with the administrator.\"",
           "options": [
-            "El encargado del edificio limpia las áreas comunes y coordina las reparaciones de mantenimiento con el administrador. (El consorcio de propietarios en Argentina)",
-            "Los vecinos no se comunican con el administrador. (El consorcio de propietarios en Argentina)",
-            "El edificio no necesita mantenimiento. (El consorcio de propietarios en Argentina)",
-            "El consorcio no tiene encargado. (El consorcio de propietarios en Argentina)"
+            "El encargado del edificio limpia las áreas comunes y coordina las reparaciones de mantenimiento con el administrador.",
+            "Los vecinos no se comunican con el administrador.",
+            "El edificio no necesita mantenimiento.",
+            "El consorcio no tiene encargado."
           ],
           "answerIndex": 0,
           "explanation": "Accurate building management translation.",
@@ -11438,10 +11442,10 @@
         {
           "prompt": "¿Qué famoso palacio porteño en la Avenida de Mayo fue diseñado como un homenaje arquitectónico a la Divina Comedia del Dante?",
           "options": [
-            "La Casa Rosada (Arquitectura portea)",
-            "El Palacio Barolo (Arquitectura portea)",
-            "El Cabildo (Arquitectura portea)",
-            "El Palacio de Correos (Arquitectura portea)"
+            "La Casa Rosada",
+            "El Palacio Barolo",
+            "El Cabildo",
+            "El Palacio de Correos"
           ],
           "answerIndex": 1,
           "explanation": "El Palacio Barolo."
@@ -11453,10 +11457,10 @@
         {
           "prompt": "¿Por qué apodo histórico y cultural internacional es conocida la ciudad de Buenos Aires gracias a sus avenidas y palacios Belle Époque?",
           "options": [
-            "La París de Sudamérica (Arquitectura portea)",
-            "La Nueva York del Este (Arquitectura portea)",
-            "La Roma del Pacífico (Arquitectura portea)",
-            "La Venecia del Norte (Arquitectura portea)"
+            "La París de Sudamérica",
+            "La Nueva York del Este",
+            "La Roma del Pacífico",
+            "La Venecia del Norte"
           ],
           "answerIndex": 0,
           "explanation": "La París de Sudamérica."
@@ -11468,10 +11472,10 @@
         {
           "prompt": "¿Qué célebre teatro lírico de Buenos Aires es considerado por su acústica perfecta una de las cinco mejores salas de ópera del mundo?",
           "options": [
-            "El Teatro Colón (Arquitectura portea)",
-            "El Luna Park (Arquitectura portea)",
-            "El Teatro Cervantes (Arquitectura portea)",
-            "El Teatro San Martín (Arquitectura portea)"
+            "El Teatro Colón",
+            "El Luna Park",
+            "El Teatro Cervantes",
+            "El Teatro San Martín"
           ],
           "answerIndex": 0,
           "explanation": "El Teatro Colón.",
@@ -11480,10 +11484,10 @@
         {
           "prompt": "Traduce: \"Historic Beaux-Arts palaces, ornate domes, and picturesque pedestrian passageways define the architectural identity of Buenos Aires.\"",
           "options": [
-            "La arquitectura europea nunca influyó en la ciudad. (Arquitectura portea)",
-            "Todos los edificios son idénticos. (Arquitectura portea)",
-            "Buenos Aires no tiene edificios antiguos. (Arquitectura portea)",
-            "Palacios históricos Beaux-Arts, cúpulas ornamentadas y pintorescos pasajes peatonales definen la identidad arquitectónica de Buenos Aires. (Arquitectura portea)"
+            "La arquitectura europea nunca influyó en la ciudad.",
+            "Todos los edificios son idénticos.",
+            "Buenos Aires no tiene edificios antiguos.",
+            "Palacios históricos Beaux-Arts, cúpulas ornamentadas y pintorescos pasajes peatonales definen la identidad arquitectónica de Buenos Aires."
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural history translation.",
@@ -11520,10 +11524,10 @@
         {
           "prompt": "¿En qué contenedor de basura de la Ciudad de Buenos Aires se deben depositar los materiales reciclables limpios y secos?",
           "options": [
-            "En el contenedor verde (Hogares sustentables en Argentina)",
-            "En el contenedor negro (Hogares sustentables en Argentina)",
-            "En el piso (Hogares sustentables en Argentina)",
-            "En el río (Hogares sustentables en Argentina)"
+            "En el contenedor verde",
+            "En el contenedor negro",
+            "En el piso",
+            "En el río"
           ],
           "answerIndex": 0,
           "explanation": "El contenedor verde."
@@ -11535,10 +11539,10 @@
         {
           "prompt": "¿Qué equipo ecológico aprovecha el sol en las provincias argentinas para calentar el agua de la casa y ahorrar gas?",
           "options": [
-            "Una caldera a carbón (Hogares sustentables en Argentina)",
-            "Una fogata (Hogares sustentables en Argentina)",
-            "Un ventilador de techo (Hogares sustentables en Argentina)",
-            "El termotanque solar (Hogares sustentables en Argentina)"
+            "Una caldera a carbón",
+            "Una fogata",
+            "Un ventilador de techo",
+            "El termotanque solar"
           ],
           "answerIndex": 3,
           "explanation": "El termotanque solar."
@@ -11550,10 +11554,10 @@
         {
           "prompt": "¿Cómo se denomina a los ciudadanos que generan su propia energía renovable residencial y pueden vender el sobrante a la red eléctrica?",
           "options": [
-            "Espectadores (Hogares sustentables en Argentina)",
-            "Consumidores pasivos (Hogares sustentables en Argentina)",
-            "Visitantes (Hogares sustentables en Argentina)",
-            "Usuarios-generadores (Hogares sustentables en Argentina)"
+            "Espectadores",
+            "Consumidores pasivos",
+            "Visitantes",
+            "Usuarios-generadores"
           ],
           "answerIndex": 3,
           "explanation": "Usuarios-generadores.",
@@ -11562,10 +11566,10 @@
         {
           "prompt": "Traduce: \"Solar thermal water heaters and smart automated lighting drastically lower household utility consumption.\"",
           "options": [
-            "Los contenedores verdes son para basura húmeda. (Hogares sustentables en Argentina)",
-            "La energía solar no funciona en invierno. (Hogares sustentables en Argentina)",
-            "Los termotanques solares térmicos y la iluminación inteligente automatizada reducen drásticamente el consumo de servicios del hogar. (Hogares sustentables en Argentina)",
-            "Las luces inteligentes gastan más electricidad. (Hogares sustentables en Argentina)"
+            "Los contenedores verdes son para basura húmeda.",
+            "La energía solar no funciona en invierno.",
+            "Los termotanques solares térmicos y la iluminación inteligente automatizada reducen drásticamente el consumo de servicios del hogar.",
+            "Las luces inteligentes gastan más electricidad."
           ],
           "answerIndex": 2,
           "explanation": "Accurate sustainable home statement translation.",
@@ -11602,10 +11606,10 @@
         {
           "prompt": "¿Cómo se llama en Argentina el Sueldo Anual Complementario (SAC) pagado en dos cuotas en junio y diciembre?",
           "options": [
-            "La propina (El mercado laboral argentino Bumeran)",
-            "El viático (El mercado laboral argentino Bumeran)",
-            "La multa (El mercado laboral argentino Bumeran)",
-            "El aguinaldo (El mercado laboral argentino Bumeran)"
+            "La propina",
+            "El viático",
+            "La multa",
+            "El aguinaldo"
           ],
           "answerIndex": 3,
           "explanation": "El aguinaldo."
@@ -11617,10 +11621,10 @@
         {
           "prompt": "¿Qué régimen tributario simplificado utilizan los trabajadores autónomos y profesionales independientes en Argentina?",
           "options": [
-            "El impuesto al sello (El mercado laboral argentino Bumeran)",
-            "La tasa aduanera (El mercado laboral argentino Bumeran)",
-            "El boleto de colectivo (El mercado laboral argentino Bumeran)",
-            "El Monotributo (El mercado laboral argentino Bumeran)"
+            "El impuesto al sello",
+            "La tasa aduanera",
+            "El boleto de colectivo",
+            "El Monotributo"
           ],
           "answerIndex": 3,
           "explanation": "El Monotributo."
@@ -11632,10 +11636,10 @@
         {
           "prompt": "¿Cuál es la ley laboral fundamental que rige los contratos de trabajo y derechos de los empleados en Argentina?",
           "options": [
-            "El Código Minero (El mercado laboral argentino Bumeran)",
-            "La Ley de Pesca (El mercado laboral argentino Bumeran)",
-            "La Ley de Contrato de Trabajo (El mercado laboral argentino Bumeran)",
-            "La Ley de Tránsito (El mercado laboral argentino Bumeran)"
+            "El Código Minero",
+            "La Ley de Pesca",
+            "La Ley de Contrato de Trabajo",
+            "La Ley de Tránsito"
           ],
           "answerIndex": 2,
           "explanation": "La Ley de Contrato de Trabajo (LCT).",
@@ -11644,10 +11648,10 @@
         {
           "prompt": "Traduce: \"The registered employee receives monthly salary slips, health insurance coverage, and semi-annual aguinaldo payments.\"",
           "options": [
-            "El trabajador no cobra sueldo. (El mercado laboral argentino Bumeran)",
-            "El empleado registrado recibe recibos de sueldo mensuales, cobertura de obra social y pagos semestrales de aguinaldo. (El mercado laboral argentino Bumeran)",
-            "No existe el aguinaldo en Argentina. (El mercado laboral argentino Bumeran)",
-            "El empleo no tiene aportes jubilatorios. (El mercado laboral argentino Bumeran)"
+            "El trabajador no cobra sueldo.",
+            "El empleado registrado recibe recibos de sueldo mensuales, cobertura de obra social y pagos semestrales de aguinaldo.",
+            "No existe el aguinaldo en Argentina.",
+            "El empleo no tiene aportes jubilatorios."
           ],
           "answerIndex": 1,
           "explanation": "Accurate employment contract translation.",
@@ -11684,10 +11688,10 @@
         {
           "prompt": "¿Qué clásica factura de panadería argentina se suele llevar a la oficina para compartir con café entre compañeros?",
           "options": [
-            "Medialunas (Cultura de oficina en Argentina)",
-            "Caramelos duros (Cultura de oficina en Argentina)",
-            "Papas fritas en bolsa (Cultura de oficina en Argentina)",
-            "Sopa fría (Cultura de oficina en Argentina)"
+            "Medialunas",
+            "Caramelos duros",
+            "Papas fritas en bolsa",
+            "Sopa fría"
           ],
           "answerIndex": 0,
           "explanation": "Medialunas."
@@ -11699,10 +11703,10 @@
         {
           "prompt": "¿Cómo se le llama a la salida social en cervecerías o bares con los compañeros de trabajo al finalizar la jornada laboral?",
           "options": [
-            "El after office (Cultura de oficina en Argentina)",
-            "La guardia médica (Cultura de oficina en Argentina)",
-            "La reunión de directorio (Cultura de oficina en Argentina)",
-            "El examen final (Cultura de oficina en Argentina)"
+            "El after office",
+            "La guardia médica",
+            "La reunión de directorio",
+            "El examen final"
           ],
           "answerIndex": 0,
           "explanation": "El after office."
@@ -11714,10 +11718,10 @@
         {
           "prompt": "¿Cómo es el trato interpersonal y el saludo habitual en la mayoría de los ambientes de trabajo en Argentina?",
           "options": [
-            "Extremadamente frío y distante (Cultura de oficina en Argentina)",
-            "Cálido, horizontal por el nombre de pila y saludo cordial con beso en la mejilla o apretón de manos (Cultura de oficina en Argentina)",
-            "Sin hablarse entre compañeros (Cultura de oficina en Argentina)",
-            "Solo por números de legajo (Cultura de oficina en Argentina)"
+            "Extremadamente frío y distante",
+            "Cálido, horizontal por el nombre de pila y saludo cordial con beso en la mejilla o apretón de manos",
+            "Sin hablarse entre compañeros",
+            "Solo por números de legajo"
           ],
           "answerIndex": 1,
           "explanation": "Cálido, horizontal y cordial.",
@@ -11726,10 +11730,10 @@
         {
           "prompt": "Traduce: \"Sharing breakfast croissants and attending after-office social gatherings strengthens team camaraderie and mutual trust.\"",
           "options": [
-            "Compartir medialunas en el desayuno y asistir a los after office fortalece la camaradería del equipo y la confianza mutua. (Cultura de oficina en Argentina)",
-            "Los compañeros de trabajo no deben hablarse. (Cultura de oficina en Argentina)",
-            "No se permite desayunar en la empresa. (Cultura de oficina en Argentina)",
-            "Las reuniones sociales de oficina están prohibidas. (Cultura de oficina en Argentina)"
+            "Compartir medialunas en el desayuno y asistir a los after office fortalece la camaradería del equipo y la confianza mutua.",
+            "Los compañeros de trabajo no deben hablarse.",
+            "No se permite desayunar en la empresa.",
+            "Las reuniones sociales de oficina están prohibidas."
           ],
           "answerIndex": 0,
           "explanation": "Accurate workplace culture translation.",
@@ -11766,10 +11770,10 @@
         {
           "prompt": "¿Cuántos días corridos de vacaciones anuales pagadas le corresponden a un trabajador con hasta 5 años de antigüedad en Argentina?",
           "options": [
-            "2 días (Derechos laborales en Argentina)",
-            "14 días corridos (Derechos laborales en Argentina)",
-            "5 días (Derechos laborales en Argentina)",
-            "60 días (Derechos laborales en Argentina)"
+            "2 días",
+            "14 días corridos",
+            "5 días",
+            "60 días"
           ],
           "answerIndex": 1,
           "explanation": "14 días corridos."
@@ -11781,10 +11785,10 @@
         {
           "prompt": "¿Qué licencia laboral especial remunerada ampara a los trabajadores que rinden materias en la universidad en Argentina?",
           "options": [
-            "Licencia por examen (Derechos laborales en Argentina)",
-            "Permiso de compras (Derechos laborales en Argentina)",
-            "Licencia de pesca (Derechos laborales en Argentina)",
-            "Licencia de conducir (Derechos laborales en Argentina)"
+            "Licencia por examen",
+            "Permiso de compras",
+            "Licencia de pesca",
+            "Licencia de conducir"
           ],
           "answerIndex": 0,
           "explanation": "Licencia por examen."
@@ -11796,10 +11800,10 @@
         {
           "prompt": "¿Cómo se calcula la indemnización básica por despido incausado según el Artículo 245 de la Ley de Contrato de Trabajo?",
           "options": [
-            "Un mes de sueldo por cada año de antigüedad trabajado (Derechos laborales en Argentina)",
-            "Cero pesos (Derechos laborales en Argentina)",
-            "Diez centavos (Derechos laborales en Argentina)",
-            "Un sueldo fijo para todos (Derechos laborales en Argentina)"
+            "Un mes de sueldo por cada año de antigüedad trabajado",
+            "Cero pesos",
+            "Diez centavos",
+            "Un sueldo fijo para todos"
           ],
           "answerIndex": 0,
           "explanation": "Un mes de sueldo por año de antigüedad.",
@@ -11808,10 +11812,10 @@
         {
           "prompt": "Traduce: \"Working university students are entitled by law to paid study leave days to prepare and sit for final academic exams.\"",
           "options": [
-            "Las vacaciones no son remuneradas. (Derechos laborales en Argentina)",
-            "Los trabajadores no pueden estudiar en la universidad. (Derechos laborales en Argentina)",
-            "El despido no genera indemnización. (Derechos laborales en Argentina)",
-            "Los estudiantes universitarios que trabajan tienen derecho por ley a días de licencia paga por estudio para rendir exámenes finales. (Derechos laborales en Argentina)"
+            "Las vacaciones no son remuneradas.",
+            "Los trabajadores no pueden estudiar en la universidad.",
+            "El despido no genera indemnización.",
+            "Los estudiantes universitarios que trabajan tienen derecho por ley a días de licencia paga por estudio para rendir exámenes finales."
           ],
           "answerIndex": 3,
           "explanation": "Accurate labor rights translation.",
@@ -11848,10 +11852,10 @@
         {
           "prompt": "¿Cuál es la empresa tecnológica de comercio electrónico y pagos digitales más valiosa de América Latina, nacida en Argentina?",
           "options": [
-            "MySpace (Los unicornios tecnolgicos de Argentina)",
-            "Mercado Libre (Los unicornios tecnolgicos de Argentina)",
-            "AOL (Los unicornios tecnolgicos de Argentina)",
-            "Yahoo (Los unicornios tecnolgicos de Argentina)"
+            "MySpace",
+            "Mercado Libre",
+            "AOL",
+            "Yahoo"
           ],
           "answerIndex": 1,
           "explanation": "Mercado Libre."
@@ -11863,10 +11867,10 @@
         {
           "prompt": "¿Qué empresa multinacional argentina de software e ingeniería de IA desarrolla soluciones para clientes globales como Disney y Google?",
           "options": [
-            "Correo Argentino (Los unicornios tecnolgicos de Argentina)",
-            "Globant (Los unicornios tecnolgicos de Argentina)",
-            "Ferrocarriles (Los unicornios tecnolgicos de Argentina)",
-            "Aerolíneas Argentinas (Los unicornios tecnolgicos de Argentina)"
+            "Correo Argentino",
+            "Globant",
+            "Ferrocarriles",
+            "Aerolíneas Argentinas"
           ],
           "answerIndex": 1,
           "explanation": "Globant."
@@ -11878,10 +11882,10 @@
         {
           "prompt": "¿Qué prestigiosas universidades públicas y técnicas argentinas forman a los ingenieros de software líderes de la región?",
           "options": [
-            "Escuelas primarias únicamente (Los unicornios tecnolgicos de Argentina)",
-            "Colegios de arte exclusivamente (Los unicornios tecnolgicos de Argentina)",
-            "Academias de baile (Los unicornios tecnolgicos de Argentina)",
-            "La UBA (Universidad de Buenos Aires)"
+            "Escuelas primarias únicamente",
+            "Colegios de arte exclusivamente",
+            "Academias de baile",
+            "La UBA"
           ],
           "answerIndex": 3,
           "explanation": "UBA, UTN e ITBA.",
@@ -11890,10 +11894,10 @@
         {
           "prompt": "Traduce: \"High-caliber engineering talent and entrepreneurial resilience have established Argentina as a premier global software exporter.\"",
           "options": [
-            "Argentina no produce software. (Los unicornios tecnolgicos de Argentina)",
-            "Las empresas tecnológicas no contratan desarrolladores argentinos. (Los unicornios tecnolgicos de Argentina)",
-            "El talento de ingeniería de alto calibre y la resiliencia emprendedora han consolidado a Argentina como un exportador de software líder a nivel mundial. (Los unicornios tecnolgicos de Argentina)",
-            "Mercado Libre cerró sus operaciones. (Los unicornios tecnolgicos de Argentina)"
+            "Argentina no produce software.",
+            "Las empresas tecnológicas no contratan desarrolladores argentinos.",
+            "El talento de ingeniería de alto calibre y la resiliencia emprendedora han consolidado a Argentina como un exportador de software líder a nivel mundial.",
+            "Mercado Libre cerró sus operaciones."
           ],
           "answerIndex": 2,
           "explanation": "Accurate tech ecosystem translation.",
@@ -11930,10 +11934,10 @@
         {
           "prompt": "¿Qué prestigiosa empresa tecnológica argentina con sede en Bariloche construye satélites espaciales y reactores nucleares de investigación?",
           "options": [
-            "INVAP (Ciencia e industria espacial de vanguardia)",
-            "YPF únicamente (Ciencia e industria espacial de vanguardia)",
-            "AySA (Ciencia e industria espacial de vanguardia)",
-            "Aerolíneas (Ciencia e industria espacial de vanguardia)"
+            "INVAP",
+            "YPF únicamente",
+            "AySA",
+            "Aerolíneas"
           ],
           "answerIndex": 0,
           "explanation": "INVAP."
@@ -11945,10 +11949,10 @@
         {
           "prompt": "¿Cómo se llama la serie de satélites argentinos de observación de la Tierra con radar de apertura sintética construidos por INVAP y CONAE?",
           "options": [
-            "Sputnik 1 (Ciencia e industria espacial de vanguardia)",
-            "Apollo 11 (Ciencia e industria espacial de vanguardia)",
-            "Voyager (Ciencia e industria espacial de vanguardia)",
-            "Satélites SAOCOM (Ciencia e industria espacial de vanguardia)"
+            "Sputnik 1",
+            "Apollo 11",
+            "Voyager",
+            "Satélites SAOCOM"
           ],
           "answerIndex": 3,
           "explanation": "Satélites SAOCOM."
@@ -11960,10 +11964,10 @@
         {
           "prompt": "¿A qué países avanzados ha exportado Argentina reactores nucleares de investigación y producción de radioisótopos medicinales construidos por INVAP?",
           "options": [
-            "A bases de investigación submarina (Ciencia e industria espacial de vanguardia)",
-            "A ningún país (Ciencia e industria espacial de vanguardia)",
+            "A bases de investigación submarina",
+            "A ningún país",
             "Australia (reactor OPAL)",
-            "Solo a una pequeña isla desierta (Ciencia e industria espacial de vanguardia)"
+            "Solo a una pequeña isla desierta"
           ],
           "answerIndex": 2,
           "explanation": "Australia, Países Bajos, Argelia y Egipto.",
@@ -11972,10 +11976,10 @@
         {
           "prompt": "Traduce: \"Pioneering satellite radar technology and nuclear research reactors demonstrate Argentina's sovereign scientific excellence.\"",
           "options": [
-            "Argentina no tiene satélites en el espacio. (Ciencia e industria espacial de vanguardia)",
-            "La tecnología satelital de radar pionera y los reactores de investigación nuclear demuestran la excelencia científica soberana de Argentina. (Ciencia e industria espacial de vanguardia)",
-            "La tecnología aeroespacial no existe en el país. (Ciencia e industria espacial de vanguardia)",
-            "INVAP no fabrica reactores. (Ciencia e industria espacial de vanguardia)"
+            "Argentina no tiene satélites en el espacio.",
+            "La tecnología satelital de radar pionera y los reactores de investigación nuclear demuestran la excelencia científica soberana de Argentina.",
+            "La tecnología aeroespacial no existe en el país.",
+            "INVAP no fabrica reactores."
           ],
           "answerIndex": 1,
           "explanation": "Accurate high-tech industry translation.",
@@ -12012,10 +12016,10 @@
         {
           "prompt": "Which famous advancing glacier in Santa Cruz, Argentina is celebrated for its spectacular periodic ruptures into Lago Argentino?",
           "options": [
-            "Glaciar Upsala (Argentine geography and UNESCO World Natural Heritage)",
-            "Aconcagua (Argentine geography and UNESCO World Natural Heritage)",
-            "Glaciar Viedma (Argentine geography and UNESCO World Natural Heritage)",
-            "Glaciar Perito Moreno (Argentine geography and UNESCO World Natural Heritage)"
+            "Glaciar Upsala",
+            "Aconcagua",
+            "Glaciar Viedma",
+            "Glaciar Perito Moreno"
           ],
           "answerIndex": 3,
           "explanation": "Glaciar Perito Moreno."
@@ -12027,10 +12031,10 @@
         {
           "prompt": "What is the largest and most thunderous waterfall in Iguazú National Park on the Argentine border?",
           "options": [
-            "Salto Ángel (Argentine geography and UNESCO World Natural Heritage)",
-            "Niagara Falls (Argentine geography and UNESCO World Natural Heritage)",
-            "Victoria Falls (Argentine geography and UNESCO World Natural Heritage)",
-            "La Garganta del Diablo (Argentine geography and UNESCO World Natural Heritage)"
+            "Salto Ángel",
+            "Niagara Falls",
+            "Victoria Falls",
+            "La Garganta del Diablo"
           ],
           "answerIndex": 3,
           "explanation": "La Garganta del Diablo."
@@ -12042,10 +12046,10 @@
         {
           "prompt": "Translate: \"Península Valdés in Argentine Patagonia is a protected UNESCO sanctuary for the breeding of Southern right whales and marine biodiversity.\"",
           "options": [
-            "En la Patagonia no viven animales marinos. (Argentine geography and UNESCO World Natural Heritage)",
-            "La Península Valdés en la Patagonia argentina es un santuario protegido por la UNESCO para la reproducción de la ballena franca austral y la biodiversidad marina. (Argentine geography and UNESCO World Natural Heritage)",
-            "Iguazú es un desierto árido sin agua. (Argentine geography and UNESCO World Natural Heritage)",
-            "Los glaciares están todos extintos. (Argentine geography and UNESCO World Natural Heritage)"
+            "En la Patagonia no viven animales marinos.",
+            "La Península Valdés en la Patagonia argentina es un santuario protegido por la UNESCO para la reproducción de la ballena franca austral y la biodiversidad marina.",
+            "Iguazú es un desierto árido sin agua.",
+            "Los glaciares están todos extintos."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Patagonian geography translation.",
@@ -12054,10 +12058,10 @@
         {
           "prompt": "What is the highest mountain peak in the Western and Southern Hemispheres, located in the Argentine Andes of Mendoza?",
           "options": [
-            "El Cerro Aconcagua (Argentine geography and UNESCO World Natural Heritage)",
-            "Fitz Roy (Argentine geography and UNESCO World Natural Heritage)",
-            "Cerro Torre (Argentine geography and UNESCO World Natural Heritage)",
-            "Lanín (Argentine geography and UNESCO World Natural Heritage)"
+            "El Cerro Aconcagua",
+            "Fitz Roy",
+            "Cerro Torre",
+            "Lanín"
           ],
           "answerIndex": 0,
           "explanation": "El Cerro Aconcagua.",
@@ -12094,10 +12098,10 @@
         {
           "prompt": "Why is Argentine Patagonia globally renowned as one of the best locations on Earth for wind energy generation?",
           "options": [
-            "It has exceptionally powerful and constant westerly winds with capacity factors above 50% (Wind energy in Patagonia)",
-            "It is underground (Wind energy in Patagonia)",
-            "It has no wind at all (Wind energy in Patagonia)",
-            "It only has nuclear power (Wind energy in Patagonia)"
+            "It has exceptionally powerful and constant westerly winds with capacity factors above 50%",
+            "It is underground",
+            "It has no wind at all",
+            "It only has nuclear power"
           ],
           "answerIndex": 0,
           "explanation": "Powerful, constant westerly winds."
@@ -12109,10 +12113,10 @@
         {
           "prompt": "In which high-altitude northern Argentine region are the massive lithium brine salt flats located?",
           "options": [
-            "La Puna (Wind energy in Patagonia)",
-            "La Pampa húmeda (Wind energy in Patagonia)",
-            "Tierra del Fuego (Wind energy in Patagonia)",
-            "Entre Ríos (Wind energy in Patagonia)"
+            "La Puna",
+            "La Pampa húmeda",
+            "Tierra del Fuego",
+            "Entre Ríos"
           ],
           "answerIndex": 0,
           "explanation": "La Puna."
@@ -12124,10 +12128,10 @@
         {
           "prompt": "Translate: \"Sustainable lithium extraction in the high-Andean salt flats is essential to manufacture next-generation energy storage and electric vehicle batteries.\"",
           "options": [
-            "La extracción sustentable de litio en los salares altoandinos es esencial para fabricar baterías de almacenamiento energético y vehículos eléctricos de última generación. (Wind energy in Patagonia)",
-            "En los Andes no hay minerales. (Wind energy in Patagonia)",
-            "La energía eólica no funciona en Argentina. (Wind energy in Patagonia)",
-            "El litio no sirve para fabricar baterías. (Wind energy in Patagonia)"
+            "La extracción sustentable de litio en los salares altoandinos es esencial para fabricar baterías de almacenamiento energético y vehículos eléctricos de última generación.",
+            "En los Andes no hay minerales.",
+            "La energía eólica no funciona en Argentina.",
+            "El litio no sirve para fabricar baterías."
           ],
           "answerIndex": 0,
           "explanation": "Accurate energy transition translation.",
@@ -12136,10 +12140,10 @@
         {
           "prompt": "Which major binational hydroelectric dam on the Paraná River supplies substantial renewable electricity to Argentina and Paraguay?",
           "options": [
-            "Itaipú (Wind energy in Patagonia)",
-            "Guri (Wind energy in Patagonia)",
-            "Hoover Dam (Wind energy in Patagonia)",
-            "Yacyretá (Wind energy in Patagonia)"
+            "Itaipú",
+            "Guri",
+            "Hoover Dam",
+            "Yacyretá"
           ],
           "answerIndex": 3,
           "explanation": "Yacyretá.",
@@ -12176,10 +12180,10 @@
         {
           "prompt": "Which apex predator was successfully reintroduced into the Esteros del Iberá after 70 years of local extinction?",
           "options": [
-            "El león africano (Wetland conservation)",
-            "El yaguareté (Wetland conservation)",
-            "El oso polar (Wetland conservation)",
-            "El lobo gris (Wetland conservation)"
+            "El león africano",
+            "El yaguareté",
+            "El oso polar",
+            "El lobo gris"
           ],
           "answerIndex": 1,
           "explanation": "El yaguareté (Jaguar)."
@@ -12191,10 +12195,10 @@
         {
           "prompt": "What does the Guaraní name \"Iberá\" (*Y berá*) mean in English?",
           "options": [
-            "Bright waters / Shining waters (Wetland conservation)",
-            "Red river (Wetland conservation)",
-            "Dry desert (Wetland conservation)",
-            "Dark mountain (Wetland conservation)"
+            "Bright waters / Shining waters",
+            "Red river",
+            "Dry desert",
+            "Dark mountain"
           ],
           "answerIndex": 0,
           "explanation": "Bright waters / Shining waters."
@@ -12206,10 +12210,10 @@
         {
           "prompt": "Translate: \"Rewilding the Esteros del Iberá transforms local communities from hunting into leading sustainable ecotourism guardians.\"",
           "options": [
-            "El yaguareté es una especie invasora. (Wetland conservation)",
-            "El ecoturismo no genera empleo. (Wetland conservation)",
-            "Los humedales del Iberá fueron destruidos. (Wetland conservation)",
-            "El rewilding en los Esteros del Iberá transforma a las comunidades locales de la caza furtiva en líderes y guardianes del ecoturismo sustentable. (Wetland conservation)"
+            "El yaguareté es una especie invasora.",
+            "El ecoturismo no genera empleo.",
+            "Los humedales del Iberá fueron destruidos.",
+            "El rewilding en los Esteros del Iberá transforma a las comunidades locales de la caza furtiva en líderes y guardianes del ecoturismo sustentable."
           ],
           "answerIndex": 3,
           "explanation": "Accurate rewilding translation.",
@@ -12218,10 +12222,10 @@
         {
           "prompt": "In which Argentine province is the vast wetland ecosystem of Esteros del Iberá located?",
           "options": [
-            "Mendoza (Wetland conservation)",
-            "La Pampa (Wetland conservation)",
-            "Corrientes (Wetland conservation)",
-            "Neuquén (Wetland conservation)"
+            "Mendoza",
+            "La Pampa",
+            "Corrientes",
+            "Neuquén"
           ],
           "answerIndex": 2,
           "explanation": "Corrientes.",
@@ -12258,10 +12262,10 @@
         {
           "prompt": "What agricultural soil conservation practice is used on over 90% of Argentine croplands to eliminate plowing and prevent erosion?",
           "options": [
-            "La quema de pastizales (Regenerative agriculture in the Pampas)",
-            "La siembra directa (Regenerative agriculture in the Pampas)",
-            "La deforestación total (Regenerative agriculture in the Pampas)",
-            "El arado profundo intensivo (Regenerative agriculture in the Pampas)"
+            "La quema de pastizales",
+            "La siembra directa",
+            "La deforestación total",
+            "El arado profundo intensivo"
           ],
           "answerIndex": 1,
           "explanation": "La siembra directa (No-till)."
@@ -12273,10 +12277,10 @@
         {
           "prompt": "Which Argentine pioneer organization leads the research and adoption of sustainable no-till agriculture?",
           "options": [
-            "FIFA (Regenerative agriculture in the Pampas)",
-            "AAPRESID (Regenerative agriculture in the Pampas)",
-            "UNESCO (Regenerative agriculture in the Pampas)",
-            "NASA (Regenerative agriculture in the Pampas)"
+            "FIFA",
+            "AAPRESID",
+            "UNESCO",
+            "NASA"
           ],
           "answerIndex": 1,
           "explanation": "AAPRESID."
@@ -12288,10 +12292,10 @@
         {
           "prompt": "Translate: \"Cover crops naturally fix atmospheric nitrogen and build organic soil matter, reducing chemical fertilizer dependency.\"",
           "options": [
-            "La agricultura no puede ser sustentable. (Regenerative agriculture in the Pampas)",
-            "El suelo no contiene microorganismos. (Regenerative agriculture in the Pampas)",
-            "Los cultivos de cobertura fijan nitrógeno atmosférico de forma natural y construyen materia orgánica en el suelo, reduciendo la dependencia de fertilizantes químicos. (Regenerative agriculture in the Pampas)",
-            "Los cultivos de cobertura agotan el suelo. (Regenerative agriculture in the Pampas)"
+            "La agricultura no puede ser sustentable.",
+            "El suelo no contiene microorganismos.",
+            "Los cultivos de cobertura fijan nitrógeno atmosférico de forma natural y construyen materia orgánica en el suelo, reduciendo la dependencia de fertilizantes químicos.",
+            "Los cultivos de cobertura agotan el suelo."
           ],
           "answerIndex": 2,
           "explanation": "Accurate regenerative agriculture translation.",
@@ -12300,10 +12304,10 @@
         {
           "prompt": "What type of nutrient-rich soil characterizes the extraordinarily fertile agricultural plains of the Argentine Pampas?",
           "options": [
-            "Arcilla impermeable (Regenerative agriculture in the Pampas)",
-            "Mollisoles (Regenerative agriculture in the Pampas)",
-            "Arena desértica (Regenerative agriculture in the Pampas)",
-            "Ceniza volcánica ácida (Regenerative agriculture in the Pampas)"
+            "Arcilla impermeable",
+            "Mollisoles",
+            "Arena desértica",
+            "Ceniza volcánica ácida"
           ],
           "answerIndex": 1,
           "explanation": "Mollisoles.",
@@ -12422,10 +12426,10 @@
         {
           "prompt": "Which legendary Argentine cardiac surgeon revolutionized cardiovascular medicine by standardizing coronary artery bypass graft surgery in 1967?",
           "options": [
-            "Dr. Christian Barnard (Argentine medical pioneers)",
-            "Dr. Jonas Salk (Argentine medical pioneers)",
-            "Dr. Alexander Fleming (Argentine medical pioneers)",
-            "Dr. René Favaloro (Argentine medical pioneers)"
+            "Dr. Christian Barnard",
+            "Dr. Jonas Salk",
+            "Dr. Alexander Fleming",
+            "Dr. René Favaloro"
           ],
           "answerIndex": 3,
           "explanation": "Dr. René Favaloro."
@@ -12437,10 +12441,10 @@
         {
           "prompt": "What premier hospital and university institute in Buenos Aires was founded by Dr. Favaloro for medical research and heart transplants?",
           "options": [
-            "Hospital Garrahan (Argentine medical pioneers)",
-            "Hospital Rivadavia (Argentine medical pioneers)",
-            "Fundación Favaloro (Argentine medical pioneers)",
-            "Hospital Fernández (Argentine medical pioneers)"
+            "Hospital Garrahan",
+            "Hospital Rivadavia",
+            "Fundación Favaloro",
+            "Hospital Fernández"
           ],
           "answerIndex": 2,
           "explanation": "Fundación Favaloro."
@@ -12452,10 +12456,10 @@
         {
           "prompt": "Translate: \"Coronary artery bypass grafting reroutes blood around clogged arteries to restore oxygenated blood flow to ischemic heart muscle.\"",
           "options": [
-            "El bypass aortocoronario redirige la sangre alrededor de arterias obstruidas para restaurar el flujo de sangre oxigenada al músculo cardíaco isquémico. (Argentine medical pioneers)",
-            "El bypass es un medicamento oral. (Argentine medical pioneers)",
-            "Las enfermedades cardíacas no tienen tratamiento. (Argentine medical pioneers)",
-            "La Fundación Favaloro cerró en el siglo XIX. (Argentine medical pioneers)"
+            "El bypass aortocoronario redirige la sangre alrededor de arterias obstruidas para restaurar el flujo de sangre oxigenada al músculo cardíaco isquémico.",
+            "El bypass es un medicamento oral.",
+            "Las enfermedades cardíacas no tienen tratamiento.",
+            "La Fundación Favaloro cerró en el siglo XIX."
           ],
           "answerIndex": 0,
           "explanation": "Accurate cardiology translation.",
@@ -12464,10 +12468,10 @@
         {
           "prompt": "In which Argentine rural town did Dr. Favaloro practice medicine for 12 years before pioneering bypass surgery in the US?",
           "options": [
-            "Mar del Plata (Argentine medical pioneers)",
-            "San Isidro (Argentine medical pioneers)",
-            "Bariloche (Argentine medical pioneers)",
-            "Jacinto Aráuz (Argentine medical pioneers)"
+            "Mar del Plata",
+            "San Isidro",
+            "Bariloche",
+            "Jacinto Aráuz"
           ],
           "answerIndex": 3,
           "explanation": "Jacinto Aráuz (La Pampa).",
@@ -12504,10 +12508,10 @@
         {
           "prompt": "Which Argentine scientist won the 1984 Nobel Prize in Medicine for developing monoclonal antibody hybridoma technology without patenting it?",
           "options": [
-            "César Milstein (Argentinas Nobel Laureates in Science)",
-            "René Favaloro (Argentinas Nobel Laureates in Science)",
-            "Bernardo Houssay (Argentinas Nobel Laureates in Science)",
-            "Luis Federico Leloir (Argentinas Nobel Laureates in Science)"
+            "César Milstein",
+            "René Favaloro",
+            "Bernardo Houssay",
+            "Luis Federico Leloir"
           ],
           "answerIndex": 0,
           "explanation": "César Milstein."
@@ -12519,10 +12523,10 @@
         {
           "prompt": "Who was the first Latin American scientist to win the Nobel Prize in Medicine (1947) for discoveries on the pituitary gland and glucose metabolism?",
           "options": [
-            "Bernardo Houssay (Argentinas Nobel Laureates in Science)",
-            "Gabriel García Márquez (Argentinas Nobel Laureates in Science)",
-            "Carlos Saavedra Lamas (Argentinas Nobel Laureates in Science)",
-            "Adolfo Pérez Esquivel (Argentinas Nobel Laureates in Science)"
+            "Bernardo Houssay",
+            "Gabriel García Márquez",
+            "Carlos Saavedra Lamas",
+            "Adolfo Pérez Esquivel"
           ],
           "answerIndex": 0,
           "explanation": "Bernardo Houssay."
@@ -12534,10 +12538,10 @@
         {
           "prompt": "Translate: \"Monoclonal antibodies developed by César Milstein recognize specific antigens on cancer cells, revolutionizing modern targeted immunotherapy.\"",
           "options": [
-            "Los anticuerpos monoclonales son tóxicos e inútiles. (Argentinas Nobel Laureates in Science)",
-            "Argentina nunca ha ganado un Premio Nobel de ciencias. (Argentinas Nobel Laureates in Science)",
-            "Leloir descubrió la penicilina. (Argentinas Nobel Laureates in Science)",
-            "Los anticuerpos monoclonales desarrollados por César Milstein reconocen antígenos específicos en células cancerosas, revolucionando la inmunoterapia dirigida moderna. (Argentinas Nobel Laureates in Science)"
+            "Los anticuerpos monoclonales son tóxicos e inútiles.",
+            "Argentina nunca ha ganado un Premio Nobel de ciencias.",
+            "Leloir descubrió la penicilina.",
+            "Los anticuerpos monoclonales desarrollados por César Milstein reconocen antígenos específicos en células cancerosas, revolucionando la inmunoterapia dirigida moderna."
           ],
           "answerIndex": 3,
           "explanation": "Accurate biochemistry translation.",
@@ -12546,10 +12550,10 @@
         {
           "prompt": "What premier national scientific research agency in Argentina was founded by Nobel laureate Bernardo Houssay in 1958?",
           "options": [
-            "INTA (Argentinas Nobel Laureates in Science)",
-            "CNEA (Argentinas Nobel Laureates in Science)",
-            "CONICET (Argentinas Nobel Laureates in Science)",
-            "ANMAT (Argentinas Nobel Laureates in Science)"
+            "INTA",
+            "CNEA",
+            "CONICET",
+            "ANMAT"
           ],
           "answerIndex": 2,
           "explanation": "CONICET.",
@@ -12586,10 +12590,10 @@
         {
           "prompt": "What landmark 2018 Argentine legislation established presumed universal organ donor consent for all capable adults?",
           "options": [
-            "La Ley Justina (Pediatric medicine)",
-            "La Ley de Alquileres (Pediatric medicine)",
-            "La Ley Sáenz Peña (Pediatric medicine)",
-            "La Ley de Convertibilidad (Pediatric medicine)"
+            "La Ley Justina",
+            "La Ley de Alquileres",
+            "La Ley Sáenz Peña",
+            "La Ley de Convertibilidad"
           ],
           "answerIndex": 0,
           "explanation": "La Ley Justina."
@@ -12601,10 +12605,10 @@
         {
           "prompt": "Which public pediatric hospital in Buenos Aires is recognized across Latin America for excellence in complex child surgeries and organ transplants?",
           "options": [
-            "Hospital Garrahan (Pediatric medicine)",
-            "Sanatorio Otamendi (Pediatric medicine)",
-            "Hospital Argerich (Pediatric medicine)",
-            "Hospital Italiano (Pediatric medicine)"
+            "Hospital Garrahan",
+            "Sanatorio Otamendi",
+            "Hospital Argerich",
+            "Hospital Italiano"
           ],
           "answerIndex": 0,
           "explanation": "Hospital Garrahan."
@@ -12616,10 +12620,10 @@
         {
           "prompt": "Translate: \"The national organ coordination agency INCUCAI matches donated organs with waiting list recipients based on clinical urgency and genetic compatibility.\"",
           "options": [
-            "La Ley Justina redujo los trasplantes. (Pediatric medicine)",
-            "El Hospital Garrahan es una clínica privada exclusiva. (Pediatric medicine)",
-            "El organismo nacional de procuración INCUCAI asigna los órganos donados a los pacientes en lista de espera según la urgencia clínica y la compatibilidad genética. (Pediatric medicine)",
-            "En Argentina está prohibido trasplantar órganos a niños. (Pediatric medicine)"
+            "La Ley Justina redujo los trasplantes.",
+            "El Hospital Garrahan es una clínica privada exclusiva.",
+            "El organismo nacional de procuración INCUCAI asigna los órganos donados a los pacientes en lista de espera según la urgencia clínica y la compatibilidad genética.",
+            "En Argentina está prohibido trasplantar órganos a niños."
           ],
           "answerIndex": 2,
           "explanation": "Accurate transplant law translation.",
@@ -12628,10 +12632,10 @@
         {
           "prompt": "What national state agency in Argentina regulates and coordinates all organ ablation, procurement, and transplantation procedures?",
           "options": [
-            "ANSES (Pediatric medicine)",
-            "INCUCAI (Pediatric medicine)",
-            "INDEC (Pediatric medicine)",
-            "AFIP (Pediatric medicine)"
+            "ANSES",
+            "INCUCAI",
+            "INDEC",
+            "AFIP"
           ],
           "answerIndex": 1,
           "explanation": "INCUCAI.",
@@ -12668,10 +12672,10 @@
         {
           "prompt": "Which world city has the highest concentration of psychologists and psychoanalysts per capita on Earth?",
           "options": [
-            "Tokio (Psychoanalysis culture in Buenos Aires)",
-            "Buenos Aires (Psychoanalysis culture in Buenos Aires)",
-            "Berlín (Psychoanalysis culture in Buenos Aires)",
-            "Londres (Psychoanalysis culture in Buenos Aires)"
+            "Tokio",
+            "Buenos Aires",
+            "Berlín",
+            "Londres"
           ],
           "answerIndex": 1,
           "explanation": "Buenos Aires (Argentina)."
@@ -12683,10 +12687,10 @@
         {
           "prompt": "What human rights principle is enshrined in Argentina's National Mental Health Law (Ley 26.657)?",
           "options": [
-            "Prohibition of psychological therapy (Psychoanalysis culture in Buenos Aires)",
-            "Deinstitutionalization (Psychoanalysis culture in Buenos Aires)",
-            "Mandatory electroshock therapy (Psychoanalysis culture in Buenos Aires)",
-            "Lifelong confinement in closed asylums (Psychoanalysis culture in Buenos Aires)"
+            "Prohibition of psychological therapy",
+            "Deinstitutionalization",
+            "Mandatory electroshock therapy",
+            "Lifelong confinement in closed asylums"
           ],
           "answerIndex": 1,
           "explanation": "Deinstitutionalization and community care."
@@ -12698,10 +12702,10 @@
         {
           "prompt": "Translate: \"Integrating mental healthcare into general community hospitals protects patients' civil liberties and eliminates historical institutional stigma.\"",
           "options": [
-            "La Ley de Salud Mental obliga al encierro indefinido. (Psychoanalysis culture in Buenos Aires)",
-            "Integrar la atención de salud mental en hospitales generales comunitarios protege los derechos civiles de los pacientes y elimina el estigma institucional histórico. (Psychoanalysis culture in Buenos Aires)",
-            "En Argentina nadie acude a terapia psicológica. (Psychoanalysis culture in Buenos Aires)",
-            "El psicoanálisis está prohibido en Buenos Aires. (Psychoanalysis culture in Buenos Aires)"
+            "La Ley de Salud Mental obliga al encierro indefinido.",
+            "Integrar la atención de salud mental en hospitales generales comunitarios protege los derechos civiles de los pacientes y elimina el estigma institucional histórico.",
+            "En Argentina nadie acude a terapia psicológica.",
+            "El psicoanálisis está prohibido en Buenos Aires."
           ],
           "answerIndex": 1,
           "explanation": "Accurate mental health translation.",
@@ -12710,10 +12714,10 @@
         {
           "prompt": "What colloquial nickname was given to the Palermo neighborhood in Buenos Aires due to its dense concentration of psychoanalysts and clinics?",
           "options": [
-            "Villa Freud (Psychoanalysis culture in Buenos Aires)",
-            "Barrio Norte (Psychoanalysis culture in Buenos Aires)",
-            "San Telmo (Psychoanalysis culture in Buenos Aires)",
-            "Palermo Soho (Psychoanalysis culture in Buenos Aires)"
+            "Villa Freud",
+            "Barrio Norte",
+            "San Telmo",
+            "Palermo Soho"
           ],
           "answerIndex": 0,
           "explanation": "Villa Freud.",
@@ -12832,10 +12836,10 @@
         {
           "prompt": "Which monumental Argentine author explored the metaphysics of infinite labyrinths, the Aleph, and philosophical idealism in Ficciones?",
           "options": [
-            "Julio Cortázar (Borgesian Metaphysics)",
-            "Ernesto Sabato (Borgesian Metaphysics)",
-            "Adolfo Bioy Casares (Borgesian Metaphysics)",
-            "Jorge Luis Borges (Borgesian Metaphysics)"
+            "Julio Cortázar",
+            "Ernesto Sabato",
+            "Adolfo Bioy Casares",
+            "Jorge Luis Borges"
           ],
           "answerIndex": 3,
           "explanation": "Jorge Luis Borges."
@@ -12847,10 +12851,10 @@
         {
           "prompt": "What short story by Borges depicts a single point in space that contains all places in the cosmos seen simultaneously from every angle?",
           "options": [
-            "El Sur (Borgesian Metaphysics)",
-            "Funes el memorioso (Borgesian Metaphysics)",
-            "El Aleph (Borgesian Metaphysics)",
-            "Tema del traidor y del héroe (Borgesian Metaphysics)"
+            "El Sur",
+            "Funes el memorioso",
+            "El Aleph",
+            "Tema del traidor y del héroe"
           ],
           "answerIndex": 2,
           "explanation": "El Aleph."
@@ -12862,10 +12866,10 @@
         {
           "prompt": "Translate: \"Borges' concept of a garden of forking paths prefigured quantum theories of parallel timelines and branching realities.\"",
           "options": [
-            "La biblioteca de Babel tiene solo diez libros. (Borgesian Metaphysics)",
-            "Borges escribió manuales de ingeniería civil. (Borgesian Metaphysics)",
-            "El Aleph es un libro sobre botánica. (Borgesian Metaphysics)",
-            "El concepto borgeano de un jardín de senderos que se bifurcan prefiguró las teorías cuánticas de líneas temporales paralelas y realidades ramificadas. (Borgesian Metaphysics)"
+            "La biblioteca de Babel tiene solo diez libros.",
+            "Borges escribió manuales de ingeniería civil.",
+            "El Aleph es un libro sobre botánica.",
+            "El concepto borgeano de un jardín de senderos que se bifurcan prefiguró las teorías cuánticas de líneas temporales paralelas y realidades ramificadas."
           ],
           "answerIndex": 3,
           "explanation": "Accurate literary metaphysics translation.",
@@ -12874,10 +12878,10 @@
         {
           "prompt": "What philosophical essay did Borges write proposing that time is an illusion constructed by human consciousness?",
           "options": [
-            "«Evaristo Carriego» (Borgesian Metaphysics)",
-            "«El informe de Brodie» (Borgesian Metaphysics)",
-            "«Nueva refutación del tiempo» (Borgesian Metaphysics)",
-            "«Historia universal de la infamia» (Borgesian Metaphysics)"
+            "«Evaristo Carriego»",
+            "«El informe de Brodie»",
+            "«Nueva refutación del tiempo»",
+            "«Historia universal de la infamia»"
           ],
           "answerIndex": 2,
           "explanation": "«Nueva refutación del tiempo».",
@@ -12914,10 +12918,10 @@
         {
           "prompt": "Which Argentine novelist wrote the existential psychological masterpiece «El túnel» (1948) depicting painter Juan Pablo Castel's obsession and solipsism?",
           "options": [
-            "Ernesto Sabato (Existential anguish and blind lucidity)",
-            "Leopoldo Marechal (Existential anguish and blind lucidity)",
-            "Jorge Luis Borges (Existential anguish and blind lucidity)",
-            "Manuel Puig (Existential anguish and blind lucidity)"
+            "Ernesto Sabato",
+            "Leopoldo Marechal",
+            "Jorge Luis Borges",
+            "Manuel Puig"
           ],
           "answerIndex": 0,
           "explanation": "Ernesto Sabato."
@@ -12929,10 +12933,10 @@
         {
           "prompt": "What revolutionary 1963 novel by Julio Cortázar invites the reader to choose between different reading sequences across 155 chapters?",
           "options": [
-            "Rayuela (Existential anguish and blind lucidity)",
-            "Cien años de soledad (Existential anguish and blind lucidity)",
-            "La ciudad y los perros (Existential anguish and blind lucidity)",
-            "Pedro Páramo (Existential anguish and blind lucidity)"
+            "Rayuela",
+            "Cien años de soledad",
+            "La ciudad y los perros",
+            "Pedro Páramo"
           ],
           "answerIndex": 0,
           "explanation": "Rayuela."
@@ -12944,10 +12948,10 @@
         {
           "prompt": "Translate: \"Rayuela deconstructs traditional linear narrative to engage the reader as an active collaborator in existential meaning-making.\"",
           "options": [
-            "Sabato fue un banquero comercial. (Existential anguish and blind lucidity)",
-            "El túnel es una novela humorística. (Existential anguish and blind lucidity)",
-            "Rayuela deconstruye la narrativa lineal tradicional para involucrar al lector como un colaborador activo en la creación de sentido existencial. (Existential anguish and blind lucidity)",
-            "Cortázar prohibió leer su libro en desorden. (Existential anguish and blind lucidity)"
+            "Sabato fue un banquero comercial.",
+            "El túnel es una novela humorística.",
+            "Rayuela deconstruye la narrativa lineal tradicional para involucrar al lector como un colaborador activo en la creación de sentido existencial.",
+            "Cortázar prohibió leer su libro en desorden."
           ],
           "answerIndex": 2,
           "explanation": "Accurate literary analysis translation.",
@@ -12956,10 +12960,10 @@
         {
           "prompt": "What landmark human rights report on state terrorism in Argentina was presided over and authored under the leadership of Ernesto Sabato in 1984?",
           "options": [
-            "La Carta Magna (Existential anguish and blind lucidity)",
-            "Nunca Más (Existential anguish and blind lucidity)",
-            "El Martín Fierro (Existential anguish and blind lucidity)",
-            "Facundo (Existential anguish and blind lucidity)"
+            "La Carta Magna",
+            "Nunca Más",
+            "El Martín Fierro",
+            "Facundo"
           ],
           "answerIndex": 1,
           "explanation": "Nunca Más.",
@@ -12996,10 +13000,10 @@
         {
           "prompt": "Which Argentine philosopher was the foundational co-creator of the Philosophy of Liberation (Filosofía de la Liberación)?",
           "options": [
-            "Enrique Dussel (Philosophy of Liberation)",
-            "Mario Bunge (Philosophy of Liberation)",
-            "Alejandro Korn (Philosophy of Liberation)",
-            "José Ingenieros (Philosophy of Liberation)"
+            "Enrique Dussel",
+            "Mario Bunge",
+            "Alejandro Korn",
+            "José Ingenieros"
           ],
           "answerIndex": 0,
           "explanation": "Enrique Dussel."
@@ -13011,10 +13015,10 @@
         {
           "prompt": "What philosophical concept in Dussel's thought places the suffering and dignity of the marginalized human at the center of justice?",
           "options": [
-            "La ética de la alteridad (Philosophy of Liberation)",
-            "El positivismo lógico (Philosophy of Liberation)",
-            "El solipsismo ontológico (Philosophy of Liberation)",
-            "El individualismo posesivo (Philosophy of Liberation)"
+            "La ética de la alteridad",
+            "El positivismo lógico",
+            "El solipsismo ontológico",
+            "El individualismo posesivo"
           ],
           "answerIndex": 0,
           "explanation": "La ética de la alteridad."
@@ -13026,10 +13030,10 @@
         {
           "prompt": "Translate: \"Decolonial philosophy deconstructs the universalist claims of Eurocentric modernity to build an inclusive pluriverse of global human wisdom.\"",
           "options": [
-            "Enrique Dussel defendió el colonialismo. (Philosophy of Liberation)",
-            "La filosofía decolonial deconstruye las pretensiones universalistas de la modernidad eurocéntrica para construir un pluriverso inclusivo de sabidurías humanas globales. (Philosophy of Liberation)",
-            "Dussel negó los derechos de los pueblos indígenas. (Philosophy of Liberation)",
-            "La Filosofía de la Liberación nació en Asia. (Philosophy of Liberation)"
+            "Enrique Dussel defendió el colonialismo.",
+            "La filosofía decolonial deconstruye las pretensiones universalistas de la modernidad eurocéntrica para construir un pluriverso inclusivo de sabidurías humanas globales.",
+            "Dussel negó los derechos de los pueblos indígenas.",
+            "La Filosofía de la Liberación nació en Asia."
           ],
           "answerIndex": 1,
           "explanation": "Accurate decolonial philosophy translation.",
@@ -13038,10 +13042,10 @@
         {
           "prompt": "What historical imperial formula did Dussel identify as the precursor to Descartes' *Ego Cogito* (I think, therefore I am)?",
           "options": [
-            "Ego Conquiro (Philosophy of Liberation)",
-            "Tabula Rasa (Philosophy of Liberation)",
-            "Deus Vult (Philosophy of Liberation)",
-            "Carpe Diem (Philosophy of Liberation)"
+            "Ego Conquiro",
+            "Tabula Rasa",
+            "Deus Vult",
+            "Carpe Diem"
           ],
           "answerIndex": 0,
           "explanation": "Ego Conquiro.",
@@ -13078,10 +13082,10 @@
         {
           "prompt": "Which Argentine philosopher of science authored the monumental 8-volume Treatise on Basic Philosophy defending systemic scientific realism?",
           "options": [
-            "Gregorio Klimovsky (Scientific Philosophy  Exact Epistemology)",
-            "Mario Bunge (Scientific Philosophy  Exact Epistemology)",
-            "Florentino Ameghino (Scientific Philosophy  Exact Epistemology)",
-            "Enrique Dussel (Scientific Philosophy  Exact Epistemology)"
+            "Gregorio Klimovsky",
+            "Mario Bunge",
+            "Florentino Ameghino",
+            "Enrique Dussel"
           ],
           "answerIndex": 1,
           "explanation": "Mario Bunge."
@@ -13093,10 +13097,10 @@
         {
           "prompt": "What ontology formulated by Mario Bunge posits that the entire universe is composed of interacting systems and emergent properties?",
           "options": [
-            "El vitalismo irracional (Scientific Philosophy  Exact Epistemology)",
-            "El realismo sistémico / Sistemismo (Scientific Philosophy  Exact Epistemology)",
-            "El posmodernismo relativista (Scientific Philosophy  Exact Epistemology)",
-            "El idealismo mágico (Scientific Philosophy  Exact Epistemology)"
+            "El vitalismo irracional",
+            "El realismo sistémico / Sistemismo",
+            "El posmodernismo relativista",
+            "El idealismo mágico"
           ],
           "answerIndex": 1,
           "explanation": "El realismo sistémico."
@@ -13108,10 +13112,10 @@
         {
           "prompt": "Translate: \"Emergent materialism asserts that consciousness is an emergent biological property of complex brain networks rather than a separate immaterial substance.\"",
           "options": [
-            "El materialismo emergente sostiene que la conciencia es una propiedad biológica emergente de redes cerebrales complejas y no una sustancia inmaterial separada. (Scientific Philosophy  Exact Epistemology)",
-            "El Tratado de Filosofía Básica es un libro de cuentos infantiles. (Scientific Philosophy  Exact Epistemology)",
-            "El sistemismo rechaza la física moderna. (Scientific Philosophy  Exact Epistemology)",
-            "Mario Bunge apoyó las pseudociencias. (Scientific Philosophy  Exact Epistemology)"
+            "El materialismo emergente sostiene que la conciencia es una propiedad biológica emergente de redes cerebrales complejas y no una sustancia inmaterial separada.",
+            "El Tratado de Filosofía Básica es un libro de cuentos infantiles.",
+            "El sistemismo rechaza la física moderna.",
+            "Mario Bunge apoyó las pseudociencias."
           ],
           "answerIndex": 0,
           "explanation": "Accurate philosophy of science translation.",
@@ -13120,10 +13124,10 @@
         {
           "prompt": "What four components constitute Bunge's foundational CESM model of systems analysis?",
           "options": [
-            "Tierra, Agua, Fuego y Aire (Scientific Philosophy  Exact Epistemology)",
-            "Sujeto, Objeto, Verbo y Predicado (Scientific Philosophy  Exact Epistemology)",
-            "Fuerza, Masa, Aceleración y Tiempo (Scientific Philosophy  Exact Epistemology)",
-            "Composición, Entorno, Estructura y Mecanismo (Scientific Philosophy  Exact Epistemology)"
+            "Tierra, Agua, Fuego y Aire",
+            "Sujeto, Objeto, Verbo y Predicado",
+            "Fuerza, Masa, Aceleración y Tiempo",
+            "Composición, Entorno, Estructura y Mecanismo"
           ],
           "answerIndex": 3,
           "explanation": "Composición, Entorno, Estructura y Mecanismo.",
@@ -13242,10 +13246,10 @@
         {
           "prompt": "Which Argentine painter and printmaker won the Grand Prize at the 1962 Venice Biennale for his monumental Juanito Laguna series?",
           "options": [
-            "Xul Solar (Social Realism  Narrative Collages)",
-            "Gyula Kosice (Social Realism  Narrative Collages)",
-            "Emilio Pettoruti (Social Realism  Narrative Collages)",
-            "Antonio Berni (Social Realism  Narrative Collages)"
+            "Xul Solar",
+            "Gyula Kosice",
+            "Emilio Pettoruti",
+            "Antonio Berni"
           ],
           "answerIndex": 3,
           "explanation": "Antonio Berni."
@@ -13257,10 +13261,10 @@
         {
           "prompt": "What printmaking and collage hybrid technique was invented by Berni incorporating discarded urban industrial garbage onto wood plates?",
           "options": [
-            "Acuarela tradicional (Social Realism  Narrative Collages)",
-            "Litografía plana (Social Realism  Narrative Collages)",
-            "Xilocollage-relieve (Social Realism  Narrative Collages)",
-            "Fotograbado simple (Social Realism  Narrative Collages)"
+            "Acuarela tradicional",
+            "Litografía plana",
+            "Xilocollage-relieve",
+            "Fotograbado simple"
           ],
           "answerIndex": 2,
           "explanation": "Xilocollage-relieve."
@@ -13272,10 +13276,10 @@
         {
           "prompt": "Translate: \"Berni utilized real waste materials from the shantytowns to give raw tactile authenticity to Juanito Laguna's world.\"",
           "options": [
-            "Juanito Laguna es un emperador romano ficticio. (Social Realism  Narrative Collages)",
-            "Berni pintó únicamente retratos de la aristocracia europea. (Social Realism  Narrative Collages)",
-            "Berni utilizó materiales de desecho reales de las villas miseria para otorgar una autenticidad táctil cruda al mundo de Juanito Laguna. (Social Realism  Narrative Collages)",
-            "El xilocollage prohíbe el uso de madera. (Social Realism  Narrative Collages)"
+            "Juanito Laguna es un emperador romano ficticio.",
+            "Berni pintó únicamente retratos de la aristocracia europea.",
+            "Berni utilizó materiales de desecho reales de las villas miseria para otorgar una autenticidad táctil cruda al mundo de Juanito Laguna.",
+            "El xilocollage prohíbe el uso de madera."
           ],
           "answerIndex": 2,
           "explanation": "Accurate art analysis translation.",
@@ -13284,10 +13288,10 @@
         {
           "prompt": "In which Argentine port city was Antonio Berni born before establishing his monumental studio in Buenos Aires?",
           "options": [
-            "Córdoba (Social Realism  Narrative Collages)",
-            "Rosario (Social Realism  Narrative Collages)",
-            "Mendoza (Social Realism  Narrative Collages)",
-            "Mar del Plata (Social Realism  Narrative Collages)"
+            "Córdoba",
+            "Rosario",
+            "Mendoza",
+            "Mar del Plata"
           ],
           "answerIndex": 1,
           "explanation": "Rosario (Santa Fe).",
@@ -13324,10 +13328,10 @@
         {
           "prompt": "Which visionary Argentine avant-garde artist and friend of Borges invented the Panlingua and Panajedrez while painting floating mystical cities?",
           "options": [
-            "Alejandro Xul Solar (Mystical AvantGarde  Universal Architecture)",
-            "Guillermo Kuitca (Mystical AvantGarde  Universal Architecture)",
-            "Antonio Berni (Mystical AvantGarde  Universal Architecture)",
-            "Quinquela Martín (Mystical AvantGarde  Universal Architecture)"
+            "Alejandro Xul Solar",
+            "Guillermo Kuitca",
+            "Antonio Berni",
+            "Quinquela Martín"
           ],
           "answerIndex": 0,
           "explanation": "Alejandro Xul Solar."
@@ -13339,10 +13343,10 @@
         {
           "prompt": "What modified 12x12 astrological and musical chess game was invented by Xul Solar as a tool for philosophical contemplation?",
           "options": [
-            "El Panajedrez (Mystical AvantGarde  Universal Architecture)",
-            "Ajedrez cuántico (Mystical AvantGarde  Universal Architecture)",
-            "Damas chinas (Mystical AvantGarde  Universal Architecture)",
-            "Go astronómico (Mystical AvantGarde  Universal Architecture)"
+            "El Panajedrez",
+            "Ajedrez cuántico",
+            "Damas chinas",
+            "Go astronómico"
           ],
           "answerIndex": 0,
           "explanation": "El Panajedrez."
@@ -13354,10 +13358,10 @@
         {
           "prompt": "Translate: \"Xul Solar's luminous watercolors portray architectural utopias of flying airships, ascending geometric staircases, and esoteric astral symbols.\"",
           "options": [
-            "Xul Solar fue un banquero que nunca pintó. (Mystical AvantGarde  Universal Architecture)",
-            "Las acuarelas luminosas de Xul Solar retratan utopías arquitectónicas de navíos voladores, escaleras geométricas ascendentes y símbolos astrales esotéricos. (Mystical AvantGarde  Universal Architecture)",
-            "Borges consideraba a Xul Solar un autor sin imaginación. (Mystical AvantGarde  Universal Architecture)",
-            "La Panlingua es un dialecto militar. (Mystical AvantGarde  Universal Architecture)"
+            "Xul Solar fue un banquero que nunca pintó.",
+            "Las acuarelas luminosas de Xul Solar retratan utopías arquitectónicas de navíos voladores, escaleras geométricas ascendentes y símbolos astrales esotéricos.",
+            "Borges consideraba a Xul Solar un autor sin imaginación.",
+            "La Panlingua es un dialecto militar."
           ],
           "answerIndex": 1,
           "explanation": "Accurate avant-garde analysis translation.",
@@ -13366,10 +13370,10 @@
         {
           "prompt": "What universal linguistic project did Xul Solar invent to facilitate seamless global communication based on pure mathematical roots?",
           "options": [
-            "La Panlingua (Mystical AvantGarde  Universal Architecture)",
-            "El Klingon (Mystical AvantGarde  Universal Architecture)",
-            "El Latín vulgar (Mystical AvantGarde  Universal Architecture)",
-            "El Esperanto tradicional (Mystical AvantGarde  Universal Architecture)"
+            "La Panlingua",
+            "El Klingon",
+            "El Latín vulgar",
+            "El Esperanto tradicional"
           ],
           "answerIndex": 0,
           "explanation": "La Panlingua.",
@@ -13406,10 +13410,10 @@
         {
           "prompt": "Which Argentine-Slovak avant-garde artist co-founded the Madí Movement in 1946 and designed the futuristic \"Hydrospatial City\"?",
           "options": [
-            "Gyula Kosice (Kinetic Art  The Hydrospatial City)",
-            "León Ferrari (Kinetic Art  The Hydrospatial City)",
-            "Tomás Maldonado (Kinetic Art  The Hydrospatial City)",
-            "Julio Le Parc (Kinetic Art  The Hydrospatial City)"
+            "Gyula Kosice",
+            "León Ferrari",
+            "Tomás Maldonado",
+            "Julio Le Parc"
           ],
           "answerIndex": 0,
           "explanation": "Gyula Kosice."
@@ -13421,10 +13425,10 @@
         {
           "prompt": "What historic artistic innovation did Gyula Kosice introduce in 1946 that was a world first in sculptural art?",
           "options": [
-            "First use of neon gas and hydraulic moving water in sculpture (Kinetic Art  The Hydrospatial City)",
-            "First bronze casting (Kinetic Art  The Hydrospatial City)",
-            "First use of oil on canvas (Kinetic Art  The Hydrospatial City)",
-            "First marble carving (Kinetic Art  The Hydrospatial City)"
+            "First use of neon gas and hydraulic moving water in sculpture",
+            "First bronze casting",
+            "First use of oil on canvas",
+            "First marble carving"
           ],
           "answerIndex": 0,
           "explanation": "First use of neon gas and moving water in sculpture."
@@ -13436,10 +13440,10 @@
         {
           "prompt": "Translate: \"The Hydrospatial City envisions modular suspended living spheres in orbit where humanity organizes life around creativity and scientific harmony.\"",
           "options": [
-            "La Ciudad Hidroespacial concibe esferas habitacionales modulares suspendidas en órbita donde la humanidad organiza la vida en torno a la creatividad y la armonía científica. (Kinetic Art  The Hydrospatial City)",
-            "Kosice rechazaba el uso de la tecnología en el arte. (Kinetic Art  The Hydrospatial City)",
-            "La Ciudad Hidroespacial es un submarino sumergido. (Kinetic Art  The Hydrospatial City)",
-            "El Arte Madí obligaba a usar marcos cuadrados tradicionales. (Kinetic Art  The Hydrospatial City)"
+            "La Ciudad Hidroespacial concibe esferas habitacionales modulares suspendidas en órbita donde la humanidad organiza la vida en torno a la creatividad y la armonía científica.",
+            "Kosice rechazaba el uso de la tecnología en el arte.",
+            "La Ciudad Hidroespacial es un submarino sumergido.",
+            "El Arte Madí obligaba a usar marcos cuadrados tradicionales."
           ],
           "answerIndex": 0,
           "explanation": "Accurate kinetic art analysis translation.",
@@ -13448,10 +13452,10 @@
         {
           "prompt": "What revolutionary break with traditional rectangular paintings was introduced by the Madí Movement in 1946?",
           "options": [
-            "El marco de oro barroco (Kinetic Art  The Hydrospatial City)",
-            "La pintura sobre vidrio negro (Kinetic Art  The Hydrospatial City)",
-            "El lienzo redondo exclusivo (Kinetic Art  The Hydrospatial City)",
-            "El marco recortado / marco irregular (Kinetic Art  The Hydrospatial City)"
+            "El marco de oro barroco",
+            "La pintura sobre vidrio negro",
+            "El lienzo redondo exclusivo",
+            "El marco recortado / marco irregular"
           ],
           "answerIndex": 3,
           "explanation": "El marco recortado.",
@@ -13488,10 +13492,10 @@
         {
           "prompt": "Which legendary Argentine architect and painter designed the iconic brutalist National Library and the Banco de Londres in Buenos Aires?",
           "options": [
-            "Amancio Williams (Brutalist Architecture  Monumental Heritage)",
-            "Clorindo Testa (Brutalist Architecture  Monumental Heritage)",
-            "Mario Roberto Álvarez (Brutalist Architecture  Monumental Heritage)",
-            "César Pelli (Brutalist Architecture  Monumental Heritage)"
+            "Amancio Williams",
+            "Clorindo Testa",
+            "Mario Roberto Álvarez",
+            "César Pelli"
           ],
           "answerIndex": 1,
           "explanation": "Clorindo Testa."
@@ -13503,10 +13507,10 @@
         {
           "prompt": "Why did Clorindo Testa elevate the main reading rooms of the National Library on towering concrete pillars above the ground?",
           "options": [
-            "To protect against volcanic lava (Brutalist Architecture  Monumental Heritage)",
-            "To preserve the public open-air park and botanical gardens below for citizens (Brutalist Architecture  Monumental Heritage)",
-            "To build a parking garage (Brutalist Architecture  Monumental Heritage)",
-            "To hide the building from the street (Brutalist Architecture  Monumental Heritage)"
+            "To protect against volcanic lava",
+            "To preserve the public open-air park and botanical gardens below for citizens",
+            "To build a parking garage",
+            "To hide the building from the street"
           ],
           "answerIndex": 1,
           "explanation": "To preserve the public park below."
@@ -13518,10 +13522,10 @@
         {
           "prompt": "Translate: \"The Bank of London's perforated concrete exterior filters natural sunlight, integrating the urban streetscape into a soaring sculptural banking atrium.\"",
           "options": [
-            "La Biblioteca Nacional fue demolida en 1970. (Brutalist Architecture  Monumental Heritage)",
-            "Clorindo Testa diseñaba únicamente casas de madera. (Brutalist Architecture  Monumental Heritage)",
-            "El brutalismo rechaza el uso del hormigón armado. (Brutalist Architecture  Monumental Heritage)",
-            "El exterior de hormigón perforado del Banco de Londres filtra la luz solar natural, integrando el paisaje urbano de la calle en un atrio bancario escultórico y monumental. (Brutalist Architecture  Monumental Heritage)"
+            "La Biblioteca Nacional fue demolida en 1970.",
+            "Clorindo Testa diseñaba únicamente casas de madera.",
+            "El brutalismo rechaza el uso del hormigón armado.",
+            "El exterior de hormigón perforado del Banco de Londres filtra la luz solar natural, integrando el paisaje urbano de la calle en un atrio bancario escultórico y monumental."
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural analysis translation.",
@@ -13530,10 +13534,10 @@
         {
           "prompt": "In which elegant Buenos Aires neighborhood are both the National Library and the Centro Cultural Recoleta (redesigned by Testa) located?",
           "options": [
-            "San Telmo (Brutalist Architecture  Monumental Heritage)",
-            "Belgrano (Brutalist Architecture  Monumental Heritage)",
-            "Recoleta (Brutalist Architecture  Monumental Heritage)",
-            "La Boca (Brutalist Architecture  Monumental Heritage)"
+            "San Telmo",
+            "Belgrano",
+            "Recoleta",
+            "La Boca"
           ],
           "answerIndex": 2,
           "explanation": "Recoleta.",
@@ -13652,10 +13656,10 @@
         {
           "prompt": "Which Argentine composer and bandoneon virtuoso revolutionized tango into concert hall \"Tango Nuevo\" with masterpieces like Adiós Nonino and Libertango?",
           "options": [
-            "Carlos Gardel (Tango Nuevo  The Bandoneon Titan)",
-            "Aníbal Troilo (Tango Nuevo  The Bandoneon Titan)",
-            "Osvaldo Pugliese (Tango Nuevo  The Bandoneon Titan)",
-            "Ástor Piazzolla (Tango Nuevo  The Bandoneon Titan)"
+            "Carlos Gardel",
+            "Aníbal Troilo",
+            "Osvaldo Pugliese",
+            "Ástor Piazzolla"
           ],
           "answerIndex": 3,
           "explanation": "Ástor Piazzolla."
@@ -13667,10 +13671,10 @@
         {
           "prompt": "What German-origin squeeze-box accordion instrument became the melancholic, breathing acoustic voice of Argentine tango?",
           "options": [
-            "El charango (Tango Nuevo  The Bandoneon Titan)",
-            "El bandoneón (Tango Nuevo  The Bandoneon Titan)",
-            "El cajón (Tango Nuevo  The Bandoneon Titan)",
-            "El bombo legüero (Tango Nuevo  The Bandoneon Titan)"
+            "El charango",
+            "El bandoneón",
+            "El cajón",
+            "El bombo legüero"
           ],
           "answerIndex": 1,
           "explanation": "El bandoneón."
@@ -13682,10 +13686,10 @@
         {
           "prompt": "Translate: \"Piazzolla combined polyphonic fugal textures and jazz syncopations to liberate the bandoneon from traditional dance halls into philharmonic concert halls.\"",
           "options": [
-            "Piazzolla tocaba exclusivamente la flauta dulce. (Tango Nuevo  The Bandoneon Titan)",
-            "Piazzolla combinó texturas fugadas polifónicas y síncopas de jazz para liberar al bandoneón de las milongas tradicionales y llevarlo a las salas filarmónicas. (Tango Nuevo  The Bandoneon Titan)",
-            "Adiós Nonino fue compuesta para una marcha militar. (Tango Nuevo  The Bandoneon Titan)",
-            "Carlos Gardel inventó la música electrónica. (Tango Nuevo  The Bandoneon Titan)"
+            "Piazzolla tocaba exclusivamente la flauta dulce.",
+            "Piazzolla combinó texturas fugadas polifónicas y síncopas de jazz para liberar al bandoneón de las milongas tradicionales y llevarlo a las salas filarmónicas.",
+            "Adiós Nonino fue compuesta para una marcha militar.",
+            "Carlos Gardel inventó la música electrónica."
           ],
           "answerIndex": 1,
           "explanation": "Accurate tango musicology translation.",
@@ -13694,10 +13698,10 @@
         {
           "prompt": "What French classical pedagogue in Paris famously told Piazzolla never to abandon his bandoneon because his authentic Argentine soul lived in tango?",
           "options": [
-            "Nadia Boulanger (Tango Nuevo  The Bandoneon Titan)",
-            "Claude Debussy (Tango Nuevo  The Bandoneon Titan)",
-            "Maurice Ravel (Tango Nuevo  The Bandoneon Titan)",
-            "Olivier Messiaen (Tango Nuevo  The Bandoneon Titan)"
+            "Nadia Boulanger",
+            "Claude Debussy",
+            "Maurice Ravel",
+            "Olivier Messiaen"
           ],
           "answerIndex": 0,
           "explanation": "Nadia Boulanger.",
@@ -13734,10 +13738,10 @@
         {
           "prompt": "Which iconic Argentine folk singer from Tucumán was revered across Latin America as \"La Voz de los Sin Voz\" (The Voice of the Voiceless)?",
           "options": [
-            "Mercedes Sosa (The Voice of the Voiceless)",
-            "Horacio Guarany (The Voice of the Voiceless)",
-            "Atahualpa Yupanqui (The Voice of the Voiceless)",
-            "Charly García (The Voice of the Voiceless)"
+            "Mercedes Sosa",
+            "Horacio Guarany",
+            "Atahualpa Yupanqui",
+            "Charly García"
           ],
           "answerIndex": 0,
           "explanation": "Mercedes Sosa."
@@ -13749,10 +13753,10 @@
         {
           "prompt": "What traditional Argentine folk percussion instrument, made of a hollowed ceibo tree trunk and sheepskin, carries the rhythm in Zamba and Chacarera?",
           "options": [
-            "El bombo legüero (The Voice of the Voiceless)",
-            "El pandero (The Voice of the Voiceless)",
-            "Las castañuelas (The Voice of the Voiceless)",
-            "La marimba (The Voice of the Voiceless)"
+            "El bombo legüero",
+            "El pandero",
+            "Las castañuelas",
+            "La marimba"
           ],
           "answerIndex": 0,
           "explanation": "El bombo legüero."
@@ -13764,10 +13768,10 @@
         {
           "prompt": "Translate: \"The Nuevo Cancionero manifesto committed folk music to chronicling social reality, resisting censorship, and giving lyrical voice to marginalized communities.\"",
           "options": [
-            "El manifiesto del Nuevo Cancionero comprometió a la música folclórica a testimoniar la realidad social, resistir la censura y dar voz lírica a las comunidades marginadas. (The Voice of the Voiceless)",
-            "El bombo legüero se fabrica con plástico industrial. (The Voice of the Voiceless)",
-            "Alfonsina y el mar es una canción sobre piratas en el Caribe. (The Voice of the Voiceless)",
-            "Mercedes Sosa era una cantante de ópera alemana. (The Voice of the Voiceless)"
+            "El manifiesto del Nuevo Cancionero comprometió a la música folclórica a testimoniar la realidad social, resistir la censura y dar voz lírica a las comunidades marginadas.",
+            "El bombo legüero se fabrica con plástico industrial.",
+            "Alfonsina y el mar es una canción sobre piratas en el Caribe.",
+            "Mercedes Sosa era una cantante de ópera alemana."
           ],
           "answerIndex": 0,
           "explanation": "Accurate folk musicology translation.",
@@ -13776,10 +13780,10 @@
         {
           "prompt": "Which tragic Argentine feminist poet's walking into the sea at Mar del Plata in 1938 inspired the immortal zamba *Alfonsina y el mar*?",
           "options": [
-            "Alejandra Pizarnik (The Voice of the Voiceless)",
-            "Silvina Ocampo (The Voice of the Voiceless)",
-            "Victoria Ocampo (The Voice of the Voiceless)",
-            "Alfonsina Storni (The Voice of the Voiceless)"
+            "Alejandra Pizarnik",
+            "Silvina Ocampo",
+            "Victoria Ocampo",
+            "Alfonsina Storni"
           ],
           "answerIndex": 3,
           "explanation": "Alfonsina Storni.",
@@ -13816,10 +13820,10 @@
         {
           "prompt": "Which 20th-century Argentine classical composer wrote the orchestral ballet Estancia featuring the explosive Malambo finale?",
           "options": [
-            "Alberto Ginastera (Symphonic Primitivism  Pampean Modernism)",
-            "Ástor Piazzolla (Symphonic Primitivism  Pampean Modernism)",
-            "Carlos Guastavino (Symphonic Primitivism  Pampean Modernism)",
-            "Ariel Ramírez (Symphonic Primitivism  Pampean Modernism)"
+            "Alberto Ginastera",
+            "Ástor Piazzolla",
+            "Carlos Guastavino",
+            "Ariel Ramírez"
           ],
           "answerIndex": 0,
           "explanation": "Alberto Ginastera."
@@ -13831,10 +13835,10 @@
         {
           "prompt": "What traditional competitive solo foot-stomping dance of the Argentine Gaucho provided the relentless rhythmic drive for Ginastera's *Estancia* finale?",
           "options": [
-            "El Malambo (Symphonic Primitivism  Pampean Modernism)",
-            "La Cumbia (Symphonic Primitivism  Pampean Modernism)",
-            "El Vals (Symphonic Primitivism  Pampean Modernism)",
-            "El Bolero (Symphonic Primitivism  Pampean Modernism)"
+            "El Malambo",
+            "La Cumbia",
+            "El Vals",
+            "El Bolero"
           ],
           "answerIndex": 0,
           "explanation": "El Malambo."
@@ -13846,10 +13850,10 @@
         {
           "prompt": "Translate: \"Ginastera's Malambo captures the relentless 6/8 and 3/4 polyrhythmic footwork of gauchos dueling with lightning speed upon the open plains.\"",
           "options": [
-            "Estancia fue compuesta para sintetizador electrónico solo. (Symphonic Primitivism  Pampean Modernism)",
-            "Ginastera rechazó enseñar a Piazzolla. (Symphonic Primitivism  Pampean Modernism)",
-            "El Malambo es una danza cortesana lenta del siglo XVI. (Symphonic Primitivism  Pampean Modernism)",
-            "El Malambo de Ginastera captura el implacable zapateo polirrítmico en 6/8 y 3/4 de los gauchos batiéndose a duelo con velocidad vertiginosa en las llanuras. (Symphonic Primitivism  Pampean Modernism)"
+            "Estancia fue compuesta para sintetizador electrónico solo.",
+            "Ginastera rechazó enseñar a Piazzolla.",
+            "El Malambo es una danza cortesana lenta del siglo XVI.",
+            "El Malambo de Ginastera captura el implacable zapateo polirrítmico en 6/8 y 3/4 de los gauchos batiéndose a duelo con velocidad vertiginosa en las llanuras."
           ],
           "answerIndex": 3,
           "explanation": "Accurate orchestral analysis translation.",
@@ -13858,10 +13862,10 @@
         {
           "prompt": "In which grand Buenos Aires opera house was Alberto Ginastera's opera *Don Rodrigo* premiered in 1964, launching the international career of young tenor Plácido Domingo?",
           "options": [
-            "Teatro San Martín (Symphonic Primitivism  Pampean Modernism)",
-            "Teatro Cervantes (Symphonic Primitivism  Pampean Modernism)",
-            "Teatro Colón (Symphonic Primitivism  Pampean Modernism)",
-            "Teatro Gran Rex (Symphonic Primitivism  Pampean Modernism)"
+            "Teatro San Martín",
+            "Teatro Cervantes",
+            "Teatro Colón",
+            "Teatro Gran Rex"
           ],
           "answerIndex": 2,
           "explanation": "Teatro Colón.",
@@ -13898,10 +13902,10 @@
         {
           "prompt": "Which visionary Argentine rock icon composed the masterpiece album \"Artaud\" in 1973 and the immortal classic \"Muchacha (ojos de papel)\"?",
           "options": [
-            "Fito Páez (Argentine Rock Nacional  Poetic Counterculture)",
-            "Luis Alberto Spinetta (Argentine Rock Nacional  Poetic Counterculture)",
-            "Gustavo Cerati (Argentine Rock Nacional  Poetic Counterculture)",
-            "Charly García (Argentine Rock Nacional  Poetic Counterculture)"
+            "Fito Páez",
+            "Luis Alberto Spinetta",
+            "Gustavo Cerati",
+            "Charly García"
           ],
           "answerIndex": 1,
           "explanation": "Luis Alberto Spinetta."
@@ -13913,10 +13917,10 @@
         {
           "prompt": "What landmark 1983 album by Charly García, recorded in New York, contains the anti-dictatorship anthem «Los dinosaurios»?",
           "options": [
-            "«Piano Bar» (Argentine Rock Nacional  Poetic Counterculture)",
-            "«Clics Modernos» (Argentine Rock Nacional  Poetic Counterculture)",
-            "«Parte de la religión» (Argentine Rock Nacional  Poetic Counterculture)",
-            "«Yendo de la cama al living» (Argentine Rock Nacional  Poetic Counterculture)"
+            "«Piano Bar»",
+            "«Clics Modernos»",
+            "«Parte de la religión»",
+            "«Yendo de la cama al living»"
           ],
           "answerIndex": 1,
           "explanation": "«Clics Modernos»."
@@ -13928,10 +13932,10 @@
         {
           "prompt": "Translate: \"Charly García's song Los dinosaurios affirmed that despite state terror and forced disappearances, the spirit of human freedom cannot be erased.\"",
           "options": [
-            "Clics Modernos fue un álbum de tango clásico grabado en 1920. (Argentine Rock Nacional  Poetic Counterculture)",
-            "Serú Girán fue una banda de música barroca. (Argentine Rock Nacional  Poetic Counterculture)",
-            "La canción «Los dinosaurios» de Charly García afirmó que a pesar del terror de Estado y las desapariciones forzadas, el espíritu de la libertad humana no puede borrarse. (Argentine Rock Nacional  Poetic Counterculture)",
-            "Spinetta cantaba solo en inglés. (Argentine Rock Nacional  Poetic Counterculture)"
+            "Clics Modernos fue un álbum de tango clásico grabado en 1920.",
+            "Serú Girán fue una banda de música barroca.",
+            "La canción «Los dinosaurios» de Charly García afirmó que a pesar del terror de Estado y las desapariciones forzadas, el espíritu de la libertad humana no puede borrarse.",
+            "Spinetta cantaba solo en inglés."
           ],
           "answerIndex": 2,
           "explanation": "Accurate rock history translation.",
@@ -13940,10 +13944,10 @@
         {
           "prompt": "Which supergroup formed by Charly García, David Lebón, Pedro Aznar, and Oscar Moro was dubbed \"The Beatles of Argentine Rock\" in the late 1970s?",
           "options": [
-            "Sumo (Argentine Rock Nacional  Poetic Counterculture)",
-            "Serú Girán (Argentine Rock Nacional  Poetic Counterculture)",
-            "Patricio Rey y sus Redonditos de Ricota (Argentine Rock Nacional  Poetic Counterculture)",
-            "Soda Stereo (Argentine Rock Nacional  Poetic Counterculture)"
+            "Sumo",
+            "Serú Girán",
+            "Patricio Rey y sus Redonditos de Ricota",
+            "Soda Stereo"
           ],
           "answerIndex": 1,
           "explanation": "Serú Girán.",
@@ -14062,10 +14066,10 @@
         {
           "prompt": "Which Argentine director won the Academy Award for Best Foreign Language Film in 2010 for \"El secreto de sus ojos\"?",
           "options": [
-            "Damián Szifron (Academy Award Passion  LongTake Virtuosity)",
-            "Lucrecia Martel (Academy Award Passion  LongTake Virtuosity)",
-            "Santiago Mitre (Academy Award Passion  LongTake Virtuosity)",
-            "Juan José Campanella (Academy Award Passion  LongTake Virtuosity)"
+            "Damián Szifron",
+            "Lucrecia Martel",
+            "Santiago Mitre",
+            "Juan José Campanella"
           ],
           "answerIndex": 3,
           "explanation": "Juan José Campanella."
@@ -14077,10 +14081,10 @@
         {
           "prompt": "Which iconic Argentine soccer stadium in Buenos Aires is the setting for the famous 5-minute unbroken long take in *El secreto de sus ojos*?",
           "options": [
-            "La Bombonera (Academy Award Passion  LongTake Virtuosity)",
-            "Estadio Tomás Adolfo Ducó (Academy Award Passion  LongTake Virtuosity)",
-            "El Monumental (Academy Award Passion  LongTake Virtuosity)",
-            "El Cilindro de Avellaneda (Academy Award Passion  LongTake Virtuosity)"
+            "La Bombonera",
+            "Estadio Tomás Adolfo Ducó",
+            "El Monumental",
+            "El Cilindro de Avellaneda"
           ],
           "answerIndex": 1,
           "explanation": "Estadio Tomás Adolfo Ducó (Huracán)."
@@ -14092,10 +14096,10 @@
         {
           "prompt": "Translate: \"The continuous stadium long take utilized seamless CGI stitching and dynamic crane tracking to capture the frenzied pursuit through the roaring soccer crowd.\"",
           "options": [
-            "El plano secuencia continuo del estadio utilizó un empalme digital invisible y un dinámico seguimiento con grúa para capturar la frenética persecución entre la multitud rugiente del fútbol. (Academy Award Passion  LongTake Virtuosity)",
-            "El secreto de sus ojos es una comedia de ciencia ficción. (Academy Award Passion  LongTake Virtuosity)",
-            "Ricardo Darín es un astronauta de la NASA. (Academy Award Passion  LongTake Virtuosity)",
-            "Argentina nunca ha ganado un premio Oscar. (Academy Award Passion  LongTake Virtuosity)"
+            "El plano secuencia continuo del estadio utilizó un empalme digital invisible y un dinámico seguimiento con grúa para capturar la frenética persecución entre la multitud rugiente del fútbol.",
+            "El secreto de sus ojos es una comedia de ciencia ficción.",
+            "Ricardo Darín es un astronauta de la NASA.",
+            "Argentina nunca ha ganado un premio Oscar."
           ],
           "answerIndex": 0,
           "explanation": "Accurate film analysis translation.",
@@ -14104,10 +14108,10 @@
         {
           "prompt": "What fundamental human drive does character Pablo Sandoval proclaim a man can never change, allowing detectives to trap the fugitive murderer?",
           "options": [
-            "El hambre (Academy Award Passion  LongTake Virtuosity)",
-            "El dinero (Academy Award Passion  LongTake Virtuosity)",
-            "El miedo (Academy Award Passion  LongTake Virtuosity)",
-            "La pasión (Academy Award Passion  LongTake Virtuosity)"
+            "El hambre",
+            "El dinero",
+            "El miedo",
+            "La pasión"
           ],
           "answerIndex": 3,
           "explanation": "La pasión (Passion).",
@@ -14144,10 +14148,10 @@
         {
           "prompt": "Which Argentine director wrote and directed the six-episode dark comedy masterpiece \"Relatos salvajes\" (Wild Tales) in 2014?",
           "options": [
-            "Damián Szifron (Cathartic Fury  Anthology Satire)",
-            "Pablo Trapero (Cathartic Fury  Anthology Satire)",
-            "Mariano Cohn (Cathartic Fury  Anthology Satire)",
-            "Juan José Campanella (Cathartic Fury  Anthology Satire)"
+            "Damián Szifron",
+            "Pablo Trapero",
+            "Mariano Cohn",
+            "Juan José Campanella"
           ],
           "answerIndex": 0,
           "explanation": "Damián Szifron."
@@ -14159,10 +14163,10 @@
         {
           "prompt": "What character played by Ricardo Darín in *Relatos salvajes* becomes a folk hero after using explosives against a corrupt municipal car towing company?",
           "options": [
-            "Simón Fischer (Cathartic Fury  Anthology Satire)",
-            "Pasternak (Cathartic Fury  Anthology Satire)",
-            "Mauricio (Cathartic Fury  Anthology Satire)",
-            "Romina (Cathartic Fury  Anthology Satire)"
+            "Simón Fischer",
+            "Pasternak",
+            "Mauricio",
+            "Romina"
           ],
           "answerIndex": 0,
           "explanation": "Simón Fischer (\"Bombita\")."
@@ -14174,10 +14178,10 @@
         {
           "prompt": "Translate: \"Wild Tales dissects the thin veneer of civilized restraint, showing how ordinary citizens cross the threshold into primal rage when provoked by injustice.\"",
           "options": [
-            "Relatos salvajes es un documental sobre animales marinos. (Cathartic Fury  Anthology Satire)",
-            "Damián Szifron prohíbe el uso del humor negro. (Cathartic Fury  Anthology Satire)",
-            "Bombita es una película francesa de 1920. (Cathartic Fury  Anthology Satire)",
-            "Relatos salvajes disecciona la delgada capa de contención civilizada, mostrando cómo ciudadanos comunes cruzan el umbral hacia la furia primaria al ser provocados por la injusticia. (Cathartic Fury  Anthology Satire)"
+            "Relatos salvajes es un documental sobre animales marinos.",
+            "Damián Szifron prohíbe el uso del humor negro.",
+            "Bombita es una película francesa de 1920.",
+            "Relatos salvajes disecciona la delgada capa de contención civilizada, mostrando cómo ciudadanos comunes cruzan el umbral hacia la furia primaria al ser provocados por la injusticia."
           ],
           "answerIndex": 3,
           "explanation": "Accurate cinema analysis translation.",
@@ -14186,10 +14190,10 @@
         {
           "prompt": "Which legendary Spanish director and production company co-produced *Relatos salvajes* alongside Argentine producers?",
           "options": [
-            "Luis Buñuel (Cathartic Fury  Anthology Satire)",
-            "Carlos Saura (Cathartic Fury  Anthology Satire)",
-            "Pedro Almodóvar (Cathartic Fury  Anthology Satire)",
-            "Alejandro Amenábar (Cathartic Fury  Anthology Satire)"
+            "Luis Buñuel",
+            "Carlos Saura",
+            "Pedro Almodóvar",
+            "Alejandro Amenábar"
           ],
           "answerIndex": 2,
           "explanation": "Pedro Almodóvar (El Deseo).",
@@ -14226,10 +14230,10 @@
         {
           "prompt": "Which master Argentine female filmmaker directed \"La Ciénaga\" (2001) and \"Zama\" (2017), celebrated globally for her immersive sound design?",
           "options": [
-            "Lucrecia Martel (Sensory Realism  Decadent Bourgeoisie)",
-            "María Luisa Bemberg (Sensory Realism  Decadent Bourgeoisie)",
-            "Paula Hernández (Sensory Realism  Decadent Bourgeoisie)",
-            "Celina Murga (Sensory Realism  Decadent Bourgeoisie)"
+            "Lucrecia Martel",
+            "María Luisa Bemberg",
+            "Paula Hernández",
+            "Celina Murga"
           ],
           "answerIndex": 0,
           "explanation": "Lucrecia Martel."
@@ -14241,10 +14245,10 @@
         {
           "prompt": "In which northwestern Argentine province is Lucrecia Martel's famous debut feature *La Ciénaga* set?",
           "options": [
-            "Salta (Sensory Realism  Decadent Bourgeoisie)",
-            "Tierra del Fuego (Sensory Realism  Decadent Bourgeoisie)",
-            "Mendoza (Sensory Realism  Decadent Bourgeoisie)",
-            "Córdoba (Sensory Realism  Decadent Bourgeoisie)"
+            "Salta",
+            "Tierra del Fuego",
+            "Mendoza",
+            "Córdoba"
           ],
           "answerIndex": 0,
           "explanation": "Salta."
@@ -14256,10 +14260,10 @@
         {
           "prompt": "Translate: \"Martel constructs an acoustic universe where low-frequency domestic noises and distant thunderstorms generate palpable dread without relying on conventional musical scores.\"",
           "options": [
-            "La Ciénaga es una comedia musical de Hollywood. (Sensory Realism  Decadent Bourgeoisie)",
-            "Lucrecia Martel filma sin sonido. (Sensory Realism  Decadent Bourgeoisie)",
-            "Martel construye un universo acústico donde los ruidos domésticos de baja frecuencia y los truenos lejanos generan un temor palpable sin recurrir a partituras musicales convencionales. (Sensory Realism  Decadent Bourgeoisie)",
-            "Zama es una película sobre la carrera espacial. (Sensory Realism  Decadent Bourgeoisie)"
+            "La Ciénaga es una comedia musical de Hollywood.",
+            "Lucrecia Martel filma sin sonido.",
+            "Martel construye un universo acústico donde los ruidos domésticos de baja frecuencia y los truenos lejanos generan un temor palpable sin recurrir a partituras musicales convencionales.",
+            "Zama es una película sobre la carrera espacial."
           ],
           "answerIndex": 2,
           "explanation": "Accurate auteur analysis translation.",
@@ -14268,10 +14272,10 @@
         {
           "prompt": "Which 1956 existential Argentine novel by Antonio Di Benedetto about a trapped Spanish colonial magistrate was adapted by Martel into a 2017 masterwork?",
           "options": [
-            "«Sobre héroes y tumbas» (Sensory Realism  Decadent Bourgeoisie)",
-            "«Zama» (Sensory Realism  Decadent Bourgeoisie)",
-            "«Ficciones» (Sensory Realism  Decadent Bourgeoisie)",
-            "«Rayuela» (Sensory Realism  Decadent Bourgeoisie)"
+            "«Sobre héroes y tumbas»",
+            "«Zama»",
+            "«Ficciones»",
+            "«Rayuela»"
           ],
           "answerIndex": 1,
           "explanation": "«Zama».",
@@ -14308,10 +14312,10 @@
         {
           "prompt": "Which Argentine film won the 2023 Golden Globe for Best Foreign Language Film, dramatizing the 1985 civil trial of the military dictators?",
           "options": [
-            "«Nueve reinas» (Historical Reckoning  The Trial of the Juntas)",
-            "«El clan» (Historical Reckoning  The Trial of the Juntas)",
-            "«Argentina, 1985» (Historical Reckoning  The Trial of the Juntas)",
-            "«La historia oficial» (Historical Reckoning  The Trial of the Juntas)"
+            "«Nueve reinas»",
+            "«El clan»",
+            "«Argentina, 1985»",
+            "«La historia oficial»"
           ],
           "answerIndex": 2,
           "explanation": "«Argentina, 1985»."
@@ -14323,10 +14327,10 @@
         {
           "prompt": "What historic two-word phrase concluded Chief Prosecutor Julio César Strassera's closing statement in the 1985 trial and the climax of the film?",
           "options": [
-            "«Justicia total» (Historical Reckoning  The Trial of the Juntas)",
-            "«Nunca más» (Historical Reckoning  The Trial of the Juntas)",
-            "«Orden y progreso» (Historical Reckoning  The Trial of the Juntas)",
-            "«Fin de la historia» (Historical Reckoning  The Trial of the Juntas)"
+            "«Justicia total»",
+            "«Nunca más»",
+            "«Orden y progreso»",
+            "«Fin de la historia»"
           ],
           "answerIndex": 1,
           "explanation": "«Nunca más»."
@@ -14338,10 +14342,10 @@
         {
           "prompt": "Translate: \"The Trial of the Juntas was the first instance in modern history where a civil domestic court successfully prosecuted military dictators for human rights atrocities.\"",
           "options": [
-            "Strassera era un general militar. (Historical Reckoning  The Trial of the Juntas)",
-            "El Juicio a las Juntas fue la primera ocasión en la historia moderna donde un tribunal civil nacional procesó con éxito a dictadores militares por atrocidades contra los derechos humanos. (Historical Reckoning  The Trial of the Juntas)",
-            "El juicio de 1985 tuvo lugar en Londres. (Historical Reckoning  The Trial of the Juntas)",
-            "Argentina, 1985 es una película muda sobre el ferrocarril. (Historical Reckoning  The Trial of the Juntas)"
+            "Strassera era un general militar.",
+            "El Juicio a las Juntas fue la primera ocasión en la historia moderna donde un tribunal civil nacional procesó con éxito a dictadores militares por atrocidades contra los derechos humanos.",
+            "El juicio de 1985 tuvo lugar en Londres.",
+            "Argentina, 1985 es una película muda sobre el ferrocarril."
           ],
           "answerIndex": 1,
           "explanation": "Accurate historical cinema translation.",
@@ -14350,10 +14354,10 @@
         {
           "prompt": "Which young Argentine actor played Deputy Prosecutor Luis Moreno Ocampo alongside Ricardo Darín in *Argentina, 1985*?",
           "options": [
-            "Peter Lanzani (Historical Reckoning  The Trial of the Juntas)",
-            "Chino Darín (Historical Reckoning  The Trial of the Juntas)",
-            "Joaquín Furriel (Historical Reckoning  The Trial of the Juntas)",
-            "Leonardo Sbaraglia (Historical Reckoning  The Trial of the Juntas)"
+            "Peter Lanzani",
+            "Chino Darín",
+            "Joaquín Furriel",
+            "Leonardo Sbaraglia"
           ],
           "answerIndex": 0,
           "explanation": "Peter Lanzani.",
@@ -14472,10 +14476,10 @@
         {
           "prompt": "Which master Argentine playwright wrote \"El campo\" (1967) and the immersive promenade drama \"Información para extranjeros\" (1973)?",
           "options": [
-            "Eduardo Pavlovsky (Grotesque Absurdity  Dictatorship Allegories)",
-            "Roberto Cossa (Grotesque Absurdity  Dictatorship Allegories)",
-            "Mauricio Kartun (Grotesque Absurdity  Dictatorship Allegories)",
-            "Griselda Gambaro (Grotesque Absurdity  Dictatorship Allegories)"
+            "Eduardo Pavlovsky",
+            "Roberto Cossa",
+            "Mauricio Kartun",
+            "Griselda Gambaro"
           ],
           "answerIndex": 3,
           "explanation": "Griselda Gambaro."
@@ -14487,10 +14491,10 @@
         {
           "prompt": "What historic 1981 theatrical resistance festival in Buenos Aires united dramatists and actors in open defiance of the military dictatorship?",
           "options": [
-            "Teatro Colón Festival (Grotesque Absurdity  Dictatorship Allegories)",
-            "Teatro Abierto (Grotesque Absurdity  Dictatorship Allegories)",
-            "Teatro San Martín Gala (Grotesque Absurdity  Dictatorship Allegories)",
-            "Festival de Avellaneda (Grotesque Absurdity  Dictatorship Allegories)"
+            "Teatro Colón Festival",
+            "Teatro Abierto",
+            "Teatro San Martín Gala",
+            "Festival de Avellaneda"
           ],
           "answerIndex": 1,
           "explanation": "Teatro Abierto (1981)."
@@ -14502,10 +14506,10 @@
         {
           "prompt": "Translate: \"Information for Foreigners physically guides the audience through dark corridors to shatter spectator detachment and confront them with the terrifying banality of state torture.\"",
           "options": [
-            "Teatro Abierto apoyaba a la junta militar. (Grotesque Absurdity  Dictatorship Allegories)",
-            "El campo es una comedia infantil sobre animales de granja. (Grotesque Absurdity  Dictatorship Allegories)",
-            "Griselda Gambaro nunca escribió obras de teatro. (Grotesque Absurdity  Dictatorship Allegories)",
-            "Información para extranjeros guía físicamente al público por pasillos oscuros para romper el distanciamiento del espectador y confrontarlo con la aterradora banalidad de la tortura estatal. (Grotesque Absurdity  Dictatorship Allegories)"
+            "Teatro Abierto apoyaba a la junta militar.",
+            "El campo es una comedia infantil sobre animales de granja.",
+            "Griselda Gambaro nunca escribió obras de teatro.",
+            "Información para extranjeros guía físicamente al público por pasillos oscuros para romper el distanciamiento del espectador y confrontarlo con la aterradora banalidad de la tortura estatal."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Gambaro theatrical analysis translation.",
@@ -14514,10 +14518,10 @@
         {
           "prompt": "What 19th-century historical era of autocratic federalist rule in Buenos Aires serves as the allegorical backdrop for Gambaro's *La malasangre* (1982)?",
           "options": [
-            "La Guerra de las Malvinas (Grotesque Absurdity  Dictatorship Allegories)",
-            "La Revolución de Mayo (Grotesque Absurdity  Dictatorship Allegories)",
-            "La época de Juan Manuel de Rosas (Grotesque Absurdity  Dictatorship Allegories)",
-            "El Virreinato del Río de la Plata (Grotesque Absurdity  Dictatorship Allegories)"
+            "La Guerra de las Malvinas",
+            "La Revolución de Mayo",
+            "La época de Juan Manuel de Rosas",
+            "El Virreinato del Río de la Plata"
           ],
           "answerIndex": 2,
           "explanation": "La época de Juan Manuel de Rosas.",
@@ -14554,10 +14558,10 @@
         {
           "prompt": "Which Argentine dramatist created the famous black comedy \"La nona\" (1977), depicting an insatiable grandmother devouring her family's livelihoods?",
           "options": [
-            "Roberto Cossa (The Legend of Argentine Absurdist Gluttony)",
-            "Armando Discépolo (The Legend of Argentine Absurdist Gluttony)",
-            "Mauricio Kartun (The Legend of Argentine Absurdist Gluttony)",
-            "Griselda Gambaro (The Legend of Argentine Absurdist Gluttony)"
+            "Roberto Cossa",
+            "Armando Discépolo",
+            "Mauricio Kartun",
+            "Griselda Gambaro"
           ],
           "answerIndex": 0,
           "explanation": "Roberto Cossa."
@@ -14569,10 +14573,10 @@
         {
           "prompt": "Which master Argentine actor famously brought the monstrous, voracious 100-year-old character of \"La Nona\" to life on both stage and cinema?",
           "options": [
-            "Pepe Soriano (The Legend of Argentine Absurdist Gluttony)",
-            "Héctor Alterio (The Legend of Argentine Absurdist Gluttony)",
-            "Norman Briski (The Legend of Argentine Absurdist Gluttony)",
-            "Federico Luppi (The Legend of Argentine Absurdist Gluttony)"
+            "Pepe Soriano",
+            "Héctor Alterio",
+            "Norman Briski",
+            "Federico Luppi"
           ],
           "answerIndex": 0,
           "explanation": "Pepe Soriano."
@@ -14584,10 +14588,10 @@
         {
           "prompt": "Translate: \"La nona functions as a grotesque allegory of relentless economic destruction, where an insatiable parasite slowly consumes every member of a desperate household.\"",
           "options": [
-            "La nona es una obra musical para piano solo. (The Legend of Argentine Absurdist Gluttony)",
-            "Roberto Cossa nació en España en el siglo XVIII. (The Legend of Argentine Absurdist Gluttony)",
-            "La nona funciona como una alegoría grotesca de destrucción económica implacable, donde un parásito insaciable consume lentamente a cada miembro de un hogar desesperado. (The Legend of Argentine Absurdist Gluttony)",
-            "Pepe Soriano interpretaba a un astronauta. (The Legend of Argentine Absurdist Gluttony)"
+            "La nona es una obra musical para piano solo.",
+            "Roberto Cossa nació en España en el siglo XVIII.",
+            "La nona funciona como una alegoría grotesca de destrucción económica implacable, donde un parásito insaciable consume lentamente a cada miembro de un hogar desesperado.",
+            "Pepe Soriano interpretaba a un astronauta."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Grotesco Criollo analysis translation.",
@@ -14596,10 +14600,10 @@
         {
           "prompt": "What dramatic subgenre originating in the immigrant conventillos of early 20th-century Buenos Aires was revived and modernized by Roberto Cossa?",
           "options": [
-            "La zarzuela española (The Legend of Argentine Absurdist Gluttony)",
-            "El grotesco criollo (The Legend of Argentine Absurdist Gluttony)",
-            "La tragedia griega (The Legend of Argentine Absurdist Gluttony)",
-            "El vodevil francés (The Legend of Argentine Absurdist Gluttony)"
+            "La zarzuela española",
+            "El grotesco criollo",
+            "La tragedia griega",
+            "El vodevil francés"
           ],
           "answerIndex": 1,
           "explanation": "El grotesco criollo.",
@@ -14636,10 +14640,10 @@
         {
           "prompt": "Which Argentine psychoanalyst, actor, and playwright authored \"El señor Galíndez\" (1973) and the devastating stolen-child monologue \"Potestad\" (1985)?",
           "options": [
-            "Eduardo «Tato» Pavlovsky (Psychoanalytic Drama  Somatic Terror)",
-            "Roberto Cossa (Psychoanalytic Drama  Somatic Terror)",
-            "Osvaldo Dragún (Psychoanalytic Drama  Somatic Terror)",
-            "Mauricio Kartun (Psychoanalytic Drama  Somatic Terror)"
+            "Eduardo «Tato» Pavlovsky",
+            "Roberto Cossa",
+            "Osvaldo Dragún",
+            "Mauricio Kartun"
           ],
           "answerIndex": 0,
           "explanation": "Eduardo «Tato» Pavlovsky."
@@ -14651,10 +14655,10 @@
         {
           "prompt": "What tragic human rights atrocity committed during the Argentine military dictatorship is explored in Pavlovsky's solo masterwork *Potestad*?",
           "options": [
-            "La apropiación sistemática de hijos de desaparecidos (Psychoanalytic Drama  Somatic Terror)",
-            "La guerra contra Brasil (Psychoanalytic Drama  Somatic Terror)",
-            "El exilio económico de los años 90 (Psychoanalytic Drama  Somatic Terror)",
-            "La huelga de ferrocarriles (Psychoanalytic Drama  Somatic Terror)"
+            "La apropiación sistemática de hijos de desaparecidos",
+            "La guerra contra Brasil",
+            "El exilio económico de los años 90",
+            "La huelga de ferrocarriles"
           ],
           "answerIndex": 0,
           "explanation": "La apropiación sistemática de hijos de desaparecidos."
@@ -14666,10 +14670,10 @@
         {
           "prompt": "Translate: \"Pavlovsky's psychodramatic dramaturgy anatomizes the banality of evil by portraying state torturers as ordinary civil servants casually awaiting administrative orders.\"",
           "options": [
-            "Potestad es una ópera italiana sobre marineros. (Psychoanalytic Drama  Somatic Terror)",
-            "La dramaturgia psicodramática de Pavlovsky anatomiza la banalidad del mal retratando a los torturadores estatales como funcionarios ordinarios que esperan casualmente órdenes administrativas. (Psychoanalytic Drama  Somatic Terror)",
-            "El señor Galíndez es un personaje de comedia infantil. (Psychoanalytic Drama  Somatic Terror)",
-            "Pavlovsky rechazaba el uso del psicoanálisis. (Psychoanalytic Drama  Somatic Terror)"
+            "Potestad es una ópera italiana sobre marineros.",
+            "La dramaturgia psicodramática de Pavlovsky anatomiza la banalidad del mal retratando a los torturadores estatales como funcionarios ordinarios que esperan casualmente órdenes administrativas.",
+            "El señor Galíndez es un personaje de comedia infantil.",
+            "Pavlovsky rechazaba el uso del psicoanálisis."
           ],
           "answerIndex": 1,
           "explanation": "Accurate psychoanalytic drama translation.",
@@ -14678,10 +14682,10 @@
         {
           "prompt": "What clinical therapeutic discipline was pioneered in Latin America by Eduardo Pavlovsky alongside his theatrical career?",
           "options": [
-            "El psicodrama grupal (Psychoanalytic Drama  Somatic Terror)",
-            "La neurocirugía (Psychoanalytic Drama  Somatic Terror)",
-            "La acupuntura (Psychoanalytic Drama  Somatic Terror)",
-            "La homeopatía (Psychoanalytic Drama  Somatic Terror)"
+            "El psicodrama grupal",
+            "La neurocirugía",
+            "La acupuntura",
+            "La homeopatía"
           ],
           "answerIndex": 0,
           "explanation": "El psicodrama grupal.",
@@ -14718,10 +14722,10 @@
         {
           "prompt": "Which master Argentine playwright wrote \"Terrenal. Pequeño misterio ácrata\" (2014), reimagining Cain and Abel in a suburban vacant lot?",
           "options": [
-            "Mariano Pensotti (Mythological Pampa  Vernacular Baroque)",
-            "Daniel Veronese (Mythological Pampa  Vernacular Baroque)",
-            "Mauricio Kartun (Mythological Pampa  Vernacular Baroque)",
-            "Rafael Spregelburd (Mythological Pampa  Vernacular Baroque)"
+            "Mariano Pensotti",
+            "Daniel Veronese",
+            "Mauricio Kartun",
+            "Rafael Spregelburd"
           ],
           "answerIndex": 2,
           "explanation": "Mauricio Kartun."
@@ -14733,10 +14737,10 @@
         {
           "prompt": "What character archetype embodies God (\"Tatita\") in Mauricio Kartun's philosophical masterwork *Terrenal*?",
           "options": [
-            "Un oficial militar (Mythological Pampa  Vernacular Baroque)",
-            "Un viajante de comercio campechano y bebedor de caña (Mythological Pampa  Vernacular Baroque)",
-            "Un banquero suizo (Mythological Pampa  Vernacular Baroque)",
-            "Un juez de la corte suprema (Mythological Pampa  Vernacular Baroque)"
+            "Un oficial militar",
+            "Un viajante de comercio campechano y bebedor de caña",
+            "Un banquero suizo",
+            "Un juez de la corte suprema"
           ],
           "answerIndex": 1,
           "explanation": "Un viajante de comercio campechano."
@@ -14748,10 +14752,10 @@
         {
           "prompt": "Translate: \"Terrenal transposes Genesis into a dusty suburban wasteland, contrasting Abel's nomadic freedom with Cain's obsessive desire to enclose, measure, and monetize the earth.\"",
           "options": [
-            "Terrenal transpone el Génesis a un baldío polvoriento del conurbano, contrastando la libertad nómada de Abel con el deseo obsesivo de Caín de cercar, medir y monetizar la tierra. (Mythological Pampa  Vernacular Baroque)",
-            "Mauricio Kartun escribe únicamente en latín eclesiástico. (Mythological Pampa  Vernacular Baroque)",
-            "Terrenal es una obra de ballet clásico mudo. (Mythological Pampa  Vernacular Baroque)",
-            "El niño argentino es un libro de gramática inglesa. (Mythological Pampa  Vernacular Baroque)"
+            "Terrenal transpone el Génesis a un baldío polvoriento del conurbano, contrastando la libertad nómada de Abel con el deseo obsesivo de Caín de cercar, medir y monetizar la tierra.",
+            "Mauricio Kartun escribe únicamente en latín eclesiástico.",
+            "Terrenal es una obra de ballet clásico mudo.",
+            "El niño argentino es un libro de gramática inglesa."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Kartun dramaturgy translation.",
@@ -14760,10 +14764,10 @@
         {
           "prompt": "What characteristic literary style defines Mauricio Kartun's plays, blending Golden Age Spanish syntax, archaic Gaucho dialect, and River Plate Lunfardo?",
           "options": [
-            "El neoclasicismo francés (Mythological Pampa  Vernacular Baroque)",
-            "El realismo mágico caribeño (Mythological Pampa  Vernacular Baroque)",
-            "El futurismo italiano (Mythological Pampa  Vernacular Baroque)",
-            "El barroco popular rioplatense (Mythological Pampa  Vernacular Baroque)"
+            "El neoclasicismo francés",
+            "El realismo mágico caribeño",
+            "El futurismo italiano",
+            "El barroco popular rioplatense"
           ],
           "answerIndex": 3,
           "explanation": "El barroco popular rioplatense.",
@@ -14882,10 +14886,10 @@
         {
           "prompt": "Which grand opera house in Buenos Aires, inaugurated in 1908 on Plaza Lavalle, is internationally renowned for having the finest acoustics in the world?",
           "options": [
-            "El Teatro Cervantes (The Acoustic Miracle of South America)",
-            "El Teatro San Martín (The Acoustic Miracle of South America)",
-            "El Teatro Solís (The Acoustic Miracle of South America)",
-            "El Teatro Colón (The Acoustic Miracle of South America)"
+            "El Teatro Cervantes",
+            "El Teatro San Martín",
+            "El Teatro Solís",
+            "El Teatro Colón"
           ],
           "answerIndex": 3,
           "explanation": "El Teatro Colón."
@@ -14897,10 +14901,10 @@
         {
           "prompt": "Which legendary Italian conductor led sixteen full operatic productions at the Teatro Colón during the historic 1912 season?",
           "options": [
-            "Arturo Toscanini (The Acoustic Miracle of South America)",
-            "Claudio Abbado (The Acoustic Miracle of South America)",
-            "Riccardo Muti (The Acoustic Miracle of South America)",
-            "Herbert von Karajan (The Acoustic Miracle of South America)"
+            "Arturo Toscanini",
+            "Claudio Abbado",
+            "Riccardo Muti",
+            "Herbert von Karajan"
           ],
           "answerIndex": 0,
           "explanation": "Arturo Toscanini."
@@ -14912,10 +14916,10 @@
         {
           "prompt": "Translate: \"The horseshoe resonance chamber of the Teatro Colón produces a warm, instantaneous sound diffusion that allows unamplified whispers to reach the highest sixth-tier gallery.\"",
           "options": [
-            "El Salón Dorado está hecho de plástico reciclado. (The Acoustic Miracle of South America)",
-            "El Teatro Colón es una pista de carreras de caballos. (The Acoustic Miracle of South America)",
-            "La cámara de resonancia en herradura del Teatro Colón produce una difusión sonora cálida e instantánea que permite que los susurros sin amplificar alcancen la galería más alta del sexto piso. (The Acoustic Miracle of South America)",
-            "Francesco Tamburini construyó el metro de Londres. (The Acoustic Miracle of South America)"
+            "El Salón Dorado está hecho de plástico reciclado.",
+            "El Teatro Colón es una pista de carreras de caballos.",
+            "La cámara de resonancia en herradura del Teatro Colón produce una difusión sonora cálida e instantánea que permite que los susurros sin amplificar alcancen la galería más alta del sexto piso.",
+            "Francesco Tamburini construyó el metro de Londres."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Teatro Colón acoustic analysis translation.",
@@ -14924,10 +14928,10 @@
         {
           "prompt": "What lavish French Beaux-Arts reception room inside the Teatro Colón is famed for its gold leaf ornamentation and Versailles-inspired chandeliers?",
           "options": [
-            "El Salón de los Pasos Perdidos (The Acoustic Miracle of South America)",
-            "El Salón Dorado (The Acoustic Miracle of South America)",
-            "La Galería de los Espejos (The Acoustic Miracle of South America)",
-            "El Foyer Bustillo (The Acoustic Miracle of South America)"
+            "El Salón de los Pasos Perdidos",
+            "El Salón Dorado",
+            "La Galería de los Espejos",
+            "El Foyer Bustillo"
           ],
           "answerIndex": 1,
           "explanation": "El Salón Dorado.",
@@ -14964,10 +14968,10 @@
         {
           "prompt": "Which master Argentine composer wrote the landmark modernist 12-tone operas \"Don Rodrigo\" (1964) and \"Bomarzo\" (1967)?",
           "options": [
-            "Alberto Ginastera (Modern Operatic AvantGarde)",
-            "Carlos Guastavino (Modern Operatic AvantGarde)",
-            "Mauricio Kagel (Modern Operatic AvantGarde)",
-            "Astor Piazzolla (Modern Operatic AvantGarde)"
+            "Alberto Ginastera",
+            "Carlos Guastavino",
+            "Mauricio Kagel",
+            "Astor Piazzolla"
           ],
           "answerIndex": 0,
           "explanation": "Alberto Ginastera."
@@ -14979,10 +14983,10 @@
         {
           "prompt": "Which Argentine novelist wrote both the prize-winning novel and the operatic libretto for Ginastera's *Bomarzo*?",
           "options": [
-            "Manuel Mujica Láinez (Modern Operatic AvantGarde)",
-            "Jorge Luis Borges (Modern Operatic AvantGarde)",
-            "Ernesto Sabato (Modern Operatic AvantGarde)",
-            "Julio Cortázar (Modern Operatic AvantGarde)"
+            "Manuel Mujica Láinez",
+            "Jorge Luis Borges",
+            "Ernesto Sabato",
+            "Julio Cortázar"
           ],
           "answerIndex": 0,
           "explanation": "Manuel Mujica Láinez."
@@ -14994,10 +14998,10 @@
         {
           "prompt": "Translate: \"Ginastera's Bomarzo pushed operatic expressionism to its limits through aleatoric vocal textures, microtonal choral clusters, and the psychoanalytic torment of the Renaissance Duke.\"",
           "options": [
-            "Don Rodrigo es un libro de cocina colonial. (Modern Operatic AvantGarde)",
-            "El Bomarzo de Ginastera llevó el expresionismo operístico a sus límites mediante texturas vocales aleatorias, grupos corales microtonales y el tormento psicoanalítico del duque renacentista. (Modern Operatic AvantGarde)",
-            "Ginastera solo compuso música para trompeta solista. (Modern Operatic AvantGarde)",
-            "El Instituto Di Tella estaba ubicado en Madrid. (Modern Operatic AvantGarde)"
+            "Don Rodrigo es un libro de cocina colonial.",
+            "El Bomarzo de Ginastera llevó el expresionismo operístico a sus límites mediante texturas vocales aleatorias, grupos corales microtonales y el tormento psicoanalítico del duque renacentista.",
+            "Ginastera solo compuso música para trompeta solista.",
+            "El Instituto Di Tella estaba ubicado en Madrid."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Ginastera analysis translation.",
@@ -15006,10 +15010,10 @@
         {
           "prompt": "Which young tenor's international operatic career was catapulted to stardom when he created the title role in Ginastera's *Don Rodrigo* in 1966 at New York City Opera?",
           "options": [
-            "Plácido Domingo (Modern Operatic AvantGarde)",
-            "José Carreras (Modern Operatic AvantGarde)",
-            "Luciano Pavarotti (Modern Operatic AvantGarde)",
-            "Alfredo Kraus (Modern Operatic AvantGarde)"
+            "Plácido Domingo",
+            "José Carreras",
+            "Luciano Pavarotti",
+            "Alfredo Kraus"
           ],
           "answerIndex": 0,
           "explanation": "Plácido Domingo.",
@@ -15046,10 +15050,10 @@
         {
           "prompt": "Which master Argentine composer created the legendary surrealist 1968 tango-operita \"María de Buenos Aires\" with poet Horacio Ferrer?",
           "options": [
-            "Astor Piazzolla (The TangoOperita  Surrealist Urban Poetry)",
-            "Carlos Gardel (The TangoOperita  Surrealist Urban Poetry)",
-            "Aníbal Troilo (The TangoOperita  Surrealist Urban Poetry)",
-            "Osvaldo Pugliese (The TangoOperita  Surrealist Urban Poetry)"
+            "Astor Piazzolla",
+            "Carlos Gardel",
+            "Aníbal Troilo",
+            "Osvaldo Pugliese"
           ],
           "answerIndex": 0,
           "explanation": "Astor Piazzolla."
@@ -15061,10 +15065,10 @@
         {
           "prompt": "Which iconic Argentine singer originally premiered and recorded the title role of María in Piazzolla's *María de Buenos Aires*?",
           "options": [
-            "Amelita Baltar (The TangoOperita  Surrealist Urban Poetry)",
-            "Tita Merello (The TangoOperita  Surrealist Urban Poetry)",
-            "Mercedes Sosa (The TangoOperita  Surrealist Urban Poetry)",
-            "Susana Rinaldi (The TangoOperita  Surrealist Urban Poetry)"
+            "Amelita Baltar",
+            "Tita Merello",
+            "Mercedes Sosa",
+            "Susana Rinaldi"
           ],
           "answerIndex": 0,
           "explanation": "Amelita Baltar."
@@ -15076,10 +15080,10 @@
         {
           "prompt": "Translate: \"María de Buenos Aires deconstructs the conventional boundaries of chamber opera by infusing liturgical chants and classical counterpoint with the syncopated breath of the bandoneon.\"",
           "options": [
-            "María de Buenos Aires desconstruye las fronteras convencionales de la ópera de cámara al infundir cantos litúrgicos y contrapunto clásico con la respiración sincopada del bandoneón. (The TangoOperita  Surrealist Urban Poetry)",
-            "Piazzolla tocaba únicamente el clarinete barroco. (The TangoOperita  Surrealist Urban Poetry)",
-            "Horacio Ferrer era un general del ejército. (The TangoOperita  Surrealist Urban Poetry)",
-            "María de Buenos Aires es una telenovela mexicana. (The TangoOperita  Surrealist Urban Poetry)"
+            "María de Buenos Aires desconstruye las fronteras convencionales de la ópera de cámara al infundir cantos litúrgicos y contrapunto clásico con la respiración sincopada del bandoneón.",
+            "Piazzolla tocaba únicamente el clarinete barroco.",
+            "Horacio Ferrer era un general del ejército.",
+            "María de Buenos Aires es una telenovela mexicana."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Piazzolla operita analysis translation.",
@@ -15088,10 +15092,10 @@
         {
           "prompt": "What mystical character archetype, recited by Horacio Ferrer in *María de Buenos Aires*, acts as the surrealist poetic narrator of the city's underworld?",
           "options": [
-            "El Gaucho (The TangoOperita  Surrealist Urban Poetry)",
-            "El Payador (The TangoOperita  Surrealist Urban Poetry)",
-            "El Compadrito (The TangoOperita  Surrealist Urban Poetry)",
-            "El Duende (The TangoOperita  Surrealist Urban Poetry)"
+            "El Gaucho",
+            "El Payador",
+            "El Compadrito",
+            "El Duende"
           ],
           "answerIndex": 3,
           "explanation": "El Duende.",
@@ -15128,10 +15132,10 @@
         {
           "prompt": "Which Argentine avant-garde composer founded \"Instrumental Theatre\" and composed the subversive anti-opera \"Staatstheater\" (1971)?",
           "options": [
-            "Mario Davidovsky (Instrumental Theater  Sonic Subversion)",
-            "Gerardo Gandini (Instrumental Theater  Sonic Subversion)",
-            "Mauricio Kagel (Instrumental Theater  Sonic Subversion)",
-            "Alberto Ginastera (Instrumental Theater  Sonic Subversion)"
+            "Mario Davidovsky",
+            "Gerardo Gandini",
+            "Mauricio Kagel",
+            "Alberto Ginastera"
           ],
           "answerIndex": 2,
           "explanation": "Mauricio Kagel."
@@ -15143,10 +15147,10 @@
         {
           "prompt": "What avant-garde musical concept, pioneered by Kagel, treats the physical theatrical movements and facial expressions of musicians as musical notes?",
           "options": [
-            "La música concreta (Instrumental Theater  Sonic Subversion)",
-            "El teatro instrumental (Instrumental Theater  Sonic Subversion)",
-            "El minimalismo sacro (Instrumental Theater  Sonic Subversion)",
-            "El serialismo integral (Instrumental Theater  Sonic Subversion)"
+            "La música concreta",
+            "El teatro instrumental",
+            "El minimalismo sacro",
+            "El serialismo integral"
           ],
           "answerIndex": 1,
           "explanation": "El teatro instrumental (Instrumental Theatre)."
@@ -15158,10 +15162,10 @@
         {
           "prompt": "Translate: \"Kagel's instrumental theater transforms the formal concert ritual into an ironic visual drama, exposing the absurd physical mechanics underlying musical performance.\"",
           "options": [
-            "Staatstheater es una ópera italiana tradicional del siglo XVIII. (Instrumental Theater  Sonic Subversion)",
-            "Mauricio Kagel era un cantante de pop adolescente. (Instrumental Theater  Sonic Subversion)",
-            "Match es un partido de fútbol narrado por radio. (Instrumental Theater  Sonic Subversion)",
-            "El teatro instrumental de Kagel transforma el ritual formal del concierto en un drama visual irónico, exponiendo la absurda mecánica física que subyace a la interpretación musical. (Instrumental Theater  Sonic Subversion)"
+            "Staatstheater es una ópera italiana tradicional del siglo XVIII.",
+            "Mauricio Kagel era un cantante de pop adolescente.",
+            "Match es un partido de fútbol narrado por radio.",
+            "El teatro instrumental de Kagel transforma el ritual formal del concierto en un drama visual irónico, exponiendo la absurda mecánica física que subyace a la interpretación musical."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Kagel analysis translation.",
@@ -15170,10 +15174,10 @@
         {
           "prompt": "In which German musical capital did Mauricio Kagel establish his avant-garde studio and teach at the Musikhochschule alongside Karlheinz Stockhausen?",
           "options": [
-            "Múnich (Instrumental Theater  Sonic Subversion)",
-            "Hamburgo (Instrumental Theater  Sonic Subversion)",
-            "Colonia (Instrumental Theater  Sonic Subversion)",
-            "Berlín (Instrumental Theater  Sonic Subversion)"
+            "Múnich",
+            "Hamburgo",
+            "Colonia",
+            "Berlín"
           ],
           "answerIndex": 2,
           "explanation": "Colonia (Cologne).",
@@ -15292,10 +15296,10 @@
         {
           "prompt": "Which master Argentine architect and painter designed the brutalist Bank of London and the National Library in Buenos Aires?",
           "options": [
-            "Amancio Williams (Brutalist Sculpture  Concrete Trees)",
-            "César Pelli (Brutalist Sculpture  Concrete Trees)",
-            "Mario Roberto Álvarez (Brutalist Sculpture  Concrete Trees)",
-            "Clorindo Testa (Brutalist Sculpture  Concrete Trees)"
+            "Amancio Williams",
+            "César Pelli",
+            "Mario Roberto Álvarez",
+            "Clorindo Testa"
           ],
           "answerIndex": 3,
           "explanation": "Clorindo Testa."
@@ -15307,10 +15311,10 @@
         {
           "prompt": "What unique architectural feature characterizes Clorindo Testa's National Library, perched on the Recoleta ridge?",
           "options": [
-            "Un cuadrúpedo monumental de hormigón que eleva las salas de lectura (Brutalist Sculpture  Concrete Trees)",
-            "Una pirámide de cristal transparente (Brutalist Sculpture  Concrete Trees)",
-            "Un rascacielos gótico de piedra (Brutalist Sculpture  Concrete Trees)",
-            "Un domo geodésico de madera (Brutalist Sculpture  Concrete Trees)"
+            "Un cuadrúpedo monumental de hormigón que eleva las salas de lectura",
+            "Una pirámide de cristal transparente",
+            "Un rascacielos gótico de piedra",
+            "Un domo geodésico de madera"
           ],
           "answerIndex": 0,
           "explanation": "Un cuadrúpedo monumental de hormigón."
@@ -15322,10 +15326,10 @@
         {
           "prompt": "Translate: \"The Bank of London by Clorindo Testa replaced traditional solid bank vaults with open, suspended concrete platforms wrapped in perforated sculptural screens.\"",
           "options": [
-            "Clorindo Testa construyó pirámides de barro en el siglo XVIII. (Brutalist Sculpture  Concrete Trees)",
-            "El Banco de Londres de Clorindo Testa reemplazó las tradicionales bóvedas bancarias macizas por plataformas de hormigón suspendidas y abiertas envueltas en pantallas escultóricas perforadas. (Brutalist Sculpture  Concrete Trees)",
-            "El Centro Cultural Recoleta es un aeropuerto internacional. (Brutalist Sculpture  Concrete Trees)",
-            "La Biblioteca Nacional fue diseñada para albergar solo diez libros. (Brutalist Sculpture  Concrete Trees)"
+            "Clorindo Testa construyó pirámides de barro en el siglo XVIII.",
+            "El Banco de Londres de Clorindo Testa reemplazó las tradicionales bóvedas bancarias macizas por plataformas de hormigón suspendidas y abiertas envueltas en pantallas escultóricas perforadas.",
+            "El Centro Cultural Recoleta es un aeropuerto internacional.",
+            "La Biblioteca Nacional fue diseñada para albergar solo diez libros."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Clorindo Testa analysis translation.",
@@ -15334,10 +15338,10 @@
         {
           "prompt": "What historic 1959 building in the financial district of Buenos Aires is celebrated for its suspended cantilevered concrete banking floors?",
           "options": [
-            "Banco de Londres y América del Sud (Brutalist Sculpture  Concrete Trees)",
-            "Edificio Kavanagh (Brutalist Sculpture  Concrete Trees)",
-            "Palacio Barolo (Brutalist Sculpture  Concrete Trees)",
-            "Banco Nación (Brutalist Sculpture  Concrete Trees)"
+            "Banco de Londres y América del Sud",
+            "Edificio Kavanagh",
+            "Palacio Barolo",
+            "Banco Nación"
           ],
           "answerIndex": 0,
           "explanation": "Banco de Londres y América del Sud.",
@@ -15374,10 +15378,10 @@
         {
           "prompt": "Which master Argentine architect designed the world-famous \"Casa sobre el arroyo\" (Casa del Puente) in Mar del Plata in 1943?",
           "options": [
-            "Amancio Williams (The Bridge Over the Stream  Pure Functionalism)",
-            "César Pelli (The Bridge Over the Stream  Pure Functionalism)",
-            "Wladimiro Acosta (The Bridge Over the Stream  Pure Functionalism)",
-            "Clorindo Testa (The Bridge Over the Stream  Pure Functionalism)"
+            "Amancio Williams",
+            "César Pelli",
+            "Wladimiro Acosta",
+            "Clorindo Testa"
           ],
           "answerIndex": 0,
           "explanation": "Amancio Williams."
@@ -15389,10 +15393,10 @@
         {
           "prompt": "Which legendary Swiss-French architect designed the UNESCO-listed Casa Curutchet in La Plata, built under the on-site supervision of Amancio Williams?",
           "options": [
-            "Le Corbusier (The Bridge Over the Stream  Pure Functionalism)",
-            "Walter Gropius (The Bridge Over the Stream  Pure Functionalism)",
-            "Alvar Aalto (The Bridge Over the Stream  Pure Functionalism)",
-            "Mies van der Rohe (The Bridge Over the Stream  Pure Functionalism)"
+            "Le Corbusier",
+            "Walter Gropius",
+            "Alvar Aalto",
+            "Mies van der Rohe"
           ],
           "answerIndex": 0,
           "explanation": "Le Corbusier."
@@ -15404,10 +15408,10 @@
         {
           "prompt": "Translate: \"The House on the Stream unites structural engineering and landscape ecology by elevating the living pavilion upon a curved concrete bridge that spans the natural creek.\"",
           "options": [
-            "La Casa sobre el arroyo une la ingeniería estructural y la ecología del paisaje elevando el pabellón de vivienda sobre un puente curvo de hormigón que cruza el arroyo natural. (The Bridge Over the Stream  Pure Functionalism)",
-            "La Casa del Puente fue construida con ladrillos de barro en 1800. (The Bridge Over the Stream  Pure Functionalism)",
-            "Amancio Williams era un cantante de ópera italiano. (The Bridge Over the Stream  Pure Functionalism)",
-            "La Casa Curutchet se encuentra en París. (The Bridge Over the Stream  Pure Functionalism)"
+            "La Casa sobre el arroyo une la ingeniería estructural y la ecología del paisaje elevando el pabellón de vivienda sobre un puente curvo de hormigón que cruza el arroyo natural.",
+            "La Casa del Puente fue construida con ladrillos de barro en 1800.",
+            "Amancio Williams era un cantante de ópera italiano.",
+            "La Casa Curutchet se encuentra en París."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Amancio Williams architectural analysis translation.",
@@ -15416,10 +15420,10 @@
         {
           "prompt": "For whom did Amancio Williams originally design the Casa sobre el arroyo as a home and acoustic music studio?",
           "options": [
-            "El presidente de la nación (The Bridge Over the Stream  Pure Functionalism)",
-            "Un embajador extranjero (The Bridge Over the Stream  Pure Functionalism)",
-            "Un pintor cubista (The Bridge Over the Stream  Pure Functionalism)",
-            "Su padre, el compositor Alberto Williams (The Bridge Over the Stream  Pure Functionalism)"
+            "El presidente de la nación",
+            "Un embajador extranjero",
+            "Un pintor cubista",
+            "Su padre, el compositor Alberto Williams"
           ],
           "answerIndex": 3,
           "explanation": "Su padre, el compositor Alberto Williams.",
@@ -15456,10 +15460,10 @@
         {
           "prompt": "Which 100-meter landmark building on Avenida de Mayo in Buenos Aires was designed by Mario Palanti as a stone architectural allegory of Dante's Divine Comedy?",
           "options": [
-            "El Palacio Barolo (Dantes Divine Comedy in Stone)",
-            "El Edificio Kavanagh (Dantes Divine Comedy in Stone)",
-            "El Palacio de las Aguas Corrientes (Dantes Divine Comedy in Stone)",
-            "El Palacio San Martín (Dantes Divine Comedy in Stone)"
+            "El Palacio Barolo",
+            "El Edificio Kavanagh",
+            "El Palacio de las Aguas Corrientes",
+            "El Palacio San Martín"
           ],
           "answerIndex": 0,
           "explanation": "El Palacio Barolo."
@@ -15471,10 +15475,10 @@
         {
           "prompt": "What twin sister tower, also designed by Mario Palanti, was constructed on Plaza Independencia in Montevideo, Uruguay, to cross light beams with Palacio Barolo?",
           "options": [
-            "El Palacio Salvo (Dantes Divine Comedy in Stone)",
-            "El Hotel Carrasco (Dantes Divine Comedy in Stone)",
-            "El Palacio Santos (Dantes Divine Comedy in Stone)",
-            "La Torre Ejecutiva (Dantes Divine Comedy in Stone)"
+            "El Palacio Salvo",
+            "El Hotel Carrasco",
+            "El Palacio Santos",
+            "La Torre Ejecutiva"
           ],
           "answerIndex": 0,
           "explanation": "El Palacio Salvo."
@@ -15486,10 +15490,10 @@
         {
           "prompt": "Translate: \"Palacio Barolo encodes the cosmology of Dante's Divine Comedy into vertical architecture, culminating in a 300,000-candlepower rotating lighthouse symbolizing the Empyrean Paradise.\"",
           "options": [
-            "El Palacio Barolo es una estación de bomberos. (Dantes Divine Comedy in Stone)",
-            "Mario Palanti fue un general francés. (Dantes Divine Comedy in Stone)",
-            "La Divina Comedia fue escrita por William Shakespeare. (Dantes Divine Comedy in Stone)",
-            "El Palacio Barolo codifica la cosmología de la Divina Comedia de Dante en arquitectura vertical, culminando en un faro giratorio de 300.000 bujías que simboliza el Paraíso Empíreo. (Dantes Divine Comedy in Stone)"
+            "El Palacio Barolo es una estación de bomberos.",
+            "Mario Palanti fue un general francés.",
+            "La Divina Comedia fue escrita por William Shakespeare.",
+            "El Palacio Barolo codifica la cosmología de la Divina Comedia de Dante en arquitectura vertical, culminando en un faro giratorio de 300.000 bujías que simboliza el Paraíso Empíreo."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Palacio Barolo analysis translation.",
@@ -15498,10 +15502,10 @@
         {
           "prompt": "Into what three allegorical realms of Dante's afterlife is the vertical structure of Palacio Barolo divided?",
           "options": [
-            "Tierra, Mar y Aire (Dantes Divine Comedy in Stone)",
-            "Pasado, Presente y Futuro (Dantes Divine Comedy in Stone)",
-            "Infierno, Purgatorio y Paraíso (Dantes Divine Comedy in Stone)",
-            "Guerra, Paz y Justicia (Dantes Divine Comedy in Stone)"
+            "Tierra, Mar y Aire",
+            "Pasado, Presente y Futuro",
+            "Infierno, Purgatorio y Paraíso",
+            "Guerra, Paz y Justicia"
           ],
           "answerIndex": 2,
           "explanation": "Infierno, Purgatorio y Paraíso.",
@@ -15538,10 +15542,10 @@
         {
           "prompt": "Which master Argentine architect from Tucumán designed the world-record Petronas Twin Towers in Kuala Lumpur and Torre YPF in Buenos Aires?",
           "options": [
-            "Emilio Ambasz (The Master of World Megatall Towers)",
-            "Mario Roberto Álvarez (The Master of World Megatall Towers)",
-            "César Pelli (The Master of World Megatall Towers)",
-            "Clorindo Testa (The Master of World Megatall Towers)"
+            "Emilio Ambasz",
+            "Mario Roberto Álvarez",
+            "César Pelli",
+            "Clorindo Testa"
           ],
           "answerIndex": 2,
           "explanation": "César Pelli."
@@ -15553,10 +15557,10 @@
         {
           "prompt": "What traditional Islamic geometric symbol provided the structural floor plan for César Pelli's Petronas Twin Towers in Malaysia?",
           "options": [
-            "El hexágono de Salomón (The Master of World Megatall Towers)",
-            "La estrella islámica de ocho puntas (The Master of World Megatall Towers)",
-            "El cuadrado pitagórico (The Master of World Megatall Towers)",
-            "La media luna (The Master of World Megatall Towers)"
+            "El hexágono de Salomón",
+            "La estrella islámica de ocho puntas",
+            "El cuadrado pitagórico",
+            "La media luna"
           ],
           "answerIndex": 1,
           "explanation": "La estrella islámica de ocho puntas."
@@ -15568,10 +15572,10 @@
         {
           "prompt": "Translate: \"César Pelli conceived the skyscraper as a delicate crystalline beacon, incorporating cultural regional symbolism within aerodynamic stainless steel and glass curtains.\"",
           "options": [
-            "Las Torres Petronas fueron construidas en Tucumán. (The Master of World Megatall Towers)",
-            "Gran Torre Santiago mide diez metros de altura. (The Master of World Megatall Towers)",
-            "César Pelli concibió el rascacielos como un delicado faro cristalino, incorporando simbolismo cultural regional dentro de muros cortina aerodinámicos de acero inoxidable y vidrio. (The Master of World Megatall Towers)",
-            "César Pelli solo diseñaba cabañas de madera en la Patagonia. (The Master of World Megatall Towers)"
+            "Las Torres Petronas fueron construidas en Tucumán.",
+            "Gran Torre Santiago mide diez metros de altura.",
+            "César Pelli concibió el rascacielos como un delicado faro cristalino, incorporando simbolismo cultural regional dentro de muros cortina aerodinámicos de acero inoxidable y vidrio.",
+            "César Pelli solo diseñaba cabañas de madera en la Patagonia."
           ],
           "answerIndex": 2,
           "explanation": "Accurate César Pelli analysis translation.",
@@ -15580,10 +15584,10 @@
         {
           "prompt": "What unique botanical feature is suspended inside the 26th to 31st floors of César Pelli's Torre YPF in Puerto Madero, Buenos Aires?",
           "options": [
-            "Un campo de fútbol (The Master of World Megatall Towers)",
-            "Un jardín de invierno con árboles de jacarandá de varios pisos (The Master of World Megatall Towers)",
-            "Un helipuerto de madera (The Master of World Megatall Towers)",
-            "Una piscina olímpica flotante (The Master of World Megatall Towers)"
+            "Un campo de fútbol",
+            "Un jardín de invierno con árboles de jacarandá de varios pisos",
+            "Un helipuerto de madera",
+            "Una piscina olímpica flotante"
           ],
           "answerIndex": 1,
           "explanation": "Un jardín de invierno con árboles de jacarandá.",
@@ -15702,10 +15706,10 @@
         {
           "prompt": "Which master Argentine philosopher wrote \"La libertad creadora\" (1920) and served as the intellectual mentor of the 1918 University Reform?",
           "options": [
-            "José Ingenieros (Creative Freedom  The Axiology of Values)",
-            "Carlos Astrada (Creative Freedom  The Axiology of Values)",
-            "Coriolano Alberini (Creative Freedom  The Axiology of Values)",
-            "Alejandro Korn (Creative Freedom  The Axiology of Values)"
+            "José Ingenieros",
+            "Carlos Astrada",
+            "Coriolano Alberini",
+            "Alejandro Korn"
           ],
           "answerIndex": 3,
           "explanation": "Alejandro Korn."
@@ -15717,10 +15721,10 @@
         {
           "prompt": "What philosophical discipline, studying the nature and hierarchy of values through human creative assessment, was pioneered in Argentina by Alejandro Korn?",
           "options": [
-            "La axiología (Creative Freedom  The Axiology of Values)",
-            "La ontología modal (Creative Freedom  The Axiology of Values)",
-            "La semiología (Creative Freedom  The Axiology of Values)",
-            "El empirismo lógico (Creative Freedom  The Axiology of Values)"
+            "La axiología",
+            "La ontología modal",
+            "La semiología",
+            "El empirismo lógico"
           ],
           "answerIndex": 0,
           "explanation": "La axiología (Axiology / Theory of values)."
@@ -15732,10 +15736,10 @@
         {
           "prompt": "Translate: \"Alejandro Korn demonstrated that human consciousness overcomes blind physical determinism through creative freedom, forging ethical values that elevate human dignity.\"",
           "options": [
-            "Alejandro Korn demostró que la conciencia humana supera el determinismo físico ciego mediante la libertad creadora, forjando valores éticos que elevan la dignidad humana. (Creative Freedom  The Axiology of Values)",
-            "Alejandro Korn fue un general del siglo XVIII. (Creative Freedom  The Axiology of Values)",
-            "La Reforma Universitaria de Córdoba tuvo lugar en 1810. (Creative Freedom  The Axiology of Values)",
-            "La libertad creadora es un manual de ingeniería naval. (Creative Freedom  The Axiology of Values)"
+            "Alejandro Korn demostró que la conciencia humana supera el determinismo físico ciego mediante la libertad creadora, forjando valores éticos que elevan la dignidad humana.",
+            "Alejandro Korn fue un general del siglo XVIII.",
+            "La Reforma Universitaria de Córdoba tuvo lugar en 1810.",
+            "La libertad creadora es un manual de ingeniería naval."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Alejandro Korn analysis translation.",
@@ -15744,10 +15748,10 @@
         {
           "prompt": "What historic student movement in 1918 in Argentina was spiritually guided by the humanist ideas of Alejandro Korn?",
           "options": [
-            "El Éxodo Jujeño (Creative Freedom  The Axiology of Values)",
-            "La Revolución de Mayo (Creative Freedom  The Axiology of Values)",
-            "La Vuelta de Obligado (Creative Freedom  The Axiology of Values)",
-            "La Reforma Universitaria de Córdoba (Creative Freedom  The Axiology of Values)"
+            "El Éxodo Jujeño",
+            "La Revolución de Mayo",
+            "La Vuelta de Obligado",
+            "La Reforma Universitaria de Córdoba"
           ],
           "answerIndex": 3,
           "explanation": "La Reforma Universitaria de Córdoba.",
@@ -15784,10 +15788,10 @@
         {
           "prompt": "Which master Argentine-Mexican philosopher founded the \"Philosophy of Liberation\" (1977) and formulated the critique of the \"Ego Conquiro\"?",
           "options": [
-            "Enrique Dussel (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Arturo Andrés Roig (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Alejandro Korn (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Rodolfo Kusch (The Philosophy of Liberation  The Cry of the Excluded)"
+            "Enrique Dussel",
+            "Arturo Andrés Roig",
+            "Alejandro Korn",
+            "Rodolfo Kusch"
           ],
           "answerIndex": 0,
           "explanation": "Enrique Dussel."
@@ -15799,10 +15803,10 @@
         {
           "prompt": "What philosophical method, developed by Dussel to transcend Hegelian dialectics, listens to the external reality and voice of the marginalized Other?",
           "options": [
-            "El método analéctico (The Philosophy of Liberation  The Cry of the Excluded)",
-            "La dialéctica materialista (The Philosophy of Liberation  The Cry of the Excluded)",
-            "La reducción eidética (The Philosophy of Liberation  The Cry of the Excluded)",
-            "La mayéutica (The Philosophy of Liberation  The Cry of the Excluded)"
+            "El método analéctico",
+            "La dialéctica materialista",
+            "La reducción eidética",
+            "La mayéutica"
           ],
           "answerIndex": 0,
           "explanation": "El método analéctico (The Analectical Method)."
@@ -15814,10 +15818,10 @@
         {
           "prompt": "Translate: \"Dussel established that genuine global ethics begins not with abstract European metaphysics, but with the material obligation to sustain the life of the marginalized and excluded.\"",
           "options": [
-            "La transmodernidad promueve el colonialismo militar. (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Enrique Dussel era un explorador polar del siglo XIX. (The Philosophy of Liberation  The Cry of the Excluded)",
-            "La Filosofía de la Liberación es un tratado de astronomía. (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Dussel estableció que la ética global genuina comienza no con la metafísica europea abstracta, sino con la obligación material de sostener la vida de los marginados y excluidos. (The Philosophy of Liberation  The Cry of the Excluded)"
+            "La transmodernidad promueve el colonialismo militar.",
+            "Enrique Dussel era un explorador polar del siglo XIX.",
+            "La Filosofía de la Liberación es un tratado de astronomía.",
+            "Dussel estableció que la ética global genuina comienza no con la metafísica europea abstracta, sino con la obligación material de sostener la vida de los marginados y excluidos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Dussel analysis translation.",
@@ -15826,10 +15830,10 @@
         {
           "prompt": "What foundational 1492 imperial concept, meaning \"I conquer\", did Dussel identify as the historical geopolitical prerequisite for the modern Cartesian \"Ego Cogito\"?",
           "options": [
-            "Ego Volo (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Ego Absolutus (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Ego Conquiro (The Philosophy of Liberation  The Cry of the Excluded)",
-            "Ego Sapiens (The Philosophy of Liberation  The Cry of the Excluded)"
+            "Ego Volo",
+            "Ego Absolutus",
+            "Ego Conquiro",
+            "Ego Sapiens"
           ],
           "answerIndex": 2,
           "explanation": "Ego Conquiro (Yo conquisto).",
@@ -15866,10 +15870,10 @@
         {
           "prompt": "Which master Argentine physicist and epistemologist wrote the monumental 8-volume \"Treatise on Basic Philosophy\" and won the Príncipe de Asturias Award in 1982?",
           "options": [
-            "Mario Bunge (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Gregorio Klimovsky (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Rolando García (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Florentino Ameghino (Scientific Materialism  The Anatomy of Pseudoscience)"
+            "Mario Bunge",
+            "Gregorio Klimovsky",
+            "Rolando García",
+            "Florentino Ameghino"
           ],
           "answerIndex": 0,
           "explanation": "Mario Bunge."
@@ -15881,10 +15885,10 @@
         {
           "prompt": "What four structural components define Bunge's systemic analysis of any real physical or social system (CESM)?",
           "options": [
-            "Composición, Entorno, Estructura y Mecanismo (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Cuerpo, Mente, Espíritu y Alma (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Cálculo, Energía, Símbolo y Medida (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Causa, Efecto, Síntesis y Materia (Scientific Materialism  The Anatomy of Pseudoscience)"
+            "Composición, Entorno, Estructura y Mecanismo",
+            "Cuerpo, Mente, Espíritu y Alma",
+            "Cálculo, Energía, Símbolo y Medida",
+            "Causa, Efecto, Síntesis y Materia"
           ],
           "answerIndex": 0,
           "explanation": "Composición, Entorno, Estructura y Mecanismo."
@@ -15896,10 +15900,10 @@
         {
           "prompt": "Translate: \"Bunge's emergent systemic materialism proves that mental states are brain processes possessing emergent systemic properties that individual neurons do not possess in isolation.\"",
           "options": [
-            "Mario Bunge fue un chamán del siglo XVII. (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "El Tratado de Filosofía Básica fue escrito en verso medieval. (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "El materialismo sistémico emergentista de Bunge demuestra que los estados mentales son procesos cerebrales que poseen propiedades sistémicas emergentes que las neuronas individuales no poseen de forma aislada. (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "El emergentismo sostiene que la materia no existe. (Scientific Materialism  The Anatomy of Pseudoscience)"
+            "Mario Bunge fue un chamán del siglo XVII.",
+            "El Tratado de Filosofía Básica fue escrito en verso medieval.",
+            "El materialismo sistémico emergentista de Bunge demuestra que los estados mentales son procesos cerebrales que poseen propiedades sistémicas emergentes que las neuronas individuales no poseen de forma aislada.",
+            "El emergentismo sostiene que la materia no existe."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Mario Bunge analysis translation.",
@@ -15908,10 +15912,10 @@
         {
           "prompt": "At which prestigious university in Montreal, Canada, did Mario Bunge hold the Frothingham Chair of Logic and Metaphysics for over four decades?",
           "options": [
-            "Universidad de Montreal (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Universidad McGill (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Universidad de Harvard (Scientific Materialism  The Anatomy of Pseudoscience)",
-            "Universidad de Toronto (Scientific Materialism  The Anatomy of Pseudoscience)"
+            "Universidad de Montreal",
+            "Universidad McGill",
+            "Universidad de Harvard",
+            "Universidad de Toronto"
           ],
           "answerIndex": 1,
           "explanation": "Universidad McGill (McGill University).",
@@ -15948,10 +15952,10 @@
         {
           "prompt": "Which master Argentine philosopher lived in Jujuy and contrasted Western \"ser-alguien\" with indigenous Andean \"estar\" in \"América profunda\" (1962)?",
           "options": [
-            "Alejandro Korn (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Enrique Dussel (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Rodolfo Kusch (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Carlos Astrada (Deep America  The Philosophy of Being vs Mere Dwelling)"
+            "Alejandro Korn",
+            "Enrique Dussel",
+            "Rodolfo Kusch",
+            "Carlos Astrada"
           ],
           "answerIndex": 2,
           "explanation": "Rodolfo Kusch."
@@ -15963,10 +15967,10 @@
         {
           "prompt": "What Spanish verb concept was championed by Rodolfo Kusch to describe the rooted, sacred, non-utilitarian dwelling of Andean indigenous culture in harmony with the land?",
           "options": [
-            "El dominar (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "El hacer (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "El estar (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "El tener (Deep America  The Philosophy of Being vs Mere Dwelling)"
+            "El dominar",
+            "El hacer",
+            "El estar",
+            "El tener"
           ],
           "answerIndex": 2,
           "explanation": "El estar (Estar / Mere dwelling)."
@@ -15978,10 +15982,10 @@
         {
           "prompt": "Translate: \"Rodolfo Kusch's geoculture asserts that genuine Latin American thinking must emerge from the fertile, communal worldview of indigenous dwelling (estar) rather than imported European paradigms.\"",
           "options": [
-            "América profunda es un manual de perforación petrolera. (Deep America  The Philosophy of Being vs Mere Dwelling)",
+            "América profunda es un manual de perforación petrolera.",
             "La geocultura de Rodolfo Kusch afirma que el pensamiento latinoamericano genuino debe surgir de la cosmovisión comunitaria y fértil del habitar indígena (estar)",
-            "El concepto de estar promueve la destrucción de los bosques. (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Rodolfo Kusch fue un banquero de Wall Street. (Deep America  The Philosophy of Being vs Mere Dwelling)"
+            "El concepto de estar promueve la destrucción de los bosques.",
+            "Rodolfo Kusch fue un banquero de Wall Street."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Rodolfo Kusch analysis translation.",
@@ -15990,10 +15994,10 @@
         {
           "prompt": "In which picturesque town in the Quebrada de Humahuaca (Jujuy Province) did Rodolfo Kusch live and compose his final philosophical works?",
           "options": [
-            "Maimará (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Purmamarca (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Humahuaca (Deep America  The Philosophy of Being vs Mere Dwelling)",
-            "Tilcara (Deep America  The Philosophy of Being vs Mere Dwelling)"
+            "Maimará",
+            "Purmamarca",
+            "Humahuaca",
+            "Tilcara"
           ],
           "answerIndex": 0,
           "explanation": "Maimará.",
@@ -16112,10 +16116,10 @@
         {
           "prompt": "Which master Argentine director created \"La Ciénaga\" (2001) and \"Zama\" (2017), celebrated for her revolutionary tactile sound design?",
           "options": [
-            "María Luisa Bemberg (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Celina Murga (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Lucía Puenzo (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Lucrecia Martel (The Acoustic Sensorium of Salta  Decadent Provincial Realism)"
+            "María Luisa Bemberg",
+            "Celina Murga",
+            "Lucía Puenzo",
+            "Lucrecia Martel"
           ],
           "answerIndex": 3,
           "explanation": "Lucrecia Martel."
@@ -16127,10 +16131,10 @@
         {
           "prompt": "In which northern Argentine province are Lucrecia Martel's acclaimed trilogy films (La Ciénaga, La niña santa, La mujer sin cabeza) set?",
           "options": [
-            "Salta (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Mendoza (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Córdoba (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Tierra del Fuego (The Acoustic Sensorium of Salta  Decadent Provincial Realism)"
+            "Salta",
+            "Mendoza",
+            "Córdoba",
+            "Tierra del Fuego"
           ],
           "answerIndex": 0,
           "explanation": "Salta (Provincia de Salta)."
@@ -16142,10 +16146,10 @@
         {
           "prompt": "Translate: \"Martel prioritized off-screen acoustic texture over conventional linear narrative, submerging the audience in the humid, stagnant decay of provincial social hierarchies.\"",
           "options": [
-            "La Ciénaga es una comedia musical sobre el tango. (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Lucrecia Martel es una cantante de ópera en Milán. (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Zama fue filmada en un rascacielos de Tokio. (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Martel priorizó la textura acústica fuera de campo sobre la narrativa lineal convencional, sumergiendo al público en la decadencia húmeda y estancada de las jerarquías sociales provincianas. (The Acoustic Sensorium of Salta  Decadent Provincial Realism)"
+            "La Ciénaga es una comedia musical sobre el tango.",
+            "Lucrecia Martel es una cantante de ópera en Milán.",
+            "Zama fue filmada en un rascacielos de Tokio.",
+            "Martel priorizó la textura acústica fuera de campo sobre la narrativa lineal convencional, sumergiendo al público en la decadencia húmeda y estancada de las jerarquías sociales provincianas."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Lucrecia Martel analysis translation.",
@@ -16154,10 +16158,10 @@
         {
           "prompt": "What 1956 existential Argentine novel by Antonio Di Benedetto was adapted into an acclaimed cinematic masterpiece by Lucrecia Martel in 2017?",
           "options": [
-            "Los siete locos (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Sobre héroes y tumbas (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Zama (The Acoustic Sensorium of Salta  Decadent Provincial Realism)",
-            "Rayuela (The Acoustic Sensorium of Salta  Decadent Provincial Realism)"
+            "Los siete locos",
+            "Sobre héroes y tumbas",
+            "Zama",
+            "Rayuela"
           ],
           "answerIndex": 2,
           "explanation": "Zama.",
@@ -16276,10 +16280,10 @@
         {
           "prompt": "Which master Argentine director co-directed the 1968 revolutionary landmark \"The Hour of the Furnaces\" and won Best Director at Cannes for \"Sur\" (1988)?",
           "options": [
-            "Fernando Pino Solanas (Third Cinema  The Militant Camera)",
-            "Leonardo Favio (Third Cinema  The Militant Camera)",
-            "Alejandro Agresti (Third Cinema  The Militant Camera)",
-            "Adolfo Aristarain (Third Cinema  The Militant Camera)"
+            "Fernando Pino Solanas",
+            "Leonardo Favio",
+            "Alejandro Agresti",
+            "Adolfo Aristarain"
           ],
           "answerIndex": 0,
           "explanation": "Fernando Pino Solanas."
@@ -16291,10 +16295,10 @@
         {
           "prompt": "Which legendary Argentine bandoneonist and composer created the haunting musical soundtrack for Solanas's films \"Tangos: El exilio de Gardel\" and \"Sur\"?",
           "options": [
-            "Astor Piazzolla (Third Cinema  The Militant Camera)",
-            "Aníbal Troilo (Third Cinema  The Militant Camera)",
-            "Osvaldo Pugliese (Third Cinema  The Militant Camera)",
-            "Carlos Gardel (Third Cinema  The Militant Camera)"
+            "Astor Piazzolla",
+            "Aníbal Troilo",
+            "Osvaldo Pugliese",
+            "Carlos Gardel"
           ],
           "answerIndex": 0,
           "explanation": "Astor Piazzolla."
@@ -16306,10 +16310,10 @@
         {
           "prompt": "Translate: \"Solanas and Getino defined Third Cinema as a militant decolonial instrument designed to dismantle capitalist consumerism and mobilize collective political action.\"",
           "options": [
-            "Pino Solanas era un jugador de polo en Escocia. (Third Cinema  The Militant Camera)",
-            "Solanas y Getino definieron el Tercer Cine como un instrumento militante descolonial diseñado para desmantelar el consumismo capitalista y movilizar la acción política colectiva. (Third Cinema  The Militant Camera)",
-            "Sur fue filmada en los estudios de animación de Disney. (Third Cinema  The Militant Camera)",
-            "La hora de los hornos es una película cómica sobre panaderías. (Third Cinema  The Militant Camera)"
+            "Pino Solanas era un jugador de polo en Escocia.",
+            "Solanas y Getino definieron el Tercer Cine como un instrumento militante descolonial diseñado para desmantelar el consumismo capitalista y movilizar la acción política colectiva.",
+            "Sur fue filmada en los estudios de animación de Disney.",
+            "La hora de los hornos es una película cómica sobre panaderías."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Pino Solanas analysis translation.",
@@ -16318,10 +16322,10 @@
         {
           "prompt": "What militant Argentine film collective was founded by Pino Solanas, Octavio Getino, and Gerardo Vallejo during the late 1960s?",
           "options": [
-            "Grupo Cine Liberación (Third Cinema  The Militant Camera)",
-            "Grupo Boedo (Third Cinema  The Militant Camera)",
-            "Cineasta Argentino (Third Cinema  The Militant Camera)",
-            "Cine Pampa (Third Cinema  The Militant Camera)"
+            "Grupo Cine Liberación",
+            "Grupo Boedo",
+            "Cineasta Argentino",
+            "Cine Pampa"
           ],
           "answerIndex": 0,
           "explanation": "Grupo Cine Liberación.",
@@ -16522,10 +16526,10 @@
         {
           "prompt": "Which dense, slow-burning native hardwood is prized in Argentina for creating long-lasting aromatic charcoal embers for the asado?",
           "options": [
-            "Pino blanco (The Sacred Fire of the Pampas)",
-            "Bambú (The Sacred Fire of the Pampas)",
-            "Eucalipto verde (The Sacred Fire of the Pampas)",
-            "Quebracho colorado (The Sacred Fire of the Pampas)"
+            "Pino blanco",
+            "Bambú",
+            "Eucalipto verde",
+            "Quebracho colorado"
           ],
           "answerIndex": 3,
           "explanation": "Quebracho colorado."
@@ -16537,10 +16541,10 @@
         {
           "prompt": "What traditional herbaceous sauce, made of parsley, oregano, garlic, chili flakes, vinegar, and oil, accompanies Argentine grilled beef?",
           "options": [
-            "Chimichurri (The Sacred Fire of the Pampas)",
-            "Guacamole (The Sacred Fire of the Pampas)",
-            "Pesto (The Sacred Fire of the Pampas)",
-            "Romesco (The Sacred Fire of the Pampas)"
+            "Chimichurri",
+            "Guacamole",
+            "Pesto",
+            "Romesco"
           ],
           "answerIndex": 0,
           "explanation": "Chimichurri."
@@ -16552,10 +16556,10 @@
         {
           "prompt": "Translate: \"The Argentine asado represents a communal ritual of patient slow-fire grilling over quebracho embers, beginning with crisp sweetbreads and concluding with a round of applause for the asador.\"",
           "options": [
-            "La tira de asado se cocina en microondas en tres minutos. (The Sacred Fire of the Pampas)",
-            "El asado argentino es una sopa de pescado típica de la Patagonia. (The Sacred Fire of the Pampas)",
-            "El asado argentino representa un ritual comunitario de cocción lenta y paciente sobre brasas de quebracho, comenzando con mollejas crujientes y concluyendo con un aplauso para el asador. (The Sacred Fire of the Pampas)",
-            "El chimichurri se prepara con leche condensada y azúcar. (The Sacred Fire of the Pampas)"
+            "La tira de asado se cocina en microondas en tres minutos.",
+            "El asado argentino es una sopa de pescado típica de la Patagonia.",
+            "El asado argentino representa un ritual comunitario de cocción lenta y paciente sobre brasas de quebracho, comenzando con mollejas crujientes y concluyendo con un aplauso para el asador.",
+            "El chimichurri se prepara con leche condensada y azúcar."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Argentine asado analysis translation.",
@@ -16564,10 +16568,10 @@
         {
           "prompt": "What popular Argentine street sandwich consists of a grilled pork/beef sausage inside a crusty baguette slathered in chimichurri?",
           "options": [
-            "El Lomito (The Sacred Fire of the Pampas)",
-            "El Choripán (The Sacred Fire of the Pampas)",
-            "El Pancho (The Sacred Fire of the Pampas)",
-            "El Tostado (The Sacred Fire of the Pampas)"
+            "El Lomito",
+            "El Choripán",
+            "El Pancho",
+            "El Tostado"
           ],
           "answerIndex": 1,
           "explanation": "El Choripán.",
@@ -16604,10 +16608,10 @@
         {
           "prompt": "Which high-altitude sub-region of Mendoza, featuring vineyards up to 1,600 meters above sea level in Gualtallary and Altamira, produces Argentina's most prized Malbecs?",
           "options": [
-            "El Valle de Uco (HighAltitude Malbec  The Andean Terroir)",
-            "El Valle de Cafayate (HighAltitude Malbec  The Andean Terroir)",
-            "El Valle del Río Negro (HighAltitude Malbec  The Andean Terroir)",
-            "La Quebrada de Humahuaca (HighAltitude Malbec  The Andean Terroir)"
+            "El Valle de Uco",
+            "El Valle de Cafayate",
+            "El Valle del Río Negro",
+            "La Quebrada de Humahuaca"
           ],
           "answerIndex": 0,
           "explanation": "El Valle de Uco."
@@ -16619,10 +16623,10 @@
         {
           "prompt": "Which visionary Argentine winemaker transformed Argentine wine on the global stage in the 1980s by planting high-altitude Malbec vineyards in Gualtallary?",
           "options": [
-            "Nicolás Catena Zapata (HighAltitude Malbec  The Andean Terroir)",
-            "Michel Rolland (HighAltitude Malbec  The Andean Terroir)",
-            "Alberto Antonini (HighAltitude Malbec  The Andean Terroir)",
-            "Roberto de la Mota (HighAltitude Malbec  The Andean Terroir)"
+            "Nicolás Catena Zapata",
+            "Michel Rolland",
+            "Alberto Antonini",
+            "Roberto de la Mota"
           ],
           "answerIndex": 0,
           "explanation": "Nicolás Catena Zapata."
@@ -16634,10 +16638,10 @@
         {
           "prompt": "Translate: \"High-altitude Andean UV radiation stimulates Malbec grape skins to produce concentrated anthocyanins and velvety tannins, balanced by crisp acidity from extreme diurnal temperature swings.\"",
           "options": [
-            "El Malbec argentino se cultiva en las selvas tropicales de Misiones. (HighAltitude Malbec  The Andean Terroir)",
-            "La radiación UV andina de gran altura estimula la piel de las uvas Malbec para producir antocianinas concentradas y taninos aterciopelados, equilibrados por una acidez fresca gracias a la extrema amplitud térmica. (HighAltitude Malbec  The Andean Terroir)",
-            "Nicolás Catena Zapata fue un campeón de natación olímpico. (HighAltitude Malbec  The Andean Terroir)",
-            "El vino de Mendoza se elabora exclusivamente con agua de mar. (HighAltitude Malbec  The Andean Terroir)"
+            "El Malbec argentino se cultiva en las selvas tropicales de Misiones.",
+            "La radiación UV andina de gran altura estimula la piel de las uvas Malbec para producir antocianinas concentradas y taninos aterciopelados, equilibrados por una acidez fresca gracias a la extrema amplitud térmica.",
+            "Nicolás Catena Zapata fue un campeón de natación olímpico.",
+            "El vino de Mendoza se elabora exclusivamente con agua de mar."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Malbec terroir analysis translation.",
@@ -16646,10 +16650,10 @@
         {
           "prompt": "What indigenous canal irrigation system, originally engineered by the Huarpe civilization, channels Andean glacial snowmelt directly to Mendoza vineyards?",
           "options": [
-            "Las acequias (HighAltitude Malbec  The Andean Terroir)",
-            "Los acueductos romanos (HighAltitude Malbec  The Andean Terroir)",
-            "Las represas hidroeléctricas (HighAltitude Malbec  The Andean Terroir)",
-            "Los cenotes (HighAltitude Malbec  The Andean Terroir)"
+            "Las acequias",
+            "Los acueductos romanos",
+            "Las represas hidroeléctricas",
+            "Los cenotes"
           ],
           "answerIndex": 0,
           "explanation": "Las acequias.",
@@ -16686,10 +16690,10 @@
         {
           "prompt": "Which northern Argentine province is famous for its juicy empanadas made with hand-cut beef, diced boiled potatoes, and cumin?",
           "options": [
-            "Salta (The Art of the Empanada  Regional Geometry)",
-            "Buenos Aires (The Art of the Empanada  Regional Geometry)",
-            "Mendoza (The Art of the Empanada  Regional Geometry)",
-            "Santa Fe (The Art of the Empanada  Regional Geometry)"
+            "Salta",
+            "Buenos Aires",
+            "Mendoza",
+            "Santa Fe"
           ],
           "answerIndex": 0,
           "explanation": "Salta (Empanada Salteña)."
@@ -16701,10 +16705,10 @@
         {
           "prompt": "What specific cut of beef, simmered and hand-diced, is the canonical protein in authentic Tucumán empanadas?",
           "options": [
-            "El matambre (The Art of the Empanada  Regional Geometry)",
-            "El peceto (The Art of the Empanada  Regional Geometry)",
-            "La colita de cuadril (The Art of the Empanada  Regional Geometry)",
-            "El lomo (The Art of the Empanada  Regional Geometry)"
+            "El matambre",
+            "El peceto",
+            "La colita de cuadril",
+            "El lomo"
           ],
           "answerIndex": 0,
           "explanation": "El matambre."
@@ -16716,10 +16720,10 @@
         {
           "prompt": "Translate: \"The traditional handmade thirteen-pleat repulgue hermetically seals the seasoned knife-cut beef filling inside the dough before baking in a clay oven.\"",
           "options": [
-            "El repulgue artesanal tradicional de trece pliegues sella herméticamente el relleno de carne cortada a cuchillo condimentada dentro de la masa antes de hornearse en horno de barro. (The Art of the Empanada  Regional Geometry)",
-            "El matambre es un tipo de manzana roja de la Patagonia. (The Art of the Empanada  Regional Geometry)",
-            "El repulgue es una máquina industrial inventada en Alemania. (The Art of the Empanada  Regional Geometry)",
-            "Las empanadas argentinas son panes dulces rellenos de chocolate en polvo. (The Art of the Empanada  Regional Geometry)"
+            "El repulgue artesanal tradicional de trece pliegues sella herméticamente el relleno de carne cortada a cuchillo condimentada dentro de la masa antes de hornearse en horno de barro.",
+            "El matambre es un tipo de manzana roja de la Patagonia.",
+            "El repulgue es una máquina industrial inventada en Alemania.",
+            "Las empanadas argentinas son panes dulces rellenos de chocolate en polvo."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Empanada analysis translation.",
@@ -16728,10 +16732,10 @@
         {
           "prompt": "What traditional wood-fired outdoor oven, constructed from bricks and straw-clay, is essential for baking authentic northern Argentine empanadas?",
           "options": [
-            "El microondas (The Art of the Empanada  Regional Geometry)",
-            "El horno solar (The Art of the Empanada  Regional Geometry)",
-            "La freidora de aire (The Art of the Empanada  Regional Geometry)",
-            "El horno de barro (The Art of the Empanada  Regional Geometry)"
+            "El microondas",
+            "El horno solar",
+            "La freidora de aire",
+            "El horno de barro"
           ],
           "answerIndex": 3,
           "explanation": "El horno de barro (Clay / Mud Oven).",
@@ -16937,10 +16941,10 @@
         {
           "prompt": "¿Qué rasgo arquitectónico y acústico distingue a la sala principal del Teatro Colón de Buenos Aires?",
           "options": [
-            "Su planta circular abierta de hormigón armado sin cortinajes. (El Teatro Coln de Buenos Aires)",
-            "Su diseño en herradura con cámaras de resonancia y materiales nobles que generan una acústica perfecta. (El Teatro Coln de Buenos Aires)",
-            "Una estructura cuadrada techada con vidrio que anula la reverberación sonora. (El Teatro Coln de Buenos Aires)",
-            "Un diseño de anfiteatro griego al aire libre. (El Teatro Coln de Buenos Aires)"
+            "Su planta circular abierta de hormigón armado sin cortinajes.",
+            "Su diseño en herradura con cámaras de resonancia y materiales nobles que generan una acústica perfecta.",
+            "Una estructura cuadrada techada con vidrio que anula la reverberación sonora.",
+            "Un diseño de anfiteatro griego al aire libre."
           ],
           "answerIndex": 1,
           "explanation": "La sala en herradura del Teatro Colón equilibra absorción y reflexión del sonido, otorgándole su fama acústica mundial."
@@ -16952,10 +16956,10 @@
         {
           "prompt": "¿Cuál es la función de los extensos talleres subterráneos del Teatro Colón?",
           "options": [
-            "Producir íntegramente de forma artesanal la escenografía, vestuario, utilería y calzado para todas las puestas en escena. (El Teatro Coln de Buenos Aires)",
-            "Servir exclusivamente como depósito de residuos urbanos de la Ciudad de Buenos Aires. (El Teatro Coln de Buenos Aires)",
-            "Albergar una estación de metro subterránea sin vínculo con el teatro. (El Teatro Coln de Buenos Aires)",
-            "Funcionar como imprenta comercial ajena a la actividad artística. (El Teatro Coln de Buenos Aires)"
+            "Producir íntegramente de forma artesanal la escenografía, vestuario, utilería y calzado para todas las puestas en escena.",
+            "Servir exclusivamente como depósito de residuos urbanos de la Ciudad de Buenos Aires.",
+            "Albergar una estación de metro subterránea sin vínculo con el teatro.",
+            "Funcionar como imprenta comercial ajena a la actividad artística."
           ],
           "answerIndex": 0,
           "explanation": "El Colón es una de las pocas salas del mundo con capacidad de producción artesanal integral in-house en sus propios talleres."
@@ -16967,10 +16971,10 @@
         {
           "prompt": "¿Quién fue el artista plástico argentino responsable del emblemático fresco que decora la cúpula central del Teatro Colón?",
           "options": [
-            "Antonio Berni (El Teatro Coln de Buenos Aires)",
-            "Raúl Soldi (El Teatro Coln de Buenos Aires)",
-            "Xul Solar (El Teatro Coln de Buenos Aires)",
-            "Benito Quinquela Martín (El Teatro Coln de Buenos Aires)"
+            "Antonio Berni",
+            "Raúl Soldi",
+            "Xul Solar",
+            "Benito Quinquela Martín"
           ],
           "answerIndex": 1,
           "explanation": "Raúl Soldi pintó la cúpula del Colón en 1966, representando alegorías teatrales y musicales.",
@@ -16979,10 +16983,10 @@
         {
           "prompt": "En la jerga operística rioplatense, ¿a qué alude la expresión «temporada lírica oficial»?",
           "options": [
-            "A la programación anual de óperas, recitales y conciertos sinfónicos mayores presentada por el teatro. (El Teatro Coln de Buenos Aires)",
-            "Al receso invernal de ensayos orquestales. (El Teatro Coln de Buenos Aires)",
-            "A una competencia deportiva entre músicos. (El Teatro Coln de Buenos Aires)",
-            "A la venta de entradas de reventa callejera. (El Teatro Coln de Buenos Aires)"
+            "A la programación anual de óperas, recitales y conciertos sinfónicos mayores presentada por el teatro.",
+            "Al receso invernal de ensayos orquestales.",
+            "A una competencia deportiva entre músicos.",
+            "A la venta de entradas de reventa callejera."
           ],
           "answerIndex": 0,
           "explanation": "La temporada lírica es el ciclo troncal de representaciones operísticas del repertorio internacional.",
@@ -17024,10 +17028,10 @@
         {
           "prompt": "¿Cuál es la diferencia medular entre el sainete criollo de Vacarezza y el grotesco criollo de Armando Discépolo?",
           "options": [
-            "El sainete aborda con humor y música la convivencia del conventillo, mientras el grotesco profundiza en la tragedia interior, la angustia existencial y el fracaso económico del inmigrante. (El Sainete Criollo y el Grotesco Criollo)",
-            "El sainete es teatro en verso clásico y el grotesco es danza contemporánea muda. (El Sainete Criollo y el Grotesco Criollo)",
-            "El grotesco trata exclusivamente temas religiosos medievales europeos. (El Sainete Criollo y el Grotesco Criollo)",
-            "No existe diferencia estilística ni temática entre ambos movimientos. (El Sainete Criollo y el Grotesco Criollo)"
+            "El sainete aborda con humor y música la convivencia del conventillo, mientras el grotesco profundiza en la tragedia interior, la angustia existencial y el fracaso económico del inmigrante.",
+            "El sainete es teatro en verso clásico y el grotesco es danza contemporánea muda.",
+            "El grotesco trata exclusivamente temas religiosos medievales europeos.",
+            "No existe diferencia estilística ni temática entre ambos movimientos."
           ],
           "answerIndex": 0,
           "explanation": "Discépolo transformó la carcajada exterior del sainete en una mueca dolorosa sobre el desencanto y la miseria humana."
@@ -17039,10 +17043,10 @@
         {
           "prompt": "¿Qué simboliza el caballo Mateo en la emblemática pieza teatral homónima de 1923 de Armando Discépolo?",
           "options": [
-            "La victoria tecnológica de los vehículos motorizados en el transporte urbano. (El Sainete Criollo y el Grotesco Criollo)",
-            "La lealtad, la vejez compartida y el declive inevitable del trabajador artesanal ante la modernización capitalista. (El Sainete Criollo y el Grotesco Criollo)",
-            "Un animal de carreras en el hipódromo de Palermo. (El Sainete Criollo y el Grotesco Criollo)",
-            "Un personaje mitológico de la antigua Roma. (El Sainete Criollo y el Grotesco Criollo)"
+            "La victoria tecnológica de los vehículos motorizados en el transporte urbano.",
+            "La lealtad, la vejez compartida y el declive inevitable del trabajador artesanal ante la modernización capitalista.",
+            "Un animal de carreras en el hipódromo de Palermo.",
+            "Un personaje mitológico de la antigua Roma."
           ],
           "answerIndex": 1,
           "explanation": "Mateo representa el vínculo afectivo y la agonía laboral del cochero despojado de sustento por el avance del automóvil."
@@ -17054,10 +17058,10 @@
         {
           "prompt": "¿En qué espacio arquitectónico y social se ambientaba típicamente el sainete criollo tradicional?",
           "options": [
-            "El patio comunal del conventillo porteño (El Sainete Criollo y el Grotesco Criollo)",
-            "Los salones palaciegos de la aristocracia terrateniente (El Sainete Criollo y el Grotesco Criollo)",
-            "Las estancias ganaderas de la Patagonia (El Sainete Criollo y el Grotesco Criollo)",
-            "Una nave industrial aeroespacial (El Sainete Criollo y el Grotesco Criollo)"
+            "El patio comunal del conventillo porteño",
+            "Los salones palaciegos de la aristocracia terrateniente",
+            "Las estancias ganaderas de la Patagonia",
+            "Una nave industrial aeroespacial"
           ],
           "answerIndex": 0,
           "explanation": "El conventillo porteño era el crisol urbano donde convergían inmigrantes de diversas nacionalidades y criollos.",
@@ -17066,10 +17070,10 @@
         {
           "prompt": "¿Cómo se define el término lingüístico-teatral «cocoliche»?",
           "options": [
-            "Una variedad híbrida de contacto entre dialectos italianos y el español rioplatense, popularizada en el teatro popular. (El Sainete Criollo y el Grotesco Criollo)",
-            "Un instrumento musical de cuerda típico del norte argentino. (El Sainete Criollo y el Grotesco Criollo)",
-            "El vestuario de gala de los directores de ópera. (El Sainete Criollo y el Grotesco Criollo)",
-            "Un tipo de danza folclórica del litoral. (El Sainete Criollo y el Grotesco Criollo)"
+            "Una variedad híbrida de contacto entre dialectos italianos y el español rioplatense, popularizada en el teatro popular.",
+            "Un instrumento musical de cuerda típico del norte argentino.",
+            "El vestuario de gala de los directores de ópera.",
+            "Un tipo de danza folclórica del litoral."
           ],
           "answerIndex": 0,
           "explanation": "El cocoliche es la interlengua italo-criolla nacida de la inmigración masiva y canonizada en los escenarios porteños.",
@@ -17111,10 +17115,10 @@
         {
           "prompt": "¿Qué recurso dramático maestro emplea Griselda Gambaro en «El campo» (1967) para examinar la dinámica de dominación?",
           "options": [
-            "La transformación de un espacio cotidiano y refinado en un centro de reclusión donde el cautivo es inducido a normalizar su propio castigo. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Un musical infantil con desenlace feliz y canciones cómicas. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Un documental periodístico en video sin actores en escena. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Una recreación historicista estricta de las guerras púnicas. (Griselda Gambaro y la Dramaturgia del Poder)"
+            "La transformación de un espacio cotidiano y refinado en un centro de reclusión donde el cautivo es inducido a normalizar su propio castigo.",
+            "Un musical infantil con desenlace feliz y canciones cómicas.",
+            "Un documental periodístico en video sin actores en escena.",
+            "Una recreación historicista estricta de las guerras púnicas."
           ],
           "answerIndex": 0,
           "explanation": "En «El campo», la violencia se camufla bajo formalismos burocráticos y cortesía perversa, exponiendo la vulnerabilidad humana ante el poder absoluto."
@@ -17126,10 +17130,10 @@
         {
           "prompt": "¿Por qué «La malasangre» (1982) de Gambaro tuvo un impacto político tan resonante al estrenarse en los últimos años de la dictadura?",
           "options": [
-            "Porque el autoritarismo del padre de familia en el siglo XIX funcionaba como un espejo transparente del terrorismo de Estado y la censura contemporánea. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Porque promovía el apoyo incondicional a la junta militar gobernante. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Porque era una comedia sobre el turismo internacional en Europa. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Porque no contenía ningún diálogo ni actores. (Griselda Gambaro y la Dramaturgia del Poder)"
+            "Porque el autoritarismo del padre de familia en el siglo XIX funcionaba como un espejo transparente del terrorismo de Estado y la censura contemporánea.",
+            "Porque promovía el apoyo incondicional a la junta militar gobernante.",
+            "Porque era una comedia sobre el turismo internacional en Europa.",
+            "Porque no contenía ningún diálogo ni actores."
           ],
           "answerIndex": 0,
           "explanation": "La obra empleó el distanciamiento histórico para formular una lúcida crítica a la tiranía en un momento de estricta censura."
@@ -17141,10 +17145,10 @@
         {
           "prompt": "¿Cuál de las siguientes obras NO pertenece a la autoría de Griselda Gambaro?",
           "options": [
-            "Bodas de sangre (Griselda Gambaro y la Dramaturgia del Poder)",
-            "Los siameses (Griselda Gambaro y la Dramaturgia del Poder)",
-            "El campo (Griselda Gambaro y la Dramaturgia del Poder)",
-            "La malasangre (Griselda Gambaro y la Dramaturgia del Poder)"
+            "Bodas de sangre",
+            "Los siameses",
+            "El campo",
+            "La malasangre"
           ],
           "answerIndex": 0,
           "explanation": "«Bodas de sangre» es una tragedia del dramaturgo español Federico García Lorca; las otras tres son obras cumbre de Gambaro.",
@@ -17153,10 +17157,10 @@
         {
           "prompt": "¿Qué concepto teórico define la relación entre verdugo y víctima en las piezas tempranas de Gambaro?",
           "options": [
-            "La complicidad forzada y la ambigüedad moral de los roles de poder. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "El enfrentamiento heroico de caballeros andantes. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "La indiferencia absoluta hacia la política social. (Griselda Gambaro y la Dramaturgia del Poder)",
-            "La comedia de enredos matrimoniales burgueses. (Griselda Gambaro y la Dramaturgia del Poder)"
+            "La complicidad forzada y la ambigüedad moral de los roles de poder.",
+            "El enfrentamiento heroico de caballeros andantes.",
+            "La indiferencia absoluta hacia la política social.",
+            "La comedia de enredos matrimoniales burgueses."
           ],
           "answerIndex": 0,
           "explanation": "Gambaro investiga cómo el poder desarticula la identidad de la víctima hasta hacerla copartícipe de su propio calvario.",
@@ -17285,10 +17289,10 @@
         {
           "prompt": "¿Qué innovación escénica cardinal introdujeron De La Guarda y Fuerza Bruta en el teatro contemporáneo internacional?",
           "options": [
-            "La eliminación del escenario convencional para colocar al público de pie dentro de una experiencia sensorial inmersiva total con acrobacia aérea y piletas suspendidas. (Puesta en Escena Inmersiva Contempornea)",
-            "El retorno al verso alejandrino clásico sin ningún tipo de movimiento corporal. (Puesta en Escena Inmersiva Contempornea)",
-            "La proyección exclusiva de diapositivas en blanco y negro sin intérpretes vivos. (Puesta en Escena Inmersiva Contempornea)",
-            "La lectura estática de textos filosóficos en un atril universitario. (Puesta en Escena Inmersiva Contempornea)"
+            "La eliminación del escenario convencional para colocar al público de pie dentro de una experiencia sensorial inmersiva total con acrobacia aérea y piletas suspendidas.",
+            "El retorno al verso alejandrino clásico sin ningún tipo de movimiento corporal.",
+            "La proyección exclusiva de diapositivas en blanco y negro sin intérpretes vivos.",
+            "La lectura estática de textos filosóficos en un atril universitario."
           ],
           "answerIndex": 0,
           "explanation": "Fuerza Bruta desmanteló la platea tradicional convirtiendo el espacio en un acontecimiento físico inmersivo y visceral."
@@ -17300,10 +17304,10 @@
         {
           "prompt": "¿De qué matriz artística del underground porteño de los años ochenta provienen los creadores de De La Guarda y Fuerza Bruta?",
           "options": [
-            "De La Organización Negra y el ambiente de experimentación transgresora posterior a la dictadura militar. (Puesta en Escena Inmersiva Contempornea)",
-            "De la compañía real de ópera cortesana de Viena. (Puesta en Escena Inmersiva Contempornea)",
-            "De los grupos de pantomima clásica del siglo XVIII. (Puesta en Escena Inmersiva Contempornea)",
-            "De los concursos de declamación académica escolar. (Puesta en Escena Inmersiva Contempornea)"
+            "De La Organización Negra y el ambiente de experimentación transgresora posterior a la dictadura militar.",
+            "De la compañía real de ópera cortesana de Viena.",
+            "De los grupos de pantomima clásica del siglo XVIII.",
+            "De los concursos de declamación académica escolar."
           ],
           "answerIndex": 0,
           "explanation": "La Organización Negra y Cemento fueron el caldo de cultivo contracultural que forjó la estética de choque físico de Diqui James."
@@ -17315,10 +17319,10 @@
         {
           "prompt": "¿Qué material translúcido y flexible se utiliza en la célebre pileta aérea que desciende sobre el público en los shows de Fuerza Bruta?",
           "options": [
-            "Mylar / membrana de polímero transparente de alta resistencia (Puesta en Escena Inmersiva Contempornea)",
-            "Vidrio templado blindado no deformable (Puesta en Escena Inmersiva Contempornea)",
-            "Madera de roble macizo (Puesta en Escena Inmersiva Contempornea)",
-            "Planchas de aluminio opaco (Puesta en Escena Inmersiva Contempornea)"
+            "Mylar / membrana de polímero transparente de alta resistencia",
+            "Vidrio templado blindado no deformable",
+            "Madera de roble macizo",
+            "Planchas de aluminio opaco"
           ],
           "answerIndex": 0,
           "explanation": "La membrana de mylar permite que el agua y las bailarinas se amolden al contacto directo con las manos de los espectadores.",
@@ -17327,10 +17331,10 @@
         {
           "prompt": "¿Quién es el compositor y director musical clave detrás de las bandas sonoras rítmicas de De La Guarda y Fuerza Bruta?",
           "options": [
-            "Gaby Kerpel (Puesta en Escena Inmersiva Contempornea)",
-            "Astor Piazzolla (Puesta en Escena Inmersiva Contempornea)",
-            "Gustavo Santaolalla (Puesta en Escena Inmersiva Contempornea)",
-            "Lalo Schifrin (Puesta en Escena Inmersiva Contempornea)"
+            "Gaby Kerpel",
+            "Astor Piazzolla",
+            "Gustavo Santaolalla",
+            "Lalo Schifrin"
           ],
           "answerIndex": 0,
           "explanation": "Gaby Kerpel compuso la icónica música percusiva y electrónica que impulsa la energía de los espectáculos.",
@@ -17372,10 +17376,10 @@
         {
           "prompt": "¿Cuál era la finalidad económica principal del sistema de estancias jesuíticas en Córdoba durante el período colonial?",
           "options": [
-            "Financiar el funcionamiento académico y el mantenimiento del Colegio Máximo y la Universidad de Córdoba. (Las Estancias Jesuticas de Crdoba)",
-            "Construir fortalezas militares de defensa contra invasiones ultramarinas. (Las Estancias Jesuticas de Crdoba)",
-            "Monopolizar el comercio de oro y plata con el Virreinato del Perú exclusivamente. (Las Estancias Jesuticas de Crdoba)",
-            "Crear complejos hoteleros para diplomáticos europeos. (Las Estancias Jesuticas de Crdoba)"
+            "Financiar el funcionamiento académico y el mantenimiento del Colegio Máximo y la Universidad de Córdoba.",
+            "Construir fortalezas militares de defensa contra invasiones ultramarinas.",
+            "Monopolizar el comercio de oro y plata con el Virreinato del Perú exclusivamente.",
+            "Crear complejos hoteleros para diplomáticos europeos."
           ],
           "answerIndex": 0,
           "explanation": "Las estancias rurales generaban los excedentes agroganaderos indispensables para sostener las instituciones educativas jesuitas cordobesas."
@@ -17387,10 +17391,10 @@
         {
           "prompt": "¿Qué elemento de ingeniería hidráulica colonial destaca en la Estancia de Alta Gracia?",
           "options": [
-            "El tajamar, un embalse artificial de piedra que alimentaba molinos y huertas mediante canales y acequias. (Las Estancias Jesuticas de Crdoba)",
-            "Una planta desalinizadora de agua de mar. (Las Estancias Jesuticas de Crdoba)",
-            "Un acueducto submarino de hierro fundido. (Las Estancias Jesuticas de Crdoba)",
-            "Una presa hidroeléctrica de turbinas modernas. (Las Estancias Jesuticas de Crdoba)"
+            "El tajamar, un embalse artificial de piedra que alimentaba molinos y huertas mediante canales y acequias.",
+            "Una planta desalinizadora de agua de mar.",
+            "Un acueducto submarino de hierro fundido.",
+            "Una presa hidroeléctrica de turbinas modernas."
           ],
           "answerIndex": 0,
           "explanation": "El tajamar de Alta Gracia es una de las obras de ingeniería hidráulica jesuítica mejor conservadas del continente."
@@ -17402,10 +17406,10 @@
         {
           "prompt": "¿En qué año fueron declaradas Patrimonio Cultural de la Humanidad por la UNESCO la Manzana Jesuítica y las Estancias de Córdoba?",
           "options": [
-            "Año 2000 (Las Estancias Jesuticas de Crdoba)",
-            "Año 1810 (Las Estancias Jesuticas de Crdoba)",
-            "Año 1945 (Las Estancias Jesuticas de Crdoba)",
-            "Año 1982 (Las Estancias Jesuticas de Crdoba)"
+            "Año 2000",
+            "Año 1810",
+            "Año 1945",
+            "Año 1982"
           ],
           "answerIndex": 0,
           "explanation": "La UNESCO otorgó la distinción de Patrimonio Mundial al conjunto cordobés en el año 2000.",
@@ -17414,10 +17418,10 @@
         {
           "prompt": "¿Qué orden religiosa fundó y administró estas estancias hasta su expulsión en 1767?",
           "options": [
-            "La Compañía de Jesús (Las Estancias Jesuticas de Crdoba)",
-            "La Orden Franciscana (Las Estancias Jesuticas de Crdoba)",
-            "Los Monjes Benedictinos (Las Estancias Jesuticas de Crdoba)",
-            "La Orden de los Templarios (Las Estancias Jesuticas de Crdoba)"
+            "La Compañía de Jesús",
+            "La Orden Franciscana",
+            "Los Monjes Benedictinos",
+            "La Orden de los Templarios"
           ],
           "answerIndex": 0,
           "explanation": "Los sacerdotes jesuitas organizaron y administraron el circuito productivo hasta la expulsión decretada por la corona española.",
@@ -17459,10 +17463,10 @@
         {
           "prompt": "¿Qué hito urbanístico inaugurado en 1894 unió la Plaza de Mayo con la Plaza del Congreso en Buenos Aires?",
           "options": [
-            "La Avenida de Mayo, concebida como bulevar de inspiración parisina con cúpulas monumentales y trazado axial. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "La autopista Panamericana elevada. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "El Paseo del Bajo. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "La peatonal Florida en su tramo este. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)"
+            "La Avenida de Mayo, concebida como bulevar de inspiración parisina con cúpulas monumentales y trazado axial.",
+            "La autopista Panamericana elevada.",
+            "El Paseo del Bajo.",
+            "La peatonal Florida en su tramo este."
           ],
           "answerIndex": 0,
           "explanation": "La Avenida de Mayo fue el primer bulevar monumental porteño que articuló los poderes ejecutivo y legislativo."
@@ -17474,10 +17478,10 @@
         {
           "prompt": "¿Por qué el Palacio de Aguas Corrientes en el barrio de Balvanera es único en la historia de la arquitectura mundial?",
           "options": [
-            "Porque es un palacio monumental de terracota esmaltada que oculta en su interior gigantescos tanques de agua potable de hierro fundido. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "Porque funcionó como la residencia de verano de los presidentes argentinos. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "Porque está construido enteramente con madera de quebracho colorado sin clavos. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "Porque es una réplica exacta de la Torre Eiffel en miniatura. (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)"
+            "Porque es un palacio monumental de terracota esmaltada que oculta en su interior gigantescos tanques de agua potable de hierro fundido.",
+            "Porque funcionó como la residencia de verano de los presidentes argentinos.",
+            "Porque está construido enteramente con madera de quebracho colorado sin clavos.",
+            "Porque es una réplica exacta de la Torre Eiffel en miniatura."
           ],
           "answerIndex": 0,
           "explanation": "El edificio es una deslumbrante envoltura decorativa Beaux-Arts diseñada para monumentalizar un depósito técnico de agua de 72 millones de litros."
@@ -17489,10 +17493,10 @@
         {
           "prompt": "¿Quién fue el paisajista franco-argentino responsable del diseño del Parque 3 de Febrero, el Jardín Botánico y la forestación urbana con jacarandás y tipas en Buenos Aires?",
           "options": [
-            "Carlos Thays (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "Le Corbusier (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "Clorindo Testa (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "Francisco Salamone (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)"
+            "Carlos Thays",
+            "Le Corbusier",
+            "Clorindo Testa",
+            "Francisco Salamone"
           ],
           "answerIndex": 0,
           "explanation": "Carlos Thays fue el Director de Paseos de Buenos Aires que dotó a la ciudad de su patrimonio botánico y paisajístico distintivo.",
@@ -17501,10 +17505,10 @@
         {
           "prompt": "¿Qué elemento arquitectónico de cubierta es característico de los edificios de inspiración francesa en la arquitectura porteña?",
           "options": [
-            "La mansarda de pizarra con buhardillas o claraboyas (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "El techo plano de paja y adobe (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "La cúpula de ladrillo visto sin revocar (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)",
-            "La teja colonial de arcilla curva exclusivamente (El Eclecticismo Porteo y la Arquitectura Acadmica Francesa)"
+            "La mansarda de pizarra con buhardillas o claraboyas",
+            "El techo plano de paja y adobe",
+            "La cúpula de ladrillo visto sin revocar",
+            "La teja colonial de arcilla curva exclusivamente"
           ],
           "answerIndex": 0,
           "explanation": "Las mansardas afrancesadas de zinc y pizarra son la seña visual clásica de la arquitectura residencial y pública porteña del período.",
@@ -17546,10 +17550,10 @@
         {
           "prompt": "¿En qué obra literaria clásica se inspiró el arquitecto Mario Palanti para concebir la estructura y proporciones del Palacio Barolo en Buenos Aires?",
           "options": [
-            "La «Divina Comedia» de Dante Alighieri (Art Nouveau y Art Dco en Argentina)",
-            "El «Martín Fierro» de José Hernández (Art Nouveau y Art Dco en Argentina)",
-            "El «Quijote de la Mancha» de Miguel de Cervantes (Art Nouveau y Art Dco en Argentina)",
-            "La «Ilíada» de Homero (Art Nouveau y Art Dco en Argentina)"
+            "La «Divina Comedia» de Dante Alighieri",
+            "El «Martín Fierro» de José Hernández",
+            "El «Quijote de la Mancha» de Miguel de Cervantes",
+            "La «Ilíada» de Homero"
           ],
           "answerIndex": 0,
           "explanation": "El Barolo fue diseñado como un homenaje arquitectónico a Dante: sus 100 metros de altura corresponden a los 100 cantos de la Divina Comedia."
@@ -17561,10 +17565,10 @@
         {
           "prompt": "¿Qué características singulares definen la obra arquitectónica de Francisco Salamone en la provincia de Buenos Aires?",
           "options": [
-            "Estructuras monumentales de hormigón armado con torres angulosas, portales expresionistas y geometría Art Déco en pueblos pampeanos. (Art Nouveau y Art Dco en Argentina)",
-            "Cabañas rústicas de madera alpina en zonas boscosas de montaña. (Art Nouveau y Art Dco en Argentina)",
-            "Palacetes rococó decorados con estucos dorados y jardines barrocos. (Art Nouveau y Art Dco en Argentina)",
-            "Viviendas sociales prefabricadas de plástico. (Art Nouveau y Art Dco en Argentina)"
+            "Estructuras monumentales de hormigón armado con torres angulosas, portales expresionistas y geometría Art Déco en pueblos pampeanos.",
+            "Cabañas rústicas de madera alpina en zonas boscosas de montaña.",
+            "Palacetes rococó decorados con estucos dorados y jardines barrocos.",
+            "Viviendas sociales prefabricadas de plástico."
           ],
           "answerIndex": 0,
           "explanation": "Salamone construyó más de 60 edificios públicos de estética monumentalista y Art Déco futurista en el interior bonaerense."
@@ -17576,10 +17580,10 @@
         {
           "prompt": "¿Qué récord arquitectónico ostentó el Edificio Kavanagh en Retiro tras su inauguración en 1936?",
           "options": [
-            "Fue el edificio de hormigón armado y rascacielos residencial más alto de Sudamérica en su momento. (Art Nouveau y Art Dco en Argentina)",
-            "Fue el primer edificio con piscina olímpica subterránea del mundo. (Art Nouveau y Art Dco en Argentina)",
-            "Fue la primera catedral gótica construida en acero inoxidable. (Art Nouveau y Art Dco en Argentina)",
-            "Fue la casa más pequeña de la Ciudad de Buenos Aires. (Art Nouveau y Art Dco en Argentina)"
+            "Fue el edificio de hormigón armado y rascacielos residencial más alto de Sudamérica en su momento.",
+            "Fue el primer edificio con piscina olímpica subterránea del mundo.",
+            "Fue la primera catedral gótica construida en acero inoxidable.",
+            "Fue la casa más pequeña de la Ciudad de Buenos Aires."
           ],
           "answerIndex": 0,
           "explanation": "Con 120 metros y 31 pisos, el Kavanagh fue la torre de hormigón armado más elevada de América del Sur.",
@@ -17588,10 +17592,10 @@
         {
           "prompt": "¿Qué tipología de edificios públicos diseñó prioritariamente Salamone en los municipios bonaerenses?",
           "options": [
-            "Palacios municipales, mataderos modelo y portales monumentales de cementerios. (Art Nouveau y Art Dco en Argentina)",
-            "Estaciones de esquí y refugios de montaña. (Art Nouveau y Art Dco en Argentina)",
-            "Bancos privados de inversión internacional. (Art Nouveau y Art Dco en Argentina)",
-            "Estadios de fútbol para la liga profesional. (Art Nouveau y Art Dco en Argentina)"
+            "Palacios municipales, mataderos modelo y portales monumentales de cementerios.",
+            "Estaciones de esquí y refugios de montaña.",
+            "Bancos privados de inversión internacional.",
+            "Estadios de fútbol para la liga profesional."
           ],
           "answerIndex": 0,
           "explanation": "El plan de obras públicas de Salamone abarcó municipalidades con torres de reloj, mataderos y accesos a cementerios.",
@@ -17633,10 +17637,10 @@
         {
           "prompt": "¿Qué solución arquitectónica genial caracteriza a la Biblioteca Nacional de Buenos Aires diseñada por Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga?",
           "options": [
-            "Elevar la sala de lectura en un volumen escultórico sobre cuatro grandes columnas de hormigón, liberando el parque inferior y enterrando los libros en el subsuelo. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Construir un rascacielos vidriado hermético sin contacto con la vegetación del parque. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Replicar el Partenón griego en mármol blanco de Carrara. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Utilizar exclusivamente contenedores marítimos de acero reciclado. (El Movimiento Moderno y la Escuela Brutalista Argentina)"
+            "Elevar la sala de lectura en un volumen escultórico sobre cuatro grandes columnas de hormigón, liberando el parque inferior y enterrando los libros en el subsuelo.",
+            "Construir un rascacielos vidriado hermético sin contacto con la vegetación del parque.",
+            "Replicar el Partenón griego en mármol blanco de Carrara.",
+            "Utilizar exclusivamente contenedores marítimos de acero reciclado."
           ],
           "answerIndex": 0,
           "explanation": "Testa elevó la sala de lectura hacia la vista panorámica del río y protegió los libros en depósitos subterráneos con temperatura constante."
@@ -17648,10 +17652,10 @@
         {
           "prompt": "¿Cuál es la premisa conceptual y estructural de la «Casa sobre el Arroyo» de Amancio Williams en Mar del Plata?",
           "options": [
-            "Un puente curvo de hormigón que sostiene una caja habitable suspendida en el aire, permitiendo que el arroyo fluya ininterrumpidamente por debajo. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Una vivienda subterránea excavada completamente en roca volcánica. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Una casa rodante flotante que navega por el Río de la Plata. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Un palacio colonial español con tres patios interiores y techos de tejas. (El Movimiento Moderno y la Escuela Brutalista Argentina)"
+            "Un puente curvo de hormigón que sostiene una caja habitable suspendida en el aire, permitiendo que el arroyo fluya ininterrumpidamente por debajo.",
+            "Una vivienda subterránea excavada completamente en roca volcánica.",
+            "Una casa rodante flotante que navega por el Río de la Plata.",
+            "Un palacio colonial español con tres patios interiores y techos de tejas."
           ],
           "answerIndex": 0,
           "explanation": "La Casa del Puente es una síntesis perfecta entre geometría pura, ingeniería estructural y respeto por la naturaleza circundante."
@@ -17663,10 +17667,10 @@
         {
           "prompt": "¿Qué arquitecto y artista plástico argentino es el autor de las obras maestras del brutalismo Banco de Londres y la Biblioteca Nacional?",
           "options": [
-            "Clorindo Testa (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Alejandro Bustillo (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "César Pelli (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Mario Roberto Álvarez (El Movimiento Moderno y la Escuela Brutalista Argentina)"
+            "Clorindo Testa",
+            "Alejandro Bustillo",
+            "César Pelli",
+            "Mario Roberto Álvarez"
           ],
           "answerIndex": 0,
           "explanation": "Clorindo Testa es la figura cimera del brutalismo en América Latina, combinando arquitectura de hormigón y artes plásticas.",
@@ -17675,10 +17679,10 @@
         {
           "prompt": "¿A qué se refiere el término arquitectónico «hormigón visto»?",
           "options": [
-            "Al hormigón armado dejado sin revoque ni pintura, exhibiendo la textura y huellas del encofrado como acabado final estético. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "A un vidrio transparente de alta resistencia para ventanales. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "A una alfombra sintética para aislar el sonido en salas de grabación. (El Movimiento Moderno y la Escuela Brutalista Argentina)",
-            "Al ladrillo hueco pintado de color rojo brillante. (El Movimiento Moderno y la Escuela Brutalista Argentina)"
+            "Al hormigón armado dejado sin revoque ni pintura, exhibiendo la textura y huellas del encofrado como acabado final estético.",
+            "A un vidrio transparente de alta resistencia para ventanales.",
+            "A una alfombra sintética para aislar el sonido en salas de grabación.",
+            "Al ladrillo hueco pintado de color rojo brillante."
           ],
           "answerIndex": 0,
           "explanation": "El hormigón a la vista es el material icónico del movimiento brutalista por su honestidad constructiva y potencia táctil.",
@@ -17720,10 +17724,10 @@
         {
           "prompt": "¿Qué estrategia urbanística y patrimonial fue clave en el éxito de la reconversión de Puerto Madero a partir de la década de 1990?",
           "options": [
-            "La rehabilitación de los históricos docks de ladrillo rojo y la apertura de bulevares, parques públicos y torres contemporáneas frente a los diques. (Urbanismo Contemporneo y Rascacielos)",
-            "La demolición total de todos los edificios históricos para construir un aeropuerto internacional. (Urbanismo Contemporneo y Rascacielos)",
-            "El cierre de los diques con hormigón para construir un estacionamiento de camiones. (Urbanismo Contemporneo y Rascacielos)",
-            "La instalación de una refinería de petróleo en pleno centro porteño. (Urbanismo Contemporneo y Rascacielos)"
+            "La rehabilitación de los históricos docks de ladrillo rojo y la apertura de bulevares, parques públicos y torres contemporáneas frente a los diques.",
+            "La demolición total de todos los edificios históricos para construir un aeropuerto internacional.",
+            "El cierre de los diques con hormigón para construir un estacionamiento de camiones.",
+            "La instalación de una refinería de petróleo en pleno centro porteño."
           ],
           "answerIndex": 0,
           "explanation": "Puerto Madero combinó la preservación patrimonial de los depósitos de ladrillo con rascacielos de vanguardia y espacios públicos peatonales."
@@ -17735,10 +17739,10 @@
         {
           "prompt": "¿Qué rasgo singular de diseño incluyó el célebre arquitecto argentino César Pelli en la Torre YPF de Puerto Madero?",
           "options": [
-            "Un jardín de invierno con jacarandás y árboles naturales plantados en los pisos superiores dentro de la estructura vidriada del rascacielos. (Urbanismo Contemporneo y Rascacielos)",
-            "Un helipuerto de madera sin barandas de seguridad. (Urbanismo Contemporneo y Rascacielos)",
-            "Una fachada recubierta íntegramente con mosaicos de oro macizo. (Urbanismo Contemporneo y Rascacielos)",
-            "Un parque de diversiones mecánico en el techo del edificio. (Urbanismo Contemporneo y Rascacielos)"
+            "Un jardín de invierno con jacarandás y árboles naturales plantados en los pisos superiores dentro de la estructura vidriada del rascacielos.",
+            "Un helipuerto de madera sin barandas de seguridad.",
+            "Una fachada recubierta íntegramente con mosaicos de oro macizo.",
+            "Un parque de diversiones mecánico en el techo del edificio."
           ],
           "answerIndex": 0,
           "explanation": "La Torre YPF de Pelli cuenta con un espectacular jardín suspendido con árboles vivos en los pisos 26 a 31."
@@ -17750,10 +17754,10 @@
         {
           "prompt": "¿Quién fue el arquitecto tucumano de fama mundial que diseñó la Torre YPF, la Torre BankBoston y las Torres Petronas de Malasia?",
           "options": [
-            "César Pelli (Urbanismo Contemporneo y Rascacielos)",
-            "Frank Gehry (Urbanismo Contemporneo y Rascacielos)",
-            "Zaha Hadid (Urbanismo Contemporneo y Rascacielos)",
-            "Norman Foster (Urbanismo Contemporneo y Rascacielos)"
+            "César Pelli",
+            "Frank Gehry",
+            "Zaha Hadid",
+            "Norman Foster"
           ],
           "answerIndex": 0,
           "explanation": "César Pelli, nacido en Tucumán, fue uno de los más grandes maestros mundiales del diseño de rascacielos contemporáneos.",
@@ -17762,10 +17766,10 @@
         {
           "prompt": "¿A qué figuras rinden homenaje los nombres de todas las calles y plazas del barrio de Puerto Madero en Buenos Aires?",
           "options": [
-            "A mujeres destacadas de la historia, las ciencias, las artes y la política argentina y continental. (Urbanismo Contemporneo y Rascacielos)",
-            "A presidentes de facto y generales del siglo XIX. (Urbanismo Contemporneo y Rascacielos)",
-            "A ríos y lagos de la Patagonia exclusivamente. (Urbanismo Contemporneo y Rascacielos)",
-            "A marcas de automóviles y barcos comerciales. (Urbanismo Contemporneo y Rascacielos)"
+            "A mujeres destacadas de la historia, las ciencias, las artes y la política argentina y continental.",
+            "A presidentes de facto y generales del siglo XIX.",
+            "A ríos y lagos de la Patagonia exclusivamente.",
+            "A marcas de automóviles y barcos comerciales."
           ],
           "answerIndex": 0,
           "explanation": "Puerto Madero es el único barrio porteño cuyas calles rinden tributo exclusivamente a mujeres notables.",
@@ -17810,10 +17814,10 @@
         {
           "prompt": "¿Qué documento oficial solemne otorga formalmente la representación legal y diplomática a un embajador ante un jefe de Estado extranjero?",
           "options": [
-            "Las cartas credenciales (Protocolo de Estado)",
-            "Un pasaporte de turista con sello migratorio regular. (Protocolo de Estado)",
-            "Una declaración jurada de impuestos comerciales. (Protocolo de Estado)",
-            "Una tarjeta de presentación informal de papel. (Protocolo de Estado)"
+            "Las cartas credenciales",
+            "Un pasaporte de turista con sello migratorio regular.",
+            "Una declaración jurada de impuestos comerciales.",
+            "Una tarjeta de presentación informal de papel."
           ],
           "answerIndex": 0,
           "explanation": "Las cartas credenciales acreditan el rango y los plenos poderes diplomáticos del embajador."
@@ -17825,10 +17829,10 @@
         {
           "prompt": "¿Cuál es la fórmula clásica de clausura y cortesía protocolar obligatoria en las notas diplomáticas formales de Cancillería?",
           "options": [
-            "«...hace propicia la oportunidad para reiterar a Vuestra Excelencia las seguridades de su más distinguida consideración.» (Protocolo de Estado)",
-            "«...esperamos vernos pronto en la próxima fiesta.» (Protocolo de Estado)",
-            "«...quedamos a la espera de su llamada telefónica informal.» (Protocolo de Estado)",
-            "«...sin más que agregar nos despedimos atentamente.» (Protocolo de Estado)"
+            "«...hace propicia la oportunidad para reiterar a Vuestra Excelencia las seguridades de su más distinguida consideración.»",
+            "«...esperamos vernos pronto en la próxima fiesta.»",
+            "«...quedamos a la espera de su llamada telefónica informal.»",
+            "«...sin más que agregar nos despedimos atentamente.»"
           ],
           "answerIndex": 0,
           "explanation": "Es la fórmula solemne de cortesía diplomática consagrada internacionalmente en el ámbito de las relaciones exteriores."
@@ -17840,10 +17844,10 @@
         {
           "prompt": "¿Qué mecanismo simplificado del derecho internacional permite concluir un acuerdo bilateral mediante intercambio formal de correspondencia idéntica entre Cancillerías?",
           "options": [
-            "Notas reversales (Protocolo de Estado)",
-            "Llamada telefónica no protocolar (Protocolo de Estado)",
-            "Publicación en redes sociales (Protocolo de Estado)",
-            "Firma de un recibo bancario (Protocolo de Estado)"
+            "Notas reversales",
+            "Llamada telefónica no protocolar",
+            "Publicación en redes sociales",
+            "Firma de un recibo bancario"
           ],
           "answerIndex": 0,
           "explanation": "El canje de notas o notas reversales constituye un tratado internacional simplificado y jurídicamente vinculante entre dos Estados.",
@@ -17852,10 +17856,10 @@
         {
           "prompt": "¿Dónde tiene lugar la ceremonia formal de presentación de cartas credenciales ante el Presidente de la Nación Argentina?",
           "options": [
-            "En el Salón Blanco de la Casa de Gobierno (Protocolo de Estado)",
-            "En la tribuna del Hipódromo de San Isidro (Protocolo de Estado)",
-            "En el andén de la Estación de Retiro (Protocolo de Estado)",
-            "En el Salón de Pasos Perdidos del Congreso (Protocolo de Estado)"
+            "En el Salón Blanco de la Casa de Gobierno",
+            "En la tribuna del Hipódromo de San Isidro",
+            "En el andén de la Estación de Retiro",
+            "En el Salón de Pasos Perdidos del Congreso"
           ],
           "answerIndex": 0,
           "explanation": "El Salón Blanco de la Casa Rosada es el recinto de Estado donde el Presidente recibe solemnemente a los embajadores acreditados.",
@@ -17896,10 +17900,10 @@
         {
           "prompt": "¿Qué protocolo internacional confirió al MERCOSUR estructura institucional definitiva y personería jurídica de derecho internacional en 1994?",
           "options": [
-            "El Protocolo de Ouro Preto (Tratados de Integracin Regional y MERCOSUR)",
-            "El Tratado de Versalles (Tratados de Integracin Regional y MERCOSUR)",
-            "El Acuerdo de Bretton Woods (Tratados de Integracin Regional y MERCOSUR)",
-            "El Protocolo de Kioto (Tratados de Integracin Regional y MERCOSUR)"
+            "El Protocolo de Ouro Preto",
+            "El Tratado de Versalles",
+            "El Acuerdo de Bretton Woods",
+            "El Protocolo de Kioto"
           ],
           "answerIndex": 0,
           "explanation": "El Protocolo de Ouro Preto estableció la estructura orgánica y dotó al MERCOSUR de personería jurídica internacional."
@@ -17911,10 +17915,10 @@
         {
           "prompt": "¿Cuál es la función primordial del Tribunal Permanente de Revisión (TPR) del MERCOSUR con sede en Asunción?",
           "options": [
-            "Garantizar la correcta interpretación y aplicación de las normas del MERCOSUR y emitir laudos vinculantes e inapelables en controversias. (Tratados de Integracin Regional y MERCOSUR)",
-            "Determinar los precios del petróleo en el mercado sudamericano. (Tratados de Integracin Regional y MERCOSUR)",
-            "Organizar los Juegos Panamericanos de verano. (Tratados de Integracin Regional y MERCOSUR)",
-            "Emitir visas turísticas individuales para ciudadanos extranjeros. (Tratados de Integracin Regional y MERCOSUR)"
+            "Garantizar la correcta interpretación y aplicación de las normas del MERCOSUR y emitir laudos vinculantes e inapelables en controversias.",
+            "Determinar los precios del petróleo en el mercado sudamericano.",
+            "Organizar los Juegos Panamericanos de verano.",
+            "Emitir visas turísticas individuales para ciudadanos extranjeros."
           ],
           "answerIndex": 0,
           "explanation": "El TPR actúa como instancia jurisdiccional definitiva de resolución de conflictos comerciales e institucionales en el bloque."
@@ -17926,10 +17930,10 @@
         {
           "prompt": "¿Qué principio supremo consagra el Protocolo de Ushuaia de 1998 en el marco del MERCOSUR?",
           "options": [
-            "La cláusula de compromiso democrático como condición ineludible para la integración regional. (Tratados de Integracin Regional y MERCOSUR)",
-            "La obligatoriedad de adoptar una moneda común en un plazo de doce meses. (Tratados de Integracin Regional y MERCOSUR)",
-            "La prohibición absoluta del comercio marítimo internacional. (Tratados de Integracin Regional y MERCOSUR)",
-            "La unificación de las fuerzas armadas en un solo ejército continental. (Tratados de Integracin Regional y MERCOSUR)"
+            "La cláusula de compromiso democrático como condición ineludible para la integración regional.",
+            "La obligatoriedad de adoptar una moneda común en un plazo de doce meses.",
+            "La prohibición absoluta del comercio marítimo internacional.",
+            "La unificación de las fuerzas armadas en un solo ejército continental."
           ],
           "answerIndex": 0,
           "explanation": "El Protocolo de Ushuaia establece que cualquier ruptura del orden democrático acarrea la suspensión del Estado infractor en el bloque.",
@@ -17938,10 +17942,10 @@
         {
           "prompt": "¿Cómo se denominan las resoluciones de fondo emanadas del Consejo del Mercado Común (CMC)?",
           "options": [
-            "Decisiones del CMC (Tratados de Integracin Regional y MERCOSUR)",
-            "Bandos militares (Tratados de Integracin Regional y MERCOSUR)",
-            "Memorandos comerciales (Tratados de Integracin Regional y MERCOSUR)",
-            "Leyes federales internas (Tratados de Integracin Regional y MERCOSUR)"
+            "Decisiones del CMC",
+            "Bandos militares",
+            "Memorandos comerciales",
+            "Leyes federales internas"
           ],
           "answerIndex": 0,
           "explanation": "El Consejo del Mercado Común aprueba «Decisiones», el Grupo Mercado Común dicta «Resoluciones» y la Comisión de Comercio adopta «Directivas».",
@@ -17983,10 +17987,10 @@
         {
           "prompt": "¿Qué prohibición expresa rige en la Antártida conforme al Tratado Antártico de 1959?",
           "options": [
-            "Toda medida de carácter militar, maniobras bélicas, ensayos armamentísticos, explosiones nucleares y eliminación de desechos radiactivos. (Tratado Antrtico)",
-            "La navegación de veleros científicos de investigación ambiental. (Tratado Antrtico)",
-            "El avistamiento de pingüinos y fauna autóctona por biólogos marinos. (Tratado Antrtico)",
-            "La instalación de observatorios meteorológicos civiles. (Tratado Antrtico)"
+            "Toda medida de carácter militar, maniobras bélicas, ensayos armamentísticos, explosiones nucleares y eliminación de desechos radiactivos.",
+            "La navegación de veleros científicos de investigación ambiental.",
+            "El avistamiento de pingüinos y fauna autóctona por biólogos marinos.",
+            "La instalación de observatorios meteorológicos civiles."
           ],
           "answerIndex": 0,
           "explanation": "El Tratado Antártico destina el territorio exclusivamente a actividades pacíficas y cooperación científica internacional."
@@ -17998,10 +18002,10 @@
         {
           "prompt": "¿Qué órgano de la ONU evaluó y convalidó las recomendaciones sobre el límite exterior de la plataforma continental argentina?",
           "options": [
-            "La Comisión de Límites de la Plataforma Continental (Tratado Antrtico)",
-            "El Consejo de Seguridad en sesión de emergencia (Tratado Antrtico)",
-            "La Corte Penal Internacional de La Haya (Tratado Antrtico)",
-            "El Fondo Monetario Internacional (Tratado Antrtico)"
+            "La Comisión de Límites de la Plataforma Continental",
+            "El Consejo de Seguridad en sesión de emergencia",
+            "La Corte Penal Internacional de La Haya",
+            "El Fondo Monetario Internacional"
           ],
           "answerIndex": 0,
           "explanation": "La CLPC es el órgano técnico científico de la ONU encargado de validar los límites de la plataforma más allá de las 200 millas."
@@ -18013,10 +18017,10 @@
         {
           "prompt": "¿Qué base científica antártica argentina posee el récord de ocupación humana ininterrumpida desde 1904?",
           "options": [
-            "Base Orcadas (Tratado Antrtico)",
-            "Base Marambio (Tratado Antrtico)",
-            "Base Esperanza (Tratado Antrtico)",
-            "Base San Martín (Tratado Antrtico)"
+            "Base Orcadas",
+            "Base Marambio",
+            "Base Esperanza",
+            "Base San Martín"
           ],
           "answerIndex": 0,
           "explanation": "La Base Orcadas funciona ininterrumpidamente desde febrero de 1904, testimonio fundacional de la presencia antártica argentina.",
@@ -18025,10 +18029,10 @@
         {
           "prompt": "¿Cuál es la convención multilateral matriz que regula el derecho de los espacios oceánicos y la zona económica exclusiva?",
           "options": [
-            "CONVEMAR (Tratado Antrtico)",
-            "Convención de Ginebra sobre Prisioneros de Guerra (Tratado Antrtico)",
-            "Pacto de San José de Costa Rica (Tratado Antrtico)",
-            "Tratado de Tlatelolco (Tratado Antrtico)"
+            "CONVEMAR",
+            "Convención de Ginebra sobre Prisioneros de Guerra",
+            "Pacto de San José de Costa Rica",
+            "Tratado de Tlatelolco"
           ],
           "answerIndex": 0,
           "explanation": "La CONVEMAR es la constitución global de los mares que establece las zonas marítimas, plataformas y fondos oceánicos.",
@@ -18070,10 +18074,10 @@
         {
           "prompt": "¿Qué estipula la histórica Resolución 2065 (XX) aprobada por la Asamblea General de la ONU en 1965?",
           "options": [
-            "Reconoce formalmente la disputa de soberanía sobre las Islas Malvinas e insta a la Argentina y al Reino Unido a entablar negociaciones pacíficas bilaterales. (Controversias de Soberana)",
-            "Declara la anexión unilateral obligatoria de las islas a un tercer país. (Controversias de Soberana)",
-            "Clausura definitivamente el debate diplomático en los foros internacionales. (Controversias de Soberana)",
-            "Ordena el establecimiento de una base militar multinacional en el archipiélago. (Controversias de Soberana)"
+            "Reconoce formalmente la disputa de soberanía sobre las Islas Malvinas e insta a la Argentina y al Reino Unido a entablar negociaciones pacíficas bilaterales.",
+            "Declara la anexión unilateral obligatoria de las islas a un tercer país.",
+            "Clausura definitivamente el debate diplomático en los foros internacionales.",
+            "Ordena el establecimiento de una base militar multinacional en el archipiélago."
           ],
           "answerIndex": 0,
           "explanation": "La Resolución 2065 es la base jurídica internacional que enmarca el caso como una disputa colonial bilateral pendiente de descolonización."
@@ -18085,10 +18089,10 @@
         {
           "prompt": "¿Qué establece la Disposición Transitoria Primera de la Constitución Nacional Argentina de 1994?",
           "options": [
-            "Que la recuperación pacífica de la soberanía sobre las islas conforme al derecho internacional es un objetivo permanente e irrenunciable de la Nación. (Controversias de Soberana)",
-            "Que la República Argentina renuncia a toda reclamación sobre territorios insulares del Atlántico Sur. (Controversias de Soberana)",
-            "Que la política exterior será delegada exclusivamente en organismos privados. (Controversias de Soberana)",
-            "Que se prohíbe la diplomacia multilateral en organismos de la ONU. (Controversias de Soberana)"
+            "Que la recuperación pacífica de la soberanía sobre las islas conforme al derecho internacional es un objetivo permanente e irrenunciable de la Nación.",
+            "Que la República Argentina renuncia a toda reclamación sobre territorios insulares del Atlántico Sur.",
+            "Que la política exterior será delegada exclusivamente en organismos privados.",
+            "Que se prohíbe la diplomacia multilateral en organismos de la ONU."
           ],
           "answerIndex": 0,
           "explanation": "La cláusula constitucional fija la soberanía argentina como política de Estado irrenunciable por vías de negociación pacífica."
@@ -18100,10 +18104,10 @@
         {
           "prompt": "¿Cómo se denomina formalmente el comité de las Naciones Unidas encargado de examinar los territorios no autónomos sujetos a descolonización?",
           "options": [
-            "Comité Especial de Descolonización (Controversias de Soberana)",
-            "Consejo de Administración Fiduciaria de Ginebra (Controversias de Soberana)",
-            "Tribunal Penal Militar Internacional (Controversias de Soberana)",
-            "Comisión de Asuntos Financieros y Comerciales (Controversias de Soberana)"
+            "Comité Especial de Descolonización",
+            "Consejo de Administración Fiduciaria de Ginebra",
+            "Tribunal Penal Militar Internacional",
+            "Comisión de Asuntos Financieros y Comerciales"
           ],
           "answerIndex": 0,
           "explanation": "El Comité de los 24 (C-24) es el órgano de la Asamblea General que supervisa el cumplimiento de la Declaración sobre Descolonización (Res. 1514).",
@@ -18112,10 +18116,10 @@
         {
           "prompt": "¿Qué principio del derecho internacional aplica la diplomacia argentina en controversias territoriales derivadas de la ocupación colonial?",
           "options": [
-            "El principio de integridad territorial del Estado y la solución pacífica mediante negociación bilateral (Controversias de Soberana)",
-            "El principio de la fuerza de conquista armada inmediata (Controversias de Soberana)",
-            "La imposición de sanciones comerciales unilaterales sin mediación (Controversias de Soberana)",
-            "El arbitraje forzoso sin consentimiento soberano (Controversias de Soberana)"
+            "El principio de integridad territorial del Estado y la solución pacífica mediante negociación bilateral",
+            "El principio de la fuerza de conquista armada inmediata",
+            "La imposición de sanciones comerciales unilaterales sin mediación",
+            "El arbitraje forzoso sin consentimiento soberano"
           ],
           "answerIndex": 0,
           "explanation": "Argentina defiende el principio de integridad territorial quebrantado por la ocupación colonial ilegítima.",

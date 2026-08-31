@@ -4532,10 +4532,10 @@
         {
           "prompt": "【應急呼救】在香港遇到突發重病或嚴重事故欲呼叫救護車，應撥打之緊急求助電話號碼係：",
           "options": [
-            "999 (Hong Kong emergency number)",
-            "911 (North America emergency number)",
-            "110 (Mainland China police emergency)",
-            "120 (Mainland China ambulance emergency)"
+            "999",
+            "911",
+            "110",
+            "120"
           ],
           "answerIndex": 0,
           "explanation": "香港之統一緊急求助報警與救護電話號碼為 999。"

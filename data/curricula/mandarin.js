@@ -525,9 +525,9 @@
           "prompt": "In Mandarin Pinyin, what is the crucial articulatory difference between initial «b» and initial «p»?",
           "options": [
             "Aspiration: «b» is unaspirated (no puff of air)",
-            "«b» is voiced like English \"b\", while «p» is silent (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "«b» is pronounced with teeth, while «p» is nasal (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "There is no difference (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)"
+            "«b» is voiced like English \"b\", while «p» is silent",
+            "«b» is pronounced with teeth, while «p» is nasal",
+            "There is no difference"
           ],
           "answerIndex": 0,
           "explanation": "Mandarin contrasts unaspirated [p] (written b) with aspirated [pʰ] (written p)."
@@ -535,10 +535,10 @@
         {
           "prompt": "How is the simple final «ü» correctly pronounced in Mandarin phonetics?",
           "options": [
-            "Keep your tongue in the \"i\" (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "Open your mouth wide like \"ah\" (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "Pronounce it identically to \"u\" (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "Pronounce it like English \"w\" (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)"
+            "Keep your tongue in the \"i\"",
+            "Open your mouth wide like \"ah\"",
+            "Pronounce it identically to \"u\"",
+            "Pronounce it like English \"w\""
           ],
           "answerIndex": 0,
           "explanation": "«ü» is a close front rounded vowel, articulated with the tongue high and front like [i] and lips rounded like [u]."
@@ -561,10 +561,10 @@
         {
           "prompt": "When the initial «d» combines with final «a» in fourth tone to spell «dà» (大), what does the word mean?",
           "options": [
-            "dà (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "tā (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "mā (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "bā (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)"
+            "dà",
+            "tā",
+            "mā",
+            "bā"
           ],
           "answerIndex": 0,
           "explanation": "«dà» (大) means big or large."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "Which pair of initials represents the alveolar stops (unaspirated vs aspirated)?",
           "options": [
-            "d (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "b (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "m (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)",
-            "n (Master the Standard Mandarin phonetic spelling system Hanyu Pinyin U1)"
+            "d",
+            "b",
+            "m",
+            "n"
           ],
           "answerIndex": 0,
           "explanation": "«d» and «t» are alveolar stops."
@@ -593,7 +593,12 @@
             "dà",
             "da4"
           ],
-          "explanation": "«dà» (大) = big."
+          "explanation": "«dà» (大) = big.",
+          "acceptableAnswers": [
+            "da",
+            "dà",
+            "da4"
+          ]
         }
       ]
     }
@@ -642,10 +647,10 @@
         {
           "prompt": "Which tone in Standard Mandarin starts high at pitch level 5 and drops sharply to level 1 (51 falling contour)?",
           "options": [
-            "Fourth Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "First Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Second Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Third Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)"
+            "Fourth Tone",
+            "First Tone",
+            "Second Tone",
+            "Third Tone"
           ],
           "answerIndex": 0,
           "explanation": "The 4th tone is a sharp, decisive falling pitch from 5 down to 1."
@@ -653,10 +658,10 @@
         {
           "prompt": "In the classic syllable «ma», which tone corresponds to the meaning \"mother\" (妈)?",
           "options": [
-            "First tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Second tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Third tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Fourth tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)"
+            "First tone",
+            "Second tone",
+            "Third tone",
+            "Fourth tone"
           ],
           "answerIndex": 0,
           "explanation": "«mā» in the 1st high level tone means \"mother\"."
@@ -668,10 +673,10 @@
         {
           "prompt": "Which tone rises smoothly from mid-pitch (3) to high pitch (5), like an inquisitive English \"Really?\"",
           "options": [
-            "Second Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "First Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Fourth Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Neutral Tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)"
+            "Second Tone",
+            "First Tone",
+            "Fourth Tone",
+            "Neutral Tone"
           ],
           "answerIndex": 0,
           "explanation": "The 2nd tone is a rising pitch contour (35)."
@@ -679,10 +684,10 @@
         {
           "prompt": "What characterizes the Neutral Tone (轻声) in Mandarin Chinese words like «bàba» (爸爸)?",
           "options": [
-            "It is pronounced light, short, and unstressed with no tone mark (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "It is always the loudest syllable (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "It is pronounced identical to 1st tone (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "It cannot be spoken (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)"
+            "It is pronounced light, short, and unstressed with no tone mark",
+            "It is always the loudest syllable",
+            "It is pronounced identical to 1st tone",
+            "It cannot be spoken"
           ],
           "answerIndex": 0,
           "explanation": "The neutral tone is pronounced softly, shortly, and without stress."
@@ -695,10 +700,10 @@
           "type": "multiple-choice",
           "prompt": "Which tone mark represents the 3rd dipping tone (214) in Pinyin?",
           "options": [
-            "Carat / check mark: ǎ (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Macron flat line: ā (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Acute rising: á (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)",
-            "Grave falling: à (Master the 4 lexical tones of Standard Mandarin 55 highlevel U1)"
+            "Carat / check mark: ǎ",
+            "Macron flat line: ā",
+            "Acute rising: á",
+            "Grave falling: à"
           ],
           "answerIndex": 0,
           "explanation": "The 3rd tone is written with a dipping mark (ˇ), as in «mǎ»."
@@ -711,7 +716,12 @@
             "mǎ",
             "ma3"
           ],
-          "explanation": "«mǎ» (马) = horse."
+          "explanation": "«mǎ» (马) = horse.",
+          "acceptableAnswers": [
+            "ma",
+            "mǎ",
+            "ma3"
+          ]
         }
       ]
     }
@@ -760,10 +770,10 @@
         {
           "prompt": "In the universal greeting «nǐ hǎo» (你好), how is the first syllable «nǐ» (3rd tone) actually pronounced in speech?",
           "options": [
-            "As a 2nd rising tone (Master Mandarin Tone Sandhi U1)",
-            "As a 1st high flat tone (Master Mandarin Tone Sandhi U1)",
-            "As a 4th falling tone (Master Mandarin Tone Sandhi U1)",
-            "As a neutral tone (Master Mandarin Tone Sandhi U1)"
+            "As a 2nd rising tone",
+            "As a 1st high flat tone",
+            "As a 4th falling tone",
+            "As a neutral tone"
           ],
           "answerIndex": 0,
           "explanation": "When two 3rd tones are adjacent, the first converts to a 2nd rising tone [ní hǎo]."
@@ -771,10 +781,10 @@
         {
           "prompt": "When the negation word «不» (bù, 4th tone) is followed by a 4th tone syllable like «shì» (是), what tone does «不» change to?",
           "options": [
-            "Second tone (Master Mandarin Tone Sandhi U1)",
-            "First tone (Master Mandarin Tone Sandhi U1)",
-            "Third tone (Master Mandarin Tone Sandhi U1)",
-            "It stays 4th tone (Master Mandarin Tone Sandhi U1)"
+            "Second tone",
+            "First tone",
+            "Third tone",
+            "It stays 4th tone"
           ],
           "answerIndex": 0,
           "explanation": "«不» changes to 2nd tone (bú) before any 4th tone syllable."
@@ -786,10 +796,10 @@
         {
           "prompt": "How is the numeral «一» (yī) pronounced when combined with the 4th tone word «yàng» (样) in «一样» (the same)?",
           "options": [
-            "yí yàng (Master Mandarin Tone Sandhi U1)",
-            "yī yàng (Master Mandarin Tone Sandhi U1)",
-            "yì yàng (Master Mandarin Tone Sandhi U1)",
-            "yi yàng (Master Mandarin Tone Sandhi U1)"
+            "yí yàng",
+            "yī yàng",
+            "yì yàng",
+            "yi yàng"
           ],
           "answerIndex": 0,
           "explanation": "«一» changes to 2nd tone «yí» before a 4th tone."
@@ -797,10 +807,10 @@
         {
           "prompt": "Select the phrase that correctly demonstrates 3rd+3rd tone sandhi:",
           "options": [
-            "kěyǐ (Master Mandarin Tone Sandhi U1)",
-            "dà rén (Master Mandarin Tone Sandhi U1)",
-            "bàba (Master Mandarin Tone Sandhi U1)",
-            "bù chī (Master Mandarin Tone Sandhi U1)"
+            "kěyǐ",
+            "dà rén",
+            "bàba",
+            "bù chī"
           ],
           "answerIndex": 0,
           "explanation": "«kěyǐ» consists of two 3rd tones (kě + yǐ), pronounced [kéyǐ]."
@@ -813,10 +823,10 @@
           "type": "multiple-choice",
           "prompt": "Which rule explains why «不是» is pronounced [bú shì] rather than [bù shì]?",
           "options": [
-            "The tone sandhi rule of 「不」 changing to 2nd tone before 4th tone (Master Mandarin Tone Sandhi U1)",
-            "The 3rd tone sandhi rule (Master Mandarin Tone Sandhi U1)",
-            "The neutral tone rule (Master Mandarin Tone Sandhi U1)",
-            "The retroflex rule (Master Mandarin Tone Sandhi U1)"
+            "The tone sandhi rule of 「不」 changing to 2nd tone before 4th tone (Tone Sandhi  3rd Tone  Y    B item 1)",
+            "The 3rd tone sandhi rule",
+            "The neutral tone rule",
+            "The retroflex rule"
           ],
           "answerIndex": 0,
           "explanation": "«不» automatically changes to 2nd tone before 4th tone."
@@ -830,7 +840,13 @@
             "nǐ hǎo",
             "nǐhǎo"
           ],
-          "explanation": "«nǐ hǎo» (你好) = Hello."
+          "explanation": "«nǐ hǎo» (你好) = Hello.",
+          "acceptableAnswers": [
+            "ni hao",
+            "nihao",
+            "nǐ hǎo",
+            "nǐhǎo"
+          ]
         }
       ]
     }
@@ -881,8 +897,8 @@
           "options": [
             "您好 (polite)",
             "你好 (nei5 hou2 - hello)",
-            "晚安 (Master everyday spoken greetings N ho U1)",
-            "再见 (Master everyday spoken greetings N ho U1)"
+            "晚安 (Daily Greetings   Honorifics item 3)",
+            "再见 (Daily Greetings   Honorifics item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«您好» (*nín hǎo*) uses the honorific pronoun «您» to express respect."
@@ -890,10 +906,10 @@
         {
           "prompt": "How do students respectfully greet their teacher at the start of class in Chinese?",
           "options": [
-            "老师好！ (Master everyday spoken greetings N ho U1)",
+            "老师好！ (Daily Greetings   Honorifics item 1)",
             "你早！ (casual)",
-            "拜拜！ (Master everyday spoken greetings N ho U1)",
-            "对不起！ (Master everyday spoken greetings N ho U1)"
+            "拜拜！ (Daily Greetings   Honorifics item 3)",
+            "对不起！ (Daily Greetings   Honorifics item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«老师好！» (*Lǎoshī hǎo!*) is the standard respectful student-to-teacher greeting."
@@ -905,10 +921,10 @@
         {
           "prompt": "Select the Chinese greeting meaning \"Good morning!\":",
           "options": [
-            "早上好 (Master everyday spoken greetings N ho U1)",
-            "晚上好 (Master everyday spoken greetings N ho U1)",
-            "下午好 (Master everyday spoken greetings N ho U1)",
-            "晚安 (Master everyday spoken greetings N ho U1)"
+            "早上好 (Daily Greetings   Honorifics item 1)",
+            "晚上好 (Daily Greetings   Honorifics item 2)",
+            "下午好 (Daily Greetings   Honorifics item 3)",
+            "晚安 (Daily Greetings   Honorifics item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«早上好» (*zǎoshang hǎo*) means \"Good morning!\"."
@@ -916,10 +932,10 @@
         {
           "prompt": "When addressing a group of friends or classmates together, which greeting means \"Hello everyone! / Hello you all!\"?",
           "options": [
-            "你们好 / 大家好 (Master everyday spoken greetings N ho U1)",
+            "你们好 / 大家好 (Daily Greetings   Honorifics item 1)",
             "您好 (polite)",
             "早 (casual)",
-            "再见 (Master everyday spoken greetings N ho U1)"
+            "再见 (Daily Greetings   Honorifics item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«你们好» and «大家好» are used for greeting multiple people."
@@ -932,10 +948,10 @@
           "type": "multiple-choice",
           "prompt": "What does the phrase «晚上好» mean in English?",
           "options": [
-            "Good evening (Master everyday spoken greetings N ho U1)",
-            "Good morning (Master everyday spoken greetings N ho U1)",
-            "Good afternoon (Master everyday spoken greetings N ho U1)",
-            "Goodbye (Master everyday spoken greetings N ho U1)"
+            "Good evening",
+            "Good morning",
+            "Good afternoon",
+            "Goodbye"
           ],
           "answerIndex": 0,
           "explanation": "«晚上好» (*wǎnshang hǎo*) means \"Good evening\"."
@@ -949,7 +965,13 @@
             "zǎoshang hǎo",
             "zǎoshanghǎo"
           ],
-          "explanation": "«zǎoshang hǎo» (早上好) = Good morning."
+          "explanation": "«zǎoshang hǎo» (早上好) = Good morning.",
+          "acceptableAnswers": [
+            "zaoshang hao",
+            "zaoshanghao",
+            "zǎoshang hǎo",
+            "zǎoshanghǎo"
+          ]
         }
       ]
     }
@@ -998,10 +1020,10 @@
         {
           "prompt": "When someone thanks you with «谢谢» (xièxie), what is the standard polite response meaning \"You are welcome!\"?",
           "options": [
-            "不客气 / 不用谢 (Master expressions of gratitude Xixie U1)",
-            "对不起 (Master expressions of gratitude Xixie U1)",
-            "再见 (Master expressions of gratitude Xixie U1)",
-            "早上好 (Master expressions of gratitude Xixie U1)"
+            "不客气 / 不用谢 (Gratitude  Apologies   Farewell Etiquette item 1)",
+            "对不起 (Gratitude  Apologies   Farewell Etiquette item 2)",
+            "再见 (Gratitude  Apologies   Farewell Etiquette item 3)",
+            "早上好 (Gratitude  Apologies   Farewell Etiquette item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«不客气» (*bú kèqi*) is the universal polite response to \"thank you\"."
@@ -1009,9 +1031,9 @@
         {
           "prompt": "What is the correct forgiving response when someone apologizes to you with «对不起» (duìbuqǐ)?",
           "options": [
-            "没关系 / 没事 (Master expressions of gratitude Xixie U1)",
-            "不客气 (Master expressions of gratitude Xixie U1)",
-            "谢谢 (Master expressions of gratitude Xixie U1)",
+            "没关系 / 没事 (Gratitude  Apologies   Farewell Etiquette item 1)",
+            "不客气 (Gratitude  Apologies   Farewell Etiquette item 2)",
+            "谢谢 (Gratitude  Apologies   Farewell Etiquette item 3)",
             "你好 (nei5 hou2 - hello)"
           ],
           "answerIndex": 0,
@@ -1024,10 +1046,10 @@
         {
           "prompt": "Select the polite phrase used to preface a question (\"May I ask... / Excuse me...\"):",
           "options": [
-            "请问 (Master expressions of gratitude Xixie U1)",
-            "对不起 (Master expressions of gratitude Xixie U1)",
-            "再见 (Master expressions of gratitude Xixie U1)",
-            "慢走 (Master expressions of gratitude Xixie U1)"
+            "请问 (Gratitude  Apologies   Farewell Etiquette item 1)",
+            "对不起 (Gratitude  Apologies   Farewell Etiquette item 2)",
+            "再见 (Gratitude  Apologies   Farewell Etiquette item 3)",
+            "慢走 (Gratitude  Apologies   Farewell Etiquette item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«请问» (*qǐngwèn*) literally means \"Please ask\" and is used before asking for directions or information."
@@ -1035,10 +1057,10 @@
         {
           "prompt": "Which phrase means \"See you tomorrow!\" in Chinese?",
           "options": [
-            "明天见 (Master expressions of gratitude Xixie U1)",
-            "再见 (Master expressions of gratitude Xixie U1)",
-            "一会儿见 (Master expressions of gratitude Xixie U1)",
-            "谢谢 (Master expressions of gratitude Xixie U1)"
+            "明天见 (Gratitude  Apologies   Farewell Etiquette item 1)",
+            "再见 (Gratitude  Apologies   Farewell Etiquette item 2)",
+            "一会儿见 (Gratitude  Apologies   Farewell Etiquette item 3)",
+            "谢谢 (Gratitude  Apologies   Farewell Etiquette item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«明天见» (*míngtiān jiàn*) means \"See you tomorrow\"."
@@ -1051,10 +1073,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Chinese farewell «再见» (*zàijiàn*) literally mean?",
           "options": [
-            "See you again (Master expressions of gratitude Xixie U1)",
-            "Good morning (Master expressions of gratitude Xixie U1)",
-            "Thank you (Master expressions of gratitude Xixie U1)",
-            "Go with peace (Master expressions of gratitude Xixie U1)"
+            "See you again",
+            "Good morning",
+            "Thank you",
+            "Go with peace"
           ],
           "answerIndex": 0,
           "explanation": "«再见» is composed of 再 (again) + 见 (see)."
@@ -1068,7 +1090,13 @@
             "xie xie",
             "xiè xie"
           ],
-          "explanation": "«xièxie» (谢谢) = Thank you."
+          "explanation": "«xièxie» (谢谢) = Thank you.",
+          "acceptableAnswers": [
+            "xiexie",
+            "xièxie",
+            "xie xie",
+            "xiè xie"
+          ]
         }
       ]
     }
@@ -1117,10 +1145,10 @@
         {
           "prompt": "按照现代汉语标准的主谓宾（SVO）语序，表达「他们学习汉语」的正确语序是：",
           "options": [
-            "我们 (wǒmen - we / us)",
-            "他们 (tāmen - they / them)",
-            "你们 (nǐmen - you plural)",
-            "她们 (tāmen - they female)"
+            "我们 (Personal Pronouns   SVO Word Order item 1)",
+            "他们 (Personal Pronouns   SVO Word Order item 2)",
+            "你们 (Personal Pronouns   SVO Word Order item 3)",
+            "她们 (Personal Pronouns   SVO Word Order item 4)"
           ],
           "answerIndex": 0,
           "explanation": "现代汉语陈述句的基本语序为主谓宾（SVO），主语置于句首，动词位于中间，宾语紧随动词之后。"
@@ -1184,7 +1212,10 @@
           "acceptedAnswers": [
             "我"
           ],
-          "explanation": "汉字「我」是现代汉语中最基础的第一人称单数代词。"
+          "explanation": "汉字「我」是现代汉语中最基础的第一人称单数代词。",
+          "acceptableAnswers": [
+            "我"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1301,7 +1332,10 @@
           "acceptedAnswers": [
             "是"
           ],
-          "explanation": "汉字「是」是现代汉语中最重要、最基础的判断系动词。"
+          "explanation": "汉字「是」是现代汉语中最重要、最基础的判断系动词。",
+          "acceptableAnswers": [
+            "是"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1418,7 +1452,10 @@
           "acceptedAnswers": [
             "不"
           ],
-          "explanation": "汉字「不」是现代汉语中最基础的否定副词。"
+          "explanation": "汉字「不」是现代汉语中最基础的否定副词。",
+          "acceptableAnswers": [
+            "不"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1535,7 +1572,10 @@
           "acceptedAnswers": [
             "吗"
           ],
-          "explanation": "汉字「吗」是汉语中最常用的是非疑问助词，置于句末表达提问。"
+          "explanation": "汉字「吗」是汉语中最常用的是非疑问助词，置于句末表达提问。",
+          "acceptableAnswers": [
+            "吗"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1652,7 +1692,10 @@
           "acceptedAnswers": [
             "人"
           ],
-          "explanation": "汉字「人」置于国家名称之后（如「中国人」、「美国人」）用于表示该国国籍人士。"
+          "explanation": "汉字「人」置于国家名称之后（如「中国人」、「美国人」）用于表示该国国籍人士。",
+          "acceptableAnswers": [
+            "人"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1769,7 +1812,10 @@
           "acceptedAnswers": [
             "两"
           ],
-          "explanation": "汉字「两」专用于量词前表示两个单位的数量（如两人、两本、两只）。"
+          "explanation": "汉字「两」专用于量词前表示两个单位的数量（如两人、两本、两只）。",
+          "acceptableAnswers": [
+            "两"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1886,7 +1932,10 @@
           "acceptedAnswers": [
             "万"
           ],
-          "explanation": "汉字「万」是汉语四位分节计数法中最核心的位阶单位（10,000）。"
+          "explanation": "汉字「万」是汉语四位分节计数法中最核心的位阶单位（10,000）。",
+          "acceptableAnswers": [
+            "万"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2003,7 +2052,10 @@
           "acceptedAnswers": [
             "点"
           ],
-          "explanation": "汉字「点」在时间表达中充当整点小时的核心计量词（如八点、两点）。"
+          "explanation": "汉字「点」在时间表达中充当整点小时的核心计量词（如八点、两点）。",
+          "acceptableAnswers": [
+            "点"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2120,7 +2172,10 @@
           "acceptedAnswers": [
             "年"
           ],
-          "explanation": "汉字「年」是表达年份与一整年周期的核心时间名词与量词。"
+          "explanation": "汉字「年」是表达年份与一整年周期的核心时间名词与量词。",
+          "acceptableAnswers": [
+            "年"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2237,7 +2292,10 @@
           "acceptedAnswers": [
             "今"
           ],
-          "explanation": "汉字「今」表示当下现时（如今天、今年、今日、古今）。"
+          "explanation": "汉字「今」表示当下现时（如今天、今年、今日、古今）。",
+          "acceptableAnswers": [
+            "今"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2354,7 +2412,10 @@
           "acceptedAnswers": [
             "个"
           ],
-          "explanation": "汉字「个」是现代汉语中使用最广泛的通用个体量词。"
+          "explanation": "汉字「个」是现代汉语中使用最广泛的通用个体量词。",
+          "acceptableAnswers": [
+            "个"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2471,7 +2532,10 @@
           "acceptedAnswers": [
             "本"
           ],
-          "explanation": "汉字「本」是现代汉语中专门用于装订成册之书册刊物的个体量词。"
+          "explanation": "汉字「本」是现代汉语中专门用于装订成册之书册刊物的个体量词。",
+          "acceptableAnswers": [
+            "本"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2588,7 +2652,10 @@
           "acceptedAnswers": [
             "杯"
           ],
-          "explanation": "汉字「杯」是表示杯装液体饮品（如茶、咖啡、水）的标准容器量词。"
+          "explanation": "汉字「杯」是表示杯装液体饮品（如茶、咖啡、水）的标准容器量词。",
+          "acceptableAnswers": [
+            "杯"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2705,7 +2772,10 @@
           "acceptedAnswers": [
             "双"
           ],
-          "explanation": "汉字「双」专用于修饰两个对称配合使用的物品（如一双鞋、一双筷子）。"
+          "explanation": "汉字「双」专用于修饰两个对称配合使用的物品（如一双鞋、一双筷子）。",
+          "acceptableAnswers": [
+            "双"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2822,7 +2892,10 @@
           "acceptedAnswers": [
             "的"
           ],
-          "explanation": "汉字「的」是现代汉语中最核心的定语结构助词标记。"
+          "explanation": "汉字「的」是现代汉语中最核心的定语结构助词标记。",
+          "acceptableAnswers": [
+            "的"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2939,7 +3012,10 @@
           "acceptedAnswers": [
             "起"
           ],
-          "explanation": "汉字「起」在「起床」中表示起身离开床榻。"
+          "explanation": "汉字「起」在「起床」中表示起身离开床榻。",
+          "acceptableAnswers": [
+            "起"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3056,7 +3132,10 @@
           "acceptedAnswers": [
             "一"
           ],
-          "explanation": "单音节动词 A一A 扩展重叠式中嵌入基数词「一」（如看一看、听一听）。"
+          "explanation": "单音节动词 A一A 扩展重叠式中嵌入基数词「一」（如看一看、听一听）。",
+          "acceptableAnswers": [
+            "一"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3173,7 +3252,10 @@
           "acceptedAnswers": [
             "呢"
           ],
-          "explanation": "语气助词「呢」常置于句末辅助加强动作进行体的现场感与语气。"
+          "explanation": "语气助词「呢」常置于句末辅助加强动作进行体的现场感与语气。",
+          "acceptableAnswers": [
+            "呢"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3290,7 +3372,10 @@
           "acceptedAnswers": [
             "在"
           ],
-          "explanation": "汉字「在」是现代汉语中表示存在与处所介词最核心的词汇。"
+          "explanation": "汉字「在」是现代汉语中表示存在与处所介词最核心的词汇。",
+          "acceptableAnswers": [
+            "在"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3407,7 +3492,10 @@
           "acceptedAnswers": [
             "然"
           ],
-          "explanation": "汉字「然」在「然后」中充当承接连词首字。"
+          "explanation": "汉字「然」在「然后」中充当承接连词首字。",
+          "acceptableAnswers": [
+            "然"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3524,7 +3612,10 @@
           "acceptedAnswers": [
             "米"
           ],
-          "explanation": "汉字「米」是构成「大米」、「米饭」、「米粉」的核心字根。"
+          "explanation": "汉字「米」是构成「大米」、「米饭」、「米粉」的核心字根。",
+          "acceptableAnswers": [
+            "米"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3641,7 +3732,10 @@
           "acceptedAnswers": [
             "买"
           ],
-          "explanation": "汉字「买」在「买单」中指支付账单结算费用。"
+          "explanation": "汉字「买」在「买单」中指支付账单结算费用。",
+          "acceptableAnswers": [
+            "买"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3758,7 +3852,10 @@
           "acceptedAnswers": [
             "辣"
           ],
-          "explanation": "汉字「辣」是表示辛辣、刺激味觉的核心形容词。"
+          "explanation": "汉字「辣」是表示辛辣、刺激味觉的核心形容词。",
+          "acceptableAnswers": [
+            "辣"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3875,7 +3972,10 @@
           "acceptedAnswers": [
             "想"
           ],
-          "explanation": "汉字「想」在能愿动词用法中表示主观意愿与打算（如想吃、想去）。"
+          "explanation": "汉字「想」在能愿动词用法中表示主观意愿与打算（如想吃、想去）。",
+          "acceptableAnswers": [
+            "想"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3992,7 +4092,10 @@
           "acceptedAnswers": [
             "杯"
           ],
-          "explanation": "汉字「杯」在「干杯」、「举杯」中指饮酒器具与祝酒动作。"
+          "explanation": "汉字「杯」在「干杯」、「举杯」中指饮酒器具与祝酒动作。",
+          "acceptableAnswers": [
+            "杯"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4109,7 +4212,10 @@
           "acceptedAnswers": [
             "了"
           ],
-          "explanation": "汉字「了」在现代汉语中充当核心动态助词与语气助词。"
+          "explanation": "汉字「了」在现代汉语中充当核心动态助词与语气助词。",
+          "acceptableAnswers": [
+            "了"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4226,7 +4332,10 @@
           "acceptedAnswers": [
             "快"
           ],
-          "explanation": "汉字「快」在「快要......了」中充当表示即将发生的时间副词。"
+          "explanation": "汉字「快」在「快要......了」中充当表示即将发生的时间副词。",
+          "acceptableAnswers": [
+            "快"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4343,7 +4452,10 @@
           "acceptedAnswers": [
             "了"
           ],
-          "explanation": "句末汉字「了」与动词后「了」共同构筑双「了」持续态。"
+          "explanation": "句末汉字「了」与动词后「了」共同构筑双「了」持续态。",
+          "acceptableAnswers": [
+            "了"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4460,7 +4572,10 @@
           "acceptedAnswers": [
             "过"
           ],
-          "explanation": "汉字「过」是现代汉语中表示经历体（Experiential Aspect）的核心动态助词。"
+          "explanation": "汉字「过」是现代汉语中表示经历体（Experiential Aspect）的核心动态助词。",
+          "acceptableAnswers": [
+            "过"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4577,7 +4692,10 @@
           "acceptedAnswers": [
             "过"
           ],
-          "explanation": "汉字「过」是标记过往经历与人生体验的核心动态助词。"
+          "explanation": "汉字「过」是标记过往经历与人生体验的核心动态助词。",
+          "acceptableAnswers": [
+            "过"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4694,7 +4812,10 @@
           "acceptedAnswers": [
             "边"
           ],
-          "explanation": "汉字「边」是构成汉语空间方位词系统最核心的词缀之一。"
+          "explanation": "汉字「边」是构成汉语空间方位词系统最核心的词缀之一。",
+          "acceptableAnswers": [
+            "边"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4811,7 +4932,10 @@
           "acceptedAnswers": [
             "离"
           ],
-          "explanation": "汉字「离」在现代汉语中充当标定空间与时间相对跨度的核心介词。"
+          "explanation": "汉字「离」在现代汉语中充当标定空间与时间相对跨度的核心介词。",
+          "acceptableAnswers": [
+            "离"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4928,7 +5052,10 @@
           "acceptedAnswers": [
             "地铁"
           ],
-          "explanation": "词语「地铁」是现代汉语中指称地下铁道系统的最常用词汇。"
+          "explanation": "词语「地铁」是现代汉语中指称地下铁道系统的最常用词汇。",
+          "acceptableAnswers": [
+            "地铁"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5045,7 +5172,10 @@
           "acceptedAnswers": [
             "红绿灯"
           ],
-          "explanation": "词语「红绿灯」在日常指路与交通指引中作为极其关键的地标参照物。"
+          "explanation": "词语「红绿灯」在日常指路与交通指引中作为极其关键的地标参照物。",
+          "acceptableAnswers": [
+            "红绿灯"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5163,7 +5293,11 @@
             "沿",
             "顺"
           ],
-          "explanation": "汉字「沿」或「顺」常与「着」连用构成空间介词短语，表示顺应路线前行。"
+          "explanation": "汉字「沿」或「顺」常与「着」连用构成空间介词短语，表示顺应路线前行。",
+          "acceptableAnswers": [
+            "沿",
+            "顺"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5280,7 +5414,10 @@
           "acceptedAnswers": [
             "块"
           ],
-          "explanation": "汉字「块」是现代汉语口语中指称「元」的最核心货币单位。"
+          "explanation": "汉字「块」是现代汉语口语中指称「元」的最核心货币单位。",
+          "acceptableAnswers": [
+            "块"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5397,7 +5534,10 @@
           "acceptedAnswers": [
             "试衣间"
           ],
-          "explanation": "词语「试衣间」是现代商场与服装专卖店中试穿衣物的核心设施名词。"
+          "explanation": "词语「试衣间」是现代商场与服装专卖店中试穿衣物的核心设施名词。",
+          "acceptableAnswers": [
+            "试衣间"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5514,7 +5654,10 @@
           "acceptedAnswers": [
             "打折"
           ],
-          "explanation": "词语「打折」是现代汉语中指称折扣促销的最核心动词词汇。"
+          "explanation": "词语「打折」是现代汉语中指称折扣促销的最核心动词词汇。",
+          "acceptableAnswers": [
+            "打折"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5631,7 +5774,10 @@
           "acceptedAnswers": [
             "扫码"
           ],
-          "explanation": "词语「扫码」是现代移动支付中最核心的高频动作词汇。"
+          "explanation": "词语「扫码」是现代移动支付中最核心的高频动作词汇。",
+          "acceptableAnswers": [
+            "扫码"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5748,7 +5894,10 @@
           "acceptedAnswers": [
             "购物"
           ],
-          "explanation": "词语「购物」是现代汉语中表达购买物品的最通用核心书面与口语词汇。"
+          "explanation": "词语「购物」是现代汉语中表达购买物品的最通用核心书面与口语词汇。",
+          "acceptableAnswers": [
+            "购物"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5865,7 +6014,10 @@
           "acceptedAnswers": [
             "嗓子"
           ],
-          "explanation": "词语「嗓子」是现代汉语口语中指称咽喉发声部位的核心词汇。"
+          "explanation": "词语「嗓子」是现代汉语口语中指称咽喉发声部位的核心词汇。",
+          "acceptableAnswers": [
+            "嗓子"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5982,7 +6134,10 @@
           "acceptedAnswers": [
             "咳嗽"
           ],
-          "explanation": "词语「咳嗽」是现代汉语中指称呼吸道咳嗽反应的核心规范词汇。"
+          "explanation": "词语「咳嗽」是现代汉语中指称呼吸道咳嗽反应的核心规范词汇。",
+          "acceptableAnswers": [
+            "咳嗽"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6099,7 +6254,10 @@
           "acceptedAnswers": [
             "挂号"
           ],
-          "explanation": "词语「挂号」是前往医院就诊的第一步核心医疗程序词汇。"
+          "explanation": "词语「挂号」是前往医院就诊的第一步核心医疗程序词汇。",
+          "acceptableAnswers": [
+            "挂号"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6216,7 +6374,10 @@
           "acceptedAnswers": [
             "康复"
           ],
-          "explanation": "词语「康复」是现代汉语中指称身体痊愈恢复健康的核心书面与口语词汇。"
+          "explanation": "词语「康复」是现代汉语中指称身体痊愈恢复健康的核心书面与口语词汇。",
+          "acceptableAnswers": [
+            "康复"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6333,7 +6494,10 @@
           "acceptedAnswers": [
             "健康"
           ],
-          "explanation": "词语「健康」是现代汉语中指称身体与身心健全状态的最核心词汇。"
+          "explanation": "词语「健康」是现代汉语中指称身体与身心健全状态的最核心词汇。",
+          "acceptableAnswers": [
+            "健康"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6450,7 +6614,10 @@
           "acceptedAnswers": [
             "会"
           ],
-          "explanation": "汉字「会」是现代汉语中表示掌握习得技能的核心情态助动词。"
+          "explanation": "汉字「会」是现代汉语中表示掌握习得技能的核心情态助动词。",
+          "acceptableAnswers": [
+            "会"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6567,7 +6734,10 @@
           "acceptedAnswers": [
             "想"
           ],
-          "explanation": "汉字「想」是表达主观愿望与委婉打算的核心情态动词。"
+          "explanation": "汉字「想」是表达主观愿望与委婉打算的核心情态动词。",
+          "acceptableAnswers": [
+            "想"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6684,7 +6854,10 @@
           "acceptedAnswers": [
             "必须"
           ],
-          "explanation": "词语「必须」是现代汉语中表达法定强制必然要求的核心规范词汇。"
+          "explanation": "词语「必须」是现代汉语中表达法定强制必然要求的核心规范词汇。",
+          "acceptableAnswers": [
+            "必须"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6801,7 +6974,10 @@
           "acceptedAnswers": [
             "希望"
           ],
-          "explanation": "词语「希望」是现代汉语中指称美好期盼与愿景的最核心词汇。"
+          "explanation": "词语「希望」是现代汉语中指称美好期盼与愿景的最核心词汇。",
+          "acceptableAnswers": [
+            "希望"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6918,7 +7094,10 @@
           "acceptedAnswers": [
             "宏图"
           ],
-          "explanation": "词语「宏图」是现代汉语中表达宏伟壮志与远大蓝图的核心典雅词汇。"
+          "explanation": "词语「宏图」是现代汉语中表达宏伟壮志与远大蓝图的核心典雅词汇。",
+          "acceptableAnswers": [
+            "宏图"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7035,7 +7214,10 @@
           "acceptedAnswers": [
             "游泳"
           ],
-          "explanation": "词语「游泳」是现代汉语中指称水上游泳运动的核心离合词。"
+          "explanation": "词语「游泳」是现代汉语中指称水上游泳运动的核心离合词。",
+          "acceptableAnswers": [
+            "游泳"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7152,7 +7334,10 @@
           "acceptedAnswers": [
             "散散步"
           ],
-          "explanation": "离合词「散步」的正确 AAB 重叠形式为「散散步」。"
+          "explanation": "离合词「散步」的正确 AAB 重叠形式为「散散步」。",
+          "acceptableAnswers": [
+            "散散步"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7269,7 +7454,10 @@
           "acceptedAnswers": [
             "请假"
           ],
-          "explanation": "词语「请假」是现代汉语中表达请求休假的核心离合词。"
+          "explanation": "词语「请假」是现代汉语中表达请求休假的核心离合词。",
+          "acceptableAnswers": [
+            "请假"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7386,7 +7574,10 @@
           "acceptedAnswers": [
             "书法"
           ],
-          "explanation": "词语「书法」是现代汉语中指称中国传统汉字书写艺术的核心专有名词。"
+          "explanation": "词语「书法」是现代汉语中指称中国传统汉字书写艺术的核心专有名词。",
+          "acceptableAnswers": [
+            "书法"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7505,7 +7696,12 @@
             "身心平衡",
             "身心健康"
           ],
-          "explanation": "词语「身心」或「身心平衡」是现代汉语中指称身体与精神全面健康状态的核心词汇。"
+          "explanation": "词语「身心」或「身心平衡」是现代汉语中指称身体与精神全面健康状态的核心词汇。",
+          "acceptableAnswers": [
+            "身心",
+            "身心平衡",
+            "身心健康"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7622,7 +7818,10 @@
           "acceptedAnswers": [
             "律师"
           ],
-          "explanation": "词语「律师」是现代汉语中指称法律专业执业人员的核心专有名词。"
+          "explanation": "词语「律师」是现代汉语中指称法律专业执业人员的核心专有名词。",
+          "acceptableAnswers": [
+            "律师"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7739,7 +7938,10 @@
           "acceptedAnswers": [
             "专业"
           ],
-          "explanation": "词语「专业」是现代高等教育中指称专门学术学科分类的核心名词。"
+          "explanation": "词语「专业」是现代高等教育中指称专门学术学科分类的核心名词。",
+          "acceptableAnswers": [
+            "专业"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7856,7 +8058,10 @@
           "acceptedAnswers": [
             "简历"
           ],
-          "explanation": "词语「简历」是求职招聘中指称个人履历表的核心专用名词。"
+          "explanation": "词语「简历」是求职招聘中指称个人履历表的核心专用名词。",
+          "acceptableAnswers": [
+            "简历"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7973,7 +8178,10 @@
           "acceptedAnswers": [
             "面试"
           ],
-          "explanation": "词语「面试」是招聘选拔中面对面考核考察的核心专用名词。"
+          "explanation": "词语「面试」是招聘选拔中面对面考核考察的核心专用名词。",
+          "acceptableAnswers": [
+            "面试"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8092,7 +8300,12 @@
             "录用通知书",
             "录取通知书"
           ],
-          "explanation": "词语「录用」或「录用通知书」是现代企事业单位指称聘用录用决定的核心法律书面文书。"
+          "explanation": "词语「录用」或「录用通知书」是现代企事业单位指称聘用录用决定的核心法律书面文书。",
+          "acceptableAnswers": [
+            "录用",
+            "录用通知书",
+            "录取通知书"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8209,7 +8422,10 @@
           "acceptedAnswers": [
             "比"
           ],
-          "explanation": "字词「比」是现代汉语比较句的核心标记词。"
+          "explanation": "字词「比」是现代汉语比较句的核心标记词。",
+          "acceptableAnswers": [
+            "比"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8326,7 +8542,10 @@
           "acceptedAnswers": [
             "不如"
           ],
-          "explanation": "词语「不如」是现代汉语中表达主观评价与优选方案的核心比较词。"
+          "explanation": "词语「不如」是现代汉语中表达主观评价与优选方案的核心比较词。",
+          "acceptableAnswers": [
+            "不如"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8443,7 +8662,10 @@
           "acceptedAnswers": [
             "一样"
           ],
-          "explanation": "词语「一样」是现代汉语中表达等同比较的核心词汇。"
+          "explanation": "词语「一样」是现代汉语中表达等同比较的核心词汇。",
+          "acceptableAnswers": [
+            "一样"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8560,7 +8782,10 @@
           "acceptedAnswers": [
             "越来越"
           ],
-          "explanation": "词语「越来越」是现代汉语中指称程度随时间不断加深的核心递进副词短语。"
+          "explanation": "词语「越来越」是现代汉语中指称程度随时间不断加深的核心递进副词短语。",
+          "acceptableAnswers": [
+            "越来越"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8679,7 +8904,12 @@
             "繁荣昌盛",
             "繁荣富强"
           ],
-          "explanation": "成语「繁荣」或「繁荣昌盛」是现代汉语中指称国家与社会繁盛昌明状态的经典成语。"
+          "explanation": "成语「繁荣」或「繁荣昌盛」是现代汉语中指称国家与社会繁盛昌明状态的经典成语。",
+          "acceptableAnswers": [
+            "繁荣",
+            "繁荣昌盛",
+            "繁荣富强"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8796,7 +9026,10 @@
           "acceptedAnswers": [
             "黄河"
           ],
-          "explanation": "词语「黄河」是中华民族最具代表性的母亲河专有名词。"
+          "explanation": "词语「黄河」是中华民族最具代表性的母亲河专有名词。",
+          "acceptableAnswers": [
+            "黄河"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8915,7 +9148,12 @@
             "故宫",
             "故宫博物院"
           ],
-          "explanation": "词语「紫禁城」是北京故宫最著名的历史专称。"
+          "explanation": "词语「紫禁城」是北京故宫最著名的历史专称。",
+          "acceptableAnswers": [
+            "紫禁城",
+            "故宫",
+            "故宫博物院"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9032,7 +9270,10 @@
           "acceptedAnswers": [
             "甲"
           ],
-          "explanation": "字词「甲」在文言与现代成语中表达位居第一（甲天下）。"
+          "explanation": "字词「甲」在文言与现代成语中表达位居第一（甲天下）。",
+          "acceptableAnswers": [
+            "甲"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9149,7 +9390,10 @@
           "acceptedAnswers": [
             "伴手礼"
           ],
-          "explanation": "词语「伴手礼」是现代汉语中指称出门带回赠予亲朋好友的纪念特色礼物的经典名词。"
+          "explanation": "词语「伴手礼」是现代汉语中指称出门带回赠予亲朋好友的纪念特色礼物的经典名词。",
+          "acceptableAnswers": [
+            "伴手礼"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9268,7 +9512,12 @@
             "神州大地",
             "华夏"
           ],
-          "explanation": "词语「神州」是中华大地的经典诗意尊称。"
+          "explanation": "词语「神州」是中华大地的经典诗意尊称。",
+          "acceptableAnswers": [
+            "神州",
+            "神州大地",
+            "华夏"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9385,7 +9634,10 @@
           "acceptedAnswers": [
             "把"
           ],
-          "explanation": "字词「把」是处置式句型最核心的句法标志介词。"
+          "explanation": "字词「把」是处置式句型最核心的句法标志介词。",
+          "acceptableAnswers": [
+            "把"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9502,7 +9754,10 @@
           "acceptedAnswers": [
             "成"
           ],
-          "explanation": "字词「成」作为结果补语表示转化与变成。"
+          "explanation": "字词「成」作为结果补语表示转化与变成。",
+          "acceptableAnswers": [
+            "成"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9619,7 +9874,10 @@
           "acceptedAnswers": [
             "给"
           ],
-          "explanation": "字词「给」作为介词补语表示对象接收与归属交付。"
+          "explanation": "字词「给」作为介词补语表示对象接收与归属交付。",
+          "acceptableAnswers": [
+            "给"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9737,7 +9995,11 @@
             "没",
             "没有"
           ],
-          "explanation": "词语「没」或「没有」是表达否定过去或未完成处置的核心否定副词。"
+          "explanation": "词语「没」或「没有」是表达否定过去或未完成处置的核心否定副词。",
+          "acceptableAnswers": [
+            "没",
+            "没有"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9854,7 +10116,10 @@
           "acceptedAnswers": [
             "极致"
           ],
-          "explanation": "词语「极致」是现代汉语中指称最高造诣与顶峰境界的经典词汇。"
+          "explanation": "词语「极致」是现代汉语中指称最高造诣与顶峰境界的经典词汇。",
+          "acceptableAnswers": [
+            "极致"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9971,7 +10236,10 @@
           "acceptedAnswers": [
             "被"
           ],
-          "explanation": "字词「被」是现代汉语书面语被动句最核心的标记介词。"
+          "explanation": "字词「被」是现代汉语书面语被动句最核心的标记介词。",
+          "acceptableAnswers": [
+            "被"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10090,7 +10358,12 @@
             "为所",
             "为……所……"
           ],
-          "explanation": "结构「为......所......」是汉语古典与现代典雅书面语的核心被动范式。"
+          "explanation": "结构「为......所......」是汉语古典与现代典雅书面语的核心被动范式。",
+          "acceptableAnswers": [
+            "为...所...",
+            "为所",
+            "为……所……"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10209,7 +10482,12 @@
             "受事主语句",
             "受事主语"
           ],
-          "explanation": "术语「受事」或「受事主语句」是语言学中指称客体作主语的经典语法范畴。"
+          "explanation": "术语「受事」或「受事主语句」是语言学中指称客体作主语的经典语法范畴。",
+          "acceptableAnswers": [
+            "受事",
+            "受事主语句",
+            "受事主语"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10327,7 +10605,11 @@
             "应该",
             "应当"
           ],
-          "explanation": "词语「应该」或「应当」是现代汉语中表达情理要求与义务的核心能愿动词。"
+          "explanation": "词语「应该」或「应当」是现代汉语中表达情理要求与义务的核心能愿动词。",
+          "acceptableAnswers": [
+            "应该",
+            "应当"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10444,7 +10726,10 @@
           "acceptedAnswers": [
             "楷模"
           ],
-          "explanation": "词语「楷模」是现代汉语中指称崇高典范与时代榜样的经典名词。"
+          "explanation": "词语「楷模」是现代汉语中指称崇高典范与时代榜样的经典名词。",
+          "acceptableAnswers": [
+            "楷模"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10561,7 +10846,10 @@
           "acceptedAnswers": [
             "好"
           ],
-          "explanation": "字词「好」作为结果补语表示达到令人满意的完善就绪状态。"
+          "explanation": "字词「好」作为结果补语表示达到令人满意的完善就绪状态。",
+          "acceptableAnswers": [
+            "好"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10678,7 +10966,10 @@
           "acceptedAnswers": [
             "来"
           ],
-          "explanation": "字词「来」是表达朝向视点基准移动的核心单纯趋向动词与补语。"
+          "explanation": "字词「来」是表达朝向视点基准移动的核心单纯趋向动词与补语。",
+          "acceptableAnswers": [
+            "来"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10795,7 +11086,10 @@
           "acceptedAnswers": [
             "起来"
           ],
-          "explanation": "词语「起来」是现代汉语中表达动作开始与状态萌发的核心复合趋向补语。"
+          "explanation": "词语「起来」是现代汉语中表达动作开始与状态萌发的核心复合趋向补语。",
+          "acceptableAnswers": [
+            "起来"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10912,7 +11206,10 @@
           "acceptedAnswers": [
             "下去"
           ],
-          "explanation": "词语「下去」是现代汉语中指称动作向未来持续推进的核心复合趋向补语。"
+          "explanation": "词语「下去」是现代汉语中指称动作向未来持续推进的核心复合趋向补语。",
+          "acceptableAnswers": [
+            "下去"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11031,7 +11328,12 @@
             "团结起来",
             "组织"
           ],
-          "explanation": "词语「团结」是现代汉语中指称凝聚一心、共同奋斗的核心动词。"
+          "explanation": "词语「团结」是现代汉语中指称凝聚一心、共同奋斗的核心动词。",
+          "acceptableAnswers": [
+            "团结",
+            "团结起来",
+            "组织"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11148,7 +11450,10 @@
           "acceptedAnswers": [
             "得"
           ],
-          "explanation": "字词「得」是构成现代汉语可能补语肯定式的核心结构标记。"
+          "explanation": "字词「得」是构成现代汉语可能补语肯定式的核心结构标记。",
+          "acceptableAnswers": [
+            "得"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11265,7 +11570,10 @@
           "acceptedAnswers": [
             "对得起"
           ],
-          "explanation": "词组「对得起」是现代汉语中表达不负重托、问心无愧的核心固定可能补语。"
+          "explanation": "词组「对得起」是现代汉语中表达不负重托、问心无愧的核心固定可能补语。",
+          "acceptableAnswers": [
+            "对得起"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11382,7 +11690,10 @@
           "acceptedAnswers": [
             "不"
           ],
-          "explanation": "字词「不」是构成可能补语否定式及正反疑问句的核心单字否定词。"
+          "explanation": "字词「不」是构成可能补语否定式及正反疑问句的核心单字否定词。",
+          "acceptableAnswers": [
+            "不"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11499,7 +11810,10 @@
           "acceptedAnswers": [
             "极了"
           ],
-          "explanation": "词语「极了」是现代汉语中表达最高程度的经典程度补语。"
+          "explanation": "词语「极了」是现代汉语中表达最高程度的经典程度补语。",
+          "acceptableAnswers": [
+            "极了"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11616,7 +11930,10 @@
           "acceptedAnswers": [
             "精益求精"
           ],
-          "explanation": "成语「精益求精」是中华文化中指称精雕细琢、追求卓越的核心经典成语。"
+          "explanation": "成语「精益求精」是中华文化中指称精雕细琢、追求卓越的核心经典成语。",
+          "acceptableAnswers": [
+            "精益求精"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11733,7 +12050,10 @@
           "acceptedAnswers": [
             "着"
           ],
-          "explanation": "助词「着」是现代汉语静态存现句中表示状态静态持续的核心动态助词。"
+          "explanation": "助词「着」是现代汉语静态存现句中表示状态静态持续的核心动态助词。",
+          "acceptableAnswers": [
+            "着"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11850,7 +12170,10 @@
           "acceptedAnswers": [
             "少"
           ],
-          "explanation": "字词「少」在消失句中直接充当谓语动词表达数量减损脱离。"
+          "explanation": "字词「少」在消失句中直接充当谓语动词表达数量减损脱离。",
+          "acceptableAnswers": [
+            "少"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11967,7 +12290,10 @@
           "acceptedAnswers": [
             "旁边"
           ],
-          "explanation": "词语「旁边」是现代汉语中指称邻近侧面空间的核心双音方位词。"
+          "explanation": "词语「旁边」是现代汉语中指称邻近侧面空间的核心双音方位词。",
+          "acceptableAnswers": [
+            "旁边"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12084,7 +12410,10 @@
           "acceptedAnswers": [
             "文房四宝"
           ],
-          "explanation": "词语「文房四宝」是中国传统文化中对笔、墨、纸、砚四大书写雅具的经典统称。"
+          "explanation": "词语「文房四宝」是中国传统文化中对笔、墨、纸、砚四大书写雅具的经典统称。",
+          "acceptableAnswers": [
+            "文房四宝"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12202,7 +12531,11 @@
             "巍然矗立",
             "矗立"
           ],
-          "explanation": "成语「巍然矗立」是现代汉语中指称建筑物或丰碑雄伟庄严挺立的核心经典成语。"
+          "explanation": "成语「巍然矗立」是现代汉语中指称建筑物或丰碑雄伟庄严挺立的核心经典成语。",
+          "acceptableAnswers": [
+            "巍然矗立",
+            "矗立"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12319,7 +12652,10 @@
           "acceptedAnswers": [
             "尚且"
           ],
-          "explanation": "词语「尚且」是现代汉语中用于反衬递进句前一分句的核心书面语关联词。"
+          "explanation": "词语「尚且」是现代汉语中用于反衬递进句前一分句的核心书面语关联词。",
+          "acceptableAnswers": [
+            "尚且"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12436,7 +12772,10 @@
           "acceptedAnswers": [
             "固然"
           ],
-          "explanation": "词语「固然」是现代汉语中用于承认既有事实、为后文转折做铺垫的核心书面语让步关联词。"
+          "explanation": "词语「固然」是现代汉语中用于承认既有事实、为后文转折做铺垫的核心书面语让步关联词。",
+          "acceptableAnswers": [
+            "固然"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12553,7 +12892,10 @@
           "acceptedAnswers": [
             "既然"
           ],
-          "explanation": "词语「既然」是现代汉语中用于根据已知前提取出结论的核心推论关联词。"
+          "explanation": "词语「既然」是现代汉语中用于根据已知前提取出结论的核心推论关联词。",
+          "acceptableAnswers": [
+            "既然"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12670,7 +13012,10 @@
           "acceptedAnswers": [
             "只有"
           ],
-          "explanation": "词语「只有」是现代汉语中用于引出必要条件的核心关联词（后与「才」搭配）。"
+          "explanation": "词语「只有」是现代汉语中用于引出必要条件的核心关联词（后与「才」搭配）。",
+          "acceptableAnswers": [
+            "只有"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12787,7 +13132,10 @@
           "acceptedAnswers": [
             "自强不息"
           ],
-          "explanation": "成语「自强不息」源自《周易》，是中华民族数千年来刚健笃实、奋发图强的核心精神象征。"
+          "explanation": "成语「自强不息」源自《周易》，是中华民族数千年来刚健笃实、奋发图强的核心精神象征。",
+          "acceptableAnswers": [
+            "自强不息"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12904,7 +13252,10 @@
           "acceptedAnswers": [
             "旨在"
           ],
-          "explanation": "词语「旨在」是现代汉语公文与学术论著中表达核心目标与宗旨的标准书面用词。"
+          "explanation": "词语「旨在」是现代汉语公文与学术论著中表达核心目标与宗旨的标准书面用词。",
+          "acceptableAnswers": [
+            "旨在"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13021,7 +13372,10 @@
           "acceptedAnswers": [
             "厚积薄发"
           ],
-          "explanation": "成语「厚积薄发」是现代汉语中指称深厚积淀之后爆发巨大成就的经典成语。"
+          "explanation": "成语「厚积薄发」是现代汉语中指称深厚积淀之后爆发巨大成就的经典成语。",
+          "acceptableAnswers": [
+            "厚积薄发"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13138,7 +13492,10 @@
           "acceptedAnswers": [
             "戮力同心"
           ],
-          "explanation": "成语「戮力同心」是现代汉语高规格政论与社论中表达万众一心合力奋斗的核心成语。"
+          "explanation": "成语「戮力同心」是现代汉语高规格政论与社论中表达万众一心合力奋斗的核心成语。",
+          "acceptableAnswers": [
+            "戮力同心"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13255,7 +13612,10 @@
           "acceptedAnswers": [
             "排比"
           ],
-          "explanation": "修辞术语「排比」是现代汉语中用于增强语势与节奏感的经典修辞手法。"
+          "explanation": "修辞术语「排比」是现代汉语中用于增强语势与节奏感的经典修辞手法。",
+          "acceptableAnswers": [
+            "排比"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13373,7 +13733,11 @@
             "乘风破浪",
             "劈波斩浪"
           ],
-          "explanation": "成语「乘风破浪」出自《宋书·宗悫传》，是表达乘势而上、勇往直前的核心经典成语。"
+          "explanation": "成语「乘风破浪」出自《宋书·宗悫传》，是表达乘势而上、勇往直前的核心经典成语。",
+          "acceptableAnswers": [
+            "乘风破浪",
+            "劈波斩浪"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13491,7 +13855,11 @@
             "标志",
             "标志着"
           ],
-          "explanation": "动词「标志（着）」是现代汉语新闻报道中用于概括重大突破历史意义的最高频规范动词。"
+          "explanation": "动词「标志（着）」是现代汉语新闻报道中用于概括重大突破历史意义的最高频规范动词。",
+          "acceptableAnswers": [
+            "标志",
+            "标志着"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13608,7 +13976,10 @@
           "acceptedAnswers": [
             "新质生产力"
           ],
-          "explanation": "词语「新质生产力」是当代中国经济高质量发展与科技赋能产业的核心纲领性术语。"
+          "explanation": "词语「新质生产力」是当代中国经济高质量发展与科技赋能产业的核心纲领性术语。",
+          "acceptableAnswers": [
+            "新质生产力"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13725,7 +14096,10 @@
           "acceptedAnswers": [
             "科技向善"
           ],
-          "explanation": "词语「科技向善」是当代科技治理与伦理建构中的核心理念与价值指南。"
+          "explanation": "词语「科技向善」是当代科技治理与伦理建构中的核心理念与价值指南。",
+          "acceptableAnswers": [
+            "科技向善"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13842,7 +14216,10 @@
           "acceptedAnswers": [
             "人与自然和谐共生"
           ],
-          "explanation": "表述「人与自然和谐共生」是中国式现代化区别于西方传统工业化道路的本质特征之一。"
+          "explanation": "表述「人与自然和谐共生」是中国式现代化区别于西方传统工业化道路的本质特征之一。",
+          "acceptableAnswers": [
+            "人与自然和谐共生"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13959,7 +14336,10 @@
           "acceptedAnswers": [
             "行稳致远"
           ],
-          "explanation": "成语「行稳致远」是现代汉语高规格政论与国家治理中指称保持战略定力、稳步实现长远目标的经典成语。"
+          "explanation": "成语「行稳致远」是现代汉语高规格政论与国家治理中指称保持战略定力、稳步实现长远目标的经典成语。",
+          "acceptableAnswers": [
+            "行稳致远"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14076,7 +14456,10 @@
           "acceptedAnswers": [
             "请批示"
           ],
-          "explanation": "词语「请批示」是现代汉语上行请示公文中最关键的核心程式语。"
+          "explanation": "词语「请批示」是现代汉语上行请示公文中最关键的核心程式语。",
+          "acceptableAnswers": [
+            "请批示"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14193,7 +14576,10 @@
           "acceptedAnswers": [
             "以资"
           ],
-          "explanation": "虚词词组「以资」（如「以资遵守」、「以资信守」）是法律文书中表达以此作为依据凭证的标准书面语。"
+          "explanation": "虚词词组「以资」（如「以资遵守」、「以资信守」）是法律文书中表达以此作为依据凭证的标准书面语。",
+          "acceptableAnswers": [
+            "以资"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14310,7 +14696,10 @@
           "acceptedAnswers": [
             "正偏离"
           ],
-          "explanation": "术语「正偏离」是招投标评审中指技术指标高于招标基准要求的标准用词。"
+          "explanation": "术语「正偏离」是招投标评审中指技术指标高于招标基准要求的标准用词。",
+          "acceptableAnswers": [
+            "正偏离"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14428,7 +14817,11 @@
             "互利共赢",
             "合作共赢"
           ],
-          "explanation": "成语「互利共赢」是当代商务与国际经贸合作中最核心的价值导向。"
+          "explanation": "成语「互利共赢」是当代商务与国际经贸合作中最核心的价值导向。",
+          "acceptableAnswers": [
+            "互利共赢",
+            "合作共赢"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14546,7 +14939,11 @@
             "共识",
             "战略共识"
           ],
-          "explanation": "词语「共识」是现代商务谈判与政商合作中指称双方在核心利益与目标上达成一致的标准概念。"
+          "explanation": "词语「共识」是现代商务谈判与政商合作中指称双方在核心利益与目标上达成一致的标准概念。",
+          "acceptableAnswers": [
+            "共识",
+            "战略共识"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14663,7 +15060,10 @@
           "acceptedAnswers": [
             "求索"
           ],
-          "explanation": "词语「求索」出自《离骚》「路漫漫其修远兮，吾将上下而求索」，成为中华民族执着探索真理的永恒座右铭。"
+          "explanation": "词语「求索」出自《离骚》「路漫漫其修远兮，吾将上下而求索」，成为中华民族执着探索真理的永恒座右铭。",
+          "acceptableAnswers": [
+            "求索"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14780,7 +15180,10 @@
           "acceptedAnswers": [
             "沉郁顿挫"
           ],
-          "explanation": "成语「沉郁顿挫」是评价诗圣杜甫诗歌思想深沉博大、语言起伏有致的标准美学评价。"
+          "explanation": "成语「沉郁顿挫」是评价诗圣杜甫诗歌思想深沉博大、语言起伏有致的标准美学评价。",
+          "acceptableAnswers": [
+            "沉郁顿挫"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14897,7 +15300,10 @@
           "acceptedAnswers": [
             "婵娟"
           ],
-          "explanation": "词语「婵娟」在古典诗词中常用来代指明月，苏轼词句「千里共婵娟」已成为中华传统文化中共享明月与思念的文化符号。"
+          "explanation": "词语「婵娟」在古典诗词中常用来代指明月，苏轼词句「千里共婵娟」已成为中华传统文化中共享明月与思念的文化符号。",
+          "acceptableAnswers": [
+            "婵娟"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15014,7 +15420,10 @@
           "acceptedAnswers": [
             "有我之境"
           ],
-          "explanation": "范畴「有我之境」是王国维诗学理论中指代主观情感强烈投射于客体景物的核心概念。"
+          "explanation": "范畴「有我之境」是王国维诗学理论中指代主观情感强烈投射于客体景物的核心概念。",
+          "acceptableAnswers": [
+            "有我之境"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15132,7 +15541,11 @@
             "境界",
             "意境"
           ],
-          "explanation": "概念「境界」（或「意境」）是王国维《人间词话》的核心灵魂，也是中国古代文艺理论批评的至高审美标准。"
+          "explanation": "概念「境界」（或「意境」）是王国维《人间词话》的核心灵魂，也是中国古代文艺理论批评的至高审美标准。",
+          "acceptableAnswers": [
+            "境界",
+            "意境"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15249,7 +15662,10 @@
           "acceptedAnswers": [
             "浩然之气"
           ],
-          "explanation": "词语「浩然之气」出自《孟子·公孙丑上》「吾善养吾浩然之气」，形容刚正不阿、光明磊落的崇高精神力量。"
+          "explanation": "词语「浩然之气」出自《孟子·公孙丑上》「吾善养吾浩然之气」，形容刚正不阿、光明磊落的崇高精神力量。",
+          "acceptableAnswers": [
+            "浩然之气"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15366,7 +15782,10 @@
           "acceptedAnswers": [
             "道法自然"
           ],
-          "explanation": "名句「道法自然」是老子哲学的至高纲领，确立了道顺应自然本性的根本法度。"
+          "explanation": "名句「道法自然」是老子哲学的至高纲领，确立了道顺应自然本性的根本法度。",
+          "acceptableAnswers": [
+            "道法自然"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15483,7 +15902,10 @@
           "acceptedAnswers": [
             "非攻"
           ],
-          "explanation": "词语「非攻」是墨家思想中反对非正义掠夺战争、倡导防御和平的核心主张。"
+          "explanation": "词语「非攻」是墨家思想中反对非正义掠夺战争、倡导防御和平的核心主张。",
+          "acceptableAnswers": [
+            "非攻"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15600,7 +16022,10 @@
           "acceptedAnswers": [
             "厚德载物"
           ],
-          "explanation": "成语「厚德载物」出自《周易·坤卦》，是中华民族宽厚包容、海纳百川美德的经典象征。"
+          "explanation": "成语「厚德载物」出自《周易·坤卦》，是中华民族宽厚包容、海纳百川美德的经典象征。",
+          "acceptableAnswers": [
+            "厚德载物"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15717,7 +16142,10 @@
           "acceptedAnswers": [
             "天下为公"
           ],
-          "explanation": "名句「天下为公」是中华民族两千多年来追求社会公平正义、天下大同的核心政治理想与哲学符号。"
+          "explanation": "名句「天下为公」是中华民族两千多年来追求社会公平正义、天下大同的核心政治理想与哲学符号。",
+          "acceptableAnswers": [
+            "天下为公"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15836,7 +16264,12 @@
             "丑行",
             "丑角"
           ],
-          "explanation": "「丑」是戏曲四大行当（生旦净丑）之一，俗称三花脸或小花脸，分为文丑与武丑。"
+          "explanation": "「丑」是戏曲四大行当（生旦净丑）之一，俗称三花脸或小花脸，分为文丑与武丑。",
+          "acceptableAnswers": [
+            "丑",
+            "丑行",
+            "丑角"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15953,7 +16386,10 @@
           "acceptedAnswers": [
             "计白当黑"
           ],
-          "explanation": "成语「计白当黑」是中国书画留白美学中最著名的经典法则，强调虚白与实黑同样具有艺术生命。"
+          "explanation": "成语「计白当黑」是中国书画留白美学中最著名的经典法则，强调虚白与实黑同样具有艺术生命。",
+          "acceptableAnswers": [
+            "计白当黑"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16073,7 +16509,13 @@
             "《兰亭集序》",
             "《兰亭序》"
           ],
-          "explanation": "《兰亭集序》（《兰亭序》）是东晋王羲之的登峰造极之作，被尊为天下第一行书。"
+          "explanation": "《兰亭集序》（《兰亭序》）是东晋王羲之的登峰造极之作，被尊为天下第一行书。",
+          "acceptableAnswers": [
+            "兰亭集序",
+            "兰亭序",
+            "《兰亭集序》",
+            "《兰亭序》"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16190,7 +16632,10 @@
           "acceptedAnswers": [
             "宣纸"
           ],
-          "explanation": "「宣纸」产于中国安徽省泾县，是中国水墨书画的最高等级专用纸张，享誉全球。"
+          "explanation": "「宣纸」产于中国安徽省泾县，是中国水墨书画的最高等级专用纸张，享誉全球。",
+          "acceptableAnswers": [
+            "宣纸"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16307,7 +16752,10 @@
           "acceptedAnswers": [
             "神形兼备"
           ],
-          "explanation": "成语「神形兼备」是中国古代美学中衡量文学艺术作品达到形神统一最高境界的经典评语。"
+          "explanation": "成语「神形兼备」是中国古代美学中衡量文学艺术作品达到形神统一最高境界的经典评语。",
+          "acceptableAnswers": [
+            "神形兼备"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16424,7 +16872,10 @@
           "acceptedAnswers": [
             "精神胜利法"
           ],
-          "explanation": "术语「精神胜利法」是鲁迅文学对国民劣根性进行深度解剖的核心概念。"
+          "explanation": "术语「精神胜利法」是鲁迅文学对国民劣根性进行深度解剖的核心概念。",
+          "acceptableAnswers": [
+            "精神胜利法"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16542,7 +16993,11 @@
             "茶馆",
             "《茶馆》"
           ],
-          "explanation": "《茶馆》是老舍话剧创作的巅峰之作，被誉为中国现代话剧的东方奇迹。"
+          "explanation": "《茶馆》是老舍话剧创作的巅峰之作，被誉为中国现代话剧的东方奇迹。",
+          "acceptableAnswers": [
+            "茶馆",
+            "《茶馆》"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16660,7 +17115,11 @@
             "倾城之恋",
             "《倾城之恋》"
           ],
-          "explanation": "《倾城之恋》是张爱玲最著名的爱情小说之一，堪称中国现代都市传奇的经典。"
+          "explanation": "《倾城之恋》是张爱玲最著名的爱情小说之一，堪称中国现代都市传奇的经典。",
+          "acceptableAnswers": [
+            "倾城之恋",
+            "《倾城之恋》"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16778,7 +17237,11 @@
             "边城",
             "《边城》"
           ],
-          "explanation": "《边城》是沈从文的代表作，是中国现代抒情乡土文学的巅峰杰作。"
+          "explanation": "《边城》是沈从文的代表作，是中国现代抒情乡土文学的巅峰杰作。",
+          "acceptableAnswers": [
+            "边城",
+            "《边城》"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16895,7 +17358,10 @@
           "acceptedAnswers": [
             "振聋发聩"
           ],
-          "explanation": "成语「振聋发聩」形容言论或文章思想深刻尖锐，能够使麻木昏沉的人受到极大震动而觉醒。"
+          "explanation": "成语「振聋发聩」形容言论或文章思想深刻尖锐，能够使麻木昏沉的人受到极大震动而觉醒。",
+          "acceptableAnswers": [
+            "振聋发聩"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17012,7 +17478,10 @@
           "acceptedAnswers": [
             "有鉴于此"
           ],
-          "explanation": "词语「有鉴于此」是学术论文与高阶公文中极高频使用的承上启下逻辑过渡词。"
+          "explanation": "词语「有鉴于此」是学术论文与高阶公文中极高频使用的承上启下逻辑过渡词。",
+          "acceptableAnswers": [
+            "有鉴于此"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17129,7 +17598,10 @@
           "acceptedAnswers": [
             "理论饱和度"
           ],
-          "explanation": "术语「理论饱和度」是质性扎根理论研究停止继续采样与编码的决定性标准。"
+          "explanation": "术语「理论饱和度」是质性扎根理论研究停止继续采样与编码的决定性标准。",
+          "acceptableAnswers": [
+            "理论饱和度"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17246,7 +17718,10 @@
           "acceptedAnswers": [
             "涌现"
           ],
-          "explanation": "术语「涌现」（Emergence）指复杂系统在大规模聚集后自发产生全新高阶属性的科学现象。"
+          "explanation": "术语「涌现」（Emergence）指复杂系统在大规模聚集后自发产生全新高阶属性的科学现象。",
+          "acceptableAnswers": [
+            "涌现"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17363,7 +17838,10 @@
           "acceptedAnswers": [
             "知情同意"
           ],
-          "explanation": "原则「知情同意」是全球科研伦理审查与受试者保护的最核心准则。"
+          "explanation": "原则「知情同意」是全球科研伦理审查与受试者保护的最核心准则。",
+          "acceptableAnswers": [
+            "知情同意"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17480,7 +17958,10 @@
           "acceptedAnswers": [
             "求真务实"
           ],
-          "explanation": "成语「求真务实」是科学精神与严谨学术态度的最高象征。"
+          "explanation": "成语「求真务实」是科学精神与严谨学术态度的最高象征。",
+          "acceptableAnswers": [
+            "求真务实"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17597,7 +18078,10 @@
           "acceptedAnswers": [
             "霸王别姬"
           ],
-          "explanation": "电影《霸王别姬》是华语电影艺术的无可争议的登峰造极之作。"
+          "explanation": "电影《霸王别姬》是华语电影艺术的无可争议的登峰造极之作。",
+          "acceptableAnswers": [
+            "霸王别姬"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17714,7 +18198,10 @@
           "acceptedAnswers": [
             "三峡好人"
           ],
-          "explanation": "电影《三峡好人》是贾樟柯荣获威尼斯最高大奖金狮奖的传世名作。"
+          "explanation": "电影《三峡好人》是贾樟柯荣获威尼斯最高大奖金狮奖的传世名作。",
+          "acceptableAnswers": [
+            "三峡好人"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17831,7 +18318,10 @@
           "acceptedAnswers": [
             "流浪地球"
           ],
-          "explanation": "电影《流浪地球》是中国科幻电影重工业化的奠基之作。"
+          "explanation": "电影《流浪地球》是中国科幻电影重工业化的奠基之作。",
+          "acceptableAnswers": [
+            "流浪地球"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17950,7 +18440,12 @@
             "间离效应",
             "审美间离"
           ],
-          "explanation": "术语「间离效果」（Alienation Effect）是电影美学与现代戏剧批评中极具深度的高级概念。"
+          "explanation": "术语「间离效果」（Alienation Effect）是电影美学与现代戏剧批评中极具深度的高级概念。",
+          "acceptableAnswers": [
+            "间离效果",
+            "间离效应",
+            "审美间离"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18068,7 +18563,11 @@
             "时代的镜像",
             "时代镜像"
           ],
-          "explanation": "短语「时代的镜像」高度凝练地概括了电影艺术深刻反映时代风貌与民族精神的本质功能。"
+          "explanation": "短语「时代的镜像」高度凝练地概括了电影艺术深刻反映时代风貌与民族精神的本质功能。",
+          "acceptableAnswers": [
+            "时代的镜像",
+            "时代镜像"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18185,7 +18684,10 @@
           "acceptedAnswers": [
             "合宪性审查"
           ],
-          "explanation": "术语「合宪性审查」是维护国家宪法权威与法制统一的根本宪法监督制度。"
+          "explanation": "术语「合宪性审查」是维护国家宪法权威与法制统一的根本宪法监督制度。",
+          "acceptableAnswers": [
+            "合宪性审查"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18302,7 +18804,10 @@
           "acceptedAnswers": [
             "居住权"
           ],
-          "explanation": "权利「居住权」是民法典物权编最重要的制度创新之一。"
+          "explanation": "权利「居住权」是民法典物权编最重要的制度创新之一。",
+          "acceptableAnswers": [
+            "居住权"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18420,7 +18925,11 @@
             "罪刑法定",
             "罪刑法定原则"
           ],
-          "explanation": "原则「罪刑法定」是现代刑法的立足之基与人权保障铁律。"
+          "explanation": "原则「罪刑法定」是现代刑法的立足之基与人权保障铁律。",
+          "acceptableAnswers": [
+            "罪刑法定",
+            "罪刑法定原则"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18537,7 +19046,10 @@
           "acceptedAnswers": [
             "排除合理怀疑"
           ],
-          "explanation": "术语「排除合理怀疑」是现代刑事司法定罪的最高证明标准。"
+          "explanation": "术语「排除合理怀疑」是现代刑事司法定罪的最高证明标准。",
+          "acceptableAnswers": [
+            "排除合理怀疑"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18654,7 +19166,10 @@
           "acceptedAnswers": [
             "良法善治"
           ],
-          "explanation": "成语「良法善治」是现代法治国家的最高境界与终极治理目标。"
+          "explanation": "成语「良法善治」是现代法治国家的最高境界与终极治理目标。",
+          "acceptableAnswers": [
+            "良法善治"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18771,7 +19286,10 @@
           "acceptedAnswers": [
             "归谬法"
           ],
-          "explanation": "术语「归谬法」是辩论破辩与逻辑反驳中最经典的有力战术。"
+          "explanation": "术语「归谬法」是辩论破辩与逻辑反驳中最经典的有力战术。",
+          "acceptableAnswers": [
+            "归谬法"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18888,7 +19406,10 @@
           "acceptedAnswers": [
             "设问"
           ],
-          "explanation": "术语「设问」是公共演说与论文写作中极高频使用的启发性修辞手段。"
+          "explanation": "术语「设问」是公共演说与论文写作中极高频使用的启发性修辞手段。",
+          "acceptableAnswers": [
+            "设问"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19005,7 +19526,10 @@
           "acceptedAnswers": [
             "最大公约数"
           ],
-          "explanation": "术语「最大公约数」是现代公共政策协商与凝聚社会共识的最核心词汇。"
+          "explanation": "术语「最大公约数」是现代公共政策协商与凝聚社会共识的最核心词汇。",
+          "acceptableAnswers": [
+            "最大公约数"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19122,7 +19646,10 @@
           "acceptedAnswers": [
             "知行合一"
           ],
-          "explanation": "哲学成语「知行合一」是王阳明心学的核心命题，也是华语辩论中极高频引用的经典哲学命题。"
+          "explanation": "哲学成语「知行合一」是王阳明心学的核心命题，也是华语辩论中极高频引用的经典哲学命题。",
+          "acceptableAnswers": [
+            "知行合一"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19239,7 +19766,10 @@
           "acceptedAnswers": [
             "铿锵有力"
           ],
-          "explanation": "成语「铿锵有力」形容声音坚实清脆、言辞坚定有力，是评价卓越演讲演说家的经典赞词。"
+          "explanation": "成语「铿锵有力」形容声音坚实清脆、言辞坚定有力，是评价卓越演讲演说家的经典赞词。",
+          "acceptableAnswers": [
+            "铿锵有力"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19357,7 +19887,11 @@
             "斗栱",
             "斗拱"
           ],
-          "explanation": "构件「斗栱」是中国传统木构建筑最具代表性与力学美感的灵魂构件。"
+          "explanation": "构件「斗栱」是中国传统木构建筑最具代表性与力学美感的灵魂构件。",
+          "acceptableAnswers": [
+            "斗栱",
+            "斗拱"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19474,7 +20008,10 @@
           "acceptedAnswers": [
             "重檐庑殿顶"
           ],
-          "explanation": "屋顶形式「重檐庑殿顶」是中国古代建筑等级最高的屋顶制式。"
+          "explanation": "屋顶形式「重檐庑殿顶」是中国古代建筑等级最高的屋顶制式。",
+          "acceptableAnswers": [
+            "重檐庑殿顶"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19592,7 +20129,11 @@
             "虽由人作宛自天开",
             "虽由人作，宛自天开"
           ],
-          "explanation": "名句「虽由人作，宛自天开」是中国古典园林造园艺术的最高审美纲领。"
+          "explanation": "名句「虽由人作，宛自天开」是中国古典园林造园艺术的最高审美纲领。",
+          "acceptableAnswers": [
+            "虽由人作宛自天开",
+            "虽由人作，宛自天开"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19709,7 +20250,10 @@
           "acceptedAnswers": [
             "四水归堂"
           ],
-          "explanation": "术语「四水归堂」是徽派民居天井空间格局与传统文化心理的最核心体现。"
+          "explanation": "术语「四水归堂」是徽派民居天井空间格局与传统文化心理的最核心体现。",
+          "acceptableAnswers": [
+            "四水归堂"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19826,7 +20370,10 @@
           "acceptedAnswers": [
             "天人合一"
           ],
-          "explanation": "哲学成语「天人合一」是中国传统建筑营建、园林设计与生态栖居的灵魂所在。"
+          "explanation": "哲学成语「天人合一」是中国传统建筑营建、园林设计与生态栖居的灵魂所在。",
+          "acceptableAnswers": [
+            "天人合一"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19944,7 +20491,11 @@
             "条约必须遵守",
             "条约必须遵守原则"
           ],
-          "explanation": "原则「条约必须遵守」（Pacta sunt servanda）是国际条约法最核心的黄金铁律。"
+          "explanation": "原则「条约必须遵守」（Pacta sunt servanda）是国际条约法最核心的黄金铁律。",
+          "acceptableAnswers": [
+            "条约必须遵守",
+            "条约必须遵守原则"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20062,7 +20613,11 @@
             "纽约公约",
             "《纽约公约》"
           ],
-          "explanation": "《纽约公约》（New York Convention）是国际商事仲裁裁决跨境承认与执行的最高法律依据。"
+          "explanation": "《纽约公约》（New York Convention）是国际商事仲裁裁决跨境承认与执行的最高法律依据。",
+          "acceptableAnswers": [
+            "纽约公约",
+            "《纽约公约》"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20180,7 +20735,11 @@
             "美美与共天下大同",
             "美美与共，天下大同"
           ],
-          "explanation": "名句「美美与共，天下大同」高度概括了中华文明包容万方、追求全人类共同美好未来的崇高理想。"
+          "explanation": "名句「美美与共，天下大同」高度概括了中华文明包容万方、追求全人类共同美好未来的崇高理想。",
+          "acceptableAnswers": [
+            "美美与共天下大同",
+            "美美与共，天下大同"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20298,7 +20857,11 @@
             "耳口时差",
             "视听时差"
           ],
-          "explanation": "专业术语「耳口时差」（Ear-Voice Span, EVS）是同声传译信息处理与输出节奏的核心指标。"
+          "explanation": "专业术语「耳口时差」（Ear-Voice Span, EVS）是同声传译信息处理与输出节奏的核心指标。",
+          "acceptableAnswers": [
+            "耳口时差",
+            "视听时差"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20415,7 +20978,10 @@
           "acceptedAnswers": [
             "天下为公"
           ],
-          "explanation": "千古名句「天下为公」是中华政治哲学与社会大同理想的最高纲领。"
+          "explanation": "千古名句「天下为公」是中华政治哲学与社会大同理想的最高纲领。",
+          "acceptableAnswers": [
+            "天下为公"
+          ]
         }
       ],
       "passThreshold": 0.8

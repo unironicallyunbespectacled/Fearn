@@ -490,10 +490,10 @@
         {
           "prompt": "What unique grammatical orthography rule applies to ALL German nouns in writing?",
           "options": [
-            "Every single noun is always capitalized (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Nouns are written in italics (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Nouns never end in vowels (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Nouns cannot be pluralized (Master the 26 German alphabet letters plus 3 Umlauts)"
+            "Every single noun is always capitalized",
+            "Nouns are written in italics",
+            "Nouns never end in vowels",
+            "Nouns cannot be pluralized"
           ],
           "answerIndex": 0,
           "explanation": "In German, all nouns are capitalized regardless of their position in the sentence."
@@ -501,10 +501,10 @@
         {
           "prompt": "How is the diphthong «ei» pronounced in German words like «mein» (my) and «Zeit» (time)?",
           "options": [
-            "Like English \"eye\" (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Like English \"ee\" (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Like English \"ay\" (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Like English \"oo\" (Master the 26 German alphabet letters plus 3 Umlauts)"
+            "Like English \"eye\"",
+            "Like English \"ee\"",
+            "Like English \"ay\"",
+            "Like English \"oo\""
           ],
           "answerIndex": 0,
           "explanation": "The diphthong «ei» is pronounced like \"eye\" [ai]."
@@ -516,10 +516,10 @@
         {
           "prompt": "How is the initial consonant cluster «st» pronounced in German words like «Stadt» (city) and «Straße» (street)?",
           "options": [
-            "As \"sht\" (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "As plain English \"st\" (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "As \"sk\" (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "Silent (Master the 26 German alphabet letters plus 3 Umlauts)"
+            "As \"sht\"",
+            "As plain English \"st\"",
+            "As \"sk\"",
+            "Silent"
           ],
           "answerIndex": 0,
           "explanation": "Initial «sp» and «st» are pronounced with an initial \"sh\" sound ([ʃp] and [ʃt])."
@@ -527,10 +527,10 @@
         {
           "prompt": "What sound does the German Eszett «ß» represent in words like «Straße» and «groß»?",
           "options": [
-            "A sharp voiceless (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "A \"b\" sound (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "A \"z\" sound (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "A glottal stop (Master the 26 German alphabet letters plus 3 Umlauts)"
+            "A sharp voiceless",
+            "A \"b\" sound",
+            "A \"z\" sound",
+            "A glottal stop"
           ],
           "answerIndex": 0,
           "explanation": "The Eszett (ß) represents a sharp voiceless [s] following long vowels or diphthongs."
@@ -543,10 +543,10 @@
           "type": "multiple-choice",
           "prompt": "What does the German word «Wasser» mean in English?",
           "options": [
-            "water (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "street (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "time (Master the 26 German alphabet letters plus 3 Umlauts)",
-            "house (Master the 26 German alphabet letters plus 3 Umlauts)"
+            "water",
+            "street",
+            "time",
+            "house"
           ],
           "answerIndex": 0,
           "explanation": "«Wasser» means \"water\"."
@@ -558,7 +558,11 @@
             "Straße",
             "Strasse"
           ],
-          "explanation": "«Straße» = street."
+          "explanation": "«Straße» = street.",
+          "acceptableAnswers": [
+            "Straße",
+            "Strasse"
+          ]
         }
       ]
     }
@@ -613,10 +617,10 @@
         {
           "prompt": "Ich ___ müde. (I am tired.)",
           "options": [
-            "bin (Conjugate sein to be for all subject pronouns)",
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "sind (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)"
+            "bin",
+            "bist",
+            "sind",
+            "ist"
           ],
           "answerIndex": 0,
           "explanation": "ich pairs with bin."
@@ -624,10 +628,10 @@
         {
           "prompt": "Du ___ nett. (You are nice.)",
           "options": [
-            "bin (Conjugate sein to be for all subject pronouns)",
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "seid (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)"
+            "bin",
+            "bist",
+            "seid",
+            "ist"
           ],
           "answerIndex": 1,
           "explanation": "du pairs with bist."
@@ -635,10 +639,10 @@
         {
           "prompt": "Heute ___ ich müde. (Today I am tired.)",
           "options": [
-            "ich bin (Conjugate sein to be for all subject pronouns)",
-            "bin ich (Conjugate sein to be for all subject pronouns)",
-            "ich (Conjugate sein to be for all subject pronouns)",
-            "bin (Conjugate sein to be for all subject pronouns)"
+            "ich bin",
+            "bin ich",
+            "ich",
+            "bin"
           ],
           "answerIndex": 3,
           "explanation": "The conjugated verb bin must occupy position two, before ich, since Heute took position one."
@@ -646,10 +650,10 @@
         {
           "prompt": "Which pronoun is capitalized and conjugates like sie (they), but means formal 'you'?",
           "options": [
-            "du (Conjugate sein to be for all subject pronouns)",
-            "ihr (Conjugate sein to be for all subject pronouns)",
-            "Sie (Conjugate sein to be for all subject pronouns)",
-            "wir (Conjugate sein to be for all subject pronouns)"
+            "du",
+            "ihr",
+            "Sie",
+            "wir"
           ],
           "answerIndex": 2,
           "explanation": "Sie (capital) = formal you, conjugated sind exactly like sie (they)."
@@ -661,10 +665,10 @@
         {
           "prompt": "Translate: 'Today I am tired.' — keeping correct German word order",
           "options": [
-            "Heute ich bin müde. (Conjugate sein to be for all subject pronouns)",
-            "Ich heute bin müde. (Conjugate sein to be for all subject pronouns)",
-            "Heute ich müde bin. (Conjugate sein to be for all subject pronouns)",
-            "Heute bin ich müde. (Conjugate sein to be for all subject pronouns)"
+            "Heute ich bin müde.",
+            "Ich heute bin müde.",
+            "Heute ich müde bin.",
+            "Heute bin ich müde."
           ],
           "answerIndex": 3,
           "explanation": "V2 word order: bin must be the second element, so ich moves after it."
@@ -672,10 +676,10 @@
         {
           "prompt": "Why does 'Heute bin ich müde' put bin before ich, when the English translation keeps 'I am' together?",
           "options": [
-            "German requires the conjugated verb in position two of the sentence, regardless of what came first (Conjugate sein to be for all subject pronouns)",
-            "bin is not actually the verb here (Conjugate sein to be for all subject pronouns)",
-            "German has no fixed word order at all (Conjugate sein to be for all subject pronouns)",
-            "It's a mistake — German should match English order (Conjugate sein to be for all subject pronouns)"
+            "German requires the conjugated verb in position two of the sentence, regardless of what came first",
+            "bin is not actually the verb here",
+            "German has no fixed word order at all",
+            "It's a mistake — German should match English order"
           ],
           "answerIndex": 0,
           "explanation": "This is the V2 rule explained directly in the lesson."
@@ -683,10 +687,10 @@
         {
           "prompt": "Wir ___ Freunde. (We are friends.)",
           "options": [
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "sind (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)",
-            "bin (Conjugate sein to be for all subject pronouns)"
+            "bist",
+            "sind",
+            "ist",
+            "bin"
           ],
           "answerIndex": 1,
           "explanation": "wir pairs with sind."
@@ -698,10 +702,10 @@
         {
           "prompt": "Ich ___ müde.",
           "options": [
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)",
-            "sind (Conjugate sein to be for all subject pronouns)",
-            "bin (Conjugate sein to be for all subject pronouns)"
+            "bist",
+            "ist",
+            "sind",
+            "bin"
           ],
           "answerIndex": 3,
           "explanation": "ich bin.",
@@ -710,10 +714,10 @@
         {
           "prompt": "Du ___ nett.",
           "options": [
-            "bin (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)",
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "seid (Conjugate sein to be for all subject pronouns)"
+            "bin",
+            "ist",
+            "bist",
+            "seid"
           ],
           "answerIndex": 2,
           "explanation": "du bist.",
@@ -722,10 +726,10 @@
         {
           "prompt": "Er ___ mein Freund. (He is my friend.)",
           "options": [
-            "bin (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)",
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "sind (Conjugate sein to be for all subject pronouns)"
+            "bin",
+            "ist",
+            "bist",
+            "sind"
           ],
           "answerIndex": 1,
           "explanation": "er/sie/es pairs with ist.",
@@ -734,10 +738,10 @@
         {
           "prompt": "Heute ___ ich müde.",
           "options": [
-            "bin (Conjugate sein to be for all subject pronouns)",
-            "müde bin (Conjugate sein to be for all subject pronouns)",
-            "bin ich (Conjugate sein to be for all subject pronouns)",
-            "ich bin (Conjugate sein to be for all subject pronouns)"
+            "bin",
+            "müde bin",
+            "bin ich",
+            "ich bin"
           ],
           "answerIndex": 0,
           "explanation": "bin takes position two; ich follows it.",
@@ -746,10 +750,10 @@
         {
           "prompt": "Sie ___ unser Lehrer. (You [formal] are our teacher.)",
           "options": [
-            "bin (Conjugate sein to be for all subject pronouns)",
-            "ist (Conjugate sein to be for all subject pronouns)",
-            "bist (Conjugate sein to be for all subject pronouns)",
-            "sind (Conjugate sein to be for all subject pronouns)"
+            "bin",
+            "ist",
+            "bist",
+            "sind"
           ],
           "answerIndex": 3,
           "explanation": "Sie (formal you) conjugates like sie (they): sind.",
@@ -758,10 +762,10 @@
         {
           "prompt": "What is the German V2 rule?",
           "options": [
-            "The verb is always the first word (Conjugate sein to be for all subject pronouns)",
-            "There is no fixed verb position (Conjugate sein to be for all subject pronouns)",
-            "The conjugated verb must be the second grammatical element of the sentence, whatever came first (Conjugate sein to be for all subject pronouns)",
-            "Verbs are always at the end of every sentence (Conjugate sein to be for all subject pronouns)"
+            "The verb is always the first word",
+            "There is no fixed verb position",
+            "The conjugated verb must be the second grammatical element of the sentence, whatever came first",
+            "Verbs are always at the end of every sentence"
           ],
           "answerIndex": 2,
           "explanation": "This restates the core structural rule taught in the lesson.",
@@ -824,10 +828,10 @@
         {
           "prompt": "Ich ___ Anna. (My name is Anna.)",
           "options": [
-            "heißt (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)",
-            "bin heißen (Introduce yourself by name using heien and sein)",
-            "heiße (Introduce yourself by name using heien and sein)"
+            "heißt",
+            "heißen",
+            "bin heißen",
+            "heiße"
           ],
           "answerIndex": 3,
           "explanation": "ich pairs with heiße."
@@ -835,10 +839,10 @@
         {
           "prompt": "Wie ___ du? (What's your name? — informal)",
           "options": [
-            "heißt (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)",
-            "bist (Introduce yourself by name using heien and sein)",
-            "heiße (Introduce yourself by name using heien and sein)"
+            "heißt",
+            "heißen",
+            "bist",
+            "heiße"
           ],
           "answerIndex": 0,
           "explanation": "du pairs with heißt (no extra -st added onto the ß stem)."
@@ -846,10 +850,10 @@
         {
           "prompt": "Wie ___ Sie? (What's your name? — formal)",
           "options": [
-            "heißt (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)",
-            "bin (Introduce yourself by name using heien and sein)",
-            "heiße (Introduce yourself by name using heien and sein)"
+            "heißt",
+            "heißen",
+            "bin",
+            "heiße"
           ],
           "answerIndex": 1,
           "explanation": "Sie (formal) conjugates like sie (they): heißen."
@@ -858,9 +862,9 @@
           "prompt": "Why is 'du heißt' not 'du heißst'?",
           "options": [
             "The stem already ends in ß (an 's' sound)",
-            "heißen never conjugates for du (Introduce yourself by name using heien and sein)",
-            "du always drops verb endings (Introduce yourself by name using heien and sein)",
-            "It's simply irregular with no reason (Introduce yourself by name using heien and sein)"
+            "heißen never conjugates for du",
+            "du always drops verb endings",
+            "It's simply irregular with no reason"
           ],
           "answerIndex": 0,
           "explanation": "This is the phonetic/spelling reason given directly in the explanation."
@@ -872,10 +876,10 @@
         {
           "prompt": "You're meeting your new boss for the first time. How do you ask their name?",
           "options": [
-            "Wie heißt du? (Introduce yourself by name using heien and sein)",
-            "Wie heißen Sie? (Introduce yourself by name using heien and sein)",
-            "Wie heißen wir? (Introduce yourself by name using heien and sein)",
-            "Wer bist du? (Introduce yourself by name using heien and sein)"
+            "Wie heißt du?",
+            "Wie heißen Sie?",
+            "Wie heißen wir?",
+            "Wer bist du?"
           ],
           "answerIndex": 1,
           "explanation": "A boss/stranger context calls for the formal Sie."
@@ -883,10 +887,10 @@
         {
           "prompt": "What social risk comes with using du uninvited toward someone older or in a formal role?",
           "options": [
-            "None — du is always safe (Introduce yourself by name using heien and sein)",
-            "It can come across as presumptuous; in many contexts the senior/older person is expected to explicitly offer du first (Introduce yourself by name using heien and sein)",
-            "It's grammatically incorrect but socially fine (Introduce yourself by name using heien and sein)",
-            "It's only a problem in writing, never in speech (Introduce yourself by name using heien and sein)"
+            "None — du is always safe",
+            "It can come across as presumptuous; in many contexts the senior/older person is expected to explicitly offer du first",
+            "It's grammatically incorrect but socially fine",
+            "It's only a problem in writing, never in speech"
           ],
           "answerIndex": 1,
           "explanation": "This captures the specific social custom (das Du anbieten) from the cultural note."
@@ -894,10 +898,10 @@
         {
           "prompt": "Er ___ Max. (His name is Max.)",
           "options": [
-            "heißt (Introduce yourself by name using heien and sein)",
-            "heiße (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)",
-            "heißest (Introduce yourself by name using heien and sein)"
+            "heißt",
+            "heiße",
+            "heißen",
+            "heißest"
           ],
           "answerIndex": 0,
           "explanation": "er/sie/es pairs with heißt, same form as du."
@@ -909,10 +913,10 @@
         {
           "prompt": "Ich ___ Anna.",
           "options": [
-            "bin heißen (Introduce yourself by name using heien and sein)",
-            "heißt (Introduce yourself by name using heien and sein)",
-            "heiße (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)"
+            "bin heißen",
+            "heißt",
+            "heiße",
+            "heißen"
           ],
           "answerIndex": 2,
           "explanation": "ich heiße.",
@@ -921,10 +925,10 @@
         {
           "prompt": "Wie ___ du? (informal)",
           "options": [
-            "heiße (Introduce yourself by name using heien and sein)",
-            "heißt (Introduce yourself by name using heien and sein)",
-            "bist (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)"
+            "heiße",
+            "heißt",
+            "bist",
+            "heißen"
           ],
           "answerIndex": 1,
           "explanation": "du heißt.",
@@ -933,10 +937,10 @@
         {
           "prompt": "Wie ___ Sie? (formal)",
           "options": [
-            "heißen (Introduce yourself by name using heien and sein)",
-            "heißt (Introduce yourself by name using heien and sein)",
-            "bin (Introduce yourself by name using heien and sein)",
-            "heiße (Introduce yourself by name using heien and sein)"
+            "heißen",
+            "heißt",
+            "bin",
+            "heiße"
           ],
           "answerIndex": 0,
           "explanation": "Sie heißen.",
@@ -945,10 +949,10 @@
         {
           "prompt": "Er ___ Max.",
           "options": [
-            "heiße (Introduce yourself by name using heien and sein)",
-            "heißest (Introduce yourself by name using heien and sein)",
-            "heißen (Introduce yourself by name using heien and sein)",
-            "heißt (Introduce yourself by name using heien and sein)"
+            "heiße",
+            "heißest",
+            "heißen",
+            "heißt"
           ],
           "answerIndex": 3,
           "explanation": "er heißt.",
@@ -957,10 +961,10 @@
         {
           "prompt": "Why do du and er/sie/es share the identical form heißt?",
           "options": [
-            "Random coincidence (Introduce yourself by name using heien and sein)",
-            "heißen is not actually a real verb (Introduce yourself by name using heien and sein)",
-            "The ß stem already sounds like -s, so German simplifies away a redundant extra -st (Introduce yourself by name using heien and sein)",
-            "German verbs never distinguish du from er/sie/es (Introduce yourself by name using heien and sein)"
+            "Random coincidence",
+            "heißen is not actually a real verb",
+            "The ß stem already sounds like -s, so German simplifies away a redundant extra -st",
+            "German verbs never distinguish du from er/sie/es"
           ],
           "answerIndex": 2,
           "explanation": "This is the specific phonetic reasoning from the lesson.",
@@ -969,10 +973,10 @@
         {
           "prompt": "What's the safest default when meeting a stranger or someone older in a German-speaking context?",
           "options": [
-            "Use du immediately to seem friendly (Introduce yourself by name using heien and sein)",
+            "Use du immediately to seem friendly",
             "Use Sie until they (typically the older/senior person)",
-            "Avoid asking their name at all (Introduce yourself by name using heien and sein)",
-            "Use ihr regardless of how many people are present (Introduce yourself by name using heien and sein)"
+            "Avoid asking their name at all",
+            "Use ihr regardless of how many people are present"
           ],
           "answerIndex": 1,
           "explanation": "This restates the das Du anbieten custom from the cultural note.",
@@ -1034,10 +1038,10 @@
         {
           "prompt": "Ich komme ___ den USA. (I come from the USA.)",
           "options": [
-            "von (State nationality and origin with kommen aus and sein)",
-            "bei (State nationality and origin with kommen aus and sein)",
-            "zu (State nationality and origin with kommen aus and sein)",
-            "aus (State nationality and origin with kommen aus and sein)"
+            "von",
+            "bei",
+            "zu",
+            "aus"
           ],
           "answerIndex": 3,
           "explanation": "kommen aus + country/place is the standard pattern for origin."
@@ -1045,10 +1049,10 @@
         {
           "prompt": "Ich bin ___ Amerikanerin. (I'm not American.)",
           "options": [
-            "nicht (State nationality and origin with kommen aus and sein)",
-            "keine (State nationality and origin with kommen aus and sein)",
-            "nichts (State nationality and origin with kommen aus and sein)",
-            "kein (State nationality and origin with kommen aus and sein)"
+            "nicht",
+            "keine",
+            "nichts",
+            "kein"
           ],
           "answerIndex": 1,
           "explanation": "Amerikanerin would take eine (indefinite, feminine), so its negation is keine."
@@ -1056,10 +1060,10 @@
         {
           "prompt": "Das ist ___ mein Auto. (That is not my car.)",
           "options": [
-            "kein (State nationality and origin with kommen aus and sein)",
-            "keinen (State nationality and origin with kommen aus and sein)",
-            "keine (State nationality and origin with kommen aus and sein)",
-            "nicht (State nationality and origin with kommen aus and sein)"
+            "kein",
+            "keinen",
+            "keine",
+            "nicht"
           ],
           "answerIndex": 3,
           "explanation": "mein Auto already has a possessive, not an indefinite article, so nicht is correct."
@@ -1067,10 +1071,10 @@
         {
           "prompt": "What's the quick test for choosing kein over nicht?",
           "options": [
-            "kein is always used with verbs (State nationality and origin with kommen aus and sein)",
-            "There is no reliable test (State nationality and origin with kommen aus and sein)",
-            "Ask if 'ein/eine' (State nationality and origin with kommen aus and sein)",
-            "nicht is only used in questions (State nationality and origin with kommen aus and sein)"
+            "kein is always used with verbs",
+            "There is no reliable test",
+            "Ask if 'ein/eine'",
+            "nicht is only used in questions"
           ],
           "answerIndex": 2,
           "explanation": "This is the exact heuristic given in the mnemonic and explanation."
@@ -1082,10 +1086,10 @@
         {
           "prompt": "Translate: 'I don't have time.' (Zeit is a noun with no article here)",
           "options": [
-            "Ich habe nicht Zeit. (State nationality and origin with kommen aus and sein)",
-            "Ich habe keine Zeit. (State nationality and origin with kommen aus and sein)",
-            "Ich habe kein Zeit. (State nationality and origin with kommen aus and sein)",
-            "Ich bin keine Zeit. (State nationality and origin with kommen aus and sein)"
+            "Ich habe nicht Zeit.",
+            "Ich habe keine Zeit.",
+            "Ich habe kein Zeit.",
+            "Ich bin keine Zeit."
           ],
           "answerIndex": 1,
           "explanation": "Zeit is feminine and indefinite/article-less here, so keine (feminine kein) is correct."
@@ -1093,10 +1097,10 @@
         {
           "prompt": "Why is 'Das ist kein mein Auto' wrong?",
           "options": [
-            "kein can never be used with Auto (State nationality and origin with kommen aus and sein)",
+            "kein can never be used with Auto",
             "mein Auto already has a possessive (mein)",
-            "It's actually correct (State nationality and origin with kommen aus and sein)",
-            "Auto is not a real German word (State nationality and origin with kommen aus and sein)"
+            "It's actually correct",
+            "Auto is not a real German word"
           ],
           "answerIndex": 1,
           "explanation": "kein only substitutes for ein/eine; a possessive already occupies that slot, so nicht is needed instead."
@@ -1104,10 +1108,10 @@
         {
           "prompt": "Ich bin ___ müde. (I'm not tired.)",
           "options": [
-            "kein (State nationality and origin with kommen aus and sein)",
-            "keine (State nationality and origin with kommen aus and sein)",
-            "keinen (State nationality and origin with kommen aus and sein)",
-            "nicht (State nationality and origin with kommen aus and sein)"
+            "kein",
+            "keine",
+            "keinen",
+            "nicht"
           ],
           "answerIndex": 3,
           "explanation": "müde is an adjective, not a noun, so it takes nicht."
@@ -1119,10 +1123,10 @@
         {
           "prompt": "Ich komme ___ den USA.",
           "options": [
-            "von (State nationality and origin with kommen aus and sein)",
-            "aus (State nationality and origin with kommen aus and sein)",
-            "bei (State nationality and origin with kommen aus and sein)",
-            "zu (State nationality and origin with kommen aus and sein)"
+            "von",
+            "aus",
+            "bei",
+            "zu"
           ],
           "answerIndex": 1,
           "explanation": "kommen aus + place.",
@@ -1131,10 +1135,10 @@
         {
           "prompt": "Ich bin ___ Amerikanerin.",
           "options": [
-            "keine (State nationality and origin with kommen aus and sein)",
-            "kein (State nationality and origin with kommen aus and sein)",
-            "nicht (State nationality and origin with kommen aus and sein)",
-            "nichts (State nationality and origin with kommen aus and sein)"
+            "keine",
+            "kein",
+            "nicht",
+            "nichts"
           ],
           "answerIndex": 0,
           "explanation": "keine replaces eine before the indefinite feminine noun.",
@@ -1143,10 +1147,10 @@
         {
           "prompt": "Das ist ___ mein Auto.",
           "options": [
-            "kein (State nationality and origin with kommen aus and sein)",
-            "keine (State nationality and origin with kommen aus and sein)",
-            "keinen (State nationality and origin with kommen aus and sein)",
-            "nicht (State nationality and origin with kommen aus and sein)"
+            "kein",
+            "keine",
+            "keinen",
+            "nicht"
           ],
           "answerIndex": 3,
           "explanation": "A possessive already precedes Auto, so nicht is required.",
@@ -1155,10 +1159,10 @@
         {
           "prompt": "Ich bin ___ müde.",
           "options": [
-            "keine (State nationality and origin with kommen aus and sein)",
-            "kein (State nationality and origin with kommen aus and sein)",
-            "nicht (State nationality and origin with kommen aus and sein)",
-            "keinen (State nationality and origin with kommen aus and sein)"
+            "keine",
+            "kein",
+            "nicht",
+            "keinen"
           ],
           "answerIndex": 2,
           "explanation": "müde is an adjective, negated with nicht.",
@@ -1167,10 +1171,10 @@
         {
           "prompt": "Ich habe ___ Zeit. (I don't have time.)",
           "options": [
-            "kein (State nationality and origin with kommen aus and sein)",
-            "keine (State nationality and origin with kommen aus and sein)",
-            "nicht (State nationality and origin with kommen aus and sein)",
-            "keinen (State nationality and origin with kommen aus and sein)"
+            "kein",
+            "keine",
+            "nicht",
+            "keinen"
           ],
           "answerIndex": 1,
           "explanation": "Zeit is feminine and article-less/indefinite, so keine is correct.",
@@ -1180,9 +1184,9 @@
           "prompt": "What determines whether you use kein or nicht?",
           "options": [
             "Whether the negated word is a noun that could take ein/eine (use kein)",
-            "kein is formal, nicht is informal (State nationality and origin with kommen aus and sein)",
-            "They are fully interchangeable (State nationality and origin with kommen aus and sein)",
-            "Whether the sentence is a question (State nationality and origin with kommen aus and sein)"
+            "kein is formal, nicht is informal",
+            "They are fully interchangeable",
+            "Whether the sentence is a question"
           ],
           "answerIndex": 0,
           "explanation": "This restates the core negation rule taught in the lesson.",
@@ -1247,10 +1251,10 @@
         {
           "prompt": "Guten Tag! Ich ___ Frau Weber. (My name is Mrs. Weber.)",
           "options": [
-            "heiße (Combine greetings)",
-            "heißt (Combine greetings)",
-            "heißen (Combine greetings)",
-            "bin heißen (Combine greetings)"
+            "heiße",
+            "heißt",
+            "heißen",
+            "bin heißen"
           ],
           "answerIndex": 0,
           "explanation": "ich heiße, from Lesson 3."
@@ -1258,10 +1262,10 @@
         {
           "prompt": "Wie ___ Sie? (formal: What's your name?)",
           "options": [
-            "heiße (Combine greetings)",
-            "heißt (Combine greetings)",
-            "heißen (Combine greetings)",
-            "sind (Combine greetings)"
+            "heiße",
+            "heißt",
+            "heißen",
+            "sind"
           ],
           "answerIndex": 2,
           "explanation": "Sie pairs with heißen, matching the formal register set at the start."
@@ -1269,10 +1273,10 @@
         {
           "prompt": "Ich bin ___ Deutscher, aber ich wohne in Berlin. (I'm not German, but...)",
           "options": [
-            "kein (Combine greetings)",
-            "nicht (Combine greetings)",
-            "keine (Combine greetings)",
-            "keinen (Combine greetings)"
+            "kein",
+            "nicht",
+            "keine",
+            "keinen"
           ],
           "answerIndex": 0,
           "explanation": "Deutscher is an indefinite noun (ein Deutscher), so kein is correct."
@@ -1280,10 +1284,10 @@
         {
           "prompt": "What four Unit 1 elements does this capstone combine?",
           "options": [
-            "Time-appropriate greetings, sein/V2 order, self-introduction with formality choice, and kein/nicht negation (Combine greetings)",
-            "Only negation (Combine greetings)",
-            "Only greetings (Combine greetings)",
-            "Only nationality vocabulary (Combine greetings)"
+            "Time-appropriate greetings, sein/V2 order, self-introduction with formality choice, and kein/nicht negation",
+            "Only negation",
+            "Only greetings",
+            "Only nationality vocabulary"
           ],
           "answerIndex": 0,
           "explanation": "This is the explicit combination the capstone dialogue is built around."
@@ -1295,10 +1299,10 @@
         {
           "prompt": "Translate: 'I'm not German, but I live in Berlin now.'",
           "options": [
-            "Ich bin kein Deutscher, aber ich wohne jetzt in Berlin. (Combine greetings)",
-            "Ich bin kein Deutsch, aber ich wohne jetzt in Berlin. (Combine greetings)",
-            "Ich habe kein Deutscher, aber ich wohne jetzt in Berlin. (Combine greetings)",
-            "Ich bin nicht Deutscher, aber ich wohne jetzt in Berlin. (Combine greetings)"
+            "Ich bin kein Deutscher, aber ich wohne jetzt in Berlin.",
+            "Ich bin kein Deutsch, aber ich wohne jetzt in Berlin.",
+            "Ich habe kein Deutscher, aber ich wohne jetzt in Berlin.",
+            "Ich bin nicht Deutscher, aber ich wohne jetzt in Berlin."
           ],
           "answerIndex": 0,
           "explanation": "Deutscher is a noun that would take ein, so kein negates it correctly; bin (sein) is the right verb."
@@ -1306,10 +1310,10 @@
         {
           "prompt": "Why must the entire exchange stay in Sie once Frau Weber opens with 'Wie heißen Sie?'",
           "options": [
-            "It doesn't need to — du and Sie can mix freely (Combine greetings)",
-            "Sie is only used once per conversation (Combine greetings)",
-            "Herr Kim outranks Frau Weber so he can switch to du (Combine greetings)",
-            "Switching formality mid-conversation with the same person is a real social misstep in German, not just a style choice (Combine greetings)"
+            "It doesn't need to — du and Sie can mix freely",
+            "Sie is only used once per conversation",
+            "Herr Kim outranks Frau Weber so he can switch to du",
+            "Switching formality mid-conversation with the same person is a real social misstep in German, not just a style choice"
           ],
           "answerIndex": 3,
           "explanation": "This is the formality-consistency point made explicit in the lesson."
@@ -1317,10 +1321,10 @@
         {
           "prompt": "What is the overall skill this capstone dialogue tests?",
           "options": [
-            "Isolated vocabulary recall only (Combine greetings)",
-            "Only using kein (Combine greetings)",
-            "Producing a connected, natural first-meeting exchange that correctly combines greetings, sein/V2 order, self-introduction, and kein/nicht negation at a consistent formality level (Combine greetings)",
-            "Only conjugating sein (Combine greetings)"
+            "Isolated vocabulary recall only",
+            "Only using kein",
+            "Producing a connected, natural first-meeting exchange that correctly combines greetings, sein/V2 order, self-introduction, and kein/nicht negation at a consistent formality level",
+            "Only conjugating sein"
           ],
           "answerIndex": 2,
           "explanation": "This is the explicit goal stated in the lesson explanation."
@@ -1332,10 +1336,10 @@
         {
           "prompt": "Guten Tag! Ich ___ Frau Weber.",
           "options": [
-            "heiße (Combine greetings)",
-            "heißen (Combine greetings)",
-            "bin heißen (Combine greetings)",
-            "heißt (Combine greetings)"
+            "heiße",
+            "heißen",
+            "bin heißen",
+            "heißt"
           ],
           "answerIndex": 0,
           "explanation": "ich heiße.",
@@ -1344,10 +1348,10 @@
         {
           "prompt": "Wie ___ Sie?",
           "options": [
-            "heißt (Combine greetings)",
-            "heiße (Combine greetings)",
-            "sind (Combine greetings)",
-            "heißen (Combine greetings)"
+            "heißt",
+            "heiße",
+            "sind",
+            "heißen"
           ],
           "answerIndex": 3,
           "explanation": "Sie pairs with heißen.",
@@ -1356,10 +1360,10 @@
         {
           "prompt": "Ich bin ___ Deutscher, aber ich wohne in Berlin.",
           "options": [
-            "keinen (Combine greetings)",
-            "keine (Combine greetings)",
-            "kein (Combine greetings)",
-            "nicht (Combine greetings)"
+            "keinen",
+            "keine",
+            "kein",
+            "nicht"
           ],
           "answerIndex": 2,
           "explanation": "kein negates the indefinite noun Deutscher.",
@@ -1368,10 +1372,10 @@
         {
           "prompt": "Ich komme ___ Südkorea. (I come from South Korea.)",
           "options": [
-            "bei (Combine greetings)",
-            "aus (Combine greetings)",
-            "zu (Combine greetings)",
-            "von (Combine greetings)"
+            "bei",
+            "aus",
+            "zu",
+            "von"
           ],
           "answerIndex": 1,
           "explanation": "kommen aus + country.",
@@ -1380,10 +1384,10 @@
         {
           "prompt": "Schön, Sie ___. (Nice to meet you — formal)",
           "options": [
-            "kennenzulernen (Combine greetings)",
-            "bin (Combine greetings)",
-            "kennen du (Combine greetings)",
-            "heißen (Combine greetings)"
+            "kennenzulernen",
+            "bin",
+            "kennen du",
+            "heißen"
           ],
           "answerIndex": 0,
           "explanation": "Schön, Sie kennenzulernen is the standard formal closing phrase.",
@@ -1392,10 +1396,10 @@
         {
           "prompt": "What is the overall skill this capstone dialogue tests?",
           "options": [
-            "Isolated vocabulary recall only (Combine greetings)",
-            "Only telling time (Combine greetings)",
-            "Only regional dialect words (Combine greetings)",
-            "A connected first-meeting exchange combining greetings, sein/V2 order, self-introduction, and kein/nicht negation at a consistent formality level (Combine greetings)"
+            "Isolated vocabulary recall only",
+            "Only telling time",
+            "Only regional dialect words",
+            "A connected first-meeting exchange combining greetings, sein/V2 order, self-introduction, and kein/nicht negation at a consistent formality level"
           ],
           "answerIndex": 3,
           "explanation": "This is the explicit goal stated in the lesson explanation.",
@@ -1656,7 +1660,7 @@
             "vierundzwanzig (Can count from 21 to 100 in German)",
             "zwanzigundvier (Can count from 21 to 100 in German)",
             "zwanzigvier (Can count from 21 to 100 in German)",
-            "vierundzwanzig (Distractor variant)"
+            "vierundzwanzig"
           ],
           "answerIndex": 0,
           "explanation": "German puts the unit first: vier (4) + und (and) + zwanzig (20) = vierundzwanzig."
@@ -1814,10 +1818,10 @@
         {
           "prompt": "What time is 'halb fünf' in German?",
           "options": [
-            "5:30 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "5:15 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "4:15 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "4:30 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "5:30",
+            "5:15",
+            "4:15",
+            "4:30"
           ],
           "answerIndex": 3,
           "explanation": "'halb fünf' means half-way towards 5:00 = 4:30."
@@ -1825,10 +1829,10 @@
         {
           "prompt": "How do you say 6:15 in conversational German?",
           "options": [
-            "Viertel vor sechs (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "halb sechs (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "sechs Uhr Viertel (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Viertel nach sechs (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "Viertel vor sechs",
+            "halb sechs",
+            "sechs Uhr Viertel",
+            "Viertel nach sechs"
           ],
           "answerIndex": 3,
           "explanation": "15 minutes past 6 is 'Viertel nach sechs'."
@@ -1836,10 +1840,10 @@
         {
           "prompt": "Which preposition is used for specific clock times in German?",
           "options": [
-            "am (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "im (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "an (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "um (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "am",
+            "im",
+            "an",
+            "um"
           ],
           "answerIndex": 3,
           "explanation": "Clock times strictly take 'um'."
@@ -1851,10 +1855,10 @@
         {
           "prompt": "Translate: 'The lesson starts at 9:30 AM.'",
           "options": [
-            "Der Unterricht beginnt um halb zehn morgens. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Der Unterricht beginnt um halb neun morgens. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Der Unterricht beginnt am halb zehn morgens. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Der Unterricht beginnt im halb zehn. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "Der Unterricht beginnt um halb zehn morgens.",
+            "Der Unterricht beginnt um halb neun morgens.",
+            "Der Unterricht beginnt am halb zehn morgens.",
+            "Der Unterricht beginnt im halb zehn."
           ],
           "answerIndex": 0,
           "explanation": "9:30 is 'halb zehn' (half-way to ten) + preposition 'um'."
@@ -1862,10 +1866,10 @@
         {
           "prompt": "How do you ask 'What time is it?' most naturally in German?",
           "options": [
-            "Wie spät ist es? (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Was ist die Zeit? (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Wo ist die Uhr? (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Wie viele Stunden? (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "Wie spät ist es?",
+            "Was ist die Zeit?",
+            "Wo ist die Uhr?",
+            "Wie viele Stunden?"
           ],
           "answerIndex": 0,
           "explanation": "'Wie spät ist es?' is the standard German question."
@@ -1877,10 +1881,10 @@
         {
           "prompt": "Wie spät ist es? (2:30)",
           "options": [
-            "Es ist drei Uhr halb. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Es ist halb drei. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Es ist halb zwei. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Es ist zwei und halb. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "Es ist drei Uhr halb.",
+            "Es ist halb drei.",
+            "Es ist halb zwei.",
+            "Es ist zwei und halb."
           ],
           "answerIndex": 1,
           "explanation": "2:30 is 'halb drei' (half-way to 3).",
@@ -1889,10 +1893,10 @@
         {
           "prompt": "Wie spät ist es? (7:45)",
           "options": [
-            "Es ist Viertel vor acht. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Es ist Viertel nach sieben. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Es ist halb acht. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Es ist Viertel vor sieben. (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "Es ist Viertel vor acht.",
+            "Es ist Viertel nach sieben.",
+            "Es ist halb acht.",
+            "Es ist Viertel vor sieben."
           ],
           "answerIndex": 0,
           "explanation": "7:45 is 'Viertel vor acht' (quarter to eight).",
@@ -1901,10 +1905,10 @@
         {
           "prompt": "Ergänzen Sie: 'Das Meeting beginnt ___ 14 Uhr.'",
           "options": [
-            "im (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "am (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "an (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "um (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "im",
+            "am",
+            "an",
+            "um"
           ],
           "answerIndex": 3,
           "explanation": "Clock time takes 'um'.",
@@ -1913,10 +1917,10 @@
         {
           "prompt": "'Es ist zehn nach acht.' Wie viel Uhr ist es?",
           "options": [
-            "8:15 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "8:50 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "8:10 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "7:50 (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "8:15",
+            "8:50",
+            "8:10",
+            "7:50"
           ],
           "answerIndex": 2,
           "explanation": "10 past 8 = 8:10.",
@@ -1925,10 +1929,10 @@
         {
           "prompt": "Was bedeutet 'Pünktlichkeit' in der deutschsprachigen Kultur?",
           "options": [
-            "Speaking quietly (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Punctuality and arriving on time (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Drinking coffee (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)",
-            "Working late (Can ask and tell time in German using Wie spt ist es  Wie viel Uhr ist es)"
+            "Speaking quietly",
+            "Punctuality and arriving on time",
+            "Drinking coffee",
+            "Working late"
           ],
           "answerIndex": 1,
           "explanation": "Pünktlichkeit is the cultural value of punctuality.",
@@ -1976,10 +1980,10 @@
         {
           "prompt": "Which preposition is used with days of the week (e.g. on Friday)?",
           "options": [
-            "am (Can state all days of the week and months of the year in German)",
-            "im (Can state all days of the week and months of the year in German)",
-            "an (Can state all days of the week and months of the year in German)",
-            "um (Can state all days of the week and months of the year in German)"
+            "am",
+            "im",
+            "an",
+            "um"
           ],
           "answerIndex": 0,
           "explanation": "Days of the week take 'am' (contraction of an + dem): 'am Freitag'."
@@ -1987,10 +1991,10 @@
         {
           "prompt": "Which day of the week in German does NOT end with '-tag'?",
           "options": [
-            "Mittwoch (Can state all days of the week and months of the year in German)",
-            "Dienstag (Can state all days of the week and months of the year in German)",
-            "Donnerstag (Can state all days of the week and months of the year in German)",
-            "Montag (Can state all days of the week and months of the year in German)"
+            "Mittwoch",
+            "Dienstag",
+            "Donnerstag",
+            "Montag"
           ],
           "answerIndex": 0,
           "explanation": "Mittwoch (Mitte der Woche) is the only German weekday without '-tag'."
@@ -1998,10 +2002,10 @@
         {
           "prompt": "Which preposition is used with months (e.g. in October)?",
           "options": [
-            "im (Can state all days of the week and months of the year in German)",
-            "bei (Can state all days of the week and months of the year in German)",
-            "am (Can state all days of the week and months of the year in German)",
-            "um (Can state all days of the week and months of the year in German)"
+            "im",
+            "bei",
+            "am",
+            "um"
           ],
           "answerIndex": 0,
           "explanation": "Months take 'im' (in + dem): 'im Oktober'."
@@ -2013,10 +2017,10 @@
         {
           "prompt": "Translate: 'On Saturday we are going to the cinema.'",
           "options": [
-            "Am Samstag gehen wir ins Kino. (Can state all days of the week and months of the year in German)",
-            "Im Samstag gehen wir ins Kino. (Can state all days of the week and months of the year in German)",
-            "An Samstag gehen wir ins Kino. (Can state all days of the week and months of the year in German)",
-            "Um Samstag gehen wir ins Kino. (Can state all days of the week and months of the year in German)"
+            "Am Samstag gehen wir ins Kino.",
+            "Im Samstag gehen wir ins Kino.",
+            "An Samstag gehen wir ins Kino.",
+            "Um Samstag gehen wir ins Kino."
           ],
           "answerIndex": 0,
           "explanation": "'Am Samstag' (on Saturday) with preposition 'am'."
@@ -2024,10 +2028,10 @@
         {
           "prompt": "Select the correct sequence of days from Tuesday to Thursday:",
           "options": [
-            "Dienstag, Mittwoch, Donnerstag (Can state all days of the week and months of the year in German)",
-            "Montag, Dienstag, Mittwoch (Can state all days of the week and months of the year in German)",
-            "Donnerstag, Freitag, Samstag (Can state all days of the week and months of the year in German)",
-            "Mittwoch, Donnerstag, Freitag (Can state all days of the week and months of the year in German)"
+            "Dienstag, Mittwoch, Donnerstag",
+            "Montag, Dienstag, Mittwoch",
+            "Donnerstag, Freitag, Samstag",
+            "Mittwoch, Donnerstag, Freitag"
           ],
           "answerIndex": 0,
           "explanation": "Tuesday (Dienstag), Wednesday (Mittwoch), Thursday (Donnerstag)."
@@ -2039,10 +2043,10 @@
         {
           "prompt": "Heute ist Donnerstag. Morgen ist:",
           "options": [
-            "Freitag (Can state all days of the week and months of the year in German)",
-            "Samstag (Can state all days of the week and months of the year in German)",
-            "Mittwoch (Can state all days of the week and months of the year in German)",
-            "Dienstag (Can state all days of the week and months of the year in German)"
+            "Freitag",
+            "Samstag",
+            "Mittwoch",
+            "Dienstag"
           ],
           "answerIndex": 0,
           "explanation": "The day after Thursday is Friday (Freitag).",
@@ -2051,10 +2055,10 @@
         {
           "prompt": "Ergänzen Sie: 'Die Prüfung ist ___ Freitag ___ neun Uhr.'",
           "options": [
-            "am / im (Can state all days of the week and months of the year in German)",
-            "im / um (Can state all days of the week and months of the year in German)",
-            "um / am (Can state all days of the week and months of the year in German)",
-            "am / um (Can state all days of the week and months of the year in German)"
+            "am / im",
+            "im / um",
+            "um / am",
+            "am / um"
           ],
           "answerIndex": 3,
           "explanation": "AM for days (am Freitag), UM for clock time (um neun Uhr).",
@@ -2063,10 +2067,10 @@
         {
           "prompt": "Ergänzen Sie: 'Der Urlaub beginnt ___ Juli.'",
           "options": [
-            "um (Can state all days of the week and months of the year in German)",
-            "am (Can state all days of the week and months of the year in German)",
-            "im (Can state all days of the week and months of the year in German)",
-            "in (Can state all days of the week and months of the year in German)"
+            "um",
+            "am",
+            "im",
+            "in"
           ],
           "answerIndex": 2,
           "explanation": "Months take 'im' (im Juli).",
@@ -2075,10 +2079,10 @@
         {
           "prompt": "Werden Wochentage und Monate im Deutschen großgeschrieben?",
           "options": [
-            "Nein, nie (Can state all days of the week and months of the year in German)",
-            "Ja, immer (Can state all days of the week and months of the year in German)",
-            "Nur Monate (Can state all days of the week and months of the year in German)",
-            "Nur Wochentage (Can state all days of the week and months of the year in German)"
+            "Nein, nie",
+            "Ja, immer",
+            "Nur Monate",
+            "Nur Wochentage"
           ],
           "answerIndex": 1,
           "explanation": "In German, all nouns, including days and months, are always capitalized.",
@@ -2087,10 +2091,10 @@
         {
           "prompt": "Was feiert Deutschland am 3. Oktober?",
           "options": [
-            "Tag der Deutschen Einheit (Can state all days of the week and months of the year in German)",
-            "Tag der Arbeit (Can state all days of the week and months of the year in German)",
-            "Neujahr (Can state all days of the week and months of the year in German)",
-            "Weihnachten (Can state all days of the week and months of the year in German)"
+            "Tag der Deutschen Einheit",
+            "Tag der Arbeit",
+            "Neujahr",
+            "Weihnachten"
           ],
           "answerIndex": 0,
           "explanation": "October 3rd is German Unity Day.",
@@ -2139,10 +2143,10 @@
         {
           "prompt": "How does Lukas state the ticket price (€45) correctly in German?",
           "options": [
-            "fünfundvierzig Euro (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "vierzigfünf Euro (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "fünfzehnvierzig Euro (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "fünfundvierzig Euros (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "fünfundvierzig Euro",
+            "vierzigfünf Euro",
+            "fünfzehnvierzig Euro",
+            "fünfundvierzig Euros"
           ],
           "answerIndex": 0,
           "explanation": "45 is 'fünfundvierzig' (unit first) + 'Euro' (singular currency form)."
@@ -2150,10 +2154,10 @@
         {
           "prompt": "What does the word 'Abgemacht!' mean when planning to meet?",
           "options": [
-            "Agreed! / It's a deal! / Settled! (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "I cannot make it (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Maybe next week (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "I forgot (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "Agreed! / It's a deal! / Settled!",
+            "I cannot make it",
+            "Maybe next week",
+            "I forgot"
           ],
           "answerIndex": 0,
           "explanation": "'Abgemacht!' confirms a deal or arrangement."
@@ -2161,10 +2165,10 @@
         {
           "prompt": "How do you say: 'The concert is on Friday at 7:30 PM and costs 30 Euros'?",
           "options": [
-            "Das Konzert ist am Freitag um halb acht abends und kostet dreißig Euro. (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Das Konzert ist im Freitag am halb acht und kostet dreißig Euro. (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Das Konzert ist um Freitag im halb acht und kostet dreißig Euro. (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Das Konzert ist am Freitag um halb sieben und kostet dreißig Euro. (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "Das Konzert ist am Freitag um halb acht abends und kostet dreißig Euro.",
+            "Das Konzert ist im Freitag am halb acht und kostet dreißig Euro.",
+            "Das Konzert ist um Freitag im halb acht und kostet dreißig Euro.",
+            "Das Konzert ist am Freitag um halb sieben und kostet dreißig Euro."
           ],
           "answerIndex": 0,
           "explanation": "'am Freitag' (day) + 'um halb acht' (7:30 PM) + 'dreißig Euro'."
@@ -2176,10 +2180,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:00 PM?'",
           "options": [
-            "Hast du am Dienstag um vier Uhr nachmittags Zeit? (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Hast du am Dienstag am vier Uhr Zeit? (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Hast du um Dienstag im vier Uhr Zeit? (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Hast du im Dienstag um vier Uhr Zeit? (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "Hast du am Dienstag um vier Uhr nachmittags Zeit?",
+            "Hast du am Dienstag am vier Uhr Zeit?",
+            "Hast du um Dienstag im vier Uhr Zeit?",
+            "Hast du im Dienstag um vier Uhr Zeit?"
           ],
           "answerIndex": 0,
           "explanation": "'am Dienstag' + 'um vier Uhr nachmittags'."
@@ -2187,10 +2191,10 @@
         {
           "prompt": "How is the phone number 0172 34 58 read naturally in German?",
           "options": [
-            "null-eins-sieben-zwei, vierunddreißig, achtundfünfzig (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "null siebzehn zwei vierunddreißig (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "einhundertzweiundsiebzig vierunddreißig (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "null eins sieben zwei drei vier fünf acht (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "null-eins-sieben-zwei, vierunddreißig, achtundfünfzig",
+            "null siebzehn zwei vierunddreißig",
+            "einhundertzweiundsiebzig vierunddreißig",
+            "null eins sieben zwei drei vier fünf acht"
           ],
           "answerIndex": 0,
           "explanation": "Standard German phone dictation groups the prefix and 2-digit pairs."
@@ -2202,10 +2206,10 @@
         {
           "prompt": "Ergänzen Sie: 'Hast du ___ Freitag ___ sieben Uhr Zeit?'",
           "options": [
-            "im / um (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "um / am (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "am / im (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "am / um (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "im / um",
+            "um / am",
+            "am / im",
+            "am / um"
           ],
           "answerIndex": 3,
           "explanation": "AM for days (am Freitag), UM for clock time (um sieben Uhr).",
@@ -2214,10 +2218,10 @@
         {
           "prompt": "Das Ticket kostet 55 €. Wie liest man 55 auf Deutsch?",
           "options": [
-            "fünfzigfünf (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "fünfzehnfünf (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "fünfundfünfzig (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "fünfundfünf (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "fünfzigfünf",
+            "fünfzehnfünf",
+            "fünfundfünfzig",
+            "fünfundfünf"
           ],
           "answerIndex": 2,
           "explanation": "55 is 'fünfundfünfzig'.",
@@ -2226,10 +2230,10 @@
         {
           "prompt": "'Wir treffen uns am Freitag um halb acht!' — Wie bestätigt man natürlich?",
           "options": [
-            "Ich weiß nicht. (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Abgemacht! Bis Freitag! (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Wie heißen Sie? (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Entschuldigung. (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "Ich weiß nicht.",
+            "Abgemacht! Bis Freitag!",
+            "Wie heißen Sie?",
+            "Entschuldigung."
           ],
           "answerIndex": 1,
           "explanation": "'Abgemacht! Bis Freitag!' is the natural confirmation.",
@@ -2238,10 +2242,10 @@
         {
           "prompt": "Welches Wort drückt im Deutschen begeisterte Zustimmung aus ('Deal / It's a plan')?",
           "options": [
-            "Abgemacht! / Einverstanden! (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Leider nicht! (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Schade! (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Niemals! (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "Abgemacht! / Einverstanden!",
+            "Leider nicht!",
+            "Schade!",
+            "Niemals!"
           ],
           "answerIndex": 0,
           "explanation": "'Abgemacht!' or 'Einverstanden!' confirms agreement.",
@@ -2250,10 +2254,10 @@
         {
           "prompt": "Was ist das Hauptziel dieser integrativen Lektion?",
           "options": [
-            "Nur das Alphabet zu lernen (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Nur bis 10 zu zählen (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Nur Essen zu bestellen (Can participate in a multiturn German dialogue scheduling a meetup)",
-            "Begrüßung, Tage, Uhrzeiten, Zahlen, Preise und Verabredungen fließend zu kombinieren (Can participate in a multiturn German dialogue scheduling a meetup)"
+            "Nur das Alphabet zu lernen",
+            "Nur bis 10 zu zählen",
+            "Nur Essen zu bestellen",
+            "Begrüßung, Tage, Uhrzeiten, Zahlen, Preise und Verabredungen fließend zu kombinieren"
           ],
           "answerIndex": 3,
           "explanation": "Capstone integrates greetings, days, times, numbers, prices, and conversational scheduling.",
@@ -2300,10 +2304,10 @@
         {
           "prompt": "Which collective German noun means 'siblings' (brothers and sisters)?",
           "options": [
-            "die Eltern (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Kinder (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Brüder (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Geschwister (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "die Eltern",
+            "die Kinder",
+            "die Brüder",
+            "die Geschwister"
           ],
           "answerIndex": 3,
           "explanation": "'die Geschwister' is the plural collective noun for siblings."
@@ -2311,10 +2315,10 @@
         {
           "prompt": "What is the grammatical gender and article of 'Kind' (child)?",
           "options": [
-            "den Kind (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Kind (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "das Kind (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "der Kind (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "den Kind",
+            "die Kind",
+            "das Kind",
+            "der Kind"
           ],
           "answerIndex": 2,
           "explanation": "Kind is neuter: das Kind."
@@ -2322,10 +2326,10 @@
         {
           "prompt": "Which rule applies to all German family nouns?",
           "options": [
-            "Nouns do not have genders (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Every noun must begin with a capital letter (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Nouns only exist in the singular (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Nouns are written in all lowercase (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "Nouns do not have genders",
+            "Every noun must begin with a capital letter",
+            "Nouns only exist in the singular",
+            "Nouns are written in all lowercase"
           ],
           "answerIndex": 1,
           "explanation": "All German nouns are strictly capitalized."
@@ -2337,10 +2341,10 @@
         {
           "prompt": "Translate: 'I have one brother and one sister.'",
           "options": [
-            "Ich habe ein Bruder und ein Schwester. (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Ich bin ein Bruder und eine Schwester. (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Ich habe der Bruder und die Schwester. (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Ich habe einen Bruder und eine Schwester. (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "Ich habe ein Bruder und ein Schwester.",
+            "Ich bin ein Bruder und eine Schwester.",
+            "Ich habe der Bruder und die Schwester.",
+            "Ich habe einen Bruder und eine Schwester."
           ],
           "answerIndex": 3,
           "explanation": "Ich habe einen Bruder (masc acc) und eine Schwester (fem acc)."
@@ -2348,10 +2352,10 @@
         {
           "prompt": "What is the plural of 'die Tochter' (daughter)?",
           "options": [
-            "die Tochte (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Töchtern (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Töchter (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Tochtern (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "die Tochte",
+            "die Töchtern",
+            "die Töchter",
+            "die Tochtern"
           ],
           "answerIndex": 2,
           "explanation": "die Tochter -> die Töchter."
@@ -2363,10 +2367,10 @@
         {
           "prompt": "Wie heißt 'parents' auf Deutsch?",
           "options": [
-            "die Geschwister (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Kinder (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Eltern (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Großeltern (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "die Geschwister",
+            "die Kinder",
+            "die Eltern",
+            "die Großeltern"
           ],
           "answerIndex": 2,
           "explanation": "die Eltern = parents.",
@@ -2375,10 +2379,10 @@
         {
           "prompt": "Welcher Artikel gehört zu 'Sohn'?",
           "options": [
-            "den (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "der (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "das (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "den",
+            "der",
+            "das",
+            "die"
           ],
           "answerIndex": 1,
           "explanation": "der Sohn is masculine.",
@@ -2387,10 +2391,10 @@
         {
           "prompt": "Was bedeutet 'die Geschwister'?",
           "options": [
-            "Siblings (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Cousins (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Children (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Grandparents (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "Siblings",
+            "Cousins",
+            "Children",
+            "Grandparents"
           ],
           "answerIndex": 0,
           "explanation": "Geschwister = siblings.",
@@ -2399,10 +2403,10 @@
         {
           "prompt": "Welcher Plural ist KORREKT für 'der Bruder'?",
           "options": [
-            "die Brudern (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Bruders (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Brüdere (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "die Brüder (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "die Brudern",
+            "die Bruders",
+            "die Brüdere",
+            "die Brüder"
           ],
           "answerIndex": 3,
           "explanation": "die Brüder.",
@@ -2411,10 +2415,10 @@
         {
           "prompt": "Warum schreibt man 'Vater' und 'Mutter' im Deutschen immer groß?",
           "options": [
-            "Nur aus Höflichkeit (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
-            "Das ist ein moderner Internet-Trend (Identify immediate family members in German with their mandatory grammatical genders der Vater)",
+            "Nur aus Höflichkeit",
+            "Das ist ein moderner Internet-Trend",
             "Weil im Deutschen ALLE Substantive (Nomen)",
-            "Nur wenn sie am Satzanfang stehen (Identify immediate family members in German with their mandatory grammatical genders der Vater)"
+            "Nur wenn sie am Satzanfang stehen"
           ],
           "answerIndex": 2,
           "explanation": "All German nouns are capitalized by orthographic rule.",
@@ -2462,10 +2466,10 @@
         {
           "prompt": "Choose the correct possessive: 'Das ist ___ Mutter.' (my mother)",
           "options": [
-            "meine (Master German possessive determiners in the Nominative case meinmeine)",
-            "mein (Master German possessive determiners in the Nominative case meinmeine)",
-            "meiner (Master German possessive determiners in the Nominative case meinmeine)",
-            "meinen (Master German possessive determiners in the Nominative case meinmeine)"
+            "meine",
+            "mein",
+            "meiner",
+            "meinen"
           ],
           "answerIndex": 0,
           "explanation": "die Mutter is feminine, requiring 'meine'."
@@ -2473,10 +2477,10 @@
         {
           "prompt": "Choose the correct possessive: 'Das ist ___ Vater.' (my father)",
           "options": [
-            "mein (Master German possessive determiners in the Nominative case meinmeine)",
-            "meine (Master German possessive determiners in the Nominative case meinmeine)",
-            "meinen (Master German possessive determiners in the Nominative case meinmeine)",
-            "meines (Master German possessive determiners in the Nominative case meinmeine)"
+            "mein",
+            "meine",
+            "meinen",
+            "meines"
           ],
           "answerIndex": 0,
           "explanation": "der Vater is masculine nominative, taking 'mein'."
@@ -2484,10 +2488,10 @@
         {
           "prompt": "What happens to 'euer' (your plural) when modifying a feminine noun like 'Schwester'?",
           "options": [
-            "It drops the middle 'e' and adds 'e': eure Schwester (Master German possessive determiners in the Nominative case meinmeine)",
-            "It becomes euere Schwester (Master German possessive determiners in the Nominative case meinmeine)",
-            "It becomes eures Schwester (Master German possessive determiners in the Nominative case meinmeine)",
-            "It stays euer Schwester (Master German possessive determiners in the Nominative case meinmeine)"
+            "It drops the middle 'e' and adds 'e': eure Schwester",
+            "It becomes euere Schwester",
+            "It becomes eures Schwester",
+            "It stays euer Schwester"
           ],
           "answerIndex": 0,
           "explanation": "euer + e contractions to 'eure'."
@@ -2499,10 +2503,10 @@
         {
           "prompt": "Translate: 'Her brother lives in Berlin.' (her = sie)",
           "options": [
-            "Ihre Bruder wohnt in Berlin. (Master German possessive determiners in the Nominative case meinmeine)",
-            "Sein Bruder wohnt in Berlin. (Master German possessive determiners in the Nominative case meinmeine)",
-            "Dein Bruder wohnt in Berlin. (Master German possessive determiners in the Nominative case meinmeine)",
-            "Ihr Bruder wohnt in Berlin. (Master German possessive determiners in the Nominative case meinmeine)"
+            "Ihre Bruder wohnt in Berlin.",
+            "Sein Bruder wohnt in Berlin.",
+            "Dein Bruder wohnt in Berlin.",
+            "Ihr Bruder wohnt in Berlin."
           ],
           "answerIndex": 3,
           "explanation": "Her brother = Ihr (masc nom) Bruder."
@@ -2510,10 +2514,10 @@
         {
           "prompt": "Translate: 'Our parents are very kind.'",
           "options": [
-            "Unser Eltern sind sehr nett. (Master German possessive determiners in the Nominative case meinmeine)",
-            "Unseren Eltern sind sehr nett. (Master German possessive determiners in the Nominative case meinmeine)",
-            "Unsers Eltern sind sehr nett. (Master German possessive determiners in the Nominative case meinmeine)",
-            "Unsere Eltern sind sehr nett. (Master German possessive determiners in the Nominative case meinmeine)"
+            "Unser Eltern sind sehr nett.",
+            "Unseren Eltern sind sehr nett.",
+            "Unsers Eltern sind sehr nett.",
+            "Unsere Eltern sind sehr nett."
           ],
           "answerIndex": 3,
           "explanation": "Eltern is plural, requiring 'Unsere'."
@@ -2525,10 +2529,10 @@
         {
           "prompt": "Ergänzen Sie: 'Das ist ___ Kind.' (sein = his)",
           "options": [
-            "seinem (Master German possessive determiners in the Nominative case meinmeine)",
-            "sein (Master German possessive determiners in the Nominative case meinmeine)",
-            "seinen (Master German possessive determiners in the Nominative case meinmeine)",
-            "seine (Master German possessive determiners in the Nominative case meinmeine)"
+            "seinem",
+            "sein",
+            "seinen",
+            "seine"
           ],
           "answerIndex": 1,
           "explanation": "Neuter nominative takes base 'sein'.",
@@ -2537,10 +2541,10 @@
         {
           "prompt": "Ergänzen Sie: 'Wo wohnen ___ Großeltern?' (your informal plural = ihr)",
           "options": [
-            "eure (Master German possessive determiners in the Nominative case meinmeine)",
-            "euere (Master German possessive determiners in the Nominative case meinmeine)",
-            "eures (Master German possessive determiners in the Nominative case meinmeine)",
-            "euer (Master German possessive determiners in the Nominative case meinmeine)"
+            "eure",
+            "euere",
+            "eures",
+            "euer"
           ],
           "answerIndex": 0,
           "explanation": "eure Großeltern (plural).",
@@ -2549,10 +2553,10 @@
         {
           "prompt": "Welcher Possessivartikel drückt 'their' (sie = they) für ein maskulines Nomen aus?",
           "options": [
-            "sein (Master German possessive determiners in the Nominative case meinmeine)",
-            "euer (Master German possessive determiners in the Nominative case meinmeine)",
-            "unser (Master German possessive determiners in the Nominative case meinmeine)",
-            "ihr (Master German possessive determiners in the Nominative case meinmeine)"
+            "sein",
+            "euer",
+            "unser",
+            "ihr"
           ],
           "answerIndex": 3,
           "explanation": "ihr = their (masculine nominative takes no ending).",
@@ -2561,10 +2565,10 @@
         {
           "prompt": "Wann hängt man ein '-e' an den Possessivartikel im Nominativ an?",
           "options": [
-            "Nur bei maskulinen Nomen (Master German possessive determiners in the Nominative case meinmeine)",
-            "Niemals (Master German possessive determiners in the Nominative case meinmeine)",
+            "Nur bei maskulinen Nomen",
+            "Niemals",
             "Bei femininen Nomen (die)",
-            "Nur bei neutralen Nomen (Master German possessive determiners in the Nominative case meinmeine)"
+            "Nur bei neutralen Nomen"
           ],
           "answerIndex": 2,
           "explanation": "Feminine and plural take -e in the nominative.",
@@ -2573,10 +2577,10 @@
         {
           "prompt": "'Herr Müller, wie heißt ___ Frau?' (Höflichkeitsform / formal)",
           "options": [
-            "seine (Master German possessive determiners in the Nominative case meinmeine)",
-            "Ihre (Master German possessive determiners in the Nominative case meinmeine)",
-            "ihre (Master German possessive determiners in the Nominative case meinmeine)",
-            "deine (Master German possessive determiners in the Nominative case meinmeine)"
+            "seine",
+            "Ihre",
+            "ihre (C)",
+            "deine"
           ],
           "answerIndex": 1,
           "explanation": "Formal address requires capitalized 'Ihre Frau'.",
@@ -2623,10 +2627,10 @@
         {
           "prompt": "What is the affectionate German word for 'grandmother'?",
           "options": [
-            "der Opa (Identify extended family members and inlaws in German Groeltern)",
-            "die Tante (Identify extended family members and inlaws in German Groeltern)",
-            "die Nichte (Identify extended family members and inlaws in German Groeltern)",
-            "die Oma (Identify extended family members and inlaws in German Groeltern)"
+            "der Opa",
+            "die Tante",
+            "die Nichte",
+            "die Oma"
           ],
           "answerIndex": 3,
           "explanation": "die Oma is grandmother."
@@ -2634,10 +2638,10 @@
         {
           "prompt": "What is the relationship of 'der Schwiegervater' to you?",
           "options": [
-            "Stepfather (Identify extended family members and inlaws in German Groeltern)",
-            "Uncle (Identify extended family members and inlaws in German Groeltern)",
-            "Grandfather (Identify extended family members and inlaws in German Groeltern)",
-            "Father-in-law (Identify extended family members and inlaws in German Groeltern)"
+            "Stepfather",
+            "Uncle",
+            "Grandfather",
+            "Father-in-law"
           ],
           "answerIndex": 3,
           "explanation": "der Schwiegervater = father-in-law."
@@ -2645,9 +2649,9 @@
         {
           "prompt": "How do you distinguish a male cousin from a female cousin in German?",
           "options": [
-            "der Cousin for both (Identify extended family members and inlaws in German Groeltern)",
-            "die Cousin vs der Cousine (Identify extended family members and inlaws in German Groeltern)",
-            "das Cousin (Identify extended family members and inlaws in German Groeltern)",
+            "der Cousin for both",
+            "die Cousin vs der Cousine",
+            "das Cousin",
             "der Cousin (male)"
           ],
           "answerIndex": 3,
@@ -2660,10 +2664,10 @@
         {
           "prompt": "Translate: 'My aunt is coming today.'",
           "options": [
-            "Meine Tante kommt heute. (Identify extended family members and inlaws in German Groeltern)",
-            "Mein Tante kommt heute. (Identify extended family members and inlaws in German Groeltern)",
-            "Meinen Tante kommt heute. (Identify extended family members and inlaws in German Groeltern)",
-            "Meiner Tante kommt heute. (Identify extended family members and inlaws in German Groeltern)"
+            "Meine Tante kommt heute.",
+            "Mein Tante kommt heute.",
+            "Meinen Tante kommt heute.",
+            "Meiner Tante kommt heute."
           ],
           "answerIndex": 0,
           "explanation": "die Tante is feminine -> Meine Tante."
@@ -2671,10 +2675,10 @@
         {
           "prompt": "What is 'die Schwägerin' in English?",
           "options": [
-            "Sister-in-law (Identify extended family members and inlaws in German Groeltern)",
-            "Mother-in-law (Identify extended family members and inlaws in German Groeltern)",
-            "Daughter-in-law (Identify extended family members and inlaws in German Groeltern)",
-            "Aunt (Identify extended family members and inlaws in German Groeltern)"
+            "Sister-in-law",
+            "Mother-in-law",
+            "Daughter-in-law",
+            "Aunt"
           ],
           "answerIndex": 0,
           "explanation": "Schwägerin = sister-in-law."
@@ -2686,10 +2690,10 @@
         {
           "prompt": "Der Bruder meiner Mutter ist mein:",
           "options": [
-            "Onkel (Identify extended family members and inlaws in German Groeltern)",
-            "Schwager (Identify extended family members and inlaws in German Groeltern)",
-            "Opa (Identify extended family members and inlaws in German Groeltern)",
-            "Neffe (Identify extended family members and inlaws in German Groeltern)"
+            "Onkel",
+            "Schwager",
+            "Opa",
+            "Neffe"
           ],
           "answerIndex": 0,
           "explanation": "Mother's brother is Onkel.",
@@ -2698,10 +2702,10 @@
         {
           "prompt": "Die Tochter meiner Schwester ist meine:",
           "options": [
-            "Cousine (Identify extended family members and inlaws in German Groeltern)",
-            "Neffe (Identify extended family members and inlaws in German Groeltern)",
-            "Enkelin (Identify extended family members and inlaws in German Groeltern)",
-            "Nichte (Identify extended family members and inlaws in German Groeltern)"
+            "Cousine",
+            "Neffe",
+            "Enkelin",
+            "Nichte"
           ],
           "answerIndex": 3,
           "explanation": "Sister's daughter is Nichte.",
@@ -2710,10 +2714,10 @@
         {
           "prompt": "Welcher Begriff bezeichnet die Eltern des Ehepartners?",
           "options": [
-            "die Urgroßeltern (Identify extended family members and inlaws in German Groeltern)",
-            "die Großeltern (Identify extended family members and inlaws in German Groeltern)",
-            "die Schwiegereltern (Identify extended family members and inlaws in German Groeltern)",
-            "die Geschwister (Identify extended family members and inlaws in German Groeltern)"
+            "die Urgroßeltern",
+            "die Großeltern",
+            "die Schwiegereltern",
+            "die Geschwister"
           ],
           "answerIndex": 2,
           "explanation": "Schwiegereltern = parents-in-law.",
@@ -2722,10 +2726,10 @@
         {
           "prompt": "Was bedeutet 'Enkelkind'?",
           "options": [
-            "Godchild (Identify extended family members and inlaws in German Groeltern)",
-            "Grandchild (Identify extended family members and inlaws in German Groeltern)",
-            "Firstborn (Identify extended family members and inlaws in German Groeltern)",
-            "Stepchild (Identify extended family members and inlaws in German Groeltern)"
+            "Godchild",
+            "Grandchild",
+            "Firstborn",
+            "Stepchild"
           ],
           "answerIndex": 1,
           "explanation": "Enkelkind = grandchild.",
@@ -2734,10 +2738,10 @@
         {
           "prompt": "Welcher Artikel gehört zu 'Cousine'?",
           "options": [
-            "die (Identify extended family members and inlaws in German Groeltern)",
-            "der (Identify extended family members and inlaws in German Groeltern)",
-            "das (Identify extended family members and inlaws in German Groeltern)",
-            "den (Identify extended family members and inlaws in German Groeltern)"
+            "die",
+            "der",
+            "das",
+            "den"
           ],
           "answerIndex": 0,
           "explanation": "die Cousine is feminine.",
@@ -2784,10 +2788,10 @@
         {
           "prompt": "Complete the sentence: 'Meine Schwester ist ___.' (tall / groß)",
           "options": [
-            "groß (Describe people and relatives using descriptive adjectives gro)",
-            "großer (Describe people and relatives using descriptive adjectives gro)",
-            "großes (Describe people and relatives using descriptive adjectives gro)",
-            "große (Describe people and relatives using descriptive adjectives gro)"
+            "groß",
+            "großer",
+            "großes",
+            "große"
           ],
           "answerIndex": 0,
           "explanation": "Predicate adjectives after 'sein' never take inflectional endings."
@@ -2795,10 +2799,10 @@
         {
           "prompt": "What does 'Meine Eltern sind verheiratet' mean?",
           "options": [
-            "My parents are married (Describe people and relatives using descriptive adjectives gro)",
-            "My parents are old (Describe people and relatives using descriptive adjectives gro)",
-            "My parents are divorced (Describe people and relatives using descriptive adjectives gro)",
-            "My parents are single (Describe people and relatives using descriptive adjectives gro)"
+            "My parents are married",
+            "My parents are old",
+            "My parents are divorced",
+            "My parents are single"
           ],
           "answerIndex": 0,
           "explanation": "verheiratet = married."
@@ -2806,10 +2810,10 @@
         {
           "prompt": "How do you say someone is 'single' in German?",
           "options": [
-            "ledig (Describe people and relatives using descriptive adjectives gro)",
-            "verwitwet (Describe people and relatives using descriptive adjectives gro)",
-            "geschieden (Describe people and relatives using descriptive adjectives gro)",
-            "verheiratet (Describe people and relatives using descriptive adjectives gro)"
+            "ledig",
+            "verwitwet",
+            "geschieden",
+            "verheiratet"
           ],
           "answerIndex": 0,
           "explanation": "ledig = single."
@@ -2821,10 +2825,10 @@
         {
           "prompt": "Translate: 'My brother is young and smart.'",
           "options": [
-            "Mein Bruder ist jung und klug. (Describe people and relatives using descriptive adjectives gro)",
-            "Mein Bruder sind jung und klug. (Describe people and relatives using descriptive adjectives gro)",
-            "Mein Bruder ist junge und kluge. (Describe people and relatives using descriptive adjectives gro)",
-            "Meine Bruder ist jung und klug. (Describe people and relatives using descriptive adjectives gro)"
+            "Mein Bruder ist jung und klug.",
+            "Mein Bruder sind jung und klug.",
+            "Mein Bruder ist junge und kluge.",
+            "Meine Bruder ist jung und klug."
           ],
           "answerIndex": 0,
           "explanation": "Mein Bruder ist jung und klug (zero endings)."
@@ -2832,10 +2836,10 @@
         {
           "prompt": "What is the opposite of 'alt' (old)?",
           "options": [
-            "jung (Describe people and relatives using descriptive adjectives gro)",
-            "groß (Describe people and relatives using descriptive adjectives gro)",
-            "nett (Describe people and relatives using descriptive adjectives gro)",
-            "klein (Describe people and relatives using descriptive adjectives gro)"
+            "jung",
+            "groß",
+            "nett",
+            "klein"
           ],
           "answerIndex": 0,
           "explanation": "jung = young."
@@ -2847,10 +2851,10 @@
         {
           "prompt": "Welcher Satz ist grammatisch KORREKT?",
           "options": [
-            "Mein Mutter ist sehr sympathisch. (Describe people and relatives using descriptive adjectives gro)",
-            "Meine Mutter ist sehr sympathische. (Describe people and relatives using descriptive adjectives gro)",
-            "Meine Mutter ist sehr sympathischer. (Describe people and relatives using descriptive adjectives gro)",
-            "Meine Mutter ist sehr sympathisch. (Describe people and relatives using descriptive adjectives gro)"
+            "Mein Mutter ist sehr sympathisch.",
+            "Meine Mutter ist sehr sympathische.",
+            "Meine Mutter ist sehr sympathischer.",
+            "Meine Mutter ist sehr sympathisch."
           ],
           "answerIndex": 3,
           "explanation": "Meine Mutter (fem) + ist + sympathisch (no ending).",
@@ -2859,10 +2863,10 @@
         {
           "prompt": "Was bedeutet 'geschieden' beim Familienstand?",
           "options": [
-            "Married (Describe people and relatives using descriptive adjectives gro)",
-            "Single (Describe people and relatives using descriptive adjectives gro)",
-            "Divorced (Describe people and relatives using descriptive adjectives gro)",
-            "Engaged (Describe people and relatives using descriptive adjectives gro)"
+            "Married",
+            "Single",
+            "Divorced",
+            "Engaged"
           ],
           "answerIndex": 2,
           "explanation": "geschieden = divorced.",
@@ -2871,10 +2875,10 @@
         {
           "prompt": "Warum heißt es 'Meine Schwestern sind alt' und NICHT 'alte'?",
           "options": [
-            "Weil Schwestern Plural ist (Describe people and relatives using descriptive adjectives gro)",
-            "Weil prädikative Adjektive nach dem Verb 'sein' im Deutschen keine Endung bekommen (Describe people and relatives using descriptive adjectives gro)",
-            "Weil alt ein unregelmäßiges Wort ist (Describe people and relatives using descriptive adjectives gro)",
-            "Weil das Verb im Präsens steht (Describe people and relatives using descriptive adjectives gro)"
+            "Weil Schwestern Plural ist",
+            "Weil prädikative Adjektive nach dem Verb 'sein' im Deutschen keine Endung bekommen",
+            "Weil alt ein unregelmäßiges Wort ist",
+            "Weil das Verb im Präsens steht"
           ],
           "answerIndex": 1,
           "explanation": "Predicate adjectives take no endings.",
@@ -2883,10 +2887,10 @@
         {
           "prompt": "Wie fragt man nach dem Familienstand einer Person?",
           "options": [
-            "Sind Sie verheiratet? (Describe people and relatives using descriptive adjectives gro)",
-            "Wo wohnen Sie? (Describe people and relatives using descriptive adjectives gro)",
-            "Wie alt sind Sie? (Describe people and relatives using descriptive adjectives gro)",
-            "Was machen Sie beruflich? (Describe people and relatives using descriptive adjectives gro)"
+            "Sind Sie verheiratet?",
+            "Wo wohnen Sie?",
+            "Wie alt sind Sie?",
+            "Was machen Sie beruflich?"
           ],
           "answerIndex": 0,
           "explanation": "'Sind Sie verheiratet?' asks about marital status.",
@@ -2895,10 +2899,10 @@
         {
           "prompt": "'Mein Großvater ist 80 Jahre alt.' — Was bedeutet 'Jahre alt'?",
           "options": [
-            "Years young (Describe people and relatives using descriptive adjectives gro)",
-            "Years tall (Describe people and relatives using descriptive adjectives gro)",
-            "Years married (Describe people and relatives using descriptive adjectives gro)",
-            "Years old (Describe people and relatives using descriptive adjectives gro)"
+            "Years young",
+            "Years tall",
+            "Years married",
+            "Years old"
           ],
           "answerIndex": 3,
           "explanation": "Jahre alt = years old.",
@@ -2947,10 +2951,10 @@
         {
           "prompt": "How does Jonas describe his uncle Stefan's relationship to his father?",
           "options": [
-            "Er ist der Bruder von meinem Vater. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Er ist der Vater von meinem Bruder. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Er ist mein Bruder. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Er ist mein Sohn. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Er ist der Bruder von meinem Vater.",
+            "Er ist der Vater von meinem Bruder.",
+            "Er ist mein Bruder.",
+            "Er ist mein Sohn."
           ],
           "answerIndex": 0,
           "explanation": "Uncle = brother of father."
@@ -2958,10 +2962,10 @@
         {
           "prompt": "What German compound noun means 'family tree'?",
           "options": [
-            "der Stammbaum (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "der Weihnachtsbaum (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "die Baumfamilie (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "das Stammhaus (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "der Stammbaum",
+            "der Weihnachtsbaum",
+            "die Baumfamilie",
+            "das Stammhaus"
           ],
           "answerIndex": 0,
           "explanation": "der Stammbaum = family tree."
@@ -2969,10 +2973,10 @@
         {
           "prompt": "How does Jonas state that his grandparents have been married for 50 years?",
           "options": [
-            "Sie sind schon 50 Jahre verheiratet. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Sie haben 50 Jahre verheiratet. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Sie wohnen 50 Jahre verheiratet. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Sie sind 50 Jahre ledig. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Sie sind schon 50 Jahre verheiratet.",
+            "Sie haben 50 Jahre verheiratet.",
+            "Sie wohnen 50 Jahre verheiratet.",
+            "Sie sind 50 Jahre ledig."
           ],
           "answerIndex": 0,
           "explanation": "sein + verheiratet."
@@ -2984,10 +2988,10 @@
         {
           "prompt": "Translate: 'My cousin Felix lives in Berlin.'",
           "options": [
-            "Mein Cousine Felix wohnt in Berlin. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Mein Cousin Felix wohnt in Berlin. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Meinen Cousin Felix wohnt in Berlin. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Meine Cousin Felix wohnt in Berlin. (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Mein Cousine Felix wohnt in Berlin.",
+            "Mein Cousin Felix wohnt in Berlin.",
+            "Meinen Cousin Felix wohnt in Berlin.",
+            "Meine Cousin Felix wohnt in Berlin."
           ],
           "answerIndex": 1,
           "explanation": "der Cousin (male) -> Mein Cousin Felix."
@@ -2995,10 +2999,10 @@
         {
           "prompt": "What is 'Goldene Hochzeit' in German culture?",
           "options": [
-            "50th wedding anniversary (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "First wedding (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Birthday party (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "25th anniversary (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "50th wedding anniversary",
+            "First wedding",
+            "Birthday party",
+            "25th anniversary"
           ],
           "answerIndex": 0,
           "explanation": "Goldene Hochzeit = 50th wedding anniversary."
@@ -3010,10 +3014,10 @@
         {
           "prompt": "Was bedeutet 'der Stammbaum'?",
           "options": [
-            "Oak tree in the garden (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Family photograph (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Family tree / genealogical chart (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Birthday calendar (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Oak tree in the garden",
+            "Family photograph",
+            "Family tree / genealogical chart",
+            "Birthday calendar"
           ],
           "answerIndex": 2,
           "explanation": "Stammbaum = family tree.",
@@ -3022,10 +3026,10 @@
         {
           "prompt": "Ergänzen Sie: 'Das ist meine Tante Brigitte. ___ arbeitet als Ärztin in Köln.'",
           "options": [
-            "Er (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Sie (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Ihr (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Es (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Er",
+            "Sie",
+            "Ihr",
+            "Es"
           ],
           "answerIndex": 1,
           "explanation": "Tante Brigitte is female -> Sie.",
@@ -3034,10 +3038,10 @@
         {
           "prompt": "'Was für eine tolle, große Familie!' drückt aus:",
           "options": [
-            "Begeisterung und Bewunderung für die Familie (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Eine Frage nach dem Weg (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Einen Abschiedsgruß (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Eine Beschwerde (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Begeisterung und Bewunderung für die Familie",
+            "Eine Frage nach dem Weg",
+            "Einen Abschiedsgruß",
+            "Eine Beschwerde"
           ],
           "answerIndex": 0,
           "explanation": "Expression of praise and admiration.",
@@ -3046,10 +3050,10 @@
         {
           "prompt": "Welcher Satz fasst die Kernregeln dieser Einheit 3 zusammen?",
           "options": [
-            "Alle Wörter enden auf -e (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Es gibt keine Artikel im Deutschen (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Adjektive stehen immer vor dem Nomen (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Nomen werden großgeschrieben, Possessivartikel passen sich an Genus/Numerus an, und prädikative Adjektive bleiben unverändert (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Alle Wörter enden auf -e",
+            "Es gibt keine Artikel im Deutschen",
+            "Adjektive stehen immer vor dem Nomen",
+            "Nomen werden großgeschrieben, Possessivartikel passen sich an Genus/Numerus an, und prädikative Adjektive bleiben unverändert"
           ],
           "answerIndex": 3,
           "explanation": "Unit 3 master grammar synthesis.",
@@ -3058,10 +3062,10 @@
         {
           "prompt": "Wie fragt man auf Deutsch nach der Person auf einem Foto?",
           "options": [
-            "Wo ist das Foto? (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Wie viel kostet das Foto? (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Wer ist das auf dem Foto? (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)",
-            "Wann ist das Foto? (Participate in a multiturn German dialogue presenting a family album or family tree der Stammbaum)"
+            "Wo ist das Foto?",
+            "Wie viel kostet das Foto?",
+            "Wer ist das auf dem Foto?",
+            "Wann ist das Foto?"
           ],
           "answerIndex": 2,
           "explanation": "'Wer ist das auf dem Foto?' asks who is in the photo.",
@@ -3108,10 +3112,10 @@
         {
           "prompt": "How do you conjugate 'arbeiten' (to work) for 'du' in German?",
           "options": [
-            "du arbeitst (Conjugate regular presenttense verbs wohnen)",
-            "du arbeite (Conjugate regular presenttense verbs wohnen)",
-            "du arbeit (Conjugate regular presenttense verbs wohnen)",
-            "du arbeitest (Conjugate regular presenttense verbs wohnen)"
+            "du arbeitst",
+            "du arbeite",
+            "du arbeit",
+            "du arbeitest"
           ],
           "answerIndex": 3,
           "explanation": "Dental stem -t inserts -e-: du arbeitest."
@@ -3119,10 +3123,10 @@
         {
           "prompt": "What is the personal ending for 'er/sie/es' on regular verbs?",
           "options": [
-            "-en (Conjugate regular presenttense verbs wohnen)",
-            "-st (Conjugate regular presenttense verbs wohnen)",
-            "-t (Conjugate regular presenttense verbs wohnen)",
-            "-e (Conjugate regular presenttense verbs wohnen)"
+            "-en",
+            "-st",
+            "-t",
+            "-e"
           ],
           "answerIndex": 2,
           "explanation": "3rd person singular takes -t."
@@ -3130,10 +3134,10 @@
         {
           "prompt": "How do you say 'We are learning German'?",
           "options": [
-            "Wir lerne Deutsch. (Conjugate regular presenttense verbs wohnen)",
-            "Wir lernen Deutsch. (Conjugate regular presenttense verbs wohnen)",
-            "Wir lernst Deutsch. (Conjugate regular presenttense verbs wohnen)",
-            "Wir lernt Deutsch. (Conjugate regular presenttense verbs wohnen)"
+            "Wir lerne Deutsch.",
+            "Wir lernen Deutsch.",
+            "Wir lernst Deutsch.",
+            "Wir lernt Deutsch."
           ],
           "answerIndex": 1,
           "explanation": "wir lernen."
@@ -3145,10 +3149,10 @@
         {
           "prompt": "Translate: 'Where do you (informal singular) live?'",
           "options": [
-            "Wo wohnt ihr? (Conjugate regular presenttense verbs wohnen)",
-            "Wo wohnen Sie? (Conjugate regular presenttense verbs wohnen)",
-            "Wo wohne ich? (Conjugate regular presenttense verbs wohnen)",
-            "Wo wohnst du? (Conjugate regular presenttense verbs wohnen)"
+            "Wo wohnt ihr?",
+            "Wo wohnen Sie?",
+            "Wo wohne ich?",
+            "Wo wohnst du?"
           ],
           "answerIndex": 3,
           "explanation": "Wo wohnst du?"
@@ -3156,10 +3160,10 @@
         {
           "prompt": "What does 'Was macht ihr heute Abend?' mean?",
           "options": [
-            "What do they want tonight? (Conjugate regular presenttense verbs wohnen)",
-            "Where are you going tonight? (Conjugate regular presenttense verbs wohnen)",
+            "What do they want tonight?",
+            "Where are you going tonight?",
             "What are you (plural informal)",
-            "What is he doing tonight? (Conjugate regular presenttense verbs wohnen)"
+            "What is he doing tonight?"
           ],
           "answerIndex": 2,
           "explanation": "ihr macht = you (plural) do/make."
@@ -3171,10 +3175,10 @@
         {
           "prompt": "Welcher Satz ist grammatikalisch VOLLKOMMEN KORREKT?",
           "options": [
-            "Lukas arbeit in Frankfurt und trink gern Kaffee. (Conjugate regular presenttense verbs wohnen)",
-            "Lukas arbeitet in Frankfurt und trinkt gern Kaffee. (Conjugate regular presenttense verbs wohnen)",
-            "Lukas arbeiten in Frankfurt. (Conjugate regular presenttense verbs wohnen)",
-            "Lukas arbeitest in Frankfurt. (Conjugate regular presenttense verbs wohnen)"
+            "Lukas arbeit in Frankfurt und trink gern Kaffee.",
+            "Lukas arbeitet in Frankfurt und trinkt gern Kaffee.",
+            "Lukas arbeiten in Frankfurt.",
+            "Lukas arbeitest in Frankfurt."
           ],
           "answerIndex": 1,
           "explanation": "arbeitet and trinkt both take 3rd-person -t.",
@@ -3183,10 +3187,10 @@
         {
           "prompt": "Was ist die Endung für 'ihr' (2. Person Plural) im Präsens?",
           "options": [
-            "-t (Conjugate regular presenttense verbs wohnen)",
-            "-st (Conjugate regular presenttense verbs wohnen)",
-            "-e (Conjugate regular presenttense verbs wohnen)",
-            "-en (Conjugate regular presenttense verbs wohnen)"
+            "-t",
+            "-st",
+            "-e",
+            "-en"
           ],
           "answerIndex": 0,
           "explanation": "ihr takes -t.",
@@ -3195,10 +3199,10 @@
         {
           "prompt": "Warum heißt es 'du findest' und nicht 'du findst'?",
           "options": [
-            "Es ist ein Tippfehler (Conjugate regular presenttense verbs wohnen)",
-            "Weil 'finden' aus dem Englischen kommt (Conjugate regular presenttense verbs wohnen)",
-            "Weil es unregelmäßig ist (Conjugate regular presenttense verbs wohnen)",
-            "Weil der Verbstamm auf -d endet und zur besseren Aussprache ein Einschub-e benötigt (Conjugate regular presenttense verbs wohnen)"
+            "Es ist ein Tippfehler",
+            "Weil 'finden' aus dem Englischen kommt",
+            "Weil es unregelmäßig ist",
+            "Weil der Verbstamm auf -d endet und zur besseren Aussprache ein Einschub-e benötigt"
           ],
           "answerIndex": 3,
           "explanation": "Dental stem pronunciation insertion.",
@@ -3207,10 +3211,10 @@
         {
           "prompt": "Ergänzen Sie: 'Meine Eltern ___ in Hamburg.' (wohnen)",
           "options": [
-            "wohne (Conjugate regular presenttense verbs wohnen)",
-            "wohnst (Conjugate regular presenttense verbs wohnen)",
-            "wohnen (Conjugate regular presenttense verbs wohnen)",
-            "wohnt (Conjugate regular presenttense verbs wohnen)"
+            "wohne",
+            "wohnst",
+            "wohnen",
+            "wohnt"
           ],
           "answerIndex": 2,
           "explanation": "Meine Eltern = sie (plural) -> wohnen.",
@@ -3219,10 +3223,10 @@
         {
           "prompt": "Die Verben 'trinken', 'kommen', 'lernen' im Präsens mit 'ich' enden auf:",
           "options": [
-            "-t (Conjugate regular presenttense verbs wohnen)",
-            "-e (Conjugate regular presenttense verbs wohnen)",
-            "-en (Conjugate regular presenttense verbs wohnen)",
-            "-st (Conjugate regular presenttense verbs wohnen)"
+            "-t",
+            "-e",
+            "-en",
+            "-st"
           ],
           "answerIndex": 1,
           "explanation": "ich takes -e.",
@@ -3270,10 +3274,10 @@
         {
           "prompt": "How do you conjugate 'sprechen' (to speak) for 'du' in German?",
           "options": [
-            "du sprichst (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "du sprechst (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "du spreche (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "du spricht (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "du sprichst",
+            "du sprechst",
+            "du spreche",
+            "du spricht"
           ],
           "answerIndex": 0,
           "explanation": "sprechen undergoes e -> i shift: du sprichst."
@@ -3281,10 +3285,10 @@
         {
           "prompt": "How do you conjugate 'fahren' (to drive/travel) for 'er' (he)?",
           "options": [
-            "er fährt (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "er fahrt (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "er fährst (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "er fahre (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "er fährt",
+            "er fahrt",
+            "er fährst",
+            "er fahre"
           ],
           "answerIndex": 0,
           "explanation": "fahren undergoes a -> ä shift: er fährt."
@@ -3292,10 +3296,10 @@
         {
           "prompt": "Which persons undergo the stem-vowel change in German present tense?",
           "options": [
-            "ONLY 'du' and 'er/sie/es' (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "All persons including ich and wir (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Only in questions (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Only plural forms (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "ONLY 'du' and 'er/sie/es'",
+            "All persons including ich and wir",
+            "Only in questions",
+            "Only plural forms"
           ],
           "answerIndex": 0,
           "explanation": "Shift occurs strictly in 2nd/3rd person singular."
@@ -3307,10 +3311,10 @@
         {
           "prompt": "Translate: 'Do you read books?' (lesen -> du)",
           "options": [
-            "Lesest du Bücher? (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Lest du Bücher? (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Lese du Bücher? (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Liest du Bücher? (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "Lesest du Bücher?",
+            "Lest du Bücher?",
+            "Lese du Bücher?",
+            "Liest du Bücher?"
           ],
           "answerIndex": 3,
           "explanation": "lesen -> du liest."
@@ -3318,10 +3322,10 @@
         {
           "prompt": "How do you conjugate 'essen' (to eat) for 'er' (he)?",
           "options": [
-            "er esst (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "er esse (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "er essen (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "er isst (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "er esst",
+            "er esse",
+            "er essen",
+            "er isst"
           ],
           "answerIndex": 3,
           "explanation": "essen -> er isst."
@@ -3333,10 +3337,10 @@
         {
           "prompt": "Welcher Satz enthält den KORREKTEN Vokalwechsel?",
           "options": [
-            "Emma spricht fließend Deutsch und liest deutsche Romane. (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Emma spricht fließend Deutsch und leset Romane. (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Emma spreche fließend Deutsch. (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Emma sprecht fließend Deutsch und lest deutsche Romane. (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "Emma spricht fließend Deutsch und liest deutsche Romane.",
+            "Emma spricht fließend Deutsch und leset Romane.",
+            "Emma spreche fließend Deutsch.",
+            "Emma sprecht fließend Deutsch und lest deutsche Romane."
           ],
           "answerIndex": 0,
           "explanation": "spricht (e->i) and liest (e->ie).",
@@ -3345,10 +3349,10 @@
         {
           "prompt": "Was passiert mit dem Verb 'schlafen' bei 'du'?",
           "options": [
-            "Es bleibt unverändert: du schlafst (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Es wird zu: du schliefst (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Es wird zu: du schlafe (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Es bekommt einen Umlaut: du schläfst (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "Es bleibt unverändert: du schlafst",
+            "Es wird zu: du schliefst",
+            "Es wird zu: du schlafe",
+            "Es bekommt einen Umlaut: du schläfst"
           ],
           "answerIndex": 3,
           "explanation": "schlafen -> du schläfst.",
@@ -3357,10 +3361,10 @@
         {
           "prompt": "Wie lautet die 1. Person Plural von 'sehen' (wir)?",
           "options": [
-            "wir seht (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "wir sieht (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "wir sehen (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "wir siehen (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "wir seht",
+            "wir sieht",
+            "wir sehen",
+            "wir siehen"
           ],
           "answerIndex": 2,
           "explanation": "Plural has no vowel shift: wir sehen.",
@@ -3369,10 +3373,10 @@
         {
           "prompt": "'Er gibt mir das Buch' stammt von welchem Infinitiv?",
           "options": [
-            "goben (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "geben (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "gaben (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "gibt (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "goben",
+            "geben",
+            "gaben",
+            "gibt"
           ],
           "answerIndex": 1,
           "explanation": "geben -> er gibt.",
@@ -3381,10 +3385,10 @@
         {
           "prompt": "Warum heißt es 'ihr fahrt' ohne Umlaut, aber 'du fährst' mit Umlaut?",
           "options": [
-            "Weil der Vokalwechsel nur in der 2. und 3. Person Singular auftritt, niemals bei 'ihr' (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Man kann beides schreiben (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Weil 'ihr' eine Ausnahme ist (Master German StemVowel Changing Verbs Vokalwechsel)",
-            "Es ist ein Dialektunterschied (Master German StemVowel Changing Verbs Vokalwechsel)"
+            "Weil der Vokalwechsel nur in der 2. und 3. Person Singular auftritt, niemals bei 'ihr'",
+            "Man kann beides schreiben",
+            "Weil 'ihr' eine Ausnahme ist",
+            "Es ist ein Dialektunterschied"
           ],
           "answerIndex": 0,
           "explanation": "Morphological rule: singular only.",
@@ -3431,10 +3435,10 @@
         {
           "prompt": "Apply the V2 rule to start this sentence with 'Heute' (Today): 'Ich lerne Deutsch'",
           "options": [
-            "Heute ich lerne Deutsch. (Master the Iron Law of German Syntax)",
-            "Heute Deutsch ich lerne. (Master the Iron Law of German Syntax)",
-            "Lerne heute ich Deutsch. (Master the Iron Law of German Syntax)",
-            "Heute lerne ich Deutsch. (Master the Iron Law of German Syntax)"
+            "Heute ich lerne Deutsch.",
+            "Heute Deutsch ich lerne.",
+            "Lerne heute ich Deutsch.",
+            "Heute lerne ich Deutsch."
           ],
           "answerIndex": 3,
           "explanation": "V2 rule: Heute (Pos 1) + lerne (Pos 2) + ich (Pos 3)."
@@ -3442,10 +3446,10 @@
         {
           "prompt": "What position must the conjugated verb occupy in a German main clause?",
           "options": [
-            "Position 1 always (Master the Iron Law of German Syntax)",
-            "At the very end of the sentence (Master the Iron Law of German Syntax)",
-            "Any position (Master the Iron Law of German Syntax)",
-            "Position 2 (Master the Iron Law of German Syntax)"
+            "Position 1 always",
+            "At the very end of the sentence",
+            "Any position",
+            "Position 2"
           ],
           "answerIndex": 3,
           "explanation": "Strictly Position 2 in main clauses."
@@ -3453,10 +3457,10 @@
         {
           "prompt": "Rearrange into correct German: [In Berlin] [mein Bruder] [wohnt]",
           "options": [
-            "In Berlin mein Bruder wohnt. (Master the Iron Law of German Syntax)",
-            "Mein Bruder in Berlin wohnt. (Master the Iron Law of German Syntax)",
-            "Wohnt in Berlin mein Bruder. (Master the Iron Law of German Syntax)",
-            "In Berlin wohnt mein Bruder. (Master the Iron Law of German Syntax)"
+            "In Berlin mein Bruder wohnt.",
+            "Mein Bruder in Berlin wohnt.",
+            "Wohnt in Berlin mein Bruder.",
+            "In Berlin wohnt mein Bruder."
           ],
           "answerIndex": 3,
           "explanation": "In Berlin (Pos 1) + wohnt (Pos 2) + mein Bruder (Pos 3)."
@@ -3468,10 +3472,10 @@
         {
           "prompt": "Translate: 'Tomorrow we are traveling to Munich.' (start with 'Morgen')",
           "options": [
-            "Morgen fahren wir nach München. (Master the Iron Law of German Syntax)",
-            "Morgen wir fahren nach München. (Master the Iron Law of German Syntax)",
-            "Morgen nach München fahren wir. (Master the Iron Law of German Syntax)",
-            "Wir fahren morgen nach München. (Master the Iron Law of German Syntax)"
+            "Morgen fahren wir nach München.",
+            "Morgen wir fahren nach München.",
+            "Morgen nach München fahren wir.",
+            "Wir fahren morgen nach München."
           ],
           "answerIndex": 0,
           "explanation": "Morgen fahren wir nach München (V2 inversion)."
@@ -3479,10 +3483,10 @@
         {
           "prompt": "Why is 'Am Samstag ich spiele Fußball' incorrect in German?",
           "options": [
-            "It violates the V2 rule: 'Am Samstag' is Pos 1, so the verb 'spiele' must be Pos 2: 'Am Samstag spiele ich Fußball' (Master the Iron Law of German Syntax)",
-            "Because Fußball must be capitalized (Master the Iron Law of German Syntax)",
-            "Because Samstag requires a preposition (Master the Iron Law of German Syntax)",
-            "It is actually correct (Master the Iron Law of German Syntax)"
+            "It violates the V2 rule: 'Am Samstag' is Pos 1, so the verb 'spiele' must be Pos 2: 'Am Samstag spiele ich Fußball'",
+            "Because Fußball must be capitalized",
+            "Because Samstag requires a preposition",
+            "It is actually correct"
           ],
           "answerIndex": 0,
           "explanation": "Violates Verb-Second word order."
@@ -3494,10 +3498,10 @@
         {
           "prompt": "Welcher Satz demonstriert die KORREKTE Verb-Zweit-Stellung (V2)?",
           "options": [
-            "Am Wochenende ein Bier wir trinken. (Master the Iron Law of German Syntax)",
-            "Wir am Wochenende trinken ein Bier. (Master the Iron Law of German Syntax)",
-            "Am Wochenende wir trinken gern ein Bier. (Master the Iron Law of German Syntax)",
-            "Am Wochenende trinken wir gern ein Bier im Biergarten. (Master the Iron Law of German Syntax)"
+            "Am Wochenende ein Bier wir trinken.",
+            "Wir am Wochenende trinken ein Bier.",
+            "Am Wochenende wir trinken gern ein Bier.",
+            "Am Wochenende trinken wir gern ein Bier im Biergarten."
           ],
           "answerIndex": 3,
           "explanation": "Am Wochenende (1) + trinken (2) + wir (3).",
@@ -3506,10 +3510,10 @@
         {
           "prompt": "Was passiert mit dem Subjekt, wenn ein Satz mit einer Zeitangabe (z. B. 'Gestern', 'Heute', 'Manchmal') beginnt?",
           "options": [
-            "Es wird weggelassen (Master the Iron Law of German Syntax)",
-            "Es steht am Satzende (Master the Iron Law of German Syntax)",
-            "Es wandert auf Position 3 direkt hinter das finite Verb (Master the Iron Law of German Syntax)",
-            "Es bleibt vor dem Verb (Master the Iron Law of German Syntax)"
+            "Es wird weggelassen",
+            "Es steht am Satzende",
+            "Es wandert auf Position 3 direkt hinter das finite Verb",
+            "Es bleibt vor dem Verb"
           ],
           "answerIndex": 2,
           "explanation": "Subject inverts to Position 3 behind verb.",
@@ -3518,10 +3522,10 @@
         {
           "prompt": "Bilden Sie einen korrekten Satz: [in Hamburg] [meine Tante] [arbeitet] [seit zwei Jahren]",
           "options": [
-            "In Hamburg meine Tante arbeitet seit zwei Jahren. (Master the Iron Law of German Syntax)",
-            "In Hamburg arbeitet meine Tante seit zwei Jahren. (Master the Iron Law of German Syntax)",
-            "Arbeitet in Hamburg meine Tante seit zwei Jahren. (Master the Iron Law of German Syntax)",
-            "Meine Tante in Hamburg arbeitet seit zwei Jahren. (Master the Iron Law of German Syntax)"
+            "In Hamburg meine Tante arbeitet seit zwei Jahren.",
+            "In Hamburg arbeitet meine Tante seit zwei Jahren.",
+            "Arbeitet in Hamburg meine Tante seit zwei Jahren.",
+            "Meine Tante in Hamburg arbeitet seit zwei Jahren."
           ],
           "answerIndex": 1,
           "explanation": "In Hamburg (1) + arbeitet (2) + meine Tante (3).",
@@ -3530,10 +3534,10 @@
         {
           "prompt": "Gilt die V2-Regel auch für mehrteilige Satzglieder auf Position 1 (z. B. 'Jeden Montag um acht Uhr')?",
           "options": [
-            "Ja, das gesamte Zeitglied zählt als Position 1, und das Verb folgt sofort auf Position 2 (Master the Iron Law of German Syntax)",
-            "Nein, jedes Wort zählt als eine Position (Master the Iron Law of German Syntax)",
-            "Nur in der Schriftsprache (Master the Iron Law of German Syntax)",
-            "Nur bei kurzen Sätzen (Master the Iron Law of German Syntax)"
+            "Ja, das gesamte Zeitglied zählt als Position 1, und das Verb folgt sofort auf Position 2",
+            "Nein, jedes Wort zählt als eine Position",
+            "Nur in der Schriftsprache",
+            "Nur bei kurzen Sätzen"
           ],
           "answerIndex": 0,
           "explanation": "The entire constituent forms Position 1.",
@@ -3542,10 +3546,10 @@
         {
           "prompt": "'Deutsch lerne ich jeden Tag' betont welches Satzelement?",
           "options": [
-            "Die Zeit 'jeden Tag' (Master the Iron Law of German Syntax)",
-            "Das Subjekt 'ich' (Master the Iron Law of German Syntax)",
-            "Das Verb 'lerne' (Master the Iron Law of German Syntax)",
-            "Das Objekt 'Deutsch' (Master the Iron Law of German Syntax)"
+            "Die Zeit 'jeden Tag'",
+            "Das Subjekt 'ich'",
+            "Das Verb 'lerne'",
+            "Das Objekt 'Deutsch'"
           ],
           "answerIndex": 3,
           "explanation": "Object topicalization in Position 1.",
@@ -3592,10 +3596,10 @@
         {
           "prompt": "Choose the correct accusative article for masculine 'Kaffee' (der Kaffee): 'Ich trinke ___ Kaffee.'",
           "options": [
-            "einen (Master the Accusative Case Akkusativ for direct objects)",
-            "eine (Master the Accusative Case Akkusativ for direct objects)",
-            "einem (Master the Accusative Case Akkusativ for direct objects)",
-            "ein (Master the Accusative Case Akkusativ for direct objects)"
+            "einen",
+            "eine",
+            "einem",
+            "ein"
           ],
           "answerIndex": 0,
           "explanation": "der Kaffee -> einen Kaffee in the accusative."
@@ -3603,10 +3607,10 @@
         {
           "prompt": "Which grammatical gender changes its article in the German accusative case?",
           "options": [
-            "ONLY masculine (Master the Accusative Case Akkusativ for direct objects)",
-            "Neuter only (Master the Accusative Case Akkusativ for direct objects)",
-            "All genders equally (Master the Accusative Case Akkusativ for direct objects)",
-            "Feminine only (Master the Accusative Case Akkusativ for direct objects)"
+            "ONLY masculine",
+            "Neuter only",
+            "All genders equally",
+            "Feminine only"
           ],
           "answerIndex": 0,
           "explanation": "Only masculine undergoes the -n mutation in the accusative."
@@ -3614,10 +3618,10 @@
         {
           "prompt": "What is the correct accusative form for feminine 'Pizza' (die Pizza): 'Ich esse ___ Pizza.'",
           "options": [
-            "eine Pizza (Master the Accusative Case Akkusativ for direct objects)",
-            "einer Pizza (Master the Accusative Case Akkusativ for direct objects)",
-            "einen Pizza (Master the Accusative Case Akkusativ for direct objects)",
-            "ein Pizza (Master the Accusative Case Akkusativ for direct objects)"
+            "eine Pizza",
+            "einer Pizza",
+            "einen Pizza",
+            "ein Pizza"
           ],
           "answerIndex": 0,
           "explanation": "Feminine accusative remains 'eine'."
@@ -3629,10 +3633,10 @@
         {
           "prompt": "Translate: 'Do you have a brother?' (der Bruder)",
           "options": [
-            "Hast du einen Bruder? (Master the Accusative Case Akkusativ for direct objects)",
-            "Hast du einem Bruder? (Master the Accusative Case Akkusativ for direct objects)",
-            "Hast du ein Bruder? (Master the Accusative Case Akkusativ for direct objects)",
-            "Hast du der Bruder? (Master the Accusative Case Akkusativ for direct objects)"
+            "Hast du einen Bruder?",
+            "Hast du einem Bruder?",
+            "Hast du ein Bruder?",
+            "Hast du der Bruder?"
           ],
           "answerIndex": 0,
           "explanation": "der Bruder -> einen Bruder (accusative direct object)."
@@ -3640,10 +3644,10 @@
         {
           "prompt": "How do you say 'I have no dog' (der Hund)?",
           "options": [
-            "Ich habe keinen Hund. (Master the Accusative Case Akkusativ for direct objects)",
-            "Ich habe kein Hund. (Master the Accusative Case Akkusativ for direct objects)",
-            "Ich habe nicht Hund. (Master the Accusative Case Akkusativ for direct objects)",
-            "Ich habe keine Hund. (Master the Accusative Case Akkusativ for direct objects)"
+            "Ich habe keinen Hund.",
+            "Ich habe kein Hund.",
+            "Ich habe nicht Hund.",
+            "Ich habe keine Hund."
           ],
           "answerIndex": 0,
           "explanation": "keinen Hund (masculine accusative)."
@@ -3655,10 +3659,10 @@
         {
           "prompt": "Ergänzen Sie den Akkusativ: 'Herr Müller sucht ___ Schlüssel.' (der Schlüssel = masc)",
           "options": [
-            "die (Master the Accusative Case Akkusativ for direct objects)",
-            "der (Master the Accusative Case Akkusativ for direct objects)",
-            "den (Master the Accusative Case Akkusativ for direct objects)",
-            "das (Master the Accusative Case Akkusativ for direct objects)"
+            "die",
+            "der",
+            "den",
+            "das"
           ],
           "answerIndex": 2,
           "explanation": "der Schlüssel -> den Schlüssel.",
@@ -3667,10 +3671,10 @@
         {
           "prompt": "Welcher Satz ist grammatikalisch VOLLKOMMEN KORREKT?",
           "options": [
-            "Ich möchte ein Apfel, ein Wasser und eine Banane bestellen. (Master the Accusative Case Akkusativ for direct objects)",
-            "Ich möchte einen Apfel, ein Wasser und eine Banane bestellen. (Master the Accusative Case Akkusativ for direct objects)",
-            "Ich möchte einen Apfel, einen Wasser und einen Banane bestellen. (Master the Accusative Case Akkusativ for direct objects)",
-            "Ich möchte der Apfel bestellen. (Master the Accusative Case Akkusativ for direct objects)"
+            "Ich möchte ein Apfel, ein Wasser und eine Banane bestellen.",
+            "Ich möchte einen Apfel, ein Wasser und eine Banane bestellen.",
+            "Ich möchte einen Apfel, einen Wasser und einen Banane bestellen.",
+            "Ich möchte der Apfel bestellen."
           ],
           "answerIndex": 1,
           "explanation": "einen Apfel (masc) + ein Wasser (neut) + eine Banane (fem).",
@@ -3679,10 +3683,10 @@
         {
           "prompt": "Welche Verben verlangen typischerweise den Akkusativ?",
           "options": [
-            "haben, brauchen, essen, trinken, kaufen, suchen, sehen (Master the Accusative Case Akkusativ for direct objects)",
-            "sein, werden, bleiben (Master the Accusative Case Akkusativ for direct objects)",
-            "nur reflexive Verben (Master the Accusative Case Akkusativ for direct objects)",
-            "nur trennbare Verben (Master the Accusative Case Akkusativ for direct objects)"
+            "haben, brauchen, essen, trinken, kaufen, suchen, sehen",
+            "sein, werden, bleiben",
+            "nur reflexive Verben",
+            "nur trennbare Verben"
           ],
           "answerIndex": 0,
           "explanation": "Transitive action verbs require direct object accusative.",
@@ -3691,10 +3695,10 @@
         {
           "prompt": "Was passiert mit dem neutralen Artikel 'das' / 'ein' im Akkusativ?",
           "options": [
-            "Er wird zu 'einem' (Master the Accusative Case Akkusativ for direct objects)",
-            "Er wird zu 'den' (Master the Accusative Case Akkusativ for direct objects)",
-            "Er wird zu 'einen' (Master the Accusative Case Akkusativ for direct objects)",
-            "Er bleibt unverändert: 'das' / 'ein' (Master the Accusative Case Akkusativ for direct objects)"
+            "Er wird zu 'einem'",
+            "Er wird zu 'den'",
+            "Er wird zu 'einen'",
+            "Er bleibt unverändert: 'das' / 'ein'"
           ],
           "answerIndex": 3,
           "explanation": "Neuter remains unchanged: ein Buch.",
@@ -3703,10 +3707,10 @@
         {
           "prompt": "Im Café bestellt man: '___ Cappuccino und ___ Stück Kuchen, bitte!'",
           "options": [
-            "Ein ... einen (Master the Accusative Case Akkusativ for direct objects)",
-            "Eine ... ein (Master the Accusative Case Akkusativ for direct objects)",
+            "Ein ... einen",
+            "Eine ... ein",
             "Einen (der Cappuccino)",
-            "Einen ... einen (Master the Accusative Case Akkusativ for direct objects)"
+            "Einen ... einen"
           ],
           "answerIndex": 2,
           "explanation": "Einen Cappuccino (masc) and ein Stück (neut).",
@@ -3755,10 +3759,10 @@
         {
           "prompt": "How does Jonas describe today's team attendance using correct V2 word order?",
           "options": [
-            "Heute arbeiten fünf Kollegen im Büro. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Heute fünf Kollegen arbeiten im Büro. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Heute im Büro arbeiten fünf Kollegen. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Arbeiten heute fünf Kollegen. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Heute arbeiten fünf Kollegen im Büro.",
+            "Heute fünf Kollegen arbeiten im Büro.",
+            "Heute im Büro arbeiten fünf Kollegen.",
+            "Arbeiten heute fünf Kollegen."
           ],
           "answerIndex": 0,
           "explanation": "Heute (1) + arbeiten (2) + fünf Kollegen (3)."
@@ -3766,10 +3770,10 @@
         {
           "prompt": "How does Jonas offer Elena a coffee using the correct masculine accusative article?",
           "options": [
-            "Möchtest du einen Kaffee? (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Möchtest du ein Kaffee? (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Möchtest du eine Kaffee? (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Möchtest du der Kaffee? (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Möchtest du einen Kaffee?",
+            "Möchtest du ein Kaffee?",
+            "Möchtest du eine Kaffee?",
+            "Möchtest du der Kaffee?"
           ],
           "answerIndex": 0,
           "explanation": "einen Kaffee is masculine accusative."
@@ -3777,10 +3781,10 @@
         {
           "prompt": "How does Elena describe her daily study habit with V2 inversion and Vokalwechsel?",
           "options": [
-            "Jeden Tag lese ich deutsche Nachrichten. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Jeden Tag ich lese deutsche Nachrichten. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Jeden Tag deutsche Nachrichten ich lese. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Lese jeden Tag ich Nachrichten. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Jeden Tag lese ich deutsche Nachrichten.",
+            "Jeden Tag ich lese deutsche Nachrichten.",
+            "Jeden Tag deutsche Nachrichten ich lese.",
+            "Lese jeden Tag ich Nachrichten."
           ],
           "answerIndex": 0,
           "explanation": "Jeden Tag (1) + lese (2) + ich (3)."
@@ -3792,10 +3796,10 @@
         {
           "prompt": "Translate: 'After the coffee break, I will give you the key to the office.' (der Schlüssel = masc)",
           "options": [
-            "Nach der Kaffeepause gebe ich dir ein Schlüssel. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Nach der Kaffeepause gebe ich dir den Schlüssel. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Gebe ich nach der Kaffeepause der Schlüssel. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Nach der Kaffeepause ich gebe dir der Schlüssel. (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Nach der Kaffeepause gebe ich dir ein Schlüssel.",
+            "Nach der Kaffeepause gebe ich dir den Schlüssel.",
+            "Gebe ich nach der Kaffeepause der Schlüssel.",
+            "Nach der Kaffeepause ich gebe dir der Schlüssel."
           ],
           "answerIndex": 1,
           "explanation": "Nach der Kaffeepause (1) + gebe (2) + ich (3) + den Schlüssel (masc acc)."
@@ -3803,10 +3807,10 @@
         {
           "prompt": "What milk alternative does Elena order with her cappuccino in the Berlin café?",
           "options": [
-            "Hafermilch (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Sojamilch (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Mandelmilch (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Kuhmilch (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Hafermilch",
+            "Sojamilch",
+            "Mandelmilch",
+            "Kuhmilch"
           ],
           "answerIndex": 0,
           "explanation": "Hafermilch (oat milk)."
@@ -3818,10 +3822,10 @@
         {
           "prompt": "Welche drei grammatischen Hauptthemen wurden in der Einheit 4 des Deutschkurses gemeistert?",
           "options": [
-            "Nur das Perfekt im Passiv (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
+            "Nur das Perfekt im Passiv",
             "Präsenskonjugation (V2-Inversion)",
-            "Nur Possessivpronomen im Dativ (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Das deutsche Alphabet (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Nur Possessivpronomen im Dativ",
+            "Das deutsche Alphabet"
           ],
           "answerIndex": 1,
           "explanation": "Unit 4 master grammar synthesis.",
@@ -3830,10 +3834,10 @@
         {
           "prompt": "In dem Satz 'Nach der Pause trinken wir einen Tee' steht das Verb 'trinken' auf welcher Position?",
           "options": [
-            "Auf Position 2 (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Auf Position 3 (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Am Satzende (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Auf Position 1 (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Auf Position 2",
+            "Auf Position 3",
+            "Am Satzende",
+            "Auf Position 1"
           ],
           "answerIndex": 0,
           "explanation": "Strictly Position 2.",
@@ -3842,10 +3846,10 @@
         {
           "prompt": "Warum heißt es 'Ich gebe dir DEN Schlüssel' mit 'den'?",
           "options": [
-            "Weil es Plural ist (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Weil der Schlüssel weiblich ist (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Es ist ein Dativobjekt (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Weil 'der Schlüssel' maskulin ist und als direktes Objekt im Akkusativ steht (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Weil es Plural ist",
+            "Weil der Schlüssel weiblich ist",
+            "Es ist ein Dativobjekt",
+            "Weil 'der Schlüssel' maskulin ist und als direktes Objekt im Akkusativ steht"
           ],
           "answerIndex": 3,
           "explanation": "Masculine direct object in the accusative case.",
@@ -3854,10 +3858,10 @@
         {
           "prompt": "Wie lautet die korrekte 2. Person Singular von 'sprechen'?",
           "options": [
-            "du sprechst (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "du sprache (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "du sprichst (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "du sprecht (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "du sprechst",
+            "du sprache",
+            "du sprichst",
+            "du sprecht"
           ],
           "answerIndex": 2,
           "explanation": "sprechen -> du sprichst.",
@@ -3866,10 +3870,10 @@
         {
           "prompt": "Was zeichnet die Arbeitskultur in Berliner Startup-Bezirken wie Mitte und Kreuzberg aus?",
           "options": [
-            "Ausschließliche Verwendung von Latein (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Internationale, mehrsprachige Teams mit fließendem Übergang zwischen Deutsch und Englisch im Arbeitsalltag (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Verbot von Computern (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)",
-            "Nur traditionelle Handwerksbetriebe (Participate in a multiturn German dialogue at a Berlin tech startup in Mitte  Kreuzberg)"
+            "Ausschließliche Verwendung von Latein",
+            "Internationale, mehrsprachige Teams mit fließendem Übergang zwischen Deutsch und Englisch im Arbeitsalltag",
+            "Verbot von Computern",
+            "Nur traditionelle Handwerksbetriebe"
           ],
           "answerIndex": 1,
           "explanation": "Modern international multilingual workplace culture.",
@@ -3922,10 +3926,10 @@
         {
           "prompt": "Where does the separable prefix 'auf' go in the sentence 'Ich _____ (aufstehen) um 7 Uhr'?",
           "options": [
-            "Attached to the verb: Ich aufstehe um 7 Uhr. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Before the subject: Auf ich stehe um 7 Uhr. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "After the subject: Ich auf stehe um 7 Uhr. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "At the very end: Ich stehe um 7 Uhr auf. (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "Attached to the verb: Ich aufstehe um 7 Uhr.",
+            "Before the subject: Auf ich stehe um 7 Uhr.",
+            "After the subject: Ich auf stehe um 7 Uhr.",
+            "At the very end: Ich stehe um 7 Uhr auf."
           ],
           "answerIndex": 3,
           "explanation": "Separable prefixes move to the final position of the main clause: [S + V(stem) + ... + Prefix]."
@@ -3933,10 +3937,10 @@
         {
           "prompt": "Choose the correct sentence for 'Maximilian is tidying up his room':",
           "options": [
-            "Maximilian ist aufräumen sein Zimmer. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Maximilian räumt auf sein Zimmer. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Maximilian räumt sein Zimmer auf. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Maximilian aufräumt sein Zimmer. (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "Maximilian ist aufräumen sein Zimmer.",
+            "Maximilian räumt auf sein Zimmer.",
+            "Maximilian räumt sein Zimmer auf.",
+            "Maximilian aufräumt sein Zimmer."
           ],
           "answerIndex": 2,
           "explanation": "aufräumen splits: räumt ... auf."
@@ -3948,10 +3952,10 @@
         {
           "prompt": "Translate: 'Do you want to come along?' (informal, mitkommen)",
           "options": [
-            "Mitkommst du? (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Du kommst mit nicht? (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Kommst du mitkommen? (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Kommst du mit? (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "Mitkommst du?",
+            "Du kommst mit nicht?",
+            "Kommst du mitkommen?",
+            "Kommst du mit?"
           ],
           "answerIndex": 3,
           "explanation": "Kommst du mit? (mit moves to the end)."
@@ -3959,10 +3963,10 @@
         {
           "prompt": "Translate: 'We are watching television in the evening.' (fernsehen)",
           "options": [
-            "Wir fernsehen am Abend. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Wir sehen fern am Abend. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Wir am Abend fernsehen. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Wir sehen am Abend fern. (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "Wir fernsehen am Abend.",
+            "Wir sehen fern am Abend.",
+            "Wir am Abend fernsehen.",
+            "Wir sehen am Abend fern."
           ],
           "answerIndex": 3,
           "explanation": "Wir sehen ... fern."
@@ -3974,10 +3978,10 @@
         {
           "prompt": "What rule governs the placement of separable prefixes in German main clauses?",
           "options": [
-            "The conjugated verb stem takes Position 2, while the prefix moves to the very end of the clause. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "The prefix moves to Position 1 before the subject. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "The prefix is omitted in the present tense. (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "The prefix remains glued to the front of the verb in all tenses. (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "The conjugated verb stem takes Position 2, while the prefix moves to the very end of the clause.",
+            "The prefix moves to Position 1 before the subject.",
+            "The prefix is omitted in the present tense.",
+            "The prefix remains glued to the front of the verb in all tenses."
           ],
           "answerIndex": 0,
           "explanation": "The prefix separates and lands at the final position of the independent clause.",
@@ -3986,10 +3990,10 @@
         {
           "prompt": "Fill in the blank: 'Lukas _____ jeden Samstag im Supermarkt _____.' (einkaufen)",
           "options": [
-            "einkauft ... - (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "kaufst ... ein (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "kaufen ... ein (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "kauft ... ein (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "einkauft ... -",
+            "kaufst ... ein",
+            "kaufen ... ein",
+            "kauft ... ein"
           ],
           "answerIndex": 3,
           "explanation": "Lukas (er) kauft ... ein.",
@@ -3998,10 +4002,10 @@
         {
           "prompt": "Translate: 'Wann stehst du sonntags auf?'",
           "options": [
-            "Why do you sleep on Sundays? (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "What do you eat on Sundays? (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "When do you get up on Sundays? (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "Where do you go on Sundays? (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "Why do you sleep on Sundays?",
+            "What do you eat on Sundays?",
+            "When do you get up on Sundays?",
+            "Where do you go on Sundays?"
           ],
           "answerIndex": 2,
           "explanation": "aufstehen = to get up, sonntags = on Sundays.",
@@ -4010,10 +4014,10 @@
         {
           "prompt": "Which verb is a separable prefix verb?",
           "options": [
-            "gefallen (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "anrufen (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "bekommen (Master German separable prefix verbs trennbare Verben in the present tense)",
-            "verstehen (Master German separable prefix verbs trennbare Verben in the present tense)"
+            "gefallen",
+            "anrufen",
+            "bekommen",
+            "verstehen"
           ],
           "answerIndex": 1,
           "explanation": "an- is a stressed separable prefix; ver-, be-, and ge- are inseparable.",
@@ -4066,10 +4070,10 @@
         {
           "prompt": "What is the correct 'du' form of 'lesen' (to read)?",
           "options": [
-            "liest (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "leste (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "lest (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "lesest (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "liest",
+            "leste",
+            "lest",
+            "lesest"
           ],
           "answerIndex": 0,
           "explanation": "e -> ie vowel change: du liest."
@@ -4077,10 +4081,10 @@
         {
           "prompt": "Choose the correct form of 'fahren' for 'Mein Bruder' (My brother / er):",
           "options": [
-            "fährt (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "fahrt (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "fahren (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "fahre (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "fährt",
+            "fahrt",
+            "fahren",
+            "fahre"
           ],
           "answerIndex": 0,
           "explanation": "a -> ä vowel change: er fährt."
@@ -4092,10 +4096,10 @@
         {
           "prompt": "Translate: 'Does your daughter sleep well at night?'",
           "options": [
-            "Schlaft deine Tochter nachts gut? (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Schlafe deine Tochter nachts gut? (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Schläft deine Tochter nachts gut? (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Schlafen deine Tochter nachts gut? (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "Schlaft deine Tochter nachts gut?",
+            "Schlafe deine Tochter nachts gut?",
+            "Schläft deine Tochter nachts gut?",
+            "Schlafen deine Tochter nachts gut?"
           ],
           "answerIndex": 2,
           "explanation": "schlafen -> sie schläft."
@@ -4103,10 +4107,10 @@
         {
           "prompt": "Conjugate 'helfen' for 'du':",
           "options": [
-            "helfst (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "helft (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "hilft (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "hilfst (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "helfst",
+            "helft",
+            "hilft",
+            "hilfst"
           ],
           "answerIndex": 3,
           "explanation": "helfen has e -> i change: du hilfst."
@@ -4119,8 +4123,8 @@
           "prompt": "For which grammatical persons does the stem-vowel change (Vokalwechsel) occur in regular German strong present tense verbs?",
           "options": [
             "Only in the plural forms ('wir', 'ihr', 'sie')",
-            "For all persons including 'ich' and 'wir'. (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Only for 'ich'. (Conjugate stemvowel changing verbs Vokalwechsel)",
+            "For all persons including 'ich' and 'wir'.",
+            "Only for 'ich'.",
             "Only for 'du' (2nd person singular)"
           ],
           "answerIndex": 3,
@@ -4130,10 +4134,10 @@
         {
           "prompt": "Choose the correct sentence for 'Sarah speaks three languages fluently':",
           "options": [
-            "Sarah spreche drei Sprachen fließend. (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Sarah sprechen drei Sprachen fließend. (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Sarah spricht drei Sprachen fließend. (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Sarah sprecht drei Sprachen fließend. (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "Sarah spreche drei Sprachen fließend.",
+            "Sarah sprechen drei Sprachen fließend.",
+            "Sarah spricht drei Sprachen fließend.",
+            "Sarah sprecht drei Sprachen fließend."
           ],
           "answerIndex": 2,
           "explanation": "Sarah (sie) spricht (e -> i).",
@@ -4142,10 +4146,10 @@
         {
           "prompt": "Translate: 'Isst du heute Abend Pizza oder Pasta?'",
           "options": [
-            "Do you buy pizza or pasta tonight? (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Are you eating pizza or pasta tonight? (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Are we ordering pizza or pasta tonight? (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "Are you cooking pizza or pasta tonight? (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "Do you buy pizza or pasta tonight?",
+            "Are you eating pizza or pasta tonight?",
+            "Are we ordering pizza or pasta tonight?",
+            "Are you cooking pizza or pasta tonight?"
           ],
           "answerIndex": 1,
           "explanation": "essen -> du isst (Are you eating).",
@@ -4154,10 +4158,10 @@
         {
           "prompt": "Which verb exhibits an $a \\rightarrow \\ddot{a}$ vowel shift in the present tense?",
           "options": [
-            "schlafen (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "kaufen (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "fragen (Conjugate stemvowel changing verbs Vokalwechsel)",
-            "machen (Conjugate stemvowel changing verbs Vokalwechsel)"
+            "schlafen",
+            "kaufen",
+            "fragen",
+            "machen"
           ],
           "answerIndex": 0,
           "explanation": "schlafen undergoes vowel shift to schläft.",
@@ -4210,10 +4214,10 @@
         {
           "prompt": "Apply Verb-Second order: 'Dann' (Pos 1) + 'ich' (Subject) + 'mache' (Verb) + 'Sport' = ?",
           "options": [
-            "Dann ich mache Sport. (Sequence daily activities using temporal adverbs zuerst)",
-            "Dann Sport mache ich. (Sequence daily activities using temporal adverbs zuerst)",
-            "Ich mache dann Sport. (Sequence daily activities using temporal adverbs zuerst)",
-            "Dann mache ich Sport. (Sequence daily activities using temporal adverbs zuerst)"
+            "Dann ich mache Sport.",
+            "Dann Sport mache ich.",
+            "Ich mache dann Sport.",
+            "Dann mache ich Sport."
           ],
           "answerIndex": 3,
           "explanation": "Verb-Second rule: [Dann (1) + mache (2) + ich (3) + Sport]."
@@ -4221,10 +4225,10 @@
         {
           "prompt": "Which preposition is used for exact clock times (e.g. 7:30)?",
           "options": [
-            "am (Sequence daily activities using temporal adverbs zuerst)",
-            "im (Sequence daily activities using temporal adverbs zuerst)",
-            "an (Sequence daily activities using temporal adverbs zuerst)",
-            "um (Sequence daily activities using temporal adverbs zuerst)"
+            "am",
+            "im",
+            "an",
+            "um"
           ],
           "answerIndex": 3,
           "explanation": "'um' is used for clock times."
@@ -4236,10 +4240,10 @@
         {
           "prompt": "Translate: 'On Saturday I sleep until 10 o'clock.'",
           "options": [
-            "Am Samstag schlafe ich bis 10 Uhr. (Sequence daily activities using temporal adverbs zuerst)",
-            "Am Samstag ich schlafe bis 10 Uhr. (Sequence daily activities using temporal adverbs zuerst)",
-            "Samstag schlafe ich um 10 Uhr. (Sequence daily activities using temporal adverbs zuerst)",
-            "Im Samstag schlafe ich bis 10 Uhr. (Sequence daily activities using temporal adverbs zuerst)"
+            "Am Samstag schlafe ich bis 10 Uhr.",
+            "Am Samstag ich schlafe bis 10 Uhr.",
+            "Samstag schlafe ich um 10 Uhr.",
+            "Im Samstag schlafe ich bis 10 Uhr."
           ],
           "answerIndex": 0,
           "explanation": "Am Samstag (Pos 1) + schlafe (Pos 2) + ich (Pos 3) + bis 10 Uhr."
@@ -4247,10 +4251,10 @@
         {
           "prompt": "Which temporal sequence means 'First..., then..., after that...'?",
           "options": [
-            "Zuerst..., dann..., danach... (Sequence daily activities using temporal adverbs zuerst)",
-            "Immer..., nie..., oft... (Sequence daily activities using temporal adverbs zuerst)",
-            "Gestern..., heute..., morgen... (Sequence daily activities using temporal adverbs zuerst)",
-            "Hier..., dort..., da... (Sequence daily activities using temporal adverbs zuerst)"
+            "Zuerst..., dann..., danach...",
+            "Immer..., nie..., oft...",
+            "Gestern..., heute..., morgen...",
+            "Hier..., dort..., da..."
           ],
           "answerIndex": 0,
           "explanation": "zuerst (first), dann (then), danach (after that)."
@@ -4262,10 +4266,10 @@
         {
           "prompt": "What happens to the word order when a German sentence begins with a temporal adverb like 'Danach'?",
           "options": [
-            "The subject stays in Position 2 before the verb. (Sequence daily activities using temporal adverbs zuerst)",
-            "No change occurs. (Sequence daily activities using temporal adverbs zuerst)",
+            "The subject stays in Position 2 before the verb.",
+            "No change occurs.",
             "The verb takes Position 2, immediately followed by the subject (Inversion)",
-            "The verb moves to the very end of the sentence. (Sequence daily activities using temporal adverbs zuerst)"
+            "The verb moves to the very end of the sentence."
           ],
           "answerIndex": 2,
           "explanation": "The Verb-Second constraint forces the subject to follow the verb: [Danach + Verb + Subject].",
@@ -4274,10 +4278,10 @@
         {
           "prompt": "Select the grammatically correct sentence:",
           "options": [
-            "Koche am Abend ich mit meiner Freundin. (Sequence daily activities using temporal adverbs zuerst)",
-            "Am Abend koche ich mit meiner Freundin. (Sequence daily activities using temporal adverbs zuerst)",
-            "Am Abend ich koche mit meiner Freundin. (Sequence daily activities using temporal adverbs zuerst)",
-            "Am Abend kochen ich mit meiner Freundin. (Sequence daily activities using temporal adverbs zuerst)"
+            "Koche am Abend ich mit meiner Freundin.",
+            "Am Abend koche ich mit meiner Freundin.",
+            "Am Abend ich koche mit meiner Freundin.",
+            "Am Abend kochen ich mit meiner Freundin."
           ],
           "answerIndex": 1,
           "explanation": "Am Abend (1) + koche (2) + ich (3).",
@@ -4286,10 +4290,10 @@
         {
           "prompt": "Translate: 'Von wann bis wann arbeiten Sie?'",
           "options": [
-            "From when to when do you work? (Sequence daily activities using temporal adverbs zuerst)",
-            "Where do you work? (Sequence daily activities using temporal adverbs zuerst)",
-            "Why do you work so much? (Sequence daily activities using temporal adverbs zuerst)",
-            "How do you travel to work? (Sequence daily activities using temporal adverbs zuerst)"
+            "From when to when do you work?",
+            "Where do you work?",
+            "Why do you work so much?",
+            "How do you travel to work?"
           ],
           "answerIndex": 0,
           "explanation": "von wann bis wann = from when until when.",
@@ -4298,10 +4302,10 @@
         {
           "prompt": "Which prepositional phrase means 'in the morning'?",
           "options": [
-            "um Morgen (Sequence daily activities using temporal adverbs zuerst)",
-            "im Morgen (Sequence daily activities using temporal adverbs zuerst)",
-            "auf Morgen (Sequence daily activities using temporal adverbs zuerst)",
-            "am Morgen (Sequence daily activities using temporal adverbs zuerst)"
+            "um Morgen",
+            "im Morgen",
+            "auf Morgen",
+            "am Morgen"
           ],
           "answerIndex": 3,
           "explanation": "am Morgen = in the morning.",
@@ -4355,9 +4359,9 @@
           "prompt": "Where is the main lexical verb placed in a German clause with a modal verb?",
           "options": [
             "At the very end of the clause in the infinitive form (Pos 2)",
-            "Before the subject. (Express obligations)",
-            "At the beginning of the sentence. (Express obligations)",
-            "Immediately after the modal verb in Position 3. (Express obligations)"
+            "Before the subject.",
+            "At the beginning of the sentence.",
+            "Immediately after the modal verb in Position 3."
           ],
           "answerIndex": 0,
           "explanation": "The main verb appears as an infinitive at the end of the clause."
@@ -4365,10 +4369,10 @@
         {
           "prompt": "What is the 'er' form of 'müssen' (must)?",
           "options": [
-            "muss (Express obligations)",
-            "musst (Express obligations)",
-            "müsste (Express obligations)",
-            "müsst (Express obligations)"
+            "muss",
+            "musst",
+            "müsste",
+            "müsst"
           ],
           "answerIndex": 0,
           "explanation": "ich muss / er muss (1st and 3rd person singular have no suffix)."
@@ -4380,10 +4384,10 @@
         {
           "prompt": "Translate: 'Can you (informal) come to the party tonight?'",
           "options": [
-            "Kannst du heute Abend zur Party kommen? (Express obligations)",
-            "Können du heute Abend zur Party kommen? (Express obligations)",
-            "Kannst du kommen heute Abend zur Party? (Express obligations)",
-            "Du kannst heute Abend zur Party kommen nicht? (Express obligations)"
+            "Kannst du heute Abend zur Party kommen?",
+            "Können du heute Abend zur Party kommen?",
+            "Kannst du kommen heute Abend zur Party?",
+            "Du kannst heute Abend zur Party kommen nicht?"
           ],
           "answerIndex": 0,
           "explanation": "Kannst du ... zur Party kommen? (infinitive 'kommen' at the end)."
@@ -4391,10 +4395,10 @@
         {
           "prompt": "Translate: 'We want to learn German.'",
           "options": [
-            "Wir wollen Deutsch lernen. (Express obligations)",
-            "Wir will Deutsch lernen. (Express obligations)",
-            "Wir wollt Deutsch lernen. (Express obligations)",
-            "Wir lernen Deutsch wollen. (Express obligations)"
+            "Wir wollen Deutsch lernen.",
+            "Wir will Deutsch lernen.",
+            "Wir wollt Deutsch lernen.",
+            "Wir lernen Deutsch wollen."
           ],
           "answerIndex": 0,
           "explanation": "Wir wollen Deutsch lernen."
@@ -4406,10 +4410,10 @@
         {
           "prompt": "What unique inflectional feature characterizes the present tense of German modal verbs in the singular?",
           "options": [
-            "They only conjugate in the plural. (Express obligations)",
-            "A stem-vowel change and identical zero-ending forms for 'ich' and 'er/sie/es' (Express obligations)",
-            "They take the suffix -st for all persons. (Express obligations)",
-            "They do not take umlauts. (Express obligations)"
+            "They only conjugate in the plural.",
+            "A stem-vowel change and identical zero-ending forms for 'ich' and 'er/sie/es'",
+            "They take the suffix -st for all persons.",
+            "They do not take umlauts."
           ],
           "answerIndex": 1,
           "explanation": "Singular modals have vowel shifts and zero ending for 1st and 3rd person.",
@@ -4418,10 +4422,10 @@
         {
           "prompt": "Choose the correctly constructed sentence for 'Felix has to clean his apartment today':",
           "options": [
-            "Felix muss heute seine Wohnung aufräumen. (Express obligations)",
-            "Felix muss aufräumen heute seine Wohnung. (Express obligations)",
-            "Felix aufräumt heute seine Wohnung muss. (Express obligations)",
-            "Felix muss heute seine Wohnung aufräumt. (Express obligations)"
+            "Felix muss heute seine Wohnung aufräumen.",
+            "Felix muss aufräumen heute seine Wohnung.",
+            "Felix aufräumt heute seine Wohnung muss.",
+            "Felix muss heute seine Wohnung aufräumt."
           ],
           "answerIndex": 0,
           "explanation": "muss (Pos 2) ... aufräumen (infinitive at the end, separable verb stays unified in infinitive!).",
@@ -4430,10 +4434,10 @@
         {
           "prompt": "Translate: 'Ich kann heute leider nicht kommen.'",
           "options": [
-            "I am coming today. (Express obligations)",
-            "I don't want to come today. (Express obligations)",
-            "I must not come today. (Express obligations)",
-            "Unfortunately, I cannot come today. (Express obligations)"
+            "I am coming today.",
+            "I don't want to come today.",
+            "I must not come today.",
+            "Unfortunately, I cannot come today."
           ],
           "answerIndex": 3,
           "explanation": "kann ... nicht kommen = cannot come, leider = unfortunately.",
@@ -4442,10 +4446,10 @@
         {
           "prompt": "Which sentence means 'What do you want to do this weekend?'",
           "options": [
-            "Was kannst du am Wochenende machen? (Express obligations)",
-            "Was musst du am Wochenende machen? (Express obligations)",
-            "Was willst du am Wochenende machen? (Express obligations)",
-            "Was sollst du am Wochenende machen? (Express obligations)"
+            "Was kannst du am Wochenende machen?",
+            "Was musst du am Wochenende machen?",
+            "Was willst du am Wochenende machen?",
+            "Was sollst du am Wochenende machen?"
           ],
           "answerIndex": 2,
           "explanation": "wollen expresses desire/intention: Was willst du ... machen?",
@@ -4498,10 +4502,10 @@
         {
           "prompt": "In the dialogue, how does Elena commute to work in Berlin?",
           "options": [
-            "Sie fährt mit der U-Bahn. (Integrate separable verbs)",
-            "Sie fährt mit dem Auto. (Integrate separable verbs)",
-            "Sie geht zu Fuß zehn Kilometer. (Integrate separable verbs)",
-            "Sie fliegt mit dem Flugzeug. (Integrate separable verbs)"
+            "Sie fährt mit der U-Bahn.",
+            "Sie fährt mit dem Auto.",
+            "Sie geht zu Fuß zehn Kilometer.",
+            "Sie fliegt mit dem Flugzeug."
           ],
           "answerIndex": 0,
           "explanation": "Elena states: 'Dann fahre ich mit der U-Bahn zur Arbeit.'"
@@ -4509,10 +4513,10 @@
         {
           "prompt": "What German cultural concept denotes the official end of the workday and the start of personal free time?",
           "options": [
-            "Feierabend (Integrate separable verbs)",
-            "Frühstück (Integrate separable verbs)",
-            "Morgenstunde (Integrate separable verbs)",
-            "Mittagspause (Integrate separable verbs)"
+            "Feierabend",
+            "Frühstück",
+            "Morgenstunde",
+            "Mittagspause"
           ],
           "answerIndex": 0,
           "explanation": "Feierabend is the daily post-work leisure transition."
@@ -4524,10 +4528,10 @@
         {
           "prompt": "Translate: 'First I eat breakfast, then I go to work.'",
           "options": [
-            "Zuerst frühstücken ich, dann gehen ich zur Arbeit. (Integrate separable verbs)",
-            "Zuerst frühstücke ich, dann gehe ich zur Arbeit. (Integrate separable verbs)",
-            "Frühstücke zuerst ich, gehe dann ich zur Arbeit. (Integrate separable verbs)",
-            "Zuerst ich frühstücke, dann ich gehe zur Arbeit. (Integrate separable verbs)"
+            "Zuerst frühstücken ich, dann gehen ich zur Arbeit.",
+            "Zuerst frühstücke ich, dann gehe ich zur Arbeit.",
+            "Frühstücke zuerst ich, gehe dann ich zur Arbeit.",
+            "Zuerst ich frühstücke, dann ich gehe zur Arbeit."
           ],
           "answerIndex": 1,
           "explanation": "Zuerst frühstücke ich (V2), dann gehe ich (V2) zur Arbeit."
@@ -4535,10 +4539,10 @@
         {
           "prompt": "Translate: 'Do you want to come along to the beer garden?'",
           "options": [
-            "Willst du in den Biergarten mitkommen? (Integrate separable verbs)",
-            "Kannst du in den Biergarten mitkommen nicht? (Integrate separable verbs)",
-            "Kommst du in den Biergarten wollen? (Integrate separable verbs)",
-            "Musst du in den Biergarten mitkommen? (Integrate separable verbs)"
+            "Willst du in den Biergarten mitkommen?",
+            "Kannst du in den Biergarten mitkommen nicht?",
+            "Kommst du in den Biergarten wollen?",
+            "Musst du in den Biergarten mitkommen?"
           ],
           "answerIndex": 0,
           "explanation": "Willst du ... mitkommen?"
@@ -4550,10 +4554,10 @@
         {
           "prompt": "Which sentence demonstrates accurate separable verb placement in an independent clause?",
           "options": [
-            "Der Deutschunterricht fängt um 9 Uhr an. (Integrate separable verbs)",
-            "Der Deutschunterricht anfängt um 9 Uhr. (Integrate separable verbs)",
-            "Der Deutschunterricht fängt an um 9 Uhr. (Integrate separable verbs)",
-            "Der Deutschunterricht ist anfangen um 9 Uhr. (Integrate separable verbs)"
+            "Der Deutschunterricht fängt um 9 Uhr an.",
+            "Der Deutschunterricht anfängt um 9 Uhr.",
+            "Der Deutschunterricht fängt an um 9 Uhr.",
+            "Der Deutschunterricht ist anfangen um 9 Uhr."
           ],
           "answerIndex": 0,
           "explanation": "anfangen separates: fängt ... an.",
@@ -4562,10 +4566,10 @@
         {
           "prompt": "Which sentence demonstrates accurate Verb-Second inversion after a temporal adverb?",
           "options": [
-            "Danach ich rufe meinen Kollegen an. (Integrate separable verbs)",
-            "Danach anrufe ich meinen Kollegen. (Integrate separable verbs)",
-            "Danach ich meinen Kollegen anrufe. (Integrate separable verbs)",
-            "Danach rufe ich meinen Kollegen an. (Integrate separable verbs)"
+            "Danach ich rufe meinen Kollegen an.",
+            "Danach anrufe ich meinen Kollegen.",
+            "Danach ich meinen Kollegen anrufe.",
+            "Danach rufe ich meinen Kollegen an."
           ],
           "answerIndex": 3,
           "explanation": "Danach (1) + rufe (2) + ich (3) ... an (End).",
@@ -4574,10 +4578,10 @@
         {
           "prompt": "What does wishing someone 'Schönen Feierabend!' mean in Germany?",
           "options": [
-            "Happy birthday! (Integrate separable verbs)",
-            "Good morning! (Integrate separable verbs)",
-            "Have a great evening after work! (Integrate separable verbs)",
-            "Have a nice weekend trip! (Integrate separable verbs)"
+            "Happy birthday!",
+            "Good morning!",
+            "Have a great evening after work!",
+            "Have a nice weekend trip!"
           ],
           "answerIndex": 2,
           "explanation": "Feierabend marks the end of the working day.",
@@ -4586,10 +4590,10 @@
         {
           "prompt": "What core grammatical structures were mastered throughout Unit 5 in German?",
           "options": [
-            "Passive subjunctive forms only (Integrate separable verbs)",
-            "Separable prefix verbs, stem-vowel shifts (Integrate separable verbs)",
-            "Numbers and alphabet only (Integrate separable verbs)",
-            "Genitive prepositions only (Integrate separable verbs)"
+            "Passive subjunctive forms only",
+            "Separable prefix verbs, stem-vowel shifts",
+            "Numbers and alphabet only",
+            "Genitive prepositions only"
           ],
           "answerIndex": 1,
           "explanation": "Unit 5 foundational grammar and routine synthesis.",
@@ -4642,10 +4646,10 @@
         {
           "prompt": "What is the accusative direct object form of 'der Salat' in 'Ich bestelle _____ (ein Salat)'?",
           "options": [
-            "ein Salat (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "eine Salat (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "einem Salat (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "einen Salat (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "ein Salat",
+            "eine Salat",
+            "einem Salat",
+            "einen Salat"
           ],
           "answerIndex": 3,
           "explanation": "Masculine accusative: der Salat -> einen Salat."
@@ -4653,10 +4657,10 @@
         {
           "prompt": "What grammatical gender is 'das Brot'?",
           "options": [
-            "Plural (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Feminine (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Neuter (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Masculine (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "Plural",
+            "Feminine",
+            "Neuter",
+            "Masculine"
           ],
           "answerIndex": 2,
           "explanation": "das Brot is neuter."
@@ -4668,10 +4672,10 @@
         {
           "prompt": "Translate: 'We need butter and milk.'",
           "options": [
-            "Wir brauchen einen Butter und einen Milch. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Wir brauchen ein Butter und ein Milch. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Wir brauchen kein Butter und Milch. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Wir brauchen Butter und Milch. (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "Wir brauchen einen Butter und einen Milch.",
+            "Wir brauchen ein Butter und ein Milch.",
+            "Wir brauchen kein Butter und Milch.",
+            "Wir brauchen Butter und Milch."
           ],
           "answerIndex": 3,
           "explanation": "Butter and Milch are feminine mass nouns used without indefinite articles."
@@ -4679,10 +4683,10 @@
         {
           "prompt": "Which item is masculine in German?",
           "options": [
-            "das Ei (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "die Wurst (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "das Bier (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "der Apfel (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "das Ei",
+            "die Wurst",
+            "das Bier",
+            "der Apfel"
           ],
           "answerIndex": 3,
           "explanation": "der Apfel is masculine."
@@ -4694,10 +4698,10 @@
         {
           "prompt": "Match the German foods with their correct definite articles: Käse, Brot, Suppe:",
           "options": [
-            "das Käse, die Brot, der Suppe (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "die Käse, der Brot, das Suppe (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "der Käse, der Brot, der Suppe (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "der Käse, das Brot, die Suppe (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "das Käse, die Brot, der Suppe",
+            "die Käse, der Brot, das Suppe",
+            "der Käse, der Brot, der Suppe",
+            "der Käse, das Brot, die Suppe"
           ],
           "answerIndex": 3,
           "explanation": "der Käse (masc), das Brot (neut), die Suppe (fem).",
@@ -4706,10 +4710,10 @@
         {
           "prompt": "Translate: 'Ich trinke jeden Morgen ein Glas Orangensaft.'",
           "options": [
-            "I drink a cup of coffee every morning. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "I eat an orange every morning. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "I drink a glass of orange juice every morning. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "I buy orange juice on weekends. (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "I drink a cup of coffee every morning.",
+            "I eat an orange every morning.",
+            "I drink a glass of orange juice every morning.",
+            "I buy orange juice on weekends."
           ],
           "answerIndex": 2,
           "explanation": "ein Glas Orangensaft = a glass of orange juice.",
@@ -4718,10 +4722,10 @@
         {
           "prompt": "Why does 'der Kaffee' become 'einen Kaffee' in 'Ich möchte einen Kaffee'?",
           "options": [
-            "Because it is plural. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Because 'Kaffee' is the direct object in the Accusative case, changing masculine 'der/ein' to 'den/einen'. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Because it is a question. (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "Because 'möchte' requires Dative. (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "Because it is plural.",
+            "Because 'Kaffee' is the direct object in the Accusative case, changing masculine 'der/ein' to 'den/einen'.",
+            "Because it is a question.",
+            "Because 'möchte' requires Dative."
           ],
           "answerIndex": 1,
           "explanation": "Transitive verbs govern the Accusative case for direct objects.",
@@ -4730,10 +4734,10 @@
         {
           "prompt": "What is 'das Brötchen' called regionally in Bavaria and Austria?",
           "options": [
-            "die Semmel (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "die Schrippe (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "das Baguette (Classify core food and beverage vocabulary with correct grammatical genders der)",
-            "das Weckle (Classify core food and beverage vocabulary with correct grammatical genders der)"
+            "die Semmel",
+            "die Schrippe",
+            "das Baguette",
+            "das Weckle"
           ],
           "answerIndex": 0,
           "explanation": "In Bavaria and Austria, bread rolls are known as 'die Semmel'.",
@@ -4786,10 +4790,10 @@
         {
           "prompt": "How do you politely say 'I would like a coffee, please'?",
           "options": [
-            "Ich möchte bitte einen Kaffee. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Kaffee ist da. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Ich will sofort Kaffee. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Ich habe Kaffee. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "Ich möchte bitte einen Kaffee.",
+            "Kaffee ist da.",
+            "Ich will sofort Kaffee.",
+            "Ich habe Kaffee."
           ],
           "answerIndex": 0,
           "explanation": "Ich möchte bitte einen Kaffee is the standard polite formulation."
@@ -4797,10 +4801,10 @@
         {
           "prompt": "What is the 'wir' (we) form of 'möchten'?",
           "options": [
-            "wir möchten (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "wir möchtet (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "wir gemocht (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "wir möchte (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "wir möchten",
+            "wir möchtet",
+            "wir gemocht",
+            "wir möchte"
           ],
           "answerIndex": 0,
           "explanation": "wir möchten."
@@ -4812,10 +4816,10 @@
         {
           "prompt": "Translate: 'What would you (formal) like to eat?'",
           "options": [
-            "Was willst du essen? (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Was isst du gern? (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Was möchten Sie essen? (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Was kochen Sie heute? (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "Was willst du essen?",
+            "Was isst du gern?",
+            "Was möchten Sie essen?",
+            "Was kochen Sie heute?"
           ],
           "answerIndex": 2,
           "explanation": "Was möchten Sie essen? (polite formal inquiry)."
@@ -4823,10 +4827,10 @@
         {
           "prompt": "How do you ask for 'another beer, please'?",
           "options": [
-            "Kein Bier, bitte! (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Ein Bier war schlecht! (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Bier ist teuer! (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "Noch ein Bier, bitte! (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "Kein Bier, bitte!",
+            "Ein Bier war schlecht!",
+            "Bier ist teuer!",
+            "Noch ein Bier, bitte!"
           ],
           "answerIndex": 3,
           "explanation": "'Noch ein...' means 'another / one more'."
@@ -4838,10 +4842,10 @@
         {
           "prompt": "Why is 'Ich möchte' preferred over 'Ich will' when ordering in German restaurants?",
           "options": [
-            "'Ich möchte' is only used in Bavaria. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "There is no difference. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
+            "'Ich möchte' is only used in Bavaria.",
+            "There is no difference.",
             "'Ich möchte' expresses polite subjunctive desire ('I would like')",
-            "'Ich will' is grammatically incorrect in the present tense. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "'Ich will' is grammatically incorrect in the present tense."
           ],
           "answerIndex": 2,
           "explanation": "'Ich möchte' is the polite standard across the German-speaking world.",
@@ -4850,10 +4854,10 @@
         {
           "prompt": "What will a server ask you if you simply order 'Wasser' (water) in Germany?",
           "options": [
-            "'Aus dem Fluss?' (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "'Mit oder ohne Kohlensäure?' (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "'Mit Zucker?' (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "'Warm oder kalt?' (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "'Aus dem Fluss?'",
+            "'Mit oder ohne Kohlensäure?'",
+            "'Mit Zucker?'",
+            "'Warm oder kalt?'"
           ],
           "answerIndex": 1,
           "explanation": "Servers distinguish sparkling (mit Kohlensäure) vs. still (ohne / stilles Wasser).",
@@ -4862,10 +4866,10 @@
         {
           "prompt": "Translate: 'Wir möchten gern die Rechnung haben.'",
           "options": [
-            "We would like to have the bill, please. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "We want to order more food. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "We would like to cancel the order. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "We would like to see the menu. (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "We would like to have the bill, please.",
+            "We want to order more food.",
+            "We would like to cancel the order.",
+            "We would like to see the menu."
           ],
           "answerIndex": 0,
           "explanation": "die Rechnung = the bill.",
@@ -4874,10 +4878,10 @@
         {
           "prompt": "Fill in the blank: 'Lisa _____ (möchten) ein Stück Apfelkuchen.'",
           "options": [
-            "möchtet (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "möchtest (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "möchten (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)",
-            "möchte (Order food and drinks politely in restaurants and cafs using the subjunctive modal mchten would like)"
+            "möchtet",
+            "möchtest",
+            "möchten",
+            "möchte"
           ],
           "answerIndex": 3,
           "explanation": "Lisa (sie) möchte.",
@@ -4930,10 +4934,10 @@
         {
           "prompt": "Which sentence correctly uses 'mögen' with a noun?",
           "options": [
-            "Ich mag esse Pizza. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Ich gern Pizza. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Ich lieber Pizza essen. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Ich mag italienische Pizza. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "Ich mag esse Pizza.",
+            "Ich gern Pizza.",
+            "Ich lieber Pizza essen.",
+            "Ich mag italienische Pizza."
           ],
           "answerIndex": 3,
           "explanation": "'mögen' takes a direct object noun: Ich mag italienische Pizza."
@@ -4941,10 +4945,10 @@
         {
           "prompt": "What is the 'er' form of 'mögen'?",
           "options": [
-            "mögt (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "magst (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "mögen (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "mag (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "mögt",
+            "magst",
+            "mögen",
+            "mag"
           ],
           "answerIndex": 3,
           "explanation": "ich mag / er mag (singular vowel shift without ending)."
@@ -4956,10 +4960,10 @@
         {
           "prompt": "Translate: 'I prefer to drink tea with lemon.'",
           "options": [
-            "Ich trinke lieber Tee mit Zitrone. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Ich trinke gern Tee mit Zitrone. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Ich trinke am liebsten Tee mit Zitrone. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Ich mag nicht Tee mit Zitrone. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "Ich trinke lieber Tee mit Zitrone.",
+            "Ich trinke gern Tee mit Zitrone.",
+            "Ich trinke am liebsten Tee mit Zitrone.",
+            "Ich mag nicht Tee mit Zitrone."
           ],
           "answerIndex": 0,
           "explanation": "lieber = prefer."
@@ -4967,10 +4971,10 @@
         {
           "prompt": "Translate: 'Am liebsten esse ich Apfelstrudel.'",
           "options": [
-            "Most of all I like eating apple strudel. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "I never eat apple strudel. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "I prefer apple strudel over cake. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "I don't like apple strudel. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "Most of all I like eating apple strudel.",
+            "I never eat apple strudel.",
+            "I prefer apple strudel over cake.",
+            "I don't like apple strudel."
           ],
           "answerIndex": 0,
           "explanation": "am liebsten = most of all / favorite."
@@ -4982,10 +4986,10 @@
         {
           "prompt": "What is the grammatical difference between 'Ich mag Bier' and 'Ich trinke gern Bier'?",
           "options": [
-            "There is no difference. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "'mögen' is a verb taking a noun object; 'gern' is an adverb modifying the action verb 'trinken'. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "'gern' is only used in past tense. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "'mögen' is only used for people. (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "There is no difference.",
+            "'mögen' is a verb taking a noun object; 'gern' is an adverb modifying the action verb 'trinken'.",
+            "'gern' is only used in past tense.",
+            "'mögen' is only used for people."
           ],
           "answerIndex": 1,
           "explanation": "'mag' + noun vs. verb + 'gern'.",
@@ -4994,10 +4998,10 @@
         {
           "prompt": "Conjugate 'mögen' for 'du':",
           "options": [
-            "magst (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "mögest (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "mag (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "mögst (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "magst",
+            "mögest",
+            "mag",
+            "mögst"
           ],
           "answerIndex": 0,
           "explanation": "du magst.",
@@ -5006,9 +5010,9 @@
         {
           "prompt": "Arrange in ascending order of preference: gern, am liebsten, lieber:",
           "options": [
-            "am liebsten -> lieber -> gern (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "gern -> am liebsten -> lieber (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "lieber -> gern -> am liebsten (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
+            "am liebsten -> lieber -> gern",
+            "gern -> am liebsten -> lieber",
+            "lieber -> gern -> am liebsten",
             "gern (like)"
           ],
           "answerIndex": 3,
@@ -5018,10 +5022,10 @@
         {
           "prompt": "Translate: 'Sind Sie Vegetarier?'",
           "options": [
-            "Is the food fresh? (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Are you the chef? (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Are you a vegetarian? (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)",
-            "Do you like vegetables? (Express food preferences and comparative likes using the modal verb mgen and preference adverbs gern  lieber  am liebsten)"
+            "Is the food fresh?",
+            "Are you the chef?",
+            "Are you a vegetarian?",
+            "Do you like vegetables?"
           ],
           "answerIndex": 2,
           "explanation": "Vegetarier = vegetarian.",
@@ -5218,10 +5222,10 @@
         {
           "prompt": "In the dialogue, what does Lukas order to eat and drink in the Munich beer garden?",
           "options": [
-            "Ein Schnitzel mit Kartoffelsalat, eine Brezel und ein Helles Bier (Integrate food vocabulary)",
-            "Pizza und Cola (Integrate food vocabulary)",
-            "Nur Wasser (Integrate food vocabulary)",
-            "Fisch und Pommes (Integrate food vocabulary)"
+            "Ein Schnitzel mit Kartoffelsalat, eine Brezel und ein Helles Bier",
+            "Pizza und Cola",
+            "Nur Wasser",
+            "Fisch und Pommes"
           ],
           "answerIndex": 0,
           "explanation": "Lukas orders Schnitzel, Kartoffelsalat, Brezel, and ein Helles."
@@ -5229,10 +5233,10 @@
         {
           "prompt": "How does Lukas pay for the €36.40 bill?",
           "options": [
-            "He gives €40 cash and says 'Machen Sie 40 Euro, bitte. Stimmt so!' (Integrate food vocabulary)",
-            "He refuses to pay (Integrate food vocabulary)",
-            "He asks for a discount (Integrate food vocabulary)",
-            "He leaves exact coins with no tip (Integrate food vocabulary)"
+            "He gives €40 cash and says 'Machen Sie 40 Euro, bitte. Stimmt so!'",
+            "He refuses to pay",
+            "He asks for a discount",
+            "He leaves exact coins with no tip"
           ],
           "answerIndex": 0,
           "explanation": "Lukas rounds up to €40 including tip."
@@ -5244,10 +5248,10 @@
         {
           "prompt": "How do you reply to 'Guten Appetit!' (Enjoy your meal)?",
           "options": [
-            "Keine Ahnung! (Integrate food vocabulary)",
-            "Danke, gleichfalls! (Integrate food vocabulary)",
-            "Gute Nacht! (Integrate food vocabulary)",
-            "Auf Wiedersehen! (Integrate food vocabulary)"
+            "Keine Ahnung!",
+            "Danke, gleichfalls!",
+            "Gute Nacht!",
+            "Auf Wiedersehen!"
           ],
           "answerIndex": 1,
           "explanation": "'Danke, gleichfalls!' is the standard polite reply."
@@ -5255,10 +5259,10 @@
         {
           "prompt": "Translate: 'Das Essen war köstlich!'",
           "options": [
-            "The food was expensive. (Integrate food vocabulary)",
-            "The food was delicious / exquisite! (Integrate food vocabulary)",
-            "The food was terrible. (Integrate food vocabulary)",
-            "The food was cold. (Integrate food vocabulary)"
+            "The food was expensive.",
+            "The food was delicious / exquisite!",
+            "The food was terrible.",
+            "The food was cold."
           ],
           "answerIndex": 1,
           "explanation": "köstlich = delicious / scrumptious."
@@ -5270,10 +5274,10 @@
         {
           "prompt": "Which sentence demonstrates accurate polite ordering with 'möchten', accusative articles, and courtesy?",
           "options": [
-            "Guten Abend, ich will ein Schnitzel und ein Apfelsaft. (Integrate food vocabulary)",
-            "Guten Abend, bringen Sie sofort Essen. (Integrate food vocabulary)",
-            "Guten Abend, ich möchte bestellen Schnitzel ohne Geld. (Integrate food vocabulary)",
-            "Guten Abend, ich möchte bitte ein Schnitzel und einen Apfelsaft bestellen. (Integrate food vocabulary)"
+            "Guten Abend, ich will ein Schnitzel und ein Apfelsaft.",
+            "Guten Abend, bringen Sie sofort Essen.",
+            "Guten Abend, ich möchte bestellen Schnitzel ohne Geld.",
+            "Guten Abend, ich möchte bitte ein Schnitzel und einen Apfelsaft bestellen."
           ],
           "answerIndex": 3,
           "explanation": "Grammatically complete, courteous German ordering.",
@@ -5282,10 +5286,10 @@
         {
           "prompt": "What unique cultural tradition exists in Bavarian beer gardens regarding food?",
           "options": [
-            "Guests must cook their own food in the kitchen. (Integrate food vocabulary)",
-            "Only fish can be eaten. (Integrate food vocabulary)",
+            "Guests must cook their own food in the kitchen.",
+            "Only fish can be eaten.",
             "Guests are traditionally allowed to bring their own picnic food (Brotzeit)",
-            "No music is allowed. (Integrate food vocabulary)"
+            "No music is allowed."
           ],
           "answerIndex": 2,
           "explanation": "Bavarian beer garden Brotzeit tradition.",
@@ -5294,10 +5298,10 @@
         {
           "prompt": "Translate: 'Wir möchten gern getrennt mit Karte bezahlen.'",
           "options": [
-            "We want to pay together in cash. (Integrate food vocabulary)",
-            "We would like to pay separately by card. (Integrate food vocabulary)",
-            "Please bring one check for all. (Integrate food vocabulary)",
-            "We cannot pay today. (Integrate food vocabulary)"
+            "We want to pay together in cash.",
+            "We would like to pay separately by card.",
+            "Please bring one check for all.",
+            "We cannot pay today."
           ],
           "answerIndex": 1,
           "explanation": "getrennt (separately) + mit Karte bezahlen (pay by card).",
@@ -5306,10 +5310,10 @@
         {
           "prompt": "What core competencies were mastered across Unit 6 in German?",
           "options": [
-            "Food & beverage vocabulary with gender articles, polite ordering with 'möchten', preferences with 'mögen' and 'gern/lieber/am liebsten', and restaurant payment/tipping (Integrate food vocabulary)",
-            "Relative pronouns only (Integrate food vocabulary)",
-            "Alphabet and numbers only (Integrate food vocabulary)",
-            "Subjunctive II conditional grammar only (Integrate food vocabulary)"
+            "Food & beverage vocabulary with gender articles, polite ordering with 'möchten', preferences with 'mögen' and 'gern/lieber/am liebsten', and restaurant payment/tipping",
+            "Relative pronouns only",
+            "Alphabet and numbers only",
+            "Subjunctive II conditional grammar only"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive dining and hospitality synthesis.",
@@ -5498,10 +5502,10 @@
         {
           "prompt": "Which auxiliary verb is required for 'fliegen' (to fly) in 'Wir _______ nach München geflogen'?",
           "options": [
-            "sind (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "seid (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "haben (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "hat (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "sind",
+            "seid",
+            "haben",
+            "hat"
           ],
           "answerIndex": 0,
           "explanation": "Verbs of movement from A to B require 'sein' (wir sind geflogen)."
@@ -5509,10 +5513,10 @@
         {
           "prompt": "What is the past participle of 'schreiben' (to write)?",
           "options": [
-            "geschrieben (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "geschreibt (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "schreibte (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "geschreben (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "geschrieben",
+            "geschreibt",
+            "schreibte",
+            "geschreben"
           ],
           "answerIndex": 0,
           "explanation": "schreiben -> geschrieben."
@@ -5524,10 +5528,10 @@
         {
           "prompt": "Translate: 'Am Wochenende bin ich zu Hause geblieben und habe ein Buch gelesen.'",
           "options": [
-            "I will stay home to read next weekend. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "I bought a book at home. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "On the weekend I stayed at home and read a book. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "I never stay home on weekends. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "I will stay home to read next weekend.",
+            "I bought a book at home.",
+            "On the weekend I stayed at home and read a book.",
+            "I never stay home on weekends."
           ],
           "answerIndex": 2,
           "explanation": "bin geblieben (stayed) + habe gelesen (read)."
@@ -5535,10 +5539,10 @@
         {
           "prompt": "Choose the correct auxiliary: 'Thomas _______ gestern seine Schlüssel verloren.' (Thomas lost his keys yesterday.)",
           "options": [
-            "ist (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "war (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "wird (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "hat (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "ist",
+            "war",
+            "wird",
+            "hat"
           ],
           "answerIndex": 3,
           "explanation": "Verlieren takes haben: Thomas hat verloren."
@@ -5550,10 +5554,10 @@
         {
           "prompt": "Match the verbs to their auxiliary: gehen, essen, fahren, trinken, bleiben:",
           "options": [
-            "All take sein (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "gehen: sein | essen: haben | fahren: sein | trinken: haben | bleiben: sein (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "gehen: haben | fahren: haben | essen: sein (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "All take haben (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "All take sein",
+            "gehen: sein | essen: haben | fahren: sein | trinken: haben | bleiben: sein",
+            "gehen: haben | fahren: haben | essen: sein",
+            "All take haben"
           ],
           "answerIndex": 1,
           "explanation": "gehen/fahren/bleiben take sein; essen/trinken take haben.",
@@ -5562,10 +5566,10 @@
         {
           "prompt": "What is the past participle of 'sehen' (to see)?",
           "options": [
-            "gesehen (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "gesieht (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "gesehren (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "geseht (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "gesehen",
+            "gesieht",
+            "gesehren",
+            "geseht"
           ],
           "answerIndex": 0,
           "explanation": "sehen -> gesehen.",
@@ -5574,10 +5578,10 @@
         {
           "prompt": "Translate: 'Die Reise nach Hamburg ist wunderschön gewesen.'",
           "options": [
-            "Hamburg is not very beautiful. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "We are traveling to Hamburg now. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "The train to Hamburg was late. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "The trip to Hamburg was wonderful. (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "Hamburg is not very beautiful.",
+            "We are traveling to Hamburg now.",
+            "The train to Hamburg was late.",
+            "The trip to Hamburg was wonderful."
           ],
           "answerIndex": 3,
           "explanation": "ist gewesen = was / has been (Perfekt of sein).",
@@ -5586,10 +5590,10 @@
         {
           "prompt": "Complete: 'Gestern Abend _______ wir im Restaurant ein Bier _______ (trinken).'",
           "options": [
-            "hat / getrunken (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "haben / getrinkt (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "haben / getrunken (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)",
-            "sind / getrunken (Master irregular strong past participles ge  stem change  en and select the correct auxiliary verb)"
+            "hat / getrunken",
+            "haben / getrinkt",
+            "haben / getrunken",
+            "sind / getrunken"
           ],
           "answerIndex": 2,
           "explanation": "Wir haben... getrunken.",
@@ -5637,10 +5641,10 @@
         {
           "prompt": "What is the past participle of the separable verb 'anrufen' (to call on the phone)?",
           "options": [
-            "geanruft (Form past participles for separable verbs prefix  ge  stem)",
-            "anrufte (Form past participles for separable verbs prefix  ge  stem)",
-            "geanrufen (Form past participles for separable verbs prefix  ge  stem)",
-            "angerufen (Form past participles for separable verbs prefix  ge  stem)"
+            "geanruft",
+            "anrufte",
+            "geanrufen",
+            "angerufen"
           ],
           "answerIndex": 3,
           "explanation": "Separable verbs insert -ge- between the prefix and the stem: angerufen."
@@ -5648,10 +5652,10 @@
         {
           "prompt": "Why is the participle of 'besuchen' (to visit) 'besucht' instead of 'gebesucht'?",
           "options": [
-            "Because besuchen is an irregular noun. (Form past participles for separable verbs prefix  ge  stem)",
-            "Because besuchen means to leave. (Form past participles for separable verbs prefix  ge  stem)",
-            "It is a dialect variation. (Form past participles for separable verbs prefix  ge  stem)",
-            "Because 'be-' is an inseparable prefix, which forbids the 'ge-' prefix. (Form past participles for separable verbs prefix  ge  stem)"
+            "Because besuchen is an irregular noun.",
+            "Because besuchen means to leave.",
+            "It is a dialect variation.",
+            "Because 'be-' is an inseparable prefix, which forbids the 'ge-' prefix."
           ],
           "answerIndex": 3,
           "explanation": "Inseparable prefixes (be-, ver-, er-, etc.) never take 'ge-'."
@@ -5663,10 +5667,10 @@
         {
           "prompt": "Translate: 'Wir haben die Rechnung mit Karte bezahlt.'",
           "options": [
-            "We paid the bill by card. (Form past participles for separable verbs prefix  ge  stem)",
-            "We will pay the bill tomorrow. (Form past participles for separable verbs prefix  ge  stem)",
-            "The bill is not paid. (Form past participles for separable verbs prefix  ge  stem)",
-            "We asked for the bill in cash. (Form past participles for separable verbs prefix  ge  stem)"
+            "We paid the bill by card.",
+            "We will pay the bill tomorrow.",
+            "The bill is not paid.",
+            "We asked for the bill in cash."
           ],
           "answerIndex": 0,
           "explanation": "bezahlt (inseparable participle of bezahlen) = paid."
@@ -5674,10 +5678,10 @@
         {
           "prompt": "Form the participle for 'aufstehen' (to stand up / get up):",
           "options": [
-            "aufgestanden (Form past participles for separable verbs prefix  ge  stem)",
-            "aufgesteht (Form past participles for separable verbs prefix  ge  stem)",
-            "geaufsteht (Form past participles for separable verbs prefix  ge  stem)",
-            "aufstanden (Form past participles for separable verbs prefix  ge  stem)"
+            "aufgestanden",
+            "aufgesteht",
+            "geaufsteht",
+            "aufstanden"
           ],
           "answerIndex": 0,
           "explanation": "auf + ge + standen (ist aufgestanden)."
@@ -5689,10 +5693,10 @@
         {
           "prompt": "Which of the following participles correctly belongs to an INSEPARABLE prefix verb?",
           "options": [
-            "verstanden (Form past participles for separable verbs prefix  ge  stem)",
-            "mitgebracht (Form past participles for separable verbs prefix  ge  stem)",
-            "eingekauft (Form past participles for separable verbs prefix  ge  stem)",
-            "aufgemacht (Form past participles for separable verbs prefix  ge  stem)"
+            "verstanden",
+            "mitgebracht",
+            "eingekauft",
+            "aufgemacht"
           ],
           "answerIndex": 0,
           "explanation": "Verstehen has inseparable prefix ver- -> verstanden.",
@@ -5701,10 +5705,10 @@
         {
           "prompt": "Complete the sentence: 'Gestern hat mein Freund mich zum Geburtstag _______ (anrufen).'",
           "options": [
-            "anruft (Form past participles for separable verbs prefix  ge  stem)",
-            "angeruft (Form past participles for separable verbs prefix  ge  stem)",
-            "geanruft (Form past participles for separable verbs prefix  ge  stem)",
-            "angerufen (Form past participles for separable verbs prefix  ge  stem)"
+            "anruft",
+            "angeruft",
+            "geanruft",
+            "angerufen"
           ],
           "answerIndex": 3,
           "explanation": "angerufen is the correct participle.",
@@ -5713,10 +5717,10 @@
         {
           "prompt": "Translate: 'Der Lehrer hat die Grammatik sehr gut erklärt.'",
           "options": [
-            "The teacher asked a question about grammar. (Form past participles for separable verbs prefix  ge  stem)",
-            "We don't understand the teacher. (Form past participles for separable verbs prefix  ge  stem)",
-            "The teacher explained the grammar very well. (Form past participles for separable verbs prefix  ge  stem)",
-            "The teacher wrote the grammar on the board. (Form past participles for separable verbs prefix  ge  stem)"
+            "The teacher asked a question about grammar.",
+            "We don't understand the teacher.",
+            "The teacher explained the grammar very well.",
+            "The teacher wrote the grammar on the board."
           ],
           "answerIndex": 2,
           "explanation": "erklärt (inseparable of erklären) = explained.",
@@ -5725,10 +5729,10 @@
         {
           "prompt": "List the 8 inseparable German prefixes:",
           "options": [
-            "an-, auf-, aus-, bei-, mit-, nach-, vor-, zu- (Form past participles for separable verbs prefix  ge  stem)",
-            "be-, emp-, ent-, er-, ge-, miss-, ver-, zer- (Form past participles for separable verbs prefix  ge  stem)",
-            "der, die, das, den, dem, des, ein, eine (Form past participles for separable verbs prefix  ge  stem)",
-            "ab-, durch-, hinter-, über-, unter-, voll-, wider-, wieder- (Form past participles for separable verbs prefix  ge  stem)"
+            "an-, auf-, aus-, bei-, mit-, nach-, vor-, zu-",
+            "be-, emp-, ent-, er-, ge-, miss-, ver-, zer-",
+            "der, die, das, den, dem, des, ein, eine",
+            "ab-, durch-, hinter-, über-, unter-, voll-, wider-, wieder-"
           ],
           "answerIndex": 1,
           "explanation": "be-, emp-, ent-, er-, ge-, miss-, ver-, zer- are the 8 inseparable prefixes.",
@@ -5777,10 +5781,10 @@
         {
           "prompt": "What happens to the subject when a connector like 'Dann' or 'Danach' starts a German sentence?",
           "options": [
-            "The verb moves to the end. (Deploy German past time adverbials gestern)",
+            "The verb moves to the end.",
             "The conjugated verb stays in position 2, and the subject moves directly after the verb (e.g. 'Dann sind WIR gegangen')",
-            "The subject is deleted. (Deploy German past time adverbials gestern)",
-            "The subject stays in position 1. (Deploy German past time adverbials gestern)"
+            "The subject is deleted.",
+            "The subject stays in position 1."
           ],
           "answerIndex": 1,
           "explanation": "Inversion rule: Fronting an adverbial pushes the subject behind the position-2 verb."
@@ -5788,10 +5792,10 @@
         {
           "prompt": "How do you say 'two days ago' in German?",
           "options": [
-            "vor zwei Tagen (Deploy German past time adverbials gestern)",
-            "zwei Tage vor (Deploy German past time adverbials gestern)",
-            "zwei Tage gestern (Deploy German past time adverbials gestern)",
-            "nach zwei Tagen (Deploy German past time adverbials gestern)"
+            "vor zwei Tagen",
+            "zwei Tage vor",
+            "zwei Tage gestern",
+            "nach zwei Tagen"
           ],
           "answerIndex": 0,
           "explanation": "vor zwei Tagen = two days ago."
@@ -5803,10 +5807,10 @@
         {
           "prompt": "Translate: 'Letztes Wochenende haben wir einen Ausflug in die Berge gemacht.'",
           "options": [
-            "Last weekend we took an excursion to the mountains. (Deploy German past time adverbials gestern)",
-            "We never go on excursions. (Deploy German past time adverbials gestern)",
-            "Next weekend we will go to the mountains. (Deploy German past time adverbials gestern)",
-            "The mountains are very far away. (Deploy German past time adverbials gestern)"
+            "Last weekend we took an excursion to the mountains.",
+            "We never go on excursions.",
+            "Next weekend we will go to the mountains.",
+            "The mountains are very far away."
           ],
           "answerIndex": 0,
           "explanation": "Letztes Wochenende = last weekend; Ausflug gemacht = took an excursion."
@@ -5814,10 +5818,10 @@
         {
           "prompt": "Choose the correct word order: 'Zuerst _______ wir im Hotel _______ (ankommen).'",
           "options": [
-            "sind / angekommen (Deploy German past time adverbials gestern)",
-            "sind / ankommen (Deploy German past time adverbials gestern)",
-            "haben / angekommen (Deploy German past time adverbials gestern)",
-            "angekommen / sind (Deploy German past time adverbials gestern)"
+            "sind / angekommen",
+            "sind / ankommen",
+            "haben / angekommen",
+            "angekommen / sind"
           ],
           "answerIndex": 0,
           "explanation": "Zuerst sind wir im Hotel angekommen."
@@ -5829,9 +5833,9 @@
         {
           "prompt": "Arrange the chronological connectors in order from beginning to end:",
           "options": [
-            "Danach -> Schließlich -> Zuerst -> Dann (Deploy German past time adverbials gestern)",
-            "Schließlich -> Zuerst -> Dann -> Danach (Deploy German past time adverbials gestern)",
-            "Gestern -> Morgen -> Heute -> Jetzt (Deploy German past time adverbials gestern)",
+            "Danach -> Schließlich -> Zuerst -> Dann",
+            "Schließlich -> Zuerst -> Dann -> Danach",
+            "Gestern -> Morgen -> Heute -> Jetzt",
             "Zuerst (first)"
           ],
           "answerIndex": 3,
@@ -5841,10 +5845,10 @@
         {
           "prompt": "What does 'vorgestern' mean in German?",
           "options": [
-            "Yesterday afternoon (Deploy German past time adverbials gestern)",
-            "Tomorrow evening (Deploy German past time adverbials gestern)",
-            "The day before yesterday (Deploy German past time adverbials gestern)",
-            "Next week (Deploy German past time adverbials gestern)"
+            "Yesterday afternoon",
+            "Tomorrow evening",
+            "The day before yesterday",
+            "Next week"
           ],
           "answerIndex": 2,
           "explanation": "vorgestern = the day before yesterday.",
@@ -5853,10 +5857,10 @@
         {
           "prompt": "Translate: 'Plötzlich hat das Telefon geklingelt und ich bin aufgewacht.'",
           "options": [
-            "I called on the phone yesterday morning. (Deploy German past time adverbials gestern)",
-            "Suddenly the phone rang and I woke up. (Deploy German past time adverbials gestern)",
-            "The phone is not working. (Deploy German past time adverbials gestern)",
-            "I was sleeping all afternoon. (Deploy German past time adverbials gestern)"
+            "I called on the phone yesterday morning.",
+            "Suddenly the phone rang and I woke up.",
+            "The phone is not working.",
+            "I was sleeping all afternoon."
           ],
           "answerIndex": 1,
           "explanation": "Plötzlich = suddenly; geklingelt = rang; bin aufgewacht = woke up.",
@@ -5865,10 +5869,10 @@
         {
           "prompt": "Which sentence demonstrates correct inversion with 'Gestern'?",
           "options": [
-            "Gestern habe ich meine Großeltern besucht. (Deploy German past time adverbials gestern)",
-            "Gestern ich habe meine Großeltern besucht. (Deploy German past time adverbials gestern)",
-            "Gestern habe besucht ich meine Großeltern. (Deploy German past time adverbials gestern)",
-            "Gestern ich besucht meine Großeltern. (Deploy German past time adverbials gestern)"
+            "Gestern habe ich meine Großeltern besucht.",
+            "Gestern ich habe meine Großeltern besucht.",
+            "Gestern habe besucht ich meine Großeltern.",
+            "Gestern ich besucht meine Großeltern."
           ],
           "answerIndex": 0,
           "explanation": "Gestern (1) habe (2) ich (3) ... besucht (end).",
@@ -6057,10 +6061,10 @@
         {
           "prompt": "What is the correct definite article for 'Kleid' (dress) in German?",
           "options": [
-            "die Kleid (Identify essential clothing)",
-            "der Kleid (Identify essential clothing)",
-            "den Kleid (Identify essential clothing)",
-            "das Kleid (Identify essential clothing)"
+            "die Kleid",
+            "der Kleid",
+            "den Kleid",
+            "das Kleid"
           ],
           "answerIndex": 3,
           "explanation": "Das Kleid is neuter."
@@ -6068,10 +6072,10 @@
         {
           "prompt": "How do you say 'the black coat' (nominative) in German?",
           "options": [
-            "die schwarze Mantel (Identify essential clothing)",
-            "das schwarzes Mantel (Identify essential clothing)",
-            "den schwarzer Mantel (Identify essential clothing)",
-            "der schwarze Mantel (Identify essential clothing)"
+            "die schwarze Mantel",
+            "das schwarzes Mantel",
+            "den schwarzer Mantel",
+            "der schwarze Mantel"
           ],
           "answerIndex": 3,
           "explanation": "Der (masc.) + schwarze Mantel."
@@ -6083,10 +6087,10 @@
         {
           "prompt": "Translate: 'Meine Schwester hat einen roten Pullover und eine blaue Jeans gekauft.'",
           "options": [
-            "My sister sold her red jacket. (Identify essential clothing)",
-            "My sister wants a green dress. (Identify essential clothing)",
-            "The red sweater is too small. (Identify essential clothing)",
-            "My sister bought a red sweater and blue jeans. (Identify essential clothing)"
+            "My sister sold her red jacket.",
+            "My sister wants a green dress.",
+            "The red sweater is too small.",
+            "My sister bought a red sweater and blue jeans."
           ],
           "answerIndex": 3,
           "explanation": "einen roten Pullover (masc. accusative) + eine blaue Jeans (fem. accusative)."
@@ -6094,10 +6098,10 @@
         {
           "prompt": "What is the plural of 'der Mantel'?",
           "options": [
-            "die Manteln (Identify essential clothing)",
-            "die Mantel (Identify essential clothing)",
-            "die Mantels (Identify essential clothing)",
-            "die Mäntel (Identify essential clothing)"
+            "die Manteln",
+            "die Mantel",
+            "die Mantels",
+            "die Mäntel"
           ],
           "answerIndex": 3,
           "explanation": "Der Mantel -> die Mäntel."
@@ -6109,10 +6113,10 @@
         {
           "prompt": "Match the garments to their definite articles: Mantel, Hose, Hemd, Schuhe:",
           "options": [
-            "das Mantel | der Hose | die Hemd (Identify essential clothing)",
-            "der Mantel | die Hose | das Hemd | die Schuhe (Identify essential clothing)",
-            "All are 'das' (Identify essential clothing)",
-            "All are 'der' (Identify essential clothing)"
+            "das Mantel | der Hose | die Hemd",
+            "der Mantel | die Hose | das Hemd | die Schuhe",
+            "All are 'das'",
+            "All are 'der'"
           ],
           "answerIndex": 1,
           "explanation": "Gender assignments for core garments.",
@@ -6121,10 +6125,10 @@
         {
           "prompt": "Translate: 'Wo ist meine Sonnenbrille und die Handtasche aus Leder?'",
           "options": [
-            "Where are my sunglasses and the leather handbag? (Identify essential clothing)",
-            "I lost my coat and boots. (Identify essential clothing)",
-            "The handbag is very heavy. (Identify essential clothing)",
-            "How much do the sunglasses cost? (Identify essential clothing)"
+            "Where are my sunglasses and the leather handbag?",
+            "I lost my coat and boots.",
+            "The handbag is very heavy.",
+            "How much do the sunglasses cost?"
           ],
           "answerIndex": 0,
           "explanation": "Sonnenbrille = sunglasses; Handtasche aus Leder = leather handbag.",
@@ -6133,9 +6137,9 @@
         {
           "prompt": "Why is 'Hose' singular in German ('eine Hose') when referring to a single pair of pants?",
           "options": [
-            "Because German has no plural for clothes. (Identify essential clothing)",
-            "Because Hose is neuter. (Identify essential clothing)",
-            "It is a spelling exception. (Identify essential clothing)",
+            "Because German has no plural for clothes.",
+            "Because Hose is neuter.",
+            "It is a spelling exception.",
             "Unlike English ('pants/trousers' plural)"
           ],
           "answerIndex": 3,
@@ -6145,10 +6149,10 @@
         {
           "prompt": "Complete: 'Er trägt ein weißes _______ (shirt) und eine schwarze _______ (jacket).'",
           "options": [
-            "Kleid / Pullover (Identify essential clothing)",
-            "Rock / Hose (Identify essential clothing)",
-            "Hemd / Jacke (Identify essential clothing)",
-            "Schal / Schuhe (Identify essential clothing)"
+            "Kleid / Pullover",
+            "Rock / Hose",
+            "Hemd / Jacke",
+            "Schal / Schuhe"
           ],
           "answerIndex": 2,
           "explanation": "ein weißes Hemd (neuter) + eine schwarze Jacke (feminine).",
@@ -6197,10 +6201,10 @@
         {
           "prompt": "How do you ask 'May I try this on?' in German?",
           "options": [
-            "Kann ich das anprobieren? (Inquire about prices Was kostet)",
-            "Was kostet das? (Inquire about prices Was kostet)",
-            "Kann ich das kaufen? (Inquire about prices Was kostet)",
-            "Wo ist die Kasse? (Inquire about prices Was kostet)"
+            "Kann ich das anprobieren?",
+            "Was kostet das?",
+            "Kann ich das kaufen?",
+            "Wo ist die Kasse?"
           ],
           "answerIndex": 0,
           "explanation": "Anprobieren = to try on clothes."
@@ -6208,10 +6212,10 @@
         {
           "prompt": "What is the German word for the fitting/changing room?",
           "options": [
-            "die Umkleidekabine (Inquire about prices Was kostet)",
-            "die Küche (Inquire about prices Was kostet)",
-            "das Restaurant (Inquire about prices Was kostet)",
-            "die Haltestelle (Inquire about prices Was kostet)"
+            "die Umkleidekabine",
+            "die Küche",
+            "das Restaurant",
+            "die Haltestelle"
           ],
           "answerIndex": 0,
           "explanation": "Die Umkleidekabine = changing cubicle."
@@ -6223,10 +6227,10 @@
         {
           "prompt": "Translate: 'Haben Sie dieses Hemd eine Nummer größer? Es ist mir zu eng.'",
           "options": [
-            "Do you have this shirt in black? It's too big. (Inquire about prices Was kostet)",
-            "Do you have this shirt one size larger? It's too tight for me. (Inquire about prices Was kostet)",
-            "How much is the large shirt? (Inquire about prices Was kostet)",
-            "I want to return this shirt. (Inquire about prices Was kostet)"
+            "Do you have this shirt in black? It's too big.",
+            "Do you have this shirt one size larger? It's too tight for me.",
+            "How much is the large shirt?",
+            "I want to return this shirt."
           ],
           "answerIndex": 1,
           "explanation": "eine Nummer größer = one size larger; zu eng = too tight."
@@ -6234,10 +6238,10 @@
         {
           "prompt": "What does 'im Angebot' mean on a price tag in Germany?",
           "options": [
-            "Out of stock (Inquire about prices Was kostet)",
-            "Damaged (Inquire about prices Was kostet)",
-            "On special offer / discounted price (Inquire about prices Was kostet)",
-            "Not for sale (Inquire about prices Was kostet)"
+            "Out of stock",
+            "Damaged",
+            "On special offer / discounted price",
+            "Not for sale"
           ],
           "answerIndex": 2,
           "explanation": "Im Angebot = on special offer."
@@ -6249,10 +6253,10 @@
         {
           "prompt": "Match the shopping phrases: anprobieren, Umkleidekabine, Größe, reduziert:",
           "options": [
-            "anprobieren: to try on | Umkleidekabine: fitting room | Größe: size | reduziert: discounted (Inquire about prices Was kostet)",
-            "All mean shoes (Inquire about prices Was kostet)",
-            "All mean days of the week (Inquire about prices Was kostet)",
-            "anprobieren: to eat | Umkleidekabine: train station | Größe: color (Inquire about prices Was kostet)"
+            "anprobieren: to try on | Umkleidekabine: fitting room | Größe: size | reduziert: discounted",
+            "All mean shoes",
+            "All mean days of the week",
+            "anprobieren: to eat | Umkleidekabine: train station | Größe: color"
           ],
           "answerIndex": 0,
           "explanation": "Core retail shopping terms.",
@@ -6261,10 +6265,10 @@
         {
           "prompt": "Translate: 'Was kosten diese Stiefel? — Sie kosten einhundertzwanzig Euro.'",
           "options": [
-            "The boots cost 20 euros. (Inquire about prices Was kostet)",
-            "Do you sell boots? — No, we don't. (Inquire about prices Was kostet)",
-            "I want to buy 120 boots. (Inquire about prices Was kostet)",
-            "How much do these boots cost? — They cost 120 euros. (Inquire about prices Was kostet)"
+            "The boots cost 20 euros.",
+            "Do you sell boots? — No, we don't.",
+            "I want to buy 120 boots.",
+            "How much do these boots cost? — They cost 120 euros."
           ],
           "answerIndex": 3,
           "explanation": "stiefel = boots; einhundertzwanzig Euro = 120 euros.",
@@ -6273,10 +6277,10 @@
         {
           "prompt": "What phrase signals that you have decided to buy the coat ('der Mantel')?",
           "options": [
-            "Ich nehme sie! (Inquire about prices Was kostet)",
-            "Ich will nicht. (Inquire about prices Was kostet)",
-            "Ich nehme ihn! (Inquire about prices Was kostet)",
-            "Ich nehme es! (Inquire about prices Was kostet)"
+            "Ich nehme sie!",
+            "Ich will nicht.",
+            "Ich nehme ihn!",
+            "Ich nehme es!"
           ],
           "answerIndex": 2,
           "explanation": "Der Mantel (masc. accusative) -> 'Ich nehme ihn!'.",
@@ -6285,10 +6289,10 @@
         {
           "prompt": "Complete: 'Welche _______ (shoe size) haben Sie? — Ich habe 41.'",
           "options": [
-            "Kasse (Inquire about prices Was kostet)",
-            "Schuhgröße (Inquire about prices Was kostet)",
-            "Straße (Inquire about prices Was kostet)",
-            "Farbe (Inquire about prices Was kostet)"
+            "Kasse",
+            "Schuhgröße",
+            "Straße",
+            "Farbe"
           ],
           "answerIndex": 1,
           "explanation": "Schuhgröße = shoe size.",
@@ -6338,10 +6342,10 @@
         {
           "prompt": "What is the difference between 'Die Jacke passt mir' and 'Die Jacke steht mir'?",
           "options": [
-            "'Passt mir' means it is expensive. (Master the 3 core dative verbs of fit and appearance)",
-            "'Steht mir' means it is standing on the floor. (Master the 3 core dative verbs of fit and appearance)",
-            "There is no difference. (Master the 3 core dative verbs of fit and appearance)",
-            "'Passt mir' means the physical size is correct; 'Steht mir' means the style and color look flattering on my appearance. (Master the 3 core dative verbs of fit and appearance)"
+            "'Passt mir' means it is expensive.",
+            "'Steht mir' means it is standing on the floor.",
+            "There is no difference.",
+            "'Passt mir' means the physical size is correct; 'Steht mir' means the style and color look flattering on my appearance."
           ],
           "answerIndex": 3,
           "explanation": "Passen = physical measurement/size; Stehen = looks flattering/suits you."
@@ -6349,10 +6353,10 @@
         {
           "prompt": "Which dative pronoun fills the blank: 'Gefällt _______ (you - informal singular) dieses Kleid?'",
           "options": [
-            "dich (Master the 3 core dative verbs of fit and appearance)",
-            "du (Master the 3 core dative verbs of fit and appearance)",
-            "dein (Master the 3 core dative verbs of fit and appearance)",
-            "dir (Master the 3 core dative verbs of fit and appearance)"
+            "dich",
+            "du",
+            "dein",
+            "dir"
           ],
           "answerIndex": 3,
           "explanation": "Gefallen governs the dative case -> dir."
@@ -6364,10 +6368,10 @@
         {
           "prompt": "Translate: 'Der Rock gefällt ihr sehr, aber er ist ihr ein bisschen zu kurz.'",
           "options": [
-            "She likes the skirt a lot, but it is a bit too short for her. (Master the 3 core dative verbs of fit and appearance)",
-            "She sold her short skirt. (Master the 3 core dative verbs of fit and appearance)",
-            "The skirt is too long for her. (Master the 3 core dative verbs of fit and appearance)",
-            "She does not like the short skirt. (Master the 3 core dative verbs of fit and appearance)"
+            "She likes the skirt a lot, but it is a bit too short for her.",
+            "She sold her short skirt.",
+            "The skirt is too long for her.",
+            "She does not like the short skirt."
           ],
           "answerIndex": 0,
           "explanation": "gefällt ihr = pleases her; ist ihr zu kurz = is too short for her."
@@ -6375,10 +6379,10 @@
         {
           "prompt": "What is the dative form of the formal pronoun 'Sie'?",
           "options": [
-            "Ihnen (Master the 3 core dative verbs of fit and appearance)",
-            "ihr (Master the 3 core dative verbs of fit and appearance)",
-            "uns (Master the 3 core dative verbs of fit and appearance)",
-            "euch (Master the 3 core dative verbs of fit and appearance)"
+            "Ihnen",
+            "ihr",
+            "uns",
+            "euch"
           ],
           "answerIndex": 0,
           "explanation": "Sie (formal) -> Ihnen (dative)."
@@ -6390,10 +6394,10 @@
         {
           "prompt": "Match the dative verbs: passt mir, steht dir, gefällt uns, ist ihm zu eng:",
           "options": [
-            "All mean 'goodbye' (Master the 3 core dative verbs of fit and appearance)",
-            "passt mir: looks good | steht dir: fits size (Master the 3 core dative verbs of fit and appearance)",
-            "All mean 'I want to buy' (Master the 3 core dative verbs of fit and appearance)",
-            "passt mir: fits my size | steht dir: suits your look | gefällt uns: we like it | ist ihm zu eng: is too tight for him (Master the 3 core dative verbs of fit and appearance)"
+            "All mean 'goodbye'",
+            "passt mir: looks good | steht dir: fits size",
+            "All mean 'I want to buy'",
+            "passt mir: fits my size | steht dir: suits your look | gefällt uns: we like it | ist ihm zu eng: is too tight for him"
           ],
           "answerIndex": 3,
           "explanation": "Dative verb meanings and functions.",
@@ -6402,10 +6406,10 @@
         {
           "prompt": "Complete: 'Diese grüne Jacke steht _______ (you - formal) ausgezeichnet!'",
           "options": [
-            "Sie (Master the 3 core dative verbs of fit and appearance)",
-            "mich (Master the 3 core dative verbs of fit and appearance)",
-            "Ihnen (Master the 3 core dative verbs of fit and appearance)",
-            "dich (Master the 3 core dative verbs of fit and appearance)"
+            "Sie",
+            "mich",
+            "Ihnen",
+            "dich"
           ],
           "answerIndex": 2,
           "explanation": "steht Ihnen (dative formal) = suits you.",
@@ -6414,10 +6418,10 @@
         {
           "prompt": "Why does 'Die Schuhe gefallen mir' use the plural verb 'gefallen' instead of singular 'gefällt'?",
           "options": [
-            "It is optional. (Master the 3 core dative verbs of fit and appearance)",
-            "Because 'die Schuhe' is the plural subject of the sentence, requiring plural verb agreement. (Master the 3 core dative verbs of fit and appearance)",
-            "Because mir is plural. (Master the 3 core dative verbs of fit and appearance)",
-            "Because shoes are expensive. (Master the 3 core dative verbs of fit and appearance)"
+            "It is optional.",
+            "Because 'die Schuhe' is the plural subject of the sentence, requiring plural verb agreement.",
+            "Because mir is plural.",
+            "Because shoes are expensive."
           ],
           "answerIndex": 1,
           "explanation": "Subject is 'die Schuhe' (plural) -> gefallen mir.",
@@ -6426,10 +6430,10 @@
         {
           "prompt": "Complete: 'Das Hemd ist _______ (me - dative) leider zu klein.'",
           "options": [
-            "mir (Master the 3 core dative verbs of fit and appearance)",
-            "mich (Master the 3 core dative verbs of fit and appearance)",
-            "mein (Master the 3 core dative verbs of fit and appearance)",
-            "ich (Master the 3 core dative verbs of fit and appearance)"
+            "mir",
+            "mich",
+            "mein",
+            "ich"
           ],
           "answerIndex": 0,
           "explanation": "ist mir zu klein = is too small for me.",
@@ -6478,10 +6482,10 @@
         {
           "prompt": "What is the comparative form of 'gut' (good) in German?",
           "options": [
-            "mehr gut als (Form the comparative er als and superlative am sten of German adjectives)",
-            "besser als (Form the comparative er als and superlative am sten of German adjectives)",
-            "am besten (Form the comparative er als and superlative am sten of German adjectives)",
-            "guter als (Form the comparative er als and superlative am sten of German adjectives)"
+            "mehr gut als",
+            "besser als",
+            "am besten",
+            "guter als"
           ],
           "answerIndex": 1,
           "explanation": "Gut -> besser als -> am besten."
@@ -6489,10 +6493,10 @@
         {
           "prompt": "How does the adjective 'teuer' (expensive) change in the comparative?",
           "options": [
-            "teurer als (Form the comparative er als and superlative am sten of German adjectives)",
-            "mehr teuer als (Form the comparative er als and superlative am sten of German adjectives)",
-            "täurer als (Form the comparative er als and superlative am sten of German adjectives)",
-            "teuerer als (Form the comparative er als and superlative am sten of German adjectives)"
+            "teurer als",
+            "mehr teuer als",
+            "täurer als",
+            "teuerer als"
           ],
           "answerIndex": 0,
           "explanation": "Teuer drops the unstressed -e- before adding -er: teurer."
@@ -6504,10 +6508,10 @@
         {
           "prompt": "Translate: 'Welche Farbe gefällt dir am liebsten? — Blau gefällt mir am besten.'",
           "options": [
-            "Which color do you like best? — I like blue best. (Form the comparative er als and superlative am sten of German adjectives)",
-            "Blue is warmer than red. (Form the comparative er als and superlative am sten of German adjectives)",
-            "Which color is the cheapest? — Blue is expensive. (Form the comparative er als and superlative am sten of German adjectives)",
-            "Do you like blue? — No, I don't. (Form the comparative er als and superlative am sten of German adjectives)"
+            "Which color do you like best? — I like blue best.",
+            "Blue is warmer than red.",
+            "Which color is the cheapest? — Blue is expensive.",
+            "Do you like blue? — No, I don't."
           ],
           "answerIndex": 0,
           "explanation": "am liebsten = prefer best; am besten = the best."
@@ -6515,10 +6519,10 @@
         {
           "prompt": "Complete with equality: 'Diese Schuhe sind _______ (as comfortable as) die Turnschuhe.'",
           "options": [
-            "so bequem wie (Form the comparative er als and superlative am sten of German adjectives)",
-            "zu bequem als (Form the comparative er als and superlative am sten of German adjectives)",
-            "bequemer als (Form the comparative er als and superlative am sten of German adjectives)",
-            "am bequemsten (Form the comparative er als and superlative am sten of German adjectives)"
+            "so bequem wie",
+            "zu bequem als",
+            "bequemer als",
+            "am bequemsten"
           ],
           "answerIndex": 0,
           "explanation": "so + adjective + wie = as ... as."
@@ -6530,10 +6534,10 @@
         {
           "prompt": "Match the adjective comparative pairs: billig, warm, groß, viel:",
           "options": [
-            "All use 'so wie' (Form the comparative er als and superlative am sten of German adjectives)",
-            "warm -> warmer | groß -> groser | viel -> vieler (Form the comparative er als and superlative am sten of German adjectives)",
-            "billig -> billiger | warm -> wärmer | groß -> größer | viel -> mehr (Form the comparative er als and superlative am sten of German adjectives)",
-            "All use 'am meisten' (Form the comparative er als and superlative am sten of German adjectives)"
+            "All use 'so wie'",
+            "warm -> warmer | groß -> groser | viel -> vieler",
+            "billig -> billiger | warm -> wärmer | groß -> größer | viel -> mehr",
+            "All use 'am meisten'"
           ],
           "answerIndex": 2,
           "explanation": "Umlaut shifts and irregular comparative forms.",
@@ -6542,10 +6546,10 @@
         {
           "prompt": "Translate: 'Das Kaufhaus am Kurfürstendamm ist das größte in ganz Berlin.'",
           "options": [
-            "The shop on Kurfürstendamm is very small. (Form the comparative er als and superlative am sten of German adjectives)",
-            "The department store on Kurfürstendamm is the largest in all of Berlin. (Form the comparative er als and superlative am sten of German adjectives)",
-            "I am walking on Kurfürstendamm. (Form the comparative er als and superlative am sten of German adjectives)",
-            "Berlin has no department stores. (Form the comparative er als and superlative am sten of German adjectives)"
+            "The shop on Kurfürstendamm is very small.",
+            "The department store on Kurfürstendamm is the largest in all of Berlin.",
+            "I am walking on Kurfürstendamm.",
+            "Berlin has no department stores."
           ],
           "answerIndex": 1,
           "explanation": "das größte = the largest (superlative of groß).",
@@ -6554,10 +6558,10 @@
         {
           "prompt": "Why does 'warm' become 'wärmer' in the comparative?",
           "options": [
-            "Short one-syllable German adjectives with stem vowels a, o, or u regularly take an umlaut in the comparative (Form the comparative er als and superlative am sten of German adjectives)",
-            "Because warm is a feminine noun. (Form the comparative er als and superlative am sten of German adjectives)",
-            "Because warm means hot. (Form the comparative er als and superlative am sten of German adjectives)",
-            "It is a modern spelling change. (Form the comparative er als and superlative am sten of German adjectives)"
+            "Short one-syllable German adjectives with stem vowels a, o, or u regularly take an umlaut in the comparative",
+            "Because warm is a feminine noun.",
+            "Because warm means hot.",
+            "It is a modern spelling change."
           ],
           "answerIndex": 0,
           "explanation": "Monosyllabic vowel umlaut inflection rule.",
@@ -6566,10 +6570,10 @@
         {
           "prompt": "Complete: 'Der rote Schal ist _______ (cheaper than) der blaue Schal.'",
           "options": [
-            "mehr billig als (Form the comparative er als and superlative am sten of German adjectives)",
-            "so billig wie (Form the comparative er als and superlative am sten of German adjectives)",
-            "am billigsten (Form the comparative er als and superlative am sten of German adjectives)",
-            "billiger als (Form the comparative er als and superlative am sten of German adjectives)"
+            "mehr billig als",
+            "so billig wie",
+            "am billigsten",
+            "billiger als"
           ],
           "answerIndex": 3,
           "explanation": "billiger als = cheaper than.",
@@ -6759,10 +6763,10 @@
         {
           "prompt": "How do you say 'I go by subway' in German?",
           "options": [
-            "Ich fahre mit die U-Bahn. (Identify essential German public transit systems)",
-            "Ich fahre durch die U-Bahn. (Identify essential German public transit systems)",
-            "Ich fahre zu U-Bahn. (Identify essential German public transit systems)",
-            "Ich fahre mit der U-Bahn. (Identify essential German public transit systems)"
+            "Ich fahre mit die U-Bahn.",
+            "Ich fahre durch die U-Bahn.",
+            "Ich fahre zu U-Bahn.",
+            "Ich fahre mit der U-Bahn."
           ],
           "answerIndex": 3,
           "explanation": "Preposition mit requires the Dative case: mit der U-Bahn."
@@ -6770,10 +6774,10 @@
         {
           "prompt": "Which phrase expresses traveling on foot in German?",
           "options": [
-            "mit Fuß (Identify essential German public transit systems)",
-            "an Fuß (Identify essential German public transit systems)",
-            "auf Fuß (Identify essential German public transit systems)",
-            "zu Fuß (Identify essential German public transit systems)"
+            "mit Fuß",
+            "an Fuß",
+            "auf Fuß",
+            "zu Fuß"
           ],
           "answerIndex": 3,
           "explanation": "'Zu Fuß' is the fixed idiom for on foot / walking."
@@ -6785,10 +6789,10 @@
         {
           "prompt": "Translate: 'Entwerten Sie Ihre Fahrkarte vor dem Einsteigen am Automaten.'",
           "options": [
-            "Buy your ticket inside the train. (Identify essential German public transit systems)",
-            "The ticket machine is out of order. (Identify essential German public transit systems)",
-            "Show your passport before boarding. (Identify essential German public transit systems)",
-            "Validate/stamp your ticket at the machine before boarding. (Identify essential German public transit systems)"
+            "Buy your ticket inside the train.",
+            "The ticket machine is out of order.",
+            "Show your passport before boarding.",
+            "Validate/stamp your ticket at the machine before boarding."
           ],
           "answerIndex": 3,
           "explanation": "entwerten = validate/stamp; vor dem Einsteigen = before boarding."
@@ -6796,10 +6800,10 @@
         {
           "prompt": "What does the separable verb 'umsteigen' mean?",
           "options": [
-            "To board a train (Identify essential German public transit systems)",
-            "To exit a bus (Identify essential German public transit systems)",
-            "To miss a connection (Identify essential German public transit systems)",
-            "To transfer / change trains or transit lines (Identify essential German public transit systems)"
+            "To board a train",
+            "To exit a bus",
+            "To miss a connection",
+            "To transfer / change trains or transit lines"
           ],
           "answerIndex": 3,
           "explanation": "Umsteigen = to transfer/change connections."
@@ -6811,10 +6815,10 @@
         {
           "prompt": "Match the German transit terms: die U-Bahn, das Gleis, das Deutschlandticket, umsteigen:",
           "options": [
-            "die U-Bahn: subway | das Gleis: railway track | das Deutschlandticket: nationwide transit pass | umsteigen: to transfer trains (Identify essential German public transit systems)",
-            "All mean bicycles (Identify essential German public transit systems)",
-            "All mean traffic lights (Identify essential German public transit systems)",
-            "die U-Bahn: car | das Gleis: airport | umsteigen: to stop (Identify essential German public transit systems)"
+            "die U-Bahn: subway | das Gleis: railway track | das Deutschlandticket: nationwide transit pass | umsteigen: to transfer trains",
+            "All mean bicycles",
+            "All mean traffic lights",
+            "die U-Bahn: car | das Gleis: airport | umsteigen: to stop"
           ],
           "answerIndex": 0,
           "explanation": "German transit terminology definitions.",
@@ -6823,10 +6827,10 @@
         {
           "prompt": "Translate: 'Der Regional-Express nach Potsdam steht an Gleis 3 bereit.'",
           "options": [
-            "The train to Potsdam is delayed on Track 3. (Identify essential German public transit systems)",
-            "Track 3 is closed for trains to Potsdam. (Identify essential German public transit systems)",
-            "Potsdam has only three train tracks. (Identify essential German public transit systems)",
-            "The regional express train to Potsdam is ready on Track 3. (Identify essential German public transit systems)"
+            "The train to Potsdam is delayed on Track 3.",
+            "Track 3 is closed for trains to Potsdam.",
+            "Potsdam has only three train tracks.",
+            "The regional express train to Potsdam is ready on Track 3."
           ],
           "answerIndex": 3,
           "explanation": "an Gleis 3 bereitstehen = standing ready on Track 3.",
@@ -6835,10 +6839,10 @@
         {
           "prompt": "Why is 'mit den Zug' grammatically incorrect?",
           "options": [
-            "Because Zug is feminine. (Identify essential German public transit systems)",
-            "Because mit takes accusative. (Identify essential German public transit systems)",
+            "Because Zug is feminine.",
+            "Because mit takes accusative.",
             "Because 'Zug' is masculine singular, and the preposition 'mit' requires the dative case 'dem' ('mit dem Zug')",
-            "It is a Swiss dialect only. (Identify essential German public transit systems)"
+            "It is a Swiss dialect only."
           ],
           "answerIndex": 2,
           "explanation": "Mit + masculine dative = mit dem Zug.",
@@ -6847,10 +6851,10 @@
         {
           "prompt": "Complete: 'Sie müssen an der Station Friedrichstraße in die S-Bahn _______ (transfer).'",
           "options": [
-            "einsteigen (Identify essential German public transit systems)",
-            "umsteigen (Identify essential German public transit systems)",
-            "abfahren (Identify essential German public transit systems)",
-            "aussteigen (Identify essential German public transit systems)"
+            "einsteigen",
+            "umsteigen",
+            "abfahren",
+            "aussteigen"
           ],
           "answerIndex": 1,
           "explanation": "umsteigen = to transfer/change lines.",
@@ -6899,10 +6903,10 @@
         {
           "prompt": "How do you say 'next to the train station' (der Bahnhof - masculine) in German?",
           "options": [
-            "neben dem Bahnhof (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "neben das Bahnhof (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "neben den Bahnhof (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "neben der Bahnhof (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "neben dem Bahnhof",
+            "neben das Bahnhof",
+            "neben den Bahnhof",
+            "neben der Bahnhof"
           ],
           "answerIndex": 0,
           "explanation": "Static location with neben takes dative: neben dem Bahnhof."
@@ -6910,10 +6914,10 @@
         {
           "prompt": "What contraction represents 'von + dem' in German?",
           "options": [
-            "vom (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "im (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "zum (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "am (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "vom",
+            "im",
+            "zum",
+            "am"
           ],
           "answerIndex": 0,
           "explanation": "von + dem = vom."
@@ -6925,10 +6929,10 @@
         {
           "prompt": "Translate: 'Das Museum befindet sich hinter der Kirche und in der Nähe vom Park.'",
           "options": [
-            "The museum is inside the church. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The museum is located behind the church and near the park. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The church is far from the park. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "Where is the church and park? (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "The museum is inside the church.",
+            "The museum is located behind the church and near the park.",
+            "The church is far from the park.",
+            "Where is the church and park?"
           ],
           "answerIndex": 1,
           "explanation": "hinter der Kirche = behind the church; in der Nähe vom Park = near the park."
@@ -6936,10 +6940,10 @@
         {
           "prompt": "What case do two-way prepositions take when answering the question 'Wo?' (Where is something located)?",
           "options": [
-            "The Accusative Case (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The Genitive Case (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The Dative Case (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The Nominative Case (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "The Accusative Case",
+            "The Genitive Case",
+            "The Dative Case",
+            "The Nominative Case"
           ],
           "answerIndex": 2,
           "explanation": "Static position (Wo?) triggers the Dative case."
@@ -6951,10 +6955,10 @@
         {
           "prompt": "Match the German spatial phrases: neben der Bank, vor dem Tor, gegenüber vom Café, zwischen den Straßen:",
           "options": [
-            "All mean yesterday (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "All mean inside (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "neben der Bank: far | vor dem Tor: under | gegenüber: behind (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "neben der Bank: next to the bank | vor dem Tor: in front of gate | gegenüber vom Café: across from café | zwischen den Straßen: between streets (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "All mean yesterday",
+            "All mean inside",
+            "neben der Bank: far | vor dem Tor: under | gegenüber: behind",
+            "neben der Bank: next to the bank | vor dem Tor: in front of gate | gegenüber vom Café: across from café | zwischen den Straßen: between streets"
           ],
           "answerIndex": 3,
           "explanation": "Spatial prepositions matching.",
@@ -6963,10 +6967,10 @@
         {
           "prompt": "Translate: 'Gibt es einen Geldautomaten in der Nähe? — Ja, gleich an der Ecke neben der Post.'",
           "options": [
-            "The post office has no ATMs. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The bank is far from the corner. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "Is there an ATM nearby? — Yes, right on the corner next to the post office. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "The ATM next to the post office is broken. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "The post office has no ATMs.",
+            "The bank is far from the corner.",
+            "Is there an ATM nearby? — Yes, right on the corner next to the post office.",
+            "The ATM next to the post office is broken."
           ],
           "answerIndex": 2,
           "explanation": "in der Nähe = nearby; an der Ecke = on the corner; neben der Post = next to post office.",
@@ -6975,10 +6979,10 @@
         {
           "prompt": "Why is 'hinter die Kirche' incorrect when describing the static location of a bakery?",
           "options": [
-            "Because hinter takes genitive. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "Because describing static location (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "It is a spelling typo. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "Because Kirche is neuter. (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "Because hinter takes genitive.",
+            "Because describing static location",
+            "It is a spelling typo.",
+            "Because Kirche is neuter."
           ],
           "answerIndex": 1,
           "explanation": "Two-way preposition rule: Dative for location (Wo?), Accusative for destination (Wohin?).",
@@ -6987,10 +6991,10 @@
         {
           "prompt": "Complete: 'Das Restaurant liegt _______ (between) dem Theater und dem Hotel.'",
           "options": [
-            "zwischen (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "hinter (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "gegenüber (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)",
-            "neben (Master German prepositions of place and twoway prepositions Wechselprpositionen with Dative for static location neben)"
+            "zwischen",
+            "hinter",
+            "gegenüber",
+            "neben"
           ],
           "answerIndex": 0,
           "explanation": "zwischen (between A and B).",
@@ -7039,10 +7043,10 @@
         {
           "prompt": "How do you tell someone 'Go straight ahead and turn right at the intersection' in formal German?",
           "options": [
-            "Biegen Sie links ab und halten. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Überqueren Sie den Fluss sofort. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Gehen Sie geradeaus und biegen Sie an der Kreuzung rechts ab. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Fahren Sie rückwärts. (Give and follow walking and transit directions in German using directional adverbs)"
+            "Biegen Sie links ab und halten.",
+            "Überqueren Sie den Fluss sofort.",
+            "Gehen Sie geradeaus und biegen Sie an der Kreuzung rechts ab.",
+            "Fahren Sie rückwärts."
           ],
           "answerIndex": 2,
           "explanation": "Gehen Sie geradeaus (straight) + biegen Sie rechts ab (turn right) + an der Kreuzung (at intersection)."
@@ -7050,10 +7054,10 @@
         {
           "prompt": "What does 'die Straße überqueren' mean?",
           "options": [
-            "To clean the street (Give and follow walking and transit directions in German using directional adverbs)",
-            "To park on the street (Give and follow walking and transit directions in German using directional adverbs)",
-            "To block the street (Give and follow walking and transit directions in German using directional adverbs)",
-            "To cross the street (Give and follow walking and transit directions in German using directional adverbs)"
+            "To clean the street",
+            "To park on the street",
+            "To block the street",
+            "To cross the street"
           ],
           "answerIndex": 3,
           "explanation": "Überqueren = to cross."
@@ -7065,10 +7069,10 @@
         {
           "prompt": "Translate: 'Nehmen Sie die zweite Straße links und Sie sehen das Rathaus auf der rechten Seite.'",
           "options": [
-            "Take the second street on the left and you will see the city hall on the right-hand side. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Take the first street on the right to the city hall. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Do not turn on the second street. (Give and follow walking and transit directions in German using directional adverbs)",
-            "The city hall is closed on the left. (Give and follow walking and transit directions in German using directional adverbs)"
+            "Take the second street on the left and you will see the city hall on the right-hand side.",
+            "Take the first street on the right to the city hall.",
+            "Do not turn on the second street.",
+            "The city hall is closed on the left."
           ],
           "answerIndex": 0,
           "explanation": "zweite Straße links = 2nd street left; auf der rechten Seite = on right side."
@@ -7076,10 +7080,10 @@
         {
           "prompt": "What separable verb means 'to get off' a bus or train?",
           "options": [
-            "aussteigen (Give and follow walking and transit directions in German using directional adverbs)",
-            "einsteigen (Give and follow walking and transit directions in German using directional adverbs)",
-            "umsteigen (Give and follow walking and transit directions in German using directional adverbs)",
-            "abfahren (Give and follow walking and transit directions in German using directional adverbs)"
+            "aussteigen",
+            "einsteigen",
+            "umsteigen",
+            "abfahren"
           ],
           "answerIndex": 0,
           "explanation": "Aussteigen = to alight/get off."
@@ -7091,10 +7095,10 @@
         {
           "prompt": "Match the German direction verbs: geradeaus gehen, links abbiegen, die Straße überqueren, aussteigen:",
           "options": [
-            "All are food verbs (Give and follow walking and transit directions in German using directional adverbs)",
-            "All mean stop (Give and follow walking and transit directions in German using directional adverbs)",
-            "geradeaus gehen: go straight | links abbiegen: turn left | die Straße überqueren: cross street | aussteigen: get off (Give and follow walking and transit directions in German using directional adverbs)",
-            "All mean turn right (Give and follow walking and transit directions in German using directional adverbs)"
+            "All are food verbs",
+            "All mean stop",
+            "geradeaus gehen: go straight | links abbiegen: turn left | die Straße überqueren: cross street | aussteigen: get off",
+            "All mean turn right"
           ],
           "answerIndex": 2,
           "explanation": "Directional commands matching.",
@@ -7103,10 +7107,10 @@
         {
           "prompt": "Translate: 'Fahren Sie drei Stationen mit der U-Bahn und steigen Sie am Potsdamer Platz um.'",
           "options": [
-            "Do not take the subway for three stations. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Ride three stations with the subway and transfer at Potsdamer Platz. (Give and follow walking and transit directions in German using directional adverbs)",
-            "Potsdamer Platz is three hours away by train. (Give and follow walking and transit directions in German using directional adverbs)",
-            "The subway does not stop at Potsdamer Platz. (Give and follow walking and transit directions in German using directional adverbs)"
+            "Do not take the subway for three stations.",
+            "Ride three stations with the subway and transfer at Potsdamer Platz.",
+            "Potsdamer Platz is three hours away by train.",
+            "The subway does not stop at Potsdamer Platz."
           ],
           "answerIndex": 1,
           "explanation": "drei Stationen fahren = ride 3 stops; steigen Sie um = transfer.",
@@ -7115,10 +7119,10 @@
         {
           "prompt": "What is the beloved Berlin cultural icon 'das Ampelmännchen'?",
           "options": [
-            "The iconic hat-wearing figure on pedestrian traffic lights created in East Berlin, now a symbol of the city (Give and follow walking and transit directions in German using directional adverbs)",
-            "A statue in Tiergarten (Give and follow walking and transit directions in German using directional adverbs)",
-            "A train driver uniform (Give and follow walking and transit directions in German using directional adverbs)",
-            "A subway ticket machine (Give and follow walking and transit directions in German using directional adverbs)"
+            "The iconic hat-wearing figure on pedestrian traffic lights created in East Berlin, now a symbol of the city",
+            "A statue in Tiergarten",
+            "A train driver uniform",
+            "A subway ticket machine"
           ],
           "answerIndex": 0,
           "explanation": "Das Ampelmännchen is Berlin's beloved pedestrian traffic light icon.",
@@ -7127,10 +7131,10 @@
         {
           "prompt": "Complete: 'Biegen Sie an der nächsten Ecke nach _______ (left) ab.'",
           "options": [
-            "oben (Give and follow walking and transit directions in German using directional adverbs)",
-            "unten (Give and follow walking and transit directions in German using directional adverbs)",
-            "geradeaus (Give and follow walking and transit directions in German using directional adverbs)",
-            "links (Give and follow walking and transit directions in German using directional adverbs)"
+            "oben",
+            "unten",
+            "geradeaus",
+            "links"
           ],
           "answerIndex": 3,
           "explanation": "nach links abbiegen = turn left.",
@@ -7179,10 +7183,10 @@
         {
           "prompt": "Which preposition + article fills the blank for motion through a park (der Park - masc): 'Wir gehen _______ (through the) Park'?",
           "options": [
-            "durch der (Apply directional motion prepositions governing the Accusative case durch)",
-            "durch den (Apply directional motion prepositions governing the Accusative case durch)",
-            "durch das (Apply directional motion prepositions governing the Accusative case durch)",
-            "durch dem (Apply directional motion prepositions governing the Accusative case durch)"
+            "durch der",
+            "durch den",
+            "durch das",
+            "durch dem"
           ],
           "answerIndex": 1,
           "explanation": "'Durch' always takes the Accusative case: durch den Park."
@@ -7190,10 +7194,10 @@
         {
           "prompt": "How do you combine 'zu + der' for a feminine destination in German?",
           "options": [
-            "zur (Apply directional motion prepositions governing the Accusative case durch)",
-            "am (Apply directional motion prepositions governing the Accusative case durch)",
-            "im (Apply directional motion prepositions governing the Accusative case durch)",
-            "zum (Apply directional motion prepositions governing the Accusative case durch)"
+            "zur",
+            "am",
+            "im",
+            "zum"
           ],
           "answerIndex": 0,
           "explanation": "zu + der = zur."
@@ -7205,10 +7209,10 @@
         {
           "prompt": "Translate: 'Gehen Sie um die Ecke und Sie stehen direkt vor dem Museum.'",
           "options": [
-            "Go around the corner and you are standing directly in front of the museum. (Apply directional motion prepositions governing the Accusative case durch)",
-            "The corner has no museum. (Apply directional motion prepositions governing the Accusative case durch)",
-            "The museum is closed around the corner. (Apply directional motion prepositions governing the Accusative case durch)",
-            "Do not turn the corner to the museum. (Apply directional motion prepositions governing the Accusative case durch)"
+            "Go around the corner and you are standing directly in front of the museum.",
+            "The corner has no museum.",
+            "The museum is closed around the corner.",
+            "Do not turn the corner to the museum."
           ],
           "answerIndex": 0,
           "explanation": "um die Ecke = around the corner (accusative); vor dem Museum = in front of museum (dative)."
@@ -7216,10 +7220,10 @@
         {
           "prompt": "What is the difference between 'zum Bahnhof gehen' and 'im Bahnhof sein'?",
           "options": [
-            "'Zum Bahnhof gehen' indicates directional motion toward the station; 'Im Bahnhof sein' indicates static location inside the station. (Apply directional motion prepositions governing the Accusative case durch)",
-            "The second is walking. (Apply directional motion prepositions governing the Accusative case durch)",
-            "There is no difference. (Apply directional motion prepositions governing the Accusative case durch)",
-            "The first is past tense. (Apply directional motion prepositions governing the Accusative case durch)"
+            "'Zum Bahnhof gehen' indicates directional motion toward the station; 'Im Bahnhof sein' indicates static location inside the station.",
+            "The second is walking.",
+            "There is no difference.",
+            "The first is past tense."
           ],
           "answerIndex": 0,
           "explanation": "Zum (motion to) vs. Im (static location in)."
@@ -7231,10 +7235,10 @@
         {
           "prompt": "Match the motion prepositions with their cases: durch den Park, um die Ecke, zur Haltestelle, vom Bahnhof:",
           "options": [
-            "All are Genitive (Apply directional motion prepositions governing the Accusative case durch)",
+            "All are Genitive",
             "durch den Park: Accusative (through)",
-            "All are food terms (Apply directional motion prepositions governing the Accusative case durch)",
-            "All are Nominative (Apply directional motion prepositions governing the Accusative case durch)"
+            "All are food terms",
+            "All are Nominative"
           ],
           "answerIndex": 1,
           "explanation": "Prepositional case governance matching.",
@@ -7243,10 +7247,10 @@
         {
           "prompt": "Translate: 'Wir laufen über den Alexanderplatz und gehen bis zur Marienkirche.'",
           "options": [
-            "We walk across Alexanderplatz and go as far as St. Mary's Church. (Apply directional motion prepositions governing the Accusative case durch)",
-            "St. Mary's Church is inside Alexanderplatz. (Apply directional motion prepositions governing the Accusative case durch)",
-            "We run away from St. Mary's Church. (Apply directional motion prepositions governing the Accusative case durch)",
-            "Alexanderplatz has no churches. (Apply directional motion prepositions governing the Accusative case durch)"
+            "We walk across Alexanderplatz and go as far as St. Mary's Church.",
+            "St. Mary's Church is inside Alexanderplatz.",
+            "We run away from St. Mary's Church.",
+            "Alexanderplatz has no churches."
           ],
           "answerIndex": 0,
           "explanation": "über den Alexanderplatz = across square (accusative); bis zur Marienkirche = as far as church.",
@@ -7255,10 +7259,10 @@
         {
           "prompt": "Why does 'durch' always govern the Accusative case?",
           "options": [
-            "It is a modern rule. (Apply directional motion prepositions governing the Accusative case durch)",
-            "Because it is an adjective. (Apply directional motion prepositions governing the Accusative case durch)",
-            "Because park is masculine. (Apply directional motion prepositions governing the Accusative case durch)",
-            "Because 'durch' belongs to the fixed group of DOGFU prepositions (Apply directional motion prepositions governing the Accusative case durch)"
+            "It is a modern rule.",
+            "Because it is an adjective.",
+            "Because park is masculine.",
+            "Because 'durch' belongs to the fixed group of DOGFU prepositions"
           ],
           "answerIndex": 3,
           "explanation": "DOGFU accusative prepositions: durch, ohne, gegen, für, um.",
@@ -7267,10 +7271,10 @@
         {
           "prompt": "Complete: 'Wie komme ich am schnellsten _______ (to the - fem) Universität?'",
           "options": [
-            "nach (Apply directional motion prepositions governing the Accusative case durch)",
-            "zum (Apply directional motion prepositions governing the Accusative case durch)",
-            "zur (Apply directional motion prepositions governing the Accusative case durch)",
-            "durch (Apply directional motion prepositions governing the Accusative case durch)"
+            "nach",
+            "zum",
+            "zur",
+            "durch"
           ],
           "answerIndex": 2,
           "explanation": "zur Universität (zu + der = zur).",
@@ -7397,7 +7401,7 @@
           "options": [
             "Passive voice subjunctive II only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating the Berlin SBahn and UBahn from Berlin Hauptbahnhof)",
             "Middle High German epic poetry only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating the Berlin SBahn and UBahn from Berlin Hauptbahnhof)",
-            "Public transit vocabulary (U-Bahn, S-Bahn, Gleis, Deutschlandticket, umsteigen)",
+            "Public transit vocabulary",
             "German alphabet phonetics only (Demonstrate comprehensive A2 navigation fluency by understanding and participating in a multiturn dialogue navigating the Berlin SBahn and UBahn from Berlin Hauptbahnhof)"
           ],
           "answerIndex": 2,
@@ -7454,10 +7458,10 @@
         {
           "prompt": "Welcher Artikel gehört zu allen Räumen, die auf '-zimmer' enden (Schlafzimmer, Wohnzimmer, Badezimmer)?",
           "options": [
-            "Der (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Die (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Die (Distractor variant)",
-            "Das (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Der",
+            "Die",
+            "Die (C)",
+            "Das"
           ],
           "answerIndex": 3,
           "explanation": "Every compound room ending in '-zimmer' is neuter: das Zimmer."
@@ -7465,10 +7469,10 @@
         {
           "prompt": "Wie heißt 'refrigerator' auf Deutsch mit korrektem Artikel?",
           "options": [
-            "Das Kühlschrank (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Die Kühlschrank (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Die Mikrowelle (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Der Kühlschrank (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Das Kühlschrank",
+            "Die Kühlschrank",
+            "Die Mikrowelle",
+            "Der Kühlschrank"
           ],
           "answerIndex": 3,
           "explanation": "Der Kühlschrank is masculine."
@@ -7480,10 +7484,10 @@
         {
           "prompt": "Übersetze ins Deutsche: 'The large bed is in the bedroom.'",
           "options": [
-            "Der Tisch steht in der Küche. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Das Sofa steht im Keller. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Der Stuhl steht auf dem Dach. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Das große Bett steht im Schlafzimmer. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Der Tisch steht in der Küche.",
+            "Das Sofa steht im Keller.",
+            "Der Stuhl steht auf dem Dach.",
+            "Das große Bett steht im Schlafzimmer."
           ],
           "answerIndex": 3,
           "explanation": "Das große Bett (bed) + im Schlafzimmer (in the bedroom)."
@@ -7491,10 +7495,10 @@
         {
           "prompt": "Was bedeutet eine '3-Zimmer-Wohnung' in Deutschland?",
           "options": [
-            "Eine Wohnung mit 3 Badezimmern (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Ein Haus mit 3 Garagen (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Ein Hotelzimmer für 3 Nächte (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Eine Wohnung mit drei Wohn-/Schlafräumen (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Eine Wohnung mit 3 Badezimmern",
+            "Ein Haus mit 3 Garagen",
+            "Ein Hotelzimmer für 3 Nächte",
+            "Eine Wohnung mit drei Wohn-/Schlafräumen"
           ],
           "answerIndex": 3,
           "explanation": "A 3-Zimmer-Wohnung has 3 habitable living/sleeping rooms."
@@ -7506,10 +7510,10 @@
         {
           "prompt": "Ordne die Räume und Artikel zu: Wohnzimmer, Küche, Flur, Balkon:",
           "options": [
-            "der Wohnzimmer | das Küche | die Flur | das Balkon (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "All take 'das' (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "All take 'die' (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "das Wohnzimmer | die Küche | der Flur | der Balkon (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "der Wohnzimmer | das Küche | die Flur | das Balkon",
+            "All take 'das'",
+            "All take 'die'",
+            "das Wohnzimmer | die Küche | der Flur | der Balkon"
           ],
           "answerIndex": 3,
           "explanation": "German rooms gender and article matching.",
@@ -7518,10 +7522,10 @@
         {
           "prompt": "Warum ist das Beherrschen der grammatischen Geschlechter (der/die/das) bei Möbeln so wichtig?",
           "options": [
-            "Weil es keine Verben im Deutschen gibt (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Es ist unwichtig (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
+            "Weil es keine Verben im Deutschen gibt",
+            "Es ist unwichtig",
             "Weil Präpositionen (in, auf, neben)",
-            "Nur für Prüfungen (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Nur für Prüfungen"
           ],
           "answerIndex": 2,
           "explanation": "Accurate gender knowledge governs two-way preposition cases (Dative for location).",
@@ -7530,10 +7534,10 @@
         {
           "prompt": "Ergänze: «In der Küche steht ein moderner _______ zum Kochen.»",
           "options": [
-            "Kleiderschrank (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Herd (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Teppich (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Bett (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Kleiderschrank",
+            "Herd",
+            "Teppich",
+            "Bett"
           ],
           "answerIndex": 1,
           "explanation": "Der Herd (stove) is used for cooking.",
@@ -7542,10 +7546,10 @@
         {
           "prompt": "Übersetze: 'The wardrobe is made of solid wood.'",
           "options": [
-            "Der Kleiderschrank ist aus massivem Holz. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Die Lampe ist aus Stein. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Der Tisch ist aus Wasser. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)",
-            "Das Sofa ist aus Glas. (Identify and describe rooms of the house and core furniture items in German with accurate grammatical genders and articles das Wohnzimmer)"
+            "Der Kleiderschrank ist aus massivem Holz.",
+            "Die Lampe ist aus Stein.",
+            "Der Tisch ist aus Wasser.",
+            "Das Sofa ist aus Glas."
           ],
           "answerIndex": 0,
           "explanation": "Der Kleiderschrank ist aus massivem Holz.",
@@ -7589,10 +7593,10 @@
         {
           "prompt": "Wie heißt 'to tidy up' auf Deutsch und wie verhält sich das Verb im Präsens?",
           "options": [
-            "Aufräumen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Machen auf (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Aufräumen (Distractor variant)",
-            "Putzen auf (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "Aufräumen",
+            "Machen auf",
+            "Aufräumen (C)",
+            "Putzen auf"
           ],
           "answerIndex": 0,
           "explanation": "Aufräumen is a separable verb: prefix 'auf' goes to the end in the present tense."
@@ -7600,10 +7604,10 @@
         {
           "prompt": "Wie heißt 'to wash the dishes' auf Deutsch?",
           "options": [
-            "Das Geschirr spülen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Den Müll kochen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Den Boden staubsaugen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Das Bett bügeln (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "Das Geschirr spülen",
+            "Den Müll kochen",
+            "Den Boden staubsaugen",
+            "Das Bett bügeln"
           ],
           "answerIndex": 0,
           "explanation": "Das Geschirr spülen / abwaschen means to do the dishes."
@@ -7615,10 +7619,10 @@
         {
           "prompt": "Übersetze ins Deutsche: 'I vacuum the living room every Friday.'",
           "options": [
-            "Jeden Freitag schlafe ich im Wohnzimmer. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Jeden Freitag staubsauge ich das Wohnzimmer. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Jeden Freitag kaufe ich ein neues Sofa. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Jeden Freitag fahre ich nach Berlin. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "Jeden Freitag schlafe ich im Wohnzimmer.",
+            "Jeden Freitag staubsauge ich das Wohnzimmer.",
+            "Jeden Freitag kaufe ich ein neues Sofa.",
+            "Jeden Freitag fahre ich nach Berlin."
           ],
           "answerIndex": 1,
           "explanation": "Staubsaugen describes vacuuming."
@@ -7626,10 +7630,10 @@
         {
           "prompt": "Was ist die 'Mülltrennung' in Deutschland?",
           "options": [
-            "Ein Kochrezept (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Ein Sportwettbewerb (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Die sorgfältige Trennung von Plastik, Papier, Bioabfall, Restmüll und Glas in verschiedene Tonnen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Ein Fernsehprogramm (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "Ein Kochrezept",
+            "Ein Sportwettbewerb",
+            "Die sorgfältige Trennung von Plastik, Papier, Bioabfall, Restmüll und Glas in verschiedene Tonnen",
+            "Ein Fernsehprogramm"
           ],
           "answerIndex": 2,
           "explanation": "Mülltrennung is systematic household waste recycling."
@@ -7641,10 +7645,10 @@
         {
           "prompt": "Ordne die Verben zu: Müll, Geschirr, Bett, Zimmer:",
           "options": [
-            "All mean driving (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "All mean cooking (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "den Müll rausbringen | das Geschirr spülen | das Bett machen | das Zimmer aufräumen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "den Müll kochen | das Geschirr werfen | das Bett waschen | das Zimmer essen (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "All mean driving",
+            "All mean cooking",
+            "den Müll rausbringen | das Geschirr spülen | das Bett machen | das Zimmer aufräumen",
+            "den Müll kochen | das Geschirr werfen | das Bett waschen | das Zimmer essen"
           ],
           "answerIndex": 2,
           "explanation": "German chore collocations matching.",
@@ -7653,10 +7657,10 @@
         {
           "prompt": "Ergänze den Satz mit der richtigen trennbaren Verbform: «Peter _______ den Müll jeden Abend _______ .» (rausbringen)",
           "options": [
-            "bringt / ab (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "bringt / raus (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "ist / rausgebracht (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "rausbringt / - (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "bringt / ab",
+            "bringt / raus",
+            "ist / rausgebracht",
+            "rausbringt / -"
           ],
           "answerIndex": 1,
           "explanation": "Rausbringen separates: bringt ... raus.",
@@ -7665,10 +7669,10 @@
         {
           "prompt": "Warum ist die Kehrwoche in Süddeutschland eine bekannte kulturelle Tradition?",
           "options": [
-            "Weil Mieter reihum wöchentlich für die Reinigung des Treppenhauses und des Gehwegs verantwortlich sind (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Weil man eine Woche im Urlaub ist (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Es ist ein Musikfestival (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Weil man eine Woche lang nicht putzt (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "Weil Mieter reihum wöchentlich für die Reinigung des Treppenhauses und des Gehwegs verantwortlich sind",
+            "Weil man eine Woche im Urlaub ist",
+            "Es ist ein Musikfestival",
+            "Weil man eine Woche lang nicht putzt"
           ],
           "answerIndex": 0,
           "explanation": "Kehrwoche is the rotating building hallway and sidewalk cleaning duty.",
@@ -7677,10 +7681,10 @@
         {
           "prompt": "Übersetze: 'My flatmate is doing the laundry in the basement.'",
           "options": [
-            "Mein Mitbewohner repariert das Auto. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Mein Mitbewohner kocht Suppe. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Mein Mitbewohner schläft im Garten. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)",
-            "Mein Mitbewohner wäscht die Wäsche im Keller. (Describe daily household chores and habits in German using common separable and nonseparable verb collocations die Wohnung putzen)"
+            "Mein Mitbewohner repariert das Auto.",
+            "Mein Mitbewohner kocht Suppe.",
+            "Mein Mitbewohner schläft im Garten.",
+            "Mein Mitbewohner wäscht die Wäsche im Keller."
           ],
           "answerIndex": 3,
           "explanation": "Wäscht die Wäsche im Keller.",
@@ -7724,10 +7728,10 @@
         {
           "prompt": "Wie lautet die 1. Person Singular (ich) von 'sein' im Präteritum?",
           "options": [
-            "Ich bin gewesen (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Ich warte (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Ich war (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Ich wäre (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "Ich bin gewesen",
+            "Ich warte",
+            "Ich war",
+            "Ich wäre"
           ],
           "answerIndex": 2,
           "explanation": "'Ich war' is the simple past (Präteritum) of sein."
@@ -7735,10 +7739,10 @@
         {
           "prompt": "Was passiert mit den Umlauten bei Modalverben im Präteritum (können, müssen, dürfen)?",
           "options": [
-            "Der Umlaut bleibt unverändert (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Ein doppelter Umlaut wird hinzugefügt (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Modalverben haben kein Präteritum (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Der Umlaut fällt weg: konnte, musste, durfte (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "Der Umlaut bleibt unverändert",
+            "Ein doppelter Umlaut wird hinzugefügt",
+            "Modalverben haben kein Präteritum",
+            "Der Umlaut fällt weg: konnte, musste, durfte"
           ],
           "answerIndex": 3,
           "explanation": "Modal verbs lose their umlauts in the Präteritum: können -> konnte."
@@ -7750,10 +7754,10 @@
         {
           "prompt": "Übersetze: 'When I was young, I wanted to become a musician.'",
           "options": [
-            "Als ich jung war, wollte ich Musiker werden. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Als ich jung bin, will ich Musiker sein. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Ich bin jung gestern. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Als ich jung war, musste ich Musiker schlafen. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "Als ich jung war, wollte ich Musiker werden.",
+            "Als ich jung bin, will ich Musiker sein.",
+            "Ich bin jung gestern.",
+            "Als ich jung war, musste ich Musiker schlafen."
           ],
           "answerIndex": 0,
           "explanation": "'War' (was) and 'wollte' (wanted) express past state and desire."
@@ -7761,10 +7765,10 @@
         {
           "prompt": "Konjugiere 'haben' für 'wir' im Präteritum:",
           "options": [
-            "Wir hatten (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Wir haben gehabt (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Wir habten (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Wir hattet (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "Wir hatten",
+            "Wir haben gehabt",
+            "Wir habten",
+            "Wir hattet"
           ],
           "answerIndex": 0,
           "explanation": "Wir hatten (we had)."
@@ -7776,10 +7780,10 @@
         {
           "prompt": "Ordne die Präteritum-Formen für 'ich' zu: sein, haben, können, müssen:",
           "options": [
-            "All end in -te (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "sein: war | haben: hatte | können: konnte | müssen: musste (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "All end in -st (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "sein: bin | haben: habe | können: kann | müssen: muss (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "All end in -te",
+            "sein: war | haben: hatte | können: konnte | müssen: musste",
+            "All end in -st",
+            "sein: bin | haben: habe | können: kann | müssen: muss"
           ],
           "answerIndex": 1,
           "explanation": "High-frequency Präteritum forms matching.",
@@ -7788,10 +7792,10 @@
         {
           "prompt": "Warum gilt die Regel, dass die 1. Person (ich) und die 3. Person (er/sie/es) im Präteritum immer identisch enden?",
           "options": [
-            "Das ist ein universelles historisch-germanisches Merkmal des Präteritums (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Nur im Süden Deutschlands (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Es ist reiner Zufall (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Nur bei unregelmäßigen Verben (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "Das ist ein universelles historisch-germanisches Merkmal des Präteritums",
+            "Nur im Süden Deutschlands",
+            "Es ist reiner Zufall",
+            "Nur bei unregelmäßigen Verben"
           ],
           "answerIndex": 0,
           "explanation": "In all German Präteritum paradigms, 1st and 3rd person singular forms are identical.",
@@ -7800,10 +7804,10 @@
         {
           "prompt": "Ergänze: «Gestern _______ wir keine Zeit, weil wir die Wohnung putzen _______ .» (haben / müssen)",
           "options": [
-            "hattet / musstet (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "waren / konnten (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "haben / müssen (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "hatten / mussten (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "hattet / musstet",
+            "waren / konnten",
+            "haben / müssen",
+            "hatten / mussten"
           ],
           "answerIndex": 3,
           "explanation": "Wir hatten keine Zeit / mussten putzen.",
@@ -7812,10 +7816,10 @@
         {
           "prompt": "Übersetze: 'We were very tired yesterday evening.'",
           "options": [
-            "Wir sind gestern Abend sehr müde gewesen. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Wir wurden gestern Abend müde. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Wir waren gestern Abend sehr müde. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)",
-            "Wir hatten gestern Abend sehr müde. (Conjugate and deploy the Prteritum Simple Past of essential highfrequency auxiliary and modal verbs sein  war)"
+            "Wir sind gestern Abend sehr müde gewesen.",
+            "Wir wurden gestern Abend müde.",
+            "Wir waren gestern Abend sehr müde.",
+            "Wir hatten gestern Abend sehr müde."
           ],
           "answerIndex": 2,
           "explanation": "Wir waren gestern Abend sehr müde.",
@@ -7994,10 +7998,10 @@
         {
           "prompt": "Im integrierten Text: Wo wohnte die Familie des Erzählers in der Kindheit?",
           "options": [
-            "In einem alten Fachwerkhaus in Süddeutschland mit riesigem Garten (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "In einem Hochhaus in Frankfurt (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Auf einem Schiff (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Im Keller einer Schule (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "In einem alten Fachwerkhaus in Süddeutschland mit riesigem Garten",
+            "In einem Hochhaus in Frankfurt",
+            "Auf einem Schiff",
+            "Im Keller einer Schule"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'lebte meine Familie in einem alten Fachwerkhaus in Süddeutschland. Wir hatten einen riesigen Garten'."
@@ -8005,10 +8009,10 @@
         {
           "prompt": "Welche höfliche Begrüßungsformel lädt Gäste ein, sich wie zu Hause zu fühlen?",
           "options": [
-            "Machen Sie es sich bequem! (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Bleiben Sie draußen! (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Bezahlen Sie Eintritt! (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Gehen Sie sofort weg! (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "Machen Sie es sich bequem!",
+            "Bleiben Sie draußen!",
+            "Bezahlen Sie Eintritt!",
+            "Gehen Sie sofort weg!"
           ],
           "answerIndex": 0,
           "explanation": "'Machen Sie es sich bequem' means 'Make yourself comfortable'."
@@ -8020,10 +8024,10 @@
         {
           "prompt": "Übersetze: 'Before, we lived in a quiet village and we had a dog.'",
           "options": [
-            "Morgen kaufen wir ein Dorf. (Synthesize housing and furniture vocabulary with correct grammatical genders)",
+            "Morgen kaufen wir ein Dorf.",
             "Früher lebten (wohnten)",
-            "Gestern haben wir einen Hund geschlafen. (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Jetzt wohnen wir im Hotel heute. (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "Gestern haben wir einen Hund geschlafen.",
+            "Jetzt wohnen wir im Hotel heute."
           ],
           "answerIndex": 1,
           "explanation": "Lebten and hatten accurately construct past habitual background."
@@ -8031,10 +8035,10 @@
         {
           "prompt": "Was bedeutet das deutsche Kulturkonzept der 'Gemütlichkeit'?",
           "options": [
-            "Schnelles Autofahren auf der Autobahn (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Eine Atmosphäre von Behaglichkeit, Wärme, Ruhe und herzlicher Wohlfühlatmosphäre zu Hause (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Lautes Feiern (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Harte Arbeit im Büro (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "Schnelles Autofahren auf der Autobahn",
+            "Eine Atmosphäre von Behaglichkeit, Wärme, Ruhe und herzlicher Wohlfühlatmosphäre zu Hause",
+            "Lautes Feiern",
+            "Harte Arbeit im Büro"
           ],
           "answerIndex": 1,
           "explanation": "Gemütlichkeit is the classic German notion of home coziness and warm hospitality."
@@ -8046,9 +8050,9 @@
         {
           "prompt": "Welche Kernkompetenzen wurden in Einheit 10 der deutschen Sprache gemeistert?",
           "options": [
-            "Konjunktiv I ausschließlich (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Nur Namen von Waldtieren (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Flugzeugbuchungen ausschließlich (Synthesize housing and furniture vocabulary with correct grammatical genders)",
+            "Konjunktiv I ausschließlich",
+            "Nur Namen von Waldtieren",
+            "Flugzeugbuchungen ausschließlich",
             "Wortschatz zu Wohnräumen und Möbeln mit korrekten Genera (war, hatte, konnte, musste)"
           ],
           "answerIndex": 3,
@@ -8058,10 +8062,10 @@
         {
           "prompt": "Vervollständige das deutsche Sprichwort: «Eigener Herd ist Goldes _______ .»",
           "options": [
-            "Verlust (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Feind (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "wert (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Gefahr (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "Verlust",
+            "Feind",
+            "wert",
+            "Gefahr"
           ],
           "answerIndex": 2,
           "explanation": "«Eigener Herd ist Goldes wert» (One's own hearth is worth gold).",
@@ -8070,10 +8074,10 @@
         {
           "prompt": "Warum ist die Unterscheidung zwischen Präteritum (in Erzählungen/für sein/haben/Modalverben) und Perfekt (im Alltag) ein entscheidender Meilenstein für das Niveau A2/B1?",
           "options": [
-            "Weil man dadurch keine Adjektive mehr braucht (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Weil es dem Lernenden ermöglicht, sowohl lebendig im Alltag zu sprechen als auch anspruchsvolle Texte und Erinnerungen natürlich zu formulieren (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Es hat keinen Einfluss auf die Sprache (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "Nur für Universitätsprofessoren (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "Weil man dadurch keine Adjektive mehr braucht",
+            "Weil es dem Lernenden ermöglicht, sowohl lebendig im Alltag zu sprechen als auch anspruchsvolle Texte und Erinnerungen natürlich zu formulieren",
+            "Es hat keinen Einfluss auf die Sprache",
+            "Nur für Universitätsprofessoren"
           ],
           "answerIndex": 1,
           "explanation": "Differentiating Präteritum and Perfekt is foundational for authentic German narrative competence.",
@@ -8082,10 +8086,10 @@
         {
           "prompt": "Ergänze im Präteritum: «In unserer Jugend _______ (haben) wir viel Spaß und _______ (spielen) jeden Tag draußen.»",
           "options": [
-            "hatten / spielten (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "hattet / spieltet (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "haben / spielen (Synthesize housing and furniture vocabulary with correct grammatical genders)",
-            "hat / spielte (Synthesize housing and furniture vocabulary with correct grammatical genders)"
+            "hatten / spielten",
+            "hattet / spieltet",
+            "haben / spielen",
+            "hat / spielte"
           ],
           "answerIndex": 0,
           "explanation": "Wir hatten / spielten.",
@@ -8127,10 +8131,10 @@
         {
           "prompt": "Was ist das deutsche Wort für \"Back\" (anatomisch)?",
           "options": [
-            "Der Kopf (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Der Bauch (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Das Bein (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Der Rücken (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)"
+            "Der Kopf",
+            "Der Bauch",
+            "Das Bein",
+            "Der Rücken"
           ],
           "answerIndex": 3,
           "explanation": "Der Rücken means the back."
@@ -8142,10 +8146,10 @@
         {
           "prompt": "Welcher Artikel gehört zu \"Kopf\"?",
           "options": [
-            "Die Kopf (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Das Kopf (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Die Köpfe (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Der Kopf (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)"
+            "Die Kopf",
+            "Das Kopf",
+            "Die Köpfe",
+            "Der Kopf"
           ],
           "answerIndex": 3,
           "explanation": "Der Kopf is masculine singular."
@@ -8157,10 +8161,10 @@
         {
           "prompt": "Übersetzen Sie: \"My eyes are tired from working on the computer.\"",
           "options": [
-            "Ich habe keine Augen mehr. (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Der Computer ist kaputt. (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Meine Augen sind müde von der Arbeit am Computer. (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Meine Füße laufen schnell. (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)"
+            "Ich habe keine Augen mehr.",
+            "Der Computer ist kaputt.",
+            "Meine Augen sind müde von der Arbeit am Computer.",
+            "Meine Füße laufen schnell."
           ],
           "answerIndex": 2,
           "explanation": "Meine Augen sind müde is accurate.",
@@ -8169,10 +8173,10 @@
         {
           "prompt": "Welche Körperteile gehören zum Gesicht?",
           "options": [
-            "Beine, Füße, Zehen (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Augen, Nase, Mund, Ohren (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Schultern und Knie (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)",
-            "Rücken und Bauch (Die menschlichen Krperteile auf Deutsch benennen und beschreiben)"
+            "Beine, Füße, Zehen",
+            "Augen, Nase, Mund, Ohren",
+            "Schultern und Knie",
+            "Rücken und Bauch"
           ],
           "answerIndex": 1,
           "explanation": "Augen, Nase, Mund, Ohren belong to the face.",
@@ -8209,10 +8213,10 @@
         {
           "prompt": "Ergänzen Sie: \"Mir ______ die Beine weh.\"",
           "options": [
-            "tun (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "haben (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "tut (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "macht (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)"
+            "tun",
+            "haben",
+            "tut",
+            "macht"
           ],
           "answerIndex": 0,
           "explanation": "Die Beine is plural, so \"tun ... weh\" is correct."
@@ -8224,10 +8228,10 @@
         {
           "prompt": "Was wünscht man einem kranken Kollegen in Deutschland?",
           "options": [
-            "Gute Besserung! (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "Guten Appetit! (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "Herzlichen Glückwunsch! (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "Prost! (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)"
+            "Gute Besserung!",
+            "Guten Appetit!",
+            "Herzlichen Glückwunsch!",
+            "Prost!"
           ],
           "answerIndex": 0,
           "explanation": "Gute Besserung! means get well soon."
@@ -8239,10 +8243,10 @@
         {
           "prompt": "Übersetzen Sie: \"His throat hurts and he has a cough.\"",
           "options": [
-            "Sein Kopf ist gesund. (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "Ihm tut der Hals weh und er hat Husten. (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "Er geht spazieren. (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "Er trinkt Wasser. (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)"
+            "Sein Kopf ist gesund.",
+            "Ihm tut der Hals weh und er hat Husten.",
+            "Er geht spazieren.",
+            "Er trinkt Wasser."
           ],
           "answerIndex": 1,
           "explanation": "Ihm tut der Hals weh und er hat Husten is exact.",
@@ -8251,10 +8255,10 @@
         {
           "prompt": "Was bedeutet \"Mir ist schwindelig\"?",
           "options": [
-            "I feel dizzy (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "I am happy (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "I am cold (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)",
-            "I am hungry (Schmerzen und Krankheitssymptome ausdrcken mit wehtun und haben)"
+            "I feel dizzy",
+            "I am happy",
+            "I am cold",
+            "I am hungry"
           ],
           "answerIndex": 0,
           "explanation": "Mir ist schwindelig means I feel dizzy.",
@@ -8292,10 +8296,10 @@
         {
           "prompt": "Was bedeutet \"dreimal täglich nach dem Essen\"?",
           "options": [
-            "Once every three days (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Three pills before breakfast (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Three times daily after meals (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Every three hours at night (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)"
+            "Once every three days",
+            "Three pills before breakfast",
+            "Three times daily after meals",
+            "Every three hours at night"
           ],
           "answerIndex": 2,
           "explanation": "Dreimal täglich nach dem Essen means 3 times a day after meals."
@@ -8307,10 +8311,10 @@
         {
           "prompt": "Wie heißt die offizielle ärztliche Verschreibung für rezeptpflichtige Medikamente?",
           "options": [
-            "Das Rezept (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Die Quittung (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Die Fahrkarte (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Die Speisekarte (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)"
+            "Das Rezept",
+            "Die Quittung",
+            "Die Fahrkarte",
+            "Die Speisekarte"
           ],
           "answerIndex": 0,
           "explanation": "Das Rezept is the prescription."
@@ -8322,10 +8326,10 @@
         {
           "prompt": "Übersetzen Sie: \"Take this cough syrup before going to sleep.\"",
           "options": [
-            "Nehmen Sie diesen Hustensaft vor dem Schlafengehen ein. (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Trinken Sie Kaffee vor dem Sport. (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Kaufen Sie Tabletten im Supermarkt. (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Essen Sie diesen Salat am Abend. (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)"
+            "Nehmen Sie diesen Hustensaft vor dem Schlafengehen ein.",
+            "Trinken Sie Kaffee vor dem Sport.",
+            "Kaufen Sie Tabletten im Supermarkt.",
+            "Essen Sie diesen Salat am Abend."
           ],
           "answerIndex": 0,
           "explanation": "Nehmen Sie diesen Hustensaft vor dem Schlafengehen ein is exact.",
@@ -8334,10 +8338,10 @@
         {
           "prompt": "Was bedeutet \"rezeptpflichtig\"?",
           "options": [
-            "Das Medikament ist kostenlos (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Das Medikament ist verboten (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Das Medikament gibt es im Kiosk (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)",
-            "Das Medikament darf nur mit ärztlichem Rezept verkauft werden (In der deutschen Apotheke Medikamente kaufen und Dosierungsanweisungen verstehen)"
+            "Das Medikament ist kostenlos",
+            "Das Medikament ist verboten",
+            "Das Medikament gibt es im Kiosk",
+            "Das Medikament darf nur mit ärztlichem Rezept verkauft werden"
           ],
           "answerIndex": 3,
           "explanation": "Rezeptpflichtig means prescription required.",
@@ -8456,10 +8460,10 @@
         {
           "prompt": "Was bedeutet die Abkürzung \"AU-Bescheinigung\" in Deutschland?",
           "options": [
-            "Arbeitsunfähigkeitsbescheinigung (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Auto-Unfall-Bericht (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Auslands-Urlaubs-Karte (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Arbeits-Uhr (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)"
+            "Arbeitsunfähigkeitsbescheinigung",
+            "Auto-Unfall-Bericht",
+            "Auslands-Urlaubs-Karte",
+            "Arbeits-Uhr"
           ],
           "answerIndex": 0,
           "explanation": "AU-Bescheinigung is the official certificate of incapacity for work."
@@ -8471,10 +8475,10 @@
         {
           "prompt": "Was bittet der Arzt mit den Worten: \"Bitte tief einatmen\"?",
           "options": [
-            "Please jump up and down (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Please inhale deeply (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Please close your mouth (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Please drink water (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)"
+            "Please jump up and down",
+            "Please inhale deeply",
+            "Please close your mouth",
+            "Please drink water"
           ],
           "answerIndex": 1,
           "explanation": "Tief einatmen means breathe in deeply."
@@ -8486,10 +8490,10 @@
         {
           "prompt": "Ordnen Sie den Ablauf eines Arztbesuchs chronologisch:",
           "options": [
-            "1. Bezahlen -> 2. Operation -> 3. Warten (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "1. Tabletten nehmen -> 2. Zum Arzt gehen -> 3. Krank werden (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "1. Gesundheitskarte an der Rezeption vorlegen -> 2. Arztgespräch und Untersuchung -> 3. Diagnose und Rezept / AU -> 4. Medikamente aus der Apotheke holen (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "1. Schlafen -> 2. Anrufen -> 3. Urlaub (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)"
+            "1. Bezahlen -> 2. Operation -> 3. Warten",
+            "1. Tabletten nehmen -> 2. Zum Arzt gehen -> 3. Krank werden",
+            "1. Gesundheitskarte an der Rezeption vorlegen -> 2. Arztgespräch und Untersuchung -> 3. Diagnose und Rezept / AU -> 4. Medikamente aus der Apotheke holen",
+            "1. Schlafen -> 2. Anrufen -> 3. Urlaub"
           ],
           "answerIndex": 2,
           "explanation": "Standard clinical visit workflow in Germany.",
@@ -8498,10 +8502,10 @@
         {
           "prompt": "Übersetzen Sie: \"The doctor advised me to stay in bed for three days.\"",
           "options": [
-            "Der Arzt hat ein neues Auto gekauft. (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Der Arzt hat mir geraten, drei Tage im Bett zu bleiben. (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Ich gehe heute Abend ins Theater. (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)",
-            "Die Praxis ist für immer geschlossen. (Einen vollstndigen Arztbesuch in einer deutschen Praxis mit Krankschreibung simulieren)"
+            "Der Arzt hat ein neues Auto gekauft.",
+            "Der Arzt hat mir geraten, drei Tage im Bett zu bleiben.",
+            "Ich gehe heute Abend ins Theater.",
+            "Die Praxis ist für immer geschlossen."
           ],
           "answerIndex": 1,
           "explanation": "Der Arzt hat mir geraten, drei Tage im Bett zu bleiben is exact.",
@@ -8538,10 +8542,10 @@
         {
           "prompt": "Wie sagt man „I work as an engineer“ auf Deutsch?",
           "options": [
-            "Ich bin ein Ingenieur von Beruf (Berufsbezeichnungen)",
-            "Ich habe Ingenieur (Berufsbezeichnungen)",
-            "Ich mache Ingenieur (Berufsbezeichnungen)",
-            "Ich arbeite als Ingenieur / Ingenieurin (Berufsbezeichnungen)"
+            "Ich bin ein Ingenieur von Beruf",
+            "Ich habe Ingenieur",
+            "Ich mache Ingenieur",
+            "Ich arbeite als Ingenieur / Ingenieurin"
           ],
           "answerIndex": 3,
           "explanation": "Ich arbeite als Ingenieur is standard."
@@ -8553,10 +8557,10 @@
         {
           "prompt": "Wie heißt die weibliche Form von „Lehrer“?",
           "options": [
-            "Die Lehrering (Berufsbezeichnungen)",
-            "Das Lehrer (Berufsbezeichnungen)",
-            "Die Lehrers (Berufsbezeichnungen)",
-            "Die Lehrerin (Berufsbezeichnungen)"
+            "Die Lehrering",
+            "Das Lehrer",
+            "Die Lehrers",
+            "Die Lehrerin"
           ],
           "answerIndex": 3,
           "explanation": "Die Lehrerin is feminine."
@@ -8568,10 +8572,10 @@
         {
           "prompt": "Was ist das deutsche Wort für „Lawyer“?",
           "options": [
-            "Der Arzt (Berufsbezeichnungen)",
-            "Der Rechtsanwalt / die Rechtsanwältin (Berufsbezeichnungen)",
-            "Der Verkäufer (Berufsbezeichnungen)",
-            "Der Bäcker (Berufsbezeichnungen)"
+            "Der Arzt",
+            "Der Rechtsanwalt / die Rechtsanwältin",
+            "Der Verkäufer",
+            "Der Bäcker"
           ],
           "answerIndex": 1,
           "explanation": "Rechtsanwalt means lawyer.",
@@ -8580,10 +8584,10 @@
         {
           "prompt": "Übersetzen Sie: \"He works at a multinational company in Frankfurt.\"",
           "options": [
-            "Er arbeitet bei einem multinationalen Unternehmen in Frankfurt. (Berufsbezeichnungen)",
-            "Er lernt in der Schule. (Berufsbezeichnungen)",
-            "Er schläft zu Hause. (Berufsbezeichnungen)",
-            "Er kauft ein Auto. (Berufsbezeichnungen)"
+            "Er arbeitet bei einem multinationalen Unternehmen in Frankfurt.",
+            "Er lernt in der Schule.",
+            "Er schläft zu Hause.",
+            "Er kauft ein Auto."
           ],
           "answerIndex": 0,
           "explanation": "Accurate business translation.",
@@ -8784,10 +8788,10 @@
         {
           "prompt": "Welche Grußformel ist der absolute Standard am Ende einer formellen geschäftlichen E-Mail auf Deutsch?",
           "options": [
-            "Bis dann Alter (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Mit freundlichen Grüßen (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Schönen Tag noch (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Tschüssi! (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)"
+            "Bis dann Alter",
+            "Mit freundlichen Grüßen",
+            "Schönen Tag noch",
+            "Tschüssi!"
           ],
           "answerIndex": 1,
           "explanation": "Mit freundlichen Grüßen is standard."
@@ -8799,10 +8803,10 @@
         {
           "prompt": "Wie lautet die korrekte Anrede, wenn man den Namen des Empfängers nicht kennt?",
           "options": [
-            "Sehr geehrte Damen und Herren, (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Wer ist da? (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Hallo Leute, (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Guten Tag du, (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)"
+            "Sehr geehrte Damen und Herren,",
+            "Wer ist da?",
+            "Hallo Leute,",
+            "Guten Tag du,"
           ],
           "answerIndex": 0,
           "explanation": "Sehr geehrte Damen und Herren is standard formal address."
@@ -8814,10 +8818,10 @@
         {
           "prompt": "Was bedeutet die Formulierung „Für Rückfragen stehe ich Ihnen gerne zur Verfügung“?",
           "options": [
-            "Ich habe keine Zeit mehr (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Bitte rufen Sie mich nie an (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Ich beantworte gerne weitere Fragen oder Unklarheiten (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Die Firma existiert nicht mehr (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)"
+            "Ich habe keine Zeit mehr",
+            "Bitte rufen Sie mich nie an",
+            "Ich beantworte gerne weitere Fragen oder Unklarheiten",
+            "Die Firma existiert nicht mehr"
           ],
           "answerIndex": 2,
           "explanation": "Available for follow-up questions.",
@@ -8826,10 +8830,10 @@
         {
           "prompt": "Übersetzen Sie: \"Thank you for your prompt response.\"",
           "options": [
-            "Sie haben zu lange gebraucht. (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Vielen Dank für Ihre schnelle Rückmeldung. (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Der Computer ist defekt. (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)",
-            "Ich habe keine E-Mail erhalten. (Formelle geschftliche EMails und professionelle Korrespondenz auf Deutsch verfassen)"
+            "Sie haben zu lange gebraucht.",
+            "Vielen Dank für Ihre schnelle Rückmeldung.",
+            "Der Computer ist defekt.",
+            "Ich habe keine E-Mail erhalten."
           ],
           "answerIndex": 1,
           "explanation": "Accurate business gratitude.",
@@ -8866,10 +8870,10 @@
         {
           "prompt": "In welcher Form wird in Deutschland üblicherweise das Gehalt verhandelt?",
           "options": [
-            "Als Bruttojahresgehalt (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Als Nettotageslohn (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "In bar pro Stunde (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "In Gutscheinen (Ein Vorstellungsgesprch auf Deutsch fhren)"
+            "Als Bruttojahresgehalt",
+            "Als Nettotageslohn",
+            "In bar pro Stunde",
+            "In Gutscheinen"
           ],
           "answerIndex": 0,
           "explanation": "Bruttojahresgehalt is standard."
@@ -8881,10 +8885,10 @@
         {
           "prompt": "Was bedeutet das Wort „Teamfähigkeit“ als berufliche Stärke?",
           "options": [
-            "Aufgaben zu verweigern (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Die Fähigkeit, konstruktiv und kooperativ mit Kollegen zusammenzuarbeiten (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Kollegen zu kritisieren (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Nur alleine im Keller zu arbeiten (Ein Vorstellungsgesprch auf Deutsch fhren)"
+            "Aufgaben zu verweigern",
+            "Die Fähigkeit, konstruktiv und kooperativ mit Kollegen zusammenzuarbeiten",
+            "Kollegen zu kritisieren",
+            "Nur alleine im Keller zu arbeiten"
           ],
           "answerIndex": 1,
           "explanation": "Teamfähigkeit means teamwork skills."
@@ -8896,10 +8900,10 @@
         {
           "prompt": "Welche Unterlagen gehören zur vollständigen deutschen Bewerbungsmappe?",
           "options": [
-            "Nur ein Passfoto (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Anschreiben, tabellarischer Lebenslauf und Zeugnisse (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Ein Rezept (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Eine Kinokarte (Ein Vorstellungsgesprch auf Deutsch fhren)"
+            "Nur ein Passfoto",
+            "Anschreiben, tabellarischer Lebenslauf und Zeugnisse",
+            "Ein Rezept",
+            "Eine Kinokarte"
           ],
           "answerIndex": 1,
           "explanation": "Cover letter, CV, and certificates.",
@@ -8908,10 +8912,10 @@
         {
           "prompt": "Übersetzen Sie: \"I have strong analytical and problem-solving skills.\"",
           "options": [
-            "Ich verfüge über ausgeprägte analytische Fähigkeiten und Problemlösungskompetenz. (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Ich kann keine Zahlen lesen. (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Ich habe keine Lust auf Aufgaben. (Ein Vorstellungsgesprch auf Deutsch fhren)",
-            "Die Firma ist geschlossen. (Ein Vorstellungsgesprch auf Deutsch fhren)"
+            "Ich verfüge über ausgeprägte analytische Fähigkeiten und Problemlösungskompetenz.",
+            "Ich kann keine Zahlen lesen.",
+            "Ich habe keine Lust auf Aufgaben.",
+            "Die Firma ist geschlossen."
           ],
           "answerIndex": 0,
           "explanation": "Accurate competency statement.",
@@ -9112,10 +9116,10 @@
         {
           "prompt": "In welcher deutschen Stadt befindet sich die spektakuläre, neue Konzerthalle „Elbphilharmonie“?",
           "options": [
-            "München (Klassische und zeitgenssische Musik Bach)",
-            "Köln (Klassische und zeitgenssische Musik Bach)",
-            "Hamburg (Klassische und zeitgenssische Musik Bach)",
-            "Stuttgart (Klassische und zeitgenssische Musik Bach)"
+            "München",
+            "Köln",
+            "Hamburg",
+            "Stuttgart"
           ],
           "answerIndex": 2,
           "explanation": "Hamburg."
@@ -9127,10 +9131,10 @@
         {
           "prompt": "Welches berühmte antike Kunstwerk ist im Neuen Museum auf der Berliner Museumsinsel ausgestellt?",
           "options": [
-            "Die Büste der Nofretete (Klassische und zeitgenssische Musik Bach)",
-            "Die Mona Lisa (Klassische und zeitgenssische Musik Bach)",
-            "Das Mädchen mit dem Perlenohrring (Klassische und zeitgenssische Musik Bach)",
-            "Die Venus von Milo (Klassische und zeitgenssische Musik Bach)"
+            "Die Büste der Nofretete",
+            "Die Mona Lisa",
+            "Das Mädchen mit dem Perlenohrring",
+            "Die Venus von Milo"
           ],
           "answerIndex": 0,
           "explanation": "Bust of Nefertiti."
@@ -9142,10 +9146,10 @@
         {
           "prompt": "Welche Musikrichtung hat Berlin zu einer weltweiten Kulturhauptstadt des Nachtlebens gemacht?",
           "options": [
-            "Nur Country-Musik (Klassische und zeitgenssische Musik Bach)",
-            "Stille (Klassische und zeitgenssische Musik Bach)",
-            "Elektronische Tanzmusik und Techno (Klassische und zeitgenssische Musik Bach)",
-            "Nur Volksmusik (Klassische und zeitgenssische Musik Bach)"
+            "Nur Country-Musik",
+            "Stille",
+            "Elektronische Tanzmusik und Techno",
+            "Nur Volksmusik"
           ],
           "answerIndex": 2,
           "explanation": "Electronic dance music and techno club culture.",
@@ -9154,10 +9158,10 @@
         {
           "prompt": "Übersetzen Sie: \"We bought tickets for the classical symphony concert.\"",
           "options": [
-            "Das Konzert war gestern. (Klassische und zeitgenssische Musik Bach)",
-            "Wir haben Karten für das klassische Sinfoniekonzert gekauft. (Klassische und zeitgenssische Musik Bach)",
-            "Wir hören keine Musik. (Klassische und zeitgenssische Musik Bach)",
-            "Wir haben die Karten verloren. (Klassische und zeitgenssische Musik Bach)"
+            "Das Konzert war gestern.",
+            "Wir haben Karten für das klassische Sinfoniekonzert gekauft.",
+            "Wir hören keine Musik.",
+            "Wir haben die Karten verloren."
           ],
           "answerIndex": 1,
           "explanation": "Accurate concert ticket translation.",
@@ -9277,10 +9281,10 @@
         {
           "prompt": "Welcher weltberühmte Filmpreis wird jährlich auf der Berlinale in Berlin verliehen?",
           "options": [
-            "Der Goldene Bär (Eine Rezension und Kulturkritik ber Filme)",
-            "Der Goldene Löwe (Eine Rezension und Kulturkritik ber Filme)",
-            "Die Goldene Palme (Eine Rezension und Kulturkritik ber Filme)",
-            "Der Oscar (Eine Rezension und Kulturkritik ber Filme)"
+            "Der Goldene Bär",
+            "Der Goldene Löwe",
+            "Die Goldene Palme",
+            "Der Oscar"
           ],
           "answerIndex": 0,
           "explanation": "Der Goldene Bär."
@@ -9292,10 +9296,10 @@
         {
           "prompt": "Was bedeutet das Wort „Meisterwerk“ in einer Kulturrezension?",
           "options": [
-            "Ein kurzes Gedicht (Eine Rezension und Kulturkritik ber Filme)",
-            "Ein unfertiger Entwurf (Eine Rezension und Kulturkritik ber Filme)",
-            "Ein herausragendes, vollendetes Kunstwerk von höchster Qualität (Eine Rezension und Kulturkritik ber Filme)",
-            "Ein handwerklicher Fehler (Eine Rezension und Kulturkritik ber Filme)"
+            "Ein kurzes Gedicht",
+            "Ein unfertiger Entwurf",
+            "Ein herausragendes, vollendetes Kunstwerk von höchster Qualität",
+            "Ein handwerklicher Fehler"
           ],
           "answerIndex": 2,
           "explanation": "Meisterwerk means masterpiece."
@@ -9307,10 +9311,10 @@
         {
           "prompt": "Welcher deutsche Film über die Stasi in Ost-Berlin gewann 2007 den Oscar für den besten fremdsprachigen Film?",
           "options": [
-            "Das Leben der Anderen (Eine Rezension und Kulturkritik ber Filme)",
-            "Good Bye, Lenin! (Eine Rezension und Kulturkritik ber Filme)",
-            "Der Untergang (Eine Rezension und Kulturkritik ber Filme)",
-            "Lola rennt (Eine Rezension und Kulturkritik ber Filme)"
+            "Das Leben der Anderen",
+            "Good Bye, Lenin!",
+            "Der Untergang",
+            "Lola rennt"
           ],
           "answerIndex": 0,
           "explanation": "Das Leben der Anderen.",
@@ -9319,10 +9323,10 @@
         {
           "prompt": "Übersetzen Sie: \"The plot is gripping and full of unexpected twists.\"",
           "options": [
-            "Ich habe die Geschichte nicht verstanden. (Eine Rezension und Kulturkritik ber Filme)",
-            "Das Buch hat kein Ende. (Eine Rezension und Kulturkritik ber Filme)",
-            "Der Film war langweilig. (Eine Rezension und Kulturkritik ber Filme)",
-            "Die Handlung ist packend und voller unerwarteter Wendungen. (Eine Rezension und Kulturkritik ber Filme)"
+            "Ich habe die Geschichte nicht verstanden.",
+            "Das Buch hat kein Ende.",
+            "Der Film war langweilig.",
+            "Die Handlung ist packend und voller unerwarteter Wendungen."
           ],
           "answerIndex": 3,
           "explanation": "Accurate review translation.",
@@ -9359,10 +9363,10 @@
         {
           "prompt": "Wie heißt das Dokument, das man zum Einsteigen ins Flugzeug benötigt?",
           "options": [
-            "Der Führerschein (Wortschatz und Ablufe am Flughafen)",
-            "Die Hotelrechnung (Wortschatz und Ablufe am Flughafen)",
-            "Die Postkarte (Wortschatz und Ablufe am Flughafen)",
-            "Die Bordkarte (Wortschatz und Ablufe am Flughafen)"
+            "Der Führerschein",
+            "Die Hotelrechnung",
+            "Die Postkarte",
+            "Die Bordkarte"
           ],
           "answerIndex": 3,
           "explanation": "Die Bordkarte is boarding pass."
@@ -9374,10 +9378,10 @@
         {
           "prompt": "Übersetzen Sie: \"The flight to Munich is delayed by thirty minutes.\"",
           "options": [
-            "Das Flugzeug ist pünktlich gelandet. (Wortschatz und Ablufe am Flughafen)",
-            "Es gibt keine Flüge nach München. (Wortschatz und Ablufe am Flughafen)",
-            "Der Flughafen ist geschlossen. (Wortschatz und Ablufe am Flughafen)",
-            "Der Flug nach München hat dreißig Minuten Verspätung. (Wortschatz und Ablufe am Flughafen)"
+            "Das Flugzeug ist pünktlich gelandet.",
+            "Es gibt keine Flüge nach München.",
+            "Der Flughafen ist geschlossen.",
+            "Der Flug nach München hat dreißig Minuten Verspätung."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9389,10 +9393,10 @@
         {
           "prompt": "Wo holen Fluggäste nach der Landung ihre aufgegebenen Koffer ab?",
           "options": [
-            "Im Cockpit des Piloten (Wortschatz und Ablufe am Flughafen)",
-            "Am Check-in-Schalter (Wortschatz und Ablufe am Flughafen)",
-            "Auf der Startbahn (Wortschatz und Ablufe am Flughafen)",
-            "An der Gepäckausgabe (Wortschatz und Ablufe am Flughafen)"
+            "Im Cockpit des Piloten",
+            "Am Check-in-Schalter",
+            "Auf der Startbahn",
+            "An der Gepäckausgabe"
           ],
           "answerIndex": 3,
           "explanation": "Gepäckausgabe / Gepäckband.",
@@ -9401,10 +9405,10 @@
         {
           "prompt": "Übersetzen Sie: \"Please proceed to boarding gate B12 immediately.\"",
           "options": [
-            "Verlassen Sie den Flughafen. (Wortschatz und Ablufe am Flughafen)",
-            "Kaufen Sie ein neues Ticket. (Wortschatz und Ablufe am Flughafen)",
-            "Bitte begeben Sie sich unverzüglich zu Flugsteig B12 zum Einsteigen. (Wortschatz und Ablufe am Flughafen)",
-            "Der Flug ist gelandet. (Wortschatz und Ablufe am Flughafen)"
+            "Verlassen Sie den Flughafen.",
+            "Kaufen Sie ein neues Ticket.",
+            "Bitte begeben Sie sich unverzüglich zu Flugsteig B12 zum Einsteigen.",
+            "Der Flug ist gelandet."
           ],
           "answerIndex": 2,
           "explanation": "Accurate boarding announcement.",
@@ -9441,10 +9445,10 @@
         {
           "prompt": "Wie sagt man an der Rezeption, dass man ein Zimmer gebucht hat?",
           "options": [
-            "Ich habe eine Reservierung auf den Namen (Unterkunft buchen im DACHRaum)",
-            "Geben Sie mir Geld (Unterkunft buchen im DACHRaum)",
-            "Ich will hier nicht schlafen (Unterkunft buchen im DACHRaum)",
-            "Das Hotel gehört mir (Unterkunft buchen im DACHRaum)"
+            "Ich habe eine Reservierung auf den Namen",
+            "Geben Sie mir Geld",
+            "Ich will hier nicht schlafen",
+            "Das Hotel gehört mir"
           ],
           "answerIndex": 0,
           "explanation": "Ich habe eine Reservierung auf den Namen... is standard."
@@ -9456,10 +9460,10 @@
         {
           "prompt": "Was bedeutet die Abkürzung „ÜF“ bei Hotelangeboten im deutschen Sprachraum?",
           "options": [
-            "Übernachtung mit Frühstück (Unterkunft buchen im DACHRaum)",
-            "Überfall (Unterkunft buchen im DACHRaum)",
-            "Übung (Unterkunft buchen im DACHRaum)",
-            "Ohne Fenster (Unterkunft buchen im DACHRaum)"
+            "Übernachtung mit Frühstück",
+            "Überfall",
+            "Übung",
+            "Ohne Fenster"
           ],
           "answerIndex": 0,
           "explanation": "Übernachtung mit Frühstück (Bed & Breakfast)."
@@ -9471,10 +9475,10 @@
         {
           "prompt": "Was ist eine traditionelle „Almhütte“ in den bayerischen oder österreichischen Alpen?",
           "options": [
-            "Ein riesiger Wolkenkratzer (Unterkunft buchen im DACHRaum)",
-            "Ein U-Bahnhof (Unterkunft buchen im DACHRaum)",
-            "Eine urige Berghütte in den Hochalpen für Wanderer und Skifahrer (Unterkunft buchen im DACHRaum)",
-            "Ein Bürogebäude (Unterkunft buchen im DACHRaum)"
+            "Ein riesiger Wolkenkratzer",
+            "Ein U-Bahnhof",
+            "Eine urige Berghütte in den Hochalpen für Wanderer und Skifahrer",
+            "Ein Bürogebäude"
           ],
           "answerIndex": 2,
           "explanation": "Almhütte.",
@@ -9483,10 +9487,10 @@
         {
           "prompt": "Übersetzen Sie: \"Could you please give me the wifi password and an extra keycard?\"",
           "options": [
-            "Das Zimmer ist schmutzig. (Unterkunft buchen im DACHRaum)",
-            "Könnten Sie mir bitte das WLAN-Passwort und eine zusätzliche Schlüsselkarte geben? (Unterkunft buchen im DACHRaum)",
-            "Das Frühstück ist vorbei. (Unterkunft buchen im DACHRaum)",
-            "Ich habe keine Reservierung. (Unterkunft buchen im DACHRaum)"
+            "Das Zimmer ist schmutzig.",
+            "Könnten Sie mir bitte das WLAN-Passwort und eine zusätzliche Schlüsselkarte geben?",
+            "Das Frühstück ist vorbei.",
+            "Ich habe keine Reservierung."
           ],
           "answerIndex": 1,
           "explanation": "Accurate reception inquiry.",
@@ -9523,10 +9527,10 @@
         {
           "prompt": "Wie heißt der berühmte weiße Hochgeschwindigkeitszug der Deutschen Bahn?",
           "options": [
-            "Die Kutsche (Bahnreisen im deutschen Sprachraum)",
-            "Die Seilbahn (Bahnreisen im deutschen Sprachraum)",
-            "Der ICE (Bahnreisen im deutschen Sprachraum)",
-            "Der Güterzug (Bahnreisen im deutschen Sprachraum)"
+            "Die Kutsche",
+            "Die Seilbahn",
+            "Der ICE",
+            "Der Güterzug"
           ],
           "answerIndex": 2,
           "explanation": "Der ICE."
@@ -9538,10 +9542,10 @@
         {
           "prompt": "Wie nennt man das bundesweite Nahverkehrsticket für den gesamten öffentlichen Nahverkehr in Deutschland?",
           "options": [
-            "Das Deutschlandticket (Bahnreisen im deutschen Sprachraum)",
-            "Das Flugticket (Bahnreisen im deutschen Sprachraum)",
-            "Die Autobahnvignette (Bahnreisen im deutschen Sprachraum)",
-            "Der Kinogutschein (Bahnreisen im deutschen Sprachraum)"
+            "Das Deutschlandticket",
+            "Das Flugticket",
+            "Die Autobahnvignette",
+            "Der Kinogutschein"
           ],
           "answerIndex": 0,
           "explanation": "Das Deutschlandticket."
@@ -9553,10 +9557,10 @@
         {
           "prompt": "Auf welchem Aushang am Bahnsteig sieht man, in welchem Abschnitt (A-G) der eigene reservierte Wagen hält?",
           "options": [
-            "Im Telefonbuch (Bahnreisen im deutschen Sprachraum)",
-            "Am Wagenstandsanzeiger (Bahnreisen im deutschen Sprachraum)",
-            "Auf der Postkarte (Bahnreisen im deutschen Sprachraum)",
-            "Auf der Speisekarte (Bahnreisen im deutschen Sprachraum)"
+            "Im Telefonbuch",
+            "Am Wagenstandsanzeiger",
+            "Auf der Postkarte",
+            "Auf der Speisekarte"
           ],
           "answerIndex": 1,
           "explanation": "Der Wagenstandsanzeiger.",
@@ -9565,10 +9569,10 @@
         {
           "prompt": "Übersetzen Sie: \"Please check your ticket for the coach and seat reservation number.\"",
           "options": [
-            "Bitte prüfen Sie auf Ihrer Fahrkarte die Wagennummer und die Sitzplatzreservierung. (Bahnreisen im deutschen Sprachraum)",
-            "Gehen Sie vom Gleis weg. (Bahnreisen im deutschen Sprachraum)",
-            "Es gibt keine Züge mehr. (Bahnreisen im deutschen Sprachraum)",
-            "Der Zug wurde gestrichen. (Bahnreisen im deutschen Sprachraum)"
+            "Bitte prüfen Sie auf Ihrer Fahrkarte die Wagennummer und die Sitzplatzreservierung.",
+            "Gehen Sie vom Gleis weg.",
+            "Es gibt keine Züge mehr.",
+            "Der Zug wurde gestrichen."
           ],
           "answerIndex": 0,
           "explanation": "Accurate train boarding instruction.",
@@ -9605,10 +9609,10 @@
         {
           "prompt": "Welche grundlegende Verkehrsregel gilt streng auf deutschen Autobahnen?",
           "options": [
-            "Man darf rückwärts fahren (Autofahren auf der Autobahn)",
-            "Das Rechtsfahrgebot (Autofahren auf der Autobahn)",
-            "Es gibt keine Spuren (Autofahren auf der Autobahn)",
-            "Man darf überall rechts überholen (Autofahren auf der Autobahn)"
+            "Man darf rückwärts fahren",
+            "Das Rechtsfahrgebot",
+            "Es gibt keine Spuren",
+            "Man darf überall rechts überholen"
           ],
           "answerIndex": 1,
           "explanation": "Rechtsfahrgebot (keep right, pass left only)."
@@ -9620,10 +9624,10 @@
         {
           "prompt": "Was bedeutet eine „Vollkaskoversicherung ohne Selbstbeteiligung“ beim Mietwagen?",
           "options": [
-            "Voller Versicherungsschutz ohne eigene Zuzahlung im Schadensfall (Autofahren auf der Autobahn)",
-            "Nur Reifenschutz (Autofahren auf der Autobahn)",
-            "Versicherung nur bei Sonnenschein (Autofahren auf der Autobahn)",
-            "Gar keine Versicherung (Autofahren auf der Autobahn)"
+            "Voller Versicherungsschutz ohne eigene Zuzahlung im Schadensfall",
+            "Nur Reifenschutz",
+            "Versicherung nur bei Sonnenschein",
+            "Gar keine Versicherung"
           ],
           "answerIndex": 0,
           "explanation": "Zero deductible comprehensive coverage."
@@ -9635,10 +9639,10 @@
         {
           "prompt": "Wie heißt die empfohlene Richtgeschwindigkeit auf unbegrenzten Abschnitten der deutschen Autobahn?",
           "options": [
-            "130 km/h (Autofahren auf der Autobahn)",
-            "20 km/h (Autofahren auf der Autobahn)",
-            "50 km/h (Autofahren auf der Autobahn)",
-            "300 km/h (Autofahren auf der Autobahn)"
+            "130 km/h",
+            "20 km/h",
+            "50 km/h",
+            "300 km/h"
           ],
           "answerIndex": 0,
           "explanation": "130 km/h Richtgeschwindigkeit.",
@@ -9647,10 +9651,10 @@
         {
           "prompt": "Übersetzen Sie: \"We rented a car to drive through the Black Forest and Bavarian Alps.\"",
           "options": [
-            "Es gibt keine Straßen in den Bergen. (Autofahren auf der Autobahn)",
-            "Wir haben das Auto verkauft. (Autofahren auf der Autobahn)",
-            "Das Auto ist kaputt. (Autofahren auf der Autobahn)",
-            "Wir haben einen Mietwagen gemietet, um durch den Schwarzwald und die bayerischen Alpen zu fahren. (Autofahren auf der Autobahn)"
+            "Es gibt keine Straßen in den Bergen.",
+            "Wir haben das Auto verkauft.",
+            "Das Auto ist kaputt.",
+            "Wir haben einen Mietwagen gemietet, um durch den Schwarzwald und die bayerischen Alpen zu fahren."
           ],
           "answerIndex": 3,
           "explanation": "Accurate road trip translation.",
@@ -9687,10 +9691,10 @@
         {
           "prompt": "Welches europäische Gesetz sichert Passagieren Ausgleichszahlungen bei Flugannullierungen zu?",
           "options": [
-            "Die EU-Fluggastrechteverordnung VO (Reiseprobleme lsen)",
-            "Das Bürgerliche Gesetzbuch von 1900 (Reiseprobleme lsen)",
-            "Das Seefahrtsrecht (Reiseprobleme lsen)",
-            "Die Straßenverkehrsordnung (Reiseprobleme lsen)"
+            "Die EU-Fluggastrechteverordnung VO",
+            "Das Bürgerliche Gesetzbuch von 1900",
+            "Das Seefahrtsrecht",
+            "Die Straßenverkehrsordnung"
           ],
           "answerIndex": 0,
           "explanation": "EU-Verordnung 261/2004."
@@ -9702,10 +9706,10 @@
         {
           "prompt": "Wo meldet man in deutschen Städten verlorene Gegenstände wie Geldbeutel oder Handys?",
           "options": [
-            "Beim Reiseveranstalter (Reiseprobleme lsen)",
-            "Im Kino (Reiseprobleme lsen)",
-            "Im städtischen Fundbüro (Reiseprobleme lsen)",
-            "In der Bäckerei (Reiseprobleme lsen)"
+            "Beim Reiseveranstalter",
+            "Im Kino",
+            "Im städtischen Fundbüro",
+            "In der Bäckerei"
           ],
           "answerIndex": 2,
           "explanation": "Fundbüro (Lost and Found office)."
@@ -9717,10 +9721,10 @@
         {
           "prompt": "Was muss man am Flughafen ausfüllen, wenn der aufgegebene Koffer nicht am Gepäckband ankommt?",
           "options": [
-            "Einen Arbeitsvertrag (Reiseprobleme lsen)",
-            "Einen Mietvertrag (Reiseprobleme lsen)",
-            "Einen Reisepassantrag (Reiseprobleme lsen)",
-            "Einen Gepäckverlustbericht (Reiseprobleme lsen)"
+            "Einen Arbeitsvertrag",
+            "Einen Mietvertrag",
+            "Einen Reisepassantrag",
+            "Einen Gepäckverlustbericht"
           ],
           "answerIndex": 3,
           "explanation": "PIR report.",
@@ -9729,10 +9733,10 @@
         {
           "prompt": "Übersetzen Sie: \"My suitcase is heavily damaged and one wheel is missing.\"",
           "options": [
-            "Ich habe keinen Koffer. (Reiseprobleme lsen)",
-            "Mein Koffer ist neu und sauber. (Reiseprobleme lsen)",
-            "Mein Koffer ist stark beschädigt und ein Rad fehlt. (Reiseprobleme lsen)",
-            "Das Gepäck ist pünktlich angekommen. (Reiseprobleme lsen)"
+            "Ich habe keinen Koffer.",
+            "Mein Koffer ist neu und sauber.",
+            "Mein Koffer ist stark beschädigt und ein Rad fehlt.",
+            "Das Gepäck ist pünktlich angekommen."
           ],
           "answerIndex": 2,
           "explanation": "Accurate damage report translation.",
@@ -9851,10 +9855,10 @@
         {
           "prompt": "Was bedeutet die deutsche Redewendung „Das Kleid sitzt wie angegossen“?",
           "options": [
-            "Das Kleid passt absolut perfekt und hat eine ideale Passform (Die Umkleidekabine)",
-            "Das Kleid ist schmutzig (Die Umkleidekabine)",
-            "Das Kleid ist nass geworden (Die Umkleidekabine)",
-            "Das Kleid ist zerrissen (Die Umkleidekabine)"
+            "Das Kleid passt absolut perfekt und hat eine ideale Passform",
+            "Das Kleid ist schmutzig",
+            "Das Kleid ist nass geworden",
+            "Das Kleid ist zerrissen"
           ],
           "answerIndex": 0,
           "explanation": "Sitzt wie angegossen means fits like a glove."
@@ -9866,10 +9870,10 @@
         {
           "prompt": "Wo probiert man Kleidung im Geschäft an?",
           "options": [
-            "In der Umkleidekabine (Die Umkleidekabine)",
-            "An der Kasse (Die Umkleidekabine)",
-            "Im Schaufenster (Die Umkleidekabine)",
-            "Auf der Straße (Die Umkleidekabine)"
+            "In der Umkleidekabine",
+            "An der Kasse",
+            "Im Schaufenster",
+            "Auf der Straße"
           ],
           "answerIndex": 0,
           "explanation": "In der Umkleidekabine."
@@ -9881,10 +9885,10 @@
         {
           "prompt": "Was bedeutet es, wenn jemand sagt: „Dieses Blau steht dir wirklich ausgezeichnet“?",
           "options": [
-            "Die Farbe ist hässlich (Die Umkleidekabine)",
-            "Die Farbe Blau passt wunderbar zu deinem Aussehen und Typ (Die Umkleidekabine)",
-            "Das Hemd ist zu groß (Die Umkleidekabine)",
-            "Das Hemd ist teuer (Die Umkleidekabine)"
+            "Die Farbe ist hässlich",
+            "Die Farbe Blau passt wunderbar zu deinem Aussehen und Typ",
+            "Das Hemd ist zu groß",
+            "Das Hemd ist teuer"
           ],
           "answerIndex": 1,
           "explanation": "Steht dir ausgezeichnet.",
@@ -9893,10 +9897,10 @@
         {
           "prompt": "Übersetzen Sie: \"The trousers are too long; do you offer alteration service to shorten them?\"",
           "options": [
-            "Die Hose ist zu lang; bieten Sie einen Änderungsservice zum Kürzen an? (Die Umkleidekabine)",
-            "Ich kaufe keine Hosen. (Die Umkleidekabine)",
-            "Es gibt keine Hosen. (Die Umkleidekabine)",
-            "Die Hose ist billig. (Die Umkleidekabine)"
+            "Die Hose ist zu lang; bieten Sie einen Änderungsservice zum Kürzen an?",
+            "Ich kaufe keine Hosen.",
+            "Es gibt keine Hosen.",
+            "Die Hose ist billig."
           ],
           "answerIndex": 0,
           "explanation": "Accurate tailoring inquiry.",
@@ -9933,10 +9937,10 @@
         {
           "prompt": "Wie heißt die in Deutschland am weitesten verbreitete nationale Debitkarte der Banken und Sparkassen?",
           "options": [
-            "Die Kinokarte (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Die Girocard (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Die Fahrkarte (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Die Postkarte (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)"
+            "Die Kinokarte",
+            "Die Girocard",
+            "Die Fahrkarte",
+            "Die Postkarte"
           ],
           "answerIndex": 1,
           "explanation": "Die Girocard."
@@ -9948,10 +9952,10 @@
         {
           "prompt": "Wie nennt man auf Deutsch einen besonders günstigen Kauf oder ein tolles Preisangebot?",
           "options": [
-            "Ein Schnäppchen / Sonderangebot (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Ein Verlust (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Ein Strafzettel (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Ein Fehlschlag (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)"
+            "Ein Schnäppchen / Sonderangebot",
+            "Ein Verlust",
+            "Ein Strafzettel",
+            "Ein Fehlschlag"
           ],
           "answerIndex": 0,
           "explanation": "Ein Schnäppchen."
@@ -9963,10 +9967,10 @@
         {
           "prompt": "Wie heißt der Kaufbeleg, den man nach der Bezahlung an der Kasse erhält?",
           "options": [
-            "Der Kassenbon (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Der Führerschein (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Das Rezept (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Der Personalausweis (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)"
+            "Der Kassenbon",
+            "Der Führerschein",
+            "Das Rezept",
+            "Der Personalausweis"
           ],
           "answerIndex": 0,
           "explanation": "Der Kassenbon / die Quittung.",
@@ -9975,10 +9979,10 @@
         {
           "prompt": "Übersetzen Sie: \"Can I pay contactless with my credit card or smartphone?\"",
           "options": [
-            "Die Kasse ist kaputt. (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Ich habe kein Geld. (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Ich will nicht bezahlen. (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)",
-            "Kann ich kontaktlos mit meiner Kreditkarte oder dem Smartphone bezahlen? (Schlussverkauf Sommerschlussverkauf  Winterschlussverkauf)"
+            "Die Kasse ist kaputt.",
+            "Ich habe kein Geld.",
+            "Ich will nicht bezahlen.",
+            "Kann ich kontaktlos mit meiner Kreditkarte oder dem Smartphone bezahlen?"
           ],
           "answerIndex": 3,
           "explanation": "Accurate payment method inquiry.",
@@ -10015,10 +10019,10 @@
         {
           "prompt": "Welcher berühmte historische Markt für Spezialitäten und Delikatessen liegt mitten im Zentrum von München?",
           "options": [
-            "Der Alexanderplatz (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Viktualienmarkt (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Potsdamer Platz (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Fischmarkt Hamburg (Wochenmrkte Viktualienmarkt in Mnchen)"
+            "Der Alexanderplatz",
+            "Der Viktualienmarkt",
+            "Der Potsdamer Platz",
+            "Der Fischmarkt Hamburg"
           ],
           "answerIndex": 1,
           "explanation": "Der Viktualienmarkt in Munich."
@@ -10030,10 +10034,10 @@
         {
           "prompt": "Wie viel Pfandgeld erhält man in Deutschland standardmäßig für eine Einweg-Plastikflasche mit DPG-Logo?",
           "options": [
-            "25 Cent Pfand (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "1 Cent (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Gar kein Geld (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "5 Euro (Wochenmrkte Viktualienmarkt in Mnchen)"
+            "25 Cent Pfand",
+            "1 Cent",
+            "Gar kein Geld",
+            "5 Euro"
           ],
           "answerIndex": 0,
           "explanation": "25 Cent Einwegpfand."
@@ -10045,10 +10049,10 @@
         {
           "prompt": "Welcher Berliner Park ist berühmt für seinen sonntäglichen riesigen Flohmarkt und das Open-Air-Karaoke?",
           "options": [
-            "Der Volkspark (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Englische Garten (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Tiergarten (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Mauerpark (Wochenmrkte Viktualienmarkt in Mnchen)"
+            "Der Volkspark",
+            "Der Englische Garten",
+            "Der Tiergarten",
+            "Der Mauerpark"
           ],
           "answerIndex": 3,
           "explanation": "Der Mauerpark in Berlin.",
@@ -10057,10 +10061,10 @@
         {
           "prompt": "Übersetzen Sie: \"Please give me half a kilogram of regional mountain cheese and five apples.\"",
           "options": [
-            "Verkaufen Sie mir alte Zeitungen. (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Der Markt ist geschlossen. (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Geben Sie mir bitte ein halbes Kilo regionalen Bergkäse und fünf Äpfel. (Wochenmrkte Viktualienmarkt in Mnchen)",
-            "Ich mag keinen Käse. (Wochenmrkte Viktualienmarkt in Mnchen)"
+            "Verkaufen Sie mir alte Zeitungen.",
+            "Der Markt ist geschlossen.",
+            "Geben Sie mir bitte ein halbes Kilo regionalen Bergkäse und fünf Äpfel.",
+            "Ich mag keinen Käse."
           ],
           "answerIndex": 2,
           "explanation": "Accurate market counter purchase.",
@@ -10261,10 +10265,10 @@
         {
           "prompt": "Wie heißt die beliebte kulinarische Frühlingssaison in Deutschland für frischen weißen Spargel?",
           "options": [
-            "Die Spargelzeit (Die vier Jahreszeiten im DACHRaum)",
-            "Das Oktoberfest (Die vier Jahreszeiten im DACHRaum)",
-            "Die Grünkohlzeit (Die vier Jahreszeiten im DACHRaum)",
-            "Das Weinfest (Die vier Jahreszeiten im DACHRaum)"
+            "Die Spargelzeit",
+            "Das Oktoberfest",
+            "Die Grünkohlzeit",
+            "Das Weinfest"
           ],
           "answerIndex": 0,
           "explanation": "Die Spargelzeit."
@@ -10276,10 +10280,10 @@
         {
           "prompt": "Wie nennt man die milden, sonnigen und goldenen Spätsommertage im September und Oktober in Deutschland?",
           "options": [
-            "Der Altweibersommer (Die vier Jahreszeiten im DACHRaum)",
-            "Der Frosttag (Die vier Jahreszeiten im DACHRaum)",
-            "Die Hundstage (Die vier Jahreszeiten im DACHRaum)",
-            "Die Polarnacht (Die vier Jahreszeiten im DACHRaum)"
+            "Der Altweibersommer",
+            "Der Frosttag",
+            "Die Hundstage",
+            "Die Polarnacht"
           ],
           "answerIndex": 0,
           "explanation": "Der Altweibersommer."
@@ -10291,10 +10295,10 @@
         {
           "prompt": "Welcher Baum spendet in traditionellen bayerischen Biergärten traditionell kühlen Schatten für die Gäste?",
           "options": [
-            "Die Rosskastanie (Die vier Jahreszeiten im DACHRaum)",
-            "Der Kaktus (Die vier Jahreszeiten im DACHRaum)",
-            "Der Bambus (Die vier Jahreszeiten im DACHRaum)",
-            "Die Palme (Die vier Jahreszeiten im DACHRaum)"
+            "Die Rosskastanie",
+            "Der Kaktus",
+            "Der Bambus",
+            "Die Palme"
           ],
           "answerIndex": 0,
           "explanation": "Die Rosskastanie (Kastanie).",
@@ -10303,10 +10307,10 @@
         {
           "prompt": "Übersetzen Sie: \"In winter, millions of visitors enjoy mulled wine and gingerbread at traditional Christmas markets.\"",
           "options": [
-            "Im Winter schwimmt man im Freibad. (Die vier Jahreszeiten im DACHRaum)",
-            "Weihnachtsmärkte gibt es im Juli. (Die vier Jahreszeiten im DACHRaum)",
-            "Niemand mag Lebkuchen. (Die vier Jahreszeiten im DACHRaum)",
-            "Im Winter genießen Millionen Besucher Glühwein und Lebkuchen auf den traditionellen Weihnachtsmärkten. (Die vier Jahreszeiten im DACHRaum)"
+            "Im Winter schwimmt man im Freibad.",
+            "Weihnachtsmärkte gibt es im Juli.",
+            "Niemand mag Lebkuchen.",
+            "Im Winter genießen Millionen Besucher Glühwein und Lebkuchen auf den traditionellen Weihnachtsmärkten."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Christmas market translation.",
@@ -10343,10 +10347,10 @@
         {
           "prompt": "Welcher smaragdgrüne alpine Fjordsee liegt eingebettet zwischen steilen Bergwänden im Nationalpark Berchtesgaden?",
           "options": [
-            "Der Bodensee (Nationalparks und Naturwunder im DACHRaum)",
-            "Der Königssee (Nationalparks und Naturwunder im DACHRaum)",
-            "Die Müritz (Nationalparks und Naturwunder im DACHRaum)",
-            "Der Wannsee (Nationalparks und Naturwunder im DACHRaum)"
+            "Der Bodensee",
+            "Der Königssee",
+            "Die Müritz",
+            "Der Wannsee"
           ],
           "answerIndex": 1,
           "explanation": "Der Königssee."
@@ -10358,10 +10362,10 @@
         {
           "prompt": "Welches einzigartige Gezeiten-Ökosystem an der deutschen Nordseeküste ist UNESCO-Weltnaturerbe?",
           "options": [
-            "Das Wattenmeer (Nationalparks und Naturwunder im DACHRaum)",
-            "Der Schwarzwald (Nationalparks und Naturwunder im DACHRaum)",
-            "Der Taunus (Nationalparks und Naturwunder im DACHRaum)",
-            "Der Harz (Nationalparks und Naturwunder im DACHRaum)"
+            "Das Wattenmeer",
+            "Der Schwarzwald",
+            "Der Taunus",
+            "Der Harz"
           ],
           "answerIndex": 0,
           "explanation": "Das Wattenmeer."
@@ -10373,10 +10377,10 @@
         {
           "prompt": "Welche berühmte steinerne Aussichtsbrücke spannt sich über die bizarren Felsnadeln der Sächsischen Schweiz?",
           "options": [
-            "Die Karlsbrücke (Nationalparks und Naturwunder im DACHRaum)",
-            "Die Krämerbrücke (Nationalparks und Naturwunder im DACHRaum)",
-            "Die Tower Bridge (Nationalparks und Naturwunder im DACHRaum)",
-            "Die Basteibrücke (Nationalparks und Naturwunder im DACHRaum)"
+            "Die Karlsbrücke",
+            "Die Krämerbrücke",
+            "Die Tower Bridge",
+            "Die Basteibrücke"
           ],
           "answerIndex": 3,
           "explanation": "Die Basteibrücke.",
@@ -10385,10 +10389,10 @@
         {
           "prompt": "Übersetzen Sie: \"Guided mudflat hiking across the Wadden Sea during low tide is a unique natural experience.\"",
           "options": [
-            "Im Wattenmeer kann man nicht laufen. (Nationalparks und Naturwunder im DACHRaum)",
-            "Es gibt keine Ebbe an der Nordsee. (Nationalparks und Naturwunder im DACHRaum)",
-            "Eine geführte Wattwanderung durch das Wattenmeer bei Ebbe ist ein einzigartiges Naturerlebnis. (Nationalparks und Naturwunder im DACHRaum)",
-            "Das Wattenmeer ist immer trocken. (Nationalparks und Naturwunder im DACHRaum)"
+            "Im Wattenmeer kann man nicht laufen.",
+            "Es gibt keine Ebbe an der Nordsee.",
+            "Eine geführte Wattwanderung durch das Wattenmeer bei Ebbe ist ein einzigartiges Naturerlebnis.",
+            "Das Wattenmeer ist immer trocken."
           ],
           "answerIndex": 2,
           "explanation": "Accurate mudflat hiking translation.",
@@ -10425,10 +10429,10 @@
         {
           "prompt": "Wie heißt die offizielle Notfall- und Katastrophen-Warn-App der Bundesrepublik Deutschland?",
           "options": [
-            "Instagram (Deutscher Wetterdienst DWD)",
-            "Die NINA-Warn-App (Deutscher Wetterdienst DWD)",
-            "Spotify (Deutscher Wetterdienst DWD)",
-            "WhatsApp (Deutscher Wetterdienst DWD)"
+            "Instagram",
+            "Die NINA-Warn-App",
+            "Spotify",
+            "WhatsApp"
           ],
           "answerIndex": 1,
           "explanation": "Die NINA-Warn-App."
@@ -10440,10 +10444,10 @@
         {
           "prompt": "Welche Bundeseinrichtung ist in Deutschland für offizielle Wettervorhersagen und Unwetterwarnungen zuständig?",
           "options": [
-            "Der DWD (Deutscher Wetterdienst DWD)",
-            "Die Post (Deutscher Wetterdienst DWD)",
-            "Der Bundesrat (Deutscher Wetterdienst DWD)",
-            "Die Deutsche Bahn (Deutscher Wetterdienst DWD)"
+            "Der DWD",
+            "Die Post",
+            "Der Bundesrat",
+            "Die Deutsche Bahn"
           ],
           "answerIndex": 0,
           "explanation": "Der DWD."
@@ -10455,10 +10459,10 @@
         {
           "prompt": "Wie nennt man die gefährliche, plötzlich gefrierende Eisschicht auf Straßen und Gehwegen im Winter?",
           "options": [
-            "Neuschnee (Deutscher Wetterdienst DWD)",
-            "Tau (Deutscher Wetterdienst DWD)",
-            "Blitzeis / Glatteis (Deutscher Wetterdienst DWD)",
-            "Graupel (Deutscher Wetterdienst DWD)"
+            "Neuschnee",
+            "Tau",
+            "Blitzeis / Glatteis",
+            "Graupel"
           ],
           "answerIndex": 2,
           "explanation": "Blitzeis / Glatteis.",
@@ -10467,10 +10471,10 @@
         {
           "prompt": "Übersetzen Sie: \"Due to severe flood warnings along the river banks, low-lying areas must be evacuated immediately.\"",
           "options": [
-            "Bleiben Sie am Flussufer stehen. (Deutscher Wetterdienst DWD)",
-            "Wegen schwerer Hochwasserwarnungen entlang der Flussufer müssen tiefer liegende Gebiete sofort evakuiert werden. (Deutscher Wetterdienst DWD)",
-            "Das Flussufer ist vollkommen trocken. (Deutscher Wetterdienst DWD)",
-            "Es gibt kein Hochwasser. (Deutscher Wetterdienst DWD)"
+            "Bleiben Sie am Flussufer stehen.",
+            "Wegen schwerer Hochwasserwarnungen entlang der Flussufer müssen tiefer liegende Gebiete sofort evakuiert werden.",
+            "Das Flussufer ist vollkommen trocken.",
+            "Es gibt kein Hochwasser."
           ],
           "answerIndex": 1,
           "explanation": "Accurate flood evacuation order translation.",
@@ -10507,10 +10511,10 @@
         {
           "prompt": "In welchem Jahr hat Deutschland den vollständigen Ausstieg aus der kommerziellen Atomenergie abgeschlossen?",
           "options": [
-            "Im Jahr 2023 (Die deutsche Energiewende)",
-            "Im Jahr 1950 (Die deutsche Energiewende)",
-            "Noch gar nicht (Die deutsche Energiewende)",
-            "Im Jahr 2100 (Die deutsche Energiewende)"
+            "Im Jahr 2023",
+            "Im Jahr 1950",
+            "Noch gar nicht",
+            "Im Jahr 2100"
           ],
           "answerIndex": 0,
           "explanation": "2023 (Vollständiger Atomausstieg)."
@@ -10522,10 +10526,10 @@
         {
           "prompt": "In welche Mülltonne gehören Verpackungen aus Plastik, Verbundstoffen und Metall mit dem „Grünen Punkt“?",
           "options": [
-            "In die Papiertonne (Die deutsche Energiewende)",
-            "In die Biotonne (Die deutsche Energiewende)",
-            "In den Glascontainer (Die deutsche Energiewende)",
-            "In die Gelbe Tonne (Die deutsche Energiewende)"
+            "In die Papiertonne",
+            "In die Biotonne",
+            "In den Glascontainer",
+            "In die Gelbe Tonne"
           ],
           "answerIndex": 3,
           "explanation": "Die Gelbe Tonne."
@@ -10537,10 +10541,10 @@
         {
           "prompt": "Wie sortiert man Altglas an den öffentlichen Glascontainern in Deutschland ordnungsgemäß?",
           "options": [
-            "Alle Flaschen durcheinander (Die deutsche Energiewende)",
-            "Nach Farben getrennt: Weißglas, Braunglas und Grünglas (Die deutsche Energiewende)",
-            "Glas wird nicht recycelt (Die deutsche Energiewende)",
-            "Man wirft Glas in den Hausmüll (Die deutsche Energiewende)"
+            "Alle Flaschen durcheinander",
+            "Nach Farben getrennt: Weißglas, Braunglas und Grünglas",
+            "Glas wird nicht recycelt",
+            "Man wirft Glas in den Hausmüll"
           ],
           "answerIndex": 1,
           "explanation": "Nach Farben getrennt (Weiß, Braun, Grün).",
@@ -10549,10 +10553,10 @@
         {
           "prompt": "Übersetzen Sie: \"Investing in offshore wind farms and expanding the power grid is essential for clean energy.\"",
           "options": [
-            "Investitionen in Offshore-Windparks und der Netzausbau sind unerlässlich für saubere Energie. (Die deutsche Energiewende)",
-            "Windenergie ist verboten. (Die deutsche Energiewende)",
-            "Wir sollten mehr Kohle verbrennen. (Die deutsche Energiewende)",
-            "Das Stromnetz ist unwichtig. (Die deutsche Energiewende)"
+            "Investitionen in Offshore-Windparks und der Netzausbau sind unerlässlich für saubere Energie.",
+            "Windenergie ist verboten.",
+            "Wir sollten mehr Kohle verbrennen.",
+            "Das Stromnetz ist unwichtig."
           ],
           "answerIndex": 0,
           "explanation": "Accurate clean energy translation.",
@@ -10671,10 +10675,10 @@
         {
           "prompt": "An welchem weithin sichtbaren roten Zeichen erkennt man Apotheken in ganz Deutschland?",
           "options": [
-            "An einem großen roten gotischen „A“ mit weißer Schale und Schlange (Die Apotheke in Deutschland Rotes ASymbol)",
-            "An einem gelben Stern (Die Apotheke in Deutschland Rotes ASymbol)",
-            "An einem blauen Kreis (Die Apotheke in Deutschland Rotes ASymbol)",
-            "An einem grünen Dreieck (Die Apotheke in Deutschland Rotes ASymbol)"
+            "An einem großen roten gotischen „A“ mit weißer Schale und Schlange",
+            "An einem gelben Stern",
+            "An einem blauen Kreis",
+            "An einem grünen Dreieck"
           ],
           "answerIndex": 0,
           "explanation": "Rotes gotisches „A“."
@@ -10686,10 +10690,10 @@
         {
           "prompt": "Wie heißt der Beipackzettel mit wichtigen medizinischen Hinweisen, der jeder Medikamentenpackung beiliegt?",
           "options": [
-            "Die Packungsbeilage (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Die Tageszeitung (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Der Kassenbon (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Der Roman (Die Apotheke in Deutschland Rotes ASymbol)"
+            "Die Packungsbeilage",
+            "Die Tageszeitung",
+            "Der Kassenbon",
+            "Der Roman"
           ],
           "answerIndex": 0,
           "explanation": "Die Packungsbeilage."
@@ -10701,10 +10705,10 @@
         {
           "prompt": "Wie nennt man die Apotheke, die nachts und an Sonn- und Feiertagen für dringende Notfälle geöffnet ist?",
           "options": [
-            "Die Tagesapotheke (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Der Drogeriemarkt (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Der Supermarkt (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Die Notdienst-Apotheke (Die Apotheke in Deutschland Rotes ASymbol)"
+            "Die Tagesapotheke",
+            "Der Drogeriemarkt",
+            "Der Supermarkt",
+            "Die Notdienst-Apotheke"
           ],
           "answerIndex": 3,
           "explanation": "Die Notdienst-Apotheke.",
@@ -10713,10 +10717,10 @@
         {
           "prompt": "Übersetzen Sie: \"Take one tablet every eight hours with a glass of water after meals for five consecutive days.\"",
           "options": [
-            "Nehmen Sie die ganze Packung auf einmal. (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Nehmen Sie kein Medikament ein. (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Nehmen Sie alle acht Stunden eine Tablette mit einem Glas Wasser nach den Mahlzeiten für fünf aufeinanderfolgende Tage ein. (Die Apotheke in Deutschland Rotes ASymbol)",
-            "Das Medikament ist abgelaufen. (Die Apotheke in Deutschland Rotes ASymbol)"
+            "Nehmen Sie die ganze Packung auf einmal.",
+            "Nehmen Sie kein Medikament ein.",
+            "Nehmen Sie alle acht Stunden eine Tablette mit einem Glas Wasser nach den Mahlzeiten für fünf aufeinanderfolgende Tage ein.",
+            "Das Medikament ist abgelaufen."
           ],
           "answerIndex": 2,
           "explanation": "Accurate posology translation.",
@@ -10835,10 +10839,10 @@
         {
           "prompt": "Was bedeutet die Vorsilbe „Bad“ im Namen einer deutschen Stadt (z.B. Bad Kissingen)?",
           "options": [
-            "Dass es dort keine Ärzte gibt (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Dass es sich um einen staatlich anerkannten Kurort mit Heilbädern handelt (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Dass es ein Schwimmbad am Bahnhof ist (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Dass die Stadt schlecht ist (Deutsche Kurorte und Heilbder Bad Fssing)"
+            "Dass es dort keine Ärzte gibt",
+            "Dass es sich um einen staatlich anerkannten Kurort mit Heilbädern handelt",
+            "Dass es ein Schwimmbad am Bahnhof ist",
+            "Dass die Stadt schlecht ist"
           ],
           "answerIndex": 1,
           "explanation": "Staatlich anerkannter Kurort (Bad)."
@@ -10850,10 +10854,10 @@
         {
           "prompt": "Welcher bayerische Pfarrer und Naturheilkundler begründete die berühmte 5-Säulen-Wassertherapie (Kneipp-Kur)?",
           "options": [
-            "Sebastian Kneipp (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Albert Einstein (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Johann Wolfgang von Goethe (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Robert Koch (Deutsche Kurorte und Heilbder Bad Fssing)"
+            "Sebastian Kneipp",
+            "Albert Einstein",
+            "Johann Wolfgang von Goethe",
+            "Robert Koch"
           ],
           "answerIndex": 0,
           "explanation": "Sebastian Kneipp."
@@ -10865,10 +10869,10 @@
         {
           "prompt": "Wie nennt man die typische Kneipp-Wasseranwendung, bei der man im kalten Wasser wie ein Storch auf der Stelle schreitet?",
           "options": [
-            "Das Rudern (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Das Wassertreten (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Das Tiefseetauchen (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Das Wettschwimmen (Deutsche Kurorte und Heilbder Bad Fssing)"
+            "Das Rudern",
+            "Das Wassertreten",
+            "Das Tiefseetauchen",
+            "Das Wettschwimmen"
           ],
           "answerIndex": 1,
           "explanation": "Das Wassertreten.",
@@ -10877,10 +10881,10 @@
         {
           "prompt": "Übersetzen Sie: \"Regular exercise in nature, thermal mineral baths, and balanced nutrition promote lifelong health.\"",
           "options": [
-            "Regelmäßige Bewegung in der Natur, Thermalmineralbäder und eine ausgewogene Ernährung fördern die lebenslange Gesundheit. (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Mineralbäder sind schädlich. (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Natur und Sport sind ungesund. (Deutsche Kurorte und Heilbder Bad Fssing)",
-            "Fast Food ist die beste Medizin. (Deutsche Kurorte und Heilbder Bad Fssing)"
+            "Regelmäßige Bewegung in der Natur, Thermalmineralbäder und eine ausgewogene Ernährung fördern die lebenslange Gesundheit.",
+            "Mineralbäder sind schädlich.",
+            "Natur und Sport sind ungesund.",
+            "Fast Food ist die beste Medizin."
           ],
           "answerIndex": 0,
           "explanation": "Accurate wellness statement translation.",
@@ -10917,10 +10921,10 @@
         {
           "prompt": "Welcher deutsche Physiker entdeckte 1895 die nach ihm benannten Strahlen und erhielt dafür den allerersten Nobelpreis für Physik?",
           "options": [
-            "Wilhelm Conrad Röntgen (Deutsche Meilensteine der Medizingeschichte)",
-            "Robert Koch (Deutsche Meilensteine der Medizingeschichte)",
-            "Johannes Gutenberg (Deutsche Meilensteine der Medizingeschichte)",
-            "Max Planck (Deutsche Meilensteine der Medizingeschichte)"
+            "Wilhelm Conrad Röntgen",
+            "Robert Koch",
+            "Johannes Gutenberg",
+            "Max Planck"
           ],
           "answerIndex": 0,
           "explanation": "Wilhelm Conrad Röntgen."
@@ -10932,10 +10936,10 @@
         {
           "prompt": "Welches traditionsreiche Berliner Klinikum zählt zu den größten und forschungsstärksten Universitätskliniken ganz Europas?",
           "options": [
-            "Das Rote Rathaus (Deutsche Meilensteine der Medizingeschichte)",
-            "Das Brandenburger Tor (Deutsche Meilensteine der Medizingeschichte)",
-            "Das Humboldt Forum (Deutsche Meilensteine der Medizingeschichte)",
-            "Die Charité – Universitätsmedizin Berlin (Deutsche Meilensteine der Medizingeschichte)"
+            "Das Rote Rathaus",
+            "Das Brandenburger Tor",
+            "Das Humboldt Forum",
+            "Die Charité – Universitätsmedizin Berlin"
           ],
           "answerIndex": 3,
           "explanation": "Die Charité."
@@ -10947,10 +10951,10 @@
         {
           "prompt": "Welches nach dem berühmten Bakteriologen benannte Bundesinstitut ist in Deutschland die zentrale Behörde für Krankheitsüberwachung und Seuchenschutz?",
           "options": [
-            "Das Robert Koch-Institut (Deutsche Meilensteine der Medizingeschichte)",
-            "Das Goethe-Institut (Deutsche Meilensteine der Medizingeschichte)",
-            "Das Statistische Bundesamt (Deutsche Meilensteine der Medizingeschichte)",
-            "Das Umweltbundesamt (Deutsche Meilensteine der Medizingeschichte)"
+            "Das Robert Koch-Institut",
+            "Das Goethe-Institut",
+            "Das Statistische Bundesamt",
+            "Das Umweltbundesamt"
           ],
           "answerIndex": 0,
           "explanation": "Das Robert Koch-Institut (RKI).",
@@ -10959,10 +10963,10 @@
         {
           "prompt": "Übersetzen Sie: \"Pioneering biomedical discoveries such as mRNA technology and medical imaging continue to transform global healthcare.\"",
           "options": [
-            "Impfstoffe sind nutzlos. (Deutsche Meilensteine der Medizingeschichte)",
-            "Moderne Medizin bringt keine Fortschritte. (Deutsche Meilensteine der Medizingeschichte)",
-            "Die Charité betreibt keine Forschung. (Deutsche Meilensteine der Medizingeschichte)",
-            "Wegweisende biomedizinische Entdeckungen wie die mRNA-Technologie und die Bildgebung revolutionieren weiterhin die globale Gesundheitsversorgung. (Deutsche Meilensteine der Medizingeschichte)"
+            "Impfstoffe sind nutzlos.",
+            "Moderne Medizin bringt keine Fortschritte.",
+            "Die Charité betreibt keine Forschung.",
+            "Wegweisende biomedizinische Entdeckungen wie die mRNA-Technologie und die Bildgebung revolutionieren weiterhin die globale Gesundheitsversorgung."
           ],
           "answerIndex": 3,
           "explanation": "Accurate biomedical history translation.",
@@ -11081,10 +11085,10 @@
         {
           "prompt": "Welches Formular muss der Vermieter dem Mieter aushändigen, damit dieser sich beim Bürgeramt anmelden kann?",
           "options": [
-            "Die Wohnungsgeberbestätigung (Die Wohnungsgeberbesttigung)",
-            "Das Zeugnis (Die Wohnungsgeberbesttigung)",
-            "Den Kaufvertrag (Die Wohnungsgeberbesttigung)",
-            "Die Quittung vom Supermarkt (Die Wohnungsgeberbesttigung)"
+            "Die Wohnungsgeberbestätigung",
+            "Das Zeugnis",
+            "Den Kaufvertrag",
+            "Die Quittung vom Supermarkt"
           ],
           "answerIndex": 0,
           "explanation": "Die Wohnungsgeberbestätigung."
@@ -11096,10 +11100,10 @@
         {
           "prompt": "In welche Mülltonne gehören in Deutschland saubere Kartons, Pappe und alte Zeitungen?",
           "options": [
-            "In die blaue Tonne (Die Wohnungsgeberbesttigung)",
-            "In die gelbe Tonne (Die Wohnungsgeberbesttigung)",
-            "In den Restmüll (Die Wohnungsgeberbesttigung)",
-            "In den Biomüll (Die Wohnungsgeberbesttigung)"
+            "In die blaue Tonne",
+            "In die gelbe Tonne",
+            "In den Restmüll",
+            "In den Biomüll"
           ],
           "answerIndex": 0,
           "explanation": "Die blaue Tonne (Altpapier)."
@@ -11111,10 +11115,10 @@
         {
           "prompt": "Wie hoch ist die gesetzliche Frist, innerhalb derer man sich nach dem Umzug in Deutschland beim Einwohnermeldeamt ummelden muss?",
           "options": [
-            "Nach fünf Jahren (Die Wohnungsgeberbesttigung)",
-            "Innerhalb von 24 Stunden nur (Die Wohnungsgeberbesttigung)",
-            "Innerhalb von zwei Wochen (Die Wohnungsgeberbesttigung)",
-            "Eine Anmeldung ist freiwillig (Die Wohnungsgeberbesttigung)"
+            "Nach fünf Jahren",
+            "Innerhalb von 24 Stunden nur",
+            "Innerhalb von zwei Wochen",
+            "Eine Anmeldung ist freiwillig"
           ],
           "answerIndex": 2,
           "explanation": "Innerhalb von zwei Wochen (14 Tage).",
@@ -11123,10 +11127,10 @@
         {
           "prompt": "Übersetzen Sie: \"The tenant successfully registered their address at the citizens' office and received their official registration certificate.\"",
           "options": [
-            "Das Bürgeramt verweigerte die Anmeldung. (Die Wohnungsgeberbesttigung)",
-            "Der Mieter meldete seinen Wohnsitz erfolgreich beim Bürgeramt an und erhielt seine amtliche Meldebestätigung. (Die Wohnungsgeberbesttigung)",
-            "Man darf sich nicht in Deutschland anmelden. (Die Wohnungsgeberbesttigung)",
-            "Die Meldebestätigung ist ungültig. (Die Wohnungsgeberbesttigung)"
+            "Das Bürgeramt verweigerte die Anmeldung.",
+            "Der Mieter meldete seinen Wohnsitz erfolgreich beim Bürgeramt an und erhielt seine amtliche Meldebestätigung.",
+            "Man darf sich nicht in Deutschland anmelden.",
+            "Die Meldebestätigung ist ungültig."
           ],
           "answerIndex": 1,
           "explanation": "Accurate civic registration translation.",
@@ -11163,10 +11167,10 @@
         {
           "prompt": "Was bedeutet der Begriff „Stoßlüften“ in der deutschen Wohnkultur?",
           "options": [
-            "Die Fenster das ganze Jahr geschlossen halten (Die deutsche Hausordnung)",
-            "Mehrmals täglich die Fenster für 5-10 Minuten komplett weit öffnen für einen schnellen Luftaustausch (Die deutsche Hausordnung)",
-            "Die Fenster nur einen Spalt ankippen (Die deutsche Hausordnung)",
-            "Die Türen abschließen (Die deutsche Hausordnung)"
+            "Die Fenster das ganze Jahr geschlossen halten",
+            "Mehrmals täglich die Fenster für 5-10 Minuten komplett weit öffnen für einen schnellen Luftaustausch",
+            "Die Fenster nur einen Spalt ankippen",
+            "Die Türen abschließen"
           ],
           "answerIndex": 1,
           "explanation": "Stoßlüften (Fenster ganz öffnen)."
@@ -11178,10 +11182,10 @@
         {
           "prompt": "Ab wie viel Uhr gilt in deutschen Mietshäusern abends die gesetzlich geschützte Nachtruhe?",
           "options": [
-            "Ab 22:00 Uhr (Die deutsche Hausordnung)",
-            "Es gibt keine Nachtruhe (Die deutsche Hausordnung)",
-            "Ab 18:00 Uhr (Die deutsche Hausordnung)",
-            "Ab Mitternacht (Die deutsche Hausordnung)"
+            "Ab 22:00 Uhr",
+            "Es gibt keine Nachtruhe",
+            "Ab 18:00 Uhr",
+            "Ab Mitternacht"
           ],
           "answerIndex": 0,
           "explanation": "Ab 22:00 Uhr."
@@ -11193,10 +11197,10 @@
         {
           "prompt": "Welcher Tag der Woche ist in Deutschland ganztägig als gesetzlicher Ruhetag geschützt (kein Rasenmähen oder Baulärm)?",
           "options": [
-            "Der Freitag (Die deutsche Hausordnung)",
-            "Der Sonntag (Die deutsche Hausordnung)",
-            "Der Mittwochvormittag (Die deutsche Hausordnung)",
-            "Der Dienstag (Die deutsche Hausordnung)"
+            "Der Freitag",
+            "Der Sonntag",
+            "Der Mittwochvormittag",
+            "Der Dienstag"
           ],
           "answerIndex": 1,
           "explanation": "Der Sonntag.",
@@ -11205,10 +11209,10 @@
         {
           "prompt": "Übersetzen Sie: \"Strict adherence to building quiet hours and regular shock ventilation ensures a peaceful and healthy residential environment.\"",
           "options": [
-            "Die strikte Einhaltung der Hausruhezeiten und regelmäßiges Stoßlüften gewährleisten ein friedliches und gesundes Wohnklima. (Die deutsche Hausordnung)",
-            "Lüften schadet der Wohnung. (Die deutsche Hausordnung)",
-            "Die Hausordnung ist unverbindlich. (Die deutsche Hausordnung)",
-            "Lärm ist rund um die Uhr erlaubt. (Die deutsche Hausordnung)"
+            "Die strikte Einhaltung der Hausruhezeiten und regelmäßiges Stoßlüften gewährleisten ein friedliches und gesundes Wohnklima.",
+            "Lüften schadet der Wohnung.",
+            "Die Hausordnung ist unverbindlich.",
+            "Lärm ist rund um die Uhr erlaubt."
           ],
           "answerIndex": 0,
           "explanation": "Accurate house rules translation.",
@@ -11245,10 +11249,10 @@
         {
           "prompt": "Welche weltberühmte Kunst- und Architekturschule wurde 1919 von Walter Gropius in Weimar gegründet?",
           "options": [
-            "Das Barockforum (Architekturstile in Deutschland)",
-            "Das Staatliche Bauhaus (Architekturstile in Deutschland)",
-            "Die Gotikgilde (Architekturstile in Deutschland)",
-            "Die Schule von Athen (Architekturstile in Deutschland)"
+            "Das Barockforum",
+            "Das Staatliche Bauhaus",
+            "Die Gotikgilde",
+            "Die Schule von Athen"
           ],
           "answerIndex": 1,
           "explanation": "Das Staatliche Bauhaus."
@@ -11260,10 +11264,10 @@
         {
           "prompt": "Welche Merkmale zeichnen eine klassische deutsche „Altbauwohnung“ aus der Gründerzeit typischerweise aus?",
           "options": [
-            "Hohe Decken über 3,50 m, kunstvoller Deckenstuck und Flügeltüren (Architekturstile in Deutschland)",
-            "Wände komplett aus Plastik (Architekturstile in Deutschland)",
-            "Nur runde Zimmer (Architekturstile in Deutschland)",
-            "Extrem niedrige Decken ohne Fenster (Architekturstile in Deutschland)"
+            "Hohe Decken über 3,50 m, kunstvoller Deckenstuck und Flügeltüren",
+            "Wände komplett aus Plastik",
+            "Nur runde Zimmer",
+            "Extrem niedrige Decken ohne Fenster"
           ],
           "answerIndex": 0,
           "explanation": "Hohe Decken und Deckenstuck."
@@ -11275,10 +11279,10 @@
         {
           "prompt": "Welches Designprinzip wurde durch die Bauhaus-Bewegung zu einer weltweiten Maxime moderner Architektur?",
           "options": [
-            "„Form follows function“ (Architekturstile in Deutschland)",
-            "„Bauen ohne Pläne“ (Architekturstile in Deutschland)",
-            "„Mehr Dekoration ist besser“ (Architekturstile in Deutschland)",
-            "„Kunst ohne Funktion“ (Architekturstile in Deutschland)"
+            "„Form follows function“",
+            "„Bauen ohne Pläne“",
+            "„Mehr Dekoration ist besser“",
+            "„Kunst ohne Funktion“"
           ],
           "answerIndex": 0,
           "explanation": "„Form follows function“.",
@@ -11287,10 +11291,10 @@
         {
           "prompt": "Übersetzen Sie: \"Historic timber-framed houses and modernist Bauhaus structures reflect the rich diversity of German architectural heritage.\"",
           "options": [
-            "Das Bauhaus baute nur Holzhütten. (Architekturstile in Deutschland)",
-            "Altbauten haben keinen historischen Wert. (Architekturstile in Deutschland)",
-            "Deutschland besitzt keine historischen Gebäude. (Architekturstile in Deutschland)",
-            "Historische Fachwerkhäuser und modernistische Bauhaus-Bauten spiegeln die reiche Vielfalt des deutschen Architekturerbes wider. (Architekturstile in Deutschland)"
+            "Das Bauhaus baute nur Holzhütten.",
+            "Altbauten haben keinen historischen Wert.",
+            "Deutschland besitzt keine historischen Gebäude.",
+            "Historische Fachwerkhäuser und modernistische Bauhaus-Bauten spiegeln die reiche Vielfalt des deutschen Architekturerbes wider."
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural history translation.",
@@ -11327,10 +11331,10 @@
         {
           "prompt": "Was zeichnet ein zertifiziertes deutsches „Passivhaus“ vor allem aus?",
           "options": [
-            "Ein extrem geringer Heizwärmebedarf dank Hochleistungsdämmung und Wärmerückgewinnung (Das deutsche PassivhausKonzept Dr)",
-            "Es hat keine Fenster (Das deutsche PassivhausKonzept Dr)",
-            "Es verbraucht mehr Energie als ein Altbau (Das deutsche PassivhausKonzept Dr)",
-            "Es wird mit offenem Lagerfeuer geheizt (Das deutsche PassivhausKonzept Dr)"
+            "Ein extrem geringer Heizwärmebedarf dank Hochleistungsdämmung und Wärmerückgewinnung",
+            "Es hat keine Fenster",
+            "Es verbraucht mehr Energie als ein Altbau",
+            "Es wird mit offenem Lagerfeuer geheizt"
           ],
           "answerIndex": 0,
           "explanation": "Extrem geringer Heizwärmebedarf."
@@ -11342,10 +11346,10 @@
         {
           "prompt": "Welcher in Deutschland mitentwickelte Standard ist der weltweite Marktführer für professionelle Smart-Home- und Gebäudeleittechnik?",
           "options": [
-            "Bluetooth 1.0 nur (Das deutsche PassivhausKonzept Dr)",
-            "Infrarot-Fernbedienung (Das deutsche PassivhausKonzept Dr)",
-            "Manuelle Schalter nur (Das deutsche PassivhausKonzept Dr)",
-            "Der KNX-Standard (Das deutsche PassivhausKonzept Dr)"
+            "Bluetooth 1.0 nur",
+            "Infrarot-Fernbedienung",
+            "Manuelle Schalter nur",
+            "Der KNX-Standard"
           ],
           "answerIndex": 3,
           "explanation": "Der KNX-Standard."
@@ -11357,10 +11361,10 @@
         {
           "prompt": "Welche moderne Heiztechnologie nutzt die kostenlose Umweltwärme aus Luft, Wasser oder dem Erdreich für die Wohnraumheizung?",
           "options": [
-            "Die Gaslaterne (Das deutsche PassivhausKonzept Dr)",
-            "Der Kohleofen (Das deutsche PassivhausKonzept Dr)",
-            "Das Wachslicht (Das deutsche PassivhausKonzept Dr)",
-            "Die Wärmepumpe (Das deutsche PassivhausKonzept Dr)"
+            "Die Gaslaterne",
+            "Der Kohleofen",
+            "Das Wachslicht",
+            "Die Wärmepumpe"
           ],
           "answerIndex": 3,
           "explanation": "Die Wärmepumpe.",
@@ -11369,10 +11373,10 @@
         {
           "prompt": "Übersetzen Sie: \"Ultra-insulated passive houses with smart KNX automation and heat pumps set the benchmark for sustainable future living.\"",
           "options": [
-            "Gebäudeautomation verschwendet Energie. (Das deutsche PassivhausKonzept Dr)",
-            "Passivhäuser sind teuer und umweltschädlich. (Das deutsche PassivhausKonzept Dr)",
-            "Hochgedämmte Passivhäuser mit intelligenter KNX-Automation und Wärmepumpen setzen den Maßstab für nachhaltiges Wohnen der Zukunft. (Das deutsche PassivhausKonzept Dr)",
-            "Wärmepumpen funktionieren nicht in Häusern. (Das deutsche PassivhausKonzept Dr)"
+            "Gebäudeautomation verschwendet Energie.",
+            "Passivhäuser sind teuer und umweltschädlich.",
+            "Hochgedämmte Passivhäuser mit intelligenter KNX-Automation und Wärmepumpen setzen den Maßstab für nachhaltiges Wohnen der Zukunft.",
+            "Wärmepumpen funktionieren nicht in Häusern."
           ],
           "answerIndex": 2,
           "explanation": "Accurate sustainable engineering translation.",
@@ -11409,10 +11413,10 @@
         {
           "prompt": "Was bedeutet die Zeugnisformulierung „stets zu unserer vollsten Zufriedenheit“ im deutschen Arbeitszeugnis?",
           "options": [
-            "Die Note 4 (Der Bewerbungsprozess in Deutschland)",
-            "Eine Kündigung (Der Bewerbungsprozess in Deutschland)",
-            "Eine Verwarnung (Der Bewerbungsprozess in Deutschland)",
-            "Die Bestnote 1 (Der Bewerbungsprozess in Deutschland)"
+            "Die Note 4",
+            "Eine Kündigung",
+            "Eine Verwarnung",
+            "Die Bestnote 1"
           ],
           "answerIndex": 3,
           "explanation": "Note 1 (Sehr gut)."
@@ -11424,10 +11428,10 @@
         {
           "prompt": "Wie heißt die übersichtliche, chronologische Auflistung des bisherigen Werdegangs in der deutschen Bewerbung?",
           "options": [
-            "Der Einkaufszettel (Der Bewerbungsprozess in Deutschland)",
-            "Der Mietvertrag (Der Bewerbungsprozess in Deutschland)",
-            "Das Fahrtenbuch (Der Bewerbungsprozess in Deutschland)",
-            "Der tabellarische Lebenslauf (Der Bewerbungsprozess in Deutschland)"
+            "Der Einkaufszettel",
+            "Der Mietvertrag",
+            "Das Fahrtenbuch",
+            "Der tabellarische Lebenslauf"
           ],
           "answerIndex": 3,
           "explanation": "Der tabellarische Lebenslauf."
@@ -11439,10 +11443,10 @@
         {
           "prompt": "Welches einseitige Dokument erklärt in der Bewerbung die persönliche Motivation und Eignung für die ausgeschriebene Stelle?",
           "options": [
-            "Die SCHUFA-Auskunft (Der Bewerbungsprozess in Deutschland)",
-            "Der Kassenbeleg (Der Bewerbungsprozess in Deutschland)",
-            "Das Anschreiben (Der Bewerbungsprozess in Deutschland)",
-            "Das Zugticket (Der Bewerbungsprozess in Deutschland)"
+            "Die SCHUFA-Auskunft",
+            "Der Kassenbeleg",
+            "Das Anschreiben",
+            "Das Zugticket"
           ],
           "answerIndex": 2,
           "explanation": "Das Anschreiben.",
@@ -11451,10 +11455,10 @@
         {
           "prompt": "Übersetzen Sie: \"The candidate submitted an outstanding CV and convinced the hiring committee during the structured job interview.\"",
           "options": [
-            "Die Bewerbung wurde sofort abgelehnt. (Der Bewerbungsprozess in Deutschland)",
-            "Der Kandidat reichte einen hervorragenden Lebenslauf ein und überzeugte das Auswahlkomitee im strukturierten Vorstellungsgespräch. (Der Bewerbungsprozess in Deutschland)",
-            "Es gab kein Vorstellungsgespräch. (Der Bewerbungsprozess in Deutschland)",
-            "Der Lebenslauf enthielt keine Angaben. (Der Bewerbungsprozess in Deutschland)"
+            "Die Bewerbung wurde sofort abgelehnt.",
+            "Der Kandidat reichte einen hervorragenden Lebenslauf ein und überzeugte das Auswahlkomitee im strukturierten Vorstellungsgespräch.",
+            "Es gab kein Vorstellungsgespräch.",
+            "Der Lebenslauf enthielt keine Angaben."
           ],
           "answerIndex": 1,
           "explanation": "Accurate job application translation.",
@@ -11491,10 +11495,10 @@
         {
           "prompt": "Wie lang darf die gesetzliche Probezeit in einem deutschen Arbeitsvertrag maximal dauern?",
           "options": [
-            "Maximal sechs Monate (Der deutsche Arbeitsvertrag)",
-            "Eine Probezeit ist verboten (Der deutsche Arbeitsvertrag)",
-            "Zehn Jahre (Der deutsche Arbeitsvertrag)",
-            "Nur zwei Tage (Der deutsche Arbeitsvertrag)"
+            "Maximal sechs Monate",
+            "Eine Probezeit ist verboten",
+            "Zehn Jahre",
+            "Nur zwei Tage"
           ],
           "answerIndex": 0,
           "explanation": "Maximal 6 Monate."
@@ -11506,10 +11510,10 @@
         {
           "prompt": "Welches Gesetz schützt Arbeitnehmer in deutschen Betrieben vor willkürlichen und ungerechtfertigten Kündigungen?",
           "options": [
-            "Das Kündigungsschutzgesetz (Der deutsche Arbeitsvertrag)",
-            "Das Straßenverkehrsgesetz (Der deutsche Arbeitsvertrag)",
-            "Das Bundeswaldgesetz (Der deutsche Arbeitsvertrag)",
-            "Das Vereinsgesetz (Der deutsche Arbeitsvertrag)"
+            "Das Kündigungsschutzgesetz",
+            "Das Straßenverkehrsgesetz",
+            "Das Bundeswaldgesetz",
+            "Das Vereinsgesetz"
           ],
           "answerIndex": 0,
           "explanation": "Das Kündigungsschutzgesetz (KSchG)."
@@ -11521,10 +11525,10 @@
         {
           "prompt": "Wie nennt man den Geldbetrag, der nach Abzug aller Steuern und Sozialabgaben tatsächlich auf das Bankkonto überwiesen wird?",
           "options": [
-            "Das Bruttogehalt (Der deutsche Arbeitsvertrag)",
-            "Das Nettogehalt (Der deutsche Arbeitsvertrag)",
-            "Der Gesamtkostenaufwand (Der deutsche Arbeitsvertrag)",
-            "Die Rohsumme (Der deutsche Arbeitsvertrag)"
+            "Das Bruttogehalt",
+            "Das Nettogehalt",
+            "Der Gesamtkostenaufwand",
+            "Die Rohsumme"
           ],
           "answerIndex": 1,
           "explanation": "Das Nettogehalt.",
@@ -11533,10 +11537,10 @@
         {
           "prompt": "Übersetzen Sie: \"The permanent employment contract guarantees thirty days of paid vacation and statutory pension contributions.\"",
           "options": [
-            "Der unbefristete Arbeitsvertrag garantiert dreißig Tage bezahlten Urlaub und gesetzliche Rentenversicherungsbeiträge. (Der deutsche Arbeitsvertrag)",
-            "Rentenbeiträge werden nicht bezahlt. (Der deutsche Arbeitsvertrag)",
-            "Die Kündigungsfrist beträgt nur eine Stunde. (Der deutsche Arbeitsvertrag)",
-            "Der Vertrag enthält keinen Urlaubsanspruch. (Der deutsche Arbeitsvertrag)"
+            "Der unbefristete Arbeitsvertrag garantiert dreißig Tage bezahlten Urlaub und gesetzliche Rentenversicherungsbeiträge.",
+            "Rentenbeiträge werden nicht bezahlt.",
+            "Die Kündigungsfrist beträgt nur eine Stunde.",
+            "Der Vertrag enthält keinen Urlaubsanspruch."
           ],
           "answerIndex": 0,
           "explanation": "Accurate employment contract translation.",
@@ -11573,10 +11577,10 @@
         {
           "prompt": "Aus welchen zwei Lernorten besteht das weltweit renommierte „Duale Ausbildungssystem“ in Deutschland?",
           "options": [
-            "Nur aus Universitätsvorlesungen (Das Duale Ausbildungssystem in Deutschland)",
-            "Aus dem Ausbildungsbetrieb und der staatlichen Berufsschule (Das Duale Ausbildungssystem in Deutschland)",
-            "Nur aus einem Onlinekurs (Das Duale Ausbildungssystem in Deutschland)",
-            "Aus einer Grundschule (Das Duale Ausbildungssystem in Deutschland)"
+            "Nur aus Universitätsvorlesungen",
+            "Aus dem Ausbildungsbetrieb und der staatlichen Berufsschule",
+            "Nur aus einem Onlinekurs",
+            "Aus einer Grundschule"
           ],
           "answerIndex": 1,
           "explanation": "Betrieb und Berufsschule."
@@ -11588,10 +11592,10 @@
         {
           "prompt": "Welche Kammer ist in Deutschland für die Abschlussprüfung und Zertifizierung kaufmännischer und industrieller Ausbildungsberufe zuständig?",
           "options": [
-            "Die IHK (Das Duale Ausbildungssystem in Deutschland)",
-            "Die Feuerwehr (Das Duale Ausbildungssystem in Deutschland)",
-            "Das Bundeskriminalamt (Das Duale Ausbildungssystem in Deutschland)",
-            "Das Auswärtige Amt (Das Duale Ausbildungssystem in Deutschland)"
+            "Die IHK",
+            "Die Feuerwehr",
+            "Das Bundeskriminalamt",
+            "Das Auswärtige Amt"
           ],
           "answerIndex": 0,
           "explanation": "Die IHK (Industrie- und Handelskammer)."
@@ -11603,10 +11607,10 @@
         {
           "prompt": "Welcher traditionsreiche deutsche Qualifikationstitel berechtigt Handwerker zur selbstständigen Betriebsführung und Ausbildung von Lehrlingen?",
           "options": [
-            "Der Meisterbrief (Das Duale Ausbildungssystem in Deutschland)",
-            "Der Führerschein Klasse B (Das Duale Ausbildungssystem in Deutschland)",
-            "Der Bibliotheksausweis (Das Duale Ausbildungssystem in Deutschland)",
-            "Das Grundschulzeugnis (Das Duale Ausbildungssystem in Deutschland)"
+            "Der Meisterbrief",
+            "Der Führerschein Klasse B",
+            "Der Bibliotheksausweis",
+            "Das Grundschulzeugnis"
           ],
           "answerIndex": 0,
           "explanation": "Der Meisterbrief.",
@@ -11615,10 +11619,10 @@
         {
           "prompt": "Übersetzen Sie: \"The dual vocational education system ensures high technical proficiency and exceptionally low youth unemployment across Germany.\"",
           "options": [
-            "Jugendarbeitslosigkeit ist in Deutschland die höchste der Welt. (Das Duale Ausbildungssystem in Deutschland)",
-            "Duale Ausbildungen vermitteln keine praktischen Fähigkeiten. (Das Duale Ausbildungssystem in Deutschland)",
-            "Betriebe bilden keine Nachwuchskräfte aus. (Das Duale Ausbildungssystem in Deutschland)",
-            "Das duale Berufsausbildungssystem gewährleistet eine hohe fachliche Kompetenz und eine außergewöhnlich niedrige Jugendarbeitslosigkeit in ganz Deutschland. (Das Duale Ausbildungssystem in Deutschland)"
+            "Jugendarbeitslosigkeit ist in Deutschland die höchste der Welt.",
+            "Duale Ausbildungen vermitteln keine praktischen Fähigkeiten.",
+            "Betriebe bilden keine Nachwuchskräfte aus.",
+            "Das duale Berufsausbildungssystem gewährleistet eine hohe fachliche Kompetenz und eine außergewöhnlich niedrige Jugendarbeitslosigkeit in ganz Deutschland."
           ],
           "answerIndex": 3,
           "explanation": "Accurate dual education translation.",
@@ -11655,10 +11659,10 @@
         {
           "prompt": "Wie heißt das von der Belegschaft gewählte Organ, das die Interessen der Arbeitnehmer im deutschen Betrieb vertritt?",
           "options": [
-            "Das Finanzamt (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Der Betriebsrat (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Die Aktionärsversammlung (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Der Vorstand (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)"
+            "Das Finanzamt",
+            "Der Betriebsrat",
+            "Die Aktionärsversammlung",
+            "Der Vorstand"
           ],
           "answerIndex": 1,
           "explanation": "Der Betriebsrat."
@@ -11670,10 +11674,10 @@
         {
           "prompt": "Welches deutsche Kulturwort bezeichnet das feierliche, entspannte Ende des täglichen Arbeitstages?",
           "options": [
-            "Der Frühdienst (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Der Feierabend (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Das Meeting (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Die Überstunde (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)"
+            "Der Frühdienst",
+            "Der Feierabend",
+            "Das Meeting",
+            "Die Überstunde"
           ],
           "answerIndex": 1,
           "explanation": "Der Feierabend."
@@ -11685,10 +11689,10 @@
         {
           "prompt": "Welche mächtige deutsche Gewerkschaft vertritt die Beschäftigten in der Automobil-, Maschinenbau- und Elektroindustrie?",
           "options": [
-            "Der Deutsche Alpenverein (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Der ADAC (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Die Stiftung Warentest (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Die IG Metall (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)"
+            "Der Deutsche Alpenverein",
+            "Der ADAC",
+            "Die Stiftung Warentest",
+            "Die IG Metall"
           ],
           "answerIndex": 3,
           "explanation": "Die IG Metall.",
@@ -11697,10 +11701,10 @@
         {
           "prompt": "Übersetzen Sie: \"Workplace co-determination, collective bargaining agreements, and strict punctuality are pillars of German industrial stability.\"",
           "options": [
-            "Der Betriebsrat hat keine gesetzlichen Rechte. (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Tarifverträge sind gesetzlich verboten. (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Betriebliche Mitbestimmung, Tarifverträge und strikte Pünktlichkeit sind Säulen der deutschen Industriestabilität. (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)",
-            "Pünktlichkeit ist in deutschen Unternehmen unbedeutend. (Betriebsrat und Mitbestimmung Soziale Marktwirtschaft)"
+            "Der Betriebsrat hat keine gesetzlichen Rechte.",
+            "Tarifverträge sind gesetzlich verboten.",
+            "Betriebliche Mitbestimmung, Tarifverträge und strikte Pünktlichkeit sind Säulen der deutschen Industriestabilität.",
+            "Pünktlichkeit ist in deutschen Unternehmen unbedeutend."
           ],
           "answerIndex": 2,
           "explanation": "Accurate industrial culture translation.",
@@ -11737,10 +11741,10 @@
         {
           "prompt": "Wie nennt man hochspezialisierte, meist familiengeführte deutsche Mittelständler, die in ihrer Nische weltweiter Marktführer sind?",
           "options": [
-            "Hidden Champions (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Startups ohne Umsatz (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Verlustkonzerne (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Staatsbetriebe (Die deutschen Hidden Champions des Mittelstands Prof)"
+            "Hidden Champions",
+            "Startups ohne Umsatz",
+            "Verlustkonzerne",
+            "Staatsbetriebe"
           ],
           "answerIndex": 0,
           "explanation": "Hidden Champions."
@@ -11752,10 +11756,10 @@
         {
           "prompt": "Welches in Walldorf gegründete deutsche Unternehmen ist der größte europäische Softwarehersteller für Unternehmenssoftware (ERP)?",
           "options": [
-            "Lufthansa (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Deutsche Bahn (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Bayer (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "SAP (Die deutschen Hidden Champions des Mittelstands Prof)"
+            "Lufthansa",
+            "Deutsche Bahn",
+            "Bayer",
+            "SAP"
           ],
           "answerIndex": 3,
           "explanation": "SAP."
@@ -11767,10 +11771,10 @@
         {
           "prompt": "Welches deutsche Technologieunternehmen aus Stuttgart ist der weltweit größte Automobilzulieferer und Sensorhersteller?",
           "options": [
-            "Puma (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Haribo (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Robert Bosch (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Adidas (Die deutschen Hidden Champions des Mittelstands Prof)"
+            "Puma",
+            "Haribo",
+            "Robert Bosch",
+            "Adidas"
           ],
           "answerIndex": 2,
           "explanation": "Robert Bosch.",
@@ -11779,10 +11783,10 @@
         {
           "prompt": "Übersetzen Sie: \"Family-owned engineering firms and pioneering industrial automation corporations define Germany's global export leadership.\"",
           "options": [
-            "Deutschland exportiert keine Industrieprodukte. (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Familiengeführte Ingenieurunternehmen und wegweisende Industrieautomationskonzerne definieren Deutschlands weltweite Exportführerschaft. (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Siemens und Bosch stellen keine Technologie her. (Die deutschen Hidden Champions des Mittelstands Prof)",
-            "Der Mittelstand spielt keine wirtschaftliche Rolle. (Die deutschen Hidden Champions des Mittelstands Prof)"
+            "Deutschland exportiert keine Industrieprodukte.",
+            "Familiengeführte Ingenieurunternehmen und wegweisende Industrieautomationskonzerne definieren Deutschlands weltweite Exportführerschaft.",
+            "Siemens und Bosch stellen keine Technologie her.",
+            "Der Mittelstand spielt keine wirtschaftliche Rolle."
           ],
           "answerIndex": 1,
           "explanation": "Accurate industrial economics translation.",
@@ -11819,10 +11823,10 @@
         {
           "prompt": "What UNESCO World Natural Heritage site on Germany's North Sea coast constitutes the largest continuous intertidal mudflat system on Earth?",
           "options": [
-            "Der Bodensee (German geography)",
-            "Die Ostsee (German geography)",
-            "Der Rhein (German geography)",
-            "Das Wattenmeer (German geography)"
+            "Der Bodensee",
+            "Die Ostsee",
+            "Der Rhein",
+            "Das Wattenmeer"
           ],
           "answerIndex": 3,
           "explanation": "Das Wattenmeer."
@@ -11834,10 +11838,10 @@
         {
           "prompt": "What is the guiding conservation principle of German national parks like the Bavarian Forest and Black Forest?",
           "options": [
-            "Komplette Abholzung (German geography)",
-            "Kommerzielle Bebauung (German geography)",
-            "Industrielle Nutzung (German geography)",
-            "„Natur Natur sein lassen“ (German geography)"
+            "Komplette Abholzung",
+            "Kommerzielle Bebauung",
+            "Industrielle Nutzung",
+            "„Natur Natur sein lassen“"
           ],
           "answerIndex": 3,
           "explanation": "„Natur Natur sein lassen“."
@@ -11849,10 +11853,10 @@
         {
           "prompt": "Translate: \"The ancient primeval beech forests of Germany preserve irreplaceable genetic diversity and natural forest regeneration mechanisms.\"",
           "options": [
-            "In Deutschland gibt es keine Buchenwälder. (German geography)",
-            "Die uralten Buchenurwälder Deutschlands bewahren eine unersetzliche genetische Vielfalt und natürliche Waldverjüngungsmechanismen. (German geography)",
-            "Das Wattenmeer ist eine künstliche Betonlandschaft. (German geography)",
-            "Nationalparks verbieten die Naturforschung. (German geography)"
+            "In Deutschland gibt es keine Buchenwälder.",
+            "Die uralten Buchenurwälder Deutschlands bewahren eine unersetzliche genetische Vielfalt und natürliche Waldverjüngungsmechanismen.",
+            "Das Wattenmeer ist eine künstliche Betonlandschaft.",
+            "Nationalparks verbieten die Naturforschung."
           ],
           "answerIndex": 1,
           "explanation": "Accurate German landscape ecology translation.",
@@ -11861,10 +11865,10 @@
         {
           "prompt": "Which national park on the island of Rügen in the Baltic Sea is celebrated for its majestic white chalk cliffs and ancient beech groves?",
           "options": [
-            "Nationalpark Jasmund (German geography)",
-            "Nationalpark Eifel (German geography)",
-            "Nationalpark Harz (German geography)",
-            "Nationalpark Berchtesgaden (German geography)"
+            "Nationalpark Jasmund",
+            "Nationalpark Eifel",
+            "Nationalpark Harz",
+            "Nationalpark Berchtesgaden"
           ],
           "answerIndex": 0,
           "explanation": "Nationalpark Jasmund.",
@@ -11901,10 +11905,10 @@
         {
           "prompt": "What is the world-famous German term for the comprehensive national transition from fossil and nuclear energy to renewables?",
           "options": [
-            "Die Energiewende (The German Energiewende)",
-            "Die Autobahn (The German Energiewende)",
-            "Die Wirtschaftskrise (The German Energiewende)",
-            "Der Strukturwandel (The German Energiewende)"
+            "Die Energiewende",
+            "Die Autobahn",
+            "Die Wirtschaftskrise",
+            "Der Strukturwandel"
           ],
           "answerIndex": 0,
           "explanation": "Die Energiewende."
@@ -11916,10 +11920,10 @@
         {
           "prompt": "What major high-voltage transmission corridor is under construction to transport North Sea wind electricity directly to southern German factories?",
           "options": [
-            "SuedLink (The German Energiewende)",
-            "Nord Stream (The German Energiewende)",
-            "Orient Express (The German Energiewende)",
-            "Transrapid (The German Energiewende)"
+            "SuedLink",
+            "Nord Stream",
+            "Orient Express",
+            "Transrapid"
           ],
           "answerIndex": 0,
           "explanation": "SuedLink."
@@ -11931,10 +11935,10 @@
         {
           "prompt": "Translate: \"The statutory phase-out of coal-fired power plants is accompanied by billions in structural aid for historic mining regions.\"",
           "options": [
-            "Der gesetzliche Ausstieg aus der Kohleverstromung wird durch milliardenschwere Strukturhilfen für die historischen Bergbauregionen flankiert. (The German Energiewende)",
-            "Die Energiewende wurde abgebrochen. (The German Energiewende)",
-            "Windkraft ist in Deutschland verboten. (The German Energiewende)",
-            "Deutschland baut neue Kohlekraftwerke. (The German Energiewende)"
+            "Der gesetzliche Ausstieg aus der Kohleverstromung wird durch milliardenschwere Strukturhilfen für die historischen Bergbauregionen flankiert.",
+            "Die Energiewende wurde abgebrochen.",
+            "Windkraft ist in Deutschland verboten.",
+            "Deutschland baut neue Kohlekraftwerke."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Energiewende translation.",
@@ -11943,10 +11947,10 @@
         {
           "prompt": "By which target year is Germany legally committed to achieving complete climate neutrality (Treibhausgasneutralität)?",
           "options": [
-            "2100 (The German Energiewende)",
-            "2025 (The German Energiewende)",
-            "2080 (The German Energiewende)",
-            "2045 (The German Energiewende)"
+            "2100",
+            "2025",
+            "2080",
+            "2045"
           ],
           "answerIndex": 3,
           "explanation": "2045.",
@@ -11983,10 +11987,10 @@
         {
           "prompt": "What return and recycling rate does the German \"Pfandsystem\" achieve for beverage bottles and aluminum cans?",
           "options": [
-            "Under 30% (The German recycling culture)",
-            "Over 98% return rate (The German recycling culture)",
-            "Around 50% (The German recycling culture)",
-            "Zero recycling (The German recycling culture)"
+            "Under 30%",
+            "Over 98% return rate",
+            "Around 50%",
+            "Zero recycling"
           ],
           "answerIndex": 1,
           "explanation": "Over 98% return rate."
@@ -11998,10 +12002,10 @@
         {
           "prompt": "How much is the standard statutory deposit (Pfand) on single-use plastic bottles and beverage cans in Germany?",
           "options": [
-            "25 Cent (The German recycling culture)",
-            "10 Euro (The German recycling culture)",
-            "1 Euro (The German recycling culture)",
-            "5 Cent (The German recycling culture)"
+            "25 Cent",
+            "10 Euro",
+            "1 Euro",
+            "5 Cent"
           ],
           "answerIndex": 0,
           "explanation": "25 Cent (0,25 €)."
@@ -12013,10 +12017,10 @@
         {
           "prompt": "Translate: \"Strict separation of organic waste in the green bin produces climate-friendly biogas and nutrient-rich agricultural compost.\"",
           "options": [
-            "Das Pfandsystem kostet den Staat Geld. (The German recycling culture)",
-            "Alle Abfälle werden auf offenen Deponien verbrannt. (The German recycling culture)",
-            "Mülltrennung ist in Deutschland freiwillig und verboten. (The German recycling culture)",
-            "Die strikte Trennung von Bioabfällen in der Biotonne erzeugt klimafreundliches Biogas und nährstoffreichen landwirtschaftlichen Kompost. (The German recycling culture)"
+            "Das Pfandsystem kostet den Staat Geld.",
+            "Alle Abfälle werden auf offenen Deponien verbrannt.",
+            "Mülltrennung ist in Deutschland freiwillig und verboten.",
+            "Die strikte Trennung von Bioabfällen in der Biotonne erzeugt klimafreundliches Biogas und nährstoffreichen landwirtschaftlichen Kompost."
           ],
           "answerIndex": 3,
           "explanation": "Accurate circular economy translation.",
@@ -12025,10 +12029,10 @@
         {
           "prompt": "What color waste bin is universally used across Germany for collecting paper and cardboard packaging (Altpapier)?",
           "options": [
-            "Die schwarze Tonne (The German recycling culture)",
-            "Die rote Tonne (The German recycling culture)",
-            "Die blaue Tonne (The German recycling culture)",
-            "Die gelbe Tonne (The German recycling culture)"
+            "Die schwarze Tonne",
+            "Die rote Tonne",
+            "Die blaue Tonne",
+            "Die gelbe Tonne"
           ],
           "answerIndex": 2,
           "explanation": "Die blaue Tonne (Blue bin).",
@@ -12065,10 +12069,10 @@
         {
           "prompt": "Who originally coined the foundational concept of \"Nachhaltigkeit\" (Sustainability) in his 1713 German forestry treatise?",
           "options": [
-            "Immanuel Kant (Ecological forestry)",
-            "Hans Carl von Carlowitz (Ecological forestry)",
-            "Alexander von Humboldt (Ecological forestry)",
-            "Johann Wolfgang von Goethe (Ecological forestry)"
+            "Immanuel Kant",
+            "Hans Carl von Carlowitz",
+            "Alexander von Humboldt",
+            "Johann Wolfgang von Goethe"
           ],
           "answerIndex": 1,
           "explanation": "Hans Carl von Carlowitz (1713)."
@@ -12080,10 +12084,10 @@
         {
           "prompt": "What sustainable forestry model harvests individual trees selectively without ever clear-cutting the forest canopy?",
           "options": [
-            "Die Brandrodung (Ecological forestry)",
-            "Der Plenterwald / Dauerwald (Ecological forestry)",
-            "Die Plantagenwirtschaft (Ecological forestry)",
-            "Der Kahlschlag (Ecological forestry)"
+            "Die Brandrodung",
+            "Der Plenterwald / Dauerwald",
+            "Die Plantagenwirtschaft",
+            "Der Kahlschlag"
           ],
           "answerIndex": 1,
           "explanation": "Der Plenterwald / Dauerwald."
@@ -12095,10 +12099,10 @@
         {
           "prompt": "Translate: \"Transforming monocultures into mixed deciduous forests enhances water retention, soil biodiversity, and resilience against drought and pests.\"",
           "options": [
-            "Borkenkäfer sind nützlich für Plantagen. (Ecological forestry)",
-            "Wälder benötigen keine nachhaltige Bewirtschaftung. (Ecological forestry)",
-            "Der Umbau von Monokulturen zu artenreichen Laubmischwäldern verbessert die Wasserspeicherung, die Bodenbiodiversität und die Widerstandskraft gegen Dürre und Schädlinge. (Ecological forestry)",
-            "Fichtenmonokulturen sind resistent gegen alle Dürren. (Ecological forestry)"
+            "Borkenkäfer sind nützlich für Plantagen.",
+            "Wälder benötigen keine nachhaltige Bewirtschaftung.",
+            "Der Umbau von Monokulturen zu artenreichen Laubmischwäldern verbessert die Wasserspeicherung, die Bodenbiodiversität und die Widerstandskraft gegen Dürre und Schädlinge.",
+            "Fichtenmonokulturen sind resistent gegen alle Dürren."
           ],
           "answerIndex": 2,
           "explanation": "Accurate forestry translation.",
@@ -12107,10 +12111,10 @@
         {
           "prompt": "What insect pest has devastated non-native spruce plantations during dry Central European summers, accelerating the need for Waldumbau?",
           "options": [
-            "Die Honigbiene (Ecological forestry)",
-            "Der Borkenkäfer (Ecological forestry)",
-            "Der Maikäfer (Ecological forestry)",
-            "Der Marienkäfer (Ecological forestry)"
+            "Die Honigbiene",
+            "Der Borkenkäfer",
+            "Der Maikäfer",
+            "Der Marienkäfer"
           ],
           "answerIndex": 1,
           "explanation": "Der Borkenkäfer.",
@@ -12229,10 +12233,10 @@
         {
           "prompt": "Who founded the world's first national statutory health insurance system (GKV) in Germany in 1883 based on social solidarity?",
           "options": [
-            "Karl Marx (The statutory health insurance system)",
-            "Albert Einstein (The statutory health insurance system)",
-            "Ludwig Erhard (The statutory health insurance system)",
-            "Otto von Bismarck (The statutory health insurance system)"
+            "Karl Marx",
+            "Albert Einstein",
+            "Ludwig Erhard",
+            "Otto von Bismarck"
           ],
           "answerIndex": 3,
           "explanation": "Otto von Bismarck (1883)."
@@ -12244,10 +12248,10 @@
         {
           "prompt": "What federal German agency in Berlin serves as the central institute for disease control, epidemiology, and biomedical surveillance?",
           "options": [
-            "Das Goethe-Institut (The statutory health insurance system)",
-            "Der Deutsche Bundestag (The statutory health insurance system)",
-            "Das Robert Koch Institut (The statutory health insurance system)",
-            "Die Bundesbank (The statutory health insurance system)"
+            "Das Goethe-Institut",
+            "Der Deutsche Bundestag",
+            "Das Robert Koch Institut",
+            "Die Bundesbank"
           ],
           "answerIndex": 2,
           "explanation": "Das Robert Koch Institut (RKI)."
@@ -12259,10 +12263,10 @@
         {
           "prompt": "Translate: \"The solidarity principle dictates that statutory health insurance contributions are based on personal income rather than individual health risk.\"",
           "options": [
-            "Das Solidaritätsprinzip besagt, dass sich die Beiträge zur gesetzlichen Krankenversicherung nach dem Einkommen und nicht nach dem individuellen Krankheitsrisiko richten. (The statutory health insurance system)",
-            "Deutschland hat keine Krankenversicherung. (The statutory health insurance system)",
-            "Otto von Bismarck erfand das Röntgenbild. (The statutory health insurance system)",
-            "Das RKI ist ein privates Reisebüro. (The statutory health insurance system)"
+            "Das Solidaritätsprinzip besagt, dass sich die Beiträge zur gesetzlichen Krankenversicherung nach dem Einkommen und nicht nach dem individuellen Krankheitsrisiko richten.",
+            "Deutschland hat keine Krankenversicherung.",
+            "Otto von Bismarck erfand das Röntgenbild.",
+            "Das RKI ist ein privates Reisebüro."
           ],
           "answerIndex": 0,
           "explanation": "Accurate German healthcare translation.",
@@ -12271,10 +12275,10 @@
         {
           "prompt": "For discovering which bacterial pathogen was German physician Robert Koch awarded the Nobel Prize in Physiology or Medicine in 1905?",
           "options": [
-            "Die Pocken (The statutory health insurance system)",
-            "Der Grippevirus (The statutory health insurance system)",
-            "Der Tetanus-Erreger (The statutory health insurance system)",
-            "Mycobacterium tuberculosis (The statutory health insurance system)"
+            "Die Pocken",
+            "Der Grippevirus",
+            "Der Tetanus-Erreger",
+            "Mycobacterium tuberculosis"
           ],
           "answerIndex": 3,
           "explanation": "Mycobacterium tuberculosis.",
@@ -12393,10 +12397,10 @@
         {
           "prompt": "Which historic Berlin hospital founded in 1710 is Europe's largest university medical clinic and produced over half of Germany's Nobel laureates in medicine?",
           "options": [
-            "Die Charité – Universitätsmedizin Berlin (Worldrenowned medical research)",
-            "Das Klinikum Großhadern (Worldrenowned medical research)",
-            "Das Universitätsklinikum Heidelberg (Worldrenowned medical research)",
-            "Das UKE Hamburg (Worldrenowned medical research)"
+            "Die Charité – Universitätsmedizin Berlin",
+            "Das Klinikum Großhadern",
+            "Das Universitätsklinikum Heidelberg",
+            "Das UKE Hamburg"
           ],
           "answerIndex": 0,
           "explanation": "Die Charité – Universitätsmedizin Berlin."
@@ -12408,10 +12412,10 @@
         {
           "prompt": "What foundational biological aphorism did Rudolf Virchow coin to establish that all human diseases originate inside cellular malfunctions?",
           "options": [
-            "„Omnis cellula e cellula“ (Worldrenowned medical research)",
-            "„Veni, vidi, vici“ (Worldrenowned medical research)",
-            "„Cogito ergo sum“ (Worldrenowned medical research)",
-            "„Carpe diem“ (Worldrenowned medical research)"
+            "„Omnis cellula e cellula“",
+            "„Veni, vidi, vici“",
+            "„Cogito ergo sum“",
+            "„Carpe diem“"
           ],
           "answerIndex": 0,
           "explanation": "„Omnis cellula e cellula“."
@@ -12423,10 +12427,10 @@
         {
           "prompt": "Translate: \"Paleogenomics research at the Max Planck Institute sequenced the Neanderthal genome, revealing archaic genetic contributions to modern human immune systems.\"",
           "options": [
-            "Neandertaler haben keine Gene an den Homo sapiens vererbt. (Worldrenowned medical research)",
-            "Zellen entstehen spontan aus anorganischem Staub. (Worldrenowned medical research)",
-            "Paläogenomische Forschungen am Max-Planck-Institut entschlüsselten das Neandertaler-Genom und deckten archaische genetische Beiträge zum modernen menschlichen Immunsystem auf. (Worldrenowned medical research)",
-            "Die Charité wurde im 21. Jahrhundert gegründet. (Worldrenowned medical research)"
+            "Neandertaler haben keine Gene an den Homo sapiens vererbt.",
+            "Zellen entstehen spontan aus anorganischem Staub.",
+            "Paläogenomische Forschungen am Max-Planck-Institut entschlüsselten das Neandertaler-Genom und deckten archaische genetische Beiträge zum modernen menschlichen Immunsystem auf.",
+            "Die Charité wurde im 21. Jahrhundert gegründet."
           ],
           "answerIndex": 2,
           "explanation": "Accurate paleogenomics translation.",
@@ -12435,10 +12439,10 @@
         {
           "prompt": "Which Max Planck researcher won the 2022 Nobel Prize in Physiology or Medicine for sequencing extinct hominin genomes at MPI-EVA in Leipzig?",
           "options": [
-            "Uğur Şahin (Worldrenowned medical research)",
-            "Svante Pääbo (Worldrenowned medical research)",
-            "Ferdinand Sauerbruch (Worldrenowned medical research)",
-            "Christian Drosten (Worldrenowned medical research)"
+            "Uğur Şahin",
+            "Svante Pääbo",
+            "Ferdinand Sauerbruch",
+            "Christian Drosten"
           ],
           "answerIndex": 1,
           "explanation": "Svante Pääbo.",
@@ -12475,10 +12479,10 @@
         {
           "prompt": "What supreme constitutional principle in Article 1 of the German Basic Law serves as the absolute foundation for all biomedical ethics in Germany?",
           "options": [
-            "Die Wissenschaft hat keine Grenzen (German bioethics)",
-            "„Die Würde des Menschen ist unantastbar“ (German bioethics)",
-            "Das Gesetz des Stärkeren (German bioethics)",
-            "Die Marktfreiheit ist absolut (German bioethics)"
+            "Die Wissenschaft hat keine Grenzen",
+            "„Die Würde des Menschen ist unantastbar“",
+            "Das Gesetz des Stärkeren",
+            "Die Marktfreiheit ist absolut"
           ],
           "answerIndex": 1,
           "explanation": "„Die Würde des Menschen ist unantastbar“."
@@ -12490,10 +12494,10 @@
         {
           "prompt": "What independent national council advises the German federal government and parliament on ethical dilemmas in medicine and biotechnology?",
           "options": [
-            "Der Bundesrat (German bioethics)",
-            "Der Deutsche Ethikrat (German bioethics)",
-            "Der Wissenschaftsrat nur für Finanzen (German bioethics)",
-            "Der Deutsche Fußball-Bund (German bioethics)"
+            "Der Bundesrat",
+            "Der Deutsche Ethikrat",
+            "Der Wissenschaftsrat nur für Finanzen",
+            "Der Deutsche Fußball-Bund"
           ],
           "answerIndex": 1,
           "explanation": "Der Deutsche Ethikrat."
@@ -12505,10 +12509,10 @@
         {
           "prompt": "Translate: \"A legally binding advance healthcare directive (Patientenverfügung) ensures that medical teams honor a patient's refusal of invasive life-prolonging measures if they lose capacity.\"",
           "options": [
-            "Der Deutsche Ethikrat ist ein privates Wirtschaftsunternehmen. (German bioethics)",
-            "Eine rechtsverbindliche Patientenverfügung stellt sicher, dass das medizinische Behandlungsteam den Willen des Patienten bezüglich lebensverlängernder Maßnahmen beachtet, falls dieser entscheidungsunfähig wird. (German bioethics)",
-            "Das Embryonenschutzgesetz erlaubt das Klonen von Menschen. (German bioethics)",
-            "Patientenverfügungen sind in Deutschland ungültig. (German bioethics)"
+            "Der Deutsche Ethikrat ist ein privates Wirtschaftsunternehmen.",
+            "Eine rechtsverbindliche Patientenverfügung stellt sicher, dass das medizinische Behandlungsteam den Willen des Patienten bezüglich lebensverlängernder Maßnahmen beachtet, falls dieser entscheidungsunfähig wird.",
+            "Das Embryonenschutzgesetz erlaubt das Klonen von Menschen.",
+            "Patientenverfügungen sind in Deutschland ungültig."
           ],
           "answerIndex": 1,
           "explanation": "Accurate bioethics translation.",
@@ -12517,10 +12521,10 @@
         {
           "prompt": "What strict federal legislation in Germany regulates human in vitro fertilization and prohibits germline genetic modifications?",
           "options": [
-            "Das Embryonenschutzgesetz (German bioethics)",
-            "Das Strafgesetzbuch ohne Sonderregeln (German bioethics)",
-            "Das Handelsgesetzbuch (German bioethics)",
-            "Das Bürgerliche Gesetzbuch nur (German bioethics)"
+            "Das Embryonenschutzgesetz",
+            "Das Strafgesetzbuch ohne Sonderregeln",
+            "Das Handelsgesetzbuch",
+            "Das Bürgerliche Gesetzbuch nur"
           ],
           "answerIndex": 0,
           "explanation": "Das Embryonenschutzgesetz (ESchG).",
@@ -12639,10 +12643,10 @@
         {
           "prompt": "Which Königsberg philosopher formulated the Categorical Imperative and authored the Critique of Pure Reason (1781)?",
           "options": [
-            "G.W.F. Hegel (German Idealism  Critical Epistemology)",
-            "Arthur Schopenhauer (German Idealism  Critical Epistemology)",
-            "Friedrich Nietzsche (German Idealism  Critical Epistemology)",
-            "Immanuel Kant (German Idealism  Critical Epistemology)"
+            "G.W.F. Hegel",
+            "Arthur Schopenhauer",
+            "Friedrich Nietzsche",
+            "Immanuel Kant"
           ],
           "answerIndex": 3,
           "explanation": "Immanuel Kant."
@@ -12654,10 +12658,10 @@
         {
           "prompt": "What Latin Enlightenment motto, meaning \"Dare to know / Have the courage to use your own reason,\" was popularized by Kant in 1784?",
           "options": [
-            "«Carpe diem» (German Idealism  Critical Epistemology)",
-            "«Cogito ergo sum» (German Idealism  Critical Epistemology)",
-            "«Sapere aude!» (German Idealism  Critical Epistemology)",
-            "«Memento mori» (German Idealism  Critical Epistemology)"
+            "«Carpe diem»",
+            "«Cogito ergo sum»",
+            "«Sapere aude!»",
+            "«Memento mori»"
           ],
           "answerIndex": 2,
           "explanation": "«Sapere aude!»"
@@ -12669,10 +12673,10 @@
         {
           "prompt": "Translate: \"The categorical imperative demands that human beings are treated always as ends in themselves and never merely as a means to an end.\"",
           "options": [
-            "Der kategorische Imperativ erlaubt beliebige Ausnahmen. (German Idealism  Critical Epistemology)",
-            "Kant verwarf die menschliche Vernunft vollständig. (German Idealism  Critical Epistemology)",
-            "Kritik der reinen Vernunft ist ein juristisches Gesetzbuch. (German Idealism  Critical Epistemology)",
-            "Der kategorische Imperativ fordert, dass der Mensch jederzeit als Zweck an sich selbst und niemals bloß als Mittel zu einem Zweck behandelt wird. (German Idealism  Critical Epistemology)"
+            "Der kategorische Imperativ erlaubt beliebige Ausnahmen.",
+            "Kant verwarf die menschliche Vernunft vollständig.",
+            "Kritik der reinen Vernunft ist ein juristisches Gesetzbuch.",
+            "Der kategorische Imperativ fordert, dass der Mensch jederzeit als Zweck an sich selbst und niemals bloß als Mittel zu einem Zweck behandelt wird."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Kantian philosophy translation.",
@@ -12681,10 +12685,10 @@
         {
           "prompt": "What philosophical concept in Kant's epistemology designates the objective reality behind appearances that cannot be directly perceived by human senses?",
           "options": [
-            "Die reine Anschauung (German Idealism  Critical Epistemology)",
-            "Das Phänomen (German Idealism  Critical Epistemology)",
-            "Das Ding an sich (German Idealism  Critical Epistemology)",
-            "Der Weltgeist (German Idealism  Critical Epistemology)"
+            "Die reine Anschauung",
+            "Das Phänomen",
+            "Das Ding an sich",
+            "Der Weltgeist"
           ],
           "answerIndex": 2,
           "explanation": "Das Ding an sich.",
@@ -12721,10 +12725,10 @@
         {
           "prompt": "Which German Idealist philosopher authored the 1807 masterpiece «Phänomenologie des Geistes» (Phenomenology of Spirit)?",
           "options": [
-            "G.W.F. Hegel (Dialectics  Absolute Spirit)",
-            "Johann Gottlieb Fichte (Dialectics  Absolute Spirit)",
-            "Immanuel Kant (Dialectics  Absolute Spirit)",
-            "Karl Marx (Dialectics  Absolute Spirit)"
+            "G.W.F. Hegel",
+            "Johann Gottlieb Fichte",
+            "Immanuel Kant",
+            "Karl Marx"
           ],
           "answerIndex": 0,
           "explanation": "G.W.F. Hegel."
@@ -12736,10 +12740,10 @@
         {
           "prompt": "What famous chapter in Hegel's Phenomenology analyzes how self-consciousness emerges through struggle and labor between two human beings?",
           "options": [
-            "Herrschaft und Knechtschaft (Dialectics  Absolute Spirit)",
-            "Das Unglückliche Bewusstsein nur (Dialectics  Absolute Spirit)",
-            "Die Sinnliche Gewissheit (Dialectics  Absolute Spirit)",
-            "Der Absolute Geist (Dialectics  Absolute Spirit)"
+            "Herrschaft und Knechtschaft",
+            "Das Unglückliche Bewusstsein nur",
+            "Die Sinnliche Gewissheit",
+            "Der Absolute Geist"
           ],
           "answerIndex": 0,
           "explanation": "Herrschaft und Knechtschaft."
@@ -12751,10 +12755,10 @@
         {
           "prompt": "Translate: \"The historical process according to Hegel is the progressive realization of the consciousness of freedom throughout world civilizations.\"",
           "options": [
-            "Hegel lehnte jede Form von Dialektik ab. (Dialectics  Absolute Spirit)",
-            "Die Phänomenologie des Geistes ist ein medizinisches Handbuch. (Dialectics  Absolute Spirit)",
-            "Der historische Prozess ist nach Hegel die fortschreitende Entwicklung im Bewusstsein der Freiheit durch die Weltzivilisationen hindurch. (Dialectics  Absolute Spirit)",
-            "Hegel war ein radikaler Nihilist. (Dialectics  Absolute Spirit)"
+            "Hegel lehnte jede Form von Dialektik ab.",
+            "Die Phänomenologie des Geistes ist ein medizinisches Handbuch.",
+            "Der historische Prozess ist nach Hegel die fortschreitende Entwicklung im Bewusstsein der Freiheit durch die Weltzivilisationen hindurch.",
+            "Hegel war ein radikaler Nihilist."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Hegelian philosophy translation.",
@@ -12763,10 +12767,10 @@
         {
           "prompt": "What triple German philosophical verb/noun in Hegel's dialectic means to cancel/negate, preserve, and elevate all at once?",
           "options": [
-            "Zerstören (Dialectics  Absolute Spirit)",
-            "Aufheben / Die Aufhebung (Dialectics  Absolute Spirit)",
-            "Vergessen (Dialectics  Absolute Spirit)",
-            "Wiederholen (Dialectics  Absolute Spirit)"
+            "Zerstören",
+            "Aufheben / Die Aufhebung",
+            "Vergessen",
+            "Wiederholen"
           ],
           "answerIndex": 1,
           "explanation": "Aufheben / Die Aufhebung.",
@@ -12803,10 +12807,10 @@
         {
           "prompt": "Which German philosopher authored «Also sprach Zarathustra» (Thus Spoke Zarathustra) and proclaimed the concept of the Übermensch?",
           "options": [
-            "Friedrich Nietzsche (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Arthur Schopenhauer (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Martin Heidegger (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Theodor W. Adorno (Nietzschean Radicalism  Overcoming Nihilism)"
+            "Friedrich Nietzsche",
+            "Arthur Schopenhauer",
+            "Martin Heidegger",
+            "Theodor W. Adorno"
           ],
           "answerIndex": 0,
           "explanation": "Friedrich Nietzsche."
@@ -12818,10 +12822,10 @@
         {
           "prompt": "What philosophical Latin phrase adopted by Nietzsche signifies the passionate, unconditional love and acceptance of one's own fate?",
           "options": [
-            "«Amor fati» (Nietzschean Radicalism  Overcoming Nihilism)",
-            "«Tabula rasa» (Nietzschean Radicalism  Overcoming Nihilism)",
-            "«Carpe diem» (Nietzschean Radicalism  Overcoming Nihilism)",
-            "«Memento mori» (Nietzschean Radicalism  Overcoming Nihilism)"
+            "«Amor fati»",
+            "«Tabula rasa»",
+            "«Carpe diem»",
+            "«Memento mori»"
           ],
           "answerIndex": 0,
           "explanation": "«Amor fati»."
@@ -12833,10 +12837,10 @@
         {
           "prompt": "Translate: \"The eternal recurrence functions as the supreme ethical test: living in such a manner that one desires every moment to repeat eternally.\"",
           "options": [
-            "Nietzsche forderte blinden Gehorsam gegenüber Dogmen. (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Die ewige Wiederkunft fungiert als oberster ethischer Prüfstein: so zu leben, dass man jeden Augenblick ewig wiederholt zu erleben begehrt. (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Nietzsche lehnte die Bejahung des Lebens ab. (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Zarathustra ist eine historische Biographie über Persien. (Nietzschean Radicalism  Overcoming Nihilism)"
+            "Nietzsche forderte blinden Gehorsam gegenüber Dogmen.",
+            "Die ewige Wiederkunft fungiert als oberster ethischer Prüfstein: so zu leben, dass man jeden Augenblick ewig wiederholt zu erleben begehrt.",
+            "Nietzsche lehnte die Bejahung des Lebens ab.",
+            "Zarathustra ist eine historische Biographie über Persien."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Nietzschean philosophy translation.",
@@ -12845,10 +12849,10 @@
         {
           "prompt": "What critical philosophical project did Nietzsche propose to dismantle traditional ascetic moral systems based on resentment?",
           "options": [
-            "Die Umwertung aller Werte (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Das Verbot der Kunst (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Der Rückzug ins Kloster (Nietzschean Radicalism  Overcoming Nihilism)",
-            "Die Rückkehr zum Mittelalter (Nietzschean Radicalism  Overcoming Nihilism)"
+            "Die Umwertung aller Werte",
+            "Das Verbot der Kunst",
+            "Der Rückzug ins Kloster",
+            "Die Rückkehr zum Mittelalter"
           ],
           "answerIndex": 0,
           "explanation": "Die Umwertung aller Werte.",
@@ -12885,10 +12889,10 @@
         {
           "prompt": "Which seminal critical treatise was co-authored by Max Horkheimer and Theodor W. Adorno in 1944 analyzing the self-destruction of instrumental reason?",
           "options": [
-            "«Das Kapital» (Critical Theory  The Frankfurt School)",
-            "«Dialektik der Aufklärung» (Critical Theory  The Frankfurt School)",
-            "«Tractatus Logico-Philosophicus» (Critical Theory  The Frankfurt School)",
-            "«Sein und Zeit» (Critical Theory  The Frankfurt School)"
+            "«Das Kapital»",
+            "«Dialektik der Aufklärung»",
+            "«Tractatus Logico-Philosophicus»",
+            "«Sein und Zeit»"
           ],
           "answerIndex": 1,
           "explanation": "«Dialektik der Aufklärung»."
@@ -12900,10 +12904,10 @@
         {
           "prompt": "What term was coined by the Frankfurt School to describe commercial mass media that standardizes art into consumable commodities?",
           "options": [
-            "Das Kunstwerk der Zukunft (Critical Theory  The Frankfurt School)",
-            "Die Kulturindustrie (Critical Theory  The Frankfurt School)",
-            "Die Gegenkultur (Critical Theory  The Frankfurt School)",
-            "Die Hochkultur (Critical Theory  The Frankfurt School)"
+            "Das Kunstwerk der Zukunft",
+            "Die Kulturindustrie",
+            "Die Gegenkultur",
+            "Die Hochkultur"
           ],
           "answerIndex": 1,
           "explanation": "Die Kulturindustrie."
@@ -12915,10 +12919,10 @@
         {
           "prompt": "Translate: \"Instrumental rationality reduces nature and human beings to mere calculable objects of economic exploitation and bureaucratic control.\"",
           "options": [
-            "Die instrumentelle Rationalität degradiert die Natur und den Menschen zu bloßen berechenbaren Objekten ökonomischer Ausbeutung und bürokratischer Beherrschung. (Critical Theory  The Frankfurt School)",
-            "Adorno war ein Befürworter der kommerziellen Werbung. (Critical Theory  The Frankfurt School)",
-            "Die Dialektik der Aufklärung feiert die Vollendung der Vernunft. (Critical Theory  The Frankfurt School)",
-            "Die Frankfurter Schule lehnte jede Kritik an Massenmedien ab. (Critical Theory  The Frankfurt School)"
+            "Die instrumentelle Rationalität degradiert die Natur und den Menschen zu bloßen berechenbaren Objekten ökonomischer Ausbeutung und bürokratischer Beherrschung.",
+            "Adorno war ein Befürworter der kommerziellen Werbung.",
+            "Die Dialektik der Aufklärung feiert die Vollendung der Vernunft.",
+            "Die Frankfurter Schule lehnte jede Kritik an Massenmedien ab."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Critical Theory translation.",
@@ -12927,10 +12931,10 @@
         {
           "prompt": "What famous social research institute in Frankfurt am Main served as the historic intellectual home of Critical Theory?",
           "options": [
-            "Das Max-Planck-Institut für Physik (Critical Theory  The Frankfurt School)",
-            "Das RKI (Critical Theory  The Frankfurt School)",
-            "Das Bauhaus Dessau (Critical Theory  The Frankfurt School)",
-            "Das Institut für Sozialforschung (Critical Theory  The Frankfurt School)"
+            "Das Max-Planck-Institut für Physik",
+            "Das RKI",
+            "Das Bauhaus Dessau",
+            "Das Institut für Sozialforschung"
           ],
           "answerIndex": 3,
           "explanation": "Das Institut für Sozialforschung.",
@@ -13049,10 +13053,10 @@
         {
           "prompt": "Which German architect founded the Staatliche Bauhaus in Weimar in 1919 and designed the iconic Bauhaus building in Dessau?",
           "options": [
-            "Ludwig Mies van der Rohe (The Bauhaus Revolution  Functional Modernism)",
-            "Peter Behrens (The Bauhaus Revolution  Functional Modernism)",
-            "Karl Friedrich Schinkel (The Bauhaus Revolution  Functional Modernism)",
-            "Walter Gropius (The Bauhaus Revolution  Functional Modernism)"
+            "Ludwig Mies van der Rohe",
+            "Peter Behrens",
+            "Karl Friedrich Schinkel",
+            "Walter Gropius"
           ],
           "answerIndex": 3,
           "explanation": "Walter Gropius."
@@ -13064,10 +13068,10 @@
         {
           "prompt": "What foundational modernist design principle emphasizes that the aesthetic shape of an object must be determined by its practical purpose?",
           "options": [
-            "«L'art pour l'art» (The Bauhaus Revolution  Functional Modernism)",
-            "«Mehr ist mehr» (The Bauhaus Revolution  Functional Modernism)",
-            "«Form folgt Funktion» (The Bauhaus Revolution  Functional Modernism)",
-            "«Ornament ist kein Verbrechen» (The Bauhaus Revolution  Functional Modernism)"
+            "«L'art pour l'art»",
+            "«Mehr ist mehr»",
+            "«Form folgt Funktion»",
+            "«Ornament ist kein Verbrechen»"
           ],
           "answerIndex": 2,
           "explanation": "«Form folgt Funktion»."
@@ -13079,10 +13083,10 @@
         {
           "prompt": "Translate: \"The glass curtain wall of the Dessau Bauhaus building opened the interior workshops to natural light, revealing the structural steel skeleton.\"",
           "options": [
-            "Walter Gropius baute ausschließlich Barockschlösser. (The Bauhaus Revolution  Functional Modernism)",
-            "Das Bauhaus verbot die Verwendung von Glas und Stahl. (The Bauhaus Revolution  Functional Modernism)",
-            "Die Glasvorhangfassade des Dessauer Bauhausgebäudes öffnete die inneren Werkstätten für natürliches Licht und legte das tragende Stahlskelett offen. (The Bauhaus Revolution  Functional Modernism)",
-            "Das Bauhaus wurde 1990 in München gegründet. (The Bauhaus Revolution  Functional Modernism)"
+            "Walter Gropius baute ausschließlich Barockschlösser.",
+            "Das Bauhaus verbot die Verwendung von Glas und Stahl.",
+            "Die Glasvorhangfassade des Dessauer Bauhausgebäudes öffnete die inneren Werkstätten für natürliches Licht und legte das tragende Stahlskelett offen.",
+            "Das Bauhaus wurde 1990 in München gegründet."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Bauhaus analysis translation.",
@@ -13091,10 +13095,10 @@
         {
           "prompt": "Which Hungarian-born Bauhaus master designer created the revolutionary tubular steel \"Wassily Chair\" (Club Chair B3) in 1925?",
           "options": [
-            "Paul Klee (The Bauhaus Revolution  Functional Modernism)",
-            "Marcel Breuer (The Bauhaus Revolution  Functional Modernism)",
-            "Wassily Kandinsky (The Bauhaus Revolution  Functional Modernism)",
-            "Johannes Itten (The Bauhaus Revolution  Functional Modernism)"
+            "Paul Klee",
+            "Marcel Breuer",
+            "Wassily Kandinsky",
+            "Johannes Itten"
           ],
           "answerIndex": 1,
           "explanation": "Marcel Breuer.",
@@ -13131,10 +13135,10 @@
         {
           "prompt": "Which master architect coined the legendary minimalist phrase «Weniger ist mehr» (Less is more) and designed the 1929 Barcelona Pavilion?",
           "options": [
-            "Ludwig Mies van der Rohe (Universal Minimalism  The Glass Skyscraper)",
-            "Frank Gehry (Universal Minimalism  The Glass Skyscraper)",
-            "Walter Gropius (Universal Minimalism  The Glass Skyscraper)",
-            "Le Corbusier (Universal Minimalism  The Glass Skyscraper)"
+            "Ludwig Mies van der Rohe",
+            "Frank Gehry",
+            "Walter Gropius",
+            "Le Corbusier"
           ],
           "answerIndex": 0,
           "explanation": "Ludwig Mies van der Rohe."
@@ -13146,10 +13150,10 @@
         {
           "prompt": "What iconic museum in Berlin, featuring a massive black steel coffer roof resting on 8 exterior columns, was Mies van der Rohe's final masterpiece?",
           "options": [
-            "Die Neue Nationalgalerie (Universal Minimalism  The Glass Skyscraper)",
-            "Das Pergamonmuseum (Universal Minimalism  The Glass Skyscraper)",
-            "Das Bode-Museum (Universal Minimalism  The Glass Skyscraper)",
-            "Die Alte Nationalgalerie (Universal Minimalism  The Glass Skyscraper)"
+            "Die Neue Nationalgalerie",
+            "Das Pergamonmuseum",
+            "Das Bode-Museum",
+            "Die Alte Nationalgalerie"
           ],
           "answerIndex": 0,
           "explanation": "Die Neue Nationalgalerie."
@@ -13161,10 +13165,10 @@
         {
           "prompt": "Translate: \"The Barcelona Pavilion demonstrated the concept of flowing space, where freestanding marble partitions guide movement without enclosing rooms.\"",
           "options": [
-            "Mies van der Rohe baute ausschließlich Fachwerkhäuser. (Universal Minimalism  The Glass Skyscraper)",
-            "Der Barcelona-Pavillon demonstrierte das Konzept des fließenden Raums, in dem freistehende Marmorwände die Bewegung leiten, ohne Räume starr abzugrenzen. (Universal Minimalism  The Glass Skyscraper)",
-            "«Weniger ist mehr» fordert überladene Dekoration. (Universal Minimalism  The Glass Skyscraper)",
-            "Der Barcelona-Pavillon wurde aus Holzstämmen gebaut. (Universal Minimalism  The Glass Skyscraper)"
+            "Mies van der Rohe baute ausschließlich Fachwerkhäuser.",
+            "Der Barcelona-Pavillon demonstrierte das Konzept des fließenden Raums, in dem freistehende Marmorwände die Bewegung leiten, ohne Räume starr abzugrenzen.",
+            "«Weniger ist mehr» fordert überladene Dekoration.",
+            "Der Barcelona-Pavillon wurde aus Holzstämmen gebaut."
           ],
           "answerIndex": 1,
           "explanation": "Accurate architectural analysis translation.",
@@ -13173,10 +13177,10 @@
         {
           "prompt": "What famous luxury leather and chrome chair was designed by Mies van der Rohe and Lilly Reich for the German Pavilion in 1929?",
           "options": [
-            "Der Barcelona-Sessel (Universal Minimalism  The Glass Skyscraper)",
-            "Der Biedermeier-Stuhl (Universal Minimalism  The Glass Skyscraper)",
-            "Der Plastikstuhl (Universal Minimalism  The Glass Skyscraper)",
-            "Der Schaukelstuhl (Universal Minimalism  The Glass Skyscraper)"
+            "Der Barcelona-Sessel",
+            "Der Biedermeier-Stuhl",
+            "Der Plastikstuhl",
+            "Der Schaukelstuhl"
           ],
           "answerIndex": 0,
           "explanation": "Der Barcelona-Sessel.",
@@ -13213,10 +13217,10 @@
         {
           "prompt": "Which German Romantic master painter created the iconic masterpiece «Der Wanderer über dem Nebelmeer» (1818) in the Hamburger Kunsthalle?",
           "options": [
-            "Caspar David Friedrich (German Romanticism  The Sublime)",
-            "Albrecht Dürer (German Romanticism  The Sublime)",
-            "Max Ernst (German Romanticism  The Sublime)",
-            "Gerhard Richter (German Romanticism  The Sublime)"
+            "Caspar David Friedrich",
+            "Albrecht Dürer",
+            "Max Ernst",
+            "Gerhard Richter"
           ],
           "answerIndex": 0,
           "explanation": "Caspar David Friedrich."
@@ -13228,10 +13232,10 @@
         {
           "prompt": "What characteristic compositional device used by Friedrich places a lone human figure seen from behind contemplating the landscape?",
           "options": [
-            "Die Rückenfigur (German Romanticism  The Sublime)",
-            "Die Karikatur (German Romanticism  The Sublime)",
-            "Das Frontalporträt (German Romanticism  The Sublime)",
-            "Das Stillleben (German Romanticism  The Sublime)"
+            "Die Rückenfigur",
+            "Die Karikatur",
+            "Das Frontalporträt",
+            "Das Stillleben"
           ],
           "answerIndex": 0,
           "explanation": "Die Rückenfigur."
@@ -13243,10 +13247,10 @@
         {
           "prompt": "Translate: \"The Romantic concept of the Sublime evokes awe, wonder, and existential reverence in the human soul when confronting the terrifying majesty of nature.\"",
           "options": [
-            "Das romantische Konzept des Erhabenen erweckt Ehrfurcht, Staunen und existenzielle Ergriffenheit in der menschlichen Seele angesichts der überwältigenden Erhabenheit der Natur. (German Romanticism  The Sublime)",
-            "Der Wanderer über dem Nebelmeer ist ein Werbeplakat. (German Romanticism  The Sublime)",
-            "Das Eismeer feiert den Sieg der Technik über die Arktis. (German Romanticism  The Sublime)",
-            "Caspar David Friedrich malte ausschließlich Industrieanlagen. (German Romanticism  The Sublime)"
+            "Das romantische Konzept des Erhabenen erweckt Ehrfurcht, Staunen und existenzielle Ergriffenheit in der menschlichen Seele angesichts der überwältigenden Erhabenheit der Natur.",
+            "Der Wanderer über dem Nebelmeer ist ein Werbeplakat.",
+            "Das Eismeer feiert den Sieg der Technik über die Arktis.",
+            "Caspar David Friedrich malte ausschließlich Industrieanlagen."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Romantic art translation.",
@@ -13255,10 +13259,10 @@
         {
           "prompt": "In which prestigious German art museum in Hamburg is Friedrich's *Wanderer above the Sea of Fog* permanently displayed?",
           "options": [
-            "Städel Museum Frankfurt (German Romanticism  The Sublime)",
-            "Gemäldegalerie Berlin (German Romanticism  The Sublime)",
-            "Alte Pinakothek München (German Romanticism  The Sublime)",
-            "Hamburger Kunsthalle (German Romanticism  The Sublime)"
+            "Städel Museum Frankfurt",
+            "Gemäldegalerie Berlin",
+            "Alte Pinakothek München",
+            "Hamburger Kunsthalle"
           ],
           "answerIndex": 3,
           "explanation": "Hamburger Kunsthalle.",
@@ -13295,10 +13299,10 @@
         {
           "prompt": "Which Munich-based Expressionist artist group was founded in 1911 by Wassily Kandinsky and Franz Marc?",
           "options": [
-            "Dada (Expressionism  The Blue Rider)",
-            "Der Blaue Reiter (Expressionism  The Blue Rider)",
-            "De Stijl (Expressionism  The Blue Rider)",
-            "Die Brücke (Expressionism  The Blue Rider)"
+            "Dada",
+            "Der Blaue Reiter",
+            "De Stijl",
+            "Die Brücke"
           ],
           "answerIndex": 1,
           "explanation": "Der Blaue Reiter."
@@ -13310,10 +13314,10 @@
         {
           "prompt": "What groundbreaking theoretical book was published by Wassily Kandinsky in 1911 exploring the spiritual and musical nature of abstract painting?",
           "options": [
-            "«Die Traumdeutung» (Expressionism  The Blue Rider)",
-            "«Über das Geistige in der Kunst» (Expressionism  The Blue Rider)",
-            "«Zur Genealogie der Moral» (Expressionism  The Blue Rider)",
-            "«Mein Leben» (Expressionism  The Blue Rider)"
+            "«Die Traumdeutung»",
+            "«Über das Geistige in der Kunst»",
+            "«Zur Genealogie der Moral»",
+            "«Mein Leben»"
           ],
           "answerIndex": 1,
           "explanation": "«Über das Geistige in der Kunst»."
@@ -13325,10 +13329,10 @@
         {
           "prompt": "Translate: \"Kandinsky demonstrated that non-representational colors and geometric shapes communicate directly with the human soul, independent of figurative objects.\"",
           "options": [
-            "Der Blaue Reiter verbot die Verwendung von Farben. (Expressionism  The Blue Rider)",
-            "Franz Marc malte ausschließlich Porträts von Königen. (Expressionism  The Blue Rider)",
-            "Abstrakte Kunst entstand erst im 21. Jahrhundert. (Expressionism  The Blue Rider)",
-            "Kandinsky wies nach, dass ungegenständliche Farben und geometrische Formen unabhängig von abbildhaften Objekten direkt mit der menschlichen Seele kommunizieren. (Expressionism  The Blue Rider)"
+            "Der Blaue Reiter verbot die Verwendung von Farben.",
+            "Franz Marc malte ausschließlich Porträts von Königen.",
+            "Abstrakte Kunst entstand erst im 21. Jahrhundert.",
+            "Kandinsky wies nach, dass ungegenständliche Farben und geometrische Formen unabhängig von abbildhaften Objekten direkt mit der menschlichen Seele kommunizieren."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Expressionist analysis translation.",
@@ -13337,10 +13341,10 @@
         {
           "prompt": "What color in Franz Marc's symbolic palette represented the masculine spiritual and contemplative principle in masterpieces like *The Large Blue Horses*?",
           "options": [
-            "Schwarz (Expressionism  The Blue Rider)",
-            "Rot (Expressionism  The Blue Rider)",
-            "Blau (Expressionism  The Blue Rider)",
-            "Gelb (Expressionism  The Blue Rider)"
+            "Schwarz",
+            "Rot",
+            "Blau",
+            "Gelb"
           ],
           "answerIndex": 2,
           "explanation": "Blau (Blue).",
@@ -13459,10 +13463,10 @@
         {
           "prompt": "Which German composer premiered his revolutionary Ninth Symphony (Choral) in Vienna in 1824 featuring Schiller's \"Ode to Joy\"?",
           "options": [
-            "Johann Sebastian Bach (The Titan of the Symphonic Cosmos)",
-            "Johannes Brahms (The Titan of the Symphonic Cosmos)",
-            "Wolfgang Amadeus Mozart (The Titan of the Symphonic Cosmos)",
-            "Ludwig van Beethoven (The Titan of the Symphonic Cosmos)"
+            "Johann Sebastian Bach",
+            "Johannes Brahms",
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven"
           ],
           "answerIndex": 3,
           "explanation": "Ludwig van Beethoven."
@@ -13474,10 +13478,10 @@
         {
           "prompt": "Whose 1785 poem «Ode an die Freude» celebrating universal human brotherhood did Beethoven set to music in the finale of his Ninth Symphony?",
           "options": [
-            "Johann Wolfgang von Goethe (The Titan of the Symphonic Cosmos)",
-            "Friedrich Schiller (The Titan of the Symphonic Cosmos)",
-            "Heinrich Heine (The Titan of the Symphonic Cosmos)",
-            "Novalis (The Titan of the Symphonic Cosmos)"
+            "Johann Wolfgang von Goethe",
+            "Friedrich Schiller",
+            "Heinrich Heine",
+            "Novalis"
           ],
           "answerIndex": 1,
           "explanation": "Friedrich Schiller."
@@ -13489,10 +13493,10 @@
         {
           "prompt": "Translate: \"Beethoven's Ninth Symphony introduced a monumental choir and vocal soloists into the symphonic finale, breaking classical formal conventions to proclaim universal fraternity.\"",
           "options": [
-            "Beethoven schrieb ausschließlich für Soloflöte. (The Titan of the Symphonic Cosmos)",
-            "Beethovens neunte Sinfonie führte einen monumentalen Chor und Gesangssolisten in das sinfonische Finale ein und sprengte klassische Formkonventionen zur Verkündung universeller Verbrüderung. (The Titan of the Symphonic Cosmos)",
-            "Die Ode an die Freude ist ein Trauermarsch. (The Titan of the Symphonic Cosmos)",
-            "Die 9. Sinfonie wurde 1720 in Berlin komponiert. (The Titan of the Symphonic Cosmos)"
+            "Beethoven schrieb ausschließlich für Soloflöte.",
+            "Beethovens neunte Sinfonie führte einen monumentalen Chor und Gesangssolisten in das sinfonische Finale ein und sprengte klassische Formkonventionen zur Verkündung universeller Verbrüderung.",
+            "Die Ode an die Freude ist ein Trauermarsch.",
+            "Die 9. Sinfonie wurde 1720 in Berlin komponiert."
           ],
           "answerIndex": 1,
           "explanation": "Accurate symphonic analysis translation.",
@@ -13501,10 +13505,10 @@
         {
           "prompt": "Which international political union adopted the instrumental arrangement of Beethoven's \"Ode to Joy\" theme as its official anthem?",
           "options": [
-            "Die Europäische Union (The Titan of the Symphonic Cosmos)",
-            "Die Vereinten Nationen (The Titan of the Symphonic Cosmos)",
-            "Die NATO (The Titan of the Symphonic Cosmos)",
-            "Die Afrikanische Union (The Titan of the Symphonic Cosmos)"
+            "Die Europäische Union",
+            "Die Vereinten Nationen",
+            "Die NATO",
+            "Die Afrikanische Union"
           ],
           "answerIndex": 0,
           "explanation": "Die Europäische Union.",
@@ -13541,10 +13545,10 @@
         {
           "prompt": "Which baroque master served as Thomaskantor in Leipzig and composed The Art of Fugue and The Well-Tempered Clavier?",
           "options": [
-            "Johann Sebastian Bach (The Master of Universal Polyphony)",
-            "Dietrich Buxtehude (The Master of Universal Polyphony)",
-            "Georg Friedrich Händel (The Master of Universal Polyphony)",
-            "Georg Philipp Telemann (The Master of Universal Polyphony)"
+            "Johann Sebastian Bach",
+            "Dietrich Buxtehude",
+            "Georg Friedrich Händel",
+            "Georg Philipp Telemann"
           ],
           "answerIndex": 0,
           "explanation": "Johann Sebastian Bach."
@@ -13556,10 +13560,10 @@
         {
           "prompt": "What four-letter musical motif did Bach weave into the final unfinished fugue of *The Art of Fugue* as his personal signature?",
           "options": [
-            "B-A-C-H (The Master of Universal Polyphony)",
-            "K-A-N-T (The Master of Universal Polyphony)",
-            "G-O-T-T (The Master of Universal Polyphony)",
-            "W-I-E-N (The Master of Universal Polyphony)"
+            "B-A-C-H",
+            "K-A-N-T",
+            "G-O-T-T",
+            "W-I-E-N"
           ],
           "answerIndex": 0,
           "explanation": "B-A-C-H."
@@ -13571,10 +13575,10 @@
         {
           "prompt": "Translate: \"The Well-Tempered Clavier demonstrated the practical feasibility of equal temperament tuning across all twenty-four major and minor keys of the keyboard.\"",
           "options": [
-            "Das Wohltemperierte Klavier bewies die praktische Durchführbarkeit der wohltemperierten Stimmung über alle vierundzwanzig Dur- und Moll-Tonarten der Klaviatur. (The Master of Universal Polyphony)",
-            "Die Matthäus-Passion ist eine heitere Oper über die Jagd. (The Master of Universal Polyphony)",
-            "Bach lebte im 20. Jahrhundert in München. (The Master of Universal Polyphony)",
-            "Bach verbot die Verwendung von Fugen. (The Master of Universal Polyphony)"
+            "Das Wohltemperierte Klavier bewies die praktische Durchführbarkeit der wohltemperierten Stimmung über alle vierundzwanzig Dur- und Moll-Tonarten der Klaviatur.",
+            "Die Matthäus-Passion ist eine heitere Oper über die Jagd.",
+            "Bach lebte im 20. Jahrhundert in München.",
+            "Bach verbot die Verwendung von Fugen."
           ],
           "answerIndex": 0,
           "explanation": "Accurate counterpoint analysis translation.",
@@ -13583,10 +13587,10 @@
         {
           "prompt": "Which 19th-century German composer famously revived Bach's forgotten *St Matthew Passion* in Berlin in 1829, sparking the global Bach renaissance?",
           "options": [
-            "Robert Schumann (The Master of Universal Polyphony)",
-            "Franz Liszt (The Master of Universal Polyphony)",
-            "Richard Wagner (The Master of Universal Polyphony)",
-            "Felix Mendelssohn Bartholdy (The Master of Universal Polyphony)"
+            "Robert Schumann",
+            "Franz Liszt",
+            "Richard Wagner",
+            "Felix Mendelssohn Bartholdy"
           ],
           "answerIndex": 3,
           "explanation": "Felix Mendelssohn Bartholdy.",
@@ -13623,10 +13627,10 @@
         {
           "prompt": "Which German composer created the concept of the \"Gesamtkunstwerk\" and composed the 16-hour four-opera cycle \"Der Ring des Nibelungen\"?",
           "options": [
-            "Richard Wagner (Total Work of Art  The Ring of the Nibelung)",
-            "Richard Strauss (Total Work of Art  The Ring of the Nibelung)",
-            "Johannes Brahms (Total Work of Art  The Ring of the Nibelung)",
-            "Gustav Mahler (Total Work of Art  The Ring of the Nibelung)"
+            "Richard Wagner",
+            "Richard Strauss",
+            "Johannes Brahms",
+            "Gustav Mahler"
           ],
           "answerIndex": 0,
           "explanation": "Richard Wagner."
@@ -13638,10 +13642,10 @@
         {
           "prompt": "What famous ambiguous chromatic chord in the opening measures of *Tristan und Isolde* delayed harmonic resolution and challenged traditional tonality?",
           "options": [
-            "Der Tristan-Akkord (Total Work of Art  The Ring of the Nibelung)",
-            "Die Quinte (Total Work of Art  The Ring of the Nibelung)",
-            "Der Dur-Dreiklang (Total Work of Art  The Ring of the Nibelung)",
-            "Der verminderte Septakkord (Total Work of Art  The Ring of the Nibelung)"
+            "Der Tristan-Akkord",
+            "Die Quinte",
+            "Der Dur-Dreiklang",
+            "Der verminderte Septakkord"
           ],
           "answerIndex": 0,
           "explanation": "Der Tristan-Akkord."
@@ -13653,10 +13657,10 @@
         {
           "prompt": "Translate: \"The covered sunken orchestra pit in the Bayreuth Festspielhaus creates a mystical acoustic blend where orchestral sound reflects off the wooden ceiling before reaching the audience.\"",
           "options": [
-            "Wagner schrieb nur kurze Klavierstücke. (Total Work of Art  The Ring of the Nibelung)",
-            "Der Ring des Nibelungen dauert insgesamt zwanzig Minuten. (Total Work of Art  The Ring of the Nibelung)",
-            "Das Festspielhaus Bayreuth wurde aus Beton ohne Akustik gebaut. (Total Work of Art  The Ring of the Nibelung)",
-            "Der verdeckte versenkte Orchestergraben im Bayreuther Festspielhaus erzeugt eine mystische akustische Klangmischung, bei der der Orchesterklang an der Holzdecke reflektiert wird, bevor er das Publikum erreicht. (Total Work of Art  The Ring of the Nibelung)"
+            "Wagner schrieb nur kurze Klavierstücke.",
+            "Der Ring des Nibelungen dauert insgesamt zwanzig Minuten.",
+            "Das Festspielhaus Bayreuth wurde aus Beton ohne Akustik gebaut.",
+            "Der verdeckte versenkte Orchestergraben im Bayreuther Festspielhaus erzeugt eine mystische akustische Klangmischung, bei der der Orchesterklang an der Holzdecke reflektiert wird, bevor er das Publikum erreicht."
           ],
           "answerIndex": 3,
           "explanation": "Accurate operatic analysis translation.",
@@ -13665,10 +13669,10 @@
         {
           "prompt": "What musical compositional technique assigns recurring melodic phrases to specific characters, objects, or dramatic themes throughout an opera?",
           "options": [
-            "Das Rezitativ secco (Total Work of Art  The Ring of the Nibelung)",
-            "Die Zwölftonreihe nur (Total Work of Art  The Ring of the Nibelung)",
-            "Die Leitmotiv-Technik (Total Work of Art  The Ring of the Nibelung)",
-            "Die Monodie (Total Work of Art  The Ring of the Nibelung)"
+            "Das Rezitativ secco",
+            "Die Zwölftonreihe nur",
+            "Die Leitmotiv-Technik",
+            "Die Monodie"
           ],
           "answerIndex": 2,
           "explanation": "Die Leitmotiv-Technik.",
@@ -13705,10 +13709,10 @@
         {
           "prompt": "Which Austro-German composer declared \"A symphony must be like the world; it must embrace everything\" and wrote The Resurrection Symphony?",
           "options": [
-            "Richard Strauss (The Symphony as a Universe)",
-            "Gustav Mahler (The Symphony as a Universe)",
-            "Johannes Brahms (The Symphony as a Universe)",
-            "Anton Bruckner (The Symphony as a Universe)"
+            "Richard Strauss",
+            "Gustav Mahler",
+            "Johannes Brahms",
+            "Anton Bruckner"
           ],
           "answerIndex": 1,
           "explanation": "Gustav Mahler."
@@ -13720,10 +13724,10 @@
         {
           "prompt": "What German word repeated softly by the contralto concludes Gustav Mahler's *Das Lied von der Erde* (The Song of the Earth)?",
           "options": [
-            "«Nacht...» (The Symphony as a Universe)",
-            "«Ewig... ewig...» (The Symphony as a Universe)",
-            "«Ende...» (The Symphony as a Universe)",
-            "«Freude...» (The Symphony as a Universe)"
+            "«Nacht...»",
+            "«Ewig... ewig...»",
+            "«Ende...»",
+            "«Freude...»"
           ],
           "answerIndex": 1,
           "explanation": "«Ewig... ewig...»."
@@ -13735,10 +13739,10 @@
         {
           "prompt": "Translate: \"Mahler juxtaposed military trumpet fanfares and crude street folk dances with sublime metaphysical choral transcendence within a single symphonic movement.\"",
           "options": [
-            "Die Sinfonie der Tausend wird von drei Musikern gespielt. (The Symphony as a Universe)",
-            "Das Lied von der Erde ist ein Lehrbuch für Geologie. (The Symphony as a Universe)",
-            "Mahler stellte militärische Trompetenfanfaren und derbe Straßenvolkstänze erhabener metaphysischer Chortranszendenz innerhalb eines einzigen sinfonischen Satzes gegenüber. (The Symphony as a Universe)",
-            "Mahler dirigierte ausschließlich in Dorfkirchen. (The Symphony as a Universe)"
+            "Die Sinfonie der Tausend wird von drei Musikern gespielt.",
+            "Das Lied von der Erde ist ein Lehrbuch für Geologie.",
+            "Mahler stellte militärische Trompetenfanfaren und derbe Straßenvolkstänze erhabener metaphysischer Chortranszendenz innerhalb eines einzigen sinfonischen Satzes gegenüber.",
+            "Mahler dirigierte ausschließlich in Dorfkirchen."
           ],
           "answerIndex": 2,
           "explanation": "Accurate symphonic analysis translation.",
@@ -13747,10 +13751,10 @@
         {
           "prompt": "What popular name was given to Mahler's massive Symphony No. 8 in E-flat major due to the unprecedented number of choral singers and instrumentalists required?",
           "options": [
-            "«Die Unvollendete» (The Symphony as a Universe)",
-            "«Sinfonie der Tausend» (The Symphony as a Universe)",
-            "«Titan» (The Symphony as a Universe)",
-            "«Schicksalssinfonie» (The Symphony as a Universe)"
+            "«Die Unvollendete»",
+            "«Sinfonie der Tausend»",
+            "«Titan»",
+            "«Schicksalssinfonie»"
           ],
           "answerIndex": 1,
           "explanation": "«Sinfonie der Tausend».",
@@ -13869,10 +13873,10 @@
         {
           "prompt": "Which German director created the 1927 dystopian masterpiece \"Metropolis\" and the 1931 psychological sound thriller \"M\"?",
           "options": [
-            "F.W. Murnau (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Robert Wiene (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Werner Herzog (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Fritz Lang (Weimar Expressionism  The Modern SciFi Metropolis)"
+            "F.W. Murnau",
+            "Robert Wiene",
+            "Werner Herzog",
+            "Fritz Lang"
           ],
           "answerIndex": 3,
           "explanation": "Fritz Lang."
@@ -13884,10 +13888,10 @@
         {
           "prompt": "What famous ethical axiom serves as the recurring philosophical theme in Fritz Lang's *Metropolis*?",
           "options": [
-            "«Geld regiert die Welt» (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "«Mittler zwischen Hirn und Händen muss das Herz sein» (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "«Wissen ist Macht» (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "«Ordnung muss sein» (Weimar Expressionism  The Modern SciFi Metropolis)"
+            "«Geld regiert die Welt»",
+            "«Mittler zwischen Hirn und Händen muss das Herz sein»",
+            "«Wissen ist Macht»",
+            "«Ordnung muss sein»"
           ],
           "answerIndex": 1,
           "explanation": "«Mittler zwischen Hirn und Händen muss das Herz sein»."
@@ -13899,10 +13903,10 @@
         {
           "prompt": "Translate: \"Metropolis integrated monumental expressionist architecture, mirrored optical illusions, and industrial automaton design to warn against mechanized class dehumanization.\"",
           "options": [
-            "Metropolis integrierte monumentale expressionistische Architektur, spiegeloptische Spezialeffekte und industrielles Robotikdesign, um vor der mechanisierten Entmenschlichung der Klassen zu warnen. (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Fritz Lang drehte ausschließlich Stummfilme über Landwirtschaft. (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Metropolis war ein Farbfilm mit digitalem 3D. (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Peter Lorre war ein berühmter deutscher Zirkusclown. (Weimar Expressionism  The Modern SciFi Metropolis)"
+            "Metropolis integrierte monumentale expressionistische Architektur, spiegeloptische Spezialeffekte und industrielles Robotikdesign, um vor der mechanisierten Entmenschlichung der Klassen zu warnen.",
+            "Fritz Lang drehte ausschließlich Stummfilme über Landwirtschaft.",
+            "Metropolis war ein Farbfilm mit digitalem 3D.",
+            "Peter Lorre war ein berühmter deutscher Zirkusclown."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Weimar cinema translation.",
@@ -13911,10 +13915,10 @@
         {
           "prompt": "What classical music melody does the killer whistle obsessively in Fritz Lang's pioneering sound masterpiece *M* (1931)?",
           "options": [
-            "Bachs Toccata (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Beethovens Fünfte Sinfonie (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "Mozarts Kleine Nachtmusik (Weimar Expressionism  The Modern SciFi Metropolis)",
-            "«In der Halle des Bergkönigs» von Edvard Grieg (Weimar Expressionism  The Modern SciFi Metropolis)"
+            "Bachs Toccata",
+            "Beethovens Fünfte Sinfonie",
+            "Mozarts Kleine Nachtmusik",
+            "«In der Halle des Bergkönigs» von Edvard Grieg"
           ],
           "answerIndex": 3,
           "explanation": "«In der Halle des Bergkönigs».",
@@ -13951,10 +13955,10 @@
         {
           "prompt": "Which visionary German director hauled a real 320-ton steamship over a mountain in the Amazon jungle for his 1982 masterpiece \"Fitzcarraldo\"?",
           "options": [
-            "Werner Herzog (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Wim Wenders (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Volker Schlöndorff (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Rainer Werner Fassbinder (Ecstatic Truth  The Extreme Edge of Civilization)"
+            "Werner Herzog",
+            "Wim Wenders",
+            "Volker Schlöndorff",
+            "Rainer Werner Fassbinder"
           ],
           "answerIndex": 0,
           "explanation": "Werner Herzog."
@@ -13966,10 +13970,10 @@
         {
           "prompt": "Which intense actor starred in five of Herzog's greatest films, including *Aguirre, the Wrath of God*, *Nosferatu*, and *Fitzcarraldo*?",
           "options": [
-            "Klaus Kinski (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Bruno S. (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Mario Adorf (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Udo Kier (Ecstatic Truth  The Extreme Edge of Civilization)"
+            "Klaus Kinski",
+            "Bruno S.",
+            "Mario Adorf",
+            "Udo Kier"
           ],
           "answerIndex": 0,
           "explanation": "Klaus Kinski."
@@ -13981,10 +13985,10 @@
         {
           "prompt": "Translate: \"Herzog distinguished ecstatic truth from mere factual reality, asserting that cinema must reach a profound poetic illumination beyond dry documentation.\"",
           "options": [
-            "Werner Herzog nutzt ausschließlich Greenscreen-Computeranimationen. (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Aguirre wurde in einem Berliner Studio gedreht. (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Fitzcarraldo ist ein Film über Eiskunstlauf. (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Herzog unterschied die ekstatische Wahrheit von bloßer Faktenrealität und betonte, dass das Kino eine tiefgründige poetische Erleuchtung jenseits trockener Dokumentation erreichen muss. (Ecstatic Truth  The Extreme Edge of Civilization)"
+            "Werner Herzog nutzt ausschließlich Greenscreen-Computeranimationen.",
+            "Aguirre wurde in einem Berliner Studio gedreht.",
+            "Fitzcarraldo ist ein Film über Eiskunstlauf.",
+            "Herzog unterschied die ekstatische Wahrheit von bloßer Faktenrealität und betonte, dass das Kino eine tiefgründige poetische Erleuchtung jenseits trockener Dokumentation erreichen muss."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Herzog philosophical analysis translation.",
@@ -13993,10 +13997,10 @@
         {
           "prompt": "What German electronic ambient band composed the ethereal, mystical soundtrack for Herzog's *Aguirre* and *Nosferatu*?",
           "options": [
-            "Kraftwerk (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Tangerine Dream (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Popol Vuh (Ecstatic Truth  The Extreme Edge of Civilization)",
-            "Can (Ecstatic Truth  The Extreme Edge of Civilization)"
+            "Kraftwerk",
+            "Tangerine Dream",
+            "Popol Vuh",
+            "Can"
           ],
           "answerIndex": 2,
           "explanation": "Popol Vuh (Florian Fricke).",
@@ -14033,10 +14037,10 @@
         {
           "prompt": "Which prolific German director created \"Angst essen Seele auf\" (1974) and \"Die Ehe der Maria Braun\" (1979), critiquing post-war German society?",
           "options": [
-            "Rainer Werner Fassbinder (Furious Provocation  The BRD Trilogy)",
-            "Wim Wenders (Furious Provocation  The BRD Trilogy)",
-            "Werner Herzog (Furious Provocation  The BRD Trilogy)",
-            "Volker Schlöndorff (Furious Provocation  The BRD Trilogy)"
+            "Rainer Werner Fassbinder",
+            "Wim Wenders",
+            "Werner Herzog",
+            "Volker Schlöndorff"
           ],
           "answerIndex": 0,
           "explanation": "Rainer Werner Fassbinder."
@@ -14048,10 +14052,10 @@
         {
           "prompt": "Which iconic German actress was Fassbinder's primary muse and star of *The Marriage of Maria Braun* and *Lili Marleen*?",
           "options": [
-            "Hanna Schygulla (Furious Provocation  The BRD Trilogy)",
-            "Marlene Dietrich (Furious Provocation  The BRD Trilogy)",
-            "Barbara Sukowa (Furious Provocation  The BRD Trilogy)",
-            "Romy Schneider (Furious Provocation  The BRD Trilogy)"
+            "Hanna Schygulla",
+            "Marlene Dietrich",
+            "Barbara Sukowa",
+            "Romy Schneider"
           ],
           "answerIndex": 0,
           "explanation": "Hanna Schygulla."
@@ -14063,10 +14067,10 @@
         {
           "prompt": "Translate: \"Fassbinder appropriated the emotional structures of American melodrama to critique the alienation, racism, and materialism underpinning West Germany's post-war recovery.\"",
           "options": [
-            "Fassbinder drehte nur Tierdokumentationen. (Furious Provocation  The BRD Trilogy)",
-            "Angst essen Seele auf spielt im antiken Rom. (Furious Provocation  The BRD Trilogy)",
-            "Fassbinder eignete sich die emotionalen Strukturen des amerikanischen Melodrams an, um die Entfremdung, den Rassismus und den Materialismus des westdeutschen Wiederaufbaus zu kritisieren. (Furious Provocation  The BRD Trilogy)",
-            "Hanna Schygulla war eine Opernsängerin im 19. Jahrhundert. (Furious Provocation  The BRD Trilogy)"
+            "Fassbinder drehte nur Tierdokumentationen.",
+            "Angst essen Seele auf spielt im antiken Rom.",
+            "Fassbinder eignete sich die emotionalen Strukturen des amerikanischen Melodrams an, um die Entfremdung, den Rassismus und den Materialismus des westdeutschen Wiederaufbaus zu kritisieren.",
+            "Hanna Schygulla war eine Opernsängerin im 19. Jahrhundert."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Fassbinder cinema translation.",
@@ -14075,10 +14079,10 @@
         {
           "prompt": "What 15-hour monumental television adaptation of Alfred Döblin's Weimar novel was directed by Fassbinder in 1980?",
           "options": [
-            "«Heimat» (Furious Provocation  The BRD Trilogy)",
-            "«Berlin Alexanderplatz» (Furious Provocation  The BRD Trilogy)",
-            "«Babylon Berlin» (Furious Provocation  The BRD Trilogy)",
-            "«Das Boot» (Furious Provocation  The BRD Trilogy)"
+            "«Heimat»",
+            "«Berlin Alexanderplatz»",
+            "«Babylon Berlin»",
+            "«Das Boot»"
           ],
           "answerIndex": 1,
           "explanation": "«Berlin Alexanderplatz».",
@@ -14115,10 +14119,10 @@
         {
           "prompt": "Which German director won the Palme d'Or for \"Paris, Texas\" (1984) and Best Director at Cannes for \"Der Himmel über Berlin\" (Wings of Desire)?",
           "options": [
-            "Florian Henckel von Donnersmarck (The Road Movie  Guardian Angels of Berlin)",
-            "Rainer Werner Fassbinder (The Road Movie  Guardian Angels of Berlin)",
-            "Wim Wenders (The Road Movie  Guardian Angels of Berlin)",
-            "Werner Herzog (The Road Movie  Guardian Angels of Berlin)"
+            "Florian Henckel von Donnersmarck",
+            "Rainer Werner Fassbinder",
+            "Wim Wenders",
+            "Werner Herzog"
           ],
           "answerIndex": 2,
           "explanation": "Wim Wenders."
@@ -14130,10 +14134,10 @@
         {
           "prompt": "Which Swiss actor portrayed the compassionate angel Damiel who renounces immortality for human love in Wim Wenders' *Der Himmel über Berlin*?",
           "options": [
-            "Peter Falk (The Road Movie  Guardian Angels of Berlin)",
-            "Bruno Ganz (The Road Movie  Guardian Angels of Berlin)",
-            "Armin Mueller-Stahl (The Road Movie  Guardian Angels of Berlin)",
-            "Otto Sander (The Road Movie  Guardian Angels of Berlin)"
+            "Peter Falk",
+            "Bruno Ganz",
+            "Armin Mueller-Stahl",
+            "Otto Sander"
           ],
           "answerIndex": 1,
           "explanation": "Bruno Ganz."
@@ -14145,10 +14149,10 @@
         {
           "prompt": "Translate: \"Wings of Desire transitions from monochrome black-and-white into vivid color the moment the angel Damiel chooses mortal human vulnerability and physical touch.\"",
           "options": [
-            "Wim Wenders drehte ausschließlich Werbespots. (The Road Movie  Guardian Angels of Berlin)",
-            "Der Himmel über Berlin wechselt von Schwarz-Weiß zu lebendigen Farben in dem Moment, in dem der Engel Damiel sterbliche menschliche Verwundbarkeit und körperliche Berührung wählt. (The Road Movie  Guardian Angels of Berlin)",
-            "Bruno Ganz spielte einen Vampir in Paris, Texas. (The Road Movie  Guardian Angels of Berlin)",
-            "Paris, Texas wurde komplett in den Alpen gedreht. (The Road Movie  Guardian Angels of Berlin)"
+            "Wim Wenders drehte ausschließlich Werbespots.",
+            "Der Himmel über Berlin wechselt von Schwarz-Weiß zu lebendigen Farben in dem Moment, in dem der Engel Damiel sterbliche menschliche Verwundbarkeit und körperliche Berührung wählt.",
+            "Bruno Ganz spielte einen Vampir in Paris, Texas.",
+            "Paris, Texas wurde komplett in den Alpen gedreht."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Wenders cinema translation.",
@@ -14157,10 +14161,10 @@
         {
           "prompt": "Which American musician and guitarist composed the legendary acoustic slide guitar soundtrack for Wim Wenders' *Paris, Texas*?",
           "options": [
-            "Ry Cooder (The Road Movie  Guardian Angels of Berlin)",
-            "Jimi Hendrix (The Road Movie  Guardian Angels of Berlin)",
-            "Bob Dylan (The Road Movie  Guardian Angels of Berlin)",
-            "Eric Clapton (The Road Movie  Guardian Angels of Berlin)"
+            "Ry Cooder",
+            "Jimi Hendrix",
+            "Bob Dylan",
+            "Eric Clapton"
           ],
           "answerIndex": 0,
           "explanation": "Ry Cooder.",
@@ -14279,10 +14283,10 @@
         {
           "prompt": "Which German dramatist and theorist founded Epic Theatre and developed the Alienation Effect (V-Effekt) with the Berliner Ensemble?",
           "options": [
-            "Heiner Müller (Epic Theatre  The Alienation Effect)",
-            "Friedrich Dürrenmatt (Epic Theatre  The Alienation Effect)",
-            "Gerhart Hauptmann (Epic Theatre  The Alienation Effect)",
-            "Bertolt Brecht (Epic Theatre  The Alienation Effect)"
+            "Heiner Müller",
+            "Friedrich Dürrenmatt",
+            "Gerhart Hauptmann",
+            "Bertolt Brecht"
           ],
           "answerIndex": 3,
           "explanation": "Bertolt Brecht."
@@ -14294,10 +14298,10 @@
         {
           "prompt": "What German theoretical term designates Brecht's technique of making everyday situations strange to stimulate critical political reflection in the audience?",
           "options": [
-            "Die Katharsis (Epic Theatre  The Alienation Effect)",
-            "Der Verfremdungseffekt (Epic Theatre  The Alienation Effect)",
-            "Das Gesamtkunstwerk (Epic Theatre  The Alienation Effect)",
-            "Der Sturm und Drang (Epic Theatre  The Alienation Effect)"
+            "Die Katharsis",
+            "Der Verfremdungseffekt",
+            "Das Gesamtkunstwerk",
+            "Der Sturm und Drang"
           ],
           "answerIndex": 1,
           "explanation": "Der Verfremdungseffekt (V-Effekt)."
@@ -14309,10 +14313,10 @@
         {
           "prompt": "Translate: \"Brecht's Alienation Effect strips the stage of emotional illusion, compelling spectators to analyze the economic and political contradictions driving the characters' actions.\"",
           "options": [
-            "Das Berliner Ensemble wurde 1800 von Goethe gegründet. (Epic Theatre  The Alienation Effect)",
-            "Mutter Courage ist eine heitere Liebeskomödie in Wien. (Epic Theatre  The Alienation Effect)",
-            "Bertolt Brecht verbot das Singen auf der Bühne. (Epic Theatre  The Alienation Effect)",
-            "Brechts Verfremdungseffekt beraubt die Bühne der emotionalen Illusion und zwingt die Zuschauer, die ökonomischen und politischen Widersprüche zu analysieren, die das Handeln der Figuren antreiben. (Epic Theatre  The Alienation Effect)"
+            "Das Berliner Ensemble wurde 1800 von Goethe gegründet.",
+            "Mutter Courage ist eine heitere Liebeskomödie in Wien.",
+            "Bertolt Brecht verbot das Singen auf der Bühne.",
+            "Brechts Verfremdungseffekt beraubt die Bühne der emotionalen Illusion und zwingt die Zuschauer, die ökonomischen und politischen Widersprüche zu analysieren, die das Handeln der Figuren antreiben."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Brechtian dramaturgy translation.",
@@ -14321,10 +14325,10 @@
         {
           "prompt": "Which famous German-American composer wrote the groundbreaking jazz-inflected music for Brecht's *Die Dreigroschenoper* (1928)?",
           "options": [
-            "Hanns Eisler (Epic Theatre  The Alienation Effect)",
-            "Paul Hindemith (Epic Theatre  The Alienation Effect)",
-            "Kurt Weill (Epic Theatre  The Alienation Effect)",
-            "Carl Orff (Epic Theatre  The Alienation Effect)"
+            "Hanns Eisler",
+            "Paul Hindemith",
+            "Kurt Weill",
+            "Carl Orff"
           ],
           "answerIndex": 2,
           "explanation": "Kurt Weill.",
@@ -14361,10 +14365,10 @@
         {
           "prompt": "Which major post-war German playwright authored the postmodern theatrical landmark \"Die Hamletmaschine\" (1977)?",
           "options": [
-            "Heiner Müller (PostDramaturgy  PostModern Fragmentation)",
-            "Peter Handke (PostDramaturgy  PostModern Fragmentation)",
-            "Botho Strauß (PostDramaturgy  PostModern Fragmentation)",
-            "Bertolt Brecht (PostDramaturgy  PostModern Fragmentation)"
+            "Heiner Müller",
+            "Peter Handke",
+            "Botho Strauß",
+            "Bertolt Brecht"
           ],
           "answerIndex": 0,
           "explanation": "Heiner Müller."
@@ -14376,10 +14380,10 @@
         {
           "prompt": "What famous opening line begins Heiner Müller's *Die Hamletmaschine*, capturing the disillusionment of the modern European intellectual?",
           "options": [
-            "«Ich war Hamlet. Ich stand an der Küste und redete mit der Brandung BLABLA...» (PostDramaturgy  PostModern Fragmentation)",
-            "«Sein oder Nichtsein» (PostDramaturgy  PostModern Fragmentation)",
-            "«Guten Tag, Herr Hamlet» (PostDramaturgy  PostModern Fragmentation)",
-            "«Die Welt ist aus den Fugen» (PostDramaturgy  PostModern Fragmentation)"
+            "«Ich war Hamlet. Ich stand an der Küste und redete mit der Brandung BLABLA...»",
+            "«Sein oder Nichtsein»",
+            "«Guten Tag, Herr Hamlet»",
+            "«Die Welt ist aus den Fugen»"
           ],
           "answerIndex": 0,
           "explanation": "«Ich war Hamlet. Ich stand an der Küste...»"
@@ -14391,10 +14395,10 @@
         {
           "prompt": "Translate: \"Müller's postdramatic collage dismantles classical dramatic narrative, transforming theatrical language into a fragmentary landscape of historical memory and catastrophe.\"",
           "options": [
-            "Die Hamletmaschine ist ein technisches Handbuch für Uhrmacher. (PostDramaturgy  PostModern Fragmentation)",
-            "Heiner Müller schrieb ausschließlich heitere Operetten. (PostDramaturgy  PostModern Fragmentation)",
-            "Müllers postdramatische Collage demontiert das klassische Handlungsdrama und verwandelt die Theatersprache in eine fragmentarische Landschaft historischer Erinnerung und Katastrophe. (PostDramaturgy  PostModern Fragmentation)",
-            "Ophelia stirbt am Anfang des Stücks an Altersschwäche. (PostDramaturgy  PostModern Fragmentation)"
+            "Die Hamletmaschine ist ein technisches Handbuch für Uhrmacher.",
+            "Heiner Müller schrieb ausschließlich heitere Operetten.",
+            "Müllers postdramatische Collage demontiert das klassische Handlungsdrama und verwandelt die Theatersprache in eine fragmentarische Landschaft historischer Erinnerung und Katastrophe.",
+            "Ophelia stirbt am Anfang des Stücks an Altersschwäche."
           ],
           "answerIndex": 2,
           "explanation": "Accurate postdramatic theater translation.",
@@ -14403,10 +14407,10 @@
         {
           "prompt": "Which German theatre theorist coined the influential term \"Postdramatic Theatre\" in 1999, heavily referencing Heiner Müller's texts?",
           "options": [
-            "Walter Benjamin (PostDramaturgy  PostModern Fragmentation)",
-            "Hans-Thies Lehmann (PostDramaturgy  PostModern Fragmentation)",
-            "Jürgen Habermas (PostDramaturgy  PostModern Fragmentation)",
-            "Theodor W. Adorno (PostDramaturgy  PostModern Fragmentation)"
+            "Walter Benjamin",
+            "Hans-Thies Lehmann",
+            "Jürgen Habermas",
+            "Theodor W. Adorno"
           ],
           "answerIndex": 1,
           "explanation": "Hans-Thies Lehmann.",
@@ -14443,10 +14447,10 @@
         {
           "prompt": "Which Swiss dramatist wrote the biting grotesque tragicomedy \"Der Besuch der alten Dame\" (1956) and \"Die Physiker\" (1962)?",
           "options": [
-            "Friedrich Dürrenmatt (Grotesque Justice  Moral Corruption)",
-            "Max Frisch (Grotesque Justice  Moral Corruption)",
-            "Bertolt Brecht (Grotesque Justice  Moral Corruption)",
-            "Peter Weiss (Grotesque Justice  Moral Corruption)"
+            "Friedrich Dürrenmatt",
+            "Max Frisch",
+            "Bertolt Brecht",
+            "Peter Weiss"
           ],
           "answerIndex": 0,
           "explanation": "Friedrich Dürrenmatt."
@@ -14458,10 +14462,10 @@
         {
           "prompt": "What grotesque visual symbol, bought on credit by the citizens of Güllen, signals their gradual moral surrender to Claire Zachanassian's murder contract?",
           "options": [
-            "Gelbe Schuhe (Grotesque Justice  Moral Corruption)",
-            "Goldene Ringe (Grotesque Justice  Moral Corruption)",
-            "Schwarze Hüte (Grotesque Justice  Moral Corruption)",
-            "Rote Mäntel (Grotesque Justice  Moral Corruption)"
+            "Gelbe Schuhe",
+            "Goldene Ringe",
+            "Schwarze Hüte",
+            "Rote Mäntel"
           ],
           "answerIndex": 0,
           "explanation": "Gelbe Schuhe (Yellow shoes)."
@@ -14473,10 +14477,10 @@
         {
           "prompt": "Translate: \"The Visit demonstrates how economic desperation and collective consumer greed gradually disguise cold-blooded murder under the sanctimonious cloak of civic justice.\"",
           "options": [
-            "Der Besuch der alten Dame spielt im alten Ägypten. (Grotesque Justice  Moral Corruption)",
-            "Der Besuch der alten Dame zeigt, wie wirtschaftliche Verzweiflung und kollektive Konsumgier den kaltblütigen Mord schrittweise unter dem scheinheiligen Deckmantel bürgerlicher Gerechtigkeit tarnen. (Grotesque Justice  Moral Corruption)",
-            "Dürrenmatt war ein professioneller Eishockeyspieler. (Grotesque Justice  Moral Corruption)",
-            "Alfred Ill war ein berühmter Zauberer in Paris. (Grotesque Justice  Moral Corruption)"
+            "Der Besuch der alten Dame spielt im alten Ägypten.",
+            "Der Besuch der alten Dame zeigt, wie wirtschaftliche Verzweiflung und kollektive Konsumgier den kaltblütigen Mord schrittweise unter dem scheinheiligen Deckmantel bürgerlicher Gerechtigkeit tarnen.",
+            "Dürrenmatt war ein professioneller Eishockeyspieler.",
+            "Alfred Ill war ein berühmter Zauberer in Paris."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Dürrenmatt analysis translation.",
@@ -14485,10 +14489,10 @@
         {
           "prompt": "What fictional, impoverished Swiss town serves as the setting for Friedrich Dürrenmatt's *Der Besuch der alten Dame*?",
           "options": [
-            "Güllen (Grotesque Justice  Moral Corruption)",
-            "Klosters (Grotesque Justice  Moral Corruption)",
-            "Appenzell (Grotesque Justice  Moral Corruption)",
-            "Seldwyla (Grotesque Justice  Moral Corruption)"
+            "Güllen",
+            "Klosters",
+            "Appenzell",
+            "Seldwyla"
           ],
           "answerIndex": 0,
           "explanation": "Güllen.",
@@ -14525,10 +14529,10 @@
         {
           "prompt": "Which Austrian author won the Nobel Prize in Literature in 2019 and pioneered the avant-garde \"Sprechstück\" with \"Publikumsbeschimpfung\" in 1966?",
           "options": [
-            "Arthur Schnitzler (Offending the Audience  The Austrian Misanthrope)",
-            "Elfriede Jelinek (Offending the Audience  The Austrian Misanthrope)",
-            "Peter Handke (Offending the Audience  The Austrian Misanthrope)",
-            "Thomas Bernhard (Offending the Audience  The Austrian Misanthrope)"
+            "Arthur Schnitzler",
+            "Elfriede Jelinek",
+            "Peter Handke",
+            "Thomas Bernhard"
           ],
           "answerIndex": 2,
           "explanation": "Peter Handke."
@@ -14540,10 +14544,10 @@
         {
           "prompt": "Which legendary 1988 play by Thomas Bernhard, staged by Claus Peymann at the Vienna Burgtheater, provoked massive political outrage in Austria?",
           "options": [
-            "«Alte Meister» (Offending the Audience  The Austrian Misanthrope)",
-            "«Heldenplatz» (Offending the Audience  The Austrian Misanthrope)",
-            "«Vor dem Ruhestand» (Offending the Audience  The Austrian Misanthrope)",
-            "«Der Theatermacher» (Offending the Audience  The Austrian Misanthrope)"
+            "«Alte Meister»",
+            "«Heldenplatz»",
+            "«Vor dem Ruhestand»",
+            "«Der Theatermacher»"
           ],
           "answerIndex": 1,
           "explanation": "«Heldenplatz»."
@@ -14555,10 +14559,10 @@
         {
           "prompt": "Translate: \"Heldenplatz courageously confronted post-war Austrian society with the enduring echoes of the 1938 Anschluss, unmasking historical denial through relentless monologue cadences.\"",
           "options": [
-            "Heldenplatz konfrontierte die österreichische Nachkriegsgesellschaft mutig mit den anhaltenden Echos des Anschlusses von 1938 und entlarvte die historische Verdrängung durch unerbittliche Monologkadenzen. (Offending the Audience  The Austrian Misanthrope)",
-            "Thomas Bernhard war ein glühender Verehrer der Wiener Kommunalpolitik. (Offending the Audience  The Austrian Misanthrope)",
-            "Heldenplatz spielt auf dem Mond. (Offending the Audience  The Austrian Misanthrope)",
-            "Publikumsbeschimpfung ist eine Kinderoper über Tiere. (Offending the Audience  The Austrian Misanthrope)"
+            "Heldenplatz konfrontierte die österreichische Nachkriegsgesellschaft mutig mit den anhaltenden Echos des Anschlusses von 1938 und entlarvte die historische Verdrängung durch unerbittliche Monologkadenzen.",
+            "Thomas Bernhard war ein glühender Verehrer der Wiener Kommunalpolitik.",
+            "Heldenplatz spielt auf dem Mond.",
+            "Publikumsbeschimpfung ist eine Kinderoper über Tiere."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Austrian drama analysis translation.",
@@ -14567,10 +14571,10 @@
         {
           "prompt": "What legendary theatre director staged both Handke's *Publikumsbeschimpfung* (1966) and Bernhard's *Heldenplatz* (1988)?",
           "options": [
-            "Frank Castorf (Offending the Audience  The Austrian Misanthrope)",
-            "Peter Stein (Offending the Audience  The Austrian Misanthrope)",
-            "Christoph Schlingensief (Offending the Audience  The Austrian Misanthrope)",
-            "Claus Peymann (Offending the Audience  The Austrian Misanthrope)"
+            "Frank Castorf",
+            "Peter Stein",
+            "Christoph Schlingensief",
+            "Claus Peymann"
           ],
           "answerIndex": 3,
           "explanation": "Claus Peymann.",
@@ -14689,10 +14693,10 @@
         {
           "prompt": "Which German composer revolutionized Western music with the concept of \"Gesamtkunstwerk\" and composed the 4-opera cycle \"Der Ring des Nibelungen\"?",
           "options": [
-            "Richard Strauss (The Total Work of Art  The Mythic Ring)",
-            "Johannes Brahms (The Total Work of Art  The Mythic Ring)",
-            "Gustav Mahler (The Total Work of Art  The Mythic Ring)",
-            "Richard Wagner (The Total Work of Art  The Mythic Ring)"
+            "Richard Strauss",
+            "Johannes Brahms",
+            "Gustav Mahler",
+            "Richard Wagner"
           ],
           "answerIndex": 3,
           "explanation": "Richard Wagner."
@@ -14704,10 +14708,10 @@
         {
           "prompt": "What unique architectural feature in the Bayreuth Festspielhaus conceals the 120-piece orchestra beneath a curved acoustic hood to create perfect vocal balance?",
           "options": [
-            "Der mystische Abgrund (The Total Work of Art  The Mythic Ring)",
-            "Die Königsloge (The Total Work of Art  The Mythic Ring)",
-            "Der Schnürboden (The Total Work of Art  The Mythic Ring)",
-            "Die Drehbühne (The Total Work of Art  The Mythic Ring)"
+            "Der mystische Abgrund",
+            "Die Königsloge",
+            "Der Schnürboden",
+            "Die Drehbühne"
           ],
           "answerIndex": 0,
           "explanation": "Der mystische Abgrund (The Mystic Chasm)."
@@ -14719,10 +14723,10 @@
         {
           "prompt": "Translate: \"Wagner's leitmotif system assigns specific melodic themes to characters and philosophical ideas, weaving a continuous symphonic subtext beneath the dramatic dialogue.\"",
           "options": [
-            "Richard Wagner komponierte nur für Soloflöte. (The Total Work of Art  The Mythic Ring)",
-            "Der Ring des Nibelungen ist eine heitere Walzeroperette. (The Total Work of Art  The Mythic Ring)",
-            "Wagners Leitmotivsystem ordnet Figuren und philosophischen Ideen spezifische melodische Themen zu und webt einen kontinuierlichen symphonischen Subtext unter den dramatischen Dialog. (The Total Work of Art  The Mythic Ring)",
-            "Das Festspielhaus Bayreuth wurde 1999 in Hamburg erbaut. (The Total Work of Art  The Mythic Ring)"
+            "Richard Wagner komponierte nur für Soloflöte.",
+            "Der Ring des Nibelungen ist eine heitere Walzeroperette.",
+            "Wagners Leitmotivsystem ordnet Figuren und philosophischen Ideen spezifische melodische Themen zu und webt einen kontinuierlichen symphonischen Subtext unter den dramatischen Dialog.",
+            "Das Festspielhaus Bayreuth wurde 1999 in Hamburg erbaut."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Wagnerian musicological translation.",
@@ -14731,10 +14735,10 @@
         {
           "prompt": "What is the second and most famous opera in Wagner's *Ring* cycle, featuring the \"Ride of the Valkyries\" and the warrior maiden Brünnhilde?",
           "options": [
-            "«Das Rheingold» (The Total Work of Art  The Mythic Ring)",
-            "«Die Walküre» (The Total Work of Art  The Mythic Ring)",
-            "«Siegfried» (The Total Work of Art  The Mythic Ring)",
-            "«Götterdämmerung» (The Total Work of Art  The Mythic Ring)"
+            "«Das Rheingold»",
+            "«Die Walküre»",
+            "«Siegfried»",
+            "«Götterdämmerung»"
           ],
           "answerIndex": 1,
           "explanation": "«Die Walküre».",
@@ -14771,10 +14775,10 @@
         {
           "prompt": "Which German composer created the expressionist masterpiece \"Elektra\" and the beloved Viennese opera \"Der Rosenkavalier\" with Hugo von Hofmannsthal?",
           "options": [
-            "Richard Strauss (Expressionist Terror  Viennese Nostalgia)",
-            "Carl Maria von Weber (Expressionist Terror  Viennese Nostalgia)",
-            "Alban Berg (Expressionist Terror  Viennese Nostalgia)",
-            "Richard Wagner (Expressionist Terror  Viennese Nostalgia)"
+            "Richard Strauss",
+            "Carl Maria von Weber",
+            "Alban Berg",
+            "Richard Wagner"
           ],
           "answerIndex": 0,
           "explanation": "Richard Strauss."
@@ -14786,10 +14790,10 @@
         {
           "prompt": "What silver floral token of courtship gives its name to Richard Strauss and Hofmannsthal's 1911 opera *Der Rosenkavalier*?",
           "options": [
-            "Die silberne Rose (Expressionist Terror  Viennese Nostalgia)",
-            "Die goldene Tulpe (Expressionist Terror  Viennese Nostalgia)",
-            "Die weiße Lilie (Expressionist Terror  Viennese Nostalgia)",
-            "Das blaue Veilchen (Expressionist Terror  Viennese Nostalgia)"
+            "Die silberne Rose",
+            "Die goldene Tulpe",
+            "Die weiße Lilie",
+            "Das blaue Veilchen"
           ],
           "answerIndex": 0,
           "explanation": "Die silberne Rose (The Silver Rose)."
@@ -14801,10 +14805,10 @@
         {
           "prompt": "Translate: \"The final trio of Der Rosenkavalier weaves three female soprano voices into a breathtaking tapestry of romantic renunciation, fleeting time, and youthful love.\"",
           "options": [
-            "Salome ist eine Dokumentation über Wüstenpflanzen. (Expressionist Terror  Viennese Nostalgia)",
-            "Das Schlussterzett des Rosenkavaliers verwebt drei Sopranstimmen zu einem atemberaubenden Geflecht aus romantischer Entsagung, verfließender Zeit und jugendlicher Liebe. (Expressionist Terror  Viennese Nostalgia)",
-            "Hugo von Hofmannsthal war ein französischer Maler. (Expressionist Terror  Viennese Nostalgia)",
-            "Der Rosenkavalier spielt im antiken Rom. (Expressionist Terror  Viennese Nostalgia)"
+            "Salome ist eine Dokumentation über Wüstenpflanzen.",
+            "Das Schlussterzett des Rosenkavaliers verwebt drei Sopranstimmen zu einem atemberaubenden Geflecht aus romantischer Entsagung, verfließender Zeit und jugendlicher Liebe.",
+            "Hugo von Hofmannsthal war ein französischer Maler.",
+            "Der Rosenkavalier spielt im antiken Rom."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Strauss operatic analysis translation.",
@@ -14813,10 +14817,10 @@
         {
           "prompt": "What 1905 scandalous opera by Richard Strauss, based on Oscar Wilde's play, features the famous \"Dance of the Seven Veils\"?",
           "options": [
-            "«Salome» (Expressionist Terror  Viennese Nostalgia)",
-            "«Arabella» (Expressionist Terror  Viennese Nostalgia)",
-            "«Ariadne auf Naxos» (Expressionist Terror  Viennese Nostalgia)",
-            "«Die Frau ohne Schatten» (Expressionist Terror  Viennese Nostalgia)"
+            "«Salome»",
+            "«Arabella»",
+            "«Ariadne auf Naxos»",
+            "«Die Frau ohne Schatten»"
           ],
           "answerIndex": 0,
           "explanation": "«Salome».",
@@ -14853,10 +14857,10 @@
         {
           "prompt": "Which German singer is celebrated as the \"Tenor of the Century\" for his definitive portrayal of Prince Tamino in Mozart's \"The Magic Flute\"?",
           "options": [
-            "Fritz Wunderlich (The Sovereign Lyric Tenor)",
-            "Peter Schreier (The Sovereign Lyric Tenor)",
-            "Jonas Kaufmann (The Sovereign Lyric Tenor)",
-            "Dietrich Fischer-Dieskau (The Sovereign Lyric Tenor)"
+            "Fritz Wunderlich",
+            "Peter Schreier",
+            "Jonas Kaufmann",
+            "Dietrich Fischer-Dieskau"
           ],
           "answerIndex": 0,
           "explanation": "Fritz Wunderlich."
@@ -14868,10 +14872,10 @@
         {
           "prompt": "What famous portrait aria from Mozart's *Die Zauberflöte* was Fritz Wunderlich's eternal signature operatic benchmark?",
           "options": [
-            "«Dies Bildnis ist bezaubernd schön» (The Sovereign Lyric Tenor)",
-            "«Una furtiva lagrima» (The Sovereign Lyric Tenor)",
-            "«Il mio tesoro» (The Sovereign Lyric Tenor)",
-            "«Che gelida manina» (The Sovereign Lyric Tenor)"
+            "«Dies Bildnis ist bezaubernd schön»",
+            "«Una furtiva lagrima»",
+            "«Il mio tesoro»",
+            "«Che gelida manina»"
           ],
           "answerIndex": 0,
           "explanation": "«Dies Bildnis ist bezaubernd schön»."
@@ -14883,10 +14887,10 @@
         {
           "prompt": "Translate: \"Wunderlich's lyrical timbre unified immaculate German consonant articulation with a seamless Italianate legato, creating an unrepeatable vocal perfection in the Mozartian repertoire.\"",
           "options": [
-            "Wunderlichs lyrisches Timbre vereinte makellose deutsche Konsonantenartikulation mit einem nahtlosen italienischen Legato und schuf eine unwiederholbare vokale Perfektion im Mozart-Repertoire. (The Sovereign Lyric Tenor)",
-            "Dichterliebe ist eine Rockoper aus den 1990er Jahren. (The Sovereign Lyric Tenor)",
-            "Die Zauberflöte wurde von Richard Wagner komponiert. (The Sovereign Lyric Tenor)",
-            "Fritz Wunderlich war ein Stummfilmschauspieler. (The Sovereign Lyric Tenor)"
+            "Wunderlichs lyrisches Timbre vereinte makellose deutsche Konsonantenartikulation mit einem nahtlosen italienischen Legato und schuf eine unwiederholbare vokale Perfektion im Mozart-Repertoire.",
+            "Dichterliebe ist eine Rockoper aus den 1990er Jahren.",
+            "Die Zauberflöte wurde von Richard Wagner komponiert.",
+            "Fritz Wunderlich war ein Stummfilmschauspieler."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Wunderlich vocal analysis translation.",
@@ -14895,10 +14899,10 @@
         {
           "prompt": "Which romantic 19th-century German composer's song cycle *Dichterliebe* (Poet's Love), based on Heine's poems, was recorded immortalized by Wunderlich in 1965?",
           "options": [
-            "Franz Schubert (The Sovereign Lyric Tenor)",
-            "Johannes Brahms (The Sovereign Lyric Tenor)",
-            "Hugo Wolf (The Sovereign Lyric Tenor)",
-            "Robert Schumann (The Sovereign Lyric Tenor)"
+            "Franz Schubert",
+            "Johannes Brahms",
+            "Hugo Wolf",
+            "Robert Schumann"
           ],
           "answerIndex": 3,
           "explanation": "Robert Schumann.",
@@ -14935,10 +14939,10 @@
         {
           "prompt": "Which legendary Berlin baritone is revered as the greatest Lieder singer in history, recording Schubert's \"Winterreise\" and premiering Britten's \"War Requiem\"?",
           "options": [
-            "Matthias Goerne (The Master of Vocal Architecture  The Lieder Titan)",
-            "Hermann Prey (The Master of Vocal Architecture  The Lieder Titan)",
-            "Dietrich Fischer-Dieskau (The Master of Vocal Architecture  The Lieder Titan)",
-            "Thomas Quasthoff (The Master of Vocal Architecture  The Lieder Titan)"
+            "Matthias Goerne",
+            "Hermann Prey",
+            "Dietrich Fischer-Dieskau",
+            "Thomas Quasthoff"
           ],
           "answerIndex": 2,
           "explanation": "Dietrich Fischer-Dieskau."
@@ -14950,10 +14954,10 @@
         {
           "prompt": "Which English accompanist partnered with Fischer-Dieskau on his historic, award-winning recordings of Schubert, Schumann, and Wolf Lieder?",
           "options": [
-            "Alfred Brendel (The Master of Vocal Architecture  The Lieder Titan)",
-            "Gerald Moore (The Master of Vocal Architecture  The Lieder Titan)",
-            "Daniel Barenboim (The Master of Vocal Architecture  The Lieder Titan)",
-            "Hubert Giesen (The Master of Vocal Architecture  The Lieder Titan)"
+            "Alfred Brendel",
+            "Gerald Moore",
+            "Daniel Barenboim",
+            "Hubert Giesen"
           ],
           "answerIndex": 1,
           "explanation": "Gerald Moore."
@@ -14965,10 +14969,10 @@
         {
           "prompt": "Translate: \"Fischer-Dieskau's intellectual phrasing and encyclopedic recording of the complete Schubert Lieder canon transformed vocal interpretation into a profound study of human psychology.\"",
           "options": [
-            "Die Winterreise ist eine lustige Sommerkomödie. (The Master of Vocal Architecture  The Lieder Titan)",
-            "Fischer-Dieskau war ein Zirkusakrobat. (The Master of Vocal Architecture  The Lieder Titan)",
-            "Das War Requiem wurde 1750 in Wien uraufgeführt. (The Master of Vocal Architecture  The Lieder Titan)",
-            "Fischer-Dieskaus intellektuelle Phrasierung und seine enzyklopädische Gesamtaufnahme des Schubert-Liedkanons machten die Gesangsinterpretation zu einer tiefgründigen Studie der menschlichen Psychologie. (The Master of Vocal Architecture  The Lieder Titan)"
+            "Die Winterreise ist eine lustige Sommerkomödie.",
+            "Fischer-Dieskau war ein Zirkusakrobat.",
+            "Das War Requiem wurde 1750 in Wien uraufgeführt.",
+            "Fischer-Dieskaus intellektuelle Phrasierung und seine enzyklopädische Gesamtaufnahme des Schubert-Liedkanons machten die Gesangsinterpretation zu einer tiefgründigen Studie der menschlichen Psychologie."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Fischer-Dieskau analysis translation.",
@@ -14977,10 +14981,10 @@
         {
           "prompt": "What tragic 1827 song cycle by Franz Schubert, following a heartbroken wanderer through snow and ice, was Fischer-Dieskau's signature masterwork?",
           "options": [
-            "«Schwanengesang» (The Master of Vocal Architecture  The Lieder Titan)",
-            "«Dichterliebe» (The Master of Vocal Architecture  The Lieder Titan)",
-            "«Winterreise» (The Master of Vocal Architecture  The Lieder Titan)",
-            "«Die schöne Müllerin» (The Master of Vocal Architecture  The Lieder Titan)"
+            "«Schwanengesang»",
+            "«Dichterliebe»",
+            "«Winterreise»",
+            "«Die schöne Müllerin»"
           ],
           "answerIndex": 2,
           "explanation": "«Winterreise».",
@@ -15099,10 +15103,10 @@
         {
           "prompt": "Which master German architect founded the Bauhaus in 1919 and designed the iconic Bauhaus building with its glass curtain wall in Dessau (1925)?",
           "options": [
-            "Ludwig Mies van der Rohe (Form Follows Function  The Modernist Manifesto)",
-            "Peter Behrens (Form Follows Function  The Modernist Manifesto)",
-            "Erich Mendelsohn (Form Follows Function  The Modernist Manifesto)",
-            "Walter Gropius (Form Follows Function  The Modernist Manifesto)"
+            "Ludwig Mies van der Rohe",
+            "Peter Behrens",
+            "Erich Mendelsohn",
+            "Walter Gropius"
           ],
           "answerIndex": 3,
           "explanation": "Walter Gropius."
@@ -15114,10 +15118,10 @@
         {
           "prompt": "What pioneering non-load-bearing structural glass architectural feature was introduced in Gropius's 1926 Bauhaus building in Dessau?",
           "options": [
-            "Die Glasvorhangfassade (Form Follows Function  The Modernist Manifesto)",
-            "Das Fachwerk (Form Follows Function  The Modernist Manifesto)",
-            "Die Rundbogenfenster (Form Follows Function  The Modernist Manifesto)",
-            "Der Zwiebelturm (Form Follows Function  The Modernist Manifesto)"
+            "Die Glasvorhangfassade",
+            "Das Fachwerk",
+            "Die Rundbogenfenster",
+            "Der Zwiebelturm"
           ],
           "answerIndex": 0,
           "explanation": "Die Glasvorhangfassade."
@@ -15129,10 +15133,10 @@
         {
           "prompt": "Translate: \"The Bauhaus abolished decorative historical ornamentation, establishing a rationalist design methodology where structural form directly emerges from material function.\"",
           "options": [
-            "Das Bauhaus war eine mittelalterliche Burg in Bayern. (Form Follows Function  The Modernist Manifesto)",
-            "Das Bauhaus schaffte das dekorative historische Ornament ab und begründete eine rationale Entwurfsmethodik, bei der die bauliche Form direkt aus der materiellen Funktion hervorgeht. (Form Follows Function  The Modernist Manifesto)",
-            "Die Nationalsozialisten förderten das Bauhaus bis 1945. (Form Follows Function  The Modernist Manifesto)",
-            "Walter Gropius baute ausschließlich neugotische Kirchen. (Form Follows Function  The Modernist Manifesto)"
+            "Das Bauhaus war eine mittelalterliche Burg in Bayern.",
+            "Das Bauhaus schaffte das dekorative historische Ornament ab und begründete eine rationale Entwurfsmethodik, bei der die bauliche Form direkt aus der materiellen Funktion hervorgeht.",
+            "Die Nationalsozialisten förderten das Bauhaus bis 1945.",
+            "Walter Gropius baute ausschließlich neugotische Kirchen."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Bauhaus analysis translation.",
@@ -15141,10 +15145,10 @@
         {
           "prompt": "Which famous tubular steel armchair, designed by Marcel Breuer at the Bauhaus in 1925, was inspired by bicycle handlebars and named in honor of painter Wassily Kandinsky?",
           "options": [
-            "Der Wassily-Stuhl (Form Follows Function  The Modernist Manifesto)",
-            "Der Barcelona-Sessel (Form Follows Function  The Modernist Manifesto)",
-            "Der Frankfurter Stuhl (Form Follows Function  The Modernist Manifesto)",
-            "Der Thonet-Stuhl (Form Follows Function  The Modernist Manifesto)"
+            "Der Wassily-Stuhl",
+            "Der Barcelona-Sessel",
+            "Der Frankfurter Stuhl",
+            "Der Thonet-Stuhl"
           ],
           "answerIndex": 0,
           "explanation": "Der Wassily-Stuhl.",
@@ -15181,10 +15185,10 @@
         {
           "prompt": "Which master architect coined \"Less is more\" and designed the 1929 Barcelona Pavilion and Berlin's Neue Nationalgalerie?",
           "options": [
-            "Ludwig Mies van der Rohe (Skin and Bones  Less is More)",
-            "Le Corbusier (Skin and Bones  Less is More)",
-            "Frank Lloyd Wright (Skin and Bones  Less is More)",
-            "Walter Gropius (Skin and Bones  Less is More)"
+            "Ludwig Mies van der Rohe",
+            "Le Corbusier",
+            "Frank Lloyd Wright",
+            "Walter Gropius"
           ],
           "answerIndex": 0,
           "explanation": "Ludwig Mies van der Rohe."
@@ -15196,10 +15200,10 @@
         {
           "prompt": "What precious natural stone creates the glowing golden-amber focal wall inside Mies van der Rohe's 1929 Barcelona Pavilion?",
           "options": [
-            "Onyx doré (Skin and Bones  Less is More)",
-            "Schwarzer Granit (Skin and Bones  Less is More)",
-            "Weißer Gips (Skin and Bones  Less is More)",
-            "Roter Sandstein (Skin and Bones  Less is More)"
+            "Onyx doré",
+            "Schwarzer Granit",
+            "Weißer Gips",
+            "Roter Sandstein"
           ],
           "answerIndex": 0,
           "explanation": "Onyx doré."
@@ -15211,10 +15215,10 @@
         {
           "prompt": "Translate: \"The Neue Nationalgalerie in Berlin synthesizes universal space with classical temple proportions, resting an enormous steel roof upon eight perimeter cruciform columns to create a floating pavilion of glass.\"",
           "options": [
-            "Die Neue Nationalgalerie in Berlin synthetisiert den Universalraum mit klassischen Tempelproportionen und lagert ein enormes Stahldach auf acht peripheren Kreuzstützen, um einen schwebenden Glaspavillon zu schaffen. (Skin and Bones  Less is More)",
-            "Mies van der Rohe baute ausschließlich Blockhütten aus Fichtenholz. (Skin and Bones  Less is More)",
-            "Der Barcelona-Pavillon war ein barockes Jagdschloss. (Skin and Bones  Less is More)",
-            "Die Neue Nationalgalerie wurde 1800 von Schinkel erbaut. (Skin and Bones  Less is More)"
+            "Die Neue Nationalgalerie in Berlin synthetisiert den Universalraum mit klassischen Tempelproportionen und lagert ein enormes Stahldach auf acht peripheren Kreuzstützen, um einen schwebenden Glaspavillon zu schaffen.",
+            "Mies van der Rohe baute ausschließlich Blockhütten aus Fichtenholz.",
+            "Der Barcelona-Pavillon war ein barockes Jagdschloss.",
+            "Die Neue Nationalgalerie wurde 1800 von Schinkel erbaut."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Mies van der Rohe structural analysis translation.",
@@ -15223,10 +15227,10 @@
         {
           "prompt": "What famous minimalist philosophical aphorism was popularized by Mies van der Rohe to describe the supreme beauty of stripped-down functional structure?",
           "options": [
-            "«Form übertrifft Materie» (Skin and Bones  Less is More)",
-            "«Mehr ist mehr» (Skin and Bones  Less is More)",
-            "«Alles ist Kunst» (Skin and Bones  Less is More)",
-            "«Weniger ist mehr» (Skin and Bones  Less is More)"
+            "«Form übertrifft Materie»",
+            "«Mehr ist mehr»",
+            "«Alles ist Kunst»",
+            "«Weniger ist mehr»"
           ],
           "answerIndex": 3,
           "explanation": "«Weniger ist mehr».",
@@ -15263,10 +15267,10 @@
         {
           "prompt": "Which master Prussian neoclassical architect transformed Berlin into \"Athens on the Spree\", designing the Altes Museum and the Konzerthaus?",
           "options": [
-            "Karl Friedrich Schinkel (The Master of Prussian Neoclassicism  Urban Order)",
-            "Leo von Klenze (The Master of Prussian Neoclassicism  Urban Order)",
-            "Gottfried Semper (The Master of Prussian Neoclassicism  Urban Order)",
-            "Balthasar Neumann (The Master of Prussian Neoclassicism  Urban Order)"
+            "Karl Friedrich Schinkel",
+            "Leo von Klenze",
+            "Gottfried Semper",
+            "Balthasar Neumann"
           ],
           "answerIndex": 0,
           "explanation": "Karl Friedrich Schinkel."
@@ -15278,10 +15282,10 @@
         {
           "prompt": "How many monumental fluted Ionic columns form the majestic front portico of Schinkel's Altes Museum on Berlin's Museum Island?",
           "options": [
-            "18 ionische Säulen (The Master of Prussian Neoclassicism  Urban Order)",
-            "6 Säulen (The Master of Prussian Neoclassicism  Urban Order)",
-            "24 Säulen (The Master of Prussian Neoclassicism  Urban Order)",
-            "12 Säulen (The Master of Prussian Neoclassicism  Urban Order)"
+            "18 ionische Säulen",
+            "6 Säulen",
+            "24 Säulen",
+            "12 Säulen"
           ],
           "answerIndex": 0,
           "explanation": "18 ionische Säulen."
@@ -15293,10 +15297,10 @@
         {
           "prompt": "Translate: \"Schinkel's Altes Museum established the modern public museum archetype, housing a pantheon-inspired rotunda within a strict monumental neoclassical colonnade.\"",
           "options": [
-            "Schinkel war ein französischer Bildhauer des Barock. (The Master of Prussian Neoclassicism  Urban Order)",
-            "Das Alte Museum wurde aus Glas und Kunststoff im Jahr 2000 gebaut. (The Master of Prussian Neoclassicism  Urban Order)",
-            "Die Bauakademie war eine mittelalterliche Scheune. (The Master of Prussian Neoclassicism  Urban Order)",
-            "Schinkels Altes Museum begründete den modernen Archetyp des öffentlichen Museums und beherbergt eine vom Pantheon inspirierte Rotunde innerhalb einer strengen monumentalen klassizistischen Kolonnade. (The Master of Prussian Neoclassicism  Urban Order)"
+            "Schinkel war ein französischer Bildhauer des Barock.",
+            "Das Alte Museum wurde aus Glas und Kunststoff im Jahr 2000 gebaut.",
+            "Die Bauakademie war eine mittelalterliche Scheune.",
+            "Schinkels Altes Museum begründete den modernen Archetyp des öffentlichen Museums und beherbergt eine vom Pantheon inspirierte Rotunde innerhalb einer strengen monumentalen klassizistischen Kolonnade."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Schinkel architectural analysis translation.",
@@ -15305,10 +15309,10 @@
         {
           "prompt": "What revolutionary material craftsmanship defined Schinkel's 1836 Bauakademie in Berlin, anticipating 20th-century functionalism with exposed red brick?",
           "options": [
-            "Gegossener Beton (The Master of Prussian Neoclassicism  Urban Order)",
-            "Weißer Marmor (The Master of Prussian Neoclassicism  Urban Order)",
-            "Rotes unverputztes Ziegelmauerwerk (The Master of Prussian Neoclassicism  Urban Order)",
-            "Holzfachwerk (The Master of Prussian Neoclassicism  Urban Order)"
+            "Gegossener Beton",
+            "Weißer Marmor",
+            "Rotes unverputztes Ziegelmauerwerk",
+            "Holzfachwerk"
           ],
           "answerIndex": 2,
           "explanation": "Rotes unverputztes Ziegelmauerwerk.",
@@ -15345,10 +15349,10 @@
         {
           "prompt": "Which master German organic architect designed the revolutionary Berliner Philharmonie in 1963, inventing the \"Vineyard-style\" terraced concert hall?",
           "options": [
-            "Gottfried Böhm (Organic Tectonics  The Philharmonic Tent)",
-            "Frei Otto (Organic Tectonics  The Philharmonic Tent)",
-            "Hans Scharoun (Organic Tectonics  The Philharmonic Tent)",
-            "Egon Eiermann (Organic Tectonics  The Philharmonic Tent)"
+            "Gottfried Böhm",
+            "Frei Otto",
+            "Hans Scharoun",
+            "Egon Eiermann"
           ],
           "answerIndex": 2,
           "explanation": "Hans Scharoun."
@@ -15360,10 +15364,10 @@
         {
           "prompt": "What famous spatial concept, placing the orchestra at the center with audience terraces sloping like vineyard hills, was invented by Hans Scharoun in Berlin?",
           "options": [
-            "Das Schuhkarton-Prinzip (Organic Tectonics  The Philharmonic Tent)",
-            "Das Weinberg-Prinzip (Organic Tectonics  The Philharmonic Tent)",
-            "Das Amphitheater (Organic Tectonics  The Philharmonic Tent)",
-            "Die Guckkastenbühne (Organic Tectonics  The Philharmonic Tent)"
+            "Das Schuhkarton-Prinzip",
+            "Das Weinberg-Prinzip",
+            "Das Amphitheater",
+            "Die Guckkastenbühne"
           ],
           "answerIndex": 1,
           "explanation": "Das Weinberg-Prinzip."
@@ -15375,10 +15379,10 @@
         {
           "prompt": "Translate: \"Scharoun's Vineyard concert hall configuration democratized acoustic listening by surrounding the central orchestra with terraced, intimate audience blocks.\"",
           "options": [
-            "Hans Scharoun verbot das Spielen von Violinen im Konzertsaal. (Organic Tectonics  The Philharmonic Tent)",
-            "Herbert von Karajan dirigierte nur in Kirchen. (Organic Tectonics  The Philharmonic Tent)",
-            "Scharouns Weinberg-Konfiguration demokratisierte das akustische Hörerlebnis, indem sie das zentrale Orchester mit terrassierten, intimen Publikumsblöcken umgab. (Organic Tectonics  The Philharmonic Tent)",
-            "Die Berliner Philharmonie ist ein Schwimmbad am Alexanderplatz. (Organic Tectonics  The Philharmonic Tent)"
+            "Hans Scharoun verbot das Spielen von Violinen im Konzertsaal.",
+            "Herbert von Karajan dirigierte nur in Kirchen.",
+            "Scharouns Weinberg-Konfiguration demokratisierte das akustische Hörerlebnis, indem sie das zentrale Orchester mit terrassierten, intimen Publikumsblöcken umgab.",
+            "Die Berliner Philharmonie ist ein Schwimmbad am Alexanderplatz."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Scharoun acoustic analysis translation.",
@@ -15387,10 +15391,10 @@
         {
           "prompt": "What grand library building on Potsdamer Straße in Berlin, featured in Wim Wenders's film *Wings of Desire*, was designed by Hans Scharoun as a terraced reading landscape?",
           "options": [
-            "Universitätsbibliothek der HU (Organic Tectonics  The Philharmonic Tent)",
-            "Staatsbibliothek zu Berlin (Organic Tectonics  The Philharmonic Tent)",
-            "Grimm-Zentrum (Organic Tectonics  The Philharmonic Tent)",
-            "Amerika-Gedenkbibliothek (Organic Tectonics  The Philharmonic Tent)"
+            "Universitätsbibliothek der HU",
+            "Staatsbibliothek zu Berlin",
+            "Grimm-Zentrum",
+            "Amerika-Gedenkbibliothek"
           ],
           "answerIndex": 1,
           "explanation": "Staatsbibliothek zu Berlin.",
@@ -15509,10 +15513,10 @@
         {
           "prompt": "Which master German philosopher formulated the Categorical Imperative and accomplished the \"Copernican Turn\" in epistemology in 1781?",
           "options": [
-            "G.W.F. Hegel (The Copernican Turn  The Categorical Imperative)",
-            "Arthur Schopenhauer (The Copernican Turn  The Categorical Imperative)",
-            "Gottfried Wilhelm Leibniz (The Copernican Turn  The Categorical Imperative)",
-            "Immanuel Kant (The Copernican Turn  The Categorical Imperative)"
+            "G.W.F. Hegel",
+            "Arthur Schopenhauer",
+            "Gottfried Wilhelm Leibniz",
+            "Immanuel Kant"
           ],
           "answerIndex": 3,
           "explanation": "Immanuel Kant."
@@ -15524,10 +15528,10 @@
         {
           "prompt": "What famous Latin Enlightenment motto, translating to \"Dare to know! Have the courage to use your own understanding\", was proclaimed by Kant in 1784?",
           "options": [
-            "«Sapere aude!» (The Copernican Turn  The Categorical Imperative)",
-            "«Carpe diem!» (The Copernican Turn  The Categorical Imperative)",
-            "«Cogito ergo sum» (The Copernican Turn  The Categorical Imperative)",
-            "«Amor fati» (The Copernican Turn  The Categorical Imperative)"
+            "«Sapere aude!»",
+            "«Carpe diem!»",
+            "«Cogito ergo sum»",
+            "«Amor fati»"
           ],
           "answerIndex": 0,
           "explanation": "«Sapere aude!»."
@@ -15539,10 +15543,10 @@
         {
           "prompt": "Translate: \"Kant's categorical imperative demands that human actions be guided by universalizable moral maxims, treating every human being as an end in themselves and never as a mere means.\"",
           "options": [
-            "Kants kategorischer Imperativ verlangt, dass menschliche Handlungen von verallgemeinerbaren moralischen Maximen geleitet werden, die jeden Menschen als Zweck an sich selbst und niemals als bloßes Mittel behandeln. (The Copernican Turn  The Categorical Imperative)",
-            "Immanuel Kant war ein preußischer General der Artillerie. (The Copernican Turn  The Categorical Imperative)",
-            "Das Ding an sich ist ein Begriff aus der chemischen Industrie. (The Copernican Turn  The Categorical Imperative)",
-            "Die Kritik der reinen Vernunft ist ein Gedichtband über Naturlandschaften. (The Copernican Turn  The Categorical Imperative)"
+            "Kants kategorischer Imperativ verlangt, dass menschliche Handlungen von verallgemeinerbaren moralischen Maximen geleitet werden, die jeden Menschen als Zweck an sich selbst und niemals als bloßes Mittel behandeln.",
+            "Immanuel Kant war ein preußischer General der Artillerie.",
+            "Das Ding an sich ist ein Begriff aus der chemischen Industrie.",
+            "Die Kritik der reinen Vernunft ist ein Gedichtband über Naturlandschaften."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Kant philosophical analysis translation.",
@@ -15551,10 +15555,10 @@
         {
           "prompt": "In which Baltic university city in East Prussia did Immanuel Kant live, teach, and compose all his three monumental Critiques?",
           "options": [
-            "Leipzig (The Copernican Turn  The Categorical Imperative)",
-            "Berlin (The Copernican Turn  The Categorical Imperative)",
-            "Heidelberg (The Copernican Turn  The Categorical Imperative)",
-            "Königsberg (The Copernican Turn  The Categorical Imperative)"
+            "Leipzig",
+            "Berlin",
+            "Heidelberg",
+            "Königsberg"
           ],
           "answerIndex": 3,
           "explanation": "Königsberg (heute Kaliningrad).",
@@ -15591,10 +15595,10 @@
         {
           "prompt": "Which master German idealist philosopher wrote the \"Phenomenology of Spirit\" (1807) and formulated the Master-Slave Dialectic (Herrschaft und Knechtschaft)?",
           "options": [
-            "G.W.F. Hegel (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Friedrich Schelling (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Arthur Schopenhauer (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Johann Gottlieb Fichte (The Dialectic of Spirit  The MasterSlave Struggle)"
+            "G.W.F. Hegel",
+            "Friedrich Schelling",
+            "Arthur Schopenhauer",
+            "Johann Gottlieb Fichte"
           ],
           "answerIndex": 0,
           "explanation": "G.W.F. Hegel."
@@ -15606,10 +15610,10 @@
         {
           "prompt": "What untranslatable German concept, carrying the triple meaning of cancelling, preserving, and elevating, is the engine of Hegel's dialectic?",
           "options": [
-            "Die Aufhebung (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Das Dasein (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Die Verfremdung (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Die Anschauung (The Dialectic of Spirit  The MasterSlave Struggle)"
+            "Die Aufhebung",
+            "Das Dasein",
+            "Die Verfremdung",
+            "Die Anschauung"
           ],
           "answerIndex": 0,
           "explanation": "Die Aufhebung (Sublation)."
@@ -15621,10 +15625,10 @@
         {
           "prompt": "Translate: \"Hegel demonstrated in the master-slave dialectic that the bondsman achieves genuine spiritual self-emancipation through formative labor upon objective material reality.\"",
           "options": [
-            "Hegel behauptete, die Geschichte habe keinen Sinn oder Fortschritt. (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Hegel war ein französischer Mathematiker des 17. Jahrhunderts. (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Die Phänomenologie des Geistes ist ein Handbuch für Eisenbahnkonstrukteure. (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Hegel wies in der Herrschaft-und-Knechtschaft-Dialektik nach, dass der Knecht durch die formende Arbeit an der objektiven materiellen Realität eine echte geistige Selbstbefreiung erlangt. (The Dialectic of Spirit  The MasterSlave Struggle)"
+            "Hegel behauptete, die Geschichte habe keinen Sinn oder Fortschritt.",
+            "Hegel war ein französischer Mathematiker des 17. Jahrhunderts.",
+            "Die Phänomenologie des Geistes ist ein Handbuch für Eisenbahnkonstrukteure.",
+            "Hegel wies in der Herrschaft-und-Knechtschaft-Dialektik nach, dass der Knecht durch die formende Arbeit an der objektiven materiellen Realität eine echte geistige Selbstbefreiung erlangt."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Hegel analysis translation.",
@@ -15633,10 +15637,10 @@
         {
           "prompt": "What French emperor riding on horseback through the streets of Jena in October 1806 did Hegel famously describe as the \"World-Soul on horseback\"?",
           "options": [
-            "Ludwig XIV. (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Karl der Große (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Napoleon Bonaparte (The Dialectic of Spirit  The MasterSlave Struggle)",
-            "Julius Caesar (The Dialectic of Spirit  The MasterSlave Struggle)"
+            "Ludwig XIV.",
+            "Karl der Große",
+            "Napoleon Bonaparte",
+            "Julius Caesar"
           ],
           "answerIndex": 2,
           "explanation": "Napoleon Bonaparte.",
@@ -15673,10 +15677,10 @@
         {
           "prompt": "Which master German philosopher wrote \"Thus Spoke Zarathustra\" (1883) and formulated the concepts of the Übermensch, Will to Power, and Eternal Recurrence?",
           "options": [
-            "Friedrich Nietzsche (The Transvaluation of Values  The Will to Power)",
-            "Arthur Schopenhauer (The Transvaluation of Values  The Will to Power)",
-            "Immanuel Kant (The Transvaluation of Values  The Will to Power)",
-            "Martin Heidegger (The Transvaluation of Values  The Will to Power)"
+            "Friedrich Nietzsche",
+            "Arthur Schopenhauer",
+            "Immanuel Kant",
+            "Martin Heidegger"
           ],
           "answerIndex": 0,
           "explanation": "Friedrich Nietzsche."
@@ -15688,10 +15692,10 @@
         {
           "prompt": "What Latin philosophical aphorism, meaning \"Love of Fate\", was proclaimed by Nietzsche as the ultimate formula for human greatness?",
           "options": [
-            "Amor Fati (The Transvaluation of Values  The Will to Power)",
-            "Tabula Rasa (The Transvaluation of Values  The Will to Power)",
-            "Carpe Diem (The Transvaluation of Values  The Will to Power)",
-            "Memento Mori (The Transvaluation of Values  The Will to Power)"
+            "Amor Fati",
+            "Tabula Rasa",
+            "Carpe Diem",
+            "Memento Mori"
           ],
           "answerIndex": 0,
           "explanation": "Amor Fati (Love of Fate)."
@@ -15703,10 +15707,10 @@
         {
           "prompt": "Translate: \"Nietzsche's thought experiment of the Eternal Recurrence serves as the ultimate ethical litmus test, demanding that one affirm one's life so profoundly as to desire its infinite repetition.\"",
           "options": [
-            "Friedrich Nietzsche war ein mittelalterlicher Mönch. (The Transvaluation of Values  The Will to Power)",
-            "Also sprach Zarathustra ist ein botanisches Lexikon über Alpenblumen. (The Transvaluation of Values  The Will to Power)",
-            "Nietzsches Gedankenexperiment der ewigen Wiederkunft dient als ultimativer ethischer Lackmustest, der verlangt, dass man sein Leben so tief bejaht, dass man seine unendliche Wiederholung begehrt. (The Transvaluation of Values  The Will to Power)",
-            "Der Wille zur Macht bedeutet die Zerstörung jeglicher Kunst. (The Transvaluation of Values  The Will to Power)"
+            "Friedrich Nietzsche war ein mittelalterlicher Mönch.",
+            "Also sprach Zarathustra ist ein botanisches Lexikon über Alpenblumen.",
+            "Nietzsches Gedankenexperiment der ewigen Wiederkunft dient als ultimativer ethischer Lackmustest, der verlangt, dass man sein Leben so tief bejaht, dass man seine unendliche Wiederholung begehrt.",
+            "Der Wille zur Macht bedeutet die Zerstörung jeglicher Kunst."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Nietzsche analysis translation.",
@@ -15715,10 +15719,10 @@
         {
           "prompt": "Beside which picturesque Swiss alpine lake in the Engadin valley did Nietzsche experience the sudden revelation of the Eternal Recurrence in August 1881?",
           "options": [
-            "Genfersee (The Transvaluation of Values  The Will to Power)",
-            "Silvaplanersee (The Transvaluation of Values  The Will to Power)",
-            "Zürichsee (The Transvaluation of Values  The Will to Power)",
-            "Bodensee (The Transvaluation of Values  The Will to Power)"
+            "Genfersee",
+            "Silvaplanersee",
+            "Zürichsee",
+            "Bodensee"
           ],
           "answerIndex": 1,
           "explanation": "Silvaplanersee.",
@@ -15755,10 +15759,10 @@
         {
           "prompt": "Which master German philosopher authored the revolutionary 1927 ontological masterwork \"Being and Time\" (Sein und Zeit)?",
           "options": [
-            "Hans-Georg Gadamer (Fundamental Ontology  BeingintheWorld)",
-            "Karl Jaspers (Fundamental Ontology  BeingintheWorld)",
-            "Martin Heidegger (Fundamental Ontology  BeingintheWorld)",
-            "Edmund Husserl (Fundamental Ontology  BeingintheWorld)"
+            "Hans-Georg Gadamer",
+            "Karl Jaspers",
+            "Martin Heidegger",
+            "Edmund Husserl"
           ],
           "answerIndex": 2,
           "explanation": "Martin Heidegger."
@@ -15770,10 +15774,10 @@
         {
           "prompt": "What foundational German philosophical term was utilized by Heidegger to designate human existence as \"being-there\" situated in the world?",
           "options": [
-            "Der Weltgeist (Fundamental Ontology  BeingintheWorld)",
-            "Das Ding an sich (Fundamental Ontology  BeingintheWorld)",
-            "Das Dasein (Fundamental Ontology  BeingintheWorld)",
-            "Das Bewusstsein (Fundamental Ontology  BeingintheWorld)"
+            "Der Weltgeist",
+            "Das Ding an sich",
+            "Das Dasein",
+            "Das Bewusstsein"
           ],
           "answerIndex": 2,
           "explanation": "Das Dasein."
@@ -15785,10 +15789,10 @@
         {
           "prompt": "Translate: \"Heidegger established that facing one's own finitude through Being-towards-death liberates Dasein from the conformist illusions of the inauthentic public realm (das Man).\"",
           "options": [
-            "Sein und Zeit ist ein Handbuch zur Holzverarbeitung im Schwarzwald. (Fundamental Ontology  BeingintheWorld)",
+            "Sein und Zeit ist ein Handbuch zur Holzverarbeitung im Schwarzwald.",
             "Heidegger wies nach, dass die Konfrontation mit der eigenen Endlichkeit durch das Sein-zum-Tode das Dasein aus den konformistischen Illusionen der uneigentlichen Öffentlichkeit (des Man)",
-            "Das Dasein bezeichnet leblose Steine und Mineralien. (Fundamental Ontology  BeingintheWorld)",
-            "Martin Heidegger war ein Schweizer Uhrmacher des 18. Jahrhunderts. (Fundamental Ontology  BeingintheWorld)"
+            "Das Dasein bezeichnet leblose Steine und Mineralien.",
+            "Martin Heidegger war ein Schweizer Uhrmacher des 18. Jahrhunderts."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Heidegger analysis translation.",
@@ -15797,10 +15801,10 @@
         {
           "prompt": "In which rustic Black Forest mountain village did Heidegger build his famous writing hut (*Die Hütte*) where he composed *Sein und Zeit* in 1927?",
           "options": [
-            "Todtnauberg (Fundamental Ontology  BeingintheWorld)",
-            "Titisee (Fundamental Ontology  BeingintheWorld)",
-            "Triberg (Fundamental Ontology  BeingintheWorld)",
-            "Baden-Baden (Fundamental Ontology  BeingintheWorld)"
+            "Todtnauberg",
+            "Titisee",
+            "Triberg",
+            "Baden-Baden"
           ],
           "answerIndex": 0,
           "explanation": "Todtnauberg.",
@@ -15919,10 +15923,10 @@
         {
           "prompt": "Which master director created the UNESCO-inscribed sci-fi landmark \"Metropolis\" (1927) and the psychological sound thriller \"M\" (1931)?",
           "options": [
-            "F.W. Murnau (German Expressionism)",
-            "Robert Wiene (German Expressionism)",
-            "G.W. Pabst (German Expressionism)",
-            "Fritz Lang (German Expressionism)"
+            "F.W. Murnau",
+            "Robert Wiene",
+            "G.W. Pabst",
+            "Fritz Lang"
           ],
           "answerIndex": 3,
           "explanation": "Fritz Lang."
@@ -15934,10 +15938,10 @@
         {
           "prompt": "Complete the famous philosophical moral maxim that crowns Fritz Lang's \"Metropolis\": «Mittler zwischen Hirn und Händen muss ... sein!»?",
           "options": [
-            "das Herz (German Expressionism)",
-            "das Geld (German Expressionism)",
-            "das Gesetz (German Expressionism)",
-            "die Maschine (German Expressionism)"
+            "das Herz",
+            "das Geld",
+            "das Gesetz",
+            "die Maschine"
           ],
           "answerIndex": 0,
           "explanation": "das Herz (the heart)."
@@ -15949,10 +15953,10 @@
         {
           "prompt": "Translate: \"Lang's M pioneered the off-screen auditory leitmotif, using the murderer's compulsive whistling of Edvard Grieg to generate psychological dread without visual violence.\"",
           "options": [
-            "Metropolis ist ein Stummfilm über die bayerische Landwirtschaft. (German Expressionism)",
-            "Fritz Lang war ein deutscher Fußballspieler bei Bayern München. (German Expressionism)",
-            "Peter Lorre spielte einen römischen Gladiator in Wien. (German Expressionism)",
-            "Langs «M» war der Pionier des akustischen Leitmotivs außerhalb des Bildes, indem er das zwanghafte Pfeifen von Edvard Grieg durch den Mörder nutzte, um psychologischen Schrecken ohne visuelle Gewalt zu erzeugen. (German Expressionism)"
+            "Metropolis ist ein Stummfilm über die bayerische Landwirtschaft.",
+            "Fritz Lang war ein deutscher Fußballspieler bei Bayern München.",
+            "Peter Lorre spielte einen römischen Gladiator in Wien.",
+            "Langs «M» war der Pionier des akustischen Leitmotivs außerhalb des Bildes, indem er das zwanghafte Pfeifen von Edvard Grieg durch den Mörder nutzte, um psychologischen Schrecken ohne visuelle Gewalt zu erzeugen."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Fritz Lang analysis translation.",
@@ -15961,10 +15965,10 @@
         {
           "prompt": "What famous classical melody by Edvard Grieg is compulsively whistled by child murderer Hans Beckert in Fritz Lang's *M* (1931)?",
           "options": [
-            "«Ode an die Freude» (German Expressionism)",
-            "«Morgenstimmung» (German Expressionism)",
-            "«In der Halle des Bergkönigs» (German Expressionism)",
-            "«Für Elise» (German Expressionism)"
+            "«Ode an die Freude»",
+            "«Morgenstimmung»",
+            "«In der Halle des Bergkönigs»",
+            "«Für Elise»"
           ],
           "answerIndex": 2,
           "explanation": "«In der Halle des Bergkönigs».",
@@ -16001,10 +16005,10 @@
         {
           "prompt": "Which master German director dragged a real 320-ton steamship over a mountain in \"Fitzcarraldo\" (1982) and directed \"Aguirre, the Wrath of God\" (1972)?",
           "options": [
-            "Werner Herzog (Ecstatic Truth  The Conquest of the Useless)",
-            "Wim Wenders (Ecstatic Truth  The Conquest of the Useless)",
-            "Volker Schlöndorff (Ecstatic Truth  The Conquest of the Useless)",
-            "Rainer Werner Fassbinder (Ecstatic Truth  The Conquest of the Useless)"
+            "Werner Herzog",
+            "Wim Wenders",
+            "Volker Schlöndorff",
+            "Rainer Werner Fassbinder"
           ],
           "answerIndex": 0,
           "explanation": "Werner Herzog."
@@ -16016,10 +16020,10 @@
         {
           "prompt": "What philosophical concept was formulated by Werner Herzog to distinguish deep poetic cinematic revelation from superficial factual reality?",
           "options": [
-            "Die ekstatische Wahrheit (Ecstatic Truth  The Conquest of the Useless)",
-            "Die reine Vernunft (Ecstatic Truth  The Conquest of the Useless)",
-            "Der kategorische Imperativ (Ecstatic Truth  The Conquest of the Useless)",
-            "Das Ding an sich (Ecstatic Truth  The Conquest of the Useless)"
+            "Die ekstatische Wahrheit",
+            "Die reine Vernunft",
+            "Der kategorische Imperativ",
+            "Das Ding an sich"
           ],
           "answerIndex": 0,
           "explanation": "Die ekstatische Wahrheit (Ecstatic Truth)."
@@ -16031,10 +16035,10 @@
         {
           "prompt": "Translate: \"Herzog rejected superficial cinema-verite facts, insisting that ecstatic truth emerges only through mythic courage, physical extremity, and visionary poetic stylization.\"",
           "options": [
-            "Fitzcarraldo wurde vollständig mit Computeranimation in London erstellt. (Ecstatic Truth  The Conquest of the Useless)",
-            "Werner Herzog ist ein Schweizer Bankdirektor. (Ecstatic Truth  The Conquest of the Useless)",
-            "Herzog lehnte oberflächliche Fakten des Cinema-Verite ab und bestand darauf, dass die ekstatische Wahrheit nur durch mythischen Mut, physische Extreme und visionäre poetische Stilisierung hervortritt. (Ecstatic Truth  The Conquest of the Useless)",
-            "Klaus Kinski spielte einen Koch in einer Berliner Bäckerei. (Ecstatic Truth  The Conquest of the Useless)"
+            "Fitzcarraldo wurde vollständig mit Computeranimation in London erstellt.",
+            "Werner Herzog ist ein Schweizer Bankdirektor.",
+            "Herzog lehnte oberflächliche Fakten des Cinema-Verite ab und bestand darauf, dass die ekstatische Wahrheit nur durch mythischen Mut, physische Extreme und visionäre poetische Stilisierung hervortritt.",
+            "Klaus Kinski spielte einen Koch in einer Berliner Bäckerei."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Werner Herzog analysis translation.",
@@ -16043,10 +16047,10 @@
         {
           "prompt": "What explosive German actor collaborated with Werner Herzog across five legendary films including *Aguirre*, *Nosferatu*, *Woyzeck*, and *Fitzcarraldo*?",
           "options": [
-            "Bruno S. (Ecstatic Truth  The Conquest of the Useless)",
-            "Klaus Kinski (Ecstatic Truth  The Conquest of the Useless)",
-            "Armin Mueller-Stahl (Ecstatic Truth  The Conquest of the Useless)",
-            "Daniel Brühl (Ecstatic Truth  The Conquest of the Useless)"
+            "Bruno S.",
+            "Klaus Kinski",
+            "Armin Mueller-Stahl",
+            "Daniel Brühl"
           ],
           "answerIndex": 1,
           "explanation": "Klaus Kinski.",
@@ -16083,10 +16087,10 @@
         {
           "prompt": "Which master German director directed 40 films in 15 years, including \"Ali: Fear Eats the Soul\" (1974) and \"The Marriage of Maria Braun\" (1979)?",
           "options": [
-            "Rainer Werner Fassbinder (Radical Melodrama)",
-            "Wim Wenders (Radical Melodrama)",
-            "Werner Herzog (Radical Melodrama)",
-            "Alexander Kluge (Radical Melodrama)"
+            "Rainer Werner Fassbinder",
+            "Wim Wenders",
+            "Werner Herzog",
+            "Alexander Kluge"
           ],
           "answerIndex": 0,
           "explanation": "Rainer Werner Fassbinder."
@@ -16098,10 +16102,10 @@
         {
           "prompt": "Which iconic German actress starred as Maria Braun in Fassbinder's 1979 award-winning masterpiece \"Die Ehe der Maria Braun\"?",
           "options": [
-            "Hanna Schygulla (Radical Melodrama)",
-            "Irm Hermann (Radical Melodrama)",
-            "Margit Carstensen (Radical Melodrama)",
-            "Barbara Sukowa (Radical Melodrama)"
+            "Hanna Schygulla",
+            "Irm Hermann",
+            "Margit Carstensen",
+            "Barbara Sukowa"
           ],
           "answerIndex": 0,
           "explanation": "Hanna Schygulla."
@@ -16113,10 +16117,10 @@
         {
           "prompt": "Translate: \"Fassbinder adapted Douglas Sirk's melodramatic aesthetic to critique the emotional alienation and moral compromises of West Germany's post-war Economic Miracle.\"",
           "options": [
-            "Fassbinder war ein bayerischer Brauereibesitzer. (Radical Melodrama)",
-            "Fassbinder adaptierte die melodramatische Ästhetik von Douglas Sirk, um die emotionale Entfremdung und die moralischen Kompromisse des westdeutschen Nachkriegswirtschaftswunders zu kritisieren. (Radical Melodrama)",
-            "Berlin Alexanderplatz wurde in den 1920er Jahren von Hollywood produziert. (Radical Melodrama)",
-            "Angst essen Seele auf ist eine Dokumentation über Wildtiere in Afrika. (Radical Melodrama)"
+            "Fassbinder war ein bayerischer Brauereibesitzer.",
+            "Fassbinder adaptierte die melodramatische Ästhetik von Douglas Sirk, um die emotionale Entfremdung und die moralischen Kompromisse des westdeutschen Nachkriegswirtschaftswunders zu kritisieren.",
+            "Berlin Alexanderplatz wurde in den 1920er Jahren von Hollywood produziert.",
+            "Angst essen Seele auf ist eine Dokumentation über Wildtiere in Afrika."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Fassbinder analysis translation.",
@@ -16125,10 +16129,10 @@
         {
           "prompt": "What 15-hour monumental television epic, based on Alfred Döblin's 1929 novel of Weimar-era Berlin, was directed by Fassbinder in 1980?",
           "options": [
-            "«Berlin Alexanderplatz» (Radical Melodrama)",
-            "«Das Boot» (Radical Melodrama)",
-            "«Babylon Berlin» (Radical Melodrama)",
-            "«Heimat» (Radical Melodrama)"
+            "«Berlin Alexanderplatz»",
+            "«Das Boot»",
+            "«Babylon Berlin»",
+            "«Heimat»"
           ],
           "answerIndex": 0,
           "explanation": "«Berlin Alexanderplatz».",
@@ -16165,10 +16169,10 @@
         {
           "prompt": "Which master German director won the Cannes Palme d'Or for \"Paris, Texas\" (1984) and directed \"Der Himmel über Berlin\" (Wings of Desire, 1987)?",
           "options": [
-            "Tom Tykwer (The Poetics of Solitude  The Divided Sky)",
-            "Rainer Werner Fassbinder (The Poetics of Solitude  The Divided Sky)",
-            "Wim Wenders (The Poetics of Solitude  The Divided Sky)",
-            "Werner Herzog (The Poetics of Solitude  The Divided Sky)"
+            "Tom Tykwer",
+            "Rainer Werner Fassbinder",
+            "Wim Wenders",
+            "Werner Herzog"
           ],
           "answerIndex": 2,
           "explanation": "Wim Wenders."
@@ -16180,10 +16184,10 @@
         {
           "prompt": "Which legendary Swiss actor portrayed the compassionate immortal angel Damiel in Wim Wenders's 1987 masterpiece \"Der Himmel über Berlin\"?",
           "options": [
-            "Peter Falk (The Poetics of Solitude  The Divided Sky)",
-            "Curt Bois (The Poetics of Solitude  The Divided Sky)",
-            "Bruno Ganz (The Poetics of Solitude  The Divided Sky)",
-            "Otto Sander (The Poetics of Solitude  The Divided Sky)"
+            "Peter Falk",
+            "Curt Bois",
+            "Bruno Ganz",
+            "Otto Sander"
           ],
           "answerIndex": 2,
           "explanation": "Bruno Ganz."
@@ -16195,10 +16199,10 @@
         {
           "prompt": "Translate: \"Wings of Desire transitioned between monochrome angelic perception and vibrant human color, celebrating the beauty of mortal sensory existence in divided Berlin.\"",
           "options": [
-            "«Der Himmel über Berlin» wechselte zwischen monochromer engelhafter Wahrnehmung und lebendigen menschlichen Farben, um die Schönheit der sterblichen sensorischen Existenz im geteilten Berlin zu feiern. (The Poetics of Solitude  The Divided Sky)",
-            "Paris, Texas wurde vollständig in einem Pariser U-Bahnhof gedreht. (The Poetics of Solitude  The Divided Sky)",
-            "Ry Cooder ist ein Operntenor aus Wien. (The Poetics of Solitude  The Divided Sky)",
-            "Wim Wenders ist ein Formel-1-Rennfahrer aus Stuttgart. (The Poetics of Solitude  The Divided Sky)"
+            "«Der Himmel über Berlin» wechselte zwischen monochromer engelhafter Wahrnehmung und lebendigen menschlichen Farben, um die Schönheit der sterblichen sensorischen Existenz im geteilten Berlin zu feiern.",
+            "Paris, Texas wurde vollständig in einem Pariser U-Bahnhof gedreht.",
+            "Ry Cooder ist ein Operntenor aus Wien.",
+            "Wim Wenders ist ein Formel-1-Rennfahrer aus Stuttgart."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Wim Wenders analysis translation.",
@@ -16207,10 +16211,10 @@
         {
           "prompt": "Which Nobel Prize-winning Austrian author co-wrote the poetic dialogue and screenplay for Wim Wenders's *Der Himmel über Berlin*?",
           "options": [
-            "Thomas Bernhard (The Poetics of Solitude  The Divided Sky)",
-            "Elfriede Jelinek (The Poetics of Solitude  The Divided Sky)",
-            "Stefan Zweig (The Poetics of Solitude  The Divided Sky)",
-            "Peter Handke (The Poetics of Solitude  The Divided Sky)"
+            "Thomas Bernhard",
+            "Elfriede Jelinek",
+            "Stefan Zweig",
+            "Peter Handke"
           ],
           "answerIndex": 3,
           "explanation": "Peter Handke.",
@@ -16329,10 +16333,10 @@
         {
           "prompt": "Which historic 1516 Bavarian food statute, proclaimed by Duke Wilhelm IV, mandated that beer could only be brewed from water, barley, and hops?",
           "options": [
-            "Das Brotkulturgesetz (The Bread Culture)",
-            "Das Deutsche Weingesetz (The Bread Culture)",
-            "Die Zunftordnung (The Bread Culture)",
-            "Das Bayerische Reinheitsgebot von 1516 (The Bread Culture)"
+            "Das Brotkulturgesetz",
+            "Das Deutsche Weingesetz",
+            "Die Zunftordnung",
+            "Das Bayerische Reinheitsgebot von 1516"
           ],
           "answerIndex": 3,
           "explanation": "Das Bayerische Reinheitsgebot von 1516."
@@ -16344,10 +16348,10 @@
         {
           "prompt": "What biological fermentation method is essential in German baking to allow rye flour (Roggen) to properly rise and bake into aromatic loaves?",
           "options": [
-            "Natursauerteig (The Bread Culture)",
-            "Chemische Backpulvergärung (The Bread Culture)",
-            "Alkoholdestillation (The Bread Culture)",
-            "Pasteurisierung (The Bread Culture)"
+            "Natursauerteig",
+            "Chemische Backpulvergärung",
+            "Alkoholdestillation",
+            "Pasteurisierung"
           ],
           "answerIndex": 0,
           "explanation": "Natursauerteig (Natural Sourdough Fermentation)."
@@ -16359,10 +16363,10 @@
         {
           "prompt": "Translate: \"The Bavarian Reinheitsgebot of 1516 protected consumers by restricting beer ingredients to water, barley, and hops, preserving brewing purity and grain for breadmaking.\"",
           "options": [
-            "In Deutschland gibt es nur drei verschiedene Brotsorten. (The Bread Culture)",
-            "Das Reinheitsgebot ist eine Vorschrift für den Bau von Holzhäusern. (The Bread Culture)",
-            "Das Bayerische Reinheitsgebot von 1516 schützte die Verbraucher, indem es die Bierinhaltsstoffe auf Wasser, Gerste und Hopfen beschränkte, um die Reinheit des Brauens und das Getreide für die Brotherstellung zu bewahren. (The Bread Culture)",
-            "Pumpernickel ist ein süßer Wiener Apfelkuchen. (The Bread Culture)"
+            "In Deutschland gibt es nur drei verschiedene Brotsorten.",
+            "Das Reinheitsgebot ist eine Vorschrift für den Bau von Holzhäusern.",
+            "Das Bayerische Reinheitsgebot von 1516 schützte die Verbraucher, indem es die Bierinhaltsstoffe auf Wasser, Gerste und Hopfen beschränkte, um die Reinheit des Brauens und das Getreide für die Brotherstellung zu bewahren.",
+            "Pumpernickel ist ein süßer Wiener Apfelkuchen."
           ],
           "answerIndex": 2,
           "explanation": "Accurate German bread and beer analysis translation.",
@@ -16371,10 +16375,10 @@
         {
           "prompt": "What traditional long-baked Westphalian whole-grain rye bread is slowly steamed in ovens for up to 24 hours until deeply dark and caramelized?",
           "options": [
-            "Laugenbrezel (The Bread Culture)",
-            "Pumpernickel (The Bread Culture)",
-            "Toastbrot (The Bread Culture)",
-            "Bauernbrot (The Bread Culture)"
+            "Laugenbrezel",
+            "Pumpernickel",
+            "Toastbrot",
+            "Bauernbrot"
           ],
           "answerIndex": 1,
           "explanation": "Pumpernickel.",
@@ -16411,10 +16415,10 @@
         {
           "prompt": "Which vineyard along the Mosel River is recognized as the steepest commercial vineyard in Europe, with an extreme slope angle of 68 degrees?",
           "options": [
-            "Bremmer Calmont (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Bernkasteler Doctor (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Piesporter Goldtröpfchen (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Wehlener Sonnenuhr (The Extreme Slate Slopes  Prdikat Hierarchy)"
+            "Bremmer Calmont",
+            "Bernkasteler Doctor",
+            "Piesporter Goldtröpfchen",
+            "Wehlener Sonnenuhr"
           ],
           "answerIndex": 0,
           "explanation": "Bremmer Calmont."
@@ -16426,10 +16430,10 @@
         {
           "prompt": "What rare and immortal dessert wine classification in Germany is produced exclusively from botrytized grapes individually hand-selected when shriveled like raisins on the vine?",
           "options": [
-            "Trockenbeerenauslese (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Kabinett (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Landwein (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Spätlese Trocken (The Extreme Slate Slopes  Prdikat Hierarchy)"
+            "Trockenbeerenauslese",
+            "Kabinett",
+            "Landwein",
+            "Spätlese Trocken"
           ],
           "answerIndex": 0,
           "explanation": "Trockenbeerenauslese (TBA)."
@@ -16441,10 +16445,10 @@
         {
           "prompt": "Translate: \"Mosel Devonian slate soils store solar heat on extreme vertical inclines, allowing late-ripening Riesling grapes to achieve high sugar concentration while retaining vibrant natural acidity.\"",
           "options": [
-            "Riesling ist ein roter Tafelwein aus den bayerischen Alpen. (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Die Devonschieferböden der Mosel speichern die Sonnenwärme an extremen Steilhängen, sodass die spätreifenden Riesling-Trauben eine hohe Zuckerkonzentration bei lebendiger natürlicher Säure erreichen. (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Der Bremmer Calmont liegt im flachen Flachland von Hamburg. (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "Eiswein wird durch Hinzufügen von künstlichen Eiswürfeln hergestellt. (The Extreme Slate Slopes  Prdikat Hierarchy)"
+            "Riesling ist ein roter Tafelwein aus den bayerischen Alpen.",
+            "Die Devonschieferböden der Mosel speichern die Sonnenwärme an extremen Steilhängen, sodass die spätreifenden Riesling-Trauben eine hohe Zuckerkonzentration bei lebendiger natürlicher Säure erreichen.",
+            "Der Bremmer Calmont liegt im flachen Flachland von Hamburg.",
+            "Eiswein wird durch Hinzufügen von künstlichen Eiswürfeln hergestellt."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Mosel Riesling analysis translation.",
@@ -16453,10 +16457,10 @@
         {
           "prompt": "At what minimum freezing temperature must grapes be naturally frozen on the vine before harvesting and pressing to qualify as authentic German Eiswein?",
           "options": [
-            "Mindestens -7°C oder kälter (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "0°C (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "-1°C (The Extreme Slate Slopes  Prdikat Hierarchy)",
-            "+10°C (The Extreme Slate Slopes  Prdikat Hierarchy)"
+            "Mindestens -7°C oder kälter",
+            "0°C",
+            "-1°C",
+            "+10°C"
           ],
           "answerIndex": 0,
           "explanation": "Mindestens -7°C oder kälter.",
@@ -16493,10 +16497,10 @@
         {
           "prompt": "According to Munich culinary tradition, before what time of day must fresh Bavarian Weißwurst strictly be eaten?",
           "options": [
-            "Vor dem Zwölf-Uhr-Läuten (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Vor 6:00 Uhr morgens (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Erst nach Mitternacht (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Nur um 18:00 Uhr abends (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)"
+            "Vor dem Zwölf-Uhr-Läuten",
+            "Vor 6:00 Uhr morgens",
+            "Erst nach Mitternacht",
+            "Nur um 18:00 Uhr abends"
           ],
           "answerIndex": 0,
           "explanation": "Vor dem Zwölf-Uhr-Läuten (Before 12:00 noon bells)."
@@ -16508,10 +16512,10 @@
         {
           "prompt": "What key herb seasoning distinguishes the authentic protected Thüringer Rostbratwurst and Nürnberger Bratwurst?",
           "options": [
-            "Majoran (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Koriander (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Minze (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Basilikum (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)"
+            "Majoran",
+            "Koriander",
+            "Minze",
+            "Basilikum"
           ],
           "answerIndex": 0,
           "explanation": "Majoran (Marjoram)."
@@ -16523,10 +16527,10 @@
         {
           "prompt": "Translate: \"Munich Weisswurst combines finely minced veal, fresh parsley, and lemon zest, traditionally served before noon with sweet Bavarian mustard and fresh pretzels.\"",
           "options": [
-            "Die Münchner Weißwurst kombiniert feines Kalbfleisch, frische Petersilie und Zitronenabrieb, traditionell serviert vor dem Mittag mit süßem bayerischen Senf und frischen Brezeln. (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Schwarzwälder Schinken wird in Zuckerwasser gekocht. (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Nürnberger Rostbratwürste sind über zwei Meter lang. (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Die Weißwurst ist ein gebratener Fisch aus der Ostsee. (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)"
+            "Die Münchner Weißwurst kombiniert feines Kalbfleisch, frische Petersilie und Zitronenabrieb, traditionell serviert vor dem Mittag mit süßem bayerischen Senf und frischen Brezeln.",
+            "Schwarzwälder Schinken wird in Zuckerwasser gekocht.",
+            "Nürnberger Rostbratwürste sind über zwei Meter lang.",
+            "Die Weißwurst ist ein gebratener Fisch aus der Ostsee."
           ],
           "answerIndex": 0,
           "explanation": "Accurate German Wurst analysis translation.",
@@ -16535,10 +16539,10 @@
         {
           "prompt": "What traditional German term describes the Bavarian technique of sucking the delicate meat of a Weißwurst directly out of its casing without using a knife?",
           "options": [
-            "Schneiden (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Pürieren (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Braten (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)",
-            "Zuzeln (The Geography of Charcuterie  Wurst Culture Die deutsche Wurstkultur)"
+            "Schneiden",
+            "Pürieren",
+            "Braten",
+            "Zuzeln"
           ],
           "answerIndex": 3,
           "explanation": "Zuzeln (Zuzeln der Weißwurst).",
@@ -16575,10 +16579,10 @@
         {
           "prompt": "On what traditional saint's day (June 24) does the German white asparagus harvest strictly end each year according to the rhyme \"Kirschen rot, Spargel tot\"?",
           "options": [
-            "Der Ostersonntag (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Der Nikolaustag (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Der Johannistag (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Der Martinstag (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)"
+            "Der Ostersonntag",
+            "Der Nikolaustag",
+            "Der Johannistag",
+            "Der Martinstag"
           ],
           "answerIndex": 2,
           "explanation": "Der Johannistag (St. John's Day - June 24)."
@@ -16590,10 +16594,10 @@
         {
           "prompt": "Why does German white asparagus (Bleichspargel) remain pure white rather than turning green?",
           "options": [
-            "It only grows during the night. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "It is genetically modified. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "It is grown completely underground inside covered sandy mounds without exposure to sunlight, preventing chlorophyll photosynthesis. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "It is bleached with milk. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)"
+            "It only grows during the night.",
+            "It is genetically modified.",
+            "It is grown completely underground inside covered sandy mounds without exposure to sunlight, preventing chlorophyll photosynthesis.",
+            "It is bleached with milk."
           ],
           "answerIndex": 2,
           "explanation": "It is grown completely underground inside covered sandy mounds without sunlight."
@@ -16605,10 +16609,10 @@
         {
           "prompt": "Translate: \"The German Spargelzeit celebrates subterranean white asparagus harvested by hand from sandy mounds, traditionally paired with Sauce Hollandaise, boiled new potatoes, and cured ham until June 24.\"",
           "options": [
-            "Der Johannistag markiert den Beginn der bayerischen Weinlese. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Sauce Hollandaise wird aus kaltem Ketchup und Essig hergestellt. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Spargelzeit ist eine Wintersportart im Schwarzwald. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Die deutsche Spargelzeit feiert den unterirdischen weißen Spargel, der von Hand aus Sanddämmen gestochen wird, traditionell kombiniert mit Sauce Hollandaise, neuen Kartoffeln und Schinken bis zum 24. Juni. (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)"
+            "Der Johannistag markiert den Beginn der bayerischen Weinlese.",
+            "Sauce Hollandaise wird aus kaltem Ketchup und Essig hergestellt.",
+            "Spargelzeit ist eine Wintersportart im Schwarzwald.",
+            "Die deutsche Spargelzeit feiert den unterirdischen weißen Spargel, der von Hand aus Sanddämmen gestochen wird, traditionell kombiniert mit Sauce Hollandaise, neuen Kartoffeln und Schinken bis zum 24. Juni."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Spargelzeit analysis translation.",
@@ -16617,10 +16621,10 @@
         {
           "prompt": "Which famous town in Brandenburg south of Berlin is world-renowned for its extensive sandy asparagus fields and PGI-protected Beelitzer Spargel?",
           "options": [
-            "Cottbus (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Frankfurt an der Oder (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Beelitz (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)",
-            "Potsdam (The Sacred Season of Spargelzeit  White Gold Die deutsche Spargelzeit)"
+            "Cottbus",
+            "Frankfurt an der Oder",
+            "Beelitz",
+            "Potsdam"
           ],
           "answerIndex": 2,
           "explanation": "Beelitz (Beelitzer Spargel).",
@@ -16744,10 +16748,10 @@
         {
           "prompt": "Welches metrische Versmaß wählten Goethe und Schiller als maßgebliches poetisches Sprachmedium für das klassische Ideendrama?",
           "options": [
-            "Der reimlose fünfhebige Jambus (Weimarer Klassik  Goethe  Schiller)",
-            "Der vierhebige Knittelvers aus dem Mittelalter (Weimarer Klassik  Goethe  Schiller)",
-            "Der sapphische Elfsilbler ohne Zäsur (Weimarer Klassik  Goethe  Schiller)",
-            "Der freie Hexameter mit Reimpaaren (Weimarer Klassik  Goethe  Schiller)"
+            "Der reimlose fünfhebige Jambus",
+            "Der vierhebige Knittelvers aus dem Mittelalter",
+            "Der sapphische Elfsilbler ohne Zäsur",
+            "Der freie Hexameter mit Reimpaaren"
           ],
           "answerIndex": 0,
           "explanation": "Der Blankvers (nach Shakespeares und Lessings Vorbild) wurde durch Schiller und Goethe zum Standard der Weimarer Klassik erhoben."
@@ -16759,10 +16763,10 @@
         {
           "prompt": "Was kennzeichnet das ästhetische und philosophische Humanitätsideal der Weimarer Klassik?",
           "options": [
-            "Die vollständige Ablehnung jeglicher antiker Kunstformen zugunsten roher Naturlaute. (Weimarer Klassik  Goethe  Schiller)",
-            "Die sittliche Veredelung des Menschen durch die harmonische Einheit von Vernunft, Pflicht und Neigung im Sinne Schillers ästhetischer Erziehung. (Weimarer Klassik  Goethe  Schiller)",
-            "Die Verherrlichung des blinden Fatalismus und des Nihilismus. (Weimarer Klassik  Goethe  Schiller)",
-            "Die Beschränkung des Theaters auf bloße höfische Unterhaltungsmusik. (Weimarer Klassik  Goethe  Schiller)"
+            "Die vollständige Ablehnung jeglicher antiker Kunstformen zugunsten roher Naturlaute.",
+            "Die sittliche Veredelung des Menschen durch die harmonische Einheit von Vernunft, Pflicht und Neigung im Sinne Schillers ästhetischer Erziehung.",
+            "Die Verherrlichung des blinden Fatalismus und des Nihilismus.",
+            "Die Beschränkung des Theaters auf bloße höfische Unterhaltungsmusik."
           ],
           "answerIndex": 1,
           "explanation": "Schiller postulierte in den Briefen «Über die ästhetische Erziehung des Menschen» die Veredelung des Charakters durch die Kunst."
@@ -16774,10 +16778,10 @@
         {
           "prompt": "Welches Schiller-Drama aus dem Jahr 1804 behandelt den Schweizer Freiheitskampf gegen die habsburgische Fremdherrschaft?",
           "options": [
-            "Wilhelm Tell (Weimarer Klassik  Goethe  Schiller)",
-            "Die Räuber (Weimarer Klassik  Goethe  Schiller)",
-            "Kabale und Liebe (Weimarer Klassik  Goethe  Schiller)",
-            "Maria Stuart (Weimarer Klassik  Goethe  Schiller)"
+            "Wilhelm Tell",
+            "Die Räuber",
+            "Kabale und Liebe",
+            "Maria Stuart"
           ],
           "answerIndex": 0,
           "explanation": "*Wilhelm Tell* schildert Tells Tyrannenmord an Gessler und den Rütlischwur als legitimen Widerstand gegen Tyrannei.",
@@ -16786,10 +16790,10 @@
         {
           "prompt": "Wie lautet der berühmte Pakt zwischen Faust und Mephistopheles über den Augenblick höchster Erfüllung?",
           "options": [
-            "«Werd ich zum Augenblicke sagen: Verweile doch! du bist so schön!» (Weimarer Klassik  Goethe  Schiller)",
-            "«Die Botschaft hör ich wohl, allein mir fehlt der Glaube.» (Weimarer Klassik  Goethe  Schiller)",
-            "«Hier bin ich Mensch, hier darf ich's sein!» (Weimarer Klassik  Goethe  Schiller)",
-            "«Zwei Seelen wohnen, ach! in meiner Brust.» (Weimarer Klassik  Goethe  Schiller)"
+            "«Werd ich zum Augenblicke sagen: Verweile doch! du bist so schön!»",
+            "«Die Botschaft hör ich wohl, allein mir fehlt der Glaube.»",
+            "«Hier bin ich Mensch, hier darf ich's sein!»",
+            "«Zwei Seelen wohnen, ach! in meiner Brust.»"
           ],
           "answerIndex": 0,
           "explanation": "Faust verpfändet seine Seele für den Moment, in dem er dem vergehenden Augenblick zurufen möchte: «Verweile doch! du bist so schön!»",
@@ -16831,10 +16835,10 @@
         {
           "prompt": "Welche dramaturgische Absicht verfolgt Bertolt Brecht mit dem Einsatz des Verfremdungseffekts (V-Effekt)?",
           "options": [
-            "Das Publikum soll durch Spezialeffekte in tiefe hypnotische Trance versetzt werden. (Bertolt Brecht  Das Epische Theater)",
-            "Die Identifikation des Zuschauers mit den Figuren soll durchbrochen werden, um kritisches, gesellschaftsveränderndes Denken anzuregen. (Bertolt Brecht  Das Epische Theater)",
-            "Alle Schauspieler sollen wie antike Chorknaben unisono singen. (Bertolt Brecht  Das Epische Theater)",
-            "Die Aufführung soll rein zur Beruhigung nervöser Gemüter dienen. (Bertolt Brecht  Das Epische Theater)"
+            "Das Publikum soll durch Spezialeffekte in tiefe hypnotische Trance versetzt werden.",
+            "Die Identifikation des Zuschauers mit den Figuren soll durchbrochen werden, um kritisches, gesellschaftsveränderndes Denken anzuregen.",
+            "Alle Schauspieler sollen wie antike Chorknaben unisono singen.",
+            "Die Aufführung soll rein zur Beruhigung nervöser Gemüter dienen."
           ],
           "answerIndex": 1,
           "explanation": "Der V-Effekt entzaubert die theatrale Illusion und fordert den Betrachter auf, gesellschaftliche Machtstrukturen rational zu hinterfragen."
@@ -16846,10 +16850,10 @@
         {
           "prompt": "Welcher Komponist schuf die berühmte synkopierte Jazz- und Kabarettmusik für Brechts Dreigroschenoper (1928)?",
           "options": [
-            "Richard Wagner (Bertolt Brecht  Das Epische Theater)",
-            "Kurt Weill (Bertolt Brecht  Das Epische Theater)",
-            "Johannes Brahms (Bertolt Brecht  Das Epische Theater)",
-            "Ludwig van Beethoven (Bertolt Brecht  Das Epische Theater)"
+            "Richard Wagner",
+            "Kurt Weill",
+            "Johannes Brahms",
+            "Ludwig van Beethoven"
           ],
           "answerIndex": 1,
           "explanation": "Kurt Weill komponierte die unvergessliche Musik zur *Dreigroschenoper*, darunter die weltbekannte *Moritat von Mackie Messer*."
@@ -16861,10 +16865,10 @@
         {
           "prompt": "Welches Theater in Ost-Berlin wurde 1949 von Bertolt Brecht und Helene Weigel als Heimat des epischen Theaters gegründet?",
           "options": [
-            "Das Berliner Ensemble (Bertolt Brecht  Das Epische Theater)",
-            "Die Wiener Staatsoper (Bertolt Brecht  Das Epische Theater)",
-            "Das Bayerische Staatsschauspiel (Bertolt Brecht  Das Epische Theater)",
-            "Das Hamburger Thalia Theater (Bertolt Brecht  Das Epische Theater)"
+            "Das Berliner Ensemble",
+            "Die Wiener Staatsoper",
+            "Das Bayerische Staatsschauspiel",
+            "Das Hamburger Thalia Theater"
           ],
           "answerIndex": 0,
           "explanation": "Das Berliner Ensemble am Schiffbauerdamm wurde zur weltberühmten Spielstätte von Brechts epischen Inszenierungen.",
@@ -16873,10 +16877,10 @@
         {
           "prompt": "Was versteht Brecht unter dem theaterwissenschaftlichen Begriff des «sozialen Gestus»?",
           "options": [
-            "Die körperliche und sprachliche Haltung einer Figur, die ihre gesellschaftliche Klassenposition und Machtbeziehung offenbart. (Bertolt Brecht  Das Epische Theater)",
-            "Ein rein gymnastisches Aufwärmprogramm vor Probenbeginn. (Bertolt Brecht  Das Epische Theater)",
-            "Das Verteilen von Freikarten an Bedürftige. (Bertolt Brecht  Das Epische Theater)",
-            "Das Auswendiglernen von Bühnenbeleuchtungsplänen. (Bertolt Brecht  Das Epische Theater)"
+            "Die körperliche und sprachliche Haltung einer Figur, die ihre gesellschaftliche Klassenposition und Machtbeziehung offenbart.",
+            "Ein rein gymnastisches Aufwärmprogramm vor Probenbeginn.",
+            "Das Verteilen von Freikarten an Bedürftige.",
+            "Das Auswendiglernen von Bühnenbeleuchtungsplänen."
           ],
           "answerIndex": 0,
           "explanation": "Der Gestus fasst Haltungen und Verhaltensweisen zusammen, die den gesellschaftlichen Status und Klassenkonflikt sichtbar machen.",
@@ -16918,10 +16922,10 @@
         {
           "prompt": "Welche formale Besonderheit zeichnet Heiner Müllers Meisterwerk Die Hamletmaschine (1977) aus?",
           "options": [
-            "Es ist eine exakte fünfaktige historische Rekonstruktion im Versmaß des 16. Jahrhunderts. (Heiner Mller  Postdramatisches Theater)",
-            "Es ist eine hochverdichtete postdramatische Textfläche, die Shakespeares Hamlet mit dem Aufstand in Ungarn 1956 und Geschlechterkämpfen verwebt. (Heiner Mller  Postdramatisches Theater)",
-            "Es ist ein heiteres Kindermusical ohne politische Bezüge. (Heiner Mller  Postdramatisches Theater)",
-            "Ein lateinisches Kirchenoratorium für Solisten und Orgel. (Heiner Mller  Postdramatisches Theater)"
+            "Es ist eine exakte fünfaktige historische Rekonstruktion im Versmaß des 16. Jahrhunderts.",
+            "Es ist eine hochverdichtete postdramatische Textfläche, die Shakespeares Hamlet mit dem Aufstand in Ungarn 1956 und Geschlechterkämpfen verwebt.",
+            "Es ist ein heiteres Kindermusical ohne politische Bezüge.",
+            "Ein lateinisches Kirchenoratorium für Solisten und Orgel."
           ],
           "answerIndex": 1,
           "explanation": "Müller dekonstruiert den Hamlet-Mythos in fünf knappe, dichte Abschnitte voller historischer und politischer Schockbilder."
@@ -16933,10 +16937,10 @@
         {
           "prompt": "Welche französische Romankorrespondenz bildete die Vorlage für Heiner Müllers Dialogstück Quartett (1981)?",
           "options": [
-            "Madame Bovary von Gustave Flaubert (Heiner Mller  Postdramatisches Theater)",
-            "Les Liaisons dangereuses (Heiner Mller  Postdramatisches Theater)",
-            "Der Glöckner von Notre-Dame von Victor Hugo (Heiner Mller  Postdramatisches Theater)",
-            "Auf der Suche nach der verlorenen Zeit von Marcel Proust (Heiner Mller  Postdramatisches Theater)"
+            "Madame Bovary von Gustave Flaubert",
+            "Les Liaisons dangereuses",
+            "Der Glöckner von Notre-Dame von Victor Hugo",
+            "Auf der Suche nach der verlorenen Zeit von Marcel Proust"
           ],
           "answerIndex": 1,
           "explanation": "In *Quartett* spielen Valmont und Merteuil in einem postapokalyptischen Raum ein sadomasochistisches Rollentauschspiel."
@@ -16948,10 +16952,10 @@
         {
           "prompt": "Welches berühmte Theater in Berlin leitete Heiner Müller in seinen letzten Lebensjahren bis 1995?",
           "options": [
-            "Das Berliner Ensemble (Heiner Mller  Postdramatisches Theater)",
-            "Das Schillertheater (Heiner Mller  Postdramatisches Theater)",
-            "Das Metropol-Theater (Heiner Mller  Postdramatisches Theater)",
-            "Die Komische Oper (Heiner Mller  Postdramatisches Theater)"
+            "Das Berliner Ensemble",
+            "Das Schillertheater",
+            "Das Metropol-Theater",
+            "Die Komische Oper"
           ],
           "answerIndex": 0,
           "explanation": "Müller übernahm 1992 die künstlerische Leitung des Berliner Ensembles und führte Brechts Erbe in die Postmoderne.",
@@ -16960,10 +16964,10 @@
         {
           "prompt": "Welche Sprecherin verkündet in der Hamletmaschine den Aufstand der Unterdrückten mit den Worten «Hier spricht Elektra»?",
           "options": [
-            "Ophelia (Heiner Mller  Postdramatisches Theater)",
-            "Gertrud (Heiner Mller  Postdramatisches Theater)",
-            "Klytämnestra (Heiner Mller  Postdramatisches Theater)",
-            "Desdemona (Heiner Mller  Postdramatisches Theater)"
+            "Ophelia",
+            "Gertrud",
+            "Klytämnestra",
+            "Desdemona"
           ],
           "answerIndex": 0,
           "explanation": "Ophelia zerreißt ihre Kleider und verwandelt sich in Elektra, die Rächerin im Namen aller geknechteten Frauen.",
@@ -17005,10 +17009,10 @@
         {
           "prompt": "Was ist das definierende Merkmal des deutschen Regietheaters im Vergleich zur angelsächsischen Werktreue?",
           "options": [
-            "Die strikte Weigerung, moderne Kleidung auf der Bühne zu tragen. (Deutsches Regietheater)",
-            "Die schöpferische Autonomie des Regisseurs, der den dramatischen Text als offenes Material für eine zeitgenössische ästhetische Neuinterpretation nutzt. (Deutsches Regietheater)",
-            "Die Verpflichtung, jedes Theaterstück in voller Originallänge ohne Streichung aufzuführen. (Deutsches Regietheater)",
-            "Die Beschränkung auf Laienschauspieler aus der Nachbarschaft. (Deutsches Regietheater)"
+            "Die strikte Weigerung, moderne Kleidung auf der Bühne zu tragen.",
+            "Die schöpferische Autonomie des Regisseurs, der den dramatischen Text als offenes Material für eine zeitgenössische ästhetische Neuinterpretation nutzt.",
+            "Die Verpflichtung, jedes Theaterstück in voller Originallänge ohne Streichung aufzuführen.",
+            "Die Beschränkung auf Laienschauspieler aus der Nachbarschaft."
           ],
           "answerIndex": 1,
           "explanation": "Regietheater emanzipiert die Inszenierung zu einem eigenständigen Kunstwerk, das mit dem Ausgangstext kritisch in Dialog tritt."
@@ -17020,10 +17024,10 @@
         {
           "prompt": "Welche Berliner Spielstätte wurde unter der Intendanz von Frank Castorf (1992–2017) zum Epizentrum des radikalen europäischen Avantgardetheaters?",
           "options": [
-            "Die Volksbühne am Rosa-Luxemburg-Platz (Deutsches Regietheater)",
-            "Das Theater des Westens (Deutsches Regietheater)",
-            "Der Friedrichstadt-Palast (Deutsches Regietheater)",
-            "Die Staatsoper Unter den Linden (Deutsches Regietheater)"
+            "Die Volksbühne am Rosa-Luxemburg-Platz",
+            "Das Theater des Westens",
+            "Der Friedrichstadt-Palast",
+            "Die Staatsoper Unter den Linden"
           ],
           "answerIndex": 0,
           "explanation": "Die Volksbühne am Rosa-Luxemburg-Platz prägte mit Castorf, Marthaler, Pollesch und Schlingensief eine Ära der Theatergeschichte."
@@ -17035,10 +17039,10 @@
         {
           "prompt": "Welcher Bühnenbildner schuf für Frank Castorfs Inszenierungen die berühmten begehbaren Bungalows, Wohncontainer und das ikonische Rad-Logo der Volksbühne?",
           "options": [
-            "Bert Neumann (Deutsches Regietheater)",
-            "Karl Friedrich Schinkel (Deutsches Regietheater)",
-            "Walter Gropius (Deutsches Regietheater)",
-            "Joseph Beuys (Deutsches Regietheater)"
+            "Bert Neumann",
+            "Karl Friedrich Schinkel",
+            "Walter Gropius",
+            "Joseph Beuys"
           ],
           "answerIndex": 0,
           "explanation": "Bert Neumann prägte mit seinen wegweisenden Rauminstallationen und Pop-Art-Zitaten die visuelle Identität der Volksbühne.",
@@ -17047,10 +17051,10 @@
         {
           "prompt": "Welches traditionsreiche Berliner Theater leitet Thomas Ostermeier seit 1999 als künstlerischer Leiter?",
           "options": [
-            "Die Schaubühne am Lehniner Platz (Deutsches Regietheater)",
-            "Das Schlosspark Theater (Deutsches Regietheater)",
-            "Das Deutsche Theater Berlin (Deutsches Regietheater)",
-            "Das Renaissance-Theater (Deutsches Regietheater)"
+            "Die Schaubühne am Lehniner Platz",
+            "Das Schlosspark Theater",
+            "Das Deutsche Theater Berlin",
+            "Das Renaissance-Theater"
           ],
           "answerIndex": 0,
           "explanation": "Thomas Ostermeier machte die Schaubühne zu einem der international am meisten tourenden Theaterensembles Europas.",
@@ -17092,10 +17096,10 @@
         {
           "prompt": "Welches dramaturgische Konzept prägte Elfriede Jelinek für ihre theatralen Textkompositionen?",
           "options": [
-            "Klassische bürgerliche Zimmergespräche mit genauer Regieanweisung zu Kaffeetassen. (Zeitgenssische deutschsprachige Dramatik)",
-            "Polyphone «Sprachflächen», in denen Chöre, Ideologien und Sprachmuster ohne feste Rollenzuweisung aufeinandertreffen. (Zeitgenssische deutschsprachige Dramatik)",
-            "Stumme Pantomimen mit Einblendung von Stummfilm-Zwischentiteln. (Zeitgenssische deutschsprachige Dramatik)",
-            "Versdramen im spanischen Romanzenversmaß. (Zeitgenssische deutschsprachige Dramatik)"
+            "Klassische bürgerliche Zimmergespräche mit genauer Regieanweisung zu Kaffeetassen.",
+            "Polyphone «Sprachflächen», in denen Chöre, Ideologien und Sprachmuster ohne feste Rollenzuweisung aufeinandertreffen.",
+            "Stumme Pantomimen mit Einblendung von Stummfilm-Zwischentiteln.",
+            "Versdramen im spanischen Romanzenversmaß."
           ],
           "answerIndex": 1,
           "explanation": "Jelineks Sprachflächen verweigern traditionelle Rollenmonologe und fungieren als musikalisch-assoziative Klang- und Denkströme."
@@ -17107,10 +17111,10 @@
         {
           "prompt": "Welche narrative Technik setzt Roland Schimmelpfennig in Stücken wie Der goldene Drache ein?",
           "options": [
-            "Die Schauspieler sprechen die Regieanweisungen und ihre eigenen inneren Vorgänge in dritter Person laut aus. (Zeitgenssische deutschsprachige Dramatik)",
-            "Alle Darsteller müssen während des gesamten Stücks mit dem Rücken zum Publikum stehen. (Zeitgenssische deutschsprachige Dramatik)",
-            "Der Text wird ausschließlich als Morsecode über Lautsprecher übertragen. (Zeitgenssische deutschsprachige Dramatik)",
-            "Die Zuschauer müssen die Dialoge selbst von Karten ablesen. (Zeitgenssische deutschsprachige Dramatik)"
+            "Die Schauspieler sprechen die Regieanweisungen und ihre eigenen inneren Vorgänge in dritter Person laut aus.",
+            "Alle Darsteller müssen während des gesamten Stücks mit dem Rücken zum Publikum stehen.",
+            "Der Text wird ausschließlich als Morsecode über Lautsprecher übertragen.",
+            "Die Zuschauer müssen die Dialoge selbst von Karten ablesen."
           ],
           "answerIndex": 0,
           "explanation": "Schimmelpfennig lässt Schauspieler zwischen Spiel und distanzierter dritter Erzählerperspektive virtuos hin- und hergleiten."
@@ -17122,10 +17126,10 @@
         {
           "prompt": "Für welches Werk über antike Tragödie, Aischylos und die europäische Flüchtlingskrise erhielt Elfriede Jelinek breite internationale Resonanz?",
           "options": [
-            "Die Schutzbefohlenen (Zeitgenssische deutschsprachige Dramatik)",
-            "Die Klavierspielerin (Zeitgenssische deutschsprachige Dramatik)",
-            "Lust (Zeitgenssische deutschsprachige Dramatik)",
-            "Wolken.Heim. (Zeitgenssische deutschsprachige Dramatik)"
+            "Die Schutzbefohlenen",
+            "Die Klavierspielerin",
+            "Lust",
+            "Wolken.Heim."
           ],
           "answerIndex": 0,
           "explanation": "*Die Schutzbefohlenen* verwebt Aischylos' *Hiketiden* (Die Schutzflehenden) mit der Situation geflüchteter Menschen in Wien.",
@@ -17134,10 +17138,10 @@
         {
           "prompt": "Welche Dramatikerin verfasste das vielbeachtete Stationendrama Unschuld (2003) über Verlusterfahrungen und Schuldgefühle am Rande einer Großstadt?",
           "options": [
-            "Dea Loher (Zeitgenssische deutschsprachige Dramatik)",
-            "Christa Wolf (Zeitgenssische deutschsprachige Dramatik)",
-            "Ingeborg Bachmann (Zeitgenssische deutschsprachige Dramatik)",
-            "Herta Müller (Zeitgenssische deutschsprachige Dramatik)"
+            "Dea Loher",
+            "Christa Wolf",
+            "Ingeborg Bachmann",
+            "Herta Müller"
           ],
           "answerIndex": 0,
           "explanation": "Dea Loher schuf mit *Unschuld* ein polyphones Requiem auf menschliche Einsamkeit und das Ringen um Sinn.",
@@ -17179,10 +17183,10 @@
         {
           "prompt": "Welche statische Ingenieursleistung erlaubte es den gotischen Baumeistern des Kölner Doms, massive Steinmauern durch riesige Fensterflächen zu ersetzen?",
           "options": [
-            "Das Zusammenspiel von Kreuzrippengewölbe, Bündelpfeilern und dem äußeren Strebewerk mit Strebebögen. (Gotik  Der Klner Dom)",
-            "Die Verwendung von unterirdischen hydraulischen Stoßdämpfern aus Bronze. (Gotik  Der Klner Dom)",
-            "Der Einbau von Stahlbetonträgern im Fundament. (Gotik  Der Klner Dom)",
-            "Die ausschließliche Dachabdeckung mit Holzschindeln. (Gotik  Der Klner Dom)"
+            "Das Zusammenspiel von Kreuzrippengewölbe, Bündelpfeilern und dem äußeren Strebewerk mit Strebebögen.",
+            "Die Verwendung von unterirdischen hydraulischen Stoßdämpfern aus Bronze.",
+            "Der Einbau von Stahlbetonträgern im Fundament.",
+            "Die ausschließliche Dachabdeckung mit Holzschindeln."
           ],
           "answerIndex": 0,
           "explanation": "Das gotische Skelettsystem leitet Lasten punktförmig über Rippen und Strebebögen ab, sodass Wände zu Fenstern werden konnten."
@@ -17194,10 +17198,10 @@
         {
           "prompt": "Welcher herausragende mittelalterliche Goldschatz im Kölner Dom veranlasste Erzbischof Konrad von Hochstaden 1248 zum monumentalen Dombau?",
           "options": [
-            "Die Eiserne Krone der Langobarden (Gotik  Der Klner Dom)",
-            "Der Dreikönigenschrein von Nikolaus von Verdun (Gotik  Der Klner Dom)",
-            "Das Reichsschwert Karls des Großen (Gotik  Der Klner Dom)",
-            "Das Turiner Grabtuch (Gotik  Der Klner Dom)"
+            "Die Eiserne Krone der Langobarden",
+            "Der Dreikönigenschrein von Nikolaus von Verdun",
+            "Das Reichsschwert Karls des Großen",
+            "Das Turiner Grabtuch"
           ],
           "answerIndex": 1,
           "explanation": "Die Reliquien der Heiligen Drei Könige machten Köln zu einem der bedeutendsten Pilgerziele des christlichen Abendlandes."
@@ -17209,10 +17213,10 @@
         {
           "prompt": "Wie viele Jahre vergingen von der Grundsteinlegung des Kölner Doms im Jahr 1248 bis zur feierlichen Vollendung 1880?",
           "options": [
-            "632 Jahre (Gotik  Der Klner Dom)",
-            "120 Jahre (Gotik  Der Klner Dom)",
-            "350 Jahre (Gotik  Der Klner Dom)",
-            "890 Jahre (Gotik  Der Klner Dom)"
+            "632 Jahre",
+            "120 Jahre",
+            "350 Jahre",
+            "890 Jahre"
           ],
           "answerIndex": 0,
           "explanation": "Vom Baubeginn 1248 bis zur Fertigstellung unter Kaiser Wilhelm I. im Jahr 1880 vergingen 632 Jahre.",
@@ -17221,10 +17225,10 @@
         {
           "prompt": "Welcher weltberühmte zeitgenössische Künstler schuf 2007 das neue Südquerhausfenster des Kölner Doms aus 11.263 farbigen Glasquadraten?",
           "options": [
-            "Gerhard Richter (Gotik  Der Klner Dom)",
-            "Anselm Kiefer (Gotik  Der Klner Dom)",
-            "Georg Baselitz (Gotik  Der Klner Dom)",
-            "Sigmar Polke (Gotik  Der Klner Dom)"
+            "Gerhard Richter",
+            "Anselm Kiefer",
+            "Georg Baselitz",
+            "Sigmar Polke"
           ],
           "answerIndex": 0,
           "explanation": "Gerhard Richter gestaltete das faszinierende Richter-Fenster mit zufallsgenerierten Farbquadraten.",
@@ -17353,10 +17357,10 @@
         {
           "prompt": "Welches antike Vorbild inspirierte die zentrale, von außen nicht sichtbare Rotunde im Inneren von Schinkels Altem Museum in Berlin?",
           "options": [
-            "Das römische Pantheon (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Der Koloss von Rhodos (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Die ägyptischen Pyramiden von Gizeh (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Das antike Amphitheater von Verona (Karl Friedrich Schinkel  Der Berliner Klassizismus)"
+            "Das römische Pantheon",
+            "Der Koloss von Rhodos",
+            "Die ägyptischen Pyramiden von Gizeh",
+            "Das antike Amphitheater von Verona"
           ],
           "answerIndex": 0,
           "explanation": "Schinkel verbarg hinter der rechteckigen Kolonnadenfassade eine lichtdurchflutete Rotunde nach dem Vorbild des Pantheons."
@@ -17368,10 +17372,10 @@
         {
           "prompt": "Welche bauliche Innovation machte Schinkels Berliner Bauakademie (1836) zu einem Meilenstein der europäischen Architekturgeschichte?",
           "options": [
-            "Der Verzicht auf historisierende Stuckfassaden zugunsten eines unverputzten, funktionalen Backstein-Skelettbaus mit Rasterstruktur. (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Die Errichtung komplett unter der Wasseroberfläche der Spree. (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Die ausschließliche Verwendung von importiertem Carrara-Marmor. (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Die Gestaltung als gotische Kathedrale mit Glockentürmen. (Karl Friedrich Schinkel  Der Berliner Klassizismus)"
+            "Der Verzicht auf historisierende Stuckfassaden zugunsten eines unverputzten, funktionalen Backstein-Skelettbaus mit Rasterstruktur.",
+            "Die Errichtung komplett unter der Wasseroberfläche der Spree.",
+            "Die ausschließliche Verwendung von importiertem Carrara-Marmor.",
+            "Die Gestaltung als gotische Kathedrale mit Glockentürmen."
           ],
           "answerIndex": 0,
           "explanation": "Die Bauakademie brach mit dem Diktat der Stuckverkleidung und zeigte die konstruktive Wahrheit des roten Backsteins."
@@ -17383,10 +17387,10 @@
         {
           "prompt": "Wie viele monumentale ionische Sandsteinsäulen bilden die berühmte Kolonnadenfront des Alten Museums in Berlin?",
           "options": [
-            "18 Säulen (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "6 Säulen (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "100 Säulen (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "32 Säulen (Karl Friedrich Schinkel  Der Berliner Klassizismus)"
+            "18 Säulen",
+            "6 Säulen",
+            "100 Säulen",
+            "32 Säulen"
           ],
           "answerIndex": 0,
           "explanation": "Die Schaufassade zum Lustgarten wird von 18 imposanten ionischen Säulen getragen.",
@@ -17395,10 +17399,10 @@
         {
           "prompt": "Welches neoklassizistische Schinkel-Bauwerk bildet zusammen mit dem Deutschen und Französischen Dom das weltberühmte Ensemble auf dem Gendarmenmarkt?",
           "options": [
-            "Das Konzerthaus Berlin (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Das Brandenburger Tor (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Das Schloss Charlottenburg (Karl Friedrich Schinkel  Der Berliner Klassizismus)",
-            "Die Berliner Siegessäule (Karl Friedrich Schinkel  Der Berliner Klassizismus)"
+            "Das Konzerthaus Berlin",
+            "Das Brandenburger Tor",
+            "Das Schloss Charlottenburg",
+            "Die Berliner Siegessäule"
           ],
           "answerIndex": 0,
           "explanation": "Schinkels Schauspielhaus (heute Konzerthaus Berlin) krönt den Gendarmenmarkt zwischen den beiden Domen.",
@@ -17440,10 +17444,10 @@
         {
           "prompt": "Welche bautechnische Pionierleistung zeichnete das 1925/26 von Walter Gropius errichtete Bauhausgebäude in Dessau aus?",
           "options": [
-            "Massive Burgmauern aus Feldsteinen ohne Fenster. (Das Staatliche Bauhaus  Die Moderne)",
+            "Massive Burgmauern aus Feldsteinen ohne Fenster.",
             "Die durchgehende Glas-Vorhangfassade (Curtain Wall)",
-            "Ein vergoldetes barockes Kuppeldach. (Das Staatliche Bauhaus  Die Moderne)",
-            "Spitzbogige gotische Rippengewölbe aus Eichenholz. (Das Staatliche Bauhaus  Die Moderne)"
+            "Ein vergoldetes barockes Kuppeldach.",
+            "Spitzbogige gotische Rippengewölbe aus Eichenholz."
           ],
           "answerIndex": 1,
           "explanation": "Die Curtain Wall in Dessau revolutionierte das Bauen, indem Wände zu leichten, transparenten Glashäuten wurden."
@@ -17455,10 +17459,10 @@
         {
           "prompt": "Welcher berühmte Architektursatz fasst die radikal reduzierte Stahl-Glas-Ästhetik von Ludwig Mies van der Rohe zusammen?",
           "options": [
-            "«Weniger ist mehr» (Das Staatliche Bauhaus  Die Moderne)",
-            "«Das Ornament ist das Ziel aller Kunst» (Das Staatliche Bauhaus  Die Moderne)",
-            "«Mehr Gold, mehr Pracht» (Das Staatliche Bauhaus  Die Moderne)",
-            "«Bauen ohne Vernunft» (Das Staatliche Bauhaus  Die Moderne)"
+            "«Weniger ist mehr»",
+            "«Das Ornament ist das Ziel aller Kunst»",
+            "«Mehr Gold, mehr Pracht»",
+            "«Bauen ohne Vernunft»"
           ],
           "answerIndex": 0,
           "explanation": "Mies van der Rohe reduzierte Architektur auf das absolut Wesentliche: Raum, Struktur und Materialität."
@@ -17470,10 +17474,10 @@
         {
           "prompt": "In welcher thüringischen Stadt wurde das Staatliche Bauhaus 1919 ursprünglich gegründet?",
           "options": [
-            "Weimar (Das Staatliche Bauhaus  Die Moderne)",
-            "Dessau (Das Staatliche Bauhaus  Die Moderne)",
-            "Berlin (Das Staatliche Bauhaus  Die Moderne)",
-            "Erfurt (Das Staatliche Bauhaus  Die Moderne)"
+            "Weimar",
+            "Dessau",
+            "Berlin",
+            "Erfurt"
           ],
           "answerIndex": 0,
           "explanation": "Das Bauhaus wurde 1919 in Weimar gegründet, zog 1925 nach Dessau und verbrachte seine letzte Phase 1932/33 in Berlin.",
@@ -17482,10 +17486,10 @@
         {
           "prompt": "Welches berühmte Museumsbauwerk am Berliner Kulturforum entwarf Ludwig Mies van der Rohe kurz vor seinem Tod (eröffnet 1968)?",
           "options": [
-            "Die Neue Nationalgalerie (Das Staatliche Bauhaus  Die Moderne)",
-            "Das Bode-Museum (Das Staatliche Bauhaus  Die Moderne)",
-            "Das Jüdische Museum (Das Staatliche Bauhaus  Die Moderne)",
-            "Das Humboldt Forum (Das Staatliche Bauhaus  Die Moderne)"
+            "Die Neue Nationalgalerie",
+            "Das Bode-Museum",
+            "Das Jüdische Museum",
+            "Das Humboldt Forum"
           ],
           "answerIndex": 0,
           "explanation": "Die Neue Nationalgalerie gilt als Mies van der Rohes Vermächtnis des universellen, lichtdurchfluteten Raums.",
@@ -17527,10 +17531,10 @@
         {
           "prompt": "Welches biologische und physikalische Naturprinzip inspirierte Frei Otto bei der Entwicklung seiner kühnen Leichtbau-Zeltdächer?",
           "options": [
-            "Die Minimalflächenbildung von Seifenblasenfilmen und die Zugkräfte von Spinnennetzen. (Zeitgenssische nachhaltige Architektur)",
-            "Die Schalenform von Schildkrötenpanzern aus Granit. (Zeitgenssische nachhaltige Architektur)",
-            "Das Wachstum von Kristallstrukturen in Eisbergen. (Zeitgenssische nachhaltige Architektur)",
-            "Die Schwere von Meteoritengestein. (Zeitgenssische nachhaltige Architektur)"
+            "Die Minimalflächenbildung von Seifenblasenfilmen und die Zugkräfte von Spinnennetzen.",
+            "Die Schalenform von Schildkrötenpanzern aus Granit.",
+            "Das Wachstum von Kristallstrukturen in Eisbergen.",
+            "Die Schwere von Meteoritengestein."
           ],
           "answerIndex": 0,
           "explanation": "Frei Otto experimentierte mit Seifenblasenmodellen, um statisch optimale Formen mit minimalem Materialeinsatz zu berechnen."
@@ -17542,10 +17546,10 @@
         {
           "prompt": "Welche ökologische und energetische Funktion erfüllt der zentrale Lichttrichter (Spiegelkegel) in der Berliner Reichstagskuppel von Norman Foster?",
           "options": [
-            "Er dient als Kamin für Kohleöfen im Keller. (Zeitgenssische nachhaltige Architektur)",
-            "Er lenkt blendfreies Tageslicht tief in den Bundestag-Plenarsaal und entlüftet verbrauchte Luft über einen thermischen Aufwind. (Zeitgenssische nachhaltige Architektur)",
-            "Er sammelt Regenwasser für einen Springbrunnen auf dem Dach. (Zeitgenssische nachhaltige Architektur)",
-            "Er erzeugt Radiowellen für die Übertragung von Parlamentsdebatten. (Zeitgenssische nachhaltige Architektur)"
+            "Er dient als Kamin für Kohleöfen im Keller.",
+            "Er lenkt blendfreies Tageslicht tief in den Bundestag-Plenarsaal und entlüftet verbrauchte Luft über einen thermischen Aufwind.",
+            "Er sammelt Regenwasser für einen Springbrunnen auf dem Dach.",
+            "Er erzeugt Radiowellen für die Übertragung von Parlamentsdebatten."
           ],
           "answerIndex": 1,
           "explanation": "Der Trichter reflektiert natürliches Tageslicht nach unten und transportiert warme Abluft energiesparend nach oben ab."
@@ -17557,10 +17561,10 @@
         {
           "prompt": "Zu welchem internationalen Großereignis wurde das ikonische Zeltdach des Münchner Olympiastadions 1972 errichtet?",
           "options": [
-            "Die XX. Olympischen Sommerspiele in München 1972 (Zeitgenssische nachhaltige Architektur)",
-            "Die Fußball-Weltmeisterschaft 1954 (Zeitgenssische nachhaltige Architektur)",
-            "Die Bundesgartenschau 1960 (Zeitgenssische nachhaltige Architektur)",
-            "Die Weltausstellung Expo 2000 (Zeitgenssische nachhaltige Architektur)"
+            "Die XX. Olympischen Sommerspiele in München 1972",
+            "Die Fußball-Weltmeisterschaft 1954",
+            "Die Bundesgartenschau 1960",
+            "Die Weltausstellung Expo 2000"
           ],
           "answerIndex": 0,
           "explanation": "Das Stadion wurde für die Olympischen Spiele 1972 erbaut und setzte ein Zeichen für Leichtigkeit und Demokratie.",
@@ -17570,9 +17574,9 @@
           "prompt": "Aus welchem Material bestehen die transparenten Eindeckungsplatten des Münchner Olympiadachs?",
           "options": [
             "Acrylglas (Plexiglas)",
-            "Gusseisenplatten (Zeitgenssische nachhaltige Architektur)",
-            "Undurchsichtige Teerpappe (Zeitgenssische nachhaltige Architektur)",
-            "Marmorfliesen (Zeitgenssische nachhaltige Architektur)"
+            "Gusseisenplatten",
+            "Undurchsichtige Teerpappe",
+            "Marmorfliesen"
           ],
           "answerIndex": 0,
           "explanation": "Vorgefertigte Acrylglasplatten wurden auf das Stahlseilnetz montiert, um Transparenz und Leichtigkeit zu garantieren.",
@@ -17641,10 +17645,10 @@
         {
           "prompt": "Wie heißt das offizielle Dokument, das ein neuer Botschafter dem Bundespräsidenten überreicht?",
           "options": [
-            "Die Quittung über Dienstantritt (Diplomatic Credentials)",
-            "Das interne Dienstzeugnis (Diplomatic Credentials)",
-            "Der Passierschein (Diplomatic Credentials)",
-            "Das Beglaubigungsschreiben (Diplomatic Credentials)"
+            "Die Quittung über Dienstantritt",
+            "Das interne Dienstzeugnis",
+            "Der Passierschein",
+            "Das Beglaubigungsschreiben"
           ],
           "answerIndex": 3,
           "explanation": "Das \"Beglaubigungsschreiben\" (Letters of Credence) bevollmächtigt den Botschafter offiziell.",
@@ -17724,10 +17728,10 @@
         {
           "prompt": "Was bedeutet die \"Hinterlegung der Ratifikationsurkunde\" im Völkerrecht?",
           "options": [
-            "Die Ablehnung aller weiteren Verhandlungen. (Multilateral Treaties)",
-            "Das Verbrennen geheimer Akten. (Multilateral Treaties)",
-            "Die offizielle Übergabe des rechtskräftig unterzeichneten Vertrags an die Verwahrstelle zur Erlangung internationaler Gültigkeit. (Multilateral Treaties)",
-            "Ein formloses Telefongespräch zwischen Abgeordneten. (Multilateral Treaties)"
+            "Die Ablehnung aller weiteren Verhandlungen.",
+            "Das Verbrennen geheimer Akten.",
+            "Die offizielle Übergabe des rechtskräftig unterzeichneten Vertrags an die Verwahrstelle zur Erlangung internationaler Gültigkeit.",
+            "Ein formloses Telefongespräch zwischen Abgeordneten."
           ],
           "answerIndex": 2,
           "explanation": "Die Hinterlegung macht die Ratifizierung international verbindlich.",
@@ -17890,10 +17894,10 @@
         {
           "prompt": "Was besagt das \"Weltrechtsprinzip\" im Völkerstrafrecht?",
           "options": [
-            "Dass schwerste Verbrechen gegen die Menschlichkeit weltweit von nationalen Gerichten verfolgt werden können. (International Sanctions)",
-            "Dass weltweiter Zoll an allen Grenzen entfällt. (International Sanctions)",
-            "Dass Diplomaten keine Steuern zahlen. (International Sanctions)",
-            "Dass alle Gesetze in allen Sprachen identisch formuliert sein müssen. (International Sanctions)"
+            "Dass schwerste Verbrechen gegen die Menschlichkeit weltweit von nationalen Gerichten verfolgt werden können.",
+            "Dass weltweiter Zoll an allen Grenzen entfällt.",
+            "Dass Diplomaten keine Steuern zahlen.",
+            "Dass alle Gesetze in allen Sprachen identisch formuliert sein müssen."
           ],
           "answerIndex": 0,
           "explanation": "Das Weltrechtsprinzip ermöglicht die Verfolgung von Völkerrechtsverbrechen weltweit.",

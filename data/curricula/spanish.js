@@ -482,10 +482,10 @@
         {
           "prompt": "It's 9 AM. Which greeting fits?",
           "options": [
-            "Adiós (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)",
-            "Buenos días (Spanish Phonics Single r vs Trilled rr)"
+            "Adiós",
+            "Buenas noches",
+            "Buenas tardes",
+            "Buenos días"
           ],
           "answerIndex": 3,
           "explanation": "Buenos días is used in the morning."
@@ -493,10 +493,10 @@
         {
           "prompt": "It's 9 PM. Which greeting fits?",
           "options": [
-            "Hola (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Buenos días (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)"
+            "Hola",
+            "Buenas noches",
+            "Buenos días",
+            "Buenas tardes"
           ],
           "answerIndex": 1,
           "explanation": "Buenas noches covers evening and night."
@@ -504,10 +504,10 @@
         {
           "prompt": "Which greeting works at any time of day?",
           "options": [
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Buenos días (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)",
-            "Hola (Spanish Phonics Single r vs Trilled rr)"
+            "Buenas noches",
+            "Buenos días",
+            "Buenas tardes",
+            "Hola"
           ],
           "answerIndex": 3,
           "explanation": "Hola is time-independent."
@@ -515,10 +515,10 @@
         {
           "prompt": "How do you informally ask 'How are you?'",
           "options": [
-            "¿Qué es esto? (Spanish Phonics Single r vs Trilled rr)",
-            "¿Cómo está usted? (Spanish Phonics Single r vs Trilled rr)",
-            "¿Cómo se llama? (Spanish Phonics Single r vs Trilled rr)",
-            "¿Cómo estás? (Spanish Phonics Single r vs Trilled rr)"
+            "¿Qué es esto?",
+            "¿Cómo está usted?",
+            "¿Cómo se llama?",
+            "¿Cómo estás?"
           ],
           "answerIndex": 3,
           "explanation": "¿Cómo estás? is the informal (tú) form."
@@ -530,10 +530,10 @@
         {
           "prompt": "Which farewell most strongly implies 'we will meet again soon'?",
           "options": [
-            "Mucho gusto (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Adiós (Spanish Phonics Single r vs Trilled rr)",
-            "Hasta pronto (Spanish Phonics Single r vs Trilled rr)"
+            "Mucho gusto",
+            "Buenas noches",
+            "Adiós",
+            "Hasta pronto"
           ],
           "answerIndex": 3,
           "explanation": "Hasta pronto = \"see you soon.\""
@@ -541,10 +541,10 @@
         {
           "prompt": "Translate: 'Nice to meet you.'",
           "options": [
-            "¿Cómo estás? (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)",
-            "Hasta luego (Spanish Phonics Single r vs Trilled rr)",
-            "Mucho gusto (Spanish Phonics Single r vs Trilled rr)"
+            "¿Cómo estás?",
+            "Buenas tardes",
+            "Hasta luego",
+            "Mucho gusto"
           ],
           "answerIndex": 3,
           "explanation": "Mucho gusto is the standard \"nice to meet you.\""
@@ -552,10 +552,10 @@
         {
           "prompt": "Which verb is used in ¿Cómo estás? — describing a temporary state?",
           "options": [
-            "Tener (Spanish Phonics Single r vs Trilled rr)",
-            "Ser (Spanish Phonics Single r vs Trilled rr)",
-            "Ir (Spanish Phonics Single r vs Trilled rr)",
-            "Estar (Spanish Phonics Single r vs Trilled rr)"
+            "Tener",
+            "Ser",
+            "Ir",
+            "Estar"
           ],
           "answerIndex": 3,
           "explanation": "Estar is used for states/conditions like how someone is feeling."
@@ -567,10 +567,10 @@
         {
           "prompt": "Select the correct morning greeting.",
           "options": [
-            "Buenos días (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Adiós (Spanish Phonics Single r vs Trilled rr)"
+            "Buenos días",
+            "Buenas tardes",
+            "Buenas noches",
+            "Adiós"
           ],
           "answerIndex": 0,
           "explanation": "Buenos días = good morning.",
@@ -579,10 +579,10 @@
         {
           "prompt": "Translate: 'How are you?' (informal)",
           "options": [
-            "¿Cómo se llama? (Spanish Phonics Single r vs Trilled rr)",
-            "¿Qué tal usted? (Spanish Phonics Single r vs Trilled rr)",
-            "¿Cómo está usted? (Spanish Phonics Single r vs Trilled rr)",
-            "¿Cómo estás? (Spanish Phonics Single r vs Trilled rr)"
+            "¿Cómo se llama?",
+            "¿Qué tal usted?",
+            "¿Cómo está usted?",
+            "¿Cómo estás?"
           ],
           "answerIndex": 3,
           "explanation": "¿Cómo estás? is informal, using tú.",
@@ -591,10 +591,10 @@
         {
           "prompt": "Which response means 'so-so'?",
           "options": [
-            "Gracias (Spanish Phonics Single r vs Trilled rr)",
-            "Bien (Spanish Phonics Single r vs Trilled rr)",
-            "Más o menos (Spanish Phonics Single r vs Trilled rr)",
-            "Mal (Spanish Phonics Single r vs Trilled rr)"
+            "Gracias",
+            "Bien",
+            "Más o menos",
+            "Mal"
           ],
           "answerIndex": 2,
           "explanation": "Más o menos = so-so / more or less.",
@@ -603,10 +603,10 @@
         {
           "prompt": "Which greeting covers both 'good evening' and 'good night'?",
           "options": [
-            "Buenos días (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Hola (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)"
+            "Buenos días",
+            "Buenas noches",
+            "Hola",
+            "Buenas tardes"
           ],
           "answerIndex": 1,
           "explanation": "Buenas noches serves both meanings.",
@@ -615,10 +615,10 @@
         {
           "prompt": "Translate: 'Nice to meet you.'",
           "options": [
-            "Mucho gusto (Spanish Phonics Single r vs Trilled rr)",
-            "Hasta luego (Spanish Phonics Single r vs Trilled rr)",
-            "¿Y tú? (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas tardes (Spanish Phonics Single r vs Trilled rr)"
+            "Mucho gusto",
+            "Hasta luego",
+            "¿Y tú?",
+            "Buenas tardes"
           ],
           "answerIndex": 0,
           "explanation": "Mucho gusto = nice to meet you.",
@@ -627,10 +627,10 @@
         {
           "prompt": "Which farewell is a casual, Italian-derived word common across Latin America?",
           "options": [
-            "Adiós (Spanish Phonics Single r vs Trilled rr)",
-            "Hasta pronto (Spanish Phonics Single r vs Trilled rr)",
-            "Buenas noches (Spanish Phonics Single r vs Trilled rr)",
-            "Chao (Spanish Phonics Single r vs Trilled rr)"
+            "Adiós",
+            "Hasta pronto",
+            "Buenas noches",
+            "Chao"
           ],
           "answerIndex": 3,
           "explanation": "Chao is borrowed from Italian ciao and widely used casually.",
@@ -702,10 +702,10 @@
         {
           "prompt": "El café ___ frío. (The coffee is cold.)",
           "options": [
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "están (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "son (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "es",
+            "está",
+            "están",
+            "son"
           ],
           "answerIndex": 1,
           "explanation": "Temperature is a changeable condition, so estar is used."
@@ -713,10 +713,10 @@
         {
           "prompt": "Ella ___ alta. (She is tall — an inherent trait.)",
           "options": [
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "estar (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "ser (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "es",
+            "está",
+            "estar",
+            "ser"
           ],
           "answerIndex": 0,
           "explanation": "Physical characteristics use ser."
@@ -724,10 +724,10 @@
         {
           "prompt": "Yo ___ cansado. (I am tired.)",
           "options": [
-            "soy (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "estoy (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "soy",
+            "estoy",
+            "está",
+            "es"
           ],
           "answerIndex": 1,
           "explanation": "Tiredness is a temporary state — estar."
@@ -735,10 +735,10 @@
         {
           "prompt": "Madrid ___ en España. (Madrid is in Spain.)",
           "options": [
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "son (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "ser (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "es",
+            "está",
+            "son",
+            "ser"
           ],
           "answerIndex": 1,
           "explanation": "Location always uses estar."
@@ -750,10 +750,10 @@
         {
           "prompt": "Hoy ___ lunes. (Today is Monday.)",
           "options": [
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "son (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "están (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "está",
+            "son",
+            "están",
+            "es"
           ],
           "answerIndex": 3,
           "explanation": "Dates and days of the week use ser."
@@ -761,10 +761,10 @@
         {
           "prompt": "Which of these correctly uses ser for a profession?",
           "options": [
-            "Yo soy estudiante. (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Yo está estudiante. (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Yo son estudiante. (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Yo estoy estudiante. (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "Yo soy estudiante.",
+            "Yo está estudiante.",
+            "Yo son estudiante.",
+            "Yo estoy estudiante."
           ],
           "answerIndex": 0,
           "explanation": "Profession/identity uses ser: soy estudiante."
@@ -772,10 +772,10 @@
         {
           "prompt": "Why is El café está frío correct rather than es frío?",
           "options": [
-            "Because temperature is a changeable state, not a defining identity (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Because está is more formal (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "There is no difference; both are equally correct (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Because coffee is always cold by definition (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "Because temperature is a changeable state, not a defining identity",
+            "Because está is more formal",
+            "There is no difference; both are equally correct",
+            "Because coffee is always cold by definition"
           ],
           "answerIndex": 0,
           "explanation": "Temperature can change without the coffee stopping being coffee, so it takes estar."
@@ -787,10 +787,10 @@
         {
           "prompt": "El café ___ frío.",
           "options": [
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "son (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "ser (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "es",
+            "son",
+            "ser",
+            "está"
           ],
           "answerIndex": 3,
           "explanation": "Changeable condition → estar.",
@@ -799,10 +799,10 @@
         {
           "prompt": "Yo ___ estudiante.",
           "options": [
-            "está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "soy (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "estoy (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "está",
+            "es",
+            "soy",
+            "estoy"
           ],
           "answerIndex": 2,
           "explanation": "Profession/identity → ser.",
@@ -811,10 +811,10 @@
         {
           "prompt": "Which verb is used for location?",
           "options": [
-            "Ser (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Estar (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Hacer (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Tener (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "Ser",
+            "Estar",
+            "Hacer",
+            "Tener"
           ],
           "answerIndex": 1,
           "explanation": "Location always takes estar.",
@@ -823,10 +823,10 @@
         {
           "prompt": "Which verb is used for dates and days of the week?",
           "options": [
-            "Ser (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Tener (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Estar (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Ir (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "Ser",
+            "Tener",
+            "Estar",
+            "Ir"
           ],
           "answerIndex": 0,
           "explanation": "Time expressions use ser (Hoy es lunes).",
@@ -835,10 +835,10 @@
         {
           "prompt": "Ella ___ cansada hoy, pero normalmente ___ muy activa. (She is tired today, but normally she is very active.)",
           "options": [
-            "es / está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "es / es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está / está (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "está / es (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "es / está",
+            "es / es",
+            "está / está",
+            "está / es"
           ],
           "answerIndex": 3,
           "explanation": "Temporary tiredness → está; inherent trait (active personality) → es.",
@@ -847,10 +847,10 @@
         {
           "prompt": "Which rule of thumb best separates the two verbs?",
           "options": [
-            "Ser is for questions, estar is for statements (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Estar is only used with people, ser only with objects (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "Ser defines what something fundamentally is; estar describes a state that could change (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)",
-            "They are fully interchangeable (Distinguish ser and estar at a basic level and use each correctly for identity versus temporary states)"
+            "Ser is for questions, estar is for statements",
+            "Estar is only used with people, ser only with objects",
+            "Ser defines what something fundamentally is; estar describes a state that could change",
+            "They are fully interchangeable"
           ],
           "answerIndex": 2,
           "explanation": "This is the core conceptual distinction between the two verbs.",
@@ -922,10 +922,10 @@
         {
           "prompt": "Yo ___ María. (I am María.)",
           "options": [
-            "soy (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "es (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "son (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "eres (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "soy",
+            "es",
+            "son",
+            "eres"
           ],
           "answerIndex": 0,
           "explanation": "soy is the yo-form of ser."
@@ -933,10 +933,10 @@
         {
           "prompt": "¿Cómo te ___? (What's your name? — informal)",
           "options": [
-            "llamas (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "llamo (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "llaman (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "llama (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "llamas",
+            "llamo",
+            "llaman",
+            "llama"
           ],
           "answerIndex": 0,
           "explanation": "te llamas matches the tú (informal you) form."
@@ -944,10 +944,10 @@
         {
           "prompt": "Tú ___ estudiante. (You are a student.)",
           "options": [
-            "eres (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "es (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "somos (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "soy (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "eres",
+            "es",
+            "somos",
+            "soy"
           ],
           "answerIndex": 0,
           "explanation": "eres is the tú-form of ser."
@@ -955,10 +955,10 @@
         {
           "prompt": "Which is an equally natural alternative to Yo soy Carlos?",
           "options": [
-            "Te llamas Carlos. (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Es Carlos. (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Somos Carlos. (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Me llamo Carlos. (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "Te llamas Carlos.",
+            "Es Carlos.",
+            "Somos Carlos.",
+            "Me llamo Carlos."
           ],
           "answerIndex": 3,
           "explanation": "Me llamo Carlos is interchangeable with Soy Carlos."
@@ -970,10 +970,10 @@
         {
           "prompt": "Ellos ___ de México. (They are from Mexico.)",
           "options": [
-            "es (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "son (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "somos (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "eres (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "es",
+            "son",
+            "somos",
+            "eres"
           ],
           "answerIndex": 1,
           "explanation": "son is the ellos-form of ser."
@@ -981,10 +981,10 @@
         {
           "prompt": "Formally ask someone their name.",
           "options": [
-            "¿Cómo te llamas? (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "¿Cómo se llama usted? (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "¿Cómo soy? (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "¿Cómo eres? (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "¿Cómo te llamas?",
+            "¿Cómo se llama usted?",
+            "¿Cómo soy?",
+            "¿Cómo eres?"
           ],
           "answerIndex": 1,
           "explanation": "¿Cómo se llama usted? is the formal version."
@@ -992,10 +992,10 @@
         {
           "prompt": "Why can Spanish speakers often drop yo, tú, él, etc.?",
           "options": [
-            "Because the verb ending already shows who's doing the action (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Because pronouns are optional decoration with no grammatical role (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Because Spanish has no subject pronouns (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Because it is considered rude to use them (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "Because the verb ending already shows who's doing the action",
+            "Because pronouns are optional decoration with no grammatical role",
+            "Because Spanish has no subject pronouns",
+            "Because it is considered rude to use them"
           ],
           "answerIndex": 0,
           "explanation": "The conjugated verb ending encodes the subject, so the pronoun is often redundant."
@@ -1007,10 +1007,10 @@
         {
           "prompt": "Yo ___ estudiante.",
           "options": [
-            "eres (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "sois (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "soy (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "es (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "eres",
+            "sois",
+            "soy",
+            "es"
           ],
           "answerIndex": 2,
           "explanation": "soy = yo-form of ser.",
@@ -1019,10 +1019,10 @@
         {
           "prompt": "Nosotros ___ de España.",
           "options": [
-            "son (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "somos (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "es (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "eres (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "son",
+            "somos",
+            "es",
+            "eres"
           ],
           "answerIndex": 1,
           "explanation": "somos = nosotros-form of ser.",
@@ -1031,10 +1031,10 @@
         {
           "prompt": "Translate: 'What is your name?' (informal)",
           "options": [
-            "¿Cómo te llamas? (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "¿Cómo se llama usted? (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "¿Cómo soy yo? (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "¿Cómo eres tú? (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "¿Cómo te llamas?",
+            "¿Cómo se llama usted?",
+            "¿Cómo soy yo?",
+            "¿Cómo eres tú?"
           ],
           "answerIndex": 0,
           "explanation": "¿Cómo te llamas? uses the informal reflexive form.",
@@ -1043,10 +1043,10 @@
         {
           "prompt": "Which of these is a fully correct, natural way to give your name?",
           "options": [
-            "Yo llama María. (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Yo llamo María. (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Me llama María. (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Me llamo María. (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "Yo llama María.",
+            "Yo llamo María.",
+            "Me llama María.",
+            "Me llamo María."
           ],
           "answerIndex": 3,
           "explanation": "Me llamo María correctly uses the reflexive first-person form.",
@@ -1055,10 +1055,10 @@
         {
           "prompt": "Ella ___ de Argentina.",
           "options": [
-            "soy (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "eres (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "es (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "somos (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "soy",
+            "eres",
+            "es",
+            "somos"
           ],
           "answerIndex": 2,
           "explanation": "es = él/ella-form of ser.",
@@ -1067,10 +1067,10 @@
         {
           "prompt": "Why are subject pronouns often used even though they can be dropped?",
           "options": [
-            "They are grammatically required in every sentence (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "For emphasis or contrast (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "To make the sentence shorter (Introduce yourself by name using subject pronouns and the present tense of ser)",
-            "Only in questions (Introduce yourself by name using subject pronouns and the present tense of ser)"
+            "They are grammatically required in every sentence",
+            "For emphasis or contrast",
+            "To make the sentence shorter",
+            "Only in questions"
           ],
           "answerIndex": 1,
           "explanation": "Pronouns add emphasis/contrast even when the verb ending already identifies the subject.",
@@ -1142,10 +1142,10 @@
         {
           "prompt": "Soy ___ México. (I'm from Mexico.)",
           "options": [
-            "en (State your nationality and origin using ser de  country)",
-            "a (State your nationality and origin using ser de  country)",
-            "por (State your nationality and origin using ser de  country)",
-            "de (State your nationality and origin using ser de  country)"
+            "en",
+            "a",
+            "por",
+            "de"
           ],
           "answerIndex": 3,
           "explanation": "ser de + place expresses origin."
@@ -1153,10 +1153,10 @@
         {
           "prompt": "Negate: Soy estudiante → ?",
           "options": [
-            "No soy estudiante. (State your nationality and origin using ser de  country)",
-            "Estudiante no soy. (State your nationality and origin using ser de  country)",
-            "No estudiante soy. (State your nationality and origin using ser de  country)",
-            "Soy no estudiante. (State your nationality and origin using ser de  country)"
+            "No soy estudiante.",
+            "Estudiante no soy.",
+            "No estudiante soy.",
+            "Soy no estudiante."
           ],
           "answerIndex": 0,
           "explanation": "no goes directly before the conjugated verb."
@@ -1164,10 +1164,10 @@
         {
           "prompt": "A woman from Spain would say: Soy ___.",
           "options": [
-            "español (State your nationality and origin using ser de  country)",
-            "españolas (State your nationality and origin using ser de  country)",
-            "española (State your nationality and origin using ser de  country)",
-            "españoles (State your nationality and origin using ser de  country)"
+            "español",
+            "españolas",
+            "española",
+            "españoles"
           ],
           "answerIndex": 2,
           "explanation": "española is the feminine singular form."
@@ -1175,10 +1175,10 @@
         {
           "prompt": "¿De dónde ___? (Where are you from? — informal)",
           "options": [
-            "soy (State your nationality and origin using ser de  country)",
-            "somos (State your nationality and origin using ser de  country)",
-            "eres (State your nationality and origin using ser de  country)",
-            "es (State your nationality and origin using ser de  country)"
+            "soy",
+            "somos",
+            "eres",
+            "es"
           ],
           "answerIndex": 2,
           "explanation": "eres matches tú (informal you)."
@@ -1190,10 +1190,10 @@
         {
           "prompt": "A group of Mexican women would say: Somos ___.",
           "options": [
-            "mexicano (State your nationality and origin using ser de  country)",
-            "mexicanos (State your nationality and origin using ser de  country)",
-            "mexicanas (State your nationality and origin using ser de  country)",
-            "mexicana (State your nationality and origin using ser de  country)"
+            "mexicano",
+            "mexicanos",
+            "mexicanas",
+            "mexicana"
           ],
           "answerIndex": 2,
           "explanation": "Feminine plural agreement: mexicanas."
@@ -1201,10 +1201,10 @@
         {
           "prompt": "Which nationality adjective stays the same for both masculine and feminine?",
           "options": [
-            "español/española (State your nationality and origin using ser de  country)",
-            "mexicano/mexicana (State your nationality and origin using ser de  country)",
-            "americano/americana (State your nationality and origin using ser de  country)",
-            "canadiense (State your nationality and origin using ser de  country)"
+            "español/española",
+            "mexicano/mexicana",
+            "americano/americana",
+            "canadiense"
           ],
           "answerIndex": 3,
           "explanation": "Adjectives ending in -e like canadiense do not change for gender."
@@ -1212,10 +1212,10 @@
         {
           "prompt": "Translate: 'She is not from Spain.'",
           "options": [
-            "Ella es de España. (State your nationality and origin using ser de  country)",
-            "Ella no es de España. (State your nationality and origin using ser de  country)",
-            "No ella es España. (State your nationality and origin using ser de  country)",
-            "Ella no de España. (State your nationality and origin using ser de  country)"
+            "Ella es de España.",
+            "Ella no es de España.",
+            "No ella es España.",
+            "Ella no de España."
           ],
           "answerIndex": 1,
           "explanation": "no is placed directly before the conjugated verb es."
@@ -1227,10 +1227,10 @@
         {
           "prompt": "Soy ___ Argentina.",
           "options": [
-            "en (State your nationality and origin using ser de  country)",
-            "de (State your nationality and origin using ser de  country)",
-            "a (State your nationality and origin using ser de  country)",
-            "con (State your nationality and origin using ser de  country)"
+            "en",
+            "de",
+            "a",
+            "con"
           ],
           "answerIndex": 1,
           "explanation": "ser de + place = origin.",
@@ -1239,10 +1239,10 @@
         {
           "prompt": "Negate: Ella es estudiante.",
           "options": [
-            "Ella no es estudiante. (State your nationality and origin using ser de  country)",
-            "Ella es no estudiante. (State your nationality and origin using ser de  country)",
-            "No ella es estudiante. (State your nationality and origin using ser de  country)",
-            "Ella es estudiante no. (State your nationality and origin using ser de  country)"
+            "Ella no es estudiante.",
+            "Ella es no estudiante.",
+            "No ella es estudiante.",
+            "Ella es estudiante no."
           ],
           "answerIndex": 0,
           "explanation": "no precedes the conjugated verb.",
@@ -1251,10 +1251,10 @@
         {
           "prompt": "A man from Mexico says: Soy ___.",
           "options": [
-            "mexicana (State your nationality and origin using ser de  country)",
-            "mexicanas (State your nationality and origin using ser de  country)",
-            "mexicanos (State your nationality and origin using ser de  country)",
-            "mexicano (State your nationality and origin using ser de  country)"
+            "mexicana",
+            "mexicanas",
+            "mexicanos",
+            "mexicano"
           ],
           "answerIndex": 3,
           "explanation": "Masculine singular: mexicano.",
@@ -1263,10 +1263,10 @@
         {
           "prompt": "Which question asks 'Where are you from?' informally?",
           "options": [
-            "¿Cómo te llamas? (State your nationality and origin using ser de  country)",
-            "¿Cómo estás? (State your nationality and origin using ser de  country)",
-            "¿De dónde eres? (State your nationality and origin using ser de  country)",
-            "¿Qué es esto? (State your nationality and origin using ser de  country)"
+            "¿Cómo te llamas?",
+            "¿Cómo estás?",
+            "¿De dónde eres?",
+            "¿Qué es esto?"
           ],
           "answerIndex": 2,
           "explanation": "¿De dónde eres? asks about origin.",
@@ -1275,10 +1275,10 @@
         {
           "prompt": "How is nationality capitalized in Spanish, e.g. 'mexicano'?",
           "options": [
-            "Never capitalized (State your nationality and origin using ser de  country)",
-            "Only at the start of a sentence like any word (State your nationality and origin using ser de  country)",
-            "Always capitalized (State your nationality and origin using ser de  country)",
-            "Only for countries in Europe (State your nationality and origin using ser de  country)"
+            "Never capitalized",
+            "Only at the start of a sentence like any word",
+            "Always capitalized",
+            "Only for countries in Europe"
           ],
           "answerIndex": 1,
           "explanation": "Nationality adjectives are lowercase unless they start a sentence — like any regular adjective.",
@@ -1287,10 +1287,10 @@
         {
           "prompt": "Which sentence is correctly negated?",
           "options": [
-            "No soy de España. (State your nationality and origin using ser de  country)",
-            "De España no soy. (State your nationality and origin using ser de  country)",
-            "Soy de no España. (State your nationality and origin using ser de  country)",
-            "Soy no de España. (State your nationality and origin using ser de  country)"
+            "No soy de España.",
+            "De España no soy.",
+            "Soy de no España.",
+            "Soy no de España."
           ],
           "answerIndex": 0,
           "explanation": "no goes directly before the conjugated verb soy.",
@@ -1372,10 +1372,10 @@
         {
           "prompt": "¿Cómo ___ tú? (asking how someone feels right now)",
           "options": [
-            "eres (Combine greetings)",
-            "estás (Combine greetings)",
-            "es (Combine greetings)",
-            "soy (Combine greetings)"
+            "eres",
+            "estás",
+            "es",
+            "soy"
           ],
           "answerIndex": 1,
           "explanation": "estás is used for a current, changeable state — how someone feels."
@@ -1383,10 +1383,10 @@
         {
           "prompt": "___ de Colombia. (stating origin)",
           "options": [
-            "Estoy (Combine greetings)",
-            "Soy (Combine greetings)",
-            "Está (Combine greetings)",
-            "Es (Combine greetings)"
+            "Estoy",
+            "Soy",
+            "Está",
+            "Es"
           ],
           "answerIndex": 1,
           "explanation": "Origin uses ser: soy de Colombia."
@@ -1394,10 +1394,10 @@
         {
           "prompt": "What is the efficient way to return the question '¿Cómo estás?' after answering it?",
           "options": [
-            "¿Eres tú? (Combine greetings)",
-            "¿Y tú? (Combine greetings)",
-            "¿Cómo soy? (Combine greetings)",
-            "¿De dónde? (Combine greetings)"
+            "¿Eres tú?",
+            "¿Y tú?",
+            "¿Cómo soy?",
+            "¿De dónde?"
           ],
           "answerIndex": 1,
           "explanation": "¿Y tú? bounces the question back naturally."
@@ -1405,10 +1405,10 @@
         {
           "prompt": "Which farewell fits ending a friendly first meeting where you expect to see the person again?",
           "options": [
-            "Hasta luego (Combine greetings)",
-            "Buenas noches (Combine greetings)",
-            "Adiós (Combine greetings)",
-            "No (Combine greetings)"
+            "Hasta luego",
+            "Buenas noches",
+            "Adiós",
+            "No"
           ],
           "answerIndex": 0,
           "explanation": "Hasta luego implies meeting again, fitting a friendly close."
@@ -1420,10 +1420,10 @@
         {
           "prompt": "Put in order: 1) Me llamo Ana 2) Buenas tardes 3) ¿Cómo estás? — what comes first?",
           "options": [
-            "Me llamo Ana (Combine greetings)",
-            "Buenas tardes (Combine greetings)",
-            "Order does not matter (Combine greetings)",
-            "¿Cómo estás? (Combine greetings)"
+            "Me llamo Ana",
+            "Buenas tardes",
+            "Order does not matter",
+            "¿Cómo estás?"
           ],
           "answerIndex": 1,
           "explanation": "A time-of-day greeting typically opens the exchange."
@@ -1431,10 +1431,10 @@
         {
           "prompt": "Translate: 'I'm well, thanks. Where are you from?'",
           "options": [
-            "Estoy bien, gracias. ¿De dónde eres? (Combine greetings)",
-            "Estoy bien, gracias. ¿Cómo te llamas? (Combine greetings)",
-            "Es bien, gracias. ¿De dónde eres? (Combine greetings)",
-            "Soy bien, gracias. ¿De dónde estás? (Combine greetings)"
+            "Estoy bien, gracias. ¿De dónde eres?",
+            "Estoy bien, gracias. ¿Cómo te llamas?",
+            "Es bien, gracias. ¿De dónde eres?",
+            "Soy bien, gracias. ¿De dónde estás?"
           ],
           "answerIndex": 0,
           "explanation": "Estoy bien for a current state; ¿De dónde eres? for origin, both correctly matched to ser/estar."
@@ -1442,10 +1442,10 @@
         {
           "prompt": "Why does ¿Cómo estás? use estar and not ser?",
           "options": [
-            "Because it is a question (Combine greetings)",
-            "There is no reason; both would work equally (Combine greetings)",
-            "Because feelings/current states are changeable conditions (Combine greetings)",
-            "Because estar is used for all questions about people (Combine greetings)"
+            "Because it is a question",
+            "There is no reason; both would work equally",
+            "Because feelings/current states are changeable conditions",
+            "Because estar is used for all questions about people"
           ],
           "answerIndex": 2,
           "explanation": "How someone feels right now is a temporary state, which takes estar."
@@ -1457,10 +1457,10 @@
         {
           "prompt": "¿Cómo ___? (How are you? — informal)",
           "options": [
-            "estás (Combine greetings)",
-            "es (Combine greetings)",
-            "son (Combine greetings)",
-            "eres (Combine greetings)"
+            "estás",
+            "es",
+            "son",
+            "eres"
           ],
           "answerIndex": 0,
           "explanation": "estás fits a current, changeable state.",
@@ -1469,10 +1469,10 @@
         {
           "prompt": "___ de México. (I am from Mexico.)",
           "options": [
-            "Estoy (Combine greetings)",
-            "Es (Combine greetings)",
-            "Está (Combine greetings)",
-            "Soy (Combine greetings)"
+            "Estoy",
+            "Es",
+            "Está",
+            "Soy"
           ],
           "answerIndex": 3,
           "explanation": "Origin uses ser: soy de México.",
@@ -1481,10 +1481,10 @@
         {
           "prompt": "Translate: 'My name is Luis. Nice to meet you.'",
           "options": [
-            "Soy Luis. Buenas noches. (Combine greetings)",
-            "Estoy Luis. Hasta luego. (Combine greetings)",
-            "Me llamo Luis. Mucho gusto. (Combine greetings)",
-            "Me llama Luis. Adiós. (Combine greetings)"
+            "Soy Luis. Buenas noches.",
+            "Estoy Luis. Hasta luego.",
+            "Me llamo Luis. Mucho gusto.",
+            "Me llama Luis. Adiós."
           ],
           "answerIndex": 2,
           "explanation": "Me llamo Luis + Mucho gusto is the natural, correct exchange.",
@@ -1493,10 +1493,10 @@
         {
           "prompt": "Which question efficiently bounces a question back to the other speaker?",
           "options": [
-            "¿Cómo? (Combine greetings)",
-            "¿Y tú? (Combine greetings)",
-            "¿De dónde? (Combine greetings)",
-            "¿Qué es esto? (Combine greetings)"
+            "¿Cómo?",
+            "¿Y tú?",
+            "¿De dónde?",
+            "¿Qué es esto?"
           ],
           "answerIndex": 1,
           "explanation": "¿Y tú? is the standard, efficient bounce-back.",
@@ -1505,10 +1505,10 @@
         {
           "prompt": "In this dialogue, which verb form is used for 'temporary state' vs. 'lasting fact' respectively?",
           "options": [
-            "estar for temporary, ser for lasting (Combine greetings)",
-            "Both are used interchangeably (Combine greetings)",
-            "Neither verb applies to this distinction (Combine greetings)",
-            "ser for temporary, estar for lasting (Combine greetings)"
+            "estar for temporary, ser for lasting",
+            "Both are used interchangeably",
+            "Neither verb applies to this distinction",
+            "ser for temporary, estar for lasting"
           ],
           "answerIndex": 0,
           "explanation": "estar = temporary (feelings), ser = lasting (name, origin).",
@@ -1517,10 +1517,10 @@
         {
           "prompt": "Which farewell implies you expect to see the person again?",
           "options": [
-            "Adiós (Combine greetings)",
-            "No (Combine greetings)",
-            "Es (Combine greetings)",
-            "Hasta luego (Combine greetings)"
+            "Adiós",
+            "No",
+            "Es",
+            "Hasta luego"
           ],
           "answerIndex": 3,
           "explanation": "Hasta luego = \"see you later,\" implying another meeting.",
@@ -1813,10 +1813,10 @@
         {
           "prompt": "___ la una. (It's 1:00.)",
           "options": [
-            "Son (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es (Tell the time in Spanish using ser  hour and express minutes)",
-            "Estoy (Tell the time in Spanish using ser  hour and express minutes)",
-            "Está (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son",
+            "Es",
+            "Estoy",
+            "Está"
           ],
           "answerIndex": 1,
           "explanation": "Es la una uses the singular because \"hour\" is singular at 1:00."
@@ -1824,10 +1824,10 @@
         {
           "prompt": "___ las tres. (It's 3:00.)",
           "options": [
-            "Es (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son (Tell the time in Spanish using ser  hour and express minutes)",
-            "Estamos (Tell the time in Spanish using ser  hour and express minutes)",
-            "Está (Tell the time in Spanish using ser  hour and express minutes)"
+            "Es",
+            "Son",
+            "Estamos",
+            "Está"
           ],
           "answerIndex": 1,
           "explanation": "Son las tres uses the plural for any hour except 1:00."
@@ -1835,10 +1835,10 @@
         {
           "prompt": "How do you say 3:30?",
           "options": [
-            "Son las tres y cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres y media. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es las tres y media. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres menos media. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las tres y cuarto.",
+            "Son las tres y media.",
+            "Es las tres y media.",
+            "Son las tres menos media."
           ],
           "answerIndex": 1,
           "explanation": "y media = half past."
@@ -1846,10 +1846,10 @@
         {
           "prompt": "How do you say 'quarter to four' (3:45)?",
           "options": [
-            "Son las tres y cuarenta y cinco. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las cuatro menos cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las cuatro y cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es las cuatro menos cuarto. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las tres y cuarenta y cinco.",
+            "Son las cuatro menos cuarto.",
+            "Son las cuatro y cuarto.",
+            "Es las cuatro menos cuarto."
           ],
           "answerIndex": 1,
           "explanation": "menos cuarto counts down to the next hour; both this and tres y cuarenta y cinco are understood, but menos cuarto is more natural in many dialects."
@@ -1861,10 +1861,10 @@
         {
           "prompt": "Translate: 'It's 3 PM.'",
           "options": [
-            "Son las tres de la tarde. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres de la noche. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es las tres de la tarde. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres de la mañana. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las tres de la tarde.",
+            "Son las tres de la noche.",
+            "Es las tres de la tarde.",
+            "Son las tres de la mañana."
           ],
           "answerIndex": 0,
           "explanation": "de la tarde specifies afternoon."
@@ -1873,9 +1873,9 @@
           "prompt": "Why does Es la una use es instead of son?",
           "options": [
             "Because \"la hora\" (the hour)",
-            "Because es is more formal (Tell the time in Spanish using ser  hour and express minutes)",
-            "Because una is masculine (Tell the time in Spanish using ser  hour and express minutes)",
-            "Because 1:00 is a special exception with no reason (Tell the time in Spanish using ser  hour and express minutes)"
+            "Because es is more formal",
+            "Because una is masculine",
+            "Because 1:00 is a special exception with no reason"
           ],
           "answerIndex": 0,
           "explanation": "Only 1:00 is grammatically singular (\"one hour\"); every other hour is plural."
@@ -1883,10 +1883,10 @@
         {
           "prompt": "How do you say 3:10?",
           "options": [
-            "Son las diez y tres. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es la tres y diez. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres menos diez. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres y diez. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las diez y tres.",
+            "Es la tres y diez.",
+            "Son las tres menos diez.",
+            "Son las tres y diez."
           ],
           "answerIndex": 3,
           "explanation": "y + minutes adds time past the hour."
@@ -1898,10 +1898,10 @@
         {
           "prompt": "___ la una de la tarde. (It's 1 PM.)",
           "options": [
-            "Son (Tell the time in Spanish using ser  hour and express minutes)",
-            "Está (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es (Tell the time in Spanish using ser  hour and express minutes)",
-            "Estoy (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son",
+            "Está",
+            "Es",
+            "Estoy"
           ],
           "answerIndex": 2,
           "explanation": "1:00 always takes es la una.",
@@ -1910,10 +1910,10 @@
         {
           "prompt": "How do you say 'quarter past three'?",
           "options": [
-            "Son las cuatro y cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres y cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es las tres y cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las tres menos cuarto. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las cuatro y cuarto.",
+            "Son las tres y cuarto.",
+            "Es las tres y cuarto.",
+            "Son las tres menos cuarto."
           ],
           "answerIndex": 1,
           "explanation": "y cuarto = quarter past.",
@@ -1922,10 +1922,10 @@
         {
           "prompt": "How do you say 'half past five'?",
           "options": [
-            "Son las cinco y media. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las seis menos media. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las cinco y cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es la cinco y media. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las cinco y media.",
+            "Son las seis menos media.",
+            "Son las cinco y cuarto.",
+            "Es la cinco y media."
           ],
           "answerIndex": 0,
           "explanation": "y media = half past.",
@@ -1934,10 +1934,10 @@
         {
           "prompt": "Which phrase specifies 'in the morning' when telling time?",
           "options": [
-            "de la tarde (Tell the time in Spanish using ser  hour and express minutes)",
-            "de la hora (Tell the time in Spanish using ser  hour and express minutes)",
-            "de la noche (Tell the time in Spanish using ser  hour and express minutes)",
-            "de la mañana (Tell the time in Spanish using ser  hour and express minutes)"
+            "de la tarde",
+            "de la hora",
+            "de la noche",
+            "de la mañana"
           ],
           "answerIndex": 3,
           "explanation": "de la mañana = in the morning.",
@@ -1946,10 +1946,10 @@
         {
           "prompt": "How do you say 'quarter to six' (5:45)?",
           "options": [
-            "Son las cinco y cuarenta y cinco solamente. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Es las seis menos cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las seis menos cuarto. (Tell the time in Spanish using ser  hour and express minutes)",
-            "Son las cinco menos cuarto. (Tell the time in Spanish using ser  hour and express minutes)"
+            "Son las cinco y cuarenta y cinco solamente.",
+            "Es las seis menos cuarto.",
+            "Son las seis menos cuarto.",
+            "Son las cinco menos cuarto."
           ],
           "answerIndex": 2,
           "explanation": "menos cuarto counts down to the NEXT hour (six), matching 5:45.",
@@ -1958,10 +1958,10 @@
         {
           "prompt": "Why is son (not es) used for most hours?",
           "options": [
-            "Because Spanish always uses plural verbs (Tell the time in Spanish using ser  hour and express minutes)",
+            "Because Spanish always uses plural verbs",
             "Because \"the hours\" (las horas)",
-            "There is no reason, it is random (Tell the time in Spanish using ser  hour and express minutes)",
-            "Because son is more polite (Tell the time in Spanish using ser  hour and express minutes)"
+            "There is no reason, it is random",
+            "Because son is more polite"
           ],
           "answerIndex": 1,
           "explanation": "Grammatically, \"the hours\" is plural except at exactly 1:00.",
@@ -2033,10 +2033,10 @@
         {
           "prompt": "Which day is martes?",
           "options": [
-            "Tuesday (Name the days of the week and months of the year)",
-            "Wednesday (Name the days of the week and months of the year)",
-            "Thursday (Name the days of the week and months of the year)",
-            "Monday (Name the days of the week and months of the year)"
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Monday"
           ],
           "answerIndex": 0,
           "explanation": "martes = Tuesday."
@@ -2044,10 +2044,10 @@
         {
           "prompt": "Translate: 'On Mondays I have class.' (habitual)",
           "options": [
-            "Los lunes tengo clase. (Name the days of the week and months of the year)",
-            "Un lunes tengo clase. (Name the days of the week and months of the year)",
-            "Lunes tengo clase. (Name the days of the week and months of the year)",
-            "El lunes tengo clase. (Name the days of the week and months of the year)"
+            "Los lunes tengo clase.",
+            "Un lunes tengo clase.",
+            "Lunes tengo clase.",
+            "El lunes tengo clase."
           ],
           "answerIndex": 0,
           "explanation": "Los (plural article) signals a repeated, habitual day."
@@ -2055,10 +2055,10 @@
         {
           "prompt": "How do you write 'May 5th'?",
           "options": [
-            "el 5 de mayo (Name the days of the week and months of the year)",
-            "mayo el 5 (Name the days of the week and months of the year)",
-            "el mayo 5 (Name the days of the week and months of the year)",
-            "5 mayo de (Name the days of the week and months of the year)"
+            "el 5 de mayo",
+            "mayo el 5",
+            "el mayo 5",
+            "5 mayo de"
           ],
           "answerIndex": 0,
           "explanation": "Spanish dates go day de month."
@@ -2066,10 +2066,10 @@
         {
           "prompt": "Are Spanish days of the week capitalized?",
           "options": [
-            "No, never (Name the days of the week and months of the year)",
-            "Only on Mondays (Name the days of the week and months of the year)",
-            "Only in formal writing (Name the days of the week and months of the year)",
-            "Yes, always (Name the days of the week and months of the year)"
+            "No, never",
+            "Only on Mondays",
+            "Only in formal writing",
+            "Yes, always"
           ],
           "answerIndex": 0,
           "explanation": "Days and months are always lowercase in Spanish."
@@ -2081,10 +2081,10 @@
         {
           "prompt": "Which day is miércoles?",
           "options": [
-            "Tuesday (Name the days of the week and months of the year)",
-            "Wednesday (Name the days of the week and months of the year)",
-            "Thursday (Name the days of the week and months of the year)",
-            "Friday (Name the days of the week and months of the year)"
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
           ],
           "answerIndex": 1,
           "explanation": "miércoles = Wednesday."
@@ -2092,10 +2092,10 @@
         {
           "prompt": "Translate: 'On Monday I have class.' (this specific Monday)",
           "options": [
-            "Los lunes tengo clase. (Name the days of the week and months of the year)",
-            "El lunes tengo clase. (Name the days of the week and months of the year)",
-            "Un lunes tengo clase. (Name the days of the week and months of the year)",
-            "De lunes tengo clase. (Name the days of the week and months of the year)"
+            "Los lunes tengo clase.",
+            "El lunes tengo clase.",
+            "Un lunes tengo clase.",
+            "De lunes tengo clase."
           ],
           "answerIndex": 1,
           "explanation": "El (singular article) refers to one specific instance."
@@ -2103,10 +2103,10 @@
         {
           "prompt": "How do sábado and domingo differ from the other weekday names in plural form?",
           "options": [
-            "They never have a plural form (Name the days of the week and months of the year)",
-            "They add -s normally (Name the days of the week and months of the year)",
-            "They change completely in the plural (Name the days of the week and months of the year)",
-            "There is no difference (Name the days of the week and months of the year)"
+            "They never have a plural form",
+            "They add -s normally",
+            "They change completely in the plural",
+            "There is no difference"
           ],
           "answerIndex": 1,
           "explanation": "sábado/domingo pluralize regularly; lunes–viernes already end in -s and stay unchanged."
@@ -2118,10 +2118,10 @@
         {
           "prompt": "Which day is jueves?",
           "options": [
-            "Wednesday (Name the days of the week and months of the year)",
-            "Thursday (Name the days of the week and months of the year)",
-            "Saturday (Name the days of the week and months of the year)",
-            "Friday (Name the days of the week and months of the year)"
+            "Wednesday",
+            "Thursday",
+            "Saturday",
+            "Friday"
           ],
           "answerIndex": 1,
           "explanation": "jueves = Thursday.",
@@ -2130,10 +2130,10 @@
         {
           "prompt": "Which day is domingo?",
           "options": [
-            "Sunday (Name the days of the week and months of the year)",
-            "Saturday (Name the days of the week and months of the year)",
-            "Friday (Name the days of the week and months of the year)",
-            "Monday (Name the days of the week and months of the year)"
+            "Sunday",
+            "Saturday",
+            "Friday",
+            "Monday"
           ],
           "answerIndex": 0,
           "explanation": "domingo = Sunday.",
@@ -2142,10 +2142,10 @@
         {
           "prompt": "Translate: 'On Saturdays I work.' (habitual)",
           "options": [
-            "El sábado trabajo. (Name the days of the week and months of the year)",
-            "Un sábado trabajo. (Name the days of the week and months of the year)",
-            "De sábados trabajo. (Name the days of the week and months of the year)",
-            "Los sábados trabajo. (Name the days of the week and months of the year)"
+            "El sábado trabajo.",
+            "Un sábado trabajo.",
+            "De sábados trabajo.",
+            "Los sábados trabajo."
           ],
           "answerIndex": 3,
           "explanation": "Los sábados = every Saturday.",
@@ -2154,10 +2154,10 @@
         {
           "prompt": "How do you write 'October 12th'?",
           "options": [
-            "el octubre 12 (Name the days of the week and months of the year)",
-            "octubre el 12 (Name the days of the week and months of the year)",
-            "el 12 de octubre (Name the days of the week and months of the year)",
-            "12 octubre de (Name the days of the week and months of the year)"
+            "el octubre 12",
+            "octubre el 12",
+            "el 12 de octubre",
+            "12 octubre de"
           ],
           "answerIndex": 2,
           "explanation": "Day de month is the Spanish date order.",
@@ -2166,10 +2166,10 @@
         {
           "prompt": "Which month is marzo?",
           "options": [
-            "February (Name the days of the week and months of the year)",
-            "March (Name the days of the week and months of the year)",
-            "April (Name the days of the week and months of the year)",
-            "May (Name the days of the week and months of the year)"
+            "February",
+            "March",
+            "April",
+            "May"
           ],
           "answerIndex": 1,
           "explanation": "marzo = March.",
@@ -2178,10 +2178,10 @@
         {
           "prompt": "How do you ask 'What day is it today?'",
           "options": [
-            "¿Qué día es hoy? (Name the days of the week and months of the year)",
-            "¿Qué hora es? (Name the days of the week and months of the year)",
-            "¿Cómo estás? (Name the days of the week and months of the year)",
-            "¿De dónde eres? (Name the days of the week and months of the year)"
+            "¿Qué día es hoy?",
+            "¿Qué hora es?",
+            "¿Cómo estás?",
+            "¿De dónde eres?"
           ],
           "answerIndex": 0,
           "explanation": "¿Qué día es hoy? asks for the day.",
@@ -2248,10 +2248,10 @@
         {
           "prompt": "___ un libro en la mesa. (There is a book on the table.)",
           "options": [
-            "Es (Use hay to state existence and describe quantities of people or things)",
-            "Hay (Use hay to state existence and describe quantities of people or things)",
-            "Son (Use hay to state existence and describe quantities of people or things)",
-            "Está (Use hay to state existence and describe quantities of people or things)"
+            "Es",
+            "Hay",
+            "Son",
+            "Está"
           ],
           "answerIndex": 1,
           "explanation": "hay introduces the existence of something new/unspecified."
@@ -2259,10 +2259,10 @@
         {
           "prompt": "___ tres libros en la mesa. (There are three books.)",
           "options": [
-            "Hay (Use hay to state existence and describe quantities of people or things)",
-            "Están (Use hay to state existence and describe quantities of people or things)",
-            "Son (Use hay to state existence and describe quantities of people or things)",
-            "Hays (Use hay to state existence and describe quantities of people or things)"
+            "Hay",
+            "Están",
+            "Son",
+            "Hays"
           ],
           "answerIndex": 0,
           "explanation": "hay does not change for plural — same word."
@@ -2270,10 +2270,10 @@
         {
           "prompt": "Which sentence correctly uses estar for a specific, already-known book?",
           "options": [
-            "El libro hay en la mesa. (Use hay to state existence and describe quantities of people or things)",
-            "El libro es en la mesa. (Use hay to state existence and describe quantities of people or things)",
-            "El libro está en la mesa. (Use hay to state existence and describe quantities of people or things)",
-            "Hay el libro en la mesa. (Use hay to state existence and describe quantities of people or things)"
+            "El libro hay en la mesa.",
+            "El libro es en la mesa.",
+            "El libro está en la mesa.",
+            "Hay el libro en la mesa."
           ],
           "answerIndex": 2,
           "explanation": "A specific, known item uses estar + definite article."
@@ -2281,10 +2281,10 @@
         {
           "prompt": "Translate: 'There isn't any milk.'",
           "options": [
-            "No es leche. (Use hay to state existence and describe quantities of people or things)",
-            "No son leche. (Use hay to state existence and describe quantities of people or things)",
-            "No está leche. (Use hay to state existence and describe quantities of people or things)",
-            "No hay leche. (Use hay to state existence and describe quantities of people or things)"
+            "No es leche.",
+            "No son leche.",
+            "No está leche.",
+            "No hay leche."
           ],
           "answerIndex": 3,
           "explanation": "hay negated with no expresses absence."
@@ -2296,10 +2296,10 @@
         {
           "prompt": "Translate: 'Is there a pharmacy nearby?'",
           "options": [
-            "¿Está una farmacia cerca? (Use hay to state existence and describe quantities of people or things)",
-            "¿Hay una farmacia cerca? (Use hay to state existence and describe quantities of people or things)",
-            "¿Son una farmacia cerca? (Use hay to state existence and describe quantities of people or things)",
-            "¿Es una farmacia cerca? (Use hay to state existence and describe quantities of people or things)"
+            "¿Está una farmacia cerca?",
+            "¿Hay una farmacia cerca?",
+            "¿Son una farmacia cerca?",
+            "¿Es una farmacia cerca?"
           ],
           "answerIndex": 1,
           "explanation": "hay asks about the existence of an unspecified pharmacy."
@@ -2307,10 +2307,10 @@
         {
           "prompt": "Why is hay used instead of estar when first introducing something?",
           "options": [
-            "hay is only used with numbers (Use hay to state existence and describe quantities of people or things)",
-            "hay introduces new/unspecified things into a conversation, while estar locates something already known (Use hay to state existence and describe quantities of people or things)",
-            "estar cannot be used with objects (Use hay to state existence and describe quantities of people or things)",
-            "They are fully interchangeable (Use hay to state existence and describe quantities of people or things)"
+            "hay is only used with numbers",
+            "hay introduces new/unspecified things into a conversation, while estar locates something already known",
+            "estar cannot be used with objects",
+            "They are fully interchangeable"
           ],
           "answerIndex": 1,
           "explanation": "This is the key hay-vs-estar distinction: new/indefinite vs. known/definite."
@@ -2318,10 +2318,10 @@
         {
           "prompt": "Which article pattern typically follows hay?",
           "options": [
-            "el/la (Use hay to state existence and describe quantities of people or things)",
-            "un/una or a number (Use hay to state existence and describe quantities of people or things)",
-            "Only plural nouns (Use hay to state existence and describe quantities of people or things)",
-            "No article is ever used (Use hay to state existence and describe quantities of people or things)"
+            "el/la",
+            "un/una or a number",
+            "Only plural nouns",
+            "No article is ever used"
           ],
           "answerIndex": 1,
           "explanation": "hay pairs with indefinite articles or numbers, introducing something new."
@@ -2333,10 +2333,10 @@
         {
           "prompt": "___ dos gatos en la casa. (There are two cats in the house.)",
           "options": [
-            "Hay (Use hay to state existence and describe quantities of people or things)",
-            "Están (Use hay to state existence and describe quantities of people or things)",
-            "Son (Use hay to state existence and describe quantities of people or things)",
-            "Es (Use hay to state existence and describe quantities of people or things)"
+            "Hay",
+            "Están",
+            "Son",
+            "Es"
           ],
           "answerIndex": 0,
           "explanation": "hay states existence, unchanged for plural.",
@@ -2345,10 +2345,10 @@
         {
           "prompt": "Which verb form of hay is used for the plural 'there are'?",
           "options": [
-            "hays (Use hay to state existence and describe quantities of people or things)",
-            "hayan (Use hay to state existence and describe quantities of people or things)",
-            "han (Use hay to state existence and describe quantities of people or things)",
-            "hay (Use hay to state existence and describe quantities of people or things)"
+            "hays",
+            "hayan",
+            "han",
+            "hay"
           ],
           "answerIndex": 3,
           "explanation": "hay is invariant for singular and plural.",
@@ -2357,10 +2357,10 @@
         {
           "prompt": "Translate: 'There is a pharmacy on this street.' (first mention)",
           "options": [
-            "La farmacia está en esta calle. (Use hay to state existence and describe quantities of people or things)",
-            "La farmacia es en esta calle. (Use hay to state existence and describe quantities of people or things)",
-            "Hay una farmacia en esta calle. (Use hay to state existence and describe quantities of people or things)",
-            "Una farmacia hay esta calle. (Use hay to state existence and describe quantities of people or things)"
+            "La farmacia está en esta calle.",
+            "La farmacia es en esta calle.",
+            "Hay una farmacia en esta calle.",
+            "Una farmacia hay esta calle."
           ],
           "answerIndex": 2,
           "explanation": "hay introduces the pharmacy as new information.",
@@ -2369,10 +2369,10 @@
         {
           "prompt": "Once the pharmacy is already known/specific, which verb takes over to describe its location?",
           "options": [
-            "ser (Use hay to state existence and describe quantities of people or things)",
-            "estar (Use hay to state existence and describe quantities of people or things)",
-            "hay (Use hay to state existence and describe quantities of people or things)",
-            "tener (Use hay to state existence and describe quantities of people or things)"
+            "ser",
+            "estar",
+            "hay",
+            "tener"
           ],
           "answerIndex": 1,
           "explanation": "estar locates something already identified.",
@@ -2381,10 +2381,10 @@
         {
           "prompt": "Translate: 'There isn't any milk.'",
           "options": [
-            "No hay leche. (Use hay to state existence and describe quantities of people or things)",
-            "No es leche. (Use hay to state existence and describe quantities of people or things)",
-            "No está leche. (Use hay to state existence and describe quantities of people or things)",
-            "No tiene leche. (Use hay to state existence and describe quantities of people or things)"
+            "No hay leche.",
+            "No es leche.",
+            "No está leche.",
+            "No tiene leche."
           ],
           "answerIndex": 0,
           "explanation": "no hay = there isn't/aren't any.",
@@ -2393,10 +2393,10 @@
         {
           "prompt": "What verb does hay come from?",
           "options": [
-            "estar (Use hay to state existence and describe quantities of people or things)",
-            "ser (Use hay to state existence and describe quantities of people or things)",
-            "tener (Use hay to state existence and describe quantities of people or things)",
-            "haber (Use hay to state existence and describe quantities of people or things)"
+            "estar",
+            "ser",
+            "tener",
+            "haber"
           ],
           "answerIndex": 3,
           "explanation": "hay is a fixed existential form of haber.",
@@ -2690,10 +2690,10 @@
         {
           "prompt": "How do you say 'mother'?",
           "options": [
-            "la madre (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la hija (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el hermano (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el padre (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "la madre",
+            "la hija",
+            "el hermano",
+            "el padre"
           ],
           "answerIndex": 0,
           "explanation": "la madre = mother."
@@ -2701,10 +2701,10 @@
         {
           "prompt": "How do you say 'my siblings' (mixed group)?",
           "options": [
-            "mi hermana (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermano (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mis hermanas (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mis hermanos (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "mi hermana",
+            "mi hermano",
+            "mis hermanas",
+            "mis hermanos"
           ],
           "answerIndex": 3,
           "explanation": "The masculine plural mis hermanos covers a mixed-gender group."
@@ -2712,10 +2712,10 @@
         {
           "prompt": "How do you specify 'my OLDER brother'?",
           "options": [
-            "mi hermana mayor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermano menor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermano viejo (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermano mayor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "mi hermana mayor",
+            "mi hermano menor",
+            "mi hermano viejo",
+            "mi hermano mayor"
           ],
           "answerIndex": 3,
           "explanation": "mayor added after the noun specifies \"older.\""
@@ -2723,10 +2723,10 @@
         {
           "prompt": "Translate: 'My mother is a doctor.'",
           "options": [
-            "Mi madre está doctora. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Mi madre es doctora. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Mis madres son doctora. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Mi padre es doctora. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "Mi madre está doctora.",
+            "Mi madre es doctora.",
+            "Mis madres son doctora.",
+            "Mi padre es doctora."
           ],
           "answerIndex": 1,
           "explanation": "Mi madre (subject) es (ser, identity/profession) doctora."
@@ -2738,10 +2738,10 @@
         {
           "prompt": "How do you say 'parents' (both mother and father)?",
           "options": [
-            "los padres (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "los hermanos (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "las hijas (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "las madres (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "los padres",
+            "los hermanos",
+            "las hijas",
+            "las madres"
           ],
           "answerIndex": 0,
           "explanation": "los padres = parents, a mixed-gender masculine plural."
@@ -2749,10 +2749,10 @@
         {
           "prompt": "Does mi change form based on the gender of the noun that follows?",
           "options": [
-            "Only for feminine nouns (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Only for masculine nouns (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Yes, always (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "No — only for number (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "Only for feminine nouns",
+            "Only for masculine nouns",
+            "Yes, always",
+            "No — only for number"
           ],
           "answerIndex": 3,
           "explanation": "Possessive mi/mis only agree in number, not gender."
@@ -2760,10 +2760,10 @@
         {
           "prompt": "How do you say 'daughter'?",
           "options": [
-            "la madre (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el hijo (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el padre (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la hija (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "la madre",
+            "el hijo",
+            "el padre",
+            "la hija"
           ],
           "answerIndex": 3,
           "explanation": "la hija = daughter."
@@ -2775,10 +2775,10 @@
         {
           "prompt": "How do you say 'father'?",
           "options": [
-            "la hija (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el hijo (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el padre (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la madre (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "la hija",
+            "el hijo",
+            "el padre",
+            "la madre"
           ],
           "answerIndex": 2,
           "explanation": "el padre = father.",
@@ -2787,10 +2787,10 @@
         {
           "prompt": "How do you say 'grandmother'?",
           "options": [
-            "la prima (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la abuela (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el abuelo (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la tía (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "la prima",
+            "la abuela",
+            "el abuelo",
+            "la tía"
           ],
           "answerIndex": 1,
           "explanation": "la abuela = grandmother.",
@@ -2799,10 +2799,10 @@
         {
           "prompt": "What does hermanos mean when referring to a mixed-gender group?",
           "options": [
-            "Siblings (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Only sisters (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Only brothers (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Cousins (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "Siblings",
+            "Only sisters",
+            "Only brothers",
+            "Cousins"
           ],
           "answerIndex": 0,
           "explanation": "The masculine plural covers a mixed-gender sibling group.",
@@ -2811,10 +2811,10 @@
         {
           "prompt": "How do you specify 'my younger sister'?",
           "options": [
-            "mi hermano menor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermana mayor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermanas menor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "mi hermana menor (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "mi hermano menor",
+            "mi hermana mayor",
+            "mi hermanas menor",
+            "mi hermana menor"
           ],
           "answerIndex": 3,
           "explanation": "menor added after the noun specifies \"younger.\"",
@@ -2823,10 +2823,10 @@
         {
           "prompt": "How do you say 'uncle'?",
           "options": [
-            "el primo (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la prima (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "el tío (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "la tía (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "el primo",
+            "la prima",
+            "el tío",
+            "la tía"
           ],
           "answerIndex": 2,
           "explanation": "el tío = uncle.",
@@ -2835,10 +2835,10 @@
         {
           "prompt": "Translate: 'My siblings are doctors.'",
           "options": [
-            "Mis hermanas es doctoras. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Mis hermanos son doctores. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Mi hermanos son doctor. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)",
-            "Mi hermano es doctor. (Name immediate family members and describe basic family relationships using vocabulary and possessive adjectives)"
+            "Mis hermanas es doctoras.",
+            "Mis hermanos son doctores.",
+            "Mi hermanos son doctor.",
+            "Mi hermano es doctor."
           ],
           "answerIndex": 1,
           "explanation": "Mis hermanos (plural subject) son (plural ser) doctores (plural).",
@@ -2903,10 +2903,10 @@
         {
           "prompt": "Yo ___ dos hermanos. (I have two siblings.)",
           "options": [
-            "tiene (Use tener to talk about family members and possessions)",
-            "tengo (Use tener to talk about family members and possessions)",
-            "tenemos (Use tener to talk about family members and possessions)",
-            "tienes (Use tener to talk about family members and possessions)"
+            "tiene",
+            "tengo",
+            "tenemos",
+            "tienes"
           ],
           "answerIndex": 1,
           "explanation": "tengo is the yo-form of tener."
@@ -2914,10 +2914,10 @@
         {
           "prompt": "¿___ hermanos? (Do you have siblings? — informal)",
           "options": [
-            "Tengo (Use tener to talk about family members and possessions)",
-            "Tiene (Use tener to talk about family members and possessions)",
-            "Tenemos (Use tener to talk about family members and possessions)",
-            "Tienes (Use tener to talk about family members and possessions)"
+            "Tengo",
+            "Tiene",
+            "Tenemos",
+            "Tienes"
           ],
           "answerIndex": 3,
           "explanation": "tienes matches tú."
@@ -2925,10 +2925,10 @@
         {
           "prompt": "Ella ___ un hijo. (She has one son.)",
           "options": [
-            "tengo (Use tener to talk about family members and possessions)",
-            "tienes (Use tener to talk about family members and possessions)",
-            "tienen (Use tener to talk about family members and possessions)",
-            "tiene (Use tener to talk about family members and possessions)"
+            "tengo",
+            "tienes",
+            "tienen",
+            "tiene"
           ],
           "answerIndex": 3,
           "explanation": "tiene is the él/ella-form."
@@ -2936,10 +2936,10 @@
         {
           "prompt": "How do you say 'I am twenty years old'?",
           "options": [
-            "Soy veinte años. (Use tener to talk about family members and possessions)",
-            "Tengo veinte años. (Use tener to talk about family members and possessions)",
-            "Estoy veinte años. (Use tener to talk about family members and possessions)",
-            "Hay veinte años. (Use tener to talk about family members and possessions)"
+            "Soy veinte años.",
+            "Tengo veinte años.",
+            "Estoy veinte años.",
+            "Hay veinte años."
           ],
           "answerIndex": 1,
           "explanation": "Age uses tener, not ser/estar."
@@ -2951,10 +2951,10 @@
         {
           "prompt": "Nosotros ___ hambre. (We are hungry.)",
           "options": [
-            "tienen (Use tener to talk about family members and possessions)",
-            "tengo (Use tener to talk about family members and possessions)",
-            "tiene (Use tener to talk about family members and possessions)",
-            "tenemos (Use tener to talk about family members and possessions)"
+            "tienen",
+            "tengo",
+            "tiene",
+            "tenemos"
           ],
           "answerIndex": 3,
           "explanation": "tenemos is the nosotros-form."
@@ -2962,10 +2962,10 @@
         {
           "prompt": "Which stem does tener change to in most conjugated forms?",
           "options": [
-            "tien- (Use tener to talk about family members and possessions)",
-            "tuv- (Use tener to talk about family members and possessions)",
-            "tenn- (Use tener to talk about family members and possessions)",
-            "ten- (Use tener to talk about family members and possessions)"
+            "tien-",
+            "tuv-",
+            "tenn-",
+            "ten-"
           ],
           "answerIndex": 0,
           "explanation": "The stem changes to tien- except in tengo/tenemos/tenéis."
@@ -2973,10 +2973,10 @@
         {
           "prompt": "Why does Spanish use tener (not ser/estar) for age and hunger?",
           "options": [
-            "Because ser and estar cannot describe people (Use tener to talk about family members and possessions)",
-            "Because tener is more formal (Use tener to talk about family members and possessions)",
-            "There is no reason, it is arbitrary and rarely used (Use tener to talk about family members and possessions)",
-            "Because these are fixed idiomatic expressions using tener, unlike English \"to be\" (Use tener to talk about family members and possessions)"
+            "Because ser and estar cannot describe people",
+            "Because tener is more formal",
+            "There is no reason, it is arbitrary and rarely used",
+            "Because these are fixed idiomatic expressions using tener, unlike English \"to be\""
           ],
           "answerIndex": 3,
           "explanation": "This is a set of fixed tener expressions that map to English \"to be\" constructions."
@@ -2988,10 +2988,10 @@
         {
           "prompt": "Yo ___ tres hermanas. (I have three sisters.)",
           "options": [
-            "tienes (Use tener to talk about family members and possessions)",
-            "tengo (Use tener to talk about family members and possessions)",
-            "tienen (Use tener to talk about family members and possessions)",
-            "tiene (Use tener to talk about family members and possessions)"
+            "tienes",
+            "tengo",
+            "tienen",
+            "tiene"
           ],
           "answerIndex": 1,
           "explanation": "tengo is the yo-form.",
@@ -3000,10 +3000,10 @@
         {
           "prompt": "Ellos ___ un perro. (They have a dog.)",
           "options": [
-            "tienen (Use tener to talk about family members and possessions)",
-            "tenemos (Use tener to talk about family members and possessions)",
-            "tienes (Use tener to talk about family members and possessions)",
-            "tiene (Use tener to talk about family members and possessions)"
+            "tienen",
+            "tenemos",
+            "tienes",
+            "tiene"
           ],
           "answerIndex": 0,
           "explanation": "tienen is the ellos-form.",
@@ -3012,10 +3012,10 @@
         {
           "prompt": "How do you say 'She is cold'? (lit. she has cold)",
           "options": [
-            "Ella es fría. (Use tener to talk about family members and possessions)",
-            "Ella está fría. (Use tener to talk about family members and possessions)",
-            "Ella hay frío. (Use tener to talk about family members and possessions)",
-            "Ella tiene frío. (Use tener to talk about family members and possessions)"
+            "Ella es fría.",
+            "Ella está fría.",
+            "Ella hay frío.",
+            "Ella tiene frío."
           ],
           "answerIndex": 3,
           "explanation": "tener frío = to be cold (idiomatic).",
@@ -3024,10 +3024,10 @@
         {
           "prompt": "¿Cuántos años ___? (How old are you? — lit. how many years do you have?)",
           "options": [
-            "eres (Use tener to talk about family members and possessions)",
-            "tengo (Use tener to talk about family members and possessions)",
-            "tienes (Use tener to talk about family members and possessions)",
-            "estás (Use tener to talk about family members and possessions)"
+            "eres",
+            "tengo",
+            "tienes",
+            "estás"
           ],
           "answerIndex": 2,
           "explanation": "tienes matches the tú-form question about age.",
@@ -3036,10 +3036,10 @@
         {
           "prompt": "Which form of tener is used with nosotros?",
           "options": [
-            "tiene (Use tener to talk about family members and possessions)",
-            "tenemos (Use tener to talk about family members and possessions)",
-            "tienen (Use tener to talk about family members and possessions)",
-            "tengo (Use tener to talk about family members and possessions)"
+            "tiene",
+            "tenemos",
+            "tienen",
+            "tengo"
           ],
           "answerIndex": 1,
           "explanation": "tenemos is the nosotros-form.",
@@ -3048,10 +3048,10 @@
         {
           "prompt": "Translate: 'I have two siblings.'",
           "options": [
-            "Tengo dos hermanos. (Use tener to talk about family members and possessions)",
-            "Estoy dos hermanos. (Use tener to talk about family members and possessions)",
-            "Soy dos hermanos. (Use tener to talk about family members and possessions)",
-            "Hay dos hermanos. (Use tener to talk about family members and possessions)"
+            "Tengo dos hermanos.",
+            "Estoy dos hermanos.",
+            "Soy dos hermanos.",
+            "Hay dos hermanos."
           ],
           "answerIndex": 0,
           "explanation": "tener expresses family \"possession.\"",
@@ -3117,10 +3117,10 @@
         {
           "prompt": "Mi hermano es ___. (tall, masculine)",
           "options": [
-            "alto (Describe people using ser with adjectives)",
-            "altas (Describe people using ser with adjectives)",
-            "altos (Describe people using ser with adjectives)",
-            "alta (Describe people using ser with adjectives)"
+            "alto",
+            "altas",
+            "altos",
+            "alta"
           ],
           "answerIndex": 0,
           "explanation": "Masculine singular subject → alto."
@@ -3128,10 +3128,10 @@
         {
           "prompt": "Mi hermana es ___. (tall, feminine)",
           "options": [
-            "alta (Describe people using ser with adjectives)",
-            "altos (Describe people using ser with adjectives)",
-            "altas (Describe people using ser with adjectives)",
-            "alto (Describe people using ser with adjectives)"
+            "alta",
+            "altos",
+            "altas",
+            "alto"
           ],
           "answerIndex": 0,
           "explanation": "Feminine singular subject → alta."
@@ -3139,10 +3139,10 @@
         {
           "prompt": "Mis hermanos son ___. (tall, plural)",
           "options": [
-            "alta (Describe people using ser with adjectives)",
-            "altos (Describe people using ser with adjectives)",
-            "altas (Describe people using ser with adjectives)",
-            "alto (Describe people using ser with adjectives)"
+            "alta",
+            "altos",
+            "altas",
+            "alto"
           ],
           "answerIndex": 1,
           "explanation": "Masculine/mixed plural subject → altos."
@@ -3150,10 +3150,10 @@
         {
           "prompt": "Which adjective type does NOT change for gender, only for number?",
           "options": [
-            "Adjectives ending in -e or a consonant (Describe people using ser with adjectives)",
-            "All adjectives change for gender (Describe people using ser with adjectives)",
-            "No adjectives change at all (Describe people using ser with adjectives)",
-            "Adjectives ending in -o (Describe people using ser with adjectives)"
+            "Adjectives ending in -e or a consonant",
+            "All adjectives change for gender",
+            "No adjectives change at all",
+            "Adjectives ending in -o"
           ],
           "answerIndex": 0,
           "explanation": "-e/consonant adjectives like inteligente stay the same across genders."
@@ -3165,10 +3165,10 @@
         {
           "prompt": "Mis padres son ___. (intelligent, plural)",
           "options": [
-            "inteligente (Describe people using ser with adjectives)",
-            "inteligentes (Describe people using ser with adjectives)",
-            "inteligento (Describe people using ser with adjectives)",
-            "inteligentas (Describe people using ser with adjectives)"
+            "inteligente",
+            "inteligentes",
+            "inteligento",
+            "inteligentas"
           ],
           "answerIndex": 1,
           "explanation": "inteligente adds -s for plural but does not change for gender."
@@ -3176,10 +3176,10 @@
         {
           "prompt": "Why does mis hermanos son altos use altos rather than alto?",
           "options": [
-            "Because hermanos is plural, so the adjective must also be plural (Describe people using ser with adjectives)",
-            "Because altos is simply more common (Describe people using ser with adjectives)",
-            "Because ser requires plural adjectives always (Describe people using ser with adjectives)",
-            "There is no reason for the change (Describe people using ser with adjectives)"
+            "Because hermanos is plural, so the adjective must also be plural",
+            "Because altos is simply more common",
+            "Because ser requires plural adjectives always",
+            "There is no reason for the change"
           ],
           "answerIndex": 0,
           "explanation": "Adjectives agree in number with the noun they describe."
@@ -3187,10 +3187,10 @@
         {
           "prompt": "How many distinct forms does an -o adjective like alto have?",
           "options": [
-            "One (Describe people using ser with adjectives)",
-            "Two (Describe people using ser with adjectives)",
-            "Three (Describe people using ser with adjectives)",
-            "Four (Describe people using ser with adjectives)"
+            "One",
+            "Two",
+            "Three",
+            "Four"
           ],
           "answerIndex": 3,
           "explanation": "alto/alta/altos/altas — four forms for gender × number."
@@ -3202,10 +3202,10 @@
         {
           "prompt": "Mi madre es ___. (tall, feminine)",
           "options": [
-            "alta (Describe people using ser with adjectives)",
-            "altas (Describe people using ser with adjectives)",
-            "alto (Describe people using ser with adjectives)",
-            "altos (Describe people using ser with adjectives)"
+            "alta",
+            "altas",
+            "alto",
+            "altos"
           ],
           "answerIndex": 0,
           "explanation": "Feminine singular → alta.",
@@ -3214,10 +3214,10 @@
         {
           "prompt": "Mis hermanas son ___. (tall, feminine plural)",
           "options": [
-            "alto (Describe people using ser with adjectives)",
-            "alta (Describe people using ser with adjectives)",
-            "altos (Describe people using ser with adjectives)",
-            "altas (Describe people using ser with adjectives)"
+            "alto",
+            "alta",
+            "altos",
+            "altas"
           ],
           "answerIndex": 3,
           "explanation": "Feminine plural → altas.",
@@ -3226,10 +3226,10 @@
         {
           "prompt": "Mi padre es ___. (intelligent)",
           "options": [
-            "inteligento (Describe people using ser with adjectives)",
-            "inteligenta (Describe people using ser with adjectives)",
-            "inteligente (Describe people using ser with adjectives)",
-            "inteligentes (Describe people using ser with adjectives)"
+            "inteligento",
+            "inteligenta",
+            "inteligente",
+            "inteligentes"
           ],
           "answerIndex": 2,
           "explanation": "inteligente does not change for gender in the singular.",
@@ -3238,10 +3238,10 @@
         {
           "prompt": "Which sentence correctly agrees in gender AND number?",
           "options": [
-            "Mis hermanas son alto. (Describe people using ser with adjectives)",
-            "Mis hermanas son altas. (Describe people using ser with adjectives)",
-            "Mi hermano es alta. (Describe people using ser with adjectives)",
-            "Mi hermana es altos. (Describe people using ser with adjectives)"
+            "Mis hermanas son alto.",
+            "Mis hermanas son altas.",
+            "Mi hermano es alta.",
+            "Mi hermana es altos."
           ],
           "answerIndex": 1,
           "explanation": "Feminine plural subject requires the feminine plural adjective altas.",
@@ -3250,10 +3250,10 @@
         {
           "prompt": "What must a Spanish adjective agree with?",
           "options": [
-            "The gender and number of the noun it describes (Describe people using ser with adjectives)",
-            "Only the verb tense (Describe people using ser with adjectives)",
-            "Only the subject pronoun (Describe people using ser with adjectives)",
-            "Nothing — adjectives are invariant (Describe people using ser with adjectives)"
+            "The gender and number of the noun it describes",
+            "Only the verb tense",
+            "Only the subject pronoun",
+            "Nothing — adjectives are invariant"
           ],
           "answerIndex": 0,
           "explanation": "Gender and number agreement is required for descriptive adjectives.",
@@ -3262,10 +3262,10 @@
         {
           "prompt": "Mis padres son ___. (intelligent, plural)",
           "options": [
-            "inteligente (Describe people using ser with adjectives)",
-            "inteligenta (Describe people using ser with adjectives)",
-            "inteligento (Describe people using ser with adjectives)",
-            "inteligentes (Describe people using ser with adjectives)"
+            "inteligente",
+            "inteligenta",
+            "inteligento",
+            "inteligentes"
           ],
           "answerIndex": 3,
           "explanation": "Plural -e adjectives simply add -s.",
@@ -3336,10 +3336,10 @@
         {
           "prompt": "___ padre es doctor. (our father)",
           "options": [
-            "Mi (Use possessive adjectives mi)",
-            "Nuestra (Use possessive adjectives mi)",
-            "Su (Use possessive adjectives mi)",
-            "Nuestro (Use possessive adjectives mi)"
+            "Mi",
+            "Nuestra",
+            "Su",
+            "Nuestro"
           ],
           "answerIndex": 3,
           "explanation": "nuestro agrees with the masculine noun padre."
@@ -3347,10 +3347,10 @@
         {
           "prompt": "___ madre es doctora. (our mother)",
           "options": [
-            "Nuestro (Use possessive adjectives mi)",
-            "Mi (Use possessive adjectives mi)",
-            "Tu (Use possessive adjectives mi)",
-            "Nuestra (Use possessive adjectives mi)"
+            "Nuestro",
+            "Mi",
+            "Tu",
+            "Nuestra"
           ],
           "answerIndex": 3,
           "explanation": "nuestra agrees with the feminine noun madre."
@@ -3358,10 +3358,10 @@
         {
           "prompt": "Which possessive can mean 'his,' 'her,' 'your (formal),' OR 'their'?",
           "options": [
-            "mi (Use possessive adjectives mi)",
-            "nuestro (Use possessive adjectives mi)",
-            "tu (Use possessive adjectives mi)",
-            "su (Use possessive adjectives mi)"
+            "mi",
+            "nuestro",
+            "tu",
+            "su"
           ],
           "answerIndex": 3,
           "explanation": "su is ambiguous across those four meanings, disambiguated by context."
@@ -3369,10 +3369,10 @@
         {
           "prompt": "How do you clarify 'her car' when su coche would be ambiguous?",
           "options": [
-            "el coche de su (Use possessive adjectives mi)",
-            "coche su ella (Use possessive adjectives mi)",
-            "el coche de ella (Use possessive adjectives mi)",
-            "su coche de ella (Use possessive adjectives mi)"
+            "el coche de su",
+            "coche su ella",
+            "el coche de ella",
+            "su coche de ella"
           ],
           "answerIndex": 2,
           "explanation": "de ella explicitly clarifies \"her.\""
@@ -3384,10 +3384,10 @@
         {
           "prompt": "___ hermanas son altas. (our sisters)",
           "options": [
-            "Nuestro (Use possessive adjectives mi)",
-            "Nuestras (Use possessive adjectives mi)",
-            "Nuestros (Use possessive adjectives mi)",
-            "Nuestra (Use possessive adjectives mi)"
+            "Nuestro",
+            "Nuestras",
+            "Nuestros",
+            "Nuestra"
           ],
           "answerIndex": 1,
           "explanation": "Feminine plural noun requires nuestras."
@@ -3395,10 +3395,10 @@
         {
           "prompt": "Why is nuestro different from mi, tu, and su?",
           "options": [
-            "It only changes for number, like the others (Use possessive adjectives mi)",
-            "It changes for both gender AND number, unlike mi/tu/su (Use possessive adjectives mi)",
-            "It is used only with formal address (Use possessive adjectives mi)",
-            "It never changes at all (Use possessive adjectives mi)"
+            "It only changes for number, like the others",
+            "It changes for both gender AND number, unlike mi/tu/su",
+            "It is used only with formal address",
+            "It never changes at all"
           ],
           "answerIndex": 1,
           "explanation": "nuestro behaves like a regular -o adjective, agreeing in gender and number."
@@ -3406,10 +3406,10 @@
         {
           "prompt": "Translate: 'your siblings' (informal, plural possessor object)",
           "options": [
-            "tu hermanos (Use possessive adjectives mi)",
-            "tus hermanos (Use possessive adjectives mi)",
-            "sus hermano (Use possessive adjectives mi)",
-            "su hermanos (Use possessive adjectives mi)"
+            "tu hermanos",
+            "tus hermanos",
+            "sus hermano",
+            "su hermanos"
           ],
           "answerIndex": 1,
           "explanation": "tus agrees in number with the plural hermanos."
@@ -3421,10 +3421,10 @@
         {
           "prompt": "___ padres son inteligentes. (our parents)",
           "options": [
-            "Nuestro (Use possessive adjectives mi)",
-            "Nuestra (Use possessive adjectives mi)",
-            "Nuestras (Use possessive adjectives mi)",
-            "Nuestros (Use possessive adjectives mi)"
+            "Nuestro",
+            "Nuestra",
+            "Nuestras",
+            "Nuestros"
           ],
           "answerIndex": 3,
           "explanation": "padres is masculine plural → nuestros.",
@@ -3433,10 +3433,10 @@
         {
           "prompt": "___ hermano es alto. (your brother, informal)",
           "options": [
-            "Mi (Use possessive adjectives mi)",
-            "Su (Use possessive adjectives mi)",
-            "Tu (Use possessive adjectives mi)",
-            "Nuestro (Use possessive adjectives mi)"
+            "Mi",
+            "Su",
+            "Tu",
+            "Nuestro"
           ],
           "answerIndex": 2,
           "explanation": "tu = your (informal), unchanged for gender.",
@@ -3445,10 +3445,10 @@
         {
           "prompt": "Which possessive changes for BOTH gender and number?",
           "options": [
-            "mi (Use possessive adjectives mi)",
-            "nuestro (Use possessive adjectives mi)",
-            "su (Use possessive adjectives mi)",
-            "tu (Use possessive adjectives mi)"
+            "mi",
+            "nuestro",
+            "su",
+            "tu"
           ],
           "answerIndex": 1,
           "explanation": "nuestro/a/os/as is the only one with full gender+number agreement.",
@@ -3457,10 +3457,10 @@
         {
           "prompt": "su coche could mean all of the following EXCEPT:",
           "options": [
-            "my car (Use possessive adjectives mi)",
-            "his car (Use possessive adjectives mi)",
-            "their car (Use possessive adjectives mi)",
-            "her car (Use possessive adjectives mi)"
+            "my car",
+            "his car",
+            "their car",
+            "her car"
           ],
           "answerIndex": 0,
           "explanation": "su never means \"my\" — that is always mi.",
@@ -3469,10 +3469,10 @@
         {
           "prompt": "Translate: 'our mother' (feminine noun)",
           "options": [
-            "nuestras madre (Use possessive adjectives mi)",
-            "nuestros madre (Use possessive adjectives mi)",
-            "nuestro madre (Use possessive adjectives mi)",
-            "nuestra madre (Use possessive adjectives mi)"
+            "nuestras madre",
+            "nuestros madre",
+            "nuestro madre",
+            "nuestra madre"
           ],
           "answerIndex": 3,
           "explanation": "madre is feminine singular → nuestra.",
@@ -3481,10 +3481,10 @@
         {
           "prompt": "How would you clarify 'his book' if su libro is ambiguous?",
           "options": [
-            "libro su él (Use possessive adjectives mi)",
-            "su libro de él (Use possessive adjectives mi)",
-            "el libro de él (Use possessive adjectives mi)",
-            "el libro de su (Use possessive adjectives mi)"
+            "libro su él",
+            "su libro de él",
+            "el libro de él",
+            "el libro de su"
           ],
           "answerIndex": 2,
           "explanation": "de él clarifies \"his\" specifically.",
@@ -3556,10 +3556,10 @@
         {
           "prompt": "___ una familia grande. (I have a big family.)",
           "options": [
-            "Soy (Describe your own family in a short connected passage)",
-            "Tengo (Describe your own family in a short connected passage)",
-            "Hay (Describe your own family in a short connected passage)",
-            "Es (Describe your own family in a short connected passage)"
+            "Soy",
+            "Tengo",
+            "Hay",
+            "Es"
           ],
           "answerIndex": 1,
           "explanation": "tener expresses having a family (Unit 3 Lesson 2 pattern)."
@@ -3567,10 +3567,10 @@
         {
           "prompt": "Mi padre es alto y ___ ingeniero. (and is an engineer)",
           "options": [
-            "está (Describe your own family in a short connected passage)",
-            "es (Describe your own family in a short connected passage)",
-            "tiene (Describe your own family in a short connected passage)",
-            "hay (Describe your own family in a short connected passage)"
+            "está",
+            "es",
+            "tiene",
+            "hay"
           ],
           "answerIndex": 1,
           "explanation": "Profession uses ser: es ingeniero."
@@ -3578,10 +3578,10 @@
         {
           "prompt": "Mi hermana mayor es muy ___. (very intelligent, feminine)",
           "options": [
-            "inteligente (Describe your own family in a short connected passage)",
-            "inteligenta (Describe your own family in a short connected passage)",
-            "inteligentes (Describe your own family in a short connected passage)",
-            "inteligento (Describe your own family in a short connected passage)"
+            "inteligente",
+            "inteligenta",
+            "inteligentes",
+            "inteligento"
           ],
           "answerIndex": 0,
           "explanation": "-e adjectives do not change for gender."
@@ -3589,10 +3589,10 @@
         {
           "prompt": "___ madre es profesora. (our mother)",
           "options": [
-            "Nuestra (Describe your own family in a short connected passage)",
-            "Mi (Describe your own family in a short connected passage)",
-            "Nuestro (Describe your own family in a short connected passage)",
-            "Su (Describe your own family in a short connected passage)"
+            "Nuestra",
+            "Mi",
+            "Nuestro",
+            "Su"
           ],
           "answerIndex": 0,
           "explanation": "madre is feminine → nuestra."
@@ -3604,10 +3604,10 @@
         {
           "prompt": "Translate: 'We are five: my parents, my two siblings, and me.'",
           "options": [
-            "Hay cinco: mis padres, mis dos hermanos y yo. (Describe your own family in a short connected passage)",
-            "Somos cinco: mis padres, mis dos hermanos y yo. (Describe your own family in a short connected passage)",
-            "Son cinco: mis padres, mis dos hermanos y yo. (Describe your own family in a short connected passage)",
-            "Tenemos cinco: mi padres, mi dos hermanos y yo. (Describe your own family in a short connected passage)"
+            "Hay cinco: mis padres, mis dos hermanos y yo.",
+            "Somos cinco: mis padres, mis dos hermanos y yo.",
+            "Son cinco: mis padres, mis dos hermanos y yo.",
+            "Tenemos cinco: mi padres, mi dos hermanos y yo."
           ],
           "answerIndex": 1,
           "explanation": "Somos (ser, identity of the group) cinco correctly states \"we are five.\""
@@ -3615,10 +3615,10 @@
         {
           "prompt": "Which verb states the existence/possession of family members, as opposed to describing them?",
           "options": [
-            "ser (Describe your own family in a short connected passage)",
-            "tener (Describe your own family in a short connected passage)",
-            "hay (Describe your own family in a short connected passage)",
-            "estar (Describe your own family in a short connected passage)"
+            "ser",
+            "tener",
+            "hay",
+            "estar"
           ],
           "answerIndex": 1,
           "explanation": "tener states who you have (family members)."
@@ -3626,10 +3626,10 @@
         {
           "prompt": "Why does this lesson combine tener, ser, and possessives rather than isolating each?",
           "options": [
-            "Because a real description naturally uses all of them together (Describe your own family in a short connected passage)",
-            "Because only one of them is actually correct (Describe your own family in a short connected passage)",
-            "There is no reason (Describe your own family in a short connected passage)",
-            "Because they are interchangeable and mean the same thing (Describe your own family in a short connected passage)"
+            "Because a real description naturally uses all of them together",
+            "Because only one of them is actually correct",
+            "There is no reason",
+            "Because they are interchangeable and mean the same thing"
           ],
           "answerIndex": 0,
           "explanation": "Fluent description blends grammar points, which is the point of this capstone."
@@ -3641,10 +3641,10 @@
         {
           "prompt": "___ una familia grande. (I have a big family.)",
           "options": [
-            "Estoy (Describe your own family in a short connected passage)",
-            "Soy (Describe your own family in a short connected passage)",
-            "Tengo (Describe your own family in a short connected passage)",
-            "Hay (Describe your own family in a short connected passage)"
+            "Estoy",
+            "Soy",
+            "Tengo",
+            "Hay"
           ],
           "answerIndex": 2,
           "explanation": "tener = to have (a family).",
@@ -3653,10 +3653,10 @@
         {
           "prompt": "Somos cinco: ___ padres, mis dos hermanos y yo. (my parents)",
           "options": [
-            "su (Describe your own family in a short connected passage)",
-            "mis (Describe your own family in a short connected passage)",
-            "nuestro (Describe your own family in a short connected passage)",
-            "mi (Describe your own family in a short connected passage)"
+            "su",
+            "mis",
+            "nuestro",
+            "mi"
           ],
           "answerIndex": 1,
           "explanation": "padres is plural → mis.",
@@ -3665,10 +3665,10 @@
         {
           "prompt": "Mi hermana mayor es doctora. ___ muy inteligente. (She is very intelligent.)",
           "options": [
-            "Es (Describe your own family in a short connected passage)",
-            "Está (Describe your own family in a short connected passage)",
-            "Hay (Describe your own family in a short connected passage)",
-            "Tiene (Describe your own family in a short connected passage)"
+            "Es",
+            "Está",
+            "Hay",
+            "Tiene"
           ],
           "answerIndex": 0,
           "explanation": "An inherent trait uses ser: es inteligente.",
@@ -3677,10 +3677,10 @@
         {
           "prompt": "___ madre es profesora. (our mother, feminine)",
           "options": [
-            "Nuestro (Describe your own family in a short connected passage)",
-            "Mi (Describe your own family in a short connected passage)",
-            "Su (Describe your own family in a short connected passage)",
-            "Nuestra (Describe your own family in a short connected passage)"
+            "Nuestro",
+            "Mi",
+            "Su",
+            "Nuestra"
           ],
           "answerIndex": 3,
           "explanation": "madre is feminine → nuestra.",
@@ -3689,10 +3689,10 @@
         {
           "prompt": "Mi padre es alto y ___ ingeniero.",
           "options": [
-            "hay (Describe your own family in a short connected passage)",
-            "está (Describe your own family in a short connected passage)",
-            "es (Describe your own family in a short connected passage)",
-            "tiene (Describe your own family in a short connected passage)"
+            "hay",
+            "está",
+            "es",
+            "tiene"
           ],
           "answerIndex": 2,
           "explanation": "Profession takes ser.",
@@ -3701,10 +3701,10 @@
         {
           "prompt": "What is the overall skill this capstone lesson is testing?",
           "options": [
-            "Only conjugating tener correctly (Describe your own family in a short connected passage)",
-            "Combining tener, ser + adjectives, and possessives fluently in one description (Describe your own family in a short connected passage)",
-            "Only using possessive adjectives (Describe your own family in a short connected passage)",
-            "Memorizing isolated vocabulary lists (Describe your own family in a short connected passage)"
+            "Only conjugating tener correctly",
+            "Combining tener, ser + adjectives, and possessives fluently in one description",
+            "Only using possessive adjectives",
+            "Memorizing isolated vocabulary lists"
           ],
           "answerIndex": 1,
           "explanation": "The lesson tests combining all of Unit 3's grammar into fluent description.",
@@ -3770,10 +3770,10 @@
         {
           "prompt": "Yo ___ español. (hablar)",
           "options": [
-            "hablas (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "habla (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablo (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "hablas",
+            "habla",
+            "hablamos",
+            "hablo"
           ],
           "answerIndex": 3,
           "explanation": "hablo is the yo-form of hablar."
@@ -3781,10 +3781,10 @@
         {
           "prompt": "Tú ___ mucho. (trabajar)",
           "options": [
-            "trabajan (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabaja (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajo (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajas (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "trabajan",
+            "trabaja",
+            "trabajo",
+            "trabajas"
           ],
           "answerIndex": 3,
           "explanation": "trabajas is the tú-form."
@@ -3792,10 +3792,10 @@
         {
           "prompt": "Ella ___ inglés. (estudiar)",
           "options": [
-            "estudia (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "estudio (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "estudiamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "estudias (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "estudia",
+            "estudio",
+            "estudiamos",
+            "estudias"
           ],
           "answerIndex": 0,
           "explanation": "estudia is the él/ella-form."
@@ -3803,10 +3803,10 @@
         {
           "prompt": "Nosotros ___ francés. (hablar)",
           "options": [
-            "hablamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablo (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablan (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "habla (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "hablamos",
+            "hablo",
+            "hablan",
+            "habla"
           ],
           "answerIndex": 0,
           "explanation": "hablamos is the nosotros-form."
@@ -3818,10 +3818,10 @@
         {
           "prompt": "Ellos ___ en una oficina. (trabajar)",
           "options": [
-            "trabaja (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajan (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajo (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "trabaja",
+            "trabajamos",
+            "trabajan",
+            "trabajo"
           ],
           "answerIndex": 2,
           "explanation": "trabajan is the ellos-form."
@@ -3829,10 +3829,10 @@
         {
           "prompt": "What is the stem of hablar, used before adding any ending?",
           "options": [
-            "hab- (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablar- (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "habl- (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "habla- (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "hab-",
+            "hablar-",
+            "habl-",
+            "habla-"
           ],
           "answerIndex": 2,
           "explanation": "Drop -ar to get habl-."
@@ -3840,10 +3840,10 @@
         {
           "prompt": "Which ending set is correct for -ar verbs (yo, tú, él, nosotros, vosotros, ellos)?",
           "options": [
-            "-o, -as, -e, -amos, -éis, -an (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-o, -es, -e, -imos, -ís, -en (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-o, -es, -e, -emos, -éis, -en (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-o, -as, -a, -amos, -áis, -an (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "-o, -as, -e, -amos, -éis, -an",
+            "-o, -es, -e, -imos, -ís, -en",
+            "-o, -es, -e, -emos, -éis, -en",
+            "-o, -as, -a, -amos, -áis, -an"
           ],
           "answerIndex": 3,
           "explanation": "This is the full regular -ar ending set."
@@ -3855,10 +3855,10 @@
         {
           "prompt": "Yo ___ mucho. (trabajar)",
           "options": [
-            "trabajas (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajo (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabajamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "trabaja (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "trabajas",
+            "trabajo",
+            "trabajamos",
+            "trabaja"
           ],
           "answerIndex": 1,
           "explanation": "trabajo is the yo-form.",
@@ -3867,10 +3867,10 @@
         {
           "prompt": "Vosotros ___ español. (hablar)",
           "options": [
-            "habláis (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablan (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablas (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "habláis",
+            "hablan",
+            "hablamos",
+            "hablas"
           ],
           "answerIndex": 0,
           "explanation": "habláis is the vosotros-form.",
@@ -3879,10 +3879,10 @@
         {
           "prompt": "Él ___ inglés. (estudiar)",
           "options": [
-            "estudian (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "estudias (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "estudio (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "estudia (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "estudian",
+            "estudias",
+            "estudio",
+            "estudia"
           ],
           "answerIndex": 3,
           "explanation": "estudia is the él-form.",
@@ -3891,10 +3891,10 @@
         {
           "prompt": "What infinitive ending does hablar, trabajar, and estudiar all share?",
           "options": [
-            "-or (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-er (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-ar (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-ir (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "-or",
+            "-er",
+            "-ar",
+            "-ir"
           ],
           "answerIndex": 2,
           "explanation": "All three are regular -ar verbs.",
@@ -3903,10 +3903,10 @@
         {
           "prompt": "Ellas ___ francés. (hablar)",
           "options": [
-            "hablamos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablan (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "hablas (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "habla (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "hablamos",
+            "hablan",
+            "hablas",
+            "habla"
           ],
           "answerIndex": 1,
           "explanation": "hablan is the ellas-form.",
@@ -3915,10 +3915,10 @@
         {
           "prompt": "Which ending is used for nosotros with -ar verbs?",
           "options": [
-            "-amos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-imos (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-amos and -emos both work (Conjugate regular ar verbs in the present tense and use them in simple sentences)",
-            "-emos (Conjugate regular ar verbs in the present tense and use them in simple sentences)"
+            "-amos",
+            "-imos",
+            "-amos and -emos both work",
+            "-emos"
           ],
           "answerIndex": 0,
           "explanation": "-amos is specific to -ar verbs.",
@@ -3983,10 +3983,10 @@
         {
           "prompt": "Yo ___ pan. (comer)",
           "options": [
-            "come (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comes (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comemos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "como (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "come",
+            "comes",
+            "comemos",
+            "como"
           ],
           "answerIndex": 3,
           "explanation": "como is the yo-form of comer."
@@ -3994,10 +3994,10 @@
         {
           "prompt": "Tú ___ agua. (beber)",
           "options": [
-            "bebo (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebes (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "beben (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebe (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "bebo",
+            "bebes",
+            "beben",
+            "bebe"
           ],
           "answerIndex": 1,
           "explanation": "bebes is the tú-form."
@@ -4005,10 +4005,10 @@
         {
           "prompt": "Él ___ un libro. (leer)",
           "options": [
-            "leo (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "lees (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "leemos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "lee (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "leo",
+            "lees",
+            "leemos",
+            "lee"
           ],
           "answerIndex": 3,
           "explanation": "lee is the él-form."
@@ -4016,10 +4016,10 @@
         {
           "prompt": "Which vowel replaces -ar's 'a' in most -er endings?",
           "options": [
-            "i (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "e (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "o (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "u (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "i",
+            "e",
+            "o",
+            "u"
           ],
           "answerIndex": 1,
           "explanation": "-er endings swap the a for e (except -o, which is shared)."
@@ -4031,10 +4031,10 @@
         {
           "prompt": "Nosotros ___ a las dos. (comer)",
           "options": [
-            "come (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comemos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comen (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "como (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "come",
+            "comemos",
+            "comen",
+            "como"
           ],
           "answerIndex": 1,
           "explanation": "comemos is the nosotros-form."
@@ -4042,10 +4042,10 @@
         {
           "prompt": "Ellos ___ café. (beber)",
           "options": [
-            "bebe (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebemos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "beben (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebo (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "bebe",
+            "bebemos",
+            "beben",
+            "bebo"
           ],
           "answerIndex": 2,
           "explanation": "beben is the ellos-form."
@@ -4053,10 +4053,10 @@
         {
           "prompt": "Which ending is shared between -ar and -er verbs in the yo-form?",
           "options": [
-            "-o (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "-e (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "-amos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "-as (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "-o",
+            "-e",
+            "-amos",
+            "-as"
           ],
           "answerIndex": 0,
           "explanation": "-o is identical across all three verb families in the yo-form."
@@ -4068,10 +4068,10 @@
         {
           "prompt": "Yo ___ agua. (beber)",
           "options": [
-            "bebo (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebe (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebemos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebes (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "bebo",
+            "bebe",
+            "bebemos",
+            "bebes"
           ],
           "answerIndex": 0,
           "explanation": "bebo is the yo-form.",
@@ -4080,10 +4080,10 @@
         {
           "prompt": "Vosotros ___ pan. (comer)",
           "options": [
-            "comes (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comen (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comemos (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "coméis (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "comes",
+            "comen",
+            "comemos",
+            "coméis"
           ],
           "answerIndex": 3,
           "explanation": "coméis is the vosotros-form.",
@@ -4092,10 +4092,10 @@
         {
           "prompt": "Ella ___ un libro. (leer)",
           "options": [
-            "leo (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "leen (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "lee (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "lees (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "leo",
+            "leen",
+            "lee",
+            "lees"
           ],
           "answerIndex": 2,
           "explanation": "lee is the ella-form.",
@@ -4104,10 +4104,10 @@
         {
           "prompt": "What is the stem of comer?",
           "options": [
-            "co- (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "com- (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "come- (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "comer- (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "co-",
+            "com-",
+            "come-",
+            "comer-"
           ],
           "answerIndex": 1,
           "explanation": "Drop -er to get com-.",
@@ -4116,10 +4116,10 @@
         {
           "prompt": "Ellas ___ café. (beber)",
           "options": [
-            "beben (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebes (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebe (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "bebemos (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "beben",
+            "bebes",
+            "bebe",
+            "bebemos"
           ],
           "answerIndex": 0,
           "explanation": "beben is the ellas-form.",
@@ -4128,10 +4128,10 @@
         {
           "prompt": "Which ending set is correct for -er verbs?",
           "options": [
-            "-o, -as, -a, -amos, -áis, -an (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "-o, -as, -e, -emos, -áis, -en (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "-o, -es, -e, -imos, -ís, -en (Conjugate regular er verbs in the present tense and use them in simple sentences)",
-            "-o, -es, -e, -emos, -éis, -en (Conjugate regular er verbs in the present tense and use them in simple sentences)"
+            "-o, -as, -a, -amos, -áis, -an",
+            "-o, -as, -e, -emos, -áis, -en",
+            "-o, -es, -e, -imos, -ís, -en",
+            "-o, -es, -e, -emos, -éis, -en"
           ],
           "answerIndex": 3,
           "explanation": "This is the full regular -er ending set.",
@@ -4196,10 +4196,10 @@
         {
           "prompt": "Yo ___ en Madrid. (vivir)",
           "options": [
-            "vives (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivo (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vive (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "vives",
+            "vivo",
+            "vivimos",
+            "vive"
           ],
           "answerIndex": 1,
           "explanation": "vivo is the yo-form of vivir."
@@ -4207,10 +4207,10 @@
         {
           "prompt": "Tú ___ una carta. (escribir)",
           "options": [
-            "escribes (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribe (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escriben (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribo (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "escribes",
+            "escribe",
+            "escriben",
+            "escribo"
           ],
           "answerIndex": 0,
           "explanation": "escribes is the tú-form."
@@ -4218,10 +4218,10 @@
         {
           "prompt": "Nosotros ___ aquí. (vivir)",
           "options": [
-            "vivimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivamos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "viven (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivemos (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "vivimos",
+            "vivamos",
+            "viven",
+            "vivemos"
           ],
           "answerIndex": 0,
           "explanation": "-ir verbs use -imos for nosotros, not -emos."
@@ -4229,10 +4229,10 @@
         {
           "prompt": "Which two forms distinguish -ir verbs from -er verbs?",
           "options": [
-            "él and ellos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "nosotros and vosotros (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "All forms are different (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "yo and tú (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "él and ellos",
+            "nosotros and vosotros",
+            "All forms are different",
+            "yo and tú"
           ],
           "answerIndex": 1,
           "explanation": "Only nosotros/vosotros swap the vowel; the rest match -er exactly."
@@ -4244,10 +4244,10 @@
         {
           "prompt": "Ellos ___ libros. (escribir)",
           "options": [
-            "escribo (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribe (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escriben (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "escribo",
+            "escribe",
+            "escribimos",
+            "escriben"
           ],
           "answerIndex": 3,
           "explanation": "escriben is the ellos-form."
@@ -4255,10 +4255,10 @@
         {
           "prompt": "Vosotros ___ en Madrid. (vivir)",
           "options": [
-            "vivís (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivéis (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "viven (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "vivís",
+            "vivéis",
+            "vivimos",
+            "viven"
           ],
           "answerIndex": 0,
           "explanation": "vivís is the -ir vosotros-form (compare -éis for -er verbs)."
@@ -4266,10 +4266,10 @@
         {
           "prompt": "Why do comemos and vivimos differ despite both being 'we' forms?",
           "options": [
-            "They don't differ; this is a trick question (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
+            "They don't differ; this is a trick question",
             "comer is -er (comemos)",
-            "vivimos is irregular (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "comemos is incorrect (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "vivimos is irregular",
+            "comemos is incorrect"
           ],
           "answerIndex": 1,
           "explanation": "nosotros/vosotros are the only forms where -er and -ir differ."
@@ -4281,10 +4281,10 @@
         {
           "prompt": "Ella ___ con su familia. (vivir)",
           "options": [
-            "vivo (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "viven (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vives (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vive (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "vivo",
+            "viven",
+            "vives",
+            "vive"
           ],
           "answerIndex": 3,
           "explanation": "vive is the ella-form.",
@@ -4293,10 +4293,10 @@
         {
           "prompt": "Yo ___ una carta. (escribir)",
           "options": [
-            "escribes (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribo (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribe (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "escribes",
+            "escribimos",
+            "escribo",
+            "escribe"
           ],
           "answerIndex": 2,
           "explanation": "escribo is the yo-form.",
@@ -4305,10 +4305,10 @@
         {
           "prompt": "Nosotros ___ libros. (escribir)",
           "options": [
-            "escribemos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escriben (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribamos (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "escribemos",
+            "escribimos",
+            "escriben",
+            "escribamos"
           ],
           "answerIndex": 1,
           "explanation": "-ir verbs use -imos for nosotros.",
@@ -4317,10 +4317,10 @@
         {
           "prompt": "What is the stem of vivir?",
           "options": [
-            "viv- (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivi- (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vi- (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "vivir- (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "viv-",
+            "vivi-",
+            "vi-",
+            "vivir-"
           ],
           "answerIndex": 0,
           "explanation": "Drop -ir to get viv-.",
@@ -4329,10 +4329,10 @@
         {
           "prompt": "Which ending is shared by -er and -ir in the tú-form?",
           "options": [
-            "-as (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "-is (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "-a (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "-es (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "-as",
+            "-is",
+            "-a",
+            "-es"
           ],
           "answerIndex": 3,
           "explanation": "Both use -es for tú (comes/vives).",
@@ -4341,10 +4341,10 @@
         {
           "prompt": "Vosotros ___ libros. (escribir)",
           "options": [
-            "escribimos (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribéis (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escribís (Conjugate regular ir verbs in the present tense and use them in simple sentences)",
-            "escriben (Conjugate regular ir verbs in the present tense and use them in simple sentences)"
+            "escribimos",
+            "escribéis",
+            "escribís",
+            "escriben"
           ],
           "answerIndex": 2,
           "explanation": "-ir vosotros-form ends in -ís.",
@@ -4409,10 +4409,10 @@
         {
           "prompt": "___ libro es interesante. (the book, masculine)",
           "options": [
-            "La (Apply gender and number agreement correctly across articles)",
-            "Los (Apply gender and number agreement correctly across articles)",
-            "Las (Apply gender and number agreement correctly across articles)",
-            "El (Apply gender and number agreement correctly across articles)"
+            "La",
+            "Los",
+            "Las",
+            "El"
           ],
           "answerIndex": 3,
           "explanation": "libro is masculine → el."
@@ -4420,10 +4420,10 @@
         {
           "prompt": "___ mesas son grandes. (the tables, feminine plural)",
           "options": [
-            "El (Apply gender and number agreement correctly across articles)",
-            "Los (Apply gender and number agreement correctly across articles)",
-            "Las (Apply gender and number agreement correctly across articles)",
-            "La (Apply gender and number agreement correctly across articles)"
+            "El",
+            "Los",
+            "Las",
+            "La"
           ],
           "answerIndex": 2,
           "explanation": "mesas is feminine plural → las."
@@ -4431,10 +4431,10 @@
         {
           "prompt": "Which noun is a well-known exception to the -a-is-feminine pattern?",
           "options": [
-            "la mesa (Apply gender and number agreement correctly across articles)",
-            "el libro (Apply gender and number agreement correctly across articles)",
-            "el día (Apply gender and number agreement correctly across articles)",
-            "la casa (Apply gender and number agreement correctly across articles)"
+            "la mesa",
+            "el libro",
+            "el día",
+            "la casa"
           ],
           "answerIndex": 2,
           "explanation": "el día is masculine despite ending in -a."
@@ -4442,10 +4442,10 @@
         {
           "prompt": "Los estudiantes ___ español. (hablar, plural subject)",
           "options": [
-            "habla (Apply gender and number agreement correctly across articles)",
-            "hablamos (Apply gender and number agreement correctly across articles)",
-            "hablas (Apply gender and number agreement correctly across articles)",
-            "hablan (Apply gender and number agreement correctly across articles)"
+            "habla",
+            "hablamos",
+            "hablas",
+            "hablan"
           ],
           "answerIndex": 3,
           "explanation": "Plural subject requires the plural verb form hablan."
@@ -4457,10 +4457,10 @@
         {
           "prompt": "Which noun is a well-known exception to the -o-is-masculine pattern?",
           "options": [
-            "el libro (Apply gender and number agreement correctly across articles)",
-            "la mesa (Apply gender and number agreement correctly across articles)",
-            "la mano (Apply gender and number agreement correctly across articles)",
-            "el día (Apply gender and number agreement correctly across articles)"
+            "el libro",
+            "la mesa",
+            "la mano",
+            "el día"
           ],
           "answerIndex": 2,
           "explanation": "la mano is feminine despite ending in -o."
@@ -4468,10 +4468,10 @@
         {
           "prompt": "Translate: 'The intelligent students speak Spanish.'",
           "options": [
-            "Los estudiantes inteligentes hablan español. (Apply gender and number agreement correctly across articles)",
-            "El estudiante inteligente habla español. (Apply gender and number agreement correctly across articles)",
-            "Los estudiante inteligentes habla español. (Apply gender and number agreement correctly across articles)",
-            "Las estudiantes inteligente hablamos español. (Apply gender and number agreement correctly across articles)"
+            "Los estudiantes inteligentes hablan español.",
+            "El estudiante inteligente habla español.",
+            "Los estudiante inteligentes habla español.",
+            "Las estudiantes inteligente hablamos español."
           ],
           "answerIndex": 0,
           "explanation": "Every element (article, adjective, verb) must agree with the plural subject."
@@ -4479,10 +4479,10 @@
         {
           "prompt": "How do most Spanish nouns form their plural?",
           "options": [
-            "Add -s (Apply gender and number agreement correctly across articles)",
-            "Change the last vowel (Apply gender and number agreement correctly across articles)",
-            "No change (Apply gender and number agreement correctly across articles)",
-            "Add -os only (Apply gender and number agreement correctly across articles)"
+            "Add -s",
+            "Change the last vowel",
+            "No change",
+            "Add -os only"
           ],
           "answerIndex": 0,
           "explanation": "Regular pluralization adds -s or -es."
@@ -4494,10 +4494,10 @@
         {
           "prompt": "___ profesor es inteligente. (the professor, masculine)",
           "options": [
-            "La (Apply gender and number agreement correctly across articles)",
-            "Los (Apply gender and number agreement correctly across articles)",
-            "El (Apply gender and number agreement correctly across articles)",
-            "Las (Apply gender and number agreement correctly across articles)"
+            "La",
+            "Los",
+            "El",
+            "Las"
           ],
           "answerIndex": 2,
           "explanation": "profesor is masculine → el.",
@@ -4506,10 +4506,10 @@
         {
           "prompt": "___ casas son grandes. (the houses, feminine plural)",
           "options": [
-            "El (Apply gender and number agreement correctly across articles)",
-            "Las (Apply gender and number agreement correctly across articles)",
-            "La (Apply gender and number agreement correctly across articles)",
-            "Los (Apply gender and number agreement correctly across articles)"
+            "El",
+            "Las",
+            "La",
+            "Los"
           ],
           "answerIndex": 1,
           "explanation": "casas is feminine plural → las.",
@@ -4518,10 +4518,10 @@
         {
           "prompt": "Which is the correct plural of el profesor?",
           "options": [
-            "los profesores (Apply gender and number agreement correctly across articles)",
-            "los profesors (Apply gender and number agreement correctly across articles)",
-            "el profesors (Apply gender and number agreement correctly across articles)",
-            "las profesores (Apply gender and number agreement correctly across articles)"
+            "los profesores",
+            "los profesors",
+            "el profesors",
+            "las profesores"
           ],
           "answerIndex": 0,
           "explanation": "Nouns ending in a consonant add -es.",
@@ -4530,10 +4530,10 @@
         {
           "prompt": "Los libros ___ interesantes. (ser, plural)",
           "options": [
-            "es (Apply gender and number agreement correctly across articles)",
-            "somos (Apply gender and number agreement correctly across articles)",
-            "eres (Apply gender and number agreement correctly across articles)",
-            "son (Apply gender and number agreement correctly across articles)"
+            "es",
+            "somos",
+            "eres",
+            "son"
           ],
           "answerIndex": 3,
           "explanation": "Plural subject requires son.",
@@ -4542,10 +4542,10 @@
         {
           "prompt": "Which article correctly matches la mano (feminine, despite -o ending)?",
           "options": [
-            "los (Apply gender and number agreement correctly across articles)",
-            "el (Apply gender and number agreement correctly across articles)",
-            "la (Apply gender and number agreement correctly across articles)",
-            "las (Apply gender and number agreement correctly across articles)"
+            "los",
+            "el",
+            "la",
+            "las"
           ],
           "answerIndex": 2,
           "explanation": "la mano is a known exception to the -o pattern.",
@@ -4554,10 +4554,10 @@
         {
           "prompt": "What must agree with a plural noun in a fully correct Spanish sentence?",
           "options": [
-            "Only the verb (Apply gender and number agreement correctly across articles)",
-            "The article, any adjectives, AND the verb (Apply gender and number agreement correctly across articles)",
-            "Only the article (Apply gender and number agreement correctly across articles)",
-            "Nothing needs to agree (Apply gender and number agreement correctly across articles)"
+            "Only the verb",
+            "The article, any adjectives, AND the verb",
+            "Only the article",
+            "Nothing needs to agree"
           ],
           "answerIndex": 1,
           "explanation": "Agreement chains through article, adjective, and verb.",
@@ -4836,10 +4836,10 @@
         {
           "prompt": "Yo ___ levanto a las siete. (reflexive pronoun for yo)",
           "options": [
-            "se (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "me (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "nos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "te (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "se",
+            "me",
+            "nos",
+            "te"
           ],
           "answerIndex": 1,
           "explanation": "me matches the yo subject."
@@ -4847,10 +4847,10 @@
         {
           "prompt": "Tú te ___ temprano. (despertar, tú-form)",
           "options": [
-            "despiertan (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "despierta (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "despierto (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "despiertas (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "despiertan",
+            "despierta",
+            "despierto",
+            "despiertas"
           ],
           "answerIndex": 3,
           "explanation": "despiertas is the tú-form."
@@ -4858,10 +4858,10 @@
         {
           "prompt": "Ella ___ ducha por la mañana. (reflexive pronoun for ella)",
           "options": [
-            "se (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "me (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "nos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "te (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "se",
+            "me",
+            "nos",
+            "te"
           ],
           "answerIndex": 0,
           "explanation": "se matches the ella subject."
@@ -4869,10 +4869,10 @@
         {
           "prompt": "Nosotros nos ___ rápido. (vestir, nosotros-form)",
           "options": [
-            "viste (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "visto (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "vestimos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "vistes (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "viste",
+            "visto",
+            "vestimos",
+            "vistes"
           ],
           "answerIndex": 2,
           "explanation": "vestimos is the nosotros-form."
@@ -4884,10 +4884,10 @@
         {
           "prompt": "Ellos ___ acuestan a las once. (reflexive pronoun for ellos)",
           "options": [
-            "te (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "se (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "nos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "me (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "te",
+            "se",
+            "nos",
+            "me"
           ],
           "answerIndex": 1,
           "explanation": "se matches the ellos subject."
@@ -4895,10 +4895,10 @@
         {
           "prompt": "Where does the reflexive pronoun normally go relative to the conjugated verb?",
           "options": [
-            "Right before the conjugated verb (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "At the end of the sentence (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "It is optional and can be omitted (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "After the verb, always (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "Right before the conjugated verb",
+            "At the end of the sentence",
+            "It is optional and can be omitted",
+            "After the verb, always"
           ],
           "answerIndex": 0,
           "explanation": "The reflexive pronoun precedes the conjugated verb in a standard sentence."
@@ -4906,10 +4906,10 @@
         {
           "prompt": "Which verb ending pattern do -arse reflexive verbs like levantarse still follow?",
           "options": [
-            "-ir endings (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "-er endings (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Normal -ar endings (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "A completely unique ending set (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "-ir endings",
+            "-er endings",
+            "Normal -ar endings",
+            "A completely unique ending set"
           ],
           "answerIndex": 2,
           "explanation": "Only the added pronoun makes it reflexive; the verb still conjugates as regular -ar."
@@ -4921,10 +4921,10 @@
         {
           "prompt": "Yo ___ despierto temprano. (reflexive pronoun for yo)",
           "options": [
-            "me (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "se (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "nos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "te (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "me",
+            "se",
+            "nos",
+            "te"
           ],
           "answerIndex": 0,
           "explanation": "me matches yo.",
@@ -4933,10 +4933,10 @@
         {
           "prompt": "Tú ___ levantas a las ocho. (reflexive pronoun for tú)",
           "options": [
-            "me (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "se (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "os (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "te (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "me",
+            "se",
+            "os",
+            "te"
           ],
           "answerIndex": 3,
           "explanation": "te matches tú.",
@@ -4945,10 +4945,10 @@
         {
           "prompt": "Nosotros nos ___ a las once. (acostar, nosotros-form)",
           "options": [
-            "acuesto (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "acuesta (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "acostamos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "acuestas (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "acuesto",
+            "acuesta",
+            "acostamos",
+            "acuestas"
           ],
           "answerIndex": 2,
           "explanation": "acostamos is the nosotros-form.",
@@ -4957,10 +4957,10 @@
         {
           "prompt": "Which pronoun matches both él/ella and ellos/ellas?",
           "options": [
-            "nos (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "se (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "me (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "te (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "nos",
+            "se",
+            "me",
+            "te"
           ],
           "answerIndex": 1,
           "explanation": "se covers third-person singular and plural.",
@@ -4969,10 +4969,10 @@
         {
           "prompt": "Translate: 'She showers in the morning.'",
           "options": [
-            "Ella se ducha por la mañana. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Ella me ducha por la mañana. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Ella ducha se por la mañana. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Ella te ducha por la mañana. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "Ella se ducha por la mañana.",
+            "Ella me ducha por la mañana.",
+            "Ella ducha se por la mañana.",
+            "Ella te ducha por la mañana."
           ],
           "answerIndex": 0,
           "explanation": "se matches ella and precedes the conjugated verb.",
@@ -4981,10 +4981,10 @@
         {
           "prompt": "Translate: 'They go to bed at eleven.'",
           "options": [
-            "Ellos me acuestan a las once. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Ellos acuestan se a las once. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Ellos se acuesta a las once. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)",
-            "Ellos se acuestan a las once. (Conjugate and use reflexive verbs to describe daily routine actions like waking up and getting dressed)"
+            "Ellos me acuestan a las once.",
+            "Ellos acuestan se a las once.",
+            "Ellos se acuesta a las once.",
+            "Ellos se acuestan a las once."
           ],
           "answerIndex": 3,
           "explanation": "se + acuestan (plural conjugation) correctly matches ellos.",
@@ -5052,10 +5052,10 @@
         {
           "prompt": "Yo ___ a la oficina. (ir)",
           "options": [
-            "va (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "van (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vas (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "voy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "va",
+            "van",
+            "vas",
+            "voy"
           ],
           "answerIndex": 3,
           "explanation": "voy is the yo-form of ir."
@@ -5063,10 +5063,10 @@
         {
           "prompt": "Tú ___ a trabajar. (ir, near future)",
           "options": [
-            "voy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vas (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vamos (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "va (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "voy",
+            "vas",
+            "vamos",
+            "va"
           ],
           "answerIndex": 1,
           "explanation": "vas is the tú-form."
@@ -5074,10 +5074,10 @@
         {
           "prompt": "___ que ir al trabajo. (I have to go to work.)",
           "options": [
-            "Voy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Tengo (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Estoy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Soy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "Voy",
+            "Tengo",
+            "Estoy",
+            "Soy"
           ],
           "answerIndex": 1,
           "explanation": "tener que + infinitive expresses obligation."
@@ -5085,10 +5085,10 @@
         {
           "prompt": "What does a + el contract to?",
           "options": [
-            "ael (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "al (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "aal (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "a el (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "ael",
+            "al",
+            "aal",
+            "a el"
           ],
           "answerIndex": 1,
           "explanation": "a + el = al, a required contraction."
@@ -5100,10 +5100,10 @@
         {
           "prompt": "Nosotros ___ al gimnasio los lunes. (ir)",
           "options": [
-            "va (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vamos (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "voy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "van (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "va",
+            "vamos",
+            "voy",
+            "van"
           ],
           "answerIndex": 1,
           "explanation": "vamos is the nosotros-form."
@@ -5111,10 +5111,10 @@
         {
           "prompt": "Ellos ___ a la escuela. (ir)",
           "options": [
-            "van (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vamos (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vais (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "va (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "van",
+            "vamos",
+            "vais",
+            "va"
           ],
           "answerIndex": 0,
           "explanation": "van is the ellos-form."
@@ -5122,10 +5122,10 @@
         {
           "prompt": "What does ir + a + infinitive express?",
           "options": [
-            "Near-future plans, like \"going to\" in English (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "A command (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "A hypothetical (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Past completed action (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "Near-future plans, like \"going to\" in English",
+            "A command",
+            "A hypothetical",
+            "Past completed action"
           ],
           "answerIndex": 0,
           "explanation": "This construction expresses near-future intention."
@@ -5137,10 +5137,10 @@
         {
           "prompt": "Yo ___ a la oficina. (ir)",
           "options": [
-            "va (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vas (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "van (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "voy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "va",
+            "vas",
+            "van",
+            "voy"
           ],
           "answerIndex": 3,
           "explanation": "voy is the yo-form.",
@@ -5149,10 +5149,10 @@
         {
           "prompt": "Vosotros ___ a la escuela. (ir)",
           "options": [
-            "vamos (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vas (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vais (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "van (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "vamos",
+            "vas",
+            "vais",
+            "van"
           ],
           "answerIndex": 2,
           "explanation": "vais is the vosotros-form.",
@@ -5161,10 +5161,10 @@
         {
           "prompt": "Translate: 'I have to go to work.'",
           "options": [
-            "Voy que ir al trabajo. (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Tengo que ir al trabajo. (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Tengo ir al trabajo. (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "Soy que ir al trabajo. (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "Voy que ir al trabajo.",
+            "Tengo que ir al trabajo.",
+            "Tengo ir al trabajo.",
+            "Soy que ir al trabajo."
           ],
           "answerIndex": 1,
           "explanation": "tener que + infinitive = have to.",
@@ -5173,10 +5173,10 @@
         {
           "prompt": "Ella ___ a trabajar mañana. (ir, near future)",
           "options": [
-            "va (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "voy (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "van (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "vas (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "va",
+            "voy",
+            "van",
+            "vas"
           ],
           "answerIndex": 0,
           "explanation": "va is the ella-form.",
@@ -5185,10 +5185,10 @@
         {
           "prompt": "Vamos ___ gimnasio. (contraction of a + el)",
           "options": [
-            "a el (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "el (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "a la (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "al (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "a el",
+            "el",
+            "a la",
+            "al"
           ],
           "answerIndex": 3,
           "explanation": "a + el = al.",
@@ -5197,10 +5197,10 @@
         {
           "prompt": "Which verb is highly irregular, not resembling a regular -ir verb pattern?",
           "options": [
-            "vivir (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "decir (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "ir (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)",
-            "escribir (Conjugate and use the irregular verbs tener and ir in presenttense routine descriptions)"
+            "vivir",
+            "decir",
+            "ir",
+            "escribir"
           ],
           "answerIndex": 2,
           "explanation": "ir (voy, vas, va...) is entirely irregular.",
@@ -5265,10 +5265,10 @@
         {
           "prompt": "___ me levanto temprano. (I always get up early.)",
           "options": [
-            "Siempre (Use frequency adverbs siempre)",
-            "Casi nunca (Use frequency adverbs siempre)",
-            "A veces (Use frequency adverbs siempre)",
-            "Nunca (Use frequency adverbs siempre)"
+            "Siempre",
+            "Casi nunca",
+            "A veces",
+            "Nunca"
           ],
           "answerIndex": 0,
           "explanation": "Siempre = always."
@@ -5276,10 +5276,10 @@
         {
           "prompt": "___ trabajo los sábados. (I often work on Saturdays.)",
           "options": [
-            "Nunca (Use frequency adverbs siempre)",
-            "Casi nunca (Use frequency adverbs siempre)",
-            "A veces (Use frequency adverbs siempre)",
-            "A menudo (Use frequency adverbs siempre)"
+            "Nunca",
+            "Casi nunca",
+            "A veces",
+            "A menudo"
           ],
           "answerIndex": 3,
           "explanation": "A menudo = often."
@@ -5287,10 +5287,10 @@
         {
           "prompt": "Nunca como carne — does this sentence need an additional no?",
           "options": [
-            "No — nunca before the verb is sufficient (Use frequency adverbs siempre)",
-            "Only in questions (Use frequency adverbs siempre)",
-            "Only in the plural (Use frequency adverbs siempre)",
-            "Yes, always (Use frequency adverbs siempre)"
+            "No — nunca before the verb is sufficient",
+            "Only in questions",
+            "Only in the plural",
+            "Yes, always"
           ],
           "answerIndex": 0,
           "explanation": "nunca before the verb does not require an additional no."
@@ -5298,10 +5298,10 @@
         {
           "prompt": "How would you say 'I never eat meat' with nunca AFTER the verb?",
           "options": [
-            "No como nunca carne. (Use frequency adverbs siempre)",
-            "Nunca no como carne. (Use frequency adverbs siempre)",
-            "No nunca como carne. (Use frequency adverbs siempre)",
-            "Como nunca carne. (Use frequency adverbs siempre)"
+            "No como nunca carne.",
+            "Nunca no como carne.",
+            "No nunca como carne.",
+            "Como nunca carne."
           ],
           "answerIndex": 0,
           "explanation": "When nunca follows the verb, no is required before it."
@@ -5313,10 +5313,10 @@
         {
           "prompt": "___ veo la tele. (I almost never watch TV.)",
           "options": [
-            "Siempre (Use frequency adverbs siempre)",
-            "A menudo (Use frequency adverbs siempre)",
-            "Casi nunca (Use frequency adverbs siempre)",
-            "A veces (Use frequency adverbs siempre)"
+            "Siempre",
+            "A menudo",
+            "Casi nunca",
+            "A veces"
           ],
           "answerIndex": 2,
           "explanation": "Casi nunca = almost never."
@@ -5324,10 +5324,10 @@
         {
           "prompt": "Why is No como nunca carne grammatically correct in Spanish despite looking like a double negative?",
           "options": [
-            "It is actually incorrect (Use frequency adverbs siempre)",
-            "Spanish allows this pattern when nunca follows the verb — the no does not cancel the negation (Use frequency adverbs siempre)",
-            "no and nunca cancel out, making it mean \"I always eat meat\" (Use frequency adverbs siempre)",
-            "This structure is only used in questions (Use frequency adverbs siempre)"
+            "It is actually incorrect",
+            "Spanish allows this pattern when nunca follows the verb — the no does not cancel the negation",
+            "no and nunca cancel out, making it mean \"I always eat meat\"",
+            "This structure is only used in questions"
           ],
           "answerIndex": 1,
           "explanation": "Spanish negation rules differ from English; this is fully correct and still negative."
@@ -5335,10 +5335,10 @@
         {
           "prompt": "Which adverb means 'sometimes'?",
           "options": [
-            "siempre (Use frequency adverbs siempre)",
-            "a menudo (Use frequency adverbs siempre)",
-            "a veces (Use frequency adverbs siempre)",
-            "nunca (Use frequency adverbs siempre)"
+            "siempre",
+            "a menudo",
+            "a veces",
+            "nunca"
           ],
           "answerIndex": 2,
           "explanation": "a veces = sometimes."
@@ -5350,10 +5350,10 @@
         {
           "prompt": "___ como fuera. (I sometimes eat out.)",
           "options": [
-            "Siempre (Use frequency adverbs siempre)",
-            "Casi nunca (Use frequency adverbs siempre)",
-            "A veces (Use frequency adverbs siempre)",
-            "Nunca (Use frequency adverbs siempre)"
+            "Siempre",
+            "Casi nunca",
+            "A veces",
+            "Nunca"
           ],
           "answerIndex": 2,
           "explanation": "A veces = sometimes.",
@@ -5362,10 +5362,10 @@
         {
           "prompt": "___ veo la tele. (I almost never watch TV.)",
           "options": [
-            "Siempre (Use frequency adverbs siempre)",
-            "Casi nunca (Use frequency adverbs siempre)",
-            "A menudo (Use frequency adverbs siempre)",
-            "A veces (Use frequency adverbs siempre)"
+            "Siempre",
+            "Casi nunca",
+            "A menudo",
+            "A veces"
           ],
           "answerIndex": 1,
           "explanation": "Casi nunca = almost never.",
@@ -5374,10 +5374,10 @@
         {
           "prompt": "Which adverb means 'always'?",
           "options": [
-            "siempre (Use frequency adverbs siempre)",
-            "a menudo (Use frequency adverbs siempre)",
-            "nunca (Use frequency adverbs siempre)",
-            "a veces (Use frequency adverbs siempre)"
+            "siempre",
+            "a menudo",
+            "nunca",
+            "a veces"
           ],
           "answerIndex": 0,
           "explanation": "siempre = always.",
@@ -5386,10 +5386,10 @@
         {
           "prompt": "Nunca como carne — is an additional no required here?",
           "options": [
-            "Yes (Use frequency adverbs siempre)",
-            "Only in formal speech (Use frequency adverbs siempre)",
-            "Only with plural subjects (Use frequency adverbs siempre)",
-            "No (Use frequency adverbs siempre)"
+            "Yes",
+            "Only in formal speech",
+            "Only with plural subjects",
+            "No"
           ],
           "answerIndex": 3,
           "explanation": "nunca before the verb needs no additional no.",
@@ -5398,10 +5398,10 @@
         {
           "prompt": "How do you say 'I never eat meat' with no explicitly before the verb?",
           "options": [
-            "Nunca no como carne. (Use frequency adverbs siempre)",
-            "No nunca como carne. (Use frequency adverbs siempre)",
-            "No como nunca carne. (Use frequency adverbs siempre)",
-            "Como no nunca carne. (Use frequency adverbs siempre)"
+            "Nunca no como carne.",
+            "No nunca como carne.",
+            "No como nunca carne.",
+            "Como no nunca carne."
           ],
           "answerIndex": 2,
           "explanation": "no + verb + nunca (after) is the correct structure.",
@@ -5410,10 +5410,10 @@
         {
           "prompt": "Which adverb means 'often'?",
           "options": [
-            "a veces (Use frequency adverbs siempre)",
-            "a menudo (Use frequency adverbs siempre)",
-            "casi nunca (Use frequency adverbs siempre)",
-            "nunca (Use frequency adverbs siempre)"
+            "a veces",
+            "a menudo",
+            "casi nunca",
+            "nunca"
           ],
           "answerIndex": 1,
           "explanation": "a menudo = often.",
@@ -5479,10 +5479,10 @@
         {
           "prompt": "¿A qué hora te ___? (What time do you get up?)",
           "options": [
-            "levanto (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levanta (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levantamos (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levantas (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "levanto",
+            "levanta",
+            "levantamos",
+            "levantas"
           ],
           "answerIndex": 3,
           "explanation": "levantas matches tú in the question."
@@ -5490,10 +5490,10 @@
         {
           "prompt": "Answering the above as yourself: ___ levanto a las siete.",
           "options": [
-            "Me (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Se (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Nos (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Te (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "Me",
+            "Se",
+            "Nos",
+            "Te"
           ],
           "answerIndex": 0,
           "explanation": "The pronoun switches to me for the yo-answer."
@@ -5501,10 +5501,10 @@
         {
           "prompt": "Which question word specifically asks about a destination with motion verbs?",
           "options": [
-            "dónde (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "cómo (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "adónde (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "cuándo (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "dónde",
+            "cómo",
+            "adónde",
+            "cuándo"
           ],
           "answerIndex": 2,
           "explanation": "adónde = \"to where,\" pairs with motion verbs like ir."
@@ -5512,10 +5512,10 @@
         {
           "prompt": "How do you ask 'What do you normally do?'",
           "options": [
-            "¿Qué haces normalmente? (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "¿Qué hace normalmente yo? (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "¿Dónde haces normalmente? (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "¿Cuándo haces normalmente? (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "¿Qué haces normalmente?",
+            "¿Qué hace normalmente yo?",
+            "¿Dónde haces normalmente?",
+            "¿Cuándo haces normalmente?"
           ],
           "answerIndex": 0,
           "explanation": "¿Qué haces...? asks about routine actions."
@@ -5527,10 +5527,10 @@
         {
           "prompt": "¿Adónde ___? (Where are you going? — tú)",
           "options": [
-            "voy (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "van (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "vas (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "va (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "voy",
+            "van",
+            "vas",
+            "va"
           ],
           "answerIndex": 2,
           "explanation": "vas matches tú."
@@ -5538,10 +5538,10 @@
         {
           "prompt": "Why does the reflexive pronoun change from te to me between a question and its answer?",
           "options": [
-            "It shouldn't change; this is an error (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
+            "It shouldn't change; this is an error",
             "Because the subject changes from \"you\" (question)",
-            "Because questions never use reflexive pronouns (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Because all reflexive pronouns are interchangeable (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "Because questions never use reflexive pronouns",
+            "Because all reflexive pronouns are interchangeable"
           ],
           "answerIndex": 1,
           "explanation": "The pronoun always tracks the current subject of the sentence."
@@ -5549,10 +5549,10 @@
         {
           "prompt": "Translate: 'I am going to work.' (near future, in answer to ¿Adónde vas?)",
           "options": [
-            "Voy al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Voy a el trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Va al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Vas al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "Voy al trabajo.",
+            "Voy a el trabajo.",
+            "Va al trabajo.",
+            "Vas al trabajo."
           ],
           "answerIndex": 0,
           "explanation": "Voy (yo) al (a+el contraction) trabajo."
@@ -5564,10 +5564,10 @@
         {
           "prompt": "¿A qué hora te ___? (levantar, tú)",
           "options": [
-            "levanto (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levantas (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levanta (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levantan (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "levanto",
+            "levantas",
+            "levanta",
+            "levantan"
           ],
           "answerIndex": 1,
           "explanation": "levantas matches tú.",
@@ -5576,10 +5576,10 @@
         {
           "prompt": "Me ___ a las siete. (levantar, yo — answering the above)",
           "options": [
-            "levanto (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levantas (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levanta (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "levantamos (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "levanto",
+            "levantas",
+            "levanta",
+            "levantamos"
           ],
           "answerIndex": 0,
           "explanation": "levanto matches yo.",
@@ -5588,10 +5588,10 @@
         {
           "prompt": "Which question word asks specifically about a destination?",
           "options": [
-            "dónde (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "cómo (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "qué (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "adónde (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "dónde",
+            "cómo",
+            "qué",
+            "adónde"
           ],
           "answerIndex": 3,
           "explanation": "adónde is used with motion verbs for destinations.",
@@ -5600,10 +5600,10 @@
         {
           "prompt": "¿Qué ___ normalmente? (hacer, tú)",
           "options": [
-            "hago (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "hace (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "haces (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "hacemos (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "hago",
+            "hace",
+            "haces",
+            "hacemos"
           ],
           "answerIndex": 2,
           "explanation": "haces matches tú.",
@@ -5612,10 +5612,10 @@
         {
           "prompt": "¿Adónde vas? — a natural answer using ir would be:",
           "options": [
-            "Tengo al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Voy al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Soy al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Estoy al trabajo. (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "Tengo al trabajo.",
+            "Voy al trabajo.",
+            "Soy al trabajo.",
+            "Estoy al trabajo."
           ],
           "answerIndex": 1,
           "explanation": "ir answers a destination question naturally.",
@@ -5624,10 +5624,10 @@
         {
           "prompt": "What must change correctly as the conversation shifts from question to answer?",
           "options": [
-            "The reflexive pronoun and verb ending, to match the new subject (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Only the verb ending (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Nothing changes (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)",
-            "Only the reflexive pronoun (Ask and answer questions about someone elses daily routine using question words and reflexive verbs)"
+            "The reflexive pronoun and verb ending, to match the new subject",
+            "Only the verb ending",
+            "Nothing changes",
+            "Only the reflexive pronoun"
           ],
           "answerIndex": 0,
           "explanation": "Both the pronoun and verb ending track the current subject together.",
@@ -5692,10 +5692,10 @@
         {
           "prompt": "Siempre ___ levanto a las siete. (reflexive pronoun for yo)",
           "options": [
-            "me (Describe a full daily routine from morning to night in a connected paragraph)",
-            "te (Describe a full daily routine from morning to night in a connected paragraph)",
-            "se (Describe a full daily routine from morning to night in a connected paragraph)",
-            "nos (Describe a full daily routine from morning to night in a connected paragraph)"
+            "me",
+            "te",
+            "se",
+            "nos"
           ],
           "answerIndex": 0,
           "explanation": "me matches yo throughout the paragraph."
@@ -5703,10 +5703,10 @@
         {
           "prompt": "___ al trabajo en autobús. (ir, yo)",
           "options": [
-            "Voy (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Vas (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Va (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Van (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Voy",
+            "Vas",
+            "Va",
+            "Van"
           ],
           "answerIndex": 0,
           "explanation": "Voy is the yo-form of ir."
@@ -5714,10 +5714,10 @@
         {
           "prompt": "___ como con mis compañeros. (often)",
           "options": [
-            "Siempre (Describe a full daily routine from morning to night in a connected paragraph)",
-            "A menudo (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Nunca (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Casi nunca (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Siempre",
+            "A menudo",
+            "Nunca",
+            "Casi nunca"
           ],
           "answerIndex": 1,
           "explanation": "A menudo = often."
@@ -5725,10 +5725,10 @@
         {
           "prompt": "Nunca ___ acuesto tarde entre semana. (reflexive pronoun for yo)",
           "options": [
-            "te (Describe a full daily routine from morning to night in a connected paragraph)",
-            "me (Describe a full daily routine from morning to night in a connected paragraph)",
-            "se (Describe a full daily routine from morning to night in a connected paragraph)",
-            "nos (Describe a full daily routine from morning to night in a connected paragraph)"
+            "te",
+            "me",
+            "se",
+            "nos"
           ],
           "answerIndex": 1,
           "explanation": "me matches yo; nunca before the verb needs no extra no."
@@ -5740,10 +5740,10 @@
         {
           "prompt": "Translate: 'I always get up at seven and shower quickly.'",
           "options": [
-            "Nunca me levanto a las siete y me ducho rápido. (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Siempre me levanto a las siete y me ducho rápido. (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Siempre me levanto a las siete y ducho rápido. (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Siempre te levantas a las siete y te duchas rápido. (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Nunca me levanto a las siete y me ducho rápido.",
+            "Siempre me levanto a las siete y me ducho rápido.",
+            "Siempre me levanto a las siete y ducho rápido.",
+            "Siempre te levantas a las siete y te duchas rápido."
           ],
           "answerIndex": 1,
           "explanation": "Correct pronoun (me), correct frequency adverb (siempre), and both reflexive verbs correctly conjugated."
@@ -5751,10 +5751,10 @@
         {
           "prompt": "What four Unit 5 elements does this capstone paragraph combine?",
           "options": [
-            "Only reflexive verbs (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Only ir (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Only frequency adverbs (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Reflexive verbs, tener/ir, frequency adverbs, and question-answer patterns (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Only reflexive verbs",
+            "Only ir",
+            "Only frequency adverbs",
+            "Reflexive verbs, tener/ir, frequency adverbs, and question-answer patterns"
           ],
           "answerIndex": 3,
           "explanation": "This mirrors the explicit combination stated in the lesson explanation."
@@ -5762,10 +5762,10 @@
         {
           "prompt": "Why does this lesson explicitly parallel the Japanese Unit 5 capstone?",
           "options": [
-            "It doesn't — they are unrelated (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Because Spanish and Japanese share the same grammar (Describe a full daily routine from morning to night in a connected paragraph)",
-            "It is a coincidence (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Both are designed to test producing a connected, multi-sentence A1-level routine description (Describe a full daily routine from morning to night in a connected paragraph)"
+            "It doesn't — they are unrelated",
+            "Because Spanish and Japanese share the same grammar",
+            "It is a coincidence",
+            "Both are designed to test producing a connected, multi-sentence A1-level routine description"
           ],
           "answerIndex": 3,
           "explanation": "Both flagship languages build toward the same CEFR A1 can-do milestone at this point in the roadmap."
@@ -5777,10 +5777,10 @@
         {
           "prompt": "Siempre ___ levanto a las siete. (reflexive pronoun for yo)",
           "options": [
-            "me (Describe a full daily routine from morning to night in a connected paragraph)",
-            "te (Describe a full daily routine from morning to night in a connected paragraph)",
-            "se (Describe a full daily routine from morning to night in a connected paragraph)",
-            "nos (Describe a full daily routine from morning to night in a connected paragraph)"
+            "me",
+            "te",
+            "se",
+            "nos"
           ],
           "answerIndex": 0,
           "explanation": "me matches yo.",
@@ -5789,10 +5789,10 @@
         {
           "prompt": "___ al trabajo en autobús. (ir, yo)",
           "options": [
-            "Vas (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Va (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Vamos (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Voy (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Vas",
+            "Va",
+            "Vamos",
+            "Voy"
           ],
           "answerIndex": 3,
           "explanation": "Voy is the yo-form.",
@@ -5801,10 +5801,10 @@
         {
           "prompt": "___ como con mis compañeros. (often)",
           "options": [
-            "Casi nunca (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Nunca (Describe a full daily routine from morning to night in a connected paragraph)",
-            "A menudo (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Siempre (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Casi nunca",
+            "Nunca",
+            "A menudo",
+            "Siempre"
           ],
           "answerIndex": 2,
           "explanation": "A menudo = often.",
@@ -5813,10 +5813,10 @@
         {
           "prompt": "Nunca me ___ tarde entre semana. (acostar, yo)",
           "options": [
-            "acuestas (Describe a full daily routine from morning to night in a connected paragraph)",
-            "acuesto (Describe a full daily routine from morning to night in a connected paragraph)",
-            "acostamos (Describe a full daily routine from morning to night in a connected paragraph)",
-            "acuesta (Describe a full daily routine from morning to night in a connected paragraph)"
+            "acuestas",
+            "acuesto",
+            "acostamos",
+            "acuesta"
           ],
           "answerIndex": 1,
           "explanation": "acuesto is the yo-form.",
@@ -5825,10 +5825,10 @@
         {
           "prompt": "Which reflexive pronoun is used throughout this yo-centered paragraph?",
           "options": [
-            "me (Describe a full daily routine from morning to night in a connected paragraph)",
-            "se (Describe a full daily routine from morning to night in a connected paragraph)",
-            "nos (Describe a full daily routine from morning to night in a connected paragraph)",
-            "te (Describe a full daily routine from morning to night in a connected paragraph)"
+            "me",
+            "se",
+            "nos",
+            "te"
           ],
           "answerIndex": 0,
           "explanation": "me consistently matches the yo subject.",
@@ -5837,10 +5837,10 @@
         {
           "prompt": "What is the overall skill this capstone paragraph tests?",
           "options": [
-            "Isolated vocabulary recall only (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Only conjugating ir correctly (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Only using nunca correctly (Describe a full daily routine from morning to night in a connected paragraph)",
-            "Producing a connected, varied, multi-sentence daily routine description at A1 level (Describe a full daily routine from morning to night in a connected paragraph)"
+            "Isolated vocabulary recall only",
+            "Only conjugating ir correctly",
+            "Only using nunca correctly",
+            "Producing a connected, varied, multi-sentence daily routine description at A1 level"
           ],
           "answerIndex": 3,
           "explanation": "This is the explicit goal stated in the lesson explanation.",
@@ -5902,10 +5902,10 @@
         {
           "prompt": "___ gustan los tacos. (I like tacos.)",
           "options": [
-            "Yo (Name common foods and drinks and use gustar to say what someone likes)",
-            "Mi (Name common foods and drinks and use gustar to say what someone likes)",
-            "Te (Name common foods and drinks and use gustar to say what someone likes)",
-            "Me (Name common foods and drinks and use gustar to say what someone likes)"
+            "Yo",
+            "Mi",
+            "Te",
+            "Me"
           ],
           "answerIndex": 3,
           "explanation": "me is the indirect object pronoun for \"to me\"; gustan agrees with los tacos (plural)."
@@ -5913,10 +5913,10 @@
         {
           "prompt": "Me ___ el café. (I like coffee.)",
           "options": [
-            "gustas (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusto (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustan (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusta (Name common foods and drinks and use gustar to say what someone likes)"
+            "gustas",
+            "gusto",
+            "gustan",
+            "gusta"
           ],
           "answerIndex": 3,
           "explanation": "el café is singular, so gusta (singular) is correct — not gustan."
@@ -5924,10 +5924,10 @@
         {
           "prompt": "A Marisol le ___ las enchiladas. (Marisol likes enchiladas.)",
           "options": [
-            "gusto (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusta (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustas (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustan (Name common foods and drinks and use gustar to say what someone likes)"
+            "gusto",
+            "gusta",
+            "gustas",
+            "gustan"
           ],
           "answerIndex": 3,
           "explanation": "las enchiladas is plural, so gustan agrees with it, not with Marisol."
@@ -5935,9 +5935,9 @@
         {
           "prompt": "What determines whether you use gusta or gustan?",
           "options": [
-            "Whether the sentence is a question (Name common foods and drinks and use gustar to say what someone likes)",
-            "Whether the speaker is male or female (Name common foods and drinks and use gustar to say what someone likes)",
-            "It's always gusta, never gustan (Name common foods and drinks and use gustar to say what someone likes)",
+            "Whether the sentence is a question",
+            "Whether the speaker is male or female",
+            "It's always gusta, never gustan",
             "Whether the liked thing (the grammatical subject)"
           ],
           "answerIndex": 3,
@@ -5950,10 +5950,10 @@
         {
           "prompt": "Translate: 'Do you like coffee?'",
           "options": [
-            "¿Tú gustas el café? (Name common foods and drinks and use gustar to say what someone likes)",
-            "¿Te gustan el café? (Name common foods and drinks and use gustar to say what someone likes)",
-            "¿Gusta tú el café? (Name common foods and drinks and use gustar to say what someone likes)",
-            "¿Te gusta el café? (Name common foods and drinks and use gustar to say what someone likes)"
+            "¿Tú gustas el café?",
+            "¿Te gustan el café?",
+            "¿Gusta tú el café?",
+            "¿Te gusta el café?"
           ],
           "answerIndex": 3,
           "explanation": "te (to you) + gusta (agrees with singular el café)."
@@ -5961,10 +5961,10 @@
         {
           "prompt": "Why is 'Yo gusto los tacos' wrong, even though it looks like a direct word-for-word translation of 'I like tacos'?",
           "options": [
-            "gustar needs an indirect object pronoun (Name common foods and drinks and use gustar to say what someone likes)",
-            "yo can never appear in a sentence with gustar (Name common foods and drinks and use gustar to say what someone likes)",
-            "tacos should be singular (Name common foods and drinks and use gustar to say what someone likes)",
-            "It's actually correct (Name common foods and drinks and use gustar to say what someone likes)"
+            "gustar needs an indirect object pronoun",
+            "yo can never appear in a sentence with gustar",
+            "tacos should be singular",
+            "It's actually correct"
           ],
           "answerIndex": 0,
           "explanation": "This is the exact trap the lesson explanation warns about."
@@ -5972,10 +5972,10 @@
         {
           "prompt": "Translate: 'Marisol likes hot sauce on everything.'",
           "options": [
-            "A Marisol gusta le salsa picante en todo. (Name common foods and drinks and use gustar to say what someone likes)",
-            "A Marisol le gustan la salsa picante en todo. (Name common foods and drinks and use gustar to say what someone likes)",
-            "A Marisol le gusta la salsa picante en todo. (Name common foods and drinks and use gustar to say what someone likes)",
-            "Marisol gusta la salsa picante en todo. (Name common foods and drinks and use gustar to say what someone likes)"
+            "A Marisol gusta le salsa picante en todo.",
+            "A Marisol le gustan la salsa picante en todo.",
+            "A Marisol le gusta la salsa picante en todo.",
+            "Marisol gusta la salsa picante en todo."
           ],
           "answerIndex": 2,
           "explanation": "la salsa picante is singular, so le gusta (not gustan) is correct, with le before the verb."
@@ -5987,10 +5987,10 @@
         {
           "prompt": "___ gustan los tacos.",
           "options": [
-            "Yo (Name common foods and drinks and use gustar to say what someone likes)",
-            "Mi (Name common foods and drinks and use gustar to say what someone likes)",
-            "Te (Name common foods and drinks and use gustar to say what someone likes)",
-            "Me (Name common foods and drinks and use gustar to say what someone likes)"
+            "Yo",
+            "Mi",
+            "Te",
+            "Me"
           ],
           "answerIndex": 3,
           "explanation": "me is the correct indirect object pronoun.",
@@ -5999,10 +5999,10 @@
         {
           "prompt": "Me ___ el café.",
           "options": [
-            "gustas (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusto (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusta (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustan (Name common foods and drinks and use gustar to say what someone likes)"
+            "gustas",
+            "gusto",
+            "gusta",
+            "gustan"
           ],
           "answerIndex": 2,
           "explanation": "el café is singular.",
@@ -6011,10 +6011,10 @@
         {
           "prompt": "A Marisol le ___ las enchiladas.",
           "options": [
-            "gusto (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustan (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustas (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusta (Name common foods and drinks and use gustar to say what someone likes)"
+            "gusto",
+            "gustan",
+            "gustas",
+            "gusta"
           ],
           "answerIndex": 1,
           "explanation": "las enchiladas is plural.",
@@ -6023,10 +6023,10 @@
         {
           "prompt": "¿Te ___ el chile? (Do you like chile?)",
           "options": [
-            "gusta (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustas (Name common foods and drinks and use gustar to say what someone likes)",
-            "gustan (Name common foods and drinks and use gustar to say what someone likes)",
-            "gusto (Name common foods and drinks and use gustar to say what someone likes)"
+            "gusta",
+            "gustas",
+            "gustan",
+            "gusto"
           ],
           "answerIndex": 0,
           "explanation": "el chile is singular.",
@@ -6035,10 +6035,10 @@
         {
           "prompt": "What is the grammatical subject of 'Me gustan los tacos'?",
           "options": [
-            "gustan (Name common foods and drinks and use gustar to say what someone likes)",
-            "Me (Name common foods and drinks and use gustar to say what someone likes)",
-            "There is no subject (Name common foods and drinks and use gustar to say what someone likes)",
-            "los tacos (Name common foods and drinks and use gustar to say what someone likes)"
+            "gustan",
+            "Me",
+            "There is no subject",
+            "los tacos"
           ],
           "answerIndex": 3,
           "explanation": "los tacos is what's doing the 'being pleasing,' making it the grammatical subject — the reverse of English intuition.",
@@ -6047,10 +6047,10 @@
         {
           "prompt": "Translate: 'Marisol likes enchiladas, but she likes chile by itself even more.'",
           "options": [
-            "A Marisol le gusta las enchiladas, pero le gustan más el chile solo. (Name common foods and drinks and use gustar to say what someone likes)",
-            "Marisol le gustan las enchiladas, pero le gusta el chile más solo. (Name common foods and drinks and use gustar to say what someone likes)",
-            "A Marisol le gustan las enchiladas, pero le gusta más el chile solo. (Name common foods and drinks and use gustar to say what someone likes)",
-            "A Marisol gustan las enchiladas, pero gusta más el chile solo. (Name common foods and drinks and use gustar to say what someone likes)"
+            "A Marisol le gusta las enchiladas, pero le gustan más el chile solo.",
+            "Marisol le gustan las enchiladas, pero le gusta el chile más solo.",
+            "A Marisol le gustan las enchiladas, pero le gusta más el chile solo.",
+            "A Marisol gustan las enchiladas, pero gusta más el chile solo."
           ],
           "answerIndex": 2,
           "explanation": "gustan agrees with plural enchiladas; gusta agrees with singular chile; le appears before both verbs.",
@@ -6110,10 +6110,10 @@
         {
           "prompt": "A Marisol ___ encanta el picante. (Marisol loves spicy food.)",
           "options": [
-            "le (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "se (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "la (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "lo (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "le",
+            "se",
+            "la",
+            "lo"
           ],
           "answerIndex": 0,
           "explanation": "le is the indirect object pronoun paired with encantar, just like with gustar."
@@ -6121,10 +6121,10 @@
         {
           "prompt": "Why does Spanish add 'A Marisol' before 'le encanta el picante' if le already carries meaning?",
           "options": [
-            "It's optional decoration with no function (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
+            "It's optional decoration with no function",
             "le is ambiguous (him/her/formal-you)",
-            "Spanish requires a name in every sentence (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "It changes encanta to a different tense (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "Spanish requires a name in every sentence",
+            "It changes encanta to a different tense"
           ],
           "answerIndex": 1,
           "explanation": "This is exactly the disambiguation function explained in the lesson."
@@ -6132,10 +6132,10 @@
         {
           "prompt": "A mí me gusta el café, pero ___ Luis le gusta el té. (...but Luis likes tea.)",
           "options": [
-            "a (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "de (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "le (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "en (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "a",
+            "de",
+            "le",
+            "en"
           ],
           "answerIndex": 0,
           "explanation": "a Luis is the clarifying/contrasting phrase paired with le gusta."
@@ -6143,10 +6143,10 @@
         {
           "prompt": "What does encantar add in meaning compared to gustar?",
           "options": [
-            "Nothing, they're identical in meaning (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A stronger degree of liking — closer to 'love' than 'like' (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "It reverses the meaning to 'dislike' (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "It's used only for drinks, never food (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "Nothing, they're identical in meaning",
+            "A stronger degree of liking — closer to 'love' than 'like'",
+            "It reverses the meaning to 'dislike'",
+            "It's used only for drinks, never food"
           ],
           "answerIndex": 1,
           "explanation": "encantar is gustar's stronger cousin, same grammar, bigger feeling."
@@ -6158,10 +6158,10 @@
         {
           "prompt": "Translate: 'I like coffee, but Luis likes tea.'",
           "options": [
-            "Yo gusto el café, pero Luis gusta el té. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A mí me gustan el café, pero a Luis le gusta el té. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A mí me gusta el café, pero a Luis le gusta el té. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Me gusta el café, pero Luis le gusta el té. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "Yo gusto el café, pero Luis gusta el té.",
+            "A mí me gustan el café, pero a Luis le gusta el té.",
+            "A mí me gusta el café, pero a Luis le gusta el té.",
+            "Me gusta el café, pero Luis le gusta el té."
           ],
           "answerIndex": 2,
           "explanation": "Both clauses need the me/le + gusta pattern, and el café is singular so gusta is correct; a mí / a Luis add the contrast."
@@ -6169,10 +6169,10 @@
         {
           "prompt": "When is the a + [person] clarifier grammatically required rather than just stylistic?",
           "options": [
-            "When le/les would otherwise be ambiguous about who is meant (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Only in questions (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Only with encantar, never with gustar (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Never — it's always optional (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "When le/les would otherwise be ambiguous about who is meant",
+            "Only in questions",
+            "Only with encantar, never with gustar",
+            "Never — it's always optional"
           ],
           "answerIndex": 0,
           "explanation": "Ambiguity is the trigger for making the clarifier functionally necessary rather than just emphatic."
@@ -6180,10 +6180,10 @@
         {
           "prompt": "Translate: 'Marisol loves spicy food; me, not so much.'",
           "options": [
-            "Marisol encanta el picante; yo, no tanto. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A Marisol la encanta el picante; a mí, no tanto. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A Marisol le encantan el picante; a mí, no tanto. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A Marisol le encanta el picante; a mí, no tanto. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "Marisol encanta el picante; yo, no tanto.",
+            "A Marisol la encanta el picante; a mí, no tanto.",
+            "A Marisol le encantan el picante; a mí, no tanto.",
+            "A Marisol le encanta el picante; a mí, no tanto."
           ],
           "answerIndex": 3,
           "explanation": "le (not la) pairs with encantar; el picante is singular so encanta is correct."
@@ -6195,10 +6195,10 @@
         {
           "prompt": "A Marisol ___ encanta el picante.",
           "options": [
-            "lo (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "se (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "le (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "la (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "lo",
+            "se",
+            "le",
+            "la"
           ],
           "answerIndex": 2,
           "explanation": "le is the correct indirect object pronoun.",
@@ -6207,10 +6207,10 @@
         {
           "prompt": "A mí me gusta el café, pero ___ Luis le gusta el té.",
           "options": [
-            "en (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "a (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "le (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "de (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "en",
+            "a",
+            "le",
+            "de"
           ],
           "answerIndex": 1,
           "explanation": "a Luis clarifies/contrasts.",
@@ -6220,9 +6220,9 @@
           "prompt": "Why is 'A Marisol' added before 'le encanta el picante'?",
           "options": [
             "le alone is ambiguous (him/her/formal-you)",
-            "It changes the verb tense (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "It's a subject pronoun replacing le (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Pure decoration (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "It changes the verb tense",
+            "It's a subject pronoun replacing le",
+            "Pure decoration"
           ],
           "answerIndex": 0,
           "explanation": "Disambiguation is the core function taught in this lesson.",
@@ -6231,10 +6231,10 @@
         {
           "prompt": "¿A ti te ___ los tacos también? (Do you love tacos too?)",
           "options": [
-            "encanta (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "encantas (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "encanto (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "encantan (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "encanta",
+            "encantas",
+            "encanto",
+            "encantan"
           ],
           "answerIndex": 3,
           "explanation": "los tacos is plural, so encantan agrees with it.",
@@ -6243,10 +6243,10 @@
         {
           "prompt": "What's the core grammatical similarity between gustar and encantar?",
           "options": [
-            "They conjugate completely differently (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "gustar is only for drinks, encantar only for food (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Both use an indirect object pronoun for the person and agree in verb form with the thing being liked/loved (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "encantar doesn't need a pronoun at all (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "They conjugate completely differently",
+            "gustar is only for drinks, encantar only for food",
+            "Both use an indirect object pronoun for the person and agree in verb form with the thing being liked/loved",
+            "encantar doesn't need a pronoun at all"
           ],
           "answerIndex": 2,
           "explanation": "Same underlying grammar pattern, different intensity of meaning.",
@@ -6255,10 +6255,10 @@
         {
           "prompt": "Translate: 'Marisol absolutely loves spicy food.'",
           "options": [
-            "A Marisol la encanta el picante. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A Marisol le encanta el picante. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "Marisol encanta el picante. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)",
-            "A Marisol le encantan el picante. (Use encantar for stronger preferences and add the a  person clarifier to disambiguate or emphasize who likes what)"
+            "A Marisol la encanta el picante.",
+            "A Marisol le encanta el picante.",
+            "Marisol encanta el picante.",
+            "A Marisol le encantan el picante."
           ],
           "answerIndex": 1,
           "explanation": "le (indirect object) + encanta (agrees with singular el picante).",
@@ -6321,10 +6321,10 @@
         {
           "prompt": "___ los tacos, por favor. (I want the tacos, please.)",
           "options": [
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puedo (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quieres (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quisiera",
+            "Puedo",
+            "Quieres",
+            "Quiero"
           ],
           "answerIndex": 3,
           "explanation": "Quiero is the direct, everyday 'I want' for ordering."
@@ -6332,10 +6332,10 @@
         {
           "prompt": "___ el mole, por favor. (More formal: I would like the mole.)",
           "options": [
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puedes (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quieren (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quisiera",
+            "Puedes",
+            "Quieren",
+            "Quiero"
           ],
           "answerIndex": 0,
           "explanation": "Quisiera is the softer, more polite 'I would like.'"
@@ -6343,10 +6343,10 @@
         {
           "prompt": "¿___ pedir algo más? (Can I order something else?)",
           "options": [
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puedo (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puede (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quisiera",
+            "Puedo",
+            "Puede",
+            "Quiero"
           ],
           "answerIndex": 1,
           "explanation": "Puedo (from poder) asks about ability/permission."
@@ -6354,10 +6354,10 @@
         {
           "prompt": "How do you ask for the check in a Spanish-speaking restaurant?",
           "options": [
-            "La cuenta, por favor (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero la cuenta ahora (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Give a hand signal only (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Wait silently until it appears (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "La cuenta, por favor",
+            "Quiero la cuenta ahora",
+            "Give a hand signal only",
+            "Wait silently until it appears"
           ],
           "answerIndex": 0,
           "explanation": "The check is normally requested explicitly, not brought automatically."
@@ -6369,10 +6369,10 @@
         {
           "prompt": "Translate: 'Could you bring me the check, please?'",
           "options": [
-            "¿Me puede traer la cuenta, por favor? (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "¿Puedo traer la cuenta, por favor? (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "¿Quiero traer la cuenta, por favor? (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "¿Traer me puede la cuenta, por favor? (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "¿Me puede traer la cuenta, por favor?",
+            "¿Puedo traer la cuenta, por favor?",
+            "¿Quiero traer la cuenta, por favor?",
+            "¿Traer me puede la cuenta, por favor?"
           ],
           "answerIndex": 0,
           "explanation": "¿Me puede traer...? keeps me right before puede, then the infinitive traer, then the object."
@@ -6380,10 +6380,10 @@
         {
           "prompt": "Why might a server NOT bring the check to your table even after you've clearly finished eating?",
           "options": [
-            "It's considered rude to serve dessert (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Bringing it unasked can seem like rushing the customer; you're expected to request it explicitly (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "The restaurant forgot (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Checks are only given in the morning (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "It's considered rude to serve dessert",
+            "Bringing it unasked can seem like rushing the customer; you're expected to request it explicitly",
+            "The restaurant forgot",
+            "Checks are only given in the morning"
           ],
           "answerIndex": 1,
           "explanation": "This captures the specific cultural reasoning from the note, not just 'ask for the check.'"
@@ -6391,10 +6391,10 @@
         {
           "prompt": "What's the practical difference between Quiero el mole and Quisiera el mole?",
           "options": [
-            "They mean completely different foods (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "No difference at all (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero is direct/everyday; quisiera is softer and more formal, like 'I want' vs. 'I would like' (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quisiera is used only for drinks (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "They mean completely different foods",
+            "No difference at all",
+            "Quiero is direct/everyday; quisiera is softer and more formal, like 'I want' vs. 'I would like'",
+            "Quisiera is used only for drinks"
           ],
           "answerIndex": 2,
           "explanation": "This is the formality distinction taught in the explanation."
@@ -6406,10 +6406,10 @@
         {
           "prompt": "___ los tacos, por favor.",
           "options": [
-            "Quieres (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puedo (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quieres",
+            "Quiero",
+            "Quisiera",
+            "Puedo"
           ],
           "answerIndex": 1,
           "explanation": "Quiero for direct ordering.",
@@ -6418,10 +6418,10 @@
         {
           "prompt": "___ el mole, por favor. (more formal)",
           "options": [
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quieren (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puedes (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quisiera",
+            "Quieren",
+            "Quiero",
+            "Puedes"
           ],
           "answerIndex": 0,
           "explanation": "Quisiera softens the request.",
@@ -6430,10 +6430,10 @@
         {
           "prompt": "¿___ pedir algo más?",
           "options": [
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puede (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Puedo (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quiero",
+            "Puede",
+            "Quisiera",
+            "Puedo"
           ],
           "answerIndex": 3,
           "explanation": "Puedo asks about permission/ability.",
@@ -6442,10 +6442,10 @@
         {
           "prompt": "¿Me ___ traer la cuenta, por favor? (Could you bring me the check?)",
           "options": [
-            "puedo (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "puede (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "puedo",
+            "quisiera",
+            "puede",
+            "quiero"
           ],
           "answerIndex": 2,
           "explanation": "puede (you-formal, can) is correct when addressing a server formally.",
@@ -6454,10 +6454,10 @@
         {
           "prompt": "How do you request the check in most Spanish-speaking restaurants?",
           "options": [
-            "It's brought automatically once you finish (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "You ask explicitly: La cuenta, por favor (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "You must pay at a register before sitting down (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "You leave money on the table without asking (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "It's brought automatically once you finish",
+            "You ask explicitly: La cuenta, por favor",
+            "You must pay at a register before sitting down",
+            "You leave money on the table without asking"
           ],
           "answerIndex": 1,
           "explanation": "The check is normally requested, reflecting the sobremesa custom of not rushing diners.",
@@ -6466,10 +6466,10 @@
         {
           "prompt": "Which is more formal: Quiero el mole or Quisiera el mole?",
           "options": [
-            "Quisiera (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Quiero (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "Neither is used for ordering (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)",
-            "They're equally formal (Order food and drinks politely using querer quieroquisiera and ask for things with poder puedome puede)"
+            "Quisiera",
+            "Quiero",
+            "Neither is used for ordering",
+            "They're equally formal"
           ],
           "answerIndex": 0,
           "explanation": "Quisiera is the softened, more formal register.",
@@ -6530,10 +6530,10 @@
         {
           "prompt": "¿Qué te ___ comer? (What do you like to eat?)",
           "options": [
-            "gustas (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusta (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusto (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustan (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "gustas",
+            "gusta",
+            "gusto",
+            "gustan"
           ],
           "answerIndex": 1,
           "explanation": "comer (the infinitive) acts as a singular concept, so gusta is correct."
@@ -6541,10 +6541,10 @@
         {
           "prompt": "No me ___ nada el picante. (I don't like spicy food at all.)",
           "options": [
-            "gusta (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusto (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustas (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustan (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "gusta",
+            "gusto",
+            "gustas",
+            "gustan"
           ],
           "answerIndex": 0,
           "explanation": "el picante is singular, so gusta agrees with it; nada intensifies the negative."
@@ -6552,10 +6552,10 @@
         {
           "prompt": "Yo ___ el picante. (I hate spicy food.)",
           "options": [
-            "odio (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusto (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "me odia (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "odia (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "odio",
+            "gusto",
+            "me odia",
+            "odia"
           ],
           "answerIndex": 0,
           "explanation": "odiar is an ordinary verb where yo is the subject: yo odio, conjugated like any -ar verb."
@@ -6563,10 +6563,10 @@
         {
           "prompt": "What's the key grammatical difference between odiar and gustar?",
           "options": [
-            "No difference — they conjugate identically (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustar is more formal than odiar (Ask about and express strong likes and dislikes with Qu te gusta)",
+            "No difference — they conjugate identically",
+            "gustar is more formal than odiar",
             "odiar puts the person as subject (ordinary verb)",
-            "odiar is only used for drinks (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "odiar is only used for drinks"
           ],
           "answerIndex": 2,
           "explanation": "This is the structural trap explicitly taught in the lesson."
@@ -6578,10 +6578,10 @@
         {
           "prompt": "Translate: 'I hate spicy food.' using odiar",
           "options": [
-            "Yo odio el picante. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "Me odio el picante. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "A mí me odia el picante. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "Yo odia el picante. (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "Yo odio el picante.",
+            "Me odio el picante.",
+            "A mí me odia el picante.",
+            "Yo odia el picante."
           ],
           "answerIndex": 0,
           "explanation": "odiar conjugates for yo (odio) as an ordinary subject-verb-object sentence."
@@ -6589,10 +6589,10 @@
         {
           "prompt": "Translate: 'I don't like spicy food at all.' using gustar",
           "options": [
-            "No me gusta nada el picante. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "El picante no gusta nada. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "Yo no odio nada el picante. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "No me gustan nada el picante. (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "No me gusta nada el picante.",
+            "El picante no gusta nada.",
+            "Yo no odio nada el picante.",
+            "No me gustan nada el picante."
           ],
           "answerIndex": 0,
           "explanation": "gustar keeps its me + gusta(singular) pattern even in the negative, with nada added for emphasis."
@@ -6600,10 +6600,10 @@
         {
           "prompt": "Why do 'Yo odio el picante' and 'No me gusta nada el picante' use completely different sentence structures despite similar meaning?",
           "options": [
-            "They don't — they're built the same way (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "odiar is an ordinary verb (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustar cannot be negated (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "odiar can only be used in questions (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "They don't — they're built the same way",
+            "odiar is an ordinary verb",
+            "gustar cannot be negated",
+            "odiar can only be used in questions"
           ],
           "answerIndex": 1,
           "explanation": "This is the exact structural contrast explained in the lesson."
@@ -6615,10 +6615,10 @@
         {
           "prompt": "¿Qué te ___ comer?",
           "options": [
-            "gusta (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustan (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusto (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustas (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "gusta",
+            "gustan",
+            "gusto",
+            "gustas"
           ],
           "answerIndex": 0,
           "explanation": "gusta agrees with the infinitive comer.",
@@ -6627,10 +6627,10 @@
         {
           "prompt": "No me ___ nada el picante.",
           "options": [
-            "gustas (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustan (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusto (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gusta (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "gustas",
+            "gustan",
+            "gusto",
+            "gusta"
           ],
           "answerIndex": 3,
           "explanation": "el picante is singular.",
@@ -6639,10 +6639,10 @@
         {
           "prompt": "Yo ___ el picante. (I hate spicy food.)",
           "options": [
-            "gusto (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "odia (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "odio (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "me odia (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "gusto",
+            "odia",
+            "odio",
+            "me odia"
           ],
           "answerIndex": 2,
           "explanation": "odiar conjugates normally for yo.",
@@ -6651,10 +6651,10 @@
         {
           "prompt": "In 'A Marisol nunca le gusta nada suave,' what is the grammatical subject?",
           "options": [
-            "Marisol (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "nada suave (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "le (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "nunca (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "Marisol",
+            "nada suave",
+            "le",
+            "nunca"
           ],
           "answerIndex": 1,
           "explanation": "gustar's grammar keeps the thing (or, here, the negated 'nothing mild') as the subject; Marisol is marked by le, the indirect object.",
@@ -6663,10 +6663,10 @@
         {
           "prompt": "Which verb conjugates like an ordinary -ar verb with the person as subject: odiar or gustar?",
           "options": [
-            "odiar (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "gustar (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "Both work identically (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "Neither conjugates normally (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "odiar",
+            "gustar",
+            "Both work identically",
+            "Neither conjugates normally"
           ],
           "answerIndex": 0,
           "explanation": "odiar is the ordinary-grammar verb; gustar is the flipped-grammar one.",
@@ -6675,10 +6675,10 @@
         {
           "prompt": "Translate: 'Marisol never likes anything mild.'",
           "options": [
-            "Marisol nunca odia nada suave. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "Marisol nunca gusta nada suave. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "A Marisol nunca le gustan nada suave. (Ask about and express strong likes and dislikes with Qu te gusta)",
-            "A Marisol nunca le gusta nada suave. (Ask about and express strong likes and dislikes with Qu te gusta)"
+            "Marisol nunca odia nada suave.",
+            "Marisol nunca gusta nada suave.",
+            "A Marisol nunca le gustan nada suave.",
+            "A Marisol nunca le gusta nada suave."
           ],
           "answerIndex": 3,
           "explanation": "le gusta (singular, agreeing with 'nada suave' as a singular negated concept) with the a-clarifier Marisol.",
@@ -6743,10 +6743,10 @@
         {
           "prompt": "A mí me ___ las enchiladas. (I like enchiladas.)",
           "options": [
-            "gusta (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gustan (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gusto (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gustas (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "gusta",
+            "gustan",
+            "gusto",
+            "gustas"
           ],
           "answerIndex": 1,
           "explanation": "las enchiladas is plural, so gustan agrees with it."
@@ -6754,10 +6754,10 @@
         {
           "prompt": "a Marisol le ___ el picante. (Marisol loves spicy food.)",
           "options": [
-            "encanta (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "encantan (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "encantas (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "encanto (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "encanta",
+            "encantan",
+            "encantas",
+            "encanto"
           ],
           "answerIndex": 0,
           "explanation": "el picante is singular, so encanta is correct."
@@ -6765,10 +6765,10 @@
         {
           "prompt": "Ella no ___ la comida suave, pero no le gusta nada tampoco. (She doesn't hate mild food...)",
           "options": [
-            "odia (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "odio (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gusta (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "le odia (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "odia",
+            "odio",
+            "gusta",
+            "le odia"
           ],
           "answerIndex": 0,
           "explanation": "odiar conjugates normally for ella: odia."
@@ -6776,10 +6776,10 @@
         {
           "prompt": "What four Unit 6 elements does this capstone combine?",
           "options": [
-            "gustar's flipped grammar, encantar with the a-clarifier, querer/poder for ordering, and the gustar-vs-odiar contrast (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Only querer and poder (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Only food vocabulary (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Only the check-requesting phrase (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "gustar's flipped grammar, encantar with the a-clarifier, querer/poder for ordering, and the gustar-vs-odiar contrast",
+            "Only querer and poder",
+            "Only food vocabulary",
+            "Only the check-requesting phrase"
           ],
           "answerIndex": 0,
           "explanation": "This is the explicit combination the capstone paragraph is built around."
@@ -6791,10 +6791,10 @@
         {
           "prompt": "Translate: 'I want to order the mole, and Marisol would like the extra spicy, please.'",
           "options": [
-            "Quiero pedir el mole, y Marisol quiere el picante extra, por favor. (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Quiero pedir el mole, y Marisol quisiera el picante extra, por favor. (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Quiero pide el mole, y Marisol quisiera el picante extra, por favor. (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Quisiera pedir el mole, y Marisol quiero el picante extra, por favor. (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "Quiero pedir el mole, y Marisol quiere el picante extra, por favor.",
+            "Quiero pedir el mole, y Marisol quisiera el picante extra, por favor.",
+            "Quiero pide el mole, y Marisol quisiera el picante extra, por favor.",
+            "Quisiera pedir el mole, y Marisol quiero el picante extra, por favor."
           ],
           "answerIndex": 1,
           "explanation": "Quiero (direct, narrator) contrasted with Marisol's quisiera (softer, formal) — matching each speaker's register from Lesson 3."
@@ -6802,10 +6802,10 @@
         {
           "prompt": "Why does the paragraph use quiero for the narrator but quisiera for Marisol's request?",
           "options": [
-            "Because Marisol is a formal-you (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Random variation with no meaning (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "quisiera is a typo for quiere (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "To show the formality contrast from Lesson 3 — quiero is direct/everyday, quisiera is a softer register for the same action (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "Because Marisol is a formal-you",
+            "Random variation with no meaning",
+            "quisiera is a typo for quiere",
+            "To show the formality contrast from Lesson 3 — quiero is direct/everyday, quisiera is a softer register for the same action"
           ],
           "answerIndex": 3,
           "explanation": "This reuses the querer/quisiera register distinction taught explicitly in Lesson 3."
@@ -6813,10 +6813,10 @@
         {
           "prompt": "What is the overall skill this capstone paragraph tests?",
           "options": [
-            "Isolated vocabulary recall only (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Only conjugating odiar (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Only asking for the check (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Producing a connected, multi-sentence restaurant scene combining gustar-family verbs, querer/poder, and the gustar-vs-odiar grammar contrast (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "Isolated vocabulary recall only",
+            "Only conjugating odiar",
+            "Only asking for the check",
+            "Producing a connected, multi-sentence restaurant scene combining gustar-family verbs, querer/poder, and the gustar-vs-odiar grammar contrast"
           ],
           "answerIndex": 3,
           "explanation": "This is the explicit goal stated in the lesson explanation."
@@ -6828,10 +6828,10 @@
         {
           "prompt": "A mí me ___ las enchiladas.",
           "options": [
-            "gustas (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gusta (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gusto (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gustan (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "gustas",
+            "gusta",
+            "gusto",
+            "gustan"
           ],
           "answerIndex": 3,
           "explanation": "gustan agrees with plural enchiladas.",
@@ -6840,10 +6840,10 @@
         {
           "prompt": "A Marisol le ___ el picante.",
           "options": [
-            "encantan (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "encantas (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "encanta (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "encanto (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "encantan",
+            "encantas",
+            "encanta",
+            "encanto"
           ],
           "answerIndex": 2,
           "explanation": "encanta agrees with singular el picante.",
@@ -6852,10 +6852,10 @@
         {
           "prompt": "Ella no ___ la comida suave. (She doesn't hate mild food.)",
           "options": [
-            "odio (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "odia (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "le odia (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "gusta (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "odio",
+            "odia",
+            "le odia",
+            "gusta"
           ],
           "answerIndex": 1,
           "explanation": "odiar conjugates normally, person as subject.",
@@ -6864,10 +6864,10 @@
         {
           "prompt": "Quiero pedir el mole, y Marisol ___ el picante extra, por favor. (softer register)",
           "options": [
-            "quisiera (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "quiere (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "puede (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "quiero (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "quisiera",
+            "quiere",
+            "puede",
+            "quiero"
           ],
           "answerIndex": 0,
           "explanation": "quisiera is the softer, more formal 'would like,' matching Marisol's polite request.",
@@ -6876,10 +6876,10 @@
         {
           "prompt": "¿Nos ___ traer también agua, por favor? (Could you bring us water too?)",
           "options": [
-            "puedo (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "quiero (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "quisiera (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "puede (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "puedo",
+            "quiero",
+            "quisiera",
+            "puede"
           ],
           "answerIndex": 3,
           "explanation": "puede (formal you, can) is used when asking a server for something.",
@@ -6888,10 +6888,10 @@
         {
           "prompt": "What is the overall skill this capstone paragraph tests?",
           "options": [
-            "Only greeting a server (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Only conjugating -ar verbs (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Producing a connected, multi-sentence restaurant scene combining gustar-family verbs, querer/poder, and the gustar-vs-odiar contrast (Produce a connected restaurantordering paragraph combining food vocabulary)",
-            "Isolated vocabulary recall only (Produce a connected restaurantordering paragraph combining food vocabulary)"
+            "Only greeting a server",
+            "Only conjugating -ar verbs",
+            "Producing a connected, multi-sentence restaurant scene combining gustar-family verbs, querer/poder, and the gustar-vs-odiar contrast",
+            "Isolated vocabulary recall only"
           ],
           "answerIndex": 2,
           "explanation": "This is the explicit goal stated in the lesson explanation.",
@@ -6957,10 +6957,10 @@
         {
           "prompt": "Marisol ___ el chile más picante. (tried, probar)",
           "options": [
-            "probo (Conjugate regular AR verbs in the preterite)",
-            "probaste (Conjugate regular AR verbs in the preterite)",
-            "prueba (Conjugate regular AR verbs in the preterite)",
-            "probó (Conjugate regular AR verbs in the preterite)"
+            "probo",
+            "probaste",
+            "prueba",
+            "probó"
           ],
           "answerIndex": 3,
           "explanation": "él/ella preterite ending for -AR verbs is -ó (accented)."
@@ -6968,10 +6968,10 @@
         {
           "prompt": "Yo ___ con ella después. (talked, hablar)",
           "options": [
-            "hablaste (Conjugate regular AR verbs in the preterite)",
-            "habla (Conjugate regular AR verbs in the preterite)",
-            "hablé (Conjugate regular AR verbs in the preterite)",
-            "hablo (Conjugate regular AR verbs in the preterite)"
+            "hablaste",
+            "habla",
+            "hablé",
+            "hablo"
           ],
           "answerIndex": 2,
           "explanation": "yo preterite ending for -AR verbs is -é (accented) — without the accent, hablo means 'I speak' (present)."
@@ -6979,10 +6979,10 @@
         {
           "prompt": "Ellos ___ cuando probaron la salsa. (screamed, gritar)",
           "options": [
-            "gritamos (Conjugate regular AR verbs in the preterite)",
-            "gritó (Conjugate regular AR verbs in the preterite)",
-            "gritaron (Conjugate regular AR verbs in the preterite)",
-            "gritan (Conjugate regular AR verbs in the preterite)"
+            "gritamos",
+            "gritó",
+            "gritaron",
+            "gritan"
           ],
           "answerIndex": 2,
           "explanation": "ellos preterite ending for -AR verbs is -aron."
@@ -6990,9 +6990,9 @@
         {
           "prompt": "Why is the accent mark on hablé so important?",
           "options": [
-            "It changes the verb to a question (Conjugate regular AR verbs in the preterite)",
-            "It's purely decorative and can be dropped (Conjugate regular AR verbs in the preterite)",
-            "It marks a different subject entirely (Conjugate regular AR verbs in the preterite)",
+            "It changes the verb to a question",
+            "It's purely decorative and can be dropped",
+            "It marks a different subject entirely",
             "Without it, hablo means 'I speak' (present)"
           ],
           "answerIndex": 3,
@@ -7005,10 +7005,10 @@
         {
           "prompt": "Translate: 'We bought something to eat.'",
           "options": [
-            "Nosotros compró algo de comer. (Conjugate regular AR verbs in the preterite)",
-            "Nosotros compraron algo de comer. (Conjugate regular AR verbs in the preterite)",
-            "Nosotros compra algo de comer. (Conjugate regular AR verbs in the preterite)",
-            "Nosotros compramos algo de comer. (Conjugate regular AR verbs in the preterite)"
+            "Nosotros compró algo de comer.",
+            "Nosotros compraron algo de comer.",
+            "Nosotros compra algo de comer.",
+            "Nosotros compramos algo de comer."
           ],
           "answerIndex": 3,
           "explanation": "nosotros -AR preterite is identical in spelling to the present tense form."
@@ -7017,9 +7017,9 @@
           "prompt": "How can you tell 'compramos' means 'we bought' (past) rather than 'we buy' (present) in a sentence with no other clues?",
           "options": [
             "You often can't from the verb alone — context words like ayer (yesterday)",
-            "The verb changes its accent for the past (Conjugate regular AR verbs in the preterite)",
-            "It's impossible to say 'we buy' in Spanish (Conjugate regular AR verbs in the preterite)",
-            "You can always tell from the spelling alone (Conjugate regular AR verbs in the preterite)"
+            "The verb changes its accent for the past",
+            "It's impossible to say 'we buy' in Spanish",
+            "You can always tell from the spelling alone"
           ],
           "answerIndex": 0,
           "explanation": "The nosotros -AR preterite form is genuinely identical to the present; context does the disambiguating work."
@@ -7027,10 +7027,10 @@
         {
           "prompt": "Translate: 'They screamed when they tried the sauce.'",
           "options": [
-            "Ellos gritaron cuando prueban la salsa. (Conjugate regular AR verbs in the preterite)",
-            "Ellos gritan cuando prueban la salsa. (Conjugate regular AR verbs in the preterite)",
-            "Ellos gritaron cuando probaron la salsa. (Conjugate regular AR verbs in the preterite)",
-            "Ellos gritó cuando probó la salsa. (Conjugate regular AR verbs in the preterite)"
+            "Ellos gritaron cuando prueban la salsa.",
+            "Ellos gritan cuando prueban la salsa.",
+            "Ellos gritaron cuando probaron la salsa.",
+            "Ellos gritó cuando probó la salsa."
           ],
           "answerIndex": 2,
           "explanation": "Both verbs need the ellos preterite ending -aron for a consistent past narration."
@@ -7042,10 +7042,10 @@
         {
           "prompt": "Marisol ___ el chile más picante.",
           "options": [
-            "probo (Conjugate regular AR verbs in the preterite)",
-            "probaste (Conjugate regular AR verbs in the preterite)",
-            "probó (Conjugate regular AR verbs in the preterite)",
-            "prueba (Conjugate regular AR verbs in the preterite)"
+            "probo",
+            "probaste",
+            "probó",
+            "prueba"
           ],
           "answerIndex": 2,
           "explanation": "-ó ending for él/ella preterite.",
@@ -7054,10 +7054,10 @@
         {
           "prompt": "Yo ___ con ella después.",
           "options": [
-            "hablo (Conjugate regular AR verbs in the preterite)",
-            "hablé (Conjugate regular AR verbs in the preterite)",
-            "hablaste (Conjugate regular AR verbs in the preterite)",
-            "habla (Conjugate regular AR verbs in the preterite)"
+            "hablo",
+            "hablé",
+            "hablaste",
+            "habla"
           ],
           "answerIndex": 1,
           "explanation": "-é ending for yo preterite, accented.",
@@ -7066,10 +7066,10 @@
         {
           "prompt": "Ellos ___ cuando probaron la salsa.",
           "options": [
-            "gritaron (Conjugate regular AR verbs in the preterite)",
-            "gritó (Conjugate regular AR verbs in the preterite)",
-            "gritamos (Conjugate regular AR verbs in the preterite)",
-            "gritan (Conjugate regular AR verbs in the preterite)"
+            "gritaron",
+            "gritó",
+            "gritamos",
+            "gritan"
           ],
           "answerIndex": 0,
           "explanation": "-aron ending for ellos preterite.",
@@ -7078,10 +7078,10 @@
         {
           "prompt": "Nosotros ___ algo de comer ayer. (bought)",
           "options": [
-            "compra (Conjugate regular AR verbs in the preterite)",
-            "compraron (Conjugate regular AR verbs in the preterite)",
-            "compró (Conjugate regular AR verbs in the preterite)",
-            "compramos (Conjugate regular AR verbs in the preterite)"
+            "compra",
+            "compraron",
+            "compró",
+            "compramos"
           ],
           "answerIndex": 3,
           "explanation": "nosotros -AR preterite form, identical spelling to present, disambiguated here by 'ayer.'",
@@ -7090,10 +7090,10 @@
         {
           "prompt": "What's the danger of dropping the accent mark on a preterite yo-form verb like hablé?",
           "options": [
-            "It becomes a command form (Conjugate regular AR verbs in the preterite)",
-            "Nothing changes, accents are optional (Conjugate regular AR verbs in the preterite)",
-            "It becomes hablo, which means 'I speak' in the present — a completely different tense (Conjugate regular AR verbs in the preterite)",
-            "It becomes plural (Conjugate regular AR verbs in the preterite)"
+            "It becomes a command form",
+            "Nothing changes, accents are optional",
+            "It becomes hablo, which means 'I speak' in the present — a completely different tense",
+            "It becomes plural"
           ],
           "answerIndex": 2,
           "explanation": "The accent is the sole distinguishing mark between present 'hablo' and preterite 'hablé.'",
@@ -7102,10 +7102,10 @@
         {
           "prompt": "Which subject pronoun's -AR preterite form is spelled identically to its present-tense form?",
           "options": [
-            "él/ella (Conjugate regular AR verbs in the preterite)",
-            "nosotros (Conjugate regular AR verbs in the preterite)",
-            "tú (Conjugate regular AR verbs in the preterite)",
-            "yo (Conjugate regular AR verbs in the preterite)"
+            "él/ella",
+            "nosotros",
+            "tú",
+            "yo"
           ],
           "answerIndex": 1,
           "explanation": "Only nosotros -AR verbs share an identical form between present and preterite.",
@@ -7164,10 +7164,10 @@
         {
           "prompt": "Marisol ___ diez tacos. (ate, comer)",
           "options": [
-            "comió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "comiste (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "come (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "comí (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "comió",
+            "comiste",
+            "come",
+            "comí"
           ],
           "answerIndex": 0,
           "explanation": "él/ella preterite ending for -ER verbs is -ió."
@@ -7175,10 +7175,10 @@
         {
           "prompt": "Yo ___ mucha agua. (drank, beber)",
           "options": [
-            "bebí (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "bebo (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "bebiste (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "bebió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "bebí",
+            "bebo",
+            "bebiste",
+            "bebió"
           ],
           "answerIndex": 0,
           "explanation": "yo preterite ending for -ER verbs is -í (accented)."
@@ -7186,10 +7186,10 @@
         {
           "prompt": "Ella no ___ de casa. (left, salir)",
           "options": [
-            "salió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "sale (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "salimos (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "salí (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "salió",
+            "sale",
+            "salimos",
+            "salí"
           ],
           "answerIndex": 0,
           "explanation": "salir is a regular -IR verb here: él/ella ending is -ió."
@@ -7197,10 +7197,10 @@
         {
           "prompt": "What's true about -ER and -IR preterite endings compared to each other?",
           "options": [
-            "They're completely different from one another (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "They're identical — one ending set covers both verb families (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "-IR verbs never use accents in the preterite (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Only -ER verbs have a preterite (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "They're completely different from one another",
+            "They're identical — one ending set covers both verb families",
+            "-IR verbs never use accents in the preterite",
+            "Only -ER verbs have a preterite"
           ],
           "answerIndex": 1,
           "explanation": "This is the central shortcut of the lesson — one ending set for both families."
@@ -7212,10 +7212,10 @@
         {
           "prompt": "Translate: 'We had an unforgettable experience.'",
           "options": [
-            "Nosotros vivió una experiencia inolvidable. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Nosotros vivieron una experiencia inolvidable. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Nosotros vivimos una experiencia inolvidable. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Nosotros vive una experiencia inolvidable. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "Nosotros vivió una experiencia inolvidable.",
+            "Nosotros vivieron una experiencia inolvidable.",
+            "Nosotros vivimos una experiencia inolvidable.",
+            "Nosotros vive una experiencia inolvidable."
           ],
           "answerIndex": 2,
           "explanation": "nosotros preterite ending for -IR verbs is -imos."
@@ -7223,10 +7223,10 @@
         {
           "prompt": "Why do comí (I ate) and viví (I lived) end the same way, even though comer and vivir belong to different conjugation families in the present tense?",
           "options": [
-            "-ER and -IR verbs share one identical set of preterite endings (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "comer is secretly an -IR verb (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Only irregular verbs can end in í (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "It's a coincidence with no rule behind it (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "-ER and -IR verbs share one identical set of preterite endings",
+            "comer is secretly an -IR verb",
+            "Only irregular verbs can end in í",
+            "It's a coincidence with no rule behind it"
           ],
           "answerIndex": 0,
           "explanation": "This is the shared-ending rule this lesson teaches."
@@ -7234,10 +7234,10 @@
         {
           "prompt": "Translate: 'She didn't leave home without her hot sauce bottle.'",
           "options": [
-            "Ella no sale de casa sin su botella de salsa. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Ella no salí de casa sin su botella de salsa. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Ella no salieron de casa sin su botella de salsa. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "Ella no salió de casa sin su botella de salsa. (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "Ella no sale de casa sin su botella de salsa.",
+            "Ella no salí de casa sin su botella de salsa.",
+            "Ella no salieron de casa sin su botella de salsa.",
+            "Ella no salió de casa sin su botella de salsa."
           ],
           "answerIndex": 3,
           "explanation": "salió is the correct él/ella preterite form of salir."
@@ -7249,10 +7249,10 @@
         {
           "prompt": "Marisol ___ diez tacos.",
           "options": [
-            "comí (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "comió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "comiste (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "come (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "comí",
+            "comió",
+            "comiste",
+            "come"
           ],
           "answerIndex": 1,
           "explanation": "-ió ending for él/ella preterite.",
@@ -7261,10 +7261,10 @@
         {
           "prompt": "Yo ___ mucha agua.",
           "options": [
-            "bebí (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "bebió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "bebiste (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "bebo (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "bebí",
+            "bebió",
+            "bebiste",
+            "bebo"
           ],
           "answerIndex": 0,
           "explanation": "-í ending for yo preterite.",
@@ -7273,10 +7273,10 @@
         {
           "prompt": "Ella no ___ de casa.",
           "options": [
-            "salí (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "sale (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "salimos (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "salió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "salí",
+            "sale",
+            "salimos",
+            "salió"
           ],
           "answerIndex": 3,
           "explanation": "-ió ending for él/ella preterite of salir.",
@@ -7285,10 +7285,10 @@
         {
           "prompt": "Nosotros ___ una experiencia inolvidable.",
           "options": [
-            "vive (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "vivieron (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "vivimos (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "vivió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "vive",
+            "vivieron",
+            "vivimos",
+            "vivió"
           ],
           "answerIndex": 2,
           "explanation": "-imos ending for nosotros preterite.",
@@ -7297,10 +7297,10 @@
         {
           "prompt": "Which ending set do -ER and -IR verbs use in the preterite?",
           "options": [
-            "Two completely different sets (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "The same shared set: í, iste, ió, imos, ieron (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "There is no preterite for -IR verbs (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "-ER verbs use -AR endings instead (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "Two completely different sets",
+            "The same shared set: í, iste, ió, imos, ieron",
+            "There is no preterite for -IR verbs",
+            "-ER verbs use -AR endings instead"
           ],
           "answerIndex": 1,
           "explanation": "This shared-ending fact is the core lesson takeaway.",
@@ -7309,10 +7309,10 @@
         {
           "prompt": "Ellos ___ mucho durante el reto. (they suffered, sufrir)",
           "options": [
-            "sufrieron (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "sufrimos (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "sufren (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)",
-            "sufrió (Conjugate regular ER and IR verbs in the preterite using their single shared ending set)"
+            "sufrieron",
+            "sufrimos",
+            "sufren",
+            "sufrió"
           ],
           "answerIndex": 0,
           "explanation": "ellos preterite ending for -IR verbs is -ieron.",
@@ -7375,10 +7375,10 @@
         {
           "prompt": "Marisol ___ al festival. (went, ir)",
           "options": [
-            "fui (Conjugate the key irregular preterite verbs irser identical forms)",
-            "va (Conjugate the key irregular preterite verbs irser identical forms)",
-            "iba (Conjugate the key irregular preterite verbs irser identical forms)",
-            "fue (Conjugate the key irregular preterite verbs irser identical forms)"
+            "fui",
+            "va",
+            "iba",
+            "fue"
           ],
           "answerIndex": 3,
           "explanation": "él/ella preterite of ir is fue — identical in spelling to ser's fue."
@@ -7386,10 +7386,10 @@
         {
           "prompt": "___ una locura. (It was crazy, ser)",
           "options": [
-            "Es (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Fui (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Era (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Fue (Conjugate the key irregular preterite verbs irser identical forms)"
+            "Es",
+            "Fui",
+            "Era",
+            "Fue"
           ],
           "answerIndex": 3,
           "explanation": "él/ella preterite of ser is also fue — same form as ir's fue."
@@ -7397,10 +7397,10 @@
         {
           "prompt": "Marisol ___ una salsa nueva. (made, hacer)",
           "options": [
-            "hace (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hico (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hació (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hizo (Conjugate the key irregular preterite verbs irser identical forms)"
+            "hace",
+            "hico",
+            "hació",
+            "hizo"
           ],
           "answerIndex": 3,
           "explanation": "hacer's él/ella preterite is hizo, with c→z spelling change."
@@ -7408,10 +7408,10 @@
         {
           "prompt": "Ella ___ que beber mucha agua. (had to, tener)",
           "options": [
-            "tiene (Conjugate the key irregular preterite verbs irser identical forms)",
-            "tuve (Conjugate the key irregular preterite verbs irser identical forms)",
-            "tenió (Conjugate the key irregular preterite verbs irser identical forms)",
-            "tuvo (Conjugate the key irregular preterite verbs irser identical forms)"
+            "tiene",
+            "tuve",
+            "tenió",
+            "tuvo"
           ],
           "answerIndex": 3,
           "explanation": "tener's él/ella preterite is tuvo, no accent mark."
@@ -7423,10 +7423,10 @@
         {
           "prompt": "How do you tell whether 'fue' means 'went' or 'was' in a given sentence?",
           "options": [
-            "You never can — the sentence is always ambiguous (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Context — ir and ser share the exact same preterite form fue, so meaning comes entirely from what surrounds it (Conjugate the key irregular preterite verbs irser identical forms)",
-            "fue always means 'went' (Conjugate the key irregular preterite verbs irser identical forms)",
-            "A written accent distinguishes them (Conjugate the key irregular preterite verbs irser identical forms)"
+            "You never can — the sentence is always ambiguous",
+            "Context — ir and ser share the exact same preterite form fue, so meaning comes entirely from what surrounds it",
+            "fue always means 'went'",
+            "A written accent distinguishes them"
           ],
           "answerIndex": 1,
           "explanation": "This is the genuinely surprising fact explained in this lesson — ir and ser truly overlap in the preterite."
@@ -7434,10 +7434,10 @@
         {
           "prompt": "Why does hacer's preterite become hizo instead of the expected 'hico'?",
           "options": [
-            "It's a totally random exception (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Spanish spelling swaps c for z before o to preserve the /s/ sound (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hacer isn't actually irregular (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hizo is a typo that became standard (Conjugate the key irregular preterite verbs irser identical forms)"
+            "It's a totally random exception",
+            "Spanish spelling swaps c for z before o to preserve the /s/ sound",
+            "hacer isn't actually irregular",
+            "hizo is a typo that became standard"
           ],
           "answerIndex": 1,
           "explanation": "The c→z swap is a spelling-preservation rule, not an arbitrary irregularity."
@@ -7445,10 +7445,10 @@
         {
           "prompt": "Translate: 'Everyone was at the festival until late.'",
           "options": [
-            "Todos estuvieron en el festival hasta tarde. (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Todos estaron en el festival hasta tarde. (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Todos fueron en el festival hasta tarde. (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Todos estuvo en el festival hasta tarde. (Conjugate the key irregular preterite verbs irser identical forms)"
+            "Todos estuvieron en el festival hasta tarde.",
+            "Todos estaron en el festival hasta tarde.",
+            "Todos fueron en el festival hasta tarde.",
+            "Todos estuvo en el festival hasta tarde."
           ],
           "answerIndex": 0,
           "explanation": "estar's ellos preterite is estuvieron, following the tuve/estuve irregular pattern."
@@ -7460,10 +7460,10 @@
         {
           "prompt": "Marisol ___ al festival.",
           "options": [
-            "fue (Conjugate the key irregular preterite verbs irser identical forms)",
-            "iba (Conjugate the key irregular preterite verbs irser identical forms)",
-            "fui (Conjugate the key irregular preterite verbs irser identical forms)",
-            "va (Conjugate the key irregular preterite verbs irser identical forms)"
+            "fue",
+            "iba",
+            "fui",
+            "va"
           ],
           "answerIndex": 0,
           "explanation": "ir's él/ella preterite is fue.",
@@ -7472,10 +7472,10 @@
         {
           "prompt": "___ una locura.",
           "options": [
-            "Fui (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Era (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Es (Conjugate the key irregular preterite verbs irser identical forms)",
-            "Fue (Conjugate the key irregular preterite verbs irser identical forms)"
+            "Fui",
+            "Era",
+            "Es",
+            "Fue"
           ],
           "answerIndex": 3,
           "explanation": "ser's él/ella preterite is also fue.",
@@ -7484,10 +7484,10 @@
         {
           "prompt": "Marisol ___ una salsa nueva.",
           "options": [
-            "hace (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hació (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hizo (Conjugate the key irregular preterite verbs irser identical forms)",
-            "hico (Conjugate the key irregular preterite verbs irser identical forms)"
+            "hace",
+            "hació",
+            "hizo",
+            "hico"
           ],
           "answerIndex": 2,
           "explanation": "hacer's él/ella preterite is hizo.",
@@ -7496,10 +7496,10 @@
         {
           "prompt": "Ella ___ que beber mucha agua.",
           "options": [
-            "tiene (Conjugate the key irregular preterite verbs irser identical forms)",
-            "tuvo (Conjugate the key irregular preterite verbs irser identical forms)",
-            "tenió (Conjugate the key irregular preterite verbs irser identical forms)",
-            "tuve (Conjugate the key irregular preterite verbs irser identical forms)"
+            "tiene",
+            "tuvo",
+            "tenió",
+            "tuve"
           ],
           "answerIndex": 1,
           "explanation": "tener's él/ella preterite is tuvo.",
@@ -7508,10 +7508,10 @@
         {
           "prompt": "Todos ___ en el festival hasta tarde. (were, estar)",
           "options": [
-            "estuvieron (Conjugate the key irregular preterite verbs irser identical forms)",
-            "estaron (Conjugate the key irregular preterite verbs irser identical forms)",
-            "estuvo (Conjugate the key irregular preterite verbs irser identical forms)",
-            "fueron (Conjugate the key irregular preterite verbs irser identical forms)"
+            "estuvieron",
+            "estaron",
+            "estuvo",
+            "fueron"
           ],
           "answerIndex": 0,
           "explanation": "estar's ellos preterite is estuvieron.",
@@ -7520,10 +7520,10 @@
         {
           "prompt": "What do all these irregular preterite forms (fue, hizo, tuvo, estuvo) have in common that regular preterite forms don't?",
           "options": [
-            "They all end in -ar (Conjugate the key irregular preterite verbs irser identical forms)",
-            "They're all reflexive (Conjugate the key irregular preterite verbs irser identical forms)",
-            "They only exist in the plural (Conjugate the key irregular preterite verbs irser identical forms)",
-            "None of them carry an accent mark (Conjugate the key irregular preterite verbs irser identical forms)"
+            "They all end in -ar",
+            "They're all reflexive",
+            "They only exist in the plural",
+            "None of them carry an accent mark"
           ],
           "answerIndex": 3,
           "explanation": "Unlike regular -AR/-ER/-IR preterite forms, these irregular stems take unaccented endings.",
@@ -7801,10 +7801,10 @@
         {
           "prompt": "Ayer ___ un día loco. (was, ser)",
           "options": [
-            "fue (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "fui (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "es (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "era (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "fue",
+            "fui",
+            "es",
+            "era"
           ],
           "answerIndex": 0,
           "explanation": "ser's preterite for 'it' (día) is fue, from Lesson 3."
@@ -7812,10 +7812,10 @@
         {
           "prompt": "Yo ___ la receta secreta. (looked for, buscar)",
           "options": [
-            "busqué (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "busco (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "buscó (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "buscé (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "busqué",
+            "busco",
+            "buscó",
+            "buscé"
           ],
           "answerIndex": 0,
           "explanation": "buscar's yo preterite needs the c→qu spelling change, from Lesson 4."
@@ -7823,10 +7823,10 @@
         {
           "prompt": "Mis amigos ___ a las seis. (arrived, llegar)",
           "options": [
-            "llegaron (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "llegué (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "llegó (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "llegamos (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "llegaron",
+            "llegué",
+            "llegó",
+            "llegamos"
           ],
           "answerIndex": 0,
           "explanation": "ellos preterite of regular -AR llegar is llegaron, from Lesson 1 — no spelling change needed outside yo."
@@ -7834,10 +7834,10 @@
         {
           "prompt": "What four Unit 7 elements does this capstone combine?",
           "options": [
-            "Regular -AR preterite, regular -ER preterite, irregular fue/hizo, and yo-only spelling changes (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Only irregular verbs (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Only the present tense (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Only reflexive verbs (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "Regular -AR preterite, regular -ER preterite, irregular fue/hizo, and yo-only spelling changes",
+            "Only irregular verbs",
+            "Only the present tense",
+            "Only reflexive verbs"
           ],
           "answerIndex": 0,
           "explanation": "This is the explicit combination stated in the lesson explanation."
@@ -7849,10 +7849,10 @@
         {
           "prompt": "Translate: 'I made a sauce with ten types of chile.'",
           "options": [
-            "Hizo una salsa con diez tipos de chile. (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Hice una salsa con diez tipos de chile. (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Hací una salsa con diez tipos de chile. (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Hago una salsa con diez tipos de chile. (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "Hizo una salsa con diez tipos de chile.",
+            "Hice una salsa con diez tipos de chile.",
+            "Hací una salsa con diez tipos de chile.",
+            "Hago una salsa con diez tipos de chile."
           ],
           "answerIndex": 1,
           "explanation": "hacer's yo preterite is hice (irregular, no accent), matching Marisol speaking about herself."
@@ -7860,9 +7860,9 @@
         {
           "prompt": "Why does 'Todos gritaron' use -aron while 'Bebimos' uses -imos, even though both describe the same past event?",
           "options": [
-            "They're actually interchangeable (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "One of them is a mistake (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "gritar and beber are the same verb (Produce a connected firstperson past narration combining regular ARERIR preterite)",
+            "They're actually interchangeable",
+            "One of them is a mistake",
+            "gritar and beber are the same verb",
             "gritaron is ellos preterite (-AR family)"
           ],
           "answerIndex": 3,
@@ -7871,10 +7871,10 @@
         {
           "prompt": "What actually happened to Marisol's homemade sauce, according to the story?",
           "options": [
-            "Nobody wanted to try it (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "It wasn't spicy enough (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "She never finished cooking it (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Her friends tried it and it turned out too spicy, even for Marisol (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "Nobody wanted to try it",
+            "It wasn't spicy enough",
+            "She never finished cooking it",
+            "Her friends tried it and it turned out too spicy, even for Marisol"
           ],
           "answerIndex": 3,
           "explanation": "This is the specific comic outcome the capstone paragraph builds toward."
@@ -7886,10 +7886,10 @@
         {
           "prompt": "Ayer ___ un día loco.",
           "options": [
-            "es (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "fui (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "fue (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "era (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "es",
+            "fui",
+            "fue",
+            "era"
           ],
           "answerIndex": 2,
           "explanation": "ser's preterite is fue.",
@@ -7898,10 +7898,10 @@
         {
           "prompt": "Yo ___ la receta secreta.",
           "options": [
-            "busco (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "busqué (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "buscó (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "buscé (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "busco",
+            "busqué",
+            "buscó",
+            "buscé"
           ],
           "answerIndex": 1,
           "explanation": "buscar's yo preterite is busqué (c→qu).",
@@ -7910,10 +7910,10 @@
         {
           "prompt": "___ una salsa con diez tipos de chile. (I made, hacer)",
           "options": [
-            "Hice (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Hizo (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Hago (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Hací (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "Hice",
+            "Hizo",
+            "Hago",
+            "Hací"
           ],
           "answerIndex": 0,
           "explanation": "hacer's yo preterite is hice.",
@@ -7922,10 +7922,10 @@
         {
           "prompt": "Mis amigos ___ a las seis.",
           "options": [
-            "llegué (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "llegó (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "llegamos (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "llegaron (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "llegué",
+            "llegó",
+            "llegamos",
+            "llegaron"
           ],
           "answerIndex": 3,
           "explanation": "ellos preterite of llegar is llegaron.",
@@ -7934,10 +7934,10 @@
         {
           "prompt": "___ mucha agua toda la noche. (We drank, beber)",
           "options": [
-            "Bebió (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Bebí (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Bebimos (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Beben (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "Bebió",
+            "Bebí",
+            "Bebimos",
+            "Beben"
           ],
           "answerIndex": 2,
           "explanation": "nosotros preterite of beber is bebimos.",
@@ -7946,10 +7946,10 @@
         {
           "prompt": "What is the overall skill this capstone paragraph is testing?",
           "options": [
-            "Only present-tense conjugation (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Producing a connected first-person past narration combining regular preterite conjugations, irregular verbs, and spelling changes (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Only greetings (Produce a connected firstperson past narration combining regular ARERIR preterite)",
-            "Isolated vocabulary recall only (Produce a connected firstperson past narration combining regular ARERIR preterite)"
+            "Only present-tense conjugation",
+            "Producing a connected first-person past narration combining regular preterite conjugations, irregular verbs, and spelling changes",
+            "Only greetings",
+            "Isolated vocabulary recall only"
           ],
           "answerIndex": 1,
           "explanation": "This is the explicit goal stated in the lesson explanation.",
@@ -7997,10 +7997,10 @@
         {
           "prompt": "How do you say 'the blue shirts' in Spanish?",
           "options": [
-            "las camisas azul (Identify essential clothing)",
-            "los camisas azules (Identify essential clothing)",
-            "las camisas azulos (Identify essential clothing)",
-            "las camisas azules (Identify essential clothing)"
+            "las camisas azul",
+            "los camisas azules",
+            "las camisas azulos",
+            "las camisas azules"
           ],
           "answerIndex": 3,
           "explanation": "Las camisas (fem. pl.) + azules (plural)."
@@ -8008,10 +8008,10 @@
         {
           "prompt": "What is the correct translation for 'sneakers / trainers' in Spain?",
           "options": [
-            "los abrigos (Identify essential clothing)",
-            "los vestidos (Identify essential clothing)",
-            "las faldas (Identify essential clothing)",
-            "las zapatillas (Identify essential clothing)"
+            "los abrigos",
+            "los vestidos",
+            "las faldas",
+            "las zapatillas"
           ],
           "answerIndex": 3,
           "explanation": "Las zapatillas = sneakers."
@@ -8023,10 +8023,10 @@
         {
           "prompt": "Translate: 'Mi hermano compró una chaqueta roja y unos vaqueros grises.'",
           "options": [
-            "My brother is wearing a green coat and black pants. (Identify essential clothing)",
-            "My brother wants to sell his red jacket. (Identify essential clothing)",
-            "My brother bought white shoes. (Identify essential clothing)",
-            "My brother bought a red jacket and grey jeans. (Identify essential clothing)"
+            "My brother is wearing a green coat and black pants.",
+            "My brother wants to sell his red jacket.",
+            "My brother bought white shoes.",
+            "My brother bought a red jacket and grey jeans."
           ],
           "answerIndex": 3,
           "explanation": "chaqueta roja = red jacket; vaqueros grises = grey jeans."
@@ -8034,10 +8034,10 @@
         {
           "prompt": "Which color adjective DOES NOT change for feminine singular?",
           "options": [
-            "rojo (Identify essential clothing)",
-            "blanco (Identify essential clothing)",
-            "negro (Identify essential clothing)",
-            "verde (Identify essential clothing)"
+            "rojo",
+            "blanco",
+            "negro",
+            "verde"
           ],
           "answerIndex": 3,
           "explanation": "Verde ends in -e, so it stays verde for both masculine and feminine."
@@ -8049,10 +8049,10 @@
         {
           "prompt": "Match the clothing items with their correct plural color agreement: vestido negro, falda azul, zapato rojo, bota verde:",
           "options": [
-            "vestidos negro, faldas azul, zapatos rojo, botas verde (Identify essential clothing)",
-            "vestidos negros, faldas azules, zapatos rojos, botas verdes (Identify essential clothing)",
-            "All use -os (Identify essential clothing)",
-            "vestidos negras, faldas azuladas, zapatos rojas, botas verdas (Identify essential clothing)"
+            "vestidos negro, faldas azul, zapatos rojo, botas verde",
+            "vestidos negros, faldas azules, zapatos rojos, botas verdes",
+            "All use -os",
+            "vestidos negras, faldas azuladas, zapatos rojas, botas verdas"
           ],
           "answerIndex": 1,
           "explanation": "Proper gender and number agreement across all 4 items.",
@@ -8061,10 +8061,10 @@
         {
           "prompt": "Translate: '¿Dónde están las gafas de sol y el bolso de cuero?'",
           "options": [
-            "Where are the sunglasses and the leather handbag? (Identify essential clothing)",
-            "I lost my glasses and my shoes. (Identify essential clothing)",
-            "The sunglasses are on the table. (Identify essential clothing)",
-            "How much do the sunglasses cost? (Identify essential clothing)"
+            "Where are the sunglasses and the leather handbag?",
+            "I lost my glasses and my shoes.",
+            "The sunglasses are on the table.",
+            "How much do the sunglasses cost?"
           ],
           "answerIndex": 0,
           "explanation": "gafas de sol = sunglasses; bolso de cuero = leather handbag.",
@@ -8073,10 +8073,10 @@
         {
           "prompt": "Why is 'unos pantalones blancos' correct while 'unos pantalones blancas' is incorrect?",
           "options": [
-            "Because white is always masculine. (Identify essential clothing)",
-            "Because pantalones has no gender. (Identify essential clothing)",
-            "It is a spelling exception. (Identify essential clothing)",
-            "Because 'pantalones' is a masculine plural noun, requiring the masculine plural adjective 'blancos'. (Identify essential clothing)"
+            "Because white is always masculine.",
+            "Because pantalones has no gender.",
+            "It is a spelling exception.",
+            "Because 'pantalones' is a masculine plural noun, requiring the masculine plural adjective 'blancos'."
           ],
           "answerIndex": 3,
           "explanation": "Pantalones (masc. pl.) matches with blancos (masc. pl.).",
@@ -8085,10 +8085,10 @@
         {
           "prompt": "Complete: 'Ella lleva un _______ (dress) amarillo y unos _______ (shoes) negros.'",
           "options": [
-            "camisa / faldas (Identify essential clothing)",
-            "abrigo / zapatillas (Identify essential clothing)",
-            "vestido / zapatos (Identify essential clothing)",
-            "bolso / gafas (Identify essential clothing)"
+            "camisa / faldas",
+            "abrigo / zapatillas",
+            "vestido / zapatos",
+            "bolso / gafas"
           ],
           "answerIndex": 2,
           "explanation": "un vestido (masculine with amarillo) and unos zapatos (masculine pl. with negros).",
@@ -8136,10 +8136,10 @@
         {
           "prompt": "What do you ask a shop assistant when a shirt is too tight and you need a larger size?",
           "options": [
-            "Me queda pequeño. ¿Tiene una talla más grande? (Inquire about prices)",
-            "No me gusta comprar ropa. (Inquire about prices)",
-            "Me queda grande. ¿Tiene una talla más pequeña? (Inquire about prices)",
-            "¿Cuánto cuesta el probador? (Inquire about prices)"
+            "Me queda pequeño. ¿Tiene una talla más grande?",
+            "No me gusta comprar ropa.",
+            "Me queda grande. ¿Tiene una talla más pequeña?",
+            "¿Cuánto cuesta el probador?"
           ],
           "answerIndex": 0,
           "explanation": "Me queda pequeño + ¿Tiene una talla más grande?"
@@ -8147,10 +8147,10 @@
         {
           "prompt": "What is the word for shoe size in Spanish?",
           "options": [
-            "el número (Inquire about prices)",
-            "la talla (Inquire about prices)",
-            "el metro (Inquire about prices)",
-            "el peso (Inquire about prices)"
+            "el número",
+            "la talla",
+            "el metro",
+            "el peso"
           ],
           "answerIndex": 0,
           "explanation": "Shoe size is 'el número' (clothing size is 'la talla')."
@@ -8162,10 +8162,10 @@
         {
           "prompt": "Translate: '¿Dónde están los probadores? Quiero probarme este vestido.'",
           "options": [
-            "Where is the cash register? I want to buy this dress. (Inquire about prices)",
-            "Where are the fitting rooms? I want to try on this dress. (Inquire about prices)",
-            "Do you have this dress in red? (Inquire about prices)",
-            "The fitting rooms are closed. (Inquire about prices)"
+            "Where is the cash register? I want to buy this dress.",
+            "Where are the fitting rooms? I want to try on this dress.",
+            "Do you have this dress in red?",
+            "The fitting rooms are closed."
           ],
           "answerIndex": 1,
           "explanation": "los probadores = the fitting rooms; probarme este vestido = try on this dress."
@@ -8173,10 +8173,10 @@
         {
           "prompt": "Why does 'estos zapatos' use 'me quedan' instead of 'me queda'?",
           "options": [
-            "Because zapatos are expensive. (Inquire about prices)",
-            "Because quedar is an irregular preterite. (Inquire about prices)",
+            "Because zapatos are expensive.",
+            "Because quedar is an irregular preterite.",
             "Because 'estos zapatos' is plural, requiring plural verb agreement 'quedan' (like 'gustan')",
-            "It is optional. (Inquire about prices)"
+            "It is optional."
           ],
           "answerIndex": 2,
           "explanation": "Quedar agrees with the plural subject 'estos zapatos' -> me quedan grandes."
@@ -8188,10 +8188,10 @@
         {
           "prompt": "Match the shopping phrases: ¿Cuánto cuesta?, ¿Tiene descuento?, Me queda estrecho, Los probadores:",
           "options": [
-            "¿Cuánto cuesta?: How much is it? | ¿Tiene descuento?: Is it discounted? | Me queda estrecho: It fits tight | Los probadores: The fitting rooms (Inquire about prices)",
-            "All mean 'I want to pay' (Inquire about prices)",
-            "All mean 'goodbye' (Inquire about prices)",
-            "¿Cuánto cuesta?: Where is it? | ¿Tiene descuento?: What size? | Me queda estrecho: It is blue | Los probadores: The shoes (Inquire about prices)"
+            "¿Cuánto cuesta?: How much is it? | ¿Tiene descuento?: Is it discounted? | Me queda estrecho: It fits tight | Los probadores: The fitting rooms",
+            "All mean 'I want to pay'",
+            "All mean 'goodbye'",
+            "¿Cuánto cuesta?: Where is it? | ¿Tiene descuento?: What size? | Me queda estrecho: It is blue | Los probadores: The shoes"
           ],
           "answerIndex": 0,
           "explanation": "Core transactional shopping phrases in Spanish.",
@@ -8200,10 +8200,10 @@
         {
           "prompt": "Translate: 'Esta falda te queda fenomenal, resalta mucho tu figura.'",
           "options": [
-            "The skirt is the wrong color. (Inquire about prices)",
-            "This skirt is too expensive for you. (Inquire about prices)",
-            "You should return this skirt. (Inquire about prices)",
-            "This skirt looks fantastic on you, it highlights your figure a lot. (Inquire about prices)"
+            "The skirt is the wrong color.",
+            "This skirt is too expensive for you.",
+            "You should return this skirt.",
+            "This skirt looks fantastic on you, it highlights your figure a lot."
           ],
           "answerIndex": 3,
           "explanation": "te queda fenomenal = it looks/fits fantastic on you.",
@@ -8212,10 +8212,10 @@
         {
           "prompt": "What does 'Estar de rebajas' mean in Spain?",
           "options": [
-            "To be closed for holidays (Inquire about prices)",
-            "To sell secondhand items (Inquire about prices)",
-            "To be on official seasonal sale with discounted prices (Inquire about prices)",
-            "To be out of stock (Inquire about prices)"
+            "To be closed for holidays",
+            "To sell secondhand items",
+            "To be on official seasonal sale with discounted prices",
+            "To be out of stock"
           ],
           "answerIndex": 2,
           "explanation": "Estar de rebajas = to be on seasonal sale.",
@@ -8224,10 +8224,10 @@
         {
           "prompt": "Complete: 'Estos vaqueros me _______ (fit) muy largos, necesito una talla menos.'",
           "options": [
-            "quedo (Inquire about prices)",
-            "quedan (Inquire about prices)",
-            "quedamos (Inquire about prices)",
-            "queda (Inquire about prices)"
+            "quedo",
+            "quedan",
+            "quedamos",
+            "queda"
           ],
           "answerIndex": 1,
           "explanation": "Estos vaqueros (plural) -> me quedan muy largos.",
@@ -8276,10 +8276,10 @@
         {
           "prompt": "Which demonstrative adjective refers to an item close to the speaker (here / aquí)?",
           "options": [
-            "ese / esa (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "aquel / aquella (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "aquello (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "este / esta (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "ese / esa",
+            "aquel / aquella",
+            "aquello",
+            "este / esta"
           ],
           "answerIndex": 3,
           "explanation": "Este/esta corresponds to 'here' (aquí)."
@@ -8287,10 +8287,10 @@
         {
           "prompt": "Why is 'esto camisa' grammatically incorrect?",
           "options": [
-            "Because camisa is masculine. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "Because esto is plural. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "It is a spelling error. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "Because 'esto' is a neuter pronoun and cannot modify a noun; the feminine adjective 'esta camisa' must be used. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "Because camisa is masculine.",
+            "Because esto is plural.",
+            "It is a spelling error.",
+            "Because 'esto' is a neuter pronoun and cannot modify a noun; the feminine adjective 'esta camisa' must be used."
           ],
           "answerIndex": 3,
           "explanation": "Neuter demonstratives (esto, eso, aquello) cannot accompany nouns."
@@ -8302,10 +8302,10 @@
         {
           "prompt": "Translate: '¿Cuánto cuestan aquellos zapatos del escaparate?'",
           "options": [
-            "How much do those shoes over there in the shop window cost? (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "How much do these shoes here cost? (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "Are those shoes on sale? (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "I want to buy the shop window. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "How much do those shoes over there in the shop window cost?",
+            "How much do these shoes here cost?",
+            "Are those shoes on sale?",
+            "I want to buy the shop window."
           ],
           "answerIndex": 0,
           "explanation": "aquellos = those over there; escaparate = shop window."
@@ -8313,10 +8313,10 @@
         {
           "prompt": "What is the plural masculine form of 'aquel'?",
           "options": [
-            "aquellos (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "aquels (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "aqueles (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "aquellos libros (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "aquellos",
+            "aquels",
+            "aqueles",
+            "aquellos libros"
           ],
           "answerIndex": 0,
           "explanation": "Aquel (singular) -> aquellos (plural)."
@@ -8328,10 +8328,10 @@
         {
           "prompt": "Match the demonstratives to their spatial distance: este, ese, aquel:",
           "options": [
-            "All mean 'here' (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "All mean 'yesterday' (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "este: far away | ese: here | aquel: nearby (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "este: here / near speaker | ese: there / near listener | aquel: over there / far from both (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "All mean 'here'",
+            "All mean 'yesterday'",
+            "este: far away | ese: here | aquel: nearby",
+            "este: here / near speaker | ese: there / near listener | aquel: over there / far from both"
           ],
           "answerIndex": 3,
           "explanation": "3-degree spatial system: este (aquí), ese (ahí), aquel (allí).",
@@ -8340,10 +8340,10 @@
         {
           "prompt": "Translate: 'Eso no me gusta, pero esto de aquí me encanta.'",
           "options": [
-            "I like everything in the store. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "That store is closed. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
+            "I like everything in the store.",
+            "That store is closed.",
             "I don't like that thing (near you)",
-            "This is very expensive. (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "This is very expensive."
           ],
           "answerIndex": 2,
           "explanation": "Eso (that abstract thing) vs. esto de aquí (this thing here).",
@@ -8352,10 +8352,10 @@
         {
           "prompt": "Choose the correct demonstrative: 'Quiero probarme _______ (these) pantalones negros de aquí.'",
           "options": [
-            "aquellos (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "estos (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "estes (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "esos (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "aquellos",
+            "estos",
+            "estes",
+            "esos"
           ],
           "answerIndex": 1,
           "explanation": "Pantalones (masc. pl. near speaker) -> estos.",
@@ -8364,10 +8364,10 @@
         {
           "prompt": "Complete: '¿Me pasas _______ (that) chaqueta que está en tu silla?'",
           "options": [
-            "esa (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "esta (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "eso (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)",
-            "aquella (Distinguish and apply the three spatial degrees of demonstrative adjectives and pronouns esteesta)"
+            "esa",
+            "esta",
+            "eso",
+            "aquella"
           ],
           "answerIndex": 0,
           "explanation": "Chaqueta near listener -> esa.",
@@ -8416,10 +8416,10 @@
         {
           "prompt": "How do you say 'This jacket is better than that one'?",
           "options": [
-            "Esta chaqueta es tan buena que esa. (Form comparisons of superiority ms)",
-            "Esta chaqueta es mejor que esa. (Form comparisons of superiority ms)",
-            "Esta chaqueta es más mejor que esa. (Form comparisons of superiority ms)",
-            "Esta chaqueta es más buena que esa. (Form comparisons of superiority ms)"
+            "Esta chaqueta es tan buena que esa.",
+            "Esta chaqueta es mejor que esa.",
+            "Esta chaqueta es más mejor que esa.",
+            "Esta chaqueta es más buena que esa."
           ],
           "answerIndex": 1,
           "explanation": "Bueno -> mejor (never 'más bueno' or 'más mejor')."
@@ -8427,10 +8427,10 @@
         {
           "prompt": "Which comparative formula is used for equality with an ADJECTIVE (e.g. comfortable)?",
           "options": [
-            "tan + adjetivo + como (Form comparisons of superiority ms)",
-            "más + adjetivo + como (Form comparisons of superiority ms)",
-            "menos + adjetivo + de (Form comparisons of superiority ms)",
-            "tanto + adjetivo + como (Form comparisons of superiority ms)"
+            "tan + adjetivo + como",
+            "más + adjetivo + como",
+            "menos + adjetivo + de",
+            "tanto + adjetivo + como"
           ],
           "answerIndex": 0,
           "explanation": "Tan + adjective + como = as [adjective] as."
@@ -8442,10 +8442,10 @@
         {
           "prompt": "Translate: 'Estos pantalones son menos caros que los de la otra tienda.'",
           "options": [
-            "These pants are less expensive than the ones in the other store. (Form comparisons of superiority ms)",
-            "The other store has cheaper shirts. (Form comparisons of superiority ms)",
-            "These pants are more expensive than all others. (Form comparisons of superiority ms)",
-            "These pants are not for sale. (Form comparisons of superiority ms)"
+            "These pants are less expensive than the ones in the other store.",
+            "The other store has cheaper shirts.",
+            "These pants are more expensive than all others.",
+            "These pants are not for sale."
           ],
           "answerIndex": 0,
           "explanation": "menos caros que = less expensive than."
@@ -8453,10 +8453,10 @@
         {
           "prompt": "Complete with equality: 'Esta tienda tiene _______ (as many shirts as) aquella.'",
           "options": [
-            "tantas camisas como (Form comparisons of superiority ms)",
-            "más camisas como (Form comparisons of superiority ms)",
-            "tan camisas como (Form comparisons of superiority ms)",
-            "tanto camisas que (Form comparisons of superiority ms)"
+            "tantas camisas como",
+            "más camisas como",
+            "tan camisas como",
+            "tanto camisas que"
           ],
           "answerIndex": 0,
           "explanation": "Camisas is fem. pl. noun -> tantas camisas como."
@@ -8468,10 +8468,10 @@
         {
           "prompt": "Match the comparative structures: más caro que, tan elegante como, tantas faldas como, la más barata:",
           "options": [
-            "All mean 'worse than' (Form comparisons of superiority ms)",
-            "All mean 'cheaper than' (Form comparisons of superiority ms)",
-            "más caro que: more expensive than | tan elegante como: as elegant as | tantas faldas como: as many skirts as | la más barata: the cheapest (Form comparisons of superiority ms)",
-            "All mean 'equal to' (Form comparisons of superiority ms)"
+            "All mean 'worse than'",
+            "All mean 'cheaper than'",
+            "más caro que: more expensive than | tan elegante como: as elegant as | tantas faldas como: as many skirts as | la más barata: the cheapest",
+            "All mean 'equal to'"
           ],
           "answerIndex": 2,
           "explanation": "Comparative and superlative paradigms.",
@@ -8480,10 +8480,10 @@
         {
           "prompt": "Why is 'más mejor' grammatically incorrect in Spanish?",
           "options": [
-            "Because mejor is feminine. (Form comparisons of superiority ms)",
-            "Because 'mejor' is already an inherently comparative form meaning 'better', making 'más' redundant and ungrammatical. (Form comparisons of superiority ms)",
-            "It is acceptable in standard speech. (Form comparisons of superiority ms)",
-            "Because más is only for numbers. (Form comparisons of superiority ms)"
+            "Because mejor is feminine.",
+            "Because 'mejor' is already an inherently comparative form meaning 'better', making 'más' redundant and ungrammatical.",
+            "It is acceptable in standard speech.",
+            "Because más is only for numbers."
           ],
           "answerIndex": 1,
           "explanation": "'Más mejor' is an improper double comparative.",
@@ -8492,10 +8492,10 @@
         {
           "prompt": "Translate: 'El abrigo de lana es el más cálido de todos.'",
           "options": [
-            "The wool coat is the warmest of all. (Form comparisons of superiority ms)",
-            "The wool coat is very cold. (Form comparisons of superiority ms)",
-            "All coats are made of wool. (Form comparisons of superiority ms)",
-            "I want a warm coat. (Form comparisons of superiority ms)"
+            "The wool coat is the warmest of all.",
+            "The wool coat is very cold.",
+            "All coats are made of wool.",
+            "I want a warm coat."
           ],
           "answerIndex": 0,
           "explanation": "el más cálido de todos = the warmest of all (superlative).",
@@ -8504,10 +8504,10 @@
         {
           "prompt": "Complete: 'Este jersey es _______ (as soft as) la seda.'",
           "options": [
-            "tan suave que (Form comparisons of superiority ms)",
-            "tanto suave como (Form comparisons of superiority ms)",
-            "más suave como (Form comparisons of superiority ms)",
-            "tan suave como (Form comparisons of superiority ms)"
+            "tan suave que",
+            "tanto suave como",
+            "más suave como",
+            "tan suave como"
           ],
           "answerIndex": 3,
           "explanation": "Suave is an adjective -> tan suave como.",
@@ -8696,10 +8696,10 @@
         {
           "prompt": "How do you say 'I prefer to go on foot' in Spanish?",
           "options": [
-            "Prefiero ir en pie. (Identify modes of urban transportation)",
-            "Prefiero ir con pie. (Identify modes of urban transportation)",
-            "Prefiero ir por pie. (Identify modes of urban transportation)",
-            "Prefiero ir a pie. (Identify modes of urban transportation)"
+            "Prefiero ir en pie.",
+            "Prefiero ir con pie.",
+            "Prefiero ir por pie.",
+            "Prefiero ir a pie."
           ],
           "answerIndex": 3,
           "explanation": "'A pie' is the standard prepositional phrase for walking/on foot."
@@ -8707,10 +8707,10 @@
         {
           "prompt": "What is 'el andén' in a railway or subway station?",
           "options": [
-            "The ticket machine (Identify modes of urban transportation)",
-            "The emergency brake (Identify modes of urban transportation)",
-            "The subway driver (Identify modes of urban transportation)",
-            "The platform where passengers board and exit trains (Identify modes of urban transportation)"
+            "The ticket machine",
+            "The emergency brake",
+            "The subway driver",
+            "The platform where passengers board and exit trains"
           ],
           "answerIndex": 3,
           "explanation": "El andén = the train/metro platform."
@@ -8722,10 +8722,10 @@
         {
           "prompt": "Translate: 'Compré un billete de diez viajes en la máquina automática.'",
           "options": [
-            "I lost my ticket on the bus. (Identify modes of urban transportation)",
-            "The ticket machine is broken. (Identify modes of urban transportation)",
-            "I need 10 euros for the train. (Identify modes of urban transportation)",
-            "I bought a 10-trip ticket at the ticket vending machine. (Identify modes of urban transportation)"
+            "I lost my ticket on the bus.",
+            "The ticket machine is broken.",
+            "I need 10 euros for the train.",
+            "I bought a 10-trip ticket at the ticket vending machine."
           ],
           "answerIndex": 3,
           "explanation": "billete de diez viajes = 10-trip ticket; máquina automática = automated machine."
@@ -8733,10 +8733,10 @@
         {
           "prompt": "What does 'hacer transbordo' mean in a metro network?",
           "options": [
-            "To buy a ticket (Identify modes of urban transportation)",
-            "To exit the station (Identify modes of urban transportation)",
-            "To miss the train (Identify modes of urban transportation)",
-            "To transfer / change from one transit line to another (Identify modes of urban transportation)"
+            "To buy a ticket",
+            "To exit the station",
+            "To miss the train",
+            "To transfer / change from one transit line to another"
           ],
           "answerIndex": 3,
           "explanation": "Hacer transbordo = to make a transfer/connection."
@@ -8748,10 +8748,10 @@
         {
           "prompt": "Match the transit terms: la parada, el andén, el billete sencillo, el transbordo:",
           "options": [
-            "la parada: bus stop | el andén: train platform | el billete sencillo: single ticket | el transbordo: line transfer (Identify modes of urban transportation)",
-            "All mean train tracks (Identify modes of urban transportation)",
-            "All mean luggage (Identify modes of urban transportation)",
-            "la parada: airport | el andén: ticket | el billete sencillo: weekly pass (Identify modes of urban transportation)"
+            "la parada: bus stop | el andén: train platform | el billete sencillo: single ticket | el transbordo: line transfer",
+            "All mean train tracks",
+            "All mean luggage",
+            "la parada: airport | el andén: ticket | el billete sencillo: weekly pass"
           ],
           "answerIndex": 0,
           "explanation": "Public transit infrastructure definitions.",
@@ -8760,9 +8760,9 @@
         {
           "prompt": "Translate: 'El tren de alta velocidad (AVE) para Sevilla sale del andén número cuatro.'",
           "options": [
-            "The bus to Seville is arriving at four o'clock. (Identify modes of urban transportation)",
-            "Seville has four train stations. (Identify modes of urban transportation)",
-            "The train to Seville is delayed. (Identify modes of urban transportation)",
+            "The bus to Seville is arriving at four o'clock.",
+            "Seville has four train stations.",
+            "The train to Seville is delayed.",
             "The high-speed train (AVE)"
           ],
           "answerIndex": 3,
@@ -8772,10 +8772,10 @@
         {
           "prompt": "Why do you say 'en autobús' but 'a pie'?",
           "options": [
-            "Because buses are heavy. (Identify modes of urban transportation)",
-            "Because pie is an irregular noun. (Identify modes of urban transportation)",
+            "Because buses are heavy.",
+            "Because pie is an irregular noun.",
             "Spanish uses 'en' for vehicular modes of transport and 'a' for pedestrian locomotion ('a pie' / 'a caballo')",
-            "It is a dialect rule only in Madrid. (Identify modes of urban transportation)"
+            "It is a dialect rule only in Madrid."
           ],
           "answerIndex": 2,
           "explanation": "Prepositional rule: 'en' for vehicles, 'a' for foot/horseback.",
@@ -8784,10 +8784,10 @@
         {
           "prompt": "Complete: 'Tienes que tomar la _______ (Line) 2 en dirección a Cuatro Caminos.'",
           "options": [
-            "Estación (Identify modes of urban transportation)",
-            "Línea (Identify modes of urban transportation)",
-            "Tarjeta (Identify modes of urban transportation)",
-            "Parada (Identify modes of urban transportation)"
+            "Estación",
+            "Línea",
+            "Tarjeta",
+            "Parada"
           ],
           "answerIndex": 1,
           "explanation": "Línea 2 = Line 2.",
@@ -8836,10 +8836,10 @@
         {
           "prompt": "How do you combine 'cerca de' + 'el hotel' correctly in Spanish?",
           "options": [
-            "cerca del hotel (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "cerca en el hotel (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "cerca de el hotel (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "cerca al hotel (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "cerca del hotel",
+            "cerca en el hotel",
+            "cerca de el hotel",
+            "cerca al hotel"
           ],
           "answerIndex": 0,
           "explanation": "De + el contracts to del."
@@ -8847,10 +8847,10 @@
         {
           "prompt": "Which preposition of place means 'between' two landmarks?",
           "options": [
-            "entre (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "al lado de (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "debajo de (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "detrás de (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "entre",
+            "al lado de",
+            "debajo de",
+            "detrás de"
           ],
           "answerIndex": 0,
           "explanation": "Entre = between/among."
@@ -8862,10 +8862,10 @@
         {
           "prompt": "Translate: 'El restaurante está detrás de la catedral y enfrente del jardín.'",
           "options": [
-            "The restaurant is far from the cathedral. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "The restaurant is behind the cathedral and in front of the garden. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "The cathedral is inside the garden. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "Where is the cathedral restaurant? (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "The restaurant is far from the cathedral.",
+            "The restaurant is behind the cathedral and in front of the garden.",
+            "The cathedral is inside the garden.",
+            "Where is the cathedral restaurant?"
           ],
           "answerIndex": 1,
           "explanation": "detrás de la catedral = behind cathedral; enfrente del jardín = in front of garden."
@@ -8873,10 +8873,10 @@
         {
           "prompt": "What is the difference between 'cerca de' and 'lejos de'?",
           "options": [
-            "'Cerca de' means inside; 'Lejos de' means outside. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "'Cerca de' is for cars only. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "'Cerca de' means close/near; 'Lejos de' means far away from. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "They are exact synonyms. (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "'Cerca de' means inside; 'Lejos de' means outside.",
+            "'Cerca de' is for cars only.",
+            "'Cerca de' means close/near; 'Lejos de' means far away from.",
+            "They are exact synonyms."
           ],
           "answerIndex": 2,
           "explanation": "Cerca (near) vs. Lejos (far)."
@@ -8888,10 +8888,10 @@
         {
           "prompt": "Match the prepositions: al lado de, debajo de, encima de, enfrente de:",
           "options": [
-            "All mean yesterday (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "All mean inside (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "al lado de: far | debajo de: between | encima de: behind (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "al lado de: next to | debajo de: under | encima de: on top of | enfrente de: across from (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "All mean yesterday",
+            "All mean inside",
+            "al lado de: far | debajo de: between | encima de: behind",
+            "al lado de: next to | debajo de: under | encima de: on top of | enfrente de: across from"
           ],
           "answerIndex": 3,
           "explanation": "Spatial prepositions matching.",
@@ -8900,10 +8900,10 @@
         {
           "prompt": "Translate: '¿Está el banco muy lejos de aquí? — No, está a la vuelta, al lado del quiosco.'",
           "options": [
-            "I want to change money at the kiosk. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "The kiosk is far from the bank. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "Is the bank very far from here? — No, it is around the corner, next to the kiosk. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "The bank is closed next to the kiosk. (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "I want to change money at the kiosk.",
+            "The kiosk is far from the bank.",
+            "Is the bank very far from here? — No, it is around the corner, next to the kiosk.",
+            "The bank is closed next to the kiosk."
           ],
           "answerIndex": 2,
           "explanation": "lejos de aquí = far from here; a la vuelta = around the corner; al lado del quiosco = next to kiosk.",
@@ -8912,10 +8912,10 @@
         {
           "prompt": "Why is 'detrás de el cine' grammatically incorrect?",
           "options": [
-            "Because detrás takes no preposition. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "Because Spanish mandates the contraction of 'de' and 'el' into 'del' (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "It is acceptable in spoken Spanish. (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "Because cine is feminine. (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "Because detrás takes no preposition.",
+            "Because Spanish mandates the contraction of 'de' and 'el' into 'del'",
+            "It is acceptable in spoken Spanish.",
+            "Because cine is feminine."
           ],
           "answerIndex": 1,
           "explanation": "Mandatory contraction de + el = del.",
@@ -8924,10 +8924,10 @@
         {
           "prompt": "Complete: 'La oficina de correos está _______ (between) la panadería y la farmacia.'",
           "options": [
-            "entre (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "debajo de (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "cerca de (Master Spanish prepositions of place and spatial orientation al lado de)",
-            "al lado de (Master Spanish prepositions of place and spatial orientation al lado de)"
+            "entre",
+            "debajo de",
+            "cerca de",
+            "al lado de"
           ],
           "answerIndex": 0,
           "explanation": "entre (between A and B).",
@@ -8976,10 +8976,10 @@
         {
           "prompt": "How do you tell someone 'Continue straight ahead and turn right at the traffic light' in Spanish?",
           "options": [
-            "Gira a la izquierda y para. (Give and follow walking and transit directions using directional verbs)",
-            "Cruza la calle y vuelve. (Give and follow walking and transit directions using directional verbs)",
-            "Sigue todo recto y gira a la derecha en el semáforo. (Give and follow walking and transit directions using directional verbs)",
-            "Toma el metro hacia atrás. (Give and follow walking and transit directions using directional verbs)"
+            "Gira a la izquierda y para.",
+            "Cruza la calle y vuelve.",
+            "Sigue todo recto y gira a la derecha en el semáforo.",
+            "Toma el metro hacia atrás."
           ],
           "answerIndex": 2,
           "explanation": "Sigue todo recto (straight) + gira a la derecha (turn right) + en el semáforo (traffic light)."
@@ -8987,10 +8987,10 @@
         {
           "prompt": "What does 'cruzar la calle' mean?",
           "options": [
-            "To clean the street (Give and follow walking and transit directions using directional verbs)",
-            "To drive on the street (Give and follow walking and transit directions using directional verbs)",
-            "To block the street (Give and follow walking and transit directions using directional verbs)",
-            "To cross the street (Give and follow walking and transit directions using directional verbs)"
+            "To clean the street",
+            "To drive on the street",
+            "To block the street",
+            "To cross the street"
           ],
           "answerIndex": 3,
           "explanation": "Cruzar la calle = to cross the street."
@@ -9002,10 +9002,10 @@
         {
           "prompt": "Translate: 'Toma la segunda calle a la izquierda y verás la catedral al fondo.'",
           "options": [
-            "Take the second street on the left and you will see the cathedral at the end. (Give and follow walking and transit directions using directional verbs)",
-            "Take the first street on the right to the cathedral. (Give and follow walking and transit directions using directional verbs)",
-            "Do not turn on the second street. (Give and follow walking and transit directions using directional verbs)",
-            "The cathedral is closed on the left. (Give and follow walking and transit directions using directional verbs)"
+            "Take the second street on the left and you will see the cathedral at the end.",
+            "Take the first street on the right to the cathedral.",
+            "Do not turn on the second street.",
+            "The cathedral is closed on the left."
           ],
           "answerIndex": 0,
           "explanation": "segunda calle a la izquierda = 2nd street on left; al fondo = at the end/background."
@@ -9013,10 +9013,10 @@
         {
           "prompt": "What verb describes exiting or stepping off a bus or metro train?",
           "options": [
-            "Bajarse (Give and follow walking and transit directions using directional verbs)",
-            "Subirse (Give and follow walking and transit directions using directional verbs)",
-            "Caminar (Give and follow walking and transit directions using directional verbs)",
-            "Comprar (Give and follow walking and transit directions using directional verbs)"
+            "Bajarse",
+            "Subirse",
+            "Caminar",
+            "Comprar"
           ],
           "answerIndex": 0,
           "explanation": "Bajarse = to get off / alight."
@@ -9028,10 +9028,10 @@
         {
           "prompt": "Match the directional phrases: seguir todo recto, girar a la izquierda, en la esquina, en el semáforo:",
           "options": [
-            "All are food terms (Give and follow walking and transit directions using directional verbs)",
-            "All mean stop (Give and follow walking and transit directions using directional verbs)",
-            "seguir todo recto: go straight ahead | girar a la izquierda: turn left | en la esquina: at the corner | en el semáforo: at the traffic light (Give and follow walking and transit directions using directional verbs)",
-            "All mean turn right (Give and follow walking and transit directions using directional verbs)"
+            "All are food terms",
+            "All mean stop",
+            "seguir todo recto: go straight ahead | girar a la izquierda: turn left | en la esquina: at the corner | en el semáforo: at the traffic light",
+            "All mean turn right"
           ],
           "answerIndex": 2,
           "explanation": "Directional commands and landmark references.",
@@ -9040,10 +9040,10 @@
         {
           "prompt": "Translate: 'Para llegar a la estación, sube al autobús número diez y bájate en la quinta parada.'",
           "options": [
-            "I missed bus number 10 at the fifth stop. (Give and follow walking and transit directions using directional verbs)",
-            "To get to the station, get on bus number 10 and get off at the fifth stop. (Give and follow walking and transit directions using directional verbs)",
-            "Bus number 10 goes to the airport every five minutes. (Give and follow walking and transit directions using directional verbs)",
-            "The train arrives at platform 10 in five minutes. (Give and follow walking and transit directions using directional verbs)"
+            "I missed bus number 10 at the fifth stop.",
+            "To get to the station, get on bus number 10 and get off at the fifth stop.",
+            "Bus number 10 goes to the airport every five minutes.",
+            "The train arrives at platform 10 in five minutes."
           ],
           "answerIndex": 1,
           "explanation": "sube al autobús = get on bus; bájate en la quinta parada = get off at 5th stop.",
@@ -9052,10 +9052,10 @@
         {
           "prompt": "What is the common phrase used to inquire 'Which way to...?' in Spanish?",
           "options": [
-            "¿Por dónde se va a...? (Give and follow walking and transit directions using directional verbs)",
-            "¿Quién es usted? (Give and follow walking and transit directions using directional verbs)",
-            "¿Qué hora es? (Give and follow walking and transit directions using directional verbs)",
-            "¿Cuánto cuesta? (Give and follow walking and transit directions using directional verbs)"
+            "¿Por dónde se va a...?",
+            "¿Quién es usted?",
+            "¿Qué hora es?",
+            "¿Cuánto cuesta?"
           ],
           "answerIndex": 0,
           "explanation": "¿Por dónde se va a...? = Which way do you go to get to...?",
@@ -9064,10 +9064,10 @@
         {
           "prompt": "Complete: 'Gira a la _______ (right) en la próxima esquina.'",
           "options": [
-            "fondo (Give and follow walking and transit directions using directional verbs)",
-            "cerca (Give and follow walking and transit directions using directional verbs)",
-            "recto (Give and follow walking and transit directions using directional verbs)",
-            "derecha (Give and follow walking and transit directions using directional verbs)"
+            "fondo",
+            "cerca",
+            "recto",
+            "derecha"
           ],
           "answerIndex": 3,
           "explanation": "Gira a la derecha = turn to the right.",
@@ -9116,10 +9116,10 @@
         {
           "prompt": "Which preposition fills the blank for physical motion through space: 'Caminamos _______ (through/along) la calle Gran Vía'?",
           "options": [
-            "en (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "por (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "con (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "para (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "en",
+            "por",
+            "con",
+            "para"
           ],
           "answerIndex": 1,
           "explanation": "'Por' expresses motion through or along a route."
@@ -9127,10 +9127,10 @@
         {
           "prompt": "Which preposition fills the blank for purpose / in order to: 'Estudio español _______ (in order to) viajar por América Latina'?",
           "options": [
-            "para (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "de (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "a (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "por (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "para",
+            "de",
+            "a",
+            "por"
           ],
           "answerIndex": 0,
           "explanation": "'Para + infinitive' expresses purpose / in order to."
@@ -9142,10 +9142,10 @@
         {
           "prompt": "Translate: 'El tren para Valencia pasa por Cuenca.'",
           "options": [
-            "The train heading for Valencia passes through Cuenca. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "Cuenca has no trains to Valencia. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "The train from Valencia stopped in Cuenca. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "Valencia is far from Cuenca. (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "The train heading for Valencia passes through Cuenca.",
+            "Cuenca has no trains to Valencia.",
+            "The train from Valencia stopped in Cuenca.",
+            "Valencia is far from Cuenca."
           ],
           "answerIndex": 0,
           "explanation": "para Valencia = destination; pasa por Cuenca = route passing through."
@@ -9153,10 +9153,10 @@
         {
           "prompt": "Complete: 'Necesito comprar un billete _______ (for) mañana _______ (in the) tarde.'",
           "options": [
-            "para / por la (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "por / por la (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "por / para la (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "para / para la (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "para / por la",
+            "por / por la",
+            "por / para la",
+            "para / para la"
           ],
           "answerIndex": 0,
           "explanation": "para mañana (deadline) + por la tarde (time of day period)."
@@ -9168,10 +9168,10 @@
         {
           "prompt": "Match the sentences with the correct rule: 'Viajar por tren', 'Un billete para ti', 'Pasear por el parque', 'Estudiar para aprender':",
           "options": [
-            "All express deadlines (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "Viajar por tren: Means | Un billete para ti: Recipient | Pasear por el parque: Movement through | Estudiar para aprender: Purpose (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "All are past tense (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "All express cost (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "All express deadlines",
+            "Viajar por tren: Means | Un billete para ti: Recipient | Pasear por el parque: Movement through | Estudiar para aprender: Purpose",
+            "All are past tense",
+            "All express cost"
           ],
           "answerIndex": 1,
           "explanation": "Fundamental por vs. para use cases.",
@@ -9180,10 +9180,10 @@
         {
           "prompt": "Translate: 'Salimos para la estación temprano y cruzamos por el puente viejo.'",
           "options": [
-            "We left for the station early and crossed via the old bridge. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "We arrived at the old bridge late. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "We walked away from the station. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "The station is under the old bridge. (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "We left for the station early and crossed via the old bridge.",
+            "We arrived at the old bridge late.",
+            "We walked away from the station.",
+            "The station is under the old bridge."
           ],
           "answerIndex": 0,
           "explanation": "para la estación = destination; por el puente = path crossed through.",
@@ -9192,10 +9192,10 @@
         {
           "prompt": "What is the difference between 'ir por el parque' and 'ir para el parque'?",
           "options": [
-            "The second one is plural. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "There is no difference. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "The first one is past tense. (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "'Ir por el parque' means walking inside/through the park as a path; 'Ir para el parque' means heading toward the park as your destination. (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "The second one is plural.",
+            "There is no difference.",
+            "The first one is past tense.",
+            "'Ir por el parque' means walking inside/through the park as a path; 'Ir para el parque' means heading toward the park as your destination."
           ],
           "answerIndex": 3,
           "explanation": "Por (path through) vs. Para (destination towards).",
@@ -9204,10 +9204,10 @@
         {
           "prompt": "Complete: 'El autobús no pudo pasar _______ (because of) las obras en la calle.'",
           "options": [
-            "sin (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "para (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "por (Distinguish and accurately apply the foundational differences between Por motion through)",
-            "hacia (Distinguish and accurately apply the foundational differences between Por motion through)"
+            "sin",
+            "para",
+            "por",
+            "hacia"
           ],
           "answerIndex": 2,
           "explanation": "por = because of / cause.",
@@ -9391,10 +9391,10 @@
         {
           "prompt": "¿Cómo se dice 'the bedroom' en español?",
           "options": [
-            "La cocina (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "El baño (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "La sala (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "El dormitorio (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "La cocina",
+            "El baño",
+            "La sala",
+            "El dormitorio"
           ],
           "answerIndex": 3,
           "explanation": "El dormitorio (or la habitación) means the bedroom."
@@ -9402,10 +9402,10 @@
         {
           "prompt": "¿Qué mueble se encuentra habitualmente en el dormitorio para dormir?",
           "options": [
-            "La nevera (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "El lavavajillas (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "La estantería (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "La cama (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "La nevera",
+            "El lavavajillas",
+            "La estantería",
+            "La cama"
           ],
           "answerIndex": 3,
           "explanation": "La cama (the bed) is the primary furniture item for sleeping."
@@ -9417,10 +9417,10 @@
         {
           "prompt": "Completa la frase: 'La comida y la leche están frescas en _______.'",
           "options": [
-            "el armario (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "el sofá (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "la lámpara (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "la nevera (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "el armario",
+            "el sofá",
+            "la lámpara",
+            "la nevera"
           ],
           "answerIndex": 3,
           "explanation": "La nevera (the refrigerator) keeps food and milk fresh."
@@ -9428,10 +9428,10 @@
         {
           "prompt": "¿Cuál es el artículo correcto para 'sofá'?",
           "options": [
-            "La sofá (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "Las sofá (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "Una sofá (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "El sofá (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "La sofá",
+            "Las sofá",
+            "Una sofá",
+            "El sofá"
           ],
           "answerIndex": 3,
           "explanation": "'Sofá' is a masculine noun: el sofá / un sofá."
@@ -9443,10 +9443,10 @@
         {
           "prompt": "Empareja las habitaciones: la cocina, el baño, la sala, el jardín:",
           "options": [
-            "cocina: bedroom | baño: kitchen | sala: garden | jardín: bathroom (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "All mean bedroom (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "All mean garage (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "cocina: kitchen | baño: bathroom | sala: living room | jardín: garden (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "cocina: bedroom | baño: kitchen | sala: garden | jardín: bathroom",
+            "All mean bedroom",
+            "All mean garage",
+            "cocina: kitchen | baño: bathroom | sala: living room | jardín: garden"
           ],
           "answerIndex": 3,
           "explanation": "Rooms of the house vocabulary matching.",
@@ -9455,10 +9455,10 @@
         {
           "prompt": "Traduce al español: 'The table is in the dining room.'",
           "options": [
-            "La mesa es en la cocina. (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "El armario está en el comedor. (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "La mesa está en el comedor. (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "La cama está en la sala. (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "La mesa es en la cocina.",
+            "El armario está en el comedor.",
+            "La mesa está en el comedor.",
+            "La cama está en la sala."
           ],
           "answerIndex": 2,
           "explanation": "'La mesa está en el comedor' uses 'estar' for physical location.",
@@ -9467,10 +9467,10 @@
         {
           "prompt": "¿Por qué se usa el verbo 'estar' y no 'ser' para ubicar los muebles en una casa?",
           "options": [
-            "Porque los muebles son temporales (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "Porque la ubicación física y espacial en español siempre requiere el verbo 'estar' (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "Porque 'estar' es más corto (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "Porque 'ser' es solo para personas (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "Porque los muebles son temporales",
+            "Porque la ubicación física y espacial en español siempre requiere el verbo 'estar'",
+            "Porque 'estar' es más corto",
+            "Porque 'ser' es solo para personas"
           ],
           "answerIndex": 1,
           "explanation": "Physical and geographic location universally takes 'estar'.",
@@ -9479,10 +9479,10 @@
         {
           "prompt": "Completa: 'En el salón hay una mesa grande y cuatro _______.'",
           "options": [
-            "sillas (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "baños (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "jardines (Identify and describe rooms of the house and core furniture items in Spanish)",
-            "camas (Identify and describe rooms of the house and core furniture items in Spanish)"
+            "sillas",
+            "baños",
+            "jardines",
+            "camas"
           ],
           "answerIndex": 0,
           "explanation": "Sillas (chairs) surround the dining/living room table.",
@@ -9526,10 +9526,10 @@
         {
           "prompt": "¿Qué tarea doméstica significa 'to vacuum' en español?",
           "options": [
-            "Pasar la aspiradora (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Barrer el suelo (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Planchar la ropa (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Sacar la basura (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "Pasar la aspiradora",
+            "Barrer el suelo",
+            "Planchar la ropa",
+            "Sacar la basura"
           ],
           "answerIndex": 0,
           "explanation": "Pasar la aspiradora = to vacuum."
@@ -9537,10 +9537,10 @@
         {
           "prompt": "¿Qué verbo se utiliza comúnmente con 'la cama' para decir 'to make the bed'?",
           "options": [
-            "Hacer (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Tomar (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Abrir (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Escribir (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "Hacer",
+            "Tomar",
+            "Abrir",
+            "Escribir"
           ],
           "answerIndex": 0,
           "explanation": "'Hacer la cama' is the standard collocation for making the bed."
@@ -9552,10 +9552,10 @@
         {
           "prompt": "Traduce: 'I wash the dishes after lunch.'",
           "options": [
-            "Limpio el suelo antes de comer. (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
+            "Limpio el suelo antes de comer.",
             "Lavo los platos después del almuerzo (de la comida)",
-            "Pongo la mesa a las tres. (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Saco la basura por la noche. (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "Pongo la mesa a las tres.",
+            "Saco la basura por la noche."
           ],
           "answerIndex": 1,
           "explanation": "Lavar los platos = to wash the dishes."
@@ -9563,10 +9563,10 @@
         {
           "prompt": "¿Qué significa 'barrer el suelo'?",
           "options": [
-            "To iron clothes (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "To water the plants (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "To sweep the floor (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "To wash windows (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "To iron clothes",
+            "To water the plants",
+            "To sweep the floor",
+            "To wash windows"
           ],
           "answerIndex": 2,
           "explanation": "Barrer el suelo = to sweep the floor with a broom."
@@ -9578,10 +9578,10 @@
         {
           "prompt": "Empareja las tareas domésticas: planchar, sacar la basura, fregar los platos, ordenar:",
           "options": [
-            "All mean shopping (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "All mean cooking (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "planchar: iron clothes | sacar la basura: take out trash | fregar: wash dishes | ordenar: tidy up (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "planchar: cook dinner | sacar la basura: sleep | fregar: read | ordenar: sing (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "All mean shopping",
+            "All mean cooking",
+            "planchar: iron clothes | sacar la basura: take out trash | fregar: wash dishes | ordenar: tidy up",
+            "planchar: cook dinner | sacar la basura: sleep | fregar: read | ordenar: sing"
           ],
           "answerIndex": 2,
           "explanation": "Chore collocations matching.",
@@ -9590,10 +9590,10 @@
         {
           "prompt": "¿Cuál es la forma correcta: 'Mi compañero de piso y yo _______ la casa juntos'?",
           "options": [
-            "limpian (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "limpiamos (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "limpias (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "limpio (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "limpian",
+            "limpiamos",
+            "limpias",
+            "limpio"
           ],
           "answerIndex": 1,
           "explanation": "'Mi compañero y yo' = nosotros -> limpiamos.",
@@ -9602,10 +9602,10 @@
         {
           "prompt": "¿Por qué es importante dominar las expresiones de tareas domésticas al compartir vivienda en el extranjero?",
           "options": [
-            "Para establecer acuerdos claros de convivencia y repartir responsabilidades en un piso compartido (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Para comprar muebles nuevos (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "No tiene utilidad práctica (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "Para trabajar en un hotel exclusivamente (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "Para establecer acuerdos claros de convivencia y repartir responsabilidades en un piso compartido",
+            "Para comprar muebles nuevos",
+            "No tiene utilidad práctica",
+            "Para trabajar en un hotel exclusivamente"
           ],
           "answerIndex": 0,
           "explanation": "Household chore communication is foundational for roommate agreements and daily life.",
@@ -9614,10 +9614,10 @@
         {
           "prompt": "Completa: 'Antes de dormir, siempre saco _______ al contenedor.'",
           "options": [
-            "la mesa (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "la cama (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "la lavadora (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)",
-            "la basura (Describe daily household chores and responsibilities in Spanish using common verb collocations limpiar)"
+            "la mesa",
+            "la cama",
+            "la lavadora",
+            "la basura"
           ],
           "answerIndex": 3,
           "explanation": "Sacar la basura (taking out the trash) goes to the contenedor.",
@@ -9661,10 +9661,10 @@
         {
           "prompt": "¿Cuál es la terminación del imperfecto para 'yo' en verbos regulares -ar?",
           "options": [
-            "-í (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "-é (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "-aba (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "-aron (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "-í",
+            "-é",
+            "-aba",
+            "-aron"
           ],
           "answerIndex": 2,
           "explanation": "-ar verbs take -aba for the 'yo' and 'él/ella' forms in the imperfect."
@@ -9672,10 +9672,10 @@
         {
           "prompt": "Conjuga 'nosotros' para el verbo 'estudiar' en pretérito imperfecto:",
           "options": [
-            "Estudiabamos (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Estudiaron (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Estudiamos (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Estudiábamos (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "Estudiabamos",
+            "Estudiaron",
+            "Estudiamos",
+            "Estudiábamos"
           ],
           "answerIndex": 3,
           "explanation": "Nosotros in -ar imperfect always takes a written tilde: estudiábamos."
@@ -9687,10 +9687,10 @@
         {
           "prompt": "Traduce: 'We used to visit our cousins in summer.'",
           "options": [
-            "Visitábamos a nuestros primos en verano. (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Visitamos a nuestros primos mañana. (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Visito a los primos hoy. (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Visitaron a los primos ayer. (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "Visitábamos a nuestros primos en verano.",
+            "Visitamos a nuestros primos mañana.",
+            "Visito a los primos hoy.",
+            "Visitaron a los primos ayer."
           ],
           "answerIndex": 0,
           "explanation": "Visitábamos (imperfect) expresses a habitual past summer routine."
@@ -9698,10 +9698,10 @@
         {
           "prompt": "¿Qué indica la frase 'De pequeño, siempre cenaba temprano'?",
           "options": [
-            "Una rutina habitual y repetida en la infancia (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Una acción que ocurrió solo una vez (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Una acción futura (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Una orden imperativa (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "Una rutina habitual y repetida en la infancia",
+            "Una acción que ocurrió solo una vez",
+            "Una acción futura",
+            "Una orden imperativa"
           ],
           "answerIndex": 0,
           "explanation": "The imperfect expresses habitual, repeated actions in childhood."
@@ -9713,10 +9713,10 @@
         {
           "prompt": "Conjuga 'trabajar' en imperfecto para todas las personas: yo, tú, él, nosotros, ellos:",
           "options": [
-            "trabajo, trabajas, trabaja, trabajamos, trabajan (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "trabajaba, trabajabas, trabajaba, trabajábamos, trabajaban (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "trabajaré, trabajarás, trabajará, trabajaremos, trabajarán (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "trabajé, trabajaste, trabajó, trabajamos, trabajaron (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "trabajo, trabajas, trabaja, trabajamos, trabajan",
+            "trabajaba, trabajabas, trabajaba, trabajábamos, trabajaban",
+            "trabajaré, trabajarás, trabajará, trabajaremos, trabajarán",
+            "trabajé, trabajaste, trabajó, trabajamos, trabajaron"
           ],
           "answerIndex": 1,
           "explanation": "Complete regular -ar imperfect conjugation paradigm.",
@@ -9725,10 +9725,10 @@
         {
           "prompt": "¿Cuál es la diferencia de significado entre 'Ayer caminé en el parque' (Pretérito Indefinido) y 'Caminaba en el parque todos los días' (Pretérito Imperfecto)?",
           "options": [
-            "'Caminé' es un evento puntual y terminado en un momento específico; 'caminaba' es un hábito continuo o rutina repetida en el pasado (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "'Caminaba' es una pregunta (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "'Caminé' es presente y 'caminaba' es futuro (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "No hay ninguna diferencia (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "'Caminé' es un evento puntual y terminado en un momento específico; 'caminaba' es un hábito continuo o rutina repetida en el pasado",
+            "'Caminaba' es una pregunta",
+            "'Caminé' es presente y 'caminaba' es futuro",
+            "No hay ninguna diferencia"
           ],
           "answerIndex": 0,
           "explanation": "Pretérito Indefinido marks completed single events; Imperfecto marks ongoing habitual past routines.",
@@ -9737,10 +9737,10 @@
         {
           "prompt": "Completa: 'Mis hermanos siempre _______ (jugar) al fútbol después del colegio.'",
           "options": [
-            "jugaste (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "jugó (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "jugaba (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "jugaban (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "jugaste",
+            "jugó",
+            "jugaba",
+            "jugaban"
           ],
           "answerIndex": 3,
           "explanation": "'Mis hermanos' = ellos -> jugaban.",
@@ -9749,8 +9749,8 @@
         {
           "prompt": "Verdadero o falso: En el imperfecto de verbos -ar, las formas de 'yo' y 'él/ella' son exactamente iguales.",
           "options": [
-            "Verdadero (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)",
-            "Falso (Conjugate and utilize regular ar verbs in the Imperfect Past Tense Pretrito Imperfecto to describe habitual childhood actions and past routines)"
+            "Verdadero",
+            "Falso"
           ],
           "answerIndex": 0,
           "explanation": "Both 'yo' and 'él/ella' share the identical '-aba' ending.",
@@ -9794,10 +9794,10 @@
         {
           "prompt": "¿Cuáles son los tres ÚNICOS verbos irregulares en pretérito imperfecto en español?",
           "options": [
-            "ESTAR, PODER y PONER (Conjugate regular erir verbs a)",
-            "SER, IR y VER (Conjugate regular erir verbs a)",
-            "DECIR, QUERER y SABER (Conjugate regular erir verbs a)",
-            "HABER, TENER y HACER (Conjugate regular erir verbs a)"
+            "ESTAR, PODER y PONER",
+            "SER, IR y VER",
+            "DECIR, QUERER y SABER",
+            "HABER, TENER y HACER"
           ],
           "answerIndex": 1,
           "explanation": "Ser (era), Ir (iba), and Ver (veía) are the only 3 irregular imperfect verbs."
@@ -9805,10 +9805,10 @@
         {
           "prompt": "Conjuga 'vivir' para 'nosotros' en imperfecto:",
           "options": [
-            "Vivíamos (Conjugate regular erir verbs a)",
-            "Vivimos (Conjugate regular erir verbs a)",
-            "Vivieron (Conjugate regular erir verbs a)",
-            "Vivabamos (Conjugate regular erir verbs a)"
+            "Vivíamos",
+            "Vivimos",
+            "Vivieron",
+            "Vivabamos"
           ],
           "answerIndex": 0,
           "explanation": "-er/-ir verbs take -íamos: vivíamos."
@@ -9820,10 +9820,10 @@
         {
           "prompt": "Traduce: 'When I was young, I used to go to the mountains every summer.'",
           "options": [
-            "Cuando era joven, iba a la montaña cada verano. (Conjugate regular erir verbs a)",
-            "Cuando sea joven, iré a la montaña. (Conjugate regular erir verbs a)",
-            "Cuando fui joven, fui a la montaña ayer. (Conjugate regular erir verbs a)",
-            "Cuando soy joven, voy a la montaña mañana. (Conjugate regular erir verbs a)"
+            "Cuando era joven, iba a la montaña cada verano.",
+            "Cuando sea joven, iré a la montaña.",
+            "Cuando fui joven, fui a la montaña ayer.",
+            "Cuando soy joven, voy a la montaña mañana."
           ],
           "answerIndex": 0,
           "explanation": "'Era' (ser) and 'iba' (ir) in imperfect describe past age and repeated summer habit."
@@ -9831,10 +9831,10 @@
         {
           "prompt": "¿Cuál es la forma correcta de 'ver' para 'tú' en imperfecto?",
           "options": [
-            "Veías (Conjugate regular erir verbs a)",
-            "Ves (Conjugate regular erir verbs a)",
-            "Viste (Conjugate regular erir verbs a)",
-            "Vías (Conjugate regular erir verbs a)"
+            "Veías",
+            "Ves",
+            "Viste",
+            "Vías"
           ],
           "answerIndex": 0,
           "explanation": "Ver preserves the 'e': tú veías."
@@ -9846,10 +9846,10 @@
         {
           "prompt": "Empareja los verbos irregulares en imperfecto con sus formas de 'yo': SER, IR, VER:",
           "options": [
-            "SER: era | IR: iba | VER: veía (Conjugate regular erir verbs a)",
-            "SER: fui | IR: fui | VER: vi (Conjugate regular erir verbs a)",
-            "SER: seré | IR: iré | VER: veré (Conjugate regular erir verbs a)",
-            "SER: soy | IR: voy | VER: veo (Conjugate regular erir verbs a)"
+            "SER: era | IR: iba | VER: veía",
+            "SER: fui | IR: fui | VER: vi",
+            "SER: seré | IR: iré | VER: veré",
+            "SER: soy | IR: voy | VER: veo"
           ],
           "answerIndex": 0,
           "explanation": "Imperfect irregular forms matching.",
@@ -9858,10 +9858,10 @@
         {
           "prompt": "Conjuga 'tener' para 'ellos' en imperfecto:",
           "options": [
-            "Tienen (Conjugate regular erir verbs a)",
-            "Tuvieron (Conjugate regular erir verbs a)",
-            "Tenaban (Conjugate regular erir verbs a)",
-            "Tenían (Conjugate regular erir verbs a)"
+            "Tienen",
+            "Tuvieron",
+            "Tenaban",
+            "Tenían"
           ],
           "answerIndex": 3,
           "explanation": "Tener is regular in the imperfect: tenían.",
@@ -9870,10 +9870,10 @@
         {
           "prompt": "¿Por qué todas las formas regulares de -er e -ir en imperfecto llevan tilde escrita en la 'í'?",
           "options": [
-            "Solo se pone tilde en España (Conjugate regular erir verbs a)",
-            "Es un adorno decorativo (Conjugate regular erir verbs a)",
-            "Para romper el diptongo y mantener el acento prosódico en la vocal cerrada /i/ (Conjugate regular erir verbs a)",
-            "Para distinguirlas del francés (Conjugate regular erir verbs a)"
+            "Solo se pone tilde en España",
+            "Es un adorno decorativo",
+            "Para romper el diptongo y mantener el acento prosódico en la vocal cerrada /i/",
+            "Para distinguirlas del francés"
           ],
           "answerIndex": 2,
           "explanation": "The tilde creates a hiatus, placing stress squarely on the /i/.",
@@ -9882,10 +9882,10 @@
         {
           "prompt": "Completa: 'En aquella época, nosotros _______ (ser) muy jóvenes y _______ (vivir) en el campo.'",
           "options": [
-            "fuimos / vivimos (Conjugate regular erir verbs a)",
-            "éramos / vivíamos (Conjugate regular erir verbs a)",
-            "somos / vivimos (Conjugate regular erir verbs a)",
-            "seremos / viviremos (Conjugate regular erir verbs a)"
+            "fuimos / vivimos",
+            "éramos / vivíamos",
+            "somos / vivimos",
+            "seremos / viviremos"
           ],
           "answerIndex": 1,
           "explanation": "Éramos (ser) and vivíamos (vivir) describe past state and residence.",
@@ -9929,10 +9929,10 @@
         {
           "prompt": "En el texto de síntesis, ¿dónde estaba ubicado el dormitorio del narrador?",
           "options": [
-            "En la planta de arriba, con un balcón con vistas al jardín (Synthesize household vocabulary)",
-            "En el sótano (Synthesize household vocabulary)",
-            "En la cocina (Synthesize household vocabulary)",
-            "En el garaje (Synthesize household vocabulary)"
+            "En la planta de arriba, con un balcón con vistas al jardín",
+            "En el sótano",
+            "En la cocina",
+            "En el garaje"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'Mi dormitorio estaba en la planta de arriba y tenía un balcón con vistas al jardín'."
@@ -9940,10 +9940,10 @@
         {
           "prompt": "¿Qué tareas domésticas realizaba el narrador los sábados por la mañana?",
           "options": [
-            "Limpiaba su habitación y sacaba la basura (Synthesize household vocabulary)",
-            "Cocinaba para 20 personas (Synthesize household vocabulary)",
-            "Pintaba las paredes (Synthesize household vocabulary)",
-            "Dormía todo el día (Synthesize household vocabulary)"
+            "Limpiaba su habitación y sacaba la basura",
+            "Cocinaba para 20 personas",
+            "Pintaba las paredes",
+            "Dormía todo el día"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'yo limpiaba mi habitación y sacaba la basura'."
@@ -9955,10 +9955,10 @@
         {
           "prompt": "Traduce al español: 'Before, we used to live in a small village and we were very happy.'",
           "options": [
-            "Ahora vivimos en un pueblo pequeño hoy. (Synthesize household vocabulary)",
-            "Antes vivíamos en un pueblo pequeño y éramos muy felices. (Synthesize household vocabulary)",
-            "Mañana viviremos en un pueblo feliz. (Synthesize household vocabulary)",
-            "Antes vivimos en una ciudad grande ayer. (Synthesize household vocabulary)"
+            "Ahora vivimos en un pueblo pequeño hoy.",
+            "Antes vivíamos en un pueblo pequeño y éramos muy felices.",
+            "Mañana viviremos en un pueblo feliz.",
+            "Antes vivimos en una ciudad grande ayer."
           ],
           "answerIndex": 1,
           "explanation": "Vivíamos and éramos correctly translate past habitual living and state."
@@ -9966,10 +9966,10 @@
         {
           "prompt": "¿Qué conector temporal es ideal para contrastar una rutina pasada con el presente?",
           "options": [
-            "'Nunca... jamás...' (Synthesize household vocabulary)",
-            "'Antes... pero ahora...' (Synthesize household vocabulary)",
-            "'Pronto... quizás...' (Synthesize household vocabulary)",
-            "'Ayer... mañana...' (Synthesize household vocabulary)"
+            "'Nunca... jamás...'",
+            "'Antes... pero ahora...'",
+            "'Pronto... quizás...'",
+            "'Ayer... mañana...'"
           ],
           "answerIndex": 1,
           "explanation": "'Antes... pero ahora...' is the classic contrast structure between past imperfect and present."
@@ -9981,9 +9981,9 @@
         {
           "prompt": "¿Qué competencias principales se consolidaron a lo largo de la Unidad 10 de Español?",
           "options": [
-            "Conjugación del futuro simple solamente (Synthesize household vocabulary)",
-            "Solo vocabulario de animales (Synthesize household vocabulary)",
-            "Números del 1 al 10 solamente (Synthesize household vocabulary)",
+            "Conjugación del futuro simple solamente",
+            "Solo vocabulario de animales",
+            "Números del 1 al 10 solamente",
             "Vocabulario completo de habitaciones y muebles, colocaciones de tareas domésticas (limpiar, fregar, pasar la aspiradora)"
           ],
           "answerIndex": 3,
@@ -9993,10 +9993,10 @@
         {
           "prompt": "Conjuga en imperfecto: 'Mi abuela siempre me _______ (preparar) chocolate caliente cuando _______ (hacer) frío.'",
           "options": [
-            "prepara / hace (Synthesize household vocabulary)",
-            "preparó / hizo (Synthesize household vocabulary)",
-            "preparaba / hacía (Synthesize household vocabulary)",
-            "preparará / hará (Synthesize household vocabulary)"
+            "prepara / hace",
+            "preparó / hizo",
+            "preparaba / hacía",
+            "preparará / hará"
           ],
           "answerIndex": 2,
           "explanation": "Preparaba (-ar) and hacía (-er) describe habitual care and past weather condition.",
@@ -10005,10 +10005,10 @@
         {
           "prompt": "¿Por qué el Pretérito Imperfecto es fundamental para alcanzar el nivel intermedio (B1/B2)?",
           "options": [
-            "Porque sustituye a todos los demás tiempos verbales (Synthesize household vocabulary)",
+            "Porque sustituye a todos los demás tiempos verbales",
             "Porque permite construir narrativas complejas entrelazando acciones puntuales (indefinido)",
-            "Porque solo se usa en libros antiguos (Synthesize household vocabulary)",
-            "Porque no tiene reglas gramaticales (Synthesize household vocabulary)"
+            "Porque solo se usa en libros antiguos",
+            "Porque no tiene reglas gramaticales"
           ],
           "answerIndex": 1,
           "explanation": "The imperfect is the narrative backbone of descriptive background and past routines.",
@@ -10017,10 +10017,10 @@
         {
           "prompt": "Completa el refrán hispano: 'Recordar es volver a _______.'",
           "options": [
-            "vivir (Synthesize household vocabulary)",
-            "comer (Synthesize household vocabulary)",
-            "dormir (Synthesize household vocabulary)",
-            "llorar (Synthesize household vocabulary)"
+            "vivir",
+            "comer",
+            "dormir",
+            "llorar"
           ],
           "answerIndex": 0,
           "explanation": "'Recordar es volver a vivir' (To remember is to live again).",
@@ -10063,10 +10063,10 @@
         {
           "prompt": "¿Cuál es la palabra para \"stomach / belly\"?",
           "options": [
-            "La pierna (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "El ojo (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "El brazo (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "El estómago (Identificar y nombrar las partes principales del cuerpo humano en espaol)"
+            "La pierna",
+            "El ojo",
+            "El brazo",
+            "El estómago"
           ],
           "answerIndex": 3,
           "explanation": "El estómago significa stomach."
@@ -10074,10 +10074,10 @@
         {
           "prompt": "Completa: \"Me duele la ______\" (Head).",
           "options": [
-            "espalda (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "mano (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "rodilla (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "cabeza (Identificar y nombrar las partes principales del cuerpo humano en espaol)"
+            "espalda",
+            "mano",
+            "rodilla",
+            "cabeza"
           ],
           "answerIndex": 3,
           "explanation": "Cabeza = head."
@@ -10089,10 +10089,10 @@
         {
           "prompt": "¿Qué artículo correcto lleva \"mano\"?",
           "options": [
-            "El mano (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Los mano (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Un mano (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "La mano (Identificar y nombrar las partes principales del cuerpo humano en espaol)"
+            "El mano",
+            "Los mano",
+            "Un mano",
+            "La mano"
           ],
           "answerIndex": 3,
           "explanation": "Mano is a feminine noun taking \"la\"."
@@ -10104,10 +10104,10 @@
         {
           "prompt": "Traduce: \"My back hurts\" (Usa la estructura reflexiva con artículo definido).",
           "options": [
-            "Duele mi espalda (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Tengo dolor mi espalda (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Me duele la espalda (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "La espalda es doler (Identificar y nombrar las partes principales del cuerpo humano en espaol)"
+            "Duele mi espalda",
+            "Tengo dolor mi espalda",
+            "Me duele la espalda",
+            "La espalda es doler"
           ],
           "answerIndex": 2,
           "explanation": "Me duele la espalda is the natural Spanish formulation.",
@@ -10116,10 +10116,10 @@
         {
           "prompt": "¿Cuáles de estos son parte de la cara?",
           "options": [
-            "Piernas, pies, rodillas (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Ojos, nariz, boca, orejas (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Espalda y estómago (Identificar y nombrar las partes principales del cuerpo humano en espaol)",
-            "Hombros, codos, brazos (Identificar y nombrar las partes principales del cuerpo humano en espaol)"
+            "Piernas, pies, rodillas",
+            "Ojos, nariz, boca, orejas",
+            "Espalda y estómago",
+            "Hombros, codos, brazos"
           ],
           "answerIndex": 1,
           "explanation": "Ojos, nariz, boca, orejas are all facial features.",
@@ -10250,10 +10250,10 @@
         {
           "prompt": "¿Qué significa \"una pastilla cada 8 horas\"?",
           "options": [
-            "8 pills once a day (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "One pill after 8 days (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "One pill every 8 hours (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "8 drops every hour (Navegar interacciones en la farmacia y pedir medicamentos en espaol)"
+            "8 pills once a day",
+            "One pill after 8 days",
+            "One pill every 8 hours",
+            "8 drops every hour"
           ],
           "answerIndex": 2,
           "explanation": "Cada 8 horas means every 8 hours."
@@ -10265,10 +10265,10 @@
         {
           "prompt": "¿Cómo pides algo para el dolor de cabeza?",
           "options": [
-            "¿Tiene algo para el dolor de cabeza? (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "Quiero cabeza sin dolor (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "¿Dónde está cabeza dolor? (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "Dame pastilla cabeza ahora (Navegar interacciones en la farmacia y pedir medicamentos en espaol)"
+            "¿Tiene algo para el dolor de cabeza?",
+            "Quiero cabeza sin dolor",
+            "¿Dónde está cabeza dolor?",
+            "Dame pastilla cabeza ahora"
           ],
           "answerIndex": 0,
           "explanation": "Polite and natural phrasing at the pharmacy counter."
@@ -10280,10 +10280,10 @@
         {
           "prompt": "¿Qué documento oficial emite el médico para comprar medicamentos regulados?",
           "options": [
-            "La receta médica (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "La factura de luz (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "El menú del día (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "La tarjeta de embarque (Navegar interacciones en la farmacia y pedir medicamentos en espaol)"
+            "La receta médica",
+            "La factura de luz",
+            "El menú del día",
+            "La tarjeta de embarque"
           ],
           "answerIndex": 0,
           "explanation": "La receta médica is the doctor prescription.",
@@ -10292,10 +10292,10 @@
         {
           "prompt": "Traduce: \"Take this syrup before going to sleep.\"",
           "options": [
-            "Coma este pastilla después de dormir. (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "Beba esta agua por la mañana. (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "Ponga la crema en la cama. (Navegar interacciones en la farmacia y pedir medicamentos en espaol)",
-            "Tome este jarabe antes de dormir. (Navegar interacciones en la farmacia y pedir medicamentos en espaol)"
+            "Coma este pastilla después de dormir.",
+            "Beba esta agua por la mañana.",
+            "Ponga la crema en la cama.",
+            "Tome este jarabe antes de dormir."
           ],
           "answerIndex": 3,
           "explanation": "Tome este jarabe antes de dormir is accurate.",
@@ -10338,10 +10338,10 @@
         {
           "prompt": "¿Qué significa \"mantenerse en forma\"?",
           "options": [
-            "To gain weight quickly (Describir hbitos de vida saludable)",
-            "To stay in shape / keep fit (Describir hbitos de vida saludable)",
-            "To sleep all day (Describir hbitos de vida saludable)",
-            "To sit on a chair (Describir hbitos de vida saludable)"
+            "To gain weight quickly",
+            "To stay in shape / keep fit",
+            "To sleep all day",
+            "To sit on a chair"
           ],
           "answerIndex": 1,
           "explanation": "Mantenerse en forma means staying physically fit."
@@ -10353,10 +10353,10 @@
         {
           "prompt": "Completa con el verbo adecuado: \"Es necesario ______ al menos dos litros de agua al día.\"",
           "options": [
-            "beber (Describir hbitos de vida saludable)",
-            "dormir (Describir hbitos de vida saludable)",
-            "comer (Describir hbitos de vida saludable)",
-            "correr (Describir hbitos de vida saludable)"
+            "beber",
+            "dormir",
+            "comer",
+            "correr"
           ],
           "answerIndex": 0,
           "explanation": "Beber agua = to drink water."
@@ -10368,10 +10368,10 @@
         {
           "prompt": "¿Cuáles de estos son hábitos saludables?",
           "options": [
-            "Fumar y ver televisión todo el día (Describir hbitos de vida saludable)",
-            "Comer comida chatarra y no dormir (Describir hbitos de vida saludable)",
-            "No beber agua nunca (Describir hbitos de vida saludable)",
-            "Hacer deporte regularmente y comer fruta (Describir hbitos de vida saludable)"
+            "Fumar y ver televisión todo el día",
+            "Comer comida chatarra y no dormir",
+            "No beber agua nunca",
+            "Hacer deporte regularmente y comer fruta"
           ],
           "answerIndex": 3,
           "explanation": "Regular sports and fruit consumption are healthy habits.",
@@ -10380,10 +10380,10 @@
         {
           "prompt": "Traduce: \"Good sleep is essential for physical recovery.\"",
           "options": [
-            "Caminar en la noche cansa. (Describir hbitos de vida saludable)",
-            "El sueño no importa para el cuerpo. (Describir hbitos de vida saludable)",
-            "Dormir bien es fundamental para la recuperación física. (Describir hbitos de vida saludable)",
-            "Comer mucho es dormir. (Describir hbitos de vida saludable)"
+            "Caminar en la noche cansa.",
+            "El sueño no importa para el cuerpo.",
+            "Dormir bien es fundamental para la recuperación física.",
+            "Comer mucho es dormir."
           ],
           "answerIndex": 2,
           "explanation": "Dormir bien es fundamental para la recuperación física is exact.",
@@ -10420,10 +10420,10 @@
         {
           "prompt": "¿Qué le dice el médico al paciente al terminar la consulta para desearle pronta recuperación?",
           "options": [
-            "¡Que se mejore pronto! (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "¡Hasta nunca! (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "¡Buena suerte con el dinero! (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "¡Coma pasteles! (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)"
+            "¡Que se mejore pronto!",
+            "¡Hasta nunca!",
+            "¡Buena suerte con el dinero!",
+            "¡Coma pasteles!"
           ],
           "answerIndex": 0,
           "explanation": "¡Que se mejore pronto! means get well soon."
@@ -10435,10 +10435,10 @@
         {
           "prompt": "¿Cómo respondes a \"¿Desde cuándo le duele?\"",
           "options": [
-            "Con una pastilla. (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "Desde hace dos días. (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "Por la ventana. (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "En el hospital. (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)"
+            "Con una pastilla.",
+            "Desde hace dos días.",
+            "Por la ventana.",
+            "En el hospital."
           ],
           "answerIndex": 1,
           "explanation": "\"Desde hace dos días\" answers a time duration question."
@@ -10450,10 +10450,10 @@
         {
           "prompt": "En una consulta médica, si el doctor dice \"Le voy a auscultar los pulmones\", ¿qué instrumento utiliza?",
           "options": [
-            "Una calculadora (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "Un martillo de carpintero (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "El estetoscopio (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "Un reloj de arena (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)"
+            "Una calculadora",
+            "Un martillo de carpintero",
+            "El estetoscopio",
+            "Un reloj de arena"
           ],
           "answerIndex": 2,
           "explanation": "Un estetoscopio is used to listen to the lungs and heart.",
@@ -10462,10 +10462,10 @@
         {
           "prompt": "Ordena la secuencia clínica lógica:",
           "options": [
-            "1. Tomar pastillas -> 2. Ir al médico -> 3. Tener dolor (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "1. Explicar síntomas -> 2. Examen físico -> 3. Diagnóstico y receta médica (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "1. Salir del hospital -> 2. Entrar al hospital -> 3. Despertar (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)",
-            "1. Pagar cuenta -> 2. Comer comida -> 3. Pedir cita (Llevar a cabo una consulta mdica completa y comprender diagnsticos y recomendaciones)"
+            "1. Tomar pastillas -> 2. Ir al médico -> 3. Tener dolor",
+            "1. Explicar síntomas -> 2. Examen físico -> 3. Diagnóstico y receta médica",
+            "1. Salir del hospital -> 2. Entrar al hospital -> 3. Despertar",
+            "1. Pagar cuenta -> 2. Comer comida -> 3. Pedir cita"
           ],
           "answerIndex": 1,
           "explanation": "Standard clinical consultation sequence.",
@@ -10502,10 +10502,10 @@
         {
           "prompt": "¿Cómo se dice correctamente \"I am an engineer\" en español?",
           "options": [
-            "Soy un ingeniero (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Tengo ingeniero (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Estoy ingeniero (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Soy ingeniero / ingeniera (Nombrar diversas profesiones y sectores laborales en espaol peninsular)"
+            "Soy un ingeniero",
+            "Tengo ingeniero",
+            "Estoy ingeniero",
+            "Soy ingeniero / ingeniera"
           ],
           "answerIndex": 3,
           "explanation": "SER + profession without indefinite article is standard."
@@ -10517,10 +10517,10 @@
         {
           "prompt": "Traduce: \"She works as a lawyer in a law firm.\"",
           "options": [
-            "Es médica en un colegio. (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Compra casas en la playa. (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Come pan con queso. (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Trabaja como abogada en un bufete. (Nombrar diversas profesiones y sectores laborales en espaol peninsular)"
+            "Es médica en un colegio.",
+            "Compra casas en la playa.",
+            "Come pan con queso.",
+            "Trabaja como abogada en un bufete."
           ],
           "answerIndex": 3,
           "explanation": "Trabaja como abogada en un bufete is exact."
@@ -10532,10 +10532,10 @@
         {
           "prompt": "¿Cómo se llama el lugar de trabajo de un abogado?",
           "options": [
-            "Un quirófano (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Un bufete de abogados (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Un taller (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "Una panadería (Nombrar diversas profesiones y sectores laborales en espaol peninsular)"
+            "Un quirófano",
+            "Un bufete de abogados",
+            "Un taller",
+            "Una panadería"
           ],
           "answerIndex": 1,
           "explanation": "Bufete is a law firm/office.",
@@ -10544,10 +10544,10 @@
         {
           "prompt": "Completa: \"Mi hermano es informático y trabaja en ______.\"",
           "options": [
-            "una empresa de tecnología (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "una montaña (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "un bosque (Nombrar diversas profesiones y sectores laborales en espaol peninsular)",
-            "un barco pesquero (Nombrar diversas profesiones y sectores laborales en espaol peninsular)"
+            "una empresa de tecnología",
+            "una montaña",
+            "un bosque",
+            "un barco pesquero"
           ],
           "answerIndex": 0,
           "explanation": "Tech companies employ informáticos.",
@@ -10584,10 +10584,10 @@
         {
           "prompt": "¿Qué significa \"trabajar en remoto\" o \"teletrabajar\"?",
           "options": [
-            "To work from home / remotely using a computer (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "To sleep at the office (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "To travel abroad without work (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "To quit one's job (Describir la rutina laboral diaria y responsabilidades de oficina)"
+            "To work from home / remotely using a computer",
+            "To sleep at the office",
+            "To travel abroad without work",
+            "To quit one's job"
           ],
           "answerIndex": 0,
           "explanation": "Teletrabajar means remote work."
@@ -10599,10 +10599,10 @@
         {
           "prompt": "¿Cómo dices \"I have to write an urgent report\"?",
           "options": [
-            "Tengo que redactar un informe urgente. (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "Quiero comer una ensalada. (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "Voy a ver una película. (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "El informe es azul. (Describir la rutina laboral diaria y responsabilidades de oficina)"
+            "Tengo que redactar un informe urgente.",
+            "Quiero comer una ensalada.",
+            "Voy a ver una película.",
+            "El informe es azul."
           ],
           "answerIndex": 0,
           "explanation": "Tengo que redactar un informe urgente is exact."
@@ -10614,10 +10614,10 @@
         {
           "prompt": "¿A qué hora suele hacerse la pausa del café en las oficinas españolas?",
           "options": [
-            "A media mañana (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "A las seis de la mañana (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "A las ocho de la tarde (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "A medianoche (Describir la rutina laboral diaria y responsabilidades de oficina)"
+            "A media mañana",
+            "A las seis de la mañana",
+            "A las ocho de la tarde",
+            "A medianoche"
           ],
           "answerIndex": 0,
           "explanation": "Mid-morning coffee pause.",
@@ -10626,10 +10626,10 @@
         {
           "prompt": "Traduce: \"We have an important videoconference with clients this afternoon.\"",
           "options": [
-            "No tengo ordenador. (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "El cliente vive en el campo. (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "Ayer comimos paella. (Describir la rutina laboral diaria y responsabilidades de oficina)",
-            "Esta tarde tenemos una videoconferencia importante con clientes. (Describir la rutina laboral diaria y responsabilidades de oficina)"
+            "No tengo ordenador.",
+            "El cliente vive en el campo.",
+            "Ayer comimos paella.",
+            "Esta tarde tenemos una videoconferencia importante con clientes."
           ],
           "answerIndex": 3,
           "explanation": "Accurate business translation.",
@@ -10666,10 +10666,10 @@
         {
           "prompt": "¿Cómo se llama en España a una computadora portátil?",
           "options": [
-            "Una máquina de escribir (Vocabulario informtico)",
-            "Un televisor (Vocabulario informtico)",
-            "Un ordenador portátil (Vocabulario informtico)",
-            "Una radio (Vocabulario informtico)"
+            "Una máquina de escribir",
+            "Un televisor",
+            "Un ordenador portátil",
+            "Una radio"
           ],
           "answerIndex": 2,
           "explanation": "Ordenador portátil is standard Peninsular Spanish."
@@ -10681,10 +10681,10 @@
         {
           "prompt": "¿Qué debes hacer para no perder tu trabajo en el ordenador?",
           "options": [
-            "Guardar los cambios (Vocabulario informtico)",
-            "Apagar la pantalla sin guardar (Vocabulario informtico)",
-            "Tirar el ratón (Vocabulario informtico)",
-            "Borrar el archivo (Vocabulario informtico)"
+            "Guardar los cambios",
+            "Apagar la pantalla sin guardar",
+            "Tirar el ratón",
+            "Borrar el archivo"
           ],
           "answerIndex": 0,
           "explanation": "Guardar los cambios preserves work."
@@ -10696,10 +10696,10 @@
         {
           "prompt": "¿Qué significa \"subir un archivo a la nube\"?",
           "options": [
-            "To throw a piece of paper in the sky (Vocabulario informtico)",
-            "To delete a hard drive (Vocabulario informtico)",
-            "To print on paper (Vocabulario informtico)",
-            "To upload a file to cloud storage (Vocabulario informtico)"
+            "To throw a piece of paper in the sky",
+            "To delete a hard drive",
+            "To print on paper",
+            "To upload a file to cloud storage"
           ],
           "answerIndex": 3,
           "explanation": "Upload to cloud storage.",
@@ -10708,10 +10708,10 @@
         {
           "prompt": "Traduce: \"Please enter your username and password to log in.\"",
           "options": [
-            "La pantalla está sucia. (Vocabulario informtico)",
-            "El ratón no tiene queso. (Vocabulario informtico)",
-            "Por favor, introduce tu usuario y contraseña para iniciar sesión. (Vocabulario informtico)",
-            "Compra un nuevo ordenador. (Vocabulario informtico)"
+            "La pantalla está sucia.",
+            "El ratón no tiene queso.",
+            "Por favor, introduce tu usuario y contraseña para iniciar sesión.",
+            "Compra un nuevo ordenador."
           ],
           "answerIndex": 2,
           "explanation": "Accurate digital interface instruction.",
@@ -10748,10 +10748,10 @@
         {
           "prompt": "¿Cuál es una fórmula de despedida formal y común en un correo comercial?",
           "options": [
-            "Nos vemos luego tío (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "Un cordial saludo, / Atentamente, (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "Hasta nunca (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "¡Chao pescao! (Redactar correos electrnicos formales de trabajo y correspondencia profesional)"
+            "Nos vemos luego tío",
+            "Un cordial saludo, / Atentamente,",
+            "Hasta nunca",
+            "¡Chao pescao!"
           ],
           "answerIndex": 1,
           "explanation": "Un cordial saludo is formal and professional."
@@ -10763,10 +10763,10 @@
         {
           "prompt": "¿Cómo se inicia un email formal dirigido al Sr. Martínez?",
           "options": [
-            "Estimado Sr. Martínez (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "¿Quién eres? (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "¡Hola qué pasa Martínez! (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "Oye tú (Redactar correos electrnicos formales de trabajo y correspondencia profesional)"
+            "Estimado Sr. Martínez",
+            "¿Quién eres?",
+            "¡Hola qué pasa Martínez!",
+            "Oye tú"
           ],
           "answerIndex": 0,
           "explanation": "Estimado Sr. Martínez is standard formal address."
@@ -10778,10 +10778,10 @@
         {
           "prompt": "¿Qué frase utilizas para indicar que envías un documento adjunto?",
           "options": [
-            "El documento está en mi casa. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "Ayer llovió mucho. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "Adjunto le remito el documento solicitado. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "No tengo ningún papel. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)"
+            "El documento está en mi casa.",
+            "Ayer llovió mucho.",
+            "Adjunto le remito el documento solicitado.",
+            "No tengo ningún papel."
           ],
           "answerIndex": 2,
           "explanation": "Adjunto le remito... indicates attachments.",
@@ -10790,10 +10790,10 @@
         {
           "prompt": "Traduce: \"I look forward to hearing from you soon.\"",
           "options": [
-            "No quiero saber nada. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "Quedo a la espera de sus noticias. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "El teléfono no funciona. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)",
-            "El tren llega tarde. (Redactar correos electrnicos formales de trabajo y correspondencia profesional)"
+            "No quiero saber nada.",
+            "Quedo a la espera de sus noticias.",
+            "El teléfono no funciona.",
+            "El tren llega tarde."
           ],
           "answerIndex": 1,
           "explanation": "Quedo a la espera de sus noticias is standard.",
@@ -10830,10 +10830,10 @@
         {
           "prompt": "¿Qué significa \"trabajar en equipo\"?",
           "options": [
-            "To collaborate effectively with colleagues toward shared goals (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "To work alone in isolation (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "To avoid other workers (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "To play football during work (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)"
+            "To collaborate effectively with colleagues toward shared goals",
+            "To work alone in isolation",
+            "To avoid other workers",
+            "To play football during work"
           ],
           "answerIndex": 0,
           "explanation": "Trabajar en equipo means teamwork."
@@ -10845,10 +10845,10 @@
         {
           "prompt": "¿Cómo respondes cuando te preguntan por tu experiencia laboral?",
           "options": [
-            "Ayer dormí diez horas. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "Tengo experiencia en gestión de proyectos y análisis de datos. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "Mi perro se llama Toby. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "No me gusta trabajar. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)"
+            "Ayer dormí diez horas.",
+            "Tengo experiencia en gestión de proyectos y análisis de datos.",
+            "Mi perro se llama Toby.",
+            "No me gusta trabajar."
           ],
           "answerIndex": 1,
           "explanation": "Professional description of relevant experience."
@@ -10860,10 +10860,10 @@
         {
           "prompt": "¿Qué documento resume tu trayectoria profesional y académica al buscar empleo?",
           "options": [
-            "El pasaporte turístico (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "El currículum vítae (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "El recibo de la luz (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "El menú del día (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)"
+            "El pasaporte turístico",
+            "El currículum vítae",
+            "El recibo de la luz",
+            "El menú del día"
           ],
           "answerIndex": 1,
           "explanation": "Curriculum Vitae (CV) summarizes career background.",
@@ -10872,10 +10872,10 @@
         {
           "prompt": "Traduce: \"I am motivated to take on new technical challenges.\"",
           "options": [
-            "Estoy motivado/a para asumir nuevos retos técnicos. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "No quiero aprender nada nuevo. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "La oficina está cerrada. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)",
-            "Prefiero no trabajar. (Simular una entrevista de trabajo en espaol y hablar de experiencia profesional y competencias)"
+            "Estoy motivado/a para asumir nuevos retos técnicos.",
+            "No quiero aprender nada nuevo.",
+            "La oficina está cerrada.",
+            "Prefiero no trabajar."
           ],
           "answerIndex": 0,
           "explanation": "Accurate professional statement.",
@@ -10912,10 +10912,10 @@
         {
           "prompt": "¿Cómo expresas que te gusta mucho la fotografía?",
           "options": [
-            "La fotografía es fea (Expresar aficiones)",
-            "No me gusta la cámara (Expresar aficiones)",
-            "Tengo fotografía (Expresar aficiones)",
-            "Me apasiona la fotografía / Me encanta la fotografía (Expresar aficiones)"
+            "La fotografía es fea",
+            "No me gusta la cámara",
+            "Tengo fotografía",
+            "Me apasiona la fotografía / Me encanta la fotografía"
           ],
           "answerIndex": 3,
           "explanation": "Me apasiona / encanta expresses strong enthusiasm."
@@ -10927,10 +10927,10 @@
         {
           "prompt": "Traduce: \"In my free time, I like playing the classical guitar.\"",
           "options": [
-            "Vendo guitarras rotas. (Expresar aficiones)",
-            "La música es aburrida. (Expresar aficiones)",
-            "No tengo tiempo libre. (Expresar aficiones)",
-            "En mi tiempo libre, me gusta tocar la guitarra clásica. (Expresar aficiones)"
+            "Vendo guitarras rotas.",
+            "La música es aburrida.",
+            "No tengo tiempo libre.",
+            "En mi tiempo libre, me gusta tocar la guitarra clásica."
           ],
           "answerIndex": 3,
           "explanation": "En mi tiempo libre, me gusta tocar la guitarra clásica is exact."
@@ -10942,10 +10942,10 @@
         {
           "prompt": "¿Qué verbo se utiliza en español para \"to play an instrument\"?",
           "options": [
-            "Tocar (Expresar aficiones)",
-            "Correr (Expresar aficiones)",
-            "Bailar (Expresar aficiones)",
-            "Jugar (Expresar aficiones)"
+            "Tocar",
+            "Correr",
+            "Bailar",
+            "Jugar"
           ],
           "answerIndex": 0,
           "explanation": "Tocar is used for musical instruments.",
@@ -10954,10 +10954,10 @@
         {
           "prompt": "Completa: \"Los fines de semana voy a la montaña a hacer ______.\"",
           "options": [
-            "computación (Expresar aficiones)",
-            "oficina (Expresar aficiones)",
-            "pesca de oficina (Expresar aficiones)",
-            "senderismo (Expresar aficiones)"
+            "computación",
+            "oficina",
+            "pesca de oficina",
+            "senderismo"
           ],
           "answerIndex": 3,
           "explanation": "Hacer senderismo means hiking.",
@@ -10994,10 +10994,10 @@
         {
           "prompt": "¿Qué deporte de raqueta en parejas es enormemente popular en España?",
           "options": [
-            "El pádel (Vocabulario deportivo)",
-            "El cricket (Vocabulario deportivo)",
-            "El béisbol (Vocabulario deportivo)",
-            "El hockey sobre hielo (Vocabulario deportivo)"
+            "El pádel",
+            "El cricket",
+            "El béisbol",
+            "El hockey sobre hielo"
           ],
           "answerIndex": 0,
           "explanation": "El pádel is wildly popular."
@@ -11009,10 +11009,10 @@
         {
           "prompt": "¿Qué verbo se usa para indicar anotar en un partido de fútbol?",
           "options": [
-            "Marcar un gol / Meter un gol (Vocabulario deportivo)",
-            "Comer un gol (Vocabulario deportivo)",
-            "Dormir un gol (Vocabulario deportivo)",
-            "Correr un gol (Vocabulario deportivo)"
+            "Marcar un gol / Meter un gol",
+            "Comer un gol",
+            "Dormir un gol",
+            "Correr un gol"
           ],
           "answerIndex": 0,
           "explanation": "Marcar un gol means scoring a goal."
@@ -11024,10 +11024,10 @@
         {
           "prompt": "¿Cómo se llama a los seguidores o hinchada de un club deportivo en España?",
           "options": [
-            "Los árbitros (Vocabulario deportivo)",
-            "Los jueces (Vocabulario deportivo)",
-            "Los dependientes (Vocabulario deportivo)",
-            "La afición / los aficionados (Vocabulario deportivo)"
+            "Los árbitros",
+            "Los jueces",
+            "Los dependientes",
+            "La afición / los aficionados"
           ],
           "answerIndex": 3,
           "explanation": "La afición are the fans/supporters.",
@@ -11036,10 +11036,10 @@
         {
           "prompt": "Traduce: \"Our team won the championship match 2-1.\"",
           "options": [
-            "No jugamos al fútbol. (Vocabulario deportivo)",
-            "El estadio está vacío. (Vocabulario deportivo)",
-            "Nuestro equipo ganó el partido del campeonato dos a uno. (Vocabulario deportivo)",
-            "Perdimos el partido ayer. (Vocabulario deportivo)"
+            "No jugamos al fútbol.",
+            "El estadio está vacío.",
+            "Nuestro equipo ganó el partido del campeonato dos a uno.",
+            "Perdimos el partido ayer."
           ],
           "answerIndex": 2,
           "explanation": "Accurate sports victory translation.",
@@ -11076,10 +11076,10 @@
         {
           "prompt": "¿Qué género musical y dancístico andaluz es Patrimonio Inmaterial de la Humanidad?",
           "options": [
-            "El tango (Gneros musicales)",
-            "La samba (Gneros musicales)",
-            "El flamenco (Gneros musicales)",
-            "La polka (Gneros musicales)"
+            "El tango",
+            "La samba",
+            "El flamenco",
+            "La polka"
           ],
           "answerIndex": 2,
           "explanation": "El flamenco."
@@ -11091,10 +11091,10 @@
         {
           "prompt": "¿Qué museo madrileño alberga \"Las Meninas\" de Velázquez?",
           "options": [
-            "El Museo del Prado (Gneros musicales)",
-            "El Museo del Louvre (Gneros musicales)",
-            "El Hermitage (Gneros musicales)",
-            "La Galería Uffizi (Gneros musicales)"
+            "El Museo del Prado",
+            "El Museo del Louvre",
+            "El Hermitage",
+            "La Galería Uffizi"
           ],
           "answerIndex": 0,
           "explanation": "El Museo del Prado."
@@ -11106,10 +11106,10 @@
         {
           "prompt": "¿Qué significa \"música en directo\" o \"en vivo\"?",
           "options": [
-            "Music without sound (Gneros musicales)",
-            "Radio silence (Gneros musicales)",
-            "Live music performed on stage by musicians in real time (Gneros musicales)",
-            "Recorded music on vinyl (Gneros musicales)"
+            "Music without sound",
+            "Radio silence",
+            "Live music performed on stage by musicians in real time",
+            "Recorded music on vinyl"
           ],
           "answerIndex": 2,
           "explanation": "Live performance.",
@@ -11118,10 +11118,10 @@
         {
           "prompt": "Traduce: \"We bought tickets for the indie rock festival in Barcelona.\"",
           "options": [
-            "El festival fue cancelado. (Gneros musicales)",
-            "Compramos entradas para el festival de rock indie en Barcelona. (Gneros musicales)",
-            "No nos gusta la música. (Gneros musicales)",
-            "Vendimos las entradas. (Gneros musicales)"
+            "El festival fue cancelado.",
+            "Compramos entradas para el festival de rock indie en Barcelona.",
+            "No nos gusta la música.",
+            "Vendimos las entradas."
           ],
           "answerIndex": 1,
           "explanation": "Accurate cultural event translation.",
@@ -11158,10 +11158,10 @@
         {
           "prompt": "¿Cómo dices coloquialmente en España \"Count me in / I'm in\" para un plan divertido?",
           "options": [
-            "No quiero saber nada (Proponer planes de ocio)",
-            "¡Me apunto! / ¡Me parece genial! (Proponer planes de ocio)",
-            "Adiós (Proponer planes de ocio)",
-            "Me borro (Proponer planes de ocio)"
+            "No quiero saber nada",
+            "¡Me apunto! / ¡Me parece genial!",
+            "Adiós",
+            "Me borro"
           ],
           "answerIndex": 1,
           "explanation": "¡Me apunto! means count me in."
@@ -11173,10 +11173,10 @@
         {
           "prompt": "¿Cómo propones un plan de salir a tomar algo usando \"apetecer\"?",
           "options": [
-            "¿Te apetece tomar algo esta tarde? (Proponer planes de ocio)",
-            "El bar está cerrado (Proponer planes de ocio)",
-            "No tengo sed (Proponer planes de ocio)",
-            "Tienes que tomar agua (Proponer planes de ocio)"
+            "¿Te apetece tomar algo esta tarde?",
+            "El bar está cerrado",
+            "No tengo sed",
+            "Tienes que tomar agua"
           ],
           "answerIndex": 0,
           "explanation": "¿Te apetece...? is standard polite proposing."
@@ -11188,10 +11188,10 @@
         {
           "prompt": "¿Qué significa \"quedar\" en el contexto social en España?",
           "options": [
-            "To win a prize (Proponer planes de ocio)",
-            "To agree on a time and place to meet friends (Proponer planes de ocio)",
-            "To stay at home alone (Proponer planes de ocio)",
-            "To lose something (Proponer planes de ocio)"
+            "To win a prize",
+            "To agree on a time and place to meet friends",
+            "To stay at home alone",
+            "To lose something"
           ],
           "answerIndex": 1,
           "explanation": "Quedar means to arrange a meeting.",
@@ -11200,10 +11200,10 @@
         {
           "prompt": "Traduce: \"Let's meet in front of the theater at eight.\"",
           "options": [
-            "Quedamos delante del teatro a las ocho. (Proponer planes de ocio)",
-            "El teatro cerró ayer. (Proponer planes de ocio)",
-            "Las ocho es tarde. (Proponer planes de ocio)",
-            "No voy al teatro. (Proponer planes de ocio)"
+            "Quedamos delante del teatro a las ocho.",
+            "El teatro cerró ayer.",
+            "Las ocho es tarde.",
+            "No voy al teatro."
           ],
           "answerIndex": 0,
           "explanation": "Quedamos delante del teatro a las ocho is exact.",
@@ -11240,10 +11240,10 @@
         {
           "prompt": "¿Qué significa el término \"la banda sonora\" de una película?",
           "options": [
-            "The musical soundtrack and audio score (Escribir una resea crtica sobre una pelcula)",
-            "The movie poster (Escribir una resea crtica sobre una pelcula)",
-            "The cinema seats (Escribir una resea crtica sobre una pelcula)",
-            "The cinema ticket (Escribir una resea crtica sobre una pelcula)"
+            "The musical soundtrack and audio score",
+            "The movie poster",
+            "The cinema seats",
+            "The cinema ticket"
           ],
           "answerIndex": 0,
           "explanation": "Banda sonora is soundtrack."
@@ -11255,10 +11255,10 @@
         {
           "prompt": "¿Cómo calificas una película altamente recomendada que nadie debería perderse?",
           "options": [
-            "El cine no funciona. (Escribir una resea crtica sobre una pelcula)",
-            "No tiene historia. (Escribir una resea crtica sobre una pelcula)",
-            "Es una película imprescindible y emocionante. (Escribir una resea crtica sobre una pelcula)",
-            "Es una película aburrida. (Escribir una resea crtica sobre una pelcula)"
+            "El cine no funciona.",
+            "No tiene historia.",
+            "Es una película imprescindible y emocionante.",
+            "Es una película aburrida."
           ],
           "answerIndex": 2,
           "explanation": "Película imprescindible."
@@ -11270,10 +11270,10 @@
         {
           "prompt": "¿Cómo se llama el galardón más prestigioso del cine español?",
           "options": [
-            "Los Premios Goya (Escribir una resea crtica sobre una pelcula)",
-            "Los Premios Grammy (Escribir una resea crtica sobre una pelcula)",
-            "La Palma de Oro (Escribir una resea crtica sobre una pelcula)",
-            "El León de Plata (Escribir una resea crtica sobre una pelcula)"
+            "Los Premios Goya",
+            "Los Premios Grammy",
+            "La Palma de Oro",
+            "El León de Plata"
           ],
           "answerIndex": 0,
           "explanation": "Los Premios Goya are Spain's premier film awards.",
@@ -11282,10 +11282,10 @@
         {
           "prompt": "Traduce: \"The plot is gripping and full of unexpected twists.\"",
           "options": [
-            "No entendí nada. (Escribir una resea crtica sobre una pelcula)",
-            "El libro no tiene páginas. (Escribir una resea crtica sobre una pelcula)",
-            "La película ya terminó. (Escribir una resea crtica sobre una pelcula)",
-            "La trama es apasionante y llena de giros inesperados. (Escribir una resea crtica sobre una pelcula)"
+            "No entendí nada.",
+            "El libro no tiene páginas.",
+            "La película ya terminó.",
+            "La trama es apasionante y llena de giros inesperados."
           ],
           "answerIndex": 3,
           "explanation": "Accurate review translation.",
@@ -11322,10 +11322,10 @@
         {
           "prompt": "¿Qué documento necesitas para subir al avión después de facturar?",
           "options": [
-            "El carnet de conducir (Vocabulario aeroportuario)",
-            "La factura del hotel (Vocabulario aeroportuario)",
-            "Una postal (Vocabulario aeroportuario)",
-            "La tarjeta de embarque (Vocabulario aeroportuario)"
+            "El carnet de conducir",
+            "La factura del hotel",
+            "Una postal",
+            "La tarjeta de embarque"
           ],
           "answerIndex": 3,
           "explanation": "Tarjeta de embarque is boarding pass."
@@ -11337,10 +11337,10 @@
         {
           "prompt": "Traduce: \"The flight is delayed by thirty minutes due to weather.\"",
           "options": [
-            "El avión despegó puntual. (Vocabulario aeroportuario)",
-            "No hay billetes de avión. (Vocabulario aeroportuario)",
-            "El aeropuerto está cerrado. (Vocabulario aeroportuario)",
-            "El vuelo está retrasado treinta minutos debido al tiempo. (Vocabulario aeroportuario)"
+            "El avión despegó puntual.",
+            "No hay billetes de avión.",
+            "El aeropuerto está cerrado.",
+            "El vuelo está retrasado treinta minutos debido al tiempo."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -11352,10 +11352,10 @@
         {
           "prompt": "¿Dónde se recogen las maletas después del aterrizaje?",
           "options": [
-            "En la cabina del piloto (Vocabulario aeroportuario)",
-            "En el mostrador de facturación (Vocabulario aeroportuario)",
-            "En la pista de aterrizaje (Vocabulario aeroportuario)",
-            "En la sala de recogida de equipajes (Vocabulario aeroportuario)"
+            "En la cabina del piloto",
+            "En el mostrador de facturación",
+            "En la pista de aterrizaje",
+            "En la sala de recogida de equipajes"
           ],
           "answerIndex": 3,
           "explanation": "Baggage claim area.",
@@ -11364,10 +11364,10 @@
         {
           "prompt": "Traduce: \"Please proceed to gate B24 immediately for boarding.\"",
           "options": [
-            "Salgan del aeropuerto. (Vocabulario aeroportuario)",
-            "El avión aterrizó en París. (Vocabulario aeroportuario)",
-            "Por favor, diríjanse a la puerta de embarque B24 inmediatamente para el embarque. (Vocabulario aeroportuario)",
-            "Compre un billete nuevo. (Vocabulario aeroportuario)"
+            "Salgan del aeropuerto.",
+            "El avión aterrizó en París.",
+            "Por favor, diríjanse a la puerta de embarque B24 inmediatamente para el embarque.",
+            "Compre un billete nuevo."
           ],
           "answerIndex": 2,
           "explanation": "Accurate boarding announcement.",
@@ -11404,10 +11404,10 @@
         {
           "prompt": "¿Cómo dices en recepción que tienes una habitación reservada?",
           "options": [
-            "Tengo una reserva a nombre de (Reservar alojamiento)",
-            "Vengo a vender camas (Reservar alojamiento)",
-            "No quiero dormir aquí (Reservar alojamiento)",
-            "La habitación es mía gratis (Reservar alojamiento)"
+            "Tengo una reserva a nombre de",
+            "Vengo a vender camas",
+            "No quiero dormir aquí",
+            "La habitación es mía gratis"
           ],
           "answerIndex": 0,
           "explanation": "Tengo una reserva a nombre de... is standard."
@@ -11419,10 +11419,10 @@
         {
           "prompt": "¿Qué incluye el régimen de \"media pensión\" en un hotel?",
           "options": [
-            "Alojamiento, desayuno y una comida principal (Reservar alojamiento)",
-            "Solo dormir (Reservar alojamiento)",
-            "Todas las bebidas gratis todo el día (Reservar alojamiento)",
-            "Solo café (Reservar alojamiento)"
+            "Alojamiento, desayuno y una comida principal",
+            "Solo dormir",
+            "Todas las bebidas gratis todo el día",
+            "Solo café"
           ],
           "answerIndex": 0,
           "explanation": "Media pensión includes breakfast and one main meal."
@@ -11434,10 +11434,10 @@
         {
           "prompt": "¿Qué son los famosos \"Paradores\" en España?",
           "options": [
-            "Estaciones de tren abandonadas (Reservar alojamiento)",
-            "Campamentos militares (Reservar alojamiento)",
-            "Hoteles de lujo ubicados en castillos, palacios y monasterios históricos restaurados (Reservar alojamiento)",
-            "Tiendas de comestibles (Reservar alojamiento)"
+            "Estaciones de tren abandonadas",
+            "Campamentos militares",
+            "Hoteles de lujo ubicados en castillos, palacios y monasterios históricos restaurados",
+            "Tiendas de comestibles"
           ],
           "answerIndex": 2,
           "explanation": "Paradores.",
@@ -11446,10 +11446,10 @@
         {
           "prompt": "Traduce: \"Could you please give me an extra key card and the wifi password?\"",
           "options": [
-            "La habitación está sucia. (Reservar alojamiento)",
-            "¿Podría darme una tarjeta magnética adicional y la contraseña del wifi, por favor? (Reservar alojamiento)",
-            "No tengo reserva. (Reservar alojamiento)",
-            "El desayuno terminó. (Reservar alojamiento)"
+            "La habitación está sucia.",
+            "¿Podría darme una tarjeta magnética adicional y la contraseña del wifi, por favor?",
+            "No tengo reserva.",
+            "El desayuno terminó."
           ],
           "answerIndex": 1,
           "explanation": "Accurate reception request.",
@@ -11486,10 +11486,10 @@
         {
           "prompt": "¿Cómo se llama la red de trenes de alta velocidad más extensa de Europa que opera en España?",
           "options": [
-            "El tranvía lento (Transporte ferroviario en Espaa)",
-            "El teleférico (Transporte ferroviario en Espaa)",
-            "El AVE (Transporte ferroviario en Espaa)",
-            "El funicular (Transporte ferroviario en Espaa)"
+            "El tranvía lento",
+            "El teleférico",
+            "El AVE",
+            "El funicular"
           ],
           "answerIndex": 2,
           "explanation": "El AVE."
@@ -11501,10 +11501,10 @@
         {
           "prompt": "¿Cómo pides un billete para ir y regresar en la taquilla de la estación?",
           "options": [
-            "Un billete de ida y vuelta a Valencia, por favor. (Transporte ferroviario en Espaa)",
-            "Un billete solo de ida (Transporte ferroviario en Espaa)",
-            "No quiero viajar (Transporte ferroviario en Espaa)",
-            "Un mapa del tren (Transporte ferroviario en Espaa)"
+            "Un billete de ida y vuelta a Valencia, por favor.",
+            "Un billete solo de ida",
+            "No quiero viajar",
+            "Un mapa del tren"
           ],
           "answerIndex": 0,
           "explanation": "Billete de ida y vuelta is round-trip."
@@ -11516,10 +11516,10 @@
         {
           "prompt": "¿Cómo se llama la gran estación de tren madrileña con un jardín botánico tropical en su interior?",
           "options": [
-            "Estación de Sants (Transporte ferroviario en Espaa)",
-            "La Estación de Atocha (Transporte ferroviario en Espaa)",
-            "Estación del Norte (Transporte ferroviario en Espaa)",
-            "La Estación de Chamartín (Transporte ferroviario en Espaa)"
+            "Estación de Sants",
+            "La Estación de Atocha",
+            "Estación del Norte",
+            "La Estación de Chamartín"
           ],
           "answerIndex": 1,
           "explanation": "Estación de Atocha.",
@@ -11528,10 +11528,10 @@
         {
           "prompt": "Traduce: \"Please check your ticket for the coach and seat number.\"",
           "options": [
-            "Por favor, consulte en su billete el número de coche y de asiento. (Transporte ferroviario en Espaa)",
-            "Bájese del andén. (Transporte ferroviario en Espaa)",
-            "No hay billetes disponibles. (Transporte ferroviario en Espaa)",
-            "El tren está cancelado. (Transporte ferroviario en Espaa)"
+            "Por favor, consulte en su billete el número de coche y de asiento.",
+            "Bájese del andén.",
+            "No hay billetes disponibles.",
+            "El tren está cancelado."
           ],
           "answerIndex": 0,
           "explanation": "Accurate train announcement.",
@@ -11568,10 +11568,10 @@
         {
           "prompt": "¿Qué significa pedir un \"seguro a todo riesgo sin franquicia\" al alquilar un coche?",
           "options": [
-            "Only third-party glass insurance (Alquilar un coche)",
-            "Full comprehensive coverage with zero deductible/excess in case of damage (Alquilar un coche)",
-            "A bicycle helmet (Alquilar un coche)",
-            "No insurance at all (Alquilar un coche)"
+            "Only third-party glass insurance",
+            "Full comprehensive coverage with zero deductible/excess in case of damage",
+            "A bicycle helmet",
+            "No insurance at all"
           ],
           "answerIndex": 1,
           "explanation": "Seguro a todo riesgo sin franquicia is zero-deductible full coverage."
@@ -11583,10 +11583,10 @@
         {
           "prompt": "¿Qué combustible debes pedir para un coche estándar de gasolina en España?",
           "options": [
-            "Gasolina sin plomo 95 (Alquilar un coche)",
-            "Queroseno de avión (Alquilar un coche)",
-            "Agua con gas (Alquilar un coche)",
-            "Gasóleo agrícola (Alquilar un coche)"
+            "Gasolina sin plomo 95",
+            "Queroseno de avión",
+            "Agua con gas",
+            "Gasóleo agrícola"
           ],
           "answerIndex": 0,
           "explanation": "Gasolina sin plomo 95 is standard unleaded."
@@ -11598,10 +11598,10 @@
         {
           "prompt": "¿Quién tiene la prioridad de paso en una rotonda o glorieta estándar en España?",
           "options": [
-            "Los vehículos que ya están circulando dentro de la rotonda (Alquilar un coche)",
-            "Nadie (Alquilar un coche)",
-            "Los vehículos que quieren entrar a gran velocidad (Alquilar un coche)",
-            "Los peatones en la autopista (Alquilar un coche)"
+            "Los vehículos que ya están circulando dentro de la rotonda",
+            "Nadie",
+            "Los vehículos que quieren entrar a gran velocidad",
+            "Los peatones en la autopista"
           ],
           "answerIndex": 0,
           "explanation": "Vehicles already in the roundabout.",
@@ -11610,10 +11610,10 @@
         {
           "prompt": "Traduce: \"We rented a car at the airport to explore the coastal towns.\"",
           "options": [
-            "El coche no tiene ruedas. (Alquilar un coche)",
-            "Vendimos nuestro coche en el aeropuerto. (Alquilar un coche)",
-            "No hay carreteras en la costa. (Alquilar un coche)",
-            "Alquilamos un coche en el aeropuerto para recorrer los pueblos de la costa. (Alquilar un coche)"
+            "El coche no tiene ruedas.",
+            "Vendimos nuestro coche en el aeropuerto.",
+            "No hay carreteras en la costa.",
+            "Alquilamos un coche en el aeropuerto para recorrer los pueblos de la costa."
           ],
           "answerIndex": 3,
           "explanation": "Accurate car rental translation.",
@@ -11650,10 +11650,10 @@
         {
           "prompt": "¿Qué formulario oficial debes rellenar en el aeropuerto si tu maleta facturada no aparece?",
           "options": [
-            "El Parte de Irregularidad de Equipaje (Gestionar imprevistos de viaje)",
-            "Un examen de conducir (Gestionar imprevistos de viaje)",
-            "Una postal para casa (Gestionar imprevistos de viaje)",
-            "La factura de la tienda (Gestionar imprevistos de viaje)"
+            "El Parte de Irregularidad de Equipaje",
+            "Un examen de conducir",
+            "Una postal para casa",
+            "La factura de la tienda"
           ],
           "answerIndex": 0,
           "explanation": "El PIR (Property Irregularity Report)."
@@ -11665,10 +11665,10 @@
         {
           "prompt": "¿Cómo solicitas el libro oficial para poner una queja formal en un establecimiento en España?",
           "options": [
-            "Todo está perfecto (Gestionar imprevistos de viaje)",
-            "Me voy sin pagar (Gestionar imprevistos de viaje)",
-            "Por favor, ¿me puede facilitar la hoja oficial de reclamaciones? (Gestionar imprevistos de viaje)",
-            "No quiero hablar con nadie (Gestionar imprevistos de viaje)"
+            "Todo está perfecto",
+            "Me voy sin pagar",
+            "Por favor, ¿me puede facilitar la hoja oficial de reclamaciones?",
+            "No quiero hablar con nadie"
           ],
           "answerIndex": 2,
           "explanation": "Hoja de reclamaciones is the official legal complaint form."
@@ -11680,10 +11680,10 @@
         {
           "prompt": "¿Qué normativa europea protege a los pasajeros aéreos con indemnizaciones económicas ante cancelaciones de vuelos?",
           "options": [
-            "El Código de Hammurabi (Gestionar imprevistos de viaje)",
-            "El Tratado de Versalles (Gestionar imprevistos de viaje)",
-            "La Constitución de 1812 (Gestionar imprevistos de viaje)",
-            "El Reglamento Europeo CE 261/2004 (Gestionar imprevistos de viaje)"
+            "El Código de Hammurabi",
+            "El Tratado de Versalles",
+            "La Constitución de 1812",
+            "El Reglamento Europeo CE 261/2004"
           ],
           "answerIndex": 3,
           "explanation": "Reglamento CE 261/2004.",
@@ -11692,10 +11692,10 @@
         {
           "prompt": "Traduce: \"My suitcase is damaged and the handle is broken.\"",
           "options": [
-            "No tengo ninguna maleta. (Gestionar imprevistos de viaje)",
-            "Mi maleta es nueva y hermosa. (Gestionar imprevistos de viaje)",
-            "Mi maleta está dañada y el asa está rota. (Gestionar imprevistos de viaje)",
-            "El equipaje llegó puntual. (Gestionar imprevistos de viaje)"
+            "No tengo ninguna maleta.",
+            "Mi maleta es nueva y hermosa.",
+            "Mi maleta está dañada y el asa está rota.",
+            "El equipaje llegó puntual."
           ],
           "answerIndex": 2,
           "explanation": "Accurate damage claim translation.",
@@ -11732,10 +11732,10 @@
         {
           "prompt": "¿Cómo preguntas en una tienda de ropa si tienen una talla específica?",
           "options": [
-            "¿Dónde está la comida? (Vocabulario de tiendas de ropa)",
-            "No quiero comprar nada (Vocabulario de tiendas de ropa)",
-            "El pantalón está roto (Vocabulario de tiendas de ropa)",
-            "¿Tiene este pantalón en la talla 38 / M? (Vocabulario de tiendas de ropa)"
+            "¿Dónde está la comida?",
+            "No quiero comprar nada",
+            "El pantalón está roto",
+            "¿Tiene este pantalón en la talla 38 / M?"
           ],
           "answerIndex": 3,
           "explanation": "¿Tiene este pantalón en la talla...? is standard."
@@ -11747,10 +11747,10 @@
         {
           "prompt": "¿Cómo se le llama a los pantalones tejanos/jeans en España?",
           "options": [
-            "Los bañadores (Vocabulario de tiendas de ropa)",
-            "Los pijamas (Vocabulario de tiendas de ropa)",
-            "Los trajes (Vocabulario de tiendas de ropa)",
-            "Los pantalones vaqueros / los vaqueros (Vocabulario de tiendas de ropa)"
+            "Los bañadores",
+            "Los pijamas",
+            "Los trajes",
+            "Los pantalones vaqueros / los vaqueros"
           ],
           "answerIndex": 3,
           "explanation": "Los vaqueros."
@@ -11762,10 +11762,10 @@
         {
           "prompt": "¿Cuál es la emblemática cadena de grandes almacenes de España presente en casi todas las capitales de provincia?",
           "options": [
-            "Harrods (Vocabulario de tiendas de ropa)",
-            "Macy's (Vocabulario de tiendas de ropa)",
-            "El Corte Inglés (Vocabulario de tiendas de ropa)",
-            "Galeries Lafayette (Vocabulario de tiendas de ropa)"
+            "Harrods",
+            "Macy's",
+            "El Corte Inglés",
+            "Galeries Lafayette"
           ],
           "answerIndex": 2,
           "explanation": "El Corte Inglés.",
@@ -11774,10 +11774,10 @@
         {
           "prompt": "Traduce: \"This 100% cotton shirt is very comfortable and breathable.\"",
           "options": [
-            "La camisa es de plástico feo. (Vocabulario de tiendas de ropa)",
-            "Esta camisa de cien por cien algodón es muy cómoda y transpirable. (Vocabulario de tiendas de ropa)",
-            "La tienda está cerrada. (Vocabulario de tiendas de ropa)",
-            "No me gusta la ropa. (Vocabulario de tiendas de ropa)"
+            "La camisa es de plástico feo.",
+            "Esta camisa de cien por cien algodón es muy cómoda y transpirable.",
+            "La tienda está cerrada.",
+            "No me gusta la ropa."
           ],
           "answerIndex": 1,
           "explanation": "Accurate fashion translation.",
@@ -11814,10 +11814,10 @@
         {
           "prompt": "¿Cómo dices que una prenda te queda demasiado apretada?",
           "options": [
-            "Me queda estrecha / pequeña (Probarse ropa en el probador)",
-            "Me queda perfecta (Probarse ropa en el probador)",
-            "Me queda gigante (Probarse ropa en el probador)",
-            "Es muy ancha (Probarse ropa en el probador)"
+            "Me queda estrecha / pequeña",
+            "Me queda perfecta",
+            "Me queda gigante",
+            "Es muy ancha"
           ],
           "answerIndex": 0,
           "explanation": "Me queda estrecha / pequeña."
@@ -11829,10 +11829,10 @@
         {
           "prompt": "¿Dónde te pruebas la ropa en una tienda?",
           "options": [
-            "En los probadores (Probarse ropa en el probador)",
-            "En la caja registradora (Probarse ropa en el probador)",
-            "En el escaparate (Probarse ropa en el probador)",
-            "En la calle (Probarse ropa en el probador)"
+            "En los probadores",
+            "En la caja registradora",
+            "En el escaparate",
+            "En la calle"
           ],
           "answerIndex": 0,
           "explanation": "En los probadores (Fitting rooms)."
@@ -11844,10 +11844,10 @@
         {
           "prompt": "¿Qué significa la frase \"Ese vestido te favorece mucho\"?",
           "options": [
-            "That dress is torn (Probarse ropa en el probador)",
-            "That dress flatters you and makes you look great (Probarse ropa en el probador)",
-            "That dress is dirty (Probarse ropa en el probador)",
-            "That dress is expensive (Probarse ropa en el probador)"
+            "That dress is torn",
+            "That dress flatters you and makes you look great",
+            "That dress is dirty",
+            "That dress is expensive"
           ],
           "answerIndex": 1,
           "explanation": "Te favorece means it flatters you.",
@@ -11856,10 +11856,10 @@
         {
           "prompt": "Traduce: \"The trousers are too long; do you offer tailoring / hemming service?\"",
           "options": [
-            "Los pantalones me quedan muy largos; ¿tienen servicio de arreglos? (Probarse ropa en el probador)",
-            "No compro pantalones. (Probarse ropa en el probador)",
-            "La tienda no tiene ropa. (Probarse ropa en el probador)",
-            "Los pantalones son baratos. (Probarse ropa en el probador)"
+            "Los pantalones me quedan muy largos; ¿tienen servicio de arreglos?",
+            "No compro pantalones.",
+            "La tienda no tiene ropa.",
+            "Los pantalones son baratos."
           ],
           "answerIndex": 0,
           "explanation": "Accurate tailoring inquiry.",
@@ -11896,10 +11896,10 @@
         {
           "prompt": "¿Cómo se llama la temporada oficial de descuentos comerciales en España?",
           "options": [
-            "La fiesta mayor (Las rebajas en Espaa)",
-            "Las rebajas (Las rebajas en Espaa)",
-            "La vendimia (Las rebajas en Espaa)",
-            "El examen (Las rebajas en Espaa)"
+            "La fiesta mayor",
+            "Las rebajas",
+            "La vendimia",
+            "El examen"
           ],
           "answerIndex": 1,
           "explanation": "Las rebajas."
@@ -11911,10 +11911,10 @@
         {
           "prompt": "¿Cómo pides el comprobante de compra en la caja en España?",
           "options": [
-            "¿Me da el ticket de compra, por favor? (Las rebajas en Espaa)",
-            "Deme un periódico (Las rebajas en Espaa)",
-            "Tire el dinero (Las rebajas en Espaa)",
-            "No quiero recibo (Las rebajas en Espaa)"
+            "¿Me da el ticket de compra, por favor?",
+            "Deme un periódico",
+            "Tire el dinero",
+            "No quiero recibo"
           ],
           "answerIndex": 0,
           "explanation": "El ticket de compra."
@@ -11926,10 +11926,10 @@
         {
           "prompt": "¿Cuál es el sistema de pago móvil instantáneo más popular entre particulares y comercios en España?",
           "options": [
-            "Bizum (Las rebajas en Espaa)",
-            "Transferencia de dos semanas (Las rebajas en Espaa)",
-            "Criptomoneda anónima (Las rebajas en Espaa)",
-            "Cheque postal (Las rebajas en Espaa)"
+            "Bizum",
+            "Transferencia de dos semanas",
+            "Criptomoneda anónima",
+            "Cheque postal"
           ],
           "answerIndex": 0,
           "explanation": "Bizum.",
@@ -11938,10 +11938,10 @@
         {
           "prompt": "Traduce: \"Can I pay by contactless card or mobile phone?\"",
           "options": [
-            "La tarjeta está bloqueada. (Las rebajas en Espaa)",
-            "No tengo dinero para pagar. (Las rebajas en Espaa)",
-            "El precio es muy caro. (Las rebajas en Espaa)",
-            "¿Puedo pagar con tarjeta contactless o con el móvil? (Las rebajas en Espaa)"
+            "La tarjeta está bloqueada.",
+            "No tengo dinero para pagar.",
+            "El precio es muy caro.",
+            "¿Puedo pagar con tarjeta contactless o con el móvil?"
           ],
           "answerIndex": 3,
           "explanation": "Accurate payment inquiry.",
@@ -11978,10 +11978,10 @@
         {
           "prompt": "¿Cuál es el famoso mercado al aire libre de antigüedades que se celebra todos los domingos en Madrid?",
           "options": [
-            "Camden Market (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "El Rastro de Madrid (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "Portobello Road (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "El Mercado de las Pulgas de París (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)"
+            "Camden Market",
+            "El Rastro de Madrid",
+            "Portobello Road",
+            "El Mercado de las Pulgas de París"
           ],
           "answerIndex": 1,
           "explanation": "El Rastro de Madrid."
@@ -11993,10 +11993,10 @@
         {
           "prompt": "¿Cuál es el jamón curado más prestigioso y exclusivo de la gastronomía española?",
           "options": [
-            "El jamón ibérico de bellota (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "El jamón de plástico (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "El pavo frío (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "El jamón cocido en lata (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)"
+            "El jamón ibérico de bellota",
+            "El jamón de plástico",
+            "El pavo frío",
+            "El jamón cocido en lata"
           ],
           "answerIndex": 0,
           "explanation": "Jamón ibérico de bellota."
@@ -12008,10 +12008,10 @@
         {
           "prompt": "¿Cómo funciona la fijación de precios en la gran mayoría de tiendas y mercados en España?",
           "options": [
-            "El precio cambia cada minuto (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "No hay precios (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "Se debe regatear obligatoriamente (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "Los precios son fijos y están claramente indicados (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)"
+            "El precio cambia cada minuto",
+            "No hay precios",
+            "Se debe regatear obligatoriamente",
+            "Los precios son fijos y están claramente indicados"
           ],
           "answerIndex": 3,
           "explanation": "Fixed pricing culture.",
@@ -12020,10 +12020,10 @@
         {
           "prompt": "Traduce: \"Please slice two hundred grams of cured Manchego cheese.\"",
           "options": [
-            "Véndame un kilo de pan duro. (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "No quiero queso. (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "Por favor, córteme doscientos gramos de queso manchego curado. (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)",
-            "El queso está malo. (Mercados tradicionales y de abastos en Espaa Mercado de San Miguel)"
+            "Véndame un kilo de pan duro.",
+            "No quiero queso.",
+            "Por favor, córteme doscientos gramos de queso manchego curado.",
+            "El queso está malo."
           ],
           "answerIndex": 2,
           "explanation": "Accurate market counter purchase.",
@@ -12142,10 +12142,10 @@
         {
           "prompt": "¿Cómo dices en español que el cielo no tiene nubes y brilla el sol?",
           "options": [
-            "Hay tormenta de nieve (Hablar sobre el tiempo meteorolgico)",
-            "Está lloviendo a cántaros (Hablar sobre el tiempo meteorolgico)",
-            "Hace un frío polar (Hablar sobre el tiempo meteorolgico)",
-            "Hace sol y el cielo está completamente despejado (Hablar sobre el tiempo meteorolgico)"
+            "Hay tormenta de nieve",
+            "Está lloviendo a cántaros",
+            "Hace un frío polar",
+            "Hace sol y el cielo está completamente despejado"
           ],
           "answerIndex": 3,
           "explanation": "Hace sol y está despejado is exact."
@@ -12157,10 +12157,10 @@
         {
           "prompt": "¿Qué verbo se usa para indicar la temperatura ambiente (ej. \"It is 22 degrees\")?",
           "options": [
-            "Tener grados (Hablar sobre el tiempo meteorolgico)",
-            "Hacer grados (Hablar sobre el tiempo meteorolgico)",
-            "Comer grados (Hablar sobre el tiempo meteorolgico)",
-            "Estar a (Hablar sobre el tiempo meteorolgico)"
+            "Tener grados",
+            "Hacer grados",
+            "Comer grados",
+            "Estar a"
           ],
           "answerIndex": 3,
           "explanation": "Estamos a veintidós grados."
@@ -12172,10 +12172,10 @@
         {
           "prompt": "¿Qué región española es famosa por su clima atlántico lluvioso y paisajes verdes llamada \"la España Verde\"?",
           "options": [
-            "El desierto de Tabernas (Hablar sobre el tiempo meteorolgico)",
-            "El norte (Hablar sobre el tiempo meteorolgico)",
-            "Las Islas Canarias (Hablar sobre el tiempo meteorolgico)",
-            "Madrid centro (Hablar sobre el tiempo meteorolgico)"
+            "El desierto de Tabernas",
+            "El norte",
+            "Las Islas Canarias",
+            "Madrid centro"
           ],
           "answerIndex": 1,
           "explanation": "El norte (España Verde).",
@@ -12184,10 +12184,10 @@
         {
           "prompt": "Traduce: \"There is a severe thunderstorm forecast for this afternoon with heavy rain.\"",
           "options": [
-            "Hay previsión de una fuerte tormenta con lluvias intensas para esta tarde. (Hablar sobre el tiempo meteorolgico)",
-            "No lloverá nunca. (Hablar sobre el tiempo meteorolgico)",
-            "Hace un sol radiante. (Hablar sobre el tiempo meteorolgico)",
-            "El cielo está despejado. (Hablar sobre el tiempo meteorolgico)"
+            "Hay previsión de una fuerte tormenta con lluvias intensas para esta tarde.",
+            "No lloverá nunca.",
+            "Hace un sol radiante.",
+            "El cielo está despejado."
           ],
           "answerIndex": 0,
           "explanation": "Accurate weather forecast translation.",
@@ -12224,10 +12224,10 @@
         {
           "prompt": "¿Qué estación del año es famosa por las castañas asadas en las calles y la caída de las hojas?",
           "options": [
-            "El otoño (Las cuatro estaciones del ao)",
-            "El año bisiesto (Las cuatro estaciones del ao)",
-            "El verano (Las cuatro estaciones del ao)",
-            "La primavera (Las cuatro estaciones del ao)"
+            "El otoño",
+            "El año bisiesto",
+            "El verano",
+            "La primavera"
           ],
           "answerIndex": 0,
           "explanation": "El otoño."
@@ -12239,10 +12239,10 @@
         {
           "prompt": "¿En qué estación del año se celebra la vendimia y recogida de la uva para el vino en España?",
           "options": [
-            "En otoño (Las cuatro estaciones del ao)",
-            "En pleno invierno con nieve (Las cuatro estaciones del ao)",
-            "En primavera (Las cuatro estaciones del ao)",
-            "En enero (Las cuatro estaciones del ao)"
+            "En otoño",
+            "En pleno invierno con nieve",
+            "En primavera",
+            "En enero"
           ],
           "answerIndex": 0,
           "explanation": "En otoño."
@@ -12254,10 +12254,10 @@
         {
           "prompt": "¿Dónde se encuentran las principales estaciones de esquí de alta montaña en España?",
           "options": [
-            "En los Pirineos y en Sierra Nevada (Las cuatro estaciones del ao)",
-            "En el Río Guadalquivir (Las cuatro estaciones del ao)",
-            "En el metro de Madrid (Las cuatro estaciones del ao)",
-            "En las playas de Ibiza (Las cuatro estaciones del ao)"
+            "En los Pirineos y en Sierra Nevada",
+            "En el Río Guadalquivir",
+            "En el metro de Madrid",
+            "En las playas de Ibiza"
           ],
           "answerIndex": 0,
           "explanation": "Pirineos y Sierra Nevada.",
@@ -12266,10 +12266,10 @@
         {
           "prompt": "Traduce: \"In summer the days are long, sunny, and very warm.\"",
           "options": [
-            "En verano nieva mucho. (Las cuatro estaciones del ao)",
-            "Los días de verano son oscuros y fríos. (Las cuatro estaciones del ao)",
-            "No hay sol en verano. (Las cuatro estaciones del ao)",
-            "En verano los días son largos, soleados y muy calurosos. (Las cuatro estaciones del ao)"
+            "En verano nieva mucho.",
+            "Los días de verano son oscuros y fríos.",
+            "No hay sol en verano.",
+            "En verano los días son largos, soleados y muy calurosos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate season translation.",
@@ -12306,10 +12306,10 @@
         {
           "prompt": "¿Cuál es la montaña más alta de España?",
           "options": [
-            "El Mulhacén (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El volcán Teide en Tenerife (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El Aneto (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El Mont Blanc (Parques nacionales y paisajes naturales de Espaa Picos de Europa)"
+            "El Mulhacén",
+            "El volcán Teide en Tenerife",
+            "El Aneto",
+            "El Mont Blanc"
           ],
           "answerIndex": 1,
           "explanation": "El Teide (3.718m)."
@@ -12321,10 +12321,10 @@
         {
           "prompt": "¿Qué animal felino en peligro de extinción habita protegido en el Parque Nacional de Doñana?",
           "options": [
-            "El lince ibérico (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El león africano (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El oso panda (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El tigre de bengala (Parques nacionales y paisajes naturales de Espaa Picos de Europa)"
+            "El lince ibérico",
+            "El león africano",
+            "El oso panda",
+            "El tigre de bengala"
           ],
           "answerIndex": 0,
           "explanation": "El lince ibérico."
@@ -12336,10 +12336,10 @@
         {
           "prompt": "¿Cómo se llama el ecosistema tradicional de robles y encinas donde se cría el cerdo ibérico en España?",
           "options": [
-            "La sabana (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "La tundra (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "La selva tropical (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "La dehesa (Parques nacionales y paisajes naturales de Espaa Picos de Europa)"
+            "La sabana",
+            "La tundra",
+            "La selva tropical",
+            "La dehesa"
           ],
           "answerIndex": 3,
           "explanation": "La dehesa.",
@@ -12348,10 +12348,10 @@
         {
           "prompt": "Traduce: \"The hiking trail through the canyon offers breathtaking views of the waterfalls.\"",
           "options": [
-            "No hay montañas ni agua. (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El cañón está cerrado. (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El sendero a través del cañón ofrece vistas impresionantes de las cascadas. (Parques nacionales y paisajes naturales de Espaa Picos de Europa)",
-            "El sendero está en el fondo del mar. (Parques nacionales y paisajes naturales de Espaa Picos de Europa)"
+            "No hay montañas ni agua.",
+            "El cañón está cerrado.",
+            "El sendero a través del cañón ofrece vistas impresionantes de las cascadas.",
+            "El sendero está en el fondo del mar."
           ],
           "answerIndex": 2,
           "explanation": "Accurate nature trail translation.",
@@ -12388,10 +12388,10 @@
         {
           "prompt": "¿Cómo se llama el fenómeno meteorológico de polvo sahariano en suspensión que reduce la visibilidad?",
           "options": [
-            "El granizo (Comprender el parte meteorolgico)",
-            "La calima (Comprender el parte meteorolgico)",
-            "La escarcha (Comprender el parte meteorolgico)",
-            "La nieve (Comprender el parte meteorolgico)"
+            "El granizo",
+            "La calima",
+            "La escarcha",
+            "La nieve"
           ],
           "answerIndex": 1,
           "explanation": "La calima."
@@ -12403,10 +12403,10 @@
         {
           "prompt": "¿Qué organismo estatal es responsable de la predicción y alertas meteorológicas en España?",
           "options": [
-            "AEMET (Comprender el parte meteorolgico)",
-            "Renfe (Comprender el parte meteorolgico)",
-            "Correos (Comprender el parte meteorolgico)",
-            "DGT (Comprender el parte meteorolgico)"
+            "AEMET",
+            "Renfe",
+            "Correos",
+            "DGT"
           ],
           "answerIndex": 0,
           "explanation": "AEMET."
@@ -12418,10 +12418,10 @@
         {
           "prompt": "¿Qué significa la sigla meteorológica DANA en España?",
           "options": [
-            "Día Soleado Con Aire (Comprender el parte meteorolgico)",
-            "Dispositivo Automático De Nieve (Comprender el parte meteorolgico)",
-            "Depresión Aislada en Niveles Altos (Comprender el parte meteorolgico)",
-            "Dirección De Nubes Altas (Comprender el parte meteorolgico)"
+            "Día Soleado Con Aire",
+            "Dispositivo Automático De Nieve",
+            "Depresión Aislada en Niveles Altos",
+            "Dirección De Nubes Altas"
           ],
           "answerIndex": 2,
           "explanation": "Depresión Aislada en Niveles Altos.",
@@ -12430,10 +12430,10 @@
         {
           "prompt": "Traduce: \"Drink plenty of water and avoid intense outdoor exercise during peak heat hours.\"",
           "options": [
-            "El calor no existe. (Comprender el parte meteorolgico)",
-            "Beba abundante agua y evite el ejercicio físico intenso en las horas centrales de calor. (Comprender el parte meteorolgico)",
-            "Corra bajo el sol a mediodía. (Comprender el parte meteorolgico)",
-            "No beba agua. (Comprender el parte meteorolgico)"
+            "El calor no existe.",
+            "Beba abundante agua y evite el ejercicio físico intenso en las horas centrales de calor.",
+            "Corra bajo el sol a mediodía.",
+            "No beba agua."
           ],
           "answerIndex": 1,
           "explanation": "Accurate heatwave advisory translation.",
@@ -12470,10 +12470,10 @@
         {
           "prompt": "¿En qué contenedor de reciclaje de basura se depositan las botellas y envases de vidrio en España?",
           "options": [
-            "En el contenedor verde tipo iglú (Hablar sobre el cambio climtico)",
-            "En el contenedor amarillo (Hablar sobre el cambio climtico)",
-            "En la papelera de oficina (Hablar sobre el cambio climtico)",
-            "En el contenedor azul (Hablar sobre el cambio climtico)"
+            "En el contenedor verde tipo iglú",
+            "En el contenedor amarillo",
+            "En la papelera de oficina",
+            "En el contenedor azul"
           ],
           "answerIndex": 0,
           "explanation": "Contenedor verde (Glass)."
@@ -12485,10 +12485,10 @@
         {
           "prompt": "¿En qué fuentes de energía renovable y limpia destaca España como potencia europea?",
           "options": [
-            "Carbón mineral únicamente (Hablar sobre el cambio climtico)",
-            "Petróleo crudo (Hablar sobre el cambio climtico)",
-            "Leña (Hablar sobre el cambio climtico)",
-            "Energía solar y eólica (Hablar sobre el cambio climtico)"
+            "Carbón mineral únicamente",
+            "Petróleo crudo",
+            "Leña",
+            "Energía solar y eólica"
           ],
           "answerIndex": 3,
           "explanation": "Energía solar y eólica."
@@ -12500,10 +12500,10 @@
         {
           "prompt": "¿Qué problema medioambiental prolongado afecta a la agricultura y a los embalses en el sur y este de España?",
           "options": [
-            "La congelación de los mares (Hablar sobre el cambio climtico)",
-            "La sequía y la escasez de precipitaciones (Hablar sobre el cambio climtico)",
-            "La caída de meteoritos (Hablar sobre el cambio climtico)",
-            "La oscuridad constante (Hablar sobre el cambio climtico)"
+            "La congelación de los mares",
+            "La sequía y la escasez de precipitaciones",
+            "La caída de meteoritos",
+            "La oscuridad constante"
           ],
           "answerIndex": 1,
           "explanation": "La sequía.",
@@ -12512,10 +12512,10 @@
         {
           "prompt": "Traduce: \"Protecting natural biodiversity and transitioning to renewable energy is essential for the future.\"",
           "options": [
-            "Proteger la biodiversidad natural y transicionar a energías renovables es esencial para el futuro. (Hablar sobre el cambio climtico)",
-            "No debemos cuidar la naturaleza. (Hablar sobre el cambio climtico)",
-            "Las energías limpias no sirven. (Hablar sobre el cambio climtico)",
-            "El futuro no importa. (Hablar sobre el cambio climtico)"
+            "Proteger la biodiversidad natural y transicionar a energías renovables es esencial para el futuro.",
+            "No debemos cuidar la naturaleza.",
+            "Las energías limpias no sirven.",
+            "El futuro no importa."
           ],
           "answerIndex": 0,
           "explanation": "Accurate sustainability statement.",
@@ -12552,10 +12552,10 @@
         {
           "prompt": "¿Cómo dices en español que te duelen los dos pies tras una larga caminata?",
           "options": [
-            "Me duele el pie (Partes del cuerpo humano)",
-            "Tengo dolor de cabeza (Partes del cuerpo humano)",
-            "Tengo hambre (Partes del cuerpo humano)",
-            "Me duelen los pies (Partes del cuerpo humano)"
+            "Me duele el pie",
+            "Tengo dolor de cabeza",
+            "Tengo hambre",
+            "Me duelen los pies"
           ],
           "answerIndex": 3,
           "explanation": "Me duelen los pies (plural)."
@@ -12567,10 +12567,10 @@
         {
           "prompt": "¿Cuál es la forma correcta para \"My throat hurts\"?",
           "options": [
-            "Me duelen la garganta (Partes del cuerpo humano)",
-            "Tengo dolor de rodilla (Partes del cuerpo humano)",
-            "Estoy cansado (Partes del cuerpo humano)",
-            "Me duele la garganta (Partes del cuerpo humano)"
+            "Me duelen la garganta",
+            "Tengo dolor de rodilla",
+            "Estoy cansado",
+            "Me duele la garganta"
           ],
           "answerIndex": 3,
           "explanation": "Me duele la garganta."
@@ -12582,10 +12582,10 @@
         {
           "prompt": "¿Cómo se llaman los centros médicos de atención primaria en los barrios de España?",
           "options": [
-            "Centros de Salud (Partes del cuerpo humano)",
-            "Hospitales de campaña (Partes del cuerpo humano)",
-            "Comisarías (Partes del cuerpo humano)",
-            "Ayuntamientos (Partes del cuerpo humano)"
+            "Centros de Salud",
+            "Hospitales de campaña",
+            "Comisarías",
+            "Ayuntamientos"
           ],
           "answerIndex": 0,
           "explanation": "Centros de Salud.",
@@ -12594,10 +12594,10 @@
         {
           "prompt": "Traduce: \"I have a terrible headache and dizziness; I need to see a doctor.\"",
           "options": [
-            "Tengo hambre y quiero comer. (Partes del cuerpo humano)",
-            "No tengo ninguna molestia. (Partes del cuerpo humano)",
-            "El hospital está lejos. (Partes del cuerpo humano)",
-            "Tengo un dolor de cabeza terrible y mareos; necesito ver a un médico. (Partes del cuerpo humano)"
+            "Tengo hambre y quiero comer.",
+            "No tengo ninguna molestia.",
+            "El hospital está lejos.",
+            "Tengo un dolor de cabeza terrible y mareos; necesito ver a un médico."
           ],
           "answerIndex": 3,
           "explanation": "Accurate symptom translation.",
@@ -12634,10 +12634,10 @@
         {
           "prompt": "¿Cómo se le llama en España a los pequeños apósitos adhesivos para cubrir heridas leves?",
           "options": [
-            "Las tiritas (La farmacia en Espaa)",
-            "Las gasas estériles (La farmacia en Espaa)",
-            "Los vendajes de yeso (La farmacia en Espaa)",
-            "Las vendas elásticas (La farmacia en Espaa)"
+            "Las tiritas",
+            "Las gasas estériles",
+            "Los vendajes de yeso",
+            "Las vendas elásticas"
           ],
           "answerIndex": 0,
           "explanation": "Las tiritas (band-aids)."
@@ -12649,10 +12649,10 @@
         {
           "prompt": "¿Cómo se llama la farmacia que permanece abierta durante la noche para urgencias médicas?",
           "options": [
-            "La farmacia de guardia (La farmacia en Espaa)",
-            "La farmacia cerrada (La farmacia en Espaa)",
-            "El supermercado (La farmacia en Espaa)",
-            "El quiosco (La farmacia en Espaa)"
+            "La farmacia de guardia",
+            "La farmacia cerrada",
+            "El supermercado",
+            "El quiosco"
           ],
           "answerIndex": 0,
           "explanation": "Farmacia de guardia."
@@ -12664,10 +12664,10 @@
         {
           "prompt": "¿Qué símbolo luminoso de color verde en la calle identifica a las farmacias en España?",
           "options": [
-            "Un semáforo rojo (La farmacia en Espaa)",
-            "Una estrella azul (La farmacia en Espaa)",
-            "Un triángulo amarillo (La farmacia en Espaa)",
-            "Una cruz verde luminosa (La farmacia en Espaa)"
+            "Un semáforo rojo",
+            "Una estrella azul",
+            "Un triángulo amarillo",
+            "Una cruz verde luminosa"
           ],
           "answerIndex": 3,
           "explanation": "Cruz verde luminosa.",
@@ -12676,10 +12676,10 @@
         {
           "prompt": "Traduce: \"Take one tablet every eight hours after meals for five days.\"",
           "options": [
-            "Tome todas las pastillas juntas. (La farmacia en Espaa)",
-            "No tome ninguna medicina. (La farmacia en Espaa)",
-            "Tome un comprimido cada ocho horas después de las comidas durante cinco días. (La farmacia en Espaa)",
-            "Beba agua fría. (La farmacia en Espaa)"
+            "Tome todas las pastillas juntas.",
+            "No tome ninguna medicina.",
+            "Tome un comprimido cada ocho horas después de las comidas durante cinco días.",
+            "Beba agua fría."
           ],
           "answerIndex": 2,
           "explanation": "Accurate posology translation.",
@@ -12716,10 +12716,10 @@
         {
           "prompt": "¿Cuál es el número telefónico gratuito universal de emergencias en España y toda la Unión Europea?",
           "options": [
-            "El 911 (Urgencias mdicas en Espaa)",
-            "El 112 (Urgencias mdicas en Espaa)",
-            "El 999 (Urgencias mdicas en Espaa)",
-            "El 000 (Urgencias mdicas en Espaa)"
+            "El 911",
+            "El 112",
+            "El 999",
+            "El 000"
           ],
           "answerIndex": 1,
           "explanation": "El 112."
@@ -12731,10 +12731,10 @@
         {
           "prompt": "¿Qué tarjeta permite a los ciudadanos europeos recibir atención médica urgente en España como residentes locales?",
           "options": [
-            "La Tarjeta Sanitaria Europea (Urgencias mdicas en Espaa)",
-            "La tarjeta de crédito (Urgencias mdicas en Espaa)",
-            "El billete de metro (Urgencias mdicas en Espaa)",
-            "El carnet de conducir (Urgencias mdicas en Espaa)"
+            "La Tarjeta Sanitaria Europea",
+            "La tarjeta de crédito",
+            "El billete de metro",
+            "El carnet de conducir"
           ],
           "answerIndex": 0,
           "explanation": "La Tarjeta Sanitaria Europea (TSE)."
@@ -12746,10 +12746,10 @@
         {
           "prompt": "¿Cómo se llama el proceso de evaluación médica inicial en urgencias para clasificar la gravedad del paciente?",
           "options": [
-            "El examen final (Urgencias mdicas en Espaa)",
-            "La facturación (Urgencias mdicas en Espaa)",
-            "El triaje médico (Urgencias mdicas en Espaa)",
-            "La entrevista de trabajo (Urgencias mdicas en Espaa)"
+            "El examen final",
+            "La facturación",
+            "El triaje médico",
+            "La entrevista de trabajo"
           ],
           "answerIndex": 2,
           "explanation": "El triaje médico.",
@@ -12758,10 +12758,10 @@
         {
           "prompt": "Traduce: \"The patient is allergic to penicillin and requires immediate oxygen assistance.\"",
           "options": [
-            "No hay médicos. (Urgencias mdicas en Espaa)",
-            "El paciente es alérgico a la penicilina y requiere asistencia inmediata de oxígeno. (Urgencias mdicas en Espaa)",
-            "El hospital está cerrado. (Urgencias mdicas en Espaa)",
-            "El paciente tiene sueño. (Urgencias mdicas en Espaa)"
+            "No hay médicos.",
+            "El paciente es alérgico a la penicilina y requiere asistencia inmediata de oxígeno.",
+            "El hospital está cerrado.",
+            "El paciente tiene sueño."
           ],
           "answerIndex": 1,
           "explanation": "Accurate emergency statement translation.",
@@ -12798,10 +12798,10 @@
         {
           "prompt": "¿Qué ingrediente fundamental de la dieta mediterránea es conocido como el \"oro líquido\"?",
           "options": [
-            "La margarina (La dieta mediterrnea)",
-            "El aceite de oliva virgen extra (La dieta mediterrnea)",
-            "El aceite de palma (La dieta mediterrnea)",
-            "La mantequilla (La dieta mediterrnea)"
+            "La margarina",
+            "El aceite de oliva virgen extra",
+            "El aceite de palma",
+            "La mantequilla"
           ],
           "answerIndex": 1,
           "explanation": "Aceite de oliva virgen extra."
@@ -12813,10 +12813,10 @@
         {
           "prompt": "¿Cuál es la duración recomendada para una siesta reparadora y beneficiosa para la salud según los médicos?",
           "options": [
-            "De 15 a 20 minutos (La dieta mediterrnea)",
-            "Todo el día (La dieta mediterrnea)",
-            "Cero minutos siempre (La dieta mediterrnea)",
-            "De 4 horas (La dieta mediterrnea)"
+            "De 15 a 20 minutos",
+            "Todo el día",
+            "Cero minutos siempre",
+            "De 4 horas"
           ],
           "answerIndex": 0,
           "explanation": "15 a 20 minutos."
@@ -12828,10 +12828,10 @@
         {
           "prompt": "¿Qué región española es el mayor productor mundial de aceite de oliva virgen extra?",
           "options": [
-            "Asturias (La dieta mediterrnea)",
-            "Andalucía (La dieta mediterrnea)",
-            "Galicia (La dieta mediterrnea)",
-            "Canarias (La dieta mediterrnea)"
+            "Asturias",
+            "Andalucía",
+            "Galicia",
+            "Canarias"
           ],
           "answerIndex": 1,
           "explanation": "Andalucía (Jaén).",
@@ -12840,10 +12840,10 @@
         {
           "prompt": "Traduce: \"Daily physical activity, social connections, and nutritious food promote lifelong wellbeing.\"",
           "options": [
-            "La actividad física diaria, las relaciones sociales y la comida nutritiva promueven el bienestar durante toda la vida. (La dieta mediterrnea)",
-            "No debemos hacer ejercicio. (La dieta mediterrnea)",
-            "La comida chatarra es saludable. (La dieta mediterrnea)",
-            "El sedentarismo es bueno. (La dieta mediterrnea)"
+            "La actividad física diaria, las relaciones sociales y la comida nutritiva promueven el bienestar durante toda la vida.",
+            "No debemos hacer ejercicio.",
+            "La comida chatarra es saludable.",
+            "El sedentarismo es bueno."
           ],
           "answerIndex": 0,
           "explanation": "Accurate wellness translation.",
@@ -12962,10 +12962,10 @@
         {
           "prompt": "¿Cómo se llama en España el importe que entrega el inquilino como garantía al firmar el contrato de alquiler?",
           "options": [
-            "La propina (Buscar piso en alquiler en Espaa Idealista)",
-            "La factura de la luz (Buscar piso en alquiler en Espaa Idealista)",
-            "El billete de tren (Buscar piso en alquiler en Espaa Idealista)",
-            "La fianza legal (Buscar piso en alquiler en Espaa Idealista)"
+            "La propina",
+            "La factura de la luz",
+            "El billete de tren",
+            "La fianza legal"
           ],
           "answerIndex": 3,
           "explanation": "La fianza legal."
@@ -12977,10 +12977,10 @@
         {
           "prompt": "¿Qué significa que un piso en Madrid o Barcelona sea \"exterior\"?",
           "options": [
-            "Que no tiene techo (Buscar piso en alquiler en Espaa Idealista)",
-            "Que está en el campo (Buscar piso en alquiler en Espaa Idealista)",
-            "Que está cerrado (Buscar piso en alquiler en Espaa Idealista)",
-            "Que sus ventanas principales dan a la calle (Buscar piso en alquiler en Espaa Idealista)"
+            "Que no tiene techo",
+            "Que está en el campo",
+            "Que está cerrado",
+            "Que sus ventanas principales dan a la calle"
           ],
           "answerIndex": 3,
           "explanation": "Piso exterior (da a la calle)."
@@ -12992,10 +12992,10 @@
         {
           "prompt": "¿Cuál es la ley española que regula los contratos de alquiler de vivienda habitual?",
           "options": [
-            "El Código de Circulación (Buscar piso en alquiler en Espaa Idealista)",
-            "La Ley de Minas (Buscar piso en alquiler en Espaa Idealista)",
-            "La Ley de Pesca (Buscar piso en alquiler en Espaa Idealista)",
-            "La LAU (Buscar piso en alquiler en Espaa Idealista)"
+            "El Código de Circulación",
+            "La Ley de Minas",
+            "La Ley de Pesca",
+            "La LAU"
           ],
           "answerIndex": 3,
           "explanation": "La LAU.",
@@ -13004,10 +13004,10 @@
         {
           "prompt": "Traduce: \"The tenant must pay one month of legal security deposit and monthly community fees.\"",
           "options": [
-            "El piso no tiene agua ni luz. (Buscar piso en alquiler en Espaa Idealista)",
-            "El contrato de alquiler dura un día. (Buscar piso en alquiler en Espaa Idealista)",
-            "El inquilino debe abonar un mes de fianza legal y los gastos mensuales de comunidad. (Buscar piso en alquiler en Espaa Idealista)",
-            "No hay que pagar nada. (Buscar piso en alquiler en Espaa Idealista)"
+            "El piso no tiene agua ni luz.",
+            "El contrato de alquiler dura un día.",
+            "El inquilino debe abonar un mes de fianza legal y los gastos mensuales de comunidad.",
+            "No hay que pagar nada."
           ],
           "answerIndex": 2,
           "explanation": "Accurate lease agreement translation.",
@@ -13044,10 +13044,10 @@
         {
           "prompt": "¿Qué documento oficial acredita que una vivienda cumple los requisitos mínimos legales de habitabilidad en España?",
           "options": [
-            "La cédula de habitabilidad (Las estancias de la casa)",
-            "El menú del día (Las estancias de la casa)",
-            "El carnet de socio (Las estancias de la casa)",
-            "La tarjeta de embarque (Las estancias de la casa)"
+            "La cédula de habitabilidad",
+            "El menú del día",
+            "El carnet de socio",
+            "La tarjeta de embarque"
           ],
           "answerIndex": 0,
           "explanation": "La cédula de habitabilidad."
@@ -13059,10 +13059,10 @@
         {
           "prompt": "¿Qué letra representa la máxima eficiencia energética y menor consumo en la escala de certificación de viviendas?",
           "options": [
-            "La letra A (Las estancias de la casa)",
-            "La letra G (Las estancias de la casa)",
-            "La letra Z (Las estancias de la casa)",
-            "La letra X (Las estancias de la casa)"
+            "La letra A",
+            "La letra G",
+            "La letra Z",
+            "La letra X"
           ],
           "answerIndex": 0,
           "explanation": "La letra A."
@@ -13074,10 +13074,10 @@
         {
           "prompt": "¿Qué tipo de ventanas con cámara de aire son el estándar en las reformas españolas para aislar del frío y del ruido urbano?",
           "options": [
-            "Ventanas de cristal simple fino (Las estancias de la casa)",
-            "Persianas rotas (Las estancias de la casa)",
-            "Ventanas de doble acristalamiento (Las estancias de la casa)",
-            "Puertas de tela (Las estancias de la casa)"
+            "Ventanas de cristal simple fino",
+            "Persianas rotas",
+            "Ventanas de doble acristalamiento",
+            "Puertas de tela"
           ],
           "answerIndex": 2,
           "explanation": "Ventanas de doble acristalamiento.",
@@ -13086,10 +13086,10 @@
         {
           "prompt": "Traduce: \"The apartment has a spacious living room, fitted wardrobes, and an open terrace overlooking the park.\"",
           "options": [
-            "La casa es muy pequeña y oscura. (Las estancias de la casa)",
-            "El piso tiene un salón espacioso, armarios empotrados y una terraza abierta con vistas al parque. (Las estancias de la casa)",
-            "El edificio no tiene ascensor. (Las estancias de la casa)",
-            "No hay ventanas en el dormitorio. (Las estancias de la casa)"
+            "La casa es muy pequeña y oscura.",
+            "El piso tiene un salón espacioso, armarios empotrados y una terraza abierta con vistas al parque.",
+            "El edificio no tiene ascensor.",
+            "No hay ventanas en el dormitorio."
           ],
           "answerIndex": 1,
           "explanation": "Accurate apartment description translation.",
@@ -13126,10 +13126,10 @@
         {
           "prompt": "¿Cómo se llama en España el pago extraordinario que deben hacer los propietarios de un edificio para una obra o reparación imprevista?",
           "options": [
-            "Una multa de tráfico (La comunidad de propietarios en Espaa LPH)",
-            "Una derrama (La comunidad de propietarios en Espaa LPH)",
-            "Un billete de lotería (La comunidad de propietarios en Espaa LPH)",
-            "Un seguro de viaje (La comunidad de propietarios en Espaa LPH)"
+            "Una multa de tráfico",
+            "Una derrama",
+            "Un billete de lotería",
+            "Un seguro de viaje"
           ],
           "answerIndex": 1,
           "explanation": "Una derrama."
@@ -13141,10 +13141,10 @@
         {
           "prompt": "¿Quién es el profesional encargado de gestionar la contabilidad y el mantenimiento de una comunidad de vecinos?",
           "options": [
-            "El administrador de fincas (La comunidad de propietarios en Espaa LPH)",
-            "El taxista (La comunidad de propietarios en Espaa LPH)",
-            "El conserje solamente (La comunidad de propietarios en Espaa LPH)",
-            "El cartero (La comunidad de propietarios en Espaa LPH)"
+            "El administrador de fincas",
+            "El taxista",
+            "El conserje solamente",
+            "El cartero"
           ],
           "answerIndex": 0,
           "explanation": "El administrador de fincas."
@@ -13156,10 +13156,10 @@
         {
           "prompt": "¿Qué ley española regula los derechos y obligaciones en los edificios en régimen de propiedad compartida?",
           "options": [
-            "La Ley de Minas (La comunidad de propietarios en Espaa LPH)",
-            "La Ley de Propiedad Horizontal (La comunidad de propietarios en Espaa LPH)",
-            "El Estatuto de los Trabajadores (La comunidad de propietarios en Espaa LPH)",
-            "El Código Penal (La comunidad de propietarios en Espaa LPH)"
+            "La Ley de Minas",
+            "La Ley de Propiedad Horizontal",
+            "El Estatuto de los Trabajadores",
+            "El Código Penal"
           ],
           "answerIndex": 1,
           "explanation": "La Ley de Propiedad Horizontal (LPH).",
@@ -13168,10 +13168,10 @@
         {
           "prompt": "Traduce: \"The owners' association voted in favor of renovating the building facade and modernizing the elevator.\"",
           "options": [
-            "La comunidad de propietarios votó a favor de rehabilitar la fachada del edificio y modernizar el ascensor. (La comunidad de propietarios en Espaa LPH)",
-            "No se permite hacer obras en el inmueble. (La comunidad de propietarios en Espaa LPH)",
-            "El ascensor funciona perfectamente. (La comunidad de propietarios en Espaa LPH)",
-            "Los vecinos decidieron demoler el edificio. (La comunidad de propietarios en Espaa LPH)"
+            "La comunidad de propietarios votó a favor de rehabilitar la fachada del edificio y modernizar el ascensor.",
+            "No se permite hacer obras en el inmueble.",
+            "El ascensor funciona perfectamente.",
+            "Los vecinos decidieron demoler el edificio."
           ],
           "answerIndex": 0,
           "explanation": "Accurate community meeting translation.",
@@ -13208,10 +13208,10 @@
         {
           "prompt": "¿Qué festival de arquitectura floral tradicional en Andalucía está reconocido como Patrimonio Cultural Inmaterial por la UNESCO?",
           "options": [
-            "Las Fallas de Valencia (Arquitectura tradicional espaola)",
-            "La Fiesta de los Patios de Córdoba (Arquitectura tradicional espaola)",
-            "Los Sanfermines (Arquitectura tradicional espaola)",
-            "La Tomatina de Buñol (Arquitectura tradicional espaola)"
+            "Las Fallas de Valencia",
+            "La Fiesta de los Patios de Córdoba",
+            "Los Sanfermines",
+            "La Tomatina de Buñol"
           ],
           "answerIndex": 1,
           "explanation": "La Fiesta de los Patios de Córdoba."
@@ -13223,10 +13223,10 @@
         {
           "prompt": "¿Cómo se llaman las construcciones tradicionales de piedra y madera sobre pilares de Asturias y Galicia para guardar las cosechas?",
           "options": [
-            "Los hórreos (Arquitectura tradicional espaola)",
-            "Las masías (Arquitectura tradicional espaola)",
-            "Los molinos de viento (Arquitectura tradicional espaola)",
-            "Los rascacielos (Arquitectura tradicional espaola)"
+            "Los hórreos",
+            "Las masías",
+            "Los molinos de viento",
+            "Los rascacielos"
           ],
           "answerIndex": 0,
           "explanation": "Los hórreos."
@@ -13238,10 +13238,10 @@
         {
           "prompt": "¿Cuál es el beneficio bioclimático del patio andaluz con paredes encaladas y fuente de agua en los calurosos veranos del sur?",
           "options": [
-            "Enfriamiento evaporativo natural y reducción de la temperatura interior (Arquitectura tradicional espaola)",
-            "Bloqueo del paso del aire (Arquitectura tradicional espaola)",
-            "Atracción de aire caliente (Arquitectura tradicional espaola)",
-            "Aumento del consumo de electricidad (Arquitectura tradicional espaola)"
+            "Enfriamiento evaporativo natural y reducción de la temperatura interior",
+            "Bloqueo del paso del aire",
+            "Atracción de aire caliente",
+            "Aumento del consumo de electricidad"
           ],
           "answerIndex": 0,
           "explanation": "Enfriamiento evaporativo natural.",
@@ -13250,10 +13250,10 @@
         {
           "prompt": "Traduce: \"Whitewashed stone walls and central fountain courtyards have provided sustainable bioclimatic cooling for centuries.\"",
           "options": [
-            "No se deben plantar flores en los patios. (Arquitectura tradicional espaola)",
-            "El agua no refresca el ambiente. (Arquitectura tradicional espaola)",
-            "Las casas de piedra son muy calurosas. (Arquitectura tradicional espaola)",
-            "Las paredes de piedra encaladas y los patios con fuentes centrales han proporcionado refrigeración bioclimática sostenible durante siglos. (Arquitectura tradicional espaola)"
+            "No se deben plantar flores en los patios.",
+            "El agua no refresca el ambiente.",
+            "Las casas de piedra son muy calurosas.",
+            "Las paredes de piedra encaladas y los patios con fuentes centrales han proporcionado refrigeración bioclimática sostenible durante siglos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate bioclimatic architecture translation.",
@@ -13290,10 +13290,10 @@
         {
           "prompt": "¿Qué tecnología de climatización renovable y eficiente utiliza la energía del aire exterior para calefacción y refrigeración?",
           "options": [
-            "La aerotermia (Hogares inteligentes en Espaa)",
-            "Una estufa de leña (Hogares inteligentes en Espaa)",
-            "Un radiador eléctrico antiguo (Hogares inteligentes en Espaa)",
-            "Un brasero de carbón (Hogares inteligentes en Espaa)"
+            "La aerotermia",
+            "Una estufa de leña",
+            "Un radiador eléctrico antiguo",
+            "Un brasero de carbón"
           ],
           "answerIndex": 0,
           "explanation": "La aerotermia."
@@ -13305,10 +13305,10 @@
         {
           "prompt": "¿Cómo se llama el sistema que permite verter la energía solar sobrante a la red a cambio de un descuento en el recibo de la luz?",
           "options": [
-            "Impuesto al sol (Hogares inteligentes en Espaa)",
-            "Peaje de acceso (Hogares inteligentes en Espaa)",
-            "Corte de suministro (Hogares inteligentes en Espaa)",
-            "Compensación de excedentes (Hogares inteligentes en Espaa)"
+            "Impuesto al sol",
+            "Peaje de acceso",
+            "Corte de suministro",
+            "Compensación de excedentes"
           ],
           "answerIndex": 3,
           "explanation": "Compensación de excedentes."
@@ -13320,10 +13320,10 @@
         {
           "prompt": "¿Cómo se denomina al conjunto de sistemas automatizados que gestionan la energía, la seguridad y el confort de una vivienda inteligente?",
           "options": [
-            "La geología (Hogares inteligentes en Espaa)",
-            "La botánica (Hogares inteligentes en Espaa)",
-            "La gastronomía (Hogares inteligentes en Espaa)",
-            "La domótica (Hogares inteligentes en Espaa)"
+            "La geología",
+            "La botánica",
+            "La gastronomía",
+            "La domótica"
           ],
           "answerIndex": 3,
           "explanation": "La domótica.",
@@ -13332,10 +13332,10 @@
         {
           "prompt": "Traduce: \"Rooftop photovoltaic solar panels and automated smart climate control significantly reduce household carbon emissions.\"",
           "options": [
-            "Las casas no necesitan electricidad. (Hogares inteligentes en Espaa)",
-            "Las placas solares aumentan la contaminación. (Hogares inteligentes en Espaa)",
-            "Los paneles solares fotovoltaicos en el tejado y el control climático inteligente reducen notablemente las emisiones de carbono del hogar. (Hogares inteligentes en Espaa)",
-            "La domótica no ahorra energía. (Hogares inteligentes en Espaa)"
+            "Las casas no necesitan electricidad.",
+            "Las placas solares aumentan la contaminación.",
+            "Los paneles solares fotovoltaicos en el tejado y el control climático inteligente reducen notablemente las emisiones de carbono del hogar.",
+            "La domótica no ahorra energía."
           ],
           "answerIndex": 2,
           "explanation": "Accurate smart home statement translation.",
@@ -13372,10 +13372,10 @@
         {
           "prompt": "¿Cuál es el contrato laboral estándar y prioritario en España que garantiza estabilidad indefinida?",
           "options": [
-            "Un contrato verbal informal (El mercado laboral en Espaa InfoJobs)",
-            "Un contrato de un día (El mercado laboral en Espaa InfoJobs)",
-            "Un billete de viaje (El mercado laboral en Espaa InfoJobs)",
-            "El contrato indefinido (El mercado laboral en Espaa InfoJobs)"
+            "Un contrato verbal informal",
+            "Un contrato de un día",
+            "Un billete de viaje",
+            "El contrato indefinido"
           ],
           "answerIndex": 3,
           "explanation": "El contrato indefinido."
@@ -13387,10 +13387,10 @@
         {
           "prompt": "¿Cómo se llaman las dos pagas extraordinarias adicionales que suelen cobrar los trabajadores españoles en verano y Navidad?",
           "options": [
-            "Las multas (El mercado laboral en Espaa InfoJobs)",
-            "Las propinas voluntarias (El mercado laboral en Espaa InfoJobs)",
-            "Las dietas (El mercado laboral en Espaa InfoJobs)",
-            "Las pagas extraordinarias (El mercado laboral en Espaa InfoJobs)"
+            "Las multas",
+            "Las propinas voluntarias",
+            "Las dietas",
+            "Las pagas extraordinarias"
           ],
           "answerIndex": 3,
           "explanation": "Pagas extraordinarias."
@@ -13402,10 +13402,10 @@
         {
           "prompt": "¿Cuál es la ley marco fundamental que regula los derechos y deberes de trabajadores y empresarios en España?",
           "options": [
-            "El Código de Tráfico (El mercado laboral en Espaa InfoJobs)",
-            "La Ley de Costas (El mercado laboral en Espaa InfoJobs)",
-            "El Estatuto de los Trabajadores (El mercado laboral en Espaa InfoJobs)",
-            "La Ley del Deporte (El mercado laboral en Espaa InfoJobs)"
+            "El Código de Tráfico",
+            "La Ley de Costas",
+            "El Estatuto de los Trabajadores",
+            "La Ley del Deporte"
           ],
           "answerIndex": 2,
           "explanation": "El Estatuto de los Trabajadores.",
@@ -13414,10 +13414,10 @@
         {
           "prompt": "Traduce: \"The employee receives a gross annual salary distributed in fourteen monthly payments with social security coverage.\"",
           "options": [
-            "El trabajador no cobra ningún salario. (El mercado laboral en Espaa InfoJobs)",
-            "El empleado percibe un salario bruto anual distribuido en catorce pagas con cobertura de la Seguridad Social. (El mercado laboral en Espaa InfoJobs)",
-            "No hay Seguridad Social en la empresa. (El mercado laboral en Espaa InfoJobs)",
-            "El contrato dura solo un mes. (El mercado laboral en Espaa InfoJobs)"
+            "El trabajador no cobra ningún salario.",
+            "El empleado percibe un salario bruto anual distribuido en catorce pagas con cobertura de la Seguridad Social.",
+            "No hay Seguridad Social en la empresa.",
+            "El contrato dura solo un mes."
           ],
           "answerIndex": 1,
           "explanation": "Accurate employment contract translation.",
@@ -13455,9 +13455,9 @@
           "prompt": "¿Cómo se llama el horario laboral estival en España que permite salir a las 15:00 sin pausa para comer?",
           "options": [
             "La jornada intensiva (o continua)",
-            "El trabajo nocturno (Cultura laboral espaola)",
-            "El turno de noche (Cultura laboral espaola)",
-            "La jornada partida (Cultura laboral espaola)"
+            "El trabajo nocturno",
+            "El turno de noche",
+            "La jornada partida"
           ],
           "answerIndex": 0,
           "explanation": "Jornada intensiva de verano."
@@ -13469,10 +13469,10 @@
         {
           "prompt": "¿Qué derecho legal protege a los trabajadores en España de no atender llamadas ni correos de trabajo en su tiempo libre?",
           "options": [
-            "El derecho a la desconexión digital (Cultura laboral espaola)",
-            "El derecho de admisión (Cultura laboral espaola)",
-            "El secreto profesional (Cultura laboral espaola)",
-            "La huelga de brazos caídos (Cultura laboral espaola)"
+            "El derecho a la desconexión digital",
+            "El derecho de admisión",
+            "El secreto profesional",
+            "La huelga de brazos caídos"
           ],
           "answerIndex": 0,
           "explanation": "Desconexión digital."
@@ -13484,10 +13484,10 @@
         {
           "prompt": "¿Qué refrigerio clásico suele acompañar al café de media mañana de los trabajadores en los bares españoles?",
           "options": [
-            "Una hamburguesa doble (Cultura laboral espaola)",
-            "Un pincho de tortilla de patatas o tostada con tomate y aceite (Cultura laboral espaola)",
-            "Paella completa (Cultura laboral espaola)",
-            "Sopa caliente de marisco (Cultura laboral espaola)"
+            "Una hamburguesa doble",
+            "Un pincho de tortilla de patatas o tostada con tomate y aceite",
+            "Paella completa",
+            "Sopa caliente de marisco"
           ],
           "answerIndex": 1,
           "explanation": "Pincho de tortilla o tostada.",
@@ -13496,10 +13496,10 @@
         {
           "prompt": "Traduce: \"Flexible hybrid working hours and summer intensive schedules significantly improve employee satisfaction and productivity.\"",
           "options": [
-            "El horario híbrido flexible y la jornada intensiva de verano mejoran notablemente la satisfacción y productividad de los empleados. (Cultura laboral espaola)",
-            "Los empleados deben trabajar los fines de semana. (Cultura laboral espaola)",
-            "No se permiten pausas para el café. (Cultura laboral espaola)",
-            "El teletrabajo está prohibido. (Cultura laboral espaola)"
+            "El horario híbrido flexible y la jornada intensiva de verano mejoran notablemente la satisfacción y productividad de los empleados.",
+            "Los empleados deben trabajar los fines de semana.",
+            "No se permiten pausas para el café.",
+            "El teletrabajo está prohibido."
           ],
           "answerIndex": 0,
           "explanation": "Accurate workplace culture translation.",
@@ -13536,10 +13536,10 @@
         {
           "prompt": "¿Cuántas semanas de permiso retribuido al 100% tienen derecho ambos progenitores por nacimiento en España?",
           "options": [
-            "2 semanas solo (Derechos laborales en Espaa)",
-            "16 semanas para cada uno (Derechos laborales en Espaa)",
-            "1 semana (Derechos laborales en Espaa)",
-            "Cero semanas (Derechos laborales en Espaa)"
+            "2 semanas solo",
+            "16 semanas para cada uno",
+            "1 semana",
+            "Cero semanas"
           ],
           "answerIndex": 1,
           "explanation": "16 semanas iguales e intransferibles."
@@ -13551,10 +13551,10 @@
         {
           "prompt": "¿Cómo se llama el documento de liquidación económica que recibe el trabajador al finalizar su relación laboral?",
           "options": [
-            "El finiquito (Derechos laborales en Espaa)",
-            "El carnet de conducir (Derechos laborales en Espaa)",
-            "El pasaporte (Derechos laborales en Espaa)",
-            "La factura de la luz (Derechos laborales en Espaa)"
+            "El finiquito",
+            "El carnet de conducir",
+            "El pasaporte",
+            "La factura de la luz"
           ],
           "answerIndex": 0,
           "explanation": "El finiquito."
@@ -13566,10 +13566,10 @@
         {
           "prompt": "¿Cuántos días naturales mínimos de vacaciones pagadas garantiza la legislación laboral española al año?",
           "options": [
-            "30 días naturales (Derechos laborales en Espaa)",
-            "10 días (Derechos laborales en Espaa)",
-            "Ningún día (Derechos laborales en Espaa)",
-            "5 días (Derechos laborales en Espaa)"
+            "30 días naturales",
+            "10 días",
+            "Ningún día",
+            "5 días"
           ],
           "answerIndex": 0,
           "explanation": "30 días naturales.",
@@ -13578,10 +13578,10 @@
         {
           "prompt": "Traduce: \"The worker is entitled to thirty calendar days of paid annual vacation and a comprehensive final settlement upon departure.\"",
           "options": [
-            "El finiquito no incluye vacaciones no disfrutadas. (Derechos laborales en Espaa)",
-            "Las vacaciones no son pagadas. (Derechos laborales en Espaa)",
-            "No hay permisos de maternidad. (Derechos laborales en Espaa)",
-            "El trabajador tiene derecho a treinta días naturales de vacaciones pagadas y una liquidación de finiquito completa al cesar. (Derechos laborales en Espaa)"
+            "El finiquito no incluye vacaciones no disfrutadas.",
+            "Las vacaciones no son pagadas.",
+            "No hay permisos de maternidad.",
+            "El trabajador tiene derecho a treinta días naturales de vacaciones pagadas y una liquidación de finiquito completa al cesar."
           ],
           "answerIndex": 3,
           "explanation": "Accurate labor rights translation.",
@@ -13618,10 +13618,10 @@
         {
           "prompt": "¿Qué visado especial permite a los profesionales extranjeros trabajar en remoto viviendo legalmente en España con incentivos fiscales?",
           "options": [
-            "El visado de tránsito aeroportuario (El ecosistema de startups y tecnologa en Espaa)",
-            "El visado para nómadas digitales (El ecosistema de startups y tecnologa en Espaa)",
-            "El carnet de estudiante (El ecosistema de startups y tecnologa en Espaa)",
-            "El visado de turista de 15 días (El ecosistema de startups y tecnologa en Espaa)"
+            "El visado de tránsito aeroportuario",
+            "El visado para nómadas digitales",
+            "El carnet de estudiante",
+            "El visado de turista de 15 días"
           ],
           "answerIndex": 1,
           "explanation": "El visado para nómadas digitales."
@@ -13633,10 +13633,10 @@
         {
           "prompt": "¿Cómo se llama el famoso distrito de innovación tecnológica de Barcelona ubicado en el barrio de Poblenou?",
           "options": [
-            "El Barrio Gótico (El ecosistema de startups y tecnologa en Espaa)",
-            "El distrito 22@ (El ecosistema de startups y tecnologa en Espaa)",
-            "Montjuïc (El ecosistema de startups y tecnologa en Espaa)",
-            "La Barceloneta (El ecosistema de startups y tecnologa en Espaa)"
+            "El Barrio Gótico",
+            "El distrito 22@",
+            "Montjuïc",
+            "La Barceloneta"
           ],
           "answerIndex": 1,
           "explanation": "El distrito 22@."
@@ -13648,10 +13648,10 @@
         {
           "prompt": "¿Cuál es el mayor congreso mundial de la industria móvil y conectividad celebrado anualmente en Barcelona?",
           "options": [
-            "El festival de cine de Cannes (El ecosistema de startups y tecnologa en Espaa)",
-            "La feria del libro (El ecosistema de startups y tecnologa en Espaa)",
-            "El salón del automóvil clásico (El ecosistema de startups y tecnologa en Espaa)",
-            "El Mobile World Congress (El ecosistema de startups y tecnologa en Espaa)"
+            "El festival de cine de Cannes",
+            "La feria del libro",
+            "El salón del automóvil clásico",
+            "El Mobile World Congress"
           ],
           "answerIndex": 3,
           "explanation": "Mobile World Congress (MWC).",
@@ -13660,10 +13660,10 @@
         {
           "prompt": "Traduce: \"Favorable tax incentives under the Startup Law and vibrant tech hubs attract top international software engineers and founders.\"",
           "options": [
-            "España prohíbe las empresas tecnológicas. (El ecosistema de startups y tecnologa en Espaa)",
-            "Los nómadas digitales pagan el doble de impuestos. (El ecosistema de startups y tecnologa en Espaa)",
-            "Incentivos fiscales favorables bajo la Ley de Startups y vibrantes centros tecnológicos atraen a los mejores ingenieros de software y fundadores internacionales. (El ecosistema de startups y tecnologa en Espaa)",
-            "No hay startups en Barcelona. (El ecosistema de startups y tecnologa en Espaa)"
+            "España prohíbe las empresas tecnológicas.",
+            "Los nómadas digitales pagan el doble de impuestos.",
+            "Incentivos fiscales favorables bajo la Ley de Startups y vibrantes centros tecnológicos atraen a los mejores ingenieros de software y fundadores internacionales.",
+            "No hay startups en Barcelona."
           ],
           "answerIndex": 2,
           "explanation": "Accurate startup ecosystem translation.",
@@ -13700,10 +13700,10 @@
         {
           "prompt": "¿Qué gigante multinacional textil gallego es el grupo de moda más grande del mundo, matriz de marcas como Zara?",
           "options": [
-            "Inditex (Liderazgo empresarial global de Espaa)",
-            "Seat (Liderazgo empresarial global de Espaa)",
-            "Renfe (Liderazgo empresarial global de Espaa)",
-            "Repsol (Liderazgo empresarial global de Espaa)"
+            "Inditex",
+            "Seat",
+            "Renfe",
+            "Repsol"
           ],
           "answerIndex": 0,
           "explanation": "Inditex."
@@ -13715,10 +13715,10 @@
         {
           "prompt": "¿Qué compañía energética española es uno de los mayores operadores y desarrolladores de energía eólica del planeta?",
           "options": [
-            "Correos (Liderazgo empresarial global de Espaa)",
-            "Aena (Liderazgo empresarial global de Espaa)",
-            "El Corte Inglés (Liderazgo empresarial global de Espaa)",
-            "Iberdrola (Liderazgo empresarial global de Espaa)"
+            "Correos",
+            "Aena",
+            "El Corte Inglés",
+            "Iberdrola"
           ],
           "answerIndex": 3,
           "explanation": "Iberdrola."
@@ -13730,10 +13730,10 @@
         {
           "prompt": "¿En qué comunidad autónoma española se encuentra la sede central mundial y centro logístico del grupo Inditex?",
           "options": [
-            "Navarra (Liderazgo empresarial global de Espaa)",
-            "Canarias (Liderazgo empresarial global de Espaa)",
-            "Galicia (Liderazgo empresarial global de Espaa)",
-            "Murcia (Liderazgo empresarial global de Espaa)"
+            "Navarra",
+            "Canarias",
+            "Galicia",
+            "Murcia"
           ],
           "answerIndex": 2,
           "explanation": "Galicia (Arteixo).",
@@ -13742,10 +13742,10 @@
         {
           "prompt": "Traduce: \"Global logistics agility and pioneering renewable energy investments drive the international success of leading Spanish corporations.\"",
           "options": [
-            "Las empresas españolas no operan en el extranjero. (Liderazgo empresarial global de Espaa)",
-            "La agilidad logística global y las inversiones pioneras en energías renovables impulsan el éxito internacional de las principales corporaciones españolas. (Liderazgo empresarial global de Espaa)",
-            "Iberdrola genera energía únicamente con carbón. (Liderazgo empresarial global de Espaa)",
-            "Zara solo vende ropa en Galicia. (Liderazgo empresarial global de Espaa)"
+            "Las empresas españolas no operan en el extranjero.",
+            "La agilidad logística global y las inversiones pioneras en energías renovables impulsan el éxito internacional de las principales corporaciones españolas.",
+            "Iberdrola genera energía únicamente con carbón.",
+            "Zara solo vende ropa en Galicia."
           ],
           "answerIndex": 1,
           "explanation": "Accurate corporate business translation.",
@@ -13782,10 +13782,10 @@
         {
           "prompt": "Which critically endangered feline species has been successfully recovered in Spanish conservation reserves like Doñana and Sierra Morena?",
           "options": [
-            "El tigre de Bengala (Spains extraordinary biodiversity)",
-            "El guepardo (Spains extraordinary biodiversity)",
-            "El jaguar (Spains extraordinary biodiversity)",
-            "El lince ibérico (Spains extraordinary biodiversity)"
+            "El tigre de Bengala",
+            "El guepardo",
+            "El jaguar",
+            "El lince ibérico"
           ],
           "answerIndex": 3,
           "explanation": "El lince ibérico."
@@ -13797,10 +13797,10 @@
         {
           "prompt": "What famous Andalusian national park and UNESCO World Heritage site is celebrated as Europe's vital wetland for migratory birds?",
           "options": [
-            "Central Park (Spains extraordinary biodiversity)",
-            "Retiro (Spains extraordinary biodiversity)",
-            "Hyde Park (Spains extraordinary biodiversity)",
-            "Parque Nacional de Doñana (Spains extraordinary biodiversity)"
+            "Central Park",
+            "Retiro",
+            "Hyde Park",
+            "Parque Nacional de Doñana"
           ],
           "answerIndex": 3,
           "explanation": "Parque Nacional de Doñana."
@@ -13812,10 +13812,10 @@
         {
           "prompt": "Translate: \"Spain possesses the largest biodiversity in the European Union, protecting unique habitats from high Pyrenean glaciers to Atlantic and Mediterranean wetlands.\"",
           "options": [
-            "España no tiene parques naturales protegidos. (Spains extraordinary biodiversity)",
-            "España posee la mayor biodiversidad de la Unión Europea, protegiendo hábitats únicos desde los altos glaciares pirenaicos hasta los humedales atlánticos y mediterráneos. (Spains extraordinary biodiversity)",
-            "En Europa no hay aves migratorias. (Spains extraordinary biodiversity)",
-            "Los humedales han desaparecido. (Spains extraordinary biodiversity)"
+            "España no tiene parques naturales protegidos.",
+            "España posee la mayor biodiversidad de la Unión Europea, protegiendo hábitats únicos desde los altos glaciares pirenaicos hasta los humedales atlánticos y mediterráneos.",
+            "En Europa no hay aves migratorias.",
+            "Los humedales han desaparecido."
           ],
           "answerIndex": 1,
           "explanation": "Accurate biodiversity translation.",
@@ -13824,10 +13824,10 @@
         {
           "prompt": "What is Spain's highest peak located in the Canary Islands?",
           "options": [
-            "El Teide en Tenerife (Spains extraordinary biodiversity)",
-            "Mulhacén (Spains extraordinary biodiversity)",
-            "Aneto (Spains extraordinary biodiversity)",
-            "Mont Blanc (Spains extraordinary biodiversity)"
+            "El Teide en Tenerife",
+            "Mulhacén",
+            "Aneto",
+            "Mont Blanc"
           ],
           "answerIndex": 0,
           "explanation": "El Teide en Tenerife.",
@@ -13864,10 +13864,10 @@
         {
           "prompt": "What landmark energy milestone did Spain achieve in its national electricity grid generation?",
           "options": [
-            "Over 50% of total national electricity generated from clean renewable sources (Renewable energy transition)",
-            "Elimination of wind turbines (Renewable energy transition)",
-            "Total shutdown of all solar power (Renewable energy transition)",
-            "100% reliance on imported coal (Renewable energy transition)"
+            "Over 50% of total national electricity generated from clean renewable sources",
+            "Elimination of wind turbines",
+            "Total shutdown of all solar power",
+            "100% reliance on imported coal"
           ],
           "answerIndex": 0,
           "explanation": "Over 50% renewable energy generation."
@@ -13879,10 +13879,10 @@
         {
           "prompt": "What is the transnational green hydrogen energy corridor connecting the Iberian Peninsula to Central Europe called?",
           "options": [
-            "H2Med (Renewable energy transition)",
-            "Nord Stream (Renewable energy transition)",
-            "Trans-Siberian (Renewable energy transition)",
-            "Panama Canal (Renewable energy transition)"
+            "H2Med",
+            "Nord Stream",
+            "Trans-Siberian",
+            "Panama Canal"
           ],
           "answerIndex": 0,
           "explanation": "H2Med."
@@ -13894,10 +13894,10 @@
         {
           "prompt": "Translate: \"The integration of solar thermal storage and smart grids allows continuous electricity supply even during hours of zero sunshine.\"",
           "options": [
-            "La integración de almacenamiento termosolar y redes inteligentes permite el suministro eléctrico continuo incluso durante horas de nula radiación solar. (Renewable energy transition)",
-            "Las redes eléctricas son obsoletas. (Renewable energy transition)",
-            "No hay almacenamiento de energía. (Renewable energy transition)",
-            "La energía solar no funciona por la noche. (Renewable energy transition)"
+            "La integración de almacenamiento termosolar y redes inteligentes permite el suministro eléctrico continuo incluso durante horas de nula radiación solar.",
+            "Las redes eléctricas son obsoletas.",
+            "No hay almacenamiento de energía.",
+            "La energía solar no funciona por la noche."
           ],
           "answerIndex": 0,
           "explanation": "Accurate energy transition translation.",
@@ -13906,10 +13906,10 @@
         {
           "prompt": "Which Spanish entity manages the operation and synchronization of the national electrical transmission grid?",
           "options": [
-            "Renfe (Renewable energy transition)",
-            "Correos (Renewable energy transition)",
-            "Aena (Renewable energy transition)",
-            "Red Eléctrica de España (Renewable energy transition)"
+            "Renfe",
+            "Correos",
+            "Aena",
+            "Red Eléctrica de España"
           ],
           "answerIndex": 3,
           "explanation": "Red Eléctrica de España.",
@@ -13946,10 +13946,10 @@
         {
           "prompt": "What ancient institution meets every Thursday in Valencia to resolve water disputes and is recognized as UNESCO Intangible Cultural Heritage?",
           "options": [
-            "El Tribunal Supremo (Water resource management)",
-            "El Tribunal de las Aguas de Valencia (Water resource management)",
-            "El Senado (Water resource management)",
-            "La Bolsa de Madrid (Water resource management)"
+            "El Tribunal Supremo",
+            "El Tribunal de las Aguas de Valencia",
+            "El Senado",
+            "La Bolsa de Madrid"
           ],
           "answerIndex": 1,
           "explanation": "El Tribunal de las Aguas de Valencia."
@@ -13961,10 +13961,10 @@
         {
           "prompt": "What ancestral Arabic irrigation canal system continues to supply agricultural terraces in Andalusia?",
           "options": [
-            "Las acequias (Water resource management)",
-            "Canales de vapor (Water resource management)",
-            "Los acueductos romanos exclusivamente (Water resource management)",
-            "Tuberías de plástico (Water resource management)"
+            "Las acequias",
+            "Canales de vapor",
+            "Los acueductos romanos exclusivamente",
+            "Tuberías de plástico"
           ],
           "answerIndex": 0,
           "explanation": "Las acequias."
@@ -13976,10 +13976,10 @@
         {
           "prompt": "Translate: \"Advanced seawater desalination and precision drip irrigation are essential technologies to combat Mediterranean water stress.\"",
           "options": [
-            "El riego tradicional no gasta agua. (Water resource management)",
-            "En el Mediterráneo llueve todo el año sin parar. (Water resource management)",
-            "El agua de mar no se puede desalinizar. (Water resource management)",
-            "La desalinización marina avanzada y el riego por goteo de precisión son tecnologías esenciales para combatir el estrés hídrico mediterráneo. (Water resource management)"
+            "El riego tradicional no gasta agua.",
+            "En el Mediterráneo llueve todo el año sin parar.",
+            "El agua de mar no se puede desalinizar.",
+            "La desalinización marina avanzada y el riego por goteo de precisión son tecnologías esenciales para combatir el estrés hídrico mediterráneo."
           ],
           "answerIndex": 3,
           "explanation": "Accurate water technology translation.",
@@ -13988,10 +13988,10 @@
         {
           "prompt": "In which Spanish city is one of Europe's largest seawater desalination plants located to supply agricultural and urban water?",
           "options": [
-            "Salamanca (Water resource management)",
-            "Toledo (Water resource management)",
-            "Torrevieja (Water resource management)",
-            "Madrid (Water resource management)"
+            "Salamanca",
+            "Toledo",
+            "Torrevieja",
+            "Madrid"
           ],
           "answerIndex": 2,
           "explanation": "Torrevieja (Alicante).",
@@ -14028,10 +14028,10 @@
         {
           "prompt": "What is the unique traditional agroforestry landscape of holm and cork oaks in Western Spain called?",
           "options": [
-            "La pampa (The Iberian Dehesa agroforestry ecosystem)",
-            "La dehesa (The Iberian Dehesa agroforestry ecosystem)",
-            "La taiga (The Iberian Dehesa agroforestry ecosystem)",
-            "La tundra (The Iberian Dehesa agroforestry ecosystem)"
+            "La pampa",
+            "La dehesa",
+            "La taiga",
+            "La tundra"
           ],
           "answerIndex": 1,
           "explanation": "La dehesa."
@@ -14043,10 +14043,10 @@
         {
           "prompt": "What is the autumn/winter free-range acorn feeding period for Iberian pigs called?",
           "options": [
-            "La siesta (The Iberian Dehesa agroforestry ecosystem)",
-            "La montanera (The Iberian Dehesa agroforestry ecosystem)",
-            "La cosecha de trigo (The Iberian Dehesa agroforestry ecosystem)",
-            "La vendimia (The Iberian Dehesa agroforestry ecosystem)"
+            "La siesta",
+            "La montanera",
+            "La cosecha de trigo",
+            "La vendimia"
           ],
           "answerIndex": 1,
           "explanation": "La montanera."
@@ -14058,10 +14058,10 @@
         {
           "prompt": "Translate: \"The manual harvesting of cork every nine years preserves the living oak forest and provides natural biodegradable bottle stoppers for the global wine industry.\"",
           "options": [
-            "La dehesa destruye el medio ambiente. (The Iberian Dehesa agroforestry ecosystem)",
-            "El corcho es un producto plástico artificial. (The Iberian Dehesa agroforestry ecosystem)",
-            "La saca manual del corcho cada nueve años preserva el alcornocal vivo y proporciona tapones biodegradables naturales para la industria vitivinícola global. (The Iberian Dehesa agroforestry ecosystem)",
-            "Los alcornoques se talan por completo. (The Iberian Dehesa agroforestry ecosystem)"
+            "La dehesa destruye el medio ambiente.",
+            "El corcho es un producto plástico artificial.",
+            "La saca manual del corcho cada nueve años preserva el alcornocal vivo y proporciona tapones biodegradables naturales para la industria vitivinícola global.",
+            "Los alcornoques se talan por completo."
           ],
           "answerIndex": 2,
           "explanation": "Accurate agroforestry translation.",
@@ -14070,10 +14070,10 @@
         {
           "prompt": "What type of oaks provide the sweet acorns (bellotas) that give Jamón Ibérico de Bellota its oleic acid rich flavor?",
           "options": [
-            "Eucaliptos (The Iberian Dehesa agroforestry ecosystem)",
-            "Encinas y alcornoques (The Iberian Dehesa agroforestry ecosystem)",
-            "Pinos y abetos (The Iberian Dehesa agroforestry ecosystem)",
-            "Palmeras (The Iberian Dehesa agroforestry ecosystem)"
+            "Eucaliptos",
+            "Encinas y alcornoques",
+            "Pinos y abetos",
+            "Palmeras"
           ],
           "answerIndex": 1,
           "explanation": "Encinas y alcornoques.",
@@ -14192,10 +14192,10 @@
         {
           "prompt": "Which Spanish medical institution has made Spain the world leader in organ donation and transplantation for over 30 years?",
           "options": [
-            "Cruz Roja solamente (Spains National Health System)",
-            "El Instituto Cervantes (Spains National Health System)",
-            "La Guardia Civil (Spains National Health System)",
-            "La Organización Nacional de Trasplantes (Spains National Health System)"
+            "Cruz Roja solamente",
+            "El Instituto Cervantes",
+            "La Guardia Civil",
+            "La Organización Nacional de Trasplantes"
           ],
           "answerIndex": 3,
           "explanation": "La Organización Nacional de Trasplantes (ONT)."
@@ -14207,10 +14207,10 @@
         {
           "prompt": "What is the cornerstone of Spain's public healthcare system serving as the first line of preventative medicine?",
           "options": [
-            "Los hospitales privados exclusivamente (Spains National Health System)",
-            "Las farmacias comerciales (Spains National Health System)",
-            "La Atención Primaria en Centros de Salud (Spains National Health System)",
-            "Los seguros privados (Spains National Health System)"
+            "Los hospitales privados exclusivamente",
+            "Las farmacias comerciales",
+            "La Atención Primaria en Centros de Salud",
+            "Los seguros privados"
           ],
           "answerIndex": 2,
           "explanation": "La Atención Primaria."
@@ -14222,10 +14222,10 @@
         {
           "prompt": "Translate: \"The Spanish transplant model combines proactive hospital donor coordinators with rapid aeronautical transport logistics to save thousands of lives.\"",
           "options": [
-            "El modelo español de trasplantes combina coordinadores hospitalarios proactivos con logística de transporte aeronáutico rápido para salvar miles de vidas. (Spains National Health System)",
-            "España no permite la donación de órganos. (Spains National Health System)",
-            "El sistema sanitario español es completamente privado. (Spains National Health System)",
-            "Los trasplantes no se realizan en hospitales públicos. (Spains National Health System)"
+            "El modelo español de trasplantes combina coordinadores hospitalarios proactivos con logística de transporte aeronáutico rápido para salvar miles de vidas.",
+            "España no permite la donación de órganos.",
+            "El sistema sanitario español es completamente privado.",
+            "Los trasplantes no se realizan en hospitales públicos."
           ],
           "answerIndex": 0,
           "explanation": "Accurate healthcare translation.",
@@ -14234,10 +14234,10 @@
         {
           "prompt": "Who was the pioneering Spanish physician who designed the globally renowned \"Spanish Model\" of organ transplantation?",
           "options": [
-            "Pablo Picasso (Spains National Health System)",
-            "Santiago Ramón y Cajal únicamente (Spains National Health System)",
-            "Severo Ochoa (Spains National Health System)",
-            "Dr. Rafael Matesanz (Spains National Health System)"
+            "Pablo Picasso",
+            "Santiago Ramón y Cajal únicamente",
+            "Severo Ochoa",
+            "Dr. Rafael Matesanz"
           ],
           "answerIndex": 3,
           "explanation": "Dr. Rafael Matesanz.",
@@ -14274,10 +14274,10 @@
         {
           "prompt": "Who is recognized as the father of modern neuroscience for discovering that neurons are individual communicating cells?",
           "options": [
-            "Santiago Ramón y Cajal (Spanish biomedical research)",
-            "Gregor Mendel (Spanish biomedical research)",
-            "Charles Darwin (Spanish biomedical research)",
-            "Louis Pasteur (Spanish biomedical research)"
+            "Santiago Ramón y Cajal",
+            "Gregor Mendel",
+            "Charles Darwin",
+            "Louis Pasteur"
           ],
           "answerIndex": 0,
           "explanation": "Santiago Ramón y Cajal."
@@ -14289,10 +14289,10 @@
         {
           "prompt": "Which premier Spanish cancer research institute in Madrid leads global discoveries in telomeres and molecular oncology?",
           "options": [
-            "CNIO (Spanish biomedical research)",
-            "El Prado (Spanish biomedical research)",
-            "La Caixa (Spanish biomedical research)",
-            "Aena (Spanish biomedical research)"
+            "CNIO",
+            "El Prado",
+            "La Caixa",
+            "Aena"
           ],
           "answerIndex": 0,
           "explanation": "CNIO."
@@ -14304,10 +14304,10 @@
         {
           "prompt": "Translate: \"Investigating telomerase enzyme mechanisms and cellular senescence offers revolutionary therapeutic targets against age-related degenerative diseases.\"",
           "options": [
-            "Las células no envejecen nunca. (Spanish biomedical research)",
-            "El ARN no tiene función biológica. (Spanish biomedical research)",
-            "La neurobiología fue refutada en el siglo veinte. (Spanish biomedical research)",
-            "Investigar los mecanismos de la enzima telomerasa y la senescencia celular ofrece dianas terapéuticas revolucionarias contra enfermedades degenerativas asociadas al envejecimiento. (Spanish biomedical research)"
+            "Las células no envejecen nunca.",
+            "El ARN no tiene función biológica.",
+            "La neurobiología fue refutada en el siglo veinte.",
+            "Investigar los mecanismos de la enzima telomerasa y la senescencia celular ofrece dianas terapéuticas revolucionarias contra enfermedades degenerativas asociadas al envejecimiento."
           ],
           "answerIndex": 3,
           "explanation": "Accurate biomedical translation.",
@@ -14316,10 +14316,10 @@
         {
           "prompt": "For which biological discovery was Spanish biochemist Severo Ochoa awarded the Nobel Prize in Physiology or Medicine in 1959?",
           "options": [
-            "Discovery of penicillin (Spanish biomedical research)",
-            "Invention of X-rays (Spanish biomedical research)",
-            "Enzymatic synthesis of RNA (Spanish biomedical research)",
-            "Discovery of blood types (Spanish biomedical research)"
+            "Discovery of penicillin",
+            "Invention of X-rays",
+            "Enzymatic synthesis of RNA",
+            "Discovery of blood types"
           ],
           "answerIndex": 2,
           "explanation": "Enzymatic synthesis of RNA.",
@@ -14602,10 +14602,10 @@
         {
           "prompt": "Which Spanish philosopher coined the famous axiom «Yo soy yo y mi circunstancia» in his 1914 work Meditaciones del Quijote?",
           "options": [
-            "Miguel de Unamuno (Spanish philosophical thought)",
-            "Seneca (Spanish philosophical thought)",
-            "Baltasar Gracián (Spanish philosophical thought)",
-            "José Ortega y Gasset (Spanish philosophical thought)"
+            "Miguel de Unamuno",
+            "Seneca",
+            "Baltasar Gracián",
+            "José Ortega y Gasset"
           ],
           "answerIndex": 3,
           "explanation": "José Ortega y Gasset."
@@ -14617,10 +14617,10 @@
         {
           "prompt": "What existential masterpiece was written by Miguel de Unamuno exploring human longing for spiritual immortality?",
           "options": [
-            "La rebelión de las masas (Spanish philosophical thought)",
-            "El Quijote (Spanish philosophical thought)",
-            "Del sentimiento trágico de la vida (Spanish philosophical thought)",
-            "Campos de Castilla (Spanish philosophical thought)"
+            "La rebelión de las masas",
+            "El Quijote",
+            "Del sentimiento trágico de la vida",
+            "Campos de Castilla"
           ],
           "answerIndex": 2,
           "explanation": "Del sentimiento trágico de la vida."
@@ -14632,10 +14632,10 @@
         {
           "prompt": "Translate: \"Ratiovitalism reconciles pure abstract reason with the concrete realities of human biological and historical existence.\"",
           "options": [
-            "Unamuno negó la existencia de la filosofía. (Spanish philosophical thought)",
-            "La Generación del 98 rechazó la literatura. (Spanish philosophical thought)",
-            "Ortega y Gasset fue un pintor renacentista. (Spanish philosophical thought)",
-            "El raciovitalismo concilia la razón abstracta pura con las realidades concretas de la existencia biológica e histórica humana. (Spanish philosophical thought)"
+            "Unamuno negó la existencia de la filosofía.",
+            "La Generación del 98 rechazó la literatura.",
+            "Ortega y Gasset fue un pintor renacentista.",
+            "El raciovitalismo concilia la razón abstracta pura con las realidades concretas de la existencia biológica e histórica humana."
           ],
           "answerIndex": 3,
           "explanation": "Accurate philosophical translation.",
@@ -14644,10 +14644,10 @@
         {
           "prompt": "What intellectual generation in Spain emerged after the 1898 crisis to interrogate Spanish national identity and cultural regeneration?",
           "options": [
-            "El Siglo de Oro (Spanish philosophical thought)",
-            "La Generación del 27 (Spanish philosophical thought)",
-            "La Generación del 98 (Spanish philosophical thought)",
-            "La Ilustración (Spanish philosophical thought)"
+            "El Siglo de Oro",
+            "La Generación del 27",
+            "La Generación del 98",
+            "La Ilustración"
           ],
           "answerIndex": 2,
           "explanation": "La Generación del 98.",
@@ -14684,10 +14684,10 @@
         {
           "prompt": "Which 17th-century Spanish Golden Age dramatist authored the metaphysical philosophical drama «La vida es sueño»?",
           "options": [
-            "Pedro Calderón de la Barca (Baroque philosophical depth)",
-            "Miguel de Cervantes (Baroque philosophical depth)",
-            "Lope de Vega (Baroque philosophical depth)",
-            "Tirso de Molina (Baroque philosophical depth)"
+            "Pedro Calderón de la Barca",
+            "Miguel de Cervantes",
+            "Lope de Vega",
+            "Tirso de Molina"
           ],
           "answerIndex": 0,
           "explanation": "Pedro Calderón de la Barca."
@@ -14699,10 +14699,10 @@
         {
           "prompt": "Which Baroque thinker wrote the world-renowned philosophical manual *Oráculo manual y arte de prudencia*, celebrated by Schopenhauer and Nietzsche?",
           "options": [
-            "Baltasar Gracián (Baroque philosophical depth)",
-            "Francisco de Quevedo (Baroque philosophical depth)",
-            "Luis de Góngora (Baroque philosophical depth)",
-            "San Juan de la Cruz (Baroque philosophical depth)"
+            "Baltasar Gracián",
+            "Francisco de Quevedo",
+            "Luis de Góngora",
+            "San Juan de la Cruz"
           ],
           "answerIndex": 0,
           "explanation": "Baltasar Gracián."
@@ -14714,10 +14714,10 @@
         {
           "prompt": "Translate: \"Segismundo's philosophical realization establishes that ethical virtue and doing good must be preserved even within an illusory dreamlike world.\"",
           "options": [
-            "La vida es sueño es un tratado de botánica. (Baroque philosophical depth)",
-            "Baltasar Gracián escribió únicamente novelas de caballería. (Baroque philosophical depth)",
-            "La revelación filosófica de Segismundo establece que la virtud ética y el obrar bien deben preservarse incluso en un mundo ilusorio y onírico. (Baroque philosophical depth)",
-            "El Barroco español carecía de contenido filosófico. (Baroque philosophical depth)"
+            "La vida es sueño es un tratado de botánica.",
+            "Baltasar Gracián escribió únicamente novelas de caballería.",
+            "La revelación filosófica de Segismundo establece que la virtud ética y el obrar bien deben preservarse incluso en un mundo ilusorio y onírico.",
+            "El Barroco español carecía de contenido filosófico."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Baroque literature translation.",
@@ -14726,10 +14726,10 @@
         {
           "prompt": "What key metaphysical theme characterizes Spanish Baroque literature, reflecting the realization that worldly pleasures are transient illusions?",
           "options": [
-            "El optimismo ciego (Baroque philosophical depth)",
-            "El desengaño (Baroque philosophical depth)",
-            "El positivismo (Baroque philosophical depth)",
-            "El naturalismo científico (Baroque philosophical depth)"
+            "El optimismo ciego",
+            "El desengaño",
+            "El positivismo",
+            "El naturalismo científico"
           ],
           "answerIndex": 1,
           "explanation": "El desengaño.",
@@ -14766,10 +14766,10 @@
         {
           "prompt": "Which 16th-century theologian at the University of Salamanca is recognized as the father of modern public international law and human rights?",
           "options": [
-            "Francisco de Vitoria (The School of Salamanca)",
-            "Tomás de Torquemada (The School of Salamanca)",
-            "Felipe II (The School of Salamanca)",
-            "Ignacio de Loyola (The School of Salamanca)"
+            "Francisco de Vitoria",
+            "Tomás de Torquemada",
+            "Felipe II",
+            "Ignacio de Loyola"
           ],
           "answerIndex": 0,
           "explanation": "Francisco de Vitoria."
@@ -14781,10 +14781,10 @@
         {
           "prompt": "In which famous Salamanca lectures did Francisco de Vitoria defend the natural legal rights and property of indigenous peoples in the Americas?",
           "options": [
-            "De Indis (The School of Salamanca)",
-            "El Príncipe (The School of Salamanca)",
-            "De Monarchia (The School of Salamanca)",
-            "Summa Theologiae (The School of Salamanca)"
+            "De Indis",
+            "El Príncipe",
+            "De Monarchia",
+            "Summa Theologiae"
           ],
           "answerIndex": 0,
           "explanation": "De Indis."
@@ -14796,10 +14796,10 @@
         {
           "prompt": "Translate: \"The School of Salamanca established that natural law guarantees universal rights to all human beings prior to and independent of state sovereignty.\"",
           "options": [
-            "La Escuela de Salamanca justificó la esclavitud absoluta. (The School of Salamanca)",
-            "La Escuela de Salamanca estableció que el derecho natural garantiza derechos universales a todos los seres humanos con anterioridad e independencia de la soberanía estatal. (The School of Salamanca)",
-            "El derecho internacional nació en el siglo XIX. (The School of Salamanca)",
-            "Francisco de Vitoria fue un militar romano. (The School of Salamanca)"
+            "La Escuela de Salamanca justificó la esclavitud absoluta.",
+            "La Escuela de Salamanca estableció que el derecho natural garantiza derechos universales a todos los seres humanos con anterioridad e independencia de la soberanía estatal.",
+            "El derecho internacional nació en el siglo XIX.",
+            "Francisco de Vitoria fue un militar romano."
           ],
           "answerIndex": 1,
           "explanation": "Accurate human rights law translation.",
@@ -14808,10 +14808,10 @@
         {
           "prompt": "What Spanish university was the epicenter of the 16th-century legal and philosophical renaissance known as the School of Salamanca?",
           "options": [
-            "Universidad de Salamanca (The School of Salamanca)",
-            "Universidad de Barcelona (The School of Salamanca)",
-            "Universidad de Sevilla (The School of Salamanca)",
-            "Universidad Complutense (The School of Salamanca)"
+            "Universidad de Salamanca",
+            "Universidad de Barcelona",
+            "Universidad de Sevilla",
+            "Universidad Complutense"
           ],
           "answerIndex": 0,
           "explanation": "Universidad de Salamanca.",
@@ -14848,10 +14848,10 @@
         {
           "prompt": "What philosophical epistemological method uniting philosophical rigor with poetic intuition was created by María Zambrano?",
           "options": [
-            "El materialismo mecanicista (Poetic philosophy of Maria Zambrano)",
-            "La razón poética (Poetic philosophy of Maria Zambrano)",
-            "El escepticismo radical (Poetic philosophy of Maria Zambrano)",
-            "El positivismo lógico (Poetic philosophy of Maria Zambrano)"
+            "El materialismo mecanicista",
+            "La razón poética",
+            "El escepticismo radical",
+            "El positivismo lógico"
           ],
           "answerIndex": 1,
           "explanation": "La razón poética."
@@ -14863,10 +14863,10 @@
         {
           "prompt": "Which seminal philosophical poetic work by María Zambrano explores the intuitive moments where human consciousness discovers truth?",
           "options": [
-            "Rayuela (Poetic philosophy of Maria Zambrano)",
-            "Claros del bosque (Poetic philosophy of Maria Zambrano)",
-            "Ficciones (Poetic philosophy of Maria Zambrano)",
-            "El laberinto de la soledad (Poetic philosophy of Maria Zambrano)"
+            "Rayuela",
+            "Claros del bosque",
+            "Ficciones",
+            "El laberinto de la soledad"
           ],
           "answerIndex": 1,
           "explanation": "Claros del bosque."
@@ -14878,10 +14878,10 @@
         {
           "prompt": "Translate: \"Poetic reason accesses primordial layers of memory, dreams, and suffering that exceed the grasp of abstract Cartesian rationality.\"",
           "options": [
-            "La razón poética accede a estratos primordiales de la memoria, el sueño y el sufrimiento que desbordan el alcance de la racionalidad cartesiana abstracta. (Poetic philosophy of Maria Zambrano)",
-            "La razón poética es una fórmula matemática. (Poetic philosophy of Maria Zambrano)",
-            "Zambrano nunca escribió sobre filosofía. (Poetic philosophy of Maria Zambrano)",
-            "María Zambrano rechazó toda forma de poesía. (Poetic philosophy of Maria Zambrano)"
+            "La razón poética accede a estratos primordiales de la memoria, el sueño y el sufrimiento que desbordan el alcance de la racionalidad cartesiana abstracta.",
+            "La razón poética es una fórmula matemática.",
+            "Zambrano nunca escribió sobre filosofía.",
+            "María Zambrano rechazó toda forma de poesía."
           ],
           "answerIndex": 0,
           "explanation": "Accurate poetic philosophy translation.",
@@ -14890,10 +14890,10 @@
         {
           "prompt": "Who was the first woman to be awarded the prestigious Miguel de Cervantes Prize for Literature in 1988?",
           "options": [
-            "Gabriela Mistral (Poetic philosophy of Maria Zambrano)",
-            "Gloria Fuertes (Poetic philosophy of Maria Zambrano)",
-            "Carmen Martín Gaite (Poetic philosophy of Maria Zambrano)",
-            "María Zambrano (Poetic philosophy of Maria Zambrano)"
+            "Gabriela Mistral",
+            "Gloria Fuertes",
+            "Carmen Martín Gaite",
+            "María Zambrano"
           ],
           "answerIndex": 3,
           "explanation": "María Zambrano.",
@@ -15012,10 +15012,10 @@
         {
           "prompt": "Which visionary Catalan architect designed the Sagrada Família, Casa Batlló, and Park Güell in Barcelona?",
           "options": [
-            "Santiago Calatrava (Catalan Modernisme  Organic Architecture)",
-            "Ricardo Bofill (Catalan Modernisme  Organic Architecture)",
-            "Rafael Moneo (Catalan Modernisme  Organic Architecture)",
-            "Antoni Gaudí (Catalan Modernisme  Organic Architecture)"
+            "Santiago Calatrava",
+            "Ricardo Bofill",
+            "Rafael Moneo",
+            "Antoni Gaudí"
           ],
           "answerIndex": 3,
           "explanation": "Antoni Gaudí."
@@ -15027,10 +15027,10 @@
         {
           "prompt": "What traditional Catalan mosaic technique using broken fragments of glazed ceramics was popularized by Gaudí and Josep Maria Jujol?",
           "options": [
-            "Fresco (Catalan Modernisme  Organic Architecture)",
-            "Grisalla (Catalan Modernisme  Organic Architecture)",
-            "Trencadís (Catalan Modernisme  Organic Architecture)",
-            "Tempera (Catalan Modernisme  Organic Architecture)"
+            "Fresco",
+            "Grisalla",
+            "Trencadís",
+            "Tempera"
           ],
           "answerIndex": 2,
           "explanation": "Trencadís."
@@ -15042,10 +15042,10 @@
         {
           "prompt": "Translate: \"Gaudí designed interior columns that branch like trunks and canopies in a sacred forest to distribute vault weight organically without external buttresses.\"",
           "options": [
-            "Gaudí utilizó únicamente líneas rectas y ángulos rectos. (Catalan Modernisme  Organic Architecture)",
-            "La Sagrada Família es un edificio de estilo gótico inglés. (Catalan Modernisme  Organic Architecture)",
-            "Gaudí diseñó columnas interiores que se ramifican como troncos y copas de un bosque sagrado para distribuir el peso de las bóvedas orgánicamente sin contrafuertes externos. (Catalan Modernisme  Organic Architecture)",
-            "El Parque Güell es un centro comercial cubierto. (Catalan Modernisme  Organic Architecture)"
+            "Gaudí utilizó únicamente líneas rectas y ángulos rectos.",
+            "La Sagrada Família es un edificio de estilo gótico inglés.",
+            "Gaudí diseñó columnas interiores que se ramifican como troncos y copas de un bosque sagrado para distribuir el peso de las bóvedas orgánicamente sin contrafuertes externos.",
+            "El Parque Güell es un centro comercial cubierto."
           ],
           "answerIndex": 2,
           "explanation": "Accurate architectural analysis translation.",
@@ -15054,10 +15054,10 @@
         {
           "prompt": "What catenary structural model did Gaudí use with hanging weighted strings and mirrors to calculate self-supporting structural arches?",
           "options": [
-            "Túnel de viento (Catalan Modernisme  Organic Architecture)",
-            "Maqueta funicular / arcos catenarios (Catalan Modernisme  Organic Architecture)",
-            "Impresora 3D (Catalan Modernisme  Organic Architecture)",
-            "Gráficos por ordenador (Catalan Modernisme  Organic Architecture)"
+            "Túnel de viento",
+            "Maqueta funicular / arcos catenarios",
+            "Impresora 3D",
+            "Gráficos por ordenador"
           ],
           "answerIndex": 1,
           "explanation": "Maqueta funicular / arcos catenarios.",
@@ -15094,10 +15094,10 @@
         {
           "prompt": "Which 17th-century Spanish Golden Age painter created the masterpiece «Las Meninas» displayed in Madrid's Museo del Prado?",
           "options": [
-            "Diego Velázquez (Spanish Painting Golden Age  Court Realism)",
-            "Bartolomé Esteban Murillo (Spanish Painting Golden Age  Court Realism)",
-            "Francisco de Goya (Spanish Painting Golden Age  Court Realism)",
-            "El Greco (Spanish Painting Golden Age  Court Realism)"
+            "Diego Velázquez",
+            "Bartolomé Esteban Murillo",
+            "Francisco de Goya",
+            "El Greco"
           ],
           "answerIndex": 0,
           "explanation": "Diego Velázquez."
@@ -15109,10 +15109,10 @@
         {
           "prompt": "What reflective object on the rear wall of *Las Meninas* reveals the presence of King Philip IV and Queen Mariana of Austria?",
           "options": [
-            "Un espejo (Spanish Painting Golden Age  Court Realism)",
-            "Una ventana (Spanish Painting Golden Age  Court Realism)",
-            "Un cuadro al óleo (Spanish Painting Golden Age  Court Realism)",
-            "Una puerta cerrada (Spanish Painting Golden Age  Court Realism)"
+            "Un espejo",
+            "Una ventana",
+            "Un cuadro al óleo",
+            "Una puerta cerrada"
           ],
           "answerIndex": 0,
           "explanation": "Un espejo (A mirror)."
@@ -15124,10 +15124,10 @@
         {
           "prompt": "Translate: \"Velázquez captured the palpable atmosphere and shimmering light between the figures, giving the impression of painting the very air within the royal chamber.\"",
           "options": [
-            "Las Meninas fue pintada por Salvador Dalí. (Spanish Painting Golden Age  Court Realism)",
-            "Velázquez capturó la atmósfera palpable y la luz trémula entre las figuras, dando la impresión de pintar el aire mismo dentro de la cámara real. (Spanish Painting Golden Age  Court Realism)",
-            "Velázquez rechazó trabajar para la corte real. (Spanish Painting Golden Age  Court Realism)",
-            "El Prado es un museo de arte moderno en París. (Spanish Painting Golden Age  Court Realism)"
+            "Las Meninas fue pintada por Salvador Dalí.",
+            "Velázquez capturó la atmósfera palpable y la luz trémula entre las figuras, dando la impresión de pintar el aire mismo dentro de la cámara real.",
+            "Velázquez rechazó trabajar para la corte real.",
+            "El Prado es un museo de arte moderno en París."
           ],
           "answerIndex": 1,
           "explanation": "Accurate art history translation.",
@@ -15136,10 +15136,10 @@
         {
           "prompt": "What famous historical painting by Velázquez depicts the chivalrous surrender of the Dutch city of Breda to Spanish General Spínola?",
           "options": [
-            "«La rendición de Breda» (Spanish Painting Golden Age  Court Realism)",
-            "«La fragua de Vulcano» (Spanish Painting Golden Age  Court Realism)",
-            "«Las hilanderas» (Spanish Painting Golden Age  Court Realism)",
-            "«Los borrachos» (Spanish Painting Golden Age  Court Realism)"
+            "«La rendición de Breda»",
+            "«La fragua de Vulcano»",
+            "«Las hilanderas»",
+            "«Los borrachos»"
           ],
           "answerIndex": 0,
           "explanation": "«La rendición de Breda».",
@@ -15176,10 +15176,10 @@
         {
           "prompt": "Which Spanish master painted the haunting Pinturas Negras and the anti-war masterpiece «El tres de mayo de 1808»?",
           "options": [
-            "Francisco de Goya (The Caprichos  Black Paintings)",
-            "Pablo Picasso (The Caprichos  Black Paintings)",
-            "Joan Miró (The Caprichos  Black Paintings)",
-            "Ignacio Zuloaga (The Caprichos  Black Paintings)"
+            "Francisco de Goya",
+            "Pablo Picasso",
+            "Joan Miró",
+            "Ignacio Zuloaga"
           ],
           "answerIndex": 0,
           "explanation": "Francisco de Goya."
@@ -15191,10 +15191,10 @@
         {
           "prompt": "What famous caption accompanies Plate 43 of Goya's Los Caprichos depicting a slumbering intellectual surrounded by flying owls and bats?",
           "options": [
-            "«El sueño de la razón produce monstruos» (The Caprichos  Black Paintings)",
-            "«Libertad, igualdad, fraternidad» (The Caprichos  Black Paintings)",
-            "«Viva la muerte» (The Caprichos  Black Paintings)",
-            "«El rey ha muerto» (The Caprichos  Black Paintings)"
+            "«El sueño de la razón produce monstruos»",
+            "«Libertad, igualdad, fraternidad»",
+            "«Viva la muerte»",
+            "«El rey ha muerto»"
           ],
           "answerIndex": 0,
           "explanation": "«El sueño de la razón produce monstruos»."
@@ -15206,10 +15206,10 @@
         {
           "prompt": "Translate: \"Goya's Black Paintings reveal the raw psychological terror, mythological fury, and dark existential isolation of the human condition.\"",
           "options": [
-            "Las Pinturas Negras de Goya revelan el terror psicológico crudo, el furor mitológico y el oscuro aislamiento existencial de la condición humana. (The Caprichos  Black Paintings)",
-            "El tres de mayo de 1808 celebra la victoria de Napoleón. (The Caprichos  Black Paintings)",
-            "Los Caprichos son recetas de repostería. (The Caprichos  Black Paintings)",
-            "Goya pintaba únicamente paisajes luminosos de flores. (The Caprichos  Black Paintings)"
+            "Las Pinturas Negras de Goya revelan el terror psicológico crudo, el furor mitológico y el oscuro aislamiento existencial de la condición humana.",
+            "El tres de mayo de 1808 celebra la victoria de Napoleón.",
+            "Los Caprichos son recetas de repostería.",
+            "Goya pintaba únicamente paisajes luminosos de flores."
           ],
           "answerIndex": 0,
           "explanation": "Accurate art analysis translation.",
@@ -15218,10 +15218,10 @@
         {
           "prompt": "What is the name of the Madrid country house on the Manzanares River where deaf Goya painted the Black Paintings on his living room walls?",
           "options": [
-            "La Granja (The Caprichos  Black Paintings)",
-            "El Pardo (The Caprichos  Black Paintings)",
-            "El Escorial (The Caprichos  Black Paintings)",
-            "La Quinta del Sordo (The Caprichos  Black Paintings)"
+            "La Granja",
+            "El Pardo",
+            "El Escorial",
+            "La Quinta del Sordo"
           ],
           "answerIndex": 3,
           "explanation": "La Quinta del Sordo.",
@@ -15258,10 +15258,10 @@
         {
           "prompt": "Which monumental 1937 anti-war monochrome mural was painted by Pablo Picasso after the aerial bombing of a Basque historic market town?",
           "options": [
-            "«El Guitarrero ciego» (The Cubist  Surrealist Vanguard)",
-            "«Guernica» (The Cubist  Surrealist Vanguard)",
-            "«La persistencia de la memoria» (The Cubist  Surrealist Vanguard)",
-            "«Las señoritas de Avignon» (The Cubist  Surrealist Vanguard)"
+            "«El Guitarrero ciego»",
+            "«Guernica»",
+            "«La persistencia de la memoria»",
+            "«Las señoritas de Avignon»"
           ],
           "answerIndex": 1,
           "explanation": "«Guernica»."
@@ -15273,10 +15273,10 @@
         {
           "prompt": "What surrealist creative technique did Salvador Dalí develop to cultivate systematic delirium and double visual illusions?",
           "options": [
-            "El collage dadaísta (The Cubist  Surrealist Vanguard)",
-            "El método paranoico-crítico (The Cubist  Surrealist Vanguard)",
-            "La aerografía comercial (The Cubist  Surrealist Vanguard)",
-            "El automatismo psíquico puro (The Cubist  Surrealist Vanguard)"
+            "El collage dadaísta",
+            "El método paranoico-crítico",
+            "La aerografía comercial",
+            "El automatismo psíquico puro"
           ],
           "answerIndex": 1,
           "explanation": "El método paranoico-crítico."
@@ -15288,10 +15288,10 @@
         {
           "prompt": "Translate: \"Guernica's monochrome black-and-white palette evokes the stark urgency of wartime newspaper photographs, stripping war of all romantic glamour.\"",
           "options": [
-            "La persistencia de la memoria muestra relojes de piedra dura. (The Cubist  Surrealist Vanguard)",
-            "Dalí pintó Guernica en 1980. (The Cubist  Surrealist Vanguard)",
-            "El cubismo buscaba imitar fielmente la fotografía clásica. (The Cubist  Surrealist Vanguard)",
-            "La paleta monocromática en blanco y negro de Guernica evoca la urgencia cruda de las fotografías de periódicos de guerra, despojando a la contienda de todo glamur romántico. (The Cubist  Surrealist Vanguard)"
+            "La persistencia de la memoria muestra relojes de piedra dura.",
+            "Dalí pintó Guernica en 1980.",
+            "El cubismo buscaba imitar fielmente la fotografía clásica.",
+            "La paleta monocromática en blanco y negro de Guernica evoca la urgencia cruda de las fotografías de periódicos de guerra, despojando a la contienda de todo glamur romántico."
           ],
           "answerIndex": 3,
           "explanation": "Accurate avant-garde art translation.",
@@ -15300,10 +15300,10 @@
         {
           "prompt": "In which Madrid national contemporary art museum is Picasso's monumental mural *Guernica* permanently housed today?",
           "options": [
-            "Museo de América (The Cubist  Surrealist Vanguard)",
-            "Museo Thyssen-Bornemisza (The Cubist  Surrealist Vanguard)",
-            "Museo Nacional Centro de Arte Reina Sofía (The Cubist  Surrealist Vanguard)",
-            "Museo del Prado (The Cubist  Surrealist Vanguard)"
+            "Museo de América",
+            "Museo Thyssen-Bornemisza",
+            "Museo Nacional Centro de Arte Reina Sofía",
+            "Museo del Prado"
           ],
           "answerIndex": 2,
           "explanation": "Museo Reina Sofía.",
@@ -15422,10 +15422,10 @@
         {
           "prompt": "Which Spanish poet and dramatist formulated the seminal philosophical treatise «Teoría y juego del duende» analyzing the dark spirit of flamenco?",
           "options": [
-            "Antonio Machado (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Rafael Alberti (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Gustavo Adolfo Bécquer (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Federico García Lorca (Flamenco Cante Jondo  The Metaphysics of Duende)"
+            "Antonio Machado",
+            "Rafael Alberti",
+            "Gustavo Adolfo Bécquer",
+            "Federico García Lorca"
           ],
           "answerIndex": 3,
           "explanation": "Federico García Lorca."
@@ -15437,10 +15437,10 @@
         {
           "prompt": "Which flamenco guitar virtuoso composed «Entre dos aguas» and introduced the Afro-Peruvian cajón into Spanish flamenco rhythm?",
           "options": [
-            "Andrés Segovia (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Paco de Lucía (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Manuel de Falla (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Joaquín Rodrigo (Flamenco Cante Jondo  The Metaphysics of Duende)"
+            "Andrés Segovia",
+            "Paco de Lucía",
+            "Manuel de Falla",
+            "Joaquín Rodrigo"
           ],
           "answerIndex": 1,
           "explanation": "Paco de Lucía."
@@ -15452,10 +15452,10 @@
         {
           "prompt": "Translate: \"The duende is not an intellectual technique but an authentic interior struggle where the performer confronts mortality to channel raw emotional truth.\"",
           "options": [
-            "Paco de Lucía tocaba el violín clásico. (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "El duende no es una técnica intelectual sino una lucha interior auténtica donde el intérprete confronta la mortalidad para canalizar la verdad emocional pura. (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "El flamenco nació en el norte de Europa. (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "Lorca afirmaba que el duende se aprende con mapas. (Flamenco Cante Jondo  The Metaphysics of Duende)"
+            "Paco de Lucía tocaba el violín clásico.",
+            "El duende no es una técnica intelectual sino una lucha interior auténtica donde el intérprete confronta la mortalidad para canalizar la verdad emocional pura.",
+            "El flamenco nació en el norte de Europa.",
+            "Lorca afirmaba que el duende se aprende con mapas."
           ],
           "answerIndex": 1,
           "explanation": "Accurate musicological analysis translation.",
@@ -15464,10 +15464,10 @@
         {
           "prompt": "What traditional 12-beat rhythmic cycle in flamenco forms the bedrock of solemn deep singing (Cante Jondo)?",
           "options": [
-            "El compás de Soleá (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "El compás de 4/4 de vals (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "El ritmo binario simple (Flamenco Cante Jondo  The Metaphysics of Duende)",
-            "La polca (Flamenco Cante Jondo  The Metaphysics of Duende)"
+            "El compás de Soleá",
+            "El compás de 4/4 de vals",
+            "El ritmo binario simple",
+            "La polca"
           ],
           "answerIndex": 0,
           "explanation": "El compás de Soleá.",
@@ -15504,10 +15504,10 @@
         {
           "prompt": "Which 20th-century Spanish composer wrote the orchestral masterwork «El amor brujo» containing the famous \"Danza ritual del fuego\"?",
           "options": [
-            "Manuel de Falla (Classical Spanish Orchestral Nationalism)",
-            "Tomás Luis de Victoria (Classical Spanish Orchestral Nationalism)",
-            "Isaac Albéniz (Classical Spanish Orchestral Nationalism)",
-            "Joaquín Rodrigo (Classical Spanish Orchestral Nationalism)"
+            "Manuel de Falla",
+            "Tomás Luis de Victoria",
+            "Isaac Albéniz",
+            "Joaquín Rodrigo"
           ],
           "answerIndex": 0,
           "explanation": "Manuel de Falla."
@@ -15519,10 +15519,10 @@
         {
           "prompt": "What monumental 12-piece piano suite capturing the regional musical soul of Spain was composed by Isaac Albéniz?",
           "options": [
-            "«Suite Iberia» (Classical Spanish Orchestral Nationalism)",
-            "«Goyescas» (Classical Spanish Orchestral Nationalism)",
-            "«El sombrero de tres picos» (Classical Spanish Orchestral Nationalism)",
-            "«Concierto de Aranjuez» (Classical Spanish Orchestral Nationalism)"
+            "«Suite Iberia»",
+            "«Goyescas»",
+            "«El sombrero de tres picos»",
+            "«Concierto de Aranjuez»"
           ],
           "answerIndex": 0,
           "explanation": "«Suite Iberia»."
@@ -15534,10 +15534,10 @@
         {
           "prompt": "Translate: \"Manuel de Falla combined Andalusian Phrygian modal melodies with luminous impressionist orchestral textures to evoke nocturnal gardens.\"",
           "options": [
-            "Manuel de Falla combinó melodías modales frigias andaluzas con luminosas texturas orquestales impresionistas para evocar jardines nocturnos. (Classical Spanish Orchestral Nationalism)",
-            "El amor brujo es una ópera italiana del siglo XVII. (Classical Spanish Orchestral Nationalism)",
-            "Goyescas fue compuesta para trompeta solista. (Classical Spanish Orchestral Nationalism)",
-            "Isaac Albéniz fue un director de cine mudo. (Classical Spanish Orchestral Nationalism)"
+            "Manuel de Falla combinó melodías modales frigias andaluzas con luminosas texturas orquestales impresionistas para evocar jardines nocturnos.",
+            "El amor brujo es una ópera italiana del siglo XVII.",
+            "Goyescas fue compuesta para trompeta solista.",
+            "Isaac Albéniz fue un director de cine mudo."
           ],
           "answerIndex": 0,
           "explanation": "Accurate music analysis translation.",
@@ -15546,10 +15546,10 @@
         {
           "prompt": "Which historic gardens of the Alhambra palace in Granada inspired the opening movement of Falla's *Nights in the Gardens of Spain*?",
           "options": [
-            "El Parque del Retiro (Classical Spanish Orchestral Nationalism)",
-            "El Laberinto de Horta (Classical Spanish Orchestral Nationalism)",
-            "Los Jardines de Aranjuez (Classical Spanish Orchestral Nationalism)",
-            "Los jardines del Generalife (Classical Spanish Orchestral Nationalism)"
+            "El Parque del Retiro",
+            "El Laberinto de Horta",
+            "Los Jardines de Aranjuez",
+            "Los jardines del Generalife"
           ],
           "answerIndex": 3,
           "explanation": "Los jardines del Generalife.",
@@ -15586,10 +15586,10 @@
         {
           "prompt": "Which blind Spanish composer wrote the immortal 1939 guitar and orchestral masterpiece «Concierto de Aranjuez»?",
           "options": [
-            "Joaquín Rodrigo (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Andrés Segovia (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Manuel de Falla (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Pablo Casals (Classical Guitar Mastery  Spanish Renaissance Polyphony)"
+            "Joaquín Rodrigo",
+            "Andrés Segovia",
+            "Manuel de Falla",
+            "Pablo Casals"
           ],
           "answerIndex": 0,
           "explanation": "Joaquín Rodrigo."
@@ -15601,10 +15601,10 @@
         {
           "prompt": "Which Spanish musician is recognized as the Father of the Modern Classical Guitar for elevating it to world concert hall stages?",
           "options": [
-            "Andrés Segovia (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Francisco Tárrega (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Paco de Lucía (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Narciso Yepes (Classical Guitar Mastery  Spanish Renaissance Polyphony)"
+            "Andrés Segovia",
+            "Francisco Tárrega",
+            "Paco de Lucía",
+            "Narciso Yepes"
           ],
           "answerIndex": 0,
           "explanation": "Andrés Segovia."
@@ -15616,10 +15616,10 @@
         {
           "prompt": "Translate: \"The Adagio of the Concierto de Aranjuez weaves a poignant dialogue between the melancholy English horn and the delicate arpeggios of the classical guitar.\"",
           "options": [
-            "Andrés Segovia tocaba la batería de jazz. (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "Tomás Luis de Victoria vivió en el siglo XIX. (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "El Concierto de Aranjuez fue compuesto para piano eléctrico. (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "El Adagio del Concierto de Aranjuez teje un diálogo conmovedor entre el melancólico corno inglés y los delicados arpegios de la guitarra clásica. (Classical Guitar Mastery  Spanish Renaissance Polyphony)"
+            "Andrés Segovia tocaba la batería de jazz.",
+            "Tomás Luis de Victoria vivió en el siglo XIX.",
+            "El Concierto de Aranjuez fue compuesto para piano eléctrico.",
+            "El Adagio del Concierto de Aranjuez teje un diálogo conmovedor entre el melancólico corno inglés y los delicados arpegios de la guitarra clásica."
           ],
           "answerIndex": 3,
           "explanation": "Accurate concert music translation.",
@@ -15628,10 +15628,10 @@
         {
           "prompt": "What 16th-century polyphonic masterwork by Tomás Luis de Victoria is considered the crowning jewel of Renaissance sacred choral music?",
           "options": [
-            "«El Mesías» (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "«La Pasión según San Mateo» (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "«Officium Defunctorum» (Classical Guitar Mastery  Spanish Renaissance Polyphony)",
-            "«Las Cuatro Estaciones» (Classical Guitar Mastery  Spanish Renaissance Polyphony)"
+            "«El Mesías»",
+            "«La Pasión según San Mateo»",
+            "«Officium Defunctorum»",
+            "«Las Cuatro Estaciones»"
           ],
           "answerIndex": 2,
           "explanation": "«Officium Defunctorum».",
@@ -15668,10 +15668,10 @@
         {
           "prompt": "Which Catalan cello titan rediscovered J.S. Bach's Six Cello Suites and made the Catalan folk song «El cant dels ocells» a global anthem of peace?",
           "options": [
-            "Yo-Yo Ma (Cello Humanism  Peace Advocacy)",
-            "Pau Casals (Cello Humanism  Peace Advocacy)",
-            "Jacqueline du Pré (Cello Humanism  Peace Advocacy)",
-            "Mstislav Rostropovich (Cello Humanism  Peace Advocacy)"
+            "Yo-Yo Ma",
+            "Pau Casals",
+            "Jacqueline du Pré",
+            "Mstislav Rostropovich"
           ],
           "answerIndex": 1,
           "explanation": "Pau Casals (Pablo Casals)."
@@ -15683,10 +15683,10 @@
         {
           "prompt": "What traditional Catalan folk carol did Pau Casals perform at the conclusion of every concert as a prayer for peace and longing for his homeland?",
           "options": [
-            "«Guantanamera» (Cello Humanism  Peace Advocacy)",
-            "«El cant dels ocells» (Cello Humanism  Peace Advocacy)",
-            "«Cielito Lindo» (Cello Humanism  Peace Advocacy)",
-            "«La Cucaracha» (Cello Humanism  Peace Advocacy)"
+            "«Guantanamera»",
+            "«El cant dels ocells»",
+            "«Cielito Lindo»",
+            "«La Cucaracha»"
           ],
           "answerIndex": 1,
           "explanation": "«El cant dels ocells»."
@@ -15698,10 +15698,10 @@
         {
           "prompt": "Translate: \"Casals received the United Nations Peace Medal in 1971, affirming that music must serve as an active instrument of human brotherhood and democratic freedom.\"",
           "options": [
-            "Las Suites de Bach fueron compuestas por Casals. (Cello Humanism  Peace Advocacy)",
-            "Casals se negó a tocar el violonchelo después de 1900. (Cello Humanism  Peace Advocacy)",
-            "Casals recibió la Medalla de la Paz de las Naciones Unidas en 1971, afirmando que la música debe servir como un instrumento activo de fraternidad humana y libertad democrática. (Cello Humanism  Peace Advocacy)",
-            "Pau Casals apoyó la dictadura de Franco. (Cello Humanism  Peace Advocacy)"
+            "Las Suites de Bach fueron compuestas por Casals.",
+            "Casals se negó a tocar el violonchelo después de 1900.",
+            "Casals recibió la Medalla de la Paz de las Naciones Unidas en 1971, afirmando que la música debe servir como un instrumento activo de fraternidad humana y libertad democrática.",
+            "Pau Casals apoyó la dictadura de Franco."
           ],
           "answerIndex": 2,
           "explanation": "Accurate musical humanism translation.",
@@ -15710,10 +15710,10 @@
         {
           "prompt": "In which French Pyrenean border village did Pau Casals live in voluntary exile and found his legendary international chamber music festival in 1950?",
           "options": [
-            "Burdeos (Cello Humanism  Peace Advocacy)",
-            "Prades (Cello Humanism  Peace Advocacy)",
-            "Marsella (Cello Humanism  Peace Advocacy)",
-            "Niza (Cello Humanism  Peace Advocacy)"
+            "Burdeos",
+            "Prades",
+            "Marsella",
+            "Niza"
           ],
           "answerIndex": 1,
           "explanation": "Prades.",
@@ -15832,10 +15832,10 @@
         {
           "prompt": "Which Spanish surrealist filmmaker directed Un Chien Andalou with Dalí and won the Palme d'Or at Cannes for Viridiana in 1961?",
           "options": [
-            "Pedro Almodóvar (Surrealist Cinema  Subversive Vision)",
-            "Carlos Saura (Surrealist Cinema  Subversive Vision)",
-            "Alejandro Amenábar (Surrealist Cinema  Subversive Vision)",
-            "Luis Buñuel (Surrealist Cinema  Subversive Vision)"
+            "Pedro Almodóvar",
+            "Carlos Saura",
+            "Alejandro Amenábar",
+            "Luis Buñuel"
           ],
           "answerIndex": 3,
           "explanation": "Luis Buñuel."
@@ -15847,10 +15847,10 @@
         {
           "prompt": "Which Leonardo da Vinci Renaissance masterpiece was famously reenacted by impoverished beggars in Buñuel's banned film *Viridiana*?",
           "options": [
-            "La Mona Lisa (Surrealist Cinema  Subversive Vision)",
-            "La Última Cena (Surrealist Cinema  Subversive Vision)",
-            "El Hombre de Vitruvio (Surrealist Cinema  Subversive Vision)",
-            "La Anunciación (Surrealist Cinema  Subversive Vision)"
+            "La Mona Lisa",
+            "La Última Cena",
+            "El Hombre de Vitruvio",
+            "La Anunciación"
           ],
           "answerIndex": 1,
           "explanation": "La Última Cena (The Last Supper)."
@@ -15862,10 +15862,10 @@
         {
           "prompt": "Translate: \"Buñuel utilized dream imagery, provocative satire, and anti-clerical irony to strip society of its hypocritical moral pretenses.\"",
           "options": [
-            "Buñuel utilizó la imaginería onírica, la sátira provocadora y la ironía anticlerical para despojar a la sociedad de sus hipócritas pretensiones morales. (Surrealist Cinema  Subversive Vision)",
-            "Buñuel dirigió únicamente comedias musicales ligeras. (Surrealist Cinema  Subversive Vision)",
-            "Viridiana fue aprobada con entusiasmo por el Vaticano. (Surrealist Cinema  Subversive Vision)",
-            "Un perro andaluz es un documental sobre razas caninas. (Surrealist Cinema  Subversive Vision)"
+            "Buñuel utilizó la imaginería onírica, la sátira provocadora y la ironía anticlerical para despojar a la sociedad de sus hipócritas pretensiones morales.",
+            "Buñuel dirigió únicamente comedias musicales ligeras.",
+            "Viridiana fue aprobada con entusiasmo por el Vaticano.",
+            "Un perro andaluz es un documental sobre razas caninas."
           ],
           "answerIndex": 0,
           "explanation": "Accurate cinema analysis translation.",
@@ -15874,10 +15874,10 @@
         {
           "prompt": "What prestigious French film festival awarded Buñuel the Palme d'Or in 1961 for *Viridiana*?",
           "options": [
-            "Festival de San Sebastián (Surrealist Cinema  Subversive Vision)",
-            "Festival de Venecia (Surrealist Cinema  Subversive Vision)",
-            "Berlinale (Surrealist Cinema  Subversive Vision)",
-            "Festival de Cannes (Surrealist Cinema  Subversive Vision)"
+            "Festival de San Sebastián",
+            "Festival de Venecia",
+            "Berlinale",
+            "Festival de Cannes"
           ],
           "answerIndex": 3,
           "explanation": "Festival de Cannes.",
@@ -15914,10 +15914,10 @@
         {
           "prompt": "Which Spanish director emerged during La Movida Madrileña and won Academy Awards for \"Todo sobre mi madre\" and \"Hable con ella\"?",
           "options": [
-            "Pedro Almodóvar (The Colors of Melodrama  PostFranco Freedom)",
-            "Guillermo del Toro (The Colors of Melodrama  PostFranco Freedom)",
-            "Víctor Erice (The Colors of Melodrama  PostFranco Freedom)",
-            "Alejandro Amenábar (The Colors of Melodrama  PostFranco Freedom)"
+            "Pedro Almodóvar",
+            "Guillermo del Toro",
+            "Víctor Erice",
+            "Alejandro Amenábar"
           ],
           "answerIndex": 0,
           "explanation": "Pedro Almodóvar."
@@ -15929,10 +15929,10 @@
         {
           "prompt": "For which masterwork film did Pedro Almodóvar win the Academy Award (Oscar) for Best Original Screenplay in 2002?",
           "options": [
-            "«Hable con ella» (The Colors of Melodrama  PostFranco Freedom)",
-            "«Mujeres al borde de un ataque de nervios» (The Colors of Melodrama  PostFranco Freedom)",
-            "«Átame» (The Colors of Melodrama  PostFranco Freedom)",
-            "«La piel que habito» (The Colors of Melodrama  PostFranco Freedom)"
+            "«Hable con ella»",
+            "«Mujeres al borde de un ataque de nervios»",
+            "«Átame»",
+            "«La piel que habito»"
           ],
           "answerIndex": 0,
           "explanation": "«Hable con ella»."
@@ -15944,10 +15944,10 @@
         {
           "prompt": "Translate: \"Almodóvar's vibrant visual style combines saturated primary color palettes, emotional camp aesthetic, and compassionate tributes to resilient women.\"",
           "options": [
-            "Almodóvar filma exclusivamente en blanco y negro sin sonido. (The Colors of Melodrama  PostFranco Freedom)",
-            "Todo sobre mi madre es un documental sobre arquitectura. (The Colors of Melodrama  PostFranco Freedom)",
-            "Hable con ella fue filmada en inglés en Hollywood. (The Colors of Melodrama  PostFranco Freedom)",
-            "El vibrante estilo visual de Almodóvar combina paletas de colores primarios saturados, estética camp emocional y homenajes compasivos a mujeres resilientes. (The Colors of Melodrama  PostFranco Freedom)"
+            "Almodóvar filma exclusivamente en blanco y negro sin sonido.",
+            "Todo sobre mi madre es un documental sobre arquitectura.",
+            "Hable con ella fue filmada en inglés en Hollywood.",
+            "El vibrante estilo visual de Almodóvar combina paletas de colores primarios saturados, estética camp emocional y homenajes compasivos a mujeres resilientes."
           ],
           "answerIndex": 3,
           "explanation": "Accurate film analysis translation.",
@@ -15956,10 +15956,10 @@
         {
           "prompt": "Which legendary Spanish actress starred in Almodóvar's masterpieces *Volver*, *Madres paralelas*, and *Todo sobre mi madre*?",
           "options": [
-            "Victoria Abril (The Colors of Melodrama  PostFranco Freedom)",
-            "Rossy de Palma (The Colors of Melodrama  PostFranco Freedom)",
-            "Penélope Cruz (The Colors of Melodrama  PostFranco Freedom)",
-            "Marisa Paredes (The Colors of Melodrama  PostFranco Freedom)"
+            "Victoria Abril",
+            "Rossy de Palma",
+            "Penélope Cruz",
+            "Marisa Paredes"
           ],
           "answerIndex": 2,
           "explanation": "Penélope Cruz.",
@@ -15996,10 +15996,10 @@
         {
           "prompt": "Which Spanish master filmmaker directed the 1973 cinematic masterpiece \"El espíritu de la colmena\" (The Spirit of the Beehive)?",
           "options": [
-            "Víctor Erice (Poetic Realism  Childhood Memory)",
-            "Carlos Saura (Poetic Realism  Childhood Memory)",
-            "Luis García Berlanga (Poetic Realism  Childhood Memory)",
-            "Fernando Trueba (Poetic Realism  Childhood Memory)"
+            "Víctor Erice",
+            "Carlos Saura",
+            "Luis García Berlanga",
+            "Fernando Trueba"
           ],
           "answerIndex": 0,
           "explanation": "Víctor Erice."
@@ -16011,10 +16011,10 @@
         {
           "prompt": "Which classic 1931 Hollywood monster film, shown in a village travelling cinema, sparks young Ana's imaginative search in *The Spirit of the Beehive*?",
           "options": [
-            "«Frankenstein» (Poetic Realism  Childhood Memory)",
-            "«King Kong» (Poetic Realism  Childhood Memory)",
-            "«Drácula» (Poetic Realism  Childhood Memory)",
-            "«El hombre lobo» (Poetic Realism  Childhood Memory)"
+            "«Frankenstein»",
+            "«King Kong»",
+            "«Drácula»",
+            "«El hombre lobo»"
           ],
           "answerIndex": 0,
           "explanation": "«Frankenstein» (James Whale 1931)."
@@ -16026,10 +16026,10 @@
         {
           "prompt": "Translate: \"Erice's cinematography bathes rural Castilian interiors in warm amber honeyed light, transforming everyday household spaces into realms of mythical wonder.\"",
           "options": [
-            "El espíritu de la colmena es una película de ciencia ficción espacial. (Poetic Realism  Childhood Memory)",
-            "Víctor Erice ha dirigido más de cien películas al año. (Poetic Realism  Childhood Memory)",
-            "La cinematografía de Erice baña los interiores rurales castellanos en una cálida luz ámbar de miel, transformando los espacios cotidianos en reinos de asombro mítico. (Poetic Realism  Childhood Memory)",
-            "Ana Torrent era una actriz francesa de noventa años. (Poetic Realism  Childhood Memory)"
+            "El espíritu de la colmena es una película de ciencia ficción espacial.",
+            "Víctor Erice ha dirigido más de cien películas al año.",
+            "La cinematografía de Erice baña los interiores rurales castellanos en una cálida luz ámbar de miel, transformando los espacios cotidianos en reinos de asombro mítico.",
+            "Ana Torrent era una actriz francesa de noventa años."
           ],
           "answerIndex": 2,
           "explanation": "Accurate cinematography analysis translation.",
@@ -16038,10 +16038,10 @@
         {
           "prompt": "What prestigious top prize was awarded to *El espíritu de la colmena* at the San Sebastián International Film Festival in 1973?",
           "options": [
-            "El León de Oro (Poetic Realism  Childhood Memory)",
-            "La Concha de Oro (Poetic Realism  Childhood Memory)",
-            "La Palma de Oro (Poetic Realism  Childhood Memory)",
-            "El Oso de Oro (Poetic Realism  Childhood Memory)"
+            "El León de Oro",
+            "La Concha de Oro",
+            "La Palma de Oro",
+            "El Oso de Oro"
           ],
           "answerIndex": 1,
           "explanation": "La Concha de Oro.",
@@ -16078,10 +16078,10 @@
         {
           "prompt": "Which Spanish director created the iconic film \"Cría cuervos\" (1976) and the celebrated Flamenco dance trilogy with Antonio Gades?",
           "options": [
-            "Álex de la Iglesia (Flamenco Cinematography  Passion)",
-            "Pedro Almodóvar (Flamenco Cinematography  Passion)",
-            "Carlos Saura (Flamenco Cinematography  Passion)",
-            "Luis Buñuel (Flamenco Cinematography  Passion)"
+            "Álex de la Iglesia",
+            "Pedro Almodóvar",
+            "Carlos Saura",
+            "Luis Buñuel"
           ],
           "answerIndex": 2,
           "explanation": "Carlos Saura."
@@ -16093,10 +16093,10 @@
         {
           "prompt": "Which 1974 pop song by Jeanette became the haunting musical theme of Carlos Saura's film *Cría cuervos*?",
           "options": [
-            "«Macarena» (Flamenco Cinematography  Passion)",
-            "«Porque te vas» (Flamenco Cinematography  Passion)",
-            "«Eres tú» (Flamenco Cinematography  Passion)",
-            "«Bésame mucho» (Flamenco Cinematography  Passion)"
+            "«Macarena»",
+            "«Porque te vas»",
+            "«Eres tú»",
+            "«Bésame mucho»"
           ],
           "answerIndex": 1,
           "explanation": "«Porque te vas»."
@@ -16108,10 +16108,10 @@
         {
           "prompt": "Translate: \"Saura's musical trilogy staged flamenco rehearsals in mirrors and clean rehearsal spaces, turning the rhythmic footwork into visceral cinematic drama.\"",
           "options": [
-            "Cría cuervos fue filmada en inglés en Tokio. (Flamenco Cinematography  Passion)",
-            "La trilogía musical de Saura escenificó ensayos de flamenco entre espejos y salas limpias, convirtiendo el zapateado rítmico en drama cinematográfico visceral. (Flamenco Cinematography  Passion)",
-            "Antonio Gades era un astronauta español. (Flamenco Cinematography  Passion)",
-            "Carlos Saura dirigía películas de dibujos animados infantiles. (Flamenco Cinematography  Passion)"
+            "Cría cuervos fue filmada en inglés en Tokio.",
+            "La trilogía musical de Saura escenificó ensayos de flamenco entre espejos y salas limpias, convirtiendo el zapateado rítmico en drama cinematográfico visceral.",
+            "Antonio Gades era un astronauta español.",
+            "Carlos Saura dirigía películas de dibujos animados infantiles."
           ],
           "answerIndex": 1,
           "explanation": "Accurate dance cinema analysis translation.",
@@ -16120,10 +16120,10 @@
         {
           "prompt": "Which Federico García Lorca tragedy was adapted by Carlos Saura and Antonio Gades in their 1981 minimalist flamenco film?",
           "options": [
-            "«Bodas de sangre» (Flamenco Cinematography  Passion)",
-            "«Yerma» (Flamenco Cinematography  Passion)",
-            "«Doña Rosita la soltera» (Flamenco Cinematography  Passion)",
-            "«La casa de Bernarda Alba» (Flamenco Cinematography  Passion)"
+            "«Bodas de sangre»",
+            "«Yerma»",
+            "«Doña Rosita la soltera»",
+            "«La casa de Bernarda Alba»"
           ],
           "answerIndex": 0,
           "explanation": "«Bodas de sangre».",
@@ -16242,10 +16242,10 @@
         {
           "prompt": "Which Spanish Golden Age dramatist wrote \"La vida es sueño\" (Life Is a Dream) in 1635 featuring the captive prince Segismundo?",
           "options": [
-            "Lope de Vega (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "Tirso de Molina (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "Miguel de Cervantes (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "Pedro Calderón de la Barca (Siglo de Oro Golden Age Dramaturgy  Free Will)"
+            "Lope de Vega",
+            "Tirso de Molina",
+            "Miguel de Cervantes",
+            "Pedro Calderón de la Barca"
           ],
           "answerIndex": 3,
           "explanation": "Pedro Calderón de la Barca."
@@ -16257,10 +16257,10 @@
         {
           "prompt": "What fundamental philosophical battle is resolved in *La vida es sueño*, proving that human reason can overcome predicted celestial fate?",
           "options": [
-            "La riqueza material (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "El libre albedrío frente al determinismo (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "La conquista militar (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "La gloria mundana (Siglo de Oro Golden Age Dramaturgy  Free Will)"
+            "La riqueza material",
+            "El libre albedrío frente al determinismo",
+            "La conquista militar",
+            "La gloria mundana"
           ],
           "answerIndex": 1,
           "explanation": "El libre albedrío frente al determinismo."
@@ -16272,10 +16272,10 @@
         {
           "prompt": "Translate: \"Segismundo's existential soliloquy questions the boundary between waking reality and dreams, concluding that doing good retains eternal value in all realms.\"",
           "options": [
-            "Segismundo era un rey pacífico de Egipto. (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "La vida es sueño es un manual de astronomía náutica. (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "Calderón de la Barca era un general francés. (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "El soliloquio existencial de Segismundo cuestiona la frontera entre la realidad despierta y el sueño, concluyendo que obrar bien retiene un valor eterno en todos los reinos. (Siglo de Oro Golden Age Dramaturgy  Free Will)"
+            "Segismundo era un rey pacífico de Egipto.",
+            "La vida es sueño es un manual de astronomía náutica.",
+            "Calderón de la Barca era un general francés.",
+            "El soliloquio existencial de Segismundo cuestiona la frontera entre la realidad despierta y el sueño, concluyendo que obrar bien retiene un valor eterno en todos los reinos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Baroque drama translation.",
@@ -16284,10 +16284,10 @@
         {
           "prompt": "What dramatic genre of one-act religious allegories was perfected by Calderón in works like *El gran teatro del mundo*?",
           "options": [
-            "El sainete (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "El entremés (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "El auto sacramental (Siglo de Oro Golden Age Dramaturgy  Free Will)",
-            "La zarzuela (Siglo de Oro Golden Age Dramaturgy  Free Will)"
+            "El sainete",
+            "El entremés",
+            "El auto sacramental",
+            "La zarzuela"
           ],
           "answerIndex": 2,
           "explanation": "El auto sacramental.",
@@ -16324,10 +16324,10 @@
         {
           "prompt": "Which legendary playwright was called \"El Fénix de los Ingenios\" and authored the revolutionary collective drama \"Fuenteovejuna\"?",
           "options": [
-            "Lope de Vega (The Phoenix of Wits  Popular Comedy)",
-            "Tirso de Molina (The Phoenix of Wits  Popular Comedy)",
-            "Francisco de Quevedo (The Phoenix of Wits  Popular Comedy)",
-            "Calderón de la Barca (The Phoenix of Wits  Popular Comedy)"
+            "Lope de Vega",
+            "Tirso de Molina",
+            "Francisco de Quevedo",
+            "Calderón de la Barca"
           ],
           "answerIndex": 0,
           "explanation": "Lope de Vega."
@@ -16339,10 +16339,10 @@
         {
           "prompt": "What unanimous collective answer is given by all villagers under torture in Lope de Vega's *Fuenteovejuna* when asked who killed the tyrant?",
           "options": [
-            "«—Fuenteovejuna, señor. —Todo el pueblo a una.» (The Phoenix of Wits  Popular Comedy)",
-            "«—El alcalde de la villa.» (The Phoenix of Wits  Popular Comedy)",
-            "«—Nadie lo sabe.» (The Phoenix of Wits  Popular Comedy)",
-            "«—Los soldados reales.» (The Phoenix of Wits  Popular Comedy)"
+            "«—Fuenteovejuna, señor. —Todo el pueblo a una.»",
+            "«—El alcalde de la villa.»",
+            "«—Nadie lo sabe.»",
+            "«—Los soldados reales.»"
           ],
           "answerIndex": 0,
           "explanation": "«—Fuenteovejuna, señor. —Todo el pueblo a una.»"
@@ -16354,10 +16354,10 @@
         {
           "prompt": "Translate: \"In his 1609 treatise, Lope de Vega shattered classical Aristotelian unities, pioneering tragicomedy and declaring that audience resonance overrides ancient dogmatic rules.\"",
           "options": [
-            "Lope de Vega solo escribió poemas en latín clásico. (The Phoenix of Wits  Popular Comedy)",
-            "Fuenteovejuna es una comedia romántica ambientada en París. (The Phoenix of Wits  Popular Comedy)",
-            "En su tratado de 1609, Lope de Vega rompió las unidades aristotélicas clásicas, siendo pionero de la tragicomedia y declarando que la resonancia del público prevalece sobre las antiguas reglas dogmáticas. (The Phoenix of Wits  Popular Comedy)",
-            "El gracioso era el rey de España. (The Phoenix of Wits  Popular Comedy)"
+            "Lope de Vega solo escribió poemas en latín clásico.",
+            "Fuenteovejuna es una comedia romántica ambientada en París.",
+            "En su tratado de 1609, Lope de Vega rompió las unidades aristotélicas clásicas, siendo pionero de la tragicomedia y declarando que la resonancia del público prevalece sobre las antiguas reglas dogmáticas.",
+            "El gracioso era el rey de España."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Lope de Vega dramaturgy translation.",
@@ -16366,10 +16366,10 @@
         {
           "prompt": "What historic open-air courtyard architecture served as the public venue for Spanish Golden Age theatrical performances?",
           "options": [
-            "Los anfiteatros romanos (The Phoenix of Wits  Popular Comedy)",
-            "Los corrales de comedias (The Phoenix of Wits  Popular Comedy)",
-            "Las plazas de toros (The Phoenix of Wits  Popular Comedy)",
-            "Las catedrales góticas (The Phoenix of Wits  Popular Comedy)"
+            "Los anfiteatros romanos",
+            "Los corrales de comedias",
+            "Las plazas de toros",
+            "Las catedrales góticas"
           ],
           "answerIndex": 1,
           "explanation": "Los corrales de comedias.",
@@ -16406,10 +16406,10 @@
         {
           "prompt": "Which Spanish dramatist created the universal archetype of Don Juan in \"El burlador de Sevilla y convidado de piedra\" (1630)?",
           "options": [
-            "Tirso de Molina (The Myth of the Seducer  Sins of Damnation)",
-            "Lope de Vega (The Myth of the Seducer  Sins of Damnation)",
-            "Calderón de la Barca (The Myth of the Seducer  Sins of Damnation)",
-            "José de Espronceda (The Myth of the Seducer  Sins of Damnation)"
+            "Tirso de Molina",
+            "Lope de Vega",
+            "Calderón de la Barca",
+            "José de Espronceda"
           ],
           "answerIndex": 0,
           "explanation": "Tirso de Molina."
@@ -16421,10 +16421,10 @@
         {
           "prompt": "What arrogant motto does Don Juan repeatedly boast whenever warned of divine judgment and impending death?",
           "options": [
-            "«¡Tan largo me lo fiáis!» (The Myth of the Seducer  Sins of Damnation)",
-            "«Dios perdona siempre» (The Myth of the Seducer  Sins of Damnation)",
-            "«Carpe diem» (The Myth of the Seducer  Sins of Damnation)",
-            "«El honor es primero» (The Myth of the Seducer  Sins of Damnation)"
+            "«¡Tan largo me lo fiáis!»",
+            "«Dios perdona siempre»",
+            "«Carpe diem»",
+            "«El honor es primero»"
           ],
           "answerIndex": 0,
           "explanation": "«¡Tan largo me lo fiáis!»"
@@ -16436,10 +16436,10 @@
         {
           "prompt": "Translate: \"Tirso de Molina used the supernatural stone statue to deliver theological judgment against Don Juan's arrogant assumption that repentance can be endlessly delayed.\"",
           "options": [
-            "El burlador de Sevilla es un libro de cocina sevillana. (The Myth of the Seducer  Sins of Damnation)",
-            "Tirso de Molina utilizó la estatua de piedra sobrenatural para dictar un juicio teológico contra la soberbia presunción de Don Juan de que el arrepentimiento puede retrasarse indefinidamente. (The Myth of the Seducer  Sins of Damnation)",
-            "Don Juan Tenorio era un virtuoso monje budista. (The Myth of the Seducer  Sins of Damnation)",
-            "Tirso de Molina fue ejecutado por la Inquisición en 1500. (The Myth of the Seducer  Sins of Damnation)"
+            "El burlador de Sevilla es un libro de cocina sevillana.",
+            "Tirso de Molina utilizó la estatua de piedra sobrenatural para dictar un juicio teológico contra la soberbia presunción de Don Juan de que el arrepentimiento puede retrasarse indefinidamente.",
+            "Don Juan Tenorio era un virtuoso monje budista.",
+            "Tirso de Molina fue ejecutado por la Inquisición en 1500."
           ],
           "answerIndex": 1,
           "explanation": "Accurate theological drama translation.",
@@ -16448,10 +16448,10 @@
         {
           "prompt": "Which 19th-century Spanish Romantic playwright wrote the famous 1844 version *Don Juan Tenorio*, traditionally performed every year across Spain on All Saints' Day?",
           "options": [
-            "José Zorrilla (The Myth of the Seducer  Sins of Damnation)",
-            "Gustavo Adolfo Bécquer (The Myth of the Seducer  Sins of Damnation)",
-            "Mariano José de Larra (The Myth of the Seducer  Sins of Damnation)",
-            "Duque de Rivas (The Myth of the Seducer  Sins of Damnation)"
+            "José Zorrilla",
+            "Gustavo Adolfo Bécquer",
+            "Mariano José de Larra",
+            "Duque de Rivas"
           ],
           "answerIndex": 0,
           "explanation": "José Zorrilla.",
@@ -16488,10 +16488,10 @@
         {
           "prompt": "Which avant-garde Spanish dramatist invented the dramatic genre of \"Esperpento\" in his masterpiece \"Luces de bohemia\" (1924)?",
           "options": [
-            "Antonio Buero Vallejo (Tragic Grotesque  The Bohemian Mirrors)",
-            "Jacinto Benavente (Tragic Grotesque  The Bohemian Mirrors)",
-            "Ramón María del Valle-Inclán (Tragic Grotesque  The Bohemian Mirrors)",
-            "Federico García Lorca (Tragic Grotesque  The Bohemian Mirrors)"
+            "Antonio Buero Vallejo",
+            "Jacinto Benavente",
+            "Ramón María del Valle-Inclán",
+            "Federico García Lorca"
           ],
           "answerIndex": 2,
           "explanation": "Ramón María del Valle-Inclán."
@@ -16503,10 +16503,10 @@
         {
           "prompt": "What famous alley in Madrid, featuring distorting concave and convex mirrors, provides the aesthetic metaphor for Valle-Inclán's Esperpento?",
           "options": [
-            "La Cava Baja (Tragic Grotesque  The Bohemian Mirrors)",
-            "El Callejón del Gato (Tragic Grotesque  The Bohemian Mirrors)",
-            "La Gran Vía (Tragic Grotesque  The Bohemian Mirrors)",
-            "La Puerta del Sol (Tragic Grotesque  The Bohemian Mirrors)"
+            "La Cava Baja",
+            "El Callejón del Gato",
+            "La Gran Vía",
+            "La Puerta del Sol"
           ],
           "answerIndex": 1,
           "explanation": "El Callejón del Gato."
@@ -16518,10 +16518,10 @@
         {
           "prompt": "Translate: \"The aesthetic of the Esperpento systematically distorts classical tragedy through funhouse mirrors to expose the grotesque political and social decay of contemporary Spain.\"",
           "options": [
-            "La estética del esperpento deforma sistemáticamente la tragedia clásica a través de espejos deformantes para exponer la decadencia política y social grotesca de la España contemporánea. (Tragic Grotesque  The Bohemian Mirrors)",
-            "Valle-Inclán rechazaba las obras de Goya. (Tragic Grotesque  The Bohemian Mirrors)",
-            "Max Estrella era un banquero adinerado de Wall Street. (Tragic Grotesque  The Bohemian Mirrors)",
-            "Luces de bohemia es una ópera alegre sobre campesinos suizos. (Tragic Grotesque  The Bohemian Mirrors)"
+            "La estética del esperpento deforma sistemáticamente la tragedia clásica a través de espejos deformantes para exponer la decadencia política y social grotesca de la España contemporánea.",
+            "Valle-Inclán rechazaba las obras de Goya.",
+            "Max Estrella era un banquero adinerado de Wall Street.",
+            "Luces de bohemia es una ópera alegre sobre campesinos suizos."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Esperpento dramatic analysis translation.",
@@ -16530,10 +16530,10 @@
         {
           "prompt": "Who is the blind, impoverished bohemian poet protagonist who wanders through nighttime Madrid in *Luces de bohemia*?",
           "options": [
-            "Zaratustra (Tragic Grotesque  The Bohemian Mirrors)",
-            "Don Latino de Híspalis (Tragic Grotesque  The Bohemian Mirrors)",
-            "Rubén Darío (Tragic Grotesque  The Bohemian Mirrors)",
-            "Max Estrella (Tragic Grotesque  The Bohemian Mirrors)"
+            "Zaratustra",
+            "Don Latino de Híspalis",
+            "Rubén Darío",
+            "Max Estrella"
           ],
           "answerIndex": 3,
           "explanation": "Max Estrella.",
@@ -16652,10 +16652,10 @@
         {
           "prompt": "Which Catalan soprano was universally known as \"La Superba\" for her legendary pianissimo in Bellini's \"Norma\" and sang \"Barcelona\" with Freddie Mercury?",
           "options": [
-            "Victoria de los Ángeles (The Sovereign of Bel Canto  Pianissimo)",
-            "Teresa Berganza (The Sovereign of Bel Canto  Pianissimo)",
-            "Ainhoa Arteta (The Sovereign of Bel Canto  Pianissimo)",
-            "Montserrat Caballé (The Sovereign of Bel Canto  Pianissimo)"
+            "Victoria de los Ángeles",
+            "Teresa Berganza",
+            "Ainhoa Arteta",
+            "Montserrat Caballé"
           ],
           "answerIndex": 3,
           "explanation": "Montserrat Caballé."
@@ -16667,10 +16667,10 @@
         {
           "prompt": "What legendary Bellini operatic aria, invoking the chaste moon goddess, was Caballé's signature Bel Canto masterwork?",
           "options": [
-            "«Casta Diva» (The Sovereign of Bel Canto  Pianissimo)",
-            "«Vissi d'arte» (The Sovereign of Bel Canto  Pianissimo)",
-            "«Un bel dì, vedremo» (The Sovereign of Bel Canto  Pianissimo)",
-            "«Habanera» (The Sovereign of Bel Canto  Pianissimo)"
+            "«Casta Diva»",
+            "«Vissi d'arte»",
+            "«Un bel dì, vedremo»",
+            "«Habanera»"
           ],
           "answerIndex": 0,
           "explanation": "«Casta Diva»."
@@ -16682,10 +16682,10 @@
         {
           "prompt": "Translate: \"Caballé's extraordinary diaphragm breath support allowed her to sustain impossibly delicate pianissimo high notes that floated effortlessly across the largest opera houses.\"",
           "options": [
-            "El Gran Teatre del Liceu fue construido en 2015 en Madrid. (The Sovereign of Bel Canto  Pianissimo)",
-            "Montserrat Caballé era una bailarina de tango argentina. (The Sovereign of Bel Canto  Pianissimo)",
-            "El extraordinario apoyo diafragmático de Caballé le permitía sostener notas agudas en pianísimo increíblemente delicadas que flotaban sin esfuerzo por los mayores teatros de ópera. (The Sovereign of Bel Canto  Pianissimo)",
-            "Casta Diva es una canción pop en inglés. (The Sovereign of Bel Canto  Pianissimo)"
+            "El Gran Teatre del Liceu fue construido en 2015 en Madrid.",
+            "Montserrat Caballé era una bailarina de tango argentina.",
+            "El extraordinario apoyo diafragmático de Caballé le permitía sostener notas agudas en pianísimo increíblemente delicadas que flotaban sin esfuerzo por los mayores teatros de ópera.",
+            "Casta Diva es una canción pop en inglés."
           ],
           "answerIndex": 2,
           "explanation": "Accurate operatic vocal analysis translation.",
@@ -16694,10 +16694,10 @@
         {
           "prompt": "What historic opera house on Las Ramblas in Barcelona was Montserrat Caballé's spiritual home throughout her entire career?",
           "options": [
-            "Teatro Real de Madrid (The Sovereign of Bel Canto  Pianissimo)",
-            "Gran Teatre del Liceu (The Sovereign of Bel Canto  Pianissimo)",
-            "Palau de les Arts (The Sovereign of Bel Canto  Pianissimo)",
-            "Teatro de la Zarzuela (The Sovereign of Bel Canto  Pianissimo)"
+            "Teatro Real de Madrid",
+            "Gran Teatre del Liceu",
+            "Palau de les Arts",
+            "Teatro de la Zarzuela"
           ],
           "answerIndex": 1,
           "explanation": "Gran Teatre del Liceu.",
@@ -16734,10 +16734,10 @@
         {
           "prompt": "Which two Spanish tenor legends united with Luciano Pavarotti to form \"The Three Tenors\" in Rome in 1990?",
           "options": [
-            "Plácido Domingo y José Carreras (Dramatic Tenor Royalty  The Three Tenors)",
-            "Enrico Caruso y Beniamino Gigli (Dramatic Tenor Royalty  The Three Tenors)",
-            "Rolando Villazón y Juan Diego Flórez (Dramatic Tenor Royalty  The Three Tenors)",
-            "Alfredo Kraus y Jaume Aragall (Dramatic Tenor Royalty  The Three Tenors)"
+            "Plácido Domingo y José Carreras",
+            "Enrico Caruso y Beniamino Gigli",
+            "Rolando Villazón y Juan Diego Flórez",
+            "Alfredo Kraus y Jaume Aragall"
           ],
           "answerIndex": 0,
           "explanation": "Plácido Domingo y José Carreras."
@@ -16749,10 +16749,10 @@
         {
           "prompt": "What prestigious international young opera singer competition was founded by Plácido Domingo in 1993 to discover new world-class voices?",
           "options": [
-            "Operalia (Dramatic Tenor Royalty  The Three Tenors)",
-            "Cardiff Singer of the World (Dramatic Tenor Royalty  The Three Tenors)",
-            "Chopin Competition (Dramatic Tenor Royalty  The Three Tenors)",
-            "Queen Elisabeth Competition (Dramatic Tenor Royalty  The Three Tenors)"
+            "Operalia",
+            "Cardiff Singer of the World",
+            "Chopin Competition",
+            "Queen Elisabeth Competition"
           ],
           "answerIndex": 0,
           "explanation": "Operalia."
@@ -16764,10 +16764,10 @@
         {
           "prompt": "Translate: \"The 1990 Baths of Caracalla concert popularized classical Bel Canto and verismo arias to an unprecedented global audience of hundreds of millions.\"",
           "options": [
-            "Los Tres Tenores eran un trío de rock pesado. (Dramatic Tenor Royalty  The Three Tenors)",
-            "El concierto de 1990 en las Termas de Caracalla popularizó las arias del bel canto y verismo clásicos ante una audiencia global sin precedentes de cientos de millones. (Dramatic Tenor Royalty  The Three Tenors)",
-            "Plácido Domingo solo cantaba en zarzuelas para niños. (Dramatic Tenor Royalty  The Three Tenors)",
-            "José Carreras era un pianista mudo. (Dramatic Tenor Royalty  The Three Tenors)"
+            "Los Tres Tenores eran un trío de rock pesado.",
+            "El concierto de 1990 en las Termas de Caracalla popularizó las arias del bel canto y verismo clásicos ante una audiencia global sin precedentes de cientos de millones.",
+            "Plácido Domingo solo cantaba en zarzuelas para niños.",
+            "José Carreras era un pianista mudo."
           ],
           "answerIndex": 1,
           "explanation": "Accurate operatic history translation.",
@@ -16776,10 +16776,10 @@
         {
           "prompt": "What grueling Verdi dramatic tenor role, portraying the Shakespearean Moor of Venice, was performed over 200 times by Plácido Domingo across the world's top opera houses?",
           "options": [
-            "Otello (Dramatic Tenor Royalty  The Three Tenors)",
-            "Manrico (Dramatic Tenor Royalty  The Three Tenors)",
-            "Radamès (Dramatic Tenor Royalty  The Three Tenors)",
-            "Don José (Dramatic Tenor Royalty  The Three Tenors)"
+            "Otello",
+            "Manrico",
+            "Radamès",
+            "Don José"
           ],
           "answerIndex": 0,
           "explanation": "Otello.",
@@ -16816,10 +16816,10 @@
         {
           "prompt": "Which legendary Canarian tenor was admired worldwide for his flawless vocal technique and definitive interpretation of Massenet's \"Werther\"?",
           "options": [
-            "Alfredo Kraus (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Plácido Domingo (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "José Carreras (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Jaume Aragall (The Aristocrat of Bel Canto  Tenor Rigor)"
+            "Alfredo Kraus",
+            "Plácido Domingo",
+            "José Carreras",
+            "Jaume Aragall"
           ],
           "answerIndex": 0,
           "explanation": "Alfredo Kraus."
@@ -16831,10 +16831,10 @@
         {
           "prompt": "What French romantic opera by Jules Massenet, based on Goethe's epistolary novel, was Alfredo Kraus's greatest signature role?",
           "options": [
-            "«Werther» (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "«Don Quichotte» (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "«Manon» (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "«Thaïs» (The Aristocrat of Bel Canto  Tenor Rigor)"
+            "«Werther»",
+            "«Don Quichotte»",
+            "«Manon»",
+            "«Thaïs»"
           ],
           "answerIndex": 0,
           "explanation": "«Werther»."
@@ -16846,10 +16846,10 @@
         {
           "prompt": "Translate: \"Kraus's unwavering dedication to technical vocal health allowed him to sing the most demanding Bel Canto tenor high notes with crystalline purity well into his late sixties.\"",
           "options": [
-            "La inquebrantable dedicación de Kraus a la salud técnica vocal le permitió cantar los agudos de tenor de bel canto más exigentes con pureza cristalina hasta bien entrados los sesenta años. (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Werther es una obra de teatro sin música. (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "El Auditorio Alfredo Kraus está en los Andes. (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Alfredo Kraus era un pintor cubista. (The Aristocrat of Bel Canto  Tenor Rigor)"
+            "La inquebrantable dedicación de Kraus a la salud técnica vocal le permitió cantar los agudos de tenor de bel canto más exigentes con pureza cristalina hasta bien entrados los sesenta años.",
+            "Werther es una obra de teatro sin música.",
+            "El Auditorio Alfredo Kraus está en los Andes.",
+            "Alfredo Kraus era un pintor cubista."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Bel Canto analysis translation.",
@@ -16858,10 +16858,10 @@
         {
           "prompt": "In which Spanish Atlantic island city is the monumental Auditorio Alfredo Kraus located on the Las Canteras beachfront?",
           "options": [
-            "Santa Cruz de Tenerife (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Palma de Mallorca (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Ibiza (The Aristocrat of Bel Canto  Tenor Rigor)",
-            "Las Palmas de Gran Canaria (The Aristocrat of Bel Canto  Tenor Rigor)"
+            "Santa Cruz de Tenerife",
+            "Palma de Mallorca",
+            "Ibiza",
+            "Las Palmas de Gran Canaria"
           ],
           "answerIndex": 3,
           "explanation": "Las Palmas de Gran Canaria.",
@@ -16898,10 +16898,10 @@
         {
           "prompt": "Which master Spanish coloratura mezzo-soprano won the Prince of Asturias Award in 1991 and redefined Bizet's \"Carmen\" alongside Claudio Abbado?",
           "options": [
-            "Conchita Supervía (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Montserrat Caballé (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Teresa Berganza (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Victoria de los Ángeles (The Grand MezzoSoprano of Rossini  Mozart)"
+            "Conchita Supervía",
+            "Montserrat Caballé",
+            "Teresa Berganza",
+            "Victoria de los Ángeles"
           ],
           "answerIndex": 2,
           "explanation": "Teresa Berganza."
@@ -16913,10 +16913,10 @@
         {
           "prompt": "Which Italian opera composer's heroines (*Rosina* and *Cenerentola*) were historically restored to their authentic mezzo-soprano register by Teresa Berganza?",
           "options": [
-            "Giuseppe Verdi (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Gioachino Rossini (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Gaetano Donizetti (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Giacomo Puccini (The Grand MezzoSoprano of Rossini  Mozart)"
+            "Giuseppe Verdi",
+            "Gioachino Rossini",
+            "Gaetano Donizetti",
+            "Giacomo Puccini"
           ],
           "answerIndex": 1,
           "explanation": "Gioachino Rossini."
@@ -16928,10 +16928,10 @@
         {
           "prompt": "Translate: \"Berganza eliminated vulgar theatrical affectations in Carmen, creating a nuanced portrait of an unapologetically free woman who controls her own fate.\"",
           "options": [
-            "Carmen es una ópera italiana sobre la pesca de truchas. (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Teresa Berganza fue una astronauta española. (The Grand MezzoSoprano of Rossini  Mozart)",
-            "La Cenerentola es un libro de matemáticas puras. (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Berganza eliminó los amaneramientos teatrales vulgares en Carmen, creando un retrato lleno de matices de una mujer resueltamente libre que gobierna su propio destino. (The Grand MezzoSoprano of Rossini  Mozart)"
+            "Carmen es una ópera italiana sobre la pesca de truchas.",
+            "Teresa Berganza fue una astronauta española.",
+            "La Cenerentola es un libro de matemáticas puras.",
+            "Berganza eliminó los amaneramientos teatrales vulgares en Carmen, creando un retrato lleno de matices de una mujer resueltamente libre que gobierna su propio destino."
           ],
           "answerIndex": 3,
           "explanation": "Accurate operatic interpretation translation.",
@@ -16940,10 +16940,10 @@
         {
           "prompt": "What prestigious Spanish institution elected Teresa Berganza as its very first female full academician in 1995?",
           "options": [
-            "Real Academia de la Historia (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Instituto Cervantes (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Real Academia de Bellas Artes de San Fernando (The Grand MezzoSoprano of Rossini  Mozart)",
-            "Real Academia Española (The Grand MezzoSoprano of Rossini  Mozart)"
+            "Real Academia de la Historia",
+            "Instituto Cervantes",
+            "Real Academia de Bellas Artes de San Fernando",
+            "Real Academia Española"
           ],
           "answerIndex": 2,
           "explanation": "Real Academia de Bellas Artes de San Fernando.",
@@ -17062,10 +17062,10 @@
         {
           "prompt": "Which Catalan architect designed the Sagrada Família and Casa Milà, pioneering catenary structural models and trencadís mosaics?",
           "options": [
-            "Lluís Domènech i Montaner (Modernisme  Organic Structural Geometry)",
-            "Josep Puig i Cadafalch (Modernisme  Organic Structural Geometry)",
-            "Enric Miralles (Modernisme  Organic Structural Geometry)",
-            "Antoni Gaudí (Modernisme  Organic Structural Geometry)"
+            "Lluís Domènech i Montaner",
+            "Josep Puig i Cadafalch",
+            "Enric Miralles",
+            "Antoni Gaudí"
           ],
           "answerIndex": 3,
           "explanation": "Antoni Gaudí."
@@ -17077,10 +17077,10 @@
         {
           "prompt": "What famous decorative technique, perfected by Gaudí and Jujol, uses mosaic patterns made from reclaimed broken ceramic shards?",
           "options": [
-            "El trencadís (Modernisme  Organic Structural Geometry)",
-            "El esgrafiado (Modernisme  Organic Structural Geometry)",
-            "La taracea (Modernisme  Organic Structural Geometry)",
-            "El mosaico bizantino (Modernisme  Organic Structural Geometry)"
+            "El trencadís",
+            "El esgrafiado",
+            "La taracea",
+            "El mosaico bizantino"
           ],
           "answerIndex": 0,
           "explanation": "El trencadís."
@@ -17092,10 +17092,10 @@
         {
           "prompt": "Translate: \"Gaudí calculated the compressive load distribution of his vaulted ceilings using inverted catenary string models weighted with lead shot to eliminate exterior flying buttresses.\"",
           "options": [
-            "Antoni Gaudí diseñó rascacielos de acero en Nueva York. (Modernisme  Organic Structural Geometry)",
-            "Gaudí calculó la distribución de cargas de compresión de sus bóvedas utilizando modelos catenarios invertidos de cuerdas lastradas con perdigones para eliminar los arbotantes exteriores. (Modernisme  Organic Structural Geometry)",
-            "El trencadís es una receta de sopa catalana. (Modernisme  Organic Structural Geometry)",
-            "La Sagrada Família es un estadio deportivo en Madrid. (Modernisme  Organic Structural Geometry)"
+            "Antoni Gaudí diseñó rascacielos de acero en Nueva York.",
+            "Gaudí calculó la distribución de cargas de compresión de sus bóvedas utilizando modelos catenarios invertidos de cuerdas lastradas con perdigones para eliminar los arbotantes exteriores.",
+            "El trencadís es una receta de sopa catalana.",
+            "La Sagrada Família es un estadio deportivo en Madrid."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Gaudí structural analysis translation.",
@@ -17104,10 +17104,10 @@
         {
           "prompt": "What organic natural structure inspired the branching, weight-bearing load columns inside the nave of the Sagrada Família?",
           "options": [
-            "Un bosque de troncos y ramas de árboles (Modernisme  Organic Structural Geometry)",
-            "Columnas de templos griegos (Modernisme  Organic Structural Geometry)",
-            "Postes de telégrafo (Modernisme  Organic Structural Geometry)",
-            "Cintas de fábrica (Modernisme  Organic Structural Geometry)"
+            "Un bosque de troncos y ramas de árboles",
+            "Columnas de templos griegos",
+            "Postes de telégrafo",
+            "Cintas de fábrica"
           ],
           "answerIndex": 0,
           "explanation": "Un bosque de troncos y ramas de árboles.",
@@ -17144,10 +17144,10 @@
         {
           "prompt": "Which grand 14th-century Andalusian palace fortress in Granada features the Court of the Lions and breathtaking muqarnas stalactite domes?",
           "options": [
-            "La Alhambra de Granada (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "El Alcázar de Sevilla (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "El Palacio de la Aljafería (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "La Mezquita de Córdoba (The Nasrid Paradise  Andalusian Sacred Geometry)"
+            "La Alhambra de Granada",
+            "El Alcázar de Sevilla",
+            "El Palacio de la Aljafería",
+            "La Mezquita de Córdoba"
           ],
           "answerIndex": 0,
           "explanation": "La Alhambra de Granada."
@@ -17159,10 +17159,10 @@
         {
           "prompt": "What Arabic dynastic motto is inscribed thousands of times across the calligraphic plaster walls of the Alhambra?",
           "options": [
-            "«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ» (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "«الملك لله» (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "«الحمد لله» (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "«العزة لله» (The Nasrid Paradise  Andalusian Sacred Geometry)"
+            "«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ»",
+            "«الملك لله»",
+            "«الحمد لله»",
+            "«العزة لله»"
           ],
           "answerIndex": 0,
           "explanation": "«وَلَا غَالِبَ إِلَّا ٱللَّٰهُ»."
@@ -17174,10 +17174,10 @@
         {
           "prompt": "Translate: \"The central fountain of the Court of the Lions utilizes precise gravity-fed water channels to create continuous hydraulic flow without mechanical pumps.\"",
           "options": [
-            "La fuente central del Patio de los Leones utiliza canales de agua precisos alimentados por gravedad para crear un flujo hidráulico continuo sin bombas mecánicas. (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "La Alhambra fue construida en el siglo XX en Madrid. (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "El Generalife es una estación de tren subterránea. (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "Los leones de la Alhambra están hechos de madera de pino. (The Nasrid Paradise  Andalusian Sacred Geometry)"
+            "La fuente central del Patio de los Leones utiliza canales de agua precisos alimentados por gravedad para crear un flujo hidráulico continuo sin bombas mecánicas.",
+            "La Alhambra fue construida en el siglo XX en Madrid.",
+            "El Generalife es una estación de tren subterránea.",
+            "Los leones de la Alhambra están hechos de madera de pino."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Alhambra hydraulic analysis translation.",
@@ -17186,10 +17186,10 @@
         {
           "prompt": "What architectural honeycomb ceiling feature, resembling dripping stalactites, crowns the Hall of the Two Sisters in the Alhambra?",
           "options": [
-            "Cúpula geodésica (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "Techo de artesonado plano (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "Bóveda de cañón (The Nasrid Paradise  Andalusian Sacred Geometry)",
-            "Bóveda de mocárabes (The Nasrid Paradise  Andalusian Sacred Geometry)"
+            "Cúpula geodésica",
+            "Techo de artesonado plano",
+            "Bóveda de cañón",
+            "Bóveda de mocárabes"
           ],
           "answerIndex": 3,
           "explanation": "Bóveda de mocárabes.",
@@ -17226,10 +17226,10 @@
         {
           "prompt": "Which monumental 16th-century royal monastery near Madrid was designed by Juan de Herrera for King Philip II, defining the Herrerian style?",
           "options": [
-            "El Real Monasterio de San Lorenzo de El Escorial (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "El Palacio Real de Aranjuez (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "El Palacio de La Granja (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "El Alcázar de Toledo (The Renaissance Monolith  The Grid of San Lorenzo)"
+            "El Real Monasterio de San Lorenzo de El Escorial",
+            "El Palacio Real de Aranjuez",
+            "El Palacio de La Granja",
+            "El Alcázar de Toledo"
           ],
           "answerIndex": 0,
           "explanation": "El Real Monasterio de San Lorenzo de El Escorial."
@@ -17241,10 +17241,10 @@
         {
           "prompt": "What martyrdom instrument of Saint Lawrence inspired the rectangular grid layout of El Escorial?",
           "options": [
-            "Una parrilla de hierro (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Una rueda de tortura (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Una lanza romana (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Una cruz de madera (The Renaissance Monolith  The Grid of San Lorenzo)"
+            "Una parrilla de hierro",
+            "Una rueda de tortura",
+            "Una lanza romana",
+            "Una cruz de madera"
           ],
           "answerIndex": 0,
           "explanation": "Una parrilla de hierro."
@@ -17256,10 +17256,10 @@
         {
           "prompt": "Translate: \"The Herrerian architectural style established a monumental aesthetic of unadorned granite sobriety, reflecting the austere counter-reformation ideology of Philip II's empire.\"",
           "options": [
-            "El Escorial es una pequeña cabaña de madera en la playa. (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Juan de Herrera era un escultor francés del siglo XIX. (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Felipe II construyó El Escorial para criar caballos de carrera. (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "El estilo arquitectónico herreriano estableció una estética monumental de sobriedad en granito sin adornos, reflejando la austera ideología contrarreformista del imperio de Felipe II. (The Renaissance Monolith  The Grid of San Lorenzo)"
+            "El Escorial es una pequeña cabaña de madera en la playa.",
+            "Juan de Herrera era un escultor francés del siglo XIX.",
+            "Felipe II construyó El Escorial para criar caballos de carrera.",
+            "El estilo arquitectónico herreriano estableció una estética monumental de sobriedad en granito sin adornos, reflejando la austera ideología contrarreformista del imperio de Felipe II."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Herrerian architectural analysis translation.",
@@ -17268,10 +17268,10 @@
         {
           "prompt": "What unique historic preservation custom is practiced in the Royal Library of El Escorial regarding how ancient volumes are shelved?",
           "options": [
-            "Los libros se guardan en cofres de hierro cerrados (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Los libros están colgados del techo con cuerdas (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Los libros se colocan con los cortes dorados hacia fuera (The Renaissance Monolith  The Grid of San Lorenzo)",
-            "Los libros están apilados horizontalmente en el suelo (The Renaissance Monolith  The Grid of San Lorenzo)"
+            "Los libros se guardan en cofres de hierro cerrados",
+            "Los libros están colgados del techo con cuerdas",
+            "Los libros se colocan con los cortes dorados hacia fuera",
+            "Los libros están apilados horizontalmente en el suelo"
           ],
           "answerIndex": 2,
           "explanation": "Los libros se colocan con los cortes dorados hacia fuera.",
@@ -17308,10 +17308,10 @@
         {
           "prompt": "Which master Spanish architect won the Pritzker Prize in 1996 and designed the National Museum of Roman Art in Mérida?",
           "options": [
-            "Enric Miralles (Pritzker Laureate  The Soul of Roman Brick)",
-            "Ricardo Bofill (Pritzker Laureate  The Soul of Roman Brick)",
-            "Rafael Moneo (Pritzker Laureate  The Soul of Roman Brick)",
-            "Santiago Calatrava (Pritzker Laureate  The Soul of Roman Brick)"
+            "Enric Miralles",
+            "Ricardo Bofill",
+            "Rafael Moneo",
+            "Santiago Calatrava"
           ],
           "answerIndex": 2,
           "explanation": "Rafael Moneo."
@@ -17323,10 +17323,10 @@
         {
           "prompt": "What primary building material, referencing ancient Roman masonry, forms the monumental soaring arches of Moneo's museum in Mérida?",
           "options": [
-            "Mármol blanco de Carrara (Pritzker Laureate  The Soul of Roman Brick)",
-            "Ladrillo cerámico romano (Pritzker Laureate  The Soul of Roman Brick)",
-            "Planchas de titanio (Pritzker Laureate  The Soul of Roman Brick)",
-            "Hormigón armado visto (Pritzker Laureate  The Soul of Roman Brick)"
+            "Mármol blanco de Carrara",
+            "Ladrillo cerámico romano",
+            "Planchas de titanio",
+            "Hormigón armado visto"
           ],
           "answerIndex": 1,
           "explanation": "Ladrillo cerámico romano."
@@ -17338,10 +17338,10 @@
         {
           "prompt": "Translate: \"Moneo's design for the Roman Art Museum in Merida utilizes monumental brick parallel arches to establish spatial grandeur while honoring the archaeological strata below.\"",
           "options": [
-            "El Kursaal de San Sebastián es una mina de carbón subterránea. (Pritzker Laureate  The Soul of Roman Brick)",
-            "El Museo del Prado fue demolido en 2007. (Pritzker Laureate  The Soul of Roman Brick)",
-            "El diseño de Moneo para el Museo de Arte Romano de Mérida utiliza arcos paralelos de ladrillo monumental para establecer una grandeza espacial a la vez que honra los estratos arqueológicos subterráneos. (Pritzker Laureate  The Soul of Roman Brick)",
-            "Rafael Moneo es un escultor de barcos de pesca. (Pritzker Laureate  The Soul of Roman Brick)"
+            "El Kursaal de San Sebastián es una mina de carbón subterránea.",
+            "El Museo del Prado fue demolido en 2007.",
+            "El diseño de Moneo para el Museo de Arte Romano de Mérida utiliza arcos paralelos de ladrillo monumental para establecer una grandeza espacial a la vez que honra los estratos arqueológicos subterráneos.",
+            "Rafael Moneo es un escultor de barcos de pesca."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Moneo architectural analysis translation.",
@@ -17350,10 +17350,10 @@
         {
           "prompt": "What iconic metaphor did Rafael Moneo use to describe the two glowing translucent glass auditorium cubes of the Kursaal on San Sebastián's shoreline?",
           "options": [
-            "Dos estrellas caídas (Pritzker Laureate  The Soul of Roman Brick)",
-            "«Dos rocas varadas» en la desembocadura (Pritzker Laureate  The Soul of Roman Brick)",
-            "Dos cajas de zapatos (Pritzker Laureate  The Soul of Roman Brick)",
-            "Dos barcos de vapor (Pritzker Laureate  The Soul of Roman Brick)"
+            "Dos estrellas caídas",
+            "«Dos rocas varadas» en la desembocadura",
+            "Dos cajas de zapatos",
+            "Dos barcos de vapor"
           ],
           "answerIndex": 1,
           "explanation": "«Dos rocas varadas».",
@@ -17472,10 +17472,10 @@
         {
           "prompt": "Which master Spanish philosopher coined the famous maxim \"Yo soy yo y mi circunstancia\" and wrote \"La rebelión de las masas\" (1930)?",
           "options": [
-            "Miguel de Unamuno (Circumstance  Raciovitalism)",
-            "Xavier Zubiri (Circumstance  Raciovitalism)",
-            "Julián Marías (Circumstance  Raciovitalism)",
-            "José Ortega y Gasset (Circumstance  Raciovitalism)"
+            "Miguel de Unamuno",
+            "Xavier Zubiri",
+            "Julián Marías",
+            "José Ortega y Gasset"
           ],
           "answerIndex": 3,
           "explanation": "José Ortega y Gasset."
@@ -17487,10 +17487,10 @@
         {
           "prompt": "What philosophical concept, developed by Ortega y Gasset, asserts that reason is an essential function and organ of human life rather than a detached abstract system?",
           "options": [
-            "El raciovitalismo / La razón vital (Circumstance  Raciovitalism)",
-            "El positivismo lógico (Circumstance  Raciovitalism)",
-            "El idealismo absoluto (Circumstance  Raciovitalism)",
-            "El materialismo dialéctico (Circumstance  Raciovitalism)"
+            "El raciovitalismo / La razón vital",
+            "El positivismo lógico",
+            "El idealismo absoluto",
+            "El materialismo dialéctico"
           ],
           "answerIndex": 0,
           "explanation": "El raciovitalismo / La razón vital."
@@ -17502,10 +17502,10 @@
         {
           "prompt": "Translate: \"Ortega y Gasset established that human life is the radical reality, wherein reason functions as a vital navigational organ within one's historical circumstance.\"",
           "options": [
-            "Ortega y Gasset estableció que la vida humana es la realidad radical, en la cual la razón funciona como un órgano vital de navegación dentro de la circunstancia histórica de cada uno. (Circumstance  Raciovitalism)",
-            "Ortega y Gasset fue un piloto militar en la Primera Guerra Mundial. (Circumstance  Raciovitalism)",
-            "El perspectivismo niega la existencia del universo. (Circumstance  Raciovitalism)",
-            "La rebelión de las masas es un libro de cocina tradicional. (Circumstance  Raciovitalism)"
+            "Ortega y Gasset estableció que la vida humana es la realidad radical, en la cual la razón funciona como un órgano vital de navegación dentro de la circunstancia histórica de cada uno.",
+            "Ortega y Gasset fue un piloto militar en la Primera Guerra Mundial.",
+            "El perspectivismo niega la existencia del universo.",
+            "La rebelión de las masas es un libro de cocina tradicional."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Ortega y Gasset philosophical analysis translation.",
@@ -17514,10 +17514,10 @@
         {
           "prompt": "What influential intellectual journal was founded by José Ortega y Gasset in Madrid in 1923 to introduce global philosophical thought to the Spanish-speaking world?",
           "options": [
-            "El Espectador (Circumstance  Raciovitalism)",
-            "Sur (Circumstance  Raciovitalism)",
-            "Gaceta Literaria (Circumstance  Raciovitalism)",
-            "Revista de Occidente (Circumstance  Raciovitalism)"
+            "El Espectador",
+            "Sur",
+            "Gaceta Literaria",
+            "Revista de Occidente"
           ],
           "answerIndex": 3,
           "explanation": "Revista de Occidente.",
@@ -17554,10 +17554,10 @@
         {
           "prompt": "Which master philosopher and rector of Salamanca explored the tragic conflict between reason and the longing for immortality in \"Del sentimiento trágico de la vida\"?",
           "options": [
-            "Miguel de Unamuno (The Tragic Sense of Life  The Agony of Immortality)",
-            "Eugenio d'Ors (The Tragic Sense of Life  The Agony of Immortality)",
-            "Julián Besteiro (The Tragic Sense of Life  The Agony of Immortality)",
-            "José Ortega y Gasset (The Tragic Sense of Life  The Agony of Immortality)"
+            "Miguel de Unamuno",
+            "Eugenio d'Ors",
+            "Julián Besteiro",
+            "José Ortega y Gasset"
           ],
           "answerIndex": 0,
           "explanation": "Miguel de Unamuno."
@@ -17569,10 +17569,10 @@
         {
           "prompt": "What concept was coined by Unamuno to describe the silent, continuous everyday life of ordinary people that forms the true bedrock of civilization beneath recorded political history?",
           "options": [
-            "La intrahistoria (The Tragic Sense of Life  The Agony of Immortality)",
-            "La superestructura (The Tragic Sense of Life  The Agony of Immortality)",
-            "La sincronía (The Tragic Sense of Life  The Agony of Immortality)",
-            "El determinismo (The Tragic Sense of Life  The Agony of Immortality)"
+            "La intrahistoria",
+            "La superestructura",
+            "La sincronía",
+            "El determinismo"
           ],
           "answerIndex": 0,
           "explanation": "La intrahistoria (Intrahistory)."
@@ -17584,10 +17584,10 @@
         {
           "prompt": "Translate: \"Unamuno conceived human existence as an unresolved agony between intellectual skepticism and the visceral hunger for personal immortality.\"",
           "options": [
-            "La intrahistoria es un estudio sobre dinosaurios marinos. (The Tragic Sense of Life  The Agony of Immortality)",
-            "Miguel de Unamuno fue un comerciante de café en el siglo XVII. (The Tragic Sense of Life  The Agony of Immortality)",
-            "La novela Niebla fue escrita por Miguel de Cervantes. (The Tragic Sense of Life  The Agony of Immortality)",
-            "Unamuno concibió la existencia humana como una agonía no resuelta entre el escepticismo intelectual y el hambre visceral de inmortalidad personal. (The Tragic Sense of Life  The Agony of Immortality)"
+            "La intrahistoria es un estudio sobre dinosaurios marinos.",
+            "Miguel de Unamuno fue un comerciante de café en el siglo XVII.",
+            "La novela Niebla fue escrita por Miguel de Cervantes.",
+            "Unamuno concibió la existencia humana como una agonía no resuelta entre el escepticismo intelectual y el hambre visceral de inmortalidad personal."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Unamuno philosophical analysis translation.",
@@ -17596,10 +17596,10 @@
         {
           "prompt": "In Unamuno's 1914 existential masterpiece *Niebla*, what revolutionary literary genre label did he invent to describe novels driven by dialogue and interior character agony?",
           "options": [
-            "Romance (The Tragic Sense of Life  The Agony of Immortality)",
-            "Sainete (The Tragic Sense of Life  The Agony of Immortality)",
-            "Nivola (The Tragic Sense of Life  The Agony of Immortality)",
-            "Farsa (The Tragic Sense of Life  The Agony of Immortality)"
+            "Romance",
+            "Sainete",
+            "Nivola",
+            "Farsa"
           ],
           "answerIndex": 2,
           "explanation": "Nivola.",
@@ -17636,10 +17636,10 @@
         {
           "prompt": "Which master Spanish philosopher was the first woman to win the Premio Cervantes (1988) and formulated the philosophy of \"La razón poética\"?",
           "options": [
-            "María Zambrano (Poetic Reason  The Logos of the Heart)",
-            "Victoria Camps (Poetic Reason  The Logos of the Heart)",
-            "Adela Cortina (Poetic Reason  The Logos of the Heart)",
-            "Celia Amorós (Poetic Reason  The Logos of the Heart)"
+            "María Zambrano",
+            "Victoria Camps",
+            "Adela Cortina",
+            "Celia Amorós"
           ],
           "answerIndex": 0,
           "explanation": "María Zambrano."
@@ -17651,10 +17651,10 @@
         {
           "prompt": "What metaphysical 1977 masterwork by María Zambrano describes the quiet interior descent of truth as light entering an open forest space?",
           "options": [
-            "Claros del bosque (Poetic Reason  The Logos of the Heart)",
-            "Campos de Castilla (Poetic Reason  The Logos of the Heart)",
-            "La soledad sonora (Poetic Reason  The Logos of the Heart)",
-            "El laberinto de la soledad (Poetic Reason  The Logos of the Heart)"
+            "Claros del bosque",
+            "Campos de Castilla",
+            "La soledad sonora",
+            "El laberinto de la soledad"
           ],
           "answerIndex": 0,
           "explanation": "Claros del bosque."
@@ -17666,10 +17666,10 @@
         {
           "prompt": "Translate: \"Poetic reason according to Maria Zambrano overcomes the violent abstraction of instrumental logic by listening to the primordial intuitions of human suffering and memory.\"",
           "options": [
-            "María Zambrano fue una reina medieval de Castilla. (Poetic Reason  The Logos of the Heart)",
-            "Claros del bosque es un manual de botánica aplicada. (Poetic Reason  The Logos of the Heart)",
-            "La razón poética según María Zambrano supera la abstracción violenta de la lógica instrumental escuchando las intuiciones primordiales del sufrimiento y la memoria humana. (Poetic Reason  The Logos of the Heart)",
-            "El Premio Cervantes se otorga únicamente a matemáticos. (Poetic Reason  The Logos of the Heart)"
+            "María Zambrano fue una reina medieval de Castilla.",
+            "Claros del bosque es un manual de botánica aplicada.",
+            "La razón poética según María Zambrano supera la abstracción violenta de la lógica instrumental escuchando las intuiciones primordiales del sufrimiento y la memoria humana.",
+            "El Premio Cervantes se otorga únicamente a matemáticos."
           ],
           "answerIndex": 2,
           "explanation": "Accurate María Zambrano analysis translation.",
@@ -17678,10 +17678,10 @@
         {
           "prompt": "For how many years did María Zambrano live in political exile across Mexico, Cuba, Puerto Rico, France, Italy, and Switzerland before returning to Madrid?",
           "options": [
-            "10 años (Poetic Reason  The Logos of the Heart)",
-            "45 años (Poetic Reason  The Logos of the Heart)",
-            "20 años (Poetic Reason  The Logos of the Heart)",
-            "5 años (Poetic Reason  The Logos of the Heart)"
+            "10 años",
+            "45 años",
+            "20 años",
+            "5 años"
           ],
           "answerIndex": 1,
           "explanation": "45 años.",
@@ -17718,10 +17718,10 @@
         {
           "prompt": "Which 16th-century Dominican philosopher at the University of Salamanca founded modern international law with his 1539 lectures \"Relectio de Indis\"?",
           "options": [
-            "Domingo de Soto (The Birth of International Law  Human Dignity)",
-            "Francisco Suárez (The Birth of International Law  Human Dignity)",
-            "Francisco de Vitoria (The Birth of International Law  Human Dignity)",
-            "Bartolomé de las Casas (The Birth of International Law  Human Dignity)"
+            "Domingo de Soto",
+            "Francisco Suárez",
+            "Francisco de Vitoria",
+            "Bartolomé de las Casas"
           ],
           "answerIndex": 2,
           "explanation": "Francisco de Vitoria."
@@ -17733,10 +17733,10 @@
         {
           "prompt": "What Latin legal concept was redefined by Francisco de Vitoria as a universal law of nations governing reciprocal rights and peaceful relations between all sovereign peoples?",
           "options": [
-            "Lex Talionis (The Birth of International Law  Human Dignity)",
-            "Ius Canonicum (The Birth of International Law  Human Dignity)",
-            "Ius Gentium (The Birth of International Law  Human Dignity)",
-            "Ius Civile (The Birth of International Law  Human Dignity)"
+            "Lex Talionis",
+            "Ius Canonicum",
+            "Ius Gentium",
+            "Ius Civile"
           ],
           "answerIndex": 2,
           "explanation": "Ius Gentium (Derecho de Gentes)."
@@ -17748,10 +17748,10 @@
         {
           "prompt": "Translate: \"Francisco de Vitoria affirmed that indigenous peoples possessed natural sovereign rights of property and self-governance that no foreign monarch could arbitrarily revoke.\"",
           "options": [
-            "La Escuela de Salamanca promovía la piratería marítima. (The Birth of International Law  Human Dignity)",
-            "Francisco de Vitoria afirmó que los pueblos indígenas poseían derechos naturales soberanos de propiedad y autogobierno que ningún monarca extranjero podía revocar arbitrariamente. (The Birth of International Law  Human Dignity)",
-            "Relectio de Indis es un tratado sobre navegación lunar. (The Birth of International Law  Human Dignity)",
-            "Francisco de Vitoria fue un corsario inglés del siglo XVIII. (The Birth of International Law  Human Dignity)"
+            "La Escuela de Salamanca promovía la piratería marítima.",
+            "Francisco de Vitoria afirmó que los pueblos indígenas poseían derechos naturales soberanos de propiedad y autogobierno que ningún monarca extranjero podía revocar arbitrariamente.",
+            "Relectio de Indis es un tratado sobre navegación lunar.",
+            "Francisco de Vitoria fue un corsario inglés del siglo XVIII."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Vitoria legal-philosophical analysis translation.",
@@ -17760,10 +17760,10 @@
         {
           "prompt": "In which grand international city does a memorial honoring Francisco de Vitoria stand at the United Nations headquarters for founding international jurisprudence?",
           "options": [
-            "Ginebra (The Birth of International Law  Human Dignity)",
-            "La Haya (The Birth of International Law  Human Dignity)",
-            "Bruselas (The Birth of International Law  Human Dignity)",
-            "Nueva York (The Birth of International Law  Human Dignity)"
+            "Ginebra",
+            "La Haya",
+            "Bruselas",
+            "Nueva York"
           ],
           "answerIndex": 0,
           "explanation": "Ginebra.",
@@ -17882,10 +17882,10 @@
         {
           "prompt": "Which master Spanish surrealist filmmaker directed \"Un Chien Andalou\" (1929) with Salvador Dalí and won the Cannes Palme d'Or for \"Viridiana\" (1961)?",
           "options": [
-            "Pedro Almodóvar (Surrealist Subversion  The Severed Eye)",
-            "Carlos Saura (Surrealist Subversion  The Severed Eye)",
-            "Víctor Erice (Surrealist Subversion  The Severed Eye)",
-            "Luis Buñuel (Surrealist Subversion  The Severed Eye)"
+            "Pedro Almodóvar",
+            "Carlos Saura",
+            "Víctor Erice",
+            "Luis Buñuel"
           ],
           "answerIndex": 3,
           "explanation": "Luis Buñuel."
@@ -17897,10 +17897,10 @@
         {
           "prompt": "What famous classical painting by Leonardo da Vinci was subversively parodied by beggars in Buñuel's 1961 masterpiece \"Viridiana\"?",
           "options": [
-            "La Última Cena (Surrealist Subversion  The Severed Eye)",
-            "La Gioconda (Surrealist Subversion  The Severed Eye)",
-            "La Anunciación (Surrealist Subversion  The Severed Eye)",
-            "El Hombre de Vitruvio (Surrealist Subversion  The Severed Eye)"
+            "La Última Cena",
+            "La Gioconda",
+            "La Anunciación",
+            "El Hombre de Vitruvio"
           ],
           "answerIndex": 0,
           "explanation": "La Última Cena (The Last Supper)."
@@ -17912,10 +17912,10 @@
         {
           "prompt": "Translate: \"Bunuel deployed surrealist montage and subconscious oneiric logic to expose the moral corruption and repressed desires of bourgeois institutions.\"",
           "options": [
-            "Viridiana es un documental sobre submarinos nucleares. (Surrealist Subversion  The Severed Eye)",
-            "Luis Buñuel era un cantante de ópera italiano del siglo XVIII. (Surrealist Subversion  The Severed Eye)",
-            "Un perro andaluz fue filmado en Hollywood en 1990. (Surrealist Subversion  The Severed Eye)",
-            "Buñuel desplegó el montaje surrealista y la lógica onírica subconsciente para exponer la corrupción moral y los deseos reprimidos de las instituciones burguesas. (Surrealist Subversion  The Severed Eye)"
+            "Viridiana es un documental sobre submarinos nucleares.",
+            "Luis Buñuel era un cantante de ópera italiano del siglo XVIII.",
+            "Un perro andaluz fue filmado en Hollywood en 1990.",
+            "Buñuel desplegó el montaje surrealista y la lógica onírica subconsciente para exponer la corrupción moral y los deseos reprimidos de las instituciones burguesas."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Buñuel analysis translation.",
@@ -17924,10 +17924,10 @@
         {
           "prompt": "What Mexican 1950 neo-realist masterpiece directed by Buñuel is inscribed in UNESCO's Memory of the World Register for its raw portrayal of marginalized street youth?",
           "options": [
-            "Simón del desierto (Surrealist Subversion  The Severed Eye)",
-            "Nazarín (Surrealist Subversion  The Severed Eye)",
-            "Los olvidados (Surrealist Subversion  The Severed Eye)",
-            "El ángel exterminador (Surrealist Subversion  The Severed Eye)"
+            "Simón del desierto",
+            "Nazarín",
+            "Los olvidados",
+            "El ángel exterminador"
           ],
           "answerIndex": 2,
           "explanation": "Los olvidados.",
@@ -18046,10 +18046,10 @@
         {
           "prompt": "Which master Spanish director created the poetic post-war masterpiece \"The Spirit of the Beehive\" (1973) starring child actress Ana Torrent?",
           "options": [
-            "Víctor Erice (The Poetry of Light  The Childs Gaze)",
-            "Carlos Saura (The Poetry of Light  The Childs Gaze)",
-            "Luis García Berlanga (The Poetry of Light  The Childs Gaze)",
-            "Fernando Fernán Gómez (The Poetry of Light  The Childs Gaze)"
+            "Víctor Erice",
+            "Carlos Saura",
+            "Luis García Berlanga",
+            "Fernando Fernán Gómez"
           ],
           "answerIndex": 0,
           "explanation": "Víctor Erice."
@@ -18061,10 +18061,10 @@
         {
           "prompt": "What 1992 Cannes award-winning film by Erice documents realist painter Antonio López attempting to capture fleeting sunlight on a quince tree?",
           "options": [
-            "El sol del membrillo (The Poetry of Light  The Childs Gaze)",
-            "Cerrar los ojos (The Poetry of Light  The Childs Gaze)",
-            "La colmena (The Poetry of Light  The Childs Gaze)",
-            "El sur (The Poetry of Light  The Childs Gaze)"
+            "El sol del membrillo",
+            "Cerrar los ojos",
+            "La colmena",
+            "El sur"
           ],
           "answerIndex": 0,
           "explanation": "El sol del membrillo (Dream of Light)."
@@ -18076,10 +18076,10 @@
         {
           "prompt": "Translate: \"Erice deployed golden amber natural light and prolonged meditative silence to construct an allegorical meditation on childhood innocence and post-war trauma.\"",
           "options": [
-            "Víctor Erice es un director de películas de carreras de coches. (The Poetry of Light  The Childs Gaze)",
-            "Erice desplegó luz natural ámbar dorada y prolongados silencios meditativos para construir una meditación alegórica sobre la inocencia infantil y el trauma de la posguerra. (The Poetry of Light  The Childs Gaze)",
-            "Antonio López es un músico de rock pesado. (The Poetry of Light  The Childs Gaze)",
-            "El espíritu de la colmena fue filmada en un estudio de Tokio. (The Poetry of Light  The Childs Gaze)"
+            "Víctor Erice es un director de películas de carreras de coches.",
+            "Erice desplegó luz natural ámbar dorada y prolongados silencios meditativos para construir una meditación alegórica sobre la inocencia infantil y el trauma de la posguerra.",
+            "Antonio López es un músico de rock pesado.",
+            "El espíritu de la colmena fue filmada en un estudio de Tokio."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Víctor Erice analysis translation.",
@@ -18088,10 +18088,10 @@
         {
           "prompt": "What iconic 1931 classic monster film, projected in a village hall, sparks young Ana's metaphysical quest in *The Spirit of the Beehive*?",
           "options": [
-            "Frankenstein (The Poetry of Light  The Childs Gaze)",
-            "La momia (The Poetry of Light  The Childs Gaze)",
-            "El hombre lobo (The Poetry of Light  The Childs Gaze)",
-            "Drácula (The Poetry of Light  The Childs Gaze)"
+            "Frankenstein",
+            "La momia",
+            "El hombre lobo",
+            "Drácula"
           ],
           "answerIndex": 0,
           "explanation": "Frankenstein.",
@@ -18128,10 +18128,10 @@
         {
           "prompt": "Which master Spanish director filmed the 1976 Cannes award-winner \"Cría cuervos\" and created the Flamenco film trilogy with Antonio Gades?",
           "options": [
-            "Jaime Chávarri (Flamenco Rhythms  Metaphorical Resistance)",
-            "Luis Buñuel (Flamenco Rhythms  Metaphorical Resistance)",
-            "Carlos Saura (Flamenco Rhythms  Metaphorical Resistance)",
-            "Víctor Erice (Flamenco Rhythms  Metaphorical Resistance)"
+            "Jaime Chávarri",
+            "Luis Buñuel",
+            "Carlos Saura",
+            "Víctor Erice"
           ],
           "answerIndex": 2,
           "explanation": "Carlos Saura."
@@ -18143,10 +18143,10 @@
         {
           "prompt": "What famous song performed by Jeanette became the global melancholic musical theme of Carlos Saura's 1976 film \"Cría cuervos\"?",
           "options": [
-            "«Alfonsina y el mar» (Flamenco Rhythms  Metaphorical Resistance)",
-            "«Volver» (Flamenco Rhythms  Metaphorical Resistance)",
-            "«Porque te vas» (Flamenco Rhythms  Metaphorical Resistance)",
-            "«Bésame mucho» (Flamenco Rhythms  Metaphorical Resistance)"
+            "«Alfonsina y el mar»",
+            "«Volver»",
+            "«Porque te vas»",
+            "«Bésame mucho»"
           ],
           "answerIndex": 2,
           "explanation": "«Porque te vas»."
@@ -18158,10 +18158,10 @@
         {
           "prompt": "Translate: \"Saura transformed cinematic flamenco into a dynamic theatrical laboratory, merging Lorca's dramatic poetry with Vittorio Storaro's chromatic lighting choreography.\"",
           "options": [
-            "Saura transformó el flamenco cinematográfico en un laboratorio teatral dinámico, fusionando la poesía dramática de Lorca con la coreografía de iluminación cromática de Vittorio Storaro. (Flamenco Rhythms  Metaphorical Resistance)",
-            "La caza es una película de animación sobre osos polares. (Flamenco Rhythms  Metaphorical Resistance)",
-            "Bodas de sangre fue filmada en un submarino en el Ártico. (Flamenco Rhythms  Metaphorical Resistance)",
-            "Carlos Saura era un jugador de béisbol en Cuba. (Flamenco Rhythms  Metaphorical Resistance)"
+            "Saura transformó el flamenco cinematográfico en un laboratorio teatral dinámico, fusionando la poesía dramática de Lorca con la coreografía de iluminación cromática de Vittorio Storaro.",
+            "La caza es una película de animación sobre osos polares.",
+            "Bodas de sangre fue filmada en un submarino en el Ártico.",
+            "Carlos Saura era un jugador de béisbol en Cuba."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Carlos Saura analysis translation.",
@@ -18170,10 +18170,10 @@
         {
           "prompt": "Which legendary Spanish flamenco dancer and choreographer collaborated with Carlos Saura on *Bodas de sangre*, *Carmen*, and *El amor brujo*?",
           "options": [
-            "Farruquito (Flamenco Rhythms  Metaphorical Resistance)",
-            "Joaquín Cortés (Flamenco Rhythms  Metaphorical Resistance)",
-            "Antonio Canales (Flamenco Rhythms  Metaphorical Resistance)",
-            "Antonio Gades (Flamenco Rhythms  Metaphorical Resistance)"
+            "Farruquito",
+            "Joaquín Cortés",
+            "Antonio Canales",
+            "Antonio Gades"
           ],
           "answerIndex": 3,
           "explanation": "Antonio Gades.",
@@ -18292,10 +18292,10 @@
         {
           "prompt": "Which master Catalan chef revolutionized global avant-garde cuisine at elBulli, inventing culinary spherification and siphon foams?",
           "options": [
-            "Joan Roca (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Martín Berasategui (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Juan Mari Arzak (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Ferran Adrià (Molecular Deconstruction  The Culinary AvantGarde)"
+            "Joan Roca",
+            "Martín Berasategui",
+            "Juan Mari Arzak",
+            "Ferran Adrià"
           ],
           "answerIndex": 3,
           "explanation": "Ferran Adrià."
@@ -18307,10 +18307,10 @@
         {
           "prompt": "What chemical technique, popularized by Ferran Adrià using sodium alginate and calcium bath, encapsulates liquid into thin bursting spheres?",
           "options": [
-            "Esferificación (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Liofilización (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Pasteurización (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Fermentación láctica (Molecular Deconstruction  The Culinary AvantGarde)"
+            "Esferificación",
+            "Liofilización",
+            "Pasteurización",
+            "Fermentación láctica"
           ],
           "answerIndex": 0,
           "explanation": "Esferificación (Spherification)."
@@ -18322,10 +18322,10 @@
         {
           "prompt": "Translate: \"Adrià's deconstructive philosophy disassembled traditional recipes into contrasting physical states and temperatures while preserving their primordial olfactory essence.\"",
           "options": [
-            "La esferificación se inventó en la antigua Roma. (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Ferran Adrià era un capitán de barco en Valencia. (Molecular Deconstruction  The Culinary AvantGarde)",
-            "La filosofía deconstructiva de Adrià desensambló las recetas tradicionales en estados físicos y temperaturas contrastantes mientras preservaba su esencia olfativa primordial. (Molecular Deconstruction  The Culinary AvantGarde)",
-            "elBulli era una fábrica de conservas de pescado. (Molecular Deconstruction  The Culinary AvantGarde)"
+            "La esferificación se inventó en la antigua Roma.",
+            "Ferran Adrià era un capitán de barco en Valencia.",
+            "La filosofía deconstructiva de Adrià desensambló las recetas tradicionales en estados físicos y temperaturas contrastantes mientras preservaba su esencia olfativa primordial.",
+            "elBulli era una fábrica de conservas de pescado."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Ferran Adrià analysis translation.",
@@ -18334,10 +18334,10 @@
         {
           "prompt": "In which scenic cove on the Costa Brava in Catalonia was the legendary 3-star Michelin restaurant *elBulli* located?",
           "options": [
-            "Cala d'Or (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Cala Montjoi (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Cala Galdana (Molecular Deconstruction  The Culinary AvantGarde)",
-            "Cala Fornells (Molecular Deconstruction  The Culinary AvantGarde)"
+            "Cala d'Or",
+            "Cala Montjoi",
+            "Cala Galdana",
+            "Cala Fornells"
           ],
           "answerIndex": 1,
           "explanation": "Cala Montjoi (Roses, Girona).",
@@ -18456,10 +18456,10 @@
         {
           "prompt": "Which scenic freshwater coastal wetland near Valencia produces the world-renowned Bomba rice used for traditional paella?",
           "options": [
-            "L'Albufera de Valencia (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "Las Marismas del Guadalquivir (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "El Delta del Ebro (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "Las Tablas de Daimiel (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)"
+            "L'Albufera de Valencia",
+            "Las Marismas del Guadalquivir",
+            "El Delta del Ebro",
+            "Las Tablas de Daimiel"
           ],
           "answerIndex": 0,
           "explanation": "L'Albufera de Valencia."
@@ -18471,10 +18471,10 @@
         {
           "prompt": "What is the prized, intensely flavorful caramelized crunchy layer of rice at the bottom of a well-cooked paella called?",
           "options": [
-            "El socarrat (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "El caldero (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "La costra (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "El sofrito (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)"
+            "El socarrat",
+            "El caldero",
+            "La costra",
+            "El sofrito"
           ],
           "answerIndex": 0,
           "explanation": "El socarrat."
@@ -18486,10 +18486,10 @@
         {
           "prompt": "Translate: \"Valencian Bomba rice absorbs three times its volume in saffron-infused stock while retaining its structural integrity to produce the prized caramelized socarrat crust.\"",
           "options": [
-            "El arroz bomba valenciano absorbe tres veces su volumen en caldo infusionado con azafrán mientras conserva su integridad estructural para producir la preciada costra caramelizada del socarrat. (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "El socarrat es un tipo de postre helado con fresas. (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "El garrofó es un tipo de queso curado de oveja. (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "La paella valenciana se inventó en un restaurante de comida rápida en Londres. (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)"
+            "El arroz bomba valenciano absorbe tres veces su volumen en caldo infusionado con azafrán mientras conserva su integridad estructural para producir la preciada costra caramelizada del socarrat.",
+            "El socarrat es un tipo de postre helado con fresas.",
+            "El garrofó es un tipo de queso curado de oveja.",
+            "La paella valenciana se inventó en un restaurante de comida rápida en Londres."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Paella analysis translation.",
@@ -18498,10 +18498,10 @@
         {
           "prompt": "Which giant white lima bean variety is an indispensable indigenous ingredient of canonical Valencian paella?",
           "options": [
-            "El garbanzo (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "La lenteja pardina (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "La alubia de Tolosa (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)",
-            "El garrofó (The Ritual of Paella  The Rice Terroir of Valencia La Paella Valenciana tradicional)"
+            "El garbanzo",
+            "La lenteja pardina",
+            "La alubia de Tolosa",
+            "El garrofó"
           ],
           "answerIndex": 3,
           "explanation": "El garrofó.",
@@ -18719,10 +18719,10 @@
         {
           "prompt": "¿Qué elemento escénico y dramático empuña Bernarda Alba como símbolo supremo de su autoritarismo patriarcal?",
           "options": [
-            "El bastón (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Una corona de espinas (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Una espada toledana (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Un abanico de plumas doradas (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)"
+            "El bastón",
+            "Una corona de espinas",
+            "Una espada toledana",
+            "Un abanico de plumas doradas"
           ],
           "answerIndex": 0,
           "explanation": "El bastón de Bernarda es el emblema de su poder represivo y de la vigilancia absoluta en la casa."
@@ -18734,10 +18734,10 @@
         {
           "prompt": "¿Cuál es la última palabra que pronuncia Bernarda Alba al final de la obra tras el suicidio de Adela?",
           "options": [
-            "«¡Silencio!» (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "«¡Justicia!» (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "«¡Piedad!» (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "«¡Libertad!» (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)"
+            "«¡Silencio!»",
+            "«¡Justicia!»",
+            "«¡Piedad!»",
+            "«¡Libertad!»"
           ],
           "answerIndex": 0,
           "explanation": "Bernarda exige silencio («¡Silencio, silencio he dicho! ¡Silencio!») para ocultar la deshonra ante las murmuraciones del pueblo."
@@ -18749,10 +18749,10 @@
         {
           "prompt": "¿Qué tres obras teatrales componen la célebre «trilogía rural» dramática de Federico García Lorca?",
           "options": [
-            "Bodas de sangre, Yerma y La casa de Bernarda Alba (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Doña Rosita la soltera, El público y Así que pasen cinco años (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Luces de bohemia, Divinas palabras y Martes de Carnaval (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Fuenteovejuna, El caballero de Olmedo y Peribáñez (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)"
+            "Bodas de sangre, Yerma y La casa de Bernarda Alba",
+            "Doña Rosita la soltera, El público y Así que pasen cinco años",
+            "Luces de bohemia, Divinas palabras y Martes de Carnaval",
+            "Fuenteovejuna, El caballero de Olmedo y Peribáñez"
           ],
           "answerIndex": 0,
           "explanation": "Estas tres piezas configuran el ciclo trágico rural donde la pasión individual choca con las normas tradicionales.",
@@ -18761,10 +18761,10 @@
         {
           "prompt": "¿Cómo define Lorca la teoría estética del «duende» en el arte y el cante jondo?",
           "options": [
-            "Un poder misterioso que todos sienten y ningún filósofo explica, nacido de la sangre y del combate cercano con la muerte. (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Una técnica puramente matemática de métrica silábica renacentista. (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Un tipo de máscara teatral importada de la comedia del arte veneciana. (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)",
-            "Un libreto musical para coro infantil sin acompañamiento de guitarra. (Analizar la dramaturgia potica de Federico Garca Lorca en su triloga rural Bodas de sangre)"
+            "Un poder misterioso que todos sienten y ningún filósofo explica, nacido de la sangre y del combate cercano con la muerte.",
+            "Una técnica puramente matemática de métrica silábica renacentista.",
+            "Un tipo de máscara teatral importada de la comedia del arte veneciana.",
+            "Un libreto musical para coro infantil sin acompañamiento de guitarra."
           ],
           "answerIndex": 0,
           "explanation": "El duende lorquiano es la vivencia honda, intuitiva y desgarrada del arte enraizada en la tradición española.",
@@ -18817,10 +18817,10 @@
         {
           "prompt": "¿Cuál es la célebre respuesta que dan todos los habitantes del pueblo ante el juez en «Fuenteovejuna»?",
           "options": [
-            "«Fuenteovejuna lo hizo, señor» / «¿Quién mató al Comendador? Fuenteovejuna, todos a una» (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "«Fue el alcalde en defensa propia» (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "«Nadie vio nada en la plaza mayor» (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "«El rey ordenó la ejecución» (Comprender la revolucin dramtica del Siglo de Oro espaol)"
+            "«Fuenteovejuna lo hizo, señor» / «¿Quién mató al Comendador? Fuenteovejuna, todos a una»",
+            "«Fue el alcalde en defensa propia»",
+            "«Nadie vio nada en la plaza mayor»",
+            "«El rey ordenó la ejecución»"
           ],
           "answerIndex": 0,
           "explanation": "La respuesta unánime «Fuenteovejuna, todos a una» consagra la solidaridad colectiva como escudo ante la justicia."
@@ -18832,10 +18832,10 @@
         {
           "prompt": "¿Qué dilema filosófico central debate Segismundo en la torre en «La vida es sueño»?",
           "options": [
-            "El conflicto entre la predestinación fatídica de los astros y el libre albedrío moral del ser humano. (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "La teoría geocéntrica de Ptolomeo frente al copernicanismo. (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "El valor del dinero fiduciario en las colonias americanas. (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "La técnica de construcción naval de galeras mediterráneas. (Comprender la revolucin dramtica del Siglo de Oro espaol)"
+            "El conflicto entre la predestinación fatídica de los astros y el libre albedrío moral del ser humano.",
+            "La teoría geocéntrica de Ptolomeo frente al copernicanismo.",
+            "El valor del dinero fiduciario en las colonias americanas.",
+            "La técnica de construcción naval de galeras mediterráneas."
           ],
           "answerIndex": 0,
           "explanation": "Segismundo vence su supuesto destino tiránico ejerciendo la prudencia y el libre albedrío cristiano."
@@ -18847,10 +18847,10 @@
         {
           "prompt": "¿Qué tratado poético de Lope de Vega fijó las reglas del nuevo teatro comercial barroco español?",
           "options": [
-            "El arte nuevo de hacer comedias en este tiempo (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "La Poética de Aristóteles anotada (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "La Galatea y el Viaje del Parnaso (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "Teatro crítico universal (Comprender la revolucin dramtica del Siglo de Oro espaol)"
+            "El arte nuevo de hacer comedias en este tiempo",
+            "La Poética de Aristóteles anotada",
+            "La Galatea y el Viaje del Parnaso",
+            "Teatro crítico universal"
           ],
           "answerIndex": 0,
           "explanation": "En esta obra Lope defiende la libertad creativa, la polimetría y la mezcla de comedia y tragedia.",
@@ -18859,10 +18859,10 @@
         {
           "prompt": "¿Cómo se llamaban los patios interiores al aire libre entre edificios donde se representaban las comedias del Siglo de Oro?",
           "options": [
-            "Corrales de comedias (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "Anfiteatros romanos (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "Ateneos científicos (Comprender la revolucin dramtica del Siglo de Oro espaol)",
-            "Claustros catedralicios (Comprender la revolucin dramtica del Siglo de Oro espaol)"
+            "Corrales de comedias",
+            "Anfiteatros romanos",
+            "Ateneos científicos",
+            "Claustros catedralicios"
           ],
           "answerIndex": 0,
           "explanation": "Los corrales de comedias (como el del Príncipe o de la Cruz en Madrid) eran los espacios escénicos urbanos por excelencia.",
@@ -18915,10 +18915,10 @@
         {
           "prompt": "¿Qué metáfora física y óptica utiliza Valle-Inclán en «Luces de bohemia» para explicar el nacimiento del esperpento?",
           "options": [
-            "Los héroes clásicos reflejados en los espejos cóncavos del Callejón del Gato madrileño. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Un microscopio de laboratorio que agranda las bacterias. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Un telescopio astronómico apuntando a las constelaciones lejanas. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Una cámara oscura veneciana para pintar retratos al óleo. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)"
+            "Los héroes clásicos reflejados en los espejos cóncavos del Callejón del Gato madrileño.",
+            "Un microscopio de laboratorio que agranda las bacterias.",
+            "Un telescopio astronómico apuntando a las constelaciones lejanas.",
+            "Una cámara oscura veneciana para pintar retratos al óleo."
           ],
           "answerIndex": 0,
           "explanation": "Los espejos deformantes del Callejón del Gato transforman la tragedia en mueca grotesca: el esperpento."
@@ -18930,10 +18930,10 @@
         {
           "prompt": "¿Quién acompaña y traiciona a Max Estrella a lo largo de su última noche de bohemia por las tabernas de Madrid?",
           "options": [
-            "Don Latino de Híspalis (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "El Marqués de Bradomín (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Pedro Crespo (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Sancho Panza (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)"
+            "Don Latino de Híspalis",
+            "El Marqués de Bradomín",
+            "Pedro Crespo",
+            "Sancho Panza"
           ],
           "answerIndex": 0,
           "explanation": "Don Latino encarna la mezquindad, el cinismo y la degradación moral de la bohemia golfa."
@@ -18945,10 +18945,10 @@
         {
           "prompt": "¿Qué técnica expresiva caracteriza fundamentalmente a la dramaturgia del esperpento de Valle-Inclán?",
           "options": [
-            "La animalización, la cosificación y la muñequización de los personajes para subrayar su deshumanización trágica. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "El realismo fotográfico burgués con decorados naturalistas exactos. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "La declamación solemne en alejandrinos clásicos sin humor ni sátira. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "El uso de coros litúrgicos gregorianos en latín medieval. (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)"
+            "La animalización, la cosificación y la muñequización de los personajes para subrayar su deshumanización trágica.",
+            "El realismo fotográfico burgués con decorados naturalistas exactos.",
+            "La declamación solemne en alejandrinos clásicos sin humor ni sátira.",
+            "El uso de coros litúrgicos gregorianos en latín medieval."
           ],
           "answerIndex": 0,
           "explanation": "El esperpento degrada a los personajes a fantoches y animales para denunciar la farsa social.",
@@ -18957,10 +18957,10 @@
         {
           "prompt": "¿En qué obra monumental inauguró Valle-Inclán formalmente la estética del esperpento en 1920?",
           "options": [
-            "Luces de bohemia (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Sonatas de otoño (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Tirano Banderas (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)",
-            "Divinas palabras (Dominar la teora y tcnica dramatrgica del esperpento creada por ValleIncln)"
+            "Luces de bohemia",
+            "Sonatas de otoño",
+            "Tirano Banderas",
+            "Divinas palabras"
           ],
           "answerIndex": 0,
           "explanation": "«Luces de bohemia» es la pieza fundacional donde se teoriza y ejecuta plenamente el esperpento.",
@@ -19013,10 +19013,10 @@
         {
           "prompt": "¿Qué rasgo formal distingue a la zarzuela española de la ópera italiana tradicional?",
           "options": [
-            "La alternancia de pasajes hablados en prosa o verso con secciones cantadas y números de danza popular. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "El uso obligatorio de máscaras de cuero y ausencia total de orquesta. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "El canto exclusivo a capela sin ningún instrumento musical. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "La duración ininterrumpida de doce horas continuas. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)"
+            "La alternancia de pasajes hablados en prosa o verso con secciones cantadas y números de danza popular.",
+            "El uso obligatorio de máscaras de cuero y ausencia total de orquesta.",
+            "El canto exclusivo a capela sin ningún instrumento musical.",
+            "La duración ininterrumpida de doce horas continuas."
           ],
           "answerIndex": 0,
           "explanation": "A diferencia de la ópera donde todo es cantado (recitativos), la zarzuela combina diálogo hablado con música lírica."
@@ -19028,10 +19028,10 @@
         {
           "prompt": "¿Qué inmortal sainete lírico del género chico compuesto por Tomás Bretón transcurre durante la fiesta de la Virgen de la Paloma?",
           "options": [
-            "La verbena de la Paloma (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "El barberillo de Lavapiés (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "Agua, azucarillos y aguardiente (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "La corte de Faraón (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)"
+            "La verbena de la Paloma",
+            "El barberillo de Lavapiés",
+            "Agua, azucarillos y aguardiente",
+            "La corte de Faraón"
           ],
           "answerIndex": 0,
           "explanation": "«La verbena de la Paloma» es el sainete por excelencia del género chico madrileño."
@@ -19043,10 +19043,10 @@
         {
           "prompt": "¿Cuál es el baile castizo y popular más emblemático del Madrid de la zarzuela?",
           "options": [
-            "El chotis (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "La tarantela (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "La polka rusa (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "El vals vienés (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)"
+            "El chotis",
+            "La tarantela",
+            "La polka rusa",
+            "El vals vienés"
           ],
           "answerIndex": 0,
           "explanation": "El chotis madrileño es la danza castiza tradicional bailada giro a giro sobre un espacio mínimo.",
@@ -19055,10 +19055,10 @@
         {
           "prompt": "¿Qué formato teatral y comercial permitió el gran florecimiento del «género chico» a finales del siglo XIX?",
           "options": [
-            "El teatro por horas: representaciones breves de un solo acto a precios muy reducidos para el público popular. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "La suscripción nobiliaria exclusiva en palacios privados. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "Las giras en carromatos de comediantes ambulantes sin texto escrito. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)",
-            "Los festivales de teatro sacro en monasterios cistercienses. (Apreciar la zarzuela espaola como patrimonio lricoteatral singular)"
+            "El teatro por horas: representaciones breves de un solo acto a precios muy reducidos para el público popular.",
+            "La suscripción nobiliaria exclusiva en palacios privados.",
+            "Las giras en carromatos de comediantes ambulantes sin texto escrito.",
+            "Los festivales de teatro sacro en monasterios cistercienses."
           ],
           "answerIndex": 0,
           "explanation": "El 'teatro por horas' democratizó la cultura permitiendo a los trabajadores asistir a piezas cortas tras la jornada laboral.",
@@ -19111,10 +19111,10 @@
         {
           "prompt": "¿Qué concepto define la propuesta escénica radical de La Fura dels Baus nacida en los años 80?",
           "options": [
-            "El «lenguaje furero»: interacción física sin cuarta pared, uso de materiales industriales, música tecno-tribal y espacio abierto. (Examinar las corrientes contemporneas del teatro espaol)",
-            "El teatro de cámara dieciochesco con decorados de cartón piedra. (Examinar las corrientes contemporneas del teatro espaol)",
-            "La lectura estática de poemas épicos en atriles medievales. (Examinar las corrientes contemporneas del teatro espaol)",
-            "La pantomima muda en blanco y negro sin sonido ni escenografía. (Examinar las corrientes contemporneas del teatro espaol)"
+            "El «lenguaje furero»: interacción física sin cuarta pared, uso de materiales industriales, música tecno-tribal y espacio abierto.",
+            "El teatro de cámara dieciochesco con decorados de cartón piedra.",
+            "La lectura estática de poemas épicos en atriles medievales.",
+            "La pantomima muda en blanco y negro sin sonido ni escenografía."
           ],
           "answerIndex": 0,
           "explanation": "El 'lenguaje furero' sumerge al espectador en una experiencia sensorial total, física y participativa."
@@ -19126,10 +19126,10 @@
         {
           "prompt": "¿Sobre qué acontecimiento histórico reflexiona la aclamada obra «Himmelweg (Camino del cielo)» de Juan Mayorga?",
           "options": [
-            "La farsa teatral montada por los nazis en el campo de concentración de Theresienstadt para engañar a la Cruz Roja. (Examinar las corrientes contemporneas del teatro espaol)",
-            "La construcción del ferrocarril transiberiano en el siglo XIX. (Examinar las corrientes contemporneas del teatro espaol)",
-            "La llegada de Colón a la isla de Guanahani en 1492. (Examinar las corrientes contemporneas del teatro espaol)",
-            "El primer vuelo comercial transatlántico en dirigible. (Examinar las corrientes contemporneas del teatro espaol)"
+            "La farsa teatral montada por los nazis en el campo de concentración de Theresienstadt para engañar a la Cruz Roja.",
+            "La construcción del ferrocarril transiberiano en el siglo XIX.",
+            "La llegada de Colón a la isla de Guanahani en 1492.",
+            "El primer vuelo comercial transatlántico en dirigible."
           ],
           "answerIndex": 0,
           "explanation": "«Himmelweg» analiza cómo el teatro fue manipulado perversamente por la propaganda nazi para encubrir el exterminio."
@@ -19141,10 +19141,10 @@
         {
           "prompt": "¿Qué prestigioso dramaturgo, director del Teatro de La Abadía y académico de la RAE recibió el Premio Princesa de Asturias de las Letras en 2022?",
           "options": [
-            "Juan Mayorga (Examinar las corrientes contemporneas del teatro espaol)",
-            "Antonio Gala (Examinar las corrientes contemporneas del teatro espaol)",
-            "Fernando Fernán Gómez (Examinar las corrientes contemporneas del teatro espaol)",
-            "Alfonso Sastre (Examinar las corrientes contemporneas del teatro espaol)"
+            "Juan Mayorga",
+            "Antonio Gala",
+            "Fernando Fernán Gómez",
+            "Alfonso Sastre"
           ],
           "answerIndex": 0,
           "explanation": "Juan Mayorga es reconocido internacionalmente como uno de los pensadores y dramaturgos esenciales de la lengua española.",
@@ -19153,10 +19153,10 @@
         {
           "prompt": "¿En qué magno evento internacional televisado deslumbró La Fura dels Baus al mundo con la creación de una gigantesca nave humana y mitológica?",
           "options": [
-            "La ceremonia de apertura de los Juegos Olímpicos de Barcelona 1992 (Examinar las corrientes contemporneas del teatro espaol)",
-            "La Exposición Universal de Sevilla 1929. (Examinar las corrientes contemporneas del teatro espaol)",
-            "La coronación de Carlos III en Madrid. (Examinar las corrientes contemporneas del teatro espaol)",
-            "El Festival de la Canción de Eurovisión 1968. (Examinar las corrientes contemporneas del teatro espaol)"
+            "La ceremonia de apertura de los Juegos Olímpicos de Barcelona 1992",
+            "La Exposición Universal de Sevilla 1929.",
+            "La coronación de Carlos III en Madrid.",
+            "El Festival de la Canción de Eurovisión 1968."
           ],
           "answerIndex": 0,
           "explanation": "El espectáculo 'Mediterrani, mar olímpic' en Barcelona 92 proyectó la estética de La Fura dels Baus a escala planetaria.",
@@ -19209,10 +19209,10 @@
         {
           "prompt": "¿Cómo se llama la emblemática técnica artesanal gaudiniana consistente en crear mosaicos con fragmentos rotos de azulejos y cerámica?",
           "options": [
-            "Trencadís (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Grisalla (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Esgrafiado renacentista (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Taracea mudéjar (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)"
+            "Trencadís",
+            "Grisalla",
+            "Esgrafiado renacentista",
+            "Taracea mudéjar"
           ],
           "answerIndex": 0,
           "explanation": "El 'trencadís' catalán une pedazos partidos de cerámica para adaptarse a superficies curvas orgánicas."
@@ -19224,10 +19224,10 @@
         {
           "prompt": "¿Qué figura geométrica natural calculada mediante cuerdas suspendidas utilizó Gaudí para eliminar la necesidad de arbotantes exteriores?",
           "options": [
-            "El arco catenario (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "El dintel recto griego (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "El arco de medio punto romano (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "La cúpula geodésica de aluminio (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)"
+            "El arco catenario",
+            "El dintel recto griego",
+            "El arco de medio punto romano",
+            "La cúpula geodésica de aluminio"
           ],
           "answerIndex": 0,
           "explanation": "El arco catenario adopta la curva natural de una cadena colgante invertida, trabajando puramente a compresión."
@@ -19239,10 +19239,10 @@
         {
           "prompt": "¿Cuál es el templo monumental en Barcelona cuya construcción comenzó en 1882 y se convirtió en la obra cumbre de la vida de Antoni Gaudí?",
           "options": [
-            "Basílica de la Sagrada Família (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Catedral de Santa Eulalia (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Basílica de Santa María del Mar (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Monasterio de Pedralbes (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)"
+            "Basílica de la Sagrada Família",
+            "Catedral de Santa Eulalia",
+            "Basílica de Santa María del Mar",
+            "Monasterio de Pedralbes"
           ],
           "answerIndex": 0,
           "explanation": "La Sagrada Família es el símbolo imperecedero del genio místico y arquitectónico de Gaudí.",
@@ -19251,10 +19251,10 @@
         {
           "prompt": "¿Quién fue el noble y mecenas barcelonés que financió los proyectos más emblemáticos de Gaudí, incluyendo la cripta de la Colonia y el famoso parque urbano?",
           "options": [
-            "Eusebi Güell (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Josep Batlló (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Pere Milà (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)",
-            "Lluís Domènech i Montaner (Analizar la genialidad arquitectnica de Antoni Gaud y el Modernisme cataln)"
+            "Eusebi Güell",
+            "Josep Batlló",
+            "Pere Milà",
+            "Lluís Domènech i Montaner"
           ],
           "answerIndex": 0,
           "explanation": "El conde Eusebi Güell fue el gran protector y mecenas que permitió la materialización de las visiones gaudinianas.",
@@ -19307,10 +19307,10 @@
         {
           "prompt": "¿Qué elemento arquitectónico y decorativo característico del arte islámico consiste en prismas colgantes de yeso que semejan estalactitas celestes?",
           "options": [
-            "Los mocárabes (Comprender la sofisticacin arquitectnica)",
-            "Los arbotantes (Comprender la sofisticacin arquitectnica)",
-            "Los atlantes barrocos (Comprender la sofisticacin arquitectnica)",
-            "Los contrafuertes dóricos (Comprender la sofisticacin arquitectnica)"
+            "Los mocárabes",
+            "Los arbotantes",
+            "Los atlantes barrocos",
+            "Los contrafuertes dóricos"
           ],
           "answerIndex": 0,
           "explanation": "Los mocárabes (*muqarnas*) crean fascinantes geometrías tridimensionales que tamizan la luz en las cúpulas nazaríes."
@@ -19322,10 +19322,10 @@
         {
           "prompt": "¿Cuál es el lema dinástico nazarí que se repite cientos de veces grabado en la yesería y azulejos de la Alhambra?",
           "options": [
-            "«Wa-la galiba illa Allah» (Comprender la sofisticacin arquitectnica)",
-            "«Plus Ultra» (Comprender la sofisticacin arquitectnica)",
-            "«In hoc signo vinces» (Comprender la sofisticacin arquitectnica)",
-            "«Post tenebras lux» (Comprender la sofisticacin arquitectnica)"
+            "«Wa-la galiba illa Allah»",
+            "«Plus Ultra»",
+            "«In hoc signo vinces»",
+            "«Post tenebras lux»"
           ],
           "answerIndex": 0,
           "explanation": "El lema 'No hay vencedor sino Dios' es la divisa oficial grabada en la epigrafía nazarí de todo el recinto palatino."
@@ -19337,10 +19337,10 @@
         {
           "prompt": "¿Qué palacio y jardín de recreo anexo a la Alhambra servía como finca de descanso y explotación agrícola para los sultanes granadinos?",
           "options": [
-            "El Generalife (Comprender la sofisticacin arquitectnica)",
-            "El Escorial (Comprender la sofisticacin arquitectnica)",
-            "El Palacio de Aranjuez (Comprender la sofisticacin arquitectnica)",
-            "La Granja de San Ildefonso (Comprender la sofisticacin arquitectnica)"
+            "El Generalife",
+            "El Escorial",
+            "El Palacio de Aranjuez",
+            "La Granja de San Ildefonso"
           ],
           "answerIndex": 0,
           "explanation": "El Generalife ('Huerto del Arquitecto') era la residencia de verano y jardín de reposo de los monarcas nazaríes.",
@@ -19349,10 +19349,10 @@
         {
           "prompt": "¿Cuántos leones de mármol sostienen la célebre taza de la fuente en el centro del palacio mandado erigir por Muhammad V en el siglo XIV?",
           "options": [
-            "Doce leones (Comprender la sofisticacin arquitectnica)",
-            "Cuatro leones (Comprender la sofisticacin arquitectnica)",
-            "Siete leones (Comprender la sofisticacin arquitectnica)",
-            "Veinticuatro leones (Comprender la sofisticacin arquitectnica)"
+            "Doce leones",
+            "Cuatro leones",
+            "Siete leones",
+            "Veinticuatro leones"
           ],
           "answerIndex": 0,
           "explanation": "Doce leones de mármol representan una alegoría cósmica y cronológica en el corazón del patio.",
@@ -19714,10 +19714,10 @@
         {
           "prompt": "¿Qué término diplomático designa la aceptación oficial de un embajador por parte del Estado receptor?",
           "options": [
-            "El laudo (Diplomatic Protocols)",
-            "La fe de erratas (Diplomatic Protocols)",
-            "El salvoconducto (Diplomatic Protocols)",
-            "El plácet (Diplomatic Protocols)"
+            "El laudo",
+            "La fe de erratas",
+            "El salvoconducto",
+            "El plácet"
           ],
           "answerIndex": 3,
           "explanation": "El \"plácet\" es la aprobación oficial previa dada a un diplomático extranjero.",
@@ -19726,10 +19726,10 @@
         {
           "prompt": "Identifique el uso correcto en un contexto diplomático formal:",
           "options": [
-            "Pedir asilo en un comunicado de prensa no oficial. (Diplomatic Protocols)",
-            "Dar unos papeles al presidente para empezar a hablar. (Diplomatic Protocols)",
-            "Presentar las cartas credenciales conforme al protocolo de Estado. (Diplomatic Protocols)",
-            "Mandar una nota cualquiera sin sello. (Diplomatic Protocols)"
+            "Pedir asilo en un comunicado de prensa no oficial.",
+            "Dar unos papeles al presidente para empezar a hablar.",
+            "Presentar las cartas credenciales conforme al protocolo de Estado.",
+            "Mandar una nota cualquiera sin sello."
           ],
           "answerIndex": 2,
           "explanation": "Presentar las cartas credenciales es el acto protocolario formal.",
@@ -19809,10 +19809,10 @@
         {
           "prompt": "¿Cuál es la función jurídica de una \"reserva\" en un tratado internacional?",
           "options": [
-            "Acelerar la fecha de entrada en vigor sin debate parlamentario. (Multilateral Treaties)",
-            "Anular la totalidad del tratado para todas las partes. (Multilateral Treaties)",
-            "Excluir o modificar los efectos jurídicos de ciertas disposiciones para el Estado declarante. (Multilateral Treaties)",
-            "Declarar la guerra a los demás firmantes. (Multilateral Treaties)"
+            "Acelerar la fecha de entrada en vigor sin debate parlamentario.",
+            "Anular la totalidad del tratado para todas las partes.",
+            "Excluir o modificar los efectos jurídicos de ciertas disposiciones para el Estado declarante.",
+            "Declarar la guerra a los demás firmantes."
           ],
           "answerIndex": 2,
           "explanation": "Una reserva busca excluir o modificar los efectos de disposiciones específicas.",
@@ -19892,10 +19892,10 @@
         {
           "prompt": "¿Qué órgano internacional tiene la potestad exclusiva de autorizar misiones de paz vinculantes bajo el Capítulo VII?",
           "options": [
-            "La Corte Internacional de Arbitraje Deportivo (Peacekeeping Mandates)",
-            "El Consejo de Seguridad de la ONU (Peacekeeping Mandates)",
-            "La Comisión Mixta de Turismo (Peacekeeping Mandates)",
-            "El Banco Mundial (Peacekeeping Mandates)"
+            "La Corte Internacional de Arbitraje Deportivo",
+            "El Consejo de Seguridad de la ONU",
+            "La Comisión Mixta de Turismo",
+            "El Banco Mundial"
           ],
           "answerIndex": 1,
           "explanation": "El Consejo de Seguridad de la ONU es el único facultado para emitir resoluciones bajo el Capítulo VII.",
@@ -19975,10 +19975,10 @@
         {
           "prompt": "¿Qué implica el principio de \"jurisdicción universal\"?",
           "options": [
-            "La potestad de un tribunal de juzgar crímenes atroces sin importar la nacionalidad o lugar donde se cometieron. (International Sanctions)",
-            "El cobro universal de impuestos en aeropuertos internacionales. (International Sanctions)",
-            "El derecho a navegar por ríos privados sin autorización. (International Sanctions)",
-            "La obligación de registrar todas las empresas en una única bolsa de valores. (International Sanctions)"
+            "La potestad de un tribunal de juzgar crímenes atroces sin importar la nacionalidad o lugar donde se cometieron.",
+            "El cobro universal de impuestos en aeropuertos internacionales.",
+            "El derecho a navegar por ríos privados sin autorización.",
+            "La obligación de registrar todas las empresas en una única bolsa de valores."
           ],
           "answerIndex": 0,
           "explanation": "La jurisdicción universal permite juzgar crímenes internacionales graves como genocidio o crímenes de lesa humanidad.",

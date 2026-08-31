@@ -853,10 +853,10 @@
           "type": "multiple-choice",
           "prompt": "Which letter do you get if you take B (\"-...\") and remove its final dit?",
           "options": [
-            "D (Recognize and send B and C)",
-            "K (Recognize and send B and C)",
-            "N (Recognize and send B and C)",
-            "H (Recognize and send B and C)"
+            "D",
+            "K",
+            "N",
+            "H"
           ],
           "answer": "D",
           "difficulty": 720,
@@ -948,10 +948,10 @@
           "type": "multiple-choice",
           "prompt": "J and B are rhythmic mirror images of each other. What is B's rhythm?",
           "options": [
-            "One dah, then three dits (Recognize and send F and J)",
-            "One dit, then three dahs (Recognize and send F and J)",
-            "Four dits (Recognize and send F and J)",
-            "Four dahs (Recognize and send F and J)"
+            "One dah, then three dits",
+            "One dit, then three dahs",
+            "Four dits",
+            "Four dahs"
           ],
           "answer": "One dah, then three dits",
           "difficulty": 700,
@@ -1115,10 +1115,10 @@
           "type": "multiple-choice",
           "prompt": "The rhythm of V in Morse code (\"...-\") is also famous as:",
           "options": [
-            "The opening of Beethoven's Fifth Symphony (Recognize and send V)",
-            "The Morse code for SOS (Recognize and send V)",
-            "A prosign meaning \"end of message\" (Recognize and send V)",
-            "The rhythm of the letter O (Recognize and send V)"
+            "The opening of Beethoven's Fifth Symphony",
+            "The Morse code for SOS",
+            "A prosign meaning \"end of message\"",
+            "The rhythm of the letter O"
           ],
           "answer": "The opening of Beethoven's Fifth Symphony",
           "difficulty": 720,
@@ -1394,14 +1394,14 @@
           "type": "multiple-choice",
           "prompt": "Why is sending the alphabet in small chunks more reliable than sending it as one unbroken 26-letter chain?",
           "options": [
-            "It is not more reliable, it is just faster (Send key or tap the full alphabet from memory without a reference chart)",
-            "Chunked recall survives a single missed letter better — one gap does not collapse the whole sequence (Send key or tap the full alphabet from memory without a reference chart)",
-            "Chunks use fewer beats overall (Send key or tap the full alphabet from memory without a reference chart)",
-            "Only chunked sending is technically legal on the air (Send key or tap the full alphabet from memory without a reference chart)"
+            "It is not more reliable, it is just faster",
+            "Chunked recall survives a single missed letter better — one gap does not collapse the whole sequence",
+            "Chunks use fewer beats overall",
+            "Only chunked sending is technically legal on the air"
           ],
           "answer": "Chunked recall survives a single missed letter better — one gap does not collapse the whole sequence",
           "difficulty": 800,
-          "answerIndex": 0
+          "answerIndex": 1
         }
       ]
     },
@@ -1678,10 +1678,10 @@
           "type": "multiple-choice",
           "prompt": "Digit 6 (\"-....\") is the mirror image of which digit?",
           "options": [
-            "4 (Recognize and send digits 69 and 0)",
-            "9 (Recognize and send digits 69 and 0)",
-            "3 (Recognize and send digits 69 and 0)",
-            "0 (Recognize and send digits 69 and 0)"
+            "4",
+            "9",
+            "3",
+            "0"
           ],
           "answer": "4",
           "difficulty": 870,
@@ -2519,7 +2519,7 @@
             "Flag semaphore only (Demonstrate comprehensive Unit 7 Morse fluency by successfully copying a full simulated 12 WPM onair QSO exchange with 98 accuracy across mixed text)",
             "Phonetic alphabet spelling only (Demonstrate comprehensive Unit 7 Morse fluency by successfully copying a full simulated 12 WPM onair QSO exchange with 98 accuracy across mixed text)",
             "Smoke signals only (Demonstrate comprehensive Unit 7 Morse fluency by successfully copying a full simulated 12 WPM onair QSO exchange with 98 accuracy across mixed text)",
-            "Farnsworth spacing compression from 8 WPM to full 12 WPM standard timing, acoustic whole-word recognition (THE, AND, FOR, WITH)"
+            "Farnsworth spacing compression from 8 WPM to full 12 WPM standard timing, acoustic whole-word recognition"
           ],
           "answerIndex": 3,
           "explanation": "Unit 7 comprehensive 12 WPM spacing compression and on-air operational mastery.",
@@ -2593,10 +2593,10 @@
         {
           "prompt": "In standard CW telegraphy for Process high-frequency English words (THE, which timing or decode sequence is correct?",
           "options": [
-            "TEA (Process highfrequency English words THE)",
-            "TEN (Process highfrequency English words THE)",
-            "TOE (Process highfrequency English words THE)",
-            "THE (Process highfrequency English words THE)"
+            "TEA",
+            "TEN",
+            "TOE",
+            "THE"
           ],
           "answerIndex": 3,
           "explanation": "- (T) .... (H) . (E) = THE."
@@ -2604,10 +2604,10 @@
         {
           "prompt": "What is the primary benefit of whole-word acoustic copying (gestalt recognition)?",
           "options": [
-            "It avoids learning numbers (Process highfrequency English words THE)",
-            "It changes the pitch of the tone (Process highfrequency English words THE)",
-            "It eliminates the cognitive bottleneck of decoding individual letters, allowing listening speeds to leap from 12 WPM up to 20+ WPM (Process highfrequency English words THE)",
-            "It makes the sound louder (Process highfrequency English words THE)"
+            "It avoids learning numbers",
+            "It changes the pitch of the tone",
+            "It eliminates the cognitive bottleneck of decoding individual letters, allowing listening speeds to leap from 12 WPM up to 20+ WPM",
+            "It makes the sound louder"
           ],
           "answerIndex": 2,
           "explanation": "Word gestalts bypass character-by-character cognitive latency."
@@ -2619,10 +2619,10 @@
         {
           "prompt": "According to Morse code standards in Unit 8, Lesson 1: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "YOU ARE NOT (Process highfrequency English words THE)",
-            "YES AND ALL (Process highfrequency English words THE)",
-            "YET ARE ONE (Process highfrequency English words THE)",
-            "YOU ARE ALL (Process highfrequency English words THE)"
+            "YOU ARE NOT",
+            "YES AND ALL",
+            "YET ARE ONE",
+            "YOU ARE ALL"
           ],
           "answerIndex": 3,
           "explanation": "YOU ( -.-- --- ..- ) ARE ( .- .-. . ) ALL ( .- .-.. .-.. )."
@@ -2630,10 +2630,10 @@
         {
           "prompt": "Decode: `..-. --- .-. .... .. ...`",
           "options": [
-            "FAR HIT (Process highfrequency English words THE)",
-            "FOR HIM (Process highfrequency English words THE)",
-            "FOX HID (Process highfrequency English words THE)",
-            "FOR HIS (Process highfrequency English words THE)"
+            "FAR HIT",
+            "FOR HIM",
+            "FOX HID",
+            "FOR HIS"
           ],
           "answerIndex": 3,
           "explanation": "FOR ( ..-. --- .-. ) HIS ( .... .. ... )."
@@ -2645,10 +2645,10 @@
         {
           "prompt": "Match the high-frequency words to their Morse code rhythms: THE, AND, YOU, BUT:",
           "options": [
-            "All start with dot-dot-dot (Process highfrequency English words THE)",
-            "All are numbers (Process highfrequency English words THE)",
-            "THE: - .... . | AND: .- -. -.. | YOU: -.-- --- ..- | BUT: -... ..- - (Process highfrequency English words THE)",
-            "All are punctuation (Process highfrequency English words THE)"
+            "All start with dot-dot-dot",
+            "All are numbers",
+            "THE: - .... . | AND: .- -. -.. | YOU: -.-- --- ..- | BUT: -... ..- -",
+            "All are punctuation"
           ],
           "answerIndex": 2,
           "explanation": "High-frequency Morse word matching.",
@@ -2657,10 +2657,10 @@
         {
           "prompt": "Decode the full sentence: `- .... . ... ..- -. .. ... ..- .--.`",
           "options": [
-            "THE SEA IS CALM (Process highfrequency English words THE)",
-            "THE SUN IS UP (Process highfrequency English words THE)",
-            "THE SON IS OUT (Process highfrequency English words THE)",
-            "THE SKY IS BLUE (Process highfrequency English words THE)"
+            "THE SEA IS CALM",
+            "THE SUN IS UP",
+            "THE SON IS OUT",
+            "THE SKY IS BLUE"
           ],
           "answerIndex": 1,
           "explanation": "THE ( - .... . ) SUN ( ... ..- -. ) IS ( .. ... ) UP ( ..- .--. ).",
@@ -2669,10 +2669,10 @@
         {
           "prompt": "What does 'head-copying' mean in high-speed Morse code?",
           "options": [
-            "Understanding the incoming message directly in your working memory without transcribing letters onto paper (Process highfrequency English words THE)",
-            "Nodding your head to the rhythm (Process highfrequency English words THE)",
-            "Memorizing the codebook (Process highfrequency English words THE)",
-            "Wearing headphones (Process highfrequency English words THE)"
+            "Understanding the incoming message directly in your working memory without transcribing letters onto paper",
+            "Nodding your head to the rhythm",
+            "Memorizing the codebook",
+            "Wearing headphones"
           ],
           "answerIndex": 0,
           "explanation": "Head-copying is direct auditory cognitive comprehension without transcription.",
@@ -2681,10 +2681,10 @@
         {
           "prompt": "Complete: 'At 16 WPM, letters blend into words; words blend into _______.'",
           "options": [
-            "static interference (Process highfrequency English words THE)",
-            "alphabet soup (Process highfrequency English words THE)",
-            "white noise (Process highfrequency English words THE)",
-            "direct spoken language (Process highfrequency English words THE)"
+            "static interference",
+            "alphabet soup",
+            "white noise",
+            "direct spoken language"
           ],
           "answerIndex": 3,
           "explanation": "At high speeds, Morse code functions as a direct auditory spoken dialect.",
@@ -2722,10 +2722,10 @@
         {
           "prompt": "In standard CW telegraphy for Decode international amateur radio callsign structures (Prefixes, which timing or decode sequence is correct?",
           "options": [
-            "VE3ABC (Decode international amateur radio callsign structures Prefixes)",
-            "VO3ABC (Decode international amateur radio callsign structures Prefixes)",
-            "VK3ABC (Decode international amateur radio callsign structures Prefixes)",
-            "VA3ABC (Decode international amateur radio callsign structures Prefixes)"
+            "VE3ABC",
+            "VO3ABC",
+            "VK3ABC",
+            "VA3ABC"
           ],
           "answerIndex": 0,
           "explanation": "VE ( ...- . ) 3 ( ...-- ) ABC ( .- -... -.-. )."
@@ -2733,10 +2733,10 @@
         {
           "prompt": "Which country is represented by the callsign prefix 'JA' (.--- .-)?",
           "options": [
-            "Japan (Decode international amateur radio callsign structures Prefixes)",
-            "Jamaica (Decode international amateur radio callsign structures Prefixes)",
-            "Jersey (Decode international amateur radio callsign structures Prefixes)",
-            "Jordan (Decode international amateur radio callsign structures Prefixes)"
+            "Japan",
+            "Jamaica",
+            "Jersey",
+            "Jordan"
           ],
           "answerIndex": 0,
           "explanation": "JA is the ITU prefix for Japan."
@@ -2748,10 +2748,10 @@
         {
           "prompt": "According to Morse code standards in Decode international amateur radio callsign structures, what is the accurate transmission principle?",
           "options": [
-            "W2VX (Decode international amateur radio callsign structures Prefixes)",
-            "N2VX (Decode international amateur radio callsign structures Prefixes)",
-            "K2VX (Decode international amateur radio callsign structures Prefixes)",
-            "K3VX (Decode international amateur radio callsign structures Prefixes)"
+            "W2VX",
+            "N2VX",
+            "K2VX",
+            "K3VX"
           ],
           "answerIndex": 2,
           "explanation": "K ( -.- ) 2 ( ..--- ) V ( ...- ) X ( -..- ) = K2VX (USA District 2)."
@@ -2759,10 +2759,10 @@
         {
           "prompt": "Decode the British callsign: `--. ...-- --.. .--.`",
           "options": [
-            "G3ZQ (Decode international amateur radio callsign structures Prefixes)",
-            "M3ZP (Decode international amateur radio callsign structures Prefixes)",
-            "2E3ZP (Decode international amateur radio callsign structures Prefixes)",
-            "G3ZP (Decode international amateur radio callsign structures Prefixes)"
+            "G3ZQ",
+            "M3ZP",
+            "2E3ZP",
+            "G3ZP"
           ],
           "answerIndex": 3,
           "explanation": "G ( --. ) 3 ( ...-- ) Z ( --.. ) P ( .--. ) = G3ZP."
@@ -2774,10 +2774,10 @@
         {
           "prompt": "Match the callsign with its country of origin: W1AW, DL2NPS, VK4XY, PY1AA:",
           "options": [
-            "All are ships at sea (Decode international amateur radio callsign structures Prefixes)",
-            "W1AW: USA | DL2NPS: Germany | VK4XY: Australia | PY1AA: Brazil (Decode international amateur radio callsign structures Prefixes)",
-            "All are military bases (Decode international amateur radio callsign structures Prefixes)",
-            "All are British stations (Decode international amateur radio callsign structures Prefixes)"
+            "All are ships at sea",
+            "W1AW: USA | DL2NPS: Germany | VK4XY: Australia | PY1AA: Brazil",
+            "All are military bases",
+            "All are British stations"
           ],
           "answerIndex": 1,
           "explanation": "International callsign prefix matching.",
@@ -2786,10 +2786,10 @@
         {
           "prompt": "Decode the Australian callsign: `...- -.- ..--- -... -...`",
           "options": [
-            "VK2BB (Decode international amateur radio callsign structures Prefixes)",
-            "VA2BB (Decode international amateur radio callsign structures Prefixes)",
-            "VL2BB (Decode international amateur radio callsign structures Prefixes)",
-            "VE2BB (Decode international amateur radio callsign structures Prefixes)"
+            "VK2BB",
+            "VA2BB",
+            "VL2BB",
+            "VE2BB"
           ],
           "answerIndex": 0,
           "explanation": "VK ( ...- -.- ) 2 ( ..--- ) BB ( -... -... ).",
@@ -2798,10 +2798,10 @@
         {
           "prompt": "Why is recognizing the numeric call district digit (0-9) crucial during rapid callsign copy?",
           "options": [
-            "It shows the age of the operator (Decode international amateur radio callsign structures Prefixes)",
-            "It indicates how many antennas the station has (Decode international amateur radio callsign structures Prefixes)",
-            "It tells the transmitter voltage (Decode international amateur radio callsign structures Prefixes)",
-            "The number marks the exact transition between the country prefix and the station suffix, anchoring the rhythm of the callsign (Decode international amateur radio callsign structures Prefixes)"
+            "It shows the age of the operator",
+            "It indicates how many antennas the station has",
+            "It tells the transmitter voltage",
+            "The number marks the exact transition between the country prefix and the station suffix, anchoring the rhythm of the callsign"
           ],
           "answerIndex": 3,
           "explanation": "The central digit anchors the rhythmic cadence of the callsign.",
@@ -2810,10 +2810,10 @@
         {
           "prompt": "Complete: 'A standard amateur callsign consists of Prefix + Digit + _______.'",
           "options": [
-            "Serial Number (Decode international amateur radio callsign structures Prefixes)",
-            "Zip Code (Decode international amateur radio callsign structures Prefixes)",
-            "Suffix (Decode international amateur radio callsign structures Prefixes)",
-            "Password (Decode international amateur radio callsign structures Prefixes)"
+            "Serial Number",
+            "Zip Code",
+            "Suffix",
+            "Password"
           ],
           "answerIndex": 2,
           "explanation": "Prefix + Digit + Suffix is the standard international format.",
@@ -2851,10 +2851,10 @@
         {
           "prompt": "In standard CW telegraphy for Master core international Q-Codes (QTH, which timing or decode sequence is correct?",
           "options": [
-            "QSL (Master core international QCodes QTH)",
-            "QRP (Master core international QCodes QTH)",
-            "QRZ (Master core international QCodes QTH)",
-            "QTH (Master core international QCodes QTH)"
+            "QSL",
+            "QRP",
+            "QRZ",
+            "QTH"
           ],
           "answerIndex": 3,
           "explanation": "QTH = Location."
@@ -2862,9 +2862,9 @@
         {
           "prompt": "What is the difference between QRM and QRN?",
           "options": [
-            "QRM is for daytime; QRN is for nighttime (Master core international QCodes QTH)",
-            "QRM is high volume; QRN is low volume (Master core international QCodes QTH)",
-            "They are completely identical (Master core international QCodes QTH)",
+            "QRM is for daytime; QRN is for nighttime",
+            "QRM is high volume; QRN is low volume",
+            "They are completely identical",
             "QRM is Man-made interference (other stations, motors)"
           ],
           "answerIndex": 3,
@@ -2877,10 +2877,10 @@
         {
           "prompt": "According to Morse code standards in Unit 8, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "QRZ DE W1AW (Master core international QCodes QTH)",
-            "QSL DE W1AW (Master core international QCodes QTH)",
-            "QTH DE W1AW (Master core international QCodes QTH)",
-            "QSY DE W1AW (Master core international QCodes QTH)"
+            "QRZ DE W1AW",
+            "QSL DE W1AW",
+            "QTH DE W1AW",
+            "QSY DE W1AW"
           ],
           "answerIndex": 0,
           "explanation": "QRZ ( --.- .-. --.. ) DE ( -.. . ) W1AW."
@@ -2888,10 +2888,10 @@
         {
           "prompt": "What does transmitting 'QRP' (.--.- .-. .--.) indicate?",
           "options": [
-            "The station is operating with low transmitter power (Master core international QCodes QTH)",
-            "The station is about to shut down (Master core international QCodes QTH)",
-            "The operator is a beginner (Master core international QCodes QTH)",
-            "Emergency SOS signal (Master core international QCodes QTH)"
+            "The station is operating with low transmitter power",
+            "The station is about to shut down",
+            "The operator is a beginner",
+            "Emergency SOS signal"
           ],
           "answerIndex": 0,
           "explanation": "QRP denotes low-power operating."
@@ -2903,10 +2903,10 @@
         {
           "prompt": "Match the Q-codes with their meanings: QTH, QSL, QRP, QSY:",
           "options": [
-            "QTH: Location | QSL: Acknowledgment/Receipt | QRP: Low power | QSY: Change frequency (Master core international QCodes QTH)",
-            "All mean end of transmission (Master core international QCodes QTH)",
-            "All mean emergency (Master core international QCodes QTH)",
-            "All mean weather report (Master core international QCodes QTH)"
+            "QTH: Location | QSL: Acknowledgment/Receipt | QRP: Low power | QSY: Change frequency",
+            "All mean end of transmission",
+            "All mean emergency",
+            "All mean weather report"
           ],
           "answerIndex": 0,
           "explanation": "Q-code definitions matching.",
@@ -2915,10 +2915,10 @@
         {
           "prompt": "Decode: `--.- ... -.-- .---- ....- ...-- --... -----`",
           "options": [
-            "QSL 14370 (Master core international QCodes QTH)",
-            "QRN 14370 (Master core international QCodes QTH)",
-            "QTH 14370 (Master core international QCodes QTH)",
-            "QSY 14370 (Master core international QCodes QTH)"
+            "QSL 14370",
+            "QRN 14370",
+            "QTH 14370",
+            "QSY 14370"
           ],
           "answerIndex": 3,
           "explanation": "QSY ( --.- ... -.-- ) 14370 ( .---- ....- ...-- --... ----- ).",
@@ -2927,10 +2927,10 @@
         {
           "prompt": "How do you ask 'Can you acknowledge receipt?' in Morse shorthand?",
           "options": [
-            "ACK? (Master core international QCodes QTH)",
-            "OK? (Master core international QCodes QTH)",
-            "QSL? (Master core international QCodes QTH)",
-            "YES? (Master core international QCodes QTH)"
+            "ACK?",
+            "OK?",
+            "QSL?",
+            "YES?"
           ],
           "answerIndex": 2,
           "explanation": "Adding a question mark to QSL turns it into 'Can you acknowledge receipt?'.",
@@ -2939,10 +2939,10 @@
         {
           "prompt": "Complete: 'QSO refers to a completed _______.'",
           "options": [
-            "license exam (Master core international QCodes QTH)",
-            "two-way radio contact/conversation (Master core international QCodes QTH)",
-            "power outage (Master core international QCodes QTH)",
-            "antenna installation (Master core international QCodes QTH)"
+            "license exam",
+            "two-way radio contact/conversation",
+            "power outage",
+            "antenna installation"
           ],
           "answerIndex": 1,
           "explanation": "A QSO is a completed two-way contact between stations.",
@@ -2980,10 +2980,10 @@
         {
           "prompt": "In standard CW telegraphy for Decode and format a complete standard CW QSO (Two-Way Contact) exchange, which timing or decode sequence is correct?",
           "options": [
-            "The operator is 59 years old (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
+            "The operator is 59 years old",
             "Readability 5 (perfect)",
-            "There are 599 errors in the transmission (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "The frequency is 599 kHz (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "There are 599 errors in the transmission",
+            "The frequency is 599 kHz"
           ],
           "answerIndex": 1,
           "explanation": "RST = Readability (1-5), Strength (1-9), Tone (1-9)."
@@ -2991,10 +2991,10 @@
         {
           "prompt": "Why do telegraphers often transmit '5NN' instead of '599' for signal reports?",
           "options": [
-            "Because in cut-number shorthand, 'N' (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "Because 9 is an illegal number (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "Because keys cannot send 9 (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "Because 'N' stands for 'Nice' (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "Because in cut-number shorthand, 'N'",
+            "Because 9 is an illegal number",
+            "Because keys cannot send 9",
+            "Because 'N' stands for 'Nice'"
           ],
           "answerIndex": 0,
           "explanation": "Cut numbers: N (-.) replaces 9 (----.) in high-speed traffic."
@@ -3006,10 +3006,10 @@
         {
           "prompt": "According to Morse code standards in Decode and format a complete standard CW QSO, what is the accurate transmission principle?",
           "options": [
-            "OP IS MARK = 73 (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "ON IS MARK = 73 (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "OP IS MIKE = 73 (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "OP IS MATT = 73 (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "OP IS MARK = 73",
+            "ON IS MARK = 73",
+            "OP IS MIKE = 73",
+            "OP IS MATT = 73"
           ],
           "answerIndex": 0,
           "explanation": "OP IS MARK ( --- .--. .. ... -- .- .-. -.- ) = 73 ( --... ...-- )."
@@ -3017,10 +3017,10 @@
         {
           "prompt": "What does the prosign 'K' (`-.-`) at the end of an on-air transmission mean?",
           "options": [
-            "Over / Invitation for the other station to transmit (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "Emergency (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "Stop transmitting permanently (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "I am going to sleep (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "Over / Invitation for the other station to transmit",
+            "Emergency",
+            "Stop transmitting permanently",
+            "I am going to sleep"
           ],
           "answerIndex": 0,
           "explanation": "K = Invitation to transmit / Over."
@@ -3032,10 +3032,10 @@
         {
           "prompt": "Match the QSO components: CQ, DE, RST, 73:",
           "options": [
-            "All mean radio malfunction (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "All mean repeat message (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "All are callsigns (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "CQ: General call to all | DE: From / This is | RST: Signal quality report | 73: Best regards (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "All mean radio malfunction",
+            "All mean repeat message",
+            "All are callsigns",
+            "CQ: General call to all | DE: From / This is | RST: Signal quality report | 73: Best regards"
           ],
           "answerIndex": 3,
           "explanation": "QSO components matching.",
@@ -3044,10 +3044,10 @@
         {
           "prompt": "Decode: `-.- ..--- ...- -..- -.. . --. ...-- --.. .--. -.-`",
           "options": [
-            "W2VX DE G3ZP K (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "K2VX DE G3ZQ K (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "K2VX DE G3ZP K (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "K2VX DE M3ZP K (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "W2VX DE G3ZP K",
+            "K2VX DE G3ZQ K",
+            "K2VX DE G3ZP K",
+            "K2VX DE M3ZP K"
           ],
           "answerIndex": 2,
           "explanation": "K2VX ( -.- ..--- ...- -..- ) DE G3ZP K.",
@@ -3056,10 +3056,10 @@
         {
           "prompt": "What does 'HW CPY?' mean in Morse shorthand?",
           "options": [
-            "Have we cleared? (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "How copy? (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "Heavy cloud power? (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "High wattage call? (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "Have we cleared?",
+            "How copy?",
+            "Heavy cloud power?",
+            "High wattage call?"
           ],
           "answerIndex": 1,
           "explanation": "HW CPY? = How copy?",
@@ -3068,10 +3068,10 @@
         {
           "prompt": "Complete the QSO: 'TNX FER QSO ES _______ 73 SK.'",
           "options": [
-            "HPE CUAGN (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "GO AWAY (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "STOP TRANSMITTING (Decode and format a complete standard CW QSO TwoWay Contact exchange)",
-            "NO MORE (Decode and format a complete standard CW QSO TwoWay Contact exchange)"
+            "HPE CUAGN",
+            "GO AWAY",
+            "STOP TRANSMITTING",
+            "NO MORE"
           ],
           "answerIndex": 0,
           "explanation": "HPE CUAGN (Hope to see you again) is the traditional warm farewell.",
@@ -3163,7 +3163,7 @@
           "options": [
             "Building antennas out of coat hangers only (Demonstrate comprehensive Advanced Morse code mastery by decoding a full simulated realtime CW QSO exchange at 14 WPM)",
             "Using a typewriter only (Demonstrate comprehensive Advanced Morse code mastery by decoding a full simulated realtime CW QSO exchange at 14 WPM)",
-            "Acoustic whole-word gestalt copying at 14 WPM, global amateur callsign structure decoding (USA, Canada, UK, Germany, Japan)",
+            "Acoustic whole-word gestalt copying at 14 WPM, global amateur callsign structure decoding",
             "Memorizing flashcards on paper only (Demonstrate comprehensive Advanced Morse code mastery by decoding a full simulated realtime CW QSO exchange at 14 WPM)"
           ],
           "answerIndex": 2,
@@ -3367,10 +3367,10 @@
         {
           "prompt": "In standard CW telegraphy for Master the complete set of extended procedural signals (Prosigns) and operational punctuation (AA, which timing or decode sequence is correct?",
           "options": [
-            "Wait / Stand by (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "End of contact (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "All stations call now (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "Emergency SOS (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "Wait / Stand by",
+            "End of contact",
+            "All stations call now",
+            "Emergency SOS"
           ],
           "answerIndex": 0,
           "explanation": "[AS] (A and S fused: .-...) = Wait / Stand by."
@@ -3393,10 +3393,10 @@
         {
           "prompt": "According to Morse code standards in Unit 9, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "W1AW DE VE3ABC K (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "W1AW DE VE3ABC/P (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "W1AW DE VE3ABC/M SK (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "W1AW DE VE3ABC AS (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "W1AW DE VE3ABC K",
+            "W1AW DE VE3ABC/P",
+            "W1AW DE VE3ABC/M SK",
+            "W1AW DE VE3ABC AS"
           ],
           "answerIndex": 1,
           "explanation": "W1AW DE VE3ABC/P [KN]."
@@ -3404,10 +3404,10 @@
         {
           "prompt": "What does transmitting 8 rapid dits (`........`) indicate?",
           "options": [
-            "Station is laughing (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "Max volume test (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "Error / Disregard previous word, correction follows (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "Clock synchronization (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "Station is laughing",
+            "Max volume test",
+            "Error / Disregard previous word, correction follows",
+            "Clock synchronization"
           ],
           "answerIndex": 2,
           "explanation": "8 dits ([HH]) is the universal telegraphic Error / Correction prosign."
@@ -3419,10 +3419,10 @@
         {
           "prompt": "Match the fused prosigns with their meanings: [AS], [KN], [SK], [CL]:",
           "options": [
-            "AS: Stand by / Wait | KN: Specific station only | SK: End of contact | CL: Closing station / Off air (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "All mean weather (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "All are numbers (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "All mean emergency (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "AS: Stand by / Wait | KN: Specific station only | SK: End of contact | CL: Closing station / Off air",
+            "All mean weather",
+            "All are numbers",
+            "All mean emergency"
           ],
           "answerIndex": 0,
           "explanation": "Fused prosign definitions matching.",
@@ -3431,10 +3431,10 @@
         {
           "prompt": "Decode the fraction slash prosign: `-..-.`",
           "options": [
-            "= (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "? (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            ", (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "/ (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "=",
+            "?",
+            ",",
+            "/"
           ],
           "answerIndex": 3,
           "explanation": "-..-. is the official slash / fraction bar [DN].",
@@ -3443,10 +3443,10 @@
         {
           "prompt": "Why are prosigns transmitted as fused characters rather than separate letters with normal spacing?",
           "options": [
-            "Because telegraph keys jam easily (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "It was an accidental habit (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "To give them distinct, unmistakable melodic rhythmic signatures that cannot be confused with regular vocabulary words (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "To save electricity (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "Because telegraph keys jam easily",
+            "It was an accidental habit",
+            "To give them distinct, unmistakable melodic rhythmic signatures that cannot be confused with regular vocabulary words",
+            "To save electricity"
           ],
           "answerIndex": 2,
           "explanation": "Fused rhythm signatures prevent confusion with normal lexical words.",
@@ -3455,10 +3455,10 @@
         {
           "prompt": "Complete: 'When a station signs with [CL], it means the operator is _______.'",
           "options": [
-            "changing antennas (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "shutting down the station and leaving the air (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "listening to music (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)",
-            "calling for help (Master the complete set of extended procedural signals Prosigns and operational punctuation AA)"
+            "changing antennas",
+            "shutting down the station and leaving the air",
+            "listening to music",
+            "calling for help"
           ],
           "answerIndex": 1,
           "explanation": "[CL] = Closing station / Going off the air.",
@@ -3496,10 +3496,10 @@
         {
           "prompt": "In standard CW telegraphy for Execute transcription-free 20+ WPM high-speed head copy on continuous conversational and news text, which timing or decode sequence is correct?",
           "options": [
-            "RIG IS 10W (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "RADIO IS ON (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "RUN IS 100M (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "RIG IS 100W (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "RIG IS 10W",
+            "RADIO IS ON",
+            "RUN IS 100M",
+            "RIG IS 100W"
           ],
           "answerIndex": 3,
           "explanation": "RIG ( .-. .. --. ) IS ( .. ... ) 100W ( .---- ----- ----- .-- )."
@@ -3507,10 +3507,10 @@
         {
           "prompt": "What is the primary psychological barrier to achieving 20 WPM head copy?",
           "options": [
-            "Ear fatigue (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Poor tone pitch (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Lack of volume (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "The anxiety of putting down the pen and trusting subconscious auditory memory to retain meaning without a written safety net (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "Ear fatigue",
+            "Poor tone pitch",
+            "Lack of volume",
+            "The anxiety of putting down the pen and trusting subconscious auditory memory to retain meaning without a written safety net"
           ],
           "answerIndex": 3,
           "explanation": "Overcoming the psychological dependency on written transcription unlocks true head-copy fluency."
@@ -3522,10 +3522,10 @@
         {
           "prompt": "According to Morse code standards in Unit 9, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "VERY NICE SIGNAL OM (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "VERY LOUD NOISE OM (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "VOICE NOT CLEAR OM (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "VALID NEW SIGNAL OM (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "VERY NICE SIGNAL OM",
+            "VERY LOUD NOISE OM",
+            "VOICE NOT CLEAR OM",
+            "VALID NEW SIGNAL OM"
           ],
           "answerIndex": 0,
           "explanation": "VERY NICE SIGNAL OM."
@@ -3533,10 +3533,10 @@
         {
           "prompt": "What does 'OM' mean in global amateur telegraphy?",
           "options": [
-            "Old Man (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Official Member (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Over Maximum (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Operation Manager (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "Old Man",
+            "Official Member",
+            "Over Maximum",
+            "Operation Manager"
           ],
           "answerIndex": 0,
           "explanation": "OM = Old Man (traditional telegraphic term of camaraderie)."
@@ -3548,10 +3548,10 @@
         {
           "prompt": "Decode the full conversational sentence at 20 WPM: `.... --- .--. . - --- ... . . -.-- --- ..- .- --. .- .. -. ... --- --- -.`",
           "options": [
-            "HAVE TO SAY GOODBYE SOON (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "HEAR YOU VERY WELL TODAY (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "HAPPY TO HEAR YOU AGAIN TODAY (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "HOPE TO SEE YOU AGAIN SOON (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "HAVE TO SAY GOODBYE SOON",
+            "HEAR YOU VERY WELL TODAY",
+            "HAPPY TO HEAR YOU AGAIN TODAY",
+            "HOPE TO SEE YOU AGAIN SOON"
           ],
           "answerIndex": 3,
           "explanation": "HOPE TO SEE YOU AGAIN SOON.",
@@ -3560,10 +3560,10 @@
         {
           "prompt": "What is 'YL' in amateur radio shorthand?",
           "options": [
-            "Your Location (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Yesterday Late (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Young Lady (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Yellow Light (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "Your Location",
+            "Yesterday Late",
+            "Young Lady",
+            "Yellow Light"
           ],
           "answerIndex": 2,
           "explanation": "YL = Young Lady (female telegrapher).",
@@ -3572,10 +3572,10 @@
         {
           "prompt": "Why is head-copying at 20 WPM less mentally exhausting than writing down code at 10 WPM?",
           "options": [
-            "Because listening requires no brain activity (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Because head-copying bypasses manual motor transcription, utilizing natural language comprehension networks in Broca's and Wernicke's areas (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Because 20 WPM is shorter in duration (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "Because higher tones take less energy (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "Because listening requires no brain activity",
+            "Because head-copying bypasses manual motor transcription, utilizing natural language comprehension networks in Broca's and Wernicke's areas",
+            "Because 20 WPM is shorter in duration",
+            "Because higher tones take less energy"
           ],
           "answerIndex": 1,
           "explanation": "Natural linguistic processing eliminates motor transcription fatigue.",
@@ -3584,10 +3584,10 @@
         {
           "prompt": "Complete: 'At 20 WPM, Morse code becomes not a skill you perform, but a language you _______.'",
           "options": [
-            "natively speak and understand (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "struggle to hear (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "calculate mathematically (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)",
-            "read with a dictionary (Execute transcriptionfree 20 WPM highspeed head copy on continuous conversational and news text)"
+            "natively speak and understand",
+            "struggle to hear",
+            "calculate mathematically",
+            "read with a dictionary"
           ],
           "answerIndex": 0,
           "explanation": "20 WPM is native fluency in telegraphy.",
@@ -3625,10 +3625,10 @@
         {
           "prompt": "In standard CW telegraphy for Master advanced operational Q-Codes (QSK, which timing or decode sequence is correct?",
           "options": [
-            "Increase your speed to 30 WPM (Master advanced operational QCodes QSK)",
-            "Your signal is experiencing ionospheric fading (Master advanced operational QCodes QSK)",
-            "Change to frequency B (Master advanced operational QCodes QSK)",
-            "Your transmitter is on fire (Master advanced operational QCodes QSK)"
+            "Increase your speed to 30 WPM",
+            "Your signal is experiencing ionospheric fading",
+            "Change to frequency B",
+            "Your transmitter is on fire"
           ],
           "answerIndex": 1,
           "explanation": "QSB = Fading signals."
@@ -3636,10 +3636,10 @@
         {
           "prompt": "What does the shorthand 'ES' (`. ...`) mean in Morse code?",
           "options": [
-            "AND (Master advanced operational QCodes QSK)",
-            "EAST (Master advanced operational QCodes QSK)",
-            "ESCAPE (Master advanced operational QCodes QSK)",
-            "ESPECIALLY (Master advanced operational QCodes QSK)"
+            "AND",
+            "EAST",
+            "ESCAPE",
+            "ESPECIALLY"
           ],
           "answerIndex": 0,
           "explanation": "ES (. ...) is the universal telegraphic shorthand for 'AND'."
@@ -3651,10 +3651,10 @@
         {
           "prompt": "According to Morse code standards in Unit 9, Lesson 4: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "PSE QRO VERY QSB (Master advanced operational QCodes QSK)",
-            "PASS QRO VERY QSB (Master advanced operational QCodes QSK)",
-            "PLEASE QRP VERY QRM (Master advanced operational QCodes QSK)",
-            "PSE QSY VERY QTH (Master advanced operational QCodes QSK)"
+            "PSE QRO VERY QSB",
+            "PASS QRO VERY QSB",
+            "PLEASE QRP VERY QRM",
+            "PSE QSY VERY QTH"
           ],
           "answerIndex": 0,
           "explanation": "PSE (Please) QRO (Increase power) VERY QSB (Signal fading)."
@@ -3662,10 +3662,10 @@
         {
           "prompt": "What does '88' (`---.. ---..`) mean when sent between friendly operators?",
           "options": [
-            "Love and kisses (Master advanced operational QCodes QSK)",
-            "Power 88 Watts (Master advanced operational QCodes QSK)",
-            "Radio channel 88 (Master advanced operational QCodes QSK)",
-            "88 minutes remaining (Master advanced operational QCodes QSK)"
+            "Love and kisses",
+            "Power 88 Watts",
+            "Radio channel 88",
+            "88 minutes remaining"
           ],
           "answerIndex": 0,
           "explanation": "88 is traditional telegraphic shorthand for 'love and kisses'."
@@ -3677,10 +3677,10 @@
         {
           "prompt": "Match the tactical terms: WX, QSK, QRO, CUAGN:",
           "options": [
-            "All are callsigns (Master advanced operational QCodes QSK)",
-            "All mean emergency (Master advanced operational QCodes QSK)",
-            "WX: Weather | QSK: Full break-in | QRO: Increase power | CUAGN: See you again (Master advanced operational QCodes QSK)",
-            "All mean stop transmitting (Master advanced operational QCodes QSK)"
+            "All are callsigns",
+            "All mean emergency",
+            "WX: Weather | QSK: Full break-in | QRO: Increase power | CUAGN: See you again",
+            "All mean stop transmitting"
           ],
           "answerIndex": 2,
           "explanation": "Tactical shorthand matching.",
@@ -3689,10 +3689,10 @@
         {
           "prompt": "Decode the complete greeting: `-. .. -.-. . - --- -- . . - -.-- --- ..- --- --`",
           "options": [
-            "NICE TO HEAR YOU OM (Master advanced operational QCodes QSK)",
-            "NICE TO MEET YOU OM (Master advanced operational QCodes QSK)",
-            "NEED TO MEET YOU OM (Master advanced operational QCodes QSK)",
-            "NEW TO MEET YOU OM (Master advanced operational QCodes QSK)"
+            "NICE TO HEAR YOU OM",
+            "NICE TO MEET YOU OM",
+            "NEED TO MEET YOU OM",
+            "NEW TO MEET YOU OM"
           ],
           "answerIndex": 1,
           "explanation": "NICE TO MEET YOU OM.",
@@ -3701,10 +3701,10 @@
         {
           "prompt": "Why is operational shorthand essential on high-frequency (HF) amateur bands?",
           "options": [
-            "Because ionospheric propagation windows can open and close in minutes; shorthand allows maximum critical data transfer before the band fades (Master advanced operational QCodes QSK)",
-            "Because long words are illegal (Master advanced operational QCodes QSK)",
-            "Because radio operators cannot spell (Master advanced operational QCodes QSK)",
-            "Because it reduces battery usage (Master advanced operational QCodes QSK)"
+            "Because ionospheric propagation windows can open and close in minutes; shorthand allows maximum critical data transfer before the band fades",
+            "Because long words are illegal",
+            "Because radio operators cannot spell",
+            "Because it reduces battery usage"
           ],
           "answerIndex": 0,
           "explanation": "Shorthand maximizes information throughput during brief atmospheric propagation openings.",
@@ -3713,10 +3713,10 @@
         {
           "prompt": "Complete: 'When signals fade, send PSE QRO; when finished, send _______.'",
           "options": [
-            "QRM QRM QRM (Master advanced operational QCodes QSK)",
-            "STOP STOP STOP (Master advanced operational QCodes QSK)",
-            "NO MORE RADIO (Master advanced operational QCodes QSK)",
-            "73 ES CUAGN (Master advanced operational QCodes QSK)"
+            "QRM QRM QRM",
+            "STOP STOP STOP",
+            "NO MORE RADIO",
+            "73 ES CUAGN"
           ],
           "answerIndex": 3,
           "explanation": "73 ES CUAGN (Best regards and see you again).",
@@ -3883,10 +3883,10 @@
         {
           "prompt": "In standard CW telegraphy for Master formal Directed Net operations, which timing or decode sequence is correct?",
           "options": [
-            "Emergency evacuation immediately (Master formal Directed Net operations)",
-            "Close the station (Master formal Directed Net operations)",
-            "Change to frequency 2 (Master formal Directed Net operations)",
-            "Check into the formal traffic net (Master formal Directed Net operations)"
+            "Emergency evacuation immediately",
+            "Close the station",
+            "Change to frequency 2",
+            "Check into the formal traffic net"
           ],
           "answerIndex": 3,
           "explanation": "QNI = Check into the net."
@@ -3894,10 +3894,10 @@
         {
           "prompt": "Who has exclusive authority to direct traffic and assign transmission rights during a directed emergency net?",
           "options": [
-            "The station with the most power (Master formal Directed Net operations)",
-            "Any station that wants to talk (Master formal Directed Net operations)",
-            "The oldest operator (Master formal Directed Net operations)",
-            "The Net Control Station (Master formal Directed Net operations)"
+            "The station with the most power",
+            "Any station that wants to talk",
+            "The oldest operator",
+            "The Net Control Station"
           ],
           "answerIndex": 3,
           "explanation": "The Net Control Station (NCS) manages all net transmissions."
@@ -3909,10 +3909,10 @@
         {
           "prompt": "According to Morse code standards in Unit 10, Lesson 1: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "SOS (Master formal Directed Net operations)",
-            "QRP (Master formal Directed Net operations)",
-            "73 (Master formal Directed Net operations)",
-            "QNX (Master formal Directed Net operations)"
+            "SOS",
+            "QRP",
+            "73",
+            "QNX"
           ],
           "answerIndex": 3,
           "explanation": "QNX is the formal signal to request dismissal from a directed net."
@@ -3920,10 +3920,10 @@
         {
           "prompt": "What does 'Zero Beating' (QNZ) mean in CW net operations?",
           "options": [
-            "Turning off the beat (Master formal Directed Net operations)",
-            "Playing with 0 power (Master formal Directed Net operations)",
-            "Transmitting silence (Master formal Directed Net operations)",
-            "Tuning your transmitter's exact frequency so your audio sidetone matches the exact pitch of the Net Control Station, eliminating frequency drift clutter on the net (Master formal Directed Net operations)"
+            "Turning off the beat",
+            "Playing with 0 power",
+            "Transmitting silence",
+            "Tuning your transmitter's exact frequency so your audio sidetone matches the exact pitch of the Net Control Station, eliminating frequency drift clutter on the net"
           ],
           "answerIndex": 3,
           "explanation": "Zero beating aligns transmitter frequency precisely with Net Control."
@@ -3935,10 +3935,10 @@
         {
           "prompt": "Match the net Q-signals: QNI, QNX, QNZ, QNA:",
           "options": [
-            "QNI: Check into net | QNX: Excused from net | QNZ: Zero-beat frequency | QNA: Answer in net order (Master formal Directed Net operations)",
-            "All mean emergency SOS (Master formal Directed Net operations)",
-            "All are callsigns (Master formal Directed Net operations)",
-            "All mean weather (Master formal Directed Net operations)"
+            "QNI: Check into net | QNX: Excused from net | QNZ: Zero-beat frequency | QNA: Answer in net order",
+            "All mean emergency SOS",
+            "All are callsigns",
+            "All mean weather"
           ],
           "answerIndex": 0,
           "explanation": "Net procedural Q-signal matching.",
@@ -3947,10 +3947,10 @@
         {
           "prompt": "Decode: `-.- ..--- ...- -..- -.. . .-- .---- .- .-- --.- -. -..- --... ...--`",
           "options": [
-            "K2VX DE W1AW QNI 73 (Master formal Directed Net operations)",
-            "W2VX DE W1AW QNX 73 (Master formal Directed Net operations)",
-            "K2VX DE W1AW QNZ 73 (Master formal Directed Net operations)",
-            "K2VX DE W1AW QNX 73 (Master formal Directed Net operations)"
+            "K2VX DE W1AW QNI 73",
+            "W2VX DE W1AW QNX 73",
+            "K2VX DE W1AW QNZ 73",
+            "K2VX DE W1AW QNX 73"
           ],
           "answerIndex": 3,
           "explanation": "K2VX DE W1AW QNX 73.",
@@ -3959,10 +3959,10 @@
         {
           "prompt": "Why are CW telegraphy nets prioritized over voice (SSB) nets during extreme emergency disaster conditions?",
           "options": [
-            "Because CW is newer than voice (Master formal Directed Net operations)",
-            "Because voice radio is illegal during emergencies (Master formal Directed Net operations)",
-            "Because CW signals have 1/20th the bandwidth of voice signals, cutting through severe static and operating on minimal battery power when voice is completely unreadable (Master formal Directed Net operations)",
-            "Because CW requires internet (Master formal Directed Net operations)"
+            "Because CW is newer than voice",
+            "Because voice radio is illegal during emergencies",
+            "Because CW signals have 1/20th the bandwidth of voice signals, cutting through severe static and operating on minimal battery power when voice is completely unreadable",
+            "Because CW requires internet"
           ],
           "answerIndex": 2,
           "explanation": "Narrow bandwidth and high power-density make CW superior in extreme emergency conditions.",
@@ -3971,10 +3971,10 @@
         {
           "prompt": "Complete: 'A disciplined net operator listens twice as much as they _______.'",
           "options": [
-            "sleep (Master formal Directed Net operations)",
-            "transmit (Master formal Directed Net operations)",
-            "tune (Master formal Directed Net operations)",
-            "write (Master formal Directed Net operations)"
+            "sleep",
+            "transmit",
+            "tune",
+            "write"
           ],
           "answerIndex": 1,
           "explanation": "Discipline and radio silence ensure emergency channel readiness.",
@@ -4012,10 +4012,10 @@
         {
           "prompt": "In standard CW telegraphy for Master QSK (Full Break-In) operation and dual-paddle iambic keyer micro-mechanics, which timing or decode sequence is correct?",
           "options": [
-            "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "The ability to transmit without electricity (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "The ability to transmit on 10 frequencies at once (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "The ability to make the signal louder (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs",
+            "The ability to transmit without electricity",
+            "The ability to transmit on 10 frequencies at once",
+            "The ability to make the signal louder"
           ],
           "answerIndex": 0,
           "explanation": "QSK enables real-time reception between transmitted elements."
@@ -4023,10 +4023,10 @@
         {
           "prompt": "In dual-paddle iambic squeeze keying (Mode B), what happens when an operator squeezes BOTH paddles simultaneously?",
           "options": [
-            "The keyer automatically generates alternating dits and dahs (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "The transmitter shuts off (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "The keyer deletes the message (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "A constant solid tone is produced (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "The keyer automatically generates alternating dits and dahs",
+            "The transmitter shuts off",
+            "The keyer deletes the message",
+            "A constant solid tone is produced"
           ],
           "answerIndex": 0,
           "explanation": "Simultaneous squeeze produces automatic alternating dit/dah sequences."
@@ -4038,10 +4038,10 @@
         {
           "prompt": "According to Morse code standards in Unit 10, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "Iambic paddles are made of soft foam (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Straight keys are made of glass (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "It does not prevent strain (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "Iambic paddles are made of soft foam",
+            "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing",
+            "Straight keys are made of glass",
+            "It does not prevent strain"
           ],
           "answerIndex": 1,
           "explanation": "Sub-millimeter lateral finger squeezes eliminate forearm pumping fatigue."
@@ -4049,10 +4049,10 @@
         {
           "prompt": "To send the letter 'F' (`..-.`) on an iambic keyer, what is the optimal paddle gesture?",
           "options": [
-            "Tap Right paddle 4 times (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Push both paddles forward (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
+            "Tap Right paddle 4 times",
+            "Push both paddles forward",
             "Squeeze Left paddle (2 dits)",
-            "Hold down Left paddle for 5 seconds (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "Hold down Left paddle for 5 seconds"
           ],
           "answerIndex": 2,
           "explanation": "Dit-dit-dah-dit is generated via an integrated squeeze-and-release gesture."
@@ -4064,10 +4064,10 @@
         {
           "prompt": "Match the keying terms: Straight Key, Bug (Semi-Automatic), Iambic Dual Paddle, QSK:",
           "options": [
-            "All are software programs (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "All are guitar accessories (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "All are microphone types (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Straight Key: Pure manual pumping | Bug: Mechanical vibrator dits | Iambic Paddle: Electronic squeeze dual-lever | QSK: Full break-in duplex (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "All are software programs",
+            "All are guitar accessories",
+            "All are microphone types",
+            "Straight Key: Pure manual pumping | Bug: Mechanical vibrator dits | Iambic Paddle: Electronic squeeze dual-lever | QSK: Full break-in duplex"
           ],
           "answerIndex": 3,
           "explanation": "Keying technology classification matching.",
@@ -4076,10 +4076,10 @@
         {
           "prompt": "What is the standard Dit-to-Dah ratio calibrated into all electronic iambic keyers?",
           "options": [
-            "1 : 10 (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "2 : 5 (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "1 : 3 (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "1 : 1 (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "1 : 10",
+            "2 : 5",
+            "1 : 3",
+            "1 : 1"
           ],
           "answerIndex": 2,
           "explanation": "Standard Paris timing: 1 Dit = 1 unit; 1 Dah = 3 units; element space = 1 unit.",
@@ -4088,10 +4088,10 @@
         {
           "prompt": "Why is QSK break-in operation considered the supreme safety protocol for emergency traffic nets?",
           "options": [
-            "Because it requires no license (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Because an emergency distress station with urgent priority traffic can break in instantly mid-sentence without waiting for a 3-minute transmission to finish (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Because it prevents lightning strikes (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "Because it makes the radio cooler (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "Because it requires no license",
+            "Because an emergency distress station with urgent priority traffic can break in instantly mid-sentence without waiting for a 3-minute transmission to finish",
+            "Because it prevents lightning strikes",
+            "Because it makes the radio cooler"
           ],
           "answerIndex": 1,
           "explanation": "Instantaneous mid-transmission break-in for urgent priority traffic.",
@@ -4100,10 +4100,10 @@
         {
           "prompt": "Complete: 'Master keying is not force; it is _______.'",
           "options": [
-            "relaxed, effortless rhythmic precision (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "loud banging (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "fast guessing (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)",
-            "hard physical labor (Master QSK Full BreakIn operation and dualpaddle iambic keyer micromechanics)"
+            "relaxed, effortless rhythmic precision",
+            "loud banging",
+            "fast guessing",
+            "hard physical labor"
           ],
           "answerIndex": 0,
           "explanation": "Relaxed micro-gestures and effortless rhythmic precision.",
@@ -4141,10 +4141,10 @@
         {
           "prompt": "In standard CW telegraphy for Filter extreme QRM (man-made adjacent channel interference) and QRN (atmospheric thunderstorm static crashes), which timing or decode sequence is correct?",
           "options": [
-            "It makes the receiver louder (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "It turns off the other stations (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "The auditory cortex selectively amplifies the specific frequency and rhythm of the target station while suppressing all adjacent competing audio signals (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "It converts code into text automatically (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "It makes the receiver louder",
+            "It turns off the other stations",
+            "The auditory cortex selectively amplifies the specific frequency and rhythm of the target station while suppressing all adjacent competing audio signals",
+            "It converts code into text automatically"
           ],
           "answerIndex": 2,
           "explanation": "Selective auditory attention acts as a powerful organic biological filter."
@@ -4152,10 +4152,10 @@
         {
           "prompt": "What is the recommended receiver DSP filter bandwidth for comfortable high-speed CW copy without acoustic 'ringing'?",
           "options": [
-            "10 kHz (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "10 Hz (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "0 Hz (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "250 Hz to 400 Hz (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "10 kHz",
+            "10 Hz",
+            "0 Hz",
+            "250 Hz to 400 Hz"
           ],
           "answerIndex": 3,
           "explanation": "250 Hz to 400 Hz provides optimal adjacent channel rejection without ringing."
@@ -4167,10 +4167,10 @@
         {
           "prompt": "According to Morse code standards in Unit 10, Lesson 3: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Asking the sender to repeat the entire message from the beginning (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Changing the antenna (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Giving up the contact (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap",
+            "Asking the sender to repeat the entire message from the beginning",
+            "Changing the antenna",
+            "Giving up the contact"
           ],
           "answerIndex": 0,
           "explanation": "Top-down linguistic context repairs fragmented signals."
@@ -4179,9 +4179,9 @@
           "prompt": "What does a signal report of 'RST 339' mean?",
           "options": [
             "Readability 3 (readable with considerable difficulty)",
-            "Perfect signal (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "No signal (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Station is in zone 33 (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "Perfect signal",
+            "No signal",
+            "Station is in zone 33"
           ],
           "answerIndex": 0,
           "explanation": "RST 339 indicates a weak, difficult, but copyable signal."
@@ -4193,10 +4193,10 @@
         {
           "prompt": "Match the noise types: QRM, QRN, QSB, Auroral Flutter:",
           "options": [
-            "All are software bugs (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "All are sunspots (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "QRM: Man-made station interference | QRN: Thunderstorm atmospheric static | QSB: Periodic ionospheric fading | Auroral Flutter: Polar magnetic multipath distortion (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "All are lightning (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "All are software bugs",
+            "All are sunspots",
+            "QRM: Man-made station interference | QRN: Thunderstorm atmospheric static | QSB: Periodic ionospheric fading | Auroral Flutter: Polar magnetic multipath distortion",
+            "All are lightning"
           ],
           "answerIndex": 2,
           "explanation": "Radio noise phenomena matching.",
@@ -4205,10 +4205,10 @@
         {
           "prompt": "Why can Morse code be decoded at Signal-to-Noise Ratios (SNR) below 0 dB (where noise is louder than the signal)?",
           "options": [
-            "Because telegraph keys boost volume (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Because CW energy is concentrated in a razor-thin single-frequency carrier tone whose repetitive rhythmic coherence can be detected by human neural pattern-matchers beneath white noise (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Because of precise rhythmic audio pattern recognition. (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "Because noise has no effect on radio waves (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "Because telegraph keys boost volume",
+            "Because CW energy is concentrated in a razor-thin single-frequency carrier tone whose repetitive rhythmic coherence can be detected by human neural pattern-matchers beneath white noise",
+            "Because of precise rhythmic audio pattern recognition.",
+            "Because noise has no effect on radio waves"
           ],
           "answerIndex": 1,
           "explanation": "Rhythmic coherence and narrow carrier energy enable sub-noise floor detection.",
@@ -4218,9 +4218,9 @@
           "prompt": "What is 'audio sidetone' on a CW transmitter?",
           "options": [
             "An internal audio oscillator that plays a pleasant tone (typically 500-700 Hz)",
-            "A speaker distortion (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "A radio advertisement (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "A buzzing background error (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "A speaker distortion",
+            "A radio advertisement",
+            "A buzzing background error"
           ],
           "answerIndex": 0,
           "explanation": "Sidetone allows the operator to monitor their own keying in real time.",
@@ -4229,10 +4229,10 @@
         {
           "prompt": "Complete: 'The true master hears not the noise of the world, but the _______.'",
           "options": [
-            "loudest speaker (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "sound of silence (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "static on the radio (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)",
-            "pure signal cutting through the storm (Filter extreme QRM manmade adjacent channel interference and QRN atmospheric thunderstorm static crashes)"
+            "loudest speaker",
+            "sound of silence",
+            "static on the radio",
+            "pure signal cutting through the storm"
           ],
           "answerIndex": 3,
           "explanation": "Isolating the pure signal cutting through atmospheric noise.",
@@ -4270,10 +4270,10 @@
         {
           "prompt": "In standard CW telegraphy for Master real-time error detection, which timing or decode sequence is correct?",
           "options": [
-            "Send SOS 3 times (Master realtime error detection)",
-            "Send the 8-dit error prosign (Master realtime error detection)",
-            "Repeat the entire message from word 1 (Master realtime error detection)",
-            "Turn off the radio in shame (Master realtime error detection)"
+            "Send SOS 3 times",
+            "Send the 8-dit error prosign",
+            "Repeat the entire message from word 1",
+            "Turn off the radio in shame"
           ],
           "answerIndex": 1,
           "explanation": "8 dits followed by repeating the last correct word is the standard correction protocol."
@@ -4281,10 +4281,10 @@
         {
           "prompt": "What does the fill request `..--.. .-- .- -.. --- -.-. - --- .-.` (? WA DOCTOR) mean?",
           "options": [
-            "Please repeat the Word After the word 'DOCTOR' (Master realtime error detection)",
-            "Please repeat the Word Before 'DOCTOR' (Master realtime error detection)",
-            "Cancel message to doctor (Master realtime error detection)",
-            "Is there a doctor on frequency? (Master realtime error detection)"
+            "Please repeat the Word After the word 'DOCTOR'",
+            "Please repeat the Word Before 'DOCTOR'",
+            "Cancel message to doctor",
+            "Is there a doctor on frequency?"
           ],
           "answerIndex": 0,
           "explanation": "? WA = Repeat Word After."
@@ -4296,10 +4296,10 @@
         {
           "prompt": "According to Morse code standards in Unit 10, Lesson 4: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "Please repeat the Word Before 'BOSTON' (Master realtime error detection)",
-            "Weather in Boston (Master realtime error detection)",
-            "Please repeat the Word After 'BOSTON' (Master realtime error detection)",
-            "Where is Boston? (Master realtime error detection)"
+            "Please repeat the Word Before 'BOSTON'",
+            "Weather in Boston",
+            "Please repeat the Word After 'BOSTON'",
+            "Where is Boston?"
           ],
           "answerIndex": 0,
           "explanation": "? WB = Repeat Word Before."
@@ -4307,10 +4307,10 @@
         {
           "prompt": "What is the advantage of using surgical fill requests (? WA / ? WB) instead of asking to repeat the whole message (? AGN)?",
           "options": [
-            "It saves 90% of transmission time and minimizes frequency congestion by targeting only the single dropped word (Master realtime error detection)",
-            "It makes the transmitter cooler (Master realtime error detection)",
-            "It gives double points in contests (Master realtime error detection)",
-            "It is required by law (Master realtime error detection)"
+            "It saves 90% of transmission time and minimizes frequency congestion by targeting only the single dropped word",
+            "It makes the transmitter cooler",
+            "It gives double points in contests",
+            "It is required by law"
           ],
           "answerIndex": 0,
           "explanation": "Surgical fills recover missing data in seconds without wasting net time."
@@ -4322,10 +4322,10 @@
         {
           "prompt": "Match the fill requests: ? WA, ? WB, ? AA, ? AB:",
           "options": [
-            "All mean send slower (Master realtime error detection)",
-            "? WA: Word After | ? WB: Word Before | ? AA: All After | ? AB: All Before (Master realtime error detection)",
-            "All are greetings (Master realtime error detection)",
-            "All mean send faster (Master realtime error detection)"
+            "All mean send slower",
+            "? WA: Word After | ? WB: Word Before | ? AA: All After | ? AB: All Before",
+            "All are greetings",
+            "All mean send faster"
           ],
           "answerIndex": 1,
           "explanation": "Fill request shorthand matching.",
@@ -4334,10 +4334,10 @@
         {
           "prompt": "Decode: `... .-. .. .- --. -. .--. ... .`",
           "options": [
-            "SRI AGN PSE (Master realtime error detection)",
-            "SEND ALL PLEASE (Master realtime error detection)",
-            "STATION AGAIN PLEASE (Master realtime error detection)",
-            "STOP AGAIN PLEASE (Master realtime error detection)"
+            "SRI AGN PSE",
+            "SEND ALL PLEASE",
+            "STATION AGAIN PLEASE",
+            "STOP AGAIN PLEASE"
           ],
           "answerIndex": 0,
           "explanation": "SRI AGN PSE = Sorry, please repeat again.",
@@ -4346,10 +4346,10 @@
         {
           "prompt": "Why is psychological composure essential when keying errors occur during live high-speed operations?",
           "options": [
-            "Because time runs out (Master realtime error detection)",
-            "Because keys will break (Master realtime error detection)",
-            "Because listeners will disconnect (Master realtime error detection)",
-            "Because flustering leads to cascading errors and rhythm collapse, whereas calm 8-dit correction restores smooth cadence immediately (Master realtime error detection)"
+            "Because time runs out",
+            "Because keys will break",
+            "Because listeners will disconnect",
+            "Because flustering leads to cascading errors and rhythm collapse, whereas calm 8-dit correction restores smooth cadence immediately"
           ],
           "answerIndex": 3,
           "explanation": "Composure prevents cascading error spirals and maintains rhythmic flow.",
@@ -4358,10 +4358,10 @@
         {
           "prompt": "Complete: 'To err is human; to correct with 8 dits and recover instantly is _______.'",
           "options": [
-            "a software glitch (Master realtime error detection)",
-            "impossible (Master realtime error detection)",
-            "grandmaster telegraphy (Master realtime error detection)",
-            "unnecessary (Master realtime error detection)"
+            "a software glitch",
+            "impossible",
+            "grandmaster telegraphy",
+            "unnecessary"
           ],
           "answerIndex": 2,
           "explanation": "Instantaneous error recovery is the hallmark of grandmaster telegraphy.",
@@ -4451,7 +4451,7 @@
         {
           "prompt": "What core competencies were mastered across the ENTIRE 50-Lesson FEARN Morse Code Curriculum?",
           "options": [
-            "All 26 letters via Koch auditory method, numbers 0-9, full punctuation, Farnsworth spacing compression (QTH, QSL, QRM, QRN, QRP, QRZ, QSK, QSB, QRO)",
+            "All 26 letters via Koch auditory method, numbers 0-9, full punctuation, Farnsworth spacing compression",
             "Using an iPhone keyboard only (Demonstrate complete Master Grand Operator Morse code proficiency across all 10 units by completing the Grand Capstone Simulation)",
             "Reading sheet music only (Demonstrate complete Master Grand Operator Morse code proficiency across all 10 units by completing the Grand Capstone Simulation)",
             "Semaphore flags only (Demonstrate complete Master Grand Operator Morse code proficiency across all 10 units by completing the Grand Capstone Simulation)"
@@ -4538,10 +4538,10 @@
         {
           "prompt": "In standard CW telegraphy for Decode and encode core punctuation marks, which timing or decode sequence is correct?",
           "options": [
-            ".-.-.- (Decode and encode core punctuation marks)",
-            "--..-- (Decode and encode core punctuation marks)",
-            "-..-. (Decode and encode core punctuation marks)",
-            "..-..- (Decode and encode core punctuation marks)"
+            ".-.-.-",
+            "--..--",
+            "-..-.",
+            "..-..-"
           ],
           "answerIndex": 3,
           "explanation": "..--.. is the universal Question Mark."
@@ -4549,10 +4549,10 @@
         {
           "prompt": "What character does the six-element rhythmic pattern '.-.-.-' (dit-dah-dit-dah-dit-dah) represent?",
           "options": [
-            "Comma (Decode and encode core punctuation marks)",
-            "Exclamation Mark (Decode and encode core punctuation marks)",
-            "Slash (Decode and encode core punctuation marks)",
-            "Period / Full Stop (Decode and encode core punctuation marks)"
+            "Comma",
+            "Exclamation Mark",
+            "Slash",
+            "Period / Full Stop"
           ],
           "answerIndex": 3,
           "explanation": ".-.-.- represents a Period (.)."
@@ -4564,10 +4564,10 @@
         {
           "prompt": "According to Morse code standards in Decode and encode core punctuation marks, what is the accurate transmission principle?",
           "options": [
-            ". (Decode and encode core punctuation marks)",
-            ", (Decode and encode core punctuation marks)",
-            "/ (Decode and encode core punctuation marks)",
-            "? (Decode and encode core punctuation marks)"
+            ".",
+            ",",
+            "/",
+            "?"
           ],
           "answerIndex": 3,
           "explanation": "..--.. = Question Mark."
@@ -4575,10 +4575,10 @@
         {
           "prompt": "What is the Morse code for the slash character '/' in 'K1ABC/P'?",
           "options": [
-            ".-.-.- (Decode and encode core punctuation marks)",
-            "--..-- (Decode and encode core punctuation marks)",
-            "..--.. (Decode and encode core punctuation marks)",
-            "-..-. (Decode and encode core punctuation marks)"
+            ".-.-.-",
+            "--..--",
+            "..--..",
+            "-..-."
           ],
           "answerIndex": 3,
           "explanation": "-..-. is the Slash (/)."
@@ -4590,10 +4590,10 @@
         {
           "prompt": "Match the four core punctuation marks: Period, Comma, Question Mark, Slash:",
           "options": [
-            "Period: --..-- | Comma: .-.-.- | Question: -..-. | Slash: ..--.. (Decode and encode core punctuation marks)",
-            "Period: ..--.. | Comma: -..-. | Question: .-.-.- | Slash: --..-- (Decode and encode core punctuation marks)",
-            "All punctuation uses 1 dit (Decode and encode core punctuation marks)",
-            "Period: .-.-.- | Comma: --..-- | Question: ..--.. | Slash: -..-. (Decode and encode core punctuation marks)"
+            "Period: --..-- | Comma: .-.-.- | Question: -..-. | Slash: ..--..",
+            "Period: ..--.. | Comma: -..-. | Question: .-.-.- | Slash: --..--",
+            "All punctuation uses 1 dit",
+            "Period: .-.-.- | Comma: --..-- | Question: ..--.. | Slash: -..-."
           ],
           "answerIndex": 3,
           "explanation": "The 4 core punctuation codes in International Morse.",
@@ -4602,10 +4602,10 @@
         {
           "prompt": "What is the rhythmic structure of the Comma (--..--)?",
           "options": [
-            "Six dits in a row (Decode and encode core punctuation marks)",
-            "Six dahs in a row (Decode and encode core punctuation marks)",
-            "Two dahs, two dits, two dahs (Decode and encode core punctuation marks)",
-            "Alternating dits and dahs (Decode and encode core punctuation marks)"
+            "Six dits in a row",
+            "Six dahs in a row",
+            "Two dahs, two dits, two dahs",
+            "Alternating dits and dahs"
           ],
           "answerIndex": 2,
           "explanation": "--..-- = two dahs, two dits, two dahs.",
@@ -4614,10 +4614,10 @@
         {
           "prompt": "In on-air amateur radio CW, what does sending a standalone '?' (..--..) indicate?",
           "options": [
-            "'My radio is broken' (Decode and encode core punctuation marks)",
-            "'Please repeat what you just sent / I did not copy' (Decode and encode core punctuation marks)",
-            "'Send faster' (Decode and encode core punctuation marks)",
-            "'I am turning off the power' (Decode and encode core punctuation marks)"
+            "'My radio is broken'",
+            "'Please repeat what you just sent / I did not copy'",
+            "'Send faster'",
+            "'I am turning off the power'"
           ],
           "answerIndex": 1,
           "explanation": "A standalone question mark requests a retransmission.",
@@ -4626,10 +4626,10 @@
         {
           "prompt": "Decode: `--..--`",
           "options": [
-            "Comma (Decode and encode core punctuation marks)",
-            "Question mark (Decode and encode core punctuation marks)",
-            "Slash (Decode and encode core punctuation marks)",
-            "Period (Decode and encode core punctuation marks)"
+            "Comma",
+            "Question mark",
+            "Slash",
+            "Period"
           ],
           "answerIndex": 0,
           "explanation": "--..-- is Comma.",
@@ -4672,10 +4672,10 @@
         {
           "prompt": "Which operational procedure or procedural signal (prosign) is indicated?",
           "options": [
-            "dah-dit-dit-dit-dah (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "dah-dit-dah-dit (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "dah-dah-dah (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "dit-dit-dit (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "dah-dit-dit-dit-dah",
+            "dah-dit-dah-dit",
+            "dah-dah-dah",
+            "dit-dit-dit"
           ],
           "answerIndex": 0,
           "explanation": "-...- is the BT break prosign."
@@ -4683,10 +4683,10 @@
         {
           "prompt": "How is the prosign BT used in everyday amateur radio Morse code?",
           "options": [
-            "As a conversational pause/separator between sentences and thoughts (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "To indicate the radio is catching on fire (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "To send audio tones (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "To switch to voice communication (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "As a conversational pause/separator between sentences and thoughts",
+            "To indicate the radio is catching on fire",
+            "To send audio tones",
+            "To switch to voice communication"
           ],
           "answerIndex": 0,
           "explanation": "BT separates thoughts and sentences in CW traffic."
@@ -4698,10 +4698,10 @@
         {
           "prompt": "According to Morse code standards in Unit 6, Lesson 2: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "AR (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "BT (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "SK (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "KN (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "AR",
+            "BT",
+            "SK",
+            "KN"
           ],
           "answerIndex": 1,
           "explanation": "-...- = BT."
@@ -4709,10 +4709,10 @@
         {
           "prompt": "What is the code for a Colon (:) in Morse?",
           "options": [
-            "...--- (Decode and apply the ubiquitous breakseparator prosign BT)",
-            ".-.-.- (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "---... (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "-....- (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "...---",
+            ".-.-.-",
+            "---...",
+            "-....-"
           ],
           "answerIndex": 2,
           "explanation": "---... is the Colon (:)."
@@ -4724,10 +4724,10 @@
         {
           "prompt": "What defines a 'prosign' in Morse telegraphy?",
           "options": [
-            "A signal sent at double volume (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "A word with 5 vowels (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "Two standard characters transmitted run together with zero space between them as a single procedural command (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "A letter typed in capital font (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "A signal sent at double volume",
+            "A word with 5 vowels",
+            "Two standard characters transmitted run together with zero space between them as a single procedural command",
+            "A letter typed in capital font"
           ],
           "answerIndex": 2,
           "explanation": "Prosigns are run-together characters (e.g. B + T = BT).",
@@ -4736,10 +4736,10 @@
         {
           "prompt": "In the transmission 'HW CPY -...- RIG IS 5W -...- ANT IS DIPOLE', what is the function of -...-?",
           "options": [
-            "It cancels the transmission. (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "It acts as a thought separator/break between clauses. (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "It changes frequency. (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "It is a spelling error. (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "It cancels the transmission.",
+            "It acts as a thought separator/break between clauses.",
+            "It changes frequency.",
+            "It is a spelling error."
           ],
           "answerIndex": 1,
           "explanation": "BT separates clauses.",
@@ -4748,10 +4748,10 @@
         {
           "prompt": "What is the Morse code for Hyphen / Dash (-)?",
           "options": [
-            "-....- (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "---... (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "-...- (Decode and apply the ubiquitous breakseparator prosign BT)",
-            ".-.-.- (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "-....-",
+            "---...",
+            "-...-",
+            ".-.-.-"
           ],
           "answerIndex": 0,
           "explanation": "-....- is Hyphen.",
@@ -4760,10 +4760,10 @@
         {
           "prompt": "Why do operators prefer $\\overline{BT}$ over a standard Period (.-.-.-) during rapid chat?",
           "options": [
-            "Periods make loud noise. (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "Periods are forbidden on amateur radio. (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "BT is only for emergencies. (Decode and apply the ubiquitous breakseparator prosign BT)",
-            "BT (Decode and apply the ubiquitous breakseparator prosign BT)"
+            "Periods make loud noise.",
+            "Periods are forbidden on amateur radio.",
+            "BT is only for emergencies.",
+            "BT"
           ],
           "answerIndex": 3,
           "explanation": "BT is shorter, punchier, and sounds natural as a conversational cadence.",
@@ -4806,10 +4806,10 @@
         {
           "prompt": "In standard CW telegraphy for Distinguish and execute turn-taking and transmission-ending procedural signals, which timing or decode sequence is correct?",
           "options": [
-            "'Kill the power' (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "'Keep waiting' (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "'Over / Go ahead — any station is invited to transmit' (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "'Keyboard error' (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "'Kill the power'",
+            "'Keep waiting'",
+            "'Over / Go ahead — any station is invited to transmit'",
+            "'Keyboard error'"
           ],
           "answerIndex": 2,
           "explanation": "K is the universal 'Go ahead / Over' invitation."
@@ -4817,10 +4817,10 @@
         {
           "prompt": "What is the difference between 'K' (-.-) and 'KN' (-.--.)?",
           "options": [
-            "K is faster than KN. (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "KN is an emergency distress code. (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "There is no difference. (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "K invites ANY station to reply; KN strictly invites ONLY the specific named station addressed. (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "K is faster than KN.",
+            "KN is an emergency distress code.",
+            "There is no difference.",
+            "K invites ANY station to reply; KN strictly invites ONLY the specific named station addressed."
           ],
           "answerIndex": 3,
           "explanation": "KN restricts response to the designated station only."
@@ -4832,10 +4832,10 @@
         {
           "prompt": "According to Morse code standards in Distinguish and execute turn-taking and transmission-ending procedural signals, what is the accurate transmission principle?",
           "options": [
-            "AR (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "BT (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "SOS (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "SK (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "AR",
+            "BT",
+            "SOS",
+            "SK"
           ],
           "answerIndex": 0,
           "explanation": ".-.-. is the AR prosign (A + R run together)."
@@ -4843,10 +4843,10 @@
         {
           "prompt": "Which prosign should you send at the end of an open CQ call to invite listeners to answer?",
           "options": [
-            "K (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "KN (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "SK (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "AS (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "K",
+            "KN",
+            "SK",
+            "AS"
           ],
           "answerIndex": 0,
           "explanation": "An open CQ call closes with 'K'."
@@ -4858,10 +4858,10 @@
         {
           "prompt": "Match the turn-taking prosigns: K, KN, AR:",
           "options": [
-            "All three mean the same thing (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "K: Go ahead any station | KN: Go ahead named station only | AR: End of message (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "K: Stop | KN: Go | AR: Repeat (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "K: End of message | KN: Wait | AR: Go ahead (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "All three mean the same thing",
+            "K: Go ahead any station | KN: Go ahead named station only | AR: End of message",
+            "K: Stop | KN: Go | AR: Repeat",
+            "K: End of message | KN: Wait | AR: Go ahead"
           ],
           "answerIndex": 1,
           "explanation": "Core turn-taking protocol in Morse traffic.",
@@ -4870,10 +4870,10 @@
         {
           "prompt": "What is the rhythmic composition of the AR prosign (.-.-.)?",
           "options": [
-            "dit-dah-dit-dah-dit (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "dah-dit-dah (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "dah-dah-dah (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "dit-dit-dit (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "dit-dah-dit-dah-dit",
+            "dah-dit-dah",
+            "dah-dah-dah",
+            "dit-dit-dit"
           ],
           "answerIndex": 0,
           "explanation": "A (.-) + R (.-.) merged without gap = .-.-.",
@@ -4882,10 +4882,10 @@
         {
           "prompt": "Why is 'KN' critical during a DX (long-distance rare station) contact?",
           "options": [
-            "To switch antennas (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "It is required by the FCC on weekends (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "To increase transmitter wattage (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "To prevent hundreds of listening stations in the pileup from transmitting over the weak DX station's response (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "To switch antennas",
+            "It is required by the FCC on weekends",
+            "To increase transmitter wattage",
+            "To prevent hundreds of listening stations in the pileup from transmitting over the weak DX station's response"
           ],
           "answerIndex": 3,
           "explanation": "KN maintains order during high-traffic radio pileups.",
@@ -4894,10 +4894,10 @@
         {
           "prompt": "Decode: `-.--.`",
           "options": [
-            "AR (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "AS (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "KN (Distinguish and execute turntaking and transmissionending procedural signals)",
-            "BT (Distinguish and execute turntaking and transmissionending procedural signals)"
+            "AR",
+            "AS",
+            "KN",
+            "BT"
           ],
           "answerIndex": 2,
           "explanation": "-.--. is KN.",
@@ -4940,10 +4940,10 @@
         {
           "prompt": "In standard CW telegraphy for Decode and execute operational closing and standby signs, which timing or decode sequence is correct?",
           "options": [
-            "'Signal is weak' (Decode and execute operational closing and standby signs)",
+            "'Signal is weak'",
             "'End of contact / final sign-off (Silent Key)",
-            "'Send emergency help' (Decode and execute operational closing and standby signs)",
-            "'Start sending faster' (Decode and execute operational closing and standby signs)"
+            "'Send emergency help'",
+            "'Start sending faster'"
           ],
           "answerIndex": 1,
           "explanation": "SK concludes the entire radio contact."
@@ -4951,10 +4951,10 @@
         {
           "prompt": "If you make a typo while sending Morse code, how do you officially signal an error to the receiving operator?",
           "options": [
-            "Send 8 rapid dits (Decode and execute operational closing and standby signs)",
-            "Turn off the power (Decode and execute operational closing and standby signs)",
-            "Send SOS (Decode and execute operational closing and standby signs)",
-            "Send 5 dahs (Decode and execute operational closing and standby signs)"
+            "Send 8 rapid dits",
+            "Turn off the power",
+            "Send SOS",
+            "Send 5 dahs"
           ],
           "answerIndex": 0,
           "explanation": "8 dits (HH) is the standard error correction signal."
@@ -4966,10 +4966,10 @@
         {
           "prompt": "According to Morse code standards in Decode and execute operational closing and standby signs, what is the accurate transmission principle?",
           "options": [
-            "AS (Decode and execute operational closing and standby signs)",
-            "BT (Decode and execute operational closing and standby signs)",
-            "SK (Decode and execute operational closing and standby signs)",
-            "AR (Decode and execute operational closing and standby signs)"
+            "AS",
+            "BT",
+            "SK",
+            "AR"
           ],
           "answerIndex": 0,
           "explanation": ".-... is the AS wait prosign."
@@ -4978,9 +4978,9 @@
           "prompt": "What does '73 ES GD DX SK' mean at the end of a contact?",
           "options": [
             "'Best regards and good long-distance contacts, final sign-off (end of QSO)",
-            "'Emergency distress' (Decode and execute operational closing and standby signs)",
-            "'Please wait 73 minutes' (Decode and execute operational closing and standby signs)",
-            "'Send 73 dollars' (Decode and execute operational closing and standby signs)"
+            "'Emergency distress'",
+            "'Please wait 73 minutes'",
+            "'Send 73 dollars'"
           ],
           "answerIndex": 0,
           "explanation": "73 = best regards, ES = and, GD DX = good long distance, SK = end of contact."
@@ -4992,10 +4992,10 @@
         {
           "prompt": "Match the operational signals: SK, AS, 8 Dits:",
           "options": [
-            "SK: Final sign-off | AS: Stand by / wait | 8 Dits: Error correction (Decode and execute operational closing and standby signs)",
-            "SK: Error | AS: Final sign-off | 8 Dits: Wait (Decode and execute operational closing and standby signs)",
-            "All mean repeat message (Decode and execute operational closing and standby signs)",
-            "SK: Wait | AS: Error | 8 Dits: Final sign-off (Decode and execute operational closing and standby signs)"
+            "SK: Final sign-off | AS: Stand by / wait | 8 Dits: Error correction",
+            "SK: Error | AS: Final sign-off | 8 Dits: Wait",
+            "All mean repeat message",
+            "SK: Wait | AS: Error | 8 Dits: Final sign-off"
           ],
           "answerIndex": 0,
           "explanation": "Core operational and error management signals.",
@@ -5004,10 +5004,10 @@
         {
           "prompt": "What is the rhythmic structure of the SK prosign (...-.-)?",
           "options": [
-            "dit-dah-dit-dah (Decode and execute operational closing and standby signs)",
-            "dah-dah-dah (Decode and execute operational closing and standby signs)",
-            "dah-dit-dit-dah (Decode and execute operational closing and standby signs)",
-            "dit-dit-dit-dah-dit-dah (Decode and execute operational closing and standby signs)"
+            "dit-dah-dit-dah",
+            "dah-dah-dah",
+            "dah-dit-dit-dah",
+            "dit-dit-dit-dah-dit-dah"
           ],
           "answerIndex": 3,
           "explanation": "S (...) + K (-.-) = ...-.-.",
@@ -5016,10 +5016,10 @@
         {
           "prompt": "If an operator sends 'AS 5', what does that request?",
           "options": [
-            "Turn up volume to 5 (Decode and execute operational closing and standby signs)",
-            "Send 5 words (Decode and execute operational closing and standby signs)",
-            "Please stand by / wait for approximately 5 minutes (Decode and execute operational closing and standby signs)",
-            "Change to 5 MHz (Decode and execute operational closing and standby signs)"
+            "Turn up volume to 5",
+            "Send 5 words",
+            "Please stand by / wait for approximately 5 minutes",
+            "Change to 5 MHz"
           ],
           "answerIndex": 2,
           "explanation": "AS + number requests a specific standby duration.",
@@ -5028,10 +5028,10 @@
         {
           "prompt": "Why is the 8-dit error signal (........) sent instead of deleting characters?",
           "options": [
-            "Because of standard 8-character preamble grouping. (Decode and execute operational closing and standby signs)",
-            "Because in real-time radio CW there is no backspace key; 8 dits tells the receiving operator's ear to discard the previous token. (Decode and execute operational closing and standby signs)",
-            "Because it reboots the radio. (Decode and execute operational closing and standby signs)",
-            "It is required by satellite regulations. (Decode and execute operational closing and standby signs)"
+            "Because of standard 8-character preamble grouping.",
+            "Because in real-time radio CW there is no backspace key; 8 dits tells the receiving operator's ear to discard the previous token.",
+            "Because it reboots the radio.",
+            "It is required by satellite regulations."
           ],
           "answerIndex": 1,
           "explanation": "Real-time acoustic stream requires an auditory cancellation signal.",
@@ -5075,9 +5075,9 @@
           "prompt": "In standard CW telegraphy for Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated on-air QSO contact exchange, which timing or decode sequence is correct?",
           "options": [
             "Readability 5 (perfect)",
-            "Radio channel 599 (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "599 miles away (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Emergency code 599 (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "Radio channel 599",
+            "599 miles away",
+            "Emergency code 599"
           ],
           "answerIndex": 0,
           "explanation": "599 is the standard 'perfect copy' CW signal report."
@@ -5085,10 +5085,10 @@
         {
           "prompt": "In the transmission 'QTH IS DALLAS, TX', what does 'QTH' mean?",
           "options": [
-            "My location / home city (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "My radio model (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "My age (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "My antenna height (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "My location / home city",
+            "My radio model",
+            "My age",
+            "My antenna height"
           ],
           "answerIndex": 0,
           "explanation": "QTH is the Q-code for location."
@@ -5100,10 +5100,10 @@
         {
           "prompt": "According to Morse code standards in Unit 6, Lesson 5: Foundational & Structural Mastery, what is the accurate transmission principle?",
           "options": [
-            "The frequency is closed for 73 days (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Best regards and thanks for the contact, final sign-off (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Repeat your name (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Wait 73 minutes for next contact (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "The frequency is closed for 73 days",
+            "Best regards and thanks for the contact, final sign-off",
+            "Repeat your name",
+            "Wait 73 minutes for next contact"
           ],
           "answerIndex": 1,
           "explanation": "73 (best regards) + TNX FER QSO (thanks for contact) + SK (end of contact)."
@@ -5111,10 +5111,10 @@
         {
           "prompt": "Which prosign is sent immediately before 'K' when closing a formal telegram?",
           "options": [
-            "SK (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "AR (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "AS (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "BT (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "SK",
+            "AR",
+            "AS",
+            "BT"
           ],
           "answerIndex": 1,
           "explanation": "AR signifies end of formal message."
@@ -5126,9 +5126,9 @@
         {
           "prompt": "Which sequence correctly represents a standard full-exchange CW contact from start to finish?",
           "options": [
-            "Only numbers repeated 10 times (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "SOS -> 8 Dits -> Turn off radio (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "SK -> CQ -> AS -> Period (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
+            "Only numbers repeated 10 times",
+            "SOS -> 8 Dits -> Turn off radio",
+            "SK -> CQ -> AS -> Period",
             "CQ Call (with K)"
           ],
           "answerIndex": 3,
@@ -5138,10 +5138,10 @@
         {
           "prompt": "Decode the complete punctuation set: `.-.-.-` and `--..--` and `..--..` and `-..-.`:",
           "options": [
-            "1, 2, 3, 4 (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Colon, Hyphen, Semicolon, Quote (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Period (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "A, B, C, D (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "1, 2, 3, 4",
+            "Colon, Hyphen, Semicolon, Quote",
+            "Period",
+            "A, B, C, D"
           ],
           "answerIndex": 2,
           "explanation": "Period, Comma, Question Mark, Slash.",
@@ -5150,10 +5150,10 @@
         {
           "prompt": "What core competencies were mastered across Unit 6 in Morse Code?",
           "options": [
-            "Transistor radio repair only (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Full punctuation set (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Optical laser communications only (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Phonetic NATO alphabet only (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "Transistor radio repair only",
+            "Full punctuation set",
+            "Optical laser communications only",
+            "Phonetic NATO alphabet only"
           ],
           "answerIndex": 1,
           "explanation": "Unit 6 comprehensive punctuation, prosigns, and operational QSO mastery.",
@@ -5162,10 +5162,10 @@
         {
           "prompt": "What is the international abbreviation '73' used for worldwide in Morse code?",
           "options": [
-            "Best regards / Warmest friendly wishes (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Frequency 73 MHz (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "73 dollars (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)",
-            "Bad signal (Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated onair QSO contact exchange)"
+            "Best regards / Warmest friendly wishes",
+            "Frequency 73 MHz",
+            "73 dollars",
+            "Bad signal"
           ],
           "answerIndex": 0,
           "explanation": "73 is the universal telegrapher farewell: 'Best regards'.",

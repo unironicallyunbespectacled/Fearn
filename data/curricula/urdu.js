@@ -527,7 +527,7 @@
             "زِیر (vowel sign i)",
             "زَبَر (Zabar - Short a vowel sign)",
             "پیش (Pesh - Short u vowel sign)",
-            "جَزم (Master RighttoLeft Nastaliq script mechanics U1)"
+            "جَزم (Nastaliq Non Connecting Letters   Diacritics item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«زِیر» (*Zer*) is placed under the consonant to produce the short [i] vowel."
@@ -535,10 +535,10 @@
         {
           "prompt": "Read the Urdu word «دِل» and select its English meaning:",
           "options": [
-            "dil (Master RighttoLeft Nastaliq script mechanics U1)",
-            "din (Master RighttoLeft Nastaliq script mechanics U1)",
-            "dard (Master RighttoLeft Nastaliq script mechanics U1)",
-            "raaz (Master RighttoLeft Nastaliq script mechanics U1)"
+            "dil",
+            "din",
+            "dard",
+            "raaz"
           ],
           "answerIndex": 0,
           "explanation": "«دِ» [di] + «ل» [l] spells «دِل» (*dil* - heart)."
@@ -550,10 +550,10 @@
         {
           "prompt": "Which of the following characters is the unique South Asian retroflex letter «ڈ» (ḍ)?",
           "options": [
-            "ڈ (Master RighttoLeft Nastaliq script mechanics U1)",
+            "ڈ (Nastaliq Non Connecting Letters   Diacritics item 1)",
             "د (Daal d)",
             "ذ (Zaal z)",
-            "ر (Master RighttoLeft Nastaliq script mechanics alternative form)"
+            "ر (Nastaliq Non Connecting Letters   Diacritics item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«ڈ» is the retroflex Daal marked with a small cursive «ط» (toay) above."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Urdu word «دِن» (*din*) mean in English?",
           "options": [
-            "day (Master RighttoLeft Nastaliq script mechanics U1)",
-            "heart (Master RighttoLeft Nastaliq script mechanics U1)",
-            "secret (Master RighttoLeft Nastaliq script mechanics U1)",
-            "medicine (Master RighttoLeft Nastaliq script mechanics U1)"
+            "day",
+            "heart",
+            "secret",
+            "medicine"
           ],
           "answerIndex": 0,
           "explanation": "«دِن» (*din*) means \"day\"."
@@ -592,7 +592,11 @@
             "دل",
             "دِل"
           ],
-          "explanation": "«د» + «ل» = «دل» (*dil*)."
+          "explanation": "«د» + «ل» = «دل» (*dil*).",
+          "acceptableAnswers": [
+            "دل",
+            "دِل"
+          ]
         }
       ]
     }
@@ -642,9 +646,9 @@
           "prompt": "Which letter in the Bay family has 3 dots placed BELOW the boat shape and represents the sound [p]?",
           "options": [
             "پ (Pe p consonant)",
-            "ب (Master the dotdifferentiated Bay family alternative form)",
-            "ت (Master the dotdifferentiated Bay family alternative form)",
-            "ٹ (Master the dotdifferentiated Bay family U1)"
+            "ب (Connecting Letters  Bay Family  Noon   Ye item 2)",
+            "ت (Connecting Letters  Bay Family  Noon   Ye item 3)",
+            "ٹ (Connecting Letters  Bay Family  Noon   Ye item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«پ» (Pay) has 3 dots underneath and represents the bilabial stop [p]."
@@ -652,10 +656,10 @@
         {
           "prompt": "Read the Urdu word «پَانِی» and select its English meaning:",
           "options": [
-            "paani (Master the dotdifferentiated Bay family U1)",
-            "baat (Master the dotdifferentiated Bay family U1)",
-            "naam (Master the dotdifferentiated Bay family U1)",
-            "raat (Master the dotdifferentiated Bay family U1)"
+            "paani",
+            "baat",
+            "naam",
+            "raat"
           ],
           "answerIndex": 0,
           "explanation": "«پـ» + «ا» + «نـ» + «ی» spells «پَانِی» (*paani* - water)."
@@ -680,7 +684,7 @@
           "options": [
             "نَام (Naam - Name)",
             "بَات (Baat - Talk / Matter)",
-            "رَات (Master the dotdifferentiated Bay family U1)",
+            "رَات (raat - night ر r + ا aa + ت t)",
             "دِل (Dil - Heart)"
           ],
           "answerIndex": 0,
@@ -694,10 +698,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Urdu word «رَات» (*raat*) mean in English?",
           "options": [
-            "night (Master the dotdifferentiated Bay family U1)",
-            "day (Master the dotdifferentiated Bay family U1)",
-            "water (Master the dotdifferentiated Bay family U1)",
-            "name (Master the dotdifferentiated Bay family U1)"
+            "night",
+            "day",
+            "water",
+            "name"
           ],
           "answerIndex": 0,
           "explanation": "«رَات» (*raat*) means \"night\"."
@@ -709,7 +713,11 @@
             "پانی",
             "پَانِی"
           ],
-          "explanation": "«پ» + «ا» + «ن» + «ی» = «پانی» (*paani*)."
+          "explanation": "«پ» + «ا» + «ن» + «ی» = «پانی» (*paani*).",
+          "acceptableAnswers": [
+            "پانی",
+            "پَانِی"
+          ]
         }
       ]
     }
@@ -772,7 +780,7 @@
             "پھُول (Phool - Flower)",
             "گَھر (Ghar - House)",
             "چَائے (Chai - Tea)",
-            "پَانِی (Master the Jim group U1)"
+            "پَانِی (paani - water پـ p + ا aa + نـ n + ی ee)"
           ],
           "answerIndex": 0,
           "explanation": "«پھُول» (*phool*) means \"flower\"."
@@ -784,10 +792,10 @@
         {
           "prompt": "Identify the beloved South Asian beverage word spelled «چَائے»:",
           "options": [
-            "chaay (Master the Jim group U1)",
-            "paani (Master the Jim group U1)",
-            "doodh (Master the Jim group U1)",
-            "roti (Master the Jim group U1)"
+            "chaay",
+            "paani",
+            "doodh",
+            "roti"
           ],
           "answerIndex": 0,
           "explanation": "«چـ» [ch] + «ا» [aa] + «ے» [ay] = «چَائے» (*chaay* - tea)."
@@ -795,9 +803,9 @@
         {
           "prompt": "Which letter in the Jim family has 3 dots inside and makes the [ch] sound (as in \"chair\")?",
           "options": [
-            "چ (Master the Jim group U1)",
-            "ج (Master the Jim group U1)",
-            "ح (Master the Jim group U1)",
+            "چ (Jim Group   Aspirated Consonants item 1)",
+            "ج (Jim Group   Aspirated Consonants item 2)",
+            "ح (Jim Group   Aspirated Consonants item 3)",
             "خ (Khe x)"
           ],
           "answerIndex": 0,
@@ -811,10 +819,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Urdu word «گَھر» (*ghar*) mean in English?",
           "options": [
-            "home / house (Master the Jim group U1)",
-            "flower (Master the Jim group U1)",
-            "tea (Master the Jim group U1)",
-            "word (Master the Jim group U1)"
+            "home / house",
+            "flower",
+            "tea",
+            "word"
           ],
           "answerIndex": 0,
           "explanation": "«گَھر» (*ghar*) means \"home / house\"."
@@ -826,7 +834,11 @@
             "چائے",
             "چاہے"
           ],
-          "explanation": "«چ» + «ا» + «ے» = «چائے» (*chaay*)."
+          "explanation": "«چ» + «ا» + «ے» = «چائے» (*chaay*).",
+          "acceptableAnswers": [
+            "چائے",
+            "چاہے"
+          ]
         }
       ]
     }
@@ -903,7 +915,7 @@
           "options": [
             "صُبْح بَخَیْر (Subah bakhair - Good morning)",
             "شَب بَخَیْر (Shab bakhair - Good night)",
-            "آدَاب (Master traditional greetings Assalamu Alaikum U1)",
+            "آدَاب (Greetings   Inquiring Wellbeing item 3)",
             "اللہ حافظ (Allah hafiz - Goodbye)"
           ],
           "answerIndex": 0,
@@ -912,10 +924,10 @@
         {
           "prompt": "What does the standard response «مَیں ٹھِیک ہُوں، شُکْرِیَہ» communicate?",
           "options": [
-            "I am fine, thank you (Master traditional greetings Assalamu Alaikum U1)",
-            "My name is Ahmad (Master traditional greetings Assalamu Alaikum U1)",
-            "Goodbye and peace (Master traditional greetings Assalamu Alaikum U1)",
-            "Where is home? (Master traditional greetings Assalamu Alaikum U1)"
+            "I am fine, thank you",
+            "My name is Ahmad",
+            "Goodbye and peace",
+            "Where is home?"
           ],
           "answerIndex": 0,
           "explanation": "«مَیں ٹھِیک ہُوں، شُکْرِیَہ» (*Main theek hoon, shukriya*) means \"I am fine, thank you\"."
@@ -931,7 +943,7 @@
             "آدَاب (Aadaab - Respectful greeting)",
             "صُبْح بَخَیْر (Subah bakhair - Good morning)",
             "شُکْرِیَہ (Shukriya - Thank you)",
-            "پَانِی (Master traditional greetings Assalamu Alaikum U1)"
+            "پَانِی (paani - water پـ p + ا aa + نـ n + ی ee)"
           ],
           "answerIndex": 0,
           "explanation": "«آدَاب» (*Aadaab*) is the classic refined cultural greeting."
@@ -943,7 +955,11 @@
             "صبح بخیر",
             "صُبْح بَخَیْر"
           ],
-          "explanation": "«صُبْح بَخَیْر» (*subh bakhair*) = Good morning."
+          "explanation": "«صُبْح بَخَیْر» (*subh bakhair*) = Good morning.",
+          "acceptableAnswers": [
+            "صبح بخیر",
+            "صُبْح بَخَیْر"
+          ]
         }
       ]
     }
@@ -1060,7 +1076,11 @@
             "اللہ حافظ",
             "اَللہ حَافِظ"
           ],
-          "explanation": "«اللہ حافظ» (*Allah Hafiz*) = Goodbye."
+          "explanation": "«اللہ حافظ» (*Allah Hafiz*) = Goodbye.",
+          "acceptableAnswers": [
+            "اللہ حافظ",
+            "اَللہ حَافِظ"
+          ]
         }
       ]
     }

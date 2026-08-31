@@ -101,10 +101,10 @@
         {
           "prompt": "Why is Z-score standardization essential before computing distances or running Principal Component Analysis on multi-attribute brand survey data?",
           "options": [
-            "It eliminates variables with different measurement units or large numeric scales from dominating the distance calculations and variance extraction. (Foundations of Market Data  Consumer Analytics)",
-            "It guarantees all survey respondents give identical 5-star ratings. (Foundations of Market Data  Consumer Analytics)",
-            "It randomly deletes half the survey respondents to speed up processing. (Foundations of Market Data  Consumer Analytics)",
-            "It converts all qualitative text responses into Latin nouns. (Foundations of Market Data  Consumer Analytics)"
+            "It eliminates variables with different measurement units or large numeric scales from dominating the distance calculations and variance extraction.",
+            "It guarantees all survey respondents give identical 5-star ratings.",
+            "It randomly deletes half the survey respondents to speed up processing.",
+            "It converts all qualitative text responses into Latin nouns."
           ],
           "answerIndex": 0,
           "explanation": "Standardization prevents attributes with large variances or scales (like annual income) from overwhelming attributes measured on small scales (like 1-to-5 ratings)."
@@ -117,9 +117,9 @@
           "prompt": "If a brand survey shows a sample variance of zero for the attribute «Safety», what does this indicate about consumer perception?",
           "options": [
             "Every respondent gave the exact same score for safety (zero variance / absolute unanimity)",
-            "Consumers consider the brand extremely dangerous. (Foundations of Market Data  Consumer Analytics)",
-            "The survey data was corrupted and must be thrown out. (Foundations of Market Data  Consumer Analytics)",
-            "The brand has no safety features. (Foundations of Market Data  Consumer Analytics)"
+            "Consumers consider the brand extremely dangerous.",
+            "The survey data was corrupted and must be thrown out.",
+            "The brand has no safety features."
           ],
           "answerIndex": 0,
           "explanation": "A variance of zero means all data points equal the mean, indicating complete consensus among respondents."
@@ -131,10 +131,10 @@
         {
           "prompt": "What statistic measures the linear association and direction of relationship between two brand attributes on a normalized scale from -1.0 to +1.0?",
           "options": [
-            "Pearson correlation coefficient (Foundations of Market Data  Consumer Analytics)",
-            "Eigenvalue magnitude (Foundations of Market Data  Consumer Analytics)",
-            "Likert sum index (Foundations of Market Data  Consumer Analytics)",
-            "Chi-square degree (Foundations of Market Data  Consumer Analytics)"
+            "Pearson correlation coefficient",
+            "Eigenvalue magnitude",
+            "Likert sum index",
+            "Chi-square degree"
           ],
           "answerIndex": 0,
           "explanation": "The Pearson correlation coefficient normalizes covariance by the product of standard deviations, bounding the value between -1 and +1.",
@@ -143,10 +143,10 @@
         {
           "prompt": "In an $N \\times P$ customer survey matrix where $N=500$ consumers rate $P=8$ attributes, what does each row represent?",
           "options": [
-            "The complete multi-attribute response vector of an individual consumer respondent. (Foundations of Market Data  Consumer Analytics)",
-            "The average profit margin of the firm. (Foundations of Market Data  Consumer Analytics)",
-            "The global market share of competitor brands. (Foundations of Market Data  Consumer Analytics)",
-            "A single advertising channel budget. (Foundations of Market Data  Consumer Analytics)"
+            "The complete multi-attribute response vector of an individual consumer respondent.",
+            "The average profit margin of the firm.",
+            "The global market share of competitor brands.",
+            "A single advertising channel budget."
           ],
           "answerIndex": 0,
           "explanation": "In a standard respondent-by-attribute matrix, rows represent individual observation units (respondents).",
@@ -253,10 +253,10 @@
         {
           "prompt": "Under the Kaiser criterion, which principal components should be retained for perceptual mapping?",
           "options": [
-            "Only the single largest component (Execute Eigenvalue Decomposition)",
-            "Components with negative eigenvalues (Execute Eigenvalue Decomposition)",
-            "All components regardless of size (Execute Eigenvalue Decomposition)",
-            "Components with eigenvalues lambda_j >= 1.0 (Execute Eigenvalue Decomposition)"
+            "Only the single largest component",
+            "Components with negative eigenvalues",
+            "All components regardless of size",
+            "Components with eigenvalues lambda_j >= 1.0"
           ],
           "answerIndex": 3,
           "explanation": "Components with eigenvalues lambda_j >= 1.0."
@@ -268,9 +268,9 @@
         {
           "prompt": "What geometric interpretation is given to the columns of matrix V in PCA perceptual mapping?",
           "options": [
-            "They represent raw dollar prices. (Execute Eigenvalue Decomposition)",
-            "They represent factory coordinates. (Execute Eigenvalue Decomposition)",
-            "They are random noise. (Execute Eigenvalue Decomposition)",
+            "They represent raw dollar prices.",
+            "They represent factory coordinates.",
+            "They are random noise.",
             "They represent the direction vectors (loadings)"
           ],
           "answerIndex": 3,
@@ -283,10 +283,10 @@
         {
           "prompt": "If an 8-attribute brand perception survey yields eigenvalues [3.5, 2.1, 0.9, 0.6, 0.4, 0.2, 0.2, 0.1], how many components satisfy the Kaiser criterion?",
           "options": [
-            "4 components (Execute Eigenvalue Decomposition)",
-            "2 components (Execute Eigenvalue Decomposition)",
-            "1 component (Execute Eigenvalue Decomposition)",
-            "8 components (Execute Eigenvalue Decomposition)"
+            "4 components",
+            "2 components",
+            "1 component",
+            "8 components"
           ],
           "answerIndex": 1,
           "explanation": "2 components.",
@@ -295,10 +295,10 @@
         {
           "prompt": "What is the sum of all eigenvalues in a PCA decomposition of a standardized correlation matrix with P attributes?",
           "options": [
-            "P (Execute Eigenvalue Decomposition)",
-            "100.0 (Execute Eigenvalue Decomposition)",
-            "0.0 (Execute Eigenvalue Decomposition)",
-            "1.0 (Execute Eigenvalue Decomposition)"
+            "P",
+            "100.0",
+            "0.0",
+            "1.0"
           ],
           "answerIndex": 0,
           "explanation": "P (the total number of attributes).",
@@ -335,10 +335,10 @@
         {
           "prompt": "If two attribute vectors on a perceptual biplot form a 90-degree right angle (cos = 0), what does this indicate about consumer perception?",
           "options": [
-            "The two attributes are completely uncorrelated and perceived independently. (Interpret Attribute Vector Angles)",
-            "The attributes are identical. (Interpret Attribute Vector Angles)",
-            "The attributes are opposites. (Interpret Attribute Vector Angles)",
-            "The data is corrupted. (Interpret Attribute Vector Angles)"
+            "The two attributes are completely uncorrelated and perceived independently.",
+            "The attributes are identical.",
+            "The attributes are opposites.",
+            "The data is corrupted."
           ],
           "answerIndex": 0,
           "explanation": "The two attributes are completely uncorrelated."
@@ -350,10 +350,10 @@
         {
           "prompt": "How do you determine a brand's perceived score on a specific attribute in a 2D perceptual map?",
           "options": [
-            "By counting the number of letters in the brand name (Interpret Attribute Vector Angles)",
-            "By projecting a perpendicular line from the brand's point onto the attribute vector line (Interpret Attribute Vector Angles)",
-            "By checking stock price (Interpret Attribute Vector Angles)",
-            "By measuring the distance to the origin only (Interpret Attribute Vector Angles)"
+            "By counting the number of letters in the brand name",
+            "By projecting a perpendicular line from the brand's point onto the attribute vector line",
+            "By checking stock price",
+            "By measuring the distance to the origin only"
           ],
           "answerIndex": 1,
           "explanation": "By projecting a perpendicular line from the brand's point onto the attribute vector line."
@@ -365,10 +365,10 @@
         {
           "prompt": "What does an attribute vector with a very short length near the center of a PCA biplot indicate?",
           "options": [
-            "The attribute is the most important market driver. (Interpret Attribute Vector Angles)",
-            "The attribute is priced at zero dollars. (Interpret Attribute Vector Angles)",
-            "The attribute has low variance or is poorly represented by the two retained principal components. (Interpret Attribute Vector Angles)",
-            "The attribute has 100% market share. (Interpret Attribute Vector Angles)"
+            "The attribute is the most important market driver.",
+            "The attribute is priced at zero dollars.",
+            "The attribute has low variance or is poorly represented by the two retained principal components.",
+            "The attribute has 100% market share."
           ],
           "answerIndex": 2,
           "explanation": "The attribute has low variance or is poorly represented by the two components.",
@@ -377,10 +377,10 @@
         {
           "prompt": "If \"Fuel Efficiency\" and \"Horsepower\" vectors point in nearly opposite directions (angle ~ 180 degrees), what is their relationship?",
           "options": [
-            "They are perceived as mutually reinforcing positive traits. (Interpret Attribute Vector Angles)",
-            "They are perceived as strong trade-offs with an inverse negative correlation (Interpret Attribute Vector Angles)",
-            "They are identical features. (Interpret Attribute Vector Angles)",
-            "They have zero relation. (Interpret Attribute Vector Angles)"
+            "They are perceived as mutually reinforcing positive traits.",
+            "They are perceived as strong trade-offs with an inverse negative correlation",
+            "They are identical features.",
+            "They have zero relation."
           ],
           "answerIndex": 1,
           "explanation": "They are perceived as strong trade-offs with an inverse negative correlation.",
@@ -417,10 +417,10 @@
         {
           "prompt": "Under the Ideal Point preference model, what happens to consumer utility as a product moves further away from the consumer's ideal point in perceptual space?",
           "options": [
-            "Utility decreases quadratically with distance (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Utility remains constant (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Utility becomes undefined (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Utility increases linearly (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)"
+            "Utility decreases quadratically with distance",
+            "Utility remains constant",
+            "Utility becomes undefined",
+            "Utility increases linearly"
           ],
           "answerIndex": 0,
           "explanation": "Utility decreases quadratically with distance."
@@ -432,10 +432,10 @@
         {
           "prompt": "For which type of product attribute is the Ideal Point model more appropriate than the Vector (linear) model?",
           "options": [
-            "Attributes with an optimal middle level (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Warranty duration (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Attributes where higher is always better (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Pure monetary cash rewards (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)"
+            "Attributes with an optimal middle level",
+            "Warranty duration",
+            "Attributes where higher is always better",
+            "Pure monetary cash rewards"
           ],
           "answerIndex": 0,
           "explanation": "Attributes with an optimal middle level."
@@ -447,10 +447,10 @@
         {
           "prompt": "In PREFMAP analysis, what does a dense cluster of consumer ideal points with no nearby competing brands represent?",
           "options": [
-            "A monopoly protected by patents. (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "An unprofitable market that should be abandoned. (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "A statistical error in SVD calculation. (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "An attractive \"White Space\" market opportunity for a new product launch or brand repositioning. (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)"
+            "A monopoly protected by patents.",
+            "An unprofitable market that should be abandoned.",
+            "A statistical error in SVD calculation.",
+            "An attractive \"White Space\" market opportunity for a new product launch or brand repositioning."
           ],
           "answerIndex": 3,
           "explanation": "An attractive \"White Space\" market opportunity.",
@@ -459,10 +459,10 @@
         {
           "prompt": "What is the mathematical form of the distance decay in Carroll's weighted Euclidean ideal point model?",
           "options": [
-            "Utility = exp (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Utility = sum (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Utility = - sum (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)",
-            "Utility = Brand_d - Ideal_d (Implement Preference Mapping PREFMAP and Ideal Point vs Vector Preference Formulations)"
+            "Utility = exp",
+            "Utility = sum",
+            "Utility = - sum",
+            "Utility = Brand_d - Ideal_d"
           ],
           "answerIndex": 2,
           "explanation": "Utility = - sum(v_d * (Brand_d - Ideal_d)^2).",
@@ -581,10 +581,10 @@
         {
           "prompt": "Which four analytical pillars are synthesized in an end-to-end quantitative pricing and consumer behavior engine?",
           "options": [
-            "Fixed cost accounting only (Capstone Synthesis)",
-            "Random guesswork and manual polling (Capstone Synthesis)",
-            "Conjoint Choice Simulation, BG/NBD CLV, Bass Diffusion Dynamics, and Prospect-Theoretic Menu Architecture (Capstone Synthesis)",
-            "Only linear regression (Capstone Synthesis)"
+            "Fixed cost accounting only",
+            "Random guesswork and manual polling",
+            "Conjoint Choice Simulation, BG/NBD CLV, Bass Diffusion Dynamics, and Prospect-Theoretic Menu Architecture",
+            "Only linear regression"
           ],
           "answerIndex": 2,
           "explanation": "Conjoint Choice Simulation, BG/NBD CLV, Bass Diffusion Dynamics, and Prospect-Theoretic Menu Architecture."
@@ -596,10 +596,10 @@
         {
           "prompt": "How does an end-to-end pricing engine determine the optimal price point for a new SaaS product tier?",
           "options": [
-            "By copying competitors without analysis (Capstone Synthesis)",
-            "By charging the exact cost of manufacturing with no margin (Capstone Synthesis)",
+            "By copying competitors without analysis",
+            "By charging the exact cost of manufacturing with no margin",
             "By maximizing expected profit = Market Share (Price)",
-            "By always setting price to zero (Capstone Synthesis)"
+            "By always setting price to zero"
           ],
           "answerIndex": 2,
           "explanation": "By maximizing expected profit = Market Share(Price) * (Price - Marginal Cost) * Projected CLV."
@@ -611,10 +611,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The quantitative marketing capstone establishes an integrated pipeline from discrete choice utility estimation to longitudinal customer equity and behavioral price menu architecture.\"",
           "options": [
-            "The quantitative marketing capstone establishes an integrated pipeline from discrete choice utility estimation to longitudinal customer equity and behavioral price menu architecture. (Capstone Synthesis)",
-            "Conjoint analysis cannot be integrated with lifetime value modeling. (Capstone Synthesis)",
-            "Bass diffusion models are only used in retail baking. (Capstone Synthesis)",
-            "Quantitative marketing relies purely on subjective intuition without mathematics. (Capstone Synthesis)"
+            "The quantitative marketing capstone establishes an integrated pipeline from discrete choice utility estimation to longitudinal customer equity and behavioral price menu architecture.",
+            "Conjoint analysis cannot be integrated with lifetime value modeling.",
+            "Bass diffusion models are only used in retail baking.",
+            "Quantitative marketing relies purely on subjective intuition without mathematics."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Capstone synthesis analysis translation.",
@@ -623,10 +623,10 @@
         {
           "prompt": "What complete mathematical mastery does completing B110 represent?",
           "options": [
-            "Introductory grammar (Capstone Synthesis)",
-            "Elementary typing (Capstone Synthesis)",
-            "Basic accounting (Capstone Synthesis)",
-            "Complete Quantitative Mastery of Market Dynamics, Consumer Psychology, and Pricing Optimization (Capstone Synthesis)"
+            "Introductory grammar",
+            "Elementary typing",
+            "Basic accounting",
+            "Complete Quantitative Mastery of Market Dynamics, Consumer Psychology, and Pricing Optimization"
           ],
           "answerIndex": 3,
           "explanation": "Complete Quantitative Mastery of Market Dynamics, Consumer Psychology, and Pricing Optimization.",
@@ -828,10 +828,10 @@
         {
           "prompt": "According to Prospect Theory, what is the empirical coefficient of Loss Aversion ($\\lambda$)?",
           "options": [
-            "Approximately $\\lambda \\approx 2.25$ (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "$\\lambda = 0.5$ (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "$\\lambda = 100.0$ (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "$\\lambda = 1.0$ (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)"
+            "Approximately $\\lambda \\approx 2.25$",
+            "$\\lambda = 0.5$",
+            "$\\lambda = 100.0$",
+            "$\\lambda = 1.0$"
           ],
           "answerIndex": 0,
           "explanation": "Empirical studies across global populations estimate lambda between 2.0 and 2.5."
@@ -843,10 +843,10 @@
         {
           "prompt": "What is the \"Decoy Effect\" (Asymmetric Dominance) in subscription pricing design?",
           "options": [
-            "Introducing a third option that is dominated by target Option A but not Option B, artificially shifting preference toward Option A (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "Offering a 50% discount on black friday (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "Selling products at cost (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "Hiding prices from competitors (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)"
+            "Introducing a third option that is dominated by target Option A but not Option B, artificially shifting preference toward Option A",
+            "Offering a 50% discount on black friday",
+            "Selling products at cost",
+            "Hiding prices from competitors"
           ],
           "answerIndex": 0,
           "explanation": "The decoy option changes relative choice architecture to make the premium tier look like a bargain."
@@ -858,10 +858,10 @@
         {
           "prompt": "How does human risk attitude differ between the domain of gains versus the domain of losses in Prospect Theory?",
           "options": [
-            "Risk-seeking in gains, risk-averse in losses (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
+            "Risk-seeking in gains, risk-averse in losses",
             "Risk-averse in the domain of gains (concave)",
-            "Completely neutral in both domains (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "Randomly distributed (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)"
+            "Completely neutral in both domains",
+            "Randomly distributed"
           ],
           "answerIndex": 1,
           "explanation": "People lock in sure gains but gamble to avoid certain losses.",
@@ -870,10 +870,10 @@
         {
           "prompt": "What cognitive phenomenon describes consumers overvaluing products they participated in assembling or customizing?",
           "options": [
-            "The IKEA / Endowment Effect (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "The Gambler's Fallacy (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "The Hawthorne Effect (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)",
-            "The Placebo Effect (Synthesize Behavioral Economics principles KahnemanTversky Prospect Theory)"
+            "The IKEA / Endowment Effect",
+            "The Gambler's Fallacy",
+            "The Hawthorne Effect",
+            "The Placebo Effect"
           ],
           "answerIndex": 0,
           "explanation": "The IKEA effect shows cognitive effort creates emotional ownership and higher perceived value.",
@@ -910,10 +910,10 @@
         {
           "prompt": "According to Metcalfe's Law, how does the theoretical value V of a communication network scale with the number of participating nodes n?",
           "options": [
-            "V is proportional to n^2 (Network Externalities)",
-            "V is strictly linear (Network Externalities)",
-            "V is logarithmic (Network Externalities)",
-            "V is constant (Network Externalities)"
+            "V is proportional to n^2",
+            "V is strictly linear",
+            "V is logarithmic",
+            "V is constant"
           ],
           "answerIndex": 0,
           "explanation": "V is proportional to n^2."
@@ -925,10 +925,10 @@
         {
           "prompt": "In two-sided platform economics, which user group is typically subsidized with free access or rewards to attract the other side of the market?",
           "options": [
-            "The price-sensitive \"Subsidy Side\" with high cross-side externality value (Network Externalities)",
-            "The platform owners (Network Externalities)",
-            "The regulatory agencies (Network Externalities)",
-            "The \"Money Side\" (Network Externalities)"
+            "The price-sensitive \"Subsidy Side\" with high cross-side externality value",
+            "The platform owners",
+            "The regulatory agencies",
+            "The \"Money Side\""
           ],
           "answerIndex": 0,
           "explanation": "The price-sensitive \"Subsidy Side\"."
@@ -940,10 +940,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Cross-side network externalities in two-sided platforms dictate asymmetric pricing, subsidizing the user base that creates the greatest participation pull for the monetized side.\"",
           "options": [
-            "Cross-side network externalities in two-sided platforms dictate asymmetric pricing, subsidizing the user base that creates the greatest participation pull for the monetized side. (Network Externalities)",
-            "Two-sided platforms must charge exactly equal flat fees to all participants. (Network Externalities)",
-            "Critical mass has no impact on platform survival. (Network Externalities)",
-            "Metcalfe's law proves that networks lose value as more nodes join. (Network Externalities)"
+            "Cross-side network externalities in two-sided platforms dictate asymmetric pricing, subsidizing the user base that creates the greatest participation pull for the monetized side.",
+            "Two-sided platforms must charge exactly equal flat fees to all participants.",
+            "Critical mass has no impact on platform survival.",
+            "Metcalfe's law proves that networks lose value as more nodes join."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Two-sided platform analysis translation.",
@@ -952,10 +952,10 @@
         {
           "prompt": "What economic threshold represents the minimum user scale required for self-sustaining positive feedback loops to outpace user churn in a platform network?",
           "options": [
-            "Market Ceiling (Network Externalities)",
-            "Break-even Point (Network Externalities)",
-            "Carrying Capacity (Network Externalities)",
-            "Critical Mass (Network Externalities)"
+            "Market Ceiling",
+            "Break-even Point",
+            "Carrying Capacity",
+            "Critical Mass"
           ],
           "answerIndex": 3,
           "explanation": "Critical Mass (Tipping Point).",
@@ -992,9 +992,9 @@
         {
           "prompt": "Between which two psychographic adopter segments does \"The Chasm\" exist in Geoffrey Moore's Technology Adoption Lifecycle?",
           "options": [
-            "Between Innovators and Early Adopters (Crossing the Chasm)",
-            "Between Early Majority and Late Majority (Crossing the Chasm)",
-            "Between Late Majority and Laggards (Crossing the Chasm)",
+            "Between Innovators and Early Adopters",
+            "Between Early Majority and Late Majority",
+            "Between Late Majority and Laggards",
             "Between Early Adopters (Visionaries)"
           ],
           "answerIndex": 3,
@@ -1007,10 +1007,10 @@
         {
           "prompt": "What market entry strategy involves dominating a hyper-specific niche vertical before knocking down adjacent market segments like bowling pins?",
           "options": [
-            "The Spray and Pray Strategy (Crossing the Chasm)",
-            "The Mass Market Advertising Campaign (Crossing the Chasm)",
-            "The Freemium Strategy (Crossing the Chasm)",
-            "The Bowling Pin Strategy (Crossing the Chasm)"
+            "The Spray and Pray Strategy",
+            "The Mass Market Advertising Campaign",
+            "The Freemium Strategy",
+            "The Bowling Pin Strategy"
           ],
           "answerIndex": 3,
           "explanation": "The Bowling Pin Strategy (Beachhead Strategy)."
@@ -1022,10 +1022,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Pragmatist buyers in the early majority require established references from peer enterprises and a complete whole-product solution before committing capital.\"",
           "options": [
-            "Visionary early adopters always wait for five years of customer references. (Crossing the Chasm)",
-            "The Chasm occurs only after the entire market is 100% saturated. (Crossing the Chasm)",
-            "Pragmatists prefer software with maximum bugs and zero customer support. (Crossing the Chasm)",
-            "Pragmatist buyers in the early majority require established references from peer enterprises and a complete whole-product solution before committing capital. (Crossing the Chasm)"
+            "Visionary early adopters always wait for five years of customer references.",
+            "The Chasm occurs only after the entire market is 100% saturated.",
+            "Pragmatists prefer software with maximum bugs and zero customer support.",
+            "Pragmatist buyers in the early majority require established references from peer enterprises and a complete whole-product solution before committing capital."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Crossing the Chasm analysis translation.",
@@ -1034,10 +1034,10 @@
         {
           "prompt": "What percentage of the total market potential is represented by the Early Majority segment in the classical adoption distribution?",
           "options": [
-            "50% (Crossing the Chasm)",
-            "13.5% (Crossing the Chasm)",
-            "34% (Crossing the Chasm)",
-            "2.5% (Crossing the Chasm)"
+            "50%",
+            "13.5%",
+            "34%",
+            "2.5%"
           ],
           "answerIndex": 2,
           "explanation": "34% (Thirty-four percent).",
@@ -1074,10 +1074,10 @@
         {
           "prompt": "Under what condition will an innovation display a true sales peak (inflection point) at a positive time T* > 0 in the Bass model?",
           "options": [
-            "When the imitation coefficient q is strictly greater than the innovation coefficient p (Estimating Market Peak Timing)",
-            "When p > q. (Estimating Market Peak Timing)",
-            "When M = 0. (Estimating Market Peak Timing)",
-            "When p = 0. (Estimating Market Peak Timing)"
+            "When the imitation coefficient q is strictly greater than the innovation coefficient p",
+            "When p > q.",
+            "When M = 0.",
+            "When p = 0."
           ],
           "answerIndex": 0,
           "explanation": "When the imitation coefficient q is strictly greater than the innovation coefficient p (q > p)."
@@ -1089,10 +1089,10 @@
         {
           "prompt": "If an OLS regression of discrete sales on cumulative sales yields alpha_1 = 100 and market potential is solved as M = 10,000, what is the estimated innovation coefficient p?",
           "options": [
-            "p = 100 * 10,000 = 1,000,000 (Estimating Market Peak Timing)",
-            "p = 0.50 (Estimating Market Peak Timing)",
-            "p = 10.0 (Estimating Market Peak Timing)",
-            "p = 100 / 10,000 = 0.01 (Estimating Market Peak Timing)"
+            "p = 100 * 10,000 = 1,000,000",
+            "p = 0.50",
+            "p = 10.0",
+            "p = 100 / 10,000 = 0.01"
           ],
           "answerIndex": 3,
           "explanation": "p = 100 / 10,000 = 0.01."
@@ -1104,10 +1104,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The analytical peak timing formula allows forecasting the precise quarter of maximum adoption velocity before market saturation begins.\"",
           "options": [
-            "Market potential M must be infinite for all consumer electronics. (Estimating Market Peak Timing)",
-            "OLS regression cannot estimate Bass parameters from discrete sales data. (Estimating Market Peak Timing)",
-            "The analytical peak timing formula allows forecasting the precise quarter of maximum adoption velocity before market saturation begins. (Estimating Market Peak Timing)",
-            "Peak sales volume always occurs on the first day of product launch. (Estimating Market Peak Timing)"
+            "Market potential M must be infinite for all consumer electronics.",
+            "OLS regression cannot estimate Bass parameters from discrete sales data.",
+            "The analytical peak timing formula allows forecasting the precise quarter of maximum adoption velocity before market saturation begins.",
+            "Peak sales volume always occurs on the first day of product launch."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Bass peak analysis translation.",
@@ -1116,10 +1116,10 @@
         {
           "prompt": "What mathematical regression technique fits historical discrete sales against linear and quadratic cumulative sales to recover Bass parameters?",
           "options": [
-            "K-Means Clustering (Estimating Market Peak Timing)",
-            "Ordinary Least Squares (Estimating Market Peak Timing)",
-            "Singular Value Decomposition (Estimating Market Peak Timing)",
-            "Principal Component Analysis (Estimating Market Peak Timing)"
+            "K-Means Clustering",
+            "Ordinary Least Squares",
+            "Singular Value Decomposition",
+            "Principal Component Analysis"
           ],
           "answerIndex": 1,
           "explanation": "Ordinary Least Squares (OLS Regression).",
@@ -1156,10 +1156,10 @@
         {
           "prompt": "In the Bass Diffusion Model, what force does the coefficient $q$ represent?",
           "options": [
-            "Government taxation (Formulate the Bass Diffusion Model for new product adoption)",
-            "Manufacturing defect rate (Formulate the Bass Diffusion Model for new product adoption)",
-            "External television advertising only (Formulate the Bass Diffusion Model for new product adoption)",
-            "Imitation driven by word-of-mouth, network effects, and social proof (Formulate the Bass Diffusion Model for new product adoption)"
+            "Government taxation",
+            "Manufacturing defect rate",
+            "External television advertising only",
+            "Imitation driven by word-of-mouth, network effects, and social proof"
           ],
           "answerIndex": 3,
           "explanation": "q represents the internal peer-to-peer imitation and viral network diffusion."
@@ -1171,10 +1171,10 @@
         {
           "prompt": "What shape does the cumulative adoption curve $N(t)$ exhibit when imitation $q > p$?",
           "options": [
-            "A characteristic Sigmoidal S-Curve (Formulate the Bass Diffusion Model for new product adoption)",
-            "A straight downward diagonal line (Formulate the Bass Diffusion Model for new product adoption)",
-            "A hyperbola approaching zero (Formulate the Bass Diffusion Model for new product adoption)",
-            "A flat horizontal line (Formulate the Bass Diffusion Model for new product adoption)"
+            "A characteristic Sigmoidal S-Curve",
+            "A straight downward diagonal line",
+            "A hyperbola approaching zero",
+            "A flat horizontal line"
           ],
           "answerIndex": 0,
           "explanation": "Adoption begins convexly during early pioneer adoption, hits inflection at peak sales, and turns concave toward saturation."
@@ -1186,10 +1186,10 @@
         {
           "prompt": "At what point in the product lifecycle does the rate of new adopters $S(t)$ reach its absolute maximum?",
           "options": [
-            "Only after the product is discontinued (Formulate the Bass Diffusion Model for new product adoption)",
-            "At time $t^* = \\frac{1}{p+q} \\ln (Formulate the Bass Diffusion Model for new product adoption)",
-            "At time $t = 0$ (Formulate the Bass Diffusion Model for new product adoption)",
-            "When the market is 100% saturated (Formulate the Bass Diffusion Model for new product adoption)"
+            "Only after the product is discontinued",
+            "At time $t^* = \\frac{1}{p+q} \\ln",
+            "At time $t = 0$",
+            "When the market is 100% saturated"
           ],
           "answerIndex": 1,
           "explanation": "Peak sales occur at the mathematical inflection point $t^*$.",
@@ -1198,10 +1198,10 @@
         {
           "prompt": "If a product has a very high $q/p$ ratio, how does the adoption curve behave?",
           "options": [
-            "Slow initial start followed by explosive, viral rapid growth (Formulate the Bass Diffusion Model for new product adoption)",
-            "Instantaneous 100% adoption on day 1 (Formulate the Bass Diffusion Model for new product adoption)",
-            "Linear steady growth with no acceleration (Formulate the Bass Diffusion Model for new product adoption)",
-            "Zero adoption (Formulate the Bass Diffusion Model for new product adoption)"
+            "Slow initial start followed by explosive, viral rapid growth",
+            "Instantaneous 100% adoption on day 1",
+            "Linear steady growth with no acceleration",
+            "Zero adoption"
           ],
           "answerIndex": 0,
           "explanation": "High q/p indicates strong viral word-of-mouth momentum following initial seed adoption.",
@@ -1238,10 +1238,10 @@
         {
           "prompt": "In a Markov customer migration model, what mathematical operation projects customer state distribution from time t to time t+1 using transition matrix P?",
           "options": [
-            "v_{t+1} = v_t * P (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "v_{t+1} = P / v_t (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "v_{t+1} = det (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "v_{t+1} = v_t + P (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)"
+            "v_{t+1} = v_t * P",
+            "v_{t+1} = P / v_t",
+            "v_{t+1} = det",
+            "v_{t+1} = v_t + P"
           ],
           "answerIndex": 0,
           "explanation": "v_{t+1} = v_t * P."
@@ -1253,10 +1253,10 @@
         {
           "prompt": "What state in a Markov churn model has a transition probability of 1.0 of staying in that state (P_ii = 1.0) and 0.0 of transitioning out?",
           "options": [
-            "An Absorbing State (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "A Transient State (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "A Periodic State (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "An Ergodic State (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)"
+            "An Absorbing State",
+            "A Transient State",
+            "A Periodic State",
+            "An Ergodic State"
           ],
           "answerIndex": 0,
           "explanation": "An Absorbing State (Permanent Churn)."
@@ -1268,10 +1268,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The Markov transition probability matrix projects the longitudinal migration of customers across engagement tiers, generating multi-period discounted cash flows for enterprise valuation.\"",
           "options": [
-            "The Markov transition probability matrix projects the longitudinal migration of customers across engagement tiers, generating multi-period discounted cash flows for enterprise valuation. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "Customer equity equals total company warehouse real estate value. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "Markov models assume all customers remain in tier 1 forever. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "Transition probabilities in a row can sum to any arbitrary negative number. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)"
+            "The Markov transition probability matrix projects the longitudinal migration of customers across engagement tiers, generating multi-period discounted cash flows for enterprise valuation.",
+            "Customer equity equals total company warehouse real estate value.",
+            "Markov models assume all customers remain in tier 1 forever.",
+            "Transition probabilities in a row can sum to any arbitrary negative number."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Markov customer equity analysis translation.",
@@ -1280,10 +1280,10 @@
         {
           "prompt": "What condition must the sum of probabilities across each row of a valid Markov transition probability matrix P satisfy?",
           "options": [
-            "The sum must equal 100. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "The sum must equal zero. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "The sum must equal the total customer count. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)",
-            "The sum of probabilities in each row must equal exactly 1.0. (Customer Equity Valuation  Migration Matrix Markov Models Customer Equity as the sum of discounted CLVs across all current and future cohorts)"
+            "The sum must equal 100.",
+            "The sum must equal zero.",
+            "The sum must equal the total customer count.",
+            "The sum of probabilities in each row must equal exactly 1.0."
           ],
           "answerIndex": 3,
           "explanation": "The sum of probabilities in each row must equal exactly 1.0.",
@@ -1320,10 +1320,10 @@
         {
           "prompt": "What is the widely accepted venture capital benchmark for the LTV/CAC ratio in a healthy, scalable business model?",
           "options": [
-            "LTV / CAC >= 3.0 (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "LTV / CAC = 0.5 (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "LTV / CAC = 1.0 (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "LTV / CAC >= 50.0 (Customer Acquisition Cost CAC to LTV Dynamics)"
+            "LTV / CAC >= 3.0",
+            "LTV / CAC = 0.5",
+            "LTV / CAC = 1.0",
+            "LTV / CAC >= 50.0"
           ],
           "answerIndex": 0,
           "explanation": "LTV / CAC >= 3.0."
@@ -1335,10 +1335,10 @@
         {
           "prompt": "What state of SaaS unit economics occurs when expansion revenue from existing customers exceeds total lost revenue from downgrades and churn (NRR > 100%)?",
           "options": [
-            "Net Negative Churn (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "Bankruptcy (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "Market Saturation (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "Linear Decay (Customer Acquisition Cost CAC to LTV Dynamics)"
+            "Net Negative Churn",
+            "Bankruptcy",
+            "Market Saturation",
+            "Linear Decay"
           ],
           "answerIndex": 0,
           "explanation": "Net Negative Churn."
@@ -1350,10 +1350,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"A CAC payback period under twelve months ensures rapid capital recycling, enabling the enterprise to reinvest operating cash flows into customer acquisition.\"",
           "options": [
-            "CAC should never include sales team salaries. (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "An LTV/CAC ratio of 0.8 represents hyper-growth profitability. (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "Net Revenue Retention cannot exceed 100% in any software company. (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "A CAC payback period under twelve months ensures rapid capital recycling, enabling the enterprise to reinvest operating cash flows into customer acquisition. (Customer Acquisition Cost CAC to LTV Dynamics)"
+            "CAC should never include sales team salaries.",
+            "An LTV/CAC ratio of 0.8 represents hyper-growth profitability.",
+            "Net Revenue Retention cannot exceed 100% in any software company.",
+            "A CAC payback period under twelve months ensures rapid capital recycling, enabling the enterprise to reinvest operating cash flows into customer acquisition."
           ],
           "answerIndex": 3,
           "explanation": "Accurate SaaS Unit Economics analysis translation.",
@@ -1362,10 +1362,10 @@
         {
           "prompt": "If a company spends $120,000 on sales and marketing in Q1 and acquires 100 new customers, what is the fully-loaded CAC per customer?",
           "options": [
-            "$120 (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "$12,000 (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "$1,200 (Customer Acquisition Cost CAC to LTV Dynamics)",
-            "$100 (Customer Acquisition Cost CAC to LTV Dynamics)"
+            "$120",
+            "$12,000",
+            "$1,200",
+            "$100"
           ],
           "answerIndex": 2,
           "explanation": "$1,200.",
@@ -1402,10 +1402,10 @@
         {
           "prompt": "Why is predicting customer churn fundamentally more challenging in non-contractual retail settings (like Amazon) than in contractual settings (like Netflix)?",
           "options": [
-            "Because retail data contains no timestamps. (Contractual vs NonContractual Churn)",
-            "Because retail customers always have a retention rate of 1.0. (Contractual vs NonContractual Churn)",
-            "Because credit cards cannot be processed in retail. (Contractual vs NonContractual Churn)",
-            "Because customers never formally cancel in non-contractual settings, making churn unobservable. (Contractual vs NonContractual Churn)"
+            "Because retail data contains no timestamps.",
+            "Because retail customers always have a retention rate of 1.0.",
+            "Because credit cards cannot be processed in retail.",
+            "Because customers never formally cancel in non-contractual settings, making churn unobservable."
           ],
           "answerIndex": 3,
           "explanation": "Because customers never formally cancel in non-contractual settings."
@@ -1417,9 +1417,9 @@
         {
           "prompt": "In the BG/NBD customer lifetime model, what two statistical distributions govern the purchase rate lambda and the dropout probability p across the customer population?",
           "options": [
-            "Normal distribution and Cauchy distribution (Contractual vs NonContractual Churn)",
-            "Uniform distribution and Binomial distribution (Contractual vs NonContractual Churn)",
-            "Exponential distribution and Poisson distribution (Contractual vs NonContractual Churn)",
+            "Normal distribution and Cauchy distribution",
+            "Uniform distribution and Binomial distribution",
+            "Exponential distribution and Poisson distribution",
             "Gamma distribution (for lambda)"
           ],
           "answerIndex": 3,
@@ -1432,10 +1432,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The BG/NBD probability model computes the exact probability that a customer is still active (P(Alive)) using observed historical recency and transaction frequency.\"",
           "options": [
-            "In SaaS subscription businesses, churn is unobservable. (Contractual vs NonContractual Churn)",
-            "Pareto/NBD models assume all customers have identical purchase behavior. (Contractual vs NonContractual Churn)",
+            "In SaaS subscription businesses, churn is unobservable.",
+            "Pareto/NBD models assume all customers have identical purchase behavior.",
             "The BG/NBD probability model computes the exact probability that a customer is still active (Alive)",
-            "Recency has zero statistical value in predicting repeat customer transactions. (Contractual vs NonContractual Churn)"
+            "Recency has zero statistical value in predicting repeat customer transactions."
           ],
           "answerIndex": 2,
           "explanation": "Accurate BG/NBD model analysis translation.",
@@ -1444,10 +1444,10 @@
         {
           "prompt": "What metric in non-contractual customer analytics measures the time elapsed between a customer's first transaction and their most recent transaction?",
           "options": [
-            "Churn rate (Contractual vs NonContractual Churn)",
-            "Recency (Contractual vs NonContractual Churn)",
-            "Tenure (Contractual vs NonContractual Churn)",
-            "Frequency (Contractual vs NonContractual Churn)"
+            "Churn rate",
+            "Recency",
+            "Tenure",
+            "Frequency"
           ],
           "answerIndex": 1,
           "explanation": "Recency (t_x).",
@@ -1484,10 +1484,10 @@
         {
           "prompt": "In subscription business models, what is the standard recommended benchmark ratio for LTV to CAC?",
           "options": [
-            "At least 3:1 (Formulate Customer Lifetime Value CLV)",
-            "1:1 (Formulate Customer Lifetime Value CLV)",
-            "100:1 only (Formulate Customer Lifetime Value CLV)",
-            "0.5:1 (Formulate Customer Lifetime Value CLV)"
+            "At least 3:1",
+            "1:1",
+            "100:1 only",
+            "0.5:1"
           ],
           "answerIndex": 0,
           "explanation": "3:1 provides sufficient gross profit buffer after acquisition, operational overhead, and churn."
@@ -1499,10 +1499,10 @@
         {
           "prompt": "If retention rate $r$ increases from 80% to 90% while discount rate $d=10%$, what happens to the CLV multiplier $\\frac{r}{1+d-r}$?",
           "options": [
-            "It stays constant (Formulate Customer Lifetime Value CLV)",
-            "It drops to zero (Formulate Customer Lifetime Value CLV)",
-            "It decreases linearly (Formulate Customer Lifetime Value CLV)",
-            "It more than doubles (Formulate Customer Lifetime Value CLV)"
+            "It stays constant",
+            "It drops to zero",
+            "It decreases linearly",
+            "It more than doubles"
           ],
           "answerIndex": 3,
           "explanation": "Retention has a highly convex, non-linear compounding multiplier on customer valuation."
@@ -1514,10 +1514,10 @@
         {
           "prompt": "What happens to CLV as the annual customer churn rate approaches zero (retention $r \\to 1$)?",
           "options": [
-            "CLV becomes negative (Formulate Customer Lifetime Value CLV)",
-            "CLV approaches $M \\cdot \\frac{1+d}{d}$ (Formulate Customer Lifetime Value CLV)",
-            "CAC increases to infinity (Formulate Customer Lifetime Value CLV)",
-            "CLV drops to zero (Formulate Customer Lifetime Value CLV)"
+            "CLV becomes negative",
+            "CLV approaches $M \\cdot \\frac{1+d}{d}$",
+            "CAC increases to infinity",
+            "CLV drops to zero"
           ],
           "answerIndex": 1,
           "explanation": "At 100% retention, customer value equals a perpetual discounted cash flow annuity.",
@@ -1526,10 +1526,10 @@
         {
           "prompt": "Which metric measures how many months of customer gross margin are needed to recoup marketing acquisition cost?",
           "options": [
-            "CAC Payback Period (Formulate Customer Lifetime Value CLV)",
-            "Gross Margin Return on Inventory (Formulate Customer Lifetime Value CLV)",
-            "Asset Turnover (Formulate Customer Lifetime Value CLV)",
-            "Net Promoter Score (Formulate Customer Lifetime Value CLV)"
+            "CAC Payback Period",
+            "Gross Margin Return on Inventory",
+            "Asset Turnover",
+            "Net Promoter Score"
           ],
           "answerIndex": 0,
           "explanation": "CAC Payback Period = CAC / Monthly Gross Margin.",
@@ -1648,10 +1648,10 @@
         {
           "prompt": "How is the marginal Willingness-to-Pay (WTP) for a feature upgrade calculated from conjoint part-worth utilities?",
           "options": [
-            "WTP = Beta_feature * Price (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "WTP = Beta_feature + Beta_price (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "WTP = Price / Beta_feature (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "WTP = - (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)"
+            "WTP = Beta_feature * Price",
+            "WTP = Beta_feature + Beta_price",
+            "WTP = Price / Beta_feature",
+            "WTP = -"
           ],
           "answerIndex": 3,
           "explanation": "WTP = - (Delta Beta_feature) / Beta_price."
@@ -1663,10 +1663,10 @@
         {
           "prompt": "If the price coefficient in a conjoint study is beta_price = -0.02 per dollar and upgrading battery life gives Delta beta = +0.80, what is the consumer WTP for the upgrade?",
           "options": [
-            "$40.00 (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "$80.00 (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "$16.00 (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "$20.00 (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)"
+            "$40.00",
+            "$80.00",
+            "$16.00",
+            "$20.00"
           ],
           "answerIndex": 0,
           "explanation": "$40.00."
@@ -1678,9 +1678,9 @@
         {
           "prompt": "Why is the price coefficient (beta_price) negative in standard consumer demand models?",
           "options": [
-            "Because surveyed customers are irrational. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "Because negative numbers simplify matrix math. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "Because companies lose revenue when prices rise. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
+            "Because surveyed customers are irrational.",
+            "Because negative numbers simplify matrix math.",
+            "Because companies lose revenue when prices rise.",
             "Because as price increases, consumer utility decreases (law of downward-sloping demand)"
           ],
           "answerIndex": 3,
@@ -1690,10 +1690,10 @@
         {
           "prompt": "What strategic business decision can a product manager optimize using conjoint WTP estimates?",
           "options": [
-            "Factory inventory barcodes. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "Employee payroll deductions. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "Value-based tiered pricing and profitable feature bundling. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)",
-            "Corporate tax filings. (Calculate Marginal WillingnesstoPay WTP and Marginal Rates of Substitution MRS from PartWorth Utilities)"
+            "Factory inventory barcodes.",
+            "Employee payroll deductions.",
+            "Value-based tiered pricing and profitable feature bundling.",
+            "Corporate tax filings."
           ],
           "answerIndex": 2,
           "explanation": "Value-based tiered pricing and profitable feature bundling.",
@@ -1745,10 +1745,10 @@
         {
           "prompt": "What famous paradox illustrates the limitation of the Independence of Irrelevant Alternatives (IIA) assumption in standard logit models?",
           "options": [
-            "The Red Bus / Blue Bus Paradox (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "The Monty Hall Problem (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "The St. Petersburg Paradox (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "Arrow's Impossibility Theorem (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)"
+            "The Red Bus / Blue Bus Paradox",
+            "The Monty Hall Problem",
+            "The St. Petersburg Paradox",
+            "Arrow's Impossibility Theorem"
           ],
           "answerIndex": 0,
           "explanation": "The Red Bus / Blue Bus Paradox."
@@ -1760,10 +1760,10 @@
         {
           "prompt": "If three products have utilities V_1 = 0, V_2 = 0, V_3 = 0 in a choice set, what is the probability of choosing Product 1?",
           "options": [
-            "0.0% (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "50.0% (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "33.3% (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "100.0% (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)"
+            "0.0%",
+            "50.0%",
+            "33.3%",
+            "100.0%"
           ],
           "answerIndex": 2,
           "explanation": "33.3%.",
@@ -1772,10 +1772,10 @@
         {
           "prompt": "Which advanced Bayesian econometric method estimates individual-level part-worth distributions to resolve the IIA restriction in market simulations?",
           "options": [
-            "Ordinary Least Squares (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "Hierarchical Bayes (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "K-Means clustering (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)",
-            "PCA decomposition (Derive Discrete Choice Modeling ChoiceBased Conjoint  CBC)"
+            "Ordinary Least Squares",
+            "Hierarchical Bayes",
+            "K-Means clustering",
+            "PCA decomposition"
           ],
           "answerIndex": 1,
           "explanation": "Hierarchical Bayes (HB) Estimation.",
@@ -1812,10 +1812,10 @@
         {
           "prompt": "What statistical condition is satisfied when an experimental design is \"orthogonal\"?",
           "options": [
-            "The covariance between all pairs of attribute columns in the design matrix is zero (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "All profiles cost the same price. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "The sample size is greater than 1,000. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "All part-worths are positive. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)"
+            "The covariance between all pairs of attribute columns in the design matrix is zero",
+            "All profiles cost the same price.",
+            "The sample size is greater than 1,000.",
+            "All part-worths are positive."
           ],
           "answerIndex": 0,
           "explanation": "The covariance between all pairs of attribute columns is zero."
@@ -1827,10 +1827,10 @@
         {
           "prompt": "What is the primary benefit of using a fractional factorial orthogonal design in consumer conjoint surveys?",
           "options": [
-            "It makes survey results identical across all countries. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "It drastically reduces the number of survey evaluation cards while maintaining unbiased main-effect parameter estimation. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "It guarantees 100% market share. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "It eliminates the need for price attributes. (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)"
+            "It makes survey results identical across all countries.",
+            "It drastically reduces the number of survey evaluation cards while maintaining unbiased main-effect parameter estimation.",
+            "It guarantees 100% market share.",
+            "It eliminates the need for price attributes."
           ],
           "answerIndex": 1,
           "explanation": "It drastically reduces the number of survey evaluation cards."
@@ -1842,10 +1842,10 @@
         {
           "prompt": "If a full factorial design requires 3 x 3 x 3 x 3 = 81 profiles, what standard Taguchi orthogonal array can estimate all main effects in just 9 profiles?",
           "options": [
-            "L81 Full Matrix (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "L9 Orthogonal Array (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "L2 Binary Array (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "L100 Matrix (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)"
+            "L81 Full Matrix",
+            "L9 Orthogonal Array",
+            "L2 Binary Array",
+            "L100 Matrix"
           ],
           "answerIndex": 1,
           "explanation": "L9 Orthogonal Array.",
@@ -1854,10 +1854,10 @@
         {
           "prompt": "What mathematical metric evaluates the overall precision and variance minimization of a conjoint experimental design matrix X?",
           "options": [
-            "D-Efficiency (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "Gini index (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "R-squared only (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)",
-            "Beta coefficient (Construct Fractional Factorial Orthogonal Experimental Designs and Hadamard Matrices for Conjoint Studies)"
+            "D-Efficiency",
+            "Gini index",
+            "R-squared only",
+            "Beta coefficient"
           ],
           "answerIndex": 0,
           "explanation": "D-Efficiency.",
@@ -1894,10 +1894,10 @@
         {
           "prompt": "Why are orthogonal fractional factorial designs used in conjoint surveys instead of full factorials?",
           "options": [
-            "To eliminate the need for survey respondents (Master fullprofile conjoint analysis algorithms)",
-            "To make the survey completely random (Master fullprofile conjoint analysis algorithms)",
-            "Because full factorials are illegal (Master fullprofile conjoint analysis algorithms)",
-            "To dramatically reduce respondent fatigue while maintaining zero multicollinearity among attributes (Master fullprofile conjoint analysis algorithms)"
+            "To eliminate the need for survey respondents",
+            "To make the survey completely random",
+            "Because full factorials are illegal",
+            "To dramatically reduce respondent fatigue while maintaining zero multicollinearity among attributes"
           ],
           "answerIndex": 3,
           "explanation": "Orthogonal fractional factorials balance attributes and minimize respondent fatigue."
@@ -1909,10 +1909,10 @@
         {
           "prompt": "If an OLED screen upgrade gives +1.8 utils and the price slope is -0.03 utils per dollar, what is the customer WTP?",
           "options": [
-            "$180 (Master fullprofile conjoint analysis algorithms)",
-            "$54 (Master fullprofile conjoint analysis algorithms)",
-            "$18 (Master fullprofile conjoint analysis algorithms)",
-            "$60 (Master fullprofile conjoint analysis algorithms)"
+            "$180",
+            "$54",
+            "$18",
+            "$60"
           ],
           "answerIndex": 3,
           "explanation": "WTP = 1.8 / 0.03 = $60."
@@ -1924,10 +1924,10 @@
         {
           "prompt": "In conjoint analysis, what does a \"part-worth\" represent?",
           "options": [
-            "The discrete utility value a consumer places on a specific level of a product attribute (Master fullprofile conjoint analysis algorithms)",
-            "The wholesale cost of shipping (Master fullprofile conjoint analysis algorithms)",
-            "The total price of the bundle (Master fullprofile conjoint analysis algorithms)",
-            "The profit margin of the factory (Master fullprofile conjoint analysis algorithms)"
+            "The discrete utility value a consumer places on a specific level of a product attribute",
+            "The wholesale cost of shipping",
+            "The total price of the bundle",
+            "The profit margin of the factory"
           ],
           "answerIndex": 0,
           "explanation": "Part-worths quantify the utility contributed by each specific attribute level.",
@@ -1936,10 +1936,10 @@
         {
           "prompt": "What statistical technique is standardly used to estimate individual-level part-worths from conjoint choice data?",
           "options": [
-            "Simple linear addition (Master fullprofile conjoint analysis algorithms)",
-            "K-means clustering alone (Master fullprofile conjoint analysis algorithms)",
-            "Random coin tossing (Master fullprofile conjoint analysis algorithms)",
-            "Hierarchical Bayesian (Master fullprofile conjoint analysis algorithms)"
+            "Simple linear addition",
+            "K-means clustering alone",
+            "Random coin tossing",
+            "Hierarchical Bayesian"
           ],
           "answerIndex": 3,
           "explanation": "Hierarchical Bayes (HB) is the global gold standard for choice-based conjoint estimation.",

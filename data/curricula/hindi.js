@@ -524,10 +524,10 @@
         {
           "prompt": "Which Devanagari vowel matra is uniquely written BEFORE (to the left of) the consonant it modifies?",
           "options": [
-            "Chhoti 'i' matra: ि (Master the phonetic Devanagari script U1)",
-            "Badi 'ī' matra: ी (Master the phonetic Devanagari script U1)",
-            "'aa' matra: ा (Master the phonetic Devanagari script U1)",
-            "'u' matra: ु (Master the phonetic Devanagari script U1)"
+            "Chhoti 'i' matra: ि (Devanagari Vowels   Matras item 1)",
+            "Badi 'ī' matra: ी (Devanagari Vowels   Matras item 2)",
+            "'aa' matra: ा (Devanagari Vowels   Matras item 3)",
+            "'u' matra: ु (Devanagari Vowels   Matras item 4)"
           ],
           "answerIndex": 0,
           "explanation": "The short [i] matra (ि) is always drawn to the left of the consonant, even though it is pronounced after it."
@@ -536,8 +536,8 @@
           "prompt": "What is the horizontal top line called from which Devanagari letters hang?",
           "options": [
             "शिरोरेखा (Shirorekha - Top horizontal line)",
-            "मात्रा (Master the phonetic Devanagari script U1)",
-            "अनुस्वार (Master the phonetic Devanagari script U1)",
+            "मात्रा (Devanagari Vowels   Matras item 2)",
+            "अनुस्वार (Devanagari Vowels   Matras item 3)",
             "हलंत (Halant - Virama vowel cancellation mark)"
           ],
           "answerIndex": 0,
@@ -551,7 +551,7 @@
           "prompt": "Which diacritic represents full nasalization with a crescent moon and dot above the letter (as in «माँ» / mother)?",
           "options": [
             "चंद्रबिंदु (Chandrabindu - Nasal sign)",
-            "अनुस्वार (Master the phonetic Devanagari script U1)",
+            "अनुस्वार (Devanagari Vowels   Matras item 2)",
             "विसर्ग (Visarg - Aspiration breathing sign)",
             "हलंत (Halant - Virama vowel cancellation mark)"
           ],
@@ -561,10 +561,10 @@
         {
           "prompt": "Select the Hindi word meaning \"water\" spelled with «प» [p], «ा» [ā], «न» [n], «ी» [ī]:",
           "options": [
-            "पानी (Master the phonetic Devanagari script U1)",
-            "किताब (Master the phonetic Devanagari script U1)",
-            "माँ (Master the phonetic Devanagari script U1)",
-            "नाम (Master the phonetic Devanagari script U1)"
+            "पानी (pānī - water प p + ा aa + न n + ी ee)",
+            "किताब (kitāb - book क k + ि i + त t + ा aa + ब b)",
+            "माँ (mā̃ - mother म m + ा aa + ँ chandrabindu)",
+            "नाम (Devanagari Vowels   Matras item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī* - water)."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Hindi word «किताब» (*kitāb*) mean in English?",
           "options": [
-            "book (Master the phonetic Devanagari script U1)",
-            "water (Master the phonetic Devanagari script U1)",
-            "mother (Master the phonetic Devanagari script U1)",
-            "name (Master the phonetic Devanagari script U1)"
+            "book",
+            "water",
+            "mother",
+            "name"
           ],
           "answerIndex": 0,
           "explanation": "«किताब» (*kitāb*) means \"book\"."
@@ -591,7 +591,10 @@
           "acceptedAnswers": [
             "पानी"
           ],
-          "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī*)."
+          "explanation": "«प» + «ा» + «न» + «ी» = «पानी» (*pānī*).",
+          "acceptableAnswers": [
+            "पानी"
+          ]
         }
       ]
     }
@@ -640,10 +643,10 @@
         {
           "prompt": "In the Devanagari 5-Varga system, what articulatory feature distinguishes «क» [ka] from «ख» [kha]?",
           "options": [
-            "Aspiration: «क» is unaspirated, while «ख» is strongly aspirated (Master the 25 classified consonants of the 5 Vargas U1)",
-            "«क» is voiced, while «ख» is voiceless (Master the 25 classified consonants of the 5 Vargas U1)",
-            "«क» is nasal, while «ख» is a vowel (Master the 25 classified consonants of the 5 Vargas U1)",
-            "There is no difference (Master the 25 classified consonants of the 5 Vargas U1)"
+            "Aspiration: «क» is unaspirated, while «ख» is strongly aspirated (Consonants  5 Vargas   Aspiration item 1)",
+            "«क» is voiced, while «ख» is voiceless (Consonants  5 Vargas   Aspiration item 2)",
+            "«क» is nasal, while «ख» is a vowel (Consonants  5 Vargas   Aspiration item 3)",
+            "There is no difference"
           ],
           "answerIndex": 0,
           "explanation": "«ख» is the aspirated counterpart of «क», produced with a strong puff of air."
@@ -667,9 +670,9 @@
           "prompt": "Which consonant class is articulated with the tip of the tongue curled upward and back against the hard palate (retroflex)?",
           "options": [
             "ट-वर्ग (Retroflex series)",
-            "त-वर्ग (Master the 25 classified consonants of the 5 Vargas U1)",
-            "प-वर्ग (Master the 25 classified consonants of the 5 Vargas U1)",
-            "क-वर्ग (Master the 25 classified consonants of the 5 Vargas U1)"
+            "त-वर्ग (Consonants  5 Vargas   Aspiration item 2)",
+            "प-वर्ग (Consonants  5 Vargas   Aspiration item 3)",
+            "क-वर्ग (Consonants  5 Vargas   Aspiration item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«ट-वर्ग» (*ṭa-varga*) comprises the retroflex series of consonants."
@@ -680,7 +683,7 @@
             "फल (Phal - Fruit)",
             "घर (Ghar - House / Home)",
             "कमल (Kamal - Lotus)",
-            "रात (Master the 25 classified consonants of the 5 Vargas U1)"
+            "रात (Consonants  5 Vargas   Aspiration item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«फ» + «ल» = «फल» (*phal* - fruit)."
@@ -693,10 +696,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Hindi word «कमल» (*kamal*) mean in English?",
           "options": [
-            "lotus (Master the 25 classified consonants of the 5 Vargas U1)",
-            "house (Master the 25 classified consonants of the 5 Vargas U1)",
-            "fruit (Master the 25 classified consonants of the 5 Vargas U1)",
-            "water (Master the 25 classified consonants of the 5 Vargas U1)"
+            "lotus",
+            "house",
+            "fruit",
+            "water"
           ],
           "answerIndex": 0,
           "explanation": "«कमल» (*kamal*) means \"lotus\"."
@@ -707,7 +710,10 @@
           "acceptedAnswers": [
             "घर"
           ],
-          "explanation": "«घ» + «र» = «घर» (*ghar*)."
+          "explanation": "«घ» + «र» = «घर» (*ghar*).",
+          "acceptableAnswers": [
+            "घर"
+          ]
         }
       ]
     }
@@ -767,10 +773,10 @@
         {
           "prompt": "According to the Schwa Deletion rule in Hindi phonology, how is the written word «कमल» (क-म-ल) pronounced in spoken Hindi?",
           "options": [
-            "kamal (Master consonant clusters U1)",
-            "kamala (Master consonant clusters U1)",
-            "kamli (Master consonant clusters U1)",
-            "kaml (Master consonant clusters U1)"
+            "kamal",
+            "kamala",
+            "kamli",
+            "kaml"
           ],
           "answerIndex": 0,
           "explanation": "Word-final inherent schwa [a] is deleted in spoken standard Hindi, pronouncing «कमल» as [kamal]."
@@ -783,9 +789,9 @@
           "prompt": "Which special classical conjunct character represents the [kṣha] sound in «क्षमा» (forgiveness)?",
           "options": [
             "क्ष (ksha conjunct)",
-            "त्र (Master consonant clusters U1)",
-            "ज्ञ (Master consonant clusters U1)",
-            "श्र (Master consonant clusters U1)"
+            "त्र (Conjuncts  Virama   Schwa Deletion item 2)",
+            "ज्ञ (Conjuncts  Virama   Schwa Deletion item 3)",
+            "श्र (Conjuncts  Virama   Schwa Deletion item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«क्ष» is the ligated conjunct for [kṣha]."
@@ -793,10 +799,10 @@
         {
           "prompt": "Select the Hindi question word meaning \"what\" spelled with half-Ka and Ya «क्या»:",
           "options": [
-            "क्या (Master consonant clusters U1)",
-            "अच्छा (Master consonant clusters U1)",
+            "क्या (kyā - what क् k + या yaa)",
+            "अच्छा (acchā - good / fine अ a + च्छ cch + ा aa)",
             "मित्र (Mitra - Friend)",
-            "ज्ञान (Master consonant clusters U1)"
+            "ज्ञान (Conjuncts  Virama   Schwa Deletion item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«क्या» (*kyā*) means \"what\"."
@@ -809,10 +815,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Hindi word «अच्छा» (*acchā*) mean in English?",
           "options": [
-            "good / fine / okay (Master consonant clusters U1)",
-            "what (Master consonant clusters U1)",
-            "friend (Master consonant clusters U1)",
-            "book (Master consonant clusters U1)"
+            "good / fine / okay",
+            "what",
+            "friend",
+            "book"
           ],
           "answerIndex": 0,
           "explanation": "«अच्छा» (*acchā*) means \"good / fine / well\"."
@@ -823,7 +829,10 @@
           "acceptedAnswers": [
             "क्या"
           ],
-          "explanation": "«क्» + «य» + «ा» = «क्या» (*kyā*)."
+          "explanation": "«क्» + «य» + «ा» = «क्या» (*kyā*).",
+          "acceptableAnswers": [
+            "क्या"
+          ]
         }
       ]
     }
@@ -875,7 +884,7 @@
             "आप कैसी हैं? (formal female)",
             "आप कैसे हैं? (formal male)",
             "तुम कौन हो? (informal)",
-            "शुभ रात्रि (Master traditional greetings Namaste U1)"
+            "शुभ रात्रि (Greetings   Wellbeing item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«आप कैसी हैं?» (*Āp kaisī hain?*) uses the feminine agreement «कैसी» (*kaisī*)."
@@ -883,10 +892,10 @@
         {
           "prompt": "What gesture traditionally accompanies the greeting «नमस्ते» (Namaste)?",
           "options": [
-            "Pressing palms together gently at chest height with a slight bow (Master traditional greetings Namaste U1)",
-            "A handshake (Master traditional greetings Namaste U1)",
-            "Waving one hand (Master traditional greetings Namaste U1)",
-            "Snapping fingers (Master traditional greetings Namaste U1)"
+            "Pressing palms together gently at chest height with a slight bow",
+            "A handshake",
+            "Waving one hand",
+            "Snapping fingers"
           ],
           "answerIndex": 0,
           "explanation": "Namaste is accompanied by pressing the palms together near the heart chakra."
@@ -898,10 +907,10 @@
         {
           "prompt": "Select the Hindi greeting meaning \"Good morning!\" (lit. \"Auspicious morning\"):",
           "options": [
-            "शुभ प्रभात (Master traditional greetings Namaste U1)",
-            "शुभ रात्रि (Master traditional greetings Namaste U1)",
+            "शुभ प्रभात (Greetings   Wellbeing item 1)",
+            "शुभ रात्रि (Greetings   Wellbeing item 2)",
             "नमस्ते (Namaste - Greetings / Hello)",
-            "अलविदा (Master traditional greetings Namaste U1)"
+            "अलविदा (Greetings   Wellbeing item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«शुभ प्रभात» (*Shubh prabhāt*) means \"Good morning\"."
@@ -909,10 +918,10 @@
         {
           "prompt": "What does the standard response «मैं ठीक हूँ, धन्यवाद» mean in English?",
           "options": [
-            "I am fine, thank you (Master traditional greetings Namaste U1)",
-            "My name is Rahul (Master traditional greetings Namaste U1)",
-            "Goodbye until tomorrow (Master traditional greetings Namaste U1)",
-            "Where are you going? (Master traditional greetings Namaste U1)"
+            "I am fine, thank you",
+            "My name is Rahul",
+            "Goodbye until tomorrow",
+            "Where are you going?"
           ],
           "answerIndex": 0,
           "explanation": "«मैं ठीक हूँ, धन्यवाद» (*Main ṭhīk hū̃, dhanyavād*) means \"I am fine, thank you\"."
@@ -925,10 +934,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Sanskrit root of «नमस्ते» (*Namaste*) literally translate to?",
           "options": [
-            "I bow to you / Reverence to you (Master traditional greetings Namaste U1)",
-            "Good morning to you (Master traditional greetings Namaste U1)",
-            "Peace with you (Master traditional greetings Namaste U1)",
-            "Be well today (Master traditional greetings Namaste U1)"
+            "I bow to you / Reverence to you",
+            "Good morning to you",
+            "Peace with you",
+            "Be well today"
           ],
           "answerIndex": 0,
           "explanation": "Namaste is formed from *Namah* (bow/salutation) + *te* (to you)."
@@ -939,7 +948,10 @@
           "acceptedAnswers": [
             "नमस्ते"
           ],
-          "explanation": "«न» + «म» + «स्» + «ते» = «नमस्ते» (*Namaste*)."
+          "explanation": "«न» + «म» + «स्» + «ते» = «नमस्ते» (*Namaste*).",
+          "acceptableAnswers": [
+            "नमस्ते"
+          ]
         }
       ]
     }
@@ -989,9 +1001,9 @@
           "prompt": "How do you introduce yourself and state \"My name is Rahul\" in Hindi?",
           "options": [
             "मेरा नाम राहुल है (Mera naam Rahul hai - My name is Rahul)",
-            "आपका नाम राहुल है (Master selfintroductions Mer nm U1)",
-            "मैं राहुल जाता हूँ (Master selfintroductions Mer nm U1)",
-            "राहुल घर है (Master selfintroductions Mer nm U1)"
+            "आपका नाम राहुल है (Introductions  Etiquette   Farewells item 2)",
+            "मैं राहुल जाता हूँ (Introductions  Etiquette   Farewells item 3)",
+            "राहुल घर है (Introductions  Etiquette   Farewells item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरा नाम [नाम] है» (*Merā nām [Name] hai*) is the standard phrase for stating your name."
@@ -1000,9 +1012,9 @@
           "prompt": "Which warm Hindi farewell phrase means \"See you again! / We will meet again\"?",
           "options": [
             "फिर मिलेंगे (Phir milenge - See you again)",
-            "शुभ प्रभात (Master selfintroductions Mer nm U1)",
-            "धन्यवाद (Master selfintroductions Mer nm U1)",
-            "माफ़ कीजिए (Master selfintroductions Mer nm U1)"
+            "शुभ प्रभात (Introductions  Etiquette   Farewells item 2)",
+            "धन्यवाद (Introductions  Etiquette   Farewells item 3)",
+            "माफ़ कीजिए (Introductions  Etiquette   Farewells item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«फिर मिलेंगे» (*Phir milenge*) is the standard hopeful parting phrase."
@@ -1015,9 +1027,9 @@
           "prompt": "Select the polite Hindi sentence meaning \"Pleased to meet you\":",
           "options": [
             "आपसे मिलकर बहुत खुशी हुई (Aapse milkar bahut khushi hui - Nice to meet you)",
-            "कोई बात नहीं (Master selfintroductions Mer nm U1)",
-            "आपका नाम क्या है? (Master selfintroductions Mer nm U1)",
-            "माफ़ कीजिए (Master selfintroductions Mer nm U1)"
+            "कोई बात नहीं (Introductions  Etiquette   Farewells item 2)",
+            "आपका नाम क्या है? (Āpkā nām kyā hai? - What is your name? polite / formal)",
+            "माफ़ कीजिए (Introductions  Etiquette   Farewells item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«आपसे मिलकर बहुत खुशी हुई» expresses pleasure upon meeting someone."
@@ -1026,9 +1038,9 @@
           "prompt": "When someone thanks you with «धन्यवाद» (Dhanyavād), what is the polite Hindi response meaning \"You are welcome / No problem\"?",
           "options": [
             "कोई बात नहीं (Koi baat nahin - No problem / You are welcome)",
-            "फिर मिलेंगे (Master selfintroductions Mer nm U1)",
-            "मेरा नाम है (Master selfintroductions Mer nm U1)",
-            "शुभ रात्रि (Master selfintroductions Mer nm U1)"
+            "फिर मिलेंगे (Introductions  Etiquette   Farewells item 2)",
+            "मेरा नाम है (Introductions  Etiquette   Farewells item 3)",
+            "शुभ रात्रि (Introductions  Etiquette   Farewells item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«कोई बात नहीं» (*Koī bāt nahī̃*) is the standard gracious response."
@@ -1043,7 +1055,7 @@
           "options": [
             "आपका नाम क्या है? (Aapka naam kya hai? - What is your name?)",
             "तुम कौन हो? (informal)",
-            "घर कहाँ है? (Master selfintroductions Mer nm U1)",
+            "घर कहाँ है? (Introductions  Etiquette   Farewells item 3)",
             "कैसे हो? (informal)"
           ],
           "answerIndex": 0,
@@ -1056,7 +1068,11 @@
             "धन्यवाद",
             "शुक्रिया"
           ],
-          "explanation": "«धन्यवाद» (*dhanyavād*) = Thank you."
+          "explanation": "«धन्यवाद» (*dhanyavād*) = Thank you.",
+          "acceptableAnswers": [
+            "धन्यवाद",
+            "शुक्रिया"
+          ]
         }
       ]
     }

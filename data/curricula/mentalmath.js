@@ -165,14 +165,14 @@
           "type": "multiple-choice",
           "prompt": "Why is adding tens-before-ones (left to right) usually faster in your head than the school column method?",
           "options": [
-            "It isn't faster, it just looks different (Add two twodigit numbers mentally in under 5 seconds with full accuracy)",
-            "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer (Add two twodigit numbers mentally in under 5 seconds with full accuracy)",
-            "It only works for even numbers (Add two twodigit numbers mentally in under 5 seconds with full accuracy)",
-            "It requires writing the numbers down first (Add two twodigit numbers mentally in under 5 seconds with full accuracy)"
+            "It isn't faster, it just looks different",
+            "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer",
+            "It only works for even numbers",
+            "It requires writing the numbers down first"
           ],
           "answer": "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer",
           "difficulty": 560,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u1-l1-q4",
@@ -234,14 +234,14 @@
           "type": "multiple-choice",
           "prompt": "In the compensation technique, after rounding the subtrahend UP and subtracting, what do you do next?",
           "options": [
-            "Subtract the rounding amount again (Subtract two twodigit numbers mentally using the compensation technique)",
-            "Add the rounding amount back (Subtract two twodigit numbers mentally using the compensation technique)",
-            "Multiply by the rounding amount (Subtract two twodigit numbers mentally using the compensation technique)",
-            "Nothing — the rounded answer is already correct (Subtract two twodigit numbers mentally using the compensation technique)"
+            "Subtract the rounding amount again",
+            "Add the rounding amount back",
+            "Multiply by the rounding amount",
+            "Nothing — the rounded answer is already correct"
           ],
           "answer": "Add the rounding amount back",
           "difficulty": 580,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u1-l2-q4",
@@ -303,14 +303,14 @@
           "type": "multiple-choice",
           "prompt": "When adding a long column of single digits mentally, what should you scan for first?",
           "options": [
-            "The largest number in the list (Add a column of three or more singledigit numbers by grouping to make tens)",
-            "Pairs of digits that add up to exactly 10 (Add a column of three or more singledigit numbers by grouping to make tens)",
-            "The smallest number in the list (Add a column of three or more singledigit numbers by grouping to make tens)",
-            "Numbers that are already even (Add a column of three or more singledigit numbers by grouping to make tens)"
+            "The largest number in the list",
+            "Pairs of digits that add up to exactly 10",
+            "The smallest number in the list",
+            "Numbers that are already even"
           ],
           "answer": "Pairs of digits that add up to exactly 10",
           "difficulty": 580,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u1-l3-q4",
@@ -372,14 +372,14 @@
           "type": "multiple-choice",
           "prompt": "For three-digit compensation subtraction (like 523 - 268), what do you round the second number to?",
           "options": [
-            "The nearest ten (Add and subtract threedigit numbers using lefttoright calculation)",
-            "The nearest hundred (Add and subtract threedigit numbers using lefttoright calculation)",
-            "The nearest thousand (Add and subtract threedigit numbers using lefttoright calculation)",
-            "You never round three-digit numbers (Add and subtract threedigit numbers using lefttoright calculation)"
+            "The nearest ten",
+            "The nearest hundred",
+            "The nearest thousand",
+            "You never round three-digit numbers"
           ],
           "answer": "The nearest hundred",
           "difficulty": 620,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u1-l4-q4",
@@ -529,7 +529,7 @@
           ],
           "answer": "3",
           "difficulty": 590,
-          "answerIndex": 0
+          "answerIndex": 2
         },
         {
           "id": "mentalmath-u2-l1-q5",
@@ -598,14 +598,14 @@
           "type": "multiple-choice",
           "prompt": "What is the fastest way to solve 72 / 8 mentally?",
           "options": [
-            "Count down from 72 by 8s until you reach 0 (Recall singledigit division facts as the inverse of multiplication facts)",
-            "Recognize 72 as the product 8x9 and read off the missing factor (Recall singledigit division facts as the inverse of multiplication facts)",
-            "It can't be solved without a calculator (Recall singledigit division facts as the inverse of multiplication facts)",
-            "Divide 72 by 2 four times (Recall singledigit division facts as the inverse of multiplication facts)"
+            "Count down from 72 by 8s until you reach 0",
+            "Recognize 72 as the product 8x9 and read off the missing factor",
+            "It can't be solved without a calculator",
+            "Divide 72 by 2 four times"
           ],
           "answer": "Recognize 72 as the product 8x9 and read off the missing factor",
           "difficulty": 600,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u2-l2-q5",
@@ -674,14 +674,14 @@
           "type": "multiple-choice",
           "prompt": "To multiply 62 x 8 by place-value decomposition, which two easier products do you add together?",
           "options": [
-            "6x8 and 2x8 (Multiply a twodigit number by a single digit using placevalue decomposition)",
-            "60x8 and 2x8 (Multiply a twodigit number by a single digit using placevalue decomposition)",
-            "62x8 directly, no splitting needed (Multiply a twodigit number by a single digit using placevalue decomposition)",
-            "60x8 and 20x8 (Multiply a twodigit number by a single digit using placevalue decomposition)"
+            "6x8 and 2x8",
+            "60x8 and 2x8",
+            "62x8 directly, no splitting needed",
+            "60x8 and 20x8"
           ],
           "answer": "60x8 and 2x8",
           "difficulty": 620,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u2-l3-q5",
@@ -750,14 +750,14 @@
           "type": "multiple-choice",
           "prompt": "When chunking 168 / 8, which chunk makes the division easiest?",
           "options": [
-            "100, leaving 68 (Divide a two or threedigit number by a single digit mentally using chunking)",
-            "160, leaving 8 (Divide a two or threedigit number by a single digit mentally using chunking)",
-            "80, leaving 88 (Divide a two or threedigit number by a single digit mentally using chunking)",
-            "8, leaving 160 (Divide a two or threedigit number by a single digit mentally using chunking)"
+            "100, leaving 68",
+            "160, leaving 8",
+            "80, leaving 88",
+            "8, leaving 160"
           ],
           "answer": "160, leaving 8",
           "difficulty": 650,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u2-l4-q5",
@@ -893,14 +893,14 @@
           "type": "multiple-choice",
           "prompt": "When multiplying a two-digit number by 11, when do you need the \"carry\" step?",
           "options": [
-            "Whenever the number is even (Multiply any twodigit number by 11 using the add the digits shortcut)",
-            "Whenever the two digits sum to 10 or more (Multiply any twodigit number by 11 using the add the digits shortcut)",
-            "Whenever the first digit is bigger than the second (Multiply any twodigit number by 11 using the add the digits shortcut)",
-            "Every single time, with no exceptions (Multiply any twodigit number by 11 using the add the digits shortcut)"
+            "Whenever the number is even",
+            "Whenever the two digits sum to 10 or more",
+            "Whenever the first digit is bigger than the second",
+            "Every single time, with no exceptions"
           ],
           "answer": "Whenever the two digits sum to 10 or more",
           "difficulty": 690,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u3-l1-q4",
@@ -962,14 +962,14 @@
           "type": "multiple-choice",
           "prompt": "Why does halving an odd number before \"shifting\" still give a clean whole-number answer with no extra rounding step?",
           "options": [
-            "It does not — odd numbers always require a separate correction (Multiply any number by 5 using the halveandshift shortcut)",
-            "A trailing .5, shifted one decimal place, always becomes a trailing 5 (Multiply any number by 5 using the halveandshift shortcut)",
-            "Odd numbers are rounded up automatically by the shortcut (Multiply any number by 5 using the halveandshift shortcut)",
-            "The shortcut only works for even numbers (Multiply any number by 5 using the halveandshift shortcut)"
+            "It does not — odd numbers always require a separate correction",
+            "A trailing .5, shifted one decimal place, always becomes a trailing 5",
+            "Odd numbers are rounded up automatically by the shortcut",
+            "The shortcut only works for even numbers"
           ],
           "answer": "A trailing .5, shifted one decimal place, always becomes a trailing 5",
           "difficulty": 690,
-          "answerIndex": 0
+          "answerIndex": 1
         },
         {
           "id": "mentalmath-u3-l2-q4",
@@ -1038,14 +1038,14 @@
           "type": "multiple-choice",
           "prompt": "Why does \"multiply by 10, then subtract the number once\" work exactly (not approximately) for multiplying by 9?",
           "options": [
-            "It is only an approximation and needs rounding afterward (Multiply any number by 9 using the x10 then subtract shortcut)",
-            "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1 (Multiply any number by 9 using the x10 then subtract shortcut)",
-            "It only works for even numbers (Multiply any number by 9 using the x10 then subtract shortcut)",
-            "It is limited to single-digit additions only (Multiply any number by 9 using the x10 then subtract shortcut)"
+            "It is only an approximation and needs rounding afterward",
+            "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1",
+            "It only works for even numbers",
+            "It is limited to single-digit additions only"
           ],
           "answer": "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1",
           "difficulty": 700,
-          "answerIndex": 0
+          "answerIndex": 1
         }
       ]
     },
@@ -1112,14 +1112,14 @@
           "type": "multiple-choice",
           "prompt": "How many times do you halve a number to divide it by 8?",
           "options": [
-            "Once (Multiply by 4)",
-            "Twice (Multiply by 4)",
-            "Three times (Multiply by 4)",
-            "Four times (Multiply by 4)"
+            "Once",
+            "Twice",
+            "Three times",
+            "Four times"
           ],
           "answer": "Three times",
           "difficulty": 700,
-          "answerIndex": 0
+          "answerIndex": 2
         },
         {
           "id": "mentalmath-u3-l4-q5",
@@ -2431,10 +2431,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 6, Lesson 4, what is the exact result?",
           "options": [
-            "~2,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~20,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~20,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~200,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "~2,000,000",
+            "~20,000,000",
+            "~20,000",
+            "~200,000"
           ],
           "answerIndex": 0,
           "explanation": "4,000 * 500 = 2,000,000 (Exact: 1,999,200)."
@@ -2442,10 +2442,10 @@
         {
           "prompt": "What is the useful mental math approximation for the number of seconds in one year?",
           "options": [
-            "π x 10⁷ seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "100 million seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "10 billion seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "1 million seconds (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "π x 10⁷ seconds",
+            "100 million seconds",
+            "10 billion seconds",
+            "1 million seconds"
           ],
           "answerIndex": 0,
           "explanation": "365 * 24 * 3600 = 31,536,000 ≈ π * 10⁷."
@@ -2457,10 +2457,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 6, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "~20,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~2,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~2,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~200,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "~20,000",
+            "~2,000,000",
+            "~2,000",
+            "~200,000"
           ],
           "answerIndex": 0,
           "explanation": "800,000 / 40 = 20,000."
@@ -2468,10 +2468,10 @@
         {
           "prompt": "Estimate: 0.0042 x 2,100,000:",
           "options": [
-            "~8,400 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~840 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~84 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~84,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "~8,400",
+            "~840",
+            "~84",
+            "~84,000"
           ],
           "answerIndex": 0,
           "explanation": "0.0042 * 2,100,000 = 8,820 ≈ 8,400."
@@ -2483,10 +2483,10 @@
         {
           "prompt": "Estimate the order of magnitude for 59,000 x 480 / 12:",
           "options": [
-            "~240,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~2,400,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~24,000,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~24,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "~240,000",
+            "~2,400,000",
+            "~24,000,000",
+            "~24,000"
           ],
           "answerIndex": 1,
           "explanation": "60,000 * 480 / 12 = 60,000 * 40 = 2,400,000 (Exact: 2,360,000).",
@@ -2495,10 +2495,10 @@
         {
           "prompt": "If a car travels 60 miles per hour, approximately how many feet per second is it moving? (1 mile ≈ 5,280 ft):",
           "options": [
-            "~88 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~50 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~120 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "~20 ft/sec (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "~88 ft/sec",
+            "~50 ft/sec",
+            "~120 ft/sec",
+            "~20 ft/sec"
           ],
           "answerIndex": 0,
           "explanation": "60 mph = exactly 88 ft/sec.",
@@ -2507,9 +2507,9 @@
         {
           "prompt": "What is the primary objective of a Fermi estimation?",
           "options": [
-            "To memorize multiplication tables (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "To calculate digits of pi to 10 decimal places (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "To prove mathematical theorems (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
+            "To memorize multiplication tables",
+            "To calculate digits of pi to 10 decimal places",
+            "To prove mathematical theorems",
             "To quickly obtain a correct order of magnitude (power of 10)"
           ],
           "answerIndex": 3,
@@ -2519,10 +2519,10 @@
         {
           "prompt": "Estimate: 295 x 305 mentally:",
           "options": [
-            "89,925 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "90,025 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "89,975 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)",
-            "90,000 (Execute rapid Fermi estimation and orderofmagnitude calculations by rounding to 1 significant figure and manipulating scientific notation powers of 10 mentally)"
+            "89,925",
+            "90,025",
+            "89,975",
+            "90,000"
           ],
           "answerIndex": 2,
           "explanation": "Difference of squares: 300² - 5² = 89,975.",
@@ -2695,10 +2695,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 1, what is the exact result?",
           "options": [
-            "620 (Execute multistep mixed addition and subtraction chains e)",
-            "640 (Execute multistep mixed addition and subtraction chains e)",
-            "650 (Execute multistep mixed addition and subtraction chains e)",
-            "630 (Execute multistep mixed addition and subtraction chains e)"
+            "620",
+            "640",
+            "650",
+            "630"
           ],
           "answerIndex": 3,
           "explanation": "540 + 285 = 825; 825 - 195 = 630."
@@ -2706,10 +2706,10 @@
         {
           "prompt": "What is the fastest way to subtract 394 from 721 mentally?",
           "options": [
-            "Round 721 to 700 (Execute multistep mixed addition and subtraction chains e)",
-            "Add 394 to 721 (Execute multistep mixed addition and subtraction chains e)",
-            "Subtract 400 and add back 6: 721 - 400 = 321; 321 + 6 = 327 (Execute multistep mixed addition and subtraction chains e)",
-            "Subtract 300, then borrow 9, then borrow 4 on paper (Execute multistep mixed addition and subtraction chains e)"
+            "Round 721 to 700",
+            "Add 394 to 721",
+            "Subtract 400 and add back 6: 721 - 400 = 321; 321 + 6 = 327",
+            "Subtract 300, then borrow 9, then borrow 4 on paper"
           ],
           "answerIndex": 2,
           "explanation": "Compensation with complement 6: 721 - 400 + 6 = 327."
@@ -2721,10 +2721,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "490 (Execute multistep mixed addition and subtraction chains e)",
-            "510 (Execute multistep mixed addition and subtraction chains e)",
-            "520 (Execute multistep mixed addition and subtraction chains e)",
-            "500 (Execute multistep mixed addition and subtraction chains e)"
+            "490",
+            "510",
+            "520",
+            "500"
           ],
           "answerIndex": 3,
           "explanation": "Compatible pairing: (275 + 325) + (148 - 248) = 600 - 100 = 500."
@@ -2732,10 +2732,10 @@
         {
           "prompt": "Compute: 650 - 175 + 325 - 400",
           "options": [
-            "390 (Execute multistep mixed addition and subtraction chains e)",
-            "410 (Execute multistep mixed addition and subtraction chains e)",
-            "420 (Execute multistep mixed addition and subtraction chains e)",
-            "400 (Execute multistep mixed addition and subtraction chains e)"
+            "390",
+            "410",
+            "420",
+            "400"
           ],
           "answerIndex": 3,
           "explanation": "-175 + 325 = +150; 650 + 150 - 400 = 400."
@@ -2747,10 +2747,10 @@
         {
           "prompt": "Calculate the full chain mentally: 412 + 388 - 295 + 145",
           "options": [
-            "640 (Execute multistep mixed addition and subtraction chains e)",
-            "660 (Execute multistep mixed addition and subtraction chains e)",
-            "630 (Execute multistep mixed addition and subtraction chains e)",
-            "650 (Execute multistep mixed addition and subtraction chains e)"
+            "640",
+            "660",
+            "630",
+            "650"
           ],
           "answerIndex": 3,
           "explanation": "800 - 295 + 145 = 800 - 150 = 650.",
@@ -2759,10 +2759,10 @@
         {
           "prompt": "What technique allows mental math experts to avoid visual carrying/borrowing fatigue?",
           "options": [
-            "Writing numbers down on napkins (Execute multistep mixed addition and subtraction chains e)",
-            "Guessing the last digit only (Execute multistep mixed addition and subtraction chains e)",
-            "Left-to-right calculation combined with compensation and compatible number grouping (Execute multistep mixed addition and subtraction chains e)",
-            "Counting on fingers (Execute multistep mixed addition and subtraction chains e)"
+            "Writing numbers down on napkins",
+            "Guessing the last digit only",
+            "Left-to-right calculation combined with compensation and compatible number grouping",
+            "Counting on fingers"
           ],
           "answerIndex": 2,
           "explanation": "Left-to-right processing with compensation keeps intermediate numbers manageable.",
@@ -2771,10 +2771,10 @@
         {
           "prompt": "Calculate: 950 - 380 - 170 + 400",
           "options": [
-            "790 (Execute multistep mixed addition and subtraction chains e)",
-            "800 (Execute multistep mixed addition and subtraction chains e)",
-            "820 (Execute multistep mixed addition and subtraction chains e)",
-            "810 (Execute multistep mixed addition and subtraction chains e)"
+            "790",
+            "800",
+            "820",
+            "810"
           ],
           "answerIndex": 1,
           "explanation": "Combining subtractions: -(380 + 170) = -550; 950 - 550 + 400 = 800.",
@@ -2783,10 +2783,10 @@
         {
           "prompt": "Complete the mental sequence: 150 + 75 - 25 + 200 = _______",
           "options": [
-            "400 (Execute multistep mixed addition and subtraction chains e)",
-            "410 (Execute multistep mixed addition and subtraction chains e)",
-            "420 (Execute multistep mixed addition and subtraction chains e)",
-            "390 (Execute multistep mixed addition and subtraction chains e)"
+            "400",
+            "410",
+            "420",
+            "390"
           ],
           "answerIndex": 0,
           "explanation": "150 + 50 + 200 = 400.",
@@ -2824,10 +2824,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 2, what is the exact result?",
           "options": [
-            "600 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "620 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "590 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "610 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "600",
+            "620",
+            "590",
+            "610"
           ],
           "answerIndex": 0,
           "explanation": "28 × 15 = 420; 420 + 180 = 600."
@@ -2835,10 +2835,10 @@
         {
           "prompt": "Calculate: 44 × 25 - 350",
           "options": [
-            "750 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "740 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "770 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "760 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "750",
+            "740",
+            "770",
+            "760"
           ],
           "answerIndex": 0,
           "explanation": "44 × 25 = 1100; 1100 - 350 = 750."
@@ -2850,10 +2850,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "730 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "750 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "740 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "760 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "730",
+            "750",
+            "740",
+            "760"
           ],
           "answerIndex": 2,
           "explanation": "19 × 30 = 570; 17 × 10 = 170; 570 + 170 = 740."
@@ -2861,10 +2861,10 @@
         {
           "prompt": "Calculate: 65 × 6 - 190",
           "options": [
-            "190 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "210 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "220 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "200 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "190",
+            "210",
+            "220",
+            "200"
           ],
           "answerIndex": 3,
           "explanation": "65 × 6 = 390; 390 - 190 = 200."
@@ -2876,10 +2876,10 @@
         {
           "prompt": "Calculate the fused expression: 52 × 8 + 184",
           "options": [
-            "610 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "620 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "600 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "590 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "610",
+            "620",
+            "600",
+            "590"
           ],
           "answerIndex": 2,
           "explanation": "416 + 184 = 600.",
@@ -2888,10 +2888,10 @@
         {
           "prompt": "Calculate: 99 × 7 + 107",
           "options": [
-            "810 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "800 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "820 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "790 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "810",
+            "800",
+            "820",
+            "790"
           ],
           "answerIndex": 1,
           "explanation": "693 + 107 = 800.",
@@ -2900,10 +2900,10 @@
         {
           "prompt": "Why is factoring 75 × 16 as (75 × 4) × 4 faster than traditional vertical multiplication?",
           "options": [
-            "75 × 4 instantly yields 300; 300 × 4 = 1200 with zero carry memory required (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "It rounds to the nearest ten (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "It uses logarithms (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "It turns the answer into a fraction (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "75 × 4 instantly yields 300; 300 × 4 = 1200 with zero carry memory required",
+            "It rounds to the nearest ten",
+            "It uses logarithms",
+            "It turns the answer into a fraction"
           ],
           "answerIndex": 0,
           "explanation": "Associative factoring leverages the round base 300.",
@@ -2912,10 +2912,10 @@
         {
           "prompt": "Complete: 16 × 25 + 250 = _______",
           "options": [
-            "640 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "660 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "670 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)",
-            "650 (Fuse multidigit multiplication shortcuts directly with immediate addition and subtraction operations e)"
+            "640",
+            "660",
+            "670",
+            "650"
           ],
           "answerIndex": 3,
           "explanation": "400 + 250 = 650.",
@@ -2953,10 +2953,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 3, what is the exact result?",
           "options": [
-            "8 (Calculate complex compound percentages)",
-            "10 (Calculate complex compound percentages)",
-            "11 (Calculate complex compound percentages)",
-            "9 (Calculate complex compound percentages)"
+            "8",
+            "10",
+            "11",
+            "9"
           ],
           "answerIndex": 3,
           "explanation": "18% of 50 = 50% of 18 = 9."
@@ -2964,10 +2964,10 @@
         {
           "prompt": "What is 37.5% of 640?",
           "options": [
-            "230 (Calculate complex compound percentages)",
-            "250 (Calculate complex compound percentages)",
-            "260 (Calculate complex compound percentages)",
-            "240 (Calculate complex compound percentages)"
+            "230",
+            "250",
+            "260",
+            "240"
           ],
           "answerIndex": 3,
           "explanation": "3/8 of 640 = 240."
@@ -2979,10 +2979,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 7, Lesson 3: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "107 (Calculate complex compound percentages)",
-            "105 (Calculate complex compound percentages)",
-            "109 (Calculate complex compound percentages)",
-            "111 (Calculate complex compound percentages)"
+            "107",
+            "105",
+            "109",
+            "111"
           ],
           "answerIndex": 0,
           "explanation": "27 + 80 = 107."
@@ -2990,10 +2990,10 @@
         {
           "prompt": "Compute: 84% of 25",
           "options": [
-            "21 (Calculate complex compound percentages)",
-            "20 (Calculate complex compound percentages)",
-            "22 (Calculate complex compound percentages)",
-            "23 (Calculate complex compound percentages)"
+            "21",
+            "20",
+            "22",
+            "23"
           ],
           "answerIndex": 0,
           "explanation": "25% of 84 = 21."
@@ -3005,10 +3005,10 @@
         {
           "prompt": "Calculate: 65% of 300 - 12.5% of 160",
           "options": [
-            "185 (Calculate complex compound percentages)",
-            "175 (Calculate complex compound percentages)",
-            "170 (Calculate complex compound percentages)",
-            "180 (Calculate complex compound percentages)"
+            "185",
+            "175",
+            "170",
+            "180"
           ],
           "answerIndex": 1,
           "explanation": "195 - 20 = 175.",
@@ -3017,10 +3017,10 @@
         {
           "prompt": "Why does 'x% of y = y% of x' always work mathematically?",
           "options": [
-            "Because multiplication is commutative (Calculate complex compound percentages)",
-            "It is an algebraic identity derived from modular arithmetic (Calculate complex compound percentages)",
-            "It only works for even numbers (Calculate complex compound percentages)",
-            "It is an approximation (Calculate complex compound percentages)"
+            "Because multiplication is commutative",
+            "It is an algebraic identity derived from modular arithmetic",
+            "It only works for even numbers",
+            "It is an approximation"
           ],
           "answerIndex": 0,
           "explanation": "Commutative law of arithmetic ensures exact equivalence.",
@@ -3029,10 +3029,10 @@
         {
           "prompt": "What is 16.67% of 420?",
           "options": [
-            "75 (Calculate complex compound percentages)",
-            "80 (Calculate complex compound percentages)",
-            "65 (Calculate complex compound percentages)",
-            "70 (Calculate complex compound percentages)"
+            "75",
+            "80",
+            "65",
+            "70"
           ],
           "answerIndex": 3,
           "explanation": "1/6 of 420 = 70.",
@@ -3041,10 +3041,10 @@
         {
           "prompt": "Complete: 75% of 48 = _______",
           "options": [
-            "40 (Calculate complex compound percentages)",
-            "34 (Calculate complex compound percentages)",
-            "36 (Calculate complex compound percentages)",
-            "38 (Calculate complex compound percentages)"
+            "40",
+            "34",
+            "36",
+            "38"
           ],
           "answerIndex": 2,
           "explanation": "3/4 of 48 = 36.",
@@ -3340,10 +3340,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 8, Lesson 1, what is the exact result?",
           "options": [
-            "2,226 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "2,246 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "2,216 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "2,236 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "2,226",
+            "2,246",
+            "2,216",
+            "2,236"
           ],
           "answerIndex": 3,
           "explanation": "Units: 6; Cross: 23 (3, carry 2); Tens: 20+2=22 -> 2,236."
@@ -3351,10 +3351,10 @@
         {
           "prompt": "In the criss-cross calculation of 71 × 34, what is the middle crosswise sum (before adding carry)?",
           "options": [
-            "35 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "25 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "31 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "28 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "35",
+            "25",
+            "31",
+            "28"
           ],
           "answerIndex": 2,
           "explanation": "(7 × 4) + (1 × 3) = 28 + 3 = 31."
@@ -3366,10 +3366,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 8, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "1,958 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "1,978 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "1,948 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "1,968 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "1,958",
+            "1,978",
+            "1,948",
+            "1,968"
           ],
           "answerIndex": 3,
           "explanation": "2×4=8; 32+4=36 (carry 3); 16+3=19 -> 1,968."
@@ -3377,10 +3377,10 @@
         {
           "prompt": "Calculate mentally: 51 × 63",
           "options": [
-            "3,203 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "3,223 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "3,193 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "3,213 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "3,203",
+            "3,223",
+            "3,193",
+            "3,213"
           ],
           "answerIndex": 3,
           "explanation": "1×3=3; 15+6=21 (carry 2); 30+2=32 -> 3,213."
@@ -3392,10 +3392,10 @@
         {
           "prompt": "Match the 3 steps of 2x2 Vedic cross-multiplication: Step 1, Step 2, Step 3:",
           "options": [
-            "Step 1: Add all digits | Step 2: Divide by 2 | Step 3: Round down (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "All steps require a calculator (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "Step 1: Vertical units (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "All steps are subtraction (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "Step 1: Add all digits | Step 2: Divide by 2 | Step 3: Round down",
+            "All steps require a calculator",
+            "Step 1: Vertical units",
+            "All steps are subtraction"
           ],
           "answerIndex": 2,
           "explanation": "Standard 2x2 Vedic multiplication sequence.",
@@ -3404,10 +3404,10 @@
         {
           "prompt": "Calculate: 93 × 21",
           "options": [
-            "1,943 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "1,953 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "1,933 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "1,963 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "1,943",
+            "1,953",
+            "1,933",
+            "1,963"
           ],
           "answerIndex": 1,
           "explanation": "3; 9+6=15 (carry 1); 18+1=19 -> 1,953.",
@@ -3416,10 +3416,10 @@
         {
           "prompt": "Why is the Vedic criss-cross method cognitively superior to standard grade-school long multiplication?",
           "options": [
-            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "It only works on prime numbers (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "It turns multiplication into division (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "It makes numbers smaller (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory",
+            "It only works on prime numbers",
+            "It turns multiplication into division",
+            "It makes numbers smaller"
           ],
           "answerIndex": 0,
           "explanation": "Streaming single-pass digit generation eliminates partial product memory overload.",
@@ -3428,10 +3428,10 @@
         {
           "prompt": "Complete: 74 × 12 = _______",
           "options": [
-            "868 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "898 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "878 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)",
-            "888 (Execute general 2digit by 2digit and 3digit by 3digit mental crossmultiplication using the Vedic Urdhva Tiryagbhyam Vertically and Crosswise algorithm in under 5 seconds)"
+            "868",
+            "898",
+            "878",
+            "888"
           ],
           "answerIndex": 3,
           "explanation": "74 × 12 = 888.",
@@ -3990,10 +3990,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 1, what is the exact result?",
           "options": [
-            "3 x 2 + 2 x 1 = 8 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "3 x 2 x 1 = 6 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "32 + 21 = 53 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "3 x 1 + 2 x 2 = 3 + 4 = 7 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "3 x 2 + 2 x 1 = 8",
+            "3 x 2 x 1 = 6",
+            "32 + 21 = 53",
+            "3 x 1 + 2 x 2 = 3 + 4 = 7"
           ],
           "answerIndex": 3,
           "explanation": "Cross-product: outer + inner = (3x1) + (2x2) = 3 + 4 = 7."
@@ -4001,10 +4001,10 @@
         {
           "prompt": "Compute 32 x 21 using the 3-step vertical-and-crosswise method:",
           "options": [
-            "652 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "712 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "632 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "672 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "652",
+            "712",
+            "632",
+            "672"
           ],
           "answerIndex": 3,
           "explanation": "Units: 2; Cross: 7; Tens: 6 -> 672."
@@ -4016,10 +4016,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 1: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "863 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "923 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "893 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "903 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "863",
+            "923",
+            "893",
+            "903"
           ],
           "answerIndex": 3,
           "explanation": "Units: 3; Cross: 10 (0, carry 1); Tens: 8 + 1 = 9 -> 903."
@@ -4027,10 +4027,10 @@
         {
           "prompt": "Calculate 51 x 24 mentally:",
           "options": [
-            "1204 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1244 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1124 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1224 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "1204",
+            "1244",
+            "1124",
+            "1224"
           ],
           "answerIndex": 3,
           "explanation": "Units: 4; Cross: 22 (2, carry 2); Tens: 10 + 2 = 12 -> 1224."
@@ -4042,10 +4042,10 @@
         {
           "prompt": "Compute 62 x 31 mentally:",
           "options": [
-            "1822 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1922 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1862 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1932 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "1822",
+            "1922",
+            "1862",
+            "1932"
           ],
           "answerIndex": 1,
           "explanation": "62 x 31 = 1922.",
@@ -4054,10 +4054,10 @@
         {
           "prompt": "Compute 24 x 23 mentally:",
           "options": [
-            "552 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "562 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "532 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "542 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "552",
+            "562",
+            "532",
+            "542"
           ],
           "answerIndex": 0,
           "explanation": "24 x 23 = 552.",
@@ -4066,10 +4066,10 @@
         {
           "prompt": "What is the primary advantage of the vertical-and-crosswise method over traditional column multiplication?",
           "options": [
-            "It only works on even numbers. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "It requires a calculator. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "It replaces multiplication with division. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "It calculates the final digits sequentially in working memory without writing intermediate sub-products. (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "It only works on even numbers.",
+            "It requires a calculator.",
+            "It replaces multiplication with division.",
+            "It calculates the final digits sequentially in working memory without writing intermediate sub-products."
           ],
           "answerIndex": 3,
           "explanation": "It streams the answer digit by digit in mental memory.",
@@ -4078,10 +4078,10 @@
         {
           "prompt": "Compute 33 x 31 mentally:",
           "options": [
-            "1013 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1033 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "1023 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)",
-            "993 (Multiply two twodigit numbers using the verticalandcrosswise crisscross mental technique in three rapid stages)"
+            "1013",
+            "1033",
+            "1023",
+            "993"
           ],
           "answerIndex": 2,
           "explanation": "33 x 31 = 1023.",
@@ -4124,10 +4124,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 2, what is the exact result?",
           "options": [
-            "11,445 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "11,545 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "11,455 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "11,345 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "11,445",
+            "11,545",
+            "11,455",
+            "11,345"
           ],
           "answerIndex": 0,
           "explanation": "105 + 9 = 114; 5 x 9 = 45 -> 11,445."
@@ -4135,10 +4135,10 @@
         {
           "prompt": "Calculate 95 x 94 using base 100 deficiencies (-5 and -6):",
           "options": [
-            "8,930 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "8,830 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,030 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "8,940 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "8,930",
+            "8,830",
+            "9,030",
+            "8,940"
           ],
           "answerIndex": 0,
           "explanation": "95 - 6 = 89; 5 x 6 = 30 -> 8,930."
@@ -4150,10 +4150,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 2: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "9,560 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,506 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,406 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,516 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "9,560",
+            "9,506",
+            "9,406",
+            "9,516"
           ],
           "answerIndex": 1,
           "explanation": "97 - 2 = 95; 3 x 2 = 06 (must be 2 digits) -> 9,506."
@@ -4161,10 +4161,10 @@
         {
           "prompt": "Calculate 106 x 106 (106 squared):",
           "options": [
-            "11,216 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "11,336 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "11,236 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "11,136 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "11,216",
+            "11,336",
+            "11,236",
+            "11,136"
           ],
           "answerIndex": 2,
           "explanation": "106 + 6 = 112; 6 x 6 = 36 -> 11,236."
@@ -4176,10 +4176,10 @@
         {
           "prompt": "Calculate 91 x 98 mentally:",
           "options": [
-            "8,918 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "8,818 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "8,908 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "8,928 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "8,918",
+            "8,818",
+            "8,908",
+            "8,928"
           ],
           "answerIndex": 0,
           "explanation": "91 - 2 = 89; 9 x 2 = 18 -> 8,918.",
@@ -4188,10 +4188,10 @@
         {
           "prompt": "Calculate 108 x 112 mentally:",
           "options": [
-            "11,996 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "12,086 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "12,196 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "12,096 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "11,996",
+            "12,086",
+            "12,196",
+            "12,096"
           ],
           "answerIndex": 3,
           "explanation": "108 + 12 = 120; 8 x 12 = 96 -> 12,096.",
@@ -4200,10 +4200,10 @@
         {
           "prompt": "What must you do if the right-hand product of deficits is a single digit (e.g. 1 x 4 = 4)?",
           "options": [
-            "Multiply by 100 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "Drop the number (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "Pad with a leading zero to keep the base-100 two-digit slot (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "Add 10 to it (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "Multiply by 100",
+            "Drop the number",
+            "Pad with a leading zero to keep the base-100 two-digit slot",
+            "Add 10 to it"
           ],
           "answerIndex": 2,
           "explanation": "Because base 100 has two zeros, the right part must always occupy two decimal places (e.g. 04).",
@@ -4212,10 +4212,10 @@
         {
           "prompt": "Calculate 99 x 99 mentally:",
           "options": [
-            "9,901 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,801 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,701 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)",
-            "9,811 (Multiply twodigit and threedigit numbers close to base 100 instantly using the base deficiency and surplus algebraic shortcut)"
+            "9,901",
+            "9,801",
+            "9,701",
+            "9,811"
           ],
           "answerIndex": 1,
           "explanation": "99 - 1 = 98; 1 x 1 = 01 -> 9,801.",
@@ -4392,10 +4392,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 4, what is the exact result?",
           "options": [
-            "692 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "682 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "662 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "672 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "692",
+            "682",
+            "662",
+            "672"
           ],
           "answerIndex": 1,
           "explanation": "6 _ 2 with 6+2=8 in middle -> 682."
@@ -4403,10 +4403,10 @@
         {
           "prompt": "Calculate 76 x 11 with carry:",
           "options": [
-            "836 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "846 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "796 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "736 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "836",
+            "846",
+            "796",
+            "736"
           ],
           "answerIndex": 0,
           "explanation": "7 + 6 = 13; carry 1 to 7 -> 836."
@@ -4418,10 +4418,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 4: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "1,034 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "1,024 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "1,044 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "934 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "1,034",
+            "1,024",
+            "1,044",
+            "934"
           ],
           "answerIndex": 0,
           "explanation": "9 + 4 = 13 -> 1,034."
@@ -4429,10 +4429,10 @@
         {
           "prompt": "Calculate 48 x 102 by chunking:",
           "options": [
-            "4,896 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "4,796 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "4,886 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "4,906 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "4,896",
+            "4,796",
+            "4,886",
+            "4,906"
           ],
           "answerIndex": 0,
           "explanation": "4800 + 96 = 4,896."
@@ -4444,10 +4444,10 @@
         {
           "prompt": "Calculate 87 x 11 mentally:",
           "options": [
-            "857 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "967 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "957 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "947 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "857",
+            "967",
+            "957",
+            "947"
           ],
           "answerIndex": 2,
           "explanation": "87 x 11 = 957.",
@@ -4456,10 +4456,10 @@
         {
           "prompt": "Calculate 36 x 205 mentally:",
           "options": [
-            "7,280 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "7,380 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "7,360 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "7,480 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "7,280",
+            "7,380",
+            "7,360",
+            "7,480"
           ],
           "answerIndex": 1,
           "explanation": "7200 + 180 = 7,380.",
@@ -4468,10 +4468,10 @@
         {
           "prompt": "Calculate 44 x 11 mentally:",
           "options": [
-            "484 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "474 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "494 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "464 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "484",
+            "474",
+            "494",
+            "464"
           ],
           "answerIndex": 0,
           "explanation": "44 x 11 = 484.",
@@ -4480,10 +4480,10 @@
         {
           "prompt": "How do you multiply 234 x 11 using the neighbor addition rule?",
           "options": [
-            "2,374 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "2,474 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "2,584 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)",
-            "2,574 (Multiply twodigit and multidigit numbers by 11 using the sandwichandcarry method)"
+            "2,374",
+            "2,474",
+            "2,584",
+            "2,574"
           ],
           "answerIndex": 3,
           "explanation": "Units 4, 3+4=7, 2+3=5, Lead 2 -> 2,574.",
@@ -4531,10 +4531,10 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 5, Lesson 5, what is the exact result?",
           "options": [
-            "N (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Criss-cross multiplication (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Long division (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Repeated addition 75 times (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "N",
+            "Criss-cross multiplication",
+            "Long division",
+            "Repeated addition 75 times"
           ],
           "answerIndex": 0,
           "explanation": "N(N+1)|25 gives the answer in under 1 second."
@@ -4542,10 +4542,10 @@
         {
           "prompt": "Which technique is fastest for 97 x 96?",
           "options": [
-            "Base 100 deficiency shortcut (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Difference of squares (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Column lattice (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Factor trees (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "Base 100 deficiency shortcut",
+            "Difference of squares",
+            "Column lattice",
+            "Factor trees"
           ],
           "answerIndex": 0,
           "explanation": "Base 100 gives 9,312 instantly."
@@ -4557,10 +4557,10 @@
         {
           "prompt": "Applying the computational shortcut from Unit 5, Lesson 5: Foundational & Structural Mastery, what is the exact calculation step?",
           "options": [
-            "4,125 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "4,225 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "4,325 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "4,215 (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "4,125",
+            "4,225",
+            "4,325",
+            "4,215"
           ],
           "answerIndex": 1,
           "explanation": "6 x 7 = 42 -> 4,225."
@@ -4568,10 +4568,10 @@
         {
           "prompt": "Calculate 39 x 41 mentally:",
           "options": [
-            "1,601 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "1,599 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "1,591 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "1,589 (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "1,601",
+            "1,599",
+            "1,591",
+            "1,589"
           ],
           "answerIndex": 1,
           "explanation": "40² - 1 = 1,599."
@@ -4583,10 +4583,10 @@
         {
           "prompt": "Calculate 93 x 11 mentally:",
           "options": [
-            "1,033 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "1,023 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "923 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "1,013 (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "1,033",
+            "1,023",
+            "923",
+            "1,013"
           ],
           "answerIndex": 1,
           "explanation": "93 x 11 = 1,023.",
@@ -4595,10 +4595,10 @@
         {
           "prompt": "Calculate 95 x 98 mentally:",
           "options": [
-            "9,310 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "9,320 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "9,210 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "9,410 (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "9,310",
+            "9,320",
+            "9,210",
+            "9,410"
           ],
           "answerIndex": 0,
           "explanation": "95 - 2 = 93; 5 x 2 = 10 -> 9,310.",
@@ -4607,10 +4607,10 @@
         {
           "prompt": "Calculate 25² mentally:",
           "options": [
-            "615 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "635 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "525 (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "625 (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "615",
+            "635",
+            "525",
+            "625"
           ],
           "answerIndex": 3,
           "explanation": "2 x 3 = 6 -> 625.",
@@ -4619,10 +4619,10 @@
         {
           "prompt": "What core speed multiplication competencies were mastered across Unit 5 in Mental Math?",
           "options": [
-            "Taylor series expansions only (Select and execute the fastest twodigit multiplication technique CrissCross)",
-            "Matrix eigenvalue calculation only (Select and execute the fastest twodigit multiplication technique CrissCross)",
+            "Taylor series expansions only",
+            "Matrix eigenvalue calculation only",
             "Vertical-and-crosswise (Criss-Cross)",
-            "Basic counting to ten only (Select and execute the fastest twodigit multiplication technique CrissCross)"
+            "Basic counting to ten only"
           ],
           "answerIndex": 2,
           "explanation": "Unit 5 complete advanced two-digit mental multiplication mastery.",

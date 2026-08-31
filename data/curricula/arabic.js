@@ -501,10 +501,10 @@
         {
           "prompt": "Read the Arabic word «دَار» composed of non-connecting letters and select its meaning:",
           "options": [
-            "daar (Master the RighttoLeft Arabic writing direction U1)",
-            "ward (Master the RighttoLeft Arabic writing direction U1)",
-            "ruzz (Master the RighttoLeft Arabic writing direction U1)",
-            "dawr (Master the RighttoLeft Arabic writing direction U1)"
+            "daar",
+            "ward",
+            "ruzz",
+            "dawr"
           ],
           "answerIndex": 0,
           "explanation": "«دَ» [da] + «ا» [aa] + «ر» [r] forms «دَار» (*daar*), meaning house or home."
@@ -517,7 +517,7 @@
           "prompt": "Which of the following letters belongs to the group of 6 Non-Connecting Arabic letters?",
           "options": [
             "ر (Raa r)",
-            "ب (Master the RighttoLeft Arabic writing direction alternative form)",
+            "ب (Non Connecting Letters   Short Vowels item 2)",
             "م (Meem m)",
             "س (Seen s)"
           ],
@@ -543,10 +543,10 @@
           "type": "multiple-choice",
           "prompt": "What sound does the circular diacritic «السُّكُون» (As-Sukūn) indicate when placed above a letter?",
           "options": [
-            "Zero vowel / a pure consonant stop without a following vowel (Master the RighttoLeft Arabic writing direction U1)",
-            "A long (Master the RighttoLeft Arabic writing direction U1)",
-            "A doubled consonant sound (Master the RighttoLeft Arabic writing direction U1)",
-            "A nasal sound (Master the RighttoLeft Arabic writing direction U1)"
+            "Zero vowel / a pure consonant stop without a following vowel",
+            "A long",
+            "A doubled consonant sound",
+            "A nasal sound"
           ],
           "answerIndex": 0,
           "explanation": "As-Sukūn indicates the absence of a vowel on that consonant."
@@ -558,7 +558,11 @@
             "دار",
             "دَار"
           ],
-          "explanation": "«د» + «ا» + «ر» = «دار» (*daar*)."
+          "explanation": "«د» + «ا» + «ر» = «دار» (*daar*).",
+          "acceptableAnswers": [
+            "دار",
+            "دَار"
+          ]
         }
       ]
     }
@@ -608,8 +612,8 @@
           "prompt": "Which letter in the boat family has 1 dot placed BELOW the base shape and is pronounced [b]?",
           "options": [
             "ب (Baa b)",
-            "ت (Master the base boatcup letters distinguished by dots alternative form)",
-            "ث (Master the base boatcup letters distinguished by dots U1)",
+            "ت (Connecting Letters  Baa  Taa  Thaa  Noon  Yaa item 2)",
+            "ث (Connecting Letters  Baa  Taa  Thaa  Noon  Yaa item 3)",
             "ن (Noon n)"
           ],
           "answerIndex": 0,
@@ -660,10 +664,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Arabic word «نُور» (*noor*) mean in English?",
           "options": [
-            "light (Master the base boatcup letters distinguished by dots U1)",
-            "door (Master the base boatcup letters distinguished by dots U1)",
-            "house (Master the base boatcup letters distinguished by dots U1)",
-            "fig (Master the base boatcup letters distinguished by dots U1)"
+            "light",
+            "door",
+            "house",
+            "fig"
           ],
           "answerIndex": 0,
           "explanation": "«نُور» (*noor*) means \"light\"."
@@ -675,7 +679,11 @@
             "باب",
             "بَاب"
           ],
-          "explanation": "«ب» + «ا» + «ب» = «باب» (*baab*)."
+          "explanation": "«ب» + «ا» + «ب» = «باب» (*baab*).",
+          "acceptableAnswers": [
+            "باب",
+            "بَاب"
+          ]
         }
       ]
     }
@@ -725,7 +733,7 @@
           "prompt": "Which Arabic word means \"peace\" and is formed from Seen, Laam, Alif, and Meem?",
           "options": [
             "سَلَام (Salaam - Peace / Hello)",
-            "كِتَاب (Master connecting letters U1)",
+            "كِتَاب (kitaab - book كـ k + ـتـ t + ا aa + ب b)",
             "مَسْجِد (Masjid - Mosque)",
             "شَمْس (Shams - Sun)"
           ],
@@ -735,8 +743,8 @@
         {
           "prompt": "Which letter in the Jim group produces the deep warm pharyngeal \"h\" sound without any dots?",
           "options": [
-            "ح (Master connecting letters U1)",
-            "ج (Master connecting letters U1)",
+            "ح (Jim  Seen  Meem  Laam   Vocabulary item 1)",
+            "ج (Jim  Seen  Meem  Laam   Vocabulary item 2)",
             "خ (Khe x)",
             "هـ (Haa h)"
           ],
@@ -751,9 +759,9 @@
           "prompt": "Select the Arabic word meaning \"book\" spelled «كِتَاب»:",
           "options": [
             "كِتَاب (Kitaab - Book)",
-            "سَلَام (Master connecting letters U1)",
+            "سَلَام (salaam - peace سـ s + ـلـ l + ا aa + م m)",
             "قَلَم (Qalam - Pen)",
-            "بَاب (Master connecting letters U1)"
+            "بَاب (baab - door بـ b + ا aa + ب b)"
           ],
           "answerIndex": 0,
           "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
@@ -777,10 +785,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Arabic word «كِتَاب» mean in English?",
           "options": [
-            "book (Master connecting letters U1)",
-            "pen (Master connecting letters U1)",
-            "door (Master connecting letters U1)",
-            "mosque (Master connecting letters U1)"
+            "book",
+            "pen",
+            "door",
+            "mosque"
           ],
           "answerIndex": 0,
           "explanation": "«كِتَاب» (*kitaab*) means \"book\"."
@@ -792,7 +800,11 @@
             "سلام",
             "سَلَام"
           ],
-          "explanation": "«س» + «ل» + «ا» + «م» = «سلام» (*salaam*)."
+          "explanation": "«س» + «ل» + «ا» + «م» = «سلام» (*salaam*).",
+          "acceptableAnswers": [
+            "سلام",
+            "سَلَام"
+          ]
         }
       ]
     }
@@ -841,10 +853,10 @@
         {
           "prompt": "What is the phonetic function of the Shaddah (ّ) diacritic when placed above an Arabic letter?",
           "options": [
-            "It indicates that the consonant is doubled/geminated and held longer (Master the gemination mark Shaddah U1)",
-            "It makes the letter silent (Master the gemination mark Shaddah U1)",
-            "It turns the consonant into a vowel (Master the gemination mark Shaddah U1)",
-            "It indicates a question (Master the gemination mark Shaddah U1)"
+            "It indicates that the consonant is doubled/geminated and held longer",
+            "It makes the letter silent",
+            "It turns the consonant into a vowel",
+            "It indicates a question"
           ],
           "answerIndex": 0,
           "explanation": "Ash-Shaddah indicates gemination (consonant doubling)."
@@ -867,10 +879,10 @@
         {
           "prompt": "In the word «الشَّمْس» (the sun), why is the \"L\" sound assimilated to pronounce [ash-shams]?",
           "options": [
-            "Because Sheen (Master the gemination mark Shaddah U1)",
-            "Because Sheen is a vowel (Master the gemination mark Shaddah U1)",
-            "Because the word is feminine (Master the gemination mark Shaddah U1)",
-            "Because of a typo (Master the gemination mark Shaddah U1)"
+            "Because Sheen",
+            "Because Sheen is a vowel",
+            "Because the word is feminine",
+            "Because of a typo"
           ],
           "answerIndex": 0,
           "explanation": "Sun letters assimilate the \"L\" of the definite article «ال» into a doubled consonant with Shaddah."
@@ -878,10 +890,10 @@
         {
           "prompt": "What does the letter Ta Marbutah (ة) at the end of a word signify in Arabic grammar?",
           "options": [
-            "Feminine grammatical gender marker (Master the gemination mark Shaddah U1)",
-            "Plural marker (Master the gemination mark Shaddah U1)",
-            "Past tense verb marker (Master the gemination mark Shaddah U1)",
-            "Preposition (Master the gemination mark Shaddah U1)"
+            "Feminine grammatical gender marker",
+            "Plural marker",
+            "Past tense verb marker",
+            "Preposition"
           ],
           "answerIndex": 0,
           "explanation": "Ta Marbutah (ة) is the primary marker of feminine grammatical gender in nouns and adjectives."
@@ -896,7 +908,7 @@
           "options": [
             "الكِتَاب (Al-Kitaab - The Book)",
             "الشَّمْس (Ash-Shams - The Sun)",
-            "السَّلَام (Master the gemination mark Shaddah U1)",
+            "السَّلَام (Shaddah  Tanween  Ta Marbutah   Definite Article item 3)",
             "النُّور (An-Noor - The Light)"
           ],
           "answerIndex": 0,
@@ -909,7 +921,11 @@
             "شكرا",
             "شُكْرًا"
           ],
-          "explanation": "«ش» + «ك» + «ر» + «ا» = «شكرا» (*shukran*)."
+          "explanation": "«ش» + «ك» + «ر» + «ا» = «شكرا» (*shukran*).",
+          "acceptableAnswers": [
+            "شكرا",
+            "شُكْرًا"
+          ]
         }
       ]
     }
@@ -960,7 +976,7 @@
           "options": [
             "وَعَلَيْكُمُ السَّلَامُ (Wa alaykum as-salaam - And upon you peace)",
             "شُكْرًا جَزِيلًا (Shukran jazeelan - Thank you very much)",
-            "إِلَى اللِّقَاءِ (Master standard Islamic and cultural greetings Assalamu alaykum U1)",
+            "إِلَى اللِّقَاءِ (Islamic   Arab Greetings   Self Introductions item 3)",
             "مَا اسْمُكَ؟ (male)"
           ],
           "answerIndex": 0,
@@ -970,7 +986,7 @@
           "prompt": "Which Arabic phrase means \"Welcome!\" (lit. \"You have come to family and ease\")?",
           "options": [
             "أَهْلًا وَسَهْلًا (Ahlan wa sahlan - Welcome)",
-            "مَعَ السَّلَامَة (Master standard Islamic and cultural greetings Assalamu alaykum U1)",
+            "مَعَ السَّلَامَة (Islamic   Arab Greetings   Self Introductions item 2)",
             "عَفْوًا ('Afwan - You are welcome / Pardon)",
             "كَيْفَ حَالُكَ؟ (male)"
           ],
@@ -987,7 +1003,7 @@
             "مَعَ السَّلَامَة (Ma'a as-salaama - Goodbye)",
             "مَرْحَبًا (Marhaban - Hello)",
             "شُكْرًا (Shukran - Thank you)",
-            "تَشَرَّفْنَا (Master standard Islamic and cultural greetings Assalamu alaykum U1)"
+            "تَشَرَّفْنَا (Islamic   Arab Greetings   Self Introductions item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«مَعَ السَّلَامَة» (*Ma'a as-salaama*) is the universal polite farewell."
@@ -998,7 +1014,7 @@
             "أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ (Ana bikhayr, alhamdulillah - I am well, praise God)",
             "أَنَا اسْمِي أَحْمَد (Ana ismee Ahmad - My name is Ahmad)",
             "مَا اسْمُكَ؟ (male)",
-            "إِلَى اللِّقَاءِ (Master standard Islamic and cultural greetings Assalamu alaykum U1)"
+            "إِلَى اللِّقَاءِ (Islamic   Arab Greetings   Self Introductions item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«أَنَا بِخَيْرٍ، الحَمْدُ لِلّٰهِ» (*Ana bikhayrin, al-hamdu lillah*) is the standard authentic response."
@@ -1012,7 +1028,7 @@
           "prompt": "Which phrase means \"Honored to meet you / Pleased to meet you\" upon an introduction?",
           "options": [
             "تَشَرَّفْنَا (Tasharrafnaa - Pleased to meet you)",
-            "مَعَ السَّلَامَة (Master standard Islamic and cultural greetings Assalamu alaykum U1)",
+            "مَعَ السَّلَامَة (Islamic   Arab Greetings   Self Introductions item 2)",
             "عَفْوًا ('Afwan - You are welcome / Pardon)",
             "شُكْرًا (Shukran - Thank you)"
           ],
@@ -1026,7 +1042,11 @@
             "مرحبا",
             "مَرْحَبًا"
           ],
-          "explanation": "«م» + «ر» + «ح» + «ب» + «ا» = «مرحبا» (*marhaban*)."
+          "explanation": "«م» + «ر» + «ح» + «ب» + «ا» = «مرحبا» (*marhaban*).",
+          "acceptableAnswers": [
+            "مرحبا",
+            "مَرْحَبًا"
+          ]
         }
       ]
     }
@@ -1143,7 +1163,11 @@
             "ثلاث",
             "ثَلَاثُ"
           ],
-          "explanation": "العدد 3 مع المعدود المؤنث يُكتب مذكرًا بحذف التاء: «ثلاث»."
+          "explanation": "العدد 3 مع المعدود المؤنث يُكتب مذكرًا بحذف التاء: «ثلاث».",
+          "acceptableAnswers": [
+            "ثلاث",
+            "ثَلَاثُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1261,7 +1285,11 @@
             "خمسون",
             "خَمْسُونَ"
           ],
-          "explanation": "لفظ العقد 50 في حالة الرفع يُكتب بالواو: «خمسون»."
+          "explanation": "لفظ العقد 50 في حالة الرفع يُكتب بالواو: «خمسون».",
+          "acceptableAnswers": [
+            "خمسون",
+            "خَمْسُونَ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1380,7 +1408,12 @@
             "وَالنِّصْفُ",
             "والنصفُ"
           ],
-          "explanation": "اللفظ الفصيح لنصف الساعة هو «والنصف»."
+          "explanation": "اللفظ الفصيح لنصف الساعة هو «والنصف».",
+          "acceptableAnswers": [
+            "والنصف",
+            "وَالنِّصْفُ",
+            "والنصفُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1499,7 +1532,12 @@
             "الاحد",
             "يَوْمُ الأَحَدِ"
           ],
-          "explanation": "يوم الأحد هو أول أيام الأسبوع في العربية."
+          "explanation": "يوم الأحد هو أول أيام الأسبوع في العربية.",
+          "acceptableAnswers": [
+            "الأحد",
+            "الاحد",
+            "يَوْمُ الأَحَدِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1618,7 +1656,12 @@
             "يَوْمُ الخَمِيسِ",
             "الخميسُ"
           ],
-          "explanation": "اسم اليوم باللغة العربية الفصحى هو «الخميس»."
+          "explanation": "اسم اليوم باللغة العربية الفصحى هو «الخميس».",
+          "acceptableAnswers": [
+            "الخميس",
+            "يَوْمُ الخَمِيسِ",
+            "الخميسُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1737,7 +1780,12 @@
             "الجَدُّ",
             "جد"
           ],
-          "explanation": "والد الأب أو الأم هو «الجد»."
+          "explanation": "والد الأب أو الأم هو «الجد».",
+          "acceptableAnswers": [
+            "الجد",
+            "الجَدُّ",
+            "جد"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1856,7 +1904,12 @@
             "المضاف اليه",
             "المُضَافُ إِلَيْهِ"
           ],
-          "explanation": "الركن الثاني هو «المضاف إليه»."
+          "explanation": "الركن الثاني هو «المضاف إليه».",
+          "acceptableAnswers": [
+            "المضاف إليه",
+            "المضاف اليه",
+            "المُضَافُ إِلَيْهِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1975,7 +2028,12 @@
             "ياء المتكلمِ",
             "الياء"
           ],
-          "explanation": "الضمير المتصل للمتكلم المفرد هو «ياء المتكلم»."
+          "explanation": "الضمير المتصل للمتكلم المفرد هو «ياء المتكلم».",
+          "acceptableAnswers": [
+            "ياء المتكلم",
+            "ياء المتكلمِ",
+            "الياء"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2093,7 +2151,11 @@
             "تلك",
             "تِلْكَ"
           ],
-          "explanation": "اسم الإشارة للمفرد المؤنث البعيد هو «تلك»."
+          "explanation": "اسم الإشارة للمفرد المؤنث البعيد هو «تلك».",
+          "acceptableAnswers": [
+            "تلك",
+            "تِلْكَ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2212,7 +2274,12 @@
             "المُضَافُ",
             "المضافُ"
           ],
-          "explanation": "الركن الأول في التركيب الإضافي هو «المضاف»."
+          "explanation": "الركن الأول في التركيب الإضافي هو «المضاف».",
+          "acceptableAnswers": [
+            "المضاف",
+            "المُضَافُ",
+            "المضافُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2331,7 +2398,12 @@
             "مَفْعُولٌ",
             "مَفْعُول"
           ],
-          "explanation": "الوزن الصرفي لكلمة «مكتوب» هو «مفعول»."
+          "explanation": "الوزن الصرفي لكلمة «مكتوب» هو «مفعول».",
+          "acceptableAnswers": [
+            "مفعول",
+            "مَفْعُولٌ",
+            "مَفْعُول"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2450,7 +2522,12 @@
             "اكتب",
             "أَكْتُبُ"
           ],
-          "explanation": "مع أنا يُصرف الفعل بالهمزة: «أكتب»."
+          "explanation": "مع أنا يُصرف الفعل بالهمزة: «أكتب».",
+          "acceptableAnswers": [
+            "أكتب",
+            "اكتب",
+            "أَكْتُبُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2569,7 +2646,12 @@
             "عَادَةً",
             "عادةً"
           ],
-          "explanation": "الظرف الفصيح هو «عادة» أو «عادةً»."
+          "explanation": "الظرف الفصيح هو «عادة» أو «عادةً».",
+          "acceptableAnswers": [
+            "عادة",
+            "عَادَةً",
+            "عادةً"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2688,7 +2770,12 @@
             "السِّبَاحَةُ",
             "سباحة"
           ],
-          "explanation": "الرياضة المائية هي «السباحة»."
+          "explanation": "الرياضة المائية هي «السباحة».",
+          "acceptableAnswers": [
+            "السباحة",
+            "السِّبَاحَةُ",
+            "سباحة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2807,7 +2894,12 @@
             "الشِّطْرَنْجُ",
             "شطرنج"
           ],
-          "explanation": "اللعبة الذهنية هي «الشطرنج»."
+          "explanation": "اللعبة الذهنية هي «الشطرنج».",
+          "acceptableAnswers": [
+            "الشطرنج",
+            "الشِّطْرَنْجُ",
+            "شطرنج"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2928,7 +3020,14 @@
             "الإفطار",
             "الافطار"
           ],
-          "explanation": "الوجبة الصباحية هي «الفطور» أو «الإفطار»."
+          "explanation": "الوجبة الصباحية هي «الفطور» أو «الإفطار».",
+          "acceptableAnswers": [
+            "الفطور",
+            "الفُطُورُ",
+            "فطور",
+            "الإفطار",
+            "الافطار"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3048,7 +3147,13 @@
             "اللام الشمسية",
             "شمسية"
           ],
-          "explanation": "اللام في «الشمس» هي لام شمسية مدغمة."
+          "explanation": "اللام في «الشمس» هي لام شمسية مدغمة.",
+          "acceptableAnswers": [
+            "لام شمسية",
+            "لام شمسيةٌ",
+            "اللام الشمسية",
+            "شمسية"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3167,7 +3272,12 @@
             "الفَاعِلُ",
             "فاعل"
           ],
-          "explanation": "الاسم المرفوع القائم بالفعل هو «الفاعل»."
+          "explanation": "الاسم المرفوع القائم بالفعل هو «الفاعل».",
+          "acceptableAnswers": [
+            "الفاعل",
+            "الفَاعِلُ",
+            "فاعل"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3286,7 +3396,12 @@
             "قَائِمَةُ الطَّعَامِ",
             "قائمه الطعام"
           ],
-          "explanation": "المصطلح الفصيح هو «قائمة الطعام»."
+          "explanation": "المصطلح الفصيح هو «قائمة الطعام».",
+          "acceptableAnswers": [
+            "قائمة الطعام",
+            "قَائِمَةُ الطَّعَامِ",
+            "قائمه الطعام"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3406,7 +3521,13 @@
             "صحة وعافية",
             "صِحَّةً وَعَافِيَةً"
           ],
-          "explanation": "العبارة الفصيحة هي «هنيئا مريئا» أو «صحة وعافية»."
+          "explanation": "العبارة الفصيحة هي «هنيئا مريئا» أو «صحة وعافية».",
+          "acceptableAnswers": [
+            "هنيئا مريئا",
+            "هَنِيئًا مَرِيئًا",
+            "صحة وعافية",
+            "صِحَّةً وَعَافِيَةً"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3525,7 +3646,12 @@
             "الفُنْدُقُ",
             "فندق"
           ],
-          "explanation": "المكان المخصص لإقامة المسافرين هو «الفندق»."
+          "explanation": "المكان المخصص لإقامة المسافرين هو «الفندق».",
+          "acceptableAnswers": [
+            "الفندق",
+            "الفُنْدُقُ",
+            "فندق"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3645,7 +3771,13 @@
             "وراء",
             "وَرَاءَ"
           ],
-          "explanation": "عكس أمام هو «خلف» أو «وراء»."
+          "explanation": "عكس أمام هو «خلف» أو «وراء».",
+          "acceptableAnswers": [
+            "خلف",
+            "خَلْفَ",
+            "وراء",
+            "وَرَاءَ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3765,7 +3897,13 @@
             "اتجه",
             "اتَّجِهْ"
           ],
-          "explanation": "فعل الأمر للتوجيه هو «انعطف» أو «اتجه»."
+          "explanation": "فعل الأمر للتوجيه هو «انعطف» أو «اتجه».",
+          "acceptableAnswers": [
+            "انعطف",
+            "انْعَطِفْ",
+            "اتجه",
+            "اتَّجِهْ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3885,7 +4023,13 @@
             "مترو الانفاق",
             "المتْرو"
           ],
-          "explanation": "وسيلة النقل تحت الأرض هي «المترو» أو «مترو الأنفاق»."
+          "explanation": "وسيلة النقل تحت الأرض هي «المترو» أو «مترو الأنفاق».",
+          "acceptableAnswers": [
+            "المترو",
+            "مترو الأنفاق",
+            "مترو الانفاق",
+            "المتْرو"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4005,7 +4149,13 @@
             "إِشَارَةُ المُرُورِ",
             "اشاره المرور"
           ],
-          "explanation": "الوسيلة المنظمة للمرور هي «إشارة المرور»."
+          "explanation": "الوسيلة المنظمة للمرور هي «إشارة المرور».",
+          "acceptableAnswers": [
+            "إشارة المرور",
+            "اشارة المرور",
+            "إِشَارَةُ المُرُورِ",
+            "اشاره المرور"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4124,7 +4274,12 @@
             "دَرَسْتُ",
             "دَرَسْت"
           ],
-          "explanation": "مع أنا يُصرف الفعل الماضي باتصاله بتاء الفاعل المضمومة: «درست»."
+          "explanation": "مع أنا يُصرف الفعل الماضي باتصاله بتاء الفاعل المضمومة: «درست».",
+          "acceptableAnswers": [
+            "درست",
+            "دَرَسْتُ",
+            "دَرَسْت"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4243,7 +4398,12 @@
             "ذَهَبُوا",
             "ذَهَبُو"
           ],
-          "explanation": "مع هم يُصرف الفعل بالواو وألف التفريق: «ذهبوا»."
+          "explanation": "مع هم يُصرف الفعل بالواو وألف التفريق: «ذهبوا».",
+          "acceptableAnswers": [
+            "ذهبوا",
+            "ذَهَبُوا",
+            "ذَهَبُو"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4363,7 +4523,13 @@
             "أَمْسِ",
             "أَمْس"
           ],
-          "explanation": "ظرف الزمان هو «أمس»."
+          "explanation": "ظرف الزمان هو «أمس».",
+          "acceptableAnswers": [
+            "أمس",
+            "امس",
+            "أَمْسِ",
+            "أَمْس"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4481,7 +4647,11 @@
             "لم",
             "لَمْ"
           ],
-          "explanation": "حرف النفي والجزم والقلب هو «لم»."
+          "explanation": "حرف النفي والجزم والقلب هو «لم».",
+          "acceptableAnswers": [
+            "لم",
+            "لَمْ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4602,7 +4772,14 @@
             "الاسكندريه",
             "الإِسْكَنْدَرِيَّةُ"
           ],
-          "explanation": "المدينة الساحلية هي «الإسكندرية»."
+          "explanation": "المدينة الساحلية هي «الإسكندرية».",
+          "acceptableAnswers": [
+            "الإسكندرية",
+            "الاسكندرية",
+            "الإسكندريه",
+            "الاسكندريه",
+            "الإِسْكَنْدَرِيَّةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4721,7 +4898,12 @@
             "مُمْطِرٌ",
             "مُمْطِر"
           ],
-          "explanation": "الصفة هي «ممطر»."
+          "explanation": "الصفة هي «ممطر».",
+          "acceptableAnswers": [
+            "ممطر",
+            "مُمْطِرٌ",
+            "مُمْطِر"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4841,7 +5023,13 @@
             "الشِّتَاء",
             "شتاء"
           ],
-          "explanation": "الفصل هو «الشتاء»."
+          "explanation": "الفصل هو «الشتاء».",
+          "acceptableAnswers": [
+            "الشتاء",
+            "الشِّتَاءُ",
+            "الشِّتَاء",
+            "شتاء"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4961,7 +5149,13 @@
             "مِعْطَف",
             "المعطف"
           ],
-          "explanation": "الرداء الشتوي هو «معطف»."
+          "explanation": "الرداء الشتوي هو «معطف».",
+          "acceptableAnswers": [
+            "معطف",
+            "مِعْطَفٌ",
+            "مِعْطَف",
+            "المعطف"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5081,7 +5275,13 @@
             "لِأَنَّ",
             "لِأَن"
           ],
-          "explanation": "أداة التعليل الناسخة هي «لأن»."
+          "explanation": "أداة التعليل الناسخة هي «لأن».",
+          "acceptableAnswers": [
+            "لأن",
+            "لان",
+            "لِأَنَّ",
+            "لِأَن"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5202,7 +5402,14 @@
             "المظلة",
             "شمسية"
           ],
-          "explanation": "الأداة الواقية من المطر هي «مظلة»."
+          "explanation": "الأداة الواقية من المطر هي «مظلة».",
+          "acceptableAnswers": [
+            "مظلة",
+            "مِظَلَّةٌ",
+            "مِظَلَّة",
+            "المظلة",
+            "شمسية"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5321,7 +5528,12 @@
             "بَائِعُونَ",
             "بائعين"
           ],
-          "explanation": "جمع بائع بالواو والنون هو «بائعون»."
+          "explanation": "جمع بائع بالواو والنون هو «بائعون».",
+          "acceptableAnswers": [
+            "بائعون",
+            "بَائِعُونَ",
+            "بائعين"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5441,7 +5653,13 @@
             "لَوْحَات",
             "اللوحات"
           ],
-          "explanation": "جمع لوحة هو «لوحات»."
+          "explanation": "جمع لوحة هو «لوحات».",
+          "acceptableAnswers": [
+            "لوحات",
+            "لَوْحَاتٌ",
+            "لَوْحَات",
+            "اللوحات"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5561,7 +5779,13 @@
             "أَقْلَامٌ",
             "أَقْلَام"
           ],
-          "explanation": "جمع قلم هو «أقلام»."
+          "explanation": "جمع قلم هو «أقلام».",
+          "acceptableAnswers": [
+            "أقلام",
+            "اقلام",
+            "أَقْلَامٌ",
+            "أَقْلَام"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5683,7 +5907,15 @@
             "خَصْمٌ",
             "خَصْم"
           ],
-          "explanation": "المصطلح هو «تخفيض» أو «خصم»."
+          "explanation": "المصطلح هو «تخفيض» أو «خصم».",
+          "acceptableAnswers": [
+            "تخفيض",
+            "تَخْفِيضٌ",
+            "تَخْفِيض",
+            "خصم",
+            "خَصْمٌ",
+            "خَصْم"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5803,7 +6035,13 @@
             "خَانُ الخَلِيلِي",
             "خان الخليلي "
           ],
-          "explanation": "السوق التاريخي هو «خان الخليلي»."
+          "explanation": "السوق التاريخي هو «خان الخليلي».",
+          "acceptableAnswers": [
+            "خان الخليلي",
+            "خَانُ الخَلِيلِيِّ",
+            "خَانُ الخَلِيلِي",
+            "خان الخليلي "
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5923,7 +6161,13 @@
             "صُدَاع",
             "الصداع"
           ],
-          "explanation": "ألم الرأس هو «صداع»."
+          "explanation": "ألم الرأس هو «صداع».",
+          "acceptableAnswers": [
+            "صداع",
+            "صُدَاعٌ",
+            "صُدَاع",
+            "الصداع"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6043,7 +6287,13 @@
             "عِيَادَة",
             "العيادة"
           ],
-          "explanation": "المكان هو «عيادة»."
+          "explanation": "المكان هو «عيادة».",
+          "acceptableAnswers": [
+            "عيادة",
+            "عِيَادَةٌ",
+            "عِيَادَة",
+            "العيادة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6163,7 +6413,13 @@
             "صَيْدَلِيَّة",
             "الصيدلية"
           ],
-          "explanation": "المكان هو «صيدلية»."
+          "explanation": "المكان هو «صيدلية».",
+          "acceptableAnswers": [
+            "صيدلية",
+            "صَيْدَلِيَّةٌ",
+            "صَيْدَلِيَّة",
+            "الصيدلية"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6283,7 +6539,13 @@
             "اشْرَبْ",
             "إشرب"
           ],
-          "explanation": "فعل الأمر هو «اشرب»."
+          "explanation": "فعل الأمر هو «اشرب».",
+          "acceptableAnswers": [
+            "اشرب",
+            "اِشْرَبْ",
+            "اشْرَبْ",
+            "إشرب"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6403,7 +6665,13 @@
             "فَحْص",
             "الفحص"
           ],
-          "explanation": "المصطلح هو «فحص»."
+          "explanation": "المصطلح هو «فحص».",
+          "acceptableAnswers": [
+            "فحص",
+            "فَحْصٌ",
+            "فَحْص",
+            "الفحص"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6522,7 +6790,12 @@
             "سَوْفَ",
             "سَوْف"
           ],
-          "explanation": "الحرف المنفصل هو «سوف»."
+          "explanation": "الحرف المنفصل هو «سوف».",
+          "acceptableAnswers": [
+            "سوف",
+            "سَوْفَ",
+            "سَوْف"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6641,7 +6914,12 @@
             "أَنْ",
             "ان"
           ],
-          "explanation": "الحرف هو «أَنْ»."
+          "explanation": "الحرف هو «أَنْ».",
+          "acceptableAnswers": [
+            "أن",
+            "أَنْ",
+            "ان"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6759,7 +7037,11 @@
             "لن",
             "لَنْ"
           ],
-          "explanation": "الحرف هو «لن»."
+          "explanation": "الحرف هو «لن».",
+          "acceptableAnswers": [
+            "لن",
+            "لَنْ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6877,7 +7159,11 @@
             "كي",
             "كَيْ"
           ],
-          "explanation": "الأداة هي «كي»."
+          "explanation": "الأداة هي «كي».",
+          "acceptableAnswers": [
+            "كي",
+            "كَيْ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6997,7 +7283,13 @@
             "تَخَرُّج",
             "التخرج"
           ],
-          "explanation": "المصطلح هو «تخرج»."
+          "explanation": "المصطلح هو «تخرج».",
+          "acceptableAnswers": [
+            "تخرج",
+            "تَخَرُّجٌ",
+            "تَخَرُّج",
+            "التخرج"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7117,7 +7409,13 @@
             "كِتَابَة",
             "الكتابة"
           ],
-          "explanation": "مصدر كتب هو «كتابة»."
+          "explanation": "مصدر كتب هو «كتابة».",
+          "acceptableAnswers": [
+            "كتابة",
+            "كِتَابَةٌ",
+            "كِتَابَة",
+            "الكتابة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7237,7 +7535,13 @@
             "شَطْرَنْجٌ",
             "شَطْرَنْج"
           ],
-          "explanation": "اللعبة هي «شطرنج»."
+          "explanation": "اللعبة هي «شطرنج».",
+          "acceptableAnswers": [
+            "شطرنج",
+            "الشطرنج",
+            "شَطْرَنْجٌ",
+            "شَطْرَنْج"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7356,7 +7660,12 @@
             "أَهْوَى",
             "اهوى"
           ],
-          "explanation": "الفعل هو «أهوى»."
+          "explanation": "الفعل هو «أهوى».",
+          "acceptableAnswers": [
+            "أهوى",
+            "أَهْوَى",
+            "اهوى"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7476,7 +7785,13 @@
             "احيانا",
             "أحيانًا"
           ],
-          "explanation": "الظرف هو «أحيانا»."
+          "explanation": "الظرف هو «أحيانا».",
+          "acceptableAnswers": [
+            "أحيانا",
+            "أَحْيَانًا",
+            "احيانا",
+            "أحيانًا"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7597,7 +7912,14 @@
             "نَادِي",
             "النَّادِي"
           ],
-          "explanation": "المكان هو «نادي» أو «النادي»."
+          "explanation": "المكان هو «نادي» أو «النادي».",
+          "acceptableAnswers": [
+            "نادي",
+            "النادي",
+            "نَادٍ",
+            "نَادِي",
+            "النَّادِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7718,7 +8040,14 @@
             "طَيَّار",
             "الطَّيَّارُ"
           ],
-          "explanation": "المهنة هي «طيار» أو «الطيار»."
+          "explanation": "المهنة هي «طيار» أو «الطيار».",
+          "acceptableAnswers": [
+            "طيار",
+            "الطيار",
+            "طَيَّارٌ",
+            "طَيَّار",
+            "الطَّيَّارُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7839,7 +8168,14 @@
             "عَالِم",
             "العَالِمُ"
           ],
-          "explanation": "اسم الفاعل هو «عالم» أو «العالم»."
+          "explanation": "اسم الفاعل هو «عالم» أو «العالم».",
+          "acceptableAnswers": [
+            "عالم",
+            "العالم",
+            "عَالِمٌ",
+            "عَالِم",
+            "العَالِمُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7960,7 +8296,14 @@
             "مَصْنَع",
             "المَصْنَعُ"
           ],
-          "explanation": "المكان هو «مصنع» أو «المصنع»."
+          "explanation": "المكان هو «مصنع» أو «المصنع».",
+          "acceptableAnswers": [
+            "مصنع",
+            "المصنع",
+            "مَصْنَعٌ",
+            "مَصْنَع",
+            "المَصْنَعُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8081,7 +8424,14 @@
             "خِبْرَة",
             "الخِبْرَةُ"
           ],
-          "explanation": "المصطلح هو «خبرة» أو «الخبرة»."
+          "explanation": "المصطلح هو «خبرة» أو «الخبرة».",
+          "acceptableAnswers": [
+            "خبرة",
+            "الخبرة",
+            "خِبْرَةٌ",
+            "خِبْرَة",
+            "الخِبْرَةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8202,7 +8552,14 @@
             "عَقْد",
             "العَقْدُ"
           ],
-          "explanation": "الوثيقة هي «عقد» أو «العقد»."
+          "explanation": "الوثيقة هي «عقد» أو «العقد».",
+          "acceptableAnswers": [
+            "عقد",
+            "العقد",
+            "عَقْدٌ",
+            "عَقْد",
+            "العَقْدُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8323,7 +8680,14 @@
             "نَهْر",
             "النَّهْرُ"
           ],
-          "explanation": "المعلم هو «نهر» أو «النهر»."
+          "explanation": "المعلم هو «نهر» أو «النهر».",
+          "acceptableAnswers": [
+            "نهر",
+            "النهر",
+            "نَهْرٌ",
+            "نَهْر",
+            "النَّهْرُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8445,7 +8809,15 @@
             "شِتَاءٌ",
             "شِتَاء"
           ],
-          "explanation": "الفصل هو «الشتاء» أو «شتاء»."
+          "explanation": "الفصل هو «الشتاء» أو «شتاء».",
+          "acceptableAnswers": [
+            "الشتاء",
+            "شتاء",
+            "الشِّتَاءُ",
+            "الشِّتَاء",
+            "شِتَاءٌ",
+            "شِتَاء"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8564,7 +8936,12 @@
             "الَّتِي",
             "التى"
           ],
-          "explanation": "الاسم الموصول هو «التي»."
+          "explanation": "الاسم الموصول هو «التي».",
+          "acceptableAnswers": [
+            "التي",
+            "الَّتِي",
+            "التى"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8685,7 +9062,14 @@
             "وَاحَة",
             "الوَاحَةُ"
           ],
-          "explanation": "المعلم هو «واحة» أو «الواحة»."
+          "explanation": "المعلم هو «واحة» أو «الواحة».",
+          "acceptableAnswers": [
+            "واحة",
+            "الواحة",
+            "وَاحَةٌ",
+            "وَاحَة",
+            "الوَاحَةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8805,7 +9189,13 @@
             "جُغْرَافِيَا",
             "الجُغْرَافِيَا"
           ],
-          "explanation": "العلم هو «جغرافيا» أو «الجغرافيا»."
+          "explanation": "العلم هو «جغرافيا» أو «الجغرافيا».",
+          "acceptableAnswers": [
+            "جغرافيا",
+            "الجغرافيا",
+            "جُغْرَافِيَا",
+            "الجُغْرَافِيَا"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8927,7 +9317,15 @@
             "جَوَازُ السَّفَرِ",
             "جَوَاز"
           ],
-          "explanation": "الوثيقة هي «جواز سفر» أو «جواز السفر»."
+          "explanation": "الوثيقة هي «جواز سفر» أو «جواز السفر».",
+          "acceptableAnswers": [
+            "جواز سفر",
+            "جواز السفر",
+            "الجواز",
+            "جَوَازُ سَفَرٍ",
+            "جَوَازُ السَّفَرِ",
+            "جَوَاز"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9047,7 +9445,13 @@
             "كُنتُ",
             "كُنْت"
           ],
-          "explanation": "التصريف هو «كنت»."
+          "explanation": "التصريف هو «كنت».",
+          "acceptableAnswers": [
+            "كنت",
+            "كُنْتُ",
+            "كُنتُ",
+            "كُنْت"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9169,7 +9573,15 @@
             "الِاسْتِقْبَال",
             "مَكْتَبُ الِاسْتِقْبَالِ"
           ],
-          "explanation": "المكان هو «الاستقبال» أو «مكتب الاستقبال»."
+          "explanation": "المكان هو «الاستقبال» أو «مكتب الاستقبال».",
+          "acceptableAnswers": [
+            "الاستقبال",
+            "مكتب الاستقبال",
+            "استقبال",
+            "الِاسْتِقْبَالُ",
+            "الِاسْتِقْبَال",
+            "مَكْتَبُ الِاسْتِقْبَالِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9289,7 +9701,13 @@
             "دَارُ السَّلَامِ",
             "دَارُ السَّلَام"
           ],
-          "explanation": "اللقب هو «دار السلام»."
+          "explanation": "اللقب هو «دار السلام».",
+          "acceptableAnswers": [
+            "دار السلام",
+            "دار سلام",
+            "دَارُ السَّلَامِ",
+            "دَارُ السَّلَام"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9411,7 +9829,15 @@
             "أَجْوَفُ",
             "الأَجْوَفُ"
           ],
-          "explanation": "الفعل هو «أجوف» أو «الأجوف»."
+          "explanation": "الفعل هو «أجوف» أو «الأجوف».",
+          "acceptableAnswers": [
+            "أجوف",
+            "الأجوف",
+            "اجوف",
+            "الاجوف",
+            "أَجْوَفُ",
+            "الأَجْوَفُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9533,7 +9959,15 @@
             "حمي",
             "الحمي"
           ],
-          "explanation": "العَرَض هو «حمى» أو «الحمى»."
+          "explanation": "العَرَض هو «حمى» أو «الحمى».",
+          "acceptableAnswers": [
+            "حمى",
+            "الحمى",
+            "حُمَّى",
+            "الحُمَّى",
+            "حمي",
+            "الحمي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9653,7 +10087,13 @@
             "مَشَيتُ",
             "مَشَيْت"
           ],
-          "explanation": "التصريف هو «مشيت»."
+          "explanation": "التصريف هو «مشيت».",
+          "acceptableAnswers": [
+            "مشيت",
+            "مَشَيْتُ",
+            "مَشَيتُ",
+            "مَشَيْت"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9774,7 +10214,14 @@
             "صَيْدَلِيَّة",
             "الصَّيْدَلِيَّةُ"
           ],
-          "explanation": "المكان هو «صيدلية» أو «الصيدلية»."
+          "explanation": "المكان هو «صيدلية» أو «الصيدلية».",
+          "acceptableAnswers": [
+            "صيدلية",
+            "الصيدلية",
+            "صَيْدَلِيَّةٌ",
+            "صَيْدَلِيَّة",
+            "الصَّيْدَلِيَّةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9895,7 +10342,14 @@
             "وِقَايَة",
             "الوِقَايَةُ"
           ],
-          "explanation": "المصطلح هو «وقاية» أو «الوقاية»."
+          "explanation": "المصطلح هو «وقاية» أو «الوقاية».",
+          "acceptableAnswers": [
+            "وقاية",
+            "الوقاية",
+            "وِقَايَةٌ",
+            "وِقَايَة",
+            "الوِقَايَةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10016,7 +10470,14 @@
             "نَاقِص",
             "النَّاقِصُ"
           ],
-          "explanation": "الفعل هو «ناقص» أو «الناقص»."
+          "explanation": "الفعل هو «ناقص» أو «الناقص».",
+          "acceptableAnswers": [
+            "ناقص",
+            "الناقص",
+            "نَاقِصٌ",
+            "نَاقِص",
+            "النَّاقِصُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10139,7 +10600,16 @@
             "الخَطُّ العَرَبِيُّ",
             "الخَطُّ"
           ],
-          "explanation": "الفن هو «الخط العربي»."
+          "explanation": "الفن هو «الخط العربي».",
+          "acceptableAnswers": [
+            "الخط العربي",
+            "خط عربي",
+            "الخط",
+            "خط",
+            "خَطٌّ عَرَبِيٌّ",
+            "الخَطُّ العَرَبِيُّ",
+            "الخَطُّ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10260,7 +10730,14 @@
             "عُود",
             "العُودُ"
           ],
-          "explanation": "الآلة هي «العود» أو «عود»."
+          "explanation": "الآلة هي «العود» أو «عود».",
+          "acceptableAnswers": [
+            "العود",
+            "عود",
+            "عُودٌ",
+            "عُود",
+            "العُودُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10380,7 +10857,13 @@
             "اللَّذان",
             "اللذانِ"
           ],
-          "explanation": "الاسم الموصول هو «اللذان»."
+          "explanation": "الاسم الموصول هو «اللذان».",
+          "acceptableAnswers": [
+            "اللذان",
+            "اللَّذَانِ",
+            "اللَّذان",
+            "اللذانِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10501,7 +10984,14 @@
             "بَيْت",
             "البَيْتُ"
           ],
-          "explanation": "المصطلح هو «بيت» أو «البيت» (بيت الشعر)."
+          "explanation": "المصطلح هو «بيت» أو «البيت» (بيت الشعر).",
+          "acceptableAnswers": [
+            "بيت",
+            "البيت",
+            "بَيْتٌ",
+            "بَيْت",
+            "البَيْتُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10621,7 +11111,13 @@
             "اللَّتين",
             "اللتينِ"
           ],
-          "explanation": "الاسم الموصول هو «اللتين»."
+          "explanation": "الاسم الموصول هو «اللتين».",
+          "acceptableAnswers": [
+            "اللتين",
+            "اللَّتَيْنِ",
+            "اللَّتين",
+            "اللتينِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10743,7 +11239,15 @@
             "التَّضْعِيفُ",
             "الشَّدَّةُ"
           ],
-          "explanation": "الزيادة هي «التضعيف» (تضعيف العين)."
+          "explanation": "الزيادة هي «التضعيف» (تضعيف العين).",
+          "acceptableAnswers": [
+            "التضعيف",
+            "الشدة",
+            "تضعيف",
+            "شدة",
+            "التَّضْعِيفُ",
+            "الشَّدَّةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10863,7 +11367,13 @@
             "تَفَاعَل",
             "التفاعل"
           ],
-          "explanation": "الوزن الصرفي هو «تَفَاعَلَ»."
+          "explanation": "الوزن الصرفي هو «تَفَاعَلَ».",
+          "acceptableAnswers": [
+            "تفاعل",
+            "تَفَاعَلَ",
+            "تَفَاعَل",
+            "التفاعل"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10984,7 +11494,14 @@
             "الاستفعال",
             "استفعال"
           ],
-          "explanation": "الوزن الصرفي هو «اسْتَفْعَلَ»."
+          "explanation": "الوزن الصرفي هو «اسْتَفْعَلَ».",
+          "acceptableAnswers": [
+            "استفعل",
+            "اسْتَفْعَلَ",
+            "اسْتَفْعَل",
+            "الاستفعال",
+            "استفعال"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11105,7 +11622,14 @@
             "الاشْتِقَاق",
             "اشْتِقَاقٌ"
           ],
-          "explanation": "المصطلح هو «الاشتقاق»."
+          "explanation": "المصطلح هو «الاشتقاق».",
+          "acceptableAnswers": [
+            "الاشتقاق",
+            "اشتقاق",
+            "الِاشْتِقَاقُ",
+            "الاشْتِقَاق",
+            "اشْتِقَاقٌ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11226,7 +11750,14 @@
             "الصَّرْفُ",
             "عِلْمُ الصَّرْفِ"
           ],
-          "explanation": "العلم هو «الصرف» أو «علم الصرف»."
+          "explanation": "العلم هو «الصرف» أو «علم الصرف».",
+          "acceptableAnswers": [
+            "الصرف",
+            "علم الصرف",
+            "صرف",
+            "الصَّرْفُ",
+            "عِلْمُ الصَّرْفِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11347,7 +11878,14 @@
             "جَوَاب الشَّرْط",
             "جَوَابٌ"
           ],
-          "explanation": "الركن هو «جواب الشرط» (أو جزاؤه)."
+          "explanation": "الركن هو «جواب الشرط» (أو جزاؤه).",
+          "acceptableAnswers": [
+            "جواب الشرط",
+            "الجواب",
+            "جَوَابُ الشَّرْطِ",
+            "جَوَاب الشَّرْط",
+            "جَوَابٌ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11466,7 +12004,12 @@
             "لَوْلَا",
             "لَوْلا"
           ],
-          "explanation": "الأداة هي «لولا» (حرف امتناع لوجود)."
+          "explanation": "الأداة هي «لولا» (حرف امتناع لوجود).",
+          "acceptableAnswers": [
+            "لولا",
+            "لَوْلَا",
+            "لَوْلا"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11588,7 +12131,15 @@
             "فَاءُ الجَزَاءِ",
             "الفَاءُ الرَّابِطَةُ"
           ],
-          "explanation": "الفاء هي «فاء الجزاء» (أو الفاء الرابطة لجواب الشرط)."
+          "explanation": "الفاء هي «فاء الجزاء» (أو الفاء الرابطة لجواب الشرط).",
+          "acceptableAnswers": [
+            "فاء الجزاء",
+            "الفاء الرابطة",
+            "فاء جزاء",
+            "الفاء",
+            "فَاءُ الجَزَاءِ",
+            "الفَاءُ الرَّابِطَةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11709,7 +12260,14 @@
             "المُتَنَبِّي",
             "أَبُو الطَّيِّبِ المُتَنَبِّي"
           ],
-          "explanation": "الشاعر هو «المتنبي» (أبو الطيب المتنبي)."
+          "explanation": "الشاعر هو «المتنبي» (أبو الطيب المتنبي).",
+          "acceptableAnswers": [
+            "المتنبي",
+            "أبو الطيب المتنبي",
+            "ابو الطيب المتنبي",
+            "المُتَنَبِّي",
+            "أَبُو الطَّيِّبِ المُتَنَبِّي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11829,7 +12387,13 @@
             "إِنْ",
             "إِن"
           ],
-          "explanation": "الحرف هو «إن» (حرف شرط جازم)."
+          "explanation": "الحرف هو «إن» (حرف شرط جازم).",
+          "acceptableAnswers": [
+            "إن",
+            "ان",
+            "إِنْ",
+            "إِن"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11948,7 +12512,12 @@
             "بِيعَ",
             "بِيع"
           ],
-          "explanation": "الفعل هو «بيع» (بِيعَ)."
+          "explanation": "الفعل هو «بيع» (بِيعَ).",
+          "acceptableAnswers": [
+            "بيع",
+            "بِيعَ",
+            "بِيع"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12069,7 +12638,14 @@
             "مَرْفُوعٌ",
             "الرَّفْع"
           ],
-          "explanation": "الحالة الإعرابية هي «الرفع» (نائب فاعل مرفوع)."
+          "explanation": "الحالة الإعرابية هي «الرفع» (نائب فاعل مرفوع).",
+          "acceptableAnswers": [
+            "الرفع",
+            "مرفوع",
+            "الرَّفْعُ",
+            "مَرْفُوعٌ",
+            "الرَّفْع"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12190,7 +12766,14 @@
             "إيجاز",
             "الإِيجَازُ"
           ],
-          "explanation": "المصطلح البلاغي هو «الإيجاز»."
+          "explanation": "المصطلح البلاغي هو «الإيجاز».",
+          "acceptableAnswers": [
+            "الإيجاز",
+            "ايجاز",
+            "الايجاز",
+            "إيجاز",
+            "الإِيجَازُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12309,7 +12892,12 @@
             "نُوقِشَ",
             "نُوقِش"
           ],
-          "explanation": "الفعل هو «نوقش» (نُوقِشَ)."
+          "explanation": "الفعل هو «نوقش» (نُوقِشَ).",
+          "acceptableAnswers": [
+            "نوقش",
+            "نُوقِشَ",
+            "نُوقِش"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12430,7 +13018,14 @@
             "نَائِبُ الفَاعِلِ",
             "نَائِب الفَاعِل"
           ],
-          "explanation": "المصطلح النحوي هو «نائب الفاعل»."
+          "explanation": "المصطلح النحوي هو «نائب الفاعل».",
+          "acceptableAnswers": [
+            "نائب الفاعل",
+            "نائب فاعل",
+            "النائب",
+            "نَائِبُ الفَاعِلِ",
+            "نَائِب الفَاعِل"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12551,7 +13146,14 @@
             "المَفْعُولُ المُطْلَقُ",
             "مَفْعُول مُطْلَق"
           ],
-          "explanation": "المصطلح هو «المفعول المطلق»."
+          "explanation": "المصطلح هو «المفعول المطلق».",
+          "acceptableAnswers": [
+            "المفعول المطلق",
+            "المطلق",
+            "مفعول مطلق",
+            "المَفْعُولُ المُطْلَقُ",
+            "مَفْعُول مُطْلَق"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12672,7 +13274,14 @@
             "المَفْعُولُ فِيهِ",
             "مَفْعُول فِيه"
           ],
-          "explanation": "المصطلح النحوي هو «المفعول فيه» (أو الظرف)."
+          "explanation": "المصطلح النحوي هو «المفعول فيه» (أو الظرف).",
+          "acceptableAnswers": [
+            "المفعول فيه",
+            "مفعول فيه",
+            "ظرف الزمان والمكان",
+            "المَفْعُولُ فِيهِ",
+            "مَفْعُول فِيه"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12793,7 +13402,14 @@
             "وَاوُ المَعِيَّةِ",
             "وَاو المَعِيَّة"
           ],
-          "explanation": "الواو هي «واو المعية»."
+          "explanation": "الواو هي «واو المعية».",
+          "acceptableAnswers": [
+            "واو المعية",
+            "واو المعيه",
+            "المعية",
+            "وَاوُ المَعِيَّةِ",
+            "وَاو المَعِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12914,7 +13530,14 @@
             "النَّصْبُ",
             "النَّصْب"
           ],
-          "explanation": "الحالة الإعرابية هي «النصب»."
+          "explanation": "الحالة الإعرابية هي «النصب».",
+          "acceptableAnswers": [
+            "النصب",
+            "المنصوبات",
+            "منصوب",
+            "النَّصْبُ",
+            "النَّصْب"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13036,7 +13659,15 @@
             "المَفْعُولُ لِأَجْلِهِ",
             "مَفْعُول لِأَجْلِهِ"
           ],
-          "explanation": "المصطلح النحوي هو «المفعول لأجله» (أو المفعول له)."
+          "explanation": "المصطلح النحوي هو «المفعول لأجله» (أو المفعول له).",
+          "acceptableAnswers": [
+            "المفعول لأجله",
+            "المفعول لاجله",
+            "مفعول لأجله",
+            "مفعول لاجله",
+            "المَفْعُولُ لِأَجْلِهِ",
+            "مَفْعُول لِأَجْلِهِ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13157,7 +13788,14 @@
             "وَاوُ الحَالِ",
             "وَاو الحَال"
           ],
-          "explanation": "الواو هي «واو الحال»."
+          "explanation": "الواو هي «واو الحال».",
+          "acceptableAnswers": [
+            "واو الحال",
+            "واو حال",
+            "الحال",
+            "وَاوُ الحَالِ",
+            "وَاو الحَال"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13277,7 +13915,13 @@
             "التَّمْيِيزُ",
             "التَّمْيِيز"
           ],
-          "explanation": "المصطلح النحوي هو «التمييز»."
+          "explanation": "المصطلح النحوي هو «التمييز».",
+          "acceptableAnswers": [
+            "التمييز",
+            "تمييز",
+            "التَّمْيِيزُ",
+            "التَّمْيِيز"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13399,7 +14043,15 @@
             "المُفَرَّغُ",
             "الِاسْتِثْنَاءُ المُفَرَّغُ"
           ],
-          "explanation": "النوع هو «الاستثناء المفرغ» (أو الناقص المنفي)."
+          "explanation": "النوع هو «الاستثناء المفرغ» (أو الناقص المنفي).",
+          "acceptableAnswers": [
+            "المفرغ",
+            "الاستثناء المفرغ",
+            "مفرغ",
+            "ناقص منفي",
+            "المُفَرَّغُ",
+            "الِاسْتِثْنَاءُ المُفَرَّغُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13520,7 +14172,14 @@
             "مُشْتَقّ",
             "مُشْتَق"
           ],
-          "explanation": "الأصل في الحال أن يكون «مشتقاً»."
+          "explanation": "الأصل في الحال أن يكون «مشتقاً».",
+          "acceptableAnswers": [
+            "مشتق",
+            "اسم مشتق",
+            "مُشْتَقٌّ",
+            "مُشْتَقّ",
+            "مُشْتَق"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13640,7 +14299,13 @@
             "الِاسْتِثْنَاءُ",
             "الِاسْتِثْنَاء"
           ],
-          "explanation": "الباب النحوي هو «الاستثناء»."
+          "explanation": "الباب النحوي هو «الاستثناء».",
+          "acceptableAnswers": [
+            "الاستثناء",
+            "استثناء",
+            "الِاسْتِثْنَاءُ",
+            "الِاسْتِثْنَاء"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13763,7 +14428,16 @@
             "مُوجَزُ الأَنْبَاءِ",
             "مُوجَز"
           ],
-          "explanation": "المصطلح هو «موجز الأنباء» (أو الموجز الإخباري)."
+          "explanation": "المصطلح هو «موجز الأنباء» (أو الموجز الإخباري).",
+          "acceptableAnswers": [
+            "موجز الأنباء",
+            "موجز الانباء",
+            "الموجز",
+            "موجز الأخبار",
+            "موجز الاخبار",
+            "مُوجَزُ الأَنْبَاءِ",
+            "مُوجَز"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13884,7 +14558,14 @@
             "البَيَانُ الخِتَامِيُّ",
             "البَيَان الخِتَامِي"
           ],
-          "explanation": "المصطلح هو «البيان الختامي» (Joint Final Communiqué)."
+          "explanation": "المصطلح هو «البيان الختامي» (Joint Final Communiqué).",
+          "acceptableAnswers": [
+            "البيان الختامي",
+            "البيان الختامى",
+            "بيان ختامي",
+            "البَيَانُ الخِتَامِيُّ",
+            "البَيَان الخِتَامِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14004,7 +14685,13 @@
             "عَلَى صَعِيدٍ آخَرَ",
             "عَلَى صَعِيد آخَر"
           ],
-          "explanation": "العبارة هي «على صعيد آخر» (On another level / front)."
+          "explanation": "العبارة هي «على صعيد آخر» (On another level / front).",
+          "acceptableAnswers": [
+            "على صعيد آخر",
+            "على صعيد اخر",
+            "عَلَى صَعِيدٍ آخَرَ",
+            "عَلَى صَعِيد آخَر"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14126,7 +14813,15 @@
             "النُّمُوُّ الِاقْتِصَادِيُّ",
             "النُّمُوّ الِاقْتِصَادِيّ"
           ],
-          "explanation": "المصطلح هو «النمو الاقتصادي» (Economic Growth)."
+          "explanation": "المصطلح هو «النمو الاقتصادي» (Economic Growth).",
+          "acceptableAnswers": [
+            "النمو الاقتصادي",
+            "النمو الاقتصادى",
+            "نمو اقتصادي",
+            "نمو اقتصادى",
+            "النُّمُوُّ الِاقْتِصَادِيُّ",
+            "النُّمُوّ الِاقْتِصَادِيّ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14249,7 +14944,16 @@
             "الإِعْلَامُ",
             "الصِّحَافَةُ"
           ],
-          "explanation": "الفن اللغوي هو «الإعلام» (أو الصحافة والإعلام)."
+          "explanation": "الفن اللغوي هو «الإعلام» (أو الصحافة والإعلام).",
+          "acceptableAnswers": [
+            "الإعلام",
+            "الاعلام",
+            "الصحافة",
+            "لغة الإعلام",
+            "لغة الاعلام",
+            "الإِعْلَامُ",
+            "الصِّحَافَةُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14369,7 +15073,13 @@
             "وَبَعْد",
             "وبعدُ"
           ],
-          "explanation": "الكلمة هي «وبعدُ» (أَمَّا بَعْدُ / وَبَعْدُ، وتسمى فصل الخطاب)."
+          "explanation": "الكلمة هي «وبعدُ» (أَمَّا بَعْدُ / وَبَعْدُ، وتسمى فصل الخطاب).",
+          "acceptableAnswers": [
+            "وبعد",
+            "وَبَعْدُ",
+            "وَبَعْد",
+            "وبعدُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14491,7 +15201,15 @@
             "مُذَكَّرَةٌ دَاخِلِيَّةٌ",
             "مُذَكَّرَة دَاخِلِيَّة"
           ],
-          "explanation": "المصطلح هو «مذكرة داخلية» (Internal Memo)."
+          "explanation": "المصطلح هو «مذكرة داخلية» (Internal Memo).",
+          "acceptableAnswers": [
+            "مذكرة داخلية",
+            "المذكرة الداخلية",
+            "مذكره داخليه",
+            "المذكره الداخليه",
+            "مُذَكَّرَةٌ دَاخِلِيَّةٌ",
+            "مُذَكَّرَة دَاخِلِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14613,7 +15331,15 @@
             "مَحْضَرُ الِاجْتِمَاعِ",
             "مَحْضَر الِاجْتِمَاع"
           ],
-          "explanation": "الوثيقة هي «محضر الاجتماع» (Meeting Minutes)."
+          "explanation": "الوثيقة هي «محضر الاجتماع» (Meeting Minutes).",
+          "acceptableAnswers": [
+            "محضر الاجتماع",
+            "محضر اجتماع",
+            "المحضر",
+            "محضر",
+            "مَحْضَرُ الِاجْتِمَاعِ",
+            "مَحْضَر الِاجْتِمَاع"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14733,7 +15459,13 @@
             "المُرْفَقَاتُ",
             "المُرْفَقَات"
           ],
-          "explanation": "المصطلح هو «المرفقات» (Attachments / Enclosures)."
+          "explanation": "المصطلح هو «المرفقات» (Attachments / Enclosures).",
+          "acceptableAnswers": [
+            "المرفقات",
+            "مرفقات",
+            "المُرْفَقَاتُ",
+            "المُرْفَقَات"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14854,7 +15586,14 @@
             "طَيِّهِ",
             "تَجِدُونَ طَيَّهُ"
           ],
-          "explanation": "العبارة الإدارية الفصيحة هي «طَيَّهُ» (أي داخل طيَّات هذا الخطاب ومرفقاً به Enclosed)."
+          "explanation": "العبارة الإدارية الفصيحة هي «طَيَّهُ» (أي داخل طيَّات هذا الخطاب ومرفقاً به Enclosed).",
+          "acceptableAnswers": [
+            "طيه",
+            "تجدون طيه",
+            "طَيَّهُ",
+            "طَيِّهِ",
+            "تَجِدُونَ طَيَّهُ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14975,7 +15714,14 @@
             "المُعَلَّقَاتُ",
             "المُعَلَّقَات"
           ],
-          "explanation": "المصطلح الأدبي هو «المعلقات» (Al-Mu'allaqat)."
+          "explanation": "المصطلح الأدبي هو «المعلقات» (Al-Mu'allaqat).",
+          "acceptableAnswers": [
+            "المعلقات",
+            "المعلقات السبع",
+            "معلقات",
+            "المُعَلَّقَاتُ",
+            "المُعَلَّقَات"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15097,7 +15843,15 @@
             "المُتَنَبِّي",
             "المُتَنَبِّي"
           ],
-          "explanation": "اللقب هو «المتنبي»."
+          "explanation": "اللقب هو «المتنبي».",
+          "acceptableAnswers": [
+            "المتنبي",
+            "المتنبى",
+            "أبو الطيب المتنبي",
+            "ابو الطيب المتنبي",
+            "المُتَنَبِّي",
+            "المُتَنَبِّي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15219,7 +15973,15 @@
             "بَدِيعُ الزَّمَانِ الهَمَذَانِيُّ",
             "بَدِيع الزَّمَان الهَمَذَانِي"
           ],
-          "explanation": "رائد فن المقامات هو «بديع الزمان الهمذاني»."
+          "explanation": "رائد فن المقامات هو «بديع الزمان الهمذاني».",
+          "acceptableAnswers": [
+            "بديع الزمان الهمذاني",
+            "بديع الزمان الهمذانى",
+            "الهمذاني",
+            "الهمذانى",
+            "بَدِيعُ الزَّمَانِ الهَمَذَانِيُّ",
+            "بَدِيع الزَّمَان الهَمَذَانِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15340,7 +16102,14 @@
             "البَيَانُ وَالتَّبْيِينُ",
             "البَيَان وَالتَّبْيِين"
           ],
-          "explanation": "الكتاب هو «البيان والتبيين» للجاحظ."
+          "explanation": "الكتاب هو «البيان والتبيين» للجاحظ.",
+          "acceptableAnswers": [
+            "البيان والتبيين",
+            "البيان والتبيين",
+            "كتاب البيان والتبيين",
+            "البَيَانُ وَالتَّبْيِينُ",
+            "البَيَان وَالتَّبْيِين"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15462,7 +16231,15 @@
             "الأَدَبُ العَرَبِيُّ",
             "الأَدَب العَرَبِي"
           ],
-          "explanation": "المصطلح الشامل هو «الأدب العربي» (Arabic Literature)."
+          "explanation": "المصطلح الشامل هو «الأدب العربي» (Arabic Literature).",
+          "acceptableAnswers": [
+            "الأدب العربي",
+            "الادب العربي",
+            "الأدب",
+            "الادب",
+            "الأَدَبُ العَرَبِيُّ",
+            "الأَدَب العَرَبِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15582,7 +16359,13 @@
             "المُعَلِّمُ الثَّانِي",
             "المُعَلِّم الثَّانِي"
           ],
-          "explanation": "اللقب هو «المعلم الثاني» (The Second Teacher)."
+          "explanation": "اللقب هو «المعلم الثاني» (The Second Teacher).",
+          "acceptableAnswers": [
+            "المعلم الثاني",
+            "المعلم الثانى",
+            "المُعَلِّمُ الثَّانِي",
+            "المُعَلِّم الثَّانِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15704,7 +16487,15 @@
             "الشَّيْخُ الرَّئِيسُ",
             "الشَّيْخ الرَّئِيس"
           ],
-          "explanation": "اللقب هو «الشيخ الرئيس» (The Chief Master / Avicenna)."
+          "explanation": "اللقب هو «الشيخ الرئيس» (The Chief Master / Avicenna).",
+          "acceptableAnswers": [
+            "الشيخ الرئيس",
+            "الشيخ الرئيس",
+            "ابن سينا",
+            "ابن سينا",
+            "الشَّيْخُ الرَّئِيسُ",
+            "الشَّيْخ الرَّئِيس"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15824,7 +16615,13 @@
             "عِلْمُ الكَلَامِ",
             "عِلْم الكَلَام"
           ],
-          "explanation": "العلم هو «علم الكلام» (Ilm al-Kalam)."
+          "explanation": "العلم هو «علم الكلام» (Ilm al-Kalam).",
+          "acceptableAnswers": [
+            "علم الكلام",
+            "الكلام",
+            "عِلْمُ الكَلَامِ",
+            "عِلْم الكَلَام"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15946,7 +16743,15 @@
             "ابْنُ رُشْدٍ",
             "ابْن رُشْد"
           ],
-          "explanation": "الفيلسوف هو «ابن رشد» (Averroes)."
+          "explanation": "الفيلسوف هو «ابن رشد» (Averroes).",
+          "acceptableAnswers": [
+            "ابن رشد",
+            "ابن رشد",
+            "ابو الوليد ابن رشد",
+            "أبو الوليد ابن رشد",
+            "ابْنُ رُشْدٍ",
+            "ابْن رُشْد"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16068,7 +16873,15 @@
             "الفَلْسَفَةُ الإِسْلَامِيَّةُ",
             "الفَلْسَفَة الإِسْلَامِيَّة"
           ],
-          "explanation": "الميدان هو «الفلسفة الإسلامية» (Islamic Philosophy)."
+          "explanation": "الميدان هو «الفلسفة الإسلامية» (Islamic Philosophy).",
+          "acceptableAnswers": [
+            "الفلسفة الإسلامية",
+            "الفلسفة الاسلامية",
+            "فلسفة إسلامية",
+            "فلسفة اسلامية",
+            "الفَلْسَفَةُ الإِسْلَامِيَّةُ",
+            "الفَلْسَفَة الإِسْلَامِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16189,7 +17002,14 @@
             "الرَّاسْتُ",
             "الرَّاسْت"
           ],
-          "explanation": "المقام هو «الراست» (Maqam Rast)."
+          "explanation": "المقام هو «الراست» (Maqam Rast).",
+          "acceptableAnswers": [
+            "الراست",
+            "مقام الراست",
+            "راست",
+            "الرَّاسْتُ",
+            "الرَّاسْت"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16311,7 +17131,15 @@
             "المُوَشَّحَاتُ",
             "المُوَشَّح"
           ],
-          "explanation": "الفن هو «الموشحات» (Al-Muwashshahat)."
+          "explanation": "الفن هو «الموشحات» (Al-Muwashshahat).",
+          "acceptableAnswers": [
+            "الموشحات",
+            "الموشح",
+            "موشحات",
+            "موشح",
+            "المُوَشَّحَاتُ",
+            "المُوَشَّح"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16433,7 +17261,15 @@
             "الطَّرَبُ",
             "الطَّرَب"
           ],
-          "explanation": "المصطلح هو «السلطنة» (Tarab / Modal Ecstasy)."
+          "explanation": "المصطلح هو «السلطنة» (Tarab / Modal Ecstasy).",
+          "acceptableAnswers": [
+            "السلطنة",
+            "الطرب",
+            "السَّلْطَنَةُ",
+            "السَّلْطَنَة",
+            "الطَّرَبُ",
+            "الطَّرَب"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16555,7 +17391,15 @@
             "الأَطْلَالُ",
             "الأَطْلَال"
           ],
-          "explanation": "القصيدة هي «الأطلال» (Al-Atlal)."
+          "explanation": "القصيدة هي «الأطلال» (Al-Atlal).",
+          "acceptableAnswers": [
+            "الأطلال",
+            "الاطلال",
+            "قصيدة الأطلال",
+            "قصيدة الاطلال",
+            "الأَطْلَالُ",
+            "الأَطْلَال"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16678,7 +17522,16 @@
             "المَقَامَاتُ الشَّرْقِيَّةُ",
             "المَقَامَات الشَّرْقِيَّة"
           ],
-          "explanation": "المصطلح هو «المقامات الشرقية» (Oriental Maqamat)."
+          "explanation": "المصطلح هو «المقامات الشرقية» (Oriental Maqamat).",
+          "acceptableAnswers": [
+            "المقامات الشرقية",
+            "المقامات الشرقيه",
+            "المقامات",
+            "مقامات شرقية",
+            "مقامات",
+            "المَقَامَاتُ الشَّرْقِيَّةُ",
+            "المَقَامَات الشَّرْقِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16800,7 +17653,15 @@
             "الخَطُّ العَرَبِيُّ",
             "الخَطّ العَرَبِيّ"
           ],
-          "explanation": "الفن هو «الخط العربي» (Arabic Calligraphy)."
+          "explanation": "الفن هو «الخط العربي» (Arabic Calligraphy).",
+          "acceptableAnswers": [
+            "الخط العربي",
+            "الخط العربى",
+            "خط عربي",
+            "خط عربى",
+            "الخَطُّ العَرَبِيُّ",
+            "الخَطّ العَرَبِيّ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16923,7 +17784,16 @@
             "الأَرَابِيسْكُ",
             "الأَرَابِيسْك"
           ],
-          "explanation": "المصطلح هو «الأرابيسك» أو «التوريق» (Arabesque)."
+          "explanation": "المصطلح هو «الأرابيسك» أو «التوريق» (Arabesque).",
+          "acceptableAnswers": [
+            "الأرابيسك",
+            "الارابيسك",
+            "التوريق",
+            "أرابيسك",
+            "ارابيسك",
+            "الأَرَابِيسْكُ",
+            "الأَرَابِيسْك"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17043,7 +17913,13 @@
             "المُقَرْنَصَاتُ",
             "المُقَرْنَصَات"
           ],
-          "explanation": "المصطلح المعماري هو «المقرنصات» (Muqarnas)."
+          "explanation": "المصطلح المعماري هو «المقرنصات» (Muqarnas).",
+          "acceptableAnswers": [
+            "المقرنصات",
+            "مقرنصات",
+            "المُقَرْنَصَاتُ",
+            "المُقَرْنَصَات"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17165,7 +18041,15 @@
             "الحُرُوفِيَّةُ",
             "الحُرُوفِيَّة"
           ],
-          "explanation": "الحركة هي «الحروفية» (Hurufiyya Movement)."
+          "explanation": "الحركة هي «الحروفية» (Hurufiyya Movement).",
+          "acceptableAnswers": [
+            "الحروفية",
+            "حركة الحروفية",
+            "حروفيّة",
+            "الحُروفيّة",
+            "الحُرُوفِيَّةُ",
+            "الحُرُوفِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17289,7 +18173,17 @@
             "الفُنُونُ الإِسْلَامِيَّةُ",
             "الفَنّ الإِسْلَامِيّ"
           ],
-          "explanation": "المصطلح الشامل هو «الفنون الإسلامية» (Islamic Arts)."
+          "explanation": "المصطلح الشامل هو «الفنون الإسلامية» (Islamic Arts).",
+          "acceptableAnswers": [
+            "الفنون الإسلامية",
+            "الفنون الاسلامية",
+            "الفن الإسلامي",
+            "الفن الاسلامي",
+            "فنون إسلامية",
+            "فنون اسلامية",
+            "الفُنُونُ الإِسْلَامِيَّةُ",
+            "الفَنّ الإِسْلَامِيّ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17410,7 +18304,14 @@
             "نَجِيب مَحْفُوظ",
             "نَجِيبُ مَحْفُوظٍ"
           ],
-          "explanation": "الأديب هو «نجيب محفوظ» (Naguib Mahfouz)."
+          "explanation": "الأديب هو «نجيب محفوظ» (Naguib Mahfouz).",
+          "acceptableAnswers": [
+            "نجيب محفوظ",
+            "نجيب محفوظ",
+            "الأديب نجيب محفوظ",
+            "نَجِيب مَحْفُوظ",
+            "نَجِيبُ مَحْفُوظٍ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17532,7 +18433,15 @@
             "أَدَبُ المُقَاوَمَةِ",
             "أَدَب المُقَاوَمَة"
           ],
-          "explanation": "المصطلح هو «أدب المقاومة» (Literature of Resistance)."
+          "explanation": "المصطلح هو «أدب المقاومة» (Literature of Resistance).",
+          "acceptableAnswers": [
+            "أدب المقاومة",
+            "ادب المقاومة",
+            "أدب المقاومه",
+            "ادب المقاومه",
+            "أَدَبُ المُقَاوَمَةِ",
+            "أَدَب المُقَاوَمَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17652,7 +18561,13 @@
             "مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ",
             "مَوْسِم الهِجْرَة إِلَى الشَّمَال"
           ],
-          "explanation": "الرواية هي «موسم الهجرة إلى الشمال» (Season of Migration to the North)."
+          "explanation": "الرواية هي «موسم الهجرة إلى الشمال» (Season of Migration to the North).",
+          "acceptableAnswers": [
+            "موسم الهجرة إلى الشمال",
+            "موسم الهجرة الى الشمال",
+            "مَوْسِمُ الهِجْرَةِ إِلَى الشَّمَالِ",
+            "مَوْسِم الهِجْرَة إِلَى الشَّمَال"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17774,7 +18689,15 @@
             "المَسْرَحُ العَرَبِيُّ",
             "المَسْرَح"
           ],
-          "explanation": "الفن هو «المسرح العربي» (Arabic Theatre)."
+          "explanation": "الفن هو «المسرح العربي» (Arabic Theatre).",
+          "acceptableAnswers": [
+            "المسرح العربي",
+            "المسرح",
+            "مسرح عربي",
+            "مسرح",
+            "المَسْرَحُ العَرَبِيُّ",
+            "المَسْرَح"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17896,7 +18819,15 @@
             "الرِّوَايَةُ العَرَبِيَّةُ",
             "الرِّوَايَة"
           ],
-          "explanation": "الفن السردي هو «الرواية العربية» (The Arabic Novel)."
+          "explanation": "الفن السردي هو «الرواية العربية» (The Arabic Novel).",
+          "acceptableAnswers": [
+            "الرواية العربية",
+            "الرواية",
+            "رواية عربية",
+            "رواية",
+            "الرِّوَايَةُ العَرَبِيَّةُ",
+            "الرِّوَايَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18018,7 +18949,15 @@
             "عِلْمُ الجَبْرِ",
             "الجَبْر"
           ],
-          "explanation": "العلم هو «الجبر» (Algebra)."
+          "explanation": "العلم هو «الجبر» (Algebra).",
+          "acceptableAnswers": [
+            "علم الجبر",
+            "الجبر",
+            "علم جبر",
+            "جبر",
+            "عِلْمُ الجَبْرِ",
+            "الجَبْر"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18140,7 +19079,15 @@
             "عِلْمُ البَصَرِيَّاتِ",
             "البَصَرِيَّات"
           ],
-          "explanation": "العلم هو «علم البصريات» (Optics)."
+          "explanation": "العلم هو «علم البصريات» (Optics).",
+          "acceptableAnswers": [
+            "علم البصريات",
+            "البصريات",
+            "علم بصريات",
+            "بصريات",
+            "عِلْمُ البَصَرِيَّاتِ",
+            "البَصَرِيَّات"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18262,7 +19209,15 @@
             "الدَّوْرَةُ الدَّمَوِيَّةُ الصُّغْرَى",
             "الدَّوْرَة الدَّمَوِيَّة الصُّغْرَى"
           ],
-          "explanation": "الكشف هو «الدورة الدموية الصغرى» (Pulmonary Circulation)."
+          "explanation": "الكشف هو «الدورة الدموية الصغرى» (Pulmonary Circulation).",
+          "acceptableAnswers": [
+            "الدورة الدموية الصغرى",
+            "الدورة الدموية الصغري",
+            "الدورة الدمويه الصغرى",
+            "الدورة الدمويه الصغري",
+            "الدَّوْرَةُ الدَّمَوِيَّةُ الصُّغْرَى",
+            "الدَّوْرَة الدَّمَوِيَّة الصُّغْرَى"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18384,7 +19339,15 @@
             "عِلْمُ الفَلَكِ",
             "الفَلَك"
           ],
-          "explanation": "العلم هو «علم الفلك» (Astronomy)."
+          "explanation": "العلم هو «علم الفلك» (Astronomy).",
+          "acceptableAnswers": [
+            "علم الفلك",
+            "الفلك",
+            "علم فلك",
+            "فلك",
+            "عِلْمُ الفَلَكِ",
+            "الفَلَك"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18504,7 +19467,13 @@
             "تَارِيخُ العُلُومِ",
             "تَارِيخ العُلُوم"
           ],
-          "explanation": "الميدان المعرفي هو «تاريخ العلوم» (History of Science)."
+          "explanation": "الميدان المعرفي هو «تاريخ العلوم» (History of Science).",
+          "acceptableAnswers": [
+            "تاريخ العلوم",
+            "تاريخ علوم",
+            "تَارِيخُ العُلُومِ",
+            "تَارِيخ العُلُوم"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18626,7 +19595,15 @@
             "عِلْمُ البَيَانِ",
             "البَيَان"
           ],
-          "explanation": "العلم هو «علم البيان» (Ilm al-Bayan)."
+          "explanation": "العلم هو «علم البيان» (Ilm al-Bayan).",
+          "acceptableAnswers": [
+            "علم البيان",
+            "البيان",
+            "علم بيان",
+            "بيان",
+            "عِلْمُ البَيَانِ",
+            "البَيَان"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18748,7 +19725,15 @@
             "عِلْمُ المَعَانِي",
             "المَعَانِي"
           ],
-          "explanation": "العلم هو «علم المعاني» (Ilm al-Ma'ani)."
+          "explanation": "العلم هو «علم المعاني» (Ilm al-Ma'ani).",
+          "acceptableAnswers": [
+            "علم المعاني",
+            "المعاني",
+            "علم معاني",
+            "معاني",
+            "عِلْمُ المَعَانِي",
+            "المَعَانِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18870,7 +19855,15 @@
             "عِلْمُ البَدِيعِ",
             "البَدِيع"
           ],
-          "explanation": "العلم هو «علم البديع» (Ilm al-Badi')."
+          "explanation": "العلم هو «علم البديع» (Ilm al-Badi').",
+          "acceptableAnswers": [
+            "علم البديع",
+            "البديع",
+            "علم بديع",
+            "بديع",
+            "عِلْمُ البَدِيعِ",
+            "البَدِيع"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18992,7 +19985,15 @@
             "نَظَرِيَّةُ النَّظْمِ",
             "النَّظْم"
           ],
-          "explanation": "النظرية هي «نظرية النظم» (Theory of Nazm)."
+          "explanation": "النظرية هي «نظرية النظم» (Theory of Nazm).",
+          "acceptableAnswers": [
+            "نظرية النظم",
+            "النظم",
+            "نظريه النظم",
+            "علم النظم",
+            "نَظَرِيَّةُ النَّظْمِ",
+            "النَّظْم"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19114,7 +20115,15 @@
             "البَلَاغَةُ العَرَبِيَّةُ",
             "البَلَاغَة"
           ],
-          "explanation": "الميدان المعرفي هو «البلاغة العربية» (Arabic Rhetoric)."
+          "explanation": "الميدان المعرفي هو «البلاغة العربية» (Arabic Rhetoric).",
+          "acceptableAnswers": [
+            "البلاغة العربية",
+            "البلاغة",
+            "بلاغة عربية",
+            "بلاغة",
+            "البَلَاغَةُ العَرَبِيَّةُ",
+            "البَلَاغَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19236,7 +20245,15 @@
             "أُصُولُ الفِقْهِ",
             "أُصُول الفِقْه"
           ],
-          "explanation": "العلم هو «أصول الفقه» (Usul al-Fiqh)."
+          "explanation": "العلم هو «أصول الفقه» (Usul al-Fiqh).",
+          "acceptableAnswers": [
+            "أصول الفقه",
+            "أصول فقه",
+            "علم أصول الفقه",
+            "علم أصول فقه",
+            "أُصُولُ الفِقْهِ",
+            "أُصُول الفِقْه"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19358,7 +20375,15 @@
             "دَلَالَةُ المَفْهُومِ",
             "المَفْهُوم"
           ],
-          "explanation": "الدلالة هي «المفهوم» أو «دلالة المفهوم» (Mafhum / Implication)."
+          "explanation": "الدلالة هي «المفهوم» أو «دلالة المفهوم» (Mafhum / Implication).",
+          "acceptableAnswers": [
+            "دلالة المفهوم",
+            "المفهوم",
+            "مفهوم",
+            "دلاله المفهوم",
+            "دَلَالَةُ المَفْهُومِ",
+            "المَفْهُوم"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19480,7 +20505,15 @@
             "مَقَاصِدُ الشَّرِيعَةِ",
             "مَقَاصِد الشَّرِيعَة"
           ],
-          "explanation": "العلم هو «مقاصد الشريعة» (Maqasid al-Shariah)."
+          "explanation": "العلم هو «مقاصد الشريعة» (Maqasid al-Shariah).",
+          "acceptableAnswers": [
+            "مقاصد الشريعة",
+            "مقاصد شريعة",
+            "علم مقاصد الشريعة",
+            "علم مقاصد شريعة",
+            "مَقَاصِدُ الشَّرِيعَةِ",
+            "مَقَاصِد الشَّرِيعَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19601,7 +20634,14 @@
             "اليَقِينُ لَا يَزُولُ بِالشَّكِّ",
             "اليَقِين لَا يَزُول بِالشَّك"
           ],
-          "explanation": "القاعدة هي «اليقين لا يزول بالشك» (Certainty is not overruled by doubt)."
+          "explanation": "القاعدة هي «اليقين لا يزول بالشك» (Certainty is not overruled by doubt).",
+          "acceptableAnswers": [
+            "اليقين لا يزول بالشك",
+            "اليقين لايزول بالشك",
+            "اليقين لا يزول بالشكك",
+            "اليَقِينُ لَا يَزُولُ بِالشَّكِّ",
+            "اليَقِين لَا يَزُول بِالشَّك"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19723,7 +20763,15 @@
             "الِاجْتِهَادُ",
             "الِاجْتِهَاد"
           ],
-          "explanation": "العملية هي «الاجتهاد» (Ijtihad)."
+          "explanation": "العملية هي «الاجتهاد» (Ijtihad).",
+          "acceptableAnswers": [
+            "الاجتهاد",
+            "الاجتهاد الفقهي",
+            "اجتهاد",
+            "اجتهاد فقهي",
+            "الِاجْتِهَادُ",
+            "الِاجْتِهَاد"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19846,7 +20894,16 @@
             "آدَابُ البَحْثِ وَالمُنَاظَرَةِ",
             "المُنَاظَرَة"
           ],
-          "explanation": "العلم هو «آداب البحث والمناظرة» أو «علم المناظرة» (Adab al-Bahth wa al-Munazarah)."
+          "explanation": "العلم هو «آداب البحث والمناظرة» أو «علم المناظرة» (Adab al-Bahth wa al-Munazarah).",
+          "acceptableAnswers": [
+            "آداب البحث والمناظرة",
+            "علم المناظرة",
+            "المناظرة",
+            "علم الجدل",
+            "اداب البحث والمناظرة",
+            "آدَابُ البَحْثِ وَالمُنَاظَرَةِ",
+            "المُنَاظَرَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19969,7 +21026,16 @@
             "المُغَالَطَةُ المَنْطِقِيَّةُ",
             "المُغَالَطَة"
           ],
-          "explanation": "المصطلح هو «المغالطة المنطقية» (Logical Fallacy)."
+          "explanation": "المصطلح هو «المغالطة المنطقية» (Logical Fallacy).",
+          "acceptableAnswers": [
+            "المغالطة المنطقية",
+            "المغالطة",
+            "مغالطة منطقية",
+            "مغالطة",
+            "مغالطه منطقيه",
+            "المُغَالَطَةُ المَنْطِقِيَّةُ",
+            "المُغَالَطَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20091,7 +21157,15 @@
             "الخَطَابَةُ",
             "الخَطَابَة"
           ],
-          "explanation": "الفن هو «الخطابة» (Oratory / Rhetorical Speech)."
+          "explanation": "الفن هو «الخطابة» (Oratory / Rhetorical Speech).",
+          "acceptableAnswers": [
+            "الخطابة",
+            "فن الخطابة",
+            "خطابة",
+            "فن خطابة",
+            "الخَطَابَةُ",
+            "الخَطَابَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20212,7 +21286,14 @@
             "نَهْجُ البَلَاغَةِ",
             "نَهْج البَلَاغَة"
           ],
-          "explanation": "الكتاب هو «نهج البلاغة» (Nahj al-Balaghah)."
+          "explanation": "الكتاب هو «نهج البلاغة» (Nahj al-Balaghah).",
+          "acceptableAnswers": [
+            "نهج البلاغة",
+            "نهج البلاغه",
+            "كتاب نهج البلاغة",
+            "نَهْجُ البَلَاغَةِ",
+            "نَهْج البَلَاغَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20336,7 +21417,17 @@
             "المُنَاظَرَةُ",
             "المُنَاظَرَة"
           ],
-          "explanation": "الفن هو «المناظرة» أو «المناظرة الفكرية» (Debate / Munazarah)."
+          "explanation": "الفن هو «المناظرة» أو «المناظرة الفكرية» (Debate / Munazarah).",
+          "acceptableAnswers": [
+            "المناظرة",
+            "المناظرة الفكرية",
+            "مناظرة",
+            "مناظرة فكرية",
+            "المناظره",
+            "المناظره الفكريه",
+            "المُنَاظَرَةُ",
+            "المُنَاظَرَة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20459,7 +21550,16 @@
             "اتِّفَاقِيَّةُ فْيِينَا",
             "اتِّفَاقِيَّة فْيِينَا"
           ],
-          "explanation": "الاتفاقية هي «اتفاقية فيينا» (Vienna Convention on the Law of Treaties)."
+          "explanation": "الاتفاقية هي «اتفاقية فيينا» (Vienna Convention on the Law of Treaties).",
+          "acceptableAnswers": [
+            "اتفاقية فيينا",
+            "اتفاقية فيينا لقانون المعاهدات",
+            "معاهدة فيينا",
+            "اتفاقيه فيينا",
+            "اتفاقيه فيينا لقانون المعاهدات",
+            "اتِّفَاقِيَّةُ فْيِينَا",
+            "اتِّفَاقِيَّة فْيِينَا"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20581,7 +21681,15 @@
             "مَجْلِسُ الأَمْنِ",
             "مَجْلِسُ الأَمْن"
           ],
-          "explanation": "الهيئة هي «مجلس الأمن» (UN Security Council)."
+          "explanation": "الهيئة هي «مجلس الأمن» (UN Security Council).",
+          "acceptableAnswers": [
+            "مجلس الأمن",
+            "مجلس الأمن الدولي",
+            "مجلس الامن",
+            "مجلس الامن الدولي",
+            "مَجْلِسُ الأَمْنِ",
+            "مَجْلِسُ الأَمْن"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20702,7 +21810,14 @@
             "البَيَانُ الخِتَامِيُّ",
             "البَيَان الخِتَامِي"
           ],
-          "explanation": "الوثيقة هي «البيان الختامي» (Final Communiqué)."
+          "explanation": "الوثيقة هي «البيان الختامي» (Final Communiqué).",
+          "acceptableAnswers": [
+            "البيان الختامي",
+            "بيان ختامي",
+            "البيان الختامى",
+            "البَيَانُ الخِتَامِيُّ",
+            "البَيَان الخِتَامِي"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20823,7 +21938,14 @@
             "مَحْكَمَةُ العَدْلِ الدَّوْلِيَّةِ",
             "مَحْكَمَة العَدْل الدَّوْلِيَّة"
           ],
-          "explanation": "المحكمة هي «محكمة العدل الدولية» (International Court of Justice - ICJ)."
+          "explanation": "المحكمة هي «محكمة العدل الدولية» (International Court of Justice - ICJ).",
+          "acceptableAnswers": [
+            "محكمة العدل الدولية",
+            "محكمة العدل الدوليه",
+            "العدل الدولية",
+            "مَحْكَمَةُ العَدْلِ الدَّوْلِيَّةِ",
+            "مَحْكَمَة العَدْل الدَّوْلِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -20948,7 +22070,18 @@
             "اللُّغَةُ العَرَبِيَّةُ الفُصْحَى",
             "العَرَبِيَّة"
           ],
-          "explanation": "اللغة هي «اللغة العربية» أو «اللغة العربية الفصحى» (Classical / Modern Standard Arabic)."
+          "explanation": "اللغة هي «اللغة العربية» أو «اللغة العربية الفصحى» (Classical / Modern Standard Arabic).",
+          "acceptableAnswers": [
+            "اللغة العربية",
+            "اللغة العربية الفصحى",
+            "العربية",
+            "العربية الفصحى",
+            "اللغه العربيه",
+            "اللغه العربيه الفصحى",
+            "اللُّغَةُ العَرَبِيَّةُ",
+            "اللُّغَةُ العَرَبِيَّةُ الفُصْحَى",
+            "العَرَبِيَّة"
+          ]
         }
       ],
       "passThreshold": 0.8

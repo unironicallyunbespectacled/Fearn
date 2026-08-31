@@ -495,10 +495,10 @@
         {
           "prompt": "How is 'Bom dia' typically pronounced in standard Brazilian Portuguese?",
           "options": [
-            "Bom dee-ah (Greet people appropriately at different times of day)",
-            "Bom JEE-ah (Greet people appropriately at different times of day)",
-            "Bom fee-ah (Greet people appropriately at different times of day)",
-            "Bom lee-ah (Greet people appropriately at different times of day)"
+            "Bom dee-ah",
+            "Bom JEE-ah",
+            "Bom fee-ah",
+            "Bom lee-ah"
           ],
           "answerIndex": 1,
           "explanation": "In standard Brazilian Portuguese, 'd' before 'i' palatalizes to [dʒ] ('j')."
@@ -506,10 +506,10 @@
         {
           "prompt": "How is the final '-te' in 'Boa noite' pronounced in Brazilian Portuguese?",
           "options": [
-            "Silent (Greet people appropriately at different times of day)",
-            "Like 'tay' (Greet people appropriately at different times of day)",
-            "As a palatalized 'chee' (Greet people appropriately at different times of day)",
-            "Like 'toe' (Greet people appropriately at different times of day)"
+            "Silent",
+            "Like 'tay'",
+            "As a palatalized 'chee'",
+            "Like 'toe'"
           ],
           "answerIndex": 2,
           "explanation": "Unstressed final -e reduces to [i] and palatalizes preceding 't' to [tʃ] ('ch')."
@@ -517,10 +517,10 @@
         {
           "prompt": "When is the cedilla (ç) used in Portuguese?",
           "options": [
-            "Only before a, o, u to make a soft (Greet people appropriately at different times of day)",
-            "Before every vowel (Greet people appropriately at different times of day)",
-            "Only before e and i (Greet people appropriately at different times of day)",
-            "Only at the end of a word (Greet people appropriately at different times of day)"
+            "Only before a, o, u to make a soft",
+            "Before every vowel",
+            "Only before e and i",
+            "Only at the end of a word"
           ],
           "answerIndex": 0,
           "explanation": "ç is only needed before a, o, u; c before e/i is already soft [s]."
@@ -528,10 +528,10 @@
         {
           "prompt": "It's 9am — what do you say?",
           "options": [
-            "Tchau (Greet people appropriately at different times of day)",
-            "Boa noite (Greet people appropriately at different times of day)",
-            "Boa tarde (Greet people appropriately at different times of day)",
-            "Bom dia (Greet people appropriately at different times of day)"
+            "Tchau",
+            "Boa noite",
+            "Boa tarde",
+            "Bom dia"
           ],
           "answerIndex": 3,
           "explanation": "Bom dia covers the morning."
@@ -543,10 +543,10 @@
         {
           "prompt": "Which word contains a nasal vowel marked by a tilde (~)?",
           "options": [
-            "não (Greet people appropriately at different times of day)",
-            "tchau (Greet people appropriately at different times of day)",
-            "tarde (Greet people appropriately at different times of day)",
-            "oi (Greet people appropriately at different times of day)"
+            "não",
+            "tchau",
+            "tarde",
+            "oi"
           ],
           "answerIndex": 0,
           "explanation": "não has the nasal diphthong [ɐ̃w̃] marked with a tilde."
@@ -554,10 +554,10 @@
         {
           "prompt": "It's 9pm and you're arriving at a friend's dinner party. What do you say?",
           "options": [
-            "Até logo (Greet people appropriately at different times of day)",
-            "Boa noite (Greet people appropriately at different times of day)",
-            "Bom dia (Greet people appropriately at different times of day)",
-            "Boa tarde (Greet people appropriately at different times of day)"
+            "Até logo",
+            "Boa noite",
+            "Bom dia",
+            "Boa tarde"
           ],
           "answerIndex": 1,
           "explanation": "Boa noite covers evening arrivals as well as nighttime departures."
@@ -565,9 +565,9 @@
         {
           "prompt": "Why would saying 'Boa noite' both when arriving at a dinner and when leaving it NOT be a mistake?",
           "options": [
-            "Because dinners always happen twice (Greet people appropriately at different times of day)",
-            "Boa noite only applies to formal events (Greet people appropriately at different times of day)",
-            "It actually is a mistake — you need two different words (Greet people appropriately at different times of day)",
+            "Because dinners always happen twice",
+            "Boa noite only applies to formal events",
+            "It actually is a mistake — you need two different words",
             "Portuguese uses one word, Boa noite, for both the arrival ('good evening')"
           ],
           "answerIndex": 3,
@@ -576,9 +576,9 @@
         {
           "prompt": "In social settings, how might a Brazilian greet a friend of a friend on a first meeting?",
           "options": [
-            "Complete avoidance of physical contact (Greet people appropriately at different times of day)",
-            "Only a formal handshake, never physical closeness (Greet people appropriately at different times of day)",
-            "A deep bow (Greet people appropriately at different times of day)",
+            "Complete avoidance of physical contact",
+            "Only a formal handshake, never physical closeness",
+            "A deep bow",
             "Possibly a cheek kiss (one or two, depending on region)"
           ],
           "answerIndex": 3,
@@ -591,10 +591,10 @@
         {
           "prompt": "It's 9am — what do you say?",
           "options": [
-            "Bom dia (Greet people appropriately at different times of day)",
-            "Boa noite (Greet people appropriately at different times of day)",
-            "Boa tarde (Greet people appropriately at different times of day)",
-            "Tchau (Greet people appropriately at different times of day)"
+            "Bom dia",
+            "Boa noite",
+            "Boa tarde",
+            "Tchau"
           ],
           "answerIndex": 0,
           "explanation": "Morning greeting.",
@@ -603,10 +603,10 @@
         {
           "prompt": "It's 2pm — what do you say?",
           "options": [
-            "Até logo (Greet people appropriately at different times of day)",
-            "Boa noite (Greet people appropriately at different times of day)",
-            "Bom dia (Greet people appropriately at different times of day)",
-            "Boa tarde (Greet people appropriately at different times of day)"
+            "Até logo",
+            "Boa noite",
+            "Bom dia",
+            "Boa tarde"
           ],
           "answerIndex": 3,
           "explanation": "Afternoon greeting.",
@@ -615,10 +615,10 @@
         {
           "prompt": "What two situations both use Boa noite?",
           "options": [
-            "Only formal business meetings (Greet people appropriately at different times of day)",
-            "Only mornings (Greet people appropriately at different times of day)",
-            "Arriving somewhere in the evening AND leaving/going to bed at night (Greet people appropriately at different times of day)",
-            "Only phone calls (Greet people appropriately at different times of day)"
+            "Only formal business meetings",
+            "Only mornings",
+            "Arriving somewhere in the evening AND leaving/going to bed at night",
+            "Only phone calls"
           ],
           "answerIndex": 2,
           "explanation": "Boa noite covers both the 'good evening' and 'goodnight' senses.",
@@ -627,10 +627,10 @@
         {
           "prompt": "Which is the more casual, reflexive greeting: Oi or Olá?",
           "options": [
-            "Neither is casual (Greet people appropriately at different times of day)",
-            "Oi (Greet people appropriately at different times of day)",
-            "Both are equally formal (Greet people appropriately at different times of day)",
-            "Olá (Greet people appropriately at different times of day)"
+            "Neither is casual",
+            "Oi",
+            "Both are equally formal",
+            "Olá"
           ],
           "answerIndex": 1,
           "explanation": "Oi is the quick, everyday default.",
@@ -639,10 +639,10 @@
         {
           "prompt": "Where does the word Tchau come from?",
           "options": [
-            "Italian (Greet people appropriately at different times of day)",
-            "English (Greet people appropriately at different times of day)",
-            "French (Greet people appropriately at different times of day)",
-            "Spanish (Greet people appropriately at different times of day)"
+            "Italian",
+            "English",
+            "French",
+            "Spanish"
           ],
           "answerIndex": 0,
           "explanation": "Tchau is a direct borrowing from Italian ciao.",
@@ -651,10 +651,10 @@
         {
           "prompt": "In social settings, a cheek kiss between acquaintances meeting for the first time is:",
           "options": [
-            "Considered deeply inappropriate (Greet people appropriately at different times of day)",
-            "Only for romantic partners (Greet people appropriately at different times of day)",
-            "Illegal in most of Brazil (Greet people appropriately at different times of day)",
-            "A normal greeting, common even on a first meeting depending on region and context (Greet people appropriately at different times of day)"
+            "Considered deeply inappropriate",
+            "Only for romantic partners",
+            "Illegal in most of Brazil",
+            "A normal greeting, common even on a first meeting depending on region and context"
           ],
           "answerIndex": 3,
           "explanation": "This restates the cultural note about greeting warmth.",
@@ -715,10 +715,10 @@
         {
           "prompt": "Ela ___ feliz. (She's a happy person — personality)",
           "options": [
-            "é (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)",
-            "estou (Distinguish ser and estar at a basic level)",
-            "sou (Distinguish ser and estar at a basic level)"
+            "é",
+            "está",
+            "estou",
+            "sou"
           ],
           "answerIndex": 0,
           "explanation": "A core personality trait uses ser: é."
@@ -726,10 +726,10 @@
         {
           "prompt": "Ela ___ feliz hoje. (She's happy today — mood)",
           "options": [
-            "é (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)",
-            "estou (Distinguish ser and estar at a basic level)",
-            "sou (Distinguish ser and estar at a basic level)"
+            "é",
+            "está",
+            "estou",
+            "sou"
           ],
           "answerIndex": 1,
           "explanation": "A temporary, changeable mood uses estar: está."
@@ -737,10 +737,10 @@
         {
           "prompt": "Eu ___ brasileiro. (I am Brazilian — identity)",
           "options": [
-            "sou (Distinguish ser and estar at a basic level)",
-            "estou (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)",
-            "é (Distinguish ser and estar at a basic level)"
+            "sou",
+            "estou",
+            "está",
+            "é"
           ],
           "answerIndex": 0,
           "explanation": "Nationality is a ser fact, not a temporary state."
@@ -748,10 +748,10 @@
         {
           "prompt": "O café ___ frio. (The coffee is cold [right now].)",
           "options": [
-            "é (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)",
-            "somos (Distinguish ser and estar at a basic level)",
-            "estamos (Distinguish ser and estar at a basic level)"
+            "é",
+            "está",
+            "somos",
+            "estamos"
           ],
           "answerIndex": 1,
           "explanation": "Temperature right now is a changeable state, so estar applies."
@@ -764,9 +764,9 @@
           "prompt": "Why does 'Ela é feliz' mean something noticeably different from 'Ela está feliz'?",
           "options": [
             "ser marks a defining personality trait (a happy person)",
-            "está is more formal than é (Distinguish ser and estar at a basic level)",
-            "é is only used with animals (Distinguish ser and estar at a basic level)",
-            "No real difference — they're interchangeable (Distinguish ser and estar at a basic level)"
+            "está is more formal than é",
+            "é is only used with animals",
+            "No real difference — they're interchangeable"
           ],
           "answerIndex": 0,
           "explanation": "This is the exact ser-vs-estar contrast explained in the lesson."
@@ -774,10 +774,10 @@
         {
           "prompt": "Translate: 'I am Brazilian, but right now I'm in the United States.'",
           "options": [
-            "Eu estou brasileiro, mas agora sou nos Estados Unidos. (Distinguish ser and estar at a basic level)",
-            "Eu sou brasileiro, mas agora sou nos Estados Unidos. (Distinguish ser and estar at a basic level)",
-            "Eu estou brasileiro, mas agora estou nos Estados Unidos. (Distinguish ser and estar at a basic level)",
-            "Eu sou brasileiro, mas agora estou nos Estados Unidos. (Distinguish ser and estar at a basic level)"
+            "Eu estou brasileiro, mas agora sou nos Estados Unidos.",
+            "Eu sou brasileiro, mas agora sou nos Estados Unidos.",
+            "Eu estou brasileiro, mas agora estou nos Estados Unidos.",
+            "Eu sou brasileiro, mas agora estou nos Estados Unidos."
           ],
           "answerIndex": 3,
           "explanation": "Nationality (identity) uses sou; current location uses estou."
@@ -785,10 +785,10 @@
         {
           "prompt": "The restaurant ___ ótimo. (The restaurant is great — as a place, generally)",
           "options": [
-            "está (Distinguish ser and estar at a basic level)",
-            "somos (Distinguish ser and estar at a basic level)",
-            "estamos (Distinguish ser and estar at a basic level)",
-            "é (Distinguish ser and estar at a basic level)"
+            "está",
+            "somos",
+            "estamos",
+            "é"
           ],
           "answerIndex": 3,
           "explanation": "A general, defining quality of the restaurant uses ser."
@@ -800,10 +800,10 @@
         {
           "prompt": "Ela ___ feliz. (personality trait)",
           "options": [
-            "está (Distinguish ser and estar at a basic level)",
-            "sou (Distinguish ser and estar at a basic level)",
-            "estou (Distinguish ser and estar at a basic level)",
-            "é (Distinguish ser and estar at a basic level)"
+            "está",
+            "sou",
+            "estou",
+            "é"
           ],
           "answerIndex": 3,
           "explanation": "ser for an inherent trait.",
@@ -812,10 +812,10 @@
         {
           "prompt": "Ela ___ feliz hoje. (current mood)",
           "options": [
-            "é (Distinguish ser and estar at a basic level)",
-            "sou (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)",
-            "estou (Distinguish ser and estar at a basic level)"
+            "é",
+            "sou",
+            "está",
+            "estou"
           ],
           "answerIndex": 2,
           "explanation": "estar for a temporary state.",
@@ -824,10 +824,10 @@
         {
           "prompt": "Eu ___ brasileiro. (identity)",
           "options": [
-            "está (Distinguish ser and estar at a basic level)",
-            "sou (Distinguish ser and estar at a basic level)",
-            "estou (Distinguish ser and estar at a basic level)",
-            "é (Distinguish ser and estar at a basic level)"
+            "está",
+            "sou",
+            "estou",
+            "é"
           ],
           "answerIndex": 1,
           "explanation": "ser for nationality.",
@@ -836,10 +836,10 @@
         {
           "prompt": "Agora eu ___ nos Estados Unidos. (current location)",
           "options": [
-            "estou (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)",
-            "sou (Distinguish ser and estar at a basic level)",
-            "é (Distinguish ser and estar at a basic level)"
+            "estou",
+            "está",
+            "sou",
+            "é"
           ],
           "answerIndex": 0,
           "explanation": "estar for current location.",
@@ -848,10 +848,10 @@
         {
           "prompt": "O café ___ frio. (right now)",
           "options": [
-            "é (Distinguish ser and estar at a basic level)",
-            "estamos (Distinguish ser and estar at a basic level)",
-            "somos (Distinguish ser and estar at a basic level)",
-            "está (Distinguish ser and estar at a basic level)"
+            "é",
+            "estamos",
+            "somos",
+            "está"
           ],
           "answerIndex": 3,
           "explanation": "estar for a temperature that can change.",
@@ -860,10 +860,10 @@
         {
           "prompt": "What's the core distinction between ser and estar?",
           "options": [
-            "No real distinction; fully interchangeable (Distinguish ser and estar at a basic level)",
-            "estar is always more polite (Distinguish ser and estar at a basic level)",
-            "ser covers identity/defining traits; estar covers temporary states and current location (Distinguish ser and estar at a basic level)",
-            "ser is for people, estar is for objects only (Distinguish ser and estar at a basic level)"
+            "No real distinction; fully interchangeable",
+            "estar is always more polite",
+            "ser covers identity/defining traits; estar covers temporary states and current location",
+            "ser is for people, estar is for objects only"
           ],
           "answerIndex": 2,
           "explanation": "This restates the core grammar rule taught in the lesson.",
@@ -926,10 +926,10 @@
         {
           "prompt": "Eu me ___ Ana. (My name is Ana.)",
           "options": [
-            "chama (Introduce yourself by name using me chamo)",
-            "chamamos (Introduce yourself by name using me chamo)",
-            "sou chamo (Introduce yourself by name using me chamo)",
-            "chamo (Introduce yourself by name using me chamo)"
+            "chama",
+            "chamamos",
+            "sou chamo",
+            "chamo"
           ],
           "answerIndex": 3,
           "explanation": "eu pairs with chamo in the reflexive chamar construction."
@@ -937,10 +937,10 @@
         {
           "prompt": "Qual ___ o seu nome? (What's your name?)",
           "options": [
-            "é (Introduce yourself by name using me chamo)",
-            "está (Introduce yourself by name using me chamo)",
-            "somos (Introduce yourself by name using me chamo)",
-            "sou (Introduce yourself by name using me chamo)"
+            "é",
+            "está",
+            "somos",
+            "sou"
           ],
           "answerIndex": 0,
           "explanation": "This uses ser (é) for the identity-question 'what is your name.'"
@@ -948,10 +948,10 @@
         {
           "prompt": "Como você se ___? (What's your name? — casual)",
           "options": [
-            "chama (Introduce yourself by name using me chamo)",
-            "chamam (Introduce yourself by name using me chamo)",
-            "chamamos (Introduce yourself by name using me chamo)",
-            "chamo (Introduce yourself by name using me chamo)"
+            "chama",
+            "chamam",
+            "chamamos",
+            "chamo"
           ],
           "answerIndex": 0,
           "explanation": "você conjugates like ele/ela (third person): chama, not chamo."
@@ -959,10 +959,10 @@
         {
           "prompt": "Why does você take chama (like ele/ela), not a special 'you' form?",
           "options": [
-            "Brazilian Portuguese has largely replaced tu with você, which grammatically conjugates as third person (Introduce yourself by name using me chamo)",
-            "chama is only used with animals (Introduce yourself by name using me chamo)",
-            "você is actually a typo for tu (Introduce yourself by name using me chamo)",
-            "It's simply irregular with no pattern (Introduce yourself by name using me chamo)"
+            "Brazilian Portuguese has largely replaced tu with você, which grammatically conjugates as third person",
+            "chama is only used with animals",
+            "você is actually a typo for tu",
+            "It's simply irregular with no pattern"
           ],
           "answerIndex": 0,
           "explanation": "This is the exact grammatical/historical fact given in the explanation."
@@ -974,10 +974,10 @@
         {
           "prompt": "Which of these is NOT a natural way to state your name in Brazilian Portuguese?",
           "options": [
-            "Eu me chamo Ana. (Introduce yourself by name using me chamo)",
-            "Meu nome é Ana. (Introduce yourself by name using me chamo)",
-            "Eu sou Ana. (Introduce yourself by name using me chamo)",
-            "All three are natural and common (Introduce yourself by name using me chamo)"
+            "Eu me chamo Ana.",
+            "Meu nome é Ana.",
+            "Eu sou Ana.",
+            "All three are natural and common"
           ],
           "answerIndex": 3,
           "explanation": "Unlike Spanish, all three — me chamo, nome é, and sou — are genuinely common in Brazilian Portuguese."
@@ -985,10 +985,10 @@
         {
           "prompt": "Why might a learner who studied European Portuguese sound slightly off using tu conjugations with most Brazilians?",
           "options": [
-            "tu is grammatically wrong in Portuguese overall (Introduce yourself by name using me chamo)",
+            "tu is grammatically wrong in Portuguese overall",
             "Most of Brazil has largely replaced tu with você (third-person conjugation)",
-            "Brazilians never understand tu at all (Introduce yourself by name using me chamo)",
-            "tu is only used for formal address in Brazil (Introduce yourself by name using me chamo)"
+            "Brazilians never understand tu at all",
+            "tu is only used for formal address in Brazil"
           ],
           "answerIndex": 1,
           "explanation": "This restates the regional/historical fact from the cultural note."
@@ -996,10 +996,10 @@
         {
           "prompt": "Translate: 'I'm Marina — you can call me that.'",
           "options": [
-            "Eu me chamo a Marina — pode chamar assim. (Introduce yourself by name using me chamo)",
-            "Eu sou a Marina — pode me chamar assim. (Introduce yourself by name using me chamo)",
-            "Eu está Marina — pode me chamar assim. (Introduce yourself by name using me chamo)",
-            "Eu sou a Marina — pode chama assim. (Introduce yourself by name using me chamo)"
+            "Eu me chamo a Marina — pode chamar assim.",
+            "Eu sou a Marina — pode me chamar assim.",
+            "Eu está Marina — pode me chamar assim.",
+            "Eu sou a Marina — pode chama assim."
           ],
           "answerIndex": 1,
           "explanation": "sou (ser) for the name, and pode me chamar assim as the natural follow-up offer."
@@ -1011,10 +1011,10 @@
         {
           "prompt": "Eu me ___ Ana.",
           "options": [
-            "sou chamo (Introduce yourself by name using me chamo)",
-            "chama (Introduce yourself by name using me chamo)",
-            "chamo (Introduce yourself by name using me chamo)",
-            "chamamos (Introduce yourself by name using me chamo)"
+            "sou chamo",
+            "chama",
+            "chamo",
+            "chamamos"
           ],
           "answerIndex": 2,
           "explanation": "eu me chamo.",
@@ -1023,10 +1023,10 @@
         {
           "prompt": "Qual ___ o seu nome?",
           "options": [
-            "sou (Introduce yourself by name using me chamo)",
-            "é (Introduce yourself by name using me chamo)",
-            "somos (Introduce yourself by name using me chamo)",
-            "está (Introduce yourself by name using me chamo)"
+            "sou",
+            "é",
+            "somos",
+            "está"
           ],
           "answerIndex": 1,
           "explanation": "é (ser) for the identity question.",
@@ -1035,10 +1035,10 @@
         {
           "prompt": "Como você se ___?",
           "options": [
-            "chama (Introduce yourself by name using me chamo)",
-            "chamo (Introduce yourself by name using me chamo)",
-            "chamamos (Introduce yourself by name using me chamo)",
-            "chamam (Introduce yourself by name using me chamo)"
+            "chama",
+            "chamo",
+            "chamamos",
+            "chamam"
           ],
           "answerIndex": 0,
           "explanation": "você conjugates like ele/ela: chama.",
@@ -1047,10 +1047,10 @@
         {
           "prompt": "Which verb form follows both ele and você in the present tense?",
           "options": [
-            "somos (Introduce yourself by name using me chamo)",
-            "sou (Introduce yourself by name using me chamo)",
-            "és (Introduce yourself by name using me chamo)",
-            "é (Introduce yourself by name using me chamo)"
+            "somos",
+            "sou",
+            "és",
+            "é"
           ],
           "answerIndex": 3,
           "explanation": "você takes the third-person form é, same as ele/ela.",
@@ -1059,10 +1059,10 @@
         {
           "prompt": "In most of Brazil, which pronoun has largely replaced tu as the everyday 'you'?",
           "options": [
-            "vós (Introduce yourself by name using me chamo)",
-            "eu (Introduce yourself by name using me chamo)",
-            "você (Introduce yourself by name using me chamo)",
-            "nós (Introduce yourself by name using me chamo)"
+            "vós",
+            "eu",
+            "você",
+            "nós"
           ],
           "answerIndex": 2,
           "explanation": "você is the dominant informal 'you' across most of Brazil.",
@@ -1071,10 +1071,10 @@
         {
           "prompt": "Which of these is a valid, natural way to say 'I am Ana' when introducing yourself?",
           "options": [
-            "Eu chamo Ana. (Introduce yourself by name using me chamo)",
-            "Eu sou Ana. (Introduce yourself by name using me chamo)",
-            "Eu sou me Ana. (Introduce yourself by name using me chamo)",
-            "Ana eu chamo. (Introduce yourself by name using me chamo)"
+            "Eu chamo Ana.",
+            "Eu sou Ana.",
+            "Eu sou me Ana.",
+            "Ana eu chamo."
           ],
           "answerIndex": 1,
           "explanation": "sou (ser) + name is a completely natural self-introduction in Brazilian Portuguese.",
@@ -1136,10 +1136,10 @@
         {
           "prompt": "Eu sou brasileir___. (a female speaker says this)",
           "options": [
-            "o (State nationality and origin using ser  nationality and servir de  place)",
-            "os (State nationality and origin using ser  nationality and servir de  place)",
-            "as (State nationality and origin using ser  nationality and servir de  place)",
-            "a (State nationality and origin using ser  nationality and servir de  place)"
+            "o",
+            "os",
+            "as",
+            "a"
           ],
           "answerIndex": 3,
           "explanation": "Nationality adjectives agree in gender; a female speaker uses brasileira."
@@ -1147,10 +1147,10 @@
         {
           "prompt": "Ele ___ é daqui. (He's not from here.)",
           "options": [
-            "não (State nationality and origin using ser  nationality and servir de  place)",
-            "nada (State nationality and origin using ser  nationality and servir de  place)",
-            "sem (State nationality and origin using ser  nationality and servir de  place)",
-            "nunca (State nationality and origin using ser  nationality and servir de  place)"
+            "não",
+            "nada",
+            "sem",
+            "nunca"
           ],
           "answerIndex": 0,
           "explanation": "não placed directly before the verb é is the standard negation."
@@ -1158,10 +1158,10 @@
         {
           "prompt": "Eu ___ de São Paulo. (I'm from São Paulo.)",
           "options": [
-            "sou (State nationality and origin using ser  nationality and servir de  place)",
-            "são (State nationality and origin using ser  nationality and servir de  place)",
-            "está (State nationality and origin using ser  nationality and servir de  place)",
-            "somos (State nationality and origin using ser  nationality and servir de  place)"
+            "sou",
+            "são",
+            "está",
+            "somos"
           ],
           "answerIndex": 0,
           "explanation": "sou (ser) + de + place states origin."
@@ -1169,10 +1169,10 @@
         {
           "prompt": "How does Portuguese negation compare to a language like German that splits negation between two words (nicht/kein)?",
           "options": [
-            "Portuguese is even more complex, with three negation words (State nationality and origin using ser  nationality and servir de  place)",
-            "não only works with nouns (State nationality and origin using ser  nationality and servir de  place)",
-            "Portuguese uses one uniform word, não, before the verb, regardless of what's being negated (State nationality and origin using ser  nationality and servir de  place)",
-            "Portuguese has no way to negate sentences (State nationality and origin using ser  nationality and servir de  place)"
+            "Portuguese is even more complex, with three negation words",
+            "não only works with nouns",
+            "Portuguese uses one uniform word, não, before the verb, regardless of what's being negated",
+            "Portuguese has no way to negate sentences"
           ],
           "answerIndex": 2,
           "explanation": "This is the specific simplicity/contrast point made in the explanation."
@@ -1184,10 +1184,10 @@
         {
           "prompt": "Translate: 'I'm not American; I'm Canadian.' (male speaker)",
           "options": [
-            "Eu não sou americano; sou canadense. (State nationality and origin using ser  nationality and servir de  place)",
-            "Eu sou não americano; sou canadense. (State nationality and origin using ser  nationality and servir de  place)",
-            "Eu não sou americana; sou canadense. (State nationality and origin using ser  nationality and servir de  place)",
-            "Eu não é americano; sou canadense. (State nationality and origin using ser  nationality and servir de  place)"
+            "Eu não sou americano; sou canadense.",
+            "Eu sou não americano; sou canadense.",
+            "Eu não sou americana; sou canadense.",
+            "Eu não é americano; sou canadense."
           ],
           "answerIndex": 0,
           "explanation": "não goes before sou; americano matches a male speaker's gender agreement."
@@ -1195,10 +1195,10 @@
         {
           "prompt": "Why does brasileiro become brasileira for a female speaker?",
           "options": [
-            "It's a random exception (State nationality and origin using ser  nationality and servir de  place)",
-            "Nationality adjectives follow standard Portuguese -o/-a gender agreement, just like other adjectives (State nationality and origin using ser  nationality and servir de  place)",
-            "brasileira is a completely different word with a different meaning (State nationality and origin using ser  nationality and servir de  place)",
-            "Only male speakers can state nationality (State nationality and origin using ser  nationality and servir de  place)"
+            "It's a random exception",
+            "Nationality adjectives follow standard Portuguese -o/-a gender agreement, just like other adjectives",
+            "brasileira is a completely different word with a different meaning",
+            "Only male speakers can state nationality"
           ],
           "answerIndex": 1,
           "explanation": "This restates the regular adjective-agreement pattern taught in the lesson."
@@ -1206,10 +1206,10 @@
         {
           "prompt": "Ele ___ de Portugal. (He is from Portugal.)",
           "options": [
-            "sou (State nationality and origin using ser  nationality and servir de  place)",
-            "é (State nationality and origin using ser  nationality and servir de  place)",
-            "são (State nationality and origin using ser  nationality and servir de  place)",
-            "somos (State nationality and origin using ser  nationality and servir de  place)"
+            "sou",
+            "é",
+            "são",
+            "somos"
           ],
           "answerIndex": 1,
           "explanation": "ele pairs with é (ser)."
@@ -1221,10 +1221,10 @@
         {
           "prompt": "Eu sou brasileir___. (female speaker)",
           "options": [
-            "o (State nationality and origin using ser  nationality and servir de  place)",
-            "a (State nationality and origin using ser  nationality and servir de  place)",
-            "os (State nationality and origin using ser  nationality and servir de  place)",
-            "as (State nationality and origin using ser  nationality and servir de  place)"
+            "o",
+            "a",
+            "os",
+            "as"
           ],
           "answerIndex": 1,
           "explanation": "brasileira agrees with a female speaker.",
@@ -1233,10 +1233,10 @@
         {
           "prompt": "Ele ___ é daqui.",
           "options": [
-            "não (State nationality and origin using ser  nationality and servir de  place)",
-            "nunca (State nationality and origin using ser  nationality and servir de  place)",
-            "nada (State nationality and origin using ser  nationality and servir de  place)",
-            "sem (State nationality and origin using ser  nationality and servir de  place)"
+            "não",
+            "nunca",
+            "nada",
+            "sem"
           ],
           "answerIndex": 0,
           "explanation": "não negates the verb é.",
@@ -1245,10 +1245,10 @@
         {
           "prompt": "Eu ___ de São Paulo.",
           "options": [
-            "são (State nationality and origin using ser  nationality and servir de  place)",
-            "está (State nationality and origin using ser  nationality and servir de  place)",
-            "somos (State nationality and origin using ser  nationality and servir de  place)",
-            "sou (State nationality and origin using ser  nationality and servir de  place)"
+            "são",
+            "está",
+            "somos",
+            "sou"
           ],
           "answerIndex": 3,
           "explanation": "sou (ser) + de + place.",
@@ -1257,10 +1257,10 @@
         {
           "prompt": "Eu ___ sou americano; sou canadense.",
           "options": [
-            "nada (State nationality and origin using ser  nationality and servir de  place)",
-            "nunca (State nationality and origin using ser  nationality and servir de  place)",
-            "não (State nationality and origin using ser  nationality and servir de  place)",
-            "sem (State nationality and origin using ser  nationality and servir de  place)"
+            "nada",
+            "nunca",
+            "não",
+            "sem"
           ],
           "answerIndex": 2,
           "explanation": "não directly before sou negates it.",
@@ -1269,10 +1269,10 @@
         {
           "prompt": "What single word handles negation before a verb in Portuguese, regardless of what follows?",
           "options": [
-            "nunca (State nationality and origin using ser  nationality and servir de  place)",
-            "não (State nationality and origin using ser  nationality and servir de  place)",
-            "nada (State nationality and origin using ser  nationality and servir de  place)",
-            "sem (State nationality and origin using ser  nationality and servir de  place)"
+            "nunca",
+            "não",
+            "nada",
+            "sem"
           ],
           "answerIndex": 1,
           "explanation": "não is the uniform negation word.",
@@ -1281,10 +1281,10 @@
         {
           "prompt": "Why is Portuguese negation considered simpler than a two-way split system like German's nicht/kein?",
           "options": [
-            "One word, não, handles every case — verbs, nouns, adjectives — with no word-type decision required (State nationality and origin using ser  nationality and servir de  place)",
-            "Portuguese negation requires three different words (State nationality and origin using ser  nationality and servir de  place)",
-            "There is no negation in Portuguese (State nationality and origin using ser  nationality and servir de  place)",
-            "Portuguese cannot negate nouns at all (State nationality and origin using ser  nationality and servir de  place)"
+            "One word, não, handles every case — verbs, nouns, adjectives — with no word-type decision required",
+            "Portuguese negation requires three different words",
+            "There is no negation in Portuguese",
+            "Portuguese cannot negate nouns at all"
           ],
           "answerIndex": 0,
           "explanation": "This restates the uniform-negation point from the explanation.",
@@ -1349,10 +1349,10 @@
         {
           "prompt": "Boa tarde! Eu me ___ Marina. (My name is Marina.)",
           "options": [
-            "chamo (Combine greetings)",
-            "chama (Combine greetings)",
-            "sou chamo (Combine greetings)",
-            "chamamos (Combine greetings)"
+            "chamo",
+            "chama",
+            "sou chamo",
+            "chamamos"
           ],
           "answerIndex": 0,
           "explanation": "eu me chamo, from Lesson 3."
@@ -1360,10 +1360,10 @@
         {
           "prompt": "Eu não ___ brasileiro; sou canadense. (I'm not Brazilian; I'm Canadian.)",
           "options": [
-            "sou (Combine greetings)",
-            "estou (Combine greetings)",
-            "é (Combine greetings)",
-            "está (Combine greetings)"
+            "sou",
+            "estou",
+            "é",
+            "está"
           ],
           "answerIndex": 0,
           "explanation": "Nationality is a ser fact, negated with não sou."
@@ -1371,10 +1371,10 @@
         {
           "prompt": "___ no Brasil agora para estudar português. (I'm in Brazil now to study.)",
           "options": [
-            "Estou (Combine greetings)",
-            "Sou (Combine greetings)",
-            "É (Combine greetings)",
-            "Está (Combine greetings)"
+            "Estou",
+            "Sou",
+            "É",
+            "Está"
           ],
           "answerIndex": 0,
           "explanation": "A current, temporary situation (being in Brazil right now) uses estar."
@@ -1382,10 +1382,10 @@
         {
           "prompt": "What four Unit 1 elements does this capstone combine?",
           "options": [
-            "Time-appropriate greetings, ser/estar, self-introduction with você, and não negation (Combine greetings)",
-            "Only nationality vocabulary (Combine greetings)",
-            "Only greetings (Combine greetings)",
-            "Only negation (Combine greetings)"
+            "Time-appropriate greetings, ser/estar, self-introduction with você, and não negation",
+            "Only nationality vocabulary",
+            "Only greetings",
+            "Only negation"
           ],
           "answerIndex": 0,
           "explanation": "This is the explicit combination the capstone dialogue is built around."
@@ -1397,10 +1397,10 @@
         {
           "prompt": "Translate: 'I'm not Brazilian; I'm Canadian, but I'm in Brazil now to study Portuguese.'",
           "options": [
-            "Eu não sou brasileiro; sou canadense, mas estou no Brasil agora para estudar português. (Combine greetings)",
-            "Eu não sou brasileiro; estou canadense, mas estou no Brasil agora para estudar português. (Combine greetings)",
-            "Eu não sou brasileiro; sou canadense, mas sou no Brasil agora para estudar português. (Combine greetings)",
-            "Eu não estou brasileiro; sou canadense, mas sou no Brasil agora para estudar português. (Combine greetings)"
+            "Eu não sou brasileiro; sou canadense, mas estou no Brasil agora para estudar português.",
+            "Eu não sou brasileiro; estou canadense, mas estou no Brasil agora para estudar português.",
+            "Eu não sou brasileiro; sou canadense, mas sou no Brasil agora para estudar português.",
+            "Eu não estou brasileiro; sou canadense, mas sou no Brasil agora para estudar português."
           ],
           "answerIndex": 0,
           "explanation": "Nationality (sou) with não negation, then estou for the current temporary location/purpose."
@@ -1408,9 +1408,9 @@
         {
           "prompt": "Why does the same paragraph use sou for nationality but estou for being in Brazil?",
           "options": [
-            "Random variation with no reason (Combine greetings)",
-            "estou is more formal than sou (Combine greetings)",
-            "They're interchangeable here (Combine greetings)",
+            "Random variation with no reason",
+            "estou is more formal than sou",
+            "They're interchangeable here",
             "sou marks the permanent identity fact (nationality)"
           ],
           "answerIndex": 3,
@@ -1419,10 +1419,10 @@
         {
           "prompt": "What is the overall skill this capstone dialogue tests?",
           "options": [
-            "Isolated vocabulary recall only (Combine greetings)",
-            "Only asking someone's name (Combine greetings)",
-            "Producing a connected, natural first-meeting exchange combining greetings, ser/estar, self-introduction, and não negation (Combine greetings)",
-            "Only conjugating estar (Combine greetings)"
+            "Isolated vocabulary recall only",
+            "Only asking someone's name",
+            "Producing a connected, natural first-meeting exchange combining greetings, ser/estar, self-introduction, and não negation",
+            "Only conjugating estar"
           ],
           "answerIndex": 2,
           "explanation": "This is the explicit goal stated in the lesson explanation."
@@ -1434,10 +1434,10 @@
         {
           "prompt": "Boa tarde! Eu me ___ Marina.",
           "options": [
-            "chamo (Combine greetings)",
-            "sou chamo (Combine greetings)",
-            "chamamos (Combine greetings)",
-            "chama (Combine greetings)"
+            "chamo",
+            "sou chamo",
+            "chamamos",
+            "chama"
           ],
           "answerIndex": 0,
           "explanation": "eu me chamo.",
@@ -1446,10 +1446,10 @@
         {
           "prompt": "Qual ___ o seu nome?",
           "options": [
-            "sou (Combine greetings)",
-            "está (Combine greetings)",
-            "somos (Combine greetings)",
-            "é (Combine greetings)"
+            "sou",
+            "está",
+            "somos",
+            "é"
           ],
           "answerIndex": 3,
           "explanation": "é (ser) for the identity question.",
@@ -1458,10 +1458,10 @@
         {
           "prompt": "Eu não ___ brasileiro; sou canadense.",
           "options": [
-            "estou (Combine greetings)",
-            "é (Combine greetings)",
-            "sou (Combine greetings)",
-            "está (Combine greetings)"
+            "estou",
+            "é",
+            "sou",
+            "está"
           ],
           "answerIndex": 2,
           "explanation": "não sou negates the nationality identity fact.",
@@ -1470,10 +1470,10 @@
         {
           "prompt": "___ no Brasil agora para estudar português.",
           "options": [
-            "É (Combine greetings)",
-            "Estou (Combine greetings)",
-            "Está (Combine greetings)",
-            "Sou (Combine greetings)"
+            "É",
+            "Estou",
+            "Está",
+            "Sou"
           ],
           "answerIndex": 1,
           "explanation": "estar for the current, temporary situation.",
@@ -1482,10 +1482,10 @@
         {
           "prompt": "Você ___ gostando daqui? (Are you enjoying it here?)",
           "options": [
-            "está (Combine greetings)",
-            "sou (Combine greetings)",
-            "somos (Combine greetings)",
-            "é (Combine greetings)"
+            "está",
+            "sou",
+            "somos",
+            "é"
           ],
           "answerIndex": 0,
           "explanation": "A current, ongoing feeling uses estar.",
@@ -1494,10 +1494,10 @@
         {
           "prompt": "What is the overall skill this capstone dialogue tests?",
           "options": [
-            "Isolated vocabulary recall only (Combine greetings)",
-            "Only telling time (Combine greetings)",
-            "Only regional slang (Combine greetings)",
-            "A connected, natural first-meeting exchange combining greetings, ser/estar, self-introduction, and não negation (Combine greetings)"
+            "Isolated vocabulary recall only",
+            "Only telling time",
+            "Only regional slang",
+            "A connected, natural first-meeting exchange combining greetings, ser/estar, self-introduction, and não negation"
           ],
           "answerIndex": 3,
           "explanation": "This is the explicit goal stated in the lesson explanation.",
@@ -1868,10 +1868,10 @@
         {
           "prompt": "How do you answer 'Que horas são?' for 1:30 PM?",
           "options": [
-            "São uma e meia da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É um e meio da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "São um e meia da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É uma e meia da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "São uma e meia da tarde.",
+            "É um e meio da tarde.",
+            "São um e meia da tarde.",
+            "É uma e meia da tarde."
           ],
           "answerIndex": 3,
           "explanation": "1:00 takes the singular verb 'É' and feminine 'uma' and 'meia' (short for hora)."
@@ -1879,10 +1879,10 @@
         {
           "prompt": "How do you say 7:15 PM in natural Brazilian Portuguese?",
           "options": [
-            "É sete e quinze da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "São sete e quinze da madrugada. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É sete e quinze da noite. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "São sete e quinze da noite. (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "É sete e quinze da tarde.",
+            "São sete e quinze da madrugada.",
+            "É sete e quinze da noite.",
+            "São sete e quinze da noite."
           ],
           "answerIndex": 3,
           "explanation": "7 takes 'São' (plural) and 7 PM is evening ('da noite')."
@@ -1890,10 +1890,10 @@
         {
           "prompt": "What does 'três da madrugada' mean?",
           "options": [
-            "3:00 in the morning (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "3:00 at dusk (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "3 minutes past midnight (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "3:00 in the afternoon (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "3:00 in the morning",
+            "3:00 at dusk",
+            "3 minutes past midnight",
+            "3:00 in the afternoon"
           ],
           "answerIndex": 0,
           "explanation": "'Madrugada' refers specifically to the hours between midnight and dawn."
@@ -1905,10 +1905,10 @@
         {
           "prompt": "Select the sentence with the correct verb agreement for time:",
           "options": [
-            "São meio-dia. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É meio-dia e meia. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "São uma hora da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É duas horas. (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "São meio-dia.",
+            "É meio-dia e meia.",
+            "São uma hora da tarde.",
+            "É duas horas."
           ],
           "answerIndex": 1,
           "explanation": "Meio-dia takes singular 'É' (É meio-dia e meia)."
@@ -1916,10 +1916,10 @@
         {
           "prompt": "Translate: 'The meeting is at 10:00 AM.'",
           "options": [
-            "A reunião é às dez da manhã. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "A reunião é no dez da manhã. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "A reunião é em dez da manhã. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "A reunião é de dez da manhã. (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "A reunião é às dez da manhã.",
+            "A reunião é no dez da manhã.",
+            "A reunião é em dez da manhã.",
+            "A reunião é de dez da manhã."
           ],
           "answerIndex": 0,
           "explanation": "Times use the preposition 'às' (at the): às dez da manhã."
@@ -1931,10 +1931,10 @@
         {
           "prompt": "Que horas são? (1:00 PM)",
           "options": [
-            "São um hora da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É uma hora da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "São uma hora da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É um hora da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "São um hora da tarde.",
+            "É uma hora da tarde.",
+            "São uma hora da tarde.",
+            "É um hora da tarde."
           ],
           "answerIndex": 1,
           "explanation": "1:00 takes singular 'É' and feminine 'uma'.",
@@ -1943,10 +1943,10 @@
         {
           "prompt": "Que horas são? (3:30 PM)",
           "options": [
-            "São três e meia da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É três e meia da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "É três e meio da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "São três e meio da tarde. (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "São três e meia da tarde.",
+            "É três e meia da tarde.",
+            "É três e meio da tarde.",
+            "São três e meio da tarde."
           ],
           "answerIndex": 0,
           "explanation": "3:00 takes plural 'São' and 'meia' (half hour).",
@@ -1955,10 +1955,10 @@
         {
           "prompt": "Complete: 'A festa começa ___ nove da noite.'",
           "options": [
-            "no (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "na (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "em (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "às (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "no",
+            "na",
+            "em",
+            "às"
           ],
           "answerIndex": 3,
           "explanation": "At [time] uses 'às' (contraction of a + as horas).",
@@ -1967,10 +1967,10 @@
         {
           "prompt": "12:00 PM (noon) em português é:",
           "options": [
-            "meio-tempo (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "meia-noite (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "meio-dia (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "doze horas da madrugada (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "meio-tempo",
+            "meia-noite",
+            "meio-dia",
+            "doze horas da madrugada"
           ],
           "answerIndex": 2,
           "explanation": "Noon is 'meio-dia'.",
@@ -1979,10 +1979,10 @@
         {
           "prompt": "'São quinze para as oito' significa o mesmo que:",
           "options": [
-            "8:15 (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "7:45 (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "8:45 (Can ask and state the time in Brazilian Portuguese using Que horas so)",
-            "7:15 (Can ask and state the time in Brazilian Portuguese using Que horas so)"
+            "8:15",
+            "7:45",
+            "8:45",
+            "7:15"
           ],
           "answerIndex": 1,
           "explanation": "15 minutes until 8 = 7:45.",
@@ -2030,10 +2030,10 @@
         {
           "prompt": "Which preposition goes before 'quarta-feira' (Wednesday)?",
           "options": [
-            "na (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "em (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "à (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "no (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "na",
+            "em",
+            "à",
+            "no"
           ],
           "answerIndex": 0,
           "explanation": "All feira weekdays are grammatically feminine and take 'na' (em + a)."
@@ -2041,10 +2041,10 @@
         {
           "prompt": "Which preposition goes before 'domingo' (Sunday)?",
           "options": [
-            "no (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "em (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "às (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "na (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "no",
+            "em",
+            "às",
+            "na"
           ],
           "answerIndex": 0,
           "explanation": "Domingo and sábado are masculine and take 'no' (em + o)."
@@ -2052,10 +2052,10 @@
         {
           "prompt": "Why is Monday called 'segunda-feira' in Portuguese?",
           "options": [
-            "Because it is the second day of the week (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Because it means 'fair day' (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Because it is the second month (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Because of a Roman emperor (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "Because it is the second day of the week",
+            "Because it means 'fair day'",
+            "Because it is the second month",
+            "Because of a Roman emperor"
           ],
           "answerIndex": 0,
           "explanation": "Sunday is the 1st day of the liturgical week, making Monday the 2nd day (segunda-feira)."
@@ -2067,10 +2067,10 @@
         {
           "prompt": "Translate: 'I don't work on Saturdays and Sundays.'",
           "options": [
-            "Eu não trabalho aos sábados e domingos (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Eu não trabalho nas sábados e domingos. (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Eu não trabalho às sábados e domingos. (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Eu não trabalho em os sábados e domingos. (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "Eu não trabalho aos sábados e domingos",
+            "Eu não trabalho nas sábados e domingos.",
+            "Eu não trabalho às sábados e domingos.",
+            "Eu não trabalho em os sábados e domingos."
           ],
           "answerIndex": 0,
           "explanation": "Masculine weekend days take 'no' / 'aos'."
@@ -2078,10 +2078,10 @@
         {
           "prompt": "Select the correct spelling of the months:",
           "options": [
-            "janeiro, fevereiro, março (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Janeiro, Fevereiro, Março (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "janeiro, febraro, março (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Janeiro, fevrero, marzo (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "janeiro, fevereiro, março",
+            "Janeiro, Fevereiro, Março (B)",
+            "janeiro, febraro, março",
+            "Janeiro, fevrero, marzo"
           ],
           "answerIndex": 0,
           "explanation": "Months are written with lower-case letters in Portuguese: janeiro, fevereiro, março."
@@ -2093,10 +2093,10 @@
         {
           "prompt": "Hoje é sexta-feira. Amanhã é:",
           "options": [
-            "sábado (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "domingo (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "segunda-feira (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "quinta-feira (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "sábado",
+            "domingo",
+            "segunda-feira",
+            "quinta-feira"
           ],
           "answerIndex": 0,
           "explanation": "The day after Friday (sexta) is Saturday (sábado).",
@@ -2105,10 +2105,10 @@
         {
           "prompt": "Complete: 'A reunião é ___ quarta-feira, ___ três da tarde.'",
           "options": [
-            "na / na (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "no / às (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "em / na (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "na / às (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "na / na",
+            "no / às",
+            "em / na",
+            "na / às"
           ],
           "answerIndex": 3,
           "explanation": "na quarta-feira (on Wednesday) and às três (at three).",
@@ -2117,10 +2117,10 @@
         {
           "prompt": "Complete: 'O festival acontece ___ novembro.'",
           "options": [
-            "na (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "no (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "em (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "às (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "na",
+            "no",
+            "em",
+            "às"
           ],
           "answerIndex": 2,
           "explanation": "Months alone take 'em' (em novembro).",
@@ -2129,10 +2129,10 @@
         {
           "prompt": "Qual é o terceiro dia da semana?",
           "options": [
-            "quarta-feira (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "terça-feira (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "segunda-feira (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "quinta-feira (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "quarta-feira",
+            "terça-feira",
+            "segunda-feira",
+            "quinta-feira"
           ],
           "answerIndex": 1,
           "explanation": "Day 1 = domingo, Day 2 = segunda, Day 3 = terça-feira.",
@@ -2141,10 +2141,10 @@
         {
           "prompt": "What does the popular Brazilian exclamation 'Sextou!' express?",
           "options": [
-            "TGIF / Celebration that Friday has arrived and the weekend has started (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Confusion about the date (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "Anger that the week is over (Can identify all days of the week and months of the year in Brazilian Portuguese)",
-            "A schedule cancellation (Can identify all days of the week and months of the year in Brazilian Portuguese)"
+            "TGIF / Celebration that Friday has arrived and the weekend has started",
+            "Confusion about the date",
+            "Anger that the week is over",
+            "A schedule cancellation"
           ],
           "answerIndex": 0,
           "explanation": "'Sextou!' is the standard celebratory cry for Friday.",
@@ -2194,10 +2194,10 @@
         {
           "prompt": "How does Lucas say his phone number (98612-3456) naturally in Brazilian Portuguese?",
           "options": [
-            "nove-oito-meia-um-dois, trinta e quatro, cinquenta e seis (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "nove-oito-seis-um-dois, trinta quatro, cinquenta seis (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "nove-oito-zero-um-dois, três-quatro, cinco-seis (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "novecentos e oitenta e seis, doze, trinta e quatro (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "nove-oito-meia-um-dois, trinta e quatro, cinquenta e seis",
+            "nove-oito-seis-um-dois, trinta quatro, cinquenta seis",
+            "nove-oito-zero-um-dois, três-quatro, cinco-seis",
+            "novecentos e oitenta e seis, doze, trinta e quatro"
           ],
           "answerIndex": 0,
           "explanation": "Brazilians group numbers naturally into pairs or triplets, using 'meia' for 6: nove-oito-meia-um-dois, trinta e quatro, cinquenta e seis."
@@ -2205,10 +2205,10 @@
         {
           "prompt": "What does 'Combinado!' mean at the end of a scheduling conversation?",
           "options": [
-            "Agreed / It's a deal / It's a plan! (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Maybe later (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "I will be late (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Cancel the plan (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "Agreed / It's a deal / It's a plan!",
+            "Maybe later",
+            "I will be late",
+            "Cancel the plan"
           ],
           "answerIndex": 0,
           "explanation": "'Combinado!' confirms an agreed plan."
@@ -2216,10 +2216,10 @@
         {
           "prompt": "How do you say: 'The concert is on Saturday at 10:30 PM and costs 50 reais'?",
           "options": [
-            "O show é no sábado às dez e meia da noite e custa cinquenta reais. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "O show é na sábado em dez e meio da noite e custa cinquenta reais. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "O show é no sábado às dez e meia da manhã e custa cinquenta real. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "O show é em sábado às dez e meia da noite e custa cinquenta reais. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "O show é no sábado às dez e meia da noite e custa cinquenta reais.",
+            "O show é na sábado em dez e meio da noite e custa cinquenta reais.",
+            "O show é no sábado às dez e meia da manhã e custa cinquenta real.",
+            "O show é em sábado às dez e meia da noite e custa cinquenta reais."
           ],
           "answerIndex": 0,
           "explanation": "'no sábado' (masc. day) + 'às dez e meia da noite' (10:30 PM) + 'custa cinquenta reais' (plural reais)."
@@ -2231,10 +2231,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:00 PM?'",
           "options": [
-            "Você está livre na terça às quatro da tarde? (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Você está livre no terça às quatro da noite? (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Você está livre em terça às quatro da tarde? (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Você é livre no terça em quatro da tarde? (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "Você está livre na terça às quatro da tarde?",
+            "Você está livre no terça às quatro da noite?",
+            "Você está livre em terça às quatro da tarde?",
+            "Você é livre no terça em quatro da tarde?"
           ],
           "answerIndex": 0,
           "explanation": "Estar for current availability + na terça + às quatro da tarde."
@@ -2242,10 +2242,10 @@
         {
           "prompt": "Which of the following is the standard phrase to confirm an appointment in Brazil?",
           "options": [
-            "Combinado! (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "De nada! (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Por favor! (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Desculpe! (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "Combinado!",
+            "De nada!",
+            "Por favor!",
+            "Desculpe!"
           ],
           "answerIndex": 0,
           "explanation": "'Combinado!' is the standard confirmation."
@@ -2257,10 +2257,10 @@
         {
           "prompt": "Complete: 'Você está livre ___ sexta-feira ___ oito da noite?'",
           "options": [
-            "no / às (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "em / na (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "na / no (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "na / às (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "no / às",
+            "em / na",
+            "na / no",
+            "na / às"
           ],
           "answerIndex": 3,
           "explanation": "na sexta-feira / às oito da noite.",
@@ -2269,10 +2269,10 @@
         {
           "prompt": "Complete: 'O ingresso ___ trinta e cinco ___.'",
           "options": [
-            "custam / real (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "custa / real (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "custa / reais (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "é / real (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "custam / real",
+            "custa / real",
+            "custa / reais",
+            "é / real"
           ],
           "answerIndex": 2,
           "explanation": "O ingresso custa (singular) trinta e cinco reais (plural).",
@@ -2281,10 +2281,10 @@
         {
           "prompt": "'Nos vemos no sábado às duas da tarde!' — Como você confirma de forma natural?",
           "options": [
-            "Desculpe, não sei. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Combinado! Até sábado! (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Por favor, obrigado. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "De nada, até logo. (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "Desculpe, não sei.",
+            "Combinado! Até sábado!",
+            "Por favor, obrigado.",
+            "De nada, até logo."
           ],
           "answerIndex": 1,
           "explanation": "'Combinado! Até sábado!' is the natural confirmation.",
@@ -2293,10 +2293,10 @@
         {
           "prompt": "Como se diz o preço R$ 92,00?",
           "options": [
-            "noventa e dois reais (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "noventa dois reais (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "setenta e dois reais (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "oito e doze reais (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "noventa e dois reais",
+            "noventa dois reais",
+            "setenta e dois reais",
+            "oito e doze reais"
           ],
           "answerIndex": 0,
           "explanation": "92 reais is 'noventa e dois reais'.",
@@ -2305,10 +2305,10 @@
         {
           "prompt": "Qual é a principal habilidade avaliada neste diálogo integrador?",
           "options": [
-            "Apenas memorização de vocabulário isolado (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Apenas conjugar verbos irregulares (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Apenas ler números de telefone (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)",
-            "Agendar um compromisso combinando saudações, dias, horas, preços e contato com fluidez (Can participate in a multiturn Brazilian Portuguese dialogue scheduling an event)"
+            "Apenas memorização de vocabulário isolado",
+            "Apenas conjugar verbos irregulares",
+            "Apenas ler números de telefone",
+            "Agendar um compromisso combinando saudações, dias, horas, preços e contato com fluidez"
           ],
           "answerIndex": 3,
           "explanation": "This capstone synthesizes greetings, days, times, prices, and conversational scheduling.",
@@ -2355,10 +2355,10 @@
         {
           "prompt": "Choose the correct possessive: 'Esta é ___ mãe.' (my mother)",
           "options": [
-            "meu (Identify immediate family members in Brazilian Portuguese pai)",
-            "meus (Identify immediate family members in Brazilian Portuguese pai)",
-            "minhas (Identify immediate family members in Brazilian Portuguese pai)",
-            "minha (Identify immediate family members in Brazilian Portuguese pai)"
+            "meu",
+            "meus",
+            "minhas",
+            "minha"
           ],
           "answerIndex": 3,
           "explanation": "'mãe' is feminine singular, requiring 'minha'."
@@ -2366,10 +2366,10 @@
         {
           "prompt": "What is the collective Portuguese word for 'parents' (father and mother)?",
           "options": [
-            "os tios (Identify immediate family members in Brazilian Portuguese pai)",
-            "os filhos (Identify immediate family members in Brazilian Portuguese pai)",
-            "os pais (Identify immediate family members in Brazilian Portuguese pai)",
-            "os irmãos (Identify immediate family members in Brazilian Portuguese pai)"
+            "os tios",
+            "os filhos",
+            "os pais",
+            "os irmãos"
           ],
           "answerIndex": 2,
           "explanation": "'os pais' means parents."
@@ -2377,10 +2377,10 @@
         {
           "prompt": "What is the plural of 'irmão' (brother / sibling)?",
           "options": [
-            "os irmões (Identify immediate family members in Brazilian Portuguese pai)",
-            "os irmãos (Identify immediate family members in Brazilian Portuguese pai)",
-            "os irmãoses (Identify immediate family members in Brazilian Portuguese pai)",
-            "os irmães (Identify immediate family members in Brazilian Portuguese pai)"
+            "os irmões",
+            "os irmãos",
+            "os irmãoses",
+            "os irmães"
           ],
           "answerIndex": 1,
           "explanation": "'irmão' takes the regular plural ending -ãos: 'irmãos'."
@@ -2392,10 +2392,10 @@
         {
           "prompt": "Translate: 'Our house is in Rio de Janeiro.'",
           "options": [
-            "Nosso casa fica no Rio de Janeiro. (Identify immediate family members in Brazilian Portuguese pai)",
-            "Nossos casa fica no Rio de Janeiro. (Identify immediate family members in Brazilian Portuguese pai)",
-            "Nossas casa fica no Rio de Janeiro. (Identify immediate family members in Brazilian Portuguese pai)",
-            "Nossa casa fica no Rio de Janeiro. (Identify immediate family members in Brazilian Portuguese pai)"
+            "Nosso casa fica no Rio de Janeiro.",
+            "Nossos casa fica no Rio de Janeiro.",
+            "Nossas casa fica no Rio de Janeiro.",
+            "Nossa casa fica no Rio de Janeiro."
           ],
           "answerIndex": 3,
           "explanation": "'casa' is feminine singular -> 'Nossa casa'."
@@ -2403,10 +2403,10 @@
         {
           "prompt": "How do you ask 'Do you have siblings?' in Brazilian Portuguese?",
           "options": [
-            "Você está irmãos? (Identify immediate family members in Brazilian Portuguese pai)",
-            "Tu tens irmãos? (Identify immediate family members in Brazilian Portuguese pai)",
-            "Você tem irmãos? (Identify immediate family members in Brazilian Portuguese pai)",
-            "Você é irmãos? (Identify immediate family members in Brazilian Portuguese pai)"
+            "Você está irmãos?",
+            "Tu tens irmãos?",
+            "Você tem irmãos?",
+            "Você é irmãos?"
           ],
           "answerIndex": 2,
           "explanation": "Standard Brazilian Portuguese inquiry: 'Você tem irmãos?'."
@@ -2418,10 +2418,10 @@
         {
           "prompt": "Em português, 'meus pais' significa:",
           "options": [
-            "My countries (Identify immediate family members in Brazilian Portuguese pai)",
-            "My brothers (Identify immediate family members in Brazilian Portuguese pai)",
-            "My parents (Identify immediate family members in Brazilian Portuguese pai)",
-            "My grandparents (Identify immediate family members in Brazilian Portuguese pai)"
+            "My countries",
+            "My brothers",
+            "My parents",
+            "My grandparents"
           ],
           "answerIndex": 2,
           "explanation": "'os pais' means parents.",
@@ -2430,10 +2430,10 @@
         {
           "prompt": "Complete a frase: 'Eu amo ___ filhas.' (my daughters)",
           "options": [
-            "meu (Identify immediate family members in Brazilian Portuguese pai)",
-            "minhas (Identify immediate family members in Brazilian Portuguese pai)",
-            "minha (Identify immediate family members in Brazilian Portuguese pai)",
-            "meus (Identify immediate family members in Brazilian Portuguese pai)"
+            "meu",
+            "minhas",
+            "minha",
+            "meus"
           ],
           "answerIndex": 1,
           "explanation": "filhas is feminine plural -> minhas.",
@@ -2442,10 +2442,10 @@
         {
           "prompt": "Qual é a pronúncia correta da palavra 'mãe'?",
           "options": [
-            "Um ditongo nasal sonoro (Identify immediate family members in Brazilian Portuguese pai)",
-            "Pronuncia-se como 'ma-e' separado (Identify immediate family members in Brazilian Portuguese pai)",
-            "O 'e' é mudo (Identify immediate family members in Brazilian Portuguese pai)",
-            "Pronuncia-se como 'mai' (Identify immediate family members in Brazilian Portuguese pai)"
+            "Um ditongo nasal sonoro",
+            "Pronuncia-se como 'ma-e' separado",
+            "O 'e' é mudo",
+            "Pronuncia-se como 'mai'"
           ],
           "answerIndex": 0,
           "explanation": "Nasal diphthong with tilde over 'a'.",
@@ -2454,10 +2454,10 @@
         {
           "prompt": "Como se diz 'daughter' em português?",
           "options": [
-            "irmã (Identify immediate family members in Brazilian Portuguese pai)",
-            "filho (Identify immediate family members in Brazilian Portuguese pai)",
-            "mãe (Identify immediate family members in Brazilian Portuguese pai)",
-            "filha (Identify immediate family members in Brazilian Portuguese pai)"
+            "irmã",
+            "filho",
+            "mãe",
+            "filha"
           ],
           "answerIndex": 3,
           "explanation": "filha = daughter.",
@@ -2466,10 +2466,10 @@
         {
           "prompt": "Qual possessivo concorda com 'nossos irmãos'?",
           "options": [
-            "nosso (Identify immediate family members in Brazilian Portuguese pai)",
-            "nossas (Identify immediate family members in Brazilian Portuguese pai)",
-            "nossos (Identify immediate family members in Brazilian Portuguese pai)",
-            "nossa (Identify immediate family members in Brazilian Portuguese pai)"
+            "nosso",
+            "nossas",
+            "nossos",
+            "nossa"
           ],
           "answerIndex": 2,
           "explanation": "nossos irmãos matches masculine plural.",
@@ -2516,10 +2516,10 @@
         {
           "prompt": "How do Brazilians say 'his car' with complete clarity?",
           "options": [
-            "o carro dele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "o seu carro (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "o ele carro (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "o carro seu (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "o carro dele",
+            "o seu carro",
+            "o ele carro",
+            "o carro seu"
           ],
           "answerIndex": 0,
           "explanation": "'o carro dele' specifically means 'his car' without ambiguity."
@@ -2527,10 +2527,10 @@
         {
           "prompt": "Where does 'dela' (her) go in the sentence?",
           "options": [
-            "AFTER the noun (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "BEFORE the noun (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "Attached as a prefix (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "At the very end of the paragraph only (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "AFTER the noun",
+            "BEFORE the noun",
+            "Attached as a prefix",
+            "At the very end of the paragraph only"
           ],
           "answerIndex": 0,
           "explanation": "'dele/dela' always stands after the noun."
@@ -2538,10 +2538,10 @@
         {
           "prompt": "Translate: 'her brother' into natural Brazilian Portuguese.",
           "options": [
-            "o irmão dela (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "o irmão dele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "o seu irmão (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "a irmã dela (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "o irmão dela",
+            "o irmão dele",
+            "o seu irmão",
+            "a irmã dela"
           ],
           "answerIndex": 0,
           "explanation": "o irmão (the brother) + dela (her)."
@@ -2553,10 +2553,10 @@
         {
           "prompt": "Translate: 'their parents' (referring to a group of friends, eles).",
           "options": [
-            "os pais delas (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "os pais dele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "os pais seu (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "os pais deles (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "os pais delas",
+            "os pais dele",
+            "os pais seu",
+            "os pais deles"
           ],
           "answerIndex": 3,
           "explanation": "os pais deles = their parents."
@@ -2564,10 +2564,10 @@
         {
           "prompt": "Why is 'dele / dela' preferred over 'seu / sua' in Brazil when talking about a third person?",
           "options": [
-            "Because 'seu' is an archaic word (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "Because 'dela' is only for animals (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "Because 'dele' means tomorrow (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "Because 'seu / sua' can confuse the listener between 'your' and 'his/her' (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "Because 'seu' is an archaic word",
+            "Because 'dela' is only for animals",
+            "Because 'dele' means tomorrow",
+            "Because 'seu / sua' can confuse the listener between 'your' and 'his/her'"
           ],
           "answerIndex": 3,
           "explanation": "To eliminate the ambiguity caused by você taking 3rd-person grammar."
@@ -2579,10 +2579,10 @@
         {
           "prompt": "'A mãe dele é professora' significa:",
           "options": [
-            "Your mother is a teacher (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "His mother is a teacher (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "My mother is a teacher (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "Her mother is a teacher (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "Your mother is a teacher",
+            "His mother is a teacher",
+            "My mother is a teacher",
+            "Her mother is a teacher"
           ],
           "answerIndex": 1,
           "explanation": "mãe dele = his mother.",
@@ -2591,10 +2591,10 @@
         {
           "prompt": "Como se diz 'her house' em português brasileiro?",
           "options": [
-            "a casa dela (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "o casa dela (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "dela casa (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "a casa dele (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "a casa dela",
+            "o casa dela",
+            "dela casa",
+            "a casa dele"
           ],
           "answerIndex": 0,
           "explanation": "a casa dela.",
@@ -2603,10 +2603,10 @@
         {
           "prompt": "'Dele' é a contração de quais duas palavras?",
           "options": [
-            "do + ele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "da + ele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "de + ela (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "de + ele (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "do + ele",
+            "da + ele",
+            "de + ela",
+            "de + ele"
           ],
           "answerIndex": 3,
           "explanation": "de + ele = dele.",
@@ -2615,10 +2615,10 @@
         {
           "prompt": "Qual é a forma para 'their' quando o grupo de donas é 100% feminino (elas)?",
           "options": [
-            "deles (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "dele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "delas (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "dela (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "deles",
+            "dele",
+            "delas",
+            "dela"
           ],
           "answerIndex": 2,
           "explanation": "delas is for all-female possessors.",
@@ -2627,10 +2627,10 @@
         {
           "prompt": "Complete: 'Conheço o Gabriel e a irmã ___.' (his sister)",
           "options": [
-            "delas (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "dele (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "dela (Master thirdperson possessive clarity in Brazilian Portuguese)",
-            "deles (Master thirdperson possessive clarity in Brazilian Portuguese)"
+            "delas",
+            "dele",
+            "dela",
+            "deles"
           ],
           "answerIndex": 1,
           "explanation": "Gabriel is male singular -> a irmã dele.",
@@ -2678,10 +2678,10 @@
         {
           "prompt": "What is the pronunciation difference between 'vovô' (grandfather) and 'vovó' (grandmother)?",
           "options": [
-            "They are pronounced identically (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "vovô is feminine and vovó is masculine (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "vovó is silent (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "vovô has a closed /o/ sound (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "They are pronounced identically",
+            "vovô is feminine and vovó is masculine",
+            "vovó is silent",
+            "vovô has a closed /o/ sound"
           ],
           "answerIndex": 3,
           "explanation": "Circumflex (^) marks closed /o/ (vovô); acute (´) marks open /ɔ/ (vovó)."
@@ -2689,10 +2689,10 @@
         {
           "prompt": "How is 'tio' (uncle) pronounced in standard Brazilian Portuguese?",
           "options": [
-            "TEE-oh (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "SEE-oh (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "TOH (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "TCHEE-oo (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "TEE-oh",
+            "SEE-oh",
+            "TOH",
+            "TCHEE-oo"
           ],
           "answerIndex": 3,
           "explanation": "'ti' before vowels palatalizes to 'tchi' in Brazilian Portuguese."
@@ -2700,10 +2700,10 @@
         {
           "prompt": "What is 'o cunhado' in English?",
           "options": [
-            "Father-in-law (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Son-in-law (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Cousin (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Brother-in-law (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "Father-in-law",
+            "Son-in-law",
+            "Cousin",
+            "Brother-in-law"
           ],
           "answerIndex": 3,
           "explanation": "cunhado = brother-in-law."
@@ -2715,10 +2715,10 @@
         {
           "prompt": "Translate: 'My cousins live in Curitiba.'",
           "options": [
-            "Meus primos moram em Curitiba. (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Minhas primos moram em Curitiba. (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Meus sobrinhos moram em Curitiba. (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Meus tios moram em Curitiba. (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "Meus primos moram em Curitiba.",
+            "Minhas primos moram em Curitiba.",
+            "Meus sobrinhos moram em Curitiba.",
+            "Meus tios moram em Curitiba."
           ],
           "answerIndex": 0,
           "explanation": "primos = cousins."
@@ -2726,10 +2726,10 @@
         {
           "prompt": "What does 'netinho' mean when using the Brazilian diminutive?",
           "options": [
-            "Little / beloved grandson (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Little nephew (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Little uncle (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Little cousin (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "Little / beloved grandson",
+            "Little nephew",
+            "Little uncle",
+            "Little cousin"
           ],
           "answerIndex": 0,
           "explanation": "neto + inho = little/beloved grandson."
@@ -2741,10 +2741,10 @@
         {
           "prompt": "O irmão da minha mãe é meu:",
           "options": [
-            "tio (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "primo (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "avô (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "sobrinho (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "tio",
+            "primo",
+            "avô",
+            "sobrinho"
           ],
           "answerIndex": 0,
           "explanation": "Mother's brother is tio.",
@@ -2753,10 +2753,10 @@
         {
           "prompt": "A filha do meu irmão é minha:",
           "options": [
-            "neta (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "prima (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "tia (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "sobrinha (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "neta",
+            "prima",
+            "tia",
+            "sobrinha"
           ],
           "answerIndex": 3,
           "explanation": "Brother's daughter is sobrinha.",
@@ -2765,10 +2765,10 @@
         {
           "prompt": "Qual palavra representa os pais do cônjuge (husband/wife)?",
           "options": [
-            "os tios (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "os cunhados (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "os sogros (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "os avós (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "os tios",
+            "os cunhados",
+            "os sogros",
+            "os avós"
           ],
           "answerIndex": 2,
           "explanation": "sogros = parents-in-law.",
@@ -2777,10 +2777,10 @@
         {
           "prompt": "A acentuação circunflexa em 'avô' indica que a vogal 'o' é:",
           "options": [
-            "Aberta (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Fechada (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Nasal (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "Muda (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "Aberta",
+            "Fechada",
+            "Nasal",
+            "Muda"
           ],
           "answerIndex": 1,
           "explanation": "Circumflex indicates closed vowel.",
@@ -2789,10 +2789,10 @@
         {
           "prompt": "O marido da minha filha é meu:",
           "options": [
-            "genro (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "nora (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "cunhado (Identify extended family members and inlaws in Brazilian Portuguese avs)",
-            "sogro (Identify extended family members and inlaws in Brazilian Portuguese avs)"
+            "genro",
+            "nora",
+            "cunhado",
+            "sogro"
           ],
           "answerIndex": 0,
           "explanation": "genro = son-in-law.",
@@ -2839,10 +2839,10 @@
         {
           "prompt": "How do you ask 'Where is the hospital located?' in natural Brazilian Portuguese?",
           "options": [
-            "Onde fica o hospital? (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Onde é o hospital? (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Onde tem o hospital? (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Onde está o hospital? (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "Onde fica o hospital?",
+            "Onde é o hospital?",
+            "Onde tem o hospital?",
+            "Onde está o hospital?"
           ],
           "answerIndex": 0,
           "explanation": "'Onde fica...?' is the standard natural way to ask for locations."
@@ -2850,10 +2850,10 @@
         {
           "prompt": "What does 'Meu pai fica feliz' mean?",
           "options": [
-            "My father gets / becomes happy (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "My father stays happy forever (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "My father looks like happy (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "My father is location happy (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "My father gets / becomes happy",
+            "My father stays happy forever",
+            "My father looks like happy",
+            "My father is location happy"
           ],
           "answerIndex": 0,
           "explanation": "ficar + adjective expresses becoming or entering an emotional state."
@@ -2861,10 +2861,10 @@
         {
           "prompt": "Translate: 'We are staying at home today.'",
           "options": [
-            "Hoje nós ficamos em casa. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Hoje nós fazemos em casa. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Hoje nós somos em casa. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Hoje nós temos em casa. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "Hoje nós ficamos em casa.",
+            "Hoje nós fazemos em casa.",
+            "Hoje nós somos em casa.",
+            "Hoje nós temos em casa."
           ],
           "answerIndex": 0,
           "explanation": "ficar em casa = to stay at home."
@@ -2876,10 +2876,10 @@
         {
           "prompt": "Complete: 'A casa dos meus avós ___ em Petrópolis.'",
           "options": [
-            "fica (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "ficamos (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "ficam (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "fico (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "fica",
+            "ficamos",
+            "ficam",
+            "fico"
           ],
           "answerIndex": 0,
           "explanation": "'A casa' is singular -> fica."
@@ -2887,10 +2887,10 @@
         {
           "prompt": "What meaning does 'ficar' have in 'Eu fico cansado depois da academia'?",
           "options": [
-            "To become / get (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "To be located (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "To look like (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "To stay at home (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "To become / get",
+            "To be located",
+            "To look like",
+            "To stay at home"
           ],
           "answerIndex": 0,
           "explanation": "Expresses physical state transition (getting tired)."
@@ -2902,10 +2902,10 @@
         {
           "prompt": "Qual frase usa o verbo 'ficar' no sentido de LOCALIZAÇÃO GEOGRÁFICA?",
           "options": [
-            "Ele fica nervoso na prova. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Eu fico triste com essa notícia. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Amanhã eu fico em casa. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "O apartamento da minha irmã fica em Botafogo. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "Ele fica nervoso na prova.",
+            "Eu fico triste com essa notícia.",
+            "Amanhã eu fico em casa.",
+            "O apartamento da minha irmã fica em Botafogo."
           ],
           "answerIndex": 3,
           "explanation": "Geographic location of apartment.",
@@ -2914,10 +2914,10 @@
         {
           "prompt": "Qual frase usa 'ficar' no sentido de MUDANÇA DE ESTADO EMOCIONAL?",
           "options": [
-            "Nós ficamos no hotel. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Onde fica o restaurante? (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "A vovó fica muito alegre quando os netos chegam. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "A escola fica na esquina. (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "Nós ficamos no hotel.",
+            "Onde fica o restaurante?",
+            "A vovó fica muito alegre quando os netos chegam.",
+            "A escola fica na esquina."
           ],
           "answerIndex": 2,
           "explanation": "fica muito alegre = becomes very happy.",
@@ -2926,10 +2926,10 @@
         {
           "prompt": "Conjugue 'ficar' para 'eles / elas' no presente do indicativo:",
           "options": [
-            "fica (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "ficam (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "ficamos (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "fiquei (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "fica",
+            "ficam",
+            "ficamos",
+            "fiquei"
           ],
           "answerIndex": 1,
           "explanation": "eles/elas ficam.",
@@ -2938,10 +2938,10 @@
         {
           "prompt": "'Ficar em casa' significa:",
           "options": [
-            "To stay / remain at home (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "To build a house (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "To sell a house (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "To leave the house (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "To stay / remain at home",
+            "To build a house",
+            "To sell a house",
+            "To leave the house"
           ],
           "answerIndex": 0,
           "explanation": "ficar em casa = to stay home.",
@@ -2950,10 +2950,10 @@
         {
           "prompt": "Por que o verbo 'ficar' é tão importante no português do Brasil?",
           "options": [
-            "Porque é o único verbo que existe para ir (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Porque só se usa no passado (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Porque substitui todos os substantivos (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)",
-            "Porque cumpre múltiplas funções essenciais: localização de lugares, estados emocionais e permanência (Master the 3 core functions of the versatile Brazilian Portuguese verb ficar)"
+            "Porque é o único verbo que existe para ir",
+            "Porque só se usa no passado",
+            "Porque substitui todos os substantivos",
+            "Porque cumpre múltiplas funções essenciais: localização de lugares, estados emocionais e permanência"
           ],
           "answerIndex": 3,
           "explanation": "Core versatility across location, emotional transition, and staying.",
@@ -3002,10 +3002,10 @@
         {
           "prompt": "What welcoming phrase does Rodrigo use to tell Marc to 'make yourself at home'?",
           "options": [
-            "Fica à vontade! (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Fica longe! (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Fica quieto! (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Fica fora! (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Fica à vontade!",
+            "Fica longe!",
+            "Fica quieto!",
+            "Fica fora!"
           ],
           "answerIndex": 0,
           "explanation": "'Fica à vontade!' is the classic Brazilian hospitality invitation."
@@ -3013,10 +3013,10 @@
         {
           "prompt": "How does Rodrigo describe his uncle Paulo's wife using possessive clarity?",
           "options": [
-            "A esposa dele é a tia Renata. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "A sua esposa é Renata. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "A esposa dela é Renata. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Renata é a esposa dele de ele. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "A esposa dele é a tia Renata.",
+            "A sua esposa é Renata.",
+            "A esposa dela é Renata.",
+            "Renata é a esposa dele de ele."
           ],
           "answerIndex": 0,
           "explanation": "'a esposa dele' clearly identifies his uncle's wife."
@@ -3024,10 +3024,10 @@
         {
           "prompt": "How does Rodrigo state the location of his cousins' apartment?",
           "options": [
-            "O apartamento deles fica em Copacabana. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "O apartamento deles é em Copacabana. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "O apartamento deles está de Copacabana. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "O apartamento deles tem Copacabana. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "O apartamento deles fica em Copacabana.",
+            "O apartamento deles é em Copacabana.",
+            "O apartamento deles está de Copacabana.",
+            "O apartamento deles tem Copacabana."
           ],
           "answerIndex": 0,
           "explanation": "fica em Copacabana."
@@ -3039,10 +3039,10 @@
         {
           "prompt": "Translate: 'Grandma gets very happy when the family is together.'",
           "options": [
-            "A vovô fica muito feliz. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "A vovó fica muito feliz quando a família está junta. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "A vovó está muito feliz onde fica a família. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "A vovó é muito feliz onde a família está junta. (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "A vovô fica muito feliz.",
+            "A vovó fica muito feliz quando a família está junta.",
+            "A vovó está muito feliz onde fica a família.",
+            "A vovó é muito feliz onde a família está junta."
           ],
           "answerIndex": 1,
           "explanation": "A vovó fica muito feliz..."
@@ -3050,10 +3050,10 @@
         {
           "prompt": "What traditional Brazilian comfort food does Vovó Darcy offer Marc in the dialogue?",
           "options": [
-            "Bolo de fubá com café quentinho (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Sushi (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Pizza fria (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Hambúrguer com refrigerante (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Bolo de fubá com café quentinho",
+            "Sushi",
+            "Pizza fria",
+            "Hambúrguer com refrigerante"
           ],
           "answerIndex": 0,
           "explanation": "bolo de fubá com café quentinho."
@@ -3065,10 +3065,10 @@
         {
           "prompt": "No diálogo, a expressão 'Fica à vontade!' significa:",
           "options": [
-            "Vá embora rapidamente (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Não coma nada (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Sinta-se em casa / Make yourself comfortable and at home (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Fale baixo (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Vá embora rapidamente",
+            "Não coma nada",
+            "Sinta-se em casa / Make yourself comfortable and at home",
+            "Fale baixo"
           ],
           "answerIndex": 2,
           "explanation": "Standard hospitality expression.",
@@ -3077,10 +3077,10 @@
         {
           "prompt": "'Aquele é o meu tio e a esposa dele' usa 'dele' para:",
           "options": [
-            "Falar de um objeto qualquer (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Indicar com clareza que a esposa pertence ao tio (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Dizer que ela mora longe (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Indicar que a esposa é de Marc (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Falar de um objeto qualquer",
+            "Indicar com clareza que a esposa pertence ao tio",
+            "Dizer que ela mora longe",
+            "Indicar que a esposa é de Marc"
           ],
           "answerIndex": 1,
           "explanation": "Clear 3rd-person possession.",
@@ -3089,10 +3089,10 @@
         {
           "prompt": "Qual frase sintetiza os conhecimentos da Unidade 3 de Português Brasileiro?",
           "options": [
-            "Vocabulário de família, clareza com 'dele/dela', distinção de 'vovô/vovó' e os três usos do verbo 'ficar' (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Apenas conjugação de verbos no passado (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Apenas contagem de números até 20 (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Apenas saudações matinais (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Vocabulário de família, clareza com 'dele/dela', distinção de 'vovô/vovó' e os três usos do verbo 'ficar'",
+            "Apenas conjugação de verbos no passado",
+            "Apenas contagem de números até 20",
+            "Apenas saudações matinais"
           ],
           "answerIndex": 0,
           "explanation": "Unit 3 master objective synthesis.",
@@ -3101,10 +3101,10 @@
         {
           "prompt": "Como os brasileiros costumam chamar avós idosos carinhosamente de forma geral?",
           "options": [
-            "Senhor e Senhora formais (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Tiozão (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Colega (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Vô e Vó (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Senhor e Senhora formais",
+            "Tiozão",
+            "Colega",
+            "Vô e Vó"
           ],
           "answerIndex": 3,
           "explanation": "Vô and Vó.",
@@ -3113,10 +3113,10 @@
         {
           "prompt": "'Nossa, que família acolhedora!' expressa:",
           "options": [
-            "Uma crítica negativa (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Um pedido de desculpas (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Elogio sincero à hospitalidade e calor humano da família (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)",
-            "Uma pergunta sobre preços (Participate in a multiturn Brazilian Portuguese dialogue during a Sunday family lunch o almoo de domingo in Rio de Janeiro)"
+            "Uma crítica negativa",
+            "Um pedido de desculpas",
+            "Elogio sincero à hospitalidade e calor humano da família",
+            "Uma pergunta sobre preços"
           ],
           "answerIndex": 2,
           "explanation": "Admiration of hospitality and warmth.",
@@ -3163,10 +3163,10 @@
         {
           "prompt": "How do you say 'We live in Rio' using the ubiquitous Brazilian pronoun 'a gente'?",
           "options": [
-            "A gente moramos no Rio. (Conjugate regular AR verbs in the present indicative falar)",
-            "A gente moram no Rio. (Conjugate regular AR verbs in the present indicative falar)",
-            "A gente moro no Rio. (Conjugate regular AR verbs in the present indicative falar)",
-            "A gente mora no Rio. (Conjugate regular AR verbs in the present indicative falar)"
+            "A gente moramos no Rio.",
+            "A gente moram no Rio.",
+            "A gente moro no Rio.",
+            "A gente mora no Rio."
           ],
           "answerIndex": 3,
           "explanation": "'a gente' strictly takes a 3rd-person singular verb: 'a gente mora'."
@@ -3174,10 +3174,10 @@
         {
           "prompt": "Which preposition must ALWAYS follow the verb 'gostar' (to like)?",
           "options": [
-            "com (Conjugate regular AR verbs in the present indicative falar)",
-            "para (Conjugate regular AR verbs in the present indicative falar)",
-            "de (Conjugate regular AR verbs in the present indicative falar)",
-            "em (Conjugate regular AR verbs in the present indicative falar)"
+            "com",
+            "para",
+            "de",
+            "em"
           ],
           "answerIndex": 2,
           "explanation": "'gostar' always governs the preposition 'de'."
@@ -3185,10 +3185,10 @@
         {
           "prompt": "How do you conjugate 'trabalhar' (to work) for 'você'?",
           "options": [
-            "você trabalham (Conjugate regular AR verbs in the present indicative falar)",
-            "você trabalha (Conjugate regular AR verbs in the present indicative falar)",
-            "você trabalhas (Conjugate regular AR verbs in the present indicative falar)",
-            "você trabalho (Conjugate regular AR verbs in the present indicative falar)"
+            "você trabalham",
+            "você trabalha",
+            "você trabalhas",
+            "você trabalho"
           ],
           "answerIndex": 1,
           "explanation": "você trabalha."
@@ -3200,10 +3200,10 @@
         {
           "prompt": "Translate: 'Do you (plural) speak English?'",
           "options": [
-            "Vocês fala inglês? (Conjugate regular AR verbs in the present indicative falar)",
-            "Você falam inglês? (Conjugate regular AR verbs in the present indicative falar)",
-            "Eles fala inglês? (Conjugate regular AR verbs in the present indicative falar)",
-            "Vocês falam inglês? (Conjugate regular AR verbs in the present indicative falar)"
+            "Vocês fala inglês?",
+            "Você falam inglês?",
+            "Eles fala inglês?",
+            "Vocês falam inglês?"
           ],
           "answerIndex": 3,
           "explanation": "Vocês falam inglês?"
@@ -3211,10 +3211,10 @@
         {
           "prompt": "What does 'A gente estuda na biblioteca' mean?",
           "options": [
-            "You live in the university (Conjugate regular AR verbs in the present indicative falar)",
-            "I work in the library (Conjugate regular AR verbs in the present indicative falar)",
-            "We study in the library (Conjugate regular AR verbs in the present indicative falar)",
-            "They study in the school (Conjugate regular AR verbs in the present indicative falar)"
+            "You live in the university",
+            "I work in the library",
+            "We study in the library",
+            "They study in the school"
           ],
           "answerIndex": 2,
           "explanation": "a gente estuda = we study."
@@ -3226,10 +3226,10 @@
         {
           "prompt": "Qual é a regra gramatical fundamental do pronome 'a gente' no português do Brasil?",
           "options": [
-            "Exige o verbo no plural sempre (Conjugate regular AR verbs in the present indicative falar)",
-            "Tem sentido de plural (Conjugate regular AR verbs in the present indicative falar)",
-            "É considerado um erro gramatical proibido (Conjugate regular AR verbs in the present indicative falar)",
-            "Só pode ser usado com verbos irregulares (Conjugate regular AR verbs in the present indicative falar)"
+            "Exige o verbo no plural sempre",
+            "Tem sentido de plural",
+            "É considerado um erro gramatical proibido",
+            "Só pode ser usado com verbos irregulares"
           ],
           "answerIndex": 1,
           "explanation": "'a gente' takes 3rd person singular agreement.",
@@ -3238,10 +3238,10 @@
         {
           "prompt": "Complete a frase: 'Eu ___ de café com leite.' (gostar)",
           "options": [
-            "gosto (Conjugate regular AR verbs in the present indicative falar)",
-            "gostam (Conjugate regular AR verbs in the present indicative falar)",
-            "gostamos (Conjugate regular AR verbs in the present indicative falar)",
-            "gosta (Conjugate regular AR verbs in the present indicative falar)"
+            "gosto",
+            "gostam",
+            "gostamos",
+            "gosta"
           ],
           "answerIndex": 0,
           "explanation": "eu gosto de.",
@@ -3250,10 +3250,10 @@
         {
           "prompt": "Qual é a terminação de 3ª pessoa do plural para verbos regulares em -AR (ex: falar, trabalhar)?",
           "options": [
-            "-om (Conjugate regular AR verbs in the present indicative falar)",
-            "-em (Conjugate regular AR verbs in the present indicative falar)",
-            "-ão (Conjugate regular AR verbs in the present indicative falar)",
-            "-am (Conjugate regular AR verbs in the present indicative falar)"
+            "-om",
+            "-em",
+            "-ão",
+            "-am"
           ],
           "answerIndex": 3,
           "explanation": "-am with nasal pronunciation [-awn].",
@@ -3262,10 +3262,10 @@
         {
           "prompt": "Como se diz 'Where do you work?' de forma natural no Brasil?",
           "options": [
-            "Onde vós trabalhais? (Conjugate regular AR verbs in the present indicative falar)",
-            "Onde trabalhar você? (Conjugate regular AR verbs in the present indicative falar)",
-            "Onde você trabalha? (Conjugate regular AR verbs in the present indicative falar)",
-            "Onde tu trabalhas? (Conjugate regular AR verbs in the present indicative falar)"
+            "Onde vós trabalhais?",
+            "Onde trabalhar você?",
+            "Onde você trabalha?",
+            "Onde tu trabalhas?"
           ],
           "answerIndex": 2,
           "explanation": "Onde você trabalha?",
@@ -3274,10 +3274,10 @@
         {
           "prompt": "'A gente toma suco de maracujá todos os dias' significa:",
           "options": [
-            "I make juice at night (Conjugate regular AR verbs in the present indicative falar)",
-            "We drink passion fruit juice every day (Conjugate regular AR verbs in the present indicative falar)",
-            "You eat passion fruit (Conjugate regular AR verbs in the present indicative falar)",
-            "They buy fruit every day (Conjugate regular AR verbs in the present indicative falar)"
+            "I make juice at night",
+            "We drink passion fruit juice every day",
+            "You eat passion fruit",
+            "They buy fruit every day"
           ],
           "answerIndex": 1,
           "explanation": "We drink passion fruit juice every day.",
@@ -3324,10 +3324,10 @@
         {
           "prompt": "How do you conjugate 'comer' (to eat) for 'você' in Brazilian Portuguese?",
           "options": [
-            "você come (Conjugate regular ER and IR verbs in the present tense comer)",
-            "você como (Conjugate regular ER and IR verbs in the present tense comer)",
-            "você comes (Conjugate regular ER and IR verbs in the present tense comer)",
-            "você comem (Conjugate regular ER and IR verbs in the present tense comer)"
+            "você come",
+            "você como",
+            "você comes",
+            "você comem"
           ],
           "answerIndex": 0,
           "explanation": "você come."
@@ -3335,10 +3335,10 @@
         {
           "prompt": "How do you conjugate 'viver' (to live) for 'eles' (they)?",
           "options": [
-            "eles vivem (Conjugate regular ER and IR verbs in the present tense comer)",
-            "eles vive (Conjugate regular ER and IR verbs in the present tense comer)",
-            "eles vivam (Conjugate regular ER and IR verbs in the present tense comer)",
-            "eles vivo (Conjugate regular ER and IR verbs in the present tense comer)"
+            "eles vivem",
+            "eles vive",
+            "eles vivam",
+            "eles vivo"
           ],
           "answerIndex": 0,
           "explanation": "eles vivem."
@@ -3346,10 +3346,10 @@
         {
           "prompt": "How is the unstressed final letter '-e' in 'ele bebe' (he drinks) pronounced in standard Brazilian Portuguese?",
           "options": [
-            "Como maçã todos os dias (I eat an apple every day)",
-            "Comemos maçã todos os dias (We eat an apple every day)",
-            "Comem maçã todos os dias (They eat an apple every day)",
-            "Come maçã todos os dias (He/She eats an apple every day)"
+            "Como maçã todos os dias",
+            "Comemos maçã todos os dias",
+            "Comem maçã todos os dias",
+            "Come maçã todos os dias"
           ],
           "answerIndex": 0,
           "explanation": "Unstressed final -e is pronounced [ee]."
@@ -3361,10 +3361,10 @@
         {
           "prompt": "Translate: 'We drink coconut water on the beach.' (using a gente)",
           "options": [
-            "A gente bebemos água de coco na praia. (Conjugate regular ER and IR verbs in the present tense comer)",
-            "A gente bebem água de coco na praia. (Conjugate regular ER and IR verbs in the present tense comer)",
-            "A gente bebo água de coco na praia. (Conjugate regular ER and IR verbs in the present tense comer)",
-            "A gente bebe água de coco na praia. (Conjugate regular ER and IR verbs in the present tense comer)"
+            "A gente bebemos água de coco na praia.",
+            "A gente bebem água de coco na praia.",
+            "A gente bebo água de coco na praia.",
+            "A gente bebe água de coco na praia."
           ],
           "answerIndex": 3,
           "explanation": "a gente bebe (singular verb)."
@@ -3372,10 +3372,10 @@
         {
           "prompt": "What does 'Você entende português?' mean?",
           "options": [
-            "Do you speak Portuguese? (Conjugate regular ER and IR verbs in the present tense comer)",
-            "Do you write Portuguese? (Conjugate regular ER and IR verbs in the present tense comer)",
-            "Are you learning Portuguese? (Conjugate regular ER and IR verbs in the present tense comer)",
-            "Do you understand Portuguese? (Conjugate regular ER and IR verbs in the present tense comer)"
+            "Do you speak Portuguese?",
+            "Do you write Portuguese?",
+            "Are you learning Portuguese?",
+            "Do you understand Portuguese?"
           ],
           "answerIndex": 3,
           "explanation": "entender = to understand."
@@ -3388,9 +3388,9 @@
           "prompt": "Qual é a terminação de 3ª pessoa do plural para verbos em -ER e -IR (ex: comer, viver)?",
           "options": [
             "-em (comem, vivem)",
-            "-ão (Conjugate regular ER and IR verbs in the present tense comer)",
-            "-om (Conjugate regular ER and IR verbs in the present tense comer)",
-            "-am (Conjugate regular ER and IR verbs in the present tense comer)"
+            "-ão",
+            "-om",
+            "-am"
           ],
           "answerIndex": 0,
           "explanation": "-em nasal ending.",
@@ -3399,10 +3399,10 @@
         {
           "prompt": "Complete: 'A gente ___ na praia todos os sábados.' (correr)",
           "options": [
-            "corremos (Conjugate regular ER and IR verbs in the present tense comer)",
-            "correm (Conjugate regular ER and IR verbs in the present tense comer)",
-            "corro (Conjugate regular ER and IR verbs in the present tense comer)",
-            "corre (Conjugate regular ER and IR verbs in the present tense comer)"
+            "corremos",
+            "correm",
+            "corro",
+            "corre"
           ],
           "answerIndex": 3,
           "explanation": "a gente corre.",
@@ -3411,10 +3411,10 @@
         {
           "prompt": "O que é 'pão de queijo' na cultura culinária brasileira?",
           "options": [
-            "Um prato de peixe (Conjugate regular ER and IR verbs in the present tense comer)",
-            "Uma sobremesa de chocolate (Conjugate regular ER and IR verbs in the present tense comer)",
-            "Uma clássica iguaria mineira feita com polvilho e queijo, consumida no café da manhã (Conjugate regular ER and IR verbs in the present tense comer)",
-            "Um tipo de bolo doce (Conjugate regular ER and IR verbs in the present tense comer)"
+            "Um prato de peixe",
+            "Uma sobremesa de chocolate",
+            "Uma clássica iguaria mineira feita com polvilho e queijo, consumida no café da manhã",
+            "Um tipo de bolo doce"
           ],
           "answerIndex": 2,
           "explanation": "Traditional Brazilian cheese bread made with cassava starch.",
@@ -3423,10 +3423,10 @@
         {
           "prompt": "Como se conjuga 'escrever' para 'eu'?",
           "options": [
-            "eu escreves (Conjugate regular ER and IR verbs in the present tense comer)",
-            "eu escrevo (Conjugate regular ER and IR verbs in the present tense comer)",
-            "eu escreve (Conjugate regular ER and IR verbs in the present tense comer)",
-            "eu escrevem (Conjugate regular ER and IR verbs in the present tense comer)"
+            "eu escreves",
+            "eu escrevo",
+            "eu escreve",
+            "eu escrevem"
           ],
           "answerIndex": 1,
           "explanation": "eu escrevo.",
@@ -3435,10 +3435,10 @@
         {
           "prompt": "'Eles abrem a janela da sala' significa:",
           "options": [
-            "They open the living room window (Conjugate regular ER and IR verbs in the present tense comer)",
-            "I look out the living room window (Conjugate regular ER and IR verbs in the present tense comer)",
-            "They close the living room window (Conjugate regular ER and IR verbs in the present tense comer)",
-            "We clean the living room window (Conjugate regular ER and IR verbs in the present tense comer)"
+            "They open the living room window",
+            "I look out the living room window",
+            "They close the living room window",
+            "We clean the living room window"
           ],
           "answerIndex": 0,
           "explanation": "They open the living room window.",
@@ -3486,10 +3486,10 @@
         {
           "prompt": "How do Brazilians informally say 'How are you? I am fine' in daily street conversation?",
           "options": [
-            "Como você estou? — Eu está bem! (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Onde você tá? — Eu sou bem! (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Quem você é? — Eu fico bem! (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Como você tá? — Eu tô bem! (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "Como você estou? — Eu está bem!",
+            "Onde você tá? — Eu sou bem!",
+            "Quem você é? — Eu fico bem!",
+            "Como você tá? — Eu tô bem!"
           ],
           "answerIndex": 3,
           "explanation": "tô / tá are the universal spoken contractions of estou / está."
@@ -3497,10 +3497,10 @@
         {
           "prompt": "How is the plural 'they have' written correctly with orthographic accent in Portuguese?",
           "options": [
-            "eles tem (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "eles tenhem (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "eles têem (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "eles têm (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "eles tem",
+            "eles tenhem",
+            "eles têem",
+            "eles têm"
           ],
           "answerIndex": 3,
           "explanation": "eles têm (plural requires circumflex accent)."
@@ -3508,10 +3508,10 @@
         {
           "prompt": "How do you state 'I am 28 years old' in Portuguese?",
           "options": [
-            "Eu sou vinte e oito anos. (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Eu estou vinte e oito anos. (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Eu fico vinte e oito anos. (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Eu tenho vinte e oito anos. (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "Eu sou vinte e oito anos.",
+            "Eu estou vinte e oito anos.",
+            "Eu fico vinte e oito anos.",
+            "Eu tenho vinte e oito anos."
           ],
           "answerIndex": 3,
           "explanation": "Age is expressed with the verb TER (tenho)."
@@ -3523,10 +3523,10 @@
         {
           "prompt": "Translate: 'How old is your sister?'",
           "options": [
-            "Quantos anos sua irmã tem? (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Como velha é sua irmã? (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Quantos anos é sua irmã? (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Onde está sua irmã? (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "Quantos anos sua irmã tem?",
+            "Como velha é sua irmã?",
+            "Quantos anos é sua irmã?",
+            "Onde está sua irmã?"
           ],
           "answerIndex": 0,
           "explanation": "Quantos anos sua irmã tem?"
@@ -3534,10 +3534,10 @@
         {
           "prompt": "What does the ubiquitous Brazilian confirmation 'Tá bom!' mean?",
           "options": [
-            "Okay! / Sounds good! / All right! (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "It is cold (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Goodbye (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Thank you (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "Okay! / Sounds good! / All right!",
+            "It is cold",
+            "Goodbye",
+            "Thank you"
           ],
           "answerIndex": 0,
           "explanation": "'Tá bom!' = Okay / Sounds good."
@@ -3549,9 +3549,9 @@
         {
           "prompt": "Qual é a diferença ortográfica entre 'Ele tem' e 'Eles têm'?",
           "options": [
-            "O plural termina em -ão (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "O singular leva acento agudo (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Nenhuma diferença (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
+            "O plural termina em -ão",
+            "O singular leva acento agudo",
+            "Nenhuma diferença",
             "'Ele tem' (singular)"
           ],
           "answerIndex": 3,
@@ -3561,10 +3561,10 @@
         {
           "prompt": "As formas faladas 'tô, tá, tão' são contrações de quais formas do verbo ESTAR?",
           "options": [
-            "sou, é, são (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "tenho, tem, têm (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "estou, está, estão (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "fui, foi, foram (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "sou, é, são",
+            "tenho, tem, têm",
+            "estou, está, estão",
+            "fui, foi, foram"
           ],
           "answerIndex": 2,
           "explanation": "Contractions of estou, está, estão.",
@@ -3573,10 +3573,10 @@
         {
           "prompt": "Complete: 'A gente ___ muita sorte hoje.' (ter)",
           "options": [
-            "temos (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "tem (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "tenho (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "têm (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "temos",
+            "tem",
+            "tenho",
+            "têm"
           ],
           "answerIndex": 1,
           "explanation": "a gente tem.",
@@ -3585,10 +3585,10 @@
         {
           "prompt": "Por que se usa o verbo TER para dizer a idade em português (ex: 'Tenho 20 anos')?",
           "options": [
-            "Porque em português a idade é expressa como posse de anos vividos (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Porque o verbo SER é proibido para números (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "Não tem explicação (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "É uma influência do inglês (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "Porque em português a idade é expressa como posse de anos vividos",
+            "Porque o verbo SER é proibido para números",
+            "Não tem explicação",
+            "É uma influência do inglês"
           ],
           "answerIndex": 0,
           "explanation": "Age is conceived as accumulated possession of years lived.",
@@ -3597,10 +3597,10 @@
         {
           "prompt": "'Eles estão no trânsito da Avenida Paulista' significa:",
           "options": [
-            "They work on Paulista Avenue (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "They live on Paulista Avenue (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "They walk on Paulista Avenue (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)",
-            "They are in traffic on Paulista Avenue (Master key irregular verbs ESTAR and TER in Brazilian Portuguese)"
+            "They work on Paulista Avenue",
+            "They live on Paulista Avenue",
+            "They walk on Paulista Avenue",
+            "They are in traffic on Paulista Avenue"
           ],
           "answerIndex": 3,
           "explanation": "They are in traffic on Paulista Avenue.",
@@ -3647,10 +3647,10 @@
         {
           "prompt": "How do you form the present continuous 'I am studying' in Brazilian Portuguese?",
           "options": [
-            "Eu estou estudando (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Eu sou estudando (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Eu ter estudando (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Eu estou a estudar (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "Eu estou estudando",
+            "Eu sou estudando",
+            "Eu ter estudando",
+            "Eu estou a estudar"
           ],
           "answerIndex": 0,
           "explanation": "estar + gerúndio (-ndo): Eu tô estudando."
@@ -3658,10 +3658,10 @@
         {
           "prompt": "How does European Portuguese express 'I am speaking' compared to Brazilian Portuguese?",
           "options": [
-            "European: 'Estou a falar' vs Brazilian: 'Estou falando' (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Both use only French words (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "There is no difference (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "European: 'Estou falando' vs Brazilian: 'Estou a falar' (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "European: 'Estou a falar' vs Brazilian: 'Estou falando'",
+            "Both use only French words",
+            "There is no difference",
+            "European: 'Estou falando' vs Brazilian: 'Estou a falar'"
           ],
           "answerIndex": 0,
           "explanation": "Brazil uses the gerund (-ndo); Portugal uses 'a + infinitive'."
@@ -3669,10 +3669,10 @@
         {
           "prompt": "Where do object pronouns like 'me' and 'te' naturally stand in daily Brazilian speech (e.g. 'Eu te amo')?",
           "options": [
-            "BEFORE the verb (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Inside the noun (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Attached to the end of the verb with a hyphen (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "At the very end of the paragraph (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "BEFORE the verb",
+            "Inside the noun",
+            "Attached to the end of the verb with a hyphen",
+            "At the very end of the paragraph"
           ],
           "answerIndex": 0,
           "explanation": "Brazilian Portuguese strongly favors proclisis (pronoun before verb)."
@@ -3684,10 +3684,10 @@
         {
           "prompt": "Translate: 'What are you doing?' (natural spoken Brazilian)",
           "options": [
-            "O que você tá fazendo? (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Onde você tá fazendo? (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "O que você faz agora? (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "O que está a fazer você? (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "O que você tá fazendo?",
+            "Onde você tá fazendo?",
+            "O que você faz agora?",
+            "O que está a fazer você?"
           ],
           "answerIndex": 0,
           "explanation": "O que você tá fazendo?"
@@ -3695,10 +3695,10 @@
         {
           "prompt": "What does 'A gente tá comendo pastel' mean?",
           "options": [
-            "We are eating pastel (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "They are making cake (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "You are selling fruit (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "I am buying cheese (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "We are eating pastel",
+            "They are making cake",
+            "You are selling fruit",
+            "I am buying cheese"
           ],
           "answerIndex": 0,
           "explanation": "We are eating pastel."
@@ -3710,10 +3710,10 @@
         {
           "prompt": "Como se forma o gerúndio dos verbos em português brasileiro?",
           "options": [
-            "Radical + -ing (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Radical + -ado, -ido (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
+            "Radical + -ing",
+            "Radical + -ado, -ido",
             "Radical + -ando (-AR: falando)",
-            "Radical + -te (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "Radical + -te"
           ],
           "answerIndex": 2,
           "explanation": "-ando, -endo, -indo.",
@@ -3722,10 +3722,10 @@
         {
           "prompt": "A frase 'Eu te ligo mais tarde' exemplifica qual característica sintática do português do Brasil?",
           "options": [
-            "A ênclise obrigatória (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "A próclise natural (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "O uso do pretérito mais-que-perfeito (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "A voz passiva (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "A ênclise obrigatória",
+            "A próclise natural",
+            "O uso do pretérito mais-que-perfeito",
+            "A voz passiva"
           ],
           "answerIndex": 1,
           "explanation": "Natural proclisis in Brazilian syntax.",
@@ -3734,10 +3734,10 @@
         {
           "prompt": "Qual das seguintes frases soa 100% natural no dia a dia do Brasil?",
           "options": [
-            "A gente tá saindo de casa agora. (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Nós estamos a sair de casa agora. (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Vós estais saindo de casa. (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "A gente estamos a sair. (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "A gente tá saindo de casa agora.",
+            "Nós estamos a sair de casa agora.",
+            "Vós estais saindo de casa.",
+            "A gente estamos a sair."
           ],
           "answerIndex": 0,
           "explanation": "A gente tá saindo de casa agora.",
@@ -3746,10 +3746,10 @@
         {
           "prompt": "Complete com o gerúndio: 'Eles estão ___ (assistir) ao jogo de futebol.'",
           "options": [
-            "assistido (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "assistando (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "assistendo (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "assistindo (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "assistido",
+            "assistando",
+            "assistendo",
+            "assistindo"
           ],
           "answerIndex": 3,
           "explanation": "assistir -> assistindo.",
@@ -3758,10 +3758,10 @@
         {
           "prompt": "Por que o gerúndio (-ndo) é tão marcante na identidade sonora do português brasileiro?",
           "options": [
-            "Porque foi criado recentemente (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Porque substitui todos os verbos no passado (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Porque confere um ritmo contínuo, melódico e cadenciado à fala cotidiana (Master the Brazilian Present Progressive  Gerund construction estar  ndo)",
-            "Porque é uma regra militar (Master the Brazilian Present Progressive  Gerund construction estar  ndo)"
+            "Porque foi criado recentemente",
+            "Porque substitui todos os verbos no passado",
+            "Porque confere um ritmo contínuo, melódico e cadenciado à fala cotidiana",
+            "Porque é uma regra militar"
           ],
           "answerIndex": 2,
           "explanation": "Flowing, melodic cadence of Brazilian spoken rhythm.",
@@ -3810,10 +3810,10 @@
         {
           "prompt": "How does Thiago ask the vendor if she is frying meat pastéis right now using natural Brazilian Portuguese?",
           "options": [
-            "Você tá fritando pastel de carne agora? (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Você estás a fritar pastel? (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Você fritar pastel agora? (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Você ter pastel fritado? (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Você tá fritando pastel de carne agora?",
+            "Você estás a fritar pastel?",
+            "Você fritar pastel agora?",
+            "Você ter pastel fritado?"
           ],
           "answerIndex": 0,
           "explanation": "Você tá fritando (tá + gerund)."
@@ -3821,10 +3821,10 @@
         {
           "prompt": "What is the classic, beloved beverage traditionally ordered alongside pastel at a Brazilian street market?",
           "options": [
-            "Caldo de cana gelado com limão (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Chá quente (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Café puro (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Vinho tinto (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Caldo de cana gelado com limão",
+            "Chá quente",
+            "Café puro",
+            "Vinho tinto"
           ],
           "answerIndex": 0,
           "explanation": "Caldo de cana (sugarcane juice) is the iconic pair with pastel."
@@ -3832,10 +3832,10 @@
         {
           "prompt": "How does Leo express 'I am very hungry' in natural spoken Brazilian Portuguese?",
           "options": [
-            "Tô com muita fome! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Eu sou muito fome! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Eu tenho fome muita! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Eu fico faminto! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Tô com muita fome!",
+            "Eu sou muito fome!",
+            "Eu tenho fome muita!",
+            "Eu fico faminto!"
           ],
           "answerIndex": 0,
           "explanation": "Estar com fome (Tô com muita fome)."
@@ -3847,10 +3847,10 @@
         {
           "prompt": "Translate: 'We are ordering another one right now!' (using a gente)",
           "options": [
-            "Nós pede mais um! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "A gente pede mais um agora mesmo! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Eles pede mais um! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "A gente pedem mais um! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Nós pede mais um!",
+            "A gente pede mais um agora mesmo!",
+            "Eles pede mais um!",
+            "A gente pedem mais um!"
           ],
           "answerIndex": 1,
           "explanation": "A gente pede (singular verb)."
@@ -3858,10 +3858,10 @@
         {
           "prompt": "What does the colloquial Brazilian interjection 'Nossa!' express?",
           "options": [
-            "Wow! / Gosh! / My goodness! (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "No (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "I'm sorry (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Goodbye (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Wow! / Gosh! / My goodness!",
+            "No",
+            "I'm sorry",
+            "Goodbye"
           ],
           "answerIndex": 0,
           "explanation": "'Nossa!' expresses surprise and awe."
@@ -3873,10 +3873,10 @@
         {
           "prompt": "A expressão 'Tô com muita fome' utiliza qual estrutura idiomática do português brasileiro?",
           "options": [
-            "O verbo 'ter' no futuro (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Contração oral de 'estar' (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Uma forma arcaica de 'ser' (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Um adjetivo em inglês (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "O verbo 'ter' no futuro",
+            "Contração oral de 'estar'",
+            "Uma forma arcaica de 'ser'",
+            "Um adjetivo em inglês"
           ],
           "answerIndex": 1,
           "explanation": "Estar com fome structure.",
@@ -3885,10 +3885,10 @@
         {
           "prompt": "Qual síntese gramatical foi dominada nesta 4ª Unidade de Português Brasileiro?",
           "options": [
-            "Presente do indicativo regular (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Apenas pronomes possessivos (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "O alfabeto (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Apenas o pretérito perfeito (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Presente do indicativo regular",
+            "Apenas pronomes possessivos",
+            "O alfabeto",
+            "Apenas o pretérito perfeito"
           ],
           "answerIndex": 0,
           "explanation": "Unit 4 master grammar synthesis.",
@@ -3897,10 +3897,10 @@
         {
           "prompt": "O que é a 'Feira Livre' na cultura dominical de cidades como São Paulo e Rio de Janeiro?",
           "options": [
-            "Uma feira de livros usados (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Um shopping center fechado (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Um estádio de futebol (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Uma tradicional feira de rua semanal com barracas de frutas, legumes frescos e o clássico pastel com caldo de cana (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Uma feira de livros usados",
+            "Um shopping center fechado",
+            "Um estádio de futebol",
+            "Uma tradicional feira de rua semanal com barracas de frutas, legumes frescos e o clássico pastel com caldo de cana"
           ],
           "answerIndex": 3,
           "explanation": "Traditional Brazilian street market.",
@@ -3909,10 +3909,10 @@
         {
           "prompt": "Na fala da Dona Neusa, 'Já tô preparando!' demonstra:",
           "options": [
-            "Um erro de português (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Um tempo verbal no passado (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "A agilidade do atendimento combinando a contração 'tô' com o gerúndio '-ando' (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Uma recusa de pedido (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Um erro de português",
+            "Um tempo verbal no passado",
+            "A agilidade do atendimento combinando a contração 'tô' com o gerúndio '-ando'",
+            "Uma recusa de pedido"
           ],
           "answerIndex": 2,
           "explanation": "Colloquial present progressive in action.",
@@ -3921,10 +3921,10 @@
         {
           "prompt": "A frase 'Domingo sem pastel de feira não é domingo de verdade' reflete:",
           "options": [
-            "Uma obrigação legal (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "O valor afetivo e tradicional da gastronomia popular no cotidiano dos brasileiros (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Um anúncio publicitário (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)",
-            "Uma regra nutricional estrita (Participate in a multiturn Brazilian dialogue at a vibrant Feira Livre  Mercado Municipal in So Paulo)"
+            "Uma obrigação legal",
+            "O valor afetivo e tradicional da gastronomia popular no cotidiano dos brasileiros",
+            "Um anúncio publicitário",
+            "Uma regra nutricional estrita"
           ],
           "answerIndex": 1,
           "explanation": "Deep cultural affection for weekend street market rituals.",
@@ -3978,10 +3978,10 @@
         {
           "prompt": "How do you say 'It is 8:30 in the morning' in Brazilian Portuguese?",
           "options": [
-            "É oito e trinta horas. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "São oito menos trinta. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "É oito e meia da noite. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "São oito e meia da manhã. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "É oito e trinta horas.",
+            "São oito menos trinta.",
+            "É oito e meia da noite.",
+            "São oito e meia da manhã."
           ],
           "answerIndex": 3,
           "explanation": "São oito e meia da manhã = 8:30 AM."
@@ -3989,10 +3989,10 @@
         {
           "prompt": "What is 'ao meio-dia'?",
           "options": [
-            "At sunset (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "In the morning (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "At noon (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "At midnight (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "At sunset",
+            "In the morning",
+            "At noon",
+            "At midnight"
           ],
           "answerIndex": 2,
           "explanation": "ao meio-dia = at noon."
@@ -4004,10 +4004,10 @@
         {
           "prompt": "Translate: 'What time does the meeting start?'",
           "options": [
-            "Que horas é o jantar? (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "Onde fica a reunião? (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "Quem vai à reunião? (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "A que horas começa a reunião? (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "Que horas é o jantar?",
+            "Onde fica a reunião?",
+            "Quem vai à reunião?",
+            "A que horas começa a reunião?"
           ],
           "answerIndex": 3,
           "explanation": "A que horas começa = At what time does it begin."
@@ -4015,10 +4015,10 @@
         {
           "prompt": "What does 'São quinze para as nove' indicate?",
           "options": [
-            "9:15 (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "9:45 (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "8:15 (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "8:45 (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "9:15",
+            "9:45",
+            "8:15",
+            "8:45"
           ],
           "answerIndex": 3,
           "explanation": "quinze para as nove = 15 minutes before 9:00 (8:45)."
@@ -4030,10 +4030,10 @@
         {
           "prompt": "Why is 'É uma hora' singular while 'São três horas' is plural in Portuguese?",
           "options": [
-            "Because 1:00 agrees with singular 'uma hora', while hours 2-12 agree with plural 'horas'. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "Because 'uma' is an adjective. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "There is no difference. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "Because 'três' is a feminine number. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "Because 1:00 agrees with singular 'uma hora', while hours 2-12 agree with plural 'horas'.",
+            "Because 'uma' is an adjective.",
+            "There is no difference.",
+            "Because 'três' is a feminine number."
           ],
           "answerIndex": 0,
           "explanation": "Agreement with grammatical number (1 = singular, 2+ = plural).",
@@ -4042,10 +4042,10 @@
         {
           "prompt": "Translate: 'A gente janta por volta das nove da noite.'",
           "options": [
-            "We have breakfast at nine in the morning. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "We work until nine at night. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "We go to bed at nine in the morning. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "We have dinner around nine at night. (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "We have breakfast at nine in the morning.",
+            "We work until nine at night.",
+            "We go to bed at nine in the morning.",
+            "We have dinner around nine at night."
           ],
           "answerIndex": 3,
           "explanation": "A gente janta = we have dinner, por volta das nove = around nine.",
@@ -4054,10 +4054,10 @@
         {
           "prompt": "What is a 'restaurante por quilo' in Brazil?",
           "options": [
-            "A fast-food drive-through (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "A grocery store selling raw meat (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "A popular buffet restaurant where diners weigh their plate and pay by the kilogram (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "A high-end steakhouse with set menus only (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "A fast-food drive-through",
+            "A grocery store selling raw meat",
+            "A popular buffet restaurant where diners weigh their plate and pay by the kilogram",
+            "A high-end steakhouse with set menus only"
           ],
           "answerIndex": 2,
           "explanation": "Restaurantes por quilo are Brazil's ubiquitous lunch institution.",
@@ -4066,10 +4066,10 @@
         {
           "prompt": "How do you say 'in the early morning hours before dawn' in Portuguese?",
           "options": [
-            "à noite (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "de madrugada (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "à tarde (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)",
-            "de manhã (Tell exact clock time and schedule daily activities across distinct parts of the day in Brazilian Portuguese)"
+            "à noite",
+            "de madrugada",
+            "à tarde",
+            "de manhã"
           ],
           "answerIndex": 1,
           "explanation": "de madrugada = in the early pre-dawn hours.",
@@ -4123,10 +4123,10 @@
         {
           "prompt": "How do Brazilians naturally say 'I get up at 7:00' in spoken Portuguese?",
           "options": [
-            "Eu me levanto às sete. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Eu se levanto às sete. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Levanto-me às sete. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Eu levanto às sete mim. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "Eu me levanto às sete.",
+            "Eu se levanto às sete.",
+            "Levanto-me às sete.",
+            "Eu levanto às sete mim."
           ],
           "answerIndex": 0,
           "explanation": "Eu me levanto is the standard Brazilian spoken form."
@@ -4134,10 +4134,10 @@
         {
           "prompt": "What does 'tomar café' mean in the morning context in Brazil?",
           "options": [
-            "To have breakfast (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "To plant coffee beans (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "To sleep (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "To buy coffee beans (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "To have breakfast",
+            "To plant coffee beans",
+            "To sleep",
+            "To buy coffee beans"
           ],
           "answerIndex": 0,
           "explanation": "'tomar café' standardly means having breakfast."
@@ -4149,10 +4149,10 @@
         {
           "prompt": "Translate: 'You get ready very quickly.' (using você)",
           "options": [
-            "Você me arruma muito rápido. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Você te arrumas rápido. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Você se arruma muito rápido. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Você arruma rápido você. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "Você me arruma muito rápido.",
+            "Você te arrumas rápido.",
+            "Você se arruma muito rápido.",
+            "Você arruma rápido você."
           ],
           "answerIndex": 2,
           "explanation": "você se arruma."
@@ -4160,10 +4160,10 @@
         {
           "prompt": "Translate: 'Eu escovo os dentes antes de dormir.'",
           "options": [
-            "I wash my face after waking up. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "I comb my hair before leaving. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "I eat dinner before sleeping. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "I brush my teeth before sleeping. (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "I wash my face after waking up.",
+            "I comb my hair before leaving.",
+            "I eat dinner before sleeping.",
+            "I brush my teeth before sleeping."
           ],
           "answerIndex": 3,
           "explanation": "escovo os dentes = I brush my teeth."
@@ -4175,10 +4175,10 @@
         {
           "prompt": "What is the standard pronoun position for reflexives in natural spoken Brazilian Portuguese?",
           "options": [
-            "At the very end of the sentence (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "After the verb with a hyphen (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Pronouns are completely omitted (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Before the verb (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "At the very end of the sentence",
+            "After the verb with a hyphen",
+            "Pronouns are completely omitted",
+            "Before the verb"
           ],
           "answerIndex": 3,
           "explanation": "Proclisis before the verb is standard in Brazilian Portuguese.",
@@ -4187,10 +4187,10 @@
         {
           "prompt": "Translate: 'Quantas vezes por dia você toma banho?'",
           "options": [
-            "Where do you buy soap? (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "Do you like cold water? (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "How many times a day do you shower / bathe? (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "What time do you wake up? (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "Where do you buy soap?",
+            "Do you like cold water?",
+            "How many times a day do you shower / bathe?",
+            "What time do you wake up?"
           ],
           "answerIndex": 2,
           "explanation": "tomar banho = to shower / take a bath.",
@@ -4199,10 +4199,10 @@
         {
           "prompt": "Conjugate 'levantar-se' for 'a gente' (we):",
           "options": [
-            "a gente me levanto (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "a gente se levanta (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "a gente se levantam (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "a gente nos levantamos (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "a gente me levanto",
+            "a gente se levanta",
+            "a gente se levantam",
+            "a gente nos levantamos"
           ],
           "answerIndex": 1,
           "explanation": "'a gente' takes 3rd person singular pronoun and verb: a gente se levanta.",
@@ -4211,10 +4211,10 @@
         {
           "prompt": "What does 'arrumar-se' signify?",
           "options": [
-            "To get dressed and ready to go out (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "To clean the kitchen (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "To pack a suitcase (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)",
-            "To fix a broken car (Conjugate daily routine reflexive and personal hygiene verbs with natural Brazilian spoken pronoun proclisis eu me levanto)"
+            "To get dressed and ready to go out",
+            "To clean the kitchen",
+            "To pack a suitcase",
+            "To fix a broken car"
           ],
           "answerIndex": 0,
           "explanation": "arrumar-se = to get ready / groomed.",
@@ -4268,10 +4268,10 @@
         {
           "prompt": "What is the 'eu' form of 'fazer' (to do/make)?",
           "options": [
-            "eu fazo (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "eu faz (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "eu fasso (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "eu faço (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "eu fazo",
+            "eu faz",
+            "eu fasso",
+            "eu faço"
           ],
           "answerIndex": 3,
           "explanation": "fazer -> eu faço."
@@ -4279,10 +4279,10 @@
         {
           "prompt": "How do you say 'I go to work by bus' in Portuguese?",
           "options": [
-            "Eu faço o trabalho de ônibus. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "Eu saio o trabalho de ônibus. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "Eu venho o trabalho de ônibus. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "Eu vou para o trabalho de ônibus. (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "Eu faço o trabalho de ônibus.",
+            "Eu saio o trabalho de ônibus.",
+            "Eu venho o trabalho de ônibus.",
+            "Eu vou para o trabalho de ônibus."
           ],
           "answerIndex": 3,
           "explanation": "Eu vou para o trabalho = I go to work."
@@ -4294,10 +4294,10 @@
         {
           "prompt": "Translate: 'What time do you leave home?' (using você)",
           "options": [
-            "A que horas você sai de casa? (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "A que horas você faz de casa? (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "A que horas você vem de casa? (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "A que horas você vai de casa? (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "A que horas você sai de casa?",
+            "A que horas você faz de casa?",
+            "A que horas você vem de casa?",
+            "A que horas você vai de casa?"
           ],
           "answerIndex": 0,
           "explanation": "sair de casa -> você sai de casa."
@@ -4305,10 +4305,10 @@
         {
           "prompt": "Conjugate 'vir' for 'eles/vocês':",
           "options": [
-            "vêm (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "veem (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "vinham (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "venham (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "vêm",
+            "veem",
+            "vinham",
+            "venham"
           ],
           "answerIndex": 0,
           "explanation": "vir -> eles vêm (ver -> eles veem)."
@@ -4320,10 +4320,10 @@
         {
           "prompt": "Match the irregular 1st person singular ('eu') present forms: fazer, ir, sair, ver:",
           "options": [
-            "fazo, io, saio, veo (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "faze, vai, sai, vê (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "faço, vou, saio, vejo (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "faco, vo, saio, viro (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "fazo, io, saio, veo",
+            "faze, vai, sai, vê",
+            "faço, vou, saio, vejo",
+            "faco, vo, saio, viro"
           ],
           "answerIndex": 2,
           "explanation": "Core irregular present forms for 'eu'.",
@@ -4332,10 +4332,10 @@
         {
           "prompt": "Translate: 'Eu faço musculação na academia três vezes por semana.'",
           "options": [
-            "I don't go to the gym. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "I do weight training at the gym three times a week. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "I teach at the university three days a week. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "I run in the park every morning. (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "I don't go to the gym.",
+            "I do weight training at the gym three times a week.",
+            "I teach at the university three days a week.",
+            "I run in the park every morning."
           ],
           "answerIndex": 1,
           "explanation": "faço musculação na academia = I do weight training at the gym.",
@@ -4345,9 +4345,9 @@
           "prompt": "What is the difference between 'eles veem' and 'eles vêm' in Portuguese?",
           "options": [
             "'eles veem' comes from ver (they see)",
-            "They are exact synonyms. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "One is Spanish. (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "'eles vêm' is past tense. (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "They are exact synonyms.",
+            "One is Spanish.",
+            "'eles vêm' is past tense."
           ],
           "answerIndex": 0,
           "explanation": "veem (ver = see) vs. vêm (vir = come).",
@@ -4356,10 +4356,10 @@
         {
           "prompt": "Translate: 'A gente vai almoçar agora, você vem com a gente?'",
           "options": [
-            "Where are you going for lunch? (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "We are going home now, are you leaving? (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "Did you already eat lunch? (Conjugate highfrequency irregular routine verbs in the present tense fazer)",
-            "We are going to have lunch now, are you coming with us? (Conjugate highfrequency irregular routine verbs in the present tense fazer)"
+            "Where are you going for lunch?",
+            "We are going home now, are you leaving?",
+            "Did you already eat lunch?",
+            "We are going to have lunch now, are you coming with us?"
           ],
           "answerIndex": 3,
           "explanation": "vai almoçar (is going to lunch), você vem com a gente (are you coming with us).",
@@ -4413,10 +4413,10 @@
         {
           "prompt": "What is 'o busão' in Brazilian Portuguese slang?",
           "options": [
-            "The city bus (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "A motorcycle taxi (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "A private car (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "The subway train (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "The city bus",
+            "A motorcycle taxi",
+            "A private car",
+            "The subway train"
           ],
           "answerIndex": 0,
           "explanation": "busão = colloquial for ônibus."
@@ -4424,10 +4424,10 @@
         {
           "prompt": "How do you say 'rush hour' in Portuguese?",
           "options": [
-            "horário de pico (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "madrugada (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "meio-dia (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "horário livre (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "horário de pico",
+            "madrugada",
+            "meio-dia",
+            "horário livre"
           ],
           "answerIndex": 0,
           "explanation": "horário de pico = rush hour."
@@ -4439,10 +4439,10 @@
         {
           "prompt": "Translate: 'Before leaving, I tap my transit card.'",
           "options": [
-            "Antes de sair, eu passo o cartão. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Eu não tenho cartão de metrô. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Depois de sair, eu passo o cartão. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Primeiro saio, depois compro o cartão. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "Antes de sair, eu passo o cartão.",
+            "Eu não tenho cartão de metrô.",
+            "Depois de sair, eu passo o cartão.",
+            "Primeiro saio, depois compro o cartão."
           ],
           "answerIndex": 0,
           "explanation": "Antes de sair = Before leaving, passo o cartão = I tap the card."
@@ -4450,10 +4450,10 @@
         {
           "prompt": "Translate: 'ir a pé'",
           "options": [
-            "to go on foot / to walk (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "to go by car (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "to ride a bicycle (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "to take the bus (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "to go on foot / to walk",
+            "to go by car",
+            "to ride a bicycle",
+            "to take the bus"
           ],
           "answerIndex": 0,
           "explanation": "ir a pé = to walk / go on foot."
@@ -4465,10 +4465,10 @@
         {
           "prompt": "Which sequence correctly captures a typical commuter routine in São Paulo?",
           "options": [
-            "Primeiro durmo no metrô e depois tomo banho no trabalho. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Primeiro eu tomo café com pão na chapa, depois pego o metrô para evitar o trânsito. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Eu janto às 6 da manhã e vou de barco. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Primeiro chego e depois saio de casa. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "Primeiro durmo no metrô e depois tomo banho no trabalho.",
+            "Primeiro eu tomo café com pão na chapa, depois pego o metrô para evitar o trânsito.",
+            "Eu janto às 6 da manhã e vou de barco.",
+            "Primeiro chego e depois saio de casa."
           ],
           "answerIndex": 1,
           "explanation": "Logical morning routine with iconic 'pão na chapa'.",
@@ -4477,10 +4477,10 @@
         {
           "prompt": "What does 'o trânsito está travado / parado' mean in Brazilian cities?",
           "options": [
-            "Traffic is gridlocked / completely stopped. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Traffic is moving very fast. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "The street is closed for a festival. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "There are no cars on the road. (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "Traffic is gridlocked / completely stopped.",
+            "Traffic is moving very fast.",
+            "The street is closed for a festival.",
+            "There are no cars on the road."
           ],
           "answerIndex": 0,
           "explanation": "trânsito travado / parado = gridlocked traffic.",
@@ -4489,10 +4489,10 @@
         {
           "prompt": "What prepositional phrase means 'by subway' vs. 'on foot' in Portuguese?",
           "options": [
-            "pelo metrô / de pé (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "no metrô / com pé (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "em metrô / por pé (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "de metrô / a pé (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "pelo metrô / de pé",
+            "no metrô / com pé",
+            "em metrô / por pé",
+            "de metrô / a pé"
           ],
           "answerIndex": 3,
           "explanation": "de + vehicle (de metrô, de carro, de ônibus) vs. a pé (on foot).",
@@ -4501,10 +4501,10 @@
         {
           "prompt": "What is the integrated smart transit card used in São Paulo called?",
           "options": [
-            "Cartão Metro (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Riocard (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "Bilhete Único (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)",
-            "SUBE (Sequence daily actions using temporal connectors and describe urban public transit commutes in Brazil metr)"
+            "Cartão Metro",
+            "Riocard",
+            "Bilhete Único",
+            "SUBE"
           ],
           "answerIndex": 2,
           "explanation": "Bilhete Único is São Paulo's transit card.",
@@ -4558,10 +4558,10 @@
         {
           "prompt": "In the dialogue, why does Camila take the subway instead of driving?",
           "options": [
-            "Because it is super fast and avoids all the street traffic (Integrate clock times)",
-            "Because her car is broken (Integrate clock times)",
-            "Because the subway is free (Integrate clock times)",
-            "Because she doesn't know how to drive (Integrate clock times)"
+            "Because it is super fast and avoids all the street traffic",
+            "Because her car is broken",
+            "Because the subway is free",
+            "Because she doesn't know how to drive"
           ],
           "answerIndex": 0,
           "explanation": "Camila states: 'É super rápido e eu evito todo o trânsito.'"
@@ -4569,10 +4569,10 @@
         {
           "prompt": "What do Rodrigo and Camila plan to do after work at 6:30 PM?",
           "options": [
-            "Tomar um chopp gelado num barzinho perto do metrô (Integrate clock times)",
-            "Ir à praia (Integrate clock times)",
-            "Fazer compras no shopping (Integrate clock times)",
-            "Dormir no escritório (Integrate clock times)"
+            "Tomar um chopp gelado num barzinho perto do metrô",
+            "Ir à praia",
+            "Fazer compras no shopping",
+            "Dormir no escritório"
           ],
           "answerIndex": 0,
           "explanation": "They agree to meet for a cold chopp near the metro."
@@ -4584,10 +4584,10 @@
         {
           "prompt": "Translate: 'I wake up at six, work out, and have coffee.'",
           "options": [
-            "Eu me levanto tarde e não tomo café. (Integrate clock times)",
-            "Eu acordo às seis, faço academia e tomo café. (Integrate clock times)",
-            "Eu trabalho às seis sem comer. (Integrate clock times)",
-            "Eu durmo às seis, vou ao trabalho e almoço. (Integrate clock times)"
+            "Eu me levanto tarde e não tomo café.",
+            "Eu acordo às seis, faço academia e tomo café.",
+            "Eu trabalho às seis sem comer.",
+            "Eu durmo às seis, vou ao trabalho e almoço."
           ],
           "answerIndex": 1,
           "explanation": "acordo às seis, faço academia, tomo café."
@@ -4595,10 +4595,10 @@
         {
           "prompt": "What does 'Combinado!' mean in conversational Brazilian Portuguese?",
           "options": [
-            "Deal! / Agreed! / It's a plan! (Integrate clock times)",
-            "I don't agree. (Integrate clock times)",
-            "What time is it? (Integrate clock times)",
-            "Goodbye! (Integrate clock times)"
+            "Deal! / Agreed! / It's a plan!",
+            "I don't agree.",
+            "What time is it?",
+            "Goodbye!"
           ],
           "answerIndex": 0,
           "explanation": "'Combinado!' confirms an agreed plan."
@@ -4610,10 +4610,10 @@
         {
           "prompt": "Which sentence demonstrates accurate Brazilian Portuguese routine verbs, proclisis, and transit vocabulary?",
           "options": [
-            "Eu me levanto cedo, tomo café na padaria e pego o metrô para evitar o trânsito da manhã. (Integrate clock times)",
-            "Levanto-me eu e pego carro para gostar do trânsito. (Integrate clock times)",
-            "Eu se levanta e vai com o pé sem bilhete. (Integrate clock times)",
-            "De manhã eu dorme na estação. (Integrate clock times)"
+            "Eu me levanto cedo, tomo café na padaria e pego o metrô para evitar o trânsito da manhã.",
+            "Levanto-me eu e pego carro para gostar do trânsito.",
+            "Eu se levanta e vai com o pé sem bilhete.",
+            "De manhã eu dorme na estação."
           ],
           "answerIndex": 0,
           "explanation": "Natural, grammatically complete Brazilian routine expression.",
@@ -4622,10 +4622,10 @@
         {
           "prompt": "What is the cultural role of 'a padaria' (padoca) in Brazilian morning routines?",
           "options": [
-            "A place only selling baking flour. (Integrate clock times)",
-            "A late-night nightclub. (Integrate clock times)",
-            "An upscale French restaurant. (Integrate clock times)",
-            "A bustling neighborhood hub where locals eat 'pão na chapa', 'pão de queijo', and 'café com leite' at the counter. (Integrate clock times)"
+            "A place only selling baking flour.",
+            "A late-night nightclub.",
+            "An upscale French restaurant.",
+            "A bustling neighborhood hub where locals eat 'pão na chapa', 'pão de queijo', and 'café com leite' at the counter."
           ],
           "answerIndex": 3,
           "explanation": "The padaria is the daily heartbeat of Brazilian morning food culture.",
@@ -4634,10 +4634,10 @@
         {
           "prompt": "Translate: 'A gente se encontra às seis e meia para o happy hour.'",
           "options": [
-            "We leave work at six in the morning. (Integrate clock times)",
-            "We do not go to happy hour today. (Integrate clock times)",
-            "We are meeting at six-thirty for happy hour. (Integrate clock times)",
-            "Where is the bar at six o'clock? (Integrate clock times)"
+            "We leave work at six in the morning.",
+            "We do not go to happy hour today.",
+            "We are meeting at six-thirty for happy hour.",
+            "Where is the bar at six o'clock?"
           ],
           "answerIndex": 2,
           "explanation": "A gente se encontra = We meet, às seis e meia = at 6:30.",
@@ -4646,10 +4646,10 @@
         {
           "prompt": "What core grammatical and communicative competencies were mastered across Unit 5 in Brazilian Portuguese?",
           "options": [
-            "Future subjunctive conditionals only (Integrate clock times)",
+            "Future subjunctive conditionals only",
             "Clock times & parts of the day, routine reflexives with spoken proclisis ('eu me levanto')",
-            "Portuguese alphabet only (Integrate clock times)",
-            "Personal infinitive conjugations only (Integrate clock times)"
+            "Portuguese alphabet only",
+            "Personal infinitive conjugations only"
           ],
           "answerIndex": 1,
           "explanation": "Unit 5 comprehensive daily life, routine, and transit mastery.",
@@ -4703,10 +4703,10 @@
         {
           "prompt": "What is 'picanha' in Brazilian barbecue (churrasco)?",
           "options": [
-            "Pork ribs (Identify and classify staple Brazilian food)",
-            "Chicken liver (Identify and classify staple Brazilian food)",
-            "Fish fillet (Identify and classify staple Brazilian food)",
-            "Prime top sirloin cap with a fat cap (Identify and classify staple Brazilian food)"
+            "Pork ribs",
+            "Chicken liver",
+            "Fish fillet",
+            "Prime top sirloin cap with a fat cap"
           ],
           "answerIndex": 3,
           "explanation": "picanha is the prized top sirloin cap."
@@ -4714,10 +4714,10 @@
         {
           "prompt": "What are the ingredients of a traditional Brazilian 'caipirinha'?",
           "options": [
-            "Wine, soda, and fruit (Identify and classify staple Brazilian food)",
-            "Vodka, tomato juice, and celery (Identify and classify staple Brazilian food)",
+            "Wine, soda, and fruit",
+            "Vodka, tomato juice, and celery",
             "Cachaça (sugarcane spirit)",
-            "Rum, cola, and lemon (Identify and classify staple Brazilian food)"
+            "Rum, cola, and lemon"
           ],
           "answerIndex": 2,
           "explanation": "Caipirinha = cachaça + limão + açúcar + gelo."
@@ -4729,10 +4729,10 @@
         {
           "prompt": "Translate: 'warm cheese bread with coffee with milk'",
           "options": [
-            "pastel de carne com refrigerante (Identify and classify staple Brazilian food)",
-            "coxinha fria com chá (Identify and classify staple Brazilian food)",
-            "feijoada com cerveja (Identify and classify staple Brazilian food)",
-            "pão de queijo quentinho com café com leite (Identify and classify staple Brazilian food)"
+            "pastel de carne com refrigerante",
+            "coxinha fria com chá",
+            "feijoada com cerveja",
+            "pão de queijo quentinho com café com leite"
           ],
           "answerIndex": 3,
           "explanation": "pão de queijo quentinho = warm cheese bread, café com leite = coffee with milk."
@@ -4740,10 +4740,10 @@
         {
           "prompt": "Which fruit juice is famously made with pineapple and fresh mint in Brazil?",
           "options": [
-            "suco de laranja (Identify and classify staple Brazilian food)",
-            "suco de maracujá (Identify and classify staple Brazilian food)",
-            "suco de manga (Identify and classify staple Brazilian food)",
-            "suco de abacaxi com hortelã (Identify and classify staple Brazilian food)"
+            "suco de laranja",
+            "suco de maracujá",
+            "suco de manga",
+            "suco de abacaxi com hortelã"
           ],
           "answerIndex": 3,
           "explanation": "abacaxi com hortelã = pineapple with mint."
@@ -4755,10 +4755,10 @@
         {
           "prompt": "Match the Brazilian foods: feijoada, farofa, coxinha, água de coco:",
           "options": [
-            "steak, rice, cheese pastry, beer (Identify and classify staple Brazilian food)",
-            "salad, soup, bread, wine (Identify and classify staple Brazilian food)",
-            "fish, beans, sausage, juice (Identify and classify staple Brazilian food)",
-            "black bean pork stew, toasted manioc flour, chicken croquette, coconut water (Identify and classify staple Brazilian food)"
+            "steak, rice, cheese pastry, beer",
+            "salad, soup, bread, wine",
+            "fish, beans, sausage, juice",
+            "black bean pork stew, toasted manioc flour, chicken croquette, coconut water"
           ],
           "answerIndex": 3,
           "explanation": "Classic Brazilian culinary staples.",
@@ -4767,10 +4767,10 @@
         {
           "prompt": "Why are Wednesday and Saturday culturally special in Brazilian dining?",
           "options": [
-            "They are fasting days. (Identify and classify staple Brazilian food)",
-            "Restaurants are closed. (Identify and classify staple Brazilian food)",
-            "They are traditional 'Feijoada Days' across restaurants and homes nationwide. (Identify and classify staple Brazilian food)",
-            "Only seafood is eaten. (Identify and classify staple Brazilian food)"
+            "They are fasting days.",
+            "Restaurants are closed.",
+            "They are traditional 'Feijoada Days' across restaurants and homes nationwide.",
+            "Only seafood is eaten."
           ],
           "answerIndex": 2,
           "explanation": "Wednesday and Saturday are Feijoada Days.",
@@ -4779,10 +4779,10 @@
         {
           "prompt": "Translate: 'O que vem no prato feito tradicional?'",
           "options": [
-            "How much is the plate of food? (Identify and classify staple Brazilian food)",
-            "What comes in the traditional combo plate (Identify and classify staple Brazilian food)",
-            "Who cooked this food? (Identify and classify staple Brazilian food)",
-            "Where is the kitchen? (Identify and classify staple Brazilian food)"
+            "How much is the plate of food?",
+            "What comes in the traditional combo plate",
+            "Who cooked this food?",
+            "Where is the kitchen?"
           ],
           "answerIndex": 1,
           "explanation": "prato feito (PF) = traditional everyday combo plate.",
@@ -4791,10 +4791,10 @@
         {
           "prompt": "What is 'Catupiry' in Brazilian snack culture?",
           "options": [
-            "A beloved, iconic brand of soft, creamy processed cheese used in coxinhas and pizzas (Identify and classify staple Brazilian food)",
-            "A type of tropical fruit (Identify and classify staple Brazilian food)",
-            "A sugarcane syrup (Identify and classify staple Brazilian food)",
-            "A hot chili pepper sauce (Identify and classify staple Brazilian food)"
+            "A beloved, iconic brand of soft, creamy processed cheese used in coxinhas and pizzas",
+            "A type of tropical fruit",
+            "A sugarcane syrup",
+            "A hot chili pepper sauce"
           ],
           "answerIndex": 0,
           "explanation": "Catupiry is Brazil's famous creamy cheese spread.",
@@ -4848,10 +4848,10 @@
         {
           "prompt": "How do Brazilians informally and authentically order a drink at a boteco counter?",
           "options": [
-            "Me vê um chopp gelado, por favor! (Order food politely in Brazilian botecos)",
-            "Traga cerveja você. (Order food politely in Brazilian botecos)",
-            "Eu quero comprar cerveja. (Order food politely in Brazilian botecos)",
-            "Me dê cerveja agora. (Order food politely in Brazilian botecos)"
+            "Me vê um chopp gelado, por favor!",
+            "Traga cerveja você.",
+            "Eu quero comprar cerveja.",
+            "Me dê cerveja agora."
           ],
           "answerIndex": 0,
           "explanation": "'Me vê...' is the classic natural Brazilian ordering idiom."
@@ -4859,10 +4859,10 @@
         {
           "prompt": "What is 'Pix' in modern Brazilian commerce?",
           "options": [
-            "The universal instant digital payment system used via smartphones and QR codes (Order food politely in Brazilian botecos)",
-            "A physical copper coin (Order food politely in Brazilian botecos)",
-            "A food delivery brand (Order food politely in Brazilian botecos)",
-            "A foreign exchange tax (Order food politely in Brazilian botecos)"
+            "The universal instant digital payment system used via smartphones and QR codes",
+            "A physical copper coin",
+            "A food delivery brand",
+            "A foreign exchange tax"
           ],
           "answerIndex": 0,
           "explanation": "Pix is Brazil's ubiquitous instant payment method."
@@ -4874,10 +4874,10 @@
         {
           "prompt": "Translate: 'Waiter, the bill please! We are going to pay by card.'",
           "options": [
-            "Garçom, o cardápio, por favor! Não temos dinheiro. (Order food politely in Brazilian botecos)",
-            "A comida acabou, vamos embora. (Order food politely in Brazilian botecos)",
-            "Garçom, a conta, por favor! A gente vai pagar no cartão. (Order food politely in Brazilian botecos)",
-            "Onde fica o caixa? (Order food politely in Brazilian botecos)"
+            "Garçom, o cardápio, por favor! Não temos dinheiro.",
+            "A comida acabou, vamos embora.",
+            "Garçom, a conta, por favor! A gente vai pagar no cartão.",
+            "Onde fica o caixa?"
           ],
           "answerIndex": 2,
           "explanation": "A conta, por favor! A gente vai pagar no cartão."
@@ -4885,10 +4885,10 @@
         {
           "prompt": "What does 'petiscar' mean in boteco culture?",
           "options": [
-            "To order dessert (Order food politely in Brazilian botecos)",
-            "To cook in the kitchen (Order food politely in Brazilian botecos)",
-            "To leave the bar (Order food politely in Brazilian botecos)",
-            "To graze / share savory snacks and finger food over drinks (Order food politely in Brazilian botecos)"
+            "To order dessert",
+            "To cook in the kitchen",
+            "To leave the bar",
+            "To graze / share savory snacks and finger food over drinks"
           ],
           "answerIndex": 3,
           "explanation": "petiscar = to nibble on appetizers/snacks."
@@ -4900,10 +4900,10 @@
         {
           "prompt": "What is the customary service charge (gorjeta / taxa de serviço) printed on restaurant bills in Brazil?",
           "options": [
-            "50% (Order food politely in Brazilian botecos)",
-            "0% (Order food politely in Brazilian botecos)",
-            "10% (Order food politely in Brazilian botecos)",
-            "25% (Order food politely in Brazilian botecos)"
+            "50%",
+            "0%",
+            "10%",
+            "25%"
           ],
           "answerIndex": 2,
           "explanation": "10% is the standard service percentage in Brazil.",
@@ -4912,10 +4912,10 @@
         {
           "prompt": "Translate: 'Eu queria um suco natural de maracujá sem açúcar e com bastante gelo.'",
           "options": [
-            "We don't drink passion fruit juice. (Order food politely in Brazilian botecos)",
-            "I would like a fresh passion fruit juice without sugar and with lots of ice. (Order food politely in Brazilian botecos)",
-            "Where is the fresh fruit market? (Order food politely in Brazilian botecos)",
-            "I want a hot coffee with extra sugar. (Order food politely in Brazilian botecos)"
+            "We don't drink passion fruit juice.",
+            "I would like a fresh passion fruit juice without sugar and with lots of ice.",
+            "Where is the fresh fruit market?",
+            "I want a hot coffee with extra sugar."
           ],
           "answerIndex": 1,
           "explanation": "suco de maracujá = passion fruit juice, sem açúcar = no sugar, bastante gelo = lots of ice.",
@@ -4924,10 +4924,10 @@
         {
           "prompt": "How do you call a waiter politely in Brazil?",
           "options": [
-            "Garçom! (Order food politely in Brazilian botecos)",
-            "Garçonete homem! (Order food politely in Brazilian botecos)",
-            "Trabalhador! (Order food politely in Brazilian botecos)",
-            "Ei, você aí! (Order food politely in Brazilian botecos)"
+            "Garçom!",
+            "Garçonete homem!",
+            "Trabalhador!",
+            "Ei, você aí!"
           ],
           "answerIndex": 0,
           "explanation": "Garçom! is the standard courteous call.",
@@ -4936,10 +4936,10 @@
         {
           "prompt": "What does 'fechar a conta' mean?",
           "options": [
-            "To open a bank account (Order food politely in Brazilian botecos)",
-            "To lock the restaurant doors (Order food politely in Brazilian botecos)",
-            "To complain about food (Order food politely in Brazilian botecos)",
-            "To close the tab / request the final bill (Order food politely in Brazilian botecos)"
+            "To open a bank account",
+            "To lock the restaurant doors",
+            "To complain about food",
+            "To close the tab / request the final bill"
           ],
           "answerIndex": 3,
           "explanation": "fechar a conta = to settle/close the bill.",
@@ -4993,10 +4993,10 @@
         {
           "prompt": "Which sentence correctly uses the preposition with 'gostar'?",
           "options": [
-            "Eu gosto o churrasco. (Express culinary preferences)",
-            "Eu gosto no churrasco. (Express culinary preferences)",
-            "Eu gosto pelo churrasco. (Express culinary preferences)",
-            "Eu gosto do churrasco brasileiro. (Express culinary preferences)"
+            "Eu gosto o churrasco.",
+            "Eu gosto no churrasco.",
+            "Eu gosto pelo churrasco.",
+            "Eu gosto do churrasco brasileiro."
           ],
           "answerIndex": 3,
           "explanation": "gostar requires 'de' -> de + o = do."
@@ -5004,10 +5004,10 @@
         {
           "prompt": "What is 'brigadeiro' in Brazilian sweet culture?",
           "options": [
-            "A sour fruit cocktail (Express culinary preferences)",
-            "A savory cheese puff (Express culinary preferences)",
-            "A coconut cake (Express culinary preferences)",
-            "A rich chocolate fudge truffle made with condensed milk and covered in chocolate sprinkles (Express culinary preferences)"
+            "A sour fruit cocktail",
+            "A savory cheese puff",
+            "A coconut cake",
+            "A rich chocolate fudge truffle made with condensed milk and covered in chocolate sprinkles"
           ],
           "answerIndex": 3,
           "explanation": "Brigadeiro is Brazil's beloved chocolate truffle."
@@ -5019,10 +5019,10 @@
         {
           "prompt": "Translate: 'I love fresh coconut water, but I prefer draft beer on hot days.'",
           "options": [
-            "Eu adoro água de coco, mas prefiro chopp nos dias quentes. (Express culinary preferences)",
-            "Eu gosto água de coco e não bebo cerveja. (Express culinary preferences)",
-            "Eu odeio água de coco e cerveja. (Express culinary preferences)",
-            "Água de coco é chopp nos dias quentes. (Express culinary preferences)"
+            "Eu adoro água de coco, mas prefiro chopp nos dias quentes.",
+            "Eu gosto água de coco e não bebo cerveja.",
+            "Eu odeio água de coco e cerveja.",
+            "Água de coco é chopp nos dias quentes."
           ],
           "answerIndex": 0,
           "explanation": "Eu adoro (I adore) ... mas prefiro chopp (prefer draft beer)."
@@ -5030,10 +5030,10 @@
         {
           "prompt": "Conjugate 'gostar' for 'a gente':",
           "options": [
-            "a gente gosta (Express culinary preferences)",
-            "a gente gostamos (Express culinary preferences)",
-            "a gente gostam (Express culinary preferences)",
-            "a gente gosto (Express culinary preferences)"
+            "a gente gosta",
+            "a gente gostamos",
+            "a gente gostam",
+            "a gente gosto"
           ],
           "answerIndex": 0,
           "explanation": "'a gente' triggers 3rd person singular: a gente gosta."
@@ -5045,10 +5045,10 @@
         {
           "prompt": "What is the mandatory preposition required by the verb 'gostar' in Portuguese?",
           "options": [
-            "por (Express culinary preferences)",
-            "de (Express culinary preferences)",
-            "em (Express culinary preferences)",
-            "a (Express culinary preferences)"
+            "por",
+            "de",
+            "em",
+            "a"
           ],
           "answerIndex": 1,
           "explanation": "gostar DE.",
@@ -5057,10 +5057,10 @@
         {
           "prompt": "Translate: 'Você gosta de feijoada completa com couve e farofa?'",
           "options": [
-            "Do you like full feijoada with collard greens and farofa? (Express culinary preferences)",
-            "We don't eat beans and greens. (Express culinary preferences)",
-            "Do you cook feijoada on Sundays? (Express culinary preferences)",
-            "How much is the feijoada? (Express culinary preferences)"
+            "Do you like full feijoada with collard greens and farofa?",
+            "We don't eat beans and greens.",
+            "Do you cook feijoada on Sundays?",
+            "How much is the feijoada?"
           ],
           "answerIndex": 0,
           "explanation": "gosta de feijoada completa com couve e farofa.",
@@ -5069,10 +5069,10 @@
         {
           "prompt": "Why does 'Eu adoro pastel de queijo' NOT use the preposition 'de' after 'adoro'?",
           "options": [
-            "Because 'adorar' is past tense. (Express culinary preferences)",
-            "It is a grammar error. (Express culinary preferences)",
-            "Because 'pastel' is a food item. (Express culinary preferences)",
-            "Because 'adorar' is a direct transitive verb that connects directly to the noun without 'de'. (Express culinary preferences)"
+            "Because 'adorar' is past tense.",
+            "It is a grammar error.",
+            "Because 'pastel' is a food item.",
+            "Because 'adorar' is a direct transitive verb that connects directly to the noun without 'de'."
           ],
           "answerIndex": 3,
           "explanation": "adorar takes a direct object without preposition: adoro + noun.",
@@ -5081,10 +5081,10 @@
         {
           "prompt": "Translate: 'Eles preferem comer na lanchonete porque é mais rápido.'",
           "options": [
-            "They always cook at home. (Express culinary preferences)",
-            "They dislike the snack bar. (Express culinary preferences)",
-            "They prefer eating at the snack bar because it is faster. (Express culinary preferences)",
-            "The snack bar is very expensive. (Express culinary preferences)"
+            "They always cook at home.",
+            "They dislike the snack bar.",
+            "They prefer eating at the snack bar because it is faster.",
+            "The snack bar is very expensive."
           ],
           "answerIndex": 2,
           "explanation": "preferem comer = they prefer to eat, lanchonete = snack bar.",
@@ -5138,10 +5138,10 @@
         {
           "prompt": "What does 'quentinho' describe when speaking about Brazilian baked goods?",
           "options": [
-            "Cold and stale (Describe taste profiles)",
-            "Piping hot, fresh, and cozy straight from the oven (Describe taste profiles)",
-            "Very sweet (Describe taste profiles)",
-            "Burned and ruined (Describe taste profiles)"
+            "Cold and stale",
+            "Piping hot, fresh, and cozy straight from the oven",
+            "Very sweet",
+            "Burned and ruined"
           ],
           "answerIndex": 1,
           "explanation": "quentinho = warm and fresh from the oven."
@@ -5149,10 +5149,10 @@
         {
           "prompt": "What does 'chopp trincando de gelado' mean in Brazilian boteco slang?",
           "options": [
-            "Draft beer served frosty, ice-cold to perfection (Describe taste profiles)",
-            "Beer with lemon only (Describe taste profiles)",
-            "Non-alcoholic beer (Describe taste profiles)",
-            "Warm flat beer (Describe taste profiles)"
+            "Draft beer served frosty, ice-cold to perfection",
+            "Beer with lemon only",
+            "Non-alcoholic beer",
+            "Warm flat beer"
           ],
           "answerIndex": 0,
           "explanation": "trincando de gelado = frost-cold draft beer."
@@ -5164,10 +5164,10 @@
         {
           "prompt": "Translate: 'This carrot cake with chocolate is delicious!'",
           "options": [
-            "Esse bolo de cenoura com chocolate é uma delícia! (Describe taste profiles)",
-            "Onde está o bolo de chocolate? (Describe taste profiles)",
-            "Esse bolo é salgado e amargo. (Describe taste profiles)",
-            "Eu não como bolo de cenoura. (Describe taste profiles)"
+            "Esse bolo de cenoura com chocolate é uma delícia!",
+            "Onde está o bolo de chocolate?",
+            "Esse bolo é salgado e amargo.",
+            "Eu não como bolo de cenoura."
           ],
           "answerIndex": 0,
           "explanation": "bolo de cenoura com chocolate = Brazilian carrot cake with chocolate glaze, uma delícia = delicious."
@@ -5175,10 +5175,10 @@
         {
           "prompt": "Which adjective means 'spicy / peppery' in Portuguese?",
           "options": [
-            "apimentado (Describe taste profiles)",
-            "salgado (Describe taste profiles)",
-            "doce (Describe taste profiles)",
-            "azedo (Describe taste profiles)"
+            "apimentado",
+            "salgado",
+            "doce",
+            "azedo"
           ],
           "answerIndex": 0,
           "explanation": "apimentado (from pimenta = pepper)."
@@ -5190,10 +5190,10 @@
         {
           "prompt": "Match the Brazilian taste and temperature descriptors: doce, azedo, crocante, quentinho:",
           "options": [
-            "sweet, sour, crispy, freshly warm (Describe taste profiles)",
-            "salty, bitter, soft, frozen (Describe taste profiles)",
-            "cheap, expensive, fresh, stale (Describe taste profiles)",
-            "spicy, cold, dry, oily (Describe taste profiles)"
+            "sweet, sour, crispy, freshly warm",
+            "salty, bitter, soft, frozen",
+            "cheap, expensive, fresh, stale",
+            "spicy, cold, dry, oily"
           ],
           "answerIndex": 0,
           "explanation": "Core culinary descriptors.",
@@ -5202,9 +5202,9 @@
         {
           "prompt": "What role do diminutive suffixes (-inho / -inha) play in Brazilian food culture?",
           "options": [
-            "They are used for baby food only. (Describe taste profiles)",
-            "They indicate small size only. (Describe taste profiles)",
-            "They indicate poor quality. (Describe taste profiles)",
+            "They are used for baby food only.",
+            "They indicate small size only.",
+            "They indicate poor quality.",
             "They express warmth, affection, freshness, and delicious comfort (e.g. cafezinho, quentinho, geladinho)"
           ],
           "answerIndex": 3,
@@ -5214,10 +5214,10 @@
         {
           "prompt": "Translate: 'O pastel de palmito estava sequinho e bem crocante.'",
           "options": [
-            "We didn't like the hearts of palm pastel. (Describe taste profiles)",
-            "The pastel was soaked in oil and cold. (Describe taste profiles)",
-            "The hearts of palm pastel was non-greasy and very crispy. (Describe taste profiles)",
-            "The pastel is baked in the oven. (Describe taste profiles)"
+            "We didn't like the hearts of palm pastel.",
+            "The pastel was soaked in oil and cold.",
+            "The hearts of palm pastel was non-greasy and very crispy.",
+            "The pastel is baked in the oven."
           ],
           "answerIndex": 2,
           "explanation": "sequinho (not greasy/dry), crocante (crispy).",
@@ -5226,10 +5226,10 @@
         {
           "prompt": "What classic Brazilian cake features an orange carrot sponge topped with glossy dark chocolate glaze?",
           "options": [
-            "Bolo de fubá (Describe taste profiles)",
-            "Bolo de cenoura com cobertura de chocolate (Describe taste profiles)",
-            "Bolo de rolo (Describe taste profiles)",
-            "Pudim de leite (Describe taste profiles)"
+            "Bolo de fubá",
+            "Bolo de cenoura com cobertura de chocolate",
+            "Bolo de rolo",
+            "Pudim de leite"
           ],
           "answerIndex": 1,
           "explanation": "Bolo de cenoura com chocolate is Brazil's most iconic afternoon cake.",
@@ -5283,10 +5283,10 @@
         {
           "prompt": "In the dialogue, what main course do Lucas and Beatriz order?",
           "options": [
-            "Picanha na chapa com farofa de ovos, vinagrete e mandioca frita (Synthesize food vocabulary)",
-            "Feijoada vegetariana (Synthesize food vocabulary)",
-            "Peixe cozido com arroz (Synthesize food vocabulary)",
-            "Pizza de quatro queijos (Synthesize food vocabulary)"
+            "Picanha na chapa com farofa de ovos, vinagrete e mandioca frita",
+            "Feijoada vegetariana",
+            "Peixe cozido com arroz",
+            "Pizza de quatro queijos"
           ],
           "answerIndex": 0,
           "explanation": "They order sizzling picanha with egg farofa, vinaigrette, and fried cassava."
@@ -5294,10 +5294,10 @@
         {
           "prompt": "What does a Brazilian waiter say to mean 'Coming right up!'?",
           "options": [
-            "É pra já! (Synthesize food vocabulary)",
-            "Não tem! (Synthesize food vocabulary)",
-            "Demora muito! (Synthesize food vocabulary)",
-            "Tchau! (Synthesize food vocabulary)"
+            "É pra já!",
+            "Não tem!",
+            "Demora muito!",
+            "Tchau!"
           ],
           "answerIndex": 0,
           "explanation": "'É pra já!' means coming right up."
@@ -5309,10 +5309,10 @@
         {
           "prompt": "Translate: 'The meat is very juicy and tender, cooked to perfection.'",
           "options": [
-            "A carne está crua e fria. (Synthesize food vocabulary)",
-            "A carne está muito suculenta e macia, no ponto. (Synthesize food vocabulary)",
-            "Não queremos carne. (Synthesize food vocabulary)",
-            "A carne está dura e seca. (Synthesize food vocabulary)"
+            "A carne está crua e fria.",
+            "A carne está muito suculenta e macia, no ponto.",
+            "Não queremos carne.",
+            "A carne está dura e seca."
           ],
           "answerIndex": 1,
           "explanation": "suculenta = juicy, macia = tender, no ponto = cooked to perfection / medium."
@@ -5320,10 +5320,10 @@
         {
           "prompt": "Translate: 'Pode fechar a conta, vou pagar no Pix.'",
           "options": [
-            "I don't have money to pay. (Synthesize food vocabulary)",
-            "You can close the tab / bring the bill, I'll pay with Pix. (Synthesize food vocabulary)",
-            "Where is the bank? (Synthesize food vocabulary)",
-            "I want to order more food with Pix. (Synthesize food vocabulary)"
+            "I don't have money to pay.",
+            "You can close the tab / bring the bill, I'll pay with Pix.",
+            "Where is the bank?",
+            "I want to order more food with Pix."
           ],
           "answerIndex": 1,
           "explanation": "Pode fechar a conta = You can close the bill."
@@ -5335,10 +5335,10 @@
         {
           "prompt": "Which sentence demonstrates natural Brazilian spoken ordering, meat doneness, and check payment in Portuguese?",
           "options": [
-            "Eu quero carne você me dá sem dinheiro agora. (Synthesize food vocabulary)",
-            "A conta sem comida por favor. (Synthesize food vocabulary)",
-            "Traga picanha para mim e sai correndo. (Synthesize food vocabulary)",
-            "Garçom, me vê uma porção de picanha ao ponto com mandioca, e depois traz a conta que eu pago no Pix, por favor! (Synthesize food vocabulary)"
+            "Eu quero carne você me dá sem dinheiro agora.",
+            "A conta sem comida por favor.",
+            "Traga picanha para mim e sai correndo.",
+            "Garçom, me vê uma porção de picanha ao ponto com mandioca, e depois traz a conta que eu pago no Pix, por favor!"
           ],
           "answerIndex": 3,
           "explanation": "Flawless, authentic Brazilian dining communication.",
@@ -5347,10 +5347,10 @@
         {
           "prompt": "What are the three core meat doneness levels in Brazilian churrasco?",
           "options": [
-            "cru -> quente -> queimado (Synthesize food vocabulary)",
-            "pequeno -> médio -> grande (Synthesize food vocabulary)",
+            "cru -> quente -> queimado",
+            "pequeno -> médio -> grande",
             "mal passado (rare)",
-            "doce -> salgado -> amargo (Synthesize food vocabulary)"
+            "doce -> salgado -> amargo"
           ],
           "answerIndex": 2,
           "explanation": "mal passado (rare), ao ponto (medium), bem passado (well done).",
@@ -5359,10 +5359,10 @@
         {
           "prompt": "Translate: 'O atendimento foi nota dez, pode incluir os dez por cento!'",
           "options": [
-            "The bill is ten times too expensive. (Synthesize food vocabulary)",
-            "The service was a 10/10, you can include the 10% tip! (Synthesize food vocabulary)",
-            "The waiter was terrible. (Synthesize food vocabulary)",
-            "We want ten more plates. (Synthesize food vocabulary)"
+            "The bill is ten times too expensive.",
+            "The service was a 10/10, you can include the 10% tip!",
+            "The waiter was terrible.",
+            "We want ten more plates."
           ],
           "answerIndex": 1,
           "explanation": "atendimento nota dez = 10/10 service, incluir os 10% = include 10% tip.",
@@ -5372,9 +5372,9 @@
           "prompt": "What core grammatical and communicative competencies were mastered across Unit 6 in Brazilian Portuguese?",
           "options": [
             "Food & boteco staples, natural spoken ordering frames (quentinho, geladinho)",
-            "Preterite imperfect subjunctive only (Synthesize food vocabulary)",
-            "Portuguese alphabet only (Synthesize food vocabulary)",
-            "Personal infinitive compound tenses only (Synthesize food vocabulary)"
+            "Preterite imperfect subjunctive only",
+            "Portuguese alphabet only",
+            "Personal infinitive compound tenses only"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive dining, boteco hospitality, and ordering mastery.",
@@ -5422,10 +5422,10 @@
         {
           "prompt": "How do you say 'I bought the tickets yesterday' in Brazilian Portuguese?",
           "options": [
-            "Ontem eu compro os ingressos. (Conjugate regular ar)",
-            "Ontem eu comprou os ingressos. (Conjugate regular ar)",
-            "Ontem eu compraram os ingressos. (Conjugate regular ar)",
-            "Ontem eu comprei os ingressos. (Conjugate regular ar)"
+            "Ontem eu compro os ingressos.",
+            "Ontem eu comprou os ingressos.",
+            "Ontem eu compraram os ingressos.",
+            "Ontem eu comprei os ingressos."
           ],
           "answerIndex": 3,
           "explanation": "Eu + comprar in preterite = comprei."
@@ -5433,10 +5433,10 @@
         {
           "prompt": "Which verb form completes: 'No sábado, a gente _______ (visitar) o Museu do Ipiranga.'?",
           "options": [
-            "visitamos (Conjugate regular ar)",
-            "visitaram (Conjugate regular ar)",
-            "visitou (Conjugate regular ar)",
-            "visitei (Conjugate regular ar)"
+            "visitamos",
+            "visitaram",
+            "visitou",
+            "visitei"
           ],
           "answerIndex": 2,
           "explanation": "'A gente' takes the 3rd-person singular ending (-ou) -> visitou."
@@ -5448,10 +5448,10 @@
         {
           "prompt": "Translate: 'Vocês conversaram com o gerente da pousada?'",
           "options": [
-            "Are you speaking with the manager? (Conjugate regular ar)",
-            "Will you speak with the manager? (Conjugate regular ar)",
-            "Why did the manager leave? (Conjugate regular ar)",
-            "Did you all speak with the inn manager? (Conjugate regular ar)"
+            "Are you speaking with the manager?",
+            "Will you speak with the manager?",
+            "Why did the manager leave?",
+            "Did you all speak with the inn manager?"
           ],
           "answerIndex": 3,
           "explanation": "conversaram = you all / they spoke (preterite)."
@@ -5459,9 +5459,9 @@
         {
           "prompt": "What is the difference between 'eles falaram' and 'eles falarão'?",
           "options": [
-            "'Falaram' is singular. (Conjugate regular ar)",
-            "'Falarão' is past tense. (Conjugate regular ar)",
-            "They are identical in pronunciation. (Conjugate regular ar)",
+            "'Falaram' is singular.",
+            "'Falarão' is past tense.",
+            "They are identical in pronunciation.",
             "'Falaram' is past tense (they spoke, stress on -la-)"
           ],
           "answerIndex": 3,
@@ -5474,10 +5474,10 @@
         {
           "prompt": "Match the preterite forms of 'morar' to their subjects: Eu, Você, A gente, Eles:",
           "options": [
-            "Eu moro, Você mora, A gente mora, Eles moram (Conjugate regular ar)",
-            "Eu morarei, Você morará, A gente morará, Eles morarão (Conjugate regular ar)",
-            "Eu morei, Você morou, A gente morou, Eles moraram (Conjugate regular ar)",
-            "All use -ou (Conjugate regular ar)"
+            "Eu moro, Você mora, A gente mora, Eles moram",
+            "Eu morarei, Você morará, A gente morará, Eles morarão",
+            "Eu morei, Você morou, A gente morou, Eles moraram",
+            "All use -ou"
           ],
           "answerIndex": 2,
           "explanation": "Regular -ar preterite conjugation with Brazilian subject pronouns.",
@@ -5486,10 +5486,10 @@
         {
           "prompt": "Translate: 'Ontem à noite nós saímos para jantar com amigos.'",
           "options": [
-            "Tonight we are going out for dinner. (Conjugate regular ar)",
-            "Last night we went out to have dinner with friends. (Conjugate regular ar)",
-            "Yesterday we cooked dinner at home. (Conjugate regular ar)",
-            "We never eat dinner with friends. (Conjugate regular ar)"
+            "Tonight we are going out for dinner.",
+            "Last night we went out to have dinner with friends.",
+            "Yesterday we cooked dinner at home.",
+            "We never eat dinner with friends."
           ],
           "answerIndex": 1,
           "explanation": "Ontem à noite = last night; saímos = we went out.",
@@ -5498,10 +5498,10 @@
         {
           "prompt": "Complete the sentence: 'Eu _______ (abrir) a janela e _______ (ouvir) o som do mar.'",
           "options": [
-            "abri / ouvi (Conjugate regular ar)",
-            "abriu / ouviu (Conjugate regular ar)",
-            "abriram / ouviram (Conjugate regular ar)",
-            "abro / ouço (Conjugate regular ar)"
+            "abri / ouvi",
+            "abriu / ouviu",
+            "abriram / ouviram",
+            "abro / ouço"
           ],
           "answerIndex": 0,
           "explanation": "Eu preterite endings for -ir verbs: abri and ouvi.",
@@ -5510,9 +5510,9 @@
         {
           "prompt": "Why is 'a gente viajou' grammatically singular even though it refers to a group of people?",
           "options": [
-            "It is a recent grammatical mistake. (Conjugate regular ar)",
-            "Because it means 'I'. (Conjugate regular ar)",
-            "Because it is an exception in slang only. (Conjugate regular ar)",
+            "It is a recent grammatical mistake.",
+            "Because it means 'I'.",
+            "Because it is an exception in slang only.",
             "Because 'a gente' originates from the singular noun 'a gente' (the people)"
           ],
           "answerIndex": 3,
@@ -5562,10 +5562,10 @@
         {
           "prompt": "What is the preterite form of 'fazer' for 'eu'?",
           "options": [
-            "eu fiz (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "eu faço (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "eu fez (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "eu fazia (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "eu fiz",
+            "eu faço",
+            "eu fez",
+            "eu fazia"
           ],
           "answerIndex": 0,
           "explanation": "Eu + fazer in preterite = fiz."
@@ -5573,10 +5573,10 @@
         {
           "prompt": "How do you say 'We had a great time in Bahia'?",
           "options": [
-            "A gente teve uma experiência maravilhosa na Bahia. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "A gente tem uma experiência. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "A gente tido uma experiência. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "A gente ter uma experiência. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "A gente teve uma experiência maravilhosa na Bahia.",
+            "A gente tem uma experiência.",
+            "A gente tido uma experiência.",
+            "A gente ter uma experiência."
           ],
           "answerIndex": 0,
           "explanation": "A gente + ter in preterite = teve."
@@ -5588,10 +5588,10 @@
         {
           "prompt": "Translate: 'Ele não veio pra aula porque teve que trabalhar.'",
           "options": [
-            "He will not come to class tomorrow. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "He is coming to class with his work. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "He didn't come to class because he had to work. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "He wanted to work in class. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "He will not come to class tomorrow.",
+            "He is coming to class with his work.",
+            "He didn't come to class because he had to work.",
+            "He wanted to work in class."
           ],
           "answerIndex": 2,
           "explanation": "veio = he came (vir); teve que = he had to (ter que)."
@@ -5599,10 +5599,10 @@
         {
           "prompt": "Which sentence uses the preterite of 'ir' correctly?",
           "options": [
-            "Ontem nós vamos à praia. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Ontem nós íamos à praia. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Ontem nós foram à praia. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Ontem nós fomos à praia de Ipanema. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "Ontem nós vamos à praia.",
+            "Ontem nós íamos à praia.",
+            "Ontem nós foram à praia.",
+            "Ontem nós fomos à praia de Ipanema."
           ],
           "answerIndex": 3,
           "explanation": "Nós + ir preterite = fomos."
@@ -5614,10 +5614,10 @@
         {
           "prompt": "Match the irregular preterites for 'você': ser/ir, ter, estar, fazer, vir:",
           "options": [
-            "foram, tiveram, estiveram, fizeram, vieram (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "foi, teve, esteve, fez, veio (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "era, tinha, estava, fazia, vinha (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "fui, tive, estive, fiz, vim (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "foram, tiveram, estiveram, fizeram, vieram",
+            "foi, teve, esteve, fez, veio",
+            "era, tinha, estava, fazia, vinha",
+            "fui, tive, estive, fiz, vim"
           ],
           "answerIndex": 1,
           "explanation": "3rd-person singular irregular preterite set.",
@@ -5626,10 +5626,10 @@
         {
           "prompt": "Translate: 'Quem deu essa dica de restaurante pra você?'",
           "options": [
-            "Who gave you this restaurant tip? (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Who is the owner of this restaurant? (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Do you want to eat at this restaurant? (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Did you go to this restaurant? (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "Who gave you this restaurant tip?",
+            "Who is the owner of this restaurant?",
+            "Do you want to eat at this restaurant?",
+            "Did you go to this restaurant?"
           ],
           "answerIndex": 0,
           "explanation": "deu = gave (preterite of dar); dica = tip.",
@@ -5638,10 +5638,10 @@
         {
           "prompt": "Why does 'pôde' have a circumflex accent in Brazilian writing?",
           "options": [
-            "Because it is a loanword. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "Because it is an imperative. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "It is purely decorative. (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "To distinguish the closed vowel in the past tense (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "Because it is a loanword.",
+            "Because it is an imperative.",
+            "It is purely decorative.",
+            "To distinguish the closed vowel in the past tense"
           ],
           "answerIndex": 3,
           "explanation": "Differential accent distinguishes past /o/ from present /ɔ/.",
@@ -5650,10 +5650,10 @@
         {
           "prompt": "Complete the sentence: 'Ontem eu _______ (ver) um pôr do sol maravilhoso no Arpoador.'",
           "options": [
-            "viram (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "vejo (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "vi (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)",
-            "viu (Conjugate and master core irregular preterite verbs in Brazilian Portuguese irser)"
+            "viram",
+            "vejo",
+            "vi",
+            "viu"
           ],
           "answerIndex": 2,
           "explanation": "Eu + ver preterite = vi.",
@@ -5702,10 +5702,10 @@
         {
           "prompt": "What does 'do nada' mean in conversational Brazilian Portuguese?",
           "options": [
-            "For free (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Never again (Deploy Brazilian Portuguese temporal markers ontem)",
-            "In the morning (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Out of nowhere / suddenly / unexpectedly (Deploy Brazilian Portuguese temporal markers ontem)"
+            "For free",
+            "Never again",
+            "In the morning",
+            "Out of nowhere / suddenly / unexpectedly"
           ],
           "answerIndex": 3,
           "explanation": "'Do nada' is popular slang for 'out of nowhere'."
@@ -5713,10 +5713,10 @@
         {
           "prompt": "How do you say 'three days ago' in spoken Brazilian Portuguese?",
           "options": [
-            "Depois de três dias (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Três dias amanhã (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Sempre três dias (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Três dias atrás (Deploy Brazilian Portuguese temporal markers ontem)"
+            "Depois de três dias",
+            "Três dias amanhã",
+            "Sempre três dias",
+            "Três dias atrás"
           ],
           "answerIndex": 3,
           "explanation": "três dias atrás = 3 days ago."
@@ -5728,10 +5728,10 @@
         {
           "prompt": "Translate: 'No final das contas, a viagem valeu super a pena.'",
           "options": [
-            "In the end, the trip was totally worth it. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "The trip was very expensive. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "We did not like the travel destination. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "We are planning the final trip. (Deploy Brazilian Portuguese temporal markers ontem)"
+            "In the end, the trip was totally worth it.",
+            "The trip was very expensive.",
+            "We did not like the travel destination.",
+            "We are planning the final trip."
           ],
           "answerIndex": 0,
           "explanation": "No final das contas = in the end; valer a pena = to be worth it."
@@ -5740,9 +5740,9 @@
           "prompt": "Why is 'aí' so ubiquitous in spoken Brazilian narratives?",
           "options": [
             "It functions as the primary conversational sequential bridge ('so then / and then')",
-            "It means 'goodbye'. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "It is a question marker. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "It is only used when angry. (Deploy Brazilian Portuguese temporal markers ontem)"
+            "It means 'goodbye'.",
+            "It is a question marker.",
+            "It is only used when angry."
           ],
           "answerIndex": 0,
           "explanation": "'Aí' links chronological clauses in lively spoken discourse."
@@ -5754,10 +5754,10 @@
         {
           "prompt": "Match the temporal phrases: anteontem, semana passada, do nada, no final:",
           "options": [
-            "anteontem: day before yesterday | semana passada: last week | do nada: out of nowhere | no final: in the end (Deploy Brazilian Portuguese temporal markers ontem)",
-            "All mean 'never' (Deploy Brazilian Portuguese temporal markers ontem)",
-            "anteontem: tomorrow | semana passada: next week | do nada: slowly | no final: first (Deploy Brazilian Portuguese temporal markers ontem)",
-            "All mean 'today' (Deploy Brazilian Portuguese temporal markers ontem)"
+            "anteontem: day before yesterday | semana passada: last week | do nada: out of nowhere | no final: in the end",
+            "All mean 'never'",
+            "anteontem: tomorrow | semana passada: next week | do nada: slowly | no final: first",
+            "All mean 'today'"
           ],
           "answerIndex": 0,
           "explanation": "Core past temporal expressions and transition connectors.",
@@ -5766,10 +5766,10 @@
         {
           "prompt": "Translate: 'Ontem à noite a gente foi num barzinho na Lapa e tomou uma caipirinha gelada.'",
           "options": [
-            "Lapa is very quiet at night. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "We don't like caipirinhas. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Tomorrow we are going to Lapa for lunch. (Deploy Brazilian Portuguese temporal markers ontem)",
-            "Last night we went to a little bar in Lapa and had an ice-cold caipirinha. (Deploy Brazilian Portuguese temporal markers ontem)"
+            "Lapa is very quiet at night.",
+            "We don't like caipirinhas.",
+            "Tomorrow we are going to Lapa for lunch.",
+            "Last night we went to a little bar in Lapa and had an ice-cold caipirinha."
           ],
           "answerIndex": 3,
           "explanation": "Ontem à noite = last night; foi num barzinho = went to a little bar.",
@@ -5778,10 +5778,10 @@
         {
           "prompt": "What does 'dar um mergulho' mean in beach culture?",
           "options": [
-            "To fish with a rod (Deploy Brazilian Portuguese temporal markers ontem)",
-            "To sunbathe on a towel (Deploy Brazilian Portuguese temporal markers ontem)",
-            "To take a quick dip / swim in the ocean (Deploy Brazilian Portuguese temporal markers ontem)",
-            "To buy coconut water (Deploy Brazilian Portuguese temporal markers ontem)"
+            "To fish with a rod",
+            "To sunbathe on a towel",
+            "To take a quick dip / swim in the ocean",
+            "To buy coconut water"
           ],
           "answerIndex": 2,
           "explanation": "Dar um mergulho = take a dip/dive into the water.",
@@ -5790,10 +5790,10 @@
         {
           "prompt": "Complete the sequence: 'No começo a gente ficou perdido, _______ pediu informação e _______ achou o restaurante.'",
           "options": [
-            "ontem / amanhã (Deploy Brazilian Portuguese temporal markers ontem)",
-            "aí / depois (Deploy Brazilian Portuguese temporal markers ontem)",
-            "do nada / atrás (Deploy Brazilian Portuguese temporal markers ontem)",
-            "nunca / sempre (Deploy Brazilian Portuguese temporal markers ontem)"
+            "ontem / amanhã",
+            "aí / depois",
+            "do nada / atrás",
+            "nunca / sempre"
           ],
           "answerIndex": 1,
           "explanation": "aí (then) and depois (afterward) complete the chronological narrative.",
@@ -5842,10 +5842,10 @@
         {
           "prompt": "What does a Brazilian mean by saying 'O passeio deu super bom!'?",
           "options": [
-            "The food was bad. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "The outing turned out fantastic / was a great success! (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "We got lost. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "The outing was canceled. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "The food was bad.",
+            "The outing turned out fantastic / was a great success!",
+            "We got lost.",
+            "The outing was canceled."
           ],
           "answerIndex": 1,
           "explanation": "'Deu bom' means things went wonderfully well."
@@ -5853,10 +5853,10 @@
         {
           "prompt": "What is the meaning of 'ficar de boa'?",
           "options": [
-            "To relax, chill out, and take it easy (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "To go to sleep early (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "To run a marathon (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "To be angry (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "To relax, chill out, and take it easy",
+            "To go to sleep early",
+            "To run a marathon",
+            "To be angry"
           ],
           "answerIndex": 0,
           "explanation": "'Ficar de boa' = chilling out peacefully."
@@ -5868,10 +5868,10 @@
         {
           "prompt": "Translate: 'No domingo a gente foi curtir um pagode ao vivo com a galera.'",
           "options": [
-            "On Sunday we went to enjoy some live pagode samba with the crew. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "The concert on Sunday was canceled. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "On Sunday we practiced samba alone. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "We don't like live music on weekends. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "On Sunday we went to enjoy some live pagode samba with the crew.",
+            "The concert on Sunday was canceled.",
+            "On Sunday we practiced samba alone.",
+            "We don't like live music on weekends."
           ],
           "answerIndex": 0,
           "explanation": "curtir um pagode ao vivo = enjoy live pagode; a galera = the crew/friends."
@@ -5879,10 +5879,10 @@
         {
           "prompt": "What is the opposite of 'deu bom' when plans go wrong?",
           "options": [
-            "Deu ruim (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "Tudo bem (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "Deu certo (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "Foi legal (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "Deu ruim",
+            "Tudo bem",
+            "Deu certo",
+            "Foi legal"
           ],
           "answerIndex": 0,
           "explanation": "'Deu ruim' is the universal expression for plans going awry."
@@ -5894,10 +5894,10 @@
         {
           "prompt": "Match the Brazilian slang terms: irado, trocar uma ideia, a galera, sussa:",
           "options": [
-            "All mean food items (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "irado: angry | trocar uma ideia: buy clothes | a galera: ship | sussa: difficult (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "All mean musical instruments (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "irado: awesome/sick | trocar uma ideia: have a chat | a galera: the crew/friends | sussa: relaxed/peaceful (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "All mean food items",
+            "irado: angry | trocar uma ideia: buy clothes | a galera: ship | sussa: difficult",
+            "All mean musical instruments",
+            "irado: awesome/sick | trocar uma ideia: have a chat | a galera: the crew/friends | sussa: relaxed/peaceful"
           ],
           "answerIndex": 3,
           "explanation": "Everyday Brazilian communicative expressions.",
@@ -5906,10 +5906,10 @@
         {
           "prompt": "Translate: 'Encontrei o Pedro no calçadão e a gente trocou uma ideia sobre a faculdade.'",
           "options": [
-            "We walked 10 miles to college. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "Pedro called me from college. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "I ran into Pedro on the boardwalk and we had a chat about college. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "Pedro is studying on the boardwalk. (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "We walked 10 miles to college.",
+            "Pedro called me from college.",
+            "I ran into Pedro on the boardwalk and we had a chat about college.",
+            "Pedro is studying on the boardwalk."
           ],
           "answerIndex": 2,
           "explanation": "calçadão = boardwalk; trocar uma ideia = have a chat.",
@@ -5918,10 +5918,10 @@
         {
           "prompt": "What is 'Pagode' in Brazilian music and social culture?",
           "options": [
-            "A classical opera form (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "An informal, communal style of festive samba played with percussion around a table with friends, food, and drinks (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "An electronic rave dance (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "A martial arts routine (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "A classical opera form",
+            "An informal, communal style of festive samba played with percussion around a table with friends, food, and drinks",
+            "An electronic rave dance",
+            "A martial arts routine"
           ],
           "answerIndex": 1,
           "explanation": "Pagode is Brazil's beloved communal weekend samba genre.",
@@ -5930,10 +5930,10 @@
         {
           "prompt": "Complete the sentence: 'A viagem pra praia foi _______ (awesome) demais, a gente se divertiu muito!'",
           "options": [
-            "massa (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "ruim (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "chato (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)",
-            "cansativo (Incorporate expressive Brazilian narrative collocations and idioms sa com a galera)"
+            "massa",
+            "ruim",
+            "chato",
+            "cansativo"
           ],
           "answerIndex": 0,
           "explanation": "'Massa' fits the positive exclamation: foi massa demais.",
@@ -6122,10 +6122,10 @@
         {
           "prompt": "How do you say 'blue sneakers' in Brazilian Portuguese?",
           "options": [
-            "tênis azul (Identify essential Brazilian Portuguese apparel)",
-            "tênis azules (Identify essential Brazilian Portuguese apparel)",
-            "tênis azula (Identify essential Brazilian Portuguese apparel)",
-            "tênis azuis (Identify essential Brazilian Portuguese apparel)"
+            "tênis azul",
+            "tênis azules",
+            "tênis azula",
+            "tênis azuis"
           ],
           "answerIndex": 3,
           "explanation": "Tênis (pl.) + azuis (plural of azul)."
@@ -6133,10 +6133,10 @@
         {
           "prompt": "What is the everyday Brazilian term for flip-flops?",
           "options": [
-            "bota (Identify essential Brazilian Portuguese apparel)",
-            "sapato social (Identify essential Brazilian Portuguese apparel)",
-            "moletom (Identify essential Brazilian Portuguese apparel)",
-            "chinelo (Identify essential Brazilian Portuguese apparel)"
+            "bota",
+            "sapato social",
+            "moletom",
+            "chinelo"
           ],
           "answerIndex": 3,
           "explanation": "Chinelo is the universal term for flip-flops/sandals."
@@ -6148,10 +6148,10 @@
         {
           "prompt": "Translate: 'Comprei uma jaqueta de couro e uns óculos de sol na feira.'",
           "options": [
-            "I sold my jacket and glasses at the market. (Identify essential Brazilian Portuguese apparel)",
-            "I am looking for a black dress. (Identify essential Brazilian Portuguese apparel)",
-            "The street fair has no sunglasses. (Identify essential Brazilian Portuguese apparel)",
-            "I bought a leather jacket and sunglasses at the street fair. (Identify essential Brazilian Portuguese apparel)"
+            "I sold my jacket and glasses at the market.",
+            "I am looking for a black dress.",
+            "The street fair has no sunglasses.",
+            "I bought a leather jacket and sunglasses at the street fair."
           ],
           "answerIndex": 3,
           "explanation": "jaqueta de couro = leather jacket; óculos de sol = sunglasses."
@@ -6159,10 +6159,10 @@
         {
           "prompt": "Which color adjective is invariant (does not change for gender or number) in Portuguese?",
           "options": [
-            "preto (Identify essential Brazilian Portuguese apparel)",
-            "branco (Identify essential Brazilian Portuguese apparel)",
-            "vermelho (Identify essential Brazilian Portuguese apparel)",
-            "cinza (Identify essential Brazilian Portuguese apparel)"
+            "preto",
+            "branco",
+            "vermelho",
+            "cinza"
           ],
           "answerIndex": 3,
           "explanation": "Cinza (grey) and rosa (pink) are derived from nouns and remain invariable."
@@ -6174,10 +6174,10 @@
         {
           "prompt": "Match the clothing terms: camiseta, bermuda, moletom, sunga:",
           "options": [
-            "camiseta: socks | bermuda: hat | moletom: shoes | sunga: coat (Identify essential Brazilian Portuguese apparel)",
-            "camiseta: T-shirt | bermuda: shorts | moletom: hoodie | sunga: men's swim briefs (Identify essential Brazilian Portuguese apparel)",
-            "All mean fabrics (Identify essential Brazilian Portuguese apparel)",
-            "All mean shoes (Identify essential Brazilian Portuguese apparel)"
+            "camiseta: socks | bermuda: hat | moletom: shoes | sunga: coat",
+            "camiseta: T-shirt | bermuda: shorts | moletom: hoodie | sunga: men's swim briefs",
+            "All mean fabrics",
+            "All mean shoes"
           ],
           "answerIndex": 1,
           "explanation": "Core Brazilian apparel vocabulary.",
@@ -6186,10 +6186,10 @@
         {
           "prompt": "Translate: 'Onde você comprou essa bolsa de praia amarela?'",
           "options": [
-            "Where did you buy that yellow beach bag? (Identify essential Brazilian Portuguese apparel)",
-            "I lost my beach towel and bag. (Identify essential Brazilian Portuguese apparel)",
-            "The yellow bag is very dirty. (Identify essential Brazilian Portuguese apparel)",
-            "How much does the yellow bag cost? (Identify essential Brazilian Portuguese apparel)"
+            "Where did you buy that yellow beach bag?",
+            "I lost my beach towel and bag.",
+            "The yellow bag is very dirty.",
+            "How much does the yellow bag cost?"
           ],
           "answerIndex": 0,
           "explanation": "bolsa de praia amarela = yellow beach bag.",
@@ -6198,10 +6198,10 @@
         {
           "prompt": "What is the difference between 'camisa' and 'camiseta' in Brazil?",
           "options": [
-            "'Camiseta' is a heavy winter coat. (Identify essential Brazilian Portuguese apparel)",
-            "'Camisa' is only for women. (Identify essential Brazilian Portuguese apparel)",
-            "They are identical synonyms. (Identify essential Brazilian Portuguese apparel)",
-            "'Camisa' is a formal button-up collared shirt; 'camiseta' is a casual T-shirt. (Identify essential Brazilian Portuguese apparel)"
+            "'Camiseta' is a heavy winter coat.",
+            "'Camisa' is only for women.",
+            "They are identical synonyms.",
+            "'Camisa' is a formal button-up collared shirt; 'camiseta' is a casual T-shirt."
           ],
           "answerIndex": 3,
           "explanation": "Camisa = collared button-up; Camiseta = T-shirt.",
@@ -6210,10 +6210,10 @@
         {
           "prompt": "Complete: 'Ela está usando um _______ (dress) vermelho e umas _______ (flip-flops) brancas.'",
           "options": [
-            "moletom / calças (Identify essential Brazilian Portuguese apparel)",
-            "jaqueta / meias (Identify essential Brazilian Portuguese apparel)",
-            "vestido / Havaianas (Identify essential Brazilian Portuguese apparel)",
-            "bermuda / botas (Identify essential Brazilian Portuguese apparel)"
+            "moletom / calças",
+            "jaqueta / meias",
+            "vestido / Havaianas",
+            "bermuda / botas"
           ],
           "answerIndex": 2,
           "explanation": "um vestido (masc. with vermelho) and Havaianas (fem. pl. with brancas).",
@@ -6262,10 +6262,10 @@
         {
           "prompt": "What does a shopkeeper mean when offering 'À vista no Pix tem desconto'?",
           "options": [
-            "Paying upfront in full via instant Pix transfer gives you a discount. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Pix is not working. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Paying in 10 installments is required. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Credit card is the only payment method. (Ask for prices with Quanto custa and Quanto t saindo)"
+            "Paying upfront in full via instant Pix transfer gives you a discount.",
+            "Pix is not working.",
+            "Paying in 10 installments is required.",
+            "Credit card is the only payment method."
           ],
           "answerIndex": 0,
           "explanation": "À vista = upfront in full; Pix = instant payment."
@@ -6273,10 +6273,10 @@
         {
           "prompt": "What is the meaning of 'cinquenta conto' in Brazilian slang?",
           "options": [
-            "50 reais (Ask for prices with Quanto custa and Quanto t saindo)",
-            "500 dollars (Ask for prices with Quanto custa and Quanto t saindo)",
-            "50 stories (Ask for prices with Quanto custa and Quanto t saindo)",
-            "50 cents (Ask for prices with Quanto custa and Quanto t saindo)"
+            "50 reais",
+            "500 dollars",
+            "50 stories",
+            "50 cents"
           ],
           "answerIndex": 0,
           "explanation": "'Conto' is colloquial slang for Brazilian reais."
@@ -6288,10 +6288,10 @@
         {
           "prompt": "Translate: 'Dá pra parcelar esse tênis em quatro vezes sem juros?'",
           "options": [
-            "These sneakers cost four hundred dollars. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Can I split these sneakers into four interest-free installments? (Ask for prices with Quanto custa and Quanto t saindo)",
-            "I want to return these four sneakers. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "The sneakers have a four percent tax. (Ask for prices with Quanto custa and Quanto t saindo)"
+            "These sneakers cost four hundred dollars.",
+            "Can I split these sneakers into four interest-free installments?",
+            "I want to return these four sneakers.",
+            "The sneakers have a four percent tax."
           ],
           "answerIndex": 1,
           "explanation": "parcelar em quatro vezes sem juros = split into 4 interest-free installments."
@@ -6299,10 +6299,10 @@
         {
           "prompt": "What does 'Quanto tá saindo?' literally and idiomatically mean?",
           "options": [
-            "When is the train leaving? (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Who is exiting the store? (Ask for prices with Quanto custa and Quanto t saindo)",
-            "How much is it going for / How much does it come out to? (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Where is the door? (Ask for prices with Quanto custa and Quanto t saindo)"
+            "When is the train leaving?",
+            "Who is exiting the store?",
+            "How much is it going for / How much does it come out to?",
+            "Where is the door?"
           ],
           "answerIndex": 2,
           "explanation": "'Quanto tá saindo?' is popular Brazilian shorthand for asking the price."
@@ -6314,10 +6314,10 @@
         {
           "prompt": "Match the Brazilian shopping terms: à vista, parcelado, sem juros, maquininha:",
           "options": [
-            "à vista: upfront in full | parcelado: in installments | sem juros: interest-free | maquininha: card terminal machine (Ask for prices with Quanto custa and Quanto t saindo)",
-            "All mean clothes (Ask for prices with Quanto custa and Quanto t saindo)",
-            "All mean days of the week (Ask for prices with Quanto custa and Quanto t saindo)",
-            "à vista: with eyes | parcelado: broken | sem juros: expensive | maquininha: small computer (Ask for prices with Quanto custa and Quanto t saindo)"
+            "à vista: upfront in full | parcelado: in installments | sem juros: interest-free | maquininha: card terminal machine",
+            "All mean clothes",
+            "All mean days of the week",
+            "à vista: with eyes | parcelado: broken | sem juros: expensive | maquininha: small computer"
           ],
           "answerIndex": 0,
           "explanation": "Core retail transaction vocabulary in Brazil.",
@@ -6326,10 +6326,10 @@
         {
           "prompt": "Translate: 'Paguei duzentos e cinquenta reais no Pix e economizei vinte e cinco reais.'",
           "options": [
-            "Pix cost 25 reais extra. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "I spent 2,500 reais on shoes. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "I will pay 250 reais tomorrow. (Ask for prices with Quanto custa and Quanto t saindo)",
-            "I paid 250 reais on Pix and saved 25 reais. (Ask for prices with Quanto custa and Quanto t saindo)"
+            "Pix cost 25 reais extra.",
+            "I spent 2,500 reais on shoes.",
+            "I will pay 250 reais tomorrow.",
+            "I paid 250 reais on Pix and saved 25 reais."
           ],
           "answerIndex": 3,
           "explanation": "economizei = I saved (economizar).",
@@ -6338,10 +6338,10 @@
         {
           "prompt": "What is 'sem juros' when looking at retail price tags in Brazil?",
           "options": [
-            "No return policy (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Without receipt (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Zero interest (Ask for prices with Quanto custa and Quanto t saindo)",
-            "Without warranty (Ask for prices with Quanto custa and Quanto t saindo)"
+            "No return policy",
+            "Without receipt",
+            "Zero interest",
+            "Without warranty"
           ],
           "answerIndex": 2,
           "explanation": "Sem juros = interest-free installments.",
@@ -6350,10 +6350,10 @@
         {
           "prompt": "Complete: 'Vou passar o cartão na _______ (card machine), pode aproximar o celular.'",
           "options": [
-            "bolsa (Ask for prices with Quanto custa and Quanto t saindo)",
-            "maquininha (Ask for prices with Quanto custa and Quanto t saindo)",
-            "bermuda (Ask for prices with Quanto custa and Quanto t saindo)",
-            "grana (Ask for prices with Quanto custa and Quanto t saindo)"
+            "bolsa",
+            "maquininha",
+            "bermuda",
+            "grana"
           ],
           "answerIndex": 1,
           "explanation": "maquininha = POS card terminal.",
@@ -6402,10 +6402,10 @@
         {
           "prompt": "What does 'tamanho G' mean in a Brazilian clothing store?",
           "options": [
-            "Size Small (Ask for clothing sizes tamanho PMGGG)",
-            "Size Medium (Ask for clothing sizes tamanho PMGGG)",
-            "Size Giant (Ask for clothing sizes tamanho PMGGG)",
-            "Size Large (Ask for clothing sizes tamanho PMGGG)"
+            "Size Small",
+            "Size Medium",
+            "Size Giant",
+            "Size Large"
           ],
           "answerIndex": 3,
           "explanation": "P = Small, M = Medium, G = Large, GG = Extra Large."
@@ -6413,10 +6413,10 @@
         {
           "prompt": "How do you ask 'Where is the fitting room?' in Portuguese?",
           "options": [
-            "Onde fica o banheiro? (Ask for clothing sizes tamanho PMGGG)",
-            "Onde fica a cozinha? (Ask for clothing sizes tamanho PMGGG)",
-            "Onde fica a praia? (Ask for clothing sizes tamanho PMGGG)",
-            "Onde fica o provador? (Ask for clothing sizes tamanho PMGGG)"
+            "Onde fica o banheiro?",
+            "Onde fica a cozinha?",
+            "Onde fica a praia?",
+            "Onde fica o provador?"
           ],
           "answerIndex": 3,
           "explanation": "O provador = the fitting room."
@@ -6428,10 +6428,10 @@
         {
           "prompt": "Translate: 'Esse vestido vestiu super bem em você, ficou lindo!'",
           "options": [
-            "This dress fits you wonderfully, it looks gorgeous! (Ask for clothing sizes tamanho PMGGG)",
-            "This dress is too expensive for you. (Ask for clothing sizes tamanho PMGGG)",
-            "This dress is the wrong color. (Ask for clothing sizes tamanho PMGGG)",
-            "You should return this dress. (Ask for clothing sizes tamanho PMGGG)"
+            "This dress fits you wonderfully, it looks gorgeous!",
+            "This dress is too expensive for you.",
+            "This dress is the wrong color.",
+            "You should return this dress."
           ],
           "answerIndex": 0,
           "explanation": "vestiu super bem = fits wonderfully; ficou lindo = looks gorgeous."
@@ -6439,10 +6439,10 @@
         {
           "prompt": "What phrase indicates that you have decided to purchase the item?",
           "options": [
-            "Vou levar! (Ask for clothing sizes tamanho PMGGG)",
-            "Não gostei. (Ask for clothing sizes tamanho PMGGG)",
-            "Tá muito caro. (Ask for clothing sizes tamanho PMGGG)",
-            "Vou embora. (Ask for clothing sizes tamanho PMGGG)"
+            "Vou levar!",
+            "Não gostei.",
+            "Tá muito caro.",
+            "Vou embora."
           ],
           "answerIndex": 0,
           "explanation": "'Vou levar' is the universal phrase for deciding to buy."
@@ -6454,10 +6454,10 @@
         {
           "prompt": "Match the fit terms: apertado, largo, vestiu bem, provador:",
           "options": [
-            "All mean colors (Ask for clothing sizes tamanho PMGGG)",
-            "All mean fabrics (Ask for clothing sizes tamanho PMGGG)",
-            "apertado: cheap | largo: expensive | vestiu bem: old | provador: shoes (Ask for clothing sizes tamanho PMGGG)",
-            "apertado: tight | largo: loose | vestiu bem: fit well | provador: fitting room (Ask for clothing sizes tamanho PMGGG)"
+            "All mean colors",
+            "All mean fabrics",
+            "apertado: cheap | largo: expensive | vestiu bem: old | provador: shoes",
+            "apertado: tight | largo: loose | vestiu bem: fit well | provador: fitting room"
           ],
           "answerIndex": 3,
           "explanation": "Essential fitting room and sizing vocabulary.",
@@ -6466,10 +6466,10 @@
         {
           "prompt": "Translate: 'Ficou um pouco apertado no peito, você pode pegar o tamanho GG?'",
           "options": [
-            "It's too big, bring size P. (Ask for clothing sizes tamanho PMGGG)",
-            "I don't want to try on size GG. (Ask for clothing sizes tamanho PMGGG)",
-            "It's a bit tight on the chest, could you grab size GG (Ask for clothing sizes tamanho PMGGG)",
-            "The shirt is dirty. (Ask for clothing sizes tamanho PMGGG)"
+            "It's too big, bring size P.",
+            "I don't want to try on size GG.",
+            "It's a bit tight on the chest, could you grab size GG",
+            "The shirt is dirty."
           ],
           "answerIndex": 2,
           "explanation": "apertado no peito = tight on chest; tamanho GG = size XL.",
@@ -6478,10 +6478,10 @@
         {
           "prompt": "What does 'experimentar' mean in a boutique?",
           "options": [
-            "To make clothes by hand (Ask for clothing sizes tamanho PMGGG)",
-            "To try on clothes or shoes (Ask for clothing sizes tamanho PMGGG)",
-            "To do a science experiment (Ask for clothing sizes tamanho PMGGG)",
-            "To buy an item immediately (Ask for clothing sizes tamanho PMGGG)"
+            "To make clothes by hand",
+            "To try on clothes or shoes",
+            "To do a science experiment",
+            "To buy an item immediately"
           ],
           "answerIndex": 1,
           "explanation": "Experimentar = to try on garments.",
@@ -6490,10 +6490,10 @@
         {
           "prompt": "Complete: 'Adorei o caimento dessa bermuda, _______ (I will take it)!'",
           "options": [
-            "vou levar (Ask for clothing sizes tamanho PMGGG)",
-            "vou embora (Ask for clothing sizes tamanho PMGGG)",
-            "ficou ruim (Ask for clothing sizes tamanho PMGGG)",
-            "não quero (Ask for clothing sizes tamanho PMGGG)"
+            "vou levar",
+            "vou embora",
+            "ficou ruim",
+            "não quero"
           ],
           "answerIndex": 0,
           "explanation": "vou levar = I'll take it.",
@@ -6542,10 +6542,10 @@
         {
           "prompt": "How do you say 'This leather bag is of better quality than that one' in Portuguese?",
           "options": [
-            "Esta bolsa é tão boa que aquela. (Form comparisons of superiority mais)",
-            "Esta bolsa de couro é de melhor qualidade do que aquela. (Form comparisons of superiority mais)",
-            "Esta bolsa é mais melhor. (Form comparisons of superiority mais)",
-            "Esta bolsa é de mais boa qualidade. (Form comparisons of superiority mais)"
+            "Esta bolsa é tão boa que aquela.",
+            "Esta bolsa de couro é de melhor qualidade do que aquela.",
+            "Esta bolsa é mais melhor.",
+            "Esta bolsa é de mais boa qualidade."
           ],
           "answerIndex": 1,
           "explanation": "Bom -> melhor (never 'mais bom' or 'mais melhor')."
@@ -6553,10 +6553,10 @@
         {
           "prompt": "What does 'uma pechincha' mean in Brazilian retail context?",
           "options": [
-            "A fantastic bargain / a steal (Form comparisons of superiority mais)",
-            "A fake item (Form comparisons of superiority mais)",
-            "A very expensive luxury (Form comparisons of superiority mais)",
-            "A broken product (Form comparisons of superiority mais)"
+            "A fantastic bargain / a steal",
+            "A fake item",
+            "A very expensive luxury",
+            "A broken product"
           ],
           "answerIndex": 0,
           "explanation": "'Uma pechincha' = a great bargain."
@@ -6569,9 +6569,9 @@
           "prompt": "Translate: 'Esse restaurante na beira da praia custa os olhos da cara.'",
           "options": [
             "This beachfront restaurant costs an arm and a leg (extremely expensive)",
-            "This restaurant is closed today. (Form comparisons of superiority mais)",
-            "This restaurant is very cheap. (Form comparisons of superiority mais)",
-            "This restaurant serves fresh fish. (Form comparisons of superiority mais)"
+            "This restaurant is closed today.",
+            "This restaurant is very cheap.",
+            "This restaurant serves fresh fish."
           ],
           "answerIndex": 0,
           "explanation": "custar os olhos da cara = to cost an arm and a leg."
@@ -6579,10 +6579,10 @@
         {
           "prompt": "Which comparative formula is used for equality with an ADJECTIVE (e.g. comfortable)?",
           "options": [
-            "tão + adjetivo + quanto (Form comparisons of superiority mais)",
-            "menos + adjetivo + como (Form comparisons of superiority mais)",
-            "tanto + adjetivo + quanto (Form comparisons of superiority mais)",
-            "mais + adjetivo + quanto (Form comparisons of superiority mais)"
+            "tão + adjetivo + quanto",
+            "menos + adjetivo + como",
+            "tanto + adjetivo + quanto",
+            "mais + adjetivo + quanto"
           ],
           "answerIndex": 0,
           "explanation": "Tão + adjective + quanto = as [adjective] as."
@@ -6594,10 +6594,10 @@
         {
           "prompt": "Match the comparative and idiom pairs: mais caro do que, tão bonito quanto, pechincha, a preço de banana:",
           "options": [
-            "All mean fruit prices (Form comparisons of superiority mais)",
-            "All mean expensive (Form comparisons of superiority mais)",
-            "mais caro do que: more expensive than | tão bonito quanto: as pretty as | pechincha: bargain | a preço de banana: dirt cheap (Form comparisons of superiority mais)",
-            "All mean free (Form comparisons of superiority mais)"
+            "All mean fruit prices",
+            "All mean expensive",
+            "mais caro do que: more expensive than | tão bonito quanto: as pretty as | pechincha: bargain | a preço de banana: dirt cheap",
+            "All mean free"
           ],
           "answerIndex": 2,
           "explanation": "Comparative and colloquial value expressions.",
@@ -6606,10 +6606,10 @@
         {
           "prompt": "Translate: 'O acabamento dessa jaqueta é de primeira, nota dez!'",
           "options": [
-            "The jacket is second-hand and broken. (Form comparisons of superiority mais)",
-            "The finish/craftsmanship of this jacket is top-notch, 10 out of 10! (Form comparisons of superiority mais)",
-            "I don't like the color of the jacket. (Form comparisons of superiority mais)",
-            "The jacket costs ten reais. (Form comparisons of superiority mais)"
+            "The jacket is second-hand and broken.",
+            "The finish/craftsmanship of this jacket is top-notch, 10 out of 10!",
+            "I don't like the color of the jacket.",
+            "The jacket costs ten reais."
           ],
           "answerIndex": 1,
           "explanation": "de primeira = top-notch; nota dez = 10 out of 10.",
@@ -6619,9 +6619,9 @@
           "prompt": "Why is 'mais melhor' ungrammatical in Portuguese?",
           "options": [
             "Because 'melhor' is already comparative ('better')",
-            "Because melhor is feminine. (Form comparisons of superiority mais)",
-            "Because mais is only for numbers. (Form comparisons of superiority mais)",
-            "It is used in formal writing. (Form comparisons of superiority mais)"
+            "Because melhor is feminine.",
+            "Because mais is only for numbers.",
+            "It is used in formal writing."
           ],
           "answerIndex": 0,
           "explanation": "'Mais melhor' is a pleonasm error.",
@@ -6630,10 +6630,10 @@
         {
           "prompt": "Complete: 'Essa loja no centro é _______ (much cheaper than) a loja do shopping.'",
           "options": [
-            "mais bom do que (Form comparisons of superiority mais)",
-            "tão barata que (Form comparisons of superiority mais)",
-            "menos barata quanto (Form comparisons of superiority mais)",
-            "muito mais barata do que (Form comparisons of superiority mais)"
+            "mais bom do que",
+            "tão barata que",
+            "menos barata quanto",
+            "muito mais barata do que"
           ],
           "answerIndex": 3,
           "explanation": "muito mais barata do que = much cheaper than.",
@@ -6822,10 +6822,10 @@
         {
           "prompt": "How do you say 'I go by bus' in Brazilian Portuguese?",
           "options": [
-            "Eu vou em ônibus. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Eu vou com ônibus. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Eu vou por ônibus. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Eu vou de ônibus. (Identify essential Brazilian public transit vocabulary o metr)"
+            "Eu vou em ônibus.",
+            "Eu vou com ônibus.",
+            "Eu vou por ônibus.",
+            "Eu vou de ônibus."
           ],
           "answerIndex": 3,
           "explanation": "Preposition 'de' is used with transportation modes: de ônibus, de metrô."
@@ -6833,10 +6833,10 @@
         {
           "prompt": "What is 'a catraca' in a Brazilian bus or metro station?",
           "options": [
-            "The driver's steering wheel (Identify essential Brazilian public transit vocabulary o metr)",
-            "The emergency brake (Identify essential Brazilian public transit vocabulary o metr)",
-            "The rear door (Identify essential Brazilian public transit vocabulary o metr)",
-            "The turnstile barrier where passengers tap cards or pay fare (Identify essential Brazilian public transit vocabulary o metr)"
+            "The driver's steering wheel",
+            "The emergency brake",
+            "The rear door",
+            "The turnstile barrier where passengers tap cards or pay fare"
           ],
           "answerIndex": 3,
           "explanation": "A catraca = the turnstile / fare gate."
@@ -6848,10 +6848,10 @@
         {
           "prompt": "Translate: 'Preciso recarregar meu Bilhete Único no totem da estação.'",
           "options": [
-            "I lost my Bilhete Único on the bus. (Identify essential Brazilian public transit vocabulary o metr)",
-            "The station totem is broken. (Identify essential Brazilian public transit vocabulary o metr)",
-            "I bought a train ticket at the window. (Identify essential Brazilian public transit vocabulary o metr)",
-            "I need to reload my Bilhete Único transit card at the station kiosk/totem. (Identify essential Brazilian public transit vocabulary o metr)"
+            "I lost my Bilhete Único on the bus.",
+            "The station totem is broken.",
+            "I bought a train ticket at the window.",
+            "I need to reload my Bilhete Único transit card at the station kiosk/totem."
           ],
           "answerIndex": 3,
           "explanation": "recarregar o Bilhete Único = reload transit card; totem = automated kiosk."
@@ -6859,10 +6859,10 @@
         {
           "prompt": "What does 'fazer baldeação' mean in Brazilian public transit?",
           "options": [
-            "To buy a bus ticket (Identify essential Brazilian public transit vocabulary o metr)",
-            "To exit the station (Identify essential Brazilian public transit vocabulary o metr)",
-            "To miss the bus (Identify essential Brazilian public transit vocabulary o metr)",
-            "To transfer / change lines between subway or bus routes (Identify essential Brazilian public transit vocabulary o metr)"
+            "To buy a bus ticket",
+            "To exit the station",
+            "To miss the bus",
+            "To transfer / change lines between subway or bus routes"
           ],
           "answerIndex": 3,
           "explanation": "Baldeação = transit transfer / connection."
@@ -6874,10 +6874,10 @@
         {
           "prompt": "Match the Brazilian transit terms: o metrô, o ponto de ônibus, a baldeação, a catraca:",
           "options": [
-            "o metrô: subway | o ponto de ônibus: bus stop | a baldeação: line transfer | a catraca: turnstile gate (Identify essential Brazilian public transit vocabulary o metr)",
-            "All mean bicycles (Identify essential Brazilian public transit vocabulary o metr)",
-            "All mean streetlights (Identify essential Brazilian public transit vocabulary o metr)",
-            "o metrô: car | o ponto de ônibus: train | a baldeação: ticket (Identify essential Brazilian public transit vocabulary o metr)"
+            "o metrô: subway | o ponto de ônibus: bus stop | a baldeação: line transfer | a catraca: turnstile gate",
+            "All mean bicycles",
+            "All mean streetlights",
+            "o metrô: car | o ponto de ônibus: train | a baldeação: ticket"
           ],
           "answerIndex": 0,
           "explanation": "Brazilian transit infrastructure matching.",
@@ -6886,10 +6886,10 @@
         {
           "prompt": "Translate: 'Pegue o ônibus número 175 no ponto e desça na terceira parada.'",
           "options": [
-            "Bus number 175 arrives at 3 o'clock. (Identify essential Brazilian public transit vocabulary o metr)",
-            "The bus stop is closed on platform three. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Walk 175 meters to the third stop. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Catch bus number 175 at the bus stop and get off at the third stop. (Identify essential Brazilian public transit vocabulary o metr)"
+            "Bus number 175 arrives at 3 o'clock.",
+            "The bus stop is closed on platform three.",
+            "Walk 175 meters to the third stop.",
+            "Catch bus number 175 at the bus stop and get off at the third stop."
           ],
           "answerIndex": 3,
           "explanation": "pegue o ônibus = catch the bus; desça na terceira parada = get off at 3rd stop.",
@@ -6898,10 +6898,10 @@
         {
           "prompt": "Why do Brazilians say 'de metrô' but 'a pé'?",
           "options": [
-            "Because feet are masculine. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Because metrô is an acronym. (Identify essential Brazilian public transit vocabulary o metr)",
-            "Portuguese uses the preposition 'de' for vehicular transport and 'a' for walking on foot (Identify essential Brazilian public transit vocabulary o metr)",
-            "It is a São Paulo dialect rule only. (Identify essential Brazilian public transit vocabulary o metr)"
+            "Because feet are masculine.",
+            "Because metrô is an acronym.",
+            "Portuguese uses the preposition 'de' for vehicular transport and 'a' for walking on foot",
+            "It is a São Paulo dialect rule only."
           ],
           "answerIndex": 2,
           "explanation": "Preposition rule: 'de' for vehicles, 'a' for 'a pé' (on foot).",
@@ -6910,10 +6910,10 @@
         {
           "prompt": "Complete: 'Aguarde o trem atrás da faixa amarela na _______ (platform).'",
           "options": [
-            "catraca (Identify essential Brazilian public transit vocabulary o metr)",
-            "plataforma (Identify essential Brazilian public transit vocabulary o metr)",
-            "avenida (Identify essential Brazilian public transit vocabulary o metr)",
-            "calçada (Identify essential Brazilian public transit vocabulary o metr)"
+            "catraca",
+            "plataforma",
+            "avenida",
+            "calçada"
           ],
           "answerIndex": 1,
           "explanation": "na plataforma = on the platform.",
@@ -6962,10 +6962,10 @@
         {
           "prompt": "How do you combine 'perto de' + 'o hospital' correctly in Portuguese?",
           "options": [
-            "perto do hospital (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "perto no hospital (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "perto de o hospital (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "perto ao hospital (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "perto do hospital",
+            "perto no hospital",
+            "perto de o hospital",
+            "perto ao hospital"
           ],
           "answerIndex": 0,
           "explanation": "De + o contracts into do."
@@ -6973,10 +6973,10 @@
         {
           "prompt": "Which verb is most naturally used in Brazil to express where a building is permanently located?",
           "options": [
-            "Ficar (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "Ser (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "Pôr (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "Ter (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "Ficar",
+            "Ser",
+            "Pôr",
+            "Ter"
           ],
           "answerIndex": 0,
           "explanation": "Ficar is the universal Brazilian verb for permanent physical locations."
@@ -6988,10 +6988,10 @@
         {
           "prompt": "Translate: 'O restaurante fica atrás da igreja e em frente ao jardim.'",
           "options": [
-            "The restaurant is inside the garden. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "The restaurant is behind the church and in front of the garden. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "The church is far from the garden. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "Where is the church restaurant? (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "The restaurant is inside the garden.",
+            "The restaurant is behind the church and in front of the garden.",
+            "The church is far from the garden.",
+            "Where is the church restaurant?"
           ],
           "answerIndex": 1,
           "explanation": "atrás da igreja = behind the church; em frente ao jardim = in front of the garden."
@@ -6999,10 +6999,10 @@
         {
           "prompt": "What is the difference between 'perto de' and 'longe de'?",
           "options": [
-            "'Perto de' means inside; 'Longe de' means outside. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "'Perto de' is for cars only. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "'Perto de' means near / close to; 'Longe de' means far from. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "They are exact synonyms. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "'Perto de' means inside; 'Longe de' means outside.",
+            "'Perto de' is for cars only.",
+            "'Perto de' means near / close to; 'Longe de' means far from.",
+            "They are exact synonyms."
           ],
           "answerIndex": 2,
           "explanation": "Perto (near) vs. Longe (far)."
@@ -7014,10 +7014,10 @@
         {
           "prompt": "Match the Portuguese spatial phrases: ao lado do, em frente à, longe da, entre:",
           "options": [
-            "All mean yesterday (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "All mean inside (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "ao lado do: far | em frente à: under | longe da: behind (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "ao lado do: next to the | em frente à: in front of the | longe da: far from the | entre: between (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "All mean yesterday",
+            "All mean inside",
+            "ao lado do: far | em frente à: under | longe da: behind",
+            "ao lado do: next to the | em frente à: in front of the | longe da: far from the | entre: between"
           ],
           "answerIndex": 3,
           "explanation": "Spatial prepositions matching.",
@@ -7026,10 +7026,10 @@
         {
           "prompt": "Translate: 'O ponto de ônibus fica na esquina da Rua Oscar Freire com a Rua Augusta.'",
           "options": [
-            "Augusta Street is closed for renovations. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "The bus stop is far from Oscar Freire. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "The bus stop is at the corner of Oscar Freire Street and Augusta Street. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "Oscar Freire Street has no buses. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "Augusta Street is closed for renovations.",
+            "The bus stop is far from Oscar Freire.",
+            "The bus stop is at the corner of Oscar Freire Street and Augusta Street.",
+            "Oscar Freire Street has no buses."
           ],
           "answerIndex": 2,
           "explanation": "na esquina de = at the corner of; com = with/and.",
@@ -7038,10 +7038,10 @@
         {
           "prompt": "Why is 'ao lado de a praia' incorrect in Portuguese?",
           "options": [
-            "Because ao lado requires no preposition. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
+            "Because ao lado requires no preposition.",
             "Because 'de' and 'a' must contract into 'da' ('ao lado da praia')",
-            "It is acceptable in slang. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "Because praia is masculine. (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "It is acceptable in slang.",
+            "Because praia is masculine."
           ],
           "answerIndex": 1,
           "explanation": "Mandatory contraction: de + a = da.",
@@ -7050,10 +7050,10 @@
         {
           "prompt": "Complete: 'A livraria fica _______ (between) o café e o banco.'",
           "options": [
-            "entre (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "longe (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "atrás (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)",
-            "ao lado (Master Brazilian Portuguese prepositions of place and spatial contractions ao lado dedoda)"
+            "entre",
+            "longe",
+            "atrás",
+            "ao lado"
           ],
           "answerIndex": 0,
           "explanation": "entre (between A and B).",
@@ -7102,10 +7102,10 @@
         {
           "prompt": "How do you tell someone 'Go straight ahead and turn right at the traffic light' in São Paulo?",
           "options": [
-            "Vire à esquerda e pare. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Atravesse a rua e volte. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Siga reto e vire à direita no farol. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Pegue o táxi para trás. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "Vire à esquerda e pare.",
+            "Atravesse a rua e volte.",
+            "Siga reto e vire à direita no farol.",
+            "Pegue o táxi para trás."
           ],
           "answerIndex": 2,
           "explanation": "Siga reto (straight) + vire à direita (turn right) + no farol (at traffic light)."
@@ -7113,10 +7113,10 @@
         {
           "prompt": "What does 'atravessar a rua' mean?",
           "options": [
-            "To clean the street (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "To drive on the street (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "To block the street (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "To cross the street (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "To clean the street",
+            "To drive on the street",
+            "To block the street",
+            "To cross the street"
           ],
           "answerIndex": 3,
           "explanation": "Atravessar a rua = to cross the street."
@@ -7128,10 +7128,10 @@
         {
           "prompt": "Translate: 'Pegue a segunda rua à esquerda e você vai ver o parque no final.'",
           "options": [
-            "Take the second street on the left and you will see the park at the end. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Take the first street on the right to the park. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Do not turn on the second street. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "The park is closed on the left. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "Take the second street on the left and you will see the park at the end.",
+            "Take the first street on the right to the park.",
+            "Do not turn on the second street.",
+            "The park is closed on the left."
           ],
           "answerIndex": 0,
           "explanation": "segunda rua à esquerda = 2nd street on left; no final = at the end."
@@ -7139,10 +7139,10 @@
         {
           "prompt": "What verb describes getting off a bus or train in Portuguese?",
           "options": [
-            "Descer (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Subir (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Caminhar (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Comprar (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "Descer",
+            "Subir",
+            "Caminhar",
+            "Comprar"
           ],
           "answerIndex": 0,
           "explanation": "Descer = to get off / alight."
@@ -7154,10 +7154,10 @@
         {
           "prompt": "Match the direction verbs: siga reto, vire à esquerda, atravesse a rua, desça do ônibus:",
           "options": [
-            "All are food verbs (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "All mean stop (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "siga reto: go straight | vire à esquerda: turn left | atravesse a rua: cross street | desça do ônibus: get off bus (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "All mean turn right (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "All are food verbs",
+            "All mean stop",
+            "siga reto: go straight | vire à esquerda: turn left | atravesse a rua: cross street | desça do ônibus: get off bus",
+            "All mean turn right"
           ],
           "answerIndex": 2,
           "explanation": "Directional imperatives matching.",
@@ -7166,10 +7166,10 @@
         {
           "prompt": "Translate: 'Para chegar ao aeroporto, pegue a Linha 13 Jade e desça na última estação.'",
           "options": [
-            "Do not take Line 13 to the airport. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "To get to the airport, catch Line 13 Jade and get off at the last station. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Line 13 Jade is delayed by 13 minutes. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "The airport is closed at the last station. (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "Do not take Line 13 to the airport.",
+            "To get to the airport, catch Line 13 Jade and get off at the last station.",
+            "Line 13 Jade is delayed by 13 minutes.",
+            "The airport is closed at the last station."
           ],
           "answerIndex": 1,
           "explanation": "pegue a Linha 13 = catch Line 13; desça na última estação = get off at last station.",
@@ -7178,10 +7178,10 @@
         {
           "prompt": "What is the common phrase used to ask 'How do I get to...?' in Portuguese?",
           "options": [
-            "Como eu faço para chegar a/ao...? (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Quem é você? (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Que horas são? (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "Quanto custa? (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "Como eu faço para chegar a/ao...?",
+            "Quem é você?",
+            "Que horas são?",
+            "Quanto custa?"
           ],
           "answerIndex": 0,
           "explanation": "'Como eu faço para chegar a...?' = How do I get to...?",
@@ -7190,10 +7190,10 @@
         {
           "prompt": "Complete: 'Vire à _______ (right) na próxima esquina.'",
           "options": [
-            "longe (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "perto (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "frente (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)",
-            "direita (Give and follow walking and transit directions using Brazilian imperativesubjunctive forms siga em frentereto)"
+            "longe",
+            "perto",
+            "frente",
+            "direita"
           ],
           "answerIndex": 3,
           "explanation": "Vire à direita = turn to the right.",
@@ -7242,10 +7242,10 @@
         {
           "prompt": "Which preposition + article contraction fills the blank for motion along a street: 'Caminhamos _______ (along the) Avenida Paulista'?",
           "options": [
-            "na (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "pela (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "com a (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "para a (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "na",
+            "pela",
+            "com a",
+            "para a"
           ],
           "answerIndex": 1,
           "explanation": "Motion along a feminine street uses pela (por + a)."
@@ -7253,10 +7253,10 @@
         {
           "prompt": "Which preposition fills the blank for purpose / in order to: 'Estudo português _______ (in order to) morar no Brasil'?",
           "options": [
-            "para (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "de (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "em (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "por (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "para",
+            "de",
+            "em",
+            "por"
           ],
           "answerIndex": 0,
           "explanation": "'Para + infinitive' expresses purpose / in order to."
@@ -7268,10 +7268,10 @@
         {
           "prompt": "Translate: 'O ônibus para Santos passa pelo terminal Jabaquara.'",
           "options": [
-            "The bus heading for Santos passes through Jabaquara terminal. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "Jabaquara has no buses to Santos. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "The bus from Santos stopped in Jabaquara. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "Santos is far from Jabaquara. (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "The bus heading for Santos passes through Jabaquara terminal.",
+            "Jabaquara has no buses to Santos.",
+            "The bus from Santos stopped in Jabaquara.",
+            "Santos is far from Jabaquara."
           ],
           "answerIndex": 0,
           "explanation": "para Santos = destination; pelo terminal = route passing through."
@@ -7280,9 +7280,9 @@
           "prompt": "What do 'pra' and 'pro' represent in spoken Brazilian Portuguese?",
           "options": [
             "Colloquial spoken contractions of 'para a' (pra)",
-            "Slang for money (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "Verb endings (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "Past tense markers (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "Slang for money",
+            "Verb endings",
+            "Past tense markers"
           ],
           "answerIndex": 0,
           "explanation": "Pra / pro are ubiquitous contractions of para + a/o."
@@ -7294,10 +7294,10 @@
         {
           "prompt": "Match the sentences with their Por / Para functions: 'Viajar por trem', 'Um bilhete para você', 'Andar pelo calçadão', 'Treinar para correr':",
           "options": [
-            "All express deadlines (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "Viajar por trem: Means | Um bilhete para você: Recipient | Andar pelo calçadão: Motion through | Treinar para correr: Purpose (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "All are past tense (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "All express costs (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "All express deadlines",
+            "Viajar por trem: Means | Um bilhete para você: Recipient | Andar pelo calçadão: Motion through | Treinar para correr: Purpose",
+            "All are past tense",
+            "All express costs"
           ],
           "answerIndex": 1,
           "explanation": "Por vs. Para use cases.",
@@ -7306,10 +7306,10 @@
         {
           "prompt": "Translate: 'Saímos para o aeroporto cedo e passamos pelo Parque Ibirapuera.'",
           "options": [
-            "We left for the airport early and passed through Ibirapuera Park. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "The airport is inside Ibirapuera Park. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "We walked away from the airport. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "We missed the flight in Ibirapuera Park. (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "We left for the airport early and passed through Ibirapuera Park.",
+            "The airport is inside Ibirapuera Park.",
+            "We walked away from the airport.",
+            "We missed the flight in Ibirapuera Park."
           ],
           "answerIndex": 0,
           "explanation": "para o aeroporto = destination; pelo parque = path passed through.",
@@ -7318,10 +7318,10 @@
         {
           "prompt": "What is the difference between 'ir por Copacabana' and 'ir para Copacabana'?",
           "options": [
-            "The second is plural. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "There is no difference. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "The first is past tense. (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "'Ir por Copacabana' means passing through Copacabana along the way; 'Ir para Copacabana' means heading toward Copacabana as your final destination. (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "The second is plural.",
+            "There is no difference.",
+            "The first is past tense.",
+            "'Ir por Copacabana' means passing through Copacabana along the way; 'Ir para Copacabana' means heading toward Copacabana as your final destination."
           ],
           "answerIndex": 3,
           "explanation": "Por (route through) vs. Para (destination towards).",
@@ -7330,10 +7330,10 @@
         {
           "prompt": "Complete: 'O trânsito parou _______ (because of) um acidente na ponte.'",
           "options": [
-            "sem (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "para (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "por causa de (Distinguish and accurately apply the fundamental differences between Por motion through space)",
-            "até (Distinguish and accurately apply the fundamental differences between Por motion through space)"
+            "sem",
+            "para",
+            "por causa de",
+            "até"
           ],
           "answerIndex": 2,
           "explanation": "por causa de = because of / cause.",
@@ -7517,10 +7517,10 @@
         {
           "prompt": "Como os brasileiros chamam informalmente o apartamento?",
           "options": [
-            "O flat exclusivamente (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "O lote (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "A chácara (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "O apê (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "O flat exclusivamente",
+            "O lote",
+            "A chácara",
+            "O apê"
           ],
           "answerIndex": 3,
           "explanation": "'O apê' is the ubiquitous Brazilian colloquial term for apartment."
@@ -7528,10 +7528,10 @@
         {
           "prompt": "Qual é a palavra brasileira para 'refrigerator'?",
           "options": [
-            "O frigorífico (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "A nevera (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "O micro-ondas (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "A geladeira (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "O frigorífico",
+            "A nevera",
+            "O micro-ondas",
+            "A geladeira"
           ],
           "answerIndex": 3,
           "explanation": "In Brazil, refrigerator is universally 'a geladeira'."
@@ -7543,10 +7543,10 @@
         {
           "prompt": "Traduza para o português do Brasil: 'The bed is in the bedroom and the sofa is in the living room.'",
           "options": [
-            "A cama fica na cozinha e a geladeira na sala. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "O guarda-roupa fica no banheiro. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "A mesa fica na varanda apenas. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "A cama fica no quarto e o sofá fica na sala. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "A cama fica na cozinha e a geladeira na sala.",
+            "O guarda-roupa fica no banheiro.",
+            "A mesa fica na varanda apenas.",
+            "A cama fica no quarto e o sofá fica na sala."
           ],
           "answerIndex": 3,
           "explanation": "Cama no quarto + sofá na sala."
@@ -7554,10 +7554,10 @@
         {
           "prompt": "Qual é o gênero gramatical de 'sofá' em português?",
           "options": [
-            "Feminino: a sofá (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "Neutro (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "Plural apenas (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "Masculino: o sofá / um sofá (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "Feminino: a sofá",
+            "Neutro",
+            "Plural apenas",
+            "Masculino: o sofá / um sofá"
           ],
           "answerIndex": 3,
           "explanation": "'Sofá' is masculine in Portuguese: o sofá."
@@ -7569,10 +7569,10 @@
         {
           "prompt": "Combine os cômodos da casa com seus significados: quarto, cozinha, banheiro, varanda:",
           "options": [
-            "quarto: garden | cozinha: bedroom | banheiro: kitchen | varanda: garage (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "All mean bedroom (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "All mean hospital (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "quarto: bedroom | cozinha: kitchen | banheiro: bathroom | varanda: balcony (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "quarto: garden | cozinha: bedroom | banheiro: kitchen | varanda: garage",
+            "All mean bedroom",
+            "All mean hospital",
+            "quarto: bedroom | cozinha: kitchen | banheiro: bathroom | varanda: balcony"
           ],
           "answerIndex": 3,
           "explanation": "Portuguese house vocabulary matching.",
@@ -7581,10 +7581,10 @@
         {
           "prompt": "O que é uma 'varanda gourmet' no contexto imobiliário brasileiro?",
           "options": [
-            "Uma cozinha sem janelas (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "Um quarto para guardar ferramentas (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "Uma varanda espaçosa com churrasqueira integrada para confraternizações sociais (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "Uma garagem fechada (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "Uma cozinha sem janelas",
+            "Um quarto para guardar ferramentas",
+            "Uma varanda espaçosa com churrasqueira integrada para confraternizações sociais",
+            "Uma garagem fechada"
           ],
           "answerIndex": 2,
           "explanation": "A varanda gourmet is a balcony equipped with a barbecue setup for entertaining.",
@@ -7593,10 +7593,10 @@
         {
           "prompt": "Traduza: 'The wardrobe is large and made of wood.'",
           "options": [
-            "A geladeira é pequena. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "O guarda-roupa é grande e de madeira. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "A cama é de ferro. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "O sofá é de plástico. (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "A geladeira é pequena.",
+            "O guarda-roupa é grande e de madeira.",
+            "A cama é de ferro.",
+            "O sofá é de plástico."
           ],
           "answerIndex": 1,
           "explanation": "O guarda-roupa é grande e de madeira.",
@@ -7605,10 +7605,10 @@
         {
           "prompt": "Complete: «Na sala de estar, temos um sofá confortável e uma _______ de centro.»",
           "options": [
-            "mesa (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "geladeira (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "pia (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)",
-            "cama (Identify and describe rooms of the house and core furniture items in Brazilian Portuguese o ap  apartamento)"
+            "mesa",
+            "geladeira",
+            "pia",
+            "cama"
           ],
           "answerIndex": 0,
           "explanation": "Mesa de centro (coffee table) sits in the living room.",
@@ -7652,10 +7652,10 @@
         {
           "prompt": "Como os brasileiros dizem 'to wash the dishes'?",
           "options": [
-            "Lavar a louça (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Passar a roupa (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Lavar o chão (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Limpar a cama (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "Lavar a louça",
+            "Passar a roupa",
+            "Lavar o chão",
+            "Limpar a cama"
           ],
           "answerIndex": 0,
           "explanation": "'Lavar a louça' is the universal Brazilian term for washing dishes."
@@ -7663,10 +7663,10 @@
         {
           "prompt": "O que significa a palavra brasileira 'faxina'?",
           "options": [
-            "Uma limpeza geral e profunda da casa (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Uma festa de aniversário (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Uma compra no supermercado (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Uma receita de comida (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "Uma limpeza geral e profunda da casa",
+            "Uma festa de aniversário",
+            "Uma compra no supermercado",
+            "Uma receita de comida"
           ],
           "answerIndex": 0,
           "explanation": "'Faxina' means a thorough deep cleaning of the house."
@@ -7678,10 +7678,10 @@
         {
           "prompt": "Traduza: 'I will sweep the bedroom and take out the trash.'",
           "options": [
-            "Vou cozinhar o almoço e dormir. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Vou varrer o quarto e tirar o lixo. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Vou comprar um sofá novo. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Vou pintar a parede de azul. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "Vou cozinhar o almoço e dormir.",
+            "Vou varrer o quarto e tirar o lixo.",
+            "Vou comprar um sofá novo.",
+            "Vou pintar a parede de azul."
           ],
           "answerIndex": 1,
           "explanation": "Varrer o quarto (sweep bedroom) + tirar o lixo (take out trash)."
@@ -7689,10 +7689,10 @@
         {
           "prompt": "Qual ferramenta com borracha é usada no Brasil com um pano de chão para limpar o piso?",
           "options": [
-            "A vassoura (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "O martelo (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "O rodo (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "A tesoura (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "A vassoura",
+            "O martelo",
+            "O rodo",
+            "A tesoura"
           ],
           "answerIndex": 2,
           "explanation": "O rodo (squeegee) with a pano de chão is the iconic Brazilian cleaning tool."
@@ -7704,10 +7704,10 @@
         {
           "prompt": "Combine as tarefas domésticas: passar o pano, tirar o lixo, lavar a louça, arrumar a cama:",
           "options": [
-            "All mean exercising (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "All mean cooking (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "passar o pano: mop floor | tirar o lixo: take out trash | lavar a louça: wash dishes | arrumar a cama: make bed (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "passar o pano: cook dinner | tirar o lixo: sleep | lavar a louça: read | arrumar a cama: watch tv (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "All mean exercising",
+            "All mean cooking",
+            "passar o pano: mop floor | tirar o lixo: take out trash | lavar a louça: wash dishes | arrumar a cama: make bed",
+            "passar o pano: cook dinner | tirar o lixo: sleep | lavar a louça: read | arrumar a cama: watch tv"
           ],
           "answerIndex": 2,
           "explanation": "Brazilian chore vocabulary matching.",
@@ -7716,10 +7716,10 @@
         {
           "prompt": "Complete a frase: «Depois do almoço, eu coloco a roupa na _______ de lavar.»",
           "options": [
-            "cama (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "máquina (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "geladeira (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "mesa (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "cama",
+            "máquina",
+            "geladeira",
+            "mesa"
           ],
           "answerIndex": 1,
           "explanation": "Máquina de lavar (washing machine).",
@@ -7728,10 +7728,10 @@
         {
           "prompt": "Por que dominar os termos de tarefas domésticas é essencial para quem divide apartamento no Brasil?",
           "options": [
-            "Para organizar a rotina de convivência e dividir as tarefas com os colegas de quarto (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Não tem utilidade prática (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Para comprar eletrônicos (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Apenas para trabalhar em hotéis (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "Para organizar a rotina de convivência e dividir as tarefas com os colegas de quarto",
+            "Não tem utilidade prática",
+            "Para comprar eletrônicos",
+            "Apenas para trabalhar em hotéis"
           ],
           "answerIndex": 0,
           "explanation": "Chore collocations are foundational for shared living and daily communication.",
@@ -7740,10 +7740,10 @@
         {
           "prompt": "Traduza: 'On Saturdays, we clean the whole house.'",
           "options": [
-            "Aos sábados, a gente viaja para a praia. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Aos sábados, a gente compra uma casa nova. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Aos sábados, a gente dorme o dia todo. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)",
-            "Aos sábados, a gente limpa a casa toda. (Describe daily household chores and responsibilities in Brazilian Portuguese using natural collocations arrumar a casa)"
+            "Aos sábados, a gente viaja para a praia.",
+            "Aos sábados, a gente compra uma casa nova.",
+            "Aos sábados, a gente dorme o dia todo.",
+            "Aos sábados, a gente limpa a casa toda."
           ],
           "answerIndex": 3,
           "explanation": "A gente limpa a casa toda.",
@@ -7787,10 +7787,10 @@
         {
           "prompt": "Qual é a terminação do pretérito imperfeito para 'eu' e 'você' em verbos regulares -ar?",
           "options": [
-            "-ei (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "-ou (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "-ava (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "-aria (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "-ei",
+            "-ou",
+            "-ava",
+            "-aria"
           ],
           "answerIndex": 2,
           "explanation": "-ar verbs take -ava for eu, você, ele, ela, and a gente in the imperfeito."
@@ -7798,10 +7798,10 @@
         {
           "prompt": "Conjugue 'brincar' para 'a gente' no pretérito imperfeito:",
           "options": [
-            "A gente brincávamos (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "A gente brincaram (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "A gente brincou (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "A gente brincava (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "A gente brincávamos",
+            "A gente brincaram",
+            "A gente brincou",
+            "A gente brincava"
           ],
           "answerIndex": 3,
           "explanation": "'A gente' takes the 3rd person singular ending: a gente brincava."
@@ -7813,10 +7813,10 @@
         {
           "prompt": "Traduza: 'When we were young, we used to play soccer every day.'",
           "options": [
-            "Quando éramos jovens, a gente jogava futebol todo dia. (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "A gente jogou futebol ontem. (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "Nós jogamos futebol agora. (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "A gente vai jogar futebol amanhã. (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "Quando éramos jovens, a gente jogava futebol todo dia.",
+            "A gente jogou futebol ontem.",
+            "Nós jogamos futebol agora.",
+            "A gente vai jogar futebol amanhã."
           ],
           "answerIndex": 0,
           "explanation": "Éramos and jogava/jogávamos express habitual past childhood actions."
@@ -7824,10 +7824,10 @@
         {
           "prompt": "Qual é a forma correta para 'eles' do verbo 'trabalhar' no imperfeito?",
           "options": [
-            "Eles trabalhavam (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "Eles trabalharam (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "Eles trabalham (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "Eles trabalharão (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "Eles trabalhavam",
+            "Eles trabalharam",
+            "Eles trabalham",
+            "Eles trabalharão"
           ],
           "answerIndex": 0,
           "explanation": "Trabalhavam (-avam) is the imperfeito form."
@@ -7839,10 +7839,10 @@
         {
           "prompt": "Conjugue 'morar' no pretérito imperfeito para: eu, você, nós, eles:",
           "options": [
-            "moro, mora, moramos, moram (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "morava, morava, morávamos, moravam (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "morarei, morará, moraremos, morarão (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "morei, morou, moramos, moraram (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "moro, mora, moramos, moram",
+            "morava, morava, morávamos, moravam",
+            "morarei, morará, moraremos, morarão",
+            "morei, morou, moramos, moraram"
           ],
           "answerIndex": 1,
           "explanation": "Complete regular -ar imperfeito paradigm.",
@@ -7851,10 +7851,10 @@
         {
           "prompt": "Qual é a diferença entre 'Ontem joguei futebol' e 'Na infância eu jogava futebol todo dia'?",
           "options": [
-            "'Joguei' é um evento pontual terminado no passado; 'jogava' descreve um hábito contínuo ou repetido (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "'Jogava' é uma dúvida (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "'Joguei' é futuro e 'jogava' é presente (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "Não há nenhuma diferença (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "'Joguei' é um evento pontual terminado no passado; 'jogava' descreve um hábito contínuo ou repetido",
+            "'Jogava' é uma dúvida",
+            "'Joguei' é futuro e 'jogava' é presente",
+            "Não há nenhuma diferença"
           ],
           "answerIndex": 0,
           "explanation": "Perfeito = completed single event; Imperfeito = continuous habitual past routine.",
@@ -7863,10 +7863,10 @@
         {
           "prompt": "Complete: «Meus avós sempre _______ (caminhar) na praia no final da tarde.»",
           "options": [
-            "caminhava (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "caminham (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "caminhou (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "caminhavam (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "caminhava",
+            "caminham",
+            "caminhou",
+            "caminhavam"
           ],
           "answerIndex": 3,
           "explanation": "Meus avós (eles) takes caminhavam.",
@@ -7875,8 +7875,8 @@
         {
           "prompt": "Verdadeiro ou falso: Em português brasileiro falado, 'a gente' e 'você' usam exatamente a mesma terminação '-ava' no imperfeito.",
           "options": [
-            "Verdadeiro (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)",
-            "Falso (Conjugate regular ar verbs in the Pretrito Imperfeito Imperfect Past Tense)"
+            "Verdadeiro",
+            "Falso"
           ],
           "answerIndex": 0,
           "explanation": "Both você and a gente share the singular -ava ending.",
@@ -7920,10 +7920,10 @@
         {
           "prompt": "Como se conjuga o verbo 'TER' para 'eu' e 'você' no pretérito imperfeito?",
           "options": [
-            "Tive (Conjugate regular erir verbs ia)",
-            "Tinha (Conjugate regular erir verbs ia)",
-            "Teria (Conjugate regular erir verbs ia)",
-            "Teve (Conjugate regular erir verbs ia)"
+            "Tive",
+            "Tinha",
+            "Teria",
+            "Teve"
           ],
           "answerIndex": 1,
           "explanation": "Ter in imperfeito is irregular: eu tinha, você tinha."
@@ -7931,10 +7931,10 @@
         {
           "prompt": "Conjugue 'IR' para 'a gente' no imperfeito:",
           "options": [
-            "A gente ia (Conjugate regular erir verbs ia)",
-            "A gente foi (Conjugate regular erir verbs ia)",
-            "A gente vai (Conjugate regular erir verbs ia)",
-            "A gente fomos (Conjugate regular erir verbs ia)"
+            "A gente ia",
+            "A gente foi",
+            "A gente vai",
+            "A gente fomos"
           ],
           "answerIndex": 0,
           "explanation": "Ir in imperfeito: a gente ia."
@@ -7946,10 +7946,10 @@
         {
           "prompt": "Traduza: 'Before, we lived in Rio and we were very happy.'",
           "options": [
-            "Antes a gente vivia no Rio e éramos muito felizes. (Conjugate regular erir verbs ia)",
-            "A gente vai morar no Rio amanhã. (Conjugate regular erir verbs ia)",
-            "Antes vivemos no Rio ontem. (Conjugate regular erir verbs ia)",
-            "Agora vivemos no Rio hoje. (Conjugate regular erir verbs ia)"
+            "Antes a gente vivia no Rio e éramos muito felizes.",
+            "A gente vai morar no Rio amanhã.",
+            "Antes vivemos no Rio ontem.",
+            "Agora vivemos no Rio hoje."
           ],
           "answerIndex": 0,
           "explanation": "Vivia and éramos describe past continuous residence and state."
@@ -7957,10 +7957,10 @@
         {
           "prompt": "Qual é a forma de 'SER' para 'nós' no pretérito imperfeito?",
           "options": [
-            "Éramos (Conjugate regular erir verbs ia)",
-            "Seremos (Conjugate regular erir verbs ia)",
-            "Fomos (Conjugate regular erir verbs ia)",
-            "Somos (Conjugate regular erir verbs ia)"
+            "Éramos",
+            "Seremos",
+            "Fomos",
+            "Somos"
           ],
           "answerIndex": 0,
           "explanation": "Nós éramos carries a written acute accent on the 'é'."
@@ -7972,10 +7972,10 @@
         {
           "prompt": "Combine os verbos irregulares no imperfeito com suas formas para 'você': SER, IR, TER, VIR:",
           "options": [
-            "SER: você era | IR: você ia | TER: você tinha | VIR: você vinha (Conjugate regular erir verbs ia)",
-            "SER: você foi | IR: você foi | TER: você teve | VIR: você veio (Conjugate regular erir verbs ia)",
-            "All mean sleeping (Conjugate regular erir verbs ia)",
-            "SER: você é | IR: você vai | TER: você tem | VIR: você vem (Conjugate regular erir verbs ia)"
+            "SER: você era | IR: você ia | TER: você tinha | VIR: você vinha",
+            "SER: você foi | IR: você foi | TER: você teve | VIR: você veio",
+            "All mean sleeping",
+            "SER: você é | IR: você vai | TER: você tem | VIR: você vem"
           ],
           "answerIndex": 0,
           "explanation": "Irregular imperfeito forms matching.",
@@ -7984,10 +7984,10 @@
         {
           "prompt": "Conjugue 'comer' para 'eles' no imperfeito:",
           "options": [
-            "Comem (Conjugate regular erir verbs ia)",
-            "Comeram (Conjugate regular erir verbs ia)",
-            "Comerão (Conjugate regular erir verbs ia)",
-            "Comiam (Conjugate regular erir verbs ia)"
+            "Comem",
+            "Comeram",
+            "Comerão",
+            "Comiam"
           ],
           "answerIndex": 3,
           "explanation": "-er verbs take -iam for eles: comiam.",
@@ -7996,10 +7996,10 @@
         {
           "prompt": "Por que o pretérito imperfeito é essencial para contar histórias de infância em português?",
           "options": [
-            "Não tem importância especial (Conjugate regular erir verbs ia)",
-            "Porque é o único tempo verbal do português (Conjugate regular erir verbs ia)",
-            "Porque ele cria o cenário de fundo (Conjugate regular erir verbs ia)",
-            "Porque substitui o presente (Conjugate regular erir verbs ia)"
+            "Não tem importância especial",
+            "Porque é o único tempo verbal do português",
+            "Porque ele cria o cenário de fundo",
+            "Porque substitui o presente"
           ],
           "answerIndex": 2,
           "explanation": "The imperfeito sets the descriptive background and habitual actions of past narratives.",
@@ -8008,10 +8008,10 @@
         {
           "prompt": "Complete: «Naquela época, nós _______ (ter) uma casa com quintal e cachorro.»",
           "options": [
-            "tivemos (Conjugate regular erir verbs ia)",
-            "tínhamos (Conjugate regular erir verbs ia)",
-            "temos (Conjugate regular erir verbs ia)",
-            "teremos (Conjugate regular erir verbs ia)"
+            "tivemos",
+            "tínhamos",
+            "temos",
+            "teremos"
           ],
           "answerIndex": 1,
           "explanation": "Nós tínhamos (we used to have).",
@@ -8055,10 +8055,10 @@
         {
           "prompt": "No texto de síntese, qual é a parte favorita do narrador no apartamento?",
           "options": [
-            "A varanda com vista da cidade e uma rede para descansar (Synthesize housing vocabulary)",
-            "O elevador (Synthesize housing vocabulary)",
-            "A garagem escura (Synthesize housing vocabulary)",
-            "O teto (Synthesize housing vocabulary)"
+            "A varanda com vista da cidade e uma rede para descansar",
+            "O elevador",
+            "A garagem escura",
+            "O teto"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'Minha parte favorita é a varanda: tem uma vista linda da cidade e uma rede ótima para descansar'."
@@ -8066,10 +8066,10 @@
         {
           "prompt": "Que expressão brasileira clássica é usada para convidar alguém a se sentir em casa?",
           "options": [
-            "Fique à vontade! (Synthesize housing vocabulary)",
-            "Não entre (Synthesize housing vocabulary)",
-            "Pague a entrada (Synthesize housing vocabulary)",
-            "Vá embora (Synthesize housing vocabulary)"
+            "Fique à vontade!",
+            "Não entre",
+            "Pague a entrada",
+            "Vá embora"
           ],
           "answerIndex": 0,
           "explanation": "'Fique à vontade' means 'Make yourself at home'."
@@ -8081,10 +8081,10 @@
         {
           "prompt": "Traduza: 'Before, we used to live in a big house with a yard and fruit trees.'",
           "options": [
-            "A gente vai comprar uma fazenda amanhã. (Synthesize housing vocabulary)",
-            "Antes a gente morava numa casa grande com quintal e árvores frutíferas. (Synthesize housing vocabulary)",
-            "Ontem visitamos uma casa antiga. (Synthesize housing vocabulary)",
-            "Agora moramos num hotel pequeno. (Synthesize housing vocabulary)"
+            "A gente vai comprar uma fazenda amanhã.",
+            "Antes a gente morava numa casa grande com quintal e árvores frutíferas.",
+            "Ontem visitamos uma casa antiga.",
+            "Agora moramos num hotel pequeno."
           ],
           "answerIndex": 1,
           "explanation": "Morava in imperfeito describes past habitual residence."
@@ -8092,10 +8092,10 @@
         {
           "prompt": "O que é 'uma rede de descanso' na cultura brasileira?",
           "options": [
-            "Uma rede de internet Wi-Fi (Synthesize housing vocabulary)",
-            "Um tecido suspenso para deitar, descansar e relaxar (Synthesize housing vocabulary)",
-            "Uma grade de segurança (Synthesize housing vocabulary)",
-            "Uma rede de pesca para o mar (Synthesize housing vocabulary)"
+            "Uma rede de internet Wi-Fi",
+            "Um tecido suspenso para deitar, descansar e relaxar",
+            "Uma grade de segurança",
+            "Uma rede de pesca para o mar"
           ],
           "answerIndex": 1,
           "explanation": "A rede de descanso is the traditional Brazilian relaxation hammock."
@@ -8107,9 +8107,9 @@
         {
           "prompt": "Quais competências principais foram consolidadas ao longo da Unidade 10 de Português Brasileiro?",
           "options": [
-            "Conjugação do futuro do subjuntivo apenas (Synthesize housing vocabulary)",
-            "Apenas nomes de animais selvagens (Synthesize housing vocabulary)",
-            "Vocabulário de aeroporto apenas (Synthesize housing vocabulary)",
+            "Conjugação do futuro do subjuntivo apenas",
+            "Apenas nomes de animais selvagens",
+            "Vocabulário de aeroporto apenas",
             "Vocabulário completo de moradia brasileira (-ava, -ia)"
           ],
           "answerIndex": 3,
@@ -8119,10 +8119,10 @@
         {
           "prompt": "Complete o provérbio popular: «Quem casa, quer _______ .»",
           "options": [
-            "praia (Synthesize housing vocabulary)",
-            "carro (Synthesize housing vocabulary)",
-            "casa (Synthesize housing vocabulary)",
-            "dinheiro (Synthesize housing vocabulary)"
+            "praia",
+            "carro",
+            "casa",
+            "dinheiro"
           ],
           "answerIndex": 2,
           "explanation": "«Quem casa, quer casa» is a classic Brazilian proverb about establishing an independent household.",
@@ -8131,10 +8131,10 @@
         {
           "prompt": "Por que o domínio do pretérito imperfeito marca a transição para o nível independente (A2/B1)?",
           "options": [
-            "Porque elimina a necessidade de aprender outros tempos verbais (Synthesize housing vocabulary)",
-            "Porque permite sair de frases isoladas e tecer narrativas ricas e emotivas sobre a história de vida e hábitos passados (Synthesize housing vocabulary)",
-            "Porque é usado apenas em exames formais (Synthesize housing vocabulary)",
-            "Não tem impacto na fluência (Synthesize housing vocabulary)"
+            "Porque elimina a necessidade de aprender outros tempos verbais",
+            "Porque permite sair de frases isoladas e tecer narrativas ricas e emotivas sobre a história de vida e hábitos passados",
+            "Porque é usado apenas em exames formais",
+            "Não tem impacto na fluência"
           ],
           "answerIndex": 1,
           "explanation": "The imperfeito empowers learners to weave continuous descriptive narratives about life history.",
@@ -8143,10 +8143,10 @@
         {
           "prompt": "Complete: «Na infância, a gente sempre _______ (brincar) na rua até o anoitecer.»",
           "options": [
-            "brincava (Synthesize housing vocabulary)",
-            "brinca (Synthesize housing vocabulary)",
-            "brincou (Synthesize housing vocabulary)",
-            "brincará (Synthesize housing vocabulary)"
+            "brincava",
+            "brinca",
+            "brincou",
+            "brincará"
           ],
           "answerIndex": 0,
           "explanation": "A gente brincava (we used to play).",
@@ -8188,10 +8188,10 @@
         {
           "prompt": "Qual é a palavra para \"stomach / belly\" em português?",
           "options": [
-            "A perna (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "O braço (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "O pé (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "A barriga / O estômago (Identificar e nomear as partes do corpo humano em portugus brasileiro)"
+            "A perna",
+            "O braço",
+            "O pé",
+            "A barriga / O estômago"
           ],
           "answerIndex": 3,
           "explanation": "A barriga e o estômago referem-se à região estomacal."
@@ -8203,10 +8203,10 @@
         {
           "prompt": "Traduza: \"My knees hurt\"",
           "options": [
-            "Lavo os joelhos (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "Comprei joelhos (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "Os joelhos correm (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "Estou com dor nos joelhos / Meus joelhos doem (Identificar e nomear as partes do corpo humano em portugus brasileiro)"
+            "Lavo os joelhos",
+            "Comprei joelhos",
+            "Os joelhos correm",
+            "Estou com dor nos joelhos / Meus joelhos doem"
           ],
           "answerIndex": 3,
           "explanation": "Estou com dor nos joelhos expresses knee pain."
@@ -8218,10 +8218,10 @@
         {
           "prompt": "Qual parte do corpo fica entre a cabeça e os ombros?",
           "options": [
-            "O tornozelo (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "O cotovelo (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "O pescoço (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "A mão (Identificar e nomear as partes do corpo humano em portugus brasileiro)"
+            "O tornozelo",
+            "O cotovelo",
+            "O pescoço",
+            "A mão"
           ],
           "answerIndex": 2,
           "explanation": "O pescoço (neck) connects head and shoulders.",
@@ -8230,10 +8230,10 @@
         {
           "prompt": "Traduza: \"He washed his hands and face.\"",
           "options": [
-            "Ele comeu arroz. (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "Ele lavou as mãos e o rosto. (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "Ele foi dormir. (Identificar e nomear as partes do corpo humano em portugus brasileiro)",
-            "Ele comprou sapatos. (Identificar e nomear as partes do corpo humano em portugus brasileiro)"
+            "Ele comeu arroz.",
+            "Ele lavou as mãos e o rosto.",
+            "Ele foi dormir.",
+            "Ele comprou sapatos."
           ],
           "answerIndex": 1,
           "explanation": "Ele lavou as mãos e o rosto is exact.",
@@ -8353,10 +8353,10 @@
         {
           "prompt": "O que significa a indicação \"tomar de 8 em 8 horas\"?",
           "options": [
-            "Take 8 pills at once (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Take 8 days later (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Take every 8 hours (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Take every 8 minutes (Comprar remdios na farmcia e compreender instrues de dosagem e bula)"
+            "Take 8 pills at once",
+            "Take 8 days later",
+            "Take every 8 hours",
+            "Take every 8 minutes"
           ],
           "answerIndex": 2,
           "explanation": "De 8 em 8 horas means every eight hours."
@@ -8368,10 +8368,10 @@
         {
           "prompt": "O que é a \"receita médica\"?",
           "options": [
-            "Doctor's prescription required to purchase regulated medicine (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "A cooking recipe (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "A store receipt (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "A train ticket (Comprar remdios na farmcia e compreender instrues de dosagem e bula)"
+            "Doctor's prescription required to purchase regulated medicine",
+            "A cooking recipe",
+            "A store receipt",
+            "A train ticket"
           ],
           "answerIndex": 0,
           "explanation": "Receita médica is the official medical prescription."
@@ -8383,10 +8383,10 @@
         {
           "prompt": "Traduza: \"Please take two tablets before going to sleep.\"",
           "options": [
-            "Por favor, tome dois comprimidos antes de dormir. (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Beba leite quente à tarde. (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Compre remédios amanhã. (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Coma dois pães no café. (Comprar remdios na farmcia e compreender instrues de dosagem e bula)"
+            "Por favor, tome dois comprimidos antes de dormir.",
+            "Beba leite quente à tarde.",
+            "Compre remédios amanhã.",
+            "Coma dois pães no café."
           ],
           "answerIndex": 0,
           "explanation": "Tome dois comprimidos antes de dormir is exact.",
@@ -8395,10 +8395,10 @@
         {
           "prompt": "Para que serve um \"xarope\"?",
           "options": [
-            "Para pintar a parede (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Para lavar o carro (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Para temperar a salada (Comprar remdios na farmcia e compreender instrues de dosagem e bula)",
-            "Para aliviar a tosse e irritação na garganta (Comprar remdios na farmcia e compreender instrues de dosagem e bula)"
+            "Para pintar a parede",
+            "Para lavar o carro",
+            "Para temperar a salada",
+            "Para aliviar a tosse e irritação na garganta"
           ],
           "answerIndex": 3,
           "explanation": "Xarope is cough syrup.",
@@ -8435,10 +8435,10 @@
         {
           "prompt": "Qual bebida natural brasileira é famosa pela hidratação e eletrólitos?",
           "options": [
-            "Café puro com açúcar (Conversar sobre estilo de vida saudvel)",
-            "Água de coco (Conversar sobre estilo de vida saudvel)",
-            "Vinho tinto (Conversar sobre estilo de vida saudvel)",
-            "Refrigerante açucarado (Conversar sobre estilo de vida saudvel)"
+            "Café puro com açúcar",
+            "Água de coco",
+            "Vinho tinto",
+            "Refrigerante açucarado"
           ],
           "answerIndex": 1,
           "explanation": "Água de coco is the quintessential natural Brazilian hydrator."
@@ -8450,10 +8450,10 @@
         {
           "prompt": "Complete: \"Dormir bem é essencial para a ______ muscular.\"",
           "options": [
-            "recuperação (Conversar sobre estilo de vida saudvel)",
-            "festa (Conversar sobre estilo de vida saudvel)",
-            "corrida (Conversar sobre estilo de vida saudvel)",
-            "conversa (Conversar sobre estilo de vida saudvel)"
+            "recuperação",
+            "festa",
+            "corrida",
+            "conversa"
           ],
           "answerIndex": 0,
           "explanation": "Recuperação muscular = muscle recovery."
@@ -8465,10 +8465,10 @@
         {
           "prompt": "Quais desses são hábitos de vida saudável comprovados?",
           "options": [
-            "Fumar e não beber água (Conversar sobre estilo de vida saudvel)",
-            "Dormir 3 horas por noite e comer fritura (Conversar sobre estilo de vida saudvel)",
-            "Ficar sentado o dia inteiro sem se mover (Conversar sobre estilo de vida saudvel)",
-            "Alimentação balanceada, hidratação e exercícios regulares (Conversar sobre estilo de vida saudvel)"
+            "Fumar e não beber água",
+            "Dormir 3 horas por noite e comer fritura",
+            "Ficar sentado o dia inteiro sem se mover",
+            "Alimentação balanceada, hidratação e exercícios regulares"
           ],
           "answerIndex": 3,
           "explanation": "Balanced diet, hydration, and regular exercise.",
@@ -8477,10 +8477,10 @@
         {
           "prompt": "Traduza: \"Taking care of your health is an investment in your future.\"",
           "options": [
-            "O hospital está longe. (Conversar sobre estilo de vida saudvel)",
-            "A saúde não tem importância. (Conversar sobre estilo de vida saudvel)",
-            "Cuidar da sua saúde é um investimento no seu futuro. (Conversar sobre estilo de vida saudvel)",
-            "Comprar remédios é bom. (Conversar sobre estilo de vida saudvel)"
+            "O hospital está longe.",
+            "A saúde não tem importância.",
+            "Cuidar da sua saúde é um investimento no seu futuro.",
+            "Comprar remédios é bom."
           ],
           "answerIndex": 2,
           "explanation": "Cuidar da sua saúde é um investimento no seu futuro is exact.",
@@ -8517,10 +8517,10 @@
         {
           "prompt": "O que é um \"atestado médico\"?",
           "options": [
-            "Documento oficial do médico justificando repouso e afastamento do trabalho (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Uma receita de bolo (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Um bilhete de metrô (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Uma conta de luz (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)"
+            "Documento oficial do médico justificando repouso e afastamento do trabalho",
+            "Uma receita de bolo",
+            "Um bilhete de metrô",
+            "Uma conta de luz"
           ],
           "answerIndex": 0,
           "explanation": "Atestado médico is the official sick note for employers."
@@ -8532,10 +8532,10 @@
         {
           "prompt": "O que o médico pede quando diz \"Respire fundo pela boca\"?",
           "options": [
-            "Drink a glass of water (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Take a deep breath through your mouth (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Run to the door (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Close your eyes and sleep (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)"
+            "Drink a glass of water",
+            "Take a deep breath through your mouth",
+            "Run to the door",
+            "Close your eyes and sleep"
           ],
           "answerIndex": 1,
           "explanation": "Respire fundo instructs deep inhalation for stethoscope exam."
@@ -8547,10 +8547,10 @@
         {
           "prompt": "Ordene o fluxo típico de uma consulta médica:",
           "options": [
-            "1. Pagar -> 2. Dormir -> 3. Consulta (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "1. Tomar remédio -> 2. Ficar doente -> 3. Ir ao hospital (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "1. Acolhimento e triagem -> 2. Relato dos sintomas -> 3. Exame físico -> 4. Prescrição e orientações (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "1. Sair -> 2. Entrar -> 3. Correr (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)"
+            "1. Pagar -> 2. Dormir -> 3. Consulta",
+            "1. Tomar remédio -> 2. Ficar doente -> 3. Ir ao hospital",
+            "1. Acolhimento e triagem -> 2. Relato dos sintomas -> 3. Exame físico -> 4. Prescrição e orientações",
+            "1. Sair -> 2. Entrar -> 3. Correr"
           ],
           "answerIndex": 2,
           "explanation": "Standard clinical consultation workflow.",
@@ -8559,10 +8559,10 @@
         {
           "prompt": "Traduza: \"The doctor recommended three days of complete rest at home.\"",
           "options": [
-            "O médico foi embora ontem. (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "O médico recomendou três dias de repouso absoluto em casa. (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "O hospital fechou às três horas. (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)",
-            "Comprei remédios para três anos. (Simular uma consulta mdica completa em um posto de sade ou consultrio no Brasil)"
+            "O médico foi embora ontem.",
+            "O médico recomendou três dias de repouso absoluto em casa.",
+            "O hospital fechou às três horas.",
+            "Comprei remédios para três anos."
           ],
           "answerIndex": 1,
           "explanation": "O médico recomendou três dias de repouso absoluto em casa is exact.",
@@ -8599,10 +8599,10 @@
         {
           "prompt": "Como se diz \"I work as a software engineer\" em português?",
           "options": [
-            "Eu sou software (Nomear profisses)",
-            "Gosto de computador (Nomear profisses)",
-            "Moro no escritório (Nomear profisses)",
-            "Trabalho como engenheiro de software (Nomear profisses)"
+            "Eu sou software",
+            "Gosto de computador",
+            "Moro no escritório",
+            "Trabalho como engenheiro de software"
           ],
           "answerIndex": 3,
           "explanation": "Trabalho como engenheiro de software is exact."
@@ -8614,10 +8614,10 @@
         {
           "prompt": "O que faz um \"analista de dados\"?",
           "options": [
-            "Conserta carros (Nomear profisses)",
-            "Vende roupas em shopping (Nomear profisses)",
-            "Pinta paredes (Nomear profisses)",
-            "Analisa dados estatísticos para gerar insights de negócios (Nomear profisses)"
+            "Conserta carros",
+            "Vende roupas em shopping",
+            "Pinta paredes",
+            "Analisa dados estatísticos para gerar insights de negócios"
           ],
           "answerIndex": 3,
           "explanation": "Data analyst role."
@@ -8629,10 +8629,10 @@
         {
           "prompt": "Qual é o principal centro financeiro e de startups do Brasil?",
           "options": [
-            "O Pantanal (Nomear profisses)",
-            "São Paulo (Nomear profisses)",
-            "Fernando de Noronha (Nomear profisses)",
-            "A floresta Amazônica (Nomear profisses)"
+            "O Pantanal",
+            "São Paulo",
+            "Fernando de Noronha",
+            "A floresta Amazônica"
           ],
           "answerIndex": 1,
           "explanation": "São Paulo financial center.",
@@ -8641,10 +8641,10 @@
         {
           "prompt": "Traduza: \"She works as a project manager at a multinational company.\"",
           "options": [
-            "Ela trabalha como gerente de projetos em uma multinacional. (Nomear profisses)",
-            "Ela comprou um carro novo. (Nomear profisses)",
-            "O escritório está vazio. (Nomear profisses)",
-            "Ela estuda na escola primária. (Nomear profisses)"
+            "Ela trabalha como gerente de projetos em uma multinacional.",
+            "Ela comprou um carro novo.",
+            "O escritório está vazio.",
+            "Ela estuda na escola primária."
           ],
           "answerIndex": 0,
           "explanation": "Accurate business translation.",
@@ -8682,9 +8682,9 @@
           "prompt": "O que significa \"trabalho híbrido\"?",
           "options": [
             "Modelo onde se trabalha alguns dias em casa (home office)",
-            "Trabalhar no exterior (Descrever a rotina do escritrio)",
-            "Trabalhar sem computador (Descrever a rotina do escritrio)",
-            "Trabalhar apenas à noite (Descrever a rotina do escritrio)"
+            "Trabalhar no exterior",
+            "Trabalhar sem computador",
+            "Trabalhar apenas à noite"
           ],
           "answerIndex": 0,
           "explanation": "Hybrid work model."
@@ -8696,10 +8696,10 @@
         {
           "prompt": "O que significa a expressão \"cumprir o prazo\"?",
           "options": [
-            "Entregar a tarefa ou projeto dentro do prazo limite (Descrever a rotina do escritrio)",
-            "Atrasar o projeto (Descrever a rotina do escritrio)",
-            "Cancelar o contrato (Descrever a rotina do escritrio)",
-            "Esquecer o trabalho (Descrever a rotina do escritrio)"
+            "Entregar a tarefa ou projeto dentro do prazo limite",
+            "Atrasar o projeto",
+            "Cancelar o contrato",
+            "Esquecer o trabalho"
           ],
           "answerIndex": 0,
           "explanation": "Meeting the deadline."
@@ -8711,10 +8711,10 @@
         {
           "prompt": "Qual bebida é tradicionalmente compartilhada nos escritórios brasileiros durante pausas?",
           "options": [
-            "O cafezinho brasileiro (Descrever a rotina do escritrio)",
-            "Água com sal (Descrever a rotina do escritrio)",
-            "Sopa de peixe (Descrever a rotina do escritrio)",
-            "Refrigerante quente (Descrever a rotina do escritrio)"
+            "O cafezinho brasileiro",
+            "Água com sal",
+            "Sopa de peixe",
+            "Refrigerante quente"
           ],
           "answerIndex": 0,
           "explanation": "O cafezinho is the classic office ritual.",
@@ -8723,10 +8723,10 @@
         {
           "prompt": "Traduza: \"We have an important videoconference with our clients this afternoon.\"",
           "options": [
-            "Não tenho computador. (Descrever a rotina do escritrio)",
-            "O cliente mora na praia. (Descrever a rotina do escritrio)",
-            "Almoçamos no restaurante ontem. (Descrever a rotina do escritrio)",
-            "Temos uma videoconferência importante com nossos clientes hoje à tarde. (Descrever a rotina do escritrio)"
+            "Não tenho computador.",
+            "O cliente mora na praia.",
+            "Almoçamos no restaurante ontem.",
+            "Temos uma videoconferência importante com nossos clientes hoje à tarde."
           ],
           "answerIndex": 3,
           "explanation": "Accurate business translation.",
@@ -8763,10 +8763,10 @@
         {
           "prompt": "Como avisar a alguém em uma chamada que o microfone dele está desligado?",
           "options": [
-            "Você não tem tela. (Vocabulrio de informtica)",
-            "Desligue o computador. (Vocabulrio de informtica)",
-            "Você está no mudo! Desmuta o microfone. (Vocabulrio de informtica)",
-            "Feche a porta. (Vocabulrio de informtica)"
+            "Você não tem tela.",
+            "Desligue o computador.",
+            "Você está no mudo! Desmuta o microfone.",
+            "Feche a porta."
           ],
           "answerIndex": 2,
           "explanation": "Você está no mudo is standard."
@@ -8778,10 +8778,10 @@
         {
           "prompt": "O que significa \"compartilhar a tela\"?",
           "options": [
-            "Exibir a tela do seu computador para os outros participantes da reunião (Vocabulrio de informtica)",
-            "Quebrar a tela do monitor (Vocabulrio de informtica)",
-            "Desligar a internet (Vocabulrio de informtica)",
-            "Comprar um monitor novo (Vocabulrio de informtica)"
+            "Exibir a tela do seu computador para os outros participantes da reunião",
+            "Quebrar a tela do monitor",
+            "Desligar a internet",
+            "Comprar um monitor novo"
           ],
           "answerIndex": 0,
           "explanation": "Sharing screen in meetings."
@@ -8793,10 +8793,10 @@
         {
           "prompt": "Como se diz \"password\" em português?",
           "options": [
-            "O arquivo (Vocabulrio de informtica)",
-            "A pasta (Vocabulrio de informtica)",
-            "O teclado (Vocabulrio de informtica)",
-            "A senha (Vocabulrio de informtica)"
+            "O arquivo",
+            "A pasta",
+            "O teclado",
+            "A senha"
           ],
           "answerIndex": 3,
           "explanation": "Senha is password.",
@@ -8805,10 +8805,10 @@
         {
           "prompt": "Traduza: \"Please enter your username and password to log in.\"",
           "options": [
-            "A tela está suja. (Vocabulrio de informtica)",
-            "O mouse quebrou. (Vocabulrio de informtica)",
-            "Por favor, insira seu nome de usuário e senha para fazer login. (Vocabulrio de informtica)",
-            "Compre um novo computador. (Vocabulrio de informtica)"
+            "A tela está suja.",
+            "O mouse quebrou.",
+            "Por favor, insira seu nome de usuário e senha para fazer login.",
+            "Compre um novo computador."
           ],
           "answerIndex": 2,
           "explanation": "Accurate interface instruction.",
@@ -8845,10 +8845,10 @@
         {
           "prompt": "Qual é o fechamento formal mais utilizado em e-mails comerciais no Brasil?",
           "options": [
-            "Falou mano (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Atenciosamente, / Cordialmente, (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Até o ano que vem (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Tchauzinho! (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)"
+            "Falou mano",
+            "Atenciosamente, / Cordialmente,",
+            "Até o ano que vem",
+            "Tchauzinho!"
           ],
           "answerIndex": 1,
           "explanation": "Atenciosamente is the gold standard closing."
@@ -8860,10 +8860,10 @@
         {
           "prompt": "Como dizer formalmente que um arquivo está anexado à mensagem?",
           "options": [
-            "Segue em anexo o arquivo solicitado. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Procure na internet. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "O arquivo sumiu. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Não envio nada. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)"
+            "Segue em anexo o arquivo solicitado.",
+            "Procure na internet.",
+            "O arquivo sumiu.",
+            "Não envio nada."
           ],
           "answerIndex": 0,
           "explanation": "Segue em anexo is standard."
@@ -8875,10 +8875,10 @@
         {
           "prompt": "O que significa a expressão \"Fico à disposição\"?",
           "options": [
-            "Vou sair de férias agora (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "O escritório fechou (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Estou disponível para ajudar ou responder eventuais dúvidas (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Não quero mais conversar (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)"
+            "Vou sair de férias agora",
+            "O escritório fechou",
+            "Estou disponível para ajudar ou responder eventuais dúvidas",
+            "Não quero mais conversar"
           ],
           "answerIndex": 2,
           "explanation": "Fico à disposição means I remain at your disposal.",
@@ -8887,10 +8887,10 @@
         {
           "prompt": "Traduza: \"Thank you for your prompt reply.\"",
           "options": [
-            "Você demorou muito. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Muito obrigado pela sua pronta resposta. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "O telefone está sem bateria. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)",
-            "Não recebi sua mensagem. (Redigir emails corporativos e correspondncia profissional em portugus brasileiro)"
+            "Você demorou muito.",
+            "Muito obrigado pela sua pronta resposta.",
+            "O telefone está sem bateria.",
+            "Não recebi sua mensagem."
           ],
           "answerIndex": 1,
           "explanation": "Accurate business gratitude.",
@@ -8927,10 +8927,10 @@
         {
           "prompt": "O que significa \"pretensão salarial\" em uma entrevista de trabalho?",
           "options": [
-            "O salário que o candidato espera receber na vaga (Simular uma entrevista de emprego no Brasil)",
-            "O preço do almoço (Simular uma entrevista de emprego no Brasil)",
-            "O custo dos impostos do governo (Simular uma entrevista de emprego no Brasil)",
-            "O valor da passagem (Simular uma entrevista de emprego no Brasil)"
+            "O salário que o candidato espera receber na vaga",
+            "O preço do almoço",
+            "O custo dos impostos do governo",
+            "O valor da passagem"
           ],
           "answerIndex": 0,
           "explanation": "Pretensão salarial is the candidate's expected compensation."
@@ -8942,10 +8942,10 @@
         {
           "prompt": "Como destacar a habilidade de colaborar eficazmente com os colegas?",
           "options": [
-            "Não gosto de reuniões. (Simular uma entrevista de emprego no Brasil)",
-            "Tenho facilidade para trabalhar em equipe e comunicar ideias. (Simular uma entrevista de emprego no Brasil)",
-            "Não falo com ninguém. (Simular uma entrevista de emprego no Brasil)",
-            "Trabalho apenas sozinho. (Simular uma entrevista de emprego no Brasil)"
+            "Não gosto de reuniões.",
+            "Tenho facilidade para trabalhar em equipe e comunicar ideias.",
+            "Não falo com ninguém.",
+            "Trabalho apenas sozinho."
           ],
           "answerIndex": 1,
           "explanation": "Teamwork competency highlight."
@@ -8957,10 +8957,10 @@
         {
           "prompt": "Qual documento você envia para se candidatar a uma vaga de emprego?",
           "options": [
-            "A carteira de vacinação (Simular uma entrevista de emprego no Brasil)",
-            "O currículo (Simular uma entrevista de emprego no Brasil)",
-            "O comprovante de luz (Simular uma entrevista de emprego no Brasil)",
-            "A fatura do cartão (Simular uma entrevista de emprego no Brasil)"
+            "A carteira de vacinação",
+            "O currículo",
+            "O comprovante de luz",
+            "A fatura do cartão"
           ],
           "answerIndex": 1,
           "explanation": "Curriculum Vitae / LinkedIn profile.",
@@ -8969,10 +8969,10 @@
         {
           "prompt": "Traduza: \"I have strong problem-solving and analytical skills.\"",
           "options": [
-            "Tenho fortes habilidades analíticas e facilidade para resolver problemas complexos. (Simular uma entrevista de emprego no Brasil)",
-            "Não sei usar computadores. (Simular uma entrevista de emprego no Brasil)",
-            "Prefiro não ter desafios. (Simular uma entrevista de emprego no Brasil)",
-            "A vaga está fechada. (Simular uma entrevista de emprego no Brasil)"
+            "Tenho fortes habilidades analíticas e facilidade para resolver problemas complexos.",
+            "Não sei usar computadores.",
+            "Prefiro não ter desafios.",
+            "A vaga está fechada."
           ],
           "answerIndex": 0,
           "explanation": "Accurate competency statement.",
@@ -9009,10 +9009,10 @@
         {
           "prompt": "Como se chama o violão acústico clássico em português do Brasil?",
           "options": [
-            "A guitarra elétrica (Expressar passatempos)",
-            "O cavaquinho (Expressar passatempos)",
-            "O piano (Expressar passatempos)",
-            "O violão (Expressar passatempos)"
+            "A guitarra elétrica",
+            "O cavaquinho",
+            "O piano",
+            "O violão"
           ],
           "answerIndex": 3,
           "explanation": "Violão is acoustic guitar."
@@ -9024,10 +9024,10 @@
         {
           "prompt": "Traduza: \"In my free time, I love going to the beach and playing volleyball.\"",
           "options": [
-            "Eu não gosto de sol. (Expressar passatempos)",
-            "A praia está fechada. (Expressar passatempos)",
-            "Não tenho tempo livre. (Expressar passatempos)",
-            "No meu tempo livre, adoro ir à praia e jogar vôlei. (Expressar passatempos)"
+            "Eu não gosto de sol.",
+            "A praia está fechada.",
+            "Não tenho tempo livre.",
+            "No meu tempo livre, adoro ir à praia e jogar vôlei."
           ],
           "answerIndex": 3,
           "explanation": "Accurate leisure translation."
@@ -9039,10 +9039,10 @@
         {
           "prompt": "Qual é o parque urbano mais famoso e frequentado de São Paulo para lazer e esporte?",
           "options": [
-            "Parque do Ibirapuera (Expressar passatempos)",
-            "Hyde Park (Expressar passatempos)",
-            "Floresta da Tijuca (Expressar passatempos)",
-            "Central Park (Expressar passatempos)"
+            "Parque do Ibirapuera",
+            "Hyde Park",
+            "Floresta da Tijuca",
+            "Central Park"
           ],
           "answerIndex": 0,
           "explanation": "Parque do Ibirapuera in São Paulo.",
@@ -9051,10 +9051,10 @@
         {
           "prompt": "Complete: \"Aos domingos, nossa família se reúne para fazer um ______ na brasa.\"",
           "options": [
-            "computador (Expressar passatempos)",
-            "casaco (Expressar passatempos)",
-            "sapato (Expressar passatempos)",
-            "churrasco (Expressar passatempos)"
+            "computador",
+            "casaco",
+            "sapato",
+            "churrasco"
           ],
           "answerIndex": 3,
           "explanation": "Churrasco is the classic Sunday gathering.",
@@ -9091,10 +9091,10 @@
         {
           "prompt": "Qual é o mítico templo sagrado do futebol brasileiro localizado no Rio de Janeiro?",
           "options": [
-            "O Estádio do Maracanã (Cultura do futebol brasileiro)",
-            "Santiago Bernabéu (Cultura do futebol brasileiro)",
-            "O Coliseu (Cultura do futebol brasileiro)",
-            "Wembley (Cultura do futebol brasileiro)"
+            "O Estádio do Maracanã",
+            "Santiago Bernabéu",
+            "O Coliseu",
+            "Wembley"
           ],
           "answerIndex": 0,
           "explanation": "Maracanã stadium."
@@ -9106,10 +9106,10 @@
         {
           "prompt": "O que é a \"altinha\" nas praias do Rio de Janeiro?",
           "options": [
-            "Um jogo cooperativo em círculo onde os participantes mantêm a bola no ar com pés, cabeça e ombros sem usar as mãos (Cultura do futebol brasileiro)",
-            "Uma corrida de barcos (Cultura do futebol brasileiro)",
-            "Um mergulho profundo (Cultura do futebol brasileiro)",
-            "Uma aula de dança (Cultura do futebol brasileiro)"
+            "Um jogo cooperativo em círculo onde os participantes mantêm a bola no ar com pés, cabeça e ombros sem usar as mãos",
+            "Uma corrida de barcos",
+            "Um mergulho profundo",
+            "Uma aula de dança"
           ],
           "answerIndex": 0,
           "explanation": "Altinha is beach ball juggling in a circle."
@@ -9121,10 +9121,10 @@
         {
           "prompt": "Quantas Copas do Mundo de Futebol a Seleção Brasileira masculina conquistou (Pentacampeã)?",
           "options": [
-            "2 títulos (Cultura do futebol brasileiro)",
-            "8 títulos (Cultura do futebol brasileiro)",
-            "Nenhum (Cultura do futebol brasileiro)",
-            "5 títulos mundiais (Cultura do futebol brasileiro)"
+            "2 títulos",
+            "8 títulos",
+            "Nenhum",
+            "5 títulos mundiais"
           ],
           "answerIndex": 3,
           "explanation": "5 World Cup titles (Pentacampeão).",
@@ -9133,10 +9133,10 @@
         {
           "prompt": "Traduza: \"Our team scored a goal in extra time and won the championship.\"",
           "options": [
-            "Não houve jogo. (Cultura do futebol brasileiro)",
-            "O estádio estava vazio. (Cultura do futebol brasileiro)",
-            "Nosso time marcou um gol nos acréscimos e foi campeão. (Cultura do futebol brasileiro)",
-            "Perdemos o jogo ontem. (Cultura do futebol brasileiro)"
+            "Não houve jogo.",
+            "O estádio estava vazio.",
+            "Nosso time marcou um gol nos acréscimos e foi campeão.",
+            "Perdemos o jogo ontem."
           ],
           "answerIndex": 2,
           "explanation": "Accurate football championship translation.",
@@ -9173,10 +9173,10 @@
         {
           "prompt": "Quem compôs o clássico mundial \"Garota de Ipanema\" ao lado de Vinicius de Moraes?",
           "options": [
-            "Mozart (Gneros musicais brasileiros Samba)",
-            "Bob Marley (Gneros musicais brasileiros Samba)",
-            "Tom Jobim (Gneros musicais brasileiros Samba)",
-            "Beethoven (Gneros musicais brasileiros Samba)"
+            "Mozart",
+            "Bob Marley",
+            "Tom Jobim",
+            "Beethoven"
           ],
           "answerIndex": 2,
           "explanation": "Tom Jobim."
@@ -9188,10 +9188,10 @@
         {
           "prompt": "Qual museu famoso em São Paulo tem seu edifício suspenso por quatro pilares vermelhos na Paulista?",
           "options": [
-            "MASP (Gneros musicais brasileiros Samba)",
-            "Museu do Louvre (Gneros musicais brasileiros Samba)",
-            "British Museum (Gneros musicais brasileiros Samba)",
-            "MoMA (Gneros musicais brasileiros Samba)"
+            "MASP",
+            "Museu do Louvre",
+            "British Museum",
+            "MoMA"
           ],
           "answerIndex": 0,
           "explanation": "MASP."
@@ -9203,10 +9203,10 @@
         {
           "prompt": "Qual instrumento de fole é o coração sonoro do Forró e do Baião nordestino?",
           "options": [
-            "A gaita de foles (Gneros musicais brasileiros Samba)",
-            "A harpa (Gneros musicais brasileiros Samba)",
-            "A sanfona / acordeom (Gneros musicais brasileiros Samba)",
-            "O trompete (Gneros musicais brasileiros Samba)"
+            "A gaita de foles",
+            "A harpa",
+            "A sanfona / acordeom",
+            "O trompete"
           ],
           "answerIndex": 2,
           "explanation": "A sanfona.",
@@ -9215,10 +9215,10 @@
         {
           "prompt": "Traduza: \"We bought tickets for the live music festival in Rio de Janeiro.\"",
           "options": [
-            "O show foi cancelado. (Gneros musicais brasileiros Samba)",
-            "Compramos ingressos para o festival de música ao vivo no Rio de Janeiro. (Gneros musicais brasileiros Samba)",
-            "Não gostamos de música. (Gneros musicais brasileiros Samba)",
-            "Vendemos os ingressos ontem. (Gneros musicais brasileiros Samba)"
+            "O show foi cancelado.",
+            "Compramos ingressos para o festival de música ao vivo no Rio de Janeiro.",
+            "Não gostamos de música.",
+            "Vendemos os ingressos ontem."
           ],
           "answerIndex": 1,
           "explanation": "Accurate festival ticket translation.",
@@ -9337,10 +9337,10 @@
         {
           "prompt": "Qual consagrada atriz brasileira foi indicada ao Oscar de Melhor Atriz por \"Central do Brasil\"?",
           "options": [
-            "Fernanda Montenegro (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "Gisele Bündchen (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "Anitta (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "Ivete Sangalo (Escrever uma resenha e avaliao crtica sobre filmes)"
+            "Fernanda Montenegro",
+            "Gisele Bündchen",
+            "Anitta",
+            "Ivete Sangalo"
           ],
           "answerIndex": 0,
           "explanation": "Fernanda Montenegro."
@@ -9352,10 +9352,10 @@
         {
           "prompt": "O que significa o termo \"trilha sonora\" em uma produção audiovisual?",
           "options": [
-            "O projetor de vídeo (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "A poltrona da sala (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "O conjunto de músicas e composições sonoras que acompanham o filme (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "O cartaz do cinema (Escrever uma resenha e avaliao crtica sobre filmes)"
+            "O projetor de vídeo",
+            "A poltrona da sala",
+            "O conjunto de músicas e composições sonoras que acompanham o filme",
+            "O cartaz do cinema"
           ],
           "answerIndex": 2,
           "explanation": "Trilha sonora is the musical soundtrack."
@@ -9367,10 +9367,10 @@
         {
           "prompt": "Qual clássico do cinema brasileiro dirigido por Fernando Meirelles recebeu 4 indicações ao Oscar?",
           "options": [
-            "Cidade de Deus (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "Tropa de Elite (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "O Auto da Compadecida (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "Bacurau (Escrever uma resenha e avaliao crtica sobre filmes)"
+            "Cidade de Deus",
+            "Tropa de Elite",
+            "O Auto da Compadecida",
+            "Bacurau"
           ],
           "answerIndex": 0,
           "explanation": "Cidade de Deus (City of God).",
@@ -9379,10 +9379,10 @@
         {
           "prompt": "Traduza: \"The plot is gripping and full of unexpected plot twists.\"",
           "options": [
-            "Não entendi a história. (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "O livro não tem final. (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "O filme foi cancelado. (Escrever uma resenha e avaliao crtica sobre filmes)",
-            "O enredo é envolvente e repleto de reviravoltas surpreendentes. (Escrever uma resenha e avaliao crtica sobre filmes)"
+            "Não entendi a história.",
+            "O livro não tem final.",
+            "O filme foi cancelado.",
+            "O enredo é envolvente e repleto de reviravoltas surpreendentes."
           ],
           "answerIndex": 3,
           "explanation": "Accurate review translation.",
@@ -9419,10 +9419,10 @@
         {
           "prompt": "Como se chama o documento que autoriza o passageiro a entrar no avião?",
           "options": [
-            "A carteira de motorista (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "O recibo do táxi (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "O cartão de visita (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "O cartão de embarque (Vocabulrio de aeroportos brasileiros Guarulhos)"
+            "A carteira de motorista",
+            "O recibo do táxi",
+            "O cartão de visita",
+            "O cartão de embarque"
           ],
           "answerIndex": 3,
           "explanation": "Cartão de embarque is boarding pass."
@@ -9434,10 +9434,10 @@
         {
           "prompt": "Traduza: \"The flight to Salvador is delayed by 45 minutes.\"",
           "options": [
-            "O avião decolou no horário. (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "Não há voos para Salvador. (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "O aeroporto está fechado. (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "O voo para Salvador está atrasado em quarenta e cinco minutos. (Vocabulrio de aeroportos brasileiros Guarulhos)"
+            "O avião decolou no horário.",
+            "Não há voos para Salvador.",
+            "O aeroporto está fechado.",
+            "O voo para Salvador está atrasado em quarenta e cinco minutos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9449,10 +9449,10 @@
         {
           "prompt": "Onde os passageiros retiram suas malas despachadas após o desembarque?",
           "options": [
-            "Na cabine do piloto (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "No balcão de check-in (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "Na pista de pouso (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "Na esteira de restituição de bagagens (Vocabulrio de aeroportos brasileiros Guarulhos)"
+            "Na cabine do piloto",
+            "No balcão de check-in",
+            "Na pista de pouso",
+            "Na esteira de restituição de bagagens"
           ],
           "answerIndex": 3,
           "explanation": "Esteira de bagagens (Baggage carousel).",
@@ -9461,10 +9461,10 @@
         {
           "prompt": "Traduza: \"Please proceed to boarding gate 15 immediately.\"",
           "options": [
-            "Saiam do aeroporto. (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "Compre uma nova passagem. (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "Por favor, dirijam-se imediatamente ao portão de embarque quinze. (Vocabulrio de aeroportos brasileiros Guarulhos)",
-            "O voo foi cancelado. (Vocabulrio de aeroportos brasileiros Guarulhos)"
+            "Saiam do aeroporto.",
+            "Compre uma nova passagem.",
+            "Por favor, dirijam-se imediatamente ao portão de embarque quinze.",
+            "O voo foi cancelado."
           ],
           "answerIndex": 2,
           "explanation": "Accurate boarding call translation.",
@@ -9501,10 +9501,10 @@
         {
           "prompt": "Qual é o tipo de hospedagem aconchegante e charmosa típica das cidades litorâneas brasileiras?",
           "options": [
-            "A pousada (Reservar hospedagem no Brasil)",
-            "A estação de trem (Reservar hospedagem no Brasil)",
-            "O quartel (Reservar hospedagem no Brasil)",
-            "A fábrica (Reservar hospedagem no Brasil)"
+            "A pousada",
+            "A estação de trem",
+            "O quartel",
+            "A fábrica"
           ],
           "answerIndex": 0,
           "explanation": "A pousada."
@@ -9516,10 +9516,10 @@
         {
           "prompt": "Como perguntar se o café da manhã está incluído no preço da estadia?",
           "options": [
-            "O café da manhã está incluso na diária? (Reservar hospedagem no Brasil)",
-            "Eu não quero comer (Reservar hospedagem no Brasil)",
-            "O restaurante está fechado (Reservar hospedagem no Brasil)",
-            "Quanto custa a cama? (Reservar hospedagem no Brasil)"
+            "O café da manhã está incluso na diária?",
+            "Eu não quero comer",
+            "O restaurante está fechado",
+            "Quanto custa a cama?"
           ],
           "answerIndex": 0,
           "explanation": "O café da manhã está incluso na diária?"
@@ -9531,10 +9531,10 @@
         {
           "prompt": "Quais delícias típicas são tradicionalmente servidas no farto café da manhã das pousadas brasileiras?",
           "options": [
-            "Apenas água morna (Reservar hospedagem no Brasil)",
-            "Sopa de cebola (Reservar hospedagem no Brasil)",
-            "Pão de queijo quentinho, tapioca feita na hora e frutas tropicais frescas (Reservar hospedagem no Brasil)",
-            "Batata crua (Reservar hospedagem no Brasil)"
+            "Apenas água morna",
+            "Sopa de cebola",
+            "Pão de queijo quentinho, tapioca feita na hora e frutas tropicais frescas",
+            "Batata crua"
           ],
           "answerIndex": 2,
           "explanation": "Pão de queijo, tapioca, frutas tropicais.",
@@ -9543,10 +9543,10 @@
         {
           "prompt": "Traduza: \"Could you please give me the extra key card to our room?\"",
           "options": [
-            "O quarto está sujo. (Reservar hospedagem no Brasil)",
-            "Você poderia me dar o cartão magnético extra do nosso quarto, por favor? (Reservar hospedagem no Brasil)",
-            "O café acabou. (Reservar hospedagem no Brasil)",
-            "Não tenho reserva. (Reservar hospedagem no Brasil)"
+            "O quarto está sujo.",
+            "Você poderia me dar o cartão magnético extra do nosso quarto, por favor?",
+            "O café acabou.",
+            "Não tenho reserva."
           ],
           "answerIndex": 1,
           "explanation": "Accurate reception request.",
@@ -9583,10 +9583,10 @@
         {
           "prompt": "Qual categoria de ônibus rodoviário oferece poltronas que reclinam totalmente como cama para viagens noturnas?",
           "options": [
-            "Ônibus circular comum (Transporte pblico e rodovirio)",
-            "Micro-ônibus escolar (Transporte pblico e rodovirio)",
-            "Ônibus Leito / Leito-Cama (Transporte pblico e rodovirio)",
-            "Bonde (Transporte pblico e rodovirio)"
+            "Ônibus circular comum",
+            "Micro-ônibus escolar",
+            "Ônibus Leito / Leito-Cama",
+            "Bonde"
           ],
           "answerIndex": 2,
           "explanation": "Ônibus Leito / Leito-Cama."
@@ -9598,10 +9598,10 @@
         {
           "prompt": "Como se chama o terminal central onde partem os ônibus de viagem interestaduais no Brasil?",
           "options": [
-            "A rodoviária (Transporte pblico e rodovirio)",
-            "O porto marítimo (Transporte pblico e rodovirio)",
-            "A pista de skate (Transporte pblico e rodovirio)",
-            "O heliporto (Transporte pblico e rodovirio)"
+            "A rodoviária",
+            "O porto marítimo",
+            "A pista de skate",
+            "O heliporto"
           ],
           "answerIndex": 0,
           "explanation": "A rodoviária."
@@ -9613,10 +9613,10 @@
         {
           "prompt": "Qual é o cartão de transporte integrado amplamente utilizado no metrô e ônibus de São Paulo?",
           "options": [
-            "Passaporte (Transporte pblico e rodovirio)",
-            "Bilhete Único (Transporte pblico e rodovirio)",
-            "Carteira escolar (Transporte pblico e rodovirio)",
-            "Cartão de visitas (Transporte pblico e rodovirio)"
+            "Passaporte",
+            "Bilhete Único",
+            "Carteira escolar",
+            "Cartão de visitas"
           ],
           "answerIndex": 1,
           "explanation": "Bilhete Único.",
@@ -9625,10 +9625,10 @@
         {
           "prompt": "Traduza: \"We took the scenic train through the Serra do Mar rainforest.\"",
           "options": [
-            "Pegamos o trem panorâmico pela Mata Atlântica na Serra do Mar. (Transporte pblico e rodovirio)",
-            "O trem quebrou ontem. (Transporte pblico e rodovirio)",
-            "Não há trens no Brasil. (Transporte pblico e rodovirio)",
-            "Fomos a pé na estrada. (Transporte pblico e rodovirio)"
+            "Pegamos o trem panorâmico pela Mata Atlântica na Serra do Mar.",
+            "O trem quebrou ontem.",
+            "Não há trens no Brasil.",
+            "Fomos a pé na estrada."
           ],
           "answerIndex": 0,
           "explanation": "Accurate scenic train travel translation.",
@@ -9665,10 +9665,10 @@
         {
           "prompt": "Qual biocombustível sustentável produzido a partir da cana-de-açúcar é amplamente utilizado nos postos brasileiros?",
           "options": [
-            "Óleo de soja (Aluguel de carros no Brasil)",
-            "Etanol (Aluguel de carros no Brasil)",
-            "Água destilada (Aluguel de carros no Brasil)",
-            "Querosene de aviação (Aluguel de carros no Brasil)"
+            "Óleo de soja",
+            "Etanol",
+            "Água destilada",
+            "Querosene de aviação"
           ],
           "answerIndex": 1,
           "explanation": "Etanol (biofuel)."
@@ -9680,10 +9680,10 @@
         {
           "prompt": "Como pedir ao frentista do posto de gasolina para encher totalmente o tanque do carro?",
           "options": [
-            "Pode completar o tanque, por favor! (Aluguel de carros no Brasil)",
-            "Não coloque nada (Aluguel de carros no Brasil)",
-            "Lave o motor (Aluguel de carros no Brasil)",
-            "Esvazie o tanque (Aluguel de carros no Brasil)"
+            "Pode completar o tanque, por favor!",
+            "Não coloque nada",
+            "Lave o motor",
+            "Esvazie o tanque"
           ],
           "answerIndex": 0,
           "explanation": "Pode completar o tanque, por favor!"
@@ -9695,10 +9695,10 @@
         {
           "prompt": "Como funciona o sistema \"Sem Parar\" nas praças de pedágio das rodovias brasileiras?",
           "options": [
-            "Uma tag eletrônica no para-brisa que debita a cobrança automaticamente sem precisar parar na cabine (Aluguel de carros no Brasil)",
-            "Fiscalização de velocidade apenas (Aluguel de carros no Brasil)",
-            "Pagamento em moedas apenas (Aluguel de carros no Brasil)",
-            "Troca de bilhetes de papel (Aluguel de carros no Brasil)"
+            "Uma tag eletrônica no para-brisa que debita a cobrança automaticamente sem precisar parar na cabine",
+            "Fiscalização de velocidade apenas",
+            "Pagamento em moedas apenas",
+            "Troca de bilhetes de papel"
           ],
           "answerIndex": 0,
           "explanation": "Sem Parar electronic toll tag.",
@@ -9707,10 +9707,10 @@
         {
           "prompt": "Traduza: \"We rented a car to drive along the scenic Rio-Santos coastal highway.\"",
           "options": [
-            "A estrada está bloqueada. (Aluguel de carros no Brasil)",
-            "Vendemos nosso carro na praia. (Aluguel de carros no Brasil)",
-            "Não há rodovias no litoral. (Aluguel de carros no Brasil)",
-            "Alugamos um carro para dirigir pela cinematográfica rodovia Rio-Santos. (Aluguel de carros no Brasil)"
+            "A estrada está bloqueada.",
+            "Vendemos nosso carro na praia.",
+            "Não há rodovias no litoral.",
+            "Alugamos um carro para dirigir pela cinematográfica rodovia Rio-Santos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate road trip translation.",
@@ -9747,10 +9747,10 @@
         {
           "prompt": "Qual formulário oficial deve ser preenchido no aeroporto caso a mala despachada não chegue?",
           "options": [
-            "O Registro de Irregularidade de Bagagem (Lidar com imprevistos de viagem no Brasil)",
-            "Uma prova de matemática (Lidar com imprevistos de viagem no Brasil)",
-            "Um boleto bancário (Lidar com imprevistos de viagem no Brasil)",
-            "Uma certidão de nascimento (Lidar com imprevistos de viagem no Brasil)"
+            "O Registro de Irregularidade de Bagagem",
+            "Uma prova de matemática",
+            "Um boleto bancário",
+            "Uma certidão de nascimento"
           ],
           "answerIndex": 0,
           "explanation": "RIB (Registro de Irregularidade de Bagagem)."
@@ -9762,10 +9762,10 @@
         {
           "prompt": "Qual agência reguladora federal brasileira fiscaliza e protege os direitos dos passageiros da aviação civil?",
           "options": [
-            "Detran (Lidar com imprevistos de viagem no Brasil)",
-            "SUS (Lidar com imprevistos de viagem no Brasil)",
-            "ANAC (Lidar com imprevistos de viagem no Brasil)",
-            "IBAMA (Lidar com imprevistos de viagem no Brasil)"
+            "Detran",
+            "SUS",
+            "ANAC",
+            "IBAMA"
           ],
           "answerIndex": 2,
           "explanation": "ANAC."
@@ -9777,10 +9777,10 @@
         {
           "prompt": "O que a companhia aérea deve fornecer obrigatoriamente aos passageiros em caso de atraso de voo superior a 4 horas no Brasil?",
           "options": [
-            "Uma passagem de trem (Lidar com imprevistos de viagem no Brasil)",
-            "Apenas um copo de água (Lidar com imprevistos de viagem no Brasil)",
-            "Nenhuma assistência (Lidar com imprevistos de viagem no Brasil)",
-            "Acomodação em hotel, transporte de ida e volta e refeições gratuitas (Lidar com imprevistos de viagem no Brasil)"
+            "Uma passagem de trem",
+            "Apenas um copo de água",
+            "Nenhuma assistência",
+            "Acomodação em hotel, transporte de ida e volta e refeições gratuitas"
           ],
           "answerIndex": 3,
           "explanation": "Hotel, transportation, and meals.",
@@ -9789,10 +9789,10 @@
         {
           "prompt": "Traduza: \"Our flight was cancelled due to heavy storm and we were rebooked for tomorrow morning.\"",
           "options": [
-            "Não havia tempestade. (Lidar com imprevistos de viagem no Brasil)",
-            "O voo decolou no horário. (Lidar com imprevistos de viagem no Brasil)",
-            "Nosso voo foi cancelado devido à forte tempestade e fomos reacomodados para amanhã de manhã. (Lidar com imprevistos de viagem no Brasil)",
-            "Chegamos adiantados. (Lidar com imprevistos de viagem no Brasil)"
+            "Não havia tempestade.",
+            "O voo decolou no horário.",
+            "Nosso voo foi cancelado devido à forte tempestade e fomos reacomodados para amanhã de manhã.",
+            "Chegamos adiantados."
           ],
           "answerIndex": 2,
           "explanation": "Accurate flight rebooking translation.",
@@ -9829,9 +9829,9 @@
         {
           "prompt": "Como se representam os tamanhos de roupas padrão (Small, Medium, Large) no Brasil?",
           "options": [
-            "1, 2, 3 apenas (Vocabulrio de roupas)",
-            "A, B, C (Vocabulrio de roupas)",
-            "X, Y, Z (Vocabulrio de roupas)",
+            "1, 2, 3 apenas",
+            "A, B, C",
+            "X, Y, Z",
             "P (Pequeno)"
           ],
           "answerIndex": 3,
@@ -9844,10 +9844,10 @@
         {
           "prompt": "Qual famosa marca brasileira de chinelos de borracha conquistou o mundo inteiro?",
           "options": [
-            "Nike (Vocabulrio de roupas)",
-            "Adidas (Vocabulrio de roupas)",
-            "Puma (Vocabulrio de roupas)",
-            "Havaianas (Vocabulrio de roupas)"
+            "Nike",
+            "Adidas",
+            "Puma",
+            "Havaianas"
           ],
           "answerIndex": 3,
           "explanation": "Havaianas."
@@ -9859,10 +9859,10 @@
         {
           "prompt": "Como se diz \"sneakers / athletic shoes\" em português do Brasil?",
           "options": [
-            "A bota (Vocabulrio de roupas)",
-            "O chinelo (Vocabulrio de roupas)",
-            "O tênis (Vocabulrio de roupas)",
-            "O salto alto (Vocabulrio de roupas)"
+            "A bota",
+            "O chinelo",
+            "O tênis",
+            "O salto alto"
           ],
           "answerIndex": 2,
           "explanation": "O tênis.",
@@ -9871,10 +9871,10 @@
         {
           "prompt": "Traduza: \"This 100% linen shirt is very light and comfortable for the tropical heat.\"",
           "options": [
-            "A camisa é de plástico grosso. (Vocabulrio de roupas)",
-            "Esta camisa cem por cento de linho é muito leve e confortável para o calor tropical. (Vocabulrio de roupas)",
-            "A loja está vazia. (Vocabulrio de roupas)",
-            "Não gosto de roupas. (Vocabulrio de roupas)"
+            "A camisa é de plástico grosso.",
+            "Esta camisa cem por cento de linho é muito leve e confortável para o calor tropical.",
+            "A loja está vazia.",
+            "Não gosto de roupas."
           ],
           "answerIndex": 1,
           "explanation": "Accurate clothing review translation.",
@@ -9994,10 +9994,10 @@
         {
           "prompt": "Qual é o revolucionário sistema de pagamento instantâneo via celular mais popular do Brasil?",
           "options": [
-            "Cheque de papel (Liquidaes no Brasil)",
-            "O Pix (Liquidaes no Brasil)",
-            "Vale postal (Liquidaes no Brasil)",
-            "Troca de moedas antigas (Liquidaes no Brasil)"
+            "Cheque de papel",
+            "O Pix",
+            "Vale postal",
+            "Troca de moedas antigas"
           ],
           "answerIndex": 1,
           "explanation": "O Pix."
@@ -10009,10 +10009,10 @@
         {
           "prompt": "Qual pergunta clássica todo atendente no Brasil faz ao inserir o cartão de pagamento na maquininha?",
           "options": [
-            "„Débito ou crédito?” (Liquidaes no Brasil)",
-            "„Qual é seu signo?” (Liquidaes no Brasil)",
-            "„Você sabe dirigir?” (Liquidaes no Brasil)",
-            "„Onde você mora?” (Liquidaes no Brasil)"
+            "„Débito ou crédito?”",
+            "„Qual é seu signo?”",
+            "„Você sabe dirigir?”",
+            "„Onde você mora?”"
           ],
           "answerIndex": 0,
           "explanation": "„Débito ou crédito?”"
@@ -10024,10 +10024,10 @@
         {
           "prompt": "O que significa parcelar uma compra em \"10 vezes sem juros\"?",
           "options": [
-            "Dividir o valor total em 10 parcelas mensais idênticas no cartão sem acréscimo de juros (Liquidaes no Brasil)",
-            "Pagar à vista (Liquidaes no Brasil)",
-            "Comprar 10 produtos (Liquidaes no Brasil)",
-            "Pagar dez vezes mais caro (Liquidaes no Brasil)"
+            "Dividir o valor total em 10 parcelas mensais idênticas no cartão sem acréscimo de juros",
+            "Pagar à vista",
+            "Comprar 10 produtos",
+            "Pagar dez vezes mais caro"
           ],
           "answerIndex": 0,
           "explanation": "Parcelamento sem juros.",
@@ -10036,10 +10036,10 @@
         {
           "prompt": "Traduza: \"Can I pay by tapping my contactless credit card?\"",
           "options": [
-            "O cartão está quebrado. (Liquidaes no Brasil)",
-            "Não tenho cartão. (Liquidaes no Brasil)",
-            "A máquina sumiu. (Liquidaes no Brasil)",
-            "Posso pagar por aproximação com meu cartão de crédito? (Liquidaes no Brasil)"
+            "O cartão está quebrado.",
+            "Não tenho cartão.",
+            "A máquina sumiu.",
+            "Posso pagar por aproximação com meu cartão de crédito?"
           ],
           "answerIndex": 3,
           "explanation": "Accurate contactless payment translation.",
@@ -10076,10 +10076,10 @@
         {
           "prompt": "Qual é a combinação culinária mais clássica e amada nas manhãs de feira livre no Brasil?",
           "options": [
-            "Sopa de peixe (Feiras livres de rua)",
-            "Pastel frito quentinho com caldo de cana gelado (Feiras livres de rua)",
-            "Hambúrguer (Feiras livres de rua)",
-            "Pizza fria com café (Feiras livres de rua)"
+            "Sopa de peixe",
+            "Pastel frito quentinho com caldo de cana gelado",
+            "Hambúrguer",
+            "Pizza fria com café"
           ],
           "answerIndex": 1,
           "explanation": "Pastel com caldo de cana."
@@ -10091,10 +10091,10 @@
         {
           "prompt": "Qual sanduíche monumental é a atração turística gastronômica mais famosa do Mercadão de São Paulo?",
           "options": [
-            "O sanduíche gigante de mortadela (Feiras livres de rua)",
-            "O pão com água (Feiras livres de rua)",
-            "O bolo de milho (Feiras livres de rua)",
-            "O sanduíche de alface (Feiras livres de rua)"
+            "O sanduíche gigante de mortadela",
+            "O pão com água",
+            "O bolo de milho",
+            "O sanduíche de alface"
           ],
           "answerIndex": 0,
           "explanation": "Sanduíche de mortadela."
@@ -10106,10 +10106,10 @@
         {
           "prompt": "Qual famosa feira de antiguidades e artesanato acontece aos sábados na Praça Benedito Calixto em São Paulo?",
           "options": [
-            "Mercado de Camden (Feiras livres de rua)",
-            "Feira de Pequim (Feiras livres de rua)",
-            "Feira de Frankfurt (Feiras livres de rua)",
-            "Feira da Benedito Calixto (Feiras livres de rua)"
+            "Mercado de Camden",
+            "Feira de Pequim",
+            "Feira de Frankfurt",
+            "Feira da Benedito Calixto"
           ],
           "answerIndex": 3,
           "explanation": "Feira da Benedito Calixto.",
@@ -10118,10 +10118,10 @@
         {
           "prompt": "Traduza: \"Please give me a dozen fresh bananas and two sweet papayas.\"",
           "options": [
-            "Venda-me sapatos velhos. (Feiras livres de rua)",
-            "A feira acabou. (Feiras livres de rua)",
-            "Por favor, me dê uma dúzia de bananas frescas e dois mamões doces. (Feiras livres de rua)",
-            "Não gosto de frutas. (Feiras livres de rua)"
+            "Venda-me sapatos velhos.",
+            "A feira acabou.",
+            "Por favor, me dê uma dúzia de bananas frescas e dois mamões doces.",
+            "Não gosto de frutas."
           ],
           "answerIndex": 2,
           "explanation": "Accurate market fruit order.",
@@ -10158,10 +10158,10 @@
         {
           "prompt": "Quantos dias o Código de Defesa do Consumidor garante para devolução incondicional em compras pela internet (Direito de Arrependimento)?",
           "options": [
-            "7 dias a partir do recebimento do produto (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "1 ano (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Apenas 1 hora (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Nenhum dia (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)"
+            "7 dias a partir do recebimento do produto",
+            "1 ano",
+            "Apenas 1 hora",
+            "Nenhum dia"
           ],
           "answerIndex": 0,
           "explanation": "7 dias (Direito de Arrependimento)."
@@ -10173,10 +10173,10 @@
         {
           "prompt": "Qual é o portal brasileiro mais famoso onde os consumidores consultam a reputação das empresas e fazem reclamações?",
           "options": [
-            "Twitter (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Wikipedia (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Reclame Aqui (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Google Maps (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)"
+            "Twitter",
+            "Wikipedia",
+            "Reclame Aqui",
+            "Google Maps"
           ],
           "answerIndex": 2,
           "explanation": "Reclame Aqui."
@@ -10188,10 +10188,10 @@
         {
           "prompt": "O que o cliente deve apresentar na loja para realizar a troca de uma mercadoria comprada?",
           "options": [
-            "Apenas uma palavra (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Uma foto de satélite (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "O cupom fiscal / nota fiscal e o produto com as etiquetas originais (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Nada (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)"
+            "Apenas uma palavra",
+            "Uma foto de satélite",
+            "O cupom fiscal / nota fiscal e o produto com as etiquetas originais",
+            "Nada"
           ],
           "answerIndex": 2,
           "explanation": "Cupom fiscal e produto com etiquetas.",
@@ -10200,10 +10200,10 @@
         {
           "prompt": "Traduza: \"I received the wrong item and I request an immediate replacement or full refund.\"",
           "options": [
-            "O produto é lindo. (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Recebi o produto errado e solicito a substituição imediata ou o reembolso integral. (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "Não comprei nada. (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)",
-            "A entrega foi cancelada. (Trocas e devolues pelo Cdigo de Defesa do Consumidor CDC)"
+            "O produto é lindo.",
+            "Recebi o produto errado e solicito a substituição imediata ou o reembolso integral.",
+            "Não comprei nada.",
+            "A entrega foi cancelada."
           ],
           "answerIndex": 1,
           "explanation": "Accurate e-commerce return translation.",
@@ -10240,10 +10240,10 @@
         {
           "prompt": "Qual é o apelido carinhoso tradicional da cidade de São Paulo devido ao seu clima histórico?",
           "options": [
-            "A Cidade Maravilhosa (O clima tropical no Brasil)",
-            "A Cidade Sol (O clima tropical no Brasil)",
-            "A Capital do Vento (O clima tropical no Brasil)",
-            "A Terra da Garoa (O clima tropical no Brasil)"
+            "A Cidade Maravilhosa",
+            "A Cidade Sol",
+            "A Capital do Vento",
+            "A Terra da Garoa"
           ],
           "answerIndex": 3,
           "explanation": "A Terra da Garoa."
@@ -10255,10 +10255,10 @@
         {
           "prompt": "Como os brasileiros chamam aquele calor abafado, úmido e pesado com céu nublado antes da chuva?",
           "options": [
-            "O gelo (O clima tropical no Brasil)",
-            "A geada (O clima tropical no Brasil)",
-            "O granizo (O clima tropical no Brasil)",
-            "O mormaço (O clima tropical no Brasil)"
+            "O gelo",
+            "A geada",
+            "O granizo",
+            "O mormaço"
           ],
           "answerIndex": 3,
           "explanation": "O mormaço."
@@ -10270,10 +10270,10 @@
         {
           "prompt": "Como se chamam as chuvas rápidas e intensas que caem no final da tarde nos dias quentes de verão?",
           "options": [
-            "Nevasca (O clima tropical no Brasil)",
-            "Pancadas de chuva de verão (O clima tropical no Brasil)",
-            "Ciclone polar (O clima tropical no Brasil)",
-            "Chuva ácida (O clima tropical no Brasil)"
+            "Nevasca",
+            "Pancadas de chuva de verão",
+            "Ciclone polar",
+            "Chuva ácida"
           ],
           "answerIndex": 1,
           "explanation": "Pancadas de chuva de verão.",
@@ -10282,10 +10282,10 @@
         {
           "prompt": "Traduza: \"The weather forecast warns of heavy rain and thunderstorms in the metropolitan area.\"",
           "options": [
-            "A previsão do tempo alerta para chuvas fortes e tempestades na região metropolitana. (O clima tropical no Brasil)",
-            "Nunca vai chover. (O clima tropical no Brasil)",
-            "O dia será de seca total. (O clima tropical no Brasil)",
-            "O céu está congelado. (O clima tropical no Brasil)"
+            "A previsão do tempo alerta para chuvas fortes e tempestades na região metropolitana.",
+            "Nunca vai chover.",
+            "O dia será de seca total.",
+            "O céu está congelado."
           ],
           "answerIndex": 0,
           "explanation": "Accurate storm forecast translation.",
@@ -10322,10 +10322,10 @@
         {
           "prompt": "Qual árvore de flores douradas exuberantes é considerada o símbolo floral do Brasil na primavera?",
           "options": [
-            "O ipê-amarelo (As estaes do ano no Brasil)",
-            "A oliveira (As estaes do ano no Brasil)",
-            "O pinheiro de natal (As estaes do ano no Brasil)",
-            "O cacto (As estaes do ano no Brasil)"
+            "O ipê-amarelo",
+            "A oliveira",
+            "O pinheiro de natal",
+            "O cacto"
           ],
           "answerIndex": 0,
           "explanation": "O ipê-amarelo."
@@ -10337,10 +10337,10 @@
         {
           "prompt": "Em qual região do Brasil ocorrem temperaturas baixas com geada e turismo de inverno nas montanhas (Gramado)?",
           "options": [
-            "Na Região Sul (As estaes do ano no Brasil)",
-            "Na Amazônia (As estaes do ano no Brasil)",
-            "No Sertão Nordestino (As estaes do ano no Brasil)",
-            "No Pantanal (As estaes do ano no Brasil)"
+            "Na Região Sul",
+            "Na Amazônia",
+            "No Sertão Nordestino",
+            "No Pantanal"
           ],
           "answerIndex": 0,
           "explanation": "Região Sul (Gramado)."
@@ -10352,10 +10352,10 @@
         {
           "prompt": "Qual é a época do ano em que se realizam os desfiles das escolas de samba do Carnaval no Brasil?",
           "options": [
-            "No auge do verão (As estaes do ano no Brasil)",
-            "Em julho (As estaes do ano no Brasil)",
-            "Em outubro (As estaes do ano no Brasil)",
-            "No meio do inverno gelado (As estaes do ano no Brasil)"
+            "No auge do verão",
+            "Em julho",
+            "Em outubro",
+            "No meio do inverno gelado"
           ],
           "answerIndex": 0,
           "explanation": "No verão.",
@@ -10364,10 +10364,10 @@
         {
           "prompt": "Traduza: \"In winter, tourists visit the mountains of Gramado to enjoy fondue and cold weather.\"",
           "options": [
-            "Em Gramado não faz frio no inverno. (As estaes do ano no Brasil)",
-            "Os turistas vão à praia nadar. (As estaes do ano no Brasil)",
-            "Gramado fica no deserto. (As estaes do ano no Brasil)",
-            "No inverno, os turistas visitam a serra de Gramado para saborear fondue e curtir o clima frio. (As estaes do ano no Brasil)"
+            "Em Gramado não faz frio no inverno.",
+            "Os turistas vão à praia nadar.",
+            "Gramado fica no deserto.",
+            "No inverno, os turistas visitam a serra de Gramado para saborear fondue e curtir o clima frio."
           ],
           "answerIndex": 3,
           "explanation": "Accurate seasonal tourism translation.",
@@ -10404,10 +10404,10 @@
         {
           "prompt": "Qual é a maior planície tropical de inundação contínua do planeta, famosa pela observação de onças-pintadas e capivaras?",
           "options": [
-            "O Saara (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "O Pantanal (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Os Alpes (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "A Sibéria (Biomas e maravilhas naturais do Brasil Floresta Amaznica)"
+            "O Saara",
+            "O Pantanal",
+            "Os Alpes",
+            "A Sibéria"
           ],
           "answerIndex": 1,
           "explanation": "O Pantanal."
@@ -10419,10 +10419,10 @@
         {
           "prompt": "Qual parque nacional no Maranhão é famoso por suas dunas de areia branca repletas de lagoas de água doce cristalinas?",
           "options": [
-            "Parque Nacional dos Lençóis Maranhenses (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Parque do Ibirapuera (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Serra dos Órgãos (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Chapada dos Guimarães (Biomas e maravilhas naturais do Brasil Floresta Amaznica)"
+            "Parque Nacional dos Lençóis Maranhenses",
+            "Parque do Ibirapuera",
+            "Serra dos Órgãos",
+            "Chapada dos Guimarães"
           ],
           "answerIndex": 0,
           "explanation": "Lençóis Maranhenses."
@@ -10434,10 +10434,10 @@
         {
           "prompt": "Qual arquipélago vulcânico brasileiro é internacionalmente famoso pela preservação de golfinhos, tartarugas e a Baía do Sancho?",
           "options": [
-            "Ilhabela (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Ilha de Marajó (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Ilha Grande (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "Fernando de Noronha (Biomas e maravilhas naturais do Brasil Floresta Amaznica)"
+            "Ilhabela",
+            "Ilha de Marajó",
+            "Ilha Grande",
+            "Fernando de Noronha"
           ],
           "answerIndex": 3,
           "explanation": "Fernando de Noronha.",
@@ -10446,10 +10446,10 @@
         {
           "prompt": "Traduza: \"The Amazon rainforest is essential for the global climate and harbors unmatched biodiversity.\"",
           "options": [
-            "O clima global não depende das florestas. (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "A floresta foi substituída por asfalto. (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "A Floresta Amazônica é essencial para o clima global e abriga uma biodiversidade inigualável. (Biomas e maravilhas naturais do Brasil Floresta Amaznica)",
-            "A Amazônia não tem árvores nem animais. (Biomas e maravilhas naturais do Brasil Floresta Amaznica)"
+            "O clima global não depende das florestas.",
+            "A floresta foi substituída por asfalto.",
+            "A Floresta Amazônica é essencial para o clima global e abriga uma biodiversidade inigualável.",
+            "A Amazônia não tem árvores nem animais."
           ],
           "answerIndex": 2,
           "explanation": "Accurate biodiversity statement.",
@@ -10486,10 +10486,10 @@
         {
           "prompt": "Qual órgão governamental é responsável por enviar alertas de emergência e proteger a população em desastres naturais?",
           "options": [
-            "Os Correios (Alertas da Defesa Civil)",
-            "A Defesa Civil (Alertas da Defesa Civil)",
-            "A Biblioteca Nacional (Alertas da Defesa Civil)",
-            "O DETRAN (Alertas da Defesa Civil)"
+            "Os Correios",
+            "A Defesa Civil",
+            "A Biblioteca Nacional",
+            "O DETRAN"
           ],
           "answerIndex": 1,
           "explanation": "A Defesa Civil."
@@ -10501,10 +10501,10 @@
         {
           "prompt": "O que um motorista NUNCA deve fazer ao encontrar uma via com água subindo rapidamente?",
           "options": [
-            "Tentar atravessar o ponto de alagamento com o carro (Alertas da Defesa Civil)",
-            "Aguardar a água baixar em local seguro (Alertas da Defesa Civil)",
-            "Ligar o pisca-alerta em local alto (Alertas da Defesa Civil)",
-            "Procurar uma rota alta e segura (Alertas da Defesa Civil)"
+            "Tentar atravessar o ponto de alagamento com o carro",
+            "Aguardar a água baixar em local seguro",
+            "Ligar o pisca-alerta em local alto",
+            "Procurar uma rota alta e segura"
           ],
           "answerIndex": 0,
           "explanation": "Nunca tentar atravessar o alagamento."
@@ -10516,10 +10516,10 @@
         {
           "prompt": "Qual é o número gratuito de SMS para o qual os cidadãos enviam o CEP para receber alertas da Defesa Civil no Brasil?",
           "options": [
-            "190 (Alertas da Defesa Civil)",
-            "193 (Alertas da Defesa Civil)",
-            "40199 (Alertas da Defesa Civil)",
-            "192 (Alertas da Defesa Civil)"
+            "190",
+            "193",
+            "40199",
+            "192"
           ],
           "answerIndex": 2,
           "explanation": "40199.",
@@ -10528,10 +10528,10 @@
         {
           "prompt": "Traduza: \"In case of lightning storms, stay inside buildings and keep away from electrical appliances.\"",
           "options": [
-            "A tempestade não oferece risco. (Alertas da Defesa Civil)",
-            "Em caso de tempestade com raios, permaneça dentro de edificações e afaste-se de aparelhos elétricos. (Alertas da Defesa Civil)",
-            "Fique em campo aberto segurando metal. (Alertas da Defesa Civil)",
-            "Nade no rio durante os raios. (Alertas da Defesa Civil)"
+            "A tempestade não oferece risco.",
+            "Em caso de tempestade com raios, permaneça dentro de edificações e afaste-se de aparelhos elétricos.",
+            "Fique em campo aberto segurando metal.",
+            "Nade no rio durante os raios."
           ],
           "answerIndex": 1,
           "explanation": "Accurate thunderstorm safety advisory.",
@@ -10568,10 +10568,10 @@
         {
           "prompt": "Qual combustível renovável de origem vegetal derivado da cana-de-açúcar é amplamente utilizado nos veículos no Brasil?",
           "options": [
-            "O etanol (Matriz energtica limpa no Brasil hidreltrica)",
-            "O carvão mineral (Matriz energtica limpa no Brasil hidreltrica)",
-            "O querosene (Matriz energtica limpa no Brasil hidreltrica)",
-            "O óleo diesel fóssil (Matriz energtica limpa no Brasil hidreltrica)"
+            "O etanol",
+            "O carvão mineral",
+            "O querosene",
+            "O óleo diesel fóssil"
           ],
           "answerIndex": 0,
           "explanation": "O etanol de cana-de-açúcar."
@@ -10583,10 +10583,10 @@
         {
           "prompt": "Qual gigantesca usina hidrelétrica binacional na fronteira com o Paraguai é um dos marcos mundiais de geração de energia limpa?",
           "options": [
-            "Usina de Chernobyl (Matriz energtica limpa no Brasil hidreltrica)",
-            "Usina de Três Gargantas apenas na Ásia (Matriz energtica limpa no Brasil hidreltrica)",
-            "Usina de Hoover (Matriz energtica limpa no Brasil hidreltrica)",
-            "Usina Binacional de Itaipu (Matriz energtica limpa no Brasil hidreltrica)"
+            "Usina de Chernobyl",
+            "Usina de Três Gargantas apenas na Ásia",
+            "Usina de Hoover",
+            "Usina Binacional de Itaipu"
           ],
           "answerIndex": 3,
           "explanation": "Usina Binacional de Itaipu."
@@ -10598,10 +10598,10 @@
         {
           "prompt": "Qual região brasileira lidera a expansão de gigantescos parques eólicos graças aos seus ventos litorâneos constantes?",
           "options": [
-            "O Polo Sul (Matriz energtica limpa no Brasil hidreltrica)",
-            "A Região Nordeste (Matriz energtica limpa no Brasil hidreltrica)",
-            "O fundo do mar (Matriz energtica limpa no Brasil hidreltrica)",
-            "O centro de São Paulo (Matriz energtica limpa no Brasil hidreltrica)"
+            "O Polo Sul",
+            "A Região Nordeste",
+            "O fundo do mar",
+            "O centro de São Paulo"
           ],
           "answerIndex": 1,
           "explanation": "Região Nordeste.",
@@ -10610,10 +10610,10 @@
         {
           "prompt": "Traduza: \"Preserving the Amazon rainforest and developing clean renewable energy is crucial for combating global warming.\"",
           "options": [
-            "Preservar a floresta amazônica e desenvolver energias limpas e renováveis é crucial para combater o aquecimento global. (Matriz energtica limpa no Brasil hidreltrica)",
-            "O desmatamento deve continuar. (Matriz energtica limpa no Brasil hidreltrica)",
-            "As energias limpas não funcionam. (Matriz energtica limpa no Brasil hidreltrica)",
-            "O clima não importa. (Matriz energtica limpa no Brasil hidreltrica)"
+            "Preservar a floresta amazônica e desenvolver energias limpas e renováveis é crucial para combater o aquecimento global.",
+            "O desmatamento deve continuar.",
+            "As energias limpas não funcionam.",
+            "O clima não importa."
           ],
           "answerIndex": 0,
           "explanation": "Accurate sustainability translation.",
@@ -10650,10 +10650,10 @@
         {
           "prompt": "Como se diz em português do Brasil que você está com dor no estômago?",
           "options": [
-            "Estou com dor de dente (Partes do corpo humano)",
-            "Meu pé está ótimo (Partes do corpo humano)",
-            "Estou com sono (Partes do corpo humano)",
-            "Estou com dor de barriga (Partes do corpo humano)"
+            "Estou com dor de dente",
+            "Meu pé está ótimo",
+            "Estou com sono",
+            "Estou com dor de barriga"
           ],
           "answerIndex": 3,
           "explanation": "Estou com dor de barriga."
@@ -10665,10 +10665,10 @@
         {
           "prompt": "Qual é a estrutura correta para expressar dor de cabeça em português?",
           "options": [
-            "Tenho cabeça dolorosa (Partes do corpo humano)",
-            "A dor tem cabeça (Partes do corpo humano)",
-            "Faço dor de cabeça (Partes do corpo humano)",
-            "Estou com dor de cabeça (Partes do corpo humano)"
+            "Tenho cabeça dolorosa",
+            "A dor tem cabeça",
+            "Faço dor de cabeça",
+            "Estou com dor de cabeça"
           ],
           "answerIndex": 3,
           "explanation": "Estou com dor de cabeça."
@@ -10680,10 +10680,10 @@
         {
           "prompt": "Como se diz a sensação de tontura e vertigem quando a cabeça parece rodar?",
           "options": [
-            "Estar com tontura / zonzo (Partes do corpo humano)",
-            "Estar com fome (Partes do corpo humano)",
-            "Estar com sede (Partes do corpo humano)",
-            "Estar descansado (Partes do corpo humano)"
+            "Estar com tontura / zonzo",
+            "Estar com fome",
+            "Estar com sede",
+            "Estar descansado"
           ],
           "answerIndex": 0,
           "explanation": "Estar com tontura.",
@@ -10692,10 +10692,10 @@
         {
           "prompt": "Traduza: \"I have a high fever, chills, and body aches; I need to see a physician immediately.\"",
           "options": [
-            "Estou ótimo e não sinto dor. (Partes do corpo humano)",
-            "O hospital está vazio. (Partes do corpo humano)",
-            "Não preciso de remédios. (Partes do corpo humano)",
-            "Estou com febre alta, calafrios e dores no corpo; preciso me consultar com um médico imediatamente. (Partes do corpo humano)"
+            "Estou ótimo e não sinto dor.",
+            "O hospital está vazio.",
+            "Não preciso de remédios.",
+            "Estou com febre alta, calafrios e dores no corpo; preciso me consultar com um médico imediatamente."
           ],
           "answerIndex": 3,
           "explanation": "Accurate symptom translation.",
@@ -10732,10 +10732,10 @@
         {
           "prompt": "Qual é o analgésico e antitérmico em gotas mais tradicional e popular nas casas de todo o Brasil?",
           "options": [
-            "A dipirona (A farmcia no Brasil Droga Raia)",
-            "O vinagre (A farmcia no Brasil Droga Raia)",
-            "O pó de café (A farmcia no Brasil Droga Raia)",
-            "O sabonete (A farmcia no Brasil Droga Raia)"
+            "A dipirona",
+            "O vinagre",
+            "O pó de café",
+            "O sabonete"
           ],
           "answerIndex": 0,
           "explanation": "A dipirona."
@@ -10747,10 +10747,10 @@
         {
           "prompt": "Como são identificados visualmente os medicamentos genéricos mais baratos e de qualidade garantida no Brasil?",
           "options": [
-            "Com uma faixa amarela na caixa com a letra \"G\" maiúscula destacada (A farmcia no Brasil Droga Raia)",
-            "Com uma estrela vermelha (A farmcia no Brasil Droga Raia)",
-            "Com uma foto de praia (A farmcia no Brasil Droga Raia)",
-            "Sem nenhuma identificação (A farmcia no Brasil Droga Raia)"
+            "Com uma faixa amarela na caixa com a letra \"G\" maiúscula destacada",
+            "Com uma estrela vermelha",
+            "Com uma foto de praia",
+            "Sem nenhuma identificação"
           ],
           "answerIndex": 0,
           "explanation": "Faixa amarela com \"G\" (Genéricos)."
@@ -10762,10 +10762,10 @@
         {
           "prompt": "Como se chama o folheto informativo com instruções de uso, contraindicações e efeitos colaterais que vem na caixa do remédio?",
           "options": [
-            "O jornal diário (A farmcia no Brasil Droga Raia)",
-            "A nota fiscal (A farmcia no Brasil Droga Raia)",
-            "O mapa de trânsito (A farmcia no Brasil Droga Raia)",
-            "A bula do remédio (A farmcia no Brasil Droga Raia)"
+            "O jornal diário",
+            "A nota fiscal",
+            "O mapa de trânsito",
+            "A bula do remédio"
           ],
           "answerIndex": 3,
           "explanation": "A bula.",
@@ -10774,10 +10774,10 @@
         {
           "prompt": "Traduza: \"Take one generic tablet every eight hours after meals for five days.\"",
           "options": [
-            "Tome todos os comprimidos juntos sem água. (A farmcia no Brasil Droga Raia)",
-            "Não tome o medicamento. (A farmcia no Brasil Droga Raia)",
-            "Tome um comprimido genérico de oito em oito horas após as refeições durante cinco dias. (A farmcia no Brasil Droga Raia)",
-            "Beba apenas refrigerante. (A farmcia no Brasil Droga Raia)"
+            "Tome todos os comprimidos juntos sem água.",
+            "Não tome o medicamento.",
+            "Tome um comprimido genérico de oito em oito horas após as refeições durante cinco dias.",
+            "Beba apenas refrigerante."
           ],
           "answerIndex": 2,
           "explanation": "Accurate posology translation.",
@@ -10896,10 +10896,10 @@
         {
           "prompt": "Qual bebida natural tropical bebida diretamente do fruto é o isotônico natural mais consumido nas praias do Brasil?",
           "options": [
-            "O café quente fervendo (Cultura fitness brasileira)",
-            "A água de coco verde gelada (Cultura fitness brasileira)",
-            "O leite condensado (Cultura fitness brasileira)",
-            "O refrigerante (Cultura fitness brasileira)"
+            "O café quente fervendo",
+            "A água de coco verde gelada",
+            "O leite condensado",
+            "O refrigerante"
           ],
           "answerIndex": 1,
           "explanation": "A água de coco."
@@ -10911,10 +10911,10 @@
         {
           "prompt": "Qual fruta amazônica roxa e altamente energética e antioxidante é muito consumida na tigela por praticantes de esportes?",
           "options": [
-            "O açaí (Cultura fitness brasileira)",
-            "A pera (Cultura fitness brasileira)",
-            "A uva passa (Cultura fitness brasileira)",
-            "A maçã comum (Cultura fitness brasileira)"
+            "O açaí",
+            "A pera",
+            "A uva passa",
+            "A maçã comum"
           ],
           "answerIndex": 0,
           "explanation": "O açaí."
@@ -10926,10 +10926,10 @@
         {
           "prompt": "Qual esporte brasileiro jogado na areia combina regras do vôlei de praia com a habilidade do futebol (sem usar as mãos)?",
           "options": [
-            "O xadrez (Cultura fitness brasileira)",
-            "O futevôlei (Cultura fitness brasileira)",
-            "O basquete (Cultura fitness brasileira)",
-            "O handebol (Cultura fitness brasileira)"
+            "O xadrez",
+            "O futevôlei",
+            "O basquete",
+            "O handebol"
           ],
           "answerIndex": 1,
           "explanation": "O futevôlei.",
@@ -10938,10 +10938,10 @@
         {
           "prompt": "Traduza: \"Exercising daily outdoors, drinking fresh coconut water, and eating nutritious fruits enhances energy and longevity.\"",
           "options": [
-            "Praticar exercícios ao ar livre diariamente, beber água de coco fresca e comer frutas nutritivas melhora a energia e a longevidade. (Cultura fitness brasileira)",
-            "A água de coco é artificial. (Cultura fitness brasileira)",
-            "O sedentarismo é a melhor opção. (Cultura fitness brasileira)",
-            "Frutas não fazem bem à saúde. (Cultura fitness brasileira)"
+            "Praticar exercícios ao ar livre diariamente, beber água de coco fresca e comer frutas nutritivas melhora a energia e a longevidade.",
+            "A água de coco é artificial.",
+            "O sedentarismo é a melhor opção.",
+            "Frutas não fazem bem à saúde."
           ],
           "answerIndex": 0,
           "explanation": "Accurate wellness statement translation.",
@@ -10978,10 +10978,10 @@
         {
           "prompt": "Qual é o simpático personagem mascote nacional das campanhas de vacinação infantil no Brasil?",
           "options": [
-            "O Zé Gotinha (Liderana cientfica brasileira em sade)",
-            "O Curupira (Liderana cientfica brasileira em sade)",
-            "O Papai Noel (Liderana cientfica brasileira em sade)",
-            "O Saci-Pererê (Liderana cientfica brasileira em sade)"
+            "O Zé Gotinha",
+            "O Curupira",
+            "O Papai Noel",
+            "O Saci-Pererê"
           ],
           "answerIndex": 0,
           "explanation": "O Zé Gotinha."
@@ -10993,10 +10993,10 @@
         {
           "prompt": "Qual instituto centenário paulista é o maior produtor de soros contra veneno de serpentes e vacinas da América Latina?",
           "options": [
-            "O Museu do Ipiranga (Liderana cientfica brasileira em sade)",
-            "O Masp (Liderana cientfica brasileira em sade)",
-            "O Teatro Municipal (Liderana cientfica brasileira em sade)",
-            "O Instituto Butantan (Liderana cientfica brasileira em sade)"
+            "O Museu do Ipiranga",
+            "O Masp",
+            "O Teatro Municipal",
+            "O Instituto Butantan"
           ],
           "answerIndex": 3,
           "explanation": "O Instituto Butantan."
@@ -11008,10 +11008,10 @@
         {
           "prompt": "Qual proeminente cientista brasileiro descobriu o protozoário, o vetor e todo o quadro clínico da doença que leva seu nome?",
           "options": [
-            "Carlos Chagas (Liderana cientfica brasileira em sade)",
-            "Santos Dumont (Liderana cientfica brasileira em sade)",
-            "Tom Jobim (Liderana cientfica brasileira em sade)",
-            "Machado de Assis (Liderana cientfica brasileira em sade)"
+            "Carlos Chagas",
+            "Santos Dumont",
+            "Tom Jobim",
+            "Machado de Assis"
           ],
           "answerIndex": 0,
           "explanation": "Carlos Chagas.",
@@ -11020,10 +11020,10 @@
         {
           "prompt": "Traduza: \"Universal vaccination programs and pioneering immunological research are triumphs of public healthcare.\"",
           "options": [
-            "A imunologia é prejudicial. (Liderana cientfica brasileira em sade)",
-            "As vacinas não são eficazes. (Liderana cientfica brasileira em sade)",
-            "O Instituto Butantan não produz vacinas. (Liderana cientfica brasileira em sade)",
-            "Programas de vacinação universal e pesquisas imunológicas pioneiras são triunfos da saúde pública. (Liderana cientfica brasileira em sade)"
+            "A imunologia é prejudicial.",
+            "As vacinas não são eficazes.",
+            "O Instituto Butantan não produz vacinas.",
+            "Programas de vacinação universal e pesquisas imunológicas pioneiras são triunfos da saúde pública."
           ],
           "answerIndex": 3,
           "explanation": "Accurate immunization statement translation.",
@@ -11060,10 +11060,10 @@
         {
           "prompt": "Como se chama o imposto municipal urbano pago pelos proprietários ou inquilinos de imóveis no Brasil?",
           "options": [
-            "IPVA (Aluguel de imveis no Brasil QuintoAndar)",
-            "ICMS (Aluguel de imveis no Brasil QuintoAndar)",
-            "IOF (Aluguel de imveis no Brasil QuintoAndar)",
-            "IPTU (Aluguel de imveis no Brasil QuintoAndar)"
+            "IPVA",
+            "ICMS",
+            "IOF",
+            "IPTU"
           ],
           "answerIndex": 3,
           "explanation": "IPTU."
@@ -11075,10 +11075,10 @@
         {
           "prompt": "Como é chamado no Brasil o apartamento compacto de um só cômodo integrado com cozinha e banheiro?",
           "options": [
-            "Cobertura triplex (Aluguel de imveis no Brasil QuintoAndar)",
-            "Mansão (Aluguel de imveis no Brasil QuintoAndar)",
-            "Fazenda (Aluguel de imveis no Brasil QuintoAndar)",
-            "Kitnet (Aluguel de imveis no Brasil QuintoAndar)"
+            "Cobertura triplex",
+            "Mansão",
+            "Fazenda",
+            "Kitnet"
           ],
           "answerIndex": 3,
           "explanation": "Kitnet / studio."
@@ -11090,10 +11090,10 @@
         {
           "prompt": "Qual é a lei federal brasileira que regulamenta os contratos de locação residencial e os direitos de inquilinos e proprietários?",
           "options": [
-            "A Lei de Trânsito (Aluguel de imveis no Brasil QuintoAndar)",
-            "A Lei de Imprensa (Aluguel de imveis no Brasil QuintoAndar)",
-            "A Lei de Falências (Aluguel de imveis no Brasil QuintoAndar)",
-            "A Lei do Inquilinato (Aluguel de imveis no Brasil QuintoAndar)"
+            "A Lei de Trânsito",
+            "A Lei de Imprensa",
+            "A Lei de Falências",
+            "A Lei do Inquilinato"
           ],
           "answerIndex": 3,
           "explanation": "A Lei do Inquilinato.",
@@ -11102,10 +11102,10 @@
         {
           "prompt": "Traduza: \"The tenant rented a modern two-bedroom apartment with an en-suite bathroom and one covered parking space.\"",
           "options": [
-            "O apartamento não tem quartos nem banheiro. (Aluguel de imveis no Brasil QuintoAndar)",
-            "O condomínio não tem estacionamento. (Aluguel de imveis no Brasil QuintoAndar)",
-            "O inquilino alugou um apartamento moderno de dois quartos com uma suíte e uma vaga de garagem coberta. (Aluguel de imveis no Brasil QuintoAndar)",
-            "O aluguel é de graça. (Aluguel de imveis no Brasil QuintoAndar)"
+            "O apartamento não tem quartos nem banheiro.",
+            "O condomínio não tem estacionamento.",
+            "O inquilino alugou um apartamento moderno de dois quartos com uma suíte e uma vaga de garagem coberta.",
+            "O aluguel é de graça."
           ],
           "answerIndex": 2,
           "explanation": "Accurate apartment rental translation.",
@@ -11142,10 +11142,10 @@
         {
           "prompt": "Como se chama o espaço envidraçado com churrasqueira muito comum nos apartamentos modernos do Brasil?",
           "options": [
-            "A varanda gourmet (A varanda gourmet com churrasqueira)",
-            "A garagem subterrânea (A varanda gourmet com churrasqueira)",
-            "A despensa escura (A varanda gourmet com churrasqueira)",
-            "O sótão fechado (A varanda gourmet com churrasqueira)"
+            "A varanda gourmet",
+            "A garagem subterrânea",
+            "A despensa escura",
+            "O sótão fechado"
           ],
           "answerIndex": 0,
           "explanation": "A varanda gourmet."
@@ -11157,10 +11157,10 @@
         {
           "prompt": "Qual esporte de areia com raquetes se tornou febre nas áreas de lazer dos condomínios residenciais do Brasil?",
           "options": [
-            "O beach tennis (A varanda gourmet com churrasqueira)",
-            "O hóquei no gelo (A varanda gourmet com churrasqueira)",
-            "O esqui alpino (A varanda gourmet com churrasqueira)",
-            "O boliche pesado (A varanda gourmet com churrasqueira)"
+            "O beach tennis",
+            "O hóquei no gelo",
+            "O esqui alpino",
+            "O boliche pesado"
           ],
           "answerIndex": 0,
           "explanation": "O beach tennis."
@@ -11172,10 +11172,10 @@
         {
           "prompt": "Qual sistema de segurança moderno permite o acesso de moradores por biometria facial e controle à distância sem porteiro presencial?",
           "options": [
-            "A tranca de madeira antiga (A varanda gourmet com churrasqueira)",
-            "O sino de cobre (A varanda gourmet com churrasqueira)",
-            "A portaria virtual (A varanda gourmet com churrasqueira)",
-            "O cadeado manual simples (A varanda gourmet com churrasqueira)"
+            "A tranca de madeira antiga",
+            "O sino de cobre",
+            "A portaria virtual",
+            "O cadeado manual simples"
           ],
           "answerIndex": 2,
           "explanation": "Portaria virtual / remota.",
@@ -11184,10 +11184,10 @@
         {
           "prompt": "Traduza: \"The apartment complex features a 24-hour fitness gym, children's playground, swimming pools, and a private barbecue area.\"",
           "options": [
-            "O prédio não possui áreas de lazer. (A varanda gourmet com churrasqueira)",
-            "O condomínio oferece academia vinte e quatro horas, playground infantil, piscinas e churrasqueira privativa. (A varanda gourmet com churrasqueira)",
-            "É proibido praticar esportes no local. (A varanda gourmet com churrasqueira)",
-            "A piscina está interditada permanentemente. (A varanda gourmet com churrasqueira)"
+            "O prédio não possui áreas de lazer.",
+            "O condomínio oferece academia vinte e quatro horas, playground infantil, piscinas e churrasqueira privativa.",
+            "É proibido praticar esportes no local.",
+            "A piscina está interditada permanentemente."
           ],
           "answerIndex": 1,
           "explanation": "Accurate condo amenities translation.",
@@ -11224,10 +11224,10 @@
         {
           "prompt": "Como se chama o representante legal eleito pelos moradores para administrar um condomínio no Brasil?",
           "options": [
-            "O carteiro (A reunio de condomnio)",
-            "O síndico (A reunio de condomnio)",
-            "O juiz de futebol (A reunio de condomnio)",
-            "O delegado (A reunio de condomnio)"
+            "O carteiro",
+            "O síndico",
+            "O juiz de futebol",
+            "O delegado"
           ],
           "answerIndex": 1,
           "explanation": "O síndico."
@@ -11239,10 +11239,10 @@
         {
           "prompt": "Qual documento reúne todas as regras internas de convivência, horários de silêncio e uso das áreas comuns do prédio?",
           "options": [
-            "O regimento interno (A reunio de condomnio)",
-            "O extrato bancário (A reunio de condomnio)",
-            "A carteira de motorista (A reunio de condomnio)",
-            "O diploma escolar (A reunio de condomnio)"
+            "O regimento interno",
+            "O extrato bancário",
+            "A carteira de motorista",
+            "O diploma escolar"
           ],
           "answerIndex": 0,
           "explanation": "O regimento interno."
@@ -11254,10 +11254,10 @@
         {
           "prompt": "Qual é o horário padrão habitual da \"Lei do Silêncio\" na maioria dos condomínios residenciais brasileiros?",
           "options": [
-            "Não existe horário de silêncio (A reunio de condomnio)",
-            "Das 22h00 às 08h00 da manhã (A reunio de condomnio)",
-            "O dia inteiro sem falar (A reunio de condomnio)",
-            "Das 14h00 às 15h00 apenas (A reunio de condomnio)"
+            "Não existe horário de silêncio",
+            "Das 22h00 às 08h00 da manhã",
+            "O dia inteiro sem falar",
+            "Das 14h00 às 15h00 apenas"
           ],
           "answerIndex": 1,
           "explanation": "Das 22h00 às 08h00.",
@@ -11266,10 +11266,10 @@
         {
           "prompt": "Traduza: \"The owners' assembly elected a new building manager and voted on the annual maintenance budget.\"",
           "options": [
-            "A assembleia de proprietários elegeu um novo síndico e votou o orçamento anual de manutenção. (A reunio de condomnio)",
-            "O síndico fechou o prédio. (A reunio de condomnio)",
-            "Não há orçamento para reformas. (A reunio de condomnio)",
-            "Os moradores cancelaram a reunião de condomínio. (A reunio de condomnio)"
+            "A assembleia de proprietários elegeu um novo síndico e votou o orçamento anual de manutenção.",
+            "O síndico fechou o prédio.",
+            "Não há orçamento para reformas.",
+            "Os moradores cancelaram a reunião de condomínio."
           ],
           "answerIndex": 0,
           "explanation": "Accurate condo meeting translation.",
@@ -11306,10 +11306,10 @@
         {
           "prompt": "Quem foi o genial arquiteto brasileiro que projetou os edifícios monumentais de curvas sinuosas em concreto armado de Brasília?",
           "options": [
-            "Carlos Drummond de Andrade (Arquitetura modernista brasileira)",
-            "Oscar Niemeyer (Arquitetura modernista brasileira)",
-            "Chico Buarque (Arquitetura modernista brasileira)",
-            "Santos Dumont (Arquitetura modernista brasileira)"
+            "Carlos Drummond de Andrade",
+            "Oscar Niemeyer",
+            "Chico Buarque",
+            "Santos Dumont"
           ],
           "answerIndex": 1,
           "explanation": "Oscar Niemeyer."
@@ -11321,10 +11321,10 @@
         {
           "prompt": "Como se chamam os tijolos vazados tradicionais da arquitetura brasileira que deixam o vento passar e criam sombras decorativas?",
           "options": [
-            "Cobogós (Arquitetura modernista brasileira)",
-            "Muros de chumbo (Arquitetura modernista brasileira)",
-            "Vidros fumê (Arquitetura modernista brasileira)",
-            "Tijolos maciços escuros (Arquitetura modernista brasileira)"
+            "Cobogós",
+            "Muros de chumbo",
+            "Vidros fumê",
+            "Tijolos maciços escuros"
           ],
           "answerIndex": 0,
           "explanation": "Cobogós."
@@ -11336,10 +11336,10 @@
         {
           "prompt": "Qual artista plástico brasileiro criou os célebres painéis de azulejos geométricos azuis e brancos integrados aos edifícios de Brasília?",
           "options": [
-            "Athos Bulcão (Arquitetura modernista brasileira)",
-            "Vik Muniz (Arquitetura modernista brasileira)",
-            "Cândido Portinari (Arquitetura modernista brasileira)",
-            "Tarsila do Amaral (Arquitetura modernista brasileira)"
+            "Athos Bulcão",
+            "Vik Muniz",
+            "Cândido Portinari",
+            "Tarsila do Amaral"
           ],
           "answerIndex": 0,
           "explanation": "Athos Bulcão.",
@@ -11348,10 +11348,10 @@
         {
           "prompt": "Traduza: \"Reinforced concrete curves, open pilotis columns, and hollow-brick cobogó screens define Brazilian architectural masterworks.\"",
           "options": [
-            "Brasília não é reconhecida pela UNESCO. (Arquitetura modernista brasileira)",
-            "Niemeyer projetava apenas casas de madeira. (Arquitetura modernista brasileira)",
-            "A arquitetura brasileira não utiliza concreto. (Arquitetura modernista brasileira)",
-            "Curvas de concreto armado, pilotis abertos e painéis vazados de cobogó definem as obras-primas da arquitetura brasileira. (Arquitetura modernista brasileira)"
+            "Brasília não é reconhecida pela UNESCO.",
+            "Niemeyer projetava apenas casas de madeira.",
+            "A arquitetura brasileira não utiliza concreto.",
+            "Curvas de concreto armado, pilotis abertos e painéis vazados de cobogó definem as obras-primas da arquitetura brasileira."
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural history translation.",
@@ -11388,10 +11388,10 @@
         {
           "prompt": "Qual fonte de energia renovável limpa cresce exponencialmente nos telhados de casas e prédios em todo o Brasil?",
           "options": [
-            "Energia solar fotovoltaica (Casas inteligentes e sustentabilidade no Brasil)",
-            "Carvão mineral poluente (Casas inteligentes e sustentabilidade no Brasil)",
-            "Gás de botijão (Casas inteligentes e sustentabilidade no Brasil)",
-            "Queima de óleo diesel (Casas inteligentes e sustentabilidade no Brasil)"
+            "Energia solar fotovoltaica",
+            "Carvão mineral poluente",
+            "Gás de botijão",
+            "Queima de óleo diesel"
           ],
           "answerIndex": 0,
           "explanation": "Energia solar fotovoltaica."
@@ -11403,10 +11403,10 @@
         {
           "prompt": "Como se chama o reservatório utilizado para coletar e armazenar água da chuva para regar plantas e limpar o quintal?",
           "options": [
-            "Banheira (Casas inteligentes e sustentabilidade no Brasil)",
-            "Pia de cozinha (Casas inteligentes e sustentabilidade no Brasil)",
-            "Filtro de café (Casas inteligentes e sustentabilidade no Brasil)",
-            "Cisterna de captação pluvial (Casas inteligentes e sustentabilidade no Brasil)"
+            "Banheira",
+            "Pia de cozinha",
+            "Filtro de café",
+            "Cisterna de captação pluvial"
           ],
           "answerIndex": 3,
           "explanation": "Cisterna pluvial."
@@ -11418,10 +11418,10 @@
         {
           "prompt": "Qual dispositivo de segurança residencial moderno substitui a chave tradicional de metal por senha numérica ou impressão digital?",
           "options": [
-            "Corrente com cadeado (Casas inteligentes e sustentabilidade no Brasil)",
-            "Trinco de ferro antigo (Casas inteligentes e sustentabilidade no Brasil)",
-            "Arame (Casas inteligentes e sustentabilidade no Brasil)",
-            "Fechadura digital (Casas inteligentes e sustentabilidade no Brasil)"
+            "Corrente com cadeado",
+            "Trinco de ferro antigo",
+            "Arame",
+            "Fechadura digital"
           ],
           "answerIndex": 3,
           "explanation": "Fechadura digital.",
@@ -11430,10 +11430,10 @@
         {
           "prompt": "Traduza: \"Rooftop solar photovoltaic generation and smart automated appliances drastically reduce household energy costs.\"",
           "options": [
-            "Painéis solares não funcionam sob sol forte. (Casas inteligentes e sustentabilidade no Brasil)",
-            "A energia solar aumenta as contas de eletricidade. (Casas inteligentes e sustentabilidade no Brasil)",
-            "A geração solar fotovoltaica no telhado e aparelhos inteligentes automatizados reduzem drasticamente os custos de energia doméstica. (Casas inteligentes e sustentabilidade no Brasil)",
-            "A automação residencial é proibida. (Casas inteligentes e sustentabilidade no Brasil)"
+            "Painéis solares não funcionam sob sol forte.",
+            "A energia solar aumenta as contas de eletricidade.",
+            "A geração solar fotovoltaica no telhado e aparelhos inteligentes automatizados reduzem drasticamente os custos de energia doméstica.",
+            "A automação residencial é proibida."
           ],
           "answerIndex": 2,
           "explanation": "Accurate smart home statement translation.",
@@ -11470,10 +11470,10 @@
         {
           "prompt": "Como se chama o regime de contratação com todos os direitos trabalhistas garantidos por lei no Brasil?",
           "options": [
-            "Trabalho informal sem contrato (O mercado de trabalho no Brasil Gupy)",
-            "Estágio voluntário (O mercado de trabalho no Brasil Gupy)",
-            "Bico temporário (O mercado de trabalho no Brasil Gupy)",
-            "Regime CLT (O mercado de trabalho no Brasil Gupy)"
+            "Trabalho informal sem contrato",
+            "Estágio voluntário",
+            "Bico temporário",
+            "Regime CLT"
           ],
           "answerIndex": 3,
           "explanation": "Regime CLT (carteira assinada)."
@@ -11485,10 +11485,10 @@
         {
           "prompt": "Qual é o percentual do salário que a empresa deposita mensalmente na conta do FGTS do trabalhador na Caixa Econômica Federal?",
           "options": [
-            "50% (O mercado de trabalho no Brasil Gupy)",
-            "1% (O mercado de trabalho no Brasil Gupy)",
-            "Zero (O mercado de trabalho no Brasil Gupy)",
-            "8% do salário bruto (O mercado de trabalho no Brasil Gupy)"
+            "50%",
+            "1%",
+            "Zero",
+            "8% do salário bruto"
           ],
           "answerIndex": 3,
           "explanation": "8% do salário (FGTS)."
@@ -11500,10 +11500,10 @@
         {
           "prompt": "Qual é o adicional financeiro constitucional obrigatório pago ao trabalhador junto com suas férias remuneradas de 30 dias?",
           "options": [
-            "Nenhum adicional (O mercado de trabalho no Brasil Gupy)",
-            "Metade do salário apenas (O mercado de trabalho no Brasil Gupy)",
-            "Um terço (O mercado de trabalho no Brasil Gupy)",
-            "O dobro do salário (O mercado de trabalho no Brasil Gupy)"
+            "Nenhum adicional",
+            "Metade do salário apenas",
+            "Um terço",
+            "O dobro do salário"
           ],
           "answerIndex": 2,
           "explanation": "1/3 constitucional de férias.",
@@ -11512,10 +11512,10 @@
         {
           "prompt": "Traduza: \"The employee signed a permanent CLT employment contract with full health insurance and 13th-month bonus entitlements.\"",
           "options": [
-            "O trabalhador foi demitido sem direitos. (O mercado de trabalho no Brasil Gupy)",
-            "O funcionário assinou um contrato de trabalho CLT permanente com plano de saúde completo e direito ao décimo terceiro salário. (O mercado de trabalho no Brasil Gupy)",
-            "A empresa não oferece nenhum benefício. (O mercado de trabalho no Brasil Gupy)",
-            "O contrato dura apenas um dia. (O mercado de trabalho no Brasil Gupy)"
+            "O trabalhador foi demitido sem direitos.",
+            "O funcionário assinou um contrato de trabalho CLT permanente com plano de saúde completo e direito ao décimo terceiro salário.",
+            "A empresa não oferece nenhum benefício.",
+            "O contrato dura apenas um dia."
           ],
           "answerIndex": 1,
           "explanation": "Accurate labor contract translation.",
@@ -11552,10 +11552,10 @@
         {
           "prompt": "Qual ritual diário de pausa no escritório é tradicional para trocar ideias informais entre colegas no Brasil?",
           "options": [
-            "A pausa do cafezinho (Cultura corporativa no Brasil)",
-            "O silêncio absoluto (Cultura corporativa no Brasil)",
-            "A aula de ginástica olímpica (Cultura corporativa no Brasil)",
-            "O jogo de xadrez de 5 horas (Cultura corporativa no Brasil)"
+            "A pausa do cafezinho",
+            "O silêncio absoluto",
+            "A aula de ginástica olímpica",
+            "O jogo de xadrez de 5 horas"
           ],
           "answerIndex": 0,
           "explanation": "A pausa do cafezinho."
@@ -11567,10 +11567,10 @@
         {
           "prompt": "Como se chama o encontro descontraído em bares após o fim do expediente de trabalho, especialmente às sextas-feiras?",
           "options": [
-            "O happy hour (Cultura corporativa no Brasil)",
-            "A assembleia de condomínio (Cultura corporativa no Brasil)",
-            "O plantão noturno (Cultura corporativa no Brasil)",
-            "A entrevista de emprego (Cultura corporativa no Brasil)"
+            "O happy hour",
+            "A assembleia de condomínio",
+            "O plantão noturno",
+            "A entrevista de emprego"
           ],
           "answerIndex": 0,
           "explanation": "O happy hour."
@@ -11582,10 +11582,10 @@
         {
           "prompt": "Qual é a característica marcante da cultura corporativa brasileira nas relações interpessoais e liderança de equipes?",
           "options": [
-            "Extrema frieza e formalismo excessivo (Cultura corporativa no Brasil)",
-            "Cordialidade, proximidade humana, empatia e construção de relacionamentos de confiança (Cultura corporativa no Brasil)",
-            "Trabalho estritamente solitário (Cultura corporativa no Brasil)",
-            "Proibição de conversas entre colegas (Cultura corporativa no Brasil)"
+            "Extrema frieza e formalismo excessivo",
+            "Cordialidade, proximidade humana, empatia e construção de relacionamentos de confiança",
+            "Trabalho estritamente solitário",
+            "Proibição de conversas entre colegas"
           ],
           "answerIndex": 1,
           "explanation": "Cordialidade, empatia e confiança.",
@@ -11594,10 +11594,10 @@
         {
           "prompt": "Traduza: \"Engaging in informal coffee breaks and post-work social happy hours strengthens cross-functional collaboration and team morale.\"",
           "options": [
-            "Participar de pausas para o café e happy hours sociais após o trabalho fortalece a colaboração entre equipes e o moral do time. (Cultura corporativa no Brasil)",
-            "Os funcionários não devem interagir socialmente. (Cultura corporativa no Brasil)",
-            "O happy hour reduz a produtividade. (Cultura corporativa no Brasil)",
-            "As pausas para o café são proibidas nas empresas. (Cultura corporativa no Brasil)"
+            "Participar de pausas para o café e happy hours sociais após o trabalho fortalece a colaboração entre equipes e o moral do time.",
+            "Os funcionários não devem interagir socialmente.",
+            "O happy hour reduz a produtividade.",
+            "As pausas para o café são proibidas nas empresas."
           ],
           "answerIndex": 0,
           "explanation": "Accurate workplace culture translation.",
@@ -11634,10 +11634,10 @@
         {
           "prompt": "Quantos dias de licença-maternidade remunerada recebem as mães em empresas participantes do Programa Empresa Cidadã?",
           "options": [
-            "15 dias apenas (Direitos sociais e licenas no Brasil)",
-            "180 dias (Direitos sociais e licenas no Brasil)",
-            "30 dias (Direitos sociais e licenas no Brasil)",
-            "Zero dias (Direitos sociais e licenas no Brasil)"
+            "15 dias apenas",
+            "180 dias",
+            "30 dias",
+            "Zero dias"
           ],
           "answerIndex": 1,
           "explanation": "180 dias (6 meses)."
@@ -11649,10 +11649,10 @@
         {
           "prompt": "Qual é o percentual da multa indenizatória paga pela empresa sobre o saldo do FGTS em caso de demissão sem justa causa?",
           "options": [
-            "Multa de 40% do FGTS (Direitos sociais e licenas no Brasil)",
-            "Sem nenhuma multa (Direitos sociais e licenas no Brasil)",
-            "Multa de 5% (Direitos sociais e licenas no Brasil)",
-            "Multa de 100% (Direitos sociais e licenas no Brasil)"
+            "Multa de 40% do FGTS",
+            "Sem nenhuma multa",
+            "Multa de 5%",
+            "Multa de 100%"
           ],
           "answerIndex": 0,
           "explanation": "Multa de 40% do FGTS."
@@ -11664,10 +11664,10 @@
         {
           "prompt": "Qual benefício financeiro temporário garante suporte de renda ao trabalhador demitido sem justa causa enquanto busca nova colocação?",
           "options": [
-            "O seguro-desemprego (Direitos sociais e licenas no Brasil)",
-            "A taxa de embarque (Direitos sociais e licenas no Brasil)",
-            "A anuidade do cartão (Direitos sociais e licenas no Brasil)",
-            "O imposto de renda (Direitos sociais e licenas no Brasil)"
+            "O seguro-desemprego",
+            "A taxa de embarque",
+            "A anuidade do cartão",
+            "O imposto de renda"
           ],
           "answerIndex": 0,
           "explanation": "O seguro-desemprego.",
@@ -11676,10 +11676,10 @@
         {
           "prompt": "Traduza: \"The employee is legally protected by maternity employment stability and received full statutory severance payments upon contract termination.\"",
           "options": [
-            "Não há direitos rescisórios no Brasil. (Direitos sociais e licenas no Brasil)",
-            "A licença-maternidade não é remunerada. (Direitos sociais e licenas no Brasil)",
-            "A empresa não pagou a multa do FGTS. (Direitos sociais e licenas no Brasil)",
-            "A funcionária tem estabilidade legal no emprego e recebeu todas as verbas rescisórias devidas ao término do contrato. (Direitos sociais e licenas no Brasil)"
+            "Não há direitos rescisórios no Brasil.",
+            "A licença-maternidade não é remunerada.",
+            "A empresa não pagou a multa do FGTS.",
+            "A funcionária tem estabilidade legal no emprego e recebeu todas as verbas rescisórias devidas ao término do contrato."
           ],
           "answerIndex": 3,
           "explanation": "Accurate social rights translation.",
@@ -11716,10 +11716,10 @@
         {
           "prompt": "Qual banco digital fundado no Brasil se tornou o maior banco digital do mundo ocidental com mais de 100 milhões de clientes?",
           "options": [
-            "Caixa de fósforos (O ecossistema de startups e tecnologia no Brasil)",
-            "Nubank (O ecossistema de startups e tecnologia no Brasil)",
-            "Livraria (O ecossistema de startups e tecnologia no Brasil)",
-            "Banco Postal (O ecossistema de startups e tecnologia no Brasil)"
+            "Caixa de fósforos",
+            "Nubank",
+            "Livraria",
+            "Banco Postal"
           ],
           "answerIndex": 1,
           "explanation": "Nubank."
@@ -11731,10 +11731,10 @@
         {
           "prompt": "Qual sistema público de pagamentos instantâneos criado pelo Banco Central do Brasil funciona 24/7 de graça e revolucionou as finanças?",
           "options": [
-            "O vale postal de correio (O ecossistema de startups e tecnologia no Brasil)",
-            "O Pix (O ecossistema de startups e tecnologia no Brasil)",
-            "A nota promissória (O ecossistema de startups e tecnologia no Brasil)",
-            "O cheque em papel (O ecossistema de startups e tecnologia no Brasil)"
+            "O vale postal de correio",
+            "O Pix",
+            "A nota promissória",
+            "O cheque em papel"
           ],
           "answerIndex": 1,
           "explanation": "O Pix."
@@ -11746,10 +11746,10 @@
         {
           "prompt": "Qual célebre avenida em São Paulo é conhecida como o coração financeiro, de investimentos e de startups de tecnologia do Brasil?",
           "options": [
-            "Avenida Beira-Mar (O ecossistema de startups e tecnologia no Brasil)",
-            "Rua 25 de Março (O ecossistema de startups e tecnologia no Brasil)",
-            "Avenida Niemeyer (O ecossistema de startups e tecnologia no Brasil)",
-            "Avenida Brigadeiro Faria Lima (O ecossistema de startups e tecnologia no Brasil)"
+            "Avenida Beira-Mar",
+            "Rua 25 de Março",
+            "Avenida Niemeyer",
+            "Avenida Brigadeiro Faria Lima"
           ],
           "answerIndex": 3,
           "explanation": "Avenida Faria Lima.",
@@ -11758,10 +11758,10 @@
         {
           "prompt": "Traduza: \"Pioneering financial technology innovations such as zero-fee instant Pix payments and digital banking drive unprecedented economic inclusion.\"",
           "options": [
-            "O Pix é um sistema caro e lento. (O ecossistema de startups e tecnologia no Brasil)",
-            "Startups não existem no Brasil. (O ecossistema de startups e tecnologia no Brasil)",
-            "Inovações pioneiras em tecnologia financeira, como pagamentos instantâneos via Pix e bancos digitais, impulsionam uma inclusão econômica sem precedentes. (O ecossistema de startups e tecnologia no Brasil)",
-            "O Nubank encerrou suas atividades. (O ecossistema de startups e tecnologia no Brasil)"
+            "O Pix é um sistema caro e lento.",
+            "Startups não existem no Brasil.",
+            "Inovações pioneiras em tecnologia financeira, como pagamentos instantâneos via Pix e bancos digitais, impulsionam uma inclusão econômica sem precedentes.",
+            "O Nubank encerrou suas atividades."
           ],
           "answerIndex": 2,
           "explanation": "Accurate fintech ecosystem translation.",
@@ -11798,10 +11798,10 @@
         {
           "prompt": "Qual fabricante aeroespacial brasileira é a 3ª maior fabricante de jatos comerciais e executivos do mundo?",
           "options": [
-            "A Embraer (Grandes gigantes corporativos globais do Brasil)",
-            "A Boeing americana (Grandes gigantes corporativos globais do Brasil)",
-            "A Bombardier (Grandes gigantes corporativos globais do Brasil)",
-            "A Airbus europeia (Grandes gigantes corporativos globais do Brasil)"
+            "A Embraer",
+            "A Boeing americana",
+            "A Bombardier",
+            "A Airbus europeia"
           ],
           "answerIndex": 0,
           "explanation": "A Embraer."
@@ -11813,10 +11813,10 @@
         {
           "prompt": "Em qual tecnologia de exploração de energia a Petrobras brasileira é reconhecida como a líder mundial indiscutível?",
           "options": [
-            "Mineração de carvão mineral (Grandes gigantes corporativos globais do Brasil)",
-            "Extração de areia de praia (Grandes gigantes corporativos globais do Brasil)",
-            "Queima de lenha (Grandes gigantes corporativos globais do Brasil)",
-            "Exploração de petróleo e gás em águas ultraprofundas (Grandes gigantes corporativos globais do Brasil)"
+            "Mineração de carvão mineral",
+            "Extração de areia de praia",
+            "Queima de lenha",
+            "Exploração de petróleo e gás em águas ultraprofundas"
           ],
           "answerIndex": 3,
           "explanation": "Águas ultraprofundas (Pré-Sal)."
@@ -11828,10 +11828,10 @@
         {
           "prompt": "Qual empresa de Santa Catarina é uma das maiores fabricantes mundiais de motores elétricos industriais e tecnologia de energia eólica?",
           "options": [
-            "A fábrica de brinquedos (Grandes gigantes corporativos globais do Brasil)",
-            "A fábrica de calçados (Grandes gigantes corporativos globais do Brasil)",
-            "A WEG (Grandes gigantes corporativos globais do Brasil)",
-            "A gráfica municipal (Grandes gigantes corporativos globais do Brasil)"
+            "A fábrica de brinquedos",
+            "A fábrica de calçados",
+            "A WEG",
+            "A gráfica municipal"
           ],
           "answerIndex": 2,
           "explanation": "A WEG.",
@@ -11840,10 +11840,10 @@
         {
           "prompt": "Traduza: \"State-of-the-art commercial aerospace engineering and ultra-deepwater energy technologies drive Brazil's industrial competitiveness worldwide.\"",
           "options": [
-            "A Embraer não produz aviões comerciais. (Grandes gigantes corporativos globais do Brasil)",
-            "A engenharia aeroespacial comercial de ponta e tecnologias energéticas em águas ultraprofundas impulsionam a competitividade industrial do Brasil no mundo. (Grandes gigantes corporativos globais do Brasil)",
-            "O Brasil não possui indústrias de alta tecnologia. (Grandes gigantes corporativos globais do Brasil)",
-            "O Pré-Sal brasileiro é fictício. (Grandes gigantes corporativos globais do Brasil)"
+            "A Embraer não produz aviões comerciais.",
+            "A engenharia aeroespacial comercial de ponta e tecnologias energéticas em águas ultraprofundas impulsionam a competitividade industrial do Brasil no mundo.",
+            "O Brasil não possui indústrias de alta tecnologia.",
+            "O Pré-Sal brasileiro é fictício."
           ],
           "answerIndex": 1,
           "explanation": "Accurate industrial leadership translation.",
@@ -11880,10 +11880,10 @@
         {
           "prompt": "What meteorological phenomenon refers to the massive atmospheric vapor currents pumped by Amazonian trees that supply rain to southern South America?",
           "options": [
-            "Furacões atlânticos (The Amazon Biome)",
-            "Monções asiáticas (The Amazon Biome)",
-            "El Niño (The Amazon Biome)",
-            "Rios voadores (The Amazon Biome)"
+            "Furacões atlânticos",
+            "Monções asiáticas",
+            "El Niño",
+            "Rios voadores"
           ],
           "answerIndex": 3,
           "explanation": "Rios voadores."
@@ -11895,10 +11895,10 @@
         {
           "prompt": "Which Brazilian space research institute operates the PRODES and DETER satellite systems tracking forest conservation in real time?",
           "options": [
-            "NASA (The Amazon Biome)",
-            "Embraer (The Amazon Biome)",
-            "Petrobras (The Amazon Biome)",
-            "INPE (The Amazon Biome)"
+            "NASA",
+            "Embraer",
+            "Petrobras",
+            "INPE"
           ],
           "answerIndex": 3,
           "explanation": "INPE."
@@ -11910,10 +11910,10 @@
         {
           "prompt": "Translate: \"Real-time satellite monitoring empowers environmental enforcement agents to detect illegal land incursions and protect indigenous reserves.\"",
           "options": [
-            "A Amazônia não tem monitoramento por satélite. (The Amazon Biome)",
-            "O monitoramento por satélite em tempo real capacita os agentes de fiscalização ambiental a detectar invasões ilegais e proteger as terras indígenas. (The Amazon Biome)",
-            "As terras indígenas não são protegidas pela Constituição. (The Amazon Biome)",
-            "O desmatamento não pode ser medido do espaço. (The Amazon Biome)"
+            "A Amazônia não tem monitoramento por satélite.",
+            "O monitoramento por satélite em tempo real capacita os agentes de fiscalização ambiental a detectar invasões ilegais e proteger as terras indígenas.",
+            "As terras indígenas não são protegidas pela Constituição.",
+            "O desmatamento não pode ser medido do espaço."
           ],
           "answerIndex": 1,
           "explanation": "Accurate satellite conservation translation.",
@@ -11922,10 +11922,10 @@
         {
           "prompt": "Which vast Brazilian savanna biome, considered the richest tropical savanna on Earth, acts as the \"cradle of waters\" connecting major river basins?",
           "options": [
-            "O Cerrado (The Amazon Biome)",
-            "A Caatinga (The Amazon Biome)",
-            "O Pampa (The Amazon Biome)",
-            "A Mata Atlântica (The Amazon Biome)"
+            "O Cerrado",
+            "A Caatinga",
+            "O Pampa",
+            "A Mata Atlântica"
           ],
           "answerIndex": 0,
           "explanation": "O Cerrado.",
@@ -11962,10 +11962,10 @@
         {
           "prompt": "What percentage range of Brazil's national electricity generation comes from clean renewable energy sources?",
           "options": [
-            "Over 85% renewable electricity (Clean energy matrix)",
-            "Zero renewable energy (Clean energy matrix)",
-            "Only 10% (Clean energy matrix)",
-            "Under 25% (Clean energy matrix)"
+            "Over 85% renewable electricity",
+            "Zero renewable energy",
+            "Only 10%",
+            "Under 25%"
           ],
           "answerIndex": 0,
           "explanation": "Over 85% renewable."
@@ -11977,10 +11977,10 @@
         {
           "prompt": "What renewable biofuel made from sugarcane powers flex-fuel vehicles across Brazil as a low-carbon alternative to gasoline?",
           "options": [
-            "Etanol de cana-de-açúcar (Clean energy matrix)",
-            "Carvão vegetal (Clean energy matrix)",
-            "Óleo diesel pesado (Clean energy matrix)",
-            "Querosene (Clean energy matrix)"
+            "Etanol de cana-de-açúcar",
+            "Carvão vegetal",
+            "Óleo diesel pesado",
+            "Querosene"
           ],
           "answerIndex": 0,
           "explanation": "Etanol de cana-de-açúcar."
@@ -11992,10 +11992,10 @@
         {
           "prompt": "Translate: \"The steady coastal trade winds of the Northeast have turned the region into an energetic powerhouse of clean wind electricity generation.\"",
           "options": [
-            "Os ventos alísios costeiros e constantes do Nordeste transformaram a região em uma potência energética de geração eólica limpa. (Clean energy matrix)",
-            "A matriz elétrica brasileira depende exclusivamente de carvão importado. (Clean energy matrix)",
-            "A usina de Itaipu foi desativada. (Clean energy matrix)",
-            "O Nordeste não tem vento. (Clean energy matrix)"
+            "Os ventos alísios costeiros e constantes do Nordeste transformaram a região em uma potência energética de geração eólica limpa.",
+            "A matriz elétrica brasileira depende exclusivamente de carvão importado.",
+            "A usina de Itaipu foi desativada.",
+            "O Nordeste não tem vento."
           ],
           "answerIndex": 0,
           "explanation": "Accurate energy matrix translation.",
@@ -12004,10 +12004,10 @@
         {
           "prompt": "Which massive binational hydroelectric dam on the Paraná River is shared between Brazil and Paraguay?",
           "options": [
-            "Belo Monte (Clean energy matrix)",
-            "Tucuruí (Clean energy matrix)",
-            "Sobradinho (Clean energy matrix)",
-            "Itaipu Binacional (Clean energy matrix)"
+            "Belo Monte",
+            "Tucuruí",
+            "Sobradinho",
+            "Itaipu Binacional"
           ],
           "answerIndex": 3,
           "explanation": "Itaipu Binacional.",
@@ -12044,10 +12044,10 @@
         {
           "prompt": "What is the largest continuous tropical wetland biome on Earth, celebrated for its high density of jaguars and hyacinth macaws?",
           "options": [
-            "O Saara (The Pantanal wetland biome)",
-            "O Pantanal (The Pantanal wetland biome)",
-            "Os Pampas (The Pantanal wetland biome)",
-            "O Deserto de Atacama (The Pantanal wetland biome)"
+            "O Saara",
+            "O Pantanal",
+            "Os Pampas",
+            "O Deserto de Atacama"
           ],
           "answerIndex": 1,
           "explanation": "O Pantanal."
@@ -12059,10 +12059,10 @@
         {
           "prompt": "What is the giant stork that serves as the official symbol bird of the Pantanal called?",
           "options": [
-            "O Tuiuiú (The Pantanal wetland biome)",
-            "O Papagaio (The Pantanal wetland biome)",
-            "O Pinguim (The Pantanal wetland biome)",
-            "O Avestruz (The Pantanal wetland biome)"
+            "O Tuiuiú",
+            "O Papagaio",
+            "O Pinguim",
+            "O Avestruz"
           ],
           "answerIndex": 0,
           "explanation": "O Tuiuiú."
@@ -12074,10 +12074,10 @@
         {
           "prompt": "Translate: \"The annual flood pulse of the Pantanal rejuvenates soil nutrients and feeds thousands of aquatic and terrestrial animal species.\"",
           "options": [
-            "As lagoas do Pantanal são artificiais. (The Pantanal wetland biome)",
-            "Não existem animais nativos no Pantanal. (The Pantanal wetland biome)",
-            "O Pantanal é um deserto seco o ano todo. (The Pantanal wetland biome)",
-            "O pulso anual de inundação do Pantanal rejuvenesce os nutrientes do solo e alimenta milhares de espécies animais aquáticas e terrestres. (The Pantanal wetland biome)"
+            "As lagoas do Pantanal são artificiais.",
+            "Não existem animais nativos no Pantanal.",
+            "O Pantanal é um deserto seco o ano todo.",
+            "O pulso anual de inundação do Pantanal rejuvenesce os nutrientes do solo e alimenta milhares de espécies animais aquáticas e terrestres."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Pantanal ecology translation.",
@@ -12086,10 +12086,10 @@
         {
           "prompt": "Which vibrant cobalt-blue parrot species was rescued from endangerment through dedicated Pantanal nesting conservation projects?",
           "options": [
-            "O Pardal (The Pantanal wetland biome)",
-            "O Corvo (The Pantanal wetland biome)",
-            "A Arara-azul-grande (The Pantanal wetland biome)",
-            "O Canário (The Pantanal wetland biome)"
+            "O Pardal",
+            "O Corvo",
+            "A Arara-azul-grande",
+            "O Canário"
           ],
           "answerIndex": 2,
           "explanation": "A Arara-azul-grande.",
@@ -12126,10 +12126,10 @@
         {
           "prompt": "What farming methodology developed in Brazil mimics natural forest succession to produce crops while regenerating degraded soils into food forests?",
           "options": [
-            "Queimada indiscriminada (Agroforestry systems SAFs)",
-            "Agricultura Sintrópica / Sistemas Agroflorestais (Agroforestry systems SAFs)",
-            "Desmatamento raso (Agroforestry systems SAFs)",
-            "Monocultura química com agrotóxicos (Agroforestry systems SAFs)"
+            "Queimada indiscriminada",
+            "Agricultura Sintrópica / Sistemas Agroflorestais",
+            "Desmatamento raso",
+            "Monocultura química com agrotóxicos"
           ],
           "answerIndex": 1,
           "explanation": "Agricultura Sintrópica / SAFs."
@@ -12141,10 +12141,10 @@
         {
           "prompt": "Which Amazonian palm berry has become a global superfood sensation while generating sustainable bioeconomy wealth for local riverine communities?",
           "options": [
-            "A Maçã (Agroforestry systems SAFs)",
-            "O Açaí (Agroforestry systems SAFs)",
-            "A Uva (Agroforestry systems SAFs)",
-            "O Trigo (Agroforestry systems SAFs)"
+            "A Maçã",
+            "O Açaí",
+            "A Uva",
+            "O Trigo"
           ],
           "answerIndex": 1,
           "explanation": "O Açaí."
@@ -12156,10 +12156,10 @@
         {
           "prompt": "Translate: \"The standing forest bioeconomy demonstrates that preserved rainforests generate far greater long-term economic value than clear-cutting for cattle pasture.\"",
           "options": [
-            "As castanheiras crescem em estufas plásticas. (Agroforestry systems SAFs)",
-            "O açaí destrói o solo amazônico. (Agroforestry systems SAFs)",
-            "A bioeconomia da floresta em pé demonstra que a floresta preservada gera um valor econômico de longo prazo muito superior ao corte raso para pastagens. (Agroforestry systems SAFs)",
-            "Derrubar a floresta é a única forma de gerar riqueza. (Agroforestry systems SAFs)"
+            "As castanheiras crescem em estufas plásticas.",
+            "O açaí destrói o solo amazônico.",
+            "A bioeconomia da floresta em pé demonstra que a floresta preservada gera um valor econômico de longo prazo muito superior ao corte raso para pastagens.",
+            "Derrubar a floresta é a única forma de gerar riqueza."
           ],
           "answerIndex": 2,
           "explanation": "Accurate bioeconomy translation.",
@@ -12168,10 +12168,10 @@
         {
           "prompt": "Why can Brazil nut trees (castanheiras) only produce nuts in wild, preserved primary rainforest ecosystems?",
           "options": [
-            "They are genetically modified plants (Agroforestry systems SAFs)",
-            "They require wild forest biodiversity and specialized orchid bees for cross-pollination (Agroforestry systems SAFs)",
-            "They need artificial chemical hormones (Agroforestry systems SAFs)",
-            "They only grow inside deep caves (Agroforestry systems SAFs)"
+            "They are genetically modified plants",
+            "They require wild forest biodiversity and specialized orchid bees for cross-pollination",
+            "They need artificial chemical hormones",
+            "They only grow inside deep caves"
           ],
           "answerIndex": 1,
           "explanation": "Require wild biodiversity and specialized orchid bees.",
@@ -12290,10 +12290,10 @@
         {
           "prompt": "What is the world's largest universal public healthcare system, created by Brazil's 1988 Constitution to provide 100% free healthcare to all?",
           "options": [
-            "O NHS britânico apenas (The Unified Health System SUS)",
-            "Medicare dos EUA (The Unified Health System SUS)",
-            "Seguro privado comercial (The Unified Health System SUS)",
-            "O SUS (The Unified Health System SUS)"
+            "O NHS britânico apenas",
+            "Medicare dos EUA",
+            "Seguro privado comercial",
+            "O SUS"
           ],
           "answerIndex": 3,
           "explanation": "O SUS (Sistema Único de Saúde)."
@@ -12305,10 +12305,10 @@
         {
           "prompt": "What emergency telephone number connects citizens anywhere in Brazil to the SAMU mobile emergency medical ambulance service?",
           "options": [
-            "911 (The Unified Health System SUS)",
-            "190 (The Unified Health System SUS)",
-            "192 (The Unified Health System SUS)",
-            "100 (The Unified Health System SUS)"
+            "911",
+            "190",
+            "192",
+            "100"
           ],
           "answerIndex": 2,
           "explanation": "192 (SAMU 192)."
@@ -12320,10 +12320,10 @@
         {
           "prompt": "Translate: \"Community health agents visit families in their homes every month, tracking child growth, vaccination schedules, and chronic hypertension.\"",
           "options": [
-            "Os agentes comunitários de saúde visitam as famílias em suas casas todos os meses, acompanhando o crescimento infantil, o calendário de vacinas e a hipertensão crônica. (The Unified Health System SUS)",
-            "O SUS não atende pacientes em casa. (The Unified Health System SUS)",
-            "O tratamento de câncer é proibido no SUS. (The Unified Health System SUS)",
-            "Apenas pessoas ricas têm direito ao SUS. (The Unified Health System SUS)"
+            "Os agentes comunitários de saúde visitam as famílias em suas casas todos os meses, acompanhando o crescimento infantil, o calendário de vacinas e a hipertensão crônica.",
+            "O SUS não atende pacientes em casa.",
+            "O tratamento de câncer é proibido no SUS.",
+            "Apenas pessoas ricas têm direito ao SUS."
           ],
           "answerIndex": 0,
           "explanation": "Accurate SUS translation.",
@@ -12332,10 +12332,10 @@
         {
           "prompt": "What percentage of organ transplant surgeries in Brazil are fully funded and performed through the public SUS network?",
           "options": [
-            "Zero por cento (The Unified Health System SUS)",
-            "Apenas 10% (The Unified Health System SUS)",
-            "Menos de 5% (The Unified Health System SUS)",
-            "Mais de 95% dos transplantes (The Unified Health System SUS)"
+            "Zero por cento",
+            "Apenas 10%",
+            "Menos de 5%",
+            "Mais de 95% dos transplantes"
           ],
           "answerIndex": 3,
           "explanation": "Mais de 95% dos transplantes.",
@@ -12372,10 +12372,10 @@
         {
           "prompt": "Which Brazilian scientist founded the Butantan Institute and discovered that antivenoms must be specific to each species of venomous snake?",
           "options": [
-            "Vital Brazil (Worldrenowned biomedical institutes)",
-            "Carlos Chagas (Worldrenowned biomedical institutes)",
-            "Santos Dumont (Worldrenowned biomedical institutes)",
-            "Machado de Assis (Worldrenowned biomedical institutes)"
+            "Vital Brazil",
+            "Carlos Chagas",
+            "Santos Dumont",
+            "Machado de Assis"
           ],
           "answerIndex": 0,
           "explanation": "Vital Brazil."
@@ -12387,10 +12387,10 @@
         {
           "prompt": "What iconic scientific foundation in Rio de Janeiro, with its famous Moorish castle, is Latin America's largest biomedical research institution?",
           "options": [
-            "Fiocruz (Worldrenowned biomedical institutes)",
-            "Instituto Butantan (Worldrenowned biomedical institutes)",
-            "USP (Worldrenowned biomedical institutes)",
-            "Embraer (Worldrenowned biomedical institutes)"
+            "Fiocruz",
+            "Instituto Butantan",
+            "USP",
+            "Embraer"
           ],
           "answerIndex": 0,
           "explanation": "Fiocruz."
@@ -12402,10 +12402,10 @@
         {
           "prompt": "Translate: \"The Butantan Institute extracts venom from snakes, scorpions, and spiders to produce life-saving antivenom serums distributed freely across public hospitals.\"",
           "options": [
-            "O Instituto Butantan não trabalha com vacinas. (Worldrenowned biomedical institutes)",
-            "Cobras venenosas não existem no Brasil. (Worldrenowned biomedical institutes)",
-            "A Fiocruz é uma empresa privada estrangeira. (Worldrenowned biomedical institutes)",
-            "O Instituto Butantan extrai veneno de serpentes, escorpiões e aranhas para produzir soros antiofídicos que salvam vidas, distribuídos gratuitamente nos hospitais públicos. (Worldrenowned biomedical institutes)"
+            "O Instituto Butantan não trabalha com vacinas.",
+            "Cobras venenosas não existem no Brasil.",
+            "A Fiocruz é uma empresa privada estrangeira.",
+            "O Instituto Butantan extrai veneno de serpentes, escorpiões e aranhas para produzir soros antiofídicos que salvam vidas, distribuídos gratuitamente nos hospitais públicos."
           ],
           "answerIndex": 3,
           "explanation": "Accurate public science translation.",
@@ -12414,10 +12414,10 @@
         {
           "prompt": "Who was the Brazilian sanitarian who eradicated yellow fever and smallpox in early 20th-century Rio de Janeiro and gave his name to Fiocruz?",
           "options": [
-            "Vital Brazil (Worldrenowned biomedical institutes)",
-            "Adolfo Lutz (Worldrenowned biomedical institutes)",
-            "Oswaldo Cruz (Worldrenowned biomedical institutes)",
-            "Paulo Freire (Worldrenowned biomedical institutes)"
+            "Vital Brazil",
+            "Adolfo Lutz",
+            "Oswaldo Cruz",
+            "Paulo Freire"
           ],
           "answerIndex": 2,
           "explanation": "Oswaldo Cruz.",
@@ -12454,10 +12454,10 @@
         {
           "prompt": "Who is the only physician in the history of world medicine to single-handedly discover a disease, its pathogen (Trypanosoma cruzi), its vector (barbeiro), and its clinical pathology?",
           "options": [
-            "Carlos Chagas (Tropical medicine discoveries)",
-            "Robert Koch (Tropical medicine discoveries)",
-            "Louis Pasteur (Tropical medicine discoveries)",
-            "Edward Jenner (Tropical medicine discoveries)"
+            "Carlos Chagas",
+            "Robert Koch",
+            "Louis Pasteur",
+            "Edward Jenner"
           ],
           "answerIndex": 0,
           "explanation": "Carlos Chagas."
@@ -12469,10 +12469,10 @@
         {
           "prompt": "What is the common Brazilian name for the triatomine insect vector (\"kissing bug\") that transmits Chagas disease?",
           "options": [
-            "O barbeiro (Tropical medicine discoveries)",
-            "A abelha (Tropical medicine discoveries)",
-            "O mosquito Aedes (Tropical medicine discoveries)",
-            "A mosca doméstica (Tropical medicine discoveries)"
+            "O barbeiro",
+            "A abelha",
+            "O mosquito Aedes",
+            "A mosca doméstica"
           ],
           "answerIndex": 0,
           "explanation": "O barbeiro."
@@ -12484,10 +12484,10 @@
         {
           "prompt": "Translate: \"Controlling kissing bug insect vectors in rural housing through insecticide spraying and housing improvements drastically reduced Chagas disease transmission.\"",
           "options": [
-            "O Trypanosoma cruzi é uma bactéria vegetal. (Tropical medicine discoveries)",
-            "Carlos Chagas nunca trabalhou na Fiocruz. (Tropical medicine discoveries)",
-            "O controle dos insetos barbeiros em habitações rurais através de pulverização e melhorias habitacionais reduziu drasticamente a transmissão da doença de Chagas. (Tropical medicine discoveries)",
-            "A doença de Chagas é transmitida por vírus aéreo. (Tropical medicine discoveries)"
+            "O Trypanosoma cruzi é uma bactéria vegetal.",
+            "Carlos Chagas nunca trabalhou na Fiocruz.",
+            "O controle dos insetos barbeiros em habitações rurais através de pulverização e melhorias habitacionais reduziu drasticamente a transmissão da doença de Chagas.",
+            "A doença de Chagas é transmitida por vírus aéreo."
           ],
           "answerIndex": 2,
           "explanation": "Accurate tropical medicine translation.",
@@ -12496,10 +12496,10 @@
         {
           "prompt": "After whom did Carlos Chagas name the protozoan parasite *Trypanosoma cruzi*?",
           "options": [
-            "Dom Pedro II (Tropical medicine discoveries)",
-            "Oswaldo Cruz (Tropical medicine discoveries)",
-            "Getúlio Vargas (Tropical medicine discoveries)",
-            "Vital Brazil (Tropical medicine discoveries)"
+            "Dom Pedro II",
+            "Oswaldo Cruz",
+            "Getúlio Vargas",
+            "Vital Brazil"
           ],
           "answerIndex": 1,
           "explanation": "Oswaldo Cruz.",
@@ -12536,10 +12536,10 @@
         {
           "prompt": "What beloved mascot character was created in Brazil in 1986 to encourage children to take oral polio vaccines during mass vaccination days?",
           "options": [
-            "Saci-Pererê (Universal National Immunization Program PNI)",
-            "Zé Gotinha (Universal National Immunization Program PNI)",
-            "Mônica (Universal National Immunization Program PNI)",
-            "Curupira (Universal National Immunization Program PNI)"
+            "Saci-Pererê",
+            "Zé Gotinha",
+            "Mônica",
+            "Curupira"
           ],
           "answerIndex": 1,
           "explanation": "Zé Gotinha."
@@ -12551,10 +12551,10 @@
         {
           "prompt": "What public health agency coordinates the distribution of over 300 million free vaccine doses across all Brazilian municipalities?",
           "options": [
-            "O IBGE (Universal National Immunization Program PNI)",
-            "O PNI (Universal National Immunization Program PNI)",
-            "A Petrobras (Universal National Immunization Program PNI)",
-            "A ANATEL (Universal National Immunization Program PNI)"
+            "O IBGE",
+            "O PNI",
+            "A Petrobras",
+            "A ANATEL"
           ],
           "answerIndex": 1,
           "explanation": "O PNI."
@@ -12566,10 +12566,10 @@
         {
           "prompt": "Translate: \"Nationwide vaccination days mobilize tens of thousands of healthcare workers and volunteers at postos de saúde to guarantee high immunization coverage.\"",
           "options": [
-            "As vacinas do PNI são cobradas em dinheiro. (Universal National Immunization Program PNI)",
-            "Os dias nacionais de vacinação mobilizam dezenas de milhares de profissionais de saúde e voluntários nos postos de saúde para garantir alta cobertura vacinal. (Universal National Immunization Program PNI)",
-            "Zé Gotinha é um personagem de desenho animado estrangeiro. (Universal National Immunization Program PNI)",
-            "O Brasil nunca erradicou a poliomielite. (Universal National Immunization Program PNI)"
+            "As vacinas do PNI são cobradas em dinheiro.",
+            "Os dias nacionais de vacinação mobilizam dezenas de milhares de profissionais de saúde e voluntários nos postos de saúde para garantir alta cobertura vacinal.",
+            "Zé Gotinha é um personagem de desenho animado estrangeiro.",
+            "O Brasil nunca erradicou a poliomielite."
           ],
           "answerIndex": 1,
           "explanation": "Accurate immunization translation.",
@@ -12578,10 +12578,10 @@
         {
           "prompt": "Since which year has indigenous wild polio transmission been completely eradicated in Brazil thanks to mass vaccination campaigns?",
           "options": [
-            "1989 (Universal National Immunization Program PNI)",
-            "1950 (Universal National Immunization Program PNI)",
-            "1900 (Universal National Immunization Program PNI)",
-            "2020 (Universal National Immunization Program PNI)"
+            "1989",
+            "1950",
+            "1900",
+            "2020"
           ],
           "answerIndex": 0,
           "explanation": "1989.",
@@ -12700,10 +12700,10 @@
         {
           "prompt": "Which monumental Brazilian novel by João Guimarães Rosa is celebrated as one of the greatest masterpieces of world literature?",
           "options": [
-            "Dom Casmurro (The Metaphysics of the Serto)",
-            "Macunaíma (The Metaphysics of the Serto)",
-            "Vidas Secas (The Metaphysics of the Serto)",
-            "Grande Sertão: Veredas (The Metaphysics of the Serto)"
+            "Dom Casmurro",
+            "Macunaíma",
+            "Vidas Secas",
+            "Grande Sertão: Veredas"
           ],
           "answerIndex": 3,
           "explanation": "Grande Sertão: Veredas."
@@ -12715,10 +12715,10 @@
         {
           "prompt": "What famous philosophical phrase repeated by Riobaldo in Grande Sertão encapsulates the existential peril of human living?",
           "options": [
-            "«Penso, logo existo» (The Metaphysics of the Serto)",
-            "«A vida é bela» (The Metaphysics of the Serto)",
-            "«Viver é muito perigoso» (The Metaphysics of the Serto)",
-            "«Tudo vale a pena» (The Metaphysics of the Serto)"
+            "«Penso, logo existo»",
+            "«A vida é bela»",
+            "«Viver é muito perigoso»",
+            "«Tudo vale a pena»"
           ],
           "answerIndex": 2,
           "explanation": "«Viver é muito perigoso»."
@@ -12730,10 +12730,10 @@
         {
           "prompt": "Translate: \"The epic crossing of the backlands symbolizes the metaphysical journey of the human soul navigating moral ambiguity and love.\"",
           "options": [
-            "O sertão no livro é um deserto sem história. (The Metaphysics of the Serto)",
-            "Guimarães Rosa escreveu apenas contos policiais. (The Metaphysics of the Serto)",
-            "Grande Sertão: Veredas foi escrito em inglês. (The Metaphysics of the Serto)",
-            "A épica travessia do sertão simboliza a jornada metafísica da alma humana navegando pela ambiguidade moral e pelo amor. (The Metaphysics of the Serto)"
+            "O sertão no livro é um deserto sem história.",
+            "Guimarães Rosa escreveu apenas contos policiais.",
+            "Grande Sertão: Veredas foi escrito em inglês.",
+            "A épica travessia do sertão simboliza a jornada metafísica da alma humana navegando pela ambiguidade moral e pelo amor."
           ],
           "answerIndex": 3,
           "explanation": "Accurate literary analysis translation.",
@@ -12742,10 +12742,10 @@
         {
           "prompt": "What is the name of Riobaldo's courageous companion in the bandit troop whose secret identity is revealed in the tragic climax of *Grande Sertão: Veredas*?",
           "options": [
-            "Zé Bebelo (The Metaphysics of the Serto)",
-            "Hermógenes (The Metaphysics of the Serto)",
-            "Diadorim (The Metaphysics of the Serto)",
-            "Joca Ramiro (The Metaphysics of the Serto)"
+            "Zé Bebelo",
+            "Hermógenes",
+            "Diadorim",
+            "Joca Ramiro"
           ],
           "answerIndex": 2,
           "explanation": "Diadorim.",
@@ -12782,10 +12782,10 @@
         {
           "prompt": "Which Brazilian writer authored the radical existential ontological masterpiece «A Paixão segundo G.H.» (1964)?",
           "options": [
-            "Clarice Lispector (Existential Epiphany  The Foreign Soul)",
-            "Cecília Meireles (Existential Epiphany  The Foreign Soul)",
-            "Lygia Fagundes Telles (Existential Epiphany  The Foreign Soul)",
-            "Rachel de Queiroz (Existential Epiphany  The Foreign Soul)"
+            "Clarice Lispector",
+            "Cecília Meireles",
+            "Lygia Fagundes Telles",
+            "Rachel de Queiroz"
           ],
           "answerIndex": 0,
           "explanation": "Clarice Lispector."
@@ -12797,10 +12797,10 @@
         {
           "prompt": "What is the name of the northeastern typist protagonist in Clarice Lispector's final masterpiece «A Hora da Estrela»?",
           "options": [
-            "Macabéa (Existential Epiphany  The Foreign Soul)",
-            "Capitu (Existential Epiphany  The Foreign Soul)",
-            "Iracema (Existential Epiphany  The Foreign Soul)",
-            "Gabriela (Existential Epiphany  The Foreign Soul)"
+            "Macabéa",
+            "Capitu",
+            "Iracema",
+            "Gabriela"
           ],
           "answerIndex": 0,
           "explanation": "Macabéa."
@@ -12812,10 +12812,10 @@
         {
           "prompt": "Translate: \"Clarice Lispector's radical prose pushes language to its absolute limit to touch the silent, pre-verbal essence of pure existence.\"",
           "options": [
-            "Clarice Lispector escreveu livros de culinária. (Existential Epiphany  The Foreign Soul)",
-            "A Paixão segundo G.H. é uma comédia teatral. (Existential Epiphany  The Foreign Soul)",
-            "A prosa radical de Clarice Lispector leva a linguagem ao seu limite absoluto para tocar a essência silenciosa e pré-verbal da pura existência. (Existential Epiphany  The Foreign Soul)",
-            "Macabéa era uma rainha europeia. (Existential Epiphany  The Foreign Soul)"
+            "Clarice Lispector escreveu livros de culinária.",
+            "A Paixão segundo G.H. é uma comédia teatral.",
+            "A prosa radical de Clarice Lispector leva a linguagem ao seu limite absoluto para tocar a essência silenciosa e pré-verbal da pura existência.",
+            "Macabéa era uma rainha europeia."
           ],
           "answerIndex": 2,
           "explanation": "Accurate existential prose translation.",
@@ -12824,10 +12824,10 @@
         {
           "prompt": "What creature's encounter in a wardrobe triggers G.H.'s profound existential deconstruction of human identity and social class?",
           "options": [
-            "Um pássaro (Existential Epiphany  The Foreign Soul)",
-            "Uma barata (Existential Epiphany  The Foreign Soul)",
-            "Uma serpente (Existential Epiphany  The Foreign Soul)",
-            "Um gato (Existential Epiphany  The Foreign Soul)"
+            "Um pássaro",
+            "Uma barata",
+            "Uma serpente",
+            "Um gato"
           ],
           "answerIndex": 1,
           "explanation": "Uma barata (A cockroach).",
@@ -12864,10 +12864,10 @@
         {
           "prompt": "Which Brazilian educator and philosopher wrote the globally influential treatise «Pedagogia do Oprimido» (1968)?",
           "options": [
-            "Paulo Freire (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Darcy Ribeiro (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Anísio Teixeira (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Florestan Fernandes (Critical Consciousness  Pedagogy of the Oppressed)"
+            "Paulo Freire",
+            "Darcy Ribeiro",
+            "Anísio Teixeira",
+            "Florestan Fernandes"
           ],
           "answerIndex": 0,
           "explanation": "Paulo Freire."
@@ -12879,10 +12879,10 @@
         {
           "prompt": "What term did Paulo Freire coin to describe traditional authoritarian education where students are treated as empty receptacles for deposits?",
           "options": [
-            "Educação bancária (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Educação holística (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Educação libertadora (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Círculo de cultura (Critical Consciousness  Pedagogy of the Oppressed)"
+            "Educação bancária",
+            "Educação holística",
+            "Educação libertadora",
+            "Círculo de cultura"
           ],
           "answerIndex": 0,
           "explanation": "Educação bancária."
@@ -12894,10 +12894,10 @@
         {
           "prompt": "Translate: \"Critical consciousness enables oppressed individuals to recognize social contradictions and organize collective action to transform their reality.\"",
           "options": [
-            "Paulo Freire defendia o analfabetismo. (Critical Consciousness  Pedagogy of the Oppressed)",
-            "A conscientização crítica permite aos indivíduos oprimidos reconhecer as contradições sociais e organizar ações coletivas para transformar sua realidade. (Critical Consciousness  Pedagogy of the Oppressed)",
-            "A educação bancária é o modelo defendido por Freire. (Critical Consciousness  Pedagogy of the Oppressed)",
-            "A Pedagogia do Oprimido é um livro sobre finanças. (Critical Consciousness  Pedagogy of the Oppressed)"
+            "Paulo Freire defendia o analfabetismo.",
+            "A conscientização crítica permite aos indivíduos oprimidos reconhecer as contradições sociais e organizar ações coletivas para transformar sua realidade.",
+            "A educação bancária é o modelo defendido por Freire.",
+            "A Pedagogia do Oprimido é um livro sobre finanças."
           ],
           "answerIndex": 1,
           "explanation": "Accurate critical pedagogy translation.",
@@ -12906,10 +12906,10 @@
         {
           "prompt": "In which northeastern town in Rio Grande do Norte did Paulo Freire famously teach 300 sugarcane farmworkers to read in 45 days in 1963?",
           "options": [
-            "Angicos (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Salvador (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Fortaleza (Critical Consciousness  Pedagogy of the Oppressed)",
-            "Recife (Critical Consciousness  Pedagogy of the Oppressed)"
+            "Angicos",
+            "Salvador",
+            "Fortaleza",
+            "Recife"
           ],
           "answerIndex": 0,
           "explanation": "Angicos.",
@@ -12946,10 +12946,10 @@
         {
           "prompt": "Which Brazilian anthropologist at the Museu Nacional formulated the revolutionary theory of \"Amerindian Perspectivism\"?",
           "options": [
-            "Claude Lévi-Strauss (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Eduardo Viveiros de Castro (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Darcy Ribeiro (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Gilberto Freyre (Amerindian Perspectivism  Decolonial Anthropology)"
+            "Claude Lévi-Strauss",
+            "Eduardo Viveiros de Castro",
+            "Darcy Ribeiro",
+            "Gilberto Freyre"
           ],
           "answerIndex": 1,
           "explanation": "Eduardo Viveiros de Castro."
@@ -12961,10 +12961,10 @@
         {
           "prompt": "In contrast to Western multiculturalism (One Nature, Many Cultures), what concept defines Amazonian indigenous cosmology according to Perspectivism?",
           "options": [
-            "Materialismo puro (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Multinaturalismo (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Dualismo cartesiano (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Monoteísmo estrito (Amerindian Perspectivism  Decolonial Anthropology)"
+            "Materialismo puro",
+            "Multinaturalismo",
+            "Dualismo cartesiano",
+            "Monoteísmo estrito"
           ],
           "answerIndex": 1,
           "explanation": "Multinaturalismo."
@@ -12976,10 +12976,10 @@
         {
           "prompt": "Translate: \"Amerindian Perspectivism reveals that Amazonian jaguars and spirits perceive themselves as human beings possessing cultural agency and rituals.\"",
           "options": [
-            "O perspectivismo ameríndio revela que as onças e os espíritos amazônicos se percebem como seres humanos dotados de agência cultural e rituais. (Amerindian Perspectivism  Decolonial Anthropology)",
-            "O perspectivismo é uma técnica de desenho renascentista. (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Os povos indígenas não possuem filosofia cósmica. (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Viveiros de Castro defende a destruição da Amazônia. (Amerindian Perspectivism  Decolonial Anthropology)"
+            "O perspectivismo ameríndio revela que as onças e os espíritos amazônicos se percebem como seres humanos dotados de agência cultural e rituais.",
+            "O perspectivismo é uma técnica de desenho renascentista.",
+            "Os povos indígenas não possuem filosofia cósmica.",
+            "Viveiros de Castro defende a destruição da Amazônia."
           ],
           "answerIndex": 0,
           "explanation": "Accurate anthropological philosophy translation.",
@@ -12988,10 +12988,10 @@
         {
           "prompt": "With which renowned Yanomami shaman did Viveiros de Castro collaborate to amplify indigenous Amazonian philosophy to global audiences?",
           "options": [
-            "Raoni Metuktire (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Tupã (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Marçal de Souza (Amerindian Perspectivism  Decolonial Anthropology)",
-            "Davi Kopenawa (Amerindian Perspectivism  Decolonial Anthropology)"
+            "Raoni Metuktire",
+            "Tupã",
+            "Marçal de Souza",
+            "Davi Kopenawa"
           ],
           "answerIndex": 3,
           "explanation": "Davi Kopenawa.",
@@ -13110,10 +13110,10 @@
         {
           "prompt": "Which Brazilian architect won the 1988 Pritzker Prize and designed the iconic monumental buildings of Brasília?",
           "options": [
-            "Lúcio Costa (Monumental Curves of Modernism)",
-            "Lina Bo Bardi (Monumental Curves of Modernism)",
-            "Paulo Mendes da Rocha (Monumental Curves of Modernism)",
-            "Oscar Niemeyer (Monumental Curves of Modernism)"
+            "Lúcio Costa",
+            "Lina Bo Bardi",
+            "Paulo Mendes da Rocha",
+            "Oscar Niemeyer"
           ],
           "answerIndex": 3,
           "explanation": "Oscar Niemeyer."
@@ -13125,10 +13125,10 @@
         {
           "prompt": "What geometric shape did Niemeyer explicitly reject in his famous poetic manifesto, choosing instead free sensual curves?",
           "options": [
-            "A curva parabólica (Monumental Curves of Modernism)",
-            "O círculo (Monumental Curves of Modernism)",
-            "O ângulo reto e a linha dura (Monumental Curves of Modernism)",
-            "A elipse (Monumental Curves of Modernism)"
+            "A curva parabólica",
+            "O círculo",
+            "O ângulo reto e a linha dura",
+            "A elipse"
           ],
           "answerIndex": 2,
           "explanation": "O ângulo reto e a linha dura."
@@ -13140,10 +13140,10 @@
         {
           "prompt": "Translate: \"Niemeyer's soaring concrete parabolic columns on the Metropolitan Cathedral create an ethereal sanctuary illuminated by stained glass.\"",
           "options": [
-            "Brasília foi construída no século XIX. (Monumental Curves of Modernism)",
-            "Niemeyer utilizou apenas tijolos de barro em Brasília. (Monumental Curves of Modernism)",
-            "As colunas parabólicas de concreto de Niemeyer na Catedral Metropolitana criam um santuário etéreo iluminado por vitrais coloridos. (Monumental Curves of Modernism)",
-            "O Congresso Nacional é um prédio de madeira clássica. (Monumental Curves of Modernism)"
+            "Brasília foi construída no século XIX.",
+            "Niemeyer utilizou apenas tijolos de barro em Brasília.",
+            "As colunas parabólicas de concreto de Niemeyer na Catedral Metropolitana criam um santuário etéreo iluminado por vitrais coloridos.",
+            "O Congresso Nacional é um prédio de madeira clássica."
           ],
           "answerIndex": 2,
           "explanation": "Accurate architectural analysis translation.",
@@ -13152,10 +13152,10 @@
         {
           "prompt": "Which visionary Brazilian president commissioned Oscar Niemeyer and Lúcio Costa to build the new federal capital of Brasília in the late 1950s?",
           "options": [
-            "Getúlio Vargas (Monumental Curves of Modernism)",
-            "Juscelino Kubitschek (Monumental Curves of Modernism)",
-            "Fernando Henrique Cardoso (Monumental Curves of Modernism)",
-            "Lula da Silva (Monumental Curves of Modernism)"
+            "Getúlio Vargas",
+            "Juscelino Kubitschek",
+            "Fernando Henrique Cardoso",
+            "Lula da Silva"
           ],
           "answerIndex": 1,
           "explanation": "Juscelino Kubitschek.",
@@ -13192,10 +13192,10 @@
         {
           "prompt": "Which urban planner created the world-famous \"Plano Piloto\" (Pilot Plan) defining the layout of Brasília in the shape of a cross/airplane?",
           "options": [
-            "Lúcio Costa (Pilot Plan Urbanism)",
-            "Affonso Eduardo Reidy (Pilot Plan Urbanism)",
-            "Oscar Niemeyer (Pilot Plan Urbanism)",
-            "Burle Marx (Pilot Plan Urbanism)"
+            "Lúcio Costa",
+            "Affonso Eduardo Reidy",
+            "Oscar Niemeyer",
+            "Burle Marx"
           ],
           "answerIndex": 0,
           "explanation": "Lúcio Costa."
@@ -13207,10 +13207,10 @@
         {
           "prompt": "What architectural feature allows pedestrians to walk freely beneath all residential apartment buildings in the Superquadras of Brasília?",
           "options": [
-            "Pilotis (Pilot Plan Urbanism)",
-            "Muros altos com arame (Pilot Plan Urbanism)",
-            "Portões trancados (Pilot Plan Urbanism)",
-            "Fossos com água (Pilot Plan Urbanism)"
+            "Pilotis",
+            "Muros altos com arame",
+            "Portões trancados",
+            "Fossos com água"
           ],
           "answerIndex": 0,
           "explanation": "Pilotis (Open ground-level pillars)."
@@ -13222,10 +13222,10 @@
         {
           "prompt": "Translate: \"The Monumental Axis organizes all federal administrative powers along an expansive green mall terminating at the Praça dos Três Poderes.\"",
           "options": [
-            "O Plano Piloto foi desenhado em formato de círculo fechado. (Pilot Plan Urbanism)",
-            "O Eixo Monumental organiza todos os poderes administrativos federais ao longo de um amplo gramado que termina na Praça dos Três Poderes. (Pilot Plan Urbanism)",
-            "As superquadras são condomínios fechados privados. (Pilot Plan Urbanism)",
-            "Lúcio Costa proibiu a construção de árvores na cidade. (Pilot Plan Urbanism)"
+            "O Plano Piloto foi desenhado em formato de círculo fechado.",
+            "O Eixo Monumental organiza todos os poderes administrativos federais ao longo de um amplo gramado que termina na Praça dos Três Poderes.",
+            "As superquadras são condomínios fechados privados.",
+            "Lúcio Costa proibiu a construção de árvores na cidade."
           ],
           "answerIndex": 1,
           "explanation": "Accurate urbanism analysis translation.",
@@ -13234,10 +13234,10 @@
         {
           "prompt": "In which year was the city of Brasília officially designated as a UNESCO World Heritage Site?",
           "options": [
-            "1987 (Pilot Plan Urbanism)",
-            "2000 (Pilot Plan Urbanism)",
-            "2014 (Pilot Plan Urbanism)",
-            "1960 (Pilot Plan Urbanism)"
+            "1987",
+            "2000",
+            "2014",
+            "1960"
           ],
           "answerIndex": 0,
           "explanation": "1987.",
@@ -13274,10 +13274,10 @@
         {
           "prompt": "Which master Brazilian landscape architect created the iconic wave-patterned promenade of Copacabana Beach and the Parque do Flamengo in Rio?",
           "options": [
-            "Roberto Burle Marx (Modern Tropical Landscape Architecture)",
-            "Lúcio Costa (Modern Tropical Landscape Architecture)",
-            "Oscar Niemeyer (Modern Tropical Landscape Architecture)",
-            "Paulo Mendes da Rocha (Modern Tropical Landscape Architecture)"
+            "Roberto Burle Marx",
+            "Lúcio Costa",
+            "Oscar Niemeyer",
+            "Paulo Mendes da Rocha"
           ],
           "answerIndex": 0,
           "explanation": "Roberto Burle Marx."
@@ -13289,10 +13289,10 @@
         {
           "prompt": "What revolutionary botanical decision did Burle Marx make that transformed garden design in Latin America?",
           "options": [
-            "Using native Brazilian tropical plants and bromeliads instead of imported European roses (Modern Tropical Landscape Architecture)",
-            "Using only desert cacti (Modern Tropical Landscape Architecture)",
-            "Paving all gardens with concrete (Modern Tropical Landscape Architecture)",
-            "Planting only plastic trees (Modern Tropical Landscape Architecture)"
+            "Using native Brazilian tropical plants and bromeliads instead of imported European roses",
+            "Using only desert cacti",
+            "Paving all gardens with concrete",
+            "Planting only plastic trees"
           ],
           "answerIndex": 0,
           "explanation": "Using native Brazilian tropical plants."
@@ -13304,10 +13304,10 @@
         {
           "prompt": "Translate: \"The undulating black-and-white stone mosaic of Copacabana Beach forms a dynamic graphic rhythm harmonizing the ocean waves with urban architecture.\"",
           "options": [
-            "O mosaico ondulado de pedras pretas e brancas da praia de Copacabana forma um ritmo gráfico dinâmico que harmoniza as ondas do mar com a arquitetura urbana. (Modern Tropical Landscape Architecture)",
-            "O Parque do Flamengo é uma pista de corrida fechada. (Modern Tropical Landscape Architecture)",
-            "O calçadão de Copacabana foi construído com asfalto simples. (Modern Tropical Landscape Architecture)",
-            "Burle Marx desenhou apenas jardins na Europa. (Modern Tropical Landscape Architecture)"
+            "O mosaico ondulado de pedras pretas e brancas da praia de Copacabana forma um ritmo gráfico dinâmico que harmoniza as ondas do mar com a arquitetura urbana.",
+            "O Parque do Flamengo é uma pista de corrida fechada.",
+            "O calçadão de Copacabana foi construído com asfalto simples.",
+            "Burle Marx desenhou apenas jardins na Europa."
           ],
           "answerIndex": 0,
           "explanation": "Accurate landscape architecture translation.",
@@ -13316,10 +13316,10 @@
         {
           "prompt": "What UNESCO World Heritage botanical estate in Guaratiba, Rio de Janeiro preserves Burle Marx's personal collection of over 3,500 tropical plant species?",
           "options": [
-            "Quinta da Boa Vista (Modern Tropical Landscape Architecture)",
-            "Parque Lage (Modern Tropical Landscape Architecture)",
-            "Jardim Botânico do Rio apenas (Modern Tropical Landscape Architecture)",
-            "Sítio Roberto Burle Marx (Modern Tropical Landscape Architecture)"
+            "Quinta da Boa Vista",
+            "Parque Lage",
+            "Jardim Botânico do Rio apenas",
+            "Sítio Roberto Burle Marx"
           ],
           "answerIndex": 3,
           "explanation": "Sítio Roberto Burle Marx.",
@@ -13356,10 +13356,10 @@
         {
           "prompt": "Which Italian-Brazilian architect designed the iconic MASP on Avenida Paulista with its 74-meter suspended open plaza and SESC Pompéia?",
           "options": [
-            "Lúcio Costa (The Architecture of Human Dignity)",
-            "Lina Bo Bardi (The Architecture of Human Dignity)",
-            "Rosa Kliass (The Architecture of Human Dignity)",
-            "Oscar Niemeyer (The Architecture of Human Dignity)"
+            "Lúcio Costa",
+            "Lina Bo Bardi",
+            "Rosa Kliass",
+            "Oscar Niemeyer"
           ],
           "answerIndex": 1,
           "explanation": "Lina Bo Bardi."
@@ -13371,10 +13371,10 @@
         {
           "prompt": "How did Lina Bo Bardi famously display paintings inside MASP to eliminate traditional elitist wall hierarchies?",
           "options": [
-            "Nailed directly to floorboards (The Architecture of Human Dignity)",
-            "On transparent glass crystal easels floating in open space (The Architecture of Human Dignity)",
-            "Projected onto TV monitors (The Architecture of Human Dignity)",
-            "Hidden inside dark closets (The Architecture of Human Dignity)"
+            "Nailed directly to floorboards",
+            "On transparent glass crystal easels floating in open space",
+            "Projected onto TV monitors",
+            "Hidden inside dark closets"
           ],
           "answerIndex": 1,
           "explanation": "On transparent glass crystal easels."
@@ -13386,10 +13386,10 @@
         {
           "prompt": "Translate: \"The monumental 74-meter column-free span beneath MASP functions as a vibrant civic plaza for democratic public demonstrations and cultural events.\"",
           "options": [
-            "Lina Bo Bardi proibiu a entrada de cidadãos comuns no SESC Pompéia. (The Architecture of Human Dignity)",
-            "O MASP é um edifício subterrâneo sem janelas. (The Architecture of Human Dignity)",
-            "Os cavaletes de vidro foram destruídos na inauguração. (The Architecture of Human Dignity)",
-            "O vão livre monumental de 74 metros sob o MASP funciona como uma praça cívica vibrante para manifestações democráticas e eventos culturais. (The Architecture of Human Dignity)"
+            "Lina Bo Bardi proibiu a entrada de cidadãos comuns no SESC Pompéia.",
+            "O MASP é um edifício subterrâneo sem janelas.",
+            "Os cavaletes de vidro foram destruídos na inauguração.",
+            "O vão livre monumental de 74 metros sob o MASP funciona como uma praça cívica vibrante para manifestações democráticas e eventos culturais."
           ],
           "answerIndex": 3,
           "explanation": "Accurate architectural analysis translation.",
@@ -13398,10 +13398,10 @@
         {
           "prompt": "What factory building in São Paulo was transformed by Lina Bo Bardi into the world-renowned SESC Pompéia community cultural and sports center?",
           "options": [
-            "Um hospital psiquiátrico (The Architecture of Human Dignity)",
-            "Uma estação de trem desativada (The Architecture of Human Dignity)",
-            "Uma antiga fábrica de tambores de óleo (The Architecture of Human Dignity)",
-            "Um aeroporto militar (The Architecture of Human Dignity)"
+            "Um hospital psiquiátrico",
+            "Uma estação de trem desativada",
+            "Uma antiga fábrica de tambores de óleo",
+            "Um aeroporto militar"
           ],
           "answerIndex": 2,
           "explanation": "Uma antiga fábrica de tambores.",
@@ -13520,10 +13520,10 @@
         {
           "prompt": "Which Bahian guitarist and singer invented the iconic syncopated guitar beat and intimate vocal style that founded Bossa Nova in 1958 with \"Chega de Saudade\"?",
           "options": [
-            "Tom Jobim (Bossa Nova  The Sound of Ipanema)",
-            "Caetano Veloso (Bossa Nova  The Sound of Ipanema)",
-            "Gilberto Gil (Bossa Nova  The Sound of Ipanema)",
-            "João Gilberto (Bossa Nova  The Sound of Ipanema)"
+            "Tom Jobim",
+            "Caetano Veloso",
+            "Gilberto Gil",
+            "João Gilberto"
           ],
           "answerIndex": 3,
           "explanation": "João Gilberto."
@@ -13535,10 +13535,10 @@
         {
           "prompt": "What world-famous 1962 song composed by Tom Jobim with lyrics by Vinicius de Moraes became the second most recorded song in world history?",
           "options": [
-            "«Aquarela do Brasil» (Bossa Nova  The Sound of Ipanema)",
-            "«Garota de Ipanema» (Bossa Nova  The Sound of Ipanema)",
-            "«Mas que Nada» (Bossa Nova  The Sound of Ipanema)",
-            "«Samba de uma Nota Só» (Bossa Nova  The Sound of Ipanema)"
+            "«Aquarela do Brasil»",
+            "«Garota de Ipanema»",
+            "«Mas que Nada»",
+            "«Samba de uma Nota Só»"
           ],
           "answerIndex": 1,
           "explanation": "«Garota de Ipanema»."
@@ -13550,10 +13550,10 @@
         {
           "prompt": "Translate: \"João Gilberto isolated the complex syncopated polyrhythms of samba drums and distilled them into the thumb and fingers of a single acoustic guitar.\"",
           "options": [
-            "Tom Jobim era um baterista de heavy metal. (Bossa Nova  The Sound of Ipanema)",
-            "João Gilberto isolou os polirritmos sincopados complexos dos tambores do samba e os destilou no polegar e dedos de um único violão acústico. (Bossa Nova  The Sound of Ipanema)",
-            "A Bossa Nova proíbe o uso de acordes com sétima e nona. (Bossa Nova  The Sound of Ipanema)",
-            "Garota de Ipanema foi composta em Paris em 1850. (Bossa Nova  The Sound of Ipanema)"
+            "Tom Jobim era um baterista de heavy metal.",
+            "João Gilberto isolou os polirritmos sincopados complexos dos tambores do samba e os destilou no polegar e dedos de um único violão acústico.",
+            "A Bossa Nova proíbe o uso de acordes com sétima e nona.",
+            "Garota de Ipanema foi composta em Paris em 1850."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Bossa Nova analysis translation.",
@@ -13562,10 +13562,10 @@
         {
           "prompt": "Which legendary 1974 duo album featuring Elis Regina and Tom Jobim contains the definitive recording of the song *Águas de Março*?",
           "options": [
-            "«Elis & Tom» (Bossa Nova  The Sound of Ipanema)",
-            "«Getz/Gilberto» (Bossa Nova  The Sound of Ipanema)",
-            "«Wave» (Bossa Nova  The Sound of Ipanema)",
-            "«Construção» (Bossa Nova  The Sound of Ipanema)"
+            "«Elis & Tom»",
+            "«Getz/Gilberto»",
+            "«Wave»",
+            "«Construção»"
           ],
           "answerIndex": 0,
           "explanation": "«Elis & Tom» (1974).",
@@ -13602,10 +13602,10 @@
         {
           "prompt": "Which revolutionary cultural and musical movement was launched in Brazil in 1967 by Caetano Veloso and Gilberto Gil, merging rock guitars with Afro-Brazilian rhythms?",
           "options": [
-            "O Tropicalismo (Tropiclia  Cultural Anthropophagy)",
-            "A Choro Tradicional (Tropiclia  Cultural Anthropophagy)",
-            "A Jovem Guarda (Tropiclia  Cultural Anthropophagy)",
-            "O Samba Canção (Tropiclia  Cultural Anthropophagy)"
+            "O Tropicalismo",
+            "A Choro Tradicional",
+            "A Jovem Guarda",
+            "O Samba Canção"
           ],
           "answerIndex": 0,
           "explanation": "O Tropicalismo (Tropicália)."
@@ -13617,10 +13617,10 @@
         {
           "prompt": "What pioneering Brazilian psychedelic rock trio featuring Rita Lee, Arnaldo Baptista, and Sérgio Dias provided experimental guitars for Tropicália?",
           "options": [
-            "Os Mutantes (Tropiclia  Cultural Anthropophagy)",
-            "Secos & Molhados (Tropiclia  Cultural Anthropophagy)",
-            "Legião Urbana (Tropiclia  Cultural Anthropophagy)",
-            "Titãs (Tropiclia  Cultural Anthropophagy)"
+            "Os Mutantes",
+            "Secos & Molhados",
+            "Legião Urbana",
+            "Titãs"
           ],
           "answerIndex": 0,
           "explanation": "Os Mutantes."
@@ -13632,10 +13632,10 @@
         {
           "prompt": "Translate: \"Tropicalismo applied Oswald de Andrade's concept of cultural anthropophagy to digest Anglo-American electric rock and re-emit it in vibrant Brazilian avant-garde poetry.\"",
           "options": [
-            "O Tropicalismo aplicou o conceito de antropofagia cultural de Oswald de Andrade para digerir o rock elétrico anglo-americano e reemiti-lo em vibrante poesia de vanguarda brasileira. (Tropiclia  Cultural Anthropophagy)",
-            "Tropicália proibiu o uso de instrumentos elétricos. (Tropiclia  Cultural Anthropophagy)",
-            "Os Mutantes tocavam apenas música clássica barroca. (Tropiclia  Cultural Anthropophagy)",
-            "Caetano Veloso e Gilberto Gil apoiaram o regime militar. (Tropiclia  Cultural Anthropophagy)"
+            "O Tropicalismo aplicou o conceito de antropofagia cultural de Oswald de Andrade para digerir o rock elétrico anglo-americano e reemiti-lo em vibrante poesia de vanguarda brasileira.",
+            "Tropicália proibiu o uso de instrumentos elétricos.",
+            "Os Mutantes tocavam apenas música clássica barroca.",
+            "Caetano Veloso e Gilberto Gil apoiaram o regime militar."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Tropicalist analysis translation.",
@@ -13644,10 +13644,10 @@
         {
           "prompt": "What collective manifesto album released in 1968, featuring a iconic satirical family portrait on the cover, defined the Tropicalist movement?",
           "options": [
-            "«Clube da Esquina» (Tropiclia  Cultural Anthropophagy)",
-            "«Acabou Chorare» (Tropiclia  Cultural Anthropophagy)",
-            "«Transa» (Tropiclia  Cultural Anthropophagy)",
-            "«Tropicália: ou Panis et Circencis» (Tropiclia  Cultural Anthropophagy)"
+            "«Clube da Esquina»",
+            "«Acabou Chorare»",
+            "«Transa»",
+            "«Tropicália: ou Panis et Circencis»"
           ],
           "answerIndex": 3,
           "explanation": "«Tropicália: ou Panis et Circencis».",
@@ -13684,10 +13684,10 @@
         {
           "prompt": "Which Brazilian composer wrote the monumental series Bachianas Brasileiras and Chôros, performing at the 1922 Modern Art Week in São Paulo?",
           "options": [
-            "Heitor Villa-Lobos (Classical Symphonic Amazonia  Chros)",
-            "Carlos Gomes (Classical Symphonic Amazonia  Chros)",
-            "Claudio Santoro (Classical Symphonic Amazonia  Chros)",
-            "Camargo Guarnieri (Classical Symphonic Amazonia  Chros)"
+            "Heitor Villa-Lobos",
+            "Carlos Gomes",
+            "Claudio Santoro",
+            "Camargo Guarnieri"
           ],
           "answerIndex": 0,
           "explanation": "Heitor Villa-Lobos."
@@ -13699,10 +13699,10 @@
         {
           "prompt": "What unique instrumentation accompanies the solo soprano voice in the famous Ária (Cantilena) of Villa-Lobos' *Bachianas Brasileiras No. 5*?",
           "options": [
-            "An orchestra of eight cellos (Classical Symphonic Amazonia  Chros)",
-            "Apenas trompetes (Classical Symphonic Amazonia  Chros)",
-            "Um trio de jazz (Classical Symphonic Amazonia  Chros)",
-            "Uma banda militar (Classical Symphonic Amazonia  Chros)"
+            "An orchestra of eight cellos",
+            "Apenas trompetes",
+            "Um trio de jazz",
+            "Uma banda militar"
           ],
           "answerIndex": 0,
           "explanation": "An orchestra of eight cellos (Oito violoncelos)."
@@ -13714,10 +13714,10 @@
         {
           "prompt": "Translate: \"Villa-Lobos integrated indigenous Amazonian bird calls and syncopated street rhythms into rich orchestral polyphony inspired by Johann Sebastian Bach.\"",
           "options": [
-            "Villa-Lobos compôs apenas para violino solo. (Classical Symphonic Amazonia  Chros)",
-            "O Trenzinho do Caipira é uma música sobre naves espaciais. (Classical Symphonic Amazonia  Chros)",
-            "As Bachianas Brasileiras foram compostas no século XVIII. (Classical Symphonic Amazonia  Chros)",
-            "Villa-Lobos integrou cantos de pássaros indígenas da Amazônia e ritmos sincopados de rua em uma rica polifonia orquestral inspirada por Johann Sebastian Bach. (Classical Symphonic Amazonia  Chros)"
+            "Villa-Lobos compôs apenas para violino solo.",
+            "O Trenzinho do Caipira é uma música sobre naves espaciais.",
+            "As Bachianas Brasileiras foram compostas no século XVIII.",
+            "Villa-Lobos integrou cantos de pássaros indígenas da Amazônia e ritmos sincopados de rua em uma rica polifonia orquestral inspirada por Johann Sebastian Bach."
           ],
           "answerIndex": 3,
           "explanation": "Accurate classical music analysis translation.",
@@ -13726,10 +13726,10 @@
         {
           "prompt": "What 19th-century Brazilian romantic opera composer wrote *Il Guarany*, which premiered triumphantly at La Scala in Milan in 1870?",
           "options": [
-            "Heitor Villa-Lobos (Classical Symphonic Amazonia  Chros)",
-            "Francisco Mignone (Classical Symphonic Amazonia  Chros)",
-            "Antônio Carlos Gomes (Classical Symphonic Amazonia  Chros)",
-            "Alberto Nepomuceno (Classical Symphonic Amazonia  Chros)"
+            "Heitor Villa-Lobos",
+            "Francisco Mignone",
+            "Antônio Carlos Gomes",
+            "Alberto Nepomuceno"
           ],
           "answerIndex": 2,
           "explanation": "Antônio Carlos Gomes.",
@@ -13766,10 +13766,10 @@
         {
           "prompt": "Which Brazilian master lyricist and Camões Prize winner composed the 1971 poetic masterpiece \"Construção\", in which every verse ends in a proparoxytone word?",
           "options": [
-            "Gilberto Gil (Poetic Resistance  Polyphonic Architecture)",
-            "Chico Buarque (Poetic Resistance  Polyphonic Architecture)",
-            "Edu Lobo (Poetic Resistance  Polyphonic Architecture)",
-            "Caetano Veloso (Poetic Resistance  Polyphonic Architecture)"
+            "Gilberto Gil",
+            "Chico Buarque",
+            "Edu Lobo",
+            "Caetano Veloso"
           ],
           "answerIndex": 1,
           "explanation": "Chico Buarque."
@@ -13781,10 +13781,10 @@
         {
           "prompt": "What 1972 double album created in Minas Gerais by Milton Nascimento and Lô Borges was voted the #1 Greatest Brazilian Album of All Time in 2022?",
           "options": [
-            "«Tropicália» (Poetic Resistance  Polyphonic Architecture)",
-            "«Clube da Esquina» (Poetic Resistance  Polyphonic Architecture)",
-            "«Chega de Saudade» (Poetic Resistance  Polyphonic Architecture)",
-            "«Construção» (Poetic Resistance  Polyphonic Architecture)"
+            "«Tropicália»",
+            "«Clube da Esquina»",
+            "«Chega de Saudade»",
+            "«Construção»"
           ],
           "answerIndex": 1,
           "explanation": "«Clube da Esquina»."
@@ -13796,10 +13796,10 @@
         {
           "prompt": "Translate: \"Chico Buarque's song Cálice played on the auditory pun between the sacred communion cup and the imperative command shut up to protest state censorship.\"",
           "options": [
-            "Construção foi um álbum instrumental de música eletrônica. (Poetic Resistance  Polyphonic Architecture)",
-            "O Clube da Esquina foi gravado em Londres. (Poetic Resistance  Polyphonic Architecture)",
-            "A canção Cálice de Chico Buarque jogou com o trocadilho auditivo entre o cálice sagrado da comunhão e a ordem imperativa cale-se para protestar contra a censura estatal. (Poetic Resistance  Polyphonic Architecture)",
-            "Milton Nascimento nasceu nos Estados Unidos. (Poetic Resistance  Polyphonic Architecture)"
+            "Construção foi um álbum instrumental de música eletrônica.",
+            "O Clube da Esquina foi gravado em Londres.",
+            "A canção Cálice de Chico Buarque jogou com o trocadilho auditivo entre o cálice sagrado da comunhão e a ordem imperativa cale-se para protestar contra a censura estatal.",
+            "Milton Nascimento nasceu nos Estados Unidos."
           ],
           "answerIndex": 2,
           "explanation": "Accurate MPB lyric analysis translation.",
@@ -13808,10 +13808,10 @@
         {
           "prompt": "What grammatical metric stress feature characterizes the rhyme scheme of every single line in Chico Buarque's epic track *Construção*?",
           "options": [
-            "Versos sem métrica livre (Poetic Resistance  Polyphonic Architecture)",
-            "Terminações em palavras proparoxítonas (Poetic Resistance  Polyphonic Architecture)",
-            "Palavras em latim (Poetic Resistance  Polyphonic Architecture)",
-            "Rimas em palavras oxítonas apenas (Poetic Resistance  Polyphonic Architecture)"
+            "Versos sem métrica livre",
+            "Terminações em palavras proparoxítonas",
+            "Palavras em latim",
+            "Rimas em palavras oxítonas apenas"
           ],
           "answerIndex": 1,
           "explanation": "Terminações em palavras proparoxítonas.",
@@ -13930,10 +13930,10 @@
         {
           "prompt": "Which visionary Bahian filmmaker led the Cinema Novo movement and formulated the \"Aesthetics of Hunger\" in films like \"Deus e o Diabo na Terra do Sol\"?",
           "options": [
-            "Nelson Pereira dos Santos (Cinema Novo  The Aesthetics of Hunger)",
-            "Ruy Guerra (Cinema Novo  The Aesthetics of Hunger)",
-            "Carlos Diegues (Cinema Novo  The Aesthetics of Hunger)",
-            "Glauber Rocha (Cinema Novo  The Aesthetics of Hunger)"
+            "Nelson Pereira dos Santos",
+            "Ruy Guerra",
+            "Carlos Diegues",
+            "Glauber Rocha"
           ],
           "answerIndex": 3,
           "explanation": "Glauber Rocha."
@@ -13945,10 +13945,10 @@
         {
           "prompt": "What famous concise maxim was coined by Glauber Rocha to summarize the independent, guerrilla spirit of Cinema Novo?",
           "options": [
-            "«A arte pela arte» (Cinema Novo  The Aesthetics of Hunger)",
-            "«Uma câmera na mão e uma ideia na cabeça» (Cinema Novo  The Aesthetics of Hunger)",
-            "«Mais dinheiro, mais cinema» (Cinema Novo  The Aesthetics of Hunger)",
-            "«Copie Hollywood» (Cinema Novo  The Aesthetics of Hunger)"
+            "«A arte pela arte»",
+            "«Uma câmera na mão e uma ideia na cabeça»",
+            "«Mais dinheiro, mais cinema»",
+            "«Copie Hollywood»"
           ],
           "answerIndex": 1,
           "explanation": "«Uma câmera na mão e uma ideia na cabeça»."
@@ -13960,10 +13960,10 @@
         {
           "prompt": "Translate: \"The Aesthetics of Hunger asserted that cinematic violence in colonized lands is not gratuitous brutality but the noble cry of an oppressed people asserting their humanity.\"",
           "options": [
-            "A Estética da Fome afirmou que a violência cinematográfica nas terras colonizadas não é brutalidade gratuita, mas o grito nobre de um povo oprimido afirmando sua humanidade. (Cinema Novo  The Aesthetics of Hunger)",
-            "Glauber Rocha dirigia filmes de animação em 3D. (Cinema Novo  The Aesthetics of Hunger)",
-            "Deus e o Diabo na Terra do Sol foi filmado na Suíça. (Cinema Novo  The Aesthetics of Hunger)",
-            "O Cinema Novo proibia o uso de atores brasileiros. (Cinema Novo  The Aesthetics of Hunger)"
+            "A Estética da Fome afirmou que a violência cinematográfica nas terras colonizadas não é brutalidade gratuita, mas o grito nobre de um povo oprimido afirmando sua humanidade.",
+            "Glauber Rocha dirigia filmes de animação em 3D.",
+            "Deus e o Diabo na Terra do Sol foi filmado na Suíça.",
+            "O Cinema Novo proibia o uso de atores brasileiros."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Cinema Novo analysis translation.",
@@ -13972,10 +13972,10 @@
         {
           "prompt": "What fictional Latin American republic in Glauber Rocha's 1967 film *Terra em Transe* represents the political hallucinations and authoritarian struggles of the continent?",
           "options": [
-            "San Marcos (Cinema Novo  The Aesthetics of Hunger)",
-            "Macondo (Cinema Novo  The Aesthetics of Hunger)",
-            "Costaguana (Cinema Novo  The Aesthetics of Hunger)",
-            "Eldorado (Cinema Novo  The Aesthetics of Hunger)"
+            "San Marcos",
+            "Macondo",
+            "Costaguana",
+            "Eldorado"
           ],
           "answerIndex": 3,
           "explanation": "Eldorado.",
@@ -14012,10 +14012,10 @@
         {
           "prompt": "Which landmark 2002 Brazilian film directed by Fernando Meirelles and Kátia Lund earned four Academy Award nominations for its portrayal of Rio's favelas?",
           "options": [
-            "«Cidade de Deus» (Visceral Kinetic Realism)",
-            "«Tropa de Elite» (Visceral Kinetic Realism)",
-            "«Bacurau» (Visceral Kinetic Realism)",
-            "«Central do Brasil» (Visceral Kinetic Realism)"
+            "«Cidade de Deus»",
+            "«Tropa de Elite»",
+            "«Bacurau»",
+            "«Central do Brasil»"
           ],
           "answerIndex": 0,
           "explanation": "«Cidade de Deus» (City of God)."
@@ -14027,10 +14027,10 @@
         {
           "prompt": "What character in *Cidade de Deus* uses his passion for photojournalism and a camera to escape the cycle of favela drug violence?",
           "options": [
-            "Buscapé (Visceral Kinetic Realism)",
-            "Zé Pequeno (Visceral Kinetic Realism)",
-            "Mané Galinha (Visceral Kinetic Realism)",
-            "Bené (Visceral Kinetic Realism)"
+            "Buscapé",
+            "Zé Pequeno",
+            "Mané Galinha",
+            "Bené"
           ],
           "answerIndex": 0,
           "explanation": "Buscapé (Rocket)."
@@ -14042,10 +14042,10 @@
         {
           "prompt": "Translate: \"The kinetic editing and shifting color palettes of City of God visually chart the historical transformation of the housing project from an optimistic community into a fortress of urban warfare.\"",
           "options": [
-            "Cidade de Deus é uma série de televisão sobre culinária. (Visceral Kinetic Realism)",
-            "Fernando Meirelles utilizou apenas atores profissionais de Hollywood. (Visceral Kinetic Realism)",
-            "O filme foi gravado inteiramente em estúdios fechados em Paris. (Visceral Kinetic Realism)",
-            "A montagem cinética e as paletas de cores mutáveis de Cidade de Deus mapeiam visualmente a transformação histórica do conjunto habitacional de uma comunidade otimista em uma fortaleza de guerra urbana. (Visceral Kinetic Realism)"
+            "Cidade de Deus é uma série de televisão sobre culinária.",
+            "Fernando Meirelles utilizou apenas atores profissionais de Hollywood.",
+            "O filme foi gravado inteiramente em estúdios fechados em Paris.",
+            "A montagem cinética e as paletas de cores mutáveis de Cidade de Deus mapeiam visualmente a transformação histórica do conjunto habitacional de uma comunidade otimista em uma fortaleza de guerra urbana."
           ],
           "answerIndex": 3,
           "explanation": "Accurate cinema analysis translation.",
@@ -14054,10 +14054,10 @@
         {
           "prompt": "Which acclaimed Brazilian film editor received an Oscar nomination for his groundbreaking rhythmic cutting on *Cidade de Deus*?",
           "options": [
-            "Eduardo Escorel (Visceral Kinetic Realism)",
-            "Affonso Gonçalves (Visceral Kinetic Realism)",
-            "Daniel Rezende (Visceral Kinetic Realism)",
-            "Walter Salles (Visceral Kinetic Realism)"
+            "Eduardo Escorel",
+            "Affonso Gonçalves",
+            "Daniel Rezende",
+            "Walter Salles"
           ],
           "answerIndex": 2,
           "explanation": "Daniel Rezende.",
@@ -14094,10 +14094,10 @@
         {
           "prompt": "Which Brazilian cinematic masterpiece directed by Walter Salles won the Golden Bear at Berlin in 1998, starring Fernanda Montenegro as Dora?",
           "options": [
-            "«Central do Brasil» (Humanist Roads  Golden Globe Triumphs)",
-            "«Terra Estrangeira» (Humanist Roads  Golden Globe Triumphs)",
-            "«Diários de Motocicleta» (Humanist Roads  Golden Globe Triumphs)",
-            "«O Que É Isso, Companheiro?» (Humanist Roads  Golden Globe Triumphs)"
+            "«Central do Brasil»",
+            "«Terra Estrangeira»",
+            "«Diários de Motocicleta»",
+            "«O Que É Isso, Companheiro?»"
           ],
           "answerIndex": 0,
           "explanation": "«Central do Brasil» (Central Station)."
@@ -14109,10 +14109,10 @@
         {
           "prompt": "Which grand dame of Brazilian theater and cinema was nominated for the Academy Award for Best Actress for her performance in *Central do Brasil*?",
           "options": [
-            "Fernanda Montenegro (Humanist Roads  Golden Globe Triumphs)",
-            "Fernanda Torres (Humanist Roads  Golden Globe Triumphs)",
-            "Sônia Braga (Humanist Roads  Golden Globe Triumphs)",
-            "Regina Casé (Humanist Roads  Golden Globe Triumphs)"
+            "Fernanda Montenegro",
+            "Fernanda Torres",
+            "Sônia Braga",
+            "Regina Casé"
           ],
           "answerIndex": 0,
           "explanation": "Fernanda Montenegro."
@@ -14124,10 +14124,10 @@
         {
           "prompt": "Translate: \"Central Station uses the physical journey through the northeastern hinterland as a metaphor for the moral awakening and emotional rebirth of its protagonist.\"",
           "options": [
-            "Central do Brasil é um documentário sobre trens elétricos. (Humanist Roads  Golden Globe Triumphs)",
-            "Fernanda Montenegro recusou o papel de Dora. (Humanist Roads  Golden Globe Triumphs)",
-            "Central do Brasil utiliza a jornada física pelo sertão nordestino como uma metáfora para o despertar moral e o renascimento emocional de sua protagonista. (Humanist Roads  Golden Globe Triumphs)",
-            "O filme foi rodado nos desertos do Saara. (Humanist Roads  Golden Globe Triumphs)"
+            "Central do Brasil é um documentário sobre trens elétricos.",
+            "Fernanda Montenegro recusou o papel de Dora.",
+            "Central do Brasil utiliza a jornada física pelo sertão nordestino como uma metáfora para o despertar moral e o renascimento emocional de sua protagonista.",
+            "O filme foi rodado nos desertos do Saara."
           ],
           "answerIndex": 2,
           "explanation": "Accurate humanist cinema translation.",
@@ -14136,10 +14136,10 @@
         {
           "prompt": "What job does Dora perform at the Rio de Janeiro train station at the beginning of *Central do Brasil*?",
           "options": [
-            "Vender bilhetes de trem (Humanist Roads  Golden Globe Triumphs)",
-            "Escrever cartas para passageiros analfabetos (Humanist Roads  Golden Globe Triumphs)",
-            "Limpar as plataformas (Humanist Roads  Golden Globe Triumphs)",
-            "Conduzir a locomotiva (Humanist Roads  Golden Globe Triumphs)"
+            "Vender bilhetes de trem",
+            "Escrever cartas para passageiros analfabetos",
+            "Limpar as plataformas",
+            "Conduzir a locomotiva"
           ],
           "answerIndex": 1,
           "explanation": "Escrever cartas para analfabetos.",
@@ -14176,10 +14176,10 @@
         {
           "prompt": "Which explosive Brazilian film directed by José Padilha won the Golden Bear at the Berlin Film Festival in 2008, starring Wagner Moura as Capitão Nascimento?",
           "options": [
-            "«Ônibus 174» (Urban Siege  Police Sociology)",
-            "«Carandiru» (Urban Siege  Police Sociology)",
-            "«Tropa de Elite» (Urban Siege  Police Sociology)",
-            "«Cidade de Deus» (Urban Siege  Police Sociology)"
+            "«Ônibus 174»",
+            "«Carandiru»",
+            "«Tropa de Elite»",
+            "«Cidade de Deus»"
           ],
           "answerIndex": 2,
           "explanation": "«Tropa de Elite» (Elite Squad)."
@@ -14191,10 +14191,10 @@
         {
           "prompt": "What elite militarized shock unit of the Rio de Janeiro Military Police is the subject of *Tropa de Elite*?",
           "options": [
-            "Guarda Municipal (Urban Siege  Police Sociology)",
-            "BOPE (Urban Siege  Police Sociology)",
-            "Exército Brasileiro (Urban Siege  Police Sociology)",
-            "Polícia Federal (Urban Siege  Police Sociology)"
+            "Guarda Municipal",
+            "BOPE",
+            "Exército Brasileiro",
+            "Polícia Federal"
           ],
           "answerIndex": 1,
           "explanation": "BOPE."
@@ -14206,10 +14206,10 @@
         {
           "prompt": "Translate: \"Elite Squad portrays the profound psychological toll and moral compromises experienced by officers navigating corrupt institutions and violent urban conflicts.\"",
           "options": [
-            "Wagner Moura recusou o papel de Capitão Nascimento. (Urban Siege  Police Sociology)",
-            "Tropa de Elite retrata o profundo custo psicológico e os compromissos morais vivenciados por policiais que navegam em instituições corrompidas e conflitos urbanos violentos. (Urban Siege  Police Sociology)",
-            "O BOPE foi inventado para o filme e não existe na realidade. (Urban Siege  Police Sociology)",
-            "Tropa de Elite é uma comédia romântica de época. (Urban Siege  Police Sociology)"
+            "Wagner Moura recusou o papel de Capitão Nascimento.",
+            "Tropa de Elite retrata o profundo custo psicológico e os compromissos morais vivenciados por policiais que navegam em instituições corrompidas e conflitos urbanos violentos.",
+            "O BOPE foi inventado para o filme e não existe na realidade.",
+            "Tropa de Elite é uma comédia romântica de época."
           ],
           "answerIndex": 1,
           "explanation": "Accurate political thriller analysis translation.",
@@ -14218,10 +14218,10 @@
         {
           "prompt": "What criminal organized entity is unmasked as the true systemic enemy of the state in the 2010 sequel *Tropa de Elite 2*?",
           "options": [
-            "As milícias paramilitares e a corrupção política (Urban Siege  Police Sociology)",
-            "Traficantes estrangeiros apenas (Urban Siege  Police Sociology)",
-            "Hackers digitais (Urban Siege  Police Sociology)",
-            "Ladrões de banco amadores (Urban Siege  Police Sociology)"
+            "As milícias paramilitares e a corrupção política",
+            "Traficantes estrangeiros apenas",
+            "Hackers digitais",
+            "Ladrões de banco amadores"
           ],
           "answerIndex": 0,
           "explanation": "As milícias paramilitares e a corrupção política.",
@@ -14340,10 +14340,10 @@
         {
           "prompt": "Which seminal 1943 play by Nelson Rodrigues, directed by Zbigniew Ziembinski, is universally recognized as the beginning of modern Brazilian theater?",
           "options": [
-            "«Álbum de Família» (The Birth of Modern Brazilian Theater)",
-            "«Boca de Ouro» (The Birth of Modern Brazilian Theater)",
-            "«O Beijo no Asfalto» (The Birth of Modern Brazilian Theater)",
-            "«Vestido de Noiva» (The Birth of Modern Brazilian Theater)"
+            "«Álbum de Família»",
+            "«Boca de Ouro»",
+            "«O Beijo no Asfalto»",
+            "«Vestido de Noiva»"
           ],
           "answerIndex": 3,
           "explanation": "«Vestido de Noiva»."
@@ -14355,10 +14355,10 @@
         {
           "prompt": "Into what three simultaneous psychological and spatial planes is the stage divided in Nelson Rodrigues' *Vestido de Noiva*?",
           "options": [
-            "Céu, Terra e Inferno (The Birth of Modern Brazilian Theater)",
-            "Realidade, Memória e Alucinação (The Birth of Modern Brazilian Theater)",
-            "Passado, Presente e Futuro (The Birth of Modern Brazilian Theater)",
-            "Palco, Plateia e Bastidores (The Birth of Modern Brazilian Theater)"
+            "Céu, Terra e Inferno",
+            "Realidade, Memória e Alucinação",
+            "Passado, Presente e Futuro",
+            "Palco, Plateia e Bastidores"
           ],
           "answerIndex": 1,
           "explanation": "Realidade, Memória e Alucinação."
@@ -14370,10 +14370,10 @@
         {
           "prompt": "Translate: \"Vestido de Noiva revolutionized theatrical staging in Brazil through Ziembinski's expressionist lighting and the simultaneous interweaving of dying memories and subconscious delirium.\"",
           "options": [
-            "Os Comediantes era um grupo de circo infantil. (The Birth of Modern Brazilian Theater)",
-            "Vestido de Noiva é um romance em verso sobre cavalos. (The Birth of Modern Brazilian Theater)",
-            "Nelson Rodrigues nasceu em Portugal no século XIX. (The Birth of Modern Brazilian Theater)",
-            "Vestido de Noiva revolucionou a encenação teatral no Brasil através da iluminação expressionista de Ziembinski e do entrelaçamento simultâneo de memórias agonizantes e delírios subconscientes. (The Birth of Modern Brazilian Theater)"
+            "Os Comediantes era um grupo de circo infantil.",
+            "Vestido de Noiva é um romance em verso sobre cavalos.",
+            "Nelson Rodrigues nasceu em Portugal no século XIX.",
+            "Vestido de Noiva revolucionou a encenação teatral no Brasil através da iluminação expressionista de Ziembinski e do entrelaçamento simultâneo de memórias agonizantes e delírios subconscientes."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Nelson Rodrigues analysis translation.",
@@ -14382,10 +14382,10 @@
         {
           "prompt": "What Polish immigrant director staged the historic 1943 premiere of *Vestido de Noiva* with the ensemble Os Comediantes?",
           "options": [
-            "Tadeusz Kantor (The Birth of Modern Brazilian Theater)",
-            "Jerzy Grotowski (The Birth of Modern Brazilian Theater)",
-            "Zbigniew Ziembinski (The Birth of Modern Brazilian Theater)",
-            "Krzysztof Kieślowski (The Birth of Modern Brazilian Theater)"
+            "Tadeusz Kantor",
+            "Jerzy Grotowski",
+            "Zbigniew Ziembinski",
+            "Krzysztof Kieślowski"
           ],
           "answerIndex": 2,
           "explanation": "Zbigniew Ziembinski.",
@@ -14422,10 +14422,10 @@
         {
           "prompt": "Which Brazilian theatrical visionary created the \"Theatre of the Oppressed\" and transformed spectators into active \"Spect-Actors\"?",
           "options": [
-            "Augusto Boal (Theatre of the Oppressed  Forum Theatre)",
-            "Zé Celso Martinez Corrêa (Theatre of the Oppressed  Forum Theatre)",
-            "Dias Gomes (Theatre of the Oppressed  Forum Theatre)",
-            "Nelson Rodrigues (Theatre of the Oppressed  Forum Theatre)"
+            "Augusto Boal",
+            "Zé Celso Martinez Corrêa",
+            "Dias Gomes",
+            "Nelson Rodrigues"
           ],
           "answerIndex": 0,
           "explanation": "Augusto Boal."
@@ -14437,10 +14437,10 @@
         {
           "prompt": "What revolutionary term did Augusto Boal coin to describe an audience member who steps directly onto the stage to transform a dramatic situation?",
           "options": [
-            "O Espect-Ator (Theatre of the Oppressed  Forum Theatre)",
-            "O Protagonista passivo (Theatre of the Oppressed  Forum Theatre)",
-            "O Dublê (Theatre of the Oppressed  Forum Theatre)",
-            "O Corifeu (Theatre of the Oppressed  Forum Theatre)"
+            "O Espect-Ator",
+            "O Protagonista passivo",
+            "O Dublê",
+            "O Corifeu"
           ],
           "answerIndex": 0,
           "explanation": "O Espect-Ator (The Spect-Actor)."
@@ -14452,10 +14452,10 @@
         {
           "prompt": "Translate: \"Forum Theatre empowers the community by allowing spectators to halt the performance, step onto the stage, and rehearse practical interventions against social oppression.\"",
           "options": [
-            "O Teatro do Oprimido foi criado para entreter a nobreza europeia. (Theatre of the Oppressed  Forum Theatre)",
-            "Augusto Boal proibia a participação do público nas peças. (Theatre of the Oppressed  Forum Theatre)",
-            "O Teatro Fórum capacita a comunidade ao permitir que os espectadores interrompam a encenação, entrem no palco e ensaiem intervenções práticas contra a opressão social. (Theatre of the Oppressed  Forum Theatre)",
-            "Teatro Invisível é uma peça de rádio para crianças. (Theatre of the Oppressed  Forum Theatre)"
+            "O Teatro do Oprimido foi criado para entreter a nobreza europeia.",
+            "Augusto Boal proibia a participação do público nas peças.",
+            "O Teatro Fórum capacita a comunidade ao permitir que os espectadores interrompam a encenação, entrem no palco e ensaiem intervenções práticas contra a opressão social.",
+            "Teatro Invisível é uma peça de rádio para crianças."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Theatre of the Oppressed translation.",
@@ -14464,10 +14464,10 @@
         {
           "prompt": "Which historic São Paulo theater company, led by Boal and Gianfrancesco Guarnieri, was the crucible for political realism in 1950s Brazil?",
           "options": [
-            "Teatro Oficina (Theatre of the Oppressed  Forum Theatre)",
-            "Teatro de Arena de São Paulo (Theatre of the Oppressed  Forum Theatre)",
-            "Teatro Guaíra (Theatre of the Oppressed  Forum Theatre)",
-            "Teatro Brasileiro de Comédia (Theatre of the Oppressed  Forum Theatre)"
+            "Teatro Oficina",
+            "Teatro de Arena de São Paulo",
+            "Teatro Guaíra",
+            "Teatro Brasileiro de Comédia"
           ],
           "answerIndex": 1,
           "explanation": "Teatro de Arena de São Paulo.",
@@ -14504,10 +14504,10 @@
         {
           "prompt": "Which master Paraibano author wrote the beloved northeastern dramatic masterpiece \"Auto da Compadecida\" in 1955?",
           "options": [
-            "Ariano Suassuna (Northeastern Folklore  Picaresque Redemption)",
-            "Jorge Amado (Northeastern Folklore  Picaresque Redemption)",
-            "Guimarães Rosa (Northeastern Folklore  Picaresque Redemption)",
-            "Rachel de Queiroz (Northeastern Folklore  Picaresque Redemption)"
+            "Ariano Suassuna",
+            "Jorge Amado",
+            "Guimarães Rosa",
+            "Rachel de Queiroz"
           ],
           "answerIndex": 0,
           "explanation": "Ariano Suassuna."
@@ -14519,10 +14519,10 @@
         {
           "prompt": "Who intercedes with compassionate mercy at the heavenly trial to save João Grilo from eternal damnation in *Auto da Compadecida*?",
           "options": [
-            "Nossa Senhora a Compadecida (Northeastern Folklore  Picaresque Redemption)",
-            "O Padeiro (Northeastern Folklore  Picaresque Redemption)",
-            "O Padre João (Northeastern Folklore  Picaresque Redemption)",
-            "O Bispo (Northeastern Folklore  Picaresque Redemption)"
+            "Nossa Senhora a Compadecida",
+            "O Padeiro",
+            "O Padre João",
+            "O Bispo"
           ],
           "answerIndex": 0,
           "explanation": "Nossa Senhora a Compadecida."
@@ -14534,10 +14534,10 @@
         {
           "prompt": "Translate: \"Auto da Compadecida synthesizes medieval religious morality plays with northeastern cordel folklore to celebrate the clever survival instincts of the impoverished Brazilian rogues.\"",
           "options": [
-            "Auto da Compadecida é uma tragédia alemã sem humor. (Northeastern Folklore  Picaresque Redemption)",
-            "O Auto da Compadecida sintetiza os autos medievais de moralidade religiosa com o folclore do cordel nordestino para celebrar o instinto esperto de sobrevivência dos pícaros brasileiros empobrecidos. (Northeastern Folklore  Picaresque Redemption)",
-            "João Grilo era um imperador romano. (Northeastern Folklore  Picaresque Redemption)",
-            "Ariano Suassuna rejeitava a cultura do sertão. (Northeastern Folklore  Picaresque Redemption)"
+            "Auto da Compadecida é uma tragédia alemã sem humor.",
+            "O Auto da Compadecida sintetiza os autos medievais de moralidade religiosa com o folclore do cordel nordestino para celebrar o instinto esperto de sobrevivência dos pícaros brasileiros empobrecidos.",
+            "João Grilo era um imperador romano.",
+            "Ariano Suassuna rejeitava a cultura do sertão."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Suassuna dramaturgy translation.",
@@ -14546,10 +14546,10 @@
         {
           "prompt": "What cultural and artistic movement was founded by Ariano Suassuna in Recife in 1970 to create noble classical art rooted in popular northeastern folk traditions?",
           "options": [
-            "Movimento Armorial (Northeastern Folklore  Picaresque Redemption)",
-            "Modernismo de 1922 (Northeastern Folklore  Picaresque Redemption)",
-            "Concretismo (Northeastern Folklore  Picaresque Redemption)",
-            "Tropicália (Northeastern Folklore  Picaresque Redemption)"
+            "Movimento Armorial",
+            "Modernismo de 1922",
+            "Concretismo",
+            "Tropicália"
           ],
           "answerIndex": 0,
           "explanation": "Movimento Armorial.",
@@ -14586,10 +14586,10 @@
         {
           "prompt": "Which radical Brazilian director led the legendary Teatro Oficina in São Paulo and staged the historic 1967 production of \"O Rei da Vela\"?",
           "options": [
-            "Aderbal Freire-Filho (Dionysian Anthropophagy  Architectural Revolution)",
-            "Antunes Filho (Dionysian Anthropophagy  Architectural Revolution)",
-            "José Celso Martinez Corrêa (Dionysian Anthropophagy  Architectural Revolution)",
-            "Augusto Boal (Dionysian Anthropophagy  Architectural Revolution)"
+            "Aderbal Freire-Filho",
+            "Antunes Filho",
+            "José Celso Martinez Corrêa",
+            "Augusto Boal"
           ],
           "answerIndex": 2,
           "explanation": "José Celso Martinez Corrêa (Zé Celso)."
@@ -14601,10 +14601,10 @@
         {
           "prompt": "Which world-renowned Italian-Brazilian architect designed the famous \"runway street\" glass-and-scaffolding interior of the Teatro Oficina in São Paulo?",
           "options": [
-            "Paulo Mendes da Rocha (Dionysian Anthropophagy  Architectural Revolution)",
-            "Lina Bo Bardi (Dionysian Anthropophagy  Architectural Revolution)",
-            "Lúcio Costa (Dionysian Anthropophagy  Architectural Revolution)",
-            "Oscar Niemeyer (Dionysian Anthropophagy  Architectural Revolution)"
+            "Paulo Mendes da Rocha",
+            "Lina Bo Bardi",
+            "Lúcio Costa",
+            "Oscar Niemeyer"
           ],
           "answerIndex": 1,
           "explanation": "Lina Bo Bardi."
@@ -14616,10 +14616,10 @@
         {
           "prompt": "Translate: \"Teatro Oficina's architectural design eliminates the separation between stage and auditorium, turning every performance into an immersive civic street ritual.\"",
           "options": [
-            "O projeto arquitetônico do Teatro Oficina elimina a separação entre palco e plateia, transformando cada apresentação em um ritual cívico imersivo de rua. (Dionysian Anthropophagy  Architectural Revolution)",
-            "Zé Celso proibiu a música em suas peças. (Dionysian Anthropophagy  Architectural Revolution)",
-            "Lina Bo Bardi desenhou apenas estações de trem. (Dionysian Anthropophagy  Architectural Revolution)",
-            "O Rei da Vela é uma ópera barroca cantada em latim. (Dionysian Anthropophagy  Architectural Revolution)"
+            "O projeto arquitetônico do Teatro Oficina elimina a separação entre palco e plateia, transformando cada apresentação em um ritual cívico imersivo de rua.",
+            "Zé Celso proibiu a música em suas peças.",
+            "Lina Bo Bardi desenhou apenas estações de trem.",
+            "O Rei da Vela é uma ópera barroca cantada em latim."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Teatro Oficina analysis translation.",
@@ -14628,10 +14628,10 @@
         {
           "prompt": "Which 1922 Modernist author wrote the original 1933 play *O Rei da Vela*, which Zé Celso turned into the theatrical manifesto of Tropicália in 1967?",
           "options": [
-            "Manuel Bandeira (Dionysian Anthropophagy  Architectural Revolution)",
-            "Mário de Andrade (Dionysian Anthropophagy  Architectural Revolution)",
-            "Carlos Drummond de Andrade (Dionysian Anthropophagy  Architectural Revolution)",
-            "Oswald de Andrade (Dionysian Anthropophagy  Architectural Revolution)"
+            "Manuel Bandeira",
+            "Mário de Andrade",
+            "Carlos Drummond de Andrade",
+            "Oswald de Andrade"
           ],
           "answerIndex": 3,
           "explanation": "Oswald de Andrade.",
@@ -14750,10 +14750,10 @@
         {
           "prompt": "Which master Brazilian composer achieved a historic triumph at Teatro alla Scala in Milan in 1870 with the opera \"Il Guarany\"?",
           "options": [
-            "Heitor Villa-Lobos (The Master of Brazilian Bel Canto)",
-            "Claudio Santoro (The Master of Brazilian Bel Canto)",
-            "Camargo Guarnieri (The Master of Brazilian Bel Canto)",
-            "Antônio Carlos Gomes (The Master of Brazilian Bel Canto)"
+            "Heitor Villa-Lobos",
+            "Claudio Santoro",
+            "Camargo Guarnieri",
+            "Antônio Carlos Gomes"
           ],
           "answerIndex": 3,
           "explanation": "Antônio Carlos Gomes."
@@ -14765,10 +14765,10 @@
         {
           "prompt": "Which 19th-century Brazilian Romantic novelist wrote the original book *O Guarani*, upon which Carlos Gomes based his masterwork?",
           "options": [
-            "José de Alencar (The Master of Brazilian Bel Canto)",
-            "Machado de Assis (The Master of Brazilian Bel Canto)",
-            "Gonçalves Dias (The Master of Brazilian Bel Canto)",
-            "Castro Alves (The Master of Brazilian Bel Canto)"
+            "José de Alencar",
+            "Machado de Assis",
+            "Gonçalves Dias",
+            "Castro Alves"
           ],
           "answerIndex": 0,
           "explanation": "José de Alencar."
@@ -14780,10 +14780,10 @@
         {
           "prompt": "Translate: \"Carlos Gomes combined Italian Bel Canto orchestration with indigenous Brazilian heroic myths, creating an orchestral overture that became an enduring national symbol.\"",
           "options": [
-            "José de Alencar era um arquiteto naval português. (The Master of Brazilian Bel Canto)",
-            "Il Guarany é um filme de ficção científica dos anos 1980. (The Master of Brazilian Bel Canto)",
-            "Carlos Gomes combinou a orquestração do bel canto italiano com os mitos heroicos indígenas brasileiros, criando uma abertura orquestral que se tornou um símbolo nacional duradouro. (The Master of Brazilian Bel Canto)",
-            "Carlos Gomes nunca viajou para a Europa. (The Master of Brazilian Bel Canto)"
+            "José de Alencar era um arquiteto naval português.",
+            "Il Guarany é um filme de ficção científica dos anos 1980.",
+            "Carlos Gomes combinou a orquestração do bel canto italiano com os mitos heroicos indígenas brasileiros, criando uma abertura orquestral que se tornou um símbolo nacional duradouro.",
+            "Carlos Gomes nunca viajou para a Europa."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Carlos Gomes musicological translation.",
@@ -14792,10 +14792,10 @@
         {
           "prompt": "What daily Brazilian national radio broadcast has used the overture of *Il Guarany* as its iconic opening theme since 1935?",
           "options": [
-            "Hora do Brasil (The Master of Brazilian Bel Canto)",
-            "A Voz do Brasil (The Master of Brazilian Bel Canto)",
-            "Rádio Nacional (The Master of Brazilian Bel Canto)",
-            "Jornal da Manhã (The Master of Brazilian Bel Canto)"
+            "Hora do Brasil",
+            "A Voz do Brasil",
+            "Rádio Nacional",
+            "Jornal da Manhã"
           ],
           "answerIndex": 1,
           "explanation": "A Voz do Brasil.",
@@ -14832,10 +14832,10 @@
         {
           "prompt": "Which master Brazilian composer wrote the world-famous \"Bachianas Brasileiras No. 5\" for soprano and eight cellos and composed the opera \"Yerma\"?",
           "options": [
-            "Heitor Villa-Lobos (The Sonic Amazon  Modernist National Synthesis)",
-            "Camargo Guarnieri (The Sonic Amazon  Modernist National Synthesis)",
-            "Francisco Mignone (The Sonic Amazon  Modernist National Synthesis)",
-            "Antônio Carlos Gomes (The Sonic Amazon  Modernist National Synthesis)"
+            "Heitor Villa-Lobos",
+            "Camargo Guarnieri",
+            "Francisco Mignone",
+            "Antônio Carlos Gomes"
           ],
           "answerIndex": 0,
           "explanation": "Heitor Villa-Lobos."
@@ -14847,10 +14847,10 @@
         {
           "prompt": "For what unique instrumental ensemble, accompanying a solo soprano, is the legendary *Bachianas Brasileiras Nº 5* scored?",
           "options": [
-            "Orquestra de 8 violoncelos (The Sonic Amazon  Modernist National Synthesis)",
-            "Quarteto de cordas e flauta (The Sonic Amazon  Modernist National Synthesis)",
-            "Banda militar de metais (The Sonic Amazon  Modernist National Synthesis)",
-            "Dois pianos e harpa (The Sonic Amazon  Modernist National Synthesis)"
+            "Orquestra de 8 violoncelos",
+            "Quarteto de cordas e flauta",
+            "Banda militar de metais",
+            "Dois pianos e harpa"
           ],
           "answerIndex": 0,
           "explanation": "Orquestra de 8 violoncelos."
@@ -14862,10 +14862,10 @@
         {
           "prompt": "Translate: \"Bachianas Brasileiras No. 5 fuses Bachian baroque counterpoint with Brazilian harmonic melancholy, producing an ethereal soprano vocalise over a cello tapestry.\"",
           "options": [
-            "Villa-Lobos nunca utilizou elementos da música brasileira. (The Sonic Amazon  Modernist National Synthesis)",
-            "As Bachianas Brasileiras Nº 5 fundem o contraponto barroco bachiano com a melancolia harmônica brasileira, produzindo uma vocalise etérea de soprano sobre uma tapeçaria de violoncelos. (The Sonic Amazon  Modernist National Synthesis)",
-            "Bachianas Brasileiras é uma peça para bateria de escola de samba. (The Sonic Amazon  Modernist National Synthesis)",
-            "Yerma é uma ópera sobre a corte imperial russa. (The Sonic Amazon  Modernist National Synthesis)"
+            "Villa-Lobos nunca utilizou elementos da música brasileira.",
+            "As Bachianas Brasileiras Nº 5 fundem o contraponto barroco bachiano com a melancolia harmônica brasileira, produzindo uma vocalise etérea de soprano sobre uma tapeçaria de violoncelos.",
+            "Bachianas Brasileiras é uma peça para bateria de escola de samba.",
+            "Yerma é uma ópera sobre a corte imperial russa."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Villa-Lobos compositional analysis translation.",
@@ -14874,10 +14874,10 @@
         {
           "prompt": "In which landmark 1922 Brazilian cultural festival at the Theatro Municipal de São Paulo did Villa-Lobos present his modernist musical compositions?",
           "options": [
-            "Semana de Arte Moderna de 1922 (The Sonic Amazon  Modernist National Synthesis)",
-            "Rock in Rio (The Sonic Amazon  Modernist National Synthesis)",
-            "Festival de Inverno de Campos do Jordão (The Sonic Amazon  Modernist National Synthesis)",
-            "Bienal de São Paulo (The Sonic Amazon  Modernist National Synthesis)"
+            "Semana de Arte Moderna de 1922",
+            "Rock in Rio",
+            "Festival de Inverno de Campos do Jordão",
+            "Bienal de São Paulo"
           ],
           "answerIndex": 0,
           "explanation": "Semana de Arte Moderna de 1922.",
@@ -14914,10 +14914,10 @@
         {
           "prompt": "Which legendary 1896 opera house, built during the Rubber Boom in the Amazon rainforest, is famous for its 36,000-tile dome in the colors of the Brazilian flag?",
           "options": [
-            "Teatro Amazonas (The Amazonian Forest Opera Palace)",
-            "Theatro Municipal do Rio de Janeiro (The Amazonian Forest Opera Palace)",
-            "Theatro da Paz (The Amazonian Forest Opera Palace)",
-            "Theatro Municipal de São Paulo (The Amazonian Forest Opera Palace)"
+            "Teatro Amazonas",
+            "Theatro Municipal do Rio de Janeiro",
+            "Theatro da Paz",
+            "Theatro Municipal de São Paulo"
           ],
           "answerIndex": 0,
           "explanation": "Teatro Amazonas (Manaus)."
@@ -14929,10 +14929,10 @@
         {
           "prompt": "Which German filmmaker famously featured the Teatro Amazonas in his 1982 film *Fitzcarraldo* starring Klaus Kinski?",
           "options": [
-            "Werner Herzog (The Amazonian Forest Opera Palace)",
-            "Fritz Lang (The Amazonian Forest Opera Palace)",
-            "Wim Wenders (The Amazonian Forest Opera Palace)",
-            "Rainer Werner Fassbinder (The Amazonian Forest Opera Palace)"
+            "Werner Herzog",
+            "Fritz Lang",
+            "Wim Wenders",
+            "Rainer Werner Fassbinder"
           ],
           "answerIndex": 0,
           "explanation": "Werner Herzog."
@@ -14944,10 +14944,10 @@
         {
           "prompt": "Translate: \"Teatro Amazonas stands as a neoclassical monument constructed with Carrara marble and Murano chandeliers, hosting world-class Wagnerian opera festivals in the Amazon.\"",
           "options": [
-            "O Teatro Amazonas ergue-se como um monumento neoclássico construído com mármore de Carrara e lustres de Murano, sediando festivais de ópera wagneriana de nível mundial na Amazônia. (The Amazonian Forest Opera Palace)",
-            "Teatro Amazonas é uma reserva florestal sem edifícios. (The Amazonian Forest Opera Palace)",
-            "O Festival Amazonas de Ópera foi cancelado permanentemente em 1900. (The Amazonian Forest Opera Palace)",
-            "O Teatro Amazonas foi construído em 2020 em Brasília. (The Amazonian Forest Opera Palace)"
+            "O Teatro Amazonas ergue-se como um monumento neoclássico construído com mármore de Carrara e lustres de Murano, sediando festivais de ópera wagneriana de nível mundial na Amazônia.",
+            "Teatro Amazonas é uma reserva florestal sem edifícios.",
+            "O Festival Amazonas de Ópera foi cancelado permanentemente em 1900.",
+            "O Teatro Amazonas foi construído em 2020 em Brasília."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Teatro Amazonas analysis translation.",
@@ -14956,10 +14956,10 @@
         {
           "prompt": "What prestigious annual opera festival, established in 1997, stages full operatic seasons inside the historic Teatro Amazonas?",
           "options": [
-            "Bienal de Música Brasileira (The Amazonian Forest Opera Palace)",
-            "Festival de Inverno de Campos do Jordão (The Amazonian Forest Opera Palace)",
-            "Festival de Curitiba (The Amazonian Forest Opera Palace)",
-            "Festival Amazonas de Ópera (The Amazonian Forest Opera Palace)"
+            "Bienal de Música Brasileira",
+            "Festival de Inverno de Campos do Jordão",
+            "Festival de Curitiba",
+            "Festival Amazonas de Ópera"
           ],
           "answerIndex": 3,
           "explanation": "Festival Amazonas de Ópera (FAO).",
@@ -14996,10 +14996,10 @@
         {
           "prompt": "Which legendary Brazilian soprano starred at the Metropolitan Opera in New York for 15 seasons and made the definitive recording of Bachianas Brasileiras No. 5?",
           "options": [
-            "Niza de Castro Tank (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Carmem Monarcha (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Bidu Sayão (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Eliane Coelho (Contemporary Operatic Drama  Modern Vocal Masters)"
+            "Niza de Castro Tank",
+            "Carmem Monarcha",
+            "Bidu Sayão",
+            "Eliane Coelho"
           ],
           "answerIndex": 2,
           "explanation": "Bidu Sayão."
@@ -15011,10 +15011,10 @@
         {
           "prompt": "Which celebrated Brazilian baritone made history in 2008 by winning the Tony Award for Best Actor in a Musical for *South Pacific* at Lincoln Center?",
           "options": [
-            "Leonardo Neiva (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Paulo Szot (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Inácio De Nonno (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Rodrigo Esteves (Contemporary Operatic Drama  Modern Vocal Masters)"
+            "Leonardo Neiva",
+            "Paulo Szot",
+            "Inácio De Nonno",
+            "Rodrigo Esteves"
           ],
           "answerIndex": 1,
           "explanation": "Paulo Szot."
@@ -15026,10 +15026,10 @@
         {
           "prompt": "Translate: \"Bidu Sayão enchanted international audiences with crystalline coloratura clarity, musical warmth, and unshakeable loyalty to Brazilian classical vocal repertoire.\"",
           "options": [
-            "Paulo Szot nunca cantou no Metropolitan Opera. (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Bidu Sayão foi uma pilota de automobilismo. (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "South Pacific é um romance barroco em verso latino. (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Bidu Sayão encantou o público internacional com clareza cristalina de coloratura, calor musical e lealdade inabalável ao repertório vocal clássico brasileiro. (Contemporary Operatic Drama  Modern Vocal Masters)"
+            "Paulo Szot nunca cantou no Metropolitan Opera.",
+            "Bidu Sayão foi uma pilota de automobilismo.",
+            "South Pacific é um romance barroco em verso latino.",
+            "Bidu Sayão encantou o público internacional com clareza cristalina de coloratura, calor musical e lealdade inabalável ao repertório vocal clássico brasileiro."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Bidu Sayão vocal analysis translation.",
@@ -15038,10 +15038,10 @@
         {
           "prompt": "Which legendary Italian conductor championed young Bidu Sayão, inviting her to sing with the New York Philharmonic in 1936?",
           "options": [
-            "Herbert von Karajan (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Zubin Mehta (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Arturo Toscanini (Contemporary Operatic Drama  Modern Vocal Masters)",
-            "Leonard Bernstein (Contemporary Operatic Drama  Modern Vocal Masters)"
+            "Herbert von Karajan",
+            "Zubin Mehta",
+            "Arturo Toscanini",
+            "Leonard Bernstein"
           ],
           "answerIndex": 2,
           "explanation": "Arturo Toscanini.",
@@ -15160,10 +15160,10 @@
         {
           "prompt": "Which master Brazilian architect won the Pritzker Prize in 1988 and designed the monumental civic monuments of Brasília and MAC Niterói?",
           "options": [
-            "Lúcio Costa (The Prophet of Modernist Concrete Curves)",
-            "Paulo Mendes da Rocha (The Prophet of Modernist Concrete Curves)",
-            "Ruy Ohtake (The Prophet of Modernist Concrete Curves)",
-            "Oscar Niemeyer (The Prophet of Modernist Concrete Curves)"
+            "Lúcio Costa",
+            "Paulo Mendes da Rocha",
+            "Ruy Ohtake",
+            "Oscar Niemeyer"
           ],
           "answerIndex": 3,
           "explanation": "Oscar Niemeyer."
@@ -15175,10 +15175,10 @@
         {
           "prompt": "What organic shapes inspired Oscar Niemeyer to reject rigid right angles in favor of free-flowing concrete curves?",
           "options": [
-            "As montanhas brasileiras, as ondas do mar e o corpo feminino (The Prophet of Modernist Concrete Curves)",
-            "Os arranha-céus de Nova York (The Prophet of Modernist Concrete Curves)",
-            "As pirâmides egípcias (The Prophet of Modernist Concrete Curves)",
-            "Os trilhos de trem (The Prophet of Modernist Concrete Curves)"
+            "As montanhas brasileiras, as ondas do mar e o corpo feminino",
+            "Os arranha-céus de Nova York",
+            "As pirâmides egípcias",
+            "Os trilhos de trem"
           ],
           "answerIndex": 0,
           "explanation": "As montanhas brasileiras, as ondas do mar e o corpo feminino."
@@ -15190,10 +15190,10 @@
         {
           "prompt": "Translate: \"Niemeyer's National Congress in Brasilia balances twin office towers between the convex dome of the Senate and the concave bowl of the Chamber of Deputies.\"",
           "options": [
-            "Oscar Niemeyer projetava apenas casas de madeira no campo. (The Prophet of Modernist Concrete Curves)",
-            "O Congresso Nacional de Niemeyer em Brasília equilibra torres gêmeas de escritórios entre a cúpula convexa do Senado e a concha côncava da Câmara dos Deputados. (The Prophet of Modernist Concrete Curves)",
-            "A Catedral de Brasília não tem janelas nem luz. (The Prophet of Modernist Concrete Curves)",
-            "Brasília foi construída no século XVIII por exploradores portugueses. (The Prophet of Modernist Concrete Curves)"
+            "Oscar Niemeyer projetava apenas casas de madeira no campo.",
+            "O Congresso Nacional de Niemeyer em Brasília equilibra torres gêmeas de escritórios entre a cúpula convexa do Senado e a concha côncava da Câmara dos Deputados.",
+            "A Catedral de Brasília não tem janelas nem luz.",
+            "Brasília foi construída no século XVIII por exploradores portugueses."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Niemeyer analysis translation.",
@@ -15202,10 +15202,10 @@
         {
           "prompt": "What historic architectural complex in Belo Horizonte, designed by Niemeyer in 1943 for Juscelino Kubitschek, is a UNESCO World Heritage site?",
           "options": [
-            "Conjunto Arquitetônico da Pampulha (The Prophet of Modernist Concrete Curves)",
-            "Parque Ibirapuera (The Prophet of Modernist Concrete Curves)",
-            "Avenida Paulista (The Prophet of Modernist Concrete Curves)",
-            "Centro Histórico de Paraty (The Prophet of Modernist Concrete Curves)"
+            "Conjunto Arquitetônico da Pampulha",
+            "Parque Ibirapuera",
+            "Avenida Paulista",
+            "Centro Histórico de Paraty"
           ],
           "answerIndex": 0,
           "explanation": "Conjunto Arquitetônico da Pampulha.",
@@ -15242,10 +15242,10 @@
         {
           "prompt": "Which master Brazilian urban planner won the 1957 competition with his famous \"Plano Piloto\" design for the federal capital of Brasília?",
           "options": [
-            "Lúcio Costa (The Monumental Utopian Airplane)",
-            "Burle Marx (The Monumental Utopian Airplane)",
-            "Affonso Eduardo Reidy (The Monumental Utopian Airplane)",
-            "Oscar Niemeyer (The Monumental Utopian Airplane)"
+            "Lúcio Costa",
+            "Burle Marx",
+            "Affonso Eduardo Reidy",
+            "Oscar Niemeyer"
           ],
           "answerIndex": 0,
           "explanation": "Lúcio Costa."
@@ -15257,10 +15257,10 @@
         {
           "prompt": "What iconic residential urban building blocks, flanked by green park belts and neighborhood services, were invented by Lúcio Costa for Brasília's wings?",
           "options": [
-            "Superquadras (The Monumental Utopian Airplane)",
-            "Favelas modernistas (The Monumental Utopian Airplane)",
-            "Condomínios fechados (The Monumental Utopian Airplane)",
-            "Vilas operárias (The Monumental Utopian Airplane)"
+            "Superquadras",
+            "Favelas modernistas",
+            "Condomínios fechados",
+            "Vilas operárias"
           ],
           "answerIndex": 0,
           "explanation": "Superquadras (SQS e SQN)."
@@ -15272,10 +15272,10 @@
         {
           "prompt": "Translate: \"Brasilia was inscribed as a UNESCO World Heritage Site in 1987, celebrated as the supreme milestone of 20th-century modernist utopian urban planning.\"",
           "options": [
-            "Brasília foi inscrita como Patrimônio Mundial da UNESCO em 1987, celebrada como o marco supremo do planejamento urbano utópico modernista do século XX. (The Monumental Utopian Airplane)",
-            "Lúcio Costa era um diplomata inglês que nunca visitou o Brasil. (The Monumental Utopian Airplane)",
-            "O Plano Piloto de Brasília tem formato de círculo perfeito com muralhas medievais. (The Monumental Utopian Airplane)",
-            "Juscelino Kubitschek transferiu a capital para Salvador. (The Monumental Utopian Airplane)"
+            "Brasília foi inscrita como Patrimônio Mundial da UNESCO em 1987, celebrada como o marco supremo do planejamento urbano utópico modernista do século XX.",
+            "Lúcio Costa era um diplomata inglês que nunca visitou o Brasil.",
+            "O Plano Piloto de Brasília tem formato de círculo perfeito com muralhas medievais.",
+            "Juscelino Kubitschek transferiu a capital para Salvador."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Brasilia urban analysis translation.",
@@ -15284,10 +15284,10 @@
         {
           "prompt": "What presidential slogan drove Juscelino Kubitschek to construct the federal capital of Brasília in just 1,000 days from 1956 to 1960?",
           "options": [
-            "«Ordem e Progresso» (The Monumental Utopian Airplane)",
-            "«Brasil Grande» (The Monumental Utopian Airplane)",
-            "«Trabalho e Vitória» (The Monumental Utopian Airplane)",
-            "«50 anos em 5» (The Monumental Utopian Airplane)"
+            "«Ordem e Progresso»",
+            "«Brasil Grande»",
+            "«Trabalho e Vitória»",
+            "«50 anos em 5»"
           ],
           "answerIndex": 3,
           "explanation": "«50 anos em 5».",
@@ -15324,10 +15324,10 @@
         {
           "prompt": "Which master Brazilian landscape architect designed the iconic wave-patterned Copacabana Boardwalk and the Aterro do Flamengo in Rio?",
           "options": [
-            "Roberto Burle Marx (The Tropical Renaissance of Landscape Art)",
-            "Rosa Kliass (The Tropical Renaissance of Landscape Art)",
-            "Oscar Niemeyer (The Tropical Renaissance of Landscape Art)",
-            "Lúcio Costa (The Tropical Renaissance of Landscape Art)"
+            "Roberto Burle Marx",
+            "Rosa Kliass",
+            "Oscar Niemeyer",
+            "Lúcio Costa"
           ],
           "answerIndex": 0,
           "explanation": "Roberto Burle Marx."
@@ -15339,10 +15339,10 @@
         {
           "prompt": "What traditional material from Portugal was arranged by Burle Marx to create the famous geometric waves along Copacabana Beach?",
           "options": [
-            "Pedra portuguesa branca e preta (The Tropical Renaissance of Landscape Art)",
-            "Asfalto colorido (The Tropical Renaissance of Landscape Art)",
-            "Placas de concreto (The Tropical Renaissance of Landscape Art)",
-            "Tijolo vermelho (The Tropical Renaissance of Landscape Art)"
+            "Pedra portuguesa branca e preta",
+            "Asfalto colorido",
+            "Placas de concreto",
+            "Tijolo vermelho"
           ],
           "answerIndex": 0,
           "explanation": "Pedra portuguesa branca e preta."
@@ -15354,10 +15354,10 @@
         {
           "prompt": "Translate: \"Burle Marx treated the earth as an abstract canvas, arranging massive clusters of native tropical bromeliads and royal palms according to color theory and organic textures.\"",
           "options": [
-            "Burle Marx foi um jogador de futebol do Flamengo. (The Tropical Renaissance of Landscape Art)",
-            "O Calçadão de Copacabana foi construído em 1800 por piratas. (The Tropical Renaissance of Landscape Art)",
-            "O Sítio Burle Marx é uma fábrica de cimento. (The Tropical Renaissance of Landscape Art)",
-            "Burle Marx tratou a terra como uma tela abstrata, organizando maciços de bromélias tropicais nativas e palmeiras-imperiais de acordo com a teoria das cores e texturas orgânicas. (The Tropical Renaissance of Landscape Art)"
+            "Burle Marx foi um jogador de futebol do Flamengo.",
+            "O Calçadão de Copacabana foi construído em 1800 por piratas.",
+            "O Sítio Burle Marx é uma fábrica de cimento.",
+            "Burle Marx tratou a terra como uma tela abstrata, organizando maciços de bromélias tropicais nativas e palmeiras-imperiais de acordo com a teoria das cores e texturas orgânicas."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Burle Marx landscape analysis translation.",
@@ -15366,10 +15366,10 @@
         {
           "prompt": "What 40-hectare botanical estate in Barra de Guaratiba, housing thousands of rare tropical plant species, was designated a UNESCO World Heritage site in 2021?",
           "options": [
-            "Jardim Botânico do Rio de Janeiro (The Tropical Renaissance of Landscape Art)",
-            "Parque da Tijuca (The Tropical Renaissance of Landscape Art)",
-            "Sítio Roberto Burle Marx (The Tropical Renaissance of Landscape Art)",
-            "Quinta da Boa Vista (The Tropical Renaissance of Landscape Art)"
+            "Jardim Botânico do Rio de Janeiro",
+            "Parque da Tijuca",
+            "Sítio Roberto Burle Marx",
+            "Quinta da Boa Vista"
           ],
           "answerIndex": 2,
           "explanation": "Sítio Roberto Burle Marx.",
@@ -15406,10 +15406,10 @@
         {
           "prompt": "Which master Brazilian architect won the Pritzker Prize in 2006, leading the Paulista Brutalist school with works like MUBE and the Pinacoteca renovation?",
           "options": [
-            "Ruy Ohtake (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "João Batista Vilanova Artigas (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Paulo Mendes da Rocha (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Oscar Niemeyer (Paulista Brutalism  The Heavy Poetics of Concrete)"
+            "Ruy Ohtake",
+            "João Batista Vilanova Artigas",
+            "Paulo Mendes da Rocha",
+            "Oscar Niemeyer"
           ],
           "answerIndex": 2,
           "explanation": "Paulo Mendes da Rocha."
@@ -15421,10 +15421,10 @@
         {
           "prompt": "What daring structural feature shelters the open civic plaza of Paulo Mendes da Rocha's MUBE in São Paulo?",
           "options": [
-            "Uma torre de aço de 100 metros (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Uma viga monumental de concreto protendido de 60 metros sem colunas centrais (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Uma tenda de tecido (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Um domo geodésico de vidro (Paulista Brutalism  The Heavy Poetics of Concrete)"
+            "Uma torre de aço de 100 metros",
+            "Uma viga monumental de concreto protendido de 60 metros sem colunas centrais",
+            "Uma tenda de tecido",
+            "Um domo geodésico de vidro"
           ],
           "answerIndex": 1,
           "explanation": "Uma viga monumental de concreto protendido de 60 metros."
@@ -15436,10 +15436,10 @@
         {
           "prompt": "Translate: \"The renovation of the Pinacoteca do Estado inserted suspended metal catwalks and natural zenithal lighting into historic brick lightwells, creating a dynamic dialogue between industrial modernism and Belle Epoque heritage.\"",
           "options": [
-            "O MUBE fica localizado no topo do Monte Everest. (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "A Pinacoteca foi demolida em 1998. (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "A reforma da Pinacoteca do Estado inseriu passarelas metálicas suspensas e iluminação zenital natural nos poços de luz de tijolo histórico, criando um diálogo dinâmico entre o modernismo industrial e o patrimônio da Belle Époque. (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Paulo Mendes da Rocha construiu apenas casas de praia em madeira. (Paulista Brutalism  The Heavy Poetics of Concrete)"
+            "O MUBE fica localizado no topo do Monte Everest.",
+            "A Pinacoteca foi demolida em 1998.",
+            "A reforma da Pinacoteca do Estado inseriu passarelas metálicas suspensas e iluminação zenital natural nos poços de luz de tijolo histórico, criando um diálogo dinâmico entre o modernismo industrial e o patrimônio da Belle Époque.",
+            "Paulo Mendes da Rocha construiu apenas casas de praia em madeira."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Paulo Mendes da Rocha analysis translation.",
@@ -15448,10 +15448,10 @@
         {
           "prompt": "Which multi-level community and cultural center in downtown São Paulo, featuring an iconic rooftop swimming pool, was redesigned by Paulo Mendes da Rocha in 2017?",
           "options": [
-            "Centro Cultural São Paulo (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Sesc 24 de Maio (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Conjunto Nacional (Paulista Brutalism  The Heavy Poetics of Concrete)",
-            "Sesc Pompeia (Paulista Brutalism  The Heavy Poetics of Concrete)"
+            "Centro Cultural São Paulo",
+            "Sesc 24 de Maio",
+            "Conjunto Nacional",
+            "Sesc Pompeia"
           ],
           "answerIndex": 1,
           "explanation": "Sesc 24 de Maio.",
@@ -15570,10 +15570,10 @@
         {
           "prompt": "Which master Brazilian educator wrote \"Pedagogy of the Oppressed\" (1968) and is celebrated as the Patron of Brazilian Education?",
           "options": [
-            "Anísio Teixeira (Critical Conscientization  Liberating Dialogue)",
-            "Darcy Ribeiro (Critical Conscientization  Liberating Dialogue)",
-            "Florestan Fernandes (Critical Conscientization  Liberating Dialogue)",
-            "Paulo Freire (Critical Conscientization  Liberating Dialogue)"
+            "Anísio Teixeira",
+            "Darcy Ribeiro",
+            "Florestan Fernandes",
+            "Paulo Freire"
           ],
           "answerIndex": 3,
           "explanation": "Paulo Freire."
@@ -15585,10 +15585,10 @@
         {
           "prompt": "What oppressive educational paradigm was criticized by Paulo Freire, where students are treated as passive vessels receiving sterile deposits of information?",
           "options": [
-            "Educação bancária (Critical Conscientization  Liberating Dialogue)",
-            "Educação dialógica (Critical Conscientization  Liberating Dialogue)",
-            "Educação integral (Critical Conscientization  Liberating Dialogue)",
-            "Escola nova (Critical Conscientization  Liberating Dialogue)"
+            "Educação bancária",
+            "Educação dialógica",
+            "Educação integral",
+            "Escola nova"
           ],
           "answerIndex": 0,
           "explanation": "Educação bancária (Banking education)."
@@ -15600,10 +15600,10 @@
         {
           "prompt": "Translate: \"Paulo Freire established that authentic education is not the authoritarian transmission of facts, but a liberating dialogue through which human beings mutually awaken critical consciousness.\"",
           "options": [
-            "Paulo Freire estabeleceu que a educação autêntica não é a transmissão autoritária de fatos, mas um diálogo libertador por meio do qual os seres humanos despertam mutuamente a consciência crítica. (Critical Conscientization  Liberating Dialogue)",
-            "Paulo Freire foi um general imperial do século XIX. (Critical Conscientization  Liberating Dialogue)",
-            "Em Angicos, Freire ensinou apenas matemática espacial. (Critical Conscientization  Liberating Dialogue)",
-            "Pedagogia do Oprimido é um livro sobre culinária tradicional. (Critical Conscientization  Liberating Dialogue)"
+            "Paulo Freire estabeleceu que a educação autêntica não é a transmissão autoritária de fatos, mas um diálogo libertador por meio do qual os seres humanos despertam mutuamente a consciência crítica.",
+            "Paulo Freire foi um general imperial do século XIX.",
+            "Em Angicos, Freire ensinou apenas matemática espacial.",
+            "Pedagogia do Oprimido é um livro sobre culinária tradicional."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Paulo Freire analysis translation.",
@@ -15612,10 +15612,10 @@
         {
           "prompt": "In which northeastern city did Paulo Freire conduct his famous 1963 literacy project, teaching 300 sugarcane laborers to read in 40 hours?",
           "options": [
-            "Salvador (Critical Conscientization  Liberating Dialogue)",
-            "Recife (Critical Conscientization  Liberating Dialogue)",
-            "Fortaleza (Critical Conscientization  Liberating Dialogue)",
-            "Angicos (Critical Conscientization  Liberating Dialogue)"
+            "Salvador",
+            "Recife",
+            "Fortaleza",
+            "Angicos"
           ],
           "answerIndex": 3,
           "explanation": "Angicos (Rio Grande do Norte).",
@@ -15652,10 +15652,10 @@
         {
           "prompt": "Which master Brazilian jurist and philosopher formulated the Three-Dimensional Theory of Law (Fato, Valor e Norma) in 1968?",
           "options": [
-            "Miguel Reale (The ThreeDimensional Theory of Law)",
-            "Rui Barbosa (The ThreeDimensional Theory of Law)",
-            "Tobias Barreto (The ThreeDimensional Theory of Law)",
-            "Pontes de Miranda (The ThreeDimensional Theory of Law)"
+            "Miguel Reale",
+            "Rui Barbosa",
+            "Tobias Barreto",
+            "Pontes de Miranda"
           ],
           "answerIndex": 0,
           "explanation": "Miguel Reale."
@@ -15667,10 +15667,10 @@
         {
           "prompt": "What three inseparable dynamic dimensions constitute the essence of Law according to Miguel Reale's philosophy?",
           "options": [
-            "Fato, Valor e Norma (The ThreeDimensional Theory of Law)",
-            "Crime, Castigo e Perdão (The ThreeDimensional Theory of Law)",
-            "Passado, Presente e Futuro (The ThreeDimensional Theory of Law)",
-            "Estado, Povo e Território (The ThreeDimensional Theory of Law)"
+            "Fato, Valor e Norma",
+            "Crime, Castigo e Perdão",
+            "Passado, Presente e Futuro",
+            "Estado, Povo e Território"
           ],
           "answerIndex": 0,
           "explanation": "Fato, Valor e Norma."
@@ -15682,10 +15682,10 @@
         {
           "prompt": "Translate: \"Reale's Three-Dimensional Theory established that legal norms are the dynamic integration resulting from a dialectical tension between social facts and values of justice.\"",
           "options": [
-            "A Teoria Tridimensional afirma que as leis não têm valor moral. (The ThreeDimensional Theory of Law)",
-            "Miguel Reale foi um pintor barroco do século XVIII. (The ThreeDimensional Theory of Law)",
-            "O Código Civil Brasileiro foi escrito em latim por navegadores. (The ThreeDimensional Theory of Law)",
-            "A Teoria Tridimensional de Reale estabeleceu que as normas jurídicas são a integração dinâmica resultante de uma tensão dialética entre fatos sociais e valores de justiça. (The ThreeDimensional Theory of Law)"
+            "A Teoria Tridimensional afirma que as leis não têm valor moral.",
+            "Miguel Reale foi um pintor barroco do século XVIII.",
+            "O Código Civil Brasileiro foi escrito em latim por navegadores.",
+            "A Teoria Tridimensional de Reale estabeleceu que as normas jurídicas são a integração dinâmica resultante de uma tensão dialética entre fatos sociais e valores de justiça."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Miguel Reale analysis translation.",
@@ -15694,10 +15694,10 @@
         {
           "prompt": "Which landmark 2002 legislative code in Brazil was supervised and coordinated by Miguel Reale over a span of nearly three decades?",
           "options": [
-            "O Código Penal de 1940 (The ThreeDimensional Theory of Law)",
-            "O Código de Processo Civil (The ThreeDimensional Theory of Law)",
-            "O Código Civil Brasileiro de 2002 (The ThreeDimensional Theory of Law)",
-            "A Constituição de 1824 (The ThreeDimensional Theory of Law)"
+            "O Código Penal de 1940",
+            "O Código de Processo Civil",
+            "O Código Civil Brasileiro de 2002",
+            "A Constituição de 1824"
           ],
           "answerIndex": 2,
           "explanation": "O Código Civil Brasileiro de 2002.",
@@ -15734,10 +15734,10 @@
         {
           "prompt": "Which Czech-Brazilian media philosopher taught in São Paulo and authored the revolutionary 1983 treatise \"Filosofia da Caixa Preta\"?",
           "options": [
-            "Vilém Flusser (The Philosophy of the Black Box  Technical Images)",
-            "Milton Santos (The Philosophy of the Black Box  Technical Images)",
-            "Gerd Bornheim (The Philosophy of the Black Box  Technical Images)",
-            "José Arthur Giannotti (The Philosophy of the Black Box  Technical Images)"
+            "Vilém Flusser",
+            "Milton Santos",
+            "Gerd Bornheim",
+            "José Arthur Giannotti"
           ],
           "answerIndex": 0,
           "explanation": "Vilém Flusser."
@@ -15749,10 +15749,10 @@
         {
           "prompt": "What term was coined by Vilém Flusser to describe computational, electronic images produced automatically by programmed apparatuses in post-history?",
           "options": [
-            "Imagens técnicas (The Philosophy of the Black Box  Technical Images)",
-            "Pinturas lineares (The Philosophy of the Black Box  Technical Images)",
-            "Iconoclastia (The Philosophy of the Black Box  Technical Images)",
-            "Imagens rupestres (The Philosophy of the Black Box  Technical Images)"
+            "Imagens técnicas",
+            "Pinturas lineares",
+            "Iconoclastia",
+            "Imagens rupestres"
           ],
           "answerIndex": 0,
           "explanation": "Imagens técnicas (Technical images)."
@@ -15764,10 +15764,10 @@
         {
           "prompt": "Translate: \"Flusser established that in the era of technical images, human operators risk becoming mere functionaries of automated apparatuses unless they subversively expose the internal program of the black box.\"",
           "options": [
-            "Vilém Flusser era um navegador português do século XVI. (The Philosophy of the Black Box  Technical Images)",
-            "Filosofia da Caixa Preta é um manual de fotografia analógica comercial. (The Philosophy of the Black Box  Technical Images)",
-            "Flusser estabeleceu que, na era das imagens técnicas, os operadores humanos correm o risco de se tornarem meros funcionários de aparelhos automatizados, a menos que exponham de forma subversiva o programa interno da caixa preta. (The Philosophy of the Black Box  Technical Images)",
-            "Flusser viveu toda a sua vida isolado no deserto do Saara. (The Philosophy of the Black Box  Technical Images)"
+            "Vilém Flusser era um navegador português do século XVI.",
+            "Filosofia da Caixa Preta é um manual de fotografia analógica comercial.",
+            "Flusser estabeleceu que, na era das imagens técnicas, os operadores humanos correm o risco de se tornarem meros funcionários de aparelhos automatizados, a menos que exponham de forma subversiva o programa interno da caixa preta.",
+            "Flusser viveu toda a sua vida isolado no deserto do Saara."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Vilém Flusser analysis translation.",
@@ -15776,10 +15776,10 @@
         {
           "prompt": "According to Vilém Flusser, what historical era began with the emergence of automated technical images that replaced the dominance of linear written text?",
           "options": [
-            "A Idade Média (The Philosophy of the Black Box  Technical Images)",
-            "A Pós-História (The Philosophy of the Black Box  Technical Images)",
-            "A Antiguidade Clássica (The Philosophy of the Black Box  Technical Images)",
-            "O Renascimento (The Philosophy of the Black Box  Technical Images)"
+            "A Idade Média",
+            "A Pós-História",
+            "A Antiguidade Clássica",
+            "O Renascimento"
           ],
           "answerIndex": 1,
           "explanation": "A Pós-História.",
@@ -15816,10 +15816,10 @@
         {
           "prompt": "Which master Brazilian philosopher wrote \"Convite à Filosofia\" and formulated the critique of the \"Ideology of Competence\"?",
           "options": [
-            "Márcia Tiburi (The Critique of Authoritarian Culture  Radical Democracy)",
-            "Djamila Ribeiro (The Critique of Authoritarian Culture  Radical Democracy)",
-            "Marilena Chaui (The Critique of Authoritarian Culture  Radical Democracy)",
-            "Lélia Gonzalez (The Critique of Authoritarian Culture  Radical Democracy)"
+            "Márcia Tiburi",
+            "Djamila Ribeiro",
+            "Marilena Chaui",
+            "Lélia Gonzalez"
           ],
           "answerIndex": 2,
           "explanation": "Marilena Chaui."
@@ -15831,10 +15831,10 @@
         {
           "prompt": "What conservative social myth was deconstructed by Marilena Chaui in works like \"Conformismo e Resistência\"?",
           "options": [
-            "O mito da caverna (The Critique of Authoritarian Culture  Radical Democracy)",
-            "O mito do eterno retorno (The Critique of Authoritarian Culture  Radical Democracy)",
-            "O mito da não-violência e da cordialidade natural brasileira (The Critique of Authoritarian Culture  Radical Democracy)",
-            "O mito do progresso científico (The Critique of Authoritarian Culture  Radical Democracy)"
+            "O mito da caverna",
+            "O mito do eterno retorno",
+            "O mito da não-violência e da cordialidade natural brasileira",
+            "O mito do progresso científico"
           ],
           "answerIndex": 2,
           "explanation": "O mito da não-violência e da cordialidade natural brasileira."
@@ -15846,10 +15846,10 @@
         {
           "prompt": "Translate: \"Chaui defined radical democracy not as an electoral procedural mechanism, but as an ongoing social struggle that continuously creates and expands universal rights.\"",
           "options": [
-            "Convite à Filosofia foi escrito no século XVII em latim. (The Critique of Authoritarian Culture  Radical Democracy)",
-            "Chaui definiu a democracia radical não como um mecanismo procedimental eleitoral, mas como uma luta social contínua que cria e expande direitos universais de forma ininterrupta. (The Critique of Authoritarian Culture  Radical Democracy)",
-            "A ideologia da competência defende a igualdade salarial total. (The Critique of Authoritarian Culture  Radical Democracy)",
-            "Marilena Chaui é uma cantora de bossa nova. (The Critique of Authoritarian Culture  Radical Democracy)"
+            "Convite à Filosofia foi escrito no século XVII em latim.",
+            "Chaui definiu a democracia radical não como um mecanismo procedimental eleitoral, mas como uma luta social contínua que cria e expande direitos universais de forma ininterrupta.",
+            "A ideologia da competência defende a igualdade salarial total.",
+            "Marilena Chaui é uma cantora de bossa nova."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Marilena Chaui analysis translation.",
@@ -15858,10 +15858,10 @@
         {
           "prompt": "Which 17th-century Dutch-Jewish rationalist philosopher is the central subject of Marilena Chaui's internationally celebrated academic research and books?",
           "options": [
-            "Baruch Spinoza (The Critique of Authoritarian Culture  Radical Democracy)",
-            "Thomas Hobbes (The Critique of Authoritarian Culture  Radical Democracy)",
-            "John Locke (The Critique of Authoritarian Culture  Radical Democracy)",
-            "René Descartes (The Critique of Authoritarian Culture  Radical Democracy)"
+            "Baruch Spinoza",
+            "Thomas Hobbes",
+            "John Locke",
+            "René Descartes"
           ],
           "answerIndex": 0,
           "explanation": "Baruch Spinoza (Espinosa).",
@@ -15980,10 +15980,10 @@
         {
           "prompt": "Which master Brazilian director authored the 1965 manifesto \"Uma Estética da Fome\" and won Best Director at Cannes for \"Antônio das Mortes\" (1969)?",
           "options": [
-            "Nelson Pereira dos Santos (Cinema Novo  The Aesthetics of Hunger)",
-            "Ruy Guerra (Cinema Novo  The Aesthetics of Hunger)",
-            "Carlos Diegues (Cinema Novo  The Aesthetics of Hunger)",
-            "Glauber Rocha (Cinema Novo  The Aesthetics of Hunger)"
+            "Nelson Pereira dos Santos",
+            "Ruy Guerra",
+            "Carlos Diegues",
+            "Glauber Rocha"
           ],
           "answerIndex": 3,
           "explanation": "Glauber Rocha."
@@ -15995,10 +15995,10 @@
         {
           "prompt": "What famous motto, summarizing the low-budget guerrilla production philosophy of Cinema Novo, was coined by Glauber Rocha?",
           "options": [
-            "«Uma câmera na mão e uma ideia na cabeça» (Cinema Novo  The Aesthetics of Hunger)",
-            "«Luz, câmera, ação» (Cinema Novo  The Aesthetics of Hunger)",
-            "«Ordem e progresso» (Cinema Novo  The Aesthetics of Hunger)",
-            "«Mais dinheiro, melhor cinema» (Cinema Novo  The Aesthetics of Hunger)"
+            "«Uma câmera na mão e uma ideia na cabeça»",
+            "«Luz, câmera, ação»",
+            "«Ordem e progresso»",
+            "«Mais dinheiro, melhor cinema»"
           ],
           "answerIndex": 0,
           "explanation": "«Uma câmera na mão e uma ideia na cabeça»."
@@ -16010,10 +16010,10 @@
         {
           "prompt": "Translate: \"Glauber Rocha established that Cinema Novo must transform the visceral hunger of the marginalized Sertao into an explosive revolutionary aesthetic against neo-colonialism.\"",
           "options": [
-            "Deus e o Diabo na Terra do Sol é um filme de ficção científica ambientado em Marte. (Cinema Novo  The Aesthetics of Hunger)",
-            "Glauber Rocha foi um engenheiro de ferrovias em São Paulo. (Cinema Novo  The Aesthetics of Hunger)",
-            "O Cinema Novo utilizava apenas estúdios caros de Hollywood. (Cinema Novo  The Aesthetics of Hunger)",
-            "Glauber Rocha estabeleceu que o Cinema Novo deve transformar a fome visceral do Sertão marginalizado em uma estética revolucionária explosiva contra o neocolonialismo. (Cinema Novo  The Aesthetics of Hunger)"
+            "Deus e o Diabo na Terra do Sol é um filme de ficção científica ambientado em Marte.",
+            "Glauber Rocha foi um engenheiro de ferrovias em São Paulo.",
+            "O Cinema Novo utilizava apenas estúdios caros de Hollywood.",
+            "Glauber Rocha estabeleceu que o Cinema Novo deve transformar a fome visceral do Sertão marginalizado em uma estética revolucionária explosiva contra o neocolonialismo."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Glauber Rocha analysis translation.",
@@ -16022,10 +16022,10 @@
         {
           "prompt": "What barren, drought-stricken geographic region of Northeastern Brazil serves as the mythical landscape of *Deus e o Diabo na Terra do Sol*?",
           "options": [
-            "Os Pampas gaúchos (Cinema Novo  The Aesthetics of Hunger)",
-            "A Floresta Amazônica (Cinema Novo  The Aesthetics of Hunger)",
-            "O Sertão (Cinema Novo  The Aesthetics of Hunger)",
-            "O Pantanal (Cinema Novo  The Aesthetics of Hunger)"
+            "Os Pampas gaúchos",
+            "A Floresta Amazônica",
+            "O Sertão",
+            "O Pantanal"
           ],
           "answerIndex": 2,
           "explanation": "O Sertão.",
@@ -16062,10 +16062,10 @@
         {
           "prompt": "Which master Brazilian director won the Berlin Golden Bear for \"Central do Brasil\" (1998) and directed \"Diários de Motocicleta\" (2004)?",
           "options": [
-            "Walter Salles (The Search for the Father  The Humanistic Road)",
-            "José Padilha (The Search for the Father  The Humanistic Road)",
-            "Karim Aïnouz (The Search for the Father  The Humanistic Road)",
-            "Fernando Meirelles (The Search for the Father  The Humanistic Road)"
+            "Walter Salles",
+            "José Padilha",
+            "Karim Aïnouz",
+            "Fernando Meirelles"
           ],
           "answerIndex": 0,
           "explanation": "Walter Salles."
@@ -16077,10 +16077,10 @@
         {
           "prompt": "Which legendary Brazilian actress made history with her Oscar-nominated performance as Dora in Walter Salles's \"Central do Brasil\"?",
           "options": [
-            "Fernanda Montenegro (The Search for the Father  The Humanistic Road)",
-            "Sônia Braga (The Search for the Father  The Humanistic Road)",
-            "Glória Pires (The Search for the Father  The Humanistic Road)",
-            "Regina Casé (The Search for the Father  The Humanistic Road)"
+            "Fernanda Montenegro",
+            "Sônia Braga",
+            "Glória Pires",
+            "Regina Casé"
           ],
           "answerIndex": 0,
           "explanation": "Fernanda Montenegro."
@@ -16092,10 +16092,10 @@
         {
           "prompt": "Translate: \"Central Station utilized the journey through the Brazilian interior to dramatize the moral redemption of an individual and the search for collective national identity.\"",
           "options": [
-            "Central do Brasil é um desenho animado infantil. (The Search for the Father  The Humanistic Road)",
-            "Walter Salles é um piloto de aviões comerciais. (The Search for the Father  The Humanistic Road)",
-            "Central do Brasil utilizou a jornada pelo interior brasileiro para dramatizar a redenção moral de um indivíduo e a busca pela identidade nacional coletiva. (The Search for the Father  The Humanistic Road)",
-            "Jorge Drexler ganhou um Oscar por atuação em filme de ação. (The Search for the Father  The Humanistic Road)"
+            "Central do Brasil é um desenho animado infantil.",
+            "Walter Salles é um piloto de aviões comerciais.",
+            "Central do Brasil utilizou a jornada pelo interior brasileiro para dramatizar a redenção moral de um indivíduo e a busca pela identidade nacional coletiva.",
+            "Jorge Drexler ganhou um Oscar por atuação em filme de ação."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Walter Salles analysis translation.",
@@ -16104,10 +16104,10 @@
         {
           "prompt": "What bustling railway station in Rio de Janeiro serves as the opening setting where Dora writes letters for illiterate migrants?",
           "options": [
-            "Estação da Luz (The Search for the Father  The Humanistic Road)",
-            "Estação Central do Brasil (The Search for the Father  The Humanistic Road)",
-            "Estação Leopoldina (The Search for the Father  The Humanistic Road)",
-            "Estação Júlio Prestes (The Search for the Father  The Humanistic Road)"
+            "Estação da Luz",
+            "Estação Central do Brasil",
+            "Estação Leopoldina",
+            "Estação Júlio Prestes"
           ],
           "answerIndex": 1,
           "explanation": "Estação Central do Brasil.",
@@ -16144,10 +16144,10 @@
         {
           "prompt": "Which master Brazilian directors created the 2002 global cinematic phenomenon \"Cidade de Deus\" (City of God), earning four Academy Award nominations?",
           "options": [
-            "Fernando Meirelles e Kátia Lund (HyperKinetic Montage  The Favela Symphony)",
-            "Glauber Rocha e Walter Salles (HyperKinetic Montage  The Favela Symphony)",
-            "José Padilha e Marcos Prado (HyperKinetic Montage  The Favela Symphony)",
-            "Kleber Mendonça Filho e Juliano Dornelles (HyperKinetic Montage  The Favela Symphony)"
+            "Fernando Meirelles e Kátia Lund",
+            "Glauber Rocha e Walter Salles",
+            "José Padilha e Marcos Prado",
+            "Kleber Mendonça Filho e Juliano Dornelles"
           ],
           "answerIndex": 0,
           "explanation": "Fernando Meirelles e Kátia Lund."
@@ -16159,10 +16159,10 @@
         {
           "prompt": "Who is the young narrator and aspiring photojournalist who survives the gang warfare in \"Cidade de Deus\"?",
           "options": [
-            "Buscapé (HyperKinetic Montage  The Favela Symphony)",
-            "Bené (HyperKinetic Montage  The Favela Symphony)",
-            "Mané Galinha (HyperKinetic Montage  The Favela Symphony)",
-            "Zé Pequeno (HyperKinetic Montage  The Favela Symphony)"
+            "Buscapé",
+            "Bené",
+            "Mané Galinha",
+            "Zé Pequeno"
           ],
           "answerIndex": 0,
           "explanation": "Buscapé (Rocket)."
@@ -16174,10 +16174,10 @@
         {
           "prompt": "Translate: \"City of God deployed kinetic jump cuts, dynamic color timing, and community-based non-professional casting to chronicle thirty years of systemic social exclusion in Rio.\"",
           "options": [
-            "Fernando Meirelles é um astronauta da NASA. (HyperKinetic Montage  The Favela Symphony)",
-            "Cidade de Deus empregou cortes rápidos cinéticos, gradação de cor dinâmica e elenco não profissional comunitário para narrar trinta anos de exclusão social sistêmica no Rio. (HyperKinetic Montage  The Favela Symphony)",
-            "Daniel Rezende ganhou prêmios por corrida de Fórmula 1. (HyperKinetic Montage  The Favela Symphony)",
-            "Cidade de Deus é um documentário sobre agricultura na Amazônia. (HyperKinetic Montage  The Favela Symphony)"
+            "Fernando Meirelles é um astronauta da NASA.",
+            "Cidade de Deus empregou cortes rápidos cinéticos, gradação de cor dinâmica e elenco não profissional comunitário para narrar trinta anos de exclusão social sistêmica no Rio.",
+            "Daniel Rezende ganhou prêmios por corrida de Fórmula 1.",
+            "Cidade de Deus é um documentário sobre agricultura na Amazônia."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Cidade de Deus analysis translation.",
@@ -16186,10 +16186,10 @@
         {
           "prompt": "What terrifying antagonist, portrayed with chilling intensity by Leandro Firmino, famously declared: *«Dadinho o caralho, meu nome agora é Zé Pequeno!»*?",
           "options": [
-            "Zé Pequeno (HyperKinetic Montage  The Favela Symphony)",
-            "Cabeleira (HyperKinetic Montage  The Favela Symphony)",
-            "Maracanã (HyperKinetic Montage  The Favela Symphony)",
-            "Cenoura (HyperKinetic Montage  The Favela Symphony)"
+            "Zé Pequeno",
+            "Cabeleira",
+            "Maracanã",
+            "Cenoura"
           ],
           "answerIndex": 0,
           "explanation": "Zé Pequeno (Li'l Zé).",
@@ -16226,10 +16226,10 @@
         {
           "prompt": "Which master Brazilian documentarian created \"Cabra Marcado para Morrer\" (1984) and \"Edifício Master\" (2002)?",
           "options": [
-            "Marcelo Gomes (The Sacred Ethics of Conversational Listening)",
-            "Cao Guimarães (The Sacred Ethics of Conversational Listening)",
-            "Eduardo Coutinho (The Sacred Ethics of Conversational Listening)",
-            "João Moreira Salles (The Sacred Ethics of Conversational Listening)"
+            "Marcelo Gomes",
+            "Cao Guimarães",
+            "Eduardo Coutinho",
+            "João Moreira Salles"
           ],
           "answerIndex": 2,
           "explanation": "Eduardo Coutinho."
@@ -16241,10 +16241,10 @@
         {
           "prompt": "In which iconic Copacabana apartment building did Eduardo Coutinho film his acclaimed 2002 documentary interviewing 37 diverse residents?",
           "options": [
-            "Edifício Gustavo Capanema (The Sacred Ethics of Conversational Listening)",
-            "Edifício Martinelli (The Sacred Ethics of Conversational Listening)",
-            "Edifício Master (The Sacred Ethics of Conversational Listening)",
-            "Edifício Copan (The Sacred Ethics of Conversational Listening)"
+            "Edifício Gustavo Capanema",
+            "Edifício Martinelli",
+            "Edifício Master",
+            "Edifício Copan"
           ],
           "answerIndex": 2,
           "explanation": "Edifício Master."
@@ -16256,10 +16256,10 @@
         {
           "prompt": "Translate: \"Coutinho rejected omniscient voiceover commentary in favor of pure, attentive listening, transforming the documentary interview into a profound ethical encounter with the human subject.\"",
           "options": [
-            "Coutinho rejeitou o comentário onisciente em voz em off em favor de uma escuta pura e atenta, transformando a entrevista documental em um profundo encontro ético com o sujeito humano. (The Sacred Ethics of Conversational Listening)",
-            "Cabra Marcado para Morrer é um filme sobre criação de gado. (The Sacred Ethics of Conversational Listening)",
-            "Edifício Master foi filmado em um castelo medieval na Alemanha. (The Sacred Ethics of Conversational Listening)",
-            "Eduardo Coutinho era um diretor de filmes de ficção científica em Hollywood. (The Sacred Ethics of Conversational Listening)"
+            "Coutinho rejeitou o comentário onisciente em voz em off em favor de uma escuta pura e atenta, transformando a entrevista documental em um profundo encontro ético com o sujeito humano.",
+            "Cabra Marcado para Morrer é um filme sobre criação de gado.",
+            "Edifício Master foi filmado em um castelo medieval na Alemanha.",
+            "Eduardo Coutinho era um diretor de filmes de ficção científica em Hollywood."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Eduardo Coutinho analysis translation.",
@@ -16268,10 +16268,10 @@
         {
           "prompt": "Who was the heroic peasant leader's widow discovered by Eduardo Coutinho in 1984 living under the alias \"Marta Maria Chaves\" after twenty years in hiding?",
           "options": [
-            "Chiquinha Gonzaga (The Sacred Ethics of Conversational Listening)",
-            "Maria Bonita (The Sacred Ethics of Conversational Listening)",
-            "Dona Ivone Lara (The Sacred Ethics of Conversational Listening)",
-            "Elizabeth Teixeira (The Sacred Ethics of Conversational Listening)"
+            "Chiquinha Gonzaga",
+            "Maria Bonita",
+            "Dona Ivone Lara",
+            "Elizabeth Teixeira"
           ],
           "answerIndex": 3,
           "explanation": "Elizabeth Teixeira.",
@@ -16390,10 +16390,10 @@
         {
           "prompt": "Which essential green vegetable, sliced into hair-thin ribbons and flash-sautéed with garlic, is the canonical vegetable accompaniment to Brazilian feijoada?",
           "options": [
-            "Espinafre (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Alface (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Rúcula (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Couve (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)"
+            "Espinafre",
+            "Alface",
+            "Rúcula",
+            "Couve"
           ],
           "answerIndex": 3,
           "explanation": "Couve (Collard Greens)."
@@ -16405,10 +16405,10 @@
         {
           "prompt": "Why are fresh orange slices traditionally served alongside Brazilian feijoada?",
           "options": [
-            "The natural citric acid cuts through the richness of the pork fats and aids digestion and iron absorption. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "To sweeten the beans. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "To cool down the plate. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Because of a legal decree. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)"
+            "The natural citric acid cuts through the richness of the pork fats and aids digestion and iron absorption.",
+            "To sweeten the beans.",
+            "To cool down the plate.",
+            "Because of a legal decree."
           ],
           "answerIndex": 0,
           "explanation": "The natural citric acid cuts through the richness of pork fats and aids digestion."
@@ -16420,10 +16420,10 @@
         {
           "prompt": "Translate: \"Feijoada represents the crowning achievement of Afro-Brazilian gastronomy, slow-simmering black beans with smoked meats, accompanied by garlicky collard greens, toasted farofa, and crispy cracklings.\"",
           "options": [
-            "A farofa é feita exclusivamente de farinha de trigo importada. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "A feijoada é uma sopa de peixe cru tradicional do Japão. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "A feijoada representa a conquista suprema da gastronomia afro-brasileira, cozinhando feijão preto em fogo brando com carnes defumadas, acompanhada por couve ao alho, farofa tostada e torresmo estaladiço. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "O paio é um tipo de queijo doce de cabra da França. (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)"
+            "A farofa é feita exclusivamente de farinha de trigo importada.",
+            "A feijoada é uma sopa de peixe cru tradicional do Japão.",
+            "A feijoada representa a conquista suprema da gastronomia afro-brasileira, cozinhando feijão preto em fogo brando com carnes defumadas, acompanhada por couve ao alho, farofa tostada e torresmo estaladiço.",
+            "O paio é um tipo de queijo doce de cabra da França."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Feijoada analysis translation.",
@@ -16432,10 +16432,10 @@
         {
           "prompt": "What traditional smoked Portuguese pork sausage, shaped like a fat rounded oval, is indispensable to authentic Brazilian feijoada?",
           "options": [
-            "Chouriço de sangue (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Paio (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Pepperoni (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)",
-            "Salsicha de Viena (The Culinary Soul of Brazil  Feijoada Completa A Feijoada Completa)"
+            "Chouriço de sangue",
+            "Paio",
+            "Pepperoni",
+            "Salsicha de Viena"
           ],
           "answerIndex": 1,
           "explanation": "Paio.",
@@ -16472,10 +16472,10 @@
         {
           "prompt": "Which vibrant orange-red palm oil, brought from West Africa, is essential for frying authentic Bahian acarajé?",
           "options": [
-            "Azeite de Dendê (AfroBahian Alchemy  The Sacred Dend)",
-            "Óleo de girassol (AfroBahian Alchemy  The Sacred Dend)",
-            "Óleo de canola (AfroBahian Alchemy  The Sacred Dend)",
-            "Azeite de oliva (AfroBahian Alchemy  The Sacred Dend)"
+            "Azeite de Dendê",
+            "Óleo de girassol",
+            "Óleo de canola",
+            "Azeite de oliva"
           ],
           "answerIndex": 0,
           "explanation": "Azeite de Dendê (Red Palm Oil)."
@@ -16487,10 +16487,10 @@
         {
           "prompt": "What bean variety is peeled, ground, and whipped by hand to create the fluffy dough of traditional acarajé?",
           "options": [
-            "Feijão-fradinho (AfroBahian Alchemy  The Sacred Dend)",
-            "Feijão-preto (AfroBahian Alchemy  The Sacred Dend)",
-            "Feijão-branco (AfroBahian Alchemy  The Sacred Dend)",
-            "Feijão-carioca (AfroBahian Alchemy  The Sacred Dend)"
+            "Feijão-fradinho",
+            "Feijão-preto",
+            "Feijão-branco",
+            "Feijão-carioca"
           ],
           "answerIndex": 0,
           "explanation": "Feijão-fradinho (Black-eyed peas)."
@@ -16502,10 +16502,10 @@
         {
           "prompt": "Translate: \"The Baianas de Acaraje hand-whip black-eyed pea batter into light dumplings, deep-frying them in boiling dende palm oil before filling them with creamy vatapa and smoked shrimp.\"",
           "options": [
-            "O acarajé é uma sobremesa açucarada de chocolate originária de Portugal. (AfroBahian Alchemy  The Sacred Dend)",
-            "As Baianas de Acarajé batem à mão a massa de feijão-fradinho em bolinhos leves, fritando-os em azeite de dendê fervente antes de recheá-los com vatapá cremoso e camarão defumado. (AfroBahian Alchemy  The Sacred Dend)",
-            "As Baianas de Acarajé utilizam farinha de trigo refinada em fornos elétricos. (AfroBahian Alchemy  The Sacred Dend)",
-            "O azeite de dendê é extraído de oliveiras italianas. (AfroBahian Alchemy  The Sacred Dend)"
+            "O acarajé é uma sobremesa açucarada de chocolate originária de Portugal.",
+            "As Baianas de Acarajé batem à mão a massa de feijão-fradinho em bolinhos leves, fritando-os em azeite de dendê fervente antes de recheá-los com vatapá cremoso e camarão defumado.",
+            "As Baianas de Acarajé utilizam farinha de trigo refinada em fornos elétricos.",
+            "O azeite de dendê é extraído de oliveiras italianas."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Acarajé analysis translation.",
@@ -16514,10 +16514,10 @@
         {
           "prompt": "What creamy Afro-Bahian condiment, made of bread, coconut milk, ground peanuts, cashews, and palm oil, fills the center of an acarajé?",
           "options": [
-            "Vatapá (AfroBahian Alchemy  The Sacred Dend)",
-            "Tutu (AfroBahian Alchemy  The Sacred Dend)",
-            "Farofa (AfroBahian Alchemy  The Sacred Dend)",
-            "Quindim (AfroBahian Alchemy  The Sacred Dend)"
+            "Vatapá",
+            "Tutu",
+            "Farofa",
+            "Quindim"
           ],
           "answerIndex": 0,
           "explanation": "Vatapá.",
@@ -16554,10 +16554,10 @@
         {
           "prompt": "Which world-renowned raw-milk artisanal cheese from the mountains of Minas Gerais, inoculated with natural \"pingo\" whey, is the star ingredient of authentic Pão de Queijo?",
           "options": [
-            "Queijo Canastra (The Terroir of Minas Gerais)",
-            "Queijo Parmesão (The Terroir of Minas Gerais)",
-            "Queijo Gorgonzola (The Terroir of Minas Gerais)",
-            "Queijo Cheddar (The Terroir of Minas Gerais)"
+            "Queijo Canastra",
+            "Queijo Parmesão",
+            "Queijo Gorgonzola",
+            "Queijo Cheddar"
           ],
           "answerIndex": 0,
           "explanation": "Queijo Canastra (Serra da Canastra)."
@@ -16569,10 +16569,10 @@
         {
           "prompt": "What specific starch, derived from fermented manioc root, gives authentic Brazilian Pão de Queijo its signature airy rise and elastic chew?",
           "options": [
-            "Polvilho azedo (The Terroir of Minas Gerais)",
-            "Farinha de milho (The Terroir of Minas Gerais)",
-            "Farinha de aveia (The Terroir of Minas Gerais)",
-            "Farinha de trigo (The Terroir of Minas Gerais)"
+            "Polvilho azedo",
+            "Farinha de milho",
+            "Farinha de aveia",
+            "Farinha de trigo"
           ],
           "answerIndex": 0,
           "explanation": "Polvilho azedo (Sour Manioc Starch)."
@@ -16584,10 +16584,10 @@
         {
           "prompt": "Translate: \"Artisanal Canastra cheese from raw milk and sour manioc starch create the authentic elasticity and golden savory crust of traditional Mineiro cheese bread.\"",
           "options": [
-            "O queijo Canastra artesanal de leite cru e o polvilho azedo criam a elasticidade autêntica e a crosta dourada saborosa do tradicional pão de queijo mineiro. (The Terroir of Minas Gerais)",
-            "A cozinha mineira utiliza apenas fornos micro-ondas industriais. (The Terroir of Minas Gerais)",
-            "O Queijo Canastra é produzido exclusivamente na Suíça. (The Terroir of Minas Gerais)",
-            "O pão de queijo é um bolo de chocolate inventado no Rio de Janeiro. (The Terroir of Minas Gerais)"
+            "O queijo Canastra artesanal de leite cru e o polvilho azedo criam a elasticidade autêntica e a crosta dourada saborosa do tradicional pão de queijo mineiro.",
+            "A cozinha mineira utiliza apenas fornos micro-ondas industriais.",
+            "O Queijo Canastra é produzido exclusivamente na Suíça.",
+            "O pão de queijo é um bolo de chocolate inventado no Rio de Janeiro."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Minas Gerais cuisine analysis translation.",
@@ -16596,10 +16596,10 @@
         {
           "prompt": "What historic dish was created by 18th-century muleteers transporting gold across Minas Gerais, combining beans, manioc flour, sausages, eggs, and bacon?",
           "options": [
-            "Baião de Dois (The Terroir of Minas Gerais)",
-            "Vatapá (The Terroir of Minas Gerais)",
-            "Moqueca (The Terroir of Minas Gerais)",
-            "Feijão Tropeiro (The Terroir of Minas Gerais)"
+            "Baião de Dois",
+            "Vatapá",
+            "Moqueca",
+            "Feijão Tropeiro"
           ],
           "answerIndex": 3,
           "explanation": "Feijão Tropeiro.",
@@ -16636,10 +16636,10 @@
         {
           "prompt": "Which vibrant yellow Amazonian broth, extracted from grated bitter cassava and fermented to neutralize natural cyanide, forms the base of Tacacá and Pato no Tucupi?",
           "options": [
-            "Manteiga de garrafa (Amazonian BioGastronomy)",
-            "Leite de coco (Amazonian BioGastronomy)",
-            "Tucupi (Amazonian BioGastronomy)",
-            "Dendê (Amazonian BioGastronomy)"
+            "Manteiga de garrafa",
+            "Leite de coco",
+            "Tucupi",
+            "Dendê"
           ],
           "answerIndex": 2,
           "explanation": "Tucupi."
@@ -16651,10 +16651,10 @@
         {
           "prompt": "What unique botanical active compound in the Amazonian herb Jambu creates an electric tingling and numbing sensation on the tongue?",
           "options": [
-            "Mentol (Amazonian BioGastronomy)",
-            "Piperina (Amazonian BioGastronomy)",
-            "Espilantol (Amazonian BioGastronomy)",
-            "Capsaicina (Amazonian BioGastronomy)"
+            "Mentol",
+            "Piperina",
+            "Espilantol",
+            "Capsaicina"
           ],
           "answerIndex": 2,
           "explanation": "Espilantol (Spilanthol)."
@@ -16666,10 +16666,10 @@
         {
           "prompt": "Translate: \"Tacaca is served piping hot in an artisanal gourd, layering fermented yellow tucupi broth, tapioca gum, salted shrimp, and the tongue-tingling sensation of jambu leaves.\"",
           "options": [
-            "O tucupi é extraído da cana-de-açúcar em São Paulo. (Amazonian BioGastronomy)",
-            "O pirarucu é uma ave migratória do Pantanal. (Amazonian BioGastronomy)",
-            "O tacacá é um refrigerante gaseificado industrializado. (Amazonian BioGastronomy)",
-            "O tacacá é servido fervendo em uma cuia artesanal, combinando caldo fermentado de tucupi amarelo, goma de tapioca, camarão salgado e a sensação de dormência das folhas de jambu. (Amazonian BioGastronomy)"
+            "O tucupi é extraído da cana-de-açúcar em São Paulo.",
+            "O pirarucu é uma ave migratória do Pantanal.",
+            "O tacacá é um refrigerante gaseificado industrializado.",
+            "O tacacá é servido fervendo em uma cuia artesanal, combinando caldo fermentado de tucupi amarelo, goma de tapioca, camarão salgado e a sensação de dormência das folhas de jambu."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Amazonian gastronomy analysis translation.",
@@ -16678,10 +16678,10 @@
         {
           "prompt": "What massive Amazonian freshwater fish, capable of breathing air and growing up to 3 meters in length, is known as the \"Cod of the Amazon\"?",
           "options": [
-            "Tucunaré (Amazonian BioGastronomy)",
-            "Dourado (Amazonian BioGastronomy)",
-            "Pirarucu (Amazonian BioGastronomy)",
-            "Tambaqui (Amazonian BioGastronomy)"
+            "Tucunaré",
+            "Dourado",
+            "Pirarucu",
+            "Tambaqui"
           ],
           "answerIndex": 2,
           "explanation": "Pirarucu (Arapaima gigas).",
@@ -16805,10 +16805,10 @@
         {
           "prompt": "¿Qual é a inovação metodológica e filosófica central introduzida por Augusto Boal no Teatro do Oprimido?",
           "options": [
-            "A criação do «espect-ator», transformando o público passivo em sujeito ativo que intervém e modifica a ação cênica. (Augusto Boal e o Teatro do Oprimido)",
-            "A proibição de qualquer diálogo falado em cena em favor do silêncio absoluto. (Augusto Boal e o Teatro do Oprimido)",
-            "A exigência de atores usarem máscaras de mármore gregas clássicas. (Augusto Boal e o Teatro do Oprimido)",
-            "O confinamento do espetáculo a transmissões de rádio comerciais. (Augusto Boal e o Teatro do Oprimido)"
+            "A criação do «espect-ator», transformando o público passivo em sujeito ativo que intervém e modifica a ação cênica.",
+            "A proibição de qualquer diálogo falado em cena em favor do silêncio absoluto.",
+            "A exigência de atores usarem máscaras de mármore gregas clássicas.",
+            "O confinamento do espetáculo a transmissões de rádio comerciais."
           ],
           "answerIndex": 0,
           "explanation": "Boal desconstruiu a barreira palco-plateia, capacitando o espectador a atuar e ensaiar transformações sociais."
@@ -16820,10 +16820,10 @@
         {
           "prompt": "Como funciona a dinâmica do Teatro-Fórum durante uma apresentação comunitária?",
           "options": [
-            "Uma cena de opressão é encenada e, na repetição, qualquer espectador pode gritar «Para!» e substituir o protagonista para propor uma saída. (Augusto Boal e o Teatro do Oprimido)",
-            "Os atores leem um roteiro pré-gravado sem permitir perguntas do público. (Augusto Boal e o Teatro do Oprimido)",
-            "O público deve permanecer em silêncio absoluto até o dia seguinte. (Augusto Boal e o Teatro do Oprimido)",
-            "A plateia vota apenas por cédulas secretas sem subir ao palco. (Augusto Boal e o Teatro do Oprimido)"
+            "Uma cena de opressão é encenada e, na repetição, qualquer espectador pode gritar «Para!» e substituir o protagonista para propor uma saída.",
+            "Os atores leem um roteiro pré-gravado sem permitir perguntas do público.",
+            "O público deve permanecer em silêncio absoluto até o dia seguinte.",
+            "A plateia vota apenas por cédulas secretas sem subir ao palco."
           ],
           "answerIndex": 0,
           "explanation": "O Teatro-Fórum permite que o espect-ator intervenha fisicamente em cena para testar estratégias de superação da opressão."
@@ -16835,10 +16835,10 @@
         {
           "prompt": "Qual célebre companhia teatral paulistana sediou as primeiras experimentações de Augusto Boal e Gianfrancesco Guarnieri nos anos 1950?",
           "options": [
-            "Teatro de Arena de São Paulo (Augusto Boal e o Teatro do Oprimido)",
-            "Theatro Municipal do Rio de Janeiro (Augusto Boal e o Teatro do Oprimido)",
-            "Teatro Amazonas (Augusto Boal e o Teatro do Oprimido)",
-            "Companhia Dramática de Lisboa (Augusto Boal e o Teatro do Oprimido)"
+            "Teatro de Arena de São Paulo",
+            "Theatro Municipal do Rio de Janeiro",
+            "Teatro Amazonas",
+            "Companhia Dramática de Lisboa"
           ],
           "answerIndex": 0,
           "explanation": "O Teatro de Arena foi o berço do teatro moderno e socialmente engajado no Brasil.",
@@ -16847,10 +16847,10 @@
         {
           "prompt": "Qual é a função do personagem «Coringa» no sistema dramatúrgico criado por Boal no Teatro de Arena?",
           "options": [
-            "Atuar como mediador, narrador e articulador crítico entre o elenco, o texto dramático e a plateia. (Augusto Boal e o Teatro do Oprimido)",
-            "Fazer piadas circenses para distrair o público. (Augusto Boal e o Teatro do Oprimido)",
-            "Controlar as luzes e o som do teatro exclusivamente. (Augusto Boal e o Teatro do Oprimido)",
-            "Distribuir ingressos na bilheteria. (Augusto Boal e o Teatro do Oprimido)"
+            "Atuar como mediador, narrador e articulador crítico entre o elenco, o texto dramático e a plateia.",
+            "Fazer piadas circenses para distrair o público.",
+            "Controlar as luzes e o som do teatro exclusivamente.",
+            "Distribuir ingressos na bilheteria."
           ],
           "answerIndex": 0,
           "explanation": "O Coringa é o explicador e regente da montagem que dialoga criticamente com o público.",
@@ -16892,10 +16892,10 @@
         {
           "prompt": "Por que a estreia de «Vestido de Noiva» (1943) é considerada o marco inaugural da modernidade teatral no Brasil?",
           "options": [
-            "Porque introduziu uma inovadora estrutura psicológica em três planos simultâneos (Nelson Rodrigues e o Teatro Moderno)",
-            "Porque foi a primeira peça apresentada inteiramente em latim eclesiástico. (Nelson Rodrigues e o Teatro Moderno)",
-            "Porque eliminou o uso de cenário e figurino nos palcos cariocas. (Nelson Rodrigues e o Teatro Moderno)",
-            "Porque era uma adaptação estrita de uma ópera barroca italiana sem modificações. (Nelson Rodrigues e o Teatro Moderno)"
+            "Porque introduziu uma inovadora estrutura psicológica em três planos simultâneos",
+            "Porque foi a primeira peça apresentada inteiramente em latim eclesiástico.",
+            "Porque eliminou o uso de cenário e figurino nos palcos cariocas.",
+            "Porque era uma adaptação estrita de uma ópera barroca italiana sem modificações."
           ],
           "answerIndex": 0,
           "explanation": "A peça revolucionou a dramaturgia e a direção cênica brasileiras ao encenar a mente subjetiva e os delírios da protagonista."
@@ -16907,10 +16907,10 @@
         {
           "prompt": "Qual é o tema recorrente e a atmosfera social que definem as chamadas «tragédias cariocas» de Nelson Rodrigues?",
           "options": [
-            "O exame impiedoso das paixões humanas, do ciúme, da culpa, da morte e da hipocrisia moral nos subúrbios do Rio de Janeiro. (Nelson Rodrigues e o Teatro Moderno)",
-            "As viagens espaciais futuristas e a tecnologia cibernética. (Nelson Rodrigues e o Teatro Moderno)",
-            "A celebração bucólica da vida camponesa na Europa medieval. (Nelson Rodrigues e o Teatro Moderno)",
-            "A crônica política internacional exclusiva de embaixadas estrangeiras. (Nelson Rodrigues e o Teatro Moderno)"
+            "O exame impiedoso das paixões humanas, do ciúme, da culpa, da morte e da hipocrisia moral nos subúrbios do Rio de Janeiro.",
+            "As viagens espaciais futuristas e a tecnologia cibernética.",
+            "A celebração bucólica da vida camponesa na Europa medieval.",
+            "A crônica política internacional exclusiva de embaixadas estrangeiras."
           ],
           "answerIndex": 0,
           "explanation": "Nelson desnudou a alma humana e os tabus morais da classe média suburbana carioca com genialidade dramática e poética."
@@ -16922,10 +16922,10 @@
         {
           "prompt": "Quem dirigiu a histórica montagem de «Vestido de Noiva» em 1943 com o grupo Os Comediantes?",
           "options": [
-            "Zbigniew Ziembinski (Nelson Rodrigues e o Teatro Moderno)",
-            "Antunes Filho (Nelson Rodrigues e o Teatro Moderno)",
-            "José Celso Martinez Corrêa (Nelson Rodrigues e o Teatro Moderno)",
-            "Aderbal Freire-Filho (Nelson Rodrigues e o Teatro Moderno)"
+            "Zbigniew Ziembinski",
+            "Antunes Filho",
+            "José Celso Martinez Corrêa",
+            "Aderbal Freire-Filho"
           ],
           "answerIndex": 0,
           "explanation": "O diretor polonês Ziembinski introduziu o rigor cênico expressionista europeu no teatro brasileiro.",
@@ -16934,10 +16934,10 @@
         {
           "prompt": "Qual das seguintes peças clássicas é de autoria de Nelson Rodrigues?",
           "options": [
-            "O Beijo no Asfalto (Nelson Rodrigues e o Teatro Moderno)",
-            "O Pagador de Promessas (Nelson Rodrigues e o Teatro Moderno)",
-            "Auto da Compadecida (Nelson Rodrigues e o Teatro Moderno)",
-            "Eles Não Usam Black-tie (Nelson Rodrigues e o Teatro Moderno)"
+            "O Beijo no Asfalto",
+            "O Pagador de Promessas",
+            "Auto da Compadecida",
+            "Eles Não Usam Black-tie"
           ],
           "answerIndex": 0,
           "explanation": "«O Beijo no Asfalto» (1960) é uma das obras-primas da maturidade trágica de Nelson Rodrigues.",
@@ -16979,10 +16979,10 @@
         {
           "prompt": "Qual é a proposta estética fundamental do Movimento Armorial criado por Ariano Suassuna?",
           "options": [
-            "Construir uma arte erudita e erudita brasileira enraizada nas matrizes populares tradicionais do Nordeste, no cordel e no romanceiro ibérico. (Ariano Suassuna e o Movimento Armorial)",
-            "Copiar estritamente as tendências da vanguarda industrial norte-americana sem elementos locais. (Ariano Suassuna e o Movimento Armorial)",
-            "Abolir qualquer referência à música e à literatura tradicional popular. (Ariano Suassuna e o Movimento Armorial)",
-            "Substituir todos os instrumentos musicais acústicos por sintetizadores digitais. (Ariano Suassuna e o Movimento Armorial)"
+            "Construir uma arte erudita e erudita brasileira enraizada nas matrizes populares tradicionais do Nordeste, no cordel e no romanceiro ibérico.",
+            "Copiar estritamente as tendências da vanguarda industrial norte-americana sem elementos locais.",
+            "Abolir qualquer referência à música e à literatura tradicional popular.",
+            "Substituir todos os instrumentos musicais acústicos por sintetizadores digitais."
           ],
           "answerIndex": 0,
           "explanation": "O Movimento Armorial buscou elevar as tradições populares nordestinas ao mais alto patamar da arte clássica brasileira."
@@ -16994,10 +16994,10 @@
         {
           "prompt": "De que fontes literárias e populares Suassuna se nutriu para compor os personagens João Grilo e Chicó no «Auto da Compadecida»?",
           "options": [
-            "Dos folhetos de cordel nordestinos, dos contos populares tradicionais e da tradição medieval dos autos vicentinos e da picaresca. (Ariano Suassuna e o Movimento Armorial)",
-            "De manuais técnicos de navegação marítima inglesa. (Ariano Suassuna e o Movimento Armorial)",
-            "De peças de tragédia grega clássica sobre guerras imperiais. (Ariano Suassuna e o Movimento Armorial)",
-            "De romances góticos vitorianos do século XIX exclusivamente. (Ariano Suassuna e o Movimento Armorial)"
+            "Dos folhetos de cordel nordestinos, dos contos populares tradicionais e da tradição medieval dos autos vicentinos e da picaresca.",
+            "De manuais técnicos de navegação marítima inglesa.",
+            "De peças de tragédia grega clássica sobre guerras imperiais.",
+            "De romances góticos vitorianos do século XIX exclusivamente."
           ],
           "answerIndex": 0,
           "explanation": "João Grilo é o arquétipo do herói pícaro popular imortalizado nos folhetos de cordel e nas narrativas orais sertanejas."
@@ -17009,10 +17009,10 @@
         {
           "prompt": "Quem é a figura celeste que intercede pelos pecadores no clímax dramático do «Auto da Compadecida»?",
           "options": [
-            "Nossa Senhora (Ariano Suassuna e o Movimento Armorial)",
-            "O Arcanjo Gabriel (Ariano Suassuna e o Movimento Armorial)",
-            "O Bispo de Olinda (Ariano Suassuna e o Movimento Armorial)",
-            "O Major Antônio Morais (Ariano Suassuna e o Movimento Armorial)"
+            "Nossa Senhora",
+            "O Arcanjo Gabriel",
+            "O Bispo de Olinda",
+            "O Major Antônio Morais"
           ],
           "answerIndex": 0,
           "explanation": "A Compadecida personifica a compaixão divina universal diante das misérias e fragilidades humanas.",
@@ -17021,10 +17021,10 @@
         {
           "prompt": "Em que cidade do sertão paraibano se passa a trama principal do «Auto da Compadecida»?",
           "options": [
-            "Taperoá (Ariano Suassuna e o Movimento Armorial)",
-            "Recife (Ariano Suassuna e o Movimento Armorial)",
-            "Salvador (Ariano Suassuna e o Movimento Armorial)",
-            "Fortaleza (Ariano Suassuna e o Movimento Armorial)"
+            "Taperoá",
+            "Recife",
+            "Salvador",
+            "Fortaleza"
           ],
           "answerIndex": 0,
           "explanation": "Taperoá é a cidade sertaneja da Paraíba onde Suassuna viveu sua infância e ambientou sua peça imortal.",
@@ -17066,10 +17066,10 @@
         {
           "prompt": "Qual foi o impacto histórico e estético da encenação de «O Rei da Vela» por Zé Celso e o Teatro Oficina em 1967?",
           "options": [
-            "Catalisou a revolução cultural do Tropicalismo ao aplicar a antropofagia oswaldiana numa sátira feroz da sociedade brasileira. (O Teatro Oficina e Z Celso)",
-            "Provocou o fechamento imediato de todos os teatros de São Paulo por desinteresse do público. (O Teatro Oficina e Z Celso)",
-            "Instituiu o retorno à tragédia clássica em francês sem cenário. (O Teatro Oficina e Z Celso)",
-            "Estabeleceu o teatro comercial de marionetes como única forma de arte teatral permitida. (O Teatro Oficina e Z Celso)"
+            "Catalisou a revolução cultural do Tropicalismo ao aplicar a antropofagia oswaldiana numa sátira feroz da sociedade brasileira.",
+            "Provocou o fechamento imediato de todos os teatros de São Paulo por desinteresse do público.",
+            "Instituiu o retorno à tragédia clássica em francês sem cenário.",
+            "Estabeleceu o teatro comercial de marionetes como única forma de arte teatral permitida."
           ],
           "answerIndex": 0,
           "explanation": "A peça foi o manifesto cênico que deflagrou o Tropicalismo e reinventou a postura contestatória das artes no país."
@@ -17081,10 +17081,10 @@
         {
           "prompt": "O que caracteriza o projeto arquitetônico revolucionário do Teatro Oficina projetado por Lina Bo Bardi no Bixiga?",
           "options": [
-            "Uma pista longitudinal de madeira cercada por andaimes tubulares e uma imensa parede de vidro que conecta o teatro à cidade. (O Teatro Oficina e Z Celso)",
-            "Uma sala circular subterrânea sem iluminação natural nem ventilação. (O Teatro Oficina e Z Celso)",
-            "Um castelo neoclássico de pedra com fosso de água. (O Teatro Oficina e Z Celso)",
-            "Um auditório com poltronas numeradas de veludo vermelho estritamente isoladas do palco. (O Teatro Oficina e Z Celso)"
+            "Uma pista longitudinal de madeira cercada por andaimes tubulares e uma imensa parede de vidro que conecta o teatro à cidade.",
+            "Uma sala circular subterrânea sem iluminação natural nem ventilação.",
+            "Um castelo neoclássico de pedra com fosso de água.",
+            "Um auditório com poltronas numeradas de veludo vermelho estritamente isoladas do palco."
           ],
           "answerIndex": 0,
           "explanation": "Lina Bo Bardi aboliu a caixa preta tradicional criando uma rua cênica que dialoga com o céu e o tecido urbano."
@@ -17096,10 +17096,10 @@
         {
           "prompt": "Quem foi o autor modernista de 1922 que escreveu o texto teatral de «O Rei da Vela» encenado pelo Oficina?",
           "options": [
-            "Oswald de Andrade (O Teatro Oficina e Z Celso)",
-            "Mário de Andrade (O Teatro Oficina e Z Celso)",
-            "Manuel Bandeira (O Teatro Oficina e Z Celso)",
-            "Carlos Drummond de Andrade (O Teatro Oficina e Z Celso)"
+            "Oswald de Andrade",
+            "Mário de Andrade",
+            "Manuel Bandeira",
+            "Carlos Drummond de Andrade"
           ],
           "answerIndex": 0,
           "explanation": "Oswald de Andrade escreveu a peça em 1933 como parte de sua crítica feroz ao capitalismo parasitário e à burguesia cafeeira.",
@@ -17108,10 +17108,10 @@
         {
           "prompt": "Em que tradicional bairro paulistano de herança operária e imigrante está localizado o Teatro Oficina?",
           "options": [
-            "Bixiga (O Teatro Oficina e Z Celso)",
-            "Copacabana (O Teatro Oficina e Z Celso)",
-            "Pelourinho (O Teatro Oficina e Z Celso)",
-            "Savassi (O Teatro Oficina e Z Celso)"
+            "Bixiga",
+            "Copacabana",
+            "Pelourinho",
+            "Savassi"
           ],
           "answerIndex": 0,
           "explanation": "O Teatro Oficina Uzyna Uzona situa-se na Rua Jaceguai, no histórico bairro do Bixiga em São Paulo.",
@@ -17153,10 +17153,10 @@
         {
           "prompt": "Quem é o artista visual e dramaturgo responsável pela concepção temática, pesquisa histórica, figurinos e alegorias de uma escola de samba?",
           "options": [
-            "O Carnavalesco (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "O árbitro de futebol (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "O maestro da ópera lírica italiana (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "O diretor de cinema hollywoodiano (A Dramaturgia do Carnaval Carioca e o SambaEnredo)"
+            "O Carnavalesco",
+            "O árbitro de futebol",
+            "O maestro da ópera lírica italiana",
+            "O diretor de cinema hollywoodiano"
           ],
           "answerIndex": 0,
           "explanation": "O carnavalesco é o diretor artístico e dramaturgo que cria a narrativa visual e cênica do enredo."
@@ -17168,10 +17168,10 @@
         {
           "prompt": "Qual é a função da Comissão de Frente em um desfile de escola de samba na Sapucaí?",
           "options": [
-            "Apresentar e introduzir o enredo ao público e jurados com coreografia teatralizada e rigor técnico de impacto visual. (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Vender lanches e bebidas nas arquibancadas. (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Controlar o trânsito de ambulâncias fora da pista. (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Limpar a pista após a saída do último carro. (A Dramaturgia do Carnaval Carioca e o SambaEnredo)"
+            "Apresentar e introduzir o enredo ao público e jurados com coreografia teatralizada e rigor técnico de impacto visual.",
+            "Vender lanches e bebidas nas arquibancadas.",
+            "Controlar o trânsito de ambulâncias fora da pista.",
+            "Limpar a pista após a saída do último carro."
           ],
           "answerIndex": 0,
           "explanation": "A Comissão de Frente abre o cortejo da escola teatralizando os conceitos essenciais do enredo."
@@ -17183,10 +17183,10 @@
         {
           "prompt": "Quem projetou o monumento arquitetônico da Passarela do Samba (Sambódromo da Marquês de Sapucaí) inaugurado em 1984 no Rio de Janeiro?",
           "options": [
-            "Oscar Niemeyer (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Lina Bo Bardi (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Lúcio Costa (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Paulo Mendes da Rocha (A Dramaturgia do Carnaval Carioca e o SambaEnredo)"
+            "Oscar Niemeyer",
+            "Lina Bo Bardi",
+            "Lúcio Costa",
+            "Paulo Mendes da Rocha"
           ],
           "answerIndex": 0,
           "explanation": "Oscar Niemeyer projetou a icônica passarela de concreto e a Praça da Apoteose sob encomenda de Darcy Ribeiro e Leonel Brizola.",
@@ -17195,10 +17195,10 @@
         {
           "prompt": "Como se chama o poema cantado composto especificamente para guiar o desfile e narrar o tema da agremiação?",
           "options": [
-            "Samba-enredo (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Bossa nova (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Choro instrumental (A Dramaturgia do Carnaval Carioca e o SambaEnredo)",
-            "Modinha colonial (A Dramaturgia do Carnaval Carioca e o SambaEnredo)"
+            "Samba-enredo",
+            "Bossa nova",
+            "Choro instrumental",
+            "Modinha colonial"
           ],
           "answerIndex": 0,
           "explanation": "O samba-enredo é a partitura lírica e melódica que toda a escola canta e dramatiza durante a evolução.",
@@ -17252,10 +17252,10 @@
         {
           "prompt": "Qual material mineral nativo das Minas Gerais foi magistralmente utilizado por Aleijadinho para esculpir os Doze Profetas em Congonhas?",
           "options": [
-            "Pedra-sabão (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Mármore de Carrara importado (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Granito bruto sem polimento (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Arenito avermelhado (Analisar a esttica do Barroco e Rococ mineiro)"
+            "Pedra-sabão",
+            "Mármore de Carrara importado",
+            "Granito bruto sem polimento",
+            "Arenito avermelhado"
           ],
           "answerIndex": 0,
           "explanation": "A pedra-sabão (esteatita), abundante na região mineira, permitiu a rica modelagem plástica das esculturas de Aleijadinho."
@@ -17267,10 +17267,10 @@
         {
           "prompt": "Qual igreja em Ouro Preto é considerada o cume da integração arquitetônica e pictórica do Rococó mineiro entre Aleijadinho e Mestre Ataíde?",
           "options": [
-            "Igreja de São Francisco de Assis (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Catedral da Sé de Mariana (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Basílica de Nossa Senhora do Pilar (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Igreja de Nossa Senhora do Rosário dos Pretos (Analisar a esttica do Barroco e Rococ mineiro)"
+            "Igreja de São Francisco de Assis",
+            "Catedral da Sé de Mariana",
+            "Basílica de Nossa Senhora do Pilar",
+            "Igreja de Nossa Senhora do Rosário dos Pretos"
           ],
           "answerIndex": 0,
           "explanation": "A Igreja de São Francisco de Assis em Ouro Preto une o projeto e entalhes de Aleijadinho com as pinturas ilusionistas de Manuel da Costa Ataíde."
@@ -17282,10 +17282,10 @@
         {
           "prompt": "O que caracteriza a estética do conjunto dos Doze Profetas de Congonhas do Campo?",
           "options": [
-            "Expressividade dramática, traços angulosos, gestos retóricos e torsões corporais de influência maneirista e barroca. (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Rigidez estática geométrica sem qualquer expressividade facial. (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Cópia mecânica das proporções clássicas gregas em mármore polido. (Analisar a esttica do Barroco e Rococ mineiro)",
-            "Miniaturas em marfim destinadas exclusivamente à devoção doméstica privada. (Analisar a esttica do Barroco e Rococ mineiro)"
+            "Expressividade dramática, traços angulosos, gestos retóricos e torsões corporais de influência maneirista e barroca.",
+            "Rigidez estática geométrica sem qualquer expressividade facial.",
+            "Cópia mecânica das proporções clássicas gregas em mármore polido.",
+            "Miniaturas em marfim destinadas exclusivamente à devoção doméstica privada."
           ],
           "answerIndex": 0,
           "explanation": "Os Doze Profetas destacam-se pelo dinamismo corporal e pela intensa carga emocional gravada na pedra-sabão.",
@@ -17294,10 +17294,10 @@
         {
           "prompt": "Em qual contexto socioeconômico colonial se desenvolveu o florescimento artístico do Barroco Mineiro?",
           "options": [
-            "O apogeu da mineração de ouro e diamantes no século XVIII em Minas Gerais. (Analisar a esttica do Barroco e Rococ mineiro)",
-            "O ciclo da borracha no início do século XX na Amazônia. (Analisar a esttica do Barroco e Rococ mineiro)",
-            "A expansão da lavoura de café no Vale do Paraíba no século XIX. (Analisar a esttica do Barroco e Rococ mineiro)",
-            "A industrialização automobilística do ABC paulista nos anos 1950. (Analisar a esttica do Barroco e Rococ mineiro)"
+            "O apogeu da mineração de ouro e diamantes no século XVIII em Minas Gerais.",
+            "O ciclo da borracha no início do século XX na Amazônia.",
+            "A expansão da lavoura de café no Vale do Paraíba no século XIX.",
+            "A industrialização automobilística do ABC paulista nos anos 1950."
           ],
           "answerIndex": 0,
           "explanation": "O ouro e as pedras preciosas financiaram a construção e ornamentação das suntuosas igrejas mineiras.",
@@ -17350,10 +17350,10 @@
         {
           "prompt": "Qual é a principal inovação estética e plástica introduzida por Oscar Niemeyer na arquitetura moderna internacional?",
           "options": [
-            "A substituição da rigidez dos ângulos retos pela fluidez das curvas escultóricas em concreto armado. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "A eliminação completa de janelas e ventilação natural nos edifícios públicos. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "O retorno ao estilo gótico medieval com gárgulas e arcos ogivais. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "O uso exclusivo de tijolos de barro sem fundações de concreto. (Compreender os princpios do urbanismo modernista de Lcio Costa)"
+            "A substituição da rigidez dos ângulos retos pela fluidez das curvas escultóricas em concreto armado.",
+            "A eliminação completa de janelas e ventilação natural nos edifícios públicos.",
+            "O retorno ao estilo gótico medieval com gárgulas e arcos ogivais.",
+            "O uso exclusivo de tijolos de barro sem fundações de concreto."
           ],
           "answerIndex": 0,
           "explanation": "Niemeyer celebrizou-se mundialmente pela exploração poética e estrutural das curvas livres no concreto."
@@ -17366,9 +17366,9 @@
           "prompt": "Como é estruturado o traçado urbanístico fundamental do Plano Piloto de Lúcio Costa para Brasília?",
           "options": [
             "Pelo cruzamento do Eixo Monumental (residencial nas Asas Sul e Norte)",
-            "Por uma malha circular concêntrica medieval fechada por muralhas. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "Por uma única avenida litorânea linear com arranha-céus espelhados. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "Por quarteirões desordenados sem qualquer zoneamento funcional. (Compreender os princpios do urbanismo modernista de Lcio Costa)"
+            "Por uma malha circular concêntrica medieval fechada por muralhas.",
+            "Por uma única avenida litorânea linear com arranha-céus espelhados.",
+            "Por quarteirões desordenados sem qualquer zoneamento funcional."
           ],
           "answerIndex": 0,
           "explanation": "O Plano Piloto articula o Eixo Monumental leste-oeste com o Eixo Rodoviário norte-sul (Asas Sul e Norte)."
@@ -17381,9 +17381,9 @@
           "prompt": "Quais edifícios icônicos delimitam e compõem a célebre Praça dos Três Poderes em Brasília?",
           "options": [
             "O Palácio do Planalto (Executivo)",
-            "A Catedral Metropolitana, o Teatro Nacional e o Estádio Mané Garrincha. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "O Palácio da Alvorada, o Palácio do Jaburu e o Aeroporto Internacional. (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "O Memorial JK, a Biblioteca Nacional e o Museu da República. (Compreender os princpios do urbanismo modernista de Lcio Costa)"
+            "A Catedral Metropolitana, o Teatro Nacional e o Estádio Mané Garrincha.",
+            "O Palácio da Alvorada, o Palácio do Jaburu e o Aeroporto Internacional.",
+            "O Memorial JK, a Biblioteca Nacional e o Museu da República."
           ],
           "answerIndex": 0,
           "explanation": "A Praça dos Três Poderes materializa a harmonia e independência constitucional dos poderes da República.",
@@ -17392,10 +17392,10 @@
         {
           "prompt": "Quem foi o presidente da República cujo lema «Cinquenta anos em cinco» impulsionou a construção de Brasília?",
           "options": [
-            "Juscelino Kubitschek (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "Getúlio Vargas (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "João Goulart (Compreender os princpios do urbanismo modernista de Lcio Costa)",
-            "Eurico Gaspar Dutra (Compreender os princpios do urbanismo modernista de Lcio Costa)"
+            "Juscelino Kubitschek",
+            "Getúlio Vargas",
+            "João Goulart",
+            "Eurico Gaspar Dutra"
           ],
           "answerIndex": 0,
           "explanation": "Juscelino Kubitschek idealizou e realizou a transferência da capital do Rio de Janeiro para o Planalto Central.",
@@ -17448,10 +17448,10 @@
         {
           "prompt": "Qual é a principal função urbanística e social do imenso vão livre projetado por Lina Bo Bardi sob o edifício do MASP?",
           "options": [
-            "Servir como praça pública coberta e aberta para encontros cívicos, feiras e manifestações populares na Avenida Paulista. (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Funcionar como estacionamento privativo e fechado para a diretoria do museu. (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Armazenar combustível fóssil e materiais industriais em contêineres. (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Isolar o museu dos transeuntes por meio de portões blindados indevassáveis. (Dominar a potica arquitetnica de Lina Bo Bardi)"
+            "Servir como praça pública coberta e aberta para encontros cívicos, feiras e manifestações populares na Avenida Paulista.",
+            "Funcionar como estacionamento privativo e fechado para a diretoria do museu.",
+            "Armazenar combustível fóssil e materiais industriais em contêineres.",
+            "Isolar o museu dos transeuntes por meio de portões blindados indevassáveis."
           ],
           "answerIndex": 0,
           "explanation": "O vão livre de 74 metros é um espaço democrático de encontro coletivo que respeita a cota do mirante público."
@@ -17463,10 +17463,10 @@
         {
           "prompt": "Como Lina Bo Bardi revolucionou a montagem da pinacoteca do MASP em sua expografia original?",
           "options": [
-            "Criando cavaletes de vidro e concreto que deixam as pinturas flutuando no espaço livre sem apoios em paredes. (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Colando as obras de arte diretamente no piso com resina opaca. (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Escondendo as telas em gaveteiros escuros sem iluminação direta. (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Expondo apenas cópias xerográficas preto e branco em molduras barrocas. (Dominar a potica arquitetnica de Lina Bo Bardi)"
+            "Criando cavaletes de vidro e concreto que deixam as pinturas flutuando no espaço livre sem apoios em paredes.",
+            "Colando as obras de arte diretamente no piso com resina opaca.",
+            "Escondendo as telas em gaveteiros escuros sem iluminação direta.",
+            "Expondo apenas cópias xerográficas preto e branco em molduras barrocas."
           ],
           "answerIndex": 0,
           "explanation": "Os cavaletes de cristal permitem ao visitante circular livremente entre as obras e contemplar o verso das telas."
@@ -17478,10 +17478,10 @@
         {
           "prompt": "Qual complexo cultural e esportivo paulistano é um exemplo pioneiro de requalificação de patrimônio industrial assinado por Lina Bo Bardi?",
           "options": [
-            "SESC Pompeia (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Theatro Municipal de São Paulo (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Centro Cultural Banco do Brasil (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Edifício Copan (Dominar a potica arquitetnica de Lina Bo Bardi)"
+            "SESC Pompeia",
+            "Theatro Municipal de São Paulo",
+            "Centro Cultural Banco do Brasil",
+            "Edifício Copan"
           ],
           "answerIndex": 0,
           "explanation": "O SESC Pompeia transformou uma fábrica de tambores em um centro de convivência comunitária e esportiva.",
@@ -17490,10 +17490,10 @@
         {
           "prompt": "Qual residência modernista projetada em 1951 por Lina Bo Bardi no bairro do Morumbi é célebre por suas paredes de vidro sobre pilotis?",
           "options": [
-            "Casa de Vidro (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Casa das Canoas (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Casa do Baile (Dominar a potica arquitetnica de Lina Bo Bardi)",
-            "Casa Bola (Dominar a potica arquitetnica de Lina Bo Bardi)"
+            "Casa de Vidro",
+            "Casa das Canoas",
+            "Casa do Baile",
+            "Casa Bola"
           ],
           "answerIndex": 0,
           "explanation": "A Casa de Vidro foi a residência de Lina e Pietro Maria Bardi, hoje sede do Instituto Bardi.",
@@ -17546,10 +17546,10 @@
         {
           "prompt": "Qual foi a grande ruptura metodológica que Roberto Burle Marx realizou no paisagismo em relação às tradições europeias?",
           "options": [
-            "A valorização e protagonismo das espécies botânicas nativas tropicais tratadas como volumes cromáticos abstratos. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "A substituição de todas as plantas vivas por esculturas artificiais de plástico. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "O confinamento rigoroso das plantas a vasos de cerâmica simétricos inspirados em Versalhes. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "A proibição do uso de curvas e formas orgânicas no traçado dos canteiros. (Examinar a revoluo paisagstica de Roberto Burle Marx)"
+            "A valorização e protagonismo das espécies botânicas nativas tropicais tratadas como volumes cromáticos abstratos.",
+            "A substituição de todas as plantas vivas por esculturas artificiais de plástico.",
+            "O confinamento rigoroso das plantas a vasos de cerâmica simétricos inspirados em Versalhes.",
+            "A proibição do uso de curvas e formas orgânicas no traçado dos canteiros."
           ],
           "answerIndex": 0,
           "explanation": "Burle Marx resgatou a flora brasileira nativa e a tratou com linguagem plástica abstrata de vanguarda."
@@ -17561,10 +17561,10 @@
         {
           "prompt": "Qual obra paisagística de Burle Marx cobre mais de um milhão de metros quadrados ao longo da Baía de Guanabara no Rio de Janeiro?",
           "options": [
-            "Parque do Flamengo (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Jardim Botânico de Curitiba (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Parque Ibirapuera em São Paulo (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Passeio Público de Fortaleza (Examinar a revoluo paisagstica de Roberto Burle Marx)"
+            "Parque do Flamengo",
+            "Jardim Botânico de Curitiba",
+            "Parque Ibirapuera em São Paulo",
+            "Passeio Público de Fortaleza"
           ],
           "answerIndex": 0,
           "explanation": "O Parque Brigadeiro Eduardo Gomes (Aterro do Flamengo) é a maior intervenção paisagística urbana de Burle Marx."
@@ -17576,10 +17576,10 @@
         {
           "prompt": "O célebre calçadão ondulado da praia de Copacabana foi confeccionado utilizando qual técnica artesanal tradicional?",
           "options": [
-            "Calçada portuguesa (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Asfalto pré-moldado colorido sintético. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Placas de alumínio polido com iluminação LED. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Tijolos cerâmicos vidrados importados da Holanda. (Examinar a revoluo paisagstica de Roberto Burle Marx)"
+            "Calçada portuguesa",
+            "Asfalto pré-moldado colorido sintético.",
+            "Placas de alumínio polido com iluminação LED.",
+            "Tijolos cerâmicos vidrados importados da Holanda."
           ],
           "answerIndex": 0,
           "explanation": "O calçadão utiliza a técnica de pedras portuguesas justapostas manualmente em padrões ondulados.",
@@ -17588,10 +17588,10 @@
         {
           "prompt": "Além de paisagista, quais outras linguagens artísticas Burle Marx praticava com maestria?",
           "options": [
-            "Pintura plástica abstrata, gravura, tapeçaria, escultura e desenho de joias. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Composição de óperas sinfônicas exclusivamente. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Direção de filmes de animação digital 3D. (Examinar a revoluo paisagstica de Roberto Burle Marx)",
-            "Pilotagem comercial de aeronaves transatlânticas. (Examinar a revoluo paisagstica de Roberto Burle Marx)"
+            "Pintura plástica abstrata, gravura, tapeçaria, escultura e desenho de joias.",
+            "Composição de óperas sinfônicas exclusivamente.",
+            "Direção de filmes de animação digital 3D.",
+            "Pilotagem comercial de aeronaves transatlânticas."
           ],
           "answerIndex": 0,
           "explanation": "Burle Marx era um artista plástico multifacetado cujas telas e tapeçarias dialogavam diretamente com seus jardins.",
@@ -17757,10 +17757,10 @@
         {
           "prompt": "Qual é o nome oficial do Ministério das Relações Exteriores do Brasil e de sua tradição diplomática?",
           "options": [
-            "Congresso Nacional (Diplomatic Credentials)",
-            "Supremo Tribunal (Diplomatic Credentials)",
-            "Palácio da Alvorada (Diplomatic Credentials)",
-            "Itamaraty (Diplomatic Credentials)"
+            "Congresso Nacional",
+            "Supremo Tribunal",
+            "Palácio da Alvorada",
+            "Itamaraty"
           ],
           "answerIndex": 3,
           "explanation": "O \"Itamaraty\" é a metonímia consagrada para a diplomacia e o Ministério das Relações Exteriores do Brasil.",
@@ -17840,10 +17840,10 @@
         {
           "prompt": "O que representa a OTCA no contexto diplomático sul-americano?",
           "options": [
-            "Um banco comercial privado de empréstimos rurais. (Multilateral Environmental Treaties  Amazon Rainforest Diplomacy Tratados Ambientais e Diplomacia Amaznica)",
-            "Um acordo militar de patrulhamento aéreo exclusivo. (Multilateral Environmental Treaties  Amazon Rainforest Diplomacy Tratados Ambientais e Diplomacia Amaznica)",
-            "Organização do Tratado de Cooperação Amazônica para preservação e desenvolvimento sustentável. (Multilateral Environmental Treaties  Amazon Rainforest Diplomacy Tratados Ambientais e Diplomacia Amaznica)",
-            "Uma agência de turismo interestadual. (Multilateral Environmental Treaties  Amazon Rainforest Diplomacy Tratados Ambientais e Diplomacia Amaznica)"
+            "Um banco comercial privado de empréstimos rurais.",
+            "Um acordo militar de patrulhamento aéreo exclusivo.",
+            "Organização do Tratado de Cooperação Amazônica para preservação e desenvolvimento sustentável.",
+            "Uma agência de turismo interestadual."
           ],
           "answerIndex": 2,
           "explanation": "A OTCA reúne os países da Bacia Amazônica para cooperação socioambiental e científica.",
@@ -17923,10 +17923,10 @@
         {
           "prompt": "Qual missão de paz da ONU teve seu comando militar liderado pelas Forças Armadas do Brasil de 2004 a 2017?",
           "options": [
-            "KFOR (UN Peacekeeping Command  MINUSTAH Lessons Misses de Paz da ONU e Operaes de Estabilizao)",
-            "MINUSTAH (UN Peacekeeping Command  MINUSTAH Lessons Misses de Paz da ONU e Operaes de Estabilizao)",
-            "ONUB (UN Peacekeeping Command  MINUSTAH Lessons Misses de Paz da ONU e Operaes de Estabilizao)",
-            "UNPROFOR (UN Peacekeeping Command  MINUSTAH Lessons Misses de Paz da ONU e Operaes de Estabilizao)"
+            "KFOR",
+            "MINUSTAH",
+            "ONUB",
+            "UNPROFOR"
           ],
           "answerIndex": 1,
           "explanation": "A MINUSTAH no Haiti foi liderada militarmente pelo Brasil por 13 anos.",
@@ -18006,10 +18006,10 @@
         {
           "prompt": "Qual banco multilateral de desenvolvimento foi criado pelos países do BRICS com sede em Xangai?",
           "options": [
-            "Novo Banco de Desenvolvimento (BRICS Multilateralism  SouthSouth Economic Cooperation Multilateralismo BRICS e Cooperao SulSul)",
-            "Banco Asiático de Desenvolvimento rural (BRICS Multilateralism  SouthSouth Economic Cooperation Multilateralismo BRICS e Cooperao SulSul)",
-            "Banco de Compensações Privadas (BRICS Multilateralism  SouthSouth Economic Cooperation Multilateralismo BRICS e Cooperao SulSul)",
-            "Banco Central Europeu (BRICS Multilateralism  SouthSouth Economic Cooperation Multilateralismo BRICS e Cooperao SulSul)"
+            "Novo Banco de Desenvolvimento",
+            "Banco Asiático de Desenvolvimento rural",
+            "Banco de Compensações Privadas",
+            "Banco Central Europeu"
           ],
           "answerIndex": 0,
           "explanation": "O Novo Banco de Desenvolvimento (NBD) foi fundado pelo grupo BRICS.",

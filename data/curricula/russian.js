@@ -490,10 +490,10 @@
         {
           "prompt": "How is the Cyrillic letter «Н» (False Friend) pronounced in Russian words like «НОС» (nos)?",
           "options": [
-            "Like the English letter 'V' (Cyrillic В sound)",
-            "Like the English letter 'B' (Cyrillic Б sound)",
-            "Like the English letter 'R' (Cyrillic Р sound)",
-            "Like the English letter 'P' (Cyrillic П sound)"
+            "Like the English letter 'V' (Cyrillic True   False Friends item 1)",
+            "Like the English letter 'B' (Cyrillic True   False Friends item 2)",
+            "Like the English letter 'R' (Cyrillic True   False Friends item 3)",
+            "Like the English letter 'P' (Cyrillic True   False Friends item 4)"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Н» represents the alveolar nasal consonant [n]."
@@ -501,10 +501,10 @@
         {
           "prompt": "Read the Cyrillic word «КОТ» and select its correct English meaning and pronunciation:",
           "options": [
-            "kot (Master the 11 foundational Cyrillic letters U1)",
-            "tom (Master the 11 foundational Cyrillic letters U1)",
-            "nos (Master the 11 foundational Cyrillic letters U1)",
-            "sok (Master the 11 foundational Cyrillic letters U1)"
+            "kot",
+            "tom",
+            "nos",
+            "sok"
           ],
           "answerIndex": 0,
           "explanation": "«К» [k] + «О» [o] + «Т» [t] spells «КОТ» (*kot*), meaning cat."
@@ -517,9 +517,9 @@
           "prompt": "Which Cyrillic letter looks like the Latin \"P\" but is pronounced as a rolled [r] sound?",
           "options": [
             "Р (Er - rolling r sound)",
-            "В (Master the 11 foundational Cyrillic letters alternative form)",
-            "Н (Master the 11 foundational Cyrillic letters alternative form)",
-            "С (Master the 11 foundational Cyrillic letters alternative form)"
+            "В (Cyrillic True   False Friends item 2)",
+            "Н (Cyrillic True   False Friends item 3)",
+            "С (Cyrillic True   False Friends item 4)"
           ],
           "answerIndex": 0,
           "explanation": "Cyrillic «Р» corresponds to the rolled [r] sound."
@@ -527,10 +527,10 @@
         {
           "prompt": "Identify the Russian capital city name spelled «МОСКВА»:",
           "options": [
-            "Moskva (Master the 11 foundational Cyrillic letters U1)",
-            "Minsk (Master the 11 foundational Cyrillic letters U1)",
-            "Kazan (Master the 11 foundational Cyrillic letters U1)",
-            "Samara (Master the 11 foundational Cyrillic letters U1)"
+            "Moskva",
+            "Minsk",
+            "Kazan",
+            "Samara"
           ],
           "answerIndex": 0,
           "explanation": "«М-О-С-К-В-А» spells «МОСКВА» (*Moskva* - Moscow)."
@@ -543,10 +543,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Cyrillic word «НОС» mean in English?",
           "options": [
-            "nose (Master the 11 foundational Cyrillic letters U1)",
-            "cat (Master the 11 foundational Cyrillic letters U1)",
-            "mouth (Master the 11 foundational Cyrillic letters U1)",
-            "juice (Master the 11 foundational Cyrillic letters U1)"
+            "nose",
+            "cat",
+            "mouth",
+            "juice"
           ],
           "answerIndex": 0,
           "explanation": "«Н» [n] + «О» [o] + «С» [s] = «НОС» (*nos* - nose)."
@@ -558,7 +558,11 @@
             "кот",
             "КОТ"
           ],
-          "explanation": "«к» + «о» + «т» = «кот» (*kot*)."
+          "explanation": "«к» + «о» + «т» = «кот» (*kot*).",
+          "acceptableAnswers": [
+            "кот",
+            "КОТ"
+          ]
         }
       ]
     }
@@ -607,10 +611,10 @@
         {
           "prompt": "According to the rule of Akan'ye (Аканье), how is the unstressed letter «о» pronounced in Russian words?",
           "options": [
-            "It reduces to a short (Master new Cyrillic consonants U1)",
-            "It is pronounced as a long (Master new Cyrillic consonants U1)",
-            "It becomes completely silent (Master new Cyrillic consonants U1)",
-            "It turns into (Master new Cyrillic consonants U1)"
+            "It reduces to a short",
+            "It is pronounced as a long",
+            "It becomes completely silent",
+            "It turns into"
           ],
           "answerIndex": 0,
           "explanation": "In standard literary Russian, unstressed «о» reduces to an [a] sound (Akan'ye)."
@@ -634,9 +638,9 @@
           "prompt": "Which Cyrillic consonant looks like a beetle with six legs and makes the voiced sound [zh] (as in \"measure\")?",
           "options": [
             "Ж (zhe zh)",
-            "Д (Master new Cyrillic consonants alternative form)",
-            "Б (Master new Cyrillic consonants alternative form)",
-            "Г (Master new Cyrillic consonants alternative form)"
+            "Д (New Consonants   Akan ye Vowel Reduction item 2)",
+            "Б (New Consonants   Akan ye Vowel Reduction item 3)",
+            "Г (New Consonants   Akan ye Vowel Reduction item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«Ж» represents the voiced post-alveolar fricative [zh]."
@@ -675,7 +679,11 @@
             "дом",
             "ДОМ"
           ],
-          "explanation": "«д» + «о» + «м» = «дом» (*dom*)."
+          "explanation": "«д» + «о» + «м» = «дом» (*dom*).",
+          "acceptableAnswers": [
+            "дом",
+            "ДОМ"
+          ]
         }
       ]
     }
@@ -724,10 +732,10 @@
         {
           "prompt": "In Russian final consonant devoicing, how is the final letter «д» pronounced in the word «ГОРОД» (city)?",
           "options": [
-            "It devoices into the voiceless sound (Master remaining vowels U1)",
-            "It remains a heavy voiced (Master remaining vowels U1)",
-            "It becomes completely silent (Master remaining vowels U1)",
-            "It turns into (Master remaining vowels U1)"
+            "It devoices into the voiceless sound",
+            "It remains a heavy voiced",
+            "It becomes completely silent",
+            "It turns into"
           ],
           "answerIndex": 0,
           "explanation": "At the end of a word, voiced «д» devoices into [t]."
@@ -736,8 +744,8 @@
           "prompt": "Which 1-letter Cyrillic word means \"I\" (first-person pronoun)?",
           "options": [
             "Я (ya - first person pronoun I)",
-            "ОН (Master remaining vowels alternative form)",
-            "МЫ (Master remaining vowels alternative form)",
+            "ОН (Vowels  Soft Sign   Devoicing item 2)",
+            "МЫ (Vowels  Soft Sign   Devoicing item 3)",
             "ТЫ (informal)"
           ],
           "answerIndex": 0,
@@ -751,9 +759,9 @@
           "prompt": "What role does the soft sign «Ь» (мягкий знак) perform when attached to a consonant?",
           "options": [
             "It palatalizes (softens)",
-            "It adds an extra vowel sound (Master remaining vowels U1)",
-            "It capitalizes the word (Master remaining vowels U1)",
-            "It makes the preceding letter silent (Master remaining vowels U1)"
+            "It adds an extra vowel sound",
+            "It capitalizes the word",
+            "It makes the preceding letter silent"
           ],
           "answerIndex": 0,
           "explanation": "«Ь» has no sound of its own; it softens (palatalizes) the consonant before it."
@@ -780,7 +788,7 @@
             "МЫ (my - first person plural pronoun we)",
             "ВЫ (vy - you formal/plural)",
             "ОНИ (oni - they)",
-            "ОН (Master remaining vowels alternative form)"
+            "ОН (Vowels  Soft Sign   Devoicing item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«МЫ» (*my*) means \"we\"."
@@ -792,7 +800,11 @@
             "я",
             "Я"
           ],
-          "explanation": "«я» (*ya*) = I."
+          "explanation": "«я» (*ya*) = I.",
+          "acceptableAnswers": [
+            "я",
+            "Я"
+          ]
         }
       ]
     }
@@ -853,9 +865,9 @@
           "prompt": "Which Cyrillic letter represents the \"ts\" sound (as in \"cats\")?",
           "options": [
             "Ц (tse ts)",
-            "Ч (Master Cyrillic sibilants U1)",
-            "Ш (Master Cyrillic sibilants U1)",
-            "Щ (Master Cyrillic sibilants U1)"
+            "Ч (Sibilants   Core Everyday Greetings item 2)",
+            "Ш (Sibilants   Core Everyday Greetings item 3)",
+            "Щ (Sibilants   Core Everyday Greetings item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«Ц» represents the alveolar affricate [ts]."
@@ -910,7 +922,12 @@
             "Спасибо",
             "СПАСИБО"
           ],
-          "explanation": "«спасибо» (*spasibo*) = Thank you."
+          "explanation": "«спасибо» (*spasibo*) = Thank you.",
+          "acceptableAnswers": [
+            "спасибо",
+            "Спасибо",
+            "СПАСИБО"
+          ]
         }
       ]
     }
@@ -996,10 +1013,10 @@
         {
           "prompt": "If someone introduces themselves with «Меня зовут Анна», what does this sentence communicate?",
           "options": [
-            "My name is Anna (Master introducing yourself using U1)",
-            "Anna is there (Master introducing yourself using U1)",
-            "I am going to Anna (Master introducing yourself using U1)",
-            "Where is Anna? (Master introducing yourself using U1)"
+            "My name is Anna",
+            "Anna is there",
+            "I am going to Anna",
+            "Where is Anna?"
           ],
           "answerIndex": 0,
           "explanation": "«Меня зовут Анна» means \"My name is Anna\"."
@@ -1029,7 +1046,13 @@
             "очень приятно",
             "очень приятно!"
           ],
-          "explanation": "«Очень приятно!» (*Ochen' priyatno!*) = Pleased to meet you."
+          "explanation": "«Очень приятно!» (*Ochen' priyatno!*) = Pleased to meet you.",
+          "acceptableAnswers": [
+            "Очень приятно",
+            "Очень приятно!",
+            "очень приятно",
+            "очень приятно!"
+          ]
         }
       ]
     }
@@ -1123,7 +1146,13 @@
             "Три рубля и пять рублей",
             "Три рубля и пять рублей."
           ],
-          "explanation": "Три рубля (род. ед.) + и + пять рублей (род. мн.) = три рубля и пять рублей."
+          "explanation": "Три рубля (род. ед.) + и + пять рублей (род. мн.) = три рубля и пять рублей.",
+          "acceptableAnswers": [
+            "три рубля и пять рублей",
+            "три рубля и пять рублей.",
+            "Три рубля и пять рублей",
+            "Три рубля и пять рублей."
+          ]
         }
       ]
     }
@@ -1217,7 +1246,13 @@
             "сколько это стоит?",
             "сколько это стоит"
           ],
-          "explanation": "Сколько + это + стоит? = Сколько это стоит?"
+          "explanation": "Сколько + это + стоит? = Сколько это стоит?",
+          "acceptableAnswers": [
+            "Сколько это стоит?",
+            "Сколько это стоит",
+            "сколько это стоит?",
+            "сколько это стоит"
+          ]
         }
       ]
     }
@@ -1311,7 +1346,13 @@
             "сейчас два часа.",
             "сейчас два часа"
           ],
-          "explanation": "Сейчас + два + часа = Сейчас два часа."
+          "explanation": "Сейчас + два + часа = Сейчас два часа.",
+          "acceptableAnswers": [
+            "Сейчас два часа.",
+            "Сейчас два часа",
+            "сейчас два часа.",
+            "сейчас два часа"
+          ]
         }
       ]
     }
@@ -1405,7 +1446,13 @@
             "в субботу и в воскресенье.",
             "в субботу и в воскресенье"
           ],
-          "explanation": "В субботу + и + в воскресенье = В субботу и в воскресенье."
+          "explanation": "В субботу + и + в воскресенье = В субботу и в воскресенье.",
+          "acceptableAnswers": [
+            "В субботу и в воскресенье.",
+            "В субботу и в воскресенье",
+            "в субботу и в воскресенье.",
+            "в субботу и в воскресенье"
+          ]
         }
       ]
     }
@@ -1499,7 +1546,13 @@
             "сегодня первое сентября.",
             "сегодня первое сентября"
           ],
-          "explanation": "Сегодня + первое + сентября = Сегодня первое сентября."
+          "explanation": "Сегодня + первое + сентября = Сегодня первое сентября.",
+          "acceptableAnswers": [
+            "Сегодня первое сентября.",
+            "Сегодня первое сентября",
+            "сегодня первое сентября.",
+            "сегодня первое сентября"
+          ]
         }
       ]
     }
@@ -1593,7 +1646,13 @@
             "моя семья: папа, мама, брат и сестра.",
             "моя семья: папа, мама, брат и сестра"
           ],
-          "explanation": "Моя семья: папа, мама, брат и сестра."
+          "explanation": "Моя семья: папа, мама, брат и сестра.",
+          "acceptableAnswers": [
+            "Моя семья: папа, мама, брат и сестра.",
+            "Моя семья: папа, мама, брат и сестра",
+            "моя семья: папа, мама, брат и сестра.",
+            "моя семья: папа, мама, брат и сестра"
+          ]
         }
       ]
     }
@@ -1687,7 +1746,13 @@
             "это наш новый дом.",
             "это наш новый дом"
           ],
-          "explanation": "Это + наш + новый + дом = Это наш новый дом."
+          "explanation": "Это + наш + новый + дом = Это наш новый дом.",
+          "acceptableAnswers": [
+            "Это наш новый дом.",
+            "Это наш новый дом",
+            "это наш новый дом.",
+            "это наш новый дом"
+          ]
         }
       ]
     }
@@ -1781,7 +1846,13 @@
             "это её муж и её дочь.",
             "это её муж и её дочь"
           ],
-          "explanation": "Это + её + муж + и + её + дочь = Это её муж и её дочь."
+          "explanation": "Это + её + муж + и + её + дочь = Это её муж и её дочь.",
+          "acceptableAnswers": [
+            "Это её муж и её дочь.",
+            "Это её муж и её дочь",
+            "это её муж и её дочь.",
+            "это её муж и её дочь"
+          ]
         }
       ]
     }
@@ -1875,7 +1946,13 @@
             "у меня есть друг, но нет машины.",
             "у меня есть друг, но нет машины"
           ],
-          "explanation": "У меня есть друг + , + но нет машины = У меня есть друг, но нет машины."
+          "explanation": "У меня есть друг + , + но нет машины = У меня есть друг, но нет машины.",
+          "acceptableAnswers": [
+            "У меня есть друг, но нет машины.",
+            "У меня есть друг, но нет машины",
+            "у меня есть друг, но нет машины.",
+            "у меня есть друг, но нет машины"
+          ]
         }
       ]
     }
@@ -1969,7 +2046,13 @@
             "мои друзья и братья.",
             "мои друзья и братья"
           ],
-          "explanation": "Мои друзья и братья."
+          "explanation": "Мои друзья и братья.",
+          "acceptableAnswers": [
+            "Мои друзья и братья.",
+            "Мои друзья и братья",
+            "мои друзья и братья.",
+            "мои друзья и братья"
+          ]
         }
       ]
     }
@@ -2067,7 +2150,17 @@
             "я читаю книгу и понимаю все.",
             "я читаю книгу и понимаю все"
           ],
-          "explanation": "Я читаю книгу и понимаю всё."
+          "explanation": "Я читаю книгу и понимаю всё.",
+          "acceptableAnswers": [
+            "Я читаю книгу и понимаю всё.",
+            "Я читаю книгу и понимаю всё",
+            "я читаю книгу и понимаю всё.",
+            "я читаю книгу и понимаю всё",
+            "Я читаю книгу и понимаю все.",
+            "Я читаю книгу и понимаю все",
+            "я читаю книгу и понимаю все.",
+            "я читаю книгу и понимаю все"
+          ]
         }
       ]
     }
@@ -2161,7 +2254,13 @@
             "я говорю по-русски и по-английски.",
             "я говорю по-русски и по-английски"
           ],
-          "explanation": "Я говорю по-русски и по-английски."
+          "explanation": "Я говорю по-русски и по-английски.",
+          "acceptableAnswers": [
+            "Я говорю по-русски и по-английски.",
+            "Я говорю по-русски и по-английски",
+            "я говорю по-русски и по-английски.",
+            "я говорю по-русски и по-английски"
+          ]
         }
       ]
     }
@@ -2255,7 +2354,13 @@
             "я не знаю, что они делают.",
             "я не знаю, что они делают"
           ],
-          "explanation": "Я не знаю, что они делают."
+          "explanation": "Я не знаю, что они делают.",
+          "acceptableAnswers": [
+            "Я не знаю, что они делают.",
+            "Я не знаю, что они делают",
+            "я не знаю, что они делают.",
+            "я не знаю, что они делают"
+          ]
         }
       ]
     }
@@ -2349,7 +2454,13 @@
             "она говорит быстро и понятно.",
             "она говорит быстро и понятно"
           ],
-          "explanation": "Она говорит быстро и понятно."
+          "explanation": "Она говорит быстро и понятно.",
+          "acceptableAnswers": [
+            "Она говорит быстро и понятно.",
+            "Она говорит быстро и понятно",
+            "она говорит быстро и понятно.",
+            "она говорит быстро и понятно"
+          ]
         }
       ]
     }
@@ -2443,7 +2554,13 @@
             "мы работаем вместе и говорим по-русски.",
             "мы работаем вместе и говорим по-русски"
           ],
-          "explanation": "Мы работаем вместе и говорим по-русски."
+          "explanation": "Мы работаем вместе и говорим по-русски.",
+          "acceptableAnswers": [
+            "Мы работаем вместе и говорим по-русски.",
+            "Мы работаем вместе и говорим по-русски",
+            "мы работаем вместе и говорим по-русски.",
+            "мы работаем вместе и говорим по-русски"
+          ]
         }
       ]
     }
@@ -2537,7 +2654,13 @@
             "я просыпаюсь рано утром.",
             "я просыпаюсь рано утром"
           ],
-          "explanation": "Я просыпаюсь рано утром."
+          "explanation": "Я просыпаюсь рано утром.",
+          "acceptableAnswers": [
+            "Я просыпаюсь рано утром.",
+            "Я просыпаюсь рано утром",
+            "я просыпаюсь рано утром.",
+            "я просыпаюсь рано утром"
+          ]
         }
       ]
     }
@@ -2631,7 +2754,13 @@
             "я читаю интересную книгу.",
             "я читаю интересную книгу"
           ],
-          "explanation": "Я читаю интересную книгу."
+          "explanation": "Я читаю интересную книгу.",
+          "acceptableAnswers": [
+            "Я читаю интересную книгу.",
+            "Я читаю интересную книгу",
+            "я читаю интересную книгу.",
+            "я читаю интересную книгу"
+          ]
         }
       ]
     }
@@ -2725,7 +2854,13 @@
             "я жду брата и сестру.",
             "я жду брата и сестру"
           ],
-          "explanation": "Я жду брата (одуш. муж.) и сестру (жен. род)."
+          "explanation": "Я жду брата (одуш. муж.) и сестру (жен. род).",
+          "acceptableAnswers": [
+            "Я жду брата и сестру.",
+            "Я жду брата и сестру",
+            "я жду брата и сестру.",
+            "я жду брата и сестру"
+          ]
         }
       ]
     }
@@ -2819,7 +2954,13 @@
             "утром в восемь часов.",
             "утром в восемь часов"
           ],
-          "explanation": "Утром в восемь часов."
+          "explanation": "Утром в восемь часов.",
+          "acceptableAnswers": [
+            "Утром в восемь часов.",
+            "Утром в восемь часов",
+            "утром в восемь часов.",
+            "утром в восемь часов"
+          ]
         }
       ]
     }
@@ -2913,7 +3054,13 @@
             "вечером я отдыхаю и читаю книгу.",
             "вечером я отдыхаю и читаю книгу"
           ],
-          "explanation": "Вечером я отдыхаю и читаю книгу."
+          "explanation": "Вечером я отдыхаю и читаю книгу.",
+          "acceptableAnswers": [
+            "Вечером я отдыхаю и читаю книгу.",
+            "Вечером я отдыхаю и читаю книгу",
+            "вечером я отдыхаю и читаю книгу.",
+            "вечером я отдыхаю и читаю книгу"
+          ]
         }
       ]
     }
@@ -3007,7 +3154,13 @@
             "я ем хлеб и сыр.",
             "я ем хлеб и сыр"
           ],
-          "explanation": "Я ем хлеб и сыр."
+          "explanation": "Я ем хлеб и сыр.",
+          "acceptableAnswers": [
+            "Я ем хлеб и сыр.",
+            "Я ем хлеб и сыр",
+            "я ем хлеб и сыр.",
+            "я ем хлеб и сыр"
+          ]
         }
       ]
     }
@@ -3101,7 +3254,13 @@
             "чашка чая и стакан воды.",
             "чашка чая и стакан воды"
           ],
-          "explanation": "Чашка чая и стакан воды."
+          "explanation": "Чашка чая и стакан воды.",
+          "acceptableAnswers": [
+            "Чашка чая и стакан воды.",
+            "Чашка чая и стакан воды",
+            "чашка чая и стакан воды.",
+            "чашка чая и стакан воды"
+          ]
         }
       ]
     }
@@ -3195,7 +3354,13 @@
             "мне очень нравится этот чай.",
             "мне очень нравится этот чай"
           ],
-          "explanation": "Мне очень нравится этот чай."
+          "explanation": "Мне очень нравится этот чай.",
+          "acceptableAnswers": [
+            "Мне очень нравится этот чай.",
+            "Мне очень нравится этот чай",
+            "мне очень нравится этот чай.",
+            "мне очень нравится этот чай"
+          ]
         }
       ]
     }
@@ -3293,7 +3458,17 @@
             "принесите, пожалуйста, счет.",
             "принесите, пожалуйста, счет"
           ],
-          "explanation": "Принесите, пожалуйста, счёт."
+          "explanation": "Принесите, пожалуйста, счёт.",
+          "acceptableAnswers": [
+            "Принесите, пожалуйста, счёт.",
+            "Принесите, пожалуйста, счёт",
+            "принесите, пожалуйста, счёт.",
+            "принесите, пожалуйста, счёт",
+            "Принесите, пожалуйста, счет.",
+            "Принесите, пожалуйста, счет",
+            "принесите, пожалуйста, счет.",
+            "принесите, пожалуйста, счет"
+          ]
         }
       ]
     }
@@ -3391,7 +3566,17 @@
             "все было очень вкусно, спасибо!",
             "все было очень вкусно, спасибо"
           ],
-          "explanation": "Всё было очень вкусно, спасибо!"
+          "explanation": "Всё было очень вкусно, спасибо!",
+          "acceptableAnswers": [
+            "Всё было очень вкусно, спасибо!",
+            "Всё было очень вкусно, спасибо",
+            "всё было очень вкусно, спасибо!",
+            "всё было очень вкусно, спасибо",
+            "Все было очень вкусно, спасибо!",
+            "Все было очень вкусно, спасибо",
+            "все было очень вкусно, спасибо!",
+            "все было очень вкусно, спасибо"
+          ]
         }
       ]
     }
@@ -3485,7 +3670,13 @@
             "вчера я читал книгу.",
             "вчера я читал книгу"
           ],
-          "explanation": "Вчера я читал книгу."
+          "explanation": "Вчера я читал книгу.",
+          "acceptableAnswers": [
+            "Вчера я читал книгу.",
+            "Вчера я читал книгу",
+            "вчера я читал книгу.",
+            "вчера я читал книгу"
+          ]
         }
       ]
     }
@@ -3579,7 +3770,13 @@
             "вчера мы были дома.",
             "вчера мы были дома"
           ],
-          "explanation": "Вчера мы были дома."
+          "explanation": "Вчера мы были дома.",
+          "acceptableAnswers": [
+            "Вчера мы были дома.",
+            "Вчера мы были дома",
+            "вчера мы были дома.",
+            "вчера мы были дома"
+          ]
         }
       ]
     }
@@ -3673,7 +3870,13 @@
             "я сделал домашнее задание.",
             "я сделал домашнее задание"
           ],
-          "explanation": "Я сделал домашнее задание."
+          "explanation": "Я сделал домашнее задание.",
+          "acceptableAnswers": [
+            "Я сделал домашнее задание.",
+            "Я сделал домашнее задание",
+            "я сделал домашнее задание.",
+            "я сделал домашнее задание"
+          ]
         }
       ]
     }
@@ -3767,7 +3970,13 @@
             "на прошлой неделе я был в Москве.",
             "на прошлой неделе я был в Москве"
           ],
-          "explanation": "На прошлой неделе я был в Москве."
+          "explanation": "На прошлой неделе я был в Москве.",
+          "acceptableAnswers": [
+            "На прошлой неделе я был в Москве.",
+            "На прошлой неделе я был в Москве",
+            "на прошлой неделе я был в Москве.",
+            "на прошлой неделе я был в Москве"
+          ]
         }
       ]
     }
@@ -3861,7 +4070,13 @@
             "вчера был замечательный день.",
             "вчера был замечательный день"
           ],
-          "explanation": "Вчера был замечательный день."
+          "explanation": "Вчера был замечательный день.",
+          "acceptableAnswers": [
+            "Вчера был замечательный день.",
+            "Вчера был замечательный день",
+            "вчера был замечательный день.",
+            "вчера был замечательный день"
+          ]
         }
       ]
     }
@@ -3955,7 +4170,13 @@
             "я живу в Москве.",
             "я живу в Москве"
           ],
-          "explanation": "Я живу в Москве."
+          "explanation": "Я живу в Москве.",
+          "acceptableAnswers": [
+            "Я живу в Москве.",
+            "Я живу в Москве",
+            "я живу в Москве.",
+            "я живу в Москве"
+          ]
         }
       ]
     }
@@ -4049,7 +4270,13 @@
             "где находится аптека?",
             "где находится аптека"
           ],
-          "explanation": "Где находится аптека?"
+          "explanation": "Где находится аптека?",
+          "acceptableAnswers": [
+            "Где находится аптека?",
+            "Где находится аптека",
+            "где находится аптека?",
+            "где находится аптека"
+          ]
         }
       ]
     }
@@ -4143,7 +4370,13 @@
             "поверните направо.",
             "поверните направо"
           ],
-          "explanation": "Поверните направо."
+          "explanation": "Поверните направо.",
+          "acceptableAnswers": [
+            "Поверните направо.",
+            "Поверните направо",
+            "поверните направо.",
+            "поверните направо"
+          ]
         }
       ]
     }
@@ -4237,7 +4470,13 @@
             "я еду на работу на метро.",
             "я еду на работу на метро"
           ],
-          "explanation": "Я еду на работу на метро."
+          "explanation": "Я еду на работу на метро.",
+          "acceptableAnswers": [
+            "Я еду на работу на метро.",
+            "Я еду на работу на метро",
+            "я еду на работу на метро.",
+            "я еду на работу на метро"
+          ]
         }
       ]
     }
@@ -4335,7 +4574,17 @@
             "спасибо за помощь!",
             "спасибо за помощь"
           ],
-          "explanation": "Большое спасибо за помощь!"
+          "explanation": "Большое спасибо за помощь!",
+          "acceptableAnswers": [
+            "Большое спасибо за помощь!",
+            "Большое спасибо за помощь",
+            "большое спасибо за помощь!",
+            "большое спасибо за помощь",
+            "Спасибо за помощь!",
+            "Спасибо за помощь",
+            "спасибо за помощь!",
+            "спасибо за помощь"
+          ]
         }
       ]
     }
@@ -4429,7 +4678,13 @@
             "красивое синее платье.",
             "красивое синее платье"
           ],
-          "explanation": "Красивое синее платье."
+          "explanation": "Красивое синее платье.",
+          "acceptableAnswers": [
+            "Красивое синее платье.",
+            "Красивое синее платье",
+            "красивое синее платье.",
+            "красивое синее платье"
+          ]
         }
       ]
     }
@@ -4523,7 +4778,13 @@
             "белая рубашка и чёрный костюм.",
             "белая рубашка и чёрный костюм"
           ],
-          "explanation": "Белая рубашка и чёрный костюм."
+          "explanation": "Белая рубашка и чёрный костюм.",
+          "acceptableAnswers": [
+            "Белая рубашка и чёрный костюм.",
+            "Белая рубашка и чёрный костюм",
+            "белая рубашка и чёрный костюм.",
+            "белая рубашка и чёрный костюм"
+          ]
         }
       ]
     }
@@ -4617,7 +4878,13 @@
             "я хочу купить новую куртку.",
             "я хочу купить новую куртку"
           ],
-          "explanation": "Я хочу купить новую куртку."
+          "explanation": "Я хочу купить новую куртку.",
+          "acceptableAnswers": [
+            "Я хочу купить новую куртку.",
+            "Я хочу купить новую куртку",
+            "я хочу купить новую куртку.",
+            "я хочу купить новую куртку"
+          ]
         }
       ]
     }
@@ -4711,7 +4978,13 @@
             "сколько стоит это пальто?",
             "сколько стоит это пальто"
           ],
-          "explanation": "Сколько стоит это пальто?"
+          "explanation": "Сколько стоит это пальто?",
+          "acceptableAnswers": [
+            "Сколько стоит это пальто?",
+            "Сколько стоит это пальто",
+            "сколько стоит это пальто?",
+            "сколько стоит это пальто"
+          ]
         }
       ]
     }
@@ -4805,7 +5078,13 @@
             "носите с удовольствием!",
             "носите с удовольствием"
           ],
-          "explanation": "Носите с удовольствием!"
+          "explanation": "Носите с удовольствием!",
+          "acceptableAnswers": [
+            "Носите с удовольствием!",
+            "Носите с удовольствием",
+            "носите с удовольствием!",
+            "носите с удовольствием"
+          ]
         }
       ]
     }
@@ -4899,7 +5178,13 @@
             "у меня устали глаза.",
             "у меня устали глаза"
           ],
-          "explanation": "У меня устали глаза."
+          "explanation": "У меня устали глаза.",
+          "acceptableAnswers": [
+            "У меня устали глаза.",
+            "У меня устали глаза",
+            "у меня устали глаза.",
+            "у меня устали глаза"
+          ]
         }
       ]
     }
@@ -4993,7 +5278,13 @@
             "у меня болит голова.",
             "у меня болит голова"
           ],
-          "explanation": "У меня болит голова."
+          "explanation": "У меня болит голова.",
+          "acceptableAnswers": [
+            "У меня болит голова.",
+            "У меня болит голова",
+            "у меня болит голова.",
+            "у меня болит голова"
+          ]
         }
       ]
     }
@@ -5087,7 +5378,13 @@
             "мне холодно.",
             "мне холодно"
           ],
-          "explanation": "Мне холодно."
+          "explanation": "Мне холодно.",
+          "acceptableAnswers": [
+            "Мне холодно.",
+            "Мне холодно",
+            "мне холодно.",
+            "мне холодно"
+          ]
         }
       ]
     }
@@ -5181,7 +5478,13 @@
             "таблетки от головной боли.",
             "таблетки от головной боли"
           ],
-          "explanation": "Таблетки от головной боли."
+          "explanation": "Таблетки от головной боли.",
+          "acceptableAnswers": [
+            "Таблетки от головной боли.",
+            "Таблетки от головной боли",
+            "таблетки от головной боли.",
+            "таблетки от головной боли"
+          ]
         }
       ]
     }
@@ -5279,7 +5582,17 @@
             "выздоравливайте!",
             "выздоравливайте"
           ],
-          "explanation": "Выздоравливайте скорее!"
+          "explanation": "Выздоравливайте скорее!",
+          "acceptableAnswers": [
+            "Выздоравливайте скорее!",
+            "Выздоравливайте скорее",
+            "выздоравливайте скорее!",
+            "выздоравливайте скорее",
+            "Выздоравливайте!",
+            "Выздоравливайте",
+            "выздоравливайте!",
+            "выздоравливайте"
+          ]
         }
       ]
     }
@@ -5373,7 +5686,13 @@
             "Свободное время.",
             "свободное время."
           ],
-          "explanation": "Свободное время"
+          "explanation": "Свободное время",
+          "acceptableAnswers": [
+            "Свободное время",
+            "свободное время",
+            "Свободное время.",
+            "свободное время."
+          ]
         }
       ]
     }
@@ -5467,7 +5786,13 @@
             "Играть на пианино.",
             "играть на пианино."
           ],
-          "explanation": "Играть на пианино"
+          "explanation": "Играть на пианино",
+          "acceptableAnswers": [
+            "Играть на пианино",
+            "играть на пианино",
+            "Играть на пианино.",
+            "играть на пианино."
+          ]
         }
       ]
     }
@@ -5561,7 +5886,13 @@
             "Заниматься спортом.",
             "заниматься спортом."
           ],
-          "explanation": "Заниматься спортом"
+          "explanation": "Заниматься спортом",
+          "acceptableAnswers": [
+            "Заниматься спортом",
+            "заниматься спортом",
+            "Заниматься спортом.",
+            "заниматься спортом."
+          ]
         }
       ]
     }
@@ -5655,7 +5986,13 @@
             "Антракт.",
             "антракт."
           ],
-          "explanation": "Антракт"
+          "explanation": "Антракт",
+          "acceptableAnswers": [
+            "Антракт",
+            "антракт",
+            "Антракт.",
+            "антракт."
+          ]
         }
       ]
     }
@@ -5749,7 +6086,13 @@
             "с удовольствием!",
             "с удовольствием"
           ],
-          "explanation": "С удовольствием!"
+          "explanation": "С удовольствием!",
+          "acceptableAnswers": [
+            "С удовольствием!",
+            "С удовольствием",
+            "с удовольствием!",
+            "с удовольствием"
+          ]
         }
       ]
     }
@@ -5843,7 +6186,13 @@
             "Пешком.",
             "пешком."
           ],
-          "explanation": "Пешком"
+          "explanation": "Пешком",
+          "acceptableAnswers": [
+            "Пешком",
+            "пешком",
+            "Пешком.",
+            "пешком."
+          ]
         }
       ]
     }
@@ -5937,7 +6286,13 @@
             "Платформа.",
             "платформа."
           ],
-          "explanation": "Платформа"
+          "explanation": "Платформа",
+          "acceptableAnswers": [
+            "Платформа",
+            "платформа",
+            "Платформа.",
+            "платформа."
+          ]
         }
       ]
     }
@@ -6031,7 +6386,13 @@
             "Туда и обратно.",
             "туда и обратно."
           ],
-          "explanation": "Туда и обратно"
+          "explanation": "Туда и обратно",
+          "acceptableAnswers": [
+            "Туда и обратно",
+            "туда и обратно",
+            "Туда и обратно.",
+            "туда и обратно."
+          ]
         }
       ]
     }
@@ -6125,7 +6486,13 @@
             "Прямо.",
             "прямо."
           ],
-          "explanation": "Прямо"
+          "explanation": "Прямо",
+          "acceptableAnswers": [
+            "Прямо",
+            "прямо",
+            "Прямо.",
+            "прямо."
+          ]
         }
       ]
     }
@@ -6219,7 +6586,13 @@
             "счастливого пути!",
             "счастливого пути"
           ],
-          "explanation": "Счастливого пути!"
+          "explanation": "Счастливого пути!",
+          "acceptableAnswers": [
+            "Счастливого пути!",
+            "Счастливого пути",
+            "счастливого пути!",
+            "счастливого пути"
+          ]
         }
       ]
     }
@@ -6313,7 +6686,13 @@
             "врачом.",
             "Врачом."
           ],
-          "explanation": "врачом"
+          "explanation": "врачом",
+          "acceptableAnswers": [
+            "врачом",
+            "Врачом",
+            "врачом.",
+            "Врачом."
+          ]
         }
       ]
     }
@@ -6407,7 +6786,13 @@
             "ручкой.",
             "Ручкой."
           ],
-          "explanation": "ручкой"
+          "explanation": "ручкой",
+          "acceptableAnswers": [
+            "ручкой",
+            "Ручкой",
+            "ручкой.",
+            "Ручкой."
+          ]
         }
       ]
     }
@@ -6501,7 +6886,13 @@
             "Собеседование.",
             "собеседование."
           ],
-          "explanation": "Собеседование"
+          "explanation": "Собеседование",
+          "acceptableAnswers": [
+            "Собеседование",
+            "собеседование",
+            "Собеседование.",
+            "собеседование."
+          ]
         }
       ]
     }
@@ -6595,7 +6986,13 @@
             "проектом.",
             "Проектом."
           ],
-          "explanation": "проектом"
+          "explanation": "проектом",
+          "acceptableAnswers": [
+            "проектом",
+            "Проектом",
+            "проектом.",
+            "Проектом."
+          ]
         }
       ]
     }
@@ -6689,7 +7086,13 @@
             "специалистом.",
             "Специалистом."
           ],
-          "explanation": "специалистом"
+          "explanation": "специалистом",
+          "acceptableAnswers": [
+            "специалистом",
+            "Специалистом",
+            "специалистом.",
+            "Специалистом."
+          ]
         }
       ]
     }
@@ -6783,7 +7186,13 @@
             "иду.",
             "Иду."
           ],
-          "explanation": "иду"
+          "explanation": "иду",
+          "acceptableAnswers": [
+            "иду",
+            "Иду",
+            "иду.",
+            "Иду."
+          ]
         }
       ]
     }
@@ -6877,7 +7286,13 @@
             "летит.",
             "Летит."
           ],
-          "explanation": "летит"
+          "explanation": "летит",
+          "acceptableAnswers": [
+            "летит",
+            "Летит",
+            "летит.",
+            "Летит."
+          ]
         }
       ]
     }
@@ -6973,7 +7388,15 @@
             "везёт.",
             "везет."
           ],
-          "explanation": "везёт"
+          "explanation": "везёт",
+          "acceptableAnswers": [
+            "везёт",
+            "везет",
+            "Везёт",
+            "Везет",
+            "везёт.",
+            "везет."
+          ]
         }
       ]
     }
@@ -7067,7 +7490,13 @@
             "Байкал.",
             "байкал."
           ],
-          "explanation": "Байкал"
+          "explanation": "Байкал",
+          "acceptableAnswers": [
+            "Байкал",
+            "байкал",
+            "Байкал.",
+            "байкал."
+          ]
         }
       ]
     }
@@ -7161,7 +7590,13 @@
             "едем.",
             "Едем."
           ],
-          "explanation": "едем"
+          "explanation": "едем",
+          "acceptableAnswers": [
+            "едем",
+            "Едем",
+            "едем.",
+            "Едем."
+          ]
         }
       ]
     }
@@ -7255,7 +7690,13 @@
             "Метель.",
             "метель."
           ],
-          "explanation": "Метель"
+          "explanation": "Метель",
+          "acceptableAnswers": [
+            "Метель",
+            "метель",
+            "Метель.",
+            "метель."
+          ]
         }
       ]
     }
@@ -7347,7 +7788,11 @@
             "через",
             "Через"
           ],
-          "explanation": "через"
+          "explanation": "через",
+          "acceptableAnswers": [
+            "через",
+            "Через"
+          ]
         }
       ]
     }
@@ -7441,7 +7886,13 @@
             "Во время ",
             "во время "
           ],
-          "explanation": "Во время"
+          "explanation": "Во время",
+          "acceptableAnswers": [
+            "Во время",
+            "во время",
+            "Во время ",
+            "во время "
+          ]
         }
       ]
     }
@@ -7535,7 +7986,13 @@
             "вечная мерзлота.",
             "Вечная мерзлота."
           ],
-          "explanation": "вечная мерзлота"
+          "explanation": "вечная мерзлота",
+          "acceptableAnswers": [
+            "вечная мерзлота",
+            "Вечная мерзлота",
+            "вечная мерзлота.",
+            "Вечная мерзлота."
+          ]
         }
       ]
     }
@@ -7629,7 +8086,13 @@
             "прогноз погоды.",
             "Прогноз погоды."
           ],
-          "explanation": "прогноз погоды"
+          "explanation": "прогноз погоды",
+          "acceptableAnswers": [
+            "прогноз погоды",
+            "Прогноз погоды",
+            "прогноз погоды.",
+            "Прогноз погоды."
+          ]
         }
       ]
     }
@@ -7723,7 +8186,13 @@
             "договор аренды.",
             "Договор аренды."
           ],
-          "explanation": "договор аренды"
+          "explanation": "договор аренды",
+          "acceptableAnswers": [
+            "договор аренды",
+            "Договор аренды",
+            "договор аренды.",
+            "Договор аренды."
+          ]
         }
       ]
     }
@@ -7817,7 +8286,13 @@
             "прихожая.",
             "Прихожая."
           ],
-          "explanation": "прихожая"
+          "explanation": "прихожая",
+          "acceptableAnswers": [
+            "прихожая",
+            "Прихожая",
+            "прихожая.",
+            "Прихожая."
+          ]
         }
       ]
     }
@@ -7911,7 +8386,13 @@
             "между ",
             "Между "
           ],
-          "explanation": "между"
+          "explanation": "между",
+          "acceptableAnswers": [
+            "между",
+            "Между",
+            "между ",
+            "Между "
+          ]
         }
       ]
     }
@@ -8005,7 +8486,13 @@
             "холодильник.",
             "Холодильник."
           ],
-          "explanation": "холодильник"
+          "explanation": "холодильник",
+          "acceptableAnswers": [
+            "холодильник",
+            "Холодильник",
+            "холодильник.",
+            "Холодильник."
+          ]
         }
       ]
     }
@@ -8099,7 +8586,13 @@
             "опись имущества.",
             "Опись имущества."
           ],
-          "explanation": "опись имущества"
+          "explanation": "опись имущества",
+          "acceptableAnswers": [
+            "опись имущества",
+            "Опись имущества",
+            "опись имущества.",
+            "Опись имущества."
+          ]
         }
       ]
     }
@@ -8193,7 +8686,13 @@
             "лучше.",
             "Лучше."
           ],
-          "explanation": "лучше"
+          "explanation": "лучше",
+          "acceptableAnswers": [
+            "лучше",
+            "Лучше",
+            "лучше.",
+            "Лучше."
+          ]
         }
       ]
     }
@@ -8285,7 +8784,11 @@
             "самом большом",
             "Самом большом"
           ],
-          "explanation": "самом большом"
+          "explanation": "самом большом",
+          "acceptableAnswers": [
+            "самом большом",
+            "Самом большом"
+          ]
         }
       ]
     }
@@ -8377,7 +8880,11 @@
             "по-моему",
             "По-моему"
           ],
-          "explanation": "по-моему"
+          "explanation": "по-моему",
+          "acceptableAnswers": [
+            "по-моему",
+            "По-моему"
+          ]
         }
       ]
     }
@@ -8469,7 +8976,11 @@
             "во-первых",
             "Во-первых"
           ],
-          "explanation": "во-первых"
+          "explanation": "во-первых",
+          "acceptableAnswers": [
+            "во-первых",
+            "Во-первых"
+          ]
         }
       ]
     }
@@ -8561,7 +9072,11 @@
             "на мой взгляд",
             "На мой взгляд"
           ],
-          "explanation": "на мой взгляд"
+          "explanation": "на мой взгляд",
+          "acceptableAnswers": [
+            "на мой взгляд",
+            "На мой взгляд"
+          ]
         }
       ]
     }
@@ -8655,7 +9170,13 @@
             "написал.",
             "Написал."
           ],
-          "explanation": "написал"
+          "explanation": "написал",
+          "acceptableAnswers": [
+            "написал",
+            "Написал",
+            "написал.",
+            "Написал."
+          ]
         }
       ]
     }
@@ -8749,7 +9270,13 @@
             "класть.",
             "Класть."
           ],
-          "explanation": "класть"
+          "explanation": "класть",
+          "acceptableAnswers": [
+            "класть",
+            "Класть",
+            "класть.",
+            "Класть."
+          ]
         }
       ]
     }
@@ -8841,7 +9368,11 @@
             "читать",
             "Читать"
           ],
-          "explanation": "читать"
+          "explanation": "читать",
+          "acceptableAnswers": [
+            "читать",
+            "Читать"
+          ]
         }
       ]
     }
@@ -8933,7 +9464,11 @@
             "сделаю",
             "Сделаю"
           ],
-          "explanation": "сделаю"
+          "explanation": "сделаю",
+          "acceptableAnswers": [
+            "сделаю",
+            "Сделаю"
+          ]
         }
       ]
     }
@@ -9025,7 +9560,11 @@
             "разработали",
             "Разработали"
           ],
-          "explanation": "разработали"
+          "explanation": "разработали",
+          "acceptableAnswers": [
+            "разработали",
+            "Разработали"
+          ]
         }
       ]
     }
@@ -9119,7 +9658,13 @@
             "пришел",
             "Пришел"
           ],
-          "explanation": "пришёл"
+          "explanation": "пришёл",
+          "acceptableAnswers": [
+            "пришёл",
+            "Пришёл",
+            "пришел",
+            "Пришел"
+          ]
         }
       ]
     }
@@ -9211,7 +9756,11 @@
             "перейти",
             "Перейти"
           ],
-          "explanation": "перейти"
+          "explanation": "перейти",
+          "acceptableAnswers": [
+            "перейти",
+            "Перейти"
+          ]
         }
       ]
     }
@@ -9305,7 +9854,13 @@
             "пошел",
             "Пошел"
           ],
-          "explanation": "пошёл"
+          "explanation": "пошёл",
+          "acceptableAnswers": [
+            "пошёл",
+            "Пошёл",
+            "пошел",
+            "Пошел"
+          ]
         }
       ]
     }
@@ -9397,7 +9952,11 @@
             "пришли",
             "Пришли"
           ],
-          "explanation": "пришли"
+          "explanation": "пришли",
+          "acceptableAnswers": [
+            "пришли",
+            "Пришли"
+          ]
         }
       ]
     }
@@ -9489,7 +10048,11 @@
             "дошли",
             "Дошли"
           ],
-          "explanation": "дошли"
+          "explanation": "дошли",
+          "acceptableAnswers": [
+            "дошли",
+            "Дошли"
+          ]
         }
       ]
     }
@@ -9581,7 +10144,11 @@
             "бы",
             "Бы"
           ],
-          "explanation": "бы"
+          "explanation": "бы",
+          "acceptableAnswers": [
+            "бы",
+            "Бы"
+          ]
         }
       ]
     }
@@ -9673,7 +10240,11 @@
             "хотела",
             "Хотела"
           ],
-          "explanation": "хотела"
+          "explanation": "хотела",
+          "acceptableAnswers": [
+            "хотела",
+            "Хотела"
+          ]
         }
       ]
     }
@@ -9767,7 +10338,13 @@
             "чтоб",
             "Чтоб"
           ],
-          "explanation": "чтобы"
+          "explanation": "чтобы",
+          "acceptableAnswers": [
+            "чтобы",
+            "Чтобы",
+            "чтоб",
+            "Чтоб"
+          ]
         }
       ]
     }
@@ -9859,7 +10436,11 @@
             "было",
             "Было"
           ],
-          "explanation": "было"
+          "explanation": "было",
+          "acceptableAnswers": [
+            "было",
+            "Было"
+          ]
         }
       ]
     }
@@ -9951,7 +10532,11 @@
             "смогли",
             "Смогли"
           ],
-          "explanation": "смогли"
+          "explanation": "смогли",
+          "acceptableAnswers": [
+            "смогли",
+            "Смогли"
+          ]
         }
       ]
     }
@@ -10043,7 +10628,11 @@
             "читающий",
             "Читающий"
           ],
-          "explanation": "читающий"
+          "explanation": "читающий",
+          "acceptableAnswers": [
+            "читающий",
+            "Читающий"
+          ]
         }
       ]
     }
@@ -10135,7 +10724,11 @@
             "написавший",
             "Написавший"
           ],
-          "explanation": "написавший"
+          "explanation": "написавший",
+          "acceptableAnswers": [
+            "написавший",
+            "Написавший"
+          ]
         }
       ]
     }
@@ -10227,7 +10820,11 @@
             "изучаемый",
             "Изучаемый"
           ],
-          "explanation": "изучаемый"
+          "explanation": "изучаемый",
+          "acceptableAnswers": [
+            "изучаемый",
+            "Изучаемый"
+          ]
         }
       ]
     }
@@ -10319,7 +10916,11 @@
             "открыт",
             "Открыт"
           ],
-          "explanation": "открыт"
+          "explanation": "открыт",
+          "acceptableAnswers": [
+            "открыт",
+            "Открыт"
+          ]
         }
       ]
     }
@@ -10411,7 +11012,11 @@
             "решена",
             "Решена"
           ],
-          "explanation": "решена"
+          "explanation": "решена",
+          "acceptableAnswers": [
+            "решена",
+            "Решена"
+          ]
         }
       ]
     }
@@ -10503,7 +11108,11 @@
             "говоря",
             "Говоря"
           ],
-          "explanation": "говоря"
+          "explanation": "говоря",
+          "acceptableAnswers": [
+            "говоря",
+            "Говоря"
+          ]
         }
       ]
     }
@@ -10595,7 +11204,11 @@
             "написав",
             "Написав"
           ],
-          "explanation": "написав"
+          "explanation": "написав",
+          "acceptableAnswers": [
+            "написав",
+            "Написав"
+          ]
         }
       ]
     }
@@ -10687,7 +11300,11 @@
             "ознакомившись",
             "Ознакомившись"
           ],
-          "explanation": "ознакомившись"
+          "explanation": "ознакомившись",
+          "acceptableAnswers": [
+            "ознакомившись",
+            "Ознакомившись"
+          ]
         }
       ]
     }
@@ -10779,7 +11396,11 @@
             "Благодаря",
             "благодаря"
           ],
-          "explanation": "благодаря"
+          "explanation": "благодаря",
+          "acceptableAnswers": [
+            "Благодаря",
+            "благодаря"
+          ]
         }
       ]
     }
@@ -10871,7 +11492,11 @@
             "обобщив",
             "Обобщив"
           ],
-          "explanation": "обобщив"
+          "explanation": "обобщив",
+          "acceptableAnswers": [
+            "обобщив",
+            "Обобщив"
+          ]
         }
       ]
     }
@@ -10963,7 +11588,11 @@
             "внимания",
             "Внимания"
           ],
-          "explanation": "внимания"
+          "explanation": "внимания",
+          "acceptableAnswers": [
+            "внимания",
+            "Внимания"
+          ]
         }
       ]
     }
@@ -11055,7 +11684,11 @@
             "невозврата",
             "Невозврата"
           ],
-          "explanation": "невозврата"
+          "explanation": "невозврата",
+          "acceptableAnswers": [
+            "невозврата",
+            "Невозврата"
+          ]
         }
       ]
     }
@@ -11147,7 +11780,11 @@
             "озабоченность",
             "Озабоченность"
           ],
-          "explanation": "озабоченность"
+          "explanation": "озабоченность",
+          "acceptableAnswers": [
+            "озабоченность",
+            "Озабоченность"
+          ]
         }
       ]
     }
@@ -11239,7 +11876,11 @@
             "фактчекинг",
             "Фактчекинг"
           ],
-          "explanation": "фактчекинг"
+          "explanation": "фактчекинг",
+          "acceptableAnswers": [
+            "фактчекинг",
+            "Фактчекинг"
+          ]
         }
       ]
     }
@@ -11331,7 +11972,11 @@
             "резюмировав",
             "Резюмировав"
           ],
-          "explanation": "резюмировав"
+          "explanation": "резюмировав",
+          "acceptableAnswers": [
+            "резюмировав",
+            "Резюмировав"
+          ]
         }
       ]
     }
@@ -11423,7 +12068,11 @@
             "Довожу",
             "довожу"
           ],
-          "explanation": "довожу"
+          "explanation": "довожу",
+          "acceptableAnswers": [
+            "Довожу",
+            "довожу"
+          ]
         }
       ]
     }
@@ -11515,7 +12164,11 @@
             "взаимовыгодное",
             "Взаимовыгодное"
           ],
-          "explanation": "взаимовыгодное"
+          "explanation": "взаимовыгодное",
+          "acceptableAnswers": [
+            "взаимовыгодное",
+            "Взаимовыгодное"
+          ]
         }
       ]
     }
@@ -11607,7 +12260,11 @@
             "непреодолимой",
             "Непреодолимой"
           ],
-          "explanation": "непреодолимой"
+          "explanation": "непреодолимой",
+          "acceptableAnswers": [
+            "непреодолимой",
+            "Непреодолимой"
+          ]
         }
       ]
     }
@@ -11699,7 +12356,11 @@
             "избежание",
             "Избежание"
           ],
-          "explanation": "избежание"
+          "explanation": "избежание",
+          "acceptableAnswers": [
+            "избежание",
+            "Избежание"
+          ]
         }
       ]
     }
@@ -11791,7 +12452,11 @@
             "акт",
             "Акт"
           ],
-          "explanation": "акт"
+          "explanation": "акт",
+          "acceptableAnswers": [
+            "акт",
+            "Акт"
+          ]
         }
       ]
     }
@@ -11884,7 +12549,12 @@
             "Ямб",
             "ямбом"
           ],
-          "explanation": "ямб"
+          "explanation": "ямб",
+          "acceptableAnswers": [
+            "ямб",
+            "Ямб",
+            "ямбом"
+          ]
         }
       ]
     }
@@ -11976,7 +12646,11 @@
             "Акакий",
             "акакий"
           ],
-          "explanation": "Акакий"
+          "explanation": "Акакий",
+          "acceptableAnswers": [
+            "Акакий",
+            "акакий"
+          ]
         }
       ]
     }
@@ -12068,7 +12742,11 @@
             "Раскольников",
             "раскольников"
           ],
-          "explanation": "Раскольников"
+          "explanation": "Раскольников",
+          "acceptableAnswers": [
+            "Раскольников",
+            "раскольников"
+          ]
         }
       ]
     }
@@ -12161,7 +12839,12 @@
             "наташа",
             "Наталья"
           ],
-          "explanation": "Наташа"
+          "explanation": "Наташа",
+          "acceptableAnswers": [
+            "Наташа",
+            "наташа",
+            "Наталья"
+          ]
         }
       ]
     }
@@ -12253,7 +12936,11 @@
             "чайка",
             "Чайка"
           ],
-          "explanation": "чайка"
+          "explanation": "чайка",
+          "acceptableAnswers": [
+            "чайка",
+            "Чайка"
+          ]
         }
       ]
     }
@@ -12345,7 +13032,11 @@
             "богочеловечество",
             "Богочеловечество"
           ],
-          "explanation": "богочеловечество"
+          "explanation": "богочеловечество",
+          "acceptableAnswers": [
+            "богочеловечество",
+            "Богочеловечество"
+          ]
         }
       ]
     }
@@ -12437,7 +13128,11 @@
             "персонализм",
             "Персонализм"
           ],
-          "explanation": "персонализм"
+          "explanation": "персонализм",
+          "acceptableAnswers": [
+            "персонализм",
+            "Персонализм"
+          ]
         }
       ]
     }
@@ -12529,7 +13224,11 @@
             "Афины",
             "афины"
           ],
-          "explanation": "Афины"
+          "explanation": "Афины",
+          "acceptableAnswers": [
+            "Афины",
+            "афины"
+          ]
         }
       ]
     }
@@ -12621,7 +13320,11 @@
             "обратная",
             "Обратная"
           ],
-          "explanation": "обратная"
+          "explanation": "обратная",
+          "acceptableAnswers": [
+            "обратная",
+            "Обратная"
+          ]
         }
       ]
     }
@@ -12714,7 +13417,12 @@
             "1922 год",
             "1922 г."
           ],
-          "explanation": "1922"
+          "explanation": "1922",
+          "acceptableAnswers": [
+            "1922",
+            "1922 год",
+            "1922 г."
+          ]
         }
       ]
     }
@@ -12806,7 +13514,11 @@
             "Мусоргский",
             "мусоргский"
           ],
-          "explanation": "Мусоргский"
+          "explanation": "Мусоргский",
+          "acceptableAnswers": [
+            "Мусоргский",
+            "мусоргский"
+          ]
         }
       ]
     }
@@ -12898,7 +13610,11 @@
             "Пиковая",
             "пиковая"
           ],
-          "explanation": "Пиковая"
+          "explanation": "Пиковая",
+          "acceptableAnswers": [
+            "Пиковая",
+            "пиковая"
+          ]
         }
       ]
     }
@@ -12993,7 +13709,14 @@
             "Рояль",
             "пианино"
           ],
-          "explanation": "фортепиано"
+          "explanation": "фортепиано",
+          "acceptableAnswers": [
+            "фортепиано",
+            "рояль",
+            "Фортепиано",
+            "Рояль",
+            "пианино"
+          ]
         }
       ]
     }
@@ -13085,7 +13808,11 @@
             "Дягилев",
             "дягилев"
           ],
-          "explanation": "Дягилев"
+          "explanation": "Дягилев",
+          "acceptableAnswers": [
+            "Дягилев",
+            "дягилев"
+          ]
         }
       ]
     }
@@ -13177,7 +13904,11 @@
             "Седьмая",
             "седьмая"
           ],
-          "explanation": "Седьмая"
+          "explanation": "Седьмая",
+          "acceptableAnswers": [
+            "Седьмая",
+            "седьмая"
+          ]
         }
       ]
     }
@@ -13269,7 +14000,11 @@
             "Третьяков",
             "третьяков"
           ],
-          "explanation": "Третьяков"
+          "explanation": "Третьяков",
+          "acceptableAnswers": [
+            "Третьяков",
+            "третьяков"
+          ]
         }
       ]
     }
@@ -13361,7 +14096,11 @@
             "Кандинский",
             "кандинский"
           ],
-          "explanation": "Кандинский"
+          "explanation": "Кандинский",
+          "acceptableAnswers": [
+            "Кандинский",
+            "кандинский"
+          ]
         }
       ]
     }
@@ -13453,7 +14192,11 @@
             "квадрат",
             "Квадрат"
           ],
-          "explanation": "квадрат"
+          "explanation": "квадрат",
+          "acceptableAnswers": [
+            "квадрат",
+            "Квадрат"
+          ]
         }
       ]
     }
@@ -13545,7 +14288,11 @@
             "Родченко",
             "родченко"
           ],
-          "explanation": "Родченко"
+          "explanation": "Родченко",
+          "acceptableAnswers": [
+            "Родченко",
+            "родченко"
+          ]
         }
       ]
     }
@@ -13637,7 +14384,11 @@
             "Марк",
             "марк"
           ],
-          "explanation": "Марк"
+          "explanation": "Марк",
+          "acceptableAnswers": [
+            "Марк",
+            "марк"
+          ]
         }
       ]
     }
@@ -13729,7 +14480,11 @@
             "Эйзенштейн",
             "эйзенштейн"
           ],
-          "explanation": "Эйзенштейн"
+          "explanation": "Эйзенштейн",
+          "acceptableAnswers": [
+            "Эйзенштейн",
+            "эйзенштейн"
+          ]
         }
       ]
     }
@@ -13821,7 +14576,11 @@
             "Тарковский",
             "тарковский"
           ],
-          "explanation": "Тарковский"
+          "explanation": "Тарковский",
+          "acceptableAnswers": [
+            "Тарковский",
+            "тарковский"
+          ]
         }
       ]
     }
@@ -13913,7 +14672,11 @@
             "Урусевский",
             "урусевский"
           ],
-          "explanation": "Урусевский"
+          "explanation": "Урусевский",
+          "acceptableAnswers": [
+            "Урусевский",
+            "урусевский"
+          ]
         }
       ]
     }
@@ -14005,7 +14768,11 @@
             "Покаяние",
             "покаяние"
           ],
-          "explanation": "Покаяние"
+          "explanation": "Покаяние",
+          "acceptableAnswers": [
+            "Покаяние",
+            "покаяние"
+          ]
         }
       ]
     }
@@ -14097,7 +14864,11 @@
             "семиотика",
             "Семиотика"
           ],
-          "explanation": "семиотика"
+          "explanation": "семиотика",
+          "acceptableAnswers": [
+            "семиотика",
+            "Семиотика"
+          ]
         }
       ]
     }
@@ -14189,7 +14960,11 @@
             "Менделеев",
             "менделеев"
           ],
-          "explanation": "Менделеев"
+          "explanation": "Менделеев",
+          "acceptableAnswers": [
+            "Менделеев",
+            "менделеев"
+          ]
         }
       ]
     }
@@ -14281,7 +15056,11 @@
             "Циолковский",
             "циолковский"
           ],
-          "explanation": "Циолковский"
+          "explanation": "Циолковский",
+          "acceptableAnswers": [
+            "Циолковский",
+            "циолковский"
+          ]
         }
       ]
     }
@@ -14375,7 +15154,13 @@
             "Восток",
             "восток"
           ],
-          "explanation": "Восток-1"
+          "explanation": "Восток-1",
+          "acceptableAnswers": [
+            "Восток-1",
+            "восток-1",
+            "Восток",
+            "восток"
+          ]
         }
       ]
     }
@@ -14467,7 +15252,11 @@
             "Сахаров",
             "сахаров"
           ],
-          "explanation": "Сахаров"
+          "explanation": "Сахаров",
+          "acceptableAnswers": [
+            "Сахаров",
+            "сахаров"
+          ]
         }
       ]
     }
@@ -14561,7 +15350,13 @@
             "выводы",
             "Выводы"
           ],
-          "explanation": "заключение"
+          "explanation": "заключение",
+          "acceptableAnswers": [
+            "заключение",
+            "Заключение",
+            "выводы",
+            "Выводы"
+          ]
         }
       ]
     }
@@ -14655,7 +15450,13 @@
             "не верю",
             "Не верю"
           ],
-          "explanation": "верю"
+          "explanation": "верю",
+          "acceptableAnswers": [
+            "верю",
+            "Верю",
+            "не верю",
+            "Не верю"
+          ]
         }
       ]
     }
@@ -14747,7 +15548,11 @@
             "Мейерхольд",
             "мейерхольд"
           ],
-          "explanation": "Мейерхольд"
+          "explanation": "Мейерхольд",
+          "acceptableAnswers": [
+            "Мейерхольд",
+            "мейерхольд"
+          ]
         }
       ]
     }
@@ -14839,7 +15644,11 @@
             "Чехов",
             "чехов"
           ],
-          "explanation": "Чехов"
+          "explanation": "Чехов",
+          "acceptableAnswers": [
+            "Чехов",
+            "чехов"
+          ]
         }
       ]
     }
@@ -14931,7 +15740,11 @@
             "Любимов",
             "любимов"
           ],
-          "explanation": "Любимов"
+          "explanation": "Любимов",
+          "acceptableAnswers": [
+            "Любимов",
+            "любимов"
+          ]
         }
       ]
     }
@@ -15025,7 +15838,13 @@
             "Темпоритм",
             "Темпо-ритм"
           ],
-          "explanation": "темпоритм"
+          "explanation": "темпоритм",
+          "acceptableAnswers": [
+            "темпоритм",
+            "темпо-ритм",
+            "Темпоритм",
+            "Темпо-ритм"
+          ]
         }
       ]
     }
@@ -15117,7 +15936,11 @@
             "суверенитет",
             "Суверенитет"
           ],
-          "explanation": "суверенитет"
+          "explanation": "суверенитет",
+          "acceptableAnswers": [
+            "суверенитет",
+            "Суверенитет"
+          ]
         }
       ]
     }
@@ -15209,7 +16032,11 @@
             "акцепт",
             "Акцепт"
           ],
-          "explanation": "акцепт"
+          "explanation": "акцепт",
+          "acceptableAnswers": [
+            "акцепт",
+            "Акцепт"
+          ]
         }
       ]
     }
@@ -15301,7 +16128,11 @@
             "бремя",
             "Бремя"
           ],
-          "explanation": "бремя"
+          "explanation": "бремя",
+          "acceptableAnswers": [
+            "бремя",
+            "Бремя"
+          ]
         }
       ]
     }
@@ -15395,7 +16226,13 @@
             "персона нон грата",
             "persona non grata"
           ],
-          "explanation": "non grata"
+          "explanation": "non grata",
+          "acceptableAnswers": [
+            "non grata",
+            "нон грата",
+            "персона нон грата",
+            "persona non grata"
+          ]
         }
       ]
     }
@@ -15487,7 +16324,11 @@
             "права",
             "Права"
           ],
-          "explanation": "права"
+          "explanation": "права",
+          "acceptableAnswers": [
+            "права",
+            "Права"
+          ]
         }
       ]
     }
@@ -15579,7 +16420,11 @@
             "соборность",
             "Соборность"
           ],
-          "explanation": "соборность"
+          "explanation": "соборность",
+          "acceptableAnswers": [
+            "соборность",
+            "Соборность"
+          ]
         }
       ]
     }
@@ -15671,7 +16516,11 @@
             "всеединство",
             "Всеединство"
           ],
-          "explanation": "всеединство"
+          "explanation": "всеединство",
+          "acceptableAnswers": [
+            "всеединство",
+            "Всеединство"
+          ]
         }
       ]
     }
@@ -15764,7 +16613,12 @@
             "вехи",
             "«Вехи»"
           ],
-          "explanation": "Вехи"
+          "explanation": "Вехи",
+          "acceptableAnswers": [
+            "Вехи",
+            "вехи",
+            "«Вехи»"
+          ]
         }
       ]
     }
@@ -15856,7 +16710,11 @@
             "месторазвитие",
             "Месторазвитие"
           ],
-          "explanation": "месторазвитие"
+          "explanation": "месторазвитие",
+          "acceptableAnswers": [
+            "месторазвитие",
+            "Месторазвитие"
+          ]
         }
       ]
     }
@@ -15948,7 +16806,11 @@
             "рефлексия",
             "Рефлексия"
           ],
-          "explanation": "рефлексия"
+          "explanation": "рефлексия",
+          "acceptableAnswers": [
+            "рефлексия",
+            "Рефлексия"
+          ]
         }
       ]
     }
@@ -16040,7 +16902,11 @@
             "меморандум",
             "Меморандум"
           ],
-          "explanation": "меморандум"
+          "explanation": "меморандум",
+          "acceptableAnswers": [
+            "меморандум",
+            "Меморандум"
+          ]
         }
       ]
     }
@@ -16132,7 +16998,11 @@
             "научный",
             "Научный"
           ],
-          "explanation": "научный"
+          "explanation": "научный",
+          "acceptableAnswers": [
+            "научный",
+            "Научный"
+          ]
         }
       ]
     }
@@ -16224,7 +17094,11 @@
             "рема",
             "Рема"
           ],
-          "explanation": "рема"
+          "explanation": "рема",
+          "acceptableAnswers": [
+            "рема",
+            "Рема"
+          ]
         }
       ]
     }
@@ -16316,7 +17190,11 @@
             "тоска",
             "Тоска"
           ],
-          "explanation": "тоска"
+          "explanation": "тоска",
+          "acceptableAnswers": [
+            "тоска",
+            "Тоска"
+          ]
         }
       ]
     }
@@ -16408,7 +17286,11 @@
             "свободный",
             "Свободный"
           ],
-          "explanation": "свободный"
+          "explanation": "свободный",
+          "acceptableAnswers": [
+            "свободный",
+            "Свободный"
+          ]
         }
       ]
     }

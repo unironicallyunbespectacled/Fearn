@@ -85,10 +85,10 @@
         {
           "prompt": "What is the core premise behind the Time Value of Money (TVM)?",
           "options": [
-            "A given sum of money today has greater value than the same sum in the future because it can earn interest and invest in productive assets. (Foundations of Financial Markets)",
-            "Money loses all value if kept in a bank account overnight. (Foundations of Financial Markets)",
-            "Future money is always more valuable because companies print more of it. (Foundations of Financial Markets)",
-            "Stock prices never change over time. (Foundations of Financial Markets)"
+            "A given sum of money today has greater value than the same sum in the future because it can earn interest and invest in productive assets.",
+            "Money loses all value if kept in a bank account overnight.",
+            "Future money is always more valuable because companies print more of it.",
+            "Stock prices never change over time."
           ],
           "answerIndex": 0,
           "explanation": "TVM reflects opportunity cost, potential investment yields, and inflation over time."
@@ -100,10 +100,10 @@
         {
           "prompt": "How does the claim priority of bondholders (debt) differ from stockholders (equity) if a corporation undergoes bankruptcy liquidation?",
           "options": [
-            "Bondholders hold senior legal claims and must be repaid before common equity holders receive any residual liquidation proceeds. (Foundations of Financial Markets)",
-            "Equity holders are paid first before all debts. (Foundations of Financial Markets)",
-            "Bondholders and equity holders divide all remaining cash equally regardless of debt agreements. (Foundations of Financial Markets)",
-            "The government confiscates all assets without paying anyone. (Foundations of Financial Markets)"
+            "Bondholders hold senior legal claims and must be repaid before common equity holders receive any residual liquidation proceeds.",
+            "Equity holders are paid first before all debts.",
+            "Bondholders and equity holders divide all remaining cash equally regardless of debt agreements.",
+            "The government confiscates all assets without paying anyone."
           ],
           "answerIndex": 0,
           "explanation": "Debt holds contractual seniority over residual equity claims in the capital structure hierarchy."
@@ -115,10 +115,10 @@
         {
           "prompt": "If an investor purchases a stock for $100, receives $5 in dividends during the year, and sells the stock for $110 at year-end, what was their total annual return ($R$)?",
           "options": [
-            "15% (Foundations of Financial Markets)",
-            "5% (Foundations of Financial Markets)",
-            "10% (Foundations of Financial Markets)",
-            "20% (Foundations of Financial Markets)"
+            "15%",
+            "5%",
+            "10%",
+            "20%"
           ],
           "answerIndex": 0,
           "explanation": "Total return = ($110 - $100 + $5) / $100 = $15 / $100 = 15%.",
@@ -127,10 +127,10 @@
         {
           "prompt": "What statistical measure is standardly used in financial modeling to quantify the total volatility (dispersion of returns) of an asset?",
           "options": [
-            "Standard deviation (Foundations of Financial Markets)",
-            "Price-to-Earnings ratio (Foundations of Financial Markets)",
-            "Gross domestic product (Foundations of Financial Markets)",
-            "Auditor billable hours (Foundations of Financial Markets)"
+            "Standard deviation",
+            "Price-to-Earnings ratio",
+            "Gross domestic product",
+            "Auditor billable hours"
           ],
           "answerIndex": 0,
           "explanation": "Standard deviation of historical returns quantifies the volatility and dispersion of outcomes around the expected return.",
@@ -167,10 +167,10 @@
         {
           "prompt": "If the risk-free rate is 3.5%, the expected market return is 9.0%, and a stock has a beta of 1.40, what is the cost of equity according to CAPM?",
           "options": [
-            "5.50% (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "12.60% (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "11.20% (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "9.00% (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)"
+            "5.50%",
+            "12.60%",
+            "11.20%",
+            "9.00%"
           ],
           "answerIndex": 2,
           "explanation": "11.20% (3.5% + 1.40 * 5.5%)."
@@ -182,10 +182,10 @@
         {
           "prompt": "Which component of a stock's total return variance can be completely eliminated through broad portfolio diversification?",
           "options": [
-            "Inflation Risk (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "Beta Risk (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "Idiosyncratic (Firm-Specific / Unsystematic)",
-            "Systematic Market Risk (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)"
+            "Inflation Risk",
+            "Beta Risk",
+            "Idiosyncratic",
+            "Systematic Market Risk"
           ],
           "answerIndex": 2,
           "explanation": "Idiosyncratic (Firm-Specific / Unsystematic) Risk."
@@ -197,10 +197,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The Capital Asset Pricing Model prices equity by compensating investors solely for systematic non-diversifiable risk as quantified by asset beta relative to the market portfolio.\"",
           "options": [
-            "The Capital Asset Pricing Model prices equity by compensating investors solely for systematic non-diversifiable risk as quantified by asset beta relative to the market portfolio. (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "Idiosyncratic risk receives an extra premium in equilibrium CAPM pricing. (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "The risk-free rate is always negative in developed economies. (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "CAPM assumes all stocks have identical returns regardless of risk. (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)"
+            "The Capital Asset Pricing Model prices equity by compensating investors solely for systematic non-diversifiable risk as quantified by asset beta relative to the market portfolio.",
+            "Idiosyncratic risk receives an extra premium in equilibrium CAPM pricing.",
+            "The risk-free rate is always negative in developed economies.",
+            "CAPM assumes all stocks have identical returns regardless of risk."
           ],
           "answerIndex": 0,
           "explanation": "Accurate CAPM analysis translation.",
@@ -209,10 +209,10 @@
         {
           "prompt": "What statistical parameter measures an asset's risk-adjusted excess return above the Security Market Line?",
           "options": [
-            "Standard Deviation (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "Sharpe Ratio (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "Beta (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)",
-            "Jensen's Alpha (The Capital Asset Pricing Model CAPM  The Security Market Line Derivation of expected return ERi  Rf  betai ERm  Rf)"
+            "Standard Deviation",
+            "Sharpe Ratio",
+            "Beta",
+            "Jensen's Alpha"
           ],
           "answerIndex": 3,
           "explanation": "Jensen's Alpha (alpha).",
@@ -331,10 +331,10 @@
         {
           "prompt": "If an enterprise has an unlevered asset beta of 0.90, a marginal corporate tax rate of 25%, and targets a debt-to-equity ratio of 0.80, what is its relevered equity beta?",
           "options": [
-            "0.90 (Capital Structure  The Hamada Equation)",
-            "2.00 (Capital Structure  The Hamada Equation)",
-            "1.10 (Capital Structure  The Hamada Equation)",
-            "1.44 (Capital Structure  The Hamada Equation)"
+            "0.90",
+            "2.00",
+            "1.10",
+            "1.44"
           ],
           "answerIndex": 3,
           "explanation": "1.44 (0.90 * [1 + 0.75 * 0.80] = 0.90 * 1.60)."
@@ -346,10 +346,10 @@
         {
           "prompt": "Why do investment bankers unlever the betas of public peer companies before calculating the cost of capital for a target acquisition?",
           "options": [
-            "To remove the distorting effects of differing financial leverage across peers, isolating pure operating business risk. (Capital Structure  The Hamada Equation)",
-            "To reduce taxes to zero. (Capital Structure  The Hamada Equation)",
-            "Because debt has no cost. (Capital Structure  The Hamada Equation)",
-            "To convert equity into cash. (Capital Structure  The Hamada Equation)"
+            "To remove the distorting effects of differing financial leverage across peers, isolating pure operating business risk.",
+            "To reduce taxes to zero.",
+            "Because debt has no cost.",
+            "To convert equity into cash."
           ],
           "answerIndex": 0,
           "explanation": "To remove differing financial leverage and isolate pure operating business risk."
@@ -361,10 +361,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The Hamada equation isolates operational asset risk by stripping financial leverage from equity beta, allowing analysts to relever the median industry beta to the target capital structure.\"",
           "options": [
-            "Debt-to-equity ratio has zero mathematical impact on equity beta. (Capital Structure  The Hamada Equation)",
-            "Unlevered beta is always larger than levered beta for firms with debt. (Capital Structure  The Hamada Equation)",
-            "The Hamada equation isolates operational asset risk by stripping financial leverage from equity beta, allowing analysts to relever the median industry beta to the target capital structure. (Capital Structure  The Hamada Equation)",
-            "The Hamada equation assumes corporate income taxes do not exist. (Capital Structure  The Hamada Equation)"
+            "Debt-to-equity ratio has zero mathematical impact on equity beta.",
+            "Unlevered beta is always larger than levered beta for firms with debt.",
+            "The Hamada equation isolates operational asset risk by stripping financial leverage from equity beta, allowing analysts to relever the median industry beta to the target capital structure.",
+            "The Hamada equation assumes corporate income taxes do not exist."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Hamada equation analysis translation.",
@@ -373,10 +373,10 @@
         {
           "prompt": "What happens to a firm's levered equity beta Beta_L as it issues debt to repurchase shares, increasing its D/E ratio?",
           "options": [
-            "Beta_L decreases to zero. (Capital Structure  The Hamada Equation)",
-            "Beta_L increases linearly with the debt-to-equity ratio. (Capital Structure  The Hamada Equation)",
-            "Beta_L becomes negative. (Capital Structure  The Hamada Equation)",
-            "Beta_L remains strictly constant. (Capital Structure  The Hamada Equation)"
+            "Beta_L decreases to zero.",
+            "Beta_L increases linearly with the debt-to-equity ratio.",
+            "Beta_L becomes negative.",
+            "Beta_L remains strictly constant."
           ],
           "answerIndex": 1,
           "explanation": "Beta_L increases linearly with the debt-to-equity ratio.",
@@ -413,10 +413,10 @@
         {
           "prompt": "If an enterprise has market equity of $600M (cost of equity 12%) and debt of $400M (pre-tax cost of debt 5%), with a 20% corporate tax rate, what is its WACC?",
           "options": [
-            "8.80% (Weighted Average Cost of Capital WACC)",
-            "7.20% (Weighted Average Cost of Capital WACC)",
-            "12.00% (Weighted Average Cost of Capital WACC)",
-            "10.00% (Weighted Average Cost of Capital WACC)"
+            "8.80%",
+            "7.20%",
+            "12.00%",
+            "10.00%"
           ],
           "answerIndex": 0,
           "explanation": "8.80% (7.20% + 1.60%)."
@@ -428,10 +428,10 @@
         {
           "prompt": "Why must capital structure weights (E/V and D/V) in WACC be calculated using market values rather than accounting book values?",
           "options": [
-            "Because market values reflect the current economic opportunity cost of capital required by financial markets. (Weighted Average Cost of Capital WACC)",
-            "Because accounting book values change every second. (Weighted Average Cost of Capital WACC)",
-            "Because GAAP requires book values. (Weighted Average Cost of Capital WACC)",
-            "Because market values are always zero. (Weighted Average Cost of Capital WACC)"
+            "Because market values reflect the current economic opportunity cost of capital required by financial markets.",
+            "Because accounting book values change every second.",
+            "Because GAAP requires book values.",
+            "Because market values are always zero."
           ],
           "answerIndex": 0,
           "explanation": "Because market values reflect the current economic opportunity cost of capital."
@@ -443,10 +443,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Discounting unlevered free cash flows at the weighted average cost of capital accounts for the interest tax shield in the discount rate while valuing the total enterprise.\"",
           "options": [
-            "WACC discounts levered equity cash flows directly. (Weighted Average Cost of Capital WACC)",
-            "Discounting unlevered free cash flows at the weighted average cost of capital accounts for the interest tax shield in the discount rate while valuing the total enterprise. (Weighted Average Cost of Capital WACC)",
-            "Interest payments are never tax deductible under corporate law. (Weighted Average Cost of Capital WACC)",
-            "Preferred stock receives an automatic 50% corporate tax shield. (Weighted Average Cost of Capital WACC)"
+            "WACC discounts levered equity cash flows directly.",
+            "Discounting unlevered free cash flows at the weighted average cost of capital accounts for the interest tax shield in the discount rate while valuing the total enterprise.",
+            "Interest payments are never tax deductible under corporate law.",
+            "Preferred stock receives an automatic 50% corporate tax shield."
           ],
           "answerIndex": 1,
           "explanation": "Accurate WACC analysis translation.",
@@ -455,10 +455,10 @@
         {
           "prompt": "Which free cash flow metric must be discounted at WACC to produce Enterprise Value without double-counting capital structure effects?",
           "options": [
-            "Free Cash Flow to Firm (Weighted Average Cost of Capital WACC)",
-            "Free Cash Flow to Equity (Weighted Average Cost of Capital WACC)",
-            "Net Income (Weighted Average Cost of Capital WACC)",
-            "EBITDA (Weighted Average Cost of Capital WACC)"
+            "Free Cash Flow to Firm",
+            "Free Cash Flow to Equity",
+            "Net Income",
+            "EBITDA"
           ],
           "answerIndex": 0,
           "explanation": "Free Cash Flow to Firm (FCFF).",
@@ -495,10 +495,10 @@
         {
           "prompt": "If an unrated enterprise generates $60M in EBIT and pays $15M in annual interest expense, what is its Interest Coverage Ratio (ICR)?",
           "options": [
-            "4.0x (The Cost of Debt)",
-            "0.25x (The Cost of Debt)",
-            "45.0x (The Cost of Debt)",
-            "15.0x (The Cost of Debt)"
+            "4.0x",
+            "0.25x",
+            "45.0x",
+            "15.0x"
           ],
           "answerIndex": 0,
           "explanation": "4.0x ($60M / $15M)."
@@ -510,10 +510,10 @@
         {
           "prompt": "Why is using a firm's historical bond coupon rate incorrect when determining the cost of debt for a forward-looking WACC calculation?",
           "options": [
-            "Because coupon rates reflect past borrowing costs, whereas WACC requires the marginal cost of raising new debt in current market conditions. (The Cost of Debt)",
-            "Because bonds never mature. (The Cost of Debt)",
-            "Because coupon rates violate GAAP. (The Cost of Debt)",
-            "Because coupon rates are always zero. (The Cost of Debt)"
+            "Because coupon rates reflect past borrowing costs, whereas WACC requires the marginal cost of raising new debt in current market conditions.",
+            "Because bonds never mature.",
+            "Because coupon rates violate GAAP.",
+            "Because coupon rates are always zero."
           ],
           "answerIndex": 0,
           "explanation": "Because coupon rates reflect past borrowing costs, not current marginal rates."
@@ -525,10 +525,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Synthetic credit rating estimation computes the interest coverage ratio from operating earnings to map unrated private enterprises to empirical corporate default spreads.\"",
           "options": [
-            "Synthetic credit rating estimation computes the interest coverage ratio from operating earnings to map unrated private enterprises to empirical corporate default spreads. (The Cost of Debt)",
-            "Credit default spreads are fixed at 50% for all companies. (The Cost of Debt)",
-            "Interest coverage ratio is calculated by dividing total assets by stock price. (The Cost of Debt)",
-            "Cost of debt equals dividend yield on common stock. (The Cost of Debt)"
+            "Synthetic credit rating estimation computes the interest coverage ratio from operating earnings to map unrated private enterprises to empirical corporate default spreads.",
+            "Credit default spreads are fixed at 50% for all companies.",
+            "Interest coverage ratio is calculated by dividing total assets by stock price.",
+            "Cost of debt equals dividend yield on common stock."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Cost of debt analysis translation.",
@@ -537,10 +537,10 @@
         {
           "prompt": "If the 10-year Treasury yield is 4.25% and a corporate bond rating carries a default spread of 175 basis points (1.75%), what is the pre-tax cost of debt?",
           "options": [
-            "4.25% (The Cost of Debt)",
-            "1.75% (The Cost of Debt)",
-            "7.50% (The Cost of Debt)",
-            "6.00% (The Cost of Debt)"
+            "4.25%",
+            "1.75%",
+            "7.50%",
+            "6.00%"
           ],
           "answerIndex": 3,
           "explanation": "6.00% (4.25% + 1.75%).",
@@ -577,10 +577,10 @@
         {
           "prompt": "Under Modigliani-Miller Proposition I with corporate taxes, what is the value of a levered firm (V_L) relative to an unlevered firm (V_U)?",
           "options": [
-            "V_L = V_U - D (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "V_L = V_U / (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "V_L = T_c * D (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "V_L = V_U + T_c * D (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)"
+            "V_L = V_U - D",
+            "V_L = V_U /",
+            "V_L = T_c * D",
+            "V_L = V_U + T_c * D"
           ],
           "answerIndex": 3,
           "explanation": "V_L = V_U + T_c * D."
@@ -592,10 +592,10 @@
         {
           "prompt": "What real-world cost prevents corporations from adopting 100% debt capital structures according to the Trade-off Theory?",
           "options": [
-            "Corporate tax rates reaching 100%. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "Lack of printing presses. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "Stock exchanges prohibiting debt. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "The present value of expected financial distress and bankruptcy costs. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)"
+            "Corporate tax rates reaching 100%.",
+            "Lack of printing presses.",
+            "Stock exchanges prohibiting debt.",
+            "The present value of expected financial distress and bankruptcy costs."
           ],
           "answerIndex": 3,
           "explanation": "The present value of expected financial distress and bankruptcy costs."
@@ -607,10 +607,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The static trade-off theory establishes that optimal corporate leverage balances the tax benefits of debt interest deductions against the escalating probability of financial distress.\"",
           "options": [
-            "Modigliani-Miller proved that equity is always cheaper than debt. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "Financial distress costs are zero in bankruptcy. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "Corporate value is maximized with zero revenue. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "The static trade-off theory establishes that optimal corporate leverage balances the tax benefits of debt interest deductions against the escalating probability of financial distress. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)"
+            "Modigliani-Miller proved that equity is always cheaper than debt.",
+            "Financial distress costs are zero in bankruptcy.",
+            "Corporate value is maximized with zero revenue.",
+            "The static trade-off theory establishes that optimal corporate leverage balances the tax benefits of debt interest deductions against the escalating probability of financial distress."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Modigliani-Miller analysis translation.",
@@ -619,10 +619,10 @@
         {
           "prompt": "In the absence of corporate taxes and market frictions, what happens to WACC as a company changes its debt-to-equity ratio under MM Proposition I?",
           "options": [
-            "WACC equals the risk-free rate. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "WACC increases exponentially. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "WACC remains completely constant. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)",
-            "WACC drops to zero. (ModiglianiMiller Theorems  The Limits of Leverage MM Proposition I without taxes)"
+            "WACC equals the risk-free rate.",
+            "WACC increases exponentially.",
+            "WACC remains completely constant.",
+            "WACC drops to zero."
           ],
           "answerIndex": 2,
           "explanation": "WACC remains completely constant.",
@@ -659,10 +659,10 @@
         {
           "prompt": "Why is the Adjusted Present Value (APV) method mathematically superior to WACC for valuing Leveraged Buyouts (LBOs)?",
           "options": [
-            "Because LBOs have changing debt-to-equity ratios as debt is aggressively paid down, violating WACC's constant-D/E assumption. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "Because APV eliminates all corporate taxes. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "Because APV requires no cash flow forecasts. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "Because WACC cannot be calculated on computers. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)"
+            "Because LBOs have changing debt-to-equity ratios as debt is aggressively paid down, violating WACC's constant-D/E assumption.",
+            "Because APV eliminates all corporate taxes.",
+            "Because APV requires no cash flow forecasts.",
+            "Because WACC cannot be calculated on computers."
           ],
           "answerIndex": 0,
           "explanation": "Because LBOs have changing debt-to-equity ratios as debt is paid down."
@@ -674,10 +674,10 @@
         {
           "prompt": "Under the APV framework with predetermined fixed debt dollar levels, at what discount rate should interest tax shields be discounted?",
           "options": [
-            "At the WACC (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "At the risk-free rate (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "At zero (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "At the cost of debt r_d (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)"
+            "At the WACC",
+            "At the risk-free rate",
+            "At zero",
+            "At the cost of debt r_d"
           ],
           "answerIndex": 3,
           "explanation": "At the cost of debt r_d (reflecting debt default risk)."
@@ -689,10 +689,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The Adjusted Present Value framework separates the valuation of fundamental operational cash flows from financing side effects, providing precision for transactions with changing leverage ratios.\"",
           "options": [
-            "Tax shields have zero financial value in buyout modeling. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "Unlevered cost of equity is always higher than levered cost of equity. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "The Adjusted Present Value framework separates the valuation of fundamental operational cash flows from financing side effects, providing precision for transactions with changing leverage ratios. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "APV cannot be used for any company with debt. (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)"
+            "Tax shields have zero financial value in buyout modeling.",
+            "Unlevered cost of equity is always higher than levered cost of equity.",
+            "The Adjusted Present Value framework separates the valuation of fundamental operational cash flows from financing side effects, providing precision for transactions with changing leverage ratios.",
+            "APV cannot be used for any company with debt."
           ],
           "answerIndex": 2,
           "explanation": "Accurate APV analysis translation.",
@@ -701,10 +701,10 @@
         {
           "prompt": "What discount rate is used to compute the base-case unlevered enterprise value V_U in the APV model?",
           "options": [
-            "The weighted average cost of capital (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "The unlevered cost of equity (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "The pre-tax cost of debt (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)",
-            "The levered cost of equity (Adjusted Present Value APV Framework for Highly Leveraged Transactions The APV valuation equation)"
+            "The weighted average cost of capital",
+            "The unlevered cost of equity",
+            "The pre-tax cost of debt",
+            "The levered cost of equity"
           ],
           "answerIndex": 1,
           "explanation": "The unlevered cost of equity (r_0).",
@@ -756,7 +756,7 @@
         {
           "prompt": "In corporate valuation, under what capital structure policy is standard WACC mathematically equivalent to Adjusted Present Value (APV)?",
           "options": [
-            "When debt is rebalanced continuously to maintain a strictly constant market debt-to-equity ratio (Miles-Ezzell condition)",
+            "When debt is rebalanced continuously to maintain a strictly constant market debt-to-equity ratio",
             "When the company has zero cash flow. (Module Capstone)",
             "When tax rates are 100%. (Module Capstone)",
             "Never. (Module Capstone)"
@@ -905,10 +905,10 @@
         {
           "prompt": "If a company has DSO of 40 days, DIO of 50 days, and negotiates with suppliers to increase DPO from 30 days to 60 days, what is its new Cash Conversion Cycle?",
           "options": [
-            "30 days (Working Capital Modeling)",
-            "60 days (Working Capital Modeling)",
-            "90 days (Working Capital Modeling)",
-            "150 days (Working Capital Modeling)"
+            "30 days",
+            "60 days",
+            "90 days",
+            "150 days"
           ],
           "answerIndex": 0,
           "explanation": "30 days (40 + 50 - 60)."
@@ -920,10 +920,10 @@
         {
           "prompt": "How does an increase in Accounts Receivable on the Balance Sheet affect the Cash Flow Statement?",
           "options": [
-            "It represents uncollected revenue and is subtracted as a cash outflow from Cash Flow from Operations. (Working Capital Modeling)",
-            "It has zero impact on cash. (Working Capital Modeling)",
-            "It increases financing cash flow. (Working Capital Modeling)",
-            "It is added as a cash inflow. (Working Capital Modeling)"
+            "It represents uncollected revenue and is subtracted as a cash outflow from Cash Flow from Operations.",
+            "It has zero impact on cash.",
+            "It increases financing cash flow.",
+            "It is added as a cash inflow."
           ],
           "answerIndex": 0,
           "explanation": "It is subtracted as a cash outflow from Cash Flow from Operations."
@@ -935,10 +935,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The cash conversion cycle quantifies working capital operational efficiency, where a negative cycle enables the enterprise to fund business growth using supplier credit float.\"",
           "options": [
-            "Working capital is always equal to total long-term debt. (Working Capital Modeling)",
-            "DSO measures the number of employees in a factory. (Working Capital Modeling)",
-            "Accounts payable must be paid in gold bullion daily. (Working Capital Modeling)",
-            "The cash conversion cycle quantifies working capital operational efficiency, where a negative cycle enables the enterprise to fund business growth using supplier credit float. (Working Capital Modeling)"
+            "Working capital is always equal to total long-term debt.",
+            "DSO measures the number of employees in a factory.",
+            "Accounts payable must be paid in gold bullion daily.",
+            "The cash conversion cycle quantifies working capital operational efficiency, where a negative cycle enables the enterprise to fund business growth using supplier credit float."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Working capital analysis translation.",
@@ -947,10 +947,10 @@
         {
           "prompt": "What activity ratio measures the average number of days required to turn inventory into completed sales?",
           "options": [
-            "Days Sales Outstanding (Working Capital Modeling)",
-            "Days Payable Outstanding (Working Capital Modeling)",
-            "Days Inventory Outstanding (Working Capital Modeling)",
-            "Asset Turnover (Working Capital Modeling)"
+            "Days Sales Outstanding",
+            "Days Payable Outstanding",
+            "Days Inventory Outstanding",
+            "Asset Turnover"
           ],
           "answerIndex": 2,
           "explanation": "Days Inventory Outstanding (DIO / DSI).",
@@ -1069,10 +1069,10 @@
         {
           "prompt": "If an enterprise has EBIT of $100M, a 25% tax rate, D&A of $20M, CapEx of $30M, and an increase in working capital of $10M, what is its FCFF?",
           "options": [
-            "$55M (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "$75M (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "$100M (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "$45M (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)"
+            "$55M",
+            "$75M",
+            "$100M",
+            "$45M"
           ],
           "answerIndex": 0,
           "explanation": "$55M ($75M + $20M - $30M - $10M)."
@@ -1084,10 +1084,10 @@
         {
           "prompt": "Which discount rate must strictly be used when discounting Free Cash Flow to Equity (FCFE) in a DCF model?",
           "options": [
-            "Weighted Average Cost of Capital (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Pre-tax Cost of Debt (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Treasury Bill Yield (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Cost of Equity (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)"
+            "Weighted Average Cost of Capital",
+            "Pre-tax Cost of Debt",
+            "Treasury Bill Yield",
+            "Cost of Equity"
           ],
           "answerIndex": 3,
           "explanation": "Cost of Equity (r_e)."
@@ -1099,10 +1099,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Free cash flow to firm represents unlevered cash generated by core operations available to all capital providers, discounted at WACC to derive enterprise value.\"",
           "options": [
-            "FCFE must be discounted at the risk-free rate. (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Free cash flow to firm represents unlevered cash generated by core operations available to all capital providers, discounted at WACC to derive enterprise value. (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Net borrowing is added to FCFF to calculate enterprise value. (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "FCFF is calculated by subtracting total revenue from dividends. (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)"
+            "FCFE must be discounted at the risk-free rate.",
+            "Free cash flow to firm represents unlevered cash generated by core operations available to all capital providers, discounted at WACC to derive enterprise value.",
+            "Net borrowing is added to FCFF to calculate enterprise value.",
+            "FCFF is calculated by subtracting total revenue from dividends."
           ],
           "answerIndex": 1,
           "explanation": "Accurate FCFF and FCFE analysis translation.",
@@ -1111,10 +1111,10 @@
         {
           "prompt": "What term in the FCFF equation represents Net Operating Profit After Taxes (EBIT * (1 - T_c))?",
           "options": [
-            "NOPAT (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Net Income (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "Gross Profit (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)",
-            "EBITDA (Free Cash Flow to Firm FCFF vs Free Cash Flow to Equity FCFE)"
+            "NOPAT",
+            "Net Income",
+            "Gross Profit",
+            "EBITDA"
           ],
           "answerIndex": 0,
           "explanation": "NOPAT.",
@@ -1151,10 +1151,10 @@
         {
           "prompt": "If Year 5 FCFF is $50M, WACC is 9.0%, and the perpetual growth rate g is 2.0%, what is the undiscounted Terminal Value at Year 5 under Gordon Growth?",
           "options": [
-            "$500.00M (Terminal Value Calculations)",
-            "$1,000.00M (Terminal Value Calculations)",
-            "$555.55M (Terminal Value Calculations)",
-            "$728.57M (Terminal Value Calculations)"
+            "$500.00M",
+            "$1,000.00M",
+            "$555.55M",
+            "$728.57M"
           ],
           "answerIndex": 3,
           "explanation": "$728.57M ($51.0M / 0.07)."
@@ -1166,10 +1166,10 @@
         {
           "prompt": "Why is it economically impossible for a perpetual long-term growth rate g in a Gordon Growth model to exceed the nominal GDP growth rate of the broader economy?",
           "options": [
-            "Because the company would mathematically become larger than the entire global economy over time. (Terminal Value Calculations)",
-            "Because SEC rules cap growth at 1%. (Terminal Value Calculations)",
-            "Because inflation would reach infinity. (Terminal Value Calculations)",
-            "Because WACC would equal zero. (Terminal Value Calculations)"
+            "Because the company would mathematically become larger than the entire global economy over time.",
+            "Because SEC rules cap growth at 1%.",
+            "Because inflation would reach infinity.",
+            "Because WACC would equal zero."
           ],
           "answerIndex": 0,
           "explanation": "Because the company would mathematically become larger than the entire global economy."
@@ -1181,10 +1181,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Terminal value typically constitutes seventy to eighty percent of total enterprise value in a discounted cash flow model, necessitating rigorous sensitivity testing of exit multiples and growth rates.\"",
           "options": [
-            "Terminal value typically constitutes seventy to eighty percent of total enterprise value in a discounted cash flow model, necessitating rigorous sensitivity testing of exit multiples and growth rates. (Terminal Value Calculations)",
-            "Gordon growth formula requires WACC to be strictly smaller than g. (Terminal Value Calculations)",
-            "Terminal value is always zero in corporate valuation. (Terminal Value Calculations)",
-            "Exit multiples cannot be applied to EBITDA. (Terminal Value Calculations)"
+            "Terminal value typically constitutes seventy to eighty percent of total enterprise value in a discounted cash flow model, necessitating rigorous sensitivity testing of exit multiples and growth rates.",
+            "Gordon growth formula requires WACC to be strictly smaller than g.",
+            "Terminal value is always zero in corporate valuation.",
+            "Exit multiples cannot be applied to EBITDA."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Terminal value analysis translation.",
@@ -1193,10 +1193,10 @@
         {
           "prompt": "How is undiscounted Terminal Value calculated at time T using the Exit Multiple method with an EV/EBITDA multiple of 10.0x and Year T EBITDA of $80M?",
           "options": [
-            "$8M (Terminal Value Calculations)",
-            "$80M (Terminal Value Calculations)",
-            "$8,000M (Terminal Value Calculations)",
-            "$800M (Terminal Value Calculations)"
+            "$8M",
+            "$80M",
+            "$8,000M",
+            "$800M"
           ],
           "answerIndex": 3,
           "explanation": "$800M ($80M * 10.0x).",
@@ -1233,10 +1233,10 @@
         {
           "prompt": "If an enterprise has an Enterprise Value of $5,000M, Total Debt of $1,200M, Cash of $400M, and Minority Interest of $200M, what is its Equity Value?",
           "options": [
-            "$4,000M (The Enterprise Value to Equity Value Bridge)",
-            "$3,600M (The Enterprise Value to Equity Value Bridge)",
-            "$6,400M (The Enterprise Value to Equity Value Bridge)",
-            "$5,000M (The Enterprise Value to Equity Value Bridge)"
+            "$4,000M",
+            "$3,600M",
+            "$6,400M",
+            "$5,000M"
           ],
           "answerIndex": 0,
           "explanation": "$4,000M ($5,000M - $1,200M + $400M - $200M)."
@@ -1248,10 +1248,10 @@
         {
           "prompt": "Under the Treasury Stock Method (TSM), if an employee exercises 100,000 options at strike $20 when the market stock price is $50, how many net new dilutive shares are issued?",
           "options": [
-            "60,000 shares (The Enterprise Value to Equity Value Bridge)",
-            "Zero (The Enterprise Value to Equity Value Bridge)",
-            "100,000 shares (The Enterprise Value to Equity Value Bridge)",
-            "40,000 shares (The Enterprise Value to Equity Value Bridge)"
+            "60,000 shares",
+            "Zero",
+            "100,000 shares",
+            "40,000 shares"
           ],
           "answerIndex": 0,
           "explanation": "60,000 shares (Proceeds $2M buys back 40,000 shares at $50, leaving 60,000 net new shares)."
@@ -1263,10 +1263,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The Treasury Stock Method assumes option exercise proceeds are fully deployed to repurchase common shares at current market prices, determining net dilutive share count.\"",
           "options": [
-            "Minority interest represents shares owned by the government. (The Enterprise Value to Equity Value Bridge)",
-            "Enterprise value is always equal to share price multiplied by basic shares. (The Enterprise Value to Equity Value Bridge)",
-            "Cash is subtracted from enterprise value to find equity value. (The Enterprise Value to Equity Value Bridge)",
-            "The Treasury Stock Method assumes option exercise proceeds are fully deployed to repurchase common shares at current market prices, determining net dilutive share count. (The Enterprise Value to Equity Value Bridge)"
+            "Minority interest represents shares owned by the government.",
+            "Enterprise value is always equal to share price multiplied by basic shares.",
+            "Cash is subtracted from enterprise value to find equity value.",
+            "The Treasury Stock Method assumes option exercise proceeds are fully deployed to repurchase common shares at current market prices, determining net dilutive share count."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Valuation bridge analysis translation.",
@@ -1275,10 +1275,10 @@
         {
           "prompt": "What financial metric is calculated by dividing total Equity Value by Fully Diluted Shares Outstanding (FDSO)?",
           "options": [
-            "Earnings Per Share (The Enterprise Value to Equity Value Bridge)",
-            "Enterprise Multiple (The Enterprise Value to Equity Value Bridge)",
-            "Implied Share Price (The Enterprise Value to Equity Value Bridge)",
-            "Book Value Per Share (The Enterprise Value to Equity Value Bridge)"
+            "Earnings Per Share",
+            "Enterprise Multiple",
+            "Implied Share Price",
+            "Book Value Per Share"
           ],
           "answerIndex": 2,
           "explanation": "Implied Share Price.",
@@ -1315,10 +1315,10 @@
         {
           "prompt": "Which two variables are standardly evaluated in an institutional two-way DCF sensitivity data table to define the core valuation range?",
           "options": [
-            "WACC and Perpetual Terminal Growth Rate (DCF Sensitivity Analysis)",
-            "Tax Rate and Number of Employees (DCF Sensitivity Analysis)",
-            "Dividends and Office Rent (DCF Sensitivity Analysis)",
-            "Inventory and Accounts Payable (DCF Sensitivity Analysis)"
+            "WACC and Perpetual Terminal Growth Rate",
+            "Tax Rate and Number of Employees",
+            "Dividends and Office Rent",
+            "Inventory and Accounts Payable"
           ],
           "answerIndex": 0,
           "explanation": "WACC and Perpetual Terminal Growth Rate (g)."
@@ -1330,10 +1330,10 @@
         {
           "prompt": "What graphical tool sorts input parameter sensitivities horizontally from widest value impact to smallest impact on target enterprise value?",
           "options": [
-            "Pie Chart (DCF Sensitivity Analysis)",
-            "Tornado Chart (DCF Sensitivity Analysis)",
-            "Radar Chart (DCF Sensitivity Analysis)",
-            "Scatter Plot (DCF Sensitivity Analysis)"
+            "Pie Chart",
+            "Tornado Chart",
+            "Radar Chart",
+            "Scatter Plot"
           ],
           "answerIndex": 1,
           "explanation": "Tornado Chart (Diagrami Tornado)."
@@ -1345,10 +1345,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Monte Carlo DCF simulations execute thousands of random parameter draws to generate continuous probability distributions of implied equity value and downside risk.\"",
           "options": [
-            "Sensitivity tables are prohibited by securities regulators. (DCF Sensitivity Analysis)",
-            "Monte Carlo models require all inputs to be deterministic constants. (DCF Sensitivity Analysis)",
-            "Monte Carlo DCF simulations execute thousands of random parameter draws to generate continuous probability distributions of implied equity value and downside risk. (DCF Sensitivity Analysis)",
-            "Tornado charts are only used in meteorological forecasting. (DCF Sensitivity Analysis)"
+            "Sensitivity tables are prohibited by securities regulators.",
+            "Monte Carlo models require all inputs to be deterministic constants.",
+            "Monte Carlo DCF simulations execute thousands of random parameter draws to generate continuous probability distributions of implied equity value and downside risk.",
+            "Tornado charts are only used in meteorological forecasting."
           ],
           "answerIndex": 2,
           "explanation": "Accurate DCF sensitivity analysis translation.",
@@ -1357,10 +1357,10 @@
         {
           "prompt": "What happens to the implied share price in a DCF sensitivity table when WACC decreases and the perpetual growth rate g increases?",
           "options": [
-            "The implied share price drops to zero. (DCF Sensitivity Analysis)",
+            "The implied share price drops to zero.",
             "The implied share price increases significantly (expanding valuation multiples)",
-            "The share price becomes negative. (DCF Sensitivity Analysis)",
-            "The share price remains unchanged. (DCF Sensitivity Analysis)"
+            "The share price becomes negative.",
+            "The share price remains unchanged."
           ],
           "answerIndex": 1,
           "explanation": "The implied share price increases significantly.",
@@ -1479,10 +1479,10 @@
         {
           "prompt": "Which option Greek measures the change in an option's Delta with respect to a change in the underlying asset price?",
           "options": [
-            "Gamma (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Theta (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Rho (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Vega (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)"
+            "Gamma",
+            "Theta",
+            "Rho",
+            "Vega"
           ],
           "answerIndex": 0,
           "explanation": "Gamma."
@@ -1494,10 +1494,10 @@
         {
           "prompt": "In the Black-Scholes call formula C = S*N(d1) - K*e^{-rT}*N(d2), what does N(d2) represent under risk-neutral probabilities?",
           "options": [
-            "The stock volatility. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "The risk-free rate. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "The hedge ratio Delta. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "The risk-neutral probability that the call option will expire in-the-money (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)"
+            "The stock volatility.",
+            "The risk-free rate.",
+            "The hedge ratio Delta.",
+            "The risk-neutral probability that the call option will expire in-the-money"
           ],
           "answerIndex": 3,
           "explanation": "The risk-neutral probability that the option expires in-the-money."
@@ -1509,10 +1509,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Dynamic delta hedging neutralizes portfolio directional price risk by continuously adjusting stock positions equal to the option delta N(d1).\"",
           "options": [
-            "Dynamic delta hedging neutralizes portfolio directional price risk by continuously adjusting stock positions equal to the option delta N (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Black-Scholes model assumes stock prices follow a linear straight line. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Vega measures option sensitivity to company dividend yield. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Theta is always positive for long option positions. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)"
+            "Dynamic delta hedging neutralizes portfolio directional price risk by continuously adjusting stock positions equal to the option delta N",
+            "Black-Scholes model assumes stock prices follow a linear straight line.",
+            "Vega measures option sensitivity to company dividend yield.",
+            "Theta is always positive for long option positions."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Black-Scholes analysis translation.",
@@ -1521,10 +1521,10 @@
         {
           "prompt": "What happens to the time decay Theta of a standard long European option as expiration approaches?",
           "options": [
-            "Theta becomes zero. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Theta becomes positive. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Theta remains constant. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)",
-            "Theta decay accelerates rapidly as time to expiration approaches zero. (The BlackScholesMerton Model  Greek Sensitivities BlackScholesMerton PDE under Geometric Brownian Motion)"
+            "Theta becomes zero.",
+            "Theta becomes positive.",
+            "Theta remains constant.",
+            "Theta decay accelerates rapidly as time to expiration approaches zero."
           ],
           "answerIndex": 3,
           "explanation": "Theta decay accelerates rapidly.",
@@ -1561,10 +1561,10 @@
         {
           "prompt": "Which option Greek acts as the first derivative denominator in the Newton-Raphson root-finding algorithm for extracting implied volatility?",
           "options": [
-            "Delta (The Implied Volatility Surface)",
-            "Gamma (The Implied Volatility Surface)",
-            "Theta (The Implied Volatility Surface)",
-            "Vega (The Implied Volatility Surface)"
+            "Delta",
+            "Gamma",
+            "Theta",
+            "Vega"
           ],
           "answerIndex": 3,
           "explanation": "Vega (V)."
@@ -1576,10 +1576,10 @@
         {
           "prompt": "Why do equity index option markets exhibit a pronounced volatility skew, where deep out-of-the-money puts trade at higher implied volatilities?",
           "options": [
-            "Because investors price in fat-tail crash risk and demand downside disaster insurance after the 1987 crash. (The Implied Volatility Surface)",
-            "Because puts are cheaper to print. (The Implied Volatility Surface)",
-            "Because interest rates are negative. (The Implied Volatility Surface)",
-            "Because call options are illegal. (The Implied Volatility Surface)"
+            "Because investors price in fat-tail crash risk and demand downside disaster insurance after the 1987 crash.",
+            "Because puts are cheaper to print.",
+            "Because interest rates are negative.",
+            "Because call options are illegal."
           ],
           "answerIndex": 0,
           "explanation": "Because investors price in fat-tail crash risk."
@@ -1591,10 +1591,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"The implied volatility surface captures non-constant volatility dynamics across strike prices and expiration horizons, resolving Black-Scholes fat-tail distribution anomalies.\"",
           "options": [
-            "Newton-Raphson inversion cannot converge on digital computers. (The Implied Volatility Surface)",
-            "Volatility skew was eliminated in 1987. (The Implied Volatility Surface)",
-            "Implied volatility is always constant at 10% across all strikes. (The Implied Volatility Surface)",
-            "The implied volatility surface captures non-constant volatility dynamics across strike prices and expiration horizons, resolving Black-Scholes fat-tail distribution anomalies. (The Implied Volatility Surface)"
+            "Newton-Raphson inversion cannot converge on digital computers.",
+            "Volatility skew was eliminated in 1987.",
+            "Implied volatility is always constant at 10% across all strikes.",
+            "The implied volatility surface captures non-constant volatility dynamics across strike prices and expiration horizons, resolving Black-Scholes fat-tail distribution anomalies."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Implied volatility surface analysis translation.",
@@ -1603,10 +1603,10 @@
         {
           "prompt": "What financial index, known as the market's fear gauge, measures 30-day forward implied volatility of the S&P 500 index?",
           "options": [
-            "The Dow Jones Index (The Implied Volatility Surface)",
-            "The Federal Funds Rate (The Implied Volatility Surface)",
-            "The CBOE VIX Index (The Implied Volatility Surface)",
-            "The Consumer Price Index (The Implied Volatility Surface)"
+            "The Dow Jones Index",
+            "The Federal Funds Rate",
+            "The CBOE VIX Index",
+            "The Consumer Price Index"
           ],
           "answerIndex": 2,
           "explanation": "The CBOE VIX Index.",
@@ -1643,10 +1643,10 @@
         {
           "prompt": "Which type of financial option mathematically models a mining company's right to sell off plant equipment for salvage value if commodity prices crash?",
           "options": [
-            "An American Put Option (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "A Forward Contract (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "A Convertible Bond (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "A European Call Option (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)"
+            "An American Put Option",
+            "A Forward Contract",
+            "A Convertible Bond",
+            "A European Call Option"
           ],
           "answerIndex": 0,
           "explanation": "An American Put Option (Option to Abandon)."
@@ -1658,10 +1658,10 @@
         {
           "prompt": "Why can a project with a negative static DCF NPV have a highly positive strategic value when evaluated with Real Options?",
           "options": [
-            "Because high volatility increases option value, and management can choose to delay or abandon if outcomes are unfavorable. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "Because DCF models are always incorrect. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "Because real options ignore costs. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "Because interest rates are set to zero. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)"
+            "Because high volatility increases option value, and management can choose to delay or abandon if outcomes are unfavorable.",
+            "Because DCF models are always incorrect.",
+            "Because real options ignore costs.",
+            "Because interest rates are set to zero."
           ],
           "answerIndex": 0,
           "explanation": "Because volatility increases option value, and management can delay or abandon."
@@ -1673,10 +1673,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Real options valuation models strategic managerial flexibility as contingent claims, using binomial lattices to value growth options and abandonment floors.\"",
           "options": [
-            "Binomial lattice trees cannot be solved using backward induction. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "Real options can only be traded on public equity exchanges. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "Real options valuation models strategic managerial flexibility as contingent claims, using binomial lattices to value growth options and abandonment floors. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "Traditional static DCF captures 100% of managerial flexibility. (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)"
+            "Binomial lattice trees cannot be solved using backward induction.",
+            "Real options can only be traded on public equity exchanges.",
+            "Real options valuation models strategic managerial flexibility as contingent claims, using binomial lattices to value growth options and abandonment floors.",
+            "Traditional static DCF captures 100% of managerial flexibility."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Real options analysis translation.",
@@ -1685,10 +1685,10 @@
         {
           "prompt": "What formula calculates the upward price jump factor u in a standard Cox-Ross-Rubinstein binomial option lattice?",
           "options": [
-            "u = 1 + r (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "u = e^ (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "u = sigma / delta_t (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)",
-            "u = log (Real Options in Strategic Capital Budgeting Managerial flexibility as financial options)"
+            "u = 1 + r",
+            "u = e^",
+            "u = sigma / delta_t",
+            "u = log"
           ],
           "answerIndex": 1,
           "explanation": "u = e^(sigma * sqrt(delta_t)).",
@@ -1725,10 +1725,10 @@
         {
           "prompt": "If an acquirer pays $500M for a target with book equity of $200M, writes up intangible assets by $100M, and has a 25% tax rate, what new Deferred Tax Liability (DTL) is created?",
           "options": [
-            "$25M (MA Financial Modeling)",
-            "$100M (MA Financial Modeling)",
-            "$125M (MA Financial Modeling)",
-            "$0 (MA Financial Modeling)"
+            "$25M",
+            "$100M",
+            "$125M",
+            "$0"
           ],
           "answerIndex": 0,
           "explanation": "$25M ($100M * 25%)."
@@ -1740,10 +1740,10 @@
         {
           "prompt": "Under modern US GAAP (ASC 805) and IFRS 3, how is corporate Goodwill accounted for on the balance sheet following an acquisition?",
           "options": [
-            "It is expensed immediately on day 1. (MA Financial Modeling)",
-            "It is capitalized as an indefinite-lived asset and tested annually for impairment, but not amortized. (MA Financial Modeling)",
-            "It is subtracted from cash. (MA Financial Modeling)",
-            "It is amortized linearly over 5 years. (MA Financial Modeling)"
+            "It is expensed immediately on day 1.",
+            "It is capitalized as an indefinite-lived asset and tested annually for impairment, but not amortized.",
+            "It is subtracted from cash.",
+            "It is amortized linearly over 5 years."
           ],
           "answerIndex": 1,
           "explanation": "It is capitalized and tested annually for impairment."
@@ -1755,10 +1755,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Purchase price allocation writes up target tangible and intangible assets to fair market value, establishing deferred tax liabilities and capitalizing residual goodwill on the consolidated balance sheet.\"",
           "options": [
-            "Goodwill is a physical inventory asset stored in warehouses. (MA Financial Modeling)",
-            "Purchase price allocation writes up target tangible and intangible assets to fair market value, establishing deferred tax liabilities and capitalizing residual goodwill on the consolidated balance sheet. (MA Financial Modeling)",
-            "DTL is created when target book value exceeds purchase price. (MA Financial Modeling)",
-            "All M&A transactions are prohibited from creating goodwill. (MA Financial Modeling)"
+            "Goodwill is a physical inventory asset stored in warehouses.",
+            "Purchase price allocation writes up target tangible and intangible assets to fair market value, establishing deferred tax liabilities and capitalizing residual goodwill on the consolidated balance sheet.",
+            "DTL is created when target book value exceeds purchase price.",
+            "All M&A transactions are prohibited from creating goodwill."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Purchase price allocation analysis translation.",
@@ -1767,10 +1767,10 @@
         {
           "prompt": "What accounting formula defines residual Goodwill created in an acquisition?",
           "options": [
-            "Purchase Price - Fair Value of Net Identifiable Assets (MA Financial Modeling)",
-            "EBITDA * WACC (MA Financial Modeling)",
-            "Total Assets + Total Liabilities (MA Financial Modeling)",
-            "Revenue minus Cost of Goods Sold (MA Financial Modeling)"
+            "Purchase Price - Fair Value of Net Identifiable Assets",
+            "EBITDA * WACC",
+            "Total Assets + Total Liabilities",
+            "Revenue minus Cost of Goods Sold"
           ],
           "answerIndex": 0,
           "explanation": "Purchase Price - Fair Value of Net Identifiable Assets.",
@@ -1807,10 +1807,10 @@
         {
           "prompt": "In a 100% stock-financed acquisition with no synergies, what condition guarantees that the transaction will be immediately accretive to the acquirer's EPS?",
           "options": [
-            "The target has zero debt. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "The acquirer has a lower stock price. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "The target has more employees. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "The acquirer's P/E multiple is strictly higher than the target's purchase P/E multiple (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)"
+            "The target has zero debt.",
+            "The acquirer has a lower stock price.",
+            "The target has more employees.",
+            "The acquirer's P/E multiple is strictly higher than the target's purchase P/E multiple"
           ],
           "answerIndex": 3,
           "explanation": "The acquirer's P/E multiple is strictly higher than the target's purchase P/E multiple."
@@ -1822,10 +1822,10 @@
         {
           "prompt": "Why do investment bankers and equity analysts apply a higher discount rate and lower realization probability to revenue synergies compared to cost synergies?",
           "options": [
-            "Because cost synergies are illegal. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Because revenue synergies are always zero. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Because GAAP requires it. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Because revenue synergies depend on uncertain customer purchasing behavior and cross-selling execution, whereas cost redundancies are directly controllable. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)"
+            "Because cost synergies are illegal.",
+            "Because revenue synergies are always zero.",
+            "Because GAAP requires it.",
+            "Because revenue synergies depend on uncertain customer purchasing behavior and cross-selling execution, whereas cost redundancies are directly controllable."
           ],
           "answerIndex": 3,
           "explanation": "Because revenue synergies depend on uncertain customer behavior and cross-selling."
@@ -1837,10 +1837,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Accretion/dilution models evaluate post-merger earnings per share expansion by synthesizing financing interest costs, share dilution, and tax-effected operational synergies.\"",
           "options": [
-            "Accretion/dilution models evaluate post-merger earnings per share expansion by synthesizing financing interest costs, share dilution, and tax-effected operational synergies. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "P/E ratios have zero relevance in stock acquisition modeling. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Cost synergies are always subtracted from net income. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Dilution occurs only when a company pays off all its debt. (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)"
+            "Accretion/dilution models evaluate post-merger earnings per share expansion by synthesizing financing interest costs, share dilution, and tax-effected operational synergies.",
+            "P/E ratios have zero relevance in stock acquisition modeling.",
+            "Cost synergies are always subtracted from net income.",
+            "Dilution occurs only when a company pays off all its debt."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Accretion/dilution analysis translation.",
@@ -1849,10 +1849,10 @@
         {
           "prompt": "If an acquisition decreases the combined company's pro forma EPS from $4.00 standalone to $3.60 pro forma, how is the transaction classified?",
           "options": [
-            "Accretive (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Break-even (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Synergistic (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)",
-            "Dilutive (MA AccretionDilution Analysis  Synergy Valuation EPS AccretionDilution modeling)"
+            "Accretive",
+            "Break-even",
+            "Synergistic",
+            "Dilutive"
           ],
           "answerIndex": 3,
           "explanation": "Dilutive (by $0.40 per share).",
@@ -1889,10 +1889,10 @@
         {
           "prompt": "If a private equity sponsor invests $100M of equity in an LBO and exits 5 years later with $248.8M in equity proceeds, what is the realized IRR?",
           "options": [
-            "20.00% (Leveraged Buyout LBO Model Mechanics)",
-            "50.00% (Leveraged Buyout LBO Model Mechanics)",
-            "14.88% (Leveraged Buyout LBO Model Mechanics)",
-            "24.88% (Leveraged Buyout LBO Model Mechanics)"
+            "20.00%",
+            "50.00%",
+            "14.88%",
+            "24.88%"
           ],
           "answerIndex": 0,
           "explanation": "20.00% ( ^0.2 - 1 = 1.20 - 1)."
@@ -1904,10 +1904,10 @@
         {
           "prompt": "Which of the following represents the three fundamental economic drivers of private equity equity returns in an LBO?",
           "options": [
-            "Printing currency, inflation, and government bailouts (Leveraged Buyout LBO Model Mechanics)",
-            "Stock splits, dividend cuts, and inventory buildup (Leveraged Buyout LBO Model Mechanics)",
+            "Printing currency, inflation, and government bailouts",
+            "Stock splits, dividend cuts, and inventory buildup",
             "Deleveraging (Debt Paydown)",
-            "Accounts payable delays only (Leveraged Buyout LBO Model Mechanics)"
+            "Accounts payable delays only"
           ],
           "answerIndex": 2,
           "explanation": "Deleveraging (Debt Paydown), EBITDA Operational Growth, and Multiple Expansion."
@@ -1919,10 +1919,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Leveraged buyout models maximize equity returns by utilizing target operational cash flows to amortize senior debt, transferring enterprise value to the financial sponsor.\"",
           "options": [
-            "Private equity funds target an IRR of zero percent. (Leveraged Buyout LBO Model Mechanics)",
-            "LBOs are funded with 100% cash and zero debt. (Leveraged Buyout LBO Model Mechanics)",
-            "MoIC is calculated by dividing annual revenue by total debt. (Leveraged Buyout LBO Model Mechanics)",
-            "Leveraged buyout models maximize equity returns by utilizing target operational cash flows to amortize senior debt, transferring enterprise value to the financial sponsor. (Leveraged Buyout LBO Model Mechanics)"
+            "Private equity funds target an IRR of zero percent.",
+            "LBOs are funded with 100% cash and zero debt.",
+            "MoIC is calculated by dividing annual revenue by total debt.",
+            "Leveraged buyout models maximize equity returns by utilizing target operational cash flows to amortize senior debt, transferring enterprise value to the financial sponsor."
           ],
           "answerIndex": 3,
           "explanation": "Accurate LBO analysis translation.",
@@ -1931,10 +1931,10 @@
         {
           "prompt": "What table in an LBO model details exactly where capital is raised and how it is deployed for purchase price, debt refinancing, and transaction fees?",
           "options": [
-            "Income Statement (Leveraged Buyout LBO Model Mechanics)",
-            "Tax Schedule (Leveraged Buyout LBO Model Mechanics)",
-            "Sources and Uses of Funds Table (Leveraged Buyout LBO Model Mechanics)",
-            "Depreciation Schedule (Leveraged Buyout LBO Model Mechanics)"
+            "Income Statement",
+            "Tax Schedule",
+            "Sources and Uses of Funds Table",
+            "Depreciation Schedule"
           ],
           "answerIndex": 2,
           "explanation": "Sources and Uses of Funds Table.",
@@ -1971,10 +1971,10 @@
         {
           "prompt": "If a $1,000 par value convertible bond has a conversion price of $25 per share, what is its conversion ratio (number of shares per bond)?",
           "options": [
-            "25 shares (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "10 shares (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "50 shares (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "40 shares (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)"
+            "25 shares",
+            "10 shares",
+            "50 shares",
+            "40 shares"
           ],
           "answerIndex": 3,
           "explanation": "40 shares ($1,000 / $25)."
@@ -1987,9 +1987,9 @@
           "prompt": "What financial component provides downside protection to a convertible bond investor when the issuer's common stock price plummets?",
           "options": [
             "The Straight Bond Floor (the discounted value of contractual bond coupons and principal repayment)",
-            "The conversion premium. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "The stock dividend. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "The call option. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)"
+            "The conversion premium.",
+            "The stock dividend.",
+            "The call option."
           ],
           "answerIndex": 0,
           "explanation": "The Straight Bond Floor."
@@ -2001,10 +2001,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"A convertible bond bifurcates into a straight debt floor that protects downside capital and an embedded call option that captures equity appreciation.\"",
           "options": [
-            "Convertible bonds cannot be converted into stock under any circumstances. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "Conversion price is equal to total company market cap. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "A convertible bond bifurcates into a straight debt floor that protects downside capital and an embedded call option that captures equity appreciation. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "The straight bond floor is always zero. (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)"
+            "Convertible bonds cannot be converted into stock under any circumstances.",
+            "Conversion price is equal to total company market cap.",
+            "A convertible bond bifurcates into a straight debt floor that protects downside capital and an embedded call option that captures equity appreciation.",
+            "The straight bond floor is always zero."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Convertible bond analysis translation.",
@@ -2013,10 +2013,10 @@
         {
           "prompt": "What is the conversion value of a convertible bond with a conversion ratio of 50 shares when the common stock is trading at $30 per share?",
           "options": [
-            "$3,000 (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "$1,500 (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "$1,000 (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)",
-            "$500 (Convertible Bonds  Hybrid Securities Modeling Convertible bond architecture)"
+            "$3,000",
+            "$1,500",
+            "$1,000",
+            "$500"
           ],
           "answerIndex": 1,
           "explanation": "$1,500 (50 * $30).",
@@ -2053,10 +2053,10 @@
         {
           "prompt": "According to Covered Interest Rate Parity, if the spot USD/EUR rate is 1.10, the US risk-free rate is 5.0%, and the Eurozone risk-free rate is 2.0%, what is the 1-year forward rate F?",
           "options": [
-            "1.1324 (CrossBorder Valuation)",
-            "1.0686 (CrossBorder Valuation)",
-            "1.2000 (CrossBorder Valuation)",
-            "1.1000 (CrossBorder Valuation)"
+            "1.1324",
+            "1.0686",
+            "1.2000",
+            "1.1000"
           ],
           "answerIndex": 0,
           "explanation": "1.1324 (1.10 * 1.05 / 1.02)."
@@ -2068,10 +2068,10 @@
         {
           "prompt": "When valuing an emerging market subsidiary in local currency, what risk premium must be added to the cost of equity to reflect sovereign default risk and political volatility?",
           "options": [
-            "Country Risk Premium (CrossBorder Valuation)",
-            "Option Delta (CrossBorder Valuation)",
-            "Liquidity Discount (CrossBorder Valuation)",
-            "Goodwill Premium (CrossBorder Valuation)"
+            "Country Risk Premium",
+            "Option Delta",
+            "Liquidity Discount",
+            "Goodwill Premium"
           ],
           "answerIndex": 0,
           "explanation": "Country Risk Premium (CRP)."
@@ -2083,10 +2083,10 @@
         {
           "prompt": "Analyze the core theoretical principle: \"Covered interest rate parity aligns forward foreign exchange pricing with international interest rate differentials, ensuring cross-border discounted cash flow valuations remain arbitrage-free.\"",
           "options": [
-            "Cross-border valuation requires setting all foreign cash flows to zero. (CrossBorder Valuation)",
-            "Covered interest rate parity aligns forward foreign exchange pricing with international interest rate differentials, ensuring cross-border discounted cash flow valuations remain arbitrage-free. (CrossBorder Valuation)",
-            "Interest rate parity guarantees that all countries have identical inflation rates. (CrossBorder Valuation)",
-            "Foreign exchange rates cannot be hedged using forward contracts. (CrossBorder Valuation)"
+            "Cross-border valuation requires setting all foreign cash flows to zero.",
+            "Covered interest rate parity aligns forward foreign exchange pricing with international interest rate differentials, ensuring cross-border discounted cash flow valuations remain arbitrage-free.",
+            "Interest rate parity guarantees that all countries have identical inflation rates.",
+            "Foreign exchange rates cannot be hedged using forward contracts."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Cross-border valuation analysis translation.",
@@ -2096,9 +2096,9 @@
           "prompt": "Under international financial parity conditions, which two cross-border DCF approaches yield mathematically identical enterprise values?",
           "options": [
             "The Foreign Currency approach (discounting in local currency)",
-            "Accounting book value and historical cost (CrossBorder Valuation)",
-            "LBO modeling and bankruptcy liquidation (CrossBorder Valuation)",
-            "Gordon growth and liquidation value (CrossBorder Valuation)"
+            "Accounting book value and historical cost",
+            "LBO modeling and bankruptcy liquidation",
+            "Gordon growth and liquidation value"
           ],
           "answerIndex": 0,
           "explanation": "The Foreign Currency approach and the Home Currency approach.",

@@ -503,10 +503,10 @@
         {
           "prompt": "Which Hiragana character corresponds to the vowel sound [i] (as in \"meet\")?",
           "options": [
-            "い (Understand the three Japanese scripts Hiragana key phrasing - U1L1)",
-            "あ (Understand the three Japanese scripts Hiragana key phrasing - U1L1)",
-            "う (Understand the three Japanese scripts Hiragana key phrasing - U1L1)",
-            "え (Understand the three Japanese scripts Hiragana key phrasing - U1L1)"
+            "い (Hiragana Vowels   K Row item 1)",
+            "あ (Hiragana Vowels   K Row item 2)",
+            "う (Hiragana Vowels   K Row item 3)",
+            "え (Hiragana Vowels   K Row item 4)"
           ],
           "answerIndex": 0,
           "explanation": "「い」 represents the vowel sound [i]. 「あ」 is [a], 「う」 is [u], and 「え」 is [e]."
@@ -514,7 +514,7 @@
         {
           "prompt": "Select the Hiragana word meaning \"train station\" composed of 「え」 [e] and 「き」 [ki]:",
           "options": [
-            "えき (Understand the three Japanese scripts Hiragana U1 - U1L1)",
+            "えき (eki - train station え e + き ki)",
             "あき (aki - autumn / fall - U1L1)",
             "かお (kao - face - U1L1)",
             "あい (ai - love - U1L1)"
@@ -529,10 +529,10 @@
         {
           "prompt": "Which Hiragana character from the K-row is pronounced [ko]?",
           "options": [
-            "こ (Understand the three Japanese scripts Hiragana key phrasing - U1L1)",
-            "か (Understand the three Japanese scripts Hiragana alternative form - U1L1)",
-            "き (Understand the three Japanese scripts Hiragana alternative form - U1L1)",
-            "く (Understand the three Japanese scripts Hiragana alternative form - U1L1)"
+            "こ (Hiragana Vowels   K Row item 1)",
+            "か (Hiragana Vowels   K Row item 2)",
+            "き (Hiragana Vowels   K Row item 3)",
+            "く (Hiragana Vowels   K Row item 4)"
           ],
           "answerIndex": 0,
           "explanation": "「こ」 is the K-row character pronounced [ko]."
@@ -540,7 +540,7 @@
         {
           "prompt": "Identify the Hiragana word meaning \"face\" combining 「か」 [ka] and 「お」 [o]:",
           "options": [
-            "かお (Understand the three Japanese scripts Hiragana U1 - U1L1)",
+            "かお (kao - face か ka + お o)",
             "こえ (koe - voice - U1L1)",
             "うえ (ue - above / on top - U1L1)",
             "いけ (ike - pond - U1L1)"
@@ -556,7 +556,7 @@
           "type": "multiple-choice",
           "prompt": "Which of the following Hiragana words means \"love\" (formed from vowels 「あ」 and 「い」)?",
           "options": [
-            "あい (Understand the three Japanese scripts Hiragana U1 - U1L1)",
+            "あい (ai - love あ a + い i)",
             "うえ (ue - above / on top - U1L1)",
             "あき (aki - autumn / fall - U1L1)",
             "えき (eki - station - U1L1)"
@@ -570,7 +570,10 @@
           "acceptedAnswers": [
             "えき"
           ],
-          "explanation": "「え」 + 「き」 = 「えき」 (*eki*)."
+          "explanation": "「え」 + 「き」 = 「えき」 (*eki*).",
+          "acceptableAnswers": [
+            "えき"
+          ]
         }
       ]
     }
@@ -620,9 +623,9 @@
           "prompt": "Which of the following Hiragana characters represents the sound [shi]?",
           "options": [
             "し (shi - U1L2)",
-            "さ (Master reading and writing the Srow alternative form - U1L2)",
-            "す (Master reading and writing the Srow alternative form - U1L2)",
-            "せ (Master reading and writing the Srow alternative form - U1L2)"
+            "さ (Hiragana S Row   T Row item 2)",
+            "す (Hiragana S Row   T Row item 3)",
+            "せ (Hiragana S Row   T Row item 4)"
           ],
           "answerIndex": 0,
           "explanation": "「し」 is pronounced [shi]. In Japanese phonology, [s] + [i] naturally palatalizes to [shi]."
@@ -630,7 +633,7 @@
         {
           "prompt": "Identify the world-famous culinary word meaning \"sushi\" spelled with 「す」 and 「し」:",
           "options": [
-            "すし (Master reading and writing the Srow U1 - U1L2)",
+            "すし (sushi - sushi す su + し shi)",
             "たこ (tako - octopus / kite - U1L2)",
             "くつ (kutsu - shoes - U1L2)",
             "あさ (asa - morning - U1L2)"
@@ -646,9 +649,9 @@
           "prompt": "Which character represents the affricate sound [tsu] (as in \"tsunami\")?",
           "options": [
             "つ (tsu - U1L2)",
-            "た (Master reading and writing the Srow alternative form - U1L2)",
+            "た (Hiragana S Row   T Row item 2)",
             "ち (chi - U1L2)",
-            "て (Master reading and writing the Srow alternative form - U1L2)"
+            "て (Hiragana S Row   T Row item 4)"
           ],
           "answerIndex": 0,
           "explanation": "「つ」 is pronounced [tsu]."
@@ -656,7 +659,7 @@
         {
           "prompt": "Select the Hiragana word meaning \"moon\" combining 「つ」 [tsu] and 「き」 [ki]:",
           "options": [
-            "つき (Master reading and writing the Srow U1 - U1L2)",
+            "つき (tsuki - moon つ tsu + き ki)",
             "すき (suki - fond of / like - U1L2)",
             "たこ (tako - octopus / kite - U1L2)",
             "うそ (uso - lie / untruth - U1L2)"
@@ -672,7 +675,7 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana word means \"shoes\" formed from 「く」 [ku] and 「つ」 [tsu]?",
           "options": [
-            "くつ (Master reading and writing the Srow U1 - U1L2)",
+            "くつ (Hiragana S Row   T Row item 1)",
             "あさ (asa - morning - U1L2)",
             "せかい (sekai - world - U1L2)",
             "すし (sushi - sushi - U1L2)"
@@ -686,7 +689,10 @@
           "acceptedAnswers": [
             "すし"
           ],
-          "explanation": "「す」 + 「し」 = 「すし」 (*sushi*)."
+          "explanation": "「す」 + 「し」 = 「すし」 (*sushi*).",
+          "acceptableAnswers": [
+            "すし"
+          ]
         }
       ]
     }
@@ -735,7 +741,7 @@
         {
           "prompt": "Which Hiragana word means \"cat\" combining 「ね」 [ne] and 「こ」 [ko]?",
           "options": [
-            "ねこ (Master reading and writing the Nrow U1 - U1L3)",
+            "ねこ (neko - cat ね ne + こ ko)",
             "いぬ (inu - dog - U1L3)",
             "はな (hana - flower / nose - U1L3)",
             "ひと (hito - person - U1L3)"
@@ -746,10 +752,10 @@
         {
           "prompt": "Which character represents the bilabial fricative sound [fu] in the H-row?",
           "options": [
-            "ふ (Master reading and writing the Nrow key phrasing - U1L3)",
-            "は (Master reading and writing the Nrow alternative form - U1L3)",
-            "ひ (Master reading and writing the Nrow alternative form - U1L3)",
-            "ほ (Master reading and writing the Nrow alternative form - U1L3)"
+            "ふ (Hiragana N Row   H Row item 1)",
+            "は (Hiragana N Row   H Row item 2)",
+            "ひ (Hiragana N Row   H Row item 3)",
+            "ほ (Hiragana N Row   H Row item 4)"
           ],
           "answerIndex": 0,
           "explanation": "「ふ」 is the H-row character pronounced [fu], made by gently blowing air through unrounded lips."
@@ -761,7 +767,7 @@
         {
           "prompt": "Select the Hiragana word meaning \"dog\" spelled with 「い」 and 「ぬ」:",
           "options": [
-            "いぬ (Master reading and writing the Nrow U1 - U1L3)",
+            "いぬ (inu - dog い i + ぬ nu)",
             "ねこ (neko - cat - U1L3)",
             "ふね (fune - boat / ship - U1L3)",
             "ほし (hoshi - star - U1L3)"
@@ -772,7 +778,7 @@
         {
           "prompt": "Which word means \"flower\" or \"nose\" formed from 「は」 [ha] and 「な」 [na]?",
           "options": [
-            "はな (Master reading and writing the Nrow U1 - U1L3)",
+            "はな (hana - flower は ha + な na)",
             "なつ (natsu - summer - U1L3)",
             "ひと (hito - person - U1L3)",
             "にく (niku - meat - U1L3)"
@@ -788,10 +794,10 @@
           "type": "multiple-choice",
           "prompt": "Which Hiragana character is drawn as a single graceful circular spiral stroke and represents the sound [no]?",
           "options": [
-            "の (Master reading and writing the Nrow key phrasing - U1L3)",
-            "ぬ (Master reading and writing the Nrow alternative form - U1L3)",
-            "ね (Master reading and writing the Nrow alternative form - U1L3)",
-            "な (Master reading and writing the Nrow alternative form - U1L3)"
+            "の (Hiragana N Row   H Row item 1)",
+            "ぬ (Hiragana N Row   H Row item 2)",
+            "ね (Hiragana N Row   H Row item 3)",
+            "な (Hiragana N Row   H Row item 4)"
           ],
           "answerIndex": 0,
           "explanation": "「の」 is written in a single continuous spiral stroke representing [no]."
@@ -802,7 +808,10 @@
           "acceptedAnswers": [
             "ねこ"
           ],
-          "explanation": "「ね」 + 「こ」 = 「ねこ」 (*neko*)."
+          "explanation": "「ね」 + 「こ」 = 「ねこ」 (*neko*).",
+          "acceptableAnswers": [
+            "ねこ"
+          ]
         }
       ]
     }
@@ -918,7 +927,10 @@
           "acceptedAnswers": [
             "さくら"
           ],
-          "explanation": "「さ」 + 「く」 + 「ら」 = 「さくら」 (*sakura*)."
+          "explanation": "「さ」 + 「く」 + 「ら」 = 「さくら」 (*sakura*).",
+          "acceptableAnswers": [
+            "さくら"
+          ]
         }
       ]
     }
@@ -967,9 +979,9 @@
         {
           "prompt": "Which standard polite greeting means \"Good morning\" in Japanese?",
           "options": [
-            "おはようございます (Master Dakuten voicing marks U1 - U1L5)",
+            "おはようございます (Ohayou gozaimasu - Good morning respectful/polite)",
             "こんにちは (konnichiwa - hello / good afternoon - U1L5)",
-            "さようなら (Master Dakuten voicing marks U1 - U1L5)",
+            "さようなら (Voiced Kana  Combinations   Core Greetings item 3)",
             "すみません (sumimasen - excuse me / sorry - U1L5)"
           ],
           "answerIndex": 0,
@@ -978,10 +990,10 @@
         {
           "prompt": "What sound transformation occurs when Dakuten (゛) is added to the H-row (はひふへほ)?",
           "options": [
-            "It becomes the voiced B-row (Master Dakuten voicing marks U1 - U1L5)",
-            "It becomes the P-row (Master Dakuten voicing marks U1 - U1L5)",
-            "It becomes the G-row (Master Dakuten voicing marks U1 - U1L5)",
-            "It becomes the Z-row (Master Dakuten voicing marks U1 - U1L5)"
+            "It becomes the voiced B-row",
+            "It becomes the P-row",
+            "It becomes the G-row",
+            "It becomes the Z-row"
           ],
           "answerIndex": 0,
           "explanation": "Adding Dakuten (゛) to the H-row creates the voiced [b] sounds: ば, び, ぶ, べ, ぼ."
@@ -993,8 +1005,8 @@
         {
           "prompt": "Select the versatile Japanese phrase meaning \"Excuse me\" or \"I am sorry\":",
           "options": [
-            "すみません (Master Dakuten voicing marks U1 - U1L5)",
-            "ありがとうございます (Master Dakuten voicing marks U1 - U1L5)",
+            "すみません (Sumimasen - Excuse me / I am sorry multi-purpose courtesy)",
+            "ありがとうございます (Arigatou gozaimasu - Thank you very much polite gratitude)",
             "はじめまして (hajimemashite - nice to meet you - U1L5)",
             "こんにちは (konnichiwa - hello / good afternoon - U1L5)"
           ],
@@ -1004,10 +1016,10 @@
         {
           "prompt": "In the greeting 「こんにちは」 (Konnichiwa), how is the final character 「は」 pronounced?",
           "options": [
-            "wa In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 - U1L5)",
-            "ha In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 - U1L5)",
-            "he In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 - U1L5)",
-            "ho In 「こんにちは」 and 「こんばんは (Master Dakuten voicing marks U1 - U1L5)"
+            "wa In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 1)",
+            "ha In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 2)",
+            "he In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 3)",
+            "ho In 「こんにちは」 and 「こんばんは (Voiced Kana  Combinations   Core Greetings item 4)"
           ],
           "answerIndex": 0,
           "explanation": "In 「こんにちは」 and 「こんばんは」, the final 「は」 is historical topic particle and is pronounced [wa]."
@@ -1020,9 +1032,9 @@
           "type": "multiple-choice",
           "prompt": "Which phrase is the standard polite expression for \"Thank you very much\"?",
           "options": [
-            "ありがとうございます (Master Dakuten voicing marks U1 - U1L5)",
-            "おはようございます (Master Dakuten voicing marks U1 - U1L5)",
-            "さようなら (Master Dakuten voicing marks U1 - U1L5)",
+            "ありがとうございます (Arigatou gozaimasu - Thank you very much polite gratitude)",
+            "おはようございます (Ohayou gozaimasu - Good morning respectful/polite)",
+            "さようなら (Voiced Kana  Combinations   Core Greetings item 3)",
             "はじめまして (hajimemashite - nice to meet you - U1L5)"
           ],
           "answerIndex": 0,
@@ -1034,7 +1046,10 @@
           "acceptedAnswers": [
             "こんにちは"
           ],
-          "explanation": "「こ」 + 「ん」 + 「に」 + 「ち」 + 「は」 = 「こんにちは」 (*Konnichiwa*)."
+          "explanation": "「こ」 + 「ん」 + 「に」 + 「ち」 + 「は」 = 「こんにちは」 (*Konnichiwa*).",
+          "acceptableAnswers": [
+            "こんにちは"
+          ]
         }
       ]
     }
@@ -1147,7 +1162,11 @@
             "ひゃく",
             "ヒャク"
           ],
-          "explanation": "100は「ひゃく」と読みます。"
+          "explanation": "100は「ひゃく」と読みます。",
+          "acceptableAnswers": [
+            "ひゃく",
+            "ヒャク"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1261,7 +1280,11 @@
             "よじ",
             "ヨジ"
           ],
-          "explanation": "4時の読みは「よじ」です。"
+          "explanation": "4時の読みは「よじ」です。",
+          "acceptableAnswers": [
+            "よじ",
+            "ヨジ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1375,7 +1398,11 @@
             "ついたち",
             "ツイタチ"
           ],
-          "explanation": "1日は「ついたち」と読みます。"
+          "explanation": "1日は「ついたち」と読みます。",
+          "acceptableAnswers": [
+            "ついたち",
+            "ツイタチ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1490,7 +1517,12 @@
             "えん",
             "エン"
           ],
-          "explanation": "日本の通貨単位は「円（えん）」です。"
+          "explanation": "日本の通貨単位は「円（えん）」です。",
+          "acceptableAnswers": [
+            "円",
+            "えん",
+            "エン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1604,7 +1636,11 @@
             "まで",
             "マデ"
           ],
-          "explanation": "終点を表す助詞は「まで」です。"
+          "explanation": "終点を表す助詞は「まで」です。",
+          "acceptableAnswers": [
+            "まで",
+            "マデ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1719,7 +1755,12 @@
             "イマス",
             "居ます"
           ],
-          "explanation": "有情物の存在動詞は「います」です。"
+          "explanation": "有情物の存在動詞は「います」です。",
+          "acceptableAnswers": [
+            "います",
+            "イマス",
+            "居ます"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1834,7 +1875,12 @@
             "ちち",
             "チチ"
           ],
-          "explanation": "自分の父親は「父（ちち）」と呼びます。"
+          "explanation": "自分の父親は「父（ちち）」と呼びます。",
+          "acceptableAnswers": [
+            "父",
+            "ちち",
+            "チチ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1949,7 +1995,12 @@
             "あいだ",
             "アイダ"
           ],
-          "explanation": "「間（あいだ）」は二者の間を表します。"
+          "explanation": "「間（あいだ）」は二者の間を表します。",
+          "acceptableAnswers": [
+            "間",
+            "あいだ",
+            "アイダ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2063,7 +2114,11 @@
             "に",
             "ニ"
           ],
-          "explanation": "存在場所を示す助詞は「に」です。"
+          "explanation": "存在場所を示す助詞は「に」です。",
+          "acceptableAnswers": [
+            "に",
+            "ニ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2177,7 +2232,11 @@
             "や",
             "ヤ"
           ],
-          "explanation": "代表列挙の並立助詞は「や」です。"
+          "explanation": "代表列挙の並立助詞は「や」です。",
+          "acceptableAnswers": [
+            "や",
+            "ヤ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2292,7 +2351,12 @@
             "ハナシマス",
             "話します"
           ],
-          "explanation": "「話す」のます形は「話します（はなします）」です。"
+          "explanation": "「話す」のます形は「話します（はなします）」です。",
+          "acceptableAnswers": [
+            "はなします",
+            "ハナシマス",
+            "話します"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2406,7 +2470,11 @@
             "を",
             "ヲ"
           ],
-          "explanation": "目的語の格助詞は「を」です。"
+          "explanation": "目的語の格助詞は「を」です。",
+          "acceptableAnswers": [
+            "を",
+            "ヲ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2520,7 +2588,11 @@
             "で",
             "デ"
           ],
-          "explanation": "動作場所・手段の助詞は「で」です。"
+          "explanation": "動作場所・手段の助詞は「で」です。",
+          "acceptableAnswers": [
+            "で",
+            "デ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2634,7 +2706,11 @@
             "へ",
             "ヘ"
           ],
-          "explanation": "方向の助詞は「へ」と書きます。"
+          "explanation": "方向の助詞は「へ」と書きます。",
+          "acceptableAnswers": [
+            "へ",
+            "ヘ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2748,7 +2824,11 @@
             "ませんか",
             "マセンカ"
           ],
-          "explanation": "丁寧な勧誘は「〜ませんか」です。"
+          "explanation": "丁寧な勧誘は「〜ませんか」です。",
+          "acceptableAnswers": [
+            "ませんか",
+            "マセンカ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2862,7 +2942,11 @@
             "まって",
             "マッテ"
           ],
-          "explanation": "「待つ」のて形は促音便で「まって」です。"
+          "explanation": "「待つ」のて形は促音便で「まって」です。",
+          "acceptableAnswers": [
+            "まって",
+            "マッテ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2976,7 +3060,11 @@
             "から",
             "カラ"
           ],
-          "explanation": "「〜てから」の助詞は「から」です。"
+          "explanation": "「〜てから」の助詞は「から」です。",
+          "acceptableAnswers": [
+            "から",
+            "カラ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3091,7 +3179,12 @@
             "イマス",
             "居ます"
           ],
-          "explanation": "「〜ています」の動詞は「います」です。"
+          "explanation": "「〜ています」の動詞は「います」です。",
+          "acceptableAnswers": [
+            "います",
+            "イマス",
+            "居ます"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3206,7 +3299,12 @@
             "クダサイ",
             "下さい"
           ],
-          "explanation": "「〜てください」の語は「ください」です。"
+          "explanation": "「〜てください」の語は「ください」です。",
+          "acceptableAnswers": [
+            "ください",
+            "クダサイ",
+            "下さい"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3320,7 +3418,11 @@
             "いけません",
             "イケマセン"
           ],
-          "explanation": "「〜てはいけません」の語は「いけません」です。"
+          "explanation": "「〜てはいけません」の語は「いけません」です。",
+          "acceptableAnswers": [
+            "いけません",
+            "イケマセン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3434,7 +3536,11 @@
             "いただきます",
             "イタダキマス"
           ],
-          "explanation": "食事開始の挨拶は「いただきます」です。"
+          "explanation": "食事開始の挨拶は「いただきます」です。",
+          "acceptableAnswers": [
+            "いただきます",
+            "イタダキマス"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3549,7 +3655,12 @@
             "カライ",
             "辛い"
           ],
-          "explanation": "「辛い（からい）」です。"
+          "explanation": "「辛い（からい）」です。",
+          "acceptableAnswers": [
+            "からい",
+            "カライ",
+            "辛い"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3666,7 +3777,14 @@
             "勘定",
             "かんじょう"
           ],
-          "explanation": "「お会計（おかいけい）」または「お勘定（おかんじょう）」です。"
+          "explanation": "「お会計（おかいけい）」または「お勘定（おかんじょう）」です。",
+          "acceptableAnswers": [
+            "会計",
+            "かいけい",
+            "カイケイ",
+            "勘定",
+            "かんじょう"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3780,7 +3898,11 @@
             "ごちそうさまでした",
             "ゴチソウサマデシタ"
           ],
-          "explanation": "食後の挨拶は「ごちそうさまでした」です。"
+          "explanation": "食後の挨拶は「ごちそうさまでした」です。",
+          "acceptableAnswers": [
+            "ごちそうさまでした",
+            "ゴチソウサマデシタ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3895,7 +4017,12 @@
             "オネガイシマス",
             "お願いします"
           ],
-          "explanation": "「お願いします（おねがいします）」です。"
+          "explanation": "「お願いします（おねがいします）」です。",
+          "acceptableAnswers": [
+            "おねがいします",
+            "オネガイシマス",
+            "お願いします"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4010,7 +4137,12 @@
             "カキマシタ",
             "書きました"
           ],
-          "explanation": "「書く」の過去形は「書きました（かきました）」です。"
+          "explanation": "「書く」の過去形は「書きました（かきました）」です。",
+          "acceptableAnswers": [
+            "かきました",
+            "カキマシタ",
+            "書きました"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4125,7 +4257,12 @@
             "アツカッタデス",
             "暑かったです"
           ],
-          "explanation": "「暑い」の過去形は「暑かったです（あつかったです）」です。"
+          "explanation": "「暑い」の過去形は「暑かったです（あつかったです）」です。",
+          "acceptableAnswers": [
+            "あつかったです",
+            "アツカッタデス",
+            "暑かったです"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4240,7 +4377,12 @@
             "シンセツでした",
             "親切でした"
           ],
-          "explanation": "「親切でした（しんせつでした）」です。"
+          "explanation": "「親切でした（しんせつでした）」です。",
+          "acceptableAnswers": [
+            "しんせつでした",
+            "シンセツでした",
+            "親切でした"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4354,7 +4496,11 @@
             "こと",
             "コト"
           ],
-          "explanation": "「〜た【こと】があります」の形式名詞は「こと」です。"
+          "explanation": "「〜た【こと】があります」の形式名詞は「こと」です。",
+          "acceptableAnswers": [
+            "こと",
+            "コト"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4468,7 +4614,11 @@
             "ました",
             "マシタ"
           ],
-          "explanation": "動詞の過去肯定語尾は「ました」です。"
+          "explanation": "動詞の過去肯定語尾は「ました」です。",
+          "acceptableAnswers": [
+            "ました",
+            "マシタ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4582,7 +4732,11 @@
             "これ",
             "コレ"
           ],
-          "explanation": "近称の指示代名詞は「これ」です。"
+          "explanation": "近称の指示代名詞は「これ」です。",
+          "acceptableAnswers": [
+            "これ",
+            "コレ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4696,7 +4850,11 @@
             "より",
             "ヨリ"
           ],
-          "explanation": "比較基準の助詞は「より」です。"
+          "explanation": "比較基準の助詞は「より」です。",
+          "acceptableAnswers": [
+            "より",
+            "ヨリ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4811,7 +4969,12 @@
             "ドチラ",
             "どっち"
           ],
-          "explanation": "二者択一の疑問詞は「どちら（どっち）」です。"
+          "explanation": "二者択一の疑問詞は「どちら（どっち）」です。",
+          "acceptableAnswers": [
+            "どちら",
+            "ドチラ",
+            "どっち"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4926,7 +5089,12 @@
             "イチバン",
             "一番"
           ],
-          "explanation": "最上級の副詞は「一番（いちばん）」です。"
+          "explanation": "最上級の副詞は「一番（いちばん）」です。",
+          "acceptableAnswers": [
+            "いちばん",
+            "イチバン",
+            "一番"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5041,7 +5209,12 @@
             "ホウ",
             "方"
           ],
-          "explanation": "「〜の【ほう】が」の語は「ほう（方）」です。"
+          "explanation": "「〜の【ほう】が」の語は「ほう（方）」です。",
+          "acceptableAnswers": [
+            "ほう",
+            "ホウ",
+            "方"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5156,7 +5329,12 @@
             "マッスグ",
             "真っ直ぐ"
           ],
-          "explanation": "直進を表す副詞は「まっすぐ」です。"
+          "explanation": "直進を表す副詞は「まっすぐ」です。",
+          "acceptableAnswers": [
+            "まっすぐ",
+            "マッスグ",
+            "真っ直ぐ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5273,7 +5451,14 @@
             "降りる",
             "おりる"
           ],
-          "explanation": "「降ります（降車する）」です。"
+          "explanation": "「降ります（降車する）」です。",
+          "acceptableAnswers": [
+            "降ります",
+            "おります",
+            "オリマス",
+            "降りる",
+            "おりる"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5388,7 +5573,12 @@
             "カカリマス",
             "掛かります"
           ],
-          "explanation": "「かかります」です。"
+          "explanation": "「かかります」です。",
+          "acceptableAnswers": [
+            "かかります",
+            "カカリマス",
+            "掛かります"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5503,7 +5693,12 @@
             "ばんせん",
             "バンセン"
           ],
-          "explanation": "ホームの番号は「番線（ばんせん）」です。"
+          "explanation": "ホームの番号は「番線（ばんせん）」です。",
+          "acceptableAnswers": [
+            "番線",
+            "ばんせん",
+            "バンセン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5618,7 +5813,12 @@
             "マガリマス",
             "曲がります"
           ],
-          "explanation": "「曲がります（まがります）」です。"
+          "explanation": "「曲がります（まがります）」です。",
+          "acceptableAnswers": [
+            "まがります",
+            "マガリマス",
+            "曲がります"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5732,7 +5932,12 @@
             "げんかん",
             "ゲンカン"
           ],
-          "explanation": "「玄関（げんかん）」です。"
+          "explanation": "「玄関（げんかん）」です。",
+          "acceptableAnswers": [
+            "玄関",
+            "げんかん",
+            "ゲンカン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5847,7 +6052,12 @@
             "オキマス",
             "置きます"
           ],
-          "explanation": "「置きます（おきます）」です。"
+          "explanation": "「置きます（おきます）」です。",
+          "acceptableAnswers": [
+            "おきます",
+            "オキマス",
+            "置きます"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5961,7 +6171,11 @@
             "までに",
             "マデニ"
           ],
-          "explanation": "期限の助詞は「までに」です。"
+          "explanation": "期限の助詞は「までに」です。",
+          "acceptableAnswers": [
+            "までに",
+            "マデニ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6076,7 +6290,12 @@
             "そうおん",
             "ソウオン"
           ],
-          "explanation": "「騒音（そうおん）」です。"
+          "explanation": "「騒音（そうおん）」です。",
+          "acceptableAnswers": [
+            "騒音",
+            "そうおん",
+            "ソウオン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6191,7 +6410,12 @@
             "オネガイ",
             "お願い"
           ],
-          "explanation": "「よろしく【お願い】いたします」です。"
+          "explanation": "「よろしく【お願い】いたします」です。",
+          "acceptableAnswers": [
+            "おねがい",
+            "オネガイ",
+            "お願い"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6305,7 +6529,12 @@
             "のど",
             "ノド"
           ],
-          "explanation": "「喉（のど）」です。"
+          "explanation": "「喉（のど）」です。",
+          "acceptableAnswers": [
+            "喉",
+            "のど",
+            "ノド"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6420,7 +6649,12 @@
             "しょしん",
             "ショシン"
           ],
-          "explanation": "「初診（しょしん）」です。"
+          "explanation": "「初診（しょしん）」です。",
+          "acceptableAnswers": [
+            "初診",
+            "しょしん",
+            "ショシン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6535,7 +6769,12 @@
             "スイマス",
             "吸います"
           ],
-          "explanation": "「吸います（すいます）」です。"
+          "explanation": "「吸います（すいます）」です。",
+          "acceptableAnswers": [
+            "すいます",
+            "スイマス",
+            "吸います"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6650,7 +6889,12 @@
             "ふくよう",
             "フクヨウ"
           ],
-          "explanation": "「服用（ふくよう）」です。"
+          "explanation": "「服用（ふくよう）」です。",
+          "acceptableAnswers": [
+            "服用",
+            "ふくよう",
+            "フクヨウ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6765,7 +7009,12 @@
             "ダイジ",
             "大事"
           ],
-          "explanation": "「お【大事（だいじ）】に」です。"
+          "explanation": "「お【大事（だいじ）】に」です。",
+          "acceptableAnswers": [
+            "だいじ",
+            "ダイジ",
+            "大事"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6880,7 +7129,12 @@
             "ハナソウ",
             "話そう"
           ],
-          "explanation": "話す →「話そう（はなそう）」です。"
+          "explanation": "話す →「話そう（はなそう）」です。",
+          "acceptableAnswers": [
+            "はなそう",
+            "ハナソウ",
+            "話そう"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6994,7 +7248,11 @@
             "つもり",
             "ツモリ"
           ],
-          "explanation": "「つもり」です。"
+          "explanation": "「つもり」です。",
+          "acceptableAnswers": [
+            "つもり",
+            "ツモリ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7109,7 +7367,12 @@
             "よてい",
             "ヨテイ"
           ],
-          "explanation": "「予定（よてい）」です。"
+          "explanation": "「予定（よてい）」です。",
+          "acceptableAnswers": [
+            "予定",
+            "よてい",
+            "ヨテイ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7224,7 +7487,12 @@
             "けいかく",
             "ケイカク"
           ],
-          "explanation": "「計画（けいかく）」です。"
+          "explanation": "「計画（けいかく）」です。",
+          "acceptableAnswers": [
+            "計画",
+            "けいかく",
+            "ケイカク"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7338,7 +7606,11 @@
             "します",
             "シマス"
           ],
-          "explanation": "「〜ことに【します】（または いたしました）」です。"
+          "explanation": "「〜ことに【します】（または いたしました）」です。",
+          "acceptableAnswers": [
+            "します",
+            "シマス"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7453,7 +7725,12 @@
             "へいしゃ",
             "ヘイシャ"
           ],
-          "explanation": "「弊社（へいしゃ）」です。"
+          "explanation": "「弊社（へいしゃ）」です。",
+          "acceptableAnswers": [
+            "弊社",
+            "へいしゃ",
+            "ヘイシャ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7567,7 +7844,11 @@
             "つたえます",
             "ツタエマス"
           ],
-          "explanation": "「申し【伝えます（つたえます）】」です。"
+          "explanation": "「申し【伝えます（つたえます）】」です。",
+          "acceptableAnswers": [
+            "つたえます",
+            "ツタエマス"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7682,7 +7963,12 @@
             "さしゅう",
             "サシュウ"
           ],
-          "explanation": "「ご【査収（さしゅう）】」です。"
+          "explanation": "「ご【査収（さしゅう）】」です。",
+          "acceptableAnswers": [
+            "査収",
+            "さしゅう",
+            "サシュウ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7797,7 +8083,12 @@
             "そうだん",
             "ソウダン"
           ],
-          "explanation": "「相談（そうだん）」です。"
+          "explanation": "「相談（そうだん）」です。",
+          "acceptableAnswers": [
+            "相談",
+            "そうだん",
+            "ソウダン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7912,7 +8203,12 @@
             "ちょうだい",
             "チョウダイ"
           ],
-          "explanation": "「頂戴（ちょうだい）」です。"
+          "explanation": "「頂戴（ちょうだい）」です。",
+          "acceptableAnswers": [
+            "頂戴",
+            "ちょうだい",
+            "チョウダイ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8027,7 +8323,12 @@
             "おも",
             "オモ"
           ],
-          "explanation": "「思（おも）」です。"
+          "explanation": "「思（おも）」です。",
+          "acceptableAnswers": [
+            "思",
+            "おも",
+            "オモ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8142,7 +8443,12 @@
             "オッシャル",
             "仰る"
           ],
-          "explanation": "「おっしゃる（仰る）」です。"
+          "explanation": "「おっしゃる（仰る）」です。",
+          "acceptableAnswers": [
+            "おっしゃる",
+            "オッシャル",
+            "仰る"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8256,7 +8562,11 @@
             "しれません",
             "シリマセン"
           ],
-          "explanation": "「しれません」です。"
+          "explanation": "「しれません」です。",
+          "acceptableAnswers": [
+            "しれません",
+            "シリマセン"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8370,7 +8680,11 @@
             "ん",
             "の"
           ],
-          "explanation": "「【ん】です（または 【の】です）」です。"
+          "explanation": "「【ん】です（または 【の】です）」です。",
+          "acceptableAnswers": [
+            "ん",
+            "の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8485,7 +8799,12 @@
             "オモイマス",
             "思います"
           ],
-          "explanation": "「【思います（おもいます）】」です。"
+          "explanation": "「【思います（おもいます）】」です。",
+          "acceptableAnswers": [
+            "おもいます",
+            "オモイマス",
+            "思います"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8600,7 +8919,12 @@
             "土産",
             "みやげ"
           ],
-          "explanation": "「お土産（おみやげ）」です。"
+          "explanation": "「お土産（おみやげ）」です。",
+          "acceptableAnswers": [
+            "お土産",
+            "土産",
+            "みやげ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8715,7 +9039,12 @@
             "ゆかた",
             "ユカタ"
           ],
-          "explanation": "「浴衣（ゆかた）」です。"
+          "explanation": "「浴衣（ゆかた）」です。",
+          "acceptableAnswers": [
+            "浴衣",
+            "ゆかた",
+            "ユカタ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8831,7 +9160,13 @@
             "ゴシュイン",
             "朱印"
           ],
-          "explanation": "「御朱印（ごしゅいん）」です。"
+          "explanation": "「御朱印（ごしゅいん）」です。",
+          "acceptableAnswers": [
+            "御朱印",
+            "ごしゅいん",
+            "ゴシュイン",
+            "朱印"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8946,7 +9281,12 @@
             "さんさい",
             "サンサイ"
           ],
-          "explanation": "一汁【三菜（さんさい）】です。"
+          "explanation": "一汁【三菜（さんさい）】です。",
+          "acceptableAnswers": [
+            "三菜",
+            "さんさい",
+            "サンサイ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9060,7 +9400,11 @@
             "なし",
             "ナシ"
           ],
-          "explanation": "「おもて【なし】」です。"
+          "explanation": "「おもて【なし】」です。",
+          "acceptableAnswers": [
+            "なし",
+            "ナシ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9174,7 +9518,11 @@
             "と",
             "ト"
           ],
-          "explanation": "「と」です。"
+          "explanation": "「と」です。",
+          "acceptableAnswers": [
+            "と",
+            "ト"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9288,7 +9636,11 @@
             "ければ",
             "ケレバ"
           ],
-          "explanation": "よ【ければ】です。"
+          "explanation": "よ【ければ】です。",
+          "acceptableAnswers": [
+            "ければ",
+            "ケレバ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9403,7 +9755,12 @@
             "イッタラ",
             "行ったら"
           ],
-          "explanation": "「行ったら（いったら）」です。"
+          "explanation": "「行ったら（いったら）」です。",
+          "acceptableAnswers": [
+            "いったら",
+            "イッタラ",
+            "行ったら"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9517,7 +9874,11 @@
             "なら",
             "ナラ"
           ],
-          "explanation": "「なら」です。"
+          "explanation": "「なら」です。",
+          "acceptableAnswers": [
+            "なら",
+            "ナラ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9631,7 +9992,11 @@
             "なら",
             "ナラ"
           ],
-          "explanation": "「なら」です。"
+          "explanation": "「なら」です。",
+          "acceptableAnswers": [
+            "なら",
+            "ナラ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9745,7 +10110,11 @@
             "気象庁の",
             "気象庁の発表"
           ],
-          "explanation": "正解の学術用語は「気象庁の」です。"
+          "explanation": "正解の学術用語は「気象庁の」です。",
+          "acceptableAnswers": [
+            "気象庁の",
+            "気象庁の発表"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9859,7 +10228,11 @@
             "気象庁の",
             "気象庁の発表"
           ],
-          "explanation": "正解の学術用語は「気象庁の」です。"
+          "explanation": "正解の学術用語は「気象庁の」です。",
+          "acceptableAnswers": [
+            "気象庁の",
+            "気象庁の発表"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9973,7 +10346,11 @@
             "気象庁の",
             "気象庁の発表"
           ],
-          "explanation": "正解の学術用語は「気象庁の」です。"
+          "explanation": "正解の学術用語は「気象庁の」です。",
+          "acceptableAnswers": [
+            "気象庁の",
+            "気象庁の発表"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10087,7 +10464,11 @@
             "気象庁の",
             "気象庁の発表"
           ],
-          "explanation": "正解の学術用語は「気象庁の」です。"
+          "explanation": "正解の学術用語は「気象庁の」です。",
+          "acceptableAnswers": [
+            "気象庁の",
+            "気象庁の発表"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10201,7 +10582,11 @@
             "気象庁の",
             "気象庁の発表"
           ],
-          "explanation": "正解の学術用語は「気象庁の」です。"
+          "explanation": "正解の学術用語は「気象庁の」です。",
+          "acceptableAnswers": [
+            "気象庁の",
+            "気象庁の発表"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10315,7 +10700,11 @@
             "本日の研",
             "本日の研究発"
           ],
-          "explanation": "正解の学術用語は「本日の研」です。"
+          "explanation": "正解の学術用語は「本日の研」です。",
+          "acceptableAnswers": [
+            "本日の研",
+            "本日の研究発"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10429,7 +10818,11 @@
             "本日の研",
             "本日の研究発"
           ],
-          "explanation": "正解の学術用語は「本日の研」です。"
+          "explanation": "正解の学術用語は「本日の研」です。",
+          "acceptableAnswers": [
+            "本日の研",
+            "本日の研究発"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10543,7 +10936,11 @@
             "本日の研",
             "本日の研究発"
           ],
-          "explanation": "正解の学術用語は「本日の研」です。"
+          "explanation": "正解の学術用語は「本日の研」です。",
+          "acceptableAnswers": [
+            "本日の研",
+            "本日の研究発"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10657,7 +11054,11 @@
             "本日の研",
             "本日の研究発"
           ],
-          "explanation": "正解の学術用語は「本日の研」です。"
+          "explanation": "正解の学術用語は「本日の研」です。",
+          "acceptableAnswers": [
+            "本日の研",
+            "本日の研究発"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10771,7 +11172,11 @@
             "本日の研",
             "本日の研究発"
           ],
-          "explanation": "正解の学術用語は「本日の研」です。"
+          "explanation": "正解の学術用語は「本日の研」です。",
+          "acceptableAnswers": [
+            "本日の研",
+            "本日の研究発"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10885,7 +11290,11 @@
             "環境破壊",
             "環境破壊の現"
           ],
-          "explanation": "正解の学術用語は「環境破壊」です。"
+          "explanation": "正解の学術用語は「環境破壊」です。",
+          "acceptableAnswers": [
+            "環境破壊",
+            "環境破壊の現"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10999,7 +11408,11 @@
             "環境破壊",
             "環境破壊の現"
           ],
-          "explanation": "正解の学術用語は「環境破壊」です。"
+          "explanation": "正解の学術用語は「環境破壊」です。",
+          "acceptableAnswers": [
+            "環境破壊",
+            "環境破壊の現"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11113,7 +11526,11 @@
             "環境破壊",
             "環境破壊の現"
           ],
-          "explanation": "正解の学術用語は「環境破壊」です。"
+          "explanation": "正解の学術用語は「環境破壊」です。",
+          "acceptableAnswers": [
+            "環境破壊",
+            "環境破壊の現"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11227,7 +11644,11 @@
             "環境破壊",
             "環境破壊の現"
           ],
-          "explanation": "正解の学術用語は「環境破壊」です。"
+          "explanation": "正解の学術用語は「環境破壊」です。",
+          "acceptableAnswers": [
+            "環境破壊",
+            "環境破壊の現"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11341,7 +11762,11 @@
             "環境破壊",
             "環境破壊の現"
           ],
-          "explanation": "正解の学術用語は「環境破壊」です。"
+          "explanation": "正解の学術用語は「環境破壊」です。",
+          "acceptableAnswers": [
+            "環境破壊",
+            "環境破壊の現"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11455,7 +11880,11 @@
             "社長はす",
             "社長はすでに"
           ],
-          "explanation": "正解の学術用語は「社長はす」です。"
+          "explanation": "正解の学術用語は「社長はす」です。",
+          "acceptableAnswers": [
+            "社長はす",
+            "社長はすでに"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11569,7 +11998,11 @@
             "社長はす",
             "社長はすでに"
           ],
-          "explanation": "正解の学術用語は「社長はす」です。"
+          "explanation": "正解の学術用語は「社長はす」です。",
+          "acceptableAnswers": [
+            "社長はす",
+            "社長はすでに"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11683,7 +12116,11 @@
             "社長はす",
             "社長はすでに"
           ],
-          "explanation": "正解の学術用語は「社長はす」です。"
+          "explanation": "正解の学術用語は「社長はす」です。",
+          "acceptableAnswers": [
+            "社長はす",
+            "社長はすでに"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11797,7 +12234,11 @@
             "社長はす",
             "社長はすでに"
           ],
-          "explanation": "正解の学術用語は「社長はす」です。"
+          "explanation": "正解の学術用語は「社長はす」です。",
+          "acceptableAnswers": [
+            "社長はす",
+            "社長はすでに"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11911,7 +12352,11 @@
             "社長はす",
             "社長はすでに"
           ],
-          "explanation": "正解の学術用語は「社長はす」です。"
+          "explanation": "正解の学術用語は「社長はす」です。",
+          "acceptableAnswers": [
+            "社長はす",
+            "社長はすでに"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12025,7 +12470,11 @@
             "日本の国",
             "日本の国民皆"
           ],
-          "explanation": "正解の学術用語は「日本の国」です。"
+          "explanation": "正解の学術用語は「日本の国」です。",
+          "acceptableAnswers": [
+            "日本の国",
+            "日本の国民皆"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12139,7 +12588,11 @@
             "日本の国",
             "日本の国民皆"
           ],
-          "explanation": "正解の学術用語は「日本の国」です。"
+          "explanation": "正解の学術用語は「日本の国」です。",
+          "acceptableAnswers": [
+            "日本の国",
+            "日本の国民皆"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12253,7 +12706,11 @@
             "日本の国",
             "日本の国民皆"
           ],
-          "explanation": "正解の学術用語は「日本の国」です。"
+          "explanation": "正解の学術用語は「日本の国」です。",
+          "acceptableAnswers": [
+            "日本の国",
+            "日本の国民皆"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12367,7 +12824,11 @@
             "日本の国",
             "日本の国民皆"
           ],
-          "explanation": "正解の学術用語は「日本の国」です。"
+          "explanation": "正解の学術用語は「日本の国」です。",
+          "acceptableAnswers": [
+            "日本の国",
+            "日本の国民皆"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12481,7 +12942,11 @@
             "日本の国",
             "日本の国民皆"
           ],
-          "explanation": "正解の学術用語は「日本の国」です。"
+          "explanation": "正解の学術用語は「日本の国」です。",
+          "acceptableAnswers": [
+            "日本の国",
+            "日本の国民皆"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12595,7 +13060,11 @@
             "西田幾多",
             "西田幾多郎は"
           ],
-          "explanation": "正解の学術用語は「西田幾多」です。"
+          "explanation": "正解の学術用語は「西田幾多」です。",
+          "acceptableAnswers": [
+            "西田幾多",
+            "西田幾多郎は"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12709,7 +13178,11 @@
             "西田幾多",
             "西田幾多郎は"
           ],
-          "explanation": "正解の学術用語は「西田幾多」です。"
+          "explanation": "正解の学術用語は「西田幾多」です。",
+          "acceptableAnswers": [
+            "西田幾多",
+            "西田幾多郎は"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12823,7 +13296,11 @@
             "西田幾多",
             "西田幾多郎は"
           ],
-          "explanation": "正解の学術用語は「西田幾多」です。"
+          "explanation": "正解の学術用語は「西田幾多」です。",
+          "acceptableAnswers": [
+            "西田幾多",
+            "西田幾多郎は"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12937,7 +13414,11 @@
             "西田幾多",
             "西田幾多郎は"
           ],
-          "explanation": "正解の学術用語は「西田幾多」です。"
+          "explanation": "正解の学術用語は「西田幾多」です。",
+          "acceptableAnswers": [
+            "西田幾多",
+            "西田幾多郎は"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13051,7 +13532,11 @@
             "西田幾多",
             "西田幾多郎は"
           ],
-          "explanation": "正解の学術用語は「西田幾多」です。"
+          "explanation": "正解の学術用語は「西田幾多」です。",
+          "acceptableAnswers": [
+            "西田幾多",
+            "西田幾多郎は"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13165,7 +13650,11 @@
             "桂離宮の",
             "桂離宮の雁行"
           ],
-          "explanation": "正解の学術用語は「桂離宮の」です。"
+          "explanation": "正解の学術用語は「桂離宮の」です。",
+          "acceptableAnswers": [
+            "桂離宮の",
+            "桂離宮の雁行"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13279,7 +13768,11 @@
             "桂離宮の",
             "桂離宮の雁行"
           ],
-          "explanation": "正解の学術用語は「桂離宮の」です。"
+          "explanation": "正解の学術用語は「桂離宮の」です。",
+          "acceptableAnswers": [
+            "桂離宮の",
+            "桂離宮の雁行"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13393,7 +13886,11 @@
             "桂離宮の",
             "桂離宮の雁行"
           ],
-          "explanation": "正解の学術用語は「桂離宮の」です。"
+          "explanation": "正解の学術用語は「桂離宮の」です。",
+          "acceptableAnswers": [
+            "桂離宮の",
+            "桂離宮の雁行"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13507,7 +14004,11 @@
             "桂離宮の",
             "桂離宮の雁行"
           ],
-          "explanation": "正解の学術用語は「桂離宮の」です。"
+          "explanation": "正解の学術用語は「桂離宮の」です。",
+          "acceptableAnswers": [
+            "桂離宮の",
+            "桂離宮の雁行"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13621,7 +14122,11 @@
             "桂離宮の",
             "桂離宮の雁行"
           ],
-          "explanation": "正解の学術用語は「桂離宮の」です。"
+          "explanation": "正解の学術用語は「桂離宮の」です。",
+          "acceptableAnswers": [
+            "桂離宮の",
+            "桂離宮の雁行"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13735,7 +14240,11 @@
             "宮内庁楽",
             "宮内庁楽部に"
           ],
-          "explanation": "正解の学術用語は「宮内庁楽」です。"
+          "explanation": "正解の学術用語は「宮内庁楽」です。",
+          "acceptableAnswers": [
+            "宮内庁楽",
+            "宮内庁楽部に"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13849,7 +14358,11 @@
             "宮内庁楽",
             "宮内庁楽部に"
           ],
-          "explanation": "正解の学術用語は「宮内庁楽」です。"
+          "explanation": "正解の学術用語は「宮内庁楽」です。",
+          "acceptableAnswers": [
+            "宮内庁楽",
+            "宮内庁楽部に"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13963,7 +14476,11 @@
             "宮内庁楽",
             "宮内庁楽部に"
           ],
-          "explanation": "正解の学術用語は「宮内庁楽」です。"
+          "explanation": "正解の学術用語は「宮内庁楽」です。",
+          "acceptableAnswers": [
+            "宮内庁楽",
+            "宮内庁楽部に"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14077,7 +14594,11 @@
             "宮内庁楽",
             "宮内庁楽部に"
           ],
-          "explanation": "正解の学術用語は「宮内庁楽」です。"
+          "explanation": "正解の学術用語は「宮内庁楽」です。",
+          "acceptableAnswers": [
+            "宮内庁楽",
+            "宮内庁楽部に"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14191,7 +14712,11 @@
             "宮内庁楽",
             "宮内庁楽部に"
           ],
-          "explanation": "正解の学術用語は「宮内庁楽」です。"
+          "explanation": "正解の学術用語は「宮内庁楽」です。",
+          "acceptableAnswers": [
+            "宮内庁楽",
+            "宮内庁楽部に"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14305,7 +14830,11 @@
             "黒澤明監",
             "黒澤明監督の"
           ],
-          "explanation": "正解の外交用語は「黒澤明監」です。"
+          "explanation": "正解の外交用語は「黒澤明監」です。",
+          "acceptableAnswers": [
+            "黒澤明監",
+            "黒澤明監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14419,7 +14948,11 @@
             "黒澤明監",
             "黒澤明監督の"
           ],
-          "explanation": "正解の外交用語は「黒澤明監」です。"
+          "explanation": "正解の外交用語は「黒澤明監」です。",
+          "acceptableAnswers": [
+            "黒澤明監",
+            "黒澤明監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14533,7 +15066,11 @@
             "黒澤明監",
             "黒澤明監督の"
           ],
-          "explanation": "正解の外交用語は「黒澤明監」です。"
+          "explanation": "正解の外交用語は「黒澤明監」です。",
+          "acceptableAnswers": [
+            "黒澤明監",
+            "黒澤明監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14647,7 +15184,11 @@
             "黒澤明監",
             "黒澤明監督の"
           ],
-          "explanation": "正解の外交用語は「黒澤明監」です。"
+          "explanation": "正解の外交用語は「黒澤明監」です。",
+          "acceptableAnswers": [
+            "黒澤明監",
+            "黒澤明監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14761,7 +15302,11 @@
             "黒澤明監",
             "黒澤明監督の"
           ],
-          "explanation": "正解の外交用語は「黒澤明監」です。"
+          "explanation": "正解の外交用語は「黒澤明監」です。",
+          "acceptableAnswers": [
+            "黒澤明監",
+            "黒澤明監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14875,7 +15420,11 @@
             "世阿弥は",
             "世阿弥は『風"
           ],
-          "explanation": "正解の外交用語は「世阿弥は」です。"
+          "explanation": "正解の外交用語は「世阿弥は」です。",
+          "acceptableAnswers": [
+            "世阿弥は",
+            "世阿弥は『風"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14989,7 +15538,11 @@
             "世阿弥は",
             "世阿弥は『風"
           ],
-          "explanation": "正解の外交用語は「世阿弥は」です。"
+          "explanation": "正解の外交用語は「世阿弥は」です。",
+          "acceptableAnswers": [
+            "世阿弥は",
+            "世阿弥は『風"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15103,7 +15656,11 @@
             "世阿弥は",
             "世阿弥は『風"
           ],
-          "explanation": "正解の外交用語は「世阿弥は」です。"
+          "explanation": "正解の外交用語は「世阿弥は」です。",
+          "acceptableAnswers": [
+            "世阿弥は",
+            "世阿弥は『風"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15217,7 +15774,11 @@
             "世阿弥は",
             "世阿弥は『風"
           ],
-          "explanation": "正解の外交用語は「世阿弥は」です。"
+          "explanation": "正解の外交用語は「世阿弥は」です。",
+          "acceptableAnswers": [
+            "世阿弥は",
+            "世阿弥は『風"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15331,7 +15892,11 @@
             "世阿弥は",
             "世阿弥は『風"
           ],
-          "explanation": "正解の外交用語は「世阿弥は」です。"
+          "explanation": "正解の外交用語は「世阿弥は」です。",
+          "acceptableAnswers": [
+            "世阿弥は",
+            "世阿弥は『風"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15445,7 +16010,11 @@
             "山田耕筰",
             "山田耕筰は、"
           ],
-          "explanation": "正解の外交用語は「山田耕筰」です。"
+          "explanation": "正解の外交用語は「山田耕筰」です。",
+          "acceptableAnswers": [
+            "山田耕筰",
+            "山田耕筰は、"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15559,7 +16128,11 @@
             "山田耕筰",
             "山田耕筰は、"
           ],
-          "explanation": "正解の外交用語は「山田耕筰」です。"
+          "explanation": "正解の外交用語は「山田耕筰」です。",
+          "acceptableAnswers": [
+            "山田耕筰",
+            "山田耕筰は、"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15673,7 +16246,11 @@
             "山田耕筰",
             "山田耕筰は、"
           ],
-          "explanation": "正解の外交用語は「山田耕筰」です。"
+          "explanation": "正解の外交用語は「山田耕筰」です。",
+          "acceptableAnswers": [
+            "山田耕筰",
+            "山田耕筰は、"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15787,7 +16364,11 @@
             "山田耕筰",
             "山田耕筰は、"
           ],
-          "explanation": "正解の外交用語は「山田耕筰」です。"
+          "explanation": "正解の外交用語は「山田耕筰」です。",
+          "acceptableAnswers": [
+            "山田耕筰",
+            "山田耕筰は、"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15901,7 +16482,11 @@
             "山田耕筰",
             "山田耕筰は、"
           ],
-          "explanation": "正解の外交用語は「山田耕筰」です。"
+          "explanation": "正解の外交用語は「山田耕筰」です。",
+          "acceptableAnswers": [
+            "山田耕筰",
+            "山田耕筰は、"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16015,7 +16600,11 @@
             "丹下健三",
             "丹下健三が設"
           ],
-          "explanation": "正解の外交用語は「丹下健三」です。"
+          "explanation": "正解の外交用語は「丹下健三」です。",
+          "acceptableAnswers": [
+            "丹下健三",
+            "丹下健三が設"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16129,7 +16718,11 @@
             "丹下健三",
             "丹下健三が設"
           ],
-          "explanation": "正解の外交用語は「丹下健三」です。"
+          "explanation": "正解の外交用語は「丹下健三」です。",
+          "acceptableAnswers": [
+            "丹下健三",
+            "丹下健三が設"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16243,7 +16836,11 @@
             "丹下健三",
             "丹下健三が設"
           ],
-          "explanation": "正解の外交用語は「丹下健三」です。"
+          "explanation": "正解の外交用語は「丹下健三」です。",
+          "acceptableAnswers": [
+            "丹下健三",
+            "丹下健三が設"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16357,7 +16954,11 @@
             "丹下健三",
             "丹下健三が設"
           ],
-          "explanation": "正解の外交用語は「丹下健三」です。"
+          "explanation": "正解の外交用語は「丹下健三」です。",
+          "acceptableAnswers": [
+            "丹下健三",
+            "丹下健三が設"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16471,7 +17072,11 @@
             "丹下健三",
             "丹下健三が設"
           ],
-          "explanation": "正解の外交用語は「丹下健三」です。"
+          "explanation": "正解の外交用語は「丹下健三」です。",
+          "acceptableAnswers": [
+            "丹下健三",
+            "丹下健三が設"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16585,7 +17190,11 @@
             "道元禅師",
             "道元禅師は『"
           ],
-          "explanation": "正解の外交用語は「道元禅師」です。"
+          "explanation": "正解の外交用語は「道元禅師」です。",
+          "acceptableAnswers": [
+            "道元禅師",
+            "道元禅師は『"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16699,7 +17308,11 @@
             "道元禅師",
             "道元禅師は『"
           ],
-          "explanation": "正解の外交用語は「道元禅師」です。"
+          "explanation": "正解の外交用語は「道元禅師」です。",
+          "acceptableAnswers": [
+            "道元禅師",
+            "道元禅師は『"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16813,7 +17426,11 @@
             "道元禅師",
             "道元禅師は『"
           ],
-          "explanation": "正解の外交用語は「道元禅師」です。"
+          "explanation": "正解の外交用語は「道元禅師」です。",
+          "acceptableAnswers": [
+            "道元禅師",
+            "道元禅師は『"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -16927,7 +17544,11 @@
             "道元禅師",
             "道元禅師は『"
           ],
-          "explanation": "正解の外交用語は「道元禅師」です。"
+          "explanation": "正解の外交用語は「道元禅師」です。",
+          "acceptableAnswers": [
+            "道元禅師",
+            "道元禅師は『"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17041,7 +17662,11 @@
             "道元禅師",
             "道元禅師は『"
           ],
-          "explanation": "正解の外交用語は「道元禅師」です。"
+          "explanation": "正解の外交用語は「道元禅師」です。",
+          "acceptableAnswers": [
+            "道元禅師",
+            "道元禅師は『"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17155,7 +17780,11 @@
             "宮崎駿監",
             "宮崎駿監督の"
           ],
-          "explanation": "正解の外交用語は「宮崎駿監」です。"
+          "explanation": "正解の外交用語は「宮崎駿監」です。",
+          "acceptableAnswers": [
+            "宮崎駿監",
+            "宮崎駿監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17269,7 +17898,11 @@
             "宮崎駿監",
             "宮崎駿監督の"
           ],
-          "explanation": "正解の外交用語は「宮崎駿監」です。"
+          "explanation": "正解の外交用語は「宮崎駿監」です。",
+          "acceptableAnswers": [
+            "宮崎駿監",
+            "宮崎駿監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17383,7 +18016,11 @@
             "宮崎駿監",
             "宮崎駿監督の"
           ],
-          "explanation": "正解の外交用語は「宮崎駿監」です。"
+          "explanation": "正解の外交用語は「宮崎駿監」です。",
+          "acceptableAnswers": [
+            "宮崎駿監",
+            "宮崎駿監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17497,7 +18134,11 @@
             "宮崎駿監",
             "宮崎駿監督の"
           ],
-          "explanation": "正解の外交用語は「宮崎駿監」です。"
+          "explanation": "正解の外交用語は「宮崎駿監」です。",
+          "acceptableAnswers": [
+            "宮崎駿監",
+            "宮崎駿監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17611,7 +18252,11 @@
             "宮崎駿監",
             "宮崎駿監督の"
           ],
-          "explanation": "正解の外交用語は「宮崎駿監」です。"
+          "explanation": "正解の外交用語は「宮崎駿監」です。",
+          "acceptableAnswers": [
+            "宮崎駿監",
+            "宮崎駿監督の"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17725,7 +18370,11 @@
             "ユネスコ",
             "ユネスコ無形"
           ],
-          "explanation": "正解の外交用語は「ユネスコ」です。"
+          "explanation": "正解の外交用語は「ユネスコ」です。",
+          "acceptableAnswers": [
+            "ユネスコ",
+            "ユネスコ無形"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17839,7 +18488,11 @@
             "ユネスコ",
             "ユネスコ無形"
           ],
-          "explanation": "正解の外交用語は「ユネスコ」です。"
+          "explanation": "正解の外交用語は「ユネスコ」です。",
+          "acceptableAnswers": [
+            "ユネスコ",
+            "ユネスコ無形"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -17953,7 +18606,11 @@
             "ユネスコ",
             "ユネスコ無形"
           ],
-          "explanation": "正解の外交用語は「ユネスコ」です。"
+          "explanation": "正解の外交用語は「ユネスコ」です。",
+          "acceptableAnswers": [
+            "ユネスコ",
+            "ユネスコ無形"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18067,7 +18724,11 @@
             "ユネスコ",
             "ユネスコ無形"
           ],
-          "explanation": "正解の外交用語は「ユネスコ」です。"
+          "explanation": "正解の外交用語は「ユネスコ」です。",
+          "acceptableAnswers": [
+            "ユネスコ",
+            "ユネスコ無形"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18181,7 +18842,11 @@
             "ユネスコ",
             "ユネスコ無形"
           ],
-          "explanation": "正解の外交用語は「ユネスコ」です。"
+          "explanation": "正解の外交用語は「ユネスコ」です。",
+          "acceptableAnswers": [
+            "ユネスコ",
+            "ユネスコ無形"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18295,7 +18960,11 @@
             "世阿弥が",
             "世阿弥が遺し"
           ],
-          "explanation": "正解の外交用語は「世阿弥が」です。"
+          "explanation": "正解の外交用語は「世阿弥が」です。",
+          "acceptableAnswers": [
+            "世阿弥が",
+            "世阿弥が遺し"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18409,7 +19078,11 @@
             "世阿弥が",
             "世阿弥が遺し"
           ],
-          "explanation": "正解の外交用語は「世阿弥が」です。"
+          "explanation": "正解の外交用語は「世阿弥が」です。",
+          "acceptableAnswers": [
+            "世阿弥が",
+            "世阿弥が遺し"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18523,7 +19196,11 @@
             "世阿弥が",
             "世阿弥が遺し"
           ],
-          "explanation": "正解の外交用語は「世阿弥が」です。"
+          "explanation": "正解の外交用語は「世阿弥が」です。",
+          "acceptableAnswers": [
+            "世阿弥が",
+            "世阿弥が遺し"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18637,7 +19314,11 @@
             "世阿弥が",
             "世阿弥が遺し"
           ],
-          "explanation": "正解の外交用語は「世阿弥が」です。"
+          "explanation": "正解の外交用語は「世阿弥が」です。",
+          "acceptableAnswers": [
+            "世阿弥が",
+            "世阿弥が遺し"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18751,7 +19432,11 @@
             "世阿弥が",
             "世阿弥が遺し"
           ],
-          "explanation": "正解の外交用語は「世阿弥が」です。"
+          "explanation": "正解の外交用語は「世阿弥が」です。",
+          "acceptableAnswers": [
+            "世阿弥が",
+            "世阿弥が遺し"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18865,7 +19550,11 @@
             "伊勢神宮",
             "伊勢神宮で千"
           ],
-          "explanation": "正解の外交用語は「伊勢神宮」です。"
+          "explanation": "正解の外交用語は「伊勢神宮」です。",
+          "acceptableAnswers": [
+            "伊勢神宮",
+            "伊勢神宮で千"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -18979,7 +19668,11 @@
             "伊勢神宮",
             "伊勢神宮で千"
           ],
-          "explanation": "正解の外交用語は「伊勢神宮」です。"
+          "explanation": "正解の外交用語は「伊勢神宮」です。",
+          "acceptableAnswers": [
+            "伊勢神宮",
+            "伊勢神宮で千"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19093,7 +19786,11 @@
             "伊勢神宮",
             "伊勢神宮で千"
           ],
-          "explanation": "正解の外交用語は「伊勢神宮」です。"
+          "explanation": "正解の外交用語は「伊勢神宮」です。",
+          "acceptableAnswers": [
+            "伊勢神宮",
+            "伊勢神宮で千"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19207,7 +19904,11 @@
             "伊勢神宮",
             "伊勢神宮で千"
           ],
-          "explanation": "正解の外交用語は「伊勢神宮」です。"
+          "explanation": "正解の外交用語は「伊勢神宮」です。",
+          "acceptableAnswers": [
+            "伊勢神宮",
+            "伊勢神宮で千"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19321,7 +20022,11 @@
             "伊勢神宮",
             "伊勢神宮で千"
           ],
-          "explanation": "正解の外交用語は「伊勢神宮」です。"
+          "explanation": "正解の外交用語は「伊勢神宮」です。",
+          "acceptableAnswers": [
+            "伊勢神宮",
+            "伊勢神宮で千"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19435,7 +20140,11 @@
             "本協定の",
             "本協定の締約"
           ],
-          "explanation": "正解の外交用語は「本協定の」です。"
+          "explanation": "正解の外交用語は「本協定の」です。",
+          "acceptableAnswers": [
+            "本協定の",
+            "本協定の締約"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19549,7 +20258,11 @@
             "本協定の",
             "本協定の締約"
           ],
-          "explanation": "正解の外交用語は「本協定の」です。"
+          "explanation": "正解の外交用語は「本協定の」です。",
+          "acceptableAnswers": [
+            "本協定の",
+            "本協定の締約"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19663,7 +20376,11 @@
             "本協定の",
             "本協定の締約"
           ],
-          "explanation": "正解の外交用語は「本協定の」です。"
+          "explanation": "正解の外交用語は「本協定の」です。",
+          "acceptableAnswers": [
+            "本協定の",
+            "本協定の締約"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19777,7 +20494,11 @@
             "本協定の",
             "本協定の締約"
           ],
-          "explanation": "正解の外交用語は「本協定の」です。"
+          "explanation": "正解の外交用語は「本協定の」です。",
+          "acceptableAnswers": [
+            "本協定の",
+            "本協定の締約"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19891,7 +20612,11 @@
             "本協定の",
             "本協定の締約"
           ],
-          "explanation": "正解の外交用語は「本協定の」です。"
+          "explanation": "正解の外交用語は「本協定の」です。",
+          "acceptableAnswers": [
+            "本協定の",
+            "本協定の締約"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -19941,10 +20666,10 @@
         {
           "prompt": "Which verb is the correct humble form (Kenjougo) to express that YOU will look at an external client's proposal?",
           "options": [
-            "拝見する (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "ご覧になる (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "見られる (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "お見えになる (Master irregular honorific and humble verb pairs U35 - U35L1)"
+            "拝見する (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
+            "ご覧になる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
+            "見られる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
+            "お見えになる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«拝見する» is the humble verb used when the speaker inspects something belonging to the listener."
@@ -19952,10 +20677,10 @@
         {
           "prompt": "How should you refer to your own company's president (Yamada) when speaking to a client on the telephone?",
           "options": [
-            "社長の山田 (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "山田社長様 (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "山田先生 (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "社長様 (Master irregular honorific and humble verb pairs U35 - U35L1)"
+            "社長の山田 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
+            "山田社長様 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
+            "山田先生 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
+            "社長様 (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
           ],
           "answerIndex": 0,
           "explanation": "When speaking to outside clients (Soto), members of your own organization (Uchi) are never elevated with honorific titles."
@@ -19967,10 +20692,10 @@
         {
           "prompt": "Select the correct honorific sentence meaning \"The director has already arrived\":",
           "options": [
-            "部長は既にお見えになりました (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "部長は既に参りました (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "部長は既に伺いました (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "部長は既に致しました (Master irregular honorific and humble verb pairs U35 - U35L1)"
+            "部長は既にお見えになりました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
+            "部長は既に参りました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
+            "部長は既に伺いました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
+            "部長は既に致しました (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«お見えになる» or «いらっしゃる» is the appropriate honorific (Sonkeigo) form for someone arriving."
@@ -19978,10 +20703,10 @@
         {
           "prompt": "What does the humble phrase «存じ上げております» mean?",
           "options": [
-            "I humbly know / am acquainted with (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "I do not know (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "Please know this (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "You know this (Master irregular honorific and humble verb pairs U35 - U35L1)"
+            "I humbly know / am acquainted with",
+            "I do not know",
+            "Please know this",
+            "You know this"
           ],
           "answerIndex": 0,
           "explanation": "«存じ上げる» is the humble form of knowing or being acquainted with someone."
@@ -19994,10 +20719,10 @@
           "type": "multiple-choice",
           "prompt": "Which suppletive verb replaces «言う» (to say) when elevating an esteemed counterpart (Sonkeigo)?",
           "options": [
-            "おっしゃる (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "申し上げる (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "申す (Master irregular honorific and humble verb pairs U35 - U35L1)",
-            "致す (Master irregular honorific and humble verb pairs U35 - U35L1)"
+            "おっしゃる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 1)",
+            "申し上げる (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 2)",
+            "申す (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 3)",
+            "致す (Apex Keigo  Sonkeigo vs Kenjougo Suppletion item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«おっしゃる» is the respectful honorific equivalent of «言う»."
@@ -20009,7 +20734,11 @@
             "拝見する",
             "はいけんする"
           ],
-          "explanation": "«拝見する» = to humbly view/inspect."
+          "explanation": "«拝見する» = to humbly view/inspect.",
+          "acceptableAnswers": [
+            "拝見する",
+            "はいけんする"
+          ]
         }
       ]
     }
@@ -20043,10 +20772,10 @@
         {
           "prompt": "Which opening greeting pairs canonically with the formal closing «敬具» (Keigu) in Japanese business letters?",
           "options": [
-            "拝啓 (Master openingclosing greetings U35 - U35L2)",
-            "前略 (Master openingclosing greetings U35 - U35L2)",
-            "草々 (Master openingclosing greetings U35 - U35L2)",
-            "かしこ (Master openingclosing greetings U35 - U35L2)"
+            "拝啓 (Formal Business Correspondence   Epistolary Formulas item 1)",
+            "前略 (Formal Business Correspondence   Epistolary Formulas item 2)",
+            "草々 (Formal Business Correspondence   Epistolary Formulas item 3)",
+            "かしこ (Formal Business Correspondence   Epistolary Formulas item 4)"
           ],
           "answerIndex": 0,
           "explanation": "拝啓 (Haikei — Opening salutation)"
@@ -20058,10 +20787,10 @@
         {
           "prompt": "What does «貴社» (Kisha) signify in formal written correspondence?",
           "options": [
-            "Your esteemed company (Master openingclosing greetings U35 - U35L2)",
-            "Our company (Master openingclosing greetings U35 - U35L2)",
-            "Previous company (Master openingclosing greetings U35 - U35L2)",
-            "Supplier (Master openingclosing greetings U35 - U35L2)"
+            "Your esteemed company",
+            "Our company",
+            "Previous company",
+            "Supplier"
           ],
           "answerIndex": 0,
           "explanation": "Your esteemed company (Written honorific address)"
@@ -20074,10 +20803,10 @@
           "type": "multiple-choice",
           "prompt": "Which opening greeting pairs canonically with the formal closing «敬具» (Keigu) in Japanese business letters?",
           "options": [
-            "拝啓 (Master openingclosing greetings U35 - U35L2)",
-            "前略 (Master openingclosing greetings U35 - U35L2)",
-            "草々 (Master openingclosing greetings U35 - U35L2)",
-            "かしこ (Master openingclosing greetings U35 - U35L2)"
+            "拝啓 (Formal Business Correspondence   Epistolary Formulas item 1)",
+            "前略 (Formal Business Correspondence   Epistolary Formulas item 2)",
+            "草々 (Formal Business Correspondence   Epistolary Formulas item 3)",
+            "かしこ (Formal Business Correspondence   Epistolary Formulas item 4)"
           ],
           "answerIndex": 0,
           "explanation": "拝啓 (Haikei — Opening salutation)"
@@ -20089,7 +20818,11 @@
             "貴社ますますご清栄のこととお慶び申し上げます。",
             "Kisha masumasu go-seiei no koto to oyorokobi moushiagemasu."
           ],
-          "explanation": "We rejoice in the continued prosperity and success of your esteemed company."
+          "explanation": "We rejoice in the continued prosperity and success of your esteemed company.",
+          "acceptableAnswers": [
+            "貴社ますますご清栄のこととお慶び申し上げます。",
+            "Kisha masumasu go-seiei no koto to oyorokobi moushiagemasu."
+          ]
         }
       ]
     }
@@ -20123,10 +20856,10 @@
         {
           "prompt": "What is the linguistic purpose of \"Cushion Words\" (クッション言葉) in Japanese negotiations?",
           "options": [
-            "To soften difficult requests or refusals and preserve interpersonal harmony (Master polite cushion words U35 - U35L3)",
-            "To lengthen the sentence artificially (Master polite cushion words U35 - U35L3)",
-            "To indicate anger (Master polite cushion words U35 - U35L3)",
-            "To replace verbs (Master polite cushion words U35 - U35L3)"
+            "To soften difficult requests or refusals and preserve interpersonal harmony",
+            "To lengthen the sentence artificially",
+            "To indicate anger",
+            "To replace verbs"
           ],
           "answerIndex": 0,
           "explanation": "To soften difficult requests or refusals and preserve interpersonal harmony"
@@ -20138,10 +20871,10 @@
         {
           "prompt": "Which cushion phrase politely prefaces an unavoidable scheduling conflict or refusal?",
           "options": [
-            "あいにくではございますが (Master polite cushion words U35 - U35L3)",
-            "おめでとうございますが (Master polite cushion words U35 - U35L3)",
-            "是非とも (Master polite cushion words U35 - U35L3)",
-            "とんでもございません (Master polite cushion words U35 - U35L3)"
+            "あいにくではございますが (Cushion Words   Softened Diplomatic Refusal item 1)",
+            "おめでとうございますが (Cushion Words   Softened Diplomatic Refusal item 2)",
+            "是非とも (Cushion Words   Softened Diplomatic Refusal item 3)",
+            "とんでもございません (Cushion Words   Softened Diplomatic Refusal item 4)"
           ],
           "answerIndex": 0,
           "explanation": "あいにくではございますが (Unfortunately / Regrettably)"
@@ -20154,10 +20887,10 @@
           "type": "multiple-choice",
           "prompt": "What is the linguistic purpose of \"Cushion Words\" (クッション言葉) in Japanese negotiations?",
           "options": [
-            "To soften difficult requests or refusals and preserve interpersonal harmony (Master polite cushion words U35 - U35L3)",
-            "To lengthen the sentence artificially (Master polite cushion words U35 - U35L3)",
-            "To indicate anger (Master polite cushion words U35 - U35L3)",
-            "To replace verbs (Master polite cushion words U35 - U35L3)"
+            "To soften difficult requests or refusals and preserve interpersonal harmony",
+            "To lengthen the sentence artificially",
+            "To indicate anger",
+            "To replace verbs"
           ],
           "answerIndex": 0,
           "explanation": "To soften difficult requests or refusals and preserve interpersonal harmony"
@@ -20169,7 +20902,11 @@
             "誠に恐れ入りますが、ご容赦いただけますでしょうか。",
             "Makoto ni osoreirimasu ga, go-yousha itadakemasu deshou ka."
           ],
-          "explanation": "I am truly dreadfully sorry, but could you kindly grant us your understanding and forgiveness?"
+          "explanation": "I am truly dreadfully sorry, but could you kindly grant us your understanding and forgiveness?",
+          "acceptableAnswers": [
+            "誠に恐れ入りますが、ご容赦いただけますでしょうか。",
+            "Makoto ni osoreirimasu ga, go-yousha itadakemasu deshou ka."
+          ]
         }
       ]
     }
@@ -20203,10 +20940,10 @@
         {
           "prompt": "Why is «おっしゃられる» classified as a grammatical error (二重敬語 / Double Honorific) in standard Keigo?",
           "options": [
-            "Because «おっしゃる» is already honorific; adding «- (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "Because it is too short (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "Because it is informal (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "Because it only applies to objects (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)"
+            "Because «おっしゃる» is already honorific; adding «- (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 1)",
+            "Because it is too short",
+            "Because it is informal",
+            "Because it only applies to objects"
           ],
           "answerIndex": 0,
           "explanation": "Because «おっしゃる» is already honorific; adding «-(ら)れる» applies two redundant honorific markers to one verb"
@@ -20218,10 +20955,10 @@
         {
           "prompt": "What is the correct honorific expression for \"The client has read the email\"?",
           "options": [
-            "お客様がメールをお読みになりました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "お客様がメールをお読みになられました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "お客様がメールを拝見されました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "お客様がメールを読まれになられました (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)"
+            "お客様がメールをお読みになりました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 1)",
+            "お客様がメールをお読みになられました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 2)",
+            "お客様がメールを拝見されました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 3)",
+            "お客様がメールを読まれになられました (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 4)"
           ],
           "answerIndex": 0,
           "explanation": "お客様がメールをお読みになりました。 (or ご覧になりました)"
@@ -20234,10 +20971,10 @@
           "type": "multiple-choice",
           "prompt": "Why is «おっしゃられる» classified as a grammatical error (二重敬語 / Double Honorific) in standard Keigo?",
           "options": [
-            "Because «おっしゃる» is already honorific; adding «- (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "Because it is too short (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "Because it is informal (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)",
-            "Because it only applies to objects (Distinguish authentic refined honorifics from incorrect double honorifics e U35 - U35L4)"
+            "Because «おっしゃる» is already honorific; adding «- (Avoiding Double Honorifics   Agency for Cultural Affairs Guidelines item 1)",
+            "Because it is too short",
+            "Because it is informal",
+            "Because it only applies to objects"
           ],
           "answerIndex": 0,
           "explanation": "Because «おっしゃる» is already honorific; adding «-(ら)れる» applies two redundant honorific markers to one verb"
@@ -20249,7 +20986,11 @@
             "部長がおっしゃいました。",
             "Buchou ga osshaimashita."
           ],
-          "explanation": "The general manager said so (Correct single honorific without clumsy double marking)."
+          "explanation": "The general manager said so (Correct single honorific without clumsy double marking).",
+          "acceptableAnswers": [
+            "部長がおっしゃいました。",
+            "Buchou ga osshaimashita."
+          ]
         }
       ]
     }
@@ -20283,10 +21024,10 @@
         {
           "prompt": "Which expression is traditionally offered to express formal condolences to a grieving family?",
           "options": [
-            "心よりお悔やみ申し上げます (Master high ceremonial formulas for congratulations - U35L5)",
-            "お祝い申し上げます (Master high ceremonial formulas for congratulations - U35L5)",
-            "ご苦労様でした (Master high ceremonial formulas for congratulations - U35L5)",
-            "ご清栄をお祈りします (Master high ceremonial formulas for congratulations - U35L5)"
+            "心よりお悔やみ申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 1)",
+            "お祝い申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 2)",
+            "ご苦労様でした (Ceremonial Etiquette  Condolences   Summit Protocol item 3)",
+            "ご清栄をお祈りします (Ceremonial Etiquette  Condolences   Summit Protocol item 4)"
           ],
           "answerIndex": 0,
           "explanation": "心よりお悔やみ申し上げます (We offer our deepest and heartfelt condolences)"
@@ -20298,10 +21039,10 @@
         {
           "prompt": "What does the word «冥福» (Meifuku) signify in Buddhist-influenced condolence formulas?",
           "options": [
-            "Happiness and peaceful repose in the afterworld (Master high ceremonial formulas for congratulations U35 - U35L5)",
-            "Health in this world (Master high ceremonial formulas for congratulations U35 - U35L5)",
-            "Financial wealth (Master high ceremonial formulas for congratulations U35 - U35L5)",
-            "Good fortune in travel (Master high ceremonial formulas for congratulations U35 - U35L5)"
+            "Happiness and peaceful repose in the afterworld",
+            "Health in this world",
+            "Financial wealth",
+            "Good fortune in travel"
           ],
           "answerIndex": 0,
           "explanation": "Happiness and peaceful repose in the afterworld"
@@ -20314,10 +21055,10 @@
           "type": "multiple-choice",
           "prompt": "Which expression is traditionally offered to express formal condolences to a grieving family?",
           "options": [
-            "心よりお悔やみ申し上げます (Master high ceremonial formulas for congratulations - U35L5)",
-            "お祝い申し上げます (Master high ceremonial formulas for congratulations - U35L5)",
-            "ご苦労様でした (Master high ceremonial formulas for congratulations - U35L5)",
-            "ご清栄をお祈りします (Master high ceremonial formulas for congratulations - U35L5)"
+            "心よりお悔やみ申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 1)",
+            "お祝い申し上げます (Ceremonial Etiquette  Condolences   Summit Protocol item 2)",
+            "ご苦労様でした (Ceremonial Etiquette  Condolences   Summit Protocol item 3)",
+            "ご清栄をお祈りします (Ceremonial Etiquette  Condolences   Summit Protocol item 4)"
           ],
           "answerIndex": 0,
           "explanation": "心よりお悔やみ申し上げます (We offer our deepest and heartfelt condolences)"
@@ -20329,7 +21070,11 @@
             "心より哀悼の意を表し、ご冥福をお祈り申し上げます。",
             "Kokoro yori aitou no i o hyoushi, go-meifuku o oinori moushiagemasu."
           ],
-          "explanation": "We express our deepest condolences from the bottom of our hearts and pray for eternal repose."
+          "explanation": "We express our deepest condolences from the bottom of our hearts and pray for eternal repose.",
+          "acceptableAnswers": [
+            "心より哀悼の意を表し、ご冥福をお祈り申し上げます。",
+            "Kokoro yori aitou no i o hyoushi, go-meifuku o oinori moushiagemasu."
+          ]
         }
       ]
     }

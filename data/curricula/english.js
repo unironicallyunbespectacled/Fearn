@@ -495,10 +495,10 @@
         {
           "prompt": "A friend greets you with 'Hey!' Is this rude?",
           "options": [
-            "It's only used for children (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Only if said to a stranger (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Yes, it's disrespectful (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "No — Hey is completely normal and casual among friends/peers in English (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "It's only used for children",
+            "Only if said to a stranger",
+            "Yes, it's disrespectful",
+            "No — Hey is completely normal and casual among friends/peers in English"
           ],
           "answerIndex": 3,
           "explanation": "Hey is casual, not rude, despite sounding abrupt in some other languages."
@@ -506,10 +506,10 @@
         {
           "prompt": "Someone asks 'How are you?' What's the expected reply?",
           "options": [
-            "'Good night' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Silence (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "A detailed account of your actual week (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "A short scripted reply like 'Good, thanks! How about you?' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "'Good night'",
+            "Silence",
+            "A detailed account of your actual week",
+            "A short scripted reply like 'Good, thanks! How about you?'"
           ],
           "answerIndex": 3,
           "explanation": "It's a ritual exchange, not a literal question."
@@ -517,10 +517,10 @@
         {
           "prompt": "When is Good night appropriate?",
           "options": [
-            "Anytime, interchangeably with Good evening (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Only when leaving/ending a conversation at night, never as a hello (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Only in writing (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "As a morning greeting (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Anytime, interchangeably with Good evening",
+            "Only when leaving/ending a conversation at night, never as a hello",
+            "Only in writing",
+            "As a morning greeting"
           ],
           "answerIndex": 1,
           "explanation": "It's exclusively a farewell, like Spanish buenas noches."
@@ -528,10 +528,10 @@
         {
           "prompt": "What's up? is best answered with:",
           "options": [
-            "'Good night' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'Not much' / 'Nothing much' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Silence (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'Good, thanks!' only (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "'Good night'",
+            "'Not much' / 'Nothing much'",
+            "Silence",
+            "'Good, thanks!' only"
           ],
           "answerIndex": 1,
           "explanation": "What's up? breaks the how-are-you script and expects a different style of reply."
@@ -543,10 +543,10 @@
         {
           "prompt": "Why might 'You alright?' confuse an American learner in the UK?",
           "options": [
-            "It means 'goodbye' in British English (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "It's only used at funerals (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "It's actually an insult (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "It's used as a casual greeting in British English, not a sign something is wrong (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "It means 'goodbye' in British English",
+            "It's only used at funerals",
+            "It's actually an insult",
+            "It's used as a casual greeting in British English, not a sign something is wrong"
           ],
           "answerIndex": 3,
           "explanation": "This matches the cultural note about regional greeting differences."
@@ -554,10 +554,10 @@
         {
           "prompt": "It's 8am. What's the appropriate greeting?",
           "options": [
-            "Good afternoon (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Good evening (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Good morning (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Good night (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Good afternoon",
+            "Good evening",
+            "Good morning",
+            "Good night"
           ],
           "answerIndex": 2,
           "explanation": "Good morning covers the early hours."
@@ -565,10 +565,10 @@
         {
           "prompt": "Why does giving a long, literal answer to 'How are you?' tend to confuse native speakers?",
           "options": [
-            "It's considered extremely rude (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "It's grammatically incorrect (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'How are you' is never actually asked in real life (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "The question functions as a scripted ritual exchange, not a genuine request for detail (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "It's considered extremely rude",
+            "It's grammatically incorrect",
+            "'How are you' is never actually asked in real life",
+            "The question functions as a scripted ritual exchange, not a genuine request for detail"
           ],
           "answerIndex": 3,
           "explanation": "This is the central point of the lesson's explanation."
@@ -580,10 +580,10 @@
         {
           "prompt": "Most casual greeting, used with friends/peers:",
           "options": [
-            "Hey (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Good night (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Hello (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Good evening (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Hey",
+            "Good night",
+            "Hello",
+            "Good evening"
           ],
           "answerIndex": 0,
           "explanation": "Hey is the most casual option.",
@@ -592,10 +592,10 @@
         {
           "prompt": "Safe, neutral greeting for any context:",
           "options": [
-            "Good night (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "What's up (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Hey (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Hello (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Good night",
+            "What's up",
+            "Hey",
+            "Hello"
           ],
           "answerIndex": 3,
           "explanation": "Hello sits in the safe middle of formality.",
@@ -604,10 +604,10 @@
         {
           "prompt": "Good night is used:",
           "options": [
-            "Interchangeably with Good evening (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Only when angry (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Only as a farewell at night, never as a hello (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "As a morning greeting (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Interchangeably with Good evening",
+            "Only when angry",
+            "Only as a farewell at night, never as a hello",
+            "As a morning greeting"
           ],
           "answerIndex": 2,
           "explanation": "Farewell-only phrase.",
@@ -616,10 +616,10 @@
         {
           "prompt": "Expected reply to 'How are you?':",
           "options": [
-            "Silence (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "A short scripted reply, like 'Good, thanks!' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'Good night' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "A full description of your health (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Silence",
+            "A short scripted reply, like 'Good, thanks!'",
+            "'Good night'",
+            "A full description of your health"
           ],
           "answerIndex": 1,
           "explanation": "It's a ritual, not a literal question.",
@@ -628,10 +628,10 @@
         {
           "prompt": "'What's up?' is best answered with:",
           "options": [
-            "'Not much' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'Good night' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'Hello' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "'Good, thanks! And you?' (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "'Not much'",
+            "'Good night'",
+            "'Hello'",
+            "'Good, thanks! And you?'"
           ],
           "answerIndex": 0,
           "explanation": "It asks something different from 'How are you?'",
@@ -640,10 +640,10 @@
         {
           "prompt": "'You alright?' as a greeting is typical in:",
           "options": [
-            "Only formal writing (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "Only American English (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "It's never used as a greeting anywhere (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)",
-            "British English (Greet people appropriately across formality levels in English and recognize that How are you functions as a ritual exchange)"
+            "Only formal writing",
+            "Only American English",
+            "It's never used as a greeting anywhere",
+            "British English"
           ],
           "answerIndex": 3,
           "explanation": "A regional British greeting equivalent to 'How are you?'",
@@ -703,10 +703,10 @@
         {
           "prompt": "I ___ tired. (contracted)",
           "options": [
-            "'m (Conjugate the verb to be for all subject pronouns)",
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "amn't (Conjugate the verb to be for all subject pronouns)",
-            "'re (Conjugate the verb to be for all subject pronouns)"
+            "'m",
+            "'s",
+            "amn't",
+            "'re"
           ],
           "answerIndex": 0,
           "explanation": "I contracts to I'm."
@@ -714,10 +714,10 @@
         {
           "prompt": "She ___ a teacher. (contracted)",
           "options": [
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "'re (Conjugate the verb to be for all subject pronouns)",
-            "'ve (Conjugate the verb to be for all subject pronouns)",
-            "'m (Conjugate the verb to be for all subject pronouns)"
+            "'s",
+            "'re",
+            "'ve",
+            "'m"
           ],
           "answerIndex": 0,
           "explanation": "he/she/it uses 's (is)."
@@ -725,10 +725,10 @@
         {
           "prompt": "They ___ from Canada. (contracted)",
           "options": [
-            "'re (Conjugate the verb to be for all subject pronouns)",
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "'d (Conjugate the verb to be for all subject pronouns)",
-            "'m (Conjugate the verb to be for all subject pronouns)"
+            "'re",
+            "'s",
+            "'d",
+            "'m"
           ],
           "answerIndex": 0,
           "explanation": "they uses 're (are)."
@@ -736,10 +736,10 @@
         {
           "prompt": "Which sentence correctly negates 'I am happy'?",
           "options": [
-            "I'm not happy (Conjugate the verb to be for all subject pronouns)",
-            "I amn't happy (Conjugate the verb to be for all subject pronouns)",
-            "I amn't not happy (Conjugate the verb to be for all subject pronouns)",
-            "I not am happy (Conjugate the verb to be for all subject pronouns)"
+            "I'm not happy",
+            "I amn't happy",
+            "I amn't not happy",
+            "I not am happy"
           ],
           "answerIndex": 0,
           "explanation": "am has no standalone negative contraction — only I'm not works."
@@ -751,10 +751,10 @@
         {
           "prompt": "Why doesn't English have a short form like 'amn't'?",
           "options": [
-            "Standard English simply never developed a standalone negative contraction for am — only the pronoun contracts (Conjugate the verb to be for all subject pronouns)",
-            "Because 'am' can't be negated at all (Conjugate the verb to be for all subject pronouns)",
-            "Because 'am' is always formal (Conjugate the verb to be for all subject pronouns)",
-            "It does exist, it's just rare (Conjugate the verb to be for all subject pronouns)"
+            "Standard English simply never developed a standalone negative contraction for am — only the pronoun contracts",
+            "Because 'am' can't be negated at all",
+            "Because 'am' is always formal",
+            "It does exist, it's just rare"
           ],
           "answerIndex": 0,
           "explanation": "This is the specific grammatical gap explained in the lesson."
@@ -762,10 +762,10 @@
         {
           "prompt": "How many present-tense forms does to be have, covering all six subject pronouns?",
           "options": [
-            "Six, one per pronoun (Conjugate the verb to be for all subject pronouns)",
-            "One, it never changes (Conjugate the verb to be for all subject pronouns)",
-            "Two (Conjugate the verb to be for all subject pronouns)",
-            "Three (Conjugate the verb to be for all subject pronouns)"
+            "Six, one per pronoun",
+            "One, it never changes",
+            "Two",
+            "Three"
           ],
           "answerIndex": 3,
           "explanation": "am/is/are cover all six pronoun slots between them."
@@ -773,10 +773,10 @@
         {
           "prompt": "We ___ regulars here. (contracted)",
           "options": [
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "'m (Conjugate the verb to be for all subject pronouns)",
-            "'ll (Conjugate the verb to be for all subject pronouns)",
-            "'re (Conjugate the verb to be for all subject pronouns)"
+            "'s",
+            "'m",
+            "'ll",
+            "'re"
           ],
           "answerIndex": 3,
           "explanation": "we uses 're (are)."
@@ -788,10 +788,10 @@
         {
           "prompt": "I ___ a student. (contracted)",
           "options": [
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "'re (Conjugate the verb to be for all subject pronouns)",
-            "amn't (Conjugate the verb to be for all subject pronouns)",
-            "'m (Conjugate the verb to be for all subject pronouns)"
+            "'s",
+            "'re",
+            "amn't",
+            "'m"
           ],
           "answerIndex": 3,
           "explanation": "I'm.",
@@ -800,10 +800,10 @@
         {
           "prompt": "He ___ my friend. (contracted)",
           "options": [
-            "'ve (Conjugate the verb to be for all subject pronouns)",
-            "'m (Conjugate the verb to be for all subject pronouns)",
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "'re (Conjugate the verb to be for all subject pronouns)"
+            "'ve",
+            "'m",
+            "'s",
+            "'re"
           ],
           "answerIndex": 2,
           "explanation": "he's.",
@@ -812,10 +812,10 @@
         {
           "prompt": "You ___ welcome here. (contracted)",
           "options": [
-            "'d (Conjugate the verb to be for all subject pronouns)",
-            "'re (Conjugate the verb to be for all subject pronouns)",
-            "'s (Conjugate the verb to be for all subject pronouns)",
-            "'m (Conjugate the verb to be for all subject pronouns)"
+            "'d",
+            "'re",
+            "'s",
+            "'m"
           ],
           "answerIndex": 1,
           "explanation": "you're.",
@@ -824,10 +824,10 @@
         {
           "prompt": "Correct negative of 'I am ready':",
           "options": [
-            "I'm not ready (Conjugate the verb to be for all subject pronouns)",
-            "I amn't not ready (Conjugate the verb to be for all subject pronouns)",
-            "I amn't ready (Conjugate the verb to be for all subject pronouns)",
-            "I not am ready (Conjugate the verb to be for all subject pronouns)"
+            "I'm not ready",
+            "I amn't not ready",
+            "I amn't ready",
+            "I not am ready"
           ],
           "answerIndex": 0,
           "explanation": "am has no standalone negative contraction.",
@@ -836,10 +836,10 @@
         {
           "prompt": "Which pronouns share the SAME to be form (are)?",
           "options": [
-            "he, she, it (Conjugate the verb to be for all subject pronouns)",
-            "I only (Conjugate the verb to be for all subject pronouns)",
-            "I, he, she (Conjugate the verb to be for all subject pronouns)",
-            "you, we, they (Conjugate the verb to be for all subject pronouns)"
+            "he, she, it",
+            "I only",
+            "I, he, she",
+            "you, we, they"
           ],
           "answerIndex": 3,
           "explanation": "you/we/they all take are.",
@@ -848,10 +848,10 @@
         {
           "prompt": "Saying the full uncontracted form ('I am tired') in casual speech tends to:",
           "options": [
-            "Only be used with children (Conjugate the verb to be for all subject pronouns)",
-            "Sound completely neutral, identical to the contraction (Conjugate the verb to be for all subject pronouns)",
-            "Sound stiff or add unintended emphasis (Conjugate the verb to be for all subject pronouns)",
-            "Be grammatically incorrect (Conjugate the verb to be for all subject pronouns)"
+            "Only be used with children",
+            "Sound completely neutral, identical to the contraction",
+            "Sound stiff or add unintended emphasis",
+            "Be grammatically incorrect"
           ],
           "answerIndex": 2,
           "explanation": "Full forms can read as emphatic/formal compared to natural contractions.",
@@ -915,10 +915,10 @@
         {
           "prompt": "Which is a natural, casual way to give your name?",
           "options": [
-            "Name is I Jordan. (Introduce yourself with Im  My name is)",
-            "Jordan am I. (Introduce yourself with Im  My name is)",
-            "I name Jordan. (Introduce yourself with Im  My name is)",
-            "I'm Jordan. (Introduce yourself with Im  My name is)"
+            "Name is I Jordan.",
+            "Jordan am I.",
+            "I name Jordan.",
+            "I'm Jordan."
           ],
           "answerIndex": 3,
           "explanation": "I'm + name is a natural, common self-introduction."
@@ -926,10 +926,10 @@
         {
           "prompt": "Why might stating your own name first be smoother than asking 'What's your name?' right away?",
           "options": [
-            "It invites the other person to reciprocate naturally instead of feeling like an interview question (Introduce yourself with Im  My name is)",
-            "Asking names is grammatically incorrect (Introduce yourself with Im  My name is)",
-            "It's only used with children (Introduce yourself with Im  My name is)",
-            "It's rude to ask names at all (Introduce yourself with Im  My name is)"
+            "It invites the other person to reciprocate naturally instead of feeling like an interview question",
+            "Asking names is grammatically incorrect",
+            "It's only used with children",
+            "It's rude to ask names at all"
           ],
           "answerIndex": 0,
           "explanation": "This is the pragmatic tip given in the lesson."
@@ -937,10 +937,10 @@
         {
           "prompt": "After 'Nice to meet you, Maya!' what's a natural short reply?",
           "options": [
-            "Good night! (Introduce yourself with Im  My name is)",
-            "What's up? (Introduce yourself with Im  My name is)",
-            "I'm not Maya. (Introduce yourself with Im  My name is)",
-            "You too! (Introduce yourself with Im  My name is)"
+            "Good night!",
+            "What's up?",
+            "I'm not Maya.",
+            "You too!"
           ],
           "answerIndex": 3,
           "explanation": "You too! is a natural shortened reply."
@@ -948,10 +948,10 @@
         {
           "prompt": "Is 'My name is...' the only correct way to introduce yourself?",
           "options": [
-            "Yes, it's the only grammatically correct form (Introduce yourself with Im  My name is)",
-            "No, only 'I'm...' is ever correct (Introduce yourself with Im  My name is)",
-            "Names aren't given this way in English (Introduce yourself with Im  My name is)",
-            "No — 'I'm...' is at least as common and natural in casual speech (Introduce yourself with Im  My name is)"
+            "Yes, it's the only grammatically correct form",
+            "No, only 'I'm...' is ever correct",
+            "Names aren't given this way in English",
+            "No — 'I'm...' is at least as common and natural in casual speech"
           ],
           "answerIndex": 3,
           "explanation": "Both are correct; I'm is often more natural/casual."
@@ -963,10 +963,10 @@
         {
           "prompt": "Translate: 'I'm Maya, by the way.'",
           "options": [
-            "I'm Maya, by the way. (Introduce yourself with Im  My name is)",
-            "My way is Maya. (Introduce yourself with Im  My name is)",
-            "Maya by the way is I. (Introduce yourself with Im  My name is)",
-            "By the way I Maya am. (Introduce yourself with Im  My name is)"
+            "I'm Maya, by the way.",
+            "My way is Maya.",
+            "Maya by the way is I.",
+            "By the way I Maya am."
           ],
           "answerIndex": 0,
           "explanation": "Direct, natural translation."
@@ -974,10 +974,10 @@
         {
           "prompt": "What does 'You too!' shorten in this context?",
           "options": [
-            "'Nice to meet you too' (Introduce yourself with Im  My name is)",
-            "'Good morning to you too' (Introduce yourself with Im  My name is)",
-            "'How are you too' (Introduce yourself with Im  My name is)",
-            "'Goodbye to you too' (Introduce yourself with Im  My name is)"
+            "'Nice to meet you too'",
+            "'Good morning to you too'",
+            "'How are you too'",
+            "'Goodbye to you too'"
           ],
           "answerIndex": 0,
           "explanation": "It drops the repeated 'Nice to meet' once meaning is clear."
@@ -985,10 +985,10 @@
         {
           "prompt": "What's the general rule for choosing a handshake, wave, or fist bump when meeting someone new?",
           "options": [
-            "A handshake is always required (Introduce yourself with Im  My name is)",
-            "There's no single universal rule — it's fine to follow the other person's lead (Introduce yourself with Im  My name is)",
-            "Only fist bumps are acceptable (Introduce yourself with Im  My name is)",
-            "Waving is considered rude (Introduce yourself with Im  My name is)"
+            "A handshake is always required",
+            "There's no single universal rule — it's fine to follow the other person's lead",
+            "Only fist bumps are acceptable",
+            "Waving is considered rude"
           ],
           "answerIndex": 1,
           "explanation": "The cultural note emphasizes there's no single fixed rule."
@@ -1000,10 +1000,10 @@
         {
           "prompt": "Natural casual self-introduction:",
           "options": [
-            "I name is Jordan. (Introduce yourself with Im  My name is)",
-            "Jordan am I. (Introduce yourself with Im  My name is)",
-            "I'm Jordan. (Introduce yourself with Im  My name is)",
-            "Name Jordan is. (Introduce yourself with Im  My name is)"
+            "I name is Jordan.",
+            "Jordan am I.",
+            "I'm Jordan.",
+            "Name Jordan is."
           ],
           "answerIndex": 2,
           "explanation": "I'm + name.",
@@ -1012,10 +1012,10 @@
         {
           "prompt": "Standard reply when someone introduces themselves:",
           "options": [
-            "Good night (Introduce yourself with Im  My name is)",
-            "Nice to meet you (Introduce yourself with Im  My name is)",
-            "I'm not sure (Introduce yourself with Im  My name is)",
-            "What's up (Introduce yourself with Im  My name is)"
+            "Good night",
+            "Nice to meet you",
+            "I'm not sure",
+            "What's up"
           ],
           "answerIndex": 1,
           "explanation": "The standard reply to an introduction.",
@@ -1024,10 +1024,10 @@
         {
           "prompt": "Natural shortened reply to 'Nice to meet you':",
           "options": [
-            "You too! (Introduce yourself with Im  My name is)",
-            "Not much! (Introduce yourself with Im  My name is)",
-            "I'm not Maya! (Introduce yourself with Im  My name is)",
-            "Good morning! (Introduce yourself with Im  My name is)"
+            "You too!",
+            "Not much!",
+            "I'm not Maya!",
+            "Good morning!"
           ],
           "answerIndex": 0,
           "explanation": "A common, natural ellipsis.",
@@ -1036,10 +1036,10 @@
         {
           "prompt": "'I'm Jordan, by the way' is a strategy for:",
           "options": [
-            "Asking about nationality (Introduce yourself with Im  My name is)",
-            "Ending a conversation (Introduce yourself with Im  My name is)",
-            "Refusing to give your name (Introduce yourself with Im  My name is)",
-            "Inviting the other person to share their name naturally (Introduce yourself with Im  My name is)"
+            "Asking about nationality",
+            "Ending a conversation",
+            "Refusing to give your name",
+            "Inviting the other person to share their name naturally"
           ],
           "answerIndex": 3,
           "explanation": "Offering your own name first, softly inviting reciprocation.",
@@ -1048,10 +1048,10 @@
         {
           "prompt": "Is 'What's your name?' incorrect English?",
           "options": [
-            "It's only used with pets (Introduce yourself with Im  My name is)",
-            "Yes, it's grammatically wrong (Introduce yourself with Im  My name is)",
-            "No, it's correct, but can feel a bit blunt among adults meeting socially (Introduce yourself with Im  My name is)",
-            "It's only used in writing (Introduce yourself with Im  My name is)"
+            "It's only used with pets",
+            "Yes, it's grammatically wrong",
+            "No, it's correct, but can feel a bit blunt among adults meeting socially",
+            "It's only used in writing"
           ],
           "answerIndex": 2,
           "explanation": "It's correct but can feel more like an interview question in casual social settings.",
@@ -1060,10 +1060,10 @@
         {
           "prompt": "When meeting someone new, is there one single correct greeting gesture (handshake/wave/etc.)?",
           "options": [
-            "Yes, always a handshake (Introduce yourself with Im  My name is)",
-            "No — it varies by context/region; it's fine to follow the other person's lead (Introduce yourself with Im  My name is)",
-            "Yes, always a fist bump (Introduce yourself with Im  My name is)",
-            "Yes, always a wave (Introduce yourself with Im  My name is)"
+            "Yes, always a handshake",
+            "No — it varies by context/region; it's fine to follow the other person's lead",
+            "Yes, always a fist bump",
+            "Yes, always a wave"
           ],
           "answerIndex": 1,
           "explanation": "Per the cultural note, there's no single universal rule.",
@@ -1128,10 +1128,10 @@
         {
           "prompt": "Which is correctly capitalized?",
           "options": [
-            "I'm Canadian. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I'm CANADIAN always shouted. (State where youre from using Im from  place or Im  nationality adjective)",
-            "Capitalization doesn't matter here. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I'm canadian. (State where youre from using Im from  place or Im  nationality adjective)"
+            "I'm Canadian.",
+            "I'm CANADIAN always shouted.",
+            "Capitalization doesn't matter here.",
+            "I'm canadian. (D)"
           ],
           "answerIndex": 0,
           "explanation": "Nationality adjectives are always capitalized in English."
@@ -1139,10 +1139,10 @@
         {
           "prompt": "'I'm not from Canada' uses which negative form?",
           "options": [
-            "am + not (State where youre from using Im from  place or Im  nationality adjective)",
-            "are + not (State where youre from using Im from  place or Im  nationality adjective)",
-            "do + not (State where youre from using Im from  place or Im  nationality adjective)",
-            "is + not (State where youre from using Im from  place or Im  nationality adjective)"
+            "am + not",
+            "are + not",
+            "do + not",
+            "is + not"
           ],
           "answerIndex": 0,
           "explanation": "I pairs with am, so the negative is I'm not."
@@ -1150,10 +1150,10 @@
         {
           "prompt": "Which sentence pairs correctly?",
           "options": [
-            "I'm from Canada. / I'm Canadian. (State where youre from using Im from  place or Im  nationality adjective)",
-            "From I'm Canada. / I Canadian am. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I'm from Canadian. / I'm Canada. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I'm Canada from. / Canadian I'm. (State where youre from using Im from  place or Im  nationality adjective)"
+            "I'm from Canada. / I'm Canadian.",
+            "From I'm Canada. / I Canadian am.",
+            "I'm from Canadian. / I'm Canada.",
+            "I'm Canada from. / Canadian I'm."
           ],
           "answerIndex": 0,
           "explanation": "from + place, or a bare nationality adjective — not mixed."
@@ -1161,10 +1161,10 @@
         {
           "prompt": "She ___ American. (negative)",
           "options": [
-            "isn't (State where youre from using Im from  place or Im  nationality adjective)",
-            "not is (State where youre from using Im from  place or Im  nationality adjective)",
-            "aren't (State where youre from using Im from  place or Im  nationality adjective)",
-            "amn't (State where youre from using Im from  place or Im  nationality adjective)"
+            "isn't",
+            "not is",
+            "aren't",
+            "amn't"
           ],
           "answerIndex": 0,
           "explanation": "she pairs with is, negative isn't."
@@ -1176,10 +1176,10 @@
         {
           "prompt": "Why is 'I'm from canada' considered an error in English?",
           "options": [
-            "Because from can't be used with countries (State where youre from using Im from  place or Im  nationality adjective)",
-            "Because nationality/place-derived proper nouns like Canada must always be capitalized (State where youre from using Im from  place or Im  nationality adjective)",
-            "Because Canada should be plural (State where youre from using Im from  place or Im  nationality adjective)",
-            "It's not actually an error (State where youre from using Im from  place or Im  nationality adjective)"
+            "Because from can't be used with countries",
+            "Because nationality/place-derived proper nouns like Canada must always be capitalized",
+            "Because Canada should be plural",
+            "It's not actually an error"
           ],
           "answerIndex": 1,
           "explanation": "Proper nouns (and nationality adjectives) are always capitalized in English."
@@ -1187,10 +1187,10 @@
         {
           "prompt": "What's a socially sensitive follow-up to avoid after someone answers 'Where are you from?'",
           "options": [
-            "'No, where are you REALLY from?' — can feel loaded, especially based on appearance (State where youre from using Im from  place or Im  nationality adjective)",
-            "Simply saying 'nice!' (State where youre from using Im from  place or Im  nationality adjective)",
-            "Changing the subject entirely (State where youre from using Im from  place or Im  nationality adjective)",
-            "Asking about their favorite food (State where youre from using Im from  place or Im  nationality adjective)"
+            "'No, where are you REALLY from?' — can feel loaded, especially based on appearance",
+            "Simply saying 'nice!'",
+            "Changing the subject entirely",
+            "Asking about their favorite food"
           ],
           "answerIndex": 0,
           "explanation": "This matches the cultural note's caution about pressing further."
@@ -1198,10 +1198,10 @@
         {
           "prompt": "They ___ British. (negative)",
           "options": [
-            "aren't (State where youre from using Im from  place or Im  nationality adjective)",
-            "isn't (State where youre from using Im from  place or Im  nationality adjective)",
-            "not are (State where youre from using Im from  place or Im  nationality adjective)",
-            "amn't (State where youre from using Im from  place or Im  nationality adjective)"
+            "aren't",
+            "isn't",
+            "not are",
+            "amn't"
           ],
           "answerIndex": 0,
           "explanation": "they pairs with are, negative aren't."
@@ -1213,9 +1213,9 @@
         {
           "prompt": "Correct capitalization:",
           "options": [
-            "I'm vietnamese. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I'm Vietnamese. (State where youre from using Im from  place or Im  nationality adjective)",
-            "i'm Vietnamese. (State where youre from using Im from  place or Im  nationality adjective)",
+            "I'm vietnamese.",
+            "I'm Vietnamese. (B)",
+            "i'm Vietnamese. (C)",
             "I'm VIETNAMESE (all caps required)"
           ],
           "answerIndex": 1,
@@ -1225,10 +1225,10 @@
         {
           "prompt": "'I'm from Canada' and 'I'm Canadian' are:",
           "options": [
-            "Both correct, interchangeable ways to state origin (State where youre from using Im from  place or Im  nationality adjective)",
-            "Only the first is correct (State where youre from using Im from  place or Im  nationality adjective)",
-            "Only the second is correct (State where youre from using Im from  place or Im  nationality adjective)",
-            "They mean opposite things (State where youre from using Im from  place or Im  nationality adjective)"
+            "Both correct, interchangeable ways to state origin",
+            "Only the first is correct",
+            "Only the second is correct",
+            "They mean opposite things"
           ],
           "answerIndex": 0,
           "explanation": "Two valid, equivalent ways to express origin.",
@@ -1237,10 +1237,10 @@
         {
           "prompt": "He ___ from Chicago. (negative)",
           "options": [
-            "not is (State where youre from using Im from  place or Im  nationality adjective)",
-            "aren't (State where youre from using Im from  place or Im  nationality adjective)",
-            "amn't (State where youre from using Im from  place or Im  nationality adjective)",
-            "isn't (State where youre from using Im from  place or Im  nationality adjective)"
+            "not is",
+            "aren't",
+            "amn't",
+            "isn't"
           ],
           "answerIndex": 3,
           "explanation": "he pairs with is → isn't.",
@@ -1249,10 +1249,10 @@
         {
           "prompt": "Where are you from? is generally:",
           "options": [
-            "Considered extremely rude to ask (State where youre from using Im from  place or Im  nationality adjective)",
-            "Only used in job interviews (State where youre from using Im from  place or Im  nationality adjective)",
-            "Common, friendly small talk between strangers (State where youre from using Im from  place or Im  nationality adjective)",
-            "Never asked in English (State where youre from using Im from  place or Im  nationality adjective)"
+            "Considered extremely rude to ask",
+            "Only used in job interviews",
+            "Common, friendly small talk between strangers",
+            "Never asked in English"
           ],
           "answerIndex": 2,
           "explanation": "It's normal small talk, per the lesson's cultural note.",
@@ -1261,10 +1261,10 @@
         {
           "prompt": "What makes repeatedly asking 'where are you REALLY from' potentially uncomfortable?",
           "options": [
-            "It's a purely neutral, risk-free question (State where youre from using Im from  place or Im  nationality adjective)",
-            "It can feel loaded, implying someone doesn't belong based on appearance (State where youre from using Im from  place or Im  nationality adjective)",
-            "It's only ever asked of tourists (State where youre from using Im from  place or Im  nationality adjective)",
-            "It has no social implications at all (State where youre from using Im from  place or Im  nationality adjective)"
+            "It's a purely neutral, risk-free question",
+            "It can feel loaded, implying someone doesn't belong based on appearance",
+            "It's only ever asked of tourists",
+            "It has no social implications at all"
           ],
           "answerIndex": 1,
           "explanation": "This nuance is explicitly flagged in the cultural note.",
@@ -1273,10 +1273,10 @@
         {
           "prompt": "Correctly paired sentence:",
           "options": [
-            "I'm from Toronto. I'm Canadian. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I Toronto from am. (State where youre from using Im from  place or Im  nationality adjective)",
-            "Canadian I'm from Toronto am. (State where youre from using Im from  place or Im  nationality adjective)",
-            "I'm from Canadian. I'm Toronto. (State where youre from using Im from  place or Im  nationality adjective)"
+            "I'm from Toronto. I'm Canadian.",
+            "I Toronto from am.",
+            "Canadian I'm from Toronto am.",
+            "I'm from Canadian. I'm Toronto."
           ],
           "answerIndex": 0,
           "explanation": "from + place; bare adjective for nationality — not mixed.",
@@ -1354,10 +1354,10 @@
         {
           "prompt": "Put these in the natural order a first meeting usually follows.",
           "options": [
-            "Greeting → how-are-you → self-intro → origin → close (Combine greetings)",
-            "Origin → close → greeting → self-intro (Combine greetings)",
-            "Self-intro → close → greeting → origin (Combine greetings)",
-            "Close → origin → self-intro → greeting (Combine greetings)"
+            "Greeting → how-are-you → self-intro → origin → close",
+            "Origin → close → greeting → self-intro",
+            "Self-intro → close → greeting → origin",
+            "Close → origin → self-intro → greeting"
           ],
           "answerIndex": 0,
           "explanation": "This matches the natural build-up covered across the unit."
@@ -1365,10 +1365,10 @@
         {
           "prompt": "What does See you around! imply, compared to 'See you tomorrow'?",
           "options": [
-            "A specific, confirmed next meeting (Combine greetings)",
-            "A comfortably open-ended goodbye, without promising a specific next meeting (Combine greetings)",
-            "That you'll never see them again (Combine greetings)",
-            "That you're upset (Combine greetings)"
+            "A specific, confirmed next meeting",
+            "A comfortably open-ended goodbye, without promising a specific next meeting",
+            "That you'll never see them again",
+            "That you're upset"
           ],
           "answerIndex": 1,
           "explanation": "It's vague and low-pressure by design."
@@ -1376,10 +1376,10 @@
         {
           "prompt": "What's a common signal that someone doesn't want to chat in a shared café space?",
           "options": [
-            "Making eye contact and smiling (Combine greetings)",
-            "Headphones in, eyes on a laptop (Combine greetings)",
-            "Sitting down at an empty table (Combine greetings)",
-            "Ordering coffee (Combine greetings)"
+            "Making eye contact and smiling",
+            "Headphones in, eyes on a laptop",
+            "Sitting down at an empty table",
+            "Ordering coffee"
           ],
           "answerIndex": 1,
           "explanation": "This is the practical cultural cue given in the lesson."
@@ -1387,10 +1387,10 @@
         {
           "prompt": "Take care! as a farewell is:",
           "options": [
-            "Only used with close family (Combine greetings)",
-            "Rude and dismissive (Combine greetings)",
-            "Warm and works with almost anyone (Combine greetings)",
-            "Only appropriate in writing (Combine greetings)"
+            "Only used with close family",
+            "Rude and dismissive",
+            "Warm and works with almost anyone",
+            "Only appropriate in writing"
           ],
           "answerIndex": 2,
           "explanation": "It's a warm, broadly appropriate closing phrase."
@@ -1402,10 +1402,10 @@
         {
           "prompt": "Combine into one natural exchange: greet someone, ask how they are.",
           "options": [
-            "Hi! How's it going? (Combine greetings)",
-            "Take care! Where are you from? (Combine greetings)",
-            "I'm not American. Good morning. (Combine greetings)",
-            "See you around! I'm Maya. (Combine greetings)"
+            "Hi! How's it going?",
+            "Take care! Where are you from?",
+            "I'm not American. Good morning.",
+            "See you around! I'm Maya."
           ],
           "answerIndex": 0,
           "explanation": "Greeting + how-are-you ritual, in natural order."
@@ -1413,10 +1413,10 @@
         {
           "prompt": "Translate naturally: 'I'm not from here, actually — I'm American.'",
           "options": [
-            "I'm not from here, actually — I'm American. (Combine greetings)",
-            "Not I'm here from — American. (Combine greetings)",
-            "I American not from here am. (Combine greetings)",
-            "Here I'm not from, American I am. (Combine greetings)"
+            "I'm not from here, actually — I'm American.",
+            "Not I'm here from — American.",
+            "I American not from here am.",
+            "Here I'm not from, American I am."
           ],
           "answerIndex": 0,
           "explanation": "Standard natural English word order."
@@ -1424,10 +1424,10 @@
         {
           "prompt": "Why is it useful to have BOTH a specific ('see you tomorrow') and a vague ('see you around') way to say goodbye?",
           "options": [
-            "They mean the exact same thing, no real reason (Combine greetings)",
-            "Specific closings are never used in English (Combine greetings)",
-            "Different situations call for different levels of commitment — vague closings suit casual, one-off chats (Combine greetings)",
-            "Vague closings are always more polite (Combine greetings)"
+            "They mean the exact same thing, no real reason",
+            "Specific closings are never used in English",
+            "Different situations call for different levels of commitment — vague closings suit casual, one-off chats",
+            "Vague closings are always more polite"
           ],
           "answerIndex": 2,
           "explanation": "This reflects the practical distinction drawn in the lesson."
@@ -1439,10 +1439,10 @@
         {
           "prompt": "Natural order for a first-meeting conversation:",
           "options": [
-            "Greeting → how-are-you → self-intro → origin → close (Combine greetings)",
-            "Origin → greeting → close → self-intro (Combine greetings)",
-            "Self-intro → origin → close → greeting (Combine greetings)",
-            "Close → self-intro → greeting → origin (Combine greetings)"
+            "Greeting → how-are-you → self-intro → origin → close",
+            "Origin → greeting → close → self-intro",
+            "Self-intro → origin → close → greeting",
+            "Close → self-intro → greeting → origin"
           ],
           "answerIndex": 0,
           "explanation": "The natural conversational flow built across this unit.",
@@ -1451,10 +1451,10 @@
         {
           "prompt": "See you around! implies:",
           "options": [
-            "A confirmed appointment (Combine greetings)",
-            "Anger or annoyance (Combine greetings)",
-            "A formal business closing (Combine greetings)",
-            "A vague, open-ended goodbye, no specific promise (Combine greetings)"
+            "A confirmed appointment",
+            "Anger or annoyance",
+            "A formal business closing",
+            "A vague, open-ended goodbye, no specific promise"
           ],
           "answerIndex": 3,
           "explanation": "It's intentionally non-committal.",
@@ -1463,10 +1463,10 @@
         {
           "prompt": "Take care! is:",
           "options": [
-            "Only used for medical emergencies (Combine greetings)",
-            "Rude (Combine greetings)",
-            "A warm, broadly appropriate farewell (Combine greetings)",
-            "Only used with strangers, never friends (Combine greetings)"
+            "Only used for medical emergencies",
+            "Rude",
+            "A warm, broadly appropriate farewell",
+            "Only used with strangers, never friends"
           ],
           "answerIndex": 2,
           "explanation": "Warm and broadly usable.",
@@ -1475,10 +1475,10 @@
         {
           "prompt": "A common cue that someone doesn't want to chat in a shared space:",
           "options": [
-            "Sitting down nearby (Combine greetings)",
-            "Headphones in, focused on a laptop (Combine greetings)",
-            "Smiling (Combine greetings)",
-            "Making eye contact (Combine greetings)"
+            "Sitting down nearby",
+            "Headphones in, focused on a laptop",
+            "Smiling",
+            "Making eye contact"
           ],
           "answerIndex": 1,
           "explanation": "The practical social cue from the lesson.",
@@ -1487,10 +1487,10 @@
         {
           "prompt": "'Hi! How's it going?' — 'Pretty good, thanks. I'm Jordan, by the way.' demonstrates:",
           "options": [
-            "A greeting followed by the how-are-you ritual and a self-introduction, chained naturally (Combine greetings)",
-            "A formal business greeting only (Combine greetings)",
-            "A farewell exchange (Combine greetings)",
-            "Only a self-introduction, nothing else (Combine greetings)"
+            "A greeting followed by the how-are-you ritual and a self-introduction, chained naturally",
+            "A formal business greeting only",
+            "A farewell exchange",
+            "Only a self-introduction, nothing else"
           ],
           "answerIndex": 0,
           "explanation": "This chains together the unit's core pieces.",
@@ -1499,10 +1499,10 @@
         {
           "prompt": "Why combine greeting, ritual check-in, self-intro, and origin into ONE practiced flow?",
           "options": [
-            "Because English requires a fixed script with no variation ever (Combine greetings)",
-            "Because these elements are unrelated and never appear together (Combine greetings)",
-            "Because it's only used in formal writing (Combine greetings)",
-            "Because that's the natural shape of most real first meetings in English (Combine greetings)"
+            "Because English requires a fixed script with no variation ever",
+            "Because these elements are unrelated and never appear together",
+            "Because it's only used in formal writing",
+            "Because that's the natural shape of most real first meetings in English"
           ],
           "answerIndex": 3,
           "explanation": "This is exactly the synthesis goal of this final lesson.",
@@ -1923,10 +1923,10 @@
         {
           "prompt": "How do you say 4:30 in traditional English time?",
           "options": [
-            "half to four (Can ask and tell the time in English using both digital and analog formats half past)",
-            "four and half (Can ask and tell the time in English using both digital and analog formats half past)",
-            "four and thirty (Can ask and tell the time in English using both digital and analog formats half past)",
-            "half past four (Can ask and tell the time in English using both digital and analog formats half past)"
+            "half to four",
+            "four and half",
+            "four and thirty",
+            "half past four"
           ],
           "answerIndex": 3,
           "explanation": "30 minutes past the hour is 'half past four'."
@@ -1934,10 +1934,10 @@
         {
           "prompt": "How do you express 6:45 in traditional English time?",
           "options": [
-            "quarter past six (Can ask and tell the time in English using both digital and analog formats half past)",
-            "quarter to six (Can ask and tell the time in English using both digital and analog formats half past)",
-            "fifteen past seven (Can ask and tell the time in English using both digital and analog formats half past)",
-            "quarter to seven (Can ask and tell the time in English using both digital and analog formats half past)"
+            "quarter past six",
+            "quarter to six",
+            "fifteen past seven",
+            "quarter to seven"
           ],
           "answerIndex": 3,
           "explanation": "6:45 is 15 minutes before 7:00, expressed as 'quarter to seven'."
@@ -1945,10 +1945,10 @@
         {
           "prompt": "Which preposition must be used with specific clock times?",
           "options": [
-            "on (Can ask and tell the time in English using both digital and analog formats half past)",
-            "in (Can ask and tell the time in English using both digital and analog formats half past)",
-            "by (Can ask and tell the time in English using both digital and analog formats half past)",
-            "at (Can ask and tell the time in English using both digital and analog formats half past)"
+            "on",
+            "in",
+            "by",
+            "at"
           ],
           "answerIndex": 3,
           "explanation": "Specific clock times strictly take the preposition 'at'."
@@ -1960,10 +1960,10 @@
         {
           "prompt": "Translate: 'The meeting begins at 9:15 AM.'",
           "options": [
-            "The meeting begins at quarter past nine in the morning. (Can ask and tell the time in English using both digital and analog formats half past)",
-            "The meeting begins in quarter past nine in the morning. (Can ask and tell the time in English using both digital and analog formats half past)",
-            "The meeting begins on quarter past nine in the morning. (Can ask and tell the time in English using both digital and analog formats half past)",
-            "The meeting begins at nine forty-five. (Can ask and tell the time in English using both digital and analog formats half past)"
+            "The meeting begins at quarter past nine in the morning.",
+            "The meeting begins in quarter past nine in the morning.",
+            "The meeting begins on quarter past nine in the morning.",
+            "The meeting begins at nine forty-five."
           ],
           "answerIndex": 0,
           "explanation": "'at quarter past nine' (9:15) with preposition 'at'."
@@ -1971,10 +1971,10 @@
         {
           "prompt": "How is 8:05 spoken digitally?",
           "options": [
-            "eight oh five (Can ask and tell the time in English using both digital and analog formats half past)",
-            "eight zero five (Can ask and tell the time in English using both digital and analog formats half past)",
-            "eight five (Can ask and tell the time in English using both digital and analog formats half past)",
-            "five to eight (Can ask and tell the time in English using both digital and analog formats half past)"
+            "eight oh five",
+            "eight zero five",
+            "eight five",
+            "five to eight"
           ],
           "answerIndex": 0,
           "explanation": "Single digit minutes after the hour use 'oh': 'eight oh five'."
@@ -1986,10 +1986,10 @@
         {
           "prompt": "What time is 2:15?",
           "options": [
-            "two and quarter (Can ask and tell the time in English using both digital and analog formats half past)",
-            "quarter past two (Can ask and tell the time in English using both digital and analog formats half past)",
-            "quarter to two (Can ask and tell the time in English using both digital and analog formats half past)",
-            "half past two (Can ask and tell the time in English using both digital and analog formats half past)"
+            "two and quarter",
+            "quarter past two",
+            "quarter to two",
+            "half past two"
           ],
           "answerIndex": 1,
           "explanation": "2:15 is 'quarter past two'.",
@@ -1998,10 +1998,10 @@
         {
           "prompt": "What time is 8:50?",
           "options": [
-            "ten to nine (Can ask and tell the time in English using both digital and analog formats half past)",
-            "ten past eight (Can ask and tell the time in English using both digital and analog formats half past)",
-            "nine fifty (Can ask and tell the time in English using both digital and analog formats half past)",
-            "ten to eight (Can ask and tell the time in English using both digital and analog formats half past)"
+            "ten to nine",
+            "ten past eight",
+            "nine fifty",
+            "ten to eight"
           ],
           "answerIndex": 0,
           "explanation": "10 minutes before 9:00 is 'ten to nine'.",
@@ -2010,10 +2010,10 @@
         {
           "prompt": "Complete the sentence: 'We will meet ___ noon.'",
           "options": [
-            "in (Can ask and tell the time in English using both digital and analog formats half past)",
-            "on (Can ask and tell the time in English using both digital and analog formats half past)",
-            "to (Can ask and tell the time in English using both digital and analog formats half past)",
-            "at (Can ask and tell the time in English using both digital and analog formats half past)"
+            "in",
+            "on",
+            "to",
+            "at"
           ],
           "answerIndex": 3,
           "explanation": "Noon and midnight take 'at'.",
@@ -2022,10 +2022,10 @@
         {
           "prompt": "What does 'Do you have the time?' mean when asked by a stranger?",
           "options": [
-            "How long is the movie? (Can ask and tell the time in English using both digital and analog formats half past)",
-            "Are you free to talk? (Can ask and tell the time in English using both digital and analog formats half past)",
-            "What time is it right now? (Can ask and tell the time in English using both digital and analog formats half past)",
-            "Do you own a watch? (Can ask and tell the time in English using both digital and analog formats half past)"
+            "How long is the movie?",
+            "Are you free to talk?",
+            "What time is it right now?",
+            "Do you own a watch?"
           ],
           "answerIndex": 2,
           "explanation": "Idiomatic polite question for 'What time is it?'.",
@@ -2034,10 +2034,10 @@
         {
           "prompt": "12:00 PM is called:",
           "options": [
-            "midnight (Can ask and tell the time in English using both digital and analog formats half past)",
-            "noon / midday (Can ask and tell the time in English using both digital and analog formats half past)",
-            "early morning (Can ask and tell the time in English using both digital and analog formats half past)",
-            "twelve o'clock night (Can ask and tell the time in English using both digital and analog formats half past)"
+            "midnight",
+            "noon / midday",
+            "early morning",
+            "twelve o'clock night"
           ],
           "answerIndex": 1,
           "explanation": "12:00 PM is noon.",
@@ -2084,10 +2084,10 @@
         {
           "prompt": "Which sentence correctly uses time prepositions and capitalization?",
           "options": [
-            "The exam is on Friday, July 15th at 9:00 AM. (Can identify and spell all days of the week and months of the year in English)",
-            "The exam is at friday, in July 15th at 9:00 AM. (Can identify and spell all days of the week and months of the year in English)",
-            "The exam is on friday, at july 15th in 9:00 AM. (Can identify and spell all days of the week and months of the year in English)",
-            "The exam is in Friday, July 15th on 9:00 AM. (Can identify and spell all days of the week and months of the year in English)"
+            "The exam is on Friday, July 15th at 9:00 AM.",
+            "The exam is at friday, in July 15th at 9:00 AM.",
+            "The exam is on friday, at july 15th in 9:00 AM.",
+            "The exam is in Friday, July 15th on 9:00 AM."
           ],
           "answerIndex": 0,
           "explanation": "ON Friday (day/date) + July capitalized + AT 9:00 AM (clock time)."
@@ -2095,10 +2095,10 @@
         {
           "prompt": "Which letter is silent in the pronunciation of 'Wednesday'?",
           "options": [
-            "The first 'd' (Can identify and spell all days of the week and months of the year in English)",
-            "The 's' (Can identify and spell all days of the week and months of the year in English)",
-            "The 'y' (Can identify and spell all days of the week and months of the year in English)",
-            "The 'w' (Can identify and spell all days of the week and months of the year in English)"
+            "The first 'd'",
+            "The 's'",
+            "The 'y'",
+            "The 'w'"
           ],
           "answerIndex": 0,
           "explanation": "The first 'd' in Wednesday is completely silent."
@@ -2106,10 +2106,10 @@
         {
           "prompt": "Choose the correct preposition: 'I was born ___ 1998.'",
           "options": [
-            "in (Can identify and spell all days of the week and months of the year in English)",
-            "to (Can identify and spell all days of the week and months of the year in English)",
-            "on (Can identify and spell all days of the week and months of the year in English)",
-            "at (Can identify and spell all days of the week and months of the year in English)"
+            "in",
+            "to",
+            "on",
+            "at"
           ],
           "answerIndex": 0,
           "explanation": "Years take the preposition 'in' (in 1998)."
@@ -2121,10 +2121,10 @@
         {
           "prompt": "Translate: 'We are going on vacation in July.'",
           "options": [
-            "We are going on vacation in July. (Can identify and spell all days of the week and months of the year in English)",
-            "We are going on vacation on July. (Can identify and spell all days of the week and months of the year in English)",
-            "We are going on vacation in july. (Can identify and spell all days of the week and months of the year in English)",
-            "We are going on vacation at July. (Can identify and spell all days of the week and months of the year in English)"
+            "We are going on vacation in July.",
+            "We are going on vacation on July.",
+            "We are going on vacation in july. (C)",
+            "We are going on vacation at July."
           ],
           "answerIndex": 0,
           "explanation": "Months take 'in' + July must be capitalized."
@@ -2132,10 +2132,10 @@
         {
           "prompt": "Select the correct sequence of days from Tuesday to Thursday:",
           "options": [
-            "Tuesday, Wednesday, Thursday (Can identify and spell all days of the week and months of the year in English)",
-            "Monday, Tuesday, Wednesday (Can identify and spell all days of the week and months of the year in English)",
-            "Thursday, Friday, Saturday (Can identify and spell all days of the week and months of the year in English)",
-            "Wednesday, Thursday, Friday (Can identify and spell all days of the week and months of the year in English)"
+            "Tuesday, Wednesday, Thursday",
+            "Monday, Tuesday, Wednesday",
+            "Thursday, Friday, Saturday",
+            "Wednesday, Thursday, Friday"
           ],
           "answerIndex": 0,
           "explanation": "Tuesday, Wednesday, Thursday."
@@ -2147,10 +2147,10 @@
         {
           "prompt": "Today is Thursday. Tomorrow will be:",
           "options": [
-            "Friday (Can identify and spell all days of the week and months of the year in English)",
-            "Saturday (Can identify and spell all days of the week and months of the year in English)",
-            "Wednesday (Can identify and spell all days of the week and months of the year in English)",
-            "Tuesday (Can identify and spell all days of the week and months of the year in English)"
+            "Friday",
+            "Saturday",
+            "Wednesday",
+            "Tuesday"
           ],
           "answerIndex": 0,
           "explanation": "The day after Thursday is Friday.",
@@ -2159,10 +2159,10 @@
         {
           "prompt": "Are days and months capitalized in English?",
           "options": [
-            "Only months of the year (Can identify and spell all days of the week and months of the year in English)",
-            "No, never (Can identify and spell all days of the week and months of the year in English)",
-            "Only days of the week (Can identify and spell all days of the week and months of the year in English)",
-            "Yes, always (Can identify and spell all days of the week and months of the year in English)"
+            "Only months of the year",
+            "No, never",
+            "Only days of the week",
+            "Yes, always"
           ],
           "answerIndex": 3,
           "explanation": "Days and months in English are proper nouns and always capitalized.",
@@ -2171,10 +2171,10 @@
         {
           "prompt": "Fill in the blank: 'The festival starts ___ October 12th.'",
           "options": [
-            "at (Can identify and spell all days of the week and months of the year in English)",
-            "in (Can identify and spell all days of the week and months of the year in English)",
-            "on (Can identify and spell all days of the week and months of the year in English)",
-            "by (Can identify and spell all days of the week and months of the year in English)"
+            "at",
+            "in",
+            "on",
+            "by"
           ],
           "answerIndex": 2,
           "explanation": "Specific calendar dates take 'on' (on October 12th).",
@@ -2183,10 +2183,10 @@
         {
           "prompt": "Fill in the blank: 'The flight arrives ___ 3:30 PM.'",
           "options": [
-            "on (Can identify and spell all days of the week and months of the year in English)",
-            "at (Can identify and spell all days of the week and months of the year in English)",
-            "in (Can identify and spell all days of the week and months of the year in English)",
-            "of (Can identify and spell all days of the week and months of the year in English)"
+            "on",
+            "at",
+            "in",
+            "of"
           ],
           "answerIndex": 1,
           "explanation": "Clock times take 'at'.",
@@ -2195,10 +2195,10 @@
         {
           "prompt": "Which preposition is used for seasons (e.g. summer)?",
           "options": [
-            "in (Can identify and spell all days of the week and months of the year in English)",
-            "at (Can identify and spell all days of the week and months of the year in English)",
-            "on (Can identify and spell all days of the week and months of the year in English)",
-            "to (Can identify and spell all days of the week and months of the year in English)"
+            "in",
+            "at",
+            "on",
+            "to"
           ],
           "answerIndex": 0,
           "explanation": "Seasons take 'in'.",
@@ -2247,10 +2247,10 @@
         {
           "prompt": "How does Alex state the ticket price (£35) correctly in written English?",
           "options": [
-            "thirty-five pounds (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "thirty five pounds (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "thirteen-five pounds (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "thirty-five pound (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "thirty-five pounds",
+            "thirty five pounds",
+            "thirteen-five pounds",
+            "thirty-five pound"
           ],
           "answerIndex": 0,
           "explanation": "Compound numbers 21-99 require a hyphen: 'thirty-five pounds'."
@@ -2258,10 +2258,10 @@
         {
           "prompt": "What does the idiom 'Sounds like a plan!' mean when confirming a social plan?",
           "options": [
-            "Agreed! / Great idea! / Let's do it! (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "I need to write a plan (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "I cannot come (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Maybe next month (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "Agreed! / Great idea! / Let's do it!",
+            "I need to write a plan",
+            "I cannot come",
+            "Maybe next month"
           ],
           "answerIndex": 0,
           "explanation": "'Sounds like a plan!' enthusiastically confirms an arrangement."
@@ -2269,10 +2269,10 @@
         {
           "prompt": "How do you say: 'The film is on Friday at 8:30 PM and costs $15'?",
           "options": [
-            "The film is on Friday at eight thirty PM and costs fifteen dollars. (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "The film is in Friday in eight thirty PM and costs fifteen dollars. (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "The film is at Friday on eight thirty PM and costs fifteen dollar. (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "The film is on Friday on eight thirty PM and cost fifty dollars. (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "The film is on Friday at eight thirty PM and costs fifteen dollars.",
+            "The film is in Friday in eight thirty PM and costs fifteen dollars.",
+            "The film is at Friday on eight thirty PM and costs fifteen dollar.",
+            "The film is on Friday on eight thirty PM and cost fifty dollars."
           ],
           "answerIndex": 0,
           "explanation": "ON Friday (day) + AT 8:30 PM (time) + costs fifteen dollars (price)."
@@ -2284,10 +2284,10 @@
         {
           "prompt": "Translate: 'Are you free on Tuesday at 4:00 PM?'",
           "options": [
-            "Are you free on Tuesday at four o'clock in the afternoon? (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Are you free at Tuesday in four o'clock? (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Are you free on tuesday at four? (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Are you free in Tuesday on four o'clock in the afternoon? (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "Are you free on Tuesday at four o'clock in the afternoon?",
+            "Are you free at Tuesday in four o'clock?",
+            "Are you free on tuesday at four?",
+            "Are you free in Tuesday on four o'clock in the afternoon?"
           ],
           "answerIndex": 0,
           "explanation": "ON Tuesday (capitalized) + AT 4:00 PM."
@@ -2295,10 +2295,10 @@
         {
           "prompt": "How is the phone number 0791-44-68 read naturally in English?",
           "options": [
-            "oh-seven-nine-one, double-four, six-eight (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "oh seven nine one four four six eight (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "seven hundred ninety-one, forty-four (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "zero seven hundred ninety-one forty-four (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "oh-seven-nine-one, double-four, six-eight",
+            "oh seven nine one four four six eight",
+            "seven hundred ninety-one, forty-four",
+            "zero seven hundred ninety-one forty-four"
           ],
           "answerIndex": 0,
           "explanation": "Standard natural English dictation uses 'oh' and 'double-four'."
@@ -2310,10 +2310,10 @@
         {
           "prompt": "Fill in the blanks: 'Are you free ___ Friday ___ seven PM?'",
           "options": [
-            "in / at (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "at / on (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "on / in (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "on / at (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "in / at",
+            "at / on",
+            "on / in",
+            "on / at"
           ],
           "answerIndex": 3,
           "explanation": "ON for days, AT for clock times.",
@@ -2322,10 +2322,10 @@
         {
           "prompt": "The ticket costs $45. How is 45 written in words?",
           "options": [
-            "fourty-five (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "forty five (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "forty-five (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "fourteen-five (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "fourty-five",
+            "forty five",
+            "forty-five",
+            "fourteen-five"
           ],
           "answerIndex": 2,
           "explanation": "45 is 'forty-five' (no 'u' in forty, with hyphen).",
@@ -2334,10 +2334,10 @@
         {
           "prompt": "'Let's meet on Friday at seven!' — A natural confirmation response is:",
           "options": [
-            "I don't know. (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Sounds like a plan! See you on Friday! (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "What is your name? (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Excuse me, please. (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "I don't know.",
+            "Sounds like a plan! See you on Friday!",
+            "What is your name?",
+            "Excuse me, please."
           ],
           "answerIndex": 1,
           "explanation": "'Sounds like a plan! See you on Friday!' is natural.",
@@ -2346,10 +2346,10 @@
         {
           "prompt": "Which idiom expresses enthusiastic agreement to meet?",
           "options": [
-            "Sounds like a plan! / It's a deal! (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Out of the blue! (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Break a leg! (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Never mind! (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "Sounds like a plan! / It's a deal!",
+            "Out of the blue!",
+            "Break a leg!",
+            "Never mind!"
           ],
           "answerIndex": 0,
           "explanation": "'Sounds like a plan!' confirms an arrangement.",
@@ -2358,10 +2358,10 @@
         {
           "prompt": "What is the primary goal of this capstone dialogue?",
           "options": [
-            "Only memorizing the alphabet (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Only learning how to count to 10 (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Only ordering food (Can participate in a multiturn English dialogue scheduling a meeting)",
-            "Synthesizing greetings, days, times, numbers, prices, and conversational scheduling in English (Can participate in a multiturn English dialogue scheduling a meeting)"
+            "Only memorizing the alphabet",
+            "Only learning how to count to 10",
+            "Only ordering food",
+            "Synthesizing greetings, days, times, numbers, prices, and conversational scheduling in English"
           ],
           "answerIndex": 3,
           "explanation": "Capstone synthesizes greetings, days, times, numbers, prices, and conversational scheduling.",
@@ -2408,10 +2408,10 @@
         {
           "prompt": "Which word collective refers to both your brothers and sisters?",
           "options": [
-            "parents (Identify immediate family members in English father)",
-            "children (Identify immediate family members in English father)",
-            "cousins (Identify immediate family members in English father)",
-            "siblings (Identify immediate family members in English father)"
+            "parents",
+            "children",
+            "cousins",
+            "siblings"
           ],
           "answerIndex": 3,
           "explanation": "'Siblings' is the gender-neutral collective term for brothers and sisters."
@@ -2419,10 +2419,10 @@
         {
           "prompt": "Complete the sentence: 'David is talking to ___ sister.' (David is male)",
           "options": [
-            "their (Identify immediate family members in English father)",
-            "its (Identify immediate family members in English father)",
-            "his (Identify immediate family members in English father)",
-            "her (Identify immediate family members in English father)"
+            "their",
+            "its",
+            "his",
+            "her"
           ],
           "answerIndex": 2,
           "explanation": "David is male singular, requiring 'his'."
@@ -2430,10 +2430,10 @@
         {
           "prompt": "What is the irregular plural form of 'child'?",
           "options": [
-            "childes (Identify immediate family members in English father)",
-            "children (Identify immediate family members in English father)",
-            "childrens (Identify immediate family members in English father)",
-            "childs (Identify immediate family members in English father)"
+            "childes",
+            "children",
+            "childrens",
+            "childs"
           ],
           "answerIndex": 1,
           "explanation": "'child' forms the irregular plural 'children'."
@@ -2445,10 +2445,10 @@
         {
           "prompt": "Translate: 'Emma loves her brother.'",
           "options": [
-            "Emma loves his brother. (Identify immediate family members in English father)",
-            "Emma loves its brother. (Identify immediate family members in English father)",
-            "Emma loves their brother. (Identify immediate family members in English father)",
-            "Emma loves her brother. (Identify immediate family members in English father)"
+            "Emma loves his brother.",
+            "Emma loves its brother.",
+            "Emma loves their brother.",
+            "Emma loves her brother."
           ],
           "answerIndex": 3,
           "explanation": "Emma is female, so the possessive is 'her'."
@@ -2456,10 +2456,10 @@
         {
           "prompt": "Which possessive determiner means belonging to 'we / us'?",
           "options": [
-            "my (Identify immediate family members in English father)",
-            "their (Identify immediate family members in English father)",
-            "our (Identify immediate family members in English father)",
-            "your (Identify immediate family members in English father)"
+            "my",
+            "their",
+            "our",
+            "your"
           ],
           "answerIndex": 2,
           "explanation": "'our' is the 1st person plural possessive determiner."
@@ -2471,10 +2471,10 @@
         {
           "prompt": "Select the correct collective term: 'My mother and father are my ___.'",
           "options": [
-            "siblings (Identify immediate family members in English father)",
-            "children (Identify immediate family members in English father)",
-            "parents (Identify immediate family members in English father)",
-            "grandparents (Identify immediate family members in English father)"
+            "siblings",
+            "children",
+            "parents",
+            "grandparents"
           ],
           "answerIndex": 2,
           "explanation": "Mother and father are parents.",
@@ -2483,10 +2483,10 @@
         {
           "prompt": "Fill in the blank: 'Alex and Lisa love ___ new puppy.' (Alex and Lisa = they)",
           "options": [
-            "our (Identify immediate family members in English father)",
-            "their (Identify immediate family members in English father)",
-            "her (Identify immediate family members in English father)",
-            "his (Identify immediate family members in English father)"
+            "our",
+            "their",
+            "her",
+            "his"
           ],
           "answerIndex": 1,
           "explanation": "3rd person plural owner requires 'their'.",
@@ -2495,10 +2495,10 @@
         {
           "prompt": "What is the spelling of the possessive 'its' (belonging to it)?",
           "options": [
-            "its (Identify immediate family members in English father)",
-            "its' (Identify immediate family members in English father)",
-            "itt's (Identify immediate family members in English father)",
-            "it's (Identify immediate family members in English father)"
+            "its",
+            "its'",
+            "itt's",
+            "it's"
           ],
           "answerIndex": 0,
           "explanation": "Possessive 'its' has no apostrophe ('it's' means 'it is').",
@@ -2507,10 +2507,10 @@
         {
           "prompt": "A female child is called a:",
           "options": [
-            "brother (Identify immediate family members in English father)",
-            "son (Identify immediate family members in English father)",
-            "father (Identify immediate family members in English father)",
-            "daughter (Identify immediate family members in English father)"
+            "brother",
+            "son",
+            "father",
+            "daughter"
           ],
           "answerIndex": 3,
           "explanation": "Daughter.",
@@ -2519,10 +2519,10 @@
         {
           "prompt": "How do you ask someone how many brothers and sisters they have?",
           "options": [
-            "Who is your brother? (Identify immediate family members in English father)",
-            "Where are your children? (Identify immediate family members in English father)",
-            "Do you have any siblings? (Identify immediate family members in English father)",
-            "Are you family? (Identify immediate family members in English father)"
+            "Who is your brother?",
+            "Where are your children?",
+            "Do you have any siblings?",
+            "Are you family?"
           ],
           "answerIndex": 2,
           "explanation": "'Do you have any siblings?' is standard natural English.",
@@ -2570,10 +2570,10 @@
         {
           "prompt": "Which sentence correctly refers to a house owned by both of your parents?",
           "options": [
-            "This is my parents' house. (Master the rules of the English possessive apostrophes s)",
-            "This is my parent's house. (Master the rules of the English possessive apostrophes s)",
-            "This is my parentes house. (Master the rules of the English possessive apostrophes s)",
-            "This is my parents house. (Master the rules of the English possessive apostrophes s)"
+            "This is my parents' house.",
+            "This is my parent's house.",
+            "This is my parentes house.",
+            "This is my parents house."
           ],
           "answerIndex": 0,
           "explanation": "'parents'' with the apostrophe after the 's' indicates plural possession."
@@ -2581,10 +2581,10 @@
         {
           "prompt": "How is the possessive of the irregular plural 'children' written correctly?",
           "options": [
-            "the children's playground (Master the rules of the English possessive apostrophes s)",
-            "the childrens' playground (Master the rules of the English possessive apostrophes s)",
-            "the children playground (Master the rules of the English possessive apostrophes s)",
-            "the childrens playground (Master the rules of the English possessive apostrophes s)"
+            "the children's playground",
+            "the childrens' playground",
+            "the children playground",
+            "the childrens playground"
           ],
           "answerIndex": 0,
           "explanation": "Because 'children' does not end in 's', add `'s`."
@@ -2592,10 +2592,10 @@
         {
           "prompt": "How is 'Chris's car' pronounced?",
           "options": [
-            "KRIS-iz (Master the rules of the English possessive apostrophes s)",
-            "KRIS (Master the rules of the English possessive apostrophes s)",
-            "KRIS-ee (Master the rules of the English possessive apostrophes s)",
-            "KRIS-ess (Master the rules of the English possessive apostrophes s)"
+            "KRIS-iz",
+            "KRIS",
+            "KRIS-ee",
+            "KRIS-ess"
           ],
           "answerIndex": 0,
           "explanation": "Names ending in sibilants add the extra /ɪz/ sound."
@@ -2607,10 +2607,10 @@
         {
           "prompt": "Select the correct punctuation: 'This is my sister___ cat.' (one sister)",
           "options": [
-            "sisters' (Master the rules of the English possessive apostrophes s)",
-            "sisters (Master the rules of the English possessive apostrophes s)",
-            "sister (Master the rules of the English possessive apostrophes s)",
-            "sister's (Master the rules of the English possessive apostrophes s)"
+            "sisters'",
+            "sisters",
+            "sister",
+            "sister's"
           ],
           "answerIndex": 3,
           "explanation": "One sister takes `'s`: sister's."
@@ -2618,10 +2618,10 @@
         {
           "prompt": "Which of these contains the incorrect 'greengrocer's apostrophe'?",
           "options": [
-            "'Sarah's book' (Master the rules of the English possessive apostrophes s)",
-            "'The teachers' lounge' (Master the rules of the English possessive apostrophes s)",
-            "'The men's department' (Master the rules of the English possessive apostrophes s)",
-            "'Fresh Banana's for sale' (Master the rules of the English possessive apostrophes s)"
+            "'Sarah's book'",
+            "'The teachers' lounge'",
+            "'The men's department'",
+            "'Fresh Banana's for sale'"
           ],
           "answerIndex": 3,
           "explanation": "'Banana's' incorrectly uses an apostrophe for a simple plural."
@@ -2633,10 +2633,10 @@
         {
           "prompt": "'My brothers' bedroom' means:",
           "options": [
-            "The brother is in the bedroom (Master the rules of the English possessive apostrophes s)",
-            "The bedroom shared by two or more brothers (Master the rules of the English possessive apostrophes s)",
-            "There are no brothers (Master the rules of the English possessive apostrophes s)",
-            "The bedroom of only one brother (Master the rules of the English possessive apostrophes s)"
+            "The brother is in the bedroom",
+            "The bedroom shared by two or more brothers",
+            "There are no brothers",
+            "The bedroom of only one brother"
           ],
           "answerIndex": 1,
           "explanation": "Apostrophe after the 's' indicates plural brothers.",
@@ -2645,10 +2645,10 @@
         {
           "prompt": "'My brother's bedroom' means:",
           "options": [
-            "The bedroom of one single brother (Master the rules of the English possessive apostrophes s)",
-            "Brothers are in the room (Master the rules of the English possessive apostrophes s)",
-            "A hotel room (Master the rules of the English possessive apostrophes s)",
-            "The bedroom of multiple brothers (Master the rules of the English possessive apostrophes s)"
+            "The bedroom of one single brother",
+            "Brothers are in the room",
+            "A hotel room",
+            "The bedroom of multiple brothers"
           ],
           "answerIndex": 0,
           "explanation": "'s indicates singular possession.",
@@ -2657,10 +2657,10 @@
         {
           "prompt": "Choose the correct spelling: 'The ___ coats are hanging in the hallway.' (men = plural)",
           "options": [
-            "mens' (Master the rules of the English possessive apostrophes s)",
-            "mens (Master the rules of the English possessive apostrophes s)",
-            "manes (Master the rules of the English possessive apostrophes s)",
-            "men's (Master the rules of the English possessive apostrophes s)"
+            "mens'",
+            "mens",
+            "manes",
+            "men's"
           ],
           "answerIndex": 3,
           "explanation": "Irregular plural 'men' takes `'s`.",
@@ -2669,10 +2669,10 @@
         {
           "prompt": "What is the possessive form of 'James'?",
           "options": [
-            "Jame's (Master the rules of the English possessive apostrophes s)",
-            "James'es (Master the rules of the English possessive apostrophes s)",
-            "James's (Master the rules of the English possessive apostrophes s)",
-            "Jamess (Master the rules of the English possessive apostrophes s)"
+            "Jame's",
+            "James'es",
+            "James's",
+            "Jamess"
           ],
           "answerIndex": 2,
           "explanation": "James's (or James') is correct.",
@@ -2681,10 +2681,10 @@
         {
           "prompt": "Should you EVER use an apostrophe to make a regular word plural (e.g. two cat's)?",
           "options": [
-            "Only for fruit names (Master the rules of the English possessive apostrophes s)",
-            "No, never — apostrophes show possession or contraction, not plurality (Master the rules of the English possessive apostrophes s)",
-            "Yes, always (Master the rules of the English possessive apostrophes s)",
-            "Only on weekends (Master the rules of the English possessive apostrophes s)"
+            "Only for fruit names",
+            "No, never — apostrophes show possession or contraction, not plurality",
+            "Yes, always",
+            "Only on weekends"
           ],
           "answerIndex": 1,
           "explanation": "Apostrophes never indicate simple plurality.",
@@ -2731,10 +2731,10 @@
         {
           "prompt": "What is the relationship of your brother's daughter to you?",
           "options": [
-            "nephew (Identify extended family members and relationship structures in English grandfather)",
-            "cousin (Identify extended family members and relationship structures in English grandfather)",
-            "sister-in-law (Identify extended family members and relationship structures in English grandfather)",
-            "niece (Identify extended family members and relationship structures in English grandfather)"
+            "nephew",
+            "cousin",
+            "sister-in-law",
+            "niece"
           ],
           "answerIndex": 3,
           "explanation": "A sibling's daughter is your niece."
@@ -2742,10 +2742,10 @@
         {
           "prompt": "What is the correct plural form of 'sister-in-law'?",
           "options": [
-            "sister-in-laws (Identify extended family members and relationship structures in English grandfather)",
-            "sisters-in-laws (Identify extended family members and relationship structures in English grandfather)",
-            "sister-ins-law (Identify extended family members and relationship structures in English grandfather)",
-            "sisters-in-law (Identify extended family members and relationship structures in English grandfather)"
+            "sister-in-laws",
+            "sisters-in-laws",
+            "sister-ins-law",
+            "sisters-in-law"
           ],
           "answerIndex": 3,
           "explanation": "The person noun 'sister' takes the plural 's': sisters-in-law."
@@ -2753,10 +2753,10 @@
         {
           "prompt": "What is the child of your aunt or uncle called in English?",
           "options": [
-            "nephew (Identify extended family members and relationship structures in English grandfather)",
-            "niece (Identify extended family members and relationship structures in English grandfather)",
-            "sibling (Identify extended family members and relationship structures in English grandfather)",
-            "cousin (Identify extended family members and relationship structures in English grandfather)"
+            "nephew",
+            "niece",
+            "sibling",
+            "cousin"
           ],
           "answerIndex": 3,
           "explanation": "The child of an aunt or uncle is your cousin."
@@ -2768,10 +2768,10 @@
         {
           "prompt": "What is the relationship of your sibling's son to you?",
           "options": [
-            "nephew (Identify extended family members and relationship structures in English grandfather)",
-            "niece (Identify extended family members and relationship structures in English grandfather)",
-            "cousin (Identify extended family members and relationship structures in English grandfather)",
-            "grandson (Identify extended family members and relationship structures in English grandfather)"
+            "nephew",
+            "niece",
+            "cousin",
+            "grandson"
           ],
           "answerIndex": 0,
           "explanation": "A sibling's son is your nephew."
@@ -2779,10 +2779,10 @@
         {
           "prompt": "How is the father of your spouse written?",
           "options": [
-            "father-in-law (Identify extended family members and relationship structures in English grandfather)",
-            "father in law (Identify extended family members and relationship structures in English grandfather)",
-            "fatherinlaw (Identify extended family members and relationship structures in English grandfather)",
-            "father's in law (Identify extended family members and relationship structures in English grandfather)"
+            "father-in-law",
+            "father in law",
+            "fatherinlaw",
+            "father's in law"
           ],
           "answerIndex": 0,
           "explanation": "In-law relationships are compound words written with hyphens."
@@ -2794,10 +2794,10 @@
         {
           "prompt": "Your mother's brother is your:",
           "options": [
-            "uncle (Identify extended family members and relationship structures in English grandfather)",
-            "grandfather (Identify extended family members and relationship structures in English grandfather)",
-            "aunt (Identify extended family members and relationship structures in English grandfather)",
-            "cousin (Identify extended family members and relationship structures in English grandfather)"
+            "uncle",
+            "grandfather",
+            "aunt",
+            "cousin"
           ],
           "answerIndex": 0,
           "explanation": "A mother's or father's brother is an uncle.",
@@ -2806,10 +2806,10 @@
         {
           "prompt": "Your father's sister is your:",
           "options": [
-            "niece (Identify extended family members and relationship structures in English grandfather)",
-            "uncle (Identify extended family members and relationship structures in English grandfather)",
-            "grandmother (Identify extended family members and relationship structures in English grandfather)",
-            "aunt (Identify extended family members and relationship structures in English grandfather)"
+            "niece",
+            "uncle",
+            "grandmother",
+            "aunt"
           ],
           "answerIndex": 3,
           "explanation": "A father's or mother's sister is an aunt.",
@@ -2818,10 +2818,10 @@
         {
           "prompt": "Choose the correct plural: 'Both of my ___ are visiting this weekend.'",
           "options": [
-            "brothers-ins-law (Identify extended family members and relationship structures in English grandfather)",
-            "brother-in-laws (Identify extended family members and relationship structures in English grandfather)",
-            "brothers-in-law (Identify extended family members and relationship structures in English grandfather)",
-            "brother-in-law's (Identify extended family members and relationship structures in English grandfather)"
+            "brothers-ins-law",
+            "brother-in-laws",
+            "brothers-in-law",
+            "brother-in-law's"
           ],
           "answerIndex": 2,
           "explanation": "brothers-in-law is the standard grammatical plural.",
@@ -2830,10 +2830,10 @@
         {
           "prompt": "A brother who shares only one biological parent with you is your:",
           "options": [
-            "stepbrother (Identify extended family members and relationship structures in English grandfather)",
-            "half-brother (Identify extended family members and relationship structures in English grandfather)",
-            "cousin (Identify extended family members and relationship structures in English grandfather)",
-            "brother-in-law (Identify extended family members and relationship structures in English grandfather)"
+            "stepbrother",
+            "half-brother",
+            "cousin",
+            "brother-in-law"
           ],
           "answerIndex": 1,
           "explanation": "A half-brother shares one biological parent.",
@@ -2842,10 +2842,10 @@
         {
           "prompt": "What is the collective term for your grandfather and grandmother?",
           "options": [
-            "grandparents (Identify extended family members and relationship structures in English grandfather)",
-            "parents (Identify extended family members and relationship structures in English grandfather)",
-            "in-laws (Identify extended family members and relationship structures in English grandfather)",
-            "ancestors (Identify extended family members and relationship structures in English grandfather)"
+            "grandparents",
+            "parents",
+            "in-laws",
+            "ancestors"
           ],
           "answerIndex": 0,
           "explanation": "Grandparents.",
@@ -2893,10 +2893,10 @@
         {
           "prompt": "Complete the sentence: '___ four people in my family.'",
           "options": [
-            "There are (Master existential sentences with There is singularuncountable and There are plural)",
-            "There has (Master existential sentences with There is singularuncountable and There are plural)",
-            "It has (Master existential sentences with There is singularuncountable and There are plural)",
-            "There is (Master existential sentences with There is singularuncountable and There are plural)"
+            "There are",
+            "There has",
+            "It has",
+            "There is"
           ],
           "answerIndex": 0,
           "explanation": "Plural 'four people' strictly requires 'There are'."
@@ -2904,10 +2904,10 @@
         {
           "prompt": "How do you ask if a supermarket exists near here?",
           "options": [
-            "Is there a supermarket near here? (Master existential sentences with There is singularuncountable and There are plural)",
-            "There is a supermarket near here? (Master existential sentences with There is singularuncountable and There are plural)",
-            "Has there a supermarket? (Master existential sentences with There is singularuncountable and There are plural)",
-            "Are there a supermarket near here? (Master existential sentences with There is singularuncountable and There are plural)"
+            "Is there a supermarket near here?",
+            "There is a supermarket near here?",
+            "Has there a supermarket?",
+            "Are there a supermarket near here?"
           ],
           "answerIndex": 0,
           "explanation": "Invert 'There is' -> 'Is there a supermarket...?'"
@@ -2915,10 +2915,10 @@
         {
           "prompt": "What is the natural contraction for 'There is' in casual spoken English?",
           "options": [
-            "There's (Master existential sentences with There is singularuncountable and There are plural)",
-            "They're (Master existential sentences with There is singularuncountable and There are plural)",
-            "Ther'is (Master existential sentences with There is singularuncountable and There are plural)",
-            "There're (Master existential sentences with There is singularuncountable and There are plural)"
+            "There's",
+            "They're",
+            "Ther'is",
+            "There're"
           ],
           "answerIndex": 0,
           "explanation": "'There's' is the standard contraction for 'There is'."
@@ -2930,10 +2930,10 @@
         {
           "prompt": "Complete the negative sentence: 'There ___ any milk in the fridge.' (uncountable)",
           "options": [
-            "isn't (Master existential sentences with There is singularuncountable and There are plural)",
-            "don't (Master existential sentences with There is singularuncountable and There are plural)",
-            "aren't (Master existential sentences with There is singularuncountable and There are plural)",
-            "not (Master existential sentences with There is singularuncountable and There are plural)"
+            "isn't",
+            "don't",
+            "aren't",
+            "not"
           ],
           "answerIndex": 0,
           "explanation": "Uncountable nouns take singular 'isn't'."
@@ -2941,10 +2941,10 @@
         {
           "prompt": "Translate: 'Are there any questions?'",
           "options": [
-            "Are there any questions? (Master existential sentences with There is singularuncountable and There are plural)",
-            "Is there any questions? (Master existential sentences with There is singularuncountable and There are plural)",
-            "Have you any questions? (Master existential sentences with There is singularuncountable and There are plural)",
-            "There are any questions? (Master existential sentences with There is singularuncountable and There are plural)"
+            "Are there any questions?",
+            "Is there any questions?",
+            "Have you any questions?",
+            "There are any questions?"
           ],
           "answerIndex": 0,
           "explanation": "Plural questions take 'Are there any questions?'"
@@ -2956,10 +2956,10 @@
         {
           "prompt": "Choose the correct verb: '___ three apples on the table.'",
           "options": [
-            "They have (Master existential sentences with There is singularuncountable and There are plural)",
-            "There is (Master existential sentences with There is singularuncountable and There are plural)",
-            "It is (Master existential sentences with There is singularuncountable and There are plural)",
-            "There are (Master existential sentences with There is singularuncountable and There are plural)"
+            "They have",
+            "There is",
+            "It is",
+            "There are"
           ],
           "answerIndex": 3,
           "explanation": "Three apples is plural -> 'There are'.",
@@ -2968,10 +2968,10 @@
         {
           "prompt": "Choose the correct verb: '___ a hospital on Main Street.'",
           "options": [
-            "They are (Master existential sentences with There is singularuncountable and There are plural)",
-            "There are (Master existential sentences with There is singularuncountable and There are plural)",
-            "There is (Master existential sentences with There is singularuncountable and There are plural)",
-            "There have (Master existential sentences with There is singularuncountable and There are plural)"
+            "They are",
+            "There are",
+            "There is",
+            "There have"
           ],
           "answerIndex": 2,
           "explanation": "A hospital is singular -> 'There is'.",
@@ -2980,10 +2980,10 @@
         {
           "prompt": "'How many people are there in your family?' — A natural answer is:",
           "options": [
-            "There is four people. (Master existential sentences with There is singularuncountable and There are plural)",
-            "There are four of us: my parents, my brother, and me. (Master existential sentences with There is singularuncountable and There are plural)",
-            "I am four family. (Master existential sentences with There is singularuncountable and There are plural)",
-            "My family have four. (Master existential sentences with There is singularuncountable and There are plural)"
+            "There is four people.",
+            "There are four of us: my parents, my brother, and me.",
+            "I am four family.",
+            "My family have four."
           ],
           "answerIndex": 1,
           "explanation": "'There are four of us' is standard natural English.",
@@ -2992,10 +2992,10 @@
         {
           "prompt": "What is the negative plural form of 'There are'?",
           "options": [
-            "There aren't (Master existential sentences with There is singularuncountable and There are plural)",
-            "There isn't (Master existential sentences with There is singularuncountable and There are plural)",
-            "There not (Master existential sentences with There is singularuncountable and There are plural)",
-            "There don't (Master existential sentences with There is singularuncountable and There are plural)"
+            "There aren't",
+            "There isn't",
+            "There not",
+            "There don't"
           ],
           "answerIndex": 0,
           "explanation": "There aren't.",
@@ -3004,10 +3004,10 @@
         {
           "prompt": "'Is there a park nearby?' — Correct positive short answer:",
           "options": [
-            "Yes, there are. (Master existential sentences with There is singularuncountable and There are plural)",
-            "Yes, it is. (Master existential sentences with There is singularuncountable and There are plural)",
-            "Yes, there has. (Master existential sentences with There is singularuncountable and There are plural)",
-            "Yes, there is. (Master existential sentences with There is singularuncountable and There are plural)"
+            "Yes, there are.",
+            "Yes, it is.",
+            "Yes, there has.",
+            "Yes, there is."
           ],
           "answerIndex": 3,
           "explanation": "Yes, there is.",
@@ -3056,10 +3056,10 @@
         {
           "prompt": "How does Oliver describe his uncle David's relationship to his mother?",
           "options": [
-            "He's my mother's older brother. (Participate in a multiturn English dialogue introducing a family photo)",
-            "He's my mothers older brother. (Participate in a multiturn English dialogue introducing a family photo)",
-            "He's the brother of my mother's. (Participate in a multiturn English dialogue introducing a family photo)",
-            "He's my mother brother. (Participate in a multiturn English dialogue introducing a family photo)"
+            "He's my mother's older brother.",
+            "He's my mothers older brother.",
+            "He's the brother of my mother's.",
+            "He's my mother brother."
           ],
           "answerIndex": 0,
           "explanation": "'my mother's older brother' is natural and correct."
@@ -3067,10 +3067,10 @@
         {
           "prompt": "How does Oliver state the total number of family members in the photo?",
           "options": [
-            "There are twelve of us in total. (Participate in a multiturn English dialogue introducing a family photo)",
-            "There is twelve of us. (Participate in a multiturn English dialogue introducing a family photo)",
-            "We are twelve people in total. (Participate in a multiturn English dialogue introducing a family photo)",
-            "It has twelve of us. (Participate in a multiturn English dialogue introducing a family photo)"
+            "There are twelve of us in total.",
+            "There is twelve of us.",
+            "We are twelve people in total.",
+            "It has twelve of us."
           ],
           "answerIndex": 0,
           "explanation": "'There are twelve of us in total' is natural English."
@@ -3078,10 +3078,10 @@
         {
           "prompt": "What is Mark's relationship to Oliver?",
           "options": [
-            "brother-in-law (Participate in a multiturn English dialogue introducing a family photo)",
-            "cousin (Participate in a multiturn English dialogue introducing a family photo)",
-            "uncle (Participate in a multiturn English dialogue introducing a family photo)",
-            "nephew (Participate in a multiturn English dialogue introducing a family photo)"
+            "brother-in-law",
+            "cousin",
+            "uncle",
+            "nephew"
           ],
           "answerIndex": 0,
           "explanation": "A sister's husband is a brother-in-law."
@@ -3093,10 +3093,10 @@
         {
           "prompt": "Translate: 'My grandparents' house is in Manchester.'",
           "options": [
-            "My grandparents house is in Manchester. (Participate in a multiturn English dialogue introducing a family photo)",
-            "My grandparents' house is in Manchester. (Participate in a multiturn English dialogue introducing a family photo)",
-            "My grandparent house is in Manchester. (Participate in a multiturn English dialogue introducing a family photo)",
-            "My grandparent's house is in Manchester. (Participate in a multiturn English dialogue introducing a family photo)"
+            "My grandparents house is in Manchester.",
+            "My grandparents' house is in Manchester.",
+            "My grandparent house is in Manchester.",
+            "My grandparent's house is in Manchester."
           ],
           "answerIndex": 1,
           "explanation": "'grandparents'' with apostrophe after 's' represents both grandparents."
@@ -3104,10 +3104,10 @@
         {
           "prompt": "What are your uncle's children called?",
           "options": [
-            "cousins (Participate in a multiturn English dialogue introducing a family photo)",
-            "nieces (Participate in a multiturn English dialogue introducing a family photo)",
-            "siblings (Participate in a multiturn English dialogue introducing a family photo)",
-            "nephews (Participate in a multiturn English dialogue introducing a family photo)"
+            "cousins",
+            "nieces",
+            "siblings",
+            "nephews"
           ],
           "answerIndex": 0,
           "explanation": "An uncle's children are cousins."
@@ -3119,10 +3119,10 @@
         {
           "prompt": "Fill in the blank: '___ twelve people in the family photograph.'",
           "options": [
-            "There is (Participate in a multiturn English dialogue introducing a family photo)",
-            "It is (Participate in a multiturn English dialogue introducing a family photo)",
-            "There are (Participate in a multiturn English dialogue introducing a family photo)",
-            "They are (Participate in a multiturn English dialogue introducing a family photo)"
+            "There is",
+            "It is",
+            "There are",
+            "They are"
           ],
           "answerIndex": 2,
           "explanation": "Plural requires 'There are'.",
@@ -3131,10 +3131,10 @@
         {
           "prompt": "'My sister's husband' is my:",
           "options": [
-            "father-in-law (Participate in a multiturn English dialogue introducing a family photo)",
-            "brother-in-law (Participate in a multiturn English dialogue introducing a family photo)",
-            "nephew (Participate in a multiturn English dialogue introducing a family photo)",
-            "stepbrother (Participate in a multiturn English dialogue introducing a family photo)"
+            "father-in-law",
+            "brother-in-law",
+            "nephew",
+            "stepbrother"
           ],
           "answerIndex": 1,
           "explanation": "Brother-in-law.",
@@ -3143,10 +3143,10 @@
         {
           "prompt": "Which sentence correctly demonstrates possessive punctuation?",
           "options": [
-            "My parents' anniversary was celebrated at my uncle's restaurant. (Participate in a multiturn English dialogue introducing a family photo)",
-            "My parents anniversary was celebrated at my uncle's restaurant. (Participate in a multiturn English dialogue introducing a family photo)",
-            "My parents's anniversary was celebrated at my uncles' restaurant. (Participate in a multiturn English dialogue introducing a family photo)",
-            "My parent's anniversary was celebrated at my uncles restaurant. (Participate in a multiturn English dialogue introducing a family photo)"
+            "My parents' anniversary was celebrated at my uncle's restaurant.",
+            "My parents anniversary was celebrated at my uncle's restaurant.",
+            "My parents's anniversary was celebrated at my uncles' restaurant.",
+            "My parent's anniversary was celebrated at my uncles restaurant."
           ],
           "answerIndex": 0,
           "explanation": "parents' (plural) + uncle's (singular).",
@@ -3155,10 +3155,10 @@
         {
           "prompt": "What is the primary goal of this capstone lesson?",
           "options": [
-            "Only memorizing names of cities (Participate in a multiturn English dialogue introducing a family photo)",
-            "Only learning the alphabet (Participate in a multiturn English dialogue introducing a family photo)",
-            "Only learning food vocabulary (Participate in a multiturn English dialogue introducing a family photo)",
-            "Synthesizing family vocabulary, possessive apostrophes, extended kinship, and 'there is/are' into fluent conversational descriptions (Participate in a multiturn English dialogue introducing a family photo)"
+            "Only memorizing names of cities",
+            "Only learning the alphabet",
+            "Only learning food vocabulary",
+            "Synthesizing family vocabulary, possessive apostrophes, extended kinship, and 'there is/are' into fluent conversational descriptions"
           ],
           "answerIndex": 3,
           "explanation": "Unit 3 master objective: Describing family and people with full grammatical fluency.",
@@ -3167,10 +3167,10 @@
         {
           "prompt": "How do native English speakers casually express 'My family consists of four people'?",
           "options": [
-            "We are four people family. (Participate in a multiturn English dialogue introducing a family photo)",
-            "I have four people. (Participate in a multiturn English dialogue introducing a family photo)",
-            "There are four of us in my family. (Participate in a multiturn English dialogue introducing a family photo)",
-            "Four people is my family. (Participate in a multiturn English dialogue introducing a family photo)"
+            "We are four people family.",
+            "I have four people.",
+            "There are four of us in my family.",
+            "Four people is my family."
           ],
           "answerIndex": 2,
           "explanation": "'There are four of us in my family' is standard native phrasing.",
@@ -3217,10 +3217,10 @@
         {
           "prompt": "Choose the correct Present Simple form: 'My sister ___ English in Tokyo.' (teach)",
           "options": [
-            "teach (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "teachies (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "teachs (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "teaches (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "teach",
+            "teachies",
+            "teachs",
+            "teaches"
           ],
           "answerIndex": 3,
           "explanation": "Verbs ending in -ch add -es: teaches."
@@ -3228,10 +3228,10 @@
         {
           "prompt": "How is the final '-s' pronounced in 'She lives in London'?",
           "options": [
-            "Silent (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "As an extra syllable /ɪz/ (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "As a voiced /z/ sound (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "As a voiceless /s/ sound (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "Silent",
+            "As an extra syllable /ɪz/",
+            "As a voiced /z/ sound",
+            "As a voiceless /s/ sound"
           ],
           "answerIndex": 2,
           "explanation": "After voiced /v/, final -s is pronounced /z/."
@@ -3239,10 +3239,10 @@
         {
           "prompt": "What is the 3rd person singular spelling of 'study' (consonant + y)?",
           "options": [
-            "studyies (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "studies (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "study (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "studys (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "studyies",
+            "studies",
+            "study",
+            "studys"
           ],
           "answerIndex": 1,
           "explanation": "study -> studies."
@@ -3254,10 +3254,10 @@
         {
           "prompt": "Translate: 'He speaks English and works in finance.'",
           "options": [
-            "He speak English and work in finance. (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "He speaking English and working. (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "He speaks English and work in finance. (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "He speaks English and works in finance. (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "He speak English and work in finance.",
+            "He speaking English and working.",
+            "He speaks English and work in finance.",
+            "He speaks English and works in finance."
           ],
           "answerIndex": 3,
           "explanation": "Both verbs require 3rd person -s: speaks, works."
@@ -3265,10 +3265,10 @@
         {
           "prompt": "Which verb gains an extra syllable when conjugated for 'he'?",
           "options": [
-            "read -> reads (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "walk -> walks (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "watch -> watches (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "play -> plays (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "read -> reads",
+            "walk -> walks",
+            "watch -> watches",
+            "play -> plays"
           ],
           "answerIndex": 2,
           "explanation": "watches adds the extra /ɪz/ syllable."
@@ -3280,10 +3280,10 @@
         {
           "prompt": "Which sentence is grammatically correct in standard English?",
           "options": [
-            "David work in an office and play tennis. (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "David works in an office and plays tennis on weekends. (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "David work in an office and plays tennis. (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "David works in an office and play tennis. (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "David work in an office and play tennis.",
+            "David works in an office and plays tennis on weekends.",
+            "David work in an office and plays tennis.",
+            "David works in an office and play tennis."
           ],
           "answerIndex": 1,
           "explanation": "Both verbs take 3rd-person -s with 'David'.",
@@ -3292,10 +3292,10 @@
         {
           "prompt": "When is the final '-es' suffix pronounced as an extra /ɪz/ syllable?",
           "options": [
-            "After sibilant sounds like /s, z, ʃ, tʃ, dʒ/ (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "Only on irregular verbs (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "Never in British English (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "After all consonants (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "After sibilant sounds like /s, z, ʃ, tʃ, dʒ/",
+            "Only on irregular verbs",
+            "Never in British English",
+            "After all consonants"
           ],
           "answerIndex": 0,
           "explanation": "Sibilant consonants trigger epenthetic vowel insertion /ɪz/.",
@@ -3304,10 +3304,10 @@
         {
           "prompt": "What is the correct 3rd person form of 'go' and 'do'?",
           "options": [
-            "go and do (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "goies and doies (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "gos and dos (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "goes and does (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "go and do",
+            "goies and doies",
+            "gos and dos",
+            "goes and does"
           ],
           "answerIndex": 3,
           "explanation": "goes and does.",
@@ -3316,10 +3316,10 @@
         {
           "prompt": "What does the Present Simple primarily express in English?",
           "options": [
-            "Completed past events (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "Future hypotheses only (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "Habits, routines, permanent facts, and general truths (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "Actions happening right this exact second only (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "Completed past events",
+            "Future hypotheses only",
+            "Habits, routines, permanent facts, and general truths",
+            "Actions happening right this exact second only"
           ],
           "answerIndex": 2,
           "explanation": "Habits, routines, and permanent states.",
@@ -3328,10 +3328,10 @@
         {
           "prompt": "Identify the phonetic pronunciation of 'likes':",
           "options": [
-            "laɪkɪz (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "laɪks / LYKS with voiceless /s/ after voiceless /k/ (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "laɪk (Form affirmative Present Simple sentences across all subject pronouns I)",
-            "laɪkz (Form affirmative Present Simple sentences across all subject pronouns I)"
+            "laɪkɪz",
+            "laɪks / LYKS with voiceless /s/ after voiceless /k/",
+            "laɪk",
+            "laɪkz"
           ],
           "answerIndex": 1,
           "explanation": "Voiceless /k/ triggers voiceless /s/.",
@@ -3378,10 +3378,10 @@
         {
           "prompt": "Choose the correct negative sentence:",
           "options": [
-            "Mark doesn't eat meat. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Mark doesn't eats meat. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Mark not eats meat. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Mark don't eat meat. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "Mark doesn't eat meat.",
+            "Mark doesn't eats meat.",
+            "Mark not eats meat.",
+            "Mark don't eat meat."
           ],
           "answerIndex": 0,
           "explanation": "doesn't + bare infinitive 'eat'."
@@ -3389,10 +3389,10 @@
         {
           "prompt": "What happens to the main verb after 'doesn't'?",
           "options": [
-            "It drops the '-s' and returns to its bare base infinitive form (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "It keeps the '-s' (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "It adds -ing (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "It changes to past tense (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "It drops the '-s' and returns to its bare base infinitive form",
+            "It keeps the '-s'",
+            "It adds -ing",
+            "It changes to past tense"
           ],
           "answerIndex": 0,
           "explanation": "'doesn't' carries the 3rd person marker, so the main verb is base form."
@@ -3400,10 +3400,10 @@
         {
           "prompt": "Which auxiliary contraction is used for 'We' in Present Simple negation?",
           "options": [
-            "don't (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "doesn't (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "isn't (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "aren't (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "don't",
+            "doesn't",
+            "isn't",
+            "aren't"
           ],
           "answerIndex": 0,
           "explanation": "We don't."
@@ -3415,10 +3415,10 @@
         {
           "prompt": "Translate: 'She doesn't live with her parents.'",
           "options": [
-            "She doesn't lives with her parents. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "She don't live with her parents. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "She not live with her parents. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "She doesn't live with her parents. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "She doesn't lives with her parents.",
+            "She don't live with her parents.",
+            "She not live with her parents.",
+            "She doesn't live with her parents."
           ],
           "answerIndex": 3,
           "explanation": "She doesn't live."
@@ -3426,10 +3426,10 @@
         {
           "prompt": "Why is 'They doesn't work here' grammatically incorrect?",
           "options": [
-            "Because 'work' needs an -s (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Because 'here' is in the wrong position (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "It is actually correct (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Because 'They' requires 'don't', not 'doesn't' (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "Because 'work' needs an -s",
+            "Because 'here' is in the wrong position",
+            "It is actually correct",
+            "Because 'They' requires 'don't', not 'doesn't'"
           ],
           "answerIndex": 3,
           "explanation": "'They' pairs strictly with 'don't'."
@@ -3441,10 +3441,10 @@
         {
           "prompt": "Which sentence contains NO grammatical errors?",
           "options": [
-            "Emma works at a bank, but she doesn't like her commute. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Emma work at a bank, but she don't like her commute. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Emma works at a bank, but she not likes her commute. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Emma works at a bank, but she doesn't likes her commute. (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "Emma works at a bank, but she doesn't like her commute.",
+            "Emma work at a bank, but she don't like her commute.",
+            "Emma works at a bank, but she not likes her commute.",
+            "Emma works at a bank, but she doesn't likes her commute."
           ],
           "answerIndex": 0,
           "explanation": "works (affirmative 3rd person) + doesn't like (negative bare infinitive).",
@@ -3453,10 +3453,10 @@
         {
           "prompt": "Why is the phrase 'He doesn't speaks English' considered an error?",
           "options": [
-            "Because 'doesn't' is only used in questions (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Because 'English' cannot follow 'speaks' (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "It is British slang (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "Double-marking error: 'does' already marks the 3rd person, so 'speaks' must be bare 'speak' (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "Because 'doesn't' is only used in questions",
+            "Because 'English' cannot follow 'speaks'",
+            "It is British slang",
+            "Double-marking error: 'does' already marks the 3rd person, so 'speaks' must be bare 'speak'"
           ],
           "answerIndex": 3,
           "explanation": "Double-marking error.",
@@ -3465,10 +3465,10 @@
         {
           "prompt": "What is the contracted form of 'do not' and 'does not'?",
           "options": [
-            "do'nt and does'nt (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "dnot and dsnot (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "don't and doesn't (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "dont and doesnt (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "do'nt and does'nt",
+            "dnot and dsnot",
+            "don't and doesn't",
+            "dont and doesnt"
           ],
           "answerIndex": 2,
           "explanation": "don't and doesn't.",
@@ -3477,10 +3477,10 @@
         {
           "prompt": "'I don't have enough time' means:",
           "options": [
-            "My watch is late (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "I lack sufficient time (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "I have plenty of time (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "What time is it (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "My watch is late",
+            "I lack sufficient time",
+            "I have plenty of time",
+            "What time is it"
           ],
           "answerIndex": 1,
           "explanation": "I lack sufficient time.",
@@ -3489,10 +3489,10 @@
         {
           "prompt": "In the sentence 'It doesn't matter', what is 'matter'?",
           "options": [
-            "A base verb meaning 'to be important / to make a difference' (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "A preposition (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "A physical object (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)",
-            "An adjective (Form negative Present Simple sentences using auxiliary do not  dont and does not  doesnt  BARE INFINITIVE He doesnt work)"
+            "A base verb meaning 'to be important / to make a difference'",
+            "A preposition",
+            "A physical object",
+            "An adjective"
           ],
           "answerIndex": 0,
           "explanation": "'matter' functions as a base verb.",
@@ -3539,10 +3539,10 @@
         {
           "prompt": "Construct the correct question: 'Where / your sister / live?'",
           "options": [
-            "Where your sister lives? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Where do your sister live? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Where lives your sister? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Where does your sister live? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "Where your sister lives?",
+            "Where do your sister live?",
+            "Where lives your sister?",
+            "Where does your sister live?"
           ],
           "answerIndex": 3,
           "explanation": "Q-A-S-V: Where does your sister live?"
@@ -3550,10 +3550,10 @@
         {
           "prompt": "How do you politely answer the question 'Do you live nearby?' in the affirmative?",
           "options": [
-            "Yes, I live. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Yes, I am. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Yes, I have. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Yes, I do. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "Yes, I live.",
+            "Yes, I am.",
+            "Yes, I have.",
+            "Yes, I do."
           ],
           "answerIndex": 3,
           "explanation": "Natural short answer: Yes, I do."
@@ -3561,10 +3561,10 @@
         {
           "prompt": "How do you ask 'Who wants coffee?' when 'Who' is the subject?",
           "options": [
-            "Who does want coffee? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Who do want coffee? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Who is want coffee? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Who wants coffee? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "Who does want coffee?",
+            "Who do want coffee?",
+            "Who is want coffee?",
+            "Who wants coffee?"
           ],
           "answerIndex": 3,
           "explanation": "Subject questions do not take do/does: Who wants coffee?"
@@ -3576,10 +3576,10 @@
         {
           "prompt": "Translate: 'What time does the train arrive?'",
           "options": [
-            "What time does the train arrive? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "What time the train arrives? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "What time do the train arrive? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "What time arrives the train? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "What time does the train arrive?",
+            "What time the train arrives?",
+            "What time do the train arrive?",
+            "What time arrives the train?"
           ],
           "answerIndex": 0,
           "explanation": "What time does the train arrive?"
@@ -3587,10 +3587,10 @@
         {
           "prompt": "What is the correct negative short answer to 'Does he speak German?'",
           "options": [
-            "No, he doesn't. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "No, he don't. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "No, he isn't. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "No, he not. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "No, he doesn't.",
+            "No, he don't.",
+            "No, he isn't.",
+            "No, he not."
           ],
           "answerIndex": 0,
           "explanation": "No, he doesn't."
@@ -3602,9 +3602,9 @@
         {
           "prompt": "What is the universal 4-part formula for building information questions in English?",
           "options": [
-            "Verb + Subject + Question Word (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Question Word + Verb + Subject (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "S-V-O: Subject + Verb + Object (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
+            "Verb + Subject + Question Word",
+            "Question Word + Verb + Subject",
+            "S-V-O: Subject + Verb + Object",
             "Q-A-S-V: Question Word + Auxiliary (Do/Does)"
           ],
           "answerIndex": 3,
@@ -3614,10 +3614,10 @@
         {
           "prompt": "Which question is grammatically flawless?",
           "options": [
-            "Why you want to learn English? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Why do you wants to learn English? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Why do you want to learn English? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Why does you want to learn English? (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "Why you want to learn English?",
+            "Why do you wants to learn English?",
+            "Why do you want to learn English?",
+            "Why does you want to learn English?"
           ],
           "answerIndex": 2,
           "explanation": "Why do you want to learn English?",
@@ -3626,10 +3626,10 @@
         {
           "prompt": "Why do we say 'Who lives here?' without the auxiliary 'does'?",
           "options": [
-            "Because 'live' is an irregular verb (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Because 'Who' is the subject of the sentence, so the verb attaches directly to it in 3rd-person form (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "It is a spelling exception (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Because 'does' is forbidden in questions (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "Because 'live' is an irregular verb",
+            "Because 'Who' is the subject of the sentence, so the verb attaches directly to it in 3rd-person form",
+            "It is a spelling exception",
+            "Because 'does' is forbidden in questions"
           ],
           "answerIndex": 1,
           "explanation": "Subject question rule.",
@@ -3638,10 +3638,10 @@
         {
           "prompt": "Select the correct short answer to: 'Do they work in the same office?'",
           "options": [
-            "Yes, they do. / No, they don't. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Yes, they are. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "No, they aren't. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Yes, they work. (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "Yes, they do. / No, they don't.",
+            "Yes, they are.",
+            "No, they aren't.",
+            "Yes, they work."
           ],
           "answerIndex": 0,
           "explanation": "Echoes auxiliary 'do/don't'.",
@@ -3650,10 +3650,10 @@
         {
           "prompt": "'How often does she travel for work?' asks about:",
           "options": [
-            "The cost of her ticket (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Her travel destination (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "Her companion (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)",
-            "The frequency of her business travel (Form YesNo and Wh Information Questions in the Present Simple using the universal QASV Question Word  Auxiliary  Subject  Verb architecture)"
+            "The cost of her ticket",
+            "Her travel destination",
+            "Her companion",
+            "The frequency of her business travel"
           ],
           "answerIndex": 3,
           "explanation": "Frequency of business travel.",
@@ -3701,10 +3701,10 @@
         {
           "prompt": "Where does the frequency adverb go in: 'She ___ (always / be) on time'?",
           "options": [
-            "She is always on time. (Apply Adverbs of Frequency always)",
-            "She on time is always. (Apply Adverbs of Frequency always)",
-            "Always she is on time. (Apply Adverbs of Frequency always)",
-            "She always is on time. (Apply Adverbs of Frequency always)"
+            "She is always on time.",
+            "She on time is always.",
+            "Always she is on time.",
+            "She always is on time."
           ],
           "answerIndex": 0,
           "explanation": "Adverbs of frequency stand AFTER 'to be': She is always on time."
@@ -3712,10 +3712,10 @@
         {
           "prompt": "Where does the frequency adverb go in: 'David ___ (usually / drink) coffee'?",
           "options": [
-            "David usually drinks coffee. (Apply Adverbs of Frequency always)",
-            "David drinks coffee usually. (Apply Adverbs of Frequency always)",
-            "Usually David drink coffee. (Apply Adverbs of Frequency always)",
-            "David drinks usually coffee. (Apply Adverbs of Frequency always)"
+            "David usually drinks coffee.",
+            "David drinks coffee usually.",
+            "Usually David drink coffee.",
+            "David drinks usually coffee."
           ],
           "answerIndex": 0,
           "explanation": "Adverbs stand BEFORE main verbs: usually drinks."
@@ -3723,10 +3723,10 @@
         {
           "prompt": "Which sentence avoids a double negative blunder?",
           "options": [
-            "He never eats meat. (Apply Adverbs of Frequency always)",
-            "He never doesn't eat meat. (Apply Adverbs of Frequency always)",
-            "He doesn't never eat meat. (Apply Adverbs of Frequency always)",
-            "He not never eats meat. (Apply Adverbs of Frequency always)"
+            "He never eats meat.",
+            "He never doesn't eat meat.",
+            "He doesn't never eat meat.",
+            "He not never eats meat."
           ],
           "answerIndex": 0,
           "explanation": "'never' carries negative meaning by itself."
@@ -3738,10 +3738,10 @@
         {
           "prompt": "Translate: 'We often take the tube to work.'",
           "options": [
-            "We often take the tube to work. (Apply Adverbs of Frequency always)",
-            "Often we are taking tube. (Apply Adverbs of Frequency always)",
-            "We take often the tube to work. (Apply Adverbs of Frequency always)",
-            "We take the tube often to work. (Apply Adverbs of Frequency always)"
+            "We often take the tube to work.",
+            "Often we are taking tube.",
+            "We take often the tube to work.",
+            "We take the tube often to work."
           ],
           "answerIndex": 0,
           "explanation": "We often take."
@@ -3749,10 +3749,10 @@
         {
           "prompt": "What frequency percentage does 'hardly ever / rarely' convey?",
           "options": [
-            "10–20% (Apply Adverbs of Frequency always)",
-            "100% (Apply Adverbs of Frequency always)",
-            "0% (Apply Adverbs of Frequency always)",
-            "50% (Apply Adverbs of Frequency always)"
+            "10–20%",
+            "100%",
+            "0%",
+            "50%"
           ],
           "answerIndex": 0,
           "explanation": "hardly ever / rarely = 10–20% frequency."
@@ -3764,10 +3764,10 @@
         {
           "prompt": "Choose the correctly ordered sentence:",
           "options": [
-            "James is late rarely, and he always finish his reports. (Apply Adverbs of Frequency always)",
-            "James rarely is late, and he finishes always his reports on time. (Apply Adverbs of Frequency always)",
-            "James is rarely late, and he always finishes his reports on time. (Apply Adverbs of Frequency always)",
-            "James rarely late is, and always he finishes. (Apply Adverbs of Frequency always)"
+            "James is late rarely, and he always finish his reports.",
+            "James rarely is late, and he finishes always his reports on time.",
+            "James is rarely late, and he always finishes his reports on time.",
+            "James rarely late is, and always he finishes."
           ],
           "answerIndex": 2,
           "explanation": "'is rarely' (after to be) + 'always finishes' (before main verb).",
@@ -3776,10 +3776,10 @@
         {
           "prompt": "What is the syntactic rule for frequency adverbs with main verbs vs the verb 'to be'?",
           "options": [
-            "Always at the end of the sentence (Apply Adverbs of Frequency always)",
+            "Always at the end of the sentence",
             "BEFORE ordinary main verbs (usually works)",
-            "Always before the subject (Apply Adverbs of Frequency always)",
-            "There is no rule (Apply Adverbs of Frequency always)"
+            "Always before the subject",
+            "There is no rule"
           ],
           "answerIndex": 1,
           "explanation": "Before main verbs / After to be.",
@@ -3788,10 +3788,10 @@
         {
           "prompt": "'She sometimes works from home on Fridays' shows:",
           "options": [
-            "Correct placement of 'sometimes' before the main verb 'works' (Apply Adverbs of Frequency always)",
-            "A word order error (Apply Adverbs of Frequency always)",
-            "A past tense action (Apply Adverbs of Frequency always)",
-            "An impossible action (Apply Adverbs of Frequency always)"
+            "Correct placement of 'sometimes' before the main verb 'works'",
+            "A word order error",
+            "A past tense action",
+            "An impossible action"
           ],
           "answerIndex": 0,
           "explanation": "Correct adverb placement.",
@@ -3800,10 +3800,10 @@
         {
           "prompt": "Which adverb means 0% frequency (never occurs)?",
           "options": [
-            "sometimes (Apply Adverbs of Frequency always)",
-            "always (Apply Adverbs of Frequency always)",
-            "usually (Apply Adverbs of Frequency always)",
-            "never (Apply Adverbs of Frequency always)"
+            "sometimes",
+            "always",
+            "usually",
+            "never"
           ],
           "answerIndex": 3,
           "explanation": "never = 0%.",
@@ -3812,10 +3812,10 @@
         {
           "prompt": "Why is 'I am always tired on Mondays' correct while 'I always am tired' sounds unnatural?",
           "options": [
-            "Because Mondays are plural (Apply Adverbs of Frequency always)",
-            "Because 'tired' is an irregular word (Apply Adverbs of Frequency always)",
-            "Because frequency adverbs must strictly follow the copula verb 'am/is/are' (Apply Adverbs of Frequency always)",
-            "It is a British spelling rule (Apply Adverbs of Frequency always)"
+            "Because Mondays are plural",
+            "Because 'tired' is an irregular word",
+            "Because frequency adverbs must strictly follow the copula verb 'am/is/are'",
+            "It is a British spelling rule"
           ],
           "answerIndex": 2,
           "explanation": "Copula placement rule.",
@@ -3864,10 +3864,10 @@
         {
           "prompt": "How does Marcus ask Sophie if she works at the co-working space every day using correct Q-A-S-V question syntax?",
           "options": [
-            "Do you work here every day? (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "You work here every day? (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Are you work here every day? (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Work you here every day? (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "Do you work here every day?",
+            "You work here every day?",
+            "Are you work here every day?",
+            "Work you here every day?"
           ],
           "answerIndex": 0,
           "explanation": "Do you work here every day?"
@@ -3875,10 +3875,10 @@
         {
           "prompt": "How does Sophie describe her weekly routine with frequency adverbs?",
           "options": [
-            "I usually come in Monday to Thursday, but I always work from home on Fridays. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "I come in usually, but I work always from home. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Usually I am come in. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "I don't never work on Fridays. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "I usually come in Monday to Thursday, but I always work from home on Fridays.",
+            "I come in usually, but I work always from home.",
+            "Usually I am come in.",
+            "I don't never work on Fridays."
           ],
           "answerIndex": 0,
           "explanation": "I usually come in... I always work from home."
@@ -3886,10 +3886,10 @@
         {
           "prompt": "How does Marcus describe his team's physical workspace in the negative?",
           "options": [
-            "We don't have a permanent office. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "We doesn't have a permanent office. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "We not have an office. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "We have no not an office. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "We don't have a permanent office.",
+            "We doesn't have a permanent office.",
+            "We not have an office.",
+            "We have no not an office."
           ],
           "answerIndex": 0,
           "explanation": "We don't have."
@@ -3901,10 +3901,10 @@
         {
           "prompt": "Translate: 'Our engineer lives in Edinburgh.'",
           "options": [
-            "Our engineer is live in Edinburgh. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Our engineer lives in Edinburgh. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Our engineer living in Edinburgh. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Our engineer live in Edinburgh. (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "Our engineer is live in Edinburgh.",
+            "Our engineer lives in Edinburgh.",
+            "Our engineer living in Edinburgh.",
+            "Our engineer live in Edinburgh."
           ],
           "answerIndex": 1,
           "explanation": "lives (3rd person singular -s)."
@@ -3912,10 +3912,10 @@
         {
           "prompt": "What iconic London espresso beverage does Sophie order at 11 AM?",
           "options": [
-            "A flat white (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "A milkshake (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "A cold brew with syrup (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Instant coffee (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "A flat white",
+            "A milkshake",
+            "A cold brew with syrup",
+            "Instant coffee"
           ],
           "answerIndex": 0,
           "explanation": "A flat white."
@@ -3927,10 +3927,10 @@
         {
           "prompt": "What major grammatical toolkit was mastered in Unit 4 of the English curriculum?",
           "options": [
-            "Past Continuous tense only (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Present Simple affirmative (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Passive voice only (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Alphabet spelling only (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "Past Continuous tense only",
+            "Present Simple affirmative",
+            "Passive voice only",
+            "Alphabet spelling only"
           ],
           "answerIndex": 1,
           "explanation": "Unit 4 master grammar synthesis.",
@@ -3939,10 +3939,10 @@
         {
           "prompt": "What is the universal English professional icebreaker question to ask someone about their career?",
           "options": [
-            "'What do you do?' (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "'How much money do you make?' (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "'Where is your car?' (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "'What are you doing right now?' (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "'What do you do?'",
+            "'How much money do you make?'",
+            "'Where is your car?'",
+            "'What are you doing right now?'"
           ],
           "answerIndex": 0,
           "explanation": "'What do you do?' is the standard professional inquiry.",
@@ -3951,10 +3951,10 @@
         {
           "prompt": "In the sentence 'We rarely meet in person', what does 'rarely' express?",
           "options": [
-            "High frequency (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "100% of the time (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Future intention (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Low frequency (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "High frequency",
+            "100% of the time",
+            "Future intention",
+            "Low frequency"
           ],
           "answerIndex": 3,
           "explanation": "rarely = low frequency.",
@@ -3963,10 +3963,10 @@
         {
           "prompt": "Why is 'Does your lead engineer live in Edinburgh?' correct instead of 'Does your lead engineer lives'?",
           "options": [
-            "Because Edinburgh is a proper noun (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Because engineer ends in -r (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "Because the auxiliary 'does' already carries 3rd person marking, leaving the main verb in its bare base form 'live' (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "It is optional (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "Because Edinburgh is a proper noun",
+            "Because engineer ends in -r",
+            "Because the auxiliary 'does' already carries 3rd person marking, leaving the main verb in its bare base form 'live'",
+            "It is optional"
           ],
           "answerIndex": 2,
           "explanation": "Bare infinitive rule after auxiliary 'does'.",
@@ -3975,10 +3975,10 @@
         {
           "prompt": "What is the cultural significance of Shoreditch in London mentioned in the dialogue?",
           "options": [
-            "A quiet farming village (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "A vibrant creative, tech, and cultural district in East London known for startups, street food, and co-working hubs (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "A major shipping port (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)",
-            "The royal residential palace (Participate in a multiturn English dialogue at a Shoreditch coworking hub in London)"
+            "A quiet farming village",
+            "A vibrant creative, tech, and cultural district in East London known for startups, street food, and co-working hubs",
+            "A major shipping port",
+            "The royal residential palace"
           ],
           "answerIndex": 1,
           "explanation": "London's famous creative tech hub.",
@@ -4032,10 +4032,10 @@
         {
           "prompt": "Which preposition is used with clock times (e.g. '_____ 7:30 AM')?",
           "options": [
-            "in (Tell exact clock time and use accurate time prepositions at)",
-            "on (Tell exact clock time and use accurate time prepositions at)",
-            "for (Tell exact clock time and use accurate time prepositions at)",
-            "at (Tell exact clock time and use accurate time prepositions at)"
+            "in",
+            "on",
+            "for",
+            "at"
           ],
           "answerIndex": 3,
           "explanation": "Exact times take 'at'."
@@ -4043,10 +4043,10 @@
         {
           "prompt": "What does 'a quarter to ten' mean?",
           "options": [
-            "9:15 (Tell exact clock time and use accurate time prepositions at)",
-            "10:45 (Tell exact clock time and use accurate time prepositions at)",
-            "9:45 (Tell exact clock time and use accurate time prepositions at)",
-            "10:15 (Tell exact clock time and use accurate time prepositions at)"
+            "9:15",
+            "10:45",
+            "9:45",
+            "10:15"
           ],
           "answerIndex": 2,
           "explanation": "quarter to ten = 9:45."
@@ -4058,10 +4058,10 @@
         {
           "prompt": "Choose the correct sentence with time prepositions:",
           "options": [
-            "I study at the evening in Saturdays on 8 PM. (Tell exact clock time and use accurate time prepositions at)",
-            "I study on the evening at Saturdays in 8 PM. (Tell exact clock time and use accurate time prepositions at)",
-            "I study in 8 PM at Saturdays on the evening. (Tell exact clock time and use accurate time prepositions at)",
-            "I study in the evening on Saturdays at 8 PM. (Tell exact clock time and use accurate time prepositions at)"
+            "I study at the evening in Saturdays on 8 PM.",
+            "I study on the evening at Saturdays in 8 PM.",
+            "I study in 8 PM at Saturdays on the evening.",
+            "I study in the evening on Saturdays at 8 PM."
           ],
           "answerIndex": 3,
           "explanation": "in the evening + on Saturdays + at 8 PM."
@@ -4069,10 +4069,10 @@
         {
           "prompt": "Translate into natural English: 'It is 6:30 in the morning.'",
           "options": [
-            "It's six hours and half morning. (Tell exact clock time and use accurate time prepositions at)",
-            "It makes six and thirty in morning. (Tell exact clock time and use accurate time prepositions at)",
-            "Is six half of morning. (Tell exact clock time and use accurate time prepositions at)",
-            "It's six-thirty in the morning. (Tell exact clock time and use accurate time prepositions at)"
+            "It's six hours and half morning.",
+            "It makes six and thirty in morning.",
+            "Is six half of morning.",
+            "It's six-thirty in the morning."
           ],
           "answerIndex": 3,
           "explanation": "It's six-thirty in the morning."
@@ -4084,10 +4084,10 @@
         {
           "prompt": "Match the correct preposition with each time expression: 7:00 PM, the morning, Sundays:",
           "options": [
-            "at 7:00 PM, in the morning, on Sundays (Tell exact clock time and use accurate time prepositions at)",
-            "on 7:00 PM, at the morning, in Sundays (Tell exact clock time and use accurate time prepositions at)",
-            "at 7:00 PM, at the morning, at Sundays (Tell exact clock time and use accurate time prepositions at)",
-            "in 7:00 PM, on the morning, at Sundays (Tell exact clock time and use accurate time prepositions at)"
+            "at 7:00 PM, in the morning, on Sundays",
+            "on 7:00 PM, at the morning, in Sundays",
+            "at 7:00 PM, at the morning, at Sundays",
+            "in 7:00 PM, on the morning, at Sundays"
           ],
           "answerIndex": 0,
           "explanation": "at (clock time), in (period of day), on (days of week).",
@@ -4096,10 +4096,10 @@
         {
           "prompt": "What time is 'half past twelve'?",
           "options": [
-            "12:15 (Tell exact clock time and use accurate time prepositions at)",
-            "1:30 (Tell exact clock time and use accurate time prepositions at)",
-            "11:30 (Tell exact clock time and use accurate time prepositions at)",
-            "12:30 (Tell exact clock time and use accurate time prepositions at)"
+            "12:15",
+            "1:30",
+            "11:30",
+            "12:30"
           ],
           "answerIndex": 3,
           "explanation": "half past twelve = 12:30.",
@@ -4108,10 +4108,10 @@
         {
           "prompt": "Why do we say 'at night' but 'in the morning'?",
           "options": [
-            "There is no grammatical explanation. (Tell exact clock time and use accurate time prepositions at)",
-            "Because of Old French grammar rules. (Tell exact clock time and use accurate time prepositions at)",
-            "'Night' is treated as a single point/state taking 'at', while 'the morning/afternoon/evening' are extended periods taking 'in the'. (Tell exact clock time and use accurate time prepositions at)",
-            "Because 'night' is a plural noun. (Tell exact clock time and use accurate time prepositions at)"
+            "There is no grammatical explanation.",
+            "Because of Old French grammar rules.",
+            "'Night' is treated as a single point/state taking 'at', while 'the morning/afternoon/evening' are extended periods taking 'in the'.",
+            "Because 'night' is a plural noun."
           ],
           "answerIndex": 2,
           "explanation": "Idiomatic prepositional distinction: at night vs. in the morning.",
@@ -4120,10 +4120,10 @@
         {
           "prompt": "Translate: 'The meeting starts at half past two in the afternoon.'",
           "options": [
-            "The meeting is at midnight. (Tell exact clock time and use accurate time prepositions at)",
-            "The meeting starts at 2:30 PM. (Tell exact clock time and use accurate time prepositions at)",
-            "The meeting finishes at 2:30 PM. (Tell exact clock time and use accurate time prepositions at)",
-            "The meeting starts at 1:30 PM. (Tell exact clock time and use accurate time prepositions at)"
+            "The meeting is at midnight.",
+            "The meeting starts at 2:30 PM.",
+            "The meeting finishes at 2:30 PM.",
+            "The meeting starts at 1:30 PM."
           ],
           "answerIndex": 1,
           "explanation": "half past two in the afternoon = 2:30 PM.",
@@ -4176,10 +4176,10 @@
         {
           "prompt": "What is the 3rd person singular form of 'brush' in 'He _____ his teeth'?",
           "options": [
-            "brushes (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "brushed (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "brushs (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "brushing (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "brushes",
+            "brushed",
+            "brushs",
+            "brushing"
           ],
           "answerIndex": 0,
           "explanation": "Verbs ending in -sh add -es: brushes."
@@ -4187,10 +4187,10 @@
         {
           "prompt": "What is the difference between 'wake up' and 'get up'?",
           "options": [
-            "'Wake up' means opening your eyes; 'get up' means physically getting out of bed. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "'Wake up' is for children; 'get up' is for adults. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "They are completely unrelated. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "'Get up' is only used at night. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "'Wake up' means opening your eyes; 'get up' means physically getting out of bed.",
+            "'Wake up' is for children; 'get up' is for adults.",
+            "They are completely unrelated.",
+            "'Get up' is only used at night."
           ],
           "answerIndex": 0,
           "explanation": "Wake up = stop sleeping; Get up = physically leave the bed."
@@ -4202,10 +4202,10 @@
         {
           "prompt": "Fill in the blank: 'David _____ (have) cereal and fruit for breakfast.'",
           "options": [
-            "haves (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "having (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "has (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "have (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "haves",
+            "having",
+            "has",
+            "have"
           ],
           "answerIndex": 2,
           "explanation": "have -> has for he/she/it."
@@ -4213,10 +4213,10 @@
         {
           "prompt": "Translate: 'She gets dressed and goes to the office.'",
           "options": [
-            "She get dress and go to office. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "She is dress and going office. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "She dressing and going to work. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "She gets dressed and goes to the office. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "She get dress and go to office.",
+            "She is dress and going office.",
+            "She dressing and going to work.",
+            "She gets dressed and goes to the office."
           ],
           "answerIndex": 3,
           "explanation": "She gets dressed and goes to the office (3rd person singular agreement)."
@@ -4228,10 +4228,10 @@
         {
           "prompt": "Which sentence has correct subject-verb agreement for daily routines?",
           "options": [
-            "Mark wakes up early, wash his face, and haves breakfast. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "Mark wake up early, wash his face, and have breakfast. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "Mark waking up early and have breakfast. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "Mark wakes up early, washes his face, and has breakfast with his family. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "Mark wakes up early, wash his face, and haves breakfast.",
+            "Mark wake up early, wash his face, and have breakfast.",
+            "Mark waking up early and have breakfast.",
+            "Mark wakes up early, washes his face, and has breakfast with his family."
           ],
           "answerIndex": 3,
           "explanation": "wakes up, washes, has (all 3rd person singular).",
@@ -4240,10 +4240,10 @@
         {
           "prompt": "What is the irregular 3rd person singular present form of 'go' and 'do'?",
           "options": [
-            "goies / doies (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "going / doing (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "goes / does (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "gos / dos (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "goies / doies",
+            "going / doing",
+            "goes / does",
+            "gos / dos"
           ],
           "answerIndex": 2,
           "explanation": "go -> goes, do -> does.",
@@ -4252,10 +4252,10 @@
         {
           "prompt": "Translate: 'I take a quick shower before I get dressed.'",
           "options": [
-            "I don't shower in the morning. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "I take a quick shower before I get dressed. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "I am dressing in the shower. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "I take shower after I dress. (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "I don't shower in the morning.",
+            "I take a quick shower before I get dressed.",
+            "I am dressing in the shower.",
+            "I take shower after I dress."
           ],
           "answerIndex": 1,
           "explanation": "take a quick shower before I get dressed.",
@@ -4264,10 +4264,10 @@
         {
           "prompt": "Which phrase means 'to fall asleep / go to sleep'?",
           "options": [
-            "go to bed (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "leave the room (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "wake up (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)",
-            "stand up (Conjugate and apply common daily hygiene and morning routine action verbs in the Present Simple with 3rdperson singular ses agreement)"
+            "go to bed",
+            "leave the room",
+            "wake up",
+            "stand up"
           ],
           "answerIndex": 0,
           "explanation": "go to bed = prepare for sleep; fall asleep = transition into sleep.",
@@ -4320,10 +4320,10 @@
         {
           "prompt": "Where does the frequency adverb go in relation to the verb 'to be' (am/is/are)?",
           "options": [
-            "BEFORE the verb 'to be' (Apply adverbs of frequency always)",
-            "At the very end of the sentence only (Apply adverbs of frequency always)",
-            "At the very start only (Apply adverbs of frequency always)",
-            "AFTER the verb 'to be' (Apply adverbs of frequency always)"
+            "BEFORE the verb 'to be'",
+            "At the very end of the sentence only",
+            "At the very start only",
+            "AFTER the verb 'to be'"
           ],
           "answerIndex": 3,
           "explanation": "Frequency adverbs follow the verb 'to be': He is always on time."
@@ -4331,10 +4331,10 @@
         {
           "prompt": "Where does the frequency adverb go in relation to regular action verbs (e.g. 'drink')?",
           "options": [
-            "AFTER the main verb (Apply adverbs of frequency always)",
-            "Between the verb and object (Apply adverbs of frequency always)",
-            "At the end of the clause (Apply adverbs of frequency always)",
-            "BEFORE the main verb (Apply adverbs of frequency always)"
+            "AFTER the main verb",
+            "Between the verb and object",
+            "At the end of the clause",
+            "BEFORE the main verb"
           ],
           "answerIndex": 3,
           "explanation": "Frequency adverbs precede regular main verbs: I always drink."
@@ -4346,10 +4346,10 @@
         {
           "prompt": "Choose the grammatically correct sentence:",
           "options": [
-            "She is never late for work. (Apply adverbs of frequency always)",
-            "She never is late for work. (Apply adverbs of frequency always)",
-            "She is late never for work. (Apply adverbs of frequency always)",
-            "Never she is late for work. (Apply adverbs of frequency always)"
+            "She is never late for work.",
+            "She never is late for work.",
+            "She is late never for work.",
+            "Never she is late for work."
           ],
           "answerIndex": 0,
           "explanation": "Subject + is + never + late (after 'to be')."
@@ -4357,10 +4357,10 @@
         {
           "prompt": "Translate: 'He rarely drives because he prefers the subway.'",
           "options": [
-            "He rarely drives because he prefers the subway. (Apply adverbs of frequency always)",
-            "He drives rarely because he prefer subway. (Apply adverbs of frequency always)",
-            "He is rarely drive because he prefers subway. (Apply adverbs of frequency always)",
-            "Rarely he drives because subway prefers him. (Apply adverbs of frequency always)"
+            "He rarely drives because he prefers the subway.",
+            "He drives rarely because he prefer subway.",
+            "He is rarely drive because he prefers subway.",
+            "Rarely he drives because subway prefers him."
           ],
           "answerIndex": 0,
           "explanation": "He rarely drives because he prefers the subway."
@@ -4372,10 +4372,10 @@
         {
           "prompt": "Arrange the frequency adverbs in descending order from 100% to 0%:",
           "options": [
-            "never -> rarely -> sometimes -> often -> usually -> always (Apply adverbs of frequency always)",
-            "usually -> always -> never -> rarely -> often (Apply adverbs of frequency always)",
-            "always -> usually -> often -> sometimes -> rarely -> never (Apply adverbs of frequency always)",
-            "always -> sometimes -> usually -> often -> never (Apply adverbs of frequency always)"
+            "never -> rarely -> sometimes -> often -> usually -> always",
+            "usually -> always -> never -> rarely -> often",
+            "always -> usually -> often -> sometimes -> rarely -> never",
+            "always -> sometimes -> usually -> often -> never"
           ],
           "answerIndex": 2,
           "explanation": "100% (always) down to 0% (never).",
@@ -4384,10 +4384,10 @@
         {
           "prompt": "Why is 'I don't never eat meat' incorrect in standard English?",
           "options": [
-            "Because 'eat' is past tense. (Apply adverbs of frequency always)",
-            "It creates an incorrect double negative; use 'I never eat meat' or 'I don't ever eat meat'. (Apply adverbs of frequency always)",
-            "Because 'meat' is plural. (Apply adverbs of frequency always)",
-            "Because 'never' must go at the end. (Apply adverbs of frequency always)"
+            "Because 'eat' is past tense.",
+            "It creates an incorrect double negative; use 'I never eat meat' or 'I don't ever eat meat'.",
+            "Because 'meat' is plural.",
+            "Because 'never' must go at the end."
           ],
           "answerIndex": 1,
           "explanation": "Standard English avoids double negatives with 'never'.",
@@ -4396,10 +4396,10 @@
         {
           "prompt": "Translate: 'We usually have dinner together around 7:30 PM.'",
           "options": [
-            "We usually have dinner together around 7:30 PM. (Apply adverbs of frequency always)",
-            "We have dinner usually together at 7:30. (Apply adverbs of frequency always)",
-            "Usually we are dinner together at 7:30. (Apply adverbs of frequency always)",
-            "We are usually dinner at 7:30. (Apply adverbs of frequency always)"
+            "We usually have dinner together around 7:30 PM.",
+            "We have dinner usually together at 7:30.",
+            "Usually we are dinner together at 7:30.",
+            "We are usually dinner at 7:30."
           ],
           "answerIndex": 0,
           "explanation": "Subject + usually + have dinner.",
@@ -4408,10 +4408,10 @@
         {
           "prompt": "Fill in the blank: 'Alex _____ (be / always) ready to help his colleagues.'",
           "options": [
-            "always are (Apply adverbs of frequency always)",
-            "always is (Apply adverbs of frequency always)",
-            "are always (Apply adverbs of frequency always)",
-            "is always (Apply adverbs of frequency always)"
+            "always are",
+            "always is",
+            "are always",
+            "is always"
           ],
           "answerIndex": 3,
           "explanation": "Alex is always ready.",
@@ -4464,10 +4464,10 @@
         {
           "prompt": "What is the famous nickname for London's underground subway system?",
           "options": [
-            "The Tube (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "The 'L' (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "The Tram (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "The Metro (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "The Tube",
+            "The 'L'",
+            "The Tram",
+            "The Metro"
           ],
           "answerIndex": 0,
           "explanation": "London's underground is famously called 'the Tube'."
@@ -4475,10 +4475,10 @@
         {
           "prompt": "Which verb form follows 'before' and 'after' when describing actions?",
           "options": [
-            "-ing form / Gerund (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Base infinitive with 'to' (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Future will (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Past tense (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "-ing form / Gerund",
+            "Base infinitive with 'to'",
+            "Future will",
+            "Past tense"
           ],
           "answerIndex": 0,
           "explanation": "Prepositions are followed by gerunds (-ing): before leaving."
@@ -4490,10 +4490,10 @@
         {
           "prompt": "Translate: 'First we finish work, and after that we take the subway home.'",
           "options": [
-            "First we finish work, and after that we take the subway home. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Subway we take after we work. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Then we finish work, and first we take subway. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "We work finish before subway home. (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "First we finish work, and after that we take the subway home.",
+            "Subway we take after we work.",
+            "Then we finish work, and first we take subway.",
+            "We work finish before subway home."
           ],
           "answerIndex": 0,
           "explanation": "First ... and after that we take the subway home."
@@ -4501,10 +4501,10 @@
         {
           "prompt": "Which expression means to commute by walking?",
           "options": [
-            "walk to work / go on foot (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "catch a cab (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "get stuck in traffic (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "take the bus (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "walk to work / go on foot",
+            "catch a cab",
+            "get stuck in traffic",
+            "take the bus"
           ],
           "answerIndex": 0,
           "explanation": "walk to work / go on foot."
@@ -4516,10 +4516,10 @@
         {
           "prompt": "Which sequence demonstrates logical daily time transitions and transit collocations?",
           "options": [
-            "Finally I wake up, first I eat, then I sleep. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "First, I wake up at 7:00. Then, I eat breakfast. Next, I take the subway to work. Finally, I arrive at the office. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "I take the subway before I wake up in the morning. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "First I arrive at work, then I leave my house. (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "Finally I wake up, first I eat, then I sleep.",
+            "First, I wake up at 7:00. Then, I eat breakfast. Next, I take the subway to work. Finally, I arrive at the office.",
+            "I take the subway before I wake up in the morning.",
+            "First I arrive at work, then I leave my house."
           ],
           "answerIndex": 1,
           "explanation": "First -> Then -> Next -> Finally logical sequence.",
@@ -4528,10 +4528,10 @@
         {
           "prompt": "What smart contactless transit card is used across London public transport?",
           "options": [
-            "Oyster card (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "MetroCard (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Clipper card (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "SUBE card (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "Oyster card",
+            "MetroCard",
+            "Clipper card",
+            "SUBE card"
           ],
           "answerIndex": 0,
           "explanation": "Oyster card is London's transit smartcard.",
@@ -4540,10 +4540,10 @@
         {
           "prompt": "Translate: 'After working out at the gym, I have a healthy smoothie.'",
           "options": [
-            "I never go to the gym after smoothie. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Before work out at gym, I have smoothie. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "I have smoothie during work out at gym. (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "After working out at the gym, I have a healthy smoothie. (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "I never go to the gym after smoothie.",
+            "Before work out at gym, I have smoothie.",
+            "I have smoothie during work out at gym.",
+            "After working out at the gym, I have a healthy smoothie."
           ],
           "answerIndex": 3,
           "explanation": "After working out (-ing).",
@@ -4552,10 +4552,10 @@
         {
           "prompt": "What does 'rush hour' refer to in urban transit?",
           "options": [
-            "Lunch hour in parks (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Late night empty roads (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "Peak commuting hours in the morning and evening with heaviest traffic and crowded trains (Sequence daily activities and describe urban transit commutes using temporal connectors first)",
-            "A fast sports car (Sequence daily activities and describe urban transit commutes using temporal connectors first)"
+            "Lunch hour in parks",
+            "Late night empty roads",
+            "Peak commuting hours in the morning and evening with heaviest traffic and crowded trains",
+            "A fast sports car"
           ],
           "answerIndex": 2,
           "explanation": "Rush hour is peak commuter travel time.",
@@ -4608,10 +4608,10 @@
         {
           "prompt": "In the dialogue, why does Emma wake up early on Mondays?",
           "options": [
-            "Because morning rush hour on the Northern Line subway is crazy. (Synthesize clock times)",
-            "Because she has a flight to catch. (Synthesize clock times)",
-            "Because her alarm broke. (Synthesize clock times)",
-            "Because she works night shifts. (Synthesize clock times)"
+            "Because morning rush hour on the Northern Line subway is crazy.",
+            "Because she has a flight to catch.",
+            "Because her alarm broke.",
+            "Because she works night shifts."
           ],
           "answerIndex": 0,
           "explanation": "Emma states: 'morning rush hour on the Northern Line is crazy!'"
@@ -4619,10 +4619,10 @@
         {
           "prompt": "What casual farewell expression does Emma use when leaving?",
           "options": [
-            "Have a good one! (Synthesize clock times)",
-            "Good night! (Synthesize clock times)",
-            "I am angry. (Synthesize clock times)",
-            "Stop talking. (Synthesize clock times)"
+            "Have a good one!",
+            "Good night!",
+            "I am angry.",
+            "Stop talking."
           ],
           "answerIndex": 0,
           "explanation": "'Have a good one!' is the standard casual farewell."
@@ -4634,10 +4634,10 @@
         {
           "prompt": "Translate: 'First I have breakfast, then I take the train to work.'",
           "options": [
-            "Then I have breakfast, first I work train. (Synthesize clock times)",
-            "First I have breakfast, then I take the train to work. (Synthesize clock times)",
-            "I never have breakfast before train. (Synthesize clock times)",
-            "After I have train, first I take breakfast. (Synthesize clock times)"
+            "Then I have breakfast, first I work train.",
+            "First I have breakfast, then I take the train to work.",
+            "I never have breakfast before train.",
+            "After I have train, first I take breakfast."
           ],
           "answerIndex": 1,
           "explanation": "First ... then I take the train to work."
@@ -4645,10 +4645,10 @@
         {
           "prompt": "What does 'twenty past seven' mean?",
           "options": [
-            "7:20 (Synthesize clock times)",
-            "8:20 (Synthesize clock times)",
-            "6:40 (Synthesize clock times)",
-            "7:40 (Synthesize clock times)"
+            "7:20",
+            "8:20",
+            "6:40",
+            "7:40"
           ],
           "answerIndex": 0,
           "explanation": "twenty past seven = 7:20."
@@ -4660,10 +4660,10 @@
         {
           "prompt": "Which sentence demonstrates accurate clock times, frequency adverb placement, and routine sequencing?",
           "options": [
-            "I always wake up at 7:00 AM, then I have breakfast, and after that I catch the 8:15 subway to work. (Synthesize clock times)",
-            "I wake up always in 7:00, then have breakfast I, after that catching subway. (Synthesize clock times)",
-            "Always I wake up at 7:00 and taking subway before wake up. (Synthesize clock times)",
-            "I never am waking on 7:00 AM. (Synthesize clock times)"
+            "I always wake up at 7:00 AM, then I have breakfast, and after that I catch the 8:15 subway to work.",
+            "I wake up always in 7:00, then have breakfast I, after that catching subway.",
+            "Always I wake up at 7:00 and taking subway before wake up.",
+            "I never am waking on 7:00 AM."
           ],
           "answerIndex": 0,
           "explanation": "Flawless standard English routine description.",
@@ -4672,10 +4672,10 @@
         {
           "prompt": "What is the correct 3rd-person singular present form of 'catch', 'do', and 'have'?",
           "options": [
-            "catchs, dos, haves (Synthesize clock times)",
-            "catching, doing, having (Synthesize clock times)",
-            "catched, did, had (Synthesize clock times)",
-            "catches, does, has (Synthesize clock times)"
+            "catchs, dos, haves",
+            "catching, doing, having",
+            "catched, did, had",
+            "catches, does, has"
           ],
           "answerIndex": 3,
           "explanation": "catches, does, has.",
@@ -4684,10 +4684,10 @@
         {
           "prompt": "Translate: 'She is rarely late for morning meetings.'",
           "options": [
-            "She rarely is late for morning meetings. (Synthesize clock times)",
-            "She late is rarely for morning meetings. (Synthesize clock times)",
-            "She is rarely late for morning meetings. (Synthesize clock times)",
-            "Rarely she is late for meetings. (Synthesize clock times)"
+            "She rarely is late for morning meetings.",
+            "She late is rarely for morning meetings.",
+            "She is rarely late for morning meetings.",
+            "Rarely she is late for meetings."
           ],
           "answerIndex": 2,
           "explanation": "Subject + is + rarely + late.",
@@ -4696,10 +4696,10 @@
         {
           "prompt": "What core grammatical and communicative competencies were mastered across Unit 5 in English?",
           "options": [
-            "Passive voice past perfect only (Synthesize clock times)",
-            "Clock times & time prepositions (Synthesize clock times)",
-            "English alphabet only (Synthesize clock times)",
-            "Relative defining clauses only (Synthesize clock times)"
+            "Passive voice past perfect only",
+            "Clock times & time prepositions",
+            "English alphabet only",
+            "Relative defining clauses only"
           ],
           "answerIndex": 1,
           "explanation": "Unit 5 comprehensive daily routine, habit frequency, and transit mastery.",
@@ -4753,10 +4753,10 @@
         {
           "prompt": "Which of the following nouns is UNCOUNTABLE in English?",
           "options": [
-            "banana (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "egg (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "sandwich (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "rice (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "banana",
+            "egg",
+            "sandwich",
+            "rice"
           ],
           "answerIndex": 3,
           "explanation": "rice is uncountable; we say 'a bowl of rice' or 'some rice'."
@@ -4764,10 +4764,10 @@
         {
           "prompt": "Choose the correct quantifier for 'We don't have _____ cheese left':",
           "options": [
-            "an (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "a (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "any (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "some (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "an",
+            "a",
+            "any",
+            "some"
           ],
           "answerIndex": 2,
           "explanation": "Negative statements take 'any': don't have any cheese."
@@ -4779,10 +4779,10 @@
         {
           "prompt": "Translate: 'Can I please have a cup of black coffee and some sugar?'",
           "options": [
-            "Can I have a black coffee and a sugar? (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "I want coffees and sugars please. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Bring me any coffee and any sugar. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Can I please have a cup of black coffee and some sugar? (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "Can I have a black coffee and a sugar?",
+            "I want coffees and sugars please.",
+            "Bring me any coffee and any sugar.",
+            "Can I please have a cup of black coffee and some sugar?"
           ],
           "answerIndex": 3,
           "explanation": "a cup of black coffee (container) and some sugar (uncountable request)."
@@ -4790,10 +4790,10 @@
         {
           "prompt": "Choose the correct sentence:",
           "options": [
-            "Would you like a tea? (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Would you like any tea? (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Do you like a tea? (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Would you like some tea? (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "Would you like a tea?",
+            "Would you like any tea?",
+            "Do you like a tea?",
+            "Would you like some tea?"
           ],
           "answerIndex": 3,
           "explanation": "Polite offers use 'some': Would you like some tea?"
@@ -4805,10 +4805,10 @@
         {
           "prompt": "Classify the nouns into Countable vs. Uncountable: burger, butter, egg, water:",
           "options": [
-            "Countable: butter, water | Uncountable: burger, egg (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "All are countable (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "All are uncountable (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Countable: burger, egg | Uncountable: butter, water (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "Countable: butter, water | Uncountable: burger, egg",
+            "All are countable",
+            "All are uncountable",
+            "Countable: burger, egg | Uncountable: butter, water"
           ],
           "answerIndex": 3,
           "explanation": "burger and egg are countable; butter and water are uncountable.",
@@ -4817,10 +4817,10 @@
         {
           "prompt": "Why is 'I want three breads' incorrect in standard English?",
           "options": [
-            "Because 'three' is an odd number. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Because 'bread' is an adjective. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "'Bread' is uncountable; you should say 'three slices of bread' or 'three rolls'. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "There is no error. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "Because 'three' is an odd number.",
+            "Because 'bread' is an adjective.",
+            "'Bread' is uncountable; you should say 'three slices of bread' or 'three rolls'.",
+            "There is no error."
           ],
           "answerIndex": 2,
           "explanation": "Bread is uncountable.",
@@ -4829,10 +4829,10 @@
         {
           "prompt": "Translate: 'There isn't any salt on the table.'",
           "options": [
-            "There isn't some salt on the table. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "There isn't any salt on the table. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "Salt isn't on table any. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "There is no any salt on the table. (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "There isn't some salt on the table.",
+            "There isn't any salt on the table.",
+            "Salt isn't on table any.",
+            "There is no any salt on the table."
           ],
           "answerIndex": 1,
           "explanation": "Negative sentence takes 'isn't any salt'.",
@@ -4841,10 +4841,10 @@
         {
           "prompt": "What is the proper quantifier container for soup?",
           "options": [
-            "a bowl of soup (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "a glass of soup (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "a loaf of soup (Classify food and beverage vocabulary into countable and uncountable nouns using aan)",
-            "a slice of soup (Classify food and beverage vocabulary into countable and uncountable nouns using aan)"
+            "a bowl of soup",
+            "a glass of soup",
+            "a loaf of soup",
+            "a slice of soup"
           ],
           "answerIndex": 0,
           "explanation": "a bowl of soup.",
@@ -4898,10 +4898,10 @@
         {
           "prompt": "How do you politely order in an English restaurant?",
           "options": [
-            "I'd like the steak, please. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Steak is my order. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "I want steak immediately. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Give me steak now. (Order food and beverages politely in restaurants using I would like  Id like)"
+            "I'd like the steak, please.",
+            "Steak is my order.",
+            "I want steak immediately.",
+            "Give me steak now."
           ],
           "answerIndex": 0,
           "explanation": "'I'd like...' and 'Could I have...' are the polite standards."
@@ -4909,10 +4909,10 @@
         {
           "prompt": "What is the difference between 'the bill' and 'the check' in restaurant English?",
           "options": [
-            "'The bill' is standard in British English; 'the check' is standard in American English. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "'The bill' is for drinks; 'the check' is for food. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "There is no connection to dining. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "'The check' is only for cash payments. (Order food and beverages politely in restaurants using I would like  Id like)"
+            "'The bill' is standard in British English; 'the check' is standard in American English.",
+            "'The bill' is for drinks; 'the check' is for food.",
+            "There is no connection to dining.",
+            "'The check' is only for cash payments."
           ],
           "answerIndex": 0,
           "explanation": "Bill (UK) vs. Check (US)."
@@ -4924,10 +4924,10 @@
         {
           "prompt": "Translate: 'Could we have two glasses of red wine and the menu, please?'",
           "options": [
-            "We want two wines and menu now. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Give two red wine and menu to us. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Could we have two glasses of red wine and the menu, please? (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Is there two red wine menu? (Order food and beverages politely in restaurants using I would like  Id like)"
+            "We want two wines and menu now.",
+            "Give two red wine and menu to us.",
+            "Could we have two glasses of red wine and the menu, please?",
+            "Is there two red wine menu?"
           ],
           "answerIndex": 2,
           "explanation": "Could we have two glasses of red wine and the menu, please?"
@@ -4935,10 +4935,10 @@
         {
           "prompt": "Translate: 'Keep the change!'",
           "options": [
-            "Take away my money! (Order food and beverages politely in restaurants using I would like  Id like)",
-            "The food is bad! (Order food and beverages politely in restaurants using I would like  Id like)",
-            "I need more coins! (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Keep the change! (Order food and beverages politely in restaurants using I would like  Id like)"
+            "Take away my money!",
+            "The food is bad!",
+            "I need more coins!",
+            "Keep the change!"
           ],
           "answerIndex": 3,
           "explanation": "Keep the change! leaves the remaining amount as the tip."
@@ -4950,10 +4950,10 @@
         {
           "prompt": "Why is 'I'd like' preferred over 'I want' when interacting with restaurant staff?",
           "options": [
-            "'I'd like' is only used for breakfast. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "There is no difference in politeness. (Order food and beverages politely in restaurants using I would like  Id like)",
+            "'I'd like' is only used for breakfast.",
+            "There is no difference in politeness.",
             "'I'd like' (would like)",
-            "'I want' is grammatically incorrect in modern English. (Order food and beverages politely in restaurants using I would like  Id like)"
+            "'I want' is grammatically incorrect in modern English."
           ],
           "answerIndex": 2,
           "explanation": "'I'd like' is the polite standard in service interactions.",
@@ -4962,10 +4962,10 @@
         {
           "prompt": "What is standard tipping etiquette in American restaurants (US)?",
           "options": [
-            "Exactly 1 dollar flat fee (Order food and beverages politely in restaurants using I would like  Id like)",
-            "18% to 22% of the pre-tax total for table service (Order food and beverages politely in restaurants using I would like  Id like)",
-            "50% mandatory fee (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Tipping is strictly forbidden (Order food and beverages politely in restaurants using I would like  Id like)"
+            "Exactly 1 dollar flat fee",
+            "18% to 22% of the pre-tax total for table service",
+            "50% mandatory fee",
+            "Tipping is strictly forbidden"
           ],
           "answerIndex": 1,
           "explanation": "18-22% is customary for table service in the US.",
@@ -4974,10 +4974,10 @@
         {
           "prompt": "Translate: 'Could we split the bill between three credit cards?'",
           "options": [
-            "Could we split the bill between three credit cards? (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Do you take cash only? (Order food and beverages politely in restaurants using I would like  Id like)",
-            "The bill is incorrect for three cards. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "We want three bills for one person. (Order food and beverages politely in restaurants using I would like  Id like)"
+            "Could we split the bill between three credit cards?",
+            "Do you take cash only?",
+            "The bill is incorrect for three cards.",
+            "We want three bills for one person."
           ],
           "answerIndex": 0,
           "explanation": "split the bill = pay separately.",
@@ -4986,10 +4986,10 @@
         {
           "prompt": "How do you ask for tap water in British and American English?",
           "options": [
-            "Give me sink water. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "I want bathroom water. (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Is water free here? (Order food and beverages politely in restaurants using I would like  Id like)",
-            "Could I please have a glass of tap water? (Order food and beverages politely in restaurants using I would like  Id like)"
+            "Give me sink water.",
+            "I want bathroom water.",
+            "Is water free here?",
+            "Could I please have a glass of tap water?"
           ],
           "answerIndex": 3,
           "explanation": "'tap water' is the correct term for municipal drinking water.",
@@ -5043,10 +5043,10 @@
         {
           "prompt": "Which preposition correctly pairs with 'allergic' in 'I am allergic _____ shellfish'?",
           "options": [
-            "with (Specify dietary restrictions)",
-            "for (Specify dietary restrictions)",
-            "at (Specify dietary restrictions)",
-            "to (Specify dietary restrictions)"
+            "with",
+            "for",
+            "at",
+            "to"
           ],
           "answerIndex": 3,
           "explanation": "allergic TO."
@@ -5054,10 +5054,10 @@
         {
           "prompt": "How do you request salad dressing served in a separate cup?",
           "options": [
-            "Dressing in the back, please. (Specify dietary restrictions)",
-            "Dressing on the edge, please. (Specify dietary restrictions)",
-            "Dressing without plate. (Specify dietary restrictions)",
-            "Dressing on the side, please. (Specify dietary restrictions)"
+            "Dressing in the back, please.",
+            "Dressing on the edge, please.",
+            "Dressing without plate.",
+            "Dressing on the side, please."
           ],
           "answerIndex": 3,
           "explanation": "'on the side' means served separately."
@@ -5069,10 +5069,10 @@
         {
           "prompt": "Choose the grammatically correct comparative sentence with 'prefer':",
           "options": [
-            "I prefer tea to coffee. (Specify dietary restrictions)",
-            "I prefer tea than coffee. (Specify dietary restrictions)",
-            "I prefer tea over to coffee. (Specify dietary restrictions)",
-            "I prefer tea from coffee. (Specify dietary restrictions)"
+            "I prefer tea to coffee.",
+            "I prefer tea than coffee.",
+            "I prefer tea over to coffee.",
+            "I prefer tea from coffee."
           ],
           "answerIndex": 0,
           "explanation": "prefer X to Y."
@@ -5080,10 +5080,10 @@
         {
           "prompt": "Translate: 'Can I have a side salad instead of fries?'",
           "options": [
-            "Can I have a side salad instead of fries? (Specify dietary restrictions)",
-            "Can I have fries with salad? (Specify dietary restrictions)",
-            "I don't like salad and fries. (Specify dietary restrictions)",
-            "Where are the fries made? (Specify dietary restrictions)"
+            "Can I have a side salad instead of fries?",
+            "Can I have fries with salad?",
+            "I don't like salad and fries.",
+            "Where are the fries made?"
           ],
           "answerIndex": 0,
           "explanation": "instead of = substituting for."
@@ -5095,10 +5095,10 @@
         {
           "prompt": "What does 'VG' typically indicate on a modern restaurant menu?",
           "options": [
-            "Vegetable Garnish (Specify dietary restrictions)",
-            "Vegan (Specify dietary restrictions)",
-            "Vegetarian (Specify dietary restrictions)",
-            "Very Good (Specify dietary restrictions)"
+            "Vegetable Garnish",
+            "Vegan",
+            "Vegetarian",
+            "Very Good"
           ],
           "answerIndex": 1,
           "explanation": "VG stands for Vegan (V = Vegetarian, GF = Gluten-Free).",
@@ -5107,10 +5107,10 @@
         {
           "prompt": "Translate: 'Is this soup dairy-free?'",
           "options": [
-            "Is this soup dairy-free? (Specify dietary restrictions)",
-            "Is this soup vegetarian? (Specify dietary restrictions)",
-            "Is this soup free of cost? (Specify dietary restrictions)",
-            "Is this soup made today? (Specify dietary restrictions)"
+            "Is this soup dairy-free?",
+            "Is this soup vegetarian?",
+            "Is this soup free of cost?",
+            "Is this soup made today?"
           ],
           "answerIndex": 0,
           "explanation": "dairy-free = without milk/dairy products.",
@@ -5119,10 +5119,10 @@
         {
           "prompt": "Choose the correct phrase to ask for food without a specific ingredient:",
           "options": [
-            "cilantro is not here (Specify dietary restrictions)",
-            "away from cilantro (Specify dietary restrictions)",
-            "less cilantro on the top (Specify dietary restrictions)",
-            "without cilantro / no cilantro, please (Specify dietary restrictions)"
+            "cilantro is not here",
+            "away from cilantro",
+            "less cilantro on the top",
+            "without cilantro / no cilantro, please"
           ],
           "answerIndex": 3,
           "explanation": "'without X' or 'no X, please'.",
@@ -5131,10 +5131,10 @@
         {
           "prompt": "Translate: 'I am lactose intolerant, so I cannot have cow's milk.'",
           "options": [
-            "We have plenty of cow's milk. (Specify dietary restrictions)",
-            "I love drinking cow's milk every day. (Specify dietary restrictions)",
-            "I am lactose intolerant, so I cannot have cow's milk. (Specify dietary restrictions)",
-            "I prefer cheese to milk. (Specify dietary restrictions)"
+            "We have plenty of cow's milk.",
+            "I love drinking cow's milk every day.",
+            "I am lactose intolerant, so I cannot have cow's milk.",
+            "I prefer cheese to milk."
           ],
           "answerIndex": 2,
           "explanation": "lactose intolerant = unable to digest lactose in dairy.",
@@ -5188,10 +5188,10 @@
         {
           "prompt": "What does 'savory' (savoury) mean when describing food?",
           "options": [
-            "Very cold and icy (Describe taste profiles)",
-            "Pleasantly rich, salty, and satisfying without being sweet (Describe taste profiles)",
-            "Burnt (Describe taste profiles)",
-            "Extremely sweet like candy (Describe taste profiles)"
+            "Very cold and icy",
+            "Pleasantly rich, salty, and satisfying without being sweet",
+            "Burnt",
+            "Extremely sweet like candy"
           ],
           "answerIndex": 1,
           "explanation": "savory describes rich, savory, non-sweet foods."
@@ -5199,10 +5199,10 @@
         {
           "prompt": "Which adjective describes meat that is soft, easy to cut, and not tough?",
           "options": [
-            "tender (Describe taste profiles)",
-            "sour (Describe taste profiles)",
-            "bitter (Describe taste profiles)",
-            "crunchy (Describe taste profiles)"
+            "tender",
+            "sour",
+            "bitter",
+            "crunchy"
           ],
           "answerIndex": 0,
           "explanation": "tender = soft, easy to chew."
@@ -5214,10 +5214,10 @@
         {
           "prompt": "Translate: 'The roasted chicken was flavorful and crispy on the outside.'",
           "options": [
-            "The roasted chicken was flavorful and crispy on the outside. (Describe taste profiles)",
-            "The chicken is raw and bitter. (Describe taste profiles)",
-            "The roasted chicken was cold and salty. (Describe taste profiles)",
-            "We boiled the chicken in water. (Describe taste profiles)"
+            "The roasted chicken was flavorful and crispy on the outside.",
+            "The chicken is raw and bitter.",
+            "The roasted chicken was cold and salty.",
+            "We boiled the chicken in water."
           ],
           "answerIndex": 0,
           "explanation": "roasted chicken = cooked in oven, crispy on the outside."
@@ -5225,10 +5225,10 @@
         {
           "prompt": "What is the difference between 'chips' in the UK vs. the US?",
           "options": [
-            "In the UK, 'chips' are thick hot French fries; in the US, 'chips' are thin potato snack crisps. (Describe taste profiles)",
-            "There is no difference. (Describe taste profiles)",
-            "In the UK, 'chips' are sweet cookies. (Describe taste profiles)",
-            "In the US, 'chips' are boiled vegetables. (Describe taste profiles)"
+            "In the UK, 'chips' are thick hot French fries; in the US, 'chips' are thin potato snack crisps.",
+            "There is no difference.",
+            "In the UK, 'chips' are sweet cookies.",
+            "In the US, 'chips' are boiled vegetables."
           ],
           "answerIndex": 0,
           "explanation": "UK chips = hot fries; US chips = packaged potato crisps."
@@ -5242,8 +5242,8 @@
           "options": [
             "grilled (open fire)",
             "grilled (hot oil)",
-            "all mean eaten raw (Describe taste profiles)",
-            "all mean boiled in water (Describe taste profiles)"
+            "all mean eaten raw",
+            "all mean boiled in water"
           ],
           "answerIndex": 0,
           "explanation": "Core culinary cooking methods.",
@@ -5252,10 +5252,10 @@
         {
           "prompt": "Translate: 'The dessert was mouthwatering and not overly sweet.'",
           "options": [
-            "We skipped the dessert. (Describe taste profiles)",
-            "The dessert was bad and very salty. (Describe taste profiles)",
-            "The dessert was hot and bitter. (Describe taste profiles)",
-            "The dessert was mouthwatering and not overly sweet. (Describe taste profiles)"
+            "We skipped the dessert.",
+            "The dessert was bad and very salty.",
+            "The dessert was hot and bitter.",
+            "The dessert was mouthwatering and not overly sweet."
           ],
           "answerIndex": 3,
           "explanation": "mouthwatering = extremely appetizing.",
@@ -5264,10 +5264,10 @@
         {
           "prompt": "Which texture descriptor applies to freshly baked artisan sourdough bread?",
           "options": [
-            "mushy and soggy (Describe taste profiles)",
-            "smooth and liquid (Describe taste profiles)",
-            "a crunchy, crusty exterior with a soft, airy interior (Describe taste profiles)",
-            "frozen and hard (Describe taste profiles)"
+            "mushy and soggy",
+            "smooth and liquid",
+            "a crunchy, crusty exterior with a soft, airy interior",
+            "frozen and hard"
           ],
           "answerIndex": 2,
           "explanation": "crusty exterior with soft interior.",
@@ -5276,10 +5276,10 @@
         {
           "prompt": "What does 'bland' mean when evaluating a dish?",
           "options": [
-            "Extremely spicy (Describe taste profiles)",
-            "Lacking flavor, taste, or seasoning (Describe taste profiles)",
-            "Very sweet (Describe taste profiles)",
-            "Well-cooked (Describe taste profiles)"
+            "Extremely spicy",
+            "Lacking flavor, taste, or seasoning",
+            "Very sweet",
+            "Well-cooked"
           ],
           "answerIndex": 1,
           "explanation": "bland = unseasoned, lacking taste.",
@@ -5333,10 +5333,10 @@
         {
           "prompt": "In the dialogue, what dessert does the server suggest to Chloe and David?",
           "options": [
-            "Sticky toffee pudding (Integrate food vocabulary)",
-            "Apple pie with cheddar cheese (Integrate food vocabulary)",
-            "Chocolate sundae (Integrate food vocabulary)",
-            "Tiramisu (Integrate food vocabulary)"
+            "Sticky toffee pudding",
+            "Apple pie with cheddar cheese",
+            "Chocolate sundae",
+            "Tiramisu"
           ],
           "answerIndex": 0,
           "explanation": "Liam offers sticky toffee pudding."
@@ -5344,10 +5344,10 @@
         {
           "prompt": "What does it mean when a diner says 'We're stuffed, thank you'?",
           "options": [
-            "We are completely full and cannot eat any more food. (Integrate food vocabulary)",
-            "We are very hungry. (Integrate food vocabulary)",
-            "The food was bad. (Integrate food vocabulary)",
-            "We want to order more appetizers. (Integrate food vocabulary)"
+            "We are completely full and cannot eat any more food.",
+            "We are very hungry.",
+            "The food was bad.",
+            "We want to order more appetizers."
           ],
           "answerIndex": 0,
           "explanation": "'stuffed' = completely full."
@@ -5359,10 +5359,10 @@
         {
           "prompt": "Translate: 'Could we split the bill between two cards, please?'",
           "options": [
-            "Do you take cash only? (Integrate food vocabulary)",
-            "Could we split the bill between two cards, please? (Integrate food vocabulary)",
-            "Where is the credit card machine? (Integrate food vocabulary)",
-            "Can we have two bills for one card? (Integrate food vocabulary)"
+            "Do you take cash only?",
+            "Could we split the bill between two cards, please?",
+            "Where is the credit card machine?",
+            "Can we have two bills for one card?"
           ],
           "answerIndex": 1,
           "explanation": "split the bill between two cards."
@@ -5370,10 +5370,10 @@
         {
           "prompt": "Translate: 'The fish was crispy and fresh.'",
           "options": [
-            "We don't eat fresh fish. (Integrate food vocabulary)",
-            "The fish was crispy and fresh. (Integrate food vocabulary)",
-            "The fish was expensive. (Integrate food vocabulary)",
-            "The fish was cold and salty. (Integrate food vocabulary)"
+            "We don't eat fresh fish.",
+            "The fish was crispy and fresh.",
+            "The fish was expensive.",
+            "The fish was cold and salty."
           ],
           "answerIndex": 1,
           "explanation": "crispy and fresh."
@@ -5385,10 +5385,10 @@
         {
           "prompt": "Which sentence demonstrates accurate polite ordering, ingredient substitution, and billing in English?",
           "options": [
-            "I want fish and chips with no money give me now. (Integrate food vocabulary)",
-            "The bill before we order food please. (Integrate food vocabulary)",
-            "Bring fish fast and leave bill. (Integrate food vocabulary)",
-            "Could we please get the fish and chips with a salad instead of fries, and the bill when you have a moment? (Integrate food vocabulary)"
+            "I want fish and chips with no money give me now.",
+            "The bill before we order food please.",
+            "Bring fish fast and leave bill.",
+            "Could we please get the fish and chips with a salad instead of fries, and the bill when you have a moment?"
           ],
           "answerIndex": 3,
           "explanation": "Natural, grammatically complete polite dining interaction.",
@@ -5397,10 +5397,10 @@
         {
           "prompt": "What is 'Yorkshire pudding' in British culinary tradition?",
           "options": [
-            "A sweet chocolate pudding (Integrate food vocabulary)",
-            "A cold fruit salad (Integrate food vocabulary)",
-            "A savory baked batter popover served with roast beef and rich gravy (Integrate food vocabulary)",
-            "A spicy meatball (Integrate food vocabulary)"
+            "A sweet chocolate pudding",
+            "A cold fruit salad",
+            "A savory baked batter popover served with roast beef and rich gravy",
+            "A spicy meatball"
           ],
           "answerIndex": 2,
           "explanation": "Yorkshire pudding is a baked savory batter side dish for roast beef.",
@@ -5409,10 +5409,10 @@
         {
           "prompt": "Translate: 'Service charge is already included on the bill at 12.5%.'",
           "options": [
-            "You must pay a 12.5% penalty fee. (Integrate food vocabulary)",
-            "The 12.5% tip is already included in the total on the bill. (Integrate food vocabulary)",
-            "Drinks cost 12.50. (Integrate food vocabulary)",
-            "Food has a 12.5% discount. (Integrate food vocabulary)"
+            "You must pay a 12.5% penalty fee.",
+            "The 12.5% tip is already included in the total on the bill.",
+            "Drinks cost 12.50.",
+            "Food has a 12.5% discount."
           ],
           "answerIndex": 1,
           "explanation": "Service charge included = gratuity is built into the bill.",
@@ -5422,9 +5422,9 @@
           "prompt": "What core grammatical, communicative, and cultural competencies were mastered across Unit 6 in English?",
           "options": [
             "Food & drink vocabulary with Countable/Uncountable grammar (some/any)",
-            "Cleft sentence grammar only (Integrate food vocabulary)",
-            "English phonetics alphabet only (Integrate food vocabulary)",
-            "Present perfect continuous passive only (Integrate food vocabulary)"
+            "Cleft sentence grammar only",
+            "English phonetics alphabet only",
+            "Present perfect continuous passive only"
           ],
           "answerIndex": 0,
           "explanation": "Unit 6 comprehensive dining, hospitality, and polite request synthesis.",
@@ -5472,10 +5472,10 @@
         {
           "prompt": "Which of the following verbs is pronounced with an extra syllable /ɪd/ at the end?",
           "options": [
-            "walked (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "played (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "watched (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "decided (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "walked",
+            "played",
+            "watched",
+            "decided"
           ],
           "answerIndex": 3,
           "explanation": "Decide ends in /d/, so decided adds the /ɪd/ syllable."
@@ -5483,10 +5483,10 @@
         {
           "prompt": "What is the correct past simple spelling of 'study'?",
           "options": [
-            "studeyed (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "studid (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "studied (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "studyed (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "studeyed",
+            "studid",
+            "studied",
+            "studyed"
           ],
           "answerIndex": 2,
           "explanation": "Consonant + y changes to -ied."
@@ -5498,10 +5498,10 @@
         {
           "prompt": "Identify the past simple pronunciation of 'stopped':",
           "options": [
-            "/stɒpɪd/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "/stɒpd/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "/stɒp/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "/stɒpt/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "/stɒpɪd/",
+            "/stɒpd/",
+            "/stɒp/",
+            "/stɒpt/"
           ],
           "answerIndex": 3,
           "explanation": "Stop ends in voiceless /p/, so stopped ends in /t/."
@@ -5509,10 +5509,10 @@
         {
           "prompt": "Complete the sentence: 'Last night we _______ (cook) dinner and _______ (listen) to acoustic jazz.'",
           "options": [
-            "cook / listen (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "cooking / listening (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "cooks / listens (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "cooked / listened (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "cook / listen",
+            "cooking / listening",
+            "cooks / listens",
+            "cooked / listened"
           ],
           "answerIndex": 3,
           "explanation": "Regular past simple: cooked (/t/) and listened (/d/)."
@@ -5524,10 +5524,10 @@
         {
           "prompt": "Match the verbs to their -ed ending pronunciations: walked, played, visited:",
           "options": [
-            "walked: /ɪd/ | played: /t/ | visited: /d/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "All three are pronounced /ɪd/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "walked: /t/ | played: /d/ | visited: /ɪd/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "All three are pronounced /t/ (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "walked: /ɪd/ | played: /t/ | visited: /d/",
+            "All three are pronounced /ɪd/",
+            "walked: /t/ | played: /d/ | visited: /ɪd/",
+            "All three are pronounced /t/"
           ],
           "answerIndex": 2,
           "explanation": "Walked = /t/, played = /d/, visited = /ɪd/.",
@@ -5536,10 +5536,10 @@
         {
           "prompt": "Which sentence is grammatically correct in standard English?",
           "options": [
-            "They planed a surprise party and invited all their friends. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "They planned a surprise party and invited all their friends. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "They are plan surprise party. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "They plan a surprise party yesterday. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "They planed a surprise party and invited all their friends.",
+            "They planned a surprise party and invited all their friends.",
+            "They are plan surprise party.",
+            "They plan a surprise party yesterday."
           ],
           "answerIndex": 1,
           "explanation": "Plan doubles consonant -> planned; invite adds -d -> invited.",
@@ -5548,10 +5548,10 @@
         {
           "prompt": "Why does 'played' NOT change the 'y' to 'ied' like 'studied'?",
           "options": [
-            "Because 'play' has a vowel before the 'y' (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "Because it is a short word. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "It is a spelling exception. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "Because play is an irregular verb. (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "Because 'play' has a vowel before the 'y'",
+            "Because it is a short word.",
+            "It is a spelling exception.",
+            "Because play is an irregular verb."
           ],
           "answerIndex": 0,
           "explanation": "Vowel + y retains the 'y' and simply adds -ed.",
@@ -5560,10 +5560,10 @@
         {
           "prompt": "What is the past simple of 'stop'?",
           "options": [
-            "stopied (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "stoppt (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "stoped (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)",
-            "stopped (Form regular Past Simple verbs with ed and accurately produce the three phonetic pronunciations of the ed ending t)"
+            "stopied",
+            "stoppt",
+            "stoped",
+            "stopped"
           ],
           "answerIndex": 3,
           "explanation": "CVC single-syllable verbs double the final consonant.",
@@ -5611,10 +5611,10 @@
         {
           "prompt": "What is the past simple of 'buy'?",
           "options": [
-            "bought (Recall and use highfrequency irregular Past Simple verbs went)",
-            "bote (Recall and use highfrequency irregular Past Simple verbs went)",
-            "buyed (Recall and use highfrequency irregular Past Simple verbs went)",
-            "brought (Recall and use highfrequency irregular Past Simple verbs went)"
+            "bought",
+            "bote",
+            "buyed",
+            "brought"
           ],
           "answerIndex": 0,
           "explanation": "Buy -> bought (bring -> brought)."
@@ -5622,10 +5622,10 @@
         {
           "prompt": "Choose the correct verb: 'We _______ (be) in London last Friday.'",
           "options": [
-            "were (Recall and use highfrequency irregular Past Simple verbs went)",
-            "was (Recall and use highfrequency irregular Past Simple verbs went)",
-            "been (Recall and use highfrequency irregular Past Simple verbs went)",
-            "are (Recall and use highfrequency irregular Past Simple verbs went)"
+            "were",
+            "was",
+            "been",
+            "are"
           ],
           "answerIndex": 0,
           "explanation": "We + be in past simple = were."
@@ -5637,10 +5637,10 @@
         {
           "prompt": "Translate: 'I saw my old professor and we had a great conversation.'",
           "options": [
-            "I see my professor and have conversation. (Recall and use highfrequency irregular Past Simple verbs went)",
-            "I seed my professor and haved conversation. (Recall and use highfrequency irregular Past Simple verbs went)",
-            "I saw my old professor and we had a great conversation. (Recall and use highfrequency irregular Past Simple verbs went)",
-            "I will see my professor. (Recall and use highfrequency irregular Past Simple verbs went)"
+            "I see my professor and have conversation.",
+            "I seed my professor and haved conversation.",
+            "I saw my old professor and we had a great conversation.",
+            "I will see my professor."
           ],
           "answerIndex": 2,
           "explanation": "Saw (see) + had (have)."
@@ -5648,10 +5648,10 @@
         {
           "prompt": "Complete: 'She _______ (take) the subway and _______ (find) the café easily.'",
           "options": [
-            "taked / finded (Recall and use highfrequency irregular Past Simple verbs went)",
-            "taken / founded (Recall and use highfrequency irregular Past Simple verbs went)",
-            "takes / finds (Recall and use highfrequency irregular Past Simple verbs went)",
-            "took / found (Recall and use highfrequency irregular Past Simple verbs went)"
+            "taked / finded",
+            "taken / founded",
+            "takes / finds",
+            "took / found"
           ],
           "answerIndex": 3,
           "explanation": "Take -> took; find -> found."
@@ -5663,10 +5663,10 @@
         {
           "prompt": "Match the present verbs to their past irregular forms: go, see, make, think:",
           "options": [
-            "go -> gone | see -> seen | make -> making | think -> thank (Recall and use highfrequency irregular Past Simple verbs went)",
-            "go -> went | see -> saw | make -> made | think -> thought (Recall and use highfrequency irregular Past Simple verbs went)",
-            "All use -ed (Recall and use highfrequency irregular Past Simple verbs went)",
-            "go -> goed | see -> seed | make -> maked | think -> thinked (Recall and use highfrequency irregular Past Simple verbs went)"
+            "go -> gone | see -> seen | make -> making | think -> thank",
+            "go -> went | see -> saw | make -> made | think -> thought",
+            "All use -ed",
+            "go -> goed | see -> seed | make -> maked | think -> thinked"
           ],
           "answerIndex": 1,
           "explanation": "went, saw, made, thought.",
@@ -5675,10 +5675,10 @@
         {
           "prompt": "Which sentence has NO grammatical errors?",
           "options": [
-            "Yesterday I went shopping, bought a book, and gave it to my brother. (Recall and use highfrequency irregular Past Simple verbs went)",
-            "Yesterday I went shopping, bought a book, and give it to my brother. (Recall and use highfrequency irregular Past Simple verbs went)",
-            "Yesterday I was go shopping. (Recall and use highfrequency irregular Past Simple verbs went)",
-            "Yesterday I goed shopping, buyed a book, and gived it to my brother. (Recall and use highfrequency irregular Past Simple verbs went)"
+            "Yesterday I went shopping, bought a book, and gave it to my brother.",
+            "Yesterday I went shopping, bought a book, and give it to my brother.",
+            "Yesterday I was go shopping.",
+            "Yesterday I goed shopping, buyed a book, and gived it to my brother."
           ],
           "answerIndex": 0,
           "explanation": "went, bought, gave are all correct irregular past simple forms.",
@@ -5687,10 +5687,10 @@
         {
           "prompt": "What is the past simple of 'come'?",
           "options": [
-            "cum (Recall and use highfrequency irregular Past Simple verbs went)",
-            "comed (Recall and use highfrequency irregular Past Simple verbs went)",
-            "camed (Recall and use highfrequency irregular Past Simple verbs went)",
-            "came (Recall and use highfrequency irregular Past Simple verbs went)"
+            "cum",
+            "comed",
+            "camed",
+            "came"
           ],
           "answerIndex": 3,
           "explanation": "Come -> came.",
@@ -5699,10 +5699,10 @@
         {
           "prompt": "Choose the correct past forms: 'The concert _______ (be) fantastic and we _______ (feel) so energized.'",
           "options": [
-            "was / feel (Recall and use highfrequency irregular Past Simple verbs went)",
-            "is / feel (Recall and use highfrequency irregular Past Simple verbs went)",
-            "was / felt (Recall and use highfrequency irregular Past Simple verbs went)",
-            "were / feeled (Recall and use highfrequency irregular Past Simple verbs went)"
+            "was / feel",
+            "is / feel",
+            "was / felt",
+            "were / feeled"
           ],
           "answerIndex": 2,
           "explanation": "The concert was... and we felt...",
@@ -5750,10 +5750,10 @@
         {
           "prompt": "Which sentence is grammatically correct?",
           "options": [
-            "She didn't visited the art gallery yesterday. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "She not visited the art gallery yesterday. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "She don't visited the art gallery yesterday. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "She didn't visit the art gallery yesterday. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "She didn't visited the art gallery yesterday.",
+            "She not visited the art gallery yesterday.",
+            "She don't visited the art gallery yesterday.",
+            "She didn't visit the art gallery yesterday."
           ],
           "answerIndex": 3,
           "explanation": "didn't + base verb (visit)."
@@ -5761,10 +5761,10 @@
         {
           "prompt": "How do you ask someone what time they arrived yesterday?",
           "options": [
-            "What time did you arrived yesterday? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "What time you arrived yesterday? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "What time were you arrive yesterday? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "What time did you arrive yesterday? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "What time did you arrived yesterday?",
+            "What time you arrived yesterday?",
+            "What time were you arrive yesterday?",
+            "What time did you arrive yesterday?"
           ],
           "answerIndex": 3,
           "explanation": "What time did you arrive (did + subject + base verb)."
@@ -5776,10 +5776,10 @@
         {
           "prompt": "Correct the error in this sentence: 'Did you went to the British Museum?'",
           "options": [
-            "Did you go to the British Museum? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Do you went to the British Museum? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Did you gone to the British Museum? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Were you go to the British Museum? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "Did you go to the British Museum?",
+            "Do you went to the British Museum?",
+            "Did you gone to the British Museum?",
+            "Were you go to the British Museum?"
           ],
           "answerIndex": 0,
           "explanation": "After 'did', use the base verb 'go'."
@@ -5787,10 +5787,10 @@
         {
           "prompt": "Translate: 'We didn't have coffee; we drank Scottish breakfast tea.'",
           "options": [
-            "We didn't have coffee; we drank Scottish breakfast tea. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "We didn't had coffee; we drunk tea. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "We not had coffee; we drink tea. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "We didn't coffee; we drank tea. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "We didn't have coffee; we drank Scottish breakfast tea.",
+            "We didn't had coffee; we drunk tea.",
+            "We not had coffee; we drink tea.",
+            "We didn't coffee; we drank tea."
           ],
           "answerIndex": 0,
           "explanation": "didn't have (base verb) + drank (positive irregular past verb)."
@@ -5803,9 +5803,9 @@
           "prompt": "Why is 'I didn't saw him' grammatically incorrect in English?",
           "options": [
             "Because 'didn't' already marks the past tense, so the main verb must remain in its base dictionary form ('I didn't see him')",
-            "It is acceptable in informal speech. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Because 'saw' is not a real word. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Because 'didn't' is only for questions. (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "It is acceptable in informal speech.",
+            "Because 'saw' is not a real word.",
+            "Because 'didn't' is only for questions."
           ],
           "answerIndex": 0,
           "explanation": "Double-marking past tense violates English auxiliary syntax.",
@@ -5814,10 +5814,10 @@
         {
           "prompt": "What is the natural short answer to 'Did they enjoy the show?'",
           "options": [
-            "'No, they enjoyed not.' (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "'Yes, they were.' (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "'Yes, they enjoyed.' (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "'Yes, they did.' / 'No, they didn't.' (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "'No, they enjoyed not.'",
+            "'Yes, they were.'",
+            "'Yes, they enjoyed.'",
+            "'Yes, they did.' / 'No, they didn't.'"
           ],
           "answerIndex": 3,
           "explanation": "Short answers echo the auxiliary verb 'did'.",
@@ -5826,10 +5826,10 @@
         {
           "prompt": "Complete the dialogue: 'A: _______ you buy any souvenirs? B: No, I _______, because the shops _______ closed.'",
           "options": [
-            "Do / don't / was (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Did / did / are (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Did / didn't / were (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Were / weren't / did (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "Do / don't / was",
+            "Did / did / are",
+            "Did / didn't / were",
+            "Were / weren't / did"
           ],
           "answerIndex": 2,
           "explanation": "Did you buy / didn't / were closed.",
@@ -5838,10 +5838,10 @@
         {
           "prompt": "Form a question from these words: 'where / you / stay / did / Edinburgh / in / ?'",
           "options": [
-            "Where did stayed you in Edinburgh? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Where did you stay in Edinburgh? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "In Edinburgh where you stayed? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)",
-            "Did where you stay in Edinburgh? (Form Past Simple negatives didnt  base verb and questions Did  subject  base verb  Wh question words without doublepast errors)"
+            "Where did stayed you in Edinburgh?",
+            "Where did you stay in Edinburgh?",
+            "In Edinburgh where you stayed?",
+            "Did where you stay in Edinburgh?"
           ],
           "answerIndex": 1,
           "explanation": "Where did you stay in Edinburgh?",
@@ -5890,10 +5890,10 @@
         {
           "prompt": "Which time expression is standard English for the previous evening?",
           "options": [
-            "Past night (Use past time adverbials yesterday)",
-            "Last night (Use past time adverbials yesterday)",
-            "Previous night morning (Use past time adverbials yesterday)",
-            "Yesterday night (Use past time adverbials yesterday)"
+            "Past night",
+            "Last night",
+            "Previous night morning",
+            "Yesterday night"
           ],
           "answerIndex": 1,
           "explanation": "Last night is the standard collocation in English."
@@ -5901,10 +5901,10 @@
         {
           "prompt": "Where does the word 'ago' go when indicating past duration?",
           "options": [
-            "AFTER the time phrase (Use past time adverbials yesterday)",
-            "Between the words (Use past time adverbials yesterday)",
-            "At the start of every sentence (Use past time adverbials yesterday)",
-            "Before the time phrase (Use past time adverbials yesterday)"
+            "AFTER the time phrase",
+            "Between the words",
+            "At the start of every sentence",
+            "Before the time phrase"
           ],
           "answerIndex": 0,
           "explanation": "Ago is a postposition in English (time + ago)."
@@ -5916,10 +5916,10 @@
         {
           "prompt": "Translate: 'The other day I ran into my old university roommate in the subway.'",
           "options": [
-            "The other day I ran into my old university roommate in the subway. (Use past time adverbials yesterday)",
-            "I will meet my roommate the other day. (Use past time adverbials yesterday)",
-            "Another day I run with roommate in subway. (Use past time adverbials yesterday)",
-            "Yesterday day I saw roommate. (Use past time adverbials yesterday)"
+            "The other day I ran into my old university roommate in the subway.",
+            "I will meet my roommate the other day.",
+            "Another day I run with roommate in subway.",
+            "Yesterday day I saw roommate."
           ],
           "answerIndex": 0,
           "explanation": "'The other day' means a few days ago; 'run into' = meet unexpectedly."
@@ -5927,10 +5927,10 @@
         {
           "prompt": "Choose the best connector: 'We waited in line for an hour, and _______ we got our tickets to the castle.'",
           "options": [
-            "finally (Use past time adverbials yesterday)",
-            "ago (Use past time adverbials yesterday)",
-            "at first (Use past time adverbials yesterday)",
-            "yesterday (Use past time adverbials yesterday)"
+            "finally",
+            "ago",
+            "at first",
+            "yesterday"
           ],
           "answerIndex": 0,
           "explanation": "'Finally' expresses resolution after a period of waiting."
@@ -5942,10 +5942,10 @@
         {
           "prompt": "Arrange the narrative connectors in logical storytelling order from start to finish:",
           "options": [
-            "Suddenly -> In the end -> At first -> Yesterday (Use past time adverbials yesterday)",
-            "In the end -> At first -> Then -> Suddenly (Use past time adverbials yesterday)",
-            "Then -> Then -> Then -> Finally (Use past time adverbials yesterday)",
-            "At first -> Then -> After that -> Suddenly -> In the end (Use past time adverbials yesterday)"
+            "Suddenly -> In the end -> At first -> Yesterday",
+            "In the end -> At first -> Then -> Suddenly",
+            "Then -> Then -> Then -> Finally",
+            "At first -> Then -> After that -> Suddenly -> In the end"
           ],
           "answerIndex": 3,
           "explanation": "At first -> Then -> After that -> Suddenly -> In the end.",
@@ -5954,10 +5954,10 @@
         {
           "prompt": "Which sentence correctly uses 'ago' and 'last'?",
           "options": [
-            "We moved three years before ago, and last night morning we bought house. (Use past time adverbials yesterday)",
-            "We moved to this city ago three years, and yesterday summer we bought a house. (Use past time adverbials yesterday)",
-            "We moved to this city three years ago, and last summer we bought a house. (Use past time adverbials yesterday)",
-            "We move three years ago. (Use past time adverbials yesterday)"
+            "We moved three years before ago, and last night morning we bought house.",
+            "We moved to this city ago three years, and yesterday summer we bought a house.",
+            "We moved to this city three years ago, and last summer we bought a house.",
+            "We move three years ago."
           ],
           "answerIndex": 2,
           "explanation": "three years ago + last summer.",
@@ -5966,10 +5966,10 @@
         {
           "prompt": "What does 'all of a sudden' mean in narrative prose?",
           "options": [
-            "Very slowly over many hours (Use past time adverbials yesterday)",
-            "Suddenly / unexpectedly without warning (Use past time adverbials yesterday)",
-            "Never again (Use past time adverbials yesterday)",
-            "In the morning (Use past time adverbials yesterday)"
+            "Very slowly over many hours",
+            "Suddenly / unexpectedly without warning",
+            "Never again",
+            "In the morning"
           ],
           "answerIndex": 1,
           "explanation": "All of a sudden = suddenly.",
@@ -5978,10 +5978,10 @@
         {
           "prompt": "Complete the sequence: '_______ we were nervous about the flight, but _______ the pilot landed smoothly and everyone cheered.'",
           "options": [
-            "At first / in the end (Use past time adverbials yesterday)",
-            "Yesterday / tomorrow (Use past time adverbials yesterday)",
-            "Ago / then (Use past time adverbials yesterday)",
-            "Last / after (Use past time adverbials yesterday)"
+            "At first / in the end",
+            "Yesterday / tomorrow",
+            "Ago / then",
+            "Last / after"
           ],
           "answerIndex": 0,
           "explanation": "At first (initial state) and in the end (resolution).",
@@ -6169,10 +6169,10 @@
         {
           "prompt": "What is the British English word for 'sneakers'?",
           "options": [
-            "jumpers (Identify essential clothing)",
-            "trousers (Identify essential clothing)",
-            "jackets (Identify essential clothing)",
-            "trainers (Identify essential clothing)"
+            "jumpers",
+            "trousers",
+            "jackets",
+            "trainers"
           ],
           "answerIndex": 3,
           "explanation": "In UK English, athletic sneakers are called 'trainers'."
@@ -6180,10 +6180,10 @@
         {
           "prompt": "Which adjective sequence follows correct natural English order?",
           "options": [
-            "a silk blue long beautiful dress (Identify essential clothing)",
-            "a blue beautiful silk long dress (Identify essential clothing)",
-            "a long dress beautiful blue silk (Identify essential clothing)",
-            "a beautiful long blue silk dress (Identify essential clothing)"
+            "a silk blue long beautiful dress",
+            "a blue beautiful silk long dress",
+            "a long dress beautiful blue silk",
+            "a beautiful long blue silk dress"
           ],
           "answerIndex": 3,
           "explanation": "Opinion (beautiful) -> Size (long) -> Color (blue) -> Material (silk) + Noun (dress)."
@@ -6195,10 +6195,10 @@
         {
           "prompt": "Translate: 'He was wearing a warm woollen coat and dark sunglasses.'",
           "options": [
-            "He was selling winter coats and glasses. (Identify essential clothing)",
-            "He bought a red cotton T-shirt. (Identify essential clothing)",
-            "The sunglasses were broken in his coat pocket. (Identify essential clothing)",
-            "He was wearing a warm woollen coat and dark sunglasses. (Identify essential clothing)"
+            "He was selling winter coats and glasses.",
+            "He bought a red cotton T-shirt.",
+            "The sunglasses were broken in his coat pocket.",
+            "He was wearing a warm woollen coat and dark sunglasses."
           ],
           "answerIndex": 3,
           "explanation": "woollen coat = wool coat; dark sunglasses = dark tinted glasses."
@@ -6206,10 +6206,10 @@
         {
           "prompt": "What does a 'checked shirt' look like?",
           "options": [
-            "A shirt with only vertical stripes (Identify essential clothing)",
-            "A completely plain white shirt (Identify essential clothing)",
-            "A shirt without buttons (Identify essential clothing)",
-            "A shirt featuring a cross-lined square grid / tartan pattern (Identify essential clothing)"
+            "A shirt with only vertical stripes",
+            "A completely plain white shirt",
+            "A shirt without buttons",
+            "A shirt featuring a cross-lined square grid / tartan pattern"
           ],
           "answerIndex": 3,
           "explanation": "Checked = pattern of squares/grid."
@@ -6221,10 +6221,10 @@
         {
           "prompt": "Match the UK / US clothing pairs: trainers / sneakers, trousers / pants, jumper / sweater, handbag / purse:",
           "options": [
-            "trainers = cars | trousers = trees | jumper = boots (Identify essential clothing)",
-            "trainers = sneakers | trousers = pants | jumper = sweater | handbag = purse (Identify essential clothing)",
-            "All mean hats (Identify essential clothing)",
-            "All mean shoes (Identify essential clothing)"
+            "trainers = cars | trousers = trees | jumper = boots",
+            "trainers = sneakers | trousers = pants | jumper = sweater | handbag = purse",
+            "All mean hats",
+            "All mean shoes"
           ],
           "answerIndex": 1,
           "explanation": "UK and US lexical retail equivalents.",
@@ -6233,10 +6233,10 @@
         {
           "prompt": "Identify the correct adjective order: 'He bought a _______ jacket.'",
           "options": [
-            "gorgeous black leather (Identify essential clothing)",
-            "black gorgeous leather (Identify essential clothing)",
-            "leather gorgeous black (Identify essential clothing)",
-            "leather black gorgeous (Identify essential clothing)"
+            "gorgeous black leather",
+            "black gorgeous leather",
+            "leather gorgeous black",
+            "leather black gorgeous"
           ],
           "answerIndex": 0,
           "explanation": "Opinion (gorgeous) -> Color (black) -> Material (leather).",
@@ -6245,9 +6245,9 @@
         {
           "prompt": "Why are words like 'trousers', 'jeans', 'glasses', and 'shorts' grammatically plural in English?",
           "options": [
-            "Because they cost a lot of money. (Identify essential clothing)",
-            "Because they are made of cotton. (Identify essential clothing)",
-            "It is a spelling exception. (Identify essential clothing)",
+            "Because they cost a lot of money.",
+            "Because they are made of cotton.",
+            "It is a spelling exception.",
             "Because they consist of two symmetrical connected parts (legs/lenses)"
           ],
           "answerIndex": 3,
@@ -6257,10 +6257,10 @@
         {
           "prompt": "Complete: 'I need a _______ (pattern with stripes) shirt for the office.'",
           "options": [
-            "checked (Identify essential clothing)",
-            "plain (Identify essential clothing)",
-            "striped (Identify essential clothing)",
-            "spotted (Identify essential clothing)"
+            "checked",
+            "plain",
+            "striped",
+            "spotted"
           ],
           "answerIndex": 2,
           "explanation": "striped = having stripes.",
@@ -6309,10 +6309,10 @@
         {
           "prompt": "What is the difference between 'It fits you' and 'It suits you'?",
           "options": [
-            "'It fits you' refers to the correct physical size and measurement; 'It suits you' means it looks flattering and stylish on your appearance. (Inquire about prices)",
-            "There is no difference. (Inquire about prices)",
-            "'It suits you' is only for business suits. (Inquire about prices)",
-            "'It fits you' is an insult. (Inquire about prices)"
+            "'It fits you' refers to the correct physical size and measurement; 'It suits you' means it looks flattering and stylish on your appearance.",
+            "There is no difference.",
+            "'It suits you' is only for business suits.",
+            "'It fits you' is an insult."
           ],
           "answerIndex": 0,
           "explanation": "Fit = size/dimensions; Suit = aesthetic flattering appearance."
@@ -6320,10 +6320,10 @@
         {
           "prompt": "How do you correctly ask to try on a pair of jeans with a pronoun?",
           "options": [
-            "Can I try them on? (Inquire about prices)",
-            "Can I try on them? (Inquire about prices)",
-            "Can I trying on? (Inquire about prices)",
-            "Can I try it on? (Inquire about prices)"
+            "Can I try them on?",
+            "Can I try on them?",
+            "Can I trying on?",
+            "Can I try it on?"
           ],
           "answerIndex": 0,
           "explanation": "Separable phrasal verb with plural object pronoun: try them on."
@@ -6335,10 +6335,10 @@
         {
           "prompt": "Translate: 'The jacket is too tight around the shoulders. Do you have a size large?'",
           "options": [
-            "The jacket is too loose on my arms. (Inquire about prices)",
-            "The jacket is too tight around the shoulders. Do you have a size large? (Inquire about prices)",
-            "How much is the size large jacket? (Inquire about prices)",
-            "I want to return the jacket. (Inquire about prices)"
+            "The jacket is too loose on my arms.",
+            "The jacket is too tight around the shoulders. Do you have a size large?",
+            "How much is the size large jacket?",
+            "I want to return the jacket."
           ],
           "answerIndex": 1,
           "explanation": "too tight around the shoulders = tight fit; size large = size L."
@@ -6346,10 +6346,10 @@
         {
           "prompt": "What does a customer say when they decide to purchase an item?",
           "options": [
-            "I'll leave it. (Inquire about prices)",
-            "It's too expensive. (Inquire about prices)",
-            "I'll take it. / I'll have this one, please. (Inquire about prices)",
-            "Where is the exit? (Inquire about prices)"
+            "I'll leave it.",
+            "It's too expensive.",
+            "I'll take it. / I'll have this one, please.",
+            "Where is the exit?"
           ],
           "answerIndex": 2,
           "explanation": "'I'll take it' confirms purchase decision."
@@ -6361,10 +6361,10 @@
         {
           "prompt": "Match the fitting phrases: too tight, too loose, changing rooms, 20% off:",
           "options": [
-            "too tight: fits constricted | too loose: fits baggy | changing rooms: fitting cubicles | 20% off: discounted by one-fifth (Inquire about prices)",
-            "All mean shoes (Inquire about prices)",
-            "All mean days of the week (Inquire about prices)",
-            "too tight: cheap | too loose: expensive | changing rooms: kitchen (Inquire about prices)"
+            "too tight: fits constricted | too loose: fits baggy | changing rooms: fitting cubicles | 20% off: discounted by one-fifth",
+            "All mean shoes",
+            "All mean days of the week",
+            "too tight: cheap | too loose: expensive | changing rooms: kitchen"
           ],
           "answerIndex": 0,
           "explanation": "Standard fitting and promotional vocabulary.",
@@ -6373,10 +6373,10 @@
         {
           "prompt": "Complete: 'Excuse me, how much _______ (plural) these brown boots?'",
           "options": [
-            "do (Inquire about prices)",
-            "is (Inquire about prices)",
-            "does (Inquire about prices)",
-            "are (Inquire about prices)"
+            "do",
+            "is",
+            "does",
+            "are"
           ],
           "answerIndex": 3,
           "explanation": "Boots is plural -> 'How much ARE these brown boots?'.",
@@ -6385,10 +6385,10 @@
         {
           "prompt": "What is the polite phrase to say when an item doesn't fit and you don't want to buy it?",
           "options": [
-            "Give me my money back. (Inquire about prices)",
-            "Never mind you. (Inquire about prices)",
-            "I'll leave it for now, thank you for your help. (Inquire about prices)",
-            "This is garbage. (Inquire about prices)"
+            "Give me my money back.",
+            "Never mind you.",
+            "I'll leave it for now, thank you for your help.",
+            "This is garbage."
           ],
           "answerIndex": 2,
           "explanation": "'I'll leave it for now, thank you' is the standard polite refusal.",
@@ -6397,10 +6397,10 @@
         {
           "prompt": "Complete: 'That color really _______ (looks flattering on) you!'",
           "options": [
-            "takes (Inquire about prices)",
-            "suits (Inquire about prices)",
-            "tries (Inquire about prices)",
-            "fits (Inquire about prices)"
+            "takes",
+            "suits",
+            "tries",
+            "fits"
           ],
           "answerIndex": 1,
           "explanation": "suits = looks flattering on.",
@@ -6449,10 +6449,10 @@
         {
           "prompt": "Which quantifier is used with the uncountable noun 'money'?",
           "options": [
-            "many (Use demonstratives this)",
-            "a few (Use demonstratives this)",
-            "too many (Use demonstratives this)",
-            "much / a little / too much (Use demonstratives this)"
+            "many",
+            "a few",
+            "too many",
+            "much / a little / too much"
           ],
           "answerIndex": 3,
           "explanation": "'Money' is an uncountable noun, requiring much/little/too much."
@@ -6460,10 +6460,10 @@
         {
           "prompt": "How do you point to a pair of shoes located far across the store?",
           "options": [
-            "these shoes here (Use demonstratives this)",
-            "this shoes (Use demonstratives this)",
-            "that shoes (Use demonstratives this)",
-            "those shoes over there (Use demonstratives this)"
+            "these shoes here",
+            "this shoes",
+            "that shoes",
+            "those shoes over there"
           ],
           "answerIndex": 3,
           "explanation": "Those = plural and distant."
@@ -6475,10 +6475,10 @@
         {
           "prompt": "Translate: 'There are too many people in this shop, but there are a few nice dresses.'",
           "options": [
-            "There are too many people in this shop, but there are a few nice dresses. (Use demonstratives this)",
-            "There is too much money in the shop. (Use demonstratives this)",
-            "The dresses are too cheap. (Use demonstratives this)",
-            "Nobody is in the shop today. (Use demonstratives this)"
+            "There are too many people in this shop, but there are a few nice dresses.",
+            "There is too much money in the shop.",
+            "The dresses are too cheap.",
+            "Nobody is in the shop today."
           ],
           "answerIndex": 0,
           "explanation": "too many people (countable plural); a few nice dresses (small positive number)."
@@ -6486,10 +6486,10 @@
         {
           "prompt": "Why is 'I bought a few milks' incorrect in standard English?",
           "options": [
-            "Because 'milk' is an uncountable noun; you must say 'a little milk' or use countable units like 'a few bottles of milk'. (Use demonstratives this)",
-            "Because milk cannot be bought. (Use demonstratives this)",
-            "Because a few is only for shoes. (Use demonstratives this)",
-            "It is acceptable in British English. (Use demonstratives this)"
+            "Because 'milk' is an uncountable noun; you must say 'a little milk' or use countable units like 'a few bottles of milk'.",
+            "Because milk cannot be bought.",
+            "Because a few is only for shoes.",
+            "It is acceptable in British English."
           ],
           "answerIndex": 0,
           "explanation": "Uncountable liquids require 'a little' or partitives ('a few bottles')."
@@ -6501,10 +6501,10 @@
         {
           "prompt": "Match the quantifiers to their noun categories: many, much, a few, a little:",
           "options": [
-            "All are used for everything identically (Use demonstratives this)",
-            "All mean zero (Use demonstratives this)",
-            "many: uncountable | much: countable (Use demonstratives this)",
-            "many: countable plural | much: uncountable | a few: countable plural | a little: uncountable (Use demonstratives this)"
+            "All are used for everything identically",
+            "All mean zero",
+            "many: uncountable | much: countable",
+            "many: countable plural | much: uncountable | a few: countable plural | a little: uncountable"
           ],
           "answerIndex": 3,
           "explanation": "Countable vs. uncountable quantifier distribution.",
@@ -6513,10 +6513,10 @@
         {
           "prompt": "Complete: 'Do you have _______ (enough) money to buy _______ (that) leather wallet?'",
           "options": [
-            "many / these (Use demonstratives this)",
-            "a few / this (Use demonstratives this)",
-            "enough / that (Use demonstratives this)",
-            "too many / those (Use demonstratives this)"
+            "many / these",
+            "a few / this",
+            "enough / that",
+            "too many / those"
           ],
           "answerIndex": 2,
           "explanation": "enough money (uncountable) + that leather wallet (singular distant).",
@@ -6525,10 +6525,10 @@
         {
           "prompt": "Translate: 'These trousers are not long enough for me.'",
           "options": [
-            "I want to buy short trousers. (Use demonstratives this)",
-            "These trousers are not long enough for me. (Use demonstratives this)",
-            "These trousers are too long. (Use demonstratives this)",
-            "The trousers are very cheap. (Use demonstratives this)"
+            "I want to buy short trousers.",
+            "These trousers are not long enough for me.",
+            "These trousers are too long.",
+            "The trousers are very cheap."
           ],
           "answerIndex": 1,
           "explanation": "not [adjective] enough = insufficient degree.",
@@ -6537,10 +6537,10 @@
         {
           "prompt": "Complete: 'There were only _______ (a small number of) customers in the boutique.'",
           "options": [
-            "a few (Use demonstratives this)",
-            "a little (Use demonstratives this)",
-            "too much (Use demonstratives this)",
-            "much (Use demonstratives this)"
+            "a few",
+            "a little",
+            "too much",
+            "much"
           ],
           "answerIndex": 0,
           "explanation": "Customers is countable plural -> a few.",
@@ -6589,10 +6589,10 @@
         {
           "prompt": "What is the comparative form of 'expensive'?",
           "options": [
-            "more expensiver (Form comparative er than)",
-            "more expensive than (Form comparative er than)",
-            "most expensive (Form comparative er than)",
-            "expensiver than (Form comparative er than)"
+            "more expensiver",
+            "more expensive than",
+            "most expensive",
+            "expensiver than"
           ],
           "answerIndex": 1,
           "explanation": "Multi-syllable adjectives take 'more + adjective + than'."
@@ -6600,10 +6600,10 @@
         {
           "prompt": "How do you say 'This shop is better than that one' in correct English?",
           "options": [
-            "This shop is better than that one. (Form comparative er than)",
-            "This shop is more better than that one. (Form comparative er than)",
-            "This shop is gooder than that one. (Form comparative er than)",
-            "This shop is more good than that one. (Form comparative er than)"
+            "This shop is better than that one.",
+            "This shop is more better than that one.",
+            "This shop is gooder than that one.",
+            "This shop is more good than that one."
           ],
           "answerIndex": 0,
           "explanation": "Good -> better (never 'more good' or 'more better')."
@@ -6615,10 +6615,10 @@
         {
           "prompt": "Translate: 'These boots are the most comfortable pair I have ever worn.'",
           "options": [
-            "These boots are the most comfortable pair I have ever worn. (Form comparative er than)",
-            "These boots are very heavy. (Form comparative er than)",
-            "These boots are more comfortable than shoes. (Form comparative er than)",
-            "I want to buy comfortable boots. (Form comparative er than)"
+            "These boots are the most comfortable pair I have ever worn.",
+            "These boots are very heavy.",
+            "These boots are more comfortable than shoes.",
+            "I want to buy comfortable boots."
           ],
           "answerIndex": 0,
           "explanation": "the most comfortable = superlative form for long adjective."
@@ -6626,10 +6626,10 @@
         {
           "prompt": "What is the superlative form of 'bad'?",
           "options": [
-            "the worst (Form comparative er than)",
-            "worse (Form comparative er than)",
-            "the baddest (Form comparative er than)",
-            "the most bad (Form comparative er than)"
+            "the worst",
+            "worse",
+            "the baddest",
+            "the most bad"
           ],
           "answerIndex": 0,
           "explanation": "Bad -> worse -> the worst."
@@ -6641,10 +6641,10 @@
         {
           "prompt": "Match the comparative and superlative forms: cheap, big, stylish, good:",
           "options": [
-            "All use '-est' only (Form comparative er than)",
-            "cheap -> more cheap | good -> gooder (Form comparative er than)",
-            "cheap -> cheaper / the cheapest | big -> bigger / the biggest | stylish -> more stylish / the most stylish | good -> better / the best (Form comparative er than)",
-            "All use 'more' only (Form comparative er than)"
+            "All use '-est' only",
+            "cheap -> more cheap | good -> gooder",
+            "cheap -> cheaper / the cheapest | big -> bigger / the biggest | stylish -> more stylish / the most stylish | good -> better / the best",
+            "All use 'more' only"
           ],
           "answerIndex": 2,
           "explanation": "Syllable-based and irregular comparative/superlative paradigms.",
@@ -6653,10 +6653,10 @@
         {
           "prompt": "Complete: 'This silk scarf is _______ (as soft as) cashmere.'",
           "options": [
-            "so soft as (Form comparative er than)",
-            "as soft as (Form comparative er than)",
-            "as soft than (Form comparative er than)",
-            "more soft as (Form comparative er than)"
+            "so soft as",
+            "as soft as",
+            "as soft than",
+            "more soft as"
           ],
           "answerIndex": 1,
           "explanation": "as + adjective + as = comparison of equality.",
@@ -6665,10 +6665,10 @@
         {
           "prompt": "Why is 'more bigger' incorrect in English grammar?",
           "options": [
-            "Because 'bigger' already has the comparative suffix '-er', making the addition of 'more' a redundant double comparative error. (Form comparative er than)",
-            "Because bigger is an irregular verb. (Form comparative er than)",
-            "Because more is only for small things. (Form comparative er than)",
-            "It is standard in formal speech. (Form comparative er than)"
+            "Because 'bigger' already has the comparative suffix '-er', making the addition of 'more' a redundant double comparative error.",
+            "Because bigger is an irregular verb.",
+            "Because more is only for small things.",
+            "It is standard in formal speech."
           ],
           "answerIndex": 0,
           "explanation": "Double comparatives ('more bigger', 'more better') are ungrammatical.",
@@ -6677,10 +6677,10 @@
         {
           "prompt": "Complete: 'Out of all the shops on Regent Street, this one is _______ (the most famous).'",
           "options": [
-            "most famouser (Form comparative er than)",
-            "the famousest (Form comparative er than)",
-            "more famous (Form comparative er than)",
-            "the most famous (Form comparative er than)"
+            "most famouser",
+            "the famousest",
+            "more famous",
+            "the most famous"
           ],
           "answerIndex": 3,
           "explanation": "the most famous = superlative.",
@@ -6869,10 +6869,10 @@
         {
           "prompt": "How do you say that you travel using your feet in English?",
           "options": [
-            "I travel by foot. (Identify urban public transit modes)",
-            "I travel with foot. (Identify urban public transit modes)",
-            "I travel in foot. (Identify urban public transit modes)",
-            "I travel on foot. (Identify urban public transit modes)"
+            "I travel by foot.",
+            "I travel with foot.",
+            "I travel in foot.",
+            "I travel on foot."
           ],
           "answerIndex": 3,
           "explanation": "'On foot' is the correct standard English idiom for walking."
@@ -6880,10 +6880,10 @@
         {
           "prompt": "What is 'the Tube' in London British English?",
           "options": [
-            "A water pipe (Identify urban public transit modes)",
-            "A red telephone booth (Identify urban public transit modes)",
-            "A Thames riverboat (Identify urban public transit modes)",
-            "The London Underground subway system (Identify urban public transit modes)"
+            "A water pipe",
+            "A red telephone booth",
+            "A Thames riverboat",
+            "The London Underground subway system"
           ],
           "answerIndex": 3,
           "explanation": "The Tube is the colloquial and official name for the London Underground."
@@ -6895,10 +6895,10 @@
         {
           "prompt": "Translate: 'Tap your contactless debit card or Oyster card at the yellow reader on the fare gates.'",
           "options": [
-            "Buy a paper ticket from the driver. (Identify urban public transit modes)",
-            "The fare gates are closed for repair. (Identify urban public transit modes)",
-            "You cannot use debit cards on the Tube. (Identify urban public transit modes)",
-            "Tap your contactless debit card or Oyster card at the yellow reader on the fare gates. (Identify urban public transit modes)"
+            "Buy a paper ticket from the driver.",
+            "The fare gates are closed for repair.",
+            "You cannot use debit cards on the Tube.",
+            "Tap your contactless debit card or Oyster card at the yellow reader on the fare gates."
           ],
           "answerIndex": 3,
           "explanation": "contactless debit card = payment card; yellow reader = card scanner; fare gates = barrier gates."
@@ -6906,10 +6906,10 @@
         {
           "prompt": "What is the difference between a 'single ticket' (UK) / 'one-way ticket' (US) and a 'return ticket' (UK) / 'round-trip ticket' (US)?",
           "options": [
-            "A return ticket is only valid on Sundays. (Identify urban public transit modes)",
-            "A single ticket is for two people. (Identify urban public transit modes)",
-            "There is no difference. (Identify urban public transit modes)",
-            "A single/one-way ticket is for one journey to a destination; a return/round-trip ticket covers both the journey there and the return journey back. (Identify urban public transit modes)"
+            "A return ticket is only valid on Sundays.",
+            "A single ticket is for two people.",
+            "There is no difference.",
+            "A single/one-way ticket is for one journey to a destination; a return/round-trip ticket covers both the journey there and the return journey back."
           ],
           "answerIndex": 3,
           "explanation": "Single/one-way (one direction) vs. Return/round-trip (there and back)."
@@ -6921,10 +6921,10 @@
         {
           "prompt": "Match the transit terms: the subway/Tube, the bus stop, line transfer, the platform:",
           "options": [
-            "the subway/Tube: underground railway | the bus stop: roadside bus waiting point | line transfer: changing transit lines | the platform: train boarding area (Identify urban public transit modes)",
-            "All mean bicycles (Identify urban public transit modes)",
-            "All mean streetlights (Identify urban public transit modes)",
-            "the subway: airport | the bus stop: taxi | line transfer: lost luggage (Identify urban public transit modes)"
+            "the subway/Tube: underground railway | the bus stop: roadside bus waiting point | line transfer: changing transit lines | the platform: train boarding area",
+            "All mean bicycles",
+            "All mean streetlights",
+            "the subway: airport | the bus stop: taxi | line transfer: lost luggage"
           ],
           "answerIndex": 0,
           "explanation": "Public transit infrastructure definitions.",
@@ -6933,10 +6933,10 @@
         {
           "prompt": "Translate: 'The intercity express train to Edinburgh departs from Platform 4 in ten minutes.'",
           "options": [
-            "The bus to Edinburgh arrived ten minutes ago. (Identify urban public transit modes)",
-            "Platform 4 is closed for all trains to Edinburgh. (Identify urban public transit modes)",
-            "Edinburgh has only four train platforms. (Identify urban public transit modes)",
-            "The intercity express train to Edinburgh departs from Platform 4 in ten minutes. (Identify urban public transit modes)"
+            "The bus to Edinburgh arrived ten minutes ago.",
+            "Platform 4 is closed for all trains to Edinburgh.",
+            "Edinburgh has only four train platforms.",
+            "The intercity express train to Edinburgh departs from Platform 4 in ten minutes."
           ],
           "answerIndex": 3,
           "explanation": "intercity express train = long-distance train; departs from Platform 4 = leaves from track 4.",
@@ -6945,10 +6945,10 @@
         {
           "prompt": "Why do English speakers say 'by train' but 'on foot'?",
           "options": [
-            "Because feet are plural. (Identify urban public transit modes)",
-            "Because trains are made of metal. (Identify urban public transit modes)",
+            "Because feet are plural.",
+            "Because trains are made of metal.",
             "English uses the preposition 'by' to indicate the mechanical vehicle/mode of travel, and 'on' for bodily locomotion ('on foot', 'on horseback')",
-            "It is a modern slang rule. (Identify urban public transit modes)"
+            "It is a modern slang rule."
           ],
           "answerIndex": 2,
           "explanation": "Prepositional syntax: by + vehicle vs. on + foot.",
@@ -6957,10 +6957,10 @@
         {
           "prompt": "Complete: 'Please stand behind the yellow line on the _______ (train boarding area).'",
           "options": [
-            "turnstile (Identify urban public transit modes)",
-            "platform (Identify urban public transit modes)",
-            "ticket (Identify urban public transit modes)",
-            "escalator (Identify urban public transit modes)"
+            "turnstile",
+            "platform",
+            "ticket",
+            "escalator"
           ],
           "answerIndex": 1,
           "explanation": "platform = the train boarding area.",
@@ -7009,10 +7009,10 @@
         {
           "prompt": "Which preposition means 'facing on the other side of the street'?",
           "options": [
-            "opposite / across from (Master English prepositions of place and spatial orientation next to  beside)",
-            "between (Master English prepositions of place and spatial orientation next to  beside)",
-            "behind (Master English prepositions of place and spatial orientation next to  beside)",
-            "under (Master English prepositions of place and spatial orientation next to  beside)"
+            "opposite / across from",
+            "between",
+            "behind",
+            "under"
           ],
           "answerIndex": 0,
           "explanation": "Opposite (UK) / across from (US) means on the other side of a road or space."
@@ -7020,10 +7020,10 @@
         {
           "prompt": "How do you say that a café is situated between a bank and a post office?",
           "options": [
-            "The café is between the bank and the post office. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The café is next to both. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The café is inside both. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The café is behind both. (Master English prepositions of place and spatial orientation next to  beside)"
+            "The café is between the bank and the post office.",
+            "The café is next to both.",
+            "The café is inside both.",
+            "The café is behind both."
           ],
           "answerIndex": 0,
           "explanation": "'Between A and B' expresses a position intermediate to two points."
@@ -7035,10 +7035,10 @@
         {
           "prompt": "Translate: 'The Italian restaurant is located behind the theater and in front of the public garden.'",
           "options": [
-            "The Italian restaurant is far from the public garden. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The Italian restaurant is located behind the theater and in front of the public garden. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The theater is inside the Italian restaurant. (Master English prepositions of place and spatial orientation next to  beside)",
-            "Where is the public garden and theater? (Master English prepositions of place and spatial orientation next to  beside)"
+            "The Italian restaurant is far from the public garden.",
+            "The Italian restaurant is located behind the theater and in front of the public garden.",
+            "The theater is inside the Italian restaurant.",
+            "Where is the public garden and theater?"
           ],
           "answerIndex": 1,
           "explanation": "behind the theater = at the rear; in front of the garden = ahead of the garden."
@@ -7046,10 +7046,10 @@
         {
           "prompt": "What does 'on the corner of' signify in urban geography?",
           "options": [
-            "In the middle of the block (Master English prepositions of place and spatial orientation next to  beside)",
-            "At the dead end of a street (Master English prepositions of place and spatial orientation next to  beside)",
-            "At the exact point where two intersecting streets meet (Master English prepositions of place and spatial orientation next to  beside)",
-            "Underneath the sidewalk (Master English prepositions of place and spatial orientation next to  beside)"
+            "In the middle of the block",
+            "At the dead end of a street",
+            "At the exact point where two intersecting streets meet",
+            "Underneath the sidewalk"
           ],
           "answerIndex": 2,
           "explanation": "'On the corner of' denotes the street intersection corner."
@@ -7061,10 +7061,10 @@
         {
           "prompt": "Match the prepositions of place: next to, behind, in front of, on the corner of:",
           "options": [
-            "All mean yesterday (Master English prepositions of place and spatial orientation next to  beside)",
-            "All mean inside (Master English prepositions of place and spatial orientation next to  beside)",
-            "next to: far | behind: under | in front of: between (Master English prepositions of place and spatial orientation next to  beside)",
-            "next to: beside | behind: at the back of | in front of: directly ahead | on the corner of: at street intersection (Master English prepositions of place and spatial orientation next to  beside)"
+            "All mean yesterday",
+            "All mean inside",
+            "next to: far | behind: under | in front of: between",
+            "next to: beside | behind: at the back of | in front of: directly ahead | on the corner of: at street intersection"
           ],
           "answerIndex": 3,
           "explanation": "Spatial prepositions matching.",
@@ -7073,10 +7073,10 @@
         {
           "prompt": "Translate: 'Is there a cash machine near here? — Yes, there is one right across from the supermarket, next to the kiosk.'",
           "options": [
-            "The supermarket has no cash machines nearby. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The kiosk is closed across from the supermarket. (Master English prepositions of place and spatial orientation next to  beside)",
-            "Is there a cash machine near here? — Yes, there is one right across from the supermarket, next to the kiosk. (Master English prepositions of place and spatial orientation next to  beside)",
-            "The cash machine next to the kiosk is out of money. (Master English prepositions of place and spatial orientation next to  beside)"
+            "The supermarket has no cash machines nearby.",
+            "The kiosk is closed across from the supermarket.",
+            "Is there a cash machine near here? — Yes, there is one right across from the supermarket, next to the kiosk.",
+            "The cash machine next to the kiosk is out of money."
           ],
           "answerIndex": 2,
           "explanation": "cash machine = ATM; across from = opposite; next to = beside.",
@@ -7085,10 +7085,10 @@
         {
           "prompt": "What is the difference between 'in front of' and 'opposite'?",
           "options": [
-            "'Opposite' is only used for numbers. (Master English prepositions of place and spatial orientation next to  beside)",
-            "'In front of' refers to being positioned directly before something on the same side, whereas 'opposite / across from' implies being on the facing other side of a road, square, or barrier. (Master English prepositions of place and spatial orientation next to  beside)",
-            "'In front of' is past tense. (Master English prepositions of place and spatial orientation next to  beside)",
-            "They are completely interchangeable in all contexts. (Master English prepositions of place and spatial orientation next to  beside)"
+            "'Opposite' is only used for numbers.",
+            "'In front of' refers to being positioned directly before something on the same side, whereas 'opposite / across from' implies being on the facing other side of a road, square, or barrier.",
+            "'In front of' is past tense.",
+            "They are completely interchangeable in all contexts."
           ],
           "answerIndex": 1,
           "explanation": "Spatial nuance: in front of (same side ahead) vs. opposite (across a street/barrier).",
@@ -7097,10 +7097,10 @@
         {
           "prompt": "Complete: 'The boutique is located _______ (between) the bakery and the flower shop.'",
           "options": [
-            "between (Master English prepositions of place and spatial orientation next to  beside)",
-            "under (Master English prepositions of place and spatial orientation next to  beside)",
-            "far (Master English prepositions of place and spatial orientation next to  beside)",
-            "above (Master English prepositions of place and spatial orientation next to  beside)"
+            "between",
+            "under",
+            "far",
+            "above"
           ],
           "answerIndex": 0,
           "explanation": "between (between A and B).",
@@ -7149,10 +7149,10 @@
         {
           "prompt": "How do you instruct someone to continue forward without turning?",
           "options": [
-            "Turn around immediately. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Turn left and stop. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Go straight ahead. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Cross the river. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "Turn around immediately.",
+            "Turn left and stop.",
+            "Go straight ahead.",
+            "Cross the river."
           ],
           "answerIndex": 2,
           "explanation": "'Go straight ahead / on' means continue moving forward in the same line."
@@ -7160,10 +7160,10 @@
         {
           "prompt": "What does 'take the second turning on the right' mean?",
           "options": [
-            "Turn right twice immediately (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Turn left at the second traffic light (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Stop after two minutes (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Pass the first side street on your right, and turn into the second side street on your right (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "Turn right twice immediately",
+            "Turn left at the second traffic light",
+            "Stop after two minutes",
+            "Pass the first side street on your right, and turn into the second side street on your right"
           ],
           "answerIndex": 3,
           "explanation": "Second turning on the right means taking the 2nd street branching to the right."
@@ -7175,10 +7175,10 @@
         {
           "prompt": "Translate: 'Walk past the library, cross at the pedestrian crossing, and the hotel will be on your left-hand side.'",
           "options": [
-            "Walk past the library, cross at the pedestrian crossing, and the hotel will be on your left-hand side. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Enter the library and stay on the right. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Do not cross the pedestrian crossing. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "The library is closed next to the hotel. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "Walk past the library, cross at the pedestrian crossing, and the hotel will be on your left-hand side.",
+            "Enter the library and stay on the right.",
+            "Do not cross the pedestrian crossing.",
+            "The library is closed next to the hotel."
           ],
           "answerIndex": 0,
           "explanation": "walk past = pass by; pedestrian crossing = crosswalk; left-hand side = on left."
@@ -7186,10 +7186,10 @@
         {
           "prompt": "What is a 'roundabout' in British traffic terminology?",
           "options": [
-            "A circular road junction where traffic flows continuously around a central island (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "A straight highway with no exits (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "A train tunnel (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "A pedestrian bridge (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "A circular road junction where traffic flows continuously around a central island",
+            "A straight highway with no exits",
+            "A train tunnel",
+            "A pedestrian bridge"
           ],
           "answerIndex": 0,
           "explanation": "A roundabout is a circular intersection."
@@ -7201,10 +7201,10 @@
         {
           "prompt": "Match the direction imperatives: go straight ahead, turn left, cross the road, walk past:",
           "options": [
-            "All are food verbs (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "All mean stop (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "go straight ahead: continue forward | turn left: change direction left | cross the road: walk to opposite side | walk past: continue beyond landmark (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "All mean turn right (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "All are food verbs",
+            "All mean stop",
+            "go straight ahead: continue forward | turn left: change direction left | cross the road: walk to opposite side | walk past: continue beyond landmark",
+            "All mean turn right"
           ],
           "answerIndex": 2,
           "explanation": "Directional commands matching.",
@@ -7213,10 +7213,10 @@
         {
           "prompt": "Translate: 'At the roundabout, take the third exit towards the city center.'",
           "options": [
-            "The city center has no roundabouts. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "At the roundabout, take the third exit towards the city center. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "The roundabout is closed for three hours. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "Turn around three times at the roundabout. (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "The city center has no roundabouts.",
+            "At the roundabout, take the third exit towards the city center.",
+            "The roundabout is closed for three hours.",
+            "Turn around three times at the roundabout."
           ],
           "answerIndex": 1,
           "explanation": "take the third exit = leave the circular roundabout at junction 3.",
@@ -7225,10 +7225,10 @@
         {
           "prompt": "What is a 'Zebra Crossing' in British road regulations?",
           "options": [
-            "A pedestrian street crossing marked with alternating white and black stripes where pedestrians have absolute right of way (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "A speed bump (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "A zoo animal enclosure (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "A bicycle race lane (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "A pedestrian street crossing marked with alternating white and black stripes where pedestrians have absolute right of way",
+            "A speed bump",
+            "A zoo animal enclosure",
+            "A bicycle race lane"
           ],
           "answerIndex": 0,
           "explanation": "Zebra crossing is the UK's iconic striped pedestrian right-of-way crossing.",
@@ -7237,10 +7237,10 @@
         {
           "prompt": "Complete: 'Turn _______ (right) at the next junction and you will see the station.'",
           "options": [
-            "along (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "under (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "straight (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)",
-            "right (Give and follow walking and driving directions using imperative verbs and standard directional idioms go straight ahead)"
+            "along",
+            "under",
+            "straight",
+            "right"
           ],
           "answerIndex": 3,
           "explanation": "Turn right = veer to the right side.",
@@ -7289,10 +7289,10 @@
         {
           "prompt": "Which phrase is the most polite and natural way to ask a stranger for directions in English?",
           "options": [
-            "Where museum? (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Excuse me, could you tell me how to get to the museum? (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "You must direct me to the museum. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Tell me where the museum is now. (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "Where museum?",
+            "Excuse me, could you tell me how to get to the museum?",
+            "You must direct me to the museum.",
+            "Tell me where the museum is now."
           ],
           "answerIndex": 1,
           "explanation": "'Excuse me, could you tell me how to get to...' is polite and standard."
@@ -7300,10 +7300,10 @@
         {
           "prompt": "Which preposition expresses moving inside an enclosed green space: 'We walked _______ the park'?",
           "options": [
-            "through (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "at (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "over (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "on (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "through",
+            "at",
+            "over",
+            "on"
           ],
           "answerIndex": 0,
           "explanation": "'Through' expresses motion inside a park, forest, or tunnel."
@@ -7315,10 +7315,10 @@
         {
           "prompt": "Translate: 'Walk along the river embankment until you see the Millennium Bridge.'",
           "options": [
-            "Walk along the river embankment until you see the Millennium Bridge. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Do not walk near the river. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Cross the river before the Millennium Bridge. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "The Millennium Bridge has no river embankment. (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "Walk along the river embankment until you see the Millennium Bridge.",
+            "Do not walk near the river.",
+            "Cross the river before the Millennium Bridge.",
+            "The Millennium Bridge has no river embankment."
           ],
           "answerIndex": 0,
           "explanation": "walk along = follow length of path; until you see = up to the point of seeing."
@@ -7326,10 +7326,10 @@
         {
           "prompt": "What does the expression 'within walking distance' mean?",
           "options": [
-            "Close enough that you can easily walk there without needing vehicular transport (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "A closed pedestrian zone (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Too far to reach on foot (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Only accessible by car (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "Close enough that you can easily walk there without needing vehicular transport",
+            "A closed pedestrian zone",
+            "Too far to reach on foot",
+            "Only accessible by car"
           ],
           "answerIndex": 0,
           "explanation": "'Within walking distance' means easily reachable on foot."
@@ -7341,10 +7341,10 @@
         {
           "prompt": "Match the dynamic prepositions: along, across, through, past:",
           "options": [
-            "All mean under (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "along: following the length | across: from one side to other | through: traversing inside space | past: continuing beyond landmark (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "All are adjectives (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "All mean stop (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "All mean under",
+            "along: following the length | across: from one side to other | through: traversing inside space | past: continuing beyond landmark",
+            "All are adjectives",
+            "All mean stop"
           ],
           "answerIndex": 1,
           "explanation": "Prepositions of motion matching.",
@@ -7353,10 +7353,10 @@
         {
           "prompt": "Translate: 'Head towards the cathedral, walk past the fountain, and go into the gallery.'",
           "options": [
-            "Head towards the cathedral, walk past the fountain, and go into the gallery. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "The gallery is closed behind the cathedral fountain. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "The cathedral is inside the art gallery. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "Do not enter the gallery near the fountain. (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "Head towards the cathedral, walk past the fountain, and go into the gallery.",
+            "The gallery is closed behind the cathedral fountain.",
+            "The cathedral is inside the art gallery.",
+            "Do not enter the gallery near the fountain."
           ],
           "answerIndex": 0,
           "explanation": "head towards = move in direction; walk past = pass landmark; go into = enter.",
@@ -7365,10 +7365,10 @@
         {
           "prompt": "What is the nuance difference between 'walking along the bridge' and 'walking across the bridge'?",
           "options": [
-            "The second is plural. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "There is no difference. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "The first is past tense. (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "'Walking across the bridge' emphasizes traversing from one riverbank to the opposite bank; 'Walking along the bridge' emphasizes strolling along its length. (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "The second is plural.",
+            "There is no difference.",
+            "The first is past tense.",
+            "'Walking across the bridge' emphasizes traversing from one riverbank to the opposite bank; 'Walking along the bridge' emphasizes strolling along its length."
           ],
           "answerIndex": 3,
           "explanation": "Across (crossing from side to side) vs. Along (following lengthwise).",
@@ -7377,10 +7377,10 @@
         {
           "prompt": "Complete: 'How long does it _______ (duration verb) to walk to the station from here?'",
           "options": [
-            "have (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "make (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "take (Form polite directional inquiries using modal verbs Could you tell me how to get to)",
-            "do (Form polite directional inquiries using modal verbs Could you tell me how to get to)"
+            "have",
+            "make",
+            "take",
+            "do"
           ],
           "answerIndex": 2,
           "explanation": "'How long does it take?' is the standard English question for time duration.",
@@ -7564,10 +7564,10 @@
         {
           "prompt": "Which room is specifically designed for sleeping and storing clothes?",
           "options": [
-            "The kitchen (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The hallway (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The garage (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The bedroom (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "The kitchen",
+            "The hallway",
+            "The garage",
+            "The bedroom"
           ],
           "answerIndex": 3,
           "explanation": "The bedroom is where people sleep and keep their wardrobe."
@@ -7575,10 +7575,10 @@
         {
           "prompt": "What piece of furniture is commonly placed in front of a sofa to hold drinks and magazines?",
           "options": [
-            "A refrigerator (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "A wardrobe (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "A bathtub (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "A coffee table (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "A refrigerator",
+            "A wardrobe",
+            "A bathtub",
+            "A coffee table"
           ],
           "answerIndex": 3,
           "explanation": "A coffee table is the low table placed in front of the living room sofa."
@@ -7590,10 +7590,10 @@
         {
           "prompt": "Choose the correct sentence describing furniture placement:",
           "options": [
-            "The sofa is inside the refrigerator. (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The bed is on top of the chimney. (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The wardrobe is under the carpet. (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The refrigerator is in the kitchen next to the stove. (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "The sofa is inside the refrigerator.",
+            "The bed is on top of the chimney.",
+            "The wardrobe is under the carpet.",
+            "The refrigerator is in the kitchen next to the stove."
           ],
           "answerIndex": 3,
           "explanation": "Logical kitchen appliance placement."
@@ -7601,10 +7601,10 @@
         {
           "prompt": "What is the British English word for 'apartment'?",
           "options": [
-            "Cabin (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "Tent (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "Castle (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "Flat (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "Cabin",
+            "Tent",
+            "Castle",
+            "Flat"
           ],
           "answerIndex": 3,
           "explanation": "'Flat' is the standard British English term for an apartment."
@@ -7616,10 +7616,10 @@
         {
           "prompt": "Match the rooms with their definitions: kitchen, bathroom, living room, balcony:",
           "options": [
-            "kitchen: sleeping | bathroom: cooking | living room: parking | balcony: bathing (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "All mean bedroom (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "All mean office (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "kitchen: cooking | bathroom: bathing/toilet | living room: relaxing/socializing | balcony: outdoor platform (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "kitchen: sleeping | bathroom: cooking | living room: parking | balcony: bathing",
+            "All mean bedroom",
+            "All mean office",
+            "kitchen: cooking | bathroom: bathing/toilet | living room: relaxing/socializing | balcony: outdoor platform"
           ],
           "answerIndex": 3,
           "explanation": "House rooms matching.",
@@ -7628,10 +7628,10 @@
         {
           "prompt": "Complete the sentence: 'We have a large wooden _______ in the dining room with six chairs.'",
           "options": [
-            "bed (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "refrigerator (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "table (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "shower (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "bed",
+            "refrigerator",
+            "table",
+            "shower"
           ],
           "answerIndex": 2,
           "explanation": "A dining table with six chairs.",
@@ -7640,10 +7640,10 @@
         {
           "prompt": "Why is using accurate prepositions of place ('in front of', 'next to', 'opposite') important when describing a home?",
           "options": [
-            "It makes sentences longer only (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "It gives the listener a clear, spatial mental map of the room's layout (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "It replaces adjectives (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "It is required by grammar police (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "It makes sentences longer only",
+            "It gives the listener a clear, spatial mental map of the room's layout",
+            "It replaces adjectives",
+            "It is required by grammar police"
           ],
           "answerIndex": 1,
           "explanation": "Prepositions construct spatial visualization and clarity in descriptions.",
@@ -7652,10 +7652,10 @@
         {
           "prompt": "Translate: 'The wardrobe is in the bedroom beside the window.'",
           "options": [
-            "The wardrobe is in the bedroom beside the window. (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The bed is in the living room. (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The sofa is behind the garage. (Identify and describe rooms of a house or flat and core furniture items in English living room)",
-            "The wardrobe is in the kitchen on the table. (Identify and describe rooms of a house or flat and core furniture items in English living room)"
+            "The wardrobe is in the bedroom beside the window.",
+            "The bed is in the living room.",
+            "The sofa is behind the garage.",
+            "The wardrobe is in the kitchen on the table."
           ],
           "answerIndex": 0,
           "explanation": "Accurate room and furniture placement translation.",
@@ -7699,10 +7699,10 @@
         {
           "prompt": "Which verb correctly collocates with 'the bed' when arranging sheets in the morning?",
           "options": [
-            "Make (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "Open (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "Do (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "Write (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "Make",
+            "Open",
+            "Do",
+            "Write"
           ],
           "answerIndex": 0,
           "explanation": "'Make the bed' is the correct fixed collocation in English."
@@ -7710,10 +7710,10 @@
         {
           "prompt": "What does the British English verb 'to hoover' mean?",
           "options": [
-            "To vacuum the carpets and floors (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "To cook breakfast (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "To wash windows (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "To paint walls (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "To vacuum the carpets and floors",
+            "To cook breakfast",
+            "To wash windows",
+            "To paint walls"
           ],
           "answerIndex": 0,
           "explanation": "'To hoover' is common British English for vacuuming."
@@ -7725,10 +7725,10 @@
         {
           "prompt": "Complete the sentence: 'After dinner, I always load the dishwasher and _______ the dishes.'",
           "options": [
-            "make (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "do (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "create (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "play (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "make",
+            "do",
+            "create",
+            "play"
           ],
           "answerIndex": 1,
           "explanation": "'Do the dishes' is the correct collocation."
@@ -7736,10 +7736,10 @@
         {
           "prompt": "Choose the correct sentence for household waste disposal:",
           "options": [
-            "Don't forget to eat the rubbish. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "Don't forget to sleep in the rubbish. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "Don't forget to take out the rubbish before going to bed. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "Don't forget to wash the rubbish. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "Don't forget to eat the rubbish.",
+            "Don't forget to sleep in the rubbish.",
+            "Don't forget to take out the rubbish before going to bed.",
+            "Don't forget to wash the rubbish."
           ],
           "answerIndex": 2,
           "explanation": "'Take out the rubbish/trash' is the natural phrase."
@@ -7751,10 +7751,10 @@
         {
           "prompt": "Match the chore collocations: do the dishes, make the bed, mop the floor, do the laundry:",
           "options": [
-            "All mean gardening (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "All mean cooking (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "do the dishes: wash plates | make the bed: arrange sheets | mop the floor: wash floor | do the laundry: wash clothes (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "do the dishes: sleep | make the bed: cook | mop the floor: drive | do the laundry: read (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "All mean gardening",
+            "All mean cooking",
+            "do the dishes: wash plates | make the bed: arrange sheets | mop the floor: wash floor | do the laundry: wash clothes",
+            "do the dishes: sleep | make the bed: cook | mop the floor: drive | do the laundry: read"
           ],
           "answerIndex": 2,
           "explanation": "Chore collocations matching.",
@@ -7763,10 +7763,10 @@
         {
           "prompt": "What is a 'cleaning rota' in a shared flat?",
           "options": [
-            "A brand of soap (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "A weekly schedule dividing cleaning tasks equally among flatmates (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "A fine for being late (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "A type of vacuum cleaner (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "A brand of soap",
+            "A weekly schedule dividing cleaning tasks equally among flatmates",
+            "A fine for being late",
+            "A type of vacuum cleaner"
           ],
           "answerIndex": 1,
           "explanation": "A cleaning rota is a chore schedule among housemates.",
@@ -7775,10 +7775,10 @@
         {
           "prompt": "Complete: 'Every Saturday, we _______ up the living room and vacuum the carpets.'",
           "options": [
-            "tidy (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "lose (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "burn (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "break (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "tidy",
+            "lose",
+            "burn",
+            "break"
           ],
           "answerIndex": 0,
           "explanation": "'Tidy up' means to put things in order.",
@@ -7787,10 +7787,10 @@
         {
           "prompt": "Which sentence is grammatically and idiomatically correct?",
           "options": [
-            "She is creating the laundry right now. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "She is making the laundry in the utility room right now. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "She is doing the bed right now. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)",
-            "She is doing the laundry in the utility room right now. (Describe daily household chores and habits in English using natural verb collocations doing the dishes)"
+            "She is creating the laundry right now.",
+            "She is making the laundry in the utility room right now.",
+            "She is doing the bed right now.",
+            "She is doing the laundry in the utility room right now."
           ],
           "answerIndex": 3,
           "explanation": "'Doing the laundry' is the correct idiom.",
@@ -7834,10 +7834,10 @@
         {
           "prompt": "What is the correct Present Continuous form of the verb 'to mop' for the subject 'he'?",
           "options": [
-            "He is moping (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "He mopping (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "He is mopping (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "He does mopping (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "He is moping",
+            "He mopping",
+            "He is mopping",
+            "He does mopping"
           ],
           "answerIndex": 2,
           "explanation": "CVC verb mop doubles the 'p': He is mopping."
@@ -7845,10 +7845,10 @@
         {
           "prompt": "When is the Present Continuous tense primarily used?",
           "options": [
-            "For events that happened 100 years ago (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "For permanent scientific facts exclusively (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "For commands (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "For actions happening right now at the moment of speaking or temporary ongoing situations (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "For events that happened 100 years ago",
+            "For permanent scientific facts exclusively",
+            "For commands",
+            "For actions happening right now at the moment of speaking or temporary ongoing situations"
           ],
           "answerIndex": 3,
           "explanation": "Present Continuous describes actions in progress now or temporary situations."
@@ -7860,10 +7860,10 @@
         {
           "prompt": "Choose the grammatically correct sentence:",
           "options": [
-            "We are cleaning the whole flat today because guests are coming tonight. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "We cleaning the flat today. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "We does cleaning the flat today. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "We is clean the flat today. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "We are cleaning the whole flat today because guests are coming tonight.",
+            "We cleaning the flat today.",
+            "We does cleaning the flat today.",
+            "We is clean the flat today."
           ],
           "answerIndex": 0,
           "explanation": "We are cleaning + guests are coming."
@@ -7871,10 +7871,10 @@
         {
           "prompt": "What happens to the silent 'e' in 'make' when adding '-ing'?",
           "options": [
-            "The 'e' is dropped: make -> making (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "The 'e' stays: makeing (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "An extra 'e' is added: makeeing (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "No change (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "The 'e' is dropped: make -> making",
+            "The 'e' stays: makeing",
+            "An extra 'e' is added: makeeing",
+            "No change"
           ],
           "answerIndex": 0,
           "explanation": "Silent 'e' is dropped before -ing: making."
@@ -7886,10 +7886,10 @@
         {
           "prompt": "Match the subjects with their Present Continuous verbs: I, She, They, You:",
           "options": [
-            "All take 'is' (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "I: am vacuuming | She: is cooking | They: are painting | You: are relaxing (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "All take 'am' (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "I: is vacuuming | She: are cooking | They: am painting | You: is relaxing (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "All take 'is'",
+            "I: am vacuuming | She: is cooking | They: are painting | You: are relaxing",
+            "All take 'am'",
+            "I: is vacuuming | She: are cooking | They: am painting | You: is relaxing"
           ],
           "answerIndex": 1,
           "explanation": "Subject-verb agreement in present continuous.",
@@ -7898,10 +7898,10 @@
         {
           "prompt": "Complete the dialogue: 'What are you doing?' — 'I _______ (bake) some bread in the oven.'",
           "options": [
-            "am baking (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "baking (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "is baking (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "are bake (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "am baking",
+            "baking",
+            "is baking",
+            "are bake"
           ],
           "answerIndex": 0,
           "explanation": "I am baking.",
@@ -7910,10 +7910,10 @@
         {
           "prompt": "Why is saying 'I cleaning the floor' grammatically incorrect?",
           "options": [
-            "Because floor is plural (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "Because 'I' cannot clean (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "Because cleaning is not a word (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "Because the auxiliary verb 'am' (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "Because floor is plural",
+            "Because 'I' cannot clean",
+            "Because cleaning is not a word",
+            "Because the auxiliary verb 'am'"
           ],
           "answerIndex": 3,
           "explanation": "Present continuous strictly requires the auxiliary verb 'be' (am/is/are).",
@@ -7922,10 +7922,10 @@
         {
           "prompt": "Translate: 'Look! It is raining outside and the wind is blowing through the garden.'",
           "options": [
-            "Look! It rains outside yesterday. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "Look! It will rain last week. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "Look! It is raining outside and the wind is blowing through the garden. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)",
-            "Look! It rained tomorrow. (Form and use the Present Continuous Tense be  verbing to describe actions happening right now)"
+            "Look! It rains outside yesterday.",
+            "Look! It will rain last week.",
+            "Look! It is raining outside and the wind is blowing through the garden.",
+            "Look! It rained tomorrow."
           ],
           "answerIndex": 2,
           "explanation": "It is raining + the wind is blowing.",
@@ -7969,10 +7969,10 @@
         {
           "prompt": "Which sentence correctly contrasts a regular routine with an action happening right now?",
           "options": [
-            "I drink tea right now, but usually I am drinking coffee. (Contrast the Present Simple routines)",
-            "I usually drink tea in the morning, but right now I am drinking coffee. (Contrast the Present Simple routines)",
-            "I drinking tea always. (Contrast the Present Simple routines)",
-            "I am usually drinking tea, but right now I drink coffee. (Contrast the Present Simple routines)"
+            "I drink tea right now, but usually I am drinking coffee.",
+            "I usually drink tea in the morning, but right now I am drinking coffee.",
+            "I drinking tea always.",
+            "I am usually drinking tea, but right now I drink coffee."
           ],
           "answerIndex": 1,
           "explanation": "Usually + Present Simple (drink); Right now + Present Continuous (am drinking)."
@@ -7980,10 +7980,10 @@
         {
           "prompt": "Why is the sentence 'I am knowing where you live' incorrect in standard English?",
           "options": [
-            "Because 'know' is a stative verb expressing a mental state and is not used in the continuous -ing form (Contrast the Present Simple routines)",
-            "Because 'I' cannot know things (Contrast the Present Simple routines)",
-            "Because it is missing an adjective (Contrast the Present Simple routines)",
-            "Because 'live' is wrong (Contrast the Present Simple routines)"
+            "Because 'know' is a stative verb expressing a mental state and is not used in the continuous -ing form",
+            "Because 'I' cannot know things",
+            "Because it is missing an adjective",
+            "Because 'live' is wrong"
           ],
           "answerIndex": 0,
           "explanation": "Stative verbs (know, want, like, believe) are used in the Present Simple: 'I know'."
@@ -7995,10 +7995,10 @@
         {
           "prompt": "Complete: 'Listen! Somebody _______ (knock) on the front door.'",
           "options": [
-            "is knocking (Contrast the Present Simple routines)",
-            "will knock tomorrow (Contrast the Present Simple routines)",
-            "knocks (Contrast the Present Simple routines)",
-            "knocked yesterday (Contrast the Present Simple routines)"
+            "is knocking",
+            "will knock tomorrow",
+            "knocks",
+            "knocked yesterday"
           ],
           "answerIndex": 0,
           "explanation": "'Listen!' signals an action happening at the current moment: is knocking."
@@ -8006,10 +8006,10 @@
         {
           "prompt": "Which of the following verbs is a stative verb that stays in the Present Simple?",
           "options": [
-            "Belong (Contrast the Present Simple routines)",
-            "Wash (Contrast the Present Simple routines)",
-            "Run (Contrast the Present Simple routines)",
-            "Clean (Contrast the Present Simple routines)"
+            "Belong",
+            "Wash",
+            "Run",
+            "Clean"
           ],
           "answerIndex": 0,
           "explanation": "'Belong' expresses possession and is stative."
@@ -8021,10 +8021,10 @@
         {
           "prompt": "Match the time expressions to the correct tense: 'every Sunday', 'at the moment', 'rarely', 'this week':",
           "options": [
-            "every Sunday: Present Simple | at the moment: Present Continuous | rarely: Present Simple | this week: Present Continuous (Contrast the Present Simple routines)",
-            "All take Present Continuous (Contrast the Present Simple routines)",
-            "All take Future Tense (Contrast the Present Simple routines)",
-            "All take Past Tense (Contrast the Present Simple routines)"
+            "every Sunday: Present Simple | at the moment: Present Continuous | rarely: Present Simple | this week: Present Continuous",
+            "All take Present Continuous",
+            "All take Future Tense",
+            "All take Past Tense"
           ],
           "answerIndex": 0,
           "explanation": "Time marker categorization matching.",
@@ -8033,10 +8033,10 @@
         {
           "prompt": "Choose the correct sentence pair:",
           "options": [
-            "She live in Manchester now. (Contrast the Present Simple routines)",
-            "She is living in Manchester every day, but she stays in London now. (Contrast the Present Simple routines)",
-            "She staying in Manchester always. (Contrast the Present Simple routines)",
-            "She lives in Manchester, but she is staying in London this month. (Contrast the Present Simple routines)"
+            "She live in Manchester now.",
+            "She is living in Manchester every day, but she stays in London now.",
+            "She staying in Manchester always.",
+            "She lives in Manchester, but she is staying in London this month."
           ],
           "answerIndex": 3,
           "explanation": "Permanent residence (lives) vs. temporary stay (is staying).",
@@ -8045,10 +8045,10 @@
         {
           "prompt": "Why is mastering the stative vs. dynamic verb distinction essential for English fluency?",
           "options": [
-            "It has no real impact (Contrast the Present Simple routines)",
-            "It makes sentences shorter (Contrast the Present Simple routines)",
-            "It prevents unnatural errors like 'I am loving this' or 'I am having a car' and produces native-sounding precision (Contrast the Present Simple routines)",
-            "It eliminates spelling rules (Contrast the Present Simple routines)"
+            "It has no real impact",
+            "It makes sentences shorter",
+            "It prevents unnatural errors like 'I am loving this' or 'I am having a car' and produces native-sounding precision",
+            "It eliminates spelling rules"
           ],
           "answerIndex": 2,
           "explanation": "Stative verb mastery avoids common non-native continuous errors.",
@@ -8057,10 +8057,10 @@
         {
           "prompt": "Complete: 'My brother _______ (prefer) quiet rural houses to busy city apartments.'",
           "options": [
-            "is preferring (Contrast the Present Simple routines)",
-            "prefers (Contrast the Present Simple routines)",
-            "are prefer (Contrast the Present Simple routines)",
-            "preferring (Contrast the Present Simple routines)"
+            "is preferring",
+            "prefers",
+            "are prefer",
+            "preferring"
           ],
           "answerIndex": 1,
           "explanation": "'Prefer' is stative: My brother prefers.",
@@ -8104,10 +8104,10 @@
         {
           "prompt": "In the synthesis text, what is happening in the kitchen right now at the moment of speaking?",
           "options": [
-            "The flatmate is baking fresh cookies in the oven (Synthesize home and furniture vocabulary)",
-            "Someone is sleeping on the floor (Synthesize home and furniture vocabulary)",
-            "The kitchen is on fire (Synthesize home and furniture vocabulary)",
-            "Nobody is in the kitchen (Synthesize home and furniture vocabulary)"
+            "The flatmate is baking fresh cookies in the oven",
+            "Someone is sleeping on the floor",
+            "The kitchen is on fire",
+            "Nobody is in the kitchen"
           ],
           "answerIndex": 0,
           "explanation": "Text states: 'Right now, she is baking fresh cookies in the oven'."
@@ -8115,10 +8115,10 @@
         {
           "prompt": "What welcoming phrase is used in English to make guests feel comfortable upon entering a home?",
           "options": [
-            "'Make yourself at home!' (Synthesize home and furniture vocabulary)",
-            "'Please pay immediately' (Synthesize home and furniture vocabulary)",
-            "'Don't touch anything' (Synthesize home and furniture vocabulary)",
-            "'Leave quickly' (Synthesize home and furniture vocabulary)"
+            "'Make yourself at home!'",
+            "'Please pay immediately'",
+            "'Don't touch anything'",
+            "'Leave quickly'"
           ],
           "answerIndex": 0,
           "explanation": "'Make yourself at home' is the universal hospitable welcome."
@@ -8130,10 +8130,10 @@
         {
           "prompt": "Translate: 'I usually clean on Saturdays, but today I am relaxing in the garden.'",
           "options": [
-            "I cleaned tomorrow and I will relax yesterday. (Synthesize home and furniture vocabulary)",
-            "I usually clean on Saturdays, but today I am relaxing in the garden. (Synthesize home and furniture vocabulary)",
-            "I clean never and I relaxing. (Synthesize home and furniture vocabulary)",
-            "I am cleaning always, but today I relax. (Synthesize home and furniture vocabulary)"
+            "I cleaned tomorrow and I will relax yesterday.",
+            "I usually clean on Saturdays, but today I am relaxing in the garden.",
+            "I clean never and I relaxing.",
+            "I am cleaning always, but today I relax."
           ],
           "answerIndex": 1,
           "explanation": "Accurate contrast between habitual Present Simple and temporary Present Continuous."
@@ -8141,10 +8141,10 @@
         {
           "prompt": "What does a 'two-bedroom flat' mean?",
           "options": [
-            "A house with two floors (Synthesize home and furniture vocabulary)",
-            "An apartment that contains two separate bedrooms (Synthesize home and furniture vocabulary)",
-            "A hotel room with two pillows (Synthesize home and furniture vocabulary)",
-            "An apartment with only two beds and no rooms (Synthesize home and furniture vocabulary)"
+            "A house with two floors",
+            "An apartment that contains two separate bedrooms",
+            "A hotel room with two pillows",
+            "An apartment with only two beds and no rooms"
           ],
           "answerIndex": 1,
           "explanation": "A two-bedroom flat has two distinct sleeping rooms."
@@ -8156,9 +8156,9 @@
         {
           "prompt": "What core competencies were mastered across English Unit 10?",
           "options": [
-            "Past Perfect Continuous only (Synthesize home and furniture vocabulary)",
-            "Only names of wild animals (Synthesize home and furniture vocabulary)",
-            "Airport boarding passes only (Synthesize home and furniture vocabulary)",
+            "Past Perfect Continuous only",
+            "Only names of wild animals",
+            "Airport boarding passes only",
             "Rooms of the house and furniture vocabulary, chore collocations (do the dishes, make the bed, mop the floor, do the laundry)"
           ],
           "answerIndex": 3,
@@ -8168,10 +8168,10 @@
         {
           "prompt": "Complete the classic English proverb: 'There is no place like _______.'",
           "options": [
-            "the shop (Synthesize home and furniture vocabulary)",
-            "the office (Synthesize home and furniture vocabulary)",
-            "home (Synthesize home and furniture vocabulary)",
-            "the train (Synthesize home and furniture vocabulary)"
+            "the shop",
+            "the office",
+            "home",
+            "the train"
           ],
           "answerIndex": 2,
           "explanation": "'There is no place like home' celebrates the comfort of one's own dwelling.",
@@ -8180,10 +8180,10 @@
         {
           "prompt": "Why is the ability to contrast Present Simple with Present Continuous crucial for reaching A2/B1 proficiency in English?",
           "options": [
-            "It removes the need for adjectives (Synthesize home and furniture vocabulary)",
-            "It allows the speaker to differentiate between permanent truths/routines and temporary current actions with native-level grammatical nuance (Synthesize home and furniture vocabulary)",
-            "It is only used in poetry (Synthesize home and furniture vocabulary)",
-            "It has no communicative value (Synthesize home and furniture vocabulary)"
+            "It removes the need for adjectives",
+            "It allows the speaker to differentiate between permanent truths/routines and temporary current actions with native-level grammatical nuance",
+            "It is only used in poetry",
+            "It has no communicative value"
           ],
           "answerIndex": 1,
           "explanation": "Contrasting routines vs. temporary states is foundational for nuanced conversational storytelling.",
@@ -8192,10 +8192,10 @@
         {
           "prompt": "Complete: 'My parents _______ (own) a charming cottage in the countryside where we spend our summer holidays.'",
           "options": [
-            "own (Synthesize home and furniture vocabulary)",
-            "owning (Synthesize home and furniture vocabulary)",
-            "are owning (Synthesize home and furniture vocabulary)",
-            "is own (Synthesize home and furniture vocabulary)"
+            "own",
+            "owning",
+            "are owning",
+            "is own"
           ],
           "answerIndex": 0,
           "explanation": "'Own' is stative: My parents own.",
@@ -8237,10 +8237,10 @@
         {
           "prompt": "Which anatomical joint connects the upper leg (thigh) to the lower leg (shin)?",
           "options": [
-            "The Wrist (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "The Elbow (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "The Shoulder (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "The Knee (Master advanced anatomical vocabulary and phrases for human body parts in English)"
+            "The Wrist",
+            "The Elbow",
+            "The Shoulder",
+            "The Knee"
           ],
           "answerIndex": 3,
           "explanation": "The knee joint connects thigh and shin."
@@ -8252,10 +8252,10 @@
         {
           "prompt": "Identify the plural of \"foot\" in English:",
           "options": [
-            "Foots (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "Feets (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "Footes (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "Feet (Master advanced anatomical vocabulary and phrases for human body parts in English)"
+            "Foots",
+            "Feets",
+            "Footes",
+            "Feet"
           ],
           "answerIndex": 3,
           "explanation": "Foot has the irregular plural feet."
@@ -8267,10 +8267,10 @@
         {
           "prompt": "Which part of the body contains the vocal cords and enables swallowing?",
           "options": [
-            "The Ankle (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "The Elbow (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "The Throat / Larynx (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "The Ribcage (Master advanced anatomical vocabulary and phrases for human body parts in English)"
+            "The Ankle",
+            "The Elbow",
+            "The Throat / Larynx",
+            "The Ribcage"
           ],
           "answerIndex": 2,
           "explanation": "The throat houses the larynx and esophagus.",
@@ -8279,10 +8279,10 @@
         {
           "prompt": "Complete: \"To relieve tension in your neck, gently roll your ______ backward and downward.\"",
           "options": [
-            "toes (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "shoulders (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "teeth (Master advanced anatomical vocabulary and phrases for human body parts in English)",
-            "fingers (Master advanced anatomical vocabulary and phrases for human body parts in English)"
+            "toes",
+            "shoulders",
+            "teeth",
+            "fingers"
           ],
           "answerIndex": 1,
           "explanation": "Rolling shoulders relieves neck tension.",
@@ -8319,10 +8319,10 @@
         {
           "prompt": "What does the common idiom \"to feel under the weather\" mean?",
           "options": [
-            "To feel slightly unwell or sick (Express physical aches)",
-            "To be very wealthy (Express physical aches)",
-            "To stand in the rain (Express physical aches)",
-            "To look at a weather forecast (Express physical aches)"
+            "To feel slightly unwell or sick",
+            "To be very wealthy",
+            "To stand in the rain",
+            "To look at a weather forecast"
           ],
           "answerIndex": 0,
           "explanation": "Under the weather means feeling sick."
@@ -8334,10 +8334,10 @@
         {
           "prompt": "What is the appropriate phrase to write to a sick colleague?",
           "options": [
-            "Wishing you a speedy recovery! / Get well soon! (Express physical aches)",
-            "Happy New Year! (Express physical aches)",
-            "Bon appétit! (Express physical aches)",
-            "Congratulations on your promotion! (Express physical aches)"
+            "Wishing you a speedy recovery! / Get well soon!",
+            "Happy New Year!",
+            "Bon appétit!",
+            "Congratulations on your promotion!"
           ],
           "answerIndex": 0,
           "explanation": "Wishing you a speedy recovery expresses empathy for illness."
@@ -8349,10 +8349,10 @@
         {
           "prompt": "Which sentence correctly describes a medical symptom?",
           "options": [
-            "I have a fever in my shoes. (Express physical aches)",
-            "I have a sore throat and a mild fever. (Express physical aches)",
-            "My throat is eating medicine. (Express physical aches)",
-            "I am a sore throat. (Express physical aches)"
+            "I have a fever in my shoes.",
+            "I have a sore throat and a mild fever.",
+            "My throat is eating medicine.",
+            "I am a sore throat."
           ],
           "answerIndex": 1,
           "explanation": "I have a sore throat and a mild fever is natural English.",
@@ -8361,10 +8361,10 @@
         {
           "prompt": "What is the medical term for feeling like the room is spinning around you?",
           "options": [
-            "Dizziness / Vertigo (Express physical aches)",
-            "Dehydration (Express physical aches)",
-            "Hypertension (Express physical aches)",
-            "Insomnia (Express physical aches)"
+            "Dizziness / Vertigo",
+            "Dehydration",
+            "Hypertension",
+            "Insomnia"
           ],
           "answerIndex": 0,
           "explanation": "Dizziness or vertigo describes spinning sensations.",
@@ -8401,10 +8401,10 @@
         {
           "prompt": "What does \"do not exceed the stated dose\" mean on a medicine bottle?",
           "options": [
-            "Take as many pills as you want (Navigate community pharmacies)",
-            "Throw the medicine away immediately (Navigate community pharmacies)",
-            "Never take more pills than the instructions specify (Navigate community pharmacies)",
-            "Drink it all at once (Navigate community pharmacies)"
+            "Take as many pills as you want",
+            "Throw the medicine away immediately",
+            "Never take more pills than the instructions specify",
+            "Drink it all at once"
           ],
           "answerIndex": 2,
           "explanation": "Exceeding the stated dose can lead to dangerous toxicity."
@@ -8416,10 +8416,10 @@
         {
           "prompt": "What is a \"lozenge\"?",
           "options": [
-            "A medicated tablet designed to dissolve slowly in the mouth to soothe a sore throat (Navigate community pharmacies)",
-            "A type of bandage (Navigate community pharmacies)",
-            "A wheelchair (Navigate community pharmacies)",
-            "A surgical tool (Navigate community pharmacies)"
+            "A medicated tablet designed to dissolve slowly in the mouth to soothe a sore throat",
+            "A type of bandage",
+            "A wheelchair",
+            "A surgical tool"
           ],
           "answerIndex": 0,
           "explanation": "A lozenge is a throat drop that dissolves slowly."
@@ -8431,10 +8431,10 @@
         {
           "prompt": "What is the primary difference between OTC and prescription medicines?",
           "options": [
-            "OTC medicines can be purchased directly; prescription medicines require a licensed doctor's authorization (Navigate community pharmacies)",
-            "Prescription medicines are only for children (Navigate community pharmacies)",
-            "There is no difference (Navigate community pharmacies)",
-            "OTC medicines are free (Navigate community pharmacies)"
+            "OTC medicines can be purchased directly; prescription medicines require a licensed doctor's authorization",
+            "Prescription medicines are only for children",
+            "There is no difference",
+            "OTC medicines are free"
           ],
           "answerIndex": 0,
           "explanation": "Prescriptions require doctor authorization.",
@@ -8443,10 +8443,10 @@
         {
           "prompt": "Translate to standard English: \"Please take one capsule every eight hours after meals.\"",
           "options": [
-            "Take eight capsules in one hour before lunch. (Navigate community pharmacies)",
-            "Do not take any capsules for eight days. (Navigate community pharmacies)",
-            "Drink water eight times. (Navigate community pharmacies)",
-            "Please take one capsule every eight hours after meals. (Navigate community pharmacies)"
+            "Take eight capsules in one hour before lunch.",
+            "Do not take any capsules for eight days.",
+            "Drink water eight times.",
+            "Please take one capsule every eight hours after meals."
           ],
           "answerIndex": 3,
           "explanation": "Accurate dosage translation.",
@@ -8483,10 +8483,10 @@
         {
           "prompt": "Complete the famous English health proverb: \"An apple a day keeps the ______ away.\"",
           "options": [
-            "mechanic (Discuss preventative health)",
-            "doctor (Discuss preventative health)",
-            "pilot (Discuss preventative health)",
-            "teacher (Discuss preventative health)"
+            "mechanic",
+            "doctor",
+            "pilot",
+            "teacher"
           ],
           "answerIndex": 1,
           "explanation": "An apple a day keeps the doctor away."
@@ -8498,10 +8498,10 @@
         {
           "prompt": "What is \"sleep hygiene\"?",
           "options": [
-            "A set of behavioral habits and environmental factors that promote consistent, uninterrupted sleep (Discuss preventative health)",
-            "Waking up every hour (Discuss preventative health)",
-            "Washing your bedsheets with bleach (Discuss preventative health)",
-            "Sleeping in a swimming pool (Discuss preventative health)"
+            "A set of behavioral habits and environmental factors that promote consistent, uninterrupted sleep",
+            "Waking up every hour",
+            "Washing your bedsheets with bleach",
+            "Sleeping in a swimming pool"
           ],
           "answerIndex": 0,
           "explanation": "Sleep hygiene optimizes sleep quality and duration."
@@ -8513,10 +8513,10 @@
         {
           "prompt": "Which combination represents evidence-based healthy lifestyle practices?",
           "options": [
-            "Sitting motionless for 14 hours daily and skipping meals (Discuss preventative health)",
-            "Smoking, drinking soda instead of water, and chronic sleep deprivation (Discuss preventative health)",
-            "Eating only deep-fried fast food (Discuss preventative health)",
-            "Regular resistance exercise, balanced whole foods, 8 hours of sleep, and adequate hydration (Discuss preventative health)"
+            "Sitting motionless for 14 hours daily and skipping meals",
+            "Smoking, drinking soda instead of water, and chronic sleep deprivation",
+            "Eating only deep-fried fast food",
+            "Regular resistance exercise, balanced whole foods, 8 hours of sleep, and adequate hydration"
           ],
           "answerIndex": 3,
           "explanation": "Exercise, whole foods, sleep, and hydration form the foundation of wellness.",
@@ -8525,10 +8525,10 @@
         {
           "prompt": "What does \"cardiovascular endurance\" refer to?",
           "options": [
-            "The volume of your voice (Discuss preventative health)",
-            "The strength of your teeth (Discuss preventative health)",
-            "The efficiency with which your heart and lungs deliver oxygen during sustained physical activity (Discuss preventative health)",
-            "How fast you can write (Discuss preventative health)"
+            "The volume of your voice",
+            "The strength of your teeth",
+            "The efficiency with which your heart and lungs deliver oxygen during sustained physical activity",
+            "How fast you can write"
           ],
           "answerIndex": 2,
           "explanation": "Cardiovascular endurance measures aerobic efficiency.",
@@ -8565,10 +8565,10 @@
         {
           "prompt": "What is a \"General Practitioner\" (GP)?",
           "options": [
-            "A primary care doctor who provides comprehensive medical care for common illnesses (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "A surgeon who only operates on brains (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "A hospital pharmacist (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "A paramedic driver (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)"
+            "A primary care doctor who provides comprehensive medical care for common illnesses",
+            "A surgeon who only operates on brains",
+            "A hospital pharmacist",
+            "A paramedic driver"
           ],
           "answerIndex": 0,
           "explanation": "A GP is a primary care physician."
@@ -8580,10 +8580,10 @@
         {
           "prompt": "What does the doctor mean when instructing: \"Inhale deeply through your mouth and exhale slowly\"?",
           "options": [
-            "Close your eyes and stand on one leg (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "Breathe in deeply and breathe out slowly for stethoscope chest auscultation (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "Run in circles (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "Drink a glass of water (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)"
+            "Close your eyes and stand on one leg",
+            "Breathe in deeply and breathe out slowly for stethoscope chest auscultation",
+            "Run in circles",
+            "Drink a glass of water"
           ],
           "answerIndex": 1,
           "explanation": "Standard clinical breathing instruction for stethoscope lung exam."
@@ -8595,10 +8595,10 @@
         {
           "prompt": "Arrange the typical stages of a primary care clinical visit in chronological order:",
           "options": [
-            "1. Discharge -> 2. Registration -> 3. Surgery (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "1. Taking antibiotics -> 2. Going to clinic -> 3. Getting sick (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "1. Reception check-in -> 2. Describing history of symptoms -> 3. Physical examination -> 4. Diagnosis, prescription & sick leave note (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "1. Sleeping -> 2. Recovery -> 3. Sickness (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)"
+            "1. Discharge -> 2. Registration -> 3. Surgery",
+            "1. Taking antibiotics -> 2. Going to clinic -> 3. Getting sick",
+            "1. Reception check-in -> 2. Describing history of symptoms -> 3. Physical examination -> 4. Diagnosis, prescription & sick leave note",
+            "1. Sleeping -> 2. Recovery -> 3. Sickness"
           ],
           "answerIndex": 2,
           "explanation": "Standard outpatient consultation sequence.",
@@ -8607,10 +8607,10 @@
         {
           "prompt": "What is a \"Fit Note\" in the UK healthcare system?",
           "options": [
-            "A gym membership card (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "An official medical statement issued by a doctor certifying an employee's fitness or incapacity for work (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "A discount voucher for sporting goods (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)",
-            "A driver's license (Simulate a comprehensive medical consultation with a primary care physician GP  Family Doctor)"
+            "A gym membership card",
+            "An official medical statement issued by a doctor certifying an employee's fitness or incapacity for work",
+            "A discount voucher for sporting goods",
+            "A driver's license"
           ],
           "answerIndex": 1,
           "explanation": "A fit note certifies sick leave from work.",
@@ -8647,10 +8647,10 @@
         {
           "prompt": "Which phrase correctly states your profession in English?",
           "options": [
-            "I work software engineer (Master professional workplace vocabulary)",
-            "I am software engineer job (Master professional workplace vocabulary)",
-            "I have engineer (Master professional workplace vocabulary)",
-            "I work as a software engineer (Master professional workplace vocabulary)"
+            "I work software engineer",
+            "I am software engineer job",
+            "I have engineer",
+            "I work as a software engineer"
           ],
           "answerIndex": 3,
           "explanation": "I work as a software engineer is grammatically accurate."
@@ -8662,10 +8662,10 @@
         {
           "prompt": "What is the role of a \"Product Manager\"?",
           "options": [
-            "To repair office printers only (Master professional workplace vocabulary)",
-            "To sweep the floor (Master professional workplace vocabulary)",
-            "To drive the company bus (Master professional workplace vocabulary)",
-            "To define the product vision, roadmap, and collaborate with engineering and design (Master professional workplace vocabulary)"
+            "To repair office printers only",
+            "To sweep the floor",
+            "To drive the company bus",
+            "To define the product vision, roadmap, and collaborate with engineering and design"
           ],
           "answerIndex": 3,
           "explanation": "Product Manager role."
@@ -8677,10 +8677,10 @@
         {
           "prompt": "What does \"HR\" stand for in an organization?",
           "options": [
-            "Heavy Rail (Master professional workplace vocabulary)",
-            "Human Resources (Master professional workplace vocabulary)",
-            "Hotline Radio (Master professional workplace vocabulary)",
-            "High Rank (Master professional workplace vocabulary)"
+            "Heavy Rail",
+            "Human Resources",
+            "Hotline Radio",
+            "High Rank"
           ],
           "answerIndex": 1,
           "explanation": "Human Resources manages hiring and talent.",
@@ -8689,10 +8689,10 @@
         {
           "prompt": "Translate: \"He is responsible for managing financial models and budget forecasting.\"",
           "options": [
-            "He is responsible for managing financial models and budget forecasting. (Master professional workplace vocabulary)",
-            "The office is closed on Sundays. (Master professional workplace vocabulary)",
-            "He works at a restaurant. (Master professional workplace vocabulary)",
-            "He buys computers for the school. (Master professional workplace vocabulary)"
+            "He is responsible for managing financial models and budget forecasting.",
+            "The office is closed on Sundays.",
+            "He works at a restaurant.",
+            "He buys computers for the school."
           ],
           "answerIndex": 0,
           "explanation": "Accurate business translation.",
@@ -8729,10 +8729,10 @@
         {
           "prompt": "What is a \"daily stand-up\" meeting in agile workflow?",
           "options": [
-            "A brief daily meeting where team members share updates, plans, and blockers (Describe daily office routines)",
-            "A long 3-hour lecture (Describe daily office routines)",
-            "A comedy performance (Describe daily office routines)",
-            "Standing on a chair for an hour (Describe daily office routines)"
+            "A brief daily meeting where team members share updates, plans, and blockers",
+            "A long 3-hour lecture",
+            "A comedy performance",
+            "Standing on a chair for an hour"
           ],
           "answerIndex": 0,
           "explanation": "Daily standup meeting."
@@ -8744,10 +8744,10 @@
         {
           "prompt": "What does \"WFH\" mean?",
           "options": [
-            "Work From Home (Describe daily office routines)",
-            "Wait For Hours (Describe daily office routines)",
-            "Walk Fast Home (Describe daily office routines)",
-            "Write Final Homework (Describe daily office routines)"
+            "Work From Home",
+            "Wait For Hours",
+            "Walk Fast Home",
+            "Write Final Homework"
           ],
           "answerIndex": 0,
           "explanation": "Work From Home."
@@ -8759,10 +8759,10 @@
         {
           "prompt": "What does \"meeting a deadline\" mean?",
           "options": [
-            "Completing and submitting a project on or before the agreed target date (Describe daily office routines)",
-            "Postponing work indefinitely (Describe daily office routines)",
-            "Quitting a job (Describe daily office routines)",
-            "Canceling a meeting (Describe daily office routines)"
+            "Completing and submitting a project on or before the agreed target date",
+            "Postponing work indefinitely",
+            "Quitting a job",
+            "Canceling a meeting"
           ],
           "answerIndex": 0,
           "explanation": "Meeting a deadline on time.",
@@ -8771,10 +8771,10 @@
         {
           "prompt": "Translate: \"We scheduled a videoconference with our international clients for 3 PM.\"",
           "options": [
-            "I lost my laptop. (Describe daily office routines)",
-            "The client lives in the countryside. (Describe daily office routines)",
-            "We had lunch yesterday. (Describe daily office routines)",
-            "We scheduled a videoconference with our international clients for 3 PM. (Describe daily office routines)"
+            "I lost my laptop.",
+            "The client lives in the countryside.",
+            "We had lunch yesterday.",
+            "We scheduled a videoconference with our international clients for 3 PM."
           ],
           "answerIndex": 3,
           "explanation": "Accurate business translation.",
@@ -8811,10 +8811,10 @@
         {
           "prompt": "What should you say to a colleague whose microphone is turned off on Zoom?",
           "options": [
-            "You don't have a mouth. (Digital office terminology)",
-            "Turn off your computer. (Digital office terminology)",
-            "You're on mute! Please unmute yourself. (Digital office terminology)",
-            "Close the door. (Digital office terminology)"
+            "You don't have a mouth.",
+            "Turn off your computer.",
+            "You're on mute! Please unmute yourself.",
+            "Close the door."
           ],
           "answerIndex": 2,
           "explanation": "You're on mute is standard."
@@ -8826,10 +8826,10 @@
         {
           "prompt": "What is \"two-factor authentication\" (2FA)?",
           "options": [
-            "A security process where a user provides two different authentication factors to verify identity (Digital office terminology)",
-            "Typing two words at once (Digital office terminology)",
-            "Having two laptops (Digital office terminology)",
-            "Using two mice simultaneously (Digital office terminology)"
+            "A security process where a user provides two different authentication factors to verify identity",
+            "Typing two words at once",
+            "Having two laptops",
+            "Using two mice simultaneously"
           ],
           "answerIndex": 0,
           "explanation": "2FA security verification."
@@ -8841,10 +8841,10 @@
         {
           "prompt": "What does \"screen sharing\" allow you to do during a video conference?",
           "options": [
-            "Break your computer screen (Digital office terminology)",
-            "Turn off the internet (Digital office terminology)",
-            "Delete all open tabs (Digital office terminology)",
-            "Broadcast your computer monitor view to other meeting participants in real time (Digital office terminology)"
+            "Break your computer screen",
+            "Turn off the internet",
+            "Delete all open tabs",
+            "Broadcast your computer monitor view to other meeting participants in real time"
           ],
           "answerIndex": 3,
           "explanation": "Screen sharing broadcasts display.",
@@ -8853,10 +8853,10 @@
         {
           "prompt": "Translate: \"Please enter your enterprise credentials to connect to the secure VPN.\"",
           "options": [
-            "The screen is dirty. (Digital office terminology)",
-            "The mouse is broken. (Digital office terminology)",
-            "Please enter your enterprise credentials to connect to the secure VPN. (Digital office terminology)",
-            "Buy a new laptop tomorrow. (Digital office terminology)"
+            "The screen is dirty.",
+            "The mouse is broken.",
+            "Please enter your enterprise credentials to connect to the secure VPN.",
+            "Buy a new laptop tomorrow."
           ],
           "answerIndex": 2,
           "explanation": "Accurate security prompt.",
@@ -8893,10 +8893,10 @@
         {
           "prompt": "What does \"EOD\" stand for in business emails?",
           "options": [
-            "Early On Departure (Write structured)",
-            "End Of Day (Write structured)",
-            "End Of December (Write structured)",
-            "Every Other Day (Write structured)"
+            "Early On Departure",
+            "End Of Day",
+            "End Of December",
+            "Every Other Day"
           ],
           "answerIndex": 1,
           "explanation": "End Of Day deadline."
@@ -8908,10 +8908,10 @@
         {
           "prompt": "What is a universally recognized professional closing for business emails?",
           "options": [
-            "Best regards, / Kind regards, (Write structured)",
-            "Whatever bye (Write structured)",
-            "See ya later buddy (Write structured)",
-            "Peace out (Write structured)"
+            "Best regards, / Kind regards,",
+            "Whatever bye",
+            "See ya later buddy",
+            "Peace out"
           ],
           "answerIndex": 0,
           "explanation": "Best regards / Kind regards."
@@ -8923,10 +8923,10 @@
         {
           "prompt": "What does \"Please find attached the requested document\" indicate?",
           "options": [
-            "The document has been lost (Write structured)",
-            "The document is printed in the post (Write structured)",
-            "The referenced document is included as an attachment in the email (Write structured)",
-            "There are no files sent (Write structured)"
+            "The document has been lost",
+            "The document is printed in the post",
+            "The referenced document is included as an attachment in the email",
+            "There are no files sent"
           ],
           "answerIndex": 2,
           "explanation": "Indicates email file attachment.",
@@ -8935,10 +8935,10 @@
         {
           "prompt": "Translate: \"Thank you for your prompt response and assistance.\"",
           "options": [
-            "You answered too late. (Write structured)",
-            "Thank you for your prompt response and assistance. (Write structured)",
-            "The phone has no battery. (Write structured)",
-            "I did not get your message. (Write structured)"
+            "You answered too late.",
+            "Thank you for your prompt response and assistance.",
+            "The phone has no battery.",
+            "I did not get your message."
           ],
           "answerIndex": 1,
           "explanation": "Accurate business gratitude.",
@@ -8975,10 +8975,10 @@
         {
           "prompt": "What does the \"STAR\" interview technique stand for?",
           "options": [
-            "Situation, Task, Action, Result (Simulate behavioral job interviews)",
-            "Stop, Think, Act, Rest (Simulate behavioral job interviews)",
-            "Salary, Time, Agreement, Reward (Simulate behavioral job interviews)",
-            "Start, Test, Analyze, Review (Simulate behavioral job interviews)"
+            "Situation, Task, Action, Result",
+            "Stop, Think, Act, Rest",
+            "Salary, Time, Agreement, Reward",
+            "Start, Test, Analyze, Review"
           ],
           "answerIndex": 0,
           "explanation": "Situation, Task, Action, Result."
@@ -8990,10 +8990,10 @@
         {
           "prompt": "How should you quantify your impact in an interview?",
           "options": [
-            "By saying everything was easy (Simulate behavioral job interviews)",
-            "By providing concrete numbers, percentages, or measurable efficiency gains (Simulate behavioral job interviews)",
-            "By avoiding any details (Simulate behavioral job interviews)",
-            "By guessing random stories (Simulate behavioral job interviews)"
+            "By saying everything was easy",
+            "By providing concrete numbers, percentages, or measurable efficiency gains",
+            "By avoiding any details",
+            "By guessing random stories"
           ],
           "answerIndex": 1,
           "explanation": "Concrete quantitative outcomes."
@@ -9005,10 +9005,10 @@
         {
           "prompt": "What document summarizes your entire professional and academic history for job applications?",
           "options": [
-            "A library card (Simulate behavioral job interviews)",
-            "A Resume / Curriculum Vitae (Simulate behavioral job interviews)",
-            "An electric utility bill (Simulate behavioral job interviews)",
-            "A restaurant menu (Simulate behavioral job interviews)"
+            "A library card",
+            "A Resume / Curriculum Vitae",
+            "An electric utility bill",
+            "A restaurant menu"
           ],
           "answerIndex": 1,
           "explanation": "Resume / CV.",
@@ -9017,10 +9017,10 @@
         {
           "prompt": "Translate: \"I have extensive experience leading cross-functional engineering teams.\"",
           "options": [
-            "I have extensive experience leading cross-functional engineering teams. (Simulate behavioral job interviews)",
-            "I have never worked in a team. (Simulate behavioral job interviews)",
-            "The office is closed for holidays. (Simulate behavioral job interviews)",
-            "Engineering is very hard. (Simulate behavioral job interviews)"
+            "I have extensive experience leading cross-functional engineering teams.",
+            "I have never worked in a team.",
+            "The office is closed for holidays.",
+            "Engineering is very hard."
           ],
           "answerIndex": 0,
           "explanation": "Accurate leadership competency statement.",
@@ -9057,10 +9057,10 @@
         {
           "prompt": "What does the common idiom \"I am really into photography\" mean?",
           "options": [
-            "I dislike photography (Express creative hobbies)",
-            "I broke my camera (Express creative hobbies)",
-            "I have no hobbies (Express creative hobbies)",
-            "I am extremely enthusiastic and passionate about photography (Express creative hobbies)"
+            "I dislike photography",
+            "I broke my camera",
+            "I have no hobbies",
+            "I am extremely enthusiastic and passionate about photography"
           ],
           "answerIndex": 3,
           "explanation": "To be into something means to be deeply interested."
@@ -9072,10 +9072,10 @@
         {
           "prompt": "Translate: \"In my spare time, I enjoy playing the acoustic guitar.\"",
           "options": [
-            "I sell broken guitars. (Express creative hobbies)",
-            "Music is boring. (Express creative hobbies)",
-            "I have no spare time. (Express creative hobbies)",
-            "In my spare time, I enjoy playing the acoustic guitar. (Express creative hobbies)"
+            "I sell broken guitars.",
+            "Music is boring.",
+            "I have no spare time.",
+            "In my spare time, I enjoy playing the acoustic guitar."
           ],
           "answerIndex": 3,
           "explanation": "Accurate hobby translation."
@@ -9087,10 +9087,10 @@
         {
           "prompt": "Which verb is used with musical instruments in English?",
           "options": [
-            "To play (Express creative hobbies)",
-            "To do (Express creative hobbies)",
-            "To run (Express creative hobbies)",
-            "To make (Express creative hobbies)"
+            "To play",
+            "To do",
+            "To run",
+            "To make"
           ],
           "answerIndex": 0,
           "explanation": "To play is used with instruments.",
@@ -9099,10 +9099,10 @@
         {
           "prompt": "Complete: \"On weekends, we often go ______ in the national park.\"",
           "options": [
-            "working (Express creative hobbies)",
-            "computing (Express creative hobbies)",
-            "taxing (Express creative hobbies)",
-            "hiking (Express creative hobbies)"
+            "working",
+            "computing",
+            "taxing",
+            "hiking"
           ],
           "answerIndex": 3,
           "explanation": "Going hiking in the park.",
@@ -9221,10 +9221,10 @@
         {
           "prompt": "Which London district represents the global center of world-class commercial theatre?",
           "options": [
-            "Soho Square (Music genres Rock)",
-            "Heathrow (Music genres Rock)",
-            "The West End (Music genres Rock)",
-            "Greenwich (Music genres Rock)"
+            "Soho Square",
+            "Heathrow",
+            "The West End",
+            "Greenwich"
           ],
           "answerIndex": 2,
           "explanation": "The West End."
@@ -9236,10 +9236,10 @@
         {
           "prompt": "What world-famous open-air music festival takes place on Worthy Farm in Somerset, England?",
           "options": [
-            "The Glastonbury Festival (Music genres Rock)",
-            "The Cannes Film Festival (Music genres Rock)",
-            "The Munich Oktoberfest (Music genres Rock)",
-            "The Venice Biennale (Music genres Rock)"
+            "The Glastonbury Festival",
+            "The Cannes Film Festival",
+            "The Munich Oktoberfest",
+            "The Venice Biennale"
           ],
           "answerIndex": 0,
           "explanation": "Glastonbury."
@@ -9251,10 +9251,10 @@
         {
           "prompt": "Which London gallery houses Britain's national collection of international modern and contemporary art?",
           "options": [
-            "Buckingham Palace (Music genres Rock)",
-            "The Tower of London (Music genres Rock)",
-            "Tate Modern (Music genres Rock)",
-            "The British Library (Music genres Rock)"
+            "Buckingham Palace",
+            "The Tower of London",
+            "Tate Modern",
+            "The British Library"
           ],
           "answerIndex": 2,
           "explanation": "Tate Modern.",
@@ -9263,10 +9263,10 @@
         {
           "prompt": "Translate: \"We purchased front-row tickets for the live symphony concert.\"",
           "options": [
-            "The concert took place last year. (Music genres Rock)",
-            "We purchased front-row tickets for the live symphony concert. (Music genres Rock)",
-            "We dislike live music. (Music genres Rock)",
-            "We lost our concert tickets. (Music genres Rock)"
+            "The concert took place last year.",
+            "We purchased front-row tickets for the live symphony concert.",
+            "We dislike live music.",
+            "We lost our concert tickets."
           ],
           "answerIndex": 1,
           "explanation": "Accurate event translation.",
@@ -9303,10 +9303,10 @@
         {
           "prompt": "What does \"Count me in!\" mean in response to an invitation?",
           "options": [
-            "I have no friends (Propose leisure plans)",
-            "I definitely want to participate and join the plan (Propose leisure plans)",
-            "I am going to sleep (Propose leisure plans)",
-            "Please leave me out (Propose leisure plans)"
+            "I have no friends",
+            "I definitely want to participate and join the plan",
+            "I am going to sleep",
+            "Please leave me out"
           ],
           "answerIndex": 1,
           "explanation": "Count me in expresses enthusiastic participation."
@@ -9318,10 +9318,10 @@
         {
           "prompt": "What does the idiom \"to take a raincheck\" mean?",
           "options": [
-            "To politely decline an invitation for now with an offer to do it another time (Propose leisure plans)",
-            "To buy an umbrella (Propose leisure plans)",
-            "To cancel forever angrily (Propose leisure plans)",
-            "To stand outside in the rain (Propose leisure plans)"
+            "To politely decline an invitation for now with an offer to do it another time",
+            "To buy an umbrella",
+            "To cancel forever angrily",
+            "To stand outside in the rain"
           ],
           "answerIndex": 0,
           "explanation": "Take a raincheck means postponing to a future date."
@@ -9333,10 +9333,10 @@
         {
           "prompt": "What British phrase is commonly used to casually suggest an activity (e.g., grabbing a coffee)?",
           "options": [
-            "Where is my tea? (Propose leisure plans)",
-            "Fancy grabbing a coffee? (Propose leisure plans)",
-            "You must drink coffee (Propose leisure plans)",
-            "Coffee is forbidden (Propose leisure plans)"
+            "Where is my tea?",
+            "Fancy grabbing a coffee?",
+            "You must drink coffee",
+            "Coffee is forbidden"
           ],
           "answerIndex": 1,
           "explanation": "Fancy grabbing a coffee is natural British English.",
@@ -9345,10 +9345,10 @@
         {
           "prompt": "Translate: \"Let's meet in front of the cinema at 7:30 PM.\"",
           "options": [
-            "Let's meet in front of the cinema at 7:30 PM. (Propose leisure plans)",
-            "The cinema burned down. (Propose leisure plans)",
-            "The meeting is canceled. (Propose leisure plans)",
-            "I don't want to see a film. (Propose leisure plans)"
+            "Let's meet in front of the cinema at 7:30 PM.",
+            "The cinema burned down.",
+            "The meeting is canceled.",
+            "I don't want to see a film."
           ],
           "answerIndex": 0,
           "explanation": "Accurate meetup appointment.",
@@ -9385,10 +9385,10 @@
         {
           "prompt": "What does calling a movie or performance a \"tour de force\" mean?",
           "options": [
-            "A triumph of extraordinary artistic skill and mastery (Write engaging critical reviews for films)",
-            "A complete failure (Write engaging critical reviews for films)",
-            "A short commercial (Write engaging critical reviews for films)",
-            "A black and white cartoon (Write engaging critical reviews for films)"
+            "A triumph of extraordinary artistic skill and mastery",
+            "A complete failure",
+            "A short commercial",
+            "A black and white cartoon"
           ],
           "answerIndex": 0,
           "explanation": "Tour de force denotes artistic mastery."
@@ -9400,10 +9400,10 @@
         {
           "prompt": "What term describes a sudden, unexpected change in the direction of a story's narrative?",
           "options": [
-            "A intermission (Write engaging critical reviews for films)",
-            "A credit roll (Write engaging critical reviews for films)",
-            "A plot twist (Write engaging critical reviews for films)",
-            "A typo (Write engaging critical reviews for films)"
+            "A intermission",
+            "A credit roll",
+            "A plot twist",
+            "A typo"
           ],
           "answerIndex": 2,
           "explanation": "Plot twist."
@@ -9415,10 +9415,10 @@
         {
           "prompt": "Which of the following describes an exceptional review verdict?",
           "options": [
-            "An unmissable masterpiece with stellar performances and brilliant cinematography (Write engaging critical reviews for films)",
-            "A boring movie with bad audio (Write engaging critical reviews for films)",
-            "An unfinished draft (Write engaging critical reviews for films)",
-            "A movie without characters (Write engaging critical reviews for films)"
+            "An unmissable masterpiece with stellar performances and brilliant cinematography",
+            "A boring movie with bad audio",
+            "An unfinished draft",
+            "A movie without characters"
           ],
           "answerIndex": 0,
           "explanation": "Masterpiece verdict.",
@@ -9427,10 +9427,10 @@
         {
           "prompt": "Translate: \"The screenplay is sharp, intelligent, and emotionally captivating.\"",
           "options": [
-            "I didn't understand the story. (Write engaging critical reviews for films)",
-            "The book has no text. (Write engaging critical reviews for films)",
-            "The film was canceled. (Write engaging critical reviews for films)",
-            "The screenplay is sharp, intelligent, and emotionally captivating. (Write engaging critical reviews for films)"
+            "I didn't understand the story.",
+            "The book has no text.",
+            "The film was canceled.",
+            "The screenplay is sharp, intelligent, and emotionally captivating."
           ],
           "answerIndex": 3,
           "explanation": "Accurate review translation.",
@@ -9467,10 +9467,10 @@
         {
           "prompt": "What document allows a passenger to board an aircraft after checking in?",
           "options": [
-            "A driver's license only (Airport operations)",
-            "A hotel receipt (Airport operations)",
-            "A business card (Airport operations)",
-            "The boarding pass (Airport operations)"
+            "A driver's license only",
+            "A hotel receipt",
+            "A business card",
+            "The boarding pass"
           ],
           "answerIndex": 3,
           "explanation": "Boarding pass."
@@ -9482,10 +9482,10 @@
         {
           "prompt": "Translate: \"The flight to Chicago is delayed by forty minutes due to runway maintenance.\"",
           "options": [
-            "The plane took off on time. (Airport operations)",
-            "There are no flights to Chicago. (Airport operations)",
-            "The airport is closed. (Airport operations)",
-            "The flight to Chicago is delayed by forty minutes due to runway maintenance. (Airport operations)"
+            "The plane took off on time.",
+            "There are no flights to Chicago.",
+            "The airport is closed.",
+            "The flight to Chicago is delayed by forty minutes due to runway maintenance."
           ],
           "answerIndex": 3,
           "explanation": "Accurate flight delay translation."
@@ -9497,10 +9497,10 @@
         {
           "prompt": "Where do arriving passengers collect their checked suitcases after landing?",
           "options": [
-            "In the cockpit (Airport operations)",
-            "At the ticketing counter (Airport operations)",
-            "On the tarmac (Airport operations)",
-            "At the baggage claim carousel (Airport operations)"
+            "In the cockpit",
+            "At the ticketing counter",
+            "On the tarmac",
+            "At the baggage claim carousel"
           ],
           "answerIndex": 3,
           "explanation": "Baggage claim carousel.",
@@ -9509,10 +9509,10 @@
         {
           "prompt": "Translate: \"Please proceed immediately to gate B18 for final boarding call.\"",
           "options": [
-            "Leave the airport. (Airport operations)",
-            "Buy a new ticket. (Airport operations)",
-            "Please proceed immediately to gate B18 for final boarding call. (Airport operations)",
-            "The flight landed yesterday. (Airport operations)"
+            "Leave the airport.",
+            "Buy a new ticket.",
+            "Please proceed immediately to gate B18 for final boarding call.",
+            "The flight landed yesterday."
           ],
           "answerIndex": 2,
           "explanation": "Accurate boarding call translation.",
@@ -9795,10 +9795,10 @@
         {
           "prompt": "What official document must be filled out at the airport when checked luggage fails to arrive?",
           "options": [
-            "A Property Irregularity Report (Travel emergencies)",
-            "A driver's license test (Travel emergencies)",
-            "A lottery ticket (Travel emergencies)",
-            "A job application (Travel emergencies)"
+            "A Property Irregularity Report",
+            "A driver's license test",
+            "A lottery ticket",
+            "A job application"
           ],
           "answerIndex": 0,
           "explanation": "PIR (Property Irregularity Report)."
@@ -9810,10 +9810,10 @@
         {
           "prompt": "What statutory protections are air passengers entitled to during multi-hour flight cancellations in the UK and EU?",
           "options": [
-            "A fine (Travel emergencies)",
-            "Only a glass of water (Travel emergencies)",
-            "Free hotel accommodation, meals/refreshments, and cash compensation under UK/EU261 (Travel emergencies)",
-            "No assistance at all (Travel emergencies)"
+            "A fine",
+            "Only a glass of water",
+            "Free hotel accommodation, meals/refreshments, and cash compensation under UK/EU261",
+            "No assistance at all"
           ],
           "answerIndex": 2,
           "explanation": "Statutory accommodation, food, and compensation."
@@ -9825,10 +9825,10 @@
         {
           "prompt": "What should an international traveler do immediately if their passport is stolen abroad?",
           "options": [
-            "Buy a new suitcase (Travel emergencies)",
-            "Go to the beach (Travel emergencies)",
-            "Sleep in the airport (Travel emergencies)",
-            "File a local police report to obtain a crime reference number, then contact their embassy or consulate (Travel emergencies)"
+            "Buy a new suitcase",
+            "Go to the beach",
+            "Sleep in the airport",
+            "File a local police report to obtain a crime reference number, then contact their embassy or consulate"
           ],
           "answerIndex": 3,
           "explanation": "Police report and Embassy contact.",
@@ -9837,10 +9837,10 @@
         {
           "prompt": "Translate: \"Our flight was rescheduled to tomorrow morning due to severe weather conditions.\"",
           "options": [
-            "There was no bad weather. (Travel emergencies)",
-            "The flight took off on time. (Travel emergencies)",
-            "Our flight was rescheduled to tomorrow morning due to severe weather conditions. (Travel emergencies)",
-            "We arrived earlier. (Travel emergencies)"
+            "There was no bad weather.",
+            "The flight took off on time.",
+            "Our flight was rescheduled to tomorrow morning due to severe weather conditions.",
+            "We arrived earlier."
           ],
           "answerIndex": 2,
           "explanation": "Accurate flight rescheduling translation.",
@@ -9877,10 +9877,10 @@
         {
           "prompt": "What is the British English equivalent for the American word \"sweater\"?",
           "options": [
-            "Coat (Apparel vocabulary)",
-            "Sneaker (Apparel vocabulary)",
-            "Socks (Apparel vocabulary)",
-            "Jumper (Apparel vocabulary)"
+            "Coat",
+            "Sneaker",
+            "Socks",
+            "Jumper"
           ],
           "answerIndex": 3,
           "explanation": "Jumper is British English for sweater."
@@ -9892,10 +9892,10 @@
         {
           "prompt": "What is the British English term for athletic sneakers?",
           "options": [
-            "Boots (Apparel vocabulary)",
-            "Slippers (Apparel vocabulary)",
-            "Sandals (Apparel vocabulary)",
-            "Trainers (Apparel vocabulary)"
+            "Boots",
+            "Slippers",
+            "Sandals",
+            "Trainers"
           ],
           "answerIndex": 3,
           "explanation": "Trainers."
@@ -9907,10 +9907,10 @@
         {
           "prompt": "Which iconic Knightsbridge luxury department store in London features the famous Egyptian Escalator?",
           "options": [
-            "Macy's (Apparel vocabulary)",
-            "Walmart (Apparel vocabulary)",
-            "Harrods (Apparel vocabulary)",
-            "Target (Apparel vocabulary)"
+            "Macy's",
+            "Walmart",
+            "Harrods",
+            "Target"
           ],
           "answerIndex": 2,
           "explanation": "Harrods in London.",
@@ -9919,10 +9919,10 @@
         {
           "prompt": "Translate: \"This tailored linen suit is exceptionally lightweight, breathable, and elegant.\"",
           "options": [
-            "The suit is made of paper. (Apparel vocabulary)",
-            "This tailored linen suit is exceptionally lightweight, breathable, and elegant. (Apparel vocabulary)",
-            "The store is closed. (Apparel vocabulary)",
-            "I dislike clothes. (Apparel vocabulary)"
+            "The suit is made of paper.",
+            "This tailored linen suit is exceptionally lightweight, breathable, and elegant.",
+            "The store is closed.",
+            "I dislike clothes."
           ],
           "answerIndex": 1,
           "explanation": "Accurate suit review translation.",
@@ -9959,10 +9959,10 @@
         {
           "prompt": "What does the common English idiom \"It fits like a glove\" mean?",
           "options": [
-            "It fits absolutely perfectly and flatters your figure (The fitting room)",
-            "It is soaking wet (The fitting room)",
-            "It is designed for hands only (The fitting room)",
-            "It is torn and damaged (The fitting room)"
+            "It fits absolutely perfectly and flatters your figure",
+            "It is soaking wet",
+            "It is designed for hands only",
+            "It is torn and damaged"
           ],
           "answerIndex": 0,
           "explanation": "Fits like a glove means perfect fit."
@@ -9974,10 +9974,10 @@
         {
           "prompt": "Where do customers try on garments in a clothing store?",
           "options": [
-            "In the fitting rooms / changing rooms (The fitting room)",
-            "At the cash register (The fitting room)",
-            "In the parking lot (The fitting room)",
-            "On the sidewalk (The fitting room)"
+            "In the fitting rooms / changing rooms",
+            "At the cash register",
+            "In the parking lot",
+            "On the sidewalk"
           ],
           "answerIndex": 0,
           "explanation": "Fitting rooms."
@@ -9989,10 +9989,10 @@
         {
           "prompt": "Which historic London street is globally renowned as the world capital of bespoke gentlemen's tailoring?",
           "options": [
-            "Abbey Road (The fitting room)",
-            "Savile Row (The fitting room)",
-            "Downing Street (The fitting room)",
-            "Fleet Street (The fitting room)"
+            "Abbey Road",
+            "Savile Row",
+            "Downing Street",
+            "Fleet Street"
           ],
           "answerIndex": 1,
           "explanation": "Savile Row.",
@@ -10001,10 +10001,10 @@
         {
           "prompt": "Translate: \"The trousers are too long; do you offer complimentary alteration and hemming service?\"",
           "options": [
-            "The trousers are too long; do you offer complimentary alteration and hemming service? (The fitting room)",
-            "I don't buy trousers. (The fitting room)",
-            "There are no fitting rooms. (The fitting room)",
-            "The trousers are cheap. (The fitting room)"
+            "The trousers are too long; do you offer complimentary alteration and hemming service?",
+            "I don't buy trousers.",
+            "There are no fitting rooms.",
+            "The trousers are cheap."
           ],
           "answerIndex": 0,
           "explanation": "Accurate alterations request.",
@@ -10041,10 +10041,10 @@
         {
           "prompt": "What is the massive post-Christmas clearance shopping holiday celebrated on December 26 in the UK?",
           "options": [
-            "Bank Holiday Monday (Seasonal clearance sales)",
-            "Boxing Day (Seasonal clearance sales)",
-            "Halloween (Seasonal clearance sales)",
-            "Guy Fawkes Day (Seasonal clearance sales)"
+            "Bank Holiday Monday",
+            "Boxing Day",
+            "Halloween",
+            "Guy Fawkes Day"
           ],
           "answerIndex": 1,
           "explanation": "Boxing Day (Dec 26)."
@@ -10056,10 +10056,10 @@
         {
           "prompt": "What British term is commonly used for the cash register checkout counter in shops?",
           "options": [
-            "The till (Seasonal clearance sales)",
-            "The vault (Seasonal clearance sales)",
-            "The locker (Seasonal clearance sales)",
-            "The safe (Seasonal clearance sales)"
+            "The till",
+            "The vault",
+            "The locker",
+            "The safe"
           ],
           "answerIndex": 0,
           "explanation": "The till."
@@ -10071,10 +10071,10 @@
         {
           "prompt": "What type of receipt hides the price so an item can be exchanged by someone who receives it as a present?",
           "options": [
-            "A gift receipt (Seasonal clearance sales)",
-            "A parking ticket (Seasonal clearance sales)",
-            "A train pass (Seasonal clearance sales)",
-            "A tax audit (Seasonal clearance sales)"
+            "A gift receipt",
+            "A parking ticket",
+            "A train pass",
+            "A tax audit"
           ],
           "answerIndex": 0,
           "explanation": "A gift receipt.",
@@ -10083,10 +10083,10 @@
         {
           "prompt": "Translate: \"Can I pay using contactless card tap or smartphone wallet?\"",
           "options": [
-            "The card is broken. (Seasonal clearance sales)",
-            "I have no money. (Seasonal clearance sales)",
-            "I don't want to pay. (Seasonal clearance sales)",
-            "Can I pay using contactless card tap or smartphone wallet? (Seasonal clearance sales)"
+            "The card is broken.",
+            "I have no money.",
+            "I don't want to pay.",
+            "Can I pay using contactless card tap or smartphone wallet?"
           ],
           "answerIndex": 3,
           "explanation": "Accurate contactless payment translation.",
@@ -10123,10 +10123,10 @@
         {
           "prompt": "Which historic London market near London Bridge is internationally famous for world-class gourmet food and artisanal produce?",
           "options": [
-            "Billingsgate (Iconic street markets)",
-            "Borough Market (Iconic street markets)",
-            "Covent Garden (Iconic street markets)",
-            "Smithfield Market (Iconic street markets)"
+            "Billingsgate",
+            "Borough Market",
+            "Covent Garden",
+            "Smithfield Market"
           ],
           "answerIndex": 1,
           "explanation": "Borough Market."
@@ -10138,10 +10138,10 @@
         {
           "prompt": "Which London street market in Notting Hill is celebrated worldwide for its mile-long stretch of antique stalls?",
           "options": [
-            "Portobello Road Market (Iconic street markets)",
-            "Piccadilly Circus (Iconic street markets)",
-            "Trafalgar Square (Iconic street markets)",
-            "Oxford Street (Iconic street markets)"
+            "Portobello Road Market",
+            "Piccadilly Circus",
+            "Trafalgar Square",
+            "Oxford Street"
           ],
           "answerIndex": 0,
           "explanation": "Portobello Road Market."
@@ -10153,10 +10153,10 @@
         {
           "prompt": "Which vibrant canal-side market in north London is famous for alternative youth culture, music, and vintage fashion?",
           "options": [
-            "Hyde Park (Iconic street markets)",
-            "Kew Gardens (Iconic street markets)",
-            "Wimbledon (Iconic street markets)",
-            "Camden Market (Iconic street markets)"
+            "Hyde Park",
+            "Kew Gardens",
+            "Wimbledon",
+            "Camden Market"
           ],
           "answerIndex": 3,
           "explanation": "Camden Market.",
@@ -10165,10 +10165,10 @@
         {
           "prompt": "Translate: \"Please give me two hundred grams of mature farmhouse cheddar and a loaf of sourdough.\"",
           "options": [
-            "Sell me old newspapers. (Iconic street markets)",
-            "The market is closed. (Iconic street markets)",
-            "Please give me two hundred grams of mature farmhouse cheddar and a loaf of sourdough. (Iconic street markets)",
-            "I dislike cheese. (Iconic street markets)"
+            "Sell me old newspapers.",
+            "The market is closed.",
+            "Please give me two hundred grams of mature farmhouse cheddar and a loaf of sourdough.",
+            "I dislike cheese."
           ],
           "answerIndex": 2,
           "explanation": "Accurate market counter purchase.",
@@ -10205,10 +10205,10 @@
         {
           "prompt": "Under UK statutory consumer law, what standard must all purchased goods legally satisfy?",
           "options": [
-            "They must be as described, fit for purpose, and of satisfactory quality (Consumer rights Consumer Rights Act)",
-            "They must be free of charge (Consumer rights Consumer Rights Act)",
-            "They must last 100 years (Consumer rights Consumer Rights Act)",
-            "They cannot be returned (Consumer rights Consumer Rights Act)"
+            "They must be as described, fit for purpose, and of satisfactory quality",
+            "They must be free of charge",
+            "They must last 100 years",
+            "They cannot be returned"
           ],
           "answerIndex": 0,
           "explanation": "As described, fit for purpose, satisfactory quality."
@@ -10220,10 +10220,10 @@
         {
           "prompt": "What must a shopper present when returning an unwanted item in a store for a full refund?",
           "options": [
-            "A lottery ticket (Consumer rights Consumer Rights Act)",
-            "Nothing at all (Consumer rights Consumer Rights Act)",
-            "The original receipt and the item in pristine condition with tags attached (Consumer rights Consumer Rights Act)",
-            "A photocopy of a book (Consumer rights Consumer Rights Act)"
+            "A lottery ticket",
+            "Nothing at all",
+            "The original receipt and the item in pristine condition with tags attached",
+            "A photocopy of a book"
           ],
           "answerIndex": 2,
           "explanation": "Original receipt and pristine item with tags."
@@ -10235,10 +10235,10 @@
         {
           "prompt": "What period do online shoppers legally have to cancel and return distance purchases under UK Consumer Regulations?",
           "options": [
-            "1 year (Consumer rights Consumer Rights Act)",
-            "Only 10 minutes (Consumer rights Consumer Rights Act)",
-            "14 calendar days from receipt of goods (Consumer rights Consumer Rights Act)",
-            "No return rights (Consumer rights Consumer Rights Act)"
+            "1 year",
+            "Only 10 minutes",
+            "14 calendar days from receipt of goods",
+            "No return rights"
           ],
           "answerIndex": 2,
           "explanation": "14 calendar days.",
@@ -10247,10 +10247,10 @@
         {
           "prompt": "Translate: \"I received a damaged item and I request an immediate replacement or full refund.\"",
           "options": [
-            "The product is perfect. (Consumer rights Consumer Rights Act)",
-            "I received a damaged item and I request an immediate replacement or full refund. (Consumer rights Consumer Rights Act)",
-            "I ordered nothing. (Consumer rights Consumer Rights Act)",
-            "Delivery was canceled. (Consumer rights Consumer Rights Act)"
+            "The product is perfect.",
+            "I received a damaged item and I request an immediate replacement or full refund.",
+            "I ordered nothing.",
+            "Delivery was canceled."
           ],
           "answerIndex": 1,
           "explanation": "Accurate consumer defect claim translation.",
@@ -10369,10 +10369,10 @@
         {
           "prompt": "Which native wildflower creates spectacular violet-blue carpets in ancient English woodlands each spring?",
           "options": [
-            "The English bluebell (The four seasons)",
-            "The water lily (The four seasons)",
-            "The sunflower (The four seasons)",
-            "The cactus (The four seasons)"
+            "The English bluebell",
+            "The water lily",
+            "The sunflower",
+            "The cactus"
           ],
           "answerIndex": 0,
           "explanation": "The English bluebell."
@@ -10384,10 +10384,10 @@
         {
           "prompt": "Which British autumn celebration on November 5th features community bonfires and fireworks displays?",
           "options": [
-            "Guy Fawkes Night (The four seasons)",
-            "Saint Patrick's Day (The four seasons)",
-            "Labor Day (The four seasons)",
-            "Pancake Day (The four seasons)"
+            "Guy Fawkes Night",
+            "Saint Patrick's Day",
+            "Labor Day",
+            "Pancake Day"
           ],
           "answerIndex": 0,
           "explanation": "Guy Fawkes Night."
@@ -10399,10 +10399,10 @@
         {
           "prompt": "What is the classic culinary treat traditionally enjoyed by spectators watching tennis at Wimbledon in the summer?",
           "options": [
-            "Strawberries and fresh cream (The four seasons)",
-            "Hot soup (The four seasons)",
-            "Pumpkin pie (The four seasons)",
-            "Roast beef only (The four seasons)"
+            "Strawberries and fresh cream",
+            "Hot soup",
+            "Pumpkin pie",
+            "Roast beef only"
           ],
           "answerIndex": 0,
           "explanation": "Strawberries and cream.",
@@ -10411,10 +10411,10 @@
         {
           "prompt": "Translate: \"In winter, locals gather around roaring log fires in centuries-old country pubs for warm mulled wine.\"",
           "options": [
-            "Pubs are closed in winter. (The four seasons)",
-            "No one drinks mulled wine. (The four seasons)",
-            "Winter has no cold weather. (The four seasons)",
-            "In winter, locals gather around roaring log fires in centuries-old country pubs for warm mulled wine. (The four seasons)"
+            "Pubs are closed in winter.",
+            "No one drinks mulled wine.",
+            "Winter has no cold weather.",
+            "In winter, locals gather around roaring log fires in centuries-old country pubs for warm mulled wine."
           ],
           "answerIndex": 3,
           "explanation": "Accurate seasonal pub culture translation.",
@@ -10451,10 +10451,10 @@
         {
           "prompt": "Which UNESCO natural site in Northern Ireland is famous for its 40,000 interlocking hexagonal basalt columns?",
           "options": [
-            "Stonehenge (National parks and natural wonders)",
-            "Giant's Causeway (National parks and natural wonders)",
-            "White Cliffs of Dover (National parks and natural wonders)",
-            "Loch Ness (National parks and natural wonders)"
+            "Stonehenge",
+            "Giant's Causeway",
+            "White Cliffs of Dover",
+            "Loch Ness"
           ],
           "answerIndex": 1,
           "explanation": "Giant's Causeway."
@@ -10466,10 +10466,10 @@
         {
           "prompt": "What is the highest mountain peak in the United Kingdom, located in the Scottish Highlands?",
           "options": [
-            "Ben Nevis (National parks and natural wonders)",
-            "Mount Snowdon (National parks and natural wonders)",
-            "Mount Everest (National parks and natural wonders)",
-            "Scafell Pike (National parks and natural wonders)"
+            "Ben Nevis",
+            "Mount Snowdon",
+            "Mount Everest",
+            "Scafell Pike"
           ],
           "answerIndex": 0,
           "explanation": "Ben Nevis."
@@ -10481,10 +10481,10 @@
         {
           "prompt": "Which English coastal UNESCO site is globally renowned for hunting dinosaur and ammonite fossils along dramatic cliffs?",
           "options": [
-            "Blackpool Sands (National parks and natural wonders)",
-            "Brighton Beach (National parks and natural wonders)",
-            "The Thames Estuary (National parks and natural wonders)",
-            "The Jurassic Coast (National parks and natural wonders)"
+            "Blackpool Sands",
+            "Brighton Beach",
+            "The Thames Estuary",
+            "The Jurassic Coast"
           ],
           "answerIndex": 3,
           "explanation": "The Jurassic Coast.",
@@ -10493,10 +10493,10 @@
         {
           "prompt": "Translate: \"Hiking along the tranquil tarns and craggy peaks of the Lake District offers breathtaking scenery.\"",
           "options": [
-            "The mountains are made of metal. (National parks and natural wonders)",
-            "The park is completely flat. (National parks and natural wonders)",
-            "Hiking along the tranquil tarns and craggy peaks of the Lake District offers breathtaking scenery. (National parks and natural wonders)",
-            "There are no lakes in Cumbria. (National parks and natural wonders)"
+            "The mountains are made of metal.",
+            "The park is completely flat.",
+            "Hiking along the tranquil tarns and craggy peaks of the Lake District offers breathtaking scenery.",
+            "There are no lakes in Cumbria."
           ],
           "answerIndex": 2,
           "explanation": "Accurate landscape hiking translation.",
@@ -10534,10 +10534,10 @@
         {
           "prompt": "What is the highest level of Met Office severe weather warning indicating immediate danger to life?",
           "options": [
-            "Green Advisory (Met Office severe weather warnings Yellow)",
-            "Red Warning (Met Office severe weather warnings Yellow)",
-            "Blue Alert (Met Office severe weather warnings Yellow)",
-            "Yellow Warning (Met Office severe weather warnings Yellow)"
+            "Green Advisory",
+            "Red Warning",
+            "Blue Alert",
+            "Yellow Warning"
           ],
           "answerIndex": 1,
           "explanation": "Red Warning."
@@ -10549,10 +10549,10 @@
         {
           "prompt": "What monumental engineering structure on the River Thames shields central London from tidal storm surges?",
           "options": [
-            "The Thames Barrier (Met Office severe weather warnings Yellow)",
-            "Tower Bridge (Met Office severe weather warnings Yellow)",
-            "Big Ben (Met Office severe weather warnings Yellow)",
-            "London Bridge (Met Office severe weather warnings Yellow)"
+            "The Thames Barrier",
+            "Tower Bridge",
+            "Big Ben",
+            "London Bridge"
           ],
           "answerIndex": 0,
           "explanation": "The Thames Barrier."
@@ -10564,10 +10564,10 @@
         {
           "prompt": "What is the primary telephone emergency number dialed across the United Kingdom for Police, Fire, and Ambulance?",
           "options": [
-            "911 (Met Office severe weather warnings Yellow)",
-            "000 (Met Office severe weather warnings Yellow)",
-            "999 (Met Office severe weather warnings Yellow)",
-            "112 only (Met Office severe weather warnings Yellow)"
+            "911",
+            "000",
+            "999",
+            "112 only"
           ],
           "answerIndex": 2,
           "explanation": "999.",
@@ -10576,10 +10576,10 @@
         {
           "prompt": "Translate: \"Stay indoors, avoid unnecessary travel, and secure loose outdoor garden furniture during the gale-force storm.\"",
           "options": [
-            "The storm is gentle and warm. (Met Office severe weather warnings Yellow)",
-            "Stay indoors, avoid unnecessary travel, and secure loose outdoor garden furniture during the gale-force storm. (Met Office severe weather warnings Yellow)",
-            "Go sailing in the storm. (Met Office severe weather warnings Yellow)",
-            "Leave all windows wide open. (Met Office severe weather warnings Yellow)"
+            "The storm is gentle and warm.",
+            "Stay indoors, avoid unnecessary travel, and secure loose outdoor garden furniture during the gale-force storm.",
+            "Go sailing in the storm.",
+            "Leave all windows wide open."
           ],
           "answerIndex": 1,
           "explanation": "Accurate storm safety advisory translation.",
@@ -10616,10 +10616,10 @@
         {
           "prompt": "In which body of water are the UK's world-record offshore wind farms (Hornsea and Dogger Bank) located?",
           "options": [
-            "The North Sea (The UKs green energy transition Offshore wind leader)",
-            "The Mediterranean Sea (The UKs green energy transition Offshore wind leader)",
-            "The Red Sea (The UKs green energy transition Offshore wind leader)",
-            "The Baltic Sea (The UKs green energy transition Offshore wind leader)"
+            "The North Sea",
+            "The Mediterranean Sea",
+            "The Red Sea",
+            "The Baltic Sea"
           ],
           "answerIndex": 0,
           "explanation": "The North Sea."
@@ -10631,10 +10631,10 @@
         {
           "prompt": "In which year did the UK officially close its final coal power plant, completely ending coal-fired electricity generation?",
           "options": [
-            "In 1900 (The UKs green energy transition Offshore wind leader)",
-            "In 2100 (The UKs green energy transition Offshore wind leader)",
-            "Not yet planned (The UKs green energy transition Offshore wind leader)",
-            "In 2024 (The UKs green energy transition Offshore wind leader)"
+            "In 1900",
+            "In 2100",
+            "Not yet planned",
+            "In 2024"
           ],
           "answerIndex": 3,
           "explanation": "2024 (Ratcliffe-on-Soar closure)."
@@ -10646,10 +10646,10 @@
         {
           "prompt": "What keystone animal species has been successfully reintroduced across British rivers to naturally restore wetlands and prevent floods?",
           "options": [
-            "The African elephant (The UKs green energy transition Offshore wind leader)",
-            "The European beaver (The UKs green energy transition Offshore wind leader)",
-            "The kangaroo (The UKs green energy transition Offshore wind leader)",
-            "The polar bear (The UKs green energy transition Offshore wind leader)"
+            "The African elephant",
+            "The European beaver",
+            "The kangaroo",
+            "The polar bear"
           ],
           "answerIndex": 1,
           "explanation": "The European beaver.",
@@ -10658,10 +10658,10 @@
         {
           "prompt": "Translate: \"Expanding offshore wind energy and restoring native temperate rainforests is vital for combating climate change.\"",
           "options": [
-            "Expanding offshore wind energy and restoring native temperate rainforests is vital for combating climate change. (The UKs green energy transition Offshore wind leader)",
-            "Renewable energy is harmful. (The UKs green energy transition Offshore wind leader)",
-            "We should burn more coal. (The UKs green energy transition Offshore wind leader)",
-            "Climate change does not exist. (The UKs green energy transition Offshore wind leader)"
+            "Expanding offshore wind energy and restoring native temperate rainforests is vital for combating climate change.",
+            "Renewable energy is harmful.",
+            "We should burn more coal.",
+            "Climate change does not exist."
           ],
           "answerIndex": 0,
           "explanation": "Accurate sustainability statement.",
@@ -10698,10 +10698,10 @@
         {
           "prompt": "Which phrase describes a very intense and throbbing head pain in idiomatic English?",
           "options": [
-            "A cold shoulder (Parts of the human body)",
-            "A sweet tooth (Parts of the human body)",
-            "A green thumb (Parts of the human body)",
-            "A splitting headache (Parts of the human body)"
+            "A cold shoulder",
+            "A sweet tooth",
+            "A green thumb",
+            "A splitting headache"
           ],
           "answerIndex": 3,
           "explanation": "A splitting headache."
@@ -10713,10 +10713,10 @@
         {
           "prompt": "What is the official medical certificate issued by a UK doctor stating a patient is unfit for work due to illness?",
           "options": [
-            "A driving licence (Parts of the human body)",
-            "A boarding pass (Parts of the human body)",
-            "A receipt (Parts of the human body)",
-            "A Fit Note (Parts of the human body)"
+            "A driving licence",
+            "A boarding pass",
+            "A receipt",
+            "A Fit Note"
           ],
           "answerIndex": 3,
           "explanation": "A Fit Note."
@@ -10728,10 +10728,10 @@
         {
           "prompt": "What is the standard title for a primary care family doctor in the United Kingdom?",
           "options": [
-            "General Practitioner (Parts of the human body)",
-            "Chief Constable (Parts of the human body)",
-            "Flight Lieutenant (Parts of the human body)",
-            "Lord Mayor (Parts of the human body)"
+            "General Practitioner",
+            "Chief Constable",
+            "Flight Lieutenant",
+            "Lord Mayor"
           ],
           "answerIndex": 0,
           "explanation": "General Practitioner (GP).",
@@ -10740,10 +10740,10 @@
         {
           "prompt": "Translate accurately: \"The patient is complaining of acute abdominal pain, nausea, and persistent dizziness.\"",
           "options": [
-            "The patient is feeling completely fine and energetic. (Parts of the human body)",
-            "The clinic is closed today. (Parts of the human body)",
-            "No medication is required. (Parts of the human body)",
-            "The patient is complaining of acute abdominal pain, nausea, and persistent dizziness. (Parts of the human body)"
+            "The patient is feeling completely fine and energetic.",
+            "The clinic is closed today.",
+            "No medication is required.",
+            "The patient is complaining of acute abdominal pain, nausea, and persistent dizziness."
           ],
           "answerIndex": 3,
           "explanation": "Accurate symptom translation.",
@@ -10780,10 +10780,10 @@
         {
           "prompt": "What is the traditional British English term for a pharmacy or drugstore on the high street?",
           "options": [
-            "A chemist (Pharmacies  chemists Boots)",
-            "A post office (Pharmacies  chemists Boots)",
-            "A bakery (Pharmacies  chemists Boots)",
-            "A newsagent (Pharmacies  chemists Boots)"
+            "A chemist",
+            "A post office",
+            "A bakery",
+            "A newsagent"
           ],
           "answerIndex": 0,
           "explanation": "A chemist (pharmacy)."
@@ -10795,10 +10795,10 @@
         {
           "prompt": "What is the folded document inside a medicine box detailing proper usage, side effects, and precautions called?",
           "options": [
-            "The Patient Information Leaflet (Pharmacies  chemists Boots)",
-            "The newspaper (Pharmacies  chemists Boots)",
-            "The till receipt (Pharmacies  chemists Boots)",
-            "The bus timetable (Pharmacies  chemists Boots)"
+            "The Patient Information Leaflet",
+            "The newspaper",
+            "The till receipt",
+            "The bus timetable"
           ],
           "answerIndex": 0,
           "explanation": "Patient Information Leaflet (PIL)."
@@ -10810,10 +10810,10 @@
         {
           "prompt": "What is the British term for small adhesive bandages used to cover minor cuts and scrapes?",
           "options": [
-            "Bandages of heavy plaster (Pharmacies  chemists Boots)",
-            "Paper tissues (Pharmacies  chemists Boots)",
-            "Stamps (Pharmacies  chemists Boots)",
-            "Plasters (Pharmacies  chemists Boots)"
+            "Bandages of heavy plaster",
+            "Paper tissues",
+            "Stamps",
+            "Plasters"
           ],
           "answerIndex": 3,
           "explanation": "Plasters.",
@@ -10822,10 +10822,10 @@
         {
           "prompt": "Translate accurately: \"Take two capsules every eight hours after meals with plenty of water for seven consecutive days.\"",
           "options": [
-            "Take all the capsules at once without liquid. (Pharmacies  chemists Boots)",
-            "Do not take this medicine under any circumstances. (Pharmacies  chemists Boots)",
-            "Take two capsules every eight hours after meals with plenty of water for seven consecutive days. (Pharmacies  chemists Boots)",
-            "This medication is for external use only. (Pharmacies  chemists Boots)"
+            "Take all the capsules at once without liquid.",
+            "Do not take this medicine under any circumstances.",
+            "Take two capsules every eight hours after meals with plenty of water for seven consecutive days.",
+            "This medication is for external use only."
           ],
           "answerIndex": 2,
           "explanation": "Accurate posology translation.",
@@ -10944,10 +10944,10 @@
         {
           "prompt": "Which historic UNESCO World Heritage city in England is famous for Britain's only natural hot thermal springs?",
           "options": [
-            "Birmingham (British spa towns Bath)",
-            "The City of Bath (British spa towns Bath)",
-            "Oxford (British spa towns Bath)",
-            "Manchester (British spa towns Bath)"
+            "Birmingham",
+            "The City of Bath",
+            "Oxford",
+            "Manchester"
           ],
           "answerIndex": 1,
           "explanation": "The City of Bath."
@@ -10959,10 +10959,10 @@
         {
           "prompt": "What is the popular British leisure activity of taking long, leisurely walks in the rural countryside along public footpaths called?",
           "options": [
-            "Rambling (British spa towns Bath)",
-            "Deep sea diving (British spa towns Bath)",
-            "Skiing (British spa towns Bath)",
-            "Motor racing (British spa towns Bath)"
+            "Rambling",
+            "Deep sea diving",
+            "Skiing",
+            "Motor racing"
           ],
           "answerIndex": 0,
           "explanation": "Rambling."
@@ -10974,10 +10974,10 @@
         {
           "prompt": "Which scenic national trail stretches across the rugged mountainous spine of Northern England, celebrated by hikers and walkers?",
           "options": [
-            "The Channel Tunnel (British spa towns Bath)",
-            "The Pennine Way (British spa towns Bath)",
-            "The London Underground (British spa towns Bath)",
-            "The M1 Motorway (British spa towns Bath)"
+            "The Channel Tunnel",
+            "The Pennine Way",
+            "The London Underground",
+            "The M1 Motorway"
           ],
           "answerIndex": 1,
           "explanation": "The Pennine Way.",
@@ -10986,10 +10986,10 @@
         {
           "prompt": "Translate accurately: \"Spending time in nature, thermal mineral bathing, and regular physical exercise significantly boosts mental and cardiovascular health.\"",
           "options": [
-            "Spending time in nature, thermal mineral bathing, and regular physical exercise significantly boosts mental and cardiovascular health. (British spa towns Bath)",
-            "Fresh air has no benefits. (British spa towns Bath)",
-            "Outdoor walks and thermal baths are harmful to health. (British spa towns Bath)",
-            "Physical activity causes mental stress. (British spa towns Bath)"
+            "Spending time in nature, thermal mineral bathing, and regular physical exercise significantly boosts mental and cardiovascular health.",
+            "Fresh air has no benefits.",
+            "Outdoor walks and thermal baths are harmful to health.",
+            "Physical activity causes mental stress."
           ],
           "answerIndex": 0,
           "explanation": "Accurate wellness statement translation.",
@@ -11026,10 +11026,10 @@
         {
           "prompt": "Which Scottish physician and microbiologist discovered penicillin at St Mary's Hospital London in 1928?",
           "options": [
-            "Sir Alexander Fleming (British titans of medical history)",
-            "Charles Darwin (British titans of medical history)",
-            "William Shakespeare (British titans of medical history)",
-            "Isaac Newton (British titans of medical history)"
+            "Sir Alexander Fleming",
+            "Charles Darwin",
+            "William Shakespeare",
+            "Isaac Newton"
           ],
           "answerIndex": 0,
           "explanation": "Sir Alexander Fleming."
@@ -11041,10 +11041,10 @@
         {
           "prompt": "Who is celebrated as the \"Lady with the Lamp\" and the pioneer of modern professional nursing and hospital sanitation?",
           "options": [
-            "Queen Victoria (British titans of medical history)",
-            "Jane Austen (British titans of medical history)",
-            "Emmeline Pankhurst (British titans of medical history)",
-            "Florence Nightingale (British titans of medical history)"
+            "Queen Victoria",
+            "Jane Austen",
+            "Emmeline Pankhurst",
+            "Florence Nightingale"
           ],
           "answerIndex": 3,
           "explanation": "Florence Nightingale."
@@ -11056,10 +11056,10 @@
         {
           "prompt": "Which English doctor created the world's very first smallpox vaccine in 1796, founding the science of immunology?",
           "options": [
-            "Edward Jenner (British titans of medical history)",
-            "Joseph Lister (British titans of medical history)",
-            "James Watt (British titans of medical history)",
-            "Alexander Graham Bell (British titans of medical history)"
+            "Edward Jenner",
+            "Joseph Lister",
+            "James Watt",
+            "Alexander Graham Bell"
           ],
           "answerIndex": 0,
           "explanation": "Edward Jenner.",
@@ -11068,10 +11068,10 @@
         {
           "prompt": "Translate accurately: \"The discovery of the double-helix DNA structure and the antibiotic revolution transformed modern medical biology forever.\"",
           "options": [
-            "Immunology has made no progress. (British titans of medical history)",
-            "Penicillin was never effective. (British titans of medical history)",
-            "DNA structure remains completely unknown. (British titans of medical history)",
-            "The discovery of the double-helix DNA structure and the antibiotic revolution transformed modern medical biology forever. (British titans of medical history)"
+            "Immunology has made no progress.",
+            "Penicillin was never effective.",
+            "DNA structure remains completely unknown.",
+            "The discovery of the double-helix DNA structure and the antibiotic revolution transformed modern medical biology forever."
           ],
           "answerIndex": 3,
           "explanation": "Accurate medical history translation.",
@@ -11108,10 +11108,10 @@
         {
           "prompt": "What is the government-backed scheme in the UK that legally protects tenants' security deposits from unfair deductions?",
           "options": [
-            "The National Lottery (Renting a home in the UK Rightmove)",
-            "The Post Office Scheme (Renting a home in the UK Rightmove)",
-            "The Bank of England Reserve (Renting a home in the UK Rightmove)",
-            "The Tenancy Deposit Scheme (Renting a home in the UK Rightmove)"
+            "The National Lottery",
+            "The Post Office Scheme",
+            "The Bank of England Reserve",
+            "The Tenancy Deposit Scheme"
           ],
           "answerIndex": 3,
           "explanation": "The Tenancy Deposit Scheme (TDS)."
@@ -11123,10 +11123,10 @@
         {
           "prompt": "What is the local municipal tax paid by UK residents to fund local council services like waste collection and policing?",
           "options": [
-            "Stamp Duty Land Tax (Renting a home in the UK Rightmove)",
-            "Value Added Tax (Renting a home in the UK Rightmove)",
-            "Corporation Tax (Renting a home in the UK Rightmove)",
-            "Council Tax (Renting a home in the UK Rightmove)"
+            "Stamp Duty Land Tax",
+            "Value Added Tax",
+            "Corporation Tax",
+            "Council Tax"
           ],
           "answerIndex": 3,
           "explanation": "Council Tax."
@@ -11138,10 +11138,10 @@
         {
           "prompt": "What is the standard legal abbreviation for rental rates quoted \"per calendar month\" in UK property listings?",
           "options": [
-            "PW (Renting a home in the UK Rightmove)",
-            "VAT (Renting a home in the UK Rightmove)",
-            "PA (Renting a home in the UK Rightmove)",
-            "PCM (Renting a home in the UK Rightmove)"
+            "PW",
+            "VAT",
+            "PA",
+            "PCM"
           ],
           "answerIndex": 3,
           "explanation": "PCM (Per Calendar Month).",
@@ -11150,10 +11150,10 @@
         {
           "prompt": "Translate accurately: \"The tenant paid a five-week protected security deposit and signed a twelve-month Assured Shorthold Tenancy agreement.\"",
           "options": [
-            "The landlord refused to protect the deposit. (Renting a home in the UK Rightmove)",
-            "No rental contract was provided. (Renting a home in the UK Rightmove)",
-            "The tenant paid a five-week protected security deposit and signed a twelve-month Assured Shorthold Tenancy agreement. (Renting a home in the UK Rightmove)",
-            "The tenancy lasts for only two days. (Renting a home in the UK Rightmove)"
+            "The landlord refused to protect the deposit.",
+            "No rental contract was provided.",
+            "The tenant paid a five-week protected security deposit and signed a twelve-month Assured Shorthold Tenancy agreement.",
+            "The tenancy lasts for only two days."
           ],
           "answerIndex": 2,
           "explanation": "Accurate tenancy agreement translation.",
@@ -11190,10 +11190,10 @@
         {
           "prompt": "What is the British term for a pair of houses joined together by a single shared party wall?",
           "options": [
-            "A semi-detached house (British housing typologies)",
-            "A terraced row of ten houses (British housing typologies)",
-            "A skyscraper (British housing typologies)",
-            "A caravan (British housing typologies)"
+            "A semi-detached house",
+            "A terraced row of ten houses",
+            "A skyscraper",
+            "A caravan"
           ],
           "answerIndex": 0,
           "explanation": "Semi-detached house."
@@ -11205,10 +11205,10 @@
         {
           "prompt": "What are the picturesque London residential houses situated on quiet cobbled lanes, originally built as horse stables, called?",
           "options": [
-            "Mews houses (British housing typologies)",
-            "Castles (British housing typologies)",
-            "Lighthouses (British housing typologies)",
-            "Windmills (British housing typologies)"
+            "Mews houses",
+            "Castles",
+            "Lighthouses",
+            "Windmills"
           ],
           "answerIndex": 0,
           "explanation": "Mews houses."
@@ -11220,10 +11220,10 @@
         {
           "prompt": "What classic British window design consists of vertically sliding glass panels balanced with hidden counterweights?",
           "options": [
-            "Casement windows only (British housing typologies)",
-            "Portholes (British housing typologies)",
-            "Sash windows (British housing typologies)",
-            "Stained glass dome only (British housing typologies)"
+            "Casement windows only",
+            "Portholes",
+            "Sash windows",
+            "Stained glass dome only"
           ],
           "answerIndex": 2,
           "explanation": "Sash windows.",
@@ -11232,10 +11232,10 @@
         {
           "prompt": "Translate accurately: \"The three-bedroom semi-detached property features a front bay window, off-street parking, and a spacious landscaped garden.\"",
           "options": [
-            "The house has no windows or garden. (British housing typologies)",
-            "The three-bedroom semi-detached property features a front bay window, off-street parking, and a spacious landscaped garden. (British housing typologies)",
-            "Parking is prohibited on the street. (British housing typologies)",
-            "The property is a high-rise office block. (British housing typologies)"
+            "The house has no windows or garden.",
+            "The three-bedroom semi-detached property features a front bay window, off-street parking, and a spacious landscaped garden.",
+            "Parking is prohibited on the street.",
+            "The property is a high-rise office block."
           ],
           "answerIndex": 1,
           "explanation": "Accurate property description translation.",
@@ -11272,10 +11272,10 @@
         {
           "prompt": "Which scenic English region is famous for picturesque villages built from distinctive warm honey-coloured limestone?",
           "options": [
-            "Canary Wharf (Traditional vernacular architecture)",
-            "The Cotswolds (Traditional vernacular architecture)",
-            "The Dartford Crossing (Traditional vernacular architecture)",
-            "Heathrow (Traditional vernacular architecture)"
+            "Canary Wharf",
+            "The Cotswolds",
+            "The Dartford Crossing",
+            "Heathrow"
           ],
           "answerIndex": 1,
           "explanation": "The Cotswolds."
@@ -11287,10 +11287,10 @@
         {
           "prompt": "What traditional natural roofing material made of dried reeds or straw is found on historic English country cottages?",
           "options": [
-            "Thatch (Traditional vernacular architecture)",
-            "Asphalt sheets (Traditional vernacular architecture)",
-            "Corrugated iron (Traditional vernacular architecture)",
-            "Concrete tiles (Traditional vernacular architecture)"
+            "Thatch",
+            "Asphalt sheets",
+            "Corrugated iron",
+            "Concrete tiles"
           ],
           "answerIndex": 0,
           "explanation": "Thatch."
@@ -11302,10 +11302,10 @@
         {
           "prompt": "Which iconic Georgian architectural masterpiece in the City of Bath features a grand semicircular crescent of 30 townhouses?",
           "options": [
-            "Big Ben (Traditional vernacular architecture)",
-            "The Royal Crescent (Traditional vernacular architecture)",
-            "Buckingham Palace (Traditional vernacular architecture)",
-            "The Tower of London (Traditional vernacular architecture)"
+            "Big Ben",
+            "The Royal Crescent",
+            "Buckingham Palace",
+            "The Tower of London"
           ],
           "answerIndex": 1,
           "explanation": "The Royal Crescent.",
@@ -11314,10 +11314,10 @@
         {
           "prompt": "Translate accurately: \"Historic timber-framed Tudor houses and golden limestone Cotswold cottages embody Britain's rich architectural heritage.\"",
           "options": [
-            "Historic timber-framed Tudor houses and golden limestone Cotswold cottages embody Britain's rich architectural heritage. (Traditional vernacular architecture)",
-            "Tudor houses were built solely of concrete. (Traditional vernacular architecture)",
-            "Thatch roofs provide no insulation. (Traditional vernacular architecture)",
-            "Britain has no historical cottages. (Traditional vernacular architecture)"
+            "Historic timber-framed Tudor houses and golden limestone Cotswold cottages embody Britain's rich architectural heritage.",
+            "Tudor houses were built solely of concrete.",
+            "Thatch roofs provide no insulation.",
+            "Britain has no historical cottages."
           ],
           "answerIndex": 0,
           "explanation": "Accurate architectural history translation.",
@@ -11354,10 +11354,10 @@
         {
           "prompt": "What is a rented plot of community land used by British citizens to grow vegetables and flowers called?",
           "options": [
-            "A motorway (British gardening  allotment culture)",
-            "An allotment (British gardening  allotment culture)",
-            "A shopping precinct (British gardening  allotment culture)",
-            "A parking lot (British gardening  allotment culture)"
+            "A motorway",
+            "An allotment",
+            "A shopping precinct",
+            "A parking lot"
           ],
           "answerIndex": 1,
           "explanation": "An allotment."
@@ -11369,10 +11369,10 @@
         {
           "prompt": "Which world-famous botanical garden in London is a UNESCO World Heritage site housing over 50,000 living plants?",
           "options": [
-            "Royal Botanic Gardens, Kew (British gardening  allotment culture)",
-            "Trafalgar Square (British gardening  allotment culture)",
-            "Piccadilly Circus (British gardening  allotment culture)",
-            "Hyde Park corner only (British gardening  allotment culture)"
+            "Royal Botanic Gardens, Kew",
+            "Trafalgar Square",
+            "Piccadilly Circus",
+            "Hyde Park corner only"
           ],
           "answerIndex": 0,
           "explanation": "Kew Gardens."
@@ -11384,10 +11384,10 @@
         {
           "prompt": "What prestigious annual gardening and floral event organized by the Royal Horticultural Society is celebrated globally every May in London?",
           "options": [
-            "The RHS Chelsea Flower Show (British gardening  allotment culture)",
-            "The Lord Mayor's Show (British gardening  allotment culture)",
-            "The Boat Race (British gardening  allotment culture)",
-            "The FA Cup Final (British gardening  allotment culture)"
+            "The RHS Chelsea Flower Show",
+            "The Lord Mayor's Show",
+            "The Boat Race",
+            "The FA Cup Final"
           ],
           "answerIndex": 0,
           "explanation": "The RHS Chelsea Flower Show.",
@@ -11396,10 +11396,10 @@
         {
           "prompt": "Translate accurately: \"Cultivating organic vegetables in local allotments and creating biodiverse home gardens promotes community health and ecological biodiversity.\"",
           "options": [
-            "Allotments are prohibited in the UK. (British gardening  allotment culture)",
-            "Home gardens must contain no plants. (British gardening  allotment culture)",
-            "Gardening has no environmental benefits. (British gardening  allotment culture)",
-            "Cultivating organic vegetables in local allotments and creating biodiverse home gardens promotes community health and ecological biodiversity. (British gardening  allotment culture)"
+            "Allotments are prohibited in the UK.",
+            "Home gardens must contain no plants.",
+            "Gardening has no environmental benefits.",
+            "Cultivating organic vegetables in local allotments and creating biodiverse home gardens promotes community health and ecological biodiversity."
           ],
           "answerIndex": 3,
           "explanation": "Accurate gardening culture translation.",
@@ -11436,10 +11436,10 @@
         {
           "prompt": "Which landmark zero-carbon social housing Passivhaus development in Norwich won the prestigious RIBA Stirling Prize in 2019?",
           "options": [
-            "Goldsmith Street (Smart  Sustainable British Homes)",
-            "The Shard (Smart  Sustainable British Homes)",
-            "Canary Wharf (Smart  Sustainable British Homes)",
-            "Battersea Power Station (Smart  Sustainable British Homes)"
+            "Goldsmith Street",
+            "The Shard",
+            "Canary Wharf",
+            "Battersea Power Station"
           ],
           "answerIndex": 0,
           "explanation": "Goldsmith Street."
@@ -11451,10 +11451,10 @@
         {
           "prompt": "What digital device installed in UK homes automatically communicates energy usage and enables dynamic cheap tariffs?",
           "options": [
-            "An analogue clock (Smart  Sustainable British Homes)",
-            "A manual fuse box (Smart  Sustainable British Homes)",
-            "A radio antenna (Smart  Sustainable British Homes)",
-            "A smart meter (Smart  Sustainable British Homes)"
+            "An analogue clock",
+            "A manual fuse box",
+            "A radio antenna",
+            "A smart meter"
           ],
           "answerIndex": 3,
           "explanation": "A smart meter."
@@ -11466,10 +11466,10 @@
         {
           "prompt": "What renewable heating technology extracts thermal energy from outside air to provide home heating and hot water?",
           "options": [
-            "A gas fire only (Smart  Sustainable British Homes)",
-            "A coal grate (Smart  Sustainable British Homes)",
-            "An open kerosene burner (Smart  Sustainable British Homes)",
-            "An Air Source Heat Pump (Smart  Sustainable British Homes)"
+            "A gas fire only",
+            "A coal grate",
+            "An open kerosene burner",
+            "An Air Source Heat Pump"
           ],
           "answerIndex": 3,
           "explanation": "An Air Source Heat Pump (ASHP).",
@@ -11478,10 +11478,10 @@
         {
           "prompt": "Translate accurately: \"Ultra-insulated Passivhaus architecture combined with smart energy tariffs and heat pumps drastically cuts household carbon footprints.\"",
           "options": [
-            "Smart tariffs increase carbon emissions. (Smart  Sustainable British Homes)",
-            "Passive houses consume excessive fossil fuel energy. (Smart  Sustainable British Homes)",
-            "Ultra-insulated Passivhaus architecture combined with smart energy tariffs and heat pumps drastically cuts household carbon footprints. (Smart  Sustainable British Homes)",
-            "Heat pumps cannot heat residential buildings. (Smart  Sustainable British Homes)"
+            "Smart tariffs increase carbon emissions.",
+            "Passive houses consume excessive fossil fuel energy.",
+            "Ultra-insulated Passivhaus architecture combined with smart energy tariffs and heat pumps drastically cuts household carbon footprints.",
+            "Heat pumps cannot heat residential buildings."
           ],
           "answerIndex": 2,
           "explanation": "Accurate sustainable home statement translation.",
@@ -11518,10 +11518,10 @@
         {
           "prompt": "What is the UK statutory automated tax withholding system deducted directly from employee monthly payslips?",
           "options": [
-            "VAT (The UK job market LinkedIn)",
-            "Stamp Duty (The UK job market LinkedIn)",
-            "Inheritance Tax (The UK job market LinkedIn)",
-            "PAYE (The UK job market LinkedIn)"
+            "VAT",
+            "Stamp Duty",
+            "Inheritance Tax",
+            "PAYE"
           ],
           "answerIndex": 3,
           "explanation": "PAYE (Pay As You Earn)."
@@ -11533,10 +11533,10 @@
         {
           "prompt": "What official document is provided by UK employers at the end of every tax year summarising total pay and tax deducted?",
           "options": [
-            "Driving licence (The UK job market LinkedIn)",
-            "Train ticket (The UK job market LinkedIn)",
-            "Library card (The UK job market LinkedIn)",
-            "Form P60 (The UK job market LinkedIn)"
+            "Driving licence",
+            "Train ticket",
+            "Library card",
+            "Form P60"
           ],
           "answerIndex": 3,
           "explanation": "Form P60."
@@ -11548,10 +11548,10 @@
         {
           "prompt": "What is the statutory minimum combined contribution percentage for UK workplace pension auto-enrolment schemes?",
           "options": [
-            "0% (The UK job market LinkedIn)",
-            "50% (The UK job market LinkedIn)",
-            "8% total (The UK job market LinkedIn)",
-            "1% only (The UK job market LinkedIn)"
+            "0%",
+            "50%",
+            "8% total",
+            "1% only"
           ],
           "answerIndex": 2,
           "explanation": "8% total.",
@@ -11560,10 +11560,10 @@
         {
           "prompt": "Translate accurately: \"The employee signed a permanent contract with comprehensive private healthcare and matched workplace pension contributions.\"",
           "options": [
-            "The employment contract provides no pension benefits. (The UK job market LinkedIn)",
-            "The employee signed a permanent contract with comprehensive private healthcare and matched workplace pension contributions. (The UK job market LinkedIn)",
-            "The worker was dismissed without notice. (The UK job market LinkedIn)",
-            "Salary is paid only in cash without tax records. (The UK job market LinkedIn)"
+            "The employment contract provides no pension benefits.",
+            "The employee signed a permanent contract with comprehensive private healthcare and matched workplace pension contributions.",
+            "The worker was dismissed without notice.",
+            "Salary is paid only in cash without tax records."
           ],
           "answerIndex": 1,
           "explanation": "Accurate employment contract translation.",
@@ -11600,10 +11600,10 @@
         {
           "prompt": "What is the classic polite British phrase used in offices when offering to make tea or coffee for colleagues?",
           "options": [
-            "\"Shall I put the kettle on? / Who wants a brew?\" (British workplace culture)",
-            "\"Go to the cafeteria\" (British workplace culture)",
-            "\"Get me a drink now\" (British workplace culture)",
-            "\"Stop working immediately\" (British workplace culture)"
+            "\"Shall I put the kettle on? / Who wants a brew?\"",
+            "\"Go to the cafeteria\"",
+            "\"Get me a drink now\"",
+            "\"Stop working immediately\""
           ],
           "answerIndex": 0,
           "explanation": "\"Shall I put the kettle on?\""
@@ -11615,10 +11615,10 @@
         {
           "prompt": "What is the standard, polite professional sign-off used at the conclusion of formal British business emails?",
           "options": [
-            "\"Kind regards\" (British workplace culture)",
-            "\"Cheerio forever\" (British workplace culture)",
-            "\"Goodbye quickly\" (British workplace culture)",
-            "\"No response needed\" (British workplace culture)"
+            "\"Kind regards\"",
+            "\"Cheerio forever\"",
+            "\"Goodbye quickly\"",
+            "\"No response needed\""
           ],
           "answerIndex": 0,
           "explanation": "\"Kind regards\"."
@@ -11630,10 +11630,10 @@
         {
           "prompt": "What informal social tradition takes place at the end of the working week among UK office colleagues?",
           "options": [
-            "Mandatory overtime exams (British workplace culture)",
-            "Friday afternoon pub drinks at the local pub (British workplace culture)",
-            "Silent meditation only (British workplace culture)",
-            "Boardroom inspections (British workplace culture)"
+            "Mandatory overtime exams",
+            "Friday afternoon pub drinks at the local pub",
+            "Silent meditation only",
+            "Boardroom inspections"
           ],
           "answerIndex": 1,
           "explanation": "Friday pub drinks.",
@@ -11642,10 +11642,10 @@
         {
           "prompt": "Translate accurately: \"Polite communication, courteous tea rounds, and informal post-work pub gatherings build strong workplace collaboration.\"",
           "options": [
-            "Polite communication, courteous tea rounds, and informal post-work pub gatherings build strong workplace collaboration. (British workplace culture)",
-            "Colleagues must not speak to each other socially. (British workplace culture)",
-            "Email politeness is considered rude. (British workplace culture)",
-            "Tea breaks are strictly banned in British workplaces. (British workplace culture)"
+            "Polite communication, courteous tea rounds, and informal post-work pub gatherings build strong workplace collaboration.",
+            "Colleagues must not speak to each other socially.",
+            "Email politeness is considered rude.",
+            "Tea breaks are strictly banned in British workplaces."
           ],
           "answerIndex": 0,
           "explanation": "Accurate workplace culture translation.",
@@ -11682,10 +11682,10 @@
         {
           "prompt": "What is the statutory minimum paid annual leave entitlement for full-time workers in the UK per year?",
           "options": [
-            "5 days (Statutory employment rights in the UK)",
-            "28 days (Statutory employment rights in the UK)",
-            "10 days (Statutory employment rights in the UK)",
-            "Zero days (Statutory employment rights in the UK)"
+            "5 days",
+            "28 days",
+            "10 days",
+            "Zero days"
           ],
           "answerIndex": 1,
           "explanation": "28 days (5.6 weeks)."
@@ -11697,10 +11697,10 @@
         {
           "prompt": "What is the maximum duration of statutory maternity leave that a mother can take under UK law?",
           "options": [
-            "Up to 52 weeks (Statutory employment rights in the UK)",
-            "6 months only (Statutory employment rights in the UK)",
-            "2 weeks only (Statutory employment rights in the UK)",
-            "10 weeks (Statutory employment rights in the UK)"
+            "Up to 52 weeks",
+            "6 months only",
+            "2 weeks only",
+            "10 weeks"
           ],
           "answerIndex": 0,
           "explanation": "Up to 52 weeks."
@@ -11712,10 +11712,10 @@
         {
           "prompt": "How many years of continuous service must an employee typically have with an employer to qualify for statutory redundancy pay?",
           "options": [
-            "At least 2 years of continuous service (Statutory employment rights in the UK)",
-            "1 month (Statutory employment rights in the UK)",
-            "50 years (Statutory employment rights in the UK)",
-            "10 years (Statutory employment rights in the UK)"
+            "At least 2 years of continuous service",
+            "1 month",
+            "50 years",
+            "10 years"
           ],
           "answerIndex": 0,
           "explanation": "At least 2 years.",
@@ -11724,10 +11724,10 @@
         {
           "prompt": "Translate accurately: \"Comprehensive statutory holiday entitlements and protected parental leave policies safeguard employee welfare across the UK.\"",
           "options": [
-            "Maternity leave results in immediate termination. (Statutory employment rights in the UK)",
-            "UK workers receive no paid annual leave. (Statutory employment rights in the UK)",
-            "Redundancy pay is legally prohibited. (Statutory employment rights in the UK)",
-            "Comprehensive statutory holiday entitlements and protected parental leave policies safeguard employee welfare across the UK. (Statutory employment rights in the UK)"
+            "Maternity leave results in immediate termination.",
+            "UK workers receive no paid annual leave.",
+            "Redundancy pay is legally prohibited.",
+            "Comprehensive statutory holiday entitlements and protected parental leave policies safeguard employee welfare across the UK."
           ],
           "answerIndex": 3,
           "explanation": "Accurate employment rights translation.",
@@ -11764,10 +11764,10 @@
         {
           "prompt": "Which London-headquartered AI research lab created AlphaFold and was awarded the 2024 Nobel Prize in Chemistry?",
           "options": [
-            "Royal Mail AI (London as the FinTech Capital of Europe)",
-            "Google DeepMind (London as the FinTech Capital of Europe)",
-            "London Underground Tech (London as the FinTech Capital of Europe)",
-            "British Telecom Labs (London as the FinTech Capital of Europe)"
+            "Royal Mail AI",
+            "Google DeepMind",
+            "London Underground Tech",
+            "British Telecom Labs"
           ],
           "answerIndex": 1,
           "explanation": "Google DeepMind."
@@ -11779,10 +11779,10 @@
         {
           "prompt": "Which famous London-founded global fintech super-app is valued at over $45 billion with tens of millions of users worldwide?",
           "options": [
-            "Kodak (London as the FinTech Capital of Europe)",
-            "Revolut (London as the FinTech Capital of Europe)",
-            "Woolworths (London as the FinTech Capital of Europe)",
-            "Blockbuster (London as the FinTech Capital of Europe)"
+            "Kodak",
+            "Revolut",
+            "Woolworths",
+            "Blockbuster"
           ],
           "answerIndex": 1,
           "explanation": "Revolut."
@@ -11794,10 +11794,10 @@
         {
           "prompt": "What famous technology roundabout and cluster in East London (Shoreditch/Old Street) became the symbol of the UK startup boom?",
           "options": [
-            "Piccadilly Circus (London as the FinTech Capital of Europe)",
-            "Marble Arch (London as the FinTech Capital of Europe)",
-            "Trafalgar Square (London as the FinTech Capital of Europe)",
-            "Silicon Roundabout (London as the FinTech Capital of Europe)"
+            "Piccadilly Circus",
+            "Marble Arch",
+            "Trafalgar Square",
+            "Silicon Roundabout"
           ],
           "answerIndex": 3,
           "explanation": "Silicon Roundabout.",
@@ -11806,10 +11806,10 @@
         {
           "prompt": "Translate accurately: \"Pioneering financial technology innovations and Nobel Prize-winning artificial intelligence breakthroughs establish London as a premier global tech powerhouse.\"",
           "options": [
-            "London produces no technological innovation. (London as the FinTech Capital of Europe)",
-            "DeepMind does not conduct AI research. (London as the FinTech Capital of Europe)",
-            "Pioneering financial technology innovations and Nobel Prize-winning artificial intelligence breakthroughs establish London as a premier global tech powerhouse. (London as the FinTech Capital of Europe)",
-            "FinTech companies are banned in the UK. (London as the FinTech Capital of Europe)"
+            "London produces no technological innovation.",
+            "DeepMind does not conduct AI research.",
+            "Pioneering financial technology innovations and Nobel Prize-winning artificial intelligence breakthroughs establish London as a premier global tech powerhouse.",
+            "FinTech companies are banned in the UK."
           ],
           "answerIndex": 2,
           "explanation": "Accurate tech ecosystem translation.",
@@ -11846,10 +11846,10 @@
         {
           "prompt": "Which British semiconductor architecture giant founded in Cambridge designs the processor architecture in over 99% of all smartphones globally?",
           "options": [
-            "ARM Holdings (Global British corporate titans)",
-            "Intel Corporation (Global British corporate titans)",
-            "Texas Instruments (Global British corporate titans)",
-            "Nvidia headquarters (Global British corporate titans)"
+            "ARM Holdings",
+            "Intel Corporation",
+            "Texas Instruments",
+            "Nvidia headquarters"
           ],
           "answerIndex": 0,
           "explanation": "ARM Holdings."
@@ -11861,10 +11861,10 @@
         {
           "prompt": "Which British engineering titan manufactures the world-famous Trent jet engines powering modern widebody passenger airliners?",
           "options": [
-            "British Leyland (Global British corporate titans)",
-            "Austin Motors (Global British corporate titans)",
-            "Rover (Global British corporate titans)",
-            "Rolls-Royce Aerospace (Global British corporate titans)"
+            "British Leyland",
+            "Austin Motors",
+            "Rover",
+            "Rolls-Royce Aerospace"
           ],
           "answerIndex": 3,
           "explanation": "Rolls-Royce Aerospace."
@@ -11876,10 +11876,10 @@
         {
           "prompt": "Which British-Swedish biopharmaceutical giant based in Cambridge developed global oncology therapies and worldwide vaccines?",
           "options": [
-            "Tesco (Global British corporate titans)",
-            "Harrods (Global British corporate titans)",
-            "AstraZeneca (Global British corporate titans)",
-            "Marks & Spencer (Global British corporate titans)"
+            "Tesco",
+            "Harrods",
+            "AstraZeneca",
+            "Marks & Spencer"
           ],
           "answerIndex": 2,
           "explanation": "AstraZeneca.",
@@ -11888,10 +11888,10 @@
         {
           "prompt": "Translate accurately: \"Ultra-efficient semiconductor processor architectures and advanced aerospace jet engines define the global industrial leadership of British engineering.\"",
           "options": [
-            "Britain produces no semiconductor designs. (Global British corporate titans)",
-            "Ultra-efficient semiconductor processor architectures and advanced aerospace jet engines define the global industrial leadership of British engineering. (Global British corporate titans)",
-            "ARM processors are not used in mobile phones. (Global British corporate titans)",
-            "Rolls-Royce only manufactures luxury cars. (Global British corporate titans)"
+            "Britain produces no semiconductor designs.",
+            "Ultra-efficient semiconductor processor architectures and advanced aerospace jet engines define the global industrial leadership of British engineering.",
+            "ARM processors are not used in mobile phones.",
+            "Rolls-Royce only manufactures luxury cars."
           ],
           "answerIndex": 1,
           "explanation": "Accurate industrial engineering translation.",
@@ -11928,10 +11928,10 @@
         {
           "prompt": "Which 95-mile stretch of coastline in Dorset and East Devon is inscribed as a UNESCO World Heritage site for exposing 185 million years of continuous geological history?",
           "options": [
-            "The White Cliffs of Dover only (British natural landscapes)",
-            "The Thames Estuary (British natural landscapes)",
-            "Blackpool Pleasure Beach (British natural landscapes)",
-            "The Jurassic Coast (British natural landscapes)"
+            "The White Cliffs of Dover only",
+            "The Thames Estuary",
+            "Blackpool Pleasure Beach",
+            "The Jurassic Coast"
           ],
           "answerIndex": 3,
           "explanation": "The Jurassic Coast."
@@ -11943,10 +11943,10 @@
         {
           "prompt": "What vast Scottish blanket peat bog holds more carbon than all UK and French forests combined and was inscribed on the UNESCO World Heritage list?",
           "options": [
-            "Hyde Park (British natural landscapes)",
-            "Sherwood Forest (British natural landscapes)",
-            "Epping Forest (British natural landscapes)",
-            "The Flow Country (British natural landscapes)"
+            "Hyde Park",
+            "Sherwood Forest",
+            "Epping Forest",
+            "The Flow Country"
           ],
           "answerIndex": 3,
           "explanation": "The Flow Country."
@@ -11958,10 +11958,10 @@
         {
           "prompt": "Translate: \"Reintroducing native Eurasian beavers to British rivers creates natural wetland habitats and significantly mitigates downstream flooding.\"",
           "options": [
-            "Beavers cause massive industrial pollution. (British natural landscapes)",
-            "Reintroducing native Eurasian beavers to British rivers creates natural wetland habitats and significantly mitigates downstream flooding. (British natural landscapes)",
-            "There are no rivers in Great Britain. (British natural landscapes)",
-            "The Lake District is an artificial concrete reservoir. (British natural landscapes)"
+            "Beavers cause massive industrial pollution.",
+            "Reintroducing native Eurasian beavers to British rivers creates natural wetland habitats and significantly mitigates downstream flooding.",
+            "There are no rivers in Great Britain.",
+            "The Lake District is an artificial concrete reservoir."
           ],
           "answerIndex": 1,
           "explanation": "Accurate British ecology and rewilding translation.",
@@ -11970,10 +11970,10 @@
         {
           "prompt": "Which English Romantic poet lived at Dove Cottage in the Lake District, immortalizing the relationship between nature and human imagination in his verse?",
           "options": [
-            "William Wordsworth (British natural landscapes)",
-            "William Shakespeare (British natural landscapes)",
-            "Charles Dickens (British natural landscapes)",
-            "George Orwell (British natural landscapes)"
+            "William Wordsworth",
+            "William Shakespeare",
+            "Charles Dickens",
+            "George Orwell"
           ],
           "answerIndex": 0,
           "explanation": "William Wordsworth.",
@@ -12010,10 +12010,10 @@
         {
           "prompt": "Which massive offshore wind complex in the North Sea is recognized as the largest offshore wind farm in the world with a 3.6 GW capacity?",
           "options": [
-            "Dogger Bank Wind Farm (UK Offshore wind revolution)",
-            "Hoover Wind (UK Offshore wind revolution)",
-            "Cape Wind (UK Offshore wind revolution)",
-            "Three Gorges Dam (UK Offshore wind revolution)"
+            "Dogger Bank Wind Farm",
+            "Hoover Wind",
+            "Cape Wind",
+            "Three Gorges Dam"
           ],
           "answerIndex": 0,
           "explanation": "Dogger Bank Wind Farm."
@@ -12025,10 +12025,10 @@
         {
           "prompt": "In September 2024, what historic milestone did Great Britain achieve as the first G7 country to do so?",
           "options": [
-            "Completely phased out and ended all coal-fired electricity generation (UK Offshore wind revolution)",
-            "Banned electric vehicles (UK Offshore wind revolution)",
-            "Reopened Victorian coal mines (UK Offshore wind revolution)",
-            "Shut down all wind turbines (UK Offshore wind revolution)"
+            "Completely phased out and ended all coal-fired electricity generation",
+            "Banned electric vehicles",
+            "Reopened Victorian coal mines",
+            "Shut down all wind turbines"
           ],
           "answerIndex": 0,
           "explanation": "Completely ended all coal-fired electricity generation."
@@ -12040,10 +12040,10 @@
         {
           "prompt": "Translate: \"Deploying high-voltage direct current subsea interconnectors links British offshore wind to the European continental grid.\"",
           "options": [
-            "Deploying high-voltage direct current subsea interconnectors links British offshore wind to the European continental grid. (UK Offshore wind revolution)",
-            "Dogger Bank is an abandoned oil platform. (UK Offshore wind revolution)",
-            "Wind power cannot generate electricity in the North Sea. (UK Offshore wind revolution)",
-            "The UK relies exclusively on coal power. (UK Offshore wind revolution)"
+            "Deploying high-voltage direct current subsea interconnectors links British offshore wind to the European continental grid.",
+            "Dogger Bank is an abandoned oil platform.",
+            "Wind power cannot generate electricity in the North Sea.",
+            "The UK relies exclusively on coal power."
           ],
           "answerIndex": 0,
           "explanation": "Accurate energy transmission translation.",
@@ -12052,10 +12052,10 @@
         {
           "prompt": "What public clean energy company was established by the UK government to co-invest in floating offshore wind, tidal stream, and green hydrogen?",
           "options": [
-            "British Petroleum only (UK Offshore wind revolution)",
-            "National Coal Board (UK Offshore wind revolution)",
-            "British Leyland (UK Offshore wind revolution)",
-            "Great British Energy (UK Offshore wind revolution)"
+            "British Petroleum only",
+            "National Coal Board",
+            "British Leyland",
+            "Great British Energy"
           ],
           "answerIndex": 3,
           "explanation": "Great British Energy.",
@@ -12092,10 +12092,10 @@
         {
           "prompt": "Which Scottish marine strait with ferocious 10-knot tidal currents hosts the world's largest commercial subsea tidal turbine array (MeyGen)?",
           "options": [
-            "English Channel (Tidal and marine energy in the UK)",
-            "Pentland Firth (Tidal and marine energy in the UK)",
-            "Loch Ness (Tidal and marine energy in the UK)",
-            "Bristol Channel (Tidal and marine energy in the UK)"
+            "English Channel",
+            "Pentland Firth",
+            "Loch Ness",
+            "Bristol Channel"
           ],
           "answerIndex": 1,
           "explanation": "Pentland Firth."
@@ -12107,10 +12107,10 @@
         {
           "prompt": "What premier marine test facility in the Orkney Islands tests cutting-edge wave and tidal power devices in open sea conditions?",
           "options": [
-            "European Marine Energy Centre (Tidal and marine energy in the UK)",
-            "Met Office (Tidal and marine energy in the UK)",
-            "CERN (Tidal and marine energy in the UK)",
-            "NASA (Tidal and marine energy in the UK)"
+            "European Marine Energy Centre",
+            "Met Office",
+            "CERN",
+            "NASA"
           ],
           "answerIndex": 0,
           "explanation": "European Marine Energy Centre (EMEC)."
@@ -12122,10 +12122,10 @@
         {
           "prompt": "Translate: \"Subsea tidal turbines harness the gravitational pull of the moon to generate perfectly predictable, zero-carbon baseload electricity.\"",
           "options": [
-            "MeyGen was built inside a coal mine. (Tidal and marine energy in the UK)",
-            "There are no tidal currents around the British Isles. (Tidal and marine energy in the UK)",
-            "Tidal energy depends entirely on sunny weather. (Tidal and marine energy in the UK)",
-            "Subsea tidal turbines harness the gravitational pull of the moon to generate perfectly predictable, zero-carbon baseload electricity. (Tidal and marine energy in the UK)"
+            "MeyGen was built inside a coal mine.",
+            "There are no tidal currents around the British Isles.",
+            "Tidal energy depends entirely on sunny weather.",
+            "Subsea tidal turbines harness the gravitational pull of the moon to generate perfectly predictable, zero-carbon baseload electricity."
           ],
           "answerIndex": 3,
           "explanation": "Accurate tidal energy translation.",
@@ -12134,10 +12134,10 @@
         {
           "prompt": "Why is tidal stream power uniquely advantageous compared to solar and wind energy?",
           "options": [
-            "It requires diesel fuel (Tidal and marine energy in the UK)",
-            "It produces nuclear isotopes (Tidal and marine energy in the UK)",
-            "It is 100% predictable years in advance based on lunar orbital cycles (Tidal and marine energy in the UK)",
-            "It only works at midnight (Tidal and marine energy in the UK)"
+            "It requires diesel fuel",
+            "It produces nuclear isotopes",
+            "It is 100% predictable years in advance based on lunar orbital cycles",
+            "It only works at midnight"
           ],
           "answerIndex": 2,
           "explanation": "100% predictable based on lunar cycles.",
@@ -12174,10 +12174,10 @@
         {
           "prompt": "Which 3,500-acre estate in West Sussex became a global rewilding sensation by converting intensive farmland into a biodiverse natural wilderness?",
           "options": [
-            "Hyde Park (Regenerative farming)",
-            "Knepp Castle Estate (Regenerative farming)",
-            "Kew Gardens only (Regenerative farming)",
-            "Buckingham Palace grounds (Regenerative farming)"
+            "Hyde Park",
+            "Knepp Castle Estate",
+            "Kew Gardens only",
+            "Buckingham Palace grounds"
           ],
           "answerIndex": 1,
           "explanation": "Knepp Castle Estate."
@@ -12189,10 +12189,10 @@
         {
           "prompt": "What is the core principle of the UK's Environmental Land Management schemes (ELMs) replacing old agricultural subsidies?",
           "options": [
-            "Payment per square foot of concrete (Regenerative farming)",
-            "\"Public Money for Public Goods\" (Regenerative farming)",
-            "Mandatory clear-cutting (Regenerative farming)",
-            "Subsidies for chemical dumping (Regenerative farming)"
+            "Payment per square foot of concrete",
+            "\"Public Money for Public Goods\"",
+            "Mandatory clear-cutting",
+            "Subsidies for chemical dumping"
           ],
           "answerIndex": 1,
           "explanation": "\"Public Money for Public Goods\"."
@@ -12204,10 +12204,10 @@
         {
           "prompt": "Translate: \"Rooting Tamworth pigs disturb the soil and create dynamic micro-habitats where rare nightingales and turtle doves thrive.\"",
           "options": [
-            "White storks cannot breed in Europe. (Regenerative farming)",
-            "The Knepp Estate is an industrial parking lot. (Regenerative farming)",
-            "Rooting Tamworth pigs disturb the soil and create dynamic micro-habitats where rare nightingales and turtle doves thrive. (Regenerative farming)",
-            "Intensive chemical farming increases nightingale populations. (Regenerative farming)"
+            "White storks cannot breed in Europe.",
+            "The Knepp Estate is an industrial parking lot.",
+            "Rooting Tamworth pigs disturb the soil and create dynamic micro-habitats where rare nightingales and turtle doves thrive.",
+            "Intensive chemical farming increases nightingale populations."
           ],
           "answerIndex": 2,
           "explanation": "Accurate agro-ecological translation.",
@@ -12216,10 +12216,10 @@
         {
           "prompt": "Which large white bird nested and hatched chicks in England at Knepp in 2020 for the first time in over 600 years?",
           "options": [
-            "Golden Eagle (Regenerative farming)",
-            "White Stork (Regenerative farming)",
-            "Ostrich (Regenerative farming)",
-            "Penguin (Regenerative farming)"
+            "Golden Eagle",
+            "White Stork",
+            "Ostrich",
+            "Penguin"
           ],
           "answerIndex": 1,
           "explanation": "White Stork.",
@@ -12338,10 +12338,10 @@
         {
           "prompt": "Who was the visionary British Minister of Health who founded the National Health Service (NHS) on July 5, 1948?",
           "options": [
-            "Winston Churchill (The National Health Service NHS)",
-            "William Beveridge only (The National Health Service NHS)",
-            "Margaret Thatcher (The National Health Service NHS)",
-            "Aneurin Bevan (The National Health Service NHS)"
+            "Winston Churchill",
+            "William Beveridge only",
+            "Margaret Thatcher",
+            "Aneurin Bevan"
           ],
           "answerIndex": 3,
           "explanation": "Aneurin Bevan."
@@ -12353,10 +12353,10 @@
         {
           "prompt": "What is the core founding principle of the British NHS distinguishing it from insurance-based models?",
           "options": [
-            "Mandatory private co-pays for every visit (The National Health Service NHS)",
-            "Exclusion of low-income families (The National Health Service NHS)",
-            "Universal healthcare completely free at the point of delivery based on clinical need (The National Health Service NHS)",
-            "Commercial market auctions (The National Health Service NHS)"
+            "Mandatory private co-pays for every visit",
+            "Exclusion of low-income families",
+            "Universal healthcare completely free at the point of delivery based on clinical need",
+            "Commercial market auctions"
           ],
           "answerIndex": 2,
           "explanation": "Free at the point of delivery based on clinical need."
@@ -12368,10 +12368,10 @@
         {
           "prompt": "Translate: \"Tax-funded universal healthcare ensures that catastrophic medical emergencies do not result in personal bankruptcy for patients and their families.\"",
           "options": [
-            "Tax-funded universal healthcare ensures that catastrophic medical emergencies do not result in personal bankruptcy for patients and their families. (The National Health Service NHS)",
-            "The NHS was abolished in 1950. (The National Health Service NHS)",
-            "Aneurin Bevan opposed public medicine. (The National Health Service NHS)",
-            "Healthcare in the UK requires upfront cash deposits in emergencies. (The National Health Service NHS)"
+            "Tax-funded universal healthcare ensures that catastrophic medical emergencies do not result in personal bankruptcy for patients and their families.",
+            "The NHS was abolished in 1950.",
+            "Aneurin Bevan opposed public medicine.",
+            "Healthcare in the UK requires upfront cash deposits in emergencies."
           ],
           "answerIndex": 0,
           "explanation": "Accurate NHS translation.",
@@ -12380,10 +12380,10 @@
         {
           "prompt": "What famous 1942 social report outlined the plan to slay the \"Five Giant Evils\" (Want, Disease, Ignorance, Squalor, and Idleness) in British society?",
           "options": [
-            "The Balfour Declaration (The National Health Service NHS)",
-            "The Magna Carta (The National Health Service NHS)",
-            "The Domesday Book (The National Health Service NHS)",
-            "The Beveridge Report (The National Health Service NHS)"
+            "The Balfour Declaration",
+            "The Magna Carta",
+            "The Domesday Book",
+            "The Beveridge Report"
           ],
           "answerIndex": 3,
           "explanation": "The Beveridge Report.",
@@ -12420,10 +12420,10 @@
         {
           "prompt": "Which English country physician developed the world's first successful vaccine in 1796 using cowpox to confer immunity against smallpox?",
           "options": [
-            "Edward Jenner (British medical revolutions)",
-            "Charles Darwin (British medical revolutions)",
-            "Alexander Fleming (British medical revolutions)",
-            "Joseph Lister (British medical revolutions)"
+            "Edward Jenner",
+            "Charles Darwin",
+            "Alexander Fleming",
+            "Joseph Lister"
           ],
           "answerIndex": 0,
           "explanation": "Edward Jenner."
@@ -12435,10 +12435,10 @@
         {
           "prompt": "What first antibiotic drug was discovered by Scottish bacteriologist Alexander Fleming at St Mary's Hospital, London in 1928?",
           "options": [
-            "Penicillin (British medical revolutions)",
-            "Aspirin (British medical revolutions)",
-            "Insulin (British medical revolutions)",
-            "Morphine (British medical revolutions)"
+            "Penicillin",
+            "Aspirin",
+            "Insulin",
+            "Morphine"
           ],
           "answerIndex": 0,
           "explanation": "Penicillin."
@@ -12450,10 +12450,10 @@
         {
           "prompt": "Translate: \"Sterilizing surgical instruments with antiseptic carbolic acid transformed surgery from a lethal gamble into a safe, life-saving medical specialty.\"",
           "options": [
-            "Alexander Fleming discovered electricity. (British medical revolutions)",
-            "Smallpox is still widespread across the world today. (British medical revolutions)",
-            "Joseph Lister opposed handwashing in hospitals. (British medical revolutions)",
-            "Sterilizing surgical instruments with antiseptic carbolic acid transformed surgery from a lethal gamble into a safe, life-saving medical specialty. (British medical revolutions)"
+            "Alexander Fleming discovered electricity.",
+            "Smallpox is still widespread across the world today.",
+            "Joseph Lister opposed handwashing in hospitals.",
+            "Sterilizing surgical instruments with antiseptic carbolic acid transformed surgery from a lethal gamble into a safe, life-saving medical specialty."
           ],
           "answerIndex": 3,
           "explanation": "Accurate medical history translation.",
@@ -12462,10 +12462,10 @@
         {
           "prompt": "From which Latin word for \"cow\" did Edward Jenner derive the term \"vaccination\" based on his cowpox inoculation discovery?",
           "options": [
-            "Canis (British medical revolutions)",
-            "Equus (British medical revolutions)",
-            "Vacca (British medical revolutions)",
-            "Felis (British medical revolutions)"
+            "Canis",
+            "Equus",
+            "Vacca",
+            "Felis"
           ],
           "answerIndex": 2,
           "explanation": "Vacca (cow).",
@@ -12502,10 +12502,10 @@
         {
           "prompt": "Which British biophysicist at King's College London captured the critical X-ray diffraction \"Photo 51\" revealing the double-helical structure of DNA?",
           "options": [
-            "Rosalind Franklin (The Double Helix and genomics)",
-            "Ada Lovelace (The Double Helix and genomics)",
-            "Marie Curie only (The Double Helix and genomics)",
-            "Dorothy Hodgkin (The Double Helix and genomics)"
+            "Rosalind Franklin",
+            "Ada Lovelace",
+            "Marie Curie only",
+            "Dorothy Hodgkin"
           ],
           "answerIndex": 0,
           "explanation": "Rosalind Franklin."
@@ -12517,10 +12517,10 @@
         {
           "prompt": "Who is the British biochemist in Cambridge who won TWO Nobel Prizes in Chemistry (for insulin structure in 1958 and DNA sequencing in 1980)?",
           "options": [
-            "Fred Sanger (The Double Helix and genomics)",
-            "Stephen Hawking (The Double Helix and genomics)",
-            "Francis Crick (The Double Helix and genomics)",
-            "Ernest Rutherford (The Double Helix and genomics)"
+            "Fred Sanger",
+            "Stephen Hawking",
+            "Francis Crick",
+            "Ernest Rutherford"
           ],
           "answerIndex": 0,
           "explanation": "Fred Sanger."
@@ -12532,10 +12532,10 @@
         {
           "prompt": "Translate: \"Automated Sanger chain-termination sequencing powered the Human Genome Project, enabling the reading of all three billion base pairs of human DNA.\"",
           "options": [
-            "Fred Sanger never won a Nobel Prize. (The Double Helix and genomics)",
-            "Rosalind Franklin was an astronomer. (The Double Helix and genomics)",
-            "Automated Sanger chain-termination sequencing powered the Human Genome Project, enabling the reading of all three billion base pairs of human DNA. (The Double Helix and genomics)",
-            "DNA has a triple-cube structure. (The Double Helix and genomics)"
+            "Fred Sanger never won a Nobel Prize.",
+            "Rosalind Franklin was an astronomer.",
+            "Automated Sanger chain-termination sequencing powered the Human Genome Project, enabling the reading of all three billion base pairs of human DNA.",
+            "DNA has a triple-cube structure."
           ],
           "answerIndex": 2,
           "explanation": "Accurate genomics translation.",
@@ -12544,10 +12544,10 @@
         {
           "prompt": "What world-renowned genomic research institute near Cambridge is named after Fred Sanger and sequenced one-third of the original Human Genome Project?",
           "options": [
-            "The BBC Laboratory (The Double Helix and genomics)",
-            "The Wellcome Sanger Institute (The Double Helix and genomics)",
-            "The British Museum (The Double Helix and genomics)",
-            "The Royal Society only (The Double Helix and genomics)"
+            "The BBC Laboratory",
+            "The Wellcome Sanger Institute",
+            "The British Museum",
+            "The Royal Society only"
           ],
           "answerIndex": 1,
           "explanation": "The Wellcome Sanger Institute.",
@@ -12584,10 +12584,10 @@
         {
           "prompt": "Who was born on July 25, 1978 in Oldham, England as the world's first baby conceived through in vitro fertilization (IVF)?",
           "options": [
-            "Mary Warnock (Reproductive medicine and cloning)",
-            "Louise Brown (Reproductive medicine and cloning)",
-            "Rosalind Franklin (Reproductive medicine and cloning)",
-            "Dolly (Reproductive medicine and cloning)"
+            "Mary Warnock",
+            "Louise Brown",
+            "Rosalind Franklin",
+            "Dolly"
           ],
           "answerIndex": 1,
           "explanation": "Louise Brown."
@@ -12599,10 +12599,10 @@
         {
           "prompt": "What was the name of the famous sheep cloned from an adult somatic cell at the Roslin Institute in Edinburgh in 1996 by Sir Ian Wilmut?",
           "options": [
-            "Polly (Reproductive medicine and cloning)",
-            "Dolly the Sheep (Reproductive medicine and cloning)",
-            "Daisy (Reproductive medicine and cloning)",
-            "Molly (Reproductive medicine and cloning)"
+            "Polly",
+            "Dolly the Sheep",
+            "Daisy",
+            "Molly"
           ],
           "answerIndex": 1,
           "explanation": "Dolly the Sheep."
@@ -12614,10 +12614,10 @@
         {
           "prompt": "Translate: \"Somatic cell nuclear transfer proved that specialized adult cells retain the full genetic code required to generate a complete living organism.\"",
           "options": [
-            "Dolly the Sheep was a robotic mechanical device. (Reproductive medicine and cloning)",
-            "Somatic cell nuclear transfer proved that specialized adult cells retain the full genetic code required to generate a complete living organism. (Reproductive medicine and cloning)",
-            "Robert Edwards was awarded a Nobel Prize in Economics. (Reproductive medicine and cloning)",
-            "IVF babies cannot have children of their own. (Reproductive medicine and cloning)"
+            "Dolly the Sheep was a robotic mechanical device.",
+            "Somatic cell nuclear transfer proved that specialized adult cells retain the full genetic code required to generate a complete living organism.",
+            "Robert Edwards was awarded a Nobel Prize in Economics.",
+            "IVF babies cannot have children of their own."
           ],
           "answerIndex": 1,
           "explanation": "Accurate embryology translation.",
@@ -12626,10 +12626,10 @@
         {
           "prompt": "What statutory British regulatory body created in 1991 oversees human fertility treatment and embryo research in the UK?",
           "options": [
-            "Human Fertilisation and Embryology Authority (Reproductive medicine and cloning)",
-            "Ofsted (Reproductive medicine and cloning)",
-            "The General Medical Council only (Reproductive medicine and cloning)",
-            "The Bank of England (Reproductive medicine and cloning)"
+            "Human Fertilisation and Embryology Authority",
+            "Ofsted",
+            "The General Medical Council only",
+            "The Bank of England"
           ],
           "answerIndex": 0,
           "explanation": "Human Fertilisation and Embryology Authority (HFEA).",
@@ -12748,10 +12748,10 @@
         {
           "prompt": "Which British philosopher formulated the concept of the mind as a \"Tabula Rasa\" (blank slate) and defended natural rights to Life, Liberty, and Property?",
           "options": [
-            "Thomas Hobbes (Empiricism  Social Contract)",
-            "David Hume (Empiricism  Social Contract)",
-            "Francis Bacon (Empiricism  Social Contract)",
-            "John Locke (Empiricism  Social Contract)"
+            "Thomas Hobbes",
+            "David Hume",
+            "Francis Bacon",
+            "John Locke"
           ],
           "answerIndex": 3,
           "explanation": "John Locke."
@@ -12763,10 +12763,10 @@
         {
           "prompt": "What monumental political philosophy treatise was written by Thomas Hobbes in 1651 describing life in the state of nature as \"nasty, brutish, and short\"?",
           "options": [
-            "Two Treatises of Government (Empiricism  Social Contract)",
-            "Wealth of Nations (Empiricism  Social Contract)",
-            "Leviathan (Empiricism  Social Contract)",
-            "The Social Contract (Empiricism  Social Contract)"
+            "Two Treatises of Government",
+            "Wealth of Nations",
+            "Leviathan",
+            "The Social Contract"
           ],
           "answerIndex": 2,
           "explanation": "Leviathan."
@@ -12778,10 +12778,10 @@
         {
           "prompt": "Translate: \"David Hume demonstrated that moral values cannot be logically deduced from purely empirical factual observations, establishing the famous is-ought distinction.\"",
           "options": [
-            "The Tabula Rasa theory asserts that humans are born with innate knowledge. (Empiricism  Social Contract)",
-            "John Locke supported absolute monarchy without consent. (Empiricism  Social Contract)",
-            "Thomas Hobbes argued that humanity should abolish all laws. (Empiricism  Social Contract)",
-            "David Hume demonstrated that moral values cannot be logically deduced from purely empirical factual observations, establishing the famous is-ought distinction. (Empiricism  Social Contract)"
+            "The Tabula Rasa theory asserts that humans are born with innate knowledge.",
+            "John Locke supported absolute monarchy without consent.",
+            "Thomas Hobbes argued that humanity should abolish all laws.",
+            "David Hume demonstrated that moral values cannot be logically deduced from purely empirical factual observations, establishing the famous is-ought distinction."
           ],
           "answerIndex": 3,
           "explanation": "Accurate British empiricism translation.",
@@ -12790,10 +12790,10 @@
         {
           "prompt": "What Scottish Enlightenment philosopher in Edinburgh formulated the \"Problem of Induction\" questioning the rational justification for cause-and-effect assumptions?",
           "options": [
-            "Thomas Reid (Empiricism  Social Contract)",
-            "Adam Smith (Empiricism  Social Contract)",
-            "David Hume (Empiricism  Social Contract)",
-            "Francis Hutcheson (Empiricism  Social Contract)"
+            "Thomas Reid",
+            "Adam Smith",
+            "David Hume",
+            "Francis Hutcheson"
           ],
           "answerIndex": 2,
           "explanation": "David Hume.",
@@ -12830,10 +12830,10 @@
         {
           "prompt": "Which philosopher authored the foundational 1859 classic «On Liberty», formulating the Harm Principle to protect individual autonomy from state tyranny?",
           "options": [
-            "John Stuart Mill (Utilitarianism  Liberty)",
-            "Adam Smith (Utilitarianism  Liberty)",
-            "Jeremy Bentham (Utilitarianism  Liberty)",
-            "Herbert Spencer (Utilitarianism  Liberty)"
+            "John Stuart Mill",
+            "Adam Smith",
+            "Jeremy Bentham",
+            "Herbert Spencer"
           ],
           "answerIndex": 0,
           "explanation": "John Stuart Mill."
@@ -12845,10 +12845,10 @@
         {
           "prompt": "What foundational ethical principle was established by Jeremy Bentham to judge the moral goodness of laws and actions?",
           "options": [
-            "The Greatest Happiness for the Greatest Number (Utilitarianism  Liberty)",
-            "The Divine Right of Kings (Utilitarianism  Liberty)",
-            "Categorical Duty only (Utilitarianism  Liberty)",
-            "Survival of the Fittest (Utilitarianism  Liberty)"
+            "The Greatest Happiness for the Greatest Number",
+            "The Divine Right of Kings",
+            "Categorical Duty only",
+            "Survival of the Fittest"
           ],
           "answerIndex": 0,
           "explanation": "The Principle of Utility."
@@ -12860,10 +12860,10 @@
         {
           "prompt": "Translate: \"The Harm Principle asserts that an individual's own physical or moral good is never a sufficient warrant for the state to compel their behavior.\"",
           "options": [
-            "Jeremy Bentham opposed animal rights. (Utilitarianism  Liberty)",
-            "John Stuart Mill believed all pleasures are completely identical in quality. (Utilitarianism  Liberty)",
-            "The Harm Principle asserts that an individual's own physical or moral good is never a sufficient warrant for the state to compel their behavior. (Utilitarianism  Liberty)",
-            "On Liberty was written to justify state censorship. (Utilitarianism  Liberty)"
+            "Jeremy Bentham opposed animal rights.",
+            "John Stuart Mill believed all pleasures are completely identical in quality.",
+            "The Harm Principle asserts that an individual's own physical or moral good is never a sufficient warrant for the state to compel their behavior.",
+            "On Liberty was written to justify state censorship."
           ],
           "answerIndex": 2,
           "explanation": "Accurate utilitarian liberty translation.",
@@ -12872,10 +12872,10 @@
         {
           "prompt": "What groundbreaking 1869 treatise did John Stuart Mill publish, co-developed with Harriet Taylor Mill, demanding full legal equality and voting rights for women?",
           "options": [
-            "A Vindication of the Rights of Woman (Utilitarianism  Liberty)",
-            "The Subjection of Women (Utilitarianism  Liberty)",
-            "The Common Law (Utilitarianism  Liberty)",
-            "Das Kapital (Utilitarianism  Liberty)"
+            "A Vindication of the Rights of Woman",
+            "The Subjection of Women",
+            "The Common Law",
+            "Das Kapital"
           ],
           "answerIndex": 1,
           "explanation": "The Subjection of Women.",
@@ -12912,10 +12912,10 @@
         {
           "prompt": "Which Austrian-British philosopher authored both the Tractatus Logico-Philosophicus and Philosophical Investigations in Cambridge?",
           "options": [
-            "Ludwig Wittgenstein (Analytical Philosophy  Logicism)",
-            "Bertrand Russell (Analytical Philosophy  Logicism)",
-            "Karl Popper (Analytical Philosophy  Logicism)",
-            "G.E. Moore (Analytical Philosophy  Logicism)"
+            "Ludwig Wittgenstein",
+            "Bertrand Russell",
+            "Karl Popper",
+            "G.E. Moore"
           ],
           "answerIndex": 0,
           "explanation": "Ludwig Wittgenstein."
@@ -12927,10 +12927,10 @@
         {
           "prompt": "What foundational thesis defines late Wittgenstein's philosophy regarding the nature of linguistic meaning?",
           "options": [
-            "Meaning is use within social language-games (Analytical Philosophy  Logicism)",
-            "Only numbers have meaning (Analytical Philosophy  Logicism)",
-            "Words are permanent eternal essences (Analytical Philosophy  Logicism)",
-            "Language is purely private and interior (Analytical Philosophy  Logicism)"
+            "Meaning is use within social language-games",
+            "Only numbers have meaning",
+            "Words are permanent eternal essences",
+            "Language is purely private and interior"
           ],
           "answerIndex": 0,
           "explanation": "Meaning is use in social language-games."
@@ -12942,10 +12942,10 @@
         {
           "prompt": "Translate: \"Russell's paradox demonstrated an intrinsic contradiction in naive set theory, compelling mathematicians to reconstruct the logical foundations of arithmetic.\"",
           "options": [
-            "Wittgenstein believed philosophy should construct grand metaphysical dogmas. (Analytical Philosophy  Logicism)",
-            "Russell's paradox demonstrated an intrinsic contradiction in naive set theory, compelling mathematicians to reconstruct the logical foundations of arithmetic. (Analytical Philosophy  Logicism)",
-            "Bertrand Russell won the Nobel Prize in Physics. (Analytical Philosophy  Logicism)",
-            "Principia Mathematica is a collection of fictional short stories. (Analytical Philosophy  Logicism)"
+            "Wittgenstein believed philosophy should construct grand metaphysical dogmas.",
+            "Russell's paradox demonstrated an intrinsic contradiction in naive set theory, compelling mathematicians to reconstruct the logical foundations of arithmetic.",
+            "Bertrand Russell won the Nobel Prize in Physics.",
+            "Principia Mathematica is a collection of fictional short stories."
           ],
           "answerIndex": 1,
           "explanation": "Accurate analytical philosophy translation.",
@@ -12954,10 +12954,10 @@
         {
           "prompt": "What famous concluding proposition 7 of Wittgenstein's *Tractatus Logico-Philosophicus* defines the boundary of meaningful speech?",
           "options": [
-            "«Whereof one cannot speak, thereof one must be silent» (Analytical Philosophy  Logicism)",
-            "«The unexamined life is not worth living» (Analytical Philosophy  Logicism)",
-            "«God is dead» (Analytical Philosophy  Logicism)",
-            "«I think, therefore I am» (Analytical Philosophy  Logicism)"
+            "«Whereof one cannot speak, thereof one must be silent»",
+            "«The unexamined life is not worth living»",
+            "«God is dead»",
+            "«I think, therefore I am»"
           ],
           "answerIndex": 0,
           "explanation": "«Whereof one cannot speak, thereof one must be silent».",
@@ -12994,10 +12994,10 @@
         {
           "prompt": "Which monumental 1922 modernist novel by James Joyce chronicles Leopold Bloom's wanderings across Dublin on June 16, 1904?",
           "options": [
-            "Finnegans Wake (Modernist Stream of Consciousness  Temporal Flux)",
-            "Ulysses (Modernist Stream of Consciousness  Temporal Flux)",
-            "A Portrait of the Artist as a Young Man (Modernist Stream of Consciousness  Temporal Flux)",
-            "Dubliners (Modernist Stream of Consciousness  Temporal Flux)"
+            "Finnegans Wake",
+            "Ulysses",
+            "A Portrait of the Artist as a Young Man",
+            "Dubliners"
           ],
           "answerIndex": 1,
           "explanation": "Ulysses."
@@ -13009,10 +13009,10 @@
         {
           "prompt": "What seminal 1929 feminist essay by Virginia Woolf famously argued that \"a woman must have money and a room of her own if she is to write fiction\"?",
           "options": [
-            "Orlando (Modernist Stream of Consciousness  Temporal Flux)",
-            "A Room of One's Own (Modernist Stream of Consciousness  Temporal Flux)",
-            "The Waves (Modernist Stream of Consciousness  Temporal Flux)",
-            "Three Guineas (Modernist Stream of Consciousness  Temporal Flux)"
+            "Orlando",
+            "A Room of One's Own",
+            "The Waves",
+            "Three Guineas"
           ],
           "answerIndex": 1,
           "explanation": "A Room of One's Own."
@@ -13024,10 +13024,10 @@
         {
           "prompt": "Translate: \"Modernist stream of consciousness captures the psychological reality of human experience, where past memories and sensory impressions intermingle in the present moment.\"",
           "options": [
-            "Modernist stream of consciousness captures the psychological reality of human experience, where past memories and sensory impressions intermingle in the present moment. (Modernist Stream of Consciousness  Temporal Flux)",
-            "Virginia Woolf opposed women receiving higher education. (Modernist Stream of Consciousness  Temporal Flux)",
-            "Mrs Dalloway is a detective murder mystery. (Modernist Stream of Consciousness  Temporal Flux)",
-            "Ulysses is a factual telephone directory of Dublin. (Modernist Stream of Consciousness  Temporal Flux)"
+            "Modernist stream of consciousness captures the psychological reality of human experience, where past memories and sensory impressions intermingle in the present moment.",
+            "Virginia Woolf opposed women receiving higher education.",
+            "Mrs Dalloway is a detective murder mystery.",
+            "Ulysses is a factual telephone directory of Dublin."
           ],
           "answerIndex": 0,
           "explanation": "Accurate modernist literary analysis translation.",
@@ -13036,10 +13036,10 @@
         {
           "prompt": "What painter protagonist in Virginia Woolf's *To the Lighthouse* finally completes her canvas with a single stroke in the closing line: \"I have had my vision\"?",
           "options": [
-            "Clarissa Dalloway (Modernist Stream of Consciousness  Temporal Flux)",
-            "Mrs. Ramsay (Modernist Stream of Consciousness  Temporal Flux)",
-            "Molly Bloom (Modernist Stream of Consciousness  Temporal Flux)",
-            "Lily Briscoe (Modernist Stream of Consciousness  Temporal Flux)"
+            "Clarissa Dalloway",
+            "Mrs. Ramsay",
+            "Molly Bloom",
+            "Lily Briscoe"
           ],
           "answerIndex": 3,
           "explanation": "Lily Briscoe.",
@@ -13094,7 +13094,7 @@
             "Civil law vs Criminal law (C2 synthesis on Critical Rationalism  The Open Society)",
             "Direct democracy vs Representative democracy (C2 synthesis on Critical Rationalism  The Open Society)",
             "Monarchy vs Republic (C2 synthesis on Critical Rationalism  The Open Society)",
-            "Negative Liberty (Freedom from interference)"
+            "Negative Liberty"
           ],
           "answerIndex": 3,
           "explanation": "Negative Liberty vs Positive Liberty."
@@ -13158,10 +13158,10 @@
         {
           "prompt": "Which polymath and architect redesigned St Paul's Cathedral and 51 churches after the Great Fire of London in 1666?",
           "options": [
-            "Inigo Jones (Baroque Rebirth of London)",
-            "Nicholas Hawksmoor (Baroque Rebirth of London)",
-            "Sir John Vanbrugh (Baroque Rebirth of London)",
-            "Sir Christopher Wren (Baroque Rebirth of London)"
+            "Inigo Jones",
+            "Nicholas Hawksmoor",
+            "Sir John Vanbrugh",
+            "Sir Christopher Wren"
           ],
           "answerIndex": 3,
           "explanation": "Sir Christopher Wren."
@@ -13173,10 +13173,10 @@
         {
           "prompt": "What structural innovation inside St Paul's Cathedral carries the massive 850-ton exterior stone lantern atop the roof?",
           "options": [
-            "Solid wood pillars (Baroque Rebirth of London)",
-            "Steel cables from America (Baroque Rebirth of London)",
-            "A hidden structural brick cone between the inner and outer domes (Baroque Rebirth of London)",
-            "Concrete buttresses (Baroque Rebirth of London)"
+            "Solid wood pillars",
+            "Steel cables from America",
+            "A hidden structural brick cone between the inner and outer domes",
+            "Concrete buttresses"
           ],
           "answerIndex": 2,
           "explanation": "A hidden structural brick cone."
@@ -13188,10 +13188,10 @@
         {
           "prompt": "Translate: \"Wren's latin epitaph in the crypt of St Paul's proclaims: Reader, if you seek his monument, look around you.\"",
           "options": [
-            "Christopher Wren was an Impressionist painter. (Baroque Rebirth of London)",
-            "St Paul's Cathedral was demolished in 1700. (Baroque Rebirth of London)",
-            "Wren's latin epitaph in the crypt of St Paul's proclaims: Reader, if you seek his monument, look around you. (Baroque Rebirth of London)",
-            "The Great Fire of London occurred in the 19th century. (Baroque Rebirth of London)"
+            "Christopher Wren was an Impressionist painter.",
+            "St Paul's Cathedral was demolished in 1700.",
+            "Wren's latin epitaph in the crypt of St Paul's proclaims: Reader, if you seek his monument, look around you.",
+            "The Great Fire of London occurred in the 19th century."
           ],
           "answerIndex": 2,
           "explanation": "Accurate architectural history translation.",
@@ -13200,10 +13200,10 @@
         {
           "prompt": "What acoustic feature around the base of the inner dome of St Paul's transmits whispers across the 33-meter diameter?",
           "options": [
-            "The Echo Chamber (Baroque Rebirth of London)",
-            "The Whispering Gallery (Baroque Rebirth of London)",
-            "The Resonant Arch (Baroque Rebirth of London)",
-            "The Sound Well (Baroque Rebirth of London)"
+            "The Echo Chamber",
+            "The Whispering Gallery",
+            "The Resonant Arch",
+            "The Sound Well"
           ],
           "answerIndex": 1,
           "explanation": "The Whispering Gallery.",
@@ -13240,10 +13240,10 @@
         {
           "prompt": "Which master British painter is celebrated as the \"Painter of Light\" for masterpieces like The Fighting Temeraire and Rain, Steam and Speed?",
           "options": [
-            "J.M.W. Turner (Master of Atmospheric Light  Vapor)",
-            "Thomas Gainsborough (Master of Atmospheric Light  Vapor)",
-            "John Constable (Master of Atmospheric Light  Vapor)",
-            "William Blake (Master of Atmospheric Light  Vapor)"
+            "J.M.W. Turner",
+            "Thomas Gainsborough",
+            "John Constable",
+            "William Blake"
           ],
           "answerIndex": 0,
           "explanation": "J.M.W. Turner."
@@ -13255,10 +13255,10 @@
         {
           "prompt": "What historic transition is allegorized in Turner's *The Fighting Temeraire* as the wooden warship is towed into the sunset?",
           "options": [
-            "The transition from the romantic age of sail to the industrial age of steam (Master of Atmospheric Light  Vapor)",
-            "The discovery of America (Master of Atmospheric Light  Vapor)",
-            "The defeat of the Spanish Armada (Master of Atmospheric Light  Vapor)",
-            "The invention of airplanes (Master of Atmospheric Light  Vapor)"
+            "The transition from the romantic age of sail to the industrial age of steam",
+            "The discovery of America",
+            "The defeat of the Spanish Armada",
+            "The invention of airplanes"
           ],
           "answerIndex": 0,
           "explanation": "The transition from sail to steam."
@@ -13270,10 +13270,10 @@
         {
           "prompt": "Translate: \"Turner dissolved structural contours into swirling vortexes of golden mist and steam, elevating the natural elements into metaphysical drama.\"",
           "options": [
-            "The Fighting Temeraire is a modern steel submarine. (Master of Atmospheric Light  Vapor)",
-            "Turner dissolved structural contours into swirling vortexes of golden mist and steam, elevating the natural elements into metaphysical drama. (Master of Atmospheric Light  Vapor)",
-            "John Ruskin strongly condemned Turner's art. (Master of Atmospheric Light  Vapor)",
-            "Turner rejected the use of oil paints. (Master of Atmospheric Light  Vapor)"
+            "The Fighting Temeraire is a modern steel submarine.",
+            "Turner dissolved structural contours into swirling vortexes of golden mist and steam, elevating the natural elements into metaphysical drama.",
+            "John Ruskin strongly condemned Turner's art.",
+            "Turner rejected the use of oil paints."
           ],
           "answerIndex": 1,
           "explanation": "Accurate art analysis translation.",
@@ -13282,10 +13282,10 @@
         {
           "prompt": "What prestigious annual British contemporary art prize awarded by the Tate is named in honor of J.M.W. Turner?",
           "options": [
-            "The Turner Prize (Master of Atmospheric Light  Vapor)",
-            "The Royal Academy Prize (Master of Atmospheric Light  Vapor)",
-            "The Booker Prize (Master of Atmospheric Light  Vapor)",
-            "The Constable Award (Master of Atmospheric Light  Vapor)"
+            "The Turner Prize",
+            "The Royal Academy Prize",
+            "The Booker Prize",
+            "The Constable Award"
           ],
           "answerIndex": 0,
           "explanation": "The Turner Prize.",
@@ -13322,10 +13322,10 @@
         {
           "prompt": "Which British designer and socialist thinker founded the Arts and Crafts Movement and Morris & Co. in the 19th century?",
           "options": [
-            "William Morris (The Arts and Crafts Movement)",
-            "John Ruskin (The Arts and Crafts Movement)",
-            "Charles Rennie Mackintosh (The Arts and Crafts Movement)",
-            "Josiah Wedgwood (The Arts and Crafts Movement)"
+            "William Morris",
+            "John Ruskin",
+            "Charles Rennie Mackintosh",
+            "Josiah Wedgwood"
           ],
           "answerIndex": 0,
           "explanation": "William Morris."
@@ -13337,10 +13337,10 @@
         {
           "prompt": "What famous domestic design motto was coined by William Morris regarding home furnishings?",
           "options": [
-            "«Have nothing in your houses that you do not know to be useful, or believe to be beautiful» (The Arts and Crafts Movement)",
-            "«More is always better» (The Arts and Crafts Movement)",
-            "«Form follows function alone» (The Arts and Crafts Movement)",
-            "«Buy cheap and replace fast» (The Arts and Crafts Movement)"
+            "«Have nothing in your houses that you do not know to be useful, or believe to be beautiful»",
+            "«More is always better»",
+            "«Form follows function alone»",
+            "«Buy cheap and replace fast»"
           ],
           "answerIndex": 0,
           "explanation": "«Have nothing in your houses that is not useful or beautiful»."
@@ -13352,10 +13352,10 @@
         {
           "prompt": "Translate: \"The Red House championed honest exposed red brick and bespoke artisan woodwork against mass-produced Victorian industrial ornamentation.\"",
           "options": [
-            "The Red House championed honest exposed red brick and bespoke artisan woodwork against mass-produced Victorian industrial ornamentation. (The Arts and Crafts Movement)",
-            "The Kelmscott Press was an underground political newspaper. (The Arts and Crafts Movement)",
-            "The Arts and Crafts movement banned handmade objects. (The Arts and Crafts Movement)",
-            "William Morris automated his factories with steam robots. (The Arts and Crafts Movement)"
+            "The Red House championed honest exposed red brick and bespoke artisan woodwork against mass-produced Victorian industrial ornamentation.",
+            "The Kelmscott Press was an underground political newspaper.",
+            "The Arts and Crafts movement banned handmade objects.",
+            "William Morris automated his factories with steam robots."
           ],
           "answerIndex": 0,
           "explanation": "Accurate design history translation.",
@@ -13364,10 +13364,10 @@
         {
           "prompt": "What famous 1883 textile and wallpaper pattern designed by William Morris depicts thrushes stealing fruit from kitchen garden bushes?",
           "options": [
-            "Acanthus (The Arts and Crafts Movement)",
-            "Golden Lily (The Arts and Crafts Movement)",
-            "Willow Bough (The Arts and Crafts Movement)",
-            "Strawberry Thief (The Arts and Crafts Movement)"
+            "Acanthus",
+            "Golden Lily",
+            "Willow Bough",
+            "Strawberry Thief"
           ],
           "answerIndex": 3,
           "explanation": "Strawberry Thief.",
@@ -13404,10 +13404,10 @@
         {
           "prompt": "Which British architect designed \"The Gherkin\" (30 St Mary Axe) and the glass dome of the Berlin Reichstag, winning the 1999 Pritzker Prize?",
           "options": [
-            "Sir David Chipperfield (HighTech Architecture  Sustainable Urbanism)",
-            "Lord Norman Foster (HighTech Architecture  Sustainable Urbanism)",
-            "Zaha Hadid (HighTech Architecture  Sustainable Urbanism)",
-            "Sir Richard Rogers (HighTech Architecture  Sustainable Urbanism)"
+            "Sir David Chipperfield",
+            "Lord Norman Foster",
+            "Zaha Hadid",
+            "Sir Richard Rogers"
           ],
           "answerIndex": 1,
           "explanation": "Lord Norman Foster."
@@ -13419,10 +13419,10 @@
         {
           "prompt": "What iconic \"inside-out\" building in the City of London was designed by Richard Rogers with external glass lifts and stainless steel service ducts?",
           "options": [
-            "Tower Bridge (HighTech Architecture  Sustainable Urbanism)",
-            "Lloyd's of London (HighTech Architecture  Sustainable Urbanism)",
-            "Bank of England (HighTech Architecture  Sustainable Urbanism)",
-            "The Shard (HighTech Architecture  Sustainable Urbanism)"
+            "Tower Bridge",
+            "Lloyd's of London",
+            "Bank of England",
+            "The Shard"
           ],
           "answerIndex": 1,
           "explanation": "Lloyd's of London."
@@ -13434,10 +13434,10 @@
         {
           "prompt": "Translate: \"The Gherkin's aerodynamic helical diagrid structure channels external airflows to provide natural passive ventilation, halving total building energy use.\"",
           "options": [
-            "The Centre Pompidou concealed all pipes inside concrete walls. (HighTech Architecture  Sustainable Urbanism)",
-            "Norman Foster designed only wooden log cabins. (HighTech Architecture  Sustainable Urbanism)",
-            "The Lloyd's building was demolished in 1990. (HighTech Architecture  Sustainable Urbanism)",
-            "The Gherkin's aerodynamic helical diagrid structure channels external airflows to provide natural passive ventilation, halving total building energy use. (HighTech Architecture  Sustainable Urbanism)"
+            "The Centre Pompidou concealed all pipes inside concrete walls.",
+            "Norman Foster designed only wooden log cabins.",
+            "The Lloyd's building was demolished in 1990.",
+            "The Gherkin's aerodynamic helical diagrid structure channels external airflows to provide natural passive ventilation, halving total building energy use."
           ],
           "answerIndex": 3,
           "explanation": "Accurate high-tech architecture translation.",
@@ -13446,10 +13446,10 @@
         {
           "prompt": "What landmark cultural renovation did Foster + Partners complete in 2000, enclosing the central courtyard of the British Museum with a tessellated glass roof?",
           "options": [
-            "Canary Wharf Station (HighTech Architecture  Sustainable Urbanism)",
-            "The Millennium Dome (HighTech Architecture  Sustainable Urbanism)",
-            "The Queen Elizabeth II Great Court (HighTech Architecture  Sustainable Urbanism)",
-            "Tate Modern Turbine Hall (HighTech Architecture  Sustainable Urbanism)"
+            "Canary Wharf Station",
+            "The Millennium Dome",
+            "The Queen Elizabeth II Great Court",
+            "Tate Modern Turbine Hall"
           ],
           "answerIndex": 2,
           "explanation": "The Queen Elizabeth II Great Court.",
@@ -13568,10 +13568,10 @@
         {
           "prompt": "Which British composer wrote the Enigma Variations (featuring Nimrod) and the iconic Cello Concerto in E minor?",
           "options": [
-            "Ralph Vaughan Williams (The English Musical Renaissance)",
-            "Benjamin Britten (The English Musical Renaissance)",
-            "Gustav Holst (The English Musical Renaissance)",
-            "Sir Edward Elgar (The English Musical Renaissance)"
+            "Ralph Vaughan Williams",
+            "Benjamin Britten",
+            "Gustav Holst",
+            "Sir Edward Elgar"
           ],
           "answerIndex": 3,
           "explanation": "Sir Edward Elgar."
@@ -13583,10 +13583,10 @@
         {
           "prompt": "Which legendary British cellist made the definitive, passionately fiery 1965 recording of Elgar's Cello Concerto with conductor John Barbirolli?",
           "options": [
-            "Mstislav Rostropovich (The English Musical Renaissance)",
-            "Jacqueline du Pré (The English Musical Renaissance)",
-            "Steven Isserlis (The English Musical Renaissance)",
-            "Sheku Kanneh-Mason (The English Musical Renaissance)"
+            "Mstislav Rostropovich",
+            "Jacqueline du Pré",
+            "Steven Isserlis",
+            "Sheku Kanneh-Mason"
           ],
           "answerIndex": 1,
           "explanation": "Jacqueline du Pré."
@@ -13598,10 +13598,10 @@
         {
           "prompt": "Translate: \"The Nimrod variation builds from a hushed, reverent string whisper into a soaring orchestral climax of profound emotional gratitude.\"",
           "options": [
-            "Elgar wrote only short military bugle calls. (The English Musical Renaissance)",
-            "The Nimrod variation builds from a hushed, reverent string whisper into a soaring orchestral climax of profound emotional gratitude. (The English Musical Renaissance)",
-            "The Enigma Variations were composed in New York. (The English Musical Renaissance)",
-            "Jacqueline du Pré was an opera singer. (The English Musical Renaissance)"
+            "Elgar wrote only short military bugle calls.",
+            "The Nimrod variation builds from a hushed, reverent string whisper into a soaring orchestral climax of profound emotional gratitude.",
+            "The Enigma Variations were composed in New York.",
+            "Jacqueline du Pré was an opera singer."
           ],
           "answerIndex": 1,
           "explanation": "Accurate symphonic analysis translation.",
@@ -13610,10 +13610,10 @@
         {
           "prompt": "What beloved national hymn text by A.C. Benson was set to the trio melody of Elgar's *Pomp and Circumstance March No. 1*?",
           "options": [
-            "«Land of Hope and Glory» (The English Musical Renaissance)",
-            "«Rule, Britannia!» (The English Musical Renaissance)",
-            "«Jerusalem» (The English Musical Renaissance)",
-            "«God Save the King» (The English Musical Renaissance)"
+            "«Land of Hope and Glory»",
+            "«Rule, Britannia!»",
+            "«Jerusalem»",
+            "«God Save the King»"
           ],
           "answerIndex": 0,
           "explanation": "«Land of Hope and Glory».",
@@ -13650,10 +13650,10 @@
         {
           "prompt": "Which British composer wrote \"The Lark Ascending\" for solo violin and orchestra and the \"Fantasia on a Theme by Thomas Tallis\"?",
           "options": [
-            "Ralph Vaughan Williams (Pastoral Folk Modality  English Strings)",
-            "William Walton (Pastoral Folk Modality  English Strings)",
-            "Sir Edward Elgar (Pastoral Folk Modality  English Strings)",
-            "Frederick Delius (Pastoral Folk Modality  English Strings)"
+            "Ralph Vaughan Williams",
+            "William Walton",
+            "Sir Edward Elgar",
+            "Frederick Delius"
           ],
           "answerIndex": 0,
           "explanation": "Ralph Vaughan Williams."
@@ -13665,10 +13665,10 @@
         {
           "prompt": "What unique string orchestra configuration did Vaughan Williams specify for his *Fantasia on a Theme by Thomas Tallis* in Gloucester Cathedral?",
           "options": [
-            "A double string orchestra plus a solo string quartet (Pastoral Folk Modality  English Strings)",
-            "A single string quartet only (Pastoral Folk Modality  English Strings)",
-            "A full brass band with strings (Pastoral Folk Modality  English Strings)",
-            "A string orchestra with electric bass (Pastoral Folk Modality  English Strings)"
+            "A double string orchestra plus a solo string quartet",
+            "A single string quartet only",
+            "A full brass band with strings",
+            "A string orchestra with electric bass"
           ],
           "answerIndex": 0,
           "explanation": "A double string orchestra plus a solo string quartet."
@@ -13680,10 +13680,10 @@
         {
           "prompt": "Translate: \"The solo violin in The Lark Ascending performs free cadenzas without bar lines, mimicking the effortless climbing trills of a bird disappearing into the clouds.\"",
           "options": [
-            "The solo violin in The Lark Ascending performs free cadenzas without bar lines, mimicking the effortless climbing trills of a bird disappearing into the clouds. (Pastoral Folk Modality  English Strings)",
-            "The Lark Ascending was composed for church organ solo. (Pastoral Folk Modality  English Strings)",
-            "Thomas Tallis lived in the 20th century. (Pastoral Folk Modality  English Strings)",
-            "Vaughan Williams banned the use of folk melodies. (Pastoral Folk Modality  English Strings)"
+            "The solo violin in The Lark Ascending performs free cadenzas without bar lines, mimicking the effortless climbing trills of a bird disappearing into the clouds.",
+            "The Lark Ascending was composed for church organ solo.",
+            "Thomas Tallis lived in the 20th century.",
+            "Vaughan Williams banned the use of folk melodies."
           ],
           "answerIndex": 0,
           "explanation": "Accurate orchestral analysis translation.",
@@ -13692,10 +13692,10 @@
         {
           "prompt": "Which 16th-century Tudor court composer wrote the Renaissance hymn tune used as the foundation for Vaughan Williams' famous string Fantasia in 1910?",
           "options": [
-            "William Byrd (Pastoral Folk Modality  English Strings)",
-            "John Dowland (Pastoral Folk Modality  English Strings)",
-            "Henry Purcell (Pastoral Folk Modality  English Strings)",
-            "Thomas Tallis (Pastoral Folk Modality  English Strings)"
+            "William Byrd",
+            "John Dowland",
+            "Henry Purcell",
+            "Thomas Tallis"
           ],
           "answerIndex": 3,
           "explanation": "Thomas Tallis.",
@@ -13732,10 +13732,10 @@
         {
           "prompt": "Which 20th-century British composer wrote the monumental \"War Requiem\" for the consecration of Coventry Cathedral and the opera \"Peter Grimes\"?",
           "options": [
-            "Benjamin Britten (The War Requiem  British Modern Opera)",
-            "Michael Tippett (The War Requiem  British Modern Opera)",
-            "William Walton (The War Requiem  British Modern Opera)",
-            "John Tavener (The War Requiem  British Modern Opera)"
+            "Benjamin Britten",
+            "Michael Tippett",
+            "William Walton",
+            "John Tavener"
           ],
           "answerIndex": 0,
           "explanation": "Benjamin Britten."
@@ -13747,10 +13747,10 @@
         {
           "prompt": "Whose tragic World War I anti-war poems were juxtaposed with the Latin Requiem Mass in Benjamin Britten's *War Requiem*?",
           "options": [
-            "Wilfred Owen (The War Requiem  British Modern Opera)",
-            "T.S. Eliot (The War Requiem  British Modern Opera)",
-            "Siegfried Sassoon (The War Requiem  British Modern Opera)",
-            "Rupert Brooke (The War Requiem  British Modern Opera)"
+            "Wilfred Owen",
+            "T.S. Eliot",
+            "Siegfried Sassoon",
+            "Rupert Brooke"
           ],
           "answerIndex": 0,
           "explanation": "Wilfred Owen."
@@ -13762,10 +13762,10 @@
         {
           "prompt": "Translate: \"Britten scored the chamber orchestra to accompany the intimate front-line poetry of soldiers, contrasting with the monumental symphonic chorus performing the Latin liturgy.\"",
           "options": [
-            "Britten was an officer in the Royal Navy. (The War Requiem  British Modern Opera)",
-            "Peter Grimes is an opera set in the Sahara Desert. (The War Requiem  British Modern Opera)",
-            "The War Requiem was composed in 1750. (The War Requiem  British Modern Opera)",
-            "Britten scored the chamber orchestra to accompany the intimate front-line poetry of soldiers, contrasting with the monumental symphonic chorus performing the Latin liturgy. (The War Requiem  British Modern Opera)"
+            "Britten was an officer in the Royal Navy.",
+            "Peter Grimes is an opera set in the Sahara Desert.",
+            "The War Requiem was composed in 1750.",
+            "Britten scored the chamber orchestra to accompany the intimate front-line poetry of soldiers, contrasting with the monumental symphonic chorus performing the Latin liturgy."
           ],
           "answerIndex": 3,
           "explanation": "Accurate operatic analysis translation.",
@@ -13774,10 +13774,10 @@
         {
           "prompt": "Which 17th-century English baroque composer's dance theme provided the subject for Britten's educational classic *The Young Person's Guide to the Orchestra*?",
           "options": [
-            "Thomas Morley (The War Requiem  British Modern Opera)",
-            "Orlando Gibbons (The War Requiem  British Modern Opera)",
-            "Henry Purcell (The War Requiem  British Modern Opera)",
-            "John Blow (The War Requiem  British Modern Opera)"
+            "Thomas Morley",
+            "Orlando Gibbons",
+            "Henry Purcell",
+            "John Blow"
           ],
           "answerIndex": 2,
           "explanation": "Henry Purcell.",
@@ -13814,10 +13814,10 @@
         {
           "prompt": "Which British composer created the monumental orchestral suite \"The Planets\", featuring Mars in 5/4 time and Jupiter?",
           "options": [
-            "Arnold Bax (Cosmic Mysticism  The Orchestral Solar System)",
-            "Gustav Holst (Cosmic Mysticism  The Orchestral Solar System)",
-            "Malcolm Arnold (Cosmic Mysticism  The Orchestral Solar System)",
-            "Arthur Bliss (Cosmic Mysticism  The Orchestral Solar System)"
+            "Arnold Bax",
+            "Gustav Holst",
+            "Malcolm Arnold",
+            "Arthur Bliss"
           ],
           "answerIndex": 1,
           "explanation": "Gustav Holst."
@@ -13829,10 +13829,10 @@
         {
           "prompt": "What innovative theatrical staging technique concludes \"Neptune, the Mystic\" in Holst's *The Planets* to create the illusion of infinite space?",
           "options": [
-            "The orchestra smashes their instruments (Cosmic Mysticism  The Orchestral Solar System)",
-            "A wordless offstage female choir whose room door is slowly closed into absolute silence (Cosmic Mysticism  The Orchestral Solar System)",
-            "A recorded tape player is unplugged (Cosmic Mysticism  The Orchestral Solar System)",
-            "The hall lights are turned off (Cosmic Mysticism  The Orchestral Solar System)"
+            "The orchestra smashes their instruments",
+            "A wordless offstage female choir whose room door is slowly closed into absolute silence",
+            "A recorded tape player is unplugged",
+            "The hall lights are turned off"
           ],
           "answerIndex": 1,
           "explanation": "A wordless offstage female choir whose room door is slowly closed."
@@ -13844,10 +13844,10 @@
         {
           "prompt": "Translate: \"Holst employed the unconventional 5/4 time signature and harsh brass polytonality in Mars to capture the mechanized brutality of impending industrial war.\"",
           "options": [
-            "Gustav Holst played the electric guitar. (Cosmic Mysticism  The Orchestral Solar System)",
-            "Jupiter was composed as a funeral march. (Cosmic Mysticism  The Orchestral Solar System)",
-            "Holst employed the unconventional 5/4 time signature and harsh brass polytonality in Mars to capture the mechanized brutality of impending industrial war. (Cosmic Mysticism  The Orchestral Solar System)",
-            "The Planets includes a movement for the planet Pluto. (Cosmic Mysticism  The Orchestral Solar System)"
+            "Gustav Holst played the electric guitar.",
+            "Jupiter was composed as a funeral march.",
+            "Holst employed the unconventional 5/4 time signature and harsh brass polytonality in Mars to capture the mechanized brutality of impending industrial war.",
+            "The Planets includes a movement for the planet Pluto."
           ],
           "answerIndex": 2,
           "explanation": "Accurate orchestral analysis translation.",
@@ -13856,10 +13856,10 @@
         {
           "prompt": "What traditional British patriotic and church hymn uses the noble central melody from Holst's *Jupiter*?",
           "options": [
-            "«Abide with Me» (Cosmic Mysticism  The Orchestral Solar System)",
-            "«I Vow to Thee, My Country» (Cosmic Mysticism  The Orchestral Solar System)",
-            "«Amazing Grace» (Cosmic Mysticism  The Orchestral Solar System)",
-            "«Jerusalem» (Cosmic Mysticism  The Orchestral Solar System)"
+            "«Abide with Me»",
+            "«I Vow to Thee, My Country»",
+            "«Amazing Grace»",
+            "«Jerusalem»"
           ],
           "answerIndex": 1,
           "explanation": "«I Vow to Thee, My Country».",
@@ -13978,10 +13978,10 @@
         {
           "prompt": "Which British filmmaker is universally known as the \"Master of Suspense\" for directing Vertigo, Rear Window, and Psycho?",
           "options": [
-            "Sir David Lean (The Master of Suspense  Pure Cinema)",
-            "Stanley Kubrick (The Master of Suspense  Pure Cinema)",
-            "Sir Ridley Scott (The Master of Suspense  Pure Cinema)",
-            "Sir Alfred Hitchcock (The Master of Suspense  Pure Cinema)"
+            "Sir David Lean",
+            "Stanley Kubrick",
+            "Sir Ridley Scott",
+            "Sir Alfred Hitchcock"
           ],
           "answerIndex": 3,
           "explanation": "Sir Alfred Hitchcock."
@@ -13993,10 +13993,10 @@
         {
           "prompt": "What optical camera technique, combining a camera dolly movement in one direction with a simultaneous lens zoom in the opposite direction, was invented for *Vertigo*?",
           "options": [
-            "Dutch Angle only (The Master of Suspense  Pure Cinema)",
-            "The Dolly Zoom / Vertigo Effect (The Master of Suspense  Pure Cinema)",
-            "Whip pan (The Master of Suspense  Pure Cinema)",
-            "Bullet time (The Master of Suspense  Pure Cinema)"
+            "Dutch Angle only",
+            "The Dolly Zoom / Vertigo Effect",
+            "Whip pan",
+            "Bullet time"
           ],
           "answerIndex": 1,
           "explanation": "The Dolly Zoom / Vertigo Effect."
@@ -14008,10 +14008,10 @@
         {
           "prompt": "Translate: \"Hitchcock defined suspense not as the sudden shock of a bomb exploding under a table, but as letting the audience know the bomb is ticking while the characters converse in blissful ignorance.\"",
           "options": [
-            "Hitchcock defined suspense not as the sudden shock of a bomb exploding under a table, but as letting the audience know the bomb is ticking while the characters converse in blissful ignorance. (The Master of Suspense  Pure Cinema)",
-            "Hitchcock directed only romantic musicals. (The Master of Suspense  Pure Cinema)",
-            "Vertigo was filmed in black and white with no actors. (The Master of Suspense  Pure Cinema)",
-            "Bernard Herrmann was a silent film clown. (The Master of Suspense  Pure Cinema)"
+            "Hitchcock defined suspense not as the sudden shock of a bomb exploding under a table, but as letting the audience know the bomb is ticking while the characters converse in blissful ignorance.",
+            "Hitchcock directed only romantic musicals.",
+            "Vertigo was filmed in black and white with no actors.",
+            "Bernard Herrmann was a silent film clown."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Hitchcock suspense theory translation.",
@@ -14020,10 +14020,10 @@
         {
           "prompt": "Which composer created the chilling, screeching violin score for the shower sequence in Hitchcock's *Psycho* (1960)?",
           "options": [
-            "Ennio Morricone (The Master of Suspense  Pure Cinema)",
-            "John Williams (The Master of Suspense  Pure Cinema)",
-            "Max Steiner (The Master of Suspense  Pure Cinema)",
-            "Bernard Herrmann (The Master of Suspense  Pure Cinema)"
+            "Ennio Morricone",
+            "John Williams",
+            "Max Steiner",
+            "Bernard Herrmann"
           ],
           "answerIndex": 3,
           "explanation": "Bernard Herrmann.",
@@ -14060,10 +14060,10 @@
         {
           "prompt": "Which British director won Academy Awards for directing the monumental 70mm cinematic epics \"Lawrence of Arabia\" (1962) and \"The Bridge on the River Kwai\"?",
           "options": [
-            "Sir David Lean (Monumental Cinematic Epics  Desert Horizons)",
-            "Michael Powell (Monumental Cinematic Epics  Desert Horizons)",
-            "Sir Richard Attenborough (Monumental Cinematic Epics  Desert Horizons)",
-            "Sir Carol Reed (Monumental Cinematic Epics  Desert Horizons)"
+            "Sir David Lean",
+            "Michael Powell",
+            "Sir Richard Attenborough",
+            "Sir Carol Reed"
           ],
           "answerIndex": 0,
           "explanation": "Sir David Lean."
@@ -14075,10 +14075,10 @@
         {
           "prompt": "What famous editing transition in *Lawrence of Arabia* cuts instantly from Peter O'Toole blowing out a lit match to the vast rising desert sun?",
           "options": [
-            "The Match Cut (Monumental Cinematic Epics  Desert Horizons)",
-            "A slow dissolve (Monumental Cinematic Epics  Desert Horizons)",
-            "A freeze frame (Monumental Cinematic Epics  Desert Horizons)",
-            "A spiral wipe (Monumental Cinematic Epics  Desert Horizons)"
+            "The Match Cut",
+            "A slow dissolve",
+            "A freeze frame",
+            "A spiral wipe"
           ],
           "answerIndex": 0,
           "explanation": "The Match Cut."
@@ -14090,10 +14090,10 @@
         {
           "prompt": "Translate: \"Freddie Young's 70mm cinematography captured the heat shimmers and mirages of the desert, framing human vulnerability against the vast geological scale of the landscape.\"",
           "options": [
-            "Lawrence of Arabia was filmed in a small indoor studio in Manchester. (Monumental Cinematic Epics  Desert Horizons)",
-            "David Lean directed only 10-second television commercials. (Monumental Cinematic Epics  Desert Horizons)",
-            "The Bridge on the River Kwai was an animated film. (Monumental Cinematic Epics  Desert Horizons)",
-            "Freddie Young's 70mm cinematography captured the heat shimmers and mirages of the desert, framing human vulnerability against the vast geological scale of the landscape. (Monumental Cinematic Epics  Desert Horizons)"
+            "Lawrence of Arabia was filmed in a small indoor studio in Manchester.",
+            "David Lean directed only 10-second television commercials.",
+            "The Bridge on the River Kwai was an animated film.",
+            "Freddie Young's 70mm cinematography captured the heat shimmers and mirages of the desert, framing human vulnerability against the vast geological scale of the landscape."
           ],
           "answerIndex": 3,
           "explanation": "Accurate epic cinema translation.",
@@ -14102,10 +14102,10 @@
         {
           "prompt": "Which French composer wrote the iconic, soaring orchestral theme for David Lean's *Lawrence of Arabia* and *Doctor Zhivago*?",
           "options": [
-            "Michel Legrand (Monumental Cinematic Epics  Desert Horizons)",
-            "Georges Delerue (Monumental Cinematic Epics  Desert Horizons)",
-            "Maurice Jarre (Monumental Cinematic Epics  Desert Horizons)",
-            "Alexandre Desplat (Monumental Cinematic Epics  Desert Horizons)"
+            "Michel Legrand",
+            "Georges Delerue",
+            "Maurice Jarre",
+            "Alexandre Desplat"
           ],
           "answerIndex": 2,
           "explanation": "Maurice Jarre.",
@@ -14142,10 +14142,10 @@
         {
           "prompt": "Which master filmmaker directed \"2001: A Space Odyssey\" (1968), \"The Shining\" (1980), and \"Barry Lyndon\" (1975) with obsessive symmetrical precision?",
           "options": [
-            "Stanley Kubrick (Symmetrical Perfection  Cosmic Precision)",
-            "Ridley Scott (Symmetrical Perfection  Cosmic Precision)",
-            "Christopher Nolan (Symmetrical Perfection  Cosmic Precision)",
-            "Francis Ford Coppola (Symmetrical Perfection  Cosmic Precision)"
+            "Stanley Kubrick",
+            "Ridley Scott",
+            "Christopher Nolan",
+            "Francis Ford Coppola"
           ],
           "answerIndex": 0,
           "explanation": "Stanley Kubrick."
@@ -14157,10 +14157,10 @@
         {
           "prompt": "What specialized camera lenses, developed for NASA Apollo moon missions, were used by Kubrick to film *Barry Lyndon* entirely by natural candlelight?",
           "options": [
-            "Ultra-fast f/0.7 Zeiss lenses (Symmetrical Perfection  Cosmic Precision)",
-            "Polaroid lenses (Symmetrical Perfection  Cosmic Precision)",
-            "Standard iPhone lenses (Symmetrical Perfection  Cosmic Precision)",
-            "Plastic pinhole lenses (Symmetrical Perfection  Cosmic Precision)"
+            "Ultra-fast f/0.7 Zeiss lenses",
+            "Polaroid lenses",
+            "Standard iPhone lenses",
+            "Plastic pinhole lenses"
           ],
           "answerIndex": 0,
           "explanation": "Ultra-fast f/0.7 Zeiss lenses."
@@ -14172,10 +14172,10 @@
         {
           "prompt": "Translate: \"The transition from a prehistoric hominid hurling an animal bone into the air to an orbiting nuclear satellite represents the most audacious temporal jump-cut in cinema history.\"",
           "options": [
-            "2001: A Space Odyssey is a silent comedy about farming. (Symmetrical Perfection  Cosmic Precision)",
-            "Stanley Kubrick used only shaky handheld iPhone video. (Symmetrical Perfection  Cosmic Precision)",
-            "The transition from a prehistoric hominid hurling an animal bone into the air to an orbiting nuclear satellite represents the most audacious temporal jump-cut in cinema history. (Symmetrical Perfection  Cosmic Precision)",
-            "The Overlook Hotel was built on the moon. (Symmetrical Perfection  Cosmic Precision)"
+            "2001: A Space Odyssey is a silent comedy about farming.",
+            "Stanley Kubrick used only shaky handheld iPhone video.",
+            "The transition from a prehistoric hominid hurling an animal bone into the air to an orbiting nuclear satellite represents the most audacious temporal jump-cut in cinema history.",
+            "The Overlook Hotel was built on the moon."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Kubrick cinematic analysis translation.",
@@ -14184,10 +14184,10 @@
         {
           "prompt": "What calm, rogue artificial intelligence system controls the Discovery One spacecraft in Kubrick's *2001: A Space Odyssey*?",
           "options": [
-            "Skynet (Symmetrical Perfection  Cosmic Precision)",
-            "HAL 9000 (Symmetrical Perfection  Cosmic Precision)",
-            "Jarvis (Symmetrical Perfection  Cosmic Precision)",
-            "Deep Blue (Symmetrical Perfection  Cosmic Precision)"
+            "Skynet",
+            "HAL 9000",
+            "Jarvis",
+            "Deep Blue"
           ],
           "answerIndex": 1,
           "explanation": "HAL 9000.",
@@ -14224,10 +14224,10 @@
         {
           "prompt": "Which British visionary director created the cyberpunk landmark \"Blade Runner\" (1982) and the sci-fi horror masterpiece \"Alien\" (1979)?",
           "options": [
-            "Paul Verhoeven (SciFi Dystopias  WorldBuilding)",
-            "James Cameron (SciFi Dystopias  WorldBuilding)",
-            "Sir Ridley Scott (SciFi Dystopias  WorldBuilding)",
-            "Christopher Nolan (SciFi Dystopias  WorldBuilding)"
+            "Paul Verhoeven",
+            "James Cameron",
+            "Sir Ridley Scott",
+            "Christopher Nolan"
           ],
           "answerIndex": 2,
           "explanation": "Sir Ridley Scott."
@@ -14239,10 +14239,10 @@
         {
           "prompt": "Which Dutch actor portrayed replicant leader Roy Batty in *Blade Runner*, delivering the immortal \"Tears in Rain\" rooftop monologue?",
           "options": [
-            "Edward James Olmos (SciFi Dystopias  WorldBuilding)",
-            "Rutger Hauer (SciFi Dystopias  WorldBuilding)",
-            "Rutger Hauer (Distractor variant)",
-            "Harrison Ford (SciFi Dystopias  WorldBuilding)"
+            "Edward James Olmos",
+            "Rutger Hauer",
+            "Rutger Hauer (C)",
+            "Harrison Ford"
           ],
           "answerIndex": 1,
           "explanation": "Rutger Hauer."
@@ -14254,10 +14254,10 @@
         {
           "prompt": "Translate: \"Blade Runner combined 1940s film noir detective tropes with dense urban futurism, questioning what defines authentic human consciousness versus artificial replication.\"",
           "options": [
-            "Ridley Scott directed only silent Westerns. (SciFi Dystopias  WorldBuilding)",
-            "Blade Runner combined 1940s film noir detective tropes with dense urban futurism, questioning what defines authentic human consciousness versus artificial replication. (SciFi Dystopias  WorldBuilding)",
-            "Roy Batty was a human chef from Paris. (SciFi Dystopias  WorldBuilding)",
-            "Alien is a documentary about gardening. (SciFi Dystopias  WorldBuilding)"
+            "Ridley Scott directed only silent Westerns.",
+            "Blade Runner combined 1940s film noir detective tropes with dense urban futurism, questioning what defines authentic human consciousness versus artificial replication.",
+            "Roy Batty was a human chef from Paris.",
+            "Alien is a documentary about gardening."
           ],
           "answerIndex": 1,
           "explanation": "Accurate sci-fi cinema translation.",
@@ -14266,10 +14266,10 @@
         {
           "prompt": "Which Swiss surrealist artist designed the biomechanical Xenomorph creature for Ridley Scott's 1979 film *Alien*?",
           "options": [
-            "H.R. Giger (SciFi Dystopias  WorldBuilding)",
-            "Max Ernst (SciFi Dystopias  WorldBuilding)",
-            "René Magritte (SciFi Dystopias  WorldBuilding)",
-            "Salvador Dalí (SciFi Dystopias  WorldBuilding)"
+            "H.R. Giger",
+            "Max Ernst",
+            "René Magritte",
+            "Salvador Dalí"
           ],
           "answerIndex": 0,
           "explanation": "H.R. Giger.",
@@ -14388,10 +14388,10 @@
         {
           "prompt": "Which English playwright wrote Hamlet, King Lear, and Macbeth, performing at London's Globe Theatre in 1599?",
           "options": [
-            "Christopher Marlowe (The Bard of Avon  The Globe Theatre)",
-            "Ben Jonson (The Bard of Avon  The Globe Theatre)",
-            "John Webster (The Bard of Avon  The Globe Theatre)",
-            "William Shakespeare (The Bard of Avon  The Globe Theatre)"
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "John Webster",
+            "William Shakespeare"
           ],
           "answerIndex": 3,
           "explanation": "William Shakespeare."
@@ -14403,10 +14403,10 @@
         {
           "prompt": "What metrical rhythm, consisting of five metrical feet of an unstressed syllable followed by a stressed syllable, defines Shakespearean blank verse?",
           "options": [
-            "Trochaic Hexameter (The Bard of Avon  The Globe Theatre)",
-            "Iambic Pentameter (The Bard of Avon  The Globe Theatre)",
-            "Dactylic Tetrameter (The Bard of Avon  The Globe Theatre)",
-            "Anapestic Trimeter (The Bard of Avon  The Globe Theatre)"
+            "Trochaic Hexameter",
+            "Iambic Pentameter",
+            "Dactylic Tetrameter",
+            "Anapestic Trimeter"
           ],
           "answerIndex": 1,
           "explanation": "Iambic Pentameter."
@@ -14418,10 +14418,10 @@
         {
           "prompt": "Translate: \"Hamlet's soliloquy contemplates whether it is nobler to endure the existential suffering of mortal existence or to choose annihilation against an ocean of troubles.\"",
           "options": [
-            "Macbeth is a comedic poem about farming. (The Bard of Avon  The Globe Theatre)",
-            "Shakespeare wrote only short comic television advertisements. (The Bard of Avon  The Globe Theatre)",
-            "The Globe Theatre was built of concrete and steel in 1990. (The Bard of Avon  The Globe Theatre)",
-            "Hamlet's soliloquy contemplates whether it is nobler to endure the existential suffering of mortal existence or to choose annihilation against an ocean of troubles. (The Bard of Avon  The Globe Theatre)"
+            "Macbeth is a comedic poem about farming.",
+            "Shakespeare wrote only short comic television advertisements.",
+            "The Globe Theatre was built of concrete and steel in 1990.",
+            "Hamlet's soliloquy contemplates whether it is nobler to endure the existential suffering of mortal existence or to choose annihilation against an ocean of troubles."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Shakespearean soliloquy translation.",
@@ -14430,10 +14430,10 @@
         {
           "prompt": "What landmark 1623 collection, compiled by Shakespeare's acting colleagues, preserved 36 of his plays for posterity seven years after his death?",
           "options": [
-            "The Oxford Anthology (The Bard of Avon  The Globe Theatre)",
-            "The Gutenberg Bible (The Bard of Avon  The Globe Theatre)",
-            "The First Folio (The Bard of Avon  The Globe Theatre)",
-            "The Quarto of Stratford (The Bard of Avon  The Globe Theatre)"
+            "The Oxford Anthology",
+            "The Gutenberg Bible",
+            "The First Folio",
+            "The Quarto of Stratford"
           ],
           "answerIndex": 2,
           "explanation": "The First Folio (1623).",
@@ -14470,10 +14470,10 @@
         {
           "prompt": "Which Victorian master of wit and irony wrote the satirical masterpiece \"The Importance of Being Earnest\" in 1895?",
           "options": [
-            "Oscar Wilde (Comedy of Manners  Subversive Irony)",
-            "Noël Coward (Comedy of Manners  Subversive Irony)",
-            "W.B. Yeats (Comedy of Manners  Subversive Irony)",
-            "George Bernard Shaw (Comedy of Manners  Subversive Irony)"
+            "Oscar Wilde",
+            "Noël Coward",
+            "W.B. Yeats",
+            "George Bernard Shaw"
           ],
           "answerIndex": 0,
           "explanation": "Oscar Wilde."
@@ -14485,10 +14485,10 @@
         {
           "prompt": "What shocking location where baby Jack Worthing was abandoned in a handbag scandalizes Lady Bracknell in *The Importance of Being Earnest*?",
           "options": [
-            "The cloakroom at Victoria Station (Comedy of Manners  Subversive Irony)",
-            "Buckingham Palace (Comedy of Manners  Subversive Irony)",
-            "Hyde Park (Comedy of Manners  Subversive Irony)",
-            "The British Museum (Comedy of Manners  Subversive Irony)"
+            "The cloakroom at Victoria Station",
+            "Buckingham Palace",
+            "Hyde Park",
+            "The British Museum"
           ],
           "answerIndex": 0,
           "explanation": "The cloakroom at Victoria Station."
@@ -14500,10 +14500,10 @@
         {
           "prompt": "Translate: \"Wilde's epigrammatic dialogue subverts moral earnestness by treating serious social institutions with supreme triviality and trivial matters with grave solemnity.\"",
           "options": [
-            "The Importance of Being Earnest is an instructional medical manual. (Comedy of Manners  Subversive Irony)",
-            "Oscar Wilde wrote only in Russian. (Comedy of Manners  Subversive Irony)",
-            "Wilde's epigrammatic dialogue subverts moral earnestness by treating serious social institutions with supreme triviality and trivial matters with grave solemnity. (Comedy of Manners  Subversive Irony)",
-            "Lady Bracknell was an American airline pilot. (Comedy of Manners  Subversive Irony)"
+            "The Importance of Being Earnest is an instructional medical manual.",
+            "Oscar Wilde wrote only in Russian.",
+            "Wilde's epigrammatic dialogue subverts moral earnestness by treating serious social institutions with supreme triviality and trivial matters with grave solemnity.",
+            "Lady Bracknell was an American airline pilot."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Wildean dramatic analysis translation.",
@@ -14512,10 +14512,10 @@
         {
           "prompt": "What fictitious invalid friend invented by Algernon gives his name to the practice of avoiding social obligations in *The Importance of Being Earnest*?",
           "options": [
-            "Ernest (Comedy of Manners  Subversive Irony)",
-            "Bunbury (Comedy of Manners  Subversive Irony)",
-            "Chasuble (Comedy of Manners  Subversive Irony)",
-            "Algernon (Comedy of Manners  Subversive Irony)"
+            "Ernest",
+            "Bunbury",
+            "Chasuble",
+            "Algernon"
           ],
           "answerIndex": 1,
           "explanation": "Bunbury (Bunburying).",
@@ -14552,10 +14552,10 @@
         {
           "prompt": "Which American dramatist won the Pulitzer Prize for \"Death of a Salesman\" (1949) and wrote the McCarthyism allegory \"The Crucible\" (1953)?",
           "options": [
-            "Arthur Miller (The American Tragic Nightmare)",
-            "Tennessee Williams (The American Tragic Nightmare)",
-            "Eugene O'Neill (The American Tragic Nightmare)",
-            "Edward Albee (The American Tragic Nightmare)"
+            "Arthur Miller",
+            "Tennessee Williams",
+            "Eugene O'Neill",
+            "Edward Albee"
           ],
           "answerIndex": 0,
           "explanation": "Arthur Miller."
@@ -14567,10 +14567,10 @@
         {
           "prompt": "What memorable plea for human dignity is spoken by Linda Loman regarding her struggling husband Willy in *Death of a Salesman*?",
           "options": [
-            "«Attention, attention must finally be paid to such a person.» (The American Tragic Nightmare)",
-            "«Success will come tomorrow.» (The American Tragic Nightmare)",
-            "«Money is everything in life.» (The American Tragic Nightmare)",
-            "«Forget him and move on.» (The American Tragic Nightmare)"
+            "«Attention, attention must finally be paid to such a person.»",
+            "«Success will come tomorrow.»",
+            "«Money is everything in life.»",
+            "«Forget him and move on.»"
           ],
           "answerIndex": 0,
           "explanation": "«Attention, attention must finally be paid...»"
@@ -14582,10 +14582,10 @@
         {
           "prompt": "Translate: \"The Crucible utilizes the 1692 Salem witch trials as a scorching political allegory against McCarthyite paranoia, judicial complicity, and the persecution of dissidents.\"",
           "options": [
-            "Death of a Salesman is a musical about real estate. (The American Tragic Nightmare)",
-            "The Crucible utilizes the 1692 Salem witch trials as a scorching political allegory against McCarthyite paranoia, judicial complicity, and the persecution of dissidents. (The American Tragic Nightmare)",
-            "John Proctor was a famous magician from Las Vegas. (The American Tragic Nightmare)",
-            "Arthur Miller was an 18th-century British monarch. (The American Tragic Nightmare)"
+            "Death of a Salesman is a musical about real estate.",
+            "The Crucible utilizes the 1692 Salem witch trials as a scorching political allegory against McCarthyite paranoia, judicial complicity, and the persecution of dissidents.",
+            "John Proctor was a famous magician from Las Vegas.",
+            "Arthur Miller was an 18th-century British monarch."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Miller dramaturgy translation.",
@@ -14594,10 +14594,10 @@
         {
           "prompt": "What tragic realization does Willy Loman's son Biff arrive at in the climax of *Death of a Salesman*, rejecting his father's hollow dreams?",
           "options": [
-            "«I'm a dime a dozen, and so are you, Pop!» (The American Tragic Nightmare)",
-            "«I am going to Hollywood!» (The American Tragic Nightmare)",
-            "«I will become a politician!» (The American Tragic Nightmare)",
-            "«I want to buy the company!» (The American Tragic Nightmare)"
+            "«I'm a dime a dozen, and so are you, Pop!»",
+            "«I am going to Hollywood!»",
+            "«I will become a politician!»",
+            "«I want to buy the company!»"
           ],
           "answerIndex": 0,
           "explanation": "«I'm a dime a dozen, and so are you, Pop!»",
@@ -14634,10 +14634,10 @@
         {
           "prompt": "Which British Nobel Prize-winning dramatist invented the \"Comedy of Menace\" and made famous the theatrical use of pregnant silences known as the \"Pinter Pause\"?",
           "options": [
-            "Caryl Churchill (The Menace of the Unspoken  The Pinter Pause)",
-            "Samuel Beckett (The Menace of the Unspoken  The Pinter Pause)",
-            "Harold Pinter (The Menace of the Unspoken  The Pinter Pause)",
-            "Tom Stoppard (The Menace of the Unspoken  The Pinter Pause)"
+            "Caryl Churchill",
+            "Samuel Beckett",
+            "Harold Pinter",
+            "Tom Stoppard"
           ],
           "answerIndex": 2,
           "explanation": "Harold Pinter."
@@ -14649,10 +14649,10 @@
         {
           "prompt": "What unique structural narrative technique is famously used in Harold Pinter's 1978 relationship masterpiece *Betrayal*?",
           "options": [
-            "No dialogue, pure mime (The Menace of the Unspoken  The Pinter Pause)",
-            "Reverse chronological order (The Menace of the Unspoken  The Pinter Pause)",
-            "Musical opera format (The Menace of the Unspoken  The Pinter Pause)",
-            "All rhyming verse (The Menace of the Unspoken  The Pinter Pause)"
+            "No dialogue, pure mime",
+            "Reverse chronological order",
+            "Musical opera format",
+            "All rhyming verse"
           ],
           "answerIndex": 1,
           "explanation": "Reverse chronological order."
@@ -14664,10 +14664,10 @@
         {
           "prompt": "Translate: \"The Pinter Pause functions not as an empty absence of speech, but as a dense psychological battlefield where power dynamics and unspoken dread are actively negotiated.\"",
           "options": [
-            "The Pinter Pause functions not as an empty absence of speech, but as a dense psychological battlefield where power dynamics and unspoken dread are actively negotiated. (The Menace of the Unspoken  The Pinter Pause)",
-            "The Birthday Party was filmed on the moon. (The Menace of the Unspoken  The Pinter Pause)",
-            "The Caretaker is a documentary on plumbing. (The Menace of the Unspoken  The Pinter Pause)",
-            "Harold Pinter wrote only children's nursery rhymes. (The Menace of the Unspoken  The Pinter Pause)"
+            "The Pinter Pause functions not as an empty absence of speech, but as a dense psychological battlefield where power dynamics and unspoken dread are actively negotiated.",
+            "The Birthday Party was filmed on the moon.",
+            "The Caretaker is a documentary on plumbing.",
+            "Harold Pinter wrote only children's nursery rhymes."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Pinterian dramaturgy translation.",
@@ -14676,10 +14676,10 @@
         {
           "prompt": "What 1957 menacing play by Harold Pinter depicts two mysterious strangers, Goldberg and McCann, who arrive at a seaside boarding house to terrorize tenant Stanley Webber?",
           "options": [
-            "«The Room» (The Menace of the Unspoken  The Pinter Pause)",
-            "«The Dumb Waiter» (The Menace of the Unspoken  The Pinter Pause)",
-            "«No Man's Land» (The Menace of the Unspoken  The Pinter Pause)",
-            "«The Birthday Party» (The Menace of the Unspoken  The Pinter Pause)"
+            "«The Room»",
+            "«The Dumb Waiter»",
+            "«No Man's Land»",
+            "«The Birthday Party»"
           ],
           "answerIndex": 3,
           "explanation": "«The Birthday Party».",
@@ -14798,10 +14798,10 @@
         {
           "prompt": "Which 20th-century British composer resurrected English opera with \"Peter Grimes\" (1945) and founded the Aldeburgh Festival?",
           "options": [
-            "Edward Elgar (The Rebirth of English Opera  The Sea Interludes)",
-            "Ralph Vaughan Williams (The Rebirth of English Opera  The Sea Interludes)",
-            "William Walton (The Rebirth of English Opera  The Sea Interludes)",
-            "Benjamin Britten (The Rebirth of English Opera  The Sea Interludes)"
+            "Edward Elgar",
+            "Ralph Vaughan Williams",
+            "William Walton",
+            "Benjamin Britten"
           ],
           "answerIndex": 3,
           "explanation": "Benjamin Britten."
@@ -14813,10 +14813,10 @@
         {
           "prompt": "What famous orchestral suite extracted from Britten's *Peter Grimes* portrays the shifting atmospheric moods of the Suffolk coastline?",
           "options": [
-            "The Four Sea Interludes (The Rebirth of English Opera  The Sea Interludes)",
-            "Enigma Variations (The Rebirth of English Opera  The Sea Interludes)",
-            "The Planets (The Rebirth of English Opera  The Sea Interludes)",
-            "Fantasia on a Theme by Thomas Tallis (The Rebirth of English Opera  The Sea Interludes)"
+            "The Four Sea Interludes",
+            "Enigma Variations",
+            "The Planets",
+            "Fantasia on a Theme by Thomas Tallis"
           ],
           "answerIndex": 0,
           "explanation": "The Four Sea Interludes."
@@ -14828,10 +14828,10 @@
         {
           "prompt": "Translate: \"Peter Grimes explores the tragic alienation of a visionary outsider crushed by the claustrophobic gossip and moral hypocrisy of a provincial fishing community.\"",
           "options": [
-            "The Aldeburgh Festival takes place in the Sahara desert. (The Rebirth of English Opera  The Sea Interludes)",
-            "Peter Grimes is an instructional documentary on sailing. (The Rebirth of English Opera  The Sea Interludes)",
-            "Peter Grimes explores the tragic alienation of a visionary outsider crushed by the claustrophobic gossip and moral hypocrisy of a provincial fishing community. (The Rebirth of English Opera  The Sea Interludes)",
-            "Benjamin Britten was an 18th-century Austrian monarch. (The Rebirth of English Opera  The Sea Interludes)"
+            "The Aldeburgh Festival takes place in the Sahara desert.",
+            "Peter Grimes is an instructional documentary on sailing.",
+            "Peter Grimes explores the tragic alienation of a visionary outsider crushed by the claustrophobic gossip and moral hypocrisy of a provincial fishing community.",
+            "Benjamin Britten was an 18th-century Austrian monarch."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Britten analysis translation.",
@@ -14840,10 +14840,10 @@
         {
           "prompt": "Which lifelong artistic partner and English tenor was the inspiration and creator of the leading tenor roles in almost all of Britten's operas?",
           "options": [
-            "Jon Vickers (The Rebirth of English Opera  The Sea Interludes)",
-            "Peter Pears (The Rebirth of English Opera  The Sea Interludes)",
-            "Anthony Rolfe Johnson (The Rebirth of English Opera  The Sea Interludes)",
-            "Ian Bostridge (The Rebirth of English Opera  The Sea Interludes)"
+            "Jon Vickers",
+            "Peter Pears",
+            "Anthony Rolfe Johnson",
+            "Ian Bostridge"
           ],
           "answerIndex": 1,
           "explanation": "Peter Pears.",
@@ -14880,10 +14880,10 @@
         {
           "prompt": "Which Canadian-born dramatic tenor was celebrated worldwide for his titanic, brooding portrayal of Britten's \"Peter Grimes\" and Wagner's \"Tristan\"?",
           "options": [
-            "Jon Vickers (The Grand Heroic Tenor of English Tragedy)",
-            "James McCracken (The Grand Heroic Tenor of English Tragedy)",
-            "Richard Cassilly (The Grand Heroic Tenor of English Tragedy)",
-            "Peter Pears (The Grand Heroic Tenor of English Tragedy)"
+            "Jon Vickers",
+            "James McCracken",
+            "Richard Cassilly",
+            "Peter Pears"
           ],
           "answerIndex": 0,
           "explanation": "Jon Vickers."
@@ -14895,10 +14895,10 @@
         {
           "prompt": "Which British conductor partnered with Jon Vickers on the definitive 1978 Royal Opera House Covent Garden film and recording of *Peter Grimes*?",
           "options": [
-            "Sir Colin Davis (The Grand Heroic Tenor of English Tragedy)",
-            "Sir Georg Solti (The Grand Heroic Tenor of English Tragedy)",
-            "Sir Adrian Boult (The Grand Heroic Tenor of English Tragedy)",
-            "Sir Simon Rattle (The Grand Heroic Tenor of English Tragedy)"
+            "Sir Colin Davis",
+            "Sir Georg Solti",
+            "Sir Adrian Boult",
+            "Sir Simon Rattle"
           ],
           "answerIndex": 0,
           "explanation": "Sir Colin Davis."
@@ -14910,10 +14910,10 @@
         {
           "prompt": "Translate: \"Vickers's monolithic vocal power and terrifying psychological commitment elevated tragic operatic antiheroes into profound existential archetypes.\"",
           "options": [
-            "Jon Vickers sang only lightweight children's nursery rhymes. (The Grand Heroic Tenor of English Tragedy)",
-            "Vickers's monolithic vocal power and terrifying psychological commitment elevated tragic operatic antiheroes into profound existential archetypes. (The Grand Heroic Tenor of English Tragedy)",
-            "Peter Grimes was a silent film actor from Hollywood. (The Grand Heroic Tenor of English Tragedy)",
-            "Sir Colin Davis was an Italian Renaissance painter. (The Grand Heroic Tenor of English Tragedy)"
+            "Jon Vickers sang only lightweight children's nursery rhymes.",
+            "Vickers's monolithic vocal power and terrifying psychological commitment elevated tragic operatic antiheroes into profound existential archetypes.",
+            "Peter Grimes was a silent film actor from Hollywood.",
+            "Sir Colin Davis was an Italian Renaissance painter."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Vickers vocal analysis translation.",
@@ -14922,10 +14922,10 @@
         {
           "prompt": "Which Salzburg Festival production of Wagner's *Tristan und Isolde* in 1972, conducted by Herbert von Karajan, featured Jon Vickers's legendary performance?",
           "options": [
-            "The 1972 Salzburg Easter Festival production (The Grand Heroic Tenor of English Tragedy)",
-            "The Glyndebourne 1960 gala (The Grand Heroic Tenor of English Tragedy)",
-            "The Bayreuth 1950 production (The Grand Heroic Tenor of English Tragedy)",
-            "The Met 1990 opening (The Grand Heroic Tenor of English Tragedy)"
+            "The 1972 Salzburg Easter Festival production",
+            "The Glyndebourne 1960 gala",
+            "The Bayreuth 1950 production",
+            "The Met 1990 opening"
           ],
           "answerIndex": 0,
           "explanation": "The 1972 Salzburg Easter Festival production.",
@@ -14962,10 +14962,10 @@
         {
           "prompt": "Which American composer synthesized jazz, blues, and classical opera in \"Porgy and Bess\" (1935), featuring the immortal aria \"Summertime\"?",
           "options": [
-            "George Gershwin (The American Operatic Masterpiece)",
-            "Aaron Copland (The American Operatic Masterpiece)",
-            "Leonard Bernstein (The American Operatic Masterpiece)",
-            "Samuel Barber (The American Operatic Masterpiece)"
+            "George Gershwin",
+            "Aaron Copland",
+            "Leonard Bernstein",
+            "Samuel Barber"
           ],
           "answerIndex": 0,
           "explanation": "George Gershwin."
@@ -14977,10 +14977,10 @@
         {
           "prompt": "What Charleston, South Carolina tenement community serves as the historic setting for Gershwin's *Porgy and Bess*?",
           "options": [
-            "Catfish Row (The American Operatic Masterpiece)",
-            "Beale Street (The American Operatic Masterpiece)",
-            "Bourbon Street (The American Operatic Masterpiece)",
-            "Harlem Plaza (The American Operatic Masterpiece)"
+            "Catfish Row",
+            "Beale Street",
+            "Bourbon Street",
+            "Harlem Plaza"
           ],
           "answerIndex": 0,
           "explanation": "Catfish Row."
@@ -14992,10 +14992,10 @@
         {
           "prompt": "Translate: \"Porgy and Bess established a distinctive American operatic idiom by embedding fugal counterpoint and classical leitmotifs within the authentic blues harmonies of the Gullah culture.\"",
           "options": [
-            "Porgy and Bess established a distinctive American operatic idiom by embedding fugal counterpoint and classical leitmotifs within the authentic blues harmonies of the Gullah culture. (The American Operatic Masterpiece)",
-            "George Gershwin lived in ancient Rome. (The American Operatic Masterpiece)",
-            "Summertime was written for a brass military marching band. (The American Operatic Masterpiece)",
-            "Porgy and Bess is a German waltz operetta about banking. (The American Operatic Masterpiece)"
+            "Porgy and Bess established a distinctive American operatic idiom by embedding fugal counterpoint and classical leitmotifs within the authentic blues harmonies of the Gullah culture.",
+            "George Gershwin lived in ancient Rome.",
+            "Summertime was written for a brass military marching band.",
+            "Porgy and Bess is a German waltz operetta about banking."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Gershwin analysis translation.",
@@ -15004,10 +15004,10 @@
         {
           "prompt": "Which legendary African-American soprano rose to international stardom playing Bess in the historic 1952 world tour of *Porgy and Bess*?",
           "options": [
-            "Jessye Norman (The American Operatic Masterpiece)",
-            "Marian Anderson (The American Operatic Masterpiece)",
-            "Kathleen Battle (The American Operatic Masterpiece)",
-            "Leontyne Price (The American Operatic Masterpiece)"
+            "Jessye Norman",
+            "Marian Anderson",
+            "Kathleen Battle",
+            "Leontyne Price"
           ],
           "answerIndex": 3,
           "explanation": "Leontyne Price.",
@@ -15044,10 +15044,10 @@
         {
           "prompt": "Which American post-minimalist composer created the groundbreaking historical operas \"Nixon in China\" (1987) and \"Doctor Atomic\" (2005)?",
           "options": [
-            "Michael Nyman (Minimalist Operatic Monument  Contemporary History)",
-            "Steve Reich (Minimalist Operatic Monument  Contemporary History)",
-            "John Adams (Minimalist Operatic Monument  Contemporary History)",
-            "Philip Glass (Minimalist Operatic Monument  Contemporary History)"
+            "Michael Nyman",
+            "Steve Reich",
+            "John Adams",
+            "Philip Glass"
           ],
           "answerIndex": 2,
           "explanation": "John Adams."
@@ -15059,10 +15059,10 @@
         {
           "prompt": "What 17th-century John Donne Holy Sonnet is set to a devastating aria sung by J. Robert Oppenheimer in Adams's *Doctor Atomic*?",
           "options": [
-            "«A Valediction: Forbidding Mourning» (Minimalist Operatic Monument  Contemporary History)",
-            "«Batter my heart, three-person'd God» (Minimalist Operatic Monument  Contemporary History)",
-            "«The Sun Rising» (Minimalist Operatic Monument  Contemporary History)",
-            "«Death, be not proud» (Minimalist Operatic Monument  Contemporary History)"
+            "«A Valediction: Forbidding Mourning»",
+            "«Batter my heart, three-person'd God»",
+            "«The Sun Rising»",
+            "«Death, be not proud»"
           ],
           "answerIndex": 1,
           "explanation": "«Batter my heart, three-person'd God»."
@@ -15074,10 +15074,10 @@
         {
           "prompt": "Translate: \"Nixon in China transforms 20th-century televised geopolitical diplomacy into mythic opera through pulsating post-minimalist ostinatos and Alice Goodman's verse.\"",
           "options": [
-            "John Adams was the second President of the United States who wrote violin concertos. (Minimalist Operatic Monument  Contemporary History)",
-            "Doctor Atomic is a comedy about automobile manufacturing. (Minimalist Operatic Monument  Contemporary History)",
-            "Houston Grand Opera was founded in 1750 in London. (Minimalist Operatic Monument  Contemporary History)",
-            "Nixon in China transforms 20th-century televised geopolitical diplomacy into mythic opera through pulsating post-minimalist ostinatos and Alice Goodman's verse. (Minimalist Operatic Monument  Contemporary History)"
+            "John Adams was the second President of the United States who wrote violin concertos.",
+            "Doctor Atomic is a comedy about automobile manufacturing.",
+            "Houston Grand Opera was founded in 1750 in London.",
+            "Nixon in China transforms 20th-century televised geopolitical diplomacy into mythic opera through pulsating post-minimalist ostinatos and Alice Goodman's verse."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Adams operatic analysis translation.",
@@ -15086,10 +15086,10 @@
         {
           "prompt": "Which avant-garde theater director conceived the concept for *Nixon in China* and collaborated with John Adams on multiple landmark world premieres?",
           "options": [
-            "Peter Brook (Minimalist Operatic Monument  Contemporary History)",
-            "Trevor Nunn (Minimalist Operatic Monument  Contemporary History)",
-            "Peter Sellars (Minimalist Operatic Monument  Contemporary History)",
-            "Robert Wilson (Minimalist Operatic Monument  Contemporary History)"
+            "Peter Brook",
+            "Trevor Nunn",
+            "Peter Sellars",
+            "Robert Wilson"
           ],
           "answerIndex": 2,
           "explanation": "Peter Sellars.",
@@ -15208,10 +15208,10 @@
         {
           "prompt": "Which master English astronomer and architect rebuilt St Paul's Cathedral and 52 parish churches following the Great Fire of London in 1666?",
           "options": [
-            "Inigo Jones (The Phoenix of London  The Triple Dome)",
-            "Nicholas Hawksmoor (The Phoenix of London  The Triple Dome)",
-            "Sir John Vanbrugh (The Phoenix of London  The Triple Dome)",
-            "Sir Christopher Wren (The Phoenix of London  The Triple Dome)"
+            "Inigo Jones",
+            "Nicholas Hawksmoor",
+            "Sir John Vanbrugh",
+            "Sir Christopher Wren"
           ],
           "answerIndex": 3,
           "explanation": "Sir Christopher Wren."
@@ -15223,10 +15223,10 @@
         {
           "prompt": "What hidden structural element inside St Paul's Cathedral supports the 850-ton Portland stone summit lantern between the inner and outer domes?",
           "options": [
-            "A hidden structural brick cone (The Phoenix of London  The Triple Dome)",
-            "A steel truss framework (The Phoenix of London  The Triple Dome)",
-            "Solid granite columns (The Phoenix of London  The Triple Dome)",
-            "A hollow wooden pyramid (The Phoenix of London  The Triple Dome)"
+            "A hidden structural brick cone",
+            "A steel truss framework",
+            "Solid granite columns",
+            "A hollow wooden pyramid"
           ],
           "answerIndex": 0,
           "explanation": "A hidden structural brick cone."
@@ -15238,10 +15238,10 @@
         {
           "prompt": "Translate: \"Wren's triple-dome configuration inside St Paul's Cathedral solved the acoustic and aesthetic dilemma by concealing a load-bearing brick cone between the inner ceiling and the outer skyline profile.\"",
           "options": [
-            "Sir Christopher Wren was an 18th-century French landscape painter. (The Phoenix of London  The Triple Dome)",
-            "Wren's triple-dome configuration inside St Paul's Cathedral solved the acoustic and aesthetic dilemma by concealing a load-bearing brick cone between the inner ceiling and the outer skyline profile. (The Phoenix of London  The Triple Dome)",
-            "The Whispering Gallery is an airport terminal in London. (The Phoenix of London  The Triple Dome)",
-            "St Paul's Cathedral was demolished during the Great Fire and never rebuilt. (The Phoenix of London  The Triple Dome)"
+            "Sir Christopher Wren was an 18th-century French landscape painter.",
+            "Wren's triple-dome configuration inside St Paul's Cathedral solved the acoustic and aesthetic dilemma by concealing a load-bearing brick cone between the inner ceiling and the outer skyline profile.",
+            "The Whispering Gallery is an airport terminal in London.",
+            "St Paul's Cathedral was demolished during the Great Fire and never rebuilt."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Wren engineering analysis translation.",
@@ -15250,10 +15250,10 @@
         {
           "prompt": "What famous Latin epitaph on Christopher Wren's crypt tomb inside St Paul's Cathedral translates to \"Reader, if you seek his monument, look around you\"?",
           "options": [
-            "«Lector, si monumentum requiris, circumspice» (The Phoenix of London  The Triple Dome)",
-            "«Memento mori» (The Phoenix of London  The Triple Dome)",
-            "«In hoc signo vinces» (The Phoenix of London  The Triple Dome)",
-            "«Carpe diem» (The Phoenix of London  The Triple Dome)"
+            "«Lector, si monumentum requiris, circumspice»",
+            "«Memento mori»",
+            "«In hoc signo vinces»",
+            "«Carpe diem»"
           ],
           "answerIndex": 0,
           "explanation": "«Lector, si monumentum requiris, circumspice».",
@@ -15290,10 +15290,10 @@
         {
           "prompt": "Which master American architect designed Fallingwater directly over a waterfall in Pennsylvania and the spiraling Guggenheim Museum in New York?",
           "options": [
-            "Frank Lloyd Wright (Organic Architecture  Fallingwater)",
-            "Mies van der Rohe (Organic Architecture  Fallingwater)",
-            "Frank Gehry (Organic Architecture  Fallingwater)",
-            "Louis Sullivan (Organic Architecture  Fallingwater)"
+            "Frank Lloyd Wright",
+            "Mies van der Rohe",
+            "Frank Gehry",
+            "Louis Sullivan"
           ],
           "answerIndex": 0,
           "explanation": "Frank Lloyd Wright."
@@ -15305,10 +15305,10 @@
         {
           "prompt": "What dramatic structural engineering technique allowed Frank Lloyd Wright to float the outdoor living terraces of Fallingwater out over the river water?",
           "options": [
-            "Cantilevered reinforced concrete trays (Organic Architecture  Fallingwater)",
-            "Suspended steel wire cables (Organic Architecture  Fallingwater)",
-            "Brick masonry arches (Organic Architecture  Fallingwater)",
-            "Wooden stilts in the riverbed (Organic Architecture  Fallingwater)"
+            "Cantilevered reinforced concrete trays",
+            "Suspended steel wire cables",
+            "Brick masonry arches",
+            "Wooden stilts in the riverbed"
           ],
           "answerIndex": 0,
           "explanation": "Cantilevered reinforced concrete trays."
@@ -15320,10 +15320,10 @@
         {
           "prompt": "Translate: \"Fallingwater synthesizes Pottsville sandstone masonry with bold cantilevered concrete terraces, seamlessly embedding the home into the rushing stream and mountain rhododendron.\"",
           "options": [
-            "Fallingwater synthesizes Pottsville sandstone masonry with bold cantilevered concrete terraces, seamlessly embedding the home into the rushing stream and mountain rhododendron. (Organic Architecture  Fallingwater)",
-            "Fallingwater is a glass skyscraper located in downtown Chicago. (Organic Architecture  Fallingwater)",
-            "Frank Lloyd Wright was an 18th-century British monarch. (Organic Architecture  Fallingwater)",
-            "The Guggenheim Museum has thirty flights of ordinary stairs. (Organic Architecture  Fallingwater)"
+            "Fallingwater synthesizes Pottsville sandstone masonry with bold cantilevered concrete terraces, seamlessly embedding the home into the rushing stream and mountain rhododendron.",
+            "Fallingwater is a glass skyscraper located in downtown Chicago.",
+            "Frank Lloyd Wright was an 18th-century British monarch.",
+            "The Guggenheim Museum has thirty flights of ordinary stairs."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Frank Lloyd Wright analysis translation.",
@@ -15332,10 +15332,10 @@
         {
           "prompt": "What continuous architectural walkway feature allows visitors to view modern art while walking down the interior of the Guggenheim Museum in New York?",
           "options": [
-            "A series of enclosed escalators (Organic Architecture  Fallingwater)",
-            "Separate square elevator rooms (Organic Architecture  Fallingwater)",
-            "A glass suspension bridge (Organic Architecture  Fallingwater)",
-            "A continuous spiraling ramp (Organic Architecture  Fallingwater)"
+            "A series of enclosed escalators",
+            "Separate square elevator rooms",
+            "A glass suspension bridge",
+            "A continuous spiraling ramp"
           ],
           "answerIndex": 3,
           "explanation": "A continuous spiraling ramp.",
@@ -15372,10 +15372,10 @@
         {
           "prompt": "Which British High-Tech architect won the Pritzker Prize in 1999 and designed the Reichstag glass dome in Berlin and \"The Gherkin\" in London?",
           "options": [
-            "Lord Norman Foster (HighTech Diagrid  Sustainable Transparency)",
-            "Richard Rogers (HighTech Diagrid  Sustainable Transparency)",
-            "Sir David Chipperfield (HighTech Diagrid  Sustainable Transparency)",
-            "Nicholas Grimshaw (HighTech Diagrid  Sustainable Transparency)"
+            "Lord Norman Foster",
+            "Richard Rogers",
+            "Sir David Chipperfield",
+            "Nicholas Grimshaw"
           ],
           "answerIndex": 0,
           "explanation": "Lord Norman Foster."
@@ -15387,10 +15387,10 @@
         {
           "prompt": "What symbolic architectural feature inside Norman Foster's Reichstag dome in Berlin reflects natural sunlight down into the parliamentary chamber?",
           "options": [
-            "An inverted cone clad in 360 mirrors (HighTech Diagrid  Sustainable Transparency)",
-            "A motorized golden disk (HighTech Diagrid  Sustainable Transparency)",
-            "A stained-glass cross (HighTech Diagrid  Sustainable Transparency)",
-            "A giant crystal chandelier (HighTech Diagrid  Sustainable Transparency)"
+            "An inverted cone clad in 360 mirrors",
+            "A motorized golden disk",
+            "A stained-glass cross",
+            "A giant crystal chandelier"
           ],
           "answerIndex": 0,
           "explanation": "An inverted cone clad in 360 mirrors."
@@ -15402,10 +15402,10 @@
         {
           "prompt": "Translate: \"The Reichstag glass dome embodies democratic transparency, allowing citizens walking upon helical ramps to literally look down upon their elected representatives.\"",
           "options": [
-            "Norman Foster designed only single-story brick farmhouses. (HighTech Diagrid  Sustainable Transparency)",
-            "The Gherkin was built of wood in 1600. (HighTech Diagrid  Sustainable Transparency)",
-            "The HSBC Building in Hong Kong is an ancient stone pyramid. (HighTech Diagrid  Sustainable Transparency)",
-            "The Reichstag glass dome embodies democratic transparency, allowing citizens walking upon helical ramps to literally look down upon their elected representatives. (HighTech Diagrid  Sustainable Transparency)"
+            "Norman Foster designed only single-story brick farmhouses.",
+            "The Gherkin was built of wood in 1600.",
+            "The HSBC Building in Hong Kong is an ancient stone pyramid.",
+            "The Reichstag glass dome embodies democratic transparency, allowing citizens walking upon helical ramps to literally look down upon their elected representatives."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Foster architectural analysis translation.",
@@ -15414,10 +15414,10 @@
         {
           "prompt": "What aerodynamic 180-meter London skyscraper, designed by Foster + Partners with a spiraling diagrid glass facade, is popularly nicknamed \"The Gherkin\"?",
           "options": [
-            "The Shard (HighTech Diagrid  Sustainable Transparency)",
-            "One Canada Square (HighTech Diagrid  Sustainable Transparency)",
-            "30 St Mary Axe (HighTech Diagrid  Sustainable Transparency)",
-            "The Cheesegrater (HighTech Diagrid  Sustainable Transparency)"
+            "The Shard",
+            "One Canada Square",
+            "30 St Mary Axe",
+            "The Cheesegrater"
           ],
           "answerIndex": 2,
           "explanation": "30 St Mary Axe.",
@@ -15454,10 +15454,10 @@
         {
           "prompt": "Which Canadian-American Pritzker laureate designed the titanium-clad Guggenheim Museum Bilbao and the Walt Disney Concert Hall in Los Angeles?",
           "options": [
-            "Thom Mayne (Deconstructivist Titanium Sculpture)",
-            "Peter Eisenman (Deconstructivist Titanium Sculpture)",
-            "Frank Gehry (Deconstructivist Titanium Sculpture)",
-            "Daniel Libeskind (Deconstructivist Titanium Sculpture)"
+            "Thom Mayne",
+            "Peter Eisenman",
+            "Frank Gehry",
+            "Daniel Libeskind"
           ],
           "answerIndex": 2,
           "explanation": "Frank Gehry."
@@ -15469,10 +15469,10 @@
         {
           "prompt": "What economic phenomenon describes how a single transformative architectural masterpiece can revitalize a post-industrial city's entire economy?",
           "options": [
-            "The Titanium Phenomenon (Deconstructivist Titanium Sculpture)",
-            "The Bilbao Effect (Deconstructivist Titanium Sculpture)",
-            "The Gehry Dynamic (Deconstructivist Titanium Sculpture)",
-            "The Guggenheim Index (Deconstructivist Titanium Sculpture)"
+            "The Titanium Phenomenon",
+            "The Bilbao Effect",
+            "The Gehry Dynamic",
+            "The Guggenheim Index"
           ],
           "answerIndex": 1,
           "explanation": "The Bilbao Effect (Efekti i Bilbaos)."
@@ -15484,10 +15484,10 @@
         {
           "prompt": "Translate: \"Gehry utilized aerospace digital modeling software to calculate the complex curved geometries of thirty-three thousand paper-thin titanium panels on the Guggenheim Bilbao.\"",
           "options": [
-            "The Walt Disney Concert Hall is a silent movie cinema. (Deconstructivist Titanium Sculpture)",
-            "Bilbao is located on the Pacific coast of California. (Deconstructivist Titanium Sculpture)",
-            "Gehry utilized aerospace digital modeling software to calculate the complex curved geometries of thirty-three thousand paper-thin titanium panels on the Guggenheim Bilbao. (Deconstructivist Titanium Sculpture)",
-            "Frank Gehry built only classical Greek marble temples. (Deconstructivist Titanium Sculpture)"
+            "The Walt Disney Concert Hall is a silent movie cinema.",
+            "Bilbao is located on the Pacific coast of California.",
+            "Gehry utilized aerospace digital modeling software to calculate the complex curved geometries of thirty-three thousand paper-thin titanium panels on the Guggenheim Bilbao.",
+            "Frank Gehry built only classical Greek marble temples."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Gehry architectural analysis translation.",
@@ -15496,10 +15496,10 @@
         {
           "prompt": "What metal was chosen to clad the exterior undulating ribbons of the Guggenheim Museum Bilbao for its golden-silver luster in rainy northern climates?",
           "options": [
-            "Cast iron (Deconstructivist Titanium Sculpture)",
-            "Titanium (Deconstructivist Titanium Sculpture)",
-            "Painted aluminum (Deconstructivist Titanium Sculpture)",
-            "Polished copper (Deconstructivist Titanium Sculpture)"
+            "Cast iron",
+            "Titanium",
+            "Painted aluminum",
+            "Polished copper"
           ],
           "answerIndex": 1,
           "explanation": "Titanium.",
@@ -15618,10 +15618,10 @@
         {
           "prompt": "Which master English philosopher formulated the \"Tabula Rasa\" empirical theory of mind and the natural rights to Life, Liberty, and Property in 1689?",
           "options": [
-            "Thomas Hobbes (The Blank Slate  Natural Inalienable Rights)",
-            "David Hume (The Blank Slate  Natural Inalienable Rights)",
-            "John Stuart Mill (The Blank Slate  Natural Inalienable Rights)",
-            "John Locke (The Blank Slate  Natural Inalienable Rights)"
+            "Thomas Hobbes",
+            "David Hume",
+            "John Stuart Mill",
+            "John Locke"
           ],
           "answerIndex": 3,
           "explanation": "John Locke."
@@ -15633,10 +15633,10 @@
         {
           "prompt": "What Latin term, meaning \"Blank Slate\", was popularized by Locke to describe the human mind at birth before experience writes upon it?",
           "options": [
-            "Tabula Rasa (The Blank Slate  Natural Inalienable Rights)",
-            "Cogito Ergo Sum (The Blank Slate  Natural Inalienable Rights)",
-            "De Facto (The Blank Slate  Natural Inalienable Rights)",
-            "Prima Facie (The Blank Slate  Natural Inalienable Rights)"
+            "Tabula Rasa",
+            "Cogito Ergo Sum",
+            "De Facto",
+            "Prima Facie"
           ],
           "answerIndex": 0,
           "explanation": "Tabula Rasa (Blank Slate)."
@@ -15648,10 +15648,10 @@
         {
           "prompt": "Translate: \"Locke established that government derives legitimate authority exclusively from the consent of the governed to safeguard their inalienable natural rights to life, liberty, and property.\"",
           "options": [
-            "Locke established that government derives legitimate authority exclusively from the consent of the governed to safeguard their inalienable natural rights to life, liberty, and property. (The Blank Slate  Natural Inalienable Rights)",
-            "John Locke was a 16th-century Spanish pirate captain. (The Blank Slate  Natural Inalienable Rights)",
-            "The Tabula Rasa doctrine asserts that all knowledge is innate from birth. (The Blank Slate  Natural Inalienable Rights)",
-            "Two Treatises of Government is a manual on medieval falconry. (The Blank Slate  Natural Inalienable Rights)"
+            "Locke established that government derives legitimate authority exclusively from the consent of the governed to safeguard their inalienable natural rights to life, liberty, and property.",
+            "John Locke was a 16th-century Spanish pirate captain.",
+            "The Tabula Rasa doctrine asserts that all knowledge is innate from birth.",
+            "Two Treatises of Government is a manual on medieval falconry."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Locke political analysis translation.",
@@ -15660,10 +15660,10 @@
         {
           "prompt": "Which iconic American founding document, drafted by Thomas Jefferson in 1776, directly incorporated John Locke's natural rights philosophy?",
           "options": [
-            "The Federalist Papers (The Blank Slate  Natural Inalienable Rights)",
-            "The Magna Carta (The Blank Slate  Natural Inalienable Rights)",
-            "The Articles of Confederation (The Blank Slate  Natural Inalienable Rights)",
-            "The Declaration of Independence (The Blank Slate  Natural Inalienable Rights)"
+            "The Federalist Papers",
+            "The Magna Carta",
+            "The Articles of Confederation",
+            "The Declaration of Independence"
           ],
           "answerIndex": 3,
           "explanation": "The Declaration of Independence.",
@@ -15700,10 +15700,10 @@
         {
           "prompt": "Which master Scottish philosopher formulated the Problem of Induction, the Bundle Theory of the Self, and the \"Is-Ought\" problem in ethics?",
           "options": [
-            "David Hume (Radical Skepticism  The Problem of Induction)",
-            "Thomas Reid (Radical Skepticism  The Problem of Induction)",
-            "Francis Hutcheson (Radical Skepticism  The Problem of Induction)",
-            "Adam Smith (Radical Skepticism  The Problem of Induction)"
+            "David Hume",
+            "Thomas Reid",
+            "Francis Hutcheson",
+            "Adam Smith"
           ],
           "answerIndex": 0,
           "explanation": "David Hume."
@@ -15715,10 +15715,10 @@
         {
           "prompt": "What famous ethical dilemma, named \"Hume's Guillotine\", proves that moral obligations (\"ought\") cannot be logically deduced from purely factual statements (\"is\")?",
           "options": [
-            "The Is-Ought Fallacy (Radical Skepticism  The Problem of Induction)",
-            "The Trolley Problem (Radical Skepticism  The Problem of Induction)",
-            "The Ship of Theseus (Radical Skepticism  The Problem of Induction)",
-            "The Prisoner's Dilemma (Radical Skepticism  The Problem of Induction)"
+            "The Is-Ought Fallacy",
+            "The Trolley Problem",
+            "The Ship of Theseus",
+            "The Prisoner's Dilemma"
           ],
           "answerIndex": 0,
           "explanation": "The Is-Ought Fallacy."
@@ -15730,10 +15730,10 @@
         {
           "prompt": "Translate: \"Hume demonstrated that our belief in causal necessity is not an objective logical certainty, but a psychological habit forged through continuous empirical constant conjunction.\"",
           "options": [
-            "Hume argued that reason should rule over all emotions. (Radical Skepticism  The Problem of Induction)",
-            "David Hume was a medieval French cardinal. (Radical Skepticism  The Problem of Induction)",
-            "The Problem of Induction proves that the future is mathematically predictable. (Radical Skepticism  The Problem of Induction)",
-            "Hume demonstrated that our belief in causal necessity is not an objective logical certainty, but a psychological habit forged through continuous empirical constant conjunction. (Radical Skepticism  The Problem of Induction)"
+            "Hume argued that reason should rule over all emotions.",
+            "David Hume was a medieval French cardinal.",
+            "The Problem of Induction proves that the future is mathematically predictable.",
+            "Hume demonstrated that our belief in causal necessity is not an objective logical certainty, but a psychological habit forged through continuous empirical constant conjunction."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Hume analysis translation.",
@@ -15742,10 +15742,10 @@
         {
           "prompt": "What psychological theory of identity did Hume propose, asserting that the \"Self\" is merely a collection of rapidly shifting sensations rather than a fixed soul?",
           "options": [
-            "The Cartesian Ego (Radical Skepticism  The Problem of Induction)",
-            "The Tripartite Soul (Radical Skepticism  The Problem of Induction)",
-            "The Bundle Theory of the Self (Radical Skepticism  The Problem of Induction)",
-            "The Absolute Monad (Radical Skepticism  The Problem of Induction)"
+            "The Cartesian Ego",
+            "The Tripartite Soul",
+            "The Bundle Theory of the Self",
+            "The Absolute Monad"
           ],
           "answerIndex": 2,
           "explanation": "The Bundle Theory of the Self.",
@@ -15782,10 +15782,10 @@
         {
           "prompt": "Which master British philosopher authored \"On Liberty\" (1859), formulating the Harm Principle and defending free speech against the tyranny of the majority?",
           "options": [
-            "John Stuart Mill (Utilitarian Liberty  The Harm Principle)",
-            "Jeremy Bentham (Utilitarian Liberty  The Harm Principle)",
-            "Herbert Spencer (Utilitarian Liberty  The Harm Principle)",
-            "Bertrand Russell (Utilitarian Liberty  The Harm Principle)"
+            "John Stuart Mill",
+            "Jeremy Bentham",
+            "Herbert Spencer",
+            "Bertrand Russell"
           ],
           "answerIndex": 0,
           "explanation": "John Stuart Mill."
@@ -15797,10 +15797,10 @@
         {
           "prompt": "What foundational ethical principle was established by Mill in \"On Liberty\" to limit state power over the individual solely to preventing harm to others?",
           "options": [
-            "The Harm Principle (Utilitarian Liberty  The Harm Principle)",
-            "The Categorical Imperative (Utilitarian Liberty  The Harm Principle)",
-            "The Golden Rule (Utilitarian Liberty  The Harm Principle)",
-            "The Pleasure Principle (Utilitarian Liberty  The Harm Principle)"
+            "The Harm Principle",
+            "The Categorical Imperative",
+            "The Golden Rule",
+            "The Pleasure Principle"
           ],
           "answerIndex": 0,
           "explanation": "The Harm Principle."
@@ -15812,10 +15812,10 @@
         {
           "prompt": "Translate: \"Mill argued that silencing dissenting opinions robs humanity of the opportunity to exchange error for truth, reducing living conviction into unexamined prejudice.\"",
           "options": [
-            "John Stuart Mill was a medieval king of Scotland. (Utilitarian Liberty  The Harm Principle)",
-            "On Liberty is a manual for sailing warships. (Utilitarian Liberty  The Harm Principle)",
-            "Mill argued that silencing dissenting opinions robs humanity of the opportunity to exchange error for truth, reducing living conviction into unexamined prejudice. (Utilitarian Liberty  The Harm Principle)",
-            "Mill claimed that all pleasures are identical in quality. (Utilitarian Liberty  The Harm Principle)"
+            "John Stuart Mill was a medieval king of Scotland.",
+            "On Liberty is a manual for sailing warships.",
+            "Mill argued that silencing dissenting opinions robs humanity of the opportunity to exchange error for truth, reducing living conviction into unexamined prejudice.",
+            "Mill claimed that all pleasures are identical in quality."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Mill analysis translation.",
@@ -15824,10 +15824,10 @@
         {
           "prompt": "What landmark 1869 feminist treatise was written by John Stuart Mill, co-developed with Harriet Taylor Mill, demanding equal rights for women?",
           "options": [
-            "A Vindication of the Rights of Woman (Utilitarian Liberty  The Harm Principle)",
-            "The Subjection of Women (Utilitarian Liberty  The Harm Principle)",
-            "The Feminine Mystique (Utilitarian Liberty  The Harm Principle)",
-            "The Second Sex (Utilitarian Liberty  The Harm Principle)"
+            "A Vindication of the Rights of Woman",
+            "The Subjection of Women",
+            "The Feminine Mystique",
+            "The Second Sex"
           ],
           "answerIndex": 1,
           "explanation": "The Subjection of Women.",
@@ -15864,10 +15864,10 @@
         {
           "prompt": "Which master philosopher authored both the \"Tractatus Logico-Philosophicus\" (1921) and \"Philosophical Investigations\" (1953)?",
           "options": [
-            "Gottlob Frege (The Limits of Language  LanguageGames)",
-            "G.E. Moore (The Limits of Language  LanguageGames)",
-            "Ludwig Wittgenstein (The Limits of Language  LanguageGames)",
-            "Bertrand Russell (The Limits of Language  LanguageGames)"
+            "Gottlob Frege",
+            "G.E. Moore",
+            "Ludwig Wittgenstein",
+            "Bertrand Russell"
           ],
           "answerIndex": 2,
           "explanation": "Ludwig Wittgenstein."
@@ -15879,10 +15879,10 @@
         {
           "prompt": "What famous concept was introduced in Wittgenstein's \"Philosophical Investigations\" to describe how words derive their meaning from their active use in social activities?",
           "options": [
-            "Universal Grammar (The Limits of Language  LanguageGames)",
-            "Logical Positivism (The Limits of Language  LanguageGames)",
-            "Language-Games (The Limits of Language  LanguageGames)",
-            "Picture Theory (The Limits of Language  LanguageGames)"
+            "Universal Grammar",
+            "Logical Positivism",
+            "Language-Games",
+            "Picture Theory"
           ],
           "answerIndex": 2,
           "explanation": "Language-Games (Lojërat gjuhësore / Sprachspiele)."
@@ -15894,10 +15894,10 @@
         {
           "prompt": "Translate: \"Wittgenstein established in his later philosophy that language is not a static formal calculus, but an open constellation of language-games woven into shared human forms of life.\"",
           "options": [
-            "The Tractatus was written as an Italian comic opera. (The Limits of Language  LanguageGames)",
-            "Wittgenstein established in his later philosophy that language is not a static formal calculus, but an open constellation of language-games woven into shared human forms of life. (The Limits of Language  LanguageGames)",
-            "Language-games refers to board games played by children. (The Limits of Language  LanguageGames)",
-            "Ludwig Wittgenstein was an 18th-century Austrian painter. (The Limits of Language  LanguageGames)"
+            "The Tractatus was written as an Italian comic opera.",
+            "Wittgenstein established in his later philosophy that language is not a static formal calculus, but an open constellation of language-games woven into shared human forms of life.",
+            "Language-games refers to board games played by children.",
+            "Ludwig Wittgenstein was an 18th-century Austrian painter."
           ],
           "answerIndex": 1,
           "explanation": "Accurate Wittgenstein analysis translation.",
@@ -15906,10 +15906,10 @@
         {
           "prompt": "What famous final proposition of the *Tractatus* commands silence regarding metaphysical topics that exceed the boundary of empirical language?",
           "options": [
-            "Proposition 7: «Whereof one cannot speak, thereof one must be silent» (The Limits of Language  LanguageGames)",
-            "Proposition 4.2 (The Limits of Language  LanguageGames)",
-            "Proposition 6.54 (The Limits of Language  LanguageGames)",
-            "Proposition 1 (The Limits of Language  LanguageGames)"
+            "Proposition 7: «Whereof one cannot speak, thereof one must be silent»",
+            "Proposition 4.2",
+            "Proposition 6.54",
+            "Proposition 1"
           ],
           "answerIndex": 0,
           "explanation": "Proposition 7.",
@@ -16028,10 +16028,10 @@
         {
           "prompt": "Which master British-American director created \"Vertigo\" (1958), \"Rear Window\" (1954), and \"Psycho\" (1960), pioneering the Dolly Zoom and the MacGuffin?",
           "options": [
-            "Stanley Kubrick (Pure Visual Suspense)",
-            "Sir David Lean (Pure Visual Suspense)",
-            "Orson Welles (Pure Visual Suspense)",
-            "Sir Alfred Hitchcock (Pure Visual Suspense)"
+            "Stanley Kubrick",
+            "Sir David Lean",
+            "Orson Welles",
+            "Sir Alfred Hitchcock"
           ],
           "answerIndex": 3,
           "explanation": "Sir Alfred Hitchcock."
@@ -16043,10 +16043,10 @@
         {
           "prompt": "What famous camera technique, combining a forward camera dolly with a simultaneous optical zoom-out, was invented in Hitchcock's \"Vertigo\" to simulate fear of heights?",
           "options": [
-            "The Dolly Zoom (Pure Visual Suspense)",
-            "The Dutch Angle (Pure Visual Suspense)",
-            "The Whip Pan (Pure Visual Suspense)",
-            "The Bullet Time (Pure Visual Suspense)"
+            "The Dolly Zoom",
+            "The Dutch Angle",
+            "The Whip Pan",
+            "The Bullet Time"
           ],
           "answerIndex": 0,
           "explanation": "The Dolly Zoom (The Vertigo Effect)."
@@ -16058,10 +16058,10 @@
         {
           "prompt": "Translate: \"Hitchcock defined cinematic suspense not as sudden surprise, but as giving the audience secret information that the characters on screen do not possess.\"",
           "options": [
-            "Vertigo is a documentary on mountain climbing in the Alps. (Pure Visual Suspense)",
-            "Alfred Hitchcock was a medieval English poet. (Pure Visual Suspense)",
-            "Psycho was filmed without any camera cuts. (Pure Visual Suspense)",
-            "Hitchcock defined cinematic suspense not as sudden surprise, but as giving the audience secret information that the characters on screen do not possess. (Pure Visual Suspense)"
+            "Vertigo is a documentary on mountain climbing in the Alps.",
+            "Alfred Hitchcock was a medieval English poet.",
+            "Psycho was filmed without any camera cuts.",
+            "Hitchcock defined cinematic suspense not as sudden surprise, but as giving the audience secret information that the characters on screen do not possess."
           ],
           "answerIndex": 3,
           "explanation": "Accurate Hitchcock suspense analysis translation.",
@@ -16070,10 +16070,10 @@
         {
           "prompt": "Which legendary composer created the piercing, shrieking string musical score for Hitchcock's 1960 thriller *Psycho* as well as the soundtrack for *Vertigo*?",
           "options": [
-            "Max Steiner (Pure Visual Suspense)",
-            "John Williams (Pure Visual Suspense)",
-            "Bernard Herrmann (Pure Visual Suspense)",
-            "Ennio Morricone (Pure Visual Suspense)"
+            "Max Steiner",
+            "John Williams",
+            "Bernard Herrmann",
+            "Ennio Morricone"
           ],
           "answerIndex": 2,
           "explanation": "Bernard Herrmann.",
@@ -16110,10 +16110,10 @@
         {
           "prompt": "Which master director created \"2001: A Space Odyssey\" (1968), filmed \"Barry Lyndon\" (1975) in pure candlelight, and directed \"The Shining\" (1980)?",
           "options": [
-            "Stanley Kubrick (OnePoint Symmetry  The Cosmic Horizon)",
-            "Francis Ford Coppola (OnePoint Symmetry  The Cosmic Horizon)",
-            "Steven Spielberg (OnePoint Symmetry  The Cosmic Horizon)",
-            "Sir Alfred Hitchcock (OnePoint Symmetry  The Cosmic Horizon)"
+            "Stanley Kubrick",
+            "Francis Ford Coppola",
+            "Steven Spielberg",
+            "Sir Alfred Hitchcock"
           ],
           "answerIndex": 0,
           "explanation": "Stanley Kubrick."
@@ -16125,10 +16125,10 @@
         {
           "prompt": "What ultra-fast camera lens, originally manufactured by Zeiss for NASA's Apollo moon photography program, was used by Kubrick to film \"Barry Lyndon\" in natural candlelight?",
           "options": [
-            "Zeiss 50mm f/0.7 lens (OnePoint Symmetry  The Cosmic Horizon)",
-            "Leica 35mm f/1.4 (OnePoint Symmetry  The Cosmic Horizon)",
-            "Nikon 50mm f/1.8 (OnePoint Symmetry  The Cosmic Horizon)",
-            "Canon 85mm f/1.2 (OnePoint Symmetry  The Cosmic Horizon)"
+            "Zeiss 50mm f/0.7 lens",
+            "Leica 35mm f/1.4",
+            "Nikon 50mm f/1.8",
+            "Canon 85mm f/1.2"
           ],
           "answerIndex": 0,
           "explanation": "Zeiss 50mm f/0.7 lens."
@@ -16140,10 +16140,10 @@
         {
           "prompt": "Translate: \"Kubrick deployed one-point symmetrical perspective and groundbreaking photographic lenses to examine humanity's primal violence beneath its veneer of technological advancement.\"",
           "options": [
-            "2001: A Space Odyssey is a silent cartoon about medieval knights. (OnePoint Symmetry  The Cosmic Horizon)",
-            "Stanley Kubrick was an 18th-century French cardinal. (OnePoint Symmetry  The Cosmic Horizon)",
-            "Kubrick deployed one-point symmetrical perspective and groundbreaking photographic lenses to examine humanity's primal violence beneath its veneer of technological advancement. (OnePoint Symmetry  The Cosmic Horizon)",
-            "The Shining was filmed entirely on an iPhone in 2020. (OnePoint Symmetry  The Cosmic Horizon)"
+            "2001: A Space Odyssey is a silent cartoon about medieval knights.",
+            "Stanley Kubrick was an 18th-century French cardinal.",
+            "Kubrick deployed one-point symmetrical perspective and groundbreaking photographic lenses to examine humanity's primal violence beneath its veneer of technological advancement.",
+            "The Shining was filmed entirely on an iPhone in 2020."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Kubrick analysis translation.",
@@ -16152,10 +16152,10 @@
         {
           "prompt": "What sentient red-eyed supercomputer controls the Discovery One spaceship in Kubrick's *2001: A Space Odyssey*?",
           "options": [
-            "Skynet (OnePoint Symmetry  The Cosmic Horizon)",
-            "HAL 9000 (OnePoint Symmetry  The Cosmic Horizon)",
-            "Deep Thought (OnePoint Symmetry  The Cosmic Horizon)",
-            "Jarvis (OnePoint Symmetry  The Cosmic Horizon)"
+            "Skynet",
+            "HAL 9000",
+            "Deep Thought",
+            "Jarvis"
           ],
           "answerIndex": 1,
           "explanation": "HAL 9000.",
@@ -16274,10 +16274,10 @@
         {
           "prompt": "Which master British-American director won the Academy Award for Best Picture and Director for \"Oppenheimer\" (2023) and directed \"Memento\" and \"Inception\"?",
           "options": [
-            "Danny Boyle (The Architecture of NonLinear Time  IMAX Scale)",
-            "David Fincher (The Architecture of NonLinear Time  IMAX Scale)",
-            "Christopher Nolan (The Architecture of NonLinear Time  IMAX Scale)",
-            "Denis Villeneuve (The Architecture of NonLinear Time  IMAX Scale)"
+            "Danny Boyle",
+            "David Fincher",
+            "Christopher Nolan",
+            "Denis Villeneuve"
           ],
           "answerIndex": 2,
           "explanation": "Christopher Nolan."
@@ -16289,10 +16289,10 @@
         {
           "prompt": "What unique narrative structure is used in Christopher Nolan's 2000 breakout thriller \"Memento\" to mimic the protagonist's anterograde amnesia?",
           "options": [
-            "Found footage video (The Architecture of NonLinear Time  IMAX Scale)",
-            "A single continuous take (The Architecture of NonLinear Time  IMAX Scale)",
-            "Reverse chronological sequences alternating with forward black-and-white scenes (The Architecture of NonLinear Time  IMAX Scale)",
-            "Split screen throughout (The Architecture of NonLinear Time  IMAX Scale)"
+            "Found footage video",
+            "A single continuous take",
+            "Reverse chronological sequences alternating with forward black-and-white scenes",
+            "Split screen throughout"
           ],
           "answerIndex": 2,
           "explanation": "Reverse chronological sequences alternating with forward black-and-white scenes."
@@ -16304,10 +16304,10 @@
         {
           "prompt": "Translate: \"Nolan constructed complex architectural labyrinths of time, employing practical mechanical effects and 70mm IMAX photography to examine guilt, memory, and human mortality.\"",
           "options": [
-            "Nolan constructed complex architectural labyrinths of time, employing practical mechanical effects and 70mm IMAX photography to examine guilt, memory, and human mortality. (The Architecture of NonLinear Time  IMAX Scale)",
-            "Inception is a silent cooking documentary. (The Architecture of NonLinear Time  IMAX Scale)",
-            "Oppenheimer was filmed on an 8mm home video camera in 1950. (The Architecture of NonLinear Time  IMAX Scale)",
-            "Christopher Nolan is a medieval violin builder. (The Architecture of NonLinear Time  IMAX Scale)"
+            "Nolan constructed complex architectural labyrinths of time, employing practical mechanical effects and 70mm IMAX photography to examine guilt, memory, and human mortality.",
+            "Inception is a silent cooking documentary.",
+            "Oppenheimer was filmed on an 8mm home video camera in 1950.",
+            "Christopher Nolan is a medieval violin builder."
           ],
           "answerIndex": 0,
           "explanation": "Accurate Nolan analysis translation.",
@@ -16316,10 +16316,10 @@
         {
           "prompt": "Which Nobel Prize-winning theoretical physicist collaborated with Christopher Nolan to calculate the equations for the spinning black hole Gargantua in *Interstellar* (2014)?",
           "options": [
-            "Roger Penrose (The Architecture of NonLinear Time  IMAX Scale)",
-            "Stephen Hawking (The Architecture of NonLinear Time  IMAX Scale)",
-            "Richard Feynman (The Architecture of NonLinear Time  IMAX Scale)",
-            "Kip Thorne (The Architecture of NonLinear Time  IMAX Scale)"
+            "Roger Penrose",
+            "Stephen Hawking",
+            "Richard Feynman",
+            "Kip Thorne"
           ],
           "answerIndex": 3,
           "explanation": "Kip Thorne.",
@@ -16438,10 +16438,10 @@
         {
           "prompt": "What fat, heated until smoking hot in the oven, is traditionally used to bake towering, crispy Yorkshire Puddings?",
           "options": [
-            "Olive oil (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Margarine (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Coconut oil (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Beef dripping (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)"
+            "Olive oil",
+            "Margarine",
+            "Coconut oil",
+            "Beef dripping"
           ],
           "answerIndex": 3,
           "explanation": "Beef dripping (Beef tallow)."
@@ -16453,10 +16453,10 @@
         {
           "prompt": "Which high-starch British potato variety is widely regarded as the gold standard for making crispy, glass-crusted roast potatoes?",
           "options": [
-            "Maris Piper (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Sweet Potato (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Fingerling (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "New Waxy Potato (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)"
+            "Maris Piper",
+            "Sweet Potato",
+            "Fingerling",
+            "New Waxy Potato"
           ],
           "answerIndex": 0,
           "explanation": "Maris Piper."
@@ -16468,10 +16468,10 @@
         {
           "prompt": "Translate: \"A traditional British Sunday roast pairs dry-aged beef with towering Yorkshire puddings puffed in smoking beef dripping and goose-fat roasted potatoes.\"",
           "options": [
-            "Maris Piper is a type of white wine grape. (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "The Sunday roast was invented in a fast-food factory in 1990. (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "A traditional British Sunday roast pairs dry-aged beef with towering Yorkshire puddings puffed in smoking beef dripping and goose-fat roasted potatoes. (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Yorkshire puddings are sweet chocolate puddings from Scotland. (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)"
+            "Maris Piper is a type of white wine grape.",
+            "The Sunday roast was invented in a fast-food factory in 1990.",
+            "A traditional British Sunday roast pairs dry-aged beef with towering Yorkshire puddings puffed in smoking beef dripping and goose-fat roasted potatoes.",
+            "Yorkshire puddings are sweet chocolate puddings from Scotland."
           ],
           "answerIndex": 2,
           "explanation": "Accurate Sunday Roast analysis translation.",
@@ -16480,10 +16480,10 @@
         {
           "prompt": "What pungent, creamy root condiment is the indispensable British accompaniment to roast beef?",
           "options": [
-            "Mustard ketchup (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Creamed Horseradish (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Mint jelly (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)",
-            "Tartar sauce (The Architecture of the British Sunday Roast  Yorkshire Pudding The British Sunday Roast)"
+            "Mustard ketchup",
+            "Creamed Horseradish",
+            "Mint jelly",
+            "Tartar sauce"
           ],
           "answerIndex": 1,
           "explanation": "Creamed Horseradish.",
@@ -16602,10 +16602,10 @@
         {
           "prompt": "Which iconic blue-veined English cheese, known as \"The King of English Cheeses\", can only be legally produced in Derbyshire, Nottinghamshire, and Leicestershire?",
           "options": [
-            "Blue Stilton (The Terroir of British Farmhouse Cheeses)",
-            "Cheddar (The Terroir of British Farmhouse Cheeses)",
-            "Red Leicester (The Terroir of British Farmhouse Cheeses)",
-            "Wensleydale (The Terroir of British Farmhouse Cheeses)"
+            "Blue Stilton",
+            "Cheddar",
+            "Red Leicester",
+            "Wensleydale"
           ],
           "answerIndex": 0,
           "explanation": "Blue Stilton (PDO)."
@@ -16617,10 +16617,10 @@
         {
           "prompt": "In which English county did traditional Cheddar cheese originate, where wheels are still aged in lard-soaked cloth in limestone caves?",
           "options": [
-            "Somerset (The Terroir of British Farmhouse Cheeses)",
-            "Kent (The Terroir of British Farmhouse Cheeses)",
-            "Cumbria (The Terroir of British Farmhouse Cheeses)",
-            "Cornwall (The Terroir of British Farmhouse Cheeses)"
+            "Somerset",
+            "Kent",
+            "Cumbria",
+            "Cornwall"
           ],
           "answerIndex": 0,
           "explanation": "Somerset (West Country)."
@@ -16632,10 +16632,10 @@
         {
           "prompt": "Translate: \"Clothbound Somerset farmhouse Cheddar develops deep savory broth notes and crunchy calcium crystals through two years of cave maturation in lard-soaked muslin.\"",
           "options": [
-            "Clothbound Somerset farmhouse Cheddar develops deep savory broth notes and crunchy calcium crystals through two years of cave maturation in lard-soaked muslin. (The Terroir of British Farmhouse Cheeses)",
-            "Cheddaring refers to boiling cheese in sugar water. (The Terroir of British Farmhouse Cheeses)",
-            "Stilton cheese must be eaten exclusively on Mondays. (The Terroir of British Farmhouse Cheeses)",
-            "Blue Stilton is an unfermented goat butter from Wales. (The Terroir of British Farmhouse Cheeses)"
+            "Clothbound Somerset farmhouse Cheddar develops deep savory broth notes and crunchy calcium crystals through two years of cave maturation in lard-soaked muslin.",
+            "Cheddaring refers to boiling cheese in sugar water.",
+            "Stilton cheese must be eaten exclusively on Mondays.",
+            "Blue Stilton is an unfermented goat butter from Wales."
           ],
           "answerIndex": 0,
           "explanation": "Accurate British cheese analysis translation.",
@@ -16644,10 +16644,10 @@
         {
           "prompt": "What physical process during Cheddar production involves cutting, turning, and stacking warm blocks of curd to drain whey and develop lactic acid?",
           "options": [
-            "Pasteurization (The Terroir of British Farmhouse Cheeses)",
-            "Homogenization (The Terroir of British Farmhouse Cheeses)",
-            "Curdling (The Terroir of British Farmhouse Cheeses)",
-            "Cheddaring (The Terroir of British Farmhouse Cheeses)"
+            "Pasteurization",
+            "Homogenization",
+            "Curdling",
+            "Cheddaring"
           ],
           "answerIndex": 3,
           "explanation": "Cheddaring.",
@@ -16684,10 +16684,10 @@
         {
           "prompt": "Which grassroots organization, founded in 1971, championed the preservation of unpasteurized, naturally conditioned British Cask Ale?",
           "options": [
-            "The Pub Protection Society (The Craft of British Real Ale)",
-            "The Brewers Guild (The Craft of British Real Ale)",
-            "CAMRA (The Craft of British Real Ale)",
-            "The British Beer Institute (The Craft of British Real Ale)"
+            "The Pub Protection Society",
+            "The Brewers Guild",
+            "CAMRA",
+            "The British Beer Institute"
           ],
           "answerIndex": 2,
           "explanation": "CAMRA (Campaign for Real Ale)."
@@ -16699,10 +16699,10 @@
         {
           "prompt": "What manual mechanical device is pulled by a bartender to pump cask-conditioned Real Ale from the cellar into a pint glass without gas pressure?",
           "options": [
-            "The Siphon (The Craft of British Real Ale)",
-            "The Carbonation Tap (The Craft of British Real Ale)",
-            "The Beer Engine (The Craft of British Real Ale)",
-            "The Gas Cylinder (The Craft of British Real Ale)"
+            "The Siphon",
+            "The Carbonation Tap",
+            "The Beer Engine",
+            "The Gas Cylinder"
           ],
           "answerIndex": 2,
           "explanation": "The Beer Engine (Handpull)."
@@ -16714,10 +16714,10 @@
         {
           "prompt": "Translate: \"Real Ale undergoes live secondary fermentation inside the cellar cask, drawn by a manual beer engine at cellar temperature without added carbon dioxide.\"",
           "options": [
-            "A beer engine is a nuclear-powered submarine motor. (The Craft of British Real Ale)",
-            "CAMRA is an organization dedicated to banning all beer in Britain. (The Craft of British Real Ale)",
-            "British cask ale is frozen into solid ice cubes before serving. (The Craft of British Real Ale)",
-            "Real Ale undergoes live secondary fermentation inside the cellar cask, drawn by a manual beer engine at cellar temperature without added carbon dioxide. (The Craft of British Real Ale)"
+            "A beer engine is a nuclear-powered submarine motor.",
+            "CAMRA is an organization dedicated to banning all beer in Britain.",
+            "British cask ale is frozen into solid ice cubes before serving.",
+            "Real Ale undergoes live secondary fermentation inside the cellar cask, drawn by a manual beer engine at cellar temperature without added carbon dioxide."
           ],
           "answerIndex": 3,
           "explanation": "Accurate British Real Ale analysis translation.",
@@ -16726,10 +16726,10 @@
         {
           "prompt": "What prized native English hop variety from Kent provides traditional cask bitters with delicate floral, honey, and earthy aromas?",
           "options": [
-            "Mosaic (The Craft of British Real Ale)",
-            "Cascade (The Craft of British Real Ale)",
-            "East Kent Goldings (The Craft of British Real Ale)",
-            "Citra (The Craft of British Real Ale)"
+            "Mosaic",
+            "Cascade",
+            "East Kent Goldings",
+            "Citra"
           ],
           "answerIndex": 2,
           "explanation": "East Kent Goldings.",
@@ -16853,10 +16853,10 @@
         {
           "prompt": "What was the primary acoustic and dramaturgical function of the soliloquy in Elizabethan public amphitheatres like the Globe?",
           "options": [
-            "A silent pantomime performed exclusively while offstage machinery rotated scenery. (William Shakespeare  The Globe Theatre)",
-            "A direct, daylight address to the surrounding audience that shared internal moral reasoning. (William Shakespeare  The Globe Theatre)",
-            "A rhymed musical aria sung in Latin to mark the end of each act. (William Shakespeare  The Globe Theatre)",
-            "An announcement by the theatre owner regarding ticket prices. (William Shakespeare  The Globe Theatre)"
+            "A silent pantomime performed exclusively while offstage machinery rotated scenery.",
+            "A direct, daylight address to the surrounding audience that shared internal moral reasoning.",
+            "A rhymed musical aria sung in Latin to mark the end of each act.",
+            "An announcement by the theatre owner regarding ticket prices."
           ],
           "answerIndex": 1,
           "explanation": "In the open-air, thrust-stage Globe, soliloquies engaged the groundlings directly as confidants in moral and existential dilemmas."
@@ -16868,10 +16868,10 @@
         {
           "prompt": "How does Shakespeare dynamically employ shifts between unrhymed blank verse and vernacular prose?",
           "options": [
-            "Prose is reserved strictly for translation into foreign languages. (William Shakespeare  The Globe Theatre)",
-            "Verse is used exclusively for villains, while heroes always speak in prose. (William Shakespeare  The Globe Theatre)",
-            "Verse signals elevated status, poetic passion, or political authority, while prose frequently indicates comedy, lower social station, or mental breakdown. (William Shakespeare  The Globe Theatre)",
-            "The alternation follows a rigid line counter irrespective of dramatic context. (William Shakespeare  The Globe Theatre)"
+            "Prose is reserved strictly for translation into foreign languages.",
+            "Verse is used exclusively for villains, while heroes always speak in prose.",
+            "Verse signals elevated status, poetic passion, or political authority, while prose frequently indicates comedy, lower social station, or mental breakdown.",
+            "The alternation follows a rigid line counter irrespective of dramatic context."
           ],
           "answerIndex": 2,
           "explanation": "Shakespeare dynamically shifts between verse and prose to demarcate social rank, psychological state, and tonal register."
@@ -16883,10 +16883,10 @@
         {
           "prompt": "Which structural poetic meter forms the backbone of Shakespearean dramatic dialogue?",
           "options": [
-            "Unrhymed iambic pentameter (William Shakespeare  The Globe Theatre)",
-            "Dactylic hexameter with heroic couplets (William Shakespeare  The Globe Theatre)",
-            "Trochaic tetrameter exclusively (William Shakespeare  The Globe Theatre)",
-            "Anapestic trimeter with alternating rhymes (William Shakespeare  The Globe Theatre)"
+            "Unrhymed iambic pentameter",
+            "Dactylic hexameter with heroic couplets",
+            "Trochaic tetrameter exclusively",
+            "Anapestic trimeter with alternating rhymes"
           ],
           "answerIndex": 0,
           "explanation": "Blank verse—unrhymed lines of five iambic feet—is the foundational meter of Shakespearean drama.",
@@ -16895,10 +16895,10 @@
         {
           "prompt": "What happened to the original Globe Theatre during a performance of Henry VIII in 1613?",
           "options": [
-            "It was demolished by Puritan authorities overnight. (William Shakespeare  The Globe Theatre)",
-            "A theatrical cannon shot ignited the thatched roof, burning the building to the ground in under an hour. (William Shakespeare  The Globe Theatre)",
-            "It collapsed into the Thames due to riverbank flooding. (William Shakespeare  The Globe Theatre)",
-            "It was converted into a municipal grain warehouse. (William Shakespeare  The Globe Theatre)"
+            "It was demolished by Puritan authorities overnight.",
+            "A theatrical cannon shot ignited the thatched roof, burning the building to the ground in under an hour.",
+            "It collapsed into the Thames due to riverbank flooding.",
+            "It was converted into a municipal grain warehouse."
           ],
           "answerIndex": 1,
           "explanation": "A theatrical cannon ignited the thatch during a 1613 performance of Henry VIII, burning the theatre down.",
@@ -16940,10 +16940,10 @@
         {
           "prompt": "Which revolutionary institutional change occurred in English public theatre immediately following the 1660 Restoration of Charles II?",
           "options": [
-            "The total prohibition of comedic scripts in favor of solemn religious mysteries. (Restoration Comedy  The Comedy of Manners)",
-            "The legal debut of professional female actresses on the commercial public stage. (Restoration Comedy  The Comedy of Manners)",
-            "The requirement that all actors speak in whispered rhymed couplets. (Restoration Comedy  The Comedy of Manners)",
-            "The abolition of all indoor candlelit theatres. (Restoration Comedy  The Comedy of Manners)"
+            "The total prohibition of comedic scripts in favor of solemn religious mysteries.",
+            "The legal debut of professional female actresses on the commercial public stage.",
+            "The requirement that all actors speak in whispered rhymed couplets.",
+            "The abolition of all indoor candlelit theatres."
           ],
           "answerIndex": 1,
           "explanation": "The Restoration patents granted by Charles II explicitly permitted women to perform female roles on stage for the first time in English history."
@@ -16955,10 +16955,10 @@
         {
           "prompt": "What constitutes the defining thematic and stylistic hallmark of Restoration Comedy of Manners?",
           "options": [
-            "Solemn pastoral laments focusing on agricultural labor and rural monasticism. (Restoration Comedy  The Comedy of Manners)",
-            "High-speed slapstick violence featuring mythical beasts without spoken dialogue. (Restoration Comedy  The Comedy of Manners)",
-            "Sharp, cynical repartee exploring aristocratic sexual intrigue, marriage contracts, and social hypocrisy. (Restoration Comedy  The Comedy of Manners)",
-            "Strict adherence to medieval morality play conventions with personified sins. (Restoration Comedy  The Comedy of Manners)"
+            "Solemn pastoral laments focusing on agricultural labor and rural monasticism.",
+            "High-speed slapstick violence featuring mythical beasts without spoken dialogue.",
+            "Sharp, cynical repartee exploring aristocratic sexual intrigue, marriage contracts, and social hypocrisy.",
+            "Strict adherence to medieval morality play conventions with personified sins."
           ],
           "answerIndex": 2,
           "explanation": "Restoration Comedy of Manners centers on aristocratic social maneuvering, libertine cynicism, and sparkling verbal wit."
@@ -16970,10 +16970,10 @@
         {
           "prompt": "Who authored The Way of the World (1700), widely regarded as the literary masterpiece of Restoration Comedy of Manners?",
           "options": [
-            "William Congreve (Restoration Comedy  The Comedy of Manners)",
-            "John Milton (Restoration Comedy  The Comedy of Manners)",
-            "Christopher Marlowe (Restoration Comedy  The Comedy of Manners)",
-            "Ben Jonson (Restoration Comedy  The Comedy of Manners)"
+            "William Congreve",
+            "John Milton",
+            "Christopher Marlowe",
+            "Ben Jonson"
           ],
           "answerIndex": 0,
           "explanation": "William Congreve authored *The Way of the World*, celebrated for its intricate plotting and polished provisio scenes.",
@@ -16982,10 +16982,10 @@
         {
           "prompt": "What was the 'provisio scene' in Restoration comedies like Congreve's The Way of the World?",
           "options": [
-            "A legal and emotional negotiation between prospective spouses establishing conditions before agreeing to marry. (Restoration Comedy  The Comedy of Manners)",
-            "A food fight staged in an inn kitchen. (Restoration Comedy  The Comedy of Manners)",
-            "A monologue praising the reigning monarch's tax policies. (Restoration Comedy  The Comedy of Manners)",
-            "An intermission song performed by the theatre stagehands. (Restoration Comedy  The Comedy of Manners)"
+            "A legal and emotional negotiation between prospective spouses establishing conditions before agreeing to marry.",
+            "A food fight staged in an inn kitchen.",
+            "A monologue praising the reigning monarch's tax policies.",
+            "An intermission song performed by the theatre stagehands."
           ],
           "answerIndex": 0,
           "explanation": "The provisio scene featured the hero and heroine debating conditions under which they would preserve their independence in marriage.",
@@ -17027,10 +17027,10 @@
         {
           "prompt": "How does Oscar Wilde employ the rhetorical device of the paradoxical epigram in his society comedies?",
           "options": [
-            "By reciting literal Bible verses without irony to preach strict Victorian asceticism. (Oscar Wilde  The Aesthetic Movement)",
-            "By inverting accepted societal clichés and moral axioms to reveal their underlying absurdity and pretension. (Oscar Wilde  The Aesthetic Movement)",
-            "By shouting ungrammatical insults at the audience between scenes. (Oscar Wilde  The Aesthetic Movement)",
-            "By composing rhymed nursery rhymes for children's pantomimes. (Oscar Wilde  The Aesthetic Movement)"
+            "By reciting literal Bible verses without irony to preach strict Victorian asceticism.",
+            "By inverting accepted societal clichés and moral axioms to reveal their underlying absurdity and pretension.",
+            "By shouting ungrammatical insults at the audience between scenes.",
+            "By composing rhymed nursery rhymes for children's pantomimes."
           ],
           "answerIndex": 1,
           "explanation": "Wilde inverted conventional moral platitudes to create sparkling paradoxes that dismantled Victorian earnestness."
@@ -17042,10 +17042,10 @@
         {
           "prompt": "In The Importance of Being Earnest, what does Algernon Moncrieff mean by the term 'Bunburying'?",
           "options": [
-            "A specialized culinary method for baking cucumber loaves. (Oscar Wilde  The Aesthetic Movement)",
-            "The practice of inventing a fictitious double or pretext to escape tedious social and familial obligations. (Oscar Wilde  The Aesthetic Movement)",
-            "A Victorian street dance performed during cricket tournaments. (Oscar Wilde  The Aesthetic Movement)",
-            "A parliamentary voting procedure for hereditary peers. (Oscar Wilde  The Aesthetic Movement)"
+            "A specialized culinary method for baking cucumber loaves.",
+            "The practice of inventing a fictitious double or pretext to escape tedious social and familial obligations.",
+            "A Victorian street dance performed during cricket tournaments.",
+            "A parliamentary voting procedure for hereditary peers."
           ],
           "answerIndex": 1,
           "explanation": "Bunburying is Algernon's term for fabricating a sick friend (Bunbury) to provide an alibi for escaping social duties."
@@ -17057,10 +17057,10 @@
         {
           "prompt": "What is the subtitle of Oscar Wilde's 1895 masterpiece The Importance of Being Earnest?",
           "options": [
-            "A Melodrama for Tragic Times (Oscar Wilde  The Aesthetic Movement)",
-            "A Treatise on British Imperialism (Oscar Wilde  The Aesthetic Movement)",
-            "A Trivial Comedy for Serious People (Oscar Wilde  The Aesthetic Movement)",
-            "A Historical Chronicle in Three Acts (Oscar Wilde  The Aesthetic Movement)"
+            "A Melodrama for Tragic Times",
+            "A Treatise on British Imperialism",
+            "A Trivial Comedy for Serious People",
+            "A Historical Chronicle in Three Acts"
           ],
           "answerIndex": 2,
           "explanation": "Wilde gave the play the paradoxically profound subtitle 'A Trivial Comedy for Serious People'.",
@@ -17069,10 +17069,10 @@
         {
           "prompt": "In what object was Jack Worthing discovered as an abandoned infant in Victoria Station in The Importance of Being Earnest?",
           "options": [
-            "A black leather handbag left in the cloakroom of the Brighton line (Oscar Wilde  The Aesthetic Movement)",
-            "A wooden hatbox under a first-class train carriage seat (Oscar Wilde  The Aesthetic Movement)",
-            "A picnic basket in the station tea-room (Oscar Wilde  The Aesthetic Movement)",
-            "A silver trunk shipped from Dublin (Oscar Wilde  The Aesthetic Movement)"
+            "A black leather handbag left in the cloakroom of the Brighton line",
+            "A wooden hatbox under a first-class train carriage seat",
+            "A picnic basket in the station tea-room",
+            "A silver trunk shipped from Dublin"
           ],
           "answerIndex": 0,
           "explanation": "Jack was discovered in a black leather handbag left in the cloakroom at Victoria Station by Miss Prism.",
@@ -17114,10 +17114,10 @@
         {
           "prompt": "What occurs at the end of both Act I and Act II in Samuel Beckett's Waiting for Godot when Vladimir and Estragon agree 'Well, shall we go?' / 'Yes, let's go'?",
           "options": [
-            "They sprint offstage toward London. (Samuel Beckett  PostWar Absurdism)",
-            "The stage direction states: 'They do not move.' (Samuel Beckett  PostWar Absurdism)",
-            "They start singing a jubilant Broadway show tune. (Samuel Beckett  PostWar Absurdism)",
-            "A curtain falls while fireworks explode overhead. (Samuel Beckett  PostWar Absurdism)"
+            "They sprint offstage toward London.",
+            "The stage direction states: 'They do not move.'",
+            "They start singing a jubilant Broadway show tune.",
+            "A curtain falls while fireworks explode overhead."
           ],
           "answerIndex": 1,
           "explanation": "The iconic Beckettian dissonance occurs when their spoken intent to depart is contradicted by the stage direction: 'They do not move.'"
@@ -17129,10 +17129,10 @@
         {
           "prompt": "Why did Samuel Beckett deliberately compose many of his seminal dramatic works in French before translating them into English?",
           "options": [
-            "French was the only language permitted by British theatrical censors at the time. (Samuel Beckett  PostWar Absurdism)",
-            "He felt writing in a second language forced him to strip away verbal ornamentation and write with greater economy and clarity. (Samuel Beckett  PostWar Absurdism)",
-            "He had completely forgotten how to write in his native English. (Samuel Beckett  PostWar Absurdism)",
-            "He wanted to prevent his plays from ever being staged in Dublin. (Samuel Beckett  PostWar Absurdism)"
+            "French was the only language permitted by British theatrical censors at the time.",
+            "He felt writing in a second language forced him to strip away verbal ornamentation and write with greater economy and clarity.",
+            "He had completely forgotten how to write in his native English.",
+            "He wanted to prevent his plays from ever being staged in Dublin."
           ],
           "answerIndex": 1,
           "explanation": "Beckett explained that writing in French allowed him to write 'without style', avoiding easy English rhetorical flourishes."
@@ -17144,10 +17144,10 @@
         {
           "prompt": "Which master-servant pair abruptly interrupts Vladimir and Estragon's vigil on the road in Waiting for Godot?",
           "options": [
-            "Pozzo and Lucky (Samuel Beckett  PostWar Absurdism)",
-            "Rosencrantz and Guildenstern (Samuel Beckett  PostWar Absurdism)",
-            "Polonius and Laertes (Samuel Beckett  PostWar Absurdism)",
-            "Jack and Algernon (Samuel Beckett  PostWar Absurdism)"
+            "Pozzo and Lucky",
+            "Rosencrantz and Guildenstern",
+            "Polonius and Laertes",
+            "Jack and Algernon"
           ],
           "answerIndex": 0,
           "explanation": "Pozzo (holding Lucky by a rope) arrives in Act I, with Lucky famously delivering a torrent of stream-of-consciousness speech when ordered to think.",
@@ -17156,10 +17156,10 @@
         {
           "prompt": "In Beckett's Endgame (1957), where do Nagg and Nell, the elderly parents of the blind protagonist Hamm, spend the entirety of the play?",
           "options": [
-            "In two dustbins placed side-by-side on stage (Samuel Beckett  PostWar Absurdism)",
-            "Inside an antique grandfather clock (Samuel Beckett  PostWar Absurdism)",
-            "Suspended from the ceiling in velvet hammocks (Samuel Beckett  PostWar Absurdism)",
-            "Floating in glass water tanks (Samuel Beckett  PostWar Absurdism)"
+            "In two dustbins placed side-by-side on stage",
+            "Inside an antique grandfather clock",
+            "Suspended from the ceiling in velvet hammocks",
+            "Floating in glass water tanks"
           ],
           "answerIndex": 0,
           "explanation": "In *Endgame*, Hamm's legless parents Nagg and Nell live inside two dustbins, emerging occasionally to ask for food or reminisce.",
@@ -17201,10 +17201,10 @@
         {
           "prompt": "What constitutes the psychological function of the famous 'Pinter pause' in Harold Pinter's plays?",
           "options": [
-            "A signal for the audience to leave the auditorium for drinks. (Contemporary British  Global English Theatre)",
-            "An active moment of silence where characters exert territorial dominance, withhold information, or process existential dread. (Contemporary British  Global English Theatre)",
-            "A technical pause required for the actors to reload battery packs. (Contemporary British  Global English Theatre)",
-            "A tribute to silent film comedy requiring mime gestures. (Contemporary British  Global English Theatre)"
+            "A signal for the audience to leave the auditorium for drinks.",
+            "An active moment of silence where characters exert territorial dominance, withhold information, or process existential dread.",
+            "A technical pause required for the actors to reload battery packs.",
+            "A tribute to silent film comedy requiring mime gestures."
           ],
           "answerIndex": 1,
           "explanation": "Pinter's pauses are charged with unspoken aggression, vulnerability, and shifting power dynamics beneath mundane surfaces."
@@ -17216,10 +17216,10 @@
         {
           "prompt": "Which dramaturgical innovation in dialogue notation did Caryl Churchill pioneer in her 1982 play Top Girls?",
           "options": [
-            "Requiring actors to sing every third word in falsetto. (Contemporary British  Global English Theatre)",
-            "Using forward slashes (Contemporary British  Global English Theatre)",
-            "Eliminating all vowels from printed stage scripts. (Contemporary British  Global English Theatre)",
-            "Writing dialogue entirely in rhymed Latin hexameters. (Contemporary British  Global English Theatre)"
+            "Requiring actors to sing every third word in falsetto.",
+            "Using forward slashes",
+            "Eliminating all vowels from printed stage scripts.",
+            "Writing dialogue entirely in rhymed Latin hexameters."
           ],
           "answerIndex": 1,
           "explanation": "Churchill pioneered the slash notation to choreograph overlapping, realistic conversation among multiple women."
@@ -17231,10 +17231,10 @@
         {
           "prompt": "Whose perspective frames the events of Hamlet in Tom Stoppard's 1966 metatheatrical masterpiece Rosencrantz and Guildenstern Are Dead?",
           "options": [
-            "Two minor courtiers who find themselves helpless pawns in a narrative they cannot comprehend (Contemporary British  Global English Theatre)",
-            "King Claudius writing secret memoirs in exile (Contemporary British  Global English Theatre)",
-            "Ophelia's ghost haunting Elsinore Castle (Contemporary British  Global English Theatre)",
-            "The Gravedigger working alone in the cemetery (Contemporary British  Global English Theatre)"
+            "Two minor courtiers who find themselves helpless pawns in a narrative they cannot comprehend",
+            "King Claudius writing secret memoirs in exile",
+            "Ophelia's ghost haunting Elsinore Castle",
+            "The Gravedigger working alone in the cemetery"
           ],
           "answerIndex": 0,
           "explanation": "Stoppard reframes *Hamlet* through Shakespeare's two minor, doomed courtiers, blending comedy with Beckettian existential confusion.",
@@ -17243,10 +17243,10 @@
         {
           "prompt": "Which Tom Stoppard play (1993) alternates between 1809 and the present day in a Derbyshire country estate to explore chaos theory, thermodynamics, and Romanticism?",
           "options": [
-            "Arcadia (Contemporary British  Global English Theatre)",
-            "The Coast of Utopia (Contemporary British  Global English Theatre)",
-            "Jumpers (Contemporary British  Global English Theatre)",
-            "Travesties (Contemporary British  Global English Theatre)"
+            "Arcadia",
+            "The Coast of Utopia",
+            "Jumpers",
+            "Travesties"
           ],
           "answerIndex": 0,
           "explanation": "*Arcadia* is renowned for weaving mathematical fractals, Byron, landscape gardening, and literary mystery across two centuries.",
@@ -17288,10 +17288,10 @@
         {
           "prompt": "How did Sir Christopher Wren structurally solve the problem of supporting St Paul's Cathedral's massive stone lantern without collapsing the interior dome?",
           "options": [
-            "By using cast-iron cables suspended from nearby hot air balloons. (Sir Christopher Wren  The Rebuilding of London)",
-            "By constructing an intermediate conical brick dome between the inner hemispherical dome and outer timber shell. (Sir Christopher Wren  The Rebuilding of London)",
-            "By filling the entire cathedral roof with solid granite blocks. (Sir Christopher Wren  The Rebuilding of London)",
-            "By eliminating the lantern entirely and painting a trompe-l'œil window. (Sir Christopher Wren  The Rebuilding of London)"
+            "By using cast-iron cables suspended from nearby hot air balloons.",
+            "By constructing an intermediate conical brick dome between the inner hemispherical dome and outer timber shell.",
+            "By filling the entire cathedral roof with solid granite blocks.",
+            "By eliminating the lantern entirely and painting a trompe-l'œil window."
           ],
           "answerIndex": 1,
           "explanation": "Wren placed a hidden structural brick cone between the inner and outer domes to support the 850-ton lantern."
@@ -17303,10 +17303,10 @@
         {
           "prompt": "Which famous Latin inscription marks Sir Christopher Wren's crypt inside St Paul's Cathedral?",
           "options": [
-            "Carpe diem quam minimum credula postero (Sir Christopher Wren  The Rebuilding of London)",
-            "Si monumentum requiris, circumspice (Sir Christopher Wren  The Rebuilding of London)",
-            "Alea iacta est (Sir Christopher Wren  The Rebuilding of London)",
-            "Veni, vidi, vici (Sir Christopher Wren  The Rebuilding of London)"
+            "Carpe diem quam minimum credula postero",
+            "Si monumentum requiris, circumspice",
+            "Alea iacta est",
+            "Veni, vidi, vici"
           ],
           "answerIndex": 1,
           "explanation": "Wren's son composed the famous epitaph *Si monumentum requiris, circumspice*, directing the observer to the cathedral itself."
@@ -17318,10 +17318,10 @@
         {
           "prompt": "Which historic catastrophe in September 1666 provided Sir Christopher Wren the opportunity to rebuild London's civic and sacred landscape?",
           "options": [
-            "The Great Fire of London (Sir Christopher Wren  The Rebuilding of London)",
-            "The Thames Tsunami (Sir Christopher Wren  The Rebuilding of London)",
-            "The Great Frost of 1684 (Sir Christopher Wren  The Rebuilding of London)",
-            "The Gunpowder Plot (Sir Christopher Wren  The Rebuilding of London)"
+            "The Great Fire of London",
+            "The Thames Tsunami",
+            "The Great Frost of 1684",
+            "The Gunpowder Plot"
           ],
           "answerIndex": 0,
           "explanation": "The Great Fire destroyed medieval London, prompting the comprehensive rebuilding of 51 churches and St Paul's.",
@@ -17330,10 +17330,10 @@
         {
           "prompt": "What primary natural building stone, quarried in Dorset, did Wren specify for St Paul's Cathedral and his London churches?",
           "options": [
-            "Portland limestone (Sir Christopher Wren  The Rebuilding of London)",
-            "Carrara marble (Sir Christopher Wren  The Rebuilding of London)",
-            "Scottish red granite (Sir Christopher Wren  The Rebuilding of London)",
-            "Welsh blue slate (Sir Christopher Wren  The Rebuilding of London)"
+            "Portland limestone",
+            "Carrara marble",
+            "Scottish red granite",
+            "Welsh blue slate"
           ],
           "answerIndex": 0,
           "explanation": "Portland stone provided the durable, luminous white limestone facade characteristic of Wren's London.",
@@ -17375,10 +17375,10 @@
         {
           "prompt": "What core philosophical argument did A.W.N. Pugin advance in his seminal treatise Contrasts (1836)?",
           "options": [
-            "That modern steel-frame skyscrapers were superior to all stone structures. (Gothic Revival  The Palace of Westminster)",
-            "That medieval Gothic architecture embodied Christian moral purity and craftsmanship, contrasting with degraded industrial materialism. (Gothic Revival  The Palace of Westminster)",
-            "That Greek classical temples should replace all Christian churches in London. (Gothic Revival  The Palace of Westminster)",
-            "That buildings should never use windows or decorative stone tracery. (Gothic Revival  The Palace of Westminster)"
+            "That modern steel-frame skyscrapers were superior to all stone structures.",
+            "That medieval Gothic architecture embodied Christian moral purity and craftsmanship, contrasting with degraded industrial materialism.",
+            "That Greek classical temples should replace all Christian churches in London.",
+            "That buildings should never use windows or decorative stone tracery."
           ],
           "answerIndex": 1,
           "explanation": "Pugin argued that Gothic architecture was the only true Christian style, morally and aesthetically superior to modern industrial utilitarianism."
@@ -17390,10 +17390,10 @@
         {
           "prompt": "Which architectural style was specifically mandated by the 1835 competition for the new Palace of Westminster after the 1834 fire?",
           "options": [
-            "French Rococo or Art Nouveau (Gothic Revival  The Palace of Westminster)",
-            "Egyptian Revival or Babylonian (Gothic Revival  The Palace of Westminster)",
-            "Gothic or Elizabethan (Gothic Revival  The Palace of Westminster)",
-            "International Style Modernism (Gothic Revival  The Palace of Westminster)"
+            "French Rococo or Art Nouveau",
+            "Egyptian Revival or Babylonian",
+            "Gothic or Elizabethan",
+            "International Style Modernism"
           ],
           "answerIndex": 2,
           "explanation": "The parliamentary committee required Gothic or Elizabethan style to reflect national historical continuity."
@@ -17405,10 +17405,10 @@
         {
           "prompt": "Who designed the iconic clock faces, metalwork, and intricate Gothic interiors of the Palace of Westminster?",
           "options": [
-            "Augustus Welby Pugin (Gothic Revival  The Palace of Westminster)",
-            "John Soane (Gothic Revival  The Palace of Westminster)",
-            "Inigo Jones (Gothic Revival  The Palace of Westminster)",
-            "John Nash (Gothic Revival  The Palace of Westminster)"
+            "Augustus Welby Pugin",
+            "John Soane",
+            "Inigo Jones",
+            "John Nash"
           ],
           "answerIndex": 0,
           "explanation": "A.W.N. Pugin was responsible for the exhaustive, brilliant Gothic interior details and the clock tower design.",
@@ -17417,10 +17417,10 @@
         {
           "prompt": "What medieval hall, surviving from 1097 with its spectacular 1390s hammerbeam roof, was preserved and integrated into the new Palace of Westminster?",
           "options": [
-            "Westminster Hall (Gothic Revival  The Palace of Westminster)",
-            "Guildhall London (Gothic Revival  The Palace of Westminster)",
-            "Hampton Court Great Hall (Gothic Revival  The Palace of Westminster)",
-            "St George's Hall Windsor (Gothic Revival  The Palace of Westminster)"
+            "Westminster Hall",
+            "Guildhall London",
+            "Hampton Court Great Hall",
+            "St George's Hall Windsor"
           ],
           "answerIndex": 0,
           "explanation": "Westminster Hall survived the 1834 fire and remains the ceremonial heart of the parliamentary estate.",
@@ -17462,10 +17462,10 @@
         {
           "prompt": "What engineering innovation characterized the roof structure of Brunel's 1854 Paddington Station terminus?",
           "options": [
-            "A flat thatched roof supported by solid oak pillars. (Industrial Victorian Engineering)",
-            "Three monumental barrel-vaulted spans of wrought iron and glass with decorative transepts. (Industrial Victorian Engineering)",
-            "Solid lead sheeting supported on unreinforced mud brick arches. (Industrial Victorian Engineering)",
-            "A canvas tent tied to exterior timber poles. (Industrial Victorian Engineering)"
+            "A flat thatched roof supported by solid oak pillars.",
+            "Three monumental barrel-vaulted spans of wrought iron and glass with decorative transepts.",
+            "Solid lead sheeting supported on unreinforced mud brick arches.",
+            "A canvas tent tied to exterior timber poles."
           ],
           "answerIndex": 1,
           "explanation": "Paddington Station featured three elegant, sweeping arches of wrought iron and translucent glass."
@@ -17477,10 +17477,10 @@
         {
           "prompt": "Which famous suspension bridge, spanning the Avon Gorge in Bristol, was designed by Brunel and completed posthumously as a memorial to his genius?",
           "options": [
-            "Tower Bridge (Industrial Victorian Engineering)",
-            "Clifton Suspension Bridge (Industrial Victorian Engineering)",
-            "Menai Suspension Bridge (Industrial Victorian Engineering)",
-            "Forth Road Bridge (Industrial Victorian Engineering)"
+            "Tower Bridge",
+            "Clifton Suspension Bridge",
+            "Menai Suspension Bridge",
+            "Forth Road Bridge"
           ],
           "answerIndex": 1,
           "explanation": "The Clifton Suspension Bridge in Bristol is Brunel's most recognizable bridge design, completed in 1864."
@@ -17492,10 +17492,10 @@
         {
           "prompt": "What gauge did Brunel originally champion for the Great Western Railway before standard gauge was enforced by Parliament in 1846?",
           "options": [
-            "Broad gauge of 7 feet 0¼ inches (Industrial Victorian Engineering)",
-            "Standard gauge of 4 feet 8½ inches (Industrial Victorian Engineering)",
-            "Narrow gauge of 2 feet (Industrial Victorian Engineering)",
-            "Monorail single-track system (Industrial Victorian Engineering)"
+            "Broad gauge of 7 feet 0¼ inches",
+            "Standard gauge of 4 feet 8½ inches",
+            "Narrow gauge of 2 feet",
+            "Monorail single-track system"
           ],
           "answerIndex": 0,
           "explanation": "Brunel chose broad gauge (7 ft) for greater stability, passenger comfort, and higher operational speeds.",
@@ -17504,10 +17504,10 @@
         {
           "prompt": "Which Brunel vessel, launched in 1858 as the largest ship in the world, went on to successfully lay the first lasting transatlantic telegraph cable in 1866?",
           "options": [
-            "SS Great Eastern (Industrial Victorian Engineering)",
-            "SS Great Western (Industrial Victorian Engineering)",
-            "HMS Victory (Industrial Victorian Engineering)",
-            "Cutty Sark (Industrial Victorian Engineering)"
+            "SS Great Eastern",
+            "SS Great Western",
+            "HMS Victory",
+            "Cutty Sark"
           ],
           "answerIndex": 0,
           "explanation": "The colossal *SS Great Eastern* proved ideal for storing and unspooling thousands of miles of heavy undersea telegraph cable.",
@@ -17549,10 +17549,10 @@
         {
           "prompt": "What tactile surface finish characterizes the concrete walls of the Barbican Estate in London?",
           "options": [
-            "Polished pink Italian porcelain tiles. (Modernist  Brutalist London)",
-            "Rough bush-hammered and pick-hammered aggregate exposing the crushed granite beneath. (Modernist  Brutalist London)",
-            "Smooth yellow vinyl wallpaper pasted over plywood. (Modernist  Brutalist London)",
-            "Mirrored glass panels glued directly to steel frames. (Modernist  Brutalist London)"
+            "Polished pink Italian porcelain tiles.",
+            "Rough bush-hammered and pick-hammered aggregate exposing the crushed granite beneath.",
+            "Smooth yellow vinyl wallpaper pasted over plywood.",
+            "Mirrored glass panels glued directly to steel frames."
           ],
           "answerIndex": 1,
           "explanation": "Masons spent years bush-hammering the concrete surfaces by hand to reveal the texture of the coarse aggregate."
@@ -17564,10 +17564,10 @@
         {
           "prompt": "What urban planning concept was central to Chamberlin, Powell and Bon's layout of the Barbican Estate?",
           "options": [
-            "Placing motorways on rooftops while burying all residences underground. (Modernist  Brutalist London)",
+            "Placing motorways on rooftops while burying all residences underground.",
             "Vertical separation of pedestrian walkways (podiums)",
-            "Building detached single-family wooden cottages along narrow mud alleys. (Modernist  Brutalist London)",
-            "Requiring all residents to commute by horse-drawn carriages. (Modernist  Brutalist London)"
+            "Building detached single-family wooden cottages along narrow mud alleys.",
+            "Requiring all residents to commute by horse-drawn carriages."
           ],
           "answerIndex": 1,
           "explanation": "The Barbican separated pedestrians completely from vehicles using elevated podiums, quiet courtyards, and lakes."
@@ -17579,10 +17579,10 @@
         {
           "prompt": "Who was the architect of the Grade II* listed Royal National Theatre on London's South Bank (1976)?",
           "options": [
-            "Sir Denys Lasdun (Modernist  Brutalist London)",
-            "Sir Edwin Lutyens (Modernist  Brutalist London)",
-            "James Stirling (Modernist  Brutalist London)",
-            "Richard Rogers (Modernist  Brutalist London)"
+            "Sir Denys Lasdun",
+            "Sir Edwin Lutyens",
+            "James Stirling",
+            "Richard Rogers"
           ],
           "answerIndex": 0,
           "explanation": "Sir Denys Lasdun designed the National Theatre with its iconic board-marked concrete strata and fly towers.",
@@ -17591,10 +17591,10 @@
         {
           "prompt": "From which French term coined by Le Corbusier does the name 'Brutalism' derive?",
           "options": [
-            "Béton brut (Modernist  Brutalist London)",
-            "Bête noire (Modernist  Brutalist London)",
-            "Brut force (Modernist  Brutalist London)",
-            "Boutique brute (Modernist  Brutalist London)"
+            "Béton brut",
+            "Bête noire",
+            "Brut force",
+            "Boutique brute"
           ],
           "answerIndex": 0,
           "explanation": "Brutalism derives from *béton brut*, referring to raw concrete left unplastered to display formwork markings.",
@@ -17636,10 +17636,10 @@
         {
           "prompt": "What is the architectural concept behind Richard Rogers' design for the Lloyd's Building (1986) in London?",
           "options": [
-            "An 'inside-out' building where utilities, lifts, ducts, and stairs are located on the exterior to free up flexible internal space. (HighTech  Sustainable British Architecture)",
-            "A subterranean bunker with no exterior windows to protect documents from light. (HighTech  Sustainable British Architecture)",
-            "A wooden log cabin covered in grass turf. (HighTech  Sustainable British Architecture)",
-            "A replica of a fourteenth-century Venetian palazzo. (HighTech  Sustainable British Architecture)"
+            "An 'inside-out' building where utilities, lifts, ducts, and stairs are located on the exterior to free up flexible internal space.",
+            "A subterranean bunker with no exterior windows to protect documents from light.",
+            "A wooden log cabin covered in grass turf.",
+            "A replica of a fourteenth-century Venetian palazzo."
           ],
           "answerIndex": 0,
           "explanation": "Rogers placed all service elements on the perimeter in six towers, leaving the interior trading room vast and uncluttered."
@@ -17651,10 +17651,10 @@
         {
           "prompt": "How does the aerodynamic curved shape of Norman Foster's 30 St Mary Axe ('The Gherkin') benefit the building's environmental performance?",
           "options": [
-            "It enables it to fly during severe weather events. (HighTech  Sustainable British Architecture)",
-            "It reduces wind deflections to street level and incorporates spiraling natural ventilation lightwells that cut heating/cooling energy usage. (HighTech  Sustainable British Architecture)",
-            "It generates hydroelectric power from rainwater collected on its tip. (HighTech  Sustainable British Architecture)",
-            "It acts as an enormous solar magnifying glass that warms adjacent parks. (HighTech  Sustainable British Architecture)"
+            "It enables it to fly during severe weather events.",
+            "It reduces wind deflections to street level and incorporates spiraling natural ventilation lightwells that cut heating/cooling energy usage.",
+            "It generates hydroelectric power from rainwater collected on its tip.",
+            "It acts as an enormous solar magnifying glass that warms adjacent parks."
           ],
           "answerIndex": 1,
           "explanation": "The aerodynamic tapering reduces wind turbulence and uses internal spiraling shafts for passive ventilation and daylighting."
@@ -17666,10 +17666,10 @@
         {
           "prompt": "Which British architectural movement is characterized by exposed structural frames, industrial fabrication, stainless steel pods, and high-performance glazing?",
           "options": [
-            "High-Tech Architecture (HighTech  Sustainable British Architecture)",
-            "Arts and Crafts Movement (HighTech  Sustainable British Architecture)",
-            "Tudor Revival (HighTech  Sustainable British Architecture)",
-            "Palladian Neoclassicism (HighTech  Sustainable British Architecture)"
+            "High-Tech Architecture",
+            "Arts and Crafts Movement",
+            "Tudor Revival",
+            "Palladian Neoclassicism"
           ],
           "answerIndex": 0,
           "explanation": "High-Tech architecture celebrated industrial engineering, exposed steel framing, and prefabricated components.",
@@ -17678,10 +17678,10 @@
         {
           "prompt": "Who designed the tessellated glass-and-steel geodesic canopy spanning the two-acre Great Court of the British Museum (2000)?",
           "options": [
-            "Foster & Partners (HighTech  Sustainable British Architecture)",
-            "Zaha Hadid (HighTech  Sustainable British Architecture)",
-            "Inigo Jones (HighTech  Sustainable British Architecture)",
-            "Charles Rennie Mackintosh (HighTech  Sustainable British Architecture)"
+            "Foster & Partners",
+            "Zaha Hadid",
+            "Inigo Jones",
+            "Charles Rennie Mackintosh"
           ],
           "answerIndex": 0,
           "explanation": "Norman Foster & Partners created the breathtaking glass canopy over the British Museum's central courtyard.",
@@ -17750,10 +17750,10 @@
         {
           "prompt": "What is the formal name of the official document presented by an ambassador to the receiving Head of State upon taking office?",
           "options": [
-            "Provisional Employment Pass (Diplomatic Credentials)",
-            "Internal Working Memorandum (Diplomatic Credentials)",
-            "Standard Tourist Passport (Diplomatic Credentials)",
-            "Letters of Credence (Diplomatic Credentials)"
+            "Provisional Employment Pass",
+            "Internal Working Memorandum",
+            "Standard Tourist Passport",
+            "Letters of Credence"
           ],
           "answerIndex": 3,
           "explanation": "Letters of Credence are the official credential instruments issued by the sending Head of State.",
@@ -17916,10 +17916,10 @@
         {
           "prompt": "Under which Chapter of the UN Charter does the Security Council have the authority to adopt legally binding enforcement measures and peacekeeping mandates?",
           "options": [
-            "Chapter I (UN Security Council Chapter VII Mandates)",
-            "Chapter VII (UN Security Council Chapter VII Mandates)",
-            "Chapter XIV (UN Security Council Chapter VII Mandates)",
-            "Chapter X (UN Security Council Chapter VII Mandates)"
+            "Chapter I",
+            "Chapter VII",
+            "Chapter XIV",
+            "Chapter X"
           ],
           "answerIndex": 1,
           "explanation": "Chapter VII grants the Security Council power to maintain or restore international peace and security.",
@@ -17999,10 +17999,10 @@
         {
           "prompt": "What does the principle of \"dual criminality\" require in international extradition proceedings?",
           "options": [
-            "The offense must be recognized as a crime under the laws of both the requesting and requested countries. (International Sanctions)",
-            "The trial must be conducted simultaneously in two different courtrooms. (International Sanctions)",
-            "The penalty must be paid in two different national currencies. (International Sanctions)",
-            "The offender must hold dual citizenship in two sovereign states. (International Sanctions)"
+            "The offense must be recognized as a crime under the laws of both the requesting and requested countries.",
+            "The trial must be conducted simultaneously in two different courtrooms.",
+            "The penalty must be paid in two different national currencies.",
+            "The offender must hold dual citizenship in two sovereign states."
           ],
           "answerIndex": 0,
           "explanation": "Dual criminality requires that the act is criminalized in both jurisdictions.",

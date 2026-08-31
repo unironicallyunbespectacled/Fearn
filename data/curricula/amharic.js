@@ -535,10 +535,10 @@
         {
           "prompt": "Which Fidel character represents the 7th Order sound [lo] in the ለ family?",
           "options": [
-            "ሎ (Master the ancient Geez Fidel abugida system key phrasing)",
-            "ላ (Master the ancient Geez Fidel abugida system alternative form)",
-            "ሊ (Master the ancient Geez Fidel abugida system alternative form)",
-            "ሉ (Master the ancient Geez Fidel abugida system alternative form)"
+            "ሎ (The Fidel Abugida  7 Orders   Families item 1)",
+            "ላ (The Fidel Abugida  7 Orders   Families item 2)",
+            "ሊ (The Fidel Abugida  7 Orders   Families item 3)",
+            "ሉ (The Fidel Abugida  7 Orders   Families item 4)"
           ],
           "answerIndex": 0,
           "explanation": "«ሎ» represents the 7th order [lo]."
@@ -561,10 +561,10 @@
         {
           "prompt": "What modification visually marks the 2nd Order (-u) in characters like «ሉ» (lu) and «ሁ» (hu)?",
           "options": [
-            "A horizontal stroke attached to the right side (Master the ancient Geez Fidel abugida system U1)",
-            "A circle on the foot (Master the ancient Geez Fidel abugida system U1)",
-            "A shortened left leg (Master the ancient Geez Fidel abugida system U1)",
-            "No change (Master the ancient Geez Fidel abugida system U1)"
+            "A horizontal stroke attached to the right side",
+            "A circle on the foot",
+            "A shortened left leg",
+            "No change"
           ],
           "answerIndex": 0,
           "explanation": "The 2nd order is marked by a horizontal stroke attached to the right side."
@@ -577,10 +577,10 @@
           "type": "multiple-choice",
           "prompt": "What does the Amharic word «ላም» (*lam*) mean in English?",
           "options": [
-            "cow (Master the ancient Geez Fidel abugida system U1)",
-            "lemon (Master the ancient Geez Fidel abugida system U1)",
-            "water (Master the ancient Geez Fidel abugida system U1)",
-            "person (Master the ancient Geez Fidel abugida system U1)"
+            "cow",
+            "lemon",
+            "water",
+            "person"
           ],
           "answerIndex": 0,
           "explanation": "«ላም» (*lam*) means \"cow\"."
@@ -591,7 +591,10 @@
           "acceptedAnswers": [
             "ሎሚ"
           ],
-          "explanation": "«ሎ» + «ሚ» = «ሎሚ» (*lomi*)."
+          "explanation": "«ሎ» + «ሚ» = «ሎሚ» (*lomi*).",
+          "acceptableAnswers": [
+            "ሎሚ"
+          ]
         }
       ]
     }
@@ -707,7 +710,10 @@
           "acceptedAnswers": [
             "ሰላም"
           ],
-          "explanation": "«ሰ» + «ላ» + «ም» = «ሰላም» (*Selam*)."
+          "explanation": "«ሰ» + «ላ» + «ም» = «ሰላም» (*Selam*).",
+          "acceptableAnswers": [
+            "ሰላም"
+          ]
         }
       ]
     }
@@ -809,10 +815,10 @@
           "type": "multiple-choice",
           "prompt": "What does «ስምሽ ማን ነው?» mean in English?",
           "options": [
-            "What is your name? (Master timeofday greetings Good morning U1)",
-            "What is your name? (Distractor variant)",
-            "How are you? (Master timeofday greetings Good morning U1)",
-            "Good morning (Master timeofday greetings Good morning U1)"
+            "What is your name? (formal)",
+            "What is your name? (informal masculine)",
+            "What is your name? (informal feminine)",
+            "Where are you from?"
           ],
           "answerIndex": 0,
           "explanation": "«ስምሽ ማን ነው?» (*Smesh man new?*) asks a woman her name."
@@ -823,7 +829,10 @@
           "acceptedAnswers": [
             "ስሜ"
           ],
-          "explanation": "«ስሜ» (*sme*) = my name."
+          "explanation": "«ስሜ» (*sme*) = my name.",
+          "acceptableAnswers": [
+            "ስሜ"
+          ]
         }
       ]
     }
@@ -925,10 +934,10 @@
           "type": "multiple-choice",
           "prompt": "What does «በጣም አመሰግናለሁ» (*Betam amesegenalehu*) mean in English?",
           "options": [
-            "Thank you very much (Master expressions of gratitude Amesegenalehu U1)",
-            "Excuse me (Master expressions of gratitude Amesegenalehu U1)",
-            "Good morning (Master expressions of gratitude Amesegenalehu U1)",
-            "Goodbye (Master expressions of gratitude Amesegenalehu U1)"
+            "Thank you very much",
+            "Excuse me",
+            "Good morning",
+            "Goodbye"
           ],
           "answerIndex": 0,
           "explanation": "«በጣም» (very) + «አመሰግናለሁ» (thank you) = \"Thank you very much\"."
@@ -939,7 +948,10 @@
           "acceptedAnswers": [
             "ይቅርታ"
           ],
-          "explanation": "«ይቅርታ» (*yeqerta*) = Excuse me / Sorry."
+          "explanation": "«ይቅርታ» (*yeqerta*) = Excuse me / Sorry.",
+          "acceptableAnswers": [
+            "ይቅርታ"
+          ]
         }
       ]
     }
@@ -1041,10 +1053,10 @@
           "type": "multiple-choice",
           "prompt": "What does «መልካም ሌሊት» mean in Amharic?",
           "options": [
-            "Good night (Master parting expressions Dehna hunhuihunu U1)",
-            "Good morning (Master parting expressions Dehna hunhuihunu U1)",
-            "Good afternoon (Master parting expressions Dehna hunhuihunu U1)",
-            "Thank you (Master parting expressions Dehna hunhuihunu U1)"
+            "Good night",
+            "Good morning",
+            "Good afternoon",
+            "Thank you"
           ],
           "answerIndex": 0,
           "explanation": "«መልካም ሌሊት» (*Melkam lelit*) means \"Good night\"."
@@ -1055,7 +1067,10 @@
           "acceptedAnswers": [
             "መልካም"
           ],
-          "explanation": "«መልካም» (*melkam*) = Good / Pleasant."
+          "explanation": "«መልካም» (*melkam*) = Good / Pleasant.",
+          "acceptableAnswers": [
+            "መልካም"
+          ]
         }
       ]
     }
@@ -1144,7 +1159,10 @@
           "acceptedAnswers": [
             "መጽሐፍ"
           ],
-          "explanation": "ትክክለኛው ቃል «መጽሐፍ» (Mäs’haf) ነው።"
+          "explanation": "ትክክለኛው ቃል «መጽሐፍ» (Mäs’haf) ነው።",
+          "acceptableAnswers": [
+            "መጽሐፍ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1234,7 +1252,10 @@
           "acceptedAnswers": [
             "እናት"
           ],
-          "explanation": "ትክክለኛው ቃል «እናት» (Ennat) ነው።"
+          "explanation": "ትክክለኛው ቃል «እናት» (Ennat) ነው።",
+          "acceptableAnswers": [
+            "እናት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1324,7 +1345,10 @@
           "acceptedAnswers": [
             "ሰዎች"
           ],
-          "explanation": "ትክክለኛው ቃል «ሰዎች» (Säwočč) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰዎች» (Säwočč) ነው።",
+          "acceptableAnswers": [
+            "ሰዎች"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1414,7 +1438,10 @@
           "acceptedAnswers": [
             "ቤቱ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቤቱ» (Betu) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤቱ» (Betu) ነው።",
+          "acceptableAnswers": [
+            "ቤቱ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1504,7 +1531,10 @@
           "acceptedAnswers": [
             "ጠረጴዛ"
           ],
-          "explanation": "ትክክለኛው ቃል «ጠረጴዛ» (T'äräp'p'eza) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጠረጴዛ» (T'äräp'p'eza) ነው።",
+          "acceptableAnswers": [
+            "ጠረጴዛ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1594,7 +1624,10 @@
           "acceptedAnswers": [
             "እኛ"
           ],
-          "explanation": "ትክክለኛው ቃል «እኛ» (Əngya) ነው።"
+          "explanation": "ትክክለኛው ቃል «እኛ» (Əngya) ነው።",
+          "acceptableAnswers": [
+            "እኛ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1684,7 +1717,10 @@
           "acceptedAnswers": [
             "ቤታችን"
           ],
-          "explanation": "ትክክለኛው ቃል «ቤታችን» (Betaččən) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤታችን» (Betaččən) ነው።",
+          "acceptableAnswers": [
+            "ቤታችን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1775,7 +1811,11 @@
             "ወደ",
             "ወደ-"
           ],
-          "explanation": "ትክክለኛው መስተዋድድ «ወደ» (Wädä) ነው።"
+          "explanation": "ትክክለኛው መስተዋድድ «ወደ» (Wädä) ነው።",
+          "acceptableAnswers": [
+            "ወደ",
+            "ወደ-"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1865,7 +1905,10 @@
           "acceptedAnswers": [
             "ውስጥ"
           ],
-          "explanation": "ትክክለኛው ቃል «ውስጥ» (Wəst’) ነው።"
+          "explanation": "ትክክለኛው ቃል «ውስጥ» (Wəst’) ነው።",
+          "acceptableAnswers": [
+            "ውስጥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -1955,7 +1998,10 @@
           "acceptedAnswers": [
             "መስተዋድድ"
           ],
-          "explanation": "ትክክለኛው ቃል «መስተዋድድ» (Mästewadəd) ነው።"
+          "explanation": "ትክክለኛው ቃል «መስተዋድድ» (Mästewadəd) ነው።",
+          "acceptableAnswers": [
+            "መስተዋድድ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2045,7 +2091,10 @@
           "acceptedAnswers": [
             "እማራለሁ"
           ],
-          "explanation": "ትክክለኛው ቃል «እማራለሁ» (Əmmarallähu) ነው።"
+          "explanation": "ትክክለኛው ቃል «እማራለሁ» (Əmmarallähu) ነው።",
+          "acceptableAnswers": [
+            "እማራለሁ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2135,7 +2184,10 @@
           "acceptedAnswers": [
             "እበላለሁ"
           ],
-          "explanation": "ትክክለኛው ቃል «እበላለሁ» (Əbälallähu) ነው።"
+          "explanation": "ትክክለኛው ቃል «እበላለሁ» (Əbälallähu) ነው።",
+          "acceptableAnswers": [
+            "እበላለሁ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2225,7 +2277,10 @@
           "acceptedAnswers": [
             "ሁልጊዜ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሁልጊዜ» (Huləggize) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሁልጊዜ» (Huləggize) ነው።",
+          "acceptableAnswers": [
+            "ሁልጊዜ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2315,7 +2370,10 @@
           "acceptedAnswers": [
             "አልበላም"
           ],
-          "explanation": "ትክክለኛው ቃል «አልበላም» (Albälam) ነው።"
+          "explanation": "ትክክለኛው ቃል «አልበላም» (Albälam) ነው።",
+          "acceptableAnswers": [
+            "አልበላም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2405,7 +2463,10 @@
           "acceptedAnswers": [
             "እንማራለን"
           ],
-          "explanation": "ትክክለኛው ቃል «እንማራለን» (Ənnəmmarallän) ነው።"
+          "explanation": "ትክክለኛው ቃል «እንማራለን» (Ənnəmmarallän) ነው።",
+          "acceptableAnswers": [
+            "እንማራለን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2495,7 +2556,10 @@
           "acceptedAnswers": [
             "ሰዓት"
           ],
-          "explanation": "ትክክለኛው ቃል «ሰዓት» (Sä'at) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰዓት» (Sä'at) ነው።",
+          "acceptableAnswers": [
+            "ሰዓት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2585,7 +2649,10 @@
           "acceptedAnswers": [
             "ሰኞ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሰኞ» (Sänyo) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰኞ» (Sänyo) ነው።",
+          "acceptableAnswers": [
+            "ሰኞ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2675,7 +2742,10 @@
           "acceptedAnswers": [
             "ቀጠሮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቀጠሮ» (Qät’äro) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቀጠሮ» (Qät’äro) ነው።",
+          "acceptableAnswers": [
+            "ቀጠሮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2765,7 +2835,10 @@
           "acceptedAnswers": [
             "ክረምት"
           ],
-          "explanation": "ትክክለኛው ቃል «ክረምት» (Kərremt) ነው።"
+          "explanation": "ትክክለኛው ቃል «ክረምት» (Kərremt) ነው።",
+          "acceptableAnswers": [
+            "ክረምት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2855,7 +2928,10 @@
           "acceptedAnswers": [
             "ቀናት"
           ],
-          "explanation": "ትክክለኛው ቃል «ቀናት» (Qänat) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቀናት» (Qänat) ነው።",
+          "acceptableAnswers": [
+            "ቀናት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -2945,7 +3021,10 @@
           "acceptedAnswers": [
             "እንጀራ"
           ],
-          "explanation": "ትክክለኛው ቃል «እንጀራ» (Ənğära) ነው።"
+          "explanation": "ትክክለኛው ቃል «እንጀራ» (Ənğära) ነው።",
+          "acceptableAnswers": [
+            "እንጀራ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3035,7 +3114,10 @@
           "acceptedAnswers": [
             "ሂሳብ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሂሳብ» (Hisab) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሂሳብ» (Hisab) ነው።",
+          "acceptableAnswers": [
+            "ሂሳብ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3125,7 +3207,10 @@
           "acceptedAnswers": [
             "ዋጋ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዋጋ» (Waga) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዋጋ» (Waga) ነው።",
+          "acceptableAnswers": [
+            "ዋጋ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3215,7 +3300,10 @@
           "acceptedAnswers": [
             "ኪሎ"
           ],
-          "explanation": "ትክክለኛው ቃል «ኪሎ» (Kilo) ነው።"
+          "explanation": "ትክክለኛው ቃል «ኪሎ» (Kilo) ነው።",
+          "acceptableAnswers": [
+            "ኪሎ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3305,7 +3393,10 @@
           "acceptedAnswers": [
             "ምግብ"
           ],
-          "explanation": "ትክክለኛው ቃል «ምግብ» (Məgb) ነው።"
+          "explanation": "ትክክለኛው ቃል «ምግብ» (Məgb) ነው።",
+          "acceptableAnswers": [
+            "ምግብ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3395,7 +3486,10 @@
           "acceptedAnswers": [
             "ሄድን"
           ],
-          "explanation": "ትክክለኛው ቃል «ሄድን» (Hedən) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሄድን» (Hedən) ነው።",
+          "acceptableAnswers": [
+            "ሄድን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3486,7 +3580,11 @@
             "ትላንትና",
             "ትላንት"
           ],
-          "explanation": "ትክክለኛው ቃል «ትላንትና» (Təlantənna) ነው።"
+          "explanation": "ትክክለኛው ቃል «ትላንትና» (Təlantənna) ነው።",
+          "acceptableAnswers": [
+            "ትላንትና",
+            "ትላንት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3576,7 +3674,10 @@
           "acceptedAnswers": [
             "አልሄድኩም"
           ],
-          "explanation": "ትክክለኛው ቃል «አልሄድኩም» (Alhedkum) ነው።"
+          "explanation": "ትክክለኛው ቃል «አልሄድኩም» (Alhedkum) ነው።",
+          "acceptableAnswers": [
+            "አልሄድኩም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3666,7 +3767,10 @@
           "acceptedAnswers": [
             "ተጓዝን"
           ],
-          "explanation": "ትክክለኛው ቃል «ተጓዝን» (Täguzän) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተጓዝን» (Täguzän) ነው።",
+          "acceptableAnswers": [
+            "ተጓዝን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3756,7 +3860,10 @@
           "acceptedAnswers": [
             "ልምድ"
           ],
-          "explanation": "ትክክለኛው ቃል «ልምድ» (Ləməd) ነው።"
+          "explanation": "ትክክለኛው ቃል «ልምድ» (Ləməd) ነው።",
+          "acceptableAnswers": [
+            "ልምድ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3846,7 +3953,10 @@
           "acceptedAnswers": [
             "ቀኝ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቀኝ» (Qäny) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቀኝ» (Qäny) ነው።",
+          "acceptableAnswers": [
+            "ቀኝ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -3936,7 +4046,10 @@
           "acceptedAnswers": [
             "አደባባይ"
           ],
-          "explanation": "ትክክለኛው ቃል «አደባባይ» (Adäbabay) ነው።"
+          "explanation": "ትክክለኛው ቃል «አደባባይ» (Adäbabay) ነው።",
+          "acceptableAnswers": [
+            "አደባባይ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4026,7 +4139,10 @@
           "acceptedAnswers": [
             "ታክሲ"
           ],
-          "explanation": "ትክክለኛው ቃል «ታክሲ» (Taksi) ነው።"
+          "explanation": "ትክክለኛው ቃል «ታክሲ» (Taksi) ነው።",
+          "acceptableAnswers": [
+            "ታክሲ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4116,7 +4232,10 @@
           "acceptedAnswers": [
             "ታሪፍ"
           ],
-          "explanation": "ትክክለኛው ቃል «ታሪፍ» (Tarif) ነው።"
+          "explanation": "ትክክለኛው ቃል «ታሪፍ» (Tarif) ነው።",
+          "acceptableAnswers": [
+            "ታሪፍ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4206,7 +4325,10 @@
           "acceptedAnswers": [
             "ትራንስፖርት"
           ],
-          "explanation": "ትክክለኛው ቃል «ትራንስፖርት» (Transport) ነው።"
+          "explanation": "ትክክለኛው ቃል «ትራንስፖርት» (Transport) ነው።",
+          "acceptableAnswers": [
+            "ትራንስፖርት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4296,7 +4418,10 @@
           "acceptedAnswers": [
             "እናት"
           ],
-          "explanation": "ትክክለኛው ቃል «እናት» (Ənat) ነው።"
+          "explanation": "ትክክለኛው ቃል «እናት» (Ənat) ነው።",
+          "acceptableAnswers": [
+            "እናት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4386,7 +4511,10 @@
           "acceptedAnswers": [
             "አያት"
           ],
-          "explanation": "ትክክለኛው ቃል «አያት» (Ayat) ነው።"
+          "explanation": "ትክክለኛው ቃል «አያት» (Ayat) ነው።",
+          "acceptableAnswers": [
+            "አያት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4476,7 +4604,10 @@
           "acceptedAnswers": [
             "ቤታችን"
           ],
-          "explanation": "ትክክለኛው ቃል «ቤታችን» (Betaččən) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤታችን» (Betaččən) ነው።",
+          "acceptableAnswers": [
+            "ቤታችን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4566,7 +4697,10 @@
           "acceptedAnswers": [
             "ምርቃት"
           ],
-          "explanation": "ትክክለኛው ቃል «ምርቃት» (Mərraqat) ነው።"
+          "explanation": "ትክክለኛው ቃል «ምርቃት» (Mərraqat) ነው።",
+          "acceptableAnswers": [
+            "ምርቃት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4656,7 +4790,10 @@
           "acceptedAnswers": [
             "ቤተሰብ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቤተሰብ» (Betäsäb) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤተሰብ» (Betäsäb) ነው።",
+          "acceptableAnswers": [
+            "ቤተሰብ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4746,7 +4883,10 @@
           "acceptedAnswers": [
             "ራስ"
           ],
-          "explanation": "ትክክለኛው ቃል «ራስ» (Ras) ነው።"
+          "explanation": "ትክክለኛው ቃል «ራስ» (Ras) ነው።",
+          "acceptableAnswers": [
+            "ራስ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4836,7 +4976,10 @@
           "acceptedAnswers": [
             "ትኩሳት"
           ],
-          "explanation": "ትክክለኛው ቃል «ትኩሳት» (Təkusat) ነው።"
+          "explanation": "ትክክለኛው ቃል «ትኩሳት» (Təkusat) ነው።",
+          "acceptableAnswers": [
+            "ትኩሳት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -4926,7 +5069,10 @@
           "acceptedAnswers": [
             "ሐኪም"
           ],
-          "explanation": "ትክክለኛው ቃል «ሐኪም» (Hakim) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሐኪም» (Hakim) ነው።",
+          "acceptableAnswers": [
+            "ሐኪም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5016,7 +5162,10 @@
           "acceptedAnswers": [
             "መድኃኒት"
           ],
-          "explanation": "ትክክለኛው ቃል «መድኃኒት» (Mädanit) ነው።"
+          "explanation": "ትክክለኛው ቃል «መድኃኒት» (Mädanit) ነው።",
+          "acceptableAnswers": [
+            "መድኃኒት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5106,7 +5255,10 @@
           "acceptedAnswers": [
             "ጤና"
           ],
-          "explanation": "ትክክለኛው ቃል «ጤና» (T'enna) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጤና» (T'enna) ነው።",
+          "acceptableAnswers": [
+            "ጤና"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5196,7 +5348,10 @@
           "acceptedAnswers": [
             "እሄዳለሁ"
           ],
-          "explanation": "ትክክለኛው ቃል «እሄዳለሁ» (Əhedallähu) ነው።"
+          "explanation": "ትክክለኛው ቃል «እሄዳለሁ» (Əhedallähu) ነው።",
+          "acceptableAnswers": [
+            "እሄዳለሁ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5286,7 +5441,10 @@
           "acceptedAnswers": [
             "ነገ"
           ],
-          "explanation": "ትክክለኛው ቃል «ነገ» (Nägä) ነው።"
+          "explanation": "ትክክለኛው ቃል «ነገ» (Nägä) ነው።",
+          "acceptableAnswers": [
+            "ነገ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5376,7 +5534,10 @@
           "acceptedAnswers": [
             "አልሄድም"
           ],
-          "explanation": "ትክክለኛው ቃል «አልሄድም» (Alhedəm) ነው።"
+          "explanation": "ትክክለኛው ቃል «አልሄድም» (Alhedəm) ነው።",
+          "acceptableAnswers": [
+            "አልሄድም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5466,7 +5627,10 @@
           "acceptedAnswers": [
             "አቅጃለሁ"
           ],
-          "explanation": "ትክክለኛው ቃል «አቅጃለሁ» (Aqəğğallähu) ነው።"
+          "explanation": "ትክክለኛው ቃል «አቅጃለሁ» (Aqəğğallähu) ነው።",
+          "acceptableAnswers": [
+            "አቅጃለሁ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5556,7 +5720,10 @@
           "acceptedAnswers": [
             "የወደፊት"
           ],
-          "explanation": "ትክክለኛው ቃል «የወደፊት» (Yäwädäfit) ነው።"
+          "explanation": "ትክክለኛው ቃል «የወደፊት» (Yäwädäfit) ነው።",
+          "acceptableAnswers": [
+            "የወደፊት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5647,7 +5814,11 @@
             "እግር ኳስ",
             "እግር ኳስ"
           ],
-          "explanation": "ትክክለኛው ቃል «እግር ኳስ» (Əgər kwas) ነው።"
+          "explanation": "ትክክለኛው ቃል «እግር ኳስ» (Əgər kwas) ነው።",
+          "acceptableAnswers": [
+            "እግር ኳስ",
+            "እግር ኳስ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5737,7 +5908,10 @@
           "acceptedAnswers": [
             "ማንበብ"
           ],
-          "explanation": "ትክክለኛው ቃል «ማንበብ» (Manbäb) ነው።"
+          "explanation": "ትክክለኛው ቃል «ማንበብ» (Manbäb) ነው።",
+          "acceptableAnswers": [
+            "ማንበብ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5827,7 +6001,10 @@
           "acceptedAnswers": [
             "እወዳለሁ"
           ],
-          "explanation": "ትክክለኛው ቃል «እወዳለሁ» (Əwädallähu) ነው።"
+          "explanation": "ትክክለኛው ቃል «እወዳለሁ» (Əwädallähu) ነው።",
+          "acceptableAnswers": [
+            "እወዳለሁ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -5917,7 +6094,10 @@
           "acceptedAnswers": [
             "ገበጣ"
           ],
-          "explanation": "ትክክለኛው ቃል «ገበጣ» (Gäbät’a) ነው።"
+          "explanation": "ትክክለኛው ቃል «ገበጣ» (Gäbät’a) ነው።",
+          "acceptableAnswers": [
+            "ገበጣ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6007,7 +6187,10 @@
           "acceptedAnswers": [
             "ስፖርት"
           ],
-          "explanation": "ትክክለኛው ቃል «ስፖርት» (Sport) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስፖርት» (Sport) ነው።",
+          "acceptableAnswers": [
+            "ስፖርት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6097,7 +6280,10 @@
           "acceptedAnswers": [
             "መምህር"
           ],
-          "explanation": "ትክክለኛው ቃል «መምህር» (Mämhir) ነው።"
+          "explanation": "ትክክለኛው ቃል «መምህር» (Mämhir) ነው።",
+          "acceptableAnswers": [
+            "መምህር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6187,7 +6373,10 @@
           "acceptedAnswers": [
             "ቢሮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቢሮ» (Biro) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቢሮ» (Biro) ነው።",
+          "acceptableAnswers": [
+            "ቢሮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6277,7 +6466,10 @@
           "acceptedAnswers": [
             "ኃላፊነት"
           ],
-          "explanation": "ትክክለኛው ቃል «ኃላፊነት» (Halaﬁnnät) ነው።"
+          "explanation": "ትክክለኛው ቃል «ኃላፊነት» (Halaﬁnnät) ነው።",
+          "acceptableAnswers": [
+            "ኃላፊነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6367,7 +6559,10 @@
           "acceptedAnswers": [
             "ቃለ መጠይቅ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቃለ መጠይቅ» (Qalä mät’äyyəq) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቃለ መጠይቅ» (Qalä mät’äyyəq) ነው።",
+          "acceptableAnswers": [
+            "ቃለ መጠይቅ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6457,7 +6652,10 @@
           "acceptedAnswers": [
             "ሙያ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሙያ» (Muya) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሙያ» (Muya) ነው።",
+          "acceptableAnswers": [
+            "ሙያ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6547,7 +6745,10 @@
           "acceptedAnswers": [
             "ላሊበላ"
           ],
-          "explanation": "ትክክለኛው ቃል «ላሊበላ» (Lalibäla) ነው።"
+          "explanation": "ትክክለኛው ቃል «ላሊበላ» (Lalibäla) ነው።",
+          "acceptableAnswers": [
+            "ላሊበላ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6637,7 +6838,10 @@
           "acceptedAnswers": [
             "አስጎብኚ"
           ],
-          "explanation": "ትክክለኛው ቃል «አስጎብኚ» (Asgobəny) ነው።"
+          "explanation": "ትክክለኛው ቃል «አስጎብኚ» (Asgobəny) ነው።",
+          "acceptableAnswers": [
+            "አስጎብኚ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6727,7 +6931,10 @@
           "acceptedAnswers": [
             "አስደናቂ"
           ],
-          "explanation": "ትክክለኛው ቃል «አስደናቂ» (Asdännaqi) ነው።"
+          "explanation": "ትክክለኛው ቃል «አስደናቂ» (Asdännaqi) ነው።",
+          "acceptableAnswers": [
+            "አስደናቂ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6817,7 +7024,10 @@
           "acceptedAnswers": [
             "ዋሊያ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዋሊያ» (Waliya) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዋሊያ» (Waliya) ነው።",
+          "acceptableAnswers": [
+            "ዋሊያ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6907,7 +7117,10 @@
           "acceptedAnswers": [
             "ቅርስ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቅርስ» (Qərs) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅርስ» (Qərs) ነው።",
+          "acceptableAnswers": [
+            "ቅርስ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -6997,7 +7210,10 @@
           "acceptedAnswers": [
             "ክረምት"
           ],
-          "explanation": "ትክክለኛው ቃል «ክረምት» (Kərremt) ነው።"
+          "explanation": "ትክክለኛው ቃል «ክረምት» (Kərremt) ነው።",
+          "acceptableAnswers": [
+            "ክረምት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7087,7 +7303,10 @@
           "acceptedAnswers": [
             "ፀሐያማ"
           ],
-          "explanation": "ትክክለኛው ቃል «ፀሐያማ» (Ts’ähayyama) ነው።"
+          "explanation": "ትክክለኛው ቃል «ፀሐያማ» (Ts’ähayyama) ነው።",
+          "acceptableAnswers": [
+            "ፀሐያማ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7177,7 +7396,10 @@
           "acceptedAnswers": [
             "ፏፏቴ"
           ],
-          "explanation": "ትክክለኛው ቃል «ፏፏቴ» (Fwafoate) ነው።"
+          "explanation": "ትክክለኛው ቃል «ፏፏቴ» (Fwafoate) ነው።",
+          "acceptableAnswers": [
+            "ፏፏቴ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7267,7 +7489,10 @@
           "acceptedAnswers": [
             "ችግኝ"
           ],
-          "explanation": "ትክክለኛው ቃል «ችግኝ» (Čəgny) ነው።"
+          "explanation": "ትክክለኛው ቃል «ችግኝ» (Čəgny) ነው።",
+          "acceptableAnswers": [
+            "ችግኝ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7357,7 +7582,10 @@
           "acceptedAnswers": [
             "ተፈጥሮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተፈጥሮ» (Täfät’ro) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተፈጥሮ» (Täfät’ro) ነው።",
+          "acceptableAnswers": [
+            "ተፈጥሮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7447,7 +7675,10 @@
           "acceptedAnswers": [
             "ሳሎን"
           ],
-          "explanation": "ትክክለኛው ቃል «ሳሎን» (Salon) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሳሎን» (Salon) ነው።",
+          "acceptableAnswers": [
+            "ሳሎን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7537,7 +7768,10 @@
           "acceptedAnswers": [
             "ጠረጴዛ"
           ],
-          "explanation": "ትክክለኛው ቃል «ጠረጴዛ» (T’äräp’p’eza) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጠረጴዛ» (T’äräp’p’eza) ነው።",
+          "acceptableAnswers": [
+            "ጠረጴዛ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7627,7 +7861,10 @@
           "acceptedAnswers": [
             "ኪራይ"
           ],
-          "explanation": "ትክክለኛው ቃል «ኪራይ» (Kiray) ነው።"
+          "explanation": "ትክክለኛው ቃል «ኪራይ» (Kiray) ነው።",
+          "acceptableAnswers": [
+            "ኪራይ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7717,7 +7954,10 @@
           "acceptedAnswers": [
             "ውስጥ"
           ],
-          "explanation": "ትክክለኛው ቃል «ውስጥ» (Wəst’) ነው።"
+          "explanation": "ትክክለኛው ቃል «ውስጥ» (Wəst’) ነው።",
+          "acceptableAnswers": [
+            "ውስጥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7808,7 +8048,11 @@
             "መኖሪያ ቤት",
             "መኖሪያ"
           ],
-          "explanation": "ትክክለኛው ቃል «መኖሪያ ቤት» (Mänoriya bet) ወይም «መኖሪያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «መኖሪያ ቤት» (Mänoriya bet) ወይም «መኖሪያ» ነው።",
+          "acceptableAnswers": [
+            "መኖሪያ ቤት",
+            "መኖሪያ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7898,7 +8142,10 @@
           "acceptedAnswers": [
             "አስተያየት"
           ],
-          "explanation": "ትክክለኛው ቃል «አስተያየት» (Astäyayät) ነው።"
+          "explanation": "ትክክለኛው ቃል «አስተያየት» (Astäyayät) ነው።",
+          "acceptableAnswers": [
+            "አስተያየት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -7988,7 +8235,10 @@
           "acceptedAnswers": [
             "ይሻላል"
           ],
-          "explanation": "ትክክለኛው ቃል «ይሻላል» (Yəššalal) ነው።"
+          "explanation": "ትክክለኛው ቃል «ይሻላል» (Yəššalal) ነው።",
+          "acceptableAnswers": [
+            "ይሻላል"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8078,7 +8328,10 @@
           "acceptedAnswers": [
             "ከሁሉ"
           ],
-          "explanation": "ትክክለኛው ቃል «ከሁሉ» (Kähullu) ነው።"
+          "explanation": "ትክክለኛው ቃል «ከሁሉ» (Kähullu) ነው።",
+          "acceptableAnswers": [
+            "ከሁሉ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8168,7 +8421,10 @@
           "acceptedAnswers": [
             "እስማማለሁ"
           ],
-          "explanation": "ትክክለኛው ቃል «እስማማለሁ» (Əssəmamallähu) ነው።"
+          "explanation": "ትክክለኛው ቃል «እስማማለሁ» (Əssəmamallähu) ነው።",
+          "acceptableAnswers": [
+            "እስማማለሁ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8258,7 +8514,10 @@
           "acceptedAnswers": [
             "ንጽጽር"
           ],
-          "explanation": "ትክክለኛው ቃል «ንጽጽር» (Nəts’əts’ər) ነው።"
+          "explanation": "ትክክለኛው ቃል «ንጽጽር» (Nəts’əts’ər) ነው።",
+          "acceptableAnswers": [
+            "ንጽጽር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8348,7 +8607,10 @@
           "acceptedAnswers": [
             "ተሻጋሪ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተሻጋሪ» (Täšagari) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተሻጋሪ» (Täšagari) ነው።",
+          "acceptableAnswers": [
+            "ተሻጋሪ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8438,7 +8700,10 @@
           "acceptedAnswers": [
             "ተደራጊ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተደራጊ» (Tädäragi) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተደራጊ» (Tädäragi) ነው።",
+          "acceptableAnswers": [
+            "ተደራጊ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8528,7 +8793,10 @@
           "acceptedAnswers": [
             "አስደራጊ"
           ],
-          "explanation": "ትክክለኛው ቃል «አስደራጊ» (Asdäragi) ነው።"
+          "explanation": "ትክክለኛው ቃል «አስደራጊ» (Asdäragi) ነው።",
+          "acceptableAnswers": [
+            "አስደራጊ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8618,7 +8886,10 @@
           "acceptedAnswers": [
             "ተደራራጊ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተደራራጊ» (Tädäraragi) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተደራራጊ» (Tädäraragi) ነው።",
+          "acceptableAnswers": [
+            "ተደራራጊ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8708,7 +8979,10 @@
           "acceptedAnswers": [
             "ግስ"
           ],
-          "explanation": "ትክክለኛው ቃል «ግስ» (Gəs) ነው።"
+          "explanation": "ትክክለኛው ቃል «ግስ» (Gəs) ነው።",
+          "acceptableAnswers": [
+            "ግስ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8798,7 +9072,10 @@
           "acceptedAnswers": [
             "ሁኔታ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሁኔታ» (Huneta) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሁኔታ» (Huneta) ነው።",
+          "acceptableAnswers": [
+            "ሁኔታ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8888,7 +9165,10 @@
           "acceptedAnswers": [
             "ቢሆን"
           ],
-          "explanation": "ትክክለኛው ቃል «ቢሆን» (Bihon) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቢሆን» (Bihon) ነው።",
+          "acceptableAnswers": [
+            "ቢሆን"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -8978,7 +9258,10 @@
           "acceptedAnswers": [
             "ኖሮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ኖሮ» (Noro) ነው።"
+          "explanation": "ትክክለኛው ቃል «ኖሮ» (Noro) ነው።",
+          "acceptableAnswers": [
+            "ኖሮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9068,7 +9351,10 @@
           "acceptedAnswers": [
             "በቀር"
           ],
-          "explanation": "ትክክለኛው ቃል «በቀር» (Bäqär) ነው።"
+          "explanation": "ትክክለኛው ቃል «በቀር» (Bäqär) ነው።",
+          "acceptableAnswers": [
+            "በቀር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9158,7 +9444,10 @@
           "acceptedAnswers": [
             "ሁኔታዊ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሁኔታዊ» (Hunetawi) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሁኔታዊ» (Hunetawi) ነው።",
+          "acceptableAnswers": [
+            "ሁኔታዊ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9248,7 +9537,10 @@
           "acceptedAnswers": [
             "ተገብሮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተገብሮ» (Tägäbro) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተገብሮ» (Tägäbro) ነው።",
+          "acceptableAnswers": [
+            "ተገብሮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9338,7 +9630,10 @@
           "acceptedAnswers": [
             "አማካኝነት"
           ],
-          "explanation": "ትክክለኛው ቃል «አማካኝነት» (Amakanyənät) ነው።"
+          "explanation": "ትክክለኛው ቃል «አማካኝነት» (Amakanyənät) ነው።",
+          "acceptableAnswers": [
+            "አማካኝነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9428,7 +9723,10 @@
           "acceptedAnswers": [
             "ተካሄደ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተካሄደ» (Täkahedä) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተካሄደ» (Täkahedä) ነው።",
+          "acceptableAnswers": [
+            "ተካሄደ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9518,7 +9816,10 @@
           "acceptedAnswers": [
             "ለውጥ"
           ],
-          "explanation": "ትክክለኛው ቃል «ለውጥ» (Läwt’) ነው።"
+          "explanation": "ትክክለኛው ቃል «ለውጥ» (Läwt’) ነው።",
+          "acceptableAnswers": [
+            "ለውጥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9608,7 +9909,10 @@
           "acceptedAnswers": [
             "ተገብሮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተገብሮ» (Tägäbro) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተገብሮ» (Tägäbro) ነው።",
+          "acceptableAnswers": [
+            "ተገብሮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9698,7 +10002,10 @@
           "acceptedAnswers": [
             "ወዲያውኑ"
           ],
-          "explanation": "ትክክለኛው ቃል «ወዲያውኑ» (Wädiyawənu) ነው።"
+          "explanation": "ትክክለኛው ቃል «ወዲያውኑ» (Wädiyawənu) ነው።",
+          "acceptableAnswers": [
+            "ወዲያውኑ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9788,7 +10095,10 @@
           "acceptedAnswers": [
             "በጥንቃቄ"
           ],
-          "explanation": "ትክክለኛው ቃል «በጥንቃቄ» (Bät’ənqaqqe) ነው።"
+          "explanation": "ትክክለኛው ቃል «በጥንቃቄ» (Bät’ənqaqqe) ነው።",
+          "acceptableAnswers": [
+            "በጥንቃቄ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9878,7 +10188,10 @@
           "acceptedAnswers": [
             "ስለዚህ"
           ],
-          "explanation": "ትክክለኛው ቃል «ስለዚህ» (Səläzzih) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስለዚህ» (Səläzzih) ነው።",
+          "acceptableAnswers": [
+            "ስለዚህ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -9968,7 +10281,10 @@
           "acceptedAnswers": [
             "ወይም"
           ],
-          "explanation": "ትክክለኛው ቃል «ወይም» (Wäyəm) ነው።"
+          "explanation": "ትክክለኛው ቃል «ወይም» (Wäyəm) ነው።",
+          "acceptableAnswers": [
+            "ወይም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10058,7 +10374,10 @@
           "acceptedAnswers": [
             "አያያዥ"
           ],
-          "explanation": "ትክክለኛው ቃል «አያያዥ» (Ayayaž) ነው።"
+          "explanation": "ትክክለኛው ቃል «አያያዥ» (Ayayaž) ነው።",
+          "acceptableAnswers": [
+            "አያያዥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10148,7 +10467,10 @@
           "acceptedAnswers": [
             "አልጻፈም"
           ],
-          "explanation": "ትክክለኛው ቃል «አልጻፈም» (Alts’afäm) ነው።"
+          "explanation": "ትክክለኛው ቃል «አልጻፈም» (Alts’afäm) ነው።",
+          "acceptableAnswers": [
+            "አልጻፈም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10238,7 +10560,10 @@
           "acceptedAnswers": [
             "በፍጹም"
           ],
-          "explanation": "ትክክለኛው ቃል «በፍጹም» (Bäfəts’um) ነው።"
+          "explanation": "ትክክለኛው ቃል «በፍጹም» (Bäfəts’um) ነው።",
+          "acceptableAnswers": [
+            "በፍጹም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10328,7 +10653,10 @@
           "acceptedAnswers": [
             "ፈሊጥ"
           ],
-          "explanation": "ትክክለኛው ቃል «ፈሊጥ» (Fälit’) ነው።"
+          "explanation": "ትክክለኛው ቃል «ፈሊጥ» (Fälit’) ነው።",
+          "acceptableAnswers": [
+            "ፈሊጥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10418,7 +10746,10 @@
           "acceptedAnswers": [
             "እንኳ"
           ],
-          "explanation": "ትክክለኛው ቃል «እንኳ» (Ənkwa) ነው።"
+          "explanation": "ትክክለኛው ቃል «እንኳ» (Ənkwa) ነው።",
+          "acceptableAnswers": [
+            "እንኳ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10508,7 +10839,10 @@
           "acceptedAnswers": [
             "ዘይቤ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዘይቤ» (Zäybe) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዘይቤ» (Zäybe) ነው።",
+          "acceptableAnswers": [
+            "ዘይቤ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10598,7 +10932,10 @@
           "acceptedAnswers": [
             "ዜና"
           ],
-          "explanation": "ትክክለኛው ቃል «ዜና» (Zena) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዜና» (Zena) ነው።",
+          "acceptableAnswers": [
+            "ዜና"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10688,7 +11025,10 @@
           "acceptedAnswers": [
             "ዲፕሎማሲ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዲፕሎማሲ» (Dipəlomasəy) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዲፕሎማሲ» (Dipəlomasəy) ነው።",
+          "acceptableAnswers": [
+            "ዲፕሎማሲ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10778,7 +11118,10 @@
           "acceptedAnswers": [
             "ኢንቨስትመንት"
           ],
-          "explanation": "ትክክለኛው ቃል «ኢንቨስትመንት» (Investəmänt) ነው።"
+          "explanation": "ትክክለኛው ቃል «ኢንቨስትመንት» (Investəmänt) ነው።",
+          "acceptableAnswers": [
+            "ኢንቨስትመንት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10868,7 +11211,10 @@
           "acceptedAnswers": [
             "ጋዜጠኛ"
           ],
-          "explanation": "ትክክለኛው ቃል «ጋዜጠኛ» (Gazet’änya) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጋዜጠኛ» (Gazet’änya) ነው።",
+          "acceptableAnswers": [
+            "ጋዜጠኛ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -10958,7 +11304,10 @@
           "acceptedAnswers": [
             "ጋዜጠኝነት"
           ],
-          "explanation": "ትክክለኛው ቃል «ጋዜጠኝነት» (Gazet’änyənnät) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጋዜጠኝነት» (Gazet’änyənnät) ነው።",
+          "acceptableAnswers": [
+            "ጋዜጠኝነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11048,7 +11397,10 @@
           "acceptedAnswers": [
             "ደብዳቤ"
           ],
-          "explanation": "ትክክለኛው ቃል «ደብዳቤ» (Däbdabbe) ነው።"
+          "explanation": "ትክክለኛው ቃል «ደብዳቤ» (Däbdabbe) ነው።",
+          "acceptableAnswers": [
+            "ደብዳቤ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11138,7 +11490,10 @@
           "acceptedAnswers": [
             "ማመልከቻ"
           ],
-          "explanation": "ትክክለኛው ቃል «ማመልከቻ» (Mamälkäča) ነው።"
+          "explanation": "ትክክለኛው ቃል «ማመልከቻ» (Mamälkäča) ነው።",
+          "acceptableAnswers": [
+            "ማመልከቻ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11228,7 +11583,10 @@
           "acceptedAnswers": [
             "ስምምነት"
           ],
-          "explanation": "ትክክለኛው ቃል «ስምምነት» (Səməmmənät) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስምምነት» (Səməmmənät) ነው።",
+          "acceptableAnswers": [
+            "ስምምነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11319,7 +11677,11 @@
             "ቃለ-ጉባኤ",
             "ቃለ ጉባኤ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቃለ-ጉባኤ» (Qalä-guba'e) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቃለ-ጉባኤ» (Qalä-guba'e) ነው።",
+          "acceptableAnswers": [
+            "ቃለ-ጉባኤ",
+            "ቃለ ጉባኤ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11409,7 +11771,10 @@
           "acceptedAnswers": [
             "አስተዳደር"
           ],
-          "explanation": "ትክክለኛው ቃል «አስተዳደር» (Astädadär) ነው።"
+          "explanation": "ትክክለኛው ቃል «አስተዳደር» (Astädadär) ነው።",
+          "acceptableAnswers": [
+            "አስተዳደር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11500,7 +11865,11 @@
             "ልቦለድ",
             "ልብወለድ"
           ],
-          "explanation": "ትክክለኛው ቃል «ልቦለድ» ወይም «ልብወለድ» (Ləb-wälläd) ነው።"
+          "explanation": "ትክክለኛው ቃል «ልቦለድ» ወይም «ልብወለድ» (Ləb-wälläd) ነው።",
+          "acceptableAnswers": [
+            "ልቦለድ",
+            "ልብወለድ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11590,7 +11959,10 @@
           "acceptedAnswers": [
             "ግጥም"
           ],
-          "explanation": "ትክክለኛው ቃል «ግጥም» (Gət’əm) ነው።"
+          "explanation": "ትክክለኛው ቃል «ግጥም» (Gət’əm) ነው።",
+          "acceptableAnswers": [
+            "ግጥም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11680,7 +12052,10 @@
           "acceptedAnswers": [
             "ቅኔ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቅኔ» (Qəne) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅኔ» (Qəne) ነው።",
+          "acceptableAnswers": [
+            "ቅኔ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11770,7 +12145,10 @@
           "acceptedAnswers": [
             "ጭብጥ"
           ],
-          "explanation": "ትክክለኛው ቃል «ጭብጥ» (Č’əbt’) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጭብጥ» (Č’əbt’) ነው።",
+          "acceptableAnswers": [
+            "ጭብጥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11863,7 +12241,13 @@
             "ስነ ጽሑፍ",
             "ሥነ ጽሑፍ"
           ],
-          "explanation": "ትክክለኛው ቃል «ስነ-ጽሑፍ» ወይም «ሥነ-ጽሑፍ» (Sənä-ts’əhuf) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-ጽሑፍ» ወይም «ሥነ-ጽሑፍ» (Sənä-ts’əhuf) ነው።",
+          "acceptableAnswers": [
+            "ስነ-ጽሑፍ",
+            "ሥነ-ጽሑፍ",
+            "ስነ ጽሑፍ",
+            "ሥነ ጽሑፍ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -11954,7 +12338,11 @@
             "ሐተታ",
             "ሀተታ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሐተታ» (Hatäta) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሐተታ» (Hatäta) ነው።",
+          "acceptableAnswers": [
+            "ሐተታ",
+            "ሀተታ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12047,7 +12435,13 @@
             "ስነ ምግባር",
             "ሥነ ምግባር"
           ],
-          "explanation": "ትክክለኛው ቃል «ስነ-ምግባር» ወይም «ሥነ-ምግባር» (Sənä-məgbar) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-ምግባር» ወይም «ሥነ-ምግባር» (Sənä-məgbar) ነው።",
+          "acceptableAnswers": [
+            "ስነ-ምግባር",
+            "ሥነ-ምግባር",
+            "ስነ ምግባር",
+            "ሥነ ምግባር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12140,7 +12534,13 @@
             "ስነ አመክንዮ",
             "ሥነ አመክንዮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ስነ-አመክንዮ» ወይም «ሥነ-አመክንዮ» (Sənä-amäkənyo) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-አመክንዮ» ወይም «ሥነ-አመክንዮ» (Sənä-amäkənyo) ነው።",
+          "acceptableAnswers": [
+            "ስነ-አመክንዮ",
+            "ሥነ-አመክንዮ",
+            "ስነ አመክንዮ",
+            "ሥነ አመክንዮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12231,7 +12631,11 @@
             "ህሊና",
             "ሕሊና"
           ],
-          "explanation": "ትክክለኛው ቃል «ህሊና» ወይም «ሕሊና» (Həllina) ነው።"
+          "explanation": "ትክክለኛው ቃል «ህሊና» ወይም «ሕሊና» (Həllina) ነው።",
+          "acceptableAnswers": [
+            "ህሊና",
+            "ሕሊና"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12321,7 +12725,10 @@
           "acceptedAnswers": [
             "ፍልስፍና"
           ],
-          "explanation": "ትክክለኛው ቃል «ፍልስፍና» (Fəlsəfənna) ነው።"
+          "explanation": "ትክክለኛው ቃል «ፍልስፍና» (Fəlsəfənna) ነው።",
+          "acceptableAnswers": [
+            "ፍልስፍና"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12411,7 +12818,10 @@
           "acceptedAnswers": [
             "ቅኝት"
           ],
-          "explanation": "ትክክለኛው ቃል «ቅኝት» (Qənyət) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅኝት» (Qənyət) ነው።",
+          "acceptableAnswers": [
+            "ቅኝት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12502,7 +12912,11 @@
             "ማሲንቆ",
             "ማሲንቆ"
           ],
-          "explanation": "ትክክለኛው ቃል «ማሲንቆ» (Masinqo) ነው።"
+          "explanation": "ትክክለኛው ቃል «ማሲንቆ» (Masinqo) ነው።",
+          "acceptableAnswers": [
+            "ማሲንቆ",
+            "ማሲንቆ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12592,7 +13006,10 @@
           "acceptedAnswers": [
             "ዜማ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዜማ» (Zema) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዜማ» (Zema) ነው።",
+          "acceptableAnswers": [
+            "ዜማ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12682,7 +13099,10 @@
           "acceptedAnswers": [
             "አቀናባሪ"
           ],
-          "explanation": "ትክክለኛው ቃል «አቀናባሪ» (Aqänabari) ነው።"
+          "explanation": "ትክክለኛው ቃል «አቀናባሪ» (Aqänabari) ነው።",
+          "acceptableAnswers": [
+            "አቀናባሪ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12772,7 +13192,10 @@
           "acceptedAnswers": [
             "ሙዚቃ"
           ],
-          "explanation": "ትክክለኛው ቃል «ሙዚቃ» (Muzika) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሙዚቃ» (Muzika) ነው።",
+          "acceptableAnswers": [
+            "ሙዚቃ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12863,7 +13286,11 @@
             "ስዕል",
             "ሥዕል"
           ],
-          "explanation": "ትክክለኛው ቃል «ስዕል» ወይም «ሥዕል» (Sə'əl) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስዕል» ወይም «ሥዕል» (Sə'əl) ነው።",
+          "acceptableAnswers": [
+            "ስዕል",
+            "ሥዕል"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -12953,7 +13380,10 @@
           "acceptedAnswers": [
             "ውቅር"
           ],
-          "explanation": "ትክክለኛው ቃል «ውቅር» (Wəqər) ነው።"
+          "explanation": "ትክክለኛው ቃል «ውቅር» (Wəqər) ነው።",
+          "acceptableAnswers": [
+            "ውቅር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13043,7 +13473,10 @@
           "acceptedAnswers": [
             "ግንብ"
           ],
-          "explanation": "ትክክለኛው ቃል «ግንብ» (Gənb) ነው።"
+          "explanation": "ትክክለኛው ቃል «ግንብ» (Gənb) ነው።",
+          "acceptableAnswers": [
+            "ግንብ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13134,7 +13567,11 @@
             "ጁጎል",
             "ጀጎል"
           ],
-          "explanation": "ትክክለኛው ቃል «ጁጎል» ወይም «ጀጎል» (Ğugol) ነው።"
+          "explanation": "ትክክለኛው ቃል «ጁጎል» ወይም «ጀጎል» (Ğugol) ነው።",
+          "acceptableAnswers": [
+            "ጁጎል",
+            "ጀጎል"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13227,7 +13664,13 @@
             "ህንጻ",
             "ሕንጻ"
           ],
-          "explanation": "ትክክለኛው ቃል «ህንፃ» ወይም «ሕንፃ» (Hənts’a) ነው።"
+          "explanation": "ትክክለኛው ቃል «ህንፃ» ወይም «ሕንፃ» (Hənts’a) ነው።",
+          "acceptableAnswers": [
+            "ህንፃ",
+            "ሕንፃ",
+            "ህንጻ",
+            "ሕንጻ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13320,7 +13763,13 @@
             "ስነ ምህዳር",
             "ሥነ ምህዳር"
           ],
-          "explanation": "ትክክለኛው ቃል «ስነ-ምህዳር» ወይም «ሥነ-ምህዳር» (Sənä-məhəddar) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-ምህዳር» ወይም «ሥነ-ምህዳር» (Sənä-məhəddar) ነው።",
+          "acceptableAnswers": [
+            "ስነ-ምህዳር",
+            "ሥነ-ምህዳር",
+            "ስነ ምህዳር",
+            "ሥነ ምህዳር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13410,7 +13859,10 @@
           "acceptedAnswers": [
             "ግድብ"
           ],
-          "explanation": "ትክክለኛው ቃል «ግድብ» (Gəddəb) ነው።"
+          "explanation": "ትክክለኛው ቃል «ግድብ» (Gəddəb) ነው።",
+          "acceptableAnswers": [
+            "ግድብ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13500,7 +13952,10 @@
           "acceptedAnswers": [
             "ችግኝ"
           ],
-          "explanation": "ትክክለኛው ቃል «ችግኝ» (Čəggəny) ነው።"
+          "explanation": "ትክክለኛው ቃል «ችግኝ» (Čəggəny) ነው።",
+          "acceptableAnswers": [
+            "ችግኝ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13590,7 +14045,10 @@
           "acceptedAnswers": [
             "ዋሊያ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዋሊያ» (Waliya) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዋሊያ» (Waliya) ነው።",
+          "acceptableAnswers": [
+            "ዋሊያ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13680,7 +14138,10 @@
           "acceptedAnswers": [
             "አካባቢ"
           ],
-          "explanation": "ትክክለኛው ቃል «አካባቢ» (Akababi) ነው።"
+          "explanation": "ትክክለኛው ቃል «አካባቢ» (Akababi) ነው።",
+          "acceptableAnswers": [
+            "አካባቢ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13771,7 +14232,11 @@
             "ፍትህ",
             "ፍትሕ"
           ],
-          "explanation": "ትክክለኛው ቃል «ፍትህ» ወይም «ፍትሕ» (Fətəh) ነው።"
+          "explanation": "ትክክለኛው ቃል «ፍትህ» ወይም «ፍትሕ» (Fətəh) ነው።",
+          "acceptableAnswers": [
+            "ፍትህ",
+            "ፍትሕ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13862,7 +14327,11 @@
             "እርቅ",
             "ዕርቅ"
           ],
-          "explanation": "ትክክለኛው ቃል «እርቅ» ወይም «ዕርቅ» (Ərq) ነው።"
+          "explanation": "ትክክለኛው ቃል «እርቅ» ወይም «ዕርቅ» (Ərq) ነው።",
+          "acceptableAnswers": [
+            "እርቅ",
+            "ዕርቅ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -13952,7 +14421,10 @@
           "acceptedAnswers": [
             "ገዳ"
           ],
-          "explanation": "ትክክለኛው ቃል «ገዳ» (Gäda) ነው።"
+          "explanation": "ትክክለኛው ቃል «ገዳ» (Gäda) ነው።",
+          "acceptableAnswers": [
+            "ገዳ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14042,7 +14514,10 @@
           "acceptedAnswers": [
             "መብት"
           ],
-          "explanation": "ትክክለኛው ቃል «መብት» (Mäbət) ነው።"
+          "explanation": "ትክክለኛው ቃል «መብት» (Mäbət) ነው።",
+          "acceptableAnswers": [
+            "መብት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14133,7 +14608,11 @@
             "ህግ",
             "ሕግ"
           ],
-          "explanation": "ትክክለኛው ቃል «ህግ» ወይም «ሕግ» (Həgg) ነው።"
+          "explanation": "ትክክለኛው ቃል «ህግ» ወይም «ሕግ» (Həgg) ነው።",
+          "acceptableAnswers": [
+            "ህግ",
+            "ሕግ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14223,7 +14702,10 @@
           "acceptedAnswers": [
             "ምርምር"
           ],
-          "explanation": "ትክክለኛው ቃል «ምርምር» (Mərəmər) ነው።"
+          "explanation": "ትክክለኛው ቃል «ምርምር» (Mərəmər) ነው።",
+          "acceptableAnswers": [
+            "ምርምር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14313,7 +14795,10 @@
           "acceptedAnswers": [
             "መረጃ"
           ],
-          "explanation": "ትክክለኛው ቃል «መረጃ» (Märäğa) ነው።"
+          "explanation": "ትክክለኛው ቃል «መረጃ» (Märäğa) ነው።",
+          "acceptableAnswers": [
+            "መረጃ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14403,7 +14888,10 @@
           "acceptedAnswers": [
             "ውጤት"
           ],
-          "explanation": "ትክክለኛው ቃል «ውጤት» (Wət’et) ነው።"
+          "explanation": "ትክክለኛው ቃል «ውጤት» (Wət’et) ነው።",
+          "acceptableAnswers": [
+            "ውጤት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14493,7 +14981,10 @@
           "acceptedAnswers": [
             "ማጣቀሻ"
           ],
-          "explanation": "ትክክለኛው ቃል «ማጣቀሻ» (Mat’aqäša) ነው።"
+          "explanation": "ትክክለኛው ቃል «ማጣቀሻ» (Mat’aqäša) ነው።",
+          "acceptableAnswers": [
+            "ማጣቀሻ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14583,7 +15074,10 @@
           "acceptedAnswers": [
             "ግኝት"
           ],
-          "explanation": "ትክክለኛው ቃል «ግኝት» (Gənyət) ነው።"
+          "explanation": "ትክክለኛው ቃል «ግኝት» (Gənyət) ነው።",
+          "acceptableAnswers": [
+            "ግኝት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14673,7 +15167,10 @@
           "acceptedAnswers": [
             "ዲፕሎማሲ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዲፕሎማሲ» (Diplomasi) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዲፕሎማሲ» (Diplomasi) ነው።",
+          "acceptableAnswers": [
+            "ዲፕሎማሲ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14764,7 +15261,11 @@
             "ህብረት",
             "ሕብረት"
           ],
-          "explanation": "ትክክለኛው ቃል «ህብረት» ወይም «ሕብረት» (Həbrät) ነው።"
+          "explanation": "ትክክለኛው ቃል «ህብረት» ወይም «ሕብረት» (Həbrät) ነው።",
+          "acceptableAnswers": [
+            "ህብረት",
+            "ሕብረት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14854,7 +15355,10 @@
           "acceptedAnswers": [
             "ስምምነት"
           ],
-          "explanation": "ትክክለኛው ቃል «ስምምነት» (Səməmmənnät) ነው።"
+          "explanation": "ትክክለኛው ቃል «ስምምነት» (Səməmmənnät) ነው።",
+          "acceptableAnswers": [
+            "ስምምነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -14945,7 +15449,11 @@
             "ተልዕኮ",
             "ተልእኮ"
           ],
-          "explanation": "ትክክለኛው ቃል «ተልዕኮ» ወይም «ተልእኮ» (Täl’əko) ነው።"
+          "explanation": "ትክክለኛው ቃል «ተልዕኮ» ወይም «ተልእኮ» (Täl’əko) ነው።",
+          "acceptableAnswers": [
+            "ተልዕኮ",
+            "ተልእኮ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15035,7 +15543,10 @@
           "acceptedAnswers": [
             "ሰላም"
           ],
-          "explanation": "ትክክለኛው ቃል «ሰላም» (Sälam) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሰላም» (Sälam) ነው።",
+          "acceptableAnswers": [
+            "ሰላም"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15125,7 +15636,10 @@
           "acceptedAnswers": [
             "ቅኔ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቅኔ» (Qəne) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅኔ» (Qəne) ነው።",
+          "acceptableAnswers": [
+            "ቅኔ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15215,7 +15729,10 @@
           "acceptedAnswers": [
             "ፈሊጥ"
           ],
-          "explanation": "ትክክለኛው ቃል «ፈሊጥ» (Fälit’) ነው።"
+          "explanation": "ትክክለኛው ቃል «ፈሊጥ» (Fälit’) ነው።",
+          "acceptableAnswers": [
+            "ፈሊጥ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15305,7 +15822,10 @@
           "acceptedAnswers": [
             "ንግግር"
           ],
-          "explanation": "ትክክለኛው ቃል «ንግግር» (Nəgəgər) ነው።"
+          "explanation": "ትክክለኛው ቃል «ንግግር» (Nəgəgər) ነው።",
+          "acceptableAnswers": [
+            "ንግግር"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15395,7 +15915,10 @@
           "acceptedAnswers": [
             "ዘይቤ"
           ],
-          "explanation": "ትክክለኛው ቃል «ዘይቤ» (Zäybe) ነው።"
+          "explanation": "ትክክለኛው ቃል «ዘይቤ» (Zäybe) ነው።",
+          "acceptableAnswers": [
+            "ዘይቤ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15485,7 +16008,10 @@
           "acceptedAnswers": [
             "ወርቅ"
           ],
-          "explanation": "ትክክለኛው ቃል «ወርቅ» (Wärq) ነው።"
+          "explanation": "ትክክለኛው ቃል «ወርቅ» (Wärq) ነው።",
+          "acceptableAnswers": [
+            "ወርቅ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15576,7 +16102,11 @@
             "ሉዓላዊነት",
             "ሉአላዊነት"
           ],
-          "explanation": "ትክክለኛው ቃል «ሉዓላዊነት» ወይም «ሉአላዊነት» (Lu’alawinnät) ነው።"
+          "explanation": "ትክክለኛው ቃል «ሉዓላዊነት» ወይም «ሉአላዊነት» (Lu’alawinnät) ነው።",
+          "acceptableAnswers": [
+            "ሉዓላዊነት",
+            "ሉአላዊነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15666,7 +16196,10 @@
           "acceptedAnswers": [
             "ብራና"
           ],
-          "explanation": "ትክክለኛው ቃል «ብራና» (Bərana) ነው።"
+          "explanation": "ትክክለኛው ቃል «ብራና» (Bərana) ነው።",
+          "acceptableAnswers": [
+            "ብራና"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15756,7 +16289,10 @@
           "acceptedAnswers": [
             "ቅርስ"
           ],
-          "explanation": "ትክክለኛው ቃል «ቅርስ» (Qərs) ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅርስ» (Qərs) ነው።",
+          "acceptableAnswers": [
+            "ቅርስ"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15846,7 +16382,10 @@
           "acceptedAnswers": [
             "እውነት"
           ],
-          "explanation": "ትክክለኛው ቃል «እውነት» (Əwənät) ነው።"
+          "explanation": "ትክክለኛው ቃል «እውነት» (Əwənät) ነው።",
+          "acceptableAnswers": [
+            "እውነት"
+          ]
         }
       ],
       "passThreshold": 0.8
@@ -15936,7 +16475,10 @@
           "acceptedAnswers": [
             "ብቃት"
           ],
-          "explanation": "ትክክለኛው ቃል «ብቃት» (Bəqat) ነው።"
+          "explanation": "ትክክለኛው ቃል «ብቃት» (Bəqat) ነው።",
+          "acceptableAnswers": [
+            "ብቃት"
+          ]
         }
       ],
       "passThreshold": 0.8
