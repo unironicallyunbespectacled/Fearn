@@ -18069,78 +18069,95 @@
     },
     "es-u32-l1": {
         "id": "es-u32-l1",
-        "unit": "es-u32",
+        "unit": 32,
+        "lessonNumber": 1,
         "level": "C1",
-        "objective": "Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Federico García Lorca y la Trilogía Rural: Tragedia, Mito y Opresión Social",
+        "objective": "Analizar la dramaturgia poética de Federico García Lorca en su trilogía rural (Bodas de sangre, Yerma y La casa de Bernarda Alba), explorando el concepto del duende, los símbolos telúricos y el conflicto entre deseo y norma social.",
         "presentation": {
-            "explanation": "Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "La dramaturgia de Federico García Lorca (1898–1936), cumbre del teatro poético universal y de la Generación del 27, alcanza su máxima intensidad trágica en su célebre trilogía rural: *Bodas de sangre* (1933), *Yerma* (1934) y *La casa de Bernarda Alba* (1936). Lorca fusiona el folclore andaluz, la lírica de raíz popular y las técnicas de vanguardia para escenificar el choque telúrico entre el principio del deseo (el amor libre, el instinto vital, el «duende») y el principio de la realidad coercitiva (el honor calderoniano, la honra familiar, la moral represiva y el luto asfixiante). En *La casa de Bernarda Alba*, subtitulada 'Drama de mujeres en los pueblos de España', el espacio escénico clausurado —la casa blanca convertida en convento carcelario bajo el bastón de mando de Bernarda— materializa el silencio impuesto sobre las cinco hijas, culminando en el suicidio catártico de Adela.",
             "examples": [
                 {
-                    "target": "Mastery of Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba)...",
-                    "translation": "Mastery of Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "El bastón de mando de Bernarda Alba simboliza la tiranía moral y el control asfixiante sobre el destino de sus hijas.",
+                    "reading": "El bastón de mando de Bernarda Alba simboliza la tiranía moral y el control asfixiante sobre el destino de sus hijas.",
+                    "translation": "Bernarda Alba's cane of command symbolizes moral tyranny and suffocating control over her daughters' destiny."
+                },
+                {
+                    "target": "En «Bodas de sangre», la Luna y la Muerte personificada tejen el destino inexorable de los amantes en el bosque.",
+                    "reading": "En «Bodas de sangre», la Luna y la Muerte personificada tejen el destino inexorable de los amantes en el bosque.",
+                    "translation": "In 'Blood Wedding', the Moon and personified Death weave the inexorable destiny of the lovers in the forest."
+                },
+                {
+                    "target": "Yerma encarna la tragedia existencial de la esterilidad en una sociedad agraria que reduce a la mujer a la maternidad.",
+                    "reading": "Yerma encarna la tragedia existencial de la esterilidad en una sociedad agraria que reduce a la mujer a la maternidad.",
+                    "translation": "Yerma embodies the existential tragedy of barrenness in an agrarian society that reduces women to maternity."
+                },
+                {
+                    "target": "El 'duende' lorquiano representa esa fuerza misteriosa y telúrica que desgarra la creación artística desde el dolor.",
+                    "reading": "El 'duende' lorquiano representa esa fuerza misteriosa y telúrica que desgarra la creación artística desde el dolor.",
+                    "translation": "Lorca's 'duende' represents that mysterious, telluric force that tears through artistic creation from pain."
                 }
             ],
             "mnemonics": [
-                "Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "«Navaja, luto y bastón»: los tres ejes trágicos de Lorca que desgarran el honor, la sangre y el silencio en el campo andaluz."
             ],
             "culturalNotes": [
-                "Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "Lorca fundó y dirigió «La Barraca», una compañía de teatro universitario ambulante que recorría los pueblos de España representando obras del Siglo de Oro."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba)?",
+                    "prompt": "¿Qué elemento escénico y dramático empuña Bernarda Alba como símbolo supremo de su autoritarismo patriarcal?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "Federico García Lorca & The Rural Tragedies (156.4)"
+                        "El bastón",
+                        "Una corona de espinas",
+                        "Una espada toledana",
+                        "Un abanico de plumas doradas"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Federico García Lorca & The Rural Tragedies is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "El bastón de Bernarda es el emblema de su poder represivo y de la vigilancia absoluta en la casa."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Federico García Lorca & The Rural Tragedies?",
+                    "prompt": "¿Cuál es la última palabra que pronuncia Bernarda Alba al final de la obra tras el suicidio de Adela?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "«¡Silencio!»",
+                        "«¡Justicia!»",
+                        "«¡Piedad!»",
+                        "«¡Libertad!»"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "explanation": "Bernarda exige silencio («¡Silencio, silencio he dicho! ¡Silencio!») para ocultar la deshonra ante las murmuraciones del pueblo."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Federico García Lorca & The Rural Tragedies in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "¿Qué tres obras teatrales componen la célebre «trilogía rural» dramática de Federico García Lorca?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Federico García Lorca & The Rural Tragedies established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Federico García Lorca & The Rural Tragedies (Bodas de sangre, Yerma, La casa de Bernarda Alba)."
-                },
-                {
-                    "prompt": "What mastery level does completing Federico García Lorca & The Rural Tragedies contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Bodas de sangre, Yerma y La casa de Bernarda Alba",
+                        "Doña Rosita la soltera, El público y Así que pasen cinco años",
+                        "Luces de bohemia, Divinas palabras y Martes de Carnaval",
+                        "Fuenteovejuna, El caballero de Olmedo y Peribáñez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Estas tres piezas configuran el ciclo trágico rural donde la pasión individual choca con las normas tradicionales."
+                },
+                {
+                    "prompt": "¿Cómo define Lorca la teoría estética del «duende» en el arte y el cante jondo?",
+                    "options": [
+                        "Un poder misterioso que todos sienten y ningún filósofo explica, nacido de la sangre y del combate cercano con la muerte.",
+                        "Una técnica puramente matemática de métrica silábica renacentista.",
+                        "Un tipo de máscara teatral importada de la comedia del arte veneciana.",
+                        "Un libreto musical para coro infantil sin acompañamiento de guitarra."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El duende lorquiano es la vivencia honda, intuitiva y desgarrada del arte enraizada en la tradición española."
                 }
             ],
             "passThreshold": 0.8
@@ -18148,78 +18165,95 @@
     },
     "es-u32-l2": {
         "id": "es-u32-l2",
-        "unit": "es-u32",
+        "unit": 32,
+        "lessonNumber": 2,
         "level": "C1",
-        "objective": "Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "El Siglo de Oro: Lope de Vega, Calderón de la Barca y los Corrales de Comedias",
+        "objective": "Comprender la revolución dramática del Siglo de Oro español: la fórmula innovadora de Lope de Vega (El arte nuevo de hacer comedias, Fuenteovejuna) frente a la hondura filosófica y teológica de Calderón de la Barca (La vida es sueño).",
         "presentation": {
-            "explanation": "Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "El teatro barroco del Siglo de Oro español (siglos XVI–XVII) revolucionó la escena europea al democratizar el espectáculo dramático en los corrales de comedias populares. Lope de Vega (1562–1635), el «Fénix de los ingenios», rompió las unidades aristotélicas de tiempo, lugar y acción en su tratado *El arte nuevo de hacer comedias en este tiempo* (1609), mezclando lo trágico y lo cómico, reduciendo la obra a tres jornadas y creando el arquetipo del 'gracioso'. Obras como *Fuenteovejuna* erigen al pueblo colectivo en protagonista de la justicia y la dignidad frente al abuso feudal. Por su parte, Pedro Calderón de la Barca (1600–1681) llevó el drama a su cima filosófica y teológica en *La vida es sueño*, donde Segismundo reflexiona sobre el libre albedrío, la predestinación astrológica y la naturaleza ilusoria de la existencia terrenal, consolidando además el género del auto sacramental.",
             "examples": [
                 {
-                    "target": "Mastery of Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño)...",
-                    "translation": "Mastery of Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "En «Fuenteovejuna», todo el pueblo asume solidariamente la autoría de la muerte del comendador tirano.",
+                    "reading": "En «Fuenteovejuna», todo el pueblo asume solidariamente la autoría de la muerte del comendador tirano.",
+                    "translation": "In 'Fuenteovejuna', the entire village solidarily assumes authorship of the tyrannical commander's death."
+                },
+                {
+                    "target": "El monólogo de Segismundo cuestiona si la vigilia no es sino una ilusión efímera dentro del sueño de la vida.",
+                    "reading": "El monólogo de Segismundo cuestiona si la vigilia no es sino una ilusión efímera dentro del sueño de la vida.",
+                    "translation": "Segismundo's monologue questions whether wakefulness is but an ephemeral illusion within the dream of life."
+                },
+                {
+                    "target": "Lope de Vega justificó complacer el gusto del vulgo pagano en los corrales de comedias madrileños.",
+                    "reading": "Lope de Vega justificó complacer el gusto del vulgo pagano en los corrales de comedias madrileños.",
+                    "translation": "Lope de Vega justified catering to the taste of the paying common folk in Madrid's comedy courtyards."
+                },
+                {
+                    "target": "El auto sacramental calderoniano personificaba conceptos teológicos y alegóricos en suntuosas puestas en escena.",
+                    "reading": "El auto sacramental calderoniano personificaba conceptos teológicos y alegóricos en suntuosas puestas en escena.",
+                    "translation": "The Calderonian sacramental play personified theological and allegorical concepts in sumptuous staging."
                 }
             ],
             "mnemonics": [
-                "Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "«Lope da la vida en tres actos, Calderón la sueña en verso»: la vitalidad popular frente a la metafísica del Siglo de Oro."
             ],
             "culturalNotes": [
-                "Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "El Corral de Comedias de Almagro (Ciudad Real), conservado intacto desde 1628, es el único corral de comedias barroco que permanece en funcionamiento activo en el mundo."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño)?",
+                    "prompt": "¿Cuál es la célebre respuesta que dan todos los habitantes del pueblo ante el juez en «Fuenteovejuna»?",
                     "options": [
-                        "Golden Age Drama: Lope de Vega (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "«Fuenteovejuna lo hizo, señor» / «¿Quién mató al Comendador? Fuenteovejuna, todos a una»",
+                        "«Fue el alcalde en defensa propia»",
+                        "«Nadie vio nada en la plaza mayor»",
+                        "«El rey ordenó la ejecución»"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Golden Age Drama: Lope de Vega is the central subject."
+                    "explanation": "La respuesta unánime «Fuenteovejuna, todos a una» consagra la solidaridad colectiva como escudo ante la justicia."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Golden Age Drama: Lope de Vega?",
+                    "prompt": "¿Qué dilema filosófico central debate Segismundo en la torre en «La vida es sueño»?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "El conflicto entre la predestinación fatídica de los astros y el libre albedrío moral del ser humano.",
+                        "La teoría geocéntrica de Ptolomeo frente al copernicanismo.",
+                        "El valor del dinero fiduciario en las colonias americanas.",
+                        "La técnica de construcción naval de galeras mediterráneas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "explanation": "Segismundo vence su supuesto destino tiránico ejerciendo la prudencia y el libre albedrío cristiano."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Golden Age Drama: Lope de Vega in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "¿Qué tratado poético de Lope de Vega fijó las reglas del nuevo teatro comercial barroco español?",
                     "options": [
-                        "Golden Age Drama: Lope de Vega established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "El arte nuevo de hacer comedias en este tiempo (1609)",
+                        "La Poética de Aristóteles anotada",
+                        "La Galatea y el Viaje del Parnaso",
+                        "Teatro crítico universal"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Golden Age Drama: Lope de Vega (Fuenteovejuna) & Calderón de la Barca (La vida es sueño)."
+                    "explanation": "En esta obra Lope defiende la libertad creativa, la polimetría y la mezcla de comedia y tragedia."
                 },
                 {
-                    "prompt": "What mastery level does completing Golden Age Drama: Lope de Vega contribute to in the FEARN curriculum?",
+                    "prompt": "¿Cómo se llamaban los patios interiores al aire libre entre edificios donde se representaban las comedias del Siglo de Oro?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Corrales de comedias",
+                        "Anfiteatros romanos",
+                        "Ateneos científicos",
+                        "Claustros catedralicios"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Los corrales de comedias (como el del Príncipe o de la Cruz en Madrid) eran los espacios escénicos urbanos por excelencia."
                 }
             ],
             "passThreshold": 0.8
@@ -18227,78 +18261,95 @@
     },
     "es-u32-l3": {
         "id": "es-u32-l3",
-        "unit": "es-u32",
-        "level": "C2",
-        "objective": "Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": 32,
+        "lessonNumber": 3,
+        "level": "C1",
+        "title": "Ramón María del Valle-Inclán y el Esperpento: Deformación Grotesca y Luces de Bohemia",
+        "objective": "Dominar la teoría y técnica dramatúrgica del esperpento creada por Valle-Inclán, analizando la peregrinación nocturna de Max Estrella en Luces de bohemia y la crítica ácida a la España de la Restauración.",
         "presentation": {
-            "explanation": "Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Ramón María del Valle-Inclán (1866–1936), figura cardinal de la Generación del 98 y del Modernismo hispánico, revolucionó el teatro del siglo XX con la invención del «esperpento», una estética de la deformación grotesca y sistemática de la realidad española. En su obra maestra *Luces de bohemia* (1920/1924), Valle-Inclán formula su famosa teoría a través del poeta ciego y miserable Max Estrella en el Callejón del Gato de Madrid: 'Los héroes clásicos reflejados en los espejos cóncavos dan el Esperpento. El sentido trágico de la vida española sólo puede darse con una estética sistemáticamente deformada'. Mediante la animalización de los personajes, la cosificación humana, el cruce de registros cultos con jergas tabernarias y la ironía mordaz, el dramaturgo destripa la corrupción política, la pedantería académica, la violencia policial y la decadencia moral de la España de la Restauración alfonsina.",
             "examples": [
                 {
-                    "target": "Mastery of Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia)...",
-                    "translation": "Mastery of Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "Los espejos cóncavos y convexos del Callejón del Gato devuelven una imagen cómica y monstruosa de la tragedia nacional.",
+                    "reading": "Los espejos cóncavos y convexos del Callejón del Gato devuelven una imagen cómica y monstruosa de la tragedia nacional.",
+                    "translation": "The concave and convex mirrors of the Alley of the Cat return a comical and monstrous image of the national tragedy."
+                },
+                {
+                    "target": "Max Estrella recorre la noche madrileña acompañado por su lazarillo parásito Don Latino de Híspalis.",
+                    "reading": "Max Estrella recorre la noche madrileña acompañado por su lazarillo parásito Don Latino de Híspalis.",
+                    "translation": "Max Estrella wanders through the Madrid night accompanied by his parasitic guide Don Latino de Híspalis."
+                },
+                {
+                    "target": "El esperpento reduce a los ministros y militares a títeres grotescos y fantoches gesticulantes.",
+                    "reading": "El esperpento reduce a los ministros y militares a títeres grotescos y fantoches gesticulantes.",
+                    "translation": "The esperpento reduces ministers and military officers to grotesque puppets and gesticulating figurines."
+                },
+                {
+                    "target": "El lenguaje de Valle-Inclán combina arcaísmos hidalgos, culteranismos modernistas y el habla cheli de los bajos fondos.",
+                    "reading": "El lenguaje de Valle-Inclán combina arcaísmos hidalgos, culteranismos modernistas y el habla cheli de los bajos fondos.",
+                    "translation": "Valle-Inclán's language blends hidalgo archaisms, modernist cultisms and the slang of the underworld."
                 }
             ],
             "mnemonics": [
-                "Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "«El espejo cóncavo del Callejón del Gato»: Valle-Inclán deformó al héroe clásico para revelar la farsa grotesca de la realidad española."
             ],
             "culturalNotes": [
-                "Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "El personaje de Max Estrella está inspirado en la trágica vida real del escritor bohemio sevillano Alejandro Sawa, quien murió ciego y en la indigencia en Madrid en 1909."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia)?",
+                    "prompt": "¿Qué metáfora física y óptica utiliza Valle-Inclán en «Luces de bohemia» para explicar el nacimiento del esperpento?",
                     "options": [
-                        "Ramón María del Valle-Inclán & The Grotesque Esperpento (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "Los héroes clásicos reflejados en los espejos cóncavos del Callejón del Gato madrileño.",
+                        "Un microscopio de laboratorio que agranda las bacterias.",
+                        "Un telescopio astronómico apuntando a las constelaciones lejanas.",
+                        "Una cámara oscura veneciana para pintar retratos al óleo."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Ramón María del Valle-Inclán & The Grotesque Esperpento is the central subject."
+                    "explanation": "Los espejos deformantes del Callejón del Gato transforman la tragedia en mueca grotesca: el esperpento."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Ramón María del Valle-Inclán & The Grotesque Esperpento?",
+                    "prompt": "¿Quién acompaña y traiciona a Max Estrella a lo largo de su última noche de bohemia por las tabernas de Madrid?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Don Latino de Híspalis",
+                        "El Marqués de Bradomín",
+                        "Pedro Crespo",
+                        "Sancho Panza"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "explanation": "Don Latino encarna la mezquindad, el cinismo y la degradación moral de la bohemia golfa."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Ramón María del Valle-Inclán & The Grotesque Esperpento in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "¿Qué técnica expresiva caracteriza fundamentalmente a la dramaturgia del esperpento de Valle-Inclán?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Ramón María del Valle-Inclán & The Grotesque Esperpento established enduring philosophical, technical, and expressive standards across the tradition."
+                        "La animalización, la cosificación y la muñequización de los personajes para subrayar su deshumanización trágica.",
+                        "El realismo fotográfico burgués con decorados naturalistas exactos.",
+                        "La declamación solemne en alejandrinos clásicos sin humor ni sátira.",
+                        "El uso de coros litúrgicos gregorianos en latín medieval."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Ramón María del Valle-Inclán & The Grotesque Esperpento (Luces de bohemia)."
+                    "answerIndex": 0,
+                    "explanation": "El esperpento degrada a los personajes a fantoches y animales para denunciar la farsa social."
                 },
                 {
-                    "prompt": "What mastery level does completing Ramón María del Valle-Inclán & The Grotesque Esperpento contribute to in the FEARN curriculum?",
+                    "prompt": "¿En qué obra monumental inauguró Valle-Inclán formalmente la estética del esperpento en 1920?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Luces de bohemia",
+                        "Sonatas de otoño",
+                        "Tirano Banderas",
+                        "Divinas palabras"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "«Luces de bohemia» es la pieza fundacional donde se teoriza y ejecuta plenamente el esperpento."
                 }
             ],
             "passThreshold": 0.8
@@ -18306,78 +18357,95 @@
     },
     "es-u32-l4": {
         "id": "es-u32-l4",
-        "unit": "es-u32",
-        "level": "C2",
-        "objective": "La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": 32,
+        "lessonNumber": 4,
+        "level": "C1",
+        "title": "La Zarzuela y el Género Chico Madrileño: Tradición Lírica y Costumbrismo Castizo",
+        "objective": "Apreciar la zarzuela española como patrimonio lírico-teatral singular, distinguiendo la zarzuela grande del género chico (La verbena de la Paloma, Doña Francisquita), sus tipos populares castizos y sus formas musicales tradicionales.",
         "presentation": {
-            "explanation": "La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "La Zarzuela es el género lírico-dramático por excelencia del patrimonio musical español, caracterizado por la alternancia virtuosa de partes habladas y partes cantadas, danzas populares y coros festivos. Nacida en el siglo XVII en el Real Sitio de la Zarzuela bajo el mecenazgo de Felipe IV y Calderón de la Barca, la zarzuela conoció una segunda edad de oro a finales del siglo XIX con el auge del «género chico» —obras cómicas en un solo acto de ambientación costumbrista y precio popular—. Obras maestras como *La verbena de la Paloma* (1894, libreto de Ricardo de la Vega y música de Tomás Bretón), *La revoltosa* (1897, Ruperto Chapí) y la zarzuela grande *Doña Francisquita* (1923, Amadeo Vives) retratan el Madrid castizo de chulapos, modistillas, taberneros y boticarios, inmortalizando ritmos como el chotis, la habanera, las seguidillas y el pasodoble.",
             "examples": [
                 {
-                    "target": "Mastery of La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita)...",
-                    "translation": "Mastery of La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "Las coplas de Don Hilarión en «La verbena de la Paloma» retratan con gracia picaresca al viejo boticario seductor.",
+                    "reading": "Las coplas de Don Hilarión en «La verbena de la Paloma» retratan con gracia picaresca al viejo boticario seductor.",
+                    "translation": "Don Hilarión's verses in 'La verbena de la Paloma' portray the old seductive apothecary with picaresque grace."
+                },
+                {
+                    "target": "El chotis madrileño se baila en una baldosa al son de las notas alegres del organillo callejero.",
+                    "reading": "El chotis madrileño se baila en una baldosa al son de las notas alegres del organillo callejero.",
+                    "translation": "The Madrid chotis is danced on a single tile to the merry notes of the street barrel organ."
+                },
+                {
+                    "target": "El «género chico» democratizó la lírica teatral al ofrecer funciones breves y accesibles en los teatros por horas.",
+                    "reading": "El «género chico» democratizó la lírica teatral al ofrecer funciones breves y accesibles en los teatros por horas.",
+                    "translation": "The 'género chico' democratized theatrical lyricism by offering short, accessible shows in hourly theatres."
+                },
+                {
+                    "target": "La romanza de Fernando en «Doña Francisquita» exige un dominio lírico propio de los grandes tenores del bel canto.",
+                    "reading": "La romanza de Fernando en «Doña Francisquita» exige un dominio lírico propio de los grandes tenores del bel canto.",
+                    "translation": "Fernando's romance in 'Doña Francisquita' demands a lyric mastery worthy of great bel canto tenors."
                 }
             ],
             "mnemonics": [
-                "La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "«Zarzuela alterna, el género chico festeja»: canto, diálogo y chotis en el Madrid de la verbena y el mantón de Manila."
             ],
             "culturalNotes": [
-                "La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "El Teatro de la Zarzuela en Madrid, fundado en 1856 por Francisco Asenjo Barbieri y otros insignes compositores, fue el primer coliseo edificado expresamente para el repertorio lírico nacional."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita)?",
+                    "prompt": "¿Qué rasgo formal distingue a la zarzuela española de la ópera italiana tradicional?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "La Zarzuela & The Madrid Lyric Stage (159.4)"
+                        "La alternancia de pasajes hablados en prosa o verso con secciones cantadas y números de danza popular.",
+                        "El uso obligatorio de máscaras de cuero y ausencia total de orquesta.",
+                        "El canto exclusivo a capela sin ningún instrumento musical.",
+                        "La duración ininterrumpida de doce horas continuas."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "La Zarzuela & The Madrid Lyric Stage is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "A diferencia de la ópera donde todo es cantado (recitativos), la zarzuela combina diálogo hablado con música lírica."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of La Zarzuela & The Madrid Lyric Stage?",
+                    "prompt": "¿Qué inmortal sainete lírico del género chico compuesto por Tomás Bretón transcurre durante la fiesta de la Virgen de la Paloma?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (159.4)"
+                        "La verbena de la Paloma (1894)",
+                        "El barberillo de Lavapiés",
+                        "Agua, azucarillos y aguardiente",
+                        "La corte de Faraón"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "«La verbena de la Paloma» es el sainete por excelencia del género chico madrileño."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of La Zarzuela & The Madrid Lyric Stage in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "¿Cuál es el baile castizo y popular más emblemático del Madrid de la zarzuela?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "La Zarzuela & The Madrid Lyric Stage established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "El chotis",
+                        "La tarantela",
+                        "La polka rusa",
+                        "El vals vienés"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of La Zarzuela & The Madrid Lyric Stage (La verbena de la Paloma, Doña Francisquita)."
+                    "answerIndex": 0,
+                    "explanation": "El chotis madrileño es la danza castiza tradicional bailada giro a giro sobre un espacio mínimo."
                 },
                 {
-                    "prompt": "What mastery level does completing La Zarzuela & The Madrid Lyric Stage contribute to in the FEARN curriculum?",
+                    "prompt": "¿Qué formato teatral y comercial permitió el gran florecimiento del «género chico» a finales del siglo XIX?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "El teatro por horas: representaciones breves de un solo acto a precios muy reducidos para el público popular.",
+                        "La suscripción nobiliaria exclusiva en palacios privados.",
+                        "Las giras en carromatos de comediantes ambulantes sin texto escrito.",
+                        "Los festivales de teatro sacro en monasterios cistercienses."
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "El 'teatro por horas' democratizó la cultura permitiendo a los trabajadores asistir a piezas cortas tras la jornada laboral."
                 }
             ],
             "passThreshold": 0.8
@@ -18385,78 +18453,95 @@
     },
     "es-u32-l5": {
         "id": "es-u32-l5",
-        "unit": "es-u32",
-        "level": "C2",
-        "objective": "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": 32,
+        "lessonNumber": 5,
+        "level": "C1",
+        "title": "Vanguardia Escénica Española: La Fura dels Baus, Juan Mayorga y la Escena Contemporánea",
+        "objective": "Examinar las corrientes contemporáneas del teatro español, desde la poética física, tecnológica y macroscópica de La Fura dels Baus hasta el teatro filosófico, político y de la memoria histórica de Juan Mayorga (Premio Princesa de Asturias 2022).",
         "presentation": {
-            "explanation": "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg) represents a cornerstone of Theatre, Dramaturgy & Stagecraft. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "La escena teatral española de las últimas décadas destaca por su vitalidad e internacionalización, articulada en dos vertientes maestras: el teatro físico de impacto sensorial y el teatro de texto filosófico. En el ámbito de la vanguardia física y multidisciplinar, la compañía catalana La Fura dels Baus (fundada en 1979) revolucionó la dramaturgia escénica con el 'lenguaje furero': ruptura de la cuarta pared, eliminación del escenario convencional, interacción visceral con el público, maquinaria industrial e inmersión tecnológica (consagrada globalmente en la ceremonia de apertura de los Juegos Olímpicos de Barcelona 1992). En el polo del teatro de texto y pensamiento, Juan Mayorga (1965, dramaturgo, matemático y filósofo, miembro de la Real Academia Española) ha creado un teatro ético y de la memoria (*Himmelweg*, *El chico de la última fila*, *La tortuga de Darwin*), donde el escenario se transforma en un laboratorio de preguntas morales sobre el Holocausto, la violencia invisible, la seducción del relato y la responsabilidad cívica.",
             "examples": [
                 {
-                    "target": "Mastery of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg)...",
-                    "translation": "Mastery of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "La Fura dels Baus disuelve la frontera entre actor y espectador situando la acción en el centro del espacio multitudinario.",
+                    "reading": "La Fura dels Baus disuelve la frontera entre actor y espectador situando la acción en el centro del espacio multitudinario.",
+                    "translation": "La Fura dels Baus dissolves the boundary between actor and spectator by placing the action in the center of the crowd space."
+                },
+                {
+                    "target": "En «Himmelweg», Juan Mayorga indaga en el teatro como máquina de engaño propagandístico en un campo de concentración nazi.",
+                    "reading": "En «Himmelweg», Juan Mayorga indaga en el teatro como máquina de engaño propagandístico en un campo de concentración nazi.",
+                    "translation": "In 'Himmelweg', Juan Mayorga investigates theatre as a machine of propagandistic deception in a Nazi concentration camp."
+                },
+                {
+                    "target": "El teatro contemporáneo español interroga las heridas del pasado para iluminar los dilemas éticos del presente.",
+                    "reading": "El teatro contemporáneo español interroga las heridas del pasado para iluminar los dilemas éticos del presente.",
+                    "translation": "Contemporary Spanish theatre interrogates the wounds of the past to illuminate the ethical dilemmas of the present."
+                },
+                {
+                    "target": "La escenografía digital y la robótica se integran con la dramaturgia textual en las producciones del Centro Dramático Nacional.",
+                    "reading": "La escenografía digital y la robótica se integran con la dramaturgia textual en las producciones del Centro Dramático Nacional.",
+                    "translation": "Digital stage design and robotics integrate with textual dramaturgy in productions of the National Dramatic Center."
                 }
             ],
             "mnemonics": [
-                "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg)! Essential milestone in Theatre, Dramaturgy & Stagecraft!"
+                "«La Fura impacta los sentidos, Mayorga agudiza el pensamiento»: la vanguardia física y el teatro filosófico de la España contemporánea."
             ],
             "culturalNotes": [
-                "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "Juan Mayorga fue galardonado con el prestigioso Premio Princesa de Asturias de las Letras en 2022 en reconocimiento a su compromiso ético y lucidez teatral."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg)?",
+                    "prompt": "¿Qué concepto define la propuesta escénica radical de La Fura dels Baus nacida en los años 80?",
                     "options": [
-                        "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "El «lenguaje furero»: interacción física sin cuarta pared, uso de materiales industriales, música tecno-tribal y espacio abierto.",
+                        "El teatro de cámara dieciochesco con decorados de cartón piedra.",
+                        "La lectura estática de poemas épicos en atriles medievales.",
+                        "La pantomima muda en blanco y negro sin sonido ni escenografía."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga is the central subject."
+                    "explanation": "El 'lenguaje furero' sumerge al espectador en una experiencia sensorial total, física y participativa."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Dramaturgy & Stagecraft, what is the primary significance of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga?",
+                    "prompt": "¿Sobre qué acontecimiento histórico reflexiona la aclamada obra «Himmelweg (Camino del cielo)» de Juan Mayorga?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (160.4)"
+                        "La farsa teatral montada por los nazis en el campo de concentración de Theresienstadt para engañar a la Cruz Roja.",
+                        "La construcción del ferrocarril transiberiano en el siglo XIX.",
+                        "La llegada de Colón a la isla de Guanahani en 1492.",
+                        "El primer vuelo comercial transatlántico en dirigible."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "«Himmelweg» analiza cómo el teatro fue manipulado perversamente por la propaganda nazi para encubrir el exterminio."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga in the development of Theatre, Dramaturgy & Stagecraft:",
+                    "prompt": "¿Qué prestigioso dramaturgo, director del Teatro de La Abadía y académico de la RAE recibió el Premio Princesa de Asturias de las Letras en 2022?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga (Himmelweg)."
-                },
-                {
-                    "prompt": "What mastery level does completing Modern Avant-Garde Stagecraft: La Fura dels Baus & Juan Mayorga contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Juan Mayorga",
+                        "Antonio Gala",
+                        "Fernando Fernán Gómez",
+                        "Alfonso Sastre"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Juan Mayorga es reconocido internacionalmente como uno de los pensadores y dramaturgos esenciales de la lengua española."
+                },
+                {
+                    "prompt": "¿En qué magno evento internacional televisado deslumbró La Fura dels Baus al mundo con la creación de una gigantesca nave humana y mitológica?",
+                    "options": [
+                        "La ceremonia de apertura de los Juegos Olímpicos de Barcelona 1992 (Mediterráneo, Mar Olímpico).",
+                        "La Exposición Universal de Sevilla 1929.",
+                        "La coronación de Carlos III en Madrid.",
+                        "El Festival de la Canción de Eurovisión 1968."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El espectáculo 'Mediterrani, mar olímpic' en Barcelona 92 proyectó la estética de La Fura dels Baus a escala planetaria."
                 }
             ],
             "passThreshold": 0.8
@@ -18464,78 +18549,95 @@
     },
     "es-u33-l1": {
         "id": "es-u33-l1",
-        "unit": "es-u33",
+        "unit": 33,
+        "lessonNumber": 1,
         "level": "C1",
-        "objective": "Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Antoni Gaudí y el Modernismo Catalán: Sagrada Família, Arcos Catenarios y Trencadís",
+        "objective": "Analizar la genialidad arquitectónica de Antoni Gaudí y el Modernisme catalán, la observación estructural de las formas de la naturaleza, el uso del arco catenario y la técnica del mosaico trencadís.",
         "presentation": {
-            "explanation": "Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Antoni Gaudí i Cornet (1852–1926) encarna la cumbre del Modernismo catalán y una de las figuras más revolucionarias de la arquitectura de todos los tiempos. Rehusando la copia servil de los estilos históricos (neogótico o academicismo neoclásico), Gaudí concibió la arquitectura como una prolongación orgánica de las leyes de la naturaleza y de la creación divina. Mediante el estudio empírico de modelos polifuniculares con saquitos de perdigones suspendidos en cuerdas, calculó con exactitud matemática el uso de arcos catenarios, columnas helicoidales arborescentes que se ramifican como troncos de bosque y bóvedas hiperbólicas autoportantes. Su obra cumbre, la Basílica de la Sagrada Família en Barcelona, es una catedral vegetal en piedra y luz cuya fachada de la Natividad y torres biomórficas fusionan misticismo cristiano con geología natural. En obras civiles como el Park Güell, la Casa Batlló y la Casa Milà (La Pedrera), Gaudí universalizó el *trencadís*, técnica artesanal que recicla fragmentos irregulares de cerámica esmaltada y azulejos para vestir superficies onduladas con vibrantes composiciones policromadas.",
             "examples": [
                 {
-                    "target": "Mastery of Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís)...",
-                    "translation": "Mastery of Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "Las columnas arborescentes de la Sagrada Família se bifurcan en ramas para sostener el peso de las bóvedas hiperbólicas.",
+                    "reading": "Las columnas arborescentes de la Sagrada Família se bifurcan en ramas para sostener el peso de las bóvedas hiperbólicas.",
+                    "translation": "The tree-like columns of the Sagrada Família branch out into boughs to support the weight of the hyperbolic vaults."
+                },
+                {
+                    "target": "La técnica del trencadís recubre los bancos ondulados del Park Güell con un tapiz brillante de cerámica reciclada.",
+                    "reading": "La técnica del trencadís recubre los bancos ondulados del Park Güell con un tapiz brillante de cerámica reciclada.",
+                    "translation": "The trencadís technique coats the undulating benches of Park Güell with a brilliant tapestry of recycled ceramics."
+                },
+                {
+                    "target": "El arco catenario distribuye las cargas exclusivamente a compresión sin requerir pesados contrafuertes góticos.",
+                    "reading": "El arco catenario distribuye las cargas exclusivamente a compresión sin requerir pesados contrafuertes góticos.",
+                    "translation": "The catenary arch distributes loads purely in compression without requiring heavy gothic buttresses."
+                },
+                {
+                    "target": "La fachada de la Casa Batlló evoca la piel escamosa del dragón vencido por la lanza de San Jorge.",
+                    "reading": "La fachada de la Casa Batlló evoca la piel escamosa del dragón vencido por la lanza de San Jorge.",
+                    "translation": "The facade of Casa Batlló evokes the scaly skin of the dragon defeated by Saint George's spear."
                 }
             ],
             "mnemonics": [
-                "Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«La catenaria sostiene, el trencadís ilumina»: Gaudí aprendió la geometría sagrada en el gran libro abierto de la naturaleza."
             ],
             "culturalNotes": [
-                "Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "Siete obras de Antoni Gaudí en Barcelona y sus alrededores han sido declaradas Patrimonio de la Humanidad por la UNESCO bajo la denominación conjunta «Obras de Antoni Gaudí»."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís)?",
+                    "prompt": "¿Cómo se llama la emblemática técnica artesanal gaudiniana consistente en crear mosaicos con fragmentos rotos de azulejos y cerámica?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "Antoni Gaudí & Catalan Modernisme (161.4)"
+                        "Trencadís",
+                        "Grisalla",
+                        "Esgrafiado renacentista",
+                        "Taracea mudéjar"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Antoni Gaudí & Catalan Modernisme is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "El 'trencadís' catalán une pedazos partidos de cerámica para adaptarse a superficies curvas orgánicas."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Antoni Gaudí & Catalan Modernisme?",
+                    "prompt": "¿Qué figura geométrica natural calculada mediante cuerdas suspendidas utilizó Gaudí para eliminar la necesidad de arbotantes exteriores?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "El arco catenario (o parábola funicular)",
+                        "El dintel recto griego",
+                        "El arco de medio punto romano",
+                        "La cúpula geodésica de aluminio"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "explanation": "El arco catenario adopta la curva natural de una cadena colgante invertida, trabajando puramente a compresión."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Antoni Gaudí & Catalan Modernisme in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "¿Cuál es el templo monumental en Barcelona cuya construcción comenzó en 1882 y se convirtió en la obra cumbre de la vida de Antoni Gaudí?",
                     "options": [
-                        "Antoni Gaudí & Catalan Modernisme established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "Basílica de la Sagrada Família",
+                        "Catedral de Santa Eulalia",
+                        "Basílica de Santa María del Mar",
+                        "Monasterio de Pedralbes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Antoni Gaudí & Catalan Modernisme (Sagrada Família, Casa Batlló, Park Güell, trencadís)."
+                    "explanation": "La Sagrada Família es el símbolo imperecedero del genio místico y arquitectónico de Gaudí."
                 },
                 {
-                    "prompt": "What mastery level does completing Antoni Gaudí & Catalan Modernisme contribute to in the FEARN curriculum?",
+                    "prompt": "¿Quién fue el noble y mecenas barcelonés que financió los proyectos más emblemáticos de Gaudí, incluyendo la cripta de la Colonia y el famoso parque urbano?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Eusebi Güell",
+                        "Josep Batlló",
+                        "Pere Milà",
+                        "Lluís Domènech i Montaner"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "El conde Eusebi Güell fue el gran protector y mecenas que permitió la materialización de las visiones gaudinianas."
                 }
             ],
             "passThreshold": 0.8
@@ -18543,78 +18645,95 @@
     },
     "es-u33-l2": {
         "id": "es-u33-l2",
-        "unit": "es-u33",
+        "unit": 33,
+        "lessonNumber": 2,
         "level": "C1",
-        "objective": "The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "El Esplendor Andalusí: La Alhambra y el Generalife de Granada",
+        "objective": "Comprender la sofisticación arquitectónica, matemática y poética del arte nazarí en la Alhambra y el Generalife de Granada (Patio de los Leones, mocárabes, epigrafía cúfica y la ingeniería hidráulica de los palacios andalusíes).",
         "presentation": {
-            "explanation": "The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "La Alhambra de Granada ('al-Qal'a al-Hamra', la Fortaleza Roja), erigida por los sultanes de la dinastía Nazarí (siglos XIII–XV), constituye la cima insuperable de la arquitectura palatina hispanomusulmana y del refinamiento estético de al-Ándalus. Concebida como una ciudadela cortesana inexpugnable por fuera y un paraíso sensorial por dentro, la Alhambra materializa la cosmología coránica donde el agua viva es el eje vertebral del espacio. En el Palacio de los Leones (mandado construir por Muhammad V), una esbelta columnata de mármol de Macael enmarca la fuente central sostenida por doce leones esculpidos, distribuyendo el agua a través de cuatro canales cardinales. Las cúpulas de *mocárabes* (estalactitas prismáticas de yeso como la de la Sala de Dos Hermanas o de los Abencerrajes) descomponen la luz solar en millares de reflejos geométricos caleidoscópicos. En los muros, los alicatados de lacería matemática y los poemas epigráficos labrados en yesería por visires y poetas como Ibn Zamrak proclaman que 'no hay vencedor sino Dios' (*wa-la galiba illa Allah*).",
             "examples": [
                 {
-                    "target": "Mastery of The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry)...",
-                    "translation": "Mastery of The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "La cúpula de mocárabes de la Sala de Dos Hermanas simula una bóveda celeste de incontables constelaciones de yeso.",
+                    "reading": "La cúpula de mocárabes de la Sala de Dos Hermanas simula una bóveda celeste de incontables constelaciones de yeso.",
+                    "translation": "The muqarnas dome of the Hall of the Two Sisters simulates a celestial vault of countless plaster constellations."
+                },
+                {
+                    "target": "El agua del Generalife corre rumorosa por acequias y surtidores refrescando los vergeles y albercas palaciegas.",
+                    "reading": "El agua del Generalife corre rumorosa por acequias y surtidores refrescando los vergeles y albercas palaciegas.",
+                    "translation": "The water of the Generalife runs murmuring through irrigation channels and fountains, cooling the orchards and palace pools."
+                },
+                {
+                    "target": "Los poemas esculpidos en las yeserías dialogan con el visitante cantando la hermosura inmarcesible de las estancias.",
+                    "reading": "Los poemas esculpidos en las yeserías dialogan con el visitante cantando la hermosura inmarcesible de las estancias.",
+                    "translation": "The poems carved in the plasterwork dialogue with the visitor, singing the unfading beauty of the chambers."
+                },
+                {
+                    "target": "La alberca del Patio de los Arrayanes refleja simétricamente la imponente mole de la Torre de Comares.",
+                    "reading": "La alberca del Patio de los Arrayanes refleja simétricamente la imponente mole de la Torre de Comares.",
+                    "translation": "The pool of the Court of the Myrtles symmetrically reflects the imposing mass of the Comares Tower."
                 }
             ],
             "mnemonics": [
-                "The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Agua, mocárabe y caligrafía»: los tres secretos nazaríes que convirtieron la colina de la Sabika en un palacio celestial en la tierra."
             ],
             "culturalNotes": [
-                "The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "La Alhambra, el Generalife y el barrio histórico del Albaicín de Granada fueron declarados conjuntamente Patrimonio de la Humanidad por la UNESCO en 1984."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry)?",
+                    "prompt": "¿Qué elemento arquitectónico y decorativo característico del arte islámico consiste en prismas colgantes de yeso que semejan estalactitas celestes?",
                     "options": [
-                        "The Moorish Splendor: The Alhambra of Granada (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "Los mocárabes",
+                        "Los arbotantes",
+                        "Los atlantes barrocos",
+                        "Los contrafuertes dóricos"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Moorish Splendor: The Alhambra of Granada is the central subject."
+                    "explanation": "Los mocárabes (*muqarnas*) crean fascinantes geometrías tridimensionales que tamizan la luz en las cúpulas nazaríes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Moorish Splendor: The Alhambra of Granada?",
+                    "prompt": "¿Cuál es el lema dinástico nazarí que se repite cientos de veces grabado en la yesería y azulejos de la Alhambra?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "«Wa-la galiba illa Allah» (No hay vencedor sino Dios)",
+                        "«Plus Ultra» (Más allá)",
+                        "«In hoc signo vinces» (Con este signo vencerás)",
+                        "«Post tenebras lux» (Tras las tinieblas, la luz)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "explanation": "El lema 'No hay vencedor sino Dios' es la divisa oficial grabada en la epigrafía nazarí de todo el recinto palatino."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Moorish Splendor: The Alhambra of Granada in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "¿Qué palacio y jardín de recreo anexo a la Alhambra servía como finca de descanso y explotación agrícola para los sultanes granadinos?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Moorish Splendor: The Alhambra of Granada established enduring philosophical, technical, and expressive standards across the tradition."
+                        "El Generalife (Yannat al-Arif)",
+                        "El Escorial",
+                        "El Palacio de Aranjuez",
+                        "La Granja de San Ildefonso"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of The Moorish Splendor: The Alhambra of Granada (Patio de los Leones, muqarnas, water geometry)."
+                    "answerIndex": 0,
+                    "explanation": "El Generalife ('Huerto del Arquitecto') era la residencia de verano y jardín de reposo de los monarcas nazaríes."
                 },
                 {
-                    "prompt": "What mastery level does completing The Moorish Splendor: The Alhambra of Granada contribute to in the FEARN curriculum?",
+                    "prompt": "¿Cuántos leones de mármol sostienen la célebre taza de la fuente en el centro del palacio mandado erigir por Muhammad V en el siglo XIV?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Doce leones",
+                        "Cuatro leones",
+                        "Siete leones",
+                        "Veinticuatro leones"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Doce leones de mármol representan una alegoría cósmica y cronológica en el corazón del patio."
                 }
             ],
             "passThreshold": 0.8
@@ -18622,78 +18741,95 @@
     },
     "es-u33-l3": {
         "id": "es-u33-l3",
-        "unit": "es-u33",
-        "level": "C2",
-        "objective": "The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": 33,
+        "lessonNumber": 3,
+        "level": "C1",
+        "title": "La Mezquita-Catedral de Córdoba: El Bosque de Columnas y la Geometría Califal",
+        "objective": "Apreciar la trascendencia universal de la Mezquita de Córdoba (fundada por Abd al-Rahman I en 785 y ampliada hasta Almanzor): el bosque hipóstilo de columnas romanas y visigodas, los arcos bicolores de herradura superpuestos, el deslumbrante mihrab bizantino y la inserción de la catedral renacentista.",
         "presentation": {
-            "explanation": "The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "La Gran Mezquita de Córdoba, erigida sobre la basílica visigoda de San Vicente tras la llegada del emir omeya Abd al-Rahman I en 785 y sucesivamente ampliada por Abd al-Rahman II, al-Hakam II y Almanzor, es una de las obras cumbres del arte islámico y de la arquitectura universal. Su sala de oración (*haram*) despliega un asombroso bosque hipóstilo de más de 850 columnas de jaspe, ónice, mármol y granito reutilizadas de monumentos romanos y visigodos. Para ganar altura y luminosidad, los arquitectos califales idearon un revolucionario sistema de doble arquería superpuesta: arcos inferiores de herradura que actúan como tirantes y arcos superiores de medio punto que sustentan la techumbre, combinando dovelas alternas de ladrillo rojo y piedra caliza blanca. El *mihrab* de al-Hakam II (siglo X) deslumbra por su cúpula nervada sobre trompas y sus mosaicos de pasta vítrea dorada enviados por el emperador de Bizancio. En el siglo XVI, el cabildo eclesiástico erigió en su centro una suntuosa catedral plateresca y renacentista, originando un diálogo histórico y estilístico irrepetible.",
             "examples": [
                 {
-                    "target": "Mastery of The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches)...",
-                    "translation": "Mastery of The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "El bosque de columnas de la Mezquita crea una perspectiva visual infinita que invita al recogimiento espiritual.",
+                    "reading": "El bosque de columnas de la Mezquita crea una perspectiva visual infinita que invita al recogimiento espiritual.",
+                    "translation": "The forest of columns of the Mosque creates an infinite visual perspective inviting spiritual contemplation."
+                },
+                {
+                    "target": "Los arcos de herradura bicolores en rojo y blanco se inspiraron en la técnica constructiva del acueducto romano de Los Milagros.",
+                    "reading": "Los arcos de herradura bicolores en rojo y blanco se inspiraron en la técnica constructiva del acueducto romano de Los Milagros.",
+                    "translation": "The two-toned red and white horseshoe arches were inspired by the constructive technique of the Roman aqueduct of Los Milagros."
+                },
+                {
+                    "target": "El emperador bizantino envió a Córdoba maestros musivarios y teselas de oro para ornamentar el sagrado mihrab califal.",
+                    "reading": "El emperador bizantino envió a Córdoba maestros musivarios y teselas de oro para ornamentar el sagrado mihrab califal.",
+                    "translation": "The Byzantine emperor sent mosaic masters and gold tesserae to Córdoba to ornament the sacred caliphal mihrab."
+                },
+                {
+                    "target": "El Patio de los Naranjos conserva el alminar omeya envuelto en la torre campanario barroca de la catedral.",
+                    "reading": "El Patio de los Naranjos conserva el alminar omeya envuelto en la torre campanario barroca de la catedral.",
+                    "translation": "The Court of the Orange Trees preserves the Umayyad minaret enclosed within the baroque bell tower of the cathedral."
                 }
             ],
             "mnemonics": [
-                "The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Doble arco bicolor y bosque de jaspe»: la ingeniería califal que elevó la Mezquita de Córdoba a las alturas sagradas."
             ],
             "culturalNotes": [
-                "The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "El centro histórico de Córdoba, presidido por la Mezquita-Catedral y su puente romano sobre el Guadalquivir, es Patrimonio de la Humanidad por la UNESCO desde 1984."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches)?",
+                    "prompt": "¿Qué solución arquitectónica ingeniosa permitió a los constructores omeyas elevar la techumbre de la Mezquita de Córdoba?",
                     "options": [
-                        "The Great Mosque-Cathedral of Córdoba (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "Un sistema de arquerías dobles superpuestas con arcos de herradura abajo y arcos de medio punto arriba.",
+                        "Enormes pilares macizos de hormigón armado.",
+                        "Vigas de acero suspendidas con cables tensores.",
+                        "Muros ciegos sin columnas ni vanos de luz."
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Great Mosque-Cathedral of Córdoba is the central subject."
+                    "explanation": "La doble arquería superpuesta aportó esbeltez, estabilidad y ligereza al inmenso espacio hipóstilo."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Great Mosque-Cathedral of Córdoba?",
+                    "prompt": "¿Qué emir omeya superviviente de la matanza de Damasco fundó el Emirato independiente de Córdoba y comenzó la construcción de la mezquita en 785?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Abd al-Rahman I (el Inmigrado)",
+                        "Al-Hakam II",
+                        "Almanzor (al-Mansur)",
+                        "Boabdil de Granada"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "explanation": "Abd al-Rahman I consagró la mezquita aljamal tras consolidar el poder omeya en la península ibérica."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Great Mosque-Cathedral of Córdoba in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "¿Qué joya ornamental del siglo X destaca por sus mosaicos de vidrio bizantino y su cúpula de arcos cruzados que no se tocan en el centro?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "The Great Mosque-Cathedral of Córdoba established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "El Mihrab y la Maqsura de al-Hakam II",
+                        "La Capilla Real de los Reyes Católicos",
+                        "El crucero renacentista de Hernán Ruiz",
+                        "La torre del Alminar de Hisham I"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of The Great Mosque-Cathedral of Córdoba (La Mezquita: two-tiered red and white horseshoe arches)."
+                    "answerIndex": 0,
+                    "explanation": "El Mihrab de al-Hakam II representa la cúspide del arte suntuario y califal cordobés."
                 },
                 {
-                    "prompt": "What mastery level does completing The Great Mosque-Cathedral of Córdoba contribute to in the FEARN curriculum?",
+                    "prompt": "¿Qué frase atribuida a Carlos I de España resume su reacción al ver la catedral renacentista construida dentro de la mezquita?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "«Habéis construido lo que vosotros u otros podían hacer en cualquier parte; y habéis destruido lo que era único en el mundo.»",
+                        "«Esta es la obra más gloriosa de todos mis reinos hispánicos.»",
+                        "«Ordeno derribar inmediatamente todo el bosque de columnas moriscas.»",
+                        "«Que se pinten todos los arcos bicolores de un solo tono blanco.»"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "El emperador lamentó el impacto que la nave catedralicia causó sobre la singularidad del monumento omeya."
                 }
             ],
             "passThreshold": 0.8
@@ -18701,78 +18837,95 @@
     },
     "es-u33-l4": {
         "id": "es-u33-l4",
-        "unit": "es-u33",
-        "level": "C2",
-        "objective": "The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": 33,
+        "lessonNumber": 4,
+        "level": "C1",
+        "title": "El Real Monasterio de San Lorenzo de El Escorial: Juan de Herrera y la Geometría Filipina",
+        "objective": "Analizar la arquitectura monumental de El Escorial (1563–1584), el estilo herreriano, la austeridad contrarreformista de Felipe II y la integración simétrica de monasterio, palacio, basílica, panteón real y biblioteca.",
         "presentation": {
-            "explanation": "The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "El Real Monasterio de San Lorenzo de El Escorial, concebido por el rey Felipe II y levantado en la sierra de Guadarrama entre 1563 y 1584 por los arquitectos Juan Bautista de Toledo y, fundamentalmente, Juan de Herrera (1530–1597), es el monumento cumbre del Renacimiento español y la manifestación pétrea de la Monarquía Hispánica en el cenit de su poder imperial. Construido en granito gris con planta ortogonal en forma de parrilla en honor al martirio de San Lorenzo, El Escorial materializa los ideales de orden, simetría y severidad ascética de la Contrarreforma católica emanada del Concilio de Trento. Juan de Herrera depuró la ornamentación plateresca para alumbrar el 'estilo herreriano' o desornamentado, caracterizado por la pureza de líneas geométricas, pirámides y bolas de granito en los remates y tejados de pizarra inclinados de influencia flamenca. El complejo integra armónicamente la Basílica de cúpula monumental, el Panteón de Reyes, las celdas del monasterio jerónimo, el Palacio Real y una suntuosa Biblioteca humanista con frescos alegóricos de Pellegrino Tibaldi.",
             "examples": [
                 {
-                    "target": "Mastery of The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity)...",
-                    "translation": "Mastery of The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "La imponente fachada de granito de El Escorial refleja el rigor matemático y la austeridad de Juan de Herrera.",
+                    "reading": "La imponente fachada de granito de El Escorial refleja el rigor matemático y la austeridad de Juan de Herrera.",
+                    "translation": "The imposing granite facade of El Escorial reflects the mathematical rigor and austerity of Juan de Herrera."
+                },
+                {
+                    "target": "Felipe II dirigía los asuntos de su imperio global desde una austera celda con vista directa al altar mayor de la basílica.",
+                    "reading": "Felipe II dirigía los asuntos de su imperio global desde una austera celda con vista directa al altar mayor de la basílica.",
+                    "translation": "Philip II directed the affairs of his global empire from an austere cell with a direct view of the high altar of the basilica."
+                },
+                {
+                    "target": "La Real Biblioteca de El Escorial conserva códices manuscritos de incalculable valor en árabe, griego, latín y hebreo.",
+                    "reading": "La Real Biblioteca de El Escorial conserva códices manuscritos de incalculable valor en árabe, griego, latín y hebreo.",
+                    "translation": "The Royal Library of El Escorial preserves invaluable manuscript codices in Arabic, Greek, Latin and Hebrew."
+                },
+                {
+                    "target": "Las cubiertas de pizarra con chapiteles y veletas introdujeron la tradición constructiva flamenca en la meseta castellana.",
+                    "reading": "Las cubiertas de pizarra con chapiteles y veletas introdujeron la tradición constructiva flamenca en la meseta castellana.",
+                    "translation": "The slate roofs with spires and weather vanes introduced the Flemish building tradition to the Castilian plateau."
                 }
             ],
             "mnemonics": [
-                "The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Granito, parrilla y pizarra herreriana»: El Escorial de Felipe II condensó el imperio y la fe en un monasterio eterno."
             ],
             "culturalNotes": [
-                "The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "El Monasterio y Real Sitio de San Lorenzo de El Escorial fue incluido en la lista del Patrimonio Mundial de la UNESCO en 1984."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity)?",
+                    "prompt": "¿Qué arquitecto español completó y consagró el estilo clasicista y desornamentado en El Escorial?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "The Monastery of San Lorenzo de El Escorial (164.4)"
+                        "Juan de Herrera",
+                        "Antoni Gaudí",
+                        "Pedro de Ribera",
+                        "Alonso Berruguete"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "The Monastery of San Lorenzo de El Escorial is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Juan de Herrera imprimió el sello definitivo de severidad geométrica que dio nombre al estilo herreriano."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of The Monastery of San Lorenzo de El Escorial?",
+                    "prompt": "¿En conmemoración de qué batalla militar y en honor a qué santo mandó erigir Felipe II el monasterio de El Escorial?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (164.4)"
+                        "La batalla de San Quintín (1557) en honor a San Lorenzo mártir.",
+                        "La batalla de Lepanto en honor a la Virgen del Rosario.",
+                        "La batalla de las Navas de Tolosa en honor a Santiago Apóstol.",
+                        "La batalla de Bailén en honor a San Fernando rey."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "La victoria española en San Quintín el 10 de agosto de 1557 motivó el voto real de construir el santuario a San Lorenzo."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Monastery of San Lorenzo de El Escorial in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "¿Qué elemento ornamental característico remata las esquinas, torres y cornisas de la arquitectura herreriana?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "The Monastery of San Lorenzo de El Escorial established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Monastery of San Lorenzo de El Escorial (Juan de Herrera, Herrerian Renaissance austerity)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Monastery of San Lorenzo de El Escorial contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Bolas y pirámides de granito",
+                        "Gárgolas antropomorfas policromadas",
+                        "Cariátides de mármol de Carrara",
+                        "Azulejos de cerámica dorada sevillana"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Las bolas y pirámides sobre plintos de granito son el emblema geométrico indiscutible del estilo herreriano."
+                },
+                {
+                    "prompt": "¿En qué estancia sepulcral subterránea de El Escorial descansan los restos de los monarcas españoles desde Carlos I?",
+                    "options": [
+                        "El Panteón de Reyes (Cripta Real)",
+                        "La Cripta de los Infantes",
+                        "La Sala de Batallas",
+                        "El Patio de los Evangelistas"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "El Panteón de Reyes de planta circular en mármol y bronce alberga los sepulcros dinásticos de los reyes y reinas madres."
                 }
             ],
             "passThreshold": 0.8
@@ -18780,78 +18933,95 @@
     },
     "es-u33-l5": {
         "id": "es-u33-l5",
-        "unit": "es-u33",
-        "level": "C2",
-        "objective": "Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "unit": 33,
+        "lessonNumber": 5,
+        "level": "C1",
+        "title": "Maestros Contemporáneos: Santiago Calatrava, Rafael Moneo y la Vanguardia Arquitectónica",
+        "objective": "Examinar el impacto global de la arquitectura española contemporánea a través de las obras maestras de Rafael Moneo (Prêmio Pritzker 1996, Ampliación del Museo del Prado, Kursaal) y Santiago Calatrava (Ciudad de las Artes y las Ciencias, ingeniería escultórica y estructuras zoomórficas cinéticas).",
         "presentation": {
-            "explanation": "Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "La arquitectura española de finales del siglo XX y principios del XXI ha conquistado un protagonismo de primer orden en el panorama internacional, simbolizado en dos figuras universales de enfoques complementarios: Rafael Moneo y Santiago Calatrava. Rafael Moneo (1937, primer arquitecto español galardonado con el Premio Pritzker en 1996) encarna la sobriedad conceptual, la sabiduría tectónica y el respeto dialéctico por el contexto urbano e histórico. Obras como el Palacio de Congresos Kursaal en San Sebastián ('dos rocas varadas' de vidrio translúcido frente al mar Cantábrico), el Museo Nacional de Arte Romano de Mérida con sus naves de ladrillo romano y el Claustro de los Jerónimos en la ampliación del Museo del Prado en Madrid demuestran cómo la modernidad puede dialogar con la memoria sin estridencias. En el polo de la ingeniería plástica monumental, Santiago Calatrava (1951, arquitecto, ingeniero de caminos y escultor) ha asombrado al mundo con sus complejas estructuras zoomórficas y cinéticas en hormigón blanco y acero, destacando el complejo futurista de la Ciudad de las Artes y las Ciencias en Valencia y puentes de arpa atirantados que desafían la gravedad en todo el planeta.",
             "examples": [
                 {
-                    "target": "Mastery of Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension) exemplifies the cultural and expressive pinnacle of Spanish.",
-                    "reading": "Target analysis of Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension)...",
-                    "translation": "Mastery of Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension) exemplifies the cultural and expressive pinnacle of Spanish."
+                    "target": "Los cubos de vidrio traslúcido del Kursaal de Rafael Moneo resplandecen como faros de luz nocturna frente al mar Cantábrico.",
+                    "reading": "Los cubos de vidrio traslúcido del Kursaal de Rafael Moneo resplandecen como faros de luz nocturna frente al mar Cantábrico.",
+                    "translation": "The translucent glass cubes of Rafael Moneo's Kursaal glow like night lighthouses facing the Cantabrian Sea."
+                },
+                {
+                    "target": "El Museo Nacional de Arte Romano de Mérida recrea la grandeza de la ingeniería romana mediante arcos diafragma de ladrillo visto.",
+                    "reading": "El Museo Nacional de Arte Romano de Mérida recrea la grandeza de la ingeniería romana mediante arcos diafragma de ladrillo visto.",
+                    "translation": "The National Museum of Roman Art in Mérida recreates the grandeur of Roman engineering through exposed brick diaphragm arches."
+                },
+                {
+                    "target": "Las estructuras blancas y curvas de Santiago Calatrava en la Ciudad de las Artes y las Ciencias evocan esqueletos de cetáceos marinos.",
+                    "reading": "Las estructuras blancas y curvas de Santiago Calatrava en la Ciudad de las Artes y las Ciencias evocan esqueletos de cetáceos marinos.",
+                    "translation": "The white curved structures of Santiago Calatrava in the City of Arts and Sciences evoke marine cetacean skeletons."
+                },
+                {
+                    "target": "La ampliación del Museo del Prado integró el claustro restaurado de los Jerónimos en un conjunto subterráneo de granito y ladrillo.",
+                    "reading": "La ampliación del Museo del Prado integró el claustro restaurado de los Jerónimos en un conjunto subterráneo de granito y ladrillo.",
+                    "translation": "The expansion of the Prado Museum integrated the restored Jerónimos cloister into an underground ensemble of granite and brick."
                 }
             ],
             "mnemonics": [
-                "Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Moneo respeta la historia, Calatrava esculpe el movimiento»: dos cumbres maestras de la arquitectura española contemporánea."
             ],
             "culturalNotes": [
-                "Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension) is celebrated worldwide as a defining achievement of Spanish heritage."
+                "Rafael Moneo fue galardonado con el Premio Pritzker en 1996 y con el Premio Príncipe de Asturias de las Artes en 2012 por su magisterio e integridad arquitectónica."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension)?",
+                    "prompt": "¿Qué arquitecto navarro fue el primer español en recibir el prestigioso Premio Pritzker de Arquitectura en 1996?",
                     "options": [
-                        "Contemporary Spanish Starchitects: Santiago Calatrava (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "Rafael Moneo",
+                        "Santiago Calatrava",
+                        "Ricardo Bofill",
+                        "Alberto Campo Baeza"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Contemporary Spanish Starchitects: Santiago Calatrava is the central subject."
+                    "explanation": "Rafael Moneo obtuvo el Pritzker en 1996 en reconocimiento a su maestría contextual y solidez constructiva."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Contemporary Spanish Starchitects: Santiago Calatrava?",
+                    "prompt": "¿Qué monumental complejo cultural y científico de formas futuristas diseñó Santiago Calatrava en el antiguo cauce del río Turia en Valencia?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Spanish civilization. (165.4)"
+                        "La Ciudad de las Artes y las Ciencias",
+                        "El Centro Niemeyer de Avilés",
+                        "El Museo Guggenheim Bilbao",
+                        "La Torre Agbar de Barcelona"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Spanish civilization."
+                    "answerIndex": 0,
+                    "explanation": "La Ciudad de las Artes y las Ciencias (Hemisfèric, Museu de les Ciències, Palau de les Arts) es la obra más colosal de Calatrava en España."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Contemporary Spanish Starchitects: Santiago Calatrava in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "¿Qué edificio emblemático de San Sebastián diseñado por Rafael Moneo evoca dos enormes rocas varadas de vidrio frente a la playa de Zurriola?",
                     "options": [
-                        "Contemporary Spanish Starchitects: Santiago Calatrava established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "Palacio de Congresos y Auditorio Kursaal",
+                        "Estación de Atocha",
+                        "Museo de Arte Romano de Mérida",
+                        "Fundación Pilar y Joan Miró"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Contemporary Spanish Starchitects: Santiago Calatrava (Ciutat de les Arts) & Rafael Moneo (Prado extension)."
+                    "explanation": "El Kursaal de San Sebastián es célebre por sus dos prismas inclinados de doble piel de vidrio traslúcido."
                 },
                 {
-                    "prompt": "What mastery level does completing Contemporary Spanish Starchitects: Santiago Calatrava contribute to in the FEARN curriculum?",
+                    "prompt": "¿Qué característica formal y estructural define predominantemente los puentes y edificios diseñados por Santiago Calatrava en todo el mundo?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Estructuras escultóricas de hormigón blanco y acero inspiradas en la anatomía ósea humana y animal con cables en arpa.",
+                        "Construcciones rústicas de adobe y paja sin cálculo de resistencia de materiales.",
+                        "Bloques herméticos de ladrillo negro sin aberturas de luz natural.",
+                        "Réplicas exactas de templos grecorromanos con columnas corintias de yeso."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "La fusión de ingeniería estructural audaz y escultura biomórfica blanca es la seña de identidad del arquitecto valenciano."
                 }
             ],
             "passThreshold": 0.8
