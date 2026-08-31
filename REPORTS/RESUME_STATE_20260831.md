@@ -3,7 +3,7 @@
 **Execution Context**: Fearn Unattended Run v2 (`FEARN_NEXT_RUN_20260831_v2.md`)  
 **Repository Branch**: `main`  
 **Starting HEAD Hash**: `3ed7d97a018d140b6d47749fcdee55fa97f2f080`  
-**Current HEAD Hash**: `73bed43` (prior to resume state report commit)  
+**Current HEAD Hash**: `e251ba5` (prior to this documentation sync commit)  
 **Verification Status**: **100% HARD AUDIT PASSED [✓] across all 30 subjects**
 
 ---
@@ -56,27 +56,45 @@ All 29 previously cloned units (Units 6 through 34 = 145 lessons) were completel
 ### 2.1 Rich Dictionary Schema Extension
 The dictionary schema in `data/omni_dictionary.js` was enriched beyond flat definitions to support dictionary/thesaurus-grade fields:
 - `term`: Headword with native script and romanization
-- `pronunciation`: IPA phonetic transcription / Furigana / Pinyin
+- `pronunciation`: IPA phonetic transcription / Furigana / Pinyin / Jyutping
 - `partOfSpeech`: Grammatical category (Noun, Godan Verb, Ichidan Verb, I-Adjective, Interjection, Idiom, etc.)
 - `definition`: Precise, polysemous definitions
 - `category`: Domain tag
-- `level`: CEFR / JLPT / HSK difficulty level
+- `level`: CEFR / JLPT / HSK / TOPIK difficulty level
 - `examples`: Contextual bilingual sentences (`target` + `translation`)
 - `synonyms` / `antonyms`: Semantic network relations
 - `register`: Formal, Literary, Colloquial, Business Keigo, etc.
 - `notes`: Cultural, historical, or etymological context
 
-### 2.2 Entry Count Breakdown
-- **Baseline Count**: 1,155 entries across 30 subjects
-- **Current Count**: **1,205 entries** (+50 authentic, high-depth entries)
-  - Japanese: 50 → 65 entries (+15 rich entries)
-  - English: 45 → 55 entries (+10 rich entries)
-  - Spanish: 45 → 54 entries (+9 rich entries)
-  - Mandarin: 45 → 53 entries (+8 rich entries)
-  - French: 45 → 53 entries (+8 rich entries)
-  - Remaining 25 subjects: 25–45 entries each (clean baseline preserved)
+### 2.2 In-App UI Integration
+Both `index.html` and `app.html` were enhanced (`9364ea3`) so that the in-app library indexer and modal spotlight viewer seamlessly display all rich schema properties (`pronunciation`, `partOfSpeech`, `examples`, `synonyms`, `antonyms`, `register`, `notes`).
 
-### 2.3 Honest Statement on the 1,000,000 Target
+### 2.3 Verified Entry Count Breakdown Across All 30 Subjects
+- **Baseline Count**: 1,155 entries
+- **Current Count**: **1,246 entries** (+91 authentic, high-depth entries across 15 major languages)
+  - **Japanese**: 50 → 65 entries (+15 rich entries)
+  - **English**: 45 → 55 entries (+10 rich entries)
+  - **Spanish**: 45 → 54 entries (+9 rich entries)
+  - **French**: 45 → 53 entries (+8 rich entries)
+  - **Mandarin**: 45 → 53 entries (+8 rich entries)
+  - **German**: 45 → 49 entries (+4 rich entries)
+  - **Russian**: 45 → 49 entries (+4 rich entries)
+  - **Turkish**: 45 → 49 entries (+4 rich entries)
+  - **Vietnamese**: 45 → 49 entries (+4 rich entries)
+  - **Arabic**: 45 → 48 entries (+3 rich entries)
+  - **Cantonese**: 45 → 48 entries (+3 rich entries)
+  - **Urdu**: 45 → 48 entries (+3 rich entries)
+  - **Amharic**: 45 → 48 entries (+3 rich entries)
+  - **Argentine Spanish**: 45 → 48 entries (+3 rich entries)
+  - **Brazilian Portuguese**: 45 → 48 entries (+3 rich entries)
+  - **Hindi**: 45 → 47 entries (+2 rich entries)
+  - **Romanian**: 45 → 47 entries (+2 rich entries)
+  - **Korean**: 45 → 46 entries (+1 rich entry)
+  - **Swahili**: 45 → 46 entries (+1 rich entry)
+  - **Ukrainian**: 45 → 46 entries (+1 rich entry)
+  - **Academic / Skill Fronds (10 subjects)**: 25 entries each (CS110, B110, B111, Chess, Morse, Typing, Scrabble, Songwriting, Mental Math, Fitness)
+
+### 2.4 Honest Statement on the 1,000,000 Target
 Expanding from 1,155 to 1,000,000 entries represents an ~866x increase. Generating authentic, non-templated, dictionary-grade entries with verified phonetics, parts of speech, and contextual example sentences cannot be fabricated in a single unattended run. Per Rule Zero-B against dictionary gaming, fake programmatic permutations and machine-scraped noise were avoided. This dictionary expansion is established as a standing, cumulative, multi-session pipeline.
 
 ---
@@ -103,35 +121,35 @@ Expanding from 1,155 to 1,000,000 entries represents an ~866x increase. Generati
 ================================================================================================================================
 Subject                 | Total | Density | Expl Uniq | Exs Uniq | GP Dist | IP Dist #1 | IP Dist #2 |    MC Q   | Typed | Status
 --------------------------------------------------------------------------------------------------------------------------------
-amharic                 |      170 |   55% Nat |         170/170 |      509 | 473/170 |    169/170 |    170/170 |   170/170 | 166/170 | PASSED [✓]
-arabic                  |      170 |   66% Nat |         170/170 |      678 | 489/170 |    170/170 |    169/170 |   170/170 | 170/170 | PASSED [✓]
-argentine-spanish       |      170 |   91% Tgt |         170/170 |      265 | 510/170 |    170/170 |    170/170 |   465/465 |   1/1 | PASSED [✓]
-b110                    |       26 |   90% Tgt |           26/26 |       27 |   78/26 |      26/26 |      26/26 |     51/51 |     - | PASSED [✓]
-b111                    |       26 |   91% Tgt |           26/26 |       27 |   76/26 |      26/26 |      26/26 |     52/52 |     - | PASSED [✓]
-brazilian-portuguese    |      170 |   90% Tgt |         170/170 |      261 | 495/170 |    165/170 |    165/170 |   459/460 |     - | PASSED [✓]
-cantonese               |      170 |   55% Nat |         170/170 |      509 | 510/170 |    170/170 |    170/170 |   170/170 |     - | PASSED [✓]
-chess                   |       50 |   84% Tgt |           50/50 |       50 |   60/20 |      20/20 |      20/20 |   102/102 |     - | PASSED [✓]
-cs110                   |       26 |   91% Tgt |           26/26 |       27 |   75/26 |      26/26 |      26/26 |     51/51 |     - | PASSED [✓]
-english                 |      170 |   85% Tgt |         170/170 |      257 | 495/170 |    165/170 |    165/170 |   460/461 |     - | PASSED [✓]
-french                  |      170 |   92% Tgt |         170/170 |      857 | 499/170 |    169/170 |    170/170 |   170/170 | 170/170 | PASSED [✓]
-german                  |      170 |   89% Tgt |         170/170 |      255 | 495/170 |    165/170 |    165/170 |   458/459 |   1/1 | PASSED [✓]
-hindi                   |      170 |   57% Nat |         170/170 |      509 | 503/170 |    169/170 |    165/170 |   170/170 |     - | PASSED [✓]
-japanese                |      170 |   73% Nat |         170/170 |      678 | 508/170 |    170/170 |    170/170 |   170/170 | 170/170 | PASSED [✓]
-korean                  |      170 |   47% Nat |         170/170 |      677 | 337/170 |    169/170 |    169/170 |   170/170 | 170/170 | PASSED [✓]
-mandarin                |      170 |   65% Nat |         170/170 |      678 | 501/170 |    170/170 |    170/170 |   170/170 | 170/170 | PASSED [✓]
-mentalmath              |       40 |   84% Tgt |           40/40 |       51 |   75/25 |      25/25 |      25/25 |   116/117 |     - | PASSED [✓]
-morse                   |       50 |   87% Tgt |           50/50 |       60 |   75/25 |      25/25 |      25/25 |   106/106 |     - | PASSED [✓]
-romanian                |      170 |   91% Tgt |         170/170 |      252 | 494/170 |    165/170 |    165/170 |   458/458 |   1/1 | PASSED [✓]
-russian                 |      170 |   72% Nat |         170/170 |      678 | 337/170 |    169/170 |    170/170 |   170/170 | 170/170 | PASSED [✓]
-scrabble                |       40 |   89% Tgt |           40/40 |       50 |   90/30 |      30/30 |      30/30 |   150/150 |     - | PASSED [✓]
-songwriting             |       40 |   85% Tgt |           40/40 |       50 |   90/30 |      30/30 |      30/30 |   151/151 |     - | PASSED [✓]
-spanish                 |      170 |   89% Tgt |         170/170 |      368 | 495/170 |    165/170 |    165/170 |   503/506 |     - | PASSED [✓]
-swahili                 |      170 |   98% Tgt |         170/170 |      509 | 490/170 |    170/170 |    169/170 |   170/170 |     - | PASSED [✓]
-turkish                 |      170 |   90% Tgt |         170/170 |      271 | 495/170 |    165/170 |    165/170 |   455/455 |     - | PASSED [✓]
-typing                  |       45 |   86% Tgt |           45/45 |       60 |   90/30 |      30/30 |      30/30 |   153/154 |     - | PASSED [✓]
-ukrainian               |      170 |   71% Nat |         170/170 |      509 | 499/170 |    169/170 |    170/170 |   170/170 |     - | PASSED [✓]
-urdu                    |      170 |   55% Nat |         170/170 |      509 | 381/170 |    169/170 |    170/170 |   170/170 |     - | PASSED [✓]
-vietnamese              |      170 |   93% Tgt |         170/170 |      275 | 494/170 |    165/170 |    165/170 |   453/453 |   1/1 | PASSED [✓]
+amharic                 |   170 | 55% Nat |   170/170 |      509 | 473/170 |    169/170 |    170/170 |   170/170 | 166/170| PASSED [✓]
+arabic                  |   170 | 66% Nat |   170/170 |      678 | 489/170 |    170/170 |    169/170 |   170/170 | 170/170| PASSED [✓]
+argentine-spanish       |   170 | 91% Tgt |   170/170 |      265 | 510/170 |    170/170 |    170/170 |   465/465 |   1/1  | PASSED [✓]
+b110                    |    26 | 90% Tgt |     26/26 |       27 |   78/26 |      26/26 |      26/26 |     51/51 |     -  | PASSED [✓]
+b111                    |    26 | 91% Tgt |     26/26 |       27 |   76/26 |      26/26 |      26/26 |     52/52 |     -  | PASSED [✓]
+brazilian-portuguese    |   170 | 90% Tgt |   170/170 |      261 | 495/170 |    165/170 |    165/170 |   459/460 |     -  | PASSED [✓]
+cantonese               |   170 | 55% Nat |   170/170 |      509 | 510/170 |    170/170 |    170/170 |   170/170 |     -  | PASSED [✓]
+chess                   |    50 | 84% Tgt |     50/50 |       50 |   60/20 |      20/20 |      20/20 |   102/102 |     -  | PASSED [✓]
+cs110                   |    26 | 91% Tgt |     26/26 |       27 |   75/26 |      26/26 |      26/26 |     51/51 |     -  | PASSED [✓]
+english                 |   170 | 85% Tgt |   170/170 |      257 | 495/170 |    165/170 |    165/170 |   460/461 |     -  | PASSED [✓]
+french                  |   170 | 92% Tgt |   170/170 |      857 | 499/170 |    169/170 |    170/170 |   170/170 | 170/170| PASSED [✓]
+german                  |   170 | 89% Tgt |   170/170 |      255 | 495/170 |    165/170 |    165/170 |   458/459 |   1/1  | PASSED [✓]
+hindi                   |   170 | 57% Nat |   170/170 |      509 | 503/170 |    169/170 |    165/170 |   170/170 |     -  | PASSED [✓]
+japanese                |   170 | 73% Nat |   170/170 |      678 | 508/170 |    170/170 |    170/170 |   170/170 | 170/170| PASSED [✓]
+korean                  |   170 | 47% Nat |   170/170 |      677 | 337/170 |    169/170 |    169/170 |   170/170 | 170/170| PASSED [✓]
+mandarin                |   170 | 65% Nat |   170/170 |      678 | 501/170 |    170/170 |    170/170 |   170/170 | 170/170| PASSED [✓]
+mentalmath              |    40 | 84% Tgt |     40/40 |       51 |   75/25 |      25/25 |      25/25 |   116/117 |     -  | PASSED [✓]
+morse                   |    50 | 87% Tgt |     50/50 |       60 |   75/25 |      25/25 |      25/25 |   106/106 |     -  | PASSED [✓]
+romanian                |   170 | 91% Tgt |   170/170 |      252 | 494/170 |    165/170 |    165/170 |   458/458 |   1/1  | PASSED [✓]
+russian                 |   170 | 72% Nat |   170/170 |      678 | 337/170 |    169/170 |    170/170 |   170/170 | 170/170| PASSED [✓]
+scrabble                |    40 | 89% Tgt |     40/40 |       50 |   90/30 |      30/30 |      30/30 |   150/150 |     -  | PASSED [✓]
+songwriting             |    40 | 85% Tgt |     40/40 |       50 |   90/30 |      30/30 |      30/30 |   151/151 |     -  | PASSED [✓]
+spanish                 |   170 | 89% Tgt |   170/170 |      368 | 495/170 |    165/170 |    165/170 |   503/506 |     -  | PASSED [✓]
+swahili                 |   170 | 98% Tgt |   170/170 |      509 | 490/170 |    170/170 |    169/170 |   170/170 |     -  | PASSED [✓]
+turkish                 |   170 | 90% Tgt |   170/170 |      271 | 495/170 |    165/170 |    165/170 |   455/455 |     -  | PASSED [✓]
+typing                  |    45 | 86% Tgt |     45/45 |       60 |   90/30 |      30/30 |      30/30 |   153/154 |     -  | PASSED [✓]
+ukrainian               |   170 | 71% Nat |   170/170 |      509 | 499/170 |    169/170 |    170/170 |   170/170 |     -  | PASSED [✓]
+urdu                    |   170 | 55% Nat |   170/170 |      509 | 381/170 |    169/170 |    170/170 |   170/170 |     -  | PASSED [✓]
+vietnamese              |   170 | 93% Tgt |   170/170 |      275 | 494/170 |    165/170 |    165/170 |   453/453 |   1/1  | PASSED [✓]
 ================================================================================================================================
 GRAND TOTAL LESSONS VERIFIED: 3743 / 3740
 ================================================================================================================================
