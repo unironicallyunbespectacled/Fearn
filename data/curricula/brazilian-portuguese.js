@@ -16188,76 +16188,81 @@
         "id": "pt-br-u32-l1",
         "unit": "pt-br-u32",
         "level": "C1",
-        "objective": "Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Augusto Boal e o Teatro do Oprimido: o conceito de espect-ator, Teatro-Fórum e o Teatro de Arena.",
         "presentation": {
-            "explanation": "Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Augusto Boal (1931–2009) revolucionou a teoria e a prática teatral contemporânea ao fundar o Teatro do Oprimido, uma das metodologias cênicas e pedagógicas brasileiras mais influentes no mundo. Formado no mítico Teatro de Arena de São Paulo nas décadas de 1950 e 1960 ao lado de Gianfrancesco Guarnieri (com montagens históricas como «Eles Não Usam Black-tie» e a criação do Sistema Coringa), Boal desenvolveu no exílio o conceito central do «espect-ator». Rompendo com a passividade da plateia do teatro aristotélico tradicional, o Teatro-Fórum convida o público a interromper a encenação no momento de opressão, subir ao palco e atuar diretamente na busca de alternativas e soluções práticas para conflitos reais da comunidade. Essa práxis libertadora, sistematizada em livros como «Teatro do Oprimido e Outras Poéticas Políticas» (1974), transformou o teatro em um ensaio geral para a emancipação social e a cidadania ativa.",
             "examples": [
                 {
-                    "target": "Mastery of Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena)...",
-                    "translation": "Mastery of Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "No Teatro-Fórum, o espectador assume o papel de protagonista e experimenta ações concretas para transformar a realidade encenada.",
+                    "reading": "No Teatro-Fórum, o espectador assume o papel de protagonista e experimenta ações concretas para transformar a realidade encenada.",
+                    "translation": "In Forum Theatre, the spectator assumes the role of protagonist and tests concrete actions to transform the staged reality."
+                },
+                {
+                    "target": "O Sistema Coringa permitia que os atores do Teatro de Arena se revezassem em múltiplos papéis com distanciamento crítico.",
+                    "reading": "O Sistema Coringa permitia que os atores do Teatro de Arena se revezassem em múltiplos papéis com distanciamento crítico.",
+                    "translation": "The Joker System allowed the Arena Theatre actors to rotate through multiple roles with critical detachment."
                 }
             ],
             "mnemonics": [
-                "Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Espect-ator»: neologismo de Boal que une espectador e ator, abolindo a barreira entre quem assiste e quem age no palco."
             ],
             "culturalNotes": [
-                "Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "Augusto Boal foi indicado ao Prêmio Nobel da Paz em 2008 e nomeado Embaixador Mundial do Teatro pela UNESCO em 2009."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena)?",
+                    "prompt": "¿Qual é a inovação metodológica e filosófica central introduzida por Augusto Boal no Teatro do Oprimido?",
                     "options": [
-                        "Generic introductory concept (156.1)",
-                        "Irrelevant topic (156.2)",
-                        "Modern fast-food trend (156.3)",
-                        "Augusto Boal & The Theatre of the Oppressed (156.4)"
+                        "A criação do «espect-ator», transformando o público passivo em sujeito ativo que intervém e modifica a ação cênica.",
+                        "A proibição de qualquer diálogo falado em cena em favor do silêncio absoluto.",
+                        "A exigência de atores usarem máscaras de mármore gregas clássicas.",
+                        "O confinamento do espetáculo a transmissões de rádio comerciais."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Augusto Boal & The Theatre of the Oppressed is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Boal desconstruiu a barreira palco-plateia, capacitando o espectador a atuar e ensaiar transformações sociais."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Augusto Boal & The Theatre of the Oppressed?",
+                    "prompt": "Como funciona a dinâmica do Teatro-Fórum durante uma apresentação comunitária?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (156.1)",
-                        "It has no historical significance. (156.2)",
-                        "It was imported from an unrelated continent. (156.3)",
-                        "It was invented yesterday. (156.4)"
+                        "Uma cena de opressão é encenada e, na repetição, qualquer espectador pode gritar «Para!» e substituir o protagonista para propor uma saída.",
+                        "Os atores leem um roteiro pré-gravado sem permitir perguntas do público.",
+                        "O público deve permanecer em silêncio absoluto até o dia seguinte.",
+                        "A plateia vota apenas por cédulas secretas sem subir ao palco."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "explanation": "O Teatro-Fórum permite que o espect-ator intervenha fisicamente em cena para testar estratégias de superação da opressão."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Augusto Boal & The Theatre of the Oppressed in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "Qual célebre companhia teatral paulistana sediou as primeiras experimentações de Augusto Boal e Gianfrancesco Guarnieri nos anos 1950?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Augusto Boal & The Theatre of the Oppressed established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Augusto Boal & The Theatre of the Oppressed (Teatro do Oprimido 1974, o Espect-ator, Teatro de Arena)."
-                },
-                {
-                    "prompt": "What mastery level does completing Augusto Boal & The Theatre of the Oppressed contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Teatro de Arena de São Paulo",
+                        "Theatro Municipal do Rio de Janeiro",
+                        "Teatro Amazonas",
+                        "Companhia Dramática de Lisboa"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "O Teatro de Arena foi o berço do teatro moderno e socialmente engajado no Brasil."
+                },
+                {
+                    "prompt": "Qual é a função do personagem «Coringa» no sistema dramatúrgico criado por Boal no Teatro de Arena?",
+                    "options": [
+                        "Atuar como mediador, narrador e articulador crítico entre o elenco, o texto dramático e a plateia.",
+                        "Fazer piadas circenses para distrair o público.",
+                        "Controlar as luzes e o som do teatro exclusivamente.",
+                        "Distribuir ingressos na bilheteria."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "O Coringa é o explicador e regente da montagem que dialoga criticamente com o público."
                 }
             ],
             "passThreshold": 0.8
@@ -16267,76 +16272,81 @@
         "id": "pt-br-u32-l2",
         "unit": "pt-br-u32",
         "level": "C1",
-        "objective": "Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Nelson Rodrigues e o Teatro Moderno: «Vestido de Noiva» (1943), Ziembinski e a tragédia carioca.",
         "presentation": {
-            "explanation": "Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "A encenação de «Vestido de Noiva» em 28 de dezembro de 1943, no Theatro Municipal do Rio de Janeiro pelo grupo amador Os Comediantes, com texto de Nelson Rodrigues (1912–1980) e direção do encenador polonês Zbigniew Ziembinski, é consensualmente considerada a certidão de nascimento do teatro moderno brasileiro. Nelson rompeu de maneira radical com a tradição do dramalhão realista e da comédia de costumes ligeira ao estruturar a peça em três planos simultâneos de consciência que se cruzam dinamicamente na mente da protagonista Alaíde após ser atropelada: o plano da Realidade (o hospital e a família), o plano da Memória (os ressentimentos com a irmã Lúcia e o marido Pedro) e o plano da Alucinação (o encontro fantasmagórico com a cortesã assassinada Madame Clessi). Com iluminação expressionista inovadora, diálogos cortantes, obsessões morais e um lirismo trágico impiedoso sobre a hipocrisia burguesa da classe média suburbana carioca, Nelson Rodrigues inaugurou a dramaturgia psicológica e mítica nacional com obras como «A Falecida», «Boca de Ouro» e «Beijo no Asfalto».",
             "examples": [
                 {
-                    "target": "Mastery of Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida)...",
-                    "translation": "Mastery of Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "A sobreposição dos planos da memória e da alucinação revelava os segredos mais inconfessáveis da sociedade suburbana.",
+                    "reading": "A sobreposição dos planos da memória e da alucinação revelava os segredos mais inconfessáveis da sociedade suburbana.",
+                    "translation": "The overlay of the planes of memory and hallucination revealed the most unspeakable secrets of suburban society."
+                },
+                {
+                    "target": "A direção de Ziembinski utilizou luz e sombra expressionistas para materializar o delírio interior da protagonista.",
+                    "reading": "A direção de Ziembinski utilizou luz e sombra expressionistas para materializar o delírio interior da protagonista.",
+                    "translation": "Ziembinski's direction used expressionist light and shadow to materialize the protagonist's inner delirium."
                 }
             ],
             "mnemonics": [
-                "Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Três Planos de Vestido de Noiva»: Realidade (hospital), Memória (passado familiar) e Alucinação (Madame Clessi)."
             ],
             "culturalNotes": [
-                "Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "Nelson Rodrigues era também cronista esportivo consagrado, célebre por cunhar expressões que entraram para o léxico nacional, como «o complexo de vira-lata»."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida)?",
+                    "prompt": "Por que a estreia de «Vestido de Noiva» (1943) é considerada o marco inaugural da modernidade teatral no Brasil?",
                     "options": [
-                        "Nelson Rodrigues & The Modernist Stage Revolution (157.1)",
-                        "Irrelevant topic (157.2)",
-                        "Modern fast-food trend (157.3)",
-                        "Generic introductory concept (157.4)"
+                        "Porque introduziu uma inovadora estrutura psicológica em três planos simultâneos (Realidade, Memória, Alucinação) com encenação expressionista de Ziembinski.",
+                        "Porque foi a primeira peça apresentada inteiramente em latim eclesiástico.",
+                        "Porque eliminou o uso de cenário e figurino nos palcos cariocas.",
+                        "Porque era uma adaptação estrita de uma ópera barroca italiana sem modificações."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Nelson Rodrigues & The Modernist Stage Revolution is the central subject."
+                    "explanation": "A peça revolucionou a dramaturgia e a direção cênica brasileiras ao encenar a mente subjetiva e os delírios da protagonista."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Nelson Rodrigues & The Modernist Stage Revolution?",
+                    "prompt": "Qual é o tema recorrente e a atmosfera social que definem as chamadas «tragédias cariocas» de Nelson Rodrigues?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (157.1)",
-                        "It has no historical significance. (157.2)",
-                        "It was invented yesterday. (157.3)",
-                        "It was imported from an unrelated continent. (157.4)"
+                        "O exame impiedoso das paixões humanas, do ciúme, da culpa, da morte e da hipocrisia moral nos subúrbios do Rio de Janeiro.",
+                        "As viagens espaciais futuristas e a tecnologia cibernética.",
+                        "A celebração bucólica da vida camponesa na Europa medieval.",
+                        "A crônica política internacional exclusiva de embaixadas estrangeiras."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "explanation": "Nelson desnudou a alma humana e os tabus morais da classe média suburbana carioca com genialidade dramática e poética."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Nelson Rodrigues & The Modernist Stage Revolution in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "Quem dirigiu a histórica montagem de «Vestido de Noiva» em 1943 com o grupo Os Comediantes?",
                     "options": [
-                        "Nelson Rodrigues & The Modernist Stage Revolution established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education."
+                        "Zbigniew Ziembinski",
+                        "Antunes Filho",
+                        "José Celso Martinez Corrêa",
+                        "Aderbal Freire-Filho"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Nelson Rodrigues & The Modernist Stage Revolution (Vestido de Noiva 1943 com Ziembinski, A Falecida)."
+                    "explanation": "O diretor polonês Ziembinski introduziu o rigor cênico expressionista europeu no teatro brasileiro."
                 },
                 {
-                    "prompt": "What mastery level does completing Nelson Rodrigues & The Modernist Stage Revolution contribute to in the FEARN curriculum?",
+                    "prompt": "Qual das seguintes peças clássicas é de autoria de Nelson Rodrigues?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "O Beijo no Asfalto",
+                        "O Pagador de Promessas",
+                        "Auto da Compadecida",
+                        "Eles Não Usam Black-tie"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "«O Beijo no Asfalto» (1960) é uma das obras-primas da maturidade trágica de Nelson Rodrigues."
                 }
             ],
             "passThreshold": 0.8
@@ -16346,76 +16356,81 @@
         "id": "pt-br-u32-l3",
         "unit": "pt-br-u32",
         "level": "C2",
-        "objective": "Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "Ariano Suassuna e o Movimento Armorial: «Auto da Compadecida» (1955), cordel e religiosidade sertaneja.",
         "presentation": {
-            "explanation": "Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Ariano Suassuna (1927–2014) concebeu no Nordeste brasileiro uma das propostas estéticas e dramáticas mais autênticas da literatura universal: o Movimento Armorial, fundado oficialmente no Recife em 1970 com o propósito de criar uma arte erudita brasileira a partir das raízes populares do sertão, da literatura de cordel, da xilogravura, do romanceiro ibérico medieval e das folias de reis e mamulengos. Sua obra-prima teatral, «Auto da Compadecida» (1955), encenada pelo Teatro Adolescente do Recife no Festival de Teatros Amadores do Brasil de 1957, conquistou consagração imediata. Inspirado na estrutura dos autos morais de Gil Vicente e nas artimanhas da picaresca popular, o drama acompanha as peripécias dos sertanejos João Grilo e Chicó em Taperoá, culminando no célebre julgamento celestial onde o diabo, o Encourado, acusa os poderosos e hipócritas, e a Virgem Maria, a Compadecida, intercede com infinita misericórdia pelos humildes e desvalidos da terra.",
             "examples": [
                 {
-                    "target": "Mastery of Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel)...",
-                    "translation": "Mastery of Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "A intercessão da Compadecida no tribunal divino celebra a graça e o perdão para os sofrimentos do sertanejo.",
+                    "reading": "A intercessão da Compadecida no tribunal divino celebra a graça e o perdão para os sofrimentos do sertanejo.",
+                    "translation": "The intercession of the Compassionate Lady in the divine tribunal celebrates grace and forgiveness for the suffering of the sertanejo."
+                },
+                {
+                    "target": "João Grilo usava a inteligência viva e o humor picaresco para vencer a fome e a opressão dos poderosos.",
+                    "reading": "João Grilo usava a inteligência viva e o humor picaresco para vencer a fome e a opressão dos poderosos.",
+                    "translation": "João Grilo used sharp intelligence and picaresque humor to overcome hunger and the oppression of the powerful."
                 }
             ],
             "mnemonics": [
-                "Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Movimento Armorial»: fusão nobre da cultura popular nordestina (cordel, rabeca, xilogravura) com a arte erudita e o espírito barroco."
             ],
             "culturalNotes": [
-                "Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "Ariano Suassuna foi membro ilustre da Academia Brasileira de Letras e lecionou estética e filosofia na Universidade Federal de Pernambuco."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel)?",
+                    "prompt": "Qual é a proposta estética fundamental do Movimento Armorial criado por Ariano Suassuna?",
                     "options": [
-                        "Ariano Suassuna & The Movimento Armorial (158.1)",
-                        "Generic introductory concept (158.2)",
-                        "Irrelevant topic (158.3)",
-                        "Modern fast-food trend (158.4)"
+                        "Construir uma arte erudita e erudita brasileira enraizada nas matrizes populares tradicionais do Nordeste, no cordel e no romanceiro ibérico.",
+                        "Copiar estritamente as tendências da vanguarda industrial norte-americana sem elementos locais.",
+                        "Abolir qualquer referência à música e à literatura tradicional popular.",
+                        "Substituir todos os instrumentos musicais acústicos por sintetizadores digitais."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Ariano Suassuna & The Movimento Armorial is the central subject."
+                    "explanation": "O Movimento Armorial buscou elevar as tradições populares nordestinas ao mais alto patamar da arte clássica brasileira."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Ariano Suassuna & The Movimento Armorial?",
+                    "prompt": "De que fontes literárias e populares Suassuna se nutriu para compor os personagens João Grilo e Chicó no «Auto da Compadecida»?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (158.1)",
-                        "It was imported from an unrelated continent. (158.2)",
-                        "It was invented yesterday. (158.3)",
-                        "It has no historical significance. (158.4)"
+                        "Dos folhetos de cordel nordestinos, dos contos populares tradicionais e da tradição medieval dos autos vicentinos e da picaresca.",
+                        "De manuais técnicos de navegação marítima inglesa.",
+                        "De peças de tragédia grega clássica sobre guerras imperiais.",
+                        "De romances góticos vitorianos do século XIX exclusivamente."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "explanation": "João Grilo é o arquétipo do herói pícaro popular imortalizado nos folhetos de cordel e nas narrativas orais sertanejas."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Ariano Suassuna & The Movimento Armorial in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "Quem é a figura celeste que intercede pelos pecadores no clímax dramático do «Auto da Compadecida»?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "Ariano Suassuna & The Movimento Armorial established enduring philosophical, technical, and expressive standards across the tradition."
+                        "Nossa Senhora (A Compadecida)",
+                        "O Arcanjo Gabriel",
+                        "O Bispo de Olinda",
+                        "O Major Antônio Morais"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Ariano Suassuna & The Movimento Armorial (Auto da Compadecida 1955, João Grilo, literatura de cordel)."
+                    "answerIndex": 0,
+                    "explanation": "A Compadecida personifica a compaixão divina universal diante das misérias e fragilidades humanas."
                 },
                 {
-                    "prompt": "What mastery level does completing Ariano Suassuna & The Movimento Armorial contribute to in the FEARN curriculum?",
+                    "prompt": "Em que cidade do sertão paraibano se passa a trama principal do «Auto da Compadecida»?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Taperoá",
+                        "Recife",
+                        "Salvador",
+                        "Fortaleza"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Taperoá é a cidade sertaneja da Paraíba onde Suassuna viveu sua infância e ambientou sua peça imortal."
                 }
             ],
             "passThreshold": 0.8
@@ -16425,76 +16440,81 @@
         "id": "pt-br-u32-l4",
         "unit": "pt-br-u32",
         "level": "C2",
-        "objective": "Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "O Teatro Oficina e Zé Celso: «O Rei da Vela» (1967), Lina Bo Bardi e o Tropicalismo dionisíaco.",
         "presentation": {
-            "explanation": "Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "O Teatro Oficina de São Paulo, liderado pelo diretor José Celso Martinez Corrêa (1937–2023), constitui um dos mais radicais experimentos de vanguarda e insurreição cênica da história do teatro mundial. Em 1967, o Oficina montou o texto modernista inédito de Oswald de Andrade, «O Rei da Vela» (escrito em 1933), desencadeando o movimento do Tropicalismo nas artes brasileiras ao lado de Caetano Veloso, Gilberto Gil e Hélio Oiticica. A montagem realizou a «antropofagia cênica», devorando a cultura do colonizador e cuspindo uma estética pop, anárquica, erótica e cáustica que ridicularizava a burguesia agrária e a subserviência ao capital estrangeiro. Posteriormente, após um incêndio em 1966 e perseguições políticas pela ditadura militar, o espaço físico do Oficina no bairro do Bixiga foi reconstruído entre 1984 e 1993 pela genial arquiteta Lina Bo Bardi e Edson Elito como um «teatro-rua»: uma pista de madeira estreita e longa ladeada por andaimes tubulares de aço e uma gigantesca parede de vidro que integra a rua, a árvore sagrada e a cidade ao ritual dionisíaco do espetáculo contínuo.",
             "examples": [
                 {
-                    "target": "Mastery of Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco)...",
-                    "translation": "Mastery of Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "A montagem de «O Rei da Vela» pelo Oficina colocou em marcha a estética do Tropicalismo nos palcos brasileiros.",
+                    "reading": "A montagem de «O Rei da Vela» pelo Oficina colocou em marcha a estética do Tropicalismo nos palcos brasileiros.",
+                    "translation": "The staging of 'O Rei da Vela' by the Oficina set the aesthetics of Tropicalism in motion on Brazilian stages."
+                },
+                {
+                    "target": "A arquitetura do Teatro Oficina concebida por Lina Bo Bardi transformou o espaço cênico em uma rua contínua de celebração cívica.",
+                    "reading": "A arquitetura do Teatro Oficina concebida por Lina Bo Bardi transformou o espaço cênico em uma rua contínua de celebração cívica.",
+                    "translation": "The architecture of Teatro Oficina designed by Lina Bo Bardi transformed the scenic space into a continuous street of civic celebration."
                 }
             ],
             "mnemonics": [
-                "Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Teatro-Pista / Rua de Lina Bo Bardi»: dispositivo cênico vertical com galerias de andaimes sem palco italiano fechado."
             ],
             "culturalNotes": [
-                "Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "O Teatro Oficina foi eleito em 2015 pelo jornal britânico The Guardian como o melhor teatro do mundo em sua categoria espacial e conceitual."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco)?",
+                    "prompt": "Qual foi o impacto histórico e estético da encenação de «O Rei da Vela» por Zé Celso e o Teatro Oficina em 1967?",
                     "options": [
-                        "Generic introductory concept (159.1)",
-                        "Irrelevant topic (159.2)",
-                        "Modern fast-food trend (159.3)",
-                        "Teatro Oficina & José Celso Martinez Corrêa (159.4)"
+                        "Catalisou a revolução cultural do Tropicalismo ao aplicar a antropofagia oswaldiana numa sátira feroz da sociedade brasileira.",
+                        "Provocou o fechamento imediato de todos os teatros de São Paulo por desinteresse do público.",
+                        "Instituiu o retorno à tragédia clássica em francês sem cenário.",
+                        "Estabeleceu o teatro comercial de marionetes como única forma de arte teatral permitida."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Teatro Oficina & José Celso Martinez Corrêa is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "A peça foi o manifesto cênico que deflagrou o Tropicalismo e reinventou a postura contestatória das artes no país."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of Teatro Oficina & José Celso Martinez Corrêa?",
+                    "prompt": "O que caracteriza o projeto arquitetônico revolucionário do Teatro Oficina projetado por Lina Bo Bardi no Bixiga?",
                     "options": [
-                        "It has no historical significance. (159.1)",
-                        "It was imported from an unrelated continent. (159.2)",
-                        "It was invented yesterday. (159.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (159.4)"
+                        "Uma pista longitudinal de madeira cercada por andaimes tubulares e uma imensa parede de vidro que conecta o teatro à cidade.",
+                        "Uma sala circular subterrânea sem iluminação natural nem ventilação.",
+                        "Um castelo neoclássico de pedra com fosso de água.",
+                        "Um auditório com poltronas numeradas de veludo vermelho estritamente isoladas do palco."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "answerIndex": 0,
+                    "explanation": "Lina Bo Bardi aboliu a caixa preta tradicional criando uma rua cênica que dialoga com o céu e o tecido urbano."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Teatro Oficina & José Celso Martinez Corrêa in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "Quem foi o autor modernista de 1922 que escreveu o texto teatral de «O Rei da Vela» encenado pelo Oficina?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Teatro Oficina & José Celso Martinez Corrêa established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "Oswald de Andrade",
+                        "Mário de Andrade",
+                        "Manuel Bandeira",
+                        "Carlos Drummond de Andrade"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Teatro Oficina & José Celso Martinez Corrêa (O Rei da Vela 1967, Lina Bo Bardi, Tropicalismo dionisíaco)."
+                    "answerIndex": 0,
+                    "explanation": "Oswald de Andrade escreveu a peça em 1933 como parte de sua crítica feroz ao capitalismo parasitário e à burguesia cafeeira."
                 },
                 {
-                    "prompt": "What mastery level does completing Teatro Oficina & José Celso Martinez Corrêa contribute to in the FEARN curriculum?",
+                    "prompt": "Em que tradicional bairro paulistano de herança operária e imigrante está localizado o Teatro Oficina?",
                     "options": [
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Beginner A1"
+                        "Bixiga (Bela Vista)",
+                        "Copacabana",
+                        "Pelourinho",
+                        "Savassi"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "O Teatro Oficina Uzyna Uzona situa-se na Rua Jaceguai, no histórico bairro do Bixiga em São Paulo."
                 }
             ],
             "passThreshold": 0.8
@@ -16504,76 +16524,81 @@
         "id": "pt-br-u32-l5",
         "unit": "pt-br-u32",
         "level": "C2",
-        "objective": "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "objective": "A Dramaturgia do Carnaval Carioca e o Samba-Enredo: a maior ópera popular a céu aberto do planeta.",
         "presentation": {
-            "explanation": "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas) represents a cornerstone of Theatre, Stagecraft & Performing Arts. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "O desfile das Escolas de Samba do Grupo Especial do Rio de Janeiro na Passarela Professor Darcy Ribeiro (o Sambódromo da Marquês de Sapucaí, projetado por Oscar Niemeyer e inaugurado em 1984) representa a maior e mais complexa manifestação de dramaturgia, cenografia e artes performáticas em escala monumental do mundo contemporâneo. Cada agremiação carnavalesca (como Mangueira, Portela, Beija-Flor, Salgueiro e Mocidade) atua como uma gigantesca companhia de ópera popular a céu aberto composta por mais de três mil componentes, estruturada sob a visão conceitual do Carnavalesco. A narrativa é condensada no «samba-enredo», cuja letra e melodia conduzem a evolução cronológica e poética das alas temáticas, comissões de frente coreografadas com truques de ilusionismo, alegorias e carros monumentais com esculturas motorizadas, a nobreza ritual do casal de Mestre-Sala e Porta-Bandeira e a pulsação orquestral da Bateria com seus trezentos ritmistas executando paradinhas sincopadas, celebrando a ancestralidade afro-brasileira, a história marginalizada e o imaginário nacional.",
             "examples": [
                 {
-                    "target": "Mastery of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas)...",
-                    "translation": "Mastery of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "A comissão de frente apresentou uma coreografia teatralizada que encantou os jurados e o público na avenida.",
+                    "reading": "A comissão de frente apresentou uma coreografia teatralizada que encantou os jurados e o público na avenida.",
+                    "translation": "The opening commission presented a theatrical choreography that enchanted the judges and the audience on the avenue."
+                },
+                {
+                    "target": "A bateria de 300 ritmistas sustentou o andamento cadenciado do samba-enredo com precisão milimétrica.",
+                    "reading": "A bateria de 300 ritmistas sustentou o andamento cadenciado do samba-enredo com precisão milimétrica.",
+                    "translation": "The drum section of 300 percussionists sustained the rhythmic tempo of the samba-enredo with millimeter precision."
                 }
             ],
             "mnemonics": [
-                "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas)! Essential milestone in Theatre, Stagecraft & Performing Arts!"
+                "«Mestre-Sala e Porta-Bandeira»: o casal sagrado que conduz e protege o pavilhão oficial da escola com elegância e reverência ancestral."
             ],
             "culturalNotes": [
-                "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "O Sambódromo da Marquês de Sapucaí foi idealizado pelo antropólogo Darcy Ribeiro e construído em tempo recorde de quatro meses para o Carnaval de 1984."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas)?",
+                    "prompt": "Quem é o artista visual e dramaturgo responsável pela concepção temática, pesquisa histórica, figurinos e alegorias de uma escola de samba?",
                     "options": [
-                        "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (160.1)",
-                        "Generic introductory concept (160.2)",
-                        "Modern fast-food trend (160.3)",
-                        "Irrelevant topic (160.4)"
+                        "O Carnavalesco",
+                        "O árbitro de futebol",
+                        "O maestro da ópera lírica italiana",
+                        "O diretor de cinema hollywoodiano"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft is the central subject."
+                    "explanation": "O carnavalesco é o diretor artístico e dramaturgo que cria a narrativa visual e cênica do enredo."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Theatre, Stagecraft & Performing Arts, what is the primary significance of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft?",
+                    "prompt": "Qual é a função da Comissão de Frente em um desfile de escola de samba na Sapucaí?",
                     "options": [
-                        "It has no historical significance. (160.1)",
-                        "It was imported from an unrelated continent. (160.2)",
-                        "It was invented yesterday. (160.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (160.4)"
+                        "Apresentar e introduzir o enredo ao público e jurados com coreografia teatralizada e rigor técnico de impacto visual.",
+                        "Vender lanches e bebidas nas arquibancadas.",
+                        "Controlar o trânsito de ambulâncias fora da pista.",
+                        "Limpar a pista após a saída do último carro."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "answerIndex": 0,
+                    "explanation": "A Comissão de Frente abre o cortejo da escola teatralizando os conceitos essenciais do enredo."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft in the development of Theatre, Stagecraft & Performing Arts:",
+                    "prompt": "Quem projetou o monumento arquitetônico da Passarela do Samba (Sambódromo da Marquês de Sapucaí) inaugurado em 1984 no Rio de Janeiro?",
                     "options": [
-                        "It was completely forgotten within a week.",
-                        "The Rio Carnival Samba-Enredo: The World's Largest Stagecraft established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of The Rio Carnival Samba-Enredo: The World's Largest Stagecraft (Sambódromo de Niemeyer, 300 ritmistas)."
-                },
-                {
-                    "prompt": "What mastery level does completing The Rio Carnival Samba-Enredo: The World's Largest Stagecraft contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Oscar Niemeyer",
+                        "Lina Bo Bardi",
+                        "Lúcio Costa",
+                        "Paulo Mendes da Rocha"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "Oscar Niemeyer projetou a icônica passarela de concreto e a Praça da Apoteose sob encomenda de Darcy Ribeiro e Leonel Brizola."
+                },
+                {
+                    "prompt": "Como se chama o poema cantado composto especificamente para guiar o desfile e narrar o tema da agremiação?",
+                    "options": [
+                        "Samba-enredo",
+                        "Bossa nova",
+                        "Choro instrumental",
+                        "Modinha colonial"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "O samba-enredo é a partitura lírica e melódica que toda a escola canta e dramatiza durante a evolução."
                 }
             ],
             "passThreshold": 0.8
@@ -16581,78 +16606,95 @@
     },
     "pt-br-u33-l1": {
         "id": "pt-br-u33-l1",
-        "unit": "pt-br-u33",
+        "unit": 33,
+        "lessonNumber": 1,
         "level": "C1",
-        "objective": "Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Aleijadinho e o Barroco Mineiro: Os Doze Profetas e a Arte Sacra em Congonhas",
+        "objective": "Analisar a estética do Barroco e Rococó mineiro, o gênio escultórico de Antônio Francisco Lisboa (Aleijadinho) e o simbolismo teológico dos Doze Profetas em Congonhas do Campo.",
         "presentation": {
-            "explanation": "Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "O Barroco Mineiro do século XVIII representa a primeira grande síntese estética autenticamente brasileira, florescendo no apogeu do ciclo do ouro e dos diamantes nas Minas Gerais. À frente desse movimento ergue-se a figura monumental de Antônio Francisco Lisboa, o Aleijadinho (1730–1814), arquiteto e escultor mulato cuja obra transcendeu os cânones formais europeus. Em Congonhas do Campo, no adro do Santuário do Bom Jesus de Matosinhos, Aleijadinho esculpiu em pedra-sabão (esteatita) o magnífico conjunto dos Doze Profetas (1800–1805), uma obra-prima de expressividade dramática, contorções maneiristas e vigor plástico que dialoga diretamente com as seis capelas dos Passos da Paixão em madeira policromada. Na arquitetura sacra, a Igreja de São Francisco de Assis em Ouro Preto sintetiza sua maestria na integração entre curvas rococó, talha dourada e as pinturas ilusionistas de Mestre Ataíde.",
             "examples": [
                 {
-                    "target": "Mastery of Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas)...",
-                    "translation": "Mastery of Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "As estátuas dos Doze Profetas no adro do Santuário de Congonhas impressionam pela postura dramática e gestualidade expressiva talhada em pedra-sabão.",
+                    "reading": "As estátuas dos Doze Profetas no adro do Santuário de Congonhas impressionam pela postura dramática e gestualidade expressiva talhada em pedra-sabão.",
+                    "translation": "The statues of the Twelve Prophets on the parvis of the Congonhas Sanctuary impress with their dramatic posture and expressive gesturality carved in soapstone."
+                },
+                {
+                    "target": "A Igreja de São Francisco de Assis em Ouro Preto harmoniza a fachada curvilínea de Aleijadinho com o teto pintado por Mestre Ataíde.",
+                    "reading": "A Igreja de São Francisco de Assis em Ouro Preto harmoniza a fachada curvilínea de Aleijadinho com o teto pintado por Mestre Ataíde.",
+                    "translation": "The Church of Saint Francis of Assisi in Ouro Preto harmonizes Aleijadinho's curvilinear facade with the ceiling painted by Master Ataíde."
+                },
+                {
+                    "target": "Mesmo acometido por uma doença degenerativa mutilante, o mestre barroco executou entalhes de virtuosismo ímpar na madeira de cedro.",
+                    "reading": "Mesmo acometido por uma doença degenerativa mutilante, o mestre barroco executou entalhes de virtuosismo ímpar na madeira de cedro.",
+                    "translation": "Even afflicted by a mutilating degenerative disease, the baroque master executed carvings of unmatched virtuosity in cedar wood."
+                },
+                {
+                    "target": "A esteatita, conhecida popularmente como pedra-sabão, conferiu maleabilidade e textura inconfundível aos relevos da portada.",
+                    "reading": "A esteatita, conhecida popularmente como pedra-sabão, conferiu maleabilidade e textura inconfundível aos relevos da portada.",
+                    "translation": "Steatite, popularly known as soapstone, imparted malleability and unmistakable texture to the doorway reliefs."
                 }
             ],
             "mnemonics": [
-                "Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Congonhas e Ouro Preto»: o eixo sagrado onde a pedra-sabão e a talha dourada consagraram o Barroco de Aleijadinho como patrimônio da humanidade."
             ],
             "culturalNotes": [
-                "Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "O conjunto arquitetônico do Santuário do Bom Jesus de Matosinhos foi tombado pela UNESCO em 1985 como patrimônio cultural mundial."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas)?",
+                    "prompt": "Qual material mineral nativo das Minas Gerais foi magistralmente utilizado por Aleijadinho para esculpir os Doze Profetas em Congonhas?",
                     "options": [
-                        "Generic introductory concept (161.1)",
-                        "Irrelevant topic (161.2)",
-                        "Modern fast-food trend (161.3)",
-                        "Aleijadinho & The Minas Gerais Baroque (161.4)"
+                        "Pedra-sabão (esteatita)",
+                        "Mármore de Carrara importado",
+                        "Granito bruto sem polimento",
+                        "Arenito avermelhado"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Aleijadinho & The Minas Gerais Baroque is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "A pedra-sabão (esteatita), abundante na região mineira, permitiu a rica modelagem plástica das esculturas de Aleijadinho."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Aleijadinho & The Minas Gerais Baroque?",
+                    "prompt": "Qual igreja em Ouro Preto é considerada o cume da integração arquitetônica e pictórica do Rococó mineiro entre Aleijadinho e Mestre Ataíde?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (161.1)",
-                        "It has no historical significance. (161.2)",
-                        "It was imported from an unrelated continent. (161.3)",
-                        "It was invented yesterday. (161.4)"
+                        "Igreja de São Francisco de Assis",
+                        "Catedral da Sé de Mariana",
+                        "Basílica de Nossa Senhora do Pilar",
+                        "Igreja de Nossa Senhora do Rosário dos Pretos"
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "explanation": "A Igreja de São Francisco de Assis em Ouro Preto une o projeto e entalhes de Aleijadinho com as pinturas ilusionistas de Manuel da Costa Ataíde."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Aleijadinho & The Minas Gerais Baroque in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "O que caracteriza a estética do conjunto dos Doze Profetas de Congonhas do Campo?",
                     "options": [
-                        "Aleijadinho & The Minas Gerais Baroque established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was a minor commercial advertising campaign.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
+                        "Expressividade dramática, traços angulosos, gestos retóricos e torsões corporais de influência maneirista e barroca.",
+                        "Rigidez estática geométrica sem qualquer expressividade facial.",
+                        "Cópia mecânica das proporções clássicas gregas em mármore polido.",
+                        "Miniaturas em marfim destinadas exclusivamente à devoção doméstica privada."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Aleijadinho & The Minas Gerais Baroque (Antônio Francisco Lisboa, Os Doze Profetas em Congonhas)."
+                    "explanation": "Os Doze Profetas destacam-se pelo dinamismo corporal e pela intensa carga emocional gravada na pedra-sabão."
                 },
                 {
-                    "prompt": "What mastery level does completing Aleijadinho & The Minas Gerais Baroque contribute to in the FEARN curriculum?",
+                    "prompt": "Em qual contexto socioeconômico colonial se desenvolveu o florescimento artístico do Barroco Mineiro?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "O apogeu da mineração de ouro e diamantes no século XVIII em Minas Gerais.",
+                        "O ciclo da borracha no início do século XX na Amazônia.",
+                        "A expansão da lavoura de café no Vale do Paraíba no século XIX.",
+                        "A industrialização automobilística do ABC paulista nos anos 1950."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "O ouro e as pedras preciosas financiaram a construção e ornamentação das suntuosas igrejas mineiras."
                 }
             ],
             "passThreshold": 0.8
@@ -16660,78 +16702,95 @@
     },
     "pt-br-u33-l2": {
         "id": "pt-br-u33-l2",
-        "unit": "pt-br-u33",
+        "unit": 33,
+        "lessonNumber": 2,
         "level": "C1",
-        "objective": "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Brasília e a Arquitetura Moderna: Oscar Niemeyer, Lúcio Costa e o Plano Piloto",
+        "objective": "Compreender os princípios do urbanismo modernista de Lúcio Costa, a linguagem das curvas de concreto armado de Oscar Niemeyer e o simbolismo cívico da nova capital federal (1960).",
         "presentation": {
-            "explanation": "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Inaugurada em 21 de abril de 1960 pelo presidente Juscelino Kubitschek, Brasília é o mais ambicioso experimento urbanístico e arquitetônico modernista do século XX, reconhecida pela UNESCO como Patrimônio Mundial da Humanidade. O projeto nasceu da conjugação de duas mentes brilhantes: o urbanista Lúcio Costa, autor do Plano Piloto estruturado no cruzamento do Eixo Monumental com o Eixo Rodoviário em formato de avião ou borboleta, e o arquiteto Oscar Niemeyer, que reinventou o concreto armado. Niemeyer subverteu o racionalismo ortogonal lecorbusiano para criar uma poética de curvas sinuosas e balanços arrojados, inspirados na sensualidade da paisagem e no corpo feminino. Obras como o Palácio da Alvorada, o Congresso Nacional com suas cúpulas contrastantes, a Catedral Metropolitana com seus pilares hiperbólicos e a Praça dos Três Poderes consagraram uma linguagem escultórica monumental que redefiniu a identidade visual do Brasil moderno.",
             "examples": [
                 {
-                    "target": "Mastery of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional)...",
-                    "translation": "Mastery of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "O Plano Piloto de Brasília organizou as funções urbanas em setores especializados distribuídos ao longo dos dois eixos perpendiculares.",
+                    "reading": "O Plano Piloto de Brasília organizou as funções urbanas em setores especializados distribuídos ao longo dos dois eixos perpendiculares.",
+                    "translation": "Brasília's Pilot Plan organized urban functions into specialized sectors distributed along the two perpendicular axes."
+                },
+                {
+                    "target": "As colunas esguias de mármore branco do Palácio da Alvorada parecem tocar o solo com extrema leveza arquitetônica.",
+                    "reading": "As colunas esguias de mármore branco do Palácio da Alvorada parecem tocar o solo com extrema leveza arquitetônica.",
+                    "translation": "The slender white marble columns of the Alvorada Palace seem to touch the ground with extreme architectural lightness."
+                },
+                {
+                    "target": "As duas cúpulas do Congresso Nacional simbolizam a Câmara dos Deputados aberta ao povo e o Senado Federal voltado à reflexão.",
+                    "reading": "As duas cúpulas do Congresso Nacional simbolizam a Câmara dos Deputados aberta ao povo e o Senado Federal voltado à reflexão.",
+                    "translation": "The two domes of the National Congress symbolize the Chamber of Deputies open to the people and the Federal Senate oriented toward reflection."
+                },
+                {
+                    "target": "Niemeyer desafiou a gravidade ao explorar as potencialidades plásticas e estruturais do concreto armado protendido.",
+                    "reading": "Niemeyer desafiou a gravidade ao explorar as potencialidades plásticas e estruturais do concreto armado protendido.",
+                    "translation": "Niemeyer defied gravity by exploiting the plastic and structural potential of post-tensioned reinforced concrete."
                 }
             ],
             "mnemonics": [
-                "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Lúcio traça o Plano, Niemeyer molda a curva»: a síntese do urbanismo e da escultura que ergueu Brasília em mil dias."
             ],
             "culturalNotes": [
-                "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "Brasília é o único conjunto urbano construído no século XX a receber o título de Patrimônio Cultural da Humanidade pela UNESCO."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional)?",
+                    "prompt": "Qual é a principal inovação estética e plástica introduzida por Oscar Niemeyer na arquitetura moderna internacional?",
                     "options": [
-                        "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (162.1)",
-                        "Irrelevant topic (162.2)",
-                        "Modern fast-food trend (162.3)",
-                        "Generic introductory concept (162.4)"
+                        "A substituição da rigidez dos ângulos retos pela fluidez das curvas escultóricas em concreto armado.",
+                        "A eliminação completa de janelas e ventilação natural nos edifícios públicos.",
+                        "O retorno ao estilo gótico medieval com gárgulas e arcos ogivais.",
+                        "O uso exclusivo de tijolos de barro sem fundações de concreto."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa is the central subject."
+                    "explanation": "Niemeyer celebrizou-se mundialmente pela exploração poética e estrutural das curvas livres no concreto."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa?",
+                    "prompt": "Como é estruturado o traçado urbanístico fundamental do Plano Piloto de Lúcio Costa para Brasília?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (162.1)",
-                        "It has no historical significance. (162.2)",
-                        "It was invented yesterday. (162.3)",
-                        "It was imported from an unrelated continent. (162.4)"
+                        "Pelo cruzamento do Eixo Monumental (cívico-administrativo) com o Eixo Rodoviário (residencial nas Asas Sul e Norte).",
+                        "Por uma malha circular concêntrica medieval fechada por muralhas.",
+                        "Por uma única avenida litorânea linear com arranha-céus espelhados.",
+                        "Por quarteirões desordenados sem qualquer zoneamento funcional."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "explanation": "O Plano Piloto articula o Eixo Monumental leste-oeste com o Eixo Rodoviário norte-sul (Asas Sul e Norte)."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Quais edifícios icônicos delimitam e compõem a célebre Praça dos Três Poderes em Brasília?",
                     "options": [
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa established enduring philosophical, technical, and expressive standards across the tradition."
+                        "O Palácio do Planalto (Executivo), o Congresso Nacional (Legislativo) e o Supremo Tribunal Federal (Judiciário).",
+                        "A Catedral Metropolitana, o Teatro Nacional e o Estádio Mané Garrincha.",
+                        "O Palácio da Alvorada, o Palácio do Jaburu e o Aeroporto Internacional.",
+                        "O Memorial JK, a Biblioteca Nacional e o Museu da República."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Accurate analysis of Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa (Plano Piloto 1960, Congresso Nacional)."
+                    "answerIndex": 0,
+                    "explanation": "A Praça dos Três Poderes materializa a harmonia e independência constitucional dos poderes da República."
                 },
                 {
-                    "prompt": "What mastery level does completing Brasília & The Modernist Capital: Oscar Niemeyer & Lúcio Costa contribute to in the FEARN curriculum?",
+                    "prompt": "Quem foi o presidente da República cujo lema «Cinquenta anos em cinco» impulsionou a construção de Brasília?",
                     "options": [
-                        "Elementary A2",
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1"
+                        "Juscelino Kubitschek",
+                        "Getúlio Vargas",
+                        "João Goulart",
+                        "Eurico Gaspar Dutra"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "Juscelino Kubitschek idealizou e realizou a transferência da capital do Rio de Janeiro para o Planalto Central."
                 }
             ],
             "passThreshold": 0.8
@@ -16739,78 +16798,95 @@
     },
     "pt-br-u33-l3": {
         "id": "pt-br-u33-l3",
-        "unit": "pt-br-u33",
+        "unit": 33,
+        "lessonNumber": 3,
         "level": "C2",
-        "objective": "Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Lina Bo Bardi e a Arquitetura do Encontro: O MASP, o SESC Pompeia e o Vão Livre",
+        "objective": "Dominar a poética arquitetônica de Lina Bo Bardi, a dimensão pública do vão livre do MASP e a requalificação fabril e comunitária do SESC Pompeia.",
         "presentation": {
-            "explanation": "Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "A arquiteta ítalo-brasileira Lina Bo Bardi (1914–1992) desenvolveu uma das trajetórias mais singulares e revolucionárias da arquitetura mundial, combinando rigor estrutural moderno com uma profunda sensibilidade antropológica voltada à cultura popular e à convivência social. Sua obra magna em São Paulo, o Museu de Arte de São Paulo (MASP, 1968), suspende um gigantesco bloco envidraçado sobre quatro pilares vermelhos de concreto protendido, criando um vão livre monumental de 74 metros que devolve a esplanada ao pedestre e à manifestação cívica na Avenida Paulista. No SESC Pompeia (1977–1986), Lina transformou uma antiga fábrica de tambores em um centro cultural pulsante, preservando os galpões de tijolo aparente e adicionando duas torres brutais de concreto com passarelas aéreas e janelas recortadas que ela chamava de 'buracos de caverna'. Sua abordagem recusava a monumentalidade vazia, buscando sempre a 'arquitetura do encontro' onde o ser humano e o convívio coletivo constituem a razão de ser do espaço.",
             "examples": [
                 {
-                    "target": "Mastery of Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro)...",
-                    "translation": "Mastery of Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "O vão livre de 74 metros do MASP foi concebido para preservar a vista panorâmica para a Serra da Cantareira e acolher a vida urbana pública.",
+                    "reading": "O vão livre de 74 metros do MASP foi concebido para preservar a vista panorâmica para a Serra da Cantareira e acolher a vida urbana pública.",
+                    "translation": "The MASP's 74-meter free span was designed to preserve the panoramic view of the Serra da Cantareira and welcome public urban life."
+                },
+                {
+                    "target": "Os cavaletes de cristal projetados por Lina revolucionaram a expografia ao desvincular os quadros das paredes tradicionais.",
+                    "reading": "Os cavaletes de cristal projetados por Lina revolucionaram a expografia ao desvincular os quadros das paredes tradicionais.",
+                    "translation": "The crystal easels designed by Lina revolutionized expography by detaching paintings from traditional walls."
+                },
+                {
+                    "target": "No SESC Pompeia, a arquiteta preservou a memória operária dos galpões de tijolo ao integrá-los a blocos esportivos de concreto bruto.",
+                    "reading": "No SESC Pompeia, a arquiteta preservou a memória operária dos galpões de tijolo ao integrá-los a blocos esportivos de concreto bruto.",
+                    "translation": "At SESC Pompeia, the architect preserved the working-class memory of the brick sheds by integrating them with raw concrete sports blocks."
+                },
+                {
+                    "target": "A Casa de Vidro no Morumbi integra harmoniosamente a estrutura modernista suspensa à densa vegetação da Mata Atlântica.",
+                    "reading": "A Casa de Vidro no Morumbi integra harmoniosamente a estrutura modernista suspensa à densa vegetação da Mata Atlântica.",
+                    "translation": "The Glass House in Morumbi harmoniously integrates the suspended modernist structure into the dense Atlantic Forest vegetation."
                 }
             ],
             "mnemonics": [
-                "Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Vão livre do MASP e tijolos da Pompeia»: Lina Bo Bardi colocou a arte a serviço do encontro cidadão e da cultura popular."
             ],
             "culturalNotes": [
-                "Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "Lina Bo Bardi recebeu postumamente o Leão de Ouro Especial da Bienal de Arquitetura de Veneza em 2021 em reconhecimento ao impacto de sua obra humanista."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro)?",
+                    "prompt": "Qual é a principal função urbanística e social do imenso vão livre projetado por Lina Bo Bardi sob o edifício do MASP?",
                     "options": [
-                        "Lina Bo Bardi & The Free Span Architecture (163.1)",
-                        "Generic introductory concept (163.2)",
-                        "Irrelevant topic (163.3)",
-                        "Modern fast-food trend (163.4)"
+                        "Servir como praça pública coberta e aberta para encontros cívicos, feiras e manifestações populares na Avenida Paulista.",
+                        "Funcionar como estacionamento privativo e fechado para a diretoria do museu.",
+                        "Armazenar combustível fóssil e materiais industriais em contêineres.",
+                        "Isolar o museu dos transeuntes por meio de portões blindados indevassáveis."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Lina Bo Bardi & The Free Span Architecture is the central subject."
+                    "explanation": "O vão livre de 74 metros é um espaço democrático de encontro coletivo que respeita a cota do mirante público."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Lina Bo Bardi & The Free Span Architecture?",
+                    "prompt": "Como Lina Bo Bardi revolucionou a montagem da pinacoteca do MASP em sua expografia original?",
                     "options": [
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (163.1)",
-                        "It was imported from an unrelated continent. (163.2)",
-                        "It was invented yesterday. (163.3)",
-                        "It has no historical significance. (163.4)"
+                        "Criando cavaletes de vidro e concreto que deixam as pinturas flutuando no espaço livre sem apoios em paredes.",
+                        "Colando as obras de arte diretamente no piso com resina opaca.",
+                        "Escondendo as telas em gaveteiros escuros sem iluminação direta.",
+                        "Expondo apenas cópias xerográficas preto e branco em molduras barrocas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "explanation": "Os cavaletes de cristal permitem ao visitante circular livremente entre as obras e contemplar o verso das telas."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Lina Bo Bardi & The Free Span Architecture in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Qual complexo cultural e esportivo paulistano é um exemplo pioneiro de requalificação de patrimônio industrial assinado por Lina Bo Bardi?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "It was completely forgotten within a week.",
-                        "Lina Bo Bardi & The Free Span Architecture established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education."
+                        "SESC Pompeia",
+                        "Theatro Municipal de São Paulo",
+                        "Centro Cultural Banco do Brasil",
+                        "Edifício Copan"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Accurate analysis of Lina Bo Bardi & The Free Span Architecture (MASP na Avenida Paulista, SESC Pompéia, Casa de Vidro)."
+                    "answerIndex": 0,
+                    "explanation": "O SESC Pompeia transformou uma fábrica de tambores em um centro de convivência comunitária e esportiva."
                 },
                 {
-                    "prompt": "What mastery level does completing Lina Bo Bardi & The Free Span Architecture contribute to in the FEARN curriculum?",
+                    "prompt": "Qual residência modernista projetada em 1951 por Lina Bo Bardi no bairro do Morumbi é célebre por suas paredes de vidro sobre pilotis?",
                     "options": [
-                        "Beginner A1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Pre-intermediate B1",
-                        "Elementary A2"
+                        "Casa de Vidro",
+                        "Casa das Canoas",
+                        "Casa do Baile",
+                        "Casa Bola"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "A Casa de Vidro foi a residência de Lina e Pietro Maria Bardi, hoje sede do Instituto Bardi."
                 }
             ],
             "passThreshold": 0.8
@@ -16818,78 +16894,95 @@
     },
     "pt-br-u33-l4": {
         "id": "pt-br-u33-l4",
-        "unit": "pt-br-u33",
+        "unit": 33,
+        "lessonNumber": 4,
         "level": "C2",
-        "objective": "Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Roberto Burle Marx e o Paisagismo Moderno: A Pintura Viva da Flora Tropical",
+        "objective": "Examinar a revolução paisagística de Roberto Burle Marx, o uso pioneiro da flora autóctone brasileira e os desenhos abstratos nos calçadões do Rio de Janeiro.",
         "presentation": {
-            "explanation": "Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Roberto Burle Marx (1909–1994) redefiniu a arte dos jardins no século XX ao romper com os modelos eurocêntricos formais (jardins clássicos franceses e ingleses) e introduzir a flora nativa tropical brasileira como protagonista estética. Tratando o espaço verde como uma tela tridimensional de pintura abstrata e cubista, Burle Marx utilizava maciços monocromáticos de plantas com formas esculturais, como helicônias, bromélias e palmeiras, contrastando texturas foliares e ritmos cromáticos ao longo das estações. Seus projetos urbanos mais emblemáticos incluem o desenho em ondas sinuosas do Calçadão de Copacabana em pedras portuguesas bicolores, o imenso Aterro do Flamengo no Rio de Janeiro e os jardins dos ministérios em Brasília. Em seu Sítio em Guaratiba (RJ), preservou e catalogou centenas de espécies botânicas amazônicas e da Mata Atlântica, demonstrando que o paisagismo moderno é indissociável da conservação ecológica e da identidade botânica nacional.",
             "examples": [
                 {
-                    "target": "Mastery of Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx)...",
-                    "translation": "Mastery of Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "O mosaico em pedras portuguesas do Calçadão de Copacabana transformou a orla carioca em um ícone visual de arte moderna a céu aberto.",
+                    "reading": "O mosaico em pedras portuguesas do Calçadão de Copacabana transformou a orla carioca em um ícone visual de arte moderna a céu aberto.",
+                    "translation": "The Portuguese stone mosaic of the Copacabana Promenade transformed the Rio coastline into an open-air modern art visual icon."
+                },
+                {
+                    "target": "Burle Marx organizou os jardins do Parque do Flamengo com grandes manchas cromáticas de espécies nativas tropicais.",
+                    "reading": "Burle Marx organizou os jardins do Parque do Flamengo com grandes manchas cromáticas de espécies nativas tropicais.",
+                    "translation": "Burle Marx arranged the Flamengo Park gardens with large color patches of native tropical species."
+                },
+                {
+                    "target": "O Sítio Roberto Burle Marx abriga uma das mais ricas coleções vivas de plantas tropicais e subtropicais do planeta.",
+                    "reading": "O Sítio Roberto Burle Marx abriga uma das mais ricas coleções vivas de plantas tropicais e subtropicais do planeta.",
+                    "translation": "The Roberto Burle Marx Estate houses one of the richest living collections of tropical and subtropical plants on the planet."
+                },
+                {
+                    "target": "A concepção paisagística moderna integra a arquitetura de Niemeyer à plasticidade escultural de bromélias e vitórias-régias.",
+                    "reading": "A concepção paisagística moderna integra a arquitetura de Niemeyer à plasticidade escultural de bromélias e vitórias-régias.",
+                    "translation": "Modern landscape design integrates Niemeyer's architecture with the sculptural plasticity of bromeliads and giant water lilies."
                 }
             ],
             "mnemonics": [
-                "Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«Mosaico de Copacabana e flora tropical»: Burle Marx pintou a terra com as cores e formas vivas das plantas brasileiras."
             ],
             "culturalNotes": [
-                "Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "O Sítio Roberto Burle Marx em Barra de Guaratiba foi declarado Patrimônio Mundial pela UNESCO em 2021 na categoria de paisagem cultural."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx)?",
+                    "prompt": "Qual foi a grande ruptura metodológica que Roberto Burle Marx realizou no paisagismo em relação às tradições europeias?",
                     "options": [
-                        "Generic introductory concept (164.1)",
-                        "Irrelevant topic (164.2)",
-                        "Modern fast-food trend (164.3)",
-                        "Roberto Burle Marx & Tropical Landscape Architecture (164.4)"
+                        "A valorização e protagonismo das espécies botânicas nativas tropicais tratadas como volumes cromáticos abstratos.",
+                        "A substituição de todas as plantas vivas por esculturas artificiais de plástico.",
+                        "O confinamento rigoroso das plantas a vasos de cerâmica simétricos inspirados em Versalhes.",
+                        "A proibição do uso de curvas e formas orgânicas no traçado dos canteiros."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Roberto Burle Marx & Tropical Landscape Architecture is the central subject."
+                    "answerIndex": 0,
+                    "explanation": "Burle Marx resgatou a flora brasileira nativa e a tratou com linguagem plástica abstrata de vanguarda."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Roberto Burle Marx & Tropical Landscape Architecture?",
+                    "prompt": "Qual obra paisagística de Burle Marx cobre mais de um milhão de metros quadrados ao longo da Baía de Guanabara no Rio de Janeiro?",
                     "options": [
-                        "It has no historical significance. (164.1)",
-                        "It was imported from an unrelated continent. (164.2)",
-                        "It was invented yesterday. (164.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (164.4)"
+                        "Parque do Flamengo (Aterro do Flamengo)",
+                        "Jardim Botânico de Curitiba",
+                        "Parque Ibirapuera em São Paulo",
+                        "Passeio Público de Fortaleza"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "answerIndex": 0,
+                    "explanation": "O Parque Brigadeiro Eduardo Gomes (Aterro do Flamengo) é a maior intervenção paisagística urbana de Burle Marx."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Roberto Burle Marx & Tropical Landscape Architecture in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "O célebre calçadão ondulado da praia de Copacabana foi confeccionado utilizando qual técnica artesanal tradicional?",
                     "options": [
-                        "It was a minor commercial advertising campaign.",
-                        "Roberto Burle Marx & Tropical Landscape Architecture established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It only applied to elementary school education.",
-                        "It was completely forgotten within a week."
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Accurate analysis of Roberto Burle Marx & Tropical Landscape Architecture (Calçadão de Copacabana, Sítio Burle Marx)."
-                },
-                {
-                    "prompt": "What mastery level does completing Roberto Burle Marx & Tropical Landscape Architecture contribute to in the FEARN curriculum?",
-                    "options": [
-                        "Advanced C1/C2 Sovereign Omni-Mastery",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Beginner A1"
+                        "Calçada portuguesa (petit pavé em pedras calcárias brancas e pretas).",
+                        "Asfalto pré-moldado colorido sintético.",
+                        "Placas de alumínio polido com iluminação LED.",
+                        "Tijolos cerâmicos vidrados importados da Holanda."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "explanation": "O calçadão utiliza a técnica de pedras portuguesas justapostas manualmente em padrões ondulados."
+                },
+                {
+                    "prompt": "Além de paisagista, quais outras linguagens artísticas Burle Marx praticava com maestria?",
+                    "options": [
+                        "Pintura plástica abstrata, gravura, tapeçaria, escultura e desenho de joias.",
+                        "Composição de óperas sinfônicas exclusivamente.",
+                        "Direção de filmes de animação digital 3D.",
+                        "Pilotagem comercial de aeronaves transatlânticas."
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Burle Marx era um artista plástico multifacetado cujas telas e tapeçarias dialogavam diretamente com seus jardins."
                 }
             ],
             "passThreshold": 0.8
@@ -16897,78 +16990,95 @@
     },
     "pt-br-u33-l5": {
         "id": "pt-br-u33-l5",
-        "unit": "pt-br-u33",
+        "unit": 33,
+        "lessonNumber": 5,
         "level": "C2",
-        "objective": "Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista): Advanced mastery of cultural, historical, and linguistic dimensions.",
+        "title": "Paulo Mendes da Rocha e a Escola Paulista: O Concreto Aparente e a Ética Pública",
+        "objective": "Apreender os fundamentos teóricos e construtivos do Brutalismo Paulista de Paulo Mendes da Rocha (Pritzker 2006), o MuBE e a intervenção na Pinacoteca do Estado.",
         "presentation": {
-            "explanation": "Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista) represents a cornerstone of Architecture, Sacred Geometry & Urbanism. This session investigates its historical origins, aesthetic and philosophical foundations, and structural influence on civilization.",
+            "explanation": "Ganhador do Prêmio Pritzker em 2006, Paulo Mendes da Rocha (1928–2021) foi um dos maiores expoentes da chamada Escola Paulista ou Brutalismo Paulista, movimento liderado inicialmente por Vilanova Artigas que enfatizava o uso expressivo do concreto armado aparente, as grandes estruturas espaciais e a primazia ética do espaço público. Para Mendes da Rocha, a arquitetura é fundamentalmente uma 'transformação da natureza' a serviço da cidadania e da convivência democrática, opondo-se à mera decoração superficial. Entre suas realizações capitais destaca-se o Museu Brasileiro da Escultura (MuBE, 1995) em São Paulo, concebido como uma enorme marquise de concreto que paira sobre um jardim subterrâneo, quase invisível do nível da rua. Sua premiada reforma da Pinacoteca do Estado (1998) introduziu passarelas metálicas e claraboias iluminando os pátios internos do edifício neoclássico de tijolos aparentes, estabelecendo um diálogo dialético magistral entre a memória histórica e a tecnologia contemporânea.",
             "examples": [
                 {
-                    "target": "Mastery of Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese.",
-                    "reading": "Target analysis of Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista)...",
-                    "translation": "Mastery of Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista) exemplifies the cultural and expressive pinnacle of Brazilian Portuguese."
+                    "target": "A monumental viga de concreto do MuBE sombreia a praça pública rebaixada sem interromper a continuidade da paisagem urbana.",
+                    "reading": "A monumental viga de concreto do MuBE sombreia a praça pública rebaixada sem interromper a continuidade da paisagem urbana.",
+                    "translation": "The monumental concrete beam of the MuBE shades the lowered public square without interrupting the continuity of the urban landscape."
+                },
+                {
+                    "target": "A intervenção na Pinacoteca do Estado articulou os pátios históricos internos com passarelas de aço e vidro translúcido.",
+                    "reading": "A intervenção na Pinacoteca do Estado articulou os pátios históricos internos com passarelas de aço e vidro translúcido.",
+                    "translation": "The intervention at the Pinacoteca do Estado articulated the internal historic courtyards with steel and translucent glass footbridges."
+                },
+                {
+                    "target": "O Brutalismo Paulista emprega o concreto aparente com marcas das fôrmas de madeira como expressão de rigor construtivo e verdade material.",
+                    "reading": "O Brutalismo Paulista emprega o concreto aparente com marcas das fôrmas de madeira como expressão de rigor construtivo e verdade material.",
+                    "translation": "Paulista Brutalism employs exposed concrete with wooden formwork marks as an expression of constructive rigor and material truth."
+                },
+                {
+                    "target": "O arquiteto defendia que a cidade é a suprema invenção humana destinada ao convívio livre e igualitário de todos os cidadãos.",
+                    "reading": "O arquiteto defendia que a cidade é a suprema invenção humana destinada ao convívio livre e igualitário de todos os cidadãos.",
+                    "translation": "The architect defended that the city is the supreme human invention destined for free and egalitarian coexistence among all citizens."
                 }
             ],
             "mnemonics": [
-                "Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista)! Essential milestone in Architecture, Sacred Geometry & Urbanism!"
+                "«A viga do MuBE e a Pinacoteca viva»: Paulo Mendes da Rocha uniu o concreto armado à ética do espaço público compartilhado."
             ],
             "culturalNotes": [
-                "Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista) is celebrated worldwide as a defining achievement of Brazilian Portuguese heritage."
+                "Paulo Mendes da Rocha foi o segundo arquiteto brasileiro a receber o cobiçado Prêmio Pritzker (2006), após Oscar Niemeyer em 1988."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Which major figure, institution, or concept is central to the study of Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista)?",
+                    "prompt": "Qual é a principal premissa conceitual e ética defendida por Paulo Mendes da Rocha e pela Escola Paulista em relação à arquitetura?",
                     "options": [
-                        "Paulo Mendes da Rocha & The Paulista School (165.1)",
-                        "Generic introductory concept (165.2)",
-                        "Modern fast-food trend (165.3)",
-                        "Irrelevant topic (165.4)"
+                        "A arquitetura como intervenção pública e geográfica transformadora, voltada ao acolhimento social e à verdade dos materiais estruturais.",
+                        "A busca pelo ornamento rococó superficial e revestimento luxuoso para fins comerciais privados.",
+                        "A construção de edifícios murados que segregam o pedestre da convivência urbana.",
+                        "A rejeição completa de qualquer estrutura de concreto ou aço em obras públicas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Paulo Mendes da Rocha & The Paulista School is the central subject."
+                    "explanation": "A Escola Paulista valoriza a estrutura aparente, a generosidade dos espaços coletivos e o compromisso ético com a cidade."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "In the context of Architecture, Sacred Geometry & Urbanism, what is the primary significance of Paulo Mendes da Rocha & The Paulista School?",
+                    "prompt": "Qual museu em São Paulo foi projetado por Paulo Mendes da Rocha como um edifício quase todo subterrâneo coroado por uma imensa viga suspensa?",
                     "options": [
-                        "It has no historical significance. (165.1)",
-                        "It was imported from an unrelated continent. (165.2)",
-                        "It was invented yesterday. (165.3)",
-                        "It represents a defining historical and aesthetic breakthrough in Brazilian Portuguese civilization. (165.4)"
+                        "MuBE (Museu Brasileiro da Escultura e Ecologia)",
+                        "Museu do Ipiranga",
+                        "Memorial da América Latina",
+                        "Museu da Imagem e do Som (MIS)"
                     ],
-                    "answerIndex": 3,
-                    "explanation": "It represents a defining breakthrough in Brazilian Portuguese civilization."
+                    "answerIndex": 0,
+                    "explanation": "O MuBE é marcado por uma laje-ponte de 60 metros de extensão que flutua sobre um jardim de Burle Marx."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "Analyze the significance of Paulo Mendes da Rocha & The Paulista School in the development of Architecture, Sacred Geometry & Urbanism:",
+                    "prompt": "Qual consagrado prêmio internacional de arquitetura foi concedido a Paulo Mendes da Rocha no ano de 2006?",
                     "options": [
-                        "Paulo Mendes da Rocha & The Paulista School established enduring philosophical, technical, and expressive standards across the tradition.",
-                        "It was completely forgotten within a week.",
-                        "It only applied to elementary school education.",
-                        "It was a minor commercial advertising campaign."
+                        "Prêmio Pritzker de Arquitetura",
+                        "Prêmio Nobel de Literatura",
+                        "Medalha Fields de Matemática",
+                        "Prêmio Pulitzer de Jornalismo"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Accurate analysis of Paulo Mendes da Rocha & The Paulista School (Pritzker 2006, MuBE, concreto aparente brutalista)."
+                    "explanation": "O Prêmio Pritzker é considerado a maior honraria global no campo da arquitetura."
                 },
                 {
-                    "prompt": "What mastery level does completing Paulo Mendes da Rocha & The Paulista School contribute to in the FEARN curriculum?",
+                    "prompt": "Como se deu a emblemática intervenção de Paulo Mendes da Rocha no edifício histórico da Pinacoteca do Estado de São Paulo?",
                     "options": [
-                        "Beginner A1",
-                        "Elementary A2",
-                        "Pre-intermediate B1",
-                        "Advanced C1/C2 Sovereign Omni-Mastery"
+                        "Cobriu os pátios internos com claraboias de vidro e conectou os espaços por passarelas metálicas sem ocultar os tijolos originais.",
+                        "Demoliu todo o edifício histórico para erguer uma torre de vidro espelhado.",
+                        "Pintou todas as paredes de alvenaria com tintas fluorescentes sem reforço estrutural.",
+                        "Fechou todas as portas originais transformando o prédio em um cofre hermético."
                     ],
-                    "answerIndex": 3,
-                    "explanation": "Advanced C1/C2 Sovereign Omni-Mastery."
+                    "answerIndex": 0,
+                    "explanation": "A reforma da Pinacoteca respeitou a memória dos tijolos expostos inserindo elementos metálicos funcionais de extrema elegância."
                 }
             ],
             "passThreshold": 0.8
