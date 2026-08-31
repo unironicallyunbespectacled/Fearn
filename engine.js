@@ -1178,6 +1178,8 @@
     do {
       prev = s;
       s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit|operatorname)\{([^}]+)\}/g, '$1');
+      s = s.replace(/\\sqrt\{([^}]+)\}/g, '√($1)');
+      s = s.replace(/\\frac\{([^}]+)\}\{([^}]+)\}/g, '($1 / $2)');
     } while (s !== prev);
 
     s = s.replace(/\$\$([\s\S]*?)\$\$/g, '$1').replace(/\$([^$\n]+?)\$/g, '$1');
@@ -1188,6 +1190,8 @@
     s = s.replace(/`([^`]+)`/g, '$1');
     s = s.replace(/~~([^~]+)~~/g, '$1');
     s = s.replace(/^>\s+/gm, '');
+    s = s.replace(/\\([a-zA-Z]+)/g, '$1');
+    s = s.replace(/[{}]/g, '');
     return s.trim();
   }
 

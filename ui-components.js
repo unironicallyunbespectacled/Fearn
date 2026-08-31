@@ -161,6 +161,8 @@
     s = s.replace(/\\\\([a-zA-Z]+)/g, '\\$1');
     s = s.replace(/\\ge\b|\\geq\b/g, '≥').replace(/\\le\b|\\leq\b/g, '≤').replace(/\\approx\b/g, '≈').replace(/\\times\b/g, '×').replace(/\\to\b/g, '→').replace(/\\pm\b/g, '±').replace(/\\cdot\b/g, '·');
     s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit)\{([^}]+)\}/g, '$1');
+    s = s.replace(/\\sqrt\{([^}]+)\}/g, '√($1)');
+    s = s.replace(/\\frac\{([^}]+)\}\{([^}]+)\}/g, '($1 / $2)');
     s = s.replace(/\$\$([\s\S]*?)\$\$/g, '$1').replace(/\$([^$\n]+?)\$/g, '$1');
     s = s.replace(/^#{1,6}\s+/gm, '');
     s = s.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/__([^_]+)__/g, '$1');
@@ -168,6 +170,8 @@
     s = s.replace(/`([^`]+)`/g, '$1');
     s = s.replace(/~~([^~]+)~~/g, '$1');
     s = s.replace(/^>\s+/gm, '');
+    s = s.replace(/\\([a-zA-Z]+)/g, '$1');
+    s = s.replace(/[{}]/g, '');
     return s.trim();
   }
 

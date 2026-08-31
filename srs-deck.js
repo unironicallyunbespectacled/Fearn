@@ -92,8 +92,8 @@
 
   // Initial Values on First Review (New -> Learning/Review)
   function getInitialDSR(grade, w) {
-    w = w || FSRS_CONFIG.w;
-    var g = Math.max(1, Math.min(4, grade)); // 1: Again, 2: Hard, 3: Good, 4: Easy
+    w = (Array.isArray(w) && w.length >= 17) ? w : ((FSRS_CONFIG && FSRS_CONFIG.w) || DEFAULT_FSRS_WEIGHTS);
+    var g = Math.max(1, Math.min(4, Number(grade) || 3)); // 1: Again, 2: Hard, 3: Good, 4: Easy
     
     // Initial Stability
     var initS = w[g - 1] || DEFAULT_FSRS_WEIGHTS[g - 1];
@@ -102,28 +102,32 @@
     var rawD = w[4] - Math.exp(w[5] * (g - 1)) + 1;
     var initD = Math.max(1.0, Math.min(10.0, rawD));
 
-    return { stability: initS, difficulty: initD };
+    return { stability: Math.max(0.1, initS), difficulty: initD };
   }
 
   // Update Stability & Difficulty on Subsequent Reviews
   function updateDSR(currentD, currentS, elapsedDays, grade, w) {
-    w = w || FSRS_CONFIG.w;
-    var g = Math.max(1, Math.min(4, grade));
-    var R = calculateRetrievability(elapsedDays, currentS);
+    w = (Array.isArray(w) && w.length >= 17) ? w : ((FSRS_CONFIG && FSRS_CONFIG.w) || DEFAULT_FSRS_WEIGHTS);
+    var g = Math.max(1, Math.min(4, Number(grade) || 3));
+    var elDays = Math.max(0.001, Number(elapsedDays) || 1.0);
+    var curS = Math.max(0.01, Number(currentS) || 1.0);
+    var curD = Math.max(1.0, Math.min(10.0, Number(currentD) || 5.0));
+
+    var R = calculateRetrievability(elDays, curS);
 
     // 1. Next Difficulty Calculation with Mean-Reversion
     var D0_Good = w[4] - Math.exp(w[5] * (3 - 1)) + 1; // Base D for "Good"
     var deltaD = -w[6] * (g - 3);
-    var rawNextD = currentD + deltaD;
+    var rawNextD = curD + deltaD;
     var nextD = w[7] * D0_Good + (1 - w[7]) * rawNextD;
     nextD = Math.max(1.0, Math.min(10.0, nextD));
 
-    var nextS = currentS;
+    var nextS = curS;
 
     if (g === 1) {
       // 2a. Post-Lapse Stability (Again pressed)
       // S'_f = w11 * (D^-w12) * ((S + 1)^w13 - 1) * e^(w14 * (1 - R))
-      var lapseS = w[11] * Math.pow(nextD, -w[12]) * (Math.pow(currentS + 1, w[13]) - 1) * Math.exp(w[14] * (1 - R));
+      var lapseS = w[11] * Math.pow(nextD, -w[12]) * (Math.pow(curS + 1, w[13]) - 1) * Math.exp(w[14] * (1 - R));
       nextS = Math.max(0.1, lapseS);
     } else {
       // 2b. Successful Recall Stability (Hard, Good, Easy)
@@ -131,9 +135,9 @@
       var hardMod = (g === 2) ? (w[15] || 0.2315) : 1.0;
       var easyMod = (g === 4) ? (w[16] || 2.9898) : 1.0;
       
-      var sFactor = Math.exp(w[8]) * (11 - nextD) * Math.pow(currentS, -w[9]) * (Math.exp(w[10] * (1 - R)) - 1) * hardMod * easyMod;
-      nextS = currentS * (1 + sFactor);
-      nextS = Math.max(currentS * 1.05, nextS); // Guaranteed growth on successful recall
+      var sFactor = Math.exp(w[8]) * (11 - nextD) * Math.pow(curS, -w[9]) * (Math.exp(w[10] * (1 - R)) - 1) * hardMod * easyMod;
+      nextS = curS * (1 + sFactor);
+      nextS = Math.max(curS * 1.05, nextS); // Guaranteed growth on successful recall
     }
 
     return {
@@ -1006,6 +1010,7 @@
     updateDSR: updateDSR,
     recordReview: recordReview,
     getCardState: getCardState,
+    getCardsBySubject: getCardsBySubject,
     getConfig: function () { return FSRS_CONFIG; },
     saveConfig: saveConfig,
     DEFAULT_WEIGHTS: DEFAULT_FSRS_WEIGHTS
@@ -1015,6 +1020,7 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = {
       openSRSFlashcardDeck: openSRSFlashcardDeck,
+      getCardsBySubject: getCardsBySubject,
       calculateRetrievability: calculateRetrievability,
       calculateNextInterval: calculateNextInterval,
       updateDSR: updateDSR,
