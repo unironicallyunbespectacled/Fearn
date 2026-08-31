@@ -4030,10 +4030,29 @@
       "level": "B1 / B2"
     },
     {
-      "term": "Karibu / Karibuni",
-      "definition": "Welcome / You are welcome / Come in (Singular vs plural address)",
-      "category": "Hospitality",
-      "level": "A1"
+      "term": "Karibu",
+      "definition": "1. Welcome! / You are welcome. 2. Near / Close in distance or time. 3. Response to \"Asante\" (thank you).",
+      "category": "Maamkizi na Adabu (Greetings & Etiquette)",
+      "level": "A1 / Msingi",
+      "pronunciation": "[kaˈɾi.bu]",
+      "partOfSpeech": "Kivumishi / Neno la Heshima (Adjective / Interjection)",
+      "examples": [
+        {
+          "target": "Karibu nyumbani kwetu! Jisikie huru kama uko kwako.",
+          "translation": "Welcome to our home! Feel free as if you are at your own place."
+        },
+        {
+          "target": "Kituo cha reli kiko karibu sana na hoteli yetu.",
+          "translation": "The railway station is very near to our hotel."
+        }
+      ],
+      "synonyms": [
+        "Karibisha (verb form)"
+      ],
+      "antonyms": [
+        "Mbali (far / distant)"
+      ],
+      "register": "Kawaida (General)"
     },
     {
       "term": "Hakuna Matata",
@@ -4042,16 +4061,56 @@
       "level": "A1"
     },
     {
-      "term": "Pole / Pole sana",
-      "definition": "Expressing empathy: Sorry for your struggle, tiredness, or misfortune",
-      "category": "Empathy & Etiquette",
-      "level": "A1"
+      "term": "Pole pole",
+      "definition": "Slowly, gently, step-by-step, with calm patience and without haste; foundational East African life philosophy.",
+      "category": "Maisha ya Kila Siku na Falsafa (Daily Life & Philosophy)",
+      "level": "A1 / Msingi",
+      "pronunciation": "[ˈpɔ.lɛ ˈpɔ.lɛ]",
+      "partOfSpeech": "Kielezi (Adverb Phrase)",
+      "examples": [
+        {
+          "target": "Haba na haba, hujaza kibaba; twende pole pole tutafika tu.",
+          "translation": "Little by little fills the measure; let us go slowly and steadily, we will surely arrive."
+        },
+        {
+          "target": "Wakati wa kupanda Mlima Kilimanjaro, waongoza watalii wanasisitiza kutembea pole pole.",
+          "translation": "When climbing Mount Kilimanjaro, tour guides emphasize walking slowly and steadily."
+        }
+      ],
+      "synonyms": [
+        "Taratibu",
+        "Kwa utulivu",
+        "Bila haraka"
+      ],
+      "antonyms": [
+        "Haraka haraka (hastily / recklessly)"
+      ],
+      "register": "Kawaida / Methali (General / Proverbial)"
     },
     {
       "term": "Harambee",
-      "definition": "Cultural rallying cry: Let us pull together / Community self-help and collective fundraising",
-      "category": "Cultural Philosophy",
-      "level": "A2"
+      "definition": "Let us pull together; Kenyan national motto and cultural tradition of community self-help, collective pooling of resources, and mutual solidarity to accomplish shared goals.",
+      "category": "Utamaduni na Jamii (Culture & Society)",
+      "level": "B1 / Kati",
+      "pronunciation": "[ha.ɾamˈbeː]",
+      "partOfSpeech": "Nomino / Kaulimbiu (Noun / Cultural Maxim)",
+      "examples": [
+        {
+          "target": "Wanakijiji walikusanyika katika harambee ili kujenga kliniki mpya ya afya.",
+          "translation": "The villagers gathered in a harambee to build a new health clinic."
+        },
+        {
+          "target": "Mwamko wa harambee umesaidia maelfu ya wanafunzi kupata karo ya shule.",
+          "translation": "The harambee initiative has helped thousands of students obtain school fees."
+        }
+      ],
+      "synonyms": [
+        "Ushirikiano (cooperation)",
+        "Mshikamano (solidarity)",
+        "Umoja"
+      ],
+      "register": "Rasmi / Utamaduni (Official Motto / Cultural Tradition)",
+      "notes": "Originated during the independence struggle led by Jomo Kenyatta in 1963."
     },
     {
       "term": "Utamaduni wa Chai na Kahawa",
@@ -4202,6 +4261,33 @@
       "definition": "Standard Swahili based on the historical Kiunguja dialect of Zanzibar, serving as the lingua franca of East Africa and African Union official language",
       "category": "Linguistics & History",
       "level": "B1 / B2"
+    },
+    {
+      "term": "Utu",
+      "pronunciation": "[ˈu.tu]",
+      "partOfSpeech": "Nomino (Noun - Class 14 U-)",
+      "definition": "Humanity, humaneness, benevolence, compassion, and moral dignity; East African Swahili equivalent to the Bantu concept of Ubuntu (a person is a person through other persons).",
+      "category": "Maadili na Falsafa (Ethics & Philosophy)",
+      "level": "B2 / Juu",
+      "examples": [
+        {
+          "target": "Mtu mwenye utu wa kweli hutunza heshima ya kila kiumbe bila kujali hadhi yake.",
+          "translation": "A person with true utu preserves the dignity of every living being regardless of their status."
+        },
+        {
+          "target": "Ukarimu na utu ndio nguzo kuu za jamii yetu ya kitamaduni.",
+          "translation": "Generosity and humaneness are the central pillars of our traditional community."
+        }
+      ],
+      "synonyms": [
+        "Ubinadamu (humanity)",
+        "Wema",
+        "Ukarimu"
+      ],
+      "antonyms": [
+        "Ukatili (cruelty / brutality)"
+      ],
+      "register": "Kifalsafa / Maadili (Philosophical / Ethical)"
     }
   ],
   "amharic": [
