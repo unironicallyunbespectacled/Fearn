@@ -4873,10 +4873,27 @@
       "level": "A1"
     },
     {
-      "term": "እድር እና እቁብ (Iddir & Equb)",
-      "definition": "Traditional socio-economic self-help institutions: communal funeral insurance (Iddir) and rotating savings/credit association (Equb)",
-      "category": "Social Institutions",
-      "level": "B1"
+      "term": "እድር (Iddir)",
+      "definition": "Traditional Ethiopian community funeral and social insurance association where neighborhood members pool financial and logistical resources to support bereaved families.",
+      "category": "ባህልና ማህበራዊ ኑሮ (Culture & Social Mutual Aid)",
+      "level": "B1 / መካከለኛ",
+      "pronunciation": "እ-ድር [ʔɨd.dɨr]",
+      "partOfSpeech": "ስም (Noun - Masculine)",
+      "examples": [
+        {
+          "target": "የመንደራችን እድር በሀዘን ወቅት አባላቱን በገንዘብና በጉልበት ይደግፋል።",
+          "translation": "Our village iddir supports its members financially and with physical labor during times of grief."
+        },
+        {
+          "target": "እድር የኢትዮጵያዊያን ጥንታዊና ጠንካራ የማህበራዊ ትብብር ተቋም ነው።",
+          "translation": "Iddir is an ancient and robust institution of social cooperation among Ethiopians."
+        }
+      ],
+      "synonyms": [
+        "ማህበር (association / mahber)",
+        "እቁብ (rotating credit / iqub)"
+      ],
+      "register": "ባህላዊ / ማህበራዊ (Cultural / Communal)"
     },
     {
       "term": "ቴሌብር (Telebirr)",
@@ -5039,6 +5056,79 @@
       "definition": "National industrial and domestic manufacturing competitiveness initiative",
       "category": "Economics & Industry",
       "level": "B2 / C1"
+    },
+    {
+      "term": "እቁብ (Iqub)",
+      "pronunciation": "እ-ቁብ [ʔɨ.k’ub]",
+      "partOfSpeech": "ስም (Noun - Masculine)",
+      "definition": "Traditional Ethiopian rotating savings and credit association (ROSCA) where members contribute fixed sums periodically and take turns collecting the lump sum pool.",
+      "category": "ኢኮኖሚና ማህበራዊ ኑሮ (Economy & Mutual Credit)",
+      "level": "B1 / መካከለኛ",
+      "examples": [
+        {
+          "target": "ነጋዴዎች ለስራ ማስፋፊያ የሚሆን ካፒታል ለማግኘት እቁብ ይጥላሉ።",
+          "translation": "Traders contribute to an iqub to obtain capital for business expansion."
+        },
+        {
+          "target": "የዚህ ወር የእቁብ እጣ ለእኔ ደረሰኝ።",
+          "translation": "This month's iqub lottery payout arrived for me."
+        }
+      ],
+      "synonyms": [
+        "የገንዘብ ቁጠባ (savings)",
+        "እድር"
+      ],
+      "register": "ማህበራዊ / የኢኮኖሚ (Economic / Everyday)"
+    },
+    {
+      "term": "ጀበና ቡና (Jebena Buna)",
+      "pronunciation": "ጀ-በ-ና ቡ-ና [d͡ʒɛ.bɛ.na bu.na]",
+      "partOfSpeech": "የስም ሀረግ (Noun Phrase)",
+      "definition": "Traditional Ethiopian coffee ceremony brewed in a clay pot (jebena) with frankincense incense and popcorn (abol, tona, bereka rounds); central social hospitality ritual.",
+      "category": "የቡና ስነ-ስርዓት (Coffee Ceremony & Hospitality)",
+      "level": "A2 / መሰረታዊ",
+      "examples": [
+        {
+          "target": "የእሁድ ከሰአት የጀበና ቡና ጠረን ቤቱን በሙሉ በእጣንና በፍቅር ይሞላዋል።",
+          "translation": "The scent of Sunday afternoon jebena buna fills the entire house with frankincense and love."
+        },
+        {
+          "target": "እንግዳ ሲመጣ በጀበና ቡና ማስተናገድ የኢትዮጵያዊያን ዋነኛ መገለጫ ነው።",
+          "translation": "Serving guests with jebena buna when they arrive is the primary hallmark of Ethiopians."
+        }
+      ],
+      "synonyms": [
+        "የቡና ስነ-ስርዓት (coffee ceremony)",
+        "አቦል ቡና"
+      ],
+      "register": "ባህላዊ (Traditional / Cultural)"
+    },
+    {
+      "term": "ጉብዝና (Gubzina)",
+      "pronunciation": "ጉብ-ዝና [ɡʊb.zɨ.na]",
+      "partOfSpeech": "ስም (Noun - Masculine)",
+      "definition": "Courage, diligence, outstanding fortitude, heroic skill, and clever capability in work and moral character.",
+      "category": "ስነ-ምግባርና ጀግንነት (Character & Fortitude)",
+      "level": "B2 / ከፍተኛ",
+      "examples": [
+        {
+          "target": "ተማሪው በትምህርቱ ላሳየው ታላቅ ጉብዝና የክብር ሽልማት ተሰጠው።",
+          "translation": "The student was granted an honorary award for the great gubzina (diligence and excellence) shown in studies."
+        },
+        {
+          "target": "ገበሬው በመስኩ ባሳየው ጉብዝና የተትረፈረፈ ምርት ሰበሰበ።",
+          "translation": "Through the gubzina shown in the field, the farmer gathered an abundant harvest."
+        }
+      ],
+      "synonyms": [
+        "ጀግንነት (bravery / heroism)",
+        "ትጋት (diligence)",
+        "ብልሃት"
+      ],
+      "antonyms": [
+        "ስንፍና (laziness)"
+      ],
+      "register": "መደበኛ (Standard / Formal)"
     }
   ],
   "romanian": [
