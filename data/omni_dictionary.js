@@ -2842,6 +2842,108 @@
       "definition": "Rapidly expanding technology, semiconductor, and fintech startup ecosystem across Vietnam",
       "category": "Economics & Innovation",
       "level": "B2 / C1"
+    },
+    {
+      "term": "Uống nước nhớ nguồn (Uong nuoc nho nguon)",
+      "pronunciation": "[ʔuəŋ˧˦ nɨək˧˦ ɲəː˧˦ ŋuən˨˩]",
+      "partOfSpeech": "Thành ngữ / Đạo lý (Idiom / Ethical Maxim)",
+      "definition": "When drinking water, remember the water source; sacred Vietnamese moral precept expressing profound, lifelong gratitude to ancestors, teachers, parents, and benefactors.",
+      "category": "Đạo đức và Truyền thống (Ethics & Tradition)",
+      "level": "B1 / Trung cấp",
+      "examples": [
+        {
+          "target": "Truyền thống \"Uống nước nhớ nguồn\" là đạo lý tốt đẹp ngàn đời của dân tộc Việt Nam.",
+          "translation": "The tradition of \"When drinking water, remember the source\" is a fine moral principle of thousands of years for the Vietnamese people."
+        },
+        {
+          "target": "Ngày Nhà giáo Việt Nam là dịp để học sinh thể hiện tinh thần uống nước nhớ nguồn đối với thầy cô.",
+          "translation": "Vietnamese Teachers' Day is an occasion for students to express the spirit of remembering the source toward their teachers."
+        }
+      ],
+      "synonyms": [
+        "Ăn quả nhớ kẻ trồng cây (When eating fruit, remember who planted the tree)",
+        "Tôn sư trọng đạo"
+      ],
+      "register": "Trang trọng / Đạo lý (Formal / Traditional)"
+    },
+    {
+      "term": "Tình làng nghĩa xóm (Tinh lang nghia xom)",
+      "pronunciation": "[tïŋ˨˩ laːŋ˨˩ ŋiə˦ˀ˥ sɔm˧˦]",
+      "partOfSpeech": "Thành ngữ / Khái niệm xã hội (Idiom / Social Concept)",
+      "definition": "Village bond and neighborhood solidarity; warm mutual support, neighborly empathy, and collective care characteristic of traditional Vietnamese communal life.",
+      "category": "Văn hóa làng xã (Communal Culture)",
+      "level": "B2 / Trung-Cao cấp",
+      "examples": [
+        {
+          "target": "Tình làng nghĩa xóm tối lửa tắt đèn có nhau giúp cộng đồng vượt qua mọi gian khó.",
+          "translation": "Village affection and neighborhood bonds standing together in hardship help the community overcome all difficulties."
+        },
+        {
+          "target": "Dù cuộc sống hiện đại thay đổi, người dân quê tôi vẫn luôn giữ gìn tình làng nghĩa xóm.",
+          "translation": "Although modern life changes, people in my hometown always preserve warm neighborhood solidarity."
+        }
+      ],
+      "synonyms": [
+        "Tình làng nghĩa xóm",
+        "Tối lửa tắt đèn có nhau",
+        "Tình đồng hương"
+      ],
+      "register": "Thân mật / Văn hóa (Communal / Cultural)"
+    },
+    {
+      "term": "Hiếu thảo (Hieu thao)",
+      "pronunciation": "[hiəw˧˦ tʰaːw˧˩]",
+      "partOfSpeech": "Tính từ / Danh từ (Adjective / Noun)",
+      "definition": "Filial piety; wholehearted respect, love, devotion, and attentive care shown by children toward their parents and grandparents.",
+      "category": "Đạo hiếu và Gia đình (Family & Filial Piety)",
+      "level": "A2 / Cơ bản",
+      "examples": [
+        {
+          "target": "Một người con hiếu thảo luôn lắng nghe và chăm sóc cha mẹ khi tuổi già.",
+          "translation": "A filial child always listens to and cares for parents in their old age."
+        },
+        {
+          "target": "Lòng hiếu thảo được xem là gốc rễ của mọi phẩm hạnh tốt đẹp trong gia đình.",
+          "translation": "Filial devotion is regarded as the root of all fine virtues in the family."
+        }
+      ],
+      "synonyms": [
+        "Hiếu thuận",
+        "Hiếu kính",
+        "Hiếu tâm"
+      ],
+      "antonyms": [
+        "Bất hiếu (unfilial / disobedient)"
+      ],
+      "register": "Trang trọng / Đạo đức (Formal / Moral)"
+    },
+    {
+      "term": "Chân thành (Chan thanh)",
+      "pronunciation": "[tɕən˧˧ tʰïŋ˨˩]",
+      "partOfSpeech": "Tính từ (Adjective)",
+      "definition": "Sincere, heartfelt, genuine, honest without pretense or deception in feelings and human relations.",
+      "category": "Phẩm chất con người (Character & Virtues)",
+      "level": "A2 / Cơ bản",
+      "examples": [
+        {
+          "target": "Tôi xin gửi lời cảm ơn chân thành và sâu sắc nhất đến toàn thể quý vị.",
+          "translation": "I would like to send my most sincere and profound gratitude to all of you."
+        },
+        {
+          "target": "Một tình bạn bền vững luôn được xây dựng trên sự chân thành và tin cậy lẫn nhau.",
+          "translation": "An enduring friendship is always built upon mutual sincerity and trust."
+        }
+      ],
+      "synonyms": [
+        "Thành thật",
+        "Chân thực",
+        "Thành tâm"
+      ],
+      "antonyms": [
+        "Dối trá (deceitful)",
+        "Giả tạo"
+      ],
+      "register": "Phổ biến / Lịch sự (General / Polite)"
     }
   ],
   "turkish": [
