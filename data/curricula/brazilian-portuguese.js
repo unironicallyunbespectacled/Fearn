@@ -663,7 +663,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery (Bom dia! Tudo bem?)"
+    "title": "Unit 1, Lesson 1: Greet people appropriately at different times of day"
   },
   "pt-br-u1-l2": {
     "id": "pt-br-u1-l2",
@@ -872,7 +872,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Ela é feliz.)"
+    "title": "Unit 1, Lesson 2: Distinguish ser and estar at a basic level"
   },
   "pt-br-u1-l3": {
     "id": "pt-br-u1-l3",
@@ -1083,7 +1083,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Eu me chamo Ana. Qual é o seu )"
+    "title": "Unit 1, Lesson 3: Introduce yourself by name using me chamo"
   },
   "pt-br-u1-l4": {
     "id": "pt-br-u1-l4",
@@ -1293,7 +1293,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Eu sou brasileiro.)"
+    "title": "Unit 1, Lesson 4: Eu sou brasileiro."
   },
   "pt-br-u1-l5": {
     "id": "pt-br-u1-l5",
@@ -1506,7 +1506,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery (Boa tarde! Eu me chamo Marina.)"
+    "title": "Unit 1, Lesson 5: Combine greetings"
   },
   "pt-br-u2-l1": {
     "id": "pt-br-u2-l1",
@@ -1668,7 +1668,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1: Can count from 0 to 20 in Brazilian Portuguese"
   },
   "pt-br-u2-l2": {
     "id": "pt-br-u2-l2",
@@ -1829,7 +1829,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2: Can count from 21 to 100 in Brazilian Portuguese"
   },
   "pt-br-u2-l3": {
     "id": "pt-br-u2-l3",
@@ -1991,7 +1991,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "pt-br-u2-l4": {
     "id": "pt-br-u2-l4",
@@ -2153,7 +2153,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "pt-br-u2-l5": {
     "id": "pt-br-u2-l5",
@@ -2317,7 +2317,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "pt-br-u3-l1": {
     "id": "pt-br-u3-l1",
@@ -2478,7 +2478,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1"
   },
   "pt-br-u3-l2": {
     "id": "pt-br-u3-l2",
@@ -2639,7 +2639,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "pt-br-u3-l3": {
     "id": "pt-br-u3-l3",
@@ -2801,7 +2801,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "pt-br-u3-l4": {
     "id": "pt-br-u3-l4",
@@ -2962,7 +2962,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "pt-br-u3-l5": {
     "id": "pt-br-u3-l5",
@@ -3125,7 +3125,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "pt-br-u4-l1": {
     "id": "pt-br-u4-l1",
@@ -3286,7 +3286,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "pt-br-u4-l2": {
     "id": "pt-br-u4-l2",
@@ -3447,7 +3447,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "pt-br-u4-l3": {
     "id": "pt-br-u4-l3",
@@ -3609,7 +3609,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "pt-br-u4-l4": {
     "id": "pt-br-u4-l4",
@@ -3770,7 +3770,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4"
   },
   "pt-br-u4-l5": {
     "id": "pt-br-u4-l5",
@@ -3933,7 +3933,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5"
   },
   "pt-br-u5-l1": {
     "id": "pt-br-u5-l1",
@@ -4078,7 +4078,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (A que horas você acorda de man)"
+    "title": "Unit 5, Lesson 1: A que horas você acorda de man"
   },
   "pt-br-u5-l2": {
     "id": "pt-br-u5-l2",
@@ -4223,7 +4223,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Eu me levanto às seis, tomo um)"
+    "title": "Unit 5, Lesson 2: Eu me levanto às seis, tomo um"
   },
   "pt-br-u5-l3": {
     "id": "pt-br-u5-l3",
@@ -4368,7 +4368,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (De manhã eu faço café e vejo a)"
+    "title": "Unit 5, Lesson 3: De manhã eu faço café e vejo a"
   },
   "pt-br-u5-l4": {
     "id": "pt-br-u5-l4",
@@ -4513,7 +4513,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (Primeiro eu tomo café, e depoi)"
+    "title": "Unit 5, Lesson 4: Primeiro eu tomo café, e depoi"
   },
   "pt-br-u5-l5": {
     "id": "pt-br-u5-l5",
@@ -4658,7 +4658,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Tomar um café com pão na chapa)"
+    "title": "Unit 5, Lesson 5: Integrate clock times"
   },
   "pt-br-u6-l1": {
     "id": "pt-br-u6-l1",
@@ -4803,7 +4803,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Sábado é dia tradicional de co)"
+    "title": "Unit 6, Lesson 1: Identify and classify staple Brazilian food"
   },
   "pt-br-u6-l2": {
     "id": "pt-br-u6-l2",
@@ -4948,7 +4948,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Garçom, por favor, me vê um ch)"
+    "title": "Unit 6, Lesson 2: Order food politely in Brazilian botecos"
   },
   "pt-br-u6-l3": {
     "id": "pt-br-u6-l3",
@@ -5093,7 +5093,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Eu adoro picanha, mas não gost)"
+    "title": "Unit 6, Lesson 3: Express culinary preferences"
   },
   "pt-br-u6-l4": {
     "id": "pt-br-u6-l4",
@@ -5238,7 +5238,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (O pão de queijo acabou de sair)"
+    "title": "Unit 6, Lesson 4: Describe taste profiles"
   },
   "pt-br-u6-l5": {
     "id": "pt-br-u6-l5",
@@ -5383,7 +5383,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (É pra já! (Coming right up! / )"
+    "title": "Unit 6, Lesson 5: Synthesize food vocabulary"
   },
   "pt-br-u7-l1": {
     "id": "pt-br-u7-l1",
@@ -5522,7 +5522,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Ontem eu trabalhei até tarde n)"
+    "title": "Unit 7, Lesson 1: Conjugate regular -ar"
   },
   "pt-br-u7-l2": {
     "id": "pt-br-u7-l2",
@@ -5662,7 +5662,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (No fim de semana eu fui pro Ri)"
+    "title": "Unit 7, Lesson 2: No fim de semana eu fui pro Ri"
   },
   "pt-br-u7-l3": {
     "id": "pt-br-u7-l3",
@@ -5802,7 +5802,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Semana passada eu encontrei o )"
+    "title": "Unit 7, Lesson 3: Deploy Brazilian Portuguese temporal markers (ontem"
   },
   "pt-br-u7-l4": {
     "id": "pt-br-u7-l4",
@@ -5942,7 +5942,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (O show foi muito massa, a gale)"
+    "title": "Unit 7, Lesson 4: O show foi muito massa, a gale"
   },
   "pt-br-u7-l5": {
     "id": "pt-br-u7-l5",
@@ -6082,7 +6082,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Como foi a viagem pra Salvador)"
+    "title": "Unit 7, Lesson 5: Como foi a viagem pra Salvador"
   },
   "pt-br-u8-l1": {
     "id": "pt-br-u8-l1",
@@ -6222,7 +6222,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Procuro uma camisa de linho br)"
+    "title": "Unit 8, Lesson 1: Identify essential Brazilian Portuguese apparel"
   },
   "pt-br-u8-l2": {
     "id": "pt-br-u8-l2",
@@ -6362,7 +6362,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Quanto tá saindo essa jaqueta?)"
+    "title": "Unit 8, Lesson 2: Ask for prices with 'Quanto custa?' and 'Quanto tá saindo?'"
   },
   "pt-br-u8-l3": {
     "id": "pt-br-u8-l3",
@@ -6502,7 +6502,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Posso experimentar essa camisa)"
+    "title": "Unit 8, Lesson 3: Ask for clothing sizes (tamanho P/M/G/GG)"
   },
   "pt-br-u8-l4": {
     "id": "pt-br-u8-l4",
@@ -6642,7 +6642,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Na feira hippie de Ipanema o a)"
+    "title": "Unit 8, Lesson 4: Form comparisons of superiority (mais"
   },
   "pt-br-u8-l5": {
     "id": "pt-br-u8-l5",
@@ -6782,7 +6782,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (A camisa de linho vestiu super)"
+    "title": "Unit 8, Lesson 5: A camisa de linho vestiu super"
   },
   "pt-br-u9-l1": {
     "id": "pt-br-u9-l1",
@@ -6922,7 +6922,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Onde fica a estação de metrô m)"
+    "title": "Unit 9, Lesson 1: Onde fica a estação de metrô m"
   },
   "pt-br-u9-l2": {
     "id": "pt-br-u9-l2",
@@ -7062,7 +7062,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (A farmácia fica ao lado do ban)"
+    "title": "Unit 9, Lesson 2: A farmácia fica ao lado do ban"
   },
   "pt-br-u9-l3": {
     "id": "pt-br-u9-l3",
@@ -7202,7 +7202,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (Siga reto pela Avenida Paulist)"
+    "title": "Unit 9, Lesson 3: Siga reto pela Avenida Paulist"
   },
   "pt-br-u9-l4": {
     "id": "pt-br-u9-l4",
@@ -7342,7 +7342,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Caminhamos pela praia de Copac)"
+    "title": "Unit 9, Lesson 4: Caminhamos pela praia de Copac"
   },
   "pt-br-u9-l5": {
     "id": "pt-br-u9-l5",
@@ -7482,7 +7482,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Pegue a Linha 1 Azul, faça bal)"
+    "title": "Unit 9, Lesson 5: Pegue a Linha 1 Azul, faça bal"
   },
   "pt-br-u10-l1": {
     "id": "pt-br-u10-l1",
@@ -7617,7 +7617,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Moro num apê aconchegante pert)"
+    "title": "Unit 10, Lesson 1: Moro num apê aconchegante pert"
   },
   "pt-br-u10-l2": {
     "id": "pt-br-u10-l2",
@@ -7752,7 +7752,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Todo sábado de manhã a gente f)"
+    "title": "Unit 10, Lesson 2: Todo sábado de manhã a gente f"
   },
   "pt-br-u10-l3": {
     "id": "pt-br-u10-l3",
@@ -8020,7 +8020,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (Quando eu era pequeno, minha f)"
+    "title": "Unit 10, Lesson 4: Conjugate regular -er/-ir verbs (-ia"
   },
   "pt-br-u10-l5": {
     "id": "pt-br-u10-l5",
@@ -8155,7 +8155,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Integration Monologue: Welcomi)"
+    "title": "Unit 10, Lesson 5: Synthesize housing vocabulary"
   },
   "pt-br-u11-l1": {
     "id": "pt-br-u11-l1",
@@ -8242,7 +8242,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Lavo as mãos com água e sabone)"
+    "title": "Unit 11, Lesson 1: Lavo as mãos com água e sabone"
   },
   "pt-br-u11-l2": {
     "id": "pt-br-u11-l2",
@@ -8324,7 +8324,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (Acordei com muita dor de garga)"
+    "title": "Unit 11, Lesson 2: Expressar dores"
   },
   "pt-br-u11-l3": {
     "id": "pt-br-u11-l3",
@@ -8407,7 +8407,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 3: Foundational & Structural Mastery (Boa tarde! O senhor tem algum )"
+    "title": "Unit 11, Lesson 3: Boa tarde! O senhor tem algum"
   },
   "pt-br-u11-l4": {
     "id": "pt-br-u11-l4",
@@ -8489,7 +8489,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 4: Foundational & Structural Mastery (Todos os dias de manhã, caminh)"
+    "title": "Unit 11, Lesson 4: Conversar sobre estilo de vida saudável"
   },
   "pt-br-u11-l5": {
     "id": "pt-br-u11-l5",
@@ -8571,7 +8571,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Médico: \"Respire fundo... ótim)"
+    "title": "Unit 11, Lesson 5: Médico: \"Respire fundo... ótim"
   },
   "pt-br-u12-l1": {
     "id": "pt-br-u12-l1",
@@ -8653,7 +8653,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (Trabalho como analista de sist)"
+    "title": "Unit 12, Lesson 1: Nomear profissões"
   },
   "pt-br-u12-l2": {
     "id": "pt-br-u12-l2",
@@ -8735,7 +8735,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (Temos uma reunião de alinhamen)"
+    "title": "Unit 12, Lesson 2: Descrever a rotina do escritório"
   },
   "pt-br-u12-l3": {
     "id": "pt-br-u12-l3",
@@ -8817,7 +8817,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (Você está no mudo! Por favor, )"
+    "title": "Unit 12, Lesson 3: Vocabulário de informática"
   },
   "pt-br-u12-l4": {
     "id": "pt-br-u12-l4",
@@ -8899,7 +8899,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Prezada Mariana,\nSegue em anex)"
+    "title": "Unit 12, Lesson 4: Prezada Mariana,\nSegue em anex"
   },
   "pt-br-u12-l5": {
     "id": "pt-br-u12-l5",
@@ -8981,7 +8981,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 5: Foundational & Structural Mastery (Entrevistador: \"Por que você q)"
+    "title": "Unit 12, Lesson 5: Simular uma entrevista de emprego no Brasil"
   },
   "pt-br-u13-l1": {
     "id": "pt-br-u13-l1",
@@ -9063,7 +9063,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (No meu tempo livre, adoro anda)"
+    "title": "Unit 13, Lesson 1: Expressar passatempos"
   },
   "pt-br-u13-l2": {
     "id": "pt-br-u13-l2",
@@ -9145,7 +9145,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 2: Foundational & Structural Mastery (Fomos ao Maracanã assistir ao )"
+    "title": "Unit 13, Lesson 2: Cultura do futebol brasileiro"
   },
   "pt-br-u13-l3": {
     "id": "pt-br-u13-l3",
@@ -9227,7 +9227,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 3: Foundational & Structural Mastery (No domingo visitamos o MASP pa)"
+    "title": "Unit 13, Lesson 3: Gêneros musicais brasileiros (Samba"
   },
   "pt-br-u13-l4": {
     "id": "pt-br-u13-l4",
@@ -9309,7 +9309,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (—E aí, bora assistir ao jogo n)"
+    "title": "Unit 13, Lesson 4: Fazer convites"
   },
   "pt-br-u13-l5": {
     "id": "pt-br-u13-l5",
@@ -9391,7 +9391,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (O filme \"Central do Brasil\" é )"
+    "title": "Unit 13, Lesson 5: Escrever uma resenha e avaliação crítica sobre filmes"
   },
   "pt-br-u14-l1": {
     "id": "pt-br-u14-l1",
@@ -9473,7 +9473,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 1: Foundational & Structural Mastery (Por favor, tenha em mãos seu d)"
+    "title": "Unit 14, Lesson 1: Vocabulário de aeroportos brasileiros (Guarulhos"
   },
   "pt-br-u14-l2": {
     "id": "pt-br-u14-l2",
@@ -9719,7 +9719,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Amigo, pode completar o tanque)"
+    "title": "Unit 14, Lesson 4: Aluguel de carros no Brasil"
   },
   "pt-br-u14-l5": {
     "id": "pt-br-u14-l5",
@@ -9883,7 +9883,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 1: Foundational & Structural Mastery (Com licença, você tem essa cam)"
+    "title": "Unit 15, Lesson 1: Vocabulário de roupas"
   },
   "pt-br-u15-l2": {
     "id": "pt-br-u15-l2",
@@ -9965,7 +9965,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (Vou até o provador experimenta)"
+    "title": "Unit 15, Lesson 2: O provador"
   },
   "pt-br-u15-l3": {
     "id": "pt-br-u15-l3",
@@ -10048,7 +10048,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (Vou pagar no Pix com o QR code)"
+    "title": "Unit 15, Lesson 3: Liquidações no Brasil"
   },
   "pt-br-u15-l4": {
     "id": "pt-br-u15-l4",
@@ -10130,7 +10130,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 4: Foundational & Structural Mastery (No domingo fomos à feira livre)"
+    "title": "Unit 15, Lesson 4: Feiras livres de rua"
   },
   "pt-br-u15-l5": {
     "id": "pt-br-u15-l5",
@@ -10212,7 +10212,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (Gostaria de trocar esta jaquet)"
+    "title": "Unit 15, Lesson 5: Gostaria de trocar esta jaquet"
   },
   "pt-br-u16-l1": {
     "id": "pt-br-u16-l1",
@@ -10294,7 +10294,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (Hoje o dia será de muito sol e)"
+    "title": "Unit 16, Lesson 1: O clima tropical no Brasil"
   },
   "pt-br-u16-l2": {
     "id": "pt-br-u16-l2",
@@ -10376,7 +10376,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 2: Foundational & Structural Mastery (Na primavera, os ipês amarelos)"
+    "title": "Unit 16, Lesson 2: As estações do ano no Brasil"
   },
   "pt-br-u16-l3": {
     "id": "pt-br-u16-l3",
@@ -10458,7 +10458,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 3: Foundational & Structural Mastery (O Pantanal é o melhor lugar do)"
+    "title": "Unit 16, Lesson 3: Biomas e maravilhas naturais do Brasil (Floresta Amazônica"
   },
   "pt-br-u16-l4": {
     "id": "pt-br-u16-l4",
@@ -10540,7 +10540,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (A Defesa Civil emitiu alerta d)"
+    "title": "Unit 16, Lesson 4: Alertas da Defesa Civil"
   },
   "pt-br-u16-l5": {
     "id": "pt-br-u16-l5",
@@ -10622,7 +10622,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (Mais de oitenta e cinco por ce)"
+    "title": "Unit 16, Lesson 5: Matriz energética limpa no Brasil (hidrelétrica"
   },
   "pt-br-u17-l1": {
     "id": "pt-br-u17-l1",
@@ -10704,7 +10704,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Bom dia, doutor; estou com uma)"
+    "title": "Unit 17, Lesson 1: Partes do corpo humano"
   },
   "pt-br-u17-l2": {
     "id": "pt-br-u17-l2",
@@ -10786,7 +10786,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (Por favor, você tem a versão g)"
+    "title": "Unit 17, Lesson 2: A farmácia no Brasil (Droga Raia"
   },
   "pt-br-u17-l3": {
     "id": "pt-br-u17-l3",
@@ -10868,7 +10868,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (Ligue rápido para o um nove do)"
+    "title": "Unit 17, Lesson 3: O SAMU (192)"
   },
   "pt-br-u17-l4": {
     "id": "pt-br-u17-l4",
@@ -10950,7 +10950,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 4: Foundational & Structural Mastery (Depois de correr no calçadão d)"
+    "title": "Unit 17, Lesson 4: Cultura fitness brasileira"
   },
   "pt-br-u17-l5": {
     "id": "pt-br-u17-l5",
@@ -11114,7 +11114,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (Olá, gostaria de agendar uma v)"
+    "title": "Unit 18, Lesson 1: Aluguel de imóveis no Brasil (QuintoAndar"
   },
   "pt-br-u18-l2": {
     "id": "pt-br-u18-l2",
@@ -11196,7 +11196,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 2: Foundational & Structural Mastery (Nosso prédio é um condomínio-c)"
+    "title": "Unit 18, Lesson 2: A varanda gourmet com churrasqueira"
   },
   "pt-br-u18-l3": {
     "id": "pt-br-u18-l3",
@@ -11278,7 +11278,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 3: Foundational & Structural Mastery (Na assembleia de condomínio de)"
+    "title": "Unit 18, Lesson 3: A reunião de condomínio"
   },
   "pt-br-u18-l4": {
     "id": "pt-br-u18-l4",
@@ -11524,7 +11524,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (Fui contratado em regime CLT c)"
+    "title": "Unit 19, Lesson 1: O mercado de trabalho no Brasil (Gupy"
   },
   "pt-br-u19-l2": {
     "id": "pt-br-u19-l2",
@@ -11934,7 +11934,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 1: Foundational & Structural Mastery (Os rios voadores da Amazônia t)"
+    "title": "Unit 20, Lesson 1: The Amazon Biome"
   },
   "pt-br-u20-l2": {
     "id": "pt-br-u20-l2",
@@ -12180,7 +12180,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 4: Foundational & Structural Mastery (A agricultura sintrópica e os )"
+    "title": "Unit 20, Lesson 4: Agroforestry systems (SAFs)"
   },
   "pt-br-u20-l5": {
     "id": "pt-br-u20-l5",
@@ -12262,7 +12262,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (A realização da COP30 em Belém)"
+    "title": "Unit 20, Lesson 5: C2 synthesis on COP30 in Belém do Pará"
   },
   "pt-br-u21-l1": {
     "id": "pt-br-u21-l1",
@@ -12590,7 +12590,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 4: Foundational & Structural Mastery (O personagem Zé Gotinha transf)"
+    "title": "Unit 21, Lesson 4: Universal National Immunization Program (PNI)"
   },
   "pt-br-u21-l5": {
     "id": "pt-br-u21-l5",
@@ -12672,7 +12672,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 5: Foundational & Structural Mastery (O acelerador de elétrons Siriu)"
+    "title": "Unit 21, Lesson 5: O acelerador de elétrons Siriu"
   },
   "pt-br-u22-l1": {
     "id": "pt-br-u22-l1",
@@ -16772,7 +16772,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 5: Foundational & Structural Mastery (A cachaça de alambique envelhe)"
+    "title": "Unit 31, Lesson 5: C2 synthesis on Artisanal Cachaça"
   },
   "pt-br-u32-l1": {
     "id": "pt-br-u32-l1",

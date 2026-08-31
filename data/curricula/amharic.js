@@ -810,7 +810,7 @@
           "prompt": "What does «ስምሽ ማን ነው?» mean in English?",
           "options": [
             "What is your name?",
-            "What is your name? (Alternative variation)",
+            "What is your name? (Distractor variant)",
             "How are you?",
             "Good morning"
           ],

@@ -1,4 +1,4 @@
-// FEARN Curriculum Data — cs110
+// FEARN Curriculum Data — CS 110: Algorithms & Data Structures
 (function (global) {
   'use strict';
   var UNITS = [
@@ -225,7 +225,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 2: Foundational & Structural Mastery (Merge Sort Recurrence: T(n) = )"
+    "title": "Unit 1101, Lesson 2: Merge Sort Recurrence: T(n"
   },
   "cs110-u1-l3": {
     "id": "cs110-u1-l3",
@@ -307,7 +307,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 3: Foundational & Structural Mastery (For Strassen's matrix multipli)"
+    "title": "Unit 1101, Lesson 3: For Strassen's matrix multipli"
   },
   "cs110-u1-l4": {
     "id": "cs110-u1-l4",
@@ -389,7 +389,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 4: Foundational & Structural Mastery (In a dynamic array, assigning )"
+    "title": "Unit 1101, Lesson 4: Execute Amortized Complexity Analysis using Aggregate"
   },
   "cs110-u1-l5": {
     "id": "cs110-u1-l5",
@@ -471,7 +471,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 5: Foundational & Structural Mastery (BFPRT guarantees that the chos)"
+    "title": "Unit 1101, Lesson 5: Analyze Deterministic vs Randomized Selection"
   },
   "cs110-u1-l6": {
     "id": "cs110-u1-l6",
@@ -553,7 +553,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 1: Foundational & Structural Mastery (Information-theoretic lower bo)"
+    "title": "Unit 1101, Lesson 1: Information-theoretic lower bo"
   },
   "cs110-u5-l4": {
     "id": "cs110-u5-l4",
@@ -882,7 +882,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1105, Lesson 5: Foundational & Structural Mastery (Huffman Tree Construction:\n1. )"
+    "title": "Unit 1105, Lesson 5: Master Greedy Algorithms"
   },
   "cs110-u4-l4": {
     "id": "cs110-u4-l4",
@@ -1046,7 +1046,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 2: Foundational & Structural Mastery (The Rado-Edmonds theorem prove)"
+    "title": "Unit 1104, Lesson 2: Greedy Choice Property"
   },
   "cs110-u4-l2": {
     "id": "cs110-u4-l2",
@@ -1211,7 +1211,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 4: Foundational & Structural Mastery (Knapsack Recurrence:\nfor i = 1)"
+    "title": "Unit 1104, Lesson 4: Master Dynamic Programming principles"
   },
   "cs110-u3-l5": {
     "id": "cs110-u3-l5",
@@ -1375,7 +1375,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 1: Foundational & Structural Mastery (In a B-Tree of order B = 1000,)"
+    "title": "Unit 1103, Lesson 1: Implement 2-3-4 Trees"
   },
   "cs110-u3-l3": {
     "id": "cs110-u3-l3",
@@ -1457,7 +1457,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 2: Foundational & Structural Mastery (In an AVL tree of height h = 5)"
+    "title": "Unit 1103, Lesson 2: Examine AVL Trees"
   },
   "cs110-u3-l2": {
     "id": "cs110-u3-l2",
@@ -1622,7 +1622,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 4: Foundational & Structural Mastery (Tree Rotation Pointer Reassign)"
+    "title": "Unit 1103, Lesson 4: Master Red-Black Tree invariant properties"
   },
   "cs110-u2-l5": {
     "id": "cs110-u2-l5",
@@ -2032,7 +2032,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 4: Foundational & Structural Mastery (Selection Recurrence: T(n) = T)"
+    "title": "Unit 1102, Lesson 4: Selection Recurrence: T(n"
   },
   "cs110-u4-l5": {
     "id": "cs110-u4-l5",
@@ -2199,7 +2199,7 @@
     "title": "CS110 Master Capstone"
   }
 };
-  var CURRICULUM = { id: 'cs110', name: 'CS 110: Algorithms & Data Structures', units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'cs110', name: "CS 110: Algorithms & Data Structures", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['cs110'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

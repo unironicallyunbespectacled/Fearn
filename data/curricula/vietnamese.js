@@ -784,7 +784,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Chào anh! Em tên là Lan.)"
+    "title": "Unit 1, Lesson 2: Chào anh! Em tên là Lan."
   },
   "vi-u1-l3": {
     "id": "vi-u1-l3",
@@ -1021,7 +1021,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Bạn tên là gì?)"
+    "title": "Unit 1, Lesson 3: Introduce yourself with Tên tôi là / [pronoun] tên là"
   },
   "vi-u1-l4": {
     "id": "vi-u1-l4",
@@ -1234,7 +1234,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Bạn đến từ đâu?)"
+    "title": "Unit 1, Lesson 4: State your nationality with là người + nationality"
   },
   "vi-u1-l5": {
     "id": "vi-u1-l5",
@@ -1451,7 +1451,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery (Chị ơi! Cho em một tô phở.)"
+    "title": "Unit 1, Lesson 5: Combine tones"
   },
   "vi-u2-l1": {
     "id": "vi-u2-l1",
@@ -1612,7 +1612,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1: Can count from 0 to 20 in Vietnamese with correct tones"
   },
   "vi-u2-l2": {
     "id": "vi-u2-l2",
@@ -1772,7 +1772,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2: Can count from 21 to 100+ in Vietnamese"
   },
   "vi-u2-l3": {
     "id": "vi-u2-l3",
@@ -1933,7 +1933,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3: Can ask and tell time in Vietnamese using 'Mấy giờ rồi?'"
   },
   "vi-u2-l4": {
     "id": "vi-u2-l4",
@@ -2095,7 +2095,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "vi-u2-l5": {
     "id": "vi-u2-l5",
@@ -2259,7 +2259,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "vi-u3-l1": {
     "id": "vi-u3-l1",
@@ -2420,7 +2420,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Identify immediate family members in Vietnamese (bố/ba"
   },
   "vi-u3-l2": {
     "id": "vi-u3-l2",
@@ -2581,7 +2581,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "vi-u3-l3": {
     "id": "vi-u3-l3",
@@ -2743,7 +2743,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "vi-u3-l4": {
     "id": "vi-u3-l4",
@@ -2904,7 +2904,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4: Describe people using stative verbs/adjectives (cao"
   },
   "vi-u3-l5": {
     "id": "vi-u3-l5",
@@ -3067,7 +3067,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "vi-u4-l1": {
     "id": "vi-u4-l1",
@@ -3212,7 +3212,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery (Tôi ăn cơm.)"
+    "title": "Unit 4, Lesson 1: Tôi ăn cơm."
   },
   "vi-u4-l2": {
     "id": "vi-u4-l2",
@@ -3355,7 +3355,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery (Tôi đang ăn tối.)"
+    "title": "Unit 4, Lesson 2: Tôi đang ăn tối."
   },
   "vi-u4-l3": {
     "id": "vi-u4-l3",
@@ -3499,7 +3499,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery (Tôi không uống rượu.)"
+    "title": "Unit 4, Lesson 3: Tôi không uống rượu."
   },
   "vi-u4-l4": {
     "id": "vi-u4-l4",
@@ -3644,7 +3644,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery (Tôi muốn học tiếng Việt để đi )"
+    "title": "Unit 4, Lesson 4: Express desires"
   },
   "vi-u4-l5": {
     "id": "vi-u4-l5",
@@ -3789,7 +3789,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery (Buổi sáng tôi thức dậy, uống c)"
+    "title": "Unit 4, Lesson 5: Integrate present verbs"
   },
   "vi-u5-l1": {
     "id": "vi-u5-l1",
@@ -3934,7 +3934,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (Bây giờ là mấy giờ? — Bây giờ )"
+    "title": "Unit 5, Lesson 1: Tell exact clock time using 'giờ'"
   },
   "vi-u5-l2": {
     "id": "vi-u5-l2",
@@ -4079,7 +4079,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Tôi thức dậy, đánh răng và rửa)"
+    "title": "Unit 5, Lesson 2: Tôi thức dậy, đánh răng và rửa"
   },
   "vi-u5-l3": {
     "id": "vi-u5-l3",
@@ -4224,7 +4224,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (Trước khi đi ngủ, tôi luôn đọc)"
+    "title": "Unit 5, Lesson 3: Trước khi đi ngủ, tôi luôn đọc"
   },
   "vi-u5-l4": {
     "id": "vi-u5-l4",
@@ -4369,7 +4369,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (Cho tôi một ly cà phê sữa đá v)"
+    "title": "Unit 5, Lesson 4: Apply core Vietnamese noun classifiers (cái"
   },
   "vi-u5-l5": {
     "id": "vi-u5-l5",
@@ -4513,7 +4513,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Mỗi buổi sáng tôi chạy bộ quan)"
+    "title": "Unit 5, Lesson 5: Synthesize clock times"
   },
   "vi-u6-l1": {
     "id": "vi-u6-l1",
@@ -4658,7 +4658,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Cho tôi một bát phở bò tái và )"
+    "title": "Unit 6, Lesson 1: Identify and classify staple Vietnamese food"
   },
   "vi-u6-l2": {
     "id": "vi-u6-l2",
@@ -4803,7 +4803,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Em ơi, cho anh một suất bún ch)"
+    "title": "Unit 6, Lesson 2: Em ơi, cho anh một suất bún ch"
   },
   "vi-u6-l3": {
     "id": "vi-u6-l3",
@@ -4948,7 +4948,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Cho tôi một ly cà phê sữa đá, )"
+    "title": "Unit 6, Lesson 3: Customize food and drink orders with dietary restrictions"
   },
   "vi-u6-l4": {
     "id": "vi-u6-l4",
@@ -5093,7 +5093,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Nước dùng phở rất đậm đà, thơm)"
+    "title": "Unit 6, Lesson 4: Describe taste profiles"
   },
   "vi-u6-l5": {
     "id": "vi-u6-l5",
@@ -5238,7 +5238,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Bún chả nướng than hoa ăn kèm )"
+    "title": "Unit 6, Lesson 5: Synthesize food vocabulary"
   },
   "vi-u7-l1": {
     "id": "vi-u7-l1",
@@ -5377,7 +5377,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Hôm qua tôi đã đi du lịch Đà N)"
+    "title": "Unit 7, Lesson 1: Hôm qua tôi đã đi du lịch Đà N"
   },
   "vi-u7-l2": {
     "id": "vi-u7-l2",
@@ -5516,7 +5516,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Em ơi, anh đã thanh toán tiền )"
+    "title": "Unit 7, Lesson 2: Em ơi, anh đã thanh toán tiền"
   },
   "vi-u7-l3": {
     "id": "vi-u7-l3",
@@ -5655,7 +5655,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Anh ăn tối chưa? — Anh ăn rồi,)"
+    "title": "Unit 7, Lesson 3: Anh ăn tối chưa? — Anh ăn rồi,"
   },
   "vi-u7-l4": {
     "id": "vi-u7-l4",
@@ -5795,7 +5795,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Cách đây hai ngày chúng tôi ba)"
+    "title": "Unit 7, Lesson 4: Deploy Vietnamese past time adverbials (hôm qua"
   },
   "vi-u7-l5": {
     "id": "vi-u7-l5",
@@ -5935,7 +5935,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Chuyến đi Đà Nẵng cuối tuần vừ)"
+    "title": "Unit 7, Lesson 5: Chuyến đi Đà Nẵng cuối tuần vừ"
   },
   "vi-u8-l1": {
     "id": "vi-u8-l1",
@@ -6075,7 +6075,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Tôi đang tìm một cái áo sơ mi )"
+    "title": "Unit 8, Lesson 1: Identify essential Vietnamese apparel"
   },
   "vi-u8-l2": {
     "id": "vi-u8-l2",
@@ -6215,7 +6215,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Cái áo khoác này bao nhiêu tiề)"
+    "title": "Unit 8, Lesson 2: Cái áo khoác này bao nhiêu tiề"
   },
   "vi-u8-l3": {
     "id": "vi-u8-l3",
@@ -6355,7 +6355,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Em thích cái áo màu trắng này )"
+    "title": "Unit 8, Lesson 3: Em thích cái áo màu trắng này"
   },
   "vi-u8-l4": {
     "id": "vi-u8-l4",
@@ -6496,7 +6496,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Áo khoác này dày và ấm hơn áo )"
+    "title": "Unit 8, Lesson 4: Áo khoác này dày và ấm hơn áo"
   },
   "vi-u8-l5": {
     "id": "vi-u8-l5",
@@ -6636,7 +6636,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Xấp lụa xanh ngọc này mềm mịn )"
+    "title": "Unit 8, Lesson 5: Xấp lụa xanh ngọc này mềm mịn"
   },
   "vi-u9-l1": {
     "id": "vi-u9-l1",
@@ -6777,7 +6777,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Từ ga Hà Nội đến Hồ Hoàn Kiếm )"
+    "title": "Unit 9, Lesson 1: Identify essential Vietnamese urban transit modes"
   },
   "vi-u9-l2": {
     "id": "vi-u9-l2",
@@ -6917,7 +6917,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (Nhà thờ Lớn Hà Nội nằm ở đối d)"
+    "title": "Unit 9, Lesson 2: Nhà thờ Lớn Hà Nội nằm ở đối d"
   },
   "vi-u9-l3": {
     "id": "vi-u9-l3",
@@ -7058,7 +7058,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (Bạn đi thẳng phố Đinh Tiên Hoà)"
+    "title": "Unit 9, Lesson 3: Bạn đi thẳng phố Đinh Tiên Hoà"
   },
   "vi-u9-l4": {
     "id": "vi-u9-l4",
@@ -7339,7 +7339,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Đi thẳng phố Lê Thái Tổ, rẽ ph)"
+    "title": "Unit 9, Lesson 5: Đi thẳng phố Lê Thái Tổ, rẽ ph"
   },
   "vi-u10-l1": {
     "id": "vi-u10-l1",
@@ -7474,7 +7474,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Căn hộ mới của tôi có hai phòn)"
+    "title": "Unit 10, Lesson 1: Căn hộ mới của tôi có hai phòn"
   },
   "vi-u10-l2": {
     "id": "vi-u10-l2",
@@ -7609,7 +7609,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Sáng nào tôi cũng quét nhà và )"
+    "title": "Unit 10, Lesson 2: Sáng nào tôi cũng quét nhà và"
   },
   "vi-u10-l3": {
     "id": "vi-u10-l3",
@@ -7744,7 +7744,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Trong phòng khách có một bộ bà)"
+    "title": "Unit 10, Lesson 3: Trong phòng khách có một bộ bà"
   },
   "vi-u10-l4": {
     "id": "vi-u10-l4",
@@ -7879,7 +7879,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (Cạnh tủ quần áo có một cái gươ)"
+    "title": "Unit 10, Lesson 4: Express spatial placement"
   },
   "vi-u10-l5": {
     "id": "vi-u10-l5",
@@ -8014,7 +8014,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Integration Monologue: Welcomi)"
+    "title": "Unit 10, Lesson 5: Synthesize Vietnamese housing vocabulary"
   },
   "vi-u11-l1": {
     "id": "vi-u11-l1",
@@ -8104,7 +8104,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Rửa tay bằng xà phòng sạch sẽ )"
+    "title": "Unit 11, Lesson 1: Rửa tay bằng xà phòng sạch sẽ"
   },
   "vi-u11-l2": {
     "id": "vi-u11-l2",
@@ -8186,7 +8186,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (Từ sáng nay tôi bị sốt 38 độ r)"
+    "title": "Unit 11, Lesson 2: Bày tỏ triệu chứng bệnh và cơn đau sử dụng cấu trúc \"bị đau"
   },
   "vi-u11-l3": {
     "id": "vi-u11-l3",
@@ -8269,7 +8269,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 3: Foundational & Structural Mastery (Chào dược sĩ, bán cho tôi vỉ t)"
+    "title": "Unit 11, Lesson 3: Chào dược sĩ, bán cho tôi vỉ t"
   },
   "vi-u11-l4": {
     "id": "vi-u11-l4",
@@ -8351,7 +8351,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 4: Foundational & Structural Mastery (Mỗi sáng tôi dậy sớm đi bộ qua)"
+    "title": "Unit 11, Lesson 4: Trò chuyện về lối sống lành mạnh"
   },
   "vi-u11-l5": {
     "id": "vi-u11-l5",
@@ -8433,7 +8433,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Bác sĩ: \"Hãy thở sâu vào... tố)"
+    "title": "Unit 11, Lesson 5: Bác sĩ: \"Hãy thở sâu vào... tố"
   },
   "vi-u12-l1": {
     "id": "vi-u12-l1",
@@ -8515,7 +8515,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (Tôi làm việc với vai trò là kỹ)"
+    "title": "Unit 12, Lesson 1: Học từ vựng về các ngành nghề"
   },
   "vi-u12-l2": {
     "id": "vi-u12-l2",
@@ -8597,7 +8597,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (Chúng tôi có cuộc họp đầu tuần)"
+    "title": "Unit 12, Lesson 2: Mô tả công việc hàng ngày ở văn phòng"
   },
   "vi-u12-l3": {
     "id": "vi-u12-l3",
@@ -8679,7 +8679,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (Bạn đang tắt mic rồi! Vui lòng)"
+    "title": "Unit 12, Lesson 3: Từ vựng công nghệ thông tin"
   },
   "vi-u12-l4": {
     "id": "vi-u12-l4",
@@ -8761,7 +8761,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Kính gửi Anh Tuấn,\nTôi xin gửi)"
+    "title": "Unit 12, Lesson 4: Kính gửi Anh Tuấn,\nTôi xin gửi"
   },
   "vi-u12-l5": {
     "id": "vi-u12-l5",
@@ -8843,7 +8843,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 5: Foundational & Structural Mastery (Nhà tuyển dụng: \"Tại sao bạn m)"
+    "title": "Unit 12, Lesson 5: Thực hành phỏng vấn tuyển dụng"
   },
   "vi-u13-l1": {
     "id": "vi-u13-l1",
@@ -8925,7 +8925,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (Vào thời gian rảnh, tôi rất th)"
+    "title": "Unit 13, Lesson 1: Bày tỏ sở thích"
   },
   "vi-u13-l2": {
     "id": "vi-u13-l2",
@@ -9007,7 +9007,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 2: Foundational & Structural Mastery (Chúng tôi đến Sân vận động Mỹ )"
+    "title": "Unit 13, Lesson 2: Văn hóa thể thao Việt Nam"
   },
   "vi-u13-l3": {
     "id": "vi-u13-l3",
@@ -9089,7 +9089,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 3: Foundational & Structural Mastery (Tối qua chúng tôi đã thưởng th)"
+    "title": "Unit 13, Lesson 3: Âm nhạc"
   },
   "vi-u13-l4": {
     "id": "vi-u13-l4",
@@ -9171,7 +9171,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (—Tối nay có rảnh không, đi trà)"
+    "title": "Unit 13, Lesson 4: Rủ bạn bè đi chơi"
   },
   "vi-u13-l5": {
     "id": "vi-u13-l5",
@@ -9253,7 +9253,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (Bộ phim \"Tôi thấy hoa vàng trê)"
+    "title": "Unit 13, Lesson 5: Viết bài đánh giá"
   },
   "vi-u14-l1": {
     "id": "vi-u14-l1",
@@ -9335,7 +9335,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 1: Foundational & Structural Mastery (Quý khách vui lòng chuẩn bị sẵ)"
+    "title": "Unit 14, Lesson 1: Từ vựng sân bay tại Việt Nam (Sân bay Nội Bài"
   },
   "vi-u14-l2": {
     "id": "vi-u14-l2",
@@ -9581,7 +9581,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Anh ơi, cho em đổ đầy bình xăn)"
+    "title": "Unit 14, Lesson 4: Thuê xe máy / ô tô tự lái tại Việt Nam"
   },
   "vi-u14-l5": {
     "id": "vi-u14-l5",
@@ -9745,7 +9745,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 1: Foundational & Structural Mastery (Em ơi, cho anh xem chiếc áo sơ)"
+    "title": "Unit 15, Lesson 1: Từ vựng về trang phục"
   },
   "vi-u15-l2": {
     "id": "vi-u15-l2",
@@ -9827,7 +9827,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (Để mình vào phòng thử đồ thử c)"
+    "title": "Unit 15, Lesson 2: Phòng thử đồ"
   },
   "vi-u15-l3": {
     "id": "vi-u15-l3",
@@ -9909,7 +9909,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (Em ơi, cho anh quét mã QR chuy)"
+    "title": "Unit 15, Lesson 3: Mùa giảm giá (Sale off)"
   },
   "vi-u15-l4": {
     "id": "vi-u15-l4",
@@ -9991,7 +9991,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 4: Foundational & Structural Mastery (Chúng tôi dạo quanh chợ Bến Th)"
+    "title": "Unit 15, Lesson 4: Chợ truyền thống và chợ đêm Việt Nam (Chợ Đồng Xuân"
   },
   "vi-u15-l5": {
     "id": "vi-u15-l5",
@@ -10073,7 +10073,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (Tôi muốn đổi chiếc váy này san)"
+    "title": "Unit 15, Lesson 5: Chính sách đổi trả"
   },
   "vi-u16-l1": {
     "id": "vi-u16-l1",
@@ -10156,7 +10156,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (Dự báo thời tiết cho biết ngày)"
+    "title": "Unit 16, Lesson 1: Thời tiết"
   },
   "vi-u16-l2": {
     "id": "vi-u16-l2",
@@ -10238,7 +10238,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 2: Foundational & Structural Mastery (Vào mùa thu, những thửa ruộng )"
+    "title": "Unit 16, Lesson 2: Bốn mùa miền Bắc"
   },
   "vi-u16-l3": {
     "id": "vi-u16-l3",
@@ -10402,7 +10402,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (Ban chỉ huy phòng chống thiên )"
+    "title": "Unit 16, Lesson 4: Trung tâm Dự báo Khí tượng Thủy văn Quốc gia"
   },
   "vi-u16-l5": {
     "id": "vi-u16-l5",
@@ -10485,7 +10485,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (Việt Nam đang dẫn đầu khu vực )"
+    "title": "Unit 16, Lesson 5: Việt Nam đang dẫn đầu khu vực"
   },
   "vi-u17-l1": {
     "id": "vi-u17-l1",
@@ -10567,7 +10567,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Chào bác sĩ, từ hôm qua đến gi)"
+    "title": "Unit 17, Lesson 1: Các bộ phận cơ thể"
   },
   "vi-u17-l2": {
     "id": "vi-u17-l2",
@@ -10649,7 +10649,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (Dược sĩ ơi, bán cho tôi một vỉ)"
+    "title": "Unit 17, Lesson 2: Nhà thuốc tại Việt Nam (Pharmacity"
   },
   "vi-u17-l3": {
     "id": "vi-u17-l3",
@@ -10731,7 +10731,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (Gọi ngay một một năm đi! Có ng)"
+    "title": "Unit 17, Lesson 3: Cấp cứu y tế 115"
   },
   "vi-u17-l4": {
     "id": "vi-u17-l4",
@@ -10977,7 +10977,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (Chào anh, tôi muốn hỏi thuê că)"
+    "title": "Unit 18, Lesson 1: Thuê nhà và căn hộ tại Việt Nam (Batdongsan"
   },
   "vi-u18-l2": {
     "id": "vi-u18-l2",
@@ -11059,7 +11059,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 2: Foundational & Structural Mastery (Ngôi nhà ống bốn tầng được thi)"
+    "title": "Unit 18, Lesson 2: Nhà ống đô thị Việt Nam (nhà mặt phố nhiều tầng)"
   },
   "vi-u18-l3": {
     "id": "vi-u18-l3",
@@ -11141,7 +11141,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 3: Foundational & Structural Mastery (Mái nhà Rông sừng sững giữa bu)"
+    "title": "Unit 18, Lesson 3: Mái nhà Rông sừng sững giữa bu"
   },
   "vi-u18-l4": {
     "id": "vi-u18-l4",
@@ -11387,7 +11387,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (Tôi vừa ký hợp đồng lao động c)"
+    "title": "Unit 19, Lesson 1: Thị trường việc làm tại Việt Nam (VietnamWorks"
   },
   "vi-u19-l2": {
     "id": "vi-u19-l2",
@@ -11797,7 +11797,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 1: Foundational & Structural Mastery (Hang Sơn Đoòng tại Vườn quốc g)"
+    "title": "Unit 20, Lesson 1: Vietnamese karst topography"
   },
   "vi-u20-l2": {
     "id": "vi-u20-l2",
@@ -11879,7 +11879,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 2: Foundational & Structural Mastery (Ninh Thuận đã trở thành thủ ph)"
+    "title": "Unit 20, Lesson 2: Vietnam's solar and wind renewable boom in Ninh Thuận"
   },
   "vi-u20-l3": {
     "id": "vi-u20-l3",
@@ -12125,7 +12125,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (Cam kết mạnh mẽ của Việt Nam v)"
+    "title": "Unit 20, Lesson 5: C2 synthesis on Vietnam's COP26 Net-Zero 2050 commitment"
   },
   "vi-u21-l1": {
     "id": "vi-u21-l1",
@@ -14995,7 +14995,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 27, Lesson 5: Foundational & Structural Mastery (Nhà hát Thành phố Hồ Chí Minh )"
+    "title": "Unit 27, Lesson 5: Nhà hát Thành phố Hồ Chí Minh"
   },
   "vi-u28-l1": {
     "id": "vi-u28-l1",
@@ -16635,7 +16635,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 5: Foundational & Structural Mastery (Ẩm thực Huế thăng hoa với cơm )"
+    "title": "Unit 31, Lesson 5: Ẩm thực Huế thăng hoa với cơm"
   },
   "vi-u32-l1": {
     "id": "vi-u32-l1",

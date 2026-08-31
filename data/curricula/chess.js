@@ -210,7 +210,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 1"
   },
   "chess-u1-l2": {
     "id": "chess-u1-l2",
@@ -270,7 +270,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 2"
   },
   "chess-u1-l3": {
     "id": "chess-u1-l3",
@@ -336,7 +336,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 3"
   },
   "chess-u1-l4": {
     "id": "chess-u1-l4",
@@ -402,7 +402,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 4: Identify forks delivered by bishops"
   },
   "chess-u1-l5": {
     "id": "chess-u1-l5",
@@ -458,7 +458,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 5"
   },
   "chess-u2-l1": {
     "id": "chess-u2-l1",
@@ -523,7 +523,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1"
   },
   "chess-u2-l2": {
     "id": "chess-u2-l2",
@@ -575,7 +575,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2"
   },
   "chess-u2-l3": {
     "id": "chess-u2-l3",
@@ -621,7 +621,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "chess-u2-l4": {
     "id": "chess-u2-l4",
@@ -660,7 +660,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "chess-u2-l5": {
     "id": "chess-u2-l5",
@@ -706,7 +706,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5: Solve mixed pin puzzles combining absolute pins"
   },
   "chess-u3-l1": {
     "id": "chess-u3-l1",
@@ -773,7 +773,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1"
   },
   "chess-u3-l2": {
     "id": "chess-u3-l2",
@@ -841,7 +841,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "chess-u3-l3": {
     "id": "chess-u3-l3",
@@ -902,7 +902,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "chess-u3-l4": {
     "id": "chess-u3-l4",
@@ -963,7 +963,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "chess-u3-l5": {
     "id": "chess-u3-l5",
@@ -1019,7 +1019,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5: Solve a mixed skewer puzzle set under time pressure"
   },
   "chess-u4-l1": {
     "id": "chess-u4-l1",
@@ -1086,7 +1086,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "chess-u4-l2": {
     "id": "chess-u4-l2",
@@ -1160,7 +1160,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "chess-u4-l3": {
     "id": "chess-u4-l3",
@@ -1228,7 +1228,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "chess-u4-l4": {
     "id": "chess-u4-l4",
@@ -1289,7 +1289,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4"
   },
   "chess-u4-l5": {
     "id": "chess-u4-l5",
@@ -1354,7 +1354,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5"
   },
   "chess-u5-l1": {
     "id": "chess-u5-l1",
@@ -1408,7 +1408,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 1"
   },
   "chess-u5-l2": {
     "id": "chess-u5-l2",
@@ -1455,7 +1455,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 2"
   },
   "chess-u5-l3": {
     "id": "chess-u5-l3",
@@ -1503,7 +1503,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 3"
   },
   "chess-u5-l4": {
     "id": "chess-u5-l4",
@@ -1557,7 +1557,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 4"
   },
   "chess-u5-l5": {
     "id": "chess-u5-l5",
@@ -1605,7 +1605,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 5"
   },
   "chess-u6-l1": {
     "id": "chess-u6-l1",
@@ -1674,7 +1674,7 @@
         }
       ]
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 6, Lesson 1: Calculate forcing sequences (checks"
   },
   "chess-u6-l2": {
     "id": "chess-u6-l2",
@@ -1737,7 +1737,7 @@
         }
       ]
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 6, Lesson 2"
   },
   "chess-u6-l3": {
     "id": "chess-u6-l3",
@@ -1792,7 +1792,7 @@
         }
       ]
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 6, Lesson 3"
   },
   "chess-u6-l4": {
     "id": "chess-u6-l4",
@@ -1853,7 +1853,7 @@
         }
       ]
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 6, Lesson 4"
   },
   "chess-u6-l5": {
     "id": "chess-u6-l5",
@@ -1916,7 +1916,7 @@
         }
       ]
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 6, Lesson 5"
   },
   "chess-u8-l1": {
     "id": "chess-u8-l1",
@@ -2051,7 +2051,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Classic d5 Outpost against Sic)"
+    "title": "Unit 8, Lesson 1: Identify weak squares"
   },
   "chess-u8-l2": {
     "id": "chess-u8-l2",
@@ -2186,7 +2186,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Akiba Rubinstein's Masterclass)"
+    "title": "Unit 8, Lesson 2: Akiba Rubinstein's Masterclass"
   },
   "chess-u8-l3": {
     "id": "chess-u8-l3",
@@ -2321,7 +2321,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (French Defense Bad Bishop on c)"
+    "title": "Unit 8, Lesson 3: Differentiate piece activity from passive defense"
   },
   "chess-u8-l4": {
     "id": "chess-u8-l4",
@@ -2456,7 +2456,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Alekhine's Gun: Alexander Alek)"
+    "title": "Unit 8, Lesson 4: Alekhine's Gun: Alexander Alek"
   },
   "chess-u8-l5": {
     "id": "chess-u8-l5",
@@ -2591,7 +2591,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Anatoly Karpov vs. Boris Spass)"
+    "title": "Unit 8, Lesson 5: Anatoly Karpov vs. Boris Spass"
   },
   "chess-u9-l1": {
     "id": "chess-u9-l1",
@@ -2720,7 +2720,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Ruy Lopez Classical Knight Man)"
+    "title": "Unit 9, Lesson 1: Master classical 1"
   },
   "chess-u9-l2": {
     "id": "chess-u9-l2",
@@ -2849,7 +2849,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (The English Attack in the Sici)"
+    "title": "Unit 9, Lesson 2: The English Attack in the Sici"
   },
   "chess-u9-l3": {
     "id": "chess-u9-l3",
@@ -2978,7 +2978,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (The Minority Attack in the Car)"
+    "title": "Unit 9, Lesson 3: Master classical 1"
   },
   "chess-u9-l4": {
     "id": "chess-u9-l4",
@@ -3107,7 +3107,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (The King's Indian Mar del Plat)"
+    "title": "Unit 9, Lesson 4: Master hypermodern responses to 1"
   },
   "chess-u9-l5": {
     "id": "chess-u9-l5",
@@ -3236,7 +3236,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Transposition Path: 1.Nf3 d5 2)"
+    "title": "Unit 9, Lesson 5: Transposition Path: 1.Nf3 d5 2"
   },
   "chess-u10-l1": {
     "id": "chess-u10-l1",
@@ -3365,7 +3365,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Candidate Tree Generation: Pos)"
+    "title": "Unit 10, Lesson 1: Master Alexander Kotov's Tree of Calculation methodology"
   },
   "chess-u10-l2": {
     "id": "chess-u10-l2",
@@ -3494,7 +3494,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Prophylactic Pawn Move: White )"
+    "title": "Unit 10, Lesson 2: Prophylactic Pawn Move: White"
   },
   "chess-u10-l3": {
     "id": "chess-u10-l3",
@@ -3623,7 +3623,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Petrosian vs. Reshevsky (Zuric)"
+    "title": "Unit 10, Lesson 3: Petrosian vs. Reshevsky (Zuric"
   },
   "chess-u10-l4": {
     "id": "chess-u10-l4",
@@ -3752,7 +3752,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (Knight Route Calculation: Knig)"
+    "title": "Unit 10, Lesson 4: Develop blindfold chess visualization skills"
   },
   "chess-u10-l5": {
     "id": "chess-u10-l5",
@@ -3881,7 +3881,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Full Capstone Mastery: Synthes)"
+    "title": "Unit 10, Lesson 5: Full Capstone Mastery: Synthes"
   },
   "chess-u7-l1": {
     "id": "chess-u7-l1",
@@ -4015,7 +4015,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (White: Ke5, e4. Black: Ke7. Wh)"
+    "title": "Unit 7, Lesson 1: Master direct"
   },
   "chess-u7-l2": {
     "id": "chess-u7-l2",
@@ -4147,7 +4147,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Pawn on c4, promotion square c)"
+    "title": "Unit 7, Lesson 2: Pawn on c4, promotion square c"
   },
   "chess-u7-l3": {
     "id": "chess-u7-l3",
@@ -4281,7 +4281,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Lucena Position: White Ke8, Pe)"
+    "title": "Unit 7, Lesson 3: Lucena Position: White Ke8, Pe"
   },
   "chess-u7-l4": {
     "id": "chess-u7-l4",
@@ -4415,7 +4415,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Philidor Defense: White Ke5, P)"
+    "title": "Unit 7, Lesson 4: Philidor Defense: White Ke5, P"
   },
   "chess-u7-l5": {
     "id": "chess-u7-l5",
@@ -4549,7 +4549,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (White Kh5, Pg4 vs. Black Kf7: )"
+    "title": "Unit 7, Lesson 5: White Kh5, Pg4 vs. Black Kf7:"
   }
 };
   var CURRICULUM = { id: 'chess', name: "chess", units: UNITS, lessons: LESSONS };

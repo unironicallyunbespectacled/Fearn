@@ -627,7 +627,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery (Nico: ¡Che, Flor! ¿Todo bien?)"
+    "title": "Unit 1, Lesson 1: Greet people the Rioplatense way using che and hola"
   },
   "es-ar-u1-l2": {
     "id": "es-ar-u1-l2",
@@ -838,7 +838,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Flor: ¿Cómo estás, Nico?)"
+    "title": "Unit 1, Lesson 2: Flor: ¿Cómo estás, Nico?"
   },
   "es-ar-u1-l3": {
     "id": "es-ar-u1-l3",
@@ -1050,7 +1050,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Nico: ¿Cómo te llamás?)"
+    "title": "Unit 1, Lesson 3: Nico: ¿Cómo te llamás?"
   },
   "es-ar-u1-l4": {
     "id": "es-ar-u1-l4",
@@ -1269,7 +1269,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Flor: ¿De dónde sos, Nico?)"
+    "title": "Unit 1, Lesson 4: Flor: ¿De dónde sos, Nico?"
   },
   "es-ar-u1-l5": {
     "id": "es-ar-u1-l5",
@@ -1497,7 +1497,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery (Tomás: ¡Che, hola! ¿Todo bien?)"
+    "title": "Unit 1, Lesson 5: Combine greetings"
   },
   "es-ar-u2-l1": {
     "id": "es-ar-u2-l1",
@@ -1726,7 +1726,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery (Tomás: ¿Cuántos años tenés, Ca)"
+    "title": "Unit 2, Lesson 1: Count from zero to veinte"
   },
   "es-ar-u2-l2": {
     "id": "es-ar-u2-l2",
@@ -1961,7 +1961,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery (Cande: ¿Cuánto cuesta el kilo )"
+    "title": "Unit 2, Lesson 2: Count in tens from veinte to cien"
   },
   "es-ar-u2-l3": {
     "id": "es-ar-u2-l3",
@@ -2122,7 +2122,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "es-ar-u2-l4": {
     "id": "es-ar-u2-l4",
@@ -2283,7 +2283,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "es-ar-u2-l5": {
     "id": "es-ar-u2-l5",
@@ -2446,7 +2446,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "es-ar-u3-l1": {
     "id": "es-ar-u3-l1",
@@ -2607,7 +2607,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1"
   },
   "es-ar-u3-l2": {
     "id": "es-ar-u3-l2",
@@ -2769,7 +2769,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2: Master the Argentine discourse particle 'che' (origin"
   },
   "es-ar-u3-l3": {
     "id": "es-ar-u3-l3",
@@ -2930,7 +2930,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "es-ar-u3-l4": {
     "id": "es-ar-u3-l4",
@@ -3092,7 +3092,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4: Describe people and relatives using Ser vs Estar"
   },
   "es-ar-u3-l5": {
     "id": "es-ar-u3-l5",
@@ -3255,7 +3255,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "es-ar-u4-l1": {
     "id": "es-ar-u4-l1",
@@ -3416,7 +3416,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "es-ar-u4-l2": {
     "id": "es-ar-u4-l2",
@@ -3578,7 +3578,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "es-ar-u4-l3": {
     "id": "es-ar-u4-l3",
@@ -3739,7 +3739,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "es-ar-u4-l4": {
     "id": "es-ar-u4-l4",
@@ -3900,7 +3900,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4: Master Direct Object Pronouns (lo"
   },
   "es-ar-u4-l5": {
     "id": "es-ar-u4-l5",
@@ -4063,7 +4063,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5"
   },
   "es-ar-u5-l1": {
     "id": "es-ar-u5-l1",
@@ -4208,7 +4208,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (¿A qué hora te levantás a la m)"
+    "title": "Unit 5, Lesson 1: ¿A qué hora te levantás a la m"
   },
   "es-ar-u5-l2": {
     "id": "es-ar-u5-l2",
@@ -4352,7 +4352,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (¿A qué hora te despertás los f)"
+    "title": "Unit 5, Lesson 2: ¿A qué hora te despertás los f"
   },
   "es-ar-u5-l3": {
     "id": "es-ar-u5-l3",
@@ -4497,7 +4497,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (Primero tomo unos mates y desp)"
+    "title": "Unit 5, Lesson 3: Primero tomo unos mates y desp"
   },
   "es-ar-u5-l4": {
     "id": "es-ar-u5-l4",
@@ -4641,7 +4641,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (¡Dale, che, levantate que se n)"
+    "title": "Unit 5, Lesson 4: ¡Dale, che, levantate que se n"
   },
   "es-ar-u5-l5": {
     "id": "es-ar-u5-l5",
@@ -4786,7 +4786,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Me encanta la rutina de arranc)"
+    "title": "Unit 5, Lesson 5: Synthesize clock times"
   },
   "es-ar-u6-l1": {
     "id": "es-ar-u6-l1",
@@ -4931,7 +4931,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (El domingo hacemos un asado co)"
+    "title": "Unit 6, Lesson 1: Identify and classify staple Argentine food"
   },
   "es-ar-u6-l2": {
     "id": "es-ar-u6-l2",
@@ -5076,7 +5076,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (¡Buenas! ¿Nos traés la carta y)"
+    "title": "Unit 6, Lesson 2: ¡Buenas! ¿Nos traés la carta y"
   },
   "es-ar-u6-l3": {
     "id": "es-ar-u6-l3",
@@ -5221,7 +5221,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Me re copa el bife de chorizo,)"
+    "title": "Unit 6, Lesson 3: Express food preferences and enthusiasm using 'gustar'"
   },
   "es-ar-u6-l4": {
     "id": "es-ar-u6-l4",
@@ -5366,7 +5366,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (La carne del asado está súper )"
+    "title": "Unit 6, Lesson 4: Describe flavors"
   },
   "es-ar-u6-l5": {
     "id": "es-ar-u6-l5",
@@ -5510,7 +5510,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (¡Sale con fritas! (Coming righ)"
+    "title": "Unit 6, Lesson 5: Synthesize food vocabulary"
   },
   "es-ar-u7-l1": {
     "id": "es-ar-u7-l1",
@@ -5649,7 +5649,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Ayer laburé todo el día en la )"
+    "title": "Unit 7, Lesson 1: Conjugate regular -ar"
   },
   "es-ar-u7-l2": {
     "id": "es-ar-u7-l2",
@@ -5788,7 +5788,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Ayer estuve todo el día en cas)"
+    "title": "Unit 7, Lesson 2: Ayer estuve todo el día en cas"
   },
   "es-ar-u7-l3": {
     "id": "es-ar-u7-l3",
@@ -5928,7 +5928,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (El otro día me crucé con Sofía)"
+    "title": "Unit 7, Lesson 3: Utilize Rioplatense past time expressions (ayer"
   },
   "es-ar-u7-l4": {
     "id": "es-ar-u7-l4",
@@ -6068,7 +6068,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Disculpame que llegué tarde, c)"
+    "title": "Unit 7, Lesson 4: Disculpame que llegué tarde, c"
   },
   "es-ar-u7-l5": {
     "id": "es-ar-u7-l5",
@@ -6208,7 +6208,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (¿Cómo te fue el finde en Marde)"
+    "title": "Unit 7, Lesson 5: ¿Cómo te fue el finde en Marde"
   },
   "es-ar-u8-l1": {
     "id": "es-ar-u8-l1",
@@ -6348,7 +6348,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Busco una remera de algodón bl)"
+    "title": "Unit 8, Lesson 1: Identify distinctive Rioplatense clothing"
   },
   "es-ar-u8-l2": {
     "id": "es-ar-u8-l2",
@@ -6488,7 +6488,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (¿Cuánto sale la campera? — Cue)"
+    "title": "Unit 8, Lesson 2: Inquire about prices using '¿Cuánto sale/cuesta?'"
   },
   "es-ar-u8-l3": {
     "id": "es-ar-u8-l3",
@@ -6628,7 +6628,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (¡Esa campera de cuero te queda)"
+    "title": "Unit 8, Lesson 3: Ask for clothing sizes (el talle) and shoe sizes"
   },
   "es-ar-u8-l4": {
     "id": "es-ar-u8-l4",
@@ -6768,7 +6768,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (En ese shopping te arrancan la)"
+    "title": "Unit 8, Lesson 4: Form comparisons (más"
   },
   "es-ar-u8-l5": {
     "id": "es-ar-u8-l5",
@@ -6908,7 +6908,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (La campera marrón es más canch)"
+    "title": "Unit 8, Lesson 5: La campera marrón es más canch"
   },
   "es-ar-u9-l1": {
     "id": "es-ar-u9-l1",
@@ -7049,7 +7049,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (¿Dónde está la boca de subte m)"
+    "title": "Unit 9, Lesson 1: ¿Dónde está la boca de subte m"
   },
   "es-ar-u9-l2": {
     "id": "es-ar-u9-l2",
@@ -7189,7 +7189,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (La pizzería Guerrín está a dos)"
+    "title": "Unit 9, Lesson 2: La pizzería Guerrín está a dos"
   },
   "es-ar-u9-l3": {
     "id": "es-ar-u9-l3",
@@ -7330,7 +7330,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (Andá todo derecho por Corrient)"
+    "title": "Unit 9, Lesson 3: Andá todo derecho por Corrient"
   },
   "es-ar-u9-l4": {
     "id": "es-ar-u9-l4",
@@ -7470,7 +7470,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Paseamos por Puerto Madero par)"
+    "title": "Unit 9, Lesson 4: Apply the 'Por vs"
   },
   "es-ar-u9-l5": {
     "id": "es-ar-u9-l5",
@@ -7610,7 +7610,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Te tomás la Línea D en Catedra)"
+    "title": "Unit 9, Lesson 5: Te tomás la Línea D en Catedra"
   },
   "es-ar-u10-l1": {
     "id": "es-ar-u10-l1",
@@ -7745,7 +7745,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Alquilé un depto de dos ambien)"
+    "title": "Unit 10, Lesson 1: Alquilé un depto de dos ambien"
   },
   "es-ar-u10-l2": {
     "id": "es-ar-u10-l2",
@@ -7880,7 +7880,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Te toca a vos sacar la basura )"
+    "title": "Unit 10, Lesson 2: Te toca a vos sacar la basura"
   },
   "es-ar-u10-l3": {
     "id": "es-ar-u10-l3",
@@ -8015,7 +8015,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Cuando eras chico, vos jugabas)"
+    "title": "Unit 10, Lesson 3: Cuando eras chico, vos jugabas"
   },
   "es-ar-u10-l4": {
     "id": "es-ar-u10-l4",
@@ -8150,7 +8150,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (Cuando vos eras chico, ibas al)"
+    "title": "Unit 10, Lesson 4: Conjugate regular -er/-ir verbs (-ía"
   },
   "es-ar-u10-l5": {
     "id": "es-ar-u10-l5",
@@ -8285,7 +8285,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Integration Monologue: Welcomi)"
+    "title": "Unit 10, Lesson 5: Synthesize Argentine housing vocabulary"
   },
   "es-ar-u11-l1": {
     "id": "es-ar-u11-l1",
@@ -8373,7 +8373,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Me lavo las manos antes de com)"
+    "title": "Unit 11, Lesson 1: Me lavo las manos antes de com"
   },
   "es-ar-u11-l2": {
     "id": "es-ar-u11-l2",
@@ -8455,7 +8455,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (—¿Cómo te sentís, che?\n—Estoy )"
+    "title": "Unit 11, Lesson 2: —¿Cómo te sentís, che?\n—Estoy"
   },
   "es-ar-u11-l3": {
     "id": "es-ar-u11-l3",
@@ -8538,7 +8538,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 3: Foundational & Structural Mastery (Buenas, necesito unas pastilla)"
+    "title": "Unit 11, Lesson 3: Comprar medicamentos y remedios en la farmacia argentina"
   },
   "es-ar-u11-l4": {
     "id": "es-ar-u11-l4",
@@ -8620,7 +8620,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 4: Foundational & Structural Mastery (Los fines de semana salgo a an)"
+    "title": "Unit 11, Lesson 4: Conversar sobre vida sana"
   },
   "es-ar-u11-l5": {
     "id": "es-ar-u11-l5",
@@ -8702,7 +8702,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Médico: \"Respirá hondo por la )"
+    "title": "Unit 11, Lesson 5: Médico: \"Respirá hondo por la"
   },
   "es-ar-u12-l1": {
     "id": "es-ar-u12-l1",
@@ -8784,7 +8784,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (Che, estoy con un montón de la)"
+    "title": "Unit 12, Lesson 1: Vocabulario laboral argentino"
   },
   "es-ar-u12-l2": {
     "id": "es-ar-u12-l2",
@@ -8866,7 +8866,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (Arrancamos el día tomando unos)"
+    "title": "Unit 12, Lesson 2: Describir la rutina de oficina"
   },
   "es-ar-u12-l3": {
     "id": "es-ar-u12-l3",
@@ -8948,7 +8948,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (Che, fijate que estás muteado,)"
+    "title": "Unit 12, Lesson 3: Terminología informática"
   },
   "es-ar-u12-l4": {
     "id": "es-ar-u12-l4",
@@ -9030,7 +9030,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Estimado Martín:\nTe adjunto la)"
+    "title": "Unit 12, Lesson 4: Estimado Martín:\nTe adjunto la"
   },
   "es-ar-u12-l5": {
     "id": "es-ar-u12-l5",
@@ -9112,7 +9112,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 5: Foundational & Structural Mastery (Entrevistador: \"¿Por qué te gu)"
+    "title": "Unit 12, Lesson 5: Simular una entrevista laboral en Argentina"
   },
   "es-ar-u13-l1": {
     "id": "es-ar-u13-l1",
@@ -9194,7 +9194,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (Che, los fines de semana me co)"
+    "title": "Unit 13, Lesson 1: Expresar pasatiempos"
   },
   "es-ar-u13-l2": {
     "id": "es-ar-u13-l2",
@@ -9276,7 +9276,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 2: Foundational & Structural Mastery (Fuimos a la cancha a ver el cl)"
+    "title": "Unit 13, Lesson 2: Cultura futbolística argentina"
   },
   "es-ar-u13-l3": {
     "id": "es-ar-u13-l3",
@@ -9441,7 +9441,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (—Che, ¿te pinta ir a ver una b)"
+    "title": "Unit 13, Lesson 4: —Che, ¿te pinta ir a ver una b"
   },
   "es-ar-u13-l5": {
     "id": "es-ar-u13-l5",
@@ -9523,7 +9523,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (La película \"El secreto de sus)"
+    "title": "Unit 13, Lesson 5: Escribir una crítica de espectáculos"
   },
   "es-ar-u14-l1": {
     "id": "es-ar-u14-l1",
@@ -9851,7 +9851,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Paramos en la estación de serv)"
+    "title": "Unit 14, Lesson 4: Alquilar autos en Argentina"
   },
   "es-ar-u14-l5": {
     "id": "es-ar-u14-l5",
@@ -10015,7 +10015,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 1: Foundational & Structural Mastery (Disculpame, ¿tenés esta camper)"
+    "title": "Unit 15, Lesson 1: Vocabulario de indumentaria"
   },
   "es-ar-u15-l2": {
     "id": "es-ar-u15-l2",
@@ -10097,7 +10097,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (Paso al probador a probarme es)"
+    "title": "Unit 15, Lesson 2: El probador"
   },
   "es-ar-u15-l3": {
     "id": "es-ar-u15-l3",
@@ -10179,7 +10179,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (¿Se puede pagar con código QR )"
+    "title": "Unit 15, Lesson 3: Liquidaciones de temporada"
   },
   "es-ar-u15-l4": {
     "id": "es-ar-u15-l4",
@@ -10261,7 +10261,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 4: Foundational & Structural Mastery (En la Feria de San Telmo compr)"
+    "title": "Unit 15, Lesson 4: En la Feria de San Telmo compr"
   },
   "es-ar-u15-l5": {
     "id": "es-ar-u15-l5",
@@ -10343,7 +10343,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (Hola, vengo a cambiar este buz)"
+    "title": "Unit 15, Lesson 5: Cambios de prendas"
   },
   "es-ar-u16-l1": {
     "id": "es-ar-u16-l1",
@@ -10425,7 +10425,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (Cuando sopla el viento Zonda e)"
+    "title": "Unit 16, Lesson 1: El pronóstico del tiempo"
   },
   "es-ar-u16-l2": {
     "id": "es-ar-u16-l2",
@@ -10507,7 +10507,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 2: Foundational & Structural Mastery (En noviembre la primavera llen)"
+    "title": "Unit 16, Lesson 2: Las estaciones del hemisferio sur (invierno en julio"
   },
   "es-ar-u16-l3": {
     "id": "es-ar-u16-l3",
@@ -10589,7 +10589,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 3: Foundational & Structural Mastery (La pasarela frente a la Gargan)"
+    "title": "Unit 16, Lesson 3: La pasarela frente a la Gargan"
   },
   "es-ar-u16-l4": {
     "id": "es-ar-u16-l4",
@@ -10671,7 +10671,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (El SMN emitió una alerta naran)"
+    "title": "Unit 16, Lesson 4: Alertas del Servicio Meteorológico Nacional (SMN)"
   },
   "es-ar-u16-l5": {
     "id": "es-ar-u16-l5",
@@ -10753,7 +10753,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (Los vientos incesantes de la P)"
+    "title": "Unit 16, Lesson 5: Parques eólicos en la Patagonia"
   },
   "es-ar-u17-l1": {
     "id": "es-ar-u17-l1",
@@ -10835,7 +10835,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Hola doctor, desde anoche que )"
+    "title": "Unit 17, Lesson 1: Partes del cuerpo"
   },
   "es-ar-u17-l2": {
     "id": "es-ar-u17-l2",
@@ -10917,7 +10917,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (Buenas tardes, ¿me das una caj)"
+    "title": "Unit 17, Lesson 2: La farmacia en Argentina (Farmacity)"
   },
   "es-ar-u17-l3": {
     "id": "es-ar-u17-l3",
@@ -10999,7 +10999,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (¡Llamá urgente al ciento siete)"
+    "title": "Unit 17, Lesson 3: El SAME (107) en Buenos Aires"
   },
   "es-ar-u17-l4": {
     "id": "es-ar-u17-l4",
@@ -11081,7 +11081,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 4: Foundational & Structural Mastery (Compartir una ronda de mates c)"
+    "title": "Unit 17, Lesson 4: El mate como antioxidante y ritual de bienestar"
   },
   "es-ar-u17-l5": {
     "id": "es-ar-u17-l5",
@@ -11164,7 +11164,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 5: Foundational & Structural Mastery (La técnica del bypass coronari)"
+    "title": "Unit 17, Lesson 5: Los Premios Nobel de Medicina de Argentina (Houssay"
   },
   "es-ar-u18-l1": {
     "id": "es-ar-u18-l1",
@@ -11246,7 +11246,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (Hola, buenas tardes; llamo por)"
+    "title": "Unit 18, Lesson 1: Buscar alquiler en Buenos Aires (Zonaprop"
   },
   "es-ar-u18-l2": {
     "id": "es-ar-u18-l2",
@@ -11328,7 +11328,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 2: Foundational & Structural Mastery (Nos mudamos a un PH reciclado )"
+    "title": "Unit 18, Lesson 2: El PH porteño (Propiedad Horizontal con patio y terraza)"
   },
   "es-ar-u18-l3": {
     "id": "es-ar-u18-l3",
@@ -11410,7 +11410,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 3: Foundational & Structural Mastery (El encargado del edificio bald)"
+    "title": "Unit 18, Lesson 3: El consorcio de propietarios en Argentina"
   },
   "es-ar-u18-l4": {
     "id": "es-ar-u18-l4",
@@ -11656,7 +11656,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (Entré a trabajar en relación d)"
+    "title": "Unit 19, Lesson 1: El mercado laboral argentino (Bumeran"
   },
   "es-ar-u19-l2": {
     "id": "es-ar-u19-l2",
@@ -12148,7 +12148,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 2: Foundational & Structural Mastery (Los vientos constantes de la P)"
+    "title": "Unit 20, Lesson 2: Wind energy in Patagonia"
   },
   "es-ar-u20-l3": {
     "id": "es-ar-u20-l3",
@@ -12230,7 +12230,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 3: Foundational & Structural Mastery (La reintroducción exitosa del )"
+    "title": "Unit 20, Lesson 3: Wetland conservation"
   },
   "es-ar-u20-l4": {
     "id": "es-ar-u20-l4",
@@ -12312,7 +12312,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 4: Foundational & Structural Mastery (La siembra directa y los culti)"
+    "title": "Unit 20, Lesson 4: Regenerative agriculture in the Pampas"
   },
   "es-ar-u20-l5": {
     "id": "es-ar-u20-l5",
@@ -12394,7 +12394,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (La presencia ininterrumpida de)"
+    "title": "Unit 20, Lesson 5: C2 synthesis on the Argentine Antarctic Sector"
   },
   "es-ar-u21-l1": {
     "id": "es-ar-u21-l1",
@@ -12640,7 +12640,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 3: Foundational & Structural Mastery (La Ley Justina transformó el p)"
+    "title": "Unit 21, Lesson 3: Pediatric medicine"
   },
   "es-ar-u21-l4": {
     "id": "es-ar-u21-l4",
@@ -12722,7 +12722,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 4: Foundational & Structural Mastery (La cultura porteña ha integrad)"
+    "title": "Unit 21, Lesson 4: Psychoanalysis culture in Buenos Aires"
   },
   "es-ar-u21-l5": {
     "id": "es-ar-u21-l5",
@@ -12804,7 +12804,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 5: Foundational & Structural Mastery (La biotecnología argentina lid)"
+    "title": "Unit 21, Lesson 5: C2 synthesis on Argentine biotechnology"
   },
   "es-ar-u22-l1": {
     "id": "es-ar-u22-l1",
@@ -16822,7 +16822,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 4: Foundational & Structural Mastery (El Café Tortoni y Las Violetas)"
+    "title": "Unit 31, Lesson 4: Dulce de Leche"
   },
   "es-ar-u31-l5": {
     "id": "es-ar-u31-l5",
@@ -16904,7 +16904,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 5: Foundational & Structural Mastery (El mate es el símbolo supremo )"
+    "title": "Unit 31, Lesson 5: C2 synthesis on Yerba Mate"
   },
   "es-ar-u32-l1": {
     "id": "es-ar-u32-l1",
@@ -18037,7 +18037,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 3: Foundational & Structural Mastery (El Tratado Antártico reserva e)"
+    "title": "Unit 34, Lesson 3: Tratado Antártico"
   },
   "es-ar-u34-l4": {
     "id": "es-ar-u34-l4",
@@ -18124,7 +18124,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 4: Foundational & Structural Mastery (La Resolución 2065 de la Asamb)"
+    "title": "Unit 34, Lesson 4: Controversias de Soberanía"
   },
   "es-ar-u34-l5": {
     "id": "es-ar-u34-l5",

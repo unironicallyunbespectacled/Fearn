@@ -652,7 +652,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery (Maya: Hi! How are you?)"
+    "title": "Unit 1, Lesson 1: Maya: Hi! How are you?"
   },
   "en-u1-l2": {
     "id": "en-u1-l2",
@@ -860,7 +860,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Maya: I'm from Toronto. You're)"
+    "title": "Unit 1, Lesson 2: Conjugate the verb to be for all subject pronouns"
   },
   "en-u1-l3": {
     "id": "en-u1-l3",
@@ -1072,7 +1072,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Jordan: I'm Jordan, by the way)"
+    "title": "Unit 1, Lesson 3: Introduce yourself with I'm / My name is"
   },
   "en-u1-l4": {
     "id": "en-u1-l4",
@@ -1285,7 +1285,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Jordan: Where are you from, Ma)"
+    "title": "Unit 1, Lesson 4: Jordan: Where are you from, Ma"
   },
   "en-u1-l5": {
     "id": "en-u1-l5",
@@ -1511,7 +1511,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery (Maya: Hi! Mind if I sit here? )"
+    "title": "Unit 1, Lesson 5: Combine greetings"
   },
   "en-u2-l1": {
     "id": "en-u2-l1",
@@ -1724,7 +1724,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery (Maya: How many chairs do we ne)"
+    "title": "Unit 2, Lesson 1: Count and use cardinal numbers 0-20 in English"
   },
   "en-u2-l2": {
     "id": "en-u2-l2",
@@ -1885,7 +1885,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2: Can count from 21 to 100+ in English"
   },
   "en-u2-l3": {
     "id": "en-u2-l3",
@@ -2046,7 +2046,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "en-u2-l4": {
     "id": "en-u2-l4",
@@ -2207,7 +2207,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "en-u2-l5": {
     "id": "en-u2-l5",
@@ -2370,7 +2370,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "en-u3-l1": {
     "id": "en-u3-l1",
@@ -2531,7 +2531,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Identify immediate family members in English (father"
   },
   "en-u3-l2": {
     "id": "en-u3-l2",
@@ -2693,7 +2693,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "en-u3-l3": {
     "id": "en-u3-l3",
@@ -2854,7 +2854,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "en-u3-l4": {
     "id": "en-u3-l4",
@@ -3016,7 +3016,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "en-u3-l5": {
     "id": "en-u3-l5",
@@ -3179,7 +3179,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "en-u4-l1": {
     "id": "en-u4-l1",
@@ -3340,7 +3340,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "en-u4-l2": {
     "id": "en-u4-l2",
@@ -3501,7 +3501,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "en-u4-l3": {
     "id": "en-u4-l3",
@@ -3662,7 +3662,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "en-u4-l4": {
     "id": "en-u4-l4",
@@ -3824,7 +3824,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4: Apply Adverbs of Frequency (always"
   },
   "en-u4-l5": {
     "id": "en-u4-l5",
@@ -3987,7 +3987,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5"
   },
   "en-u5-l1": {
     "id": "en-u5-l1",
@@ -4132,7 +4132,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (I wake up at seven o'clock in )"
+    "title": "Unit 5, Lesson 1: I wake up at seven o'clock in"
   },
   "en-u5-l2": {
     "id": "en-u5-l2",
@@ -4276,7 +4276,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Every morning, Sarah wakes up )"
+    "title": "Unit 5, Lesson 2: Every morning, Sarah wakes up"
   },
   "en-u5-l3": {
     "id": "en-u5-l3",
@@ -4420,7 +4420,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (I usually drink green tea, but)"
+    "title": "Unit 5, Lesson 3: Apply adverbs of frequency (always"
   },
   "en-u5-l4": {
     "id": "en-u5-l4",
@@ -4564,7 +4564,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (First, I have a cup of coffee.)"
+    "title": "Unit 5, Lesson 4: First, I have a cup of coffee."
   },
   "en-u5-l5": {
     "id": "en-u5-l5",
@@ -4708,7 +4708,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Commuting by Tube is usually f)"
+    "title": "Unit 5, Lesson 5: Synthesize clock times"
   },
   "en-u6-l1": {
     "id": "en-u6-l1",
@@ -4853,7 +4853,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (I have an apple, a sandwich, a)"
+    "title": "Unit 6, Lesson 1: I have an apple, a sandwich, a"
   },
   "en-u6-l2": {
     "id": "en-u6-l2",
@@ -4998,7 +4998,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Good evening! Could we get a t)"
+    "title": "Unit 6, Lesson 2: Good evening! Could we get a t"
   },
   "en-u6-l3": {
     "id": "en-u6-l3",
@@ -5143,7 +5143,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (I am allergic to peanuts. Does)"
+    "title": "Unit 6, Lesson 3: Specify dietary restrictions"
   },
   "en-u6-l4": {
     "id": "en-u6-l4",
@@ -5288,7 +5288,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (The grilled steak was incredib)"
+    "title": "Unit 6, Lesson 4: Describe taste profiles"
   },
   "en-u6-l5": {
     "id": "en-u6-l5",
@@ -5433,7 +5433,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Beer-battered fish and chips w)"
+    "title": "Unit 6, Lesson 5: Integrate food vocabulary"
   },
   "en-u7-l1": {
     "id": "en-u7-l1",
@@ -5572,7 +5572,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Yesterday I walked to the park)"
+    "title": "Unit 7, Lesson 1: Yesterday I walked to the park"
   },
   "en-u7-l2": {
     "id": "en-u7-l2",
@@ -5711,7 +5711,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Last weekend we took the train)"
+    "title": "Unit 7, Lesson 2: Last weekend we took the train"
   },
   "en-u7-l3": {
     "id": "en-u7-l3",
@@ -5850,7 +5850,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Did you see the fireworks over)"
+    "title": "Unit 7, Lesson 3: Did you see the fireworks over"
   },
   "en-u7-l4": {
     "id": "en-u7-l4",
@@ -5990,7 +5990,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Two days ago we arrived in Edi)"
+    "title": "Unit 7, Lesson 4: Use past time adverbials (yesterday"
   },
   "en-u7-l5": {
     "id": "en-u7-l5",
@@ -6130,7 +6130,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (How was your weekend trip to E)"
+    "title": "Unit 7, Lesson 5: How was your weekend trip to E"
   },
   "en-u8-l1": {
     "id": "en-u8-l1",
@@ -6269,7 +6269,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (I'm looking for a plain white )"
+    "title": "Unit 8, Lesson 1: Identify essential clothing"
   },
   "en-u8-l2": {
     "id": "en-u8-l2",
@@ -6409,7 +6409,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Excuse me, how much is this co)"
+    "title": "Unit 8, Lesson 2: Inquire about prices"
   },
   "en-u8-l3": {
     "id": "en-u8-l3",
@@ -6549,7 +6549,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (I like these shoes here, but t)"
+    "title": "Unit 8, Lesson 3: Use demonstratives (this"
   },
   "en-u8-l4": {
     "id": "en-u8-l4",
@@ -6689,7 +6689,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (This woollen coat is much warm)"
+    "title": "Unit 8, Lesson 4: Form comparative (-er than"
   },
   "en-u8-l5": {
     "id": "en-u8-l5",
@@ -6829,7 +6829,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (The navy overcoat is much smar)"
+    "title": "Unit 8, Lesson 5: The navy overcoat is much smar"
   },
   "en-u9-l1": {
     "id": "en-u9-l1",
@@ -6969,7 +6969,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Where is the nearest Undergrou)"
+    "title": "Unit 9, Lesson 1: Identify urban public transit modes"
   },
   "en-u9-l2": {
     "id": "en-u9-l2",
@@ -7109,7 +7109,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (The British Museum is located )"
+    "title": "Unit 9, Lesson 2: The British Museum is located"
   },
   "en-u9-l3": {
     "id": "en-u9-l3",
@@ -7249,7 +7249,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (Go straight ahead along Oxford)"
+    "title": "Unit 9, Lesson 3: Go straight ahead along Oxford"
   },
   "en-u9-l4": {
     "id": "en-u9-l4",
@@ -7389,7 +7389,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Excuse me, could you tell me h)"
+    "title": "Unit 9, Lesson 4: Excuse me, could you tell me h"
   },
   "en-u9-l5": {
     "id": "en-u9-l5",
@@ -7529,7 +7529,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Take the Piccadilly Line from )"
+    "title": "Unit 9, Lesson 5: Take the Piccadilly Line from"
   },
   "en-u10-l1": {
     "id": "en-u10-l1",
@@ -7664,7 +7664,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (My new flat has two bedrooms, )"
+    "title": "Unit 10, Lesson 1: My new flat has two bedrooms,"
   },
   "en-u10-l2": {
     "id": "en-u10-l2",
@@ -7799,7 +7799,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Can you please take out the tr)"
+    "title": "Unit 10, Lesson 2: Can you please take out the tr"
   },
   "en-u10-l3": {
     "id": "en-u10-l3",
@@ -7934,7 +7934,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Listen! The washing machine is)"
+    "title": "Unit 10, Lesson 3: Listen! The washing machine is"
   },
   "en-u10-l4": {
     "id": "en-u10-l4",
@@ -8069,7 +8069,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (I usually work in an office, b)"
+    "title": "Unit 10, Lesson 4: Contrast the Present Simple (routines"
   },
   "en-u10-l5": {
     "id": "en-u10-l5",
@@ -8204,7 +8204,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Integration Monologue: Welcomi)"
+    "title": "Unit 10, Lesson 5: Synthesize home and furniture vocabulary"
   },
   "en-u11-l1": {
     "id": "en-u11-l1",
@@ -8291,7 +8291,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Always wash your hands thoroug)"
+    "title": "Unit 11, Lesson 1: Always wash your hands thoroug"
   },
   "en-u11-l2": {
     "id": "en-u11-l2",
@@ -8373,7 +8373,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (I’ve been feeling under the we)"
+    "title": "Unit 11, Lesson 2: Express physical aches"
   },
   "en-u11-l3": {
     "id": "en-u11-l3",
@@ -8455,7 +8455,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 3: Foundational & Structural Mastery (Good morning, could you recomm)"
+    "title": "Unit 11, Lesson 3: Navigate community pharmacies"
   },
   "en-u11-l4": {
     "id": "en-u11-l4",
@@ -8537,7 +8537,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 4: Foundational & Structural Mastery (Prioritizing seven to eight ho)"
+    "title": "Unit 11, Lesson 4: Discuss preventative health"
   },
   "en-u11-l5": {
     "id": "en-u11-l5",
@@ -8619,7 +8619,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Doctor: \"Take deep, steady bre)"
+    "title": "Unit 11, Lesson 5: Doctor: \"Take deep, steady bre"
   },
   "en-u12-l1": {
     "id": "en-u12-l1",
@@ -8701,7 +8701,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (She works as a product manager)"
+    "title": "Unit 12, Lesson 1: Master professional workplace vocabulary"
   },
   "en-u12-l2": {
     "id": "en-u12-l2",
@@ -8783,7 +8783,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (We kick off every Monday morni)"
+    "title": "Unit 12, Lesson 2: Describe daily office routines"
   },
   "en-u12-l3": {
     "id": "en-u12-l3",
@@ -8865,7 +8865,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (I’ve uploaded the latest archi)"
+    "title": "Unit 12, Lesson 3: Digital office terminology"
   },
   "en-u12-l4": {
     "id": "en-u12-l4",
@@ -8947,7 +8947,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Dear Alexander,\nPlease find at)"
+    "title": "Unit 12, Lesson 4: Write structured"
   },
   "en-u12-l5": {
     "id": "en-u12-l5",
@@ -9029,7 +9029,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 5: Foundational & Structural Mastery (Interviewer: \"Tell me about a )"
+    "title": "Unit 12, Lesson 5: Simulate behavioral job interviews"
   },
   "en-u13-l1": {
     "id": "en-u13-l1",
@@ -9111,7 +9111,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (In my free time, I love hiking)"
+    "title": "Unit 13, Lesson 1: Express creative hobbies"
   },
   "en-u13-l2": {
     "id": "en-u13-l2",
@@ -9193,7 +9193,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 2: Foundational & Structural Mastery (We went to the stadium to watc)"
+    "title": "Unit 13, Lesson 2: Sports culture"
   },
   "en-u13-l3": {
     "id": "en-u13-l3",
@@ -9275,7 +9275,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 3: Foundational & Structural Mastery (Last night we attended a breat)"
+    "title": "Unit 13, Lesson 3: Music genres (Rock"
   },
   "en-u13-l4": {
     "id": "en-u13-l4",
@@ -9357,7 +9357,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (—Fancy grabbing some dinner an)"
+    "title": "Unit 13, Lesson 4: Propose leisure plans"
   },
   "en-u13-l5": {
     "id": "en-u13-l5",
@@ -9439,7 +9439,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (Christopher Nolan's \"Oppenheim)"
+    "title": "Unit 13, Lesson 5: Write engaging critical reviews for films"
   },
   "en-u14-l1": {
     "id": "en-u14-l1",
@@ -9521,7 +9521,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 1: Foundational & Structural Mastery (Please have your government-is)"
+    "title": "Unit 14, Lesson 1: Airport operations"
   },
   "en-u14-l2": {
     "id": "en-u14-l2",
@@ -9603,7 +9603,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 2: Foundational & Structural Mastery (Good afternoon, I have a reser)"
+    "title": "Unit 14, Lesson 2: Hotel bookings"
   },
   "en-u14-l3": {
     "id": "en-u14-l3",
@@ -9767,7 +9767,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Could you please fill up the t)"
+    "title": "Unit 14, Lesson 4: Car rentals"
   },
   "en-u14-l5": {
     "id": "en-u14-l5",
@@ -9931,7 +9931,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 1: Foundational & Structural Mastery (Excuse me, do you have this pu)"
+    "title": "Unit 15, Lesson 1: Apparel vocabulary"
   },
   "en-u15-l2": {
     "id": "en-u15-l2",
@@ -10013,7 +10013,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (I'll head into the fitting roo)"
+    "title": "Unit 15, Lesson 2: The fitting room"
   },
   "en-u15-l3": {
     "id": "en-u15-l3",
@@ -10095,7 +10095,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (I will pay with contactless Ap)"
+    "title": "Unit 15, Lesson 3: Seasonal clearance sales"
   },
   "en-u15-l4": {
     "id": "en-u15-l4",
@@ -10259,7 +10259,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (I would like to return this ja)"
+    "title": "Unit 15, Lesson 5: Consumer rights (Consumer Rights Act)"
   },
   "en-u16-l1": {
     "id": "en-u16-l1",
@@ -10341,7 +10341,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (The Met Office predicts sunshi)"
+    "title": "Unit 16, Lesson 1: Weather reports"
   },
   "en-u16-l2": {
     "id": "en-u16-l2",
@@ -10588,7 +10588,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (The Met Office has upgraded th)"
+    "title": "Unit 16, Lesson 4: Met Office severe weather warnings (Yellow"
   },
   "en-u16-l5": {
     "id": "en-u16-l5",
@@ -10670,7 +10670,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (The Hornsea and Dogger Bank of)"
+    "title": "Unit 16, Lesson 5: The UK's green energy transition (Offshore wind leader"
   },
   "en-u17-l1": {
     "id": "en-u17-l1",
@@ -10752,7 +10752,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Good morning, doctor; I have h)"
+    "title": "Unit 17, Lesson 1: Parts of the human body"
   },
   "en-u17-l2": {
     "id": "en-u17-l2",
@@ -10834,7 +10834,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (Excuse me, I would like to col)"
+    "title": "Unit 17, Lesson 2: Pharmacies & chemists (Boots)"
   },
   "en-u17-l3": {
     "id": "en-u17-l3",
@@ -10916,7 +10916,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (Dial nine-nine-nine immediatel)"
+    "title": "Unit 17, Lesson 3: The National Health Service (NHS 111 & 999)"
   },
   "en-u17-l4": {
     "id": "en-u17-l4",
@@ -10998,7 +10998,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 4: Foundational & Structural Mastery (Bathing in the natural thermal)"
+    "title": "Unit 17, Lesson 4: British spa towns (Bath"
   },
   "en-u17-l5": {
     "id": "en-u17-l5",
@@ -11162,7 +11162,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (Good morning, I am calling reg)"
+    "title": "Unit 18, Lesson 1: Renting a home in the UK (Rightmove"
   },
   "en-u18-l2": {
     "id": "en-u18-l2",
@@ -11572,7 +11572,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (I received a permanent full-ti)"
+    "title": "Unit 19, Lesson 1: The UK job market (LinkedIn"
   },
   "en-u19-l2": {
     "id": "en-u19-l2",
@@ -11982,7 +11982,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 1: Foundational & Structural Mastery (The Flow Country in the Scotti)"
+    "title": "Unit 20, Lesson 1: British natural landscapes"
   },
   "en-u20-l2": {
     "id": "en-u20-l2",
@@ -12228,7 +12228,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 4: Foundational & Structural Mastery (The rewilding of the Knepp Est)"
+    "title": "Unit 20, Lesson 4: Regenerative farming"
   },
   "en-u20-l5": {
     "id": "en-u20-l5",
@@ -12310,7 +12310,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (The Climate Change Act and its)"
+    "title": "Unit 20, Lesson 5: C2 synthesis on the UK Climate Change Act"
   },
   "en-u21-l1": {
     "id": "en-u21-l1",
@@ -12720,7 +12720,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 5: Foundational & Structural Mastery (The resolution of the 3D prote)"
+    "title": "Unit 21, Lesson 5: C2 synthesis on the UK 100"
   },
   "en-u22-l1": {
     "id": "en-u22-l1",
@@ -13294,7 +13294,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 2: Foundational & Structural Mastery (J.M.W. Turner's «The Fighting )"
+    "title": "Unit 23, Lesson 2: Master of Atmospheric Light & Vapor"
   },
   "en-u23-l3": {
     "id": "en-u23-l3",
@@ -14241,7 +14241,7 @@
           "options": [
             "Edward James Olmos",
             "Rutger Hauer",
-            "Rutger Hauer (Alternative variation)",
+            "Rutger Hauer (Distractor variant)",
             "Harrison Ford"
           ],
           "answerIndex": 1,
@@ -16492,7 +16492,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 1: Foundational & Structural Mastery (The British Sunday Roast is cr)"
+    "title": "Unit 31, Lesson 1: The British Sunday Roast is cr"
   },
   "en-u31-l2": {
     "id": "en-u31-l2",
@@ -16574,7 +16574,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 2: Foundational & Structural Mastery (Afternoon Tea presents tiered )"
+    "title": "Unit 31, Lesson 2: Afternoon Tea"
   },
   "en-u31-l3": {
     "id": "en-u31-l3",
@@ -16738,7 +16738,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 4: Foundational & Structural Mastery (Traditional British Cask Ale i)"
+    "title": "Unit 31, Lesson 4: The Craft of British Real Ale"
   },
   "en-u31-l5": {
     "id": "en-u31-l5",

@@ -715,7 +715,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Comment allez-vous ?)"
+    "title": "Unit 1, Lesson 2: Comment allez-vous ?"
   },
   "fr-u1-l3": {
     "id": "fr-u1-l3",
@@ -832,7 +832,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Je m'appelle Lucas.)"
+    "title": "Unit 1, Lesson 3: Je m'appelle Lucas."
   },
   "fr-u1-l4": {
     "id": "fr-u1-l4",
@@ -956,7 +956,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Un café, s'il vous plaît.)"
+    "title": "Unit 1, Lesson 4: Use French courtesy expressions including please"
   },
   "fr-u1-l5": {
     "id": "fr-u1-l5",
@@ -1194,7 +1194,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery (Je parle français avec mes ami)"
+    "title": "Unit 3, Lesson 1: Je parle français avec mes ami"
   },
   "fr-u3-l2": {
     "id": "fr-u3-l2",
@@ -1303,7 +1303,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery (On va au cinéma ce soir ?)"
+    "title": "Unit 3, Lesson 2: Distinguish and use all French subject pronouns"
   },
   "fr-u3-l3": {
     "id": "fr-u3-l3",
@@ -1414,7 +1414,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery (Nous commençons la réunion à n)"
+    "title": "Unit 3, Lesson 3: Nous commençons la réunion à n"
   },
   "fr-u2-l1": {
     "id": "fr-u2-l1",
@@ -1523,7 +1523,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery (Le livre est sur la table.)"
+    "title": "Unit 2, Lesson 4: Identify and use French definite articles (le"
   },
   "fr-u2-l2": {
     "id": "fr-u2-l2",
@@ -1633,7 +1633,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery (J'ai un livre et une trousse.)"
+    "title": "Unit 2, Lesson 5: Use indefinite articles (un"
   },
   "fr-u2-l3": {
     "id": "fr-u2-l3",
@@ -1744,7 +1744,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery (La décision est difficile.)"
+    "title": "Unit 2, Lesson 1: La décision est difficile."
   },
   "fr-u2-l4": {
     "id": "fr-u2-l4",
@@ -1856,7 +1856,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery (Les journaux sont sur la table)"
+    "title": "Unit 2, Lesson 2: Form regular and irregular plural nouns in French (-s"
   },
   "fr-u2-l5": {
     "id": "fr-u2-l5",
@@ -1969,7 +1969,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery (Je vais au restaurant ce soir.)"
+    "title": "Unit 2, Lesson 3: Form and use contracted articles with prepositions à (au"
   },
   "fr-u3-l4": {
     "id": "fr-u3-l4",
@@ -2082,7 +2082,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery (J'achète du pain à la boulange)"
+    "title": "Unit 3, Lesson 4: Conjugate stem-changing -er verbs (acheter"
   },
   "fr-u3-l5": {
     "id": "fr-u3-l5",
@@ -2196,7 +2196,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery (D'abord, j'écoute les nouvelle)"
+    "title": "Unit 3, Lesson 5: Combine regular -er verbs"
   },
   "fr-u4-l1": {
     "id": "fr-u4-l1",
@@ -2310,7 +2310,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery (Je suis étudiant à l'universit)"
+    "title": "Unit 4, Lesson 1: Je suis étudiant à l'universit"
   },
   "fr-u4-l2": {
     "id": "fr-u4-l2",
@@ -2420,7 +2420,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery (J'ai vingt ans et j'ai deux fr)"
+    "title": "Unit 4, Lesson 2: Conjugate AVOIR in the present tense and deploy it for age"
   },
   "fr-u4-l3": {
     "id": "fr-u4-l3",
@@ -2530,7 +2530,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery (Qu'est-ce que vous faites ce w)"
+    "title": "Unit 4, Lesson 3: Qu'est-ce que vous faites ce w"
   },
   "fr-u4-l4": {
     "id": "fr-u4-l4",
@@ -2641,7 +2641,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery (Je vais en France cet été.)"
+    "title": "Unit 4, Lesson 4: Je vais en France cet été."
   },
   "fr-u4-l5": {
     "id": "fr-u4-l5",
@@ -2754,7 +2754,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery (Je suis fatigué parce que je f)"
+    "title": "Unit 4, Lesson 5: Synthesize and contrast the four core irregular verbs (être"
   },
   "fr-u5-l1": {
     "id": "fr-u5-l1",
@@ -2863,7 +2863,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (Je ne parle pas espagnol.)"
+    "title": "Unit 5, Lesson 1: Je ne parle pas espagnol."
   },
   "fr-u5-l2": {
     "id": "fr-u5-l2",
@@ -2972,7 +2972,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Je n'ai pas de voiture.)"
+    "title": "Unit 5, Lesson 2: Apply the rule transforming indefinite (un"
   },
   "fr-u5-l3": {
     "id": "fr-u5-l3",
@@ -3083,7 +3083,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (Je ne bois jamais d'alcool.)"
+    "title": "Unit 5, Lesson 3: Deploy complex negative adverbs 'ne"
   },
   "fr-u5-l4": {
     "id": "fr-u5-l4",
@@ -3195,7 +3195,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (Je ne comprends rien à cet exe)"
+    "title": "Unit 5, Lesson 4: Deploy negative pronouns 'ne"
   },
   "fr-u5-l5": {
     "id": "fr-u5-l5",
@@ -3308,7 +3308,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Je n'ai que cinq minutes.)"
+    "title": "Unit 5, Lesson 5: Use the restrictive structure 'ne"
   },
   "fr-u6-l1": {
     "id": "fr-u6-l1",
@@ -3417,7 +3417,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (La robe verte est élégante.)"
+    "title": "Unit 6, Lesson 1: La robe verte est élégante."
   },
   "fr-u6-l2": {
     "id": "fr-u6-l2",
@@ -3526,7 +3526,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (C'est un bel appartement dans )"
+    "title": "Unit 6, Lesson 2: Master irregular adjective morphology in French (beau"
   },
   "fr-u6-l3": {
     "id": "fr-u6-l3",
@@ -3636,7 +3636,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (J'ai acheté une chemise bleue )"
+    "title": "Unit 6, Lesson 3: J'ai acheté une chemise bleue"
   },
   "fr-u6-l4": {
     "id": "fr-u6-l4",
@@ -3747,7 +3747,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (C'est une très belle maison av)"
+    "title": "Unit 6, Lesson 4: C'est une très belle maison av"
   },
   "fr-u6-l5": {
     "id": "fr-u6-l5",
@@ -3860,7 +3860,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Napoléon était un grand homme,)"
+    "title": "Unit 6, Lesson 5: Napoléon était un grand homme,"
   },
   "fr-u7-l1": {
     "id": "fr-u7-l1",
@@ -3969,7 +3969,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Hier, j'ai mangé dans un bon r)"
+    "title": "Unit 7, Lesson 1: Hier, j'ai mangé dans un bon r"
   },
   "fr-u7-l2": {
     "id": "fr-u7-l2",
@@ -4083,7 +4083,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Qu'est-ce que tu as fait ce we)"
+    "title": "Unit 7, Lesson 2: Qu'est-ce que tu as fait ce we"
   },
   "fr-u7-l3": {
     "id": "fr-u7-l3",
@@ -4193,7 +4193,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Elle est allée à Paris.)"
+    "title": "Unit 7, Lesson 3: Elle est allée à Paris."
   },
   "fr-u7-l4": {
     "id": "fr-u7-l4",
@@ -4302,7 +4302,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Elle s'est réveillée à sept he)"
+    "title": "Unit 7, Lesson 4: Elle s'est réveillée à sept he"
   },
   "fr-u7-l5": {
     "id": "fr-u7-l5",
@@ -4414,7 +4414,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Je n'ai pas compris la questio)"
+    "title": "Unit 7, Lesson 5: Place negative frames (ne"
   },
   "fr-u8-l1": {
     "id": "fr-u8-l1",
@@ -4523,7 +4523,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Quand j'étais jeune, je parlai)"
+    "title": "Unit 8, Lesson 1: Quand j'étais jeune, je parlai"
   },
   "fr-u8-l2": {
     "id": "fr-u8-l2",
@@ -4742,7 +4742,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (Quand j'étais enfant, nous hab)"
+    "title": "Unit 9, Lesson 3: Quand j'étais enfant, nous hab"
   },
   "fr-u9-l2": {
     "id": "fr-u9-l2",
@@ -4850,7 +4850,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Je marchais tranquillement dan)"
+    "title": "Unit 9, Lesson 4: Je marchais tranquillement dan"
   },
   "fr-u9-l3": {
     "id": "fr-u9-l3",
@@ -4959,7 +4959,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Tout à coup, une voiture rouge)"
+    "title": "Unit 9, Lesson 5: Tout à coup, une voiture rouge"
   },
   "fr-u9-l4": {
     "id": "fr-u9-l4",
@@ -5067,7 +5067,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Je savais qu'il était malade, )"
+    "title": "Unit 9, Lesson 1: Je savais qu'il était malade,"
   },
   "fr-u9-l5": {
     "id": "fr-u9-l5",
@@ -5174,7 +5174,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (La nuit était silencieuse et l)"
+    "title": "Unit 9, Lesson 2: La nuit était silencieuse et l"
   },
   "fr-u10-l1": {
     "id": "fr-u10-l1",
@@ -5282,7 +5282,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Je vais préparer une salade co)"
+    "title": "Unit 10, Lesson 3: Express immediate future"
   },
   "fr-u10-l2": {
     "id": "fr-u10-l2",
@@ -5390,7 +5390,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (L'année prochaine, nous voyage)"
+    "title": "Unit 10, Lesson 4: Form the futur simple for regular -er"
   },
   "fr-u10-l3": {
     "id": "fr-u10-l3",
@@ -5498,7 +5498,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Demain, il fera beau sur toute)"
+    "title": "Unit 10, Lesson 5: Demain, il fera beau sur toute"
   },
   "fr-u10-l4": {
     "id": "fr-u10-l4",
@@ -5605,7 +5605,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Quand nous aurons terminé cett)"
+    "title": "Unit 10, Lesson 1: Quand nous aurons terminé cett"
   },
   "fr-u10-l5": {
     "id": "fr-u10-l5",
@@ -5712,7 +5712,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Ce week-end, je vais me repose)"
+    "title": "Unit 10, Lesson 2: Synthesize futur proche and futur simple in discourse"
   },
   "fr-u11-l1": {
     "id": "fr-u11-l1",
@@ -6034,7 +6034,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Cette chanson magnifique, je l)"
+    "title": "Unit 11, Lesson 5: Cette chanson magnifique, je l"
   },
   "fr-u11-l4": {
     "id": "fr-u11-l4",
@@ -6141,7 +6141,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Ce dossier confidentiel, je le)"
+    "title": "Unit 11, Lesson 1: Ce dossier confidentiel, je le"
   },
   "fr-u11-l5": {
     "id": "fr-u11-l5",
@@ -6248,7 +6248,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (Si tu as ce rapport financier )"
+    "title": "Unit 11, Lesson 2: Si tu as ce rapport financier"
   },
   "fr-u12-l1": {
     "id": "fr-u12-l1",
@@ -6355,7 +6355,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (Est-ce que tu vas souvent à la)"
+    "title": "Unit 12, Lesson 3: Est-ce que tu vas souvent à la"
   },
   "fr-u12-l2": {
     "id": "fr-u12-l2",
@@ -6462,7 +6462,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Tu as acheté des fruits frais )"
+    "title": "Unit 12, Lesson 4: Master the adverbial pronoun 'EN' to replace quantities"
   },
   "fr-u12-l3": {
     "id": "fr-u12-l3",
@@ -6676,7 +6676,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (Il se fait tard et j'ai une lo)"
+    "title": "Unit 12, Lesson 1: Il se fait tard et j'ai une lo"
   },
   "fr-u12-l5": {
     "id": "fr-u12-l5",
@@ -6783,7 +6783,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (Ces délicieuses pommes du verg)"
+    "title": "Unit 12, Lesson 2: Synthesize all French personal and adverbial pronouns (COD"
   },
   "fr-u8-l3": {
     "id": "fr-u8-l3",
@@ -6892,7 +6892,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Tous les étés, nous allions à )"
+    "title": "Unit 8, Lesson 3: Use l'imparfait to describe recurring habits"
   },
   "fr-u8-l4": {
     "id": "fr-u8-l4",
@@ -7115,7 +7115,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Je dormais quand le téléphone )"
+    "title": "Unit 8, Lesson 5: Je dormais quand le téléphone"
   },
   "fr-u13-l1": {
     "id": "fr-u13-l1",
@@ -7224,7 +7224,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (J'aimerais visiter le musée du)"
+    "title": "Unit 13, Lesson 1: J'aimerais visiter le musée du"
   },
   "fr-u13-l2": {
     "id": "fr-u13-l2",
@@ -7333,7 +7333,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 2: Foundational & Structural Mastery (Bonjour Madame, je voudrais un)"
+    "title": "Unit 13, Lesson 2: Use 'je voudrais'"
   },
   "fr-u13-l3": {
     "id": "fr-u13-l3",
@@ -7442,7 +7442,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 3: Foundational & Structural Mastery (Tu devrais dormir au moins hui)"
+    "title": "Unit 13, Lesson 3: Tu devrais dormir au moins hui"
   },
   "fr-u13-l4": {
     "id": "fr-u13-l4",
@@ -7550,7 +7550,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (Selon des sources policières, )"
+    "title": "Unit 13, Lesson 4: Selon des sources policières,"
   },
   "fr-u13-l5": {
     "id": "fr-u13-l5",
@@ -7658,7 +7658,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (Si j'avais plus de temps libre)"
+    "title": "Unit 13, Lesson 5: Si j'avais plus de temps libre"
   },
   "fr-u14-l1": {
     "id": "fr-u14-l1",
@@ -7766,7 +7766,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 1: Foundational & Structural Mastery (Il faut que nous parlions au d)"
+    "title": "Unit 14, Lesson 1: Il faut que nous parlions au d"
   },
   "fr-u14-l2": {
     "id": "fr-u14-l2",
@@ -7983,7 +7983,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 3: Foundational & Structural Mastery (Il faut que nous prenions une )"
+    "title": "Unit 14, Lesson 3: Il faut que nous prenions une"
   },
   "fr-u14-l4": {
     "id": "fr-u14-l4",
@@ -8091,7 +8091,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Mon père veut absolument que j)"
+    "title": "Unit 14, Lesson 4: Use the subjunctive after verbs of desire"
   },
   "fr-u14-l5": {
     "id": "fr-u14-l5",
@@ -8200,7 +8200,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 5: Foundational & Structural Mastery (Je pense que ce restaurant est)"
+    "title": "Unit 14, Lesson 5: Distinguish indicative certainty from subjunctive doubt"
   },
   "fr-u15-l1": {
     "id": "fr-u15-l1",
@@ -8309,7 +8309,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 1: Foundational & Structural Mastery (Voici l'architecte qui a conçu)"
+    "title": "Unit 15, Lesson 1: Voici l'architecte qui a conçu"
   },
   "fr-u15-l2": {
     "id": "fr-u15-l2",
@@ -8418,7 +8418,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (La robe que Sophie a achetée h)"
+    "title": "Unit 15, Lesson 2: La robe que Sophie a achetée h"
   },
   "fr-u15-l3": {
     "id": "fr-u15-l3",
@@ -8527,7 +8527,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (Paris est la ville où mes pare)"
+    "title": "Unit 15, Lesson 3: Paris est la ville où mes pare"
   },
   "fr-u15-l4": {
     "id": "fr-u15-l4",
@@ -8636,7 +8636,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 4: Foundational & Structural Mastery (C'est précisément l'ordinateur)"
+    "title": "Unit 15, Lesson 4: C'est précisément l'ordinateur"
   },
   "fr-u15-l5": {
     "id": "fr-u15-l5",
@@ -8745,7 +8745,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (Ce qui m'impressionne le plus )"
+    "title": "Unit 15, Lesson 5: Deploy indefinite relative pronouns CE QUI"
   },
   "fr-u16-l1": {
     "id": "fr-u16-l1",
@@ -8853,7 +8853,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (Le nouveau modèle de train est)"
+    "title": "Unit 16, Lesson 1: Le nouveau modèle de train est"
   },
   "fr-u16-l2": {
     "id": "fr-u16-l2",
@@ -8962,7 +8962,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 2: Foundational & Structural Mastery (Cette petite boulangerie a aut)"
+    "title": "Unit 16, Lesson 2: Form comparative structures with nouns (plus de"
   },
   "fr-u16-l3": {
     "id": "fr-u16-l3",
@@ -9071,7 +9071,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 3: Foundational & Structural Mastery (Cette boulangerie artisanale p)"
+    "title": "Unit 16, Lesson 3: Master irregular comparatives"
   },
   "fr-u16-l4": {
     "id": "fr-u16-l4",
@@ -9180,7 +9180,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (Le mont Blanc est le sommet le)"
+    "title": "Unit 16, Lesson 4: Construct superlative statements (le plus"
   },
   "fr-u16-l5": {
     "id": "fr-u16-l5",
@@ -9290,7 +9290,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (Ce smartphone offre de loin le)"
+    "title": "Unit 16, Lesson 5: Ce smartphone offre de loin le"
   },
   "fr-u17-l1": {
     "id": "fr-u17-l1",
@@ -9398,7 +9398,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Quand la police est arrivée su)"
+    "title": "Unit 17, Lesson 1: Quand la police est arrivée su"
   },
   "fr-u17-l2": {
     "id": "fr-u17-l2",
@@ -9506,7 +9506,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (Julien a raté son vol parce qu)"
+    "title": "Unit 17, Lesson 2: Julien a raté son vol parce qu"
   },
   "fr-u17-l3": {
     "id": "fr-u17-l3",
@@ -9614,7 +9614,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (Le journaliste a expliqué que )"
+    "title": "Unit 17, Lesson 3: Le journaliste a expliqué que"
   },
   "fr-u17-l4": {
     "id": "fr-u17-l4",
@@ -9723,7 +9723,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 4: Foundational & Structural Mastery (Si seulement nous avions réser)"
+    "title": "Unit 17, Lesson 4: Si seulement nous avions réser"
   },
   "fr-u17-l5": {
     "id": "fr-u17-l5",
@@ -9833,7 +9833,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 5: Foundational & Structural Mastery (Tout avait commencé cinq ans a)"
+    "title": "Unit 17, Lesson 5: Tout avait commencé cinq ans a"
   },
   "fr-u18-l1": {
     "id": "fr-u18-l1",
@@ -9942,7 +9942,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (S'il fait beau ce week-end, no)"
+    "title": "Unit 18, Lesson 1: S'il fait beau ce week-end, no"
   },
   "fr-u18-l2": {
     "id": "fr-u18-l2",
@@ -10050,7 +10050,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 2: Foundational & Structural Mastery (Si j'avais plus de temps libre)"
+    "title": "Unit 18, Lesson 2: Si j'avais plus de temps libre"
   },
   "fr-u18-l3": {
     "id": "fr-u18-l3",
@@ -10158,7 +10158,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 3: Foundational & Structural Mastery (Si nous avions su que la route)"
+    "title": "Unit 18, Lesson 3: Si nous avions su que la route"
   },
   "fr-u18-l4": {
     "id": "fr-u18-l4",
@@ -10266,7 +10266,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 4: Foundational & Structural Mastery (Si j'avais suivi des cours de )"
+    "title": "Unit 18, Lesson 4: Si j'avais suivi des cours de"
   },
   "fr-u18-l5": {
     "id": "fr-u18-l5",
@@ -10375,7 +10375,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 5: Foundational & Structural Mastery (Vous pouvez emprunter ce matér)"
+    "title": "Unit 18, Lesson 5: Vous pouvez emprunter ce matér"
   },
   "fr-u19-l1": {
     "id": "fr-u19-l1",
@@ -10484,7 +10484,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (Ce chef-d'œuvre de la Renaissa)"
+    "title": "Unit 19, Lesson 1: Ce chef-d'œuvre de la Renaissa"
   },
   "fr-u19-l2": {
     "id": "fr-u19-l2",
@@ -10592,7 +10592,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 2: Foundational & Structural Mastery (Ce professeur émérite était pr)"
+    "title": "Unit 19, Lesson 2: Identify verbs of state"
   },
   "fr-u19-l3": {
     "id": "fr-u19-l3",
@@ -10701,7 +10701,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 3: Foundational & Structural Mastery (Ce cépage rouge réputé se dégu)"
+    "title": "Unit 19, Lesson 3: Ce cépage rouge réputé se dégu"
   },
   "fr-u19-l4": {
     "id": "fr-u19-l4",
@@ -10810,7 +10810,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 4: Foundational & Structural Mastery (Avant leur grand voyage humani)"
+    "title": "Unit 19, Lesson 4: Avant leur grand voyage humani"
   },
   "fr-u19-l5": {
     "id": "fr-u19-l5",
@@ -10918,7 +10918,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 5: Foundational & Structural Mastery (On a découvert un nouveau gise)"
+    "title": "Unit 19, Lesson 5: On a découvert un nouveau gise"
   },
   "fr-u20-l1": {
     "id": "fr-u20-l1",
@@ -11027,7 +11027,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 1: Foundational & Structural Mastery (Le médecin affirme que le pati)"
+    "title": "Unit 20, Lesson 1: Le médecin affirme que le pati"
   },
   "fr-u20-l2": {
     "id": "fr-u20-l2",
@@ -11135,7 +11135,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 2: Foundational & Structural Mastery (Le ministre a déclaré lors du )"
+    "title": "Unit 20, Lesson 2: Le ministre a déclaré lors du"
   },
   "fr-u20-l3": {
     "id": "fr-u20-l3",
@@ -11243,7 +11243,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 3: Foundational & Structural Mastery (Le directeur a promis que les )"
+    "title": "Unit 20, Lesson 3: Le directeur a promis que les"
   },
   "fr-u20-l4": {
     "id": "fr-u20-l4",
@@ -11351,7 +11351,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 4: Foundational & Structural Mastery (Le témoin a déclaré que l'agre)"
+    "title": "Unit 20, Lesson 4: Le témoin a déclaré que l'agre"
   },
   "fr-u20-l5": {
     "id": "fr-u20-l5",
@@ -11462,7 +11462,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (Le ministre a catégoriquement )"
+    "title": "Unit 20, Lesson 5: Le ministre a catégoriquement"
   },
   "fr-u21-l1": {
     "id": "fr-u21-l1",
@@ -11571,7 +11571,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 1: Foundational & Structural Mastery (Comme les conditions météorolo)"
+    "title": "Unit 21, Lesson 1: Express cause across varied registers (parce que"
   },
   "fr-u21-l2": {
     "id": "fr-u21-l2",
@@ -11679,7 +11679,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 2: Foundational & Structural Mastery (Grâce au dévouement exemplaire)"
+    "title": "Unit 21, Lesson 2: Grâce au dévouement exemplaire"
   },
   "fr-u21-l3": {
     "id": "fr-u21-l3",
@@ -11787,7 +11787,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 3: Foundational & Structural Mastery (Le gouvernement a revalorisé l)"
+    "title": "Unit 21, Lesson 3: Express purpose requiring subjunctive (pour que"
   },
   "fr-u21-l4": {
     "id": "fr-u21-l4",
@@ -11898,7 +11898,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 4: Foundational & Structural Mastery (La réunion a duré beaucoup plu)"
+    "title": "Unit 21, Lesson 4: La réunion a duré beaucoup plu"
   },
   "fr-u21-l5": {
     "id": "fr-u21-l5",
@@ -12008,7 +12008,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 5: Foundational & Structural Mastery (Étant donné la hausse spectacu)"
+    "title": "Unit 21, Lesson 5: Structure cause"
   },
   "fr-u22-l1": {
     "id": "fr-u22-l1",
@@ -12117,7 +12117,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 22, Lesson 1: Foundational & Structural Mastery (La région côtière bénéficie d')"
+    "title": "Unit 22, Lesson 1: Distinguish logical opposition (tandis que"
   },
   "fr-u22-l2": {
     "id": "fr-u22-l2",
@@ -12226,7 +12226,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 22, Lesson 2: Foundational & Structural Mastery (Bien que ce quartier historiqu)"
+    "title": "Unit 22, Lesson 2: Bien que ce quartier historiqu"
   },
   "fr-u22-l3": {
     "id": "fr-u22-l3",
@@ -12335,7 +12335,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 22, Lesson 3: Foundational & Structural Mastery (En dépit des nombreuses réserv)"
+    "title": "Unit 22, Lesson 3: En dépit des nombreuses réserv"
   },
   "fr-u22-l4": {
     "id": "fr-u22-l4",
@@ -12445,7 +12445,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 22, Lesson 4: Foundational & Structural Mastery (Le bilan semestriel de l'entre)"
+    "title": "Unit 22, Lesson 4: Le bilan semestriel de l'entre"
   },
   "fr-u22-l5": {
     "id": "fr-u22-l5",
@@ -12554,7 +12554,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 22, Lesson 5: Foundational & Structural Mastery (Certes, cette réforme exigera )"
+    "title": "Unit 22, Lesson 5: Certes, cette réforme exigera"
   },
   "fr-u23-l1": {
     "id": "fr-u23-l1",
@@ -12663,7 +12663,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 1: Foundational & Structural Mastery (Faisant suite à notre échange )"
+    "title": "Unit 23, Lesson 1: Faisant suite à notre échange"
   },
   "fr-u23-l2": {
     "id": "fr-u23-l2",
@@ -12771,7 +12771,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 2: Foundational & Structural Mastery (Fort d'une expérience de six a)"
+    "title": "Unit 23, Lesson 2: Draft a French CV and a compelling"
   },
   "fr-u23-l3": {
     "id": "fr-u23-l3",
@@ -12880,7 +12880,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 3: Foundational & Structural Mastery (Si vous vous engagez sur un vo)"
+    "title": "Unit 23, Lesson 3: Conduct commercial negotiations"
   },
   "fr-u23-l4": {
     "id": "fr-u23-l4",
@@ -12988,7 +12988,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 4: Foundational & Structural Mastery (Nous comprenons parfaitement v)"
+    "title": "Unit 23, Lesson 4: Nous comprenons parfaitement v"
   },
   "fr-u23-l5": {
     "id": "fr-u23-l5",
@@ -13096,7 +13096,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 5: Foundational & Structural Mastery (Les deux délégations ont parap)"
+    "title": "Unit 23, Lesson 5: Les deux délégations ont parap"
   },
   "fr-u24-l1": {
     "id": "fr-u24-l1",
@@ -13205,7 +13205,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 24, Lesson 1: Foundational & Structural Mastery (Je ressens une douleur lancina)"
+    "title": "Unit 24, Lesson 1: Conduct a standard medical consultation"
   },
   "fr-u24-l2": {
     "id": "fr-u24-l2",
@@ -13314,7 +13314,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 24, Lesson 2: Foundational & Structural Mastery (Prenez deux gélules d'amoxicil)"
+    "title": "Unit 24, Lesson 2: Understand pharmacological prescriptions"
   },
   "fr-u24-l3": {
     "id": "fr-u24-l3",
@@ -13423,7 +13423,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 24, Lesson 3: Foundational & Structural Mastery (En insérant votre carte Vitale)"
+    "title": "Unit 24, Lesson 3: En insérant votre carte Vitale"
   },
   "fr-u24-l4": {
     "id": "fr-u24-l4",
@@ -13533,7 +13533,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 24, Lesson 4: Foundational & Structural Mastery (Le SAMU a régulé l'appel et dé)"
+    "title": "Unit 24, Lesson 4: Describe hospital admissions"
   },
   "fr-u24-l5": {
     "id": "fr-u24-l5",
@@ -13644,7 +13644,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 24, Lesson 5: Foundational & Structural Mastery (La lutte contre les déserts mé)"
+    "title": "Unit 24, Lesson 5: Debate contemporary public health issues"
   },
   "fr-u25-l1": {
     "id": "fr-u25-l1",
@@ -13753,7 +13753,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 25, Lesson 1: Foundational & Structural Mastery (En vertu du principe de la hié)"
+    "title": "Unit 25, Lesson 1: En vertu du principe de la hié"
   },
   "fr-u25-l2": {
     "id": "fr-u25-l2",
@@ -13862,7 +13862,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 25, Lesson 2: Foundational & Structural Mastery (En cas d'inexécution par l'une)"
+    "title": "Unit 25, Lesson 2: Interpret and draft contractual clauses (clause résolutoire"
   },
   "fr-u25-l3": {
     "id": "fr-u25-l3",
@@ -13971,7 +13971,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 25, Lesson 3: Foundational & Structural Mastery (Le demandeur a fait signifier )"
+    "title": "Unit 25, Lesson 3: Le demandeur a fait signifier"
   },
   "fr-u25-l4": {
     "id": "fr-u25-l4",
@@ -14080,7 +14080,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 25, Lesson 4: Foundational & Structural Mastery (L'article 1240 du Code civil c)"
+    "title": "Unit 25, Lesson 4: L'article 1240 du Code civil c"
   },
   "fr-u25-l5": {
     "id": "fr-u25-l5",
@@ -14189,7 +14189,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 25, Lesson 5: Foundational & Structural Mastery (En l'espèce, la qualification )"
+    "title": "Unit 25, Lesson 5: En l'espèce, la qualification"
   },
   "fr-u26-l1": {
     "id": "fr-u26-l1",
@@ -14299,7 +14299,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 26, Lesson 1: Foundational & Structural Mastery (Pour juguler les tensions infl)"
+    "title": "Unit 26, Lesson 1: Pour juguler les tensions infl"
   },
   "fr-u26-l2": {
     "id": "fr-u26-l2",
@@ -14408,7 +14408,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 26, Lesson 2: Foundational & Structural Mastery (L'augmentation sensible de l'E)"
+    "title": "Unit 26, Lesson 2: Analyze corporate balance sheets"
   },
   "fr-u26-l3": {
     "id": "fr-u26-l3",
@@ -14519,7 +14519,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 26, Lesson 3: Foundational & Structural Mastery (Le CAC 40 a clôturé en forte h)"
+    "title": "Unit 26, Lesson 3: Debate capital market dynamics"
   },
   "fr-u26-l4": {
     "id": "fr-u26-l4",
@@ -14629,7 +14629,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 26, Lesson 4: Foundational & Structural Mastery (La jeune pousse de la French T)"
+    "title": "Unit 26, Lesson 4: Evaluate banking regulations"
   },
   "fr-u26-l5": {
     "id": "fr-u26-l5",
@@ -14739,7 +14739,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 26, Lesson 5: Foundational & Structural Mastery (Le scénario central de notre n)"
+    "title": "Unit 26, Lesson 5: Le scénario central de notre n"
   },
   "fr-u27-l1": {
     "id": "fr-u27-l1",
@@ -14849,7 +14849,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 27, Lesson 1: Foundational & Structural Mastery (Dans 'Madame Bovary', Flaubert)"
+    "title": "Unit 27, Lesson 1: Analyze French narrative techniques"
   },
   "fr-u27-l2": {
     "id": "fr-u27-l2",
@@ -14961,7 +14961,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 27, Lesson 2: Foundational & Structural Mastery (Le sonnet régulier de Baudelai)"
+    "title": "Unit 27, Lesson 2: Identify classical and modern poetic forms"
   },
   "fr-u27-l3": {
     "id": "fr-u27-l3",
@@ -15073,7 +15073,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 27, Lesson 3: Foundational & Structural Mastery (Dans 'À bout de souffle', Jean)"
+    "title": "Unit 27, Lesson 3: Examine French cinematic aesthetics"
   },
   "fr-u27-l4": {
     "id": "fr-u27-l4",
@@ -15184,7 +15184,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 27, Lesson 4: Foundational & Structural Mastery (Dans 'Phèdre' de Racine, l'hér)"
+    "title": "Unit 27, Lesson 4: Dissect dramatic theater conventions"
   },
   "fr-u27-l5": {
     "id": "fr-u27-l5",
@@ -15292,7 +15292,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 27, Lesson 5: Foundational & Structural Mastery (Loin de se réduire à un simple)"
+    "title": "Unit 27, Lesson 5: Write an advanced"
   },
   "fr-u28-l1": {
     "id": "fr-u28-l1",
@@ -15402,7 +15402,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 28, Lesson 1: Foundational & Structural Mastery (Le sixième rapport d'évaluatio)"
+    "title": "Unit 28, Lesson 1: Debate climate change mechanisms"
   },
   "fr-u28-l2": {
     "id": "fr-u28-l2",
@@ -15514,7 +15514,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 28, Lesson 2: Foundational & Structural Mastery (La fragmentation des habitats )"
+    "title": "Unit 28, Lesson 2: Analyze biodiversity conservation strategies"
   },
   "fr-u28-l3": {
     "id": "fr-u28-l3",
@@ -15624,7 +15624,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 28, Lesson 3: Foundational & Structural Mastery (Grâce à son parc électronucléa)"
+    "title": "Unit 28, Lesson 3: Grâce à son parc électronucléa"
   },
   "fr-u28-l4": {
     "id": "fr-u28-l4",
@@ -15733,7 +15733,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 28, Lesson 4: Foundational & Structural Mastery (La loi AGEC interdit progressi)"
+    "title": "Unit 28, Lesson 4: Examine circular economy models"
   },
   "fr-u28-l5": {
     "id": "fr-u28-l5",
@@ -15842,7 +15842,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 28, Lesson 5: Foundational & Structural Mastery (L'Accord de Paris sur le clima)"
+    "title": "Unit 28, Lesson 5: L'Accord de Paris sur le clima"
   },
   "fr-u29-l1": {
     "id": "fr-u29-l1",
@@ -15951,7 +15951,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 29, Lesson 1: Foundational & Structural Mastery (La Constitution de 1958 instau)"
+    "title": "Unit 29, Lesson 1: La Constitution de 1958 instau"
   },
   "fr-u29-l2": {
     "id": "fr-u29-l2",
@@ -16061,7 +16061,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 29, Lesson 2: Foundational & Structural Mastery (Le recours à l'article 49 alin)"
+    "title": "Unit 29, Lesson 2: Navigate parliamentary mechanics"
   },
   "fr-u29-l3": {
     "id": "fr-u29-l3",
@@ -16170,7 +16170,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 29, Lesson 3: Foundational & Structural Mastery (Le scrutin uninominal majorita)"
+    "title": "Unit 29, Lesson 3: Examine electoral systems"
   },
   "fr-u29-l4": {
     "id": "fr-u29-l4",
@@ -16281,7 +16281,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 29, Lesson 4: Foundational & Structural Mastery (La loi de 1905 garantit la lib)"
+    "title": "Unit 29, Lesson 4: La loi de 1905 garantit la lib"
   },
   "fr-u29-l5": {
     "id": "fr-u29-l5",
@@ -16392,7 +16392,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 29, Lesson 5: Foundational & Structural Mastery (S'il est indéniable que la Ve )"
+    "title": "Unit 29, Lesson 5: S'il est indéniable que la Ve"
   },
   "fr-u30-l1": {
     "id": "fr-u30-l1",
@@ -16500,7 +16500,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 30, Lesson 1: Foundational & Structural Mastery (Selon Jean-Jacques Rousseau, l)"
+    "title": "Unit 30, Lesson 1: Analyze Enlightenment philosophy"
   },
   "fr-u30-l2": {
     "id": "fr-u30-l2",
@@ -16609,7 +16609,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 30, Lesson 2: Foundational & Structural Mastery (Par le doute méthodique et hyp)"
+    "title": "Unit 30, Lesson 2: Examine Cartesian rationalism"
   },
   "fr-u30-l3": {
     "id": "fr-u30-l3",
@@ -16719,7 +16719,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 30, Lesson 3: Foundational & Structural Mastery (Pour Jean-Paul Sartre, la form)"
+    "title": "Unit 30, Lesson 3: Pour Jean-Paul Sartre, la form"
   },
   "fr-u30-l4": {
     "id": "fr-u30-l4",
@@ -16831,7 +16831,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 30, Lesson 4: Foundational & Structural Mastery (Michel Foucault démontre dans )"
+    "title": "Unit 30, Lesson 4: Examine post-structuralist thought"
   },
   "fr-u30-l5": {
     "id": "fr-u30-l5",
@@ -16939,7 +16939,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 30, Lesson 5: Foundational & Structural Mastery (L'introduction de la dissertat)"
+    "title": "Unit 30, Lesson 5: L'introduction de la dissertat"
   },
   "fr-u31-l1": {
     "id": "fr-u31-l1",
@@ -17051,7 +17051,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 1: Foundational & Structural Mastery (Nous postulons à titre d'hypot)"
+    "title": "Unit 31, Lesson 1: Formulate scientific research hypotheses"
   },
   "fr-u31-l2": {
     "id": "fr-u31-l2",
@@ -17160,7 +17160,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 2: Foundational & Structural Mastery (Gaston Bachelard affirme que l)"
+    "title": "Unit 31, Lesson 2: Analyze epistemological ruptures"
   },
   "fr-u31-l3": {
     "id": "fr-u31-l3",
@@ -17268,7 +17268,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 3: Foundational & Structural Mastery (Monsieur le Président, Mesdame)"
+    "title": "Unit 31, Lesson 3: Monsieur le Président, Mesdame"
   },
   "fr-u31-l4": {
     "id": "fr-u31-l4",
@@ -17378,7 +17378,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 4: Foundational & Structural Mastery (L'avènement des ciseaux molécu)"
+    "title": "Unit 31, Lesson 4: Debate frontiers in biotechnology"
   },
   "fr-u31-l5": {
     "id": "fr-u31-l5",
@@ -17486,7 +17486,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 5: Foundational & Structural Mastery (Il appert que le décloisonneme)"
+    "title": "Unit 31, Lesson 5: Il appert que le décloisonneme"
   },
   "fr-u32-l1": {
     "id": "fr-u32-l1",
@@ -17594,7 +17594,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 32, Lesson 1: Foundational & Structural Mastery (Son Excellence Monsieur l'Amba)"
+    "title": "Unit 32, Lesson 1: Master formal diplomatic registers"
   },
   "fr-u32-l2": {
     "id": "fr-u32-l2",
@@ -17702,7 +17702,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 32, Lesson 2: Foundational & Structural Mastery (Les Hautes Parties contractant)"
+    "title": "Unit 32, Lesson 2: Draft multilateral treaties"
   },
   "fr-u32-l3": {
     "id": "fr-u32-l3",
@@ -17811,7 +17811,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 32, Lesson 3: Foundational & Structural Mastery (Monsieur le Secrétaire général)"
+    "title": "Unit 32, Lesson 3: Monsieur le Secrétaire général"
   },
   "fr-u32-l4": {
     "id": "fr-u32-l4",
@@ -17919,7 +17919,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 32, Lesson 4: Foundational & Structural Mastery (La Suisse et la France ont off)"
+    "title": "Unit 32, Lesson 4: La Suisse et la France ont off"
   },
   "fr-u32-l5": {
     "id": "fr-u32-l5",
@@ -18029,7 +18029,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 32, Lesson 5: Foundational & Structural Mastery (Dans ce temple des Nations Uni)"
+    "title": "Unit 32, Lesson 5: Dans ce temple des Nations Uni"
   },
   "fr-u33-l1": {
     "id": "fr-u33-l1",
@@ -18139,7 +18139,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 33, Lesson 1: Foundational & Structural Mastery (À peine le marquis eut-il fran)"
+    "title": "Unit 33, Lesson 1: À peine le marquis eut-il fran"
   },
   "fr-u33-l2": {
     "id": "fr-u33-l2",
@@ -18249,7 +18249,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 33, Lesson 2: Foundational & Structural Mastery (Bien qu'il fût épuisé par une )"
+    "title": "Unit 33, Lesson 2: Bien qu'il fût épuisé par une"
   },
   "fr-u33-l3": {
     "id": "fr-u33-l3",
@@ -18357,7 +18357,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 33, Lesson 3: Foundational & Structural Mastery (Lorsque le silence se fait sur)"
+    "title": "Unit 33, Lesson 3: Lorsque le silence se fait sur"
   },
   "fr-u33-l4": {
     "id": "fr-u33-l4",
@@ -18467,7 +18467,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 33, Lesson 4: Foundational & Structural Mastery (Dans Les Fleurs du Mal, Baudel)"
+    "title": "Unit 33, Lesson 4: Dans Les Fleurs du Mal, Baudel"
   },
   "fr-u33-l5": {
     "id": "fr-u33-l5",
@@ -18575,7 +18575,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 33, Lesson 5: Foundational & Structural Mastery (Longtemps après que le timbre )"
+    "title": "Unit 33, Lesson 5: Longtemps après que le timbre"
   },
   "fr-u34-l1": {
     "id": "fr-u34-l1",
@@ -18683,7 +18683,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 1: Foundational & Structural Mastery (« Entre ici, Jean Moulin, avec)"
+    "title": "Unit 34, Lesson 1: Deliver high-impact public oratory"
   },
   "fr-u34-l2": {
     "id": "fr-u34-l2",
@@ -18791,7 +18791,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 2: Foundational & Structural Mastery (Le locuteur C2 sait basculer i)"
+    "title": "Unit 34, Lesson 2: Le locuteur C2 sait basculer i"
   },
   "fr-u34-l3": {
     "id": "fr-u34-l3",
@@ -18899,7 +18899,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 3: Foundational & Structural Mastery (Au Québec, on 'barre les porte)"
+    "title": "Unit 34, Lesson 3: Au Québec, on 'barre les porte"
   },
   "fr-u34-l4": {
     "id": "fr-u34-l4",
@@ -19007,7 +19007,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 4: Foundational & Structural Mastery (« C'est précisément l'argument)"
+    "title": "Unit 34, Lesson 4: Engage in real-time dialectical debate"
   },
   "fr-u34-l5": {
     "id": "fr-u34-l5",
@@ -19117,7 +19117,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 34, Lesson 5: Foundational & Structural Mastery (Au terme de ce parcours sommit)"
+    "title": "Unit 34, Lesson 5: Au terme de ce parcours sommit"
   }
 };
   var CURRICULUM = { id: 'french', name: "French", units: UNITS, lessons: LESSONS };

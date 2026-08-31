@@ -221,7 +221,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 2: Foundational & Structural Mastery (If Rf = 4.0%, ERP = 5.5%, and )"
+    "title": "Unit 1111, Lesson 2: If Rf = 4.0%, ERP = 5.5%, and"
   },
   "b111-u1-l3": {
     "id": "b111-u1-l3",
@@ -303,7 +303,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 3: Foundational & Structural Mastery (If a stock has a raw regressio)"
+    "title": "Unit 1111, Lesson 3: Beta Estimation"
   },
   "b111-u1-l4": {
     "id": "b111-u1-l4",
@@ -631,7 +631,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 2: Foundational & Structural Mastery (Trade-off theory balances the )"
+    "title": "Unit 1111, Lesson 2: Trade-off theory balances the"
   },
   "b111-u1-l8": {
     "id": "b111-u1-l8",
@@ -713,7 +713,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1111, Lesson 3: Foundational & Structural Mastery (In an LBO with a 5-year debt p)"
+    "title": "Unit 1111, Lesson 3: In an LBO with a 5-year debt p"
   },
   "b111-u1-l9": {
     "id": "b111-u1-l9",
@@ -1533,7 +1533,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 3: Foundational & Structural Mastery (Black-Scholes call option pric)"
+    "title": "Unit 1113, Lesson 3: Black-Scholes call option pric"
   },
   "b111-u3-l2": {
     "id": "b111-u3-l2",
@@ -1615,7 +1615,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 4: Foundational & Structural Mastery (Newton-Raphson iteratively rec)"
+    "title": "Unit 1113, Lesson 4: The Implied Volatility Surface"
   },
   "b111-u3-l3": {
     "id": "b111-u3-l3",
@@ -1697,7 +1697,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 5: Foundational & Structural Mastery (Real options analysis proves t)"
+    "title": "Unit 1113, Lesson 5: Real options analysis proves t"
   },
   "b111-u3-l4": {
     "id": "b111-u3-l4",
@@ -1861,7 +1861,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 2: Foundational & Structural Mastery (In an all-stock deal, if the a)"
+    "title": "Unit 1113, Lesson 2: In an all-stock deal, if the a"
   },
   "b111-u3-l6": {
     "id": "b111-u3-l6",
@@ -2107,7 +2107,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1113, Lesson 5: Foundational & Structural Mastery (Covered Interest Rate Parity d)"
+    "title": "Unit 1113, Lesson 5: Cross-Border Valuation"
   },
   "b111-u3-l9": {
     "id": "b111-u3-l9",

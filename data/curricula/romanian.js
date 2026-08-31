@@ -783,7 +783,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Eu sunt din București. Tu ești)"
+    "title": "Unit 1, Lesson 2: Conjugate a fi (to be) for all subject pronouns"
   },
   "ro-u1-l3": {
     "id": "ro-u1-l3",
@@ -1020,7 +1020,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Mihai: Cum te cheamă?)"
+    "title": "Unit 1, Lesson 3: Mihai: Cum te cheamă?"
   },
   "ro-u1-l4": {
     "id": "ro-u1-l4",
@@ -1233,7 +1233,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Ana: De unde ești, Mihai?)"
+    "title": "Unit 1, Lesson 4: Ana: De unde ești, Mihai?"
   },
   "ro-u1-l5": {
     "id": "ro-u1-l5",
@@ -1455,7 +1455,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery (Vânzătorul: Bună! Un covrig?)"
+    "title": "Unit 1, Lesson 5: Combine greetings"
   },
   "ro-u2-l1": {
     "id": "ro-u2-l1",
@@ -1616,7 +1616,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1: Can count from 0 to 20 in Romanian"
   },
   "ro-u2-l2": {
     "id": "ro-u2-l2",
@@ -1777,7 +1777,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2: Can count from 21 to 100 in Romanian"
   },
   "ro-u2-l3": {
     "id": "ro-u2-l3",
@@ -1938,7 +1938,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "ro-u2-l4": {
     "id": "ro-u2-l4",
@@ -2100,7 +2100,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "ro-u2-l5": {
     "id": "ro-u2-l5",
@@ -2264,7 +2264,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "ro-u3-l1": {
     "id": "ro-u3-l1",
@@ -2425,7 +2425,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Identify immediate family members in Romanian (tată"
   },
   "ro-u3-l2": {
     "id": "ro-u3-l2",
@@ -2587,7 +2587,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2: Apply Romanian possessive adjectives (meu/mea/mei/mele"
   },
   "ro-u3-l3": {
     "id": "ro-u3-l3",
@@ -2749,7 +2749,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "ro-u3-l4": {
     "id": "ro-u3-l4",
@@ -2910,7 +2910,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "ro-u3-l5": {
     "id": "ro-u3-l5",
@@ -3073,7 +3073,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "ro-u4-l1": {
     "id": "ro-u4-l1",
@@ -3234,7 +3234,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "ro-u4-l2": {
     "id": "ro-u4-l2",
@@ -3396,7 +3396,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "ro-u4-l3": {
     "id": "ro-u4-l3",
@@ -3557,7 +3557,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "ro-u4-l4": {
     "id": "ro-u4-l4",
@@ -3718,7 +3718,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4"
   },
   "ro-u4-l5": {
     "id": "ro-u4-l5",
@@ -3881,7 +3881,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5"
   },
   "ro-u5-l1": {
     "id": "ro-u5-l1",
@@ -4025,7 +4025,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (Dimineața mă trezesc devreme ș)"
+    "title": "Unit 5, Lesson 1: Dimineața mă trezesc devreme ș"
   },
   "ro-u5-l2": {
     "id": "ro-u5-l2",
@@ -4169,7 +4169,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Eu merg cu metroul la birou în)"
+    "title": "Unit 5, Lesson 2: Conjugate high-frequency irregular present verbs (a merge"
   },
   "ro-u5-l3": {
     "id": "ro-u5-l3",
@@ -4313,7 +4313,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (Programul meu de lucru este de)"
+    "title": "Unit 5, Lesson 3: Sequence daily activities using temporal adverbs (mai întâi"
   },
   "ro-u5-l4": {
     "id": "ro-u5-l4",
@@ -4457,7 +4457,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (Trebuie să mă trezesc devreme )"
+    "title": "Unit 5, Lesson 4: Express necessity"
   },
   "ro-u5-l5": {
     "id": "ro-u5-l5",
@@ -4601,7 +4601,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Dimineața mă trezesc la 7:00, )"
+    "title": "Unit 5, Lesson 5: Integrate daily routine reflexive verbs"
   },
   "ro-u6-l1": {
     "id": "ro-u6-l1",
@@ -4746,7 +4746,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Aș dori o porție de sarmale cu)"
+    "title": "Unit 6, Lesson 1: Identify and classify traditional Romanian food"
   },
   "ro-u6-l2": {
     "id": "ro-u6-l2",
@@ -4891,7 +4891,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Bună ziua! Aș dori o masă pent)"
+    "title": "Unit 6, Lesson 2: Bună ziua! Aș dori o masă pent"
   },
   "ro-u6-l3": {
     "id": "ro-u6-l3",
@@ -5035,7 +5035,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Îmi place foarte mult mâncarea)"
+    "title": "Unit 6, Lesson 3: Îmi place foarte mult mâncarea"
   },
   "ro-u6-l4": {
     "id": "ro-u6-l4",
@@ -5180,7 +5180,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Ciorba este fierbinte și ardei)"
+    "title": "Unit 6, Lesson 4: Describe taste profiles"
   },
   "ro-u6-l5": {
     "id": "ro-u6-l5",
@@ -5325,7 +5325,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Papanașii cu dulceață de afine)"
+    "title": "Unit 6, Lesson 5: Synthesize food vocabulary"
   },
   "ro-u7-l1": {
     "id": "ro-u7-l1",
@@ -5464,7 +5464,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Ieri am lucrat toată ziua la b)"
+    "title": "Unit 7, Lesson 1: Ieri am lucrat toată ziua la b"
   },
   "ro-u7-l2": {
     "id": "ro-u7-l2",
@@ -5604,7 +5604,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (În weekend am fost la Brașov ș)"
+    "title": "Unit 7, Lesson 2: În weekend am fost la Brașov ș"
   },
   "ro-u7-l3": {
     "id": "ro-u7-l3",
@@ -5743,7 +5743,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Ne-am întâlnit cu prietenii în)"
+    "title": "Unit 7, Lesson 3: Ne-am întâlnit cu prietenii în"
   },
   "ro-u7-l4": {
     "id": "ro-u7-l4",
@@ -5883,7 +5883,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Acum două zile am ajuns la Bra)"
+    "title": "Unit 7, Lesson 4: Use Romanian past time expressions (ieri"
   },
   "ro-u7-l5": {
     "id": "ro-u7-l5",
@@ -6023,7 +6023,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Cum a fost weekendul tău la Br)"
+    "title": "Unit 7, Lesson 5: Cum a fost weekendul tău la Br"
   },
   "ro-u8-l1": {
     "id": "ro-u8-l1",
@@ -6163,7 +6163,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Caut o cămașă albă de bumbac ș)"
+    "title": "Unit 8, Lesson 1: Identify essential Romanian clothing"
   },
   "ro-u8-l2": {
     "id": "ro-u8-l2",
@@ -6303,7 +6303,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Cât costă acest palton? Pot să)"
+    "title": "Unit 8, Lesson 2: Ask for prices using 'Cât costă?' and 'Cât este?'"
   },
   "ro-u8-l3": {
     "id": "ro-u8-l3",
@@ -6442,7 +6442,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Îmi place această cămașă albas)"
+    "title": "Unit 8, Lesson 3: Îmi place această cămașă albas"
   },
   "ro-u8-l4": {
     "id": "ro-u8-l4",
@@ -6582,7 +6582,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Pe Calea Victoriei magazinele )"
+    "title": "Unit 8, Lesson 4: Form comparisons of superiority (mai"
   },
   "ro-u8-l5": {
     "id": "ro-u8-l5",
@@ -6722,7 +6722,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Geaca din piele îmi vine turna)"
+    "title": "Unit 8, Lesson 5: Geaca din piele îmi vine turna"
   },
   "ro-u9-l1": {
     "id": "ro-u9-l1",
@@ -6862,7 +6862,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Unde este cea mai apropiată st)"
+    "title": "Unit 9, Lesson 1: Identify essential Romanian public transit modes"
   },
   "ro-u9-l2": {
     "id": "ro-u9-l2",
@@ -7002,7 +7002,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (Palatul Parlamentului se află )"
+    "title": "Unit 9, Lesson 2: Palatul Parlamentului se află"
   },
   "ro-u9-l3": {
     "id": "ro-u9-l3",
@@ -7142,7 +7142,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (Mergeți tot înainte pe Calea V)"
+    "title": "Unit 9, Lesson 3: Mergeți tot înainte pe Calea V"
   },
   "ro-u9-l4": {
     "id": "ro-u9-l4",
@@ -7283,7 +7283,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Mergeți prin Parcul Cișmigiu ș)"
+    "title": "Unit 9, Lesson 4: Mergeți prin Parcul Cișmigiu ș"
   },
   "ro-u9-l5": {
     "id": "ro-u9-l5",
@@ -7423,7 +7423,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Luați metroul M1 de la Gara de)"
+    "title": "Unit 9, Lesson 5: Luați metroul M1 de la Gara de"
   },
   "ro-u10-l1": {
     "id": "ro-u10-l1",
@@ -7558,7 +7558,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Apartamentul meu are două came)"
+    "title": "Unit 10, Lesson 1: Apartamentul meu are două came"
   },
   "ro-u10-l2": {
     "id": "ro-u10-l2",
@@ -7693,7 +7693,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Trebuie să duc gunoiul înainte)"
+    "title": "Unit 10, Lesson 2: Trebuie să duc gunoiul înainte"
   },
   "ro-u10-l3": {
     "id": "ro-u10-l3",
@@ -7826,7 +7826,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Când eram copil, locuiam la ța)"
+    "title": "Unit 10, Lesson 3: Când eram copil, locuiam la ța"
   },
   "ro-u10-l4": {
     "id": "ro-u10-l4",
@@ -7961,7 +7961,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (Când eram la școală, citeam mu)"
+    "title": "Unit 10, Lesson 4: Conjugate 2nd/3rd/4th conjugation verbs (-eam"
   },
   "ro-u10-l5": {
     "id": "ro-u10-l5",
@@ -8096,7 +8096,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Integration Monologue: Welcomi)"
+    "title": "Unit 10, Lesson 5: Synthesize Romanian housing vocabulary"
   },
   "ro-u11-l1": {
     "id": "ro-u11-l1",
@@ -8183,7 +8183,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Mă spăl pe mâini cu apă și săp)"
+    "title": "Unit 11, Lesson 1: Mă spăl pe mâini cu apă și săp"
   },
   "ro-u11-l2": {
     "id": "ro-u11-l2",
@@ -8266,7 +8266,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (De ieri dimineață am febră 38.)"
+    "title": "Unit 11, Lesson 2: De ieri dimineață am febră 38."
   },
   "ro-u11-l3": {
     "id": "ro-u11-l3",
@@ -8348,7 +8348,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 3: Foundational & Structural Mastery (Bună ziua! Aveți ceva eficient)"
+    "title": "Unit 11, Lesson 3: Bună ziua! Aveți ceva eficient"
   },
   "ro-u11-l4": {
     "id": "ro-u11-l4",
@@ -8430,7 +8430,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 4: Foundational & Structural Mastery (Când sunt răcit, beau ceai cal)"
+    "title": "Unit 11, Lesson 4: Discutarea despre viață sănătoasă"
   },
   "ro-u11-l5": {
     "id": "ro-u11-l5",
@@ -8512,7 +8512,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Medicul: \"Respirați adânc... p)"
+    "title": "Unit 11, Lesson 5: Medicul: \"Respirați adânc... p"
   },
   "ro-u12-l1": {
     "id": "ro-u12-l1",
@@ -8594,7 +8594,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (Lucrez ca inginer software la )"
+    "title": "Unit 12, Lesson 1: Denumirea profesiilor"
   },
   "ro-u12-l2": {
     "id": "ro-u12-l2",
@@ -8676,7 +8676,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (Avem o ședință săptămânală în )"
+    "title": "Unit 12, Lesson 2: Descrierea rutinei de birou"
   },
   "ro-u12-l3": {
     "id": "ro-u12-l3",
@@ -8758,7 +8758,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (Ești pe mut! Pornește microfon)"
+    "title": "Unit 12, Lesson 3: Vocabular de tehnologie"
   },
   "ro-u12-l4": {
     "id": "ro-u12-l4",
@@ -8840,7 +8840,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Stimate domnule Popescu,\nVă tr)"
+    "title": "Unit 12, Lesson 4: Stimate domnule Popescu,\nVă tr"
   },
   "ro-u12-l5": {
     "id": "ro-u12-l5",
@@ -8922,7 +8922,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 5: Foundational & Structural Mastery (Recrutor: „De ce ați ales să a)"
+    "title": "Unit 12, Lesson 5: Simularea unui interviu de angajare în România"
   },
   "ro-u13-l1": {
     "id": "ro-u13-l1",
@@ -9004,7 +9004,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (În timpul liber ador să fac dr)"
+    "title": "Unit 13, Lesson 1: Exprimarea hobby-urilor"
   },
   "ro-u13-l2": {
     "id": "ro-u13-l2",
@@ -9086,7 +9086,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 2: Foundational & Structural Mastery (Am fost pe Arena Națională la )"
+    "title": "Unit 13, Lesson 2: Cultura sportivă românească"
   },
   "ro-u13-l3": {
     "id": "ro-u13-l3",
@@ -9168,7 +9168,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 3: Foundational & Structural Mastery (Am participat la un concert ex)"
+    "title": "Unit 13, Lesson 3: Muzica"
   },
   "ro-u13-l4": {
     "id": "ro-u13-l4",
@@ -9250,7 +9250,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (—Ai chef să mergem la un film )"
+    "title": "Unit 13, Lesson 4: Propunerea planurilor de ieșire"
   },
   "ro-u13-l5": {
     "id": "ro-u13-l5",
@@ -9332,7 +9332,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (Filmul „4 luni, 3 săptămâni și)"
+    "title": "Unit 13, Lesson 5: Scrierea unei cronici și recenzii critice despre filme"
   },
   "ro-u14-l1": {
     "id": "ro-u14-l1",
@@ -9414,7 +9414,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 1: Foundational & Structural Mastery (Vă rugăm să pregătiți cartea d)"
+    "title": "Unit 14, Lesson 1: Vă rugăm să pregătiți cartea d"
   },
   "ro-u14-l2": {
     "id": "ro-u14-l2",
@@ -9660,7 +9660,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Faceți plinul cu benzină nouăz)"
+    "title": "Unit 14, Lesson 4: Închirierea de mașini în România"
   },
   "ro-u14-l5": {
     "id": "ro-u14-l5",
@@ -9824,7 +9824,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 1: Foundational & Structural Mastery (Mă scuzați, aveți această căma)"
+    "title": "Unit 15, Lesson 1: Vocabular de îmbrăcăminte"
   },
   "ro-u15-l2": {
     "id": "ro-u15-l2",
@@ -9906,7 +9906,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (Merg la cabina de probă să pro)"
+    "title": "Unit 15, Lesson 2: Cabina de probă"
   },
   "ro-u15-l3": {
     "id": "ro-u15-l3",
@@ -9988,7 +9988,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (Voi plăti cu cardul contactles)"
+    "title": "Unit 15, Lesson 3: Sezoanele de reduceri"
   },
   "ro-u15-l4": {
     "id": "ro-u15-l4",
@@ -10070,7 +10070,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 4: Foundational & Structural Mastery (Sâmbătă dimineață am fost la P)"
+    "title": "Unit 15, Lesson 4: Piețe tradiționale agroalimentare (Piața Obor în București"
   },
   "ro-u15-l5": {
     "id": "ro-u15-l5",
@@ -10152,7 +10152,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (Doresc să returnez acest produ)"
+    "title": "Unit 15, Lesson 5: Politica de retur"
   },
   "ro-u16-l1": {
     "id": "ro-u16-l1",
@@ -10235,7 +10235,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (Astăzi vremea va fi frumoasă ș)"
+    "title": "Unit 16, Lesson 1: Prognoza meteo"
   },
   "ro-u16-l2": {
     "id": "ro-u16-l2",
@@ -10317,7 +10317,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 2: Foundational & Structural Mastery (Pe 1 Martie sărbătorim Mărțișo)"
+    "title": "Unit 16, Lesson 2: Cele patru anotimpuri"
   },
   "ro-u16-l3": {
     "id": "ro-u16-l3",
@@ -10481,7 +10481,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (Sistemul RO-ALERT a emis o ale)"
+    "title": "Unit 16, Lesson 4: Avertizările Administrației Naționale de Meteorologie (ANM)"
   },
   "ro-u16-l5": {
     "id": "ro-u16-l5",
@@ -10563,7 +10563,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (Sistemul de Garanție-Returnare)"
+    "title": "Unit 16, Lesson 5: Energia verde în România (Parcul Eolian Fântânele-Cogealac"
   },
   "ro-u17-l1": {
     "id": "ro-u17-l1",
@@ -10645,7 +10645,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Bună ziua, domnule doctor; mă )"
+    "title": "Unit 17, Lesson 1: Părțile corpului uman"
   },
   "ro-u17-l2": {
     "id": "ro-u17-l2",
@@ -10727,7 +10727,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (Vă rog frumos, aveți o cutie d)"
+    "title": "Unit 17, Lesson 2: Farmacia în România (Catena"
   },
   "ro-u17-l3": {
     "id": "ro-u17-l3",
@@ -10809,7 +10809,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (Sunați urgent la unu unu doi! )"
+    "title": "Unit 17, Lesson 3: Numărul de urgență 112"
   },
   "ro-u17-l4": {
     "id": "ro-u17-l4",
@@ -10891,7 +10891,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 4: Foundational & Structural Mastery (Apele termale sulfuroase de la)"
+    "title": "Unit 17, Lesson 4: Stațiuni balneoclimaterice românești (Băile Felix"
   },
   "ro-u17-l5": {
     "id": "ro-u17-l5",
@@ -11055,7 +11055,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (Bună ziua, vă sun în legătură )"
+    "title": "Unit 18, Lesson 1: Închirierea de locuințe în România (Storia"
   },
   "ro-u18-l2": {
     "id": "ro-u18-l2",
@@ -11137,7 +11137,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 2: Foundational & Structural Mastery (Blocul nostru a fost anvelopat)"
+    "title": "Unit 18, Lesson 2: Asociația de proprietari în blocurile din România"
   },
   "ro-u18-l3": {
     "id": "ro-u18-l3",
@@ -11465,7 +11465,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (Am semnat un contract individu)"
+    "title": "Unit 19, Lesson 1: Piața muncii în România (eJobs"
   },
   "ro-u19-l2": {
     "id": "ro-u19-l2",
@@ -11875,7 +11875,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 1: Foundational & Structural Mastery (Delta Dunării și pădurile secu)"
+    "title": "Unit 20, Lesson 1: Romanian geography"
   },
   "ro-u20-l2": {
     "id": "ro-u20-l2",
@@ -11957,7 +11957,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 2: Foundational & Structural Mastery (Parcul eolian Fântânele-Cogeal)"
+    "title": "Unit 20, Lesson 2: Renewable energy in Dobrogea"
   },
   "ro-u20-l3": {
     "id": "ro-u20-l3",
@@ -12039,7 +12039,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 3: Foundational & Structural Mastery (Salina Turda și apele geoterma)"
+    "title": "Unit 20, Lesson 3: Geothermal waters"
   },
   "ro-u20-l4": {
     "id": "ro-u20-l4",
@@ -12121,7 +12121,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 4: Foundational & Structural Mastery (Reintroducerea zimbrului europ)"
+    "title": "Unit 20, Lesson 4: Reintroducerea zimbrului europ"
   },
   "ro-u20-l5": {
     "id": "ro-u20-l5",
@@ -12203,7 +12203,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (România combină energia nuclea)"
+    "title": "Unit 20, Lesson 5: C2 synthesis on Romania's 2050 Climate Neutrality strategy"
   },
   "ro-u21-l1": {
     "id": "ro-u21-l1",
@@ -12531,7 +12531,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 4: Foundational & Structural Mastery (Doctorul Ana Aslan a înființat)"
+    "title": "Unit 21, Lesson 4: Gerontology pioneer Ana Aslan"
   },
   "ro-u21-l5": {
     "id": "ro-u21-l5",
@@ -12613,7 +12613,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 5: Foundational & Structural Mastery (Integrarea chirurgiei robotice)"
+    "title": "Unit 21, Lesson 5: C2 synthesis on robotic surgery"
   },
   "ro-u22-l1": {
     "id": "ro-u22-l1",
@@ -12695,7 +12695,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 22, Lesson 1: Foundational & Structural Mastery (Lucian Blaga a definit «spațiu)"
+    "title": "Unit 22, Lesson 1: Lucian Blaga"
   },
   "ro-u22-l2": {
     "id": "ro-u22-l2",
@@ -15483,7 +15483,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 28, Lesson 5: Foundational & Structural Mastery (Bisericile fortificate din Tra)"
+    "title": "Unit 28, Lesson 5: Bisericile fortificate din Tra"
   },
   "ro-u29-l1": {
     "id": "ro-u29-l1",
@@ -16385,7 +16385,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 1: Foundational & Structural Mastery (Sarmalele aburinde gătite lent)"
+    "title": "Unit 31, Lesson 1: The Sacred Sarmale"
   },
   "ro-u31-l2": {
     "id": "ro-u31-l2",

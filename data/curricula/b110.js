@@ -225,7 +225,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 2: Foundational & Structural Mastery (PCA of Automotive Market: PC1 )"
+    "title": "Unit 1101, Lesson 2: PCA of Automotive Market: PC1"
   },
   "b110-u1-l3": {
     "id": "b110-u1-l3",
@@ -307,7 +307,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 3: Foundational & Structural Mastery (If the first two eigenvalues a)"
+    "title": "Unit 1101, Lesson 3: Execute Eigenvalue Decomposition"
   },
   "b110-u1-l4": {
     "id": "b110-u1-l4",
@@ -389,7 +389,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 4: Foundational & Structural Mastery (If the angle between \"Innovati)"
+    "title": "Unit 1101, Lesson 4: Interpret Attribute Vector Angles"
   },
   "b110-u1-l5": {
     "id": "b110-u1-l5",
@@ -471,7 +471,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 5: Foundational & Structural Mastery (A coffee consumer has Ideal Po)"
+    "title": "Unit 1101, Lesson 5: A coffee consumer has Ideal Po"
   },
   "b110-u1-l6": {
     "id": "b110-u1-l6",
@@ -553,7 +553,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1101, Lesson 1: Foundational & Structural Mastery (Toyota created the Lexus brand)"
+    "title": "Unit 1101, Lesson 1: C2 Synthesis on Strategic Brand Repositioning"
   },
   "b110-u5-l4": {
     "id": "b110-u5-l4",
@@ -799,7 +799,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1105, Lesson 4: Foundational & Structural Mastery (The non-linear probability wei)"
+    "title": "Unit 1105, Lesson 4: The non-linear probability wei"
   },
   "b110-u5-l1": {
     "id": "b110-u5-l1",
@@ -882,7 +882,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1105, Lesson 5: Foundational & Structural Mastery (The Economist Decoy Pricing Ex)"
+    "title": "Unit 1105, Lesson 5: The Economist Decoy Pricing Ex"
   },
   "b110-u4-l4": {
     "id": "b110-u4-l4",
@@ -964,7 +964,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 1: Foundational & Structural Mastery (Two-sided platform pricing sub)"
+    "title": "Unit 1104, Lesson 1: Network Externalities"
   },
   "b110-u4-l3": {
     "id": "b110-u4-l3",
@@ -1128,7 +1128,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 3: Foundational & Structural Mastery (The peak adoption timing T* is)"
+    "title": "Unit 1104, Lesson 3: Estimating Market Peak Timing"
   },
   "b110-u4-l1": {
     "id": "b110-u4-l1",
@@ -1210,7 +1210,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1104, Lesson 4: Foundational & Structural Mastery (Bass Model Calculation:\nMarket)"
+    "title": "Unit 1104, Lesson 4: Formulate the Bass Diffusion Model for new product adoption"
   },
   "b110-u3-l4": {
     "id": "b110-u3-l4",
@@ -1292,7 +1292,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 5: Foundational & Structural Mastery (Markov migration matrices mode)"
+    "title": "Unit 1103, Lesson 5: Markov migration matrices mode"
   },
   "b110-u3-l3": {
     "id": "b110-u3-l3",
@@ -1374,7 +1374,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 1: Foundational & Structural Mastery (Healthy SaaS unit economics re)"
+    "title": "Unit 1103, Lesson 1: Customer Acquisition Cost (CAC) to LTV Dynamics"
   },
   "b110-u3-l2": {
     "id": "b110-u3-l2",
@@ -1538,7 +1538,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1103, Lesson 3: Foundational & Structural Mastery (Example Calculation:\nMonthly M)"
+    "title": "Unit 1103, Lesson 3: Formulate Customer Lifetime Value (CLV)"
   },
   "b110-u2-l5": {
     "id": "b110-u2-l5",
@@ -1702,7 +1702,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 5: Foundational & Structural Mastery (If the utility gain for Leathe)"
+    "title": "Unit 1102, Lesson 5: If the utility gain for Leathe"
   },
   "b110-u2-l3": {
     "id": "b110-u2-l3",
@@ -1784,7 +1784,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 1: Foundational & Structural Mastery (If Product A has deterministic)"
+    "title": "Unit 1102, Lesson 1: If Product A has deterministic"
   },
   "b110-u2-l2": {
     "id": "b110-u2-l2",
@@ -1866,7 +1866,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 2: Foundational & Structural Mastery (A fractional factorial design )"
+    "title": "Unit 1102, Lesson 2: A fractional factorial design"
   },
   "b110-u2-l1": {
     "id": "b110-u2-l1",
@@ -1948,7 +1948,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1102, Lesson 3: Foundational & Structural Mastery (Smartphone Conjoint: Upgrading)"
+    "title": "Unit 1102, Lesson 3: Master full-profile conjoint analysis algorithms"
   },
   "b110-u3-l5": {
     "id": "b110-u3-l5",

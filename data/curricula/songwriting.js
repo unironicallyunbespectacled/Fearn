@@ -205,7 +205,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 1"
   },
   "songwriting-u1-l2": {
     "id": "songwriting-u1-l2",
@@ -291,7 +291,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 2: Label the rhyme scheme (AABB"
   },
   "songwriting-u1-l3": {
     "id": "songwriting-u1-l3",
@@ -370,7 +370,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 3"
   },
   "songwriting-u1-l4": {
     "id": "songwriting-u1-l4",
@@ -447,7 +447,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 4"
   },
   "songwriting-u1-l5": {
     "id": "songwriting-u1-l5",
@@ -535,7 +535,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 5: Pass a rhyme-scheme identification and writing checkpoint"
   },
   "songwriting-u2-l1": {
     "id": "songwriting-u2-l1",
@@ -614,7 +614,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1"
   },
   "songwriting-u2-l2": {
     "id": "songwriting-u2-l2",
@@ -681,7 +681,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2"
   },
   "songwriting-u2-l3": {
     "id": "songwriting-u2-l3",
@@ -741,7 +741,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "songwriting-u2-l4": {
     "id": "songwriting-u2-l4",
@@ -806,7 +806,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "songwriting-u2-l5": {
     "id": "songwriting-u2-l5",
@@ -887,7 +887,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5: Pass a meter-scansion and revision checkpoint"
   },
   "songwriting-u3-l1": {
     "id": "songwriting-u3-l1",
@@ -922,7 +922,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Craft narrative verses that establish concrete sensory grounding (who, which composition technique best fulfills the musical goal?",
           "options": [
             "To repeat the song's main title with maximum vocal power",
             "To change the musical tempo completely",
@@ -1047,7 +1047,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1"
   },
   "songwriting-u3-l2": {
     "id": "songwriting-u3-l2",
@@ -1083,7 +1083,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Design dynamic pre-choruses (the lift / the climb) using rhythmic compression, which composition technique best fulfills the musical goal?",
           "options": [
             "To build melodic, harmonic, and emotional tension that launches seamlessly into the chorus",
             "To provide a 5-minute guitar solo",
@@ -1208,7 +1208,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "songwriting-u3-l3": {
     "id": "songwriting-u3-l3",
@@ -1243,7 +1243,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Compose anthemic choruses that deliver the central thesis of the song, which composition technique best fulfills the musical goal?",
           "options": [
             "To give the drummer a break",
             "To explain complicated backstory details",
@@ -1368,7 +1368,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "songwriting-u3-l4": {
     "id": "songwriting-u3-l4",
@@ -1403,7 +1403,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Construct transformative bridges (middle-eight / the departure) that break the repetitive Verse-Chorus loop by introducing new chord progressions (vi or IV shifts), which composition technique best fulfills the musical goal?",
           "options": [
             "To break the repetitive Verse/Chorus loop by introducing a new harmonic color, fresh melody, and a lyrical revelation",
             "To play the first verse backwards",
@@ -1528,7 +1528,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "songwriting-u3-l5": {
     "id": "songwriting-u3-l5",
@@ -1565,7 +1565,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Map, which composition technique best fulfills the musical goal?",
           "options": [
             "Verse - Chorus - Verse - Chorus - Bridge - Chorus",
             "Vocal - Chord - Vocal - Chord - Bass - Cymbal",
@@ -1690,7 +1690,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "songwriting-u4-l1": {
     "id": "songwriting-u4-l1",
@@ -1726,7 +1726,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Master melodic contour (arch, which composition technique best fulfills the musical goal?",
           "options": [
             "Conjunct is loud and disjunct is quiet",
             "Conjunct uses only minor chords",
@@ -1851,7 +1851,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1: Master melodic contour (arch"
   },
   "songwriting-u4-l2": {
     "id": "songwriting-u4-l2",
@@ -1887,7 +1887,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Craft memorable melodic motifs using repetition, which composition technique best fulfills the musical goal?",
           "options": [
             "A short, distinctive 3-to-7 note melodic/rhythmic building block that is repeated and developed",
             "The chord sheet",
@@ -2012,7 +2012,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2: Craft memorable melodic motifs using repetition"
   },
   "songwriting-u4-l3": {
     "id": "songwriting-u4-l3",
@@ -2049,7 +2049,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Master rhythmic phrasing and syncopation in melody, which composition technique best fulfills the musical goal?",
           "options": [
             "A note played at the end of a concert",
             "A silent measure",
@@ -2174,7 +2174,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3: Master rhythmic phrasing and syncopation in melody"
   },
   "songwriting-u4-l4": {
     "id": "songwriting-u4-l4",
@@ -2210,7 +2210,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Design vocal range and register contrast, which composition technique best fulfills the musical goal?",
           "options": [
             "The higher vocal register naturally produces more acoustic energy and emotional intensity, signaling the song's primary hook",
             "To make the song shorter",
@@ -2373,7 +2373,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Integrate melodic contour, which composition technique best fulfills the musical goal?",
           "options": [
             "The seamless alignment of natural spoken word stress with musical pitch peaks and rhythmic downbeats",
             "Writing poems without music",
@@ -2498,7 +2498,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5: Integrate melodic contour"
   },
   "songwriting-u6-l1": {
     "id": "songwriting-u6-l1",
@@ -2537,7 +2537,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Distinguish chord tones (Root, which composition technique best fulfills the musical goal?",
           "options": [
             "It makes the guitar louder.",
             "It forces the song to change tempo.",
@@ -2639,7 +2639,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Yesterday (Paul McCartney / Th)"
+    "title": "Unit 6, Lesson 1: Distinguish chord tones (Root"
   },
   "songwriting-u6-l2": {
     "id": "songwriting-u6-l2",
@@ -2678,7 +2678,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Design dynamic harmonic rhythm and employ modal color chords (minor iv, which composition technique best fulfills the musical goal?",
           "options": [
             "A bittersweet, poignant 'tearjerker' ache caused by the chromatic half-step descent from the major 6th (A) to minor 6th (A-flat) down to the 5th",
             "An electric shock",
@@ -2780,7 +2780,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (The 'Tearjerker' Minor iv Prog)"
+    "title": "Unit 6, Lesson 2: The 'Tearjerker' Minor iv Prog"
   },
   "songwriting-u6-l3": {
     "id": "songwriting-u6-l3",
@@ -2819,7 +2819,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Apply chord substitutions, which composition technique best fulfills the musical goal?",
           "options": [
             "D7",
             "G7",
@@ -2921,7 +2921,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Secondary Dominant V7/vi in Ac)"
+    "title": "Unit 6, Lesson 3: Apply chord substitutions"
   },
   "songwriting-u6-l4": {
     "id": "songwriting-u6-l4",
@@ -2960,7 +2960,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Craft singable melodic contours using smooth stepwise motion (conjunct) balanced by leap-and-recover principles (disjunct) and clean voice-leading across chord changes, which composition technique best fulfills the musical goal?",
           "options": [
             "Following a dramatic upward leap in pitch with smooth stepwise motion in the opposite (downward) direction to restore melodic balance",
             "Singing only two notes over and over",
@@ -3062,7 +3062,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Somewhere Over the Rainbow)"
+    "title": "Unit 6, Lesson 4: Somewhere Over the Rainbow"
   },
   "songwriting-u6-l5": {
     "id": "songwriting-u6-l5",
@@ -3102,7 +3102,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Demonstrate comprehensive Unit 6 chord-melody integration by analyzing and composing a complete multi-section song harmonic arrangement featuring verse-to-chorus harmonic lift, which composition technique best fulfills the musical goal?",
           "options": [
             "It introduces the chromatic note F-sharp, creating intense upward melodic drive and pulling irresistibly into the dominant G chord right before the chorus explosion.",
             "It turns off the drums.",
@@ -3204,7 +3204,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Full Song Harmonic Roadmap (Ke)"
+    "title": "Unit 6, Lesson 5: Full Song Harmonic Roadmap (Ke"
   },
   "songwriting-u7-l1": {
     "id": "songwriting-u7-l1",
@@ -3237,7 +3237,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Engineer an undeniable commercial chorus from a high-concept title, which composition technique best fulfills the musical goal?",
           "options": [
             "Hidden in the middle of line 2 only",
             "Never spoken or sung in the song",
@@ -3339,7 +3339,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Chorus Anchor: 'Paper Lanterns)"
+    "title": "Unit 7, Lesson 1: Chorus Anchor: 'Paper Lanterns"
   },
   "songwriting-u7-l2": {
     "id": "songwriting-u7-l2",
@@ -3372,7 +3372,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Construct immersive narrative verses using Pat Pattison's Object Writing methodology and sensory grounding (sight, which composition technique best fulfills the musical goal?",
           "options": [
             "'The screen door slammed, Mary's dress swayed, like a vision she danced across the porch as the radio played.'",
             "'We were having an awesome time in the summer.'",
@@ -3474,7 +3474,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Verse Excerpt: 'A chipped blue)"
+    "title": "Unit 7, Lesson 2: Verse Excerpt: 'A chipped blue"
   },
   "songwriting-u7-l3": {
     "id": "songwriting-u7-l3",
@@ -3507,7 +3507,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Engineer high-impact Pre-Choruses using harmonic instability, which composition technique best fulfills the musical goal?",
           "options": [
             "Resolving to the tonic I chord early",
             "Stopping the song completely and tuning the guitar",
@@ -3609,7 +3609,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Pre-Chorus Progression in C Ma)"
+    "title": "Unit 7, Lesson 3: Pre-Chorus Progression in C Ma"
   },
   "songwriting-u7-l4": {
     "id": "songwriting-u7-l4",
@@ -3642,7 +3642,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Compose a transformative Bridge (Middle Eight) that shifts harmonic centers, which composition technique best fulfills the musical goal?",
           "options": [
             "To tune instruments during the show",
             "To provide fresh harmonic, melodic, and lyrical contrast, offering a new perspective or realization before the final chorus",
@@ -3744,7 +3744,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Bridge Progression in G Major:)"
+    "title": "Unit 7, Lesson 4: Bridge Progression in G Major:"
   },
   "songwriting-u7-l5": {
     "id": "songwriting-u7-l5",
@@ -3777,7 +3777,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Demonstrate comprehensive Master songwriting fluency by composing a complete original 3-minute commercial masterwork (Verse 1 - Pre - Chorus - Verse 2 - Pre - Chorus - Bridge - Final Double Chorus - Outro) complete with chord chart, which composition technique best fulfills the musical goal?",
           "options": [
             "Cmaj7 - Bm7 - Am7 - Dsus4/D7 (IV - iii - ii - V), ending on the dominant preparation to launch the final double chorus",
             "Repeating Em - Em - Em - Em with no changes",
@@ -3879,7 +3879,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Full Song Synthesis: 'Ghosts i)"
+    "title": "Unit 7, Lesson 5: Full Song Synthesis: 'Ghosts i"
   },
   "songwriting-u8-l1": {
     "id": "songwriting-u8-l1",
@@ -3912,7 +3912,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Execute surgical lyric revisions by eliminating weak filler words (that, which composition technique best fulfills the musical goal?",
           "options": [
             "'And it is just really hard because the tail-lights are so foggy.'",
             "'So I was looking at the cars that were driving away.'",
@@ -4014,7 +4014,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (False Accent Fix: Change 'I wi)"
+    "title": "Unit 8, Lesson 1: False Accent Fix: Change 'I wi"
   },
   "songwriting-u8-l2": {
     "id": "songwriting-u8-l2",
@@ -4047,7 +4047,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Optimize vocal prosody and pharyngeal vowel coloring on high-register peak pitches, which composition technique best fulfills the musical goal?",
           "options": [
             "'HEART'",
             "'LITTLE'",
@@ -4149,7 +4149,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Climax Word Selection: Choosin)"
+    "title": "Unit 8, Lesson 2: Climax Word Selection: Choosin"
   },
   "songwriting-u8-l3": {
     "id": "songwriting-u8-l3",
@@ -4182,7 +4182,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Orchestrate dynamic arrangement architectures and production stems, which composition technique best fulfills the musical goal?",
           "options": [
             "Because instruments are too expensive to play in verses",
             "Because the computer cannot play all instruments at once",
@@ -4284,7 +4284,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Arrangement Dynamic Blueprint:)"
+    "title": "Unit 8, Lesson 3: Arrangement Dynamic Blueprint:"
   },
   "songwriting-u8-l4": {
     "id": "songwriting-u8-l4",
@@ -4317,7 +4317,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Build a broadcast-ready demo and pitch-ready rough mix blueprint, which composition technique best fulfills the musical goal?",
           "options": [
             "Panned 100% to the hard right only",
             "Dead Center (Mono center highway) for maximum punch, focus, and phase coherence",
@@ -4419,7 +4419,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Demo Mix Panning Blueprint: Le)"
+    "title": "Unit 8, Lesson 4: Demo Mix Panning Blueprint: Le"
   },
   "songwriting-u8-l5": {
     "id": "songwriting-u8-l5",
@@ -4452,7 +4452,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Demonstrate complete Master Songwriting and Music Theory synthesis across all 8 units by completing the Platinum Capstone Portfolio, which composition technique best fulfills the musical goal?",
           "options": [
             "It introduces the haunting emotional power of modal mixture (borrowed from D minor), creating an intense bittersweet tearjerker pull before resolving home to the tonic",
             "Because Gm is an out-of-tune chord",
@@ -4554,7 +4554,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Full Capstone Masterwork: 'Nor)"
+    "title": "Unit 8, Lesson 5: Full Capstone Masterwork: 'Nor"
   },
   "songwriting-u5-l1": {
     "id": "songwriting-u5-l1",
@@ -4591,7 +4591,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Transform abstract emotional statements into evocative, which composition technique best fulfills the musical goal?",
           "options": [
             "'I felt very bad and worried inside my head.'",
             "'Anxiety was high and sadness was everywhere.'",
@@ -4693,7 +4693,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (Abstract: 'I was lonely in the)"
+    "title": "Unit 5, Lesson 1: Transform abstract emotional statements into evocative"
   },
   "songwriting-u5-l2": {
     "id": "songwriting-u5-l2",
@@ -4730,7 +4730,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Establish and maintain a consistent, which composition technique best fulfills the musical goal?",
           "options": [
             "Third-Person Narrative / Observer",
             "First-Person Soliloquy",
@@ -4832,7 +4832,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (First-Person Direct (I/You): ')"
+    "title": "Unit 5, Lesson 2: Establish and maintain a consistent"
   },
   "songwriting-u5-l3": {
     "id": "songwriting-u5-l3",
@@ -4869,7 +4869,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Craft high-impact song titles and chorus hooks using rhythmic cadence, which composition technique best fulfills the musical goal?",
           "options": [
             "A comedy joke told during the guitar solo",
             "A whisper at the end of the song",
@@ -4969,7 +4969,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (First-Line Hook: 'Walking on S)"
+    "title": "Unit 5, Lesson 3: First-Line Hook: 'Walking on S"
   },
   "songwriting-u5-l4": {
     "id": "songwriting-u5-l4",
@@ -5006,7 +5006,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Weave extended thematic metaphors and recurring physical motifs across verses to unify a lyric from beginning to end, which composition technique best fulfills the musical goal?",
           "options": [
             "The musical instrument played",
             "The concrete physical image or world used to represent the emotion",
@@ -5106,7 +5106,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (Navigation Motif: Verse 1 comp)"
+    "title": "Unit 5, Lesson 4: Navigation Motif: Verse 1 comp"
   },
   "songwriting-u5-l5": {
     "id": "songwriting-u5-l5",
@@ -5143,7 +5143,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which harmonic progression, prosody technique, or lyrical structure best achieves the emotional objective in this lesson?",
+          "prompt": "In applying the principles of Pass an advanced lyric-craft checkpoint evaluating sensory density, which composition technique best fulfills the musical goal?",
           "options": [
             "'The radiator clanks like an iron bell in the freezing four-flight walkup.'",
             "'The apartment was cold and I didn't like it.'",
@@ -5245,7 +5245,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Masterclass Rewrite: Replacing)"
+    "title": "Unit 5, Lesson 5: Masterclass Rewrite: Replacing"
   }
 };
   var CURRICULUM = { id: 'songwriting', name: "songwriting", units: UNITS, lessons: LESSONS };

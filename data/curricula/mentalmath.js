@@ -183,7 +183,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 1"
   },
   "mentalmath-u1-l2": {
     "id": "mentalmath-u1-l2",
@@ -252,7 +252,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 2"
   },
   "mentalmath-u1-l3": {
     "id": "mentalmath-u1-l3",
@@ -321,7 +321,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 3"
   },
   "mentalmath-u1-l4": {
     "id": "mentalmath-u1-l4",
@@ -390,7 +390,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 4"
   },
   "mentalmath-u1-l5": {
     "id": "mentalmath-u1-l5",
@@ -459,7 +459,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 5"
   },
   "mentalmath-u2-l1": {
     "id": "mentalmath-u2-l1",
@@ -540,7 +540,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1"
   },
   "mentalmath-u2-l2": {
     "id": "mentalmath-u2-l2",
@@ -616,7 +616,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2"
   },
   "mentalmath-u2-l3": {
     "id": "mentalmath-u2-l3",
@@ -692,7 +692,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "mentalmath-u2-l4": {
     "id": "mentalmath-u2-l4",
@@ -768,7 +768,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "mentalmath-u2-l5": {
     "id": "mentalmath-u2-l5",
@@ -842,7 +842,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "mentalmath-u3-l1": {
     "id": "mentalmath-u3-l1",
@@ -911,7 +911,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1"
   },
   "mentalmath-u3-l2": {
     "id": "mentalmath-u3-l2",
@@ -980,7 +980,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2: Multiply any number by 5 using the halve-and-shift shortcut"
   },
   "mentalmath-u3-l3": {
     "id": "mentalmath-u3-l3",
@@ -1049,7 +1049,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "mentalmath-u3-l4": {
     "id": "mentalmath-u3-l4",
@@ -1130,7 +1130,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4: Multiply by 4"
   },
   "mentalmath-u3-l5": {
     "id": "mentalmath-u3-l5",
@@ -1204,7 +1204,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "mentalmath-u4-l1": {
     "id": "mentalmath-u4-l1",
@@ -1361,7 +1361,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "mentalmath-u4-l2": {
     "id": "mentalmath-u4-l2",
@@ -1518,7 +1518,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "mentalmath-u4-l3": {
     "id": "mentalmath-u4-l3",
@@ -1675,7 +1675,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "mentalmath-u4-l4": {
     "id": "mentalmath-u4-l4",
@@ -1832,7 +1832,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4: Recall foundational fraction-to-decimal benchmarks (1/8=0"
   },
   "mentalmath-u4-l5": {
     "id": "mentalmath-u4-l5",
@@ -1991,7 +1991,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5: Integrate 5-ending squaring"
   },
   "mentalmath-u6-l1": {
     "id": "mentalmath-u6-l1",
@@ -2126,7 +2126,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Solve mentally: 6x + 23 = 71)"
+    "title": "Unit 6, Lesson 1: Solve mentally: 6x + 23 = 71"
   },
   "mentalmath-u6-l2": {
     "id": "mentalmath-u6-l2",
@@ -2261,7 +2261,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Calculate mentally: 29 x 31)"
+    "title": "Unit 6, Lesson 2: Calculate mentally: 29 x 31"
   },
   "mentalmath-u6-l3": {
     "id": "mentalmath-u6-l3",
@@ -2396,7 +2396,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Calculate a 15% tip on a $64.0)"
+    "title": "Unit 6, Lesson 3: Calculate accurate percentage breakdowns (15%"
   },
   "mentalmath-u6-l4": {
     "id": "mentalmath-u6-l4",
@@ -2531,7 +2531,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Estimate: 4,890 x 612 / 28)"
+    "title": "Unit 6, Lesson 4: Estimate: 4,890 x 612 / 28"
   },
   "mentalmath-u6-l5": {
     "id": "mentalmath-u6-l5",
@@ -2666,7 +2666,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Solve: 7x - 18 = 45)"
+    "title": "Unit 6, Lesson 5: Solve: 7x - 18 = 45"
   },
   "mentalmath-u7-l1": {
     "id": "mentalmath-u7-l1",
@@ -2795,7 +2795,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (346 + 185 - 229 + 158 = 460)"
+    "title": "Unit 7, Lesson 1: Execute multi-step mixed addition and subtraction chains (e"
   },
   "mentalmath-u7-l2": {
     "id": "mentalmath-u7-l2",
@@ -2924,7 +2924,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (34 × 15 + 190 = 700)"
+    "title": "Unit 7, Lesson 2: 34 × 15 + 190 = 700"
   },
   "mentalmath-u7-l3": {
     "id": "mentalmath-u7-l3",
@@ -3053,7 +3053,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (12.5% of 480 = 60)"
+    "title": "Unit 7, Lesson 3: Calculate complex compound percentages"
   },
   "mentalmath-u7-l4": {
     "id": "mentalmath-u7-l4",
@@ -3182,7 +3182,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Digital root of 78,453: 7+8+4+)"
+    "title": "Unit 7, Lesson 4: Digital root of 78,453: 7+8+4+"
   },
   "mentalmath-u7-l5": {
     "id": "mentalmath-u7-l5",
@@ -3311,7 +3311,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (84 × 11 + 76 = 1,000)"
+    "title": "Unit 7, Lesson 5: 84 × 11 + 76 = 1,000"
   },
   "mentalmath-u8-l1": {
     "id": "mentalmath-u8-l1",
@@ -3440,7 +3440,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (23 × 46 = 1,058)"
+    "title": "Unit 8, Lesson 1: 23 × 46 = 1,058"
   },
   "mentalmath-u8-l2": {
     "id": "mentalmath-u8-l2",
@@ -3569,7 +3569,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Cube root of 175,616: Thousand)"
+    "title": "Unit 8, Lesson 2: Cube root of 175,616: Thousand"
   },
   "mentalmath-u8-l3": {
     "id": "mentalmath-u8-l3",
@@ -3698,7 +3698,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (October 31, 2024: 2024 Doomsda)"
+    "title": "Unit 8, Lesson 3: October 31, 2024: 2024 Doomsda"
   },
   "mentalmath-u8-l4": {
     "id": "mentalmath-u8-l4",
@@ -3827,7 +3827,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Estimate: Daily coffee cups co)"
+    "title": "Unit 8, Lesson 4: Estimate: Daily coffee cups co"
   },
   "mentalmath-u8-l5": {
     "id": "mentalmath-u8-l5",
@@ -3956,7 +3956,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Full Capstone Mastery: 10 dive)"
+    "title": "Unit 8, Lesson 5: Full Capstone Mastery: 10 dive"
   },
   "mentalmath-u5-l1": {
     "id": "mentalmath-u5-l1",
@@ -4090,7 +4090,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (23 x 14 = 322)"
+    "title": "Unit 5, Lesson 1: 23 x 14 = 322"
   },
   "mentalmath-u5-l2": {
     "id": "mentalmath-u5-l2",
@@ -4224,7 +4224,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (103 x 108 = 11,124)"
+    "title": "Unit 5, Lesson 2: 103 x 108 = 11,124"
   },
   "mentalmath-u5-l3": {
     "id": "mentalmath-u5-l3",
@@ -4358,7 +4358,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (75² = 5,625)"
+    "title": "Unit 5, Lesson 3: 75² = 5,625"
   },
   "mentalmath-u5-l4": {
     "id": "mentalmath-u5-l4",
@@ -4492,7 +4492,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (63 x 11 = 693)"
+    "title": "Unit 5, Lesson 4: 63 x 11 = 693"
   },
   "mentalmath-u5-l5": {
     "id": "mentalmath-u5-l5",
@@ -4631,7 +4631,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (55² = 3,025)"
+    "title": "Unit 5, Lesson 5: 55² = 3,025"
   }
 };
   var CURRICULUM = { id: 'mentalmath', name: "mentalmath", units: UNITS, lessons: LESSONS };

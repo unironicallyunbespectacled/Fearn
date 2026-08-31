@@ -209,7 +209,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 1"
   },
   "morse-u1-l2": {
     "id": "morse-u1-l2",
@@ -276,7 +276,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 2: Recognize and send the letters I and M"
   },
   "morse-u1-l3": {
     "id": "morse-u1-l3",
@@ -343,7 +343,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 3: Recognize and send the letters S and O"
   },
   "morse-u1-l4": {
     "id": "morse-u1-l4",
@@ -410,7 +410,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 4: Recognize and send the letters A and N"
   },
   "morse-u1-l5": {
     "id": "morse-u1-l5",
@@ -467,7 +467,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 5"
   },
   "morse-u2-l1": {
     "id": "morse-u2-l1",
@@ -534,7 +534,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1: Recognize and send H and U"
   },
   "morse-u2-l2": {
     "id": "morse-u2-l2",
@@ -601,7 +601,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2: Recognize and send R and W"
   },
   "morse-u2-l3": {
     "id": "morse-u2-l3",
@@ -668,7 +668,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3: Recognize and send D and K"
   },
   "morse-u2-l4": {
     "id": "morse-u2-l4",
@@ -735,7 +735,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4: Recognize and send G and L"
   },
   "morse-u2-l5": {
     "id": "morse-u2-l5",
@@ -797,7 +797,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "morse-u3-l1": {
     "id": "morse-u3-l1",
@@ -878,7 +878,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Recognize and send B and C"
   },
   "morse-u3-l2": {
     "id": "morse-u3-l2",
@@ -959,7 +959,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2: Recognize and send F and J"
   },
   "morse-u3-l3": {
     "id": "morse-u3-l3",
@@ -1033,7 +1033,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3: Recognize and send P and Q"
   },
   "morse-u3-l4": {
     "id": "morse-u3-l4",
@@ -1126,7 +1126,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4: Recognize and send V"
   },
   "morse-u3-l5": {
     "id": "morse-u3-l5",
@@ -1200,7 +1200,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "morse-u4-l1": {
     "id": "morse-u4-l1",
@@ -1281,7 +1281,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "morse-u4-l2": {
     "id": "morse-u4-l2",
@@ -1343,7 +1343,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2"
   },
   "morse-u4-l3": {
     "id": "morse-u4-l3",
@@ -1405,7 +1405,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3"
   },
   "morse-u4-l4": {
     "id": "morse-u4-l4",
@@ -1472,7 +1472,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4"
   },
   "morse-u4-l5": {
     "id": "morse-u4-l5",
@@ -1541,7 +1541,7 @@
         }
       ]
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5"
   },
   "morse-u5-l1": {
     "id": "morse-u5-l1",
@@ -1615,7 +1615,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 1: Recognize and send digits 1-5"
   },
   "morse-u5-l2": {
     "id": "morse-u5-l2",
@@ -1696,7 +1696,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 2: Recognize and send digits 6-9 and 0"
   },
   "morse-u5-l3": {
     "id": "morse-u5-l3",
@@ -1758,7 +1758,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 3"
   },
   "morse-u5-l4": {
     "id": "morse-u5-l4",
@@ -1889,7 +1889,7 @@
         }
       ]
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 5, Lesson 5: Pass a mixed alphanumeric checkpoint at wide spacing"
   },
   "morse-u7-l1": {
     "id": "morse-u7-l1",
@@ -1922,7 +1922,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Compress Farnsworth inter-character spacing from 8 WPM to 9 WPM effective speed while maintaining 20 WPM character dit/dah timing, which timing or decode sequence is correct?",
           "options": [
             "Making the dits shorter than 60 milliseconds",
             "Learning new secret codes",
@@ -2024,7 +2024,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (PARIS)"
+    "title": "Unit 7, Lesson 1: PARIS"
   },
   "morse-u7-l2": {
     "id": "morse-u7-l2",
@@ -2057,7 +2057,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Advance Farnsworth spacing compression to 10 WPM effective rate on random 5-character alphanumeric groups containing mixed letters and numbers, which timing or decode sequence is correct?",
           "options": [
             "'Copying behind' — letting the ear buffer the current sound while the hand writes the previously completed character 1-2 positions back",
             "Writing in cursive uppercase only",
@@ -2159,7 +2159,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (7X3MK)"
+    "title": "Unit 7, Lesson 2: 7X3MK"
   },
   "morse-u7-l3": {
     "id": "morse-u7-l3",
@@ -2192,7 +2192,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Advance Farnsworth spacing compression to 11 WPM effective rate copying high-frequency English vocabulary words (THE, which timing or decode sequence is correct?",
           "options": [
             "By pausing the tape and counting four dits for H",
             "By writing down T, then waiting for H, then waiting for E",
@@ -2294,7 +2294,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (THE BOOK AND THE PEN)"
+    "title": "Unit 7, Lesson 3: THE BOOK AND THE PEN"
   },
   "morse-u7-l4": {
     "id": "morse-u7-l4",
@@ -2327,7 +2327,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Advance Farnsworth spacing compression to 12 WPM effective rate copying real-world amateur radio callsigns, which timing or decode sequence is correct?",
           "options": [
             "N3ABC",
             "W1AW",
@@ -2429,7 +2429,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (CQ CQ DE DL1ABC K)"
+    "title": "Unit 7, Lesson 4: CQ CQ DE DL1ABC K"
   },
   "morse-u7-l5": {
     "id": "morse-u7-l5",
@@ -2462,7 +2462,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Demonstrate comprehensive Unit 7 Morse fluency by successfully copying a full simulated 12 WPM on-air QSO exchange with 98%+ accuracy across mixed text, which timing or decode sequence is correct?",
           "options": [
             "Fine Business",
             "Facebook",
@@ -2564,7 +2564,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (CQ CQ CQ DE W1AW W1AW K)"
+    "title": "Unit 7, Lesson 5: CQ CQ CQ DE W1AW W1AW K"
   },
   "morse-u8-l1": {
     "id": "morse-u8-l1",
@@ -2591,7 +2591,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Process high-frequency English words (THE, which timing or decode sequence is correct?",
           "options": [
             "TEA",
             "TEN",
@@ -2693,7 +2693,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (- .... .   .- -. -..   ..-. --)"
+    "title": "Unit 8, Lesson 1: Process high-frequency English words (THE"
   },
   "morse-u8-l2": {
     "id": "morse-u8-l2",
@@ -2720,7 +2720,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Decode international amateur radio callsign structures (Prefixes, which timing or decode sequence is correct?",
           "options": [
             "VE3ABC",
             "VO3ABC",
@@ -2849,7 +2849,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Master core international Q-Codes (QTH, which timing or decode sequence is correct?",
           "options": [
             "QSL",
             "QRP",
@@ -2951,7 +2951,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (--.- - ....   ..--..   (QTH?) )"
+    "title": "Unit 8, Lesson 3: Master core international Q-Codes (QTH"
   },
   "morse-u8-l4": {
     "id": "morse-u8-l4",
@@ -2978,7 +2978,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Decode and format a complete standard CW QSO (Two-Way Contact) exchange, which timing or decode sequence is correct?",
           "options": [
             "The operator is 59 years old",
             "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9",
@@ -3107,7 +3107,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Demonstrate comprehensive Advanced Morse code mastery by decoding a full simulated real-time CW QSO exchange at 14 WPM, which timing or decode sequence is correct?",
           "options": [
             "New Haven CT",
             "Toronto",
@@ -3209,7 +3209,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (CQ CQ DE W1AW K -> W1AW DE VE3)"
+    "title": "Unit 8, Lesson 5: CQ CQ DE W1AW K -> W1AW DE VE3"
   },
   "morse-u9-l1": {
     "id": "morse-u9-l1",
@@ -3236,7 +3236,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Process high-speed Morse code at 16-18 WPM standard character timing, which timing or decode sequence is correct?",
           "options": [
             "Stop the sender and ask them to restart the paragraph",
             "Pause and think for 5 seconds about what letter it was",
@@ -3338,7 +3338,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (-.-. --- -- .. -. --.   .... -)"
+    "title": "Unit 9, Lesson 1: -.-. --- -- .. -. --.   .... -"
   },
   "morse-u9-l2": {
     "id": "morse-u9-l2",
@@ -3365,7 +3365,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Master the complete set of extended procedural signals (Prosigns) and operational punctuation (AA, which timing or decode sequence is correct?",
           "options": [
             "Wait / Stand by",
             "End of contact",
@@ -3467,7 +3467,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (.-...   (AS - Wait/Stand by))"
+    "title": "Unit 9, Lesson 2: .-...   (AS - Wait/Stand by"
   },
   "morse-u9-l3": {
     "id": "morse-u9-l3",
@@ -3494,7 +3494,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Execute transcription-free 20+ WPM high-speed head copy on continuous conversational and news text, which timing or decode sequence is correct?",
           "options": [
             "RIG IS 10W",
             "RADIO IS ON",
@@ -3596,7 +3596,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (.-- -..-   .... .-.   .. ...  )"
+    "title": "Unit 9, Lesson 3: .-- -..-   .... .-.   .. ..."
   },
   "morse-u9-l4": {
     "id": "morse-u9-l4",
@@ -3623,7 +3623,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Master advanced operational Q-Codes (QSK, which timing or decode sequence is correct?",
           "options": [
             "Increase your speed to 30 WPM",
             "Your signal is experiencing ionospheric fading",
@@ -3725,7 +3725,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (--.- ... -.-   .. ...   --- -.)"
+    "title": "Unit 9, Lesson 4: Master advanced operational Q-Codes (QSK"
   },
   "morse-u9-l5": {
     "id": "morse-u9-l5",
@@ -3752,7 +3752,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Demonstrate Master 20 WPM high-speed proficiency by decoding a full simulated broadcast (weather bulletin, which timing or decode sequence is correct?",
           "options": [
             "45 Knots",
             "20 Knots",
@@ -3854,7 +3854,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (20 WPM Complete Broadcast Stre)"
+    "title": "Unit 9, Lesson 5: 20 WPM Complete Broadcast Stre"
   },
   "morse-u10-l1": {
     "id": "morse-u10-l1",
@@ -3881,7 +3881,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Master formal Directed Net operations, which timing or decode sequence is correct?",
           "options": [
             "Emergency evacuation immediately",
             "Close the station",
@@ -3983,7 +3983,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (--.- -. ..   (QNI - Check into)"
+    "title": "Unit 10, Lesson 1: Master formal Directed Net operations"
   },
   "morse-u10-l2": {
     "id": "morse-u10-l2",
@@ -4010,7 +4010,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Master QSK (Full Break-In) operation and dual-paddle iambic keyer micro-mechanics, which timing or decode sequence is correct?",
           "options": [
             "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs",
             "The ability to transmit without electricity",
@@ -4112,7 +4112,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Iambic Squeeze for 'C' (-.-.):)"
+    "title": "Unit 10, Lesson 2: Iambic Squeeze for 'C' (-.-."
   },
   "morse-u10-l3": {
     "id": "morse-u10-l3",
@@ -4139,7 +4139,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Filter extreme QRM (man-made adjacent channel interference) and QRN (atmospheric thunderstorm static crashes), which timing or decode sequence is correct?",
           "options": [
             "It makes the receiver louder",
             "It turns off the other stations",
@@ -4241,7 +4241,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Weak Signal Copy: A 1-watt QRP)"
+    "title": "Unit 10, Lesson 3: Weak Signal Copy: A 1-watt QRP"
   },
   "morse-u10-l4": {
     "id": "morse-u10-l4",
@@ -4268,7 +4268,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Master real-time error detection, which timing or decode sequence is correct?",
           "options": [
             "Send SOS 3 times",
             "Send the 8-dit error prosign (`........`), repeat the last correctly sent word, and continue transmitting",
@@ -4370,7 +4370,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (........   - .... .   ... ....)"
+    "title": "Unit 10, Lesson 4: Master real-time error detection"
   },
   "morse-u10-l5": {
     "id": "morse-u10-l5",
@@ -4397,7 +4397,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Demonstrate complete Master Grand Operator Morse code proficiency across all 10 units by completing the Grand Capstone Simulation, which timing or decode sequence is correct?",
           "options": [
             "MEDICAL SUPPLIES ARRIVED SAFELY",
             "STORM HAS PASSED",
@@ -4499,7 +4499,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Full Capstone Mastery: Synthes)"
+    "title": "Unit 10, Lesson 5: Full Capstone Mastery: Synthes"
   },
   "morse-u6-l1": {
     "id": "morse-u6-l1",
@@ -4536,7 +4536,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Decode and encode core punctuation marks, which timing or decode sequence is correct?",
           "options": [
             ".-.-.-",
             "--..--",
@@ -4772,7 +4772,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (-...- = BT (Break / Equal Sign)"
+    "title": "Unit 6, Lesson 2: -...- = BT (Break / Equal Sign"
   },
   "morse-u6-l3": {
     "id": "morse-u6-l3",
@@ -4804,7 +4804,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Distinguish and execute turn-taking and transmission-ending procedural signals, which timing or decode sequence is correct?",
           "options": [
             "'Kill the power'",
             "'Keep waiting'",
@@ -4938,7 +4938,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Decode and execute operational closing and standby signs, which timing or decode sequence is correct?",
           "options": [
             "'Signal is weak'",
             "'End of contact / final sign-off (Silent Key) — contact is finished'",
@@ -5072,7 +5072,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which rhythmic dits/dahs sequence or decode corresponds accurately to this Morse transmission?",
+          "prompt": "In standard CW telegraphy for Pass an integrated Morse code punctuation and prosign checkpoint by copying and structuring a complete simulated on-air QSO contact exchange, which timing or decode sequence is correct?",
           "options": [
             "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9",
             "Radio channel 599",
@@ -5174,7 +5174,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (CQ CQ CQ DE W1AW K — Calling a)"
+    "title": "Unit 6, Lesson 5: CQ CQ CQ DE W1AW K — Calling a"
   }
 };
   var CURRICULUM = { id: 'morse', name: "morse", units: UNITS, lessons: LESSONS };

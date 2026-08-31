@@ -772,7 +772,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery (Ayşe: Merhaba! Nasılsın?)"
+    "title": "Unit 1, Lesson 2: Ask Nasılsın?/Nasılsınız?"
   },
   "tr-u1-l3": {
     "id": "tr-u1-l3",
@@ -984,7 +984,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery (Ayşe: Adım Ayşe. Adın ne?)"
+    "title": "Unit 1, Lesson 3: Introduce yourself with Adım (my name is) and Ben"
   },
   "tr-u1-l4": {
     "id": "tr-u1-l4",
@@ -1194,7 +1194,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery (Mehmet: Nerelisin?)"
+    "title": "Unit 1, Lesson 4: Mehmet: Nerelisin?"
   },
   "tr-u1-l5": {
     "id": "tr-u1-l5",
@@ -1409,7 +1409,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery (Ayşe: Merhaba! Nasılsın? Mehme)"
+    "title": "Unit 1, Lesson 5: Ayşe: Merhaba! Nasılsın? Mehme"
   },
   "tr-u2-l1": {
     "id": "tr-u2-l1",
@@ -1570,7 +1570,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1: Can count from 0 to 20 in Turkish"
   },
   "tr-u2-l2": {
     "id": "tr-u2-l2",
@@ -1731,7 +1731,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2: Can count from 21 to 100+ in Turkish"
   },
   "tr-u2-l3": {
     "id": "tr-u2-l3",
@@ -1893,7 +1893,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "tr-u2-l4": {
     "id": "tr-u2-l4",
@@ -2055,7 +2055,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4"
   },
   "tr-u2-l5": {
     "id": "tr-u2-l5",
@@ -2219,7 +2219,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5"
   },
   "tr-u3-l1": {
     "id": "tr-u3-l1",
@@ -2380,7 +2380,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Identify immediate family members in Turkish (baba"
   },
   "tr-u3-l2": {
     "id": "tr-u3-l2",
@@ -2542,7 +2542,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "tr-u3-l3": {
     "id": "tr-u3-l3",
@@ -2704,7 +2704,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "tr-u3-l4": {
     "id": "tr-u3-l4",
@@ -2865,7 +2865,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "tr-u3-l5": {
     "id": "tr-u3-l5",
@@ -3028,7 +3028,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5"
   },
   "tr-u4-l1": {
     "id": "tr-u4-l1",
@@ -3172,7 +3172,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery (Ben Türkçe öğreniyorum.)"
+    "title": "Unit 4, Lesson 1: Ben Türkçe öğreniyorum."
   },
   "tr-u4-l2": {
     "id": "tr-u4-l2",
@@ -3315,7 +3315,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery (Ben et yemiyorum.)"
+    "title": "Unit 4, Lesson 2: Ben et yemiyorum."
   },
   "tr-u4-l3": {
     "id": "tr-u4-l3",
@@ -3459,7 +3459,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery (Ben bu kitabı çok beğeniyorum.)"
+    "title": "Unit 4, Lesson 3: Ben bu kitabı çok beğeniyorum."
   },
   "tr-u4-l4": {
     "id": "tr-u4-l4",
@@ -3603,7 +3603,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery (Sen Türkçe konuşuyor musun?)"
+    "title": "Unit 4, Lesson 4: Sen Türkçe konuşuyor musun?"
   },
   "tr-u4-l5": {
     "id": "tr-u4-l5",
@@ -3747,7 +3747,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery (Vapurdan denizi ve martıları s)"
+    "title": "Unit 4, Lesson 5: Synthesize present tense affirmative"
   },
   "tr-u5-l1": {
     "id": "tr-u5-l1",
@@ -3891,7 +3891,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (Saat kaç? — Saat sekiz buçuk.)"
+    "title": "Unit 5, Lesson 1: Saat kaç? — Saat sekiz buçuk."
   },
   "tr-u5-l2": {
     "id": "tr-u5-l2",
@@ -4035,7 +4035,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Sabah yedide kalkıyorum, elimi)"
+    "title": "Unit 5, Lesson 2: Express morning and evening hygiene"
   },
   "tr-u5-l3": {
     "id": "tr-u5-l3",
@@ -4180,7 +4180,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (Ahmet her gün saat sekizde işe)"
+    "title": "Unit 5, Lesson 3: Ahmet her gün saat sekizde işe"
   },
   "tr-u5-l4": {
     "id": "tr-u5-l4",
@@ -4324,7 +4324,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (İşten önce bir fincan Türk kah)"
+    "title": "Unit 5, Lesson 4: İşten önce bir fincan Türk kah"
   },
   "tr-u5-l5": {
     "id": "tr-u5-l5",
@@ -4468,7 +4468,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Her sabah saat sekizde işe baş)"
+    "title": "Unit 5, Lesson 5: Synthesize clock times"
   },
   "tr-u6-l1": {
     "id": "tr-u6-l1",
@@ -4613,7 +4613,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Bir porsiyon köfte ve bir bard)"
+    "title": "Unit 6, Lesson 1: Identify and classify staple Turkish food"
   },
   "tr-u6-l2": {
     "id": "tr-u6-l2",
@@ -4758,7 +4758,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Bakar mısınız? Menüyü alabilir)"
+    "title": "Unit 6, Lesson 2: Bakar mısınız? Menüyü alabilir"
   },
   "tr-u6-l3": {
     "id": "tr-u6-l3",
@@ -4903,7 +4903,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Ben zeytinyağlı yemekleri çok )"
+    "title": "Unit 6, Lesson 3: Express likes"
   },
   "tr-u6-l4": {
     "id": "tr-u6-l4",
@@ -5048,7 +5048,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Mercimek çorbası çok sıcak ve )"
+    "title": "Unit 6, Lesson 4: Describe taste profiles"
   },
   "tr-u6-l5": {
     "id": "tr-u6-l5",
@@ -5192,7 +5192,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Her şey mükemmeldi, ustanın el)"
+    "title": "Unit 6, Lesson 5: Synthesize food vocabulary"
   },
   "tr-u7-l1": {
     "id": "tr-u7-l1",
@@ -5331,7 +5331,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (Dün akşam lezzetli bir Türk ka)"
+    "title": "Unit 7, Lesson 1: Dün akşam lezzetli bir Türk ka"
   },
   "tr-u7-l2": {
     "id": "tr-u7-l2",
@@ -5470,7 +5470,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Geçen hafta sonu Kapadokya'ya )"
+    "title": "Unit 7, Lesson 2: Attach personal past suffixes (-m"
   },
   "tr-u7-l3": {
     "id": "tr-u7-l3",
@@ -5609,7 +5609,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Dün akşam konsere gitmedim, ev)"
+    "title": "Unit 7, Lesson 3: Form past tense negatives with -me / -ma (-medim"
   },
   "tr-u7-l4": {
     "id": "tr-u7-l4",
@@ -5749,7 +5749,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (İki gün önce Kapadokya'ya uçak)"
+    "title": "Unit 7, Lesson 4: Deploy Turkish past temporal markers (dün"
   },
   "tr-u7-l5": {
     "id": "tr-u7-l5",
@@ -5889,7 +5889,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Kapadokya seyahatiniz nasıldı?)"
+    "title": "Unit 7, Lesson 5: Kapadokya seyahatiniz nasıldı?"
   },
   "tr-u8-l1": {
     "id": "tr-u8-l1",
@@ -6029,7 +6029,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Beyaz bir gömlek ve siyah bir )"
+    "title": "Unit 8, Lesson 1: Identify essential Turkish clothing"
   },
   "tr-u8-l2": {
     "id": "tr-u8-l2",
@@ -6170,7 +6170,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Bu kaban ne kadar? Deneme kabi)"
+    "title": "Unit 8, Lesson 2: Inquire about prices using 'Ne kadar?' and 'Kaç lira?'"
   },
   "tr-u8-l3": {
     "id": "tr-u8-l3",
@@ -6310,7 +6310,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Bu gömleği beğendim ama şunu d)"
+    "title": "Unit 8, Lesson 3: Master Turkish demonstrative pronouns and adjectives (bu"
   },
   "tr-u8-l4": {
     "id": "tr-u8-l4",
@@ -6450,7 +6450,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Bu el yapımı seramik kase diğe)"
+    "title": "Unit 8, Lesson 4: Bu el yapımı seramik kase diğe"
   },
   "tr-u8-l5": {
     "id": "tr-u8-l5",
@@ -6590,7 +6590,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Siyah deri ceket kahverengiden)"
+    "title": "Unit 8, Lesson 5: Siyah deri ceket kahverengiden"
   },
   "tr-u9-l1": {
     "id": "tr-u9-l1",
@@ -6731,7 +6731,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (Kadıköy'den Eminönü'ne vapurla)"
+    "title": "Unit 9, Lesson 1: Identify essential Turkish public transit modes"
   },
   "tr-u9-l2": {
     "id": "tr-u9-l2",
@@ -6871,7 +6871,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (Sultanahmet Camii, Ayasofya'nı)"
+    "title": "Unit 9, Lesson 2: Sultanahmet Camii, Ayasofya'nı"
   },
   "tr-u9-l3": {
     "id": "tr-u9-l3",
@@ -7011,7 +7011,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (İstiklal Caddesi boyunca düz g)"
+    "title": "Unit 9, Lesson 3: İstiklal Caddesi boyunca düz g"
   },
   "tr-u9-l4": {
     "id": "tr-u9-l4",
@@ -7151,7 +7151,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Galata Kulesi'nden Boğaz'a doğ)"
+    "title": "Unit 9, Lesson 4: Galata Kulesi'nden Boğaz'a doğ"
   },
   "tr-u9-l5": {
     "id": "tr-u9-l5",
@@ -7291,7 +7291,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (T1 tramvayına binip Sultanahme)"
+    "title": "Unit 9, Lesson 5: T1 tramvayına binip Sultanahme"
   },
   "tr-u10-l1": {
     "id": "tr-u10-l1",
@@ -7426,7 +7426,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (Yeni dairemizde üç oda, aydınl)"
+    "title": "Unit 10, Lesson 1: Yeni dairemizde üç oda, aydınl"
   },
   "tr-u10-l2": {
     "id": "tr-u10-l2",
@@ -7561,7 +7561,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Her sabah uyandıktan sonra yat)"
+    "title": "Unit 10, Lesson 2: Her sabah uyandıktan sonra yat"
   },
   "tr-u10-l3": {
     "id": "tr-u10-l3",
@@ -7696,7 +7696,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Masanın üstünde taze meyveler )"
+    "title": "Unit 10, Lesson 3: Masanın üstünde taze meyveler"
   },
   "tr-u10-l4": {
     "id": "tr-u10-l4",
@@ -7831,7 +7831,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (Eskiden köyde iki katlı ahşap )"
+    "title": "Unit 10, Lesson 4: Eskiden köyde iki katlı ahşap"
   },
   "tr-u10-l5": {
     "id": "tr-u10-l5",
@@ -7966,7 +7966,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Integration Monologue: Welcomi)"
+    "title": "Unit 10, Lesson 5: Synthesize Turkish housing vocabulary"
   },
   "tr-u11-l1": {
     "id": "tr-u11-l1",
@@ -8053,7 +8053,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 1: Foundational & Structural Mastery (Yemek yemeden önce ellerinizi )"
+    "title": "Unit 11, Lesson 1: Yemek yemeden önce ellerinizi"
   },
   "tr-u11-l2": {
     "id": "tr-u11-l2",
@@ -8135,7 +8135,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 2: Foundational & Structural Mastery (Dünden beri otuz sekiz buçuk d)"
+    "title": "Unit 11, Lesson 2: Dünden beri otuz sekiz buçuk d"
   },
   "tr-u11-l3": {
     "id": "tr-u11-l3",
@@ -8217,7 +8217,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 3: Foundational & Structural Mastery (Merhabalar, doktorun yazdığı b)"
+    "title": "Unit 11, Lesson 3: Merhabalar, doktorun yazdığı b"
   },
   "tr-u11-l4": {
     "id": "tr-u11-l4",
@@ -8299,7 +8299,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 4: Foundational & Structural Mastery (Grip olduğum zaman annem hemen)"
+    "title": "Unit 11, Lesson 4: Sağlıklı yaşam"
   },
   "tr-u11-l5": {
     "id": "tr-u11-l5",
@@ -8381,7 +8381,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 11, Lesson 5: Foundational & Structural Mastery (Doktor: \"Derin nefes alın... n)"
+    "title": "Unit 11, Lesson 5: Doktor: \"Derin nefes alın... n"
   },
   "tr-u12-l1": {
     "id": "tr-u12-l1",
@@ -8463,7 +8463,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 1: Foundational & Structural Mastery (İstanbul Maslak'ta uluslararas)"
+    "title": "Unit 12, Lesson 1: Meslekler"
   },
   "tr-u12-l2": {
     "id": "tr-u12-l2",
@@ -8545,7 +8545,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 2: Foundational & Structural Mastery (Her pazartesi sabahı saat onda)"
+    "title": "Unit 12, Lesson 2: Ofis rutinleri"
   },
   "tr-u12-l3": {
     "id": "tr-u12-l3",
@@ -8627,7 +8627,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 3: Foundational & Structural Mastery (Sessizdesiniz! Toplantıda konu)"
+    "title": "Unit 12, Lesson 3: Bilişim teknolojileri terimleri"
   },
   "tr-u12-l4": {
     "id": "tr-u12-l4",
@@ -8709,7 +8709,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 4: Foundational & Structural Mastery (Sayın Ahmet Bey,\nRevize edilen)"
+    "title": "Unit 12, Lesson 4: Sayın Ahmet Bey,\nRevize edilen"
   },
   "tr-u12-l5": {
     "id": "tr-u12-l5",
@@ -8791,7 +8791,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 12, Lesson 5: Foundational & Structural Mastery (Mülakatçı: \"Neden bizim şirket)"
+    "title": "Unit 12, Lesson 5: İş mülakatı simülasyonu"
   },
   "tr-u13-l1": {
     "id": "tr-u13-l1",
@@ -8873,7 +8873,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 1: Foundational & Structural Mastery (Boş zamanlarımda Boğaz kıyısın)"
+    "title": "Unit 13, Lesson 1: Hobiler"
   },
   "tr-u13-l2": {
     "id": "tr-u13-l2",
@@ -9037,7 +9037,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 3: Foundational & Structural Mastery (Hafta sonu Pera Müzesi'ndeki s)"
+    "title": "Unit 13, Lesson 3: Türk Sanat Müziği"
   },
   "tr-u13-l4": {
     "id": "tr-u13-l4",
@@ -9120,7 +9120,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 4: Foundational & Structural Mastery (—Akşam Kadıköy Moda sahilinde )"
+    "title": "Unit 13, Lesson 4: Arkadaşlarla plan yapmak"
   },
   "tr-u13-l5": {
     "id": "tr-u13-l5",
@@ -9202,7 +9202,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 13, Lesson 5: Foundational & Structural Mastery (Nuri Bilge Ceylan'ın \"Kış Uyku)"
+    "title": "Unit 13, Lesson 5: Nuri Bilge Ceylan'ın \"Kış Uyku"
   },
   "tr-u14-l1": {
     "id": "tr-u14-l1",
@@ -9284,7 +9284,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 1: Foundational & Structural Mastery (Lütfen güvenlik kontrolünden g)"
+    "title": "Unit 14, Lesson 1: Lütfen güvenlik kontrolünden g"
   },
   "tr-u14-l2": {
     "id": "tr-u14-l2",
@@ -9530,7 +9530,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 14, Lesson 4: Foundational & Structural Mastery (Kolay gelsin! Depoyu kurşunsuz)"
+    "title": "Unit 14, Lesson 4: Türkiye'de araç kiralama"
   },
   "tr-u14-l5": {
     "id": "tr-u14-l5",
@@ -9776,7 +9776,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 2: Foundational & Structural Mastery (Deneme kabinine geçip bu ceket)"
+    "title": "Unit 15, Lesson 2: Soyunma kabini (Fitting room)"
   },
   "tr-u15-l3": {
     "id": "tr-u15-l3",
@@ -9858,7 +9858,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 3: Foundational & Structural Mastery (Ödemeyi temassız kredi kartıml)"
+    "title": "Unit 15, Lesson 3: İndirim sezonları"
   },
   "tr-u15-l4": {
     "id": "tr-u15-l4",
@@ -9940,7 +9940,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 4: Foundational & Structural Mastery (Kapalıçarşı'da el dokuması ipe)"
+    "title": "Unit 15, Lesson 4: Tarihi Kapalıçarşı (Grand Bazaar) ve Mısır Çarşısı"
   },
   "tr-u15-l5": {
     "id": "tr-u15-l5",
@@ -10022,7 +10022,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 15, Lesson 5: Foundational & Structural Mastery (İnternetten sipariş ettiğim bu)"
+    "title": "Unit 15, Lesson 5: Tüketici hakları"
   },
   "tr-u16-l1": {
     "id": "tr-u16-l1",
@@ -10104,7 +10104,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 1: Foundational & Structural Mastery (Bugün İstanbul'da hava parçalı)"
+    "title": "Unit 16, Lesson 1: Hava durumu"
   },
   "tr-u16-l2": {
     "id": "tr-u16-l2",
@@ -10350,7 +10350,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 4: Foundational & Structural Mastery (AFAD tarafından yapılan uyarıd)"
+    "title": "Unit 16, Lesson 4: Meteoroloji Genel Müdürlüğü (MGM)"
   },
   "tr-u16-l5": {
     "id": "tr-u16-l5",
@@ -10433,7 +10433,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 16, Lesson 5: Foundational & Structural Mastery (Konya Karapınar'da kurulan dev)"
+    "title": "Unit 16, Lesson 5: Yenilenebilir enerji hamlesi (Güneş enerjisi"
   },
   "tr-u17-l1": {
     "id": "tr-u17-l1",
@@ -10515,7 +10515,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 1: Foundational & Structural Mastery (Merhaba doktor bey; dünden ber)"
+    "title": "Unit 17, Lesson 1: Vücudun bölümleri"
   },
   "tr-u17-l2": {
     "id": "tr-u17-l2",
@@ -10597,7 +10597,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 2: Foundational & Structural Mastery (İyi akşamlar eczacı hanım, e-r)"
+    "title": "Unit 17, Lesson 2: Türkiye'de eczane kültürü"
   },
   "tr-u17-l3": {
     "id": "tr-u17-l3",
@@ -10679,7 +10679,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 3: Foundational & Structural Mastery (Hemen bir bir iki'yi arayın! Y)"
+    "title": "Unit 17, Lesson 3: 112 Acil Çağrı Merkezi"
   },
   "tr-u17-l4": {
     "id": "tr-u17-l4",
@@ -10761,7 +10761,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 17, Lesson 4: Foundational & Structural Mastery (Türk hamamında sıcak göbek taş)"
+    "title": "Unit 17, Lesson 4: Türk hamamı ve kese-köpük ritüeli"
   },
   "tr-u17-l5": {
     "id": "tr-u17-l5",
@@ -10925,7 +10925,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 1: Foundational & Structural Mastery (Merhaba, Kadıköy'deki iki artı)"
+    "title": "Unit 18, Lesson 1: Türkiye'de ev kiralama (Sahibinden"
   },
   "tr-u18-l2": {
     "id": "tr-u18-l2",
@@ -11171,7 +11171,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 18, Lesson 4: Foundational & Structural Mastery (Kapadokya'daki kaya oyma mağar)"
+    "title": "Unit 18, Lesson 4: Kapadokya Mağara Mimarisi (Cave Houses - Göreme"
   },
   "tr-u18-l5": {
     "id": "tr-u18-l5",
@@ -11335,7 +11335,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 19, Lesson 1: Foundational & Structural Mastery (Şirketle belirsiz süreli iş sö)"
+    "title": "Unit 19, Lesson 1: Türkiye'de iş hayatı ve istihdam (Kariyer"
   },
   "tr-u19-l2": {
     "id": "tr-u19-l2",
@@ -11745,7 +11745,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 1: Foundational & Structural Mastery (Kapadokya'nın volkanik peri ba)"
+    "title": "Unit 20, Lesson 1: Turkish natural geography"
   },
   "tr-u20-l2": {
     "id": "tr-u20-l2",
@@ -11991,7 +11991,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 4: Foundational & Structural Mastery (Türkiye'nin öncülük ettiği Sıf)"
+    "title": "Unit 20, Lesson 4: Zero Waste Movement (Sıfır Atık)"
   },
   "tr-u20-l5": {
     "id": "tr-u20-l5",
@@ -12073,7 +12073,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 20, Lesson 5: Foundational & Structural Mastery (Türkiye'nin iki bin elli üç ne)"
+    "title": "Unit 20, Lesson 5: C2 synthesis on Turkey's Net-Zero 2053 target"
   },
   "tr-u21-l1": {
     "id": "tr-u21-l1",
@@ -12319,7 +12319,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 3: Foundational & Structural Mastery (Prof. Dr. Aziz Sancar'ın nükle)"
+    "title": "Unit 21, Lesson 3: Nobel Laureate Aziz Sancar and DNA repair mechanisms (Prof"
   },
   "tr-u21-l4": {
     "id": "tr-u21-l4",
@@ -12401,7 +12401,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 4: Foundational & Structural Mastery (Akdeniz Üniversitesi'nde gerçe)"
+    "title": "Unit 21, Lesson 4: Akdeniz Üniversitesi'nde gerçe"
   },
   "tr-u21-l5": {
     "id": "tr-u21-l5",
@@ -12483,7 +12483,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 21, Lesson 5: Foundational & Structural Mastery (Kırk milyonu aşkın kullanıcısı)"
+    "title": "Unit 21, Lesson 5: C2 synthesis on Health Tourism"
   },
   "tr-u22-l1": {
     "id": "tr-u22-l1",
@@ -13057,7 +13057,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 2: Foundational & Structural Mastery (Osman Hamdi Bey'in «Kaplumbağa)"
+    "title": "Unit 23, Lesson 2: Master of the Tortoise Trainer & Ottoman Modern Painting"
   },
   "tr-u23-l3": {
     "id": "tr-u23-l3",
@@ -13221,7 +13221,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 23, Lesson 4: Foundational & Structural Mastery (Rüstem Paşa Camii'ni donatan İ)"
+    "title": "Unit 23, Lesson 4: Iznik Ceramic Art & Cobalt Turquoise Glazes (İznik Çinisi"
   },
   "tr-u23-l5": {
     "id": "tr-u23-l5",
@@ -16255,7 +16255,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 31, Lesson 1: Foundational & Structural Mastery (Gaziantep baklavası, 40 kat tü)"
+    "title": "Unit 31, Lesson 1: Gaziantep Gastronomy"
   },
   "tr-u31-l2": {
     "id": "tr-u31-l2",

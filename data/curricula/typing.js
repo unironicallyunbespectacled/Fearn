@@ -200,7 +200,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 1"
   },
   "typing-u1-l2": {
     "id": "typing-u1-l2",
@@ -265,7 +265,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 2"
   },
   "typing-u1-l3": {
     "id": "typing-u1-l3",
@@ -337,7 +337,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 3"
   },
   "typing-u1-l4": {
     "id": "typing-u1-l4",
@@ -398,7 +398,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 4: Return to home row automatically after any reach"
   },
   "typing-u1-l5": {
     "id": "typing-u1-l5",
@@ -473,7 +473,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 5: Pass a home-row-only speed and accuracy checkpoint"
   },
   "typing-u2-l1": {
     "id": "typing-u2-l1",
@@ -545,7 +545,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1"
   },
   "typing-u2-l2": {
     "id": "typing-u2-l2",
@@ -624,7 +624,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2"
   },
   "typing-u2-l3": {
     "id": "typing-u2-l3",
@@ -701,7 +701,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "typing-u2-l4": {
     "id": "typing-u2-l4",
@@ -769,7 +769,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4: Type full sentences using only home row and top row letters"
   },
   "typing-u2-l5": {
     "id": "typing-u2-l5",
@@ -844,7 +844,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5: Pass a home-and-top-row speed and accuracy checkpoint"
   },
   "typing-u3-l1": {
     "id": "typing-u3-l1",
@@ -923,7 +923,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Reach from home row to the row's own missing keys"
   },
   "typing-u3-l2": {
     "id": "typing-u3-l2",
@@ -1002,7 +1002,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "typing-u3-l3": {
     "id": "typing-u3-l3",
@@ -1081,7 +1081,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "typing-u3-l4": {
     "id": "typing-u3-l4",
@@ -1149,7 +1149,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 4"
   },
   "typing-u3-l5": {
     "id": "typing-u3-l5",
@@ -1224,7 +1224,7 @@
         }
       ]
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5: Pass a full-alphabet speed and accuracy checkpoint"
   },
   "typing-u4-l1": {
     "id": "typing-u4-l1",
@@ -1255,7 +1255,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master touch typing on the left-hand number row (1, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Left Middle Finger",
             "Left Thumb",
@@ -1380,7 +1380,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1: Master touch typing on the left-hand number row (1"
   },
   "typing-u4-l2": {
     "id": "typing-u4-l2",
@@ -1411,7 +1411,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master touch typing on the right-hand number row (6, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Right Index Finger",
             "Right Middle Finger",
@@ -1536,7 +1536,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2: Master touch typing on the right-hand number row (6"
   },
   "typing-u4-l3": {
     "id": "typing-u4-l3",
@@ -1567,7 +1567,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Type shifted left-hand symbols (!, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Left Shift with your Left Thumb",
             "Left Shift with your Left Pinky",
@@ -1692,7 +1692,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3: Type shifted left-hand symbols (!"
   },
   "typing-u4-l4": {
     "id": "typing-u4-l4",
@@ -1723,7 +1723,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Type shifted right-hand symbols (^, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Left Pinky on Left Shift + Right Ring Finger on 9",
             "Left Index on Shift + Right Index on 9",
@@ -1848,7 +1848,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4: Type shifted right-hand symbols (^"
   },
   "typing-u4-l5": {
     "id": "typing-u4-l5",
@@ -1881,7 +1881,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Integrate numbers (0–9), which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Maintain a steady rhythm, use opposite-hand Shift, and trust finger muscle memory without looking down",
             "Stop and look at each symbol before pressing it",
@@ -2006,7 +2006,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5: Integrate numbers (0–9)"
   },
   "typing-u6-l1": {
     "id": "typing-u6-l1",
@@ -2038,7 +2038,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master touch-typing all forms of brackets, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Left index finger",
             "Left pinky on Shift",
@@ -2067,7 +2067,7 @@
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "[ ] { }",
-            "[ ] { } (Alternative variation)",
+            "[ ] { } (Distractor variant)",
             "{ } [ ]",
             "[] {} () [[]] {{}}"
           ],
@@ -2140,7 +2140,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (function calculate(total, tax))"
+    "title": "Unit 6, Lesson 1: Master touch-typing all forms of brackets"
   },
   "typing-u6-l2": {
     "id": "typing-u6-l2",
@@ -2172,7 +2172,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Achieve rapid touch-typing accuracy on all mathematical, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Right pinky holds Shift + Left pinky strikes 1",
             "Right index strikes 1",
@@ -2274,7 +2274,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (const isValid = (count >= 10 &)"
+    "title": "Unit 6, Lesson 2: Achieve rapid touch-typing accuracy on all mathematical"
   },
   "typing-u6-l3": {
     "id": "typing-u6-l3",
@@ -2306,7 +2306,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master quotes (' \"), which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Right ring finger",
             "Left pinky",
@@ -2408,7 +2408,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (const user_name = \"Sarah O'Con)"
+    "title": "Unit 6, Lesson 3: Master quotes (' \")"
   },
   "typing-u6-l4": {
     "id": "typing-u6-l4",
@@ -2440,7 +2440,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Type structured JSON data blocks, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Maintaining a steady, uninterrupted metronomic rhythm rather than rushing letters and pausing on symbols",
             "Stopping typing after every line",
@@ -2542,7 +2542,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (const config = { host: \"localh)"
+    "title": "Unit 6, Lesson 4: Type structured JSON data blocks"
   },
   "typing-u6-l5": {
     "id": "typing-u6-l5",
@@ -2574,7 +2574,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Demonstrate comprehensive Unit 6 advanced code-style typing fluency by completing a master full-stack codeblock sprint (JavaScript, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Top-left key above Tab and left of 1",
             "Right pinky next to Enter",
@@ -2676,7 +2676,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (async function fetchUserData(u)"
+    "title": "Unit 6, Lesson 5: async function fetchUserData(u"
   },
   "typing-u7-l1": {
     "id": "typing-u7-l1",
@@ -2703,7 +2703,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Execute 60-second continuous focus sprints holding 98%+ accuracy across varied English prose without looking down or pausing between words, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Directly at the exact character being pressed",
             "10 words behind",
@@ -2805,7 +2805,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (The quiet harbor reflected the)"
+    "title": "Unit 7, Lesson 1: The quiet harbor reflected the"
   },
   "typing-u7-l2": {
     "id": "typing-u7-l2",
@@ -2832,7 +2832,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Build sustained 2-minute aerobic typing stamina, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Pressing keys with the minimum force necessary for switch actuation rather than bottoming out violently, conserving muscular energy",
             "Skipping the spacebar",
@@ -2934,7 +2934,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Renewable energy technologies )"
+    "title": "Unit 7, Lesson 2: Build sustained 2-minute aerobic typing stamina"
   },
   "typing-u7-l3": {
     "id": "typing-u7-l3",
@@ -2961,7 +2961,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master the dynamic transition between Burst Speed on high-frequency n-grams and Controlled Cruise Control on complex technical vocabulary, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Typing to rock music only",
             "Changing keyboard layouts mid-sentence",
@@ -3063,7 +3063,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (The philosophical implications)"
+    "title": "Unit 7, Lesson 3: The philosophical implications"
   },
   "typing-u7-l4": {
     "id": "typing-u7-l4",
@@ -3090,7 +3090,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master instant error recovery discipline, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Shift + Space",
             "Ctrl + Backspace",
@@ -3192,7 +3192,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Architectural integrity requir)"
+    "title": "Unit 7, Lesson 4: Master instant error recovery discipline"
   },
   "typing-u7-l5": {
     "id": "typing-u7-l5",
@@ -3219,7 +3219,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Demonstrate comprehensive Advanced stamina mastery by completing a full 3-minute continuous technical and literary endurance passage maintaining 60+ WPM with 98, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Demonstrate sustained typing stamina, holding 60+ WPM with 98.5%+ accuracy across technical prose without fatigue breakdown",
             "Type as fast as possible for 10 seconds and stop",
@@ -3321,7 +3321,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (Mastering the keyboard is not )"
+    "title": "Unit 7, Lesson 5: Mastering the keyboard is not"
   },
   "typing-u8-l1": {
     "id": "typing-u8-l1",
@@ -3348,7 +3348,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Execute 15-second high-velocity sprint bursts on the top 100 high-frequency English words, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Pounding the keyboard with maximum physical force",
             "Typing with only the index fingers",
@@ -3450,7 +3450,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (the and for that with have thi)"
+    "title": "Unit 8, Lesson 1: the and for that with have thi"
   },
   "typing-u8-l2": {
     "id": "typing-u8-l2",
@@ -3477,7 +3477,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Execute 30-second high-velocity N-Gram sweeps across complex consonant blends (STR, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Left ring (S) -> Left index (T) -> Left index",
             "Thumb for S and index for T",
@@ -3579,7 +3579,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (strength structure stretch str)"
+    "title": "Unit 8, Lesson 2: strength structure stretch str"
   },
   "typing-u8-l3": {
     "id": "typing-u8-l3",
@@ -3606,7 +3606,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Break and sustain the 100 WPM Century Mark across a continuous 60-second multi-sentence prose sprint at 98%+ accuracy, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "2 keystrokes per second",
             "20 keystrokes per second",
@@ -3708,7 +3708,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (The quick brown fox jumps over)"
+    "title": "Unit 8, Lesson 3: The quick brown fox jumps over"
   },
   "typing-u8-l4": {
     "id": "typing-u8-l4",
@@ -3735,7 +3735,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Fuse numbers, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Use the thumb for Shift",
             "Always hold Shift with the hand OPPOSITE to the finger striking the symbol key",
@@ -3837,7 +3837,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (const userList = await fetchUs)"
+    "title": "Unit 8, Lesson 4: Fuse numbers"
   },
   "typing-u8-l5": {
     "id": "typing-u8-l5",
@@ -3864,7 +3864,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Demonstrate Master Century Speed certification by achieving 100+ WPM across a demanding 60-second mixed prose, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "At least 98.0% accuracy",
             "50% accuracy",
@@ -3966,7 +3966,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Century Sprint Certified: 104 )"
+    "title": "Unit 8, Lesson 5: Century Sprint Certified: 104"
   },
   "typing-u9-l1": {
     "id": "typing-u9-l1",
@@ -3993,7 +3993,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Achieve metronomic isochronous typing rhythm, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "It makes the keyboard sound louder",
             "It uses less electricity",
@@ -4095,7 +4095,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (tap . tap . tap . tap . tap . )"
+    "title": "Unit 9, Lesson 1: Achieve metronomic isochronous typing rhythm"
   },
   "typing-u9-l2": {
     "id": "typing-u9-l2",
@@ -4122,7 +4122,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master high-speed error recovery reflexes, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Execute a single Ctrl+Backspace (or Option+Delete on Mac) to delete the whole word and re-type it cleanly in one fluid roll",
             "Restart the entire test from the beginning",
@@ -4224,7 +4224,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (Typo in 'development': Typed ')"
+    "title": "Unit 9, Lesson 2: Master high-speed error recovery reflexes"
   },
   "typing-u9-l3": {
     "id": "typing-u9-l3",
@@ -4251,7 +4251,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Build sustained endurance across a grueling 5-minute continuous typing marathon (2, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Sprint at 150% speed in minute 1 until fingers cramp",
             "Type as slowly as possible for 4 minutes",
@@ -4353,7 +4353,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (5-Minute Continuous Marathon: )"
+    "title": "Unit 9, Lesson 3: 5-Minute Continuous Marathon:"
   },
   "typing-u9-l4": {
     "id": "typing-u9-l4",
@@ -4380,7 +4380,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Master competitive online typing conditions (TypeRacer, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Running out of words",
             "Looking at the opponent's progress bar instead of maintaining visual lookahead on your own text stream, triggering adrenaline panic and rushed typos",
@@ -4482,7 +4482,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (Live Competition Mindset: Igno)"
+    "title": "Unit 9, Lesson 4: Master competitive online typing conditions (TypeRacer"
   },
   "typing-u9-l5": {
     "id": "typing-u9-l5",
@@ -4509,7 +4509,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Demonstrate complete Master Grand Apex Touch Typing certification across all 9 units by completing the Grand Capstone Portfolio, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "1. Neutral Floating Biomechanics; 2. 2-3 Word Visual Lookahead; 3. Isochronous Rhythm; 4. Instant Ctrl+Backspace Error Recovery; 5. 99%+ Accuracy Discipline",
             "1. Pounding the keys with force only; 2. Memorizing keyboard pictures",
@@ -4611,7 +4611,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (Full Capstone Certification: 1)"
+    "title": "Unit 9, Lesson 5: Full Capstone Certification: 1"
   },
   "typing-u5-l1": {
     "id": "typing-u5-l1",
@@ -4643,7 +4643,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Execute the top 10 most frequent English bigrams (th, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "ZZ",
             "QU",
@@ -4745,7 +4745,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (th th th he he he in in in er )"
+    "title": "Unit 5, Lesson 1: Execute the top 10 most frequent English bigrams (th"
   },
   "typing-u5-l2": {
     "id": "typing-u5-l2",
@@ -4777,7 +4777,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Automate high-frequency English trigrams (the, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "TIO",
             "AND",
@@ -4879,7 +4879,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (the the the and and and ing in)"
+    "title": "Unit 5, Lesson 2: Automate high-frequency English trigrams (the"
   },
   "typing-u5-l3": {
     "id": "typing-u5-l3",
@@ -4911,7 +4911,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Build reflexive neuromuscular automation on the top 100 most common English words, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "10%",
             "90%",
@@ -5013,7 +5013,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (the of and to in is you that i)"
+    "title": "Unit 5, Lesson 3: the of and to in is you that i"
   },
   "typing-u5-l4": {
     "id": "typing-u5-l4",
@@ -5045,7 +5045,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Synthesize high-frequency words into complete prose sentences with fluid hand alternation, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "A song lyric",
             "A sentence that contains every single letter of the alphabet at least once",
@@ -5147,7 +5147,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (The quick brown fox jumps over)"
+    "title": "Unit 5, Lesson 4: The quick brown fox jumps over"
   },
   "typing-u5-l5": {
     "id": "typing-u5-l5",
@@ -5179,7 +5179,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which biomechanical finger motion or rhythmic keystroke technique ensures peak speed and zero strain?",
+          "prompt": "When executing the motor patterns for Pass a high-frequency prose checkpoint sustaining 45-55+ WPM with 98%+ accuracy across continuous multi-sentence paragraphs, which technique maximizes speed and biomechanical efficiency?",
           "options": [
             "Exactly 5 keystrokes",
             "Any word separated by a space regardless of length",
@@ -5281,7 +5281,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (The old library stood quietly )"
+    "title": "Unit 5, Lesson 5: The old library stood quietly"
   }
 };
   var CURRICULUM = { id: 'typing', name: "typing", units: UNITS, lessons: LESSONS };

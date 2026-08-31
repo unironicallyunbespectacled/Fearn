@@ -213,7 +213,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 1"
   },
   "scrabble-u1-l2": {
     "id": "scrabble-u1-l2",
@@ -302,7 +302,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 2"
   },
   "scrabble-u1-l3": {
     "id": "scrabble-u1-l3",
@@ -381,7 +381,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 3"
   },
   "scrabble-u1-l4": {
     "id": "scrabble-u1-l4",
@@ -460,7 +460,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 4"
   },
   "scrabble-u1-l5": {
     "id": "scrabble-u1-l5",
@@ -534,7 +534,7 @@
         }
       ]
     },
-    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 1, Lesson 5: Pass a scoring-mechanics checkpoint covering values"
   },
   "scrabble-u2-l1": {
     "id": "scrabble-u2-l1",
@@ -625,7 +625,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 1: Recall a working set of valid two-letter words from memory"
   },
   "scrabble-u2-l2": {
     "id": "scrabble-u2-l2",
@@ -721,7 +721,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 2"
   },
   "scrabble-u2-l3": {
     "id": "scrabble-u2-l3",
@@ -781,7 +781,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 3"
   },
   "scrabble-u2-l4": {
     "id": "scrabble-u2-l4",
@@ -858,7 +858,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 4: Recall short words containing only vowels"
   },
   "scrabble-u2-l5": {
     "id": "scrabble-u2-l5",
@@ -946,7 +946,7 @@
         }
       ]
     },
-    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 2, Lesson 5: Pass a short-word vocabulary checkpoint under time pressure"
   },
   "scrabble-u3-l1": {
     "id": "scrabble-u3-l1",
@@ -982,7 +982,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Rapidly isolate high-frequency prefixes (RE-, which tile play maximizes expected scoring value?",
           "options": [
             "CHAGING",
             "HANGICE",
@@ -1107,7 +1107,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 1: Rapidly isolate high-frequency prefixes (RE-"
   },
   "scrabble-u3-l2": {
     "id": "scrabble-u3-l2",
@@ -1143,7 +1143,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Deconstruct 7-letter racks into vowel-consonant alternating cores (C-V-C-V) and recognize foundational 3- and 4-letter high-synergy word stems (-ATE, which tile play maximizes expected scoring value?",
           "options": [
             "3 Vowels and 4 Consonants",
             "6 Vowels and 1 Consonant",
@@ -1268,7 +1268,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 2"
   },
   "scrabble-u3-l3": {
     "id": "scrabble-u3-l3",
@@ -1304,7 +1304,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Identify compound word constructions and front/back hooks on the board to bridge 5- and 6-letter base words into 7- and 8-letter bingos (e, which tile play maximizes expected scoring value?",
           "options": [
             "Z",
             "Q",
@@ -1429,7 +1429,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 3"
   },
   "scrabble-u3-l4": {
     "id": "scrabble-u3-l4",
@@ -1465,7 +1465,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Apply the Alphagram Sorting Method (sorting rack letters alphabetically, which tile play maximizes expected scoring value?",
           "options": [
             "AEINPRT",
             "PAINTER",
@@ -1628,7 +1628,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Integrate prefix/suffix chunking, which tile play maximizes expected scoring value?",
           "options": [
             "TEARING",
             "RATEING",
@@ -1753,7 +1753,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 3, Lesson 5: Integrate prefix/suffix chunking"
   },
   "scrabble-u4-l1": {
     "id": "scrabble-u4-l1",
@@ -1789,7 +1789,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master the #1 highest-probability 6-letter Scrabble bingo stem, which tile play maximizes expected scoring value?",
           "options": [
             "+25 points",
             "+100 points",
@@ -1914,7 +1914,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 1"
   },
   "scrabble-u4-l2": {
     "id": "scrabble-u4-l2",
@@ -1950,7 +1950,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master the #2 and #3 elite 6-letter bingo stems, which tile play maximizes expected scoring value?",
           "options": [
             "PIRATES",
             "PARTNER",
@@ -2075,7 +2075,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 2: Master the #2 and #3 elite 6-letter bingo stems"
   },
   "scrabble-u4-l3": {
     "id": "scrabble-u4-l3",
@@ -2111,7 +2111,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master consonant-heavy and common suffix bingo stems, which tile play maximizes expected scoring value?",
           "options": [
             "CENTRAL, CERTAIN",
             "CHANCER, CHANCES",
@@ -2236,7 +2236,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 3: Master consonant-heavy and common suffix bingo stems"
   },
   "scrabble-u4-l4": {
     "id": "scrabble-u4-l4",
@@ -2273,7 +2273,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master blank tile bingo optimization, which tile play maximizes expected scoring value?",
           "options": [
             "+25 to +30 points in expected scoring value",
             "+5 points",
@@ -2398,7 +2398,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 4: Master blank tile bingo optimization"
   },
   "scrabble-u4-l5": {
     "id": "scrabble-u4-l5",
@@ -2436,7 +2436,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Integrate all major 6-letter bingo stems (TISANE, which tile play maximizes expected scoring value?",
           "options": [
             "RETAINS, NASTIER, RETINAS, STAINER, ASTERIN",
             "RESTRAIN, STRAINER",
@@ -2561,7 +2561,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
+    "title": "Unit 4, Lesson 5: Integrate all major 6-letter bingo stems (TISANE"
   },
   "scrabble-u6-l1": {
     "id": "scrabble-u6-l1",
@@ -2600,7 +2600,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Evaluate the quantitative point equity of your remaining rack leave (Leave Value), which tile play maximizes expected scoring value?",
           "options": [
             "Because an S tile scores 10 points on the board.",
             "Because there are 50 S tiles in the bag.",
@@ -2702,7 +2702,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Evaluating Leave: R-E-T-S vs. )"
+    "title": "Unit 6, Lesson 1: Evaluating Leave: R-E-T-S vs."
   },
   "scrabble-u6-l2": {
     "id": "scrabble-u6-l2",
@@ -2741,7 +2741,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Maintain the optimal Vowel-to-Consonant Ratio on your rack (the 3V, which tile play maximizes expected scoring value?",
           "options": [
             "3 Vowels and 4 Consonants",
             "1 Vowel and 6 Consonants",
@@ -2882,7 +2882,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Sacrifice short-term turn points when necessary to secure superior long-term rack equity (choosing a 22-point play with an elite leave over a 34-point play that ruins the rack), which tile play maximizes expected scoring value?",
           "options": [
             "Because 18 points is a lucky number.",
             "Because U is illegal on turn 2.",
@@ -2984,7 +2984,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Rack: E-I-N-R-S-U-V)"
+    "title": "Unit 6, Lesson 3: Rack: E-I-N-R-S-U-V"
   },
   "scrabble-u6-l4": {
     "id": "scrabble-u6-l4",
@@ -3125,7 +3125,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Rack: Q-U-U-V-W-I-I)"
+    "title": "Unit 6, Lesson 4: Determine when to dump awkward tiles on the board vs"
   },
   "scrabble-u6-l5": {
     "id": "scrabble-u6-l5",
@@ -3164,7 +3164,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Demonstrate championship-level rack management and leave evaluation across a comprehensive tournament decision-tree simulation, which tile play maximizes expected scoring value?",
           "options": [
             "Because eliminating the duplicate V and keeping the elite 'E-I-N-R' bingo core produces +40 net turn equity (+8 points higher than VANE) and sets up a high-probability bingo next turn.",
             "Because VAV is spelled backwards.",
@@ -3266,7 +3266,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Candidate 2: Play 'VAV' for 26)"
+    "title": "Unit 6, Lesson 5: Candidate 2: Play 'VAV' for 26"
   },
   "scrabble-u7-l1": {
     "id": "scrabble-u7-l1",
@@ -3401,7 +3401,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (100 total tiles - 79 on board )"
+    "title": "Unit 7, Lesson 1: Master the 100-tile tracking grid"
   },
   "scrabble-u7-l2": {
     "id": "scrabble-u7-l2",
@@ -3434,7 +3434,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master Pre-Endgame tactics (bag with 1 to 6 tiles remaining), which tile play maximizes expected scoring value?",
           "options": [
             "When the tile bag contains between 1 and 6 tiles remaining",
             "When both players have 1 blank",
@@ -3536,7 +3536,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (Bag has 3 tiles: E, N, S. Play)"
+    "title": "Unit 7, Lesson 2: Bag has 3 tiles: E, N, S. Play"
   },
   "scrabble-u7-l3": {
     "id": "scrabble-u7-l3",
@@ -3569,7 +3569,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Execute deterministic Complete Endgame calculations with 0 tiles in the bag, which tile play maximizes expected scoring value?",
           "options": [
             "18 points",
             "9 points",
@@ -3671,7 +3671,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (Opponent holds Q, I. Spotting )"
+    "title": "Unit 7, Lesson 3: Opponent holds Q, I. Spotting"
   },
   "scrabble-u7-l4": {
     "id": "scrabble-u7-l4",
@@ -3704,7 +3704,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master 'Out-in-Two' calculations, which tile play maximizes expected scoring value?",
           "options": [
             "Because V cannot be played on triple word squares",
             "Because there is no valid 2-letter word containing 'V' in the official English Scrabble dictionary, requiring at least a 3-letter open lane",
@@ -3806,7 +3806,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Opponent holds Q, V. You block)"
+    "title": "Unit 7, Lesson 4: Master 'Out-in-Two' calculations"
   },
   "scrabble-u7-l5": {
     "id": "scrabble-u7-l5",
@@ -3839,7 +3839,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Demonstrate comprehensive Master competitive Scrabble mastery by solving a full World Championship endgame puzzle, which tile play maximizes expected scoring value?",
           "options": [
             "46 points",
             "18 points",
@@ -3941,7 +3941,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (342 + 18 + 28 = 388 vs. 354 - )"
+    "title": "Unit 7, Lesson 5: 342 + 18 + 28 = 388 vs. 354 -"
   },
   "scrabble-u8-l1": {
     "id": "scrabble-u8-l1",
@@ -3974,7 +3974,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master the complete competitive lexicon of 2-letter and 3-letter words featuring high-value power tiles (J, which tile play maximizes expected scoring value?",
           "options": [
             "QU",
             "QA",
@@ -4076,7 +4076,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (Placing 'ZA' across a TL squar)"
+    "title": "Unit 8, Lesson 1: Placing 'ZA' across a TL squar"
   },
   "scrabble-u8-l2": {
     "id": "scrabble-u8-l2",
@@ -4109,7 +4109,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master high-density vowel dump words (2 to 5 letters) to escape vowel-heavy rack paralysis (e, which tile play maximizes expected scoring value?",
           "options": [
             "MIAOU",
             "MIAOW",
@@ -4211,7 +4211,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Holding A, E, I, O, U, R, T: P)"
+    "title": "Unit 8, Lesson 2: Holding A, E, I, O, U, R, T: P"
   },
   "scrabble-u8-l3": {
     "id": "scrabble-u8-l3",
@@ -4244,7 +4244,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master vowelless consonant dumps (2 to 5 letters) and unusual consonant cluster words (e, which tile play maximizes expected scoring value?",
           "options": [
             "CRW",
             "CWN",
@@ -4346,7 +4346,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (Playing 'CWM' (Welsh hollow: C)"
+    "title": "Unit 8, Lesson 3: Playing 'CWM' (Welsh hollow: C"
   },
   "scrabble-u8-l4": {
     "id": "scrabble-u8-l4",
@@ -4379,7 +4379,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Master high-probability tournament power bingos (7-letter and 8-letter words) built upon elite 6-letter stems, which tile play maximizes expected scoring value?",
           "options": [
             "HEATING",
             "HAIRNET",
@@ -4481,7 +4481,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Holding R-E-T-I-N-A + S: You i)"
+    "title": "Unit 8, Lesson 4: Holding R-E-T-I-N-A + S: You i"
   },
   "scrabble-u8-l5": {
     "id": "scrabble-u8-l5",
@@ -4514,7 +4514,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Demonstrate complete Master World Championship Scrabble strategic and linguistic synthesis across all 8 units by completing the Grand Capstone Tournament Simulation, which tile play maximizes expected scoring value?",
           "options": [
             "Because blocking the 'ZA' spot permanently trapped the 10-point 'Z' on the opponent's rack, denying them 32 points and converting their 'Z' into a +20 point penalty bonus in your favor",
             "Because QAT is worth 100 points",
@@ -4616,7 +4616,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Full Capstone Mastery: Synthes)"
+    "title": "Unit 8, Lesson 5: Full Capstone Mastery: Synthes"
   },
   "scrabble-u5-l1": {
     "id": "scrabble-u5-l1",
@@ -4653,7 +4653,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Identify, which tile play maximizes expected scoring value?",
           "options": [
             "6x multiplier",
             "3x multiplier",
@@ -4755,7 +4755,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (Playing QUIZ with Z on a Doubl)"
+    "title": "Unit 5, Lesson 1: Identify"
   },
   "scrabble-u5-l2": {
     "id": "scrabble-u5-l2",
@@ -4792,7 +4792,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Identify and execute defensive blocking plays that deny opponents access to premium squares and restrict board openings, which tile play maximizes expected scoring value?",
           "options": [
             "V",
             "D",
@@ -4892,7 +4892,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (Playing LEV against an open la)"
+    "title": "Unit 5, Lesson 2: Playing LEV against an open la"
   },
   "scrabble-u5-l3": {
     "id": "scrabble-u5-l3",
@@ -4929,7 +4929,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Evaluate board volatility and dynamically pivot between open-board offensive strategies and closed-board defensive strategies based on score spread, which tile play maximizes expected scoring value?",
           "options": [
             "A tightly closed, cramped board with no vowels",
             "An empty board",
@@ -5031,7 +5031,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (Trailing by 70 pts: Play RAIN )"
+    "title": "Unit 5, Lesson 3: Trailing by 70 pts: Play RAIN"
   },
   "scrabble-u5-l4": {
     "id": "scrabble-u5-l4",
@@ -5068,7 +5068,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Execute multi-word parallel plays and complex compound hooks that generate 30-50+ points with short, which tile play maximizes expected scoring value?",
           "options": [
             "It is split in half.",
             "It is counted in full for BOTH the horizontal and vertical words (e.g. 10 + 10 = 20 pts base).",
@@ -5170,7 +5170,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (Playing ZA (Z on DLS) parallel)"
+    "title": "Unit 5, Lesson 4: Playing ZA (Z on DLS"
   },
   "scrabble-u5-l5": {
     "id": "scrabble-u5-l5",
@@ -5207,7 +5207,7 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Which valid tournament play or stem combination correctly solves this rack challenge?",
+          "prompt": "In tournament Scrabble strategy for Pass an advanced board-control and positional strategy checkpoint integrating TWS defense, which tile play maximizes expected scoring value?",
           "options": [
             "Immediate Turn Score + Rack Leave Value - Opponent Expected Reply Value",
             "Just the score on the current turn",
@@ -5309,7 +5309,7 @@
       ],
       "passThreshold": 0.8
     },
-    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (Leading 310-240 with A E I N R)"
+    "title": "Unit 5, Lesson 5: Leading 310-240 with A E I N R"
   }
 };
   var CURRICULUM = { id: 'scrabble', name: "scrabble", units: UNITS, lessons: LESSONS };
