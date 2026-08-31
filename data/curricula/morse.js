@@ -1,4 +1,4 @@
-// morse curriculum
+// FEARN Curriculum Data — morse
 (function (global) {
   'use strict';
   var UNITS = [
@@ -208,7 +208,8 @@
           "difficulty": 550
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
   },
   "morse-u1-l2": {
     "id": "morse-u1-l2",
@@ -274,7 +275,8 @@
           "difficulty": 600
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
   },
   "morse-u1-l3": {
     "id": "morse-u1-l3",
@@ -340,7 +342,8 @@
           "difficulty": 640
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
   },
   "morse-u1-l4": {
     "id": "morse-u1-l4",
@@ -406,7 +409,8 @@
           "difficulty": 620
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
   },
   "morse-u1-l5": {
     "id": "morse-u1-l5",
@@ -462,7 +466,8 @@
           "difficulty": 640
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
   },
   "morse-u2-l1": {
     "id": "morse-u2-l1",
@@ -528,7 +533,8 @@
           "difficulty": 660
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
   },
   "morse-u2-l2": {
     "id": "morse-u2-l2",
@@ -594,7 +600,8 @@
           "difficulty": 700
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
   },
   "morse-u2-l3": {
     "id": "morse-u2-l3",
@@ -660,7 +667,8 @@
           "difficulty": 660
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
   },
   "morse-u2-l4": {
     "id": "morse-u2-l4",
@@ -726,7 +734,8 @@
           "difficulty": 700
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
   },
   "morse-u2-l5": {
     "id": "morse-u2-l5",
@@ -787,7 +796,8 @@
           "difficulty": 720
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
   },
   "morse-u3-l1": {
     "id": "morse-u3-l1",
@@ -866,7 +876,8 @@
           "difficulty": 780
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
   },
   "morse-u3-l2": {
     "id": "morse-u3-l2",
@@ -945,7 +956,8 @@
           "difficulty": 700
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
   },
   "morse-u3-l3": {
     "id": "morse-u3-l3",
@@ -1018,7 +1030,8 @@
           "difficulty": 760
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
   },
   "morse-u3-l4": {
     "id": "morse-u3-l4",
@@ -1109,7 +1122,8 @@
           "difficulty": 720
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
   },
   "morse-u3-l5": {
     "id": "morse-u3-l5",
@@ -1182,7 +1196,8 @@
           "difficulty": 700
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
   },
   "morse-u4-l1": {
     "id": "morse-u4-l1",
@@ -1261,7 +1276,8 @@
           "difficulty": 780
         }
       ]
-    }
+    },
+    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
   },
   "morse-u4-l2": {
     "id": "morse-u4-l2",
@@ -1322,7 +1338,8 @@
           "difficulty": 820
         }
       ]
-    }
+    },
+    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
   },
   "morse-u4-l3": {
     "id": "morse-u4-l3",
@@ -1382,7 +1399,8 @@
           "difficulty": 800
         }
       ]
-    }
+    },
+    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
   },
   "morse-u4-l4": {
     "id": "morse-u4-l4",
@@ -1448,7 +1466,8 @@
           "difficulty": 800
         }
       ]
-    }
+    },
+    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
   },
   "morse-u4-l5": {
     "id": "morse-u4-l5",
@@ -1516,7 +1535,8 @@
           "difficulty": 800
         }
       ]
-    }
+    },
+    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
   },
   "morse-u5-l1": {
     "id": "morse-u5-l1",
@@ -1589,7 +1609,8 @@
           "difficulty": 880
         }
       ]
-    }
+    },
+    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery"
   },
   "morse-u5-l2": {
     "id": "morse-u5-l2",
@@ -1668,7 +1689,8 @@
           "difficulty": 900
         }
       ]
-    }
+    },
+    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery"
   },
   "morse-u5-l3": {
     "id": "morse-u5-l3",
@@ -1729,7 +1751,8 @@
           "difficulty": 870
         }
       ]
-    }
+    },
+    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery"
   },
   "morse-u5-l4": {
     "id": "morse-u5-l4",
@@ -1790,7 +1813,8 @@
           "difficulty": 900
         }
       ]
-    }
+    },
+    "title": "Copy real-world numeric strings"
   },
   "morse-u5-l5": {
     "id": "morse-u5-l5",
@@ -1858,7 +1882,8 @@
           "difficulty": 850
         }
       ]
-    }
+    },
+    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery"
   },
   "morse-u7-l1": {
     "id": "morse-u7-l1",
@@ -1867,7 +1892,7 @@
     "objective": "Compress Farnsworth inter-character spacing from 8 WPM to 9 WPM effective speed while maintaining 20 WPM character dit/dah timing, shifting the brain from analytical letter-counting to acoustic whole-sound pattern recognition.",
     "difficulty": 650,
     "presentation": {
-      "explanation": "Welcome to Advanced Morse Code Unit 7: Farnsworth Spacing Compression (8 -> 12 WPM)! Having learned the complete alphabet, numbers 0-9, punctuation, and core prosigns, your training now enters the crucial physiological phase of **spacing compression**:\n\n1. The Farnsworth Spacing Compression Curve:\n   - In the Farnsworth method, individual dits and dahs are ALWAYS sent at **20 WPM character speed** (a dit is exactly 60 milliseconds).\n   - Beginner units used wide spacing (~5 to 8 WPM effective rate) giving your conscious prefrontal cortex time to analyze and translate: *'dah-di-dah-dit... that's C'*\n   - In Unit 7, we systematically compress the pauses between characters: **8 WPM -> 9 WPM -> 10 WPM -> 11 WPM -> 12 WPM**!\n\n2. The Neurological Shift (#ScienceOfLearning):\n   - At 9 WPM effective speed, conscious counting becomes physically impossible. Your brain is forced to process Morse code like spoken phonemes—a single acoustic gestalt (*'di-dah-dit'* sounds like a melodic chirp meaning 'R', rather than 'one dit, one dah, one dit').\n   - **Rule of Thumb**: Stop writing the instant you hear the character; let the sound echo into your motor hand without verbalizing in your head.",
+      "explanation": "Welcome to Advanced Morse Code Unit 7: Farnsworth Spacing Compression (8 -> 12 WPM)! Having learned the complete alphabet, numbers 0-9, punctuation, and core prosigns, your training now enters the crucial physiological phase of **spacing compression**:\n\n1. The Farnsworth Spacing Compression Curve:\n   - In the Farnsworth method, individual dits and dahs are ALWAYS sent at **20 WPM character speed** (a dit is exactly 60 milliseconds).\n   - Beginner units used wide spacing (~5 to 8 WPM effective rate) giving your conscious prefrontal cortex time to analyze and translate: *'dah-di-dah-dit... that's C'*\n   - In Unit 7, we systematically compress the pauses between characters: **8 WPM -> 9 WPM -> 10 WPM -> 11 WPM -> 12 WPM**!\n\n2. The Neurological Shift (deliberate practice):\n   - At 9 WPM effective speed, conscious counting becomes physically impossible. Your brain is forced to process Morse code like spoken phonemes—a single acoustic gestalt (*'di-dah-dit'* sounds like a melodic chirp meaning 'R', rather than 'one dit, one dah, one dit').\n   - **Rule of Thumb**: Stop writing the instant you hear the character; let the sound echo into your motor hand without verbalizing in your head.",
       "examples": [
         {
           "target": "PARIS",
@@ -1891,12 +1916,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 26 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Making the dits shorter than 60 milliseconds (26.1) [L26.1] (Focus 26.1)",
-            "Learning new secret codes (26.2) [L26.2] (Focus 26.2)",
-            "Typing faster with one finger (26.3) [L26.3] (Focus 26.3)",
-            "Forcing the auditory cortex to recognize whole acoustic rhythm patterns (gestalts) rather than counting dits and dahs analytically (26.4) [L26.4] (Focus 26.4)"
+            "Making the dits shorter than 60 milliseconds (26.1) ",
+            "Learning new secret codes (26.2) ",
+            "Typing faster with one finger (26.3) ",
+            "Forcing the auditory cortex to recognize whole acoustic rhythm patterns (gestalts) rather than counting dits and dahs analytically (26.4) "
           ],
           "answerIndex": 3,
           "explanation": "Acoustic gestalt perception replaces conscious counting."
@@ -1919,10 +1944,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "RADIO (26.1) [L26.1] (Task 26.1)",
-            "TOWER (26.2) [L26.2] (Task 26.2)",
-            "MORSE (26.3) [L26.3] (Task 26.3)",
-            "PARIS (26.4) [L26.4] (Task 26.4)"
+            "RADIO  (Task 26.1)",
+            "TOWER  (Task 26.2)",
+            "MORSE  (Task 26.3)",
+            "PARIS  (Task 26.4)"
           ],
           "answerIndex": 3,
           "explanation": ".--. (P) .- (A) .-. (R) .. (I) ... (S) = PARIS."
@@ -1951,7 +1976,8 @@
             "CODER"
           ],
           "answerIndex": 3,
-          "explanation": "-.-. (C) --- (O) -.. (D) . (E) .-. (R) = CODER."
+          "explanation": "-.-. (C) --- (O) -.. (D) . (E) .-. (R) = CODER.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "How many dit-time units are in the standard reference word 'PARIS'?",
@@ -1962,7 +1988,8 @@
             "10 dit-units"
           ],
           "answerIndex": 2,
-          "explanation": "PARIS = exactly 50 baud/dit time units."
+          "explanation": "PARIS = exactly 50 baud/dit time units.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why does the Farnsworth method keep character speed locked at 20 WPM while varying spacing?",
@@ -1973,7 +2000,8 @@
             "To save battery power."
           ],
           "answerIndex": 1,
-          "explanation": "Prevents the classic counting plateau by cementing high-speed acoustic memory."
+          "explanation": "Prevents the classic counting plateau by cementing high-speed acoustic memory.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `... .--. .- -.-. .`",
@@ -1984,11 +2012,13 @@
             "SPEED"
           ],
           "answerIndex": 0,
-          "explanation": "... (S) .--. (P) .- (A) -.-. (C) . (E) = SPACE."
+          "explanation": "... (S) .--. (P) .- (A) -.-. (C) . (E) = SPACE.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (PARIS)"
   },
   "morse-u7-l2": {
     "id": "morse-u7-l2",
@@ -2021,12 +2051,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 27 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'Copying behind' — letting the ear buffer the current sound while the hand writes the previously completed character 1-2 positions back (27.1) [L27.1] (Focus 27.1)",
-            "Writing in cursive uppercase only (27.2) [L27.2] (Focus 27.2)",
-            "Stopping after every word (27.3) [L27.3] (Focus 27.3)",
-            "Guessing only vowels (27.4) [L27.4] (Focus 27.4)"
+            "'Copying behind' — letting the ear buffer the current sound while the hand writes the previously completed character 1-2 positions back (27.1) ",
+            "Writing in cursive uppercase only (27.2) ",
+            "Stopping after every word (27.3) ",
+            "Guessing only vowels (27.4) "
           ],
           "answerIndex": 0,
           "explanation": "Copying behind prevents physical motor jamming."
@@ -2049,10 +2079,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "CQ 73 (27.1) [L27.1] (Task 27.1)",
-            "SOS 999 (27.2) [L27.2] (Task 27.2)",
-            "RST 599 (Readability 5, Strength 9, Tone 9 — perfect signal) (27.3) [L27.3] (Task 27.3)",
-            "QTH 123 (27.4) [L27.4] (Task 27.4)"
+            "CQ 73  (Task 27.1)",
+            "SOS 999  (Task 27.2)",
+            "RST 599 (Readability 5, Strength 9, Tone 9 — perfect signal)  (Task 27.3)",
+            "QTH 123  (Task 27.4)"
           ],
           "answerIndex": 2,
           "explanation": "RST 599 = standard maximum signal report."
@@ -2081,7 +2111,8 @@
             "2B8K0"
           ],
           "answerIndex": 2,
-          "explanation": "...-- (3) -.-. (C) --... (7) .-.. (L) ----. (9) = 3C7L9."
+          "explanation": "...-- (3) -.-. (C) --... (7) .-.. (L) ----. (9) = 3C7L9.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What does the signal report 'RST 599' signify in Morse communications?",
@@ -2092,7 +2123,8 @@
             "Radio Station 599"
           ],
           "answerIndex": 1,
-          "explanation": "RST scale: Readability (1-5), Strength (1-9), Tone (1-9)."
+          "explanation": "RST scale: Readability (1-5), Strength (1-9), Tone (1-9).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `-... ..- ..-. ..-. . .-.`",
@@ -2103,7 +2135,8 @@
             "BATTER"
           ],
           "answerIndex": 0,
-          "explanation": "-... (B) ..- (U) ..-. (F) ..-. (F) . (E) .-. (R) = BUFFER."
+          "explanation": "-... (B) ..- (U) ..-. (F) ..-. (F) . (E) .-. (R) = BUFFER.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete the contest exchange: 'UR RST 599 _______ (Best regards)'",
@@ -2114,11 +2147,13 @@
             "73 (--... ...--)"
           ],
           "answerIndex": 3,
-          "explanation": "73 is the universal telegrapher blessing."
+          "explanation": "73 is the universal telegrapher blessing.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (7X3MK)"
   },
   "morse-u7-l3": {
     "id": "morse-u7-l3",
@@ -2127,7 +2162,7 @@
     "objective": "Advance Farnsworth spacing compression to 11 WPM effective rate copying high-frequency English vocabulary words (THE, AND, FOR, WITH, THIS, FROM, HAVE, THAT) directly as whole auditory word-rhythms.",
     "difficulty": 700,
     "presentation": {
-      "explanation": "At 11 WPM effective spacing, common English words begin to sound like **single rhythmic melodies** rather than individual letters:\n\n1. Auditory Word-Shapes (Whole-Word Acoustic Images):\n   - **THE** (`- .... .` = dah di-di-di-dit dit): Sounds like a distinct rapid galloping cadence.\n   - **AND** (`.- -. -..` = di-dah dah-dit dah-di-dit): A fluid descending wave.\n   - **FOR** (`..-. --- .-.` = di-di-dah-dit dah-dah-dah di-dah-dit): Crisp and rolling.\n   - **YOU** (`-.-- --- ..-` = dah-di-dah-dah dah-dah-dah di-di-dah)\n   - **WITH** (`.-- .. - ....` = di-dah-dah di-dit dah di-di-di-dit)\n   - **THAT** (`- .... .- -` = dah di-di-di-dit di-dah dah)\n\n2. Instant Word Perception:\n   - Just as fluent readers do not sound out 't-h-e' letter-by-letter, fluent telegraphers hear the combined rhythm `- .... .` and instantly write 'THE' without thinking of T, H, or E individually (#ScienceOfLearning).",
+      "explanation": "At 11 WPM effective spacing, common English words begin to sound like **single rhythmic melodies** rather than individual letters:\n\n1. Auditory Word-Shapes (Whole-Word Acoustic Images):\n   - **THE** (`- .... .` = dah di-di-di-dit dit): Sounds like a distinct rapid galloping cadence.\n   - **AND** (`.- -. -..` = di-dah dah-dit dah-di-dit): A fluid descending wave.\n   - **FOR** (`..-. --- .-.` = di-di-dah-dit dah-dah-dah di-dah-dit): Crisp and rolling.\n   - **YOU** (`-.-- --- ..-` = dah-di-dah-dah dah-dah-dah di-di-dah)\n   - **WITH** (`.-- .. - ....` = di-dah-dah di-dit dah di-di-di-dit)\n   - **THAT** (`- .... .- -` = dah di-di-di-dit di-dah dah)\n\n2. Instant Word Perception:\n   - Just as fluent readers do not sound out 't-h-e' letter-by-letter, fluent telegraphers hear the combined rhythm `- .... .` and instantly write 'THE' without thinking of T, H, or E individually (deliberate practice).",
       "examples": [
         {
           "target": "THE BOOK AND THE PEN",
@@ -2151,12 +2186,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 28 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "By pausing the tape and counting four dits for H (28.1) [L28.1] (Focus 28.1)",
-            "By writing down T, then waiting for H, then waiting for E (28.2) [L28.2] (Focus 28.2)",
-            "By guessing based on the first letter only (28.3) [L28.3] (Focus 28.3)",
-            "As a single unified acoustic rhythm (- .... .) recognized instantaneously as the concept 'THE' (28.4) [L28.4] (Focus 28.4)"
+            "By pausing the tape and counting four dits for H (28.1) ",
+            "By writing down T, then waiting for H, then waiting for E (28.2) ",
+            "By guessing based on the first letter only (28.3) ",
+            "As a single unified acoustic rhythm (- .... .) recognized instantaneously as the concept 'THE' (28.4) "
           ],
           "answerIndex": 3,
           "explanation": "Whole-word acoustic imagery bypasses letter-by-letter decomposition."
@@ -2179,10 +2214,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "THANKS FOR QSO (Thanks for the radio contact) (28.1) [L28.1] (Task 28.1)",
-            "TIME FOR BED (28.2) [L28.2] (Task 28.2)",
-            "THANK YOU ALL (28.3) [L28.3] (Task 28.3)",
-            "TODAY IS SUNNY (28.4) [L28.4] (Task 28.4)"
+            "THANKS FOR QSO (Thanks for the radio contact)  (Task 28.1)",
+            "TIME FOR BED  (Task 28.2)",
+            "THANK YOU ALL  (Task 28.3)",
+            "TODAY IS SUNNY  (Task 28.4)"
           ],
           "answerIndex": 0,
           "explanation": "THANKS FOR QSO."
@@ -2211,7 +2246,8 @@
             "WHERE ARE MY SHOES"
           ],
           "answerIndex": 1,
-          "explanation": "WITH ALL MY HEART."
+          "explanation": "WITH ALL MY HEART.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the word: `- .... .. ...`",
@@ -2222,7 +2258,8 @@
             "THEN"
           ],
           "answerIndex": 0,
-          "explanation": "- (T) .... (H) .. (I) ... (S) = THIS."
+          "explanation": "- (T) .... (H) .. (I) ... (S) = THIS.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What cognitive phenomenon allows telegraphers to comprehend text at 11+ WPM without visual spelling?",
@@ -2230,10 +2267,11 @@
             "Subconscious blinking.",
             "Hand trembling.",
             "Photographic memory of keyboard letters.",
-            "Phonological recoding into auditory word-form representations in the superior temporal gyrus (#ScienceOfLearning)."
+            "Phonological recoding into auditory word-form representations in the superior temporal gyrus (deliberate practice)."
           ],
           "answerIndex": 3,
-          "explanation": "Auditory word-form representation in the brain."
+          "explanation": "Auditory word-form representation in the brain.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `..-. .-. --- --   -.. .- .-- -.   - ---   -.. ..- ... -.-`",
@@ -2244,11 +2282,13 @@
             "FOUR DAYS TO REST"
           ],
           "answerIndex": 2,
-          "explanation": "FROM DAWN TO DUSK."
+          "explanation": "FROM DAWN TO DUSK.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (THE BOOK AND THE PEN)"
   },
   "morse-u7-l4": {
     "id": "morse-u7-l4",
@@ -2281,12 +2321,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 29 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "N3ABC (29.1) [L29.1] (Focus 29.1)",
-            "W1AW (ARRL headquarters station in Newington, Connecticut) (29.2) [L29.2] (Focus 29.2)",
-            "W9XYZ (29.3) [L29.3] (Focus 29.3)",
-            "K2USA (29.4) [L29.4] (Focus 29.4)"
+            "N3ABC (29.1) ",
+            "W1AW (ARRL headquarters station in Newington, Connecticut) (29.2) ",
+            "W9XYZ (29.3) ",
+            "K2USA (29.4) "
           ],
           "answerIndex": 1,
           "explanation": ".-- (W) .---- (1) .- (A) .-- (W) = W1AW."
@@ -2309,10 +2349,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "QTH TOKYO (Location: Tokyo) (29.1) [L29.1] (Task 29.1)",
-            "QRZ TOKYO (29.2) [L29.2] (Task 29.2)",
-            "CQ TONIGHT (29.3) [L29.3] (Task 29.3)",
-            "QSL TOKYO (29.4) [L29.4] (Task 29.4)"
+            "QTH TOKYO (Location: Tokyo)  (Task 29.1)",
+            "QRZ TOKYO  (Task 29.2)",
+            "CQ TONIGHT  (Task 29.3)",
+            "QSL TOKYO  (Task 29.4)"
           ],
           "answerIndex": 0,
           "explanation": "--.- - .... (QTH) + - --- -.- -.-- --- (TOKYO) = QTH TOKYO."
@@ -2341,7 +2381,8 @@
             "CQ CQ DE W1AW"
           ],
           "answerIndex": 0,
-          "explanation": "QSL (Acknowledge) GB (Goodbye) 73 (Best regards) SK (End of work)."
+          "explanation": "QSL (Acknowledge) GB (Goodbye) 73 (Best regards) SK (End of work).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the callsign: `.--- .- --... -.-- --..`",
@@ -2352,7 +2393,8 @@
             "JA3YZ (Japanese amateur callsign)"
           ],
           "answerIndex": 3,
-          "explanation": ".--- (J) .- (A) ...-- (3) -.-- (Y) --.. (Z) = JA3YZ."
+          "explanation": ".--- (J) .- (A) ...-- (3) -.-- (Y) --.. (Z) = JA3YZ.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "At standard 12 WPM timing, what is the duration ratio between a dit, a dah, an inter-letter space, and an inter-word space?",
@@ -2363,7 +2405,8 @@
             "2 : 4 : 6 : 8"
           ],
           "answerIndex": 2,
-          "explanation": "Standard international Morse timing ratio is 1:3:3:7."
+          "explanation": "Standard international Morse timing ratio is 1:3:3:7.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `-. .- -- .   -.. .- ...- .. -..`",
@@ -2374,11 +2417,13 @@
             "NEAR DOCK"
           ],
           "answerIndex": 1,
-          "explanation": "NAME DAVID."
+          "explanation": "NAME DAVID.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (CQ CQ DE DL1ABC K)"
   },
   "morse-u7-l5": {
     "id": "morse-u7-l5",
@@ -2411,12 +2456,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 30 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Fine Business (telegrapher slang for 'Excellent! / Great!') (30.1) [L30.1] (Focus 30.1)",
-            "Facebook (30.2) [L30.2] (Focus 30.2)",
-            "Fast Band (30.3) [L30.3] (Focus 30.3)",
-            "Full Battery (30.4) [L30.4] (Focus 30.4)"
+            "Fine Business (telegrapher slang for 'Excellent! / Great!') (30.1) ",
+            "Facebook (30.2) ",
+            "Fast Band (30.3) ",
+            "Full Battery (30.4) "
           ],
           "answerIndex": 0,
           "explanation": "FB = Fine Business (excellent)."
@@ -2439,10 +2484,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "DL1ABC (30.1) [L30.1] (Task 30.1)",
-            "PY2AA (São Paulo, Brazil station) (30.2) [L30.2] (Task 30.2)",
-            "JA7XYZ (30.3) [L30.3] (Task 30.3)",
-            "W1AW (30.4) [L30.4] (Task 30.4)"
+            "DL1ABC  (Task 30.1)",
+            "PY2AA (São Paulo, Brazil station)  (Task 30.2)",
+            "JA7XYZ  (Task 30.3)",
+            "W1AW  (Task 30.4)"
           ],
           "answerIndex": 1,
           "explanation": ".--. (P) -.-- (Y) ..--- (2) .- (A) .- (A) = PY2AA."
@@ -2471,7 +2516,8 @@
             "Farnsworth spacing compression from 8 WPM to full 12 WPM standard timing, acoustic whole-word recognition (THE, AND, FOR, WITH), 5-character cipher group copy, real global callsign decoding (W1AW, PY2AA), and full head-copy QSO mastery"
           ],
           "answerIndex": 3,
-          "explanation": "Unit 7 comprehensive 12 WPM spacing compression and on-air operational mastery."
+          "explanation": "Unit 7 comprehensive 12 WPM spacing compression and on-air operational mastery.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `... .--. . . -..   .---- ..---   .-- .--. --   -- .- ... - . .-. . -..`",
@@ -2482,7 +2528,8 @@
             "STATION 12 CALLING"
           ],
           "answerIndex": 2,
-          "explanation": "SPEED 12 WPM MASTERED."
+          "explanation": "SPEED 12 WPM MASTERED.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is 12 WPM considered the 'escape velocity' of Morse code learning?",
@@ -2493,7 +2540,8 @@
             "Because radio waves travel at 12 miles per second."
           ],
           "answerIndex": 1,
-          "explanation": "Permanent extinction of conscious translation and lock-in of auditory automaticity."
+          "explanation": "Permanent extinction of conscious translation and lock-in of auditory automaticity.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the next frontier of Morse code mastery in Unit 8?",
@@ -2504,11 +2552,13 @@
             "Learning Greek letters"
           ],
           "answerIndex": 0,
-          "explanation": "Unit 8 focuses on head-copy speed and instantaneous word recognition."
+          "explanation": "Unit 8 focuses on head-copy speed and instantaneous word recognition.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (CQ CQ CQ DE W1AW W1AW K)"
   },
   "morse-u8-l1": {
     "id": "morse-u8-l1",
@@ -2535,12 +2585,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 31 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "TEA (31.1) [L31.1] (Focus 31.1)",
-            "TEN (31.2) [L31.2] (Focus 31.2)",
-            "TOE (31.3) [L31.3] (Focus 31.3)",
-            "THE (31.4) [L31.4] (Focus 31.4)"
+            "TEA (31.1) ",
+            "TEN (31.2) ",
+            "TOE (31.3) ",
+            "THE (31.4) "
           ],
           "answerIndex": 3,
           "explanation": "- (T) .... (H) . (E) = THE."
@@ -2563,10 +2613,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "YOU ARE NOT (31.1) [L31.1] (Task 31.1)",
-            "YES AND ALL (31.2) [L31.2] (Task 31.2)",
-            "YET ARE ONE (31.3) [L31.3] (Task 31.3)",
-            "YOU ARE ALL (31.4) [L31.4] (Task 31.4)"
+            "YOU ARE NOT  (Task 31.1)",
+            "YES AND ALL  (Task 31.2)",
+            "YET ARE ONE  (Task 31.3)",
+            "YOU ARE ALL  (Task 31.4)"
           ],
           "answerIndex": 3,
           "explanation": "YOU ( -.-- --- ..- ) ARE ( .- .-. . ) ALL ( .- .-.. .-.. )."
@@ -2595,7 +2645,8 @@
             "All are punctuation"
           ],
           "answerIndex": 2,
-          "explanation": "High-frequency Morse word matching."
+          "explanation": "High-frequency Morse word matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the full sentence: `- .... .   ... ..- -.   .. ...   ..- .--.`",
@@ -2606,7 +2657,8 @@
             "THE SKY IS BLUE"
           ],
           "answerIndex": 1,
-          "explanation": "THE ( - .... . ) SUN ( ... ..- -. ) IS ( .. ... ) UP ( ..- .--. )."
+          "explanation": "THE ( - .... . ) SUN ( ... ..- -. ) IS ( .. ... ) UP ( ..- .--. ).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What does 'head-copying' mean in high-speed Morse code?",
@@ -2617,7 +2669,8 @@
             "Wearing headphones"
           ],
           "answerIndex": 0,
-          "explanation": "Head-copying is direct auditory cognitive comprehension without transcription."
+          "explanation": "Head-copying is direct auditory cognitive comprehension without transcription.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'At 16 WPM, letters blend into words; words blend into _______.'",
@@ -2628,11 +2681,13 @@
             "direct spoken language"
           ],
           "answerIndex": 3,
-          "explanation": "At high speeds, Morse code functions as a direct auditory spoken dialect."
+          "explanation": "At high speeds, Morse code functions as a direct auditory spoken dialect.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (- .... .   .- -. -..   ..-. --)"
   },
   "morse-u8-l2": {
     "id": "morse-u8-l2",
@@ -2659,12 +2714,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 32 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "VE3ABC (Canada Ontario District 3, station ABC) (32.1) [L32.1] (Focus 32.1)",
-            "VO3ABC (32.2) [L32.2] (Focus 32.2)",
-            "VK3ABC (32.3) [L32.3] (Focus 32.3)",
-            "VA3ABC (32.4) [L32.4] (Focus 32.4)"
+            "VE3ABC (Canada Ontario District 3, station ABC) (32.1) ",
+            "VO3ABC (32.2) ",
+            "VK3ABC (32.3) ",
+            "VA3ABC (32.4) "
           ],
           "answerIndex": 0,
           "explanation": "VE ( ...- . ) 3 ( ...-- ) ABC ( .- -... -.-. )."
@@ -2687,10 +2742,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "W2VX (32.1) [L32.1] (Task 32.1)",
-            "N2VX (32.2) [L32.2] (Task 32.2)",
-            "K2VX (32.3) [L32.3] (Task 32.3)",
-            "K3VX (32.4) [L32.4] (Task 32.4)"
+            "W2VX  (Task 32.1)",
+            "N2VX  (Task 32.2)",
+            "K2VX  (Task 32.3)",
+            "K3VX  (Task 32.4)"
           ],
           "answerIndex": 2,
           "explanation": "K ( -.- ) 2 ( ..--- ) V ( ...- ) X ( -..- ) = K2VX (USA District 2)."
@@ -2719,7 +2774,8 @@
             "All are British stations"
           ],
           "answerIndex": 1,
-          "explanation": "International callsign prefix matching."
+          "explanation": "International callsign prefix matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the Australian callsign: `...- -.- ..--- -... -...`",
@@ -2730,7 +2786,8 @@
             "VE2BB"
           ],
           "answerIndex": 0,
-          "explanation": "VK ( ...- -.- ) 2 ( ..--- ) BB ( -... -... )."
+          "explanation": "VK ( ...- -.- ) 2 ( ..--- ) BB ( -... -... ).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is recognizing the numeric call district digit (0-9) crucial during rapid callsign copy?",
@@ -2741,7 +2798,8 @@
             "The number marks the exact transition between the country prefix and the station suffix, anchoring the rhythm of the callsign"
           ],
           "answerIndex": 3,
-          "explanation": "The central digit anchors the rhythmic cadence of the callsign."
+          "explanation": "The central digit anchors the rhythmic cadence of the callsign.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'A standard amateur callsign consists of Prefix + Digit + _______.'",
@@ -2752,11 +2810,13 @@
             "Password"
           ],
           "answerIndex": 2,
-          "explanation": "Prefix + Digit + Suffix is the standard international format."
+          "explanation": "Prefix + Digit + Suffix is the standard international format.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Decode international amateur radio callsign structures (Prefixes"
   },
   "morse-u8-l3": {
     "id": "morse-u8-l3",
@@ -2783,12 +2843,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 33 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "QSL (I confirm receipt) (33.1) [L33.1] (Focus 33.1)",
-            "QRP (Low power) (33.2) [L33.2] (Focus 33.2)",
-            "QRZ (Who is calling me?) (33.3) [L33.3] (Focus 33.3)",
-            "QTH (My location / What is your location?) (33.4) [L33.4] (Focus 33.4)"
+            "QSL (I confirm receipt) (33.1) ",
+            "QRP (Low power) (33.2) ",
+            "QRZ (Who is calling me?) (33.3) ",
+            "QTH (My location / What is your location?) (33.4) "
           ],
           "answerIndex": 3,
           "explanation": "QTH = Location."
@@ -2811,10 +2871,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "QRZ DE W1AW (Who is calling me? From W1AW) (33.1) [L33.1] (Task 33.1)",
-            "QSL DE W1AW (33.2) [L33.2] (Task 33.2)",
-            "QTH DE W1AW (33.3) [L33.3] (Task 33.3)",
-            "QSY DE W1AW (33.4) [L33.4] (Task 33.4)"
+            "QRZ DE W1AW (Who is calling me? From W1AW)  (Task 33.1)",
+            "QSL DE W1AW  (Task 33.2)",
+            "QTH DE W1AW  (Task 33.3)",
+            "QSY DE W1AW  (Task 33.4)"
           ],
           "answerIndex": 0,
           "explanation": "QRZ ( --.- .-. --.. ) DE ( -.. . ) W1AW."
@@ -2843,7 +2903,8 @@
             "All mean weather report"
           ],
           "answerIndex": 0,
-          "explanation": "Q-code definitions matching."
+          "explanation": "Q-code definitions matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `--.- ... -.--   .---- ....-   ...-- --... -----`",
@@ -2854,7 +2915,8 @@
             "QSY 14370 (Change frequency to 14.370 MHz)"
           ],
           "answerIndex": 3,
-          "explanation": "QSY ( --.- ... -.-- ) 14370 ( .---- ....- ...-- --... ----- )."
+          "explanation": "QSY ( --.- ... -.-- ) 14370 ( .---- ....- ...-- --... ----- ).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "How do you ask 'Can you acknowledge receipt?' in Morse shorthand?",
@@ -2865,7 +2927,8 @@
             "YES?"
           ],
           "answerIndex": 2,
-          "explanation": "Adding a question mark to QSL turns it into 'Can you acknowledge receipt?'."
+          "explanation": "Adding a question mark to QSL turns it into 'Can you acknowledge receipt?'.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'QSO refers to a completed _______.'",
@@ -2876,11 +2939,13 @@
             "antenna installation"
           ],
           "answerIndex": 1,
-          "explanation": "A QSO is a completed two-way contact between stations."
+          "explanation": "A QSO is a completed two-way contact between stations.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (--.- - ....   ..--..   (QTH?) )"
   },
   "morse-u8-l4": {
     "id": "morse-u8-l4",
@@ -2907,12 +2972,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 34 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The operator is 59 years old (34.1) [L34.1] (Focus 34.1)",
-            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9 (pure crystal musical tone) (34.2) [L34.2] (Focus 34.2)",
-            "There are 599 errors in the transmission (34.3) [L34.3] (Focus 34.3)",
-            "The frequency is 599 kHz (34.4) [L34.4] (Focus 34.4)"
+            "The operator is 59 years old (34.1) ",
+            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9 (pure crystal musical tone) (34.2) ",
+            "There are 599 errors in the transmission (34.3) ",
+            "The frequency is 599 kHz (34.4) "
           ],
           "answerIndex": 1,
           "explanation": "RST = Readability (1-5), Strength (1-9), Tone (1-9)."
@@ -2935,10 +3000,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "OP IS MARK = 73 (Operator is Mark, best regards) (34.1) [L34.1] (Task 34.1)",
-            "ON IS MARK = 73 (34.2) [L34.2] (Task 34.2)",
-            "OP IS MIKE = 73 (34.3) [L34.3] (Task 34.3)",
-            "OP IS MATT = 73 (34.4) [L34.4] (Task 34.4)"
+            "OP IS MARK = 73 (Operator is Mark, best regards)  (Task 34.1)",
+            "ON IS MARK = 73  (Task 34.2)",
+            "OP IS MIKE = 73  (Task 34.3)",
+            "OP IS MATT = 73  (Task 34.4)"
           ],
           "answerIndex": 0,
           "explanation": "OP IS MARK ( --- .--.   .. ...   -- .- .-. -.- ) = 73 ( --... ...-- )."
@@ -2967,7 +3032,8 @@
             "CQ: General call to all | DE: From / This is | RST: Signal quality report | 73: Best regards"
           ],
           "answerIndex": 3,
-          "explanation": "QSO components matching."
+          "explanation": "QSO components matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `-.- ..--- ...- -..-   -.. .   --. ...-- --.. .--.   -.-`",
@@ -2978,7 +3044,8 @@
             "K2VX DE M3ZP K"
           ],
           "answerIndex": 2,
-          "explanation": "K2VX ( -.- ..--- ...- -..- ) DE G3ZP K."
+          "explanation": "K2VX ( -.- ..--- ...- -..- ) DE G3ZP K.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What does 'HW CPY?' mean in Morse shorthand?",
@@ -2989,7 +3056,8 @@
             "High wattage call?"
           ],
           "answerIndex": 1,
-          "explanation": "HW CPY? = How copy?"
+          "explanation": "HW CPY? = How copy?",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete the QSO: 'TNX FER QSO ES _______ 73 SK.'",
@@ -3000,11 +3068,13 @@
             "NO MORE"
           ],
           "answerIndex": 0,
-          "explanation": "HPE CUAGN (Hope to see you again) is the traditional warm farewell."
+          "explanation": "HPE CUAGN (Hope to see you again) is the traditional warm farewell.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Decode and format a complete standard CW QSO (Two-Way Contact) exchange"
   },
   "morse-u8-l5": {
     "id": "morse-u8-l5",
@@ -3031,12 +3101,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 35 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "New Haven CT (35.1) [L35.1] (Focus 35.1)",
-            "Toronto (35.2) [L35.2] (Focus 35.2)",
-            "London (35.3) [L35.3] (Focus 35.3)",
-            "Tokyo (35.4) [L35.4] (Focus 35.4)"
+            "New Haven CT (35.1) ",
+            "Toronto (35.2) ",
+            "London (35.3) ",
+            "Tokyo (35.4) "
           ],
           "answerIndex": 0,
           "explanation": "W1AW transmitted: QTH NEW HAVEN CT."
@@ -3059,10 +3129,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "Please repeat (35.1) [L35.1] (Task 35.1)",
-            "Silent Key / End of Contact (final transmission in the conversation) (35.2) [L35.2] (Task 35.2)",
-            "Change frequency (35.3) [L35.3] (Task 35.3)",
-            "Start Transmission (35.4) [L35.4] (Task 35.4)"
+            "Please repeat  (Task 35.1)",
+            "Silent Key / End of Contact (final transmission in the conversation)  (Task 35.2)",
+            "Change frequency  (Task 35.3)",
+            "Start Transmission  (Task 35.4)"
           ],
           "answerIndex": 1,
           "explanation": "SK = End of contact / Final transmission."
@@ -3091,7 +3161,8 @@
             "Memorizing flashcards on paper only"
           ],
           "answerIndex": 2,
-          "explanation": "Unit 8 comprehensive whole-word copy, callsigns, Q-codes, and full QSO exchange mastery."
+          "explanation": "Unit 8 comprehensive whole-word copy, callsigns, Q-codes, and full QSO exchange mastery.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the complete sign-off: `--... ...--   -.. .   .-- .---- .- .--   ... -.-`",
@@ -3102,7 +3173,8 @@
             "QSL DE W1AW SK"
           ],
           "answerIndex": 1,
-          "explanation": "73 ( --... ...-- ) DE ( -.. . ) W1AW ( .-- .---- .- .-- ) SK ( ... -.- )."
+          "explanation": "73 ( --... ...-- ) DE ( -.. . ) W1AW ( .-- .---- .- .-- ) SK ( ... -.- ).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the final frontier awaiting you in Unit 9 and 10 of Morse Code?",
@@ -3113,7 +3185,8 @@
             "Talking on a walkie-talkie"
           ],
           "answerIndex": 0,
-          "explanation": "Units 9 and 10 focus on 20+ WPM high-speed head copy and advanced net traffic handling."
+          "explanation": "Units 9 and 10 focus on 20+ WPM high-speed head copy and advanced net traffic handling.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'A master telegrapher listens not with the ears, but with the _______.'",
@@ -3124,11 +3197,13 @@
             "direct linguistic reflexes of the mind"
           ],
           "answerIndex": 3,
-          "explanation": "Master CW copying is a direct linguistic auditory reflex."
+          "explanation": "Master CW copying is a direct linguistic auditory reflex.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (CQ CQ DE W1AW K -> W1AW DE VE3)"
   },
   "morse-u9-l1": {
     "id": "morse-u9-l1",
@@ -3155,12 +3230,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 36 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Stop the sender and ask them to restart the paragraph (36.1) [L36.1] (Focus 36.1)",
-            "Pause and think for 5 seconds about what letter it was (36.2) [L36.2] (Focus 36.2)",
-            "Turn off the radio (36.3) [L36.3] (Focus 36.3)",
-            "Instantly ignore the missed character and maintain your rhythmic listening focus on the incoming stream (#ScienceOfLearning) (36.4) [L36.4] (Focus 36.4)"
+            "Stop the sender and ask them to restart the paragraph (36.1) ",
+            "Pause and think for 5 seconds about what letter it was (36.2) ",
+            "Turn off the radio (36.3) ",
+            "Instantly ignore the missed character and maintain your rhythmic listening focus on the incoming stream (deliberate practice) (36.4) "
           ],
           "answerIndex": 3,
           "explanation": "Letting go of missed characters prevents cognitive backlog and allows context to fill the gap."
@@ -3183,10 +3258,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "SPEED IS GOOD (36.1) [L36.1] (Task 36.1)",
-            "SPACE IS VAST (36.2) [L36.2] (Task 36.2)",
-            "SOUND IS CLEAR (36.3) [L36.3] (Task 36.3)",
-            "SPEED IS VITAL (36.4) [L36.4] (Task 36.4)"
+            "SPEED IS GOOD  (Task 36.1)",
+            "SPACE IS VAST  (Task 36.2)",
+            "SOUND IS CLEAR  (Task 36.3)",
+            "SPEED IS VITAL  (Task 36.4)"
           ],
           "answerIndex": 3,
           "explanation": "SPEED ( ... .--. . . -.. ) IS ( .. ... ) VITAL ( ...- .. - .- .-.. )."
@@ -3215,7 +3290,8 @@
             "All are callsigns"
           ],
           "answerIndex": 1,
-          "explanation": "High-speed affix rhythm matching."
+          "explanation": "High-speed affix rhythm matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `.-- . .-.. -.-. --- -- .   - ---   -- .- ... - . .-.   -.-. .--`",
@@ -3226,7 +3302,8 @@
             "WELCOME TO RADIO CW"
           ],
           "answerIndex": 0,
-          "explanation": "WELCOME TO MASTER CW."
+          "explanation": "WELCOME TO MASTER CW.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the 'short-term acoustic buffer' in the brain?",
@@ -3237,7 +3314,8 @@
             "The echoic memory store in the auditory cortex that holds raw sound patterns for 2-4 seconds before converting them into semantic language"
           ],
           "answerIndex": 3,
-          "explanation": "Echoic memory temporarily holds audio streams while higher cognition decodes meaning."
+          "explanation": "Echoic memory temporarily holds audio streams while higher cognition decodes meaning.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'At 18 WPM, you do not translate the code; you _______.'",
@@ -3248,11 +3326,13 @@
             "count the pulses"
           ],
           "answerIndex": 2,
-          "explanation": "Direct speech perception through telegraphic tone."
+          "explanation": "Direct speech perception through telegraphic tone.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 9, Lesson 1: Foundational & Structural Mastery (-.-. --- -- .. -. --.   .... -)"
   },
   "morse-u9-l2": {
     "id": "morse-u9-l2",
@@ -3279,12 +3359,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 37 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Wait / Stand by (please wait 1-2 minutes) (37.1) [L37.1] (Focus 37.1)",
-            "End of contact (37.2) [L37.2] (Focus 37.2)",
-            "All stations call now (37.3) [L37.3] (Focus 37.3)",
-            "Emergency SOS (37.4) [L37.4] (Focus 37.4)"
+            "Wait / Stand by (please wait 1-2 minutes) (37.1) ",
+            "End of contact (37.2) ",
+            "All stations call now (37.3) ",
+            "Emergency SOS (37.4) "
           ],
           "answerIndex": 0,
           "explanation": "[AS] (A and S fused: .-...) = Wait / Stand by."
@@ -3307,10 +3387,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "W1AW DE VE3ABC K (37.1) [L37.1] (Task 37.1)",
-            "W1AW DE VE3ABC/P [KN] (W1AW from portable station VE3ABC, only W1AW reply) (37.2) [L37.2] (Task 37.2)",
-            "W1AW DE VE3ABC/M SK (37.3) [L37.3] (Task 37.3)",
-            "W1AW DE VE3ABC AS (37.4) [L37.4] (Task 37.4)"
+            "W1AW DE VE3ABC K  (Task 37.1)",
+            "W1AW DE VE3ABC/P [KN] (W1AW from portable station VE3ABC, only W1AW reply)  (Task 37.2)",
+            "W1AW DE VE3ABC/M SK  (Task 37.3)",
+            "W1AW DE VE3ABC AS  (Task 37.4)"
           ],
           "answerIndex": 1,
           "explanation": "W1AW DE VE3ABC/P [KN]."
@@ -3339,7 +3419,8 @@
             "All mean emergency"
           ],
           "answerIndex": 0,
-          "explanation": "Fused prosign definitions matching."
+          "explanation": "Fused prosign definitions matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the fraction slash prosign: `-..-.`",
@@ -3350,18 +3431,20 @@
             "/ (Fraction bar / Slash as in /P or /M)"
           ],
           "answerIndex": 3,
-          "explanation": "-..-. is the official slash / fraction bar [DN]."
+          "explanation": "-..-. is the official slash / fraction bar [DN].",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why are prosigns transmitted as fused characters rather than separate letters with normal spacing?",
           "options": [
             "Because telegraph keys jam easily",
             "It was an accidental habit",
-            "To give them distinct, unmistakable melodic rhythmic signatures that cannot be confused with regular vocabulary words (#ScienceOfLearning)",
+            "To give them distinct, unmistakable melodic rhythmic signatures that cannot be confused with regular vocabulary words (deliberate practice)",
             "To save electricity"
           ],
           "answerIndex": 2,
-          "explanation": "Fused rhythm signatures prevent confusion with normal lexical words."
+          "explanation": "Fused rhythm signatures prevent confusion with normal lexical words.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'When a station signs with [CL], it means the operator is _______.'",
@@ -3372,11 +3455,13 @@
             "calling for help"
           ],
           "answerIndex": 1,
-          "explanation": "[CL] = Closing station / Going off the air."
+          "explanation": "[CL] = Closing station / Going off the air.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 9, Lesson 2: Foundational & Structural Mastery (.-...   (AS - Wait/Stand by))"
   },
   "morse-u9-l3": {
     "id": "morse-u9-l3",
@@ -3403,12 +3488,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 38 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "RIG IS 10W (38.1) [L38.1] (Focus 38.1)",
-            "RADIO IS ON (38.2) [L38.2] (Focus 38.2)",
-            "RUN IS 100M (38.3) [L38.3] (Focus 38.3)",
-            "RIG IS 100W (Transceiver power is 100 Watts) (38.4) [L38.4] (Focus 38.4)"
+            "RIG IS 10W (38.1) ",
+            "RADIO IS ON (38.2) ",
+            "RUN IS 100M (38.3) ",
+            "RIG IS 100W (Transceiver power is 100 Watts) (38.4) "
           ],
           "answerIndex": 3,
           "explanation": "RIG ( .-. .. --. ) IS ( .. ... ) 100W ( .---- ----- ----- .-- )."
@@ -3431,10 +3516,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "VERY NICE SIGNAL OM (Very nice signal, old man/friend) (38.1) [L38.1] (Task 38.1)",
-            "VERY LOUD NOISE OM (38.2) [L38.2] (Task 38.2)",
-            "VOICE NOT CLEAR OM (38.3) [L38.3] (Task 38.3)",
-            "VALID NEW SIGNAL OM (38.4) [L38.4] (Task 38.4)"
+            "VERY NICE SIGNAL OM (Very nice signal, old man/friend)  (Task 38.1)",
+            "VERY LOUD NOISE OM  (Task 38.2)",
+            "VOICE NOT CLEAR OM  (Task 38.3)",
+            "VALID NEW SIGNAL OM  (Task 38.4)"
           ],
           "answerIndex": 0,
           "explanation": "VERY NICE SIGNAL OM."
@@ -3463,7 +3548,8 @@
             "HOPE TO SEE YOU AGAIN SOON"
           ],
           "answerIndex": 3,
-          "explanation": "HOPE TO SEE YOU AGAIN SOON."
+          "explanation": "HOPE TO SEE YOU AGAIN SOON.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 'YL' in amateur radio shorthand?",
@@ -3474,18 +3560,20 @@
             "Yellow Light"
           ],
           "answerIndex": 2,
-          "explanation": "YL = Young Lady (female telegrapher)."
+          "explanation": "YL = Young Lady (female telegrapher).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is head-copying at 20 WPM less mentally exhausting than writing down code at 10 WPM?",
           "options": [
             "Because listening requires no brain activity",
-            "Because head-copying bypasses manual motor transcription, utilizing natural language comprehension networks in Broca's and Wernicke's areas (#ScienceOfLearning)",
+            "Because head-copying bypasses manual motor transcription, utilizing natural language comprehension networks in Broca's and Wernicke's areas (deliberate practice)",
             "Because 20 WPM is shorter in duration",
             "Because higher tones take less energy"
           ],
           "answerIndex": 1,
-          "explanation": "Natural linguistic processing eliminates motor transcription fatigue."
+          "explanation": "Natural linguistic processing eliminates motor transcription fatigue.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'At 20 WPM, Morse code becomes not a skill you perform, but a language you _______.'",
@@ -3496,11 +3584,13 @@
             "read with a dictionary"
           ],
           "answerIndex": 0,
-          "explanation": "20 WPM is native fluency in telegraphy."
+          "explanation": "20 WPM is native fluency in telegraphy.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 9, Lesson 3: Foundational & Structural Mastery (.-- -..-   .... .-.   .. ...  )"
   },
   "morse-u9-l4": {
     "id": "morse-u9-l4",
@@ -3527,12 +3617,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 39 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Increase your speed to 30 WPM (39.1) [L39.1] (Focus 39.1)",
-            "Your signal is experiencing ionospheric fading (fading in and out of the noise) (39.2) [L39.2] (Focus 39.2)",
-            "Change to frequency B (39.3) [L39.3] (Focus 39.3)",
-            "Your transmitter is on fire (39.4) [L39.4] (Focus 39.4)"
+            "Increase your speed to 30 WPM (39.1) ",
+            "Your signal is experiencing ionospheric fading (fading in and out of the noise) (39.2) ",
+            "Change to frequency B (39.3) ",
+            "Your transmitter is on fire (39.4) "
           ],
           "answerIndex": 1,
           "explanation": "QSB = Fading signals."
@@ -3555,10 +3645,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "PSE QRO VERY QSB (Please increase power, severe signal fading here) (39.1) [L39.1] (Task 39.1)",
-            "PASS QRO VERY QSB (39.2) [L39.2] (Task 39.2)",
-            "PLEASE QRP VERY QRM (39.3) [L39.3] (Task 39.3)",
-            "PSE QSY VERY QTH (39.4) [L39.4] (Task 39.4)"
+            "PSE QRO VERY QSB (Please increase power, severe signal fading here)  (Task 39.1)",
+            "PASS QRO VERY QSB  (Task 39.2)",
+            "PLEASE QRP VERY QRM  (Task 39.3)",
+            "PSE QSY VERY QTH  (Task 39.4)"
           ],
           "answerIndex": 0,
           "explanation": "PSE (Please) QRO (Increase power) VERY QSB (Signal fading)."
@@ -3587,7 +3677,8 @@
             "All mean stop transmitting"
           ],
           "answerIndex": 2,
-          "explanation": "Tactical shorthand matching."
+          "explanation": "Tactical shorthand matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the complete greeting: `-. .. -.-. .   - ---   -- . . -   -.-- --- ..-   --- --`",
@@ -3598,18 +3689,20 @@
             "NEW TO MEET YOU OM"
           ],
           "answerIndex": 1,
-          "explanation": "NICE TO MEET YOU OM."
+          "explanation": "NICE TO MEET YOU OM.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is operational shorthand essential on high-frequency (HF) amateur bands?",
           "options": [
-            "Because ionospheric propagation windows can open and close in minutes; shorthand allows maximum critical data transfer before the band fades (#ScienceOfLearning)",
+            "Because ionospheric propagation windows can open and close in minutes; shorthand allows maximum critical data transfer before the band fades (deliberate practice)",
             "Because long words are illegal",
             "Because radio operators cannot spell",
             "Because it reduces battery usage"
           ],
           "answerIndex": 0,
-          "explanation": "Shorthand maximizes information throughput during brief atmospheric propagation openings."
+          "explanation": "Shorthand maximizes information throughput during brief atmospheric propagation openings.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'When signals fade, send PSE QRO; when finished, send _______.'",
@@ -3620,11 +3713,13 @@
             "73 ES CUAGN"
           ],
           "answerIndex": 3,
-          "explanation": "73 ES CUAGN (Best regards and see you again)."
+          "explanation": "73 ES CUAGN (Best regards and see you again).",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 9, Lesson 4: Foundational & Structural Mastery (--.- ... -.-   .. ...   --- -.)"
   },
   "morse-u9-l5": {
     "id": "morse-u9-l5",
@@ -3651,12 +3746,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 40 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "45 Knots (Seas 12 feet) (40.1) [L40.1] (Focus 40.1)",
-            "20 Knots (40.2) [L40.2] (Focus 40.2)",
-            "60 Knots (40.3) [L40.3] (Focus 40.3)",
-            "10 Knots (40.4) [L40.4] (Focus 40.4)"
+            "45 Knots (Seas 12 feet) (40.1) ",
+            "20 Knots (40.2) ",
+            "60 Knots (40.3) ",
+            "10 Knots (40.4) "
           ],
           "answerIndex": 0,
           "explanation": "Bulletin stated: WINDS 45 KNOTS ( ....- ..... )."
@@ -3679,10 +3774,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "ONLINE ONLY (40.1) [L40.1] (Task 40.1)",
-            "VIA BUREAU (`...- .. .-   -... ..- .-. . .- ..-`) (40.2) [L40.2] (Task 40.2)",
-            "NO QSL (40.3) [L40.3] (Task 40.3)",
-            "DIRECT (40.4) [L40.4] (Task 40.4)"
+            "ONLINE ONLY  (Task 40.1)",
+            "VIA BUREAU (`...- .. .-   -... ..- .-. . .- ..-`)  (Task 40.2)",
+            "NO QSL  (Task 40.3)",
+            "DIRECT  (Task 40.4)"
           ],
           "answerIndex": 1,
           "explanation": "QSL VIA BUREAU."
@@ -3711,7 +3806,8 @@
             "Using a telegraph key at 5 WPM only"
           ],
           "answerIndex": 1,
-          "explanation": "Unit 9 comprehensive 20 WPM high-speed copy and extended prosign mastery."
+          "explanation": "Unit 9 comprehensive 20 WPM high-speed copy and extended prosign mastery.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the final frontier awaiting you in Unit 10 of Morse Code?",
@@ -3722,7 +3818,8 @@
             "Giving up telegraphy"
           ],
           "answerIndex": 0,
-          "explanation": "Unit 10 focuses on emergency traffic net operations, QSK break-in, and noise filtering."
+          "explanation": "Unit 10 focuses on emergency traffic net operations, QSK break-in, and noise filtering.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `... - --- .-. --   .. ...   --- ...- . .-.`",
@@ -3733,7 +3830,8 @@
             "STORM IS OVER"
           ],
           "answerIndex": 3,
-          "explanation": "STORM IS OVER."
+          "explanation": "STORM IS OVER.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'A 20 WPM operator does not read the code; the code _______.'",
@@ -3744,11 +3842,13 @@
             "is translated letter by letter"
           ],
           "answerIndex": 2,
-          "explanation": "20 WPM code speaks directly into auditory consciousness."
+          "explanation": "20 WPM code speaks directly into auditory consciousness.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 9, Lesson 5: Foundational & Structural Mastery (20 WPM Complete Broadcast Stre)"
   },
   "morse-u10-l1": {
     "id": "morse-u10-l1",
@@ -3775,12 +3875,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 41 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Emergency evacuation immediately (41.1) [L41.1] (Focus 41.1)",
-            "Close the station (41.2) [L41.2] (Focus 41.2)",
-            "Change to frequency 2 (41.3) [L41.3] (Focus 41.3)",
-            "Check into the formal traffic net (41.4) [L41.4] (Focus 41.4)"
+            "Emergency evacuation immediately (41.1) ",
+            "Close the station (41.2) ",
+            "Change to frequency 2 (41.3) ",
+            "Check into the formal traffic net (41.4) "
           ],
           "answerIndex": 3,
           "explanation": "QNI = Check into the net."
@@ -3803,10 +3903,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 41:",
           "options": [
-            "SOS (41.1) [L41.1] (Task 41.1)",
-            "QRP (41.2) [L41.2] (Task 41.2)",
-            "73 (41.3) [L41.3] (Task 41.3)",
-            "QNX (`--.- -. -..-`) (41.4) [L41.4] (Task 41.4)"
+            "SOS  (Task 41.1)",
+            "QRP  (Task 41.2)",
+            "73  (Task 41.3)",
+            "QNX (`--.- -. -..-`)  (Task 41.4)"
           ],
           "answerIndex": 3,
           "explanation": "QNX is the formal signal to request dismissal from a directed net."
@@ -3835,7 +3935,8 @@
             "All mean weather"
           ],
           "answerIndex": 0,
-          "explanation": "Net procedural Q-signal matching."
+          "explanation": "Net procedural Q-signal matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `-.- ..--- ...- -..-   -.. .   .-- .---- .- .--   --.- -. -..-   --... ...--`",
@@ -3846,18 +3947,20 @@
             "K2VX DE W1AW QNX 73 (K2VX from W1AW, you are excused from the net, best regards)"
           ],
           "answerIndex": 3,
-          "explanation": "K2VX DE W1AW QNX 73."
+          "explanation": "K2VX DE W1AW QNX 73.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why are CW telegraphy nets prioritized over voice (SSB) nets during extreme emergency disaster conditions?",
           "options": [
             "Because CW is newer than voice",
             "Because voice radio is illegal during emergencies",
-            "Because CW signals have 1/20th the bandwidth of voice signals, cutting through severe static and operating on minimal battery power when voice is completely unreadable (#ScienceOfLearning)",
+            "Because CW signals have 1/20th the bandwidth of voice signals, cutting through severe static and operating on minimal battery power when voice is completely unreadable (deliberate practice)",
             "Because CW requires internet"
           ],
           "answerIndex": 2,
-          "explanation": "Narrow bandwidth and high power-density make CW superior in extreme emergency conditions."
+          "explanation": "Narrow bandwidth and high power-density make CW superior in extreme emergency conditions.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'A disciplined net operator listens twice as much as they _______.'",
@@ -3868,11 +3971,13 @@
             "write"
           ],
           "answerIndex": 1,
-          "explanation": "Discipline and radio silence ensure emergency channel readiness."
+          "explanation": "Discipline and radio silence ensure emergency channel readiness.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 10, Lesson 1: Foundational & Structural Mastery (--.- -. ..   (QNI - Check into)"
   },
   "morse-u10-l2": {
     "id": "morse-u10-l2",
@@ -3899,12 +4004,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 42 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs (42.1) [L42.1] (Focus 42.1)",
-            "The ability to transmit without electricity (42.2) [L42.2] (Focus 42.2)",
-            "The ability to transmit on 10 frequencies at once (42.3) [L42.3] (Focus 42.3)",
-            "The ability to make the signal louder (42.4) [L42.4] (Focus 42.4)"
+            "The ability to hear incoming signals and interruptions in the silence between your own individual transmitted dits and dahs (42.1) ",
+            "The ability to transmit without electricity (42.2) ",
+            "The ability to transmit on 10 frequencies at once (42.3) ",
+            "The ability to make the signal louder (42.4) "
           ],
           "answerIndex": 0,
           "explanation": "QSK enables real-time reception between transmitted elements."
@@ -3927,10 +4032,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 42:",
           "options": [
-            "Iambic paddles are made of soft foam (42.1) [L42.1] (Task 42.1)",
-            "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing (#ScienceOfLearning) (42.2) [L42.2] (Task 42.2)",
-            "Straight keys are made of glass (42.3) [L42.3] (Task 42.3)",
-            "It does not prevent strain (42.4) [L42.4] (Task 42.4)"
+            "Iambic paddles are made of soft foam  (Task 42.1)",
+            "Straight keys require continuous up-and-down pumping of the entire forearm; iambic paddles require only sub-millimeter finger squeezes with the electronic keyer managing timing (deliberate practice)  (Task 42.2)",
+            "Straight keys are made of glass  (Task 42.3)",
+            "It does not prevent strain  (Task 42.4)"
           ],
           "answerIndex": 1,
           "explanation": "Sub-millimeter lateral finger squeezes eliminate forearm pumping fatigue."
@@ -3959,7 +4064,8 @@
             "Straight Key: Pure manual pumping | Bug: Mechanical vibrator dits | Iambic Paddle: Electronic squeeze dual-lever | QSK: Full break-in duplex"
           ],
           "answerIndex": 3,
-          "explanation": "Keying technology classification matching."
+          "explanation": "Keying technology classification matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the standard Dit-to-Dah ratio calibrated into all electronic iambic keyers?",
@@ -3970,7 +4076,8 @@
             "1 : 1"
           ],
           "answerIndex": 2,
-          "explanation": "Standard Paris timing: 1 Dit = 1 unit; 1 Dah = 3 units; element space = 1 unit."
+          "explanation": "Standard Paris timing: 1 Dit = 1 unit; 1 Dah = 3 units; element space = 1 unit.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is QSK break-in operation considered the supreme safety protocol for emergency traffic nets?",
@@ -3981,7 +4088,8 @@
             "Because it makes the radio cooler"
           ],
           "answerIndex": 1,
-          "explanation": "Instantaneous mid-transmission break-in for urgent priority traffic."
+          "explanation": "Instantaneous mid-transmission break-in for urgent priority traffic.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'Master keying is not force; it is _______.'",
@@ -3992,11 +4100,13 @@
             "hard physical labor"
           ],
           "answerIndex": 0,
-          "explanation": "Relaxed micro-gestures and effortless rhythmic precision."
+          "explanation": "Relaxed micro-gestures and effortless rhythmic precision.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 10, Lesson 2: Foundational & Structural Mastery (Iambic Squeeze for 'C' (-.-.):)"
   },
   "morse-u10-l3": {
     "id": "morse-u10-l3",
@@ -4023,12 +4133,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 43 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "It makes the receiver louder (43.1) [L43.1] (Focus 43.1)",
-            "It turns off the other stations (43.2) [L43.2] (Focus 43.2)",
-            "The auditory cortex selectively amplifies the specific frequency and rhythm of the target station while suppressing all adjacent competing audio signals (#ScienceOfLearning) (43.3) [L43.3] (Focus 43.3)",
-            "It converts code into text automatically (43.4) [L43.4] (Focus 43.4)"
+            "It makes the receiver louder (43.1) ",
+            "It turns off the other stations (43.2) ",
+            "The auditory cortex selectively amplifies the specific frequency and rhythm of the target station while suppressing all adjacent competing audio signals (deliberate practice) (43.3) ",
+            "It converts code into text automatically (43.4) "
           ],
           "answerIndex": 2,
           "explanation": "Selective auditory attention acts as a powerful organic biological filter."
@@ -4051,10 +4161,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 43:",
           "options": [
-            "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap (43.1) [L43.1] (Task 43.1)",
-            "Asking the sender to repeat the entire message from the beginning (43.2) [L43.2] (Task 43.2)",
-            "Changing the antenna (43.3) [L43.3] (Task 43.3)",
-            "Giving up the contact (43.4) [L43.4] (Task 43.4)"
+            "Contextual top-down linguistic reconstruction: The brain uses syntax and word predictability to seamlessly fill in the missing acoustic gap  (Task 43.1)",
+            "Asking the sender to repeat the entire message from the beginning  (Task 43.2)",
+            "Changing the antenna  (Task 43.3)",
+            "Giving up the contact  (Task 43.4)"
           ],
           "answerIndex": 0,
           "explanation": "Top-down linguistic context repairs fragmented signals."
@@ -4083,7 +4193,8 @@
             "All are lightning"
           ],
           "answerIndex": 2,
-          "explanation": "Radio noise phenomena matching."
+          "explanation": "Radio noise phenomena matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why can Morse code be decoded at Signal-to-Noise Ratios (SNR) below 0 dB (where noise is louder than the signal)?",
@@ -4094,7 +4205,8 @@
             "Because noise has no effect on radio waves"
           ],
           "answerIndex": 1,
-          "explanation": "Rhythmic coherence and narrow carrier energy enable sub-noise floor detection."
+          "explanation": "Rhythmic coherence and narrow carrier energy enable sub-noise floor detection.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 'audio sidetone' on a CW transmitter?",
@@ -4105,7 +4217,8 @@
             "A buzzing background error"
           ],
           "answerIndex": 0,
-          "explanation": "Sidetone allows the operator to monitor their own keying in real time."
+          "explanation": "Sidetone allows the operator to monitor their own keying in real time.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'The true master hears not the noise of the world, but the _______.'",
@@ -4116,11 +4229,13 @@
             "pure signal cutting through the storm"
           ],
           "answerIndex": 3,
-          "explanation": "Isolating the pure signal cutting through atmospheric noise."
+          "explanation": "Isolating the pure signal cutting through atmospheric noise.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 10, Lesson 3: Foundational & Structural Mastery (Weak Signal Copy: A 1-watt QRP)"
   },
   "morse-u10-l4": {
     "id": "morse-u10-l4",
@@ -4147,12 +4262,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 44 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Send SOS 3 times (44.1) [L44.1] (Focus 44.1)",
-            "Send the 8-dit error prosign (`........`), repeat the last correctly sent word, and continue transmitting (44.2) [L44.2] (Focus 44.2)",
-            "Repeat the entire message from word 1 (44.3) [L44.3] (Focus 44.3)",
-            "Turn off the radio in shame (44.4) [L44.4] (Focus 44.4)"
+            "Send SOS 3 times (44.1) ",
+            "Send the 8-dit error prosign (`........`), repeat the last correctly sent word, and continue transmitting (44.2) ",
+            "Repeat the entire message from word 1 (44.3) ",
+            "Turn off the radio in shame (44.4) "
           ],
           "answerIndex": 1,
           "explanation": "8 dits followed by repeating the last correct word is the standard correction protocol."
@@ -4175,10 +4290,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 44:",
           "options": [
-            "Please repeat the Word Before 'BOSTON' (44.1) [L44.1] (Task 44.1)",
-            "Weather in Boston (44.2) [L44.2] (Task 44.2)",
-            "Please repeat the Word After 'BOSTON' (44.3) [L44.3] (Task 44.3)",
-            "Where is Boston? (44.4) [L44.4] (Task 44.4)"
+            "Please repeat the Word Before 'BOSTON'  (Task 44.1)",
+            "Weather in Boston  (Task 44.2)",
+            "Please repeat the Word After 'BOSTON'  (Task 44.3)",
+            "Where is Boston?  (Task 44.4)"
           ],
           "answerIndex": 0,
           "explanation": "? WB = Repeat Word Before."
@@ -4186,7 +4301,7 @@
         {
           "prompt": "What is the advantage of using surgical fill requests (? WA / ? WB) instead of asking to repeat the whole message (? AGN)?",
           "options": [
-            "It saves 90% of transmission time and minimizes frequency congestion by targeting only the single dropped word (#ScienceOfLearning)",
+            "It saves 90% of transmission time and minimizes frequency congestion by targeting only the single dropped word (deliberate practice)",
             "It makes the transmitter cooler",
             "It gives double points in contests",
             "It is required by law"
@@ -4207,7 +4322,8 @@
             "All mean send faster"
           ],
           "answerIndex": 1,
-          "explanation": "Fill request shorthand matching."
+          "explanation": "Fill request shorthand matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `... .-. ..   .- --. -.   .--. ... .`",
@@ -4218,7 +4334,8 @@
             "STOP AGAIN PLEASE"
           ],
           "answerIndex": 0,
-          "explanation": "SRI AGN PSE = Sorry, please repeat again."
+          "explanation": "SRI AGN PSE = Sorry, please repeat again.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is psychological composure essential when keying errors occur during live high-speed operations?",
@@ -4229,7 +4346,8 @@
             "Because flustering leads to cascading errors and rhythm collapse, whereas calm 8-dit correction restores smooth cadence immediately"
           ],
           "answerIndex": 3,
-          "explanation": "Composure prevents cascading error spirals and maintains rhythmic flow."
+          "explanation": "Composure prevents cascading error spirals and maintains rhythmic flow.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'To err is human; to correct with 8 dits and recover instantly is _______.'",
@@ -4240,11 +4358,13 @@
             "unnecessary"
           ],
           "answerIndex": 2,
-          "explanation": "Instantaneous error recovery is the hallmark of grandmaster telegraphy."
+          "explanation": "Instantaneous error recovery is the hallmark of grandmaster telegraphy.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 10, Lesson 4: Foundational & Structural Mastery (........   - .... .   ... ....)"
   },
   "morse-u10-l5": {
     "id": "morse-u10-l5",
@@ -4271,12 +4391,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 45 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "MEDICAL SUPPLIES ARRIVED SAFELY (45.1) [L45.1] (Focus 45.1)",
-            "STORM HAS PASSED (45.2) [L45.2] (Focus 45.2)",
-            "REQUESTING MORE FUEL (45.3) [L45.3] (Focus 45.3)",
-            "AIRPORT IS CLOSED (45.4) [L45.4] (Focus 45.4)"
+            "MEDICAL SUPPLIES ARRIVED SAFELY (45.1) ",
+            "STORM HAS PASSED (45.2) ",
+            "REQUESTING MORE FUEL (45.3) ",
+            "AIRPORT IS CLOSED (45.4) "
           ],
           "answerIndex": 0,
           "explanation": "Message payload: MEDICAL SUPPLIES ARRIVED SAFELY."
@@ -4299,10 +4419,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 45:",
           "options": [
-            "1. Counting dits with a pencil only (45.1) [L45.1] (Task 45.1)",
-            "1. Koch Method Auditory Foundation; 2. Numbers & Core Prosigns; 3. Farnsworth Spacing Compression; 4. Whole-Word Gestalts & Q-Codes; 5. 20 WPM Head Copy & Emergency Net Operations (45.2) [L45.2] (Task 45.2)",
-            "1. Flashcards only (45.3) [L45.3] (Task 45.3)",
-            "1. Memorizing visual charts on paper only (45.4) [L45.4] (Task 45.4)"
+            "1. Counting dits with a pencil only  (Task 45.1)",
+            "1. Koch Method Auditory Foundation; 2. Numbers & Core Prosigns; 3. Farnsworth Spacing Compression; 4. Whole-Word Gestalts & Q-Codes; 5. 20 WPM Head Copy & Emergency Net Operations  (Task 45.2)",
+            "1. Flashcards only  (Task 45.3)",
+            "1. Memorizing visual charts on paper only  (Task 45.4)"
           ],
           "answerIndex": 1,
           "explanation": "The 5 evolutionary pillars of master Morse code pedagogy."
@@ -4311,7 +4431,7 @@
           "prompt": "What is the primary cognitive superpower gained from completing the Morse Code curriculum?",
           "options": [
             "Typing without looking",
-            "Hyper-focused auditory sensory processing, deep working memory buffer expansion, real-time linguistic stream decoding, and acoustic noise filtering under intense cognitive load (#ScienceOfLearning)",
+            "Hyper-focused auditory sensory processing, deep working memory buffer expansion, real-time linguistic stream decoding, and acoustic noise filtering under intense cognitive load (deliberate practice)",
             "Learning flag signals",
             "Hearing dog whistles"
           ],
@@ -4331,7 +4451,8 @@
             "Semaphore flags only"
           ],
           "answerIndex": 0,
-          "explanation": "Comprehensive 50-lesson Morse Code Master Grand Operator certification."
+          "explanation": "Comprehensive 50-lesson Morse Code Master Grand Operator certification.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the eternal telegraphic signature: `--... ...--   . ...   ---.. ---..`",
@@ -4342,7 +4463,8 @@
             "73 ES 88 (Best regards and love & kisses)"
           ],
           "answerIndex": 3,
-          "explanation": "73 (Best regards) ES (and) 88 (love & kisses)."
+          "explanation": "73 (Best regards) ES (and) 88 (love & kisses).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why has Morse Code survived as an irreplaceable communication system despite the invention of satellite, cellular, and fiber-optic networks?",
@@ -4353,7 +4475,8 @@
             "Because modern radios cannot transmit voice"
           ],
           "answerIndex": 2,
-          "explanation": "Zero infrastructure dependence, extreme signal efficiency, and direct human-to-human connection."
+          "explanation": "Zero infrastructure dependence, extreme signal efficiency, and direct human-to-human connection.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete the Telegrapher's eternal motto: 'Across the wire, through the storm, into the ether: _______.'",
@@ -4364,11 +4487,13 @@
             "nobody is listening"
           ],
           "answerIndex": 1,
-          "explanation": "'Across the wire, through the storm, into the ether: the signal always gets through.'"
+          "explanation": "'Across the wire, through the storm, into the ether: the signal always gets through.'",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 10, Lesson 5: Foundational & Structural Mastery (Full Capstone Mastery: Synthes)"
   },
   "morse-u6-l1": {
     "id": "morse-u6-l1",
@@ -4405,12 +4530,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 46 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            ".-.-.- (46.1) [L46.1] (Focus 46.1)",
-            "--..-- (46.2) [L46.2] (Focus 46.2)",
-            "-..-. (46.3) [L46.3] (Focus 46.3)",
-            "..-..- (dit-dit-dah-dah-dit-dit) (46.4) [L46.4] (Focus 46.4)"
+            ".-.-.- (46.1) ",
+            "--..-- (46.2) ",
+            "-..-. (46.3) ",
+            "..-..- (dit-dit-dah-dah-dit-dit) (46.4) "
           ],
           "answerIndex": 3,
           "explanation": "..--.. is the universal Question Mark."
@@ -4433,10 +4558,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 46:",
           "options": [
-            ". (46.1) [L46.1] (Task 46.1)",
-            ", (46.2) [L46.2] (Task 46.2)",
-            "/ (46.3) [L46.3] (Task 46.3)",
-            "? (46.4) [L46.4] (Task 46.4)"
+            ".  (Task 46.1)",
+            ",  (Task 46.2)",
+            "/  (Task 46.3)",
+            "?  (Task 46.4)"
           ],
           "answerIndex": 3,
           "explanation": "..--.. = Question Mark."
@@ -4465,7 +4590,8 @@
             "Period: .-.-.- | Comma: --..-- | Question: ..--.. | Slash: -..-."
           ],
           "answerIndex": 3,
-          "explanation": "The 4 core punctuation codes in International Morse."
+          "explanation": "The 4 core punctuation codes in International Morse.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the rhythmic structure of the Comma (--..--)?",
@@ -4476,7 +4602,8 @@
             "Alternating dits and dahs"
           ],
           "answerIndex": 2,
-          "explanation": "--..-- = two dahs, two dits, two dahs."
+          "explanation": "--..-- = two dahs, two dits, two dahs.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "In on-air amateur radio CW, what does sending a standalone '?' (..--..) indicate?",
@@ -4487,7 +4614,8 @@
             "'I am turning off the power'"
           ],
           "answerIndex": 1,
-          "explanation": "A standalone question mark requests a retransmission."
+          "explanation": "A standalone question mark requests a retransmission.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `--..--`",
@@ -4498,11 +4626,13 @@
             "Period (.)"
           ],
           "answerIndex": 0,
-          "explanation": "--..-- is Comma."
+          "explanation": "--..-- is Comma.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Decode and encode core punctuation marks"
   },
   "morse-u6-l2": {
     "id": "morse-u6-l2",
@@ -4534,12 +4664,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 47 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "dah-dit-dit-dit-dah (B and T sent without space) (47.1) [L47.1] (Focus 47.1)",
-            "dah-dit-dah-dit (47.2) [L47.2] (Focus 47.2)",
-            "dah-dah-dah (47.3) [L47.3] (Focus 47.3)",
-            "dit-dit-dit (47.4) [L47.4] (Focus 47.4)"
+            "dah-dit-dit-dit-dah (B and T sent without space) (47.1) ",
+            "dah-dit-dah-dit (47.2) ",
+            "dah-dah-dah (47.3) ",
+            "dit-dit-dit (47.4) "
           ],
           "answerIndex": 0,
           "explanation": "-...- is the BT break prosign."
@@ -4562,10 +4692,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 47:",
           "options": [
-            "AR (47.1) [L47.1] (Task 47.1)",
-            "BT (Break / Equal Sign) (47.2) [L47.2] (Task 47.2)",
-            "SK (47.3) [L47.3] (Task 47.3)",
-            "KN (47.4) [L47.4] (Task 47.4)"
+            "AR  (Task 47.1)",
+            "BT (Break / Equal Sign)  (Task 47.2)",
+            "SK  (Task 47.3)",
+            "KN  (Task 47.4)"
           ],
           "answerIndex": 1,
           "explanation": "-...- = BT."
@@ -4594,7 +4724,8 @@
             "A letter typed in capital font"
           ],
           "answerIndex": 2,
-          "explanation": "Prosigns are run-together characters (e.g. B + T = BT)."
+          "explanation": "Prosigns are run-together characters (e.g. B + T = BT).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "In the transmission 'HW CPY -...- RIG IS 5W -...- ANT IS DIPOLE', what is the function of -...-?",
@@ -4605,7 +4736,8 @@
             "It is a spelling error."
           ],
           "answerIndex": 1,
-          "explanation": "BT separates clauses."
+          "explanation": "BT separates clauses.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the Morse code for Hyphen / Dash (-)?",
@@ -4616,7 +4748,8 @@
             ".-.-.-"
           ],
           "answerIndex": 0,
-          "explanation": "-....- is Hyphen."
+          "explanation": "-....- is Hyphen.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why do operators prefer $\\overline{BT}$ over a standard Period (.-.-.-) during rapid chat?",
@@ -4627,11 +4760,13 @@
             "BT (-...-) is 5 elements and rolls off the key faster and more distinctly than a 6-element period."
           ],
           "answerIndex": 3,
-          "explanation": "BT is shorter, punchier, and sounds natural as a conversational cadence."
+          "explanation": "BT is shorter, punchier, and sounds natural as a conversational cadence.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (-...- = BT (Break / Equal Sign)"
   },
   "morse-u6-l3": {
     "id": "morse-u6-l3",
@@ -4663,12 +4798,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 48 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'Kill the power' (48.1) [L48.1] (Focus 48.1)",
-            "'Keep waiting' (48.2) [L48.2] (Focus 48.2)",
-            "'Over / Go ahead — any station is invited to transmit' (48.3) [L48.3] (Focus 48.3)",
-            "'Keyboard error' (48.4) [L48.4] (Focus 48.4)"
+            "'Kill the power' (48.1) ",
+            "'Keep waiting' (48.2) ",
+            "'Over / Go ahead — any station is invited to transmit' (48.3) ",
+            "'Keyboard error' (48.4) "
           ],
           "answerIndex": 2,
           "explanation": "K is the universal 'Go ahead / Over' invitation."
@@ -4691,10 +4826,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 48:",
           "options": [
-            "AR (End of Message / Transmission) (48.1) [L48.1] (Task 48.1)",
-            "BT (48.2) [L48.2] (Task 48.2)",
-            "SOS (48.3) [L48.3] (Task 48.3)",
-            "SK (48.4) [L48.4] (Task 48.4)"
+            "AR (End of Message / Transmission)  (Task 48.1)",
+            "BT  (Task 48.2)",
+            "SOS  (Task 48.3)",
+            "SK  (Task 48.4)"
           ],
           "answerIndex": 0,
           "explanation": ".-.-. is the AR prosign (A + R run together)."
@@ -4723,7 +4858,8 @@
             "K: End of message | KN: Wait | AR: Go ahead"
           ],
           "answerIndex": 1,
-          "explanation": "Core turn-taking protocol in Morse traffic."
+          "explanation": "Core turn-taking protocol in Morse traffic.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the rhythmic composition of the AR prosign (.-.-.)?",
@@ -4734,7 +4870,8 @@
             "dit-dit-dit"
           ],
           "answerIndex": 0,
-          "explanation": "A (.-) + R (.-.) merged without gap = .-.-."
+          "explanation": "A (.-) + R (.-.) merged without gap = .-.-.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is 'KN' critical during a DX (long-distance rare station) contact?",
@@ -4745,7 +4882,8 @@
             "To prevent hundreds of listening stations in the pileup from transmitting over the weak DX station's response"
           ],
           "answerIndex": 3,
-          "explanation": "KN maintains order during high-traffic radio pileups."
+          "explanation": "KN maintains order during high-traffic radio pileups.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode: `-.--.`",
@@ -4756,11 +4894,13 @@
             "BT"
           ],
           "answerIndex": 2,
-          "explanation": "-.--. is KN."
+          "explanation": "-.--. is KN.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Distinguish and execute turn-taking and transmission-ending procedural signals"
   },
   "morse-u6-l4": {
     "id": "morse-u6-l4",
@@ -4792,12 +4932,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 49 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "'Signal is weak' (49.1) [L49.1] (Focus 49.1)",
-            "'End of contact / final sign-off (Silent Key) — contact is finished' (49.2) [L49.2] (Focus 49.2)",
-            "'Send emergency help' (49.3) [L49.3] (Focus 49.3)",
-            "'Start sending faster' (49.4) [L49.4] (Focus 49.4)"
+            "'Signal is weak' (49.1) ",
+            "'End of contact / final sign-off (Silent Key) — contact is finished' (49.2) ",
+            "'Send emergency help' (49.3) ",
+            "'Start sending faster' (49.4) "
           ],
           "answerIndex": 1,
           "explanation": "SK concludes the entire radio contact."
@@ -4820,10 +4960,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 49:",
           "options": [
-            "AS (Please wait / Stand by) (49.1) [L49.1] (Task 49.1)",
-            "BT (49.2) [L49.2] (Task 49.2)",
-            "SK (49.3) [L49.3] (Task 49.3)",
-            "AR (49.4) [L49.4] (Task 49.4)"
+            "AS (Please wait / Stand by)  (Task 49.1)",
+            "BT  (Task 49.2)",
+            "SK  (Task 49.3)",
+            "AR  (Task 49.4)"
           ],
           "answerIndex": 0,
           "explanation": ".-... is the AS wait prosign."
@@ -4852,7 +4992,8 @@
             "SK: Wait | AS: Error | 8 Dits: Final sign-off"
           ],
           "answerIndex": 0,
-          "explanation": "Core operational and error management signals."
+          "explanation": "Core operational and error management signals.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the rhythmic structure of the SK prosign (...-.-)?",
@@ -4863,7 +5004,8 @@
             "dit-dit-dit-dah-dit-dah (S '...' merged directly with K '-.-')"
           ],
           "answerIndex": 3,
-          "explanation": "S (...) + K (-.-) = ...-.-."
+          "explanation": "S (...) + K (-.-) = ...-.-.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "If an operator sends 'AS 5', what does that request?",
@@ -4874,7 +5016,8 @@
             "Change to 5 MHz"
           ],
           "answerIndex": 2,
-          "explanation": "AS + number requests a specific standby duration."
+          "explanation": "AS + number requests a specific standby duration.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is the 8-dit error signal (........) sent instead of deleting characters?",
@@ -4885,11 +5028,13 @@
             "It is required by satellite regulations."
           ],
           "answerIndex": 1,
-          "explanation": "Real-time acoustic stream requires an auditory cancellation signal."
+          "explanation": "Real-time acoustic stream requires an auditory cancellation signal.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Decode and execute operational closing and standby signs"
   },
   "morse-u6-l5": {
     "id": "morse-u6-l5",
@@ -4921,12 +5066,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 50 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9 (pure crystal tone) (50.1) [L50.1] (Focus 50.1)",
-            "Radio channel 599 (50.2) [L50.2] (Focus 50.2)",
-            "599 miles away (50.3) [L50.3] (Focus 50.3)",
-            "Emergency code 599 (50.4) [L50.4] (Focus 50.4)"
+            "Readability 5 (perfect), Strength 9 (extremely strong), Tone 9 (pure crystal tone) (50.1) ",
+            "Radio channel 599 (50.2) ",
+            "599 miles away (50.3) ",
+            "Emergency code 599 (50.4) "
           ],
           "answerIndex": 0,
           "explanation": "599 is the standard 'perfect copy' CW signal report."
@@ -4949,10 +5094,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 50:",
           "options": [
-            "The frequency is closed for 73 days (50.1) [L50.1] (Task 50.1)",
-            "Best regards and thanks for the contact, final sign-off (end of QSO) (50.2) [L50.2] (Task 50.2)",
-            "Repeat your name (50.3) [L50.3] (Task 50.3)",
-            "Wait 73 minutes for next contact (50.4) [L50.4] (Task 50.4)"
+            "The frequency is closed for 73 days  (Task 50.1)",
+            "Best regards and thanks for the contact, final sign-off (end of QSO)  (Task 50.2)",
+            "Repeat your name  (Task 50.3)",
+            "Wait 73 minutes for next contact  (Task 50.4)"
           ],
           "answerIndex": 1,
           "explanation": "73 (best regards) + TNX FER QSO (thanks for contact) + SK (end of contact)."
@@ -4981,7 +5126,8 @@
             "CQ Call (with K) -> Station Reply (with AR K) -> Signal Report & QTH (with BT and KN) -> Sign-off (with 73 and SK)"
           ],
           "answerIndex": 3,
-          "explanation": "Flawless standard operating procedure for Morse traffic."
+          "explanation": "Flawless standard operating procedure for Morse traffic.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Decode the complete punctuation set: `.-.-.-` and `--..--` and `..--..` and `-..-.`:",
@@ -4992,7 +5138,8 @@
             "A, B, C, D"
           ],
           "answerIndex": 2,
-          "explanation": "Period, Comma, Question Mark, Slash."
+          "explanation": "Period, Comma, Question Mark, Slash.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What core competencies were mastered across Unit 6 in Morse Code?",
@@ -5003,7 +5150,8 @@
             "Phonetic NATO alphabet only"
           ],
           "answerIndex": 1,
-          "explanation": "Unit 6 comprehensive punctuation, prosigns, and operational QSO mastery."
+          "explanation": "Unit 6 comprehensive punctuation, prosigns, and operational QSO mastery.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the international abbreviation '73' used for worldwide in Morse code?",
@@ -5014,18 +5162,16 @@
             "Bad signal"
           ],
           "answerIndex": 0,
-          "explanation": "73 is the universal telegrapher farewell: 'Best regards'."
+          "explanation": "73 is the universal telegrapher farewell: 'Best regards'.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (CQ CQ CQ DE W1AW K — Calling a)"
   }
 };
-  var CURRICULUM = {
-    subject: 'morse',
-    units: UNITS,
-    lessons: LESSONS
-  };
+  var CURRICULUM = { id: 'morse', name: "morse", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['morse'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

@@ -1,4 +1,4 @@
-// mentalmath curriculum
+// FEARN Curriculum Data — mentalmath
 (function (global) {
   'use strict';
   var UNITS = [
@@ -181,7 +181,8 @@
           "difficulty": 620
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 1: Foundational & Structural Mastery"
   },
   "mentalmath-u1-l2": {
     "id": "mentalmath-u1-l2",
@@ -248,7 +249,8 @@
           "difficulty": 620
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 2: Foundational & Structural Mastery"
   },
   "mentalmath-u1-l3": {
     "id": "mentalmath-u1-l3",
@@ -315,7 +317,8 @@
           "difficulty": 640
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 3: Foundational & Structural Mastery"
   },
   "mentalmath-u1-l4": {
     "id": "mentalmath-u1-l4",
@@ -382,7 +385,8 @@
           "difficulty": 660
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 4: Foundational & Structural Mastery"
   },
   "mentalmath-u1-l5": {
     "id": "mentalmath-u1-l5",
@@ -450,7 +454,8 @@
           "difficulty": 650
         }
       ]
-    }
+    },
+    "title": "Unit 1, Lesson 5: Foundational & Structural Mastery"
   },
   "mentalmath-u2-l1": {
     "id": "mentalmath-u2-l1",
@@ -529,7 +534,8 @@
           "difficulty": 600
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 1: Foundational & Structural Mastery"
   },
   "mentalmath-u2-l2": {
     "id": "mentalmath-u2-l2",
@@ -603,7 +609,8 @@
           "difficulty": 610
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 2: Foundational & Structural Mastery"
   },
   "mentalmath-u2-l3": {
     "id": "mentalmath-u2-l3",
@@ -677,7 +684,8 @@
           "difficulty": 640
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 3: Foundational & Structural Mastery"
   },
   "mentalmath-u2-l4": {
     "id": "mentalmath-u2-l4",
@@ -751,7 +759,8 @@
           "difficulty": 660
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 4: Foundational & Structural Mastery"
   },
   "mentalmath-u2-l5": {
     "id": "mentalmath-u2-l5",
@@ -824,7 +833,8 @@
           "difficulty": 650
         }
       ]
-    }
+    },
+    "title": "Unit 2, Lesson 5: Foundational & Structural Mastery"
   },
   "mentalmath-u3-l1": {
     "id": "mentalmath-u3-l1",
@@ -891,7 +901,8 @@
           "difficulty": 710
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 1: Foundational & Structural Mastery"
   },
   "mentalmath-u3-l2": {
     "id": "mentalmath-u3-l2",
@@ -958,7 +969,8 @@
           "difficulty": 710
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 2: Foundational & Structural Mastery"
   },
   "mentalmath-u3-l3": {
     "id": "mentalmath-u3-l3",
@@ -1025,7 +1037,8 @@
           "difficulty": 700
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 3: Foundational & Structural Mastery"
   },
   "mentalmath-u3-l4": {
     "id": "mentalmath-u3-l4",
@@ -1104,7 +1117,8 @@
           "difficulty": 730
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 4: Foundational & Structural Mastery"
   },
   "mentalmath-u3-l5": {
     "id": "mentalmath-u3-l5",
@@ -1177,7 +1191,8 @@
           "difficulty": 730
         }
       ]
-    }
+    },
+    "title": "Unit 3, Lesson 5: Foundational & Structural Mastery"
   },
   "mentalmath-u4-l1": {
     "id": "mentalmath-u4-l1",
@@ -1209,12 +1224,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 16 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,050 (16.1) [L16.1] (Focus 16.1)",
-            "1,825 (16.2) [L16.2] (Focus 16.2)",
-            "2,525 (16.3) [L16.3] (Focus 16.3)",
-            "2,025 (4 x 5 = 20, append 25) (16.4) [L16.4] (Focus 16.4)"
+            "2,050 (16.1) ",
+            "1,825 (16.2) ",
+            "2,525 (16.3) ",
+            "2,025 (4 x 5 = 20, append 25) (16.4) "
           ],
           "answerIndex": 3,
           "explanation": "4 x (4 + 1) = 4 x 5 = 20 -> append 25 = 2,025."
@@ -1248,10 +1263,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 16:",
           "options": [
-            "7,425 (16.1) [L16.1] (Task 16.1)",
-            "6,425 (16.2) [L16.2] (Task 16.2)",
-            "8,125 (16.3) [L16.3] (Task 16.3)",
-            "7,225 (8 x 9 = 72, append 25) (16.4) [L16.4] (Task 16.4)"
+            "7,425  (Task 16.1)",
+            "6,425  (Task 16.2)",
+            "8,125  (Task 16.3)",
+            "7,225 (8 x 9 = 72, append 25)  (Task 16.4)"
           ],
           "answerIndex": 3,
           "explanation": "8 x 9 = 72 -> append 25 = 7,225."
@@ -1280,7 +1295,8 @@
             "3,625"
           ],
           "answerIndex": 1,
-          "explanation": "6 x 7 = 42 -> 4,225."
+          "explanation": "6 x 7 = 42 -> 4,225.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 105²?",
@@ -1291,7 +1307,8 @@
             "10,525"
           ],
           "answerIndex": 0,
-          "explanation": "10 x 11 = 110 -> 11,025."
+          "explanation": "10 x 11 = 110 -> 11,025.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Every square of a whole number ending in 5 MUST end in which two digits?",
@@ -1302,7 +1319,8 @@
             "25"
           ],
           "answerIndex": 3,
-          "explanation": "5² = 25, which occupies the tens and ones place in the expanded formula."
+          "explanation": "5² = 25, which occupies the tens and ones place in the expanded formula.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 35²?",
@@ -1313,7 +1331,8 @@
             "1,525"
           ],
           "answerIndex": 2,
-          "explanation": "3 x 4 = 12 -> 1,225."
+          "explanation": "3 x 4 = 12 -> 1,225.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 55²?",
@@ -1324,11 +1343,13 @@
             "2,525"
           ],
           "answerIndex": 1,
-          "explanation": "5 x 6 = 30 -> 3,025."
+          "explanation": "5 x 6 = 30 -> 3,025.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 4, Lesson 1: Foundational & Structural Mastery"
   },
   "mentalmath-u4-l2": {
     "id": "mentalmath-u4-l2",
@@ -1360,12 +1381,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 17 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "(50 x 46) + 2² = 2,300 + 4 = 2,304 (17.1) [L17.1] (Focus 17.1)",
-            "(40 x 56) + 8² = 2,240 + 64 = 2,304 (17.2) [L17.2] (Focus 17.2)",
-            "40² + 8² = 1,664 (17.3) [L17.3] (Focus 17.3)",
-            "(48 x 40) + 8 = 1,928 (17.4) [L17.4] (Focus 17.4)"
+            "(50 x 46) + 2² = 2,300 + 4 = 2,304 (17.1) ",
+            "(40 x 56) + 8² = 2,240 + 64 = 2,304 (17.2) ",
+            "40² + 8² = 1,664 (17.3) ",
+            "(48 x 40) + 8 = 1,928 (17.4) "
           ],
           "answerIndex": 0,
           "explanation": "Anchoring to 50 with d=2 gives (50 x 46) + 4 = 2,304."
@@ -1399,10 +1420,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 17:",
           "options": [
-            "1,541 (17.1) [L17.1] (Task 17.1)",
-            "1,481 (17.2) [L17.2] (Task 17.2)",
-            "1,601 (17.3) [L17.3] (Task 17.3)",
-            "1,521 ((40 x 38) + 1 = 1,520 + 1) (17.4) [L17.4] (Task 17.4)"
+            "1,541  (Task 17.1)",
+            "1,481  (Task 17.2)",
+            "1,601  (Task 17.3)",
+            "1,521 ((40 x 38) + 1 = 1,520 + 1)  (Task 17.4)"
           ],
           "answerIndex": 3,
           "explanation": "40 x 38 = 1,520; + 1 = 1,521."
@@ -1431,7 +1452,8 @@
             "931"
           ],
           "answerIndex": 0,
-          "explanation": "(30 x 32) + 1 = 960 + 1 = 961."
+          "explanation": "(30 x 32) + 1 = 960 + 1 = 961.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 49²?",
@@ -1442,7 +1464,8 @@
             "2,401 ((50 x 48) + 1 = 2,400 + 1)"
           ],
           "answerIndex": 3,
-          "explanation": "(50 x 48) + 1 = 2,400 + 1 = 2,401."
+          "explanation": "(50 x 48) + 1 = 2,400 + 1 = 2,401.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 62²?",
@@ -1453,18 +1476,20 @@
             "3,824"
           ],
           "answerIndex": 2,
-          "explanation": "(60 x 64) + 4 = 3,840 + 4 = 3,844."
+          "explanation": "(60 x 64) + 4 = 3,840 + 4 = 3,844.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the primary benefit of the difference-of-squares squaring shortcut?",
           "options": [
             "It only works on odd numbers",
-            "It turns a 2-digit multiplication into a 1-digit multiplication by 10 plus a small square (#ScienceOfLearning)",
+            "It turns a 2-digit multiplication into a 1-digit multiplication by 10 plus a small square (deliberate practice)",
             "It eliminates all carrying entirely",
             "It gives an approximate answer within 10%"
           ],
           "answerIndex": 1,
-          "explanation": "Multiplying by a round multiple of 10 collapses mental working memory load."
+          "explanation": "Multiplying by a round multiple of 10 collapses mental working memory load.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 19²?",
@@ -1475,11 +1500,13 @@
             "341"
           ],
           "answerIndex": 0,
-          "explanation": "(20 x 18) + 1 = 360 + 1 = 361."
+          "explanation": "(20 x 18) + 1 = 360 + 1 = 361.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 4, Lesson 2: Foundational & Structural Mastery"
   },
   "mentalmath-u4-l3": {
     "id": "mentalmath-u4-l3",
@@ -1511,12 +1538,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 18 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "6 (18.1) [L18.1] (Focus 18.1)",
-            "12 (18.2) [L18.2] (Focus 18.2)",
-            "10 (18.3) [L18.3] (Focus 18.3)",
-            "8 (50% of 16 = 8) (18.4) [L18.4] (Focus 18.4)"
+            "6 (18.1) ",
+            "12 (18.2) ",
+            "10 (18.3) ",
+            "8 (50% of 16 = 8) (18.4) "
           ],
           "answerIndex": 3,
           "explanation": "16% of 50 is identical to 50% of 16 = 8."
@@ -1550,10 +1577,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 18:",
           "options": [
-            "$13.00 (10% is $6.50 -> 6.50 x 2 = $13.00) (18.1) [L18.1] (Task 18.1)",
-            "$12.00 (18.2) [L18.2] (Task 18.2)",
-            "$15.00 (18.3) [L18.3] (Task 18.3)",
-            "$14.50 (18.4) [L18.4] (Task 18.4)"
+            "$13.00 (10% is $6.50 -> 6.50 x 2 = $13.00)  (Task 18.1)",
+            "$12.00  (Task 18.2)",
+            "$15.00  (Task 18.3)",
+            "$14.50  (Task 18.4)"
           ],
           "answerIndex": 0,
           "explanation": "10% is 6.50; 6.50 x 2 = $13.00."
@@ -1582,7 +1609,8 @@
             "9 (50% of 18 = 9)"
           ],
           "answerIndex": 3,
-          "explanation": "18% of 50 = 50% of 18 = 9."
+          "explanation": "18% of 50 = 50% of 18 = 9.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "A coat priced at $120 is on a 20% discount. What is the final sale price?",
@@ -1593,7 +1621,8 @@
             "$90"
           ],
           "answerIndex": 2,
-          "explanation": "10% of 120 = 12 -> 20% = 24 -> $120 - 24 = $96."
+          "explanation": "10% of 120 = 12 -> 20% = 24 -> $120 - 24 = $96.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 35% of 40?",
@@ -1604,7 +1633,8 @@
             "16"
           ],
           "answerIndex": 1,
-          "explanation": "10% of 40 = 4 -> 30% = 12; 5% = 2; 12 + 2 = 14."
+          "explanation": "10% of 40 = 4 -> 30% = 12; 5% = 2; 12 + 2 = 14.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why does x% of y = y% of x always hold true?",
@@ -1615,7 +1645,8 @@
             "It is a heuristic approximation"
           ],
           "answerIndex": 0,
-          "explanation": "Commutativity of multiplication ensures exact equivalence."
+          "explanation": "Commutativity of multiplication ensures exact equivalence.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate a 15% tip on a $44 bill:",
@@ -1626,11 +1657,13 @@
             "$6.60 (4.40 + 2.20)"
           ],
           "answerIndex": 3,
-          "explanation": "10% of 44 = 4.40; 5% = 2.20; 4.40 + 2.20 = $6.60."
+          "explanation": "10% of 44 = 4.40; 5% = 2.20; 4.40 + 2.20 = $6.60.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 4, Lesson 3: Foundational & Structural Mastery"
   },
   "mentalmath-u4-l4": {
     "id": "mentalmath-u4-l4",
@@ -1662,12 +1695,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 19 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "0.375 (19.1) [L19.1] (Focus 19.1)",
-            "0.325 (19.2) [L19.2] (Focus 19.2)",
-            "0.350 (19.3) [L19.3] (Focus 19.3)",
-            "0.333 (19.4) [L19.4] (Focus 19.4)"
+            "0.375 (19.1) ",
+            "0.325 (19.2) ",
+            "0.350 (19.3) ",
+            "0.333 (19.4) "
           ],
           "answerIndex": 0,
           "explanation": "1/8 = 0.125 -> 3/8 = 3 x 0.125 = 0.375."
@@ -1701,10 +1734,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 19:",
           "options": [
-            "0.625 (19.1) [L19.1] (Task 19.1)",
-            "0.555 (19.2) [L19.2] (Task 19.2)",
-            "0.580 (19.3) [L19.3] (Task 19.3)",
-            "0.650 (19.4) [L19.4] (Task 19.4)"
+            "0.625  (Task 19.1)",
+            "0.555  (Task 19.2)",
+            "0.580  (Task 19.3)",
+            "0.650  (Task 19.4)"
           ],
           "answerIndex": 0,
           "explanation": "1/2 (0.500) + 1/8 (0.125) = 0.625."
@@ -1733,7 +1766,8 @@
             "0.895"
           ],
           "answerIndex": 2,
-          "explanation": "1.000 - 0.125 = 0.875."
+          "explanation": "1.000 - 0.125 = 0.875.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 5/6 in decimal form?",
@@ -1744,7 +1778,8 @@
             "0.7500"
           ],
           "answerIndex": 1,
-          "explanation": "1 - 1/6 (0.1666) = 0.8333..."
+          "explanation": "1 - 1/6 (0.1666) = 0.8333...",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Which 6-digit cyclic sequence is generated by dividing by 7?",
@@ -1755,7 +1790,8 @@
             "369125"
           ],
           "answerIndex": 0,
-          "explanation": "The cyclic loop of 1/7 is 142857."
+          "explanation": "The cyclic loop of 1/7 is 142857.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 8/9 as a decimal?",
@@ -1766,7 +1802,8 @@
             "0.8888..."
           ],
           "answerIndex": 3,
-          "explanation": "8/9 = 0.8888..."
+          "explanation": "8/9 = 0.8888...",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 6/11 as a decimal?",
@@ -1777,11 +1814,13 @@
             "0.595959..."
           ],
           "answerIndex": 2,
-          "explanation": "6 x 9 = 54 -> 0.545454..."
+          "explanation": "6 x 9 = 54 -> 0.545454...",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 4, Lesson 4: Foundational & Structural Mastery"
   },
   "mentalmath-u4-l5": {
     "id": "mentalmath-u4-l5",
@@ -1815,12 +1854,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 20 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "9,025 (9 x 10 = 90 append 25) (20.1) [L20.1] (Focus 20.1)",
-            "9,525 (20.2) [L20.2] (Focus 20.2)",
-            "8,525 (20.3) [L20.3] (Focus 20.3)",
-            "9,050 (20.4) [L20.4] (Focus 20.4)"
+            "9,025 (9 x 10 = 90 append 25) (20.1) ",
+            "9,525 (20.2) ",
+            "8,525 (20.3) ",
+            "9,050 (20.4) "
           ],
           "answerIndex": 0,
           "explanation": "9 x 10 = 90 -> 9,025."
@@ -1854,10 +1893,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 20:",
           "options": [
-            "0.818181... (20.1) [L20.1] (Task 20.1)",
-            "0.727272... (8 x 9 = 72) (20.2) [L20.2] (Task 20.2)",
-            "0.797979... (20.3) [L20.3] (Task 20.3)",
-            "0.888888... (20.4) [L20.4] (Task 20.4)"
+            "0.818181...  (Task 20.1)",
+            "0.727272... (8 x 9 = 72)  (Task 20.2)",
+            "0.797979...  (Task 20.3)",
+            "0.888888...  (Task 20.4)"
           ],
           "answerIndex": 1,
           "explanation": "8 x 9 = 72 -> 0.727272..."
@@ -1886,7 +1925,8 @@
             "4,525"
           ],
           "answerIndex": 1,
-          "explanation": "6 x 7 = 42 -> 4,225."
+          "explanation": "6 x 7 = 42 -> 4,225.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Solve: 4% of 75",
@@ -1897,7 +1937,8 @@
             "4"
           ],
           "answerIndex": 0,
-          "explanation": "75% of 4 = 3."
+          "explanation": "75% of 4 = 3.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Solve: 48²",
@@ -1908,7 +1949,8 @@
             "2,304 ((50 x 46) + 4)"
           ],
           "answerIndex": 3,
-          "explanation": "(50 x 46) + 4 = 2,300 + 4 = 2,304."
+          "explanation": "(50 x 46) + 4 = 2,300 + 4 = 2,304.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 5/8 in decimal form?",
@@ -1919,22 +1961,25 @@
             "0.555"
           ],
           "answerIndex": 2,
-          "explanation": "5 x 0.125 = 0.625."
+          "explanation": "5 x 0.125 = 0.625.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the key meta-skill developed in Unit 4 of FEARN Mental Math?",
           "options": [
             "Rote memorization of a 10,000-page table",
-            "Rapid pattern categorization and algebraic transformation to bypass column arithmetic (#ScienceOfLearning)",
+            "Rapid pattern categorization and algebraic transformation to bypass column arithmetic (deliberate practice)",
             "Counting on fingers",
             "Using a solar calculator"
           ],
           "answerIndex": 1,
-          "explanation": "Pattern recognition and algebraic transformation bypass working memory bottlenecks."
+          "explanation": "Pattern recognition and algebraic transformation bypass working memory bottlenecks.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 4, Lesson 5: Foundational & Structural Mastery"
   },
   "mentalmath-u6-l1": {
     "id": "mentalmath-u6-l1",
@@ -1967,12 +2012,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 21 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "x = 6 (21.1) [L21.1] (Focus 21.1)",
-            "x = 8 (21.2) [L21.2] (Focus 21.2)",
-            "x = 9 (21.3) [L21.3] (Focus 21.3)",
-            "x = 7 (68 - 19 = 49 -> 49 / 7 = 7) (21.4) [L21.4] (Focus 21.4)"
+            "x = 6 (21.1) ",
+            "x = 8 (21.2) ",
+            "x = 9 (21.3) ",
+            "x = 7 (68 - 19 = 49 -> 49 / 7 = 7) (21.4) "
           ],
           "answerIndex": 3,
           "explanation": "68 - 19 = 49; 49 / 7 = 7."
@@ -1995,10 +2040,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 21:",
           "options": [
-            "x = 9 (21.1) [L21.1] (Task 21.1)",
-            "x = 8 (21.2) [L21.2] (Task 21.2)",
-            "x = 12 (21.3) [L21.3] (Task 21.3)",
-            "x = 10 (5x = 50 -> x = 10) (21.4) [L21.4] (Task 21.4)"
+            "x = 9  (Task 21.1)",
+            "x = 8  (Task 21.2)",
+            "x = 12  (Task 21.3)",
+            "x = 10 (5x = 50 -> x = 10)  (Task 21.4)"
           ],
           "answerIndex": 3,
           "explanation": "8x - 3x = 5x; 35 + 15 = 50 -> x = 10."
@@ -2027,7 +2072,8 @@
             "x = 7"
           ],
           "answerIndex": 0,
-          "explanation": "100 - 28 = 72; 72 / 9 = 8."
+          "explanation": "100 - 28 = 72; 72 / 9 = 8.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Solve mentally: 6(x - 7) = 54",
@@ -2038,7 +2084,8 @@
             "x = 16 (54 / 6 = 9 -> 9 + 7 = 16)"
           ],
           "answerIndex": 3,
-          "explanation": "54 / 6 = 9; 9 + 7 = 16."
+          "explanation": "54 / 6 = 9; 9 + 7 = 16.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Solve mentally: 11x - 13 = 5x + 35",
@@ -2049,7 +2096,8 @@
             "x = 7"
           ],
           "answerIndex": 2,
-          "explanation": "11x - 5x = 6x; 35 + 13 = 48 -> x = 8."
+          "explanation": "11x - 5x = 6x; 35 + 13 = 48 -> x = 8.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the optimal mental math order of operations for solving ax + b = c?",
@@ -2060,11 +2108,13 @@
             "Divide c by a first, then subtract b"
           ],
           "answerIndex": 1,
-          "explanation": "Subtract constant first, divide by coefficient second."
+          "explanation": "Subtract constant first, divide by coefficient second.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 1: Foundational & Structural Mastery (Solve mentally: 6x + 23 = 71)"
   },
   "mentalmath-u6-l2": {
     "id": "mentalmath-u6-l2",
@@ -2097,12 +2147,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 22 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,496 (50² - 2² = 2500 - 4 = 2496) (22.1) [L22.1] (Focus 22.1)",
-            "2,494 (22.2) [L22.2] (Focus 22.2)",
-            "2,486 (22.3) [L22.3] (Focus 22.3)",
-            "2,504 (22.4) [L22.4] (Focus 22.4)"
+            "2,496 (50² - 2² = 2500 - 4 = 2496) (22.1) ",
+            "2,494 (22.2) ",
+            "2,486 (22.3) ",
+            "2,504 (22.4) "
           ],
           "answerIndex": 0,
           "explanation": "50² - 2² = 2500 - 4 = 2496."
@@ -2125,10 +2175,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 22:",
           "options": [
-            "4,881 (22.1) [L22.1] (Task 22.1)",
-            "4,909 (22.2) [L22.2] (Task 22.2)",
-            "4,891 (70² - 3² = 4900 - 9 = 4891) (22.3) [L22.3] (Task 22.3)",
-            "4,899 (22.4) [L22.4] (Task 22.4)"
+            "4,881  (Task 22.1)",
+            "4,909  (Task 22.2)",
+            "4,891 (70² - 3² = 4900 - 9 = 4891)  (Task 22.3)",
+            "4,899  (Task 22.4)"
           ],
           "answerIndex": 2,
           "explanation": "70² - 3² = 4900 - 9 = 4891."
@@ -2157,7 +2207,8 @@
             "8,096 (90² - 2² = 8100 - 4 = 8096)"
           ],
           "answerIndex": 3,
-          "explanation": "90² - 2² = 8100 - 4 = 8096."
+          "explanation": "90² - 2² = 8100 - 4 = 8096.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 35 x 45 mentally:",
@@ -2168,7 +2219,8 @@
             "1,585"
           ],
           "answerIndex": 2,
-          "explanation": "40² - 5² = 1600 - 25 = 1575."
+          "explanation": "40² - 5² = 1600 - 25 = 1575.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 19 x 21 mentally:",
@@ -2179,7 +2231,8 @@
             "389"
           ],
           "answerIndex": 1,
-          "explanation": "20² - 1² = 400 - 1 = 399."
+          "explanation": "20² - 1² = 400 - 1 = 399.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Under what condition is the Difference of Squares technique most effective?",
@@ -2190,11 +2243,13 @@
             "When both numbers are prime only"
           ],
           "answerIndex": 0,
-          "explanation": "Symmetric distance from a clean square base allows instant computation."
+          "explanation": "Symmetric distance from a clean square base allows instant computation.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 2: Foundational & Structural Mastery (Calculate mentally: 29 x 31)"
   },
   "mentalmath-u6-l3": {
     "id": "mentalmath-u6-l3",
@@ -2227,12 +2282,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 23 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "$6.80 (23.1) [L23.1] (Focus 23.1)",
-            "$7.60 (23.2) [L23.2] (Focus 23.2)",
-            "$8.00 (23.3) [L23.3] (Focus 23.3)",
-            "$7.20 (10% = 4.80; 5% = 2.40 -> 4.80 + 2.40 = $7.20) (23.4) [L23.4] (Focus 23.4)"
+            "$6.80 (23.1) ",
+            "$7.60 (23.2) ",
+            "$8.00 (23.3) ",
+            "$7.20 (10% = 4.80; 5% = 2.40 -> 4.80 + 2.40 = $7.20) (23.4) "
           ],
           "answerIndex": 3,
           "explanation": "4.80 + 2.40 = $7.20."
@@ -2255,10 +2310,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 23:",
           "options": [
-            "$9.00 (20% = 10.00; 2% = 1.00 -> 10.00 - 1.00 = $9.00) (23.1) [L23.1] (Task 23.1)",
-            "$8.50 (23.2) [L23.2] (Task 23.2)",
-            "$9.50 (23.3) [L23.3] (Task 23.3)",
-            "$10.00 (23.4) [L23.4] (Task 23.4)"
+            "$9.00 (20% = 10.00; 2% = 1.00 -> 10.00 - 1.00 = $9.00)  (Task 23.1)",
+            "$8.50  (Task 23.2)",
+            "$9.50  (Task 23.3)",
+            "$10.00  (Task 23.4)"
           ],
           "answerIndex": 0,
           "explanation": "10.00 - 1.00 = $9.00."
@@ -2287,7 +2342,8 @@
             "$28.00"
           ],
           "answerIndex": 2,
-          "explanation": "13.50 * 2 = $27.00."
+          "explanation": "13.50 * 2 = $27.00.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "If inflation is 4% annually, in how many years will the price of goods double (Rule of 72)?",
@@ -2298,7 +2354,8 @@
             "20 years"
           ],
           "answerIndex": 1,
-          "explanation": "72 / 4 = 18 years."
+          "explanation": "72 / 4 = 18 years.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 15% of $120.00:",
@@ -2309,7 +2366,8 @@
             "$20.00"
           ],
           "answerIndex": 0,
-          "explanation": "12.00 + 6.00 = $18.00."
+          "explanation": "12.00 + 6.00 = $18.00.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What building blocks form 35% in mental math?",
@@ -2320,11 +2378,13 @@
             "30% (3 x 10%) + 5% (half of 10%)"
           ],
           "answerIndex": 3,
-          "explanation": "3 x 10% + 5% = 35%."
+          "explanation": "3 x 10% + 5% = 35%.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 3: Foundational & Structural Mastery (Calculate a 15% tip on a $64.0)"
   },
   "mentalmath-u6-l4": {
     "id": "mentalmath-u6-l4",
@@ -2357,12 +2417,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 24 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "~2,000,000 (4 * 10³ * 5 * 10² = 20 * 10⁵ = 2 * 10⁶) (24.1) [L24.1] (Focus 24.1)",
-            "~20,000,000 (24.2) [L24.2] (Focus 24.2)",
-            "~20,000 (24.3) [L24.3] (Focus 24.3)",
-            "~200,000 (24.4) [L24.4] (Focus 24.4)"
+            "~2,000,000 (4 * 10³ * 5 * 10² = 20 * 10⁵ = 2 * 10⁶) (24.1) ",
+            "~20,000,000 (24.2) ",
+            "~20,000 (24.3) ",
+            "~200,000 (24.4) "
           ],
           "answerIndex": 0,
           "explanation": "4,000 * 500 = 2,000,000 (Exact: 1,999,200)."
@@ -2385,10 +2445,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 24:",
           "options": [
-            "~20,000 (800,000 / 40 = 20,000) (24.1) [L24.1] (Task 24.1)",
-            "~2,000,000 (24.2) [L24.2] (Task 24.2)",
-            "~2,000 (24.3) [L24.3] (Task 24.3)",
-            "~200,000 (24.4) [L24.4] (Task 24.4)"
+            "~20,000 (800,000 / 40 = 20,000)  (Task 24.1)",
+            "~2,000,000  (Task 24.2)",
+            "~2,000  (Task 24.3)",
+            "~200,000  (Task 24.4)"
           ],
           "answerIndex": 0,
           "explanation": "800,000 / 40 = 20,000."
@@ -2417,7 +2477,8 @@
             "~24,000"
           ],
           "answerIndex": 1,
-          "explanation": "60,000 * 480 / 12 = 60,000 * 40 = 2,400,000 (Exact: 2,360,000)."
+          "explanation": "60,000 * 480 / 12 = 60,000 * 40 = 2,400,000 (Exact: 2,360,000).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "If a car travels 60 miles per hour, approximately how many feet per second is it moving? (1 mile ≈ 5,280 ft):",
@@ -2428,7 +2489,8 @@
             "~20 ft/sec"
           ],
           "answerIndex": 0,
-          "explanation": "60 mph = exactly 88 ft/sec."
+          "explanation": "60 mph = exactly 88 ft/sec.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the primary objective of a Fermi estimation?",
@@ -2439,7 +2501,8 @@
             "To quickly obtain a correct order of magnitude (power of 10) and rough value when an exact calculation is impossible or unnecessary"
           ],
           "answerIndex": 3,
-          "explanation": "Rapid order-of-magnitude approximation for decision making."
+          "explanation": "Rapid order-of-magnitude approximation for decision making.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Estimate: 295 x 305 mentally:",
@@ -2450,11 +2513,13 @@
             "90,000"
           ],
           "answerIndex": 2,
-          "explanation": "Difference of squares: 300² - 5² = 89,975."
+          "explanation": "Difference of squares: 300² - 5² = 89,975.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 4: Foundational & Structural Mastery (Estimate: 4,890 x 612 / 28)"
   },
   "mentalmath-u6-l5": {
     "id": "mentalmath-u6-l5",
@@ -2487,12 +2552,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 25 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "x = 11 (92 - 37 = 55 -> 55 / 5 = 11) (25.1) [L25.1] (Focus 25.1)",
-            "x = 10 (25.2) [L25.2] (Focus 25.2)",
-            "x = 12 (25.3) [L25.3] (Focus 25.3)",
-            "x = 9 (25.4) [L25.4] (Focus 25.4)"
+            "x = 11 (92 - 37 = 55 -> 55 / 5 = 11) (25.1) ",
+            "x = 10 (25.2) ",
+            "x = 12 (25.3) ",
+            "x = 9 (25.4) "
           ],
           "answerIndex": 0,
           "explanation": "92 - 37 = 55; 55 / 5 = 11."
@@ -2515,10 +2580,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 25:",
           "options": [
-            "$13.20 (25.1) [L25.1] (Task 25.1)",
-            "$12.90 (8.60 + 4.30 = $12.90) (25.2) [L25.2] (Task 25.2)",
-            "$11.90 (25.3) [L25.3] (Task 25.3)",
-            "$12.60 (25.4) [L25.4] (Task 25.4)"
+            "$13.20  (Task 25.1)",
+            "$12.90 (8.60 + 4.30 = $12.90)  (Task 25.2)",
+            "$11.90  (Task 25.3)",
+            "$12.60  (Task 25.4)"
           ],
           "answerIndex": 1,
           "explanation": "8.60 + 4.30 = $12.90."
@@ -2547,7 +2612,8 @@
             "x = 6"
           ],
           "answerIndex": 0,
-          "explanation": "12x - 5x = 7x; 37 + 19 = 56 -> x = 8."
+          "explanation": "12x - 5x = 7x; 37 + 19 = 56 -> x = 8.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 76 x 84 mentally:",
@@ -2558,7 +2624,8 @@
             "6,384 (80² - 4² = 6400 - 16 = 6384)"
           ],
           "answerIndex": 3,
-          "explanation": "80² - 4² = 6400 - 16 = 6384."
+          "explanation": "80² - 4² = 6400 - 16 = 6384.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What core competencies were mastered across Mental Math Unit 6?",
@@ -2569,7 +2636,8 @@
             "Basic finger counting only"
           ],
           "answerIndex": 2,
-          "explanation": "Unit 6 comprehensive mental algebra, difference of squares, percentage tricks, and Fermi estimation mastery."
+          "explanation": "Unit 6 comprehensive mental algebra, difference of squares, percentage tricks, and Fermi estimation mastery.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the next frontier of Mental Math in Unit 7?",
@@ -2580,11 +2648,13 @@
             "Drawing geometry circles"
           ],
           "answerIndex": 1,
-          "explanation": "Unit 7 focuses on combined-operation rapid speed drills."
+          "explanation": "Unit 7 focuses on combined-operation rapid speed drills.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 6, Lesson 5: Foundational & Structural Mastery (Solve: 7x - 18 = 45)"
   },
   "mentalmath-u7-l1": {
     "id": "mentalmath-u7-l1",
@@ -2611,12 +2681,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 26 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "620 (26.1) [L26.1] (Focus 26.1)",
-            "640 (26.2) [L26.2] (Focus 26.2)",
-            "650 (26.3) [L26.3] (Focus 26.3)",
-            "630 (540 + 285 = 825; 825 - 195 = 825 - 200 + 5 = 630) (26.4) [L26.4] (Focus 26.4)"
+            "620 (26.1) ",
+            "640 (26.2) ",
+            "650 (26.3) ",
+            "630 (540 + 285 = 825; 825 - 195 = 825 - 200 + 5 = 630) (26.4) "
           ],
           "answerIndex": 3,
           "explanation": "540 + 285 = 825; 825 - 195 = 630."
@@ -2639,10 +2709,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 26:",
           "options": [
-            "490 (26.1) [L26.1] (Task 26.1)",
-            "510 (26.2) [L26.2] (Task 26.2)",
-            "520 (26.3) [L26.3] (Task 26.3)",
-            "500 (Notice compatible numbers: 275 + 325 = 600; 148 - 248 = -100 -> 600 - 100 = 500) (26.4) [L26.4] (Task 26.4)"
+            "490  (Task 26.1)",
+            "510  (Task 26.2)",
+            "520  (Task 26.3)",
+            "500 (Notice compatible numbers: 275 + 325 = 600; 148 - 248 = -100 -> 600 - 100 = 500)  (Task 26.4)"
           ],
           "answerIndex": 3,
           "explanation": "Compatible pairing: (275 + 325) + (148 - 248) = 600 - 100 = 500."
@@ -2671,7 +2741,8 @@
             "650 (412 + 388 = 800; 800 - 295 = 505; 505 + 145 = 650)"
           ],
           "answerIndex": 3,
-          "explanation": "800 - 295 + 145 = 800 - 150 = 650."
+          "explanation": "800 - 295 + 145 = 800 - 150 = 650.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What technique allows mental math experts to avoid visual carrying/borrowing fatigue?",
@@ -2682,7 +2753,8 @@
             "Counting on fingers"
           ],
           "answerIndex": 2,
-          "explanation": "Left-to-right processing with compensation keeps intermediate numbers manageable."
+          "explanation": "Left-to-right processing with compensation keeps intermediate numbers manageable.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate: 950 - 380 - 170 + 400",
@@ -2693,7 +2765,8 @@
             "810"
           ],
           "answerIndex": 1,
-          "explanation": "Combining subtractions: -(380 + 170) = -550; 950 - 550 + 400 = 800."
+          "explanation": "Combining subtractions: -(380 + 170) = -550; 950 - 550 + 400 = 800.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete the mental sequence: 150 + 75 - 25 + 200 = _______",
@@ -2704,11 +2777,13 @@
             "390"
           ],
           "answerIndex": 0,
-          "explanation": "150 + 50 + 200 = 400."
+          "explanation": "150 + 50 + 200 = 400.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 1: Foundational & Structural Mastery (346 + 185 - 229 + 158 = 460)"
   },
   "mentalmath-u7-l2": {
     "id": "mentalmath-u7-l2",
@@ -2735,12 +2810,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 27 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "600 (28 × 15 = 280 + 140 = 420; 420 + 180 = 600) (27.1) [L27.1] (Focus 27.1)",
-            "620 (27.2) [L27.2] (Focus 27.2)",
-            "590 (27.3) [L27.3] (Focus 27.3)",
-            "610 (27.4) [L27.4] (Focus 27.4)"
+            "600 (28 × 15 = 280 + 140 = 420; 420 + 180 = 600) (27.1) ",
+            "620 (27.2) ",
+            "590 (27.3) ",
+            "610 (27.4) "
           ],
           "answerIndex": 0,
           "explanation": "28 × 15 = 420; 420 + 180 = 600."
@@ -2763,10 +2838,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 27:",
           "options": [
-            "730 (27.1) [L27.1] (Task 27.1)",
-            "750 (27.2) [L27.2] (Task 27.2)",
-            "740 (570 + 170 = 740) (27.3) [L27.3] (Task 27.3)",
-            "760 (27.4) [L27.4] (Task 27.4)"
+            "730  (Task 27.1)",
+            "750  (Task 27.2)",
+            "740 (570 + 170 = 740)  (Task 27.3)",
+            "760  (Task 27.4)"
           ],
           "answerIndex": 2,
           "explanation": "19 × 30 = 570; 17 × 10 = 170; 570 + 170 = 740."
@@ -2795,7 +2870,8 @@
             "590"
           ],
           "answerIndex": 2,
-          "explanation": "416 + 184 = 600."
+          "explanation": "416 + 184 = 600.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate: 99 × 7 + 107",
@@ -2806,7 +2882,8 @@
             "790"
           ],
           "answerIndex": 1,
-          "explanation": "693 + 107 = 800."
+          "explanation": "693 + 107 = 800.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is factoring 75 × 16 as (75 × 4) × 4 faster than traditional vertical multiplication?",
@@ -2817,7 +2894,8 @@
             "It turns the answer into a fraction"
           ],
           "answerIndex": 0,
-          "explanation": "Associative factoring leverages the round base 300."
+          "explanation": "Associative factoring leverages the round base 300.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 16 × 25 + 250 = _______",
@@ -2828,11 +2906,13 @@
             "650"
           ],
           "answerIndex": 3,
-          "explanation": "400 + 250 = 650."
+          "explanation": "400 + 250 = 650.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 2: Foundational & Structural Mastery (34 × 15 + 190 = 700)"
   },
   "mentalmath-u7-l3": {
     "id": "mentalmath-u7-l3",
@@ -2859,12 +2939,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 28 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "8 (28.1) [L28.1] (Focus 28.1)",
-            "10 (28.2) [L28.2] (Focus 28.2)",
-            "11 (28.3) [L28.3] (Focus 28.3)",
-            "9 (50% of 18 = 18 / 2 = 9) (28.4) [L28.4] (Focus 28.4)"
+            "8 (28.1) ",
+            "10 (28.2) ",
+            "11 (28.3) ",
+            "9 (50% of 18 = 18 / 2 = 9) (28.4) "
           ],
           "answerIndex": 3,
           "explanation": "18% of 50 = 50% of 18 = 9."
@@ -2887,10 +2967,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 28:",
           "options": [
-            "107 (15% of 180 = 18 + 9 = 27; 25% of 320 = 80; 27 + 80 = 107) (28.1) [L28.1] (Task 28.1)",
-            "105 (28.2) [L28.2] (Task 28.2)",
-            "109 (28.3) [L28.3] (Task 28.3)",
-            "111 (28.4) [L28.4] (Task 28.4)"
+            "107 (15% of 180 = 18 + 9 = 27; 25% of 320 = 80; 27 + 80 = 107)  (Task 28.1)",
+            "105  (Task 28.2)",
+            "109  (Task 28.3)",
+            "111  (Task 28.4)"
           ],
           "answerIndex": 0,
           "explanation": "27 + 80 = 107."
@@ -2919,7 +2999,8 @@
             "180"
           ],
           "answerIndex": 1,
-          "explanation": "195 - 20 = 175."
+          "explanation": "195 - 20 = 175.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why does 'x% of y = y% of x' always work mathematically?",
@@ -2930,7 +3011,8 @@
             "It is an approximation"
           ],
           "answerIndex": 0,
-          "explanation": "Commutative law of arithmetic ensures exact equivalence."
+          "explanation": "Commutative law of arithmetic ensures exact equivalence.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is 16.67% of 420?",
@@ -2941,7 +3023,8 @@
             "70 (16.67% = 1/6; 420 / 6 = 70)"
           ],
           "answerIndex": 3,
-          "explanation": "1/6 of 420 = 70."
+          "explanation": "1/6 of 420 = 70.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 75% of 48 = _______",
@@ -2952,11 +3035,13 @@
             "38"
           ],
           "answerIndex": 2,
-          "explanation": "3/4 of 48 = 36."
+          "explanation": "3/4 of 48 = 36.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 3: Foundational & Structural Mastery (12.5% of 480 = 60)"
   },
   "mentalmath-u7-l4": {
     "id": "mentalmath-u7-l4",
@@ -2983,12 +3068,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 29 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "0 (29.1) [L29.1] (Focus 29.1)",
-            "1 (Cast 9, cast 8+1; remaining 6+4 = 10 -> 1+0 = 1) (29.2) [L29.2] (Focus 29.2)",
-            "4 (29.3) [L29.3] (Focus 29.3)",
-            "2 (29.4) [L29.4] (Focus 29.4)"
+            "0 (29.1) ",
+            "1 (Cast 9, cast 8+1; remaining 6+4 = 10 -> 1+0 = 1) (29.2) ",
+            "4 (29.3) ",
+            "2 (29.4) "
           ],
           "answerIndex": 1,
           "explanation": "Casting out 9 and (8+1) leaves 6+4=10 -> 1."
@@ -3011,10 +3096,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 29:",
           "options": [
-            "Yes (47 - 12 = 35; 35 / 7 = 5 -> 476 is divisible by 7) (29.1) [L29.1] (Task 29.1)",
-            "It is prime (29.2) [L29.2] (Task 29.2)",
-            "No (29.3) [L29.3] (Task 29.3)",
-            "Only on Tuesdays (29.4) [L29.4] (Task 29.4)"
+            "Yes (47 - 12 = 35; 35 / 7 = 5 -> 476 is divisible by 7)  (Task 29.1)",
+            "It is prime  (Task 29.2)",
+            "No  (Task 29.3)",
+            "Only on Tuesdays  (Task 29.4)"
           ],
           "answerIndex": 0,
           "explanation": "47 - 2(6) = 47 - 12 = 35 (divisible by 7; 476 / 7 = 68)."
@@ -3043,7 +3128,8 @@
             "All mean odd numbers"
           ],
           "answerIndex": 0,
-          "explanation": "Modulo divisibility test matching."
+          "explanation": "Modulo divisibility test matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the digital root of the product: 147 × 382?",
@@ -3054,7 +3140,8 @@
             "3 (Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3)"
           ],
           "answerIndex": 3,
-          "explanation": "Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3."
+          "explanation": "Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why can a digital root check produce a false positive (confirm an incorrect answer)?",
@@ -3065,7 +3152,8 @@
             "It never produces false positives"
           ],
           "answerIndex": 2,
-          "explanation": "Permutations of digits have identical digit sums; modulo 11 detects transpositions."
+          "explanation": "Permutations of digits have identical digit sums; modulo 11 detects transpositions.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Is 7,953 divisible by 9?",
@@ -3076,11 +3164,13 @@
             "It is prime"
           ],
           "answerIndex": 1,
-          "explanation": "Sum of digits is 24 -> 2+4=6 != 9, so it leaves remainder 6 mod 9."
+          "explanation": "Sum of digits is 24 -> 2+4=6 != 9, so it leaves remainder 6 mod 9.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 4: Foundational & Structural Mastery (Digital root of 78,453: 7+8+4+)"
   },
   "mentalmath-u7-l5": {
     "id": "mentalmath-u7-l5",
@@ -3107,12 +3197,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 30 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "5,000 ((75 + 25)(75 - 25) = 100 × 50 = 5,000) (30.1) [L30.1] (Focus 30.1)",
-            "4,800 (30.2) [L30.2] (Focus 30.2)",
-            "5,200 (30.3) [L30.3] (Focus 30.3)",
-            "5,500 (30.4) [L30.4] (Focus 30.4)"
+            "5,000 ((75 + 25)(75 - 25) = 100 × 50 = 5,000) (30.1) ",
+            "4,800 (30.2) ",
+            "5,200 (30.3) ",
+            "5,500 (30.4) "
           ],
           "answerIndex": 0,
           "explanation": "(75+25)(75-25) = 100 × 50 = 5000."
@@ -3135,10 +3225,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 30:",
           "options": [
-            "284 (30.1) [L30.1] (Task 30.1)",
-            "282 (50% of 24 = 12; 18 × 15 = 270; 12 + 270 = 282) (30.2) [L30.2] (Task 30.2)",
-            "286 (30.3) [L30.3] (Task 30.3)",
-            "280 (30.4) [L30.4] (Task 30.4)"
+            "284  (Task 30.1)",
+            "282 (50% of 24 = 12; 18 × 15 = 270; 12 + 270 = 282)  (Task 30.2)",
+            "286  (Task 30.3)",
+            "280  (Task 30.4)"
           ],
           "answerIndex": 1,
           "explanation": "12 + 270 = 282."
@@ -3167,7 +3257,8 @@
             "500 (45 × 12 = 540; 35% of 200 = 70; 540 + 70 = 610; 610 - 110 = 500)"
           ],
           "answerIndex": 3,
-          "explanation": "540 + 70 - 110 = 500."
+          "explanation": "540 + 70 - 110 = 500.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What core mental arithmetic competencies were mastered across Mental Math Unit 7?",
@@ -3178,7 +3269,8 @@
             "Basic multiplication tables up to 5 only"
           ],
           "answerIndex": 2,
-          "explanation": "Unit 7 comprehensive master combined-operation mental math synthesis."
+          "explanation": "Unit 7 comprehensive master combined-operation mental math synthesis.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the final frontier awaiting you in Unit 8 of Mental Math?",
@@ -3189,7 +3281,8 @@
             "Learning Roman numerals"
           ],
           "answerIndex": 1,
-          "explanation": "Unit 8 focuses on multi-digit large number multiplication and instant day-of-the-week calculation."
+          "explanation": "Unit 8 focuses on multi-digit large number multiplication and instant day-of-the-week calculation.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Solve: 88 × 25 - 200",
@@ -3200,11 +3293,13 @@
             "1,900"
           ],
           "answerIndex": 0,
-          "explanation": "2200 - 200 = 2000."
+          "explanation": "2200 - 200 = 2000.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 7, Lesson 5: Foundational & Structural Mastery (84 × 11 + 76 = 1,000)"
   },
   "mentalmath-u8-l1": {
     "id": "mentalmath-u8-l1",
@@ -3231,12 +3326,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 31 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,226 (31.1) [L31.1] (Focus 31.1)",
-            "2,246 (31.2) [L31.2] (Focus 31.2)",
-            "2,216 (31.3) [L31.3] (Focus 31.3)",
-            "2,236 (3×2=6; [4×2]+[3×5]=8+15=23 [3, carry 2]; [4×5]+2=22 -> 2,236) (31.4) [L31.4] (Focus 31.4)"
+            "2,226 (31.1) ",
+            "2,246 (31.2) ",
+            "2,216 (31.3) ",
+            "2,236 (3×2=6; [4×2]+[3×5]=8+15=23 [3, carry 2]; [4×5]+2=22 -> 2,236) (31.4) "
           ],
           "answerIndex": 3,
           "explanation": "Units: 6; Cross: 23 (3, carry 2); Tens: 20+2=22 -> 2,236."
@@ -3259,10 +3354,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 31:",
           "options": [
-            "1,958 (31.1) [L31.1] (Task 31.1)",
-            "1,978 (31.2) [L31.2] (Task 31.2)",
-            "1,948 (31.3) [L31.3] (Task 31.3)",
-            "1,968 (2×4=8; [8×4]+[2×2]=32+4=36 [6, carry 3]; [8×2]+3=19 -> 1,968) (31.4) [L31.4] (Task 31.4)"
+            "1,958  (Task 31.1)",
+            "1,978  (Task 31.2)",
+            "1,948  (Task 31.3)",
+            "1,968 (2×4=8; [8×4]+[2×2]=32+4=36 [6, carry 3]; [8×2]+3=19 -> 1,968)  (Task 31.4)"
           ],
           "answerIndex": 3,
           "explanation": "2×4=8; 32+4=36 (carry 3); 16+3=19 -> 1,968."
@@ -3291,7 +3386,8 @@
             "All steps are subtraction"
           ],
           "answerIndex": 2,
-          "explanation": "Standard 2x2 Vedic multiplication sequence."
+          "explanation": "Standard 2x2 Vedic multiplication sequence.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate: 93 × 21",
@@ -3302,18 +3398,20 @@
             "1,963"
           ],
           "answerIndex": 1,
-          "explanation": "3; 9+6=15 (carry 1); 18+1=19 -> 1,953."
+          "explanation": "3; 9+6=15 (carry 1); 18+1=19 -> 1,953.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is the Vedic criss-cross method cognitively superior to standard grade-school long multiplication?",
           "options": [
-            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory (#ScienceOfLearning)",
+            "It generates the final answer digits one by one from right to left with zero need to write down or store multiple rows of partial products in working memory (deliberate practice)",
             "It only works on prime numbers",
             "It turns multiplication into division",
             "It makes numbers smaller"
           ],
           "answerIndex": 0,
-          "explanation": "Streaming single-pass digit generation eliminates partial product memory overload."
+          "explanation": "Streaming single-pass digit generation eliminates partial product memory overload.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 74 × 12 = _______",
@@ -3324,11 +3422,13 @@
             "888 (4×2=8; 14+4=18 [8, carry 1]; 7+1=8 -> 888)"
           ],
           "answerIndex": 3,
-          "explanation": "74 × 12 = 888."
+          "explanation": "74 × 12 = 888.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 1: Foundational & Structural Mastery (23 × 46 = 1,058)"
   },
   "mentalmath-u8-l2": {
     "id": "mentalmath-u8-l2",
@@ -3355,12 +3455,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 32 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "84 (592 is between 8³=512 and 9³=729 -> Tens = 8; Last digit is 4 -> Units = 4) (32.1) [L32.1] (Focus 32.1)",
-            "94 (32.2) [L32.2] (Focus 32.2)",
-            "86 (32.3) [L32.3] (Focus 32.3)",
-            "74 (32.4) [L32.4] (Focus 32.4)"
+            "84 (592 is between 8³=512 and 9³=729 -> Tens = 8; Last digit is 4 -> Units = 4) (32.1) ",
+            "94 (32.2) ",
+            "86 (32.3) ",
+            "74 (32.4) "
           ],
           "answerIndex": 0,
           "explanation": "Thousands chunk: 592 -> 8; Last digit: 4 -> 4 -> 84."
@@ -3383,10 +3483,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 32:",
           "options": [
-            "43 (32.1) [L32.1] (Task 32.1)",
-            "57 (32.2) [L32.2] (Task 32.2)",
-            "47 (103 is between 4³=64 and 5³=125 -> Tens = 4; Ending 3 maps to 7 -> Units = 7) (32.3) [L32.3] (Task 32.3)",
-            "37 (32.4) [L32.4] (Task 32.4)"
+            "43  (Task 32.1)",
+            "57  (Task 32.2)",
+            "47 (103 is between 4³=64 and 5³=125 -> Tens = 4; Ending 3 maps to 7 -> Units = 7)  (Task 32.3)",
+            "37  (Task 32.4)"
           ],
           "answerIndex": 2,
           "explanation": "103 -> 4; Ending 3 maps to 7 -> 47."
@@ -3415,7 +3515,8 @@
             "All roots are 5"
           ],
           "answerIndex": 1,
-          "explanation": "10-complement pairing for cubes (2<->8, 3<->7)."
+          "explanation": "10-complement pairing for cubes (2<->8, 3<->7).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Extract the cube root of 21,952:",
@@ -3426,7 +3527,8 @@
             "22"
           ],
           "answerIndex": 0,
-          "explanation": "21 -> 2; Ending 2 maps to 8 -> 28."
+          "explanation": "21 -> 2; Ending 2 maps to 8 -> 28.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is exact square root extraction of random numbers more difficult than cube root extraction?",
@@ -3437,7 +3539,8 @@
             "Because square digits repeat in pairs (e.g. both 1² and 9² end in 1; both 2² and 8² end in 4), requiring a secondary bounding test, whereas cube roots have a 100% unique 1-to-1 bijection"
           ],
           "answerIndex": 3,
-          "explanation": "Squares have non-unique endings (1,4,5,6,9,0), while cubes have unique 1-to-1 bijective endings."
+          "explanation": "Squares have non-unique endings (1,4,5,6,9,0), while cubes have unique 1-to-1 bijective endings.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the cube root of 681,472?",
@@ -3448,11 +3551,13 @@
             "82"
           ],
           "answerIndex": 2,
-          "explanation": "681 -> 8; Ending 2 -> 8 -> 88."
+          "explanation": "681 -> 8; Ending 2 -> 8 -> 88.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 2: Foundational & Structural Mastery (Cube root of 175,616: Thousand)"
   },
   "mentalmath-u8-l3": {
     "id": "mentalmath-u8-l3",
@@ -3479,12 +3584,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 33 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Wednesday (3) (33.1) [L33.1] (Focus 33.1)",
-            "Friday (5) (33.2) [L33.2] (Focus 33.2)",
-            "Tuesday (2) (33.3) [L33.3] (Focus 33.3)",
-            "Thursday (4) [(24 + 6 + 2) = 32 = 4 mod 7] (33.4) [L33.4] (Focus 33.4)"
+            "Wednesday (3) (33.1) ",
+            "Friday (5) (33.2) ",
+            "Tuesday (2) (33.3) ",
+            "Thursday (4) [(24 + 6 + 2) = 32 = 4 mod 7] (33.4) "
           ],
           "answerIndex": 3,
           "explanation": "24 + 6 + 2 = 32 = 4 (Thursday)."
@@ -3507,10 +3612,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 33:",
           "options": [
-            "August 8 (8/8) (33.1) [L33.1] (Task 33.1)",
-            "August 15 (33.2) [L33.2] (Task 33.2)",
-            "July 1 (33.3) [L33.3] (Task 33.3)",
-            "October 25 (33.4) [L33.4] (Task 33.4)"
+            "August 8 (8/8)  (Task 33.1)",
+            "August 15  (Task 33.2)",
+            "July 1  (Task 33.3)",
+            "October 25  (Task 33.4)"
           ],
           "answerIndex": 0,
           "explanation": "8/8 is an even-month double-date Doomsday anchor."
@@ -3539,7 +3644,8 @@
             "All are prime numbers"
           ],
           "answerIndex": 0,
-          "explanation": "Doomsday anchor memory system matching."
+          "explanation": "Doomsday anchor memory system matching.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What day of the week will October 10 (10/10), 2025 fall on, given that 2025 Doomsday is Friday (5)?",
@@ -3550,18 +3656,20 @@
             "Friday (10/10 is a Doomsday anchor, so it matches the year's Doomsday directly)"
           ],
           "answerIndex": 3,
-          "explanation": "10/10 is a Doomsday anchor -> Friday."
+          "explanation": "10/10 is a Doomsday anchor -> Friday.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why is the Doomsday Algorithm considered the most elegant calendar calculation method ever developed?",
           "options": [
             "Because it was invented by Isaac Newton",
             "Because it works only on leap years",
-            "Because by establishing a single Doomsday for each year, 12 easy-to-remember dates across all 12 months immediately share that exact same day of the week, reducing calendar calculation to simple mod-7 subtraction (#ScienceOfLearning)",
+            "Because by establishing a single Doomsday for each year, 12 easy-to-remember dates across all 12 months immediately share that exact same day of the week, reducing calendar calculation to simple mod-7 subtraction (deliberate practice)",
             "Because it predicts the end of the world"
           ],
           "answerIndex": 2,
-          "explanation": "12 shared anchor dates eliminate complex multi-month offset tables."
+          "explanation": "12 shared anchor dates eliminate complex multi-month offset tables.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: '0 = Sunday, 1 = Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = _______.'",
@@ -3572,11 +3680,13 @@
             "Sunday again"
           ],
           "answerIndex": 1,
-          "explanation": "6 = Saturday in standard mod-7 day numbering."
+          "explanation": "6 = Saturday in standard mod-7 day numbering.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 3: Foundational & Structural Mastery (October 31, 2024: 2024 Doomsda)"
   },
   "mentalmath-u8-l4": {
     "id": "mentalmath-u8-l4",
@@ -3603,12 +3713,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 34 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "Because it uses quantum mechanics (34.1) [L34.1] (Focus 34.1)",
-            "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out (34.2) [L34.2] (Focus 34.2)",
-            "Because calculators are used (34.3) [L34.3] (Focus 34.3)",
-            "Because all estimates are exactly correct (34.4) [L34.4] (Focus 34.4)"
+            "Because it uses quantum mechanics (34.1) ",
+            "Because independent errors in sub-estimates tend to be log-normally distributed, causing multiplicative overestimates and underestimates to cancel each other out (34.2) ",
+            "Because calculators are used (34.3) ",
+            "Because all estimates are exactly correct (34.4) "
           ],
           "answerIndex": 1,
           "explanation": "Independent multiplicative errors cancel across the geometric mean."
@@ -3631,10 +3741,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 34:",
           "options": [
-            "Approximately 80,000 to 120,000 flights per day (Actual pre-pandemic average: ~100,000/day) (34.1) [L34.1] (Task 34.1)",
-            "500 flights per day (34.2) [L34.2] (Task 34.2)",
-            "5,000 flights per day (34.3) [L34.3] (Task 34.3)",
-            "10 million flights per day (34.4) [L34.4] (Task 34.4)"
+            "Approximately 80,000 to 120,000 flights per day (Actual pre-pandemic average: ~100,000/day)  (Task 34.1)",
+            "500 flights per day  (Task 34.2)",
+            "5,000 flights per day  (Task 34.3)",
+            "10 million flights per day  (Task 34.4)"
           ],
           "answerIndex": 0,
           "explanation": "Decomposing passenger trips yields ~100,000 daily commercial flights."
@@ -3663,18 +3773,20 @@
             "Cars: 10⁶ | Miles/year: 10⁴ (10,000 mi) | MPG: 25 | Total: (10¹⁰ / 25) = 4 × 10⁸ (400M gallons)"
           ],
           "answerIndex": 3,
-          "explanation": "Dimensional estimation chaining."
+          "explanation": "Dimensional estimation chaining.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why do tech giants (Google, Microsoft) and management consultancies (McKinsey, BCG) ask Fermi problems during interviews?",
           "options": [
             "To test typing speed",
             "To check if the candidate has memorized census data",
-            "To evaluate structured algorithmic thinking, comfort with numerical ambiguity, and mental mathematical composure under pressure (#ScienceOfLearning)",
+            "To evaluate structured algorithmic thinking, comfort with numerical ambiguity, and mental mathematical composure under pressure (deliberate practice)",
             "To waste time"
           ],
           "answerIndex": 2,
-          "explanation": "Fermi questions test structured problem-solving under ambiguity."
+          "explanation": "Fermi questions test structured problem-solving under ambiguity.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "How many minutes are in one full 365-day year?",
@@ -3685,7 +3797,8 @@
             "250,000 minutes"
           ],
           "answerIndex": 1,
-          "explanation": "365 × 24 × 60 = 525,600 minutes."
+          "explanation": "365 × 24 × 60 = 525,600 minutes.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete: 'A Fermi problem replaces unknown data with _______.'",
@@ -3696,11 +3809,13 @@
             "blind guessing"
           ],
           "answerIndex": 0,
-          "explanation": "Structured physical bounds and geometric reasoning."
+          "explanation": "Structured physical bounds and geometric reasoning.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 4: Foundational & Structural Mastery (Estimate: Daily coffee cups co)"
   },
   "mentalmath-u8-l5": {
     "id": "mentalmath-u8-l5",
@@ -3727,12 +3842,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 35 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "1,692 (7×6=42 [2, carry 4]; [4×6]+[7×3]+4=49 [9, carry 4]; [4×3]+4=16 -> 1,692) (35.1) [L35.1] (Focus 35.1)",
-            "1,682 (35.2) [L35.2] (Focus 35.2)",
-            "1,702 (35.3) [L35.3] (Focus 35.3)",
-            "1,672 (35.4) [L35.4] (Focus 35.4)"
+            "1,692 (7×6=42 [2, carry 4]; [4×6]+[7×3]+4=49 [9, carry 4]; [4×3]+4=16 -> 1,692) (35.1) ",
+            "1,682 (35.2) ",
+            "1,702 (35.3) ",
+            "1,672 (35.4) "
           ],
           "answerIndex": 0,
           "explanation": "47 × 36 = 1,692."
@@ -3755,10 +3870,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 35:",
           "options": [
-            "6,401 (35.1) [L35.1] (Task 35.1)",
-            "6,391 (80² - 3² = 6400 - 9 = 6,391) (35.2) [L35.2] (Task 35.2)",
-            "6,371 (35.3) [L35.3] (Task 35.3)",
-            "6,381 (35.4) [L35.4] (Task 35.4)"
+            "6,401  (Task 35.1)",
+            "6,391 (80² - 3² = 6400 - 9 = 6,391)  (Task 35.2)",
+            "6,371  (Task 35.3)",
+            "6,381  (Task 35.4)"
           ],
           "answerIndex": 1,
           "explanation": "80² - 3² = 6,391."
@@ -3787,7 +3902,8 @@
             "Drawing math diagrams with a ruler only"
           ],
           "answerIndex": 2,
-          "explanation": "Comprehensive 40-lesson Mental Math mastery certification."
+          "explanation": "Comprehensive 40-lesson Mental Math mastery certification.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Solve Capstone Problem 9: Calculate 68 × 11 mentally:",
@@ -3798,18 +3914,20 @@
             "728"
           ],
           "answerIndex": 1,
-          "explanation": "68 × 11 = 748."
+          "explanation": "68 × 11 = 748.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the primary cognitive superpower gained from completing the Mental Math curriculum?",
           "options": [
-            "Absolute working memory liberation: The ability to process, verify, and manipulate quantitative reality instantly in real time during live negotiations, trading, and engineering (#ScienceOfLearning)",
-            "Winning the lottery",
+            "Absolute working memory liberation: The ability to process, verify, and manipulate quantitative reality instantly in real time during live negotiations, trading, and engineering (deliberate practice)",
+            "Passive unguided repetition",
             "Never needing to sleep again",
             "Reading minds"
           ],
           "answerIndex": 0,
-          "explanation": "Working memory liberation and real-time quantitative intuition."
+          "explanation": "Working memory liberation and real-time quantitative intuition.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Complete the mental math master creed: 'Numbers are not rigid obstacles; they are _______.'",
@@ -3820,11 +3938,13 @@
             "liquid patterns waiting to be recombined"
           ],
           "answerIndex": 3,
-          "explanation": "Numbers are liquid patterns waiting to be recombined."
+          "explanation": "Numbers are liquid patterns waiting to be recombined.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 8, Lesson 5: Foundational & Structural Mastery (Full Capstone Mastery: 10 dive)"
   },
   "mentalmath-u5-l1": {
     "id": "mentalmath-u5-l1",
@@ -3856,12 +3976,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 36 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "(3 x 2) + (2 x 1) = 8 (36.1) [L36.1] (Focus 36.1)",
-            "3 x 2 x 1 = 6 (36.2) [L36.2] (Focus 36.2)",
-            "32 + 21 = 53 (36.3) [L36.3] (Focus 36.3)",
-            "(3 x 1) + (2 x 2) = 3 + 4 = 7 (36.4) [L36.4] (Focus 36.4)"
+            "(3 x 2) + (2 x 1) = 8 (36.1) ",
+            "3 x 2 x 1 = 6 (36.2) ",
+            "32 + 21 = 53 (36.3) ",
+            "(3 x 1) + (2 x 2) = 3 + 4 = 7 (36.4) "
           ],
           "answerIndex": 3,
           "explanation": "Cross-product: outer + inner = (3x1) + (2x2) = 3 + 4 = 7."
@@ -3884,10 +4004,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 36:",
           "options": [
-            "863 (36.1) [L36.1] (Task 36.1)",
-            "923 (36.2) [L36.2] (Task 36.2)",
-            "893 (36.3) [L36.3] (Task 36.3)",
-            "903 (Units: 3; Cross: 4x1 + 3x2 = 10 -> 0, carry 1; Tens: 4x2 + 1 = 9) (36.4) [L36.4] (Task 36.4)"
+            "863  (Task 36.1)",
+            "923  (Task 36.2)",
+            "893  (Task 36.3)",
+            "903 (Units: 3; Cross: 4x1 + 3x2 = 10 -> 0, carry 1; Tens: 4x2 + 1 = 9)  (Task 36.4)"
           ],
           "answerIndex": 3,
           "explanation": "Units: 3; Cross: 10 (0, carry 1); Tens: 8 + 1 = 9 -> 903."
@@ -3916,7 +4036,8 @@
             "1932"
           ],
           "answerIndex": 1,
-          "explanation": "62 x 31 = 1922."
+          "explanation": "62 x 31 = 1922.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Compute 24 x 23 mentally:",
@@ -3927,7 +4048,8 @@
             "542"
           ],
           "answerIndex": 0,
-          "explanation": "24 x 23 = 552."
+          "explanation": "24 x 23 = 552.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What is the primary advantage of the vertical-and-crosswise method over traditional column multiplication?",
@@ -3938,7 +4060,8 @@
             "It calculates the final digits sequentially in working memory without writing intermediate sub-products."
           ],
           "answerIndex": 3,
-          "explanation": "It streams the answer digit by digit in mental memory."
+          "explanation": "It streams the answer digit by digit in mental memory.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Compute 33 x 31 mentally:",
@@ -3949,11 +4072,13 @@
             "993"
           ],
           "answerIndex": 2,
-          "explanation": "33 x 31 = 1023."
+          "explanation": "33 x 31 = 1023.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 5, Lesson 1: Foundational & Structural Mastery (23 x 14 = 322)"
   },
   "mentalmath-u5-l2": {
     "id": "mentalmath-u5-l2",
@@ -3985,12 +4110,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 37 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "11,445 (Left: 105 + 9 = 114; Right: 5 x 9 = 45) (37.1) [L37.1] (Focus 37.1)",
-            "11,545 (37.2) [L37.2] (Focus 37.2)",
-            "11,455 (37.3) [L37.3] (Focus 37.3)",
-            "11,345 (37.4) [L37.4] (Focus 37.4)"
+            "11,445 (Left: 105 + 9 = 114; Right: 5 x 9 = 45) (37.1) ",
+            "11,545 (37.2) ",
+            "11,455 (37.3) ",
+            "11,345 (37.4) "
           ],
           "answerIndex": 0,
           "explanation": "105 + 9 = 114; 5 x 9 = 45 -> 11,445."
@@ -4013,10 +4138,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 37:",
           "options": [
-            "9,560 (37.1) [L37.1] (Task 37.1)",
-            "9,506 (Deficits: -3, -2. Left: 97 - 2 = 95. Right: 3 x 2 = 06) (37.2) [L37.2] (Task 37.2)",
-            "9,406 (37.3) [L37.3] (Task 37.3)",
-            "9,516 (37.4) [L37.4] (Task 37.4)"
+            "9,560  (Task 37.1)",
+            "9,506 (Deficits: -3, -2. Left: 97 - 2 = 95. Right: 3 x 2 = 06)  (Task 37.2)",
+            "9,406  (Task 37.3)",
+            "9,516  (Task 37.4)"
           ],
           "answerIndex": 1,
           "explanation": "97 - 2 = 95; 3 x 2 = 06 (must be 2 digits) -> 9,506."
@@ -4045,7 +4170,8 @@
             "8,928"
           ],
           "answerIndex": 0,
-          "explanation": "91 - 2 = 89; 9 x 2 = 18 -> 8,918."
+          "explanation": "91 - 2 = 89; 9 x 2 = 18 -> 8,918.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 108 x 112 mentally:",
@@ -4056,7 +4182,8 @@
             "12,096 (Surpluses: +8, +12. Left: 108 + 12 = 120. Right: 8 x 12 = 96)"
           ],
           "answerIndex": 3,
-          "explanation": "108 + 12 = 120; 8 x 12 = 96 -> 12,096."
+          "explanation": "108 + 12 = 120; 8 x 12 = 96 -> 12,096.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What must you do if the right-hand product of deficits is a single digit (e.g. 1 x 4 = 4)?",
@@ -4067,7 +4194,8 @@
             "Add 10 to it"
           ],
           "answerIndex": 2,
-          "explanation": "Because base 100 has two zeros, the right part must always occupy two decimal places (e.g. 04)."
+          "explanation": "Because base 100 has two zeros, the right part must always occupy two decimal places (e.g. 04).",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 99 x 99 mentally:",
@@ -4078,11 +4206,13 @@
             "9,811"
           ],
           "answerIndex": 1,
-          "explanation": "99 - 1 = 98; 1 x 1 = 01 -> 9,801."
+          "explanation": "99 - 1 = 98; 1 x 1 = 01 -> 9,801.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 5, Lesson 2: Foundational & Structural Mastery (103 x 108 = 11,124)"
   },
   "mentalmath-u5-l3": {
     "id": "mentalmath-u5-l3",
@@ -4114,12 +4244,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 38 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "2,015 (38.1) [L38.1] (Focus 38.1)",
-            "2,125 (38.2) [L38.2] (Focus 38.2)",
-            "1,825 (38.3) [L38.3] (Focus 38.3)",
-            "2,025 (4 x 5 = 20, attach 25) (38.4) [L38.4] (Focus 38.4)"
+            "2,015 (38.1) ",
+            "2,125 (38.2) ",
+            "1,825 (38.3) ",
+            "2,025 (4 x 5 = 20, attach 25) (38.4) "
           ],
           "answerIndex": 3,
           "explanation": "4 x 5 = 20 -> 2,025."
@@ -4142,10 +4272,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 38:",
           "options": [
-            "7,225 (8 x 9 = 72, append 25) (38.1) [L38.1] (Task 38.1)",
-            "7,215 (38.2) [L38.2] (Task 38.2)",
-            "7,125 (38.3) [L38.3] (Task 38.3)",
-            "7,325 (38.4) [L38.4] (Task 38.4)"
+            "7,225 (8 x 9 = 72, append 25)  (Task 38.1)",
+            "7,215  (Task 38.2)",
+            "7,125  (Task 38.3)",
+            "7,325  (Task 38.4)"
           ],
           "answerIndex": 0,
           "explanation": "8 x 9 = 72 -> 7,225."
@@ -4174,7 +4304,8 @@
             "11,025 (10 x 11 = 110, attach 25)"
           ],
           "answerIndex": 3,
-          "explanation": "10 x 11 = 110 -> 11,025."
+          "explanation": "10 x 11 = 110 -> 11,025.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 77 x 83 using difference of squares around 80:",
@@ -4185,7 +4316,8 @@
             "6,409"
           ],
           "answerIndex": 2,
-          "explanation": "80² - 3² = 6400 - 9 = 6,391."
+          "explanation": "80² - 3² = 6400 - 9 = 6,391.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Why does (N5)² always end in 25?",
@@ -4196,7 +4328,8 @@
             "Because all odd squares end in 25."
           ],
           "answerIndex": 1,
-          "explanation": "Exact algebraic expansion proves the tens and units digits are identically 25."
+          "explanation": "Exact algebraic expansion proves the tens and units digits are identically 25.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 19 x 21 mentally:",
@@ -4207,11 +4340,13 @@
             "401"
           ],
           "answerIndex": 0,
-          "explanation": "20² - 1² = 400 - 1 = 399."
+          "explanation": "20² - 1² = 400 - 1 = 399.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 5, Lesson 3: Foundational & Structural Mastery (75² = 5,625)"
   },
   "mentalmath-u5-l4": {
     "id": "mentalmath-u5-l4",
@@ -4243,12 +4378,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 39 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "692 (39.1) [L39.1] (Focus 39.1)",
-            "682 (Split 6 and 2; Middle: 6 + 2 = 8) (39.2) [L39.2] (Focus 39.2)",
-            "662 (39.3) [L39.3] (Focus 39.3)",
-            "672 (39.4) [L39.4] (Focus 39.4)"
+            "692 (39.1) ",
+            "682 (Split 6 and 2; Middle: 6 + 2 = 8) (39.2) ",
+            "662 (39.3) ",
+            "672 (39.4) "
           ],
           "answerIndex": 1,
           "explanation": "6 _ 2 with 6+2=8 in middle -> 682."
@@ -4271,10 +4406,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 39:",
           "options": [
-            "1,034 (9+4=13 -> 4 at end, 3 in middle, 9+1=10 at front) (39.1) [L39.1] (Task 39.1)",
-            "1,024 (39.2) [L39.2] (Task 39.2)",
-            "1,044 (39.3) [L39.3] (Task 39.3)",
-            "934 (39.4) [L39.4] (Task 39.4)"
+            "1,034 (9+4=13 -> 4 at end, 3 in middle, 9+1=10 at front)  (Task 39.1)",
+            "1,024  (Task 39.2)",
+            "1,044  (Task 39.3)",
+            "934  (Task 39.4)"
           ],
           "answerIndex": 0,
           "explanation": "9 + 4 = 13 -> 1,034."
@@ -4303,7 +4438,8 @@
             "947"
           ],
           "answerIndex": 2,
-          "explanation": "87 x 11 = 957."
+          "explanation": "87 x 11 = 957.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 36 x 205 mentally:",
@@ -4314,7 +4450,8 @@
             "7,480"
           ],
           "answerIndex": 1,
-          "explanation": "7200 + 180 = 7,380."
+          "explanation": "7200 + 180 = 7,380.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 44 x 11 mentally:",
@@ -4325,7 +4462,8 @@
             "464"
           ],
           "answerIndex": 0,
-          "explanation": "44 x 11 = 484."
+          "explanation": "44 x 11 = 484.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "How do you multiply 234 x 11 using the neighbor addition rule?",
@@ -4336,11 +4474,13 @@
             "2,574 (Right: 4; 4+3=7; 3+2=5; Left: 2)"
           ],
           "answerIndex": 3,
-          "explanation": "Units 4, 3+4=7, 2+3=5, Lead 2 -> 2,574."
+          "explanation": "Units 4, 3+4=7, 2+3=5, Lead 2 -> 2,574.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 5, Lesson 4: Foundational & Structural Mastery (63 x 11 = 693)"
   },
   "mentalmath-u5-l5": {
     "id": "mentalmath-u5-l5",
@@ -4377,12 +4517,12 @@
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Apply the core technique of Lesson 40 to solve this challenge:",
+          "prompt": "Select the most accurate strategic application to solve this challenge:",
           "options": [
-            "N(N+1)|25 (7 x 8 = 56 -> 5,625) (40.1) [L40.1] (Focus 40.1)",
-            "Criss-cross multiplication (40.2) [L40.2] (Focus 40.2)",
-            "Long division (40.3) [L40.3] (Focus 40.3)",
-            "Repeated addition 75 times (40.4) [L40.4] (Focus 40.4)"
+            "N(N+1)|25 (7 x 8 = 56 -> 5,625) (40.1) ",
+            "Criss-cross multiplication (40.2) ",
+            "Long division (40.3) ",
+            "Repeated addition 75 times (40.4) "
           ],
           "answerIndex": 0,
           "explanation": "N(N+1)|25 gives the answer in under 1 second."
@@ -4405,10 +4545,10 @@
         {
           "prompt": "Synthesize an independent solution demonstrating mastery of Lesson 40:",
           "options": [
-            "4,125 (40.1) [L40.1] (Task 40.1)",
-            "4,225 (6 x 7 = 42, attach 25) (40.2) [L40.2] (Task 40.2)",
-            "4,325 (40.3) [L40.3] (Task 40.3)",
-            "4,215 (40.4) [L40.4] (Task 40.4)"
+            "4,125  (Task 40.1)",
+            "4,225 (6 x 7 = 42, attach 25)  (Task 40.2)",
+            "4,325  (Task 40.3)",
+            "4,215  (Task 40.4)"
           ],
           "answerIndex": 1,
           "explanation": "6 x 7 = 42 -> 4,225."
@@ -4437,7 +4577,8 @@
             "1,013"
           ],
           "answerIndex": 1,
-          "explanation": "93 x 11 = 1,023."
+          "explanation": "93 x 11 = 1,023.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 95 x 98 mentally:",
@@ -4448,7 +4589,8 @@
             "9,410"
           ],
           "answerIndex": 0,
-          "explanation": "95 - 2 = 93; 5 x 2 = 10 -> 9,310."
+          "explanation": "95 - 2 = 93; 5 x 2 = 10 -> 9,310.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "Calculate 25² mentally:",
@@ -4459,7 +4601,8 @@
             "625 (2 x 3 = 6, attach 25)"
           ],
           "answerIndex": 3,
-          "explanation": "2 x 3 = 6 -> 625."
+          "explanation": "2 x 3 = 6 -> 625.",
+          "type": "multiple-choice"
         },
         {
           "prompt": "What core speed multiplication competencies were mastered across Unit 5 in Mental Math?",
@@ -4470,18 +4613,16 @@
             "Basic counting to ten only"
           ],
           "answerIndex": 2,
-          "explanation": "Unit 5 complete advanced two-digit mental multiplication mastery."
+          "explanation": "Unit 5 complete advanced two-digit mental multiplication mastery.",
+          "type": "multiple-choice"
         }
       ],
       "passThreshold": 0.8
-    }
+    },
+    "title": "Unit 5, Lesson 5: Foundational & Structural Mastery (55² = 3,025)"
   }
 };
-  var CURRICULUM = {
-    subject: 'mentalmath',
-    units: UNITS,
-    lessons: LESSONS
-  };
+  var CURRICULUM = { id: 'mentalmath', name: "mentalmath", units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['mentalmath'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

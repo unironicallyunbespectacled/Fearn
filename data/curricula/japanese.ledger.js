@@ -3,7 +3,7 @@
   'use strict';
   var LEDGER = {
   "subject": "japanese",
-  "fullRoadmapLength": 170,
+  "fullRoadmapLength": 175,
   "authoredInFull": [
     "ja-u1-l1",
     "ja-u1-l2",
@@ -174,7 +174,12 @@
     "ja-u34-l2",
     "ja-u34-l3",
     "ja-u34-l4",
-    "ja-u34-l5"
+    "ja-u34-l5",
+    "ja-u35-l1",
+    "ja-u35-l2",
+    "ja-u35-l3",
+    "ja-u35-l4",
+    "ja-u35-l5"
   ],
   "stubOnly": [],
   "lastCompletedLessonId": null,
