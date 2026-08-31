@@ -4768,6 +4768,306 @@
       "definition": "Structured formal evaluation assessing goal completion, core competencies, and multi-peer reviews",
       "category": "Human Resources",
       "level": "B2 / C1"
+    },
+    {
+      "term": "Serendipity",
+      "pronunciation": "/ˌsɛr.ənˈdɪp.ɪ.ti/",
+      "partOfSpeech": "Noun",
+      "definition": "The occurrence and development of events by chance in a happy, fortunate, or beneficially unexpected way.",
+      "category": "Advanced Vocabulary",
+      "level": "C1 / Advanced",
+      "examples": [
+        {
+          "target": "The discovery of penicillin by Alexander Fleming was one of the most famous instances of serendipity in medical history.",
+          "translation": "亚历山大·弗莱明发现青霉素是医学史上最著名的偶然幸运发现之一。"
+        },
+        {
+          "target": "A fortunate serendipity brought the two researchers together at the international symposium.",
+          "translation": "一次幸运的机缘巧合让两位研究人员在国际研讨会上相聚。"
+        }
+      ],
+      "synonyms": [
+        "Fluke",
+        "Fortuity",
+        "Happy accident",
+        "Providence"
+      ],
+      "antonyms": [
+        "Misfortune",
+        "Calculated design"
+      ],
+      "register": "Formal / Literary",
+      "notes": "Coined by Horace Walpole in 1754 from the Persian fairy tale \"The Three Princes of Serendip\"."
+    },
+    {
+      "term": "Resilience",
+      "pronunciation": "/rɪˈzɪl.jəns/",
+      "partOfSpeech": "Noun",
+      "definition": "1. The capacity to withstand or to recover quickly from difficulties, crisis, trauma, or stress. 2. In materials science: the ability of a substance or object to spring back into shape after elasticity deformation.",
+      "category": "Psychology & Materials",
+      "level": "B2 / Intermediate",
+      "examples": [
+        {
+          "target": "The local community demonstrated remarkable resilience and solidarity following the devastating earthquake.",
+          "translation": "在发生毁灭性地震后，当地社区展现了卓越的韧性与团结。"
+        },
+        {
+          "target": "Developing psychological resilience enables individuals to navigate complex professional setbacks.",
+          "translation": "培养心理韧性使个人能够应对复杂的职业挫折。"
+        }
+      ],
+      "synonyms": [
+        "Fortitude",
+        "Tenacity",
+        "Elasticity",
+        "Toughness"
+      ],
+      "antonyms": [
+        "Fragility",
+        "Vulnerability",
+        "Brittleness"
+      ],
+      "register": "General / Academic"
+    },
+    {
+      "term": "Eloquent",
+      "pronunciation": "/ˈɛl.ə.kwənt/",
+      "partOfSpeech": "Adjective",
+      "definition": "Fluent or persuasive in speaking or writing; clearly expressing or indicating profound feeling, aesthetic harmony, or rhetorical force.",
+      "category": "Rhetoric & Literature",
+      "level": "B2 / Upper-Intermediate",
+      "examples": [
+        {
+          "target": "Her eloquent defense of human rights moved the entire delegation to a standing ovation.",
+          "translation": "她对人权雄辩有力的捍卫使全体代表团起立鼓掌。"
+        },
+        {
+          "target": "The ruins stood as an eloquent testimony to the ancient empire's architectural prowess.",
+          "translation": "这些废墟生动而雄辩地证明了古代帝国的建筑实力。"
+        }
+      ],
+      "synonyms": [
+        "Articulate",
+        "Persuasive",
+        "Expressive",
+        "Silver-tongued"
+      ],
+      "antonyms": [
+        "Inarticulate",
+        "Hesitant",
+        "Tongue-tied"
+      ],
+      "register": "Formal / Literary"
+    },
+    {
+      "term": "Paradigm",
+      "pronunciation": "/ˈpær.ə.daɪm/",
+      "partOfSpeech": "Noun",
+      "definition": "1. A typical example or pattern of something; a model. 2. In philosophy/science: a distinct set of concepts or thought patterns, including theories, research methods, and standards for what constitutes legitimate contributions to a field (Kuhnian paradigm).",
+      "category": "Philosophy & Science",
+      "level": "C1 / Advanced",
+      "examples": [
+        {
+          "target": "The emergence of quantum mechanics triggered a fundamental paradigm shift in modern theoretical physics.",
+          "translation": "量子力学的出现引发了现代范式理论物理学的根本转变。"
+        },
+        {
+          "target": "This company serves as a paradigm of sustainable corporate social responsibility.",
+          "translation": "这家公司堪称可持续企业社会责任的典范。"
+        }
+      ],
+      "synonyms": [
+        "Archetype",
+        "Prototype",
+        "Framework",
+        "Standard model"
+      ],
+      "register": "Academic / Formal"
+    },
+    {
+      "term": "Ephemeral",
+      "pronunciation": "/ɪˈfɛm.ər.əl/",
+      "partOfSpeech": "Adjective",
+      "definition": "Lasting for a very short time; transitory, fleeting, momentary.",
+      "category": "Philosophy & Poetry",
+      "level": "C1 / Advanced",
+      "examples": [
+        {
+          "target": "Cherry blossoms possess an ephemeral beauty that captivates observers precisely because it vanishes so quickly.",
+          "translation": "樱花具有一种转瞬即逝的美丽，正是因为其凋零之迅速而深深吸引着观赏者。"
+        },
+        {
+          "target": "Fame in the digital age is often ephemeral and easily overshadowed by the next viral trend.",
+          "translation": "数字时代的声名往往如过眼云烟，极易被下一个热点趋势所掩盖。"
+        }
+      ],
+      "synonyms": [
+        "Transient",
+        "Fleeting",
+        "Evanescent",
+        "Momentary"
+      ],
+      "antonyms": [
+        "Permanent",
+        "Eternal",
+        "Perpetual",
+        "Enduring"
+      ],
+      "register": "Literary / Academic"
+    },
+    {
+      "term": "Pragmatic",
+      "pronunciation": "/præɡˈmæt.ɪk/",
+      "partOfSpeech": "Adjective",
+      "definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical or ideological considerations.",
+      "category": "Philosophy & Politics",
+      "level": "B2 / Upper-Intermediate",
+      "examples": [
+        {
+          "target": "The diplomats adopted a pragmatic approach to resolve the protracted border dispute peacefully.",
+          "translation": "外交官们采取务实的方法和平解决了旷日持久的边界争端。"
+        },
+        {
+          "target": "We require pragmatic solutions that can be implemented immediately within our budgetary constraints.",
+          "translation": "我们需要能够在预算限制内立即实施的务实解决方案。"
+        }
+      ],
+      "synonyms": [
+        "Practical",
+        "Utilitarian",
+        "Sensible",
+        "Hard-headed"
+      ],
+      "antonyms": [
+        "Idealistic",
+        "Impractical",
+        "Dogmatic",
+        "Theoretical"
+      ],
+      "register": "General / Business"
+    },
+    {
+      "term": "Cognizant",
+      "pronunciation": "/ˈkɒɡ.nɪ.zənt/",
+      "partOfSpeech": "Adjective",
+      "definition": "Having knowledge or being fully aware of; conscious and mindful of circumstances.",
+      "category": "Formal Vocabulary",
+      "level": "C1 / Advanced",
+      "examples": [
+        {
+          "target": "Leaders must remain cognizant of the societal ramifications of rapid artificial intelligence deployment.",
+          "translation": "领导者必须清醒认识到快速部署人工智能带来的社会影响。"
+        },
+        {
+          "target": "Cognizant of the approaching storm, the mountaineers decided to descend to base camp.",
+          "translation": "意识到风暴即将来临，登山队员们决定撤回大本营。"
+        }
+      ],
+      "synonyms": [
+        "Conscious",
+        "Mindful",
+        "Aware",
+        "Apprised"
+      ],
+      "antonyms": [
+        "Oblivious",
+        "Unaware",
+        "Ignorant",
+        "Unconscious"
+      ],
+      "register": "Formal / Legal"
+    },
+    {
+      "term": "Empathy",
+      "pronunciation": "/ˈɛm.pə.θi/",
+      "partOfSpeech": "Noun",
+      "definition": "The psychological ability to understand, share, and vicariously experience the feelings, thoughts, and perspectives of another person.",
+      "category": "Psychology & Ethics",
+      "level": "B1 / Intermediate",
+      "examples": [
+        {
+          "target": "Effective clinical care requires not only technical proficiency but also genuine empathy for patients.",
+          "translation": "有效的临床医疗不仅需要精湛的技术，还需要对患者真诚的同理心。"
+        },
+        {
+          "target": "Literature fosters cross-cultural empathy by allowing readers to inhabit lives vastly different from their own.",
+          "translation": "文学通过让读者体验与自身截然不同的生活，促进了跨文化的同理心。"
+        }
+      ],
+      "synonyms": [
+        "Compassion",
+        "Understanding",
+        "Fellow-feeling",
+        "Vicarious sympathy"
+      ],
+      "antonyms": [
+        "Apathy",
+        "Callousness",
+        "Indifference"
+      ],
+      "register": "General / Psychological"
+    },
+    {
+      "term": "Meticulous",
+      "pronunciation": "/mɪˈtɪk.jʊ.ləs/",
+      "partOfSpeech": "Adjective",
+      "definition": "Showing great attention to detail; very careful, thorough, and precise.",
+      "category": "Character & Methodology",
+      "level": "B2 / Upper-Intermediate",
+      "examples": [
+        {
+          "target": "Through meticulous archival research, the historian uncovered previously lost diplomatic correspondence.",
+          "translation": "通过细致入微的档案研究，这位历史学家发现了此前佚失的外交信函。"
+        },
+        {
+          "target": "The watchmaker assembled the delicate chronometer with meticulous precision.",
+          "translation": "制表师以一丝不苟的精确度组装了精密的天文台表。"
+        }
+      ],
+      "synonyms": [
+        "Scrupulous",
+        "Painstaking",
+        "Punctilious",
+        "Methodical"
+      ],
+      "antonyms": [
+        "Careless",
+        "Sloppy",
+        "Slapdash",
+        "Negligent"
+      ],
+      "register": "Formal / General"
+    },
+    {
+      "term": "Ubiquitous",
+      "pronunciation": "/juːˈbɪk.wɪ.təs/",
+      "partOfSpeech": "Adjective",
+      "definition": "Present, appearing, or found everywhere simultaneously; omnipresent.",
+      "category": "Advanced Vocabulary",
+      "level": "C1 / Advanced",
+      "examples": [
+        {
+          "target": "Smartphones and high-speed mobile connectivity have become ubiquitous across modern urban centers.",
+          "translation": "智能手机和高速移动连接在现代城市中心已变得无处不在。"
+        },
+        {
+          "target": "The ubiquitous presence of microplastics in marine ecosystems poses grave ecological threats.",
+          "translation": "微塑料在海洋生态系统中无孔不入的存在构成了严峻的生态威胁。"
+        }
+      ],
+      "synonyms": [
+        "Omnipresent",
+        "Pervasive",
+        "Universal",
+        "Everywhere"
+      ],
+      "antonyms": [
+        "Rare",
+        "Scarce",
+        "Localized",
+        "Infrequent"
+      ],
+      "register": "Academic / Formal"
     }
   ],
   "arabic": [
