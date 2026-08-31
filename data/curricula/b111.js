@@ -1117,7 +1117,7 @@
             "EBITDA"
           ],
           "answerIndex": 0,
-          "explanation": "NOPAT.",
+          "explanation": "Correct answer: \"NOPAT\". This directly applies the principle of: Free Cash Flow to Firm (FCFF) vs Free Cash Flow to Equity (FCFE): Mathematical Formulations (Derivation of Unlevered FCFF: $\\text{FCFF} = \\text{EBIT}(1 - T_c) + \\text{D\\&A} - \\text{CapEx} - \\Delta\\text{NWC}$; Derivation of Levered FCFE: $\\text{FCFE} = \\text{Net Income} + \\text{D\\&A} - \\text{CapEx} - \\Delta\\text{NWC} + \\text{Net Borrowing}$; Matching cash flows to appropriate discount rates (FCFF with WACC $\\implies$ Enterprise Value; FCFE with $r_e \\implies$ Equity Value))..",
           "type": "multiple-choice"
         }
       ],
@@ -1485,7 +1485,7 @@
             "Vega"
           ],
           "answerIndex": 0,
-          "explanation": "Gamma."
+          "explanation": "Correct answer: \"Gamma\". This directly applies the principle of: The Black-Scholes-Merton Model & Greek Sensitivities (Black-Scholes-Merton PDE under Geometric Brownian Motion; Closed-form call $C = S_0 N(d_1) - K e^{-rT} N(d_2)$ and put $P = K e^{-rT} N(-d_2) - S_0 N(-d_1)$; The Option Greeks: Delta $\\Delta$, Gamma $\\Gamma$, Theta $\\Theta$, Vega $\\mathcal{V}$, and Rho $\\rho$; Dynamic Delta Hedging).."
         }
       ]
     },
@@ -1567,7 +1567,7 @@
             "Vega"
           ],
           "answerIndex": 3,
-          "explanation": "Vega (V)."
+          "explanation": "Correct answer: \"Vega\". This directly applies the principle of: The Implied Volatility Surface, Volatility Smiles & Numerical Root-Finding (Newton-Raphson inversion of Black-Scholes formula $\\sigma_{n+1} = \\sigma_n - \\frac{C_{\\text{BS}}(\\sigma_n) - C_{\\text{market}}}{\\mathcal{V}(\\sigma_n)}$; Volatility Smile and Skew across strike prices; Term structure of volatility; Fat tails and jump diffusion models).."
         }
       ]
     },

@@ -9194,7 +9194,7 @@
             "MoMA"
           ],
           "answerIndex": 0,
-          "explanation": "MASP."
+          "explanation": "Correct answer: \"MASP\". This directly applies the principle of: Gêneros musicais brasileiros (Samba, Bossa Nova, MPB, Forró, Funk), museus e festivais.."
         }
       ]
     },
@@ -9768,7 +9768,7 @@
             "IBAMA"
           ],
           "answerIndex": 2,
-          "explanation": "ANAC."
+          "explanation": "Correct answer: \"ANAC\". This directly applies the principle of: Lidar com imprevistos de viagem no Brasil: extravio de bagagem (RIB), cancelamento de voos (ANAC), seguro-viagem e segurança.."
         }
       ]
     },
@@ -9865,7 +9865,7 @@
             "O salto alto"
           ],
           "answerIndex": 2,
-          "explanation": "O tênis.",
+          "explanation": "Correct answer: \"O tênis\". This directly applies the principle of: Vocabulário de roupas, calçados, moda brasileira, tamanhos e tecidos (Shopping em São Paulo e no Rio)..",
           "type": "multiple-choice"
         },
         {
@@ -10000,7 +10000,7 @@
             "Troca de moedas antigas"
           ],
           "answerIndex": 1,
-          "explanation": "O Pix."
+          "explanation": "Correct answer: \"O Pix\". This directly applies the principle of: Liquidações no Brasil, parcelamento sem juros no cartão de crédito, pagamento instantâneo via Pix e nota fiscal.."
         }
       ]
     },
@@ -10358,7 +10358,7 @@
             "No meio do inverno gelado"
           ],
           "answerIndex": 0,
-          "explanation": "No verão.",
+          "explanation": "Correct answer: \"No auge do verão\". This directly applies the principle of: As estações do ano no Brasil, a temporada de praias no verão e o inverno com geada na Serra Gaúcha..",
           "type": "multiple-choice"
         },
         {
@@ -10522,7 +10522,7 @@
             "192"
           ],
           "answerIndex": 2,
-          "explanation": "40199.",
+          "explanation": "Correct answer: \"40199\". This directly applies the principle of: Alertas da Defesa Civil, monitoramento pelo INMET/CEMADEN, chuvas torrenciais, alagamentos e segurança..",
           "type": "multiple-choice"
         },
         {
@@ -10768,7 +10768,7 @@
             "A bula do remédio"
           ],
           "answerIndex": 3,
-          "explanation": "A bula.",
+          "explanation": "Correct answer: \"A bula do remédio\". This directly applies the principle of: A farmácia no Brasil (Droga Raia, Drogasil), remédios com e sem receita, genéricos e a bula..",
           "type": "multiple-choice"
         },
         {
@@ -10835,7 +10835,7 @@
             "Bancos estaduais (O SAMU 192)"
           ],
           "answerIndex": 0,
-          "explanation": "UPAs 24h."
+          "explanation": "Correct answer: \"UPAs (O SAMU 192)\". This directly applies the principle of: O SAMU (192), emergências médicas (193 Bombeiros), UPA 24h e a magnitude do SUS (Sistema Único de Saúde).."
         }
       ]
     },
@@ -10850,7 +10850,7 @@
             "NASA (O SAMU 192)"
           ],
           "answerIndex": 2,
-          "explanation": "SUS.",
+          "explanation": "Correct answer: \"SUS (O SAMU 192)\". This directly applies the principle of: O SAMU (192), emergências médicas (193 Bombeiros), UPA 24h e a magnitude do SUS (Sistema Único de Saúde)..",
           "type": "multiple-choice"
         },
         {
@@ -10917,7 +10917,7 @@
             "A maçã comum"
           ],
           "answerIndex": 0,
-          "explanation": "O açaí."
+          "explanation": "Correct answer: \"O açaí\". This directly applies the principle of: Cultura fitness brasileira, açaí, água de coco na praia, caminhadas no calçadão e bem-estar ao ar livre.."
         }
       ]
     },
@@ -11066,7 +11066,7 @@
             "IPTU"
           ],
           "answerIndex": 3,
-          "explanation": "IPTU."
+          "explanation": "Correct answer: \"IPTU\". This directly applies the principle of: Aluguel de imóveis no Brasil (QuintoAndar, Zap Imóveis), Lei do Inquilinato, caução, seguro-fiança, condomínio e IPTU.."
         }
       ]
     },
@@ -11327,7 +11327,7 @@
             "Tijolos maciços escuros"
           ],
           "answerIndex": 0,
-          "explanation": "Cobogós."
+          "explanation": "Correct answer: \"Cobogós\". This directly applies the principle of: Arquitetura modernista brasileira: Oscar Niemeyer, Lúcio Costa e Brasília (Patrimônio UNESCO), cobogós, pilotis e azulejos de Athos Bulcão.."
         }
       ]
     },
@@ -11722,7 +11722,7 @@
             "Banco Postal"
           ],
           "answerIndex": 1,
-          "explanation": "Nubank."
+          "explanation": "Correct answer: \"Nubank\". This directly applies the principle of: O ecossistema de startups e tecnologia no Brasil: Nubank, iFood, QuintoAndar, Gympass (Wellhub), o Pix como revolução financeira e a Avenida Faria Lima.."
         }
       ]
     },
@@ -11737,7 +11737,7 @@
             "O cheque em papel"
           ],
           "answerIndex": 1,
-          "explanation": "O Pix."
+          "explanation": "Correct answer: \"O Pix\". This directly applies the principle of: O ecossistema de startups e tecnologia no Brasil: Nubank, iFood, QuintoAndar, Gympass (Wellhub), o Pix como revolução financeira e a Avenida Faria Lima.."
         }
       ]
     },
@@ -11834,7 +11834,7 @@
             "A gráfica municipal"
           ],
           "answerIndex": 2,
-          "explanation": "A WEG.",
+          "explanation": "Correct answer: \"A WEG\". This directly applies the principle of: Grandes gigantes corporativos globais do Brasil: Embraer (3ª maior fabricante de jatos comerciais do mundo), Petrobras (Pré-Sal), Vale e WEG..",
           "type": "multiple-choice"
         },
         {
@@ -11901,7 +11901,7 @@
             "INPE"
           ],
           "answerIndex": 3,
-          "explanation": "INPE."
+          "explanation": "Correct answer: \"INPE\". This directly applies the principle of: The Amazon Biome, flying rivers, biodiversity hotspots, and satellite monitoring (Amazônia, rios voadores, biomas brasileiros, Cerrado, PRODES/DETER no INPE).."
         }
       ]
     },
@@ -12065,7 +12065,7 @@
             "O Avestruz"
           ],
           "answerIndex": 0,
-          "explanation": "O Tuiuiú."
+          "explanation": "Correct answer: \"O Tuiuiú\". This directly applies the principle of: The Pantanal wetland biome: Wildlife paradise, hyacinth macaws, capybaras, and fire conservation challenges (o Pantanal, maior planície alagável, arara-azul, capivara, onça-pintada, conservação).."
         }
       ]
     },
@@ -12147,7 +12147,7 @@
             "O Trigo"
           ],
           "answerIndex": 1,
-          "explanation": "O Açaí."
+          "explanation": "Correct answer: \"O Açaí\". This directly applies the principle of: Agroforestry systems (SAFs), regenerative agriculture, açai and bioeconomy in the Amazon (Sistemas Agroflorestais - SAFs, Ernst Götsch e agricultura sintrópica, bioeconomia da sociobiodiversidade, açaí sustentável).."
         }
       ]
     },
@@ -12393,7 +12393,7 @@
             "Embraer"
           ],
           "answerIndex": 0,
-          "explanation": "Fiocruz."
+          "explanation": "Correct answer: \"Fiocruz\". This directly applies the principle of: World-renowned biomedical institutes: Fiocruz and Instituto Butantan (Fundação Oswaldo Cruz - Fiocruz, Instituto Butantan, soros antiofídicos de Vital Brazil, produção de vacinas).."
         }
       ]
     },
@@ -12557,7 +12557,7 @@
             "A ANATEL"
           ],
           "answerIndex": 1,
-          "explanation": "O PNI."
+          "explanation": "Correct answer: \"O PNI\". This directly applies the principle of: Universal National Immunization Program (PNI), Zé Gotinha, and anti-vaccine hesitancy campaigns (Programa Nacional de Imunizações - PNI, Zé Gotinha, erradicação da poliomielite, campanhas de vacinação em massa).."
         }
       ]
     },
@@ -12584,7 +12584,7 @@
             "2020"
           ],
           "answerIndex": 0,
-          "explanation": "1989.",
+          "explanation": "Correct answer: \"1989\". This directly applies the principle of: Universal National Immunization Program (PNI), Zé Gotinha, and anti-vaccine hesitancy campaigns (Programa Nacional de Imunizações - PNI, Zé Gotinha, erradicação da poliomielite, campanhas de vacinação em massa)..",
           "type": "multiple-choice"
         }
       ],
@@ -12666,7 +12666,7 @@
             "CNPEM (C2 synthesis on the Health EconomicIndustrial Complex CEIS)"
           ],
           "answerIndex": 3,
-          "explanation": "CNPEM.",
+          "explanation": "Correct answer: \"CNPEM (C2 synthesis on the Health EconomicIndustrial Complex CEIS)\". This directly applies the principle of: C2 synthesis on the Health Economic-Industrial Complex (CEIS), Sirius synchrotron biosciences, and pharmaceutical sovereignty (Complexo Econômico-Industrial da Saúde - CEIS, acelerador Sirius no CNPEM, soberania farmacêutica)..",
           "type": "multiple-choice"
         }
       ],
@@ -12748,7 +12748,7 @@
             "Joca Ramiro"
           ],
           "answerIndex": 2,
-          "explanation": "Diadorim.",
+          "explanation": "Correct answer: \"Diadorim\". This directly applies the principle of: The Metaphysics of the Sertão: Guimarães Rosa and Grande Sertão: Veredas (João Guimarães Rosa - Grande Sertão: Veredas, Riobaldo e Diadorim, o pacto com o Diabo, neologismos linguísticos, «Viver é muito perigoso»)..",
           "type": "multiple-choice"
         }
       ],
@@ -12803,7 +12803,7 @@
             "Gabriela"
           ],
           "answerIndex": 0,
-          "explanation": "Macabéa."
+          "explanation": "Correct answer: \"Macabéa\". This directly applies the principle of: Existential Epiphany & The Foreign Soul: Clarice Lispector and the limits of language (Clarice Lispector - A Paixão segundo G.H. e A Hora da Estrela, a epifania mística da barata, a neutra matéria viva, Macabéa).."
         }
       ]
     },
@@ -12912,7 +12912,7 @@
             "Recife"
           ],
           "answerIndex": 0,
-          "explanation": "Angicos.",
+          "explanation": "Correct answer: \"Angicos\". This directly applies the principle of: Critical Consciousness & Pedagogy of the Oppressed: Paulo Freire and dialogic liberation (Paulo Freire - Pedagogia do Oprimido, conscientização, educação bancária versus educação problematizadora, o diálogo libertador)..",
           "type": "multiple-choice"
         }
       ],
@@ -13240,7 +13240,7 @@
             "1960"
           ],
           "answerIndex": 0,
-          "explanation": "1987.",
+          "explanation": "Correct answer: \"1987\". This directly applies the principle of: Pilot Plan Urbanism: Lúcio Costa and the Airplane City (Lúcio Costa - Plano Piloto de Brasília, Eixo Monumental e Eixo Rodoviário, Superquadras com pilotis, patrimônio urbanístico modernista)..",
           "type": "multiple-choice"
         }
       ],
@@ -13978,7 +13978,7 @@
             "Eldorado"
           ],
           "answerIndex": 3,
-          "explanation": "Eldorado.",
+          "explanation": "Correct answer: \"Eldorado\". This directly applies the principle of: Cinema Novo & The Aesthetics of Hunger: Glauber Rocha (Glauber Rocha - Cinema Novo, «Uma câmera na mão e uma ideia na cabeça», Deus e o Diabo na Terra do Sol 1964, Terra em Transe 1967, Estética da Fome, o Sertão e o Cangaço)..",
           "type": "multiple-choice"
         }
       ],
@@ -14197,7 +14197,7 @@
             "Polícia Federal"
           ],
           "answerIndex": 1,
-          "explanation": "BOPE."
+          "explanation": "Correct answer: \"BOPE\". This directly applies the principle of: Urban Siege & Police Sociology: José Padilha and Tropa de Elite (José Padilha - Tropa de Elite 2007, Urso de Ouro em Berlim 2008, Capitão Nascimento com Wagner Moura, BOPE, «Pede pra sair!», sociologia da segurança pública e corrupção sistêmica).."
         }
       ]
     },
@@ -15946,7 +15946,7 @@
             "Araweté (C2 synthesis on Amerindian Perspectivism  The Multinaturalist Turn)"
           ],
           "answerIndex": 3,
-          "explanation": "Araweté.",
+          "explanation": "Correct answer: \"Araweté (C2 synthesis on Amerindian Perspectivism  The Multinaturalist Turn)\". This directly applies the principle of: C2 synthesis on Amerindian Perspectivism & The Multinaturalist Turn: Eduardo Viveiros de Castro (Eduardo Viveiros de Castro - Perspectivismo Ameríndio e Multinaturalismo, Metafísicas Canibais 2009, inversão da antropologia ocidental: a humanidade como condição cósmica compartilhada e os animais como pessoas em corpos diferentes)..",
           "type": "multiple-choice"
         }
       ],
@@ -16028,7 +16028,7 @@
             "O Pantanal"
           ],
           "answerIndex": 2,
-          "explanation": "O Sertão.",
+          "explanation": "Correct answer: \"O Sertão\". This directly applies the principle of: Cinema Novo & The Aesthetics of Hunger: Glauber Rocha (Glauber Rocha 1939–1981 - Vitória da Conquista e Salvador, Bahia; Manifesto «Uma Estética da Fome» 1965, Deus e o Diabo na Terra do Sol 1964, Terra em Transe 1967, O Dragão da Maldade contra o Santo Guerreiro 1969 - Prêmio de Melhor Diretor no Festival de Cannes, o lema «Uma câmera na mão e uma ideia na cabeça»)..",
           "type": "multiple-choice"
         }
       ],
@@ -16438,7 +16438,7 @@
             "Salsicha de Viena"
           ],
           "answerIndex": 1,
-          "explanation": "Paio.",
+          "explanation": "Correct answer: \"Paio\". This directly applies the principle of: The Culinary Soul of Brazil & Feijoada Completa (A Feijoada Completa: a história do feijão preto e a rica herança afro-brasileira, a seleção de carnes: carne-seca, lombo salgado, costelinha de porco defumada, paio, linguiça calabresa e bacon; os acompanhamentos canônicos: arroz branco soltinho, couve mineira finamente fatiada e refogada no alho, farofa na manteiga de garrafa, gomos de laranja fresca e torresmo estaladiço)..",
           "type": "multiple-choice"
         }
       ],
@@ -16520,7 +16520,7 @@
             "Quindim"
           ],
           "answerIndex": 0,
-          "explanation": "Vatapá.",
+          "explanation": "Correct answer: \"Vatapá\". This directly applies the principle of: Afro-Bahian Alchemy & The Sacred Dendê: Acarajé & Vatapá (O Acarajé das Baianas em Salvador - Patrimônio Cultural Imaterial do Brasil pelo IPHAN 2005; o feijão-fradinho descascado e batido na colher de pau, a fritura no azeite de dendê fervente, o recheio de vatapá de pão e castanha de caju, caruru de quiabo, camarão seco defumado e vinagrete; a roupa branca tradicional das Baianas de Acarajé e a oferenda aos Orixás)..",
           "type": "multiple-choice"
         }
       ],
@@ -16642,7 +16642,7 @@
             "Dendê"
           ],
           "answerIndex": 2,
-          "explanation": "Tucupi."
+          "explanation": "Correct answer: \"Tucupi\". This directly applies the principle of: Amazonian Bio-Gastronomy: Tucupi, Jambu & The River Giants (A Gastronomia Amazônica em Belém do Pará e no Mercado Ver-o-Peso; o Tucupi amarelo (o néctar fermentado da mandioca-brava após cozimento para eliminar o ácido cianídrico); o Jambu (a erva que amortece a língua com espilantol); o Tacacá servido na cuia fumegante com goma de tapioca; o Pato no Tucupi e o Pirarucu (o gigante das águas doces)).."
         }
       ]
     },
@@ -17748,7 +17748,8 @@
           "expectedKeywords": [
             "O",
             "embaixador"
-          ]
+          ],
+          "explanation": "Correct answer: \"O embaixador extraordinário e plenipotenciário apresentou suas cartas credenciais no Palácio do Planalto.\". This directly applies the principle of: Diplomatic Credentials, Itamaraty Tradition & Bilateral Statecraft (Credenciais Diplomáticas e o Itamaraty).."
         }
       ]
     },
@@ -17777,7 +17778,8 @@
           "expectedKeywords": [
             "O",
             "embaixador"
-          ]
+          ],
+          "explanation": "Correct answer: \"O embaixador extraordinário e plenipotenciário apresentou suas cartas credenciais no Palácio do Planalto.\". This directly applies the principle of: Diplomatic Credentials, Itamaraty Tradition & Bilateral Statecraft (Credenciais Diplomáticas e o Itamaraty).."
         }
       ]
     }
@@ -17831,7 +17833,8 @@
           "expectedKeywords": [
             "Os",
             "Estados"
-          ]
+          ],
+          "explanation": "Correct answer: \"Os Estados membros da OTCA ratificaram a Declaração de Belém sobre o desenvolvimento sustentável da bacia amazônica.\". This directly applies the principle of: Multilateral Environmental Treaties & Amazon Rainforest Diplomacy (Tratados Ambientais e Diplomacia Amazônica).."
         }
       ]
     },
@@ -17860,7 +17863,8 @@
           "expectedKeywords": [
             "Os",
             "Estados"
-          ]
+          ],
+          "explanation": "Correct answer: \"Os Estados membros da OTCA ratificaram a Declaração de Belém sobre o desenvolvimento sustentável da bacia amazônica.\". This directly applies the principle of: Multilateral Environmental Treaties & Amazon Rainforest Diplomacy (Tratados Ambientais e Diplomacia Amazônica).."
         }
       ]
     }
@@ -17914,7 +17918,8 @@
           "expectedKeywords": [
             "O",
             "Conselho"
-          ]
+          ],
+          "explanation": "Correct answer: \"O Conselho de Segurança elogiou a liderança das tropas brasileiras na estabilização humanitária e institucional.\". This directly applies the principle of: UN Peacekeeping Command & MINUSTAH Lessons (Missões de Paz da ONU e Operações de Estabilização).."
         }
       ]
     },
@@ -17943,7 +17948,8 @@
           "expectedKeywords": [
             "O",
             "Conselho"
-          ]
+          ],
+          "explanation": "Correct answer: \"O Conselho de Segurança elogiou a liderança das tropas brasileiras na estabilização humanitária e institucional.\". This directly applies the principle of: UN Peacekeeping Command & MINUSTAH Lessons (Missões de Paz da ONU e Operações de Estabilização).."
         }
       ]
     }
@@ -17997,7 +18003,8 @@
           "expectedKeywords": [
             "O",
             "Novo"
-          ]
+          ],
+          "explanation": "Correct answer: \"O Novo Banco de Desenvolvimento aprovou financiamentos para infraestrutura sustentável em moedas locais.\". This directly applies the principle of: BRICS Multilateralism & South-South Economic Cooperation (Multilateralismo BRICS e Cooperação Sul-Sul).."
         }
       ]
     },
@@ -18026,7 +18033,8 @@
           "expectedKeywords": [
             "O",
             "Novo"
-          ]
+          ],
+          "explanation": "Correct answer: \"O Novo Banco de Desenvolvimento aprovou financiamentos para infraestrutura sustentável em moedas locais.\". This directly applies the principle of: BRICS Multilateralism & South-South Economic Cooperation (Multilateralismo BRICS e Cooperação Sul-Sul).."
         }
       ]
     }
@@ -18080,7 +18088,8 @@
           "expectedKeywords": [
             "Os",
             "Chefes"
-          ]
+          ],
+          "explanation": "Correct answer: \"Os Chefes de Estado e de Governo subscrevem a presente Declaração reafirmando o compromisso com a paz duradoura.\". This directly applies the principle of: C2 Master Capstone: High-Stakes Summit Communiqué Drafting & Defense (Declaração Conjunta de Cúpula Presidencial).."
         }
       ]
     },
@@ -18109,7 +18118,8 @@
           "expectedKeywords": [
             "Os",
             "Chefes"
-          ]
+          ],
+          "explanation": "Correct answer: \"Os Chefes de Estado e de Governo subscrevem a presente Declaração reafirmando o compromisso com a paz duradoura.\". This directly applies the principle of: C2 Master Capstone: High-Stakes Summit Communiqué Drafting & Defense (Declaração Conjunta de Cúpula Presidencial).."
         }
       ]
     }

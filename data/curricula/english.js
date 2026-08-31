@@ -794,7 +794,7 @@
             "'m"
           ],
           "answerIndex": 3,
-          "explanation": "I'm.",
+          "explanation": "Correct answer: \"'m\". This directly applies the principle of: Conjugate the verb to be for all subject pronouns, use contractions naturally, and negate it correctly — including the notable gap where am has no standalone negative contraction..",
           "type": "multiple-choice"
         },
         {
@@ -806,7 +806,7 @@
             "'re"
           ],
           "answerIndex": 2,
-          "explanation": "he's.",
+          "explanation": "Correct answer: \"'s\". This directly applies the principle of: Conjugate the verb to be for all subject pronouns, use contractions naturally, and negate it correctly — including the notable gap where am has no standalone negative contraction..",
           "type": "multiple-choice"
         },
         {
@@ -818,7 +818,7 @@
             "'m"
           ],
           "answerIndex": 1,
-          "explanation": "you're.",
+          "explanation": "Correct answer: \"'re\". This directly applies the principle of: Conjugate the verb to be for all subject pronouns, use contractions naturally, and negate it correctly — including the notable gap where am has no standalone negative contraction..",
           "type": "multiple-choice"
         },
         {
@@ -2513,7 +2513,7 @@
             "daughter"
           ],
           "answerIndex": 3,
-          "explanation": "Daughter.",
+          "explanation": "Correct answer: \"daughter\". This directly applies the principle of: Identify immediate family members in English (father, mother, brother, sister, son, daughter, parents, siblings, children) and correctly apply possessive determiners (my, your, his, her, its, our, their)..",
           "type": "multiple-choice"
         },
         {
@@ -3406,7 +3406,7 @@
             "aren't"
           ],
           "answerIndex": 0,
-          "explanation": "We don't."
+          "explanation": "Correct answer: \"don't\". This directly applies the principle of: Form negative Present Simple sentences using auxiliary 'do not / don't' and 'does not / doesn't' + BARE INFINITIVE (He doesn't work, NOT He doesn't works).."
         }
       ]
     },
@@ -9898,7 +9898,7 @@
             "Trainers"
           ],
           "answerIndex": 3,
-          "explanation": "Trainers."
+          "explanation": "Correct answer: \"Trainers\". This directly applies the principle of: Apparel vocabulary, fashion trends, sizing conventions (UK/US), fabrics, and luxury department stores (Harrods, Selfridges, Saks Fifth Avenue).."
         }
       ]
     },
@@ -10062,7 +10062,7 @@
             "The safe"
           ],
           "answerIndex": 0,
-          "explanation": "The till."
+          "explanation": "Correct answer: \"The till\". This directly applies the principle of: Seasonal clearance sales, Black Friday / Boxing Day sales, contactless card / mobile tap payments, and itemised VAT receipts.."
         }
       ]
     },
@@ -10570,7 +10570,7 @@
             "112 only"
           ],
           "answerIndex": 2,
-          "explanation": "999.",
+          "explanation": "Correct answer: \"999\". This directly applies the principle of: Met Office severe weather warnings (Yellow, Amber, Red), storm naming conventions, flood defenses (Thames Barrier), and public safety..",
           "type": "multiple-choice"
         },
         {
@@ -10816,7 +10816,7 @@
             "Plasters"
           ],
           "answerIndex": 3,
-          "explanation": "Plasters.",
+          "explanation": "Correct answer: \"Plasters\". This directly applies the principle of: Pharmacies & chemists (Boots), NHS prescriptions (FP10), Over-the-counter (OTC) medicines, patient information leaflets and dosage..",
           "type": "multiple-choice"
         },
         {
@@ -10898,7 +10898,7 @@
             "1800 (The National Health Service NHS 111  999)"
           ],
           "answerIndex": 2,
-          "explanation": "1948.",
+          "explanation": "Correct answer: \"1948 (The National Health Service NHS 111  999)\". This directly applies the principle of: The National Health Service (NHS 111 & 999), Accident & Emergency (A&E triage), paramedics and universal healthcare..",
           "type": "multiple-choice"
         },
         {
@@ -10965,7 +10965,7 @@
             "Motor racing"
           ],
           "answerIndex": 0,
-          "explanation": "Rambling."
+          "explanation": "Correct answer: \"Rambling\". This directly applies the principle of: British spa towns (Bath, Harrogate), natural thermal waters, hillwalking, country rambling and psychological wellbeing.."
         }
       ]
     },
@@ -11293,7 +11293,7 @@
             "Concrete tiles"
           ],
           "answerIndex": 0,
-          "explanation": "Thatch."
+          "explanation": "Correct answer: \"Thatch\". This directly applies the principle of: Traditional vernacular architecture: Thatch-roofed cottages in the Cotswolds (honey-coloured limestone), Tudor timber-framing, and Georgian crescents.."
         }
       ]
     },
@@ -11539,7 +11539,7 @@
             "Form P60"
           ],
           "answerIndex": 3,
-          "explanation": "Form P60."
+          "explanation": "Correct answer: \"Form P60\". This directly applies the principle of: The UK job market (LinkedIn, Indeed), employment contracts (Permanent, PAYE), National Insurance, Workplace Pension auto-enrolment, and payslips.."
         }
       ]
     },
@@ -11554,7 +11554,7 @@
             "1% only"
           ],
           "answerIndex": 2,
-          "explanation": "8% total.",
+          "explanation": "Correct answer: \"8% total\". This directly applies the principle of: The UK job market (LinkedIn, Indeed), employment contracts (Permanent, PAYE), National Insurance, Workplace Pension auto-enrolment, and payslips..",
           "type": "multiple-choice"
         },
         {
@@ -11785,7 +11785,7 @@
             "Blockbuster"
           ],
           "answerIndex": 1,
-          "explanation": "Revolut."
+          "explanation": "Correct answer: \"Revolut\". This directly applies the principle of: London as the FinTech Capital of Europe: Revolut, Monzo, Wise (TransferWise), DeepMind AI, and the Silicon Roundabout (Old Street).."
         }
       ]
     },
@@ -13000,7 +13000,7 @@
             "Dubliners"
           ],
           "answerIndex": 1,
-          "explanation": "Ulysses."
+          "explanation": "Correct answer: \"Ulysses\". This directly applies the principle of: Modernist Stream of Consciousness & Temporal Flux: Virginia Woolf and James Joyce (Virginia Woolf - To the Lighthouse, Mrs Dalloway, A Room of One's Own, moments of being, James Joyce - Ulysses, stream of consciousness, Bloomsday June 16, epiphanies).."
         }
       ]
     },
@@ -14190,7 +14190,7 @@
             "Deep Blue"
           ],
           "answerIndex": 1,
-          "explanation": "HAL 9000.",
+          "explanation": "Correct answer: \"HAL 9000\". This directly applies the principle of: Symmetrical Perfection & Cosmic Precision: Stanley Kubrick (Stanley Kubrick - 2001: A Space Odyssey 1968, bone-to-spacecraft match cut, HAL 9000, The Shining - Steadicam in the Overlook Hotel, A Clockwork Orange, Barry Lyndon - candlelit NASA lenses, one-point perspective)..",
           "type": "multiple-choice"
         }
       ],
@@ -15502,7 +15502,7 @@
             "Polished copper"
           ],
           "answerIndex": 1,
-          "explanation": "Titanium.",
+          "explanation": "Correct answer: \"Titanium\". This directly applies the principle of: Deconstructivist Titanium Sculpture: Frank Gehry (Frank Gehry - Pritzker Prize 1989, Guggenheim Museum Bilbao 1997 - titanium fish scales and the «Bilbao Effect», Walt Disney Concert Hall in Los Angeles with acoustic sails, Fondation Louis Vuitton in Paris)..",
           "type": "multiple-choice"
         }
       ],
@@ -16158,7 +16158,7 @@
             "Jarvis"
           ],
           "answerIndex": 1,
-          "explanation": "HAL 9000.",
+          "explanation": "Correct answer: \"HAL 9000\". This directly applies the principle of: One-Point Symmetry & The Cosmic Horizon: Stanley Kubrick (Stanley Kubrick 1928–1999 - New York & Hertfordshire, England; 2001: A Space Odyssey 1968 - the match cut from pre-historic bone to orbiting nuclear weapons satellite, HAL 9000 and the Stargate sequence; Barry Lyndon 1975 - NASA Zeiss 50mm f/0.7 lenses filmed exclusively by natural candlelight; The Shining 1980 - Steadicam tricycle gliding through Overlook Hotel; one-point perspective framing)..",
           "type": "multiple-choice"
         }
       ],
@@ -17741,7 +17741,8 @@
           "expectedKeywords": [
             "The",
             "Ambassador"
-          ]
+          ],
+          "explanation": "Correct answer: \"The Ambassador Extraordinary and Plenipotentiary presented his Letters of Credence to the Sovereign at Buckingham Palace.\". This directly applies the principle of: Diplomatic Credentials, Court of St James's Protocol & Bilateral Treaties (Letters of Credence & State Protocol).."
         }
       ]
     },
@@ -17770,7 +17771,8 @@
           "expectedKeywords": [
             "The",
             "Ambassador"
-          ]
+          ],
+          "explanation": "Correct answer: \"The Ambassador Extraordinary and Plenipotentiary presented his Letters of Credence to the Sovereign at Buckingham Palace.\". This directly applies the principle of: Diplomatic Credentials, Court of St James's Protocol & Bilateral Treaties (Letters of Credence & State Protocol).."
         }
       ]
     }
@@ -17824,7 +17826,8 @@
           "expectedKeywords": [
             "The",
             "official"
-          ]
+          ],
+          "explanation": "Correct answer: \"The official instrument of ratification was deposited with the depositary in accordance with Article 82.\". This directly applies the principle of: Vienna Convention on the Law of Treaties (VCLT 1969) & Ratification Procedures (Treaty Law & Deposition).."
         }
       ]
     },
@@ -17853,7 +17856,8 @@
           "expectedKeywords": [
             "The",
             "official"
-          ]
+          ],
+          "explanation": "Correct answer: \"The official instrument of ratification was deposited with the depositary in accordance with Article 82.\". This directly applies the principle of: Vienna Convention on the Law of Treaties (VCLT 1969) & Ratification Procedures (Treaty Law & Deposition).."
         }
       ]
     }
@@ -17907,7 +17911,8 @@
           "expectedKeywords": [
             "Acting",
             "under"
-          ]
+          ],
+          "explanation": "Correct answer: \"Acting under Chapter VII of the United Nations Charter, the Security Council decided to authorize all necessary measures.\". This directly applies the principle of: UN Security Council Chapter VII Mandates, Peacekeeping & Conflict Resolution (UN Security Council Resolutions).."
         }
       ]
     },
@@ -17936,7 +17941,8 @@
           "expectedKeywords": [
             "Acting",
             "under"
-          ]
+          ],
+          "explanation": "Correct answer: \"Acting under Chapter VII of the United Nations Charter, the Security Council decided to authorize all necessary measures.\". This directly applies the principle of: UN Security Council Chapter VII Mandates, Peacekeeping & Conflict Resolution (UN Security Council Resolutions).."
         }
       ]
     }
@@ -17990,7 +17996,8 @@
           "expectedKeywords": [
             "The",
             "extradition"
-          ]
+          ],
+          "explanation": "Correct answer: \"The extradition court affirmed the principle of dual criminality before ordering the surrender of the fugitive.\". This directly applies the principle of: International Sanctions, Extradition Law & Universal Jurisdiction (Sanctions Regimes & Extradition).."
         }
       ]
     },
@@ -18019,7 +18026,8 @@
           "expectedKeywords": [
             "The",
             "extradition"
-          ]
+          ],
+          "explanation": "Correct answer: \"The extradition court affirmed the principle of dual criminality before ordering the surrender of the fugitive.\". This directly applies the principle of: International Sanctions, Extradition Law & Universal Jurisdiction (Sanctions Regimes & Extradition).."
         }
       ]
     }
@@ -18073,7 +18081,8 @@
           "expectedKeywords": [
             "The",
             "Heads"
-          ]
+          ],
+          "explanation": "Correct answer: \"The Heads of State and Government adopted the Joint Communiqué, reaffirming their unyielding commitment to the rules-based international order.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & High-Stakes Diplomacy Defense (Summit Declaration Drafting).."
         }
       ]
     },
@@ -18102,7 +18111,8 @@
           "expectedKeywords": [
             "The",
             "Heads"
-          ]
+          ],
+          "explanation": "Correct answer: \"The Heads of State and Government adopted the Joint Communiqué, reaffirming their unyielding commitment to the rules-based international order.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & High-Stakes Diplomacy Defense (Summit Declaration Drafting).."
         }
       ]
     }

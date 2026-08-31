@@ -140,15 +140,18 @@
       "examples": [
         {
           "passage": "asdf jkl;",
-          "focus": "The pure basecamp: left hand across A S D F, right hand across J K L ;, no other keys involved."
+          "focus": "The pure basecamp: left hand across A S D F, right hand across J K L ;, no other keys involved.",
+          "target": "Core example"
         },
         {
           "passage": "aaa sss ddd fff",
-          "focus": "Left-hand isolation — each finger presses its own key three times before moving on, building independent finger strength."
+          "focus": "Left-hand isolation — each finger presses its own key three times before moving on, building independent finger strength.",
+          "target": "Core example"
         },
         {
           "passage": "jjj kkk lll ;;;",
-          "focus": "Right-hand isolation — same drill mirrored, including the pinky stretch to semicolon, the row's trickiest key."
+          "focus": "Right-hand isolation — same drill mirrored, including the pinky stretch to semicolon, the row's trickiest key.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -161,7 +164,8 @@
           "type": "type-check",
           "prompt": "Basecamp check #1 — rest your fingers on home row and type this exactly: asdf jkl;",
           "answer": "asdf jkl;",
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"asdf jkl;\". This directly applies the principle of: Place fingers correctly on the home row and type ASDF and JKL; without looking down.."
         },
         {
           "id": "typing-u1-l1-q2",
@@ -175,7 +179,8 @@
           ],
           "answer": "Left middle",
           "difficulty": 500,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Left middle\". This directly applies the principle of: Place fingers correctly on the home row and type ASDF and JKL; without looking down.."
         },
         {
           "id": "typing-u1-l1-q3",
@@ -189,14 +194,16 @@
           ],
           "answer": "Letting your fingers find home row by feel, without looking down",
           "difficulty": 500,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Letting your fingers find home row by feel, without looking down\". This directly applies the principle of: Place fingers correctly on the home row and type ASDF and JKL; without looking down.."
         },
         {
           "id": "typing-u1-l1-q4",
           "type": "type-check",
           "prompt": "Basecamp check #2 — type the right-hand isolation drill exactly: jjj kkk lll ;;;",
           "answer": "jjj kkk lll ;;;",
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"jjj kkk lll ;;;\". This directly applies the principle of: Place fingers correctly on the home row and type ASDF and JKL; without looking down.."
         }
       ]
     },
@@ -212,15 +219,18 @@
       "examples": [
         {
           "passage": "dad sad lad",
-          "focus": "Three short home-row words, left-hand heavy, building word-shape memory instead of letter-by-letter memory."
+          "focus": "Three short home-row words, left-hand heavy, building word-shape memory instead of letter-by-letter memory.",
+          "target": "Core example"
         },
         {
           "passage": "ask flask",
-          "focus": "Introduces the right-hand K and left-hand F together in one word — an early cross-hand coordination test."
+          "focus": "Introduces the right-hand K and left-hand F together in one word — an early cross-hand coordination test.",
+          "target": "Core example"
         },
         {
           "passage": "alfalfa",
-          "focus": "A whole seven-letter real word using only A, L, F — proof that basecamp alone can already type something meaningful."
+          "focus": "A whole seven-letter real word using only A, L, F — proof that basecamp alone can already type something meaningful.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -233,14 +243,16 @@
           "type": "type-check",
           "prompt": "Type this home-row word exactly: salad",
           "answer": "salad",
-          "difficulty": 510
+          "difficulty": 510,
+          "explanation": "Correct answer: \"salad\". This directly applies the principle of: Type short home-row-only words with correct finger-to-key mapping.."
         },
         {
           "id": "typing-u1-l2-q2",
           "type": "type-check",
           "prompt": "Type this short home-row phrase exactly: dad and lad",
           "answer": "dad and lad",
-          "difficulty": 510
+          "difficulty": 510,
+          "explanation": "Correct answer: \"dad and lad\". This directly applies the principle of: Type short home-row-only words with correct finger-to-key mapping.."
         },
         {
           "id": "typing-u1-l2-q3",
@@ -254,14 +266,16 @@
           ],
           "answer": "alfalfa",
           "difficulty": 510,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"alfalfa\". This directly applies the principle of: Type short home-row-only words with correct finger-to-key mapping.."
         },
         {
           "id": "typing-u1-l2-q4",
           "type": "type-check",
           "prompt": "Type this exactly: ask a lad",
           "answer": "ask a lad",
-          "difficulty": 510
+          "difficulty": 510,
+          "explanation": "Correct answer: \"ask a lad\". This directly applies the principle of: Type short home-row-only words with correct finger-to-key mapping.."
         }
       ]
     },
@@ -277,15 +291,18 @@
       "examples": [
         {
           "passage": "a lad",
-          "focus": "Deliberately trivial two-word passage — the goal here is rhythm, not challenge: type it five times in a row at one unbroken pace."
+          "focus": "Deliberately trivial two-word passage — the goal here is rhythm, not challenge: type it five times in a row at one unbroken pace.",
+          "target": "Core example"
         },
         {
           "passage": "a sad lad asks",
-          "focus": "A slightly longer phrase to practice not pausing between words — the space bar reach should feel as automatic as any letter key."
+          "focus": "A slightly longer phrase to practice not pausing between words — the space bar reach should feel as automatic as any letter key.",
+          "target": "Core example"
         },
         {
           "passage": "add a flask",
-          "focus": "Doubled letters (dd) test whether you can strike the same key twice in a row without hesitating, a common speed bottleneck."
+          "focus": "Doubled letters (dd) test whether you can strike the same key twice in a row without hesitating, a common speed bottleneck.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -305,14 +322,16 @@
           ],
           "answer": "A steady, unbroken pace, because pauses and corrections cost more time than they save",
           "difficulty": 520,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A steady, unbroken pace, because pauses and corrections cost more time than they save (Build homerow muscle memory to 15 WPM with under 5 percent error rate)\". This directly applies the principle of: Build home-row muscle memory to 15+ WPM with under 5 percent error rate.."
         },
         {
           "id": "typing-u1-l3-q2",
           "type": "type-check",
           "prompt": "Type this at a steady, unbroken pace: add a flask",
           "answer": "add a flask",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"add a flask\". This directly applies the principle of: Build home-row muscle memory to 15+ WPM with under 5 percent error rate.."
         },
         {
           "id": "typing-u1-l3-q3",
@@ -326,14 +345,16 @@
           ],
           "answer": "Finish typing the word, then correct it",
           "difficulty": 520,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"Finish typing the word, then correct it (Build homerow muscle memory to 15 WPM with under 5 percent error rate)\". This directly applies the principle of: Build home-row muscle memory to 15+ WPM with under 5 percent error rate.."
         },
         {
           "id": "typing-u1-l3-q4",
           "type": "type-check",
           "prompt": "Type this exactly: a sad lad asks",
           "answer": "a sad lad asks",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"a sad lad asks\". This directly applies the principle of: Build home-row muscle memory to 15+ WPM with under 5 percent error rate.."
         }
       ]
     },
@@ -349,11 +370,13 @@
       "examples": [
         {
           "passage": "lad flask ask",
-          "focus": "Three home-row words separated by spaces — after each space-bar press, consciously confirm all eight fingers have returned to basecamp before continuing."
+          "focus": "Three home-row words separated by spaces — after each space-bar press, consciously confirm all eight fingers have returned to basecamp before continuing.",
+          "target": "Core example"
         },
         {
           "passage": "dad sad lad ask",
-          "focus": "A slightly longer chain to practice the return reflex across multiple consecutive space-bar reaches without losing the habit partway through."
+          "focus": "A slightly longer chain to practice the return reflex across multiple consecutive space-bar reaches without losing the habit partway through.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -373,14 +396,16 @@
           ],
           "answer": "Automatically snapping fingers back to their home-row key after any reach, including the space bar",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Automatically snapping fingers back to their home-row key after any reach, including the space bar\". This directly applies the principle of: Return to home row automatically after any reach, without visual confirmation.."
         },
         {
           "id": "typing-u1-l4-q2",
           "type": "type-check",
           "prompt": "Type this, paying attention to your thumb snapping back after each space: dad sad lad ask",
           "answer": "dad sad lad ask",
-          "difficulty": 530
+          "difficulty": 530,
+          "explanation": "Correct answer: \"dad sad lad ask\". This directly applies the principle of: Return to home row automatically after any reach, without visual confirmation.."
         },
         {
           "id": "typing-u1-l4-q3",
@@ -394,7 +419,8 @@
           ],
           "answer": "It keeps home row a stable, reliable base every finger can return to no matter how far it just reached",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It keeps home row a stable, reliable base every finger can return to no matter how far it just reached\". This directly applies the principle of: Return to home row automatically after any reach, without visual confirmation.."
         }
       ]
     },
@@ -410,11 +436,13 @@
       "examples": [
         {
           "passage": "a sad lad asks for a flask",
-          "focus": "Combines multiple home-row words with several space-bar return-reflex reps in a single passage."
+          "focus": "Combines multiple home-row words with several space-bar return-reflex reps in a single passage.",
+          "target": "Core example"
         },
         {
           "passage": "add a salad; ask a lad",
-          "focus": "Introduces the semicolon reach (right pinky) inside a full home-row-only sentence."
+          "focus": "Introduces the semicolon reach (right pinky) inside a full home-row-only sentence.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -427,14 +455,16 @@
           "type": "type-check",
           "prompt": "Boss check #1 — type exactly: a sad lad asks for a flask",
           "answer": "a sad lad asks for a flask",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"a sad lad asks for a flask\". This directly applies the principle of: Pass a home-row-only speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u1-l5-q2",
           "type": "type-check",
           "prompt": "Boss check #2 — type exactly: add a salad; ask a lad",
           "answer": "add a salad; ask a lad",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"add a salad; ask a lad\". This directly applies the principle of: Pass a home-row-only speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u1-l5-q3",
@@ -448,7 +478,8 @@
           ],
           "answer": "Right pinky",
           "difficulty": 540,
-          "answerIndex": 3
+          "answerIndex": 3,
+          "explanation": "Correct answer: \"Right pinky\". This directly applies the principle of: Pass a home-row-only speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u1-l5-q4",
@@ -462,14 +493,16 @@
           ],
           "answer": "Establishing home row as an automatic, reliable base you never need to look at",
           "difficulty": 540,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"Establishing home row as an automatic, reliable base you never need to look at\". This directly applies the principle of: Pass a home-row-only speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u1-l5-q5",
           "type": "short-answer",
           "prompt": "In one or two sentences, explain the \"return reflex\" and why it matters before moving on to reaches beyond home row.",
           "answer": "The return reflex is automatically snapping every finger back to its home-row key after any reach, including the space bar, so home row stays a stable, reliable base no matter how far a finger just traveled — without it, later reaches to the top and bottom rows would have nothing steady to return to.",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"The return reflex is automatically snapping every finger back to its home-row key after any reach, including the space bar, so home row stays a stable, reliable base no matter how far a finger just traveled — without it, later reaches to the top and bottom rows would have nothing steady to return to.\". This directly applies the principle of: Pass a home-row-only speed and accuracy checkpoint.."
         }
       ]
     },
@@ -485,15 +518,18 @@
       "examples": [
         {
           "passage": "qqq www eee rrr",
-          "focus": "Pure top-row isolation for the four new keys — reach up, strike, snap back to home row between each triplet."
+          "focus": "Pure top-row isolation for the four new keys — reach up, strike, snap back to home row between each triplet.",
+          "target": "Core example"
         },
         {
           "passage": "dear",
-          "focus": "A real word combining a fresh reach (e, r) with home-row letters (d, a) — the first proof this climb pays off."
+          "focus": "A real word combining a fresh reach (e, r) with home-row letters (d, a) — the first proof this climb pays off.",
+          "target": "Core example"
         },
         {
           "passage": "wear a",
-          "focus": "Introduces w in a real short phrase, testing the return reflex across a space-bar reach too."
+          "focus": "Introduces w in a real short phrase, testing the return reflex across a space-bar reach too.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -506,7 +542,8 @@
           "type": "type-check",
           "prompt": "Reach check #1 — type exactly: qqq www eee rrr",
           "answer": "qqq www eee rrr",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"qqq www eee rrr\". This directly applies the principle of: Reach from home row to the top row keys Q W E R with correct fingers.."
         },
         {
           "id": "typing-u2-l1-q2",
@@ -520,14 +557,16 @@
           ],
           "answer": "Left middle",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Left middle\". This directly applies the principle of: Reach from home row to the top row keys Q W E R with correct fingers.."
         },
         {
           "id": "typing-u2-l1-q3",
           "type": "type-check",
           "prompt": "Reach check #2 — type exactly: dear",
           "answer": "dear",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"dear\". This directly applies the principle of: Reach from home row to the top row keys Q W E R with correct fingers.."
         },
         {
           "id": "typing-u2-l1-q4",
@@ -541,7 +580,8 @@
           ],
           "answer": "The index finger covers the widest territory of any finger, so its reaches fan out rather than stay in a single column",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The index finger covers the widest territory of any finger, so its reaches fan out rather than stay in a single column\". This directly applies the principle of: Reach from home row to the top row keys Q W E R with correct fingers.."
         }
       ]
     },
@@ -557,15 +597,18 @@
       "examples": [
         {
           "passage": "ttt yyy uuu iii",
-          "focus": "Top-row isolation for the four new keys, split evenly between the two index fingers and the right middle finger."
+          "focus": "Top-row isolation for the four new keys, split evenly between the two index fingers and the right middle finger.",
+          "target": "Core example"
         },
         {
           "passage": "quiet",
-          "focus": "A five-letter word using q (Unit 2 lesson 1), u, i, e, t — every new-ish key from this unit and the last working together."
+          "focus": "A five-letter word using q (Unit 2 lesson 1), u, i, e, t — every new-ish key from this unit and the last working together.",
+          "target": "Core example"
         },
         {
           "passage": "write",
-          "focus": "w, r, i, t, e — another word proving the left and right index reaches combine naturally with the rest of the top row."
+          "focus": "w, r, i, t, e — another word proving the left and right index reaches combine naturally with the rest of the top row.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -578,7 +621,8 @@
           "type": "type-check",
           "prompt": "Reach check #1 — type exactly: ttt yyy uuu iii",
           "answer": "ttt yyy uuu iii",
-          "difficulty": 555
+          "difficulty": 555,
+          "explanation": "Correct answer: \"ttt yyy uuu iii\". This directly applies the principle of: Reach from home row to the top row keys T Y U I with correct fingers.."
         },
         {
           "id": "typing-u2-l2-q2",
@@ -592,21 +636,24 @@
           ],
           "answer": "R and T",
           "difficulty": 555,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"R and T\". This directly applies the principle of: Reach from home row to the top row keys T Y U I with correct fingers.."
         },
         {
           "id": "typing-u2-l2-q3",
           "type": "type-check",
           "prompt": "Reach check #2 — type exactly: quiet",
           "answer": "quiet",
-          "difficulty": 555
+          "difficulty": 555,
+          "explanation": "Correct answer: \"quiet\". This directly applies the principle of: Reach from home row to the top row keys T Y U I with correct fingers.."
         },
         {
           "id": "typing-u2-l2-q4",
           "type": "type-check",
           "prompt": "Reach check #3 — type exactly: write",
           "answer": "write",
-          "difficulty": 555
+          "difficulty": 555,
+          "explanation": "Correct answer: \"write\". This directly applies the principle of: Reach from home row to the top row keys T Y U I with correct fingers.."
         },
         {
           "id": "typing-u2-l2-q5",
@@ -620,7 +667,8 @@
           ],
           "answer": "Right middle",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Right middle\". This directly applies the principle of: Reach from home row to the top row keys T Y U I with correct fingers.."
         }
       ]
     },
@@ -636,15 +684,18 @@
       "examples": [
         {
           "passage": "ooo ppp",
-          "focus": "Isolation for the final two top-row keys — P is the longest reach on the row, so give the pinky extra care here."
+          "focus": "Isolation for the final two top-row keys — P is the longest reach on the row, so give the pinky extra care here.",
+          "target": "Core example"
         },
         {
           "passage": "spare a",
-          "focus": "A real word (spare) plus a return-reflex space-bar rep."
+          "focus": "A real word (spare) plus a return-reflex space-bar rep.",
+          "target": "Core example"
         },
         {
           "passage": "a trader wrote a quote for a rare opal",
-          "focus": "A full phrase using every top-row letter taught so far (q w e r t y u i o p) woven through home-row words."
+          "focus": "A full phrase using every top-row letter taught so far (q w e r t y u i o p) woven through home-row words.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -657,7 +708,8 @@
           "type": "type-check",
           "prompt": "Reach check #1 — type exactly: ooo ppp",
           "answer": "ooo ppp",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"ooo ppp\". This directly applies the principle of: Reach from home row to O P and type mixed home-plus-top-row words.."
         },
         {
           "id": "typing-u2-l3-q2",
@@ -671,21 +723,24 @@
           ],
           "answer": "Right pinky",
           "difficulty": 560,
-          "answerIndex": 3
+          "answerIndex": 3,
+          "explanation": "Correct answer: \"Right pinky\". This directly applies the principle of: Reach from home row to O P and type mixed home-plus-top-row words.."
         },
         {
           "id": "typing-u2-l3-q3",
           "type": "type-check",
           "prompt": "Reach check #2 — type exactly: adopt",
           "answer": "adopt",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"adopt\". This directly applies the principle of: Reach from home row to O P and type mixed home-plus-top-row words.."
         },
         {
           "id": "typing-u2-l3-q4",
           "type": "type-check",
           "prompt": "Reach check #3 — type exactly: a trader wrote a quote for a rare opal",
           "answer": "a trader wrote a quote for a rare opal",
-          "difficulty": 570
+          "difficulty": 570,
+          "explanation": "Correct answer: \"a trader wrote a quote for a rare opal\". This directly applies the principle of: Reach from home row to O P and type mixed home-plus-top-row words.."
         },
         {
           "id": "typing-u2-l3-q5",
@@ -697,7 +752,8 @@
           ],
           "answer": "True",
           "difficulty": 555,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"True\". This directly applies the principle of: Reach from home row to O P and type mixed home-plus-top-row words.."
         }
       ]
     },
@@ -713,11 +769,13 @@
       "examples": [
         {
           "passage": "a wise trader saw a rare opal for sale",
-          "focus": "A full sentence using only home-row and top-row letters, testing sustained rhythm across nine words."
+          "focus": "A full sentence using only home-row and top-row letters, testing sustained rhythm across nine words.",
+          "target": "Core example"
         },
         {
           "passage": "jake quietly typed a letter",
-          "focus": "A second full sentence leaning on the right-hand reaches (j, q, u, y, p) alongside familiar home-row words."
+          "focus": "A second full sentence leaning on the right-hand reaches (j, q, u, y, p) alongside familiar home-row words.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -730,14 +788,16 @@
           "type": "type-check",
           "prompt": "Sentence check #1 — type exactly: a wise trader saw a rare opal for sale",
           "answer": "a wise trader saw a rare opal for sale",
-          "difficulty": 580
+          "difficulty": 580,
+          "explanation": "Correct answer: \"a wise trader saw a rare opal for sale\". This directly applies the principle of: Type full sentences using only home row and top row letters.."
         },
         {
           "id": "typing-u2-l4-q2",
           "type": "type-check",
           "prompt": "Sentence check #2 — type exactly: jake quietly typed a letter",
           "answer": "jake quietly typed a letter",
-          "difficulty": 580
+          "difficulty": 580,
+          "explanation": "Correct answer: \"jake quietly typed a letter\". This directly applies the principle of: Type full sentences using only home row and top row letters.."
         },
         {
           "id": "typing-u2-l4-q3",
@@ -751,7 +811,8 @@
           ],
           "answer": "As just another reach with its own steady, unhesitating rhythm",
           "difficulty": 560,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"As just another reach with its own steady, unhesitating rhythm\". This directly applies the principle of: Type full sentences using only home row and top row letters.."
         },
         {
           "id": "typing-u2-l4-q4",
@@ -765,7 +826,8 @@
           ],
           "answer": "So your hands move at a steady pace instead of discovering the words as you go, which causes stop-and-go typing",
           "difficulty": 560,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"So your hands move at a steady pace instead of discovering the words as you go, which causes stop-and-go typing\". This directly applies the principle of: Type full sentences using only home row and top row letters.."
         }
       ]
     },
@@ -781,11 +843,13 @@
       "examples": [
         {
           "passage": "a trader wore a quiet coat and sold a rare jewel",
-          "focus": "Long combined passage mixing home row and every top-row key at once (note: uses only letters taught through this unit)."
+          "focus": "Long combined passage mixing home row and every top-row key at once (note: uses only letters taught through this unit).",
+          "target": "Core example"
         },
         {
           "passage": "write a quote for a rare opal",
-          "focus": "A shorter, faster-paced passage for a timed speed rep."
+          "focus": "A shorter, faster-paced passage for a timed speed rep.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -798,14 +862,16 @@
           "type": "type-check",
           "prompt": "Summit check #1 — type exactly: write a quote for a rare opal",
           "answer": "write a quote for a rare opal",
-          "difficulty": 590
+          "difficulty": 590,
+          "explanation": "Correct answer: \"write a quote for a rare opal\". This directly applies the principle of: Pass a home-and-top-row speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u2-l5-q2",
           "type": "type-check",
           "prompt": "Summit check #2 — type exactly: a wise trader saw a rare opal for sale",
           "answer": "a wise trader saw a rare opal for sale",
-          "difficulty": 590
+          "difficulty": 590,
+          "explanation": "Correct answer: \"a wise trader saw a rare opal for sale\". This directly applies the principle of: Pass a home-and-top-row speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u2-l5-q3",
@@ -819,7 +885,8 @@
           ],
           "answer": "Left index",
           "difficulty": 570,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"Left index\". This directly applies the principle of: Pass a home-and-top-row speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u2-l5-q4",
@@ -833,14 +900,16 @@
           ],
           "answer": "Extending home row up to the full top row while keeping the return reflex intact",
           "difficulty": 570,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Extending home row up to the full top row while keeping the return reflex intact\". This directly applies the principle of: Pass a home-and-top-row speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u2-l5-q5",
           "type": "short-answer",
           "prompt": "Name the two top-row keys reached by the left index finger and the two reached by the right index finger.",
           "answer": "The left index finger reaches R and T; the right index finger reaches Y and U.",
-          "difficulty": 580
+          "difficulty": 580,
+          "explanation": "Correct answer: \"The left index finger reaches R and T; the right index finger reaches Y and U.\". This directly applies the principle of: Pass a home-and-top-row speed and accuracy checkpoint.."
         }
       ]
     },
@@ -856,15 +925,18 @@
       "examples": [
         {
           "passage": "ggg hhh",
-          "focus": "Pure isolation for the two new keys — left index leans right to G, right index leans left to H, snapping back to F/J each time."
+          "focus": "Pure isolation for the two new keys — left index leans right to G, right index leans left to H, snapping back to F/J each time.",
+          "target": "Core example"
         },
         {
           "passage": "high",
-          "focus": "A real word using both new keys plus letters already known (i from top row) — h, i, g, h."
+          "focus": "A real word using both new keys plus letters already known (i from top row) — h, i, g, h.",
+          "target": "Core example"
         },
         {
           "passage": "the light of day",
-          "focus": "A full home-row-completion sentence: every word uses only letters taught through this lesson (home row, top row, and now g/h) — no bottom-row letters yet."
+          "focus": "A full home-row-completion sentence: every word uses only letters taught through this lesson (home row, top row, and now g/h) — no bottom-row letters yet.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -877,7 +949,8 @@
           "type": "type-check",
           "prompt": "Home-row-completion check #1 — type exactly: ggg hhh",
           "answer": "ggg hhh",
-          "difficulty": 590
+          "difficulty": 590,
+          "explanation": "Correct answer: \"ggg hhh\". This directly applies the principle of: Reach from home row to the row's own missing keys, G and H, with correct fingers.."
         },
         {
           "id": "typing-u3-l1-q2",
@@ -891,14 +964,16 @@
           ],
           "answer": "Left index",
           "difficulty": 590,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"Left index\". This directly applies the principle of: Reach from home row to the row's own missing keys, G and H, with correct fingers.."
         },
         {
           "id": "typing-u3-l1-q3",
           "type": "type-check",
           "prompt": "Home-row-completion check #2 — type exactly: high",
           "answer": "high",
-          "difficulty": 590
+          "difficulty": 590,
+          "explanation": "Correct answer: \"high\". This directly applies the principle of: Reach from home row to the row's own missing keys, G and H, with correct fingers.."
         },
         {
           "id": "typing-u3-l1-q4",
@@ -912,14 +987,16 @@
           ],
           "answer": "It stays on home row itself (a sideways lean, not an up/down reach), so it does not feel like \"reaching\" the way climbing a row does",
           "difficulty": 590,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It stays on home row itself (a sideways lean, not an up/down reach)\". This directly applies the principle of: Reach from home row to the row's own missing keys, G and H, with correct fingers.."
         },
         {
           "id": "typing-u3-l1-q5",
           "type": "type-check",
           "prompt": "Home-row-completion check #3 — type exactly: the light of day",
           "answer": "the light of day",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"the light of day\". This directly applies the principle of: Reach from home row to the row's own missing keys, G and H, with correct fingers.."
         }
       ]
     },
@@ -935,15 +1012,18 @@
       "examples": [
         {
           "passage": "zzz xxx ccc",
-          "focus": "Bottom-row isolation for the three new left-hand keys — reach straight down, strike, snap back to home row."
+          "focus": "Bottom-row isolation for the three new left-hand keys — reach straight down, strike, snap back to home row.",
+          "target": "Core example"
         },
         {
           "passage": "exact",
-          "focus": "A real word putting the new X to work alongside already-known letters."
+          "focus": "A real word putting the new X to work alongside already-known letters.",
+          "target": "Core example"
         },
         {
           "passage": "a cat chased a lizard",
-          "focus": "A full sentence using Z, X, C alongside every letter taught so far — no V B N M yet, those arrive next lesson."
+          "focus": "A full sentence using Z, X, C alongside every letter taught so far — no V B N M yet, those arrive next lesson.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -956,7 +1036,8 @@
           "type": "type-check",
           "prompt": "Descent check #1 — type exactly: zzz xxx ccc",
           "answer": "zzz xxx ccc",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"zzz xxx ccc\". This directly applies the principle of: Reach from home row to bottom row keys Z X C with correct fingers.."
         },
         {
           "id": "typing-u3-l2-q2",
@@ -970,21 +1051,24 @@
           ],
           "answer": "Left ring",
           "difficulty": 600,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Left ring\". This directly applies the principle of: Reach from home row to bottom row keys Z X C with correct fingers.."
         },
         {
           "id": "typing-u3-l2-q3",
           "type": "type-check",
           "prompt": "Descent check #2 — type exactly: exact",
           "answer": "exact",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"exact\". This directly applies the principle of: Reach from home row to bottom row keys Z X C with correct fingers.."
         },
         {
           "id": "typing-u3-l2-q4",
           "type": "type-check",
           "prompt": "Descent check #3 — type exactly: a cat chased a lizard",
           "answer": "a cat chased a lizard",
-          "difficulty": 610
+          "difficulty": 610,
+          "explanation": "Correct answer: \"a cat chased a lizard\". This directly applies the principle of: Reach from home row to bottom row keys Z X C with correct fingers.."
         },
         {
           "id": "typing-u3-l2-q5",
@@ -998,7 +1082,8 @@
           ],
           "answer": "Left pinky",
           "difficulty": 590,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"Left pinky\". This directly applies the principle of: Reach from home row to bottom row keys Z X C with correct fingers.."
         }
       ]
     },
@@ -1014,15 +1099,18 @@
       "examples": [
         {
           "passage": "vvv bbb nnn mmm",
-          "focus": "Bottom-row isolation for the final four keys — two more reaches for each index finger, the hand's busiest workers."
+          "focus": "Bottom-row isolation for the final four keys — two more reaches for each index finger, the hand's busiest workers.",
+          "target": "Core example"
         },
         {
           "passage": "a big van",
-          "focus": "A short real phrase putting V and B to work."
+          "focus": "A short real phrase putting V and B to work.",
+          "target": "Core example"
         },
         {
           "passage": "the quick brown fox jumps over a lazy dog",
-          "focus": "The classic pangram — the first sentence in this curriculum that can use every letter of the alphabet, now that V B N M are open."
+          "focus": "The classic pangram — the first sentence in this curriculum that can use every letter of the alphabet, now that V B N M are open.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1035,7 +1123,8 @@
           "type": "type-check",
           "prompt": "Final ledge check #1 — type exactly: vvv bbb nnn mmm",
           "answer": "vvv bbb nnn mmm",
-          "difficulty": 610
+          "difficulty": 610,
+          "explanation": "Correct answer: \"vvv bbb nnn mmm\". This directly applies the principle of: Reach from home row to bottom row keys V B N M with correct fingers.."
         },
         {
           "id": "typing-u3-l3-q2",
@@ -1049,14 +1138,16 @@
           ],
           "answer": "Right index",
           "difficulty": 610,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"Right index\". This directly applies the principle of: Reach from home row to bottom row keys V B N M with correct fingers.."
         },
         {
           "id": "typing-u3-l3-q3",
           "type": "type-check",
           "prompt": "Final ledge check #2 — type exactly: a big van",
           "answer": "a big van",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"a big van\". This directly applies the principle of: Reach from home row to bottom row keys V B N M with correct fingers.."
         },
         {
           "id": "typing-u3-l3-q4",
@@ -1070,14 +1161,16 @@
           ],
           "answer": "Left index",
           "difficulty": 610,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"Left index\". This directly applies the principle of: Reach from home row to bottom row keys V B N M with correct fingers.."
         },
         {
           "id": "typing-u3-l3-q5",
           "type": "type-check",
           "prompt": "Final ledge check #3 — type exactly: the quick brown fox jumps over a lazy dog",
           "answer": "the quick brown fox jumps over a lazy dog",
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"the quick brown fox jumps over a lazy dog\". This directly applies the principle of: Reach from home row to bottom row keys V B N M with correct fingers.."
         }
       ]
     },
@@ -1093,11 +1186,13 @@
       "examples": [
         {
           "passage": "the quick brown fox jumps over a lazy dog",
-          "focus": "The pangram again, this time timed — every letter of the alphabet in one flowing sentence, a real speed benchmark."
+          "focus": "The pangram again, this time timed — every letter of the alphabet in one flowing sentence, a real speed benchmark.",
+          "target": "Core example"
         },
         {
           "passage": "a big van chased a lizard past the high garden gate",
-          "focus": "A second full-alphabet-style sentence combining vocabulary from every unit so far."
+          "focus": "A second full-alphabet-style sentence combining vocabulary from every unit so far.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1110,14 +1205,16 @@
           "type": "type-check",
           "prompt": "Speed check #1 — type exactly: the quick brown fox jumps over a lazy dog",
           "answer": "the quick brown fox jumps over a lazy dog",
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"the quick brown fox jumps over a lazy dog\". This directly applies the principle of: Type full-alphabet sentences using all three rows at 25+ WPM with under 5 percent error rate.."
         },
         {
           "id": "typing-u3-l4-q2",
           "type": "type-check",
           "prompt": "Speed check #2 — type exactly: a big van chased a lizard past the high garden gate",
           "answer": "a big van chased a lizard past the high garden gate",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"a big van chased a lizard past the high garden gate\". This directly applies the principle of: Type full-alphabet sentences using all three rows at 25+ WPM with under 5 percent error rate.."
         },
         {
           "id": "typing-u3-l4-q3",
@@ -1131,7 +1228,8 @@
           ],
           "answer": "25+ WPM",
           "difficulty": 610,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"25+ WPM\". This directly applies the principle of: Type full-alphabet sentences using all three rows at 25+ WPM with under 5 percent error rate.."
         },
         {
           "id": "typing-u3-l4-q4",
@@ -1145,7 +1243,8 @@
           ],
           "answer": "Read it once fully so your hands move at a steady pace instead of discovering words as you type",
           "difficulty": 610,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Read it once fully so your hands move at a steady pace instead of discovering words as you type\". This directly applies the principle of: Type full-alphabet sentences using all three rows at 25+ WPM with under 5 percent error rate.."
         }
       ]
     },
@@ -1161,11 +1260,13 @@
       "examples": [
         {
           "passage": "the quick brown fox jumps over a lazy dog",
-          "focus": "The full pangram, one more time, as the unit's signature fluency test."
+          "focus": "The full pangram, one more time, as the unit's signature fluency test.",
+          "target": "Core example"
         },
         {
           "passage": "a high garden gate; a big van; a lazy fox",
-          "focus": "A varied passage mixing punctuation, G/H, bottom-row letters, and earlier vocabulary in one pass."
+          "focus": "A varied passage mixing punctuation, G/H, bottom-row letters, and earlier vocabulary in one pass.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1178,14 +1279,16 @@
           "type": "type-check",
           "prompt": "Summit check #1 — type exactly: the quick brown fox jumps over a lazy dog",
           "answer": "the quick brown fox jumps over a lazy dog",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"the quick brown fox jumps over a lazy dog\". This directly applies the principle of: Pass a full-alphabet speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u3-l5-q2",
           "type": "type-check",
           "prompt": "Summit check #2 — type exactly: a high garden gate; a big van; a lazy fox",
           "answer": "a high garden gate; a big van; a lazy fox",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"a high garden gate; a big van; a lazy fox\". This directly applies the principle of: Pass a full-alphabet speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u3-l5-q3",
@@ -1199,7 +1302,8 @@
           ],
           "answer": "Right index",
           "difficulty": 610,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Right index\". This directly applies the principle of: Pass a full-alphabet speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u3-l5-q4",
@@ -1213,14 +1317,16 @@
           ],
           "answer": "Completing home row with G/H and opening the bottom row so all 26 letters are reachable",
           "difficulty": 610,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Completing home row with G/H and opening the bottom row so all 26 letters are reachable\". This directly applies the principle of: Pass a full-alphabet speed and accuracy checkpoint.."
         },
         {
           "id": "typing-u3-l5-q5",
           "type": "short-answer",
           "prompt": "Explain in one or two sentences why G and H were taught separately from the rest of Unit 3's bottom-row keys instead of grouped with Z X C V B N M.",
           "answer": "G and H physically sit on home row itself, directly between F and J, so reaching them is a sideways lean rather than an up- or down-row reach like Z X C V B N M — they complete home row's own footprint rather than being part of the descent to the bottom row.",
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"G and H physically sit on home row itself, directly between F and J, so reaching them is a sideways lean rather than an up- or down-row reach like Z X C V B N M — they complete home row's own footprint rather than being part of the descent to the bottom row.\". This directly applies the principle of: Pass a full-alphabet speed and accuracy checkpoint.."
         }
       ]
     },

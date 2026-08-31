@@ -3066,7 +3066,7 @@
             "es"
           ],
           "answerIndex": 1,
-          "explanation": "vos sos.",
+          "explanation": "Correct answer: \"sos\". This directly applies the principle of: Describe people and relatives using Ser vs Estar, voseo conjugations (sos, estás), physical traits, and Argentine slang adjectives (copado/a, macanudo/a, hinchapelotas, re bueno/a, morocho/a, rubio/a)..",
           "type": "multiple-choice"
         },
         {
@@ -3648,7 +3648,7 @@
             "vos vas"
           ],
           "answerIndex": 3,
-          "explanation": "vos vas."
+          "explanation": "Correct answer: \"vos vas\". This directly applies the principle of: Master high-frequency irregular and monophthongized voseo verbs in Argentine Spanish: tener (vos tenés), querer (vos querés), poder (vos podés), ir (vos vas), and hacer (vos hacés).."
         }
       ]
     },
@@ -9740,7 +9740,7 @@
             "El tranvía aéreo"
           ],
           "answerIndex": 0,
-          "explanation": "El bondi."
+          "explanation": "Correct answer: \"El bondi / el colectivo\". This directly applies the principle of: Transporte público en Argentina: La tarjeta SUBE, colectivos (bondis), subte de Buenos Aires y micros de larga distancia.."
         }
       ]
     },
@@ -9807,7 +9807,7 @@
             "Aceite de cocina"
           ],
           "answerIndex": 1,
-          "explanation": "Nafta."
+          "explanation": "Correct answer: \"Nafta\". This directly applies the principle of: Alquilar autos en Argentina, circular por la Ruta 40, estaciones de servicio YPF (nafta súper/premium).."
         }
       ]
     },
@@ -9822,7 +9822,7 @@
             "La Ruta 66 de Estados Unidos"
           ],
           "answerIndex": 0,
-          "explanation": "Ruta 40."
+          "explanation": "Correct answer: \"La Ruta Nacional 40\". This directly applies the principle of: Alquilar autos en Argentina, circular por la Ruta 40, estaciones de servicio YPF (nafta súper/premium).."
         }
       ]
     },
@@ -10381,7 +10381,7 @@
             "El viento Zonda"
           ],
           "answerIndex": 3,
-          "explanation": "El Zonda."
+          "explanation": "Correct answer: \"El viento Zonda\". This directly applies the principle of: El pronóstico del tiempo, temperaturas, vientos típicos (el Zonda, la Sudestada, el Pampero) en Argentina.."
         }
       ]
     },
@@ -10642,7 +10642,7 @@
             "El Banco Central"
           ],
           "answerIndex": 0,
-          "explanation": "El SMN."
+          "explanation": "Correct answer: \"El Servicio Meteorológico Nacional\". This directly applies the principle of: Alertas del Servicio Meteorológico Nacional (SMN), tormentas severas con granizo en Buenos Aires y prevención.."
         }
       ]
     },
@@ -10709,7 +10709,7 @@
             "El mercurio"
           ],
           "answerIndex": 0,
-          "explanation": "El litio."
+          "explanation": "Correct answer: \"El litio\". This directly applies the principle of: Parques eólicos en la Patagonia, litio en el norte andino, biodiversidad y conservación ambiental.."
         }
       ]
     },
@@ -10791,7 +10791,7 @@
             "La panza"
           ],
           "answerIndex": 3,
-          "explanation": "La panza."
+          "explanation": "Correct answer: \"La panza\". This directly applies the principle of: Partes del cuerpo, dolencias con voseo y modismos médicos en Argentina (\"Me duele la panza / la garganta\", \"¿Qué te duele?\").."
         }
       ]
     },
@@ -11037,7 +11037,7 @@
             "El café instantáneo"
           ],
           "answerIndex": 1,
-          "explanation": "El mate."
+          "explanation": "Correct answer: \"El mate\". This directly applies the principle of: El mate como antioxidante y ritual de bienestar, vida al aire libre en los bosques de Palermo y salud mental.."
         }
       ]
     },
@@ -11873,7 +11873,7 @@
             "Aerolíneas Argentinas"
           ],
           "answerIndex": 1,
-          "explanation": "Globant."
+          "explanation": "Correct answer: \"Globant\". This directly applies the principle of: Los unicornios tecnológicos de Argentina: Mercado Libre (Marcos Galperin), Globant, Auth0, Ualá y el talento del software argentino.."
         }
       ]
     },
@@ -11940,7 +11940,7 @@
             "Aerolíneas"
           ],
           "answerIndex": 0,
-          "explanation": "INVAP."
+          "explanation": "Correct answer: \"INVAP\". This directly applies the principle of: Ciencia e industria espacial de vanguardia: INVAP en Bariloche (reactores nucleares, satélites SAOCOM y ARSAT), CONAE y Biogénesis Bagó.."
         }
       ]
     },
@@ -12119,7 +12119,7 @@
             "Entre Ríos"
           ],
           "answerIndex": 0,
-          "explanation": "La Puna."
+          "explanation": "Correct answer: \"La Puna\". This directly applies the principle of: Wind energy in Patagonia, lithium triangle in the Puna, and the clean energy transition (vientos patagónicos, parques eólicos de Chubut, el triángulo del litio en Jujuy/Salta, salares altoandinos).."
         }
       ]
     },
@@ -12146,7 +12146,7 @@
             "Yacyretá"
           ],
           "answerIndex": 3,
-          "explanation": "Yacyretá.",
+          "explanation": "Correct answer: \"Yacyretá\". This directly applies the principle of: Wind energy in Patagonia, lithium triangle in the Puna, and the clean energy transition (vientos patagónicos, parques eólicos de Chubut, el triángulo del litio en Jujuy/Salta, salares altoandinos)..",
           "type": "multiple-choice"
         }
       ],
@@ -12283,7 +12283,7 @@
             "NASA"
           ],
           "answerIndex": 1,
-          "explanation": "AAPRESID."
+          "explanation": "Correct answer: \"AAPRESID\". This directly applies the principle of: Regenerative agriculture in the Pampas, direct seeding, soil carbon sequestration, and agritech (agricultura regenerativa, siembra directa, AAPRESID, retención de carbono en suelos, bioinsumos).."
         }
       ]
     },
@@ -12350,7 +12350,7 @@
             "1969 (C2 synthesis on the Argentine Antarctic Sector)"
           ],
           "answerIndex": 0,
-          "explanation": "1904."
+          "explanation": "Correct answer: \"1904 (C2 synthesis on the Argentine Antarctic Sector)\". This directly applies the principle of: C2 synthesis on the Argentine Antarctic Sector, oceanographic research, blue economy, and Pampa Azul (Sector Antártico Argentino, Base Marambio, Iniciativa Pampa Azul, tratado antártico).."
         }
       ]
     },
@@ -12556,7 +12556,7 @@
             "ANMAT"
           ],
           "answerIndex": 2,
-          "explanation": "CONICET.",
+          "explanation": "Correct answer: \"CONICET\". This directly applies the principle of: Argentina's Nobel Laureates in Science: Bernardo Houssay, Luis Federico Leloir, and César Milstein (Bernardo Houssay - hipófisis y diabetes, Luis Federico Leloir - nucleótidos de azúcar, César Milstein - anticuerpos monoclonales)..",
           "type": "multiple-choice"
         }
       ],
@@ -12638,7 +12638,7 @@
             "AFIP"
           ],
           "answerIndex": 1,
-          "explanation": "INCUCAI.",
+          "explanation": "Correct answer: \"INCUCAI\". This directly applies the principle of: Pediatric medicine, hospital networks, and public health in Argentina (Hospital de Pediatría Garrahan, INCUCAI donación de órganos, Ley Justina, salud materno-infantil)..",
           "type": "multiple-choice"
         }
       ],
@@ -12802,7 +12802,7 @@
             "HB4 (C2 synthesis on Argentine biotechnology)"
           ],
           "answerIndex": 3,
-          "explanation": "HB4.",
+          "explanation": "Correct answer: \"HB4 (C2 synthesis on Argentine biotechnology)\". This directly applies the principle of: C2 synthesis on Argentine biotechnology, cloned transgenic cattle, and molecular biopharma (Bioceres, clonación de terneros transgénicos en INTA, biosimilares de mAbxience, vacunas de ARNm)..",
           "type": "multiple-choice"
         }
       ],
@@ -12857,7 +12857,7 @@
             "Tema del traidor y del héroe"
           ],
           "answerIndex": 2,
-          "explanation": "El Aleph."
+          "explanation": "Correct answer: \"El Aleph\". This directly applies the principle of: Borgesian Metaphysics: Jorge Luis Borges, labyrinths, infinite libraries, and idealism (Jorge Luis Borges - Ficciones y El Aleph, El jardín de senderos que se bifurcan, La biblioteca de Babel, idealismo de Berkeley y Schopenhauer).."
         }
       ]
     },
@@ -12939,7 +12939,7 @@
             "Pedro Páramo"
           ],
           "answerIndex": 0,
-          "explanation": "Rayuela."
+          "explanation": "Correct answer: \"Rayuela\". This directly applies the principle of: Existential anguish and blind lucidity: Ernesto Sabato and Julio Cortázar (Ernesto Sabato - El túnel y Sobre héroes y tumbas, Informe sobre ciegos, Julio Cortázar - Rayuela y la búsqueda ontológica del cielo).."
         }
       ]
     },
@@ -13540,7 +13540,7 @@
             "La Boca"
           ],
           "answerIndex": 2,
-          "explanation": "Recoleta.",
+          "explanation": "Correct answer: \"Recoleta\". This directly applies the principle of: Brutalist Architecture & Monumental Heritage: Clorindo Testa and the National Library (Clorindo Testa - Biblioteca Nacional Mariano Moreno, Banco de Londres / Hipotecario en Buenos Aires, brutalismo escultórico, hormigón armado a la vista)..",
           "type": "multiple-choice"
         }
       ],
@@ -14251,7 +14251,7 @@
             "Córdoba"
           ],
           "answerIndex": 0,
-          "explanation": "Salta."
+          "explanation": "Correct answer: \"Salta\". This directly applies the principle of: Sensory Realism & Decadent Bourgeoisie: Lucrecia Martel (Lucrecia Martel - La Ciénaga 2001, Premio Alfred Bauer en Berlín, La niña santa, La mujer sin cabeza, Zama 2017, diseño sonoro inmersivo y microclimas de Salta).."
         }
       ]
     },
@@ -14278,7 +14278,7 @@
             "«Rayuela»"
           ],
           "answerIndex": 1,
-          "explanation": "«Zama».",
+          "explanation": "Correct answer: \"«Zama»\". This directly applies the principle of: Sensory Realism & Decadent Bourgeoisie: Lucrecia Martel (Lucrecia Martel - La Ciénaga 2001, Premio Alfred Bauer en Berlín, La niña santa, La mujer sin cabeza, Zama 2017, diseño sonoro inmersivo y microclimas de Salta)..",
           "type": "multiple-choice"
         }
       ],
@@ -14825,7 +14825,7 @@
             "Timbre 4 (C2 synthesis on The Buenos Aires Independent Theater Axis)"
           ],
           "answerIndex": 3,
-          "explanation": "Timbre 4."
+          "explanation": "Correct answer: \"Timbre 4 (C2 synthesis on The Buenos Aires Independent Theater Axis)\". This directly applies the principle of: C2 synthesis on The Buenos Aires Independent Theater Axis: Avenida Corrientes and El Callejón (El circuito teatral porteño: Avenida Corrientes comercial frente al Circuito Off Corrientes, Teatro San Martín, El Periférico de Objetos, Daniel Veronese, Rafael Spregelburd).."
         }
       ]
     },
@@ -15262,7 +15262,7 @@
             "Mendoza (C2 synthesis on Modern Vocal Titans of Argentina)"
           ],
           "answerIndex": 1,
-          "explanation": "Córdoba.",
+          "explanation": "Correct answer: \"Córdoba (C2 synthesis on Modern Vocal Titans of Argentina)\". This directly applies the principle of: C2 synthesis on Modern Vocal Titans of Argentina: Marcelo Álvarez, Darío Volonté and Contemporary Opera (Marcelo Álvarez - tenor lírico en el Met y Covent Garden, Darío Volonté - veterano de Malvinas y tenor dramático «Nessun dorma», el Centro de Experimentación del Teatro Colón (CETC))..",
           "type": "multiple-choice"
         }
       ],
@@ -16000,7 +16000,7 @@
             "Tilcara"
           ],
           "answerIndex": 0,
-          "explanation": "Maimará.",
+          "explanation": "Correct answer: \"Maimará\". This directly applies the principle of: Deep America & The Philosophy of Being vs Mere Dwelling: Rodolfo Kusch (Rodolfo Kusch - América profunda 1962, Geocultura del hombre americano 1976, la ontología del «estar» indígena frente al «ser-alguien» occidental, el pensamiento seminal andino, Maimará en Jujuy)..",
           "type": "multiple-choice"
         }
       ],
@@ -16164,7 +16164,7 @@
             "Rayuela"
           ],
           "answerIndex": 2,
-          "explanation": "Zama.",
+          "explanation": "Correct answer: \"Zama\". This directly applies the principle of: The Acoustic Sensorium of Salta & Decadent Provincial Realism: Lucrecia Martel (Lucrecia Martel - La Trilogía de Salta: La Ciénaga 2001, La niña santa 2004, La mujer sin cabeza 2008; Zama 2017; el diseño sonoro hiperdetallado fuera de campo, la decadencia de la burguesía provinciana y la disolución de la certeza visual)..",
           "type": "multiple-choice"
         }
       ],

@@ -535,7 +535,7 @@
             "False: Perceptual maps cannot track customer sentiment. (C2 Synthesis on Strategic Brand Repositioning)"
           ],
           "answerIndex": 0,
-          "explanation": "True.",
+          "explanation": "Correct answer: \"True: Moving brand perception requires heavy sustained investment, which must be mathematically balanced against incremental customer acquisition. (C2 Synthesis on Strategic Brand Repositioning)\". This directly applies the principle of: C2 Synthesis on Strategic Brand Repositioning, Defensible Moats, and Perceptual Distance Optimization..",
           "type": "multiple-choice"
         },
         {
@@ -1368,7 +1368,7 @@
             "$100"
           ],
           "answerIndex": 2,
-          "explanation": "$1,200.",
+          "explanation": "Correct answer: \"$1,200\". This directly applies the principle of: Customer Acquisition Cost (CAC) to LTV Dynamics, Payback Period & Unit Economics (The venture capital unit economics benchmarks: $\\text{LTV} / \\text{CAC} \\ge 3.0$; fully-loaded CAC formula: $\\text{CAC} = \\frac{\\text{Total Sales \\& Marketing Expense}}{\\text{New Customers Acquired}}$; CAC Payback Period $= \\frac{\\text{CAC}}{\\text{ARPU} \\times \\text{Gross Margin \\%}} \\le 12\\text{ months}$; Net Revenue Retention (NRR) $\\ge 120\\%$ and negative churn dynamics)..",
           "type": "multiple-choice"
         }
       ],
@@ -1602,7 +1602,7 @@
             "False: Conjoint simulators can only predict historical sales from five years ago. (C2 Synthesis on Market Simulation Engines)"
           ],
           "answerIndex": 0,
-          "explanation": "True.",
+          "explanation": "Correct answer: \"True: Conjoint market simulators evaluate counterfactual market scenarios by calculating choice probabilities across respondent segments. (C2 Synthesis on Market Simulation Engines)\". This directly applies the principle of: C2 Synthesis on Market Simulation Engines: Share of Preference, First-Choice Rule, and Sensitivity Sensitivity Optimization..",
           "type": "multiple-choice"
         },
         {
@@ -1669,7 +1669,7 @@
             "$20.00"
           ],
           "answerIndex": 0,
-          "explanation": "$40.00."
+          "explanation": "Correct answer: \"$40.00\". This directly applies the principle of: Calculate Marginal Willingness-to-Pay (WTP) and Marginal Rates of Substitution (MRS) from Part-Worth Utilities.."
         }
       ]
     },
@@ -1766,7 +1766,7 @@
             "100.0%"
           ],
           "answerIndex": 2,
-          "explanation": "33.3%.",
+          "explanation": "Correct answer: \"33.3%\". This directly applies the principle of: Derive Discrete Choice Modeling (Choice-Based Conjoint - CBC), Multinomial Logit (MNL), and Independence of Irrelevant Alternatives (IIA)..",
           "type": "multiple-choice"
         },
         {

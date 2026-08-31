@@ -157,19 +157,22 @@
           "fen": "4k3/8/8/3n4/8/2K5/4Q3/8 w - - 0 1",
           "description": "White to move. The black knight on d5 looks safe, but White has a check that also threatens the knight.",
           "solution": "Qe2-e4+ is not the idea here — instead look at the queen: there is no fork available for White in this diagram; White should simply take stock. (Illustrative non-example: not every position has a fork — recognizing when one is absent is part of the skill.)",
-          "explanationOfSolution": "This example intentionally shows a position WITHOUT a fork, to train the first skill: don't force a pattern that is not there. Scanning the board and concluding \"no fork available\" is a correct and valuable answer."
+          "explanationOfSolution": "This example intentionally shows a position WITHOUT a fork, to train the first skill: don't force a pattern that is not there. Scanning the board and concluding \"no fork available\" is a correct and valuable answer.",
+          "target": "Core example"
         },
         {
           "fen": "r3k3/8/8/8/4N3/8/8/4K3 w - - 0 1",
           "description": "White to move. The white knight sits on e4. Black has a king on e8 and a rook on a8.",
           "solution": "Nd6+",
-          "explanationOfSolution": "Nd6+ gives check to the king on e8 and simultaneously attacks nothing else here directly, but it forces the king to move, after which the knight dominates central light and dark squares — use this position to practice just calculating the knight's reachable squares from d6: b5, b7, c4, c8, e4, e8, f5, f7. Notice c8 and e8 are both near the black king and rook, which is why centralizing a knight before forking is a recurring theme."
+          "explanationOfSolution": "Nd6+ gives check to the king on e8 and simultaneously attacks nothing else here directly, but it forces the king to move, after which the knight dominates central light and dark squares — use this position to practice just calculating the knight's reachable squares from d6: b5, b7, c4, c8, e4, e8, f5, f7. Notice c8 and e8 are both near the black king and rook, which is why centralizing a knight before forking is a recurring theme.",
+          "target": "Core example"
         },
         {
           "fen": "2r1k3/8/8/8/8/2N5/8/4K3 w - - 0 1",
           "description": "White to move. Knight on c3, black king on e8, black rook on c8.",
           "solution": "Nb5",
-          "explanationOfSolution": "Nb5 attacks nothing yet but eyes the fork square d6 next move (Nd6+ would fork king e8 and rook c8 was already once it moves away — actually check the real fork: from b5 the knight attacks a7, c7, d6, d4, a3 — none hit both king and rook yet). This example is used as a calculation exercise: find that Nb5 is NOT yet the fork, and the real fork square against king-e8/rook-c8 is d6, reachable next move. The lesson: forks are often two moves away — find the fork SQUARE first, then find the route to it."
+          "explanationOfSolution": "Nb5 attacks nothing yet but eyes the fork square d6 next move (Nd6+ would fork king e8 and rook c8 was already once it moves away — actually check the real fork: from b5 the knight attacks a7, c7, d6, d4, a3 — none hit both king and rook yet). This example is used as a calculation exercise: find that Nb5 is NOT yet the fork, and the real fork square against king-e8/rook-c8 is d6, reachable next move. The lesson: forks are often two moves away — find the fork SQUARE first, then find the route to it.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -184,7 +187,8 @@
           "prompt": "White to move. Find the knight move that forks the black king and the rook on a8.",
           "answer": "Nc7+",
           "difficulty": 650,
-          "hint": "Which square is a knight-jump from both e8 and a8?"
+          "hint": "Which square is a knight-jump from both e8 and a8?",
+          "explanation": "Correct answer: \"Nc7+\". This directly applies the principle of: Explain what a fork is and identify a knight fork that wins material in a simple, quiet position.."
         },
         {
           "id": "chess-u1-l1-q2",
@@ -198,7 +202,8 @@
           ],
           "answer": "Its attack can't be blocked by interposing a piece, since it jumps over everything",
           "difficulty": 600,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Its attack can't be blocked by interposing a piece, since it jumps over everything\". This directly applies the principle of: Explain what a fork is and identify a knight fork that wins material in a simple, quiet position.."
         },
         {
           "id": "chess-u1-l1-q3",
@@ -206,7 +211,8 @@
           "fen": "2r1k3/8/8/8/4N3/8/8/4K3 w - - 0 1",
           "prompt": "White to move. Find the knight fork that hits the king on e8 and the rook on c8.",
           "answer": "Nd6+",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"Nd6+\". This directly applies the principle of: Explain what a fork is and identify a knight fork that wins material in a simple, quiet position.."
         }
       ]
     },
@@ -225,13 +231,15 @@
           "fen": "4k3/8/4q3/3N4/8/8/8/6K1 w - - 0 1",
           "description": "White to move. King e8, queen e6 for black; white knight on d5.",
           "solution": "Nc7+",
-          "explanationOfSolution": "From d5 the knight's reach is b4, b6, c3, c7, e3, e7, f4, f6 — and c7 is the fork square, since a knight on c7 reaches a6, a8, b5, d5, e6, e8. That hits both the king on e8 and the queen on e6 at once. The queen cannot capture the knight (c7 is not on any rank, file, or diagonal from e6) and cannot block a knight's check, so the king must move — and Nxe6 wins the queen next. That is the royal fork."
+          "explanationOfSolution": "From d5 the knight's reach is b4, b6, c3, c7, e3, e7, f4, f6 — and c7 is the fork square, since a knight on c7 reaches a6, a8, b5, d5, e6, e8. That hits both the king on e8 and the queen on e6 at once. The queen cannot capture the knight (c7 is not on any rank, file, or diagonal from e6) and cannot block a knight's check, so the king must move — and Nxe6 wins the queen next. That is the royal fork.",
+          "target": "Core example"
         },
         {
           "fen": "2k5/8/1q6/8/8/3N4/8/4K3 w - - 0 1",
           "description": "White to move. King c8, queen b6 for black; white knight on d3.",
           "solution": "Nb4",
-          "explanationOfSolution": "Nb4 attacks a6, a2, c2, c6, d5 — not the fork. The real fork square: check which square attacks both c8 and b6. That is a6 (a6 attacks b8, c7, c5, b4 — not it either) or d7 (attacks b6, b8, c5, f6, f8 — d7 hits b6! and b8, not c8 directly). Correct fork square is a5? Systematically: squares a knight-move from c8 are a7, b6, d6, e7. Squares a knight-move from b6 are a4, a8, c4, c8, d5, d7. The intersection is none directly, so instead the practical route is Nd3-c5, attacking b7, a6, a4, b3, d3, e4, e6, d7 — c5 hits d7 and e6 but still not both targets. This example is deliberately hard: it trains you to conclude 'no one-move royal fork exists here,' and instead look for a forcing check (Nb4+ is not check either) before committing — with knight forks, always verify the landing square against BOTH targets by listing all eight knight-move destinations rather than guessing."
+          "explanationOfSolution": "Nb4 attacks a6, a2, c2, c6, d5 — not the fork. The real fork square: check which square attacks both c8 and b6. That is a6 (a6 attacks b8, c7, c5, b4 — not it either) or d7 (attacks b6, b8, c5, f6, f8 — d7 hits b6! and b8, not c8 directly). Correct fork square is a5? Systematically: squares a knight-move from c8 are a7, b6, d6, e7. Squares a knight-move from b6 are a4, a8, c4, c8, d5, d7. The intersection is none directly, so instead the practical route is Nd3-c5, attacking b7, a6, a4, b3, d3, e4, e6, d7 — c5 hits d7 and e6 but still not both targets. This example is deliberately hard: it trains you to conclude 'no one-move royal fork exists here,' and instead look for a forcing check (Nb4+ is not check either) before committing — with knight forks, always verify the landing square against BOTH targets by listing all eight knight-move destinations rather than guessing.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -245,14 +253,16 @@
           "fen": "4k3/8/4q3/3N4/8/8/8/6K1 w - - 0 1",
           "prompt": "White to move. Find the royal fork that wins the black queen.",
           "answer": "Nc7+",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Nc7+\". This directly applies the principle of: Find knight forks that win the king plus a major piece (a \"royal fork\") in one to two moves.."
         },
         {
           "id": "chess-u1-l2-q2",
           "type": "short-answer",
           "prompt": "List all eight squares a knight standing on d5 can move to (assume an otherwise empty board).",
           "answer": "b4, b6, c3, c7, e3, e7, f4, f6",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"b4, b6, c3, c7, e3, e7, f4, f6\". This directly applies the principle of: Find knight forks that win the king plus a major piece (a \"royal fork\") in one to two moves.."
         },
         {
           "id": "chess-u1-l2-q3",
@@ -266,7 +276,8 @@
           ],
           "answer": "The king MUST move first, so the second target cannot be saved by counter-attack",
           "difficulty": 600,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The king MUST move first, so the second target cannot be saved by counter-attack\". This directly applies the principle of: Find knight forks that win the king plus a major piece (a \"royal fork\") in one to two moves.."
         }
       ]
     },
@@ -285,19 +296,22 @@
           "fen": "r3k3/8/8/2b1n3/3P4/8/8/4K3 w - - 0 1",
           "description": "White to move. White pawn on d4; black bishop on c5 and knight on e5.",
           "solution": "d4-d5? is wrong direction of thought — the pawn already threatens both. Correct move: capture is not needed, the fork already exists via the pawn on d4 attacking c5 and e5 next move is false since pawns on d4 attack c5 and e5 THIS move as a capture. So White plays dxc5 or dxe5, winning a piece either way.",
-          "explanationOfSolution": "A pawn on d4 attacks c5 and e5 immediately (one square diagonally forward for White). Since both a bishop and a knight sit on those squares undefended, White simply captures the more valuable/most useful one: dxe5 wins the knight outright. This teaches that forks are not always \"found\" by moving — sometimes the fork is already sitting on the board as a capturing choice, and the skill is simply noticing it."
+          "explanationOfSolution": "A pawn on d4 attacks c5 and e5 immediately (one square diagonally forward for White). Since both a bishop and a knight sit on those squares undefended, White simply captures the more valuable/most useful one: dxe5 wins the knight outright. This teaches that forks are not always \"found\" by moving — sometimes the fork is already sitting on the board as a capturing choice, and the skill is simply noticing it.",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/3n1b2/8/2P5/8/8/4K3 w - - 0 1",
           "description": "White to move. White pawn on c4; black knight on d6, bishop on f6.",
           "solution": "c4-c5",
-          "explanationOfSolution": "c5 attacks d6 (winning the knight, since c5 is a diagonal square in front of the pawn) — note c5 does NOT attack f6 (too far away), so this is really a single threat, not a double fork. Use this as a discrimination drill: not every pawn push that wins a piece is a 'fork' — a fork specifically requires two simultaneous targets. Here it's simply a winning pawn advance against an undefended knight, a related but distinct pattern worth telling apart."
+          "explanationOfSolution": "c5 attacks d6 (winning the knight, since c5 is a diagonal square in front of the pawn) — note c5 does NOT attack f6 (too far away), so this is really a single threat, not a double fork. Use this as a discrimination drill: not every pawn push that wins a piece is a 'fork' — a fork specifically requires two simultaneous targets. Here it's simply a winning pawn advance against an undefended knight, a related but distinct pattern worth telling apart.",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/2n1b3/8/3P4/8/8/4K3 w - - 0 1",
           "description": "White to move. White pawn on d4; black knight on c6, bishop on e6.",
           "solution": "d4-d5",
-          "explanationOfSolution": "d5 attacks both c6 and e6 in one move — this IS a true pawn fork, winning a full piece since Black can only move one of the two attacked pieces."
+          "explanationOfSolution": "d5 attacks both c6 and e6 in one move — this IS a true pawn fork, winning a full piece since Black can only move one of the two attacked pieces.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -311,14 +325,16 @@
           "fen": "4k3/8/2n1b3/8/3P4/8/8/4K3 w - - 0 1",
           "prompt": "White to move. Find the pawn fork that wins a piece.",
           "answer": "d4-d5",
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"d4-d5\". This directly applies the principle of: Recognize and execute pawn forks that attack two undefended pieces with a single pawn advance.."
         },
         {
           "id": "chess-u1-l3-q2",
           "type": "true-false",
           "prompt": "A pawn on e4 (White) attacks the squares d5 and f5.",
           "answer": "true",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"true\". This directly applies the principle of: Recognize and execute pawn forks that attack two undefended pieces with a single pawn advance.."
         },
         {
           "id": "chess-u1-l3-q3",
@@ -332,7 +348,8 @@
           ],
           "answer": "The attacker risks almost nothing (a pawn) to win a far more valuable piece",
           "difficulty": 600,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The attacker risks almost nothing (a pawn)\". This directly applies the principle of: Recognize and execute pawn forks that attack two undefended pieces with a single pawn advance.."
         }
       ]
     },
@@ -351,19 +368,22 @@
           "fen": "4k3/8/8/8/5b2/8/8/4KQ2 b - - 0 1",
           "description": "Black to move. Black bishop f4; white king e1, queen f1.",
           "solution": "Bd2+",
-          "explanationOfSolution": "Bd2+ checks the king on e1 along the newly-reached c1-h6 diagonal and, because the king must move, threatens to also grab material next if the queen stays on a related diagonal — in this simplified diagram the primary lesson is spotting that d2 lies on the same diagonal as e1, demonstrating how a bishop fork begins with a checking diagonal."
+          "explanationOfSolution": "Bd2+ checks the king on e1 along the newly-reached c1-h6 diagonal and, because the king must move, threatens to also grab material next if the queen stays on a related diagonal — in this simplified diagram the primary lesson is spotting that d2 lies on the same diagonal as e1, demonstrating how a bishop fork begins with a checking diagonal.",
+          "target": "Core example"
         },
         {
           "fen": "3rk3/8/8/8/8/8/4K3/R6r w - - 0 1",
           "description": "White to move. White rook a1, king e2; black rook d8 and rook h1.",
           "solution": "Rxh1",
-          "explanationOfSolution": "This position shows a rook simply winning material along the first rank rather than a true fork — use it to practice scanning ranks and files for undefended enemy pieces sitting on them, the same scanning habit line-forks require. (Note the white king had to stand off the first rank for the rook to see all the way down it — always check your own pieces aren't blocking the very line you're counting on.)"
+          "explanationOfSolution": "This position shows a rook simply winning material along the first rank rather than a true fork — use it to practice scanning ranks and files for undefended enemy pieces sitting on them, the same scanning habit line-forks require. (Note the white king had to stand off the first rank for the rook to see all the way down it — always check your own pieces aren't blocking the very line you're counting on.)",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/8/3q4/8/8/8/Q3K3 w - - 0 1",
           "description": "White to move. White queen a1; black king e8, black queen d5.",
           "solution": "Qa1-a8+",
-          "explanationOfSolution": "Qa8+ checks along the 8th rank (a8 to e8) while the queen on a1 also sat on the a-file and diagonal a1-h8 which passes near d5 — walk the diagonal a1-b2-c3-d4-e5 to see it does NOT hit d5 (d4 does, not d5), so the real takeaway is: always trace the exact diagonal/file/rank square by square rather than assuming a queen fork is present just because both pieces look \"nearby.\" Qa8+ wins by check and tempo, forcing the king to move, after which a follow-up along the a-file or a diagonal may pick up the queen — a two-move fork sequence."
+          "explanationOfSolution": "Qa8+ checks along the 8th rank (a8 to e8) while the queen on a1 also sat on the a-file and diagonal a1-h8 which passes near d5 — walk the diagonal a1-b2-c3-d4-e5 to see it does NOT hit d5 (d4 does, not d5), so the real takeaway is: always trace the exact diagonal/file/rank square by square rather than assuming a queen fork is present just because both pieces look \"nearby.\" Qa8+ wins by check and tempo, forcing the king to move, after which a follow-up along the a-file or a diagonal may pick up the queen — a two-move fork sequence.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -383,7 +403,8 @@
           ],
           "answer": "Whether a piece can block (interpose) on the line between attacker and target",
           "difficulty": 700,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Whether a piece can block (interpose)\". This directly applies the principle of: Identify forks delivered by bishops, rooks, and queens along open lines, not just knight and pawn forks.."
         },
         {
           "id": "chess-u1-l4-q2",
@@ -391,14 +412,16 @@
           "fen": "4k3/8/8/8/5b2/8/8/4KQ2 b - - 0 1",
           "prompt": "Black to move. Find the bishop move that checks the white king.",
           "answer": "Bd2+",
-          "difficulty": 680
+          "difficulty": 680,
+          "explanation": "Correct answer: \"Bd2+\". This directly applies the principle of: Identify forks delivered by bishops, rooks, and queens along open lines, not just knight and pawn forks.."
         },
         {
           "id": "chess-u1-l4-q3",
           "type": "short-answer",
           "prompt": "Name the two piece types (besides queen) that can deliver a \"line fork\" — one along ranks/files, one along diagonals.",
           "answer": "Rook (ranks and files) and bishop (diagonals)",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"Rook (ranks and files) and bishop (diagonals)\". This directly applies the principle of: Identify forks delivered by bishops, rooks, and queens along open lines, not just knight and pawn forks.."
         }
       ]
     },
@@ -417,7 +440,8 @@
           "fen": "4k3/8/8/3n4/8/8/1P6/4K3 w - - 0 1",
           "description": "White to move. White pawn b2, black knight d5.",
           "solution": "b2-b4 does not fork anything (only one target). Correct observation: no fork exists; best move is simply developing or attacking the knight some other way.",
-          "explanationOfSolution": "Included deliberately as a \"no fork\" case — over-eager pattern hunting is a common beginner error. Confirming the absence of a tactic is a real, gradeable skill."
+          "explanationOfSolution": "Included deliberately as a \"no fork\" case — over-eager pattern hunting is a common beginner error. Confirming the absence of a tactic is a real, gradeable skill.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -431,7 +455,8 @@
           "fen": "r3k3/8/8/3N4/8/8/8/4K3 w - - 0 1",
           "prompt": "White to move. Mixed review: find the fork.",
           "answer": "Nc7+",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Nc7+\". This directly applies the principle of: Solve a mixed set of fork puzzles across all piece types under time pressure, without being told which piece forks.."
         },
         {
           "id": "chess-u1-l5-q2",
@@ -439,7 +464,8 @@
           "fen": "4k3/8/2n1b3/8/3P4/8/8/4K3 w - - 0 1",
           "prompt": "White to move. Mixed review: find the fork.",
           "answer": "d4-d5",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"d4-d5\". This directly applies the principle of: Solve a mixed set of fork puzzles across all piece types under time pressure, without being told which piece forks.."
         },
         {
           "id": "chess-u1-l5-q3",
@@ -447,14 +473,16 @@
           "fen": "4k3/8/4q3/3N4/8/8/8/6K1 w - - 0 1",
           "prompt": "White to move. Mixed review: find the royal fork.",
           "answer": "Nc7+",
-          "difficulty": 750
+          "difficulty": 750,
+          "explanation": "Correct answer: \"Nc7+\". This directly applies the principle of: Solve a mixed set of fork puzzles across all piece types under time pressure, without being told which piece forks.."
         },
         {
           "id": "chess-u1-l5-q4",
           "type": "short-answer",
           "prompt": "State the three-question scan to run on every position when hunting for forks.",
           "answer": "Am I in check? Does anything hang? Can I move to a square attacking two targets at once?",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"Am I in check? Does anything hang? Can I move to a square attacking two targets at once?\". This directly applies the principle of: Solve a mixed set of fork puzzles across all piece types under time pressure, without being told which piece forks.."
         }
       ]
     },
@@ -473,19 +501,22 @@
           "fen": "4k3/8/8/8/8/4n3/8/4KB2 w - - 0 1",
           "description": "White to move. White bishop f1, black king e8, black knight e3 is NOT on the same diagonal as f1-e8 — adjust: knight on d3.",
           "solution": "Bf1 does not currently pin anything from f1; the lesson point is recognizing the diagonal a pin requires: attacker-pinned piece-king must be exactly collinear.",
-          "explanationOfSolution": "Used to train the geometric check: f1, and e8 are not on the same diagonal as any square housing a knight in this example, so there is no pin yet — trace diagonals precisely rather than eyeballing 'roughly in line.'"
+          "explanationOfSolution": "Used to train the geometric check: f1, and e8 are not on the same diagonal as any square housing a knight in this example, so there is no pin yet — trace diagonals precisely rather than eyeballing 'roughly in line.'",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/8/8/4n3/8/8/4KB2 w - - 0 1",
           "description": "White to move. White bishop f1, white king e1; black king e8, black knight e4.",
           "solution": "No pin exists here either (f1-e4-e8 is not one diagonal); this trains distinguishing a genuine pin line from pieces that merely look aligned.",
-          "explanationOfSolution": "f1 sits on the a6-f1 diagonal and separately the b5-f1 diagonal; e8 and e4 sit on the e-file, a completely different line, so no pin is possible along a diagonal here. This negative example builds the discipline of tracing exact diagonals (a1-h8 style) before declaring a pin."
+          "explanationOfSolution": "f1 sits on the a6-f1 diagonal and separately the b5-f1 diagonal; e8 and e4 sit on the e-file, a completely different line, so no pin is possible along a diagonal here. This negative example builds the discipline of tracing exact diagonals (a1-h8 style) before declaring a pin.",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/8/8/8/8/4n3/4KB2 w - - 0 1",
           "description": "White to move. White bishop f1, white king e1; black king e8, black knight e2.",
           "solution": "Bxe2",
-          "explanationOfSolution": "Here the knight on e2 is simply hanging next to the white king — not a pin scenario, a direct capture. Included to sharpen the distinction between 'pin' (line attack that immobilizes a piece) and 'the piece is just undefended,' which beginners frequently conflate."
+          "explanationOfSolution": "Here the knight on e2 is simply hanging next to the white king — not a pin scenario, a direct capture. Included to sharpen the distinction between 'pin' (line attack that immobilizes a piece) and 'the piece is just undefended,' which beginners frequently conflate.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -505,21 +536,24 @@
           ],
           "answer": "The king (not just any piece) is directly behind the pinned piece on the line",
           "difficulty": 620,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The king (not just any piece)\". This directly applies the principle of: Define an absolute pin versus a relative pin and identify each on a given board.."
         },
         {
           "id": "chess-u2-l1-q2",
           "type": "true-false",
           "prompt": "In an absolute pin, moving the pinned piece is not merely bad — it is illegal.",
           "answer": "true",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"true\". This directly applies the principle of: Define an absolute pin versus a relative pin and identify each on a given board.."
         },
         {
           "id": "chess-u2-l1-q3",
           "type": "short-answer",
           "prompt": "Which three piece types can deliver a pin?",
           "answer": "Bishop, rook, and queen (any line-moving piece)",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"Bishop, rook, and queen (any line-moving piece)\". This directly applies the principle of: Define an absolute pin versus a relative pin and identify each on a given board.."
         }
       ]
     },
@@ -538,13 +572,15 @@
           "fen": "4k3/8/8/8/4n3/8/8/4KB2 w - - 0 1",
           "description": "White to move. Bishop f1, black knight e4, kings on e1/e8 (illustrative, not a legal pin line — used for the piling-on concept narratively).",
           "solution": "Conceptual example: after establishing a pin such as Bg2 pinning a knight on e4 against a king on e8-ish diagonal, follow up with a second attacker like f2-f3 or Nc3 to add pressure.",
-          "explanationOfSolution": "This is a conceptual walk-through (not a strict puzzle) of the \"add a second attacker\" idea: once a piece is pinned and frozen, treat it like a piece that cannot move, and count attackers versus defenders on it just as you would for any hanging piece."
+          "explanationOfSolution": "This is a conceptual walk-through (not a strict puzzle) of the \"add a second attacker\" idea: once a piece is pinned and frozen, treat it like a piece that cannot move, and count attackers versus defenders on it just as you would for any hanging piece.",
+          "target": "Core example"
         },
         {
           "fen": "r3k3/1p6/8/8/8/8/1P6/R3K3 w - - 0 1",
           "description": "White to move. Rooks on a1/a8, pawns on b2/b7, kings on e1/e8.",
           "solution": "Ra1-a7",
-          "explanationOfSolution": "Ra7 attacks the b7 pawn, which is only defended by... nothing here, since the king is far away — this shows a rook infiltrating the 7th rank, a related \"piling on\" idea where a rook attacks a pawn that has no piece behind it to add a second defender."
+          "explanationOfSolution": "Ra7 attacks the b7 pawn, which is only defended by... nothing here, since the king is far away — this shows a rook infiltrating the 7th rank, a related \"piling on\" idea where a rook attacks a pawn that has no piece behind it to add a second defender.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -564,14 +600,16 @@
           ],
           "answer": "Bring additional attackers onto the pinned piece since it cannot run",
           "difficulty": 650,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Bring additional attackers onto the pinned piece since it cannot run\". This directly applies the principle of: Set up an absolute pin against the enemy king and follow up by piling additional attackers on the pinned piece.."
         },
         {
           "id": "chess-u2-l2-q2",
           "type": "short-answer",
           "prompt": "Before piling on a pinned piece, what two counts should you compare?",
           "answer": "The number of attackers versus the number of defenders on the pinned piece",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"The number of attackers versus the number of defenders on the pinned piece\". This directly applies the principle of: Set up an absolute pin against the enemy king and follow up by piling additional attackers on the pinned piece.."
         }
       ]
     },
@@ -590,7 +628,8 @@
           "fen": "4k3/8/8/8/8/8/3q4/2B1K3 w - - 0 1",
           "description": "White to move. White bishop c1, white king e1; black queen d2.",
           "solution": "The bishop on c1 is pinning nothing here (queen d2 is not shielding anything valuable behind it on that diagonal from c1) — used to contrast with a real relative pin.",
-          "explanationOfSolution": "A reminder check: c1-d2-e3-f4... — behind d2 along that diagonal from White's attacking side there is nothing of Black's, so this is not a meaningful pin scenario, only a diagonal attack on the queen itself if defended poorly."
+          "explanationOfSolution": "A reminder check: c1-d2-e3-f4... — behind d2 along that diagonal from White's attacking side there is nothing of Black's, so this is not a meaningful pin scenario, only a diagonal attack on the queen itself if defended poorly.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -603,7 +642,8 @@
           "type": "true-false",
           "prompt": "A relative pin makes it illegal to move the pinned piece.",
           "answer": "false",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"false\". This directly applies the principle of: Recognize when a relative pin can safely be broken by the defender, and when it cannot.."
         },
         {
           "id": "chess-u2-l3-q2",
@@ -617,7 +657,8 @@
           ],
           "answer": "When the piece behind the pin is well defended, or the move creates a big enough counter-threat",
           "difficulty": 700,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"When the piece behind the pin is well defended, or the move creates a big enough counter-threat\". This directly applies the principle of: Recognize when a relative pin can safely be broken by the defender, and when it cannot.."
         }
       ]
     },
@@ -636,7 +677,8 @@
           "fen": "4k3/8/5n2/8/8/8/5P2/4KB2 w - - 0 1",
           "description": "White to move. Bishop f1, pawn f2, black knight f6, kings e1/e8. (Illustrative — knight f6 pinned to nothing here; used to practice the pawn-attacks-pinned-piece idea narratively.)",
           "solution": "g2-g4-g5 style pawn storms are the practical technique: advance a neighboring pawn toward the pinned piece to attack it directly.",
-          "explanationOfSolution": "The concrete takeaway: once you identify a pin, scan your OWN pawns for one that can advance to directly attack the pinned piece — this is a very common winning technique against a pinned knight defending a king-side fianchetto structure."
+          "explanationOfSolution": "The concrete takeaway: once you identify a pin, scan your OWN pawns for one that can advance to directly attack the pinned piece — this is a very common winning technique against a pinned knight defending a king-side fianchetto structure.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -656,7 +698,8 @@
           ],
           "answer": "It is the cheapest possible attacker, and the pinned piece often cannot safely move away",
           "difficulty": 650,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It is the cheapest possible attacker, and the pinned piece often cannot safely move away\". This directly applies the principle of: Use a pin to win material by attacking the pinned piece with a pawn.."
         }
       ]
     },
@@ -675,7 +718,8 @@
           "fen": "4k3/8/8/8/8/8/4n3/4KB2 w - - 0 1",
           "description": "White to move. Bishop f1, white king e1; black king e8, black knight e2.",
           "solution": "Bxe2 — direct capture, not technically a pin (review of the \"not every alignment is a pin\" distinction).",
-          "explanationOfSolution": "Reinforces the discrimination skill from lesson 1: confirm the geometry before labeling something a pin."
+          "explanationOfSolution": "Reinforces the discrimination skill from lesson 1: confirm the geometry before labeling something a pin.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -688,7 +732,8 @@
           "type": "short-answer",
           "prompt": "Give one reason a defender might safely break a relative pin, and one reason an absolute pin can never be broken.",
           "answer": "Relative pin: can be broken if the piece behind is defended or the move makes a bigger threat. Absolute pin: illegal to break because it would expose the king to check.",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Relative pin: can be broken if the piece behind is defended or the move makes a bigger threat. Absolute pin: illegal to break because it would expose the king to check.\". This directly applies the principle of: Solve mixed pin puzzles combining absolute pins, relative pins, and pin-and-win-material sequences.."
         },
         {
           "id": "chess-u2-l5-q2",
@@ -702,7 +747,8 @@
           ],
           "answer": "A pawn",
           "difficulty": 650,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A pawn\". This directly applies the principle of: Solve mixed pin puzzles combining absolute pins, relative pins, and pin-and-win-material sequences.."
         }
       ]
     },
@@ -721,19 +767,22 @@
           "fen": "8/8/8/4k2r/8/8/8/R5K1 w - - 0 1",
           "description": "White to move. White rook a1, black king e5, black rook h5 — all three will share the fifth rank once the white rook advances.",
           "solution": "Ra1-a5+",
-          "explanationOfSolution": "Ra5+ lines the rook up with the king on the open fifth rank. The black rook on h5 would love to block on b5, c5, or d5 — but every one of those squares is on the FAR side of its own king from h5, so the black rook physically cannot slide past its king to reach them. The king must move, and next turn Rxh5 wins the rook for free."
+          "explanationOfSolution": "Ra5+ lines the rook up with the king on the open fifth rank. The black rook on h5 would love to block on b5, c5, or d5 — but every one of those squares is on the FAR side of its own king from h5, so the black rook physically cannot slide past its king to reach them. The king must move, and next turn Rxh5 wins the rook for free.",
+          "target": "Core example"
         },
         {
           "fen": "8/8/5k2/3n4/8/1B6/8/K7 w - - 0 1",
           "description": "A contrasting position (not a puzzle to solve): white bishop b2, black knight d4, black king f6, all on one diagonal.",
           "solution": "This is a pin, not a skewer — no move is needed to see it.",
-          "explanationOfSolution": "Here the LESS valuable piece (the knight) is in front, and the king hides behind it. The knight cannot legally move off the diagonal — that would expose its own king to check — so it is pinned and frozen, the classic setup for 'piling on' extra attackers from Unit 2. Compare this order (knight-then-king) to Example 1's order (king-then-rook) to feel the difference between a pin and a skewer."
+          "explanationOfSolution": "Here the LESS valuable piece (the knight) is in front, and the king hides behind it. The knight cannot legally move off the diagonal — that would expose its own king to check — so it is pinned and frozen, the classic setup for 'piling on' extra attackers from Unit 2. Compare this order (knight-then-king) to Example 1's order (king-then-rook) to feel the difference between a pin and a skewer.",
+          "target": "Core example"
         },
         {
           "fen": "8/8/5n2/3k4/8/8/8/K1B5 w - - 0 1",
           "description": "White to move. White bishop c1, black king d4, black knight f6, on the long diagonal b2-h8.",
           "solution": "Bc1-b2+",
-          "explanationOfSolution": "Bb2+ checks the king along the diagonal, with the knight on f6 sitting directly behind it. Even though a knight CAN normally jump over pieces, it can only land on a square it is actually aimed at — and f6 to c3 (the only blocking square) is not a legal knight move, so there is no way to interpose. The king must step off the diagonal, and Bxf6 collects the knight next."
+          "explanationOfSolution": "Bb2+ checks the king along the diagonal, with the knight on f6 sitting directly behind it. Even though a knight CAN normally jump over pieces, it can only land on a square it is actually aimed at — and f6 to c3 (the only blocking square) is not a legal knight move, so there is no way to interpose. The king must step off the diagonal, and Bxf6 collects the knight next.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -748,7 +797,8 @@
           "prompt": "White to move. Find the skewer that wins the rook.",
           "answer": "Ra5+",
           "difficulty": 650,
-          "hint": "Which rank can the rook occupy to line up the king and the rook together?"
+          "hint": "Which rank can the rook occupy to line up the king and the rook together?",
+          "explanation": "Correct answer: \"Ra5+\". This directly applies the principle of: Define a skewer and distinguish it from a pin by which piece is attacked first.."
         },
         {
           "id": "chess-u3-l1-q2",
@@ -762,14 +812,16 @@
           ],
           "answer": "In a pin the less valuable piece is attacked first; in a skewer the more valuable piece is attacked first",
           "difficulty": 600,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"In a pin the less valuable piece is attacked first; in a skewer the more valuable piece is attacked first\". This directly applies the principle of: Define a skewer and distinguish it from a pin by which piece is attacked first.."
         },
         {
           "id": "chess-u3-l1-q3",
           "type": "short-answer",
           "prompt": "Why can a piece almost never interpose to block a check when it is the piece being skewered behind its own king?",
           "answer": "Because it would have to move through the square its own king occupies, and a piece can never jump over or through its own king.",
-          "difficulty": 680
+          "difficulty": 680,
+          "explanation": "Correct answer: \"Because it would have to move through the square its own king occupies, and a piece can never jump over or through its own king.\". This directly applies the principle of: Define a skewer and distinguish it from a pin by which piece is attacked first.."
         }
       ]
     },
@@ -788,13 +840,15 @@
           "fen": "8/8/8/8/4k2r/8/8/Q5K1 w - - 0 1",
           "description": "White to move. White queen a1, black king e4, black rook h4 — not yet aligned.",
           "solution": "Qa1-a4+",
-          "explanationOfSolution": "The queen isn't yet on the fourth rank, so the job is to get there WITH check in one move. Qa4+ does both at once: it lines up with the king and rook together. As in Example 1 of the previous lesson, the rook on h4 cannot interpose on b4, c4, or d4 because its own king blocks the path. After the king steps off the rank, Qxh4 wins the rook."
+          "explanationOfSolution": "The queen isn't yet on the fourth rank, so the job is to get there WITH check in one move. Qa4+ does both at once: it lines up with the king and rook together. As in Example 1 of the previous lesson, the rook on h4 cannot interpose on b4, c4, or d4 because its own king blocks the path. After the king steps off the rank, Qxh4 wins the rook.",
+          "target": "Core example"
         },
         {
           "fen": "4q3/8/8/4k3/8/1K6/8/R7 w - - 0 1",
           "description": "White to move. White rook a1, black king e5, black queen e8 — not yet aligned.",
           "solution": "Ra1-e1+",
-          "explanationOfSolution": "Sliding the rook along the first rank to e1 puts it on the same file as both black pieces — the same idea as a rank skewer, just turned 90 degrees. The queen on e8 cannot come down the e-file to block, because the king on e5 is in the way. The king must step off the e-file, and Rxe8 wins the queen next."
+          "explanationOfSolution": "Sliding the rook along the first rank to e1 puts it on the same file as both black pieces — the same idea as a rank skewer, just turned 90 degrees. The queen on e8 cannot come down the e-file to block, because the king on e5 is in the way. The king must step off the e-file, and Rxe8 wins the queen next.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -808,7 +862,8 @@
           "fen": "8/8/8/8/4k2r/8/8/Q5K1 w - - 0 1",
           "prompt": "White to move. Find the skewer that wins the rook.",
           "answer": "Qa4+",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Qa4+\". This directly applies the principle of: Find skewers against the king that win a queen or rook standing behind it.."
         },
         {
           "id": "chess-u3-l2-q2",
@@ -816,7 +871,8 @@
           "fen": "4q3/8/8/4k3/8/1K6/8/R7 w - - 0 1",
           "prompt": "White to move. Find the skewer that wins the queen.",
           "answer": "Re1+",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Re1+\". This directly applies the principle of: Find skewers against the king that win a queen or rook standing behind it.."
         },
         {
           "id": "chess-u3-l2-q3",
@@ -830,14 +886,16 @@
           ],
           "answer": "Queen",
           "difficulty": 620,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"Queen\". This directly applies the principle of: Find skewers against the king that win a queen or rook standing behind it.."
         },
         {
           "id": "chess-u3-l2-q4",
           "type": "short-answer",
           "prompt": "Before playing a skewer, what must you always check about the king's escape squares?",
           "answer": "That moving the king off the line doesn't step into check from another one of your pieces, and that the defender truly has no legal way to block or capture the attacker.",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"That moving the king off the line doesn't step into check from another one of your pieces, and that the defender truly has no legal way to block or capture the attacker.\". This directly applies the principle of: Find skewers against the king that win a queen or rook standing behind it.."
         }
       ]
     },
@@ -856,13 +914,15 @@
           "fen": "4k3/8/8/8/3q3r/1P6/6K1/R7 w - - 0 1",
           "description": "White to move. White rook a1, pawn b3, black queen d4, black rook h4.",
           "solution": "Ra1-a4",
-          "explanationOfSolution": "Ra4 attacks the queen. The queen isn't in check, so it isn't forced to move immediately — but staying put loses it for a rook, and sliding sideways along the fourth rank doesn't help either, since the rook still attacks the whole rank. The only real escape is to leave the rank entirely, which opens a direct line to the rook on h4. Notice pawn b3 guards a4 in advance — if the queen tries Qxa4 instead of retreating, bxa4 still wins the exchange (a queen for a rook and pawn)."
+          "explanationOfSolution": "Ra4 attacks the queen. The queen isn't in check, so it isn't forced to move immediately — but staying put loses it for a rook, and sliding sideways along the fourth rank doesn't help either, since the rook still attacks the whole rank. The only real escape is to leave the rank entirely, which opens a direct line to the rook on h4. Notice pawn b3 guards a4 in advance — if the queen tries Qxa4 instead of retreating, bxa4 still wins the exchange (a queen for a rook and pawn).",
+          "target": "Core example"
         },
         {
           "fen": "k7/8/8/B5r1/8/4q3/8/3K4 w - - 0 1",
           "description": "White to move. White bishop a5, white king d1, black king a8, black queen e3, black rook g5.",
           "solution": "Ba5-d2",
-          "explanationOfSolution": "Bd2 attacks the queen along the long diagonal, with the rook on g5 sitting behind it on the very same line. King d1 quietly defends d2 in advance, so Qxd2 doesn't win the bishop for free — Kxd2 simply recaptures. If the queen retreats instead, Bxg5 collects the rook."
+          "explanationOfSolution": "Bd2 attacks the queen along the long diagonal, with the rook on g5 sitting behind it on the very same line. King d1 quietly defends d2 in advance, so Qxd2 doesn't win the bishop for free — Kxd2 simply recaptures. If the queen retreats instead, Bxg5 collects the rook.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -876,7 +936,8 @@
           "fen": "4k3/8/8/8/3q3r/1P6/6K1/R7 w - - 0 1",
           "prompt": "White to move. Find the move that skewers the queen and rook.",
           "answer": "Ra4",
-          "difficulty": 730
+          "difficulty": 730,
+          "explanation": "Correct answer: \"Ra4\". This directly applies the principle of: Find skewers against undefended queens and rooks with bishops and rooks.."
         },
         {
           "id": "chess-u3-l3-q2",
@@ -884,7 +945,8 @@
           "fen": "k7/8/8/B5r1/8/4q3/8/3K4 w - - 0 1",
           "prompt": "White to move. Find the move that skewers the queen and rook.",
           "answer": "Bd2",
-          "difficulty": 740
+          "difficulty": 740,
+          "explanation": "Correct answer: \"Bd2\". This directly applies the principle of: Find skewers against undefended queens and rooks with bishops and rooks.."
         },
         {
           "id": "chess-u3-l3-q3",
@@ -898,7 +960,8 @@
           ],
           "answer": "So the queen cannot simply capture your attacker for free",
           "difficulty": 650,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"So the queen cannot simply capture your attacker for free\". This directly applies the principle of: Find skewers against undefended queens and rooks with bishops and rooks.."
         }
       ]
     },
@@ -917,13 +980,15 @@
           "fen": "8/8/5k2/3n4/8/1B6/8/K7 w - - 0 1",
           "description": "White bishop b2, black knight d4, black king f6 — the same position from Lesson 1, Example 2.",
           "solution": "Pin — the knight (less valuable) is attacked first, with the king behind it.",
-          "explanationOfSolution": "Run the test: tracing from b2 outward, the first piece hit is the knight on d4, and the king is behind it. Less valuable piece first = pin. There is no immediate capture to win here; the plan is to pile on extra attackers against the frozen knight."
+          "explanationOfSolution": "Run the test: tracing from b2 outward, the first piece hit is the knight on d4, and the king is behind it. Less valuable piece first = pin. There is no immediate capture to win here; the plan is to pile on extra attackers against the frozen knight.",
+          "target": "Core example"
         },
         {
           "fen": "7K/5q2/8/3k4/8/1P6/8/5B2 w - - 0 1",
           "description": "White to move. White bishop f1, pawn b3, king h8; black king d5, black queen f7.",
           "solution": "Bf1-c4+",
-          "explanationOfSolution": "Bc4+ puts the king in front and the queen behind on the same diagonal — a skewer, not a pin, because the KING is the piece attacked first. Pawn b3 defends c4 in advance, so the king can't simply capture the checking bishop. Once the king steps aside, Bxf7 wins the queen outright."
+          "explanationOfSolution": "Bc4+ puts the king in front and the queen behind on the same diagonal — a skewer, not a pin, because the KING is the piece attacked first. Pawn b3 defends c4 in advance, so the king can't simply capture the checking bishop. Once the king steps aside, Bxf7 wins the queen outright.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -937,7 +1002,8 @@
           "fen": "7K/5q2/8/3k4/8/1P6/8/5B2 w - - 0 1",
           "prompt": "White to move. Identify the tactic and find the winning move.",
           "answer": "Bc4+",
-          "difficulty": 750
+          "difficulty": 750,
+          "explanation": "Correct answer: \"Bc4+\". This directly applies the principle of: Compare pin versus skewer in mixed positions and choose the winning tactic.."
         },
         {
           "id": "chess-u3-l4-q2",
@@ -945,7 +1011,8 @@
           "fen": "8/8/5k2/3n4/8/1B6/8/K7 w - - 0 1",
           "prompt": "In this position, is white's bishop on b2 pinning or skewering the black knight on d4? Justify your answer by naming which piece is attacked first.",
           "answer": "It is a pin: the knight (less valuable) is attacked first, with the king behind it.",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"It is a pin: the knight (less valuable) is attacked first, with the king behind it.\". This directly applies the principle of: Compare pin versus skewer in mixed positions and choose the winning tactic.."
         },
         {
           "id": "chess-u3-l4-q3",
@@ -959,7 +1026,8 @@
           ],
           "answer": "A pin, since the bishop (less valuable) is attacked first",
           "difficulty": 700,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A pin, since the bishop (less valuable)\". This directly applies the principle of: Compare pin versus skewer in mixed positions and choose the winning tactic.."
         }
       ]
     },
@@ -978,7 +1046,8 @@
           "fen": "8/8/8/4k2r/8/8/8/R5K1 w - - 0 1",
           "description": "Warm-up recap before the timed set below.",
           "solution": "Ra1-a5+",
-          "explanationOfSolution": "The king can't shelter the rook behind it forever — Ra5+ forces the king to move, and Rxh5 follows."
+          "explanationOfSolution": "The king can't shelter the rook behind it forever — Ra5+ forces the king to move, and Rxh5 follows.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -992,7 +1061,8 @@
           "fen": "8/8/8/4k2r/8/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. Mixed review: find the tactic.",
           "answer": "Ra5+",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Ra5+\". This directly applies the principle of: Solve a mixed skewer puzzle set under time pressure.."
         },
         {
           "id": "chess-u3-l5-q2",
@@ -1000,7 +1070,8 @@
           "fen": "8/8/8/8/4k2r/8/8/Q5K1 w - - 0 1",
           "prompt": "White to move. Mixed review: find the tactic.",
           "answer": "Qa4+",
-          "difficulty": 740
+          "difficulty": 740,
+          "explanation": "Correct answer: \"Qa4+\". This directly applies the principle of: Solve a mixed skewer puzzle set under time pressure.."
         },
         {
           "id": "chess-u3-l5-q3",
@@ -1008,14 +1079,16 @@
           "fen": "4k3/8/8/8/3q3r/1P6/6K1/R7 w - - 0 1",
           "prompt": "White to move. Mixed review: find the tactic (no check involved this time).",
           "answer": "Ra4",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"Ra4\". This directly applies the principle of: Solve a mixed skewer puzzle set under time pressure.."
         },
         {
           "id": "chess-u3-l5-q4",
           "type": "short-answer",
           "prompt": "State the one-sentence test for telling a pin apart from a skewer.",
           "answer": "Trace the line outward from your attacker: if the first piece you would hit is the LESS valuable one, it is a pin; if it is the MORE valuable one (often the king), it is a skewer.",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Trace the line outward from your attacker: if the first piece you would hit is the LESS valuable one, it is a pin; if it is the MORE valuable one (often the king), it is a skewer.\". This directly applies the principle of: Solve a mixed skewer puzzle set under time pressure.."
         }
       ]
     },
@@ -1034,19 +1107,22 @@
           "fen": "q3k3/2p5/8/8/8/N7/8/R3K3 w - - 0 1",
           "description": "White to move. Rook a1, knight a3, king e1; black king e8, queen a8, pawn c7.",
           "solution": "Nb5",
-          "explanationOfSolution": "The knight on a3 is blocking its own rook's view straight up the a-file to the queen on a8. Nb5 steps off that file — instantly the rook attacks the queen — AND the knight itself lands on b5, where it attacks the pawn on c7. Black cannot save the queen and the pawn in one move: this is the \"more dangerous than a direct attack\" idea in action, two threats from one move."
+          "explanationOfSolution": "The knight on a3 is blocking its own rook's view straight up the a-file to the queen on a8. Nb5 steps off that file — instantly the rook attacks the queen — AND the knight itself lands on b5, where it attacks the pawn on c7. Black cannot save the queen and the pawn in one move: this is the \"more dangerous than a direct attack\" idea in action, two threats from one move.",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/8/8/8/N7/8/R3K3 w - - 0 1",
           "description": "A contrasting position — same rook and knight, but nothing on a8 this time.",
           "solution": "Nb5 still opens the file, but there is nothing on it to attack — not every \"opened line\" is a real discovered attack.",
-          "explanationOfSolution": "Included as a negative check: moving the knight still uncovers the rook's view of the whole a-file, but since no enemy piece sits on that file, nothing was actually \"discovered.\" Before getting excited about a discovered attack, always confirm there is a real target sitting on the newly-opened line."
+          "explanationOfSolution": "Included as a negative check: moving the knight still uncovers the rook's view of the whole a-file, but since no enemy piece sits on that file, nothing was actually \"discovered.\" Before getting excited about a discovered attack, always confirm there is a real target sitting on the newly-opened line.",
+          "target": "Core example"
         },
         {
           "fen": "8/8/7k/8/8/8/3N4/2B1K3 w - - 0 1",
           "description": "White to move. Bishop c1, knight d2, king e1; black king h6.",
           "solution": "Nb3+",
-          "explanationOfSolution": "The knight on d2 sits squarely on the c1-h6 diagonal, blocking the bishop. Nb3 has nothing to do with the black king at all — yet the moment the knight steps aside, the bishop's diagonal is wide open all the way to h6, and it is check. This is a discovered CHECK, the single most forcing member of the discovered-attack family, because the opponent's very next move is no longer their choice."
+          "explanationOfSolution": "The knight on d2 sits squarely on the c1-h6 diagonal, blocking the bishop. Nb3 has nothing to do with the black king at all — yet the moment the knight steps aside, the bishop's diagonal is wide open all the way to h6, and it is check. This is a discovered CHECK, the single most forcing member of the discovered-attack family, because the opponent's very next move is no longer their choice.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1061,7 +1137,8 @@
           "prompt": "White to move. Knight f3, bishop g2, king g1; black king e8, rook a8. Find the move that discovers an attack on the rook.",
           "answer": "Nd4",
           "difficulty": 700,
-          "hint": "Which of the knight's squares gets it off the long diagonal the bishop wants?"
+          "hint": "Which of the knight's squares gets it off the long diagonal the bishop wants?",
+          "explanation": "Correct answer: \"Nd4\". This directly applies the principle of: Define a discovered attack and explain why it can be more dangerous than a direct attack.."
         },
         {
           "id": "chess-u4-l1-q2",
@@ -1075,14 +1152,16 @@
           ],
           "answer": "The piece that moves is free to make its own threat at the same time as the revealed piece's threat, creating two problems at once",
           "difficulty": 680,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The piece that moves is free to make its own threat at the same time as the revealed piece's threat, creating two problems at once\". This directly applies the principle of: Define a discovered attack and explain why it can be more dangerous than a direct attack.."
         },
         {
           "id": "chess-u4-l1-q3",
           "type": "short-answer",
           "prompt": "What two questions should you ask when scanning for a discovered attack?",
           "answer": "Which of my long-range pieces is currently blocked by one of my own pieces on its line, and what enemy piece sits further down that same line?",
-          "difficulty": 680
+          "difficulty": 680,
+          "explanation": "Correct answer: \"Which of my long-range pieces is currently blocked by one of my own pieces on its line, and what enemy piece sits further down that same line?\". This directly applies the principle of: Define a discovered attack and explain why it can be more dangerous than a direct attack.."
         }
       ]
     },
@@ -1101,19 +1180,22 @@
           "fen": "k2q4/8/8/N7/8/8/8/R5K1 w - - 0 1",
           "description": "White to move. Rook a1, knight a5, king g1; black king a8, queen d8.",
           "solution": "Nc6+",
-          "explanationOfSolution": "Nc6 steps off the a-file, discovering check from the rook on a1 straight up to the king on a8. At the same time, the knight lands on c6, where it attacks the queen on d8. Black has no choice but to answer the check first — and whichever way the king moves, Nxd8 wins the queen next move."
+          "explanationOfSolution": "Nc6 steps off the a-file, discovering check from the rook on a1 straight up to the king on a8. At the same time, the knight lands on c6, where it attacks the queen on d8. Black has no choice but to answer the check first — and whichever way the king moves, Nxd8 wins the queen next move.",
+          "target": "Core example"
         },
         {
           "fen": "1q5k/8/8/4N3/8/8/1B6/6K1 w - - 0 1",
           "description": "White to move. Bishop b2, knight e5, king g1; black king h8, queen b8.",
           "solution": "Nd7+",
-          "explanationOfSolution": "The knight on e5 blocks its own bishop's long diagonal (b2 to h8). Nd7 clears that diagonal — instant discovered check — while the knight itself lands on d7, attacking the queen on b8. Exactly the same shape as the previous example, just on a diagonal instead of a file: the king must move, and Nxb8 follows."
+          "explanationOfSolution": "The knight on e5 blocks its own bishop's long diagonal (b2 to h8). Nd7 clears that diagonal — instant discovered check — while the knight itself lands on d7, attacking the queen on b8. Exactly the same shape as the previous example, just on a diagonal instead of a file: the king must move, and Nxb8 follows.",
+          "target": "Core example"
         },
         {
           "fen": "4k3/8/8/3n4/4P3/8/8/4R1K1 w - - 0 1",
           "description": "White to move. Rook e1, pawn e4, king g1; black king e8, knight d5.",
           "solution": "exd5",
-          "explanationOfSolution": "The pawn on e4 blocks its own rook's view up the e-file. exd5 captures the black knight AND clears the file at the same time, discovering check from the rook on e1 to the king on e8 — so this single pawn move both wins a full piece and forces the king to respond. A discovered check delivered by a capturing pawn is one of the most common ways this pattern shows up in real games, because nobody expects a \"small\" pawn move to be the dangerous part."
+          "explanationOfSolution": "The pawn on e4 blocks its own rook's view up the e-file. exd5 captures the black knight AND clears the file at the same time, discovering check from the rook on e1 to the king on e8 — so this single pawn move both wins a full piece and forces the king to respond. A discovered check delivered by a capturing pawn is one of the most common ways this pattern shows up in real games, because nobody expects a \"small\" pawn move to be the dangerous part.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1127,7 +1209,8 @@
           "fen": "k2q4/8/8/N7/8/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. Find the discovered check that wins the queen.",
           "answer": "Nc6+",
-          "difficulty": 730
+          "difficulty": 730,
+          "explanation": "Correct answer: \"Nc6+\". This directly applies the principle of: Find discovered checks that win material because the king must respond first.."
         },
         {
           "id": "chess-u4-l2-q2",
@@ -1135,7 +1218,8 @@
           "fen": "4k3/8/8/3n4/4P3/8/8/4R1K1 w - - 0 1",
           "prompt": "White to move. Find the capture that wins a piece and discovers check at the same time.",
           "answer": "exd5+",
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"exd5+\". This directly applies the principle of: Find discovered checks that win material because the king must respond first.."
         },
         {
           "id": "chess-u4-l2-q3",
@@ -1149,14 +1233,16 @@
           ],
           "answer": "The defender is forced to answer the check first, so they cannot use that move to save the other attacked piece",
           "difficulty": 680,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The defender is forced to answer the check first, so they cannot use that move to save the other attacked piece\". This directly applies the principle of: Find discovered checks that win material because the king must respond first.."
         },
         {
           "id": "chess-u4-l2-q4",
           "type": "true-false",
           "prompt": "A pawn capture can trigger a discovered check if the pawn was blocking one of your own long-range pieces.",
           "answer": "true",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"true\". This directly applies the principle of: Find discovered checks that win material because the king must respond first.."
         }
       ]
     },
@@ -1175,13 +1261,15 @@
           "fen": "7k/8/8/4N3/8/8/1B6/6K1 w - - 0 1",
           "description": "White to move. Bishop b2, knight e5, king g1; black king h8 only.",
           "solution": "Ng6+",
-          "explanationOfSolution": "Ng6 gives check by itself — a knight on g6 directly attacks h8 — and it simultaneously clears the b2-h8 diagonal for the bishop, which now also checks h8. Two attackers, one king: the only legal replies are Kh7 or Kg8. There is no capture (nothing reaches g6, and even if something did, the bishop would still have the king in check) and no block (you cannot interpose on a knight's attack, and blocking the bishop's diagonal still leaves the knight checking)."
+          "explanationOfSolution": "Ng6 gives check by itself — a knight on g6 directly attacks h8 — and it simultaneously clears the b2-h8 diagonal for the bishop, which now also checks h8. Two attackers, one king: the only legal replies are Kh7 or Kg8. There is no capture (nothing reaches g6, and even if something did, the bishop would still have the king in check) and no block (you cannot interpose on a knight's attack, and blocking the bishop's diagonal still leaves the knight checking).",
+          "target": "Core example"
         },
         {
           "fen": "k1q5/8/8/8/N7/8/8/R5K1 w - - 0 1",
           "description": "White to move. Rook a1, knight a4, king g1; black king a8, queen c8.",
           "solution": "Nb6+",
-          "explanationOfSolution": "Nb6 checks the king on a8 directly (a knight on b6 attacks a8), and it clears the a-file for the rook on a1 to check a8 as well — another double check. Notice the queen on c8 is completely irrelevant here: it cannot block two different lines at once, and it cannot capture a knight on b6 in one move from c8 either. The king has exactly two legal squares."
+          "explanationOfSolution": "Nb6 checks the king on a8 directly (a knight on b6 attacks a8), and it clears the a-file for the rook on a1 to check a8 as well — another double check. Notice the queen on c8 is completely irrelevant here: it cannot block two different lines at once, and it cannot capture a knight on b6 in one move from c8 either. The king has exactly two legal squares.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1195,7 +1283,8 @@
           "fen": "7k/8/8/4N3/8/8/1B6/6K1 w - - 0 1",
           "prompt": "White to move. Find the double check.",
           "answer": "Ng6+",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"Ng6+\". This directly applies the principle of: Identify discovered attacks created by moving a piece that both unleashes and itself attacks something (the double check family).."
         },
         {
           "id": "chess-u4-l3-q2",
@@ -1203,14 +1292,16 @@
           "fen": "k1q5/8/8/8/N7/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. Find the double check, even though the black queen looks like it should help.",
           "answer": "Nb6+",
-          "difficulty": 770
+          "difficulty": 770,
+          "explanation": "Correct answer: \"Nb6+\". This directly applies the principle of: Identify discovered attacks created by moving a piece that both unleashes and itself attacks something (the double check family).."
         },
         {
           "id": "chess-u4-l3-q3",
           "type": "short-answer",
           "prompt": "Why is moving the king the ONLY legal response to a double check?",
           "answer": "Because two pieces are giving check from two different lines at once, so blocking or capturing can only deal with one checker while the other still has the king in check — only moving the king escapes both at once.",
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"Because two pieces are giving check from two different lines at once, so blocking or capturing can only deal with one checker while the other still has the king in check — only moving the king escapes both at once.\". This directly applies the principle of: Identify discovered attacks created by moving a piece that both unleashes and itself attacks something (the double check family).."
         },
         {
           "id": "chess-u4-l3-q4",
@@ -1224,7 +1315,8 @@
           ],
           "answer": "The defender's options collapse to king moves only, so you can steer the king onto a square with no safe squares left",
           "difficulty": 700,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The defender's options collapse to king moves only, so you can steer the king onto a square with no safe squares left\". This directly applies the principle of: Identify discovered attacks created by moving a piece that both unleashes and itself attacks something (the double check family).."
         }
       ]
     },
@@ -1243,13 +1335,15 @@
           "fen": "r3k3/1b6/8/8/7R/8/8/R5K1 w - - 0 1",
           "description": "White to move. Rooks on a1 and h4, king g1; black king e8, rook a8, bishop b7 defending it.",
           "solution": "Rha4",
-          "explanationOfSolution": "Right now White's rook on a1 attacks the black rook on a8, but the bishop on b7 defends it — trading Rxa8 Bxa8 just swaps rook for rook and hands Black the a8 bishop for free next. Rha4 brings the SECOND rook onto the same file instead, building a battery: two attackers against one defender. Now Rxa8 Bxa8 Rxa8 wins a full piece, because the bishop cannot recapture twice."
+          "explanationOfSolution": "Right now White's rook on a1 attacks the black rook on a8, but the bishop on b7 defends it — trading Rxa8 Bxa8 just swaps rook for rook and hands Black the a8 bishop for free next. Rha4 brings the SECOND rook onto the same file instead, building a battery: two attackers against one defender. Now Rxa8 Bxa8 Rxa8 wins a full piece, because the bishop cannot recapture twice.",
+          "target": "Core example"
         },
         {
           "fen": "3k4/8/n7/7Q/2B5/8/8/6K1 w - - 0 1",
           "description": "White to move. Bishop c4, queen h5, king g1; black king d8, knight a6.",
           "solution": "Qe2",
-          "explanationOfSolution": "The bishop on c4 already attacks the knight on a6 along the a6-f1 diagonal. Qe2 brings the queen onto that exact same diagonal, directly behind the bishop — a battery. The knight was already outnumbered the moment this move is played, and even if Black finds a defender for it, the bishop can now consider moving elsewhere along the diagonal (or capturing) and handing the queen a newly-discovered attack down the same line."
+          "explanationOfSolution": "The bishop on c4 already attacks the knight on a6 along the a6-f1 diagonal. Qe2 brings the queen onto that exact same diagonal, directly behind the bishop — a battery. The knight was already outnumbered the moment this move is played, and even if Black finds a defender for it, the bishop can now consider moving elsewhere along the diagonal (or capturing) and handing the queen a newly-discovered attack down the same line.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1263,7 +1357,8 @@
           "fen": "r3k3/1b6/8/8/7R/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. The black rook on a8 is defended by the bishop on b7. Find the move that builds a battery to win it anyway.",
           "answer": "Rha4",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Rha4\". This directly applies the principle of: Build a battery (two pieces on one line) as preparation for a future discovered attack.."
         },
         {
           "id": "chess-u4-l4-q2",
@@ -1271,7 +1366,8 @@
           "fen": "3k4/8/n7/7Q/2B5/8/8/6K1 w - - 0 1",
           "prompt": "White to move. Find the move that lines the queen up behind the bishop on the same diagonal.",
           "answer": "Qe2",
-          "difficulty": 690
+          "difficulty": 690,
+          "explanation": "Correct answer: \"Qe2\". This directly applies the principle of: Build a battery (two pieces on one line) as preparation for a future discovered attack.."
         },
         {
           "id": "chess-u4-l4-q3",
@@ -1285,7 +1381,8 @@
           ],
           "answer": "Two or more long-range pieces stacked on the same rank, file, or diagonal, aiming at the same target",
           "difficulty": 650,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Two or more long-range pieces stacked on the same rank, file, or diagonal, aiming at the same target\". This directly applies the principle of: Build a battery (two pieces on one line) as preparation for a future discovered attack.."
         }
       ]
     },
@@ -1304,7 +1401,8 @@
           "fen": "k2q4/8/8/N7/8/8/8/R5K1 w - - 0 1",
           "description": "Recap: the discovered-check royal fork from this unit.",
           "solution": "Nc6+",
-          "explanationOfSolution": "Discovered check from the rook, plus the knight itself attacks the queen on d8 — the king must move, and Nxd8 follows."
+          "explanationOfSolution": "Discovered check from the rook, plus the knight itself attacks the queen on d8 — the king must move, and Nxd8 follows.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1319,7 +1417,8 @@
           "prompt": "White to move. Which of the four motifs is this, and what is the move?",
           "answer": "Nc7+",
           "difficulty": 700,
-          "hint": "One piece, two targets, in one jump — a fork."
+          "hint": "One piece, two targets, in one jump — a fork.",
+          "explanation": "Correct answer: \"Nc7+\". This directly applies the principle of: Solve a mixed puzzle set covering all four beginner tactical motifs together.."
         },
         {
           "id": "chess-u4-l5-q2",
@@ -1327,7 +1426,8 @@
           "fen": "k7/8/8/8/4n3/3P4/6B1/6K1 w - - 0 1",
           "prompt": "White to move. The black knight on e4 is pinned to the king on a8 by the bishop on g2. Find the move that wins it.",
           "answer": "dxe4",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"dxe4\". This directly applies the principle of: Solve a mixed puzzle set covering all four beginner tactical motifs together.."
         },
         {
           "id": "chess-u4-l5-q3",
@@ -1335,7 +1435,8 @@
           "fen": "8/8/8/4k2r/8/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. Which of the four motifs is this, and what is the move?",
           "answer": "Ra5+",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"Ra5+\". This directly applies the principle of: Solve a mixed puzzle set covering all four beginner tactical motifs together.."
         },
         {
           "id": "chess-u4-l5-q4",
@@ -1343,14 +1444,16 @@
           "fen": "k2q4/8/8/N7/8/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. Which of the four motifs is this, and what is the move?",
           "answer": "Nc6+",
-          "difficulty": 730
+          "difficulty": 730,
+          "explanation": "Correct answer: \"Nc6+\". This directly applies the principle of: Solve a mixed puzzle set covering all four beginner tactical motifs together.."
         },
         {
           "id": "chess-u4-l5-q5",
           "type": "short-answer",
           "prompt": "State the four-question scan to run on every move, combining all of unit 1-4's patterns.",
           "answer": "Is my king safe? Does anything hang? Can one of my pieces hit two targets at once (fork/skewer)? Does moving a piece out of its own way reveal an attack from something behind it (discovered attack)?",
-          "difficulty": 750
+          "difficulty": 750,
+          "explanation": "Correct answer: \"Is my king safe? Does anything hang? Can one of my pieces hit two targets at once (fork/skewer)? Does moving a piece out of its own way reveal an attack from something behind it (discovered attack)?\". This directly applies the principle of: Solve a mixed puzzle set covering all four beginner tactical motifs together.."
         }
       ]
     },
@@ -1369,7 +1472,8 @@
           "fen": "7k/2r5/8/8/3n1N2/8/6K1/B7 w - - 0 1",
           "description": "White to move. Bishop a1, knight f4, king g2; black king h8, knight d4 (pinned to the king by the bishop), rook c7.",
           "solution": "Ne6",
-          "explanationOfSolution": "The knight on d4 is absolutely pinned — check its legal moves and there are none. Ne6 forks it with the rook on c7 at the same time. Even if Black tries the best defense, 1...Rc4 (escaping the knight's attack while also adding a second defender to d4), White simply continues 2.Bxd4 Rxd4 3.Nxd4 — two attackers beat one defender, and White ends up a full rook ahead. If Black ignores the rook instead, Nxc7 just wins it outright."
+          "explanationOfSolution": "The knight on d4 is absolutely pinned — check its legal moves and there are none. Ne6 forks it with the rook on c7 at the same time. Even if Black tries the best defense, 1...Rc4 (escaping the knight's attack while also adding a second defender to d4), White simply continues 2.Bxd4 Rxd4 3.Nxd4 — two attackers beat one defender, and White ends up a full rook ahead. If Black ignores the rook instead, Nxc7 just wins it outright.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1383,14 +1487,16 @@
           "fen": "7k/2r5/8/8/3n1N2/8/6K1/B7 w - - 0 1",
           "prompt": "White to move. The knight on d4 is absolutely pinned by the bishop on a1. Find the move that also forks the rook on c7.",
           "answer": "Ne6",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Ne6\". This directly applies the principle of: Combine a pin with a fork in a two-move tactical sequence to win material.."
         },
         {
           "id": "chess-u5-l1-q2",
           "type": "short-answer",
           "prompt": "After 1.Ne6 Rc4 (Black's best try, defending d4), what does White play, and why does it still win material?",
           "answer": "2.Bxd4 Rxd4 3.Nxd4 — two White attackers (the bishop and the knight) beat Black's one defender (the rook) on d4, so White ends up a full rook ahead.",
-          "difficulty": 820
+          "difficulty": 820,
+          "explanation": "Correct answer: \"2.Bxd4 Rxd4 3.Nxd4 — two White attackers (the bishop and the knight) beat Black's one defender (the rook) on d4, so White ends up a full rook ahead.\". This directly applies the principle of: Combine a pin with a fork in a two-move tactical sequence to win material.."
         },
         {
           "id": "chess-u5-l1-q3",
@@ -1404,7 +1510,8 @@
           ],
           "answer": "It cannot legally move away, so a second attacker is often enough to win it outright",
           "difficulty": 760,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It cannot legally move away, so a second attacker is often enough to win it outright\". This directly applies the principle of: Combine a pin with a fork in a two-move tactical sequence to win material.."
         }
       ]
     },
@@ -1423,7 +1530,8 @@
           "fen": "r2qk3/8/5n2/6B1/8/8/8/R5K1 w - - 0 1",
           "description": "White to move. Rook a1, bishop g5, king g1; black king e8, queen d8, rook a8, knight f6 (defended only by the queen).",
           "solution": "Rxa8",
-          "explanationOfSolution": "The knight on f6 is defended exactly once, by the queen on d8 along the d8-f6 diagonal. Rxa8 attacks the black rook, and the queen is the only piece that can recapture it. If Black declines and plays something else, White is simply up a full rook for nothing. If Black plays 1...Qxa8 (the natural try), the queen has now left the diagonal it needed to guard — 2.Bxf6 wins the knight for free. The rook offered itself as bait to drag the queen off its post."
+          "explanationOfSolution": "The knight on f6 is defended exactly once, by the queen on d8 along the d8-f6 diagonal. Rxa8 attacks the black rook, and the queen is the only piece that can recapture it. If Black declines and plays something else, White is simply up a full rook for nothing. If Black plays 1...Qxa8 (the natural try), the queen has now left the diagonal it needed to guard — 2.Bxf6 wins the knight for free. The rook offered itself as bait to drag the queen off its post.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1437,21 +1545,24 @@
           "fen": "r2qk3/8/5n2/6B1/8/8/8/R5K1 w - - 0 1",
           "prompt": "White to move. Find the move that deflects the queen away from defending the knight on f6.",
           "answer": "Rxa8",
-          "difficulty": 810
+          "difficulty": 810,
+          "explanation": "Correct answer: \"Rxa8\". This directly applies the principle of: Use a deflection to remove a defender before executing a fork or skewer.."
         },
         {
           "id": "chess-u5-l2-q2",
           "type": "short-answer",
           "prompt": "After 1.Rxa8 Qxa8, why does 2.Bxf6 win a piece for free?",
           "answer": "Because the queen, the only piece defending the knight on f6, had to move to a8 to recapture the rook — it no longer guards the f6 diagonal, so the knight is simply undefended.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Because the queen, the only piece defending the knight on f6, had to move to a8 to recapture the rook — it no longer guards the f6 diagonal, so the knight is simply undefended.\". This directly applies the principle of: Use a deflection to remove a defender before executing a fork or skewer.."
         },
         {
           "id": "chess-u5-l2-q3",
           "type": "true-false",
           "prompt": "A deflection only works if the target piece is the ONLY defender of what you actually want to win.",
           "answer": "true",
-          "difficulty": 750
+          "difficulty": 750,
+          "explanation": "Correct answer: \"true\". This directly applies the principle of: Use a deflection to remove a defender before executing a fork or skewer.."
         }
       ]
     },
@@ -1470,7 +1581,8 @@
           "fen": "7k/7r/8/8/4N3/1Q6/8/6K1 w - - 0 1",
           "description": "White to move. Queen b3, knight e4, king g1; black king h8, rook h7.",
           "solution": "Qg8+",
-          "explanationOfSolution": "The queen sacrifices itself on g8, giving check. It looks reckless, but check the king's other options: Kg7 and Kh7 both walk into check from the queen itself (it controls the whole g-file and the g8-h7 diagonal), so 1...Kxg8 is completely forced. Now the king stands exactly on the square the follow-up needs: 2.Nf6+ forks the king and the rook on h7 at once. The king must move again, and 3.Nxh7 collects the rook. Three forcing moves, one plan, decided before the sacrifice was ever played."
+          "explanationOfSolution": "The queen sacrifices itself on g8, giving check. It looks reckless, but check the king's other options: Kg7 and Kh7 both walk into check from the queen itself (it controls the whole g-file and the g8-h7 diagonal), so 1...Kxg8 is completely forced. Now the king stands exactly on the square the follow-up needs: 2.Nf6+ forks the king and the rook on h7 at once. The king must move again, and 3.Nxh7 collects the rook. Three forcing moves, one plan, decided before the sacrifice was ever played.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1484,7 +1596,8 @@
           "fen": "7k/7r/8/8/4N3/1Q6/8/6K1 w - - 0 1",
           "prompt": "White to move. Find the queen sacrifice that decoys the king onto a fork square.",
           "answer": "Qg8+",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"Qg8+\". This directly applies the principle of: Recognize and execute a decoy sacrifice that lures a king or piece onto a forking square.."
         },
         {
           "id": "chess-u5-l3-q2",
@@ -1492,14 +1605,16 @@
           "fen": "6k1/7r/8/8/4N3/8/8/6K1 w - - 0 2",
           "prompt": "Continuing the combination: after 1.Qg8+ Kxg8, find the fork that wins the rook.",
           "answer": "Nf6+",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"Nf6+\". This directly applies the principle of: Recognize and execute a decoy sacrifice that lures a king or piece onto a forking square.."
         },
         {
           "id": "chess-u5-l3-q3",
           "type": "short-answer",
           "prompt": "What is the correct order of thinking when planning a decoy sacrifice?",
           "answer": "Work backward: first pick the fork (or other tactic) you want to deliver, find the exact square the enemy king or piece must stand on for it to work, then find a forcing way (usually a check) to put it there.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Work backward: first pick the fork (or other tactic) you want to deliver, find the exact square the enemy king or piece must stand on for it to work, then find a forcing way (usually a check) to put it there.\". This directly applies the principle of: Recognize and execute a decoy sacrifice that lures a king or piece onto a forking square.."
         }
       ]
     },
@@ -1518,7 +1633,8 @@
           "fen": "n2qk3/8/8/8/7r/8/8/R3B1K1 w - - 0 1",
           "description": "White to move. Rook a1, bishop e1, king g1; black king e8, queen d8, knight a8, rook h4.",
           "solution": "Rxa8",
-          "explanationOfSolution": "The queen on d8 is doing two jobs at once: it defends the knight on a8 along the 8th rank, AND it defends the rook on h4 along the d8-h4 diagonal. It cannot do a third thing, which is what matters here — Rxa8 forces the issue. If Black recaptures 1...Qxa8, the queen has abandoned the h4 diagonal, and 2.Bxh4 wins the rook for free. If Black leaves the knight lost instead, White simply keeps the extra piece. Either way, the overloaded queen was always going to lose something."
+          "explanationOfSolution": "The queen on d8 is doing two jobs at once: it defends the knight on a8 along the 8th rank, AND it defends the rook on h4 along the d8-h4 diagonal. It cannot do a third thing, which is what matters here — Rxa8 forces the issue. If Black recaptures 1...Qxa8, the queen has abandoned the h4 diagonal, and 2.Bxh4 wins the rook for free. If Black leaves the knight lost instead, White simply keeps the extra piece. Either way, the overloaded queen was always going to lose something.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1532,14 +1648,16 @@
           "fen": "n2qk3/8/8/8/7r/8/8/R3B1K1 w - - 0 1",
           "prompt": "White to move. The black queen defends both the knight on a8 and the rook on h4. Find the move that exploits this.",
           "answer": "Rxa8",
-          "difficulty": 820
+          "difficulty": 820,
+          "explanation": "Correct answer: \"Rxa8\". This directly applies the principle of: Find double-attack combinations that exploit overloaded defenders.."
         },
         {
           "id": "chess-u5-l4-q2",
           "type": "short-answer",
           "prompt": "After 1.Rxa8 Qxa8, why is the rook on h4 now lost?",
           "answer": "Because the queen had to leave d8 to recapture on a8, and d8 was the only square from which it defended h4 along the diagonal — so 2.Bxh4 wins it for free.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Because the queen had to leave d8 to recapture on a8, and d8 was the only square from which it defended h4 along the diagonal — so 2.Bxh4 wins it for free.\". This directly applies the principle of: Find double-attack combinations that exploit overloaded defenders.."
         },
         {
           "id": "chess-u5-l4-q3",
@@ -1553,7 +1671,8 @@
           ],
           "answer": "A single piece that is the only guard for two or more separate targets at once",
           "difficulty": 760,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A single piece that is the only guard for two or more separate targets at once\". This directly applies the principle of: Find double-attack combinations that exploit overloaded defenders.."
         }
       ]
     },
@@ -1572,7 +1691,8 @@
           "fen": "7k/7r/8/8/4N3/8/8/K5R1 w - - 0 1",
           "description": "White to move. Rook g1, knight e4, king a1; black king h8, rook h7.",
           "solution": "Rg8+",
-          "explanationOfSolution": "Rg8+ sacrifices the rook with check. The king's own rook blocks Kh7, and the checking rook itself covers g7 along the g-file, so 1...Kxg8 is forced — there is no other legal reply. Now 2.Nf6+ forks the king and the rook on h7, and however the king answers the check, 3.Nxh7+ collects the rook (with check to spare). A sacrificial decoy feeding directly into a fork: two motifs, one forced sequence, decided from the very first move."
+          "explanationOfSolution": "Rg8+ sacrifices the rook with check. The king's own rook blocks Kh7, and the checking rook itself covers g7 along the g-file, so 1...Kxg8 is forced — there is no other legal reply. Now 2.Nf6+ forks the king and the rook on h7, and however the king answers the check, 3.Nxh7+ collects the rook (with check to spare). A sacrificial decoy feeding directly into a fork: two motifs, one forced sequence, decided from the very first move.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1586,7 +1706,8 @@
           "fen": "7k/7r/8/8/4N3/8/8/K5R1 w - - 0 1",
           "prompt": "White to move. Find the forcing sacrifice that starts a winning combination.",
           "answer": "Rg8+",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"Rg8+\". This directly applies the principle of: Solve multi-step combinations (3+ moves) that chain two or more tactical motifs.."
         },
         {
           "id": "chess-u5-l5-q2",
@@ -1594,14 +1715,16 @@
           "fen": "6k1/7r/8/8/4N3/8/8/K7 w - - 0 2",
           "prompt": "Continuing the combination: after 1.Rg8+ Kxg8, find the move that forks the king and the rook.",
           "answer": "Nf6+",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"Nf6+\". This directly applies the principle of: Solve multi-step combinations (3+ moves) that chain two or more tactical motifs.."
         },
         {
           "id": "chess-u5-l5-q3",
           "type": "short-answer",
           "prompt": "What test should you run on every candidate move when calculating a multi-step combination, so you don't have to guess what the opponent will do?",
           "answer": "Ask whether the move is forcing — a check, a capture of something valuable, or a threat too severe to ignore. If it is, the opponent has only one (or very few) legal replies, so you can read the position forward instead of guessing.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Ask whether the move is forcing — a check, a capture of something valuable, or a threat too severe to ignore. If it is, the opponent has only one (or very few) legal replies, so you can read the position forward instead of guessing.\". This directly applies the principle of: Solve multi-step combinations (3+ moves) that chain two or more tactical motifs.."
         }
       ]
     },
@@ -1620,13 +1743,15 @@
           "fen": "5r1k/6pp/7N/8/8/1Q6/8/6K1 w - - 0 1",
           "description": "White to move. Queen b3, knight h6, king g1; black king h8, rook f8, pawns g7 and h7.",
           "solution": "Qg8+",
-          "explanationOfSolution": "Qg8+ looks like it simply hands over the queen for nothing — but check who defends g8: the knight on h6 attacks g8, so 1...Kxg8 is illegal (it would move the king into check from the knight). That leaves exactly one legal reply: 1...Rxg8, since the rook is the only remaining piece that can capture, and the king's other two neighboring squares are blocked by its own pawns on g7 and h7. Now comes the point of the whole sacrifice: 2.Nf7# is checkmate. The knight checks the king, and the king cannot move (g8 is occupied by its own rook, g7 and h7 by its own pawns) and cannot capture the knight (f7 is not adjacent to h8) — a true smothered mate, calculated three moves deep before a single piece was picked up: sacrifice, forced recapture, mate."
+          "explanationOfSolution": "Qg8+ looks like it simply hands over the queen for nothing — but check who defends g8: the knight on h6 attacks g8, so 1...Kxg8 is illegal (it would move the king into check from the knight). That leaves exactly one legal reply: 1...Rxg8, since the rook is the only remaining piece that can capture, and the king's other two neighboring squares are blocked by its own pawns on g7 and h7. Now comes the point of the whole sacrifice: 2.Nf7# is checkmate. The knight checks the king, and the king cannot move (g8 is occupied by its own rook, g7 and h7 by its own pawns) and cannot capture the knight (f7 is not adjacent to h8) — a true smothered mate, calculated three moves deep before a single piece was picked up: sacrifice, forced recapture, mate.",
+          "target": "Core example"
         },
         {
           "fen": "5r1k/6pp/8/8/8/1Q6/8/6K1 w - - 0 1",
           "description": "The exact same idea, but with the h6 knight removed — used to show what breaks if you skip the verification step.",
           "solution": "Qg8+ is still check, but now it does NOT force a single reply the way the first example did.",
-          "explanationOfSolution": "Play through it: without a knight guarding g8, Black now has TWO legal replies to Qg8+ — 1...Rxg8 (as before) or simply 1...Kxg8, since nothing stops the king from capturing the free queen. If Black takes with the king, the entire mating idea evaporates: there is no forced recapture to exploit, and White has just given away a queen for nothing. This is exactly why the habit matters: before you calculate three moves down a forcing line, confirm the square your sacrifice lands on is actually defended — one missing detail turns a forced mate into a blunder."
+          "explanationOfSolution": "Play through it: without a knight guarding g8, Black now has TWO legal replies to Qg8+ — 1...Rxg8 (as before) or simply 1...Kxg8, since nothing stops the king from capturing the free queen. If Black takes with the king, the entire mating idea evaporates: there is no forced recapture to exploit, and White has just given away a queen for nothing. This is exactly why the habit matters: before you calculate three moves down a forcing line, confirm the square your sacrifice lands on is actually defended — one missing detail turns a forced mate into a blunder.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1641,7 +1766,8 @@
           "prompt": "White to move. Calculate three moves deep without moving any pieces, then find the first move of a forced mate.",
           "answer": "Qg8+",
           "difficulty": 850,
-          "hint": "Check which of your own pieces already guards the square you want to sacrifice the queen on."
+          "hint": "Check which of your own pieces already guards the square you want to sacrifice the queen on.",
+          "explanation": "Correct answer: \"Qg8+\". This directly applies the principle of: Calculate forcing sequences (checks, captures, threats) three moves deep without moving pieces.."
         },
         {
           "id": "chess-u6-l1-q2",
@@ -1649,7 +1775,8 @@
           "fen": "6rk/6pp/7N/8/8/8/8/6K1 w - - 0 2",
           "prompt": "Continuing the calculation: after 1.Qg8+ Rxg8 (Black's only legal reply), find the move that delivers checkmate.",
           "answer": "Nf7#",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"Nf7#\". This directly applies the principle of: Calculate forcing sequences (checks, captures, threats) three moves deep without moving pieces.."
         },
         {
           "id": "chess-u6-l1-q3",
@@ -1663,14 +1790,16 @@
           ],
           "answer": "Because the knight on h6 defends g8, making Kxg8 illegal, while the pawns on g7 and h7 block the king's other escape squares",
           "difficulty": 800,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Because the knight on h6 defends g8, making Kxg8 illegal, while the pawns on g7 and h7 block the king's other escape squares\". This directly applies the principle of: Calculate forcing sequences (checks, captures, threats) three moves deep without moving pieces.."
         },
         {
           "id": "chess-u6-l1-q4",
           "type": "short-answer",
           "prompt": "What single detail must you verify before trusting a forcing sacrifice like Qg8+, and what happens to the whole combination if you skip it?",
           "answer": "You must verify that the square your sacrifice lands on is actually defended by one of your own pieces. If it is not, the opponent can simply capture with the king (or another piece) instead of being forced into the reply your combination depends on, and the whole sequence collapses.",
-          "difficulty": 820
+          "difficulty": 820,
+          "explanation": "Correct answer: \"You must verify that the square your sacrifice lands on is actually defended by one of your own pieces. If it is not, the opponent can simply capture with the king (or another piece) instead of being forced into the reply your combination depends on, and the whole sequence collapses.\". This directly applies the principle of: Calculate forcing sequences (checks, captures, threats) three moves deep without moving pieces.."
         }
       ]
     },
@@ -1689,7 +1818,8 @@
           "fen": "6k1/8/2p1p3/3n4/8/2N5/8/3R2K1 w - - 0 1",
           "description": "White to move. Knight c3, rook d1, king g1; black king g8, knight d5, pawns c6 and e6 (both defending d5).",
           "solution": "Nxd5, then STOP — do not continue with Rxd5.",
-          "explanationOfSolution": "Two candidates are worth writing down here: (A) 1.Rxd5, and (B) 1.Nxd5. Calculate candidate A all the way through: 1.Rxd5 cxd5 trades a full rook for a knight — a clean loss of material, since the rook (worth 5) is gone for a knight (worth 3). Now calculate candidate B: 1.Nxd5 exd5 is an even knight-for-knight trade. The trap is what comes NEXT — it's tempting to keep grabbing with 2.Rxd5, but d5 is defended a SECOND time by the pawn on c6: 2.Rxd5?? cxd5 loses the rook for a mere pawn, a full exchange down. The correct plan is candidate B, stopped after one trade: 1.Nxd5 exd5 leaves material exactly even, and the rook stays home to fight another day rather than walking into the second defender."
+          "explanationOfSolution": "Two candidates are worth writing down here: (A) 1.Rxd5, and (B) 1.Nxd5. Calculate candidate A all the way through: 1.Rxd5 cxd5 trades a full rook for a knight — a clean loss of material, since the rook (worth 5) is gone for a knight (worth 3). Now calculate candidate B: 1.Nxd5 exd5 is an even knight-for-knight trade. The trap is what comes NEXT — it's tempting to keep grabbing with 2.Rxd5, but d5 is defended a SECOND time by the pawn on c6: 2.Rxd5?? cxd5 loses the rook for a mere pawn, a full exchange down. The correct plan is candidate B, stopped after one trade: 1.Nxd5 exd5 leaves material exactly even, and the rook stays home to fight another day rather than walking into the second defender.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1703,7 +1833,8 @@
           "prompt": "In this position, how many pawns defend the black knight on d5, and why does that number matter before you calculate any capture?",
           "fen": "6k1/8/2p1p3/3n4/8/2N5/8/3R2K1 w - - 0 1",
           "answer": "Two pawns defend it (c6 and e6). That matters because White also has two attackers (the knight and the rook), so the capturing ORDER decides whether the exchange sequence ends up even or loses material — you must calculate the full sequence, not just the first capture.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Two pawns defend it (c6 and e6). That matters because White also has two attackers (the knight and the rook), so the capturing ORDER decides whether the exchange sequence ends up even or loses material — you must calculate the full sequence, not just the first capture.\". This directly applies the principle of: Build and evaluate a candidate-move list before committing to a plan.."
         },
         {
           "id": "chess-u6-l2-q2",
@@ -1717,7 +1848,8 @@
           ],
           "answer": "Capture with the least valuable attacker first, and recheck the exchange after each capture",
           "difficulty": 780,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Capture with the least valuable attacker first, and recheck the exchange after each capture\". This directly applies the principle of: Build and evaluate a candidate-move list before committing to a plan.."
         },
         {
           "id": "chess-u6-l2-q3",
@@ -1725,7 +1857,8 @@
           "prompt": "In this position, after 1.Nxd5 exd5, White should continue capturing with 2.Rxd5.",
           "fen": "6k1/8/2p1p3/3n4/8/2N5/8/3R2K1 w - - 0 1",
           "answer": "false",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"false\". This directly applies the principle of: Build and evaluate a candidate-move list before committing to a plan.."
         },
         {
           "id": "chess-u6-l2-q4",
@@ -1733,7 +1866,8 @@
           "fen": "6k1/8/2p1p3/3n4/8/2N5/8/3R2K1 w - - 0 1",
           "prompt": "White to move. Find the correct FIRST capture on d5 — the one that does not lose material once you calculate the whole exchange.",
           "answer": "Nxd5",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"Nxd5\". This directly applies the principle of: Build and evaluate a candidate-move list before committing to a plan.."
         }
       ]
     },
@@ -1752,7 +1886,8 @@
           "fen": "6k1/8/4p3/3n4/8/4N3/8/3R2K1 w - - 0 1",
           "description": "White to move. Knight e3, rook d1, king g1; black king g8, knight d5, pawn e6 (its only defender).",
           "solution": "Nxd5",
-          "explanationOfSolution": "Here d5 has only ONE defender (the e6 pawn), so the full sequence is safe to calculate all the way through: 1.Nxd5 exd5 2.Rxd5. Now stop and actually visualize the resulting position rather than assuming it must be fine: White's knight traded evenly for Black's knight, and the rook then captured the pawn that recaptured on d5 — with no third defender left to punish it. Counting material in that final position: White has gained a clean extra pawn compared to the starting position, with a rook now actively posted on d5 in the center. That visualized evaluation — 'up a pawn, active rook' — is what tells you this whole three-move sequence genuinely favors White, not just that the moves were legal."
+          "explanationOfSolution": "Here d5 has only ONE defender (the e6 pawn), so the full sequence is safe to calculate all the way through: 1.Nxd5 exd5 2.Rxd5. Now stop and actually visualize the resulting position rather than assuming it must be fine: White's knight traded evenly for Black's knight, and the rook then captured the pawn that recaptured on d5 — with no third defender left to punish it. Counting material in that final position: White has gained a clean extra pawn compared to the starting position, with a rook now actively posted on d5 in the center. That visualized evaluation — 'up a pawn, active rook' — is what tells you this whole three-move sequence genuinely favors White, not just that the moves were legal.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1766,7 +1901,8 @@
           "fen": "6k1/8/4p3/3n4/8/4N3/8/3R2K1 w - - 0 1",
           "prompt": "White to move. Find the first move of the winning forced sequence.",
           "answer": "Nxd5",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Nxd5\". This directly applies the principle of: Visualize a resulting position after a forced sequence and evaluate whether it favors you.."
         },
         {
           "id": "chess-u6-l3-q2",
@@ -1774,21 +1910,24 @@
           "fen": "6k1/8/8/3p4/8/8/8/3R2K1 w - - 0 2",
           "prompt": "Continuing the calculation: after 1.Nxd5 exd5, find the move that wins a clean pawn.",
           "answer": "Rxd5",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"Rxd5\". This directly applies the principle of: Visualize a resulting position after a forced sequence and evaluate whether it favors you.."
         },
         {
           "id": "chess-u6-l3-q3",
           "type": "short-answer",
           "prompt": "After 1.Nxd5 exd5 2.Rxd5, what is the material result for White compared to the starting position, and why is it safe (unlike the two-defender trap from the previous lesson)?",
           "answer": "White ends up a clean extra pawn: the knight trade was even, and the rook then won the recapturing pawn for free. It is safe here because d5 only had ONE defender (the e6 pawn) to begin with, so there is no second defender left to punish the rook the way there would be with two defending pawns.",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"White ends up a clean extra pawn: the knight trade was even, and the rook then won the recapturing pawn for free. It is safe here because d5 only had ONE defender (the e6 pawn) to begin with, so there is no second defender left to punish the rook the way there would be with two defending pawns.\". This directly applies the principle of: Visualize a resulting position after a forced sequence and evaluate whether it favors you.."
         },
         {
           "id": "chess-u6-l3-q4",
           "type": "true-false",
           "prompt": "Once you have correctly calculated the legal moves in a forced sequence, you can trust the result without separately re-evaluating the final position.",
           "answer": "false",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"false\". This directly applies the principle of: Visualize a resulting position after a forced sequence and evaluate whether it favors you.."
         }
       ]
     },
@@ -1807,7 +1946,8 @@
           "fen": "5rk1/8/3p1n2/8/4P3/8/3P4/1N3RK1 w - - 0 1",
           "description": "White to move. Knight b1, rook f1, pawn d2, king g1; black king g8, rook f8, knight f6, pawn d6. The pawn on e4 is attacked by the knight on f6.",
           "solution": "Nc3",
-          "explanationOfSolution": "Both 1.Nc3 and 1.d3 are legal, quiet moves that equally solve the immediate problem: each defends the pawn on e4 (Nc3 attacks e4 from the knight's normal defensive angle; d3 defends it with a pawn, diagonally). If you only calculated 'does this defend the pawn,' the two candidates would look interchangeable. But visualize the PLANS each one leads to: 1.Nc3 develops a piece toward the center, eyes the useful d5 square, and keeps the pawn structure flexible for later. 1.d3 is perfectly solid but commits the pawn permanently, gains no piece activity, and can get in the way of your own pieces later (a bishop on c1, for instance, would have its diagonal blocked). Same immediate result, different five-moves-from-now — and that difference is exactly what comparing quiet candidates is for."
+          "explanationOfSolution": "Both 1.Nc3 and 1.d3 are legal, quiet moves that equally solve the immediate problem: each defends the pawn on e4 (Nc3 attacks e4 from the knight's normal defensive angle; d3 defends it with a pawn, diagonally). If you only calculated 'does this defend the pawn,' the two candidates would look interchangeable. But visualize the PLANS each one leads to: 1.Nc3 develops a piece toward the center, eyes the useful d5 square, and keeps the pawn structure flexible for later. 1.d3 is perfectly solid but commits the pawn permanently, gains no piece activity, and can get in the way of your own pieces later (a bishop on c1, for instance, would have its diagonal blocked). Same immediate result, different five-moves-from-now — and that difference is exactly what comparing quiet candidates is for.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1821,7 +1961,8 @@
           "fen": "5rk1/8/3p1n2/8/4P3/8/3P4/1N3RK1 w - - 0 1",
           "prompt": "Name two different quiet (non-check, non-capture) moves White could play here that both defend the pawn on e4.",
           "answer": "Nb1-c3 and d2-d3 (either order of naming is fine) — both defend the e4 pawn without giving check or capturing anything.",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"Nb1-c3 and d2-d3 (either order of naming is fine) — both defend the e4 pawn without giving check or capturing anything.\". This directly applies the principle of: Practice calculating quiet (non-forcing) candidate moves and comparing resulting plans.."
         },
         {
           "id": "chess-u6-l4-q2",
@@ -1835,21 +1976,24 @@
           ],
           "answer": "Nc3",
           "difficulty": 750,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"Nc3\". This directly applies the principle of: Practice calculating quiet (non-forcing) candidate moves and comparing resulting plans.."
         },
         {
           "id": "chess-u6-l4-q3",
           "type": "true-false",
           "prompt": "d2-d3 defends the e4 pawn just as effectively as Nc3 in the immediate sense, even though it commits the pawn structure more permanently and can block other pieces later.",
           "answer": "true",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"true\". This directly applies the principle of: Practice calculating quiet (non-forcing) candidate moves and comparing resulting plans.."
         },
         {
           "id": "chess-u6-l4-q4",
           "type": "short-answer",
           "prompt": "Why is it important to compare quiet candidate moves by their resulting PLAN, not just by whether they are safe and legal right now?",
           "answer": "Because most moves in a real game are quiet, with no forced reply to narrow the search — several quiet candidates can all be equally safe and legal in the immediate sense while leading to very different middlegames, so the real decision is which long-term plan and piece activity you actually want, not just which move avoids an immediate problem.",
-          "difficulty": 820
+          "difficulty": 820,
+          "explanation": "Correct answer: \"Because most moves in a real game are quiet, with no forced reply to narrow the search — several quiet candidates can all be equally safe and legal in the immediate sense while leading to very different middlegames, so the real decision is which long-term plan and piece activity you actually want, not just which move avoids an immediate problem.\". This directly applies the principle of: Practice calculating quiet (non-forcing) candidate moves and comparing resulting plans.."
         }
       ]
     },
@@ -1868,7 +2012,8 @@
           "fen": "7k/6pp/2q1Q3/3N4/8/8/8/1K6 w - - 0 1",
           "description": "White to move. Queen e6, knight d5, king b1; black king h8, queen c6, pawns g7 and h7.",
           "solution": "Qg8+",
-          "explanationOfSolution": "1.Qg8+ is a queen sacrifice, but check the recapture options first: the queen on c6 has no line to g8 (it would have to travel along the 8th rank or the long diagonal, and neither is open), so 1...Kxg8 is genuinely forced — the king is the only piece that can respond. Now comes the branch: 2.Ne7+ forks the king on g8 and the queen on c6 at once, and Black has THREE legal replies to the check — 2...Kh8, 2...Kf7, and 2...Kf8. A full calculation checks all three separately: from any of those three squares, the king is too far away to defend or recapture on c6, and nothing else guards it either. So whichever square Black's king retreats to, 3.Nxc6 wins the queen cleanly. Five plies deep — sacrifice, forced recapture, fork, any king move, capture — and the combination holds against every single one of Black's options, not just the one that looks most natural."
+          "explanationOfSolution": "1.Qg8+ is a queen sacrifice, but check the recapture options first: the queen on c6 has no line to g8 (it would have to travel along the 8th rank or the long diagonal, and neither is open), so 1...Kxg8 is genuinely forced — the king is the only piece that can respond. Now comes the branch: 2.Ne7+ forks the king on g8 and the queen on c6 at once, and Black has THREE legal replies to the check — 2...Kh8, 2...Kf7, and 2...Kf8. A full calculation checks all three separately: from any of those three squares, the king is too far away to defend or recapture on c6, and nothing else guards it either. So whichever square Black's king retreats to, 3.Nxc6 wins the queen cleanly. Five plies deep — sacrifice, forced recapture, fork, any king move, capture — and the combination holds against every single one of Black's options, not just the one that looks most natural.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1882,7 +2027,8 @@
           "fen": "7k/6pp/2q1Q3/3N4/8/8/8/1K6 w - - 0 1",
           "prompt": "White to move. Find the queen sacrifice that starts a five-ply winning combination.",
           "answer": "Qg8+",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"Qg8+\". This directly applies the principle of: Solve calculation-heavy puzzles requiring 4+ ply of accurate visualization.."
         },
         {
           "id": "chess-u6-l5-q2",
@@ -1890,7 +2036,8 @@
           "fen": "6k1/6pp/2q5/3N4/8/8/8/1K6 w - - 0 2",
           "prompt": "Continuing the calculation: after 1.Qg8+ Kxg8 (forced), find the move that forks the king and the queen.",
           "answer": "Ne7+",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"Ne7+\". This directly applies the principle of: Solve calculation-heavy puzzles requiring 4+ ply of accurate visualization.."
         },
         {
           "id": "chess-u6-l5-q3",
@@ -1898,21 +2045,24 @@
           "fen": "5k2/4N1pp/2q5/8/8/8/8/1K6 w - - 2 3",
           "prompt": "Black has just played 2...Kf8, one of three possible replies to the fork. Find the move that wins the queen from here.",
           "answer": "Nxc6",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"Nxc6\". This directly applies the principle of: Solve calculation-heavy puzzles requiring 4+ ply of accurate visualization.."
         },
         {
           "id": "chess-u6-l5-q4",
           "type": "short-answer",
           "prompt": "After 2.Ne7+, Black can try Kh8, Kf7, or Kf8. Why does 3.Nxc6 win the queen no matter which of the three the king plays?",
           "answer": "None of the three squares (h8, f7, or f8) is close enough to c6 to defend or recapture on it, and no other black piece guards c6 either — so wherever the king retreats, it cannot come to the queen's rescue in time, and the knight simply collects it for free.",
-          "difficulty": 880
+          "difficulty": 880,
+          "explanation": "Correct answer: \"None of the three squares (h8, f7, or f8) is close enough to c6 to defend or recapture on it, and no other black piece guards c6 either — so wherever the king retreats, it cannot come to the queen's rescue in time, and the knight simply collects it for free.\". This directly applies the principle of: Solve calculation-heavy puzzles requiring 4+ ply of accurate visualization.."
         },
         {
           "id": "chess-u6-l5-q5",
           "type": "true-false",
           "prompt": "When a forcing move gives the opponent more than one legal reply, it is enough to verify your follow-up works against the single most natural-looking one.",
           "answer": "false",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"false\". This directly applies the principle of: Solve calculation-heavy puzzles requiring 4+ ply of accurate visualization.."
         }
       ]
     },

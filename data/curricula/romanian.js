@@ -721,7 +721,7 @@
             "sunt"
           ],
           "answerIndex": 3,
-          "explanation": "eu sunt.",
+          "explanation": "Correct answer: \"sunt\". This directly applies the principle of: Conjugate a fi (to be) for all subject pronouns, master the non-syllabic palatalized final 'i' [ʲ] and 'ț' [ts] in verb endings, and build basic identity sentences..",
           "type": "multiple-choice"
         },
         {
@@ -733,7 +733,7 @@
             "sunteți"
           ],
           "answerIndex": 2,
-          "explanation": "tu ești.",
+          "explanation": "Correct answer: \"ești\". This directly applies the principle of: Conjugate a fi (to be) for all subject pronouns, master the non-syllabic palatalized final 'i' [ʲ] and 'ț' [ts] in verb endings, and build basic identity sentences..",
           "type": "multiple-choice"
         },
         {
@@ -3466,7 +3466,7 @@
             "el / ea vine"
           ],
           "answerIndex": 3,
-          "explanation": "el vine."
+          "explanation": "Correct answer: \"el / ea vine\". This directly applies the principle of: Conjugate 4th Conjugation (-I / -Î) verbs in the Present Indicative, mastering the productive suffix '-esc / -ăsc' group (a vorbi -> vorbesc, vorbești, vorbește, vorbim, vorbiți, vorbesc; a citi -> citesc) and irregular stem verbs (a veni -> vin, vii, vine, venim, veniți, vin).."
         }
       ]
     },
@@ -4079,7 +4079,7 @@
             "face"
           ],
           "answerIndex": 0,
-          "explanation": "Eu fac."
+          "explanation": "Correct answer: \"fac\". This directly applies the principle of: Conjugate high-frequency irregular present verbs (a merge, a veni, a face, a bea) in daily activity contexts.."
         },
         {
           "prompt": "Choose the correct form of 'a merge' for 'Noi' (We):",
@@ -4167,7 +4167,7 @@
             "bei"
           ],
           "answerIndex": 0,
-          "explanation": "Eu beau.",
+          "explanation": "Correct answer: \"beau\". This directly applies the principle of: Conjugate high-frequency irregular present verbs (a merge, a veni, a face, a bea) in daily activity contexts..",
           "type": "multiple-choice"
         }
       ],
@@ -4455,7 +4455,7 @@
             "vor"
           ],
           "answerIndex": 2,
-          "explanation": "Noi vrem.",
+          "explanation": "Correct answer: \"vrem\". This directly applies the principle of: Express necessity, capability, and desires using modal verbs (a trebui, a putea, a vrea) with subjunctive 'să' clauses..",
           "type": "multiple-choice"
         }
       ],
@@ -8662,7 +8662,7 @@
             "Ulei fierbinte"
           ],
           "answerIndex": 0,
-          "explanation": "Coffee.",
+          "explanation": "Correct answer: \"Cafeaua caldă\". This directly applies the principle of: Descrierea rutinei de birou, ședințe de echipă și managementul sarcinilor în companii..",
           "type": "multiple-choice"
         },
         {
@@ -8975,7 +8975,7 @@
             "Naiul românesc"
           ],
           "answerIndex": 3,
-          "explanation": "Naiul."
+          "explanation": "Correct answer: \"Naiul românesc\". This directly applies the principle of: Exprimarea hobby-urilor, a pasiunilor și a activităților în aer liber în limba română (Timp liber și drumeții).."
         }
       ]
     },
@@ -9728,7 +9728,7 @@
             "ANPC"
           ],
           "answerIndex": 3,
-          "explanation": "ANPC.",
+          "explanation": "Correct answer: \"ANPC\". This directly applies the principle of: Rezolvarea problemelor de călătorie: bagaje pierdute, anulări de zboruri (Drepturile pasagerilor UE), asigurare de călătorie..",
           "type": "multiple-choice"
         },
         {
@@ -10123,7 +10123,7 @@
             "Cutii poștale clasice"
           ],
           "answerIndex": 2,
-          "explanation": "Easybox."
+          "explanation": "Correct answer: \"Easybox\". This directly applies the principle of: Politica de retur, dreptul de retragere la cumpărături online (eMAG / ANPC), garanția de 2 ani și cumpărături Tax-Free.."
         }
       ]
     },
@@ -10206,7 +10206,7 @@
             "Crivățul (Prognoza meteo)"
           ],
           "answerIndex": 3,
-          "explanation": "Crivățul."
+          "explanation": "Correct answer: \"Crivățul (Prognoza meteo)\". This directly applies the principle of: Prognoza meteo, fenomene meteorologice, temperaturi și vânturi specifice (Crivățul) în România.."
         }
       ]
     },
@@ -10303,7 +10303,7 @@
             "Ceaiul verde"
           ],
           "answerIndex": 0,
-          "explanation": "Mustul.",
+          "explanation": "Correct answer: \"Mustul proaspăt\". This directly applies the principle of: Cele patru anotimpuri, Mărțișorul primăverii, concediile pe litoral și iarna la munte..",
           "type": "multiple-choice"
         },
         {
@@ -10467,7 +10467,7 @@
             "Poșta Română"
           ],
           "answerIndex": 2,
-          "explanation": "ANM.",
+          "explanation": "Correct answer: \"ANM\". This directly applies the principle of: Avertizările Administrației Naționale de Meteorologie (ANM), coduri de culori și sistemul RO-ALERT..",
           "type": "multiple-choice"
         },
         {
@@ -10713,7 +10713,7 @@
             "CNAS"
           ],
           "answerIndex": 3,
-          "explanation": "CNAS.",
+          "explanation": "Correct answer: \"CNAS\". This directly applies the principle of: Farmacia în România (Catena, Dr. Max), rețete compensate CNAS, medicamente fără rețetă (OTC), plasturi și prospectul..",
           "type": "multiple-choice"
         },
         {
@@ -10765,7 +10765,7 @@
             "000 (Numrul de urgen 112)"
           ],
           "answerIndex": 1,
-          "explanation": "112."
+          "explanation": "Correct answer: \"112 (Numrul de urgen 112)\". This directly applies the principle of: Numărul de urgență 112, serviciul SMURD (Dr. Raed Arafat), UPU (Unitatea de Primiri Urgențe) și cardul național de sănătate.."
         }
       ]
     },
@@ -10780,7 +10780,7 @@
             "Societatea Medicală Urbană (Numrul de urgen 112)"
           ],
           "answerIndex": 0,
-          "explanation": "SMURD."
+          "explanation": "Correct answer: \"Serviciul Mobil de Urgență, Reanimare și Descarcerare (Numrul de urgen 112)\". This directly applies the principle of: Numărul de urgență 112, serviciul SMURD (Dr. Raed Arafat), UPU (Unitatea de Primiri Urgențe) și cardul național de sănătate.."
         }
       ]
     },
@@ -11041,7 +11041,7 @@
             "La ANAF (nchirierea de locuine n Romnia Storia)"
           ],
           "answerIndex": 3,
-          "explanation": "La ANAF.",
+          "explanation": "Correct answer: \"La ANAF (nchirierea de locuine n Romnia Storia)\". This directly applies the principle of: Închirierea de locuințe în România (Storia, Imobiliare.ro), contract de locațiune, garanție (1-2 luni) și cheltuieli de întreținere..",
           "type": "multiple-choice"
         },
         {
@@ -11205,7 +11205,7 @@
             "Garajul subteran"
           ],
           "answerIndex": 1,
-          "explanation": "Prispa.",
+          "explanation": "Correct answer: \"Prispa\". This directly applies the principle of: Arhitectura tradițională românească: Porțile sculptate din lemn din Maramureș (Patrimoniu UNESCO), culele oltenești și casele țărănești cu prispă..",
           "type": "multiple-choice"
         },
         {
@@ -11667,7 +11667,7 @@
             "Skype"
           ],
           "answerIndex": 1,
-          "explanation": "UiPath."
+          "explanation": "Correct answer: \"UiPath\". This directly applies the principle of: Polul tehnologic al Europei de Est: Cluj-Napoca („Silicon Valley de România”), București, unicornul UiPath (Daniel Dines) și Bitdefender.."
         }
       ]
     },
@@ -11913,7 +11913,7 @@
             "Oltenia"
           ],
           "answerIndex": 0,
-          "explanation": "Dobrogea."
+          "explanation": "Correct answer: \"Dobrogea\". This directly applies the principle of: Renewable energy in Dobrogea, the Fântânele-Cogealac onshore wind mega-park, and Black Sea biodiversity (parcul eolian Fântânele-Cogealac, energia eoliană din Dobrogea, Marea Neagră).."
         }
       ]
     },
@@ -11928,7 +11928,7 @@
             "100 MW"
           ],
           "answerIndex": 0,
-          "explanation": "600 MW."
+          "explanation": "Correct answer: \"600 MW\". This directly applies the principle of: Renewable energy in Dobrogea, the Fântânele-Cogealac onshore wind mega-park, and Black Sea biodiversity (parcul eolian Fântânele-Cogealac, energia eoliană din Dobrogea, Marea Neagră).."
         }
       ]
     },
@@ -12092,7 +12092,7 @@
             "Dobrogea"
           ],
           "answerIndex": 1,
-          "explanation": "Moldova."
+          "explanation": "Correct answer: \"Moldova\". This directly applies the principle of: Bison rewilding in the Southern Carpathians and regenerative nature corridors (Zimbrul european, Măgura Zimbrilor în Munții Țarcu, coridoare ecologice, Rewilding Europe).."
         }
       ]
     },
@@ -12174,7 +12174,7 @@
             "2050 (C2 synthesis on Romanias 2050 Climate Neutrality strategy)"
           ],
           "answerIndex": 3,
-          "explanation": "2050."
+          "explanation": "Correct answer: \"2050 (C2 synthesis on Romanias 2050 Climate Neutrality strategy)\". This directly applies the principle of: C2 synthesis on Romania's 2050 Climate Neutrality strategy, nuclear SMRs, and Black Sea offshore energy (Neutralitatea climatică 2050, reactoare nucleare modulare mici - SMR la Doicești, eolian offshore).."
         }
       ]
     },
@@ -12323,7 +12323,7 @@
             "Poșta Română"
           ],
           "answerIndex": 0,
-          "explanation": "SMURD."
+          "explanation": "Correct answer: \"SMURD\". This directly applies the principle of: Emergency medicine revolution: SMURD, Dr. Raed Arafat, and mobile intensive care helicopters (SMURD - Serviciul Mobil de Urgență, Reanimare și Descarcerare, Dr. Raed Arafat, heli-ambulanțe, medicina de urgență prespitalicească).."
         }
       ]
     },
@@ -12338,7 +12338,7 @@
             "100"
           ],
           "answerIndex": 0,
-          "explanation": "112."
+          "explanation": "Correct answer: \"112\". This directly applies the principle of: Emergency medicine revolution: SMURD, Dr. Raed Arafat, and mobile intensive care helicopters (SMURD - Serviciul Mobil de Urgență, Reanimare și Descarcerare, Dr. Raed Arafat, heli-ambulanțe, medicina de urgență prespitalicească).."
         }
       ]
     },
@@ -12420,7 +12420,7 @@
             "Giardia"
           ],
           "answerIndex": 0,
-          "explanation": "Babesia."
+          "explanation": "Correct answer: \"Babesia\". This directly applies the principle of: World medical pathology: Victor Babeș, infectious diseases, and the Babes-Bolyai legacy (Victor Babeș, bacteriologie și anatomie patologică, piroplasmoza / Babesia, tratatul de bacteriologie din 1885).."
         }
       ]
     },
@@ -12529,7 +12529,7 @@
             "1900"
           ],
           "answerIndex": 0,
-          "explanation": "1952.",
+          "explanation": "Correct answer: \"1952\". This directly applies the principle of: Gerontology pioneer Ana Aslan, Gerovital H3, and anti-aging medicine (Ana Aslan, Institutul Național de Gerontologie și Geriatrie, Gerovital H3, Aslavital, geriatrie socială)..",
           "type": "multiple-choice"
         }
       ],
@@ -12912,7 +12912,7 @@
             "«Fără»"
           ],
           "answerIndex": 1,
-          "explanation": "«Întru»."
+          "explanation": "Correct answer: \"«Întru»\". This directly applies the principle of: The School of Păltiniș & Ontological Being: Constantin Noica (Constantin Noica - Școala de la Păltiniș, Jurnalul filozofic, Devenirea întru ființă, Sentimentul românesc al ființei, rostirea filozofică românească).."
         }
       ]
     },
@@ -12994,7 +12994,7 @@
             "Bérenger (C2 synthesis on the Theatre of the Absurd)"
           ],
           "answerIndex": 3,
-          "explanation": "Bérenger."
+          "explanation": "Correct answer: \"Bérenger (C2 synthesis on the Theatre of the Absurd)\". This directly applies the principle of: C2 synthesis on the Theatre of the Absurd: Eugène Ionesco and totalitarian allegory (Eugène Ionesco - Eugen Ionescu, Cântăreața cheală, Rinocerii, teatrul absurdului, descompunerea limbajului conformist, rezistența antitotalitară).."
         }
       ]
     },
@@ -13814,7 +13814,7 @@
             "Albania (C2 synthesis on The Romanian Ballad  Lyrical Romanticism)"
           ],
           "answerIndex": 3,
-          "explanation": "Albania."
+          "explanation": "Correct answer: \"Albania (C2 synthesis on The Romanian Ballad  Lyrical Romanticism)\". This directly applies the principle of: C2 synthesis on The Romanian Ballad & Lyrical Romanticism: Ciprian Porumbescu and Balada (Ciprian Porumbescu - Balada pentru vioară și orchestră op. 29, Crai Nou - prima operetă românească, Stupca, patriotism liric și tragedie).."
         }
       ]
     },
@@ -13841,7 +13841,7 @@
             "Bravura (C2 synthesis on The Romanian Ballad  Lyrical Romanticism)"
           ],
           "answerIndex": 0,
-          "explanation": "Dorul.",
+          "explanation": "Correct answer: \"Dorul (C2 synthesis on The Romanian Ballad  Lyrical Romanticism)\". This directly applies the principle of: C2 synthesis on The Romanian Ballad & Lyrical Romanticism: Ciprian Porumbescu and Balada (Ciprian Porumbescu - Balada pentru vioară și orchestră op. 29, Crai Nou - prima operetă românească, Stupca, patriotism liric și tragedie)..",
           "type": "multiple-choice"
         }
       ],
@@ -14306,7 +14306,7 @@
             "Botard"
           ],
           "answerIndex": 1,
-          "explanation": "Bérenger."
+          "explanation": "Correct answer: \"Bérenger\". This directly applies the principle of: The Father of the Theatre of the Absurd: Eugène Ionesco (Eugen Ionescu / Eugène Ionesco - Cântăreața cheală 1950 la Théâtre de la Huchette, Rinocerii 1959 - metamorfoza totalitară și rezistența lui Bérenger, Scaunele, Academia Franceză).."
         }
       ]
     },
@@ -14865,7 +14865,7 @@
             "«Vox Maris»"
           ],
           "answerIndex": 0,
-          "explanation": "«Oedipe»."
+          "explanation": "Correct answer: \"«Oedipe»\". This directly applies the principle of: The National Opera Monument & Enescu's Oedipe: Opera Națională București (Opera Națională București 1921 - arhitect Octav Doicescu, capodopera lirică Oedipe de George Enescu 1936 la Palais Garnier, mitul sofoclean și sinteza folclorului românesc).."
         }
       ]
     },
@@ -14989,7 +14989,7 @@
             "Otello"
           ],
           "answerIndex": 2,
-          "explanation": "Radamès.",
+          "explanation": "Correct answer: \"Radamès\". This directly applies the principle of: The Dramatic Baritone & Transylvanian Voice: Nicolae Herlea and Ludovic Spiess (Nicolae Herlea - Regele Baritonilor la La Scala, Met și Bolșoi, Figaro în Bărbierul din Sevilla «Largo al factotum», Ludovic Spiess - marele tenor eroic Radamès și Calaf, Opera Română din Cluj-Napoca 1919)..",
           "type": "multiple-choice"
         }
       ],
@@ -15727,7 +15727,7 @@
             "Predeal"
           ],
           "answerIndex": 1,
-          "explanation": "Păltiniș.",
+          "explanation": "Correct answer: \"Păltiniș\". This directly applies the principle of: Becoming into Being & The School of Păltiniș: Constantin Noica (Constantin Noica - Devenirea întru ființă 1981, Sentimentul românesc al ființei, Școala de la Păltiniș în Munții Cindrel, cele șase maladii ale spiritului contemporan: catholita, todetita, horetita)..",
           "type": "multiple-choice"
         }
       ],
@@ -17638,7 +17638,8 @@
           "expectedKeywords": [
             "Ambasadorul",
             "extraordinar"
-          ]
+          ],
+          "explanation": "Correct answer: \"Ambasadorul extraordinar și plenipotențiar a prezentat scrisorile de acreditare la Palatul Cotroceni.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Bilateral Treaties (Scrisorile de Acreditare și Protocolul Diplomatic).."
         }
       ]
     },
@@ -17667,7 +17668,8 @@
           "expectedKeywords": [
             "Ambasadorul",
             "extraordinar"
-          ]
+          ],
+          "explanation": "Correct answer: \"Ambasadorul extraordinar și plenipotențiar a prezentat scrisorile de acreditare la Palatul Cotroceni.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Bilateral Treaties (Scrisorile de Acreditare și Protocolul Diplomatic).."
         }
       ]
     }
@@ -17721,7 +17723,8 @@
           "expectedKeywords": [
             "Parlamentul",
             "a"
-          ]
+          ],
+          "explanation": "Correct answer: \"Parlamentul a adoptat legea de ratificare a tratatului internațional privind securitatea cibernetică.\". This directly applies the principle of: Multilateral Treaties, EU Acceding Protocols & Ratification (Tratate Multilaterale și Ratificare Parlamentară).."
         }
       ]
     },
@@ -17750,7 +17753,8 @@
           "expectedKeywords": [
             "Parlamentul",
             "a"
-          ]
+          ],
+          "explanation": "Correct answer: \"Parlamentul a adoptat legea de ratificare a tratatului internațional privind securitatea cibernetică.\". This directly applies the principle of: Multilateral Treaties, EU Acceding Protocols & Ratification (Tratate Multilaterale și Ratificare Parlamentară).."
         }
       ]
     }
@@ -17804,7 +17808,8 @@
           "expectedKeywords": [
             "Statele",
             "aliate"
-          ]
+          ],
+          "explanation": "Correct answer: \"Statele aliate au reafirmat caracterul de neclintit al clauzei de apărare colectivă din Tratatul Nord-Atlantic.\". This directly applies the principle of: NATO Strategic Concepts, Collective Defense & Peacekeeping Deployments (Concepte Strategice NATO și Misiuni de Pace).."
         }
       ]
     },
@@ -17833,7 +17838,8 @@
           "expectedKeywords": [
             "Statele",
             "aliate"
-          ]
+          ],
+          "explanation": "Correct answer: \"Statele aliate au reafirmat caracterul de neclintit al clauzei de apărare colectivă din Tratatul Nord-Atlantic.\". This directly applies the principle of: NATO Strategic Concepts, Collective Defense & Peacekeeping Deployments (Concepte Strategice NATO și Misiuni de Pace).."
         }
       ]
     }
@@ -17887,7 +17893,8 @@
           "expectedKeywords": [
             "Curtea",
             "Internațională"
-          ]
+          ],
+          "explanation": "Correct answer: \"Curtea Internațională de Justiție a pronunțat o hotărâre definitivă și obligatorie privind delimitarea platoului continental.\". This directly applies the principle of: International Maritime Boundary Delimitation & ICJ Jurisprudence (Delimitarea Maritimă și Jurisprudența CIJ).."
         }
       ]
     },
@@ -17916,7 +17923,8 @@
           "expectedKeywords": [
             "Curtea",
             "Internațională"
-          ]
+          ],
+          "explanation": "Correct answer: \"Curtea Internațională de Justiție a pronunțat o hotărâre definitivă și obligatorie privind delimitarea platoului continental.\". This directly applies the principle of: International Maritime Boundary Delimitation & ICJ Jurisprudence (Delimitarea Maritimă și Jurisprudența CIJ).."
         }
       ]
     }
@@ -17970,7 +17978,8 @@
           "expectedKeywords": [
             "Șefii",
             "de"
-          ]
+          ],
+          "explanation": "Correct answer: \"Șefii de stat și de guvern au adoptat declarația comună subliniind atașamentul neclintit față de dreptul internațional.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & Defense (Declarația Comună de la Summit).."
         }
       ]
     },
@@ -17999,7 +18008,8 @@
           "expectedKeywords": [
             "Șefii",
             "de"
-          ]
+          ],
+          "explanation": "Correct answer: \"Șefii de stat și de guvern au adoptat declarația comună subliniind atașamentul neclintit față de dreptul internațional.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & Defense (Declarația Comună de la Summit).."
         }
       ]
     }

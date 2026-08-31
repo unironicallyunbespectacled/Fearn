@@ -127,37 +127,44 @@
         {
           "problem": "A E I O U L N S T R (10 tiles)",
           "answer": 1,
-          "description": "The common core — so frequent in English that the bag holds many copies of each; cheap because they are never hard to play."
+          "description": "The common core — so frequent in English that the bag holds many copies of each; cheap because they are never hard to play.",
+          "target": "Core example"
         },
         {
           "problem": "D, G",
           "answer": 2,
-          "description": "Slightly less common than the 1-point tiles, but still easy to slot into everyday words."
+          "description": "Slightly less common than the 1-point tiles, but still easy to slot into everyday words.",
+          "target": "Core example"
         },
         {
           "problem": "B, C, M, P",
           "answer": 3,
-          "description": "Mid-tier consonants — common enough to see often, but not quite as flexible as the 1- and 2-point tiles."
+          "description": "Mid-tier consonants — common enough to see often, but not quite as flexible as the 1- and 2-point tiles.",
+          "target": "Core example"
         },
         {
           "problem": "F, H, V, W, Y",
           "answer": 4,
-          "description": "Getting pickier — these show up less often in English and tend to want specific letter partners."
+          "description": "Getting pickier — these show up less often in English and tend to want specific letter partners.",
+          "target": "Core example"
         },
         {
           "problem": "K",
           "answer": 5,
-          "description": "A step up in rarity from the 4-point tiles — still workable, but noticeably harder to place."
+          "description": "A step up in rarity from the 4-point tiles — still workable, but noticeably harder to place.",
+          "target": "Core example"
         },
         {
           "problem": "J, X",
           "answer": 8,
-          "description": "Genuinely awkward tiles — high value precisely because so few words will take them."
+          "description": "Genuinely awkward tiles — high value precisely because so few words will take them.",
+          "target": "Core example"
         },
         {
           "problem": "Q, Z",
           "answer": 10,
-          "description": "The two luxury tiles — only one of each in the bag, and both can strand you for turns if you don't plan ahead."
+          "description": "The two luxury tiles — only one of each in the bag, and both can strand you for turns if you don't plan ahead.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -174,14 +181,16 @@
           "type": "compute",
           "prompt": "What is the point value of the letter Q?",
           "answer": 10,
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"10\". This directly applies the principle of: Recall the point value of every tile from memory without checking a reference.."
         },
         {
           "id": "scrabble-u1-l1-q2",
           "type": "compute",
           "prompt": "What is the point value of the letter D?",
           "answer": 2,
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"2\". This directly applies the principle of: Recall the point value of every tile from memory without checking a reference.."
         },
         {
           "id": "scrabble-u1-l1-q3",
@@ -195,21 +204,24 @@
           ],
           "answer": "J",
           "difficulty": 500,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"J\". This directly applies the principle of: Recall the point value of every tile from memory without checking a reference.."
         },
         {
           "id": "scrabble-u1-l1-q4",
           "type": "compute",
           "prompt": "What is the point value of the letter F?",
           "answer": 4,
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"4\". This directly applies the principle of: Recall the point value of every tile from memory without checking a reference.."
         },
         {
           "id": "scrabble-u1-l1-q5",
           "type": "short-answer",
           "prompt": "Why are Q and Z worth more points than common letters like A or E?",
           "answer": "Because they are rare and hard to fit into words, so the game compensates for that rarity and difficulty with a higher point value.",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"Because they are rare and hard to fit into words, so the game compensates for that rarity and difficulty with a higher point value.\". This directly applies the principle of: Recall the point value of every tile from memory without checking a reference.."
         }
       ]
     },
@@ -226,22 +238,26 @@
         {
           "problem": "Triple Word (TW)",
           "answer": "Corners + edge midpoints",
-          "description": "Triples the ENTIRE word score for that play — the single most valuable square type on the board."
+          "description": "Triples the ENTIRE word score for that play — the single most valuable square type on the board.",
+          "target": "Core example"
         },
         {
           "problem": "Double Word (DW)",
           "answer": "Two diagonals from each corner toward the center star",
-          "description": "Doubles the entire word score; the center star itself is a Double Word square used to open the game."
+          "description": "Doubles the entire word score; the center star itself is a Double Word square used to open the game.",
+          "target": "Core example"
         },
         {
           "problem": "Triple Letter (TL)",
           "answer": "Scattered between the word-multiplier diagonals",
-          "description": "Triples only the single tile placed on it — huge if you land your Q or Z there."
+          "description": "Triples only the single tile placed on it — huge if you land your Q or Z there.",
+          "target": "Core example"
         },
         {
           "problem": "Double Letter (DL)",
           "answer": "The most common premium square type",
-          "description": "Doubles only the single tile placed on it — a smaller but still useful boost."
+          "description": "Doubles only the single tile placed on it — a smaller but still useful boost.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -265,7 +281,8 @@
           ],
           "answer": "Double Word and Triple Word",
           "difficulty": 510,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Double Word and Triple Word\". This directly applies the principle of: Identify the premium squares (double/triple letter and word) and their board positions.."
         },
         {
           "id": "scrabble-u1-l2-q2",
@@ -279,7 +296,8 @@
           ],
           "answer": "A Double Word square",
           "difficulty": 510,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A Double Word square\". This directly applies the principle of: Identify the premium squares (double/triple letter and word) and their board positions.."
         },
         {
           "id": "scrabble-u1-l2-q3",
@@ -291,14 +309,16 @@
           ],
           "answer": "False",
           "difficulty": 510,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"False\". This directly applies the principle of: Identify the premium squares (double/triple letter and word) and their board positions.."
         },
         {
           "id": "scrabble-u1-l2-q4",
           "type": "short-answer",
           "prompt": "In one sentence, explain why word multipliers (DW/TW) are usually worth more strategically than letter multipliers (DL/TL).",
           "answer": "Because a word multiplier applies to the entire word score for that turn — including any letter multipliers already used in the play — while a letter multiplier only boosts a single tile.",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"Because a word multiplier applies to the entire word score for that turn — including any letter multipliers already used in the play — while a letter multiplier only boosts a single tile.\". This directly applies the principle of: Identify the premium squares (double/triple letter and word) and their board positions.."
         }
       ]
     },
@@ -315,17 +335,20 @@
         {
           "problem": "CAT (C=3, A=1, T=1) with T on a Double Letter square",
           "answer": 6,
-          "description": "Double the T first: 1→2. Sum: 3+1+2=6. No word multiplier applies."
+          "description": "Double the T first: 1→2. Sum: 3+1+2=6. No word multiplier applies.",
+          "target": "Core example"
         },
         {
           "problem": "RATE (R1+A1+T1+E1=4) with the whole word crossing a Double Word square",
           "answer": 8,
-          "description": "Sum the tiles first: 4. Then double the whole word total: 4×2=8."
+          "description": "Sum the tiles first: 4. Then double the whole word total: 4×2=8.",
+          "target": "Core example"
         },
         {
           "problem": "FOX (F=4, O=1, X=8) with X on a Triple Letter square AND the whole word on a Double Word square",
           "answer": 58,
-          "description": "Triple the X first: 8→24. Sum: 4+1+24=29. Then double the whole word: 29×2=58 — stacking multipliers is how big scores happen."
+          "description": "Triple the X first: 8→24. Sum: 4+1+24=29. Then double the whole word: 29×2=58 — stacking multipliers is how big scores happen.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -342,21 +365,24 @@
           "type": "compute",
           "prompt": "Score the word DOG (D=2, O=1, G=2) with no premium squares involved. What is the total?",
           "answer": 5,
-          "difficulty": 530
+          "difficulty": 530,
+          "explanation": "Correct answer: \"5\". This directly applies the principle of: Calculate the score of a simple word placement including premium squares.."
         },
         {
           "id": "scrabble-u1-l3-q2",
           "type": "compute",
           "prompt": "Score the word SAD (S=1, A=1, D=2) with the D landing on a Double Letter square. What is the total?",
           "answer": 6,
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"6\". This directly applies the principle of: Calculate the score of a simple word placement including premium squares.."
         },
         {
           "id": "scrabble-u1-l3-q3",
           "type": "compute",
           "prompt": "Score the word BIG (B=3, I=1, G=2) with the whole word crossing a Triple Word square. What is the total?",
           "answer": 18,
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"18\". This directly applies the principle of: Calculate the score of a simple word placement including premium squares.."
         },
         {
           "id": "scrabble-u1-l3-q4",
@@ -370,14 +396,16 @@
           ],
           "answer": "The letter multiplier to that tile, then the word multiplier to the whole sum",
           "difficulty": 540,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The letter multiplier to that tile, then the word multiplier to the whole sum\". This directly applies the principle of: Calculate the score of a simple word placement including premium squares.."
         },
         {
           "id": "scrabble-u1-l3-q5",
           "type": "short-answer",
           "prompt": "What extra bonus can apply on top of normal scoring if a play uses all 7 tiles from your rack in one turn?",
           "answer": "A 50-point bingo bonus is added on top of the normal word score.",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"A 50-point bingo bonus is added on top of the normal word score.\". This directly applies the principle of: Calculate the score of a simple word placement including premium squares.."
         }
       ]
     },
@@ -394,17 +422,20 @@
         {
           "problem": "Playing a 6-letter word using your whole rack because the bag left you only 6 tiles",
           "answer": "No bingo bonus",
-          "description": "The standard rack size is 7 — using all 6 tiles you happen to be holding late in the bag does not trigger the 50-point bonus; it specifically requires playing all 7 rack tiles in one turn under normal play."
+          "description": "The standard rack size is 7 — using all 6 tiles you happen to be holding late in the bag does not trigger the 50-point bonus; it specifically requires playing all 7 rack tiles in one turn under normal play.",
+          "target": "Core example"
         },
         {
           "problem": "Playing a 7-letter word using your entire 7-tile rack in one turn",
           "answer": "+50 bonus on top of normal score",
-          "description": "A textbook bingo — all 7 rack tiles placed in a single turn earns the flat 50-point bonus in addition to whatever the word scores normally."
+          "description": "A textbook bingo — all 7 rack tiles placed in a single turn earns the flat 50-point bonus in addition to whatever the word scores normally.",
+          "target": "Core example"
         },
         {
           "problem": "A 7-letter word scoring 68 points from letters and multipliers alone, played as a bingo",
           "answer": 118,
-          "description": "68 (normal score) + 50 (bingo bonus) = 118 — a single turn worth more than several ordinary plays combined."
+          "description": "68 (normal score) + 50 (bingo bonus) = 118 — a single turn worth more than several ordinary plays combined.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -428,14 +459,16 @@
           ],
           "answer": "Using all 7 tiles from your current rack in a single turn",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Using all 7 tiles from your current rack in a single turn (Explain the bingo bonus rule and when the 50point bonus applies)\". This directly applies the principle of: Explain the bingo bonus rule and when the 50-point bonus applies.."
         },
         {
           "id": "scrabble-u1-l4-q2",
           "type": "compute",
           "prompt": "A bingo play scores 45 points from letters and multipliers alone. What is the total score for that turn including the bonus?",
           "answer": 95,
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"95\". This directly applies the principle of: Explain the bingo bonus rule and when the 50-point bonus applies.."
         },
         {
           "id": "scrabble-u1-l4-q3",
@@ -449,14 +482,16 @@
           ],
           "answer": "No — it is added flat, after all normal multiplier scoring is finished",
           "difficulty": 560,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"No — it is added flat, after all normal multiplier scoring is finished (Explain the bingo bonus rule and when the 50point bonus applies)\". This directly applies the principle of: Explain the bingo bonus rule and when the 50-point bonus applies.."
         },
         {
           "id": "scrabble-u1-l4-q4",
           "type": "short-answer",
           "prompt": "Why do strong Scrabble players specifically study \"bingo stems\" (6-letter combinations one tile away from a 7-letter word)?",
           "answer": "Because bingos are worth a flat 50-point bonus on top of normal scoring, making them the single biggest score swings in the game, so reliably spotting them is a major skill advantage.",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"Because bingos are worth a flat 50-point bonus on top of normal scoring, making them the single biggest score swings in the game, so reliably spotting them is a major skill advantage.\". This directly applies the principle of: Explain the bingo bonus rule and when the 50-point bonus applies.."
         }
       ]
     },
@@ -473,12 +508,14 @@
         {
           "problem": "ZAG (Z=10, A=1, G=2) with the Z on a Double Letter square and the whole word on a Triple Word square",
           "answer": 69,
-          "description": "Double the Z first: 10→20. Sum: 20+1+2=23. Triple the whole word: 23×3=69 — one of the biggest small-word scores possible."
+          "description": "Double the Z first: 10→20. Sum: 20+1+2=23. Triple the whole word: 23×3=69 — one of the biggest small-word scores possible.",
+          "target": "Core example"
         },
         {
           "problem": "A 7-tile bingo scoring 52 points from letters and multipliers before the bonus",
           "answer": 102,
-          "description": "52 + 50 bingo bonus = 102."
+          "description": "52 + 50 bingo bonus = 102.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -495,14 +532,16 @@
           "type": "compute",
           "prompt": "What is the point value of the letter Z?",
           "answer": 10,
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"10\". This directly applies the principle of: Pass a scoring-mechanics checkpoint covering values, premiums, and the bingo bonus.."
         },
         {
           "id": "scrabble-u1-l5-q2",
           "type": "compute",
           "prompt": "Score JIG (J=8, I=1, G=2) with the whole word on a Double Word square.",
           "answer": 22,
-          "difficulty": 570
+          "difficulty": 570,
+          "explanation": "Correct answer: \"22\". This directly applies the principle of: Pass a scoring-mechanics checkpoint covering values, premiums, and the bingo bonus.."
         },
         {
           "id": "scrabble-u1-l5-q3",
@@ -516,21 +555,24 @@
           ],
           "answer": "It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo",
           "difficulty": 570,
-          "answerIndex": 3
+          "answerIndex": 3,
+          "explanation": "Correct answer: \"It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo\". This directly applies the principle of: Pass a scoring-mechanics checkpoint covering values, premiums, and the bingo bonus.."
         },
         {
           "id": "scrabble-u1-l5-q4",
           "type": "compute",
           "prompt": "A bingo play scores 61 points from letters and multipliers alone. What is the total including the bonus?",
           "answer": 111,
-          "difficulty": 570
+          "difficulty": 570,
+          "explanation": "Correct answer: \"111\". This directly applies the principle of: Pass a scoring-mechanics checkpoint covering values, premiums, and the bingo bonus.."
         },
         {
           "id": "scrabble-u1-l5-q5",
           "type": "short-answer",
           "prompt": "Summarize, in your own words, the three scoring building blocks from this unit: tile values, premium squares, and the bingo bonus.",
           "answer": "Every tile has a point value based on its rarity (1 for common letters up to 10 for Q and Z); premium squares either multiply a single letter (DL/TL) or the entire word (DW/TW), with letter multipliers applied before word multipliers; and playing all 7 rack tiles in one turn adds a flat 50-point bingo bonus on top of the normal score.",
-          "difficulty": 580
+          "difficulty": 580,
+          "explanation": "Correct answer: \"Every tile has a point value based on its rarity (1 for common letters up to 10 for Q and Z); premium squares either multiply a single letter (DL/TL) or the entire word (DW/TW), with letter multipliers applied before word multipliers; and playing all 7 rack tiles in one turn adds a flat 50-point bingo bonus on top of the normal score.\". This directly applies the principle of: Pass a scoring-mechanics checkpoint covering values, premiums, and the bingo bonus.."
         }
       ]
     },
@@ -547,22 +589,26 @@
         {
           "problem": "AT, BE, BY, DO, GO, IF, IN, IS, IT, NO, OF, ON, OR, SO, TO, UP, US, WE",
           "answer": "Everyday words you already know",
-          "description": "Tier one — ordinary English function words that happen to also be valid Scrabble plays, no memorization required."
+          "description": "Tier one — ordinary English function words that happen to also be valid Scrabble plays, no memorization required.",
+          "target": "Core example"
         },
         {
           "problem": "QI",
           "answer": "Q without needing a U",
-          "description": "The most important two-letter word in the game — solves the single scariest tile in the bag."
+          "description": "The most important two-letter word in the game — solves the single scariest tile in the bag.",
+          "target": "Core example"
         },
         {
           "problem": "XI, XU",
           "answer": "X-tile escape valves",
-          "description": "XI (Greek letter) and XU (Vietnamese currency unit) let you offload an awkward X for cheap."
+          "description": "XI (Greek letter) and XU (Vietnamese currency unit) let you offload an awkward X for cheap.",
+          "target": "Core example"
         },
         {
           "problem": "ZA, JO",
           "answer": "Z-tile and J-tile escape valves",
-          "description": "ZA (slang for pizza) and JO (Scottish for sweetheart) do the same job for Z and J."
+          "description": "ZA (slang for pizza) and JO (Scottish for sweetheart) do the same job for Z and J.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -586,7 +632,8 @@
           ],
           "answer": "QI",
           "difficulty": 520,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"QI\". This directly applies the principle of: Recall a working set of valid two-letter words from memory.."
         },
         {
           "id": "scrabble-u2-l1-q2",
@@ -600,7 +647,8 @@
           ],
           "answer": "XI",
           "difficulty": 520,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"XI\". This directly applies the principle of: Recall a working set of valid two-letter words from memory.."
         },
         {
           "id": "scrabble-u2-l1-q3",
@@ -614,14 +662,16 @@
           ],
           "answer": "Pizza",
           "difficulty": 520,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Pizza\". This directly applies the principle of: Recall a working set of valid two-letter words from memory.."
         },
         {
           "id": "scrabble-u2-l1-q4",
           "type": "short-answer",
           "prompt": "Why does the game reward memorizing obscure two-letter words like QI, XU, and ZA specifically?",
           "answer": "Because they let you play the hardest, highest-value problem tiles (Q, X, Z) for cheap plays without needing to build a full word around them, and without risking getting stuck holding them for many turns.",
-          "difficulty": 530
+          "difficulty": 530,
+          "explanation": "Correct answer: \"Because they let you play the hardest, highest-value problem tiles (Q, X, Z) for cheap plays without needing to build a full word around them, and without risking getting stuck holding them for many turns.\". This directly applies the principle of: Recall a working set of valid two-letter words from memory.."
         }
       ]
     },
@@ -638,27 +688,32 @@
         {
           "problem": "QAT",
           "answer": "Q, no U at all",
-          "description": "A leafy plant chewed as a stimulant — solves Q with zero U dependency."
+          "description": "A leafy plant chewed as a stimulant — solves Q with zero U dependency.",
+          "target": "Core example"
         },
         {
           "problem": "SUQ",
           "answer": "Q with a U before it, not after",
-          "description": "A Middle Eastern marketplace — the U precedes the Q, which still counts."
+          "description": "A Middle Eastern marketplace — the U precedes the Q, which still counts.",
+          "target": "Core example"
         },
         {
           "problem": "XIS, PYX",
           "answer": "X in an easy three-letter frame",
-          "description": "XIS (plural of xi) and PYX (a Communion-bread container) both place X where it is easy to slot in."
+          "description": "XIS (plural of xi) and PYX (a Communion-bread container) both place X where it is easy to slot in.",
+          "target": "Core example"
         },
         {
           "problem": "ZAG, ZIT",
           "answer": "Z from specialist to everyday",
-          "description": "ZAG (a sharp turn, as in zigzag) is specialist; ZIT (pimple) is a word everyone already knows."
+          "description": "ZAG (a sharp turn, as in zigzag) is specialist; ZIT (pimple) is a word everyone already knows.",
+          "target": "Core example"
         },
         {
           "problem": "JIB, JOT",
           "answer": "Ordinary J words",
-          "description": "JIB (a sail) and JOT (to write quickly) — no exotic vocabulary needed to solve a stuck J."
+          "description": "JIB (a sail) and JOT (to write quickly) — no exotic vocabulary needed to solve a stuck J.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -682,14 +737,16 @@
           ],
           "answer": "QAT",
           "difficulty": 540,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"QAT\". This directly applies the principle of: Recall high-utility three-letter words containing common problem letters (Q, X, Z, J).."
         },
         {
           "id": "scrabble-u2-l2-q2",
           "type": "short-answer",
           "prompt": "In the word SUQ, the U comes before the Q rather than after it. Explain why this still solves the \"stuck Q\" problem.",
           "answer": "The real constraint on the Q tile is not needing a U immediately after it in every case — SUQ places the U before the Q, still forming a valid word, showing the U-after-Q rule beginners assume is stricter than it actually needs to be for finding a play.",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"The real constraint on the Q tile is not needing a U immediately after it in every case — SUQ places the U before the Q, still forming a valid word, showing the U-after-Q rule beginners assume is stricter than it actually needs to be for finding a play.\". This directly applies the principle of: Recall high-utility three-letter words containing common problem letters (Q, X, Z, J).."
         },
         {
           "id": "scrabble-u2-l2-q3",
@@ -703,7 +760,8 @@
           ],
           "answer": "ZIT",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"ZIT\". This directly applies the principle of: Recall high-utility three-letter words containing common problem letters (Q, X, Z, J).."
         },
         {
           "id": "scrabble-u2-l2-q4",
@@ -717,7 +775,8 @@
           ],
           "answer": "JIB",
           "difficulty": 530,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"JIB\". This directly applies the principle of: Recall high-utility three-letter words containing common problem letters (Q, X, Z, J).."
         }
       ]
     },
@@ -734,12 +793,14 @@
         {
           "problem": "Existing word: IT (horizontal). New tiles: S, O, placed directly below I and T.",
           "answer": "Scores SO, IS, and TO — three words from two tiles",
-          "description": "S under I forms IS; O under T forms TO; SO itself is the new horizontal word."
+          "description": "S under I forms IS; O under T forms TO; SO itself is the new horizontal word.",
+          "target": "Core example"
         },
         {
           "problem": "Existing word: AS (horizontal). New tiles: T, O, placed directly below A and S.",
           "answer": "Scores TO, AT, and SO — three words from two tiles",
-          "description": "T under A forms AT; O under S forms SO; TO itself is the new horizontal word."
+          "description": "T under A forms AT; O under S forms SO; TO itself is the new horizontal word.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -756,7 +817,8 @@
           "type": "short-answer",
           "prompt": "The board has IT placed horizontally. You play SO directly beneath it (S under I, O under T). Name all three words this single play scores.",
           "answer": "SO (the new horizontal word), IS (I above, S below), and TO (T above, O below).",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"SO (the new horizontal word), IS (I above, S below), and TO (T above, O below).\". This directly applies the principle of: Use two- and three-letter words to build parallel plays alongside an existing word on the board.."
         },
         {
           "id": "scrabble-u2-l3-q2",
@@ -770,14 +832,16 @@
             "It is only useful defensively"
           ],
           "difficulty": 540,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A single set of new tiles can score multiple words at once, since each new letter crosses an existing letter to form its own short word\". This directly applies the principle of: Use two- and three-letter words to build parallel plays alongside an existing word on the board.."
         },
         {
           "id": "scrabble-u2-l3-q3",
           "type": "short-answer",
           "prompt": "The board has AS placed horizontally. You play TO directly beneath it (T under A, O under S). Name all three words this single play scores.",
           "answer": "TO (the new horizontal word), AT (A above, T below), and SO (S above, O below).",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"TO (the new horizontal word), AT (A above, T below), and SO (S above, O below).\". This directly applies the principle of: Use two- and three-letter words to build parallel plays alongside an existing word on the board.."
         }
       ]
     },
@@ -794,22 +858,26 @@
         {
           "problem": "AI",
           "answer": "A three-toed sloth",
-          "description": "Two-letter, all-vowel — dumps one excess vowel."
+          "description": "Two-letter, all-vowel — dumps one excess vowel.",
+          "target": "Core example"
         },
         {
           "problem": "OE",
           "answer": "A whirlwind (Orkney Islands usage)",
-          "description": "Two-letter, all-vowel — another one-vowel escape valve."
+          "description": "Two-letter, all-vowel — another one-vowel escape valve.",
+          "target": "Core example"
         },
         {
           "problem": "OI",
           "answer": "An interjection (\"hey!\")",
-          "description": "Two-letter, all-vowel — a third one-vowel option."
+          "description": "Two-letter, all-vowel — a third one-vowel option.",
+          "target": "Core example"
         },
         {
           "problem": "EAU",
           "answer": "French for \"water,\" adopted into English word lists",
-          "description": "Three-letter, all-vowel — dumps two excess vowels in a single play, roughly twice the relief of the two-letter options."
+          "description": "Three-letter, all-vowel — dumps two excess vowels in a single play, roughly twice the relief of the two-letter options.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -833,7 +901,8 @@
           ],
           "answer": "They let you play excess vowels without needing a consonant to anchor them",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"They let you play excess vowels without needing a consonant to anchor them\". This directly applies the principle of: Recall short words containing only vowels, useful for escaping a vowel-heavy rack.."
         },
         {
           "id": "scrabble-u2-l4-q2",
@@ -847,14 +916,16 @@
           ],
           "answer": "EAU",
           "difficulty": 540,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"EAU\". This directly applies the principle of: Recall short words containing only vowels, useful for escaping a vowel-heavy rack.."
         },
         {
           "id": "scrabble-u2-l4-q3",
           "type": "short-answer",
           "prompt": "Name two of the three two-letter all-vowel words from this lesson (AI, OE, OI) and what each one means.",
           "answer": "AI is a three-toed sloth; OE is a whirlwind (as recorded in the Orkney Islands); OI is an interjection meaning roughly \"hey!\" — any two of these three count.",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"AI is a three-toed sloth; OE is a whirlwind (as recorded in the Orkney Islands); OI is an interjection meaning roughly \"hey!\" — any two of these three count.\". This directly applies the principle of: Recall short words containing only vowels, useful for escaping a vowel-heavy rack.."
         }
       ]
     },
@@ -871,12 +942,14 @@
         {
           "problem": "QI, XU, ZA, JO",
           "answer": "The four essential problem-tile two-letter words",
-          "description": "One each for Q, X, Z, and J — the fastest way to never get stuck holding a high-value tile."
+          "description": "One each for Q, X, Z, and J — the fastest way to never get stuck holding a high-value tile.",
+          "target": "Core example"
         },
         {
           "problem": "Board has IT (horizontal); play SO directly beneath it",
           "answer": "Scores SO, IS, TO",
-          "description": "The signature parallel-play payoff from Lesson 3, worth re-drilling until instant."
+          "description": "The signature parallel-play payoff from Lesson 3, worth re-drilling until instant.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -900,7 +973,8 @@
           ],
           "answer": "QI",
           "difficulty": 550,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"QI\". This directly applies the principle of: Pass a short-word vocabulary checkpoint under time pressure.."
         },
         {
           "id": "scrabble-u2-l5-q2",
@@ -914,14 +988,16 @@
           ],
           "answer": "JOT",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"JOT\". This directly applies the principle of: Pass a short-word vocabulary checkpoint under time pressure.."
         },
         {
           "id": "scrabble-u2-l5-q3",
           "type": "short-answer",
           "prompt": "The board has AS placed horizontally. You have T and O in your rack and the squares directly beneath A and S are open. What word do you play, and what two additional words does it score?",
           "answer": "Play TO directly beneath AS (T under A, O under S); it scores AT and SO as the two additional vertical words.",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"Play TO directly beneath AS (T under A, O under S); it scores AT and SO as the two additional vertical words.\". This directly applies the principle of: Pass a short-word vocabulary checkpoint under time pressure.."
         },
         {
           "id": "scrabble-u2-l5-q4",
@@ -935,14 +1011,16 @@
           ],
           "answer": "EAU",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"EAU\". This directly applies the principle of: Pass a short-word vocabulary checkpoint under time pressure.."
         },
         {
           "id": "scrabble-u2-l5-q5",
           "type": "short-answer",
           "prompt": "Summarize, in your own words, why short-word vocabulary (two- and three-letter words) matters even though these words rarely score much on their own.",
           "answer": "Short words are the connective tissue of the board: they let you build parallel plays that score multiple words from one move, offload problem tiles like Q, X, Z, and J cheaply, and escape a stuck vowel-heavy rack — their value is almost entirely strategic and positional, not in raw points from any single play.",
-          "difficulty": 570
+          "difficulty": 570,
+          "explanation": "Correct answer: \"Short words are the connective tissue of the board: they let you build parallel plays that score multiple words from one move, offload problem tiles like Q, X, Z, and J cheaply, and escape a stuck vowel-heavy rack — their value is almost entirely strategic and positional, not in raw points from any single play.\". This directly applies the principle of: Pass a short-word vocabulary checkpoint under time pressure.."
         }
       ]
     },

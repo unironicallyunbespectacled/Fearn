@@ -9404,7 +9404,7 @@
             "Teleferik"
           ],
           "answerIndex": 2,
-          "explanation": "YHT."
+          "explanation": "Correct answer: \"YHT\". This directly applies the principle of: Türkiye'de demir yolu ulaşımı: Yüksek Hızlı Tren (YHT), Doğu Ekspresi (Kars turu), biletler ve vagonlar.."
         }
       ]
     },
@@ -9501,7 +9501,7 @@
             "Milli Piyango"
           ],
           "answerIndex": 0,
-          "explanation": "HGS."
+          "explanation": "Correct answer: \"HGS\". This directly applies the principle of: Türkiye'de araç kiralama, Otoyol ve Köprü geçiş sistemleri (HGS), Akaryakıt istasyonları (Kurşunsuz 95, Motorin/Dizel).."
         }
       ]
     },
@@ -10075,7 +10075,7 @@
             "Lodos (Hava durumu)"
           ],
           "answerIndex": 3,
-          "explanation": "Lodos."
+          "explanation": "Correct answer: \"Lodos (Hava durumu)\". This directly applies the principle of: Hava durumu, meteorolojik terimler, rüzgârlar (Lodos, Poyraz), sıcaklıklar ve „Bardaktan boşanırcasına yağıyor“ deyimi.."
         }
       ]
     },
@@ -10172,7 +10172,7 @@
             "Dolu (Drt mevsim)"
           ],
           "answerIndex": 0,
-          "explanation": "Cemre.",
+          "explanation": "Correct answer: \"Cemre (Drt mevsim)\". This directly applies the principle of: Dört mevsim: İlkbaharda Hıdırellez, yazın Ege/Akdeniz sahilleri, sonbaharda Yedigöller ve kışın Uludağ/Erciyes kayak merkezleri..",
           "type": "multiple-choice"
         },
         {
@@ -10254,7 +10254,7 @@
             "Ölüdeniz"
           ],
           "answerIndex": 3,
-          "explanation": "Ölüdeniz.",
+          "explanation": "Correct answer: \"Ölüdeniz\". This directly applies the principle of: Türkiye'nin doğa harikaları: Kapadokya Peribacaları, Pamukkale Travertenleri (UNESCO), Ölüdeniz Lagünü, Van Gölü ve Nemrut Dağı..",
           "type": "multiple-choice"
         },
         {
@@ -10321,7 +10321,7 @@
             "TÜİK"
           ],
           "answerIndex": 0,
-          "explanation": "AFAD."
+          "explanation": "Correct answer: \"AFAD\". This directly applies the principle of: Meteoroloji Genel Müdürlüğü (MGM), AFAD acil durum uyarıları, deprem ve sel önlemleri, „Çök-Kapan-Tutun“ kuralı.."
         }
       ]
     },
@@ -10583,7 +10583,7 @@
             "e-Nabız"
           ],
           "answerIndex": 3,
-          "explanation": "e-Nabız.",
+          "explanation": "Correct answer: \"e-Nabız\". This directly applies the principle of: Türkiye'de eczane kültürü, Nöbetçi Eczane, SGK ve e-Nabız sistemi, reçeteli/reçetesiz ilaçlar ve kullanım talimatı..",
           "type": "multiple-choice"
         },
         {
@@ -10635,7 +10635,7 @@
             "155 (112 Acil ar Merkezi)"
           ],
           "answerIndex": 1,
-          "explanation": "112."
+          "explanation": "Correct answer: \"112 Acil Çağrı Merkezi (112 Acil ar Merkezi)\". This directly applies the principle of: 112 Acil Çağrı Merkezi, UMKE (Ulusal Medikal Kurtarma Ekibi), Şehir Hastaneleri ve acil servis triyajı.."
         }
       ]
     },
@@ -10650,7 +10650,7 @@
             "Orman Koruma (112 Acil ar Merkezi)"
           ],
           "answerIndex": 0,
-          "explanation": "UMKE."
+          "explanation": "Correct answer: \"UMKE (112 Acil ar Merkezi)\". This directly applies the principle of: 112 Acil Çağrı Merkezi, UMKE (Ulusal Medikal Kurtarma Ekibi), Şehir Hastaneleri ve acil servis triyajı.."
         }
       ]
     },
@@ -10896,7 +10896,7 @@
             "DASK"
           ],
           "answerIndex": 3,
-          "explanation": "DASK."
+          "explanation": "Correct answer: \"DASK\". This directly applies the principle of: Türkiye'de ev kiralama (Sahibinden.com, Hepsiemlak), kira sözleşmesi, depozito, aidat ve DASK (Zorunlu Deprem Sigortası).."
         }
       ]
     },
@@ -11045,7 +11045,7 @@
             "Sığınak"
           ],
           "answerIndex": 1,
-          "explanation": "Cumba."
+          "explanation": "Correct answer: \"Cumba\". This directly applies the principle of: Geleneksel Türk Evleri: Tarihi Safranbolu Evleri (UNESCO Dünya Mirası), ahşap karkas çatkı, cumbalar ve hayat (avlu).."
         }
       ]
     },
@@ -11075,7 +11075,7 @@
             "Kömürlük"
           ],
           "answerIndex": 1,
-          "explanation": "Başoda.",
+          "explanation": "Correct answer: \"Başoda\". This directly applies the principle of: Geleneksel Türk Evleri: Tarihi Safranbolu Evleri (UNESCO Dünya Mirası), ahşap karkas çatkı, cumbalar ve hayat (avlu)..",
           "type": "multiple-choice"
         },
         {
@@ -11306,7 +11306,7 @@
             "SGK"
           ],
           "answerIndex": 3,
-          "explanation": "SGK."
+          "explanation": "Correct answer: \"SGK\". This directly applies the principle of: Türkiye'de iş hayatı ve istihdam (Kariyer.net, LinkedIn), İş Kanunu (Belirsiz süreli iş sözleşmesi), SGK, brüt/net maaş ve yemek kartı (Multinet/Sodexo).."
         }
       ]
     },
@@ -11537,7 +11537,7 @@
             "Amazon"
           ],
           "answerIndex": 1,
-          "explanation": "Getir."
+          "explanation": "Correct answer: \"Getir\". This directly applies the principle of: Türkiye'nin teknoloji unicornları (Turcorn): Getir (dünyada hızlı teslimat öncüsü), Peak Games, Dream Games, Trendyol ve Hepsiburada (Nasdaq).."
         }
       ]
     },
@@ -11634,7 +11634,7 @@
             "KAAN"
           ],
           "answerIndex": 3,
-          "explanation": "KAAN."
+          "explanation": "Correct answer: \"KAAN\". This directly applies the principle of: Türkiye'nin küresel savunma sanayii ve havacılık devrimi: Baykar (Bayraktar TB2 / Kızılelma İHA/SİHA), TUSAŞ (KAAN 5. Nesil Savaş Uçağı), Aselsan ve THY.."
         }
       ]
     },
@@ -11825,7 +11825,7 @@
             "YEKA"
           ],
           "answerIndex": 3,
-          "explanation": "YEKA.",
+          "explanation": "Correct answer: \"YEKA\". This directly applies the principle of: Turkey's renewable energy surge: Geothermal power in the Aegean, wind in Marmara, and solar in Central Anatolia (Kalyon Karapınar GES, jeotermal enerji, Ege ve Marmara rüzgâr santralleri, YEKA ihaleleri)..",
           "type": "multiple-choice"
         }
       ],
@@ -11880,7 +11880,7 @@
             "Eğirdir Gölü"
           ],
           "answerIndex": 0,
-          "explanation": "Tuz Gölü."
+          "explanation": "Correct answer: \"Tuz Gölü\". This directly applies the principle of: Endangered wildlife conservation: Anatolian leopard rediscovery, Lake Van pearl mullet, and flamingo breeding colonies (Anadolu leoparı, Tuz Gölü flamingoları, Van Gölü inci kefali, koruma alanları).."
         }
       ]
     },
@@ -12029,7 +12029,7 @@
             "2100 (C2 synthesis on Turkeys NetZero 2053 target)"
           ],
           "answerIndex": 0,
-          "explanation": "2053."
+          "explanation": "Correct answer: \"2053 (C2 synthesis on Turkeys NetZero 2053 target)\". This directly applies the principle of: C2 synthesis on Turkey's Net-Zero 2053 target, green steel, electric mobility (TOGG), and environmental diplomacy (2053 Net Sıfır Emisyon Hedefi, TOGG yerli elektrikli akıllı cihaz, Yeşil Kalkınma Devrimi).."
         }
       ]
     },
@@ -12044,7 +12044,7 @@
             "TOGG (C2 synthesis on Turkeys NetZero 2053 target)"
           ],
           "answerIndex": 3,
-          "explanation": "TOGG."
+          "explanation": "Correct answer: \"TOGG (C2 synthesis on Turkeys NetZero 2053 target)\". This directly applies the principle of: C2 synthesis on Turkey's Net-Zero 2053 target, green steel, electric mobility (TOGG), and environmental diplomacy (2053 Net Sıfır Emisyon Hedefi, TOGG yerli elektrikli akıllı cihaz, Yeşil Kalkınma Devrimi).."
         }
       ]
     },
@@ -12439,7 +12439,7 @@
             "MHRS sadece randevu (C2 synthesis on Health Tourism)"
           ],
           "answerIndex": 0,
-          "explanation": "e-Nabız."
+          "explanation": "Correct answer: \"e-Nabız (C2 synthesis on Health Tourism)\". This directly applies the principle of: C2 synthesis on Health Tourism, Digital e-Nabız system, and domestic pharmaceutical biotechnology (Sağlık turizmi, e-Nabız kişisel sağlık kaydı, TÜSEB aşı ve biyoteknoloji enstitüsü, TURKOVAC).."
         }
       ]
     },
@@ -12454,7 +12454,7 @@
             "USHAŞ (C2 synthesis on Health Tourism)"
           ],
           "answerIndex": 3,
-          "explanation": "USHAŞ."
+          "explanation": "Correct answer: \"USHAŞ (C2 synthesis on Health Tourism)\". This directly applies the principle of: C2 synthesis on Health Tourism, Digital e-Nabız system, and domestic pharmaceutical biotechnology (Sağlık turizmi, e-Nabız kişisel sağlık kaydı, TÜSEB aşı ve biyoteknoloji enstitüsü, TURKOVAC).."
         }
       ]
     },
@@ -12481,7 +12481,7 @@
             "TURKOVAC (C2 synthesis on Health Tourism)"
           ],
           "answerIndex": 3,
-          "explanation": "TURKOVAC.",
+          "explanation": "Correct answer: \"TURKOVAC (C2 synthesis on Health Tourism)\". This directly applies the principle of: C2 synthesis on Health Tourism, Digital e-Nabız system, and domestic pharmaceutical biotechnology (Sağlık turizmi, e-Nabız kişisel sağlık kaydı, TÜSEB aşı ve biyoteknoloji enstitüsü, TURKOVAC)..",
           "type": "multiple-choice"
         }
       ],
@@ -12782,7 +12782,7 @@
             "Selim"
           ],
           "answerIndex": 1,
-          "explanation": "Olric."
+          "explanation": "Correct answer: \"Olric\". This directly applies the principle of: Postmodern Irony & The Disconnected Mind: Oğuz Atay and Tutunamayanlar (Oğuz Atay - Tutunamayanlar, Tehlikeli Oyunlar, Turgut Özben ve Selim Işık, Olric, Türk edebiyatında postmodernist devrim, tutunamayanların manifestosu).."
         }
       ]
     },
@@ -13356,7 +13356,7 @@
             "Kaval"
           ],
           "answerIndex": 1,
-          "explanation": "Ney."
+          "explanation": "Correct answer: \"Ney\". This directly applies the principle of: Grand Master of Classical Ottoman Music: Hammâmîzâde İsmâil Dede Efendi (Dede Efendi - Klasik Türk Musikisi, Ferahfeza Ayin-i Şerifi, «Yine bir gülnihal», makamlar ve usuller, ney ve tambur, saray bestekârlığı).."
         }
       ]
     },
@@ -13602,7 +13602,7 @@
             "Semah"
           ],
           "answerIndex": 1,
-          "explanation": "Bozlak."
+          "explanation": "Correct answer: \"Bozlak\". This directly applies the principle of: The Bozkır Voice & Abdal Heritage: Neşet Ertaş (Neşet Ertaş - Bozkırın Tezenesi, Kırşehir Abdal geleneği, «Yalan Dünya», «Gönül Dağı», «Zahidem», bozlak türü ve garip mahlası).."
         }
       ]
     },
@@ -13629,7 +13629,7 @@
             "Dertli"
           ],
           "answerIndex": 1,
-          "explanation": "Garip.",
+          "explanation": "Correct answer: \"Garip\". This directly applies the principle of: The Bozkır Voice & Abdal Heritage: Neşet Ertaş (Neşet Ertaş - Bozkırın Tezenesi, Kırşehir Abdal geleneği, «Yalan Dünya», «Gönül Dağı», «Zahidem», bozlak türü ve garip mahlası)..",
           "type": "multiple-choice"
         }
       ],
@@ -15105,7 +15105,7 @@
             "6 minare"
           ],
           "answerIndex": 3,
-          "explanation": "6 minare.",
+          "explanation": "Correct answer: \"6 minare\". This directly applies the principle of: The Jewel of Turquoise Iznik Tiles: The Blue Mosque and Sedefkar Mehmed Agha (Sultanahmet Camii / Mavi Cami 1616 - Mimar Sedefkâr Mehmed Ağa, 20 binden fazla el yapımı İznik çinisi, 6 minareli ilk Osmanlı camii, 260 vitray pencere, Ayasofya ile mimari diyalog)..",
           "type": "multiple-choice"
         }
       ],
@@ -15269,7 +15269,7 @@
             "Cihannüma"
           ],
           "answerIndex": 1,
-          "explanation": "Cumba.",
+          "explanation": "Correct answer: \"Cumba\". This directly applies the principle of: The National Architectural Renaissance & The Turkish House: Sedad Hakkı Eldem (Sedad Hakkı Eldem - Milli Mimari Akımı, Türk Evi tipolojisi ve rölöve çalışmaları, Zeyrek Sosyal Sigortalar Kurumu 1970 - Ağa Han Mimarlık Ödülü 1986, Taşlık Şark Kahvesi, Dışişleri Bakanlığı Köşkü)..",
           "type": "multiple-choice"
         }
       ],
@@ -15515,7 +15515,7 @@
             "Dünya Sağlık Örgütü"
           ],
           "answerIndex": 2,
-          "explanation": "UNESCO.",
+          "explanation": "Correct answer: \"UNESCO\". This directly applies the principle of: Anatolian Humanism & The Pure Vernacular Word: Yunus Emre (Yunus Emre c. 1238–1328 - Eskişehir ve Sakarya, «Sevelim, sevilelim, bu dünya kimseye kalmaz», «Yetmiş iki millete bir göz ile bakmayan», yalın ve dupduru Türkçe ile tasavvuf, Tapduk Emre dergâhı, UNESCO 1991 Yunus Emre Sevgi Yılı)..",
           "type": "multiple-choice"
         }
       ],
@@ -16007,7 +16007,7 @@
             "Hayati Hamzaoğlu"
           ],
           "answerIndex": 0,
-          "explanation": "Erol Taş.",
+          "explanation": "Correct answer: \"Erol Taş\". This directly applies the principle of: The First Golden Bear & The Metaphysics of Water: Metin Erksan (Metin Erksan 1929–2012 - Çanakkale ve İstanbul; Susuz Yaz 1963 - Berlin Film Festivali Altın Ayı / Golden Bear Ödülü (Türk sinema tarihinin ilk uluslararası büyük zaferi), Erol Taş ve Hülya Koçyiğit, mülkiyet ve su hakkı çatışması; Sevmek Zamanı 1965 - surete aşık olma tasavvufi felsefesi ve Büyükada yağmurları)..",
           "type": "multiple-choice"
         }
       ],
@@ -16253,7 +16253,7 @@
             "1990"
           ],
           "answerIndex": 1,
-          "explanation": "2015.",
+          "explanation": "Correct answer: \"2015\". This directly applies the principle of: Gaziantep Gastronomy, Pistachio Terroir & The 40-Layer Baklava Mastery (Gaziantep Mutfağı - UNESCO Yaratıcı Şehirler Ağı 2015; Antep Baklavası - Avrupa Birliği Tescilli Coğrafi İşareti (PGI); 40 kat tül inceliğinde açılan ipek yufka, boz iç Antep fıstığı, Şanlıurfa sadeyağı (saf tereyağı), meşe odunu ateşinde taş fırın pişirimi, şerbetleme ve İmam Çağdaş ile Güllüoğlu usta geleneği)..",
           "type": "multiple-choice"
         }
       ],
@@ -16390,7 +16390,7 @@
             "Pide"
           ],
           "answerIndex": 0,
-          "explanation": "Simit."
+          "explanation": "Correct answer: \"Simit\". This directly applies the principle of: The Turkish Breakfast Feast & The Art of Menemen: Serpme Kahvaltı (Serpme Türk Kahvaltısı: Ezine beyaz peyniri, Kars eski kaşarı, Van otlu peyniri, taze manda kaymağı ve petek balı, Gemlik siyah zeytini, çıtır çıtır susamlı Simit; bakır tavada pişen Menemen (tatlı yeşil biber, kabuğu soyulmuş sulu domates, köy tereyağı ve akışkan yumurta), sucuklu yumurta ve ince belli bardakta taze demlenmiş Rize çayı).."
         }
       ]
     },
@@ -17508,7 +17508,8 @@
           "expectedKeywords": [
             "Büyükelçi,",
             "Cumhurbaşkanlığı"
-          ]
+          ],
+          "explanation": "Correct answer: \"Büyükelçi, Cumhurbaşkanlığı Külliyesi'nde güven mektubunu Cumhurbaşkanına takdim etti.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Presidential Reception (Güven Mektubu, Devlet Protokolü ve İkili Müzakereler).."
         }
       ]
     },
@@ -17537,7 +17538,8 @@
           "expectedKeywords": [
             "Büyükelçi,",
             "Cumhurbaşkanlığı"
-          ]
+          ],
+          "explanation": "Correct answer: \"Büyükelçi, Cumhurbaşkanlığı Külliyesi'nde güven mektubunu Cumhurbaşkanına takdim etti.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Presidential Reception (Güven Mektubu, Devlet Protokolü ve İkili Müzakereler).."
         }
       ]
     }
@@ -17591,7 +17593,8 @@
           "expectedKeywords": [
             "Türkiye",
             "Büyük"
-          ]
+          ],
+          "explanation": "Correct answer: \"Türkiye Büyük Millet Meclisi uluslararası anlaşmanın onaylanmasını uygun bulan kanunu kabul etti.\". This directly applies the principle of: Multilateral Treaties, Parliamentary Ratification & Deposition (Çok Taraflı Antlaşmalar, TBMM Onayı ve Tevdi).."
         }
       ]
     },
@@ -17620,7 +17623,8 @@
           "expectedKeywords": [
             "Türkiye",
             "Büyük"
-          ]
+          ],
+          "explanation": "Correct answer: \"Türkiye Büyük Millet Meclisi uluslararası anlaşmanın onaylanmasını uygun bulan kanunu kabul etti.\". This directly applies the principle of: Multilateral Treaties, Parliamentary Ratification & Deposition (Çok Taraflı Antlaşmalar, TBMM Onayı ve Tevdi).."
         }
       ]
     }
@@ -17674,7 +17678,8 @@
           "expectedKeywords": [
             "Türkiye,",
             "Montrö"
-          ]
+          ],
+          "explanation": "Correct answer: \"Türkiye, Montrö Boğazlar Sözleşmesi'nin amir hükümlerini tarafsız ve tavizsiz bir şekilde uygulamaktadır.\". This directly applies the principle of: Montreux Convention, Straits Regime & Maritime Diplomacy (Montrö Boğazlar Sözleşmesi ve Deniz Diplomasisi).."
         }
       ]
     },
@@ -17703,7 +17708,8 @@
           "expectedKeywords": [
             "Türkiye,",
             "Montrö"
-          ]
+          ],
+          "explanation": "Correct answer: \"Türkiye, Montrö Boğazlar Sözleşmesi'nin amir hükümlerini tarafsız ve tavizsiz bir şekilde uygulamaktadır.\". This directly applies the principle of: Montreux Convention, Straits Regime & Maritime Diplomacy (Montrö Boğazlar Sözleşmesi ve Deniz Diplomasisi).."
         }
       ]
     }
@@ -17757,7 +17763,8 @@
           "expectedKeywords": [
             "Arabuluculuk",
             "müzakereleri"
-          ]
+          ],
+          "explanation": "Correct answer: \"Arabuluculuk müzakereleri sonucunda küresel gıda güvenliğini sağlayan tahıl koridoru mutabakatı imzalandı.\". This directly applies the principle of: International Mediation, Humanitarian Diplomacy & Grain Corridor (Uluslararası Arabuluculuk ve İnsani Diplomasi).."
         }
       ]
     },
@@ -17786,7 +17793,8 @@
           "expectedKeywords": [
             "Arabuluculuk",
             "müzakereleri"
-          ]
+          ],
+          "explanation": "Correct answer: \"Arabuluculuk müzakereleri sonucunda küresel gıda güvenliğini sağlayan tahıl koridoru mutabakatı imzalandı.\". This directly applies the principle of: International Mediation, Humanitarian Diplomacy & Grain Corridor (Uluslararası Arabuluculuk ve İnsani Diplomasi).."
         }
       ]
     }
@@ -17840,7 +17848,8 @@
           "expectedKeywords": [
             "Devlet",
             "ve"
-          ]
+          ],
+          "explanation": "Correct answer: \"Devlet ve Hükümet Başkanları, uluslararası hukuka ve çok taraflılığa bağlılıklarını teyit eden ortak bildiriyi kabul ettiler.\". This directly applies the principle of: C2 Master Capstone: High-Level Summit Declaration Drafting & Defense (Zirve Bildirisi ve Çok Taraflı Diplomasi Savunması).."
         }
       ]
     },
@@ -17869,7 +17878,8 @@
           "expectedKeywords": [
             "Devlet",
             "ve"
-          ]
+          ],
+          "explanation": "Correct answer: \"Devlet ve Hükümet Başkanları, uluslararası hukuka ve çok taraflılığa bağlılıklarını teyit eden ortak bildiriyi kabul ettiler.\". This directly applies the principle of: C2 Master Capstone: High-Level Summit Declaration Drafting & Defense (Zirve Bildirisi ve Çok Taraflı Diplomasi Savunması).."
         }
       ]
     }

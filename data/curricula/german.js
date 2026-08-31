@@ -708,7 +708,7 @@
             "bin"
           ],
           "answerIndex": 3,
-          "explanation": "ich bin.",
+          "explanation": "Correct answer: \"bin\". This directly applies the principle of: Conjugate sein (to be) for all subject pronouns, master the 'ch' allophone split (ich-Laut [ç] vs ach-Laut [x]), and respect German's verb-second (V2) word order..",
           "type": "multiple-choice"
         },
         {
@@ -720,7 +720,7 @@
             "seid"
           ],
           "answerIndex": 2,
-          "explanation": "du bist.",
+          "explanation": "Correct answer: \"bist\". This directly applies the principle of: Conjugate sein (to be) for all subject pronouns, master the 'ch' allophone split (ich-Laut [ç] vs ach-Laut [x]), and respect German's verb-second (V2) word order..",
           "type": "multiple-choice"
         },
         {
@@ -931,7 +931,7 @@
             "heißen"
           ],
           "answerIndex": 1,
-          "explanation": "du heißt.",
+          "explanation": "Correct answer: \"heißt\". This directly applies the principle of: Introduce yourself by name using heißen and sein, and ask others their name with the correct formality level (du vs. Sie)..",
           "type": "multiple-choice"
         },
         {
@@ -955,7 +955,7 @@
             "heißt"
           ],
           "answerIndex": 3,
-          "explanation": "er heißt.",
+          "explanation": "Correct answer: \"heißt\". This directly applies the principle of: Introduce yourself by name using heißen and sein, and ask others their name with the correct formality level (du vs. Sie)..",
           "type": "multiple-choice"
         },
         {
@@ -5004,7 +5004,7 @@
             "mögst"
           ],
           "answerIndex": 0,
-          "explanation": "du magst.",
+          "explanation": "Correct answer: \"magst\". This directly applies the principle of: Express food preferences and comparative likes using the modal verb 'mögen' and preference adverbs (gern / lieber / am liebsten)..",
           "type": "multiple-choice"
         },
         {
@@ -9122,7 +9122,7 @@
             "Stuttgart"
           ],
           "answerIndex": 2,
-          "explanation": "Hamburg."
+          "explanation": "Correct answer: \"Hamburg\". This directly applies the principle of: Klassische und zeitgenössische Musik (Bach, Beethoven, Techno in Berlin), Museen und Theater.."
         }
       ]
     },
@@ -9481,7 +9481,7 @@
             "Ein Bürogebäude"
           ],
           "answerIndex": 2,
-          "explanation": "Almhütte.",
+          "explanation": "Correct answer: \"Eine urige Berghütte in den Hochalpen für Wanderer und Skifahrer\". This directly applies the principle of: Unterkunft buchen im DACH-Raum: Hotels, Gasthäuser, Almhütten und Jugendherbergen..",
           "type": "multiple-choice"
         },
         {
@@ -9533,7 +9533,7 @@
             "Der Güterzug"
           ],
           "answerIndex": 2,
-          "explanation": "Der ICE."
+          "explanation": "Correct answer: \"Der ICE\". This directly applies the principle of: Bahnreisen im deutschen Sprachraum: Deutsche Bahn (DB), ICE-Hochgeschwindigkeitszüge, Deutschlandticket, Sitzplatzreservierung.."
         }
       ]
     },
@@ -10204,7 +10204,7 @@
             "Der Föhn (Wetterbericht)"
           ],
           "answerIndex": 3,
-          "explanation": "Der Föhn."
+          "explanation": "Correct answer: \"Der Föhn (Wetterbericht)\". This directly applies the principle of: Wetterbericht, meteorologische Phänomene, Temperaturen und Ausdrücke („Es regnet in Strömen“, Föhnwetterlage) im DACH-Raum.."
         }
       ]
     },
@@ -10450,7 +10450,7 @@
             "Die Deutsche Bahn"
           ],
           "answerIndex": 0,
-          "explanation": "Der DWD."
+          "explanation": "Correct answer: \"Der DWD\". This directly applies the principle of: Deutscher Wetterdienst (DWD), Unwetterwarnungen, Sturm- und Hochwasserschutz, NINA-Warn-App.."
         }
       ]
     },
@@ -10763,7 +10763,7 @@
             "000 (Notruf 112 Rettungsdienst  Notarzt)"
           ],
           "answerIndex": 1,
-          "explanation": "116 117."
+          "explanation": "Correct answer: \"116 117 (Notruf 112 Rettungsdienst  Notarzt)\". This directly applies the principle of: Notruf 112 (Rettungsdienst / Notarzt), ärztlicher Bereitschaftsdienst 116 117, elektronische Gesundheitskarte (eGK).."
         }
       ]
     },
@@ -11762,7 +11762,7 @@
             "SAP"
           ],
           "answerIndex": 3,
-          "explanation": "SAP."
+          "explanation": "Correct answer: \"SAP\". This directly applies the principle of: Die deutschen „Hidden Champions“ des Mittelstands (Prof. Hermann Simon), Weltmarktführer und globale Industriekonzerne (Siemens, SAP, Bosch, BMW).."
         }
       ]
     },
@@ -11926,7 +11926,7 @@
             "Transrapid"
           ],
           "answerIndex": 0,
-          "explanation": "SuedLink."
+          "explanation": "Correct answer: \"SuedLink\". This directly applies the principle of: The German Energiewende: Renewable energy grid expansion, offshore wind, and coal phase-out (Die Energiewende, EEG-Gesetz, Kohleausstieg, Offshore-Windparks in Nord- und Ostsee, Stromtrassen).."
         }
       ]
     },
@@ -11953,7 +11953,7 @@
             "2045"
           ],
           "answerIndex": 3,
-          "explanation": "2045.",
+          "explanation": "Correct answer: \"2045\". This directly applies the principle of: The German Energiewende: Renewable energy grid expansion, offshore wind, and coal phase-out (Die Energiewende, EEG-Gesetz, Kohleausstieg, Offshore-Windparks in Nord- und Ostsee, Stromtrassen)..",
           "type": "multiple-choice"
         }
       ],
@@ -12321,7 +12321,7 @@
             "Siemens (BioNTech)"
           ],
           "answerIndex": 0,
-          "explanation": "BioNTech."
+          "explanation": "Correct answer: \"BioNTech (BioNTech)\". This directly applies the principle of: BioNTech, mRNA vaccine revolution, and cancer immunotherapy (BioNTech in Mainz, Uğur Şahin und Özlem Türeci, mRNA-Technologie, individuelle Krebstherapie, Paul-Ehrlich-Institut).."
         }
       ]
     },
@@ -12609,7 +12609,7 @@
             "BfArM (C2 synthesis on Medical Digitalization)"
           ],
           "answerIndex": 3,
-          "explanation": "BfArM.",
+          "explanation": "Correct answer: \"BfArM (C2 synthesis on Medical Digitalization)\". This directly applies the principle of: C2 synthesis on Medical Digitalization: E-Rezept, Electronic Patient Record (ePA), Digital Health Applications (DiGA), and Medical Informatics (E-Rezept, Elektronische Patientenakte - ePA für alle, DiGA auf Rezept, Telematikinfrastruktur)..",
           "type": "multiple-choice"
         }
       ],
@@ -13566,7 +13566,7 @@
             "W-I-E-N"
           ],
           "answerIndex": 0,
-          "explanation": "B-A-C-H."
+          "explanation": "Correct answer: \"B-A-C-H\". This directly applies the principle of: The Master of Universal Polyphony: Johann Sebastian Bach and The Art of Fugue (Johann Sebastian Bach - Die Kunst der Fuge BWV 1080, Das Wohltemperierte Klavier, Matthäus-Passion, Brandenburgische Konzerte, Thomaskantor in Leipzig).."
         }
       ]
     },
@@ -14495,7 +14495,7 @@
             "Seldwyla"
           ],
           "answerIndex": 0,
-          "explanation": "Güllen.",
+          "explanation": "Correct answer: \"Güllen\". This directly applies the principle of: Grotesque Justice & Moral Corruption: Friedrich Dürrenmatt and Der Besuch der alten Dame (Friedrich Dürrenmatt - Der Besuch der alten Dame 1956, Claire Zachanassian, die Milliarde für den Mord an Alfred Ill, die Kleinstadt Güllen, Gerechtigkeit als Ware, Die Physiker)..",
           "type": "multiple-choice"
         }
       ],
@@ -14823,7 +14823,7 @@
             "«Die Frau ohne Schatten»"
           ],
           "answerIndex": 0,
-          "explanation": "«Salome».",
+          "explanation": "Correct answer: \"«Salome»\". This directly applies the principle of: Expressionist Terror & Viennese Nostalgia: Richard Strauss and Hugo von Hofmannsthal (Richard Strauss - Salome 1905 «Tanz der sieben Schleier», Elektra 1909 - Dissonanz und Expressionismus, Der Rosenkavalier 1911 - die silberne Rose und das Terzett «Hab' mir's gelobt», Libretti von Hugo von Hofmannsthal)..",
           "type": "multiple-choice"
         }
       ],
@@ -17636,7 +17636,8 @@
           "expectedKeywords": [
             "Der",
             "außerordentliche"
-          ]
+          ],
+          "explanation": "Correct answer: \"Der außerordentliche und bevollmächtigte Botschafter überreichte dem Bundespräsidenten sein Beglaubigungsschreiben.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Bilateral Summits (Akkreditierung, Staatsprotokoll und bilaterale Verhandlungen).."
         }
       ]
     },
@@ -17665,7 +17666,8 @@
           "expectedKeywords": [
             "Der",
             "außerordentliche"
-          ]
+          ],
+          "explanation": "Correct answer: \"Der außerordentliche und bevollmächtigte Botschafter überreichte dem Bundespräsidenten sein Beglaubigungsschreiben.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Bilateral Summits (Akkreditierung, Staatsprotokoll und bilaterale Verhandlungen).."
         }
       ]
     }
@@ -17719,7 +17721,8 @@
           "expectedKeywords": [
             "Die",
             "Bundesrepublik"
-          ]
+          ],
+          "explanation": "Correct answer: \"Die Bundesrepublik Deutschland hinterlegte die Ratifikationsurkunde beim Verwahrer des Völkerrechtsvertrags.\". This directly applies the principle of: Multilateral Treaties, Ratification & Deposition (Multilaterale Verträge, Ratifikation und Hinterlegung).."
         }
       ]
     },
@@ -17748,7 +17751,8 @@
           "expectedKeywords": [
             "Die",
             "Bundesrepublik"
-          ]
+          ],
+          "explanation": "Correct answer: \"Die Bundesrepublik Deutschland hinterlegte die Ratifikationsurkunde beim Verwahrer des Völkerrechtsvertrags.\". This directly applies the principle of: Multilateral Treaties, Ratification & Deposition (Multilaterale Verträge, Ratifikation und Hinterlegung).."
         }
       ]
     }
@@ -17802,7 +17806,8 @@
           "expectedKeywords": [
             "Der",
             "Deutsche"
-          ]
+          ],
+          "explanation": "Correct answer: \"Der Deutsche Bundestag verlängerte das Mandat für die Beteiligung an der UN-Friedensmission.\". This directly applies the principle of: UN Mandates, Peacekeeping Deployments & Ceasefire Demarcations (UN-Mandate, Auslandseinsätze der Bundeswehr und Waffenstillstand).."
         }
       ]
     },
@@ -17831,7 +17836,8 @@
           "expectedKeywords": [
             "Der",
             "Deutsche"
-          ]
+          ],
+          "explanation": "Correct answer: \"Der Deutsche Bundestag verlängerte das Mandat für die Beteiligung an der UN-Friedensmission.\". This directly applies the principle of: UN Mandates, Peacekeeping Deployments & Ceasefire Demarcations (UN-Mandate, Auslandseinsätze der Bundeswehr und Waffenstillstand).."
         }
       ]
     }
@@ -17885,7 +17891,8 @@
           "expectedKeywords": [
             "Das",
             "Oberlandesgericht"
-          ]
+          ],
+          "explanation": "Correct answer: \"Das Oberlandesgericht prüfte die völkerrechtliche Zulässigkeit des Auslieferungsersuchens.\". This directly applies the principle of: International Sanctions, Extradition & Universal Jurisdiction (Internationale Sanktionen, Auslieferung und Völkerstrafrecht).."
         }
       ]
     },
@@ -17914,7 +17921,8 @@
           "expectedKeywords": [
             "Das",
             "Oberlandesgericht"
-          ]
+          ],
+          "explanation": "Correct answer: \"Das Oberlandesgericht prüfte die völkerrechtliche Zulässigkeit des Auslieferungsersuchens.\". This directly applies the principle of: International Sanctions, Extradition & Universal Jurisdiction (Internationale Sanktionen, Auslieferung und Völkerstrafrecht).."
         }
       ]
     }
@@ -17968,7 +17976,8 @@
           "expectedKeywords": [
             "Die",
             "Staats-"
-          ]
+          ],
+          "explanation": "Correct answer: \"Die Staats- und Regierungschefs verabschiedeten die gemeinsame Abschlusserklärung zur Stärkung der regelbasierten multilateralen Ordnung.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & Defense (Gipfelerklärung und multilaterale Verhandlungsführung).."
         }
       ]
     },
@@ -17997,7 +18006,8 @@
           "expectedKeywords": [
             "Die",
             "Staats-"
-          ]
+          ],
+          "explanation": "Correct answer: \"Die Staats- und Regierungschefs verabschiedeten die gemeinsame Abschlusserklärung zur Stärkung der regelbasierten multilateralen Ordnung.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & Defense (Gipfelerklärung und multilaterale Verhandlungsführung).."
         }
       ]
     }

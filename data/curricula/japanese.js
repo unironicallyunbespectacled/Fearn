@@ -7248,7 +7248,7 @@
             "つもり",
             "ツモリ"
           ],
-          "explanation": "「つもり」です。",
+          "explanation": "Correct answer: \"つもり\". This directly applies the principle of: 意向形を用いた親しい間柄での勧誘・提案、および自発的思考を表す「〜（よ）うと思う」構文。.",
           "acceptableAnswers": [
             "つもり",
             "ツモリ"
@@ -9518,7 +9518,7 @@
             "と",
             "ト"
           ],
-          "explanation": "「と」です。",
+          "explanation": "Correct answer: \"と\". This directly applies the principle of: 動詞タ形＋「ら」を用いた完了・確定条件（When）および一般的仮定（If）、後件における意志・依頼の許容性。.",
           "acceptableAnswers": [
             "と",
             "ト"
@@ -9636,7 +9636,7 @@
             "ければ",
             "ケレバ"
           ],
-          "explanation": "よ【ければ】です。",
+          "explanation": "Correct answer: \"ければ\". This directly applies the principle of: 名詞／動詞普通形＋「なら」を用いた相手の発言・文脈の前提化、助言・推奨構文の運用。.",
           "acceptableAnswers": [
             "ければ",
             "ケレバ"
@@ -9874,7 +9874,7 @@
             "なら",
             "ナラ"
           ],
-          "explanation": "「なら」です。",
+          "explanation": "Correct answer: \"なら\". This directly applies the principle of: 動詞辞書形＋「と」を用いた自然法則、恒常的因果関係、機械操作、および直後の発見（継起）。.",
           "acceptableAnswers": [
             "なら",
             "ナラ"
@@ -9992,7 +9992,7 @@
             "なら",
             "ナラ"
           ],
-          "explanation": "「なら」です。",
+          "explanation": "Correct answer: \"なら\". This directly applies the principle of: 「たら」「なら」「ば」「と」の統語的制約、後件の意志性、時間的順序による峻別と総合運用。.",
           "acceptableAnswers": [
             "なら",
             "ナラ"

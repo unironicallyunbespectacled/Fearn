@@ -128,17 +128,20 @@
         {
           "problem": "34 + 52",
           "answer": 86,
-          "description": "Tens first: 30 + 50 = 80. Ones: 4 + 2 = 6. Combine: 80 + 6 = 86."
+          "description": "Tens first: 30 + 50 = 80. Ones: 4 + 2 = 6. Combine: 80 + 6 = 86.",
+          "target": "Core example"
         },
         {
           "problem": "47 + 38",
           "answer": 85,
-          "description": "Tens first: 40 + 30 = 70. Ones: 7 + 8 = 15. Combine: 70 + 15 = 85. (Or: 47 + 40 - 2 = 85.)"
+          "description": "Tens first: 40 + 30 = 70. Ones: 7 + 8 = 15. Combine: 70 + 15 = 85. (Or: 47 + 40 - 2 = 85.)",
+          "target": "Core example"
         },
         {
           "problem": "68 + 27",
           "answer": 95,
-          "description": "Tens first: 60 + 20 = 80. Ones: 8 + 7 = 15. Combine: 80 + 15 = 95."
+          "description": "Tens first: 60 + 20 = 80. Ones: 8 + 7 = 15. Combine: 80 + 15 = 95.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -151,14 +154,16 @@
           "type": "compute",
           "prompt": "Vault lock #1 — crack it in under 5 seconds: 56 + 38 = ?",
           "answer": 94,
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"94\". This directly applies the principle of: Add two two-digit numbers mentally in under 5 seconds with full accuracy.."
         },
         {
           "id": "mentalmath-u1-l1-q2",
           "type": "compute",
           "prompt": "Vault lock #2: 73 + 19 = ?",
           "answer": 92,
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"92\". This directly applies the principle of: Add two two-digit numbers mentally in under 5 seconds with full accuracy.."
         },
         {
           "id": "mentalmath-u1-l1-q3",
@@ -172,14 +177,16 @@
           ],
           "answer": "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer",
           "difficulty": 560,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer\". This directly applies the principle of: Add two two-digit numbers mentally in under 5 seconds with full accuracy.."
         },
         {
           "id": "mentalmath-u1-l1-q4",
           "type": "compute",
           "prompt": "Vault lock #3: 29 + 46 = ?",
           "answer": 75,
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"75\". This directly applies the principle of: Add two two-digit numbers mentally in under 5 seconds with full accuracy.."
         }
       ]
     },
@@ -197,17 +204,20 @@
         {
           "problem": "64 - 28",
           "answer": 36,
-          "description": "Round 28 up to 30 (+2). 64 - 30 = 34. Add back 2: 34 + 2 = 36."
+          "description": "Round 28 up to 30 (+2). 64 - 30 = 34. Add back 2: 34 + 2 = 36.",
+          "target": "Core example"
         },
         {
           "problem": "91 - 56",
           "answer": 35,
-          "description": "Round 56 up to 60 (+4). 91 - 60 = 31. Add back 4: 31 + 4 = 35."
+          "description": "Round 56 up to 60 (+4). 91 - 60 = 31. Add back 4: 31 + 4 = 35.",
+          "target": "Core example"
         },
         {
           "problem": "73 - 19",
           "answer": 54,
-          "description": "Round 19 up to 20 (+1). 73 - 20 = 53. Add back 1: 53 + 1 = 54."
+          "description": "Round 19 up to 20 (+1). 73 - 20 = 53. Add back 1: 53 + 1 = 54.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -220,14 +230,16 @@
           "type": "compute",
           "prompt": "Vault lock #1: 82 - 37 = ?",
           "answer": 45,
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"45\". This directly applies the principle of: Subtract two two-digit numbers mentally using the compensation technique.."
         },
         {
           "id": "mentalmath-u1-l2-q2",
           "type": "compute",
           "prompt": "Vault lock #2: 95 - 48 = ?",
           "answer": 47,
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"47\". This directly applies the principle of: Subtract two two-digit numbers mentally using the compensation technique.."
         },
         {
           "id": "mentalmath-u1-l2-q3",
@@ -241,14 +253,16 @@
           ],
           "answer": "Add the rounding amount back",
           "difficulty": 580,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Add the rounding amount back\". This directly applies the principle of: Subtract two two-digit numbers mentally using the compensation technique.."
         },
         {
           "id": "mentalmath-u1-l2-q4",
           "type": "compute",
           "prompt": "Vault lock #3: 61 - 24 = ?",
           "answer": 37,
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"37\". This directly applies the principle of: Subtract two two-digit numbers mentally using the compensation technique.."
         }
       ]
     },
@@ -266,17 +280,20 @@
         {
           "problem": "7 + 4 + 3 + 6 + 9 + 1",
           "answer": 30,
-          "description": "Pairs to ten: (7+3), (4+6), (9+1) — three 10s = 30."
+          "description": "Pairs to ten: (7+3), (4+6), (9+1) — three 10s = 30.",
+          "target": "Core example"
         },
         {
           "problem": "8 + 5 + 2 + 7 + 3",
           "answer": 25,
-          "description": "Pairs to ten: (8+2), (7+3) = 20, plus the leftover 5 = 25."
+          "description": "Pairs to ten: (8+2), (7+3) = 20, plus the leftover 5 = 25.",
+          "target": "Core example"
         },
         {
           "problem": "9 + 6 + 4 + 1 + 5 + 5",
           "answer": 30,
-          "description": "Pairs to ten: (9+1), (6+4), (5+5) — three 10s = 30."
+          "description": "Pairs to ten: (9+1), (6+4), (5+5) — three 10s = 30.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -289,14 +306,16 @@
           "type": "compute",
           "prompt": "Vault lock #1: 6 + 7 + 4 + 3 + 8 + 2 = ?",
           "answer": 30,
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"30\". This directly applies the principle of: Add a column of three or more single-digit numbers by grouping to make tens.."
         },
         {
           "id": "mentalmath-u1-l3-q2",
           "type": "compute",
           "prompt": "Vault lock #2: 9 + 2 + 8 + 5 + 1 = ?",
           "answer": 25,
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"25\". This directly applies the principle of: Add a column of three or more single-digit numbers by grouping to make tens.."
         },
         {
           "id": "mentalmath-u1-l3-q3",
@@ -310,14 +329,16 @@
           ],
           "answer": "Pairs of digits that add up to exactly 10",
           "difficulty": 580,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Pairs of digits that add up to exactly 10\". This directly applies the principle of: Add a column of three or more single-digit numbers by grouping to make tens.."
         },
         {
           "id": "mentalmath-u1-l3-q4",
           "type": "compute",
           "prompt": "Vault lock #3: 3 + 8 + 7 + 2 + 5 + 5 = ?",
           "answer": 30,
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"30\". This directly applies the principle of: Add a column of three or more single-digit numbers by grouping to make tens.."
         }
       ]
     },
@@ -335,17 +356,20 @@
         {
           "problem": "342 + 256",
           "answer": 598,
-          "description": "Hundreds: 300+200=500. Tens: 40+50=90. Ones: 2+6=8. Total: 500+90+8=598."
+          "description": "Hundreds: 300+200=500. Tens: 40+50=90. Ones: 2+6=8. Total: 500+90+8=598.",
+          "target": "Core example"
         },
         {
           "problem": "523 - 268",
           "answer": 255,
-          "description": "Round 268 up to 270 (+2). 523-270=253. Add back 2: 255."
+          "description": "Round 268 up to 270 (+2). 523-270=253. Add back 2: 255.",
+          "target": "Core example"
         },
         {
           "problem": "478 + 345",
           "answer": 823,
-          "description": "Hundreds: 400+300=700. Tens: 70+40=110. Ones: 8+5=13. Total: 700+110+13=823."
+          "description": "Hundreds: 400+300=700. Tens: 70+40=110. Ones: 8+5=13. Total: 700+110+13=823.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -358,14 +382,16 @@
           "type": "compute",
           "prompt": "Vault lock #1: 267 + 358 = ?",
           "answer": 625,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"625\". This directly applies the principle of: Add and subtract three-digit numbers using left-to-right calculation.."
         },
         {
           "id": "mentalmath-u1-l4-q2",
           "type": "compute",
           "prompt": "Vault lock #2: 612 - 347 = ?",
           "answer": 265,
-          "difficulty": 670
+          "difficulty": 670,
+          "explanation": "Correct answer: \"265\". This directly applies the principle of: Add and subtract three-digit numbers using left-to-right calculation.."
         },
         {
           "id": "mentalmath-u1-l4-q3",
@@ -379,14 +405,16 @@
           ],
           "answer": "The nearest hundred",
           "difficulty": 620,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The nearest hundred\". This directly applies the principle of: Add and subtract three-digit numbers using left-to-right calculation.."
         },
         {
           "id": "mentalmath-u1-l4-q4",
           "type": "compute",
           "prompt": "Vault lock #3: 419 + 273 = ?",
           "answer": 692,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"692\". This directly applies the principle of: Add and subtract three-digit numbers using left-to-right calculation.."
         }
       ]
     },
@@ -404,17 +432,20 @@
         {
           "problem": "58 + 27",
           "answer": 85,
-          "description": "Two-digit addition: 50+20=70, 8+7=15, total 85."
+          "description": "Two-digit addition: 50+20=70, 8+7=15, total 85.",
+          "target": "Core example"
         },
         {
           "problem": "91 - 46",
           "answer": 45,
-          "description": "Compensation: round 46 to 50 (+4), 91-50=41, add back 4 = 45."
+          "description": "Compensation: round 46 to 50 (+4), 91-50=41, add back 4 = 45.",
+          "target": "Core example"
         },
         {
           "problem": "7 + 8 + 3 + 2 + 9 + 1",
           "answer": 30,
-          "description": "Column grouping: (7+3), (8+2), (9+1) = three 10s = 30."
+          "description": "Column grouping: (7+3), (8+2), (9+1) = three 10s = 30.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -427,35 +458,40 @@
           "type": "compute",
           "prompt": "Boss lock #1: 58 + 27 = ?",
           "answer": 85,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"85\". This directly applies the principle of: Pass a mixed addition/subtraction fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u1-l5-q2",
           "type": "compute",
           "prompt": "Boss lock #2: 91 - 46 = ?",
           "answer": 45,
-          "difficulty": 670
+          "difficulty": 670,
+          "explanation": "Correct answer: \"45\". This directly applies the principle of: Pass a mixed addition/subtraction fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u1-l5-q3",
           "type": "compute",
           "prompt": "Boss lock #3: 7 + 8 + 3 + 2 + 9 + 1 = ?",
           "answer": 30,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"30\". This directly applies the principle of: Pass a mixed addition/subtraction fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u1-l5-q4",
           "type": "compute",
           "prompt": "Boss lock #4: 346 + 278 = ?",
           "answer": 624,
-          "difficulty": 690
+          "difficulty": 690,
+          "explanation": "Correct answer: \"624\". This directly applies the principle of: Pass a mixed addition/subtraction fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u1-l5-q5",
           "type": "short-answer",
           "prompt": "Name the three techniques from this unit and, in one phrase each, what problem shape each one is best for.",
           "answer": "Left-to-right addition (tens then ones) for two-digit sums; compensation (round up, subtract, add back) for subtraction; grouping-to-ten pairs for long columns of single digits.",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"Left-to-right addition (tens then ones) for two-digit sums; compensation (round up, subtract, add back) for subtraction; grouping-to-ten pairs for long columns of single digits.\". This directly applies the principle of: Pass a mixed addition/subtraction fluency checkpoint under time pressure.."
         }
       ]
     },
@@ -473,22 +509,26 @@
         {
           "problem": "6x6=36 (anchor), so 6x7 = ?",
           "answer": 42,
-          "description": "Anchor-and-step: 6x7 is one more group of 6 than the memorized square 6x6. 36+6=42."
+          "description": "Anchor-and-step: 6x7 is one more group of 6 than the memorized square 6x6. 36+6=42.",
+          "target": "Core example"
         },
         {
           "problem": "9x7 via the 9s trick",
           "answer": 63,
-          "description": "Tens digit = 7-1=6. Ones digit = 9-6=3. Read as 63."
+          "description": "Tens digit = 7-1=6. Ones digit = 9-6=3. Read as 63.",
+          "target": "Core example"
         },
         {
           "problem": "7x4 via doubling from 7x2=14",
           "answer": 28,
-          "description": "7x2=14 is easy to hold in memory; 7x4 doubles it once: 14x2=28."
+          "description": "7x2=14 is easy to hold in memory; 7x4 doubles it once: 14x2=28.",
+          "target": "Core example"
         },
         {
           "problem": "7x8=56 (the classic \"5,6,7,8\" fact)",
           "answer": 56,
-          "description": "A famous coincidence worth memorizing outright: the digits 5-6-7-8 run in order — 56 = 7x8."
+          "description": "A famous coincidence worth memorizing outright: the digits 5-6-7-8 run in order — 56 = 7x8.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -501,21 +541,24 @@
           "type": "compute",
           "prompt": "Dial lock #1: 8x7 = ?",
           "answer": 56,
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"56\". This directly applies the principle of: Recall all single-digit multiplication facts (1-10) instantly without counting.."
         },
         {
           "id": "mentalmath-u2-l1-q2",
           "type": "compute",
           "prompt": "Dial lock #2 (use the 9s trick): 9x8 = ?",
           "answer": 72,
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"72\". This directly applies the principle of: Recall all single-digit multiplication facts (1-10) instantly without counting.."
         },
         {
           "id": "mentalmath-u2-l1-q3",
           "type": "compute",
           "prompt": "Dial lock #3: 6x9 = ?",
           "answer": 54,
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"54\". This directly applies the principle of: Recall all single-digit multiplication facts (1-10) instantly without counting.."
         },
         {
           "id": "mentalmath-u2-l1-q4",
@@ -529,14 +572,16 @@
           ],
           "answer": "3",
           "difficulty": 590,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"3 (Recall all singledigit multiplication facts 110 instantly without counting)\". This directly applies the principle of: Recall all single-digit multiplication facts (1-10) instantly without counting.."
         },
         {
           "id": "mentalmath-u2-l1-q5",
           "type": "compute",
           "prompt": "Dial lock #4: 7x7 = ?",
           "answer": 49,
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"49\". This directly applies the principle of: Recall all single-digit multiplication facts (1-10) instantly without counting.."
         }
       ]
     },
@@ -554,17 +599,20 @@
         {
           "problem": "42 / 6 = ? (fact family of 6x7=42)",
           "answer": 7,
-          "description": "Recognize 42 as 6x7 first, then read off the missing factor: 7."
+          "description": "Recognize 42 as 6x7 first, then read off the missing factor: 7.",
+          "target": "Core example"
         },
         {
           "problem": "54 / 9 = ? (use the 9s-trick fact family)",
           "answer": 6,
-          "description": "From 9x6=54: the fact family flips cleanly to 54/9=6."
+          "description": "From 9x6=54: the fact family flips cleanly to 54/9=6.",
+          "target": "Core example"
         },
         {
           "problem": "64 / 8 = ? (anchor square 8x8=64)",
           "answer": 8,
-          "description": "64 is the square anchor 8x8, so dividing either factor back out returns the other 8."
+          "description": "64 is the square anchor 8x8, so dividing either factor back out returns the other 8.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -577,21 +625,24 @@
           "type": "compute",
           "prompt": "Mirror lock #1: 56 / 7 = ?",
           "answer": 8,
-          "difficulty": 610
+          "difficulty": 610,
+          "explanation": "Correct answer: \"8\". This directly applies the principle of: Recall single-digit division facts as the inverse of multiplication facts.."
         },
         {
           "id": "mentalmath-u2-l2-q2",
           "type": "compute",
           "prompt": "Mirror lock #2: 63 / 9 = ?",
           "answer": 7,
-          "difficulty": 610
+          "difficulty": 610,
+          "explanation": "Correct answer: \"7\". This directly applies the principle of: Recall single-digit division facts as the inverse of multiplication facts.."
         },
         {
           "id": "mentalmath-u2-l2-q3",
           "type": "compute",
           "prompt": "Mirror lock #3: 45 / 5 = ?",
           "answer": 9,
-          "difficulty": 610
+          "difficulty": 610,
+          "explanation": "Correct answer: \"9\". This directly applies the principle of: Recall single-digit division facts as the inverse of multiplication facts.."
         },
         {
           "id": "mentalmath-u2-l2-q4",
@@ -605,14 +656,16 @@
           ],
           "answer": "Recognize 72 as the product 8x9 and read off the missing factor",
           "difficulty": 600,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Recognize 72 as the product 8x9 and read off the missing factor\". This directly applies the principle of: Recall single-digit division facts as the inverse of multiplication facts.."
         },
         {
           "id": "mentalmath-u2-l2-q5",
           "type": "compute",
           "prompt": "Mirror lock #4: 36 / 4 = ?",
           "answer": 9,
-          "difficulty": 610
+          "difficulty": 610,
+          "explanation": "Correct answer: \"9\". This directly applies the principle of: Recall single-digit division facts as the inverse of multiplication facts.."
         }
       ]
     },
@@ -630,17 +683,20 @@
         {
           "problem": "34 x 6",
           "answer": 204,
-          "description": "Split: 30x6=180, 4x6=24. Combine: 180+24=204."
+          "description": "Split: 30x6=180, 4x6=24. Combine: 180+24=204.",
+          "target": "Core example"
         },
         {
           "problem": "47 x 3",
           "answer": 141,
-          "description": "Split: 40x3=120, 7x3=21. Combine: 120+21=141."
+          "description": "Split: 40x3=120, 7x3=21. Combine: 120+21=141.",
+          "target": "Core example"
         },
         {
           "problem": "58 x 4",
           "answer": 232,
-          "description": "Split: 50x4=200, 8x4=32. Combine: 200+32=232."
+          "description": "Split: 50x4=200, 8x4=32. Combine: 200+32=232.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -653,21 +709,24 @@
           "type": "compute",
           "prompt": "Two-dial lock #1: 26 x 7 = ?",
           "answer": 182,
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"182\". This directly applies the principle of: Multiply a two-digit number by a single digit using place-value decomposition.."
         },
         {
           "id": "mentalmath-u2-l3-q2",
           "type": "compute",
           "prompt": "Two-dial lock #2: 39 x 5 = ?",
           "answer": 195,
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"195\". This directly applies the principle of: Multiply a two-digit number by a single digit using place-value decomposition.."
         },
         {
           "id": "mentalmath-u2-l3-q3",
           "type": "compute",
           "prompt": "Two-dial lock #3: 83 x 3 = ?",
           "answer": 249,
-          "difficulty": 630
+          "difficulty": 630,
+          "explanation": "Correct answer: \"249\". This directly applies the principle of: Multiply a two-digit number by a single digit using place-value decomposition.."
         },
         {
           "id": "mentalmath-u2-l3-q4",
@@ -681,14 +740,16 @@
           ],
           "answer": "60x8 and 2x8",
           "difficulty": 620,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"60x8 and 2x8\". This directly applies the principle of: Multiply a two-digit number by a single digit using place-value decomposition.."
         },
         {
           "id": "mentalmath-u2-l3-q5",
           "type": "compute",
           "prompt": "Two-dial lock #4: 45 x 6 = ?",
           "answer": 270,
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"270\". This directly applies the principle of: Multiply a two-digit number by a single digit using place-value decomposition.."
         }
       ]
     },
@@ -706,17 +767,20 @@
         {
           "problem": "96 / 4",
           "answer": 24,
-          "description": "Chunk: 80/4=20. Remainder: 16/4=4. Combine: 20+4=24."
+          "description": "Chunk: 80/4=20. Remainder: 16/4=4. Combine: 20+4=24.",
+          "target": "Core example"
         },
         {
           "problem": "144 / 6",
           "answer": 24,
-          "description": "Chunk: 120/6=20. Remainder: 24/6=4. Combine: 20+4=24."
+          "description": "Chunk: 120/6=20. Remainder: 24/6=4. Combine: 20+4=24.",
+          "target": "Core example"
         },
         {
           "problem": "216 / 6",
           "answer": 36,
-          "description": "Chunk: 180/6=30. Remainder: 36/6=6. Combine: 30+6=36."
+          "description": "Chunk: 180/6=30. Remainder: 36/6=6. Combine: 30+6=36.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -729,21 +793,24 @@
           "type": "compute",
           "prompt": "Mirror lock #1: 128 / 8 = ?",
           "answer": 16,
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"16\". This directly applies the principle of: Divide a two- or three-digit number by a single digit mentally using chunking.."
         },
         {
           "id": "mentalmath-u2-l4-q2",
           "type": "compute",
           "prompt": "Mirror lock #2: 91 / 7 = ?",
           "answer": 13,
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"13\". This directly applies the principle of: Divide a two- or three-digit number by a single digit mentally using chunking.."
         },
         {
           "id": "mentalmath-u2-l4-q3",
           "type": "compute",
           "prompt": "Mirror lock #3: 75 / 5 = ?",
           "answer": 15,
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"15\". This directly applies the principle of: Divide a two- or three-digit number by a single digit mentally using chunking.."
         },
         {
           "id": "mentalmath-u2-l4-q4",
@@ -757,14 +824,16 @@
           ],
           "answer": "160, leaving 8",
           "difficulty": 650,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"160, leaving 8\". This directly applies the principle of: Divide a two- or three-digit number by a single digit mentally using chunking.."
         },
         {
           "id": "mentalmath-u2-l4-q5",
           "type": "compute",
           "prompt": "Mirror lock #4: 156 / 4 = ?",
           "answer": 39,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"39\". This directly applies the principle of: Divide a two- or three-digit number by a single digit mentally using chunking.."
         }
       ]
     },
@@ -782,22 +851,26 @@
         {
           "problem": "8x6",
           "answer": 48,
-          "description": "Bare fact, ideally instant recall by now."
+          "description": "Bare fact, ideally instant recall by now.",
+          "target": "Core example"
         },
         {
           "problem": "72 / 9",
           "answer": 8,
-          "description": "Division mirror: recognize 72 as 8x9."
+          "description": "Division mirror: recognize 72 as 8x9.",
+          "target": "Core example"
         },
         {
           "problem": "27 x 4",
           "answer": 108,
-          "description": "Decomposition: 20x4=80, 7x4=28, combine=108."
+          "description": "Decomposition: 20x4=80, 7x4=28, combine=108.",
+          "target": "Core example"
         },
         {
           "problem": "135 / 5",
           "answer": 27,
-          "description": "Chunking: 100/5=20, 35/5=7, combine=27."
+          "description": "Chunking: 100/5=20, 35/5=7, combine=27.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -810,35 +883,40 @@
           "type": "compute",
           "prompt": "Boss lock #1: 9x7 = ?",
           "answer": 63,
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"63\". This directly applies the principle of: Pass a mixed multiplication/division fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u2-l5-q2",
           "type": "compute",
           "prompt": "Boss lock #2: 48 / 6 = ?",
           "answer": 8,
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"8\". This directly applies the principle of: Pass a mixed multiplication/division fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u2-l5-q3",
           "type": "compute",
           "prompt": "Boss lock #3: 53 x 4 = ?",
           "answer": 212,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"212\". This directly applies the principle of: Pass a mixed multiplication/division fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u2-l5-q4",
           "type": "compute",
           "prompt": "Boss lock #4: 132 / 6 = ?",
           "answer": 22,
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"22\". This directly applies the principle of: Pass a mixed multiplication/division fluency checkpoint under time pressure.."
         },
         {
           "id": "mentalmath-u2-l5-q5",
           "type": "short-answer",
           "prompt": "Name the two techniques from this unit for handling multi-digit problems, and in one phrase each, describe what each one does.",
           "answer": "Place-value decomposition splits a multi-digit multiplication into round-number pieces (tens and ones) that are each multiplied separately, then added back together; chunking splits a division into a friendly multiple of the divisor plus a remainder, dividing each piece separately, then adding the partial answers.",
-          "difficulty": 650
+          "difficulty": 650,
+          "explanation": "Correct answer: \"Place-value decomposition splits a multi-digit multiplication into round-number pieces (tens and ones) that are each multiplied separately, then added back together; chunking splits a division into a friendly multiple of the divisor plus a remainder, dividing each piece separately, then adding the partial answers.\". This directly applies the principle of: Pass a mixed multiplication/division fluency checkpoint under time pressure.."
         }
       ]
     },
@@ -856,17 +934,20 @@
         {
           "problem": "26 x 11 (digits sum to 8, no carry)",
           "answer": 286,
-          "description": "2 and 6 sum to 8. Slide it between them: 2-8-6 = 286."
+          "description": "2 and 6 sum to 8. Slide it between them: 2-8-6 = 286.",
+          "target": "Core example"
         },
         {
           "problem": "58 x 11 (digits sum to 13, carry needed)",
           "answer": 638,
-          "description": "5 and 8 sum to 13. Write the 3, carry the 1 into the first digit (5+1=6): 6-3-8 = 638."
+          "description": "5 and 8 sum to 13. Write the 3, carry the 1 into the first digit (5+1=6): 6-3-8 = 638.",
+          "target": "Core example"
         },
         {
           "problem": "47 x 11 (digits sum to 11, carry needed)",
           "answer": 517,
-          "description": "4 and 7 sum to 11. Write the 1, carry the 1 into the first digit (4+1=5): 5-1-7 = 517."
+          "description": "4 and 7 sum to 11. Write the 1, carry the 1 into the first digit (4+1=5): 5-1-7 = 517.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -879,14 +960,16 @@
           "type": "compute",
           "prompt": "Shortcut lock #1: 45 x 11 = ?",
           "answer": 495,
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"495\". This directly applies the principle of: Multiply any two-digit number by 11 using the \"add the digits\" shortcut.."
         },
         {
           "id": "mentalmath-u3-l1-q2",
           "type": "compute",
           "prompt": "Shortcut lock #2: 63 x 11 = ?",
           "answer": 693,
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"693\". This directly applies the principle of: Multiply any two-digit number by 11 using the \"add the digits\" shortcut.."
         },
         {
           "id": "mentalmath-u3-l1-q3",
@@ -900,14 +983,16 @@
           ],
           "answer": "Whenever the two digits sum to 10 or more",
           "difficulty": 690,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Whenever the two digits sum to 10 or more\". This directly applies the principle of: Multiply any two-digit number by 11 using the \"add the digits\" shortcut.."
         },
         {
           "id": "mentalmath-u3-l1-q4",
           "type": "compute",
           "prompt": "Shortcut lock #3 (carry required): 89 x 11 = ?",
           "answer": 979,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"979\". This directly applies the principle of: Multiply any two-digit number by 11 using the \"add the digits\" shortcut.."
         }
       ]
     },
@@ -925,17 +1010,20 @@
         {
           "problem": "48 x 5 (even)",
           "answer": 240,
-          "description": "Half of 48 is 24. Shift (x10): 240."
+          "description": "Half of 48 is 24. Shift (x10): 240.",
+          "target": "Core example"
         },
         {
           "problem": "47 x 5 (odd)",
           "answer": 235,
-          "description": "Half of 47 is 23.5. Shift the decimal one place right: 235 — the trailing .5 becomes a trailing 5 automatically."
+          "description": "Half of 47 is 23.5. Shift the decimal one place right: 235 — the trailing .5 becomes a trailing 5 automatically.",
+          "target": "Core example"
         },
         {
           "problem": "86 x 5 (even)",
           "answer": 430,
-          "description": "Half of 86 is 43. Shift: 430."
+          "description": "Half of 86 is 43. Shift: 430.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -948,14 +1036,16 @@
           "type": "compute",
           "prompt": "Shortcut lock #1: 74 x 5 = ?",
           "answer": 370,
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"370\". This directly applies the principle of: Multiply any number by 5 using the halve-and-shift shortcut.."
         },
         {
           "id": "mentalmath-u3-l2-q2",
           "type": "compute",
           "prompt": "Shortcut lock #2 (odd number): 39 x 5 = ?",
           "answer": 195,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"195\". This directly applies the principle of: Multiply any number by 5 using the halve-and-shift shortcut.."
         },
         {
           "id": "mentalmath-u3-l2-q3",
@@ -969,14 +1059,16 @@
           ],
           "answer": "A trailing .5, shifted one decimal place, always becomes a trailing 5",
           "difficulty": 690,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"A trailing .5, shifted one decimal place, always becomes a trailing 5\". This directly applies the principle of: Multiply any number by 5 using the halve-and-shift shortcut.."
         },
         {
           "id": "mentalmath-u3-l2-q4",
           "type": "compute",
           "prompt": "Shortcut lock #3: 156 x 5 = ?",
           "answer": 780,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"780\". This directly applies the principle of: Multiply any number by 5 using the halve-and-shift shortcut.."
         }
       ]
     },
@@ -994,17 +1086,20 @@
         {
           "problem": "34 x 9",
           "answer": 306,
-          "description": "34 x 10 = 340. Subtract 34 once: 340 - 34 = 306."
+          "description": "34 x 10 = 340. Subtract 34 once: 340 - 34 = 306.",
+          "target": "Core example"
         },
         {
           "problem": "67 x 9",
           "answer": 603,
-          "description": "67 x 10 = 670. Subtract 67 once: 670 - 67 = 603."
+          "description": "67 x 10 = 670. Subtract 67 once: 670 - 67 = 603.",
+          "target": "Core example"
         },
         {
           "problem": "128 x 9",
           "answer": 1152,
-          "description": "128 x 10 = 1280. Subtract 128 once: 1280 - 128 = 1152."
+          "description": "128 x 10 = 1280. Subtract 128 once: 1280 - 128 = 1152.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1017,21 +1112,24 @@
           "type": "compute",
           "prompt": "Shortcut lock #1: 56 x 9 = ?",
           "answer": 504,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"504\". This directly applies the principle of: Multiply any number by 9 using the \"x10 then subtract\" shortcut.."
         },
         {
           "id": "mentalmath-u3-l3-q2",
           "type": "compute",
           "prompt": "Shortcut lock #2: 89 x 9 = ?",
           "answer": 801,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"801\". This directly applies the principle of: Multiply any number by 9 using the \"x10 then subtract\" shortcut.."
         },
         {
           "id": "mentalmath-u3-l3-q3",
           "type": "compute",
           "prompt": "Shortcut lock #3: 213 x 9 = ?",
           "answer": 1917,
-          "difficulty": 730
+          "difficulty": 730,
+          "explanation": "Correct answer: \"1917\". This directly applies the principle of: Multiply any number by 9 using the \"x10 then subtract\" shortcut.."
         },
         {
           "id": "mentalmath-u3-l3-q4",
@@ -1045,7 +1143,8 @@
           ],
           "answer": "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1",
           "difficulty": 700,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1\". This directly applies the principle of: Multiply any number by 9 using the \"x10 then subtract\" shortcut.."
         }
       ]
     },
@@ -1063,22 +1162,26 @@
         {
           "problem": "23 x 4",
           "answer": 92,
-          "description": "Double twice: 23 -> 46 -> 92."
+          "description": "Double twice: 23 -> 46 -> 92.",
+          "target": "Core example"
         },
         {
           "problem": "34 x 8",
           "answer": 272,
-          "description": "Double three times: 34 -> 68 -> 136 -> 272."
+          "description": "Double three times: 34 -> 68 -> 136 -> 272.",
+          "target": "Core example"
         },
         {
           "problem": "96 / 4",
           "answer": 24,
-          "description": "Halve twice: 96 -> 48 -> 24."
+          "description": "Halve twice: 96 -> 48 -> 24.",
+          "target": "Core example"
         },
         {
           "problem": "144 / 8",
           "answer": 18,
-          "description": "Halve three times: 144 -> 72 -> 36 -> 18."
+          "description": "Halve three times: 144 -> 72 -> 36 -> 18.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1091,21 +1194,24 @@
           "type": "compute",
           "prompt": "Shortcut lock #1: 27 x 4 = ?",
           "answer": 108,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"108\". This directly applies the principle of: Multiply by 4, 8, or 16 using repeated doubling, and by their reciprocals using repeated halving.."
         },
         {
           "id": "mentalmath-u3-l4-q2",
           "type": "compute",
           "prompt": "Shortcut lock #2: 45 x 8 = ?",
           "answer": 360,
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"360\". This directly applies the principle of: Multiply by 4, 8, or 16 using repeated doubling, and by their reciprocals using repeated halving.."
         },
         {
           "id": "mentalmath-u3-l4-q3",
           "type": "compute",
           "prompt": "Shortcut lock #3: 128 / 4 = ?",
           "answer": 32,
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"32\". This directly applies the principle of: Multiply by 4, 8, or 16 using repeated doubling, and by their reciprocals using repeated halving.."
         },
         {
           "id": "mentalmath-u3-l4-q4",
@@ -1119,14 +1225,16 @@
           ],
           "answer": "Three times",
           "difficulty": 700,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"Three times\". This directly applies the principle of: Multiply by 4, 8, or 16 using repeated doubling, and by their reciprocals using repeated halving.."
         },
         {
           "id": "mentalmath-u3-l4-q5",
           "type": "compute",
           "prompt": "Shortcut lock #4: 176 / 8 = ?",
           "answer": 22,
-          "difficulty": 730
+          "difficulty": 730,
+          "explanation": "Correct answer: \"22\". This directly applies the principle of: Multiply by 4, 8, or 16 using repeated doubling, and by their reciprocals using repeated halving.."
         }
       ]
     },
@@ -1144,22 +1252,26 @@
         {
           "problem": "52 x 11",
           "answer": 572,
-          "description": "5+2=7, no carry: 5-7-2 = 572."
+          "description": "5+2=7, no carry: 5-7-2 = 572.",
+          "target": "Core example"
         },
         {
           "problem": "64 x 5",
           "answer": 320,
-          "description": "Half of 64 is 32, shift: 320."
+          "description": "Half of 64 is 32, shift: 320.",
+          "target": "Core example"
         },
         {
           "problem": "73 x 9",
           "answer": 657,
-          "description": "73 x 10 = 730, minus 73 = 657."
+          "description": "73 x 10 = 730, minus 73 = 657.",
+          "target": "Core example"
         },
         {
           "problem": "17 x 8",
           "answer": 136,
-          "description": "Double three times: 17 -> 34 -> 68 -> 136."
+          "description": "Double three times: 17 -> 34 -> 68 -> 136.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1172,35 +1284,40 @@
           "type": "compute",
           "prompt": "Boss lock #1: 52 x 11 = ?",
           "answer": 572,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"572\". This directly applies the principle of: Pass a mixed multiplication-shortcut checkpoint choosing the fastest trick per problem.."
         },
         {
           "id": "mentalmath-u3-l5-q2",
           "type": "compute",
           "prompt": "Boss lock #2: 64 x 5 = ?",
           "answer": 320,
-          "difficulty": 710
+          "difficulty": 710,
+          "explanation": "Correct answer: \"320\". This directly applies the principle of: Pass a mixed multiplication-shortcut checkpoint choosing the fastest trick per problem.."
         },
         {
           "id": "mentalmath-u3-l5-q3",
           "type": "compute",
           "prompt": "Boss lock #3: 73 x 9 = ?",
           "answer": 657,
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"657\". This directly applies the principle of: Pass a mixed multiplication-shortcut checkpoint choosing the fastest trick per problem.."
         },
         {
           "id": "mentalmath-u3-l5-q4",
           "type": "compute",
           "prompt": "Boss lock #4: 17 x 8 = ?",
           "answer": 136,
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"136\". This directly applies the principle of: Pass a mixed multiplication-shortcut checkpoint choosing the fastest trick per problem.."
         },
         {
           "id": "mentalmath-u3-l5-q5",
           "type": "short-answer",
           "prompt": "Name all four shortcuts from this unit and, in one phrase each, what multiplier each one targets.",
           "answer": "The digit-sum-insert trick for x11; the halve-and-shift trick for x5; the times-ten-then-subtract trick for x9; and the repeated doubling/halving chain for x4, x8, x16 and their reciprocal divisions.",
-          "difficulty": 730
+          "difficulty": 730,
+          "explanation": "Correct answer: \"The digit-sum-insert trick for x11; the halve-and-shift trick for x5; the times-ten-then-subtract trick for x9; and the repeated doubling/halving chain for x4, x8, x16 and their reciprocal divisions.\". This directly applies the principle of: Pass a mixed multiplication-shortcut checkpoint choosing the fastest trick per problem.."
         }
       ]
     },

@@ -11492,7 +11492,7 @@
             "El funicular"
           ],
           "answerIndex": 2,
-          "explanation": "El AVE."
+          "explanation": "Correct answer: \"El AVE\". This directly applies the principle of: Transporte ferroviario en España: El tren de alta velocidad (AVE), cercanías, billetes y horarios.."
         }
       ]
     },
@@ -11932,7 +11932,7 @@
             "Cheque postal"
           ],
           "answerIndex": 0,
-          "explanation": "Bizum.",
+          "explanation": "Correct answer: \"Bizum\". This directly applies the principle of: Las rebajas en España, descuentos, pagar en caja (tarjeta, Bizum, efectivo) y pedir ticket..",
           "type": "multiple-choice"
         },
         {
@@ -12230,7 +12230,7 @@
             "La primavera"
           ],
           "answerIndex": 0,
-          "explanation": "El otoño."
+          "explanation": "Correct answer: \"El otoño\". This directly applies the principle of: Las cuatro estaciones del año, cambios estacionales y actividades al aire libre en España.."
         }
       ]
     },
@@ -12245,7 +12245,7 @@
             "En enero"
           ],
           "answerIndex": 0,
-          "explanation": "En otoño."
+          "explanation": "Correct answer: \"En otoño\". This directly applies the principle of: Las cuatro estaciones del año, cambios estacionales y actividades al aire libre en España.."
         }
       ]
     },
@@ -12409,7 +12409,7 @@
             "DGT"
           ],
           "answerIndex": 0,
-          "explanation": "AEMET."
+          "explanation": "Correct answer: \"AEMET\". This directly applies the principle of: Comprender el parte meteorológico, alertas por calor (ola de calor, DANA/gota fría) y calima.."
         }
       ]
     },
@@ -12722,7 +12722,7 @@
             "El 000"
           ],
           "answerIndex": 1,
-          "explanation": "El 112."
+          "explanation": "Correct answer: \"El 112\". This directly applies the principle of: Urgencias médicas en España, llamar al 112 / 061, la tarjeta sanitaria individual (TSI) y la Tarjeta Sanitaria Europea (TSE).."
         }
       ]
     },
@@ -12886,7 +12886,7 @@
             "La DGT (Donacin de rganos en Espaa Lder mundial de la ONT durante ms de 30 aos consecutivos y solidaridad sanitaria)"
           ],
           "answerIndex": 0,
-          "explanation": "La ONT."
+          "explanation": "Correct answer: \"La ONT (Donacin de rganos en Espaa Lder mundial de la ONT durante ms de 30 aos consecutivos y solidaridad sanitaria)\". This directly applies the principle of: Donación de órganos en España (Líder mundial de la ONT durante más de 30 años consecutivos) y solidaridad sanitaria.."
         }
       ]
     },
@@ -12998,7 +12998,7 @@
             "La LAU"
           ],
           "answerIndex": 3,
-          "explanation": "La LAU.",
+          "explanation": "Correct answer: \"La LAU\". This directly applies the principle of: Buscar piso en alquiler en España (Idealista, Fotocasa), contrato de arrendamiento (LAU), fianza y gastos de comunidad..",
           "type": "multiple-choice"
         },
         {
@@ -13706,7 +13706,7 @@
             "Repsol"
           ],
           "answerIndex": 0,
-          "explanation": "Inditex."
+          "explanation": "Correct answer: \"Inditex\". This directly applies the principle of: Liderazgo empresarial global de España: Grandes multinacionales (Inditex/Zara, Banco Santander, Iberdrola, Telefónica) y diplomacia corporativa.."
         }
       ]
     },
@@ -13885,7 +13885,7 @@
             "Panama Canal"
           ],
           "answerIndex": 0,
-          "explanation": "H2Med."
+          "explanation": "Correct answer: \"H2Med\". This directly applies the principle of: Renewable energy transition, green hydrogen, and solar/wind power leadership in Spain (energías renovables, parques eólicos marinos/terrestres, plantas termosolares, hidrógeno verde).."
         }
       ]
     },
@@ -14131,7 +14131,7 @@
             "2050 (C2 synthesis on ecological restoration)"
           ],
           "answerIndex": 3,
-          "explanation": "2050."
+          "explanation": "Correct answer: \"2050 (C2 synthesis on ecological restoration)\". This directly applies the principle of: C2 synthesis on ecological restoration, circular economy, and marine sanctuaries (biorreservas marinas, Posidonia oceánica en Baleares, Ley de Cambio Climático).."
         }
       ]
     },
@@ -14295,7 +14295,7 @@
             "Aena"
           ],
           "answerIndex": 0,
-          "explanation": "CNIO."
+          "explanation": "Correct answer: \"CNIO\". This directly applies the principle of: Spanish biomedical research: CNIO cancer institute, CRG genomics, and Severo Ochoa / Ramón y Cajal legacy (CNIO, Centro de Regulación Genómica, neurobiología, oncología molecular).."
         }
       ]
     },
@@ -14459,7 +14459,7 @@
             "1975 (Bioethics)"
           ],
           "answerIndex": 1,
-          "explanation": "2021."
+          "explanation": "Correct answer: \"2021 (Bioethics)\". This directly applies the principle of: Bioethics, patients' rights, and end-of-life legislation (Ley Orgánica de Regulación de la Eutanasia, testamento vital, comités de bioética hospitalaria, consentimiento informado).."
         }
       ]
     },
@@ -14787,7 +14787,7 @@
             "Summa Theologiae"
           ],
           "answerIndex": 0,
-          "explanation": "De Indis."
+          "explanation": "Correct answer: \"De Indis\". This directly applies the principle of: The School of Salamanca: Francisco de Vitoria and the birth of international human rights law (La Escuela de Salamanca, Francisco de Vitoria - De Indis, ius gentium, derecho internacional moderno, Francisco Suárez).."
         }
       ]
     },
@@ -14978,7 +14978,7 @@
             "1800 (C2 synthesis on Spanish contemporary ethics)"
           ],
           "answerIndex": 2,
-          "explanation": "2017.",
+          "explanation": "Correct answer: \"2017 (C2 synthesis on Spanish contemporary ethics)\". This directly applies the principle of: C2 synthesis on Spanish contemporary ethics: Adela Cortina and the ethics of cordial reason / aporophobia (Adela Cortina, ética de la razón cordial, aporofobia en la RAE, ética del discurso cívico, neuroética)..",
           "type": "multiple-choice"
         }
       ],
@@ -15716,7 +15716,7 @@
             "Niza"
           ],
           "answerIndex": 1,
-          "explanation": "Prades.",
+          "explanation": "Correct answer: \"Prades\". This directly applies the principle of: Cello Humanism & Peace Advocacy: Pau Casals and El Cant dels Ocells (Pau Casals - Pablo Casals, redescubrimiento de las Suites de Bach, Himno de las Naciones Unidas, El cant dels ocells, discurso ante la ONU en 1971 «I am a Catalan»)..",
           "type": "multiple-choice"
         }
       ],
@@ -16755,7 +16755,7 @@
             "Queen Elisabeth Competition"
           ],
           "answerIndex": 0,
-          "explanation": "Operalia."
+          "explanation": "Correct answer: \"Operalia\". This directly applies the principle of: Dramatic Tenor Royalty & The Three Tenors: Plácido Domingo and José Carreras (Los Tres Tenores - Plácido Domingo, José Carreras y Luciano Pavarotti en las Termas de Caracalla 1990, Otello de Verdi, La Bohème, Operalia y la dirección orquestal).."
         }
       ]
     },
@@ -16782,7 +16782,7 @@
             "Don José"
           ],
           "answerIndex": 0,
-          "explanation": "Otello.",
+          "explanation": "Correct answer: \"Otello\". This directly applies the principle of: Dramatic Tenor Royalty & The Three Tenors: Plácido Domingo and José Carreras (Los Tres Tenores - Plácido Domingo, José Carreras y Luciano Pavarotti en las Termas de Caracalla 1990, Otello de Verdi, La Bohème, Operalia y la dirección orquestal)..",
           "type": "multiple-choice"
         }
       ],
@@ -17602,7 +17602,7 @@
             "Farsa"
           ],
           "answerIndex": 2,
-          "explanation": "Nivola.",
+          "explanation": "Correct answer: \"Nivola\". This directly applies the principle of: The Tragic Sense of Life & The Agony of Immortality: Miguel de Unamuno (Miguel de Unamuno - Generación del 98, Del sentimiento trágico de la vida 1912, la agonía entre la razón y el anhelo de inmortalidad, San Manuel Bueno mártir, la invención de la «nivola» en Niebla, la intrahistoria)..",
           "type": "multiple-choice"
         }
       ],
@@ -17684,7 +17684,7 @@
             "5 años"
           ],
           "answerIndex": 1,
-          "explanation": "45 años.",
+          "explanation": "Correct answer: \"45 años\". This directly applies the principle of: Poetic Reason & The Logos of the Heart: María Zambrano (María Zambrano - Premio Cervantes 1988 y Premio Príncipe de Asturias 1981, La razón poética frente al totalitarismo de la razón discursiva, Claros del bosque, El hombre y lo divino, exilio filosófico republicano)..",
           "type": "multiple-choice"
         }
       ],
@@ -17766,7 +17766,7 @@
             "Nueva York"
           ],
           "answerIndex": 0,
-          "explanation": "Ginebra.",
+          "explanation": "Correct answer: \"Ginebra\". This directly applies the principle of: The Birth of International Law & Human Dignity: Francisco de Vitoria and the School of Salamanca (Francisco de Vitoria - Escuela de Salamanca, Relectio de Indis 1539, fundamentación del Derecho de Gentes (Ius Gentium), derechos inalienables de los pueblos indígenas, teoría del precio justo y la guerra justa)..",
           "type": "multiple-choice"
         }
       ],
@@ -17821,7 +17821,7 @@
             "De suyo (C2 synthesis on Sentient Intelligence  Dynamic Reality)"
           ],
           "answerIndex": 3,
-          "explanation": "De suyo."
+          "explanation": "Correct answer: \"De suyo (C2 synthesis on Sentient Intelligence  Dynamic Reality)\". This directly applies the principle of: C2 synthesis on Sentient Intelligence & Dynamic Reality: Xavier Zubiri (Xavier Zubiri - Estructura dinámica de la realidad, Inteligencia sentiente 1980: Inteligencia y realidad, aprehensión primordial de realidad, noología frente a epistemología pura, metafísica de la alteridad).."
         }
       ]
     },
@@ -18544,7 +18544,7 @@
             "El matrimonio (Pintxos)"
           ],
           "answerIndex": 2,
-          "explanation": "La Gilda."
+          "explanation": "Correct answer: \"La Gilda (Pintxos)\". This directly applies the principle of: Pintxos, Gastronomic Societies & Basque Culinary Alchemy: Donostia / San Sebastián (Donostia-San Sebastián - la capital mundial de la gastronomía por metro cuadrado; los pintxos de la Parte Vieja, la Gilda de 1946 (guindilla de Ibarra, anchoa del Cantábrico y aceituna manzanilla), las sociedades gastronómicas masculinas (txokos), la sidra natural y el Txakoli con Denominación de Origen Getariako Txakolina).."
         }
       ]
     },
@@ -18668,7 +18668,7 @@
             "Terra rossa (C2 synthesis on Spanish Oenology)"
           ],
           "answerIndex": 1,
-          "explanation": "Albariza.",
+          "explanation": "Correct answer: \"Albariza (C2 synthesis on Spanish Oenology)\". This directly applies the principle of: C2 synthesis on Spanish Oenology, Terroir & The Solera System: Rioja, Ribera del Duero & Jerez (La uva Tempranillo; clasificaciones de crianza: Roble, Crianza, Reserva y Gran Reserva; el terroir arcillo-calcáreo de Rioja Alta y Alavesa; Vega Sicilia en Ribera del Duero; el sistema dinámico de criaderas y soleras bajo velo de flor en el Marco de Jerez - Fino, Manzanilla, Amontillado y Palo Cortado)..",
           "type": "multiple-choice"
         }
       ],
@@ -19705,7 +19705,8 @@
           "expectedKeywords": [
             "El",
             "embajador"
-          ]
+          ],
+          "explanation": "Correct answer: \"El embajador presentó sus cartas credenciales ante el jefe de Estado.\". This directly applies the principle of: Diplomatic Protocols, Credentials & High-Level Bilateral Negotiations (Protocolo Diplomático y Tratados Bilaterales).."
         }
       ]
     },
@@ -19746,7 +19747,8 @@
           "expectedKeywords": [
             "El",
             "embajador"
-          ]
+          ],
+          "explanation": "Correct answer: \"El embajador presentó sus cartas credenciales ante el jefe de Estado.\". This directly applies the principle of: Diplomatic Protocols, Credentials & High-Level Bilateral Negotiations (Protocolo Diplomático y Tratados Bilaterales).."
         }
       ]
     }
@@ -19800,7 +19802,8 @@
           "expectedKeywords": [
             "El",
             "instrumento"
-          ]
+          ],
+          "explanation": "Correct answer: \"El instrumento de ratificación fue depositado en la Secretaría General.\". This directly applies the principle of: Multilateral Treaties, Ratification & Treaty Reservations (Tratados Multilaterales y Ratificación).."
         }
       ]
     },
@@ -19829,7 +19832,8 @@
           "expectedKeywords": [
             "El",
             "instrumento"
-          ]
+          ],
+          "explanation": "Correct answer: \"El instrumento de ratificación fue depositado en la Secretaría General.\". This directly applies the principle of: Multilateral Treaties, Ratification & Treaty Reservations (Tratados Multilaterales y Ratificación).."
         }
       ]
     }
@@ -19883,7 +19887,8 @@
           "expectedKeywords": [
             "El",
             "Consejo"
-          ]
+          ],
+          "explanation": "Correct answer: \"El Consejo de Seguridad renovó por unanimidad el mandato de la misión de paz.\". This directly applies the principle of: Peacekeeping Mandates, Conflict Resolution & Armistice Agreements (Misiones de Paz y Armisticios).."
         }
       ]
     },
@@ -19912,7 +19917,8 @@
           "expectedKeywords": [
             "El",
             "Consejo"
-          ]
+          ],
+          "explanation": "Correct answer: \"El Consejo de Seguridad renovó por unanimidad el mandato de la misión de paz.\". This directly applies the principle of: Peacekeeping Mandates, Conflict Resolution & Armistice Agreements (Misiones de Paz y Armisticios).."
         }
       ]
     }
@@ -19966,7 +19972,8 @@
           "expectedKeywords": [
             "Las",
             "sanciones"
-          ]
+          ],
+          "explanation": "Correct answer: \"Las sanciones económicas contemplan la congelación cautelar de activos bancarios.\". This directly applies the principle of: International Sanctions, Embargoes & Extraterritorial Jurisdiction (Sanciones Internacionales y Jurisdicción Extraterritorial).."
         }
       ]
     },
@@ -19995,7 +20002,8 @@
           "expectedKeywords": [
             "Las",
             "sanciones"
-          ]
+          ],
+          "explanation": "Correct answer: \"Las sanciones económicas contemplan la congelación cautelar de activos bancarios.\". This directly applies the principle of: International Sanctions, Embargoes & Extraterritorial Jurisdiction (Sanciones Internacionales y Jurisdicción Extraterritorial).."
         }
       ]
     }
@@ -20049,7 +20057,8 @@
           "expectedKeywords": [
             "Los",
             "Estados"
-          ]
+          ],
+          "explanation": "Correct answer: \"Los Estados parte reafirman su compromiso irrenunciable con la solución pacífica de controversias.\". This directly applies the principle of: C2 Capstone Defense: Multilateral Communiqué Drafting & High-Stakes Diplomacy Simulation (Cumbre Diplomática y Comunicado Final).."
         }
       ]
     },
@@ -20078,7 +20087,8 @@
           "expectedKeywords": [
             "Los",
             "Estados"
-          ]
+          ],
+          "explanation": "Correct answer: \"Los Estados parte reafirman su compromiso irrenunciable con la solución pacífica de controversias.\". This directly applies the principle of: C2 Capstone Defense: Multilateral Communiqué Drafting & High-Stakes Diplomacy Simulation (Cumbre Diplomática y Comunicado Final).."
         }
       ]
     }

@@ -156,22 +156,26 @@
         {
           "pattern": ".",
           "character": "E",
-          "description": "A single short tap — the shortest possible Morse character."
+          "description": "A single short tap — the shortest possible Morse character.",
+          "target": "Core example"
         },
         {
           "pattern": "-",
           "character": "T",
-          "description": "A single long tap — held roughly three times as long as a dit."
+          "description": "A single long tap — held roughly three times as long as a dit.",
+          "target": "Core example"
         },
         {
           "pattern": ". -",
           "character": "E T",
-          "description": "Two characters with a normal inter-character gap (wide, Farnsworth-spaced) between them."
+          "description": "Two characters with a normal inter-character gap (wide, Farnsworth-spaced) between them.",
+          "target": "Core example"
         },
         {
           "pattern": "- .",
           "character": "T E",
-          "description": "Same two characters, reversed order, to break simple memorized-sequence guessing."
+          "description": "Same two characters, reversed order, to break simple memorized-sequence guessing.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -184,28 +188,32 @@
           "type": "decode",
           "prompt": "Decode this pattern: \".\"",
           "answer": "E",
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"E\". This directly applies the principle of: Recognize and send the letters E and T by their rhythm alone, at full character speed with wide spacing.."
         },
         {
           "id": "morse-u1-l1-q2",
           "type": "decode",
           "prompt": "Decode this pattern: \"-\"",
           "answer": "T",
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"T\". This directly applies the principle of: Recognize and send the letters E and T by their rhythm alone, at full character speed with wide spacing.."
         },
         {
           "id": "morse-u1-l1-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for the letter T.",
           "answer": "-",
-          "difficulty": 500
+          "difficulty": 500,
+          "explanation": "Correct answer: \"-\". This directly applies the principle of: Recognize and send the letters E and T by their rhythm alone, at full character speed with wide spacing.."
         },
         {
           "id": "morse-u1-l1-q4",
           "type": "decode",
           "prompt": "Decode this two-character sequence: \". -\"",
           "answer": "ET",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"ET\". This directly applies the principle of: Recognize and send the letters E and T by their rhythm alone, at full character speed with wide spacing.."
         }
       ]
     },
@@ -223,22 +231,26 @@
         {
           "pattern": "..",
           "character": "I",
-          "description": "Two short dits, evenly spaced within the character."
+          "description": "Two short dits, evenly spaced within the character.",
+          "target": "Core example"
         },
         {
           "pattern": "--",
           "character": "M",
-          "description": "Two long dahs — often described as sounding like \"dah-dah.\""
+          "description": "Two long dahs — often described as sounding like \"dah-dah.\"",
+          "target": "Core example"
         },
         {
           "pattern": ". .. - --",
           "character": "E I T M",
-          "description": "All four learned characters mixed in one drill line, wide-spaced."
+          "description": "All four learned characters mixed in one drill line, wide-spaced.",
+          "target": "Core example"
         },
         {
           "pattern": "-- .. - .",
           "character": "M I T E",
-          "description": "Same character set, scrambled order, to prevent sequence memorization."
+          "description": "Same character set, scrambled order, to prevent sequence memorization.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -251,28 +263,32 @@
           "type": "decode",
           "prompt": "Decode: \"..\"",
           "answer": "I",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"I\". This directly applies the principle of: Recognize and send the letters I and M, and copy them mixed with E and T.."
         },
         {
           "id": "morse-u1-l2-q2",
           "type": "decode",
           "prompt": "Decode: \"--\"",
           "answer": "M",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"M\". This directly applies the principle of: Recognize and send the letters I and M, and copy them mixed with E and T.."
         },
         {
           "id": "morse-u1-l2-q3",
           "type": "decode",
           "prompt": "Decode this mixed sequence: \". -- . -\"",
           "answer": "EMET",
-          "difficulty": 580
+          "difficulty": 580,
+          "explanation": "Correct answer: \"EMET\". This directly applies the principle of: Recognize and send the letters I and M, and copy them mixed with E and T.."
         },
         {
           "id": "morse-u1-l2-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"TIE\" is not valid yet (no letters beyond E T I M) — instead encode \"MITE\" using only known letters E T I M.",
           "answer": "-- .. - .",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"-- .. - .\". This directly applies the principle of: Recognize and send the letters I and M, and copy them mixed with E and T.."
         }
       ]
     },
@@ -290,22 +306,26 @@
         {
           "pattern": "...",
           "character": "S",
-          "description": "Three short dits in a row — a distinctive rapid rhythm."
+          "description": "Three short dits in a row — a distinctive rapid rhythm.",
+          "target": "Core example"
         },
         {
           "pattern": "---",
           "character": "O",
-          "description": "Three long dahs — a slow, heavy rhythm, the clear opposite of S."
+          "description": "Three long dahs — a slow, heavy rhythm, the clear opposite of S.",
+          "target": "Core example"
         },
         {
           "pattern": "... --- ...",
           "character": "SOS",
-          "description": "The international distress signal — sent as one continuous rhythmic unit, not three separate letters with big gaps."
+          "description": "The international distress signal — sent as one continuous rhythmic unit, not three separate letters with big gaps.",
+          "target": "Core example"
         },
         {
           "pattern": ". .. - -- ... ---",
           "character": "E I T M S O",
-          "description": "Full six-character review drill, wide-spaced."
+          "description": "Full six-character review drill, wide-spaced.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -318,28 +338,32 @@
           "type": "decode",
           "prompt": "Decode: \"...\"",
           "answer": "S",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"S\". This directly applies the principle of: Recognize and send the letters S and O, including the international distress signal SOS.."
         },
         {
           "id": "morse-u1-l3-q2",
           "type": "decode",
           "prompt": "Decode: \"---\"",
           "answer": "O",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"O\". This directly applies the principle of: Recognize and send the letters S and O, including the international distress signal SOS.."
         },
         {
           "id": "morse-u1-l3-q3",
           "type": "decode",
           "prompt": "Decode the famous distress signal: \"... --- ...\"",
           "answer": "SOS",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"SOS\". This directly applies the principle of: Recognize and send the letters S and O, including the international distress signal SOS.."
         },
         {
           "id": "morse-u1-l3-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for \"TOOTS\" using only known letters (T O S).",
           "answer": "- --- --- - ...",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"- --- --- - ...\". This directly applies the principle of: Recognize and send the letters S and O, including the international distress signal SOS.."
         }
       ]
     },
@@ -357,22 +381,26 @@
         {
           "pattern": ".-",
           "character": "A",
-          "description": "Dit then dah — short-long."
+          "description": "Dit then dah — short-long.",
+          "target": "Core example"
         },
         {
           "pattern": "-.",
           "character": "N",
-          "description": "Dah then dit — long-short, the mirror image of A."
+          "description": "Dah then dit — long-short, the mirror image of A.",
+          "target": "Core example"
         },
         {
           "pattern": ".- -.",
           "character": "A N",
-          "description": "The mirror pair back to back — listen for which comes first."
+          "description": "The mirror pair back to back — listen for which comes first.",
+          "target": "Core example"
         },
         {
           "pattern": "- . ... - / .- -. -",
           "character": "TEST ANT",
-          "description": "First real two-word drill using only the eight foundation characters."
+          "description": "First real two-word drill using only the eight foundation characters.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -385,28 +413,32 @@
           "type": "decode",
           "prompt": "Decode: \".-\"",
           "answer": "A",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"A\". This directly applies the principle of: Recognize and send the letters A and N, completing the eight-character foundation group.."
         },
         {
           "id": "morse-u1-l4-q2",
           "type": "decode",
           "prompt": "Decode: \"-.\"",
           "answer": "N",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"N\". This directly applies the principle of: Recognize and send the letters A and N, completing the eight-character foundation group.."
         },
         {
           "id": "morse-u1-l4-q3",
           "type": "decode",
           "prompt": "Decode this word: \"- . ...\"",
           "answer": "TES",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"TES\". This directly applies the principle of: Recognize and send the letters A and N, completing the eight-character foundation group.."
         },
         {
           "id": "morse-u1-l4-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for \"ANT\" using the foundation group.",
           "answer": ".- -. -",
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \".- -. -\". This directly applies the principle of: Recognize and send the letters A and N, completing the eight-character foundation group.."
         }
       ]
     },
@@ -424,12 +456,14 @@
         {
           "pattern": "-- .- - / ... . - / - --- -. .",
           "character": "MAT SET TONE (approx, using only ETIMSOAN letters where possible)",
-          "description": "Multi-word drill line at wide spacing."
+          "description": "Multi-word drill line at wide spacing.",
+          "target": "Core example"
         },
         {
           "pattern": ".- / -. / ... / - / --- / -- / . / ..",
           "character": "A N S T O M E I",
-          "description": "All eight foundation letters presented individually as a final speed check."
+          "description": "All eight foundation letters presented individually as a final speed check.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -442,28 +476,32 @@
           "type": "decode",
           "prompt": "Decode this word: \".- -. -\"",
           "answer": "ANT",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"ANT\". This directly applies the principle of: Copy full words built from the eight foundation characters (E T I M S O A N) at full character speed with wide spacing.."
         },
         {
           "id": "morse-u1-l5-q2",
           "type": "decode",
           "prompt": "Decode this word: \"-- --- ... -\"",
           "answer": "MOST",
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"MOST\". This directly applies the principle of: Copy full words built from the eight foundation characters (E T I M S O A N) at full character speed with wide spacing.."
         },
         {
           "id": "morse-u1-l5-q3",
           "type": "decode",
           "prompt": "Decode this two-word phrase: \"-- . .- -. / - . ... -\"",
           "answer": "MEAN TEST",
-          "difficulty": 680
+          "difficulty": 680,
+          "explanation": "Correct answer: \"MEAN TEST\". This directly applies the principle of: Copy full words built from the eight foundation characters (E T I M S O A N) at full character speed with wide spacing.."
         },
         {
           "id": "morse-u1-l5-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"NOTE\".",
           "answer": "-. --- - .",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"-. --- - .\". This directly applies the principle of: Copy full words built from the eight foundation characters (E T I M S O A N) at full character speed with wide spacing.."
         }
       ]
     },
@@ -481,22 +519,26 @@
         {
           "pattern": "....",
           "character": "H",
-          "description": "Four short dits in a row — count them; this is easy to under-count as S (three dits)."
+          "description": "Four short dits in a row — count them; this is easy to under-count as S (three dits).",
+          "target": "Core example"
         },
         {
           "pattern": "..-",
           "character": "U",
-          "description": "Dit-dit-dah — two short beats followed by one long one."
+          "description": "Dit-dit-dah — two short beats followed by one long one.",
+          "target": "Core example"
         },
         {
           "pattern": "- ..- -",
           "character": "T U T",
-          "description": "U sandwiched between two foundation letters, to test the new rhythm in context."
+          "description": "U sandwiched between two foundation letters, to test the new rhythm in context.",
+          "target": "Core example"
         },
         {
           "pattern": ".... ..- -",
           "character": "HUT",
-          "description": "A full three-letter word using only H, U, and the foundation group."
+          "description": "A full three-letter word using only H, U, and the foundation group.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -509,28 +551,32 @@
           "type": "decode",
           "prompt": "Decode: \"....\"",
           "answer": "H",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"H\". This directly applies the principle of: Recognize and send H and U, mixed with the foundation group.."
         },
         {
           "id": "morse-u2-l1-q2",
           "type": "decode",
           "prompt": "Decode: \"..-\"",
           "answer": "U",
-          "difficulty": 600
+          "difficulty": 600,
+          "explanation": "Correct answer: \"U\". This directly applies the principle of: Recognize and send H and U, mixed with the foundation group.."
         },
         {
           "id": "morse-u2-l1-q3",
           "type": "decode",
           "prompt": "Decode this word: \".... ..- -\"",
           "answer": "HUT",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"HUT\". This directly applies the principle of: Recognize and send H and U, mixed with the foundation group.."
         },
         {
           "id": "morse-u2-l1-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"SUIT\".",
           "answer": "... ..- .. -",
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"... ..- .. -\". This directly applies the principle of: Recognize and send H and U, mixed with the foundation group.."
         }
       ]
     },
@@ -548,22 +594,26 @@
         {
           "pattern": ".-.",
           "character": "R",
-          "description": "Dit-dah-dit — a short-long-short \"bounce\" pattern."
+          "description": "Dit-dah-dit — a short-long-short \"bounce\" pattern.",
+          "target": "Core example"
         },
         {
           "pattern": ".--",
           "character": "W",
-          "description": "Dit-dah-dah — one short beat, then two long ones."
+          "description": "Dit-dah-dah — one short beat, then two long ones.",
+          "target": "Core example"
         },
         {
           "pattern": ".-- .- .-.",
           "character": "WAR",
-          "description": "A full word combining both new letters with a foundation letter."
+          "description": "A full word combining both new letters with a foundation letter.",
+          "target": "Core example"
         },
         {
           "pattern": "... - .-. .- .--",
           "character": "STRAW",
-          "description": "A five-letter word — the longest yet — mixing new and foundation characters."
+          "description": "A five-letter word — the longest yet — mixing new and foundation characters.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -576,28 +626,32 @@
           "type": "decode",
           "prompt": "Decode: \".-.\"",
           "answer": "R",
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"R\". This directly applies the principle of: Recognize and send R and W, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l2-q2",
           "type": "decode",
           "prompt": "Decode: \".--\"",
           "answer": "W",
-          "difficulty": 620
+          "difficulty": 620,
+          "explanation": "Correct answer: \"W\". This directly applies the principle of: Recognize and send R and W, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l2-q3",
           "type": "decode",
           "prompt": "Decode this word: \".-- .- .-.\"",
           "answer": "WAR",
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"WAR\". This directly applies the principle of: Recognize and send R and W, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l2-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"STRAW\".",
           "answer": "... - .-. .- .--",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"... - .-. .- .--\". This directly applies the principle of: Recognize and send R and W, mixed with all letters learned so far.."
         }
       ]
     },
@@ -615,22 +669,26 @@
         {
           "pattern": "-..",
           "character": "D",
-          "description": "Dah-dit-dit — one long beat, then two short."
+          "description": "Dah-dit-dit — one long beat, then two short.",
+          "target": "Core example"
         },
         {
           "pattern": "-.-",
           "character": "K",
-          "description": "Dah-dit-dah — long-short-long; also the prosign for \"go ahead.\""
+          "description": "Dah-dit-dah — long-short-long; also the prosign for \"go ahead.\"",
+          "target": "Core example"
         },
         {
           "pattern": "-.. .- .-. -.-",
           "character": "DARK",
-          "description": "Both new letters combined with two foundation-group letters."
+          "description": "Both new letters combined with two foundation-group letters.",
+          "target": "Core example"
         },
         {
           "pattern": "-.- .. -.. / -.. .- .-.",
           "character": "KID DAR (fragment review)",
-          "description": "A short two-part drill line reinforcing D and K in different word positions."
+          "description": "A short two-part drill line reinforcing D and K in different word positions.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -643,28 +701,32 @@
           "type": "decode",
           "prompt": "Decode: \"-..\"",
           "answer": "D",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"D\". This directly applies the principle of: Recognize and send D and K, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l3-q2",
           "type": "decode",
           "prompt": "Decode: \"-.-\"",
           "answer": "K",
-          "difficulty": 640
+          "difficulty": 640,
+          "explanation": "Correct answer: \"K\". This directly applies the principle of: Recognize and send D and K, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l3-q3",
           "type": "decode",
           "prompt": "Decode this word: \"-.. .- .-. -.-\"",
           "answer": "DARK",
-          "difficulty": 680
+          "difficulty": 680,
+          "explanation": "Correct answer: \"DARK\". This directly applies the principle of: Recognize and send D and K, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l3-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"KID\".",
           "answer": "-.- .. -..",
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"-.- .. -..\". This directly applies the principle of: Recognize and send D and K, mixed with all letters learned so far.."
         }
       ]
     },
@@ -682,22 +744,26 @@
         {
           "pattern": "--.",
           "character": "G",
-          "description": "Dah-dah-dit — like O with a shortened final beat."
+          "description": "Dah-dah-dit — like O with a shortened final beat.",
+          "target": "Core example"
         },
         {
           "pattern": ".-..",
           "character": "L",
-          "description": "Dit-dah-dit-dit — the longest character so far; four distinct beats."
+          "description": "Dit-dah-dit-dit — the longest character so far; four distinct beats.",
+          "target": "Core example"
         },
         {
           "pattern": "--. .. .-. .-..",
           "character": "GIRL",
-          "description": "Both new letters in one natural English word."
+          "description": "Both new letters in one natural English word.",
+          "target": "Core example"
         },
         {
           "pattern": "--. --- .-.. -..",
           "character": "GOLD",
-          "description": "A second full word, reviewing G, O, L, and D together."
+          "description": "A second full word, reviewing G, O, L, and D together.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -710,28 +776,32 @@
           "type": "decode",
           "prompt": "Decode: \"--.\"",
           "answer": "G",
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"G\". This directly applies the principle of: Recognize and send G and L, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l4-q2",
           "type": "decode",
           "prompt": "Decode: \".-..\"",
           "answer": "L",
-          "difficulty": 660
+          "difficulty": 660,
+          "explanation": "Correct answer: \"L\". This directly applies the principle of: Recognize and send G and L, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l4-q3",
           "type": "decode",
           "prompt": "Decode this word: \"--. .. .-. .-..\"",
           "answer": "GIRL",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"GIRL\". This directly applies the principle of: Recognize and send G and L, mixed with all letters learned so far.."
         },
         {
           "id": "morse-u2-l4-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"GOLD\".",
           "answer": "--. --- .-.. -..",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"--. --- .-.. -..\". This directly applies the principle of: Recognize and send G and L, mixed with all letters learned so far.."
         }
       ]
     },
@@ -749,17 +819,20 @@
         {
           "pattern": "... - --- .-. --",
           "character": "STORM",
-          "description": "A five-letter word using S, T, O, R, M."
+          "description": "A five-letter word using S, T, O, R, M.",
+          "target": "Core example"
         },
         {
           "pattern": ".-- .- .-. -. .. -. --.",
           "character": "WARNING",
-          "description": "A seven-letter word — the longest single word yet."
+          "description": "A seven-letter word — the longest single word yet.",
+          "target": "Core example"
         },
         {
           "pattern": "... - --- .-. -- / .-- .- .-. -. .. -. --.",
           "character": "STORM WARNING",
-          "description": "The full two-word phrase, exactly as it would be sent: a real, readable message built entirely from this unit's sixteen characters."
+          "description": "The full two-word phrase, exactly as it would be sent: a real, readable message built entirely from this unit's sixteen characters.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -772,28 +845,32 @@
           "type": "decode",
           "prompt": "Decode this word: \"... - --- .-. --\"",
           "answer": "STORM",
-          "difficulty": 680
+          "difficulty": 680,
+          "explanation": "Correct answer: \"STORM\". This directly applies the principle of: Copy full words built from the sixteen-character expansion group at wide spacing.."
         },
         {
           "id": "morse-u2-l5-q2",
           "type": "decode",
           "prompt": "Decode this word: \".-- .- .-. -. .. -. --.\"",
           "answer": "WARNING",
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"WARNING\". This directly applies the principle of: Copy full words built from the sixteen-character expansion group at wide spacing.."
         },
         {
           "id": "morse-u2-l5-q3",
           "type": "decode",
           "prompt": "Decode the full message: \"... - --- .-. -- / .-- .- .-. -. .. -. --.\"",
           "answer": "STORM WARNING",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"STORM WARNING\". This directly applies the principle of: Copy full words built from the sixteen-character expansion group at wide spacing.."
         },
         {
           "id": "morse-u2-l5-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"DRAWN\".",
           "answer": "-.. .-. .- .-- -.",
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"-.. .-. .- .-- -.\". This directly applies the principle of: Copy full words built from the sixteen-character expansion group at wide spacing.."
         }
       ]
     },
@@ -811,22 +888,26 @@
         {
           "pattern": "-...",
           "character": "B",
-          "description": "Dah then three dits — the letter D with one extra dit appended."
+          "description": "Dah then three dits — the letter D with one extra dit appended.",
+          "target": "Core example"
         },
         {
           "pattern": "-.-.",
           "character": "C",
-          "description": "Dah-dit-dah-dit — the letter K with one extra dit appended; easy to confuse with K if you rush."
+          "description": "Dah-dit-dah-dit — the letter K with one extra dit appended; easy to confuse with K if you rush.",
+          "target": "Core example"
         },
         {
           "pattern": "-.-. .- -...",
           "character": "CAB",
-          "description": "A full three-letter word using both new letters plus a foundation letter."
+          "description": "A full three-letter word using both new letters plus a foundation letter.",
+          "target": "Core example"
         },
         {
           "pattern": "-... .-.. .- -.-. -.-",
           "character": "BLACK",
-          "description": "A five-letter word mixing B and C with three letters from earlier units — the longest word yet."
+          "description": "A five-letter word mixing B and C with three letters from earlier units — the longest word yet.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -839,14 +920,16 @@
           "type": "decode",
           "prompt": "Decode: \"-...\"",
           "answer": "B",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"B\". This directly applies the principle of: Recognize and send B and C, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l1-q2",
           "type": "decode",
           "prompt": "Decode: \"-.-.\"",
           "answer": "C",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"C\". This directly applies the principle of: Recognize and send B and C, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l1-q3",
@@ -860,21 +943,24 @@
           ],
           "answer": "D",
           "difficulty": 720,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"D\". This directly applies the principle of: Recognize and send B and C, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l1-q4",
           "type": "decode",
           "prompt": "Decode this word: \"-... .-.. .- -.-. -.-\"",
           "answer": "BLACK",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"BLACK\". This directly applies the principle of: Recognize and send B and C, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l1-q5",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"BASIC\".",
           "answer": "-... .- ... .. -.-.",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"-... .- ... .. -.-.\". This directly applies the principle of: Recognize and send B and C, mixed with all prior letters.."
         }
       ]
     },
@@ -892,22 +978,26 @@
         {
           "pattern": "..-.",
           "character": "F",
-          "description": "Dit-dit-dah-dit — an irregular, stumbling rhythm; say it slowly at first."
+          "description": "Dit-dit-dah-dit — an irregular, stumbling rhythm; say it slowly at first.",
+          "target": "Core example"
         },
         {
           "pattern": ".---",
           "character": "J",
-          "description": "Dit then three dahs — the mirror image of B, which is dah then three dits."
+          "description": "Dit then three dahs — the mirror image of B, which is dah then three dits.",
+          "target": "Core example"
         },
         {
           "pattern": "..-. .. ... -",
           "character": "FIST",
-          "description": "The real ham-radio word for a sender's personal rhythm — fittingly, a word about Morse itself."
+          "description": "The real ham-radio word for a sender's personal rhythm — fittingly, a word about Morse itself.",
+          "target": "Core example"
         },
         {
           "pattern": ".--- .- -...",
           "character": "JAB",
-          "description": "A short word putting J right next to last lesson's B."
+          "description": "A short word putting J right next to last lesson's B.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -920,28 +1010,32 @@
           "type": "decode",
           "prompt": "Decode: \"..-.\"",
           "answer": "F",
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"F\". This directly applies the principle of: Recognize and send F and J, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l2-q2",
           "type": "decode",
           "prompt": "Decode: \".---\"",
           "answer": "J",
-          "difficulty": 720
+          "difficulty": 720,
+          "explanation": "Correct answer: \"J\". This directly applies the principle of: Recognize and send F and J, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l2-q3",
           "type": "decode",
           "prompt": "Decode this word: \"..-. .. ... -\"",
           "answer": "FIST",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"FIST\". This directly applies the principle of: Recognize and send F and J, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l2-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"JOB\".",
           "answer": ".--- --- -...",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \".--- --- -...\". This directly applies the principle of: Recognize and send F and J, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l2-q5",
@@ -955,7 +1049,8 @@
           ],
           "answer": "One dah, then three dits",
           "difficulty": 700,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"One dah, then three dits\". This directly applies the principle of: Recognize and send F and J, mixed with all prior letters.."
         }
       ]
     },
@@ -973,22 +1068,26 @@
         {
           "pattern": ".--.",
           "character": "P",
-          "description": "Dit-dah-dah-dit — a symmetric \"bookend\" rhythm, short-long-long-short."
+          "description": "Dit-dah-dah-dit — a symmetric \"bookend\" rhythm, short-long-long-short.",
+          "target": "Core example"
         },
         {
           "pattern": "--.-",
           "character": "Q",
-          "description": "Dah-dah-dit-dah — rare in English words, but famous in radio as half of \"CQ.\""
+          "description": "Dah-dah-dit-dah — rare in English words, but famous in radio as half of \"CQ.\"",
+          "target": "Core example"
         },
         {
           "pattern": "-.-. --.-",
           "character": "CQ",
-          "description": "The most famous two-letter call in amateur radio: \"calling any station.\" You'll learn its full meaning as a prosign in Unit 6 — for now, just recognize the sound."
+          "description": "The most famous two-letter call in amateur radio: \"calling any station.\" You'll learn its full meaning as a prosign in Unit 6 — for now, just recognize the sound.",
+          "target": "Core example"
         },
         {
           "pattern": ".--. .- .-. -.-",
           "character": "PARK",
-          "description": "A full word using the new letter P alongside three earlier letters."
+          "description": "A full word using the new letter P alongside three earlier letters.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1001,35 +1100,40 @@
           "type": "decode",
           "prompt": "Decode: \".--.\"",
           "answer": "P",
-          "difficulty": 740
+          "difficulty": 740,
+          "explanation": "Correct answer: \"P\". This directly applies the principle of: Recognize and send P and Q, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l3-q2",
           "type": "decode",
           "prompt": "Decode: \"--.-\"",
           "answer": "Q",
-          "difficulty": 740
+          "difficulty": 740,
+          "explanation": "Correct answer: \"Q\". This directly applies the principle of: Recognize and send P and Q, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l3-q3",
           "type": "decode",
           "prompt": "Decode this famous radio call: \"-.-. --.-\"",
           "answer": "CQ",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"CQ\". This directly applies the principle of: Recognize and send P and Q, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l3-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"QUIT\".",
           "answer": "--.- ..- .. -",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"--.- ..- .. -\". This directly applies the principle of: Recognize and send P and Q, mixed with all prior letters.."
         },
         {
           "id": "morse-u3-l3-q5",
           "type": "decode",
           "prompt": "Decode this word: \".--. .- .-. -.-\"",
           "answer": "PARK",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"PARK\". This directly applies the principle of: Recognize and send P and Q, mixed with all prior letters.."
         }
       ]
     },
@@ -1047,27 +1151,32 @@
         {
           "pattern": "...-",
           "character": "V",
-          "description": "Three dits and a dah — the opening rhythm of Beethoven's Fifth Symphony, and the WWII \"V for Victory\" signal."
+          "description": "Three dits and a dah — the opening rhythm of Beethoven's Fifth Symphony, and the WWII \"V for Victory\" signal.",
+          "target": "Core example"
         },
         {
           "pattern": "-..-",
           "character": "X",
-          "description": "Dah-dit-dit-dah — a second \"bookend\" pattern, long-short-short-long, mirroring P's short-long-long-short."
+          "description": "Dah-dit-dit-dah — a second \"bookend\" pattern, long-short-short-long, mirroring P's short-long-long-short.",
+          "target": "Core example"
         },
         {
           "pattern": "-.--",
           "character": "Y",
-          "description": "Dah-dit-dah-dah — three of the four beats are dahs; only the second beat is short."
+          "description": "Dah-dit-dah-dah — three of the four beats are dahs; only the second beat is short.",
+          "target": "Core example"
         },
         {
           "pattern": "--..",
           "character": "Z",
-          "description": "Dah-dah-dit-dit — the letter G (\"--.\") with one extra dit appended, the same relationship as B-to-D."
+          "description": "Dah-dah-dit-dit — the letter G (\"--.\") with one extra dit appended, the same relationship as B-to-D.",
+          "target": "Core example"
         },
         {
           "pattern": ".--- .- --.. --..",
           "character": "JAZZ",
-          "description": "A full word combining a Lesson 2 letter (J) with the newest letter (Z) — real, playable, and now fully within reach."
+          "description": "A full word combining a Lesson 2 letter (J) with the newest letter (Z) — real, playable, and now fully within reach.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1080,35 +1189,40 @@
           "type": "decode",
           "prompt": "Decode: \"...-\"",
           "answer": "V",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"V\". This directly applies the principle of: Recognize and send V, X, Y, and Z, completing the full alphabet.."
         },
         {
           "id": "morse-u3-l4-q2",
           "type": "decode",
           "prompt": "Decode: \"-..-\"",
           "answer": "X",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"X\". This directly applies the principle of: Recognize and send V, X, Y, and Z, completing the full alphabet.."
         },
         {
           "id": "morse-u3-l4-q3",
           "type": "decode",
           "prompt": "Decode: \"-.--\"",
           "answer": "Y",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"Y\". This directly applies the principle of: Recognize and send V, X, Y, and Z, completing the full alphabet.."
         },
         {
           "id": "morse-u3-l4-q4",
           "type": "decode",
           "prompt": "Decode: \"--..\"",
           "answer": "Z",
-          "difficulty": 760
+          "difficulty": 760,
+          "explanation": "Correct answer: \"Z\". This directly applies the principle of: Recognize and send V, X, Y, and Z, completing the full alphabet.."
         },
         {
           "id": "morse-u3-l4-q5",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"FIX\", now that X is in your alphabet.",
           "answer": "..-. .. -..-",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"..-. .. -..-\". This directly applies the principle of: Recognize and send V, X, Y, and Z, completing the full alphabet.."
         },
         {
           "id": "morse-u3-l4-q6",
@@ -1122,7 +1236,8 @@
           ],
           "answer": "The opening of Beethoven's Fifth Symphony",
           "difficulty": 720,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"The opening of Beethoven's Fifth Symphony\". This directly applies the principle of: Recognize and send V, X, Y, and Z, completing the full alphabet.."
         }
       ]
     },
@@ -1140,22 +1255,26 @@
         {
           "pattern": "- .... . / --.- ..- .. -.-. -.-",
           "character": "THE QUICK",
-          "description": "The pangram's opening two words."
+          "description": "The pangram's opening two words.",
+          "target": "Core example"
         },
         {
           "pattern": "-... .-. --- .-- -. / ..-. --- -..-",
           "character": "BROWN FOX",
-          "description": "Two more words — notice O and W both reappear from earlier units."
+          "description": "Two more words — notice O and W both reappear from earlier units.",
+          "target": "Core example"
         },
         {
           "pattern": ".--- ..- -- .--. ... / --- ...- . .-.",
           "character": "JUMPS OVER",
-          "description": "The middle of the sentence, mixing J and P with common foundation letters."
+          "description": "The middle of the sentence, mixing J and P with common foundation letters.",
+          "target": "Core example"
         },
         {
           "pattern": "- .... . / --.- ..- .. -.-. -.- / -... .-. --- .-- -. / ..-. --- -..- / .--- ..- -- .--. ... / --- ...- . .-. / - .... . / .-.. .- --.. -.-- / -.. --- --.",
           "character": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
-          "description": "The complete pangram — every letter of the alphabet, sent as one continuous message. This is the \"STORM WARNING\" moment for the full 26-letter alphabet."
+          "description": "The complete pangram — every letter of the alphabet, sent as one continuous message. This is the \"STORM WARNING\" moment for the full 26-letter alphabet.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1168,35 +1287,40 @@
           "type": "decode",
           "prompt": "Decode this word: \"..-. --- -..-\"",
           "answer": "FOX",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"FOX\". This directly applies the principle of: Copy full sentences using the complete 26-letter alphabet at wide spacing.."
         },
         {
           "id": "morse-u3-l5-q2",
           "type": "decode",
           "prompt": "Decode this word: \".-.. .- --.. -.--\"",
           "answer": "LAZY",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"LAZY\". This directly applies the principle of: Copy full sentences using the complete 26-letter alphabet at wide spacing.."
         },
         {
           "id": "morse-u3-l5-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"DOG\".",
           "answer": "-.. --- --.",
-          "difficulty": 780
+          "difficulty": 780,
+          "explanation": "Correct answer: \"-.. --- --.\". This directly applies the principle of: Copy full sentences using the complete 26-letter alphabet at wide spacing.."
         },
         {
           "id": "morse-u3-l5-q4",
           "type": "decode",
           "prompt": "Decode the complete pangram: \"- .... . / --.- ..- .. -.-. -.- / -... .-. --- .-- -. / ..-. --- -..- / .--- ..- -- .--. ... / --- ...- . .-. / - .... . / .-.. .- --.. -.-- / -.. --- --.\"",
           "answer": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\". This directly applies the principle of: Copy full sentences using the complete 26-letter alphabet at wide spacing.."
         },
         {
           "id": "morse-u3-l5-q5",
           "type": "short-answer",
           "prompt": "What is special about the sentence \"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\"?",
           "answer": "It is a pangram — a sentence that uses every letter of the alphabet at least once.",
-          "difficulty": 700
+          "difficulty": 700,
+          "explanation": "Correct answer: \"It is a pangram — a sentence that uses every letter of the alphabet at least once.\". This directly applies the principle of: Copy full sentences using the complete 26-letter alphabet at wide spacing.."
         }
       ]
     },
@@ -1214,22 +1338,26 @@
         {
           "pattern": "-.. / -...",
           "character": "D / B",
-          "description": "D, then B — B is D with one extra dit. Say them back-to-back until the difference is instant, not counted."
+          "description": "D, then B — B is D with one extra dit. Say them back-to-back until the difference is instant, not counted.",
+          "target": "Core example"
         },
         {
           "pattern": "-.- / -.-.",
           "character": "K / C",
-          "description": "K, then C — the exact same relationship as D/B, one beat apart."
+          "description": "K, then C — the exact same relationship as D/B, one beat apart.",
+          "target": "Core example"
         },
         {
           "pattern": ".- / -.",
           "character": "A / N",
-          "description": "A, then N — true mirror images. Listen for which beat comes first, not how many beats there are."
+          "description": "A, then N — true mirror images. Listen for which beat comes first, not how many beats there are.",
+          "target": "Core example"
         },
         {
           "pattern": "... / ....",
           "character": "S / H",
-          "description": "S (three dits) then H (four dits) — the single most common miscount in the entire alphabet."
+          "description": "S (three dits) then H (four dits) — the single most common miscount in the entire alphabet.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1242,28 +1370,32 @@
           "type": "decode",
           "prompt": "Decode this pair, letter by letter: \"-.. -...\"",
           "answer": "DB",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"DB\". This directly applies the principle of: Drill full-alphabet random character recognition until accuracy exceeds 90 percent.."
         },
         {
           "id": "morse-u4-l1-q2",
           "type": "decode",
           "prompt": "Decode this pair, letter by letter: \"-.- -.-.\"",
           "answer": "KC",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"KC\". This directly applies the principle of: Drill full-alphabet random character recognition until accuracy exceeds 90 percent.."
         },
         {
           "id": "morse-u4-l1-q3",
           "type": "decode",
           "prompt": "Decode this pair, letter by letter: \"... ....\"",
           "answer": "SH",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"SH\". This directly applies the principle of: Drill full-alphabet random character recognition until accuracy exceeds 90 percent.."
         },
         {
           "id": "morse-u4-l1-q4",
           "type": "short-answer",
           "prompt": "Why is drilling random confusion PAIRS (like D/B or K/C) more effective than drilling the alphabet in A-to-Z order?",
           "answer": "Because real copying errors cluster around a small set of letters that differ by only one beat or one beat-order — drilling them back-to-back forces true recognition, while A-to-Z order lets you coast on memorized sequence instead of actually hearing each letter.",
-          "difficulty": 820
+          "difficulty": 820,
+          "explanation": "Correct answer: \"Because real copying errors cluster around a small set of letters that differ by only one beat or one beat-order — drilling them back-to-back forces true recognition, while A-to-Z order lets you coast on memorized sequence instead of actually hearing each letter.\". This directly applies the principle of: Drill full-alphabet random character recognition until accuracy exceeds 90 percent.."
         },
         {
           "id": "morse-u4-l1-q5",
@@ -1277,7 +1409,8 @@
           ],
           "answer": "B is D with one extra dit at the end",
           "difficulty": 780,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"B is D with one extra dit at the end (Drill fullalphabet random character recognition until accuracy exceeds 90 percent)\". This directly applies the principle of: Drill full-alphabet random character recognition until accuracy exceeds 90 percent.."
         }
       ]
     },
@@ -1295,17 +1428,20 @@
         {
           "pattern": "--.- ..- .- .-. - --..",
           "character": "QUARTZ",
-          "description": "Six letters, two of them among the rarest in English — Q and Z, back to back near the end."
+          "description": "Six letters, two of them among the rarest in English — Q and Z, back to back near the end.",
+          "target": "Core example"
         },
         {
           "pattern": ".--- .- --.. --..",
           "character": "JAZZ",
-          "description": "A short, punchy word with a doubled letter — the pattern repeats exactly, which is a good ear check."
+          "description": "A short, punchy word with a doubled letter — the pattern repeats exactly, which is a good ear check.",
+          "target": "Core example"
         },
         {
           "pattern": "... .--. .... .. -. -..-",
           "character": "SPHINX",
-          "description": "Six letters ending in the rare X — read each letter's shape rather than guessing the word from the first few."
+          "description": "Six letters ending in the rare X — read each letter's shape rather than guessing the word from the first few.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1318,28 +1454,32 @@
           "type": "decode",
           "prompt": "Decode this word: \"--.- ..- .- .-. - --..\"",
           "answer": "QUARTZ",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"QUARTZ\". This directly applies the principle of: Copy common short English words letter by letter at full character speed.."
         },
         {
           "id": "morse-u4-l2-q2",
           "type": "decode",
           "prompt": "Decode this word: \"... .--. .... .. -. -..-\"",
           "answer": "SPHINX",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"SPHINX\". This directly applies the principle of: Copy common short English words letter by letter at full character speed.."
         },
         {
           "id": "morse-u4-l2-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"WALTZ\".",
           "answer": ".-- .- .-.. - --..",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \".-- .- .-.. - --..\". This directly applies the principle of: Copy common short English words letter by letter at full character speed.."
         },
         {
           "id": "morse-u4-l2-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"ZEBRA\".",
           "answer": "--.. . -... .-. .-",
-          "difficulty": 820
+          "difficulty": 820,
+          "explanation": "Correct answer: \"--.. . -... .-. .-\". This directly applies the principle of: Copy common short English words letter by letter at full character speed.."
         }
       ]
     },
@@ -1357,17 +1497,20 @@
         {
           "pattern": ". - .. -- ... --- .- -.",
           "character": "E T I M S O A N",
-          "description": "The first chunk you ever learned — send it from memory before moving to the next."
+          "description": "The first chunk you ever learned — send it from memory before moving to the next.",
+          "target": "Core example"
         },
         {
           "pattern": ".... ..- .-. .-- -.. -.- --. .-..",
           "character": "H U R W D K G L",
-          "description": "The second chunk. Notice how much more automatic this feels than reading it off a chart."
+          "description": "The second chunk. Notice how much more automatic this feels than reading it off a chart.",
+          "target": "Core example"
         },
         {
           "pattern": "-... -.-. ..-. .--- .--. --.- ...- -..- -.-- --..",
           "character": "B C F J P Q V X Y Z",
-          "description": "The final ten letters, in the order this course introduced them — the hardest chunk to send cleanly, because it mixes the rarest characters together."
+          "description": "The final ten letters, in the order this course introduced them — the hardest chunk to send cleanly, because it mixes the rarest characters together.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1380,14 +1523,16 @@
           "type": "encode",
           "prompt": "From memory, write the Morse pattern for the word \"BUCKLE\" (a real six-letter word using only letters from this unit's chunks).",
           "answer": "-... ..- -.-. -.- .-.. .",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"-... ..- -.-. -.- .-.. .\". This directly applies the principle of: Send (key or tap) the full alphabet from memory without a reference chart.."
         },
         {
           "id": "morse-u4-l3-q2",
           "type": "short-answer",
           "prompt": "Write out, in order, the eight letters of the very first Farnsworth foundation group taught in this course.",
           "answer": "E T I M S O A N",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"E T I M S O A N\". This directly applies the principle of: Send (key or tap) the full alphabet from memory without a reference chart.."
         },
         {
           "id": "morse-u4-l3-q3",
@@ -1401,7 +1546,8 @@
           ],
           "answer": "Chunked recall survives a single missed letter better — one gap does not collapse the whole sequence",
           "difficulty": 800,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Chunked recall survives a single missed letter better — one gap does not collapse the whole sequence\". This directly applies the principle of: Send (key or tap) the full alphabet from memory without a reference chart.."
         }
       ]
     },
@@ -1419,22 +1565,26 @@
         {
           "pattern": "--",
           "character": "M",
-          "description": "Two dahs."
+          "description": "Two dahs.",
+          "target": "Core example"
         },
         {
           "pattern": "---",
           "character": "O",
-          "description": "Three dahs — commonly undercounted as M under time pressure. A classic personal weak point for many learners."
+          "description": "Three dahs — commonly undercounted as M under time pressure. A classic personal weak point for many learners.",
+          "target": "Core example"
         },
         {
           "pattern": "..-",
           "character": "U",
-          "description": "Dit-dit-dah."
+          "description": "Dit-dit-dah.",
+          "target": "Core example"
         },
         {
           "pattern": "...-",
           "character": "V",
-          "description": "Dit-dit-dit-dah — one extra dit before the dah, easily miscounted against U."
+          "description": "Dit-dit-dit-dah — one extra dit before the dah, easily miscounted against U.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1447,28 +1597,32 @@
           "type": "decode",
           "prompt": "Decode, counting carefully: \"--- --\"",
           "answer": "OM",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"OM\". This directly applies the principle of: Identify and correct your personal weakest-recognized characters using targeted drills.."
         },
         {
           "id": "morse-u4-l4-q2",
           "type": "decode",
           "prompt": "Decode, counting carefully: \"...- ..-\"",
           "answer": "VU",
-          "difficulty": 830
+          "difficulty": 830,
+          "explanation": "Correct answer: \"VU\". This directly applies the principle of: Identify and correct your personal weakest-recognized characters using targeted drills.."
         },
         {
           "id": "morse-u4-l4-q3",
           "type": "short-answer",
           "prompt": "Describe a simple, honest way to find your OWN personal weakest characters, rather than assuming they match everyone else's.",
           "answer": "Keep a tally during practice of every letter you hesitate on or get wrong; whichever letters show up repeatedly across a session or two are your real weak points, and deserve disproportionate extra drilling.",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"Keep a tally during practice of every letter you hesitate on or get wrong; whichever letters show up repeatedly across a session or two are your real weak points, and deserve disproportionate extra drilling.\". This directly applies the principle of: Identify and correct your personal weakest-recognized characters using targeted drills.."
         },
         {
           "id": "morse-u4-l4-q4",
           "type": "true-false",
           "prompt": "Every learner struggles with exactly the same letters, so a generic drill order works equally well for everyone.",
           "answer": "false",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"false\". This directly applies the principle of: Identify and correct your personal weakest-recognized characters using targeted drills.."
         }
       ]
     },
@@ -1486,17 +1640,20 @@
         {
           "pattern": ".- .-.. .-..",
           "character": "ALL",
-          "description": "Opening word — three letters, one of them doubled."
+          "description": "Opening word — three letters, one of them doubled.",
+          "target": "Core example"
         },
         {
           "pattern": "--.- ..- .. . -",
           "character": "QUIET",
-          "description": "The word carrying this message's rarest letter, Q, in natural context."
+          "description": "The word carrying this message's rarest letter, Q, in natural context.",
+          "target": "Core example"
         },
         {
           "pattern": ".- .-.. .-.. / --.- ..- .. . - / --- -. / - .... . / ..-. .-. --- -. -",
           "character": "ALL QUIET ON THE FRONT",
-          "description": "The complete five-word message — the closing \"STORM WARNING\" moment for the full beginner alphabet."
+          "description": "The complete five-word message — the closing \"STORM WARNING\" moment for the full beginner alphabet.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1509,35 +1666,40 @@
           "type": "decode",
           "prompt": "Decode this word: \"--.- ..- .. . -\"",
           "answer": "QUIET",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"QUIET\". This directly applies the principle of: Pass a full-alphabet mixed copy checkpoint at wide Farnsworth spacing.."
         },
         {
           "id": "morse-u4-l5-q2",
           "type": "decode",
           "prompt": "Decode this word: \"..-. .-. --- -. -\"",
           "answer": "FRONT",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"FRONT\". This directly applies the principle of: Pass a full-alphabet mixed copy checkpoint at wide Farnsworth spacing.."
         },
         {
           "id": "morse-u4-l5-q3",
           "type": "decode",
           "prompt": "Decode the complete message: \".- .-.. .-.. / --.- ..- .. . - / --- -. / - .... . / ..-. .-. --- -. -\"",
           "answer": "ALL QUIET ON THE FRONT",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"ALL QUIET ON THE FRONT\". This directly applies the principle of: Pass a full-alphabet mixed copy checkpoint at wide Farnsworth spacing.."
         },
         {
           "id": "morse-u4-l5-q4",
           "type": "encode",
           "prompt": "Write the Morse pattern for the word \"ON\".",
           "answer": "--- -.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"--- -.\". This directly applies the principle of: Pass a full-alphabet mixed copy checkpoint at wide Farnsworth spacing.."
         },
         {
           "id": "morse-u4-l5-q5",
           "type": "short-answer",
           "prompt": "What changes starting in Unit 7, now that the beginner alphabet arc is complete?",
           "answer": "The character speed stays the same, but the spacing between characters and words starts to compress toward real operating speed — the defining Farnsworth-method move of narrowing the thinking gaps rather than re-learning the letters.",
-          "difficulty": 800
+          "difficulty": 800,
+          "explanation": "Correct answer: \"The character speed stays the same, but the spacing between characters and words starts to compress toward real operating speed — the defining Farnsworth-method move of narrowing the thinking gaps rather than re-learning the letters.\". This directly applies the principle of: Pass a full-alphabet mixed copy checkpoint at wide Farnsworth spacing.."
         }
       ]
     },
@@ -1555,22 +1717,26 @@
         {
           "pattern": ".----",
           "character": "1",
-          "description": "One dit, then four dahs — the digit value tells you how many dits come first."
+          "description": "One dit, then four dahs — the digit value tells you how many dits come first.",
+          "target": "Core example"
         },
         {
           "pattern": "...--",
           "character": "3",
-          "description": "Three dits, then two dahs — the midpoint of the five-beat pattern."
+          "description": "Three dits, then two dahs — the midpoint of the five-beat pattern.",
+          "target": "Core example"
         },
         {
           "pattern": ".....",
           "character": "5",
-          "description": "Five dits and no dahs — the letter H (four dits) with one more dit added."
+          "description": "Five dits and no dahs — the letter H (four dits) with one more dit added.",
+          "target": "Core example"
         },
         {
           "pattern": "..--- ...-- ....-",
           "character": "2 3 4",
-          "description": "Digits 2, 3, and 4 side by side, showing the dits-to-dahs balance shifting one beat at a time."
+          "description": "Digits 2, 3, and 4 side by side, showing the dits-to-dahs balance shifting one beat at a time.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1583,35 +1749,40 @@
           "type": "decode",
           "prompt": "Decode: \".----\"",
           "answer": "1",
-          "difficulty": 860
+          "difficulty": 860,
+          "explanation": "Correct answer: \"1\". This directly applies the principle of: Recognize and send digits 1-5, noting their pattern relationship to letters.."
         },
         {
           "id": "morse-u5-l1-q2",
           "type": "decode",
           "prompt": "Decode: \"...--\"",
           "answer": "3",
-          "difficulty": 860
+          "difficulty": 860,
+          "explanation": "Correct answer: \"3\". This directly applies the principle of: Recognize and send digits 1-5, noting their pattern relationship to letters.."
         },
         {
           "id": "morse-u5-l1-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for the digit 4.",
           "answer": "....-",
-          "difficulty": 880
+          "difficulty": 880,
+          "explanation": "Correct answer: \"....-\". This directly applies the principle of: Recognize and send digits 1-5, noting their pattern relationship to letters.."
         },
         {
           "id": "morse-u5-l1-q4",
           "type": "decode",
           "prompt": "Decode this two-digit sequence: \"..--- ....-\"",
           "answer": "24",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"24\". This directly applies the principle of: Recognize and send digits 1-5, noting their pattern relationship to letters.."
         },
         {
           "id": "morse-u5-l1-q5",
           "type": "short-answer",
           "prompt": "State the pattern rule for digits 1 through 5.",
           "answer": "Every digit from 1 to 5 is built from five beats total: the digit's value tells you how many dits come first, and the remaining beats (up to five) are dahs. So 3 is three dits followed by two dahs.",
-          "difficulty": 880
+          "difficulty": 880,
+          "explanation": "Correct answer: \"Every digit from 1 to 5 is built from five beats total: the digit's value tells you how many dits come first, and the remaining beats (up to five) are dahs. So 3 is three dits followed by two dahs.\". This directly applies the principle of: Recognize and send digits 1-5, noting their pattern relationship to letters.."
         }
       ]
     },
@@ -1629,22 +1800,26 @@
         {
           "pattern": "-....",
           "character": "6",
-          "description": "One dah then four dits — the mirror image of 4 (four dits then one dah)."
+          "description": "One dah then four dits — the mirror image of 4 (four dits then one dah).",
+          "target": "Core example"
         },
         {
           "pattern": "----.",
           "character": "9",
-          "description": "Four dahs then one dit — the mirror image of 1 (one dit then four dahs)."
+          "description": "Four dahs then one dit — the mirror image of 1 (one dit then four dahs).",
+          "target": "Core example"
         },
         {
           "pattern": "-----",
           "character": "0",
-          "description": "All five dahs — the opposite extreme from 5 (all dits), and already symmetric on its own."
+          "description": "All five dahs — the opposite extreme from 5 (all dits), and already symmetric on its own.",
+          "target": "Core example"
         },
         {
           "pattern": ".---- ----.",
           "character": "1 9",
-          "description": "1 and 9 side by side — read the second one as the first one reversed."
+          "description": "1 and 9 side by side — read the second one as the first one reversed.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1657,21 +1832,24 @@
           "type": "decode",
           "prompt": "Decode: \"-....\"",
           "answer": "6",
-          "difficulty": 870
+          "difficulty": 870,
+          "explanation": "Correct answer: \"6\". This directly applies the principle of: Recognize and send digits 6-9 and 0, completing the numeral set.."
         },
         {
           "id": "morse-u5-l2-q2",
           "type": "decode",
           "prompt": "Decode: \"-----\"",
           "answer": "0",
-          "difficulty": 870
+          "difficulty": 870,
+          "explanation": "Correct answer: \"0\". This directly applies the principle of: Recognize and send digits 6-9 and 0, completing the numeral set.."
         },
         {
           "id": "morse-u5-l2-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for the digit 8.",
           "answer": "---..",
-          "difficulty": 890
+          "difficulty": 890,
+          "explanation": "Correct answer: \"---..\". This directly applies the principle of: Recognize and send digits 6-9 and 0, completing the numeral set.."
         },
         {
           "id": "morse-u5-l2-q4",
@@ -1685,14 +1863,16 @@
           ],
           "answer": "4",
           "difficulty": 870,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"4\". This directly applies the principle of: Recognize and send digits 6-9 and 0, completing the numeral set.."
         },
         {
           "id": "morse-u5-l2-q5",
           "type": "short-answer",
           "prompt": "Explain why 5 and 0 don't have separate \"mirror partners\" among 1-9 the way 1/9, 2/8, 3/7, and 4/6 do.",
           "answer": "Because 5 (all dits) and 0 (all dahs) are each already symmetric — reversing five dits still gives five dits, and reversing five dahs still gives five dahs — so they sit at the two opposite extremes of the pattern instead of pairing with another digit.",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"Because 5 (all dits) and 0 (all dahs) are each already symmetric — reversing five dits still gives five dits, and reversing five dahs still gives five dahs — so they sit at the two opposite extremes of the pattern instead of pairing with another digit.\". This directly applies the principle of: Recognize and send digits 6-9 and 0, completing the numeral set.."
         }
       ]
     },
@@ -1710,17 +1890,20 @@
         {
           "pattern": ".-- .---- .- .--",
           "character": "W1AW",
-          "description": "A real, famous callsign — the ARRL's Hiram Percy Maxim Memorial Station, on the air since 1938."
+          "description": "A real, famous callsign — the ARRL's Hiram Percy Maxim Memorial Station, on the air since 1938.",
+          "target": "Core example"
         },
         {
           "pattern": "--... ...--",
           "character": "73",
-          "description": "\"73\" — real, still-used ham radio shorthand for \"best regards,\" traditionally sent at the end of a contact."
+          "description": "\"73\" — real, still-used ham radio shorthand for \"best regards,\" traditionally sent at the end of a contact.",
+          "target": "Core example"
         },
         {
           "pattern": "-.- ..--- - . ... -",
           "character": "K2TEST",
-          "description": "A practice callsign format (not a real station) — showing how a digit sits naturally in the middle of a mixed group."
+          "description": "A practice callsign format (not a real station) — showing how a digit sits naturally in the middle of a mixed group.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1733,28 +1916,32 @@
           "type": "decode",
           "prompt": "Decode this callsign: \".-- .---- .- .--\"",
           "answer": "W1AW",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"W1AW\". This directly applies the principle of: Copy mixed alphanumeric groups (letters and numbers together).."
         },
         {
           "id": "morse-u5-l3-q2",
           "type": "decode",
           "prompt": "Decode: \"--... ...--\"",
           "answer": "73",
-          "difficulty": 880
+          "difficulty": 880,
+          "explanation": "Correct answer: \"73\". This directly applies the principle of: Copy mixed alphanumeric groups (letters and numbers together).."
         },
         {
           "id": "morse-u5-l3-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for \"K9\" (a letter followed by a digit).",
           "answer": "-.- ----.",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"-.- ----.\". This directly applies the principle of: Copy mixed alphanumeric groups (letters and numbers together).."
         },
         {
           "id": "morse-u5-l3-q4",
           "type": "short-answer",
           "prompt": "What does the real ham radio shorthand \"73\" mean, and when is it typically sent?",
           "answer": "It means \"best regards,\" and it is traditionally sent at the end of a contact or conversation.",
-          "difficulty": 870
+          "difficulty": 870,
+          "explanation": "Correct answer: \"It means \"best regards,\" and it is traditionally sent at the end of a contact or conversation.\". This directly applies the principle of: Copy mixed alphanumeric groups (letters and numbers together).."
         }
       ]
     },
@@ -1772,17 +1959,20 @@
         {
           "pattern": ".---- ....- ----- ----- --..",
           "character": "1400Z",
-          "description": "\"Zulu time\" (UTC) notation for 2:00 PM — the trailing Z is a real letter doing a new job."
+          "description": "\"Zulu time\" (UTC) notation for 2:00 PM — the trailing Z is a real letter doing a new job.",
+          "target": "Core example"
         },
         {
           "pattern": ".---- ....- ...-- .---- ...--",
           "character": "14313",
-          "description": "A real HF frequency inside the 20-meter amateur band (14.313 MHz) — the decimal point is simply skipped."
+          "description": "A real HF frequency inside the 20-meter amateur band (14.313 MHz) — the decimal point is simply skipped.",
+          "target": "Core example"
         },
         {
           "pattern": ".--- ..- .-.. -.-- / ....- / .---- --... --... -....",
           "character": "JULY 4 1776",
-          "description": "A real historic date, now fully in reach: the day the United States declared independence."
+          "description": "A real historic date, now fully in reach: the day the United States declared independence.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1795,28 +1985,32 @@
           "type": "decode",
           "prompt": "Decode this Zulu time: \".---- ....- ----- ----- --..\"",
           "answer": "1400Z",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"1400Z\". This directly applies the principle of: Copy real-world numeric strings: dates, times, and frequencies.."
         },
         {
           "id": "morse-u5-l4-q2",
           "type": "decode",
           "prompt": "Decode this full historic date: \".--- ..- .-.. -.-- / ....- / .---- --... --... -....\"",
           "answer": "JULY 4 1776",
-          "difficulty": 940
+          "difficulty": 940,
+          "explanation": "Correct answer: \"JULY 4 1776\". This directly applies the principle of: Copy real-world numeric strings: dates, times, and frequencies.."
         },
         {
           "id": "morse-u5-l4-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for the frequency \"146520\" (a real US 2-meter simplex calling frequency, decimal point skipped).",
           "answer": ".---- ....- -.... ..... ..--- -----",
-          "difficulty": 920
+          "difficulty": 920,
+          "explanation": "Correct answer: \".---- ....- -.... ..... ..--- -----\". This directly applies the principle of: Copy real-world numeric strings: dates, times, and frequencies.."
         },
         {
           "id": "morse-u5-l4-q4",
           "type": "short-answer",
           "prompt": "Why do real Morse numeric groups like frequencies often skip the decimal point?",
           "answer": "Because there is no dedicated decimal-point punctuation being used yet at this stage — operators simply agree on the format ahead of time and let context tell them where the decimal belongs. Formal punctuation, including the period, is covered starting in Unit 6.",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"Because there is no dedicated decimal-point punctuation being used yet at this stage — operators simply agree on the format ahead of time and let context tell them where the decimal belongs. Formal punctuation, including the period, is covered starting in Unit 6.\". This directly applies the principle of: Copy real-world numeric strings: dates, times, and frequencies.."
         }
       ]
     },
@@ -1834,17 +2028,20 @@
         {
           "pattern": "-.-. --.-",
           "character": "CQ",
-          "description": "Calling any station — the same call from Unit 3, now the opening of a real exchange."
+          "description": "Calling any station — the same call from Unit 3, now the opening of a real exchange.",
+          "target": "Core example"
         },
         {
           "pattern": "-.. .",
           "character": "DE",
-          "description": "Real radio shorthand for \"this is\" or \"from,\" built from two letters you already know."
+          "description": "Real radio shorthand for \"this is\" or \"from,\" built from two letters you already know.",
+          "target": "Core example"
         },
         {
           "pattern": "-.-. --.- / -.. . / .-- .---- .- .--",
           "character": "CQ DE W1AW",
-          "description": "The complete opening call: \"CQ, this is W1AW\" — a real, authentic way an amateur radio contact begins."
+          "description": "The complete opening call: \"CQ, this is W1AW\" — a real, authentic way an amateur radio contact begins.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [],
@@ -1857,35 +2054,40 @@
           "type": "decode",
           "prompt": "Decode: \"-.-. --.-\"",
           "answer": "CQ",
-          "difficulty": 900
+          "difficulty": 900,
+          "explanation": "Correct answer: \"CQ\". This directly applies the principle of: Pass a mixed alphanumeric checkpoint at wide spacing.."
         },
         {
           "id": "morse-u5-l5-q2",
           "type": "decode",
           "prompt": "Decode the complete opening call: \"-.-. --.- / -.. . / .-- .---- .- .--\"",
           "answer": "CQ DE W1AW",
-          "difficulty": 950
+          "difficulty": 950,
+          "explanation": "Correct answer: \"CQ DE W1AW\". This directly applies the principle of: Pass a mixed alphanumeric checkpoint at wide spacing.."
         },
         {
           "id": "morse-u5-l5-q3",
           "type": "encode",
           "prompt": "Write the Morse pattern for \"73\".",
           "answer": "--... ...--",
-          "difficulty": 890
+          "difficulty": 890,
+          "explanation": "Correct answer: \"--... ...--\". This directly applies the principle of: Pass a mixed alphanumeric checkpoint at wide spacing.."
         },
         {
           "id": "morse-u5-l5-q4",
           "type": "short-answer",
           "prompt": "What changes starting in Unit 6, now that the full alphabet, digits 0-9, and mixed-group copying are complete?",
           "answer": "Unit 6 adds punctuation (period, comma, question mark) and the core prosigns (AR, SK, BT, KN, K) — the procedural signals that give a real radio exchange its structure.",
-          "difficulty": 870
+          "difficulty": 870,
+          "explanation": "Correct answer: \"Unit 6 adds punctuation (period, comma, question mark) and the core prosigns (AR, SK, BT, KN, K) — the procedural signals that give a real radio exchange its structure.\". This directly applies the principle of: Pass a mixed alphanumeric checkpoint at wide spacing.."
         },
         {
           "id": "morse-u5-l5-q5",
           "type": "true-false",
           "prompt": "In a mixed Morse group, a digit and a letter are separated by the same inter-character spacing as two letters.",
           "answer": "true",
-          "difficulty": 850
+          "difficulty": 850,
+          "explanation": "Correct answer: \"true\". This directly applies the principle of: Pass a mixed alphanumeric checkpoint at wide spacing.."
         }
       ]
     },

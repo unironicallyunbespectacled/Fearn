@@ -127,22 +127,26 @@
         {
           "problem": "behind / find (from \"The five-fifteen bus is always behind, / I've counted the cracks in the sidewalk I find.\")",
           "answer": "Perfect rhyme",
-          "description": "Identical ending sound from the stressed vowel onward: \"-ind\" in both words."
+          "description": "Identical ending sound from the stressed vowel onward: \"-ind\" in both words.",
+          "target": "Core example"
         },
         {
           "problem": "booth / proof (from \"The diner light hums over an empty booth, / Waiting on a coffee and a little proof.\")",
           "answer": "Slant rhyme",
-          "description": "Shares the \"oo\" vowel sound but the final consonants differ (th vs. f) — close enough to feel connected, not identical."
+          "description": "Shares the \"oo\" vowel sound but the final consonants differ (th vs. f) — close enough to feel connected, not identical.",
+          "target": "Core example"
         },
         {
           "problem": "home / alone",
           "answer": "Slant rhyme",
-          "description": "Same vowel sound, different final consonant (m vs. n) — a classic, widely used slant pair in popular songwriting."
+          "description": "Same vowel sound, different final consonant (m vs. n) — a classic, widely used slant pair in popular songwriting.",
+          "target": "Core example"
         },
         {
           "problem": "night / light",
           "answer": "Perfect rhyme",
-          "description": "Both end in the identical \"-ight\" sound — about as perfect as rhyme gets."
+          "description": "Both end in the identical \"-ight\" sound — about as perfect as rhyme gets.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -166,7 +170,8 @@
           ],
           "answer": "night / light",
           "difficulty": 500,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"night / light\". This directly applies the principle of: Identify perfect rhymes versus near (slant) rhymes in a given lyric passage.."
         },
         {
           "id": "songwriting-u1-l1-q2",
@@ -180,7 +185,8 @@
           ],
           "answer": "booth / proof",
           "difficulty": 500,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"booth / proof\". This directly applies the principle of: Identify perfect rhymes versus near (slant) rhymes in a given lyric passage.."
         },
         {
           "id": "songwriting-u1-l1-q3",
@@ -194,14 +200,16 @@
           ],
           "answer": "The ending sound is identical from the stressed vowel onward",
           "difficulty": 500,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The ending sound is identical from the stressed vowel onward\". This directly applies the principle of: Identify perfect rhymes versus near (slant) rhymes in a given lyric passage.."
         },
         {
           "id": "songwriting-u1-l1-q4",
           "type": "short-answer",
           "prompt": "Write one original perfect-rhyme pair (two words) and one original slant-rhyme pair — they do not need to be from a full lyric.",
           "answer": "Any two words sharing an identical ending sound from the stressed vowel onward count as a perfect rhyme pair (e.g. \"sky/high\"); any two words sharing only part of that ending sound — usually the vowel but not the final consonant, or vice versa — count as a slant rhyme pair (e.g. \"shape/rain\").",
-          "difficulty": 510
+          "difficulty": 510,
+          "explanation": "Correct answer: \"Any two words sharing an identical ending sound from the stressed vowel onward count as a perfect rhyme pair (e.g. \"sky/high\"); any two words sharing only part of that ending sound — usually the vowel but not the final consonant, or vice versa — count as a slant rhyme pair (e.g. \"shape/rain\").\". This directly applies the principle of: Identify perfect rhymes versus near (slant) rhymes in a given lyric passage.."
         }
       ]
     },
@@ -218,17 +226,20 @@
         {
           "problem": "AABB: \"The subway busker plays an old guitar, / His case is empty but his dream's not far, / The trains keep coming, people rushing through, / He plays like someone, someday, might just do.\"",
           "answer": "AABB",
-          "description": "Line 1 rhymes with line 2 (guitar/far), line 3 rhymes with line 4 (through/do) — rhyming couplets back to back."
+          "description": "Line 1 rhymes with line 2 (guitar/far), line 3 rhymes with line 4 (through/do) — rhyming couplets back to back.",
+          "target": "Core example"
         },
         {
           "problem": "ABAB: \"The lighthouse keeper counts the waves at night, / The fog rolls in before the ships can see, / He trims the wick and checks the beam is right, / And waits for dawn to set the harbor free.\"",
           "answer": "ABAB",
-          "description": "Line 1 rhymes with line 3 (night/right), line 2 rhymes with line 4 (see/free) — alternating rhyme."
+          "description": "Line 1 rhymes with line 3 (night/right), line 2 rhymes with line 4 (see/free) — alternating rhyme.",
+          "target": "Core example"
         },
         {
           "problem": "ABCB: \"The screen door slams before the storm arrives, / The porch light flickers, holding on, / Somewhere a dog begins to howl, / And then, like that, the day is gone.\"",
           "answer": "ABCB",
-          "description": "Only line 2 rhymes with line 4 (on/gone) — lines 1 and 3 are free, unrhymed."
+          "description": "Only line 2 rhymes with line 4 (on/gone) — lines 1 and 3 are free, unrhymed.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -252,7 +263,8 @@
           ],
           "answer": "Lines 1 and 3, and lines 2 and 4",
           "difficulty": 510,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Lines 1 and 3, and lines 2 and 4\". This directly applies the principle of: Label the rhyme scheme (AABB, ABAB, ABCB) of a given verse.."
         },
         {
           "id": "songwriting-u1-l2-q2",
@@ -266,14 +278,16 @@
           ],
           "answer": "Two (lines 2 and 4)",
           "difficulty": 510,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"Two\". This directly applies the principle of: Label the rhyme scheme (AABB, ABAB, ABCB) of a given verse.."
         },
         {
           "id": "songwriting-u1-l2-q3",
           "type": "short-answer",
           "prompt": "Label the rhyme scheme of this verse: \"The subway busker plays an old guitar, / His case is empty but his dream's not far, / The trains keep coming, people rushing through, / He plays like someone, someday, might just do.\"",
           "answer": "AABB — line 1 rhymes with line 2 (guitar/far), and line 3 rhymes with line 4 (through/do).",
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"AABB — line 1 rhymes with line 2 (guitar/far), and line 3 rhymes with line 4 (through/do).\". This directly applies the principle of: Label the rhyme scheme (AABB, ABAB, ABCB) of a given verse.."
         },
         {
           "id": "songwriting-u1-l2-q4",
@@ -287,7 +301,8 @@
           ],
           "answer": "ABCB",
           "difficulty": 510,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"ABCB\". This directly applies the principle of: Label the rhyme scheme (AABB, ABAB, ABCB) of a given verse.."
         }
       ]
     },
@@ -304,17 +319,20 @@
         {
           "problem": "Forced: \"Into the store then walked I slow\"",
           "answer": "Awkward inverted word order just to end on a rhyme-friendly word",
-          "description": "Nobody talks like this — the sentence was bent backwards to manufacture a rhyme."
+          "description": "Nobody talks like this — the sentence was bent backwards to manufacture a rhyme.",
+          "target": "Core example"
         },
         {
           "problem": "Natural: \"I walked slow into the store\"",
           "answer": "Same idea, natural word order",
-          "description": "If this line needs to rhyme with something, the fix is choosing a different natural ending, not inverting the grammar."
+          "description": "If this line needs to rhyme with something, the fix is choosing a different natural ending, not inverting the grammar.",
+          "target": "Core example"
         },
         {
           "problem": "\"The porch light flickers, holding on\" needs a matching B-rhyme next line",
           "answer": "\"...and then the day is gone\" (not \"...upon the lawn, a swan\")",
-          "description": "\"gone\" rhymes naturally and fits the plain meaning; reaching for \"swan\" just because it rhymes would derail the image entirely."
+          "description": "\"gone\" rhymes naturally and fits the plain meaning; reaching for \"swan\" just because it rhymes would derail the image entirely.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -338,7 +356,8 @@
           ],
           "answer": "The word order is inverted or unnatural just to land on the rhyme",
           "difficulty": 520,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The word order is inverted or unnatural just to land on the rhyme\". This directly applies the principle of: Write a four-line verse using a specified rhyme scheme without forcing awkward word choices.."
         },
         {
           "id": "songwriting-u1-l3-q2",
@@ -352,21 +371,24 @@
           ],
           "answer": "Rephrase the line around a different, more rhyme-friendly ending word",
           "difficulty": 520,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"Rephrase the line around a different, more rhyme-friendly ending word\". This directly applies the principle of: Write a four-line verse using a specified rhyme scheme without forcing awkward word choices.."
         },
         {
           "id": "songwriting-u1-l3-q3",
           "type": "short-answer",
           "prompt": "Write an original four-line verse using the AABB rhyme scheme, about any concrete scene of your choosing (a place, not an abstract feeling). Make sure no line uses inverted word order to force a rhyme.",
           "answer": "Any four-line verse where line 1 rhymes with line 2, line 3 rhymes with line 4, all four lines use natural spoken word order, and the verse describes a concrete, specific scene rather than a vague abstract feeling.",
-          "difficulty": 530
+          "difficulty": 530,
+          "explanation": "Correct answer: \"Any four-line verse where line 1 rhymes with line 2, line 3 rhymes with line 4, all four lines use natural spoken word order, and the verse describes a concrete, specific scene rather than a vague abstract feeling.\". This directly applies the principle of: Write a four-line verse using a specified rhyme scheme without forcing awkward word choices.."
         },
         {
           "id": "songwriting-u1-l3-q4",
           "type": "short-answer",
           "prompt": "Write an original four-line verse using the ABCB rhyme scheme (only lines 2 and 4 need to rhyme).",
           "answer": "Any four-line verse where lines 2 and 4 share a rhyme, lines 1 and 3 do not need to rhyme with anything, and all lines use natural spoken word order.",
-          "difficulty": 530
+          "difficulty": 530,
+          "explanation": "Correct answer: \"Any four-line verse where lines 2 and 4 share a rhyme, lines 1 and 3 do not need to rhyme with anything, and all lines use natural spoken word order.\". This directly applies the principle of: Write a four-line verse using a specified rhyme scheme without forcing awkward word choices.."
         }
       ]
     },
@@ -383,22 +405,26 @@
         {
           "problem": "Cliche perfect pair: \"heart\" / \"start\"",
           "answer": "Extremely common — signals a listener has heard this exact pairing many times before",
-          "description": "Not wrong, but a flag worth pausing on."
+          "description": "Not wrong, but a flag worth pausing on.",
+          "target": "Core example"
         },
         {
           "problem": "Slant-rhyme alternative: \"heart\" / \"dark\"",
           "answer": "Fresher — connects loosely without being the expected fill-in-the-blank pair",
-          "description": "Keeps the emotional weight of \"heart\" but avoids the predictable \"start\" landing."
+          "description": "Keeps the emotional weight of \"heart\" but avoids the predictable \"start\" landing.",
+          "target": "Core example"
         },
         {
           "problem": "Cliche perfect pair: \"fire\" / \"desire\"",
           "answer": "One of the most overused pairs in popular song",
-          "description": "Worth actively avoiding unless there is a specific reason it is exactly the right word."
+          "description": "Worth actively avoiding unless there is a specific reason it is exactly the right word.",
+          "target": "Core example"
         },
         {
           "problem": "Slant-rhyme alternative: \"fire\" / \"higher\"",
           "answer": "Still connects, less predictable than \"desire\"",
-          "description": "Swaps the expected partner for one that still resolves the line but surprises the ear slightly."
+          "description": "Swaps the expected partner for one that still resolves the line but surprises the ear slightly.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -422,14 +448,16 @@
           ],
           "answer": "It is one of the most overused pairings in popular song and can sound predictable",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It is one of the most overused pairings in popular song and can sound predictable\". This directly applies the principle of: Use slant rhyme deliberately to avoid a cliche perfect-rhyme pairing.."
         },
         {
           "id": "songwriting-u1-l4-q2",
           "type": "short-answer",
           "prompt": "Take the cliche pair \"cry / why\" and propose one slant-rhyme alternative to \"cry\" that feels fresher.",
           "answer": "Any slant rhyme for \"cry\" that avoids the exact expected \"why\" pairing works, for example \"cry\" / \"time\" or \"cry\" / \"light\" — the key is the word still connects loosely by sound without being the immediately predictable partner.",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"Any slant rhyme for \"cry\" that avoids the exact expected \"why\" pairing works, for example \"cry\" / \"time\" or \"cry\" / \"light\" — the key is the word still connects loosely by sound without being the immediately predictable partner.\". This directly applies the principle of: Use slant rhyme deliberately to avoid a cliche perfect-rhyme pairing.."
         },
         {
           "id": "songwriting-u1-l4-q3",
@@ -443,7 +471,8 @@
           ],
           "answer": "Whether a listener could guess the ending word before you sing it",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Whether a listener could guess the ending word before you sing it\". This directly applies the principle of: Use slant rhyme deliberately to avoid a cliche perfect-rhyme pairing.."
         }
       ]
     },
@@ -460,12 +489,14 @@
         {
           "problem": "\"The lighthouse keeper counts the waves at night, / The fog rolls in before the ships can see, / He trims the wick and checks the beam is right, / And waits for dawn to set the harbor free.\"",
           "answer": "ABAB, both rhyme pairs perfect",
-          "description": "night/right and see/free are both perfect rhymes, alternating in an ABAB pattern."
+          "description": "night/right and see/free are both perfect rhymes, alternating in an ABAB pattern.",
+          "target": "Core example"
         },
         {
           "problem": "\"The screen door slams before the storm arrives, / The porch light flickers, holding on, / Somewhere a dog begins to howl, / And then, like that, the day is gone.\"",
           "answer": "ABCB, the B rhyme is perfect",
-          "description": "on/gone is a perfect rhyme carrying the only rhyme pair in the verse, on lines 2 and 4."
+          "description": "on/gone is a perfect rhyme carrying the only rhyme pair in the verse, on lines 2 and 4.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -482,7 +513,8 @@
           "type": "short-answer",
           "prompt": "Label the rhyme scheme AND identify whether the rhymes are perfect or slant: \"The lighthouse keeper counts the waves at night, / The fog rolls in before the ships can see, / He trims the wick and checks the beam is right, / And waits for dawn to set the harbor free.\"",
           "answer": "ABAB — night/right is a perfect rhyme, see/free is a perfect rhyme.",
-          "difficulty": 540
+          "difficulty": 540,
+          "explanation": "Correct answer: \"ABAB — night/right is a perfect rhyme, see/free is a perfect rhyme.\". This directly applies the principle of: Pass a rhyme-scheme identification and writing checkpoint.."
         },
         {
           "id": "songwriting-u1-l5-q2",
@@ -496,7 +528,8 @@
           ],
           "answer": "the dark",
           "difficulty": 540,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"the dark\". This directly applies the principle of: Pass a rhyme-scheme identification and writing checkpoint.."
         },
         {
           "id": "songwriting-u1-l5-q3",
@@ -510,14 +543,16 @@
           ],
           "answer": "ABCB",
           "difficulty": 530,
-          "answerIndex": 2
+          "answerIndex": 2,
+          "explanation": "Correct answer: \"ABCB\". This directly applies the principle of: Pass a rhyme-scheme identification and writing checkpoint.."
         },
         {
           "id": "songwriting-u1-l5-q4",
           "type": "short-answer",
           "prompt": "Write an original two-line couplet (AA) about a specific, concrete scene, avoiding at least one commonly cliche rhyme pair by using a slant rhyme instead.",
           "answer": "Any two-line couplet describing a specific, concrete scene, where the rhyme is either a fresh perfect rhyme or a deliberate slant rhyme that avoids an overused pairing like heart/start or love/above.",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"Any two-line couplet describing a specific, concrete scene, where the rhyme is either a fresh perfect rhyme or a deliberate slant rhyme that avoids an overused pairing like heart/start or love/above.\". This directly applies the principle of: Pass a rhyme-scheme identification and writing checkpoint.."
         },
         {
           "id": "songwriting-u1-l5-q5",
@@ -531,7 +566,8 @@
           ],
           "answer": "The line may end up with forced, inverted word order that sounds unnatural",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The line may end up with forced, inverted word order that sounds unnatural\". This directly applies the principle of: Pass a rhyme-scheme identification and writing checkpoint.."
         }
       ]
     },
@@ -548,17 +584,20 @@
         {
           "problem": "the laundromat hums through the night",
           "answer": "8 syllables, 4 stressed (LAUN-dro-mat, THROUGH, NIGHT)",
-          "description": "Full scan: the(1) LAUN(2,stressed) dro(3) mat(4) hums(5) THROUGH(6,stressed) the(7) NIGHT(8,stressed) — plus the stress on LAUN in laundromat itself."
+          "description": "Full scan: the(1) LAUN(2,stressed) dro(3) mat(4) hums(5) THROUGH(6,stressed) the(7) NIGHT(8,stressed) — plus the stress on LAUN in laundromat itself.",
+          "target": "Core example"
         },
         {
           "problem": "re-MEM-ber (the word \"remember\" alone)",
           "answer": "Stress falls on the middle syllable",
-          "description": "Say it aloud — the natural stress never moves to the first or last syllable, no matter how the line around it is written."
+          "description": "Say it aloud — the natural stress never moves to the first or last syllable, no matter how the line around it is written.",
+          "target": "Core example"
         },
         {
           "problem": "a corner store at closing time",
           "answer": "8 syllables, stresses on COR, STORE, CLOS, TIME",
-          "description": "a(1,unstressed) COR(2,stressed) ner(3,unstressed) STORE(4,stressed) at(5,unstressed) CLOS(6,stressed) ing(7,unstressed) TIME(8,stressed) — another clean da-DUM x4 pattern, same as the laundromat line above."
+          "description": "a(1,unstressed) COR(2,stressed) ner(3,unstressed) STORE(4,stressed) at(5,unstressed) CLOS(6,stressed) ing(7,unstressed) TIME(8,stressed) — another clean da-DUM x4 pattern, same as the laundromat line above.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -575,7 +614,8 @@
           "type": "compute",
           "prompt": "How many syllables are in the line \"she walks alone beneath the light\"?",
           "answer": 8,
-          "difficulty": 520
+          "difficulty": 520,
+          "explanation": "Correct answer: \"8\". This directly applies the principle of: Count syllables per line and identify where natural stresses fall in a lyric.."
         },
         {
           "id": "songwriting-u2-l1-q2",
@@ -589,14 +629,16 @@
           ],
           "answer": "The middle syllable (re-MEM-ber)",
           "difficulty": 520,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The middle syllable\". This directly applies the principle of: Count syllables per line and identify where natural stresses fall in a lyric.."
         },
         {
           "id": "songwriting-u2-l1-q3",
           "type": "short-answer",
           "prompt": "Mark the stressed syllables (using CAPS) in the line: \"the city hums a lonely tune.\"",
           "answer": "the CIty hums a LONEly TUNE — stresses fall on CI (in city), LONE (in lonely), and TUNE.",
-          "difficulty": 530
+          "difficulty": 530,
+          "explanation": "Correct answer: \"the CIty hums a LONEly TUNE — stresses fall on CI (in city), LONE (in lonely), and TUNE.\". This directly applies the principle of: Count syllables per line and identify where natural stresses fall in a lyric.."
         },
         {
           "id": "songwriting-u2-l1-q4",
@@ -610,7 +652,8 @@
           ],
           "answer": "Because a sung melody has its own beat, and a mismatch between word stress and melodic beat is audible in a way silent reading never reveals",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"Because a sung melody has its own beat, and a mismatch between word stress and melodic beat is audible in a way silent reading never reveals\". This directly applies the principle of: Count syllables per line and identify where natural stresses fall in a lyric.."
         }
       ]
     },
@@ -627,12 +670,14 @@
         {
           "problem": "she WALKS a-LONE be-NEATH the LIGHT",
           "answer": "Iambic tetrameter — 4 iambs, da-DUM x4",
-          "description": "Every stressed syllable in the meter matches the word's own natural stress: WALKS, a-LONE, be-NEATH, the LIGHT."
+          "description": "Every stressed syllable in the meter matches the word's own natural stress: WALKS, a-LONE, be-NEATH, the LIGHT.",
+          "target": "Core example"
         },
         {
           "problem": "the CI-ty HUMS a LONE-ly TUNE",
           "answer": "Also iambic tetrameter",
-          "description": "A second line built on the identical da-DUM x4 pulse, pairing naturally with the first as a matched couplet."
+          "description": "A second line built on the identical da-DUM x4 pulse, pairing naturally with the first as a matched couplet.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -656,14 +701,16 @@
           ],
           "answer": "An unstressed syllable followed by a stressed one",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"An unstressed syllable followed by a stressed one\". This directly applies the principle of: Match a lyric line's stress pattern to a steady rhythmic pulse (a meter).."
         },
         {
           "id": "songwriting-u2-l2-q2",
           "type": "short-answer",
           "prompt": "Mark the stress pattern of \"the city hums a lonely tune\" and confirm whether it is iambic tetrameter.",
           "answer": "the CIty hums a LONEly TUNE follows da-DUM four times (the-CI, ty-hums... more precisely: the/CI-ty/hums/a/LONE-ly/TUNE lands stresses on CI, HUMS, LONE, and TUNE at roughly even intervals) — yes, it is iambic tetrameter, matching \"she walks alone beneath the light.\"",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"the CIty hums a LONEly TUNE follows da-DUM four times (the-CI, ty-hums... more precisely: the/CI-ty/hums/a/LONE-ly/TUNE lands stresses on CI, HUMS, LONE, and TUNE at roughly even intervals) — yes, it is iambic tetrameter, matching \"she walks alone beneath the light.\"\". This directly applies the principle of: Match a lyric line's stress pattern to a steady rhythmic pulse (a meter).."
         },
         {
           "id": "songwriting-u2-l2-q3",
@@ -677,7 +724,8 @@
           ],
           "answer": "It matches how comfortably a line of natural English speech falls into four musical beats",
           "difficulty": 530,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It matches how comfortably a line of natural English speech falls into four musical beats\". This directly applies the principle of: Match a lyric line's stress pattern to a steady rhythmic pulse (a meter).."
         }
       ]
     },
@@ -694,12 +742,14 @@
         {
           "problem": "REMember the summer we met (downbeat forced onto REM)",
           "answer": "Fights the meter",
-          "description": "Forces the natural re-MEM-ber stress out of place, making the sung word sound mispronounced."
+          "description": "Forces the natural re-MEM-ber stress out of place, making the sung word sound mispronounced.",
+          "target": "Core example"
         },
         {
           "problem": "Do you remember the summer we met (downbeat shifted onto \"Do\")",
           "answer": "Matches the meter",
-          "description": "\"Remember\" now sits in a position where its own natural MEM-stress can still be heard correctly on a secondary beat."
+          "description": "\"Remember\" now sits in a position where its own natural MEM-stress can still be heard correctly on a secondary beat.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -723,21 +773,24 @@
           ],
           "answer": "It contradicts the word's natural spoken stress (re-MEM-ber), making it sound mispronounced when sung",
           "difficulty": 540,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"It contradicts the word's natural spoken stress (re-MEM-ber)\". This directly applies the principle of: Revise a line that fights the meter so the natural word stress lines up with the beat.."
         },
         {
           "id": "songwriting-u2-l3-q2",
           "type": "short-answer",
           "prompt": "What is the recommended diagnostic test for catching a line that fights the meter?",
           "answer": "Say the line aloud in normal conversational speech, then sing it to the intended melody — if a word suddenly sounds mispronounced or oddly emphasized, the meter is fighting the natural word stress.",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"Say the line aloud in normal conversational speech, then sing it to the intended melody — if a word suddenly sounds mispronounced or oddly emphasized, the meter is fighting the natural word stress.\". This directly applies the principle of: Revise a line that fights the meter so the natural word stress lines up with the beat.."
         },
         {
           "id": "songwriting-u2-l3-q3",
           "type": "short-answer",
           "prompt": "The line \"FORgotten the promise you made\" forces its downbeat onto the first syllable of \"forgotten,\" fighting the word's natural stress, which is for-GOT-ten. Rewrite the line so the strong beat does not fall on \"for.\"",
           "answer": "Any rewrite that shifts the strong beat off the first syllable of \"forgotten\" works, for example: \"You've forgotten the promise you made\" — placing \"forgotten\" in a spot where its natural for-GOT-ten stress can land correctly on a secondary beat instead of forcing a downbeat onto \"for.\"",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"Any rewrite that shifts the strong beat off the first syllable of \"forgotten\" works, for example: \"You've forgotten the promise you made\" — placing \"forgotten\" in a spot where its natural for-GOT-ten stress can land correctly on a secondary beat instead of forcing a downbeat onto \"for.\"\". This directly applies the principle of: Revise a line that fights the meter so the natural word stress lines up with the beat.."
         }
       ]
     },
@@ -754,17 +807,20 @@
         {
           "problem": "I am not going home tonight (7 syllables)",
           "answer": "4 stresses: NOT, GO-ing, HOME, TO-night",
-          "description": "The full \"I am\" takes two syllables to say."
+          "description": "The full \"I am\" takes two syllables to say.",
+          "target": "Core example"
         },
         {
           "problem": "I'm not going home tonight (6 syllables)",
           "answer": "Same 4 stresses, one fewer syllable",
-          "description": "The contraction \"I'm\" compresses \"I am\" into a single quick beat — the stress pattern is unchanged."
+          "description": "The contraction \"I'm\" compresses \"I am\" into a single quick beat — the stress pattern is unchanged.",
+          "target": "Core example"
         },
         {
           "problem": "Well, I'm not going home tonight (7 syllables again)",
           "answer": "Still the same 4 stresses",
-          "description": "Adding the pickup word \"Well,\" before the line stretches it back to 7 syllables without adding a fifth stress."
+          "description": "Adding the pickup word \"Well,\" before the line stretches it back to 7 syllables without adding a fifth stress.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -788,21 +844,24 @@
           ],
           "answer": "The number and spacing of stressed beats, regardless of total syllable count",
           "difficulty": 540,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"The number and spacing of stressed beats, regardless of total syllable count\". This directly applies the principle of: Write two lines with matching meter but different syllable counts using contractions and pacing.."
         },
         {
           "id": "songwriting-u2-l4-q2",
           "type": "short-answer",
           "prompt": "Explain how a contraction like \"I'm\" versus \"I am\" can change a line's syllable count without changing its meter.",
           "answer": "The contraction compresses two syllables (\"I\" and \"am\") into a single spoken beat, reducing the total syllable count by one, but the number and position of stressed beats in the line stays exactly the same, so the line still fits the same melody.",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"The contraction compresses two syllables (\"I\" and \"am\") into a single spoken beat, reducing the total syllable count by one, but the number and position of stressed beats in the line stays exactly the same, so the line still fits the same melody.\". This directly applies the principle of: Write two lines with matching meter but different syllable counts using contractions and pacing.."
         },
         {
           "id": "songwriting-u2-l4-q3",
           "type": "short-answer",
           "prompt": "Write two original lines about the same scene — one using a full form (\"I am,\" \"do not,\" etc.) and one using contractions — that carry the same stressed-beat pattern despite having different syllable counts.",
           "answer": "Any two lines describing the same scene where one uses full forms and the other uses contractions of the same words, and both lines carry the same number of stressed beats in the same positions, even though their total syllable counts differ.",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"Any two lines describing the same scene where one uses full forms and the other uses contractions of the same words, and both lines carry the same number of stressed beats in the same positions, even though their total syllable counts differ.\". This directly applies the principle of: Write two lines with matching meter but different syllable counts using contractions and pacing.."
         }
       ]
     },
@@ -819,12 +878,14 @@
         {
           "problem": "a train pulls out at half past nine",
           "answer": "8 syllables, iambic tetrameter, natural stress intact",
-          "description": "a(un) TRAIN(str) pulls(un) OUT(str) at(un) HALF(str) past(un) NINE(str) — clean da-DUM x4, no forced stress."
+          "description": "a(un) TRAIN(str) pulls(un) OUT(str) at(un) HALF(str) past(un) NINE(str) — clean da-DUM x4, no forced stress.",
+          "target": "Core example"
         },
         {
           "problem": "ForGETting how the story ends (forced stress on FOR)",
           "answer": "Fights the meter — fix: \"You keep forgetting how it ends\"",
-          "description": "forGETting's natural stress is for-GET-ting; forcing FOR- to carry the downbeat sounds mispronounced when sung."
+          "description": "forGETting's natural stress is for-GET-ting; forcing FOR- to carry the downbeat sounds mispronounced when sung.",
+          "target": "Core example"
         }
       ],
       "mnemonics": [
@@ -841,7 +902,8 @@
           "type": "short-answer",
           "prompt": "Scan this line for syllable count and stress: \"a train pulls out at half past nine.\"",
           "answer": "8 syllables; stresses fall on TRAIN, OUT, HALF, and NINE, forming clean iambic tetrameter (da-DUM x4).",
-          "difficulty": 550
+          "difficulty": 550,
+          "explanation": "Correct answer: \"8 syllables; stresses fall on TRAIN, OUT, HALF, and NINE, forming clean iambic tetrameter (da-DUM x4).\". This directly applies the principle of: Pass a meter-scansion and revision checkpoint.."
         },
         {
           "id": "songwriting-u2-l5-q2",
@@ -855,14 +917,16 @@
           ],
           "answer": "re-PEAT-ing",
           "difficulty": 550,
-          "answerIndex": 0
+          "answerIndex": 0,
+          "explanation": "Correct answer: \"RE-peat-ing\". This directly applies the principle of: Pass a meter-scansion and revision checkpoint.."
         },
         {
           "id": "songwriting-u2-l5-q3",
           "type": "short-answer",
           "prompt": "Rewrite \"REpeating the same mistake again\" so the strong downbeat no longer falls on the first syllable of \"repeating.\"",
           "answer": "Any rewrite that shifts the line so \"repeating\" lands with its natural re-PEAT-ing stress on a secondary beat works, for example: \"You keep repeating the same mistake again.\"",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"Any rewrite that shifts the line so \"repeating\" lands with its natural re-PEAT-ing stress on a secondary beat works, for example: \"You keep repeating the same mistake again.\"\". This directly applies the principle of: Pass a meter-scansion and revision checkpoint.."
         },
         {
           "id": "songwriting-u2-l5-q4",
@@ -876,14 +940,16 @@
           ],
           "answer": "\"I am not going home tonight\" and \"I'm not going home tonight,\" since both carry the same 4 stressed beats",
           "difficulty": 550,
-          "answerIndex": 1
+          "answerIndex": 1,
+          "explanation": "Correct answer: \"\"I am not going home tonight\" and \"I'm not going home tonight,\" since both carry the same 4 stressed beats\". This directly applies the principle of: Pass a meter-scansion and revision checkpoint.."
         },
         {
           "id": "songwriting-u2-l5-q5",
           "type": "short-answer",
           "prompt": "In your own words, summarize the difference between counting syllables and scanning for meter.",
           "answer": "Counting syllables just tallies the total spoken sound-chunks in a line, while scanning for meter identifies which of those syllables carry natural stress and whether that stress pattern repeats in a steady, singable rhythm — two lines can have different syllable counts but identical meter if their stressed beats match in number and spacing.",
-          "difficulty": 560
+          "difficulty": 560,
+          "explanation": "Correct answer: \"Counting syllables just tallies the total spoken sound-chunks in a line, while scanning for meter identifies which of those syllables carry natural stress and whether that stress pattern repeats in a steady, singable rhythm — two lines can have different syllable counts but identical meter if their stressed beats match in number and spacing.\". This directly applies the principle of: Pass a meter-scansion and revision checkpoint.."
         }
       ]
     },

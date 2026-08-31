@@ -8993,7 +8993,7 @@
             "Đi bão / Ăn mừng chiến thắng"
           ],
           "answerIndex": 3,
-          "explanation": "Đi bão.",
+          "explanation": "Correct answer: \"Đi bão / Ăn mừng chiến thắng\". This directly applies the principle of: Văn hóa thể thao Việt Nam, bóng đá (Đội tuyển Quốc gia), cầu lông, võ cổ truyền (Vovinam) và chạy bộ..",
           "type": "multiple-choice"
         },
         {
@@ -9388,7 +9388,7 @@
             "Ga xe lửa (t phng lu tr ti Vit Nam)"
           ],
           "answerIndex": 0,
-          "explanation": "Homestay."
+          "explanation": "Correct answer: \"Homestay (t phng lu tr ti Vit Nam)\". This directly applies the principle of: Đặt phòng lưu trú tại Việt Nam: Khách sạn, resort ven biển, homestay và thủ tục nhận phòng.."
         }
       ]
     },
@@ -9701,7 +9701,7 @@
             "Áo dài"
           ],
           "answerIndex": 3,
-          "explanation": "Áo dài."
+          "explanation": "Correct answer: \"Áo dài\". This directly applies the principle of: Từ vựng về trang phục, thời trang, chất liệu và kích cỡ tại Việt Nam (Áo dài truyền thống, trung tâm thương mại Vincom/Tràng Tiền Plaza).."
         }
       ]
     },
@@ -9783,7 +9783,7 @@
             "Rách tả tơi (Phng th)"
           ],
           "answerIndex": 0,
-          "explanation": "Vừa in."
+          "explanation": "Correct answer: \"Vừa in / Vừa như in (Phng th)\". This directly applies the principle of: Phòng thử đồ, thử quần áo, đổi size và nhận xét về độ vừa vặn („Vừa in!“, „Hơi chật eo“, „Tôn dáng“).."
         }
       ]
     },
@@ -9977,7 +9977,7 @@
             "Chợ nổi"
           ],
           "answerIndex": 3,
-          "explanation": "Chợ nổi.",
+          "explanation": "Correct answer: \"Chợ nổi\". This directly applies the principle of: Chợ truyền thống và chợ đêm Việt Nam (Chợ Đồng Xuân, Chợ Bến Thành, Chợ đêm Phố Cổ), nghệ thuật mặc cả (trả giá) lịch sự..",
           "type": "multiple-choice"
         },
         {
@@ -10538,7 +10538,7 @@
             "Buồn nôn (Cc b phn c th)"
           ],
           "answerIndex": 3,
-          "explanation": "Buồn nôn."
+          "explanation": "Correct answer: \"Buồn nôn (Cc b phn c th)\". This directly applies the principle of: Các bộ phận cơ thể, diễn đạt cơn đau và triệu chứng trong tiếng Việt (\"Tôi bị đau đầu / đau họng\", \"Tôi bị sốt cao\").."
         }
       ]
     },
@@ -10635,7 +10635,7 @@
             "VssID"
           ],
           "answerIndex": 3,
-          "explanation": "VssID.",
+          "explanation": "Correct answer: \"VssID\". This directly applies the principle of: Nhà thuốc tại Việt Nam (Pharmacity, Long Châu), thuốc kê đơn và thuốc không kê đơn (OTC), Bảo hiểm Y tế (BHYT) và liều dùng..",
           "type": "multiple-choice"
         },
         {
@@ -10799,7 +10799,7 @@
             "Chụp X-quang"
           ],
           "answerIndex": 1,
-          "explanation": "Châm cứu.",
+          "explanation": "Correct answer: \"Châm cứu\". This directly applies the principle of: Y học cổ truyền Đông Y Việt Nam (Nam Dược, Tuệ Tĩnh: \"Nam dược trị Nam nhân\"), châm cứu, trà thảo mộc atisô và dưỡng sinh..",
           "type": "multiple-choice"
         },
         {
@@ -11015,7 +11015,7 @@
             "Lâu đài cổ"
           ],
           "answerIndex": 0,
-          "explanation": "Nhà ống."
+          "explanation": "Correct answer: \"Nhà ống\". This directly applies the principle of: Nhà ống đô thị Việt Nam (nhà mặt phố nhiều tầng), ban công ngập cây xanh, giếng trời lấy sáng và tầng trệt kinh doanh.."
         }
       ]
     },
@@ -11097,7 +11097,7 @@
             "Nhà bạt"
           ],
           "answerIndex": 1,
-          "explanation": "Nhà Rông."
+          "explanation": "Correct answer: \"Nhà Rông\". This directly applies the principle of: Nhà sàn truyền thống của các dân tộc thiểu số vùng cao Tây Bắc / Tây Nguyên (Nhà Rông, Nhà Dài) và văn hóa cộng đồng buôn làng.."
         }
       ]
     },
@@ -11276,7 +11276,7 @@
             "Ecopark"
           ],
           "answerIndex": 3,
-          "explanation": "Ecopark."
+          "explanation": "Correct answer: \"Ecopark\". This directly applies the principle of: Căn hộ thông minh Smarthome tại Việt Nam: Điều khiển bằng giọng nói tiếng Việt, khóa cửa vân tay, năng lượng mặt trời áp mái và khu đô thị xanh (Ecopark).."
         }
       ]
     },
@@ -11589,7 +11589,7 @@
             "Viber"
           ],
           "answerIndex": 1,
-          "explanation": "Zalo."
+          "explanation": "Correct answer: \"Zalo\". This directly applies the principle of: Hệ sinh thái khởi nghiệp kỳ lân tại Việt Nam: VNG (Vinagame - Lê Hồng Minh), VNPay, MoMo, Sky Mavis và trung tâm Đổi mới Sáng tạo Quốc gia (NIC).."
         }
       ]
     },
@@ -11671,7 +11671,7 @@
             "Ford"
           ],
           "answerIndex": 0,
-          "explanation": "VinFast."
+          "explanation": "Correct answer: \"VinFast\". This directly applies the principle of: Các tập đoàn kinh tế hàng đầu Việt Nam: Tập đoàn Vingroup (VinFast xe điện toàn cầu, VinAI), Viettel (Viễn thông toàn cầu), FPT và Vinamilk.."
         }
       ]
     },
@@ -11877,7 +11877,7 @@
             "JETP"
           ],
           "answerIndex": 3,
-          "explanation": "JETP.",
+          "explanation": "Correct answer: \"JETP\". This directly applies the principle of: Vietnam's solar and wind renewable boom in Ninh Thuận, offshore wind potential, and grid modernization (Năng lượng mặt trời Ninh Thuận, điện gió ngoài khơi, chuyển dịch năng lượng công bằng JETP)..",
           "type": "multiple-choice"
         }
       ],
@@ -11917,7 +11917,7 @@
             "Bò tót"
           ],
           "answerIndex": 1,
-          "explanation": "Sao la."
+          "explanation": "Correct answer: \"Sao la\". This directly applies the principle of: Biodiversity hotspots: Cúc Phương National Park, Saola preservation, and mangrove restoration (Vườn quốc gia Cúc Phương, kỳ lân châu Á - Sao la, bảo tồn rùa biển Côn Đảo, Cần Giờ).."
         }
       ]
     },
@@ -12041,7 +12041,7 @@
             "Gạo Basmati"
           ],
           "answerIndex": 1,
-          "explanation": "Gạo ST25.",
+          "explanation": "Correct answer: \"Gạo ST25\". This directly applies the principle of: Mekong Delta climate adaptation: Salt-tolerant rice, agro-aquaculture (lúa-tôm), and Resolution 120 (Nghị quyết 120, mô hình lúa - tôm hữu cơ, thích ứng biến đổi khí hậu, xâm nhập mặn)..",
           "type": "multiple-choice"
         }
       ],
@@ -12081,7 +12081,7 @@
             "Năm 2100 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)"
           ],
           "answerIndex": 0,
-          "explanation": "Năm 2050."
+          "explanation": "Correct answer: \"Năm 2050 (C2 synthesis on Vietnams COP26 NetZero 2050 commitment)\". This directly applies the principle of: C2 synthesis on Vietnam's COP26 Net-Zero 2050 commitment, green logistics, and sustainable industrial corridors (Cam kết Net Zero 2050 tại COP26, khu công nghiệp sinh thái, VinFast xe điện toàn cầu).."
         }
       ]
     },
@@ -12260,7 +12260,7 @@
             "Bác sĩ Tây"
           ],
           "answerIndex": 0,
-          "explanation": "Ông Năm."
+          "explanation": "Correct answer: \"Ông Năm\". This directly applies the principle of: World-renowned medical institutions: Pasteur Institute in Nha Trang, Alexandre Yersin, and tropical epidemiology (Alexandre Yersin, Viện Pasteur Nha Trang, trực khuẩn dịch hạch Yersinia pestis, bảo tàng Yersin).."
         }
       ]
     },
@@ -12588,7 +12588,7 @@
             "Sức mạnh quân sự"
           ],
           "answerIndex": 2,
-          "explanation": "Chữ Tâm."
+          "explanation": "Correct answer: \"Chữ Tâm\". This directly applies the principle of: The Tale of Kieu & Vietnamese Karmic Philosophy: Nguyen Du, Tam (Heart/Mind), and Fate (Nguyễn Du - Đoạn Trường Tân Thanh / Truyện Kiều, triết lý chữ Tâm, nghiệp báo và tài mệnh tương đố, chữ Tài chữ Mệnh khéo là ghét nhau).."
         }
       ]
     },
@@ -12901,7 +12901,7 @@
             "Lê Lựu (C2 synthesis on Modernist PostWar Fiction)"
           ],
           "answerIndex": 0,
-          "explanation": "Bảo Ninh."
+          "explanation": "Correct answer: \"Bảo Ninh (C2 synthesis on Modernist PostWar Fiction)\". This directly applies the principle of: C2 synthesis on Modernist Post-War Fiction: Bao Ninh's The Sorrow of War and humanistic reconciliation (Bảo Ninh - Nỗi buồn chiến tranh, giải thưởng Hội Nhà văn, tính nhân văn phi sử thi, nỗi đau mất mát và sự cứu rỗi của văn chương).."
         }
       ]
     },
@@ -12916,7 +12916,7 @@
             "Kiên (C2 synthesis on Modernist PostWar Fiction)"
           ],
           "answerIndex": 3,
-          "explanation": "Kiên."
+          "explanation": "Correct answer: \"Kiên (C2 synthesis on Modernist PostWar Fiction)\". This directly applies the principle of: C2 synthesis on Modernist Post-War Fiction: Bao Ninh's The Sorrow of War and humanistic reconciliation (Bảo Ninh - Nỗi buồn chiến tranh, giải thưởng Hội Nhà văn, tính nhân văn phi sử thi, nỗi đau mất mát và sự cứu rỗi của văn chương).."
         }
       ]
     },
@@ -13572,7 +13572,7 @@
             "Hương Lan"
           ],
           "answerIndex": 0,
-          "explanation": "Khánh Ly."
+          "explanation": "Correct answer: \"Khánh Ly\". This directly applies the principle of: The Bob Dylan of Vietnam: Trinh Cong Son and Humanist Anti-War Anthems (Trịnh Công Sơn - Nhạc Trịnh, Diễm xưa, Ca khúc da vàng, Nối vòng tay lớn, triết lý hư vô và tình yêu nhân bản, Khánh Ly).."
         }
       ]
     },
@@ -13639,7 +13639,7 @@
             "Trịnh Công Sơn"
           ],
           "answerIndex": 1,
-          "explanation": "Văn Cao."
+          "explanation": "Correct answer: \"Văn Cao\". This directly applies the principle of: The National Anthem & Pre-War Romanticism: Van Cao (Văn Cao - Tiến quân ca / Quốc ca Việt Nam, Trường ca Sông Lô, Thiên Thai, Suối mơ, tài năng đa diện thơ - họa - nhạc, hội họa tiền chiến).."
         }
       ]
     },
@@ -13654,7 +13654,7 @@
             "1930"
           ],
           "answerIndex": 1,
-          "explanation": "1944."
+          "explanation": "Correct answer: \"1944\". This directly applies the principle of: The National Anthem & Pre-War Romanticism: Van Cao (Văn Cao - Tiến quân ca / Quốc ca Việt Nam, Trường ca Sông Lô, Thiên Thai, Suối mơ, tài năng đa diện thơ - họa - nhạc, hội họa tiền chiến).."
         }
       ]
     },
@@ -13900,7 +13900,7 @@
             "NHK"
           ],
           "answerIndex": 0,
-          "explanation": "CNN (Mỹ)."
+          "explanation": "Correct answer: \"CNN\". This directly applies the principle of: Humanism & Post-War Memory: Dang Nhat Minh and The Town Within Reach (Đặng Nhật Minh - Bao giờ cho đến tháng Mười 1984, Thị xã trong tầm tay, Mùa ổi, Đừng đốt - Nhật ký Đặng Thùy Trâm, Giải thưởng Hồ Chí Minh, nỗi đau chiến tranh nhân bản).."
         }
       ]
     },
@@ -14228,7 +14228,7 @@
             "Ba Giai"
           ],
           "answerIndex": 1,
-          "explanation": "Chú Tễu."
+          "explanation": "Correct answer: \"Chú Tễu\". This directly applies the principle of: The Millennial Water Puppet Mastery: Múa Rối Nước and Thang Long Theatre (Múa Rối Nước - Di sản văn hóa phi vật thể quốc gia, Nhà hát Múa rối Thăng Long bên hồ Hoàn Kiếm, chú Tễu dẫn truyện, buồng trò thủy đình, cọc và dây dưới nước).."
         }
       ]
     },
@@ -14295,7 +14295,7 @@
             "Cải Lương"
           ],
           "answerIndex": 0,
-          "explanation": "Hát Chèo."
+          "explanation": "Correct answer: \"Hát Chèo\". This directly applies the principle of: The Northern Folk Opera & The Tragic Maiden: Sân Khấu Chèo and Quan Âm Thị Kính (Nghệ thuật Chèo truyền thống Bắc Bộ, hề Chèo và tiếng cười đả kích phong kiến, vở Chèo Quan Âm Thị Kính - nỗi oan Thị Kính và Thị Mầu lên chùa, hát ví, gõ mõ canh chùa).."
         }
       ]
     },
@@ -14310,7 +14310,7 @@
             "Xúy Vân"
           ],
           "answerIndex": 0,
-          "explanation": "Thị Mầu."
+          "explanation": "Correct answer: \"Thị Mầu\". This directly applies the principle of: The Northern Folk Opera & The Tragic Maiden: Sân Khấu Chèo and Quan Âm Thị Kính (Nghệ thuật Chèo truyền thống Bắc Bộ, hề Chèo và tiếng cười đả kích phong kiến, vở Chèo Quan Âm Thị Kính - nỗi oan Thị Kính và Thị Mầu lên chùa, hát ví, gõ mõ canh chùa).."
         }
       ]
     },
@@ -14665,7 +14665,7 @@
             "Thùng đàn bằng đá hoa cương"
           ],
           "answerIndex": 1,
-          "explanation": "Phím lõm.",
+          "explanation": "Correct answer: \"Phím lõm\". This directly applies the principle of: The Southern Operatic Reform & The Heart of Vong Co: Sân Khấu Cải Lương (Nghệ thuật Sân khấu Cải Lương Nam Bộ 1918 - «Cải cách hát ca theo tiến bộ / Lương truyền tuồng tích sánh văn minh», bài Dạ Cổ Hoài Lang của Cao Văn Lầu, 6 câu vọng cổ, cây đàn ghi-ta phím lõm)..",
           "type": "multiple-choice"
         }
       ],
@@ -14787,7 +14787,7 @@
             "Hoàng Vân"
           ],
           "answerIndex": 0,
-          "explanation": "Đỗ Nhuận."
+          "explanation": "Correct answer: \"Đỗ Nhuận\". This directly applies the principle of: The First Vietnamese Symphonic Opera: Do Nhuan and Co Sao (Đỗ Nhuận - Nhạc sĩ tiền bối, Tổng thư ký Hội Nhạc sĩ Việt Nam, Cô Sao 1965 - vở nhạc kịch Opera đầu tiên của Việt Nam, Người tạc tượng 1971, âm hưởng dân ca Tây Bắc và H Mông, âm nhạc giao hưởng cách mạng).."
         }
       ]
     },
@@ -15403,7 +15403,7 @@
             "Chữ Thọ (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)"
           ],
           "answerIndex": 0,
-          "explanation": "Chữ Cát.",
+          "explanation": "Correct answer: \"Chữ Cát (C2 synthesis on Modernist Civic Monuments  Contemporary Megatall Skylines)\". This directly applies the principle of: C2 synthesis on Modernist Civic Monuments & Contemporary Megatall Skylines: The Independence Palace and Landmark 81 (Dinh Độc Lập / Dinh Thống Nhất 1966 - Kiến trúc sư Ngô Viết Thụ (Khôi nguyên La Mã 1955), chữ Cát - Khẩu - Trung trong phong thủy hiện đại, và tòa tháp Landmark 81 cao 461m - bó tre vươn cao bên sông Sài Gòn)..",
           "type": "multiple-choice"
         }
       ],
@@ -15567,7 +15567,7 @@
             "1010"
           ],
           "answerIndex": 2,
-          "explanation": "1428.",
+          "explanation": "Correct answer: \"1428\". This directly applies the principle of: The Ethos of Humaneness & The People as the Root: Nguyễn Trãi and Bình Ngô Đại Cáo (Nguyễn Trãi 1380–1442 - Bình Ngô Đại Cáo 1428, tư tưởng «Việc nhân nghĩa cốt ở yên dân / Quân điếu phạt trước lo trừ bạo», triết lý chính trị lấy dân làm gốc «Chở thuyền là dân, lật thuyền cũng là dân», Danh nhân văn hóa thế giới UNESCO 1980)..",
           "type": "multiple-choice"
         }
       ],
@@ -15950,7 +15950,7 @@
             "Minh Châu"
           ],
           "answerIndex": 0,
-          "explanation": "Lê Vân."
+          "explanation": "Correct answer: \"Lê Vân\". This directly applies the principle of: Village Tragedy & The Humanity of Peasant Memory: Đặng Nhật Minh (Đặng Nhật Minh - Bao giờ cho đến tháng Mười 1984 - Top 18 phim châu Á xuất sắc nhất mọi thời đại do CNN bình chọn, Cô gái trên sông 1987, Mùa ổi 2000, Đừng đốt 2009 về nữ bác sĩ Đặng Thùy Trâm, Giải thưởng Hồ Chí Minh và bức tranh tâm linh làng quê Bắc Bộ).."
         }
       ]
     },
@@ -16114,7 +16114,7 @@
             "«Vị»"
           ],
           "answerIndex": 2,
-          "explanation": "«Ròm»."
+          "explanation": "Correct answer: \"«Ròm»\". This directly applies the principle of: Frenetic Urban Energy & Patriarchal Confinement: Ash Mayfair & Trần Dũng Thanh Huy (Nguyễn Phương Anh / Ash Mayfair - Người vợ ba / The Third Wife 2018 - Giải NETPAC tại LHP Toronto, bức tranh lụa phong kiến thế kỷ 19 tại Ninh Bình; Trần Dũng Thanh Huy - Ròm 2019 - Giải New Currents tại LHP Quốc tế Busan, nhịp độ quay rượt đuổi nghẹt thở của những đứa trẻ bán số đề ở chung cư Sài Gòn).."
         }
       ]
     },
@@ -16360,7 +16360,7 @@
             "2000"
           ],
           "answerIndex": 0,
-          "explanation": "2011."
+          "explanation": "Correct answer: \"2011\". This directly applies the principle of: Bánh Mì & The French-Vietnamese Culinary Synthesis (Bánh Mì Việt Nam: di sản từ ổ baguette Pháp thời thuộc địa thế kỷ 19 được người Sài Gòn biến đổi với vỏ bánh mỏng giòn rụm ruột bông xốp; lớp pate gan heo béo ngậy, bơ trứng sốt mayonnaise tươi đánh tay, chả lụa, thịt xá xíu, đồ chua củ cải trắng và cà rốt giòn ngọt, dưa leo, ngò rí và ớt hiểm cắt lát; hiện tượng ẩm thực đường phố toàn cầu trong từ điển Oxford 2011).."
         }
       ]
     },
@@ -16524,7 +16524,7 @@
             "1995"
           ],
           "answerIndex": 2,
-          "explanation": "2012."
+          "explanation": "Correct answer: \"2012\". This directly applies the principle of: The Ancient Terroir of Fish Sauce: Nước Mắm Phú Quốc (Nước mắm truyền thống Phú Quốc - Chỉ dẫn Địa lý Châu Âu (PGI) năm 2012; 100% cá cơm than (cá cơm sọc tiêu, cá cơm đỏ) đánh bắt trên vịnh Thái Lan ủ muối ngay trên tàu; tỷ lệ vàng 3 cá : 1 muối hạt Bà Rịa; ủ chượp trong thùng gỗ bời lời và bời lời đỏ khổng lồ suốt 12–15 tháng; độ đạm tự nhiên 40–43°N và màu cánh gián hổ phách trong vắt).."
         }
       ]
     },
@@ -17560,7 +17560,8 @@
           "expectedKeywords": [
             "Đại",
             "sứ"
-          ]
+          ],
+          "explanation": "Correct answer: \"Đại sứ Đặc mệnh Toàn quyền đã long trọng trình Quốc thư lên Chủ tịch nước tại Phủ Chủ tịch.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Bilateral Statecraft (Trình Quốc thư, Lễ tân Nhà nước và Ngoại giao Song phương).."
         }
       ]
     },
@@ -17589,7 +17590,8 @@
           "expectedKeywords": [
             "Đại",
             "sứ"
-          ]
+          ],
+          "explanation": "Correct answer: \"Đại sứ Đặc mệnh Toàn quyền đã long trọng trình Quốc thư lên Chủ tịch nước tại Phủ Chủ tịch.\". This directly applies the principle of: Diplomatic Credentials, State Protocol & Bilateral Statecraft (Trình Quốc thư, Lễ tân Nhà nước và Ngoại giao Song phương).."
         }
       ]
     }
@@ -17643,7 +17645,8 @@
           "expectedKeywords": [
             "Quốc",
             "hội"
-          ]
+          ],
+          "explanation": "Correct answer: \"Quốc hội đã biểu quyết thông qua Nghị quyết phê chuẩn điều ước quốc tế đa phương.\". This directly applies the principle of: Multilateral Treaties, Ratification & Deposition (Phê chuẩn Điều ước Quốc tế và Lưu chiểu Văn kiện).."
         }
       ]
     },
@@ -17672,7 +17675,8 @@
           "expectedKeywords": [
             "Quốc",
             "hội"
-          ]
+          ],
+          "explanation": "Correct answer: \"Quốc hội đã biểu quyết thông qua Nghị quyết phê chuẩn điều ước quốc tế đa phương.\". This directly applies the principle of: Multilateral Treaties, Ratification & Deposition (Phê chuẩn Điều ước Quốc tế và Lưu chiểu Văn kiện).."
         }
       ]
     }
@@ -17726,7 +17730,8 @@
           "expectedKeywords": [
             "Trường",
             "phái"
-          ]
+          ],
+          "explanation": "Correct answer: \"Trường phái ngoại giao cây tre Việt Nam thể hiện tính kiên định về nguyên tắc và linh hoạt về sách lược.\". This directly applies the principle of: Bamboo Diplomacy, UN Peacekeeping & Multilateral Balance (Ngoại giao Cây tre và Gìn giữ Hòa bình Liên Hợp Quốc).."
         }
       ]
     },
@@ -17755,7 +17760,8 @@
           "expectedKeywords": [
             "Trường",
             "phái"
-          ]
+          ],
+          "explanation": "Correct answer: \"Trường phái ngoại giao cây tre Việt Nam thể hiện tính kiên định về nguyên tắc và linh hoạt về sách lược.\". This directly applies the principle of: Bamboo Diplomacy, UN Peacekeeping & Multilateral Balance (Ngoại giao Cây tre và Gìn giữ Hòa bình Liên Hợp Quốc).."
         }
       ]
     }
@@ -17809,7 +17815,8 @@
           "expectedKeywords": [
             "Việt",
             "Nam"
-          ]
+          ],
+          "explanation": "Correct answer: \"Việt Nam kiên quyết bảo vệ chủ quyền và quyền tài phán hợp pháp tại vùng đặc quyền kinh tế theo UNCLOS 1982.\". This directly applies the principle of: Law of the Sea (UNCLOS 1982), Exclusive Economic Zone & Sovereignty Defense (Công ước Luật Biển UNCLOS 1982 và Vùng Đặc quyền Kinh tế).."
         }
       ]
     },
@@ -17838,7 +17845,8 @@
           "expectedKeywords": [
             "Việt",
             "Nam"
-          ]
+          ],
+          "explanation": "Correct answer: \"Việt Nam kiên quyết bảo vệ chủ quyền và quyền tài phán hợp pháp tại vùng đặc quyền kinh tế theo UNCLOS 1982.\". This directly applies the principle of: Law of the Sea (UNCLOS 1982), Exclusive Economic Zone & Sovereignty Defense (Công ước Luật Biển UNCLOS 1982 và Vùng Đặc quyền Kinh tế).."
         }
       ]
     }
@@ -17892,7 +17900,8 @@
           "expectedKeywords": [
             "Các",
             "nhà"
-          ]
+          ],
+          "explanation": "Correct answer: \"Các nhà Lãnh đạo đã thông qua Tuyên bố Chung khẳng định vai trò trung tâm của ASEAN trong cấu trúc khu vực.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & ASEAN Defense (Tuyên bố Chung Cấp cao và Ngoại giao ASEAN).."
         }
       ]
     },
@@ -17921,7 +17930,8 @@
           "expectedKeywords": [
             "Các",
             "nhà"
-          ]
+          ],
+          "explanation": "Correct answer: \"Các nhà Lãnh đạo đã thông qua Tuyên bố Chung khẳng định vai trò trung tâm của ASEAN trong cấu trúc khu vực.\". This directly applies the principle of: C2 Master Capstone: Multilateral Summit Communiqué Drafting & ASEAN Defense (Tuyên bố Chung Cấp cao và Ngoại giao ASEAN).."
         }
       ]
     }

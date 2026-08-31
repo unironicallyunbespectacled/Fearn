@@ -751,7 +751,7 @@
             "Edit distance Levenshtein alignment matrix"
           ],
           "answerIndex": 0,
-          "explanation": "|V| - k."
+          "explanation": "Correct answer: \"Longest Common Subsequence (LCS) 2D table recurrence\". This directly applies the principle of: Karp's 21 NP-Complete Problems: Reductions from 3-SAT to CLIQUE, VERTEX-COVER & SUBSET-SUM (Karp's reduction tree; reducing 3-SAT to CLIQUE using clause gadget graphs; reducing CLIQUE to VERTEX-COVER on complement graphs $\\bar{G}$; reducing 3-SAT to VERTEX-COVER with variable/clause gadgets; reducing 3-SAT to SUBSET-SUM using base-10 digit encoding).."
         }
       ]
     },
@@ -1835,7 +1835,7 @@
             "Comparison-based sorting lower bound Omega(n log n)"
           ],
           "answerIndex": 0,
-          "explanation": "O(V + E)."
+          "explanation": "Correct answer: \"Counting sort linear time O(n + k)\". This directly applies the principle of: CS110 Graph Theory Fundamentals: Adjacency Matrices, Adjacency Lists, BFS, and DFS (Graph representations, Breadth-First Search, Depth-First Search, topological sort, cycle detection).."
         }
       ]
     },
@@ -1917,7 +1917,7 @@
             "Priority queue extract-max complexity"
           ],
           "answerIndex": 0,
-          "explanation": "2i + 1."
+          "explanation": "Correct answer: \"Max-heapify running time of O(log n)\". This directly applies the principle of: CS110 Binary Heaps and Priority Queues: Min-Heaps, Max-Heaps, and Heapsort (Binary heaps, array-backed complete binary trees, heapify, sift-up, sift-down, Heapsort in O(N log N)).."
         }
       ]
     },
