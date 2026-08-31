@@ -6004,10 +6004,32 @@
       "level": "A1"
     },
     {
-      "term": "كرم الضيافة (Karam ad-Diyafa)",
-      "definition": "Sacred Middle Eastern tradition of lavish hospitality, serving dates and Arabic coffee (Qahwa)",
-      "category": "Cultural Tradition",
-      "level": "A2"
+      "term": "كرم (Karam)",
+      "definition": "Boundless generosity, open-handed magnanimity, hospitality, and unhesitating readiness to share all resources with guests and travelers (embodied by Hatim al-Tai).",
+      "category": "الضيافة والأخلاق (Hospitality & Ethics)",
+      "level": "A2 / أساسي",
+      "pronunciation": "كَرَم [ka.ram]",
+      "partOfSpeech": "اسم مذكر (Noun)",
+      "examples": [
+        {
+          "target": "يشتهر أهل البادية بالكرم الحاتمي وحسن استقبال الضيوف والمسافرين.",
+          "translation": "The desert folk are famous for Hatim-like generosity and hospitable reception of guests and travelers."
+        },
+        {
+          "target": "الكرم الحقيقي هو العطاء دون انتظار مقابل أو ثناء من أحد.",
+          "translation": "True generosity is giving without expecting compensation or praise from anyone."
+        }
+      ],
+      "synonyms": [
+        "سخاء",
+        "جود",
+        "ضيافة"
+      ],
+      "antonyms": [
+        "بخل (miserliness)",
+        "شح"
+      ],
+      "register": "عام / أصيل (General / Cultural)"
     },
     {
       "term": "الدلة والفنجان (Dallah & Finjan)",
@@ -6134,6 +6156,85 @@
       "definition": "Transformative economic diversification and social development blueprint across the Kingdom",
       "category": "Economics & Society",
       "level": "B2 / C1"
+    },
+    {
+      "term": "طرب (Tarab)",
+      "pronunciation": "طَرَب [tˤɑ.rɑb]",
+      "partOfSpeech": "اسم مذكر (Noun)",
+      "definition": "Musical ecstasy, emotional enchantment, or deep spiritual rapture induced by sublime traditional Arabic vocal music, poetry, and performance (quintessentially associated with Umm Kulthum).",
+      "category": "الموسيقى والشعر والجماليات (Music & Aesthetics)",
+      "level": "B2 / متقدم",
+      "examples": [
+        {
+          "target": "أحدث غناء أم كلثوم حالة فريدة من الطرب في قلوب الملايين في العالم العربي.",
+          "translation": "Umm Kulthum's singing created a unique state of tarab (musical ecstasy) in the hearts of millions across the Arab world."
+        },
+        {
+          "target": "يتجلى الطرب الأصيل في التفاعل الوجداني العميق بين المنشد والجمهور.",
+          "translation": "Authentic tarab manifests in the profound emotional interaction between the singer and the audience."
+        }
+      ],
+      "synonyms": [
+        "نشوة موسيقية",
+        "سلطنة",
+        "شغف روحي"
+      ],
+      "register": "ثقافي / أدبي (Cultural / Literary)",
+      "notes": "A foundational concept in classical Arabic music theory and maqam improvisation."
+    },
+    {
+      "term": "مروءة (Muru'ah)",
+      "pronunciation": "مُرُوءَة [mu.ruː.ʔa]",
+      "partOfSpeech": "اسم مؤنث (Noun)",
+      "definition": "Chivalry, manly virtue, high moral integrity, generosity to guests, courage in adversity, and protective honor; the supreme pre-Islamic and Islamic ethical ideal.",
+      "category": "الأخلاق والقيم العربية (Ethics & Values)",
+      "level": "C1 / متقدم جداً",
+      "examples": [
+        {
+          "target": "تعتبر المروءة من أسمى الفضائل الأخلاقية المتجذرة في التراث العربي الأصيل.",
+          "translation": "Muru'ah is considered one of the highest moral virtues deeply rooted in authentic Arab heritage."
+        },
+        {
+          "target": "أظهر الفارس العربي نبل المروءة وشهامة النفس في ساحة المعركة.",
+          "translation": "The Arab knight demonstrated the nobility of muru'ah and magnanimity on the battlefield."
+        }
+      ],
+      "synonyms": [
+        "شهامة",
+        "نخوة",
+        "فروسية",
+        "كرم النفس"
+      ],
+      "antonyms": [
+        "دناءة (lowness)",
+        "خسة"
+      ],
+      "register": "فصيح / تراثي (Classical / Literary)"
+    },
+    {
+      "term": "حنين (Haneen)",
+      "pronunciation": "حَنِين [ħa.niːn]",
+      "partOfSpeech": "اسم مذكر (Noun)",
+      "definition": "Tender longing, deep yearning, nostalgic ache for a beloved person, ancestral homeland, or lost youth.",
+      "category": "المشاعر والوجدان (Emotions & Nostalgia)",
+      "level": "B1 / متوسط",
+      "examples": [
+        {
+          "target": "يشعر المغترب بحنين دائم إلى مسقط رأسه ورائحة تراب الوطن.",
+          "translation": "The expatriate feels constant haneen (yearning) for his birthplace and the scent of the homeland's soil."
+        },
+        {
+          "target": "أثارت القصيدة مشاعر الحنين إلى أيام الطفولة البريئة والذكريات الجميلة.",
+          "translation": "The poem evoked feelings of nostalgia for days of innocent childhood and beautiful memories."
+        }
+      ],
+      "synonyms": [
+        "شوق",
+        "لهفة",
+        "صبابة",
+        "وجد"
+      ],
+      "register": "أدبي / عام (Literary / General)"
     }
   ],
   "mandarin": [
