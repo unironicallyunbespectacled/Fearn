@@ -617,32 +617,131 @@ body[data-env="colorblind"] input, body[data-env="colorblind"] textarea, body[da
 }
 
 /* Modal and Dropdown Visibility */
-body.env-solar .fearn-modal, body.env-solar .fearn-card,
-body[data-env="solar"] .fearn-modal, body[data-env="solar"] .fearn-card {
+/* Modal, Panel, Library and Card Visibility Across All 5 Themes */
+body.env-solar .fearn-modal,
+body.env-solar .fearn-card,
+body.env-solar .fearn-srs-container,
+body.env-solar .fearn-library-panel,
+body.env-solar .fearn-dossier-panel,
+body.env-solar .fearn-entry-modal,
+body.env-solar .fearn-progress-card,
+body[data-env="solar"] .fearn-modal,
+body[data-env="solar"] .fearn-card,
+body[data-env="solar"] .fearn-srs-container,
+body[data-env="solar"] .fearn-library-panel,
+body[data-env="solar"] .fearn-dossier-panel,
+body[data-env="solar"] .fearn-entry-modal,
+body[data-env="solar"] .fearn-progress-card {
   background: #ffffff !important;
-  border: 1px solid #e2e8f0 !important;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08) !important;
+  color: #0f172a !important;
+  border: 1px solid #cbd5e1 !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08) !important;
 }
 
-body.env-sepia .fearn-modal, body.env-sepia .fearn-card,
-body[data-env="sepia"] .fearn-modal, body[data-env="sepia"] .fearn-card {
+body.env-solar .fearn-srs-card-box,
+body[data-env="solar"] .fearn-srs-card-box {
+  background: #f8fafc !important;
+  border: 1.5px solid #cbd5e1 !important;
+}
+
+body.env-solar .fearn-srs-header,
+body.env-solar .fearn-srs-footer,
+body.env-solar .fearn-srs-tabs,
+body[data-env="solar"] .fearn-srs-header,
+body[data-env="solar"] .fearn-srs-footer,
+body[data-env="solar"] .fearn-srs-tabs {
+  background: #f1f5f9 !important;
+  border-color: #e2e8f0 !important;
+}
+
+body.env-solar .fearn-srs-trans-box,
+body[data-env="solar"] .fearn-srs-trans-box {
+  background: #f1f5f9 !important;
+  border-color: #cbd5e1 !important;
+  color: #0f172a !important;
+}
+
+body.env-sepia .fearn-modal,
+body.env-sepia .fearn-card,
+body.env-sepia .fearn-srs-container,
+body.env-sepia .fearn-library-panel,
+body.env-sepia .fearn-dossier-panel,
+body.env-sepia .fearn-entry-modal,
+body.env-sepia .fearn-progress-card,
+body[data-env="sepia"] .fearn-modal,
+body[data-env="sepia"] .fearn-card,
+body[data-env="sepia"] .fearn-srs-container,
+body[data-env="sepia"] .fearn-library-panel,
+body[data-env="sepia"] .fearn-dossier-panel,
+body[data-env="sepia"] .fearn-entry-modal,
+body[data-env="sepia"] .fearn-progress-card {
   background: #f4e4c1 !important;
+  color: #433422 !important;
   border: 1px solid #d8c399 !important;
-  box-shadow: 0 10px 25px rgba(67, 52, 34, 0.1) !important;
+  box-shadow: 0 10px 30px rgba(67, 52, 34, 0.12) !important;
 }
 
-body.env-cabin .fearn-modal, body.env-cabin .fearn-card,
-body[data-env="cabin"] .fearn-modal, body[data-env="cabin"] .fearn-card {
+body.env-sepia .fearn-srs-card-box,
+body[data-env="sepia"] .fearn-srs-card-box {
+  background: #fbf0d9 !important;
+  border: 1.5px solid #d8c399 !important;
+}
+
+body.env-sepia .fearn-srs-header,
+body.env-sepia .fearn-srs-footer,
+body.env-sepia .fearn-srs-tabs,
+body[data-env="sepia"] .fearn-srs-header,
+body[data-env="sepia"] .fearn-srs-footer,
+body[data-env="sepia"] .fearn-srs-tabs {
+  background: #ebd7ab !important;
+  border-color: #d8c399 !important;
+}
+
+body.env-sepia .fearn-srs-trans-box,
+body[data-env="sepia"] .fearn-srs-trans-box {
+  background: #ebd7ab !important;
+  border-color: #d8c399 !important;
+  color: #433422 !important;
+}
+
+body.env-cabin .fearn-modal,
+body.env-cabin .fearn-card,
+body.env-cabin .fearn-srs-container,
+body.env-cabin .fearn-library-panel,
+body.env-cabin .fearn-dossier-panel,
+body.env-cabin .fearn-entry-modal,
+body.env-cabin .fearn-progress-card,
+body[data-env="cabin"] .fearn-modal,
+body[data-env="cabin"] .fearn-card,
+body[data-env="cabin"] .fearn-srs-container,
+body[data-env="cabin"] .fearn-library-panel,
+body[data-env="cabin"] .fearn-dossier-panel,
+body[data-env="cabin"] .fearn-entry-modal,
+body[data-env="cabin"] .fearn-progress-card {
   background: #080503 !important;
+  color: #ffbe98 !important;
   border: 1px solid rgba(255, 130, 60, 0.35) !important;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.9) !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.95) !important;
 }
 
-body.env-colorblind .fearn-modal, body.env-colorblind .fearn-card,
-body[data-env="colorblind"] .fearn-modal, body[data-env="colorblind"] .fearn-card {
+body.env-colorblind .fearn-modal,
+body.env-colorblind .fearn-card,
+body.env-colorblind .fearn-srs-container,
+body.env-colorblind .fearn-library-panel,
+body.env-colorblind .fearn-dossier-panel,
+body.env-colorblind .fearn-entry-modal,
+body.env-colorblind .fearn-progress-card,
+body[data-env="colorblind"] .fearn-modal,
+body[data-env="colorblind"] .fearn-card,
+body[data-env="colorblind"] .fearn-srs-container,
+body[data-env="colorblind"] .fearn-library-panel,
+body[data-env="colorblind"] .fearn-dossier-panel,
+body[data-env="colorblind"] .fearn-entry-modal,
+body[data-env="colorblind"] .fearn-progress-card {
   background: #0d1117 !important;
+  color: #ffffff !important;
   border: 2px solid #ffffff !important;
-  box-shadow: 0 10px 25px rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 10px 30px rgba(255, 255, 255, 0.18) !important;
 }
 
 

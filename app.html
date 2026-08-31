@@ -943,6 +943,11 @@
       mods.forEach(function (mp) {
         var card = document.createElement('div');
         card.className = 'fearn-progress-card fearn-glass--soft';
+        card.style.cursor = 'pointer';
+        card.title = 'Click to open ' + (mp.name || mp.id);
+        card.onclick = function () {
+          selectSlot(mp.id);
+        };
         card.innerHTML =
           '<div class="fearn-progress-icon">' + (mp.icon || '✦') + '</div>' +
           '<div class="fearn-progress-name">' + escapeHtml(mp.name || mp.id) + '</div>' +
@@ -965,6 +970,11 @@
         var mod = window.FEARN.getModule(item.moduleId);
         var li = document.createElement('li');
         li.className = 'fearn-due-item';
+        li.style.cursor = 'pointer';
+        li.title = 'Click to review in ' + (mod && mod.name ? mod.name : item.moduleId);
+        li.onclick = function () {
+          selectSlot(item.moduleId);
+        };
         li.innerHTML =
           '<span class="fearn-due-icon">' + (mod && mod.icon ? mod.icon : '📌') + '</span>' +
           '<span class="fearn-due-name">' + escapeHtml(mod && mod.name ? mod.name : (item.moduleId || 'Unknown module')) + '</span>' +

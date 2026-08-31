@@ -392,44 +392,44 @@
 
     var activeSubject = selectedSubject && subjectDecks[selectedSubject] ? selectedSubject : availableSubjects[0];
     var currentView = 'overview'; // 'overview' | 'study' | 'options' | 'custom_study'
-    var activeStudyCards = [];
+      var activeStudyCards = [];
     var currentCardIndex = 0;
     var isCardFlipped = false;
 
     var overlay = doc.createElement('div');
+    overlay.className = 'fearn-srs-overlay';
     overlay.id = 'fearn-srs-deck-modal';
-    overlay.style.cssText = 'position:fixed; inset:0; z-index:100000; background:rgba(4,8,20,0.92); backdrop-filter:blur(24px); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:16px; font-family:system-ui, -apple-system, sans-serif;';
 
     var container = doc.createElement('div');
-    container.style.cssText = 'width:100%; max-width:700px; background:#0a1226; border:1px solid rgba(56,189,248,0.25); border-radius:18px; box-shadow:0 25px 60px rgba(0,0,0,0.85), 0 0 35px rgba(56,189,248,0.15); display:flex; flex-direction:column; overflow:hidden; animation:fearnModalPop 0.25s ease-out;';
+    container.className = 'fearn-srs-container fearn-glass';
 
     function renderView() {
       container.innerHTML = '';
 
       // --- TOP HEADER BAR ---
       var headerBar = doc.createElement('div');
-      headerBar.style.cssText = 'display:flex; justify-content:space-between; align-items:center; padding:14px 20px; border-bottom:1px solid rgba(255,255,255,0.08); background:rgba(15,23,42,0.6);';
+      headerBar.className = 'fearn-srs-header';
       headerBar.innerHTML = `
         <div style="display:flex; align-items:center; gap:10px;">
           <div style="font-size:1.25rem;">🎴</div>
-          <div style="font-size:0.95rem; font-weight:800; color:#38bdf8; letter-spacing:0.5px; text-transform:uppercase;">Fearn Anki/FSRS Suite (DSR Model)</div>
+          <div class="fearn-srs-title">Fearn Anki/FSRS Suite (DSR Model)</div>
         </div>
         <div style="display:flex; align-items:center; gap:12px;">
-          <span style="font-size:0.75rem; color:#38bdf8; background:rgba(56,189,248,0.12); padding:3px 10px; border-radius:12px; border:1px solid rgba(56,189,248,0.25); font-weight:700;">Target: \${Math.round(FSRS_CONFIG.desiredRetention * 100)}% Ret</span>
-          <button id="fearn-srs-close-btn" style="background:none; border:none; color:#94a3b8; font-size:1.4rem; cursor:pointer; padding:2px 8px; border-radius:6px; line-height:1;">&times;</button>
+          <span class="fearn-srs-retention-badge">Target: ${Math.round(FSRS_CONFIG.desiredRetention * 100)}% Ret</span>
+          <button id="fearn-srs-close-btn" class="fearn-srs-close-btn" aria-label="Close Flashcards">&times;</button>
         </div>
       `;
       container.appendChild(headerBar);
 
       // --- SUBJECT SELECTOR TABS ---
       var tabContainer = doc.createElement('div');
-      tabContainer.style.cssText = 'display:flex; gap:6px; padding:10px 16px; background:rgba(8,14,30,0.85); overflow-x:auto; border-bottom:1px solid rgba(255,255,255,0.06); scrollbar-width:thin;';
+      tabContainer.className = 'fearn-srs-tabs';
 
       availableSubjects.forEach(function (sKey) {
         var sDeck = subjectDecks[sKey];
         var tabBtn = doc.createElement('button');
         var isActive = sKey === activeSubject;
-        tabBtn.style.cssText = 'padding:6px 14px; border-radius:20px; font-size:0.75rem; font-weight:700; cursor:pointer; white-space:nowrap; border:1px solid ' + (isActive ? '#38bdf8' : 'rgba(255,255,255,0.1)') + '; background:' + (isActive ? 'rgba(56,189,248,0.2)' : 'rgba(255,255,255,0.03)') + '; color:' + (isActive ? '#38bdf8' : '#94a3b8') + '; transition:all 0.15s;';
+        tabBtn.className = 'fearn-srs-tab-btn' + (isActive ? ' is-active' : '');
         tabBtn.textContent = sDeck.name + ' (' + sDeck.cards.length + ')';
         tabBtn.onclick = function () {
           activeSubject = sKey;
@@ -506,43 +506,43 @@
 
     function renderOverview(deck) {
       var body = doc.createElement('div');
-      body.style.cssText = 'padding:32px 24px; display:flex; flex-direction:column; align-items:center; gap:24px; text-align:center;';
+      body.className = 'fearn-srs-body';
+      body.style.cssText = 'text-align:center; align-items:center;';
 
       var cappedNew = Math.min(deck.newCount, FSRS_CONFIG.newCardLimit);
       var toReview = Math.max(deck.reviewCount, deck.cards.length > 0 ? Math.min(deck.cards.length, 20) : 0);
 
       body.innerHTML = `
         <div style="display:flex; flex-direction:column; gap:6px;">
-          <div style="font-size:1.45rem; font-weight:800; color:#f8fafc;">\${escapeHtml(deck.name)} Mastery Deck</div>
-          <div style="font-size:0.85rem; color:#64748b;">DSR Dynamic Memory Model &bull; Free Spaced Repetition Scheduler</div>
-          <div style="font-size:0.8rem; color:#94a3b8; max-width:500px; margin-top:2px;">\${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
+          <div class="fearn-srs-deck-title">${escapeHtml(deck.name)} Mastery Deck</div>
+          <div style="font-size:0.85rem; color:var(--text-faint, #64748b);">DSR Dynamic Memory Model &bull; Free Spaced Repetition Scheduler</div>
+          <div class="fearn-srs-deck-desc" style="max-width:520px; margin-top:2px;">${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
         </div>
 
-        <div style="display:flex; justify-content:center; gap:20px; width:100%; max-width:440px; background:rgba(15,23,42,0.55); padding:16px; border-radius:14px; border:1px solid rgba(255,255,255,0.06);">
-          <div style="display:flex; flex-direction:column; gap:4px; flex:1;">
-            <span style="font-size:0.75rem; font-weight:700; color:#38bdf8; text-transform:uppercase;">New</span>
-            <span style="font-size:1.6rem; font-weight:900; color:#38bdf8;">\${cappedNew}</span>
+        <div class="fearn-srs-counts-grid" style="width:100%; max-width:460px;">
+          <div class="fearn-srs-count-col" style="flex:1;">
+            <span class="fearn-srs-count-label" style="color:var(--lang-1, #38bdf8);">New</span>
+            <span class="fearn-srs-count-num" style="color:var(--lang-1, #38bdf8);">${cappedNew}</span>
           </div>
-          <div style="width:1px; background:rgba(255,255,255,0.1);"></div>
-          <div style="display:flex; flex-direction:column; gap:4px; flex:1;">
-            <span style="font-size:0.75rem; font-weight:700; color:#fbbf24; text-transform:uppercase;">Learning</span>
-            <span style="font-size:1.6rem; font-weight:900; color:#fbbf24;">\${deck.learningCount}</span>
+          <div style="width:1px; background:var(--glass-border);"></div>
+          <div class="fearn-srs-count-col" style="flex:1;">
+            <span class="fearn-srs-count-label" style="color:var(--fit-1, #fbbf24);">Learning</span>
+            <span class="fearn-srs-count-num" style="color:var(--fit-1, #fbbf24);">${deck.learningCount}</span>
           </div>
-          <div style="width:1px; background:rgba(255,255,255,0.1);"></div>
-          <div style="display:flex; flex-direction:column; gap:4px; flex:1;">
-            <span style="font-size:0.75rem; font-weight:700; color:#4ade80; text-transform:uppercase;">To Review</span>
-            <span style="font-size:1.6rem; font-weight:900; color:#4ade80;">\${toReview}</span>
+          <div style="width:1px; background:var(--glass-border);"></div>
+          <div class="fearn-srs-count-col" style="flex:1;">
+            <span class="fearn-srs-count-label" style="color:var(--success, #34d399);">To Review</span>
+            <span class="fearn-srs-count-num" style="color:var(--success, #34d399);">${toReview}</span>
           </div>
         </div>
 
-        <button id="fearn-srs-study-btn" style="width:100%; max-width:340px; padding:14px 24px; background:linear-gradient(135deg, #0284c7, #38bdf8); color:#031024; font-size:1.05rem; font-weight:900; border:none; border-radius:12px; cursor:pointer; box-shadow:0 8px 24px rgba(56,189,248,0.35); transition:all 0.2s;">
-          Study Now (\${cappedNew + toReview} Cards)
+        <button id="fearn-srs-study-btn" class="fearn-srs-primary-btn" style="width:100%; max-width:360px;">
+          Study Now (${cappedNew + toReview} Cards)
         </button>
 
         <div style="display:flex; justify-content:center; gap:18px; margin-top:6px;">
-          <button id="fearn-srs-options-btn" style="background:none; border:none; color:#94a3b8; font-size:0.82rem; font-weight:700; cursor:pointer; display:flex; align-items:center; gap:5px;">⚙️ Options & FSRS Weights</button>
-          <span style="color:#334155;">&bull;</span>
-          <button id="fearn-srs-custom-btn" style="background:none; border:none; color:#94a3b8; font-size:0.82rem; font-weight:700; cursor:pointer; display:flex; align-items:center; gap:5px;">🎯 Custom Study</button>
+          <button id="fearn-srs-options-btn" class="fearn-srs-ghost-btn" style="display:flex; align-items:center; gap:5px;">⚙️ Options & Weights</button>
+          <button id="fearn-srs-custom-btn" class="fearn-srs-ghost-btn" style="display:flex; align-items:center; gap:5px;">🎯 Custom Study</button>
         </div>
       `;
 
@@ -578,15 +578,15 @@
 
     function renderStudy(deck) {
       var body = doc.createElement('div');
-      body.style.cssText = 'padding:20px 24px; display:flex; flex-direction:column; align-items:center; gap:16px;';
+      body.className = 'fearn-srs-body';
 
       if (!activeStudyCards || activeStudyCards.length === 0 || currentCardIndex >= activeStudyCards.length) {
         body.innerHTML = `
           <div style="padding:40px 20px; text-align:center; display:flex; flex-direction:column; align-items:center; gap:14px;">
-            <div style="font-size:2.5rem;">🎉</div>
-            <div style="font-size:1.3rem; font-weight:800; color:#38bdf8;">Session Complete!</div>
-            <div style="font-size:0.85rem; color:#94a3b8;">All cards scheduled for review in this session have been updated according to your FSRS forgetting curve.</div>
-            <button id="fearn-srs-finish-btn" style="margin-top:10px; padding:10px 24px; background:#0284c7; color:#fff; border:none; border-radius:10px; font-weight:800; cursor:pointer;">Return to Deck Overview</button>
+            <div style="font-size:2.8rem;">🎉</div>
+            <div style="font-size:1.4rem; font-weight:900; color:var(--lang-1, #38bdf8);">Session Complete!</div>
+            <div style="font-size:0.9rem; color:var(--text-sub, #94a3b8); max-width:440px;">All cards scheduled for review in this session have been updated according to your FSRS memory curve.</div>
+            <button id="fearn-srs-finish-btn" class="fearn-srs-primary-btn" style="margin-top:10px;">Return to Deck Overview</button>
           </div>
         `;
         container.appendChild(body);
@@ -602,44 +602,70 @@
 
       var card = activeStudyCards[currentCardIndex];
 
-      // Progress bar & DSR telemetry
+      // Top study navigation & telemetry bar
+      var topNav = doc.createElement('div');
+      topNav.style.cssText = 'width:100%; display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;';
+      
       var progPct = Math.round((currentCardIndex / activeStudyCards.length) * 100);
-      var progBar = doc.createElement('div');
-      progBar.style.cssText = 'width:100%; display:flex; justify-content:space-between; align-items:center; font-size:0.75rem; color:#64748b; margin-bottom:4px;';
-      progBar.innerHTML = `
-        <span>Card \${currentCardIndex + 1} of \${activeStudyCards.length}</span>
-        <span>\${card.reps > 0 ? 'S: ' + (Math.round(card.stability * 10) / 10) + 'd | D: ' + (Math.round(card.difficulty * 10) / 10) + ' | R: ' + Math.round(card.retrievability * 100) + '%' : 'New Card'}</span>
-        <span>\${progPct}% Complete</span>
+      topNav.innerHTML = `
+        <button id="fearn-srs-back-decks-btn" class="fearn-srs-ghost-btn" style="padding:4px 10px; font-size:0.75rem;">← Decks</button>
+        <span style="font-size:0.78rem; font-weight:700; color:var(--text-sub);">Card \${currentCardIndex + 1} of \${activeStudyCards.length} (\${progPct}%)</span>
+        <span style="font-size:0.72rem; color:var(--text-faint);">\${card.reps > 0 ? 'S: ' + (Math.round(card.stability * 10) / 10) + 'd | R: ' + Math.round(card.retrievability * 100) + '%' : 'New Card'}</span>
       `;
-      body.appendChild(progBar);
+      body.appendChild(topNav);
+
+      var backDeckBtn = topNav.querySelector('#fearn-srs-back-decks-btn');
+      if (backDeckBtn) {
+        backDeckBtn.onclick = function () {
+          currentView = 'overview';
+          renderView();
+        };
+      }
 
       // Card Container (3D Flip Box)
       var cardBox = doc.createElement('div');
-      cardBox.style.cssText = 'width:100%; min-height:260px; background:linear-gradient(145deg, #111d3d, #0d1730); border:1px solid rgba(56,189,248,0.3); border-radius:16px; padding:28px 20px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; cursor:pointer; user-select:none; box-shadow:0 12px 30px rgba(0,0,0,0.5); transition:all 0.2s;';
+      cardBox.className = 'fearn-srs-card-box';
+
+      var frontTarget = (global.FEARN && global.FEARN.stripMarkdown) ? escapeHtml(global.FEARN.stripMarkdown(card.target)) : escapeHtml(card.target);
+      var backTarget = (global.FEARN && global.FEARN.stripMarkdown) ? escapeHtml(global.FEARN.stripMarkdown(card.target)) : escapeHtml(card.target);
+      var formattedTrans = (global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(card.translation) : escapeHtml(card.translation);
+      var formattedMnem = (global.FEARN && global.FEARN.formatText && card.mnemonic) ? global.FEARN.formatText(card.mnemonic) : escapeHtml(card.mnemonic);
 
       if (!isCardFlipped) {
         // Front of Card
-        var frontTarget = (global.FEARN && global.FEARN.stripMarkdown) ? escapeHtml(global.FEARN.stripMarkdown(card.target)) : escapeHtml(card.target);
         cardBox.innerHTML = `
-          <div style="font-size:0.75rem; font-weight:700; color:#38bdf8; text-transform:uppercase; letter-spacing:1px; margin-bottom:12px;">\${escapeHtml(card.subjectName)} &bull; \${escapeHtml(card.lessonId)}</div>
-          <div style="font-size:2rem; font-weight:900; color:#f8fafc; margin-bottom:14px; line-height:1.3;">\${frontTarget}</div>
-          <div style="font-size:0.8rem; color:#64748b; display:flex; align-items:center; gap:6px;">
-            <span>Tap card or press <b>Space</b> to reveal answer</span>
+          <div class="fearn-srs-card-badge">\${escapeHtml(card.subjectName)} &bull; \${escapeHtml(card.lessonId)}</div>
+          <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin-bottom:12px;">
+            <div class="fearn-srs-target" style="margin-bottom:0;">\${frontTarget}</div>
+            <button id="fearn-card-audio-btn" class="fearn-speak-btn" style="background:var(--glass-bg-soft); border:1px solid var(--glass-border); border-radius:50%; width:38px; height:38px; cursor:pointer; font-size:1.1rem; display:inline-flex; align-items:center; justify-content:center;" title="Listen to pronunciation" aria-label="Listen to pronunciation">🔊</button>
+          </div>
+          <div style="font-size:0.82rem; color:var(--text-sub); display:flex; align-items:center; gap:6px; margin-top:8px;">
+            <span>🔄 Tap card or press <b>Space</b> to reveal answer</span>
           </div>
         `;
       } else {
         // Back of Card (Flipped)
-        var backTarget = (global.FEARN && global.FEARN.stripMarkdown) ? escapeHtml(global.FEARN.stripMarkdown(card.target)) : escapeHtml(card.target);
-        var formattedTrans = (global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(card.translation) : escapeHtml(card.translation);
-        var formattedMnem = (global.FEARN && global.FEARN.formatText && card.mnemonic) ? global.FEARN.formatText(card.mnemonic) : escapeHtml(card.mnemonic);
-
         cardBox.innerHTML = `
-          <div style="font-size:0.75rem; font-weight:700; color:#38bdf8; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px;">\${escapeHtml(card.subjectName)}</div>
-          <div style="font-size:1.8rem; font-weight:900; color:#38bdf8; margin-bottom:6px;">\${backTarget}</div>
-          \${card.reading ? '<div style="font-size:1.05rem; font-weight:600; color:#cbd5e1; margin-bottom:10px;">' + escapeHtml(card.reading) + '</div>' : ''}
-          <div style="font-size:1.1rem; font-weight:700; color:#f8fafc; margin-bottom:14px; background:rgba(56,189,248,0.08); padding:10px 18px; border-radius:10px; border:1px solid rgba(56,189,248,0.2); text-align:left; line-height:1.5;">\${formattedTrans}</div>
-          \${card.mnemonic ? '<div style="font-size:0.82rem; color:#fbbf24; background:rgba(251,191,36,0.1); padding:8px 14px; border-radius:8px; margin-top:6px; border:1px solid rgba(251,191,36,0.2); text-align:left; line-height:1.4;">💡 <b>Mnemonic:</b> ' + formattedMnem + '</div>' : ''}
+          <div class="fearn-srs-card-badge">\${escapeHtml(card.subjectName)}</div>
+          <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin-bottom:6px;">
+            <div class="fearn-srs-target" style="color:var(--lang-1, #38bdf8); font-size:1.8rem; margin-bottom:0;">\${backTarget}</div>
+            <button id="fearn-card-audio-btn" class="fearn-speak-btn" style="background:var(--glass-bg-soft); border:1px solid var(--glass-border); border-radius:50%; width:36px; height:36px; cursor:pointer; font-size:1.05rem; display:inline-flex; align-items:center; justify-content:center;" title="Listen to pronunciation" aria-label="Listen to pronunciation">🔊</button>
+          </div>
+          \${card.reading ? '<div class="fearn-srs-reading">' + escapeHtml(card.reading) + '</div>' : ''}
+          <div class="fearn-srs-trans-box">\${formattedTrans}</div>
+          \${card.mnemonic ? '<div class="fearn-srs-mnemonic-box">💡 <b>Mnemonic:</b> ' + formattedMnem + '</div>' : ''}
         `;
+      }
+
+      // Bind Audio Button
+      var audioBtn = cardBox.querySelector('#fearn-card-audio-btn');
+      if (audioBtn) {
+        audioBtn.onclick = function (e) {
+          e.stopPropagation();
+          if (global.FEARN && global.FEARN.audio && global.FEARN.audio.speak) {
+            global.FEARN.audio.speak(card.target, card.subject);
+          }
+        };
       }
 
       cardBox.onclick = function () {
@@ -655,8 +681,8 @@
 
       if (!isCardFlipped) {
         actionRow.innerHTML = `
-          <button id="fearn-srs-flip-btn" style="width:100%; padding:12px; background:rgba(56,189,248,0.15); border:1px solid #38bdf8; color:#38bdf8; font-weight:800; font-size:0.95rem; border-radius:10px; cursor:pointer;">
-            Show Answer (Space)
+          <button id="fearn-srs-flip-btn" class="fearn-srs-primary-btn" style="width:100%; min-height:48px;">
+            🔄 Show Answer (Space)
           </button>
         `;
         body.appendChild(actionRow);
@@ -675,22 +701,24 @@
         var int4 = predictIntervalForGrade(card, 4);
 
         actionRow.innerHTML = `
-          <button id="grade-1" style="flex:1; padding:10px 4px; background:rgba(239,68,68,0.15); border:1px solid rgba(239,68,68,0.4); color:#ef4444; border-radius:10px; cursor:pointer; font-size:0.8rem; font-weight:800; display:flex; flex-direction:column; align-items:center; gap:2px;">
-            <span>Again</span>
-            <span style="font-size:0.68rem; opacity:0.85;">\${int1} [1]</span>
-          </button>
-          <button id="grade-2" style="flex:1; padding:10px 4px; background:rgba(251,191,36,0.15); border:1px solid rgba(251,191,36,0.4); color:#fbbf24; border-radius:10px; cursor:pointer; font-size:0.8rem; font-weight:800; display:flex; flex-direction:column; align-items:center; gap:2px;">
-            <span>Hard</span>
-            <span style="font-size:0.68rem; opacity:0.85;">\${int2} [2]</span>
-          </button>
-          <button id="grade-3" style="flex:1; padding:10px 4px; background:rgba(56,189,248,0.15); border:1px solid rgba(56,189,248,0.4); color:#38bdf8; border-radius:10px; cursor:pointer; font-size:0.8rem; font-weight:800; display:flex; flex-direction:column; align-items:center; gap:2px;">
-            <span>Good</span>
-            <span style="font-size:0.68rem; opacity:0.85;">\${int3} [3]</span>
-          </button>
-          <button id="grade-4" style="flex:1; padding:10px 4px; background:rgba(74,222,128,0.15); border:1px solid rgba(74,222,128,0.4); color:#4ade80; border-radius:10px; cursor:pointer; font-size:0.8rem; font-weight:800; display:flex; flex-direction:column; align-items:center; gap:2px;">
-            <span>Easy</span>
-            <span style="font-size:0.68rem; opacity:0.85;">\${int4} [4]</span>
-          </button>
+          <div class="fearn-srs-grade-grid">
+            <button id="grade-1" class="fearn-srs-btn-grade fearn-srs-btn-again" style="min-height:48px;">
+              <span>Again</span>
+              <span style="font-size:0.68rem; opacity:0.85;">\${int1} [1]</span>
+            </button>
+            <button id="grade-2" class="fearn-srs-btn-grade fearn-srs-btn-hard" style="min-height:48px;">
+              <span>Hard</span>
+              <span style="font-size:0.68rem; opacity:0.85;">\${int2} [2]</span>
+            </button>
+            <button id="grade-3" class="fearn-srs-btn-grade fearn-srs-btn-good" style="min-height:48px;">
+              <span>Good</span>
+              <span style="font-size:0.68rem; opacity:0.85;">\${int3} [3]</span>
+            </button>
+            <button id="grade-4" class="fearn-srs-btn-grade fearn-srs-btn-easy" style="min-height:48px;">
+              <span>Easy</span>
+              <span style="font-size:0.68rem; opacity:0.85;">\${int4} [4]</span>
+            </button>
+          </div>
         `;
         body.appendChild(actionRow);
 
@@ -712,47 +740,47 @@
 
     function renderOptions(deck) {
       var body = doc.createElement('div');
-      body.style.cssText = 'padding:24px; display:flex; flex-direction:column; gap:18px; max-height:80vh; overflow-y:auto;';
+      body.className = 'fearn-srs-body';
 
       body.innerHTML = `
-        <div style="font-size:1.15rem; font-weight:800; color:#38bdf8; border-bottom:1px solid rgba(255,255,255,0.08); padding-bottom:8px; display:flex; justify-content:space-between; align-items:center;">
+        <div style="font-size:1.15rem; font-weight:800; color:var(--lang-1, #38bdf8); border-bottom:1px solid var(--glass-border); padding-bottom:8px; display:flex; justify-content:space-between; align-items:center;">
           <span>⚙️ FSRS Settings & Memory Model</span>
-          <span style="font-size:0.75rem; color:#4ade80; background:rgba(74,222,128,0.1); padding:2px 8px; border-radius:6px;">Active DSR Engine</span>
+          <span style="font-size:0.75rem; color:var(--success, #4ade80); background:var(--glass-bg-soft); padding:2px 8px; border-radius:6px;">Active DSR Engine</span>
         </div>
         
         <div style="display:flex; justify-content:space-between; align-items:center;">
           <div>
-            <div style="font-size:0.85rem; font-weight:700; color:#f8fafc;">Desired Retention (Target Probability)</div>
-            <div style="font-size:0.75rem; color:#64748b;">Higher (e.g. 95%) = shorter intervals, more reps; Lower (85%) = fewer reps</div>
+            <div style="font-size:0.85rem; font-weight:700; color:var(--text-main);">Desired Retention (Target Probability)</div>
+            <div style="font-size:0.75rem; color:var(--text-sub);">Higher (e.g. 95%) = shorter intervals, more reps; Lower (85%) = fewer reps</div>
           </div>
           <div style="display:flex; align-items:center; gap:8px;">
-            <input type="range" id="fsrs-retention-slider" min="75" max="97" value="\${Math.round(FSRS_CONFIG.desiredRetention * 100)}" style="cursor:pointer;" />
-            <span id="fsrs-retention-val" style="font-weight:800; color:#38bdf8; min-width:38px;">\${Math.round(FSRS_CONFIG.desiredRetention * 100)}%</span>
+            <input type="range" id="fsrs-retention-slider" min="75" max="97" value="${Math.round(FSRS_CONFIG.desiredRetention * 100)}" style="cursor:pointer;" />
+            <span id="fsrs-retention-val" style="font-weight:800; color:var(--lang-1, #38bdf8); min-width:38px;">${Math.round(FSRS_CONFIG.desiredRetention * 100)}%</span>
           </div>
         </div>
 
         <div style="display:flex; justify-content:space-between; align-items:center;">
           <div>
-            <div style="font-size:0.85rem; font-weight:700; color:#f8fafc;">Maximum Interval (Days)</div>
-            <div style="font-size:0.75rem; color:#64748b;">Hard upper bound on scheduled review spacing</div>
+            <div style="font-size:0.85rem; font-weight:700; color:var(--text-main);">Maximum Interval (Days)</div>
+            <div style="font-size:0.75rem; color:var(--text-sub);">Hard upper bound on scheduled review spacing</div>
           </div>
-          <input type="number" id="fsrs-max-interval" value="\${FSRS_CONFIG.maximumInterval}" style="width:90px; background:#0f172a; border:1px solid rgba(255,255,255,0.15); color:#fff; border-radius:6px; padding:4px 8px; font-weight:800; text-align:right;" />
+          <input type="number" id="fsrs-max-interval" value="${FSRS_CONFIG.maximumInterval}" style="width:90px; background:var(--glass-bg); border:1px solid var(--glass-border); color:var(--text-main); border-radius:6px; padding:4px 8px; font-weight:800; text-align:right;" />
         </div>
 
         <div style="display:flex; justify-content:space-between; align-items:center;">
           <div>
-            <div style="font-size:0.85rem; font-weight:700; color:#f8fafc;">Daily New Card Cap</div>
-            <div style="font-size:0.75rem; color:#64748b;">Limit new material introduced per session per deck</div>
+            <div style="font-size:0.85rem; font-weight:700; color:var(--text-main);">Daily New Card Cap</div>
+            <div style="font-size:0.75rem; color:var(--text-sub);">Limit new material introduced per session per deck</div>
           </div>
-          <input type="number" id="fsrs-new-cap" value="\${FSRS_CONFIG.newCardLimit}" style="width:70px; background:#0f172a; border:1px solid rgba(255,255,255,0.15); color:#fff; border-radius:6px; padding:4px 8px; font-weight:800; text-align:right;" />
+          <input type="number" id="fsrs-new-cap" value="${FSRS_CONFIG.newCardLimit}" style="width:70px; background:var(--glass-bg); border:1px solid var(--glass-border); color:var(--text-main); border-radius:6px; padding:4px 8px; font-weight:800; text-align:right;" />
         </div>
 
-        <div style="background:rgba(15,23,42,0.65); padding:14px; border-radius:10px; border:1px solid rgba(255,255,255,0.06); display:flex; flex-direction:column; gap:6px;">
-          <div style="font-size:0.75rem; font-weight:700; color:#94a3b8;">FSRS Mathematical Weights (w0..w16)</div>
-          <div style="font-size:0.68rem; font-family:monospace; color:#64748b; line-height:1.4; word-break:break-all;">\${FSRS_CONFIG.w.join(', ')}</div>
+        <div style="background:var(--glass-bg-soft); padding:14px; border-radius:10px; border:1px solid var(--glass-border); display:flex; flex-direction:column; gap:6px;">
+          <div style="font-size:0.75rem; font-weight:700; color:var(--text-sub);">FSRS Mathematical Weights (w0..w16)</div>
+          <div style="font-size:0.68rem; font-family:monospace; color:var(--text-faint); line-height:1.4; word-break:break-all;">${FSRS_CONFIG.w.join(', ')}</div>
         </div>
 
-        <button id="fearn-srs-save-opts-btn" style="padding:12px 20px; background:linear-gradient(135deg, #0284c7, #38bdf8); color:#031024; border:none; border-radius:10px; font-weight:900; cursor:pointer;">Save & Apply Settings</button>
+        <button id="fearn-srs-save-opts-btn" class="fearn-srs-primary-btn" style="width:100%;">Save & Apply Settings</button>
       `;
 
       container.appendChild(body);
@@ -783,58 +811,70 @@
 
     function renderCustomStudy(deck) {
       var body = doc.createElement('div');
-      body.style.cssText = 'padding:24px; display:flex; flex-direction:column; gap:18px;';
+      body.className = 'fearn-srs-body';
 
       body.innerHTML = `
-        <div style="font-size:1.1rem; font-weight:800; color:#38bdf8; border-bottom:1px solid rgba(255,255,255,0.08); padding-bottom:8px;">🎯 Custom Study Session</div>
-        <div style="font-size:0.85rem; color:#94a3b8;">Choose how you want to adjust your study session for <b>\${escapeHtml(deck.name)}</b>:</div>
+        <div style="font-size:1.1rem; font-weight:800; color:var(--lang-1, #38bdf8); border-bottom:1px solid var(--glass-border); padding-bottom:8px;">🎯 Custom Study Session</div>
+        <div style="font-size:0.85rem; color:var(--text-sub);">Choose how you want to adjust your study session for <b>${escapeHtml(deck.name)}</b>:</div>
 
         <div style="display:flex; flex-direction:column; gap:10px;">
-          <button id="custom-extra-new" style="padding:12px 16px; background:rgba(56,189,248,0.1); border:1px solid rgba(56,189,248,0.25); color:#38bdf8; font-weight:800; font-size:0.85rem; border-radius:10px; text-align:left; cursor:pointer;">
+          <button id="custom-extra-new" class="fearn-srs-ghost-btn" style="padding:14px; text-align:left; color:var(--lang-1, #38bdf8); border-color:var(--lang-1);">
             ➕ Increase today's new card limit (+20 Cards)
           </button>
-          <button id="custom-review-ahead" style="padding:12px 16px; background:rgba(74,222,128,0.1); border:1px solid rgba(74,222,128,0.25); color:#4ade80; font-weight:800; font-size:0.85rem; border-radius:10px; text-align:left; cursor:pointer;">
+          <button id="custom-review-ahead" class="fearn-srs-ghost-btn" style="padding:14px; text-align:left; color:var(--success, #4ade80); border-color:var(--success);">
             ⏩ Review ahead by 3 days
           </button>
-          <button id="custom-study-all" style="padding:12px 16px; background:rgba(251,191,36,0.1); border:1px solid rgba(251,191,36,0.25); color:#fbbf24; font-weight:800; font-size:0.85rem; border-radius:10px; text-align:left; cursor:pointer;">
+          <button id="custom-study-all" class="fearn-srs-ghost-btn" style="padding:14px; text-align:left; color:var(--fit-1, #fbbf24); border-color:var(--fit-1);">
             🎴 Study entire deck (\${deck.cards.length} Cards)
           </button>
         </div>
 
-        <button id="fearn-srs-custom-back-btn" style="padding:10px 20px; background:rgba(255,255,255,0.05); color:#94a3b8; border:1px solid rgba(255,255,255,0.1); border-radius:10px; font-weight:800; cursor:pointer;">Cancel</button>
+        <button id="fearn-srs-custom-back-btn" class="fearn-srs-ghost-btn" style="align-self:flex-start; margin-top:8px;">← Return to Deck Overview</button>
       `;
 
       container.appendChild(body);
 
-      body.querySelector('#custom-extra-new').onclick = function () {
-        FSRS_CONFIG.newCardLimit += 20;
-        activeStudyCards = deck.cards.slice(0, FSRS_CONFIG.newCardLimit + 20);
-        currentCardIndex = 0;
-        isCardFlipped = false;
-        currentView = 'study';
-        renderView();
-      };
+      var b1 = body.querySelector('#custom-extra-new');
+      if (b1) {
+        b1.onclick = function () {
+          FSRS_CONFIG.newCardLimit += 20;
+          activeStudyCards = deck.cards.slice(0, FSRS_CONFIG.newCardLimit + 20);
+          currentCardIndex = 0;
+          isCardFlipped = false;
+          currentView = 'study';
+          renderView();
+        };
+      }
 
-      body.querySelector('#custom-review-ahead').onclick = function () {
-        activeStudyCards = deck.cards.slice(0);
-        currentCardIndex = 0;
-        isCardFlipped = false;
-        currentView = 'study';
-        renderView();
-      };
+      var b2 = body.querySelector('#custom-review-ahead');
+      if (b2) {
+        b2.onclick = function () {
+          activeStudyCards = deck.cards.slice(0);
+          currentCardIndex = 0;
+          isCardFlipped = false;
+          currentView = 'study';
+          renderView();
+        };
+      }
 
-      body.querySelector('#custom-study-all').onclick = function () {
-        activeStudyCards = deck.cards.slice(0);
-        currentCardIndex = 0;
-        isCardFlipped = false;
-        currentView = 'study';
-        renderView();
-      };
+      var b3 = body.querySelector('#custom-study-all');
+      if (b3) {
+        b3.onclick = function () {
+          activeStudyCards = deck.cards.slice(0);
+          currentCardIndex = 0;
+          isCardFlipped = false;
+          currentView = 'study';
+          renderView();
+        };
+      }
 
-      body.querySelector('#fearn-srs-custom-back-btn').onclick = function () {
-        currentView = 'overview';
-        renderView();
-      };
+      var backBtn = body.querySelector('#fearn-srs-custom-back-btn');
+      if (backBtn) {
+        backBtn.onclick = function () {
+          currentView = 'overview';
+          renderView();
+        };
+      }
     }
 
     renderView();

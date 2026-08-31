@@ -1038,13 +1038,12 @@
           if (options.onResult) options.onResult(res);
         });
       };
-
       return btn;
     }
   };
 
   // Universal Math & Text Formatter on core engine
-  FEARN.formatText = function (str) {
+  function formatMathAndText(str) {
     if (str === null || str === undefined) return '';
     let s = String(str);
 
@@ -1089,11 +1088,17 @@
     }
 
     s = s.replace(/\\mathbb\{R\}/g, 'ℝ').replace(/\\mathbb\{Z\}/g, 'ℤ').replace(/\\mathbb\{N\}/g, 'ℕ').replace(/\\mathbb\{Q\}/g, 'ℚ').replace(/\\mathbb\{C\}/g, 'ℂ');
-    s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit)\{([^}]+)\}/g, '$1');
-    s = s.replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1 / $2)');
-    s = s.replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1 / $2)');
-    s = s.replace(/\\sqrt\[([^{}]+)\]\{([^{}]+)\}/g, '$1√($2)');
-    s = s.replace(/\\sqrt\{([^{}]+)\}/g, '√($1)');
+    
+    // Iteratively strip nested LaTeX text & formatting commands
+    let prev;
+    do {
+      prev = s;
+      s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit|operatorname)\{([^}]+)\}/g, '$1');
+      s = s.replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1 / $2)');
+      s = s.replace(/\\sqrt\[([^{}]+)\]\{([^{}]+)\}/g, '$1√($2)');
+      s = s.replace(/\\sqrt\{([^{}]+)\}/g, '√($1)');
+    } while (s !== prev);
+
     s = s.replace(/\\left\(/g, '(').replace(/\\right\)/g, ')');
     s = s.replace(/\\left\[/g, '[').replace(/\\right\]/g, ']');
     s = s.replace(/\\left\\\{/g, '{').replace(/\\right\\\}/g, '}');
@@ -1118,11 +1123,10 @@
     s = s.replace(/\$\$([\s\S]*?)\$\$/g, '<div class="fearn-math-block" style="margin:10px 0; padding:10px 14px; background:rgba(0,0,0,0.3); border-left:3px solid var(--lang-1, #38bdf8); border-radius:6px; font-family:\'Fira Code\', monospace; font-size:1.02em; overflow-x:auto;">$1</div>');
     s = s.replace(/\$([^$\n]+?)\$/g, '<span class="fearn-math-inline" style="font-family:\'Fira Code\', monospace; font-weight:600; color:#7dd3fc;">$1</span>');
 
-    // Bold & Italic
-    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
-    s = s.replace(/__([^_]+)__/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
+    // Bold & Italic (Nested-safe non-greedy regexes)
+    s = s.replace(/\*\*([\s\S]*?)\*\*/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
+    s = s.replace(/(?:^|[^\w])__([^_]+)__(?![\w])/g, ' <strong style="color:#f8fafc; font-weight:700;">$1</strong>');
     s = s.replace(/(^|[^*])\*([^*\s\n](?:[^*\n]*?[^*\s\n])?)\*(?!\*)/g, '$1<em style="font-style:italic;">$2</em>');
-    s = s.replace(/(^|[^_])_([^_ \n](?:[^_\n]*?[^_ \n])?)_(?!_)/g, '$1<em style="font-style:italic;">$2</em>');
 
     // Inline Code
     s = s.replace(/`([^`]+)`/g, '<code style="background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px; font-family:\'Fira Code\', monospace; font-size:0.9em; color:#a78bfa;">$1</code>');
@@ -1162,25 +1166,34 @@
     });
 
     return formattedParagraphs.filter(Boolean).join('<br><br>');
-  };
-  FEARN.formatMath = FEARN.formatText;
+  }
 
-  // Universal Plaintext Markdown & LaTeX Stripper
-  FEARN.stripMarkdown = function (str) {
+  function stripMarkdown(str) {
     if (!str) return '';
     let s = String(str);
     s = s.replace(/\\\\([a-zA-Z]+)/g, '\\$1');
     s = s.replace(/\\ge\b|\\geq\b/g, '≥').replace(/\\le\b|\\leq\b/g, '≤').replace(/\\approx\b/g, '≈').replace(/\\times\b/g, '×').replace(/\\to\b/g, '→').replace(/\\pm\b/g, '±').replace(/\\cdot\b/g, '·');
-    s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit)\{([^}]+)\}/g, '$1');
+    
+    let prev;
+    do {
+      prev = s;
+      s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit|operatorname)\{([^}]+)\}/g, '$1');
+    } while (s !== prev);
+
     s = s.replace(/\$\$([\s\S]*?)\$\$/g, '$1').replace(/\$([^$\n]+?)\$/g, '$1');
     s = s.replace(/^#{1,6}\s+/gm, '');
-    s = s.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/__([^_]+)__/g, '$1');
-    s = s.replace(/\*([^*]+)\*/g, '$1').replace(/_([^_]+)_/g, '$1');
+    s = s.replace(/\*\*([\s\S]*?)\*\*/g, '$1');
+    s = s.replace(/__([^_]+)__/g, '$1');
+    s = s.replace(/\*([^*]+)\*/g, '$1');
     s = s.replace(/`([^`]+)`/g, '$1');
     s = s.replace(/~~([^~]+)~~/g, '$1');
     s = s.replace(/^>\s+/gm, '');
     return s.trim();
-  };
+  }
+
+  FEARN.formatText = formatMathAndText;
+  FEARN.formatMath = formatMathAndText;
+  FEARN.stripMarkdown = stripMarkdown;
 
   global.FEARN = FEARN;
 })(typeof window !== 'undefined' ? window : globalThis);

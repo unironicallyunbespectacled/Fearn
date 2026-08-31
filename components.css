@@ -4099,3 +4099,358 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   color: #22c55e;
 }
 
+/* ==========================================================================
+   FEARN FSRS Flashcard Suite & Modal Architecture
+   ========================================================================== */
+.fearn-srs-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100000;
+  background: rgba(0, 0, 0, 0.78);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  font-family: var(--font-body, system-ui, sans-serif);
+  color: var(--text-main, #f8fafc);
+}
+
+.fearn-srs-container {
+  width: 100%;
+  max-width: 740px;
+  max-height: 90vh;
+  background: var(--bg-deep, #0a0f1d);
+  border: 1px solid var(--glass-border-strong, rgba(255, 255, 255, 0.2));
+  border-radius: var(--radius-lg, 20px);
+  box-shadow: var(--glass-shadow-lg, 0 25px 60px rgba(0,0,0,0.7));
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: fearnModalPop 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  color: var(--text-main, #f8fafc);
+}
+
+.fearn-srs-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 22px;
+  border-bottom: 1px solid var(--glass-border, rgba(255,255,255,0.1));
+  background: var(--glass-bg-strong, rgba(255, 255, 255, 0.06));
+}
+
+.fearn-srs-title {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--lang-1, #38bdf8);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.fearn-srs-retention-badge {
+  font-size: 0.75rem;
+  color: var(--lang-1, #38bdf8);
+  background: var(--glass-bg-soft, rgba(56,189,248,0.1));
+  padding: 4px 12px;
+  border-radius: var(--radius-pill, 999px);
+  border: 1px solid var(--glass-border, rgba(56,189,248,0.25));
+  font-weight: 700;
+}
+
+.fearn-srs-close-btn {
+  background: none;
+  border: none;
+  color: var(--text-sub, #94a3b8);
+  font-size: 1.4rem;
+  cursor: pointer;
+  padding: 2px 8px;
+  border-radius: 6px;
+  line-height: 1;
+  transition: all 0.15s ease;
+}
+
+.fearn-srs-close-btn:hover {
+  color: var(--text-main, #ffffff);
+  background: var(--glass-bg-soft, rgba(255,255,255,0.1));
+}
+
+.fearn-srs-tabs {
+  display: flex;
+  gap: 6px;
+  padding: 10px 16px;
+  background: var(--glass-bg-soft, rgba(0,0,0,0.2));
+  overflow-x: auto;
+  border-bottom: 1px solid var(--glass-border, rgba(255,255,255,0.08));
+  scrollbar-width: thin;
+}
+
+.fearn-srs-tab-btn {
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+  border: 1px solid var(--glass-border, rgba(255,255,255,0.12));
+  background: var(--glass-bg, rgba(255,255,255,0.04));
+  color: var(--text-sub, #94a3b8);
+  transition: all 0.15s ease;
+}
+
+.fearn-srs-tab-btn:hover {
+  color: var(--text-main, #ffffff);
+  border-color: var(--glass-border-strong, rgba(255,255,255,0.3));
+}
+
+.fearn-srs-tab-btn.is-active {
+  border-color: var(--lang-1, #38bdf8);
+  background: var(--glass-bg-strong, rgba(56,189,248,0.2));
+  color: var(--lang-1, #38bdf8);
+  font-weight: 800;
+}
+
+.fearn-srs-body {
+  padding: 24px 26px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  flex: 1;
+}
+
+.fearn-srs-deck-title {
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: var(--text-main, #f8fafc);
+  margin-bottom: 4px;
+}
+
+.fearn-srs-deck-desc {
+  font-size: 0.85rem;
+  color: var(--text-sub, #94a3b8);
+  line-height: 1.45;
+}
+
+.fearn-srs-counts-grid {
+  display: flex;
+  justify-content: space-around;
+  gap: 12px;
+  background: var(--glass-bg, rgba(255,255,255,0.04));
+  padding: 16px;
+  border-radius: 14px;
+  border: 1px solid var(--glass-border, rgba(255,255,255,0.1));
+}
+
+.fearn-srs-count-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fearn-srs-count-num {
+  font-size: 1.8rem;
+  font-weight: 900;
+}
+
+.fearn-srs-count-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 2px;
+}
+
+.fearn-srs-card-box {
+  min-height: 230px;
+  background: var(--glass-bg, rgba(255,255,255,0.05));
+  border: 1.5px solid var(--glass-border-strong, rgba(255,255,255,0.2));
+  border-radius: 16px;
+  padding: 26px 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: var(--glass-shadow, 0 8px 30px rgba(0,0,0,0.3));
+}
+
+.fearn-srs-card-box:hover {
+  border-color: var(--lang-1, #38bdf8);
+  box-shadow: 0 0 28px rgba(56, 189, 248, 0.2);
+}
+
+.fearn-srs-card-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--lang-1, #38bdf8);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+
+.fearn-srs-target {
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--text-main, #f8fafc);
+  margin-bottom: 12px;
+  line-height: 1.3;
+}
+
+.fearn-srs-reading {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text-sub, #cbd5e1);
+  margin-bottom: 10px;
+}
+
+.fearn-srs-trans-box {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-main, #f8fafc);
+  margin-bottom: 12px;
+  background: var(--glass-bg-strong, rgba(255,255,255,0.08));
+  padding: 10px 18px;
+  border-radius: 10px;
+  border: 1px solid var(--glass-border, rgba(255,255,255,0.18));
+  text-align: left;
+  line-height: 1.5;
+  width: 100%;
+}
+
+.fearn-srs-mnemonic-box {
+  font-size: 0.82rem;
+  color: #fbbf24;
+  background: rgba(251,191,36,0.12);
+  padding: 8px 14px;
+  border-radius: 8px;
+  margin-top: 4px;
+  border: 1px solid rgba(251,191,36,0.25);
+  text-align: left;
+  line-height: 1.4;
+  width: 100%;
+}
+
+.fearn-srs-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 22px;
+  border-top: 1px solid var(--glass-border, rgba(255,255,255,0.1));
+  background: var(--glass-bg-strong, rgba(255,255,255,0.06));
+}
+
+.fearn-srs-grade-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  width: 100%;
+}
+
+.fearn-srs-btn-grade {
+  font-family: inherit;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.fearn-srs-btn-grade:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.2);
+}
+
+.fearn-srs-btn-again {
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #ef4444;
+}
+
+.fearn-srs-btn-hard {
+  background: rgba(249, 115, 22, 0.15);
+  border: 1px solid rgba(249, 115, 22, 0.4);
+  color: #f97316;
+}
+
+.fearn-srs-btn-good {
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  color: #10b981;
+}
+
+.fearn-srs-btn-easy {
+  background: rgba(14, 165, 233, 0.15);
+  border: 1px solid rgba(14, 165, 233, 0.4);
+  color: #0ea5e9;
+}
+
+.fearn-srs-primary-btn {
+  padding: 12px 24px;
+  border-radius: var(--radius-pill, 999px);
+  background: var(--lang-1, #38bdf8);
+  color: var(--text-on-accent, #05060a);
+  border: none;
+  font-weight: 800;
+  font-size: 0.95rem;
+  cursor: pointer;
+  box-shadow: 0 4px 18px rgba(56, 189, 248, 0.35);
+  transition: all 0.15s ease;
+}
+
+.fearn-srs-primary-btn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.1);
+}
+
+.fearn-srs-ghost-btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: var(--glass-bg, rgba(255,255,255,0.06));
+  color: var(--text-sub, #94a3b8);
+  border: 1px solid var(--glass-border, rgba(255,255,255,0.12));
+  font-weight: 700;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.fearn-srs-ghost-btn:hover {
+  color: var(--text-main, #ffffff);
+  border-color: var(--glass-border-strong, rgba(255,255,255,0.3));
+}
+
+/* ==========================================================================
+   Journey Mode Cards & Interactive Nodes
+   ========================================================================== */
+.fearn-progress-card {
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.fearn-progress-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--lang-1, #38bdf8) !important;
+  box-shadow: 0 6px 20px rgba(56, 189, 248, 0.15);
+}
+
+.fearn-due-item {
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.fearn-due-item:hover {
+  background: var(--glass-bg-strong) !important;
+  transform: translateX(4px);
+}
+
+
