@@ -1796,9 +1796,27 @@
     },
     {
       "term": "Feierabend",
-      "definition": "Culturally revered concept marking the exact moment the workday ends and personal leisure time begins",
-      "category": "Culture & Untranslatable",
-      "level": "A2"
+      "definition": "The end of the working day, evening leisure time, or celebration of finishing one's daily work.",
+      "category": "Arbeitswelt und Kultur",
+      "level": "A2 / Grundstufe",
+      "pronunciation": "/ˈfaɪ̯ɐˌʔaːbn̩t/",
+      "partOfSpeech": "Substantiv maskulin (Noun)",
+      "examples": [
+        {
+          "target": "Um punkt siebzehn Uhr machen die meisten Mitarbeiter Feierabend.",
+          "translation": "At precisely five o'clock, most coworkers finish their workday."
+        },
+        {
+          "target": "Schönen Feierabend allerseits! Genießen Sie das wohlverdiente Wochenende.",
+          "translation": "Have a wonderful evening after work everyone! Enjoy your well-earned weekend."
+        }
+      ],
+      "synonyms": [
+        "Arbeitsende",
+        "Dienstschluss",
+        "Freizeit"
+      ],
+      "register": "Standard / Alltag"
     },
     {
       "term": "Gemütlichkeit",
@@ -1808,21 +1826,81 @@
     },
     {
       "term": "Schadenfreude",
-      "definition": "Secret pleasure or malicious satisfaction derived from witnessing someone else's misfortune",
-      "category": "Psychology & Untranslatable",
-      "level": "B1"
+      "definition": "Pleasure, malicious joy, or self-satisfaction derived from another person's misfortune or embarrassment.",
+      "category": "Psychologie und Emotionen",
+      "level": "B1 / Mittelstufe",
+      "pronunciation": "/ˈʃaːdənˌfʁɔɪ̯də/",
+      "partOfSpeech": "Substantiv feminin (Noun)",
+      "examples": [
+        {
+          "target": "Er konnte eine gewisse Schadenfreude nicht verbergen, als sein arroganter Konkurrent scheiterte.",
+          "translation": "He could not conceal a certain malicious joy when his arrogant competitor failed."
+        },
+        {
+          "target": "Schadenfreude gilt in vielen ethischen Traditionen als moralisch fragwürdige Emotion.",
+          "translation": "Schadenfreude is regarded in many ethical traditions as a morally questionable emotion."
+        }
+      ],
+      "synonyms": [
+        "Häme",
+        "Spottlust",
+        "Boshaftigkeit"
+      ],
+      "antonyms": [
+        "Mitgefühl (compassion)",
+        "Mitleid"
+      ],
+      "register": "Standard / International entlehnt"
     },
     {
-      "term": "Fernweh vs Heimweh",
-      "definition": "Longing for distant places and travel wanderlust (Fernweh) vs homesickness (Heimweh)",
-      "category": "Emotion & Culture",
-      "level": "B1"
+      "term": "Fernweh",
+      "definition": "An ache or yearning for distant places, foreign travels, and wanderlust; the opposite of homesickness (Heimweh).",
+      "category": "Reise und Sehnsucht",
+      "level": "B1 / Mittelstufe",
+      "pronunciation": "/ˈfɛʁnˌveː/",
+      "partOfSpeech": "Substantiv neutrum (Noun)",
+      "examples": [
+        {
+          "target": "Das Betrachten alter Landkarten weckte in ihr ein unstillbares Fernweh.",
+          "translation": "Looking at old maps awakened an insatiable yearning for far-off lands in her."
+        },
+        {
+          "target": "Im trüben Winter packt viele Menschen das Fernweh nach sonnigen Ländern.",
+          "translation": "In bleak winter, wanderlust for sunny lands grips many people."
+        }
+      ],
+      "synonyms": [
+        "Wanderlust",
+        "Reisefieber",
+        "Sehnsucht nach der Ferne"
+      ],
+      "antonyms": [
+        "Heimweh (homesickness)"
+      ],
+      "register": "Standard / Poetisch"
     },
     {
       "term": "Kummerspeck",
-      "definition": "Grief bacon: excess weight gained from emotional stress eating over difficult times",
-      "category": "Humor & Untranslatable",
-      "level": "B1"
+      "definition": "Excess weight or body fat gained from emotional overeating or comfort-eating during times of grief, stress, or sorrow.",
+      "category": "Alltagssprache und Psychologie",
+      "level": "B2 / Mittelstufe",
+      "pronunciation": "/ˈkʊmɐˌʃpɛk/",
+      "partOfSpeech": "Substantiv maskulin (Noun)",
+      "examples": [
+        {
+          "target": "Nach der schmerzhaften Trennung hatte sie etwas Kummerspeck angesetzt.",
+          "translation": "After the painful breakup, she had put on some emotional weight."
+        },
+        {
+          "target": "Regelmäßiger Sport und gesunde Ernährung helfen, den Kummerspeck wieder abzubauen.",
+          "translation": "Regular sports and healthy nutrition help to shed stress-gained weight again."
+        }
+      ],
+      "synonyms": [
+        "Frustspeck",
+        "Stressgewicht"
+      ],
+      "register": "Umgangssprachlich / Humorvoll"
     },
     {
       "term": "Ohrwurm",
@@ -1979,6 +2057,104 @@
       "definition": "The backbone of the German economy: family-owned, highly specialized, export-oriented small and medium-sized enterprises",
       "category": "Business & Economy",
       "level": "B2 / C1"
+    },
+    {
+      "term": "Waldeinsamkeit",
+      "pronunciation": "/ˈvalt.aɪ̯n.zaːm.kaɪ̯t/",
+      "partOfSpeech": "Substantiv feminin (Noun)",
+      "definition": "The contemplative, tranquil, and restorative feeling of being alone in the forest and connected with nature; quintessential German Romanticism concept.",
+      "category": "Natur und Philosophie",
+      "level": "B2 / Fortgeschritten",
+      "examples": [
+        {
+          "target": "Ludwig Tieck prägte den Begriff der Waldeinsamkeit in der deutschen Romantik.",
+          "translation": "Ludwig Tieck coined the concept of forest loneliness in German Romanticism."
+        },
+        {
+          "target": "Nach einer anstrengenden Arbeitswoche suchte er die heilsame Waldeinsamkeit im Schwarzwald.",
+          "translation": "After an exhausting work week, he sought the healing tranquility of the forest in the Black Forest."
+        }
+      ],
+      "synonyms": [
+        "Waldesruhe",
+        "Naturverbundenheit",
+        "Stille im Wald"
+      ],
+      "register": "Gehoben / Literarisch",
+      "notes": "Famous German untranslatable word capturing the spiritual refuge found in dense German woodlands."
+    },
+    {
+      "term": "Gestalt",
+      "pronunciation": "/ɡəˈʃtalt/",
+      "partOfSpeech": "Substantiv feminin (Noun)",
+      "definition": "An organized whole, configuration, or pattern that is perceived as more than the sum of its individual parts (central to Gestalt psychology and aesthetics).",
+      "category": "Psychologie und Ästhetik",
+      "level": "C1 / Fachsprache",
+      "examples": [
+        {
+          "target": "Die Gestaltpsychologie besagt: Das Ganze ist etwas anderes als die Summe seiner Teile.",
+          "translation": "Gestalt psychology asserts: The whole is something other than the sum of its parts."
+        },
+        {
+          "target": "Im dichten Nebel zeichnete sich die dunkle Gestalt eines alten Schlosses ab.",
+          "translation": "In the dense fog, the dark figure/silhouette of an ancient castle emerged."
+        }
+      ],
+      "synonyms": [
+        "Ganzheit",
+        "Form",
+        "Struktur",
+        "Erscheinungsbild"
+      ],
+      "register": "Wissenschaftlich / Standard"
+    },
+    {
+      "term": "Zeitgeist",
+      "pronunciation": "/ˈtsaɪ̯tˌɡaɪ̯st/",
+      "partOfSpeech": "Substantiv maskulin (Noun)",
+      "definition": "The defining spirit, intellectual outlook, moral mood, or cultural ethos characteristic of a particular era in history.",
+      "category": "Philosophie und Kultur",
+      "level": "B2 / Fortgeschritten",
+      "examples": [
+        {
+          "target": "Der Roman fängt den rebellischen Zeitgeist der späten sechziger Jahre perfekt ein.",
+          "translation": "The novel perfectly captures the rebellious zeitgeist of the late 1960s."
+        },
+        {
+          "target": "Künstlerische Strömungen reflektieren stets den vorherrschenden gesellschaftlichen Zeitgeist.",
+          "translation": "Artistic movements consistently reflect the prevailing societal spirit of the times."
+        }
+      ],
+      "synonyms": [
+        "Epochenbewusstsein",
+        "Zeitstimmung",
+        "Kulturklima"
+      ],
+      "register": "Gehoben / Kulturphilosophisch"
+    },
+    {
+      "term": "Nachhaltigkeit",
+      "pronunciation": "/ˈnaːxˌhaltɪçkaɪ̯t/",
+      "partOfSpeech": "Substantiv feminin (Noun)",
+      "definition": "Sustainability; principle originally developed in 18th-century German forestry (Hans Carl von Carlowitz) requiring that only as much timber be felled as can naturally regenerate.",
+      "category": "Ökologie und Wirtschaft",
+      "level": "B2 / Fortgeschritten",
+      "examples": [
+        {
+          "target": "Hans Carl von Carlowitz formulierte 1713 das moderne Prinzip der forstwirtschaftlichen Nachhaltigkeit.",
+          "translation": "Hans Carl von Carlowitz formulated the modern principle of forestry sustainability in 1713."
+        },
+        {
+          "target": "Ökologische und ökonomische Nachhaltigkeit müssen in zukunftsfähigen Unternehmen Hand in Hand gehen.",
+          "translation": "Ecological and economic sustainability must go hand in hand in future-proof enterprises."
+        }
+      ],
+      "synonyms": [
+        "Dauerhaftigkeit",
+        "Zukunftsfähigkeit",
+        "Ressourcenschonung"
+      ],
+      "register": "Standard / Fachsprache"
     }
   ],
   "russian": [
