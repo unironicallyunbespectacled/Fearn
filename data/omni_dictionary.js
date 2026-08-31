@@ -5223,16 +5223,56 @@
       "level": "A2 / B1"
     },
     {
-      "term": "Dor (Untranslatable Noun)",
-      "definition": "Deep bittersweet yearning, longing, nostalgia, and love for an absent person, home, or time",
-      "category": "Untranslatable & Emotion",
-      "level": "B1"
+      "term": "Dor",
+      "definition": "Profound, bittersweet yearning, nostalgic ache, longing, or love for a person, homeland, or past state of happiness (quintessential Romanian untranslatable concept derived from Latin \"dolus\").",
+      "category": "Cultură și Sentimente (Culture & Emotions)",
+      "level": "A2 / Elementar",
+      "pronunciation": "[dor]",
+      "partOfSpeech": "Substantiv neutru (Noun - Neuter)",
+      "examples": [
+        {
+          "target": "Mi-e un dor nespus de casa părintească și de munții Carpați.",
+          "translation": "I have an unspeakable longing (dor) for my parents' home and the Carpathian Mountains."
+        },
+        {
+          "target": "Muzica populară românească și doina exprimă cel mai profund sentimentul de dor.",
+          "translation": "Romanian folk music and the doina express most deeply the feeling of dor (longing)."
+        }
+      ],
+      "synonyms": [
+        "Tânjire (yearning)",
+        "Nostalgie",
+        "Jale"
+      ],
+      "register": "General / Poetic"
     },
     {
-      "term": "Omenie (Cultural Humanity)",
-      "definition": "Untranslatable virtue of hospitality, kindness, moral integrity, compassion, and neighborly generosity",
-      "category": "Cultural Values",
-      "level": "B2"
+      "term": "Omenie",
+      "definition": "Humaneness, moral decency, hospitality, compassion, integrity, and altruistic benevolence; the foundational traditional Romanian ethical virtue.",
+      "category": "Etică și Filosofie Tradițională (Ethics & Philosophy)",
+      "level": "B2 / Avansat",
+      "pronunciation": "[o.meˈni.e]",
+      "partOfSpeech": "Substantiv feminin (Noun - Feminine)",
+      "examples": [
+        {
+          "target": "A da dovadă de omenie înseamnă a ajuta necondiționat pe cel aflat la nevoie.",
+          "translation": "To give proof of omenie (humaneness) means to unconditionally help those in need."
+        },
+        {
+          "target": "Omenia și bunul-simț sunt valorile de căpătâi ale satului românesc tradițional.",
+          "translation": "Human decency (omenie) and common sense are the foremost values of the traditional Romanian village."
+        }
+      ],
+      "synonyms": [
+        "Umanitate (humanity)",
+        "Bunătate (kindness)",
+        "Generozitate",
+        "Cumsecădenie"
+      ],
+      "antonyms": [
+        "Neomenie (cruelty / inhumanity)"
+      ],
+      "register": "Tradițional / Etic (Traditional / Ethical)"
     },
     {
       "term": "Miorița & Spațiul mioritic",
@@ -5401,6 +5441,57 @@
       "definition": "Notarized legal instrument empowering designated agents to perform legal and financial transactions",
       "category": "Legal & Notary",
       "level": "C1"
+    },
+    {
+      "term": "Doină",
+      "pronunciation": "[ˈdoj.nə]",
+      "partOfSpeech": "Substantiv feminin (Noun - Feminine)",
+      "definition": "Traditional Romanian lyrical, improvisational, melismatic folk song expressing sorrow, longing (dor), love, or pastoral connection with nature (UNESCO Intangible Cultural Heritage).",
+      "category": "Folclor și Muzică (Folklore & Music)",
+      "level": "B1 / Intermediar",
+      "examples": [
+        {
+          "target": "Ciobănașul cânta o doină de jale din fluier pe culmile înverzite ale munților.",
+          "translation": "The young shepherd played a sorrowful doina on his flute upon the green mountain peaks."
+        },
+        {
+          "target": "Doina românească a fost inclusă pe lista Patrimoniului Cultural Imaterial UNESCO.",
+          "translation": "The Romanian doina was inscribed on the UNESCO Intangible Cultural Heritage list."
+        }
+      ],
+      "synonyms": [
+        "Cântec liric popular",
+        "Cântec de dor"
+      ],
+      "register": "Folclor / Cultural"
+    },
+    {
+      "term": "Tihnă",
+      "pronunciation": "[ˈtih.nə]",
+      "partOfSpeech": "Substantiv feminin (Noun - Feminine)",
+      "definition": "Quiet, unhurried peace of mind, restorative tranquility, serene rest and contentment.",
+      "category": "Stare de Spirit (State of Mind & Well-being)",
+      "level": "B1 / Intermediar",
+      "examples": [
+        {
+          "target": "Bucurați-vă de o seară liniștită și de tihna căminului alături de cei dragi.",
+          "translation": "Enjoy a peaceful evening and the restorative tranquility (tihnă) of home alongside your loved ones."
+        },
+        {
+          "target": "După ani de muncă asiduă, bătrânul își trăiește pensia în deplină tihnă.",
+          "translation": "After years of arduous labor, the old man lives his retirement in complete tranquility."
+        }
+      ],
+      "synonyms": [
+        "Liniște (peace)",
+        "Pace sufletească",
+        "Răgaz"
+      ],
+      "antonyms": [
+        "Agitație (turmoil / rush)",
+        "Zbucium"
+      ],
+      "register": "Literar / Tradițional (Literary / Traditional)"
     }
   ],
   "argentine-spanish": [
