@@ -685,7 +685,11 @@
     icon: '🇸🇦',
     render: function (container) {
       container.innerHTML = '';
-      container.classList.add('fearn-arabic-module');
+      if (container.classList && typeof container.classList.add === 'function') {
+        container.classList.add('fearn-arabic-module');
+      } else if (container.className !== undefined) {
+        container.className = (container.className ? container.className + ' ' : '') + 'fearn-arabic-module';
+      }
       var curriculum = getCurriculum();
       var ledger = getLedger();
 

@@ -852,11 +852,12 @@
       
       const hasMatchingVoice = FEARN.audio.hasVoice(langKey);
       if (hasMatchingVoice) {
+        btn.className = 'fearn-speak-btn';
         btn.title = 'Listen to pronunciation';
         btn.setAttribute('aria-label', 'Listen to pronunciation');
         btn.style.cssText = 'background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; margin-left:8px; cursor:pointer; font-size:0.95rem; color:#fff; transition:all 0.2s;';
       } else {
-        btn.classList.add('fearn-speak-fallback');
+        btn.className = 'fearn-speak-btn fearn-speak-fallback';
         btn.title = 'Listen to pronunciation (Device fallback — native voice not detected on this system)';
         btn.setAttribute('aria-label', 'Listen to pronunciation (Device synthesis fallback)');
         btn.style.cssText = 'background:rgba(245,158,11,0.08); border:1px dashed rgba(245,158,11,0.4); border-radius:6px; padding:3px 8px; margin-left:8px; cursor:pointer; font-size:0.95rem; color:#fde68a; opacity:0.9; transition:all 0.2s;';
