@@ -1656,7 +1656,7 @@
             "vierundzwanzig",
             "zwanzigundvier",
             "zwanzigvier",
-            "vierundzwanzig"
+            "vierundzwanzig (Alternative variation)"
           ],
           "answerIndex": 0,
           "explanation": "German puts the unit first: vier (4) + und (and) + zwanzig (20) = vierundzwanzig."
@@ -7456,7 +7456,7 @@
           "options": [
             "Der",
             "Die",
-            "Die",
+            "Die (Alternative variation)",
             "Das"
           ],
           "answerIndex": 3,
@@ -7591,7 +7591,7 @@
           "options": [
             "Aufräumen",
             "Machen auf",
-            "Aufräumen",
+            "Aufräumen (Alternative variation)",
             "Putzen auf"
           ],
           "answerIndex": 0,

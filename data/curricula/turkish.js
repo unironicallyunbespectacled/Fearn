@@ -4856,7 +4856,7 @@
           "prompt": "What case suffix does the object of 'sevmek' (to like/love) typically take when specific?",
           "options": [
             "Ablative case",
-            "Accusative case (-(y)ı / -(y)i / -(y)u / -(y)ü",
+            "Accusative case (-(y)ı / -(y)i / -(y)u / -(y)ü)",
             "Dative case",
             "Locative case"
           ],

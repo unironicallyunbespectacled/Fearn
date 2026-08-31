@@ -461,7 +461,7 @@
           "options": [
             "Utility = exp",
             "Utility = sum",
-            "Utility = - sum(v_d * (Brand_d - Ideal_d)^2",
+            "Utility = - sum(v_d * (Brand_d - Ideal_d)^2)",
             "Utility = Brand_d - Ideal_d"
           ],
           "answerIndex": 2,
@@ -1189,7 +1189,7 @@
             "Only after the product is discontinued",
             "At time $t^* = \\frac{1}{p+q} \\ln(q/p)$ when the S-curve inflection occurs",
             "At time $t = 0$",
-            "When the market is 100% saturated ($N(t) = M$"
+            "When the market is 100% saturated ($N(t) = M$)"
           ],
           "answerIndex": 1,
           "explanation": "Peak sales occur at the mathematical inflection point $t^*$.",
@@ -1762,7 +1762,7 @@
           "options": [
             "0.0%",
             "50.0%",
-            "33.3% (e^0 / (e^0 + e^0 + e^0) = 1 / 3",
+            "33.3% (e^0 / (e^0 + e^0 + e^0) = 1 / 3)",
             "100.0%"
           ],
           "answerIndex": 2,

@@ -1,4 +1,4 @@
-// FEARN Curriculum Data — CS110: Algorithms & Data Structures
+// FEARN Curriculum Data — cs110
 (function (global) {
   'use strict';
   var UNITS = [
@@ -117,9 +117,9 @@
           "prompt": "In procedural programming, what happens to local variables declared inside a function once the function finishes executing and returns?",
           "options": [
             "Their stack frame is popped and their local memory is deallocated / reclaimed.",
-            "They permanently overwrite the computer's hard drive.",
-            "They become global variables accessible by all other programs.",
-            "They prevent the computer from executing any future functions."
+            "$O(1)$",
+            "$O(n)$",
+            "$O(n^2)$"
           ],
           "answerIndex": 0,
           "explanation": "Local variables exist on the call stack for the duration of the function execution frame and are discarded upon return."
@@ -184,8 +184,8 @@
           "prompt": "For T(n) = 4T(n/2) + n^2, what is the asymptotic complexity using Master Theorem?",
           "options": [
             "Theta",
-            "Theta",
-            "Theta",
+            "$O(n \\log n)$",
+            "$\\Omega(n)$",
             "Theta(n^2 log n) [Case 2, log_2(4) = 2, f(n)=n^2]"
           ],
           "answerIndex": 3,
@@ -199,9 +199,9 @@
           "prompt": "What is the definition of Theta(g(n))?",
           "options": [
             "Asymptotically tight bound sandwiched between c1*g(n) and c2*g",
-            "Only upper bound",
-            "Only lower bound",
-            "Average case only"
+            "$\\Theta(n^2)$",
+            "$\\Theta(n \\log n)$",
+            "$\\Theta(n)$"
           ],
           "answerIndex": 0,
           "explanation": "Theta denotes asymptotically tight upper and lower bounds."
@@ -268,12 +268,12 @@
         {
           "prompt": "Under Master Theorem, if T(n) = 2 T(n/2) + n log n, what is the asymptotic solution?",
           "options": [
-            "Theta",
-            "Theta",
-            "Theta",
-            "Theta"
+            "$\\Theta(1)$",
+            "$\\Omega(n)$",
+            "$\\Omega(n^2)$",
+            "$\\Omega(\\log n)$"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Theta(n log^2 n)."
         }
       ]
@@ -350,12 +350,12 @@
         {
           "prompt": "What requirement must a valid potential function Phi(D) satisfy relative to the initial state D_0?",
           "options": [
-            "Phi(D) must be negative",
-            "Phi(D) must equal zero for all states",
-            "Phi(D) must be exponential",
-            "Phi(D_i) >= Phi(D_0) for all i"
+            "Phi(D_i) >= Phi(D_0) for all i",
+            "$o(n)$",
+            "$o(n^2)$",
+            "$\\omega(n)$"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Phi(D_i) >= Phi(D_0) for all i."
         }
       ]
@@ -419,8 +419,8 @@
           "options": [
             "O(n) strictly linear time",
             "O",
-            "O",
-            "O"
+            "$O(n \\log n)$",
+            "$\\Omega(n)$"
           ],
           "answerIndex": 0,
           "explanation": "O(n) strictly linear time."
@@ -433,9 +433,9 @@
           "prompt": "Why does the recurrence T(n) = T(n/5) + T(7n/10) + O(n) solve to linear O(n) time?",
           "options": [
             "Because the branching fractions sum to 1/5 + 7/10 = 9/10 < 1, forming a converging geometric series.",
-            "Because Quickselect uses binary search.",
-            "Because Master Theorem Case 3 applies.",
-            "Because 5 is a prime number."
+            "Case 1: $T(n) = \\Theta(n^{\\log_b a})$",
+            "Case 2: $T(n) = \\Theta(n^{\\log_b a} \\log n)$",
+            "Case 3: $T(n) = \\Theta(f(n))$"
           ],
           "answerIndex": 0,
           "explanation": "Because branching fractions sum to 9/10 < 1."
@@ -500,9 +500,9 @@
           "prompt": "What is the information-theoretic lower bound on the number of comparisons required to sort n elements in the comparison model?",
           "options": [
             "Omega",
-            "Omega",
-            "Omega",
-            "Omega"
+            "$O(n \\log n)$",
+            "$\\Omega(n)$",
+            "$\\Theta(1)$"
           ],
           "answerIndex": 0,
           "explanation": "Omega(n log n)."
@@ -515,9 +515,9 @@
           "prompt": "How does Radix Sort achieve O(d * n) time complexity, bypassing the Omega(n log n) comparison lower bound?",
           "options": [
             "It uses non-comparison bucket hashing based on positional digit values rather than pairwise key comparisons.",
-            "It uses faster CPU clock speeds.",
-            "It converts numbers into floating point.",
-            "It skips half the array elements."
+            "Substitution method",
+            "Recursion tree method",
+            "Akra-Bazzi method"
           ],
           "answerIndex": 0,
           "explanation": "It uses non-comparison bucket hashing based on positional digit values."
@@ -596,12 +596,12 @@
         {
           "prompt": "What is the exact probability that a single run of basic Karger contraction succeeds in finding a specific minimum cut in an n-vertex graph?",
           "options": [
-            "Exactly 1 / 2^n",
-            "At least 1 / n!",
             "At least 2 / (n * (n - 1)) = Omega",
-            "At least 1 / 2"
+            "Ford-Fulkerson Method with augmenting paths",
+            "Edmonds-Karp in $O(V E^2)$ via BFS paths",
+            "Dinic algorithm in $O(V^2 E)$ with blocking flows"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "At least 2 / (n * (n - 1)) = Omega(1 / n^2)."
         }
       ]
@@ -624,9 +624,9 @@
           "prompt": "What master asymptotic time complexity is achieved by the recursive Karger-Stein algorithm to find the global min-cut with high probability?",
           "options": [
             "O",
-            "O",
-            "O",
-            "O"
+            "$O(n \\log n)$",
+            "$\\Omega(n)$",
+            "$\\Theta(1)$"
           ],
           "answerIndex": 3,
           "explanation": "O(n^2 log n).",
@@ -678,12 +678,12 @@
         {
           "prompt": "Why is the total cost of the minimum-weight perfect matching on odd-degree vertices bounded by 0.5 * OPT in Christofides' algorithm?",
           "options": [
-            "Because odd vertices have zero weight.",
-            "Because matching uses Dijkstra's algorithm.",
-            "Because Eulerian circuits divide all costs by two.",
-            "Because the optimal TSP tour restricted to odd vertices decomposes into two disjoint matchings, one of which must cost <= 0.5 * OPT."
+            "Because the optimal TSP tour restricted to odd vertices decomposes into two disjoint matchings, one of which must cost <= 0.5 * OPT.",
+            "Kruskal with Union-Find in $O(E \\log V)$",
+            "Prim with Min-Heap in $O(E \\log V)$",
+            "Boruvka parallel MST in $O(E \\log V)$"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Because the optimal tour decomposes into two disjoint matchings."
         }
       ]
@@ -761,9 +761,9 @@
           "prompt": "When reducing 3-SAT to CLIQUE with k clauses, between which literal vertices are edges placed in the gadget graph?",
           "options": [
             "Between vertices in different clauses that are not negations of each other (u != NOT v).",
-            "Between all vertices in the same clause.",
-            "Only between identical literals.",
-            "Between all pairs of vertices."
+            "Dijkstra with Fibonacci Heap in $O(E + V \\log V)$",
+            "Bellman-Ford in $O(V E)$ for negative edges",
+            "Floyd-Warshall in $O(V^3)$ all-pairs"
           ],
           "answerIndex": 0,
           "explanation": "Between vertices in different clauses that are not negations of each other."
@@ -844,9 +844,9 @@
           "prompt": "What is the time complexity of Kruskal's MST algorithm for a graph with $V$ vertices and $E$ edges using Disjoint Set Union (DSU)?",
           "options": [
             "$O(E \\log E)$ or $O(E \\log V)$",
-            "$O(V^3)$",
-            "$O(2^V)$",
-            "$O(E \\cdot V)$"
+            "Breadth-First Search (BFS) in $O(V + E)$",
+            "Depth-First Search (DFS) in $O(V + E)$",
+            "Topological Sort via DFS finish times"
           ],
           "answerIndex": 0,
           "explanation": "Sorting edges takes $O(E \\log E)$, while $2E$ DSU operations take $O(E \\alpha(V))$ nearly linear time."
@@ -926,9 +926,9 @@
           "prompt": "According to the Max-Flow Min-Cut Theorem, what is the exact relationship between the maximum flow value and the minimum capacity cut?",
           "options": [
             "The maximum flow value exactly equals the minimum s-t cut capacity.",
-            "The maximum flow is always half the minimum cut.",
-            "There is no mathematical relationship.",
-            "The maximum flow is strictly twice the minimum cut."
+            "Huffman Coding greedy prefix tree",
+            "Activity Selection earliest finish time",
+            "Fractional Knapsack value/weight ratio"
           ],
           "answerIndex": 0,
           "explanation": "The maximum flow value exactly equals the minimum s-t cut capacity."
@@ -953,9 +953,9 @@
           "prompt": "What asymptotic runtime does Dinic's blocking flow algorithm achieve when solving Maximum Bipartite Matching on unit-capacity networks?",
           "options": [
             "O",
-            "O",
-            "O",
-            "O"
+            "$O(n \\log n)$",
+            "$\\Omega(n)$",
+            "$\\Theta(1)$"
           ],
           "answerIndex": 3,
           "explanation": "O(E * sqrt(V)).",
@@ -1007,12 +1007,12 @@
         {
           "prompt": "In a Graphic Matroid where the ground set E consists of all edges of an undirected graph G, what defines the independent family I?",
           "options": [
-            "All cliques",
-            "All Hamiltonian paths",
-            "All vertex covers",
-            "Acyclic edge sets"
+            "Acyclic edge sets",
+            "Longest Common Subsequence in $O(m n)$",
+            "Edit Distance (Levenshtein) in $O(m n)$",
+            "Matrix Chain Multiplication in $O(n^3)$"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Acyclic edge sets (Forests / Spanning Trees)."
         }
       ]
@@ -1089,12 +1089,12 @@
         {
           "prompt": "What scaling factor K is applied to item values in the Knapsack FPTAS to guarantee a (1 - epsilon)-approximation in polynomial time?",
           "options": [
-            "K = W / n",
-            "K = epsilon * n",
-            "K = log",
-            "K = (epsilon * V_max) / n"
+            "K = (epsilon * V_max) / n",
+            "0/1 Knapsack in $O(n W)$ pseudo-polynomial",
+            "Fractional Knapsack via Greedy in $O(n \\log n)$",
+            "Unbounded Knapsack in $O(n W)$"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "K = (epsilon * V_max) / n."
         }
       ]
@@ -1173,9 +1173,9 @@
           "prompt": "What is the time complexity of the Matrix Chain Multiplication dynamic programming algorithm for $n$ matrices?",
           "options": [
             "$O(n^3)$",
-            "$O(n^2)$",
-            "$O(n \\log n)$",
-            "$O(2^n)$"
+            "Optimal Substructure & Overlapping Subproblems",
+            "Greedy-Choice Property",
+            "Divide-and-Conquer disjoint subproblems"
           ],
           "answerIndex": 0,
           "explanation": "There are $O(n^2)$ subproblems $(i, j)$, each requiring $O(n)$ splits $k$, yielding $O(n^3)$ total time."
@@ -1254,10 +1254,10 @@
         {
           "prompt": "What is the worst-case time complexity of an orthogonal 2D range search query on a 2-d tree reporting m points?",
           "options": [
-            "O(sqrt(n) + m",
-            "O",
-            "O",
-            "O"
+            "O(sqrt(n) + m)",
+            "Cuckoo Hashing with 2 tables",
+            "Robin Hood Hashing variance reduction",
+            "Consistent Hashing ring"
           ],
           "answerIndex": 0,
           "explanation": "O(sqrt(n) + m)."
@@ -1337,9 +1337,9 @@
           "prompt": "Why are large-branching B-Trees (B ~ 500-1000) preferred over binary search trees for disk storage engines like PostgreSQL and MySQL InnoDB?",
           "options": [
             "They drastically reduce tree height, minimizing expensive disk block I/O operations.",
-            "They require zero RAM.",
-            "They eliminate the need for sorting.",
-            "They run on quantum computers."
+            "Universal Hashing family $P(h(x)=h(y)) \\le 1/m$",
+            "Perfect Hashing with $O(1)$ worst-case",
+            "Linear Probing with clustering"
           ],
           "answerIndex": 0,
           "explanation": "They drastically reduce tree height, minimizing expensive disk block I/O operations."
@@ -1418,12 +1418,12 @@
         {
           "prompt": "Which rotation is executed when an insertion causes a Left-Right (LR) imbalance at node x?",
           "options": [
-            "Single Left-rotate on x",
             "Left-rotate on left child, then Right-rotate on x",
-            "Right-rotate on right child",
-            "Single Right-rotate on x"
+            "Red-Black Case 1: Uncle is Red",
+            "Red-Black Case 2: Uncle is Black (triangle)",
+            "Red-Black Case 3: Uncle is Black (line)"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Left-rotate on left child, then Right-rotate on x."
         }
       ]
@@ -1500,12 +1500,12 @@
         {
           "prompt": "In RB-Insert Fixup Case 1, what condition triggers the recoloring of the parent, uncle, and grandparent without any rotations?",
           "options": [
-            "The uncle node is BLACK",
-            "The node is the root",
-            "The tree has height 1",
-            "The uncle node is RED"
+            "The uncle node is RED",
+            "Single Left Rotation",
+            "Single Right Rotation",
+            "Left-Right Double Rotation"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "The uncle node is RED."
         }
       ]
@@ -1583,12 +1583,12 @@
         {
           "prompt": "What is the time complexity of a single tree rotation (Left-Rotate or Right-Rotate)?",
           "options": [
-            "$O(\\log n)$",
-            "$O(n)$",
-            "$O(n \\log n)$",
-            "$O(1)$ constant time pointer reassignments"
+            "$O(1)$ constant time pointer reassignments",
+            "Tree rotation in $O(1)$",
+            "AVL balance factor $\\in \\{-1, 0, +1\\}$",
+            "Red-Black tree black-height invariance"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Rotations only update a constant number of pointer references (parent, left child, right child)."
         }
       ]
@@ -1613,7 +1613,7 @@
             "Varies depending on tree depth",
             "Always zero",
             "Always equal to total height $h$",
-            "The exact same number on every path (Black-Height invariance $bh(x)$"
+            "The exact same number on every path (Black-Height invariance $bh(x)$)"
           ],
           "answerIndex": 3,
           "explanation": "All paths from a node to descendant leaves must have identical black height.",
@@ -1666,9 +1666,9 @@
           "prompt": "How many total edges are contained in any valid Spanning Tree spanning a connected graph with V vertices?",
           "options": [
             "Exactly V - 1 edges",
-            "V edges",
-            "V + 1 edges",
-            "2V edges"
+            "Max-Heapify in $O(\\log n)$",
+            "Build-Max-Heap in $O(n)$",
+            "Heap-Extract-Max in $O(\\log n)$"
           ],
           "answerIndex": 0,
           "explanation": "Exactly V - 1 edges."
@@ -1748,9 +1748,9 @@
           "prompt": "How many total relaxation passes over all edges does the Bellman-Ford algorithm perform to guarantee shortest paths in a graph with V vertices?",
           "options": [
             "V - 1 passes",
-            "log V passes",
-            "V^2 passes",
-            "1 pass only"
+            "Decision tree depth $\\ge \\log(n!) = \\Omega(n \\log n)$",
+            "Adversary argument lower bound",
+            "Information-theoretic bound"
           ],
           "answerIndex": 0,
           "explanation": "V - 1 passes."
@@ -1829,12 +1829,12 @@
         {
           "prompt": "What is the optimal spatial complexity of storing a sparse graph with V vertices and E edges using an Adjacency List representation?",
           "options": [
-            "O",
-            "O",
-            "O",
-            "O"
+            "$O(n \\log n)$",
+            "Counting Sort with $O(n + k)$",
+            "Radix Sort with $O(d(n + k))$",
+            "Bucket Sort with uniform distribution"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "O(V + E)."
         }
       ]
@@ -1897,8 +1897,8 @@
           "prompt": "What is the time complexity of converting an unsorted array of N elements into a valid Binary Heap using the bottom-up `build_heap` operation?",
           "options": [
             "O",
-            "O",
-            "O",
+            "$O(n \\log n)$",
+            "$\\Omega(n)$",
             "O(N) linear time"
           ],
           "answerIndex": 3,
@@ -1911,12 +1911,12 @@
         {
           "prompt": "In a 0-indexed array representing a complete binary heap, what is the array index of the left child of a node located at index i?",
           "options": [
-            "2i",
-            "i + 1",
-            "i / 2",
-            "2i + 1"
+            "2i + 1",
+            "Lomuto partition scheme",
+            "Hoare partition scheme",
+            "Median-of-three pivot"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "2i + 1."
         }
       ]
@@ -1993,12 +1993,12 @@
         {
           "prompt": "What is the expected number of comparisons performed by Randomized Quicksort on an array of size n?",
           "options": [
-            "Theta",
-            "Theta",
             "2n ln n + O(n) = Theta",
-            "Theta"
+            "$O(n \\log n)$ guaranteed worst-case",
+            "$O(n^2)$ worst-case",
+            "$O(n)$ best-case"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Randomized pivot selection guarantees Theta(n log n) expected comparisons regardless of input."
         }
       ]
@@ -2023,7 +2023,7 @@
             "T(n) = O",
             "T(n) = Theta",
             "T(n) = T(n/3) + T(2n/3) + O(n) where 1/3 + 2/3 = 1 -> solving to O(n log n), losing linear guarantee!",
-            "T(n) = O"
+            "$O(n \\log n)$"
           ],
           "answerIndex": 2,
           "explanation": "Grouping by 3s yields branching fractions summing to 1, degrading runtime to O(n log n).",
@@ -2103,9 +2103,9 @@
           "prompt": "What is the master runtime of the Edmonds-Karp maximum flow algorithm on a graph with V vertices and E edges?",
           "options": [
             "O",
-            "O",
-            "O",
-            "O"
+            "$O(n \\log n)$",
+            "$\\Omega(n)$",
+            "$\\Theta(1)$"
           ],
           "answerIndex": 0,
           "explanation": "O(V * E^2).",
@@ -2157,12 +2157,12 @@
         {
           "prompt": "Which of the following is an NP-Complete problem established in Karp's 21 problems?",
           "options": [
-            "Dijkstra's Shortest Path",
             "3-SAT, CLIQUE, and VERTEX-COVER",
-            "Binary Search",
-            "MergeSort"
+            "Class P: Polynomial time solvable",
+            "Class NP: Polynomial time verifiable",
+            "NP-Complete via Karp polynomial reduction"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "3-SAT, CLIQUE, and VERTEX-COVER."
         }
       ]
@@ -2199,7 +2199,7 @@
     "title": "CS110 Master Capstone"
   }
 };
-  var CURRICULUM = { id: 'cs110', name: "CS110: Algorithms & Data Structures", units: UNITS, lessons: LESSONS };
+  var CURRICULUM = { id: 'cs110', name: 'CS 110: Algorithms & Data Structures', units: UNITS, lessons: LESSONS };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
   global.FEARN_CURRICULA['cs110'] = CURRICULUM;
   if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;

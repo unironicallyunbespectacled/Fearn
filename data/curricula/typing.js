@@ -174,7 +174,8 @@
             "Left pinky"
           ],
           "answer": "Left middle",
-          "difficulty": 500
+          "difficulty": 500,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l1-q3",
@@ -187,7 +188,8 @@
             "Nothing, they are a manufacturing accident"
           ],
           "answer": "Letting your fingers find home row by feel, without looking down",
-          "difficulty": 500
+          "difficulty": 500,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l1-q4",
@@ -251,7 +253,8 @@
             "quick"
           ],
           "answer": "alfalfa",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l2-q4",
@@ -301,7 +304,8 @@
             "Looking at the keyboard is always faster regardless of rhythm"
           ],
           "answer": "A steady, unbroken pace, because pauses and corrections cost more time than they save",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l3-q2",
@@ -321,7 +325,8 @@
             "Ignore it forever"
           ],
           "answer": "Finish typing the word, then correct it",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l3-q4",
@@ -367,7 +372,8 @@
             "Typing the same word twice to confirm accuracy"
           ],
           "answer": "Automatically snapping fingers back to their home-row key after any reach, including the space bar",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l4-q2",
@@ -387,7 +393,8 @@
             "It only helps with number keys"
           ],
           "answer": "It keeps home row a stable, reliable base every finger can return to no matter how far it just reached",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         }
       ]
     },
@@ -440,7 +447,8 @@
             "Right pinky"
           ],
           "answer": "Right pinky",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l5-q4",
@@ -453,7 +461,8 @@
             "Learning the top and bottom rows early"
           ],
           "answer": "Establishing home row as an automatic, reliable base you never need to look at",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "typing-u1-l5-q5",
@@ -510,7 +519,8 @@
             "Left pinky"
           ],
           "answer": "Left middle",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "typing-u2-l1-q3",
@@ -530,7 +540,8 @@
             "It only applies to left-handed typists"
           ],
           "answer": "The index finger covers the widest territory of any finger, so its reaches fan out rather than stay in a single column",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         }
       ]
     },
@@ -580,7 +591,8 @@
             "Q and W"
           ],
           "answer": "R and T",
-          "difficulty": 555
+          "difficulty": 555,
+          "answerIndex": 0
         },
         {
           "id": "typing-u2-l2-q3",
@@ -607,7 +619,8 @@
             "Right pinky"
           ],
           "answer": "Right middle",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         }
       ]
     },
@@ -657,7 +670,8 @@
             "Right pinky"
           ],
           "answer": "Right pinky",
-          "difficulty": 560
+          "difficulty": 560,
+          "answerIndex": 0
         },
         {
           "id": "typing-u2-l3-q3",
@@ -682,7 +696,8 @@
             "False"
           ],
           "answer": "True",
-          "difficulty": 555
+          "difficulty": 555,
+          "answerIndex": 0
         }
       ]
     },
@@ -735,7 +750,8 @@
             "As a key that should be struck slower than letter keys"
           ],
           "answer": "As just another reach with its own steady, unhesitating rhythm",
-          "difficulty": 560
+          "difficulty": 560,
+          "answerIndex": 0
         },
         {
           "id": "typing-u2-l4-q4",
@@ -748,7 +764,8 @@
             "To check for spelling errors in the passage itself"
           ],
           "answer": "So your hands move at a steady pace instead of discovering the words as you go, which causes stop-and-go typing",
-          "difficulty": 560
+          "difficulty": 560,
+          "answerIndex": 0
         }
       ]
     },
@@ -801,7 +818,8 @@
             "Left ring"
           ],
           "answer": "Left index",
-          "difficulty": 570
+          "difficulty": 570,
+          "answerIndex": 0
         },
         {
           "id": "typing-u2-l5-q4",
@@ -814,7 +832,8 @@
             "Reaching 100+ WPM"
           ],
           "answer": "Extending home row up to the full top row while keeping the return reflex intact",
-          "difficulty": 570
+          "difficulty": 570,
+          "answerIndex": 0
         },
         {
           "id": "typing-u2-l5-q5",
@@ -871,7 +890,8 @@
             "Left pinky"
           ],
           "answer": "Left index",
-          "difficulty": 590
+          "difficulty": 590,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l1-q3",
@@ -891,7 +911,8 @@
             "It requires looking at the keyboard every time"
           ],
           "answer": "It stays on home row itself (a sideways lean, not an up/down reach), so it does not feel like \"reaching\" the way climbing a row does",
-          "difficulty": 590
+          "difficulty": 590,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l1-q5",
@@ -948,7 +969,8 @@
             "Left index"
           ],
           "answer": "Left ring",
-          "difficulty": 600
+          "difficulty": 600,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l2-q3",
@@ -975,7 +997,8 @@
             "Left index"
           ],
           "answer": "Left pinky",
-          "difficulty": 590
+          "difficulty": 590,
+          "answerIndex": 0
         }
       ]
     },
@@ -1025,7 +1048,8 @@
             "Right pinky"
           ],
           "answer": "Right index",
-          "difficulty": 610
+          "difficulty": 610,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l3-q3",
@@ -1045,7 +1069,8 @@
             "Left ring"
           ],
           "answer": "Left index",
-          "difficulty": 610
+          "difficulty": 610,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l3-q5",
@@ -1105,7 +1130,8 @@
             "100+ WPM"
           ],
           "answer": "25+ WPM",
-          "difficulty": 610
+          "difficulty": 610,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l4-q4",
@@ -1118,7 +1144,8 @@
             "Skip to the last word first"
           ],
           "answer": "Read it once fully so your hands move at a steady pace instead of discovering words as you type",
-          "difficulty": 610
+          "difficulty": 610,
+          "answerIndex": 0
         }
       ]
     },
@@ -1171,7 +1198,8 @@
             "Right pinky"
           ],
           "answer": "Right index",
-          "difficulty": 610
+          "difficulty": 610,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l5-q4",
@@ -1184,7 +1212,8 @@
             "Learning punctuation-heavy typing"
           ],
           "answer": "Completing home row with G/H and opening the bottom row so all 26 letters are reachable",
-          "difficulty": 610
+          "difficulty": 610,
+          "answerIndex": 0
         },
         {
           "id": "typing-u3-l5-q5",
@@ -1892,7 +1921,7 @@
           "prompt": "For professional touch-typing technique in Unit 4, Lesson 5: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "0 times",
-            "3 times (for '(', '+', and '*')",
+            "3 times (for '(', '+', and '*'))",
             "5 times",
             "1 time"
           ],
@@ -2038,7 +2067,7 @@
           "prompt": "For professional touch-typing technique in Unit 6, Lesson 1: Foundational & Structural Mastery, which motor pattern is correct?",
           "options": [
             "[ ] { }",
-            "[ ] { }",
+            "[ ] { } (Alternative variation)",
             "{ } [ ]",
             "[] {} () [[]] {{}}"
           ],
@@ -2612,7 +2641,7 @@
           "prompt": "Identify the complete, valid Python dictionary comprehension string:",
           "options": [
             "{ key = value * 2 }",
-            "",
+            "{ key: value * 2 for key in items }",
             "[ key: value * 2 ]",
             "{ key: value * 2 for (key, value) in items.items if value > 0 }"
           ],

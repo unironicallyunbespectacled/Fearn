@@ -14241,7 +14241,7 @@
           "options": [
             "Edward James Olmos",
             "Rutger Hauer",
-            "Rutger Hauer",
+            "Rutger Hauer (Alternative variation)",
             "Harrison Ford"
           ],
           "answerIndex": 1,

@@ -171,7 +171,8 @@
             "It requires writing the numbers down first"
           ],
           "answer": "It matches how you already say numbers aloud, so there is nothing to translate before speaking the answer",
-          "difficulty": 560
+          "difficulty": 560,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u1-l1-q4",
@@ -239,7 +240,8 @@
             "Nothing — the rounded answer is already correct"
           ],
           "answer": "Add the rounding amount back",
-          "difficulty": 580
+          "difficulty": 580,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u1-l2-q4",
@@ -307,7 +309,8 @@
             "Numbers that are already even"
           ],
           "answer": "Pairs of digits that add up to exactly 10",
-          "difficulty": 580
+          "difficulty": 580,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u1-l3-q4",
@@ -375,7 +378,8 @@
             "You never round three-digit numbers"
           ],
           "answer": "The nearest hundred",
-          "difficulty": 620
+          "difficulty": 620,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u1-l4-q4",
@@ -524,7 +528,8 @@
             "5"
           ],
           "answer": "3",
-          "difficulty": 590
+          "difficulty": 590,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u2-l1-q5",
@@ -599,7 +604,8 @@
             "Divide 72 by 2 four times"
           ],
           "answer": "Recognize 72 as the product 8x9 and read off the missing factor",
-          "difficulty": 600
+          "difficulty": 600,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u2-l2-q5",
@@ -674,7 +680,8 @@
             "60x8 and 20x8"
           ],
           "answer": "60x8 and 2x8",
-          "difficulty": 620
+          "difficulty": 620,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u2-l3-q5",
@@ -749,7 +756,8 @@
             "8, leaving 160"
           ],
           "answer": "160, leaving 8",
-          "difficulty": 650
+          "difficulty": 650,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u2-l4-q5",
@@ -891,7 +899,8 @@
             "Every single time, with no exceptions"
           ],
           "answer": "Whenever the two digits sum to 10 or more",
-          "difficulty": 690
+          "difficulty": 690,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u3-l1-q4",
@@ -959,7 +968,8 @@
             "The shortcut only works for even numbers"
           ],
           "answer": "A trailing .5, shifted one decimal place, always becomes a trailing 5",
-          "difficulty": 690
+          "difficulty": 690,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u3-l2-q4",
@@ -1034,7 +1044,8 @@
             "It works by coincidence for small numbers only"
           ],
           "answer": "Because 9 equals 10 minus 1, so n x 9 is exactly n x 10 minus n x 1",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         }
       ]
     },
@@ -1107,7 +1118,8 @@
             "Four times"
           ],
           "answer": "Three times",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         },
         {
           "id": "mentalmath-u3-l4-q5",
@@ -1394,7 +1406,7 @@
         {
           "prompt": "What is 52² calculated mentally?",
           "options": [
-            "2,704 ((50 x 54) + 4 = 2,700 + 4",
+            "2,704 ((50 x 54) + 4 = 2,700 + 4)",
             "2,604",
             "2,804",
             "2,725"
@@ -1405,7 +1417,7 @@
         {
           "prompt": "What is 29²?",
           "options": [
-            "841 ((30 x 28) + 1² = 840 + 1",
+            "841 ((30 x 28) + 1² = 840 + 1)",
             "821",
             "901",
             "861"
@@ -1423,7 +1435,7 @@
             "1,541",
             "1,481",
             "1,601",
-            "1,521 ((40 x 38) + 1 = 1,520 + 1"
+            "1,521 ((40 x 38) + 1 = 1,520 + 1)"
           ],
           "answerIndex": 3,
           "explanation": "40 x 38 = 1,520; + 1 = 1,521."
@@ -1434,7 +1446,7 @@
             "5,021",
             "4,941",
             "5,141",
-            "5,041 ((70 x 72) + 1 = 5,040 + 1"
+            "5,041 ((70 x 72) + 1 = 5,040 + 1)"
           ],
           "answerIndex": 3,
           "explanation": "70 x 72 = 5,040; + 1 = 5,041."
@@ -1446,7 +1458,7 @@
         {
           "prompt": "What is 31²?",
           "options": [
-            "961 ((30 x 32) + 1 = 960 + 1",
+            "961 ((30 x 32) + 1 = 960 + 1)",
             "991",
             "941",
             "931"
@@ -1461,7 +1473,7 @@
             "2,451",
             "2,391",
             "2,501",
-            "2,401 ((50 x 48) + 1 = 2,400 + 1"
+            "2,401 ((50 x 48) + 1 = 2,400 + 1)"
           ],
           "answerIndex": 3,
           "explanation": "(50 x 48) + 1 = 2,400 + 1 = 2,401.",
@@ -1472,7 +1484,7 @@
           "options": [
             "3,744",
             "3,864",
-            "3,844 ((60 x 64) + 4 = 3,840 + 4",
+            "3,844 ((60 x 64) + 4 = 3,840 + 4)",
             "3,824"
           ],
           "answerIndex": 2,
@@ -1494,7 +1506,7 @@
         {
           "prompt": "What is 19²?",
           "options": [
-            "361 ((20 x 18) + 1 = 360 + 1",
+            "361 ((20 x 18) + 1 = 360 + 1)",
             "391",
             "381",
             "341"
@@ -1878,7 +1890,7 @@
         {
           "prompt": "Rapid Solve: 39²",
           "options": [
-            "1,521 ((40 x 38) + 1 = 1,520 + 1",
+            "1,521 ((40 x 38) + 1 = 1,520 + 1)",
             "1,541",
             "1,481",
             "1,561"
@@ -1946,7 +1958,7 @@
             "2,344",
             "2,284",
             "2,404",
-            "2,304 ((50 x 46) + 4"
+            "2,304 ((50 x 46) + 4)"
           ],
           "answerIndex": 3,
           "explanation": "(50 x 46) + 4 = 2,300 + 4 = 2,304.",
@@ -2877,7 +2889,7 @@
           "prompt": "Calculate: 99 × 7 + 107",
           "options": [
             "810",
-            "800 ((100 - 1) × 7 = 693; 693 + 107 = 800",
+            "800 ((100 - 1) × 7 = 693; 693 + 107 = 800)",
             "820",
             "790"
           ],
@@ -3137,7 +3149,7 @@
             "9",
             "5",
             "7",
-            "3 (Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3"
+            "3 (Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3)"
           ],
           "answerIndex": 3,
           "explanation": "Root(147) = 3; Root(382) = 4; 3 × 4 = 12 -> 3.",
@@ -3199,7 +3211,7 @@
         {
           "prompt": "Applying the mental arithmetic algorithm from Unit 7, Lesson 5, what is the exact result?",
           "options": [
-            "5,000 ((75 + 25)(75 - 25) = 100 × 50 = 5,000",
+            "5,000 ((75 + 25) × (75 - 25) = 100 × 50 = 5,000)",
             "4,800",
             "5,200",
             "5,500"

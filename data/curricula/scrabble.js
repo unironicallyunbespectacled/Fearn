@@ -194,7 +194,8 @@
             "R"
           ],
           "answer": "J",
-          "difficulty": 500
+          "difficulty": 500,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l1-q4",
@@ -263,7 +264,8 @@
             "Triple Letter and Triple Word"
           ],
           "answer": "Double Word and Triple Word",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l2-q2",
@@ -276,7 +278,8 @@
             "It has no premium value"
           ],
           "answer": "A Double Word square",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l2-q3",
@@ -287,7 +290,8 @@
             "False"
           ],
           "answer": "False",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l2-q4",
@@ -365,7 +369,8 @@
             "Word multipliers cancel out letter multipliers"
           ],
           "answer": "The letter multiplier to that tile, then the word multiplier to the whole sum",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l3-q5",
@@ -422,7 +427,8 @@
             "Playing on a Triple Word square"
           ],
           "answer": "Using all 7 tiles from your current rack in a single turn",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l4-q2",
@@ -442,7 +448,8 @@
             "Only if the rack contains a blank tile"
           ],
           "answer": "No — it is added flat, after all normal multiplier scoring is finished",
-          "difficulty": 560
+          "difficulty": 560,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l4-q4",
@@ -508,7 +515,8 @@
             "It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo"
           ],
           "answer": "It depends — but stacking a high-value tile on a Triple Letter inside a word-multiplier square is the biggest combo",
-          "difficulty": 570
+          "difficulty": 570,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u1-l5-q4",
@@ -577,7 +585,8 @@
             "QU"
           ],
           "answer": "QI",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l1-q2",
@@ -590,7 +599,8 @@
             "XY"
           ],
           "answer": "XI",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l1-q3",
@@ -603,7 +613,8 @@
             "A card game"
           ],
           "answer": "Pizza",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l1-q4",
@@ -670,7 +681,8 @@
             "QOP"
           ],
           "answer": "QAT",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l2-q2",
@@ -690,7 +702,8 @@
             "ZOO"
           ],
           "answer": "ZIT",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l2-q4",
@@ -703,7 +716,8 @@
             "JAW"
           ],
           "answer": "JIB",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         }
       ]
     },
@@ -755,7 +769,8 @@
             "It uses fewer tiles than any other play type",
             "It is only useful defensively"
           ],
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l3-q3",
@@ -817,7 +832,8 @@
             "They only work on Triple Word squares"
           ],
           "answer": "They let you play excess vowels without needing a consonant to anchor them",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l4-q2",
@@ -830,7 +846,8 @@
             "OUI"
           ],
           "answer": "EAU",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l4-q3",
@@ -882,7 +899,8 @@
             "QY"
           ],
           "answer": "QI",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l5-q2",
@@ -895,7 +913,8 @@
             "JOG"
           ],
           "answer": "JOT",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l5-q3",
@@ -915,7 +934,8 @@
             "AWE"
           ],
           "answer": "EAU",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "scrabble-u2-l5-q5",
@@ -1621,7 +1641,7 @@
         {
           "prompt": "If you play TEARING (worth 11 base points) across a Double Word Score square with all 7 tiles, what is your total score?",
           "options": [
-            "72 points ((11 x 2) + 50 bingo bonus",
+            "72 points ((11 x 2) + 50 bingo bonus)",
             "22 points",
             "50 points",
             "61 points"

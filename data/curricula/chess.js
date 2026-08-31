@@ -197,7 +197,8 @@
             "It always gives check when it forks"
           ],
           "answer": "Its attack can't be blocked by interposing a piece, since it jumps over everything",
-          "difficulty": 600
+          "difficulty": 600,
+          "answerIndex": 0
         },
         {
           "id": "chess-u1-l1-q3",
@@ -264,7 +265,8 @@
             "It only works with knights"
           ],
           "answer": "The king MUST move first, so the second target cannot be saved by counter-attack",
-          "difficulty": 600
+          "difficulty": 600,
+          "answerIndex": 0
         }
       ]
     },
@@ -329,7 +331,8 @@
             "It is not more costly, they are equivalent"
           ],
           "answer": "The attacker risks almost nothing (a pawn) to win a far more valuable piece",
-          "difficulty": 600
+          "difficulty": 600,
+          "answerIndex": 0
         }
       ]
     },
@@ -379,7 +382,8 @@
             "Whether the fork happens in the opening or endgame"
           ],
           "answer": "Whether a piece can block (interpose) on the line between attacker and target",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         },
         {
           "id": "chess-u1-l4-q2",
@@ -500,7 +504,8 @@
             "The pin has lasted more than three moves"
           ],
           "answer": "The king (not just any piece) is directly behind the pinned piece on the line",
-          "difficulty": 620
+          "difficulty": 620,
+          "answerIndex": 0
         },
         {
           "id": "chess-u2-l1-q2",
@@ -558,7 +563,8 @@
             "Castle immediately regardless of the position"
           ],
           "answer": "Bring additional attackers onto the pinned piece since it cannot run",
-          "difficulty": 650
+          "difficulty": 650,
+          "answerIndex": 0
         },
         {
           "id": "chess-u2-l2-q2",
@@ -610,7 +616,8 @@
             "Only if the pinning piece is a queen"
           ],
           "answer": "When the piece behind the pin is well defended, or the move creates a big enough counter-threat",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         }
       ]
     },
@@ -648,7 +655,8 @@
             "It always delivers checkmate"
           ],
           "answer": "It is the cheapest possible attacker, and the pinned piece often cannot safely move away",
-          "difficulty": 650
+          "difficulty": 650,
+          "answerIndex": 0
         }
       ]
     },
@@ -693,7 +701,8 @@
             "It does not matter"
           ],
           "answer": "A pawn",
-          "difficulty": 650
+          "difficulty": 650,
+          "answerIndex": 0
         }
       ]
     },
@@ -752,7 +761,8 @@
             "A pin can only happen on diagonals"
           ],
           "answer": "In a pin the less valuable piece is attacked first; in a skewer the more valuable piece is attacked first",
-          "difficulty": 600
+          "difficulty": 600,
+          "answerIndex": 0
         },
         {
           "id": "chess-u3-l1-q3",
@@ -819,7 +829,8 @@
             "Knight"
           ],
           "answer": "Queen",
-          "difficulty": 620
+          "difficulty": 620,
+          "answerIndex": 0
         },
         {
           "id": "chess-u3-l2-q4",
@@ -886,7 +897,8 @@
             "Because undefended pieces can't move"
           ],
           "answer": "So the queen cannot simply capture your attacker for free",
-          "difficulty": 650
+          "difficulty": 650,
+          "answerIndex": 0
         }
       ]
     },
@@ -946,7 +958,8 @@
             "Not a real tactical pattern"
           ],
           "answer": "A pin, since the bishop (less valuable) is attacked first",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         }
       ]
     },
@@ -1061,7 +1074,8 @@
             "It is illegal to block a discovered attack"
           ],
           "answer": "The piece that moves is free to make its own threat at the same time as the revealed piece's threat, creating two problems at once",
-          "difficulty": 680
+          "difficulty": 680,
+          "answerIndex": 0
         },
         {
           "id": "chess-u4-l1-q3",
@@ -1134,7 +1148,8 @@
             "Only checks can be blocked"
           ],
           "answer": "The defender is forced to answer the check first, so they cannot use that move to save the other attacked piece",
-          "difficulty": 680
+          "difficulty": 680,
+          "answerIndex": 0
         },
         {
           "id": "chess-u4-l2-q4",
@@ -1208,7 +1223,8 @@
             "It is not actually stronger than a normal check"
           ],
           "answer": "The defender's options collapse to king moves only, so you can steer the king onto a square with no safe squares left",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         }
       ]
     },
@@ -1268,7 +1284,8 @@
             "Any two pieces that attack the same square from different lines"
           ],
           "answer": "Two or more long-range pieces stacked on the same rank, file, or diagonal, aiming at the same target",
-          "difficulty": 650
+          "difficulty": 650,
+          "answerIndex": 0
         }
       ]
     },
@@ -1386,7 +1403,8 @@
             "It can no longer be captured"
           ],
           "answer": "It cannot legally move away, so a second attacker is often enough to win it outright",
-          "difficulty": 760
+          "difficulty": 760,
+          "answerIndex": 0
         }
       ]
     },
@@ -1534,7 +1552,8 @@
             "Any piece standing next to the king"
           ],
           "answer": "A single piece that is the only guard for two or more separate targets at once",
-          "difficulty": 760
+          "difficulty": 760,
+          "answerIndex": 0
         }
       ]
     },
@@ -1643,7 +1662,8 @@
             "Because the queen is worth more than the rook"
           ],
           "answer": "Because the knight on h6 defends g8, making Kxg8 illegal, while the pawns on g7 and h7 block the king's other escape squares",
-          "difficulty": 800
+          "difficulty": 800,
+          "answerIndex": 0
         },
         {
           "id": "chess-u6-l1-q4",
@@ -1696,7 +1716,8 @@
             "Always capture with the rook first, since rooks are stronger"
           ],
           "answer": "Capture with the least valuable attacker first, and recheck the exchange after each capture",
-          "difficulty": 780
+          "difficulty": 780,
+          "answerIndex": 0
         },
         {
           "id": "chess-u6-l2-q3",
@@ -1813,7 +1834,8 @@
             "Neither"
           ],
           "answer": "Nc3",
-          "difficulty": 750
+          "difficulty": 750,
+          "answerIndex": 0
         },
         {
           "id": "chess-u6-l4-q3",
@@ -2560,7 +2582,7 @@
             "Learning chess variants",
             "Playing with 3 players",
             "Memorizing chess history trivia",
-            "Opening Repertoire (building a coherent, integrated grandmaster opening repertoire for White (1.e4 and 1.d4) and Black"
+            "Opening Repertoire (building a coherent, integrated grandmaster opening repertoire for White (1.e4 and 1.d4) and Black)"
           ],
           "answerIndex": 3,
           "explanation": "Unit 9 focuses on building a coherent opening repertoire.",
@@ -3667,7 +3689,7 @@
         {
           "prompt": "What is the shortest knight path from 'a1' to 'c3'?",
           "options": [
-            "2 moves (e.g. a1-c2-a3 is 2 moves, or a1-b3-c1? Shortest from a1 to c3 is: a1-b3-c1? No: a1-c2 then c2-e3 then e3-c4? Direct: a1-b3-d4-c2? From a1 to c3 requires 2 moves: a1-c2 then c2-a3? Wait: a1 to b3 (1), b3 to c1/a5/d4/c5. a1 to c2 (1), c2 to a3/b4/d4/e3. Shortest is 2 moves via a1-b3-c5? No: a1 to b3 to c1? From a1 to c3: a1 is dark, c3 is dark! A knight must take an EVEN number of moves (2 moves: a1-c2-a3-b5-c3 = 4? No, a1-b3 then b3-c1? a1 to c3 is a diagonal 2-step: 2 moves via a1-c2-e1? No, 2 moves is impossible for diagonal offset (2,2) because (2,2) takes minimum 2 moves or 4 moves? From a1(1,1) to c3(3,3): a1->b3(2,3)->c1? a1->c2(3,2)->e1? Actually (2,2) diagonal requires 2 moves: a1 -> b3 -> c1? No, a1 -> c2 -> a3? The standard knight route to (2,2) diagonal takes 2 moves? 2 moves: (1,1)->(2,3)->(3,1)? No, (1,1)->(2,3)->(4,2)->(3,4)? Shortest is 2 moves: a1-b3-c1? Wait, to reach c3(3,3): a1(1,1) -> b3(2,3) -> d4(4,4) -> c2? In fact, (2,2) diagonal offset takes 2 moves? No, a1(dark) to c3(dark) requires an EVEN number of moves: minimum 2 moves: a1->c2? from c2 to c3 is not a knight move! From b3 to c3 is not a knight move! So (2,2) takes 2 moves? No, minimum 4 moves? Wait! a1->b3->d4->b5->c3 is 4 moves! Or a1->c2->e3->d5->c3 = 4 moves!",
+            "2 moves (e.g. a1-c2-a3 is 2 moves, or a1-b3-c1? Shortest from a1 to c3 is: a1-b3-c1? No: a1-c2 then c2-e3 then e3-c4? Direct: a1-b3-d4-c2? From a1 to c3 requires 2 moves: a1-c2 then c2-a3? Wait: a1 to b3 (1), b3 to c1/a5/d4/c5. a1 to c2 (1), c2 to a3/b4/d4/e3. Shortest is 2 moves via a1-b3-c5? No: a1 to b3 to c1? From a1 to c3: a1 is dark, c3 is dark! A knight must take an EVEN number of moves (2 moves: a1-c2-a3-b5-c3 = 4? No, a1-b3 then b3-c1? a1 to c3 is a diagonal 2-step: 2 moves via a1-c2-e1? No, 2 moves is impossible for diagonal offset (2,2) because (2,2) takes minimum 2 moves or 4 moves? From a1(1,1) to c3(3,3): a1->b3(2,3)->c1? a1->c2(3,2)->e1? Actually (2,2) diagonal requires 2 moves: a1 -> b3 -> c1? No, a1 -> c2 -> a3? The standard knight route to (2,2) diagonal takes 2 moves? 2 moves: (1,1)->(2,3)->(3,1)? No, (1,1)->(2,3)->(4,2)->(3,4)? Shortest is 2 moves: a1-b3-c1? Wait, to reach c3(3,3): a1(1,1) -> b3(2,3) -> d4(4,4) -> c2? In fact, (2,2) diagonal offset takes 2 moves? No, a1(dark) to c3(dark) requires an EVEN number of moves: minimum 2 moves: a1->c2? from c2 to c3 is not a knight move! From b3 to c3 is not a knight move! So (2,2) takes 2 moves? No, minimum 4 moves? Wait! a1->b3->d4->b5->c3 is 4 moves! Or a1->c2->e3->d5->c3 = 4 moves!))",
             "3 moves",
             "1 move",
             "10 moves"

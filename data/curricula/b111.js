@@ -334,7 +334,7 @@
             "0.90",
             "2.00",
             "1.10",
-            "1.44 (0.90 * [1 + (1 - 0.25) * 0.80]"
+            "1.44 (0.90 * [1 + (1 - 0.25) * 0.80])"
           ],
           "answerIndex": 3,
           "explanation": "1.44 (0.90 * [1 + 0.75 * 0.80] = 0.90 * 1.60)."
@@ -1889,7 +1889,7 @@
         {
           "prompt": "If a private equity sponsor invests $100M of equity in an LBO and exits 5 years later with $248.8M in equity proceeds, what is the realized IRR?",
           "options": [
-            "20.00% ( ^(1/5) - 1",
+            "20.00% ( ^(1/5) - 1)",
             "50.00%",
             "14.88%",
             "24.88%"

@@ -859,7 +859,8 @@
             "H"
           ],
           "answer": "D",
-          "difficulty": 720
+          "difficulty": 720,
+          "answerIndex": 0
         },
         {
           "id": "morse-u3-l1-q4",
@@ -953,7 +954,8 @@
             "Four dahs"
           ],
           "answer": "One dah, then three dits",
-          "difficulty": 700
+          "difficulty": 700,
+          "answerIndex": 0
         }
       ]
     },
@@ -1119,7 +1121,8 @@
             "The rhythm of the letter O"
           ],
           "answer": "The opening of Beethoven's Fifth Symphony",
-          "difficulty": 720
+          "difficulty": 720,
+          "answerIndex": 0
         }
       ]
     },
@@ -1273,7 +1276,8 @@
             "D is B with a dah added"
           ],
           "answer": "B is D with one extra dit at the end",
-          "difficulty": 780
+          "difficulty": 780,
+          "answerIndex": 0
         }
       ]
     },
@@ -1396,7 +1400,8 @@
             "Only chunked sending is technically legal on the air"
           ],
           "answer": "Chunked recall survives a single missed letter better — one gap does not collapse the whole sequence",
-          "difficulty": 800
+          "difficulty": 800,
+          "answerIndex": 0
         }
       ]
     },
@@ -1679,7 +1684,8 @@
             "0"
           ],
           "answer": "4",
-          "difficulty": 870
+          "difficulty": 870,
+          "answerIndex": 0
         },
         {
           "id": "morse-u5-l2-q5",

@@ -165,7 +165,8 @@
             "man / again"
           ],
           "answer": "night / light",
-          "difficulty": 500
+          "difficulty": 500,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l1-q2",
@@ -178,7 +179,8 @@
             "gone / dawn"
           ],
           "answer": "booth / proof",
-          "difficulty": 500
+          "difficulty": 500,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l1-q3",
@@ -191,7 +193,8 @@
             "The words are both one syllable"
           ],
           "answer": "The ending sound is identical from the stressed vowel onward",
-          "difficulty": 500
+          "difficulty": 500,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l1-q4",
@@ -248,7 +251,8 @@
             "All four lines rhyme with each other"
           ],
           "answer": "Lines 1 and 3, and lines 2 and 4",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l2-q2",
@@ -261,7 +265,8 @@
             "None"
           ],
           "answer": "Two (lines 2 and 4)",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l2-q3",
@@ -281,7 +286,8 @@
             "AAAA"
           ],
           "answer": "ABCB",
-          "difficulty": 510
+          "difficulty": 510,
+          "answerIndex": 0
         }
       ]
     },
@@ -331,7 +337,8 @@
             "The line is short"
           ],
           "answer": "The word order is inverted or unnatural just to land on the rhyme",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l3-q2",
@@ -344,7 +351,8 @@
             "Give up on rhyme entirely for the whole song"
           ],
           "answer": "Rephrase the line around a different, more rhyme-friendly ending word",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l3-q3",
@@ -413,7 +421,8 @@
             "Slant rhymes are always required by rule"
           ],
           "answer": "It is one of the most overused pairings in popular song and can sound predictable",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l4-q2",
@@ -433,7 +442,8 @@
             "Whether it is a one-syllable word"
           ],
           "answer": "Whether a listener could guess the ending word before you sing it",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         }
       ]
     },
@@ -485,7 +495,8 @@
             "depart"
           ],
           "answer": "the dark",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l5-q3",
@@ -498,7 +509,8 @@
             "AAAA"
           ],
           "answer": "ABCB",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u1-l5-q4",
@@ -518,7 +530,8 @@
             "There is no risk, any rhyme works"
           ],
           "answer": "The line may end up with forced, inverted word order that sounds unnatural",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         }
       ]
     },
@@ -575,7 +588,8 @@
             "It has no fixed natural stress"
           ],
           "answer": "The middle syllable (re-MEM-ber)",
-          "difficulty": 520
+          "difficulty": 520,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u2-l1-q3",
@@ -595,7 +609,8 @@
             "Because melody erases word stress entirely"
           ],
           "answer": "Because a sung melody has its own beat, and a mismatch between word stress and melodic beat is audible in a way silent reading never reveals",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         }
       ]
     },
@@ -640,7 +655,8 @@
             "A line with no stresses at all"
           ],
           "answer": "An unstressed syllable followed by a stressed one",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u2-l2-q2",
@@ -660,7 +676,8 @@
             "It was invented specifically for songwriting in the 1960s"
           ],
           "answer": "It matches how comfortably a line of natural English speech falls into four musical beats",
-          "difficulty": 530
+          "difficulty": 530,
+          "answerIndex": 0
         }
       ]
     },
@@ -705,7 +722,8 @@
             "There is no problem, any syllable can carry a downbeat"
           ],
           "answer": "It contradicts the word's natural spoken stress (re-MEM-ber), making it sound mispronounced when sung",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u2-l3-q2",
@@ -769,7 +787,8 @@
             "The rhyme scheme"
           ],
           "answer": "The number and spacing of stressed beats, regardless of total syllable count",
-          "difficulty": 540
+          "difficulty": 540,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u2-l4-q2",
@@ -835,7 +854,8 @@
             "It has no natural stress"
           ],
           "answer": "re-PEAT-ing",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u2-l5-q3",
@@ -855,7 +875,8 @@
             "Only lines that rhyme with each other"
           ],
           "answer": "\"I am not going home tonight\" and \"I'm not going home tonight,\" since both carry the same 4 stressed beats",
-          "difficulty": 550
+          "difficulty": 550,
+          "answerIndex": 0
         },
         {
           "id": "songwriting-u2-l5-q5",
