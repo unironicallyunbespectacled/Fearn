@@ -1088,8 +1088,8 @@
           "prompt": "명사 '선생님(teacher - 받침 ㅁ 있음)' 뒤에 결합할 올바른 주제격 조사는 무엇입니까?",
           "options": [
             "선생님은 (선생님은 마지막 음절 님에 받침 ㅁ이 있으므로 주제격 조사 은이 결합하여 선생님은이 됩니다.) (주제격 보조사 은/는과 화제 제시 (Topic Particle 은/는 & Discourse Themes))",
-            "선생님는 (Target expression (Korean))",
-            "선생님이 (Target expression (Korean))"
+            "선생님는) (Context: 주제격 보조사 은/는과 화제 제시 (Topic Particle )",
+            "선생님이) (Context: 주제격 보조사 은/는과 화제 제시 (Topic Particle )"
           ],
           "answerIndex": 0,
           "explanation": "'선생님'은 마지막 음절 '님'에 받침 'ㅁ'이 있으므로 주제격 조사 '은'이 결합하여 '선생님은'이 됩니다."
@@ -1102,8 +1102,8 @@
           "prompt": "다음 중 받침 없는 명사 뒤에 '는'이 올바르게 결합된 문장은 어느 것입니까?",
           "options": [
             "친구는 학생입니다. (친구는 받침이 없는 모음 종결 명사이므로 는이 결합하여 친구는이 올바릅니다.) (주제격 보조사 은/는과 화제 제시 (Topic Particle 은/는 & Discourse Themes))",
-            "친구은 학생입니다. (Target expression (Korean))",
-            "친구이 학생입니다. (Target expression (Korean))"
+            "친구은 학생입니다.) (Context: 주제격 보조사 은/는과 화제 제시 (Topic Particle )",
+            "친구이 학생입니다.) (Context: 주제격 보조사 은/는과 화제 제시 (Topic Particle )"
           ],
           "answerIndex": 0,
           "explanation": "'친구'는 받침이 없는 모음 종결 명사이므로 '는'이 결합하여 '친구는'이 올바릅니다."
@@ -1117,8 +1117,8 @@
           "prompt": "'이것(받침 ㅅ 있음) _____ 사전입니다.' 빈칸에 들어갈 올바른 주제격 조사는 무엇입니까?",
           "options": [
             "은 (이것은 받침 ㅅ이 있으므로 연음되어 이것은[igeoseun]이 됩니다.)",
-            "는 (Target expression (Korean))",
-            "가 (Target expression (Korean))"
+            "는) (Context: 주제격 보조사 은/는과 화제 제시 (Topic Particle )",
+            "가) (Context: 주제격 보조사 은/는과 화제 제시 (Topic Particle )"
           ],
           "answerIndex": 0,
           "explanation": "'이것'은 받침 'ㅅ'이 있으므로 연음되어 '이것은[igeoseun]'이 됩니다."
@@ -1180,8 +1180,8 @@
           "prompt": "1인칭 공손 대명사 '저(I)'에 주격 조사 '가'가 결합할 때 변화하는 올바른 형태는 무엇입니까?",
           "options": [
             "제가 (저 + 가는 불규칙 축약되어 제가[jega]로 변합니다. 저가는 비문법적 형태입니다.)",
-            "저가 (Target expression (Korean))",
-            "저는 (Target expression (Korean))"
+            "저가) (Context: 주격 조사 이/가와 새로운 정보의 초점 (Subject Part)",
+            "저는) (Context: 주격 조사 이/가와 새로운 정보의 초점 (Subject Part)"
           ],
           "answerIndex": 0,
           "explanation": "'저 + 가'는 불규칙 축약되어 '제가[jega]'로 변합니다. '저가'는 비문법적 형태입니다."
@@ -1194,8 +1194,8 @@
           "prompt": "'가방(받침 ㅇ 있음) _____ 무겁습니다.' 빈칸에 들어갈 올바른 주격 조사는 무엇입니까?",
           "options": [
             "이 (가방은 받침 ㅇ이 있으므로 주격 조사 이가 결합하여 가방이[gabangi]가 됩니다.)",
-            "가 (Target expression (Korean))",
-            "을 (Target expression (Korean))"
+            "가) (Context: 주격 조사 이/가와 새로운 정보의 초점 (Subject Part)",
+            "을) (Context: 주격 조사 이/가와 새로운 정보의 초점 (Subject Part)"
           ],
           "answerIndex": 0,
           "explanation": "'가방'은 받침 'ㅇ'이 있으므로 주격 조사 '이'가 결합하여 '가방이[gabangi]'가 됩니다."
@@ -1208,9 +1208,9 @@
           "type": "multiple-choice",
           "prompt": "'Q: 누가 한국 사람입니까? A: _____ 한국 사람입니다.' 빈칸에 들어갈 가장 자연스러운 주어 표현은 무엇입니까?",
           "options": [
-            "제가 (Target expression (Korean))",
-            "저는 (Target expression (Korean))",
-            "저를 (Target expression (Korean))"
+            "제가) (누가(Who)라는 의문사 초점 질문에 답변할 때는 주격 조사 결합형인 제가(I a)",
+            "저는) (Context: 주격 조사 이/가와 새로운 정보의 초점 (Subject Part)",
+            "저를) (Context: 주격 조사 이/가와 새로운 정보의 초점 (Subject Part)"
           ],
           "answerIndex": 0,
           "explanation": "'누가(Who)'라는 의문사 초점 질문에 답변할 때는 주격 조사 결합형인 '제가(I am the one)'가 문맥상 정확합니다."
@@ -1272,8 +1272,8 @@
           "prompt": "'한국어는 재미있습니다. 하지만 수학_____ 어렵습니다.' 두 과목을 대조할 때 빈칸에 들어갈 가장 알맞은 조사는 무엇입니까?",
           "options": [
             "은 (한국어는과 대조를 이루며, 수학은 받침 ㄱ이 있으므로 대조의 보조사 은이 결합하여 수학은이 됩니다.) (은/는 대 이/가의 의미·화용론적 대립 (Contrastive Pragmatics)",
-            "는 (Target expression (Korean))",
-            "이 (Target expression (Korean))"
+            "는) (Context: 은/는 대 이/가의 의미·화용론적 대립 (Contrastive )",
+            "이) (Context: 은/는 대 이/가의 의미·화용론적 대립 (Contrastive )"
           ],
           "answerIndex": 0,
           "explanation": "'한국어는'과 대조를 이루며, '수학'은 받침 'ㄱ'이 있으므로 대조의 보조사 '은'이 결합하여 '수학은'이 됩니다."
@@ -1285,9 +1285,9 @@
         {
           "prompt": "이야기를 시작하며 새로운 주인공을 처음 소개할 때(신정보) 알맞은 조사가 쓰인 문장은 무엇입니까?",
           "options": [
-            "한 소년이 마을에 살았습니다. (Target expression (Korean))",
-            "한 소년은 마을에 살았습니다. (Target expression (Korean))",
-            "한 소년을 마을에 살았습니다. (Target expression (Korean))"
+            "한 소년이 마을에 살았습니다.) (Korean grammar and vocabulary (ko-u2-l3))",
+            "한 소년은 마을에 살았습니다.) (Context: 은/는 대 이/가의 의미·화용론적 대립 (Contrastive )",
+            "한 소년을 마을에 살았습니다.) (Context: 은/는 대 이/가의 의미·화용론적 대립 (Contrastive )"
           ],
           "answerIndex": 0,
           "explanation": "담화에 새로운 대상을 처음 도입하는 신정보 주어에는 주격 조사 '이/가'를 사용하여 '한 소년이'가 자연스럽습니다."
@@ -1300,9 +1300,9 @@
           "type": "multiple-choice",
           "prompt": "'형_____ 키가 크고, 동생_____ 키가 작습니다.' 두 사람의 키를 대조하는 빈칸에 알맞은 조사 쌍은 무엇입니까?",
           "options": [
-            "은, 은 (Target expression (Korean))",
-            "이, 가 (Target expression (Korean))",
-            "을, 를 (Target expression (Korean))"
+            "은, 은) (형(받침 ㅇ 있음)은과 동생(받침 ㅇ 있음)은으로 대조 보조사 은이 양쪽에 결합해) (Korean grammar and vocabulary (ko-u2-l3))",
+            "이, 가) (Context: 은/는 대 이/가의 의미·화용론적 대립 (Contrastive )",
+            "을, 를) (Context: 은/는 대 이/가의 의미·화용론적 대립 (Contrastive )"
           ],
           "answerIndex": 0,
           "explanation": "'형(받침 ㅇ 있음)은'과 '동생(받침 ㅇ 있음)은'으로 대조 보조사 '은'이 양쪽에 결합해야 대조 문맥이 성립합니다."
@@ -1363,9 +1363,9 @@
         {
           "prompt": "'코끼리(전체) _____ 코(부분) _____ 깁니다.' 이중 주어문 공식에 맞게 빈칸에 들어갈 올바른 조사 쌍은 무엇입니까?",
           "options": [
-            "는, 가 (Target expression (Korean))",
-            "가, 는 (Target expression (Korean))",
-            "를, 이 (Target expression (Korean))"
+            "는, 가) (전체 대주제 코끼리(받침 없음) 뒤에는 는, 부분 소주어 코(받침 없음) 뒤에는 ) (Korean grammar and vocabulary (ko-u2-l4))",
+            "가, 는) (Context: 이중 주어문과 대주제-소주어 구조 (Double Subject )",
+            "를, 이) (Context: 이중 주어문과 대주제-소주어 구조 (Double Subject )"
           ],
           "answerIndex": 0,
           "explanation": "전체 대주제 '코끼리(받침 없음)' 뒤에는 '는', 부분 소주어 '코(받침 없음)' 뒤에는 '가'가 결합하여 '코끼리는 코가 깁니다'가 됩니다."
@@ -1378,8 +1378,8 @@
           "prompt": "'민수 씨는 마음(받침 ㅁ 있음) _____ 착합니다.' 빈칸에 들어갈 올바른 소주어 조사는 무엇입니까?",
           "options": [
             "이 (마음은 받침 ㅁ이 있으므로 소주어격 조사 이가 결합하여 마음이 착합니다가 됩니다.) (이중 주어문과 대주제-소주어 구조 (Double Subject Constructions)",
-            "가 (Target expression (Korean))",
-            "은 (Target expression (Korean))"
+            "가) (Context: 이중 주어문과 대주제-소주어 구조 (Double Subject )",
+            "은) (Context: 이중 주어문과 대주제-소주어 구조 (Double Subject )"
           ],
           "answerIndex": 0,
           "explanation": "'마음'은 받침 'ㅁ'이 있으므로 소주어격 조사 '이'가 결합하여 '마음이 착합니다'가 됩니다."
@@ -1393,8 +1393,8 @@
           "prompt": "다음 중 한국어의 자연스러운 이중 주어문 구조를 갖춘 문장은 어느 것입니까?",
           "options": [
             "지은 씨는 눈이 예쁩니다. ([대주제]은/는 [소주어]이/가 [형용사] 구조에 완벽히 부합하는 문장은 지은 씨는 눈이 예쁩니다입니다.) (이중 주어문과 대주제-소주어 구조 (Double Subject Constructions)",
-            "지은 씨를 눈을 예쁩니다. (Target expression (Korean))",
-            "지은 씨에 눈에 예쁩니다. (Target expression (Korean))"
+            "지은 씨를 눈을 예쁩니다.) (Context: 이중 주어문과 대주제-소주어 구조 (Double Subject )",
+            "지은 씨에 눈에 예쁩니다.) (Context: 이중 주어문과 대주제-소주어 구조 (Double Subject )"
           ],
           "answerIndex": 0,
           "explanation": "'[대주제]은/는 [소주어]이/가 [형용사]' 구조에 완벽히 부합하는 문장은 '지은 씨는 눈이 예쁩니다'입니다."
@@ -1456,8 +1456,8 @@
           "prompt": "'가방(bag) 안에 책(book - 받침 ㄱ 있음) _____ 있습니다.' 빈칸에 들어갈 알맞은 조사는 무엇입니까?",
           "options": [
             "이 (책은 받침 ㄱ이 있으므로 존재 주격 조사 이가 결합하여 책이 있습니다가 됩니다.) (존재사 있다/없다와 위치·소유 표현 (Existence & Possession)",
-            "가 (Target expression (Korean))",
-            "은 (Target expression (Korean))"
+            "가) (Context: 존재사 있다/없다와 위치·소유 표현 (Existence & Po)",
+            "은) (Context: 존재사 있다/없다와 위치·소유 표현 (Existence & Po)"
           ],
           "answerIndex": 0,
           "explanation": "'책'은 받침 'ㄱ'이 있으므로 존재 주격 조사 '이'가 결합하여 '책이 있습니다'가 됩니다."
@@ -1470,8 +1470,8 @@
           "prompt": "'도서관에 학생이 많이 _____(There are many students in the library).' 빈칸에 들어갈 긍정 존재 서술어는 무엇입니까?",
           "options": [
             "있습니다 (장소에 사람이 존재함을 나타내는 격식체 서술어는 있습니다입니다.) (존재사 있다/없다와 위치·소유 표현 (Existence & Possession)",
-            "없습니다 (Target expression (Korean))",
-            "입니다 (Target expression (Korean))"
+            "없습니다) (Context: 존재사 있다/없다와 위치·소유 표현 (Existence & Po)",
+            "입니다) (Context: 존재사 있다/없다와 위치·소유 표현 (Existence & Po)"
           ],
           "answerIndex": 0,
           "explanation": "장소에 사람이 존재함을 나타내는 격식체 서술어는 '있습니다'입니다."
@@ -1485,8 +1485,8 @@
           "prompt": "'저는 자동차가 _____ (I do not have a car).' 소유의 부정을 나타내는 올바른 존재사는 무엇입니까?",
           "options": [
             "없습니다 (물건의 소유가 없음을 나타낼 때는 없습니다를 씁니다. 아닙니다는 신분/동일성을 부인할 때 씁니다.) (존재사 있다/없다와 위치·소유 표현 (Existence & Possession)",
-            "아닙니다 (Target expression (Korean))",
-            "있습니다 (Target expression (Korean))"
+            "아닙니다) (Context: 존재사 있다/없다와 위치·소유 표현 (Existence & Po)",
+            "있습니다) (Context: 존재사 있다/없다와 위치·소유 표현 (Existence & Po)"
           ],
           "answerIndex": 0,
           "explanation": "물건의 소유가 없음을 나타낼 때는 '없습니다'를 씁니다. '아닙니다'는 신분/동일성을 부인할 때 씁니다."
@@ -1548,8 +1548,8 @@
           "prompt": "'커피(coffee - 받침 없음)' 명사 뒤에 목적격 조사 '을/를'을 결합할 때 올바른 형태는 무엇입니까?",
           "options": [
             "커피를 (커피는 받침이 없는 모음 종결 명사이므로 목적격 조사 를이 결합하여 커피를이 됩니다.) (목적격 조사 을/를과 타동사 구문 (Object Particle 을/를 & Transitive Verbs))",
-            "커피을 (Target expression (Korean))",
-            "커피가 (Target expression (Korean))"
+            "커피을) (Context: 목적격 조사 을/를과 타동사 구문 (Object Particle)",
+            "커피가) (Context: 목적격 조사 을/를과 타동사 구문 (Object Particle)"
           ],
           "answerIndex": 0,
           "explanation": "'커피'는 받침이 없는 모음 종결 명사이므로 목적격 조사 '를'이 결합하여 '커피를'이 됩니다."
@@ -1562,8 +1562,8 @@
           "prompt": "'저는 음악(music - 받침 ㄱ 있음) _____ 듣습니다.' 빈칸에 들어갈 알맞은 목적격 조사는 무엇입니까?",
           "options": [
             "을 (음악은 받침 ㄱ이 있으므로 목적격 조사 을이 결합하여 연음 발음 [으마글]이 됩니다.) (목적격 조사 을/를과 타동사 구문 (Object Particle 을/를 & Transitive Verbs))",
-            "를 (Target expression (Korean))",
-            "이 (Target expression (Korean))"
+            "를) (Context: 목적격 조사 을/를과 타동사 구문 (Object Particle)",
+            "이) (Context: 목적격 조사 을/를과 타동사 구문 (Object Particle)"
           ],
           "answerIndex": 0,
           "explanation": "'음악'은 받침 'ㄱ'이 있으므로 목적격 조사 '을'이 결합하여 연음 발음 [으마글]이 됩니다."
@@ -1577,8 +1577,8 @@
           "prompt": "다음 중 목적격 조사의 결합이 어법에 맞고 자연스러운 문장은 어느 것입니까?",
           "options": [
             "학생이 한국어를 공부합니다. (한국어는 받침이 없으므로 를과 결합하여 한국어를 공부합니다가 올바릅니다.) (목적격 조사 을/를과 타동사 구문 (Object Particle 을/를 & Transitive Verbs))",
-            "학생이 한국어을 공부합니다. (Target expression (Korean))",
-            "학생이 한국어이 공부합니다. (Target expression (Korean))"
+            "학생이 한국어을 공부합니다.) (Context: 목적격 조사 을/를과 타동사 구문 (Object Particle)",
+            "학생이 한국어이 공부합니다.) (Context: 목적격 조사 을/를과 타동사 구문 (Object Particle)"
           ],
           "answerIndex": 0,
           "explanation": "'한국어'는 받침이 없으므로 '를'과 결합하여 '한국어를 공부합니다'가 올바릅니다."
@@ -1639,9 +1639,9 @@
         {
           "prompt": "'민수 씨', '책', '읽습니다'를 한국어의 기본 SOV 어순과 올바른 조사에 맞추어 배열한 문장은 무엇입니까?",
           "options": [
-            "민수 씨가 책을 읽습니다. (Target expression (Korean))",
-            "민수 씨가 읽습니다 책을. (Target expression (Korean))",
-            "책을 읽습니다 민수 씨가. (Target expression (Korean))"
+            "민수 씨가 책을 읽습니다.) (주어(민수 씨가) + 목적어(책을) + 동사(읽습니다) 순서의 SOV 구조가 가장)",
+            "민수 씨가 읽습니다 책을.) (Context: 한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word O)",
+            "책을 읽습니다 민수 씨가.) (Context: 한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word O)"
           ],
           "answerIndex": 0,
           "explanation": "주어(민수 씨가) + 목적어(책을) + 동사(읽습니다) 순서의 SOV 구조가 가장 표준적이고 자연스럽습니다."
@@ -1654,8 +1654,8 @@
           "prompt": "다음 중 한국어의 SOV 통사 구조에 맞게 동사가 문장 맨 끝에 올바르게 위치한 문장은 어느 것입니까?",
           "options": [
             "지은 씨는 커피를 마십니다. (한국어는 서술어(마십니다)가 반드시 문장 끝에 와야 하므로 지은 씨는 커피를 마십니다가 바른 어순입니다.) (한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word Order & Scrambling))",
-            "지은 씨는 마십니다 커피를. (Target expression (Korean))",
-            "마십니다 지은 씨는 커피를. (Target expression (Korean))"
+            "지은 씨는 마십니다 커피를.) (Context: 한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word O)",
+            "마십니다 지은 씨는 커피를.) (Context: 한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word O)"
           ],
           "answerIndex": 0,
           "explanation": "한국어는 서술어(마십니다)가 반드시 문장 끝에 와야 하므로 '지은 씨는 커피를 마십니다'가 바른 어순입니다."
@@ -1669,8 +1669,8 @@
           "prompt": "영어 'I watch a movie'(SVO)를 한국어 기본 어순(SOV)으로 올바르게 번역한 문장은 무엇입니까?",
           "options": [
             "저는 영화를 봅니다. (주어(저는) + 목적어(영화를) + 동사(봅니다)의 SOV 어순입니다.)",
-            "저는 봅니다 영화를. (Target expression (Korean))",
-            "영화를 봅니다 저는. (Target expression (Korean))"
+            "저는 봅니다 영화를.) (Context: 한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word O)",
+            "영화를 봅니다 저는.) (Context: 한국어의 기본 어순 SOV와 통사적 유연성 (SOV Word O)"
           ],
           "answerIndex": 0,
           "explanation": "주어(저는) + 목적어(영화를) + 동사(봅니다)의 SOV 어순입니다."
@@ -1732,8 +1732,8 @@
           "prompt": "'선생님(높임 대상)'에게 감사 선물을 전달할 때 결합할 가장 알맞은 높임 여격 조사는 무엇입니까?",
           "options": [
             "선생님께 (존경과 예의를 갖추어야 하는 대상인 선생님 뒤에는 높임 여격 조사 께를 쓰는 것이 가장 올바릅니다.) (여격 조사 에게/한테와 수여 동사 (Dative Particles -에게/-한테 & Giving Verbs))",
-            "선생님에게 (Target expression (Korean))",
-            "선생님한테 (Target expression (Korean))"
+            "선생님에게) (Context: 여격 조사 에게/한테와 수여 동사 (Dative Particle)",
+            "선생님한테) (Context: 여격 조사 에게/한테와 수여 동사 (Dative Particle)"
           ],
           "answerIndex": 0,
           "explanation": "존경과 예의를 갖추어야 하는 대상인 '선생님' 뒤에는 높임 여격 조사 '께'를 쓰는 것이 가장 올바릅니다."
@@ -1746,8 +1746,8 @@
           "prompt": "'민수가 친구(friend) _____ 생일 선물을 줍니다.' 빈칸에 들어갈 알맞은 일반 여격 조사는 무엇입니까?",
           "options": [
             "에게 (선물을 받는 사람 대상이므로 여격 조사 에게가 결합하여 친구에게가 됩니다.) (여격 조사 에게/한테와 수여 동사 (Dative Particles -에게/-한테 & Giving Verbs))",
-            "을 (Target expression (Korean))",
-            "이 (Target expression (Korean))"
+            "을) (Context: 여격 조사 에게/한테와 수여 동사 (Dative Particle)",
+            "이) (Context: 여격 조사 에게/한테와 수여 동사 (Dative Particle)"
           ],
           "answerIndex": 0,
           "explanation": "선물을 받는 사람 대상이므로 여격 조사 '에게'가 결합하여 '친구에게'가 됩니다."
@@ -1761,8 +1761,8 @@
           "prompt": "다음 중 수여문 어법에 완벽히 부합하는 문장은 어느 것입니까?",
           "options": [
             "지은이가 친구에게 편지를 보냅니다. (받는 사람(친구에게) + 물건(편지를) + 동사(보냅니다) 구조가 정확합니다.) (여격 조사 에게/한테와 수여 동사 (Dative Particles -에게/-한테 & Giving Verbs))",
-            "지은이가 친구를 편지에게 보냅니다. (Target expression (Korean))",
-            "지은이가 편지에게 친구를 보냅니다. (Target expression (Korean))"
+            "지은이가 친구를 편지에게 보냅니다.) (Context: 여격 조사 에게/한테와 수여 동사 (Dative Particle)",
+            "지은이가 편지에게 친구를 보냅니다.) (Context: 여격 조사 에게/한테와 수여 동사 (Dative Particle)"
           ],
           "answerIndex": 0,
           "explanation": "받는 사람(친구에게) + 물건(편지를) + 동사(보냅니다) 구조가 정확합니다."
@@ -1824,8 +1824,8 @@
           "prompt": "'무엇을(what)'을 일상 구어체에서 한 글자로 축약하여 부드럽게 표현한 형태는 무엇입니까?",
           "options": [
             "뭘 (무엇을은 구어에서 뭘[mwol]로 자연스럽게 축약됩니다.)",
-            "문 (Target expression (Korean))",
-            "말 (Target expression (Korean))"
+            "문) (Context: 대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Obj)",
+            "말) (Context: 대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Obj)"
           ],
           "answerIndex": 0,
           "explanation": "'무엇을'은 구어에서 '뭘[mwol]'로 자연스럽게 축약됩니다."
@@ -1838,8 +1838,8 @@
           "prompt": "'이것을(this thing)'을 가리키며 '이것을 사겠습니다'라고 할 때 쓰이는 알맞은 축약 표현은 무엇입니까?",
           "options": [
             "이걸 (이것을의 축약형은 이걸입니다. 이건은 이것은, 이게는 이것이의 축약형입니다.) (대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Object Contractions & Ellipsis))",
-            "이건 (Target expression (Korean))",
-            "이게 (Target expression (Korean))"
+            "이건) (Context: 대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Obj)",
+            "이게) (Context: 대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Obj)"
           ],
           "answerIndex": 0,
           "explanation": "'이것을'의 축약형은 '이걸'입니다. '이건'은 '이것은', '이게'는 '이것이'의 축약형입니다."
@@ -1853,8 +1853,8 @@
           "prompt": "'Q: 지금 _____ 합니까? A: 음악을 듣습니다.' 빈칸에 들어갈 알맞은 의문 대명사 축약형은 무엇입니까?",
           "options": [
             "뭘 (무엇을 합니까?의 축약 표현인 뭘 합니까?가 질문으로 정확합니다.) (대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Object Contractions & Ellipsis))",
-            "날 (Target expression (Korean))",
-            "널 (Target expression (Korean))"
+            "날) (Context: 대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Obj)",
+            "널) (Context: 대명사 목적어 축약(날, 널, 뭘, 이걸)과 일상 생략 (Obj)"
           ],
           "answerIndex": 0,
           "explanation": "'무엇을 합니까?'의 축약 표현인 '뭘 합니까?'가 질문으로 정확합니다."
@@ -1916,8 +1916,8 @@
           "prompt": "'지하철(subway - 받침 ㄹ 있음)'을 목적어로 삼아 대중교통을 탑승함을 표현하는 가장 올바른 연어는 무엇입니까?",
           "options": [
             "지하철을 탑니다. (교통수단에는 동사 타다가 결합하여 지하철을 탑니다가 자연스럽습니다.) (일상 활동과 필수 타동사 연어 종합 (Daily Routines & Transitive Collocations))",
-            "지하철을 마십니다. (Target expression (Korean))",
-            "지하철을 봅니다. (Target expression (Korean))"
+            "지하철을 마십니다.) (Context: 일상 활동과 필수 타동사 연어 종합 (Daily Routines)",
+            "지하철을 봅니다.) (Context: 일상 활동과 필수 타동사 연어 종합 (Daily Routines)"
           ],
           "answerIndex": 0,
           "explanation": "교통수단에는 동사 '타다'가 결합하여 '지하철을 탑니다'가 자연스럽습니다."
@@ -1930,8 +1930,8 @@
           "prompt": "'친구(받침 없음)'를 목적어로 하여 만남을 표현하는 올바른 문장은 어느 것입니까?",
           "options": [
             "카페에서 친구를 만납니다. (친구는 받침이 없으므로 를과 결합하여 친구를 만납니다가 됩니다.) (일상 활동과 필수 타동사 연어 종합 (Daily Routines & Transitive Collocations))",
-            "카페에서 친구을 만납니다. (Target expression (Korean))",
-            "카페에서 친구이 만납니다. (Target expression (Korean))"
+            "카페에서 친구을 만납니다.) (Context: 일상 활동과 필수 타동사 연어 종합 (Daily Routines)",
+            "카페에서 친구이 만납니다.) (Context: 일상 활동과 필수 타동사 연어 종합 (Daily Routines)"
           ],
           "answerIndex": 0,
           "explanation": "'친구'는 받침이 없으므로 '를'과 결합하여 '친구를 만납니다'가 됩니다."
@@ -1945,8 +1945,8 @@
           "prompt": "다음 중 동작과 목적어의 연어 관계가 올바르게 짝지어진 문장은 무엇입니까?",
           "options": [
             "공원에서 운동을 합니다. (운동(exercise)은 하다 동사와 결합하여 운동을 합니다가 올바른 연어입니다.)",
-            "공원에서 운동을 마십니다. (Target expression (Korean))",
-            "공원에서 운동을 탑니다. (Target expression (Korean))"
+            "공원에서 운동을 마십니다.) (Context: 일상 활동과 필수 타동사 연어 종합 (Daily Routines)",
+            "공원에서 운동을 탑니다.) (Context: 일상 활동과 필수 타동사 연어 종합 (Daily Routines)"
           ],
           "answerIndex": 0,
           "explanation": "'운동(exercise)'은 '하다' 동사와 결합하여 '운동을 합니다'가 올바른 연어입니다."
@@ -2008,8 +2008,8 @@
           "prompt": "동사 '앉다(to sit)'의 어간 '앉(모음 ㅏ 있음)' 뒤에 결합할 올바른 해요체 형태는 무엇입니까?",
           "options": [
             "앉아요 (앉다의 어간 모음은 ㅏ로 양성모음이므로 -아요가 결합하여 앉아요[안자요]가 됩니다.) (Target Korean construction)",
-            "앉어요 (Target expression (Korean))",
-            "앉해요 (Target expression (Korean))"
+            "앉어요) (Context: 해요체 종결어미와 양성모음 활용 (-아요)",
+            "앉해요) (Context: 해요체 종결어미와 양성모음 활용 (-아요)"
           ],
           "answerIndex": 0,
           "explanation": "'앉다'의 어간 모음은 'ㅏ'로 양성모음이므로 '-아요'가 결합하여 '앉아요[안자요]'가 됩니다."
@@ -2022,8 +2022,8 @@
           "prompt": "형용사 '좋다(to be good - 어간 모음 ㅗ)'의 올바른 해요체 활용형은 어느 것입니까?",
           "options": [
             "좋아요 (어간 모음이 ㅗ이므로 -아요가 결합하여 좋아요[조아요]가 됩니다.) (Target Korean construction)",
-            "좋어요 (Target expression (Korean))",
-            "좋여요 (Target expression (Korean))"
+            "좋어요) (Context: 해요체 종결어미와 양성모음 활용 (-아요)",
+            "좋여요) (Context: 해요체 종결어미와 양성모음 활용 (-아요)"
           ],
           "answerIndex": 0,
           "explanation": "어간 모음이 'ㅗ'이므로 '-아요'가 결합하여 '좋아요[조아요]'가 됩니다."
@@ -2037,8 +2037,8 @@
           "prompt": "다음 중 양성모음 어간에 '-아요'가 올바르게 결합한 문장은 어느 것입니까?",
           "options": [
             "창문을 닫아요. (닫다의 어간 모음이 ㅏ이므로 -아요와 결합하여 닫아요가 올바릅니다.) (Target Korean construction)",
-            "창문을 닫어요. (Target expression (Korean))",
-            "창문을 닫해요. (Target expression (Korean))"
+            "창문을 닫어요.) (Context: 해요체 종결어미와 양성모음 활용 (-아요)",
+            "창문을 닫해요.) (Context: 해요체 종결어미와 양성모음 활용 (-아요)"
           ],
           "answerIndex": 0,
           "explanation": "'닫다'의 어간 모음이 'ㅏ'이므로 '-아요'와 결합하여 '닫아요'가 올바릅니다."
@@ -2100,8 +2100,8 @@
           "prompt": "동사 '먹다(to eat - 어간 모음 ㅓ)' 뒤에 결합할 올바른 해요체 형태는 무엇입니까?",
           "options": [
             "먹어요 (먹다의 어간 모음은 ㅓ로 음성모음이므로 -어요가 결합하여 먹어요[머거요]가 됩니다.) (Target Korean construction)",
-            "먹아요 (Target expression (Korean))",
-            "먹해요 (Target expression (Korean))"
+            "먹아요) (Context: 해요체 종결어미와 음성모음 활용 (-어요)",
+            "먹해요) (Context: 해요체 종결어미와 음성모음 활용 (-어요)"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'의 어간 모음은 'ㅓ'로 음성모음이므로 '-어요'가 결합하여 '먹어요[머거요]'가 됩니다."
@@ -2114,8 +2114,8 @@
           "prompt": "동사 '읽다(to read)'의 해요체 활용형과 올바른 발음 표기는 어느 것입니까?",
           "options": [
             "읽어요 [일거요] (읽다는 음성모음(ㅣ) 어간이므로 -어요와 결합하여 읽어요가 되며 연음되어 [일거요]로 발음됩니다.) (Target Korean construction)",
-            "읽아요 [일가요] (Target expression (Korean))",
-            "읽해요 [일캐요] (Target expression (Korean))"
+            "읽아요 [일가요]) (Context: 해요체 종결어미와 음성모음 활용 (-어요)",
+            "읽해요 [일캐요]) (Context: 해요체 종결어미와 음성모음 활용 (-어요)"
           ],
           "answerIndex": 0,
           "explanation": "'읽다'는 음성모음(ㅣ) 어간이므로 '-어요'와 결합하여 '읽어요'가 되며 연음되어 [일거요]로 발음됩니다."
@@ -2129,8 +2129,8 @@
           "prompt": "다음 중 음성모음 어간에 '-어요'가 올바르게 결합한 문장은 어느 것입니까?",
           "options": [
             "한국 음식이 아주 맛있어요. (맛있다의 어간 모음은 ㅣ이므로 -어요와 결합하여 맛있어요가 올바릅니다.) (Target Korean construction)",
-            "한국 음식이 아주 맛있아요. (Target expression (Korean))",
-            "한국 음식이 아주 맛있해요. (Target expression (Korean))"
+            "한국 음식이 아주 맛있아요.) (Context: 해요체 종결어미와 음성모음 활용 (-어요)",
+            "한국 음식이 아주 맛있해요.) (Context: 해요체 종결어미와 음성모음 활용 (-어요)"
           ],
           "answerIndex": 0,
           "explanation": "'맛있다'의 어간 모음은 'ㅣ'이므로 '-어요'와 결합하여 '맛있어요'가 올바릅니다."
@@ -2192,8 +2192,8 @@
           "prompt": "동사 '공부하다(to study)'의 올바른 해요체 종결 형태는 무엇입니까?",
           "options": [
             "공부해요 (하다 동사는 현대 한국어 해요체에서 해요로 활용되므로 공부해요가 올바릅니다.) (Target Korean construction)",
-            "공부하아요 (Target expression (Korean))",
-            "공부하여요 (Target expression (Korean))"
+            "공부하아요) (Context: 하다 동사의 특별 활용 (하다 → 해요))",
+            "공부하여요) (Context: 하다 동사의 특별 활용 (하다 → 해요))"
           ],
           "answerIndex": 0,
           "explanation": "'하다' 동사는 현대 한국어 해요체에서 '해요'로 활용되므로 '공부해요'가 올바릅니다."
@@ -2206,8 +2206,8 @@
           "prompt": "형용사 '친절하다(to be kind)'의 올바른 해요체 서술문은 어느 것입니까?",
           "options": [
             "선생님이 친절해요. (친절하다의 하다가 해요로 바뀌어 선생님이 친절해요가 됩니다.) (Target Korean construction)",
-            "선생님이 친절하요. (Target expression (Korean))",
-            "선생님이 친절하어요. (Target expression (Korean))"
+            "선생님이 친절하요.) (Context: 하다 동사의 특별 활용 (하다 → 해요))",
+            "선생님이 친절하어요.) (Context: 하다 동사의 특별 활용 (하다 → 해요))"
           ],
           "answerIndex": 0,
           "explanation": "'친절하다'의 '하다'가 '해요'로 바뀌어 '선생님이 친절해요'가 됩니다."
@@ -2221,8 +2221,8 @@
           "prompt": "'A: 지금 뭐 해요? B: 공원에서 _____ (I am exercising).' 빈칸에 들어갈 알맞은 표현은 무엇입니까?",
           "options": [
             "운동해요 (운동하다의 해요체 활용형은 운동해요입니다.) (Target Korean construction)",
-            "운동하요 (Target expression (Korean))",
-            "운동먹어요 (Target expression (Korean))"
+            "운동하요) (Context: 하다 동사의 특별 활용 (하다 → 해요))",
+            "운동먹어요) (Context: 하다 동사의 특별 활용 (하다 → 해요))"
           ],
           "answerIndex": 0,
           "explanation": "'운동하다'의 해요체 활용형은 '운동해요'입니다."
@@ -2284,8 +2284,8 @@
           "prompt": "동사 '마시다(to drink)'에 '-어요'가 결합할 때 모음 축약(ㅣ+어→ㅕ)이 일어난 올바른 형태는 무엇입니까?",
           "options": [
             "마셔요 (마시 + 어요는 ㅣ와 ㅓ가 합쳐져 마셔요로 축약됩니다.) (어간에 받침이 없는 모음 종결 용언이 '-아요/어요'와 만날 때 일어나는 동음 탈락과 모음 축약(Diphthongization)을 정확히 산출한다.)",
-            "마시어요 (Target expression (Korean))",
-            "마샤요 (Target expression (Korean))"
+            "마시어요) (Context: 모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요))",
+            "마샤요) (Context: 모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요))"
           ],
           "answerIndex": 0,
           "explanation": "'마시 + 어요'는 'ㅣ'와 'ㅓ'가 합쳐져 '마셔요'로 축약됩니다."
@@ -2298,8 +2298,8 @@
           "prompt": "동사 '보다(to see/watch)'에 '-아요'가 결합하여 'ㅗ+아→ㅘ'로 축약된 올바른 해요체 형태는 어느 것입니까?",
           "options": [
             "봐요 (보 + 아요는 봐요[bwayo]로 축약되어 자연스럽게 쓰입니다.)",
-            "보아요 (Target expression (Korean))",
-            "보요 (Target expression (Korean))"
+            "보아요) (Context: 모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요))",
+            "보요) (Context: 모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요))"
           ],
           "answerIndex": 0,
           "explanation": "'보 + 아요'는 '봐요[bwayo]'로 축약되어 자연스럽게 쓰입니다."
@@ -2313,8 +2313,8 @@
           "prompt": "'배우다(to learn)'의 올바른 해요체 축약형(ㅜ+어→ㅝ)이 쓰인 문장은 무엇입니까?",
           "options": [
             "한국어를 배워요. (배우 + 어요는 배워요로 축약됩니다.) (어간에 받침이 없는 모음 종결 용언이 '-아요/어요'와 만날 때 일어나는 동음 탈락과 모음 축약(Diphthongization)을 정확히 산출한다.)",
-            "한국어를 배우어요. (Target expression (Korean))",
-            "한국어를 배와요. (Target expression (Korean))"
+            "한국어를 배우어요.) (Context: 모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요))",
+            "한국어를 배와요.) (Context: 모음 축약과 탈락 규칙 (가요, 봐요, 마셔요, 배워요, 써요))"
           ],
           "answerIndex": 0,
           "explanation": "'배우 + 어요'는 '배워요'로 축약됩니다."
@@ -2376,8 +2376,8 @@
           "prompt": "'같이 영화 봐요(Let's watch a movie together)'처럼 상대방에게 함께 행동할 것을 권유하는 청유문에서 요구되는 말끝 억양은 무엇입니까?",
           "options": [
             "부드럽고 평탄하게 이끄는 억양 (청유문은 상대방에게 부드럽게 권유하는 평탄하고 친근한 억양(➡)으로 발화합니다.) (해요체의 문형별 억양 변화와 대화 실전 (Intonation Patterns in -아요/어요))",
-            "가파르게 끝을 치켜올리는 억양 (Target expression (Korean))",
-            "화가 난 듯 뚝 떨어뜨리는 억양 (Target expression (Korean))"
+            "가파르게 끝을 치켜올리는 억양) (Context: 해요체의 문형별 억양 변화와 대화 실전 (Intonation P)",
+            "화가 난 듯 뚝 떨어뜨리는 억양) (Context: 해요체의 문형별 억양 변화와 대화 실전 (Intonation P)"
           ],
           "answerIndex": 0,
           "explanation": "청유문은 상대방에게 부드럽게 권유하는 평탄하고 친근한 억양(➡)으로 발화합니다."
@@ -2390,8 +2390,8 @@
           "prompt": "'지금 어디에 가요?'라는 질문에 대해 '도서관에 갑니다'를 해요체 평서문으로 답할 때의 올바른 억양은 무엇입니까?",
           "options": [
             "말끝을 차분하게 내리는 평서 억양(↘) (자신의 행동을 진술하는 평서문은 말끝을 자연스럽게 내립니다(↘).) (해요체의 문형별 억양 변화와 대화 실전 (Intonation Patterns in -아요/어요))",
-            "말끝을 의문문처럼 올리는 억양(↗) (Target expression (Korean))",
-            "말끝을 급격히 끊어버리는 억양 (Target expression (Korean))"
+            "말끝을 의문문처럼 올리는 억양(↗)) (Context: 해요체의 문형별 억양 변화와 대화 실전 (Intonation P)",
+            "말끝을 급격히 끊어버리는 억양) (Context: 해요체의 문형별 억양 변화와 대화 실전 (Intonation P)"
           ],
           "answerIndex": 0,
           "explanation": "자신의 행동을 진술하는 평서문은 말끝을 자연스럽게 내립니다(↘)."
@@ -2405,8 +2405,8 @@
           "prompt": "다음 중 해요체 '같이 밥 먹어요!'의 문맥상 화용 기능은 무엇입니까?",
           "options": [
             "함께 식사하자고 권유하는 청유문 (같이(together)와 결합한 해요는 상대방에게 행동을 제안하는 청유문(Suggestion)입니다.)",
-            "혼자 밥을 먹는다는 단순 진술문 (Target expression (Korean))",
-            "밥을 왜 먹는지 따져 묻는 반박문 (Target expression (Korean))"
+            "혼자 밥을 먹는다는 단순 진술문) (Context: 해요체의 문형별 억양 변화와 대화 실전 (Intonation P)",
+            "밥을 왜 먹는지 따져 묻는 반박문) (Context: 해요체의 문형별 억양 변화와 대화 실전 (Intonation P)"
           ],
           "answerIndex": 0,
           "explanation": "'같이(together)'와 결합한 '해요'는 상대방에게 행동을 제안하는 청유문(Suggestion)입니다."
@@ -2468,8 +2468,8 @@
           "prompt": "동사 '가다(to go - 모음 종결)' 어간 뒤에 결합할 올바른 하십시오체 평서문 형태는 무엇입니까?",
           "options": [
             "갑니다 (가다는 받침이 없는 모음 종결 어간이므로 -ㅂ니다가 결합하여 갑니다[감니다]가 됩니다.) (Target Korean construction)",
-            "가습니다 (Target expression (Korean))",
-            "가입니다 (Target expression (Korean))"
+            "가습니다) (Context: 하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다))",
+            "가입니다) (Context: 하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다))"
           ],
           "answerIndex": 0,
           "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㅂ니다'가 결합하여 '갑니다[감니다]'가 됩니다."
@@ -2482,8 +2482,8 @@
           "prompt": "동사 '먹다(to eat - 받침 ㄱ 있음)'의 올바른 하십시오체 활용형은 어느 것입니까?",
           "options": [
             "먹습니다 (먹다는 받침이 있는 자음 종결 어간이므로 -습니다와 결합하여 먹습니다[먹씀니다]가 됩니다.) (Target Korean construction)",
-            "먹ㅂ니다 (Target expression (Korean))",
-            "먹입니다 (Target expression (Korean))"
+            "먹ㅂ니다) (Context: 하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다))",
+            "먹입니다) (Context: 하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다))"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'는 받침이 있는 자음 종결 어간이므로 '-습니다'와 결합하여 '먹습니다[먹씀니다]'가 됩니다."
@@ -2497,8 +2497,8 @@
           "prompt": "'회사에서 열심히 _____ (I work diligently at the company).' 빈칸에 들어갈 올바른 격식체 서술어는 무엇입니까?",
           "options": [
             "일합니다 (일하다의 어간 일하는 모음 종결이므로 -ㅂ니다가 결합하여 일합니다[일함니다]가 올바릅니다.) (Target Korean construction)",
-            "일하습니다 (Target expression (Korean))",
-            "일먹습니다 (Target expression (Korean))"
+            "일하습니다) (Context: 하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다))",
+            "일먹습니다) (Context: 하십시오체 평서문 종결어미 (-ㅂ니다 / -습니다))"
           ],
           "answerIndex": 0,
           "explanation": "'일하다'의 어간 '일하'는 모음 종결이므로 '-ㅂ니다'가 결합하여 '일합니다[일함니다]'가 올바릅니다."
@@ -2560,8 +2560,8 @@
           "prompt": "'보다(to see - 모음 어간)'를 격식체 의문문으로 바꿀 때 올바른 형태는 무엇입니까?",
           "options": [
             "봅니까? (보다는 모음 종결 어간이므로 -ㅂ니까가 결합하여 봅니까?가 됩니다.) (Target Korean construction)",
-            "보습니까? (Target expression (Korean))",
-            "보입니까? (Target expression (Korean))"
+            "보습니까?) (Context: 하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까))",
+            "보입니까?) (Context: 하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까))"
           ],
           "answerIndex": 0,
           "explanation": "'보다'는 모음 종결 어간이므로 '-ㅂ니까'가 결합하여 '봅니까?'가 됩니다."
@@ -2574,8 +2574,8 @@
           "prompt": "'음악을 자주 _____? (Do you often listen to music?)' 빈칸에 들어갈 알맞은 격식체 의문사는 무엇입니까?",
           "options": [
             "듣습니까 (듣다는 받침이 있는 자음 종결 어간이므로 -습니까와 결합하여 듣습니까?가 됩니다.) (Target Korean construction)",
-            "듣ㅂ니까 (Target expression (Korean))",
-            "듣입니까 (Target expression (Korean))"
+            "듣ㅂ니까) (Context: 하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까))",
+            "듣입니까) (Context: 하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까))"
           ],
           "answerIndex": 0,
           "explanation": "'듣다'는 받침이 있는 자음 종결 어간이므로 '-습니까'와 결합하여 '듣습니까?'가 됩니다."
@@ -2589,8 +2589,8 @@
           "prompt": "다음 중 하십시오체 의문문의 문법과 철자가 올바른 문장은 어느 것입니까?",
           "options": [
             "한국어를 공부합니까? (공부하다의 모음 어간 뒤에 -ㅂ니까가 결합한 공부합니까?가 정확합니다.) (Target Korean construction)",
-            "한국어를 공부하습니까? (Target expression (Korean))",
-            "한국어를 공부하입니다? (Target expression (Korean))"
+            "한국어를 공부하습니까?) (Context: 하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까))",
+            "한국어를 공부하입니다?) (Context: 하십시오체 의문문 종결어미 (-ㅂ니까 / -습니까))"
           ],
           "answerIndex": 0,
           "explanation": "'공부하다'의 모음 어간 뒤에 '-ㅂ니까'가 결합한 '공부합니까?'가 정확합니다."
@@ -2652,8 +2652,8 @@
           "prompt": "동사 '살다(to live)'에 하십시오체 평서문 어미가 결합할 때 'ㄹ 탈락'이 적용된 올바른 형태는 무엇입니까?",
           "options": [
             "삽니다 (살다의 어간 받침 ㄹ이 탈락하고 -ㅂ니다가 결합하여 삽니다[삼니다]가 됩니다.) (Target Korean construction)",
-            "살습니다 (Target expression (Korean))",
-            "살입니다 (Target expression (Korean))"
+            "살습니다) (Context: ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭)",
+            "살입니다) (Context: ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭)"
           ],
           "answerIndex": 0,
           "explanation": "'살다'의 어간 받침 'ㄹ'이 탈락하고 '-ㅂ니다'가 결합하여 '삽니다[삼니다]'가 됩니다."
@@ -2666,8 +2666,8 @@
           "prompt": "동사 '만들다(to make)'의 올바른 하십시오체 활용형은 어느 것입니까?",
           "options": [
             "만듭니다 (만들다의 ㄹ이 탈락하여 만듭니다[만듬니다]가 됩니다.) (Target Korean construction)",
-            "만들습니다 (Target expression (Korean))",
-            "만들입니다 (Target expression (Korean))"
+            "만들습니다) (Context: ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭)",
+            "만들입니다) (Context: ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭)"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'의 'ㄹ'이 탈락하여 '만듭니다[만듬니다]'가 됩니다."
@@ -2681,8 +2681,8 @@
           "prompt": "'A: 한국어 선생님의 성함을 _____? (Do you know the teacher's name?)' 빈칸에 들어갈 알맞은 ㄹ 탈락 의문형은 무엇입니까?",
           "options": [
             "압니까 (알다의 받침 ㄹ이 탈락하고 -ㅂ니까가 붙어 압니까?가 올바릅니다.) (Target Korean construction)",
-            "알습니까 (Target expression (Korean))",
-            "알입니까 (Target expression (Korean))"
+            "알습니까) (Context: ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭)",
+            "알입니까) (Context: ㄹ 탈락 불규칙 용언의 하십시오체 활용 (삽니다, 압니다, 만듭)"
           ],
           "answerIndex": 0,
           "explanation": "'알다'의 받침 'ㄹ'이 탈락하고 '-ㅂ니까'가 붙어 '압니까?'가 올바릅니다."
@@ -2743,9 +2743,9 @@
         {
           "prompt": "공식 프레젠테이션을 시작할 때 청중에게 건네는 가장 격조 높은 첫인사 표현은 무엇입니까?",
           "options": [
-            "안녕하십니까? 오늘 발표를 시작하겠습니다. (Target expression (Korean))",
-            "안녕? 오늘 발표할게. (Target expression (Korean))",
-            "안녕하세요? 발표 시작해요. (Target expression (Korean))"
+            "안녕하십니까? 오늘 발표를 시작하겠습니다.) (공식 행사, 뉴스 보도, 비즈니스 프레젠테이션, 자기소개 면접 등 공적 담화(Public ...)",
+            "안녕? 오늘 발표할게.) (Context: 공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)",
+            "안녕하세요? 발표 시작해요.) (Context: 공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)"
           ],
           "answerIndex": 0,
           "explanation": "공식 프레젠테이션에서는 하십시오체를 사용하여 '안녕하십니까? 오늘 발표를 시작하겠습니다'라고 여는 것이 가장 품격 있습니다."
@@ -2758,8 +2758,8 @@
           "prompt": "행사에 참석한 귀빈들에게 깊은 감사를 표하는 가장 올바른 격식체 문장은 어느 것입니까?",
           "options": [
             "참석해 주셔서 대단히 감사합니다. (공식 감사 표현으로는 대단히 감사합니다가 가장 표준적이고 정중합니다.) (공식 행사, 뉴스 보도, 비즈니스 프레젠테이션, 자기소개 면접 등 공적 담화(Public Discourse) 상황에서 하십시오체를 품격 있게 구사한다.)",
-            "참석해 줘서 정말 고마워. (Target expression (Korean))",
-            "참석해 줘서 감사해요. (Target expression (Korean))"
+            "참석해 줘서 정말 고마워.) (Context: 공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)",
+            "참석해 줘서 감사해요.) (Context: 공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)"
           ],
           "answerIndex": 0,
           "explanation": "공식 감사 표현으로는 '대단히 감사합니다'가 가장 표준적이고 정중합니다."
@@ -2773,8 +2773,8 @@
           "prompt": "다음 중 비즈니스 면접 상황에 가장 어울리는 격식체 자기소개 문장은 무엇입니까?",
           "options": [
             "안녕하십니까? 기획팀 지원자 박지은입니다. (취업 면접과 같은 최고 격식 자리에서는 하십시오체인 안녕하십니까? ... 지원자 박지은입니다가 표준입니다.) (공식 행사, 뉴스 보도, 비즈니스 프레젠테이션, 자기소개 면접 등 공적 담화(Public Discourse) 상황에서 하십시오체를 품격 있게 구사한다.)",
-            "안녕! 기획팀에 지원한 지은이야. (Target expression (Korean))",
-            "안녕하세요! 기획팀 지은이에요. (Target expression (Korean))"
+            "안녕! 기획팀에 지원한 지은이야.) (Context: 공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)",
+            "안녕하세요! 기획팀 지은이에요.) (Context: 공적 담화와 격식체 사용 맥락 (발표, 뉴스, 비즈니스, 환영사)"
           ],
           "answerIndex": 0,
           "explanation": "취업 면접과 같은 최고 격식 자리에서는 하십시오체인 '안녕하십니까? ... 지원자 박지은입니다'가 표준입니다."
@@ -2836,8 +2836,8 @@
           "prompt": "공식 발표의 '마무리 인사(Closing)'로 가장 알맞은 격식체 종결 표현은 무엇입니까?",
           "options": [
             "경청해 주셔서 대단히 감사합니다. (발표의 공적인 마무리는 경청해 주셔서 대단히 감사합니다가 가장 예의 바릅니다.) (해요체 대 하십시오체의 화용론적 교체 전략 (Discourse Style Switching))",
-            "들어줘서 고마워요. (Target expression (Korean))",
-            "다음에 또 봐. (Target expression (Korean))"
+            "들어줘서 고마워요.) (Context: 해요체 대 하십시오체의 화용론적 교체 전략 (Discourse )",
+            "다음에 또 봐.) (Context: 해요체 대 하십시오체의 화용론적 교체 전략 (Discourse )"
           ],
           "answerIndex": 0,
           "explanation": "발표의 공적인 마무리는 '경청해 주셔서 대단히 감사합니다'가 가장 예의 바릅니다."
@@ -2850,8 +2850,8 @@
           "prompt": "도입부에서 공적 예의를 갖추는 하십시오체 인사말로 가장 알맞은 것은 무엇입니까?",
           "options": [
             "안녕하십니까? (공식적인 오프닝 인사로는 안녕하십니까?가 표준입니다.) (해요체 대 하십시오체의 화용론적 교체 전략 (Discourse Style Switching))",
-            "안녕? (Target expression (Korean))",
-            "잘 있었어? (Target expression (Korean))"
+            "안녕?) (Context: 해요체 대 하십시오체의 화용론적 교체 전략 (Discourse )",
+            "잘 있었어?) (Context: 해요체 대 하십시오체의 화용론적 교체 전략 (Discourse )"
           ],
           "answerIndex": 0,
           "explanation": "공식적인 오프닝 인사로는 '안녕하십니까?'가 표준입니다."
@@ -2865,8 +2865,8 @@
           "prompt": "한국어 담화에서 하십시오체와 해요체를 번갈아 사용하는 주된 화용론적 이유는 무엇입니까?",
           "options": [
             "공적인 예의와 청중과의 친근한 유대감을 조화롭게 유지하기 위해 (공적 신뢰성(하십시오체)과 친밀한 소통(해요체)을 조화롭게 구사하기 위한 전략적 선택입니다.) (해요체 대 하십시오체의 화용론적 교체 전략 (Discourse Style Switching))",
-            "단어를 잊어버렸을 때 둘러대기 위해 (Target expression (Korean))",
-            "문법 규칙이 존재하지 않기 때문에 (Target expression (Korean))"
+            "단어를 잊어버렸을 때 둘러대기 위해) (Context: 해요체 대 하십시오체의 화용론적 교체 전략 (Discourse )",
+            "문법 규칙이 존재하지 않기 때문에) (Context: 해요체 대 하십시오체의 화용론적 교체 전략 (Discourse )"
           ],
           "answerIndex": 0,
           "explanation": "공적 신뢰성(하십시오체)과 친밀한 소통(해요체)을 조화롭게 구사하기 위한 전략적 선택입니다."
@@ -2928,8 +2928,8 @@
           "prompt": "동사 '먹다(to eat - 음성모음 ㅓ)'의 올바른 해요체 과거형은 무엇입니까?",
           "options": [
             "먹었어요 (먹다의 어간 모음 ㅓ는 음성모음이므로 -었-과 결합하여 먹었어요가 됩니다.) (어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.)",
-            "먹았어요 (Target expression (Korean))",
-            "먹했어요 (Target expression (Korean))"
+            "먹았어요) (Context: 과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-))",
+            "먹했어요) (Context: 과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-))"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'의 어간 모음 'ㅓ'는 음성모음이므로 '-었-'과 결합하여 '먹었어요'가 됩니다."
@@ -2942,8 +2942,8 @@
           "prompt": "'보다(to see - 양성모음 ㅗ)'의 올바른 격식체 하십시오체 과거형은 어느 것입니까?",
           "options": [
             "봤습니다 (보다는 양성모음이므로 -았-과 축약 결합하여 봤습니다[봣씀니다]가 됩니다.) (어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.)",
-            "보었습니다 (Target expression (Korean))",
-            "보했습니다 (Target expression (Korean))"
+            "보었습니다) (Context: 과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-))",
+            "보했습니다) (Context: 과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-))"
           ],
           "answerIndex": 0,
           "explanation": "'보다'는 양성모음이므로 '-았-'과 축약 결합하여 '봤습니다[봣씀니다]'가 됩니다."
@@ -2957,8 +2957,8 @@
           "prompt": "'어제 공원에서 1시간 동안 열심히 _____ (I exercised diligently in the park yesterday).' 빈칸에 알맞은 과거형은?",
           "options": [
             "운동했어요 (운동하다는 하다 동사이므로 과거형 운동했어요가 올바릅니다.) (어간 끝 모음의 음운적 성질(양성모음 vs 음성모음 vs 하다)에 따라 과거 시제 선어말어미 '-았-', '-었-', '-였-'을 정확히 선택 결합한다.)",
-            "운동았어요 (Target expression (Korean))",
-            "운동먹었어요 (Target expression (Korean))"
+            "운동았어요) (Context: 과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-))",
+            "운동먹었어요) (Context: 과거 시제 선어말어미 결합 규칙 (-았-/-었-/-였-))"
           ],
           "answerIndex": 0,
           "explanation": "'운동하다'는 '하다' 동사이므로 과거형 '운동했어요'가 올바릅니다."
@@ -3020,8 +3020,8 @@
           "prompt": "동사 '쓰다(to write)'의 올바른 과거형 서술어는 무엇입니까?",
           "options": [
             "썼어요 (쓰다의 모음 ㅡ가 탈락하고 -었-과 결합하여 썼어요[써써요]가 됩니다.) (Target Korean construction)",
-            "쓰었어요 (Target expression (Korean))",
-            "쓰았어요 (Target expression (Korean))"
+            "쓰었어요) (Context: 과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, )",
+            "쓰았어요) (Context: 과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, )"
           ],
           "answerIndex": 0,
           "explanation": "'쓰다'의 모음 'ㅡ'가 탈락하고 '-었-'과 결합하여 '썼어요[써써요]'가 됩니다."
@@ -3034,8 +3034,8 @@
           "prompt": "형용사 '바쁘다(to be busy)'의 올바른 과거형은 어느 것입니까?",
           "options": [
             "바빴어요 (바쁘다의 ㅡ가 탈락한 후 앞 음절 바의 양성모음 ㅏ에 호응하여 -았-이 붙어 바빴어요가 됩니다.) (Target Korean construction)",
-            "바뻤어요 (Target expression (Korean))",
-            "바쁘었어요 (Target expression (Korean))"
+            "바뻤어요) (Context: 과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, )",
+            "바쁘었어요) (Context: 과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, )"
           ],
           "answerIndex": 0,
           "explanation": "'바쁘다'의 'ㅡ'가 탈락한 후 앞 음절 '바'의 양성모음 'ㅏ'에 호응하여 '-았-'이 붙어 '바빴어요'가 됩니다."
@@ -3049,8 +3049,8 @@
           "prompt": "'약속 장소에서 친구를 1시간 동안 _____ (I waited for my friend for an hour).' 빈칸에 알맞은 형태는?",
           "options": [
             "기다렸어요 (기다리다의 어간 끝 ㅣ와 -었-이 축약되어 기다렸어요가 됩니다.) (Target Korean construction)",
-            "기다리았어요 (Target expression (Korean))",
-            "기다리했어요 (Target expression (Korean))"
+            "기다리았어요) (Context: 과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, )",
+            "기다리했어요) (Context: 과거 시제의 모음 축약과 'ㅡ' 탈락 규칙 (썼어요, 컸어요, )"
           ],
           "answerIndex": 0,
           "explanation": "'기다리다'의 어간 끝 'ㅣ'와 '-었-'이 축약되어 '기다렸어요'가 됩니다."
@@ -3112,8 +3112,8 @@
           "prompt": "'어제(yesterday)'라는 시간 부사와 통사적으로 호응하는 올바른 서술어는 무엇입니까?",
           "options": [
             "도서관에 갔어요 (어제는 명백한 과거 시점이므로 과거형 서술어인 갔어요와 호응해야 합니다.) (Target Korean construction)",
-            "도서관에 가요 (Target expression (Korean))",
-            "도서관에 갈 거예요 (Target expression (Korean))"
+            "도서관에 가요) (Context: 과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, )",
+            "도서관에 갈 거예요) (Context: 과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, )"
           ],
           "answerIndex": 0,
           "explanation": "'어제'는 명백한 과거 시점이므로 과거형 서술어인 '갔어요'와 호응해야 합니다."
@@ -3126,8 +3126,8 @@
           "prompt": "'아까(earlier today)'와 시제 일치를 이루는 올바른 문장은 어느 것입니까?",
           "options": [
             "아까 커피를 마셨어요. (아까는 과거 시간을 가리키므로 과거형 마셨어요가 올바릅니다.) (Target Korean construction)",
-            "아까 커피를 마셔요. (Target expression (Korean))",
-            "아까 커피를 마실래요. (Target expression (Korean))"
+            "아까 커피를 마셔요.) (Context: 과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, )",
+            "아까 커피를 마실래요.) (Context: 과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, )"
           ],
           "answerIndex": 0,
           "explanation": "'아까'는 과거 시간을 가리키므로 과거형 '마셨어요'가 올바릅니다."
@@ -3141,8 +3141,8 @@
           "prompt": "다음 중 시간 부사와 서술어 시제 일치가 문법적으로 완벽한 문장은 무엇입니까?",
           "options": [
             "지난주에 한국어 시험을 봤어요. (지난주에 ... 시험을 봤어요는 과거 시간 부사와 과거 시제 서술어가 완벽히 일치합니다.) (Target Korean construction)",
-            "어제 친구와 영화를 봐요. (Target expression (Korean))",
-            "작년에 서울에 가요. (Target expression (Korean))"
+            "어제 친구와 영화를 봐요.) (Context: 과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, )",
+            "작년에 서울에 가요.) (Context: 과거 시간 부사어의 통사적 호응과 시제 일치 (어제, 지난주, )"
           ],
           "answerIndex": 0,
           "explanation": "'지난주에 ... 시험을 봤어요'는 과거 시간 부사와 과거 시제 서술어가 완벽히 일치합니다."
@@ -3204,8 +3204,8 @@
           "prompt": "동사 '듣다(to listen)'의 올바른 과거형은 무엇입니까?",
           "options": [
             "들었어요 (듣다의 받침 ㄷ은 모음 어미 앞에서 ㄹ로 바뀌므로 들었어요[드러써요]가 됩니다.) (Target Korean construction)",
-            "듣었어요 (Target expression (Korean))",
-            "듣았어요 (Target expression (Korean))"
+            "듣었어요) (Context: ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요)",
+            "듣았어요) (Context: ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요)"
           ],
           "answerIndex": 0,
           "explanation": "'듣다'의 받침 'ㄷ'은 모음 어미 앞에서 'ㄹ'로 바뀌므로 '들었어요[드러써요]'가 됩니다."
@@ -3218,8 +3218,8 @@
           "prompt": "형용사 '춥다(to be cold)'의 올바른 과거형은 어느 것입니까?",
           "options": [
             "추웠어요 (춥다의 ㅂ은 우로 바뀌어 -었-과 축약되므로 추웠어요[추워써요]가 됩니다.) (Target Korean construction)",
-            "춥었어요 (Target expression (Korean))",
-            "추왔어요 (Target expression (Korean))"
+            "춥었어요) (Context: ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요)",
+            "추왔어요) (Context: ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요)"
           ],
           "answerIndex": 0,
           "explanation": "'춥다'의 'ㅂ'은 '우'로 바뀌어 '-었-'과 축약되므로 '추웠어요[추워써요]'가 됩니다."
@@ -3233,8 +3233,8 @@
           "prompt": "'A: 어제 시험이 어땠어요? B: 문제가 아주 _____ (The questions were very difficult).' 빈칸에 알맞은 과거형은?",
           "options": [
             "어려웠어요 (어렵다는 ㅂ 불규칙 형용사이므로 과거형 어려웠어요가 올바릅니다.) (Target Korean construction)",
-            "어렵었어요 (Target expression (Korean))",
-            "어려왔어요 (Target expression (Korean))"
+            "어렵었어요) (Context: ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요)",
+            "어려왔어요) (Context: ㄷ 불규칙 및 ㅂ 불규칙 용언의 과거 시제 (들었어요, 도왔어요)"
           ],
           "answerIndex": 0,
           "explanation": "'어렵다'는 ㅂ 불규칙 형용사이므로 과거형 '어려웠어요'가 올바릅니다."
@@ -3295,9 +3295,9 @@
         {
           "prompt": "'아침을 먹다'와 '학교에 가다'를 연결 어미 '-고'로 자연스럽게 이은 과거형 문장은 무엇입니까?",
           "options": [
-            "아침을 먹고 학교에 갔어요. (Target expression (Korean))",
-            "아침을 먹었고 학교에 갔어요. (Target expression (Korean))",
-            "아침을 먹고 학교에 가요. (Target expression (Korean))"
+            "아침을 먹고 학교에 갔어요.) (Korean grammar and vocabulary (ko-u6-l5))",
+            "아침을 먹었고 학교에 갔어요.) (Context: 하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)",
+            "아침을 먹고 학교에 가요.) (Context: 하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)"
           ],
           "answerIndex": 0,
           "explanation": "앞 절은 기본 어간에 '-고'만 붙이고 과거 시제는 마지막 서술어에 '갔어요'로 한 번만 표기하는 것이 가장 자연스럽습니다."
@@ -3310,8 +3310,8 @@
           "prompt": "'책을 읽다'와 '숙제를 하다'를 시간 순서대로 표현한 올바른 과거 서술 문장은 어느 것입니까?",
           "options": [
             "책을 읽고 숙제를 했어요. (읽고(비시제 연결) + 했어요(종결 과거 시제)의 구조가 표준적입니다.) (Target Korean construction)",
-            "책을 읽었고 숙제를 했어요. (Target expression (Korean))",
-            "책을 읽고 숙제를 해요. (Target expression (Korean))"
+            "책을 읽었고 숙제를 했어요.) (Context: 하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)",
+            "책을 읽고 숙제를 해요.) (Context: 하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)"
           ],
           "answerIndex": 0,
           "explanation": "'읽고(비시제 연결) + 했어요(종결 과거 시제)'의 구조가 표준적입니다."
@@ -3325,8 +3325,8 @@
           "prompt": "다음 중 하루 일과를 시간 순서대로 서술한 문법적으로 가장 자연스러운 문장은 무엇입니까?",
           "options": [
             "친구를 만나고 같이 영화를 봤어요. (만나고 ... 봤어요가 연결 어미 시제 생략 규칙에 부합하는 가장 자연스러운 한국어 문장입니다.) (Target Korean construction)",
-            "친구를 만났고 같이 영화를 봤어요. (Target expression (Korean))",
-            "친구를 만나고 같이 영화를 봐요. (Target expression (Korean))"
+            "친구를 만났고 같이 영화를 봤어요.) (Context: 하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)",
+            "친구를 만나고 같이 영화를 봐요.) (Context: 하루 일과의 시간 순차적 과거 서술과 담화 연결 (-고, 그리고)"
           ],
           "answerIndex": 0,
           "explanation": "'만나고 ... 봤어요'가 연결 어미 시제 생략 규칙에 부합하는 가장 자연스러운 한국어 문장입니다."
@@ -3388,8 +3388,8 @@
           "prompt": "동사 '가다(to go - 모음 어간)'의 올바른 미래 예정형은 무엇입니까?",
           "options": [
             "갈 거예요 (가다는 받침이 없는 모음 종결 어간이므로 -ㄹ 거예요가 결합하여 갈 거예요[갈꺼예요]가 됩니다.) (Target Korean construction)",
-            "가을 거예요 (Target expression (Korean))",
-            "가ㄹ 거예요 (Target expression (Korean))"
+            "가을 거예요) (Context: 미래 시제와 예정 어미 (-(으)ㄹ 거예요))",
+            "가ㄹ 거예요) (Context: 미래 시제와 예정 어미 (-(으)ㄹ 거예요))"
           ],
           "answerIndex": 0,
           "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㄹ 거예요'가 결합하여 '갈 거예요[갈꺼예요]'가 됩니다."
@@ -3402,8 +3402,8 @@
           "prompt": "동사 '먹다(to eat - 자음 어간)'의 올바른 미래 예정형은 어느 것입니까?",
           "options": [
             "먹을 거예요 (먹다는 받침이 있는 자음 어간이므로 -을 거예요와 결합하여 먹을 거예요[머글꺼예요]가 됩니다.) (Target Korean construction)",
-            "먹ㄹ 거예요 (Target expression (Korean))",
-            "먹예요 (Target expression (Korean))"
+            "먹ㄹ 거예요) (Context: 미래 시제와 예정 어미 (-(으)ㄹ 거예요))",
+            "먹예요) (Context: 미래 시제와 예정 어미 (-(으)ㄹ 거예요))"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'는 받침이 있는 자음 어간이므로 '-을 거예요'와 결합하여 '먹을 거예요[머글꺼예요]'가 됩니다."
@@ -3417,8 +3417,8 @@
           "prompt": "'주말에 맛있는 저녁 요리를 _____ (I will make delicious dinner).' 빈칸에 알맞은 '만들다'의 미래형은?",
           "options": [
             "만들 거예요 (만들다는 어간 끝이 ㄹ 받침이므로 그대로 거예요가 결합하여 만들 거예요[만들꺼예요]가 됩니다.) (Target Korean construction)",
-            "만들을 거예요 (Target expression (Korean))",
-            "만들ㄹ 거예요 (Target expression (Korean))"
+            "만들을 거예요) (Context: 미래 시제와 예정 어미 (-(으)ㄹ 거예요))",
+            "만들ㄹ 거예요) (Context: 미래 시제와 예정 어미 (-(으)ㄹ 거예요))"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'는 어간 끝이 'ㄹ' 받침이므로 그대로 '거예요'가 결합하여 '만들 거예요[만들꺼예요]'가 됩니다."
@@ -3480,8 +3480,8 @@
           "prompt": "한국에서 식사를 시작하기 직전에 동석자나 식사를 준비해 준 사람에게 건네는 가장 올바른 인사말은 무엇입니까?",
           "options": [
             "잘 먹겠습니다. (식사 전에는 의지와 감사를 담아 잘 먹겠습니다라고 인사합니다.) (Target Korean construction)",
-            "잘 먹었습니다. (Target expression (Korean))",
-            "잘 먹을 거예요. (Target expression (Korean))"
+            "잘 먹었습니다.) (Context: 화자의 확고한 의지와 격식체 미래 선언 (-겠습니다))",
+            "잘 먹을 거예요.) (Context: 화자의 확고한 의지와 격식체 미래 선언 (-겠습니다))"
           ],
           "answerIndex": 0,
           "explanation": "식사 전에는 의지와 감사를 담아 '잘 먹겠습니다'라고 인사합니다."
@@ -3494,8 +3494,8 @@
           "prompt": "공식 회의를 시작할 때 사회자가 사용하는 가장 격식 있고 정중한 선언 표현은 어느 것입니까?",
           "options": [
             "지금부터 회의를 시작하겠습니다. (공식 행사나 회의의 개회 선언은 시작하겠습니다가 표준입니다.) (Target Korean construction)",
-            "지금부터 회의를 시작할게. (Target expression (Korean))",
-            "지금부터 회의를 시작했어요. (Target expression (Korean))"
+            "지금부터 회의를 시작할게.) (Context: 화자의 확고한 의지와 격식체 미래 선언 (-겠습니다))",
+            "지금부터 회의를 시작했어요.) (Context: 화자의 확고한 의지와 격식체 미래 선언 (-겠습니다))"
           ],
           "answerIndex": 0,
           "explanation": "공식 행사나 회의의 개회 선언은 '시작하겠습니다'가 표준입니다."
@@ -3509,8 +3509,8 @@
           "prompt": "'회사에서 맡은 일에 최선을 다해 _____ (I will work diligently).' 빈칸에 알맞은 의지 표명 서술어는?",
           "options": [
             "일하겠습니다 (일하다에 확고한 의지를 나타내는 선어말어미 -겠-이 결합한 일하겠습니다가 정확합니다.) (Target Korean construction)",
-            "일하었습니다 (Target expression (Korean))",
-            "일하먹겠습니다 (Target expression (Korean))"
+            "일하었습니다) (Context: 화자의 확고한 의지와 격식체 미래 선언 (-겠습니다))",
+            "일하먹겠습니다) (Context: 화자의 확고한 의지와 격식체 미래 선언 (-겠습니다))"
           ],
           "answerIndex": 0,
           "explanation": "'일하다'에 확고한 의지를 나타내는 선어말어미 '-겠-'이 결합한 '일하겠습니다'가 정확합니다."
@@ -3572,8 +3572,8 @@
           "prompt": "식당에서 맛있어 보이는 요리를 처음 보았을 때 감탄하며 건네는 올바른 추측 표현은 무엇입니까?",
           "options": [
             "정말 맛있겠어요! (눈앞의 외관을 보고 직관적으로 맛있을 것이라 추측할 때는 맛있겠어요!가 올바릅니다.) (Target Korean construction)",
-            "정말 맛있었어요! (Target expression (Korean))",
-            "정말 맛있을게요! (Target expression (Korean))"
+            "정말 맛있었어요!) (Context: 지각적 단서에 기반한 직관적 추측 (-겠어요)",
+            "정말 맛있을게요!) (Context: 지각적 단서에 기반한 직관적 추측 (-겠어요)"
           ],
           "answerIndex": 0,
           "explanation": "눈앞의 외관을 보고 직관적으로 맛있을 것이라 추측할 때는 '맛있겠어요!'가 올바릅니다."
@@ -3586,8 +3586,8 @@
           "prompt": "하루 종일 쉬지 않고 일한 동료에게 건네는 가장 따뜻한 공감과 추측의 위로 표현은 어느 것입니까?",
           "options": [
             "오늘 정말 힘들겠어요. 푹 쉬세요. (상대방의 힘든 상황을 짐작하고 공감할 때는 힘들겠어요가 가장 적절합니다.) (Target Korean construction)",
-            "오늘 정말 힘들었어요. 나 먼저 갈게. (Target expression (Korean))",
-            "오늘 정말 힘듭니다. 내가 쉬겠어. (Target expression (Korean))"
+            "오늘 정말 힘들었어요. 나 먼저 갈게.) (Context: 지각적 단서에 기반한 직관적 추측 (-겠어요)",
+            "오늘 정말 힘듭니다. 내가 쉬겠어.) (Context: 지각적 단서에 기반한 직관적 추측 (-겠어요)"
           ],
           "answerIndex": 0,
           "explanation": "상대방의 힘든 상황을 짐작하고 공감할 때는 '힘들겠어요'가 가장 적절합니다."
@@ -3601,8 +3601,8 @@
           "prompt": "'A: 내일부터 2주 동안 휴가예요. B: 와, 정말 _____! (Wow, that must be so great!)' 빈칸에 알맞은 형태는?",
           "options": [
             "좋겠어요 (상대방의 기쁜 상황을 공감하며 추측하는 표현은 좋겠어요입니다.) (Target Korean construction)",
-            "좋았어요 (Target expression (Korean))",
-            "좋을게요 (Target expression (Korean))"
+            "좋았어요) (Context: 지각적 단서에 기반한 직관적 추측 (-겠어요)",
+            "좋을게요) (Context: 지각적 단서에 기반한 직관적 추측 (-겠어요)"
           ],
           "answerIndex": 0,
           "explanation": "상대방의 기쁜 상황을 공감하며 추측하는 표현은 '좋겠어요'입니다."
@@ -3664,8 +3664,8 @@
           "prompt": "카페에서 친구에게 '오늘 커피는 내가 살게(약속/호의)'라고 말할 때 가장 자연스러운 표현은 무엇입니까?",
           "options": [
             "오늘 커피는 제가 살게요. (청자에게 호의를 베풀거나 약속하는 1인칭 즉각 반응이므로 살게요가 가장 자연스럽습니다.) (Target Korean construction)",
-            "오늘 커피는 제가 살 거예요. (Target expression (Korean))",
-            "오늘 커피는 제가 샀어요. (Target expression (Korean))"
+            "오늘 커피는 제가 살 거예요.) (Context: 화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)",
+            "오늘 커피는 제가 샀어요.) (Context: 화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)"
           ],
           "answerIndex": 0,
           "explanation": "청자에게 호의를 베풀거나 약속하는 1인칭 즉각 반응이므로 '살게요'가 가장 자연스럽습니다."
@@ -3678,8 +3678,8 @@
           "prompt": "다음 중 '-(으)ㄹ게요'의 문법 규칙에 엄격히 부합하는 올바른 문장은 어느 것입니까?",
           "options": [
             "제가 내일 아침 일찍 연락할게요. (-(으)ㄹ게요는 1인칭 주어 평서문에서만 사용 가능하므로 제가 ... 연락할게요가 유일하게 올바릅니다.) (Target Korean construction)",
-            "선생님, 내일 학교에 올게요? (Target expression (Korean))",
-            "민수 씨가 내일 영화를 볼게요. (Target expression (Korean))"
+            "선생님, 내일 학교에 올게요?) (Context: 화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)",
+            "민수 씨가 내일 영화를 볼게요.) (Context: 화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)"
           ],
           "answerIndex": 0,
           "explanation": "'-(으)ㄹ게요'는 1인칭 주어 평서문에서만 사용 가능하므로 '제가 ... 연락할게요'가 유일하게 올바릅니다."
@@ -3693,8 +3693,8 @@
           "prompt": "'A: 서류 정리가 좀 많네요. B: 걱정하지 마세요. 제가 _____ (Don't worry, I will help you).' 빈칸에 알맞은 약속형은?",
           "options": [
             "도와드릴게요 (상대방을 돕겠다고 약속하는 대화 상황이므로 도와드릴게요가 가장 적절합니다.) (Target Korean construction)",
-            "도와드릴 거예요 (Target expression (Korean))",
-            "도와드렸어요 (Target expression (Korean))"
+            "도와드릴 거예요) (Context: 화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)",
+            "도와드렸어요) (Context: 화자의 약속·즉각적 반응 '-(으)ㄹ게요'와 일반 예정 '-(으)"
           ],
           "answerIndex": 0,
           "explanation": "상대방을 돕겠다고 약속하는 대화 상황이므로 '도와드릴게요'가 가장 적절합니다."
@@ -3756,8 +3756,8 @@
           "prompt": "'이번 주말에 뭐 할 거예요?'라는 질문에 대한 가장 자연스러운 대답 문장은 무엇입니까?",
           "options": [
             "친구와 함께 영화를 볼 거예요. (주말 계획을 묻는 질문이므로 미래 시제인 볼 거예요로 답해야 합니다.) (Target Korean construction)",
-            "친구와 함께 영화를 봤어요. (Target expression (Korean))",
-            "친구와 함께 영화를 봐라. (Target expression (Korean))"
+            "친구와 함께 영화를 봤어요.) (Context: 미래 계획과 주말 스케줄 담화 구성 (실전 계획 대화))",
+            "친구와 함께 영화를 봐라.) (Context: 미래 계획과 주말 스케줄 담화 구성 (실전 계획 대화))"
           ],
           "answerIndex": 0,
           "explanation": "주말 계획을 묻는 질문이므로 미래 시제인 '볼 거예요'로 답해야 합니다."
@@ -3770,8 +3770,8 @@
           "prompt": "금요일 퇴근길에 직장 동료에게 건네는 가장 표준적인 주말 인사말은 어느 것입니까?",
           "options": [
             "주말 잘 보내세요! (주말을 즐겁게 보내라는 표준 인사말은 주말 잘 보내세요!입니다.) (Target Korean construction)",
-            "주말 잘 먹겠습니다! (Target expression (Korean))",
-            "주말 잘 갔어요! (Target expression (Korean))"
+            "주말 잘 먹겠습니다!) (Context: 미래 계획과 주말 스케줄 담화 구성 (실전 계획 대화))",
+            "주말 잘 갔어요!) (Context: 미래 계획과 주말 스케줄 담화 구성 (실전 계획 대화))"
           ],
           "answerIndex": 0,
           "explanation": "주말을 즐겁게 보내라는 표준 인사말은 '주말 잘 보내세요!'입니다."
@@ -3848,8 +3848,8 @@
           "prompt": "동사 '공부하다(to study)'를 현재 동작 진행형으로 나타낸 올바른 표현은 무엇입니까?",
           "options": [
             "공부하고 있어요 (동작의 진행은 동사 어간에 -고 있다가 결합한 공부하고 있어요가 올바릅니다.) (Target Korean construction)",
-            "공부해 있어요 (Target expression (Korean))",
-            "공부하겠어요 (Target expression (Korean))"
+            "공부해 있어요) (Context: 동작의 역동적 진행상 어미 (-고 있다))",
+            "공부하겠어요) (Context: 동작의 역동적 진행상 어미 (-고 있다))"
           ],
           "answerIndex": 0,
           "explanation": "동작의 진행은 동사 어간에 '-고 있다'가 결합한 '공부하고 있어요'가 올바릅니다."
@@ -3862,8 +3862,8 @@
           "prompt": "'선생님께서 책을 _____' 빈칸에 들어갈 가장 알맞은 주체 높임 진행 표현은 어느 것입니까?",
           "options": [
             "읽고 계십니다 (주어가 선생님이므로 있다의 높임 형태인 읽고 계십니다가 가장 예의 바릅니다.) (Target Korean construction)",
-            "읽고 있습니다 (Target expression (Korean))",
-            "읽어 있습니다 (Target expression (Korean))"
+            "읽고 있습니다) (Context: 동작의 역동적 진행상 어미 (-고 있다))",
+            "읽어 있습니다) (Context: 동작의 역동적 진행상 어미 (-고 있다))"
           ],
           "answerIndex": 0,
           "explanation": "주어가 '선생님'이므로 '있다'의 높임 형태인 '읽고 계십니다'가 가장 예의 바릅니다."
@@ -3877,8 +3877,8 @@
           "prompt": "'A: 지금 어디에서 뭐 해요? B: 식당에서 친구와 밥을 _____.' 빈칸에 알맞은 형태는?",
           "options": [
             "먹고 있어요 (현재 식사 동작을 진행 중임을 나타내므로 먹고 있어요가 정확합니다.) (Target Korean construction)",
-            "먹어 있어요 (Target expression (Korean))",
-            "먹겠어요 (Target expression (Korean))"
+            "먹어 있어요) (Context: 동작의 역동적 진행상 어미 (-고 있다))",
+            "먹겠어요) (Context: 동작의 역동적 진행상 어미 (-고 있다))"
           ],
           "answerIndex": 0,
           "explanation": "현재 식사 동작을 진행 중임을 나타내므로 '먹고 있어요'가 정확합니다."
@@ -3940,8 +3940,8 @@
           "prompt": "의자에 사람이 착석을 마친 채 계속 머물러 있는 상태를 가장 자연스럽게 묘사한 표현은 무엇입니까?",
           "options": [
             "의자에 앉아 있어요. (착석이 완료된 결과 상태가 지속되는 것은 -아/어 있다를 쓴 앉아 있어요가 가장 표준적입니다.) (Target Korean construction)",
-            "의자에 앉고 있어요. (Target expression (Korean))",
-            "의자에 앉겠어요. (Target expression (Korean))"
+            "의자에 앉고 있어요.) (Context: 완료된 동작의 결과 상태 지속 (-아/어 있다))",
+            "의자에 앉겠어요.) (Context: 완료된 동작의 결과 상태 지속 (-아/어 있다))"
           ],
           "answerIndex": 0,
           "explanation": "착석이 완료된 결과 상태가 지속되는 것은 '-아/어 있다'를 쓴 '앉아 있어요'가 가장 표준적입니다."
@@ -3954,8 +3954,8 @@
           "prompt": "'창문이 닫힌 상태'를 올바르게 묘사한 문장은 어느 것입니까?",
           "options": [
             "창문이 닫혀 있어요. (피동사 닫히다의 어간에 -어 있다가 결합하여 닫혀 있어요가 올바릅니다.) (Target Korean construction)",
-            "창문이 닫아 있어요. (Target expression (Korean))",
-            "창문이 닫고 있어요. (Target expression (Korean))"
+            "창문이 닫아 있어요.) (Context: 완료된 동작의 결과 상태 지속 (-아/어 있다))",
+            "창문이 닫고 있어요.) (Context: 완료된 동작의 결과 상태 지속 (-아/어 있다))"
           ],
           "answerIndex": 0,
           "explanation": "피동사 '닫히다'의 어간에 '-어 있다'가 결합하여 '닫혀 있어요'가 올바릅니다."
@@ -3968,9 +3968,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-아/어 있다'의 문법 규칙(자동사 결합 제약)에 완벽히 부합하는 문장은 무엇입니까?",
           "options": [
-            "공원에 예쁜 꽃이 피어 있어요. (Target expression (Korean))",
-            "친구가 밥을 먹어 있어요. (Target expression (Korean))",
-            "내가 책을 읽어 있어요. (Target expression (Korean))"
+            "공원에 예쁜 꽃이 피어 있어요.) (-아/어 있다는 타동사(밥을 먹다, 책을 읽다)와 결합할 수 없으며, 자동사인 피) (Korean grammar and vocabulary (ko-u8-l2))",
+            "친구가 밥을 먹어 있어요.) (Context: 완료된 동작의 결과 상태 지속 (-아/어 있다))",
+            "내가 책을 읽어 있어요.) (Context: 완료된 동작의 결과 상태 지속 (-아/어 있다))"
           ],
           "answerIndex": 0,
           "explanation": "'-아/어 있다'는 타동사(밥을 먹다, 책을 읽다)와 결합할 수 없으며, 자동사인 '피다'와 결합한 '피어 있어요'가 유일하게 올바릅니다."
@@ -4031,9 +4031,9 @@
         {
           "prompt": "다음 중 비문법적인 잘못된 문장은 어느 것입니까?",
           "options": [
-            "친구가 도서관에서 신문을 읽어 있어요. (Target expression (Korean))",
-            "친구가 도서관에서 신문을 읽고 있어요. (Target expression (Korean))",
-            "친구가 도서관 의자에 앉아 있어요. (Target expression (Korean))"
+            "친구가 도서관에서 신문을 읽어 있어요.) (Korean grammar and vocabulary (ko-u8-l3))",
+            "친구가 도서관에서 신문을 읽고 있어요.) (Context: 진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 )",
+            "친구가 도서관 의자에 앉아 있어요.) (Context: 진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 )"
           ],
           "answerIndex": 0,
           "explanation": "'신문을 읽다'는 타동사이므로 '-아/어 있다'와 결합할 수 없어 '읽어 있어요'는 비문법적입니다 ('읽고 있어요'가 올바름)."
@@ -4046,8 +4046,8 @@
           "prompt": "지하철을 타고 친구를 만나러 '이동 중인 동작'을 가장 정확하게 표현한 것은 어느 것입니까?",
           "options": [
             "지금 강남역으로 가고 있어요. (이동 동작이 실시간 진행 중일 때는 -고 있다를 쓴 가고 있어요가 올바릅니다.) (Target Korean construction)",
-            "지금 강남역으로 가 있어요. (Target expression (Korean))",
-            "지금 강남역으로 갔었어요. (Target expression (Korean))"
+            "지금 강남역으로 가 있어요.) (Context: 진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 )",
+            "지금 강남역으로 갔었어요.) (Context: 진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 )"
           ],
           "answerIndex": 0,
           "explanation": "이동 동작이 실시간 진행 중일 때는 '-고 있다'를 쓴 '가고 있어요'가 올바릅니다."
@@ -4061,8 +4061,8 @@
           "prompt": "'-고 있다'와 '-아/어 있다'의 결합 규칙에 대한 설명 중 옳은 것은 무엇입니까?",
           "options": [
             "목적어를 취하는 타동사는 '-아/어 있다'와 결합할 수 없고 '-고 있다'와만 결합한다. (타동사는 -아/어 있다와 결합할 수 없으며 오직 -고 있다만 가능합니다.) (Target Korean construction)",
-            "모든 타동사는 '-아/어 있다'와 자유롭게 결합한다. (Target expression (Korean))",
-            "'-고 있다'는 사람이 죽었을 때만 쓴다. (Target expression (Korean))"
+            "모든 타동사는 '-아/어 있다'와 자유롭게 결합한다.) (Context: 진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 )",
+            "'-고 있다'는 사람이 죽었을 때만 쓴다.) (Context: 진행상 '-고 있다'와 상태 지속상 '-아/어 있다'의 결정적 )"
           ],
           "answerIndex": 0,
           "explanation": "타동사는 '-아/어 있다'와 결합할 수 없으며 오직 '-고 있다'만 가능합니다."
@@ -4124,8 +4124,8 @@
           "prompt": "'안경(glasses)'을 착용할 때 결합하는 올바른 착용 동사는 무엇입니까?",
           "options": [
             "쓰다 (안경을 쓰다) (얼굴이나 머리에 착용하는 것은 동사 쓰다를 사용하므로 안경을 쓰다가 올바릅니다.) (신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다')",
-            "입다 (안경을 입다) (Target expression (Korean))",
-            "신다 (안경을 신다) (Target expression (Korean))"
+            "입다 (안경을 입다)) (Context: 신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect))",
+            "신다 (안경을 신다)) (Context: 신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect))"
           ],
           "answerIndex": 0,
           "explanation": "얼굴이나 머리에 착용하는 것은 동사 '쓰다'를 사용하므로 '안경을 쓰다'가 올바릅니다."
@@ -4138,8 +4138,8 @@
           "prompt": "'운동화(sneakers)'를 발에 신은 상태를 묘사한 올바른 문장은 어느 것입니까?",
           "options": [
             "새 운동화를 신고 있어요. (발에 착용하는 신발류는 신다를 쓰므로 신고 있어요가 정확합니다.) (신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다')",
-            "새 운동화를 쓰고 있어요. (Target expression (Korean))",
-            "새 운동화를 끼고 있어요. (Target expression (Korean))"
+            "새 운동화를 쓰고 있어요.) (Context: 신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect))",
+            "새 운동화를 끼고 있어요.) (Context: 신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect))"
           ],
           "answerIndex": 0,
           "explanation": "발에 착용하는 신발류는 '신다'를 쓰므로 '신고 있어요'가 정확합니다."
@@ -4153,8 +4153,8 @@
           "prompt": "'손에 따뜻한 가죽 장갑을 _____.' 빈칸에 알맞은 착용 동사는?",
           "options": [
             "끼고 있어요 (손이나 손가락에 끼우는 장신구/보호구는 끼다를 쓰므로 끼고 있어요가 올바릅니다.) (신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect)과 '-고 있다')",
-            "입고 있어요 (Target expression (Korean))",
-            "신고 있어요 (Target expression (Korean))"
+            "입고 있어요) (Context: 신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect))",
+            "신고 있어요) (Context: 신체 착용 동사(입다, 쓰다, 신다)의 이중적 상(Aspect))"
           ],
           "answerIndex": 0,
           "explanation": "손이나 손가락에 끼우는 장신구/보호구는 '끼다'를 쓰므로 '끼고 있어요'가 올바릅니다."
@@ -4216,8 +4216,8 @@
           "prompt": "벽에 그림이 '걸려 있는 상태'를 묘사할 때 가장 알맞은 표현은 무엇입니까?",
           "options": [
             "그림이 걸려 있어요. (피동사 걸리다에 상태 지속 어미 -어 있다가 결합한 걸려 있어요가 올바릅니다.) (Target Korean construction)",
-            "그림이 걸고 있어요. (Target expression (Korean))",
-            "그림이 걸렸겠어요. (Target expression (Korean))"
+            "그림이 걸고 있어요.) (Context: 진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화)",
+            "그림이 걸렸겠어요.) (Context: 진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화)"
           ],
           "answerIndex": 0,
           "explanation": "피동사 '걸리다'에 상태 지속 어미 '-어 있다'가 결합한 '걸려 있어요'가 올바릅니다."
@@ -4230,8 +4230,8 @@
           "prompt": "테이블 위에 책이 '놓여 있는 상태'를 바르게 표현한 것은 어느 것입니까?",
           "options": [
             "책이 놓여 있어요. (놓이다(to be placed)의 상태 지속형인 놓여 있어요가 정확합니다.)",
-            "책이 놓고 있어요. (Target expression (Korean))",
-            "책이 놓겠어요. (Target expression (Korean))"
+            "책이 놓고 있어요.) (Context: 진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화)",
+            "책이 놓겠어요.) (Context: 진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'놓이다(to be placed)'의 상태 지속형인 '놓여 있어요'가 정확합니다."
@@ -4245,8 +4245,8 @@
           "prompt": "사진 묘사에서 '인물의 진행 동작'과 '사물의 지속 상태'가 모두 올바르게 사용된 문장은?",
           "options": [
             "소파에 앉아 있는 사람이 커피를 마시고 있어요. (착석 상태(앉아 있는)와 음료 섭취 동작(마시고 있어요)이 완벽하게 결합되었습니다.) (Target Korean construction)",
-            "소파에 앉고 있는 사람이 커피를 마셔 있어요. (Target expression (Korean))",
-            "소파에 앉겠는 사람이 커피를 마셨겠어요. (Target expression (Korean))"
+            "소파에 앉고 있는 사람이 커피를 마셔 있어요.) (Context: 진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화)",
+            "소파에 앉겠는 사람이 커피를 마셨겠어요.) (Context: 진행과 상태를 활용한 사진 및 공간 풍경 묘사 담화)"
           ],
           "answerIndex": 0,
           "explanation": "착석 상태('앉아 있는')와 음료 섭취 동작('마시고 있어요')이 완벽하게 결합되었습니다."
@@ -4308,8 +4308,8 @@
           "prompt": "'학교(school)'로 이동하여 도달함을 나타내는 가장 올바른 조사는 무엇입니까?",
           "options": [
             "학교에 가요. (이동 동사 가다의 도착점을 나타내는 격조사는 -에이므로 학교에 가요가 올바릅니다.) (Target Korean construction)",
-            "학교에서 가요. (Target expression (Korean))",
-            "학교를 가요. (Target expression (Korean))"
+            "학교에서 가요.) (Context: 정적 존재 위치와 이동의 도착점 조사 (-에))",
+            "학교를 가요.) (Context: 정적 존재 위치와 이동의 도착점 조사 (-에))"
           ],
           "answerIndex": 0,
           "explanation": "이동 동사 '가다'의 도착점을 나타내는 격조사는 '-에'이므로 '학교에 가요'가 올바릅니다."
@@ -4322,8 +4322,8 @@
           "prompt": "'방 안에 컴퓨터가 있다'를 바르게 나타낸 문장은 어느 것입니까?",
           "options": [
             "방에 컴퓨터가 있어요. (사물이 존재하는 정적 위치를 나타내는 서술어 있다 앞에는 조사 -에를 씁니다.) (Target Korean construction)",
-            "방에서 컴퓨터가 있어요. (Target expression (Korean))",
-            "방을 컴퓨터가 있어요. (Target expression (Korean))"
+            "방에서 컴퓨터가 있어요.) (Context: 정적 존재 위치와 이동의 도착점 조사 (-에))",
+            "방을 컴퓨터가 있어요.) (Context: 정적 존재 위치와 이동의 도착점 조사 (-에))"
           ],
           "answerIndex": 0,
           "explanation": "사물이 존재하는 정적 위치를 나타내는 서술어 '있다' 앞에는 조사 '-에'를 씁니다."
@@ -4337,8 +4337,8 @@
           "prompt": "'A: 지금 어디에 살아요? B: 저는 _____ 살아요.' 빈칸에 알맞은 조사는?",
           "options": [
             "서울에 (살다가 거주하는 정적 위치를 나타낼 때는 서울에 살아요가 가장 표준적입니다.) (Target Korean construction)",
-            "서울에서 (Target expression (Korean))",
-            "서울을 (Target expression (Korean))"
+            "서울에서) (Context: 정적 존재 위치와 이동의 도착점 조사 (-에))",
+            "서울을) (Context: 정적 존재 위치와 이동의 도착점 조사 (-에))"
           ],
           "answerIndex": 0,
           "explanation": "'살다'가 거주하는 정적 위치를 나타낼 때는 '서울에 살아요'가 가장 표준적입니다."
@@ -4400,8 +4400,8 @@
           "prompt": "'도서관'에서 '책을 읽는 행동'을 할 때 결합하는 올바른 조사는 무엇입니까?",
           "options": [
             "도서관에서 책을 읽어요. (책을 읽는 구체적인 동작이 일어나는 장소이므로 -에서가 올바릅니다.) (구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.)",
-            "도서관에 책을 읽어요. (Target expression (Korean))",
-            "도서관으로 책을 읽어요. (Target expression (Korean))"
+            "도서관에 책을 읽어요.) (Context: 역동적 행위 발생 공간 및 출발점 조사 (-에서))",
+            "도서관으로 책을 읽어요.) (Context: 역동적 행위 발생 공간 및 출발점 조사 (-에서))"
           ],
           "answerIndex": 0,
           "explanation": "책을 읽는 구체적인 동작이 일어나는 장소이므로 '-에서'가 올바릅니다."
@@ -4414,8 +4414,8 @@
           "prompt": "'식당에서 밥을 먹었다'를 바르게 나타낸 문장은 어느 것입니까?",
           "options": [
             "식당에서 점심을 먹었어요. (식사라는 역동적 행위가 일어나는 공간이므로 -에서를 사용합니다.) (구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.)",
-            "식당에 점심을 먹었어요. (Target expression (Korean))",
-            "식당을 점심을 먹었어요. (Target expression (Korean))"
+            "식당에 점심을 먹었어요.) (Context: 역동적 행위 발생 공간 및 출발점 조사 (-에서))",
+            "식당을 점심을 먹었어요.) (Context: 역동적 행위 발생 공간 및 출발점 조사 (-에서))"
           ],
           "answerIndex": 0,
           "explanation": "식사라는 역동적 행위가 일어나는 공간이므로 '-에서'를 사용합니다."
@@ -4429,8 +4429,8 @@
           "prompt": "'A: 어디_____ 왔어요? B: 저는 호주_____ 왔어요.' 빈칸에 공통으로 알맞은 출처 조사는?",
           "options": [
             "에서 (출신지나 출발 기점을 나타내는 조사는 -에서입니다.) (구체적인 역동적 행위가 일어나는 발생 장소(Action Location)와 이동의 출발점/출처(Origin from)를 나타내는 격조사 '-에서'의 용법을 체득한다.)",
-            "에 (Target expression (Korean))",
-            "으로 (Target expression (Korean))"
+            "에) (Context: 역동적 행위 발생 공간 및 출발점 조사 (-에서))",
+            "으로) (Context: 역동적 행위 발생 공간 및 출발점 조사 (-에서))"
           ],
           "answerIndex": 0,
           "explanation": "출신지나 출발 기점을 나타내는 조사는 '-에서'입니다."
@@ -4492,8 +4492,8 @@
           "prompt": "다음 중 조사의 쓰임이 문법적으로 올바른 문장은 어느 것입니까?",
           "options": [
             "식당에서 맛있는 비빔밥을 먹었어요. (먹다는 구체적 행위 동사이므로 장소 조사 -에서가 결합해야 올바릅니다.) (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.)",
-            "식당에 맛있는 비빔밥을 먹었어요. (Target expression (Korean))",
-            "식당을 맛있는 비빔밥에 먹었어요. (Target expression (Korean))"
+            "식당에 맛있는 비빔밥을 먹었어요.) (Context: 정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법)",
+            "식당을 맛있는 비빔밥에 먹었어요.) (Context: 정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법)"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'는 구체적 행위 동사이므로 장소 조사 '-에서'가 결합해야 올바릅니다."
@@ -4506,8 +4506,8 @@
           "prompt": "'A: 지금 어디에 가요? B: 시장_____ 가요. 시장_____ 과일을 살 거예요.' 빈칸에 차례대로 들어갈 조사는?",
           "options": [
             "에, 에서 (첫 문장은 이동 도착점(시장에 가요), 두 번째 문장은 구매 행동 장소(시장에서 살 거예요)입니다.) (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 '-에'와 '-에서'를 정밀하게 구별하여 사용한다.)",
-            "에서, 에 (Target expression (Korean))",
-            "에, 에 (Target expression (Korean))"
+            "에서, 에) (Context: 정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법)",
+            "에, 에) (Context: 정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법)"
           ],
           "answerIndex": 0,
           "explanation": "첫 문장은 이동 도착점('시장에 가요'), 두 번째 문장은 구매 행동 장소('시장에서 살 거예요')입니다."
@@ -4520,9 +4520,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 '-에'와 '-에서'의 구분이 모두 완벽한 복합 문장은 무엇입니까?",
           "options": [
-            "주말에 공원에 가서 공원에서 자전거를 탔어요. (Target expression (Korean))",
-            "주말에서 공원에서 가서 공원에 자전거를 탔어요. (Target expression (Korean))",
-            "주말에 공원에 가서 공원에 자전거를 탔어요. (Target expression (Korean))"
+            "주말에 공원에 가서 공원에서 자전거를 탔어요.) (시간(-에), 이동 도착점(공원에 가서), 동작 수행 장소 (동일한 장소 명사 뒤에서 서술어의 성격(정적 존재/도착점 vs 역동적 동작 수행)에 따라 ...)",
+            "주말에서 공원에서 가서 공원에 자전거를 탔어요.) (Context: 정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법)",
+            "주말에 공원에 가서 공원에 자전거를 탔어요.) (Context: 정적 도착점 '-에'와 동적 행위 공간 '-에서'의 결정적 문법)"
           ],
           "answerIndex": 0,
           "explanation": "시간('-에'), 이동 도착점('공원에 가서'), 동작 수행 장소('공원에서 자전거를 탔어요')의 조사가 모두 완벽합니다."
@@ -4584,8 +4584,8 @@
           "prompt": "'오른쪽(right side)' 방향으로 이동하라고 안내할 때 올바른 결합 형태는 무엇입니까?",
           "options": [
             "오른쪽으로 (오른쪽은 ㄱ 받침(ㄹ 제외 자음)으로 끝나므로 -으로가 결합하여 오른쪽으로가 됩니다.) (Target Korean construction)",
-            "오른쪽로 (Target expression (Korean))",
-            "오른쪽에로 (Target expression (Korean))"
+            "오른쪽로) (Context: 지향 방향 및 경로 표시 조사 (-(으)로))",
+            "오른쪽에로) (Context: 지향 방향 및 경로 표시 조사 (-(으)로))"
           ],
           "answerIndex": 0,
           "explanation": "'오른쪽'은 'ㄱ' 받침(ㄹ 제외 자음)으로 끝나므로 '-으로'가 결합하여 '오른쪽으로'가 됩니다."
@@ -4598,8 +4598,8 @@
           "prompt": "'서울(Seoul - ㄹ 받침)'을 지향 방향으로 나타낼 때 올바른 형태는 어느 것입니까?",
           "options": [
             "서울로 (ㄹ 받침 뒤에는 매개모음 으가 들어가지 않고 바로 -로가 결합하므로 서울로가 올바릅니다.) (Target Korean construction)",
-            "서울으로 (Target expression (Korean))",
-            "서울에게 (Target expression (Korean))"
+            "서울으로) (Context: 지향 방향 및 경로 표시 조사 (-(으)로))",
+            "서울에게) (Context: 지향 방향 및 경로 표시 조사 (-(으)로))"
           ],
           "answerIndex": 0,
           "explanation": "'ㄹ' 받침 뒤에는 매개모음 '으'가 들어가지 않고 바로 '-로'가 결합하므로 '서울로'가 올바릅니다."
@@ -4613,8 +4613,8 @@
           "prompt": "'앞(front)' 방향으로 나아가라고 말할 때 알맞은 조사는?",
           "options": [
             "앞으로 가세요. (앞은 ㅍ 받침(자음)이 있으므로 -으로가 결합하여 앞으로가 됩니다.) (Target Korean construction)",
-            "앞로 가세요. (Target expression (Korean))",
-            "앞에서 가세요. (Target expression (Korean))"
+            "앞로 가세요.) (Context: 지향 방향 및 경로 표시 조사 (-(으)로))",
+            "앞에서 가세요.) (Context: 지향 방향 및 경로 표시 조사 (-(으)로))"
           ],
           "answerIndex": 0,
           "explanation": "'앞'은 ㅍ 받침(자음)이 있으므로 '-으로'가 결합하여 '앞으로'가 됩니다."
@@ -4676,8 +4676,8 @@
           "prompt": "건물 건너편에 위치함을 나타낼 때 가장 알맞은 위치 명사는 무엇입니까?",
           "options": [
             "맞은편 (건너편) (길이나 공간 건너편을 가리키는 위치 명사는 맞은편 / 건너편입니다.) (Target Korean construction)",
-            "옆 (Target expression (Korean))",
-            "사이 (Target expression (Korean))"
+            "옆) (Context: 길 찾기 및 위치 안내 실전 대화 구성)",
+            "사이) (Context: 길 찾기 및 위치 안내 실전 대화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "길이나 공간 건너편을 가리키는 위치 명사는 '맞은편 / 건너편'입니다."
@@ -4690,8 +4690,8 @@
           "prompt": "'A와 B 사이에 있다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
             "은행과 약국 사이에 카페가 있어요. (두 대상의 중간 위치는 사이에를 사용하므로 은행과 약국 사이에가 정확합니다.) (Target Korean construction)",
-            "은행과 약국 위에 카페가 있어요. (Target expression (Korean))",
-            "은행과 약국 뒤로 카페가 있어요. (Target expression (Korean))"
+            "은행과 약국 위에 카페가 있어요.) (Context: 길 찾기 및 위치 안내 실전 대화 구성)",
+            "은행과 약국 뒤로 카페가 있어요.) (Context: 길 찾기 및 위치 안내 실전 대화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "두 대상의 중간 위치는 '사이에'를 사용하므로 '은행과 약국 사이에'가 정확합니다."
@@ -4768,8 +4768,8 @@
           "prompt": "동사 '가다(to go)'의 올바른 능력/가능 긍정형은 무엇입니까?",
           "options": [
             "갈 수 있어요 (가다는 받침이 없는 모음 종결 어간이므로 -ㄹ 수 있다가 결합하여 갈 수 있어요가 됩니다.) (Target Korean construction)",
-            "가을 수 있어요 (Target expression (Korean))",
-            "가 수 있어요 (Target expression (Korean))"
+            "가을 수 있어요) (Context: 능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다))",
+            "가 수 있어요) (Context: 능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다))"
           ],
           "answerIndex": 0,
           "explanation": "'가다'는 받침이 없는 모음 종결 어간이므로 '-ㄹ 수 있다'가 결합하여 '갈 수 있어요'가 됩니다."
@@ -4782,8 +4782,8 @@
           "prompt": "동사 '읽다(to read - 자음 받침)'의 올바른 가능형은 어느 것입니까?",
           "options": [
             "읽을 수 있어요 (읽다는 받침이 있으므로 -을 수 있다와 결합하여 읽을 수 있어요가 됩니다.) (Target Korean construction)",
-            "읽ㄹ 수 있어요 (Target expression (Korean))",
-            "읽 수 있어요 (Target expression (Korean))"
+            "읽ㄹ 수 있어요) (Context: 능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다))",
+            "읽 수 있어요) (Context: 능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다))"
           ],
           "answerIndex": 0,
           "explanation": "'읽다'는 받침이 있으므로 '-을 수 있다'와 결합하여 '읽을 수 있어요'가 됩니다."
@@ -4797,8 +4797,8 @@
           "prompt": "'한국 요리를 혼자서 _____ (I can make Korean food alone).' 빈칸에 알맞은 '만들다'의 가능형은?",
           "options": [
             "만들 수 있어요 (만들다는 어간 끝이 ㄹ 받침이므로 그대로 수 있다가 결합하여 만들 수 있어요가 됩니다.) (Target Korean construction)",
-            "만들을 수 있어요 (Target expression (Korean))",
-            "만들ㄹ 수 있어요 (Target expression (Korean))"
+            "만들을 수 있어요) (Context: 능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다))",
+            "만들ㄹ 수 있어요) (Context: 능력 및 가능성 긍정 어미 (-(으)ㄹ 수 있다))"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'는 어간 끝이 'ㄹ' 받침이므로 그대로 '수 있다'가 결합하여 '만들 수 있어요'가 됩니다."
@@ -4860,8 +4860,8 @@
           "prompt": "동사 '가다(to go)'의 능력/상황 부정형으로 가장 올바른 것은 무엇입니까?",
           "options": [
             "갈 수 없어요 (가다에 부정 어미 -ㄹ 수 없다가 결합하여 갈 수 없어요가 됩니다.) (Target Korean construction)",
-            "가을 수 없어요 (Target expression (Korean))",
-            "가 수 없어요 (Target expression (Korean))"
+            "가을 수 없어요) (Context: 능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다))",
+            "가 수 없어요) (Context: 능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다))"
           ],
           "answerIndex": 0,
           "explanation": "'가다'에 부정 어미 '-ㄹ 수 없다'가 결합하여 '갈 수 없어요'가 됩니다."
@@ -4874,8 +4874,8 @@
           "prompt": "'회의 중이라서 전화를 받지 못한다'를 정중하게 표현한 문장은 어느 것입니까?",
           "options": [
             "회의 중이라서 전화를 받을 수 없어요. (받다는 자음 받침이 있으므로 -을 수 없다와 결합하여 받을 수 없어요가 됩니다.) (Target Korean construction)",
-            "회의 중이라서 전화를 받ㄹ 수 없어요. (Target expression (Korean))",
-            "회의 중이라서 전화를 받아 수 없어요. (Target expression (Korean))"
+            "회의 중이라서 전화를 받ㄹ 수 없어요.) (Context: 능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다))",
+            "회의 중이라서 전화를 받아 수 없어요.) (Context: 능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다))"
           ],
           "answerIndex": 0,
           "explanation": "'받다'는 자음 받침이 있으므로 '-을 수 없다'와 결합하여 '받을 수 없어요'가 됩니다."
@@ -4889,8 +4889,8 @@
           "prompt": "다음 중 정중한 거절 표현으로 문법과 화용이 가장 자연스러운 문장은?",
           "options": [
             "죄송하지만 내일은 일정이 있어서 갈 수 없습니다. (사과 표현(죄송하지만)과 이유(일정이 있어서), 정중한 불가능 서술(갈 수 없습니다)이 완벽합니다.) (Target Korean construction)",
-            "죄송하지만 내일은 일정이 있어서 갈 수 있습니다. (Target expression (Korean))",
-            "죄송하지만 내일은 일정이 있어서 가지 수 없어요. (Target expression (Korean))"
+            "죄송하지만 내일은 일정이 있어서 갈 수 있습니다.) (Context: 능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다))",
+            "죄송하지만 내일은 일정이 있어서 가지 수 없어요.) (Context: 능력 및 가능성 부정 어미 (-(으)ㄹ 수 없다))"
           ],
           "answerIndex": 0,
           "explanation": "사과 표현('죄송하지만')과 이유('일정이 있어서'), 정중한 불가능 서술('갈 수 없습니다')이 완벽합니다."
@@ -4952,8 +4952,8 @@
           "prompt": "'운전하다(to drive)'를 부정 부사 '못'을 사용하여 바르게 표현한 것은 무엇입니까?",
           "options": [
             "운전을 못해요. (명사+하다 구조의 동사는 못이 하다 바로 앞에 들어가 운전을 못해요가 됩니다.) (Target Korean construction)",
-            "못 운전해요. (Target expression (Korean))",
-            "운전이 못해요. (Target expression (Korean))"
+            "못 운전해요.) (Context: 단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다)",
+            "운전이 못해요.) (Context: 단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다)"
           ],
           "answerIndex": 0,
           "explanation": "'명사+하다' 구조의 동사는 '못'이 '하다' 바로 앞에 들어가 '운전을 못해요'가 됩니다."
@@ -4966,8 +4966,8 @@
           "prompt": "다음 중 '못'의 결합이 문법적으로 잘못된 비문은 어느 것입니까?",
           "options": [
             "오늘 날씨가 못 추워요. (못은 형용사(춥다)와 결합할 수 없으며 단순 부정 부사인 안을 써야 합니다 (안 추워요).) (Target Korean construction)",
-            "오늘 학교에 못 가요. (Target expression (Korean))",
-            "김치를 매워서 못 먹어요. (Target expression (Korean))"
+            "오늘 학교에 못 가요.) (Context: 단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다)",
+            "김치를 매워서 못 먹어요.) (Context: 단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다)"
           ],
           "answerIndex": 0,
           "explanation": "'못'은 형용사(춥다)와 결합할 수 없으며 단순 부정 부사인 '안'을 써야 합니다 ('안 추워요')."
@@ -4981,8 +4981,8 @@
           "prompt": "'시간이 부족해서 점심을 _____ (I couldn't eat lunch).' 빈칸에 알맞은 형태는?",
           "options": [
             "못 먹었어요 (시간 부족이라는 외적 여건으로 인해 먹지 못한 상황이므로 능력/상황 부정인 못 먹었어요가 정확합니다.) (Target Korean construction)",
-            "안 먹었어요 (Target expression (Korean))",
-            "못 춥었어요 (Target expression (Korean))"
+            "안 먹었어요) (Context: 단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다)",
+            "못 춥었어요) (Context: 단문 불가능 부사 '못'과 장문 가능 부정 '-(으)ㄹ 수 없다)"
           ],
           "answerIndex": 0,
           "explanation": "시간 부족이라는 외적 여건으로 인해 먹지 못한 상황이므로 능력/상황 부정인 '못 먹었어요'가 정확합니다."
@@ -5044,8 +5044,8 @@
           "prompt": "피아노 연주 방법을 알고 있음을 나타내는 가장 올바른 표현은 무엇입니까?",
           "options": [
             "피아노를 칠 줄 알아요. (치다는 모음 종결 어간이므로 -ㄹ 줄 알다가 결합하여 칠 줄 알아요가 됩니다.) (어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.)",
-            "피아노를 치을 줄 알아요. (Target expression (Korean))",
-            "피아노를 쳐 줄 알아요. (Target expression (Korean))"
+            "피아노를 치을 줄 알아요.) (Context: 방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다))",
+            "피아노를 쳐 줄 알아요.) (Context: 방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다))"
           ],
           "answerIndex": 0,
           "explanation": "'치다'는 모음 종결 어간이므로 '-ㄹ 줄 알다'가 결합하여 '칠 줄 알아요'가 됩니다."
@@ -5058,8 +5058,8 @@
           "prompt": "'스키를 타는 방법을 모른다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
             "스키를 탈 줄 몰라요. (방법을 모를 때는 모르다를 결합하여 탈 줄 몰라요가 올바릅니다.) (어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.)",
-            "스키를 타을 줄 몰라요. (Target expression (Korean))",
-            "스키를 탈 줄 알아요. (Target expression (Korean))"
+            "스키를 타을 줄 몰라요.) (Context: 방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다))",
+            "스키를 탈 줄 알아요.) (Context: 방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다))"
           ],
           "answerIndex": 0,
           "explanation": "방법을 모를 때는 '모르다'를 결합하여 '탈 줄 몰라요'가 올바릅니다."
@@ -5073,8 +5073,8 @@
           "prompt": "'A: 한국 요리 할 줄 알아요? B: 네, 불고기를 _____.' 빈칸에 알맞은 형태는?",
           "options": [
             "만들 줄 알아요 (네로 긍정 답변을 했으며 만들다는 ㄹ 받침이므로 만들 줄 알아요가 정확합니다.) (어떤 기술, 기예, 스포츠 등의 실행 방법(know-how)을 배워서 알고 있는지의 여부를 나타내는 '-(으)ㄹ 줄 알다/모르다'의 문법을 마스터한다.)",
-            "만들을 줄 알아요 (Target expression (Korean))",
-            "만들 줄 몰라요 (Target expression (Korean))"
+            "만들을 줄 알아요) (Context: 방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다))",
+            "만들 줄 몰라요) (Context: 방법 및 기능 습득 표현 (-(으)ㄹ 줄 알다 / 모르다))"
           ],
           "answerIndex": 0,
           "explanation": "'네'로 긍정 답변을 했으며 '만들다'는 ㄹ 받침이므로 '만들 줄 알아요'가 정확합니다."
@@ -5136,8 +5136,8 @@
           "prompt": "'외국어를 조금 할 수 있다'고 겸손하게 답할 때 가장 자연스러운 문장은 무엇입니까?",
           "options": [
             "한국어를 조금 할 수 있어요. (부사 조금과 가능 어미 할 수 있어요가 결합한 조금 할 수 있어요가 가장 표준적입니다.) (Target Korean construction)",
-            "한국어를 전혀 할 수 있어요. (Target expression (Korean))",
-            "한국어를 못 할 수 있어요. (Target expression (Korean))"
+            "한국어를 전혀 할 수 있어요.) (Context: 외국어 구사 및 취미 능력 교환 실전 담화 구성)",
+            "한국어를 못 할 수 있어요.) (Context: 외국어 구사 및 취미 능력 교환 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "부사 '조금'과 가능 어미 '할 수 있어요'가 결합한 '조금 할 수 있어요'가 가장 표준적입니다."
@@ -5150,8 +5150,8 @@
           "prompt": "'악기를 전혀 연주하지 못한다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
             "기타를 전혀 칠 줄 몰라요. (부사 전혀는 부정 표현인 칠 줄 몰라요와 호응합니다.) (Target Korean construction)",
-            "기타를 전혀 칠 줄 알아요. (Target expression (Korean))",
-            "기타를 조금 칠 줄 몰라요. (Target expression (Korean))"
+            "기타를 전혀 칠 줄 알아요.) (Context: 외국어 구사 및 취미 능력 교환 실전 담화 구성)",
+            "기타를 조금 칠 줄 몰라요.) (Context: 외국어 구사 및 취미 능력 교환 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "부사 '전혀'는 부정 표현인 '칠 줄 몰라요'와 호응합니다."
@@ -5228,8 +5228,8 @@
           "prompt": "동사 '가다(to go)'의 올바른 의무 당위 표현은 무엇입니까?",
           "options": [
             "가야 해요 (가야 돼요) (가다의 어간 가-는 양성 모음 ㅏ로 끝나므로 -아야와 축약되어 가야 해요가 됩니다.) (Target Korean construction)",
-            "가어야 해요 (Target expression (Korean))",
-            "가아야 돼요 (Target expression (Korean))"
+            "가어야 해요) (Context: 필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다))",
+            "가아야 돼요) (Context: 필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다))"
           ],
           "answerIndex": 0,
           "explanation": "'가다'의 어간 '가-'는 양성 모음 ㅏ로 끝나므로 '-아야'와 축약되어 '가야 해요'가 됩니다."
@@ -5242,8 +5242,8 @@
           "prompt": "동사 '먹다(to eat)'에 의무 어미가 결합한 올바른 형태는 어느 것입니까?",
           "options": [
             "먹어야 해요 (먹어야 돼요) (먹다의 어간 모음은 음성 모음 ㅓ이므로 -어야 해요가 결합합니다.) (Target Korean construction)",
-            "먹아야 해요 (Target expression (Korean))",
-            "먹해야 돼요 (Target expression (Korean))"
+            "먹아야 해요) (Context: 필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다))",
+            "먹해야 돼요) (Context: 필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다))"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'의 어간 모음은 음성 모음 'ㅓ'이므로 '-어야 해요'가 결합합니다."
@@ -5257,8 +5257,8 @@
           "prompt": "'숙제를 오늘 밤까지 반드시 _____ (I must finish the homework).' 빈칸에 알맞은 '끝내다'의 의무형은?",
           "options": [
             "끝내야 해요 (끝내다의 어간 끝 ㅐ에 -어야가 축약되어 끝내야 해요가 됩니다.) (Target Korean construction)",
-            "끝나야 해요 (Target expression (Korean))",
-            "끝내어야 해요 (Target expression (Korean))"
+            "끝나야 해요) (Context: 필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다))",
+            "끝내어야 해요) (Context: 필수 당위성과 당위적 의무 어미 (-아/어야 하다 / 되다))"
           ],
           "answerIndex": 0,
           "explanation": "'끝내다'의 어간 끝 'ㅐ'에 '-어야'가 축약되어 '끝내야 해요'가 됩니다."
@@ -5320,8 +5320,8 @@
           "prompt": "'담배를 피우다(to smoke)'를 행위 금지형으로 올바르게 표현한 문장은 무엇입니까?",
           "options": [
             "담배를 피우면 안 돼요. (피우다는 모음 종결 어간이므로 -면 안 돼요가 결합하여 피우면 안 돼요가 올바릅니다.) (Target Korean construction)",
-            "담배를 피우으면 안 돼요. (Target expression (Korean))",
-            "담배를 피워야 안 돼요. (Target expression (Korean))"
+            "담배를 피우으면 안 돼요.) (Context: 행위 불허와 조건부 금지 규범 어미 (-면 안 되다))",
+            "담배를 피워야 안 돼요.) (Context: 행위 불허와 조건부 금지 규범 어미 (-면 안 되다))"
           ],
           "answerIndex": 0,
           "explanation": "'피우다'는 모음 종결 어간이므로 '-면 안 돼요'가 결합하여 '피우면 안 돼요'가 올바릅니다."
@@ -5334,8 +5334,8 @@
           "prompt": "'사진을 찍다(to take photos - 자음 받침)'를 금지형으로 바르게 나타낸 것은 어느 것입니까?",
           "options": [
             "사진을 찍으면 안 됩니다. (찍다는 자음 받침이 있으므로 -으면 안 됩니다가 결합합니다.) (Target Korean construction)",
-            "사진을 찍면 안 됩니다. (Target expression (Korean))",
-            "사진을 찍어야 안 됩니다. (Target expression (Korean))"
+            "사진을 찍면 안 됩니다.) (Context: 행위 불허와 조건부 금지 규범 어미 (-면 안 되다))",
+            "사진을 찍어야 안 됩니다.) (Context: 행위 불허와 조건부 금지 규범 어미 (-면 안 되다))"
           ],
           "answerIndex": 0,
           "explanation": "'찍다'는 자음 받침이 있으므로 '-으면 안 됩니다'가 결합합니다."
@@ -5349,8 +5349,8 @@
           "prompt": "'공원 잔디밭에 _____ (You must not enter).' 빈칸에 알맞은 '들어가다'의 금지형은?",
           "options": [
             "들어가면 안 됩니다 (들어가다는 모음 종결 어간이므로 -면 안 됩니다가 결합합니다.) (Target Korean construction)",
-            "들어가으면 안 됩니다 (Target expression (Korean))",
-            "들어가면 돼요 (Target expression (Korean))"
+            "들어가으면 안 됩니다) (Context: 행위 불허와 조건부 금지 규범 어미 (-면 안 되다))",
+            "들어가면 돼요) (Context: 행위 불허와 조건부 금지 규범 어미 (-면 안 되다))"
           ],
           "answerIndex": 0,
           "explanation": "'들어가다'는 모음 종결 어간이므로 '-면 안 됩니다'가 결합합니다."
@@ -5412,8 +5412,8 @@
           "prompt": "'여기 앉아도 돼요?'라는 질문에 대해 거절 및 금지를 나타내는 가장 적절한 대답은 무엇입니까?",
           "options": [
             "아니요, 여기에 앉으면 안 돼요. (거절과 금지는 아니요와 함께 -면 안 돼요를 사용한 첫 번째 대답이 완벽합니다.) (Target Korean construction)",
-            "네, 여기에 앉으면 안 돼요. (Target expression (Korean))",
-            "아니요, 여기에 앉아도 돼요. (Target expression (Korean))"
+            "네, 여기에 앉으면 안 돼요.) (Context: 행위 허가 '-아/어도 되다'와 행위 금지 '-면 안 되다'의 )",
+            "아니요, 여기에 앉아도 돼요.) (Context: 행위 허가 '-아/어도 되다'와 행위 금지 '-면 안 되다'의 )"
           ],
           "answerIndex": 0,
           "explanation": "거절과 금지는 '아니요'와 함께 '-면 안 돼요'를 사용한 첫 번째 대답이 완벽합니다."
@@ -5426,8 +5426,8 @@
           "prompt": "'창문을 열어도 됩니까?'라는 정중한 허가 질문에 알맞은 승인 답변은 어느 것입니까?",
           "options": [
             "네, 창문을 여셔도 됩니다. (허가를 승인할 때는 네와 함께 -아/어도 되다(존칭: -으셔도 되다)를 씁니다.) (Target Korean construction)",
-            "네, 창문을 열면 안 됩니다. (Target expression (Korean))",
-            "아니요, 창문을 여셔도 돼요. (Target expression (Korean))"
+            "네, 창문을 열면 안 됩니다.) (Context: 행위 허가 '-아/어도 되다'와 행위 금지 '-면 안 되다'의 )",
+            "아니요, 창문을 여셔도 돼요.) (Context: 행위 허가 '-아/어도 되다'와 행위 금지 '-면 안 되다'의 )"
           ],
           "answerIndex": 0,
           "explanation": "허가를 승인할 때는 '네'와 함께 '-아/어도 되다(존칭: -으셔도 되다)'를 씁니다."
@@ -5504,8 +5504,8 @@
           "prompt": "'내일 일찍 일어날 필요가 없다(No need to wake up early)'를 나타낸 올바른 문장은 무엇입니까?",
           "options": [
             "내일 일찍 일어나지 않아도 돼요. (의무의 면제/불필요는 -지 않아도 되다를 사용하므로 일어나지 않아도 돼요가 정확합니다.) (의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.)",
-            "내일 일찍 일어나면 안 돼요. (Target expression (Korean))",
-            "내일 일찍 일어나야 돼요. (Target expression (Korean))"
+            "내일 일찍 일어나면 안 돼요.) (Context: 불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되)",
+            "내일 일찍 일어나야 돼요.) (Context: 불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되)"
           ],
           "answerIndex": 0,
           "explanation": "의무의 면제/불필요는 '-지 않아도 되다'를 사용하므로 '일어나지 않아도 돼요'가 정확합니다."
@@ -5518,8 +5518,8 @@
           "prompt": "'돈을 내지 않아도 된다'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
             "돈을 안 내도 돼요. (안 -아/어도 되다는 불필요 표현이므로 돈을 안 내도 돼요가 올바릅니다.) (의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.)",
-            "돈을 내면 안 돼요. (Target expression (Korean))",
-            "돈을 내야 돼요. (Target expression (Korean))"
+            "돈을 내면 안 돼요.) (Context: 불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되)",
+            "돈을 내야 돼요.) (Context: 불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되)"
           ],
           "answerIndex": 0,
           "explanation": "'안 -아/어도 되다'는 불필요 표현이므로 '돈을 안 내도 돼요'가 올바릅니다."
@@ -5533,8 +5533,8 @@
           "prompt": "'금지(Must not)'와 '불필요(Don't have to)'의 짝이 올바르게 묶인 것은?",
           "options": [
             "금지: 가면 안 돼요 / 불필요: 가지 않아도 돼요 (-면 안 되다는 금지, -지 않아도 되다는 불필요를 나타냅니다.) (의무를 면제해주어 '그렇게 할 필요가 없다(No need to / Don't have to)'를 나타내는 '-지 않아도 되다'의 통사 구조를 체득한다.)",
-            "금지: 가지 않아도 돼요 / 불필요: 가면 안 돼요 (Target expression (Korean))",
-            "금지: 가야 돼요 / 불필요: 가지 마세요 (Target expression (Korean))"
+            "금지: 가지 않아도 돼요 / 불필요: 가면 안 돼요) (Context: 불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되)",
+            "금지: 가야 돼요 / 불필요: 가지 마세요) (Context: 불필요 및 비의무 표현 (-지 않아도 되다 / 안 -아/어도 되)"
           ],
           "answerIndex": 0,
           "explanation": "'-면 안 되다'는 금지, '-지 않아도 되다'는 불필요를 나타냅니다."
@@ -5596,8 +5596,8 @@
           "prompt": "미술관 관람 규칙으로 가장 적절한 문장은 무엇입니까?",
           "options": [
             "작품을 손으로 만지면 안 됩니다. (작품 훼손 방지를 위한 공공 규칙이므로 금지 표현인 만지면 안 됩니다가 정확합니다.) (Target Korean construction)",
-            "작품을 손으로 만져야 합니다. (Target expression (Korean))",
-            "작품을 손으로 만지지 않아도 됩니다. (Target expression (Korean))"
+            "작품을 손으로 만져야 합니다.) (Context: 공공시설 이용 규칙 및 예절 에티켓 실전 담화)",
+            "작품을 손으로 만지지 않아도 됩니다.) (Context: 공공시설 이용 규칙 및 예절 에티켓 실전 담화)"
           ],
           "answerIndex": 0,
           "explanation": "작품 훼손 방지를 위한 공공 규칙이므로 금지 표현인 '만지면 안 됩니다'가 정확합니다."
@@ -5610,8 +5610,8 @@
           "prompt": "도서관 이용 수칙 중 올바른 의무 표현은 어느 것입니까?",
           "options": [
             "열람실 안에서는 조용히 해야 합니다. (도서관 열람실에서는 정숙이 의무이므로 조용히 해야 합니다가 올바릅니다.) (Target Korean construction)",
-            "열람실 안에서는 크게 떠들어야 합니다. (Target expression (Korean))",
-            "열람실 안에서는 노래를 불러도 됩니다. (Target expression (Korean))"
+            "열람실 안에서는 크게 떠들어야 합니다.) (Context: 공공시설 이용 규칙 및 예절 에티켓 실전 담화)",
+            "열람실 안에서는 노래를 불러도 됩니다.) (Context: 공공시설 이용 규칙 및 예절 에티켓 실전 담화)"
           ],
           "answerIndex": 0,
           "explanation": "도서관 열람실에서는 정숙이 의무이므로 '조용히 해야 합니다'가 올바릅니다."
@@ -5688,8 +5688,8 @@
           "prompt": "동사 '가다(to go)'의 주체 높임 현재 해요체 형태는 무엇입니까?",
           "options": [
             "가세요 (가다의 어간에 -시-와 -어요가 결합하면 표준적으로 축약되어 가세요가 됩니다.) (Target Korean construction)",
-            "가으세요 (Target expression (Korean))",
-            "가셔요 (Target expression (Korean))"
+            "가으세요) (Context: 주체 높임 선어말어미 (-(으)시-)의 형태 체계)",
+            "가셔요) (Context: 주체 높임 선어말어미 (-(으)시-)의 형태 체계)"
           ],
           "answerIndex": 0,
           "explanation": "'가다'의 어간에 '-시-'와 '-어요'가 결합하면 표준적으로 축약되어 '가세요'가 됩니다."
@@ -5702,8 +5702,8 @@
           "prompt": "동사 '만들다(to make - ㄹ 받침)'의 주체 높임 과거 해요체 형태는 어느 것입니까?",
           "options": [
             "만드셨어요 (만들다는 ㄹ 받침이 탈락하면서 -시-가 결합하므로 만드셨어요가 올바릅니다.) (Target Korean construction)",
-            "만들으셨어요 (Target expression (Korean))",
-            "만들셨어요 (Target expression (Korean))"
+            "만들으셨어요) (Context: 주체 높임 선어말어미 (-(으)시-)의 형태 체계)",
+            "만들셨어요) (Context: 주체 높임 선어말어미 (-(으)시-)의 형태 체계)"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'는 'ㄹ' 받침이 탈락하면서 '-시-'가 결합하므로 '만드셨어요'가 올바릅니다."
@@ -5717,8 +5717,8 @@
           "prompt": "'선생님께서 신문을 _____ (The teacher reads the newspaper).' 빈칸에 알맞은 '읽다'의 주체 높임 격식체(하십시오체)는?",
           "options": [
             "읽으십니다 (읽다는 자음 받침이 있으므로 -으십니다가 결합하여 읽으십니다가 됩니다.) (Target Korean construction)",
-            "읽십니다 (Target expression (Korean))",
-            "읽으세요 (Target expression (Korean))"
+            "읽십니다) (Context: 주체 높임 선어말어미 (-(으)시-)의 형태 체계)",
+            "읽으세요) (Context: 주체 높임 선어말어미 (-(으)시-)의 형태 체계)"
           ],
           "answerIndex": 0,
           "explanation": "'읽다'는 자음 받침이 있으므로 '-으십니다'가 결합하여 '읽으십니다'가 됩니다."
@@ -5780,8 +5780,8 @@
           "prompt": "'할아버지(Grandfather)' 뒤에 올 가장 알맞은 존칭 주격 조사는 무엇입니까?",
           "options": [
             "께서 (주체 높임 대상 뒤에는 존칭 주격 조사 께서가 결합합니다.) (주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.)",
-            "가 (Target expression (Korean))",
-            "에게 (Target expression (Korean))"
+            "가) (Context: 주체 높임 주격 조사 '께서'와 주제 보조사 '께서는')",
+            "에게) (Context: 주체 높임 주격 조사 '께서'와 주제 보조사 '께서는')"
           ],
           "answerIndex": 0,
           "explanation": "주체 높임 대상 뒤에는 존칭 주격 조사 '께서'가 결합합니다."
@@ -5794,8 +5794,8 @@
           "prompt": "주어 조사와 서술어 높임이 완벽히 일치한 문장은 어느 것입니까?",
           "options": [
             "아버지께서 아침 일찍 산책을 하십니다. (아버지께서(존칭 주어) + 하십니다(주체 높임 서술어)의 호응이 완벽합니다.) (주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.)",
-            "아버지가 아침 일찍 산책을 합니다. (Target expression (Korean))",
-            "아버지에게 아침 일찍 산책을 하십니다. (Target expression (Korean))"
+            "아버지가 아침 일찍 산책을 합니다.) (Context: 주체 높임 주격 조사 '께서'와 주제 보조사 '께서는')",
+            "아버지에게 아침 일찍 산책을 하십니다.) (Context: 주체 높임 주격 조사 '께서'와 주제 보조사 '께서는')"
           ],
           "answerIndex": 0,
           "explanation": "'아버지께서(존칭 주어) + 하십니다(주체 높임 서술어)'의 호응이 완벽합니다."
@@ -5809,8 +5809,8 @@
           "prompt": "'교수님_____ 연구실에서 책을 읽으십니다.' 빈칸에 들어갈 가장 알맞은 존칭 조사는?",
           "options": [
             "께서 (행동의 주체인 교수님을 높이는 주격 조사는 께서입니다.) (주어 명사 뒤에 결합하여 주어를 극존칭으로 대우하는 주격 조사 '께서'와 대조/주제 보조사 '께서는'의 통사적 일치(Syntactic Agreement)를 체득한다.)",
-            "께 (Target expression (Korean))",
-            "을 (Target expression (Korean))"
+            "께) (Context: 주체 높임 주격 조사 '께서'와 주제 보조사 '께서는')",
+            "을) (Context: 주체 높임 주격 조사 '께서'와 주제 보조사 '께서는')"
           ],
           "answerIndex": 0,
           "explanation": "행동의 주체인 교수님을 높이는 주격 조사는 '께서'입니다."
@@ -5872,8 +5872,8 @@
           "prompt": "'자다(to sleep)'의 주체 높임 특수 동사는 무엇입니까?",
           "options": [
             "주무시다 (자다의 주체 높임 특수 동사는 주무시다입니다 (*자시다 X).)",
-            "자시다 (Target expression (Korean))",
-            "자으시다 (Target expression (Korean))"
+            "자시다) (Context: 주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다))",
+            "자으시다) (Context: 주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다))"
           ],
           "answerIndex": 0,
           "explanation": "'자다'의 주체 높임 특수 동사는 '주무시다'입니다 (*자시다 X)."
@@ -5886,8 +5886,8 @@
           "prompt": "'할머니께서 집에 계신다(Grandmother is at home)'를 바르게 표현한 문장은 어느 것입니까?",
           "options": [
             "할머니께서 집에 계십니다. (인물 자체의 존재를 직접 높일 때는 특수 동사 계시다를 씁니다.) ('-(으)시-'를 붙이지 않고 어휘 자체가 교체되는 보충법적(Suppletive) 주체 높임 특수 동사 및 형용사의 목록을 완벽히 암기하고 구별한다.)",
-            "할머니께서 집에 있으십니다. (Target expression (Korean))",
-            "할머니께서 집에 사십니다. (Target expression (Korean))"
+            "할머니께서 집에 있으십니다.) (Context: 주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다))",
+            "할머니께서 집에 사십니다.) (Context: 주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다))"
           ],
           "answerIndex": 0,
           "explanation": "인물 자체의 존재를 직접 높일 때는 특수 동사 '계시다'를 씁니다."
@@ -5901,8 +5901,8 @@
           "prompt": "'어머니께서 저녁 식사를 맛있게 _____.' 빈칸에 알맞은 '먹다'의 특수 높임형은?",
           "options": [
             "드셨어요 (잡수셨어요) (먹다의 주체 높임형은 드시다/잡수시다이므로 과거형 드셨어요/잡수셨어요가 올바릅니다.) ('-(으)시-'를 붙이지 않고 어휘 자체가 교체되는 보충법적(Suppletive) 주체 높임 특수 동사 및 형용사의 목록을 완벽히 암기하고 구별한다.)",
-            "먹으셨어요 (Target expression (Korean))",
-            "주무셨어요 (Target expression (Korean))"
+            "먹으셨어요) (Context: 주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다))",
+            "주무셨어요) (Context: 주체 높임 특수 어휘 (계시다, 드시다, 주무시다, 편찮으시다))"
           ],
           "answerIndex": 0,
           "explanation": "'먹다'의 주체 높임형은 '드시다/잡수시다'이므로 과거형 '드셨어요/잡수셨어요'가 올바릅니다."
@@ -5964,8 +5964,8 @@
           "prompt": "웃어른의 '이름(Name)'을 정중하게 여쭈어볼 때 쓰는 높임 명사는 무엇입니까?",
           "options": [
             "성함 (이름의 높임 명사는 성함입니다.) (높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.)",
-            "연세 (Target expression (Korean))",
-            "진지 (Target expression (Korean))"
+            "연세) (Context: 주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임)",
+            "진지) (Context: 주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임)"
           ],
           "answerIndex": 0,
           "explanation": "'이름'의 높임 명사는 '성함'입니다."
@@ -5978,8 +5978,8 @@
           "prompt": "웃어른의 신체나 소유물을 높이는 간접 높임 문장으로 가장 올바른 것은 어느 것입니까?",
           "options": [
             "교수님께서는 키가 크십니다. (주체의 신체(키)를 간접 높임할 때는 특수 어휘가 아닌 크시다(크다 + 시)를 씁니다.) (높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.)",
-            "교수님께서는 키가 크계십니다. (Target expression (Korean))",
-            "교수님께서는 키가 큽니다. (Target expression (Korean))"
+            "교수님께서는 키가 크계십니다.) (Context: 주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임)",
+            "교수님께서는 키가 큽니다.) (Context: 주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임)"
           ],
           "answerIndex": 0,
           "explanation": "주체의 신체(키)를 간접 높임할 때는 특수 어휘가 아닌 '크시다(크다 + 시)'를 씁니다."
@@ -5993,8 +5993,8 @@
           "prompt": "'선생님, 지금 잠시 _____ (Teacher, do you have a moment)?' 빈칸에 알맞은 표현은?",
           "options": [
             "시간 있으세요? (소유물이나 시간은 간접 높임이므로 계시다가 아닌 있으시다(있으세요)를 써야 합니다.) (높임 대상과 관련된 사물/개념을 가리키는 특수 명사 어휘와 신체/소유물을 높이는 간접 높임(Indirect Honorifics)의 규칙을 체득한다.)",
-            "시간 계세요? (Target expression (Korean))",
-            "시간 있어요? (Target expression (Korean))"
+            "시간 계세요?) (Context: 주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임)",
+            "시간 있어요?) (Context: 주체 높임 명사 어휘 (진지, 댁, 성함, 연세) 및 간접 높임)"
           ],
           "answerIndex": 0,
           "explanation": "소유물이나 시간은 간접 높임이므로 '계시다'가 아닌 '있으시다(있으세요)'를 써야 합니다."
@@ -6056,8 +6056,8 @@
           "prompt": "오랜만에 뵌 은사님께 정중하게 안부를 묻는 가장 적절한 인사말은 무엇입니까?",
           "options": [
             "교수님, 그동안 안녕하셨습니까? (은사님께는 존칭 주체 높임 의문형인 그동안 안녕하셨습니까?가 가장 완벽합니다.) (Target Korean construction)",
-            "교수님, 그동안 밥 먹었어? (Target expression (Korean))",
-            "교수님, 그동안 잘 있었니? (Target expression (Korean))"
+            "교수님, 그동안 밥 먹었어?) (Context: 웃어른 안부 묻기 및 공경의 실전 경어 담화 구성)",
+            "교수님, 그동안 잘 있었니?) (Context: 웃어른 안부 묻기 및 공경의 실전 경어 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "은사님께는 존칭 주체 높임 의문형인 '그동안 안녕하셨습니까?'가 가장 완벽합니다."
@@ -6070,8 +6070,8 @@
           "prompt": "할머니께 식사 여부를 공손히 여쭈어보는 문장으로 가장 올바른 것은 어느 것입니까?",
           "options": [
             "할머니, 진지 잡수셨어요? (진지(높임 명사)와 잡수셨어요(특수 동사 잡수시다의 과거형)가 호응하는 첫 번째 문장이 가장 공손합니다.) (Target Korean construction)",
-            "할머니, 밥 먹었어요? (Target expression (Korean))",
-            "할머니, 식사하셨니? (Target expression (Korean))"
+            "할머니, 밥 먹었어요?) (Context: 웃어른 안부 묻기 및 공경의 실전 경어 담화 구성)",
+            "할머니, 식사하셨니?) (Context: 웃어른 안부 묻기 및 공경의 실전 경어 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "'진지(높임 명사)'와 '잡수셨어요(특수 동사 잡수시다의 과거형)'가 호응하는 첫 번째 문장이 가장 공손합니다."
@@ -6085,8 +6085,8 @@
           "prompt": "웃어른과의 안부 대화 중 높임법 체계가 가장 완벽하게 적용된 문장은?",
           "options": [
             "선생님께서 건강하시고 댁내 두루 평안하시기를 바랍니다. (선생님께서, 건강하시고, 댁내, 평안하시기를 등 모든 요소가 존경의 격식을 갖추었습니다.) (Target Korean construction)",
-            "선생님이 건강하고 집이 다 편안하기를 바란다. (Target expression (Korean))",
-            "선생님께서 건강하셔서 집에 계셨으면 좋겠다. (Target expression (Korean))"
+            "선생님이 건강하고 집이 다 편안하기를 바란다.) (Context: 웃어른 안부 묻기 및 공경의 실전 경어 담화 구성)",
+            "선생님께서 건강하셔서 집에 계셨으면 좋겠다.) (Context: 웃어른 안부 묻기 및 공경의 실전 경어 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "'선생님께서', '건강하시고', '댁내', '평안하시기를' 등 모든 요소가 존경의 격식을 갖추었습니다."
@@ -6148,8 +6148,8 @@
           "prompt": "'선생님(Teacher)'에게 물건을 건넬 때 결합할 가장 알맞은 여격 조사는 무엇입니까?",
           "options": [
             "께 (웃어른이나 존경의 대상인 부사어 뒤에는 존칭 여격 조사 께가 결합합니다.) (Target Korean construction)",
-            "에게 (Target expression (Korean))",
-            "한테 (Target expression (Korean))"
+            "에게) (Context: 객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다')",
+            "한테) (Context: 객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다')"
           ],
           "answerIndex": 0,
           "explanation": "웃어른이나 존경의 대상인 부사어 뒤에는 존칭 여격 조사 '께'가 결합합니다."
@@ -6162,8 +6162,8 @@
           "prompt": "'할아버지께 선물을 주다'를 완벽한 객체 높임으로 바르게 고친 문장은 어느 것입니까?",
           "options": [
             "할아버지께 선물을 드렸습니다. (여격 조사 께와 겸양 동사 드리다가 결합한 할아버지께 선물을 드렸습니다가 완벽합니다.) (Target Korean construction)",
-            "할아버지에게 선물을 주었습니다. (Target expression (Korean))",
-            "할아버지가 선물을 드렸습니다. (Target expression (Korean))"
+            "할아버지에게 선물을 주었습니다.) (Context: 객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다')",
+            "할아버지가 선물을 드렸습니다.) (Context: 객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다')"
           ],
           "answerIndex": 0,
           "explanation": "여격 조사 '께'와 겸양 동사 '드리다'가 결합한 '할아버지께 선물을 드렸습니다'가 완벽합니다."
@@ -6177,8 +6177,8 @@
           "prompt": "'제가 교수님을 _____ (I will help the professor).' 빈칸에 알맞은 객체 높임형은?",
           "options": [
             "도와 드리겠습니다 (높임 대상인 교수님을 위해 돕는 행위이므로 겸양 수여 동사 도와 드리겠습니다가 정확합니다.) (Target Korean construction)",
-            "도와 주겠습니다 (Target expression (Korean))",
-            "도와 계시겠습니다 (Target expression (Korean))"
+            "도와 주겠습니다) (Context: 객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다')",
+            "도와 계시겠습니다) (Context: 객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다')"
           ],
           "answerIndex": 0,
           "explanation": "높임 대상인 교수님을 위해 돕는 행위이므로 겸양 수여 동사 '도와 드리겠습니다'가 정확합니다."
@@ -6240,8 +6240,8 @@
           "prompt": "'할아버지를 데리고 병원에 갔다'를 올바른 객체 높임으로 바꾼 문장은 무엇입니까?",
           "options": [
             "할아버지를 모시고 병원에 갔습니다. (데리다의 객체 높임 특수 동사는 모시다이므로 모시고가 정확합니다.) (Target Korean construction)",
-            "할아버지를 데리고 병원에 갔습니다. (Target expression (Korean))",
-            "할아버지를 가시고 병원에 갔습니다. (Target expression (Korean))"
+            "할아버지를 데리고 병원에 갔습니다.) (Context: 동행 및 동반의 객체 높임 특수 동사 '모시다')",
+            "할아버지를 가시고 병원에 갔습니다.) (Context: 동행 및 동반의 객체 높임 특수 동사 '모시다')"
           ],
           "answerIndex": 0,
           "explanation": "'데리다'의 객체 높임 특수 동사는 '모시다'이므로 '모시고'가 정확합니다."
@@ -6254,8 +6254,8 @@
           "prompt": "'부모님을 집까지 안전하게 차로 데려다주었다'를 객체 높임으로 바르게 표현한 것은 어느 것입니까?",
           "options": [
             "부모님을 댁까지 차로 모셔다 드렸습니다. (목적어 명사 댁, 동행 동사 모시다, 수여 보조동사 드리다가 완벽히 결합했습니다.) (Target Korean construction)",
-            "부모님을 댁까지 차로 데려다 드렸습니다. (Target expression (Korean))",
-            "부모님을 집까지 차로 모셔다 주었습니다. (Target expression (Korean))"
+            "부모님을 댁까지 차로 데려다 드렸습니다.) (Context: 동행 및 동반의 객체 높임 특수 동사 '모시다')",
+            "부모님을 집까지 차로 모셔다 주었습니다.) (Context: 동행 및 동반의 객체 높임 특수 동사 '모시다')"
           ],
           "answerIndex": 0,
           "explanation": "목적어 명사 '댁', 동행 동사 '모시다', 수여 보조동사 '드리다'가 완벽히 결합했습니다."
@@ -6269,8 +6269,8 @@
           "prompt": "'제가 교수님을 역까지 _____ (I will escort the professor to the station).' 빈칸에 알맞은 표현은?",
           "options": [
             "모셔다 드리겠습니다 (교수님을 배웅하는 상황이므로 모셔다 드리겠습니다가 가장 공손하고 정확합니다.) (Target Korean construction)",
-            "데려다 주겠습니다 (Target expression (Korean))",
-            "가셔다 드리겠습니다 (Target expression (Korean))"
+            "데려다 주겠습니다) (Context: 동행 및 동반의 객체 높임 특수 동사 '모시다')",
+            "가셔다 드리겠습니다) (Context: 동행 및 동반의 객체 높임 특수 동사 '모시다')"
           ],
           "answerIndex": 0,
           "explanation": "교수님을 배웅하는 상황이므로 '모셔다 드리겠습니다'가 가장 공손하고 정확합니다."
@@ -6332,8 +6332,8 @@
           "prompt": "처음 만난 웃어른께 건네는 가장 표준적이고 정중한 인사말은 무엇입니까?",
           "options": [
             "처음 뵙겠습니다. (첫 만남의 정중한 인사말은 처음 뵙겠습니다입니다.) (웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.)",
-            "처음 만나겠습니다. (Target expression (Korean))",
-            "처음 보겠습니다. (Target expression (Korean))"
+            "처음 만나겠습니다.) (Context: 만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다')",
+            "처음 보겠습니다.) (Context: 만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다')"
           ],
           "answerIndex": 0,
           "explanation": "첫 만남의 정중한 인사말은 '처음 뵙겠습니다'입니다."
@@ -6346,8 +6346,8 @@
           "prompt": "'다음 주에 만나요(See you next week)'를 선생님께 올바른 해요체 높임으로 표현한 것은 어느 것입니까?",
           "options": [
             "다음 주에 봬요. (뵈다에 -어요가 결합하여 축약된 올바른 표기는 봬요입니다.) (웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.)",
-            "다음 주에 뵈요. (Target expression (Korean))",
-            "다음 주에 뵙어요. (Target expression (Korean))"
+            "다음 주에 뵈요.) (Context: 만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다')",
+            "다음 주에 뵙어요.) (Context: 만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다')"
           ],
           "answerIndex": 0,
           "explanation": "'뵈다'에 '-어요'가 결합하여 축약된 올바른 표기는 '봬요'입니다."
@@ -6361,8 +6361,8 @@
           "prompt": "'교수님을 _____ 연구실에 갔습니다 (I went to the lab to see the professor).' 빈칸에 알맞은 형태는?",
           "options": [
             "뵈러 (목적 연결어미 -(으)러 앞에서는 어간 뵈- 뒤에 러가 붙어 뵈러가 됩니다.) (웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.)",
-            "뵙으러 (Target expression (Korean))",
-            "봬러 (Target expression (Korean))"
+            "뵙으러) (Context: 만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다')",
+            "봬러) (Context: 만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다')"
           ],
           "answerIndex": 0,
           "explanation": "목적 연결어미 '-(으)러' 앞에서는 어간 '뵈-' 뒤에 '러'가 붙어 '뵈러'가 됩니다."
@@ -6424,8 +6424,8 @@
           "prompt": "'선생님께 질문을 묻다'를 객체 높임으로 바르게 표현한 문장은 무엇입니까?",
           "options": [
             "선생님께 질문을 여쭤보았습니다. (웃어른께 질문할 때는 특수 겸양 동사인 여쭤보다(여쭙다)를 씁니다.) (Target Korean construction)",
-            "선생님께 질문을 물어보았습니다. (Target expression (Korean))",
-            "선생님에게 질문을 물었습니다. (Target expression (Korean))"
+            "선생님께 질문을 물어보았습니다.) (Context: 질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다')",
+            "선생님에게 질문을 물었습니다.) (Context: 질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다')"
           ],
           "answerIndex": 0,
           "explanation": "웃어른께 질문할 때는 특수 겸양 동사인 '여쭤보다(여쭙다)'를 씁니다."
@@ -6438,8 +6438,8 @@
           "prompt": "'교수님께 길을 물어봐도 됩니까?'를 정중한 허가 질문으로 바르게 고친 것은 어느 것입니까?",
           "options": [
             "교수님, 한 가지 여쭤봐도 될까요? (여쭤보다와 허가 어미 -아/어도 되다가 결합한 여쭤봐도 될까요?가 가장 공손합니다.) (Target Korean construction)",
-            "교수님, 한 가지 물어봐도 될까요? (Target expression (Korean))",
-            "교수님, 한 가지 말씀해도 될까요? (Target expression (Korean))"
+            "교수님, 한 가지 물어봐도 될까요?) (Context: 질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다')",
+            "교수님, 한 가지 말씀해도 될까요?) (Context: 질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다')"
           ],
           "answerIndex": 0,
           "explanation": "'여쭤보다'와 허가 어미 '-아/어도 되다'가 결합한 '여쭤봐도 될까요?'가 가장 공손합니다."
@@ -6453,8 +6453,8 @@
           "prompt": "'진로 문제에 대해 선배님께 _____ (I would like to ask for advice).' 빈칸에 알맞은 표현은?",
           "options": [
             "조언을 여쭙고 싶습니다 (선배나 윗사람에게 조언을 구하는 질문이므로 조언을 여쭙고 싶습니다가 정확합니다.) (Target Korean construction)",
-            "조언을 묻고 싶습니다 (Target expression (Korean))",
-            "조언을 드리고 싶습니다 (Target expression (Korean))"
+            "조언을 묻고 싶습니다) (Context: 질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다')",
+            "조언을 드리고 싶습니다) (Context: 질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다')"
           ],
           "answerIndex": 0,
           "explanation": "선배나 윗사람에게 조언을 구하는 질문이므로 '조언을 여쭙고 싶습니다'가 정확합니다."
@@ -6516,8 +6516,8 @@
           "prompt": "교수님 연구실에 들어가며 선물을 건넬 때 가장 적절한 경어 표현은 무엇입니까?",
           "options": [
             "교수님께 드리려고 작은 선물을 준비했습니다. (여격 조사 께와 수여 동사 드리다가 사용된 첫 번째 문장이 완벽합니다.) (Target Korean construction)",
-            "교수님에게 주려고 작은 선물을 준비했습니다. (Target expression (Korean))",
-            "교수님이 주려고 작은 선물을 준비했습니다. (Target expression (Korean))"
+            "교수님에게 주려고 작은 선물을 준비했습니다.) (Context: 연구실 면담 및 은사님 예방 실전 객체 경어 담화)",
+            "교수님이 주려고 작은 선물을 준비했습니다.) (Context: 연구실 면담 및 은사님 예방 실전 객체 경어 담화)"
           ],
           "answerIndex": 0,
           "explanation": "여격 조사 '께'와 수여 동사 '드리다'가 사용된 첫 번째 문장이 완벽합니다."
@@ -6530,8 +6530,8 @@
           "prompt": "연구실 상담 대화 중 모든 객체/주체 높임법이 완벽히 적용된 것은 어느 것입니까?",
           "options": [
             "논문 주제에 대해 교수님께 조언을 여쭙고자 찾아뵈었습니다. (교수님께, 여쭙고자, 찾아뵈었습니다가 완벽한 객체 경어 호응을 이룹니다.) (Target Korean construction)",
-            "논문 주제에 대해 교수님에게 조언을 묻고자 찾아보았습니다. (Target expression (Korean))",
-            "논문 주제에 대해 교수님께 조언을 말하고자 찾아갔습니다. (Target expression (Korean))"
+            "논문 주제에 대해 교수님에게 조언을 묻고자 찾아보았습니다.) (Context: 연구실 면담 및 은사님 예방 실전 객체 경어 담화)",
+            "논문 주제에 대해 교수님께 조언을 말하고자 찾아갔습니다.) (Context: 연구실 면담 및 은사님 예방 실전 객체 경어 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'교수님께', '여쭙고자', '찾아뵈었습니다'가 완벽한 객체 경어 호응을 이룹니다."
@@ -6545,8 +6545,8 @@
           "prompt": "다음 상담 대화 중 화용론적으로 가장 품격 있고 자연스러운 문장은?",
           "options": [
             "바쁘신 중에 귀한 시간 내어 주셔서 감사드리며, 다음 주에 다시 뵙겠습니다. (감사 인사(감사드리며)와 다음 약속 인사(다시 뵙겠습니다)가 완벽한 격식을 갖추었습니다.) (Target Korean construction)",
-            "바쁜데 시간 줘서 고맙고 다음 주에 다시 만나겠다. (Target expression (Korean))",
-            "바쁘신 중에 시간 줘서 감사하고 다음 주에 보자. (Target expression (Korean))"
+            "바쁜데 시간 줘서 고맙고 다음 주에 다시 만나겠다.) (Context: 연구실 면담 및 은사님 예방 실전 객체 경어 담화)",
+            "바쁘신 중에 시간 줘서 감사하고 다음 주에 보자.) (Context: 연구실 면담 및 은사님 예방 실전 객체 경어 담화)"
           ],
           "answerIndex": 0,
           "explanation": "감사 인사('감사드리며')와 다음 약속 인사('다시 뵙겠습니다')가 완벽한 격식을 갖추었습니다."
@@ -6608,8 +6608,8 @@
           "prompt": "'배가 고프다(to be hungry)'를 '-아/어서'로 바르게 연결한 형태는 무엇입니까?",
           "options": [
             "배가 고파서 (고프다의 어간 끝 모음 ㅡ가 탈락하고 양성 모음 ㅏ가 붙어 배가 고파서가 됩니다.) (Target Korean construction)",
-            "배가 고파서서 (Target expression (Korean))",
-            "배가 고펐어서 (Target expression (Korean))"
+            "배가 고파서서) (Context: 자연적 인과 및 순차적 이유 연결어미 (-아/어서))",
+            "배가 고펐어서) (Context: 자연적 인과 및 순차적 이유 연결어미 (-아/어서))"
           ],
           "answerIndex": 0,
           "explanation": "'고프다'의 어간 끝 모음 'ㅡ'가 탈락하고 양성 모음 'ㅏ'가 붙어 '배가 고파서'가 됩니다."
@@ -6622,8 +6622,8 @@
           "prompt": "다음 중 '-아/어서'의 문법적 제약을 위반한 비문은 어느 것입니까?",
           "options": [
             "날씨가 좋아서 산책하러 갑시다. (-아/어서는 청유문(-갑시다)의 이유로 쓰일 수 없습니다 (청유문에는 날씨가 좋으니까 사용).) (Target Korean construction)",
-            "날씨가 좋아서 기분이 상쾌해요. (Target expression (Korean))",
-            "날씨가 좋아서 빨래가 잘 말라요. (Target expression (Korean))"
+            "날씨가 좋아서 기분이 상쾌해요.) (Context: 자연적 인과 및 순차적 이유 연결어미 (-아/어서))",
+            "날씨가 좋아서 빨래가 잘 말라요.) (Context: 자연적 인과 및 순차적 이유 연결어미 (-아/어서))"
           ],
           "answerIndex": 0,
           "explanation": "'-아/어서'는 청유문('-갑시다')의 이유로 쓰일 수 없습니다 (청유문에는 '날씨가 좋으니까' 사용)."
@@ -6637,8 +6637,8 @@
           "prompt": "'약속 시간에 _____ 죄송합니다 (I am sorry for being late).' 빈칸에 가장 알맞은 표현은?",
           "options": [
             "늦어서 (사과 표현(죄송합니다) 앞의 이유에는 관용적으로 -아/어서(늦어서)를 써야 자연스럽습니다.) (Target Korean construction)",
-            "늦으니까 (Target expression (Korean))",
-            "늦었기 때문에 (Target expression (Korean))"
+            "늦으니까) (Context: 자연적 인과 및 순차적 이유 연결어미 (-아/어서))",
+            "늦었기 때문에) (Context: 자연적 인과 및 순차적 이유 연결어미 (-아/어서))"
           ],
           "answerIndex": 0,
           "explanation": "사과 표현('죄송합니다') 앞의 이유에는 관용적으로 '-아/어서(늦어서)'를 써야 자연스럽습니다."
@@ -6700,8 +6700,8 @@
           "prompt": "명령문 '서두르세요(Please hurry)' 앞의 이유 절로 가장 올바른 형태는 무엇입니까?",
           "options": [
             "시간이 없으니까 (명령문의 전제 이유로는 -아/어서가 아닌 -(으)니까를 사용하므로 시간이 없으니까가 정확합니다.) (Target Korean construction)",
-            "시간이 없어서 (Target expression (Korean))",
-            "시간이 없으면 (Target expression (Korean))"
+            "시간이 없어서) (Context: 주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까))",
+            "시간이 없으면) (Context: 주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까))"
           ],
           "answerIndex": 0,
           "explanation": "명령문의 전제 이유로는 '-아/어서'가 아닌 '-(으)니까'를 사용하므로 '시간이 없으니까'가 정확합니다."
@@ -6714,8 +6714,8 @@
           "prompt": "청유문 '-합시다'와 결합하여 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
             "날씨가 화창하니까 한강 공원으로 소풍을 갑시다. (청유문(-갑시다) 앞에는 반드시 -(으)니까가 호응합니다.) (Target Korean construction)",
-            "날씨가 화창해서 한강 공원으로 소풍을 갑시다. (Target expression (Korean))",
-            "날씨가 화창하지만 한강 공원으로 소풍을 갑시다. (Target expression (Korean))"
+            "날씨가 화창해서 한강 공원으로 소풍을 갑시다.) (Context: 주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까))",
+            "날씨가 화창하지만 한강 공원으로 소풍을 갑시다.) (Context: 주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까))"
           ],
           "answerIndex": 0,
           "explanation": "청유문('-갑시다') 앞에는 반드시 '-(으)니까'가 호응합니다."
@@ -6729,8 +6729,8 @@
           "prompt": "'점심을 이미 _____ 카페로 바로 가요 (Since we already ate lunch, let's go straight to the cafe).' 빈칸에 알맞은 형태는?",
           "options": [
             "먹었으니까 (과거 시제 선어말어미와 제안형 청유가 결합할 수 있는 어미는 먹었으니까뿐입니다.) (Target Korean construction)",
-            "먹었어서 (Target expression (Korean))",
-            "먹었기 (Target expression (Korean))"
+            "먹었어서) (Context: 주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까))",
+            "먹었기) (Context: 주관적 판단·발견 및 명령·청유 전제 어미 (-(으)니까))"
           ],
           "answerIndex": 0,
           "explanation": "과거 시제 선어말어미와 제안형 청유가 결합할 수 있는 어미는 '먹었으니까'뿐입니다."
@@ -6792,8 +6792,8 @@
           "prompt": "명사 '비(Rain)' 뒤에 직접 결합하여 원인을 나타내는 올바른 형태는 무엇입니까?",
           "options": [
             "비 때문에 (비이기 때문에) (순수 명사 뒤에는 때문에 또는 서술격 조사와 결합한 이기 때문에가 옵니다.) (Target Korean construction)",
-            "비 때문에기 (Target expression (Korean))",
-            "비해서 (Target expression (Korean))"
+            "비 때문에기) (Context: 객관적·공식적 인과 명사화 어미 (-기 때문에))",
+            "비해서) (Context: 객관적·공식적 인과 명사화 어미 (-기 때문에))"
           ],
           "answerIndex": 0,
           "explanation": "순수 명사 뒤에는 '때문에' 또는 서술격 조사와 결합한 '이기 때문에'가 옵니다."
@@ -6806,8 +6806,8 @@
           "prompt": "공식 뉴스 보도 문장으로 가장 논리적이고 자연스러운 것은 어느 것입니까?",
           "options": [
             "태풍이 상륙했기 때문에 여객선 운항이 전면 통제되었습니다. (공식 보도 및 객관적 서술문에는 -았/었기 때문에가 가장 적합합니다.) (Target Korean construction)",
-            "태풍이 상륙해서 여객선 운항을 통제하십시오. (Target expression (Korean))",
-            "태풍이 상륙하니까 여객선 운항이 통제되었습니다. (Target expression (Korean))"
+            "태풍이 상륙해서 여객선 운항을 통제하십시오.) (Context: 객관적·공식적 인과 명사화 어미 (-기 때문에))",
+            "태풍이 상륙하니까 여객선 운항이 통제되었습니다.) (Context: 객관적·공식적 인과 명사화 어미 (-기 때문에))"
           ],
           "answerIndex": 0,
           "explanation": "공식 보도 및 객관적 서술문에는 '-았/었기 때문에'가 가장 적합합니다."
@@ -6821,8 +6821,8 @@
           "prompt": "'건강을 매일 관리_____ 질병에 걸리지 않습니다.' 빈칸에 알맞은 객관적 인과 표현은?",
           "options": [
             "하기 때문에 (평서문에서 객관적 인과 관계를 나타내는 하기 때문에가 가장 완벽합니다.) (Target Korean construction)",
-            "하니까요 (Target expression (Korean))",
-            "해서요 (Target expression (Korean))"
+            "하니까요) (Context: 객관적·공식적 인과 명사화 어미 (-기 때문에))",
+            "해서요) (Context: 객관적·공식적 인과 명사화 어미 (-기 때문에))"
           ],
           "answerIndex": 0,
           "explanation": "평서문에서 객관적 인과 관계를 나타내는 '하기 때문에'가 가장 완벽합니다."
@@ -6884,8 +6884,8 @@
           "prompt": "'배가 부르다'를 이유로 하여 '식사를 그만합시다(Let's stop eating)'와 결합할 때 올바른 어미는?",
           "options": [
             "배가 부르니까 (청유문(-합시다) 앞에는 오직 -(으)니까(배가 부르니까)만 결합할 수 있습니다.) (3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에) 비교 및 문법 제약)",
-            "배가 불러서 (Target expression (Korean))",
-            "배가 부르기 때문에 (Target expression (Korean))"
+            "배가 불러서) (Context: 3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에))",
+            "배가 부르기 때문에) (Context: 3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에))"
           ],
           "answerIndex": 0,
           "explanation": "청유문('-합시다') 앞에는 오직 '-(으)니까(배가 부르니까)'만 결합할 수 있습니다."
@@ -6897,9 +6897,9 @@
         {
           "prompt": "다음 중 세 이유 어미의 문법적 제약이 올바르게 지켜진 문장은 어느 것입니까?",
           "options": [
-            "시간이 늦었으니 어서 집으로 돌아가세요. (Target expression (Korean))",
-            "시간이 늦어서 어서 집으로 돌아가세요. (Target expression (Korean))",
-            "시간이 늦기 때문에 어서 집으로 돌아가세요. (Target expression (Korean))"
+            "시간이 늦었으니 어서 집으로 돌아가세요.) (명령문(-돌아가세요) 앞에는 -(으)니까(축약형: -(으)니)가 결합한 첫 번째 ) (Korean grammar and vocabulary (ko-u14-l4))",
+            "시간이 늦어서 어서 집으로 돌아가세요.) (Context: 3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에))",
+            "시간이 늦기 때문에 어서 집으로 돌아가세요.) (Context: 3대 이유 어미(-아/어서 vs -(으)니까 vs -기 때문에))"
           ],
           "answerIndex": 0,
           "explanation": "명령문('-돌아가세요') 앞에는 '-(으)니까(축약형: -(으)니)'가 결합한 첫 번째 문장이 유일하게 올바릅니다."
@@ -6976,8 +6976,8 @@
           "prompt": "교통 체증으로 늦을 때 상대방에게 상황을 설명하는 가장 자연스러운 문장은 무엇입니까?",
           "options": [
             "차가 많이 막혀서 조금 늦을 것 같습니다. (자신의 지각 원인을 완곡하게 설명할 때는 -아/어서가 가장 표준적입니다.) (Target Korean construction)",
-            "차가 많이 막히니까 조금 늦었습니다. (Target expression (Korean))",
-            "차가 많이 막히면 조금 늦으세요. (Target expression (Korean))"
+            "차가 많이 막히니까 조금 늦었습니다.) (Context: 핑계, 사유 설명 및 약속 변경 실전 담화 구성)",
+            "차가 많이 막히면 조금 늦으세요.) (Context: 핑계, 사유 설명 및 약속 변경 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "자신의 지각 원인을 완곡하게 설명할 때는 '-아/어서'가 가장 표준적입니다."
@@ -6990,8 +6990,8 @@
           "prompt": "상대방의 양해에 대해 감사함을 표현하는 가장 올바른 문장은 어느 것입니까?",
           "options": [
             "사정을 이해해 주셔서 정말 감사합니다. (감사 인사 앞에는 오직 -아/어서(이해해 주셔서)가 호응합니다.) (Target Korean construction)",
-            "사정을 이해해 주니까 정말 감사합니다. (Target expression (Korean))",
-            "사정을 이해해 주기 때문에 정말 감사합니다. (Target expression (Korean))"
+            "사정을 이해해 주니까 정말 감사합니다.) (Context: 핑계, 사유 설명 및 약속 변경 실전 담화 구성)",
+            "사정을 이해해 주기 때문에 정말 감사합니다.) (Context: 핑계, 사유 설명 및 약속 변경 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "감사 인사 앞에는 오직 '-아/어서(이해해 주셔서)'가 호응합니다."
@@ -7068,8 +7068,8 @@
           "prompt": "'비싸다(expensive)'와 '맛있다(delicious)'를 '-지만'으로 올바르게 연결한 문장은?",
           "options": [
             "이 식당은 가격은 비싸지만 음식이 정말 맛있습니다. (형용사 어간 비싸- 뒤에 바로 -지만이 붙어 비싸지만이 됩니다.) (Target Korean construction)",
-            "이 식당은 가격은 비싸는데 음식이 정말 맛있습니다. (Target expression (Korean))",
-            "이 식당은 가격은 비싼지만 음식이 정말 맛있습니다. (Target expression (Korean))"
+            "이 식당은 가격은 비싸는데 음식이 정말 맛있습니다.) (Context: 단순 명제 대조 연결어미 (-지만))",
+            "이 식당은 가격은 비싼지만 음식이 정말 맛있습니다.) (Context: 단순 명제 대조 연결어미 (-지만))"
           ],
           "answerIndex": 0,
           "explanation": "형용사 어간 '비싸-' 뒤에 바로 '-지만'이 붙어 '비싸지만'이 됩니다."
@@ -7082,8 +7082,8 @@
           "prompt": "'피곤했다(was tired)'의 과거 대조를 '-지만'으로 바르게 표현한 것은 어느 것입니까?",
           "options": [
             "몸은 피곤했지만 끝까지 최선을 다했습니다. (과거 시제 선어말어미 -았/었-과 결합한 피곤했지만이 정확합니다.) (Target Korean construction)",
-            "몸은 피곤하서 끝까지 최선을 다했습니다. (Target expression (Korean))",
-            "몸은 피곤했으면 끝까지 최선을 다했습니다. (Target expression (Korean))"
+            "몸은 피곤하서 끝까지 최선을 다했습니다.) (Context: 단순 명제 대조 연결어미 (-지만))",
+            "몸은 피곤했으면 끝까지 최선을 다했습니다.) (Context: 단순 명제 대조 연결어미 (-지만))"
           ],
           "answerIndex": 0,
           "explanation": "과거 시제 선어말어미 '-았/었-'과 결합한 '피곤했지만'이 정확합니다."
@@ -7097,8 +7097,8 @@
           "prompt": "'바쁘다(busy)'를 대조하여 '내일 친구를 만날 것이다'와 결합할 때 알맞은 형태는?",
           "options": [
             "바쁘지만 (어간 바쁘- 뒤에 바로 -지만이 결합하여 바쁘지만이 됩니다.) (Target Korean construction)",
-            "바쁜지만 (Target expression (Korean))",
-            "바쁘서 (Target expression (Korean))"
+            "바쁜지만) (Context: 단순 명제 대조 연결어미 (-지만))",
+            "바쁘서) (Context: 단순 명제 대조 연결어미 (-지만))"
           ],
           "answerIndex": 0,
           "explanation": "어간 '바쁘-' 뒤에 바로 '-지만'이 결합하여 '바쁘지만'이 됩니다."
@@ -7160,8 +7160,8 @@
           "prompt": "형용사 '예쁘다(pretty)'에 배경 제시 어미가 결합한 올바른 형태는 무엇입니까?",
           "options": [
             "예쁜데 (형용사 모음 종결 어간 뒤에는 -(으)ㄴ데가 붙어 예쁜데가 됩니다.) (Target Korean construction)",
-            "예쁘는데 (Target expression (Korean))",
-            "예쁜는데 (Target expression (Korean))"
+            "예쁘는데) (Context: 배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데))",
+            "예쁜는데) (Context: 배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데))"
           ],
           "answerIndex": 0,
           "explanation": "형용사 모음 종결 어간 뒤에는 '-(으)ㄴ데'가 붙어 '예쁜데'가 됩니다."
@@ -7174,8 +7174,8 @@
           "prompt": "동사 '먹다(eat)'와 '있다(exist)'의 배경 제시 형태가 모두 올바르게 짝지어진 것은?",
           "options": [
             "먹는데 - 있는데 (동사는 -는데(먹는데), 있다/없다도 항상 -는데(있는데)가 결합합니다.) (Target Korean construction)",
-            "먹은데 - 있은데 (Target expression (Korean))",
-            "먹는데 - 있은데 (Target expression (Korean))"
+            "먹은데 - 있은데) (Context: 배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데))",
+            "먹는데 - 있은데) (Context: 배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데))"
           ],
           "answerIndex": 0,
           "explanation": "동사는 '-는데(먹는데)', '있다/없다'도 항상 '-는데(있는데)'가 결합합니다."
@@ -7189,8 +7189,8 @@
           "prompt": "'제가 지금 도서관에 _____ 책을 빌려다 드릴까요? (I am in the library now, shall I borrow a book for you?)' 빈칸에 알맞은 형태는?",
           "options": [
             "있는데 (있다의 어간 뒤에는 -는데가 결합하여 있는데가 됩니다.) (Target Korean construction)",
-            "있은데 (Target expression (Korean))",
-            "있는지 (Target expression (Korean))"
+            "있은데) (Context: 배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데))",
+            "있는지) (Context: 배경 상황 제시 및 도입 연결어미 (-(으)ㄴ/는데))"
           ],
           "answerIndex": 0,
           "explanation": "'있다'의 어간 뒤에는 '-는데'가 결합하여 '있는데'가 됩니다."
@@ -7252,8 +7252,8 @@
           "prompt": "친구의 식사 제안을 완곡하고 공손하게 거절하는 가장 적절한 표현은 무엇입니까?",
           "options": [
             "같이 가고 싶은데 오늘 다른 약속이 있어요. (화자의 마음을 완곡하게 밝히며 거절할 때는 가고 싶은데가 가장 자연스럽고 부드럽습니다.) (화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비)",
-            "같이 가고 싶지만 오늘 다른 약속이 있습니다. (Target expression (Korean))",
-            "같이 가고 싶으니까 안 갈 거예요. (Target expression (Korean))"
+            "같이 가고 싶지만 오늘 다른 약속이 있습니다.) (Context: 화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스)",
+            "같이 가고 싶으니까 안 갈 거예요.) (Context: 화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스)"
           ],
           "answerIndex": 0,
           "explanation": "화자의 마음을 완곡하게 밝히며 거절할 때는 '가고 싶은데'가 가장 자연스럽고 부드럽습니다."
@@ -7266,8 +7266,8 @@
           "prompt": "기대와 다른 반전 상황을 아쉬움을 담아 표현한 가장 자연스러운 문장은 어느 것입니까?",
           "options": [
             "열심히 찾아봤는데 지갑이 어디에도 없어요. (일상 구어에서 기대와 어긋난 반전적 아쉬움을 완곡히 전할 때는 -았/었는데가 으뜸입니다.) (화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비)",
-            "열심히 찾아봤지만 지갑이 어디에도 없습니다. (Target expression (Korean))",
-            "열심히 찾아보니까 지갑이 어디에도 없습니다. (Target expression (Korean))"
+            "열심히 찾아봤지만 지갑이 어디에도 없습니다.) (Context: 화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스)",
+            "열심히 찾아보니까 지갑이 어디에도 없습니다.) (Context: 화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스)"
           ],
           "answerIndex": 0,
           "explanation": "일상 구어에서 기대와 어긋난 반전적 아쉬움을 완곡히 전할 때는 '-았/었는데'가 으뜸입니다."
@@ -7281,8 +7281,8 @@
           "prompt": "'영화를 보러 _____ 표가 매진되었어요 (I went to see a movie, but tickets were sold out).' 빈칸에 알맞은 형태는?",
           "options": [
             "갔는데 (과거 행동 뒤에 기대와 다른 상황(표 매진)을 맞닥뜨린 반전 배경이므로 갔는데가 정확합니다.) (화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스 대비)",
-            "가서 (Target expression (Korean))",
-            "가니까요 (Target expression (Korean))"
+            "가서) (Context: 화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스)",
+            "가니까요) (Context: 화용론적 대조·반전의 '-(으)ㄴ/는데' vs '-지만' 뉘앙스)"
           ],
           "answerIndex": 0,
           "explanation": "과거 행동 뒤에 기대와 다른 상황(표 매진)을 맞닥뜨린 반전 배경이므로 '갔는데'가 정확합니다."
@@ -7344,8 +7344,8 @@
           "prompt": "'제가 민수입니다(I am Minsu)'를 전화를 걸어온 상대에게 부드럽게 밝히는 종결 표현은?",
           "options": [
             "제가 민수인데요. (자신임을 밝히며 상대방의 용건을 묻는 정중한 응답은 제가 민수인데요입니다.) (Target Korean construction)",
-            "제가 민수지만요. (Target expression (Korean))",
-            "제가 민수니까요. (Target expression (Korean))"
+            "제가 민수지만요.) (Context: 문장 종결 표현으로서의 '-(으)ㄴ/는데요')",
+            "제가 민수니까요.) (Context: 문장 종결 표현으로서의 '-(으)ㄴ/는데요')"
           ],
           "answerIndex": 0,
           "explanation": "자신임을 밝히며 상대방의 용건을 묻는 정중한 응답은 '제가 민수인데요'입니다."
@@ -7358,8 +7358,8 @@
           "prompt": "음식 맛에 대한 부드러운 감탄을 나타내는 가장 자연스러운 종결형은 어느 것입니까?",
           "options": [
             "생각했던 것보다 훨씬 더 맛있는데요! (예상 밖의 맛에 대한 기분 좋은 감탄과 피드백에는 맛있는데요가 가장 자연스럽습니다.) (Target Korean construction)",
-            "생각했던 것보다 훨씬 더 맛있지만요! (Target expression (Korean))",
-            "생각했던 것보다 훨씬 더 맛있어서요! (Target expression (Korean))"
+            "생각했던 것보다 훨씬 더 맛있지만요!) (Context: 문장 종결 표현으로서의 '-(으)ㄴ/는데요')",
+            "생각했던 것보다 훨씬 더 맛있어서요!) (Context: 문장 종결 표현으로서의 '-(으)ㄴ/는데요')"
           ],
           "answerIndex": 0,
           "explanation": "예상 밖의 맛에 대한 기분 좋은 감탄과 피드백에는 '맛있는데요'가 가장 자연스럽습니다."
@@ -7373,8 +7373,8 @@
           "prompt": "'A: 커피 한잔 더 드실래요? B: 저는 방금 _____ (I drank just now).' 빈칸에 알맞은 완곡 거절형은?",
           "options": [
             "마셨는데요 (이미 마셨음을 완곡히 알리며 사양하는 종결형은 마셨는데요입니다.) (Target Korean construction)",
-            "마셨지만요 (Target expression (Korean))",
-            "마시니까요 (Target expression (Korean))"
+            "마셨지만요) (Context: 문장 종결 표현으로서의 '-(으)ㄴ/는데요')",
+            "마시니까요) (Context: 문장 종결 표현으로서의 '-(으)ㄴ/는데요')"
           ],
           "answerIndex": 0,
           "explanation": "이미 마셨음을 완곡히 알리며 사양하는 종결형은 '마셨는데요'입니다."
@@ -7436,8 +7436,8 @@
           "prompt": "식당에서 직원에게 물을 정중하게 요청하는 가장 자연스러운 표현은 무엇입니까?",
           "options": [
             "저기요, 시원한 물 좀 주시면 좋겠는데요. (부탁과 희망을 완곡하게 전달하는 좋겠는데요가 가장 정중합니다.) (Target Korean construction)",
-            "저기요, 시원한 물 좀 줘야 하지만요. (Target expression (Korean))",
-            "저기요, 시원한 물 좀 주니까요. (Target expression (Korean))"
+            "저기요, 시원한 물 좀 줘야 하지만요.) (Context: 식당 주문, 상품 교환 및 일상 요청 실전 담화 구성)",
+            "저기요, 시원한 물 좀 주니까요.) (Context: 식당 주문, 상품 교환 및 일상 요청 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "부탁과 희망을 완곡하게 전달하는 '좋겠는데요'가 가장 정중합니다."
@@ -7450,8 +7450,8 @@
           "prompt": "옷 매장에서 교환을 요청하는 대화 중 문법과 맥락이 가장 완벽한 것은 어느 것입니까?",
           "options": [
             "어제 산 바지인데, 사이즈가 안 맞아서 교환하고 싶어요. (배경 제시(바지인데)와 원인(안 맞아서)이 완벽한 논리 구조를 이룹니다.) (Target Korean construction)",
-            "어제 산 바지이지만, 사이즈가 맞으니까 교환하세요. (Target expression (Korean))",
-            "어제 산 바지여서, 사이즈가 맞아서 교환할래요. (Target expression (Korean))"
+            "어제 산 바지이지만, 사이즈가 맞으니까 교환하세요.) (Context: 식당 주문, 상품 교환 및 일상 요청 실전 담화 구성)",
+            "어제 산 바지여서, 사이즈가 맞아서 교환할래요.) (Context: 식당 주문, 상품 교환 및 일상 요청 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "배경 제시('바지인데')와 원인('안 맞아서')이 완벽한 논리 구조를 이룹니다."
@@ -7465,8 +7465,8 @@
           "prompt": "다음 매장 담화 중 빈칸에 들어갈 가장 자연스러운 요청 종결형은?\n\"직원: 무엇을 도와드릴까요?\n손님: 어제 구입한 가방 환불을 좀 _____.\"",
           "options": [
             "받고 싶은데요 (용건과 희망 사항을 정중하게 제시하는 받고 싶은데요가 가장 표준적입니다.) (Target Korean construction)",
-            "받고 싶지만요 (Target expression (Korean))",
-            "받고 싶으니까요 (Target expression (Korean))"
+            "받고 싶지만요) (Context: 식당 주문, 상품 교환 및 일상 요청 실전 담화 구성)",
+            "받고 싶으니까요) (Context: 식당 주문, 상품 교환 및 일상 요청 실전 담화 구성)"
           ],
           "answerIndex": 0,
           "explanation": "용건과 희망 사항을 정중하게 제시하는 '받고 싶은데요'가 가장 표준적입니다."
@@ -7528,8 +7528,8 @@
           "prompt": "'살다(live)'가 명사 '사람(person)'을 현재형으로 수식할 때 올바른 형태는 무엇입니까?",
           "options": [
             "사는 사람 (살다의 어간 끝 받침 ㄹ이 탈락하고 -는이 붙어 사는 사람이 됩니다.) (Target Korean construction)",
-            "살는 사람 (Target expression (Korean))",
-            "사는는 사람 (Target expression (Korean))"
+            "살는 사람) (Context: 동사의 현재 시제 관형사형 어미 (-는))",
+            "사는는 사람) (Context: 동사의 현재 시제 관형사형 어미 (-는))"
           ],
           "answerIndex": 0,
           "explanation": "'살다'의 어간 끝 받침 'ㄹ'이 탈락하고 '-는'이 붙어 '사는 사람'이 됩니다."
@@ -7542,8 +7542,8 @@
           "prompt": "'지금 듣다(listening now)'를 사용하여 '음악(music)'을 바르게 수식한 구는 어느 것입니까?",
           "options": [
             "지금 듣는 음악 (현재 듣고 있는 음악이므로 동사 어간 듣- 뒤에 -는이 결합한 지금 듣는 음악이 정확합니다.) (Target Korean construction)",
-            "지금 들은 음악 (Target expression (Korean))",
-            "지금 들을 음악 (Target expression (Korean))"
+            "지금 들은 음악) (Context: 동사의 현재 시제 관형사형 어미 (-는))",
+            "지금 들을 음악) (Context: 동사의 현재 시제 관형사형 어미 (-는))"
           ],
           "answerIndex": 0,
           "explanation": "현재 듣고 있는 음악이므로 동사 어간 '듣-' 뒤에 '-는'이 결합한 '지금 듣는 음악'이 정확합니다."
@@ -7557,8 +7557,8 @@
           "prompt": "'빵을 _____ 요리사 (A chef who makes bread).' 빈칸에 알맞은 형태는?",
           "options": [
             "만드는 (만들다의 ㄹ이 탈락하고 현재 관형형 어미 -는이 붙어 만드는이 됩니다.) (Target Korean construction)",
-            "만들는 (Target expression (Korean))",
-            "만든 (Target expression (Korean))"
+            "만들는) (Context: 동사의 현재 시제 관형사형 어미 (-는))",
+            "만든) (Context: 동사의 현재 시제 관형사형 어미 (-는))"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'의 'ㄹ'이 탈락하고 현재 관형형 어미 '-는'이 붙어 '만드는'이 됩니다."
@@ -7620,8 +7620,8 @@
           "prompt": "형용사 '좋다(good)'가 명사 '날씨(weather)'를 현재형으로 수식하는 올바른 형태는?",
           "options": [
             "좋은 날씨 (형용사의 현재 관형형은 -(으)ㄴ이므로 좋은 날씨가 정확합니다 (*좋는은 비문).) (동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'))",
-            "좋는 날씨 (Target expression (Korean))",
-            "좋은는 날씨 (Target expression (Korean))"
+            "좋는 날씨) (Context: 동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형)",
+            "좋은는 날씨) (Context: 동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형)"
           ],
           "answerIndex": 0,
           "explanation": "형용사의 현재 관형형은 '-(으)ㄴ'이므로 '좋은 날씨'가 정확합니다 (*'좋는'은 비문)."
@@ -7634,8 +7634,8 @@
           "prompt": "'어제 읽다(read yesterday)'를 사용하여 '책(book)'을 과거 관형형으로 바르게 수식한 것은?",
           "options": [
             "어제 읽은 책 (동사의 과거 관형형은 -(으)ㄴ이므로 자음 받침 뒤에 -은이 붙은 어제 읽은 책이 맞습니다.) (동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'))",
-            "어제 읽는 책 (Target expression (Korean))",
-            "어제 읽을 책 (Target expression (Korean))"
+            "어제 읽는 책) (Context: 동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형)",
+            "어제 읽을 책) (Context: 동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형)"
           ],
           "answerIndex": 0,
           "explanation": "동사의 과거 관형형은 '-(으)ㄴ'이므로 자음 받침 뒤에 '-은'이 붙은 '어제 읽은 책'이 맞습니다."
@@ -7649,8 +7649,8 @@
           "prompt": "'어제 _____ 사람과 오늘 _____ 사람은 다른 사람입니다.' 빈칸에 들어갈 알맞은 형태 순서는?",
           "options": [
             "만난 / 만나는 (어제 만난(과거 동사 -(으)ㄴ) + 오늘 만나는(현재 동사 -는)의 대조가 완벽합니다.) (동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형 ('-(으)ㄴ'))",
-            "만나는 / 만난 (Target expression (Korean))",
-            "만날 / 만난 (Target expression (Korean))"
+            "만나는 / 만난) (Context: 동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형)",
+            "만날 / 만난) (Context: 동사의 과거 관형형 ('-(으)ㄴ') vs 형용사의 현재 관형형)"
           ],
           "answerIndex": 0,
           "explanation": "어제 만난(과거 동사 '-(으)ㄴ') + 오늘 만나는(현재 동사 '-는')의 대조가 완벽합니다."
@@ -7712,8 +7712,8 @@
           "prompt": "'내일 먹다(eat tomorrow)'를 사용하여 '음식(food)'을 미래 관형형으로 바르게 수식한 형태는?",
           "options": [
             "내일 먹을 음식 (미래 시제 관형형 어미는 -(으)ㄹ이므로 먹을 음식이 정확합니다.) (Target Korean construction)",
-            "내일 먹는 음식 (Target expression (Korean))",
-            "내일 먹은 음식 (Target expression (Korean))"
+            "내일 먹는 음식) (Context: 동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ'))",
+            "내일 먹은 음식) (Context: 동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ'))"
           ],
           "answerIndex": 0,
           "explanation": "미래 시제 관형형 어미는 '-(으)ㄹ'이므로 '먹을 음식'이 정확합니다."
@@ -7726,8 +7726,8 @@
           "prompt": "'주말에 가다(go on the weekend)'를 '곳(place)'과 결합한 올바른 미래 관형절은?",
           "options": [
             "주말에 갈 곳 (모음 종결 어간 가-에 -ㄹ이 붙어 갈 곳이 됩니다.) (Target Korean construction)",
-            "주말에 가는 곳 (Target expression (Korean))",
-            "주말에 간 곳 (Target expression (Korean))"
+            "주말에 가는 곳) (Context: 동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ'))",
+            "주말에 간 곳) (Context: 동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ'))"
           ],
           "answerIndex": 0,
           "explanation": "모음 종결 어간 '가-'에 '-ㄹ'이 붙어 '갈 곳'이 됩니다."
@@ -7741,8 +7741,8 @@
           "prompt": "'내일 시험에서 _____ 문제들을 미리 복습했습니다.' 빈칸에 알맞은 미래형은?",
           "options": [
             "나올 (내일 시험에 출제될 미래의 문제이므로 나올이 정확합니다.) (Target Korean construction)",
-            "나오는 (Target expression (Korean))",
-            "나온 (Target expression (Korean))"
+            "나오는) (Context: 동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ'))",
+            "나온) (Context: 동사/형용사의 미래·예정·추측 관형형 어미 ('-(으)ㄹ'))"
           ],
           "answerIndex": 0,
           "explanation": "내일 시험에 출제될 미래의 문제이므로 '나올'이 정확합니다."
@@ -7804,8 +7804,8 @@
           "prompt": "과거에 자주 다니던 습관적인 단골 카페를 표현하는 가장 알맞은 형태는 무엇입니까?",
           "options": [
             "자주 가던 카페 (과거의 반복적 습관을 회상할 때는 -던(가던)이 가장 자연스럽습니다.) (과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던'))",
-            "자주 갈 카페 (Target expression (Korean))",
-            "자주 가는 카페 (Target expression (Korean))"
+            "자주 갈 카페) (Context: 과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')",
+            "자주 가는 카페) (Context: 과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')"
           ],
           "answerIndex": 0,
           "explanation": "과거의 반복적 습관을 회상할 때는 '-던(가던)'이 가장 자연스럽습니다."
@@ -7818,8 +7818,8 @@
           "prompt": "마시다 만 커피(아직 다 마시지 않은 커피)를 뜻하는 가장 정확한 관형 수식은?",
           "options": [
             "마시던 커피 (동작이 완료되지 않고 중간에 중단된 상태를 회상할 때는 -던(마시던 커피)을 씁니다.) (과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던'))",
-            "마신 커피 (Target expression (Korean))",
-            "마실 커피 (Target expression (Korean))"
+            "마신 커피) (Context: 과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')",
+            "마실 커피) (Context: 과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')"
           ],
           "answerIndex": 0,
           "explanation": "동작이 완료되지 않고 중간에 중단된 상태를 회상할 때는 '-던(마시던 커피)'을 씁니다."
@@ -7833,8 +7833,8 @@
           "prompt": "'어릴 때 살던 동네'와 '어릴 때 살았던 동네'의 뉘앙스 차이를 가장 올바르게 설명한 것은?",
           "options": [
             "'살던'은 과거의 지속적 거주를 회상하고, '살았던'은 지금은 그곳에 살지 않는 단절된 완료를 강조한다. (-던은 과거의 지속/미완료를, -았던/었던은 현재와의 상태 단절 및 완료를 나타냅니다.) (과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던'))",
-            "'살던'은 미래의 계획이고, '살았던'은 현재의 상태이다. (Target expression (Korean))",
-            "'살던'은 다른 사람의 이야기이고, '살았던'은 나의 이야기이다. (Target expression (Korean))"
+            "'살던'은 미래의 계획이고, '살았던'은 현재의 상태이다.) (Context: 과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')",
+            "'살던'은 다른 사람의 이야기이고, '살았던'은 나의 이야기이다.) (Context: 과거 회상 및 지속 관형형 어미 ('-던' vs '-았던/었던')"
           ],
           "answerIndex": 0,
           "explanation": "'-던'은 과거의 지속/미완료를, '-았던/었던'은 현재와의 상태 단절 및 완료를 나타냅니다."
@@ -7896,8 +7896,8 @@
           "prompt": "'안경을 착용하고 있는 사람'을 관형절로 가장 올바르게 표현한 형태는?",
           "options": [
             "안경을 쓴 사람 (착용 완료 상태의 인물을 묘사할 때는 과거 관형형인 안경을 쓴 사람이 가장 자연스럽습니다.) (Target Korean construction)",
-            "안경을 쓰는 사람 (Target expression (Korean))",
-            "안경을 쓸 사람 (Target expression (Korean))"
+            "안경을 쓰는 사람) (Context: 인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화)",
+            "안경을 쓸 사람) (Context: 인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화)"
           ],
           "answerIndex": 0,
           "explanation": "착용 완료 상태의 인물을 묘사할 때는 과거 관형형인 '안경을 쓴 사람'이 가장 자연스럽습니다."
@@ -7910,8 +7910,8 @@
           "prompt": "다음 복합 수식 문장 중 시제와 수식 관계가 모두 올바른 것은 어느 것입니까?",
           "options": [
             "어제 본 영화는 내가 내일 친구에게 추천할 감동적인 명작이다. (과거(본) + 미래(추천할) + 현재 형용사(감동적인)가 완벽한 시제 일치를 이룹니다.) (Target Korean construction)",
-            "어제 볼 영화는 내가 내일 친구에게 추천한 감동적인 명작이다. (Target expression (Korean))",
-            "어제 보는 영화는 내가 내일 친구에게 추천했던 감동적인 명작이다. (Target expression (Korean))"
+            "어제 볼 영화는 내가 내일 친구에게 추천한 감동적인 명작이다.) (Context: 인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화)",
+            "어제 보는 영화는 내가 내일 친구에게 추천했던 감동적인 명작이다.) (Context: 인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화)"
           ],
           "answerIndex": 0,
           "explanation": "과거('본') + 미래('추천할') + 현재 형용사('감동적인')가 완벽한 시제 일치를 이룹니다."
@@ -7925,8 +7925,8 @@
           "prompt": "다음 중 관형절 수식 구조가 문법적으로 완벽한 문장은?",
           "options": [
             "저기 모자를 쓴 친절한 분이 내가 가장 존경하는 교수님이십니다. (모자를 쓴(상태) + 친절한(형용사) + 존경하는(현재 동사)의 수식 관계가 완벽합니다.) (Target Korean construction)",
-            "저기 모자를 쓰을 친절는 분이 내가 가장 존경한 교수님이십니다. (Target expression (Korean))",
-            "저기 모자를 쓰는 친절한 분이 내가 가장 존경할 교수님이십니다. (Target expression (Korean))"
+            "저기 모자를 쓰을 친절는 분이 내가 가장 존경한 교수님이십니다.) (Context: 인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화)",
+            "저기 모자를 쓰는 친절한 분이 내가 가장 존경할 교수님이십니다.) (Context: 인물 소개, 취향 탐색 및 사물 묘사 실전 복합 수식 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'모자를 쓴(상태)' + '친절한(형용사)' + '존경하는(현재 동사)'의 수식 관계가 완벽합니다."
@@ -7988,8 +7988,8 @@
           "prompt": "'음악을 듣다(listen to music)'를 주어로 만들어 '즐겁다'와 연결할 때 가장 자연스러운 구어 표현은?",
           "options": [
             "음악을 듣는 게 즐거워요. (구어에서 주어 역할을 하는 명사화 축약형은 -는 게(듣는 게)입니다.) (Target Korean construction)",
-            "음악을 듣는 기 즐거워요. (Target expression (Korean))",
-            "음악을 듣음이 즐거워요. (Target expression (Korean))"
+            "음악을 듣는 기 즐거워요.) (Context: 구어적 동작 명사화 어미 ('-는 것'))",
+            "음악을 듣음이 즐거워요.) (Context: 구어적 동작 명사화 어미 ('-는 것'))"
           ],
           "answerIndex": 0,
           "explanation": "구어에서 주어 역할을 하는 명사화 축약형은 '-는 게(듣는 게)'입니다."
@@ -8002,8 +8002,8 @@
           "prompt": "'한국어 공부를 하다'를 목적어('좋아하다')와 자연스럽게 연결한 구어 문장은?",
           "options": [
             "한국어 공부하는 걸 좋아해요. (목적어 역할을 하는 구어 명사화 축약형은 -는 걸(공부하는 걸)입니다.) (Target Korean construction)",
-            "한국어 공부하는 게 좋아해요. (Target expression (Korean))",
-            "한국어 공부하기를 좋아해요이지만 비구어적이에요. (Target expression (Korean))"
+            "한국어 공부하는 게 좋아해요.) (Context: 구어적 동작 명사화 어미 ('-는 것'))",
+            "한국어 공부하기를 좋아해요이지만 비구어적이에요.) (Context: 구어적 동작 명사화 어미 ('-는 것'))"
           ],
           "answerIndex": 0,
           "explanation": "목적어 역할을 하는 구어 명사화 축약형은 '-는 걸(공부하는 걸)'입니다."
@@ -8017,8 +8017,8 @@
           "prompt": "'제 취미는 주말마다 자전거를 _____.' 빈칸에 들어갈 알맞은 서술형 구어 명사화 형태는?",
           "options": [
             "타는 거예요 (문장의 보어/서술어 자리이므로 -는 거예요(타는 거예요)가 정확합니다.) (Target Korean construction)",
-            "타는 걸 (Target expression (Korean))",
-            "타는 게 (Target expression (Korean))"
+            "타는 걸) (Context: 구어적 동작 명사화 어미 ('-는 것'))",
+            "타는 게) (Context: 구어적 동작 명사화 어미 ('-는 것'))"
           ],
           "answerIndex": 0,
           "explanation": "문장의 보어/서술어 자리이므로 '-는 거예요(타는 거예요)'가 정확합니다."
@@ -8082,8 +8082,8 @@
           "prompt": "'출발하다(depart)' 앞에 '전에(before)'를 결합할 때 올바른 형태는 무엇입니까?",
           "options": [
             "출발하기 전에 (전에 앞에는 명사형 어미 -기가 결합하여 출발하기 전에가 됩니다.) (Target Korean construction)",
-            "출발하는 전에 (Target expression (Korean))",
-            "출발함 전에 (Target expression (Korean))"
+            "출발하는 전에) (Context: 격식적 행위/활동 명사화 어미 ('-기'))",
+            "출발함 전에) (Context: 격식적 행위/활동 명사화 어미 ('-기'))"
           ],
           "answerIndex": 0,
           "explanation": "'전에' 앞에는 명사형 어미 '-기'가 결합하여 '출발하기 전에'가 됩니다."
@@ -8096,8 +8096,8 @@
           "prompt": "공식 안내문에서 승객들에게 착석을 요청하는 가장 격식 있는 표현은?",
           "options": [
             "자리에 앉아 주시기 바랍니다. (공식적 요청 관용구는 -아/어 주시기 바랍니다가 표준입니다.) (Target Korean construction)",
-            "자리에 앉아 주는 것을 바랍니다. (Target expression (Korean))",
-            "자리에 앉아 줌을 바랍니다. (Target expression (Korean))"
+            "자리에 앉아 주는 것을 바랍니다.) (Context: 격식적 행위/활동 명사화 어미 ('-기'))",
+            "자리에 앉아 줌을 바랍니다.) (Context: 격식적 행위/활동 명사화 어미 ('-기'))"
           ],
           "answerIndex": 0,
           "explanation": "공식적 요청 관용구는 '-아/어 주시기 바랍니다'가 표준입니다."
@@ -8111,8 +8111,8 @@
           "prompt": "'한국 문화를 깊이 _____ 위해 한국 역사책을 읽고 있습니다.' 빈칸에 알맞은 형태는?",
           "options": [
             "이해하기 (목적을 나타내는 위해 앞에는 -기(이해하기 위해)가 결합합니다.) (Target Korean construction)",
-            "이해하는 (Target expression (Korean))",
-            "이해함 (Target expression (Korean))"
+            "이해하는) (Context: 격식적 행위/활동 명사화 어미 ('-기'))",
+            "이해함) (Context: 격식적 행위/활동 명사화 어미 ('-기'))"
           ],
           "answerIndex": 0,
           "explanation": "목적을 나타내는 '위해' 앞에는 '-기(이해하기 위해)'가 결합합니다."
@@ -8174,8 +8174,8 @@
           "prompt": "시스템 화면에 '재고가 없다'는 사실을 간결하게 표기할 때 가장 표준적인 명사형 종결 표기는?",
           "options": [
             "재고 없음 (시스템 상태나 공식 알림의 명사형 종결은 -(으)ㅁ을 사용하여 재고 없음으로 표기합니다.) (Target Korean construction)",
-            "재고 없기 (Target expression (Korean))",
-            "재고 없는 것 (Target expression (Korean))"
+            "재고 없기) (Context: 서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ'))",
+            "재고 없는 것) (Context: 서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ'))"
           ],
           "answerIndex": 0,
           "explanation": "시스템 상태나 공식 알림의 명사형 종결은 '-(으)ㅁ'을 사용하여 '재고 없음'으로 표기합니다."
@@ -8188,8 +8188,8 @@
           "prompt": "공식 업무 보고 메모에서 '회의를 마쳤다'를 압축하여 서면 명사형으로 종결한 올바른 문장은?",
           "options": [
             "금일 프로젝트 회의 정상 종료함. (서면 업무 보고 명사형 종결체는 -(으)ㅁ(종료함)입니다.) (Target Korean construction)",
-            "금일 프로젝트 회의 정상 종료하기. (Target expression (Korean))",
-            "금일 프로젝트 회의 정상 종료하는 것. (Target expression (Korean))"
+            "금일 프로젝트 회의 정상 종료하기.) (Context: 서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ'))",
+            "금일 프로젝트 회의 정상 종료하는 것.) (Context: 서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ'))"
           ],
           "answerIndex": 0,
           "explanation": "서면 업무 보고 명사형 종결체는 '-(으)ㅁ(종료함)'입니다."
@@ -8203,8 +8203,8 @@
           "prompt": "게시판 공지문 '[알림] 금일 세미나 장소가 301호로 _____.' 빈칸에 가장 알맞은 명사형 종결 표현은?",
           "options": [
             "변경되었음 (과거 완료된 공식 공지 사실의 서면 종결체는 -었음(변경되었음)입니다.) (Target Korean construction)",
-            "변경되었기 (Target expression (Korean))",
-            "변경되는 것 (Target expression (Korean))"
+            "변경되었기) (Context: 서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ'))",
+            "변경되는 것) (Context: 서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ'))"
           ],
           "answerIndex": 0,
           "explanation": "과거 완료된 공식 공지 사실의 서면 종결체는 '-었음(변경되었음)'입니다."
@@ -8266,8 +8266,8 @@
           "prompt": "'바라다(hope/wish)' 앞에 결합할 수 있는 올바른 명사형 어미는 무엇입니까?",
           "options": [
             "-기 (행복하시기를 바랍니다) (바라다는 희망의 동사이므로 명사형 어미 -기와 결합하는 강력한 통사 제약을 가집니다.) (3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교)",
-            "-는 것 (행복하시는 것을 바랍니다) (Target expression (Korean))",
-            "-(으)ㅁ (행복하심을 바랍니다) (Target expression (Korean))"
+            "-는 것 (행복하시는 것을 바랍니다)) (Context: 3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')",
+            "-(으)ㅁ (행복하심을 바랍니다)) (Context: 3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')"
           ],
           "answerIndex": 0,
           "explanation": "'바라다'는 희망의 동사이므로 명사형 어미 '-기'와 결합하는 강력한 통사 제약을 가집니다."
@@ -8280,8 +8280,8 @@
           "prompt": "다음 중 후행 서술어와의 문법적 결합이 올바른 문장은 어느 것입니까?",
           "options": [
             "진실이 밝혀졌음이 법정에서 명백히 인정되었습니다. (법정이나 공식 문서에서 객관적 사실 입증에는 -(으)ㅁ(밝혀졌음이)이 결합합니다.) (3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교)",
-            "진실이 밝혀졌기가 법정에서 명백히 인정되었습니다. (Target expression (Korean))",
-            "진실이 밝혀졌는 걸이 법정에서 명백히 인정되었습니다. (Target expression (Korean))"
+            "진실이 밝혀졌기가 법정에서 명백히 인정되었습니다.) (Context: 3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')",
+            "진실이 밝혀졌는 걸이 법정에서 명백히 인정되었습니다.) (Context: 3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')"
           ],
           "answerIndex": 0,
           "explanation": "법정이나 공식 문서에서 객관적 사실 입증에는 '-(으)ㅁ(밝혀졌음이)'이 결합합니다."
@@ -8295,8 +8295,8 @@
           "prompt": "3대 명사형 어미의 특성을 비교한 설명 중 틀린 것은?",
           "options": [
             "'-는 것'은 공식 공지문의 문장 종결체로 가장 선호된다. (공식 공지문의 간결한 서면 종결체로는 -는 것이 아니라 -(으)ㅁ이 선호됩니다.) (3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교)",
-            "'-기'는 '-기 전에', '-기 위해', '-기 시작하다' 등의 관용구에 필수적으로 쓰인다. (Target expression (Korean))",
-            "'-(으)ㅁ'은 서면 보고서나 시스템 알림에서 종결 형태로 널리 쓰인다. (Target expression (Korean))"
+            "'-기'는 '-기 전에', '-기 위해', '-기 시작하다' 등의 관용구에 필수적으로 쓰인다.) (Context: 3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')",
+            "'-(으)ㅁ'은 서면 보고서나 시스템 알림에서 종결 형태로 널리 쓰인다.) (Context: 3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')"
           ],
           "answerIndex": 0,
           "explanation": "공식 공지문의 간결한 서면 종결체로는 '-는 것'이 아니라 '-(으)ㅁ'이 선호됩니다."
@@ -8358,8 +8358,8 @@
           "prompt": "동료와 대화할 때 '내 취미는 사진 찍기이다'를 가장 자연스럽고 유창하게 표현한 구어 문장은?",
           "options": [
             "제 취미는 여행 가서 사진 찍는 거예요. (구어체에서 자신의 취미를 서술할 때는 -는 거예요(찍는 거예요)가 가장 자연스럽습니다.) (Target Korean construction)",
-            "제 취미는 여행 가서 사진 찍음이에요. (Target expression (Korean))",
-            "제 취미는 여행 가서 사진 찍기임이에요. (Target expression (Korean))"
+            "제 취미는 여행 가서 사진 찍음이에요.) (Context: 취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화)",
+            "제 취미는 여행 가서 사진 찍기임이에요.) (Context: 취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화)"
           ],
           "answerIndex": 0,
           "explanation": "구어체에서 자신의 취미를 서술할 때는 '-는 거예요(찍는 거예요)'가 가장 자연스럽습니다."
@@ -8372,8 +8372,8 @@
           "prompt": "다음 중 사내 공지문으로 어휘와 종결 어미가 가장 격식 있고 자연스러운 것은?",
           "options": [
             "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한됨을 알려 드립니다. (공식 공지문에서는 객관적 사실을 전달하는 제한됨을 알려 드립니다가 완벽합니다.) (Target Korean construction)",
-            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한되는 걸 알려 드립니다. (Target expression (Korean))",
-            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한되기를 알려 드립니다. (Target expression (Korean))"
+            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한되는 걸 알려 드립니다.) (Context: 취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화)",
+            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한되기를 알려 드립니다.) (Context: 취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화)"
           ],
           "answerIndex": 0,
           "explanation": "공식 공지문에서는 객관적 사실을 전달하는 '제한됨을 알려 드립니다'가 완벽합니다."
@@ -8387,8 +8387,8 @@
           "prompt": "다음 대화의 빈칸에 들어갈 알맞은 표현은?\n\"A: 한국어 공부하면서 뭐가 제일 어려워요?\nB: 저는 원어민의 빠른 말을 _____ 제일 어려워요.\"",
           "options": [
             "알아듣는 게 (구어체에서 주어 역할을 하는 알아듣는 게가 가장 자연스럽습니다.) (Target Korean construction)",
-            "알아듣음이 (Target expression (Korean))",
-            "알아듣기가 (Target expression (Korean))"
+            "알아듣음이) (Context: 취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화)",
+            "알아듣기가) (Context: 취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화)"
           ],
           "answerIndex": 0,
           "explanation": "구어체에서 주어 역할을 하는 '알아듣는 게'가 가장 자연스럽습니다."
@@ -8452,8 +8452,8 @@
           "prompt": "'바쁘다(busy)'를 인용하여 '친구가 바쁘다고 한다'를 만들 때 올바른 형태는?",
           "options": [
             "친구가 바쁘다고 해요. (바쁘다는 형용사이므로 어간 뒤에 바로 -다고 하다가 붙어 바쁘다고 해요가 됩니다.) (Target Korean construction)",
-            "친구가 바쁜다고 해요. (Target expression (Korean))",
-            "친구가 바쁘라고 해요. (Target expression (Korean))"
+            "친구가 바쁜다고 해요.) (Context: 평서문 간접화법 ('-다고 하다'))",
+            "친구가 바쁘라고 해요.) (Context: 평서문 간접화법 ('-다고 하다'))"
           ],
           "answerIndex": 0,
           "explanation": "'바쁘다'는 형용사이므로 어간 뒤에 바로 '-다고 하다'가 붙어 '바쁘다고 해요'가 됩니다."
@@ -8466,8 +8466,8 @@
           "prompt": "'내일 서울에 가다'라는 민수의 말을 간접화법으로 정확히 옮긴 문장은?",
           "options": [
             "민수 씨가 내일 서울에 간다고 했어요. (동사 가다의 현재 인용은 받침이 없으므로 -ㄴ다고(간다고)가 결합합니다.) (Target Korean construction)",
-            "민수 씨가 내일 서울에 가다고 했어요. (Target expression (Korean))",
-            "민수 씨가 내일 서울에 가라고 했어요. (Target expression (Korean))"
+            "민수 씨가 내일 서울에 가다고 했어요.) (Context: 평서문 간접화법 ('-다고 하다'))",
+            "민수 씨가 내일 서울에 가라고 했어요.) (Context: 평서문 간접화법 ('-다고 하다'))"
           ],
           "answerIndex": 0,
           "explanation": "동사 '가다'의 현재 인용은 받침이 없으므로 '-ㄴ다고(간다고)'가 결합합니다."
@@ -8481,8 +8481,8 @@
           "prompt": "다음 중 간접화법 형태 결합이 어법에 완벽하게 맞는 문장은?",
           "options": [
             "영수가 지금 도서관에서 책을 읽는다고 말했습니다. (동사 읽다는 받침이 있는 동사이므로 현재형 간접화법은 -는다고(읽는다고)가 맞습니다.) (Target Korean construction)",
-            "영수가 지금 도서관에서 책을 읽다고 말했습니다. (Target expression (Korean))",
-            "영수가 지금 도서관에서 책을 읽은다고 말했습니다. (Target expression (Korean))"
+            "영수가 지금 도서관에서 책을 읽다고 말했습니다.) (Context: 평서문 간접화법 ('-다고 하다'))",
+            "영수가 지금 도서관에서 책을 읽은다고 말했습니다.) (Context: 평서문 간접화법 ('-다고 하다'))"
           ],
           "answerIndex": 0,
           "explanation": "동사 '읽다'는 받침이 있는 동사이므로 현재형 간접화법은 '-는다고(읽는다고)'가 맞습니다."
@@ -8544,8 +8544,8 @@
           "prompt": "\"같이 점심 먹어요!\"라는 제안을 간접화법으로 바르게 전달한 문장은?",
           "options": [
             "친구가 같이 점심을 먹자고 했어요. (함께하자는 청유문 인용은 -자고 하다(먹자고 했어요)를 씁니다.) (Meaning: 같이 점심 먹어요!)",
-            "친구가 같이 점심을 먹는다고 했어요. (Target expression (Korean))",
-            "친구가 같이 점심을 먹으라고 했어요. (Target expression (Korean))"
+            "친구가 같이 점심을 먹는다고 했어요.) (Context: 의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ()",
+            "친구가 같이 점심을 먹으라고 했어요.) (Context: 의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ()"
           ],
           "answerIndex": 0,
           "explanation": "함께하자는 청유문 인용은 '-자고 하다(먹자고 했어요)'를 씁니다."
@@ -8558,8 +8558,8 @@
           "prompt": "\"어디에 살아요?\"라는 질문을 제3자에게 전달할 때 올바른 간접화법은?",
           "options": [
             "어디에 사냐고 물어봤어요. (질문 인용은 -(으)냐고 묻다이며, 살다의 ㄹ이 탈락하여 사냐고 물어봤어요가 됩니다.) (Meaning: 어디에 살아요?)",
-            "어디에 살자고 물어봤어요. (Target expression (Korean))",
-            "어디에 사라고 물어봤어요. (Target expression (Korean))"
+            "어디에 살자고 물어봤어요.) (Context: 의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ()",
+            "어디에 사라고 물어봤어요.) (Context: 의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ()"
           ],
           "answerIndex": 0,
           "explanation": "질문 인용은 '-(으)냐고 묻다'이며, '살다'의 'ㄹ'이 탈락하여 '사냐고 물어봤어요'가 됩니다."
@@ -8573,8 +8573,8 @@
           "prompt": "다음 중 의문문 간접화법과 제안문 간접화법의 결합이 모두 완벽한 것은?",
           "options": [
             "지우가 오늘 영화를 보냐고 물어보며 주말에 같이 보자고 했어요. (의문 인용 보냐고 물어보다 + 제안 인용 보자고 하다의 배합이 완벽합니다.) (Target Korean construction)",
-            "지우가 오늘 영화를 보라고 물어보며 주말에 같이 보다고 했어요. (Target expression (Korean))",
-            "지우가 오늘 영화를 보다고 물어보며 주말에 같이 보냐고 했어요. (Target expression (Korean))"
+            "지우가 오늘 영화를 보라고 물어보며 주말에 같이 보다고 했어요.) (Context: 의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ()",
+            "지우가 오늘 영화를 보다고 물어보며 주말에 같이 보냐고 했어요.) (Context: 의문문 간접화법 ('-(으)냐고 하다') 및 제안문 간접화법 ()"
           ],
           "answerIndex": 0,
           "explanation": "의문 인용 '보냐고 물어보다' + 제안 인용 '보자고 하다'의 배합이 완벽합니다."
@@ -8636,8 +8636,8 @@
           "prompt": "민수가 지우에게 \"나에게 펜을 빌려줘\"라고 한 말을 전달할 때 올바른 형태는?",
           "options": [
             "민수가 지우에게 펜을 빌려 달라고 했어요. (말하는 사람 자신(민수)에게 해 달라는 요청이므로 -아/어 달라고 하다가 정확합니다.) (Meaning: 나에게 펜을 빌려줘)",
-            "민수가 지우에게 펜을 빌려 주라고 했어요. (Target expression (Korean))",
-            "민수가 지우에게 펜을 빌리자고 했어요. (Target expression (Korean))"
+            "민수가 지우에게 펜을 빌려 주라고 했어요.) (Context: 명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 )",
+            "민수가 지우에게 펜을 빌리자고 했어요.) (Context: 명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 )"
           ],
           "answerIndex": 0,
           "explanation": "말하는 사람 자신(민수)에게 해 달라는 요청이므로 '-아/어 달라고 하다'가 정확합니다."
@@ -8650,8 +8650,8 @@
           "prompt": "어머니께서 나에게 \"동생에게 사탕을 나누어 줘라\"라고 하신 말을 간접화법으로 바르게 표현한 것은?",
           "options": [
             "어머니께서 동생에게 사탕을 나누어 주라고 하셨어요. (제3자(동생)를 위해 행동하라는 명령이므로 -아/어 주라고 하다가 맞습니다.) (Meaning: 동생에게 사탕을 나누어 줘라)",
-            "어머니께서 동생에게 사탕을 나누어 달라고 하셨어요. (Target expression (Korean))",
-            "어머니께서 동생에게 사탕을 나누자고 하셨어요. (Target expression (Korean))"
+            "어머니께서 동생에게 사탕을 나누어 달라고 하셨어요.) (Context: 명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 )",
+            "어머니께서 동생에게 사탕을 나누자고 하셨어요.) (Context: 명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 )"
           ],
           "answerIndex": 0,
           "explanation": "제3자(동생)를 위해 행동하라는 명령이므로 '-아/어 주라고 하다'가 맞습니다."
@@ -8665,8 +8665,8 @@
           "prompt": "부정 명령(\"회의에 늦지 마세요\")을 간접화법으로 옮긴 가장 올바른 형태는?",
           "options": [
             "회의에 늦지 말라고 하셨어요. (부정 명령 간접화법의 표준형은 -지 말라고 하다입니다.) (Meaning: 회의에 늦지 마세요)",
-            "회의에 늦지 마라고 하셨어요. (Target expression (Korean))",
-            "회의에 늦지 않는다고 하셨어요. (Target expression (Korean))"
+            "회의에 늦지 마라고 하셨어요.) (Context: 명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 )",
+            "회의에 늦지 않는다고 하셨어요.) (Context: 명령문/요청문 간접화법 ('-(으)라고 하다' vs '-아/어 )"
           ],
           "answerIndex": 0,
           "explanation": "부정 명령 간접화법의 표준형은 '-지 말라고 하다'입니다."
@@ -8728,8 +8728,8 @@
           "prompt": "\"민수가 지금 밥을 먹는다고 해요\"를 자연스러운 일상 구어 축약형으로 바꾼 것은?",
           "options": [
             "민수가 지금 밥을 먹는대요. (-는다고 해요의 축약형은 -는대요(먹는대요)입니다.) (Meaning: 민수가 지금 밥을 먹는다고 해요)",
-            "민수가 지금 밥을 먹재요. (Target expression (Korean))",
-            "민수가 지금 밥을 먹으래요. (Target expression (Korean))"
+            "민수가 지금 밥을 먹재요.) (Context: 일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래)",
+            "민수가 지금 밥을 먹으래요.) (Context: 일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래)"
           ],
           "answerIndex": 0,
           "explanation": "'-는다고 해요'의 축약형은 '-는대요(먹는대요)'입니다."
@@ -8742,8 +8742,8 @@
           "prompt": "\"영수가 같이 영화를 보자고 해요\"를 올바른 구어 축약형으로 나타낸 문장은?",
           "options": [
             "영수가 같이 영화를 보재요. (제안의 축약형은 -재요(보재요)입니다.) (Meaning: 영수가 같이 영화를 보자고 해요)",
-            "영수가 같이 영화를 보래요. (Target expression (Korean))",
-            "영수가 같이 영화를 보냬요. (Target expression (Korean))"
+            "영수가 같이 영화를 보래요.) (Context: 일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래)",
+            "영수가 같이 영화를 보냬요.) (Context: 일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래)"
           ],
           "answerIndex": 0,
           "explanation": "제안의 축약형은 '-재요(보재요)'입니다."
@@ -8757,8 +8757,8 @@
           "prompt": "다음 축약형 연결 중 짝지음이 잘못된 것은?",
           "options": [
             "가라고 해요 → 가대요 (가라고 해요(명령)의 축약형은 가래요이며, 가대요는 간다고 해요의 잘못된 축약입니다.) (Target Korean construction)",
-            "가자고 해요 → 가재요 (Target expression (Korean))",
-            "가냐고 해요 → 가냬요 (Target expression (Korean))"
+            "가자고 해요 → 가재요) (Context: 일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래)",
+            "가냐고 해요 → 가냬요) (Context: 일상 회화 속 간접화법 축약형 ('-대요', '-재요', '-래)"
           ],
           "answerIndex": 0,
           "explanation": "'가라고 해요(명령)'의 축약형은 '가래요'이며, '가대요'는 '간다고 해요'의 잘못된 축약입니다."
@@ -8820,8 +8820,8 @@
           "prompt": "상사의 지시 사항(\"보고서를 3시까지 제출하세요\")을 동료에게 전달하는 가장 자연스러운 구어 표현은?",
           "options": [
             "팀장님께서 보고서를 3시까지 제출하래요. (명령/지시 축약형은 -래요(제출하래요)입니다.) (Meaning: 보고서를 3시까지 제출하세요)",
-            "팀장님께서 보고서를 3시까지 제출하재요. (Target expression (Korean))",
-            "팀장님께서 보고서를 3시까지 제출한대요. (Target expression (Korean))"
+            "팀장님께서 보고서를 3시까지 제출하재요.) (Context: 소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화)",
+            "팀장님께서 보고서를 3시까지 제출한대요.) (Context: 소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화)"
           ],
           "answerIndex": 0,
           "explanation": "명령/지시 축약형은 '-래요(제출하래요)'입니다."
@@ -8834,8 +8834,8 @@
           "prompt": "전화 전언 메모 중 간접화법과 높임법이 가장 완벽하게 조화된 문장은?",
           "options": [
             "거래처 대표님께서 회의 자료를 미리 검토해 보시라고 전해 달라고 하셨습니다. (존칭 명령(보시라고) + 부탁 전달(전해 달라고 하셨습니다)의 조합이 가장 품격 있습니다.) (Target Korean construction)",
-            "거래처 대표님께서 회의 자료를 미리 검토해 보라고 전해 달라고 하였습니다. (Target expression (Korean))",
-            "거래처 대표님께서 회의 자료를 미리 검토해 보자고 전해 주라고 하셨습니다. (Target expression (Korean))"
+            "거래처 대표님께서 회의 자료를 미리 검토해 보라고 전해 달라고 하였습니다.) (Context: 소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화)",
+            "거래처 대표님께서 회의 자료를 미리 검토해 보자고 전해 주라고 하셨습니다.) (Context: 소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화)"
           ],
           "answerIndex": 0,
           "explanation": "존칭 명령('보시라고') + 부탁 전달('전해 달라고 하셨습니다')의 조합이 가장 품격 있습니다."
@@ -8849,8 +8849,8 @@
           "prompt": "다음 대화의 빈칸에 들어갈 알맞은 전달 표현은?\n\"A: 민수 씨가 왜 안 와요?\nB: 지금 길이 너무 _____ 조금만 기다려 달래요.\"",
           "options": [
             "막힌다고 (길이 막힌다는 평서문 사실 전달이므로 막힌다고가 정확합니다.) (Target Korean construction)",
-            "막히자고 (Target expression (Korean))",
-            "막히라고 (Target expression (Korean))"
+            "막히자고) (Context: 소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화)",
+            "막히라고) (Context: 소문 전달, 전언 메모 및 회의 전달 보고 실전 간접화법 담화)"
           ],
           "answerIndex": 0,
           "explanation": "길이 막힌다는 평서문 사실 전달이므로 '막힌다고'가 정확합니다."
@@ -8912,8 +8912,8 @@
           "prompt": "'듣다(hear)'의 올바른 단형 피동사 형태는 무엇입니까?",
           "options": [
             "들리다 (듣다의 피동사는 ㄷ이 ㄹ로 바뀌고 -리-가 붙어 들리다가 됩니다.) (Target Korean construction)",
-            "듣히다 (Target expression (Korean))",
-            "듣기다 (Target expression (Korean))"
+            "듣히다) (Context: 단형 피동 접미사 ('-이/히/리/기-'))",
+            "듣기다) (Context: 단형 피동 접미사 ('-이/히/리/기-'))"
           ],
           "answerIndex": 0,
           "explanation": "'듣다'의 피동사는 'ㄷ'이 'ㄹ'로 바뀌고 '-리-'가 붙어 '들리다'가 됩니다."
@@ -8926,8 +8926,8 @@
           "prompt": "'경찰이 도둑을 잡았다(능동)'를 피동문으로 바르게 전환한 문장은?",
           "options": [
             "도둑이 경찰에게 잡혔다. (주어 도둑이, 행위자 경찰에게, 피동사 잡히다(잡혔다)의 구조가 완벽합니다.) (Target Korean construction)",
-            "도둑이 경찰에게 잡았다. (Target expression (Korean))",
-            "도둑이 경찰에게 잡렸다. (Target expression (Korean))"
+            "도둑이 경찰에게 잡았다.) (Context: 단형 피동 접미사 ('-이/히/리/기-'))",
+            "도둑이 경찰에게 잡렸다.) (Context: 단형 피동 접미사 ('-이/히/리/기-'))"
           ],
           "answerIndex": 0,
           "explanation": "주어 '도둑이', 행위자 '경찰에게', 피동사 '잡히다(잡혔다)'의 구조가 완벽합니다."
@@ -8941,8 +8941,8 @@
           "prompt": "'문이 바람에 저절로 _____.' 빈칸에 알맞은 피동사 형태는?",
           "options": [
             "닫혔어요 (닫다의 피동사는 -히-가 결합하여 닫히다(닫혔어요)가 됩니다.) (Target Korean construction)",
-            "닫았어요 (Target expression (Korean))",
-            "닫겼어요 (Target expression (Korean))"
+            "닫았어요) (Context: 단형 피동 접미사 ('-이/히/리/기-'))",
+            "닫겼어요) (Context: 단형 피동 접미사 ('-이/히/리/기-'))"
           ],
           "answerIndex": 0,
           "explanation": "'닫다'의 피동사는 '-히-'가 결합하여 '닫히다(닫혔어요)'가 됩니다."
@@ -9004,8 +9004,8 @@
           "prompt": "'만들다(make)'의 올바른 장형 피동 형태는 무엇입니까?",
           "options": [
             "만들어지다 (만들다는 3음절 이상 용언으로 접미사가 붙지 않고 -어지다가 붙어 만들어지다가 됩니다.) (Target Korean construction)",
-            "만들이다 (Target expression (Korean))",
-            "만들히다 (Target expression (Korean))"
+            "만들이다) (Context: 장형 통사적 피동 어미 ('-아/어지다'))",
+            "만들히다) (Context: 장형 통사적 피동 어미 ('-아/어지다'))"
           ],
           "answerIndex": 0,
           "explanation": "'만들다'는 3음절 이상 용언으로 접미사가 붙지 않고 '-어지다'가 붙어 '만들어지다'가 됩니다."
@@ -9018,8 +9018,8 @@
           "prompt": "'회의 날짜를 정했다'를 피동문으로 전환하여 일정이 결정되었음을 나타낸 올바른 문장은?",
           "options": [
             "회의 날짜가 정해졌습니다. (정하다에 -아/어지다가 결합하여 정해지다(정해졌습니다)가 됩니다.) (Target Korean construction)",
-            "회의 날짜가 정했습니다. (Target expression (Korean))",
-            "회의 날짜가 정히였습니다. (Target expression (Korean))"
+            "회의 날짜가 정했습니다.) (Context: 장형 통사적 피동 어미 ('-아/어지다'))",
+            "회의 날짜가 정히였습니다.) (Context: 장형 통사적 피동 어미 ('-아/어지다'))"
           ],
           "answerIndex": 0,
           "explanation": "'정하다'에 '-아/어지다'가 결합하여 '정해지다(정해졌습니다)'가 됩니다."
@@ -9033,8 +9033,8 @@
           "prompt": "다음 중 '-아/어지다' 피동 표현의 결합이 어법상 가장 자연스러운 것은?",
           "options": [
             "도저히 꿈같아서 사실이라고 믿어지지 않아요. (믿다의 자연스러운 피동 표현은 믿어지다입니다.) (Target Korean construction)",
-            "도저히 꿈같아서 사실이라고 믿히지 않아요. (Target expression (Korean))",
-            "도저히 꿈같아서 사실이라고 믿리지 않아요. (Target expression (Korean))"
+            "도저히 꿈같아서 사실이라고 믿히지 않아요.) (Context: 장형 통사적 피동 어미 ('-아/어지다'))",
+            "도저히 꿈같아서 사실이라고 믿리지 않아요.) (Context: 장형 통사적 피동 어미 ('-아/어지다'))"
           ],
           "answerIndex": 0,
           "explanation": "'믿다'의 자연스러운 피동 표현은 '믿어지다'입니다."
@@ -9096,8 +9096,8 @@
           "prompt": "외부 인사 발령으로 인해 부산으로 전근 가게 되었음을 표현한 가장 알맞은 문장은?",
           "options": [
             "다음 달부터 부산에서 근무하게 되었습니다. (외부 결정이나 상황에 의한 상태 변화는 -게 되다(근무하게 되었습니다)를 씁니다.) (Target Korean construction)",
-            "다음 달부터 부산에서 근무하게 했습니다. (Target expression (Korean))",
-            "다음 달부터 부산에서 근무하게 보았습니다. (Target expression (Korean))"
+            "다음 달부터 부산에서 근무하게 했습니다.) (Context: 상황적·결과적 피동 ('-게 되다'))",
+            "다음 달부터 부산에서 근무하게 보았습니다.) (Context: 상황적·결과적 피동 ('-게 되다'))"
           ],
           "answerIndex": 0,
           "explanation": "외부 결정이나 상황에 의한 상태 변화는 '-게 되다(근무하게 되었습니다)'를 씁니다."
@@ -9110,8 +9110,8 @@
           "prompt": "'한국 문화를 깊이 알다'를 점진적 인식 변화 구문으로 나타낸 가장 자연스러운 표현은?",
           "options": [
             "한국 문화를 점차 깊이 알게 되었습니다. (동사 알다와 -게 되다가 결합하여 알게 되었습니다가 됩니다.) (Target Korean construction)",
-            "한국 문화를 점차 깊이 알게 시켰습니다. (Target expression (Korean))",
-            "한국 문화를 점차 깊이 알아지게 되었습니다. (Target expression (Korean))"
+            "한국 문화를 점차 깊이 알게 시켰습니다.) (Context: 상황적·결과적 피동 ('-게 되다'))",
+            "한국 문화를 점차 깊이 알아지게 되었습니다.) (Context: 상황적·결과적 피동 ('-게 되다'))"
           ],
           "answerIndex": 0,
           "explanation": "동사 '알다'와 '-게 되다'가 결합하여 '알게 되었습니다'가 됩니다."
@@ -9125,8 +9125,8 @@
           "prompt": "다음 중 '-게 되다'의 화용론적 쓰임새로 가장 알맞은 설명은?",
           "options": [
             "개인의 독단적 고집보다는 외부 환경, 결정, 자연스러운 과정의 결과를 겸손히 드러낸다. (-게 되다는 외부 상황의 귀결이나 자연스러운 변화 국면을 나타냅니다.) (Target Korean construction)",
-            "다른 사람에게 강제로 행동을 지시할 때 쓴다. (Target expression (Korean))",
-            "과거에 완료하지 못한 일을 후회할 때 쓴다. (Target expression (Korean))"
+            "다른 사람에게 강제로 행동을 지시할 때 쓴다.) (Context: 상황적·결과적 피동 ('-게 되다'))",
+            "과거에 완료하지 못한 일을 후회할 때 쓴다.) (Context: 상황적·결과적 피동 ('-게 되다'))"
           ],
           "answerIndex": 0,
           "explanation": "'-게 되다'는 외부 상황의 귀결이나 자연스러운 변화 국면을 나타냅니다."
@@ -9188,8 +9188,8 @@
           "prompt": "'부르다(call)'의 올바른 단일 피동 표준어 형태는 무엇입니까?",
           "options": [
             "불리다 (부르다의 올바른 피동사는 불리다이며, 불려지다는 이중 피동 오류입니다.) (Target Korean construction)",
-            "불려지다 (Target expression (Korean))",
-            "부르어지다 (Target expression (Korean))"
+            "불려지다) (Context: 피동태의 격 표지 전환 및 이중 피동 오류 교정)",
+            "부르어지다) (Context: 피동태의 격 표지 전환 및 이중 피동 오류 교정)"
           ],
           "answerIndex": 0,
           "explanation": "'부르다'의 올바른 피동사는 '불리다'이며, '불려지다'는 이중 피동 오류입니다."
@@ -9202,8 +9202,8 @@
           "prompt": "다음 중 이중 피동 오류가 없는 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
             "세월이 흘러도 그의 이름은 영원히 잊히지 않을 것입니다. (잊히다는 단일 피동형으로 어법에 완벽하게 부합합니다 (*잊혀지다는 비문).) (Target Korean construction)",
-            "세월이 흘러도 그의 이름은 영원히 잊혀지지 않을 것입니다. (Target expression (Korean))",
-            "세월이 흘러도 그의 이름은 영원히 잊히어지지 않을 것입니다. (Target expression (Korean))"
+            "세월이 흘러도 그의 이름은 영원히 잊혀지지 않을 것입니다.) (Context: 피동태의 격 표지 전환 및 이중 피동 오류 교정)",
+            "세월이 흘러도 그의 이름은 영원히 잊히어지지 않을 것입니다.) (Context: 피동태의 격 표지 전환 및 이중 피동 오류 교정)"
           ],
           "answerIndex": 0,
           "explanation": "'잊히다'는 단일 피동형으로 어법에 완벽하게 부합합니다 (*'잊혀지다'는 비문)."
@@ -9217,8 +9217,8 @@
           "prompt": "다음 중 올바른 피동형 짝지음이 아닌 것은?",
           "options": [
             "닫다 → 닫혀지다 (닫다의 피동사는 닫히다이며, 닫혀지다는 이중 피동 오류입니다.) (Target Korean construction)",
-            "닫다 → 닫히다 (Target expression (Korean))",
-            "쓰다 → 쓰이다 (Target expression (Korean))"
+            "닫다 → 닫히다) (Context: 피동태의 격 표지 전환 및 이중 피동 오류 교정)",
+            "쓰다 → 쓰이다) (Context: 피동태의 격 표지 전환 및 이중 피동 오류 교정)"
           ],
           "answerIndex": 0,
           "explanation": "'닫다'의 피동사는 '닫히다'이며, '닫혀지다'는 이중 피동 오류입니다."
@@ -9280,8 +9280,8 @@
           "prompt": "분실물 센터에서 가방의 상태를 설명할 때 '필통이 가방에 끼워져 있다'를 나타내는 가장 올바른 표현은?",
           "options": [
             "앞주머니에 파란 필통이 꽂혀 있어요. (꽂다의 단일 피동사 꽂히다에 완료 상태 -어 있다가 붙어 꽂혀 있어요가 정확합니다.) (Target Korean construction)",
-            "앞주머니에 파란 필통이 꽂아 있어요. (Target expression (Korean))",
-            "앞주머니에 파란 필통이 꽂혀져 있어요. (Target expression (Korean))"
+            "앞주머니에 파란 필통이 꽂아 있어요.) (Context: 사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담)",
+            "앞주머니에 파란 필통이 꽂혀져 있어요.) (Context: 사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담)"
           ],
           "answerIndex": 0,
           "explanation": "'꽂다'의 단일 피동사 '꽂히다'에 완료 상태 '-어 있다'가 붙어 '꽂혀 있어요'가 정확합니다."
@@ -9294,8 +9294,8 @@
           "prompt": "뉴스 보도문 중 피동과 원인 격조사가 가장 정확하게 쓰인 문장은 어느 것입니까?",
           "options": [
             "강한 태풍으로 인해 해안가 도로가 침수되었습니다. (원인(태풍으로 인해) + 피동 주어(도로가) + 피동 서술어(침수되었습니다)의 구성이 완벽합니다.) (Target Korean construction)",
-            "강한 태풍으로 인해 해안가 도로를 침수되었습니다. (Target expression (Korean))",
-            "강한 태풍으로 인해 해안가 도로가 침수하게 되었습니다. (Target expression (Korean))"
+            "강한 태풍으로 인해 해안가 도로를 침수되었습니다.) (Context: 사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담)",
+            "강한 태풍으로 인해 해안가 도로가 침수하게 되었습니다.) (Context: 사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담)"
           ],
           "answerIndex": 0,
           "explanation": "원인('태풍으로 인해') + 피동 주어('도로가') + 피동 서술어('침수되었습니다')의 구성이 완벽합니다."
@@ -9309,8 +9309,8 @@
           "prompt": "다음 중 문맥과 피동 표현이 가장 자연스러운 문장은?",
           "options": [
             "창문을 여니 멀리 산봉우리가 한눈에 보이고 맑은 바람이 느껴집니다. (보이다(단형 피동) + 느껴지다(장형 피동)의 배합이 완벽합니다.) (Target Korean construction)",
-            "창문을 여니 멀리 산봉우리가 한눈에 보아지고 맑은 바람이 느끼어집니다. (Target expression (Korean))",
-            "창문을 여니 멀리 산봉우리가 한눈에 보여지고 맑은 바람이 느껴지게 합니다. (Target expression (Korean))"
+            "창문을 여니 멀리 산봉우리가 한눈에 보아지고 맑은 바람이 느끼어집니다.) (Context: 사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담)",
+            "창문을 여니 멀리 산봉우리가 한눈에 보여지고 맑은 바람이 느껴지게 합니다.) (Context: 사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담)"
           ],
           "answerIndex": 0,
           "explanation": "'보이다(단형 피동)' + '느껴지다(장형 피동)'의 배합이 완벽합니다."
@@ -9372,8 +9372,8 @@
           "prompt": "'자다(sleep)'의 올바른 사동사 형태(put to sleep)는 무엇입니까?",
           "options": [
             "재우다 (자다의 사동사는 -이우-가 결합하여 축약된 재우다입니다.) (Target Korean construction)",
-            "자이다 (Target expression (Korean))",
-            "자기다 (Target expression (Korean))"
+            "자이다) (Context: 단형 사동 접미사 ('-이/히/리/기/우/추-'))",
+            "자기다) (Context: 단형 사동 접미사 ('-이/히/리/기/우/추-'))"
           ],
           "answerIndex": 0,
           "explanation": "'자다'의 사동사는 '-이우-'가 결합하여 축약된 '재우다'입니다."
@@ -9386,8 +9386,8 @@
           "prompt": "'출발 시간을 뒤로 미루다'의 의미로 '늦다'의 사동사를 알맞게 활용한 문장은?",
           "options": [
             "회의 시작 일정을 한 시간 늦췄습니다. (늦다에 사동 접미사 -추-가 결합하여 늦추다(늦췄습니다)가 됩니다.) (Target Korean construction)",
-            "회의 시작 일정을 한 시간 늦였습니다. (Target expression (Korean))",
-            "회의 시작 일정을 한 시간 늦렸습니다. (Target expression (Korean))"
+            "회의 시작 일정을 한 시간 늦였습니다.) (Context: 단형 사동 접미사 ('-이/히/리/기/우/추-'))",
+            "회의 시작 일정을 한 시간 늦렸습니다.) (Context: 단형 사동 접미사 ('-이/히/리/기/우/추-'))"
           ],
           "answerIndex": 0,
           "explanation": "'늦다'에 사동 접미사 '-추-'가 결합하여 '늦추다(늦췄습니다)'가 됩니다."
@@ -9401,8 +9401,8 @@
           "prompt": "다음 중 사동 접미사의 결합이 올바르게 짝지어진 것은?",
           "options": [
             "웃다 → 웃기다 (웃다의 사동사는 -기-가 붙어 웃기다가 됩니다.) (Target Korean construction)",
-            "웃다 → 웃히다 (Target expression (Korean))",
-            "웃다 → 웃리다 (Target expression (Korean))"
+            "웃다 → 웃히다) (Context: 단형 사동 접미사 ('-이/히/리/기/우/추-'))",
+            "웃다 → 웃리다) (Context: 단형 사동 접미사 ('-이/히/리/기/우/추-'))"
           ],
           "answerIndex": 0,
           "explanation": "'웃다'의 사동사는 '-기-'가 붙어 '웃기다'가 됩니다."
@@ -9464,8 +9464,8 @@
           "prompt": "상대방을 밖에서 기다리게 한 것에 대해 정중히 사과하는 가장 알맞은 표현은?",
           "options": [
             "오래 기다리게 해서 죄송합니다. (내가 상대방을 기다리도록 유발한 사동 상황이므로 기다리게 해서 죄송합니다가 올바릅니다.) (Target Korean construction)",
-            "오래 기다려지게 해서 죄송합니다. (Target expression (Korean))",
-            "오래 기다리게 돼서 죄송합니다. (Target expression (Korean))"
+            "오래 기다려지게 해서 죄송합니다.) (Context: 장형 통사적 사동 어미 ('-게 하다'))",
+            "오래 기다리게 돼서 죄송합니다.) (Context: 장형 통사적 사동 어미 ('-게 하다'))"
           ],
           "answerIndex": 0,
           "explanation": "내가 상대방을 기다리도록 유발한 사동 상황이므로 '기다리게 해서 죄송합니다'가 올바릅니다."
@@ -9478,8 +9478,8 @@
           "prompt": "'팀장님이 직원들에게 보고서를 다시 쓰도록 지시했다'를 '-게 하다' 구문으로 바르게 나타낸 문장은?",
           "options": [
             "팀장님께서 직원들에게 보고서를 다시 쓰게 하셨습니다. (사동주 팀장님께서, 피사동자 직원들에게, 사동 어미 쓰게 하셨습니다의 구조가 완벽합니다.) (Target Korean construction)",
-            "팀장님께서 직원들에게 보고서를 다시 써지게 하셨습니다. (Target expression (Korean))",
-            "팀장님께서 직원들에게 보고서를 다시 쓰이게 되었습니다. (Target expression (Korean))"
+            "팀장님께서 직원들에게 보고서를 다시 써지게 하셨습니다.) (Context: 장형 통사적 사동 어미 ('-게 하다'))",
+            "팀장님께서 직원들에게 보고서를 다시 쓰이게 되었습니다.) (Context: 장형 통사적 사동 어미 ('-게 하다'))"
           ],
           "answerIndex": 0,
           "explanation": "사동주 '팀장님께서', 피사동자 '직원들에게', 사동 어미 '쓰게 하셨습니다'의 구조가 완벽합니다."
@@ -9493,8 +9493,8 @@
           "prompt": "다음 중 '-게 하다'의 문법적 설명으로 틀린 것은?",
           "options": [
             "오직 1음절 자동사에만 제한적으로 결합할 수 있다. (-게 하다는 모든 동사와 형용사에 제약 없이 폭넓게 결합할 수 있는 통사적 사동 어미입니다.) (Target Korean construction)",
-            "동사와 형용사 어간에 결합하여 장형 사동을 구성한다. (Target expression (Korean))",
-            "피사동자에게 동작을 하도록 지시, 허용, 유도하는 의미를 지닌다. (Target expression (Korean))"
+            "동사와 형용사 어간에 결합하여 장형 사동을 구성한다.) (Context: 장형 통사적 사동 어미 ('-게 하다'))",
+            "피사동자에게 동작을 하도록 지시, 허용, 유도하는 의미를 지닌다.) (Context: 장형 통사적 사동 어미 ('-게 하다'))"
           ],
           "answerIndex": 0,
           "explanation": "'-게 하다'는 모든 동사와 형용사에 제약 없이 폭넓게 결합할 수 있는 통사적 사동 어미입니다."
@@ -9555,9 +9555,9 @@
         {
           "prompt": "친구에게 새로운 동료를 인사시킬 때 가장 바른 표준어 표현은 무엇입니까?",
           "options": [
-            "제 친구를 소개해 드릴게요. (Target expression (Korean))",
-            "제 친구를 소개시켜 드릴게요. (Target expression (Korean))",
-            "제 친구를 소개시키어 드릴게요. (Target expression (Korean))"
+            "제 친구를 소개해 드릴게요.) (Korean grammar and vocabulary (ko-u20-l3))",
+            "제 친구를 소개시켜 드릴게요.) (Context: 한자어 사동 접미사 ('-시키다')와 오용 방지)",
+            "제 친구를 소개시키어 드릴게요.) (Context: 한자어 사동 접미사 ('-시키다')와 오용 방지)"
           ],
           "answerIndex": 0,
           "explanation": "주어가 직접 대상을 소개하는 능동 동작이므로 '소개해 드릴게요'가 바른 표준어입니다 (*'소개시켜'는 남용 오류)."
@@ -9570,8 +9570,8 @@
           "prompt": "사동 접미사 '-시키다'가 문맥상 가장 정확하고 바르게 사용된 문장은 어느 것입니까?",
           "options": [
             "교수님께서 명쾌한 논리로 학생들을 깊이 이해시키셨습니다. (이해시키다는 남으로 하여금 이해하게 만드는 타당한 사동사입니다 (주문하다/주차하다는 능동이 바른말).) (Target Korean construction)",
-            "제가 점심 메뉴로 맛있는 비빔밥을 주문시켰습니다. (Target expression (Korean))",
-            "퇴근길에 아파트 지하 주차장에 차를 안전하게 주차시켰습니다. (Target expression (Korean))"
+            "제가 점심 메뉴로 맛있는 비빔밥을 주문시켰습니다.) (Context: 한자어 사동 접미사 ('-시키다')와 오용 방지)",
+            "퇴근길에 아파트 지하 주차장에 차를 안전하게 주차시켰습니다.) (Context: 한자어 사동 접미사 ('-시키다')와 오용 방지)"
           ],
           "answerIndex": 0,
           "explanation": "'이해시키다'는 남으로 하여금 이해하게 만드는 타당한 사동사입니다 (주문하다/주차하다는 능동이 바른말)."
@@ -9585,8 +9585,8 @@
           "prompt": "다음 중 '-시키다'의 불필요한 오용이 없는 완벽한 문장은?",
           "options": [
             "새 학기를 맞아 전공 과목 수강 신청을 마쳤습니다. (자신이 직접 행한 동작이므로 수강 신청을 마쳤습니다/신청했습니다가 가장 바른 표현입니다.) (Target Korean construction)",
-            "새 학기를 맞아 전공 과목 수강 신청을 접수시켰습니다. (Target expression (Korean))",
-            "새 학기를 맞아 전공 과목 수강 신청을 완료시켰습니다. (Target expression (Korean))"
+            "새 학기를 맞아 전공 과목 수강 신청을 접수시켰습니다.) (Context: 한자어 사동 접미사 ('-시키다')와 오용 방지)",
+            "새 학기를 맞아 전공 과목 수강 신청을 완료시켰습니다.) (Context: 한자어 사동 접미사 ('-시키다')와 오용 방지)"
           ],
           "answerIndex": 0,
           "explanation": "자신이 직접 행한 동작이므로 '수강 신청을 마쳤습니다/신청했습니다'가 가장 바른 표현입니다."
@@ -9648,8 +9648,8 @@
           "prompt": "다음 중 '보이다'가 사동사(to show)로 쓰인 문장은 어느 것입니까?",
           "options": [
             "친구에게 어제 찍은 가족사진을 보여 주었습니다. (목적어(가족사진을)를 취하고 남에게 보게 만드는 사동 의미이므로 보여 주었습니다가 사동사입니다.) (직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)",
-            "맑은 날에는 창밖으로 남산타워가 똑똑히 보입니다. (Target expression (Korean))",
-            "먼 바다 위로 수평선이 아련하게 보입니다. (Target expression (Korean))"
+            "맑은 날에는 창밖으로 남산타워가 똑똑히 보입니다.) (Context: 직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)",
+            "먼 바다 위로 수평선이 아련하게 보입니다.) (Context: 직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)"
           ],
           "answerIndex": 0,
           "explanation": "목적어('가족사진을')를 취하고 남에게 보게 만드는 사동 의미이므로 '보여 주었습니다'가 사동사입니다."
@@ -9662,8 +9662,8 @@
           "prompt": "'아버지가 아이에게 신발을 스스로 신도록 유도했다'를 나타내는 간접 사동 표현은?",
           "options": [
             "아버지가 아이에게 신발을 스스로 신게 하셨다. (스스로 신도록 지시/유도하는 간접 사동은 -게 하다(신게 하셨다)입니다.) (직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)",
-            "아버지가 아이에게 신발을 직접 신기셨다. (Target expression (Korean))",
-            "아버지가 아이에게 신발이 신겨졌다. (Target expression (Korean))"
+            "아버지가 아이에게 신발을 직접 신기셨다.) (Context: 직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)",
+            "아버지가 아이에게 신발이 신겨졌다.) (Context: 직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)"
           ],
           "answerIndex": 0,
           "explanation": "스스로 신도록 지시/유도하는 간접 사동은 '-게 하다(신게 하셨다)'입니다."
@@ -9677,8 +9677,8 @@
           "prompt": "다음 중 직접 신체적으로 아기에게 음식을 떠먹이는 직접 사동 문장은?",
           "options": [
             "어머니가 아기에게 이유식을 먹이셨다. (단형 사동 접미사 먹이다가 직접 음식을 입에 넣어 주는 직접 사동을 나타냅니다.) (직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)",
-            "어머니가 아기에게 이유식을 먹게 하셨다. (Target expression (Korean))",
-            "어머니가 아기에게 이유식을 먹도록 지시하셨다. (Target expression (Korean))"
+            "어머니가 아기에게 이유식을 먹게 하셨다.) (Context: 직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)",
+            "어머니가 아기에게 이유식을 먹도록 지시하셨다.) (Context: 직접 사동 vs 간접 사동 및 피동/사동 동형어 구별)"
           ],
           "answerIndex": 0,
           "explanation": "단형 사동 접미사 '먹이다'가 직접 음식을 입에 넣어 주는 직접 사동을 나타냅니다."
@@ -9739,9 +9739,9 @@
         {
           "prompt": "신입 사원에게 보고서 초안 작성을 맡기겠다고 상사에게 보고하는 가장 세련된 표현은?",
           "options": [
-            "제가 신입 사원에게 초안을 먼저 작성하게 하겠습니다. (Target expression (Korean))",
-            "제가 신입 사원에게 초안을 먼저 작성되게 하겠습니다. (Target expression (Korean))",
-            "제가 신입 사원에게 초안을 먼저 작성시켜지게 하겠습니다. (Target expression (Korean))"
+            "제가 신입 사원에게 초안을 먼저 작성하게 하겠습니다.) (Korean grammar and vocabulary (ko-u20-l5))",
+            "제가 신입 사원에게 초안을 먼저 작성되게 하겠습니다.) (Context: 자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화)",
+            "제가 신입 사원에게 초안을 먼저 작성시켜지게 하겠습니다.) (Context: 자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화)"
           ],
           "answerIndex": 0,
           "explanation": "신입 사원으로 하여금 작성하도록 유도/지시하는 것이므로 '작성하게 하겠습니다'가 가장 자연스럽고 품격 있습니다."
@@ -9754,8 +9754,8 @@
           "prompt": "자녀 돌봄 사동사(씻기다, 먹이다, 재우다)가 모두 바르게 활용된 문장은 어느 것입니까?",
           "options": [
             "아이를 깨끗이 씻기고 밥을 먹인 후 포근하게 재웠습니다. (씻기다, 먹이다, 재우다의 단형 직접 사동사들이 완벽하게 어우러진 문장입니다.) (Target Korean construction)",
-            "아이를 깨끗이 씻어지고 밥을 먹게 된 후 포근하게 자였습니다. (Target expression (Korean))",
-            "아이를 깨끗이 씻게 되고 밥을 먹히게 한 후 포근하게 재워졌습니다. (Target expression (Korean))"
+            "아이를 깨끗이 씻어지고 밥을 먹게 된 후 포근하게 자였습니다.) (Context: 자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화)",
+            "아이를 깨끗이 씻게 되고 밥을 먹히게 한 후 포근하게 재워졌습니다.) (Context: 자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'씻기다', '먹이다', '재우다'의 단형 직접 사동사들이 완벽하게 어우러진 문장입니다."
@@ -9769,8 +9769,8 @@
           "prompt": "다음 대화의 빈칸에 들어갈 가장 알맞은 사동 표현은?\n\"A: 민수 씨에게 그 일을 맡기셨나요?\nB: 네, 민수 씨가 내일까지 기획안을 _____ 했습니다.\"",
           "options": [
             "마무리하게 (민수 씨가 직접 마무리하도록 지시한 것이므로 마무리하게(하다)가 정확합니다.) (Target Korean construction)",
-            "마무리되게 (Target expression (Korean))",
-            "마무리시키어지게 (Target expression (Korean))"
+            "마무리되게) (Context: 자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화)",
+            "마무리시키어지게) (Context: 자녀 양육, 업무 지시 및 교육 훈련 실전 사동 담화)"
           ],
           "answerIndex": 0,
           "explanation": "민수 씨가 직접 마무리하도록 지시한 것이므로 '마무리하게(하다)'가 정확합니다."
@@ -9832,8 +9832,8 @@
           "prompt": "'듣다(listen)'의 올바른 조건형 결합 형태는 무엇입니까?",
           "options": [
             "들으면 (듣다는 ㄷ 불규칙 동사이므로 모음 앞 ㄹ로 바뀌어 들으면이 됩니다.) (Target Korean construction)",
-            "듣으면 (Target expression (Korean))",
-            "듣면 (Target expression (Korean))"
+            "듣으면) (Context: 기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면'))",
+            "듣면) (Context: 기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면'))"
           ],
           "answerIndex": 0,
           "explanation": "'듣다'는 'ㄷ 불규칙' 동사이므로 모음 앞 'ㄹ'로 바뀌어 '들으면'이 됩니다."
@@ -9846,8 +9846,8 @@
           "prompt": "'주말에 푹 쉴 수 있기를 간절히 바란다'를 가장 자연스러운 소망 문장으로 완성한 것은?",
           "options": [
             "이번 주말에는 푹 쉴 수 있었으면 좋겠습니다. (화자의 간절한 희망을 나타내는 완곡한 표현은 -(았/었)으면 좋겠습니다입니다.) (Target Korean construction)",
-            "이번 주말에는 푹 쉴 수 있으면 싫겠습니다. (Target expression (Korean))",
-            "이번 주말에는 푹 쉴 수 있어지면 되겠습니다. (Target expression (Korean))"
+            "이번 주말에는 푹 쉴 수 있으면 싫겠습니다.) (Context: 기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면'))",
+            "이번 주말에는 푹 쉴 수 있어지면 되겠습니다.) (Context: 기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면'))"
           ],
           "answerIndex": 0,
           "explanation": "화자의 간절한 희망을 나타내는 완곡한 표현은 '-(았/었)으면 좋겠습니다'입니다."
@@ -9861,8 +9861,8 @@
           "prompt": "다음 중 과거 완료 전제 조건으로 가장 자연스러운 문장은?",
           "options": [
             "점심 식사를 다 마쳤으면 커피 한잔하러 갈까요? (식사가 완료되었음을 전제로 다음 행동을 제안하는 문장이므로 마쳤으면이 적절합니다.) (Target Korean construction)",
-            "점심 식사를 다 마치면 커피 한잔하러 갔었어요? (Target expression (Korean))",
-            "점심 식사를 다 마칠수록 커피 한잔하러 가요? (Target expression (Korean))"
+            "점심 식사를 다 마치면 커피 한잔하러 갔었어요?) (Context: 기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면'))",
+            "점심 식사를 다 마칠수록 커피 한잔하러 가요?) (Context: 기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면'))"
           ],
           "answerIndex": 0,
           "explanation": "식사가 완료되었음을 전제로 다음 행동을 제안하는 문장이므로 '마쳤으면'이 적절합니다."
@@ -9924,8 +9924,8 @@
           "prompt": "'그때 표를 미리 예매했더라면' 뒤에 가장 자연스럽게 어울리는 후회의 호응 구문은?",
           "options": [
             "매진되어 헛걸음하지 않았을 텐데요. (-(았/었)더라면 과거 반대 가정 뒤에는 과거 추측/후회 -(았/었)을 텐데요가 자연스럽게 호응합니다.) (Target Korean construction)",
-            "매진되어 헛걸음하게 되었습니다. (Target expression (Korean))",
-            "매진되어 헛걸음할 수밖에 없습니다. (Target expression (Korean))"
+            "매진되어 헛걸음하게 되었습니다.) (Context: 과거 사실의 반대 가정 및 후회 ('-(았/었)더라면'))",
+            "매진되어 헛걸음할 수밖에 없습니다.) (Context: 과거 사실의 반대 가정 및 후회 ('-(았/었)더라면'))"
           ],
           "answerIndex": 0,
           "explanation": "'-(았/었)더라면' 과거 반대 가정 뒤에는 과거 추측/후회 '-(았/었)을 텐데요'가 자연스럽게 호응합니다."
@@ -9938,8 +9938,8 @@
           "prompt": "'안전모를 쓰지 않았다면 큰 부상을 입었을 것이다'를 가장 실감 나게 표현한 문장은?",
           "options": [
             "안전모를 쓰지 않았더라면 머리를 크게 다칠 뻔했습니다. (과거 반대 가정 않았더라면 + 아찔한 모면 -(으)ㄹ 뻔했다의 조합이 완벽합니다.) (Target Korean construction)",
-            "안전모를 쓰지 않더라도 머리를 크게 다치게 되었습니다. (Target expression (Korean))",
-            "안전모를 쓰지 않는 한 머리를 크게 다쳤을 것입니다. (Target expression (Korean))"
+            "안전모를 쓰지 않더라도 머리를 크게 다치게 되었습니다.) (Context: 과거 사실의 반대 가정 및 후회 ('-(았/었)더라면'))",
+            "안전모를 쓰지 않는 한 머리를 크게 다쳤을 것입니다.) (Context: 과거 사실의 반대 가정 및 후회 ('-(았/었)더라면'))"
           ],
           "answerIndex": 0,
           "explanation": "과거 반대 가정 '않았더라면' + 아찔한 모면 '-(으)ㄹ 뻔했다'의 조합이 완벽합니다."
@@ -9953,8 +9953,8 @@
           "prompt": "다음 중 '-(았/었)더라면'의 쓰임새가 문법적으로 가장 알맞은 것은?",
           "options": [
             "조금만 일찍 출발했더라면 기차를 놓치지 않았을 텐데 아쉽습니다. (과거 사실의 반대 가정은 출발했더라면 + 놓치지 않았을 텐데가 정확합니다.) (Target Korean construction)",
-            "조금만 일찍 출발하더라면 기차를 놓치지 않을 텐데 아쉽습니다. (Target expression (Korean))",
-            "조금만 일찍 출발했더면 기차를 놓치지 않았을 텐데 아쉽습니다. (Target expression (Korean))"
+            "조금만 일찍 출발하더라면 기차를 놓치지 않을 텐데 아쉽습니다.) (Context: 과거 사실의 반대 가정 및 후회 ('-(았/었)더라면'))",
+            "조금만 일찍 출발했더면 기차를 놓치지 않았을 텐데 아쉽습니다.) (Context: 과거 사실의 반대 가정 및 후회 ('-(았/었)더라면'))"
           ],
           "answerIndex": 0,
           "explanation": "과거 사실의 반대 가정은 '출발했더라면' + '놓치지 않았을 텐데'가 정확합니다."
@@ -10016,8 +10016,8 @@
           "prompt": "'-거든' 뒤에 올 수 있는 가장 자연스러운 문장 유형은 무엇입니까?",
           "options": [
             "집에 도착하거든 바로 연락해 주세요. (명령/요청) (-거든 조건 뒤에는 명령, 요청, 청유문이 호응하는 것이 문법적 규칙입니다.) (Target Korean construction)",
-            "집에 도착하거든 바로 연락을 했습니다. (과거 서술) (Target expression (Korean))",
-            "집에 도착하거든 어제 비가 내렸습니다. (과거 사실) (Target expression (Korean))"
+            "집에 도착하거든 바로 연락을 했습니다. (과거 서술)) (Context: 조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든'))",
+            "집에 도착하거든 어제 비가 내렸습니다. (과거 사실)) (Context: 조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든'))"
           ],
           "answerIndex": 0,
           "explanation": "'-거든' 조건 뒤에는 명령, 요청, 청유문이 호응하는 것이 문법적 규칙입니다."
@@ -10030,8 +10030,8 @@
           "prompt": "'별다른 문제가 없다면 원래 계획대로 추진한다'를 '-(으)ㄴ/는 한'으로 가장 정확하게 표현한 문장은?",
           "options": [
             "특별한 문제가 없는 한, 원래 계획대로 추진할 것입니다. (조건의 범위를 규정하는 없는 한 + 평서문 의지 추진할 것입니다의 결합이 가장 적합합니다.) (Target Korean construction)",
-            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요. (Target expression (Korean))",
-            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든. (Target expression (Korean))"
+            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요.) (Context: 조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든'))",
+            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든.) (Context: 조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든'))"
           ],
           "answerIndex": 0,
           "explanation": "조건의 범위를 규정하는 '없는 한' + 평서문 의지 '추진할 것입니다'의 결합이 가장 적합합니다."
@@ -10045,8 +10045,8 @@
           "prompt": "다음 중 '-거든'의 문법적 제약에 맞지 않는 비문(틀린 문장)은?",
           "options": [
             "친구가 오거든 함께 맛있는 점심을 먹었습니다. (-거든 뒤에는 과거 완료 평서문(먹었습니다)이 올 수 없습니다.) (Target Korean construction)",
-            "친구가 오거든 함께 맛있는 점심을 먹으러 가자. (Target expression (Korean))",
-            "친구가 오거든 문을 열어 주십시오. (Target expression (Korean))"
+            "친구가 오거든 함께 맛있는 점심을 먹으러 가자.) (Context: 조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든'))",
+            "친구가 오거든 문을 열어 주십시오.) (Context: 조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든'))"
           ],
           "answerIndex": 0,
           "explanation": "'-거든' 뒤에는 과거 완료 평서문('먹었습니다')이 올 수 없습니다."
@@ -10108,8 +10108,8 @@
           "prompt": "음주 운전의 위험성을 경고하는 문장으로 가장 적절한 연결어미는?",
           "options": [
             "술을 마시고 운전대를 잡다가는 패가망신할 수 있습니다. (부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 -다가는(잡다가는)이 정확합니다.) (Target Korean construction)",
-            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다. (Target expression (Korean))",
-            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다. (Target expression (Korean))"
+            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다.) (Context: 부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라)",
+            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다.) (Context: 부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라)"
           ],
           "answerIndex": 0,
           "explanation": "부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 '-다가는(잡다가는)'이 정확합니다."
@@ -10122,8 +10122,8 @@
           "prompt": "'아무리 실패가 반복되더라도 굴하지 않겠다'를 가장 비장하고 격조 높게 표현한 문장은?",
           "options": [
             "수없이 실패할지라도 끝까지 도전하겠습니다. (극단적 시련을 양보로 수용하는 -(으)ㄹ지라도(실패할지라도)가 가장 적합합니다.) (Target Korean construction)",
-            "수없이 실패하다가는 끝까지 도전하겠습니다. (Target expression (Korean))",
-            "수없이 실패하거든 끝까지 도전하겠습니다. (Target expression (Korean))"
+            "수없이 실패하다가는 끝까지 도전하겠습니다.) (Context: 부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라)",
+            "수없이 실패하거든 끝까지 도전하겠습니다.) (Context: 부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라)"
           ],
           "answerIndex": 0,
           "explanation": "극단적 시련을 양보로 수용하는 '-(으)ㄹ지라도(실패할지라도)'가 가장 적합합니다."
@@ -10137,8 +10137,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 어미는?\n\"자극적인 음식을 너무 자주 _____ 위장병에 걸릴 위험이 큽니다.\"",
           "options": [
             "먹다가는 (위험한 습관의 반복에 따른 건강 악화 경고이므로 먹다가는이 들어갑니다.) (Meaning: 자극적인 음식을 너무 자주 _____ 위장병에 걸릴 위험이 큽니다.)",
-            "먹었더라면 (Target expression (Korean))",
-            "먹는 한편 (Target expression (Korean))"
+            "먹었더라면) (Context: 부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라)",
+            "먹는 한편) (Context: 부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라)"
           ],
           "answerIndex": 0,
           "explanation": "위험한 습관의 반복에 따른 건강 악화 경고이므로 '먹다가는'이 들어갑니다."
@@ -10200,8 +10200,8 @@
           "prompt": "투자 자문가가 고객에게 위험한 집중 투자를 경고할 때 가장 어울리는 문장은?",
           "options": [
             "무리하게 한 종목에만 몰아서 투자하다가는 큰 손실을 볼 수 있습니다. (부정적 결과에 대한 경고는 -다가는(투자하다가는)이 가장 정확합니다.) (Target Korean construction)",
-            "무리하게 한 종목에만 몰아서 투자했더라면 큰 손실을 볼 수 있습니다. (Target expression (Korean))",
-            "무리하게 한 종목에만 몰아서 투자하거든 큰 손실을 볼 수 있습니다. (Target expression (Korean))"
+            "무리하게 한 종목에만 몰아서 투자했더라면 큰 손실을 볼 수 있습니다.) (Context: 재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담)",
+            "무리하게 한 종목에만 몰아서 투자하거든 큰 손실을 볼 수 있습니다.) (Context: 재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담)"
           ],
           "answerIndex": 0,
           "explanation": "부정적 결과에 대한 경고는 '-다가는(투자하다가는)'이 가장 정확합니다."
@@ -10214,8 +10214,8 @@
           "prompt": "진로 상담 중 '시련이 있더라도 열정이 유지되는 한 성공할 것'을 가장 훌륭히 표현한 문장은?",
           "options": [
             "어려움이 따를지라도 꿈을 향한 열정을 잃지 않는 한 반드시 성취할 것입니다. (양보 가정(따를지라도) + 조건의 한계 지속(잃지 않는 한)의 결합이 완벽합니다.) (Target Korean construction)",
-            "어려움이 따를지라도 꿈을 향한 열정을 잃지 않다가는 반드시 성취할 것입니다. (Target expression (Korean))",
-            "어려움이 따랐더라면 꿈을 향한 열정을 잃지 않거든 반드시 성취할 것입니다. (Target expression (Korean))"
+            "어려움이 따를지라도 꿈을 향한 열정을 잃지 않다가는 반드시 성취할 것입니다.) (Context: 재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담)",
+            "어려움이 따랐더라면 꿈을 향한 열정을 잃지 않거든 반드시 성취할 것입니다.) (Context: 재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담)"
           ],
           "answerIndex": 0,
           "explanation": "양보 가정('따를지라도') + 조건의 한계 지속('잃지 않는 한')의 결합이 완벽합니다."
@@ -10229,8 +10229,8 @@
           "prompt": "다음 대화의 빈칸에 들어갈 가장 알맞은 표현은?\n\"A: 변동성 장세에서 어떻게 대응할까요?\nB: 원칙을 _____ 단기 등락에 불안해할 필요가 없습니다.\"",
           "options": [
             "지키는 한 (조건이 유효하게 유지되는 한도를 나타내므로 지키는 한이 알맞습니다.) (Target Korean construction)",
-            "지키다가는 (Target expression (Korean))",
-            "지켰더라면 (Target expression (Korean))"
+            "지키다가는) (Context: 재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담)",
+            "지켰더라면) (Context: 재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담)"
           ],
           "answerIndex": 0,
           "explanation": "조건이 유효하게 유지되는 한도를 나타내므로 '지키는 한'이 알맞습니다."
@@ -10292,8 +10292,8 @@
           "prompt": "아무리 힘들어도 끝까지 포기하지 말라고 당부하는 가장 자연스러운 문장은?",
           "options": [
             "과정이 힘들더라도 끝까지 포기하지 마세요. (가정적 양보와 권유/당부를 연결하므로 힘들더라도가 가장 적합합니다.) (Target Korean construction)",
-            "과정이 힘들수록 끝까지 포기하지 마세요. (Target expression (Korean))",
-            "과정이 힘든 한편 끝까지 포기하지 마세요. (Target expression (Korean))"
+            "과정이 힘들수록 끝까지 포기하지 마세요.) (Context: 가정적 양보 연결어미 ('-더라도'))",
+            "과정이 힘든 한편 끝까지 포기하지 마세요.) (Context: 가정적 양보 연결어미 ('-더라도'))"
           ],
           "answerIndex": 0,
           "explanation": "가정적 양보와 권유/당부를 연결하므로 '힘들더라도'가 가장 적합합니다."
@@ -10306,8 +10306,8 @@
           "prompt": "'설령 비가 내릴지라도 행사를 강행하겠다'를 '-더라도'로 격조 높게 표현한 문장은?",
           "options": [
             "내일 비가 내리더라도 야외 행사는 예정대로 진행하겠습니다. (양보 어미 내리더라도 + 단호한 진행 의지의 결합이 완벽합니다.) (Target Korean construction)",
-            "내일 비가 내릴수록 야외 행사는 예정대로 진행하겠습니다. (Target expression (Korean))",
-            "내일 비가 내리기는커녕 야외 행사는 예정대로 진행하겠습니다. (Target expression (Korean))"
+            "내일 비가 내릴수록 야외 행사는 예정대로 진행하겠습니다.) (Context: 가정적 양보 연결어미 ('-더라도'))",
+            "내일 비가 내리기는커녕 야외 행사는 예정대로 진행하겠습니다.) (Context: 가정적 양보 연결어미 ('-더라도'))"
           ],
           "answerIndex": 0,
           "explanation": "양보 어미 '내리더라도' + 단호한 진행 의지의 결합이 완벽합니다."
@@ -10321,8 +10321,8 @@
           "prompt": "다음 중 '-더라도'의 문법적 특성으로 알맞은 것은?",
           "options": [
             "가상이나 현실의 조건을 양보하면서 뒤 절의 단호한 의지나 권유를 나타낸다. (-더라도는 가정적 양보와 화자의 흔들림 없는 결심을 나타냅니다.) (Target Korean construction)",
-            "앞 절의 동작이 원인이 되어 뒤 절의 결과가 발생함을 나타낸다. (Target expression (Korean))",
-            "앞 절의 사실과 정반대되는 과거를 후회할 때만 쓴다. (Target expression (Korean))"
+            "앞 절의 동작이 원인이 되어 뒤 절의 결과가 발생함을 나타낸다.) (Context: 가정적 양보 연결어미 ('-더라도'))",
+            "앞 절의 사실과 정반대되는 과거를 후회할 때만 쓴다.) (Context: 가정적 양보 연결어미 ('-더라도'))"
           ],
           "answerIndex": 0,
           "explanation": "'-더라도'는 가정적 양보와 화자의 흔들림 없는 결심을 나타냅니다."
@@ -10384,8 +10384,8 @@
           "prompt": "'익다(ripen)'에 '-(으)ㄹ수록'을 결합한 유명한 한국 속담(\"벼는 익을수록 고개를 숙인다\")의 형태는?",
           "options": [
             "익을수록 (익다는 받침 ㄱ이 있으므로 -을수록이 결합하여 익을수록이 됩니다.) (Meaning: 벼는 익을수록 고개를 숙인다)",
-            "익수록 (Target expression (Korean))",
-            "익을수록에 (Target expression (Korean))"
+            "익수록) (Context: 비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록'))",
+            "익을수록에) (Context: 비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록'))"
           ],
           "answerIndex": 0,
           "explanation": "'익다'는 받침 'ㄱ'이 있으므로 '-을수록'이 결합하여 '익을수록'이 됩니다."
@@ -10398,8 +10398,8 @@
           "prompt": "'시간이 지날수록 상황이 점점 더 나아지고 있다'를 바르게 표현한 문장은?",
           "options": [
             "시간이 갈수록 환자의 건강 상태가 뚜렷하게 호전되고 있습니다. (시간의 경과에 비례하는 긍정적 호전을 나타내므로 갈수록이 정확합니다.) (Target Korean construction)",
-            "시간이 가더라도 환자의 건강 상태가 뚜렷하게 호전되고 있습니다. (Target expression (Korean))",
-            "시간이 가는 한 환자의 건강 상태가 뚜렷하게 호전되고 있습니다. (Target expression (Korean))"
+            "시간이 가더라도 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.) (Context: 비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록'))",
+            "시간이 가는 한 환자의 건강 상태가 뚜렷하게 호전되고 있습니다.) (Context: 비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록'))"
           ],
           "answerIndex": 0,
           "explanation": "시간의 경과에 비례하는 긍정적 호전을 나타내므로 '갈수록'이 정확합니다."
@@ -10413,8 +10413,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 연결어미는?\n\"한국 음식은 자주 _____ 그 깊은 감칠맛에 중독됩니다.\"",
           "options": [
             "먹을수록 (빈도 증가에 비례하여 맛을 알게 되는 문맥이므로 먹을수록이 알맞습니다.) (Meaning: 한국 음식은 자주 _____ 그 깊은 감칠맛에 중독됩니다.)",
-            "먹더라도 (Target expression (Korean))",
-            "먹는 한편 (Target expression (Korean))"
+            "먹더라도) (Context: 비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록'))",
+            "먹는 한편) (Context: 비례 및 점진적 심화 연결어미 ('-(으)ㄹ수록'))"
           ],
           "answerIndex": 0,
           "explanation": "빈도 증가에 비례하여 맛을 알게 되는 문맥이므로 '먹을수록'이 알맞습니다."
@@ -10476,8 +10476,8 @@
           "prompt": "수출을 촉진함과 동시에 내수 시장도 살리는 정부 정책의 병행을 가장 잘 나타낸 표현은?",
           "options": [
             "수출을 적극 장려하는 한편, 내수 진작을 위한 정책을 병행했다. (두 가지 정책적 조치의 동시 추진을 나타내므로 -는 한편(장려하는 한편)이 완벽합니다.) (Target Korean construction)",
-            "수출을 적극 장려하더라도, 내수 진작을 위한 정책을 병행했다. (Target expression (Korean))",
-            "수출을 적극 장려할수록, 내수 진작을 위한 정책을 병행했다. (Target expression (Korean))"
+            "수출을 적극 장려하더라도, 내수 진작을 위한 정책을 병행했다.) (Context: 양면성과 동시 병행 연결어미 ('-는 한편'))",
+            "수출을 적극 장려할수록, 내수 진작을 위한 정책을 병행했다.) (Context: 양면성과 동시 병행 연결어미 ('-는 한편'))"
           ],
           "answerIndex": 0,
           "explanation": "두 가지 정책적 조치의 동시 추진을 나타내므로 '-는 한편(장려하는 한편)'이 완벽합니다."
@@ -10490,8 +10490,8 @@
           "prompt": "현대 문명의 편리함과 환경 파괴라는 양면성을 서술한 가장 논리적인 문장은 어느 것입니까?",
           "options": [
             "산업화는 물질적 풍요를 가져다준 한편, 심각한 환경 오염 문제를 야기했습니다. (과거 사실의 양면적 공존을 객관적으로 진술하므로 가져다준 한편이 정확합니다.) (Target Korean construction)",
-            "산업화는 물질적 풍요를 가져다주더라도, 심각한 환경 오염 문제를 야기했습니다. (Target expression (Korean))",
-            "산업화는 물질적 풍요를 가져다주기는커녕, 심각한 환경 오염 문제를 야기했습니다. (Target expression (Korean))"
+            "산업화는 물질적 풍요를 가져다주더라도, 심각한 환경 오염 문제를 야기했습니다.) (Context: 양면성과 동시 병행 연결어미 ('-는 한편'))",
+            "산업화는 물질적 풍요를 가져다주기는커녕, 심각한 환경 오염 문제를 야기했습니다.) (Context: 양면성과 동시 병행 연결어미 ('-는 한편'))"
           ],
           "answerIndex": 0,
           "explanation": "과거 사실의 양면적 공존을 객관적으로 진술하므로 '가져다준 한편'이 정확합니다."
@@ -10505,8 +10505,8 @@
           "prompt": "다음 중 '-는 한편'이 쓰이기에 가장 적합한 문맥은?",
           "options": [
             "두 가지 대조적이거나 상호 보완적인 현상이 동시에 병행될 때 (-는 한편은 두 가지 현상의 동시 진행 및 양면성 병렬에 특화된 어미입니다.) (Target Korean construction)",
-            "과거의 잘못을 후회하고 탄식할 때 (Target expression (Korean))",
-            "명령이나 청유를 상대방에게 직접 지시할 때 (Target expression (Korean))"
+            "과거의 잘못을 후회하고 탄식할 때) (Context: 양면성과 동시 병행 연결어미 ('-는 한편'))",
+            "명령이나 청유를 상대방에게 직접 지시할 때) (Context: 양면성과 동시 병행 연결어미 ('-는 한편'))"
           ],
           "answerIndex": 0,
           "explanation": "'-는 한편'은 두 가지 현상의 동시 진행 및 양면성 병렬에 특화된 어미입니다."
@@ -10568,8 +10568,8 @@
           "prompt": "명사 '밥(rice/meal)' 뒤에 붙어 '식사는 고사하고 물도 못 마셨다'를 나타내는 올바른 조사는?",
           "options": [
             "밥은커녕 (명사 뒤에는 바로 -은/는커녕이 붙으므로 밥은커녕이 정확합니다.) (Target Korean construction)",
-            "밥기는커녕 (Target expression (Korean))",
-            "밥은 대신에 (Target expression (Korean))"
+            "밥기는커녕) (Context: 극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/)",
+            "밥은 대신에) (Context: 극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/)"
           ],
           "answerIndex": 0,
           "explanation": "명사 뒤에는 바로 '-은/는커녕'이 붙으므로 '밥은커녕'이 정확합니다."
@@ -10582,8 +10582,8 @@
           "prompt": "'집값이 비싼 대신에 주변 학군과 편의시설이 훌륭하다'의 보상/상쇄 관계를 바르게 나타낸 문장은?",
           "options": [
             "이 동네는 집값이 비싼 대신에 생활 인프라와 교육 환경이 대단히 뛰어납니다. (높은 가격이라는 단점을 뛰어난 환경이라는 장점으로 상쇄·보상하므로 비싼 대신에가 가장 적절합니다.) (Target Korean construction)",
-            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다. (Target expression (Korean))",
-            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다. (Target expression (Korean))"
+            "이 동네는 집값이 비싸기는커녕 생활 인프라와 교육 환경이 대단히 뛰어납니다.) (Context: 극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/)",
+            "이 동네는 집값이 비싸더라도 생활 인프라와 교육 환경이 대단히 뛰어납니다.) (Context: 극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/)"
           ],
           "answerIndex": 0,
           "explanation": "높은 가격이라는 단점을 뛰어난 환경이라는 장점으로 상쇄·보상하므로 '비싼 대신에'가 가장 적절합니다."
@@ -10597,8 +10597,8 @@
           "prompt": "다음 빈칸에 들어갈 가장 자연스러운 표현은?\n\"열심히 도왔는데 고맙다는 인사를 _____ 오히려 원망만 들었어요.\"",
           "options": [
             "받기는커녕 (최소한의 감사는커녕 오히려 원망을 들은 극단적 부정 대비이므로 받기는커녕이 정답입니다.) (Meaning: 열심히 도왔는데 고맙다는 인사를 _____ 오히려 원망만 들었어요.)",
-            "받는 대신에 (Target expression (Korean))",
-            "받는 한편 (Target expression (Korean))"
+            "받는 대신에) (Context: 극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/)",
+            "받는 한편) (Context: 극단적 부정 대비 ('-기는커녕')과 대체/보상 ('-(으)ㄴ/)"
           ],
           "answerIndex": 0,
           "explanation": "최소한의 감사는커녕 오히려 원망을 들은 극단적 부정 대비이므로 '받기는커녕'이 정답입니다."
@@ -10660,8 +10660,8 @@
           "prompt": "시사 평론 중 두 가지 정책의 명암을 균형 있게 짚은 가장 훌륭한 문장은?",
           "options": [
             "도시 재생 사업은 구도심 상권을 부활시킨 한편, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다. (성과와 부작용의 양면적 공존을 객관적으로 분석하므로 -는 한편(부활시킨 한편)이 가장 탁월합니다.) (Target Korean construction)",
-            "도시 재생 사업은 구도심 상권을 부활시키더라도, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다. (Target expression (Korean))",
-            "도시 재생 사업은 구도심 상권을 부활시키기는커녕, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다. (Target expression (Korean))"
+            "도시 재생 사업은 구도심 상권을 부활시키더라도, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다.) (Context: 시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 )",
+            "도시 재생 사업은 구도심 상권을 부활시키기는커녕, 젠트리피케이션으로 원주민이 밀려나는 그늘을 낳았다.) (Context: 시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 )"
           ],
           "answerIndex": 0,
           "explanation": "성과와 부작용의 양면적 공존을 객관적으로 분석하므로 '-는 한편(부활시킨 한편)'이 가장 탁월합니다."
@@ -10674,8 +10674,8 @@
           "prompt": "경제 칼럼 중 비례적 심화와 대안 제시가 가장 매끄럽게 연결된 문장은?",
           "options": [
             "금리가 인상될수록 가계 부채 부담이 가중되는 대신에 저축 유인은 증대됩니다. (비례 심화(인상될수록) + 보상/상쇄(가중되는 대신에)의 결합이 논리적으로 완벽합니다.) (Target Korean construction)",
-            "금리가 인상되더라도 가계 부채 부담이 가중되기는커녕 저축 유인은 증대됩니다. (Target expression (Korean))",
-            "금리가 인상되는 한 가계 부채 부담이 가중되었더라면 저축 유인은 증대됩니다. (Target expression (Korean))"
+            "금리가 인상되더라도 가계 부채 부담이 가중되기는커녕 저축 유인은 증대됩니다.) (Context: 시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 )",
+            "금리가 인상되는 한 가계 부채 부담이 가중되었더라면 저축 유인은 증대됩니다.) (Context: 시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 )"
           ],
           "answerIndex": 0,
           "explanation": "비례 심화('인상될수록') + 보상/상쇄('가중되는 대신에')의 결합이 논리적으로 완벽합니다."
@@ -10689,8 +10689,8 @@
           "prompt": "다음 중 문맥에 부합하는 고급 연결어미가 가장 바르게 사용된 것은?",
           "options": [
             "시간이 흐를수록 문제의 심각성이 더욱 또렷해졌습니다. (시간 경과에 비례하여 심각성이 가중되므로 흐를수록이 가장 완벽합니다.) (Target Korean construction)",
-            "시간이 흐르는 한편 문제의 심각성이 더욱 또렷해지기는커녕. (Target expression (Korean))",
-            "시간이 흐르더라도 문제의 심각성이 더욱 또렷해지는 대신에. (Target expression (Korean))"
+            "시간이 흐르는 한편 문제의 심각성이 더욱 또렷해지기는커녕.) (Context: 시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 )",
+            "시간이 흐르더라도 문제의 심각성이 더욱 또렷해지는 대신에.) (Context: 시사 칼럼, 학술 비평 및 사회 현상 분석 실전 심화 연결어미 )"
           ],
           "answerIndex": 0,
           "explanation": "시간 경과에 비례하여 심각성이 가중되므로 '흐를수록'이 가장 완벽합니다."
@@ -10752,8 +10752,8 @@
           "prompt": "비즈니스 이메일에서 본론을 정중하게 시작할 때 사용하는 가장 관용적인 전환 표현은?",
           "options": [
             "다름이 아니오라 (다름이 아니오라는 격식 있는 서한과 이메일에서 용건으로 들어갈 때 쓰는 최고 수준의 정형 표현입니다.) (비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquette))",
-            "딴 게 아니라 (Target expression (Korean))",
-            "별일은 아니고 (Target expression (Korean))"
+            "딴 게 아니라) (Context: 비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquet)",
+            "별일은 아니고) (Context: 비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquet)"
           ],
           "answerIndex": 0,
           "explanation": "'다름이 아니오라'는 격식 있는 서한과 이메일에서 용건으로 들어갈 때 쓰는 최고 수준의 정형 표현입니다."
@@ -10766,8 +10766,8 @@
           "prompt": "거래처 담당자에게 자료를 첨부하여 정중하게 발송함을 알리는 가장 격식 있는 문장은?",
           "options": [
             "요청하신 3분기 사업 실적 보고서를 첨부하여 송부해 드립니다. (비즈니스 문서 발송에는 송부(送付)하여 드립니다라는 정중한 한자어 표현이 표준입니다.) (비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquette))",
-            "요청하신 3분기 사업 실적 보고서를 첨부해서 던져 드립니다. (Target expression (Korean))",
-            "요청하신 3분기 사업 실적 보고서를 첨부하더라도 보냅니다. (Target expression (Korean))"
+            "요청하신 3분기 사업 실적 보고서를 첨부해서 던져 드립니다.) (Context: 비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquet)",
+            "요청하신 3분기 사업 실적 보고서를 첨부하더라도 보냅니다.) (Context: 비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquet)"
           ],
           "answerIndex": 0,
           "explanation": "비즈니스 문서 발송에는 '송부(送付)하여 드립니다'라는 정중한 한자어 표현이 표준입니다."
@@ -10781,8 +10781,8 @@
           "prompt": "다음 중 비즈니스 이메일 서명 결미어로 가장 알맞은 것은?",
           "options": [
             "홍길동 배상 (拜上) ([이름] 배상 또는 [이름] 드림/올림이 비즈니스 이메일의 정중한 결미 서명입니다.) (비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquette))",
-            "홍길동 형아 (Target expression (Korean))",
-            "홍길동 씀 (Target expression (Korean))"
+            "홍길동 형아) (Context: 비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquet)",
+            "홍길동 씀) (Context: 비즈니스 이메일 격식과 서한 프로토콜 (Email Etiquet)"
           ],
           "answerIndex": 0,
           "explanation": "'[이름] 배상' 또는 '[이름] 드림/올림'이 비즈니스 이메일의 정중한 결미 서명입니다."
@@ -10844,8 +10844,8 @@
           "prompt": "직속 상사인 '김 부장'에게 보고서를 결재 올릴 때 가장 격식 있는 표현은?",
           "options": [
             "부장님, 이번 주 기획안을 결재 상신하였습니다. (상사에 대한 존칭 부장님과 결재를 올림을 뜻하는 격식어 상신(上申)하였습니다가 완벽합니다.) (Target Korean construction)",
-            "부장아, 이번 주 기획안 결재해라. (Target expression (Korean))",
-            "김 씨, 이번 주 기획안을 결재해 줬다. (Target expression (Korean))"
+            "부장아, 이번 주 기획안 결재해라.) (Context: 직장 내 직급 호칭 체계와 현대 실무 화법)",
+            "김 씨, 이번 주 기획안을 결재해 줬다.) (Context: 직장 내 직급 호칭 체계와 현대 실무 화법)"
           ],
           "answerIndex": 0,
           "explanation": "상사에 대한 존칭 '부장님'과 결재를 올림을 뜻하는 격식어 '상신(上申)하였습니다'가 완벽합니다."
@@ -10857,9 +10857,9 @@
         {
           "prompt": "현대 한국 직장에서 부장님에게 다른 상사인 '이 과장'의 부재를 정중히 알리는 올바른 표준 문장은?",
           "options": [
-            "부장님, 이 과장님께서 지금 외근 중이십니다. (Target expression (Korean))",
-            "부장님, 이 과장 놈이 지금 놀러 갔습니다. (Target expression (Korean))",
-            "부장님, 이 과장이 외근 중이다. (Target expression (Korean))"
+            "부장님, 이 과장님께서 지금 외근 중이십니다.) (현대 비즈니스 실무에서는 제3자인 상급자(이 과장님)에 대해서도 께서 -시- 높임) (Korean grammar and vocabulary (ko-u23-l2))",
+            "부장님, 이 과장 놈이 지금 놀러 갔습니다.) (Context: 직장 내 직급 호칭 체계와 현대 실무 화법)",
+            "부장님, 이 과장이 외근 중이다.) (Context: 직장 내 직급 호칭 체계와 현대 실무 화법)"
           ],
           "answerIndex": 0,
           "explanation": "현대 비즈니스 실무에서는 제3자인 상급자(이 과장님)에 대해서도 '께서 -시-' 높임을 유지하는 것이 표준 예절입니다."
@@ -10873,8 +10873,8 @@
           "prompt": "한국 기업의 일반적인 승진 직급 순서가 올바르게 나열된 것은?",
           "options": [
             "사원 → 대리 → 과장 → 차장 → 부장 (일반적 기업 직급은 사원-대리-과장-차장-부장 순으로 올라갑니다.) (Target Korean construction)",
-            "부장 → 차장 → 과장 → 대리 → 사원 (Target expression (Korean))",
-            "사원 → 부장 → 대리 → 차장 → 과장 (Target expression (Korean))"
+            "부장 → 차장 → 과장 → 대리 → 사원) (Context: 직장 내 직급 호칭 체계와 현대 실무 화법)",
+            "사원 → 부장 → 대리 → 차장 → 과장) (Context: 직장 내 직급 호칭 체계와 현대 실무 화법)"
           ],
           "answerIndex": 0,
           "explanation": "일반적 기업 직급은 사원-대리-과장-차장-부장 순으로 올라갑니다."
@@ -10935,9 +10935,9 @@
         {
           "prompt": "상대방에게 부담을 줄이며 정중히 자료를 요청할 때 앞에 붙이는 가장 적절한 쿠션어는?",
           "options": [
-            "번거로우시겠지만 (Target expression (Korean))",
-            "귀찮더라도 억지로 (Target expression (Korean))",
-            "당장 급하니까 (Target expression (Korean))"
+            "번거로우시겠지만) (번거로우시겠지만(Although it is an inconvenience)은 업무)",
+            "귀찮더라도 억지로) (Context: 업무 협조 요청과 완곡한 거절 및 수정 제안 기법)",
+            "당장 급하니까) (Context: 업무 협조 요청과 완곡한 거절 및 수정 제안 기법)"
           ],
           "answerIndex": 0,
           "explanation": "'번거로우시겠지만(Although it is an inconvenience)'은 업무 협조를 구할 때 배려를 담는 최고의 쿠션어입니다."
@@ -10949,9 +10949,9 @@
         {
           "prompt": "거래처의 무리한 납기 단축 요청을 정중하고 완곡하게 거절하는 가장 훌륭한 비즈니스 문장은?",
           "options": [
-            "품질 보증을 위해 현재 일정보다 납기를 단축하는 것은 다소 무리가 있을 것으로 사료됩니다. (Target expression (Korean))",
-            "절대 안 됩니다. 말도 안 되는 소리 하지 마세요. (Target expression (Korean))",
-            "납기를 줄여 주기는커녕 공장을 멈추겠습니다. (Target expression (Korean))"
+            "품질 보증을 위해 현재 일정보다 납기를 단축하는 것은 다소 무리가 있을 것으로 사료됩니다.) (다소 무리가 있을 것으로 사료됩니다(It is thought to be somew)",
+            "절대 안 됩니다. 말도 안 되는 소리 하지 마세요.) (Context: 업무 협조 요청과 완곡한 거절 및 수정 제안 기법)",
+            "납기를 줄여 주기는커녕 공장을 멈추겠습니다.) (Context: 업무 협조 요청과 완곡한 거절 및 수정 제안 기법)"
           ],
           "answerIndex": 0,
           "explanation": "'다소 무리가 있을 것으로 사료됩니다(It is thought to be somewhat unreasonable)'는 격조 높은 비즈니스 거절 어법입니다."
@@ -10965,8 +10965,8 @@
           "prompt": "한국 비즈니스 대화에서 '내부적으로 신중히 검토해 보겠습니다'가 지닌 실제 화용적 의미는?",
           "options": [
             "즉각적인 수락이 어려워 완곡하고 정중하게 거절하거나 보류함을 뜻한다. (비즈니스 화법에서 검토해 보겠다는 체면을 살려주며 완곡히 보류/거절하는 대표적 표현입니다.) (Target Korean construction)",
-            "100% 무조건 내일 당장 계약하겠다는 뜻이다. (Target expression (Korean))",
-            "상대방에게 화를 내며 계약을 파기하겠다는 뜻이다. (Target expression (Korean))"
+            "100% 무조건 내일 당장 계약하겠다는 뜻이다.) (Context: 업무 협조 요청과 완곡한 거절 및 수정 제안 기법)",
+            "상대방에게 화를 내며 계약을 파기하겠다는 뜻이다.) (Context: 업무 협조 요청과 완곡한 거절 및 수정 제안 기법)"
           ],
           "answerIndex": 0,
           "explanation": "비즈니스 화법에서 '검토해 보겠다'는 체면을 살려주며 완곡히 보류/거절하는 대표적 표현입니다."
@@ -11028,8 +11028,8 @@
           "prompt": "회사 전화를 받았을 때 가장 표준적인 첫인사는?",
           "options": [
             "감사합니다. 디자인팀 박민수 대리입니다. 무엇을 도와드릴까요? (회사명/부서/이름/직급을 밝히고 지원 의사를 묻는 것이 표준적인 비즈니스 전화 수신 예절입니다.) (Target Korean construction)",
-            "여보세요? 누구세요? 왜 전화했나요? (Target expression (Korean))",
-            "전화 주셔서 감사한데 바쁘니까 나중에 하세요. (Target expression (Korean))"
+            "여보세요? 누구세요? 왜 전화했나요?) (Context: 비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절)",
+            "전화 주셔서 감사한데 바쁘니까 나중에 하세요.) (Context: 비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절)"
           ],
           "answerIndex": 0,
           "explanation": "회사명/부서/이름/직급을 밝히고 지원 의사를 묻는 것이 표준적인 비즈니스 전화 수신 예절입니다."
@@ -11042,8 +11042,8 @@
           "prompt": "담당자가 자리를 비웠을 때 고객에게 정중하게 대안을 안내하는 올바른 문장은?",
           "options": [
             "담당자께서 잠시 자리를 비우셨는데, 메모를 남겨 드릴까요? (부재 사유 안내와 메모 수합 제안을 정중히 묻는 메모를 남겨 드릴까요?가 표준입니다.) (Target Korean construction)",
-            "담당자 없으니까 그냥 이따가 다시 거세요. (Target expression (Korean))",
-            "담당자가 자리를 비우더라도 내가 알 바 아닙니다. (Target expression (Korean))"
+            "담당자 없으니까 그냥 이따가 다시 거세요.) (Context: 비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절)",
+            "담당자가 자리를 비우더라도 내가 알 바 아닙니다.) (Context: 비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절)"
           ],
           "answerIndex": 0,
           "explanation": "부재 사유 안내와 메모 수합 제안을 정중히 묻는 '메모를 남겨 드릴까요?'가 표준입니다."
@@ -11057,8 +11057,8 @@
           "prompt": "한국 비즈니스 미팅에서 명함을 교환할 때 올바른 태도는?",
           "options": [
             "양손으로 잡고 상대방이 이름을 읽을 수 있는 방향으로 건넨다. (명함은 반드시 양손으로 정중히 건네고 받는 것이 기본 비즈니스 매너입니다.) (Target Korean construction)",
-            "한 손으로 던지듯이 건네고 즉시 뒷주머니에 쑤셔 넣는다. (Target expression (Korean))",
-            "받은 명함 위에 볼펜으로 낙서를 한다. (Target expression (Korean))"
+            "한 손으로 던지듯이 건네고 즉시 뒷주머니에 쑤셔 넣는다.) (Context: 비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절)",
+            "받은 명함 위에 볼펜으로 낙서를 한다.) (Context: 비즈니스 전화 응대, 미팅 일정 조율 및 명함 교환 예절)"
           ],
           "answerIndex": 0,
           "explanation": "명함은 반드시 양손으로 정중히 건네고 받는 것이 기본 비즈니스 매너입니다."
@@ -11120,8 +11120,8 @@
           "prompt": "MOU 체결식에서 양사를 대표하여 사회자가 환영사를 시작할 때 가장 품격 있는 문장은?",
           "options": [
             "양사의 공동 발전을 위한 전략적 업무 협약 체결식에 참석해 주신 내외 귀빈 여러분을 진심으로 환영합니다. (양사의 공동 발전과 내외 귀빈 여러분 환영을 담은 격식 있는 축하 문장이 완벽합니다.) (Target Korean construction)",
-            "우리 둘이 대충 계약이나 맺으려고 모였으니 박수나 치세요. (Target expression (Korean))",
-            "협약을 체결하더라도 나중에 마음에 안 들면 취소할 것입니다. (Target expression (Korean))"
+            "우리 둘이 대충 계약이나 맺으려고 모였으니 박수나 치세요.) (Context: 전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 )",
+            "협약을 체결하더라도 나중에 마음에 안 들면 취소할 것입니다.) (Context: 전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "'양사의 공동 발전'과 '내외 귀빈 여러분 환영'을 담은 격식 있는 축하 문장이 완벽합니다."
@@ -11133,9 +11133,9 @@
         {
           "prompt": "임원에게 기안서 결재 승인을 정중하게 요청하는 최고급 비즈니스 서면 보고 문장은?",
           "options": [
-            "신규 해외 지사 설립 계획안을 결재 상신하오니 검토 후 재가하여 주시기 바랍니다. (Target expression (Korean))",
-            "신규 해외 지사 설립 계획안을 올릴 테니 얼른 도장이나 찍으세요. (Target expression (Korean))",
-            "신규 해외 지사 설립 계획안을 올리기는커녕 파기하겠습니다. (Target expression (Korean))"
+            "신규 해외 지사 설립 계획안을 결재 상신하오니 검토 후 재가하여 주시기 바랍니다.) (결재 상신하오니(I submit for approval) + 재가하여 주시기 바랍)",
+            "신규 해외 지사 설립 계획안을 올릴 테니 얼른 도장이나 찍으세요.) (Context: 전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 )",
+            "신규 해외 지사 설립 계획안을 올리기는커녕 파기하겠습니다.) (Context: 전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "'결재 상신하오니(I submit for approval)' + '재가하여 주시기 바랍니다(please grant authorization)'의 정중한 조합이 완벽합니다."
@@ -11149,8 +11149,8 @@
           "prompt": "다음 중 비즈니스 한자 어휘의 상대적 짝이 올바르게 맺어진 것은?",
           "options": [
             "귀사(상대 회사 존칭) - 당사(자사 겸칭) (귀사(貴社)는 상대 회사 높임말, 당사(當社)는 자신의 회사를 가리키는 겸칭입니다.) (Target Korean construction)",
-            "귀사(자사 겸칭) - 당사(상대 회사 존칭) (Target expression (Korean))",
-            "배상(부하 직원 명령) - 재가(친구끼리 잡담) (Target expression (Korean))"
+            "귀사(자사 겸칭) - 당사(상대 회사 존칭)) (Context: 전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 )",
+            "배상(부하 직원 명령) - 재가(친구끼리 잡담)) (Context: 전략 제휴 협약 체결 및 임원 결재 브리핑 실전 비즈니스 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "귀사(貴社)는 상대 회사 높임말, 당사(當社)는 자신의 회사를 가리키는 겸칭입니다."
@@ -11226,8 +11226,8 @@
           "prompt": "'한 치의 오차도 없이 완벽하게 합을 맞추어 추는 군무'를 가장 정확하게 묘사한 표현은?",
           "options": [
             "자로 잰 듯 완벽한 일체감을 자랑하는 칼군무 (완벽한 싱크로율의 군무는 칼군무라고 부릅니다.) (K-Pop 팬덤 문화와 글로벌 음악 산업 전문 어휘)",
-            "아무렇게나 마음대로 추는 막춤 (Target expression (Korean))",
-            "동작이 제각각인 불협화음 댄스 (Target expression (Korean))"
+            "아무렇게나 마음대로 추는 막춤) (Context: K-Pop 팬덤 문화와 글로벌 음악 산업 전문 어휘)",
+            "동작이 제각각인 불협화음 댄스) (Context: K-Pop 팬덤 문화와 글로벌 음악 산업 전문 어휘)"
           ],
           "answerIndex": 0,
           "explanation": "완벽한 싱크로율의 군무는 '칼군무'라고 부릅니다."
@@ -11304,8 +11304,8 @@
           "prompt": "드라마에서 답답한 상황이 속 시원하게 해결되는 통쾌한 전개를 일컫는 한국어 신조어는?",
           "options": [
             "사이다 전개 (속이 뻥 뚫리듯 시원하고 통쾌한 전개를 사이다 전개라고 부릅니다.) (K-Drama 서사 구조와 클리셰 비평 어휘)",
-            "고구마 전개 (Target expression (Korean))",
-            "양파 전개 (Target expression (Korean))"
+            "고구마 전개) (Context: K-Drama 서사 구조와 클리셰 비평 어휘)",
+            "양파 전개) (Context: K-Drama 서사 구조와 클리셰 비평 어휘)"
           ],
           "answerIndex": 0,
           "explanation": "속이 뻥 뚫리듯 시원하고 통쾌한 전개를 '사이다 전개'라고 부릅니다."
@@ -11318,8 +11318,8 @@
           "prompt": "드라마 평론 중 '진부한 설정을 깨뜨리고 주체적 인물을 창조했다'를 가장 격조 높게 비평한 문장은?",
           "options": [
             "기존의 상투적인 클리셰를 과감히 탈피하여 생동감 넘치는 입체적 인물을 구현했다. (상투적인 클리셰를 과감히 탈피하여 + 입체적 인물을 구현했다의 비평 문장이 완벽합니다.) (K-Drama 서사 구조와 클리셰 비평 어휘)",
-            "기존의 상투적인 클리셰를 탈피하기는커녕 그대로 베껴서 졸작을 만들었다. (Target expression (Korean))",
-            "기존의 상투적인 클리셰를 탈피하더라도 아무도 관심이 없을 것이다. (Target expression (Korean))"
+            "기존의 상투적인 클리셰를 탈피하기는커녕 그대로 베껴서 졸작을 만들었다.) (Context: K-Drama 서사 구조와 클리셰 비평 어휘)",
+            "기존의 상투적인 클리셰를 탈피하더라도 아무도 관심이 없을 것이다.) (Context: K-Drama 서사 구조와 클리셰 비평 어휘)"
           ],
           "answerIndex": 0,
           "explanation": "'상투적인 클리셰를 과감히 탈피하여' + '입체적 인물을 구현했다'의 비평 문장이 완벽합니다."
@@ -11396,8 +11396,8 @@
           "prompt": "'감독이 인터뷰에서 그 사실을 이미 말한 적이 있다'를 품격 높은 비평문으로 전환한 표현은?",
           "options": [
             "감독이 공식 인터뷰에서 직접 밝힌 바 있습니다. (공식 선례나 과거 사실을 격조 높게 서술하므로 밝힌 바 있습니다가 가장 적합합니다.) (Target Korean construction)",
-            "감독이 공식 인터뷰에서 직접 밝히더라도 있습니다. (Target expression (Korean))",
-            "감독이 공식 인터뷰에서 직접 밝히기는커녕 있습니다. (Target expression (Korean))"
+            "감독이 공식 인터뷰에서 직접 밝히더라도 있습니다.) (Context: 영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')",
+            "감독이 공식 인터뷰에서 직접 밝히기는커녕 있습니다.) (Context: 영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')"
           ],
           "answerIndex": 0,
           "explanation": "공식 선례나 과거 사실을 격조 높게 서술하므로 '밝힌 바 있습니다'가 가장 적합합니다."
@@ -11410,8 +11410,8 @@
           "prompt": "영화의 시각적 구도 연출을 전문적으로 칭찬하는 가장 탁월한 비평 문장은?",
           "options": [
             "어둠과 빛의 강렬한 대비를 활용한 미장센이 인물의 고독감을 극대화했다. (화면 내 시각 요소 배치를 뜻하는 미장센이 인물의 고독감을 극대화했다가 완벽합니다.) (Target Korean construction)",
-            "어둠과 빛의 강렬한 대비를 활용할수록 카메라가 고장 났다. (Target expression (Korean))",
-            "어둠과 빛의 강렬한 대비를 활용하는 대신에 영화를 상영하지 않았다. (Target expression (Korean))"
+            "어둠과 빛의 강렬한 대비를 활용할수록 카메라가 고장 났다.) (Context: 영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')",
+            "어둠과 빛의 강렬한 대비를 활용하는 대신에 영화를 상영하지 않았다.) (Context: 영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')"
           ],
           "answerIndex": 0,
           "explanation": "화면 내 시각 요소 배치를 뜻하는 '미장센이 인물의 고독감을 극대화했다'가 완벽합니다."
@@ -11425,8 +11425,8 @@
           "prompt": "다음 중 '-(으)ㄴ 바 있다'의 문법적 기능으로 알맞은 것은?",
           "options": [
             "과거의 특정한 경험, 선례, 역사적 사실을 격식 있게 진술한다. (-(으)ㄴ 바 있다는 공식 문어체에서 과거의 선례나 사실을 진술할 때 쓰입니다.) (Target Korean construction)",
-            "미래에 일어날 사태를 추측하며 의문을 제기한다. (Target expression (Korean))",
-            "명령이나 청유형으로 상대방의 행동을 촉구한다. (Target expression (Korean))"
+            "미래에 일어날 사태를 추측하며 의문을 제기한다.) (Context: 영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')",
+            "명령이나 청유형으로 상대방의 행동을 촉구한다.) (Context: 영화 비평 문법과 미장센 연출 분석 ('-(으)ㄴ/는 바 있다')"
           ],
           "answerIndex": 0,
           "explanation": "'-(으)ㄴ 바 있다'는 공식 문어체에서 과거의 선례나 사실을 진술할 때 쓰입니다."
@@ -11580,8 +11580,8 @@
           "prompt": "영화 평론가가 심사위원 총평에서 만장일치 대상 수여 사실을 공식적으로 밝힐 때 가장 알맞은 문장은?",
           "options": [
             "심사위원단은 이 작품의 뛰어난 미학적 성취를 인정하여 만장일치로 대상을 수여한 바 있습니다. (공식 심사 총평의 격조 높은 진술에는 수여한 바 있습니다가 가장 적합합니다.) (팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.)",
-            "심사위원단은 대상을 수여하기는커녕 모두 영화관을 뛰쳐나갔습니다. (Target expression (Korean))",
-            "심사위원단은 대상을 수여하더라도 상금을 주지 않았습니다. (Target expression (Korean))"
+            "심사위원단은 대상을 수여하기는커녕 모두 영화관을 뛰쳐나갔습니다.) (Context: 국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화)",
+            "심사위원단은 대상을 수여하더라도 상금을 주지 않았습니다.) (Context: 국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화)"
           ],
           "answerIndex": 0,
           "explanation": "공식 심사 총평의 격조 높은 진술에는 '수여한 바 있습니다'가 가장 적합합니다."
@@ -11594,8 +11594,8 @@
           "prompt": "영화 평론 팟캐스트 중 장르적 재미와 사회 비판의 양면을 균형 있게 칭찬한 문장은?",
           "options": [
             "통쾌한 장르적 쾌감을 선사하는 한편, 현대 사회의 부조리를 날카롭게 통찰했습니다. (재미와 사회 비판의 조화로운 공존을 서술하므로 -는 한편(선사하는 한편)이 가장 탁월합니다.) (팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.)",
-            "통쾌한 장르적 쾌감을 선사할수록 현대 사회의 부조리가 심해졌습니다. (Target expression (Korean))",
-            "통쾌한 장르적 쾌감을 선사하더라도 재미가 전혀 없었습니다. (Target expression (Korean))"
+            "통쾌한 장르적 쾌감을 선사할수록 현대 사회의 부조리가 심해졌습니다.) (Context: 국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화)",
+            "통쾌한 장르적 쾌감을 선사하더라도 재미가 전혀 없었습니다.) (Context: 국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화)"
           ],
           "answerIndex": 0,
           "explanation": "재미와 사회 비판의 조화로운 공존을 서술하므로 '-는 한편(선사하는 한편)'이 가장 탁월합니다."
@@ -11609,8 +11609,8 @@
           "prompt": "다음 중 K-콘텐츠 및 영화 비평 전문 용어가 가장 올바르게 쓰인 것은?",
           "options": [
             "감독은 정교한 미장센을 통해 계급 갈등의 주제 의식을 훌륭히 형상화했습니다. (미장센과 주제 의식의 형상화는 영화 비평의 정통 전문 어휘입니다.) (팬덤 생태계, 서사 클리셰 전복, 미장센 연출, 웹툰 IP 확장, '-(으)ㄴ/는 바 있다'를 융합하여 국제 영화제 총평 및 심층 평론 팟캐스트 실전 담화를 완성한다.)",
-            "감독은 칼군무를 추면서 영화 필름을 가위로 잘랐습니다. (Target expression (Korean))",
-            "배우는 사이다 전개 대신에 콜라 전개를 요구했습니다. (Target expression (Korean))"
+            "감독은 칼군무를 추면서 영화 필름을 가위로 잘랐습니다.) (Context: 국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화)",
+            "배우는 사이다 전개 대신에 콜라 전개를 요구했습니다.) (Context: 국제 영화제 심사위원 총평 및 대중문화 팟캐스트 실전 비평 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'미장센'과 '주제 의식의 형상화'는 영화 비평의 정통 전문 어휘입니다."
@@ -11763,9 +11763,9 @@
         {
           "prompt": "'음식과 약은 그 근원이 같아 바른 식습관이 병을 다스린다'는 한식의 대표적 건강 철학은?",
           "options": [
-            "약식동원 (藥食同源) (Target expression (Korean))",
-            "작심삼일 (作心三日) (Target expression (Korean))",
-            "동상이몽 (同床異夢) (Target expression (Korean))"
+            "약식동원 (藥食同源)) (약식동원(Food and medicine share the same origin))",
+            "작심삼일 (作心三日)) (Context: 음양오행과 오방색의 한식 철학 및 궁중 수라상)",
+            "동상이몽 (同床異夢)) (Context: 음양오행과 오방색의 한식 철학 및 궁중 수라상)"
           ],
           "answerIndex": 0,
           "explanation": "'약식동원(Food and medicine share the same origin)'은 한식 영양 철학의 근간입니다."
@@ -11778,8 +11778,8 @@
           "prompt": "한식의 오방색(Five cardinal colors)에 해당하는 색깔의 올바른 조합은?",
           "options": [
             "청(Green/Blue), 적(Red), 황(Yellow), 백(White), 흑(Black)",
-            "보라, 주황, 분홍, 갈색, 회색 (Target expression (Korean))",
-            "금색, 은색, 동색, 청동색, 백금색 (Target expression (Korean))"
+            "보라, 주황, 분홍, 갈색, 회색) (Context: 음양오행과 오방색의 한식 철학 및 궁중 수라상)",
+            "금색, 은색, 동색, 청동색, 백금색) (Context: 음양오행과 오방색의 한식 철학 및 궁중 수라상)"
           ],
           "answerIndex": 0,
           "explanation": "전통 오방색은 청, 적, 황, 백, 흑 다섯 가지 색상입니다."
@@ -11794,7 +11794,7 @@
           "options": [
             "수라 (水剌 / 수라상) (임금에게 올리는 밥상을 수라상(水剌床)이라고 부릅니다.) (Target Korean construction)",
             "밥 (bap — cooked rice / meal (Batchim [ㅂ]))",
-            "진지 (Target expression (Korean))"
+            "진지) (Context: 음양오행과 오방색의 한식 철학 및 궁중 수라상)"
           ],
           "answerIndex": 0,
           "explanation": "임금에게 올리는 밥상을 '수라상(水剌床)'이라고 부릅니다."
@@ -11856,8 +11856,8 @@
           "prompt": "한국 전통 식사 자리에서 식사를 시작하는 올바른 순서는?",
           "options": [
             "자리에서 가장 나이가 많은 어른이 먼저 수저를 드신 후 식사를 시작한다. (어른이 먼저 수저를 드신 후에 아랫사람이 식사를 시작하는 것이 한국의 기본 식사 예절입니다.) (반상 차림과 전통 식사 예절 (Table Protocol & Etiquette))",
-            "음식이 나오는 즉시 배고픈 사람이 먼저 허겁지겁 먹는다. (Target expression (Korean))",
-            "막내가 먼저 숟가락을 들고 맛을 평가한 뒤 시작한다. (Target expression (Korean))"
+            "음식이 나오는 즉시 배고픈 사람이 먼저 허겁지겁 먹는다.) (Context: 반상 차림과 전통 식사 예절 (Table Protocol & E)",
+            "막내가 먼저 숟가락을 들고 맛을 평가한 뒤 시작한다.) (Context: 반상 차림과 전통 식사 예절 (Table Protocol & E)"
           ],
           "answerIndex": 0,
           "explanation": "어른이 먼저 수저를 드신 후에 아랫사람이 식사를 시작하는 것이 한국의 기본 식사 예절입니다."
@@ -11870,8 +11870,8 @@
           "prompt": "한국 식사 예절에서 금기시되는 잘못된 행동은?",
           "options": [
             "밥그릇이나 국그릇을 손으로 들고 입에 대고 마시는 행동 (한국에서는 밥그릇이나 국그릇을 손으로 들고 먹지 않는 것이 전통 규범입니다.) (반상 차림과 전통 식사 예절 (Table Protocol & Etiquette))",
-            "숟가락으로 국을 떠먹고 젓가락으로 나물을 집어먹는 행동 (Target expression (Korean))",
-            "어른의 식사 속도에 맞추어 식사를 마치는 행동 (Target expression (Korean))"
+            "숟가락으로 국을 떠먹고 젓가락으로 나물을 집어먹는 행동) (Context: 반상 차림과 전통 식사 예절 (Table Protocol & E)",
+            "어른의 식사 속도에 맞추어 식사를 마치는 행동) (Context: 반상 차림과 전통 식사 예절 (Table Protocol & E)"
           ],
           "answerIndex": 0,
           "explanation": "한국에서는 밥그릇이나 국그릇을 손으로 들고 먹지 않는 것이 전통 규범입니다."
@@ -11885,8 +11885,8 @@
           "prompt": "조선 시대 오직 임금의 수라상에만 차릴 수 있었던 최고 첩수의 반상은?",
           "options": [
             "12첩 반상 (12첩 반상은 국왕의 수라상에만 허용된 최고 격식의 반상 차림입니다.) (반상 차림과 전통 식사 예절 (Table Protocol & Etiquette))",
-            "9첩 반상 (Target expression (Korean))",
-            "7첩 반상 (Target expression (Korean))"
+            "9첩 반상) (Context: 반상 차림과 전통 식사 예절 (Table Protocol & E)",
+            "7첩 반상) (Context: 반상 차림과 전통 식사 예절 (Table Protocol & E)"
           ],
           "answerIndex": 0,
           "explanation": "12첩 반상은 국왕의 수라상에만 허용된 최고 격식의 반상 차림입니다."
@@ -11948,8 +11948,8 @@
           "prompt": "한국 불교 사찰음식에서 마음을 산란하게 하여 배제하는 마늘, 파 등 다섯 가지 자극적인 채소를 일컫는 말은?",
           "options": [
             "오신채 (五辛菜) (사찰음식에서 금하는 5가지 매운맛 채소(마늘, 파, 부추, 달래, 흥거)는 오신채입니다.) (향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝)",
-            "오방색 (五方色) (Target expression (Korean))",
-            "오곡밥 (五穀飯) (Target expression (Korean))"
+            "오방색 (五方色)) (Context: 향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝)",
+            "오곡밥 (五穀飯)) (Context: 향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝)"
           ],
           "answerIndex": 0,
           "explanation": "사찰음식에서 금하는 5가지 매운맛 채소(마늘, 파, 부추, 달래, 흥거)는 '오신채'입니다."
@@ -11962,8 +11962,8 @@
           "prompt": "음식이 너무 푸짐하고 찬의 가짓수가 많을 때 쓰는 가장 대표적인 한국어 관용 표현은?",
           "options": [
             "상다리가 부러질(휘어질) 정도로 푸짐하다 (한 상 가득 음식이 차려진 모습을 상다리가 부러질/휘어질 정도라고 비유합니다.) (향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝)",
-            "손가락이 아플 정도로 적다 (Target expression (Korean))",
-            "접시가 날아갈 정도로 가볍다 (Target expression (Korean))"
+            "손가락이 아플 정도로 적다) (Context: 향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝)",
+            "접시가 날아갈 정도로 가볍다) (Context: 향토 음식, 사찰음식 및 현대 K-푸드 파인다이닝)"
           ],
           "answerIndex": 0,
           "explanation": "한 상 가득 음식이 차려진 모습을 '상다리가 부러질/휘어질 정도'라고 비유합니다."
@@ -12040,8 +12040,8 @@
           "prompt": "미식 다큐멘터리에서 한식의 본질을 '시간과 자연에 순응하는 지혜'로 가장 격조 높게 설명한 문장은?",
           "options": [
             "한식의 정수는 기다림의 미학인 발효 과학과 자연과의 조화를 추구하는 약식동원 사상에 집약되어 있습니다. (발효 과학과 약식동원 사상을 결합한 학술적·철학적 설명이 C1 수준에 완벽히 부합합니다.)",
-            "한식은 그냥 맵고 짠 음식이니까 빨리빨리 먹으면 그만입니다. (Target expression (Korean))",
-            "한식은 패스트푸드처럼 인공 감미료를 많이 넣을수록 맛있습니다. (Target expression (Korean))"
+            "한식은 그냥 맵고 짠 음식이니까 빨리빨리 먹으면 그만입니다.) (Context: 궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 )",
+            "한식은 패스트푸드처럼 인공 감미료를 많이 넣을수록 맛있습니다.) (Context: 궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "'발효 과학'과 '약식동원 사상'을 결합한 학술적·철학적 설명이 C1 수준에 완벽히 부합합니다."
@@ -12054,8 +12054,8 @@
           "prompt": "궁중 수라상의 역사적 가치를 가장 올바르게 해설한 문장은?",
           "options": [
             "수라상은 팔도에서 진상된 제철 식재료를 통해 전국 백성의 농경 형편을 살피던 애민 의전이었다. (조선 왕실의 수라상은 왕이 백성들의 삶과 작황을 살피는 통치 의전이자 애민 정신의 발로였습니다.) (발효 미학, 음양오행 및 오방색, 12첩 수라상, 사찰음식과 모던 파인다이닝을 융합하여 C1 최고급 미식 다큐멘터리 인터뷰 담화를 완성한다.)",
-            "수라상은 왕 혼자서 욕심부려 배 터지게 먹으려고 만든 사치스러운 밥상이었다. (Target expression (Korean))",
-            "수라상은 신하들을 벌주기 위해 맛없는 풀만 올려놓은 상이었다. (Target expression (Korean))"
+            "수라상은 왕 혼자서 욕심부려 배 터지게 먹으려고 만든 사치스러운 밥상이었다.) (Context: 궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 )",
+            "수라상은 신하들을 벌주기 위해 맛없는 풀만 올려놓은 상이었다.) (Context: 궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "조선 왕실의 수라상은 왕이 백성들의 삶과 작황을 살피는 통치 의전이자 애민 정신의 발로였습니다."
@@ -12069,8 +12069,8 @@
           "prompt": "다음 중 전통 한식의 철학과 가장 거리가 먼 것은?",
           "options": [
             "자연의 생태를 파괴하고 오직 자극적인 인공 단맛만을 추구한다. (한식은 자연과의 조화와 약식동원을 추구하며, 인공 감미료를 통한 자극적 단맛 추구와는 거리가 멉니다.) (발효 미학, 음양오행 및 오방색, 12첩 수라상, 사찰음식과 모던 파인다이닝을 융합하여 C1 최고급 미식 다큐멘터리 인터뷰 담화를 완성한다.)",
-            "음식과 약의 근원이 같다는 약식동원(藥食同源) 사상 (Target expression (Korean))",
-            "청, 적, 황, 백, 흑 오방색의 음양오행적 영양 균형 (Target expression (Korean))"
+            "음식과 약의 근원이 같다는 약식동원(藥食同源) 사상) (Context: 궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 )",
+            "청, 적, 황, 백, 흑 오방색의 음양오행적 영양 균형) (Context: 궁중음식 무형문화재 명장 인터뷰 및 미식 다큐멘터리 실전 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "한식은 자연과의 조화와 약식동원을 추구하며, 인공 감미료를 통한 자극적 단맛 추구와는 거리가 멉니다."
@@ -12146,8 +12146,8 @@
           "prompt": "디스크로 인해 신경이 눌려 다리가 전기가 오듯 저리는 증상을 의사에게 설명할 때 가장 정확한 표현은?",
           "options": [
             "다리 뒤쪽이 전기가 통하듯 찌릿찌릿하고 저려요. (신경 압박으로 인한 방사통은 찌릿찌릿하고 저리다로 표현합니다.) (임상 증상 호소와 초진 문진 어휘 (Clinical Symptoms & Intake))",
-            "다리가 얼음처럼 차갑고 간지러워요. (Target expression (Korean))",
-            "다리에 화상을 입은 것처럼 따끔거려요. (Target expression (Korean))"
+            "다리가 얼음처럼 차갑고 간지러워요.) (Context: 임상 증상 호소와 초진 문진 어휘 (Clinical Sympto)",
+            "다리에 화상을 입은 것처럼 따끔거려요.) (Context: 임상 증상 호소와 초진 문진 어휘 (Clinical Sympto)"
           ],
           "answerIndex": 0,
           "explanation": "신경 압박으로 인한 방사통은 '찌릿찌릿하고 저리다'로 표현합니다."
@@ -12316,8 +12316,8 @@
           "prompt": "처방된 항생제를 복용할 때 가장 올바른 복약 수칙은?",
           "options": [
             "증상이 호전되더라도 내성균을 막기 위해 처방 일수 동안 끝까지 모두 복용한다. (항생제는 내성균 예방을 위해 증상이 나아져도 처방 일수를 끝까지 복용해야 합니다.) (처방전 해독과 약국 복약 지도 (Prescription & Pharmacy Guidance))",
-            "열이 내리면 즉시 약 복용을 중단하고 서랍에 보관한다. (Target expression (Korean))",
-            "더 빨리 낫기 위해 한 번에 3회 분량을 몰아서 복용한다. (Target expression (Korean))"
+            "열이 내리면 즉시 약 복용을 중단하고 서랍에 보관한다.) (Context: 처방전 해독과 약국 복약 지도 (Prescription & Ph)",
+            "더 빨리 낫기 위해 한 번에 3회 분량을 몰아서 복용한다.) (Context: 처방전 해독과 약국 복약 지도 (Prescription & Ph)"
           ],
           "answerIndex": 0,
           "explanation": "항생제는 내성균 예방을 위해 증상이 나아져도 처방 일수를 끝까지 복용해야 합니다."
@@ -12330,8 +12330,8 @@
           "prompt": "항히스타민제나 비염 감기약을 복용한 환자가 반드시 주의해야 할 행동은?",
           "options": [
             "졸림 현상이 나타날 수 있으므로 운전 및 정밀 기계 조작을 피한다. (졸음을 유발하는 감기약이나 항히스타민제 복용 후에는 운전을 삼가야 합니다.) (처방전 해독과 약국 복약 지도 (Prescription & Pharmacy Guidance))",
-            "약효를 높이기 위해 소주와 함께 삼킨다. (Target expression (Korean))",
-            "약을 씹어서 가루로 만들어 코로 마신다. (Target expression (Korean))"
+            "약효를 높이기 위해 소주와 함께 삼킨다.) (Context: 처방전 해독과 약국 복약 지도 (Prescription & Ph)",
+            "약을 씹어서 가루로 만들어 코로 마신다.) (Context: 처방전 해독과 약국 복약 지도 (Prescription & Ph)"
           ],
           "answerIndex": 0,
           "explanation": "졸음을 유발하는 감기약이나 항히스타민제 복용 후에는 운전을 삼가야 합니다."
@@ -12502,8 +12502,8 @@
           "prompt": "의료 상담 및 복약 과정의 올바른 절차를 바르게 나열한 것은?",
           "options": [
             "증상 문진 접수 → 정밀 검사 및 소견 확인 → 처방전 발급 → 약국 복약 지도 및 완복 (문진 → 정밀 검사/소견 → 처방전 발급 → 약국 복약 지도의 순서가 표준 의료 프로세스입니다.) (통증 호소, 영상 판독 소견, 처방전 복약 수칙, 건강보험 급여/비급여 상담을 유기적으로 통합하여 실전 C1 의료 담화를 완성한다.)",
-            "약국에서 약 먼저 사기 → 수술실 들어가기 → 의사에게 화내기 (Target expression (Korean))",
-            "CT 먼저 찍기 → 1차 병원 가기 → 처방전 버리기 (Target expression (Korean))"
+            "약국에서 약 먼저 사기 → 수술실 들어가기 → 의사에게 화내기) (Context: 종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 )",
+            "CT 먼저 찍기 → 1차 병원 가기 → 처방전 버리기) (Context: 종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "문진 → 정밀 검사/소견 → 처방전 발급 → 약국 복약 지도의 순서가 표준 의료 프로세스입니다."
@@ -12516,8 +12516,8 @@
           "prompt": "약사가 환자에게 항생제 복용에 대해 지도할 때 가장 중요한 지침 문장은?",
           "options": [
             "증상이 호전되더라도 내성균 방지를 위해 처방 일수 동안 끝까지 약을 다 드셔야 합니다. (항생제는 내성균 발생 예방을 위해 처방된 일수만큼 완복하도록 지도해야 합니다.) (통증 호소, 영상 판독 소견, 처방전 복약 수칙, 건강보험 급여/비급여 상담을 유기적으로 통합하여 실전 C1 의료 담화를 완성한다.)",
-            "속이 쓰리면 즉시 약을 버리고 커피를 마시세요. (Target expression (Korean))",
-            "약을 반으로 쪼개서 친구와 나누어 드세요. (Target expression (Korean))"
+            "속이 쓰리면 즉시 약을 버리고 커피를 마시세요.) (Context: 종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 )",
+            "약을 반으로 쪼개서 친구와 나누어 드세요.) (Context: 종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "항생제는 내성균 발생 예방을 위해 처방된 일수만큼 완복하도록 지도해야 합니다."
@@ -12531,8 +12531,8 @@
           "prompt": "다음 중 한국의 병원 및 약국 의료 임상 대화로서 가장 적합한 것은?",
           "options": [
             "환자분, 위내시경 검사 결과 특이 소견은 없으며 처방약은 식후 30분에 복용하십시오. (특이 소견 없음과 식후 30분 복용은 표준적인 의료 및 복약 지도 표현입니다.) (통증 호소, 영상 판독 소견, 처방전 복약 수칙, 건강보험 급여/비급여 상담을 유기적으로 통합하여 실전 C1 의료 담화를 완성한다.)",
-            "환자분, 오늘 수술은 식전에 하시고 붕대는 집에서 가위로 자르세요. (Target expression (Korean))",
-            "환자분, 약이 졸리면 운전하면서 커피를 세 잔 드세요. (Target expression (Korean))"
+            "환자분, 오늘 수술은 식전에 하시고 붕대는 집에서 가위로 자르세요.) (Context: 종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 )",
+            "환자분, 약이 졸리면 운전하면서 커피를 세 잔 드세요.) (Context: 종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 )"
           ],
           "answerIndex": 0,
           "explanation": "'특이 소견 없음'과 '식후 30분 복용'은 표준적인 의료 및 복약 지도 표현입니다."
@@ -12608,8 +12608,8 @@
           "prompt": "한국의 예금보험공사가 일반 금융기관 파산 시 법적으로 보장하는 1인당 최고 보호 금액은?",
           "options": [
             "원금과 소정의 이자를 합하여 1인당 최고 5천만 원까지 (현행 예금자 보호법상 1인당 금융기관별 최고 보호 한도는 원금과 이자를 합쳐 5천만 원입니다.) (은행 금융 상품과 투자 자산 운용 전문 어휘 (Banking & Investments))",
-            "원금 전액 무제한 보호 (Target expression (Korean))",
-            "보호 금액 한도 없음 (0원) (Target expression (Korean))"
+            "원금 전액 무제한 보호) (Context: 은행 금융 상품과 투자 자산 운용 전문 어휘 (Banking &)",
+            "보호 금액 한도 없음 (0원)) (Context: 은행 금융 상품과 투자 자산 운용 전문 어휘 (Banking &)"
           ],
           "answerIndex": 0,
           "explanation": "현행 예금자 보호법상 1인당 금융기관별 최고 보호 한도는 원금과 이자를 합쳐 5천만 원입니다."
@@ -12700,8 +12700,8 @@
           "prompt": "부동산 등기부등본에서 집주인이 은행에 진 빚(담보 대출)이나 가압류 내역을 확인할 수 있는 항목은?",
           "options": [
             "을구 (소유권 이외의 권리 - 근저당권, 전세권 등) (담보 대출, 근저당권 등 소유권 이외의 부채 권리관계는 을구에 기재됩니다.) (한국 고유의 부동산 임대차 계약과 권리 분석 (Jeonse & Real Estate))",
-            "갑구 (소유권에 관한 사항) (Target expression (Korean))",
-            "표제부 (부동산의 소재지 및 면적) (Target expression (Korean))"
+            "갑구 (소유권에 관한 사항)) (Context: 한국 고유의 부동산 임대차 계약과 권리 분석 (Jeonse & )",
+            "표제부 (부동산의 소재지 및 면적)) (Context: 한국 고유의 부동산 임대차 계약과 권리 분석 (Jeonse & )"
           ],
           "answerIndex": 0,
           "explanation": "담보 대출, 근저당권 등 소유권 이외의 부채 권리관계는 '을구'에 기재됩니다."
@@ -12778,8 +12778,8 @@
           "prompt": "한국의 중앙은행으로서 국가 통화 정책을 총괄하고 기준금리를 결정하는 기관은?",
           "options": [
             "한국은행 금융통화위원회 (국내 통화신용정책 및 기준금리를 결정하는 기구는 한국은행 금융통화위원회입니다.) (거시경제 지표와 금융 통화 정책 분석 (Macroeconomics & Monetary Policy))",
-            "국민건강보험공단 (Target expression (Korean))",
-            "한국관광공사 (Target expression (Korean))"
+            "국민건강보험공단) (Context: 거시경제 지표와 금융 통화 정책 분석 (Macroeconomic)",
+            "한국관광공사) (Context: 거시경제 지표와 금융 통화 정책 분석 (Macroeconomic)"
           ],
           "answerIndex": 0,
           "explanation": "국내 통화신용정책 및 기준금리를 결정하는 기구는 한국은행 금융통화위원회입니다."
@@ -12884,8 +12884,8 @@
           "prompt": "한국에서 가상자산(암호화폐)을 원화로 거래하기 위해 금융 당국이 의무화한 계좌 인증 시스템은?",
           "options": [
             "은행 실명확인 입출금계정 (한국의 가상자산 거래소 원화 입출금은 은행 실명확인 입출금계정을 통해서만 가능합니다.) (핀테크, 간편결제 및 디지털 가상자산 규제 (Fintech & Digital Assets))",
-            "가명 익명 거래 계좌 (Target expression (Korean))",
-            "해외 페이퍼컴퍼니 계좌 (Target expression (Korean))"
+            "가명 익명 거래 계좌) (Context: 핀테크, 간편결제 및 디지털 가상자산 규제 (Fintech & )",
+            "해외 페이퍼컴퍼니 계좌) (Context: 핀테크, 간편결제 및 디지털 가상자산 규제 (Fintech & )"
           ],
           "answerIndex": 0,
           "explanation": "한국의 가상자산 거래소 원화 입출금은 '은행 실명확인 입출금계정'을 통해서만 가능합니다."
@@ -12962,8 +12962,8 @@
           "prompt": "전세 계약 시 집주인이 잔금 지급 당일 몰래 은행 대출을 받는 것을 막기 위해 계약서에 넣는 가장 중요한 안전장치는?",
           "options": [
             "잔금 지급 익일까지 추가 담보대출을 설정하지 않는다는 계약서 특약 조항 (대항력 발생(익일 0시) 전 선순위 대출 방지를 위해 특약 조항을 반드시 명시해야 합니다.) (자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담화)",
-            "집주인에게 구두로 잘 부탁한다고 인사하기 (Target expression (Korean))",
-            "계약서를 작성하지 않고 현금으로 직접 건네기 (Target expression (Korean))"
+            "집주인에게 구두로 잘 부탁한다고 인사하기) (Context: 자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담)",
+            "계약서를 작성하지 않고 현금으로 직접 건네기) (Context: 자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담)"
           ],
           "answerIndex": 0,
           "explanation": "대항력 발생(익일 0시) 전 선순위 대출 방지를 위해 '특약 조항'을 반드시 명시해야 합니다."
@@ -12976,8 +12976,8 @@
           "prompt": "PB 자산관리 상담 중 시장 변동성에 대비하는 가장 이상적인 투자 태도로 서술된 것은?",
           "options": [
             "예금자 보호가 되는 안전 자산과 분산 투자 포트폴리오를 균형 있게 구성한다. (원금 보장 안전 자산과 분산 투자를 통한 리스크 관리가 정석적인 자산관리입니다.) (자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담화)",
-            "한 가지 위험 종목에 모든 전 재산을 몰빵하여 올인한다. (Target expression (Korean))",
-            "은행 대출을 최대로 받아 가상자산에 빚내서 투자한다. (Target expression (Korean))"
+            "한 가지 위험 종목에 모든 전 재산을 몰빵하여 올인한다.) (Context: 자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담)",
+            "은행 대출을 최대로 받아 가상자산에 빚내서 투자한다.) (Context: 자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담)"
           ],
           "answerIndex": 0,
           "explanation": "원금 보장 안전 자산과 분산 투자를 통한 리스크 관리가 정석적인 자산관리입니다."
@@ -12991,8 +12991,8 @@
           "prompt": "다음 중 한국의 부동산 및 금융 실전 상담 대화로 가장 올바른 것은?",
           "options": [
             "등기부등본을 확인하고 전입신고와 확정일자를 마쳐 보증금 대항력을 확보했습니다. (등기부등본 확인, 전입신고, 확정일자, 대항력 확보는 완벽한 부동산 경제 실전 표현입니다.) (자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담화)",
-            "전세계약을 맺었으니 등기부등본은 찢어서 버리셔도 됩니다. (Target expression (Korean))",
-            "원금 손실 위험이 100% 보장되는 펀드에 전 재산을 맡기세요. (Target expression (Korean))"
+            "전세계약을 맺었으니 등기부등본은 찢어서 버리셔도 됩니다.) (Context: 자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담)",
+            "원금 손실 위험이 100% 보장되는 펀드에 전 재산을 맡기세요.) (Context: 자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담)"
           ],
           "answerIndex": 0,
           "explanation": "'등기부등본 확인', '전입신고', '확정일자', '대항력 확보'는 완벽한 부동산 경제 실전 표현입니다."
@@ -13054,8 +13054,8 @@
           "prompt": "고생과 어려움을 꿋꿋이 이겨내고 나면 반드시 달콤한 행복과 결실이 찾아온다는 뜻의 사자성어는?",
           "options": [
             "고진감래 (苦盡甘來) (쓴 것이 다하면 단 것이 온다는 뜻으로 고생 끝의 보람을 나타내는 고사성어는 고진감래입니다.) (인생의 변화와 운명을 통찰하는 사자성어 (Life Philosophy & Fate))",
-            "양두구육 (羊頭狗肉) (Target expression (Korean))",
-            "주마간산 (走馬看山) (Target expression (Korean))"
+            "양두구육 (羊頭狗肉)) (Context: 인생의 변화와 운명을 통찰하는 사자성어 (Life Philoso)",
+            "주마간산 (走馬看山)) (Context: 인생의 변화와 운명을 통찰하는 사자성어 (Life Philoso)"
           ],
           "answerIndex": 0,
           "explanation": "'쓴 것이 다하면 단 것이 온다'는 뜻으로 고생 끝의 보람을 나타내는 고사성어는 '고진감래'입니다."
@@ -13068,8 +13068,8 @@
           "prompt": "과거와 비교하여 세상이 놀랍고 몰라보게 달라져 다른 세상에 온 것 같은 깊은 감회를 뜻하는 사자성어는?",
           "options": [
             "격세지감 (隔世之感) (세월이 흘러 세상의 변화가 극심하여 세대 차이를 실감할 때 느끼는 감정은 격세지감입니다.) (인생의 변화와 운명을 통찰하는 사자성어 (Life Philosophy & Fate))",
-            "탁상공론 (卓上空論) (Target expression (Korean))",
-            "화무십일홍 (花無十日紅) (Target expression (Korean))"
+            "탁상공론 (卓上空論)) (Context: 인생의 변화와 운명을 통찰하는 사자성어 (Life Philoso)",
+            "화무십일홍 (花無十日紅)) (Context: 인생의 변화와 운명을 통찰하는 사자성어 (Life Philoso)"
           ],
           "answerIndex": 0,
           "explanation": "세월이 흘러 세상의 변화가 극심하여 세대 차이를 실감할 때 느끼는 감정은 '격세지감'입니다."
@@ -13083,8 +13083,8 @@
           "prompt": "재앙이나 위기가 오히려 좋은 기회나 복으로 바뀐 상황을 가장 잘 나타낸 고사성어는?",
           "options": [
             "전화위복 (轉禍爲福) (재앙(禍)이 굴러 복(福)이 된다는 뜻의 사자성어는 전화위복입니다.) (인생의 변화와 운명을 통찰하는 사자성어 (Life Philosophy & Fate))",
-            "새옹지마 (塞翁之馬) (Target expression (Korean))",
-            "백절불굴 (百折不屈) (Target expression (Korean))"
+            "새옹지마 (塞翁之馬)) (Context: 인생의 변화와 운명을 통찰하는 사자성어 (Life Philoso)",
+            "백절불굴 (百折不屈)) (Context: 인생의 변화와 운명을 통찰하는 사자성어 (Life Philoso)"
           ],
           "answerIndex": 0,
           "explanation": "재앙(禍)이 굴러 복(福)이 된다는 뜻의 사자성어는 '전화위복'입니다."
@@ -13146,8 +13146,8 @@
           "prompt": "남의 잘못이나 하찮은 실수라도 자신의 인격과 교훈을 닦는 거울로 삼는다는 뜻의 사자성어는?",
           "options": [
             "타산지석 (他山之石) (다른 산의 돌로 내 옥을 간다는 뜻으로 남의 허물을 교훈 삼는 사자성어는 타산지석입니다.) (인간관계, 우정과 학문적 배움의 사자성어 (Friendship & Lifelong Learning))",
-            "양두구육 (羊頭狗肉) (Target expression (Korean))",
-            "화무십일홍 (花無十日紅) (Target expression (Korean))"
+            "양두구육 (羊頭狗肉)) (Context: 인간관계, 우정과 학문적 배움의 사자성어 (Friendship )",
+            "화무십일홍 (花無十日紅)) (Context: 인간관계, 우정과 학문적 배움의 사자성어 (Friendship )"
           ],
           "answerIndex": 0,
           "explanation": "'다른 산의 돌로 내 옥을 간다'는 뜻으로 남의 허물을 교훈 삼는 사자성어는 '타산지석'입니다."
@@ -13160,8 +13160,8 @@
           "prompt": "옛것을 연구하여 거기서 새로운 지식과 지혜를 터득한다는 뜻의 공자 학문 철학 사자성어는?",
           "options": [
             "온고지신 (溫故知新) (옛것을 온(익히고) 새것을 지(알다)는 뜻의 배움의 철학은 온고지신입니다.) (인간관계, 우정과 학문적 배움의 사자성어 (Friendship & Lifelong Learning))",
-            "주마간산 (走馬看山) (Target expression (Korean))",
-            "적반하장 (賊反荷杖) (Target expression (Korean))"
+            "주마간산 (走馬看山)) (Context: 인간관계, 우정과 학문적 배움의 사자성어 (Friendship )",
+            "적반하장 (賊反荷杖)) (Context: 인간관계, 우정과 학문적 배움의 사자성어 (Friendship )"
           ],
           "answerIndex": 0,
           "explanation": "'옛것을 온(익히고) 새것을 지(알다)'는 뜻의 배움의 철학은 '온고지신'입니다."
@@ -13175,8 +13175,8 @@
           "prompt": "제자가 스승의 가르침을 바탕으로 더욱 정진하여 스승보다 뛰어난 학문적 성취를 거두었을 때 쓰는 성어는?",
           "options": [
             "청출어람 (靑出於藍) (쪽에서 난 푸른 물감이 쪽보다 더 푸르다는 뜻으로 제자의 뛰어남을 찬양하는 성어는 청출어람입니다.) (인간관계, 우정과 학문적 배움의 사자성어 (Friendship & Lifelong Learning))",
-            "새옹지마 (塞翁之馬) (Target expression (Korean))",
-            "관포지교 (管鮑之交) (Target expression (Korean))"
+            "새옹지마 (塞翁之馬)) (Context: 인간관계, 우정과 학문적 배움의 사자성어 (Friendship )",
+            "관포지교 (管鮑之交)) (Context: 인간관계, 우정과 학문적 배움의 사자성어 (Friendship )"
           ],
           "answerIndex": 0,
           "explanation": "'쪽에서 난 푸른 물감이 쪽보다 더 푸르다'는 뜻으로 제자의 뛰어남을 찬양하는 성어는 '청출어람'입니다."
@@ -13238,8 +13238,8 @@
           "prompt": "평소에 빈틈없이 준비해 두면 뜻밖의 재앙이나 걱정거리가 생기지 않는다는 뜻의 사자성어는?",
           "options": [
             "유비무환 (有備無患) (준비가 있으면 우환이 없다는 뜻의 위기관리 사자성어는 유비무환입니다.) (불굴의 의지, 유비무환과 도덕적 결단 (Perseverance & Ethical Resolve))",
-            "탁상공론 (卓上空論) (Target expression (Korean))",
-            "침소봉대 (針小棒大) (Target expression (Korean))"
+            "탁상공론 (卓上空論)) (Context: 불굴의 의지, 유비무환과 도덕적 결단 (Perseverance )",
+            "침소봉대 (針小棒大)) (Context: 불굴의 의지, 유비무환과 도덕적 결단 (Perseverance )"
           ],
           "answerIndex": 0,
           "explanation": "'준비가 있으면 우환이 없다'는 뜻의 위기관리 사자성어는 '유비무환'입니다."
@@ -13252,8 +13252,8 @@
           "prompt": "갈등 해결과 원활한 소통을 위해 서로의 입장을 바꾸어 상대방의 처지에서 헤아려 보는 지혜를 일컫는 사자성어는?",
           "options": [
             "역지사지 (易地思之) (땅(입장)을 바꾸어 그것을 생각한다는 공감과 역지사지의 태도는 역지사지입니다.) (불굴의 의지, 유비무환과 도덕적 결단 (Perseverance & Ethical Resolve))",
-            "적반하장 (賊反荷杖) (Target expression (Korean))",
-            "와신상담 (臥薪嘗膽) (Target expression (Korean))"
+            "적반하장 (賊反荷杖)) (Context: 불굴의 의지, 유비무환과 도덕적 결단 (Perseverance )",
+            "와신상담 (臥薪嘗膽)) (Context: 불굴의 의지, 유비무환과 도덕적 결단 (Perseverance )"
           ],
           "answerIndex": 0,
           "explanation": "'땅(입장)을 바꾸어 그것을 생각한다'는 공감과 역지사지의 태도는 '역지사지'입니다."
@@ -13267,8 +13267,8 @@
           "prompt": "어떠한 시련과 난관 앞에서도 백 번 꺾일지언정 결코 굽히지 않는 굳센 절개를 이르는 말은?",
           "options": [
             "백절불굴 (百折不屈) (백 번 꺾여도 굽히지 않는 불굴의 투지를 나타내는 성어는 백절불굴입니다.) (불굴의 의지, 유비무환과 도덕적 결단 (Perseverance & Ethical Resolve))",
-            "고진감래 (苦盡甘來) (Target expression (Korean))",
-            "화무십일홍 (花無十日紅) (Target expression (Korean))"
+            "고진감래 (苦盡甘來)) (Context: 불굴의 의지, 유비무환과 도덕적 결단 (Perseverance )",
+            "화무십일홍 (花無十日紅)) (Context: 불굴의 의지, 유비무환과 도덕적 결단 (Perseverance )"
           ],
           "answerIndex": 0,
           "explanation": "백 번 꺾여도 굽히지 않는 불굴의 투지를 나타내는 성어는 '백절불굴'입니다."
@@ -13330,8 +13330,8 @@
           "prompt": "잘못을 저지른 사람이 도리어 큰소리를 치며 피해자에게 성을 내는 파렴치한 상황을 일컫는 사자성어는?",
           "options": [
             "적반하장 (賊反荷杖) (도둑이 도리어 몽둥이를 든다는 뜻으로 가해자의 뻔뻔함을 꼬집는 성어는 적반하장입니다.) (현실 비판과 모순 경계의 풍자 사자성어 (Critical Satire & Flaws))",
-            "온고지신 (溫故知新) (Target expression (Korean))",
-            "타산지석 (他山之石) (Target expression (Korean))"
+            "온고지신 (溫故知新)) (Context: 현실 비판과 모순 경계의 풍자 사자성어 (Critical Sat)",
+            "타산지석 (他山之石)) (Context: 현실 비판과 모순 경계의 풍자 사자성어 (Critical Sat)"
           ],
           "answerIndex": 0,
           "explanation": "'도둑이 도리어 몽둥이를 든다'는 뜻으로 가해자의 뻔뻔함을 꼬집는 성어는 '적반하장'입니다."
@@ -13344,8 +13344,8 @@
           "prompt": "겉으로는 훌륭한 명분을 내세우지만 속으로는 전혀 딴판인 질 낮은 것을 속여 파는 행태를 뜻하는 사자성어는?",
           "options": [
             "양두구육 (羊頭狗肉) (양의 머리를 걸고 개고기를 판다는 표리부동과 기만의 사자성어는 양두구육입니다.) (현실 비판과 모순 경계의 풍자 사자성어 (Critical Satire & Flaws))",
-            "유비무환 (有備無환) (Target expression (Korean))",
-            "백절불굴 (百折不屈) (Target expression (Korean))"
+            "유비무환 (有備無환)) (Context: 현실 비판과 모순 경계의 풍자 사자성어 (Critical Sat)",
+            "백절불굴 (百折不屈)) (Context: 현실 비판과 모순 경계의 풍자 사자성어 (Critical Sat)"
           ],
           "answerIndex": 0,
           "explanation": "'양의 머리를 걸고 개고기를 판다'는 표리부동과 기만의 사자성어는 '양두구육'입니다."
@@ -13359,8 +13359,8 @@
           "prompt": "현실적인 실행 가능성이나 현장의 목소리를 전혀 반영하지 않은 채 책상 위에서만 맴도는 헛된 논의는?",
           "options": [
             "탁상공론 (卓上空論) (현실과 동떨어진 헛된 책상머리 논의를 탁상공론이라 합니다.) (현실 비판과 모순 경계의 풍자 사자성어 (Critical Satire & Flaws))",
-            "청출어람 (靑出於藍) (Target expression (Korean))",
-            "전화위복 (轉禍爲福) (Target expression (Korean))"
+            "청출어람 (靑出於藍)) (Context: 현실 비판과 모순 경계의 풍자 사자성어 (Critical Sat)",
+            "전화위복 (轉禍爲福)) (Context: 현실 비판과 모순 경계의 풍자 사자성어 (Critical Sat)"
           ],
           "answerIndex": 0,
           "explanation": "현실과 동떨어진 헛된 책상머리 논의를 '탁상공론'이라 합니다."
@@ -13422,8 +13422,8 @@
           "prompt": "연설문에서 '옛 지혜를 바탕으로 혁신을 이루고, 철저한 사전 준비로 위험을 막자'는 취지를 표현할 때 가장 적합한 사자성어 쌍은?",
           "options": [
             "온고지신(溫故知新)과 유비무환(有備無患) (옛것을 익혀 새것을 아는 온고지신과 준비가 있으면 근심이 없다는 유비무환의 결합이 완벽합니다.) (신문 사설, CEO 신년사, 학술 포럼 기조연설에서 사자성어를 적재적소에 구사하여 설득력과 품격을 극대화한 최고급 C1 한국어 담화를 완성한다.)",
-            "양두구육(羊頭狗肉)과 적반하장(賊反荷杖) (Target expression (Korean))",
-            "주마간산(走馬看山)과 탁상공론(卓上空論) (Target expression (Korean))"
+            "양두구육(羊頭狗肉)과 적반하장(賊反荷杖)) (Context: 사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화)",
+            "주마간산(走馬看山)과 탁상공론(卓上空論)) (Context: 사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "옛것을 익혀 새것을 아는 '온고지신'과 준비가 있으면 근심이 없다는 '유비무환'의 결합이 완벽합니다."
@@ -13436,8 +13436,8 @@
           "prompt": "위기 극복 연설에서 '우리는 숱한 좌절에도 꺾이지 않고 피땀 흘려 노력해 마침내 위기를 기회로 바꾸었다'를 표현하는 사자성어 조합은?",
           "options": [
             "백절불굴(百折不屈), 와신상담(臥薪嘗膽), 전화위복(轉禍爲福) (백절불굴(꺾이지 않음), 와신상담(고초를 견딤), 전화위복(위기를 복으로 바꿈)이 완벽한 논리 조합입니다.) (신문 사설, CEO 신년사, 학술 포럼 기조연설에서 사자성어를 적재적소에 구사하여 설득력과 품격을 극대화한 최고급 C1 한국어 담화를 완성한다.)",
-            "침소봉대(針小棒大), 탁상공론(卓上空論), 화무십일홍(花無十日紅) (Target expression (Korean))",
-            "양두구육(羊頭狗肉), 주마간산(走馬看山), 적반하장(賊反荷杖) (Target expression (Korean))"
+            "침소봉대(針小棒大), 탁상공론(卓上空論), 화무십일홍(花無十日紅)) (Context: 사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화)",
+            "양두구육(羊頭狗肉), 주마간산(走馬看山), 적반하장(賊反荷杖)) (Context: 사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "백절불굴(꺾이지 않음), 와신상담(고초를 견딤), 전화위복(위기를 복으로 바꿈)이 완벽한 논리 조합입니다."
@@ -13451,8 +13451,8 @@
           "prompt": "다음 중 한국의 신년사 또는 칼럼 수사로서 가장 자연스럽고 모범적인 문장은?",
           "options": [
             "타산지석과 온고지신의 지혜로 백절불굴의 도전을 이어갑시다. (타산지석, 온고지신, 백절불굴은 최고급 수사로서 완벽한 품격을 자랑합니다.) (신문 사설, CEO 신년사, 학술 포럼 기조연설에서 사자성어를 적재적소에 구사하여 설득력과 품격을 극대화한 최고급 C1 한국어 담화를 완성한다.)",
-            "탁상공론과 양두구육의 정신으로 새해 사업을 망쳐봅시다. (Target expression (Korean))",
-            "적반하장과 침소봉대로 고객을 속이는 기업이 됩시다. (Target expression (Korean))"
+            "탁상공론과 양두구육의 정신으로 새해 사업을 망쳐봅시다.) (Context: 사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화)",
+            "적반하장과 침소봉대로 고객을 속이는 기업이 됩시다.) (Context: 사설 칼럼과 리더십 연설의 고급 사자성어 수사 실전 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'타산지석', '온고지신', '백절불굴'은 최고급 수사로서 완벽한 품격을 자랑합니다."
@@ -13698,8 +13698,8 @@
           "prompt": "학술 논문에서 연구 결과가 나타난 원인을 학술적이고 객관적으로 서술할 때 가장 적절한 표현은?",
           "options": [
             "~에 기인하는 것으로 해석된다 (Interpreted as attributable to)",
-            "~ 때문이라서 내가 기분이 좋다 (Target expression (Korean))",
-            "~ 인 것 같아서 그냥 그렇게 썼다 (Target expression (Korean))"
+            "~ 때문이라서 내가 기분이 좋다) (Context: 학술 논문 격식체 문체와 논증 표현 (Academic Argum)",
+            "~ 인 것 같아서 그냥 그렇게 썼다) (Context: 학술 논문 격식체 문체와 논증 표현 (Academic Argum)"
           ],
           "answerIndex": 0,
           "explanation": "'~에 기인하는 것으로 해석된다'는 원인 귀속을 객관적으로 서술하는 표준 학술 문형입니다."
@@ -13712,8 +13712,8 @@
           "prompt": "논문의 결론부에서 연구자가 조심스럽고 품격 있게 제언이나 견해를 밝힐 때 쓰는 고급 학술 어미는?",
           "options": [
             "~할 필요가 있을 것으로 사료된다 (Deemed necessary to)",
-            "~하니까 너희들이 알아서 해라 (Target expression (Korean))",
-            "~하고 싶다고 솔직히 말하겠다 (Target expression (Korean))"
+            "~하니까 너희들이 알아서 해라) (Context: 학술 논문 격식체 문체와 논증 표현 (Academic Argum)",
+            "~하고 싶다고 솔직히 말하겠다) (Context: 학술 논문 격식체 문체와 논증 표현 (Academic Argum)"
           ],
           "answerIndex": 0,
           "explanation": "'~으로 사료된다'는 학술 연구자의 정중하고 신중한 판단을 드러내는 최상급 학술 어휘입니다."
@@ -13727,8 +13727,8 @@
           "prompt": "연구의 가치와 학문적 기여도를 평가할 때 가장 적절한 학술적 문장 표현은?",
           "options": [
             "새로운 방법론을 제시했다는 점에서 중요한 학술적 의의를 지닌다. (~는 점에서 중요한 학술적 의의를 지닌다는 표준적인 학술 논문 의의 서술 표현입니다.) (학술 논문 격식체 문체와 논증 표현 (Academic Argumentative Syntax))",
-            "내가 열심히 썼기 때문에 이 논문은 아주 훌륭하다. (Target expression (Korean))",
-            "아무도 안 읽을 것 같아서 별로 의미가 없다. (Target expression (Korean))"
+            "내가 열심히 썼기 때문에 이 논문은 아주 훌륭하다.) (Context: 학술 논문 격식체 문체와 논증 표현 (Academic Argum)",
+            "아무도 안 읽을 것 같아서 별로 의미가 없다.) (Context: 학술 논문 격식체 문체와 논증 표현 (Academic Argum)"
           ],
           "answerIndex": 0,
           "explanation": "'~는 점에서 중요한 학술적 의의를 지닌다'는 표준적인 학술 논문 의의 서술 표현입니다."
@@ -13804,8 +13804,8 @@
           "prompt": "학술 발표 질의응답 시 청중이나 토론자의 비판적 지적을 수용하며 답변할 때 가장 모범적인 태도는?",
           "options": [
             "유익한 지적에 감사하며 향후 후속 연구에서 보완하겠다고 정중히 답변한다. (학술 토론에서는 지적 사항을 겸허히 수용하고 후속 연구 과제로 삼는 태도가 가장 바람직합니다.) (학술 심포지엄 토론, 질의응답 및 반론 제기 (Symposium Debate & Defense))",
-            "화를 내며 내 논문은 완벽하니 질문하지 말라고 소리친다. (Target expression (Korean))",
-            "모르는 질문에는 답변을 거부하고 무시한다. (Target expression (Korean))"
+            "화를 내며 내 논문은 완벽하니 질문하지 말라고 소리친다.) (Context: 학술 심포지엄 토론, 질의응답 및 반론 제기 (Symposium)",
+            "모르는 질문에는 답변을 거부하고 무시한다.) (Context: 학술 심포지엄 토론, 질의응답 및 반론 제기 (Symposium)"
           ],
           "answerIndex": 0,
           "explanation": "학술 토론에서는 지적 사항을 겸허히 수용하고 후속 연구 과제로 삼는 태도가 가장 바람직합니다."
@@ -13896,8 +13896,8 @@
           "prompt": "학위 논문 발표 마무리에서 연구가 지닌 가치를 학술적으로 천명하는 가장 적합한 문장은?",
           "options": [
             "본 연구는 한국어 담화 연구의 지평을 넓혔다는 점에서 학술적 의의를 지닙니다. (연구의 가치와 학문적 기여도를 당당하고 품격 있게 제시하는 표현이 모범적입니다.) (연구 가설, 연구 방법론, 실증 분석 결과, 학술적 의의 및 구술 심사 질의 소명을 종합하여 C1 최고급 학술 담화를 완성한다.)",
-            "이 논문은 페이지 수가 많으므로 무조건 훌륭합니다. (Target expression (Korean))",
-            "시간이 없어서 대충 썼으니 그냥 통과시켜 주십시오. (Target expression (Korean))"
+            "이 논문은 페이지 수가 많으므로 무조건 훌륭합니다.) (Context: 국제 학술 심포지엄 및 박사학위 논문 구술 심사 실전 학술 종합)",
+            "시간이 없어서 대충 썼으니 그냥 통과시켜 주십시오.) (Context: 국제 학술 심포지엄 및 박사학위 논문 구술 심사 실전 학술 종합)"
           ],
           "answerIndex": 0,
           "explanation": "연구의 가치와 학문적 기여도를 당당하고 품격 있게 제시하는 표현이 모범적입니다."
@@ -13911,8 +13911,8 @@
           "prompt": "다음 중 한국의 학술 심포지엄 및 학위 논문 심사 담화로서 가장 올바르고 품격 있는 것은?",
           "options": [
             "선행 연구를 고찰하고 실증 분석을 통해 가설을 검증하였으며 학술적 의의를 지닙니다. (선행 연구 고찰, 실증 분석, 가설 검증, 학술적 의의는 완벽한 최고급 학술 담화 표현입니다.) (연구 가설, 연구 방법론, 실증 분석 결과, 학술적 의의 및 구술 심사 질의 소명을 종합하여 C1 최고급 학술 담화를 완성한다.)",
-            "심사위원님들의 질문은 귀찮으니 서면으로만 제출해 주시기 바랍니다. (Target expression (Korean))",
-            "통계 분석 결과는 비밀이므로 공개할 수 없습니다. (Target expression (Korean))"
+            "심사위원님들의 질문은 귀찮으니 서면으로만 제출해 주시기 바랍니다.) (Context: 국제 학술 심포지엄 및 박사학위 논문 구술 심사 실전 학술 종합)",
+            "통계 분석 결과는 비밀이므로 공개할 수 없습니다.) (Context: 국제 학술 심포지엄 및 박사학위 논문 구술 심사 실전 학술 종합)"
           ],
           "answerIndex": 0,
           "explanation": "'선행 연구 고찰', '실증 분석', '가설 검증', '학술적 의의'는 완벽한 최고급 학술 담화 표현입니다."
@@ -14250,8 +14250,8 @@
           "prompt": "형사 판결문에서 피고인에 대한 형벌과 징역 기간을 확정하여 선고할 때 쓰는 표준 법정 종결형은?",
           "options": [
             "피고인을 징역 O년에 처한다 (~에 처한다)",
-            "피고인을 감옥에 보내기로 생각한다 (Target expression (Korean))",
-            "피고인이 죄를 지어서 벌을 주겠다 (Target expression (Korean))"
+            "피고인을 감옥에 보내기로 생각한다) (Context: 법원 판결문 및 헌재 결정문 전문 어미와 수사 (Judicial)",
+            "피고인이 죄를 지어서 벌을 주겠다) (Context: 법원 판결문 및 헌재 결정문 전문 어미와 수사 (Judicial)"
           ],
           "answerIndex": 0,
           "explanation": "형사 판결 주문의 표준 문형은 '~에 처한다'입니다."
@@ -14356,8 +14356,8 @@
           "prompt": "법정 변론에서 청구인이 국가의 기본권 침해 처분에 맞서 위헌성을 주장할 때 가장 결정적인 헌법적 논거는?",
           "options": [
             "해당 처분이 과잉금지원칙을 위반하여 기본권의 본질적 내용을 침해했다는 법리 (기본권 침해의 위헌성을 입증하는 핵심 법리는 과잉금지원칙 위반입니다.) (헌법재판소 대심판정 구두 변론, 증거 조사, 최후 변론 및 판결 선고를 총망라한 최고급 C1 사법 재판 담화를 완성한다.)",
-            "청구인의 기분이 매우 불쾌하다는 감정적 호소 (Target expression (Korean))",
-            "외국 법률과 상관없이 그냥 법을 없애달라는 요구 (Target expression (Korean))"
+            "청구인의 기분이 매우 불쾌하다는 감정적 호소) (Context: 헌법재판소 대심판정 공개변론 및 법정 재판 실전 사법 종합 담화)",
+            "외국 법률과 상관없이 그냥 법을 없애달라는 요구) (Context: 헌법재판소 대심판정 공개변론 및 법정 재판 실전 사법 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "기본권 침해의 위헌성을 입증하는 핵심 법리는 '과잉금지원칙 위반'입니다."
@@ -14371,8 +14371,8 @@
           "prompt": "다음 중 한국의 법원 및 헌법재판소 법정 담화로서 가장 올바르고 품격 있는 것은?",
           "options": [
             "과잉금지원칙 위배 여부를 심리하여 헌법에 합치하는 공정한 판결을 선고합니다. (과잉금지원칙 위배 여부 심리, 헌법 합치, 공정한 판결 선고는 완벽한 최고급 사법 법정 담화 표현입니다.) (헌법재판소 대심판정 구두 변론, 증거 조사, 최후 변론 및 판결 선고를 총망라한 최고급 C1 사법 재판 담화를 완성한다.)",
-            "재판은 귀찮으니 동전을 던져서 유죄와 무죄를 정하겠습니다. (Target expression (Korean))",
-            "판결문 작성 대신 당사자들끼리 법정에서 싸우십시오. (Target expression (Korean))"
+            "재판은 귀찮으니 동전을 던져서 유죄와 무죄를 정하겠습니다.) (Context: 헌법재판소 대심판정 공개변론 및 법정 재판 실전 사법 종합 담화)",
+            "판결문 작성 대신 당사자들끼리 법정에서 싸우십시오.) (Context: 헌법재판소 대심판정 공개변론 및 법정 재판 실전 사법 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'과잉금지원칙 위배 여부 심리', '헌법 합치', '공정한 판결 선고'는 완벽한 최고급 사법 법정 담화 표현입니다."
@@ -14710,8 +14710,8 @@
           "prompt": "시사 논증에서 어떤 사태가 부정적인 최종 결과로 끝날 확률이 매우 높음을 경고할 때 쓰는 고급 관용 문형은?",
           "options": [
             "~로 귀결될 공산이 크다 (High probability of culminating in)",
-            "~로 끝나면 내가 밥을 사겠다 (Target expression (Korean))",
-            "~로 될지 안 될지 아무도 모른다 (Target expression (Korean))"
+            "~로 끝나면 내가 밥을 사겠다) (Context: 정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy )",
+            "~로 될지 안 될지 아무도 모른다) (Context: 정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy )"
           ],
           "answerIndex": 0,
           "explanation": "'~로 귀결될 공산이 크다'는 결과의 인과적 귀결 가능성을 격조 높게 예측하는 표현입니다."
@@ -14724,8 +14724,8 @@
           "prompt": "정책의 마땅한 이치나 반드시 실행해야 하는 필요성을 강력하게 주장하며 강조할 때 쓰는 표현은?",
           "options": [
             "당위성을 역설하다 (Emphasize the imperativeness of)",
-            "그냥 해보자고 건의하다 (Target expression (Korean))",
-            "남의 말을 흉내 내다 (Target expression (Korean))"
+            "그냥 해보자고 건의하다) (Context: 정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy )",
+            "남의 말을 흉내 내다) (Context: 정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy )"
           ],
           "answerIndex": 0,
           "explanation": "마땅히 해야 할 도리나 필요성을 힘주어 말할 때 '당위성을 역설하다'를 사용합니다."
@@ -14739,8 +14739,8 @@
           "prompt": "국가적 위기 상황에서 결단의 시기를 놓치지 말아야 함을 강조하는 시사 표현은?",
           "options": [
             "개혁의 골든타임을 실기해서는 안 된다. (골든타임을 실기해서는 안 된다는 정책 추진의 결정적 시기를 강조하는 표현입니다.) (정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy Discourse Markers & Rhetoric))",
-            "시간이 많으니 천천히 나중에 생각하자. (Target expression (Korean))",
-            "어차피 안 될 일이니 포기하는 게 낫다. (Target expression (Korean))"
+            "시간이 많으니 천천히 나중에 생각하자.) (Context: 정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy )",
+            "어차피 안 될 일이니 포기하는 게 낫다.) (Context: 정책 토론 및 시사 평론 고급 담화 표지와 수사 (Policy )"
           ],
           "answerIndex": 0,
           "explanation": "'골든타임을 실기해서는 안 된다'는 정책 추진의 결정적 시기를 강조하는 표현입니다."
@@ -14816,8 +14816,8 @@
           "prompt": "국가적 대토론회 기조 발제에서 사회적 위기 극복을 촉구할 때 가장 모범적인 C2 담화 종결 표현은?",
           "options": [
             "미래 세대를 위해 개혁의 골든타임을 놓치지 말고 사회적 대타협을 이루어야 합니다. (미래 세대를 위한 책임 있는 개혁과 사회적 대타협을 촉구하는 표현이 가장 품격 있습니다.) (저출생 극복, 연금 개혁, 노동 시장 개편 및 세대 간 사회적 대타협을 총망라한 최고급 C2 정책 토론 담화를 완성한다.)",
-            "서로 싸우다가 망하든 말든 상관하지 않겠습니다. (Target expression (Korean))",
-            "복잡한 문제는 다음 대통령이 알아서 할 일입니다. (Target expression (Korean))"
+            "서로 싸우다가 망하든 말든 상관하지 않겠습니다.) (Context: 대통령 직속 저출산고령사회위원회 및 사회적 대타협 실전 종합 담)",
+            "복잡한 문제는 다음 대통령이 알아서 할 일입니다.) (Context: 대통령 직속 저출산고령사회위원회 및 사회적 대타협 실전 종합 담)"
           ],
           "answerIndex": 0,
           "explanation": "미래 세대를 위한 책임 있는 개혁과 사회적 대타협을 촉구하는 표현이 가장 품격 있습니다."
@@ -14831,8 +14831,8 @@
           "prompt": "다음 중 한국의 인구·복지·노동 정책 최고급 시사 담화로서 가장 완벽한 것은?",
           "options": [
             "인구 절벽에 직면한 현시점에서 사회적 대타협을 통해 연금 개혁과 상생의 노동 시장을 구축해야 합니다. (인구 절벽에 직면한 현시점, 사회적 대타협, 연금 개혁과 상생의 노동 시장은 완벽한 C2 시사 담화입니다.)",
-            "인구가 줄어들면 학교를 다 없애고 아무것도 안 하면 됩니다. (Target expression (Korean))",
-            "외국인들을 전부 쫓아내면 모든 문제가 해결됩니다. (Target expression (Korean))"
+            "인구가 줄어들면 학교를 다 없애고 아무것도 안 하면 됩니다.) (Context: 대통령 직속 저출산고령사회위원회 및 사회적 대타협 실전 종합 담)",
+            "외국인들을 전부 쫓아내면 모든 문제가 해결됩니다.) (Context: 대통령 직속 저출산고령사회위원회 및 사회적 대타협 실전 종합 담)"
           ],
           "answerIndex": 0,
           "explanation": "'인구 절벽에 직면한 현시점', '사회적 대타협', '연금 개혁과 상생의 노동 시장'은 완벽한 C2 시사 담화입니다."
@@ -14908,8 +14908,8 @@
           "prompt": "1970년대 한국의 급격한 산업화와 도시 재개발 이면에 숨겨진 철거민 가족의 비극을 연작 형태로 다룬 조세희의 소설은?",
           "options": [
             "난장이가 쏘아올린 작은 공 (도시 빈민과 산업화 소외를 서정적이고 강렬한 문체로 형상화한 작품은 «난장이가 쏘아올린 작은 공»입니다.) (한국 근현대 소설의 리얼리즘과 분단 문학 (Realism & Division Literature))",
-            "동백꽃 (Target expression (Korean))",
-            "운수 좋은 날 (Target expression (Korean))"
+            "동백꽃) (Context: 한국 근현대 소설의 리얼리즘과 분단 문학 (Realism & D)",
+            "운수 좋은 날) (Context: 한국 근현대 소설의 리얼리즘과 분단 문학 (Realism & D)"
           ],
           "answerIndex": 0,
           "explanation": "도시 빈민과 산업화 소외를 서정적이고 강렬한 문체로 형상화한 작품은 «난장이가 쏘아올린 작은 공»입니다."
@@ -15262,8 +15262,8 @@
           "prompt": "문학상 심사평에서 작품의 예술적 완성도와 수준을 가장 품격 있게 칭찬하는 표현은?",
           "options": [
             "인간 실존의 비극미를 유려하게 형상화하여 한국 문학의 지평을 넓혔다. (비극미를 유려하게 형상화하여 지평을 넓혔다는 최고급 문학 비평 수사입니다.) (Target Korean construction)",
-            "글자가 아주 예쁘게 인쇄되어 있어서 만점을 주었다. (Target expression (Korean))",
-            "작가가 유명한 사람이니까 무조건 상을 주기로 했다. (Target expression (Korean))"
+            "글자가 아주 예쁘게 인쇄되어 있어서 만점을 주었다.) (Context: 대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합)",
+            "작가가 유명한 사람이니까 무조건 상을 주기로 했다.) (Context: 대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합)"
           ],
           "answerIndex": 0,
           "explanation": "'비극미를 유려하게 형상화하여 지평을 넓혔다'는 최고급 문학 비평 수사입니다."
@@ -15276,8 +15276,8 @@
           "prompt": "문학상 수상 소감에서 독자와 이웃에 대한 문학적 헌신과 위로의 마음을 전할 때 가장 감동적인 C2 표현은?",
           "options": [
             "판소리의 추임새처럼 제 글이 이웃들의 고단한 삶에 따스한 위로로 가닿기를 소망합니다. (전통 예술의 추임새를 비유로 들어 삶의 위로와 연대를 표현하는 소감이 가장 격조 높습니다.) (Target Korean construction)",
-            "상금을 많이 받았으니 이제 글을 그만 쓰겠습니다. (Target expression (Korean))",
-            "나 혼자 잘나서 상을 받은 것이니 감사할 필요가 없습니다. (Target expression (Korean))"
+            "상금을 많이 받았으니 이제 글을 그만 쓰겠습니다.) (Context: 대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합)",
+            "나 혼자 잘나서 상을 받은 것이니 감사할 필요가 없습니다.) (Context: 대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합)"
           ],
           "answerIndex": 0,
           "explanation": "전통 예술의 '추임새'를 비유로 들어 삶의 위로와 연대를 표현하는 소감이 가장 격조 높습니다."
@@ -15290,9 +15290,9 @@
           "type": "multiple-choice",
           "prompt": "다음 중 한국 문학 및 예술 비평 최고급 C2 담화로서 가장 완벽한 것은?",
           "options": [
-            "역사적 상흔을 알레고리로 승화시키고 미학적 거리두기를 통해 인간 실존의 비극미를 유려하게 형상화하였습니다. (Target expression (Korean))",
-            "소설이 너무 길어서 읽기 힘들었으니 줄거리를 요약해서 다시 제출하십시오. (Target expression (Korean))",
-            "시는 재미가 없으니 앞으로는 만화책만 출판하는 것이 좋습니다. (Target expression (Korean))"
+            "역사적 상흔을 알레고리로 승화시키고 미학적 거리두기를 통해 인간 실존의 비극미를 유려하게 형상화하였습니다.) (역사적 상흔의 알레고리 승화, 미학적 거리두기, 비극미의 유려한 형상화는 완벽한 최고급 C...)",
+            "소설이 너무 길어서 읽기 힘들었으니 줄거리를 요약해서 다시 제출하십시오.) (Context: 대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합)",
+            "시는 재미가 없으니 앞으로는 만화책만 출판하는 것이 좋습니다.) (Context: 대한민국예술원 심포지엄 및 이상문학상 수상 작가 평론 실전 종합)"
           ],
           "answerIndex": 0,
           "explanation": "'역사적 상흔의 알레고리 승화', '미학적 거리두기', '비극미의 유려한 형상화'는 완벽한 최고급 C2 문학 비평입니다."
@@ -15659,8 +15659,8 @@
           "prompt": "첨단 기술 확보가 국가의 존립과 번영에 직결되어 있음을 강조하는 가장 강력한 사자성어적 관용구는?",
           "options": [
             "국가의 사활(死活)을 가른다 (Matters of life and death)",
-            "가화만사성이다 (Target expression (Korean))",
-            "동문서답을 일삼는다 (Target expression (Korean))"
+            "가화만사성이다) (Context: 기술 패권 경쟁과 공급망 안보 고급 경제·외교 담화 (Tech )",
+            "동문서답을 일삼는다) (Context: 기술 패권 경쟁과 공급망 안보 고급 경제·외교 담화 (Tech )"
           ],
           "answerIndex": 0,
           "explanation": "죽느냐 사느냐의 중대한 갈림길을 뜻하는 표현은 '사활을 가른다'입니다."
@@ -15722,8 +15722,8 @@
           "prompt": "국가 테크 서밋에서 반도체, 배터리, AI 등의 중요성을 강조할 때 가장 품격 있는 정책 표현은?",
           "options": [
             "초격차 원천 기술을 확보하여 국가의 기술 주권과 공급망 안보를 굳건히 수호해야 합니다. (초격차 원천 기술 확보, 기술 주권과 공급망 안보 수호는 최고급 과학기술 정책 담화입니다.) (반도체, 배터리, 인공지능, 기술 안보 및 미래 신산업 육성을 총망라한 최고급 C2 과학 기술 전략 담화를 완성한다.)",
-            "기술 개발은 돈이 많이 드니 외국에서 모두 사다 쓰는 것이 좋습니다. (Target expression (Korean))",
-            "컴퓨터 연구는 쓸모없으니 공장 문을 닫겠습니다. (Target expression (Korean))"
+            "기술 개발은 돈이 많이 드니 외국에서 모두 사다 쓰는 것이 좋습니다.) (Context: 국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화)",
+            "컴퓨터 연구는 쓸모없으니 공장 문을 닫겠습니다.) (Context: 국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'초격차 원천 기술 확보', '기술 주권과 공급망 안보 수호'는 최고급 과학기술 정책 담화입니다."
@@ -15736,8 +15736,8 @@
           "prompt": "글로벌 기술 경쟁에서 민관 협력의 중요성을 강조할 때 가장 적합한 담화 어구는?",
           "options": [
             "민관이 원팀이 되어 미래 기술 패권 경쟁의 파고를 돌파해 나갑시다. (민관이 원팀이 되어 기술 패권 경쟁의 파고를 돌파하자는 모범적인 비전 제시 표현입니다.) (반도체, 배터리, 인공지능, 기술 안보 및 미래 신산업 육성을 총망라한 최고급 C2 과학 기술 전략 담화를 완성한다.)",
-            "정부는 기업을 방해하고 기업은 세금을 안 내면 됩니다. (Target expression (Korean))",
-            "연구원들에게 월급을 주지 말고 알아서 일하라고 합시다. (Target expression (Korean))"
+            "정부는 기업을 방해하고 기업은 세금을 안 내면 됩니다.) (Context: 국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화)",
+            "연구원들에게 월급을 주지 말고 알아서 일하라고 합시다.) (Context: 국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'민관이 원팀이 되어 기술 패권 경쟁의 파고를 돌파하자'는 모범적인 비전 제시 표현입니다."
@@ -15751,8 +15751,8 @@
           "prompt": "다음 중 한국의 첨단 미래 과학기술 전략 최고급 C2 담화로서 가장 완벽한 것은?",
           "options": [
             "반도체와 이차전지, 인공지능의 초격차 우위를 선점하여 기술 주권을 확립하고 글로벌 G3 강국으로 도약합시다. (초격차 우위 선점, 기술 주권 확립, 글로벌 G3 강국 도약은 완벽한 최고급 C2 과학기술 담화입니다.)",
-            "스마트폰은 고장 나면 버리고 새로 사면 끝납니다. (Target expression (Korean))",
-            "기술 개발 대신 외국의 기계를 구경만 하는 것이 안전합니다. (Target expression (Korean))"
+            "스마트폰은 고장 나면 버리고 새로 사면 끝납니다.) (Context: 국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화)",
+            "기술 개발 대신 외국의 기계를 구경만 하는 것이 안전합니다.) (Context: 국가첨단전략산업위원회 및 글로벌 테크 서밋 실전 종합 담화)"
           ],
           "answerIndex": 0,
           "explanation": "'초격차 우위 선점', '기술 주권 확립', '글로벌 G3 강국 도약'은 완벽한 최고급 C2 과학기술 담화입니다."
@@ -15828,8 +15828,8 @@
           "prompt": "대통령이 외국의 원수와 체결한 국가 간 조약이 국내법적 효력을 갖기 위해 헌법에 따라 거쳐야 하는 의회의 절차는?",
           "options": [
             "국회 비준동의 (Ratification Consent by National Assembly)",
-            "지방의회 결의 (Target expression (Korean))",
-            "동사무소 신고 (Target expression (Korean))"
+            "지방의회 결의) (Context: 정상회담 의전, 양자·다자 공동선언문 및 조약 체결 (Summi)",
+            "동사무소 신고) (Context: 정상회담 의전, 양자·다자 공동선언문 및 조약 체결 (Summi)"
           ],
           "answerIndex": 0,
           "explanation": "조약의 국내법적 발효를 위해 필수적인 헌법상 절차는 '국회의 비준동의'입니다."
@@ -15843,8 +15843,8 @@
           "prompt": "외교 관계에서 상대방에게 베푼 혜택만큼 자신도 대등한 혜택을 돌려받는 호혜적 상호 교류 원칙을 뜻하는 용어는?",
           "options": [
             "상호호혜의 원칙 (Principle of Mutual Reciprocity)",
-            "일방적 굴종 (Target expression (Korean))",
-            "무조건적 양보 (Target expression (Korean))"
+            "일방적 굴종) (Context: 정상회담 의전, 양자·다자 공동선언문 및 조약 체결 (Summi)",
+            "무조건적 양보) (Context: 정상회담 의전, 양자·다자 공동선언문 및 조약 체결 (Summi)"
           ],
           "answerIndex": 0,
           "explanation": "대등한 국가 간 대우와 상호 이익을 중시하는 원칙은 '상호호혜의 원칙'입니다."
@@ -15935,8 +15935,8 @@
           "prompt": "1953년 체결된 임시 교전 중단 상태인 '정전협정'을 영구적으로 종식시키고 법적 평화를 완성하는 조약은?",
           "options": [
             "평화협정 (Peace Treaty / 평화체제 구축)",
-            "임대차계약서 (Target expression (Korean))",
-            "비밀유지협약 (Target expression (Korean))"
+            "임대차계약서) (Context: 한반도 평화 프로세스와 비핵화 및 다자 안보 협력 (Penins)",
+            "비밀유지협약) (Context: 한반도 평화 프로세스와 비핵화 및 다자 안보 협력 (Penins)"
           ],
           "answerIndex": 0,
           "explanation": "전쟁을 공식 종결하고 평화를 법적으로 완성하는 문건은 '평화협정'입니다."
@@ -16027,8 +16027,8 @@
           "prompt": "기후 위기에 취약한 개도국들에게 대한민국의 녹색 기술과 재정을 지원하여 기후 격차를 완화하는 외교 구상은?",
           "options": [
             "녹색 사다리 이니셔티브 (Green Ladder Initiative)",
-            "화석연료 보조금 (Target expression (Korean))",
-            "삼림 벌채 계획 (Target expression (Korean))"
+            "화석연료 보조금) (Context: 글로벌 중추국가(GPS) 비전과 국제기구 다자 외교 담론 (Gl)",
+            "삼림 벌채 계획) (Context: 글로벌 중추국가(GPS) 비전과 국제기구 다자 외교 담론 (Gl)"
           ],
           "answerIndex": 0,
           "explanation": "기후 취약국 지원을 위한 한국의 글로벌 기후 연대 구상은 '녹색 사다리 이니셔티브'입니다."
@@ -16090,8 +16090,8 @@
           "prompt": "국가의 운명과 번영을 크게 일으키고 번창하게 함을 뜻하는 장엄한 한자어 통치 표현은?",
           "options": [
             "국운을 융성(隆盛)하게 하다 (국가의 운명을 크게 떨쳐 일으킴을 국운을 융성하게 하다라고 합니다.) (국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Executive Statecraft Rhetoric))",
-            "동문서답하다 (Target expression (Korean))",
-            "임시방편을 쓰다 (Target expression (Korean))"
+            "동문서답하다) (Context: 국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Execut)",
+            "임시방편을 쓰다) (Context: 국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Execut)"
           ],
           "answerIndex": 0,
           "explanation": "국가의 운명을 크게 떨쳐 일으킴을 '국운을 융성하게 하다'라고 합니다."
@@ -16104,8 +16104,8 @@
           "prompt": "국가 지도자가 중대한 개혁 과제를 추진할 때 모든 것을 걸고 임하겠다는 결연한 의지를 나타내는 사자성어적 표현은?",
           "options": [
             "명운(命運)을 걸다 / 사활을 걸다 (목숨이나 운명을 걸고 결단하는 태도는 명운을 걸다입니다.) (국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Executive Statecraft Rhetoric))",
-            "작심삼일로 끝내다 (Target expression (Korean))",
-            "탁상공론을 일삼다 (Target expression (Korean))"
+            "작심삼일로 끝내다) (Context: 국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Execut)",
+            "탁상공론을 일삼다) (Context: 국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Execut)"
           ],
           "answerIndex": 0,
           "explanation": "목숨이나 운명을 걸고 결단하는 태도는 '명운을 걸다'입니다."
@@ -16119,8 +16119,8 @@
           "prompt": "대한민국 헌법 제69조에 따른 대통령 취임 선서의 시작 문구는?",
           "options": [
             "나는 헌법을 준수하고 국가를 보위하며... (대통령 취임 선서는 나는 헌법을 준수하고 국가를 보위하며...로 시작합니다.) (국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Executive Statecraft Rhetoric))",
-            "나는 오늘부터 일을 쉬고 놀러 가며... (Target expression (Korean))",
-            "나는 친구들과 함께 파티를 즐기며... (Target expression (Korean))"
+            "나는 오늘부터 일을 쉬고 놀러 가며...) (Context: 국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Execut)",
+            "나는 친구들과 함께 파티를 즐기며...) (Context: 국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Execut)"
           ],
           "answerIndex": 0,
           "explanation": "대통령 취임 선서는 '나는 헌법을 준수하고 국가를 보위하며...'로 시작합니다."
@@ -16182,8 +16182,8 @@
           "prompt": "유엔 총회나 국제 정상 연설에서 한국어 최고 수준(C2 Capstone)의 비전을 가장 격조 높게 천명하는 문장은?",
           "options": [
             "자유와 평화, 번영에 기여하는 글로벌 중추국가로서 규범 기반 국제 질서를 확립하는 데 앞장서겠습니다. (글로벌 중추국가로서 규범 기반 국제 질서 확립에 앞장서겠다는 최고 수준의 국가 수반 외교 비전 선언입니다.) (대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종합 실전 담화)",
-            "연설이 끝났으니 밥 먹으러 가겠습니다. (Target expression (Korean))",
-            "외국 친구들과 사진을 찍고 기념품을 사러 가겠습니다. (Target expression (Korean))"
+            "연설이 끝났으니 밥 먹으러 가겠습니다.) (Context: 대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종)",
+            "외국 친구들과 사진을 찍고 기념품을 사러 가겠습니다.) (Context: 대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종)"
           ],
           "answerIndex": 0,
           "explanation": "'글로벌 중추국가로서 규범 기반 국제 질서 확립에 앞장서겠다'는 최고 수준의 국가 수반 외교 비전 선언입니다."
@@ -16196,8 +16196,8 @@
           "prompt": "대통령 취임사에서 국민과 역사를 향한 무한한 책임과 도전을 결의할 때 가장 장엄한 C2 종결 어구는?",
           "options": [
             "역사의 엄중한 심판대 앞에서 국운을 융성하게 하고 자유와 번영의 새 시대를 활짝 열어젖히겠습니다. (역사의 엄중한 심판대 앞, 국운 융성, 자유와 번영의 새 시대는 완벽한 최고위 통치 연설 문형입니다.) (대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종합 실전 담화)",
-            "임기 동안 적당히 쉬다가 물러나겠습니다. (Target expression (Korean))",
-            "남들이 하라는 대로 대충 하겠습니다. (Target expression (Korean))"
+            "임기 동안 적당히 쉬다가 물러나겠습니다.) (Context: 대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종)",
+            "남들이 하라는 대로 대충 하겠습니다.) (Context: 대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종)"
           ],
           "answerIndex": 0,
           "explanation": "'역사의 엄중한 심판대 앞', '국운 융성', '자유와 번영의 새 시대'는 완벽한 최고위 통치 연설 문형입니다."
@@ -16211,8 +16211,8 @@
           "prompt": "한국어 170과정 전 교육을 완결하며, 대한민국 국가 지도자의 C2 최종 마스터리 선언으로 가장 완벽한 것은?",
           "options": [
             "위대한 국민과 함께 국운을 융성하게 하고 글로벌 중추국가로서 세계 평화와 번영에 영원히 기여합시다. (국운 융성, 글로벌 중추국가, 세계 평화와 번영 기여는 한국어 C2 최종 캡스톤의 완벽한 결실입니다.)",
-            "한국어 공부가 끝났으니 이제 책을 다 버리겠습니다. (Target expression (Korean))",
-            "글자를 모두 잊어버려도 상관없습니다. (Target expression (Korean))"
+            "한국어 공부가 끝났으니 이제 책을 다 버리겠습니다.) (Context: 대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종)",
+            "글자를 모두 잊어버려도 상관없습니다.) (Context: 대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종)"
           ],
           "answerIndex": 0,
           "explanation": "'국운 융성', '글로벌 중추국가', '세계 평화와 번영 기여'는 한국어 C2 최종 캡스톤의 완벽한 결실입니다."

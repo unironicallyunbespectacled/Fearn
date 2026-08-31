@@ -769,8 +769,8 @@
           "options": [
             "ስምህ ማን ነው? (Smeh man new? - to male)",
             "ስምሽ ማን ነው? (Smesh man new? - to female)",
-            "ስሜ ዳዊት ነው (Target expression (Amharic))",
-            "እንደምን ነህ? (Target expression (Amharic))"
+            "ስሜ ዳዊት ነው) (Context: የቀን ክፍለ ጊዜ ሰላምታዎች እና ስም መጠየቅ (Time-)",
+            "እንደምን ነህ?) (Context: የቀን ክፍለ ጊዜ ሰላምታዎች እና ስም መጠየቅ (Time-)"
           ],
           "answerIndex": 0,
           "explanation": "«ስምህ ማን ነው?» (*Smeh man new?*) is used for males."
@@ -783,9 +783,9 @@
           "prompt": "Select the Amharic sentence meaning \"My name is Dawit\":",
           "options": [
             "ስሜ ዳዊት ነው (Sme Dawit new)",
-            "ስምህ ማን ነው? (Target expression (Amharic))",
-            "እንደምን ነህ? (Target expression (Amharic))",
-            "ደህና ሁን (Target expression (Amharic))"
+            "ስምህ ማን ነው?) (Incorrect distractor meaning for: ስምህ ማን ነው?))",
+            "እንደምን ነህ?) (Incorrect distractor meaning for: እንደምን ነህ?))",
+            "ደህና ሁን) (Incorrect distractor meaning for: ደህና ሁን))"
           ],
           "answerIndex": 0,
           "explanation": "«ስሜ ዳዊት ነው» (*Sme Dawit new*) means \"My name is Dawit\"."
@@ -991,7 +991,7 @@
             "ደህና ሁኚ (Dehna huñi - Goodbye fem.)",
             "ደህና ሁን (Dehna hun - Goodbye masc.)",
             "ደህና ሁኑ (Dehna hunu - Goodbye plural)",
-            "እንደምን ነሽ? (Target expression (Amharic))"
+            "እንደምን ነሽ?) (Context: ስንብት፣ መልካም ምኞቶች እና የአንደኛ ክፍል ማጠቃለያ )"
           ],
           "answerIndex": 0,
           "explanation": "«ደህና ሁኚ» (*Dehna huñi*) is addressed to a woman."
@@ -1001,8 +1001,8 @@
           "options": [
             "መልካም ቀን! (Melkam qen! - Have a nice day!)",
             "መልካም ሌሊት! (Good night!)",
-            "ስሜ ዳዊት ነው (Target expression (Amharic))",
-            "አመሰግናለሁ (Target expression (Amharic))"
+            "ስሜ ዳዊት ነው) (Incorrect distractor meaning for: ስሜ ዳዊት ነው))",
+            "አመሰግናለሁ) (Incorrect distractor meaning for: አመሰግናለሁ))"
           ],
           "answerIndex": 0,
           "explanation": "«መልካም ቀን!» (*Melkam qen!*) means \"Have a nice day!\"."
@@ -1026,7 +1026,7 @@
           "prompt": "What casual loanword is widely used in urban Ethiopia for \"Bye!\" among friends?",
           "options": [
             "ቻው (Chao - Bye informal)",
-            "ሰላም (Target expression (Amharic))",
+            "ሰላም) (Context: ስንብት፣ መልካም ምኞቶች እና የአንደኛ ክፍል ማጠቃለያ )",
             "ሎሚ (lomi — lemon (ሎ [lo] + ሚ [mi]))",
             "ውሃ (wəha — water (ው [wə] + ሃ [ha]))"
           ],
@@ -1100,9 +1100,9 @@
           "prompt": "ለቀረበ ተባዕታይ ነገር (ለምሳሌ መጽሐፍ) 'ይህ ምንድን ነው?' ተብሎ ሲጠየቅ፣ ትክክለኛው ምላሽ የትኛው ነው?",
           "options": [
             "ይህ አዲስ መጽሐፍ ነው። (This is a new book - Correct masculine demonstrative)",
-            "እሷ ወደ ትምህርት ቤት ሄደች። (Target expression (Amharic))",
-            "ትላንት ማታ ዝናብ ዘነበ። (Target expression (Amharic))",
-            "ሻይ መጠጣት እወዳለሁ። (Target expression (Amharic))"
+            "እሷ ወደ ትምህርት ቤት ሄደች።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)",
+            "ትላንት ማታ ዝናብ ዘነበ።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)",
+            "ሻይ መጠጣት እወዳለሁ።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)"
           ],
           "answerIndex": 0,
           "explanation": "«ይህ አዲስ መጽሐፍ ነው» ለተባዕታይ መጠይቅ የተሰጠ ትክክለኛ ምላሽ ነው።"
@@ -1115,9 +1115,9 @@
           "prompt": "ለቀረበች አንስታይ ነገር (ለምሳሌ ወንበር) 'ይህች ምንድን ናት?' ተብሎ ሲጠየቅ፣ ትክክለኛው ምላሽ የትኛው ነው?",
           "options": [
             "ይህች ቆንጆ ወንበር ናት። (This is a beautiful chair - Correct feminine demonstrative)",
-            "ያ ትልቅ ወንድም ነው። (Target expression (Amharic))",
-            "እነሱ እግር ኳስ ተጫወቱ። (Target expression (Amharic))",
-            "በጠዋት ቁርስ በላሁ። (Target expression (Amharic))"
+            "ያ ትልቅ ወንድም ነው።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)",
+            "እነሱ እግር ኳስ ተጫወቱ።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)",
+            "በጠዋት ቁርስ በላሁ።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንስታይ ነገር «ይህች ... ናት» የሚለው ሰዋሰዋዊ መዋቅር ትክክለኛ ነው።"
@@ -1131,9 +1131,9 @@
           "prompt": "የአማርኛን አመልካች ተውላጠ ስሞች (ይህ፣ ይህች፣ ያ፣ ያቺ) በትክክል የለየው የትኛው ነው?",
           "options": [
             "«ይህ» ለቀረበ ወንድ፣ «ይህች» ለቀረበች ሴት፣ «ያ» ለራቀ ወንድ፣ «ያቺ» ለራቀች ሴት ያገለግላሉ። (በአማርኛ አመልካች ተውላጠ ስሞች የጾታና የርቀት ልዩነት አላቸው።) (የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Nouns & Demonstratives))",
-            "«ይህ» ለራቀ ነገር ብቻ ያገለግላል። (Target expression (Amharic))",
-            "«ያቺ» ለብዙ ወንዶች ያገለግላል። (Target expression (Amharic))",
-            "በአማርኛ አመልካች ቃላት የጾታ ልዩነት የላቸውም። (Target expression (Amharic))"
+            "«ይህ» ለራቀ ነገር ብቻ ያገለግላል።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)",
+            "«ያቺ» ለብዙ ወንዶች ያገለግላል።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)",
+            "በአማርኛ አመልካች ቃላት የጾታ ልዩነት የላቸውም።) (Context: የቤት እና የክፍል ውስጥ ዕቃዎች (Everyday Noun)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ አመልካች ተውላጠ ስሞች የጾታና የርቀት ልዩነት አላቸው።"
@@ -1190,9 +1190,9 @@
           "prompt": "ለአንስታይ ባለቤት (ለምሳሌ እህት ወይም እናት) ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
             "እህቴ ጎበዝ ዶክተር ናት። (My sister is an excellent doctor - Correct feminine copula)",
-            "እህቴ ትልቅ መጽሐፍ ነው። (Target expression (Amharic))",
-            "አባቴ ዛሬ መጣች። (Target expression (Amharic))",
-            "ወንድሜ ምግብ አበሰለች። (Target expression (Amharic))"
+            "እህቴ ትልቅ መጽሐፍ ነው።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)",
+            "አባቴ ዛሬ መጣች።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)",
+            "ወንድሜ ምግብ አበሰለች።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)"
           ],
           "answerIndex": 0,
           "explanation": "ለሴት ባለቤት «ናት» የሚለው ማሰሪያ አንቀጽ ጥቅም ላይ ይውላል።"
@@ -1205,9 +1205,9 @@
           "prompt": "ለተባዕታይ ባለቤት (ለምሳሌ አባት ወይም ወንድም) ትክክለኛውን ሰዋሰዋዊ አረፍተ ነገር ይምረጡ:",
           "options": [
             "አባቴ ደግ ሰው ነው። (My father is a kind man - Correct masculine structure)",
-            "አባቴ ቆንጆ እናት ናት። (Target expression (Amharic))",
-            "ወንድሜ አዲስ ቀሚስ ለበሰች። (Target expression (Amharic))",
-            "እህቴ ጎበዝ ገበሬ ነው። (Target expression (Amharic))"
+            "አባቴ ቆንጆ እናት ናት።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)",
+            "ወንድሜ አዲስ ቀሚስ ለበሰች።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)",
+            "እህቴ ጎበዝ ገበሬ ነው።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)"
           ],
           "answerIndex": 0,
           "explanation": "«አባቴ ደግ ሰው ነው» ተባዕታይ ጾታን በትክክል የጠበቀ አረፍተ ነገር ነው።"
@@ -1221,9 +1221,9 @@
           "prompt": "በአማርኛ ቋንቋ የጾታ አጠቃቀምን በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ለተባዕታይ (ወንድ) «ነው»፣ ለአንስታይ (ሴት) «ናት» ጥቅም ላይ ይውላል። (በአማርኛ ለተባዕታይ «ነው»፣ ለአንስታይ «ናት» ጥቅም ላይ ይውላል።) (የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gender)",
-            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል። (Target expression (Amharic))",
-            "ለሴት «ነህ» ተብሎ ይጠየቃል። (Target expression (Amharic))",
-            "በአማርኛ የስም ጾታ ልዩነት የለም። (Target expression (Amharic))"
+            "ለወንድና ለሴት ሁልጊዜ «ነው» ብቻ ይባላል።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)",
+            "ለሴት «ነህ» ተብሎ ይጠየቃል።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)",
+            "በአማርኛ የስም ጾታ ልዩነት የለም።) (Context: የስሞች ጾታ፡ ተባዕታይ እና አንስታይ (Noun Gende)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ለተባዕታይ «ነው»፣ ለአንስታይ «ናት» ጥቅም ላይ ይውላል።"
@@ -1280,9 +1280,9 @@
           "prompt": "«ቤት» (House) የሚለውን ነጠላ ስም ወደ ብዙ ቁጥር ለመቀየር ትክክለኛው ቅጥያ የትኛው ነው?",
           "options": [
             "ቤቶች (Houses - Correct plural with -och)",
-            "ቤታን (Target expression (Amharic))",
-            "ቤትዎች (Target expression (Amharic))",
-            "ቤቲን (Target expression (Amharic))"
+            "ቤታን) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)",
+            "ቤትዎች) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)",
+            "ቤቲን) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)"
           ],
           "answerIndex": 0,
           "explanation": "«ቤት» በተነባቢ ስለሚያልቅ «-ኦች» ተጨምሮ «ቤቶች» ይሆናል።"
@@ -1295,9 +1295,9 @@
           "prompt": "ከሚከተሉት ውስጥ ከቁጥር ጋር በትክክል የተዋቀረውን የአማርኛ አረፍተ ነገር ይምረጡ:",
           "options": [
             "በጠረጴዛው ላይ ሦስት ደብተር አለ። (There are three notebooks on the table - Correct numeral + singular noun)",
-            "በጠረጴዛው ላይ ሦስት ደብተሮች አለ። (Target expression (Amharic))",
-            "አንድ ቤቶች አየሁ። (Target expression (Amharic))",
-            "ብዙ መጽሐፍቶች አሉ። (Target expression (Amharic))"
+            "በጠረጴዛው ላይ ሦስት ደብተሮች አለ።) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)",
+            "አንድ ቤቶች አየሁ።) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)",
+            "ብዙ መጽሐፍቶች አሉ።) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ከቁጥር በኋላ ስም በነጠላ ይመጣል (ሦስት ደብተር)።"
@@ -1311,9 +1311,9 @@
           "prompt": "ለብዙ ቁጥር ስሞች የሚያገለግለው ትክክለኛው የማሰሪያ አንቀጽ (Copula) የትኛው ነው?",
           "options": [
             "እነዚህ ጎበዝ ተማሪዎች ናቸው። (These are excellent students - Correct plural copula)",
-            "እነዚህ ጎበዝ ተማሪዎች ነው (Target expression (Amharic))",
-            "እነዚህ ጎበዝ ተማሪዎች ናት (Target expression (Amharic))",
-            "እነዚህ ጎበዝ ተማሪዎች ነኝ (Target expression (Amharic))"
+            "እነዚህ ጎበዝ ተማሪዎች ነው) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)",
+            "እነዚህ ጎበዝ ተማሪዎች ናት) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)",
+            "እነዚህ ጎበዝ ተማሪዎች ነኝ) (Context: የስሞች ቁጥር፡ ነጠላ እና ብዙ ቁጥር (Noun Plura)"
           ],
           "answerIndex": 0,
           "explanation": "ለብዙ ቁጥር «ናቸው» (They are) ጥቅም ላይ ይውላል።"
@@ -1370,9 +1370,9 @@
           "prompt": "«መጽሐፍ» (Book) የሚለውን ቃል 'The book' ለማለት ትክክለኛው የወሳኝ ቅጥያ የትኛው ነው?",
           "options": [
             "መጽሐፉ (The book - Correct masculine definite suffix -u)",
-            "መጽሐፍዋ (Target expression (Amharic))",
-            "መጽሐፍኦች (Target expression (Amharic))",
-            "መጽሐፍና (Target expression (Amharic))"
+            "መጽሐፍዋ) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)",
+            "መጽሐፍኦች) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)",
+            "መጽሐፍና) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)"
           ],
           "answerIndex": 0,
           "explanation": "«መጽሐፍ» በተነባቢ ስለሚያልቅ «-ኡ» ተጨምሮበት «መጽሐፉ» (The book) ይሆናል።"
@@ -1385,9 +1385,9 @@
           "prompt": "«ልጅ» (Child/Girl) ለሴት ልጅ 'The girl' ለማለት ትክክለኛው የአንስታይ ወሳኝ ቅጽ የትኛው ነው?",
           "options": [
             "ልጅቷ / ልጇ (The girl - Correct feminine definite forms)",
-            "ልጁ (Target expression (Amharic))",
-            "ልጆች (Target expression (Amharic))",
-            "ልጃቸው (Target expression (Amharic))"
+            "ልጁ) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)",
+            "ልጆች) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)",
+            "ልጃቸው) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)"
           ],
           "answerIndex": 0,
           "explanation": "ለሴት ልጅ «ልጅቷ» ወይም «ልጇ» (The girl) ይባላል።"
@@ -1401,9 +1401,9 @@
           "prompt": "የብዙ ቁጥር ስሞችን ወሳኝ (Definite Plural) የማድረጊያ ቅጥያ በትክክል ያሳየው የትኛው ነው?",
           "options": [
             "ቤቶቹ (The houses - Correct plural definite suffix -ochu)",
-            "ቤቱዋ (Target expression (Amharic))",
-            "ቤትዎች (Target expression (Amharic))",
-            "ቤታቸው (Target expression (Amharic))"
+            "ቤቱዋ) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)",
+            "ቤትዎች) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)",
+            "ቤታቸው) (Context: የአማርኛ ወሳኝ መስተፃምሮች እና አመልካች ቅጥያዎች (T)"
           ],
           "answerIndex": 0,
           "explanation": "«ቤቶች» በሚለው የብዙ ቁጥር ላይ «-ኡ» ሲጨመር «ቤቶቹ» (The houses) ይሆናል።"
@@ -1460,9 +1460,9 @@
           "prompt": "«ይህች አዲስ ጠረጴዛ ናት» በሚለው አረፍተ ነገር ውስጥ ትክክለኛው ሰዋሰዋዊ ትንተና የትኛው ነው?",
           "options": [
             "«ይህች» አንስታይ አመልካች ሲሆን «ናት» የአንስታይ ማሰሪያ አንቀጽ ነው። (Correct feminine demonstrative and copula agreement)",
-            "«ይህች» ለብዙ ቁጥር ብቻ ያገለግላል። (Target expression (Amharic))",
-            "«ናት» የተባዕታይ ማሰሪያ አንቀጽ ነው። (Target expression (Amharic))",
-            "አረፍተ ነገሩ ሰዋሰዋዊ ስህተት አለበት። (Target expression (Amharic))"
+            "«ይህች» ለብዙ ቁጥር ብቻ ያገለግላል።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)",
+            "«ናት» የተባዕታይ ማሰሪያ አንቀጽ ነው።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)",
+            "አረፍተ ነገሩ ሰዋሰዋዊ ስህተት አለበት።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "«ይህች» እና «ናት» የአንስታይ ጾታ ስምምነትን በትክክል የጠበቁ ናቸው።"
@@ -1475,9 +1475,9 @@
           "prompt": "ከሚከተሉት ውስጥ የጾታ፣ የቁጥር እና የወሳኝ ቅጥያ ህጎችን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
             "ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ። (The students read the books in the classroom - Correct full syntax)",
-            "ተማሪዎቹ መጽሐፉ ያነባል እሷ። (Target expression (Amharic))",
-            "ይህ ወንበሮች ናት። (Target expression (Amharic))",
-            "ሦስት ቤቶች መጣ። (Target expression (Amharic))"
+            "ተማሪዎቹ መጽሐፉ ያነባል እሷ።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)",
+            "ይህ ወንበሮች ናት።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)",
+            "ሦስት ቤቶች መጣ።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "«ተማሪዎቹ በመማሪያ ክፍሉ ውስጥ መጽሐፎቹን ያነባሉ» ትክክለኛ ሰዋሰዋዊ መዋቅር ነው።"
@@ -1491,9 +1491,9 @@
           "prompt": "የክፍል 2ን ዋና ዋና ሰዋሰዋዊ መርሆዎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "በአማርኛ ስሞች በጾታ (ተባዕታይ/አንስታይ)፣ በቁጥር (-ኦች/-ዎች) እና በወሳኝ ቅጥያዎች (-ኡ/-ው፣ -ዋ/-ቷ፣ -ኦቹ) ይረባሉ። (በአማርኛ ስሞች በጾታ፣ በቁጥር እና በወሳኝ ቅጥያዎች በትክክል ይረባሉ።) (የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Synthesis & Everyday Noun Mastery))",
-            "በአማርኛ ስሞች ምንም አይነት ቅጥያ አይወስዱም። (Target expression (Amharic))",
-            "ለብዙ ቁጥር ሁልጊዜ «ናት» ጥቅም ላይ ይውላል። (Target expression (Amharic))",
-            "ከቁጥር በኋላ ስሞች ሁልጊዜ ብዙ ቁጥር መሆን አለባቸው። (Target expression (Amharic))"
+            "በአማርኛ ስሞች ምንም አይነት ቅጥያ አይወስዱም።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)",
+            "ለብዙ ቁጥር ሁልጊዜ «ናት» ጥቅም ላይ ይውላል።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)",
+            "ከቁጥር በኋላ ስሞች ሁልጊዜ ብዙ ቁጥር መሆን አለባቸው።) (Context: የክፍል 2 አጠቃላይ ማጠቃለያ (Unit 2 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ስሞች በጾታ፣ በቁጥር እና በወሳኝ ቅጥያዎች በትክክል ይረባሉ።"
@@ -1550,9 +1550,9 @@
           "prompt": "«እኛ» (We) ከሚለው የግል ተውላጠ ስም ጋር የሚሄደው ትክክለኛው ማሰሪያ አንቀጽ የትኛው ነው?",
           "options": [
             "እኛ ጎበዝ ሠራተኞች ነን። (We are diligent workers - Correct first-person plural agreement)",
-            "እኛ ጎበዝ ሠራተኞች ነኝ። (Target expression (Amharic))",
-            "እኛ ጎበዝ ሠራተኞች ናችሁ። (Target expression (Amharic))",
-            "እኛ ጎበዝ ሠራተኞች ነህ። (Target expression (Amharic))"
+            "እኛ ጎበዝ ሠራተኞች ነኝ።) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)",
+            "እኛ ጎበዝ ሠራተኞች ናችሁ።) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)",
+            "እኛ ጎበዝ ሠራተኞች ነህ።) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ» ከሚለው ባለቤት ጋር የሚሄደው ማሰሪያ አንቀጽ «ነን» ነው።"
@@ -1565,9 +1565,9 @@
           "prompt": "ለአንዲት ሴት 'አንቺ ጎበዝ ዶክተር...' ለማለት ዓረፍተ ነገሩን የሚያጠናቅቀው ትክክለኛው ቃል የትኛው ነው?",
           "options": [
             "ነሽ (You are [f] - Correct feminine singular copula)",
-            "ነህ (Target expression (Amharic))",
-            "ነኝ (Target expression (Amharic))",
-            "ናቸው (Target expression (Amharic))"
+            "ነህ) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)",
+            "ነኝ) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)",
+            "ናቸው) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንቺ የሚስማማው ማሰሪያ አንቀጽ «ነሽ» ነው።"
@@ -1581,9 +1581,9 @@
           "prompt": "የአማርኛ የግል ተውላጠ ስሞችና የማሰሪያ አንቀጾች ጥምረት በትክክል የቀረበው በየትኛው ነው?",
           "options": [
             "እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እሱ ነው፣ እሷ ናት፣ እኛ ነን። (የመጀመሪያው አማራጭ ሙሉውን የተውላጠ ስም እና የማሰሪያ አንቀጽ ስምምነት በትክክል ይዟል።) (የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Personal Pronouns & Copula Alignment))",
-            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት። (Target expression (Amharic))",
-            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ። (Target expression (Amharic))",
-            "እርስዎ ነህ፣ እሱ ነሽ። (Target expression (Amharic))"
+            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት።) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)",
+            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ።) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)",
+            "እርስዎ ነህ፣ እሱ ነሽ።) (Context: የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Persona)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የተውላጠ ስም እና የማሰሪያ አንቀጽ ስምምነት በትክክል ይዟል።"
@@ -1640,9 +1640,9 @@
           "prompt": "«ቤት» (House) የሚለውን ቃል 'Our house' ለማለት ትክክለኛው የይዞታ ቅጥያ የትኛው ነው?",
           "options": [
             "ቤታችን (Our house - Correct first-person plural possessive suffix)",
-            "ቤቴ (Target expression (Amharic))",
-            "ቤትህ (Target expression (Amharic))",
-            "ቤታቸው (Target expression (Amharic))"
+            "ቤቴ) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)",
+            "ቤትህ) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)",
+            "ቤታቸው) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)"
           ],
           "answerIndex": 0,
           "explanation": "ለ'የኛ ቤት' የሚሆነው የይዞታ ቅጥያ «-አችን» ተጨምሮ «ቤታችን» ይሆናል።"
@@ -1655,9 +1655,9 @@
           "prompt": "ለአንድ ወንድ 'Your book' ለማለት ትክክለኛው ቃል የትኛው ነው?",
           "options": [
             "መጽሐፍህ (Your book [to male] - Correct masculine possessive suffix -h)",
-            "መጽሐፍሽ (Target expression (Amharic))",
-            "መጽሐፌ (Target expression (Amharic))",
-            "መጽሐፋቸው (Target expression (Amharic))"
+            "መጽሐፍሽ) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)",
+            "መጽሐፌ) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)",
+            "መጽሐፋቸው) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)"
           ],
           "answerIndex": 0,
           "explanation": "ለወንድ 'ያንተ መጽሐፍ' ለማለት «መጽሐፍህ» ይባላል።"
@@ -1671,9 +1671,9 @@
           "prompt": "የይዞታ ቅጥያዎችን ትክክለኛ አጠቃቀም ያሳየው የትኛው ነው?",
           "options": [
             "-ኤ/ዬ (የኔ)፣ -ህ (ያንተ)፣ -ሽ (ያንቺ)፣ -አችን (የኛ)፣ -አቸው (የነሱ) ናቸው። (የመጀመሪያው አማራጭ ትክክለኛውን የይዞታ ቅጥያዎች ስርዓት ያሳያል።) (የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Suffixes -ዬ/-ህ/-ሽ/-ው/-ዋ/-አችን/-አችሁ/-አቸው))",
-            "-ህ የሴት ይዞታ ማሳያ ነው። (Target expression (Amharic))",
-            "-ሽ የወንድ ይዞታ ማሳያ ነው። (Target expression (Amharic))",
-            "በአማርኛ የይዞታ ቅጥያዎች የሉም። (Target expression (Amharic))"
+            "-ህ የሴት ይዞታ ማሳያ ነው።) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)",
+            "-ሽ የወንድ ይዞታ ማሳያ ነው።) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)",
+            "በአማርኛ የይዞታ ቅጥያዎች የሉም።) (Context: የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Su)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የይዞታ ቅጥያዎች ስርዓት ያሳያል።"
@@ -1730,9 +1730,9 @@
           "prompt": "«ወደ ትምህርት ቤት ሄደ» በሚለው ሐረግ ውስጥ «ወደ-» የሚያሳየው ምንን ነው?",
           "options": [
             "አቅጣጫን ወይም መዳረሻን (Direction / Destination - Correct role of ወደ-)",
-            "መነሻ ቦታን (Target expression (Amharic))",
-            "መሳሪያን (Target expression (Amharic))",
-            "ባለቤትነትን (Target expression (Amharic))"
+            "መነሻ ቦታን) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)",
+            "መሳሪያን) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)",
+            "ባለቤትነትን) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)"
           ],
           "answerIndex": 0,
           "explanation": "«ወደ-» የሚለው መስተዋድድ አቅጣጫንና መዳረሻን ያሳያል።"
@@ -1745,9 +1745,9 @@
           "prompt": "'I am going from Addis Ababa to Hawassa' የሚለውን ሐሳብ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
             "ከአዲስ አበባ ወደ ሐዋሳ እሄዳለሁ። (From Addis Ababa to Hawassa I will go - Correct prepositions)",
-            "በአዲስ አበባ ለአዋሳ እሄዳለሁ። (Target expression (Amharic))",
-            "ለአዲስ አበባ ከሐዋሳ እሄዳለሁ። (Target expression (Amharic))",
-            "ወደ አዲስ አበባ በሐዋሳ እሄዳለሁ። (Target expression (Amharic))"
+            "በአዲስ አበባ ለአዋሳ እሄዳለሁ።) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)",
+            "ለአዲስ አበባ ከሐዋሳ እሄዳለሁ።) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)",
+            "ወደ አዲስ አበባ በሐዋሳ እሄዳለሁ።) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)"
           ],
           "answerIndex": 0,
           "explanation": "መነሻ «ከ-»፣ መዳረሻ «ወደ-» በትክክል ተጣምረዋል።"
@@ -1761,9 +1761,9 @@
           "prompt": "የአማርኛ መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-) ትክክለኛ ተግባር የትኛው ነው?",
           "options": [
             "«በ-» (ውስጥ/በመሳሪያ)፣ «ከ-» (መነሻ)፣ «ወደ-» (አቅጣጫ)፣ «ለ-» (ተጠቃሚ/ምክንያት) ያሳያሉ። (መስተዋድዶች የስሞችን የቦታ፣ አቅጣጫና መሳሪያዊ ግንኙነት ይገልጻሉ።) (መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Prepositions)",
-            "«ወደ-» መነሻ ቦታን ብቻ ያሳያል። (Target expression (Amharic))",
-            "«ለ-» አቅጣጫን ብቻ ያሳያል። (Target expression (Amharic))",
-            "መስተዋድዶች ከስም ጋር አይጣበቁም። (Target expression (Amharic))"
+            "«ወደ-» መነሻ ቦታን ብቻ ያሳያል።) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)",
+            "«ለ-» አቅጣጫን ብቻ ያሳያል።) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)",
+            "መስተዋድዶች ከስም ጋር አይጣበቁም።) (Context: መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Pre)"
           ],
           "answerIndex": 0,
           "explanation": "መስተዋድዶች የስሞችን የቦታ፣ አቅጣጫና መሳሪያዊ ግንኙነት ይገልጻሉ።"
@@ -1821,9 +1821,9 @@
           "prompt": "«መጽሐፉ በጠረጴዛው ላይ ነው» በሚለው ዓረፍተ ነገር ውስጥ «በ...ላይ» ምንን ያመለክታል?",
           "options": [
             "በአንድ ነገር የላይኛው ክፍል ላይ መገኘትን (On top of / Surface location - Correct use of በ...ላይ)",
-            "በአንድ ነገር ውስጥ መሆንን (Target expression (Amharic))",
-            "ከአንድ ነገር በታች መደበቅን (Target expression (Amharic))",
-            "የጊዜ ቅደም ተከተልን (Target expression (Amharic))"
+            "በአንድ ነገር ውስጥ መሆንን) (Context: ድርብ መስተዋድዶች (Compound Prepositions)",
+            "ከአንድ ነገር በታች መደበቅን) (Context: ድርብ መስተዋድዶች (Compound Prepositions)",
+            "የጊዜ ቅደም ተከተልን) (Context: ድርብ መስተዋድዶች (Compound Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "«በ...ላይ» የአንድን ነገር የላይኛውን ገጽታ ወይም መገኛ ያሳያል።"
@@ -1836,9 +1836,9 @@
           "prompt": "'I am sitting with my friend' የሚለውን ሐሳብ የሚያስተላልፈው ትክክለኛው አረፍተ ነገር የትኛው ነው?",
           "options": [
             "እኔ ከጓደኛዬ ጋር ተቀምጫለሁ። (I am seated with my friend - Correct compound preposition ከ...ጋር)",
-            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ። (Target expression (Amharic))",
-            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ። (Target expression (Amharic))",
-            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ። (Target expression (Amharic))"
+            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ።) (Context: ድርብ መስተዋድዶች (Compound Prepositions)",
+            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ።) (Context: ድርብ መስተዋድዶች (Compound Prepositions)",
+            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ።) (Context: ድርብ መስተዋድዶች (Compound Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "አብሮነትን ለመግለጽ «ከ...ጋር» ጥቅም ላይ ይውላል።"
@@ -1854,7 +1854,7 @@
             "በክፍሉ ውስጥ (inside), በጠረጴዛው ላይ (on), ከወንበሩ በታች (under), ከጓደኛ ጋር (with)።",
             "በክፍሉ ጋር (with room), ከጠረጴዛው ውስጥ (inside table)።",
             "ወደ ወንበሩ ላይ (to chair), ለክፍሉ በታች (for room)።",
-            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም። (Target expression (Amharic))"
+            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም።) (Context: ድርብ መስተዋድዶች (Compound Prepositions)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛዎቹን ድርብ መስተዋድዶች በጥምረት ያሳያል።"
@@ -1911,9 +1911,9 @@
           "prompt": "«እኛ ከቤታችን ወጥተን ወደ ትምህርት ቤት እንሄዳለን» በሚለው አረፍተ ነገር ውስጥ «ከ-» እና «ወደ-» የሚያሳዩት ምንድን ነው?",
           "options": [
             "«ከ-» መነሻ ቦታን ሲያሳይ «ወደ-» መዳረሻ አቅጣጫን ያሳያል። (Correct prepositions of origin and destination)",
-            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ። (Target expression (Amharic))",
-            "ሁለቱም ጊዜን ብቻ ያሳያሉ። (Target expression (Amharic))",
-            "ሁለቱም ባለቤትነትን ያሳያሉ። (Target expression (Amharic))"
+            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)",
+            "ሁለቱም ጊዜን ብቻ ያሳያሉ።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)",
+            "ሁለቱም ባለቤትነትን ያሳያሉ።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "«ከ-» መነሻን (ከቤታችን)፣ «ወደ-» ደግሞ መዳረሻን (ወደ ትምህርት ቤት) ያሳያሉ።"
@@ -1926,9 +1926,9 @@
           "prompt": "ከሚከተሉት ውስጥ የባለቤትነት ቅጥያዎችን፣ መስተዋድዶችንና የግስ ስምምነትን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
             "እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ። (I put my book inside my bag - Correct full syntax)",
-            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ። (Target expression (Amharic))",
-            "እኛ ወደ ቤቴ ሄደች። (Target expression (Amharic))",
-            "እነሱ ከትምህርት ቤት ጋር ነኝ። (Target expression (Amharic))"
+            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)",
+            "እኛ ወደ ቤቴ ሄደች።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)",
+            "እነሱ ከትምህርት ቤት ጋር ነኝ።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ» ሰዋሰዋዊ ህጎችን ሙሉ በሙሉ ያሟላ ነው።"
@@ -1942,9 +1942,9 @@
           "prompt": "የክፍል 3ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የግል ተውላጠ ስሞች ከማሰሪያ አንቀጽ ጋር ይዛመዳሉ፤ ስሞች የይዞታ ቅጥያዎችን ይወስዳሉ፤ መስተዋድዶች (ቀላልና ድርብ) ግንኙነትን ይገልጻሉ። (በአማርኛ ተውላጠ ስሞች፣ የይዞታ ቅጥያዎች እና መስተዋድዶች የተቀናጀ ስርዓት አላቸው።) (የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Synthesis & Integrated Syntax))",
-            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም። (Target expression (Amharic))",
-            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው። (Target expression (Amharic))",
-            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)",
+            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)",
+            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው።) (Context: የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "በአማርኛ ተውላጠ ስሞች፣ የይዞታ ቅጥያዎች እና መስተዋድዶች የተቀናጀ ስርዓት አላቸው።"
@@ -2001,9 +2001,9 @@
           "prompt": "«እኔ» (I) ከሚለው የግል ተውላጠ ስም ጋር «መማር» (To Learn) የሚለው ግስ በአሁን ጊዜ እንዴት ይረባል?",
           "options": [
             "እማራለሁ (I learn - Correct first-person singular present tense)",
-            "ይማራል (Target expression (Amharic))",
-            "ትማራለች (Target expression (Amharic))",
-            "እንማራለን (Target expression (Amharic))"
+            "ይማራል) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )",
+            "ትማራለች) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )",
+            "እንማራለን) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )"
           ],
           "answerIndex": 0,
           "explanation": "«እኔ» በሚሆንበት ጊዜ «እ- ... -አለሁ» ቅጥያ ገብቶ «እማራለሁ» ይሆናል።"
@@ -2016,9 +2016,9 @@
           "prompt": "«እሷ» (She) ከሚለው ባለቤት ጋር የሚስማማውን የአሁን ጊዜ ግስ ይምረጡ:",
           "options": [
             "ትጽፋለች (She writes - Correct feminine singular present tense)",
-            "ይጽፋል (Target expression (Amharic))",
-            "እጽፋለሁ (Target expression (Amharic))",
-            "ይጽፋሉ (Target expression (Amharic))"
+            "ይጽፋል) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )",
+            "እጽፋለሁ) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )",
+            "ይጽፋሉ) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )"
           ],
           "answerIndex": 0,
           "explanation": "ለእሷ የሚስማማው የአሁን ጊዜ ቅጥያ «ት- ... -አለች» (ትጽፋለች) ነው።"
@@ -2032,9 +2032,9 @@
           "prompt": "የአሁን እና ልማዳዊ ጊዜ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እኔ እማራለሁ፣ እሱ ይማራል፣ እሷ ትማራለች፣ እኛ እንማራለን። (የመጀመሪያው አማራጭ ሙሉውን የግስ እርባታ ስምምነት ጠብቋል።) (የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present & Habitual Tense Conjugation))",
-            "እኔ ይማራል፣ እሱ እማራለሁ። (Target expression (Amharic))",
-            "እኛ ይማራሉ፣ እናንተ እንማራለን። (Target expression (Amharic))",
-            "እሷ ትማራለህ፣ አንተ ትማራለች። (Target expression (Amharic))"
+            "እኔ ይማራል፣ እሱ እማራለሁ።) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )",
+            "እኛ ይማራሉ፣ እናንተ እንማራለን።) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )",
+            "እሷ ትማራለህ፣ አንተ ትማራለች።) (Context: የአሁን እና የልማዳዊ ጊዜ ግሶች መዋቅር (Present )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የግስ እርባታ ስምምነት ጠብቋል።"
@@ -2091,9 +2091,9 @@
           "prompt": "«ቁርስ እበላለሁ» በሚለው አረፍተ ነገር ውስጥ «እበላለሁ» የሚለው ቃል ትርጉም ምንድን ነው?",
           "options": [
             "እኔ እበላለሁ / I eat (Correct first-person singular verb of መብላት)",
-            "እሱ ይበላል (Target expression (Amharic))",
-            "እሷ ትጠጣለች (Target expression (Amharic))",
-            "እኛ እንሄዳለን (Target expression (Amharic))"
+            "እሱ ይበላል) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)",
+            "እሷ ትጠጣለች) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)",
+            "እኛ እንሄዳለን) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)"
           ],
           "answerIndex": 0,
           "explanation": "«እበላለሁ» ከ«መብላት» ግስ የወጣ የአንደኛ መደብ ነጠላ የአሁን ጊዜ ግስ ነው።"
@@ -2106,9 +2106,9 @@
           "prompt": "ለአንድ ወንድ 'ወደ ሥራ ትሄዳለህ?' ብሎ ለመጠየቅ ትክክለኛው አገላለጽ የትኛው ነው?",
           "options": [
             "ወደ ሥራ ትሄዳለህ? (Do you go to work? [to male] - Correct masculine routine question)",
-            "ወደ ሥራ እሄዳለሁ? (Target expression (Amharic))",
-            "ወደ ሥራ ይሄዳሉ? (Target expression (Amharic))",
-            "ወደ ሥራ ትሄጃለሽ? (Target expression (Amharic))"
+            "ወደ ሥራ እሄዳለሁ?) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)",
+            "ወደ ሥራ ይሄዳሉ?) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)",
+            "ወደ ሥራ ትሄጃለሽ?) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)"
           ],
           "answerIndex": 0,
           "explanation": "ለአንድ ወንድ «ትሄዳለህ?» ተብሎ ይጠየቃል።"
@@ -2122,9 +2122,9 @@
           "prompt": "የዕለት ተዕለት ተግባራትን ቅደም ተከተል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በጠዋት እነሳለሁ፣ ቁርስ እበላለሁ፣ ወደ ሥራ እሄዳለሁ፣ ማታ እተኛለሁ። (የመጀመሪያው አማራጭ ትክክለኛውን የዕለት ተዕለት ተግባራት ቅደም ተከተልና ግሶች ይዟል።) (የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Routines & Common Verbs))",
-            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ። (Target expression (Amharic))",
-            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ። (Target expression (Amharic))",
-            "በአማርኛ የዕለት ተግባራት አይገለጹም። (Target expression (Amharic))"
+            "ማታ እነሳለሁ፣ በጠዋት እተኛለሁ፣ ወደ ቤት እሄዳለሁ።) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)",
+            "ቁርስ እተኛለሁ፣ ሥራ እጠጣለሁ።) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)",
+            "በአማርኛ የዕለት ተግባራት አይገለጹም።) (Context: የዕለት ተዕለት ተግባራት እና ድርጊቶች (Daily Rou)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የዕለት ተዕለት ተግባራት ቅደም ተከተልና ግሶች ይዟል።"
@@ -2181,9 +2181,9 @@
           "prompt": "«በየቀኑ» (Every day) የሚለው ቃል በአረፍተ ነገር ውስጥ የሚያሳየው ምንን ነው?",
           "options": [
             "የድርጊትን የዕለት ተዕለት ድግግሞሽ (Daily frequency of an action - Correct meaning of በየቀኑ)",
-            "ያለፈን ጊዜ ብቻ (Target expression (Amharic))",
-            "የቦታ ርቀትን (Target expression (Amharic))",
-            "የስም ጾታን (Target expression (Amharic))"
+            "ያለፈን ጊዜ ብቻ) (Context: የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of )",
+            "የቦታ ርቀትን) (Context: የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of )",
+            "የስም ጾታን) (Context: የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of )"
           ],
           "answerIndex": 0,
           "explanation": "«በየቀኑ» የድርጊትን የየቀን ድግግሞሽ ያሳያል።"
@@ -2196,9 +2196,9 @@
           "prompt": "'Tomorrow we will study together' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ነገ አብረን እንማራለን። (Tomorrow we study together - Correct adverb + verb)",
-            "ትላንት አብረን እንማራለን። (Target expression (Amharic))",
-            "አሁን ብቻ ተማርን። (Target expression (Amharic))",
-            "በጭራሽ አንማርም። (Target expression (Amharic))"
+            "ትላንት አብረን እንማራለን።) (Context: የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of )",
+            "አሁን ብቻ ተማርን።) (Context: የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of )",
+            "በጭራሽ አንማርም።) (Context: የጊዜ አመልካች ቃላት እና ድግግሞሽ (Adverbs of )"
           ],
           "answerIndex": 0,
           "explanation": "«ነገ» (Tomorrow) ከወደፊት/አሁን ጊዜ ግስ «እንማራለን» ጋር በትክክል ይጣመራል።"
@@ -2271,9 +2271,9 @@
           "prompt": "«እኔ አልበላም» በሚለው አረፍተ ነገር ውስጥ አሉታዊነትን ያመጡት ቅጥያዎች የትኞቹ ናቸው?",
           "options": [
             "«አል-» እና «-ም» (Negative prefix al- and suffix -m - Correct negation markers)",
-            "«እ-» እና «-አለሁ» (Target expression (Amharic))",
-            "«ት-» እና «-አለች» (Target expression (Amharic))",
-            "«ይ-» እና «-አል» (Target expression (Amharic))"
+            "«እ-» እና «-አለሁ») (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )",
+            "«ት-» እና «-አለች») (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )",
+            "«ይ-» እና «-አል») (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )"
           ],
           "answerIndex": 0,
           "explanation": "ለአንደኛ መደብ አሉታዊ ቅጥያዎች «አል-» እና «-ም» (አልበላም) ናቸው።"
@@ -2286,9 +2286,9 @@
           "prompt": "ለአንድ ወንድ 'You don't study' ለማለት ትክክለኛው አሉታዊ ግስ የትኛው ነው?",
           "options": [
             "አትማርም (You don't study [to male] - Correct masculine negative verb)",
-            "አልማርም (Target expression (Amharic))",
-            "አይማርም (Target expression (Amharic))",
-            "አንማርም (Target expression (Amharic))"
+            "አልማርም) (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )",
+            "አይማርም) (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )",
+            "አንማርም) (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )"
           ],
           "answerIndex": 0,
           "explanation": "ለአንተ «አት- ... -ም» (አትማርም) ይባላል።"
@@ -2302,9 +2302,9 @@
           "prompt": "የአሁን ጊዜ አሉታዊ የግስ እርባታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እኔ አልጠጣም፣ እሱ አይጠጣም፣ እሷ አትጠጣም፣ እኛ አንጠጣም። (የመጀመሪያው አማራጭ ትክክለኛውን አሉታዊ የግስ እርባታ ያሳያል።) (የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present Tense)",
-            "እኔ አይጠጣም፣ እሱ አልጠጣም። (Target expression (Amharic))",
-            "እኛ አትጠጣም፣ እናንተ አንጠጣም። (Target expression (Amharic))",
-            "በአማርኛ አሉታዊ ቅጥያ -ም የለም። (Target expression (Amharic))"
+            "እኔ አይጠጣም፣ እሱ አልጠጣም።) (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )",
+            "እኛ አትጠጣም፣ እናንተ አንጠጣም።) (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )",
+            "በአማርኛ አሉታዊ ቅጥያ -ም የለም።) (Context: የአሁን ጊዜ አሉታዊ ቅርጽ (Negative Present )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን አሉታዊ የግስ እርባታ ያሳያል።"
@@ -2361,9 +2361,9 @@
           "prompt": "«እኔ ሻይ እጠጣለሁ፣ ነገር ግን ቡና አልጠጣም» በሚለው ዓረፍተ ነገር ውስጥ አዎንታዊ እና አሉታዊ ግሶቹ የትኞቹ ናቸው?",
           "options": [
             "«እጠጣለሁ» አዎንታዊ ሲሆን «አልጠጣም» አሉታዊ ነው (Correct identification of positive and negative verbs)",
-            "ሁለቱም አዎንታዊ ናቸው (Target expression (Amharic))",
-            "ሁለቱም አሉታዊ ናቸው (Target expression (Amharic))",
-            "ምንም ግስ የለም (Target expression (Amharic))"
+            "ሁለቱም አዎንታዊ ናቸው) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)",
+            "ሁለቱም አሉታዊ ናቸው) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)",
+            "ምንም ግስ የለም) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "«እጠጣለሁ» (I drink) አዎንታዊ ሲሆን «አልጠጣም» (I don't drink) አሉታዊ ነው።"
@@ -2376,9 +2376,9 @@
           "prompt": "ከሚከተሉት ውስጥ የዕለት ተዕለት ተግባርን፣ የጊዜ አመልካችን እና ትክክለኛ የግስ ስምምነትን ያሟላው የትኛው ነው?",
           "options": [
             "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን። (We go to school every day in the morning - Correct routine syntax)",
-            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ። (Target expression (Amharic))",
-            "እሱ ሁልጊዜ ቁርስ አልበላም። (Target expression (Amharic))",
-            "እነሱ ዛሬ ሥራ ይሠራሉ። (Target expression (Amharic))"
+            "እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እሄዳለሁ።) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)",
+            "እሱ ሁልጊዜ ቁርስ አልበላም።) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)",
+            "እነሱ ዛሬ ሥራ ይሠራሉ።) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ በየቀኑ ጠዋት ወደ ትምህርት ቤት እንሄዳለን» ባለቤትና ማሰሪያ አንቀጹን በትክክል ያዛመደ ነው።"
@@ -2392,9 +2392,9 @@
           "prompt": "የክፍል 4ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የአሁን ጊዜ ግሶች በአዎንታዊ (እ-...-አለሁ) እና በአሉታዊ (አል-...-ም) ይረባሉ፤ ከጊዜና ድግግሞሽ ቃላት ጋር ይጣመራሉ። (የመጀመሪያው አማራጭ የክፍል 4ን ሰዋሰዋዊ መዋቅር ሙሉ በሙሉ ያጠቃልላል።) (የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Synthesis & Daily Routine Discourse))",
-            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም። (Target expression (Amharic))",
-            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው። (Target expression (Amharic))",
-            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው። (Target expression (Amharic))"
+            "በአማርኛ ግሶች የአሁን ጊዜ የላቸውም።) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)",
+            "አሉታዊ ለማድረግ ቃሉን መደጋገም ብቻ በቂ ነው።) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)",
+            "ለብዙ ቁጥር እና ለነጠላ ቁጥር ግስ አንድ ዓይነት ነው።) (Context: የክፍል 4 አጠቃላይ ማጠቃለያ (Unit 4 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 4ን ሰዋሰዋዊ መዋቅር ሙሉ በሙሉ ያጠቃልላል።"
@@ -2541,9 +2541,9 @@
           "prompt": "ከሚከተሉት ውስጥ የሳምንቱ የመጀመሪያው የሥራ ቀን የትኛው ነው?",
           "options": [
             "ሰኞ (Monday - First weekday)",
-            "ቅዳሜ (Target expression (Amharic))",
-            "እሑድ (Target expression (Amharic))",
-            "ሐሙስ (Target expression (Amharic))"
+            "ቅዳሜ) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )",
+            "እሑድ) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )",
+            "ሐሙስ) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )"
           ],
           "answerIndex": 0,
           "explanation": "«ሰኞ» (Monday) የሳምንቱ የመጀመሪያው የሥራ ቀን ነው።"
@@ -2556,9 +2556,9 @@
           "prompt": "'On Saturday and Sunday' የሚለውን ሐረግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ቅዳሜ እና እሑድ (Saturday and Sunday - Correct weekend pair)",
-            "ሰኞ እና ማክሰኞ (Target expression (Amharic))",
-            "ረቡዕ እና ሐሙስ (Target expression (Amharic))",
-            "ዓርብ እና ሰኞ (Target expression (Amharic))"
+            "ሰኞ እና ማክሰኞ) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )",
+            "ረቡዕ እና ሐሙስ) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )",
+            "ዓርብ እና ሰኞ) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )"
           ],
           "answerIndex": 0,
           "explanation": "ቅዳሜ (Saturday) እና እሑድ (Sunday) የሳምንቱ መጨረሻ ቀናት ናቸው።"
@@ -2572,9 +2572,9 @@
           "prompt": "ሰባቱን የሳምንቱ ቀናት በቅደም ተከተል በትክክል የዘረዘረው የትኛው ነው?",
           "options": [
             "ሰኞ፣ ማክሰኞ፣ ረቡዕ፣ ሐሙስ፣ ዓርብ፣ ቅዳሜ፣ እሑድ። (የመጀመሪያው አማራጭ ሰባቱን ቀናት በትክክለኛ ቅደም ተከተላቸው ይዟል።) (የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of the Week & Parts of the Day))",
-            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ። (Target expression (Amharic))",
-            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ። (Target expression (Amharic))",
-            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው። (Target expression (Amharic))"
+            "ቅዳሜ፣ እሑድ፣ ሰኞ፣ ዓርብ።) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )",
+            "ማክሰኞ፣ ሰኞ፣ ሐሙስ፣ ረቡዕ።) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )",
+            "በአማርኛ የሳምንቱ ቀናት አምስት ብቻ ናቸው።) (Context: የሳምንቱ ቀናት እና የቀን ክፍለ-ጊዜያት (Days of )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሰባቱን ቀናት በትክክለኛ ቅደም ተከተላቸው ይዟል።"
@@ -2631,9 +2631,9 @@
           "prompt": "ቀጠሮ ለማመቻቸት 'ይመቸኛል' የሚለው ቃል ምን ማለት ነው?",
           "options": [
             "ይመቸኛል / It is convenient for me (Correct acceptance of an appointment)",
-            "አልፈልግም (Target expression (Amharic))",
-            "አልመጣም (Target expression (Amharic))",
-            "አረፈድኩ (Target expression (Amharic))"
+            "አልፈልግም) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)",
+            "አልመጣም) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)",
+            "አረፈድኩ) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)"
           ],
           "answerIndex": 0,
           "explanation": "«ይመቸኛል» የቀረበው ሰዓትና ቦታ አመቺ መሆኑን ያረጋግጣል።"
@@ -2646,9 +2646,9 @@
           "prompt": "'When shall we meet?' የሚለውን ጥያቄ በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
             "መቼ እንገናኝ? (When shall we meet? - Correct scheduling question)",
-            "የት ሄድክ? (Target expression (Amharic))",
-            "ስንት ነው? (Target expression (Amharic))",
-            "ምን በላህ? (Target expression (Amharic))"
+            "የት ሄድክ?) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)",
+            "ስንት ነው?) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)",
+            "ምን በላህ?) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)"
           ],
           "answerIndex": 0,
           "explanation": "«መቼ እንገናኝ?» የቀጠሮ ጊዜ ለመጠየቅ የሚያገለግል ትክክለኛ አገላለጽ ነው።"
@@ -2662,9 +2662,9 @@
           "prompt": "የቀጠሮ አያያዝን እና ስምምነትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "መቼ እንገናኝ? ነገ ጠዋት በሦስት ሰዓት ይመቸኛል፤ በሰዓቱ እመጣለሁ። (የመጀመሪያው አማራጭ ትክክለኛና ምክንያታዊ የቀጠሮ ውይይት ነው።) (የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appointments & Scheduling))",
-            "መቼ እንገናኝ? ትላንት እመጣለሁ። (Target expression (Amharic))",
-            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ። (Target expression (Amharic))",
-            "በአማርኛ ቀጠሮ አይያዝም። (Target expression (Amharic))"
+            "መቼ እንገናኝ? ትላንት እመጣለሁ።) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)",
+            "ቀጠሮ የለኝም ስለዚህ በሰዓቱ አረፈድኩ።) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)",
+            "በአማርኛ ቀጠሮ አይያዝም።) (Context: የቀጠሮ እና የጊዜ መርሃ-ግብር አገላለጾች (Appoint)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ምክንያታዊ የቀጠሮ ውይይት ነው።"
@@ -2721,9 +2721,9 @@
           "prompt": "በኢትዮጵያ ከሰኔ እስከ ነሐሴ ያለው ዋናው የዝናብ ወቅት ምን ይባላል?",
           "options": [
             "ክረምት (Rainy season - Correct Ethiopian rainy season)",
-            "በጋ (Target expression (Amharic))",
-            "መኸር (Target expression (Amharic))",
-            "ጸደይ (Target expression (Amharic))"
+            "በጋ) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)",
+            "መኸር) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)",
+            "ጸደይ) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)"
           ],
           "answerIndex": 0,
           "explanation": "ከሰኔ እስከ ነሐሴ ያለው የዝናብ ወቅት «ክረምት» ይባላል።"
@@ -2736,9 +2736,9 @@
           "prompt": "'Today is sunny' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ዛሬ ፀሐይ አለ። (Today is sunny - Correct weather expression)",
-            "ዛሬ በረዶ ዘነበ። (Target expression (Amharic))",
-            "ዛሬ ሌሊት ነው። (Target expression (Amharic))",
-            "ዛሬ ጨለማ ብቻ ነው። (Target expression (Amharic))"
+            "ዛሬ በረዶ ዘነበ።) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)",
+            "ዛሬ ሌሊት ነው።) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)",
+            "ዛሬ ጨለማ ብቻ ነው።) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)"
           ],
           "answerIndex": 0,
           "explanation": "«ዛሬ ፀሐይ አለ» ወይም «ፀሐያማ ቀን ነው» ትክክለኛ የአየር ሁኔታ መግለጫ ነው።"
@@ -2752,9 +2752,9 @@
           "prompt": "አራቱን የኢትዮጵያ ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ክረምት (ዝናባማ)፣ መኸር (የአበባና እህል)፣ በጋ (ፀሐያማ)፣ ጸደይ (የወጣት ወቅት)። (የመጀመሪያው አማራጭ አራቱን ወቅቶች ከነባህሪያቸው በትክክል ይገልጻል።) (የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seasons & Weather Basics))",
-            "ክረምት ብቻ ነው ያለው። (Target expression (Amharic))",
-            "በጋና ክረምት አንድ ዓይነት ናቸው። (Target expression (Amharic))",
-            "በኢትዮጵያ ወቅቶች አይለወጡም። (Target expression (Amharic))"
+            "ክረምት ብቻ ነው ያለው።) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)",
+            "በጋና ክረምት አንድ ዓይነት ናቸው።) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)",
+            "በኢትዮጵያ ወቅቶች አይለወጡም።) (Context: የወቅቶች እና የአየር ንብረት መሰረታዊ ቃላት (Seaso)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን ወቅቶች ከነባህሪያቸው በትክክል ይገልጻል።"
@@ -2811,9 +2811,9 @@
           "prompt": "«ዓርብ ከሰዓት በኋላ በአራት ሰዓት እንገናኝ» በሚለው አረፍተ ነገር ውስጥ የቀኑ ክፍለ-ጊዜ እና ሰዓቱ የትኛው ነው?",
           "options": [
             "ከሰዓት በኋላ (Afternoon) እና አራት ሰዓት (4:00) (Correct time and day part identification)",
-            "ጠዋት እና ስድስት ሰዓት (Target expression (Amharic))",
-            "ሌሊት እና ሁለት ሰዓት (Target expression (Amharic))",
-            "ቀትር ብቻ (Target expression (Amharic))"
+            "ጠዋት እና ስድስት ሰዓት) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)",
+            "ሌሊት እና ሁለት ሰዓት) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)",
+            "ቀትር ብቻ) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "ቀኑ «ዓርብ»፣ ክፍለ-ጊዜው «ከሰዓት በኋላ»፣ ሰዓቱ ደግሞ «አራት ሰዓት» ነው።"
@@ -2826,9 +2826,9 @@
           "prompt": "ከሚከተሉት ውስጥ ቀን፣ ሰዓት እና ትክክለኛ የቀጠሮ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "እኛ ማክሰኞ ጠዋት በሁለት ሰዓት ቀጠሮ አለን። (We have an appointment on Tuesday morning at 2:00 - Complete time syntax)",
-            "እኛ ትላንት ነገ እንሄዳለን። (Target expression (Amharic))",
-            "ሰዓቱ ዝናብ ይበላል። (Target expression (Amharic))",
-            "ቀጠሮ የለም ሰኞ ሌሊት። (Target expression (Amharic))"
+            "እኛ ትላንት ነገ እንሄዳለን።) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)",
+            "ሰዓቱ ዝናብ ይበላል።) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)",
+            "ቀጠሮ የለም ሰኞ ሌሊት።) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቀን (ማክሰኞ)፣ ክፍለ-ጊዜ (ጠዋት)፣ ሰዓት (ሁለት ሰዓት) እና ቀጠሮን በትክክል አቀናጅቷል።"
@@ -2842,9 +2842,9 @@
           "prompt": "የክፍል 5ን ዋና ዋና ዕውቀቶች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ 12 ሰዓት አቆጣጠር፣ 7ቱ የሳምንቱ ቀናት፣ የቀጠሮ አነጋገር እና 4ቱ ወቅቶች በአግባቡ ተብራርተዋል። (የመጀመሪያው አማራጭ ሙሉውን የክፍል 5 ይዘት ያጠቃልላል።) (የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Synthesis & Daily Routine Discourse))",
-            "በአማርኛ ሰዓትና ቀናት አይታወቁም። (Target expression (Amharic))",
-            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ። (Target expression (Amharic))",
-            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው። (Target expression (Amharic))"
+            "በአማርኛ ሰዓትና ቀናት አይታወቁም።) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)",
+            "ቀጠሮ ለመያዝ የእንግሊዝኛ ቃላት ብቻ ያስፈልጋሉ።) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)",
+            "ክረምት እና በጋ አንድ ዓይነት ዝናብ አላቸው።) (Context: የክፍል 5 አጠቃላይ ማጠቃለያ (Unit 5 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙሉውን የክፍል 5 ይዘት ያጠቃልላል።"
@@ -2901,9 +2901,9 @@
           "prompt": "ከጤፍ ዱቄት የሚጋገረውና የኢትዮጵያ ዋናው ባህላዊ ምግብ መሠረት የሆነው ምንድን ነው?",
           "options": [
             "እንጀራ (Injera - Traditional sourdough flatbread made from teff)",
-            "ዳቦ (Target expression (Amharic))",
-            "ፓስታ (Target expression (Amharic))",
-            "ሩዝ (Target expression (Amharic))"
+            "ዳቦ) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)",
+            "ፓስታ) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)",
+            "ሩዝ) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)"
           ],
           "answerIndex": 0,
           "explanation": "«እንጀራ» ከጤፍ የሚዘጋጅ የኢትዮጵያ መሠረታዊ ባህላዊ ምግብ ነው።"
@@ -2916,9 +2916,9 @@
           "prompt": "'We drink coffee from the Jebena' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የጀበና ቡና እንጠጣለን። (We drink Jebena coffee - Correct beverage sentence)",
-            "የጀበና ቡና እንበላለን። (Target expression (Amharic))",
-            "ውኃ ብቻ እንጠጣለን። (Target expression (Amharic))",
-            "ቡና አንወድም። (Target expression (Amharic))"
+            "የጀበና ቡና እንበላለን።) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)",
+            "ውኃ ብቻ እንጠጣለን።) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)",
+            "ቡና አንወድም።) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)"
           ],
           "answerIndex": 0,
           "explanation": "ቡና ፈሳሽ ስለሆነ ከ«መጠጣት» ግስ ጋር ተጣምሮ «የጀበና ቡና እንጠጣለን» ይባላል።"
@@ -2932,9 +2932,9 @@
           "prompt": "የኢትዮጵያ ባህላዊ ምግቦችንና መጠጦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እንጀራ፣ ዶሮ ወጥ፣ ሽሮ፣ ክትፎ፣ ጥብስ እና ጀበና ቡና። (የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ምግቦችንና መጠጦችን በትክክል ይዟል።) (የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Traditional Ethiopian Foods & Beverages))",
-            "በርገር እና ፒዛ ብቻ። (Target expression (Amharic))",
-            "በኢትዮጵያ ወጥ አይበላም። (Target expression (Amharic))",
-            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው። (Target expression (Amharic))"
+            "በርገር እና ፒዛ ብቻ።) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)",
+            "በኢትዮጵያ ወጥ አይበላም።) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)",
+            "ጠጅ እና ጠላ የምግብ አይነቶች ናቸው።) (Context: የኢትዮጵያ ባህላዊ ምግቦች እና መጠጦች (Tradition)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ምግቦችንና መጠጦችን በትክክል ይዟል።"
@@ -2991,9 +2991,9 @@
           "prompt": "በምግብ ቤት ውስጥ የበሉበትን ክፍያ ለመጠየቅ 'ሂሳብ ስንት ነው?' ማለት ምን ማለት ነው?",
           "options": [
             "ሂሳብ ስንት ነው? / How much is the bill? (Correct bill inquiry)",
-            "ምግቡ የት ነው? (Target expression (Amharic))",
-            "ስምዎ ማን ነው? (Target expression (Amharic))",
-            "ሰዓቱ ስንት ነው? (Target expression (Amharic))"
+            "ምግቡ የት ነው?) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )",
+            "ስምዎ ማን ነው?) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )",
+            "ሰዓቱ ስንት ነው?) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )"
           ],
           "answerIndex": 0,
           "explanation": "«ሂሳብ ስንት ነው?» የክፍያ መጠየቂያ ትክክለኛ አገላለጽ ነው።"
@@ -3006,9 +3006,9 @@
           "prompt": "'Please bring me water' የሚለውን ትህትና የተሞላበት ትዕዛዝ በአማርኛ የትኛው ነው?",
           "options": [
             "እባክዎ ውኃ ያምጡልኝ። (Please bring me water - Polite request)",
-            "ውኃ አልጠጣም። (Target expression (Amharic))",
-            "ውኃ የለም። (Target expression (Amharic))",
-            "ሂሳብ ክፈሉ። (Target expression (Amharic))"
+            "ውኃ አልጠጣም።) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )",
+            "ውኃ የለም።) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )",
+            "ሂሳብ ክፈሉ።) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )"
           ],
           "answerIndex": 0,
           "explanation": "«እባክዎ ... ያምጡልኝ» በትህትና ለማዘዝ የሚያገለግል ነው።"
@@ -3022,9 +3022,9 @@
           "prompt": "በምግብ ቤት ውስጥ የሚደረግን የተሟላ ውይይት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እባክዎ ሜኑ ያምጡልኝ -> አንድ ጥብስ አምጡልኝ -> ምግቡ ይጣፍጣል -> ሂሳብ ስንት ነው? (የመጀመሪያው አማራጭ ትክክለኛውን የምግብ ቤት ቅደም ተከተል ያሳያል።) (በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering at a Restaurant))",
-            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም። (Target expression (Amharic))",
-            "ውኃ በላሁ -> ዳቦ ጠጣሁ። (Target expression (Amharic))",
-            "በአማርኛ አስተናጋጅ አይጠራም። (Target expression (Amharic))"
+            "ሜኑ አልፈልግም -> ሂሳብ አልከፍልም።) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )",
+            "ውኃ በላሁ -> ዳቦ ጠጣሁ።) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )",
+            "በአማርኛ አስተናጋጅ አይጠራም።) (Context: በምግብ ቤት ውስጥ ማዘዝ እና ጥያቄዎች (Ordering )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የምግብ ቤት ቅደም ተከተል ያሳያል።"
@@ -3081,9 +3081,9 @@
           "prompt": "የአንድ ዕቃ ዋጋ ከፍ ሲልና ቅናሽ ሲፈለግ ምን ይባላል?",
           "options": [
             "ውድ ነው፣ እባክዎ ቀንስልኝ (It is expensive, please discount for me - Correct bargaining formula)",
-            "ርካሽ ነው፣ ጨምርበት (Target expression (Amharic))",
-            "ነፃ ነው (Target expression (Amharic))",
-            "አልገዛም (Target expression (Amharic))"
+            "ርካሽ ነው፣ ጨምርበት) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)",
+            "ነፃ ነው) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)",
+            "አልገዛም) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)"
           ],
           "answerIndex": 0,
           "explanation": "«ውድ ነው፣ እባክዎ ቀንስልኝ» ዋጋ ለመደራደር የሚያገለግል የተለመደ አነጋገር ነው።"
@@ -3096,9 +3096,9 @@
           "prompt": "'What is the final price?' የሚለውን በአማርኛ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
             "የመጨረሻው ዋጋ ስንት ነው? (What is the final price? - Correct last price question)",
-            "የመጀመሪያው ስም ማን ነው? (Target expression (Amharic))",
-            "የት ሄደ? (Target expression (Amharic))",
-            "ስንት ሰዓት ነው? (Target expression (Amharic))"
+            "የመጀመሪያው ስም ማን ነው?) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)",
+            "የት ሄደ?) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)",
+            "ስንት ሰዓት ነው?) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)"
           ],
           "answerIndex": 0,
           "explanation": "«የመጨረሻው ዋጋ ስንት ነው?» የመጨረሻውን የድርድር ዋጋ ለማወቅ ይጠየቃል።"
@@ -3112,9 +3112,9 @@
           "prompt": "በገበያ ውስጥ ትክክለኛውን የግዢ እና የድርድር ቅደም ተከተል የያዘው የትኛው ነው?",
           "options": [
             "ዋጋው ስንት ነው? -> ውድ ነው ቀንስልኝ -> የመጨረሻው ዋጋ አንድ መቶ ብር ነው -> በቴሌብር ከፈልኩ። (የመጀመሪያው አማራጭ ትክክለኛና ጨዋነት የተሞላበት የግብይት ውይይት ነው።) (በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market Shopping & Bargaining))",
-            "ገንዘብ አልሰጥም -> ዕቃውን ወሰድኩ። (Target expression (Amharic))",
-            "ዋጋ ሳይጠየቅ ይከፈላል። (Target expression (Amharic))",
-            "በመርካቶ ብር አይሰራም። (Target expression (Amharic))"
+            "ገንዘብ አልሰጥም -> ዕቃውን ወሰድኩ።) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)",
+            "ዋጋ ሳይጠየቅ ይከፈላል።) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)",
+            "በመርካቶ ብር አይሰራም።) (Context: በገበያ ውስጥ ዋጋ መጠየቅ እና መደራደር (Market S)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትክክለኛና ጨዋነት የተሞላበት የግብይት ውይይት ነው።"
@@ -3171,9 +3171,9 @@
           "prompt": "ፈሳሽ ነገሮችን (እንደ ወተትና ዘይት) ለመለካት የሚያገለግለው መለኪያ የትኛው ነው?",
           "options": [
             "ሊትር (Liter - Unit of volume for liquids)",
-            "ኪሎ (Target expression (Amharic))",
-            "ሜትር (Target expression (Amharic))",
-            "ሰዓት (Target expression (Amharic))"
+            "ኪሎ) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)",
+            "ሜትር) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)",
+            "ሰዓት) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)"
           ],
           "answerIndex": 0,
           "explanation": "ፈሳሾች በ«ሊትር» ይለካሉ።"
@@ -3186,9 +3186,9 @@
           "prompt": "'Give me half a kilo of butter' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ግማሽ ኪሎ ቅቤ ስጡኝ። (Give me half a kilo of butter - Correct measurement request)",
-            "አንድ ሊትር ቅቤ ስጡኝ። (Target expression (Amharic))",
-            "ቅቤ አልፈልግም። (Target expression (Amharic))",
-            "አስር ኪሎ ቅቤ በላሁ። (Target expression (Amharic))"
+            "አንድ ሊትር ቅቤ ስጡኝ።) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)",
+            "ቅቤ አልፈልግም።) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)",
+            "አስር ኪሎ ቅቤ በላሁ።) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)"
           ],
           "answerIndex": 0,
           "explanation": "«ግማሽ ኪሎ ቅቤ ስጡኝ» ትክክለኛውን የክብደት መለኪያና ቅቤን ያጣመረ ነው።"
@@ -3202,9 +3202,9 @@
           "prompt": "የመለኪያ ቃላትን እና ተዛማጅ ዕቃዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሁለት ኪሎ ሽንኩርት (ኪሎ ለደረቅ ዕቃ) እና አንድ ሊትር ወተት (ሊትር ለፈሳሽ)። (የመጀመሪያው አማራጭ ኪሎን ለሽንኩርትና ሊትርን ለወተት በትክክል መድቧል።) (የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifiers & Measurements in the Market))",
-            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት። (Target expression (Amharic))",
-            "በአማርኛ መለኪያዎች አይጠቀሱም። (Target expression (Amharic))",
-            "ኪሎ ለጊዜ ብቻ ያገለግላል። (Target expression (Amharic))"
+            "አንድ ሊትር ሽንኩርት እና ሁለት ኪሎ ወተት።) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)",
+            "በአማርኛ መለኪያዎች አይጠቀሱም።) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)",
+            "ኪሎ ለጊዜ ብቻ ያገለግላል።) (Context: የቁጥር እና የክብደት መለኪያዎች በገበያ (Quantifi)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ኪሎን ለሽንኩርትና ሊትርን ለወተት በትክክል መድቧል።"
@@ -3261,9 +3261,9 @@
           "prompt": "ከሚከተሉት ውስጥ በባህላዊ ምግብ ቤት ውስጥ የሚደረግን ትክክለኛ ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
             "እባክዎ አንድ ክትፎ ያምጡልን፣ ምግቡ በጣም ይጣፍጣል፣ ሂሳብ ስንት ነው? (Correct complete restaurant discourse)",
-            "ምግብ አልበላም ሂሳብ አምጡ (Target expression (Amharic))",
-            "እንጀራ ጠጣሁ ቡና በላሁ (Target expression (Amharic))",
-            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም (Target expression (Amharic))"
+            "ምግብ አልበላም ሂሳብ አምጡ) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)",
+            "እንጀራ ጠጣሁ ቡና በላሁ) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)",
+            "በሬስቶራንት ውስጥ ማዘዝ አይቻልም) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ትዕዛዝን፣ ምስጋናን እና የሂሳብ ጥያቄን በአግባቡ ያጣመረ ነው።"
@@ -3276,9 +3276,9 @@
           "prompt": "ገበያ ሄዶ መገበያየትን እና በምግብ ቤት መመገብን ያቀናጀው ትክክለኛ አረፍተ ነገር የትኛው ነው?",
           "options": [
             "በገበያ ሁለት ኪሎ ፍራፍሬ ገዛን፤ ከዚያም ቡና ጠጣን። (We bought two kilos of fruits in the market, then drank coffee - Complete synthesized sentence)",
-            "በገበያ ምንም የለም። (Target expression (Amharic))",
-            "ሰዓቱ ኪሎ ይበላል። (Target expression (Amharic))",
-            "ቴሌብር አይሰራም። (Target expression (Amharic))"
+            "በገበያ ምንም የለም።) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)",
+            "ሰዓቱ ኪሎ ይበላል።) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)",
+            "ቴሌብር አይሰራም።) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የገበያ መለኪያዎችንና የመጠጥ ግስን በትክክል ያዛምዳል።"
@@ -3292,9 +3292,9 @@
           "prompt": "የክፍል 6ን ዋና ዋና ርዕሰ ጉዳዮች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የባህላዊ ምግቦች ስሞች፣ በምግብ ቤት ማዘዝ፣ በገበያ ዋጋ መጠየቅና መደራደር፣ እንዲሁም መለኪያዎች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 6ን አጠቃላይ ይዘት ይሸፍናል።) (የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Synthesis & Culinary/Market Discourse))",
-            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የገበያ ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው። (Target expression (Amharic))"
+            "የክፍል 6 ትምህርት ስለ ስፖርት ብቻ ነው።) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)",
+            "በአማርኛ የገበያ ቃላት የሉም።) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)",
+            "ሁሉም ምግቦች አንድ ዓይነት ስም አላቸው።) (Context: የክፍል 6 አጠቃላይ ማጠቃለያ (Unit 6 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 6ን አጠቃላይ ይዘት ይሸፍናል።"
@@ -3351,9 +3351,9 @@
           "prompt": "«እኛ» ከሚለው ተውላጠ ስም ጋር የሚስማማው የ«መሄድ» የኃላፊ ጊዜ ግስ የትኛው ነው?",
           "options": [
             "ሄድን (We went - Correct 1st person plural past suffix -ን)",
-            "ሄድኩ (Target expression (Amharic))",
-            "ሄደች (Target expression (Amharic))",
-            "ሄዱ (Target expression (Amharic))"
+            "ሄድኩ) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)",
+            "ሄደች) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)",
+            "ሄዱ) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)"
           ],
           "answerIndex": 0,
           "explanation": "«እኛ» ከሚለው ጋር የኃላፊ ጊዜ ቅጥያው «-ን» ሆኖ «ሄድን» ይሆናል።"
@@ -3366,9 +3366,9 @@
           "prompt": "'She prepared lunch' የሚለውን ሐሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እሷ ምሳ አዘጋጀች። (She prepared lunch - Correct feminine 3rd person past)",
-            "እሷ ምሳ አዘጋጀሁ። (Target expression (Amharic))",
-            "እሷ ምሳ አዘጋጀህ። (Target expression (Amharic))",
-            "እሷ ምሳ አዘጋጁ። (Target expression (Amharic))"
+            "እሷ ምሳ አዘጋጀሁ።) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)",
+            "እሷ ምሳ አዘጋጀህ።) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)",
+            "እሷ ምሳ አዘጋጁ።) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)"
           ],
           "answerIndex": 0,
           "explanation": "ለእሷ (3ኛ መደብ አንስታይ) የኃላፊ ቅጥያው «-ች» ሆኖ «አዘጋጀች» ይሆናል።"
@@ -3382,9 +3382,9 @@
           "prompt": "የኃላፊ ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እኔ በላሁ፣ አንተ በላህ፣ እሷ በላች፣ እኛ በላን። (የመጀመሪያው አማራጭ ለእያንዳንዱ መደብ ትክክለኛውን ቅጥያ ተጠቅሟል።) (ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past Tense Conjugation))",
-            "እኔ በላች፣ እኛ በላሁ። (Target expression (Amharic))",
-            "እሱ በላን፣ አንተ በላሽ። (Target expression (Amharic))",
-            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "እኔ በላች፣ እኛ በላሁ።) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)",
+            "እሱ በላን፣ አንተ በላሽ።) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)",
+            "በኃላፊ ጊዜ ሁሉም መደቦች አንድ ዓይነት ናቸው።) (Context: ቀላል የኃላፊ ጊዜ ግሶች መዋቅር (Simple Past T)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ለእያንዳንዱ መደብ ትክክለኛውን ቅጥያ ተጠቅሟል።"
@@ -3441,9 +3441,9 @@
           "prompt": "ያለፈውን ቀን 'Yesterday' ለመግለጽ የሚያገለግለው ቃል የትኛው ነው?",
           "options": [
             "ትላንትና (Yesterday - Correct past time marker)",
-            "ነገ (Target expression (Amharic))",
-            "ዛሬ (Target expression (Amharic))",
-            "ከነገ ወዲያ (Target expression (Amharic))"
+            "ነገ) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)",
+            "ዛሬ) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)",
+            "ከነገ ወዲያ) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)"
           ],
           "answerIndex": 0,
           "explanation": "«ትላንትና» ያለፈውን ቀን (Yesterday) ያመለክታል።"
@@ -3456,9 +3456,9 @@
           "prompt": "'Last week we traveled' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ባለፈው ሳምንት ተጓዝን። (Last week we traveled - Correct time marker and verb)",
-            "በሚመጣው ሳምንት እንጓዛለን። (Target expression (Amharic))",
-            "ዛሬ እንጓዛለን። (Target expression (Amharic))",
-            "ነገ ተጓዝን። (Target expression (Amharic))"
+            "በሚመጣው ሳምንት እንጓዛለን።) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)",
+            "ዛሬ እንጓዛለን።) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)",
+            "ነገ ተጓዝን።) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)"
           ],
           "answerIndex": 0,
           "explanation": "«ባለፈው ሳምንት» ካለፈ ድርጊት («ተጓዝን») ጋር አብሮ ይገባል።"
@@ -3472,9 +3472,9 @@
           "prompt": "የጊዜ አመልካች ቃላትን እና ያለፈ ድርጊትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ባለፈው ዓመት አዲስ ቋንቋ ተማርኩ፤ ትላንት ደግሞ ፈተና ወሰድኩ። (የመጀመሪያው አማራጭ ያለፉ የጊዜ አመልካቾችን ከኃላፊ ግሶች ጋር በትክክል አጣምሯል።) (ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actions & Time Markers))",
-            "ነገ ትላንት መጣሁ። (Target expression (Amharic))",
-            "ዛሬ ባለፈው ዓመት እሄዳለሁ። (Target expression (Amharic))",
-            "ድሮ ማለት ነገ ማለት ነው። (Target expression (Amharic))"
+            "ነገ ትላንት መጣሁ።) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)",
+            "ዛሬ ባለፈው ዓመት እሄዳለሁ።) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)",
+            "ድሮ ማለት ነገ ማለት ነው።) (Context: ያለፉ ድርጊቶች እና የጊዜ አመልካቾች (Past Actio)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፉ የጊዜ አመልካቾችን ከኃላፊ ግሶች ጋር በትክክል አጣምሯል።"
@@ -3532,9 +3532,9 @@
           "prompt": "«እሱ ሄደ (He went)» የሚለውን ወደ አሉታዊ ኃላፊ ጊዜ ሲቀየር ምን ይሆናል?",
           "options": [
             "እሱ አልሄደም (He did not go - Correct negative past for 3rd person singular)",
-            "እሱ አይሄድም (Target expression (Amharic))",
-            "እሱ አልሄድኩም (Target expression (Amharic))",
-            "እሱ አልሄደችም (Target expression (Amharic))"
+            "እሱ አይሄድም) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)",
+            "እሱ አልሄድኩም) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)",
+            "እሱ አልሄደችም) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)"
           ],
           "answerIndex": 0,
           "explanation": "«እሱ ሄደ» በኃላፊ አሉታዊ «አልሄደም» (አል- + ሄደ + -ም) ይሆናል።"
@@ -3547,9 +3547,9 @@
           "prompt": "'We did not eat' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እኛ አልበላንም። (We did not eat - Correct 1st person plural negative past)",
-            "እኛ አንበላም። (Target expression (Amharic))",
-            "እኛ አልበላሁም። (Target expression (Amharic))",
-            "እኛ አልበላችሁም። (Target expression (Amharic))"
+            "እኛ አንበላም።) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)",
+            "እኛ አልበላሁም።) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)",
+            "እኛ አልበላችሁም።) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)"
           ],
           "answerIndex": 0,
           "explanation": "ለ«እኛ» የኃላፊ አሉታዊ ቅርጽ «አልበላንም» (አል- + በላን + -ም) ነው።"
@@ -3563,9 +3563,9 @@
           "prompt": "የኃላፊ ጊዜ አሉታዊ አረፍተ ነገሮችን በትክክል የያዘው የትኛው ነው?",
           "options": [
             "እኔ አልመጣሁም፣ እሷ አልጻፈችም፣ እኛ አልሰማንም። (የመጀመሪያው አማራጭ የኃላፊ አሉታዊ ቅርጾችን በትክክለኛ ቅጥያዎች ተጠቅሟል።) (የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Tense))",
-            "እኔ አልመጣም፣ እኛ አልሰማችሁም። (Target expression (Amharic))",
-            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው። (Target expression (Amharic))",
-            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም። (Target expression (Amharic))"
+            "እኔ አልመጣም፣ እኛ አልሰማችሁም።) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)",
+            "አል- የሚለው ቅጥያ ለወደፊት ጊዜ ብቻ ነው።) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)",
+            "በኃላፊ ጊዜ አሉታዊ ቅርጽ የለም።) (Context: የኃላፊ ጊዜ አሉታዊ ቅርጽ (Negative Past Ten)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የኃላፊ አሉታዊ ቅርጾችን በትክክለኛ ቅጥያዎች ተጠቅሟል።"
@@ -3622,9 +3622,9 @@
           "prompt": "ታሪካዊ ቦታዎችን ጎብኝቶ መመለስን የሚገልጸው ትክክለኛ ቃል የትኛው ነው?",
           "options": [
             "ጎበኘን እና ተመለስን (We visited and returned - Correct past experiential verbs)",
-            "እንጎበኛለን (Target expression (Amharic))",
-            "አልሄድንም (Target expression (Amharic))",
-            "መሄድ (Target expression (Amharic))"
+            "እንጎበኛለን) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)",
+            "አልሄድንም) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)",
+            "መሄድ) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)"
           ],
           "answerIndex": 0,
           "explanation": "«ጎበኘን እና ተመለስን» ያለፈን ጉብኝትና መመለስን በኃላፊ ጊዜ በትክክል ይገልጻል።"
@@ -3637,9 +3637,9 @@
           "prompt": "'I saw the historical castle' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ታሪካዊውን ግንብ አየሁ። (I saw the historical castle - Correct 1st person past)",
-            "ታሪካዊውን ግንብ አያለሁ። (Target expression (Amharic))",
-            "ታሪካዊውን ግንብ አየች። (Target expression (Amharic))",
-            "ታሪካዊውን ግንብ አልፈልግም። (Target expression (Amharic))"
+            "ታሪካዊውን ግንብ አያለሁ።) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)",
+            "ታሪካዊውን ግንብ አየች።) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)",
+            "ታሪካዊውን ግንብ አልፈልግም።) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)"
           ],
           "answerIndex": 0,
           "explanation": "ለእኔ (1ኛ መደብ) የኃላፊ ጊዜ ግስ «አየሁ» ይሆናል።"
@@ -3653,9 +3653,9 @@
           "prompt": "ያለፈ የጉዞ ልምድን በተሟላ መንገድ የገለጸው የትኛው ነው?",
           "options": [
             "ባለፈው ወር ወደ አክሱም ተጉዘን ሐውልቶችን ጎበኘን፤ ከዚያም ተመለስን። (የመጀመሪያው አማራጭ ያለፈውን የጉዞ ጊዜ፣ ድርጊትና ማጠቃለያ በትክክል ይዟል።) (ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Travel & Experiences))",
-            "ነገ ወደ አክሱም ተጓዝን። (Target expression (Amharic))",
-            "አክሱም ትላንት እሄዳለሁ። (Target expression (Amharic))",
-            "በአማርኛ የጉዞ ታሪክ አይነገርም። (Target expression (Amharic))"
+            "ነገ ወደ አክሱም ተጓዝን።) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)",
+            "አክሱም ትላንት እሄዳለሁ።) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)",
+            "በአማርኛ የጉዞ ታሪክ አይነገርም።) (Context: ያለፈ የጉዞ እና የህይወት ተሞክሮ መግለጽ (Past Tr)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፈውን የጉዞ ጊዜ፣ ድርጊትና ማጠቃለያ በትክክል ይዟል።"
@@ -3712,9 +3712,9 @@
           "prompt": "ያለፈን ድርጊት በአዎንታዊና በአሉታዊ ቅርጽ በትክክል ያገናኘው የትኛው ነው?",
           "options": [
             "ትላንት ወደ ከተማ ሄድኩ፣ ነገር ግን ዕቃ አልገዛሁም። (Yesterday I went to town, but did not buy goods - Correct positive and negative past combination)",
-            "ነገ ወደ ከተማ ሄድኩ። (Target expression (Amharic))",
-            "ትላንት ዕቃ እገዛለሁ። (Target expression (Amharic))",
-            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው። (Target expression (Amharic))"
+            "ነገ ወደ ከተማ ሄድኩ።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)",
+            "ትላንት ዕቃ እገዛለሁ።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)",
+            "በኃላፊ ጊዜ ሁለቱም አረፍተ ነገሮች ስህተት ናቸው።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ያለፈ ጊዜ አመልካችን፣ አዎንታዊ ኃላፊን («ሄድኩ») እና አሉታዊ ኃላፊን («አልገዛሁም») በትክክል አጣምሯል።"
@@ -3727,9 +3727,9 @@
           "prompt": "የክፍል 7ን ዋና ዋና ርዕሰ ጉዳዮች ያካተተ የተሟላ ትረካ የትኛው ነው?",
           "options": [
             "ባለፈው ዓመት ብዙ ቦታዎችን ጎበኘን፤ አስደሳች ጊዜ አሳለፍን። (We visited many places last year, spent an enjoyable time - Comprehensive past narrative)",
-            "ነገ እንጎበኛለን። (Target expression (Amharic))",
-            "አሁን እየበላን ነው። (Target expression (Amharic))",
-            "ቋንቋ አልፈልግም። (Target expression (Amharic))"
+            "ነገ እንጎበኛለን።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)",
+            "አሁን እየበላን ነው።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)",
+            "ቋንቋ አልፈልግም።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የክፍል 7ን የኃላፊ ጊዜና የጉብኝት ትረካ ሙሉ በሙሉ ይገልጻል።"
@@ -3743,9 +3743,9 @@
           "prompt": "የክፍል 7 አጠቃላይ ይዘት በትክክል የትኛው ነው?",
           "options": [
             "የቀላል ኃላፊ ጊዜ ግስ እርባታ፣ ያለፉ የጊዜ አመልካቾች፣ የኃላፊ ጊዜ አሉታዊ ቅርጽ እና ያለፉ የጉዞ ትረካዎች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 7ን ሁሉንም ሰዋሰዋዊ ክፍሎች በትክክል ይገልጻል።) (የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Synthesis & Past Narrative Discourse))",
-            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል። (Target expression (Amharic))",
-            "በአማርኛ የኃላፊ ጊዜ የለም። (Target expression (Amharic))",
-            "ሁሉም ቃላት ስለ እንስሳት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለወደፊት ጊዜ ብቻ ያትታል።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)",
+            "በአማርኛ የኃላፊ ጊዜ የለም።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)",
+            "ሁሉም ቃላት ስለ እንስሳት ናቸው።) (Context: የክፍል 7 አጠቃላይ ማጠቃለያ (Unit 7 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 7ን ሁሉንም ሰዋሰዋዊ ክፍሎች በትክክል ይገልጻል።"
@@ -3802,9 +3802,9 @@
           "prompt": "ወደ ቀኝ ለመታጠፍ ለወንድ የሚሰጥ ትክክለኛ የትዕዛዝ አነጋገር የትኛው ነው?",
           "options": [
             "ወደ ቀኝ ታጠፍ (Turn right - Correct masculine imperative direction)",
-            "ወደ ግራ ሂድ (Target expression (Amharic))",
-            "ቀጥታ ቁም (Target expression (Amharic))",
-            "ወደ ኋላ ተመለስ (Target expression (Amharic))"
+            "ወደ ግራ ሂድ) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)",
+            "ቀጥታ ቁም) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)",
+            "ወደ ኋላ ተመለስ) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)"
           ],
           "answerIndex": 0,
           "explanation": "«ወደ ቀኝ ታጠፍ» ለወንድ (ተባዕታይ) ወደ ቀኝ እንዲታጠፍ የሚያዝዝ ነው።"
@@ -3817,9 +3817,9 @@
           "prompt": "'The pharmacy is next to the clinic' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "መድኃኒት ቤቱ ከክሊኒኩ አጠገብ ነው። (The pharmacy is next to the clinic - Correct spatial term አጠገብ)",
-            "መድኃኒት ቤቱ በጣም ሩቅ ነው። (Target expression (Amharic))",
-            "ክሊኒኩ የለም። (Target expression (Amharic))",
-            "መድኃኒት ቤት አልሄድም። (Target expression (Amharic))"
+            "መድኃኒት ቤቱ በጣም ሩቅ ነው።) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)",
+            "ክሊኒኩ የለም።) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)",
+            "መድኃኒት ቤት አልሄድም።) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)"
           ],
           "answerIndex": 0,
           "explanation": "«ከ... አጠገብ» (next to / beside) ትክክለኛውን የቦታ አቀማመጥ ያሳያል።"
@@ -3833,9 +3833,9 @@
           "prompt": "የአቅጣጫ ቃላትን እና ተዛማጅ ትርጉሞቻቸውን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ቀኝ (Right)፣ ግራ (Left)፣ ፊት ለፊት (Straight ahead)፣ አጠገብ (Next to)።",
-            "ቀኝ ማለት ግራ ማለት ነው። (Target expression (Amharic))",
-            "ቅርብ እና ሩቅ አንድ ናቸው። (Target expression (Amharic))",
-            "በአማርኛ አቅጣጫ አይነገርም። (Target expression (Amharic))"
+            "ቀኝ ማለት ግራ ማለት ነው።) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)",
+            "ቅርብ እና ሩቅ አንድ ናቸው።) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)",
+            "በአማርኛ አቅጣጫ አይነገርም።) (Context: መሰረታዊ አቅጣጫዎች እና የቦታ አመልካቾች (Cardina)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአቅጣጫ ቃላትን በትክክል ይዟል።"
@@ -3892,9 +3892,9 @@
           "prompt": "ወደ አንድ ቦታ የሚወስደውን መንገድ በትህትና ለመጠየቅ ምን ይባላል?",
           "options": [
             "ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው? (Excuse me, where is the road leading to ...? - Polite direction inquiry)",
-            "መንገድ አልፈልግም (Target expression (Amharic))",
-            "ቶሎ ሂድ (Target expression (Amharic))",
-            "ስምህ ማን ነው? (Target expression (Amharic))"
+            "መንገድ አልፈልግም) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)",
+            "ቶሎ ሂድ) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)",
+            "ስምህ ማን ነው?) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)"
           ],
           "answerIndex": 0,
           "explanation": "«ይቅርታ፣ ወደ ... የሚወስደው መንገድ የት ነው?» ትክክለኛ የጨዋነት መንገድ መጠየቂያ ነው።"
@@ -3907,9 +3907,9 @@
           "prompt": "'When you reach the roundabout, turn left' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አደባባዩን ስትደርስ ወደ ግራ ታጠፍ። (When you reach the roundabout, turn left - Correct condition and direction)",
-            "አደባባይ ላይ ቁም። (Target expression (Amharic))",
-            "ወደ ቤት ተመለስ። (Target expression (Amharic))",
-            "አደባባይ የለም። (Target expression (Amharic))"
+            "አደባባይ ላይ ቁም።) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)",
+            "ወደ ቤት ተመለስ።) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)",
+            "አደባባይ የለም።) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)"
           ],
           "answerIndex": 0,
           "explanation": "«አደባባዩን ስትደርስ ወደ ግራ ታጠፍ» አደባባይን እና የግራ አቅጣጫን በትክክል አጣምሯል።"
@@ -3923,9 +3923,9 @@
           "prompt": "የመንገድ መጠየቅና የመመለስን የተሟላ ውይይት የያዘው የትኛው ነው?",
           "options": [
             "ይቅርታ ሙዚየሙ የት ነው? -> ቀጥታ ሂድና አደባባዩ ላይ ወደ ቀኝ ታጠፍ -> አመሰግናለሁ! (የመጀመሪያው አማራጭ የተሟላና ሥርዓት ያለው የመንገድ መጠየቅ ውይይት ነው።) (መንገድ እና አቅጣጫ መጠየቅ (Asking for Directions))",
-            "ሙዚየም አልሄድም -> ሂሳብ ክፈል (Target expression (Amharic))",
-            "ቀኝ እና ግራ አንድ ናቸው (Target expression (Amharic))",
-            "በአማርኛ አደባባይ አይባልም (Target expression (Amharic))"
+            "ሙዚየም አልሄድም -> ሂሳብ ክፈል) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)",
+            "ቀኝ እና ግራ አንድ ናቸው) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)",
+            "በአማርኛ አደባባይ አይባልም) (Context: መንገድ እና አቅጣጫ መጠየቅ (Asking for Direc)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሟላና ሥርዓት ያለው የመንገድ መጠየቅ ውይይት ነው።"
@@ -3982,9 +3982,9 @@
           "prompt": "በታክሲ ውስጥ ለመውረድ ሾፌሩን ወይም ረዳቱን ለማስቆም ምን ይባላል?",
           "options": [
             "ወራጅ አለ! (Drop-off passenger here! - Universal taxi drop-off signal)",
-            "ሂሳብ ስንት ነው? (Target expression (Amharic))",
-            "ቡና አምጡ (Target expression (Amharic))",
-            "ባቡር መጣ (Target expression (Amharic))"
+            "ሂሳብ ስንት ነው?) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)",
+            "ቡና አምጡ) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)",
+            "ባቡር መጣ) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)"
           ],
           "answerIndex": 0,
           "explanation": "«ወራጅ አለ!» ተሳፋሪው የሚወርድበት ቦታ መድረሱን የሚያሳውቅበት ቃል ነው።"
@@ -3997,9 +3997,9 @@
           "prompt": "'We rode the light rail train' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በቀላል ባቡር ተሳፈርን። (We rode the light rail train - Correct transit verb and noun)",
-            "ባቡር አልወድም። (Target expression (Amharic))",
-            "በእግር ብቻ ሄድን። (Target expression (Amharic))",
-            "ታክሲው ተሰበረ። (Target expression (Amharic))"
+            "ባቡር አልወድም።) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)",
+            "በእግር ብቻ ሄድን።) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)",
+            "ታክሲው ተሰበረ።) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)"
           ],
           "answerIndex": 0,
           "explanation": "«በቀላል ባቡር ተሳፈርን» ትክክለኛውን የትራንስፖርት ዘዴና ግስ ያዛምዳል።"
@@ -4013,9 +4013,9 @@
           "prompt": "የከተማ የትራንስፖርት አይነቶችንና አገልግሎቶችን በትክክል የያዘው የትኛው ነው?",
           "options": [
             "ሰማያዊ ታክሲ፣ አንበሳ አውቶቡስ፣ ቀላል ባቡር እና ወያላ። (የመጀመሪያው አማራጭ ዋና ዋና የከተማ ትራንስፖርት አካላትን በትክክል ይዟል።) (የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (City Transit)",
-            "በከተማ ውስጥ ትራንስፖርት የለም። (Target expression (Amharic))",
-            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው። (Target expression (Amharic))",
-            "ወራጅ አለ ማለት ሰላምታ ነው። (Target expression (Amharic))"
+            "በከተማ ውስጥ ትራንስፖርት የለም።) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)",
+            "ባቡር የሚሄደው በሰማይ ላይ ብቻ ነው።) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)",
+            "ወራጅ አለ ማለት ሰላምታ ነው።) (Context: የከተማ ውስጥ ትራንስፖርት፡ ታክሲ፣ ባስ እና ባቡር (C)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የከተማ ትራንስፖርት አካላትን በትክክል ይዟል።"
@@ -4072,9 +4072,9 @@
           "prompt": "የአንድን የትራንስፖርት ጉዞ ዋጋ ለመጠየቅ ምን ይባላል?",
           "options": [
             "ታሪፉ ስንት ብር ነው? (How much is the fare? - Correct fare question)",
-            "ሰዓቱ ስንት ነው? (Target expression (Amharic))",
-            "ስምህ ማን ነው? (Target expression (Amharic))",
-            "ምግብ አለ? (Target expression (Amharic))"
+            "ሰዓቱ ስንት ነው?) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)",
+            "ስምህ ማን ነው?) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)",
+            "ምግብ አለ?) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)"
           ],
           "answerIndex": 0,
           "explanation": "«ታሪፉ ስንት ብር ነው?» የጉዞ ዋጋን ለመጠየቅ የሚያገለግል ትክክለኛ ሐረግ ነው።"
@@ -4087,9 +4087,9 @@
           "prompt": "'The trip took 30 minutes' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጉዞው ሠላሳ ደቂቃ ወሰደ። (The trip took 30 minutes - Correct transit time duration)",
-            "ጉዞው አሥር ብር ነው። (Target expression (Amharic))",
-            "ባቡሩ አልመጣም። (Target expression (Amharic))",
-            "መንገዱ ተዘጋ። (Target expression (Amharic))"
+            "ጉዞው አሥር ብር ነው።) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)",
+            "ባቡሩ አልመጣም።) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)",
+            "መንገዱ ተዘጋ።) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)"
           ],
           "answerIndex": 0,
           "explanation": "«ጉዞው ሠላሳ ደቂቃ ወሰደ» የፈጀውን የጉዞ ጊዜ በትክክል ይገልጻል።"
@@ -4103,9 +4103,9 @@
           "prompt": "የትራንስፖርት ክፍያንና የጊዜ ቆይታን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ታሪፉን ከፍለን ትኬት ወሰድን፤ ጉዞውም ሃያ ደቂቃ ወሰደ። (የመጀመሪያው አማራጭ ክፍያን፣ ትኬትን እና የጉዞ ቆይታን በትክክል ያዛምዳል።) (የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distance, Fares & Commuting))",
-            "ትኬት በላን ታሪፍ ጠጣን። (Target expression (Amharic))",
-            "በአማርኛ ታሪፍ አይከፈልም። (Target expression (Amharic))",
-            "ደቂቃ ማለት የገንዘብ አይነት ነው። (Target expression (Amharic))"
+            "ትኬት በላን ታሪፍ ጠጣን።) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)",
+            "በአማርኛ ታሪፍ አይከፈልም።) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)",
+            "ደቂቃ ማለት የገንዘብ አይነት ነው።) (Context: የጉዞ ርቀት እና የትኬት ዋጋ (Transit Distanc)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ክፍያን፣ ትኬትን እና የጉዞ ቆይታን በትክክል ያዛምዳል።"
@@ -4162,9 +4162,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የከተማ ጉዞና የትራንስፖርት ንግግር የሚያሳየው የትኛው ነው?",
           "options": [
             "መንገድ ጠይቀን ታክሲ ተሳፈርን፤ ታሪፉን ከፍለን መብራቱ ጋር ወረድን። (Correct integrated urban commute sequence)",
-            "ታክሲ አልወድም ምግብ አምጡ (Target expression (Amharic))",
-            "አቅጣጫ የለም ባቡር የለም (Target expression (Amharic))",
-            "በከተማ ውስጥ መጓዝ አይቻልም (Target expression (Amharic))"
+            "ታክሲ አልወድም ምግብ አምጡ) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)",
+            "አቅጣጫ የለም ባቡር የለም) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)",
+            "በከተማ ውስጥ መጓዝ አይቻልም) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አቅጣጫ መጠየቅን፣ ታክሲ መሳፈርን፣ ታሪፍ መክፈልንና መውረድን በትክክል ያጠቃልላል።"
@@ -4177,9 +4177,9 @@
           "prompt": "አቅጣጫን፣ ባቡርንና የጉዞ ጊዜን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ወደ ቀኝ ታጥፈን የባቡር ጣቢያ ደረስን፤ ጉዞውም አስራ አምስት ደቂቃ ፈጀ። (We turned right and reached the train station; the trip took 15 minutes - Comprehensive sentence)",
-            "ባቡሩ ትላንትና ነገ ይሄዳል። (Target expression (Amharic))",
-            "ቀኝ ማለት ባቡር ነው። (Target expression (Amharic))",
-            "ታሪፍ አልከፈልንም። (Target expression (Amharic))"
+            "ባቡሩ ትላንትና ነገ ይሄዳል።) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)",
+            "ቀኝ ማለት ባቡር ነው።) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)",
+            "ታሪፍ አልከፈልንም።) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አቅጣጫን፣ የባቡር ጣቢያንና የጉዞ ጊዜን በአንድነት ይዟል።"
@@ -4193,9 +4193,9 @@
           "prompt": "የክፍል 8 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "መሰረታዊ አቅጣጫዎች፣ መንገድ መጠየቅ፣ የከተማ ትራንስፖርት (ታክሲና ባቡር)፣ እንዲሁም ታሪፍና የጉዞ ርቀት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 8ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Synthesis & Urban Commute Discourse))",
-            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የትራንስፖርት ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው።) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)",
+            "በአማርኛ የትራንስፖርት ቃላት የሉም።) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)",
+            "ሁሉም አቅጣጫዎች አንድ ዓይነት ናቸው።) (Context: የክፍል 8 አጠቃላይ ማጠቃለያ (Unit 8 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 8ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -4252,9 +4252,9 @@
           "prompt": "«My mother and my father» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እናቴ እና አባቴ (My mother and my father - Correct first-person possessive nouns)",
-            "እህቴ እና ወንድሜ (Target expression (Amharic))",
-            "ልጄ እና አጎቴ (Target expression (Amharic))",
-            "አያቴ ብቻ (Target expression (Amharic))"
+            "እህቴ እና ወንድሜ) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)",
+            "ልጄ እና አጎቴ) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)",
+            "አያቴ ብቻ) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)"
           ],
           "answerIndex": 0,
           "explanation": "«እናቴ» (My mother) እና «አባቴ» (My father) ትክክለኛ የመጀመሪያ መደብ ባለቤትነት ቅጥያን (-ኤ) ይዘዋል።"
@@ -4267,9 +4267,9 @@
           "prompt": "'I have an older brother and a younger sister' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አንድ ታላቅ ወንድም እና አንዲት ታናሽ እህት አሉኝ። (Correct sibling age distinction and gender agreement)",
-            "ወንድም የለኝም እህት የለኝም። (Target expression (Amharic))",
-            "አያቴ ትላንትና መጣ። (Target expression (Amharic))",
-            "ልጆቼ ትምህርት ቤት ሄዱ። (Target expression (Amharic))"
+            "ወንድም የለኝም እህት የለኝም።) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)",
+            "አያቴ ትላንትና መጣ።) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)",
+            "ልጆቼ ትምህርት ቤት ሄዱ።) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)"
           ],
           "answerIndex": 0,
           "explanation": "«ታላቅ ወንድም» (older brother) እና «ታናሽ እህት» (younger sister) የዕድሜ ደረጃን በትክክል ያሳያሉ።"
@@ -4283,9 +4283,9 @@
           "prompt": "የቅርብ ቤተሰብ አባላትን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አባት፣ እናት፣ ወንድም፣ እህት፣ ልጅ፣ ባል እና ሚስት። (የመጀመሪያው አማራጭ ዋና ዋና የቅርብ ቤተሰብ መጠሪያዎችን ይዟል።) (ዋና ዋና የቤተሰብ አባላት (Core Immediate Family Terms))",
-            "ጠረጴዛ፣ ወንበር እና ደብተር። (Target expression (Amharic))",
-            "ቀኝ፣ ግራ እና አደባባይ። (Target expression (Amharic))",
-            "ትላንትና እና ዛሬ ብቻ። (Target expression (Amharic))"
+            "ጠረጴዛ፣ ወንበር እና ደብተር።) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)",
+            "ቀኝ፣ ግራ እና አደባባይ።) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)",
+            "ትላንትና እና ዛሬ ብቻ።) (Context: ዋና ዋና የቤተሰብ አባላት (Core Immediate Fa)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቅርብ ቤተሰብ መጠሪያዎችን ይዟል።"
@@ -4342,9 +4342,9 @@
           "prompt": "የእናትህን ወይም የአባትህን ወንድም ምን ብለህ ትጠራዋለህ?",
           "options": [
             "አጎት (Uncle - Brother of mother or father)",
-            "አክስት (Target expression (Amharic))",
-            "አያት (Target expression (Amharic))",
-            "ምራት (Target expression (Amharic))"
+            "አክስት) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)",
+            "አያት) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)",
+            "ምራት) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)"
           ],
           "answerIndex": 0,
           "explanation": "የእናት ወይም የአባት ወንድም «አጎት» (Uncle) ይባላል።"
@@ -4357,9 +4357,9 @@
           "prompt": "'My grandmother tells folktales to her grandchildren' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ። (Correct grandmother and grandchildren sentence)",
-            "አጎቴ መኪና ነዳ። (Target expression (Amharic))",
-            "ጓደኛዬ ትምህርት ቤት ሄደ። (Target expression (Amharic))",
-            "ምንም ዘመድ የለኝም። (Target expression (Amharic))"
+            "አጎቴ መኪና ነዳ።) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)",
+            "ጓደኛዬ ትምህርት ቤት ሄደ።) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)",
+            "ምንም ዘመድ የለኝም።) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)"
           ],
           "answerIndex": 0,
           "explanation": "«አያቴ ለልጅ ልጆቻቸው ተረት ይነግራሉ» አያትንና የልጅ ልጆችን በትክክል ያዛምዳል።"
@@ -4373,9 +4373,9 @@
           "prompt": "የተዘረጋ ቤተሰብ መጠሪያዎችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
             "አያት (Grandparent)፣ አጎት (Uncle)፣ አክስት (Aunt) እና የአጎት ልጅ (Cousin)።",
-            "አያት ማለት ልጅ ማለት ነው። (Target expression (Amharic))",
-            "አጎት እና አክስት አንድ ናቸው። (Target expression (Amharic))",
-            "በአማርኛ የዝምድና መጠሪያ የለም። (Target expression (Amharic))"
+            "አያት ማለት ልጅ ማለት ነው።) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)",
+            "አጎት እና አክስት አንድ ናቸው።) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)",
+            "በአማርኛ የዝምድና መጠሪያ የለም።) (Context: የተዘረጋ የቤተሰብ አውታር (Extended Family &)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ቁልፍ የተዘረጋ ቤተሰብ ቃላትን በትክክል ያጣመረ ነው።"
@@ -4432,9 +4432,9 @@
           "prompt": "«Our school» የሚለውን ትክክለኛ የባለቤትነት ቅጥያ በመጠቀም የገለጸው የትኛው ነው?",
           "options": [
             "ትምህርት ቤታችን (Our school - Correct -አችን first-person plural suffix)",
-            "ትምህርት ቤቴ (Target expression (Amharic))",
-            "ትምህርት ቤታችሁ (Target expression (Amharic))",
-            "ትምህርት ቤታቸው (Target expression (Amharic))"
+            "ትምህርት ቤቴ) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)",
+            "ትምህርት ቤታችሁ) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)",
+            "ትምህርት ቤታቸው) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)"
           ],
           "answerIndex": 0,
           "explanation": "«ትምህርት ቤታችን» የኛ (our) የሚለውን የብዙ ቁጥር ቅጥያ (-አችን) በትክክል ይዟል።"
@@ -4447,9 +4447,9 @@
           "prompt": "'Your (plural) books are on the table' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "መጽሐፎቻችሁ በጠረጴዛው ላይ ናቸው። (Your [pl] books are on the table - Correct -አችሁ suffix)",
-            "መጽሐፌ የለም። (Target expression (Amharic))",
-            "መጽሐፋቸው ተቃጠለ። (Target expression (Amharic))",
-            "መጽሐፍ አልገዛሁም። (Target expression (Amharic))"
+            "መጽሐፌ የለም።) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)",
+            "መጽሐፋቸው ተቃጠለ።) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)",
+            "መጽሐፍ አልገዛሁም።) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)"
           ],
           "answerIndex": 0,
           "explanation": "«መጽሐፎቻችሁ» (Your books) የሁለተኛ መደብ ብዙ ቅጥያን (-አችሁ) በትክክል ያሳያል።"
@@ -4463,9 +4463,9 @@
           "prompt": "የባለቤትነት ቅጥያዎችን አጠቃቀም በትክክል ያሳየው የትኛው ነው?",
           "options": [
             "ቤቴ (My house)፣ ቤትህ (Your house)፣ ቤታችን (Our house)፣ ቤታቸው (Their house)።",
-            "ቤቴ ማለት የእናንተ ቤት ነው። (Target expression (Amharic))",
-            "ቅጥያዎች ለስሞች አይጨመሩም። (Target expression (Amharic))",
-            "በአማርኛ የባለቤትነት ቅጥያ የለም። (Target expression (Amharic))"
+            "ቤቴ ማለት የእናንተ ቤት ነው።) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)",
+            "ቅጥያዎች ለስሞች አይጨመሩም።) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)",
+            "በአማርኛ የባለቤትነት ቅጥያ የለም።) (Context: የባለቤትነት ቅጥያዎች በሁሉም መደቦች (Comprehens)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የባለቤትነት ቅጥያዎችን በትክክል ያቀርባል።"
@@ -4522,9 +4522,9 @@
           "prompt": "ታላላቆችን ሲያከብሩ እና ሲመርቁ የሚነገር ቁልፍ ቃል የትኛው ነው?",
           "options": [
             "ምርቃት (Elder blessing - Core cultural value of elder respect)",
-            "ጠብ (Target expression (Amharic))",
-            "ቁጣ (Target expression (Amharic))",
-            "ስድብ (Target expression (Amharic))"
+            "ጠብ) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)",
+            "ቁጣ) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)",
+            "ስድብ) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)"
           ],
           "answerIndex": 0,
           "explanation": "«ምርቃት» የታላላቆች በጎ ምኞትና ጸሎት መግለጫ ነው።"
@@ -4537,9 +4537,9 @@
           "prompt": "'Family love and cooperation are strong' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የቤተሰብ ፍቅር እና ትብብር ጠንካራ ነው። (Family love and solidarity are strong - Accurate cultural expression)",
-            "ቤተሰብ የለንም። (Target expression (Amharic))",
-            "በዓል አንወድም። (Target expression (Amharic))",
-            "ሰርግ አይከበርም። (Target expression (Amharic))"
+            "ቤተሰብ የለንም።) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)",
+            "በዓል አንወድም።) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)",
+            "ሰርግ አይከበርም።) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር የቤተሰብ ፍቅርንና ትብብርን በትክክል ይገልጻል።"
@@ -4553,9 +4553,9 @@
           "prompt": "የኢትዮጵያን የቤተሰብ ባህልና እሴቶችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ታላላቆችን ማክበር፣ ምርቃት መቀበል፣ በበዓላት በአንድነት መሰብሰብ እና መተሳሰብ። (የመጀመሪያው አማራጭ ዋና ዋና የማህበራዊና የቤተሰብ ባህል እሴቶችን ያሳያል።) (የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Culture, Elder Respect & Gatherings))",
-            "ቤተሰብ አብሮ አይበላም አይጠጣም። (Target expression (Amharic))",
-            "ለታላላቆች ሰላምታ አይሰጥም። (Target expression (Amharic))",
-            "በአማርኛ ሰርግ አይከበርም። (Target expression (Amharic))"
+            "ቤተሰብ አብሮ አይበላም አይጠጣም።) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)",
+            "ለታላላቆች ሰላምታ አይሰጥም።) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)",
+            "በአማርኛ ሰርግ አይከበርም።) (Context: የቤተሰብ ባህል እና ማህበራዊ አኗኗር (Family Cul)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የማህበራዊና የቤተሰብ ባህል እሴቶችን ያሳያል።"
@@ -4612,9 +4612,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የቤተሰብ፣ የዝምድና እና የባለቤትነት ቅጥያዎችን ያጣመረው የትኛው ነው?",
           "options": [
             "አያቶቻችን፣ ወላጆቻችን እና ልጆቻችን በቤታችን ተሰብስበው በዓሉን አከበሩ። (Integrated family and possessive syntax)",
-            "መኪና ብቻ ነዳን። (Target expression (Amharic))",
-            "አቅጣጫው ወደ ቀኝ ነው። (Target expression (Amharic))",
-            "ምንም ቤተሰብ የለም። (Target expression (Amharic))"
+            "መኪና ብቻ ነዳን።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)",
+            "አቅጣጫው ወደ ቀኝ ነው።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)",
+            "ምንም ቤተሰብ የለም።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አያቶችን፣ ወላጆችን፣ ልጆችንና የባለቤትነት ቅጥያዎችን በአንድነት አቀናጅቷል።"
@@ -4627,9 +4627,9 @@
           "prompt": "የተዘረጋ ቤተሰብንና ምርቃትን በአንድ ላይ የያዘው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "አጎቶቻችንና አክስቶቻችን መጥተው ምርቃት ሰጡን። (Our uncles and aunts came and gave us blessings - Comprehensive sentence)",
-            "አጎቴ መጽሐፍ አልገዛም። (Target expression (Amharic))",
-            "ትላንትና ዝናብ ዘነበ። (Target expression (Amharic))",
-            "ታሪፉ ሃያ ብር ነው። (Target expression (Amharic))"
+            "አጎቴ መጽሐፍ አልገዛም።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)",
+            "ትላንትና ዝናብ ዘነበ።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)",
+            "ታሪፉ ሃያ ብር ነው።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተዘረጋ ቤተሰብን (አጎቶች፣ አክስቶች) እና ምርቃትን ያዛምዳል።"
@@ -4643,9 +4643,9 @@
           "prompt": "የክፍል 9 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የቅርብና የተዘረጋ ቤተሰብ አባላት፣ የባለቤትነት ቅጥያዎች (በሁሉም መደቦች)፣ እንዲሁም የቤተሰብ ባህልና ምርቃት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 9ን የተሟላ ይዘት ያጠቃልላል።) (የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Synthesis & Extended Family Discourse))",
-            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም። (Target expression (Amharic))",
-            "ምንም ሰዋሰዋዊ ህግ አልተማርንም። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)",
+            "በአማርኛ የቤተሰብ መጠሪያዎች አይለዩም።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)",
+            "ምንም ሰዋሰዋዊ ህግ አልተማርንም።) (Context: የክፍል 9 አጠቃላይ ማጠቃለያ (Unit 9 Grand Sy)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 9ን የተሟላ ይዘት ያጠቃልላል።"
@@ -4702,9 +4702,9 @@
           "prompt": "«Hand and foot» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እጅ እና እግር (Hand and foot - Correct basic limb nouns)",
-            "ራስ እና ሆድ (Target expression (Amharic))",
-            "ዓይን እና ጆሮ (Target expression (Amharic))",
-            "አፍ እና ጥርስ (Target expression (Amharic))"
+            "ራስ እና ሆድ) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
+            "ዓይን እና ጆሮ) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
+            "አፍ እና ጥርስ) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)"
           ],
           "answerIndex": 0,
           "explanation": "«እጅ» (hand/arm) እና «እግር» (foot/leg) ናቸው።"
@@ -4717,9 +4717,9 @@
           "prompt": "'Keep your teeth clean' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጥርስህን በንጽህና ጠብቅ። (Keep your teeth in cleanliness - Accurate dental care sentence)",
-            "ሆድህ ይረብሻል። (Target expression (Amharic))",
-            "ዓይንህ ታሟል። (Target expression (Amharic))",
-            "እግርህ ተሰብሯል። (Target expression (Amharic))"
+            "ሆድህ ይረብሻል።) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
+            "ዓይንህ ታሟል።) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
+            "እግርህ ተሰብሯል።) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)"
           ],
           "answerIndex": 0,
           "explanation": "«ጥርስህን በንጽህና ጠብቅ» ጥርስንና ንጽህናን በትክክል ያዛምዳል።"
@@ -4733,9 +4733,9 @@
           "prompt": "የሰውነት ክፍሎችን መጠሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ራስ፣ ዓይን፣ ጆሮ፣ አፍንጫ፣ ጥርስ፣ እጅ፣ እግር እና ሆድ። (የመጀመሪያው አማራጭ ዋና ዋና የሰውነት ክፍሎችን ይዟል።) (የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts))",
-            "ቀኝ፣ ግራ እና አደባባይ። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Target expression (Amharic))",
-            "በአማርኛ የሰውነት ስሞች የሉም። (Target expression (Amharic))"
+            "ቀኝ፣ ግራ እና አደባባይ።) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ።) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)",
+            "በአማርኛ የሰውነት ስሞች የሉም።) (Context: የሰውነት ክፍሎች መጠሪያዎች (Human Body Parts)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሰውነት ክፍሎችን ይዟል።"
@@ -4792,9 +4792,9 @@
           "prompt": "«I have a headache» የሚለውን በአማርኛ ትክክለኛ የግስ አገባብ የገለጸው የትኛው ነው?",
           "options": [
             "ራሴን አመመኝ። (My head hurts me - Correct impersonal illness verb construction)",
-            "ራሴን በላሁ (Target expression (Amharic))",
-            "ጭንቅላት የለኝም (Target expression (Amharic))",
-            "ደስ አለኝ (Target expression (Amharic))"
+            "ራሴን በላሁ) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)",
+            "ጭንቅላት የለኝም) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)",
+            "ደስ አለኝ) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)"
           ],
           "answerIndex": 0,
           "explanation": "«ራሴን አመመኝ» የራስ ህመምን በትክክለኛው ሰዋሰዋዊ ቅርጽ ያሳያል።"
@@ -4807,9 +4807,9 @@
           "prompt": "'She has a high fever and cough' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ከፍተኛ ትኩሳት እና ሳል አላት። (She has high fever and cough - Correct symptoms)",
-            "ትኩሳት የለም። (Target expression (Amharic))",
-            "ውሃ ጠጣች። (Target expression (Amharic))",
-            "ትምህርት ቤት ሄደች። (Target expression (Amharic))"
+            "ትኩሳት የለም።) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)",
+            "ውሃ ጠጣች።) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)",
+            "ትምህርት ቤት ሄደች።) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)"
           ],
           "answerIndex": 0,
           "explanation": "«ከፍተኛ ትኩሳት እና ሳል አላት» ትኩሳትንና ሳልን በትክክል ይገልጻል።"
@@ -4823,9 +4823,9 @@
           "prompt": "የህመም ስሜቶችን እና ምልክቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ትኩሳት፣ ሳል፣ ጉንፋን፣ የሆድ ቁርጠት እና ራስ ምታት። (የመጀመሪያው አማራጭ ዋና ዋና የህመም ምልክቶችን በትክክል ይዟል።) (የህመም ስሜትን መግለጽ (Expressing Sickness, Symptoms & Aches))",
-            "ምግብ ማብሰል እና ቡና ማፍላት። (Target expression (Amharic))",
-            "ታክሲ መሳፈር እና ትኬት መቁረጥ። (Target expression (Amharic))",
-            "በአማርኛ የህመም ቃላት የሉም። (Target expression (Amharic))"
+            "ምግብ ማብሰል እና ቡና ማፍላት።) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)",
+            "ታክሲ መሳፈር እና ትኬት መቁረጥ።) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)",
+            "በአማርኛ የህመም ቃላት የሉም።) (Context: የህመም ስሜትን መግለጽ (Expressing Sickness)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የህመም ምልክቶችን በትክክል ይዟል።"
@@ -4882,9 +4882,9 @@
           "prompt": "ሐኪሙ ታካሚውን ለመመርመር ምን አይነት ጥያቄ ይጠይቃል?",
           "options": [
             "ምን ያመሃል / ምን ሆንክ? (What hurts you? / What's wrong? - Standard medical inquiry)",
-            "የት ልትጓዝ ነው? (Target expression (Amharic))",
-            "ታሪፉ ስንት ነው? (Target expression (Amharic))",
-            "ስምህ ማን ነው? (Target expression (Amharic))"
+            "የት ልትጓዝ ነው?) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)",
+            "ታሪፉ ስንት ነው?) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)",
+            "ስምህ ማን ነው?) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)"
           ],
           "answerIndex": 0,
           "explanation": "«ምን ያመሃል?» ሐኪሙ የህመም ምልክቶችን ለመረዳት የሚጠይቀው ዋነኛ ጥያቄ ነው።"
@@ -4897,9 +4897,9 @@
           "prompt": "'The doctor ordered a blood test for the patient' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሐኪሙ ለታካሚው የደም ምርመራ አዘዘ። (The doctor ordered a blood test for the patient - Accurate clinical statement)",
-            "ሐኪሙ መኪና ገዛ። (Target expression (Amharic))",
-            "ታካሚው ሮጦ ሄደ። (Target expression (Amharic))",
-            "ምንም ምርመራ አያስፈልግም። (Target expression (Amharic))"
+            "ሐኪሙ መኪና ገዛ።) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)",
+            "ታካሚው ሮጦ ሄደ።) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)",
+            "ምንም ምርመራ አያስፈልግም።) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር ሐኪምን፣ ታካሚንና የደም ምርመራን በትክክል ያዛምዳል።"
@@ -4913,9 +4913,9 @@
           "prompt": "የክሊኒክና የሆስፒታል አገልግሎቶችን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
             "ሐኪም ታካሚውን መረመረ፣ ነርሷ የደም ግፊት ለካች፣ የላብራቶሪ ምርመራም ተከናወነ። (የመጀመሪያው አማራጭ የተሟላ የክሊኒክ ምርመራ ሂደትን ያሳያል።) (በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinical Consultation & Diagnosis))",
-            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል። (Target expression (Amharic))",
-            "ምርመራ ማድረግ የተከለከለ ነው። (Target expression (Amharic))",
-            "በአማርኛ ሐኪም አይባልም። (Target expression (Amharic))"
+            "በሆስፒታል ውስጥ ጨዋታ ብቻ ይካሄዳል።) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)",
+            "ምርመራ ማድረግ የተከለከለ ነው።) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)",
+            "በአማርኛ ሐኪም አይባልም።) (Context: በክሊኒክ እና በሆስፒታል የሚደረግ ውይይት (Clinica)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሟላ የክሊኒክ ምርመራ ሂደትን ያሳያል።"
@@ -4972,9 +4972,9 @@
           "prompt": "«Take one pill after meals» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ከምግብ በኋላ አንድ ክኒን ውሰድ/ውሰጂ። (Take one pill after meals - Correct dosage command)",
-            "ከምግብ በፊት ሩጥ (Target expression (Amharic))",
-            "መድኃኒት አትውሰድ (Target expression (Amharic))",
-            "ክኒን አትግዛ (Target expression (Amharic))"
+            "ከምግብ በፊት ሩጥ) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)",
+            "መድኃኒት አትውሰድ) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)",
+            "ክኒን አትግዛ) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)"
           ],
           "answerIndex": 0,
           "explanation": "«ከምግብ በኋላ አንድ ክኒን ውሰድ» ትክክለኛውን የአወሳሰድ መመሪያ ይገልጻል።"
@@ -4987,9 +4987,9 @@
           "prompt": "'He bought the prescribed medicine from the pharmacy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የታዘዘውን መድኃኒት ከመድኃኒት ቤት ገዛ። (He bought the prescribed medicine from the pharmacy - Accurate pharmacy transaction)",
-            "መድኃኒት ቤት አልሄደም። (Target expression (Amharic))",
-            "ክሊኒኩ ተዘጋ። (Target expression (Amharic))",
-            "ምንም ህመም የለም። (Target expression (Amharic))"
+            "መድኃኒት ቤት አልሄደም።) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)",
+            "ክሊኒኩ ተዘጋ።) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)",
+            "ምንም ህመም የለም።) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር መድኃኒት መግዛትን በትክክል ያሳያል።"
@@ -5003,9 +5003,9 @@
           "prompt": "የመድኃኒት አወሳሰድ መመሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የሐኪም ማዘዣ፣ ክኒን፣ ሽሮፕ፣ እንዲሁም ከምግብ በፊት ወይም በኋላ መውሰድ። (የመጀመሪያው አማራጭ የመድኃኒት አወሳሰድ ስርዓትን በሙሉ ያጠቃልላል።) (መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy, Prescriptions & Dosage))",
-            "መድኃኒት በጨለማ መወርወር። (Target expression (Amharic))",
-            "በአማርኛ መድኃኒት አይሸጥም። (Target expression (Amharic))",
-            "ክኒን ማለት ምግብ ማለት ነው። (Target expression (Amharic))"
+            "መድኃኒት በጨለማ መወርወር።) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)",
+            "በአማርኛ መድኃኒት አይሸጥም።) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)",
+            "ክኒን ማለት ምግብ ማለት ነው።) (Context: መድኃኒት ቤት እና የህክምና መመሪያዎች (Pharmacy,)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመድኃኒት አወሳሰድ ስርዓትን በሙሉ ያጠቃልላል።"
@@ -5062,9 +5062,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የጤና እና የህክምና ሂደት የሚያሳየው የትኛው ነው?",
           "options": [
             "ህመም ሲሰማን ወደ ክሊኒክ ሄደን በሐኪም ተመርምረን መድኃኒት እንወስዳለን። (Complete clinical consultation sequence)",
-            "ምንም ህመም የለም (Target expression (Amharic))",
-            "መድኃኒት አንወድም (Target expression (Amharic))",
-            "ሆስፒታል አንሄድም (Target expression (Amharic))"
+            "ምንም ህመም የለም) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )",
+            "መድኃኒት አንወድም) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )",
+            "ሆስፒታል አንሄድም) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ህመምን፣ ክሊኒክ መሄድን፣ ምርመራንና መድኃኒት መውሰድን በትክክል ያጠቃልላል።"
@@ -5077,9 +5077,9 @@
           "prompt": "ምርመራን፣ መድኃኒትንና ፈውስን ያቀናጀው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ሐኪሙ መርምሮ መድኃኒት አዘዘልኝ፤ እኔም በፍጥነት ዳንኩ። (The doctor examined and prescribed medicine for me; I quickly recovered - Integrated sentence)",
-            "መድኃኒት አልገዛሁም። (Target expression (Amharic))",
-            "ክሊኒኩ ሩቅ ነው። (Target expression (Amharic))",
-            "ትላንትና ታክሲ ተሳፈርኩ። (Target expression (Amharic))"
+            "መድኃኒት አልገዛሁም።) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )",
+            "ክሊኒኩ ሩቅ ነው።) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )",
+            "ትላንትና ታክሲ ተሳፈርኩ።) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ምርመራን፣ መድኃኒትንና መዳንን በአንድነት ይዟል።"
@@ -5093,9 +5093,9 @@
           "prompt": "የክፍል 10 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የሰውነት ክፍሎች፣ የህመም ስሜት መግለጽ (አመመኝ)፣ የክሊኒክና የሆስፒታል ምርመራ፣ እንዲሁም መድኃኒት ቤትና የአወሳሰድ መመሪያዎች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 10ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand Synthesis & Medical Consultation Discourse))",
-            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የጤና ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ቤተሰብ ብቻ ነው።) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )",
+            "በአማርኛ የጤና ቃላት የሉም።) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )",
+            "ሁሉም የሰውነት ክፍሎች አንድ ስም አላቸው።) (Context: የክፍል 10 አጠቃላይ ማጠቃለያ (Unit 10 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 10ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -5152,9 +5152,9 @@
           "prompt": "«I will study Amharic» የሚለውን ትክክለኛ የወደፊት ጊዜ የግስ እርባታ የያዘው የትኛው ነው?",
           "options": [
             "አማርኛ እማራለሁ። (I will study Amharic - Correct 1st person singular future conjugation)",
-            "አማርኛ ተማርኩ (Target expression (Amharic))",
-            "አማርኛ አልማርም (Target expression (Amharic))",
-            "አማርኛ ተማር (Target expression (Amharic))"
+            "አማርኛ ተማርኩ) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)",
+            "አማርኛ አልማርም) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)",
+            "አማርኛ ተማር) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)"
           ],
           "answerIndex": 0,
           "explanation": "«እማራለሁ» ለእኔ (1st person singular) የወደፊት ጊዜን በትክክል ያመለክታል።"
@@ -5167,9 +5167,9 @@
           "prompt": "'They will work in the office' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እነሱ ቢሮ ውስጥ ይሠራሉ። (They will work in the office - Correct 3rd person plural future)",
-            "እነሱ ቢሮ አልገቡም። (Target expression (Amharic))",
-            "እኔ ቢሮ እሠራለሁ። (Target expression (Amharic))",
-            "እሱ ትላንት ሠራ። (Target expression (Amharic))"
+            "እነሱ ቢሮ አልገቡም።) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)",
+            "እኔ ቢሮ እሠራለሁ።) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)",
+            "እሱ ትላንት ሠራ።) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)"
           ],
           "answerIndex": 0,
           "explanation": "«ይሠራሉ» ለሦስተኛ መደብ ብዙ (እነሱ) የወደፊት ጊዜን በትክክል ያሳያል።"
@@ -5183,9 +5183,9 @@
           "prompt": "የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች እና እንሄዳለን። (የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ይዟል።) (ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Future Tense Conjugation))",
-            "ትላንት ሄድኩ እና በላሁ። (Target expression (Amharic))",
-            "አልሄድኩም እና አልበላሁም። (Target expression (Amharic))",
-            "በአማርኛ የወደፊት ጊዜ አይረባም። (Target expression (Amharic))"
+            "ትላንት ሄድኩ እና በላሁ።) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)",
+            "አልሄድኩም እና አልበላሁም።) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)",
+            "በአማርኛ የወደፊት ጊዜ አይረባም።) (Context: ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Futur)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ይዟል።"
@@ -5242,9 +5242,9 @@
           "prompt": "«Day after tomorrow» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ከነገ ወዲያ (Day after tomorrow - Correct future time phrase)",
-            "ከትላንት ወዲያ (Target expression (Amharic))",
-            "ባለፈው ሳምንት (Target expression (Amharic))",
-            "አሁን (Target expression (Amharic))"
+            "ከትላንት ወዲያ) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)",
+            "ባለፈው ሳምንት) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)",
+            "አሁን) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)"
           ],
           "answerIndex": 0,
           "explanation": "«ከነገ ወዲያ» ከነገ ቀጥሎ ያለውን ቀን ያመለክታል።"
@@ -5257,9 +5257,9 @@
           "prompt": "'Next week we will travel to Bahir Dar' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በሚቀጥለው ሳምንት ወደ ባሕር ዳር እንጓዛለን። (Next week we will travel to Bahir Dar - Accurate future sentence)",
-            "ትላንት ወደ ባሕር ዳር ሄድን። (Target expression (Amharic))",
-            "ባሕር ዳር አንሄድም። (Target expression (Amharic))",
-            "ባሕር ዳር ቆንጆ ከተማ ናት። (Target expression (Amharic))"
+            "ትላንት ወደ ባሕር ዳር ሄድን።) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)",
+            "ባሕር ዳር አንሄድም።) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)",
+            "ባሕር ዳር ቆንጆ ከተማ ናት።) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)"
           ],
           "answerIndex": 0,
           "explanation": "«በሚቀጥለው ሳምንት... እንጓዛለን» የወደፊት ጊዜ አመልካችንና ግስን በትክክል ያዛምዳል።"
@@ -5273,9 +5273,9 @@
           "prompt": "የወደፊት ጊዜ አመልካቾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር እና ወደፊት። (የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ አመልካቾችን ይዟል።) (የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Markers))",
-            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት። (Target expression (Amharic))",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Target expression (Amharic))",
-            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም። (Target expression (Amharic))"
+            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት።) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)",
+            "ጠዋት፣ ከሰዓት እና ማታ።) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)",
+            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም።) (Context: የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Ma)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ አመልካቾችን ይዟል።"
@@ -5422,9 +5422,9 @@
           "prompt": "«I want to travel» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ለመጓዝ እፈልጋለሁ። (I want to travel - Correct infinitive + desiderative verb)",
-            "መጓዝ አልፈልግም (Target expression (Amharic))",
-            "ትላንት ተጓዝኩ (Target expression (Amharic))",
-            "አትጓዝ (Target expression (Amharic))"
+            "መጓዝ አልፈልግም) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)",
+            "ትላንት ተጓዝኩ) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)",
+            "አትጓዝ) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)"
           ],
           "answerIndex": 0,
           "explanation": "«ለመጓዝ እፈልጋለሁ» የመጓዝ ፍላጎትንና ምኞትን በትክክል ያሳያል።"
@@ -5437,9 +5437,9 @@
           "prompt": "'He has planned to buy a car' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "መኪና ለመግዛት አቅዷል። (He has planned to buy a car - Correct intention structure)",
-            "መኪና ሸጠ። (Target expression (Amharic))",
-            "መኪና የለውም። (Target expression (Amharic))",
-            "መኪና አይገዛም። (Target expression (Amharic))"
+            "መኪና ሸጠ።) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)",
+            "መኪና የለውም።) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)",
+            "መኪና አይገዛም።) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)"
           ],
           "answerIndex": 0,
           "explanation": "«መኪና ለመግዛት አቅዷል» የግዢ ዕቅድን በትክክል ይገልጻል።"
@@ -5453,9 +5453,9 @@
           "prompt": "የዕቅድ እና የዓላማ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ለመማር እና ለማቋቋም። (የመጀመሪያው አማራጭ ዋና ዋና የዕቅድና የምኞት መግለጫዎችን ይዟል።) (ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expressing Intentions, Plans & Desires))",
-            "ትላንት በላሁ እና ጠጣሁ። (Target expression (Amharic))",
-            "ምንም ዕቅድ የለም። (Target expression (Amharic))",
-            "በአማርኛ የዕቅድ ቃል አይነገርም። (Target expression (Amharic))"
+            "ትላንት በላሁ እና ጠጣሁ።) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)",
+            "ምንም ዕቅድ የለም።) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)",
+            "በአማርኛ የዕቅድ ቃል አይነገርም።) (Context: ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expres)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዕቅድና የምኞት መግለጫዎችን ይዟል።"
@@ -5512,9 +5512,9 @@
           "prompt": "ከሚከተሉት ውስጥ የወደፊት ዕቅድንና ተግባርን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
             "በሚቀጥለው ወር አዲስ ሥራ ለመጀመር አቅጃለሁ፤ ጠንክሬም እሠራለሁ። (Complete future intention and action sequence)",
-            "ትላንት ሥራ ጨረስኩ (Target expression (Amharic))",
-            "ምንም ዕቅድ የለኝም (Target expression (Amharic))",
-            "ሥራ አልፈልግም (Target expression (Amharic))"
+            "ትላንት ሥራ ጨረስኩ) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )",
+            "ምንም ዕቅድ የለኝም) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )",
+            "ሥራ አልፈልግም) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጊዜ አመልካችን፣ ዕቅድንና የወደፊት ግስን በአንድነት ያጠቃልላል።"
@@ -5527,9 +5527,9 @@
           "prompt": "የወደፊት አዎንታዊና አሉታዊ መግለጫዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ነገ ወደ ከተማ አልሄድም፤ ይልቁንም ቤት ውስጥ አጠናለሁ። (Tomorrow I will not go to town; rather I will study at home - Contrastive future)",
-            "ትላንት ወደ ከተማ አልሄድኩም። (Target expression (Amharic))",
-            "ምንም አላጠናሁም። (Target expression (Amharic))",
-            "ከተማ ሩቅ ነው። (Target expression (Amharic))"
+            "ትላንት ወደ ከተማ አልሄድኩም።) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )",
+            "ምንም አላጠናሁም።) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )",
+            "ከተማ ሩቅ ነው።) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር የወደፊት አሉታዊን (አልሄድም) እና የወደፊት አዎንታዊን (አጠናለሁ) በትክክል ያዛምዳል።"
@@ -5543,9 +5543,9 @@
           "prompt": "የክፍል 11 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ቀላል የወደፊት ጊዜ ግሶች፣ የጊዜ አመልካቾች (ነገ፣ በሚቀጥለው ሳምንት)፣ የወደፊት አሉታዊ ቅርጾች እና የዕቅድ መግለጫዎች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 11ን አጠቃላይ የወደፊት ጊዜ ይዘት በሙሉ ይሸፍናል።) (የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand Synthesis & Future Aspirations Discourse))",
-            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የወደፊት ጊዜ የለም። (Target expression (Amharic))",
-            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው።) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )",
+            "በአማርኛ የወደፊት ጊዜ የለም።) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው።) (Context: የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 11ን አጠቃላይ የወደፊት ጊዜ ይዘት በሙሉ ይሸፍናል።"
@@ -5602,9 +5602,9 @@
           "prompt": "«Football and running» የሚለውን በአማርኛ ትክክለኛ የስፖርት ስሞች የያዘው የትኛው ነው?",
           "options": [
             "እግር ኳስ እና ሩጫ (Football and running - Correct major sports nouns)",
-            "ጠረጴዛ እና ወንበር (Target expression (Amharic))",
-            "መጽሐፍ እና ደብተር (Target expression (Amharic))",
-            "ታክሲ እና ባቡር (Target expression (Amharic))"
+            "ጠረጴዛ እና ወንበር) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)",
+            "መጽሐፍ እና ደብተር) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)",
+            "ታክሲ እና ባቡር) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)"
           ],
           "answerIndex": 0,
           "explanation": "«እግር ኳስ» እና «ሩጫ» ሁለቱን ዋና የስፖርት አይነቶች ያመለክታሉ።"
@@ -5617,9 +5617,9 @@
           "prompt": "'They swim in the pool' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በገንዳው ውስጥ ይዋኛሉ። (They swim in the pool - Accurate swimming action)",
-            "እግር ኳስ ይጫወታሉ። (Target expression (Amharic))",
-            "መጽሐፍ ያነባሉ። (Target expression (Amharic))",
-            "ምግብ ያበስላሉ። (Target expression (Amharic))"
+            "እግር ኳስ ይጫወታሉ።) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)",
+            "መጽሐፍ ያነባሉ።) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)",
+            "ምግብ ያበስላሉ።) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)"
           ],
           "answerIndex": 0,
           "explanation": "«ይዋኛሉ» የመዋኘት ተግባርን ለሦስተኛ መደብ ብዙ በትክክል ያሳያል።"
@@ -5633,9 +5633,9 @@
           "prompt": "ዋና ዋና የስፖርት አይነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና እና ብስክሌት መንዳት። (የመጀመሪያው አማራጭ ዋና ዋና የስፖርት አይነቶችን በሙሉ ይዟል።) (ዋና ዋና የስፖርት አይነቶች (Major Sports & Athletics))",
-            "እንጀራ፣ ወጥ እና ዳቦ። (Target expression (Amharic))",
-            "ቀሚስ፣ ሱሪ እና ጫማ። (Target expression (Amharic))",
-            "በአማርኛ የስፖርት ስሞች የሉም። (Target expression (Amharic))"
+            "እንጀራ፣ ወጥ እና ዳቦ።) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)",
+            "ቀሚስ፣ ሱሪ እና ጫማ።) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)",
+            "በአማርኛ የስፖርት ስሞች የሉም።) (Context: ዋና ዋና የስፖርት አይነቶች (Major Sports & A)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስፖርት አይነቶችን በሙሉ ይዟል።"
@@ -5693,9 +5693,9 @@
           "prompt": "«Reading books in free time» የሚለውን በአማርኛ ትክክለኛ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "በትርፍ ጊዜ መጽሐፍ ማንበብ (Reading books in free time - Correct hobby phrase)",
-            "ሥራ መፈለግ (Target expression (Amharic))",
-            "ሆስፒታል መሄድ (Target expression (Amharic))",
-            "ታክሲ መጠበቅ (Target expression (Amharic))"
+            "ሥራ መፈለግ) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)",
+            "ሆስፒታል መሄድ) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)",
+            "ታክሲ መጠበቅ) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)"
           ],
           "answerIndex": 0,
           "explanation": "«በትርፍ ጊዜ መጽሐፍ ማንበብ» የትርፍ ሰዓት የንባብ ልማድን በትክክል ይገልጻል።"
@@ -5708,9 +5708,9 @@
           "prompt": "'She listens to traditional music' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ባህላዊ ሙዚቃ ታዳምጣለች። (She listens to traditional music - Accurate listening activity)",
-            "ሙዚቃ አትወድም። (Target expression (Amharic))",
-            "መጽሐፍ ትጽፋለች። (Target expression (Amharic))",
-            "ምግብ አትበላም። (Target expression (Amharic))"
+            "ሙዚቃ አትወድም።) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)",
+            "መጽሐፍ ትጽፋለች።) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)",
+            "ምግብ አትበላም።) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)"
           ],
           "answerIndex": 0,
           "explanation": "«ባህላዊ ሙዚቃ ታዳምጣለች» የሙዚቃ ማዳመጥን ድርጊት በትክክል ያሳያል።"
@@ -5724,9 +5724,9 @@
           "prompt": "የትርፍ ጊዜ ተግባራትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል እና ፎቶግራፍ ማንሳት። (የመጀመሪያው አማራጭ ዋና ዋና የትርፍ ጊዜ ማሳለፊያዎችን በሙሉ ይዟል።) (የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies & Leisure Pastimes))",
-            "ክኒን መዋጥ እና መርፌ መወጋት። (Target expression (Amharic))",
-            "ትኬት መቁረጥ እና ወያላ መጥራት። (Target expression (Amharic))",
-            "በአማርኛ የመዝናኛ ቃላት የሉም። (Target expression (Amharic))"
+            "ክኒን መዋጥ እና መርፌ መወጋት።) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)",
+            "ትኬት መቁረጥ እና ወያላ መጥራት።) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)",
+            "በአማርኛ የመዝናኛ ቃላት የሉም።) (Context: የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies &)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የትርፍ ጊዜ ማሳለፊያዎችን በሙሉ ይዟል።"
@@ -5783,9 +5783,9 @@
           "prompt": "«I prefer reading» የሚለውን በአማርኛ ትክክለኛ የምርጫ አገባብ የገለጸው የትኛው ነው?",
           "options": [
             "ማንበብን እመርጣለሁ። (I prefer reading - Correct preference structure with እመርጣለሁ)",
-            "ማንበብ አልችልም (Target expression (Amharic))",
-            "መጽሐፍ የለኝም (Target expression (Amharic))",
-            "አላነብም (Target expression (Amharic))"
+            "ማንበብ አልችልም) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)",
+            "መጽሐፍ የለኝም) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)",
+            "አላነብም) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)"
           ],
           "answerIndex": 0,
           "explanation": "«ማንበብን እመርጣለሁ» ከሌሎች ነገሮች ይልቅ ንባብን መምረጥን በትክክል ያሳያል።"
@@ -5798,9 +5798,9 @@
           "prompt": "'He doesn't like watching sports' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስፖርት ማየት አይወድም። (He doesn't like watching sports - Accurate negative preference)",
-            "ስፖርት ይወዳል (Target expression (Amharic))",
-            "ስፖርት ይጫወታል (Target expression (Amharic))",
-            "ስፖርት ሮጠ (Target expression (Amharic))"
+            "ስፖርት ይወዳል) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)",
+            "ስፖርት ይጫወታል) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)",
+            "ስፖርት ሮጠ) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)"
           ],
           "answerIndex": 0,
           "explanation": "«አይወድም» ለሦስተኛ መደብ ተባዕታይ ያለመውደድን በትክክል ይገልጻል።"
@@ -5814,9 +5814,9 @@
           "prompt": "የፍላጎት እና የምርጫ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እወዳለሁ፣ አልወድም፣ እመርጣለሁ እና ይሻለኛል። (የመጀመሪያው አማራጭ ዋና ዋና የምርጫና የፍላጎት መግለጫዎችን ይዟል።) (የፍላጎት እና የምርጫ መግለጫዎች (Expressing Preferences)",
-            "ሄድኩ፣ መጣሁ እና በላሁ። (Target expression (Amharic))",
-            "ትላንት፣ ዛሬ እና ነገ። (Target expression (Amharic))",
-            "በአማርኛ የምርጫ ቃላት የሉም። (Target expression (Amharic))"
+            "ሄድኩ፣ መጣሁ እና በላሁ።) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)",
+            "ትላንት፣ ዛሬ እና ነገ።) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)",
+            "በአማርኛ የምርጫ ቃላት የሉም።) (Context: የፍላጎት እና የምርጫ መግለጫዎች (Expressing Pr)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የምርጫና የፍላጎት መግለጫዎችን ይዟል።"
@@ -5873,9 +5873,9 @@
           "prompt": "በገና በዓል ወቅት የሚጫወተው ታዋቂው የኢትዮጵያ ባህላዊ ስፖርት የትኛው ነው?",
           "options": [
             "የገና ጨዋታ (Genna traditional hockey game - Authentic cultural sport)",
-            "ቅርጫት ኳስ (Target expression (Amharic))",
-            "መረብ ኳስ (Target expression (Amharic))",
-            "ቴኒስ (Target expression (Amharic))"
+            "ቅርጫት ኳስ) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)",
+            "መረብ ኳስ) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)",
+            "ቴኒስ) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)"
           ],
           "answerIndex": 0,
           "explanation": "«የገና ጨዋታ» በገና ወቅት በባህል የሚዘወተር ጥንታዊ የሆኪ ዓይነት ጨዋታ ነው።"
@@ -5888,9 +5888,9 @@
           "prompt": "'Elders play Gebet'a under the shade' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሽማግሌዎች በጥላ ሥር ገበጣ ይጫወታሉ። (Elders play Gebet'a under the shade - Accurate cultural scene)",
-            "ሽማግሌዎች ይሮጣሉ። (Target expression (Amharic))",
-            "ገበጣ መጫወት አይቻልም። (Target expression (Amharic))",
-            "ምንም ጨዋታ የለም። (Target expression (Amharic))"
+            "ሽማግሌዎች ይሮጣሉ።) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)",
+            "ገበጣ መጫወት አይቻልም።) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)",
+            "ምንም ጨዋታ የለም።) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር ሽማግሌዎችን፣ ጥላንና የገበጣ ጨዋታን በትክክል ያዛምዳል።"
@@ -5904,9 +5904,9 @@
           "prompt": "የኢትዮጵያ ባህላዊ ስፖርቶችንና ጨዋታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ እና ሻጥር። (የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ስፖርቶችንና ጨዋታዎችን በሙሉ ይዟል።) (የባህል ስፖርቶች እና ጨዋታዎች (Traditional Ethiopian Sports & Games))",
-            "እግር ኳስ እና ቴኒስ ብቻ። (Target expression (Amharic))",
-            "በኢትዮጵያ ባህላዊ ስፖርት የለም። (Target expression (Amharic))",
-            "መኪና መንዳት እና አውሮፕላን ማብረር። (Target expression (Amharic))"
+            "እግር ኳስ እና ቴኒስ ብቻ።) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)",
+            "በኢትዮጵያ ባህላዊ ስፖርት የለም።) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)",
+            "መኪና መንዳት እና አውሮፕላን ማብረር።) (Context: የባህል ስፖርቶች እና ጨዋታዎች (Traditional Et)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ስፖርቶችንና ጨዋታዎችን በሙሉ ይዟል።"
@@ -5963,9 +5963,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የስፖርትና የመዝናኛ አኗኗርን የሚያሳየው የትኛው ነው?",
           "options": [
             "ስፖርት እሠራለሁ፣ መጽሐፍ አነባለሁ፣ እንዲሁም በትርፍ ጊዜዬ እዝናናለሁ። (Complete active leisure synthesis)",
-            "ምንም ስፖርት አልሠራም (Target expression (Amharic))",
-            "መጽሐፍ አልወድም (Target expression (Amharic))",
-            "ቤት ብቻ እቀመጣለሁ (Target expression (Amharic))"
+            "ምንም ስፖርት አልሠራም) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )",
+            "መጽሐፍ አልወድም) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )",
+            "ቤት ብቻ እቀመጣለሁ) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ስፖርትን፣ ንባብንና መዝናናትን በአንድነት ያጠቃልላል።"
@@ -5978,9 +5978,9 @@
           "prompt": "ባህላዊ ጨዋታዎችንና ዘመናዊ ስፖርቶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "እግር ኳስ መጫወትም ሆነ ገበጣ መጫወት ደስ ይለኛል። (I enjoy playing both football and Gebet'a - Integrated sports sentence)",
-            "ስፖርት አልወድም። (Target expression (Amharic))",
-            "ገበጣ ጨዋታ አይደለም። (Target expression (Amharic))",
-            "ኳስ የለም። (Target expression (Amharic))"
+            "ስፖርት አልወድም።) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )",
+            "ገበጣ ጨዋታ አይደለም።) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )",
+            "ኳስ የለም።) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ እግር ኳስንና ገበጣን በአንድ ላይ በማጣመር ትክክለኛውን ትርጉም ይሰጣል።"
@@ -5994,9 +5994,9 @@
           "prompt": "የክፍል 12 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ዋና ዋና ስፖርቶች፣ የትርፍ ጊዜ ማሳለፊያዎች፣ የፍላጎትና የምርጫ መግለጫዎች (እወዳለሁ፣ እመርጣለሁ)፣ እንዲሁም የኢትዮጵያ ባህላዊ ጨዋታዎች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 12ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand Synthesis & Leisure Activities Discourse))",
-            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የመዝናኛ ስሞች የሉም። (Target expression (Amharic))",
-            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው።) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )",
+            "በአማርኛ የመዝናኛ ስሞች የሉም።) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )",
+            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው።) (Context: የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 12ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -6053,9 +6053,9 @@
           "prompt": "«Teacher, doctor, and engineer» የሚለውን በአማርኛ ትክክለኛ የሙያ ስሞች የያዘው የትኛው ነው?",
           "options": [
             "መምህር፣ ሐኪም እና መሃንዲስ (Teacher, doctor, and engineer - Correct professional nouns)",
-            "ወንበር፣ ጠረጴዛ እና በር (Target expression (Amharic))",
-            "ዳቦ፣ ወተት እና ስጋ (Target expression (Amharic))",
-            "ባቡር፣ አውቶቡስ እና ታክሲ (Target expression (Amharic))"
+            "ወንበር፣ ጠረጴዛ እና በር) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)",
+            "ዳቦ፣ ወተት እና ስጋ) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)",
+            "ባቡር፣ አውቶቡስ እና ታክሲ) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)"
           ],
           "answerIndex": 0,
           "explanation": "«መምህር»፣ «ሐኪም» እና «መሃንዲስ» ሦስቱን ዋና ዋና የሙያ መጠሪያዎች ያመለክታሉ።"
@@ -6068,9 +6068,9 @@
           "prompt": "'The farmer produces crops' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ገበሬው ሰብል ያመርታል። (The farmer produces crops - Accurate agricultural role)",
-            "ገበሬው መኪና ይነዳል (Target expression (Amharic))",
-            "ገበሬው ህክምና ይሰጣል (Target expression (Amharic))",
-            "ገበሬው ፎቶ ያነሳል (Target expression (Amharic))"
+            "ገበሬው መኪና ይነዳል) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)",
+            "ገበሬው ህክምና ይሰጣል) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)",
+            "ገበሬው ፎቶ ያነሳል) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)"
           ],
           "answerIndex": 0,
           "explanation": "«ገበሬው ሰብል ያመርታል» የእርሻ ሙያንና ተግባርን በትክክል ያሳያል።"
@@ -6084,9 +6084,9 @@
           "prompt": "ዋና ዋና የሙያ መጠሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ እና ጠበቃ። (የመጀመሪያው አማራጭ ዋና ዋና የሙያ ዓይነቶችን በሙሉ ይዟል።) (ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Professions & Occupations))",
-            "ቤት፣ በር፣ መስኮት እና ጣሪያ። (Target expression (Amharic))",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Target expression (Amharic))",
-            "በአማርኛ የሙያ ስሞች የሉም። (Target expression (Amharic))"
+            "ቤት፣ በር፣ መስኮት እና ጣሪያ።) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)",
+            "ጠዋት፣ ከሰዓት እና ማታ።) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)",
+            "በአማርኛ የሙያ ስሞች የሉም።) (Context: ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Profes)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሙያ ዓይነቶችን በሙሉ ይዟል።"
@@ -6143,9 +6143,9 @@
           "prompt": "«She works in the bank» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
             "በባንክ ውስጥ ትሠራለች። (She works in the bank - Accurate workplace preposition and verb)",
-            "ወደ ባንክ ሄደች (Target expression (Amharic))",
-            "ባንክ አልሄደችም (Target expression (Amharic))",
-            "ባንክ ዘግቷል (Target expression (Amharic))"
+            "ወደ ባንክ ሄደች) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )",
+            "ባንክ አልሄደችም) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )",
+            "ባንክ ዘግቷል) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )"
           ],
           "answerIndex": 0,
           "explanation": "«በባንክ ውስጥ ትሠራለች» የሥራ ቦታውንና ድርጊቱን በትክክል ያሳያል።"
@@ -6158,9 +6158,9 @@
           "prompt": "'In the office and factory' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በቢሮ እና በፋብሪካ ውስጥ (In the office and in the factory - Correct location nouns)",
-            "በመንገድ ላይ (Target expression (Amharic))",
-            "በቤት ውስጥ (Target expression (Amharic))",
-            "በገበያ ላይ (Target expression (Amharic))"
+            "በመንገድ ላይ) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )",
+            "በቤት ውስጥ) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )",
+            "በገበያ ላይ) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )"
           ],
           "answerIndex": 0,
           "explanation": "«በቢሮ እና በፋብሪካ ውስጥ» ሁለቱን የስራ አካባቢዎች ያመለክታል።"
@@ -6174,9 +6174,9 @@
           "prompt": "የሥራ ቦታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ቢሮ፣ ባንክ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ፍርድ ቤት እና እርሻ። (የመጀመሪያው አማራጭ ዋና ዋና የሥራ ቦታዎችን በሙሉ ይዟል።) (የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & Professional Settings))",
-            "አልጋ፣ ቁምሳጥን እና ሶፋ። (Target expression (Amharic))",
-            "ወጥ፣ ዶሮ እና ሩዝ። (Target expression (Amharic))",
-            "በአማርኛ የሥራ ቦታ ስሞች የሉም። (Target expression (Amharic))"
+            "አልጋ፣ ቁምሳጥን እና ሶፋ።) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )",
+            "ወጥ፣ ዶሮ እና ሩዝ።) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )",
+            "በአማርኛ የሥራ ቦታ ስሞች የሉም።) (Context: የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ቦታዎችን በሙሉ ይዟል።"
@@ -6233,9 +6233,9 @@
           "prompt": "«Preparing a report and leading a meeting» የሚለውን በአማርኛ ትክክለኛ የሥራ ተግባራት የገለጸው የትኛው ነው?",
           "options": [
             "ሪፖርት ማዘጋጀት እና ስብሰባ መምራት (Preparing a report and leading a meeting - Correct workplace task verbal nouns)",
-            "እግር ኳስ መጫወት (Target expression (Amharic))",
-            "ምሳ መብላት (Target expression (Amharic))",
-            "ቴሌቪዥን ማየት (Target expression (Amharic))"
+            "እግር ኳስ መጫወት) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )",
+            "ምሳ መብላት) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )",
+            "ቴሌቪዥን ማየት) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )"
           ],
           "answerIndex": 0,
           "explanation": "«ሪፖርት ማዘጋጀት እና ስብሰባ መምራት» ሁለቱን ቁልፍ የቢሮ ተግባራት በትክክል ያመለክታሉ።"
@@ -6248,9 +6248,9 @@
           "prompt": "'My responsibility is to treat patients' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ኃላፊነቴ ህሙማንን ማከም ነው። (My responsibility is to treat patients - Accurate medical duty)",
-            "ህሙማን አይታከሙም (Target expression (Amharic))",
-            "ሆስፒታል አልሄድም (Target expression (Amharic))",
-            "ምንም ኃላፊነት የለኝም (Target expression (Amharic))"
+            "ህሙማን አይታከሙም) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )",
+            "ሆስፒታል አልሄድም) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )",
+            "ምንም ኃላፊነት የለኝም) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )"
           ],
           "answerIndex": 0,
           "explanation": "«ኃላፊነቴ ህሙማንን ማከም ነው» የህክምና ሙያ ዋነኛ ተግባርን በትክክል ያሳያል።"
@@ -6264,9 +6264,9 @@
           "prompt": "የሥራ ተግባራትንና ኃላፊነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት እና ስብሰባ መምራት። (የመጀመሪያው አማራጭ ዋና ዋና የሥራ ተግባራትንና ኃላፊነቶችን በሙሉ ይዟል።) (የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job Tasks & Professional Responsibilities))",
-            "መተኛት፣ መነሳት እና ማዛጋት። (Target expression (Amharic))",
-            "መሮጥ፣ መዝለል እና መዋኘት። (Target expression (Amharic))",
-            "በአማርኛ የሥራ ተግባር ቃላት የሉም። (Target expression (Amharic))"
+            "መተኛት፣ መነሳት እና ማዛጋት።) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )",
+            "መሮጥ፣ መዝለል እና መዋኘት።) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )",
+            "በአማርኛ የሥራ ተግባር ቃላት የሉም።) (Context: የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ተግባራትንና ኃላፊነቶችን በሙሉ ይዟል።"
@@ -6323,9 +6323,9 @@
           "prompt": "«Job interview and work experience» የሚለውን በአማርኛ ትክክለኛ የቅጥር ቃላት የገለጸው የትኛው ነው?",
           "options": [
             "የሥራ ቃለ መጠይቅ እና የሥራ ልምድ (Job interview and work experience - Accurate hiring terms)",
-            "የገበያ ሽያጭ (Target expression (Amharic))",
-            "የእግር ኳስ ጨዋታ (Target expression (Amharic))",
-            "የሲኒማ ትኬት (Target expression (Amharic))"
+            "የገበያ ሽያጭ) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)",
+            "የእግር ኳስ ጨዋታ) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)",
+            "የሲኒማ ትኬት) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)"
           ],
           "answerIndex": 0,
           "explanation": "«የሥራ ቃለ መጠይቅ» እና «የሥራ ልምድ» ሁለቱን ወሳኝ የቅጥር ቃላት ያመለክታሉ።"
@@ -6338,9 +6338,9 @@
           "prompt": "'I sent my application and CV' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ማመልከቻዬንና ሲቪዬን ላክሁ። (I sent my application and CV - Accurate job submission sentence)",
-            "ማመልከቻ አልጻፍኩም (Target expression (Amharic))",
-            "ሲቪ የለኝም (Target expression (Amharic))",
-            "ሥራ አልፈልግም (Target expression (Amharic))"
+            "ማመልከቻ አልጻፍኩም) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)",
+            "ሲቪ የለኝም) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)",
+            "ሥራ አልፈልግም) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)"
           ],
           "answerIndex": 0,
           "explanation": "«ማመልከቻዬንና ሲቪዬን ላክሁ» የማመልከቻን መላክ በትክክል ያሳያል።"
@@ -6354,9 +6354,9 @@
           "prompt": "የሥራ ማመልከቻና የቅጥር ሂደትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የሥራ ማስታወቂያ፣ ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ የቅጥር ውል እና ደመወዝ። (የመጀመሪያው አማራጭ የሥራ ቅጥር ሂደትን ደረጃዎች በሙሉ ይዟል።) (የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job Applications, CV & Interviews))",
-            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ። (Target expression (Amharic))",
-            "ስኳር፣ ጨው እና ዘይት። (Target expression (Amharic))",
-            "በአማርኛ የቅጥር ቃላት የሉም። (Target expression (Amharic))"
+            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ።) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)",
+            "ስኳር፣ ጨው እና ዘይት።) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)",
+            "በአማርኛ የቅጥር ቃላት የሉም።) (Context: የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job App)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሥራ ቅጥር ሂደትን ደረጃዎች በሙሉ ይዟል።"
@@ -6413,9 +6413,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ ሙያዊ ማንነትንና የሥራ ቦታን የሚያሳየው የትኛው ነው?",
           "options": [
             "እኔ መምህር ነኝ፤ በዩኒቨርሲቲ ውስጥ ተማሪዎችን አስተምራለሁ። (Complete professional identity and role)",
-            "እኔ ተማሪ አይደለሁም (Target expression (Amharic))",
-            "ሥራ የለም (Target expression (Amharic))",
-            "ቤት ተቀምጫለሁ (Target expression (Amharic))"
+            "እኔ ተማሪ አይደለሁም) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )",
+            "ሥራ የለም) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )",
+            "ቤት ተቀምጫለሁ) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ሙያን፣ የሥራ ቦታንና ተግባርን በአንድነት ያጠቃልላል።"
@@ -6428,9 +6428,9 @@
           "prompt": "የሥራ ቅጥርንና የሥራ ጅማሬን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ቃለ መጠይቁን አልፌ አዲሱን ሥራዬን በደስታ ጀመርኩ። (I passed the interview and happily started my new job - Integrated career milestone)",
-            "ሥራ አልፈልግም (Target expression (Amharic))",
-            "ቃለ መጠይቅ የለም (Target expression (Amharic))",
-            "ደመወዝ አልፈልግም (Target expression (Amharic))"
+            "ሥራ አልፈልግም) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )",
+            "ቃለ መጠይቅ የለም) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )",
+            "ደመወዝ አልፈልግም) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቃለ መጠይቅን ማለፍና ሥራ መጀመርን በትክክል ያዛምዳል።"
@@ -6444,9 +6444,9 @@
           "prompt": "የክፍል 13 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ዋና ዋና ሙያዎች፣ የሥራ ቦታዎች፣ የዕለት ተዕለት የሥራ ኃላፊነቶች፣ እንዲሁም የሥራ ማመልከቻ፣ ሲቪ እና የቃለ መጠይቅ ውይይቶች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 13ን አጠቃላይ ሙያዊ ይዘት በሙሉ ይሸፍናል።) (የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand Synthesis & Professional Discourse))",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የሙያ ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )",
+            "በአማርኛ የሙያ ቃላት የሉም።) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )",
+            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ።) (Context: የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 13ን አጠቃላይ ሙያዊ ይዘት በሙሉ ይሸፍናል።"
@@ -6503,9 +6503,9 @@
           "prompt": "«Lalibela, Aksum, and Gondar» የሚለውን በአማርኛ ትክክለኛ የታሪካዊ ቦታዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
             "ላሊበላ፣ አክሱም እና ጎንደር (Lalibela, Aksum, and Gondar - Correct historic heritage sites)",
-            "መጽሐፍ፣ ደብተር እና እርሳስ (Target expression (Amharic))",
-            "ታክሲ፣ ባቡር እና አውቶቡስ (Target expression (Amharic))",
-            "ወጥ፣ ዳቦ እና ሻይ (Target expression (Amharic))"
+            "መጽሐፍ፣ ደብተር እና እርሳስ) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)",
+            "ታክሲ፣ ባቡር እና አውቶቡስ) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)",
+            "ወጥ፣ ዳቦ እና ሻይ) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)"
           ],
           "answerIndex": 0,
           "explanation": "«ላሊበላ»፣ «አክሱም» እና «ጎንደር» ሦስቱን ታላላቅ የኢትዮጵያ ታሪካዊ ቅርሶች ያመለክታሉ።"
@@ -6518,9 +6518,9 @@
           "prompt": "'The rock churches of Lalibela are famous' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው። (The rock-hewn churches of Lalibela are famous - Accurate historic description)",
-            "ላሊበላ አዲስ ከተማ ነው (Target expression (Amharic))",
-            "ላሊበላ ቤተ ክርስቲያን የለውም (Target expression (Amharic))",
-            "ላሊበላ መሄድ አይቻልም (Target expression (Amharic))"
+            "ላሊበላ አዲስ ከተማ ነው) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)",
+            "ላሊበላ ቤተ ክርስቲያን የለውም) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)",
+            "ላሊበላ መሄድ አይቻልም) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)"
           ],
           "answerIndex": 0,
           "explanation": "«የላሊበላ ውቅር አብያተ ክርስቲያናት ታዋቂ ናቸው» የታሪካዊ ቅርሱን ዝና በትክክል ያሳያል።"
@@ -6534,9 +6534,9 @@
           "prompt": "የኢትዮጵያን ዋና ዋና ታሪካዊ ቅርሶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ላሊበላ፣ አክሱም፣ የጎንደር ፋሲል ግቢ፣ የሐረር ጁጎል እና የጢያ ሐውልቶች። (የመጀመሪያው አማራጭ ዋና ዋና የኢትዮጵያ ታሪካዊ ቦታዎችን በሙሉ ይዟል።) (ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiopian Historical Sites))",
-            "አልጋ፣ ጠረጴዛ እና ወንበር። (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Target expression (Amharic))",
-            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም። (Target expression (Amharic))"
+            "አልጋ፣ ጠረጴዛ እና ወንበር።) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ።) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)",
+            "በኢትዮጵያ ታሪካዊ ቅርሶች የሉም።) (Context: ታዋቂ የኢትዮጵያ ታሪካዊ ቦታዎች (Famous Ethiop)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢትዮጵያ ታሪካዊ ቦታዎችን በሙሉ ይዟል።"
@@ -6683,9 +6683,9 @@
           "prompt": "«Fascinating and unforgettable trip» የሚለውን በአማርኛ ትክክለኛ ገላጭ ሐረግ የያዘው የትኛው ነው?",
           "options": [
             "አስደናቂ እና የማይረሳ ጉዞ (Fascinating and unforgettable trip - Correct descriptive modifiers)",
-            "አጭር እና መጥፎ መንገድ (Target expression (Amharic))",
-            "የጠፋ ሻንጣ (Target expression (Amharic))",
-            "የተሰበረ መኪና (Target expression (Amharic))"
+            "አጭር እና መጥፎ መንገድ) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)",
+            "የጠፋ ሻንጣ) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)",
+            "የተሰበረ መኪና) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)"
           ],
           "answerIndex": 0,
           "explanation": "«አስደናቂ እና የማይረሳ ጉዞ» ሁለቱን ገላጭ ቅጽሎች ከስሙ ጋር በትክክል ያጣምራል።"
@@ -6698,9 +6698,9 @@
           "prompt": "'The ancient monasteries on the lake are beautiful' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው። (The ancient monasteries on the lake are beautiful - Accurate descriptive scene)",
-            "ሐይቁ ደርቋል (Target expression (Amharic))",
-            "ገዳማት የሉም (Target expression (Amharic))",
-            "ምንም ውበት የለም (Target expression (Amharic))"
+            "ሐይቁ ደርቋል) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)",
+            "ገዳማት የሉም) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)",
+            "ምንም ውበት የለም) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)"
           ],
           "answerIndex": 0,
           "explanation": "«በሐይቁ ላይ ያሉ ጥንታዊ ገዳማት ውብ ናቸው» ጥንታዊነትን፣ ቦታንና ውበትን በትክክል ያዛምዳል።"
@@ -6714,9 +6714,9 @@
           "prompt": "የጉዞ ልምድ ገላጭ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ጥንታዊ፣ አስደናቂ፣ ማራኪ፣ ድንቅ፣ ታሪካዊ እና የማይረሳ። (የመጀመሪያው አማራጭ ዋና ዋና የቦታና የልምድ ገላጭ ቅጽሎችን በሙሉ ይዟል።) (የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing Travel Experiences & Wonders))",
-            "ክኒን፣ ሽሮፕ እና መርፌ። (Target expression (Amharic))",
-            "ቅባት፣ ዘይት እና ዱቄት። (Target expression (Amharic))",
-            "በአማርኛ ገላጭ ቅጽሎች የሉም። (Target expression (Amharic))"
+            "ክኒን፣ ሽሮፕ እና መርፌ።) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)",
+            "ቅባት፣ ዘይት እና ዱቄት።) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)",
+            "በአማርኛ ገላጭ ቅጽሎች የሉም።) (Context: የጉዞ ልምድ እና የቦታዎች መግለጫ (Describing T)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የልምድ ገላጭ ቅጽሎችን በሙሉ ይዟል።"
@@ -6773,9 +6773,9 @@
           "prompt": "በሰሜን ተራሮች ብሔራዊ ፓርክ ውስጥ የሚገኘው ብርቅዬ እንስሳ የትኛው ነው?",
           "options": [
             "ዋሊያ አይቤክስ (Walia ibex - Endemic mountain mammal)",
-            "አንበሳ ብቻ (Target expression (Amharic))",
-            "ነብር ብቻ (Target expression (Amharic))",
-            "ዝሆን ብቻ (Target expression (Amharic))"
+            "አንበሳ ብቻ) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)",
+            "ነብር ብቻ) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)",
+            "ዝሆን ብቻ) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)"
           ],
           "answerIndex": 0,
           "explanation": "«ዋሊያ አይቤክስ» በሰሜን ተራሮች ገደላማ ስፍራዎች ላይ ብቻ የሚገኝ ብርቅዬ እንስሳ ነው።"
@@ -6788,9 +6788,9 @@
           "prompt": "'The Ethiopian red wolf lives in Bale Mountains' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል። (The Ethiopian red wolf lives in Bale Mountains - Accurate wildlife location)",
-            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል (Target expression (Amharic))",
-            "ባሌ ተራራ ውስጥ እንስሳት የሉም (Target expression (Amharic))",
-            "ቀይ ቀበሮ ጠፍቷል (Target expression (Amharic))"
+            "ቀይ ቀበሮ በባህር ውስጥ ይኖራል) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)",
+            "ባሌ ተራራ ውስጥ እንስሳት የሉም) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)",
+            "ቀይ ቀበሮ ጠፍቷል) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)"
           ],
           "answerIndex": 0,
           "explanation": "«የኢትዮጵያ ቀይ ቀበሮ በባሌ ተራሮች ይኖራል» የእንስሳውን መገኛ በትክክል ያሳያል።"
@@ -6804,9 +6804,9 @@
           "prompt": "የኢትዮጵያ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የሰሜን ተራሮች፣ የባሌ ተራሮች፣ ዋሊያ አይቤክስ፣ ጭላዳ ዝንጀሮ እና ቀይ ቀበሮ። (የመጀመሪያው አማራጭ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በሙሉ ይዟል።) (ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Parks & Endemic Wildlife))",
-            "ቡና፣ ሻይ እና ወተት። (Target expression (Amharic))",
-            "ሸሚዝ፣ ሱሪ እና ጫማ። (Target expression (Amharic))",
-            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም። (Target expression (Amharic))"
+            "ቡና፣ ሻይ እና ወተት።) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)",
+            "ሸሚዝ፣ ሱሪ እና ጫማ።) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)",
+            "በኢትዮጵያ ብሔራዊ ፓርኮች የሉም።) (Context: ብሔራዊ ፓርኮች እና የዱር እንስሳት (National Pa)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ብሔራዊ ፓርኮችንና ብርቅዬ እንስሳትን በሙሉ ይዟል።"
@@ -6863,9 +6863,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የቱሪዝም እና የቅርስ ጉዞ አገላለጽን የሚያሳየው የትኛው ነው?",
           "options": [
             "ታሪካዊ ቅርሶችን ጎበኘን፣ በሆቴል አረፍን፣ እንዲሁም ብርቅዬ እንስሳትን ተመለከትን። (Complete integrated tourism synthesis)",
-            "ቤት ውስጥ ተቀመጥን (Target expression (Amharic))",
-            "ምንም ቦታ አልሄድንም (Target expression (Amharic))",
-            "ጉዞ አንወድም (Target expression (Amharic))"
+            "ቤት ውስጥ ተቀመጥን) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )",
+            "ምንም ቦታ አልሄድንም) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )",
+            "ጉዞ አንወድም) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ቅርሶችን መጎብኘት፣ ማረፍና ብርቅዬ እንስሳትን መመልከትን በአንድ ላይ ያጠቃልላል።"
@@ -6878,9 +6878,9 @@
           "prompt": "ታሪካዊ ቦታዎችንና የተፈጥሮ ፓርኮችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "የጎንደርን ቤተ መንግሥታት እና የሰሜን ተራሮችን ውበት አደነቅን። (We admired Gondar's castles and Simien Mountains' beauty - Integrated heritage sentence)",
-            "ጎንደር ቅርሶች የሉትም (Target expression (Amharic))",
-            "ሰሜን ተራራ ሩቅ ነው (Target expression (Amharic))",
-            "ምንም ውበት የለም (Target expression (Amharic))"
+            "ጎንደር ቅርሶች የሉትም) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )",
+            "ሰሜን ተራራ ሩቅ ነው) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )",
+            "ምንም ውበት የለም) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጎንደር ቤተ መንግሥታትንና የሰሜን ተራሮችን ውበት በአንድነት ያሳያል።"
@@ -6894,9 +6894,9 @@
           "prompt": "የክፍል 14 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ዋና ዋና ታሪካዊ ቦታዎች (ላሊበላ፣ አክሱም፣ ጎንደር፣ ሐረር)፣ የጉዞ ዝግጅትና ሆቴል፣ ገላጭ ቅጽሎች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 14ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand Synthesis & Heritage Tourism Discourse))",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የቱሪዝም ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም ከተሞች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )",
+            "በአማርኛ የቱሪዝም ቃላት የሉም።) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )",
+            "ሁሉም ከተሞች አንድ ዓይነት ናቸው።) (Context: የክፍል 14 አጠቃላይ ማጠቃለያ (Unit 14 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 14ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -6953,9 +6953,9 @@
           "prompt": "«The rainy season and the harvest season» የሚለውን በአማርኛ ትክክለኛ የወቅት ስሞች የያዘው የትኛው ነው?",
           "options": [
             "ክረምት እና መኸር (The rainy season and the harvest season - Correct seasonal nouns)",
-            "ጠዋት እና ማታ (Target expression (Amharic))",
-            "ሰኞ እና አርብ (Target expression (Amharic))",
-            "ጥር እና የካቲት (Target expression (Amharic))"
+            "ጠዋት እና ማታ) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)",
+            "ሰኞ እና አርብ) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)",
+            "ጥር እና የካቲት) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)"
           ],
           "answerIndex": 0,
           "explanation": "«ክረምት» እና «መኸር» ሁለቱን ዋና ዋና የኢትዮጵያ ወቅቶች ያመለክታሉ።"
@@ -6968,9 +6968,9 @@
           "prompt": "'Adey Abeba flowers bloom in Meher' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በመኸር ወቅት አደይ አበባ ያብባል። (Adey Abeba flowers bloom in Meher - Accurate seasonal phenomenon)",
-            "በክረምት አበባ የለም (Target expression (Amharic))",
-            "መኸር ደረቅ ነው (Target expression (Amharic))",
-            "አደይ አበባ አይፈካም (Target expression (Amharic))"
+            "በክረምት አበባ የለም) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)",
+            "መኸር ደረቅ ነው) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)",
+            "አደይ አበባ አይፈካም) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)"
           ],
           "answerIndex": 0,
           "explanation": "«በመኸር ወቅት አደይ አበባ ያብባል» የመኸር ወቅትን ውበትና የአደይ አበባን መፈካት በትክክል ያሳያል።"
@@ -6984,9 +6984,9 @@
           "prompt": "የኢትዮጵያን አራቱን ወቅቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "በጋ፣ ክረምት፣ መኸር እና ፀደይ (በልግ)። (የመጀመሪያው አማራጭ አራቱን የኢትዮጵያ ወቅቶች በሙሉ ይዟል።) (የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian Seasons))",
-            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ። (Target expression (Amharic))",
-            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር። (Target expression (Amharic))",
-            "በኢትዮጵያ ወቅቶች የሉም። (Target expression (Amharic))"
+            "ዳቦ፣ እንጀራ፣ ወጥ እና ጠጅ።) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)",
+            "ላሊበላ፣ ጎንደር፣ አክሱም እና ሐረር።) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)",
+            "በኢትዮጵያ ወቅቶች የሉም።) (Context: የኢትዮጵያ አራቱ ወቅቶች (The Four Ethiopian)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን የኢትዮጵያ ወቅቶች በሙሉ ይዟል።"
@@ -7043,9 +7043,9 @@
           "prompt": "«Today the weather is sunny and warm» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
             "ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው። (Today the weather is sunny and warm - Accurate weather description)",
-            "ዛሬ ዝናብ በረዶ ነው (Target expression (Amharic))",
-            "ዛሬ ጨለማ ነው (Target expression (Amharic))",
-            "አየር የለም (Target expression (Amharic))"
+            "ዛሬ ዝናብ በረዶ ነው) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)",
+            "ዛሬ ጨለማ ነው) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)",
+            "አየር የለም) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)"
           ],
           "answerIndex": 0,
           "explanation": "«ዛሬ አየሩ ፀሐያማና ሞቃታማ ነው» የፀሐይንና የሙቀትን ሁኔታ በትክክል ያሳያል።"
@@ -7058,9 +7058,9 @@
           "prompt": "'Wear a jacket because it is cold' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስለሚበርድ ጃኬት ልበስ። (Wear a jacket because it is cold - Accurate practical weather advice)",
-            "ስለሚሞቅ ጃኬት አውልቅ (Target expression (Amharic))",
-            "ብርድ የለም (Target expression (Amharic))",
-            "ጃኬት አያስፈልግም (Target expression (Amharic))"
+            "ስለሚሞቅ ጃኬት አውልቅ) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)",
+            "ብርድ የለም) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)",
+            "ጃኬት አያስፈልግም) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)"
           ],
           "answerIndex": 0,
           "explanation": "«ስለሚበርድ ጃኬት ልበስ» ቅዝቃዜንና ተገቢ ልብስ መልበስን በትክክል ያዛምዳል።"
@@ -7074,9 +7074,9 @@
           "prompt": "የአየር ሁኔታ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ፀሐያማ፣ ዝናባማ፣ ደመናማ፣ ንፋሻማ፣ ጭጋጋማ፣ ብርድ እና ሙቀት። (የመጀመሪያው አማራጭ ዋና ዋና የአየር ሁኔታ ገላጭ ቃላትን በሙሉ ይዟል።) (የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily Weather Expressions))",
-            "እርሳስ፣ እስክሪብቶ እና ወረቀት። (Target expression (Amharic))",
-            "ስኒ፣ ብርጭቆ እና ማንኪያ። (Target expression (Amharic))",
-            "በአማርኛ የአየር ሁኔታ ቃላት የሉም። (Target expression (Amharic))"
+            "እርሳስ፣ እስክሪብቶ እና ወረቀት።) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)",
+            "ስኒ፣ ብርጭቆ እና ማንኪያ።) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)",
+            "በአማርኛ የአየር ሁኔታ ቃላት የሉም።) (Context: የዕለት ተዕለት የአየር ሁኔታ መግለጫዎች (Daily We)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአየር ሁኔታ ገላጭ ቃላትን በሙሉ ይዟል።"
@@ -7133,9 +7133,9 @@
           "prompt": "«Mountain, river, and waterfall» የሚለውን በአማርኛ ትክክለኛ የመልክዓ ምድር ስሞች የያዘው የትኛው ነው?",
           "options": [
             "ተራራ፣ ወንዝ እና ፏፏቴ (Mountain, river, and waterfall - Correct geographical terms)",
-            "ወንበር፣ ጠረጴዛ እና በር (Target expression (Amharic))",
-            "መኪና፣ ባቡር እና ታክሲ (Target expression (Amharic))",
-            "ዳቦ፣ ወተት እና ሻይ (Target expression (Amharic))"
+            "ወንበር፣ ጠረጴዛ እና በር) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)",
+            "መኪና፣ ባቡር እና ታክሲ) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)",
+            "ዳቦ፣ ወተት እና ሻይ) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)"
           ],
           "answerIndex": 0,
           "explanation": "«ተራራ»፣ «ወንዝ» እና «ፏፏቴ» ሦስቱን ቁልፍ የተፈጥሮ መልክዓ ምድር ገጽታዎች ያመለክታሉ።"
@@ -7148,9 +7148,9 @@
           "prompt": "'Tis Abay is a famous waterfall' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጢስ ዓባይ ታዋቂ ፏፏቴ ነው። (Tis Abay is a famous waterfall - Accurate geographical fact)",
-            "ጢስ ዓባይ ተራራ ነው (Target expression (Amharic))",
-            "ጢስ ዓባይ ደረቅ መሬት ነው (Target expression (Amharic))",
-            "ፏፏቴ የለም (Target expression (Amharic))"
+            "ጢስ ዓባይ ተራራ ነው) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)",
+            "ጢስ ዓባይ ደረቅ መሬት ነው) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)",
+            "ፏፏቴ የለም) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)"
           ],
           "answerIndex": 0,
           "explanation": "«ጢስ ዓባይ ታዋቂ ፏፏቴ ነው» የጢስ ዓባይን የተፈጥሮ ምንነት በትክክል ያሳያል።"
@@ -7164,9 +7164,9 @@
           "prompt": "የመልክዓ ምድር ገጽታዎችንና የውሃ አካላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ተራራ፣ ስምጥ ሸለቆ፣ ሜዳ፣ ወንዝ፣ ሐይቅ፣ ፏፏቴ እና ዋሻ። (የመጀመሪያው አማራጭ ዋና ዋና የመልክዓ ምድርና የውሃ አካላትን በሙሉ ይዟል።) (የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landforms & Water Bodies))",
-            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ። (Target expression (Amharic))",
-            "ብርቱካን፣ ሙዝ እና አፕል ብቻ። (Target expression (Amharic))",
-            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Target expression (Amharic))"
+            "ቤት፣ በር፣ ግድግዳ እና ጣሪያ።) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)",
+            "ብርቱካን፣ ሙዝ እና አፕል ብቻ።) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም።) (Context: የመልክዓ ምድር ገጽታዎች እና የውሃ አካላት (Landfo)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመልክዓ ምድርና የውሃ አካላትን በሙሉ ይዟል።"
@@ -7223,9 +7223,9 @@
           "prompt": "«Planting tree seedlings and protecting forests» የሚለውን በአማርኛ ትክክለኛ የአካባቢ ጥበቃ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "ችግኝ መትከል እና ደን መጠበቅ (Planting seedlings and protecting forests - Correct environmental actions)",
-            "ዛፍ መቁረጥ (Target expression (Amharic))",
-            "ቆሻሻ መጣል (Target expression (Amharic))",
-            "ውሃ ማባከን (Target expression (Amharic))"
+            "ዛፍ መቁረጥ) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)",
+            "ቆሻሻ መጣል) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)",
+            "ውሃ ማባከን) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)"
           ],
           "answerIndex": 0,
           "explanation": "«ችግኝ መትከል እና ደን መጠበቅ» ሁለቱን ቁልፍ የተፈጥሮ ጥበቃ ተግባራት ያመለክታሉ።"
@@ -7238,9 +7238,9 @@
           "prompt": "'We must protect our environment' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አካባቢያችንን መጠበቅ አለብን። (We must protect our environment - Accurate conservation sentence)",
-            "አካባቢን ማጥፋት አለብን (Target expression (Amharic))",
-            "ምንም ማድረግ አያስፈልግም (Target expression (Amharic))",
-            "ተፈጥሮ አያስፈልግም (Target expression (Amharic))"
+            "አካባቢን ማጥፋት አለብን) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)",
+            "ምንም ማድረግ አያስፈልግም) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)",
+            "ተፈጥሮ አያስፈልግም) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)"
           ],
           "answerIndex": 0,
           "explanation": "«አካባቢያችንን መጠበቅ አለብን» የአካባቢ ጥበቃ ግዴታን በትክክል ያሳያል።"
@@ -7254,9 +7254,9 @@
           "prompt": "የአካባቢ ጥበቃና የችግኝ ተከላ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የችግኝ ተከላ፣ አረንጓዴ አሻራ፣ የደን ጥበቃ፣ የአፈር እንክብካቤ እና የተፈጥሮ ሀብት። (የመጀመሪያው አማራጭ ዋና ዋና የአካባቢ ጥበቃ ቃላትን በሙሉ ይዟል።) (የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environmental Care & Green Legacy))",
-            "ጠመንጃ፣ ጥይት እና ጦር። (Target expression (Amharic))",
-            "ስልክ፣ ቻርጀር እና ባትሪ። (Target expression (Amharic))",
-            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም። (Target expression (Amharic))"
+            "ጠመንጃ፣ ጥይት እና ጦር።) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)",
+            "ስልክ፣ ቻርጀር እና ባትሪ።) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)",
+            "በአማርኛ የአካባቢ ጥበቃ ቃላት የሉም።) (Context: የተፈጥሮ አካባቢ ጥበቃ እና ዛፍ መትከል (Environm)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአካባቢ ጥበቃ ቃላትን በሙሉ ይዟል።"
@@ -7313,9 +7313,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአየር ንብረትና የተፈጥሮ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
             "አራቱ ወቅቶች፣ ውብ የመልክዓ ምድር ገጽታዎች እና የተፈጥሮ አካባቢ ጥበቃ ተስማምተው ይገኛሉ። (Complete climate and environmental synthesis)",
-            "ምንም ወቅት የለም (Target expression (Amharic))",
-            "ዝናብ አይዘንብም (Target expression (Amharic))",
-            "ተራራና ወንዝ የለም (Target expression (Amharic))"
+            "ምንም ወቅት የለም) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )",
+            "ዝናብ አይዘንብም) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )",
+            "ተራራና ወንዝ የለም) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ወቅቶችን፣ መልክዓ ምድርንና የአካባቢ ጥበቃን በአንድነት ያጠቃልላል።"
@@ -7328,9 +7328,9 @@
           "prompt": "የችግኝ ተከላንና የተፈጥሮ ውበትን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ችግኞችን በመትከል አካባቢያችንን አረንጓዴ እና ውብ እናደርጋለን። (By planting seedlings we make our surroundings green and beautiful - Integrated ecology sentence)",
-            "ዛፎች አይጠቅሙም (Target expression (Amharic))",
-            "ተፈጥሮ አያስፈልግም (Target expression (Amharic))",
-            "ውሃ የለም (Target expression (Amharic))"
+            "ዛፎች አይጠቅሙም) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )",
+            "ተፈጥሮ አያስፈልግም) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )",
+            "ውሃ የለም) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የችግኝ ተከላንና የተፈጥሮ ውበትን ማሳደግን በትክክል ያዛምዳል።"
@@ -7344,9 +7344,9 @@
           "prompt": "የክፍል 15 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ አራቱ ወቅቶች (በጋ፣ ክረምት፣ መኸር፣ ፀደይ)፣ የዕለት ተዕለት የአየር ሁኔታ፣ የመልክዓ ምድር ገጽታዎችና የውሃ አካላት፣ እንዲሁም የተፈጥሮ አካባቢ ጥበቃና አረንጓዴ አሻራ ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 15ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand Synthesis & Environmental Geography Discourse))",
-            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የመልክዓ ምድር ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ቋንቋ ሰዋሰው ህጎች ብቻ ነው።) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )",
+            "በአማርኛ የመልክዓ ምድር ቃላት የሉም።) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )",
+            "ሁሉም ወቅቶች እኩል ዝናብ አላቸው።) (Context: የክፍል 15 አጠቃላይ ማጠቃለያ (Unit 15 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 15ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -7403,9 +7403,9 @@
           "prompt": "«Living room, bedroom, and kitchen» የሚለውን በአማርኛ ትክክለኛ የክፍል ስሞች የያዘው የትኛው ነው?",
           "options": [
             "ሳሎን፣ መኝታ ቤት እና ማብሰያ ቤት (Living room, bedroom, and kitchen - Correct house rooms)",
-            "መኪና፣ አውቶቡስ እና ባቡር (Target expression (Amharic))",
-            "እርሳስ፣ ደብተር እና መጽሐፍ (Target expression (Amharic))",
-            "ሱሪ፣ ሸሚዝ እና ኮት (Target expression (Amharic))"
+            "መኪና፣ አውቶቡስ እና ባቡር) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))",
+            "እርሳስ፣ ደብተር እና መጽሐፍ) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))",
+            "ሱሪ፣ ሸሚዝ እና ኮት) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))"
           ],
           "answerIndex": 0,
           "explanation": "«ሳሎን»፣ «መኝታ ቤት» እና «ማብሰያ ቤት» ሦስቱን ዋና ዋና የቤት ክፍሎችን ያመለክታሉ።"
@@ -7418,9 +7418,9 @@
           "prompt": "'Food is prepared in the kitchen' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል። (Food is prepared in the kitchen - Accurate household location)",
-            "ምግብ በመኝታ ቤት ይዘጋጃል (Target expression (Amharic))",
-            "ምግብ በመታጠቢያ ቤት ይበስላል (Target expression (Amharic))",
-            "ወጥ ቤት የለም (Target expression (Amharic))"
+            "ምግብ በመኝታ ቤት ይዘጋጃል) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))",
+            "ምግብ በመታጠቢያ ቤት ይበስላል) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))",
+            "ወጥ ቤት የለም) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))"
           ],
           "answerIndex": 0,
           "explanation": "«ምግብ በማብሰያ ቤት ውስጥ ይዘጋጃል» የምግብ ማብሰል ተግባር የሚከናወንበትን ክፍል በትክክል ያሳያል።"
@@ -7434,9 +7434,9 @@
           "prompt": "የቤት ውስጥ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት፣ መታጠቢያ ቤት፣ በረንዳ እና ጓሮ። (የመጀመሪያው አማራጭ ዋና ዋና የቤት ክፍሎችን በሙሉ ይዟል።) (የቤት ውስጥ ክፍሎች (Rooms of the House))",
-            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ። (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና ረቡዕ። (Target expression (Amharic))",
-            "በአማርኛ የቤት ክፍሎች ስም የላቸውም። (Target expression (Amharic))"
+            "ቡና፣ ሻይ፣ ወተት እና ጭማቂ።) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))",
+            "ሰኞ፣ ማክሰኞ እና ረቡዕ።) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))",
+            "በአማርኛ የቤት ክፍሎች ስም የላቸውም።) (Context: የቤት ውስጥ ክፍሎች (Rooms of the House))"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት ክፍሎችን በሙሉ ይዟል።"
@@ -7493,9 +7493,9 @@
           "prompt": "«Sofa, bed, table, and wardrobe» የሚለውን በአማርኛ ትክክለኛ የቤት እቃዎች ስሞች የያዘው የትኛው ነው?",
           "options": [
             "ሶፋ፣ አልጋ፣ ጠረጴዛ እና ቁም ሣጥን (Sofa, bed, table, and wardrobe - Correct furniture items)",
-            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ (Target expression (Amharic))",
-            "ሹካ፣ ማንኪያ እና ቢላዋ (Target expression (Amharic))",
-            "ሸሚዝ፣ ሱሪ እና ጫማ (Target expression (Amharic))"
+            "ስልክ፣ ቴሌቪዥን እና ሬዲዮ) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)",
+            "ሹካ፣ ማንኪያ እና ቢላዋ) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)",
+            "ሸሚዝ፣ ሱሪ እና ጫማ) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)"
           ],
           "answerIndex": 0,
           "explanation": "«ሶፋ»፣ «አልጋ»፣ «ጠረጴዛ» እና «ቁም ሣጥን» ዋና ዋና የቤት ውስጥ እቃዎችን ያመለክታሉ።"
@@ -7508,9 +7508,9 @@
           "prompt": "'A large wardrobe is in the bedroom' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ። (A large wardrobe is in the bedroom - Accurate furniture statement)",
-            "ቁም ሣጥን በመንገድ ላይ አለ (Target expression (Amharic))",
-            "ምንም እቃ የለም (Target expression (Amharic))",
-            "አልጋ የለም (Target expression (Amharic))"
+            "ቁም ሣጥን በመንገድ ላይ አለ) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)",
+            "ምንም እቃ የለም) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)",
+            "አልጋ የለም) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)"
           ],
           "answerIndex": 0,
           "explanation": "«በመኝታ ክፍሉ ውስጥ ትልቅ ቁም ሣጥን አለ» የቁም ሣጥኑን መገኛና መጠን በትክክል ያሳያል።"
@@ -7524,9 +7524,9 @@
           "prompt": "የቤት እቃዎችንና ቁሳቁሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሶፋ፣ አልጋ፣ ጠረጴዛ፣ ወንበር፣ ቁም ሣጥን፣ ፍሪጅ፣ ምድጃ እና ምንጣፍ። (የመጀመሪያው አማራጭ ዋና ዋና የቤት እቃዎችን በሙሉ ይዟል።) (የቤት እቃዎች እና ቁሳቁሶች (Furniture & Household Items))",
-            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር። (Target expression (Amharic))",
-            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ። (Target expression (Amharic))",
-            "በአማርኛ የቤት እቃዎች ቃላት የሉም። (Target expression (Amharic))"
+            "አውሮፕላን፣ መርከብ እና ሄሊኮፕተር።) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)",
+            "ድንጋይ፣ አሸዋ እና ሲሚንቶ ብቻ።) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)",
+            "በአማርኛ የቤት እቃዎች ቃላት የሉም።) (Context: የቤት እቃዎች እና ቁሳቁሶች (Furniture & Hous)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቤት እቃዎችን በሙሉ ይዟል።"
@@ -7583,9 +7583,9 @@
           "prompt": "«Signing a house rental contract» የሚለውን በአማርኛ ትክክለኛ የኪራይ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "የቤት ኪራይ ውል መፈረም (Signing a house rental contract - Correct legal leasing action)",
-            "ቤት መስበር (Target expression (Amharic))",
-            "ውል መቅደድ (Target expression (Amharic))",
-            "ኪራይ አለመክፈል (Target expression (Amharic))"
+            "ቤት መስበር) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )",
+            "ውል መቅደድ) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )",
+            "ኪራይ አለመክፈል) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )"
           ],
           "answerIndex": 0,
           "explanation": "«የቤት ኪራይ ውል መፈረም» ህጋዊውን የስምምነት ድርጊት በትክክል ያሳያል።"
@@ -7598,9 +7598,9 @@
           "prompt": "'I paid the deposit to the landlord' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ለአከራዩ የቅድመ ክፍያ ከፈልኩ። (I paid the deposit to the landlord - Accurate rental payment)",
-            "አከራይ አልከፈልኩም (Target expression (Amharic))",
-            "ምንም ቤት አልተከራየሁም (Target expression (Amharic))",
-            "ቅድመ ክፍያ የለም (Target expression (Amharic))"
+            "አከራይ አልከፈልኩም) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )",
+            "ምንም ቤት አልተከራየሁም) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )",
+            "ቅድመ ክፍያ የለም) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )"
           ],
           "answerIndex": 0,
           "explanation": "«ለአከራዩ የቅድመ ክፍያ ከፈልኩ» ክፍያውንና ተቀባዩን በትክክል ያዛምዳል።"
@@ -7614,9 +7614,9 @@
           "prompt": "የቤት ኪራይና ውል ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የቤት ኪራይ፣ አከራይ፣ ተከራይ፣ ደላላ፣ ህጋዊ ውል እና ቅድመ ክፍያ። (የመጀመሪያው አማራጭ ዋና ዋና የኪራይና ውል ቃላትን በሙሉ ይዟል።) (የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying & Lease Agreements))",
-            "ስኒ፣ ድስት እና ጭልፋ። (Target expression (Amharic))",
-            "ኮት፣ ከረባት እና ጓንት። (Target expression (Amharic))",
-            "በአማርኛ የኪራይ ቃላት የሉም። (Target expression (Amharic))"
+            "ስኒ፣ ድስት እና ጭልፋ።) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )",
+            "ኮት፣ ከረባት እና ጓንት።) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )",
+            "በአማርኛ የኪራይ ቃላት የሉም።) (Context: የቤት ኪራይ፣ ግዢ እና ውል (Renting, Buying )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኪራይና ውል ቃላትን በሙሉ ይዟል።"
@@ -7673,9 +7673,9 @@
           "prompt": "«The book is on the table» የሚለውን በአማርኛ ትክክለኛ የቦታ መስተዋድድ የተጠቀመው የትኛው ነው?",
           "options": [
             "መጽሐፉ በጠረጴዛው ላይ አለ። (The book is on the table - Correct spatial preposition)",
-            "መጽሐፉ ጠረጴዛ ነው (Target expression (Amharic))",
-            "መጽሐፉ ጠረጴዛ የለውም (Target expression (Amharic))",
-            "መጽሐፍ የለም (Target expression (Amharic))"
+            "መጽሐፉ ጠረጴዛ ነው) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)",
+            "መጽሐፉ ጠረጴዛ የለውም) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)",
+            "መጽሐፍ የለም) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)"
           ],
           "answerIndex": 0,
           "explanation": "«በጠረጴዛው ላይ» የሚለው ድርብ መስተዋድድ የቦታ መገኛን በትክክል ያሳያል።"
@@ -7688,9 +7688,9 @@
           "prompt": "'The shoes are under the bed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጫማዎቹ ከአልጋው ሥር ናቸው። (The shoes are under the bed - Accurate spatial location)",
-            "ጫማዎቹ አልጋ ላይ ናቸው (Target expression (Amharic))",
-            "ጫማ አልጋ ነው (Target expression (Amharic))",
-            "ጫማ የለም (Target expression (Amharic))"
+            "ጫማዎቹ አልጋ ላይ ናቸው) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)",
+            "ጫማ አልጋ ነው) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)",
+            "ጫማ የለም) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)"
           ],
           "answerIndex": 0,
           "explanation": "«ከአልጋው ሥር ናቸው» ከአልጋ በታች መሆናቸውን በትክክል ያመለክታል።"
@@ -7704,9 +7704,9 @@
           "prompt": "የቦታ መገኛ መስተዋድዶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ላይ፣ ሥር፣ ውስጥ፣ ውጭ፣ ፊት ለፊት፣ ጀርባ፣ አጠገብ እና መካከል ናቸው። (የመጀመሪያው አማራጭ ዋና ዋና የቦታ መገኛ መስተዋድዶችን በሙሉ ይዟል።) (የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatial Relations & Prepositions))",
-            "ትናንት፣ ዛሬ እና ነገ። (Target expression (Amharic))",
-            "ቀይ፣ ቢጫ እና አረንጓዴ። (Target expression (Amharic))",
-            "በአማርኛ የቦታ መስተዋድዶች የሉም። (Target expression (Amharic))"
+            "ትናንት፣ ዛሬ እና ነገ።) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)",
+            "ቀይ፣ ቢጫ እና አረንጓዴ።) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)",
+            "በአማርኛ የቦታ መስተዋድዶች የሉም።) (Context: የቦታ መገኛና አንጻራዊ አቀማመጥ መግለጫዎች (Spatia)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታ መገኛ መስተዋድዶችን በሙሉ ይዟል።"
@@ -7763,9 +7763,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የመኖሪያ ቤት አደረጃጀትና የኪራይ ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
             "ቤት ተከራየን፣ ውል ፈረምን፣ እንዲሁም የቤት እቃዎችን በየክፍሉ ውስጥ አደራጀን። (Complete housing, lease, and arrangement synthesis)",
-            "ቤት የለንም (Target expression (Amharic))",
-            "ምንም እቃ አልገዛንም (Target expression (Amharic))",
-            "ውል አልፈረምንም (Target expression (Amharic))"
+            "ቤት የለንም) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )",
+            "ምንም እቃ አልገዛንም) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )",
+            "ውል አልፈረምንም) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ መከራየትን፣ ውል መፈረምንና እቃዎችን ማደራጀትን በአንድነት ያጠቃልላል።"
@@ -7778,9 +7778,9 @@
           "prompt": "የቤት እቃዎችንና የቦታ መገኛ መስተዋድዶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ሶፋው በሳሎኑ ውስጥ በጠረጴዛው ፊት ለፊት ተቀምጧል። (The sofa is placed in the living room in front of the table - Integrated spatial furniture sentence)",
-            "ሶፋ የለም (Target expression (Amharic))",
-            "ጠረጴዛው ተሰብሯል (Target expression (Amharic))",
-            "ምንም ክፍል የለም (Target expression (Amharic))"
+            "ሶፋ የለም) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )",
+            "ጠረጴዛው ተሰብሯል) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )",
+            "ምንም ክፍል የለም) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የቤት እቃውን (ሶፋ)፣ ክፍሉን (ሳሎን) እና የቦታ መገኛውን (ፊት ለፊት) በትክክል ያዛምዳል።"
@@ -7794,9 +7794,9 @@
           "prompt": "የክፍል 16 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የቤት ውስጥ ክፍሎች (ሳሎን፣ መኝታ ቤት፣ ማብሰያ ቤት)፣ የቤት እቃዎችና ቁሳቁሶች፣ የቤት ኪራይና ህጋዊ ውል፣ እንዲሁም የቦታ መገኛ መስተዋድዶች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 16ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand Synthesis & Housing Discourse))",
-            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የቤት ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ትራንስፖርት ብቻ ነው።) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )",
+            "በአማርኛ የቤት ቃላት የሉም።) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )",
+            "ሁሉም ክፍሎች አንድ ዓይነት ናቸው።) (Context: የክፍል 16 አጠቃላይ ማጠቃለያ (Unit 16 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 16ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -7854,9 +7854,9 @@
           "prompt": "«In my opinion, this plan is good» የሚለውን በአማርኛ ትክክለኛ የአስተያየት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "በእኔ አስተያየት ይህ ዕቅድ ጥሩ ነው። (In my opinion, this plan is good - Correct opinion starter)",
-            "ዕቅዱ መጥፎ ነው (Target expression (Amharic))",
-            "ምንም ዕቅድ የለም (Target expression (Amharic))",
-            "አስተያየት የለኝም (Target expression (Amharic))"
+            "ዕቅዱ መጥፎ ነው) (Context: የግል አስተያየትን መግለጽ (Expressing Person)",
+            "ምንም ዕቅድ የለም) (Context: የግል አስተያየትን መግለጽ (Expressing Person)",
+            "አስተያየት የለኝም) (Context: የግል አስተያየትን መግለጽ (Expressing Person)"
           ],
           "answerIndex": 0,
           "explanation": "«በእኔ አስተያየት» የሚለው ሀረግ የግል አስተያየትን በትህትናና በግልጽ ለመግለጽ ያገለግላል።"
@@ -7869,9 +7869,9 @@
           "prompt": "'I believe we can achieve success' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስኬታማ መሆን እንደምንችል አምናለሁ። (I believe we can achieve success - Accurate belief statement)",
-            "ስኬት አይቻልም (Target expression (Amharic))",
-            "አላምንም (Target expression (Amharic))",
-            "ምንም ስኬት የለም (Target expression (Amharic))"
+            "ስኬት አይቻልም) (Context: የግል አስተያየትን መግለጽ (Expressing Person)",
+            "አላምንም) (Context: የግል አስተያየትን መግለጽ (Expressing Person)",
+            "ምንም ስኬት የለም) (Context: የግል አስተያየትን መግለጽ (Expressing Person)"
           ],
           "answerIndex": 0,
           "explanation": "«አምናለሁ» የሚለው ቃል በጽኑ እምነት ላይ የተመሰረተ የግል አቋምን በትክክል ያሳያል።"
@@ -7885,9 +7885,9 @@
           "prompt": "የግል አስተያየት መግለጫ ሀረጎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ እና ይሰማኛል። (የመጀመሪያው አማራጭ ዋና ዋና የአስተያየት መግለጫ ሀረጎችን በሙሉ ይዟል።) (የግል አስተያየትን መግለጽ (Expressing Personal Opinions))",
-            "ሹካ፣ ማንኪያ እና ሳህን። (Target expression (Amharic))",
-            "አንድ፣ ሁለት እና ሦስት። (Target expression (Amharic))",
-            "በአማርኛ የአስተያየት ቃላት የሉም። (Target expression (Amharic))"
+            "ሹካ፣ ማንኪያ እና ሳህን።) (Context: የግል አስተያየትን መግለጽ (Expressing Person)",
+            "አንድ፣ ሁለት እና ሦስት።) (Context: የግል አስተያየትን መግለጽ (Expressing Person)",
+            "በአማርኛ የአስተያየት ቃላት የሉም።) (Context: የግል አስተያየትን መግለጽ (Expressing Person)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአስተያየት መግለጫ ሀረጎችን በሙሉ ይዟል።"
@@ -7944,9 +7944,9 @@
           "prompt": "«Plane is faster than car» የሚለውን በአማርኛ ትክክለኛ የንጽጽር መዋቅር የተጠቀመው የትኛው ነው?",
           "options": [
             "አውሮፕላን ከመኪና ይፈጥናል። (Plane is faster than car - Correct comparative sentence)",
-            "አውሮፕላንና መኪና አንድ ናቸው (Target expression (Amharic))",
-            "መኪና ከአውሮፕላን ይበልጣል (Target expression (Amharic))",
-            "ምንም መኪና የለም (Target expression (Amharic))"
+            "አውሮፕላንና መኪና አንድ ናቸው) (Context: የንጽጽር ደረጃዎች (Comparative Degree))",
+            "መኪና ከአውሮፕላን ይበልጣል) (Context: የንጽጽር ደረጃዎች (Comparative Degree))",
+            "ምንም መኪና የለም) (Context: የንጽጽር ደረጃዎች (Comparative Degree))"
           ],
           "answerIndex": 0,
           "explanation": "«አውሮፕላን ከመኪና ይፈጥናል/ይበልጣል» የንጽጽር ቅንጣቢ «ከ...» በመጠቀም ፍጥነትን በትክክል ያወዳድራል።"
@@ -7959,9 +7959,9 @@
           "prompt": "'Health is better than wealth' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጤና ከሀብት ይሻላል። (Health is better than wealth - Accurate classic comparison)",
-            "ሀብት ከጤና ይሻላል (Target expression (Amharic))",
-            "ጤና እና ሀብት አንድ ናቸው (Target expression (Amharic))",
-            "ጤና አያስፈልግም (Target expression (Amharic))"
+            "ሀብት ከጤና ይሻላል) (Context: የንጽጽር ደረጃዎች (Comparative Degree))",
+            "ጤና እና ሀብት አንድ ናቸው) (Context: የንጽጽር ደረጃዎች (Comparative Degree))",
+            "ጤና አያስፈልግም) (Context: የንጽጽር ደረጃዎች (Comparative Degree))"
           ],
           "answerIndex": 0,
           "explanation": "«ጤና ከሀብት ይሻላል» አንደኛው ከሌላው እንደሚበልጥ በትክክል ያወዳድራል።"
@@ -7975,9 +7975,9 @@
           "prompt": "የንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል እና ከ... ያንሳል። (የመጀመሪያው አማራጭ ዋና ዋና የንጽጽር ግሶችን በሙሉ ይዟል።) (የንጽጽር ደረጃዎች (Comparative Degree))",
-            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ። (Target expression (Amharic))",
-            "ሰማያዊ፣ አረንጓዴ እና ጥቁር። (Target expression (Amharic))",
-            "በአማርኛ ንጽጽር ማድረግ አይቻልም። (Target expression (Amharic))"
+            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ።) (Context: የንጽጽር ደረጃዎች (Comparative Degree))",
+            "ሰማያዊ፣ አረንጓዴ እና ጥቁር።) (Context: የንጽጽር ደረጃዎች (Comparative Degree))",
+            "በአማርኛ ንጽጽር ማድረግ አይቻልም።) (Context: የንጽጽር ደረጃዎች (Comparative Degree))"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የንጽጽር ግሶችን በሙሉ ይዟል።"
@@ -8034,9 +8034,9 @@
           "prompt": "«Above all, education is important» የሚለውን በአማርኛ ትክክለኛ የላቀ ንጽጽር አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "ከሁሉም በላይ ትምህርት አስፈላጊ ነው። (Above all, education is important - Correct superlative emphasis)",
-            "ትምህርት አያስፈልግም (Target expression (Amharic))",
-            "ትምህርት ትንሽ ነው (Target expression (Amharic))",
-            "ምንም ትምህርት የለም (Target expression (Amharic))"
+            "ትምህርት አያስፈልግም) (Context: የላቀ ንጽጽር (Superlative Degree))",
+            "ትምህርት ትንሽ ነው) (Context: የላቀ ንጽጽር (Superlative Degree))",
+            "ምንም ትምህርት የለም) (Context: የላቀ ንጽጽር (Superlative Degree))"
           ],
           "answerIndex": 0,
           "explanation": "«ከሁሉም በላይ» የሚለው አገላለጽ ከማናቸውም ነገሮች ቀዳሚ መሆኑን ያመለክታል።"
@@ -8049,9 +8049,9 @@
           "prompt": "'Ras Dashen is the tallest of all' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ራስ ዳሸን ከሁሉ ረጅሙ ተራራ ነው። (Ras Dashen is the tallest mountain of all - Accurate superlative description)",
-            "ራስ ዳሸን አጭር ነው (Target expression (Amharic))",
-            "ራስ ዳሸን ተራራ አይደለም (Target expression (Amharic))",
-            "ምንም ተራራ የለም (Target expression (Amharic))"
+            "ራስ ዳሸን አጭር ነው) (Context: የላቀ ንጽጽር (Superlative Degree))",
+            "ራስ ዳሸን ተራራ አይደለም) (Context: የላቀ ንጽጽር (Superlative Degree))",
+            "ምንም ተራራ የለም) (Context: የላቀ ንጽጽር (Superlative Degree))"
           ],
           "answerIndex": 0,
           "explanation": "«ከሁሉ ረጅሙ ተራራ ነው» የላቀውን ከፍታ በትክክል ያረጋግጣል።"
@@ -8065,9 +8065,9 @@
           "prompt": "የላቀ ንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ እና እጅግ በጣም። (የመጀመሪያው አማራጭ ዋና ዋና የላቀ ንጽጽር አገላለጾችን በሙሉ ይዟል።) (የላቀ ንጽጽር (Superlative Degree))",
-            "ዳቦ፣ ወጥ እና እንጀራ። (Target expression (Amharic))",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Target expression (Amharic))",
-            "በአማርኛ የላቀ ንጽጽር የለም። (Target expression (Amharic))"
+            "ዳቦ፣ ወጥ እና እንጀራ።) (Context: የላቀ ንጽጽር (Superlative Degree))",
+            "ጠዋት፣ ከሰዓት እና ማታ።) (Context: የላቀ ንጽጽር (Superlative Degree))",
+            "በአማርኛ የላቀ ንጽጽር የለም።) (Context: የላቀ ንጽጽር (Superlative Degree))"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የላቀ ንጽጽር አገላለጾችን በሙሉ ይዟል።"
@@ -8124,9 +8124,9 @@
           "prompt": "«I completely agree with you» የሚለውን በአማርኛ ትክክለኛ የስምምነት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
             "ከአንተ ጋር ሙሉ በሙሉ እስማማለሁ። (I completely agree with you - Correct agreement phrase)",
-            "አልስማማም (Target expression (Amharic))",
-            "ሀሳብህ ስህተት ነው (Target expression (Amharic))",
-            "ምንም አልገባኝም (Target expression (Amharic))"
+            "አልስማማም) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )",
+            "ሀሳብህ ስህተት ነው) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )",
+            "ምንም አልገባኝም) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )"
           ],
           "answerIndex": 0,
           "explanation": "«ሙሉ በሙሉ እስማማለሁ» ጠንካራና ግልጽ ስምምነትን ያመለክታል።"
@@ -8139,9 +8139,9 @@
           "prompt": "'I disagree with this opinion' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በዚህ አስተያየት ላይ አልስማማም። (I disagree with this opinion - Accurate polite disagreement)",
-            "ሙሉ በሙሉ እስማማለሁ (Target expression (Amharic))",
-            "ትክክል ነህ (Target expression (Amharic))",
-            "ምንም አስተያየት የለም (Target expression (Amharic))"
+            "ሙሉ በሙሉ እስማማለሁ) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )",
+            "ትክክል ነህ) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )",
+            "ምንም አስተያየት የለም) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )"
           ],
           "answerIndex": 0,
           "explanation": "«በዚህ አስተያየት ላይ አልስማማም» አለመስማማትን በግልጽ ያሳያል።"
@@ -8155,9 +8155,9 @@
           "prompt": "ስምምነትንና አለመስማማትን መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ እና የተሳሳተ ነው። (የመጀመሪያው አማራጭ ዋና ዋና የስምምነትና የአለመስማማት አገላለጾችን በሙሉ ይዟል።) (ስምምነት እና አለመስማማትን መግለጽ (Expressing Agreement & Disagreement))",
-            "ወንበር፣ ጠረጴዛ እና አልጋ። (Target expression (Amharic))",
-            "ቀን፣ ማታ እና ሌሊት። (Target expression (Amharic))",
-            "በአማርኛ ስምምነት መግለጽ አይቻልም። (Target expression (Amharic))"
+            "ወንበር፣ ጠረጴዛ እና አልጋ።) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )",
+            "ቀን፣ ማታ እና ሌሊት።) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )",
+            "በአማርኛ ስምምነት መግለጽ አይቻልም።) (Context: ስምምነት እና አለመስማማትን መግለጽ (Expressing )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስምምነትና የአለመስማማት አገላለጾችን በሙሉ ይዟል።"
@@ -8214,9 +8214,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአስተያየትና የንጽጽር ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
             "በእኔ አስተያየት ይህ አማራጭ ከሁሉም የተሻለ ነው፤ ሙሉ በሙሉ እስማማለሁ። (Complete opinion, comparison, and agreement synthesis)",
-            "ምንም አስተያየት የለም (Target expression (Amharic))",
-            "አልስማማም (Target expression (Amharic))",
-            "ንጽጽር የለም (Target expression (Amharic))"
+            "ምንም አስተያየት የለም) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )",
+            "አልስማማም) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )",
+            "ንጽጽር የለም) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የግል አስተያየትን፣ የላቀ ንጽጽርንና ስምምነትን በአንድነት ያጠቃልላል።"
@@ -8229,9 +8229,9 @@
           "prompt": "ምክንያታዊ ክርክርንና ንጽጽርን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "መረጃ በማቅረብ ሀሳባችንን እናወዳድራለን እንዲሁም በክብር እንወያያለን። (By presenting evidence we compare our ideas and discuss with respect - Integrated debate sentence)",
-            "መወያየት አንፈልግም (Target expression (Amharic))",
-            "መረጃ የለም (Target expression (Amharic))",
-            "ሀሳብ የለም (Target expression (Amharic))"
+            "መወያየት አንፈልግም) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )",
+            "መረጃ የለም) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )",
+            "ሀሳብ የለም) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ መረጃ ማቅረብን፣ ማወዳደርንና በአክብሮት መወያየትን በትክክል ያዛምዳል።"
@@ -8245,9 +8245,9 @@
           "prompt": "የክፍል 17 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የግል አስተያየት መግለጫዎች፣ የንጽጽር ደረጃዎች (ይሻላል/ይበልጣል)፣ የላቀ ንጽጽር (ከሁሉ/ከሁሉም በላይ)፣ እንዲሁም ስምምነትና አለመስማማት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 17ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand Synthesis & Comparative Debate Discourse))",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ የንጽጽር ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )",
+            "በአማርኛ የንጽጽር ቃላት የሉም።) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )",
+            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው።) (Context: የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 17ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -8304,9 +8304,9 @@
           "prompt": "ከሚከተሉት ውስጥ ተሻጋሪ ግስ (Transitive verb) የያዘው የትኛው ዓረፍተ ነገር ነው?",
           "options": [
             "ልጁ ኳሱን መታ። (The boy kicked the ball - Transitive verb with direct object marker -n)",
-            "ልጁ ተኛ (Target expression (Amharic))",
-            "ልጁ ሄደ (Target expression (Amharic))",
-            "ልጁ መጣ (Target expression (Amharic))"
+            "ልጁ ተኛ) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)",
+            "ልጁ ሄደ) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)",
+            "ልጁ መጣ) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)"
           ],
           "answerIndex": 0,
           "explanation": "«ልጁ ኳሱን መታ» በሚለው ውስጥ 'መታ' የሚለው ግስ 'ኳሱን' የሚል ቀጥተኛ ተሳቢ ስለሚወስድ ተሻጋሪ ግስ ነው።"
@@ -8319,9 +8319,9 @@
           "prompt": "ተሻጋሪ ያልሆነ (Intransitive verb) የያዘውን ዓረፍተ ነገር ይምረጡ:",
           "options": [
             "እንግዳው በሰላም ደረሰ። (The guest arrived safely - Intransitive verb without direct object)",
-            "እንግዳው ሻይ ጠጣ (Target expression (Amharic))",
-            "እንግዳው ደብዳቤ ጻፈ (Target expression (Amharic))",
-            "እንግዳው ዳቦ በላ (Target expression (Amharic))"
+            "እንግዳው ሻይ ጠጣ) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)",
+            "እንግዳው ደብዳቤ ጻፈ) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)",
+            "እንግዳው ዳቦ በላ) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)"
           ],
           "answerIndex": 0,
           "explanation": "«ደረሰ» የሚለው ግስ ድርጊቱ በባለቤቱ ላይ የሚቆም በመሆኑ ተሻጋሪ ያልሆነ (ኢ-ተሻጋሪ) ግስ ነው።"
@@ -8335,9 +8335,9 @@
           "prompt": "የተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶችን ልዩነት በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ተሻጋሪ ግሶች ቀጥተኛ ተሳቢ (-ን) ሲፈልጉ፣ ተሻጋሪ ያልሆኑ ግሶች ግን ተሳቢ አይፈልጉም። (የመጀመሪያው አማራጭ የተሻጋሪና ኢ-ተሻጋሪ ግሶችን መሰረታዊ ሰዋሰዋዊ ህግ በትክክል ያብራራል።) (ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive & Intransitive Verbs))",
-            "ሁሉም የአማርኛ ግሶች ተሻጋሪ ናቸው። (Target expression (Amharic))",
-            "ተሻጋሪ ግሶች ባለቤት የላቸውም። (Target expression (Amharic))",
-            "በአማርኛ የግስ ክፍሎች የሉም። (Target expression (Amharic))"
+            "ሁሉም የአማርኛ ግሶች ተሻጋሪ ናቸው።) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)",
+            "ተሻጋሪ ግሶች ባለቤት የላቸውም።) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)",
+            "በአማርኛ የግስ ክፍሎች የሉም።) (Context: ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive &)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተሻጋሪና ኢ-ተሻጋሪ ግሶችን መሰረታዊ ሰዋሰዋዊ ህግ በትክክል ያብራራል።"
@@ -8394,9 +8394,9 @@
           "prompt": "«The letter was written» የሚለውን በአማርኛ ትክክለኛ ተደራጊ ግስ የተጠቀመው የትኛው ነው?",
           "options": [
             "ደብዳቤው ተጻፈ። (The letter was written - Correct passive verb with ተ- prefix)",
-            "ደብዳቤው ጻፈ (Target expression (Amharic))",
-            "ደብዳቤው አስጻፈ (Target expression (Amharic))",
-            "ደብዳቤው ጠፋ (Target expression (Amharic))"
+            "ደብዳቤው ጻፈ) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)",
+            "ደብዳቤው አስጻፈ) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)",
+            "ደብዳቤው ጠፋ) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)"
           ],
           "answerIndex": 0,
           "explanation": "«ተጻፈ» የሚለው ግስ 'ጻፈ' ከሚለው ንቁ ግስ 'ተ-' ቅድመ-ቅጥያ በመጨመር የተመሰረተ ተደራጊ ግስ ነው።"
@@ -8409,9 +8409,9 @@
           "prompt": "'The door was opened' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በሩ ተከፈተ። (The door was opened - Accurate passive verb construction)",
-            "በሩ ከፈተ (Target expression (Amharic))",
-            "በሩ ዘጋ (Target expression (Amharic))",
-            "በሩ አስከፈተ (Target expression (Amharic))"
+            "በሩ ከፈተ) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)",
+            "በሩ ዘጋ) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)",
+            "በሩ አስከፈተ) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)"
           ],
           "answerIndex": 0,
           "explanation": "«በሩ ተከፈተ» ድርጊቱ በበሩ ላይ መፈጸሙን የሚያሳይ ተደራጊ ግስ ነው።"
@@ -8425,9 +8425,9 @@
           "prompt": "ተደራጊ ግሶችን (Passive verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ተጻፈ፣ ተነበበ፣ ተሰራ፣ ተዘጋጀ እና ተከፈተ። (የመጀመሪያው አማራጭ በ«ተ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና ተደራጊ ግሶችን ይዟል።) (ተደራጊ የግስ ክፍሎች (Passive Voice & Reflexive - Stem Prefix «ተ-»))",
-            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Target expression (Amharic))",
-            "ትልቅ፣ ትንሽ እና መካከለኛ። (Target expression (Amharic))",
-            "በአማርኛ ተደራጊ ግስ የለም። (Target expression (Amharic))"
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ።) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)",
+            "ትልቅ፣ ትንሽ እና መካከለኛ።) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)",
+            "በአማርኛ ተደራጊ ግስ የለም።) (Context: ተደራጊ የግስ ክፍሎች (Passive Voice & Refl)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ተ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና ተደራጊ ግሶችን ይዟል።"
@@ -8484,9 +8484,9 @@
           "prompt": "«He had the house built by workers» የሚለውን በአማርኛ ትክክለኛ አስደራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
             "ቤቱን በሠራተኞች አስገነባ። (He had the house built by workers - Correct causative with አስ- prefix)",
-            "ቤቱ ተገነባ (Target expression (Amharic))",
-            "ቤቱን አፈረሰ (Target expression (Amharic))",
-            "ምንም ቤት አልተሰራም (Target expression (Amharic))"
+            "ቤቱ ተገነባ) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)",
+            "ቤቱን አፈረሰ) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)",
+            "ምንም ቤት አልተሰራም) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)"
           ],
           "answerIndex": 0,
           "explanation": "«አስገነባ» የሚለው ግስ 'ገነባ' ከሚለው ግስ 'አስ-' በመጨመር የተመሰረተ አስደራጊ ግስ ነው።"
@@ -8499,9 +8499,9 @@
           "prompt": "'I had the car repaired' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "መኪናውን አስጠገንኩ። (I had the car repaired - Accurate agentive causative)",
-            "መኪናውን ጠገንኩ (Target expression (Amharic))",
-            "መኪናው ተሰበረ (Target expression (Amharic))",
-            "መኪና የለኝም (Target expression (Amharic))"
+            "መኪናውን ጠገንኩ) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)",
+            "መኪናው ተሰበረ) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)",
+            "መኪና የለኝም) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)"
           ],
           "answerIndex": 0,
           "explanation": "«አስጠገንኩ» ሌላ ባለሙያ አሰርቶ ማስተካከልን የሚያመለክት አስደራጊ ግስ ነው።"
@@ -8515,9 +8515,9 @@
           "prompt": "አስደራጊ ግሶችን (Causative verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስጠና እና አስተማረ። (የመጀመሪያው አማራጭ በ«አስ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና አስደራጊ ግሶችን ይዟል።) (አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative Voice - Stem Prefixes «አ-» & «አስ-»))",
-            "ተኛ፣ ተቀመጠ እና ወደቀ። (Target expression (Amharic))",
-            "ውሃ፣ ወተት እና ሻይ። (Target expression (Amharic))",
-            "በአማርኛ አስደራጊ ግስ የለም። (Target expression (Amharic))"
+            "ተኛ፣ ተቀመጠ እና ወደቀ።) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)",
+            "ውሃ፣ ወተት እና ሻይ።) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)",
+            "በአማርኛ አስደራጊ ግስ የለም።) (Context: አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative V)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«አስ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና አስደራጊ ግሶችን ይዟል።"
@@ -8574,9 +8574,9 @@
           "prompt": "«They helped each other» የሚለውን በአማርኛ ትክክለኛ ተደራራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
             "እርስ በርስ ተረዳዱ። (They helped each other - Correct reciprocal verb form)",
-            "እርስ በርስ ተጣሉ (Target expression (Amharic))",
-            "አልተረዳዱም (Target expression (Amharic))",
-            "ምንም እርዳታ የለም (Target expression (Amharic))"
+            "እርስ በርስ ተጣሉ) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)",
+            "አልተረዳዱም) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)",
+            "ምንም እርዳታ የለም) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)"
           ],
           "answerIndex": 0,
           "explanation": "«ተረዳዱ» እርስ በርስ በጋራ የመረዳዳት ድርጊትን የሚያሳይ ተደራራጊ ግስ ነው።"
@@ -8589,9 +8589,9 @@
           "prompt": "'They shook hands' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እጅ ለእጅ ተጨባበጡ። (They shook hands with each other - Accurate reciprocal greeting action)",
-            "እጅ ተሰበረ (Target expression (Amharic))",
-            "ምንም ሰላምታ አልሰጡም (Target expression (Amharic))",
-            "ጨበጠ ብቻ (Target expression (Amharic))"
+            "እጅ ተሰበረ) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)",
+            "ምንም ሰላምታ አልሰጡም) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)",
+            "ጨበጠ ብቻ) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)"
           ],
           "answerIndex": 0,
           "explanation": "«ተጨባበጡ» ሁለቱም ወገኖች እጅ ለእጅ የተጨባበጡ መሆኑን የሚያሳይ ተደራራጊ ግስ ነው።"
@@ -8605,9 +8605,9 @@
           "prompt": "ተደራራጊ ግሶችን (Reciprocal verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ተደጋገፉ፣ ተጨባበጡ፣ ተረዳዱ፣ ተነጋገሩ እና ተቃቀፉ። (የመጀመሪያው አማራጭ ዋና ዋና የጋራና ተደራራጊ ግሶችን በሙሉ ይዟል።) (ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & Frequentative Verbs))",
-            "ሮጠ፣ ዘለለ እና ወደቀ። (Target expression (Amharic))",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Target expression (Amharic))",
-            "በአማርኛ ተደራራጊ ግስ የለም። (Target expression (Amharic))"
+            "ሮጠ፣ ዘለለ እና ወደቀ።) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)",
+            "ጠዋት፣ ከሰዓት እና ማታ።) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)",
+            "በአማርኛ ተደራራጊ ግስ የለም።) (Context: ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & F)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጋራና ተደራራጊ ግሶችን በሙሉ ይዟል።"
@@ -8664,9 +8664,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተለያዩ ውስብስብ የግስ እርባታዎችን ያጣመረው የትኛው ነው?",
           "options": [
             "ተረዳዱ፣ አስገነቡ፣ ተዘጋጀ እና ተጨባበጡ። (Complete verb morphology synthesis: reciprocal, causative, passive)",
-            "ምንም ግስ የለም (Target expression (Amharic))",
-            "ሁሉም ቃላት ስሞች ናቸው (Target expression (Amharic))",
-            "የግስ እርባታ የለም (Target expression (Amharic))"
+            "ምንም ግስ የለም) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )",
+            "ሁሉም ቃላት ስሞች ናቸው) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )",
+            "የግስ እርባታ የለም) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ተደራራጊ (ተረዳዱ፣ ተጨባበጡ)፣ አስደራጊ (አስገነቡ) እና ተደራጊ (ተዘጋጀ) ግሶችን በአንድነት ያጠቃልላል።"
@@ -8679,9 +8679,9 @@
           "prompt": "ተደራራጊ እና አስደራጊ ግሶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ነዋሪዎቹ ተረዳድተው አዲስ መንገድ አስጠገኑ። (The residents helped each other and had a new road repaired - Integrated complex verb sentence)",
-            "ምንም መንገድ አልተሰራም (Target expression (Amharic))",
-            "አልተረዳዱም (Target expression (Amharic))",
-            "መንገድ የለም (Target expression (Amharic))"
+            "ምንም መንገድ አልተሰራም) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )",
+            "አልተረዳዱም) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )",
+            "መንገድ የለም) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ተደራራጊውን 'ተረዳድተው' እና አስደራጊውን 'አስጠገኑ' በትክክል ያዛምዳል።"
@@ -8695,9 +8695,9 @@
           "prompt": "የክፍል 18 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ተሻጋሪና ኢ-ተሻጋሪ ግሶች፣ ተደራጊ ግሶች (ተ-)፣ አስደራጊ ግሶች (አስ-)፣ እንዲሁም ተደራራጊና ተደጋጋሚ ግሶች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 18ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand Synthesis & Complex Verb Morphology Discourse))",
-            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ውስብስብ ግሶች የሉም። (Target expression (Amharic))",
-            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው።) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )",
+            "በአማርኛ ውስብስብ ግሶች የሉም።) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው።) (Context: የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 18ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -8844,9 +8844,9 @@
           "prompt": "«If I had wings, I would fly» የሚለውን በአማርኛ ትክክለኛ ምናባዊ ሁኔታዊ መዋቅር የያዘው የትኛው ነው?",
           "options": [
             "ክንፍ ቢኖረኝ እበር ነበር። (If I had wings, I would fly - Correct hypothetical conditional with ቢ- and ነበር)",
-            "ክንፍ ካለኝ እበር ነበር (Target expression (Amharic))",
-            "ክንፍ የለኝም (Target expression (Amharic))",
-            "እበረራለሁ (Target expression (Amharic))"
+            "ክንፍ ካለኝ እበር ነበር) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)",
+            "ክንፍ የለኝም) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)",
+            "እበረራለሁ) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)"
           ],
           "answerIndex": 0,
           "explanation": "«ክንፍ ቢኖረኝ እበር ነበር» ምናባዊ ሁኔታንና መላምታዊ ውጤቱን በትክክል ያሳያል።"
@@ -8859,9 +8859,9 @@
           "prompt": "'If he came, we would be happy' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እሱ ቢመጣ ደስ ይለን ነበር። (If he came, we would be happy - Accurate hypothetical sentence)",
-            "እሱ ከመጣ ደስ ይለን ነበር (Target expression (Amharic))",
-            "እሱ አይመጣም (Target expression (Amharic))",
-            "ደስ አይለንም (Target expression (Amharic))"
+            "እሱ ከመጣ ደስ ይለን ነበር) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)",
+            "እሱ አይመጣም) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)",
+            "ደስ አይለንም) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)"
           ],
           "answerIndex": 0,
           "explanation": "«እሱ ቢመጣ ደስ ይለን ነበር» ምናባዊ መላምትን በትክክል ያረጋግጣል።"
@@ -8875,9 +8875,9 @@
           "prompt": "ምናባዊ ሁኔታዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ቢኖረኝ... ነበር፣ ቢመጣ... ነበር፣ ቢሆን... ነበር እና ቢፈቀድ... ነበር። (የመጀመሪያው አማራጭ በ«ቢ-... ነበር» የተዋቀሩ ዋና ዋና ምናባዊ ሁኔታዎችን ይዟል።) (ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical & Unreal Conditionals - Prefix «ቢ-»))",
-            "በላ፣ ጠጣ፣ ሄደ እና መጣ። (Target expression (Amharic))",
-            "ሰማያዊ፣ ቢጫ እና ቀይ። (Target expression (Amharic))",
-            "በአማርኛ ምናባዊ ሁኔታ የለም። (Target expression (Amharic))"
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ።) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)",
+            "ሰማያዊ፣ ቢጫ እና ቀይ።) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)",
+            "በአማርኛ ምናባዊ ሁኔታ የለም።) (Context: ምናባዊ እና መላምታዊ ሁኔታዎች (Hypothetical &)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በ«ቢ-... ነበር» የተዋቀሩ ዋና ዋና ምናባዊ ሁኔታዎችን ይዟል።"
@@ -9024,9 +9024,9 @@
           "prompt": "«Even if it is difficult, we will try» የሚለውን በአማርኛ ትክክለኛ ተቃራኒ አያያዥ የያዘው የትኛው ነው?",
           "options": [
             "ቢከብድም እንኳ እንሞክራለን። (Even if it is difficult, we will try - Correct concessive connector)",
-            "ከከበደ አንሞክርም (Target expression (Amharic))",
-            "አይከብድም (Target expression (Amharic))",
-            "ምንም ጥረት የለም (Target expression (Amharic))"
+            "ከከበደ አንሞክርም) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )",
+            "አይከብድም) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )",
+            "ምንም ጥረት የለም) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )"
           ],
           "answerIndex": 0,
           "explanation": "«ቢከብድም እንኳ» ተቃራኒ ቅድመ-ሁኔታን የሚያሳይ ትክክለኛ አያያዥ ነው።"
@@ -9039,9 +9039,9 @@
           "prompt": "'Unless you come, we will not go' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አንተ ካልመጣህ በቀር አንሄድም። (Unless you come, we will not go - Accurate negative proviso connector)",
-            "አንተ ከመጣህ እንሄዳለን (Target expression (Amharic))",
-            "አንሄድም (Target expression (Amharic))",
-            "ብትመጣ ኖሮ (Target expression (Amharic))"
+            "አንተ ከመጣህ እንሄዳለን) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )",
+            "አንሄድም) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )",
+            "ብትመጣ ኖሮ) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )"
           ],
           "answerIndex": 0,
           "explanation": "«ካልመጣህ በቀር» 'ካልሆነ በስተቀር' የሚለውን ቅድመ-ሁኔታ በትክክል ይገልጻል።"
@@ -9055,9 +9055,9 @@
           "prompt": "ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ቢ...ም እንኳ፣ ካልሆነ በቀር፣ ካልሆነ በስተቀር እና እስካለ ድረስ። (የመጀመሪያው አማራጭ ዋና ዋና ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን በሙሉ ይዟል።) (ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive & Proviso Connectors))",
-            "ቤት፣ መኪና እና አውሮፕላን። (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና ሐሙስ። (Target expression (Amharic))",
-            "በአማርኛ አያያዦች የሉም። (Target expression (Amharic))"
+            "ቤት፣ መኪና እና አውሮፕላን።) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )",
+            "ሰኞ፣ ማክሰኞ እና ሐሙስ።) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )",
+            "በአማርኛ አያያዦች የሉም።) (Context: ተቃራኒ እና ቅድመ-ሁኔታዊ አያያዦች (Concessive )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ተቃራኒና ቅድመ-ሁኔታዊ አያያዦችን በሙሉ ይዟል።"
@@ -9114,9 +9114,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሁኔታዊ አረፍተ ነገሮች ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
             "ቢከብድም እንኳ በትጋት ከሰራን እናሳካለን፤ ካልተባበርን በቀር ግን አይቻልም። (Complete conditional logic synthesis: concessive, real, and proviso)",
-            "ምንም ሁኔታ የለም (Target expression (Amharic))",
-            "ሁሉም ነገር ቀላል ነው (Target expression (Amharic))",
-            "ሁኔታዊ ህጎች የሉም (Target expression (Amharic))"
+            "ምንም ሁኔታ የለም) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )",
+            "ሁሉም ነገር ቀላል ነው) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )",
+            "ሁኔታዊ ህጎች የሉም) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ተቃራኒ (ቢከብድም እንኳ)፣ እውነታዊ (ከሰራን) እና ቅድመ-ሁኔታዊ (ካልተባበርን በቀር) መዋቅሮችን ያጣመረ ነው።"
@@ -9129,9 +9129,9 @@
           "prompt": "ያለፈ ምናባዊ እና እውነታዊ ሁኔታዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ያኔ ተጠንቅቀን ቢሆን ኖሮ አሁን ችግር ውስጥ አንገባም ነበር፤ አሁን ግን ከሰራን ይስተካከላል። (If we had been careful then we wouldn't be in trouble now; but now if we work it will be fixed - Integrated conditional sentence)",
-            "ምንም አይስተካከልም (Target expression (Amharic))",
-            "ያኔ አልነበርንም (Target expression (Amharic))",
-            "ችግር የለም (Target expression (Amharic))"
+            "ምንም አይስተካከልም) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )",
+            "ያኔ አልነበርንም) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )",
+            "ችግር የለም) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ያለፈውን ምናባዊ ሁኔታ (ቢሆን ኖሮ) እና የአሁኑን እውነታዊ ሁኔታ (ከሰራን) በትክክል ያዛምዳል።"
@@ -9145,9 +9145,9 @@
           "prompt": "የክፍል 19 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "እውነታዊ ሁኔታዎች (ከ-)፣ ምናባዊ ሁኔታዎች (ቢ-)፣ ያለፈ ምናባዊ ሁኔታ (ቢ... ኖሮ)፣ እንዲሁም ተቃራኒና ቅድመ-ሁኔታዊ አያያዦች (ቢ...ም እንኳ/ካልሆነ በቀር) ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 19ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand Synthesis & Conditional Logic Discourse))",
-            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ሁኔታዊ ቃላት የሉም። (Target expression (Amharic))",
-            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ኪነ-ጥበብ ብቻ ነው።) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )",
+            "በአማርኛ ሁኔታዊ ቃላት የሉም።) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )",
+            "ሁሉም ሁኔታዎች አንድ ዓይነት ናቸው።) (Context: የክፍል 19 አጠቃላይ ማጠቃለያ (Unit 19 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 19ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9204,9 +9204,9 @@
           "prompt": "«The project is being constructed» የሚለውን በአማርኛ ተገብሮ ቀጣይ ጊዜ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ፕሮጀክቱ እየተገነባ ነው። (The project is being constructed - Continuous passive)",
-            "ፕሮጀክቱ ተገነባ (Target expression (Amharic))",
-            "ፕሮጀክቱ ይገነባል (Target expression (Amharic))",
-            "ፕሮጀክት የለም (Target expression (Amharic))"
+            "ፕሮጀክቱ ተገነባ) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)",
+            "ፕሮጀክቱ ይገነባል) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)",
+            "ፕሮጀክት የለም) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)"
           ],
           "answerIndex": 0,
           "explanation": "«እየተገነባ ነው» በአሁን ሰዓት እየተከናወነ ያለ ተገብሮ ቀጣይ ድርጊትን ያሳያል።"
@@ -9219,9 +9219,9 @@
           "prompt": "'The book has been published' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "መጽሐፉ ታትሟል። (The book has been published - Perfect passive aspect)",
-            "መጽሐፉ ታተመ (Target expression (Amharic))",
-            "መጽሐፉ ይታተማል (Target expression (Amharic))",
-            "መጽሐፉ አልታተመም (Target expression (Amharic))"
+            "መጽሐፉ ታተመ) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)",
+            "መጽሐፉ ይታተማል) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)",
+            "መጽሐፉ አልታተመም) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)"
           ],
           "answerIndex": 0,
           "explanation": "«ታትሟል» የድርጊቱን መጠናቀቅ የሚያሳይ የፍጻሜ ጊዜ ተገብሮ ግስ ነው።"
@@ -9235,9 +9235,9 @@
           "prompt": "የተገብሮ ግስ የጊዜ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ተዘጋጀ (Past)، እየተዘጋጀ ነው (Continuous)، ተዘጋጅቷል (Perfect) እና ይዘጋጃል (Future)።",
-            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ። (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Target expression (Amharic))",
-            "በአማርኛ ተገብሮ ግስ የለም። (Target expression (Amharic))"
+            "አረንጓዴ፣ ቢጫ፣ ቀይ እና ነጭ።) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ።) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)",
+            "በአማርኛ ተገብሮ ግስ የለም።) (Context: የተገብሮ ግስ አወቃቀርና አጠቃቀም (Passive Voic)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተገብሮ ግስን ዋና ዋና የጊዜ እርባታዎች በሙሉ ያሳያል።"
@@ -9294,9 +9294,9 @@
           "prompt": "«The letter was sent through the embassy» የሚለውን በአማርኛ ድርጊት ፈጻሚውን በመስተዋድድ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ደብዳቤው በኤምባሲው አማካኝነት ተላከ። (The letter was sent through the embassy - Agent with በ... አማካኝነት)",
-            "ደብዳቤው ተላከ (Target expression (Amharic))",
-            "ኤምባሲው ደብዳቤ ላከ (Target expression (Amharic))",
-            "ደብዳቤ የለም (Target expression (Amharic))"
+            "ደብዳቤው ተላከ) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )",
+            "ኤምባሲው ደብዳቤ ላከ) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )",
+            "ደብዳቤ የለም) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )"
           ],
           "answerIndex": 0,
           "explanation": "«በኤምባሲው አማካኝነት» ድርጊት ፈጻሚውን አካል በትክክል ያመለክታል።"
@@ -9309,9 +9309,9 @@
           "prompt": "'The book was authored by scholars' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "መጽሐፉ በምሁራኑ በኩል ተዘጋጀ። (The book was prepared on the part of scholars - Accurate agentive passive)",
-            "ምሁራኑ መጽሐፉን አነበቡ (Target expression (Amharic))",
-            "መጽሐፉ ጠፋ (Target expression (Amharic))",
-            "ምሁራን የሉም (Target expression (Amharic))"
+            "ምሁራኑ መጽሐፉን አነበቡ) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )",
+            "መጽሐፉ ጠፋ) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )",
+            "ምሁራን የሉም) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )"
           ],
           "answerIndex": 0,
           "explanation": "«በምሁራኑ በኩል ተዘጋጀ» ድርጊት ፈጻሚውን በትክክል ያሳውቃል።"
@@ -9324,10 +9324,10 @@
           "type": "multiple-choice",
           "prompt": "ድርጊት ፈጻሚን የሚያመለክቱ መስተዋድዳዊ አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት። (Target expression (Amharic))",
-            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ። (Target expression (Amharic))",
-            "ትናንት፣ ዛሬ እና ከነገ ወዲያ። (Target expression (Amharic))",
-            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም። (Target expression (Amharic))"
+            "በ... አማካኝነት፣ በ... በኩል፣ በ... እጅ እና በ... አማካሪነት።) (Amharic grammar and vocabulary (am-u20-l2))",
+            "ከ... በላይ፣ ከ... በታች እና በ... ውስጥ።) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )",
+            "ትናንት፣ ዛሬ እና ከነገ ወዲያ።) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )",
+            "በአማርኛ ድርጊት ፈጻሚ አይገለጽም።) (Context: ድርጊት ፈጻሚን በመስተዋድድ መግለጽ (Expressing )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በተገብሮ ዓረፍተ ነገር ውስጥ ፈጻሚን ለመግለጽ የሚያገለግሉ ዋና ዋና አገላለጾችን ይዟል።"
@@ -9384,9 +9384,9 @@
           "prompt": "«A peace agreement was signed» የሚለውን በዜና ቋንቋ ተገብሮ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የሰላም ስምምነት ተፈረመ። (A peace agreement was signed - Formal journalistic passive)",
-            "የሰላም ስምምነት ፈረሙ (Target expression (Amharic))",
-            "ስምምነቱ ጠፋ (Target expression (Amharic))",
-            "ምንም ስምምነት የለም (Target expression (Amharic))"
+            "የሰላም ስምምነት ፈረሙ) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)",
+            "ስምምነቱ ጠፋ) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)",
+            "ምንም ስምምነት የለም) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)"
           ],
           "answerIndex": 0,
           "explanation": "«ተፈረመ» በዜናና በሰነዶች ውስጥ ጥቅም ላይ የሚውል መደበኛ ተገብሮ ግስ ነው።"
@@ -9399,9 +9399,9 @@
           "prompt": "'A meeting was held' የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስብሰባ ተካሄደ። (A meeting was held - Formal institutional news passive)",
-            "ስብሰባ አደረጉ (Target expression (Amharic))",
-            "ስብሰባ ተሰረዘ (Target expression (Amharic))",
-            "ስብሰባ የለም (Target expression (Amharic))"
+            "ስብሰባ አደረጉ) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)",
+            "ስብሰባ ተሰረዘ) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)",
+            "ስብሰባ የለም) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)"
           ],
           "answerIndex": 0,
           "explanation": "«ስብሰባ ተካሄደ» በመደበኛ የዜና ዘገባዎች ውስጥ እጅግ የተለመደ ተገብሮ መዋቅር ነው።"
@@ -9415,9 +9415,9 @@
           "prompt": "በዜና እና ይፋዊ ሰነዶች ውስጥ የሚዘወተሩ ተገብሮ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ተካሄደ፣ ተፈረመ፣ ታወጀ፣ ተላለፈ እና ተመረቀ። (የመጀመሪያው አማራጭ በዜናና ይፋዊ ጽሑፎች ውስጥ በስፋት የሚሠራባቸውን ተገብሮ ግሶች ይዟል።) (ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive Voice in News & Official Journalism))",
-            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ደብተር እና እርሳስ። (Target expression (Amharic))",
-            "በዜና ውስጥ ተገብሮ ግስ አይገባም። (Target expression (Amharic))"
+            "በላ፣ ጠጣ፣ ሳቀ እና አለቀሰ።) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)",
+            "ጠረጴዛ፣ ደብተር እና እርሳስ።) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)",
+            "በዜና ውስጥ ተገብሮ ግስ አይገባም።) (Context: ተገብሮ ግስ በዜና እና በይፋዊ ጽሑፎች (Passive V)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ በዜናና ይፋዊ ጽሑፎች ውስጥ በስፋት የሚሠራባቸውን ተገብሮ ግሶች ይዟል።"
@@ -9474,9 +9474,9 @@
           "prompt": "«መሐንዲሱ ድልድዩን ሰራ» የሚለውን ንቁ ዓረፍተ ነገር ወደ ተገብሮ በትክክል የቀየረው የትኛው ነው?",
           "options": [
             "ድልድዩ በመሐንዲሱ ተሰራ። (The bridge was built by the engineer - Correct passive transformation)",
-            "መሐንዲሱ ድልድዩን ሰራ (Target expression (Amharic))",
-            "ድልድዩ መሐንዲሱን ሰራ (Target expression (Amharic))",
-            "ምንም ድልድይ አልተሰራም (Target expression (Amharic))"
+            "መሐንዲሱ ድልድዩን ሰራ) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)",
+            "ድልድዩ መሐንዲሱን ሰራ) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)",
+            "ምንም ድልድይ አልተሰራም) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)"
           ],
           "answerIndex": 0,
           "explanation": "ተሳቢው 'ድልድዩ' ባለቤት ሆኖ፣ ባለቤቱ 'በመሐንዲሱ' ተብሎ፣ ግሱ 'ተሰራ' ተብሎ ተገብሮ ሆኗል።"
@@ -9489,9 +9489,9 @@
           "prompt": "'ተማሪዎቹ ክፍሉን አጸዱ' የሚለውን ወደ ተገብሮ በትክክል የቀየረው የትኛው ነው?",
           "options": [
             "ክፍሉ በተማሪዎቹ ተጸዳ። (The classroom was cleaned by the students - Accurate passive transformation)",
-            "ተማሪዎቹ ክፍሉን አጸዱ (Target expression (Amharic))",
-            "ክፍሉ ተማሪዎቹን አጸዳ (Target expression (Amharic))",
-            "ክፍሉ አልተጸዳም (Target expression (Amharic))"
+            "ተማሪዎቹ ክፍሉን አጸዱ) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)",
+            "ክፍሉ ተማሪዎቹን አጸዳ) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)",
+            "ክፍሉ አልተጸዳም) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)"
           ],
           "answerIndex": 0,
           "explanation": "«ክፍሉ በተማሪዎቹ ተጸዳ» ትክክለኛውን የተገብሮ አወቃቀር ህግ ጠብቋል።"
@@ -9505,9 +9505,9 @@
           "prompt": "የንቁ ወደ ተገብሮ ለውጥ መሰረታዊ ህግ ምን ይመስላል?",
           "options": [
             "ተሳቢው ባለቤት ይሆናል፣ ባለቤቱ በመስተዋድድ ይያያዛል፣ ግሱ ደግሞ በ«ተ-» ቅድመ-ቅጥያ ተገብሮ ይሆናል። (የመጀመሪያው አማራጭ የተገብሮ ለውጥ ደንቦችን ሙሉ በሙሉ ያብራራል።) (ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-to-Passive Transformations))",
-            "ቃላት በሙሉ ወደ ስም ይቀየራሉ። (Target expression (Amharic))",
-            "ምንም ዓይነት ለውጥ አይደረግም። (Target expression (Amharic))",
-            "ተገብሮ ወደ ንቁ አይቀየርም። (Target expression (Amharic))"
+            "ቃላት በሙሉ ወደ ስም ይቀየራሉ።) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)",
+            "ምንም ዓይነት ለውጥ አይደረግም።) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)",
+            "ተገብሮ ወደ ንቁ አይቀየርም።) (Context: ኢ-ተገብሮ ወደ ተገብሮ የመቀየር ልምምድ (Active-t)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የተገብሮ ለውጥ ደንቦችን ሙሉ በሙሉ ያብራራል።"
@@ -9564,9 +9564,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ ይፋዊ የተገብሮ ዜና ዘገባ መዋቅር የያዘው የትኛው ነው?",
           "options": [
             "ስምምነቱ በሁለቱ ሀገራት መሪዎች አማካኝነት በይፋ ተፈረመ። (Complete official passive news sentence with agentive preposition)",
-            "ምንም ስምምነት የለም (Target expression (Amharic))",
-            "ሁሉም ቃላት ተራ ናቸው (Target expression (Amharic))",
-            "ዜና የለም (Target expression (Amharic))"
+            "ምንም ስምምነት የለም) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )",
+            "ሁሉም ቃላት ተራ ናቸው) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )",
+            "ዜና የለም) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተገብሮ ግስን (ተፈረመ) እና ድርጊት ፈጻሚውን (በ... አማካኝነት) በትክክል ያዛምዳል።"
@@ -9579,9 +9579,9 @@
           "prompt": "የተገብሮ ግስንና ድርጊት ፈጻሚን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "አዲሱ ሆስፒታል በጤና ጥበቃ ሚኒስቴር አማካኝነት ተገንብቶ ተመረቀ። (The new hospital was built and inaugurated through the Ministry of Health - Accurate integrated passive sentence)",
-            "ምንም ሆስፒታል አልተሰራም (Target expression (Amharic))",
-            "ሚኒስቴሩ ጠፋ (Target expression (Amharic))",
-            "ሆስፒታል የለም (Target expression (Amharic))"
+            "ምንም ሆስፒታል አልተሰራም) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )",
+            "ሚኒስቴሩ ጠፋ) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )",
+            "ሆስፒታል የለም) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ምርጫ የተገብሮ ግሶችንና ድርጊት ፈጻሚውን በመስተዋድድ በትክክል ያቀናጃል።"
@@ -9595,9 +9595,9 @@
           "prompt": "የክፍል 20 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የተገብሮ ግስ የጊዜ እርባታዎች፣ ድርጊት ፈጻሚ መስተዋድዶች (በ... አማካኝነት/በኩል)፣ የዜና ተገብሮ ቃላት እና ንቁ ወደ ተገብሮ ልውውጥ ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 20ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand Synthesis & Formal Journalistic Passive Discourse))",
-            "ይህ ክፍል ስለ እንስሳት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ተገብሮ ግስ አይጠቀምም። (Target expression (Amharic))",
-            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ እንስሳት ብቻ ነው።) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )",
+            "በአማርኛ ተገብሮ ግስ አይጠቀምም።) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )",
+            "ሁሉም ዜናዎች በንቁ ግስ ብቻ ይጻፋሉ።) (Context: የክፍል 20 አጠቃላይ ማጠቃለያ (Unit 20 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 20ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -9654,9 +9654,9 @@
           "prompt": "«He always wakes up early» የሚለውን በአማርኛ የጊዜ ተውሳከ ግስ በትክክል የተጠቀመው የትኛው ነው?",
           "options": [
             "እሱ ሁልጊዜ ማለዳ ይነሳል። (He always wakes up early - Adverb of time ሁልጊዜ)",
-            "እሱ ትናንት ተነሳ (Target expression (Amharic))",
-            "እሱ ነገ ይነሳል (Target expression (Amharic))",
-            "ምንም ጊዜ የለም (Target expression (Amharic))"
+            "እሱ ትናንት ተነሳ) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
+            "እሱ ነገ ይነሳል) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
+            "ምንም ጊዜ የለም) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))"
           ],
           "answerIndex": 0,
           "explanation": "«ሁልጊዜ» የድርጊቱን ቋሚነትና ተደጋጋሚነት የሚያሳይ የጊዜ ተውሳከ ግስ ነው።"
@@ -9669,9 +9669,9 @@
           "prompt": "'I will call you immediately' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ወዲያውኑ እደውልልሃለሁ። (I will call you immediately - Precise adverb of time ወዲያውኑ)",
-            "ትናንት ደወልኩልህ (Target expression (Amharic))",
-            "በኋላ አልደውልም (Target expression (Amharic))",
-            "ስልክ የለኝም (Target expression (Amharic))"
+            "ትናንት ደወልኩልህ) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
+            "በኋላ አልደውልም) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
+            "ስልክ የለኝም) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))"
           ],
           "answerIndex": 0,
           "explanation": "«ወዲያውኑ» ፈጣንና ቅጽበታዊ የጊዜ አፈጻጸምን ያመለክታል።"
@@ -9685,9 +9685,9 @@
           "prompt": "የጊዜ ተውሳከ ግሶችን (Adverbs of time) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አሁን፣ ወዲያውኑ፣ ሁልጊዜ፣ አልፎ አልፎ እና አስቀድሞ። (የመጀመሪያው አማራጭ ዋና ዋና የጊዜ ተውሳከ ግሶችን በሙሉ ይዟል።) (የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
-            "ትልቅ፣ ትንሽ እና መካከለኛ። (Target expression (Amharic))",
-            "ወንበር፣ ጠረጴዛ እና አልጋ። (Target expression (Amharic))",
-            "በአማርኛ የጊዜ ተውሳከ ግስ የለም። (Target expression (Amharic))"
+            "ትልቅ፣ ትንሽ እና መካከለኛ።) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
+            "ወንበር፣ ጠረጴዛ እና አልጋ።) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))",
+            "በአማርኛ የጊዜ ተውሳከ ግስ የለም።) (Context: የጊዜ ተውሳከ ግሶች (Adverbs of Time))"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጊዜ ተውሳከ ግሶችን በሙሉ ይዟል።"
@@ -9744,9 +9744,9 @@
           "prompt": "«Drive carefully» የሚለውን በአማርኛ ትክክለኛ የሁኔታ ተውሳከ ግስ የያዘው የትኛው ነው?",
           "options": [
             "በጥንቃቄ አሽከርክር። (Drive carefully - Adverb of manner በጥንቃቄ)",
-            "በፍጥነት ሩጥ (Target expression (Amharic))",
-            "አታሽከርክር (Target expression (Amharic))",
-            "መኪና የለም (Target expression (Amharic))"
+            "በፍጥነት ሩጥ) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)",
+            "አታሽከርክር) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)",
+            "መኪና የለም) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)"
           ],
           "answerIndex": 0,
           "explanation": "«በጥንቃቄ» የድርጊቱን አፈጻጸም ጥራትና ሁኔታ የሚያሳይ ተውሳከ ግስ ነው።"
@@ -9759,9 +9759,9 @@
           "prompt": "'He spoke courageously' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በድፍረት ተናገረ። (He spoke courageously - Accurate adverb of manner)",
-            "በፍርሀት ዝም አለ (Target expression (Amharic))",
-            "አልተናገረም (Target expression (Amharic))",
-            "ድምጽ የለም (Target expression (Amharic))"
+            "በፍርሀት ዝም አለ) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)",
+            "አልተናገረም) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)",
+            "ድምጽ የለም) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)"
           ],
           "answerIndex": 0,
           "explanation": "«በድፍረት» ድፍረትንና ቁርጠኝነትን የሚያሳይ የሁኔታ ተውሳከ ግስ ነው።"
@@ -9775,9 +9775,9 @@
           "prompt": "የቦታ እና የሁኔታ ተውሳከ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "እዚህ፣ እዚያ፣ በጥንቃቄ፣ በፍጥነት፣ በዝግታ እና በድፍረት። (የመጀመሪያው አማራጭ ዋና ዋና የቦታና የሁኔታ ተውሳከ ግሶችን በአግባቡ ያጠቃልላል።) (የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Place & Manner))",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Target expression (Amharic))",
-            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ። (Target expression (Amharic))",
-            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም። (Target expression (Amharic))"
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ።) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)",
+            "ሰማይ፣ ምድር፣ ፀሐይ እና ጨረቃ።) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)",
+            "በአማርኛ የሁኔታ ተውሳከ ግስ የለም።) (Context: የቦታ እና የሁኔታ ተውሳከ ግሶች (Adverbs of Pl)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የቦታና የሁኔታ ተውሳከ ግሶችን በአግባቡ ያጠቃልላል።"
@@ -9834,9 +9834,9 @@
           "prompt": "«He worked hard; therefore he succeeded» የሚለውን በአማርኛ ትክክለኛ የውጤት አያያዥ የተጠቀመው የትኛው ነው?",
           "options": [
             "በትጋት ሰራ፤ ስለዚህ ተሳካለት። (He worked diligently; therefore he succeeded - Resultative connector ስለዚህ)",
-            "በትጋት ሰራ ግን አልተሳካለትም (Target expression (Amharic))",
-            "አልሰራም (Target expression (Amharic))",
-            "ምንም ስራ የለም (Target expression (Amharic))"
+            "በትጋት ሰራ ግን አልተሳካለትም) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)",
+            "አልሰራም) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)",
+            "ምንም ስራ የለም) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)"
           ],
           "answerIndex": 0,
           "explanation": "«ስለዚህ» መንስኤውንና ውጤቱን የሚያገናኝ ትክክለኛ አያያዥ ቃል ነው።"
@@ -9849,9 +9849,9 @@
           "prompt": "'Due to the rain, the event was postponed' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "በዝናቡ ሳቢያ ዝግጅቱ ተራዘመ። (Due to the rain, the event was postponed - Accurate causal preposition ሳቢያ)",
-            "ዝናብ የለም (Target expression (Amharic))",
-            "ዝግጅቱ ተካሄደ (Target expression (Amharic))",
-            "ምንም ዝግጅት የለም (Target expression (Amharic))"
+            "ዝናብ የለም) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)",
+            "ዝግጅቱ ተካሄደ) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)",
+            "ምንም ዝግጅት የለም) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)"
           ],
           "answerIndex": 0,
           "explanation": "«በ... ሳቢያ» መንስኤን የሚያመለክት ትክክለኛ ሰዋሰዋዊ አያያዥ ነው።"
@@ -9865,9 +9865,9 @@
           "prompt": "የመንስኤ እና የውጤት አያያዥ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ስለዚህ፣ ስለሆነም፣ በመሆኑም፣ በዚህ ምክንያት እና በ... ሳቢያ። (የመጀመሪያው አማራጭ ዋና ዋና የመንስኤና የውጤት አያያዦችን በሙሉ ይዟል።) (የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Consecutive Conjunctions))",
-            "አረንጓዴ፣ ቢጫ እና ቀይ። (Target expression (Amharic))",
-            "ጠዋት፣ ከሰዓት እና ማታ። (Target expression (Amharic))",
-            "በአማርኛ የምክንያት አያያዥ የለም። (Target expression (Amharic))"
+            "አረንጓዴ፣ ቢጫ እና ቀይ።) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)",
+            "ጠዋት፣ ከሰዓት እና ማታ።) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)",
+            "በአማርኛ የምክንያት አያያዥ የለም።) (Context: የመንስኤ እና የውጤት አያያዥ ቃላት (Causal & Co)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የመንስኤና የውጤት አያያዦችን በሙሉ ይዟል።"
@@ -9924,9 +9924,9 @@
           "prompt": "«It was hard, however we persevered» የሚለውን በአማርኛ ትክክለኛ የተቃርኖ አያያዥ የያዘው የትኛው ነው?",
           "options": [
             "ከባድ ነበር፤ ሆኖም ግን ጸናን። (It was hard; however we persevered - Adversative connector ሆኖም ግን)",
-            "ከባድ ነበር ስለዚህ ተውነው (Target expression (Amharic))",
-            "ቀላል ነበር (Target expression (Amharic))",
-            "ምንም አልነበረም (Target expression (Amharic))"
+            "ከባድ ነበር ስለዚህ ተውነው) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)",
+            "ቀላል ነበር) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)",
+            "ምንም አልነበረም) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)"
           ],
           "answerIndex": 0,
           "explanation": "«ሆኖም ግን» የተቃርኖ ሀሳቦችን የሚያገናኝ ትክክለኛ አያያዥ ነው።"
@@ -9939,9 +9939,9 @@
           "prompt": "'Tea or coffee' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሻይ ወይም ቡና (Tea or coffee - Standard alternative connector ወይም)",
-            "ሻይ እና ቡና (Target expression (Amharic))",
-            "ሻይ ግን ቡና (Target expression (Amharic))",
-            "ሻይ የለም (Target expression (Amharic))"
+            "ሻይ እና ቡና) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)",
+            "ሻይ ግን ቡና) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)",
+            "ሻይ የለም) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)"
           ],
           "answerIndex": 0,
           "explanation": "«ወይም» ሁለት አማራጮችን የሚያገናኝ የአማራጭ አያያዥ ቃል ነው።"
@@ -9955,9 +9955,9 @@
           "prompt": "የተቃርኖ እና የአማራጭ አያያዦችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ነገር ግን፣ ሆኖም ግን፣ ይሁን እንጂ፣ ይልቁንም፣ ወይም እና አልያም ። (የመጀመሪያው አማራጭ ዋና ዋና የተቃርኖና የአማራጭ አያያዦችን በሙሉ ይዟል።) (የተቃርኖ እና የአማራጭ አያያዦች (Adversative & Alternative Conjunctions))",
-            "ትልቅ፣ ትንሽ እና ረጅም ። (Target expression (Amharic))",
-            "ቀይ፣ አረንጓዴ እና ቢጫ። (Target expression (Amharic))",
-            "በአማርኛ የተቃርኖ አያያዥ የለም። (Target expression (Amharic))"
+            "ትልቅ፣ ትንሽ እና ረጅም ።) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)",
+            "ቀይ፣ አረንጓዴ እና ቢጫ።) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)",
+            "በአማርኛ የተቃርኖ አያያዥ የለም።) (Context: የተቃርኖ እና የአማራጭ አያያዦች (Adversative &)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የተቃርኖና የአማራጭ አያያዦችን በሙሉ ይዟል።"
@@ -10014,9 +10014,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተለያዩ ተውሳከ ግሶችንና አያያዦችን ያጣመረው የትኛው ነው?",
           "options": [
             "አሁን በጥንቃቄ እንስራ፤ ስለዚህ በስኬት እንጠናቀቃለን ወይም እናርፋለን። (Complete discourse synthesis: time, manner, resultative, alternative)",
-            "ምንም ቃል የለም (Target expression (Amharic))",
-            "ሁሉም ስሞች ናቸው (Target expression (Amharic))",
-            "አያያዥ የለም (Target expression (Amharic))"
+            "ምንም ቃል የለም) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )",
+            "ሁሉም ስሞች ናቸው) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )",
+            "አያያዥ የለም) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የጊዜ (አሁን)፣ የሁኔታ (በጥንቃቄ)፣ የውጤት (ስለዚህ) እና የአማራጭ (ወይም) አያያዦችን በአንድነት ያጣመረ ነው።"
@@ -10029,9 +10029,9 @@
           "prompt": "የመንስኤ-ውጤት እና የተቃርኖ አያያዦችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "መንገዱ ከባድ ነበር፤ ሆኖም ግን በድፍረት ተጓዝን፤ ስለዚህ በሰላም ደረስን። (The road was hard; however we traveled courageously; therefore we arrived safely - Balanced multi-connector sentence)",
-            "ምንም መንገድ የለም (Target expression (Amharic))",
-            "አልደረስንም (Target expression (Amharic))",
-            "ተጓዥ የለም (Target expression (Amharic))"
+            "ምንም መንገድ የለም) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )",
+            "አልደረስንም) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )",
+            "ተጓዥ የለም) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የተቃርኖውን 'ሆኖም ግን'፣ የሁኔታውን 'በድፍረት' እና የውጤቱን 'ስለዚህ' በትክክል ያዛምዳል።"
@@ -10045,9 +10045,9 @@
           "prompt": "የክፍል 21 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የጊዜ ተውሳከ ግሶች፣ የቦታና የሁኔታ ተውሳከ ግሶች፣ የመንስኤና የውጤት አያያዦች (ስለዚህ/በመሆኑም)፣ እንዲሁም የተቃርኖና አማራጭ አያያዦች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 21ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand Synthesis & Complex Cohesive Discourse))",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ተውሳከ ግስ የለም። (Target expression (Amharic))",
-            "ሁሉም አያያዦች አንድ ዓይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )",
+            "በአማርኛ ተውሳከ ግስ የለም።) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )",
+            "ሁሉም አያያዦች አንድ ዓይነት ናቸው።) (Context: የክፍል 21 አጠቃላይ ማጠቃለያ (Unit 21 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 21ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -10104,9 +10104,9 @@
           "prompt": "«He did not write the letter» የሚለውን በአማርኛ የኃላፊ ጊዜ አሉታዊ መዋቅር በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ደብዳቤውን አልጻፈም። (He did not write the letter - Past negation አል...ም)",
-            "ደብዳቤውን ጻፈ (Target expression (Amharic))",
-            "ደብዳቤውን አይጽፍም (Target expression (Amharic))",
-            "ደብዳቤ የለም (Target expression (Amharic))"
+            "ደብዳቤውን ጻፈ) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)",
+            "ደብዳቤውን አይጽፍም) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)",
+            "ደብዳቤ የለም) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)"
           ],
           "answerIndex": 0,
           "explanation": "«አልጻፈም» በኃላፊ ጊዜ ውስጥ የተፈጸመ አሉታዊ ድርጊትን በትክክል ያሳያል።"
@@ -10119,9 +10119,9 @@
           "prompt": "'Without him eating' የሚለውን በንዑስ አንቀጽ አሉታዊ ቅርጽ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሳይበላ (Without him eating - Subordinate negation without -ም)",
-            "አልበላም (Target expression (Amharic))",
-            "እየበላ (Target expression (Amharic))",
-            "ይበላል (Target expression (Amharic))"
+            "አልበላም) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)",
+            "እየበላ) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)",
+            "ይበላል) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)"
           ],
           "answerIndex": 0,
           "explanation": "በንዑስ አንቀጽ ውስጥ አሉታዊ ቅጥያ «ሳ-» ሲገባ «-ም» አይጨመርም።"
@@ -10135,9 +10135,9 @@
           "prompt": "የአማርኛ አሉታዊ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አልጻፈም (ኃላፊ)፣ አይጽፍም (የአሁን/ወደፊት)፣ ሳይጽፍ (ንዑስ አንቀጽ) እና አልጻፈም ነበር (ያለፈ ፍጻሜ)። (የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ የግስ እርባታዎችን በአግባቡ ያሳያል።) (የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Across All Tenses))",
-            "ቀይ፣ ሰማያዊ እና አረንጓዴ። (Target expression (Amharic))",
-            "ቤት፣ በር እና መስኮት። (Target expression (Amharic))",
-            "በአማርኛ አሉታዊ ግስ የለም። (Target expression (Amharic))"
+            "ቀይ፣ ሰማያዊ እና አረንጓዴ።) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)",
+            "ቤት፣ በር እና መስኮት።) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)",
+            "በአማርኛ አሉታዊ ግስ የለም።) (Context: የተለያዩ የጊዜ አሉታዊ ቅርጾች (Negation Acros)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ የግስ እርባታዎችን በአግባቡ ያሳያል።"
@@ -10194,9 +10194,9 @@
           "prompt": "«I saw nothing» የሚለውን በአማርኛ አሉታዊ ተውላጠ ስም በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ምንም አላየሁም። (I saw nothing - Correct pronoun ምንም + negative verb)",
-            "ሁሉንም አየሁ (Target expression (Amharic))",
-            "አንድ ነገር አየሁ (Target expression (Amharic))",
-            "ምንም የለም (Target expression (Amharic))"
+            "ሁሉንም አየሁ) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)",
+            "አንድ ነገር አየሁ) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)",
+            "ምንም የለም) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)"
           ],
           "answerIndex": 0,
           "explanation": "«ምንም» ከአሉታዊ ግስ (አላየሁም) ጋር ተጣምሮ 'ምንም አላየሁም' (I saw nothing) የሚል ትክክለኛ ትርጉም ይሰጣል።"
@@ -10209,9 +10209,9 @@
           "prompt": "'Nobody knows' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ማንም አያውቅም። (Nobody knows - Correct pronoun ማንም + negative verb)",
-            "ሁሉም ያውቃል (Target expression (Amharic))",
-            "ሰው ያውቃል (Target expression (Amharic))",
-            "ማንም ያውቃል (Target expression (Amharic))"
+            "ሁሉም ያውቃል) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)",
+            "ሰው ያውቃል) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)",
+            "ማንም ያውቃል) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)"
           ],
           "answerIndex": 0,
           "explanation": "«ማንም» ከአሉታዊ ግስ «አያውቅም» ጋር መግባት አለበት።"
@@ -10225,9 +10225,9 @@
           "prompt": "አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ማንም፣ ምንም፣ የትም፣ በፍጹም እና ከቶውንም። (የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን ያካትታል።) (ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Negative Pronouns & Particles))",
-            "ሁልጊዜ፣ አንዳንዴ እና አሁን። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ደብተር እና ወንበር። (Target expression (Amharic))",
-            "በአማርኛ አሉታዊ ተውላጠ ስም የለም። (Target expression (Amharic))"
+            "ሁልጊዜ፣ አንዳንዴ እና አሁን።) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)",
+            "ጠረጴዛ፣ ደብተር እና ወንበር።) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)",
+            "በአማርኛ አሉታዊ ተውላጠ ስም የለም።) (Context: ልዩ አሉታዊ አገላለጾች እና ቃላት (Special Nega)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና አሉታዊ ተውላጠ ስሞችንና አጽንኦት ሰጪ ቃላትን ያካትታል።"
@@ -10284,9 +10284,9 @@
           "prompt": "«ሆድ ሰፊ» የሚለው የአማርኛ ፈሊጣዊ አነጋገር ትክክለኛ ትርጉም ምንድን ነው?",
           "options": [
             "ትዕግሥተኛ፣ ይቅር ባይና ሰፊ አመለካከት ያለው ሰው። (Patient and forgiving person - True idiom meaning)",
-            "ብዙ ምግብ የሚበላ ሰው (Target expression (Amharic))",
-            "የታመመ ሰው (Target expression (Amharic))",
-            "ሆድ የሌለው ሰው (Target expression (Amharic))"
+            "ብዙ ምግብ የሚበላ ሰው) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)",
+            "የታመመ ሰው) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)",
+            "ሆድ የሌለው ሰው) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)"
           ],
           "answerIndex": 0,
           "explanation": "«ሆድ ሰፊ» በትዕግሥትና በይቅር ባይነት የሚታወቅን ሰው የሚያመለክት ታዋቂ ፈሊጥ ነው።"
@@ -10299,9 +10299,9 @@
           "prompt": "'He turned a deaf ear' የሚለውን የአማርኛ ፈሊጥ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጆሮ ዳባ ልበስ አለ። (He turned a deaf ear / ignored - Accurate Amharic idiom)",
-            "ጆሮው ታመመ (Target expression (Amharic))",
-            "በደንብ ሰማ (Target expression (Amharic))",
-            "ጆሮ የለውም (Target expression (Amharic))"
+            "ጆሮው ታመመ) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)",
+            "በደንብ ሰማ) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)",
+            "ጆሮ የለውም) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)"
           ],
           "answerIndex": 0,
           "explanation": "«ጆሮ ዳባ ልበስ አለ» የቀረበለትን ምክር ወይም ጥሪ ችላ የማለት ፈሊጥ ነው።"
@@ -10315,9 +10315,9 @@
           "prompt": "የአማርኛ ፈሊጣዊ አነጋገሮችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሆድ ሰፊ፣ ዐይን አፋር፣ ጆሮ ዳባ ልበስ እና አንገተ ደንዳና። (የመጀመሪያው አማራጭ ዋና ዋና የአማርኛ ፈሊጣዊ አነጋገሮችን በሙሉ ይዟል።) (የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic Expressions & Figures of Speech))",
-            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ። (Target expression (Amharic))",
-            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል። (Target expression (Amharic))",
-            "በአማርኛ ፈሊጣዊ አነጋገር የለም። (Target expression (Amharic))"
+            "ሰኞ፣ ማክሰኞ፣ እሮብ እና ሐሙስ።) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)",
+            "ዳቦ፣ ወተት፣ ስጋ እና እንቁላል።) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)",
+            "በአማርኛ ፈሊጣዊ አነጋገር የለም።) (Context: የልዩ ንግግር ዘይቤዎች እና ፈሊጦች (Idiomatic E)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአማርኛ ፈሊጣዊ አነጋገሮችን በሙሉ ይዟል።"
@@ -10374,9 +10374,9 @@
           "prompt": "«As for me, I finished» የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በመጠቀም በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እኔማ ጨረስኩ። (As for me, I finished - Emphatic particle -ማ)",
-            "እኔ ጨረስኩ (Target expression (Amharic))",
-            "አልጨረስኩም (Target expression (Amharic))",
-            "ስራ የለም (Target expression (Amharic))"
+            "እኔ ጨረስኩ) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)",
+            "አልጨረስኩም) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)",
+            "ስራ የለም) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)"
           ],
           "answerIndex": 0,
           "explanation": "«እኔማ» በርዕሰ-ጉዳዩ ላይ ልዩ አጽንኦት ለመስጠት የሚያገለግል ትክክለኛ አገላለጽ ነው።"
@@ -10389,9 +10389,9 @@
           "prompt": "'What about you?' የሚለውን በአማርኛ አጽንኦት ሰጪ ቅጥያ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አንተስ? / አንቺስ? (What about you? - Contrastive question marker -ስ)",
-            "አንተ ማን ነህ? (Target expression (Amharic))",
-            "የት ነህ? (Target expression (Amharic))",
-            "ስምህ ማን ነው? (Target expression (Amharic))"
+            "አንተ ማን ነህ?) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)",
+            "የት ነህ?) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)",
+            "ስምህ ማን ነው?) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)"
           ],
           "answerIndex": 0,
           "explanation": "«-ስ» ወደ ሌላኛው ተናጋሪ ሀሳቡን ለማዞርና አጽንኦት ለመስጠት የሚያገለግል ቅጥያ ነው።"
@@ -10405,9 +10405,9 @@
           "prompt": "የአማርኛ አጽንኦት ሰጪ ቅጥያዎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "-ማ፣ -ስ፣ -ኮ፣ እንኳ እና እንጂ። (የመጀመሪያው አማራጭ ዋና ዋና የአጽንኦት ቅጥያዎችንና ቃላትን በሙሉ ይዟል።) (የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Markers & Poetic Devices))",
-            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር። (Target expression (Amharic))",
-            "ውሃ፣ ጭማቂ እና ወተት። (Target expression (Amharic))",
-            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም። (Target expression (Amharic))"
+            "ትልቅ፣ ትንሽ፣ ረጅም እና አጭር።) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)",
+            "ውሃ፣ ጭማቂ እና ወተት።) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)",
+            "በአማርኛ አጽንኦት ሰጪ ቅጥያ የለም።) (Context: የአጽንኦት እና የቅኔያዊ ዘይቤዎች (Emphatic Mar)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአጽንኦት ቅጥያዎችንና ቃላትን በሙሉ ይዟል።"
@@ -10464,9 +10464,9 @@
           "prompt": "ከሚከተሉት ውስጥ አሉታዊ መዋቅርን፣ ፈሊጥንና አጽንኦትን ያጣመረው የትኛው ነው?",
           "options": [
             "እሱማ ሆድ ሰፊ ሰው ስለሆነ ማንም አይከፋበትምኮ። (Complete synthesis: emphasis -ማ/-ኮ, idiom ሆድ ሰፊ, negative pronoun/verb ማንም አይከፋበትም)",
-            "ምንም የለም (Target expression (Amharic))",
-            "ሁሉም ቃላት ተራ ናቸው (Target expression (Amharic))",
-            "ፈሊጥ የለም (Target expression (Amharic))"
+            "ምንም የለም) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )",
+            "ሁሉም ቃላት ተራ ናቸው) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )",
+            "ፈሊጥ የለም) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አጽንኦት (-ማ፣ -ኮ)፣ ፈሊጥ (ሆድ ሰፊ) እና አሉታዊ መዋቅርን (ማንም አይከፋበትም) በአንድ ላይ ያጣመረ ነው።"
@@ -10479,9 +10479,9 @@
           "prompt": "ልዩ አሉታዊ ቃላትንና ፈሊጥን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ስለ ጉዳዩ ማንም ምንም አያውቅም፤ ሆኖም ግን ጆሮ ዳባ ልበስ አንበል ። (Nobody knows anything about the matter; however let us not turn a deaf ear - Balanced idiomatic negative sentence)",
-            "ምንም አናውቅም (Target expression (Amharic))",
-            "ጆሮ የለም (Target expression (Amharic))",
-            "ሰው የለም (Target expression (Amharic))"
+            "ምንም አናውቅም) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )",
+            "ጆሮ የለም) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )",
+            "ሰው የለም) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ዓረፍተ ነገር አሉታዊ ተውላጠ ስሞችን (ማንም፣ ምንም) እና ፈሊጥን (ጆሮ ዳባ ልበስ) በትክክል ያዛምዳል።"
@@ -10495,9 +10495,9 @@
           "prompt": "የክፍል 22 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የተለያዩ የጊዜ አሉታዊ ቅርጾች፣ ልዩ አሉታዊ ቃላት (ማንም/ምንም/በፍጹም)፣ ፈሊጣዊ አነጋገሮች (ሆድ ሰፊ/ጆሮ ዳባ ልበስ) እና የአጽንኦት ቅጥያዎች (-ማ/-ስ/-ኮ) ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 22ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand Synthesis & Idiomatic Negative Discourse))",
-            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ አሉታዊ አረፍተ ነገር የለም። (Target expression (Amharic))",
-            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው።) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )",
+            "በአማርኛ አሉታዊ አረፍተ ነገር የለም።) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )",
+            "ሁሉም ፈሊጦች ተመሳሳይ ትርጉም አላቸው።) (Context: የክፍል 22 አጠቃላይ ማጠቃለያ (Unit 22 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 22ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -10554,9 +10554,9 @@
           "prompt": "«Breaking news» የሚለውን በአማርኛ የዜና ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሰበር ዜና (Breaking news - Standard media terminology)",
-            "የድሮ ዜና (Target expression (Amharic))",
-            "ተራ ወሬ (Target expression (Amharic))",
-            "ምንም ዜና የለም (Target expression (Amharic))"
+            "የድሮ ዜና) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)",
+            "ተራ ወሬ) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)",
+            "ምንም ዜና የለም) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)"
           ],
           "answerIndex": 0,
           "explanation": "«ሰበር ዜና» አጣዳፊና ቅጽበታዊ ዜናዎችን ለመግለጽ የሚሠራበት መደበኛ የሚዲያ ቃል ነው።"
@@ -10569,9 +10569,9 @@
           "prompt": "'Live broadcast' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የቀጥታ ስርጭት (Live broadcast - Professional journalism term)",
-            "የቀረጻ ስርጭት (Target expression (Amharic))",
-            "የቆየ ዜና (Target expression (Amharic))",
-            "ስርጭት የለም (Target expression (Amharic))"
+            "የቀረጻ ስርጭት) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)",
+            "የቆየ ዜና) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)",
+            "ስርጭት የለም) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)"
           ],
           "answerIndex": 0,
           "explanation": "«የቀጥታ ስርጭት» በቅጽበት የሚተላለፍ የሚዲያ ፕሮግራምን ያመለክታል።"
@@ -10585,9 +10585,9 @@
           "prompt": "የዜና እና የሚዲያ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሰበር ዜና፣ የቀጥታ ስርጭት፣ አርዕስተ ዜና፣ ዘገባ እና የዜና አውታር። (የመጀመሪያው አማራጭ ዋና ዋና የሚዲያና የጋዜጠኝነት ቃላትን በሙሉ ይዟል።) (የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Reports & Headline Architecture))",
-            "ወተት፣ ማር፣ ዳቦ እና ቅቤ። (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Target expression (Amharic))",
-            "በአማርኛ የሚዲያ ቋንቋ የለም። (Target expression (Amharic))"
+            "ወተት፣ ማር፣ ዳቦ እና ቅቤ።) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ።) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)",
+            "በአማርኛ የሚዲያ ቋንቋ የለም።) (Context: የዜና ዘገባ እና አርዕስተ ዜና አወቃቀር (News Rep)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሚዲያና የጋዜጠኝነት ቃላትን በሙሉ ይዟል።"
@@ -10644,9 +10644,9 @@
           "prompt": "«Diplomatic relations» የሚለውን በአማርኛ ትክክለኛ የዲፕሎማሲ ቃል የያዘው የትኛው ነው?",
           "options": [
             "ዲፕሎማሲያዊ ግንኙነት (Diplomatic relations - Formal diplomatic term)",
-            "የጓደኝነት ወሬ (Target expression (Amharic))",
-            "የመንገድ ንግድ (Target expression (Amharic))",
-            "ምንም ግንኙነት የለም (Target expression (Amharic))"
+            "የጓደኝነት ወሬ) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )",
+            "የመንገድ ንግድ) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )",
+            "ምንም ግንኙነት የለም) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )"
           ],
           "answerIndex": 0,
           "explanation": "«ዲፕሎማሲያዊ ግንኙነት» በሀገራት መካከል ያለውን ይፋዊ ግንኙነት የሚገልጽ ትክክለኛ ቃል ነው።"
@@ -10659,9 +10659,9 @@
           "prompt": "'Bilateral talks' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የሁለትዮሽ ውይይት (Bilateral talks / negotiations - Standard diplomatic phrase)",
-            "የአንድ ወገን ንግግር (Target expression (Amharic))",
-            "ጭቅጭቅ (Target expression (Amharic))",
-            "ዝምታ (Target expression (Amharic))"
+            "የአንድ ወገን ንግግር) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )",
+            "ጭቅጭቅ) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )",
+            "ዝምታ) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )"
           ],
           "answerIndex": 0,
           "explanation": "«የሁለትዮሽ ውይይት» በሁለት ሀገራት ወይም ወገኖች መካከል የሚደረግ ይፋዊ ንግግር ነው።"
@@ -10675,9 +10675,9 @@
           "prompt": "የፖለቲካ እና የዲፕሎማሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ዲፕሎማሲያዊ ግንኙነት፣ አምባሳደር፣ ሉዓላዊነት፣ የሁለትዮሽ ውይይት እና የጋራ ተጠቃሚነት። (የመጀመሪያው አማራጭ ዋና ዋና የዲፕሎማሲና የፖለቲካ ቃላትን በሙሉ ይዟል።) (የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & Diplomatic Statements))",
-            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ። (Target expression (Amharic))",
-            "አውሮፕላን፣ ባቡር እና መኪና። (Target expression (Amharic))",
-            "በአማርኛ የዲፕሎማሲ ቃል የለም። (Target expression (Amharic))"
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና ማጥፊያ።) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )",
+            "አውሮፕላን፣ ባቡር እና መኪና።) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )",
+            "በአማርኛ የዲፕሎማሲ ቃል የለም።) (Context: የፖለቲካ እና የዲፕሎማሲ መግለጫዎች (Politics & )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዲፕሎማሲና የፖለቲካ ቃላትን በሙሉ ይዟል።"
@@ -10734,9 +10734,9 @@
           "prompt": "«Inflation» የሚለውን በአማርኛ ትክክለኛ የኢኮኖሚ ቃል የያዘው የትኛው ነው?",
           "options": [
             "የዋጋ ግሽበት (Inflation - Economic term)",
-            "የዋጋ ቅናሽ (Target expression (Amharic))",
-            "የገበያ ሽያጭ (Target expression (Amharic))",
-            "ምንም የለም (Target expression (Amharic))"
+            "የዋጋ ቅናሽ) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)",
+            "የገበያ ሽያጭ) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)",
+            "ምንም የለም) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)"
           ],
           "answerIndex": 0,
           "explanation": "«የዋጋ ግሽበት» የዕቃዎችና የአገልግሎቶች ዋጋ ያለማቋረጥ መጨመርን የሚገልጽ ትክክለኛ የኢኮኖሚ ቃል ነው።"
@@ -10749,9 +10749,9 @@
           "prompt": "'Foreign exchange / currency' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የውጭ ምንዛሪ (Foreign exchange/currency - Accurate financial term)",
-            "የሀገር ገንዘብ (Target expression (Amharic))",
-            "ብረት ሳንቲም (Target expression (Amharic))",
-            "የብር ኖት (Target expression (Amharic))"
+            "የሀገር ገንዘብ) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)",
+            "ብረት ሳንቲም) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)",
+            "የብር ኖት) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)"
           ],
           "answerIndex": 0,
           "explanation": "«የውጭ ምንዛሪ» የሌሎች ሀገራትን ገንዘብና የገንዘብ ልውውጥን ያመለክታል።"
@@ -10765,9 +10765,9 @@
           "prompt": "የኢኮኖሚና የንግድ ዘገባ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የዋጋ ግሽበት፣ የውጭ ምንዛሪ፣ ኢንቨስትመንት፣ ምርታማነት እና የገበያ መረጋጋት። (የመጀመሪያው አማራጭ ዋና ዋና የኢኮኖሚና የንግድ ቃላትን በሙሉ ይዟል።) (የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic, Business & Market Reports))",
-            "ወንበር፣ ጠረጴዛ እና ሳሎን። (Target expression (Amharic))",
-            "ቢጫ፣ አረንጓዴ እና ጥቁር። (Target expression (Amharic))",
-            "በአማርኛ የኢኮኖሚ ቃል የለም። (Target expression (Amharic))"
+            "ወንበር፣ ጠረጴዛ እና ሳሎን።) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)",
+            "ቢጫ፣ አረንጓዴ እና ጥቁር።) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)",
+            "በአማርኛ የኢኮኖሚ ቃል የለም።) (Context: የኢኮኖሚ፣ የንግድ እና የገበያ ዘገባዎች (Economic)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የኢኮኖሚና የንግድ ቃላትን በሙሉ ይዟል።"
@@ -10824,9 +10824,9 @@
           "prompt": "«Press conference» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጋዜጣዊ መግለጫ (Press conference - Standard media briefing term)",
-            "የግል ንግግር (Target expression (Amharic))",
-            "የስልክ ጥሪ (Target expression (Amharic))",
-            "ምንም መግለጫ የለም (Target expression (Amharic))"
+            "የግል ንግግር) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )",
+            "የስልክ ጥሪ) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )",
+            "ምንም መግለጫ የለም) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )"
           ],
           "answerIndex": 0,
           "explanation": "«ጋዜጣዊ መግለጫ» ለመገናኛ ብዙሃን ባለሙያዎች የሚሰጥ ይፋዊ ማብራሪያ ነው።"
@@ -10839,9 +10839,9 @@
           "prompt": "'Interview' የሚለውን በአማርኛ የጋዜጠኝነት ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ቃለ-መጠይቅ (Interview - Standard journalistic term)",
-            "ውይይት ብቻ (Target expression (Amharic))",
-            "ክርክር (Target expression (Amharic))",
-            "ዝምታ (Target expression (Amharic))"
+            "ውይይት ብቻ) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )",
+            "ክርክር) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )",
+            "ዝምታ) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )"
           ],
           "answerIndex": 0,
           "explanation": "«ቃለ-መጠይቅ» የአንድን ግለሰብ ዕውቀት ወይም አስተያየት በጥያቄና መልስ ለመሰብሰብ የሚደረግ ጋዜጣዊ ስራ ነው።"
@@ -10855,9 +10855,9 @@
           "prompt": "የቃለ-መጠይቅ እና የፕሬስ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ጋዜጣዊ መግለጫ፣ ቃለ-መጠይቅ፣ ጋዜጠኛ፣ ቃል-አቀባይ እና ማስተባበያ። (የመጀመሪያው አማራጭ ዋና ዋና የፕሬስና የቃለ-መጠይቅ ቃላትን በሙሉ ይዟል።) (ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & Press Conferences))",
-            "ሰዓት፣ ደቂቃ እና ሰከንድ። (Target expression (Amharic))",
-            "መጽሐፍ፣ ብዕር እና ወረቀት። (Target expression (Amharic))",
-            "በአማርኛ ቃለ-መጠይቅ አይባልም። (Target expression (Amharic))"
+            "ሰዓት፣ ደቂቃ እና ሰከንድ።) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )",
+            "መጽሐፍ፣ ብዕር እና ወረቀት።) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )",
+            "በአማርኛ ቃለ-መጠይቅ አይባልም።) (Context: ቃለ-መጠይቅ እና የፕሬስ መግለጫ (Interviews & )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የፕሬስና የቃለ-መጠይቅ ቃላትን በሙሉ ይዟል።"
@@ -10914,9 +10914,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሚዲያ ዘገባ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
             "ሰበር ዜና: በጋዜጣዊ መግለጫው የዲፕሎማሲ እና የኢኮኖሚ ስምምነት መፈረሙ ተገለጸ። (Complete media report structure with headlines, diplomatic terms, and press statement)",
-            "ምንም ዜና የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ወሬ ነው (Target expression (Amharic))",
-            "መግለጫ የለም (Target expression (Amharic))"
+            "ምንም ዜና የለም) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )",
+            "ሁሉም ተራ ወሬ ነው) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )",
+            "መግለጫ የለም) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ አርዕስተ ዜናን (ሰበር ዜና)፣ ፕሬስን (ጋዜጣዊ መግለጫ) እና ዲፕሎማሲያዊ ይዘትን በአንድነት ያጣመረ ነው።"
@@ -10929,9 +10929,9 @@
           "prompt": "የኢኮኖሚ እና የሚዲያ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "የኢኮኖሚ ዘገባው የውጭ ምንዛሪ እና የኢንቨስትመንት እድገትን በዝርዝር አብራራ። (The economic report explained foreign exchange and investment growth in detail - Accurate integrated sentence)",
-            "ምንም ዘገባ አልቀረበም (Target expression (Amharic))",
-            "ገንዘብ የለም (Target expression (Amharic))",
-            "ኢንቨስትመንት የለም (Target expression (Amharic))"
+            "ምንም ዘገባ አልቀረበም) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )",
+            "ገንዘብ የለም) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )",
+            "ኢንቨስትመንት የለም) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የሚዲያ ዘገባን እና የኢኮኖሚ ቃላትን በትክክል ያቀናጃል።"
@@ -10945,9 +10945,9 @@
           "prompt": "የክፍል 23 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የዜና ዘገባና አርዕስተ ዜና፣ የፖለቲካና ዲፕሎማሲ መግለጫዎች፣ የኢኮኖሚና ገበያ ቃላት፣ እንዲሁም ቃለ-መጠይቅና ጋዜጣዊ መግለጫ ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 23ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand Synthesis & Complete Journalistic Broadcast))",
-            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም። (Target expression (Amharic))",
-            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው።) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )",
+            "በአማርኛ ጋዜጣዊ መግለጫ አይሰጥም።) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )",
+            "ሁሉም ዜናዎች ተራ አሉባልታ ናቸው።) (Context: የክፍል 23 አጠቃላይ ማጠቃለያ (Unit 23 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 23ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11004,9 +11004,9 @@
           "prompt": "«Subject: / Re:» የሚለውን በአማርኛ ይፋዊ ደብዳቤ አጻጻፍ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጉዳዩ: (Subject / Re: - Official letter header)",
-            "ወሬው: (Target expression (Amharic))",
-            "መልእክቱ: (Target expression (Amharic))",
-            "ምንም ጉዳይ የለም (Target expression (Amharic))"
+            "ወሬው:) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)",
+            "መልእክቱ:) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)",
+            "ምንም ጉዳይ የለም) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)"
           ],
           "answerIndex": 0,
           "explanation": "«ጉዳዩ:» በደብዳቤው ላይ የሚብራራውን ዋና ርዕስ ለማመልከት የሚሠራበት መደበኛ ቃል ነው።"
@@ -11019,9 +11019,9 @@
           "prompt": "'With respectful greetings' የሚለውን የደብዳቤ መዝጊያ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ከአክብሮት ሰላምታ ጋር (With respectful greetings - Formal sign-off)",
-            "ቻው (Target expression (Amharic))",
-            "ደህና ሁን (Target expression (Amharic))",
-            "ሰላም (Target expression (Amharic))"
+            "ቻው) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)",
+            "ደህና ሁን) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)",
+            "ሰላም) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)"
           ],
           "answerIndex": 0,
           "explanation": "«ከአክብሮት ሰላምታ ጋር» በኦፊሴላዊ ደብዳቤ ማጠቃለያ ላይ የሚገባ ህጋዊና ጨዋ አገላለጽ ነው።"
@@ -11035,9 +11035,9 @@
           "prompt": "የይፋዊ ደብዳቤ ዋና ዋና ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ለ...፣ ከ...፣ ቀን፣ ጉዳዩ፣ ክቡር/የተከበሩ እና ከአክብሮት ሰላምታ ጋር። (የመጀመሪያው አማራጭ የመደበኛ አስተዳደራዊ ደብዳቤ ክፍሎችን በሙሉ ይዟል።) (የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Official Letter Formats & Headers))",
-            "ጨው፣ በርበሬ እና ዘይት። (Target expression (Amharic))",
-            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ። (Target expression (Amharic))",
-            "በአማርኛ የደብዳቤ ቅርፅ የለም። (Target expression (Amharic))"
+            "ጨው፣ በርበሬ እና ዘይት።) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)",
+            "እግር ኳስ፣ መረብ ኳስ እና ቅርጫት ኳስ።) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)",
+            "በአማርኛ የደብዳቤ ቅርፅ የለም።) (Context: የመንግሥትና የድርጅት ደብዳቤ ቅርፅ እና አርዕስት (Of)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመደበኛ አስተዳደራዊ ደብዳቤ ክፍሎችን በሙሉ ይዟል።"
@@ -11094,9 +11094,9 @@
           "prompt": "«Application» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ማመልከቻ (Application - Formal administrative term)",
-            "የግል ታሪክ (Target expression (Amharic))",
-            "ስዕል (Target expression (Amharic))",
-            "ምንም አይደለም (Target expression (Amharic))"
+            "የግል ታሪክ) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)",
+            "ስዕል) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)",
+            "ምንም አይደለም) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)"
           ],
           "answerIndex": 0,
           "explanation": "«ማመልከቻ» ለአንድ መስሪያ ቤት ወይም ድርጅት በይፋ የሚቀርብ የጥያቄ ሰነድ ነው።"
@@ -11109,9 +11109,9 @@
           "prompt": "'Educational credentials' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የትምህርት ማስረጃ (Educational credentials / certificate)",
-            "የቤት እቃ (Target expression (Amharic))",
-            "የመኪና ቁልፍ (Target expression (Amharic))",
-            "ገንዘብ (Target expression (Amharic))"
+            "የቤት እቃ) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)",
+            "የመኪና ቁልፍ) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)",
+            "ገንዘብ) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)"
           ],
           "answerIndex": 0,
           "explanation": "«የትምህርት ማስረጃ» የትምህርት ደረጃን የሚያረጋግጥ ይፋዊ ሰነድ ነው።"
@@ -11125,9 +11125,9 @@
           "prompt": "የማመልከቻ እና የጥያቄ ደብዳቤ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አመልካች፣ ማመልከቻ፣ የትምህርት ማስረጃ፣ የስራ ልምድ እና አቤቱታ። (የመጀመሪያው አማራጭ የማመልከቻ ደብዳቤ ዋና ዋና ቃላትን በሙሉ ያካትታል።) (የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications, Petitions & Requests))",
-            "ስኳር፣ ጨው፣ ሻይ እና ቡና። (Target expression (Amharic))",
-            "ሰማያዊ፣ ቀይ እና ጥቁር። (Target expression (Amharic))",
-            "በአማርኛ ማመልከቻ አይጻፍም። (Target expression (Amharic))"
+            "ስኳር፣ ጨው፣ ሻይ እና ቡና።) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)",
+            "ሰማያዊ፣ ቀይ እና ጥቁር።) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)",
+            "በአማርኛ ማመልከቻ አይጻፍም።) (Context: የማመልከቻ እና የጥያቄ ደብዳቤዎች (Applications)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የማመልከቻ ደብዳቤ ዋና ዋና ቃላትን በሙሉ ያካትታል።"
@@ -11184,9 +11184,9 @@
           "prompt": "«Contract agreement» የሚለውን በአማርኛ አስተዳደራዊ እና ህጋዊ ቃል በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የውል ስምምነት (Contract agreement - Formal legal and administrative term)",
-            "የቃል ወሬ (Target expression (Amharic))",
-            "የጨዋታ ህግ (Target expression (Amharic))",
-            "ምንም ውል የለም (Target expression (Amharic))"
+            "የቃል ወሬ) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)",
+            "የጨዋታ ህግ) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)",
+            "ምንም ውል የለም) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)"
           ],
           "answerIndex": 0,
           "explanation": "«የውል ስምምነት» በሁለት ወገኖች መካከል መብትና ግዴታን የሚደነግግ ይፋዊ የህግ ሰነድ ነው።"
@@ -11199,9 +11199,9 @@
           "prompt": "'Contracting parties' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ተዋዋይ ወገኖች (Contracting parties - Accurate legal terminology)",
-            "ተመልካቾች (Target expression (Amharic))",
-            "እንግዶች (Target expression (Amharic))",
-            "መንገደኞች (Target expression (Amharic))"
+            "ተመልካቾች) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)",
+            "እንግዶች) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)",
+            "መንገደኞች) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)"
           ],
           "answerIndex": 0,
           "explanation": "«ተዋዋይ ወገኖች» ውሉን የተፈራረሙትን አካላት የሚያመለክት መደበኛ የህግ ቃል ነው።"
@@ -11215,9 +11215,9 @@
           "prompt": "የውል እና የስምምነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የውል ስምምነት፣ ተዋዋይ ወገኖች፣ ግዴታ፣ የአስተዳደር መመሪያ እና ፊርማ። (የመጀመሪያው አማራጭ ዋና ዋና የውልና የአስተዳደር መመሪያ ቃላትን በሙሉ ይዟል።) (የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contracts, Agreements & Directives))",
-            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ። (Target expression (Amharic))",
-            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ። (Target expression (Amharic))",
-            "በአማርኛ የውል ሰነድ የለም። (Target expression (Amharic))"
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ሸሚዝ።) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)",
+            "ወንዝ፣ ተራራ፣ ሸለቆ እና ሜዳ።) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)",
+            "በአማርኛ የውል ሰነድ የለም።) (Context: የውል፣ የስምምነት እና የመመሪያ ሰነዶች (Contract)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የውልና የአስተዳደር መመሪያ ቃላትን በሙሉ ይዟል።"
@@ -11274,9 +11274,9 @@
           "prompt": "«Minutes of meeting» የሚለውን በአማርኛ አስተዳደራዊ ቋንቋ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ቃለ-ጉባኤ (Minutes of meeting - Administrative record term)",
-            "የስብሰባ ወሬ (Target expression (Amharic))",
-            "የአዳራሽ ቁልፍ (Target expression (Amharic))",
-            "ምንም ሰነድ የለም (Target expression (Amharic))"
+            "የስብሰባ ወሬ) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)",
+            "የአዳራሽ ቁልፍ) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)",
+            "ምንም ሰነድ የለም) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)"
           ],
           "answerIndex": 0,
           "explanation": "«ቃለ-ጉባኤ» በስብሰባ ወቅት የተነሱትን ነጥቦችና የተላለፉትን ውሳኔዎች በጽሁፍ የሚያሰፍር ይፋዊ ሰነድ ነው።"
@@ -11289,9 +11289,9 @@
           "prompt": "'Agenda' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አጀንዳ (Agenda - Standard meeting topic list)",
-            "የስብሰባ ሰዓት ብቻ (Target expression (Amharic))",
-            "ምሳ (Target expression (Amharic))",
-            "እረፍት (Target expression (Amharic))"
+            "የስብሰባ ሰዓት ብቻ) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)",
+            "ምሳ) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)",
+            "እረፍት) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)"
           ],
           "answerIndex": 0,
           "explanation": "«አጀንዳ» በስብሰባው ላይ የሚወያዩባቸውን ርዕሰ ጉዳዮች ዝርዝር ያመለክታል።"
@@ -11305,9 +11305,9 @@
           "prompt": "የስብሰባ ቃለ-ጉባኤ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አጀንዳ፣ ሰብሳቢ፣ ጸሐፊ፣ ተሰብሳቢዎች፣ ቃለ-ጉባኤ እና ውሳኔ። (የመጀመሪያው አማራጭ የስብሰባ አስተዳደራዊ ሰነድ ክፍሎችን በሙሉ ይዟል።) (የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meeting Minutes & Administrative Reports))",
-            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ። (Target expression (Amharic))",
-            "ወንበር፣ ጠረጴዛ እና ሰሌዳ። (Target expression (Amharic))",
-            "በአማርኛ ቃለ-ጉባኤ አይጻፍም። (Target expression (Amharic))"
+            "ብርቱካን፣ ሎሚ፣ ማንጎ እና ሙዝ።) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)",
+            "ወንበር፣ ጠረጴዛ እና ሰሌዳ።) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)",
+            "በአማርኛ ቃለ-ጉባኤ አይጻፍም።) (Context: የስብሰባ ቃለ-ጉባኤ እና ሪፖርት አዘገጃጀት (Meetin)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስብሰባ አስተዳደራዊ ሰነድ ክፍሎችን በሙሉ ይዟል።"
@@ -11365,9 +11365,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ አስተዳደራዊ ሰነድ አወቃቀር የያዘው የትኛው ነው?",
           "options": [
             "ጉዳዩ: የስብሰባ ቃለ-ጉባኤ ውሳኔን እና የውል ስምምነት መመሪያን ማጽደቅ። (Complete administrative document header combining minutes resolutions and contract directives)",
-            "ምንም ሰነድ የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ወረቀት ነው (Target expression (Amharic))",
-            "ማመልከቻ የለም (Target expression (Amharic))"
+            "ምንም ሰነድ የለም) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )",
+            "ሁሉም ተራ ወረቀት ነው) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )",
+            "ማመልከቻ የለም) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የደብዳቤ ርዕስን (ጉዳዩ)፣ ቃለ-ጉባኤን እና የውል መመሪያን በአግባቡ ያጣመረ ነው።"
@@ -11380,9 +11380,9 @@
           "prompt": "የማመልከቻ እና የውል ስምምነት ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "አመልካቹ የውል ስምምነቱን ግዴታዎች አሟልቶ ማመልከቻውን አስገባ። (The applicant fulfilled contract agreement obligations and submitted his application - Cohesive administrative sentence)",
-            "ምንም ማመልከቻ አልገባም (Target expression (Amharic))",
-            "ውል የለም (Target expression (Amharic))",
-            "ሰው የለም (Target expression (Amharic))"
+            "ምንም ማመልከቻ አልገባም) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )",
+            "ውል የለም) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )",
+            "ሰው የለም) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የማመልከቻ እና የውል ቃላትን በትክክል ያቀናጃል።"
@@ -11396,9 +11396,9 @@
           "prompt": "የክፍል 24 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የመንግሥትና የድርጅት ደብዳቤ ቅርፅ፣ የማመልከቻ አጻጻፍ፣ የውልና ስምምነት ሰነዶች፣ እንዲሁም የስብሰባ ቃለ-ጉባኤ እና ሪፖርት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 24ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand Synthesis & Administrative Office Correspondence))",
-            "ይህ ክፍል ስለ ስፖርት ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም። (Target expression (Amharic))",
-            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ስፖርት ብቻ ነው።) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )",
+            "በአማርኛ ይፋዊ ደብዳቤ አይጻፍም።) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )",
+            "ሁሉም ሰነዶች ተመሳሳይ ቅርፅ አላቸው።) (Context: የክፍል 24 አጠቃላይ ማጠቃለያ (Unit 24 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 24ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11455,9 +11455,9 @@
           "prompt": "«ፍቅር እስከ መቃብር» የተሰኘውን ድንቅ ልቦለድ የጻፉት አንጋፋ ደራሲ ማን ናቸው?",
           "options": [
             "ሐዲስ ዓለማየሁ (Haddis Alemayehu - Author of Fikir Iske Meqabir)",
-            "ከበደ ሚካኤል (Target expression (Amharic))",
-            "በዓሉ ግርማ (Target expression (Amharic))",
-            "ጸጋዬ ገብረመድህን (Target expression (Amharic))"
+            "ከበደ ሚካኤል) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)",
+            "በዓሉ ግርማ) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)",
+            "ጸጋዬ ገብረመድህን) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍቅር እስከ መቃብር» በታዋቂው ደራሲ ሐዲስ ዓለማየሁ የተደረሰ ድንቅ የልቦለድ ስራ ነው።"
@@ -11470,9 +11470,9 @@
           "prompt": "'Novel' የሚለውን የስነ-ጽሑፍ ዘውግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ልቦለድ (Novel - Literary prose genre)",
-            "ግጥም (Target expression (Amharic))",
-            "ዜና (Target expression (Amharic))",
-            "ደብዳቤ (Target expression (Amharic))"
+            "ግጥም) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)",
+            "ዜና) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)",
+            "ደብዳቤ) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)"
           ],
           "answerIndex": 0,
           "explanation": "«ልቦለድ» ረጅም ልብወለዳዊ ታሪክን የሚያቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
@@ -11486,9 +11486,9 @@
           "prompt": "የአማርኛ ስነ-ጽሑፍ ዘውጎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ስነ-ጽሑፍ፣ ልቦለድ፣ አጭር ልቦለድ፣ ድርሰት፣ ተውኔት እና ደራሲ። (የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ዘውጎችንና ቃላትን በሙሉ ይዟል።) (የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (History of Amharic Literature & Prominent Authors))",
-            "ወተት፣ ቅቤ፣ አይብ እና እርጎ። (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና እሮብ። (Target expression (Amharic))",
-            "በአማርኛ ስነ-ጽሑፍ የለም። (Target expression (Amharic))"
+            "ወተት፣ ቅቤ፣ አይብ እና እርጎ።) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ።) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)",
+            "በአማርኛ ስነ-ጽሑፍ የለም።) (Context: የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (His)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ዘውጎችንና ቃላትን በሙሉ ይዟል።"
@@ -11546,9 +11546,9 @@
           "prompt": "በአማርኛ ግጥም ውስጥ በስንኞች መጨረሻ ላይ የሚገኝ ተነባቢ ድምፅ ወይም ፊደል ምን ይባላል?",
           "options": [
             "ቤት መምቻ (Rhyme scheme / 'Bet Memcha' - Traditional poetic rhyme rule)",
-            "አርዕስት (Target expression (Amharic))",
-            "ደብዳቤ (Target expression (Amharic))",
-            "ስምምነት (Target expression (Amharic))"
+            "አርዕስት) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)",
+            "ደብዳቤ) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)",
+            "ስምምነት) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)"
           ],
           "answerIndex": 0,
           "explanation": "«ቤት መምቻ» የግጥሙን ስንኞች በተመሳሳይ ፊደል ወይም ድምፅ የማሳረጊያ ሰዋሰዋዊ እና ቅኔያዊ ስም ነው።"
@@ -11561,9 +11561,9 @@
           "prompt": "'Poet' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ገጣሚ (Poet - Creator of poetry / verses)",
-            "ነጋዴ (Target expression (Amharic))",
-            "አሽከርካሪ (Target expression (Amharic))",
-            "ገበሬ (Target expression (Amharic))"
+            "ነጋዴ) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)",
+            "አሽከርካሪ) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)",
+            "ገበሬ) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)"
           ],
           "answerIndex": 0,
           "explanation": "«ገጣሚ» ግጥሞችን የሚጽፍ ወይም የሚያንጎራጉር ባለሙያ ነው።"
@@ -11577,9 +11577,9 @@
           "prompt": "የግጥም ቅርፅ እና የዜማ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ስንኝ፣ ሀረግ፣ ቤት መምቻ፣ ዜማ፣ ምት እና ገጣሚ። (የመጀመሪያው አማራጭ ዋና ዋና የግጥም ክፍሎችንና የቤት መምቻ ቃላትን በሙሉ ይዟል።) (የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic Form, Stanza & Rhyme / 'Bet Memcha'))",
-            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ወንበር እና በር። (Target expression (Amharic))",
-            "በአማርኛ ግጥም የለም። (Target expression (Amharic))"
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ።) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)",
+            "ጠረጴዛ፣ ወንበር እና በር።) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)",
+            "በአማርኛ ግጥም የለም።) (Context: የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የግጥም ክፍሎችንና የቤት መምቻ ቃላትን በሙሉ ይዟል።"
@@ -11636,9 +11636,9 @@
           "prompt": "በሰምና ወርቅ ቅኔ ውስጥ «ወርቅ» የሚባለው የትኛው ነው?",
           "options": [
             "በውስጥ የተደበቀው እውነተኛ እና ጥልቅ ምስጢር (The hidden golden truth and core secret - True meaning of Worq)",
-            "የላይኛው ግልጽ ትርጉም (Target expression (Amharic))",
-            "የሚሸጥ ጌጥ (Target expression (Amharic))",
-            "የወረቀት ቀለም (Target expression (Amharic))"
+            "የላይኛው ግልጽ ትርጉም) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
+            "የሚሸጥ ጌጥ) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
+            "የወረቀት ቀለም) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)"
           ],
           "answerIndex": 0,
           "explanation": "በቅኔ ፍልስፍና «ወርቅ» የሚባለው በግጥሙ ውስጥ ተሸፍኖ የተቀመጠው እውነተኛው እና ጥልቁ መልእክት ነው።"
@@ -11651,9 +11651,9 @@
           "prompt": "በሰምና ወርቅ ውስጥ ሁለቱንም ትርጉሞች የያዘው ቁልፍ ቃል ምን ይባላል?",
           "options": [
             "ህብር (Pivot word / connector of wax and gold)",
-            "ሰም ብቻ (Target expression (Amharic))",
-            "ርዕስ (Target expression (Amharic))",
-            "ማጠቃለያ (Target expression (Amharic))"
+            "ሰም ብቻ) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
+            "ርዕስ) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
+            "ማጠቃለያ) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)"
           ],
           "answerIndex": 0,
           "explanation": "«ህብር» ሰሙንና ወርቁን በአንድነት አጣምሮ የያዘ ባለሁለት አቅጣጫ ቃል ነው።"
@@ -11667,9 +11667,9 @@
           "prompt": "የሰምና ወርቅ የቅኔ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ምስጢር እና ፈሊጥ። (የመጀመሪያው አማራጭ የሰምና ወርቅን መሰረታዊ ጽንሰ-ሀሳቦች በሙሉ ይዟል።) (የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
-            "ጠመኔ፣ ሰሌዳ፣ እርሳስ እና ደብተር። (Target expression (Amharic))",
-            "ሰማይ፣ ምድር፣ ጨረቃ እና ፀሐይ። (Target expression (Amharic))",
-            "በአማርኛ ቅኔ የለም። (Target expression (Amharic))"
+            "ጠመኔ፣ ሰሌዳ፣ እርሳስ እና ደብተር።) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
+            "ሰማይ፣ ምድር፣ ጨረቃ እና ፀሐይ።) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)",
+            "በአማርኛ ቅኔ የለም።) (Context: የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰምና ወርቅን መሰረታዊ ጽንሰ-ሀሳቦች በሙሉ ይዟል።"
@@ -11726,9 +11726,9 @@
           "prompt": "«Plot» የሚለውን የልቦለድ አወቃቀር ክፍል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሴራ (Plot - Sequence and arrangement of events in fiction)",
-            "መቼት (Target expression (Amharic))",
-            "ጭብጥ (Target expression (Amharic))",
-            "ገጸ-ባህሪ (Target expression (Amharic))"
+            "መቼት) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)",
+            "ጭብጥ) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)",
+            "ገጸ-ባህሪ) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)"
           ],
           "answerIndex": 0,
           "explanation": "«ሴራ» በልቦለድ ውስጥ የክስተቶችን ቅደም ተከተልና ትስስር የሚያመለክት የስነ-ጽሑፍ ቃል ነው።"
@@ -11741,9 +11741,9 @@
           "prompt": "'Theme' የሚለውን የስነ-ጽሑፍ ዋና ሀሳብ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ጭብጥ (Theme - Central idea or underlying meaning)",
-            "ስም (Target expression (Amharic))",
-            "ቀን (Target expression (Amharic))",
-            "ቦታ (Target expression (Amharic))"
+            "ስም) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)",
+            "ቀን) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)",
+            "ቦታ) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)"
           ],
           "answerIndex": 0,
           "explanation": "«ጭብጥ» የድርሰቱ ዋና መልእክትና ማጠንጠኛ ሀሳብ ነው።"
@@ -11757,9 +11757,9 @@
           "prompt": "የስነ-ጽሑፍ ትችት እና የልቦለድ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ጭብጥ፣ ሴራ፣ ገጸ-ባህሪ፣ መቼት፣ ግጭት እና የስነ-ጽሑፍ ትችት። (የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ትንተና ክፍሎችን በሙሉ ይዟል።) (የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literary Criticism & Character Analysis))",
-            "ዳቦ፣ ስጋ፣ እንቁላል እና ወተት። (Target expression (Amharic))",
-            "ጫማ፣ ኮት እና ቆብ። (Target expression (Amharic))",
-            "በአማርኛ የስነ-ጽሑፍ ትችት የለም። (Target expression (Amharic))"
+            "ዳቦ፣ ስጋ፣ እንቁላል እና ወተት።) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)",
+            "ጫማ፣ ኮት እና ቆብ።) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)",
+            "በአማርኛ የስነ-ጽሑፍ ትችት የለም።) (Context: የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literar)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ትንተና ክፍሎችን በሙሉ ይዟል።"
@@ -11816,9 +11816,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የስነ-ጽሑፍና የቅኔ ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የአማርኛ ስነ-ጽሑፍ በልቦለድ፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ምስጢር የጎለበተ ነው። (Complete literary synthesis combining novels, rhyme, and wax & gold poetry)",
-            "ምንም ስነ-ጽሑፍ የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ግጥም የለም (Target expression (Amharic))"
+            "ምንም ስነ-ጽሑፍ የለም) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )",
+            "ግጥም የለም) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ልቦለድን፣ የግጥም ስነ-ስርዓትን እና የሰምና ወርቅን በአንድነት ያጠቃለለ ነው።"
@@ -11831,9 +11831,9 @@
           "prompt": "የስነ-ጽሑፍ ትችት እና የቅኔ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ተቺው በስነ-ጽሑፍ ትንተናው ወቅት የቅኔውን ሰም እና ወርቅ በዝርዝር አብራራ። (The critic explained the wax and gold of the poem in detail during literary analysis - Accurate unified sentence)",
-            "ምንም ትችት አልቀረበም (Target expression (Amharic))",
-            "ቅኔ የለም (Target expression (Amharic))",
-            "ወርቅ የለም (Target expression (Amharic))"
+            "ምንም ትችት አልቀረበም) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )",
+            "ቅኔ የለም) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )",
+            "ወርቅ የለም) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የስነ-ጽሑፍ ትችትን እና የቅኔ ፍልስፍናን በትክክል ያዛምዳል።"
@@ -11847,9 +11847,9 @@
           "prompt": "የክፍል 25 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የአማርኛ ስነ-ጽሑፍ ታሪክና ደራስያን፣ የግጥም ቅርፅና ቤት መምቻ፣ የሰምና ወርቅ ቅኔያዊ ምስጢር፣ እንዲሁም የስነ-ጽሑፍ ትችት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 25ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand Synthesis & Classical Literary Discourse))",
-            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ልቦለድ አይጻፍም። (Target expression (Amharic))",
-            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው።) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )",
+            "በአማርኛ ልቦለድ አይጻፍም።) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )",
+            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም።) (Context: የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 25ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -11909,9 +11909,9 @@
           "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን «ሐተታ» የተሰኘውን የምክንያታዊ ፍልስፍና መጽሐፍ የጻፉት ኢትዮጵያዊ ፈላስፋ ማን ናቸው?",
           "options": [
             "ዘርአ ያዕቆብ (Zera Yacob - 17th-century rationalist philosopher)",
-            "ከበደ ሚካኤል (Target expression (Amharic))",
-            "ሐዲስ ዓለማየሁ (Target expression (Amharic))",
-            "በዓሉ ግርማ (Target expression (Amharic))"
+            "ከበደ ሚካኤል) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)",
+            "ሐዲስ ዓለማየሁ) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)",
+            "በዓሉ ግርማ) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)"
           ],
           "answerIndex": 0,
           "explanation": "«ሐተታ» የተሰኘውን ታላቅ ምክንያታዊ የፍልስፍና ድርሰት ያበረከቱት ፈላስፋው ዘርአ ያዕቆብ ናቸው።"
@@ -11924,9 +11924,9 @@
           "prompt": "'Reason, rationale' የሚለውን የፍልስፍና ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ምክንያት (Reason, rationality - Core foundation of philosophy)",
-            "ስሜት (Target expression (Amharic))",
-            "እንቅልፍ (Target expression (Amharic))",
-            "ምግብ (Target expression (Amharic))"
+            "ስሜት) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)",
+            "እንቅልፍ) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)",
+            "ምግብ) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)"
           ],
           "answerIndex": 0,
           "explanation": "«ምክንያት» የማሰብ፣ የማመዛዘን እና እውነትን የመመርመር አእምሯዊ አቅም ነው።"
@@ -11940,9 +11940,9 @@
           "prompt": "የሐተታ ዘርአ ያዕቆብን ፍልስፍናዊ ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሐተታ፣ ዘርአ ያዕቆብ፣ ምክንያት፣ እውነት፣ ማስተዋል እና የልብ ብርሃን። (የመጀመሪያው አማራጭ የዘርአ ያዕቆብን ምክንያታዊ የፍልስፍና ቃላት በሙሉ ይዟል።) (የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hateta Zera Yacob & Rational Inquiry))",
-            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (Target expression (Amharic))",
-            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Target expression (Amharic))",
-            "በኢትዮጵያ ፍልስፍና የለም። (Target expression (Amharic))"
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት።) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር።) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)",
+            "በኢትዮጵያ ፍልስፍና የለም።) (Context: የሐተታ ዘርአ ያዕቆብ እና ምክንያታዊ ምርምር (Hatet)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘርአ ያዕቆብን ምክንያታዊ የፍልስፍና ቃላት በሙሉ ይዟል።"
@@ -12000,9 +12000,9 @@
           "prompt": "የዘርአ ያዕቆብ ደቀ-መዝሙር የነበሩትና በስነ-ምግባር ዙሪያ የጻፉት ፈላስፋ ማን ናቸው?",
           "options": [
             "ወልደ ህይወት (Walda Heywat - Philosopher of practical ethics and social duty)",
-            "ከበደ ሚካኤል (Target expression (Amharic))",
-            "አፈወርቅ ገብረኢየሱስ (Target expression (Amharic))",
-            "ሎሬት ጸጋዬ (Target expression (Amharic))"
+            "ከበደ ሚካኤል) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()",
+            "አፈወርቅ ገብረኢየሱስ) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()",
+            "ሎሬት ጸጋዬ) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()"
           ],
           "answerIndex": 0,
           "explanation": "ወልደ ህይወት የዘርአ ያዕቆብ ደቀ-መዝሙር ሲሆኑ በማህበራዊ ስነ-ምግባር ዙሪያ ጥልቅ ሐተታ ጽፈዋል።"
@@ -12015,9 +12015,9 @@
           "prompt": "'Ethics, morality' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስነ-ምግባር (Ethics, moral principles)",
-            "ስነ-ጥበብ (Target expression (Amharic))",
-            "ስነ-ህይወት (Target expression (Amharic))",
-            "ስነ-ምድር (Target expression (Amharic))"
+            "ስነ-ጥበብ) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()",
+            "ስነ-ህይወት) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()",
+            "ስነ-ምድር) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ምግባር» የሰዎችን መልካም ባህሪ፣ ግዴታ እና ሞራላዊ መርሆዎች የሚያጠና የፍልስፍና ዘርፍ ነው።"
@@ -12031,9 +12031,9 @@
           "prompt": "የወልደ ህይወትን የስነ-ምግባር ፍልስፍና ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ወልደ ህይወት፣ ስነ-ምግባር፣ የስራ ክብር፣ ፍትህ፣ ቅንነት እና እኩልነት። (የመጀመሪያው አማራጭ የወልደ ህይወትን የስነ-ምግባር ፍልስፍናዊ ቃላት በሙሉ ይዟል።) (የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት (Philosophy of Walda Heywat & Practical Ethics))",
-            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (Target expression (Amharic))",
-            "ሰዓት፣ ቀን፣ ወር እና አመት። (Target expression (Amharic))",
-            "በአማርኛ ስነ-ምግባር የለም። (Target expression (Amharic))"
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ።) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()",
+            "ሰዓት፣ ቀን፣ ወር እና አመት።) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()",
+            "በአማርኛ ስነ-ምግባር የለም።) (Context: የወልደ ህይወት ፍልስፍና እና የስነ-ምግባር ትምህርት ()"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የወልደ ህይወትን የስነ-ምግባር ፍልስፍናዊ ቃላት በሙሉ ይዟል።"
@@ -12093,9 +12093,9 @@
           "prompt": "«Logic» የሚለውን የፍልስፍና ዘርፍ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስነ-አመክንዮ (Logic - Study of reasoning and valid argument)",
-            "ስነ-ህዋ (Target expression (Amharic))",
-            "ስነ-ልሳን (Target expression (Amharic))",
-            "ስነ-ዜማ (Target expression (Amharic))"
+            "ስነ-ህዋ) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)",
+            "ስነ-ልሳን) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)",
+            "ስነ-ዜማ) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-አመክንዮ» ትክክለኛውን የማመዛዘን እና የሙግት ስርዓት የሚያጠና የፍልስፍና ዘርፍ ነው።"
@@ -12108,9 +12108,9 @@
           "prompt": "በአመክንዮአዊ ሙግት መጨረሻ ላይ የሚደረስበት ውጤት ምን ይባላል?",
           "options": [
             "መደምደሚያ (Conclusion - Final deduction / result of reasoning)",
-            "መነሻ ብቻ (Target expression (Amharic))",
-            "ስም (Target expression (Amharic))",
-            "ቀን (Target expression (Amharic))"
+            "መነሻ ብቻ) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)",
+            "ስም) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)",
+            "ቀን) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)"
           ],
           "answerIndex": 0,
           "explanation": "«መደምደሚያ» ከመነሻ ሀሳቦች ተነስቶ በአመክንዮ የሚደረስበት የመጨረሻ ውሳኔ ወይም ሀሳብ ነው።"
@@ -12124,9 +12124,9 @@
           "prompt": "የስነ-አመክንዮ እና የዕውቀት ፍልስፍና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ስነ-አመክንዮ፣ መነሻ ሀሳብ፣ መደምደሚያ፣ ሙግት፣ ማመዛዘን እና እውነት። (የመጀመሪያው አማራጭ የስነ-አመክንዮ መሰረታዊ ቃላትን በሙሉ ይዟል።) (የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epistemology & Foundations of Logic))",
-            "ጫማ፣ ሱሪ፣ ሸሚዝ እና ጃኬት። (Target expression (Amharic))",
-            "ዝናብ፣ በረዶ፣ ንፋስ እና ፀሐይ። (Target expression (Amharic))",
-            "በአማርኛ ስነ-አመክንዮ የለም። (Target expression (Amharic))"
+            "ጫማ፣ ሱሪ፣ ሸሚዝ እና ጃኬት።) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)",
+            "ዝናብ፣ በረዶ፣ ንፋስ እና ፀሐይ።) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)",
+            "በአማርኛ ስነ-አመክንዮ የለም።) (Context: የዕውቀት ፍልስፍና እና የስነ-አመክንዮ መሰረቶች (Epi)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-አመክንዮ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12186,9 +12186,9 @@
           "prompt": "በሰው ልጅ ልብ ውስጥ ሆኖ መልካሙን ከክፉው የሚለየው ውስጣዊ ዳኛ ምን ይባላል?",
           "options": [
             "ህሊና (Conscience - Inner judge of moral right and wrong)",
-            "ፍርሃት (Target expression (Amharic))",
-            "ንዴት (Target expression (Amharic))",
-            "ሀብት (Target expression (Amharic))"
+            "ፍርሃት) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)",
+            "ንዴት) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)",
+            "ሀብት) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)"
           ],
           "answerIndex": 0,
           "explanation": "«ህሊና» መልካሙንና ክፉውን የሚመዝን እና ሞራላዊ ውሳኔን የሚመራ ውስጣዊ ዳኛ ነው።"
@@ -12201,9 +12201,9 @@
           "prompt": "'Free will' የሚለውን ፍልስፍናዊ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ነፃ ፈቃድ (Free will - Moral agency and autonomy)",
-            "ግዴታ ብቻ (Target expression (Amharic))",
-            "ውሸት (Target expression (Amharic))",
-            "አደጋ (Target expression (Amharic))"
+            "ግዴታ ብቻ) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)",
+            "ውሸት) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)",
+            "አደጋ) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)"
           ],
           "answerIndex": 0,
           "explanation": "«ነፃ ፈቃድ» የሰው ልጅ የራሱን ምርጫ በነጻነት የመወሰን ፍልስፍናዊ እና ህሊናዊ አቅም ነው።"
@@ -12217,9 +12217,9 @@
           "prompt": "የህሊና እና የተፈጥሮ ህግ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ህሊና፣ የተፈጥሮ ህግ፣ ነፃ ፈቃድ፣ እኩልነት፣ ሰብአዊ ክብር እና ፍትህ። (የመጀመሪያው አማራጭ የህሊና እና የተፈጥሮ ህግጋት መሰረታዊ ቃላትን በሙሉ ይዟል።) (የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Conscience & Natural Law))",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር። (Target expression (Amharic))",
-            "ሰሌዳ፣ ጠመኔ እና ወንበር። (Target expression (Amharic))",
-            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም። (Target expression (Amharic))"
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ደብተር።) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)",
+            "ሰሌዳ፣ ጠመኔ እና ወንበር።) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)",
+            "በአማርኛ የህሊና ጽንሰ-ሀሳብ የለም።) (Context: የሰው ልጅ ህሊና እና የተፈጥሮ ህግጋት (Human Con)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የህሊና እና የተፈጥሮ ህግጋት መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12277,9 +12277,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ፍልስፍና በዘርአ ያዕቆብ ምክንያታዊነት፣ በወልደ ህይወት ስነ-ምግባር እና በህሊና ፍርድ የጎለበተ ነው። (Complete philosophical synthesis combining rationality, ethics, and conscience)",
-            "ምንም ፍልስፍና የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ምክንያት የለም (Target expression (Amharic))"
+            "ምንም ፍልስፍና የለም) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )",
+            "ምክንያት የለም) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የዘርአ ያዕቆብን፣ የወልደ ህይወትንና የህሊናን ፍልስፍና በአንድነት ያጠቃለለ ነው።"
@@ -12292,9 +12292,9 @@
           "prompt": "ምክንያታዊነትን እና ስነ-ምግባርን ያጣመረ ትክክለኛ ፍልስፍናዊ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ፈላስፋው እውነትን በምክንያት በመመርመር መልካም ስነ-ምግባርን እና ፍትህን አብራራ። (The philosopher investigated truth through reason and explained ethics and justice - Accurate unified sentence)",
-            "ምንም ማብራሪያ አልተሰጠም (Target expression (Amharic))",
-            "ስነ-ምግባር የለም (Target expression (Amharic))",
-            "ፍትህ የለም (Target expression (Amharic))"
+            "ምንም ማብራሪያ አልተሰጠም) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )",
+            "ስነ-ምግባር የለም) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )",
+            "ፍትህ የለም) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ምክንያታዊ ምርምርን እና የስነ-ምግባር ፍልስፍናን በትክክል ያዛምዳል።"
@@ -12308,9 +12308,9 @@
           "prompt": "የክፍል 26 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የሐተታ ዘርአ ያዕቆብ ምክንያታዊነት፣ የወልደ ህይወት ስነ-ምግባር፣ የስነ-አመክንዮ መሰረቶች፣ እንዲሁም የህሊና እና የተፈጥሮ ህግጋት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 26ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand Synthesis & Ethiopian Rational Philosophy))",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Target expression (Amharic))",
-            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም። (Target expression (Amharic))",
-            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )",
+            "በኢትዮጵያ ምክንያታዊ ፍልስፍና አልነበረም።) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )",
+            "ሁሉም ሰዎች ተመሳሳይ ህሊና የላቸውም።) (Context: የክፍል 26 አጠቃላይ ማጠቃለያ (Unit 26 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 26ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -12367,9 +12367,9 @@
           "prompt": "ከሚከተሉት ውስጥ የናፍቆትና የትውስታ ስሜትን የሚገልጸው አንጋፋ የኢትዮጵያ ቅኝት የትኛው ነው?",
           "options": [
             "ትዝታ (Tizita - The nostalgic and reflective modal scale)",
-            "ስፖርት (Target expression (Amharic))",
-            "ቢሮ (Target expression (Amharic))",
-            "መኪና (Target expression (Amharic))"
+            "ስፖርት) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )",
+            "ቢሮ) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )",
+            "መኪና) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )"
           ],
           "answerIndex": 0,
           "explanation": "«ትዝታ» ጥልቅ የናፍቆት እና የትውስታ ስሜትን የሚያንጸባርቅ ዝነኛ የኢትዮጵያ የሙዚቃ ቅኝት ነው።"
@@ -12382,9 +12382,9 @@
           "prompt": "'Musical scale / mode' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ቅኝት (Musical scale, mode - Traditional melodic framework)",
-            "ስንኝ (Target expression (Amharic))",
-            "ልቦለድ (Target expression (Amharic))",
-            "ደብዳቤ (Target expression (Amharic))"
+            "ስንኝ) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )",
+            "ልቦለድ) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )",
+            "ደብዳቤ) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )"
           ],
           "answerIndex": 0,
           "explanation": "«ቅኝት» በኢትዮጵያ ሙዚቃ ውስጥ የድምፆችን ቅንብርና ዜማዊ ስልት የሚያመለክት ቃል ነው።"
@@ -12398,9 +12398,9 @@
           "prompt": "አራቱን የኢትዮጵያ ባህላዊ ቅኝቶች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ትዝታ፣ ባቲ፣ አምባሰል እና አንቺሆዬ። (የመጀመሪያው አማራጭ አራቱን ዋና ዋና ባህላዊ ቅኝቶች በሙሉ ይዟል።) (አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal Music Scales))",
-            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት። (Target expression (Amharic))",
-            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ። (Target expression (Amharic))",
-            "በኢትዮጵያ ቅኝት የለም። (Target expression (Amharic))"
+            "ጨው፣ በርበሬ፣ ዘይት እና ሽንኩርት።) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )",
+            "እርሳስ፣ ደብተር፣ ላጲስ እና መቅረጫ።) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )",
+            "በኢትዮጵያ ቅኝት የለም።) (Context: አራቱ ባህላዊ የሙዚቃ ቅኝቶች (The Four Modal )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ አራቱን ዋና ዋና ባህላዊ ቅኝቶች በሙሉ ይዟል።"
@@ -12457,9 +12457,9 @@
           "prompt": "ባለ አንድ አውታር ሆኖ በቀስት የሚጫወቱት ታዋቂው የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያ የትኛው ነው?",
           "options": [
             "ማሲንቆ (Masinqo - Single-stringed bowed traditional lute)",
-            "ከበሮ (Target expression (Amharic))",
-            "ፒያኖ (Target expression (Amharic))",
-            "ጊታር (Target expression (Amharic))"
+            "ከበሮ) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)",
+            "ፒያኖ) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)",
+            "ጊታር) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)"
           ],
           "answerIndex": 0,
           "explanation": "«ማሲንቆ» ባለ አንድ አውታር ሆኖ በፈረስ ጭራ ቀስት የሚደረደር የኢትዮጵያ አንጋፋ መሳሪያ ነው።"
@@ -12472,9 +12472,9 @@
           "prompt": "ባለ አስር አውታር ሆኖ ለመንፈሳዊ ዜማ የሚያገለግለው መሳሪያ ምን ይባላል?",
           "options": [
             "በገና (Begena - Ten-stringed spiritual harp / box lyre)",
-            "ዋሽንት (Target expression (Amharic))",
-            "ከበሮ (Target expression (Amharic))",
-            "መለከት (Target expression (Amharic))"
+            "ዋሽንት) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)",
+            "ከበሮ) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)",
+            "መለከት) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)"
           ],
           "answerIndex": 0,
           "explanation": "«በገና» ባለ አስር አውታር የሆነ እና ለመንፈሳዊ ተመስጦ የሚያገለግል ጥንታዊ መሳሪያ ነው።"
@@ -12488,9 +12488,9 @@
           "prompt": "የኢትዮጵያን ባህላዊ የሙዚቃ መሳሪያዎች በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ክራር፣ ማሲንቆ፣ ዋሽንት፣ ከበሮ፣ በገና እና ጸናጽል። (የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ የሙዚቃ መሳሪያዎችን በሙሉ ይዟል።) (ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditional Musical Instruments))",
-            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (Target expression (Amharic))",
-            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (Target expression (Amharic))",
-            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም። (Target expression (Amharic))"
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ።) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ።) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)",
+            "በኢትዮጵያ የሙዚቃ መሳሪያ የለም።) (Context: ባህላዊ የሙዚቃ መሳሪያዎች እና አጨዋወት (Traditio)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ የሙዚቃ መሳሪያዎችን በሙሉ ይዟል።"
@@ -12548,9 +12548,9 @@
           "prompt": "በ፮ኛው መቶ ክፍለ ዘመን የኢትዮጵያን የዜማ ስልቶች እና የሙዚቃ ኖታዎችን ያዘጋጁት ሊቅ ማን ናቸው?",
           "options": [
             "ቅዱስ ያሬድ (Saint Yared - 6th-century father of Ethiopian liturgical music)",
-            "ከበደ ሚካኤል (Target expression (Amharic))",
-            "ሐዲስ ዓለማየሁ (Target expression (Amharic))",
-            "ዘርአ ያዕቆብ (Target expression (Amharic))"
+            "ከበደ ሚካኤል) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)",
+            "ሐዲስ ዓለማየሁ) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)",
+            "ዘርአ ያዕቆብ) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዱስ ያሬድ በስድስተኛው መቶ ክፍለ ዘመን ግዕዝ፣ እዝልና አራራይ የተባሉትን ሶስት የዜማ ስልቶች የፈጠሩ ታላቅ ሊቅ ናቸው።"
@@ -12563,9 +12563,9 @@
           "prompt": "ከሚከተሉት ውስጥ የያሬዳዊ ዜማ ሶስቱን ስልቶች በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ግዕዝ፣ እዝል እና አራራይ (Geez, Ezil, and Araray - The three Yaredic musical modes)",
-            "ትዝታ፣ ባቲ እና አምባሰል (Target expression (Amharic))",
-            "ክራር፣ ማሲንቆ እና በገና (Target expression (Amharic))",
-            "ሰኞ፣ ማክሰኞ እና እሮብ (Target expression (Amharic))"
+            "ትዝታ፣ ባቲ እና አምባሰል) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)",
+            "ክራር፣ ማሲንቆ እና በገና) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)",
+            "ሰኞ፣ ማክሰኞ እና እሮብ) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)"
           ],
           "answerIndex": 0,
           "explanation": "ግዕዝ፣ እዝልና አራራይ የቅዱስ ያሬድ ሶስቱ መሰረታዊ የዜማ ስልቶች ናቸው።"
@@ -12579,9 +12579,9 @@
           "prompt": "የያሬዳዊ ዜማ እና የዝማሬ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ቅዱስ ያሬድ፣ ግዕዝ፣ እዝል፣ አራራይ፣ ጸናጽል እና መቋሚያ። (የመጀመሪያው አማራጭ የያሬዳዊ ዜማ መሰረታዊ ቃላትን በሙሉ ይዟል።) (የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic Sacred Chant & Melodic Modes))",
-            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት። (Target expression (Amharic))",
-            "ጫማ፣ ኮት እና ሱሪ። (Target expression (Amharic))",
-            "በኢትዮጵያ የዜማ ስልት የለም። (Target expression (Amharic))"
+            "ስጋ፣ ዳቦ፣ ቅቤ እና ወተት።) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)",
+            "ጫማ፣ ኮት እና ሱሪ።) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)",
+            "በኢትዮጵያ የዜማ ስልት የለም።) (Context: የያሬዳዊ ዜማ ስልቶች እና መንፈሳዊ ቅርስ (Yaredic)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የያሬዳዊ ዜማ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12638,9 +12638,9 @@
           "prompt": "የኢትዮ-ጃዝ (Ethio-Jazz) ፈጣሪ እና አባት በመባል በዓለም አቀፍ ደረጃ የሚታወቁት ሙዚቀኛ ማን ናቸው?",
           "options": [
             "ሙላቱ አስታጥቄ (Mulatu Astatke - Pioneer and father of Ethio-Jazz)",
-            "ሐዲስ ዓለማየሁ (Target expression (Amharic))",
-            "ከበደ ሚካኤል (Target expression (Amharic))",
-            "ሎሬት ጸጋዬ (Target expression (Amharic))"
+            "ሐዲስ ዓለማየሁ) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)",
+            "ከበደ ሚካኤል) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)",
+            "ሎሬት ጸጋዬ) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)"
           ],
           "answerIndex": 0,
           "explanation": "ሙላቱ አስታጥቄ የኢትዮጵያን አራቱን ቅኝቶች ከጃዝ ጋር በማዋሃድ የኢትዮ-ጃዝ ሙዚቃን የፈጠሩ ታላቅ ሙዚቀኛ ናቸው።"
@@ -12653,9 +12653,9 @@
           "prompt": "'Music arranger / composer' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አቀናባሪ (Music arranger / composer)",
-            "ነጋዴ (Target expression (Amharic))",
-            "አብራሪ (Target expression (Amharic))",
-            "ዶክተር (Target expression (Amharic))"
+            "ነጋዴ) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)",
+            "አብራሪ) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)",
+            "ዶክተር) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)"
           ],
           "answerIndex": 0,
           "explanation": "«አቀናባሪ» የሙዚቃ ድምፆችን፣ መሳሪያዎችንና ዜማዎችን የሚያቀናጅ ባለሙያ ነው።"
@@ -12669,9 +12669,9 @@
           "prompt": "የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ኢትዮ-ጃዝ፣ ሙላቱ አስታጥቄ፣ አቀናባሪ፣ ድምጻዊ፣ ባንድ እና ቅንብር። (የመጀመሪያው አማራጭ የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቁልፍ ቃላትን በሙሉ ይዟል።) (የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Jazz & Modern Arrangement))",
-            "ጠመኔ፣ ሰሌዳ፣ ወንበር እና ጠረጴዛ። (Target expression (Amharic))",
-            "ወተት፣ አይብ፣ ቅቤ እና እርጎ። (Target expression (Amharic))",
-            "በኢትዮጵያ ዘመናዊ ሙዚቃ የለም። (Target expression (Amharic))"
+            "ጠመኔ፣ ሰሌዳ፣ ወንበር እና ጠረጴዛ።) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)",
+            "ወተት፣ አይብ፣ ቅቤ እና እርጎ።) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)",
+            "በኢትዮጵያ ዘመናዊ ሙዚቃ የለም።) (Context: የዘመናዊ ኢትዮ-ጃዝ እና የሙዚቃ ቅንብር (Ethio-Ja)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዘመናዊ ሙዚቃ እና የኢትዮ-ጃዝ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -12728,9 +12728,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ሙዚቃ ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ሙዚቃ በአራቱ ቅኝቶች፣ በባህላዊ መሳሪያዎች፣ በያሬዳዊ ዜማ እና በኢትዮ-ጃዝ ጥበብ የደመቀ ነው። (Complete musical synthesis combining scales, traditional instruments, Yaredic chant, and Ethio-Jazz)",
-            "ምንም ሙዚቃ የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ዜማ የለም (Target expression (Amharic))"
+            "ምንም ሙዚቃ የለም) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )",
+            "ዜማ የለም) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቅኝቶችን፣ ባህላዊ መሳሪያዎችን፣ የያሬድ ዜማንና ዘመናዊ ጃዝን በአንድነት ያጠቃለለ ነው።"
@@ -12743,9 +12743,9 @@
           "prompt": "ቅኝትን እና የሙዚቃ መሳሪያዎችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ድምጻዊው በማሲንቆ እና በክራር እየታጀበ በትዝታ ቅኝት የተዋበ ዜማ አቀረበ። (The singer presented a beautiful melody in the Tizita scale accompanied by Masinqo and Krar - Accurate unified sentence)",
-            "ምንም ዜማ አልቀረበም (Target expression (Amharic))",
-            "መሳሪያ የለም (Target expression (Amharic))",
-            "ቅኝት የለም (Target expression (Amharic))"
+            "ምንም ዜማ አልቀረበም) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )",
+            "መሳሪያ የለም) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )",
+            "ቅኝት የለም) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ቅኝትን እና ባህላዊ መሳሪያዎችን በትክክል ያዛምዳል።"
@@ -12759,9 +12759,9 @@
           "prompt": "የክፍል 27 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "አራቱ ባህላዊ ቅኝቶች፣ ባህላዊ የሙዚቃ መሳሪያዎች፣ የያሬዳዊ ዜማ ስልቶች፣ እንዲሁም የዘመናዊ ኢትዮ-ጃዝ ቅንብር ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 27ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand Synthesis & Ethiopian Musical Heritage))",
-            "ይህ ክፍል ስለ ህክምና ብቻ ነው። (Target expression (Amharic))",
-            "በኢትዮጵያ ሙዚቃ አልነበረም። (Target expression (Amharic))",
-            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ህክምና ብቻ ነው።) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )",
+            "በኢትዮጵያ ሙዚቃ አልነበረም።) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )",
+            "ሁሉም ቅኝቶች ተመሳሳይ ናቸው።) (Context: የክፍል 27 አጠቃላይ ማጠቃለያ (Unit 27 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 27ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -12818,9 +12818,9 @@
           "prompt": "በብራና መጻሕፍት ላይ የተሳለውን ጥንታዊ የብርሃን እና የኪነ-ጥበብ ስራ ምን ብለን እንጠራዋለን?",
           "options": [
             "ብርሃነ-ስዕል (Manuscript illumination / icon miniature)",
-            "ጋዜጣ (Target expression (Amharic))",
-            "መስታወት (Target expression (Amharic))",
-            "ሰዓት (Target expression (Amharic))"
+            "ጋዜጣ) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)",
+            "መስታወት) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)",
+            "ሰዓት) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)"
           ],
           "answerIndex": 0,
           "explanation": "«ብርሃነ-ስዕል» በጥንታዊ የብራና መጻሕፍት ውስጥ የሚሳል ረቂቅና ያጌጠ መንፈሳዊ ስዕል ነው።"
@@ -12833,9 +12833,9 @@
           "prompt": "'Painting, drawing' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስዕል (Painting, visual artwork)",
-            "ዘፈን (Target expression (Amharic))",
-            "ዳንስ (Target expression (Amharic))",
-            "ሩጫ (Target expression (Amharic))"
+            "ዘፈን) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)",
+            "ዳንስ) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)",
+            "ሩጫ) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)"
           ],
           "answerIndex": 0,
           "explanation": "«ስዕል» በቀለማትና በመስመሮች የሚገለጽ የእይታ ጥበብ ነው።"
@@ -12849,9 +12849,9 @@
           "prompt": "የጥንታዊ ስዕል እና የብራና ኪነ-ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ስዕል፣ ሰዓሊ፣ ብርሃነ-ስዕል፣ ብራና፣ ቀለማት እና ምስል። (የመጀመሪያው አማራጭ የስነ-ስዕል እና የብርሃነ-ስዕል መሰረታዊ ቃላትን በሙሉ ይዟል።) (የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕል ጥበብ (Church Frescoes & Manuscript Illumination))",
-            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት። (Target expression (Amharic))",
-            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Target expression (Amharic))",
-            "በኢትዮጵያ የስዕል ጥበብ አልነበረም። (Target expression (Amharic))"
+            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት።) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ።) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)",
+            "በኢትዮጵያ የስዕል ጥበብ አልነበረም።) (Context: የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕ)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-ስዕል እና የብርሃነ-ስዕል መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -12909,9 +12909,9 @@
           "prompt": "ከአንድ ወጥ አለት ተፈልፍለው የተሰሩትን አስራ አንዱን ውቅር አብያተ ክርስቲያናት ያነጹት ንጉሥ ማን ናቸው?",
           "options": [
             "ቅዱስ ላሊበላ (King Saint Lalibela - Creator of the 12th-century rock-hewn monolithic churches)",
-            "ቴዎድሮስ (Target expression (Amharic))",
-            "ዮሐንስ (Target expression (Amharic))",
-            "ምኒልክ (Target expression (Amharic))"
+            "ቴዎድሮስ) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)",
+            "ዮሐንስ) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)",
+            "ምኒልክ) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)"
           ],
           "answerIndex": 0,
           "explanation": "ቅዱስ ላሊበላ በ፲፪ኛው መቶ ክፍለ ዘመን ታላላቆቹን ውቅር አብያተ ክርስቲያናት ያነጹ ንጉሥ ናቸው።"
@@ -12924,9 +12924,9 @@
           "prompt": "'Rock-hewn, carved from rock' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ውቅር (Rock-hewn, monolithic structure)",
-            "እንጨት (Target expression (Amharic))",
-            "ፕላስቲክ (Target expression (Amharic))",
-            "ጭቃ (Target expression (Amharic))"
+            "እንጨት) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)",
+            "ፕላስቲክ) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)",
+            "ጭቃ) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)"
           ],
           "answerIndex": 0,
           "explanation": "«ውቅር» ከአለት ወይም ከድንጋይ ተፈልፍሎ የተሰራ ህንፃን የሚያመለክት ቃል ነው።"
@@ -12940,9 +12940,9 @@
           "prompt": "የላሊበላን እና የድንጋይ ውቅር ኪነ-ህንፃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ላሊበላ፣ ውቅር፣ ወጥ አለት፣ ቤተ ጊዮርጊስ፣ ኪነ-ህንፃ እና መሃንዲስ። (የመጀመሪያው አማራጭ የላሊበላን ውቅር ኪነ-ህንፃ መሰረታዊ ቃላት በሙሉ ይዟል።) (የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት (Rock-Hewn Architecture & Lalibela Monoliths))",
-            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Target expression (Amharic))",
-            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ። (Target expression (Amharic))",
-            "በላሊበላ ውቅር ህንፃ የለም። (Target expression (Amharic))"
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ።) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ።) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)",
+            "በላሊበላ ውቅር ህንፃ የለም።) (Context: የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የላሊበላን ውቅር ኪነ-ህንፃ መሰረታዊ ቃላት በሙሉ ይዟል።"
@@ -12999,9 +12999,9 @@
           "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን በጎንደር ከተማ ታላቁን የፋሲል ግቢ ቤተ-መንግስት ያስገነቡት ንጉሥ ማን ናቸው?",
           "options": [
             "አፄ ፋሲለደስ (Emperor Fasilides - Founder of the Gondar imperial capital and castles)",
-            "ቴዎድሮስ (Target expression (Amharic))",
-            "ሱሰኒዮስ (Target expression (Amharic))",
-            "ኢያሱ (Target expression (Amharic))"
+            "ቴዎድሮስ) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)",
+            "ሱሰኒዮስ) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)",
+            "ኢያሱ) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)"
           ],
           "answerIndex": 0,
           "explanation": "አፄ ፋሲለደስ በ1636 ዓ.ም ጎንደርን ዋና ከተማ አድርገው በመሰየም የፋሲል ግቢ ግንቦችን አሳንጸዋል።"
@@ -13014,9 +13014,9 @@
           "prompt": "'Castle, stone fortress' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ግንብ (Castle, stone masonry fortress)",
-            "ድንኳን (Target expression (Amharic))",
-            "ጎጆ (Target expression (Amharic))",
-            "ጀልባ (Target expression (Amharic))"
+            "ድንኳን) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)",
+            "ጎጆ) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)",
+            "ጀልባ) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)"
           ],
           "answerIndex": 0,
           "explanation": "«ግንብ» ከድንጋይና ከኖራ በከፍተኛ ጥንካሬ የሚገነባ ታሪካዊ ቤተ-መንግስት ወይም ምሽግ ነው።"
@@ -13030,9 +13030,9 @@
           "prompt": "የፋሲል ግቢ እና የጎንደር ግንቦችን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ግንብ፣ ቤተ-መንግስት፣ ቅጥር እና ጎንደር። (የመጀመሪያው አማራጭ የጎንደር እና የፋሲል ግቢ ታሪካዊ ቃላትን በሙሉ ይዟል።) (የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fasil Ghebbi & Gondarine Castles))",
-            "ወተት፣ ቅቤ፣ እርጎ እና አይብ። (Target expression (Amharic))",
-            "ወረቀት፣ እስክሪብቶ እና ላጲስ። (Target expression (Amharic))",
-            "በጎንደር ምንም ግንብ የለም። (Target expression (Amharic))"
+            "ወተት፣ ቅቤ፣ እርጎ እና አይብ።) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)",
+            "ወረቀት፣ እስክሪብቶ እና ላጲስ።) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)",
+            "በጎንደር ምንም ግንብ የለም።) (Context: የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fa)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የጎንደር እና የፋሲል ግቢ ታሪካዊ ቃላትን በሙሉ ይዟል።"
@@ -13089,9 +13089,9 @@
           "prompt": "የሐረር ከተማን ከበባ የያዘውና በዩኔስኮ የተመዘገበው ጥንታዊ ግንብ ምን ይባላል?",
           "options": [
             "ጁጎል (Jugol - The historic fortified wall of Harar)",
-            "ፋሲል (Target expression (Amharic))",
-            "ላሊበላ (Target expression (Amharic))",
-            "አክሱም (Target expression (Amharic))"
+            "ፋሲል) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)",
+            "ላሊበላ) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)",
+            "አክሱም) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)"
           ],
           "answerIndex": 0,
           "explanation": "«ጁጎል» የሐረርን ጥንታዊ ከተማ የከበበ አምስት በሮች ያሉት ታሪካዊ ግንብ ነው።"
@@ -13104,9 +13104,9 @@
           "prompt": "የሐረሪ ባህላዊ የመኖሪያ ቤት ምን ተብሎ ይጠራል?",
           "options": [
             "ጌይ ጋር (Gey Gar - Traditional Harari vernacular house)",
-            "ፎቅ ብቻ (Target expression (Amharic))",
-            "ጎጆ ብቻ (Target expression (Amharic))",
-            "ድንኳን (Target expression (Amharic))"
+            "ፎቅ ብቻ) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)",
+            "ጎጆ ብቻ) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)",
+            "ድንኳን) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)"
           ],
           "answerIndex": 0,
           "explanation": "«ጌይ ጋር» ልዩ የስነ-ህንፃ ጥበብና ውስጣዊ ጌጦች ያሉት ባህላዊ የሐረር ቤት ነው።"
@@ -13120,9 +13120,9 @@
           "prompt": "የሐረር ጁጎልን እና ባህላዊ ኪነ-ህንፃን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሐረር፣ ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር እና እደ-ጥበብ። (የመጀመሪያው አማራጭ የሐረር ጁጎልን እና ባህላዊ ቤቶችን ቃላት በሙሉ ይዟል።) (የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar Jugol & Vernacular Architecture))",
-            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት። (Target expression (Amharic))",
-            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ። (Target expression (Amharic))",
-            "በሐረር ግንብ የለም። (Target expression (Amharic))"
+            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት።) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)",
+            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ።) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)",
+            "በሐረር ግንብ የለም።) (Context: የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar J)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሐረር ጁጎልን እና ባህላዊ ቤቶችን ቃላት በሙሉ ይዟል።"
@@ -13180,9 +13180,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ስነ-ህንፃ እና የስነ-ጥበብ ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ ስነ-ህንፃ እና ኪነ-ጥበብ በላሊበላ ውቅር፣ በፋሲል ግንቦች፣ በሐረር ጁጎልና በብራና ስዕሎች የደመቀ ነው። (Complete architectural synthesis combining Lalibela, Fasil Ghebbi, Harar Jugol, and manuscript illumination)",
-            "ምንም ቅርስ የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ህንፃ የለም (Target expression (Amharic))"
+            "ምንም ቅርስ የለም) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )",
+            "ህንፃ የለም) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ላሊበላን፣ ፋሲል ግቢን፣ ሐረር ጁጎልንና ስነ-ስዕልን በአንድነት ያጠቃለለ ነው።"
@@ -13195,9 +13195,9 @@
           "prompt": "ኪነ-ህንፃን እና ታሪካዊ ቅርሶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ጎብኚዎቹ የላሊበላን ውቅር አብያተ ክርስቲያናት እና የፋሲል ግንቦችን በጥልቀት ተመለከቱ። (The visitors closely observed the rock-hewn churches of Lalibela and the castles of Fasil - Accurate unified sentence)",
-            "ምንም እይታ አልነበረም (Target expression (Amharic))",
-            "ግንብ የለም (Target expression (Amharic))",
-            "ውቅር የለም (Target expression (Amharic))"
+            "ምንም እይታ አልነበረም) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )",
+            "ግንብ የለም) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )",
+            "ውቅር የለም) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ውቅር አብያተ ክርስቲያናትን እና ታሪካዊ ግንቦችን በትክክል ያዛምዳል።"
@@ -13211,9 +13211,9 @@
           "prompt": "የክፍል 28 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የአብያተ ክርስቲያናት ስዕሎች፣ የላሊበላ ውቅር ድንጋዮች፣ የፋሲል ግቢ ግንቦች፣ እንዲሁም የሐረር ጁጎል ቅጥር ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 28ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand Synthesis & Ethiopian Architectural Masterpieces))",
-            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው። (Target expression (Amharic))",
-            "በኢትዮጵያ ስነ-ህንፃ አልነበረም። (Target expression (Amharic))",
-            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው።) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )",
+            "በኢትዮጵያ ስነ-ህንፃ አልነበረም።) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )",
+            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው።) (Context: የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 28ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -13273,9 +13273,9 @@
           "prompt": "«Ecosystem» የሚለውን ሳይንሳዊ ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስነ-ምህዳር (Ecosystem - Living organism and environmental interaction)",
-            "ስነ-ዜማ (Target expression (Amharic))",
-            "ስነ-ምድር (Target expression (Amharic))",
-            "ስነ-ልሳን (Target expression (Amharic))"
+            "ስነ-ዜማ) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)",
+            "ስነ-ምድር) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)",
+            "ስነ-ልሳን) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ምህዳር» ህያዋን ፍጥረታት ከአካባቢያቸው ጋር ያላቸውን መስተጋብር የሚያጠና የሳይንስ ዘርፍ ነው።"
@@ -13288,9 +13288,9 @@
           "prompt": "'Biodiversity' የሚለውን ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ብዝሃ-ህይወት (Biodiversity - Variety of plant and animal life)",
-            "አንድነት ብቻ (Target expression (Amharic))",
-            "ድርቅ (Target expression (Amharic))",
-            "በረሃ (Target expression (Amharic))"
+            "አንድነት ብቻ) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)",
+            "ድርቅ) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)",
+            "በረሃ) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)"
           ],
           "answerIndex": 0,
           "explanation": "«ብዝሃ-ህይወት» በተወሰነ አካባቢ የሚገኙ የተለያዩ እፅዋትና እንስሳት ዝርያዎች ጥምረት ነው።"
@@ -13304,9 +13304,9 @@
           "prompt": "የደን ጥበቃ እና የስነ-ምህዳር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ደን፣ ስነ-ምህዳር፣ ብዝሃ-ህይወት፣ የተፈጥሮ ሚዛን እና ዛፍ። (የመጀመሪያው አማራጭ የስነ-ምህዳር እና የደን ጥበቃ መሰረታዊ ቃላትን በሙሉ ይዟል።) (የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Forest Conservation & Ecosystem))",
-            "ወረቀት፣ እስክሪብቶ፣ ላጲስ እና ደብተር። (Target expression (Amharic))",
-            "ጫማ፣ ካልሲ፣ ሱሪ እና ኮት። (Target expression (Amharic))",
-            "በአማርኛ ስነ-ምህዳር የሚባል የለም። (Target expression (Amharic))"
+            "ወረቀት፣ እስክሪብቶ፣ ላጲስ እና ደብተር።) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)",
+            "ጫማ፣ ካልሲ፣ ሱሪ እና ኮት።) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)",
+            "በአማርኛ ስነ-ምህዳር የሚባል የለም።) (Context: የደን ጥበቃ፣ የተፈጥሮ ሚዛን እና ስነ-ምህዳር (Fore)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የስነ-ምህዳር እና የደን ጥበቃ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13366,9 +13366,9 @@
           "prompt": "በአባይ ወንዝ ላይ የተገነባው ታላቁ የኢትዮጵያ የኤሌክትሪክ ኃይል ማመንጫ ግድብ ምን ይባላል?",
           "options": [
             "የህዳሴ ግድብ (Grand Ethiopian Renaissance Dam - GERD)",
-            "አዋሽ ግድብ (Target expression (Amharic))",
-            "ጣና ግድብ (Target expression (Amharic))",
-            "ዝዋይ ግድብ (Target expression (Amharic))"
+            "አዋሽ ግድብ) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)",
+            "ጣና ግድብ) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)",
+            "ዝዋይ ግድብ) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)"
           ],
           "answerIndex": 0,
           "explanation": "«የህዳሴ ግድብ» በአባይ ወንዝ ላይ በኢትዮጵያውያን አቅም የተገነባ ታላቅ የኃይል ማመንጫ ግድብ ነው።"
@@ -13381,9 +13381,9 @@
           "prompt": "'Dam / Reservoir' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ግድብ (Dam, water reservoir structure)",
-            "ድልድይ (Target expression (Amharic))",
-            "መንገድ (Target expression (Amharic))",
-            "ህንፃ (Target expression (Amharic))"
+            "ድልድይ) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)",
+            "መንገድ) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)",
+            "ህንፃ) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)"
           ],
           "answerIndex": 0,
           "explanation": "«ግድብ» ውሃን በማቆር ለኃይል ወይም ለመስኖ አገልግሎት የሚውል የውሃ መዋቅር ነው።"
@@ -13397,9 +13397,9 @@
           "prompt": "የውሃ ሀብት እና የህዳሴ ግድብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ውሃ፣ አባይ፣ ህዳሴ ግድብ፣ ታዳሽ ኃይል፣ ወንዝ እና መስኖ። (የመጀመሪያው አማራጭ የውሃ ሀብትና የህዳሴ ግድብ ቁልፍ ቃላትን በሙሉ ይዟል።) (የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Water Management & GERD))",
-            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ወንበር እና አልጋ። (Target expression (Amharic))",
-            "በኢትዮጵያ ወንዝ የለም። (Target expression (Amharic))"
+            "ስኳር፣ ጨው፣ በርበሬ እና ዘይት።) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)",
+            "ጠረጴዛ፣ ወንበር እና አልጋ።) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)",
+            "በኢትዮጵያ ወንዝ የለም።) (Context: የውሃ ሀብት አስተዳደር እና የታላቁ ህዳሴ ግድብ (Wat)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የውሃ ሀብትና የህዳሴ ግድብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -13456,9 +13456,9 @@
           "prompt": "የአፈር መሸርሸርን ለመከላከል በተራራማ አካባቢዎች የሚሰራው የድንጋይ ወይም የአፈር አጥር ምን ይባላል?",
           "options": [
             "እርከን (Terracing - Stone/soil soil conservation structure)",
-            "ፎቅ (Target expression (Amharic))",
-            "አውራ ጎዳና (Target expression (Amharic))",
-            "ድልድይ (Target expression (Amharic))"
+            "ፎቅ) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)",
+            "አውራ ጎዳና) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)",
+            "ድልድይ) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)"
           ],
           "answerIndex": 0,
           "explanation": "«እርከን» ተራራማ መሬት በዝናብ ውሃ እንዳይታጠብ የሚገነባ የአፈር ጥበቃ ዘዴ ነው።"
@@ -13471,9 +13471,9 @@
           "prompt": "'Sapling, seedling' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ችግኝ (Sapling, young plant / seedling)",
-            "ግንድ (Target expression (Amharic))",
-            "ቅርፊት (Target expression (Amharic))",
-            "ስር (Target expression (Amharic))"
+            "ግንድ) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)",
+            "ቅርፊት) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)",
+            "ስር) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)"
           ],
           "answerIndex": 0,
           "explanation": "«ችግኝ» ለመትከል የተዘጋጀ ለጋና ወጣት ተክል ነው።"
@@ -13487,9 +13487,9 @@
           "prompt": "የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አረንጓዴ አሻራ፣ ችግኝ፣ እርከን፣ አፈር ጥበቃ እና አየር ንብረት። (የመጀመሪያው አማራጭ የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በሙሉ ይዟል።) (የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አሻራ (Soil Conservation & Green Legacy))",
-            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ። (Target expression (Amharic))",
-            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ። (Target expression (Amharic))",
-            "በአማርኛ ችግኝ የሚባል ቃል የለም። (Target expression (Amharic))"
+            "መዶሻ፣ መጋዝ፣ ሚስማር እና መፍቻ።) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)",
+            "ሳህን፣ ማንኪያ፣ ሹካ እና ብርጭቆ።) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)",
+            "በአማርኛ ችግኝ የሚባል ቃል የለም።) (Context: የአፈር መከላት፣ የአየር ንብረት ለውጥ እና አረንጓዴ አ)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአረንጓዴ አሻራ እና የአፈር ጥበቃ ቃላትን በሙሉ ይዟል።"
@@ -13546,9 +13546,9 @@
           "prompt": "በሰሜን ተራሮች ገደላገደል ላይ ብቻ የሚኖረውና በኢትዮጵያ ብቻ የሚገኘው ብርቅዬ የሜዳ ፍየል ምን ይባላል?",
           "options": [
             "ዋሊያ አይቤክስ (Walia Ibex - Rare endemic mountain ibex)",
-            "አንበሳ (Target expression (Amharic))",
-            "ነብር (Target expression (Amharic))",
-            "ዝሆን (Target expression (Amharic))"
+            "አንበሳ) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)",
+            "ነብር) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)",
+            "ዝሆን) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)"
           ],
           "answerIndex": 0,
           "explanation": "«ዋሊያ» በኢትዮጵያ ሰሜን ተራሮች ብቻ የሚገኝ ታዋቂ ብርቅዬ የዱር እንስሳ ነው።"
@@ -13561,9 +13561,9 @@
           "prompt": "'National park' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ብሔራዊ ፓርክ (National park - Protected conservation area)",
-            "የቤት ግቢ (Target expression (Amharic))",
-            "የገበያ ቦታ (Target expression (Amharic))",
-            "የከተማ አዳራሽ (Target expression (Amharic))"
+            "የቤት ግቢ) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)",
+            "የገበያ ቦታ) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)",
+            "የከተማ አዳራሽ) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)"
           ],
           "answerIndex": 0,
           "explanation": "«ብሔራዊ ፓርክ» የዱር አራዊትና የተፈጥሮ ሀብት በጥበቃ ስር የሚቆዩበት ህጋዊ ክልል ነው።"
@@ -13577,9 +13577,9 @@
           "prompt": "የኢትዮጵያን ብርቅዬ የዱር እንስሳት እና ፓርኮች ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ብሔራዊ ፓርክ፣ ዋሊያ፣ ጭላዳ ዝንጀሮ፣ ቀይ ቀበሮ፣ ሰሜን እና ባሌ። (የመጀመሪያው አማራጭ ብርቅዬ እንስሳትንና ብሔራዊ ፓርኮችን በሙሉ ይዟል።) (ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National Parks & Wildlife Conservation))",
-            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ። (Target expression (Amharic))",
-            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ። (Target expression (Amharic))",
-            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም። (Target expression (Amharic))"
+            "ልብስ፣ ጫማ፣ ካልሲ እና ባርኔጣ።) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)",
+            "ዳቦ፣ ስንዴ፣ ገብስ እና ጤፍ።) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)",
+            "በኢትዮጵያ ብርቅዬ እንስሳት የሉም።) (Context: ብሔራዊ ፓርኮች እና የዱር አራዊት ጥበቃ (National)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ ብርቅዬ እንስሳትንና ብሔራዊ ፓርኮችን በሙሉ ይዟል።"
@@ -13636,9 +13636,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የአካባቢ ሳይንስ እና የተፈጥሮ ሀብት ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ የአካባቢ ጥበቃ በደን ልማት፣ በህዳሴ ግድብ፣ በአረንጓዴ አሻራ እና በፓርኮች ጥበቃ የተሳሰረ ነው። (Complete environmental synthesis combining forestry, GERD, Green Legacy, and national parks)",
-            "ምንም የተፈጥሮ ሀብት የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "አካባቢ የለም (Target expression (Amharic))"
+            "ምንም የተፈጥሮ ሀብት የለም) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )",
+            "አካባቢ የለም) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ደንን፣ ውሃን፣ አረንጓዴ አሻራንና ብሔራዊ ፓርኮችን በአንድነት ያጠቃለለ ነው።"
@@ -13651,9 +13651,9 @@
           "prompt": "የአካባቢ ጥበቃን እና የተፈጥሮ ሀብትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ህብረተሰቡ ችግኝ በመትከል እና ደኖችን በመንከባከብ የስነ-ምህዳር ሚዛንን ጠበቀ። (The community preserved ecological balance by planting saplings and caring for forests - Accurate unified sentence)",
-            "ምንም እንክብካቤ አልተደረገም (Target expression (Amharic))",
-            "ደን የለም (Target expression (Amharic))",
-            "ችግኝ የለም (Target expression (Amharic))"
+            "ምንም እንክብካቤ አልተደረገም) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )",
+            "ደን የለም) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )",
+            "ችግኝ የለም) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ችግኝ ተከላን እና የስነ-ምህዳር ጥበቃን በትክክል ያዛምዳል።"
@@ -13667,9 +13667,9 @@
           "prompt": "የክፍል 29 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የደን ጥበቃ፣ የውሃ ሀብትና የህዳሴ ግድብ፣ የአረንጓዴ አሻራ ችግኞች፣ እንዲሁም ብሔራዊ ፓርኮችና ብርቅዬ እንስሳት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 29ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand Synthesis & Environmental Sustainability))",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Target expression (Amharic))",
-            "በኢትዮጵያ ፓርክ አልነበረም። (Target expression (Amharic))",
-            "ሁሉም ወንዞች ተመሳሳይ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )",
+            "በኢትዮጵያ ፓርክ አልነበረም።) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )",
+            "ሁሉም ወንዞች ተመሳሳይ ናቸው።) (Context: የክፍል 29 አጠቃላይ ማጠቃለያ (Unit 29 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 29ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -13726,9 +13726,9 @@
           "prompt": "በኢትዮጵያ ጥንታዊ የፍትህ ስርዓት ውስጥ መንፈሳዊና ዓለማዊ ህጎችን ያቀፈው ታዋቂው የህግ መጽሐፍ ማን ይባላል?",
           "options": [
             "ፍትሐ ነገሥት (Fetha Nagast - The Law of the Kings)",
-            "ክብረ ነገሥት (Target expression (Amharic))",
-            "ገድለ ተክለሃይማኖት (Target expression (Amharic))",
-            "ድርሳነ ማርያም (Target expression (Amharic))"
+            "ክብረ ነገሥት) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)",
+            "ገድለ ተክለሃይማኖት) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)",
+            "ድርሳነ ማርያም) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍትሐ ነገሥት» ለዘመናት የዳኝነት እና የህግ ምንጭ ሆኖ ያገለገለ ጥንታዊ የህግጋት መጽሐፍ ነው።"
@@ -13741,9 +13741,9 @@
           "prompt": "'Justice, righteousness' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ፍትህ (Justice, equity)",
-            "ጭቅጭቅ (Target expression (Amharic))",
-            "ስህተት (Target expression (Amharic))",
-            "ጥፋት (Target expression (Amharic))"
+            "ጭቅጭቅ) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)",
+            "ስህተት) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)",
+            "ጥፋት) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)"
           ],
           "answerIndex": 0,
           "explanation": "«ፍትህ» እውነትና እኩልነትን መሰረት ያደረገ ቅን የዳኝነት መርህ ነው።"
@@ -13757,9 +13757,9 @@
           "prompt": "የፍትሐ ነገሥት እና የዳኝነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ፍትሐ ነገሥት፣ ፍትህ፣ ዳኝነት፣ ዳኛ፣ ፍርድ ቤት እና የህግ የበላይነት። (የመጀመሪያው አማራጭ የፍትሐ ነገሥት እና የዳኝነት መሰረታዊ ቃላትን በሙሉ ይዟል።) (ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha Nagast & Ancient Jurisprudence))",
-            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ወንበር እና አልጋ። (Target expression (Amharic))",
-            "በኢትዮጵያ የህግ ታሪክ አልነበረም። (Target expression (Amharic))"
+            "ሻይ፣ ቡና፣ ወተት እና ጭማቂ።) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)",
+            "ጠረጴዛ፣ ወንበር እና አልጋ።) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)",
+            "በኢትዮጵያ የህግ ታሪክ አልነበረም።) (Context: ፍትሐ ነገሥት እና የጥንታዊ ሕግጋት ፍልስፍና (Fetha)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የፍትሐ ነገሥት እና የዳኝነት መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13817,9 +13817,9 @@
           "prompt": "በኢትዮጵያ ማህበረሰብ ውስጥ በሰዎች መካከል የተፈጠረን አለመግባባት በሰላም ለማስታረቅ የሚካሄደው ባህላዊ መንገድ ምን ይባላል?",
           "options": [
             "ሽምግልና (Shimglina / Traditional mediation & restorative arbitration)",
-            "ጦርነት (Target expression (Amharic))",
-            "ፍጥጫ (Target expression (Amharic))",
-            "ክስ ብቻ (Target expression (Amharic))"
+            "ጦርነት) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)",
+            "ፍጥጫ) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)",
+            "ክስ ብቻ) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)"
           ],
           "answerIndex": 0,
           "explanation": "«ሽምግልና» በሽማግሌዎች ጥረት የተጣሉትን የሚያስታርቅ ጥንታዊ ባህላዊ መንገድ ነው።"
@@ -13832,9 +13832,9 @@
           "prompt": "'Reconciliation, peace settlement' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "እርቅ (Reconciliation, harmonious peace settlement)",
-            "ጸብ (Target expression (Amharic))",
-            "ቂም (Target expression (Amharic))",
-            "ንትርክ (Target expression (Amharic))"
+            "ጸብ) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)",
+            "ቂም) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)",
+            "ንትርክ) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)"
           ],
           "answerIndex": 0,
           "explanation": "«እርቅ» ቂም በቀልን አስወግዶ ወደ ሰላማዊ ግንኙነት መመለስ ነው።"
@@ -13848,9 +13848,9 @@
           "prompt": "የሽምግልና እና የባህላዊ እርቅ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሽምግልና፣ እርቅ፣ ይቅርታ፣ ካሳ፣ የሀገር ሽማግሌ እና ማህበራዊ ሰላም። (የመጀመሪያው አማራጭ የሽምግልና እና የእርቅ መሰረታዊ ቃላትን በሙሉ ይዟል።) (ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Customary Restorative Justice & Shimglina))",
-            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ። (Target expression (Amharic))",
-            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ። (Target expression (Amharic))",
-            "በኢትዮጵያ ሽምግልና የለም። (Target expression (Amharic))"
+            "መኪና፣ ባቡር፣ አውሮፕላን እና መርከብ።) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)",
+            "እንጀራ፣ ወጥ፣ ዶሮ እና ጠጅ።) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)",
+            "በኢትዮጵያ ሽምግልና የለም።) (Context: ባህላዊ የግጭት አፈታት እና የሽምግልና ሥርዓት (Cust)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሽምግልና እና የእርቅ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -13908,9 +13908,9 @@
           "prompt": "በኦሮሞ ህዝብ ባህል ውስጥ በየስምንት ዓመቱ ሰላማዊ የስልጣን ሽግግር የሚያካሂደውና በዩኔስኮ የተመዘገበው ታዋቂው ስርዓት ማን ይባላል?",
           "options": [
             "የገዳ ስርዓት (Gadaa System - Indigenous democratic socio-political governance)",
-            "ንግስና ብቻ (Target expression (Amharic))",
-            "ውትድርና ብቻ (Target expression (Amharic))",
-            "ምንም ስርዓት አልነበረም (Target expression (Amharic))"
+            "ንግስና ብቻ) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)",
+            "ውትድርና ብቻ) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)",
+            "ምንም ስርዓት አልነበረም) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)"
           ],
           "answerIndex": 0,
           "explanation": "«የገዳ ስርዓት» በየ፰ ዓመቱ የስልጣን ሽግግር የሚያደርግ ጥንታዊ ዴሞክራሲያዊ የህግና የአስተዳደር ስርዓት ነው።"
@@ -13923,9 +13923,9 @@
           "prompt": "'Democratic governance, civic rule' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ዴሞክራሲያዊ አስተዳደር (Democratic governance, accountable civic rule)",
-            "አምባገነንነት (Target expression (Amharic))",
-            "ህገ-ወጥነት (Target expression (Amharic))",
-            "ትርምስ (Target expression (Amharic))"
+            "አምባገነንነት) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)",
+            "ህገ-ወጥነት) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)",
+            "ትርምስ) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)"
           ],
           "answerIndex": 0,
           "explanation": "«ዴሞክራሲያዊ አስተዳደር» የህዝብ ተሳትፎና የህግ የበላይነት ያለበት ፍትሃዊ የአመራር ስርዓት ነው።"
@@ -13939,9 +13939,9 @@
           "prompt": "የገዳ ስርዓት እና የዴሞክራሲ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ገዳ፣ አባ ገዳ፣ ጫፌ፣ የስልጣን ሽግግር፣ እኩልነት እና ዴሞክራሲ። (የመጀመሪያው አማራጭ የገዳ ስርዓት እና የዴሞክራሲያዊ አስተዳደር ቃላትን በሙሉ ይዟል።) (የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa Jurisprudence & Civic Institutions))",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም። (Target expression (Amharic))",
-            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ። (Target expression (Amharic))",
-            "በገዳ ስርዓት ህግ የለም። (Target expression (Amharic))"
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና ቀለም።) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ።) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)",
+            "በገዳ ስርዓት ህግ የለም።) (Context: የገዳ ሥርዓት ሕግጋት እና ሲቪክ ዲሞክራሲ (Gadaa J)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የገዳ ስርዓት እና የዴሞክራሲያዊ አስተዳደር ቃላትን በሙሉ ይዟል።"
@@ -13998,9 +13998,9 @@
           "prompt": "«Human rights» የሚለውን ዓለም አቀፍ የህግ ጽንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሰብአዊ መብቶች (Human rights - Inherent fundamental human rights)",
-            "የንግድ ህግ (Target expression (Amharic))",
-            "የትራፊክ ህግ (Target expression (Amharic))",
-            "የግብር ህግ (Target expression (Amharic))"
+            "የንግድ ህግ) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()",
+            "የትራፊክ ህግ) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()",
+            "የግብር ህግ) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()"
           ],
           "answerIndex": 0,
           "explanation": "«ሰብአዊ መብቶች» የሰው ልጅ በመሆኑ ብቻ የሚገቡት መሰረታዊ ነፃነቶችና መብቶች ናቸው።"
@@ -14013,9 +14013,9 @@
           "prompt": "'Rule of law' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የህግ የበላይነት (Rule of law - Governance governed by law)",
-            "የጉልበት የበላይነት (Target expression (Amharic))",
-            "የስልጣን ጥማት (Target expression (Amharic))",
-            "አምባገነንነት (Target expression (Amharic))"
+            "የጉልበት የበላይነት) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()",
+            "የስልጣን ጥማት) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()",
+            "አምባገነንነት) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()"
           ],
           "answerIndex": 0,
           "explanation": "«የህግ የበላይነት» ማንም ሰው ከህግ በላይ እንደማይሆን የሚያረጋግጥ መርህ ነው።"
@@ -14029,9 +14029,9 @@
           "prompt": "የሰብአዊ መብቶች እና የህግ የበላይነት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ሰብአዊ መብቶች፣ የህግ የበላይነት፣ ህገ-መንግስት፣ ነፃነት እና እኩልነት። (የመጀመሪያው አማራጭ የሰብአዊ መብቶች እና የህገ-መንግስት ቁልፍ ቃላትን በሙሉ ይዟል።) (ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ (Human Rights & Rule of Law))",
-            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ። (Target expression (Amharic))",
-            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ። (Target expression (Amharic))",
-            "በህግ የበላይነት መብት የለም። (Target expression (Amharic))"
+            "ሻይ፣ ስኳር፣ ወተት እና ዳቦ።) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()",
+            "ጫማ፣ ካልሲ፣ ኮት እና ሱሪ።) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()",
+            "በህግ የበላይነት መብት የለም።) (Context: ሰብአዊ መብቶች፣ የህግ የበላይነት እና ዘመናዊ ፍትህ ()"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰብአዊ መብቶች እና የህገ-መንግስት ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14088,9 +14088,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ የህግ እና የፍትህ ፍልስፍና ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "የኢትዮጵያ የህግ ፍልስፍና በፍትሐ ነገሥት፣ በሽምግልና እርቅ፣ በገዳ ስርዓት እና በህገ-መንግስታዊ መርሆዎች የዳበረ ነው። (Complete synthesis combining Fetha Nagast, restorative mediation, Gadaa system, and constitutional principles)",
-            "ምንም ህግ የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ፍትህ የለም (Target expression (Amharic))"
+            "ምንም ህግ የለም) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )",
+            "ፍትህ የለም) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ፍትሐ ነገሥትን፣ ሽምግልናን፣ ገዳንና ህገ-መንግስትን በአንድነት ያጠቃለለ ነው።"
@@ -14103,9 +14103,9 @@
           "prompt": "የህግ የበላይነትን እና የፍትህ ስርዓትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ዳኞቹ በህግ የበላይነት እና በእኩልነት መርህ ላይ ተመስርተው ፍትሃዊ ውሳኔ ሰጡ። (The judges rendered a just decision based upon the rule of law and the principle of equality - Accurate unified sentence)",
-            "ምንም ውሳኔ አልተሰጠም (Target expression (Amharic))",
-            "ህግ የለም (Target expression (Amharic))",
-            "ዳኛ የለም (Target expression (Amharic))"
+            "ምንም ውሳኔ አልተሰጠም) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )",
+            "ህግ የለም) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )",
+            "ዳኛ የለም) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የህግ የበላይነትን እና ፍትሃዊ ዳኝነትን በትክክል ያዛምዳል።"
@@ -14119,9 +14119,9 @@
           "prompt": "የክፍል 30 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "ፍትሐ ነገሥት፣ ባህላዊ ሽምግልናና እርቅ፣ የገዳ ስርዓት ዴሞክራሲ፣ እንዲሁም ሰብአዊ መብቶችና የህግ የበላይነት ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 30ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand Synthesis & Ethiopian Legal Philosophy))",
-            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው። (Target expression (Amharic))",
-            "በኢትዮጵያ ፍትህ አልነበረም። (Target expression (Amharic))",
-            "ሁሉም ህጎች ተመሳሳይ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ሙዚቃ ብቻ ነው።) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )",
+            "በኢትዮጵያ ፍትህ አልነበረም።) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )",
+            "ሁሉም ህጎች ተመሳሳይ ናቸው።) (Context: የክፍል 30 አጠቃላይ ማጠቃለያ (Unit 30 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 30ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -14179,9 +14179,9 @@
           "prompt": "በሳይንሳዊ ምርምር ውስጥ ሊረጋገጥ ወይም ውድቅ ሊደረግ የሚችል ጊዜያዊ ግምት ወይም ሀሳብ ምን ይባላል?",
           "options": [
             "መላምት (Hypothesis - Proposition or tentative conjecture)",
-            "ግጥም (Target expression (Amharic))",
-            "ተረት (Target expression (Amharic))",
-            "ልቦለድ (Target expression (Amharic))"
+            "ግጥም) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)",
+            "ተረት) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)",
+            "ልቦለድ) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)"
           ],
           "answerIndex": 0,
           "explanation": "«መላምት» በሳይንሳዊ ጥናት የሚፈተን እና የሚረጋገጥ የመጀመሪያ መነሻ ሀሳብ ነው።"
@@ -14194,9 +14194,9 @@
           "prompt": "'Research methodology' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የምርምር ዘዴ (Research methodology / systematic inquiry)",
-            "የጨዋታ ህግ (Target expression (Amharic))",
-            "የጉዞ ካርታ (Target expression (Amharic))",
-            "የግዢ ዝርዝር (Target expression (Amharic))"
+            "የጨዋታ ህግ) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)",
+            "የጉዞ ካርታ) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)",
+            "የግዢ ዝርዝር) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)"
           ],
           "answerIndex": 0,
           "explanation": "«የምርምር ዘዴ» ጥናትን በስርዓትና በሳይንሳዊ ቅደም-ተከተል ለመምራት የሚያስችል መንገድ ነው።"
@@ -14210,9 +14210,9 @@
           "prompt": "የምርምር ዘዴዎችን እና የጥናት ንድፍ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ምርምር፣ ተመራማሪ፣ ዘዴ፣ የጥናት ንድፍ፣ መላምት እና ተለዋዋጭ። (የመጀመሪያው አማራጭ የምርምር ዘዴ መሰረታዊ ቃላትን በሙሉ ይዟል።) (የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Methodologies & Study Design))",
-            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና። (Target expression (Amharic))",
-            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር። (Target expression (Amharic))",
-            "በሳይንስ ምርምር የለም። (Target expression (Amharic))"
+            "ወጥ፣ ዳቦ፣ ሻይ እና ቡና።) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)",
+            "ጠረጴዛ፣ በር፣ መስኮት እና ወንበር።) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)",
+            "በሳይንስ ምርምር የለም።) (Context: የምርምር ዘዴዎች እና የጥናት ንድፍ (Research Me)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምርምር ዘዴ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14269,9 +14269,9 @@
           "prompt": "ከአጠቃላይ ህዝብ መካከል ለጥናት ተመርጦ የሚወሰደው አነስተኛ ውክልና ምን ይባላል?",
           "options": [
             "ናሙና (Sample - Representative sample subset)",
-            "ሙሉ ህዝብ (Target expression (Amharic))",
-            "ግምት (Target expression (Amharic))",
-            "ስህተት (Target expression (Amharic))"
+            "ሙሉ ህዝብ) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)",
+            "ግምት) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)",
+            "ስህተት) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)"
           ],
           "answerIndex": 0,
           "explanation": "«ናሙና» አጠቃላይ ማህበረሰቡን ወይም ህዝብን ወክሎ የሚመረጥ የጥናት አካል ነው።"
@@ -14284,9 +14284,9 @@
           "prompt": "'Statistical analysis' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ስታትስቲካዊ ትንተና (Statistical analysis / quantitative examination)",
-            "ተራ ቆጠራ (Target expression (Amharic))",
-            "ግምት መስጠት (Target expression (Amharic))",
-            "ወሬ ማውራት (Target expression (Amharic))"
+            "ተራ ቆጠራ) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)",
+            "ግምት መስጠት) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)",
+            "ወሬ ማውራት) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)"
           ],
           "answerIndex": 0,
           "explanation": "«ስታትስቲካዊ ትንተና» መረጃዎችን በቁጥር እና በሳይንሳዊ ቀመር የመመርመር ሂደት ነው።"
@@ -14300,9 +14300,9 @@
           "prompt": "የመረጃ አሰባሰብ እና ስታትስቲክስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "መረጃ፣ ናሙና፣ መጠይቅ፣ ቃለ-መጠይቅ፣ ስታትስቲክስ እና ትንተና። (የመጀመሪያው አማራጭ የመረጃ አሰባሰብ እና የስታትስቲክስ መሰረታዊ ቃላትን በሙሉ ይዟል።) (የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Collection & Statistical Analysis))",
-            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Target expression (Amharic))",
-            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል። (Target expression (Amharic))",
-            "በጥናት መረጃ አይሰበሰብም። (Target expression (Amharic))"
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ።) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)",
+            "ፈረስ፣ በቅሎ፣ አህያ እና ግመል።) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)",
+            "በጥናት መረጃ አይሰበሰብም።) (Context: የመረጃ አሰባሰብ እና ስታትስቲካዊ ትንተና (Data Co)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የመረጃ አሰባሰብ እና የስታትስቲክስ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14359,9 +14359,9 @@
           "prompt": "በምርምር ማጠቃለያ ላይ ችግሮችን ለመፍታት የሚቀርብ ተግባራዊ ሀሳብ ምን ይባላል?",
           "options": [
             "ምክረ-ሀሳብ (Policy recommendation / actionable counsel)",
-            "ክስ (Target expression (Amharic))",
-            "ቅጣት (Target expression (Amharic))",
-            "ማስጠንቀቂያ (Target expression (Amharic))"
+            "ክስ) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)",
+            "ቅጣት) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)",
+            "ማስጠንቀቂያ) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)"
           ],
           "answerIndex": 0,
           "explanation": "«ምክረ-ሀሳብ» በጥናቱ ግኝት ላይ ተመስርቶ የመፍትሄ እርምጃዎችን የሚጠቁም ጠቃሚ ሀሳብ ነው።"
@@ -14374,9 +14374,9 @@
           "prompt": "'Conclusion, final inference' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ድምዳሜ (Conclusion, deducible inference)",
-            "መነሻ (Target expression (Amharic))",
-            "ጥያቄ (Target expression (Amharic))",
-            "ጭቅጭቅ (Target expression (Amharic))"
+            "መነሻ) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)",
+            "ጥያቄ) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)",
+            "ጭቅጭቅ) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)"
           ],
           "answerIndex": 0,
           "explanation": "«ድምዳሜ» የምርምር መረጃዎችንና ግኝቶችን ተንትኖ የሚደረስበት የመጨረሻ ውሳኔ ነው።"
@@ -14390,9 +14390,9 @@
           "prompt": "የምርምር ውጤት እና ድምዳሜ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ግኝት፣ ውጤት፣ ድምዳሜ፣ ምክረ-ሀሳብ እና አበርክቶ። (የመጀመሪያው አማራጭ የምርምር ውጤት እና ድምዳሜ መሰረታዊ ቃላትን በሙሉ ይዟል።) (የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findings, Conclusion & Policy Recommendations))",
-            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል። (Target expression (Amharic))",
-            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ። (Target expression (Amharic))",
-            "ምርምር ድምዳሜ የለውም። (Target expression (Amharic))"
+            "ሰዓት፣ ቀለበት፣ አምባር እና የአንገት ሀብል።) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)",
+            "ብርቱካን፣ ሙዝ፣ ፓፓያ እና አናናስ።) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)",
+            "ምርምር ድምዳሜ የለውም።) (Context: የምርምር ውጤቶች፣ ድምዳሜ እና ምክረ-ሀሳቦች (Findi)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምርምር ውጤት እና ድምዳሜ መሰረታዊ ቃላትን በሙሉ ይዟል።"
@@ -14449,9 +14449,9 @@
           "prompt": "በሳይንሳዊ ጽሁፍ ውስጥ የሌሎች ምሁራንን ሀሳብና መረጃ የወሰድንበትን ምንጭ በግልጽ ማመልከት ምን ይባላል?",
           "options": [
             "ማጣቀሻ (Citation / Reference - Acknowledging source materials)",
-            "ስርቆት (Target expression (Amharic))",
-            "ስህተት (Target expression (Amharic))",
-            "መደበቅ (Target expression (Amharic))"
+            "ስርቆት) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)",
+            "ስህተት) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)",
+            "መደበቅ) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)"
           ],
           "answerIndex": 0,
           "explanation": "«ማጣቀሻ» የተጠቀምንባቸውን መጽሐፍትና ጥናቶች በታማኝነት መግለጽ ነው።"
@@ -14464,9 +14464,9 @@
           "prompt": "'Peer review' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የአቻ ግምገማ (Peer review / expert scholarly evaluation)",
-            "የጓደኛ ጭውውት (Target expression (Amharic))",
-            "ያለ ምርመራ ማለፍ (Target expression (Amharic))",
-            "የዘፈቀደ ውሳኔ (Target expression (Amharic))"
+            "የጓደኛ ጭውውት) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)",
+            "ያለ ምርመራ ማለፍ) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)",
+            "የዘፈቀደ ውሳኔ) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)"
           ],
           "answerIndex": 0,
           "explanation": "«የአቻ ግምገማ» በዘርፉ ባለሙያ ምሁራን ጥናትን በጥልቀት የመገምገም ሳይንሳዊ ስርዓት ነው።"
@@ -14480,9 +14480,9 @@
           "prompt": "የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የአካዳሚክ ስነ-ምግባር፣ ማጣቀሻ፣ ዋቢ መጽሐፍ፣ የአቻ ግምገማ እና ህትመት። (የመጀመሪያው አማራጭ የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቁልፍ ቃላትን በሙሉ ይዟል።) (የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Academic Ethics, Citations & Peer Review))",
-            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (Target expression (Amharic))",
-            "ጠመኔ፣ ጥቁር ሰሌዳ እና እስክሪብቶ። (Target expression (Amharic))",
-            "በአካዳሚክ ስራ ህግ የለም። (Target expression (Amharic))"
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር።) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)",
+            "ጠመኔ፣ ጥቁር ሰሌዳ እና እስክሪብቶ።) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)",
+            "በአካዳሚክ ስራ ህግ የለም።) (Context: የአካዳሚክ ስነ-ምግባር እና የምንጭ አጠቃቀም (Acade)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአካዳሚክ ስነ-ምግባር እና የማጣቀሻ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14539,9 +14539,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሳይንሳዊ ምርምር እና የአካዳሚክ ትንተና ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "ተመራማሪዋ የምርምር ዘዴዋን፣ የስታትስቲክስ ትንተናዋን እና ግኝቶቿን በምሁራን ፊት በተሳካ ሁኔታ ተከላከለች። (Complete synthesis combining methodology, statistics, findings, and thesis defense)",
-            "ምንም ጥናት አልተደረገም (Target expression (Amharic))",
-            "ሁሉም ተራ ወሬ ነው (Target expression (Amharic))",
-            "ምርምር የለም (Target expression (Amharic))"
+            "ምንም ጥናት አልተደረገም) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )",
+            "ሁሉም ተራ ወሬ ነው) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )",
+            "ምርምር የለም) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የምርምር ዘዴን፣ ስታትስቲክስንና የግኝት መከላከያን በአንድነት ያጠቃለለ ነው።"
@@ -14554,9 +14554,9 @@
           "prompt": "የአካዳሚክ ስነ-ምግባርን እና ሳይንሳዊ ምርምርን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ተመራማሪው በታማኝነት እና በጥብቅ የአቻ ግምገማ ላይ ተመስርቶ አስተማማኝ ግኝቶችን ይፋ አደረገ። (The researcher released reliable findings based upon integrity and rigorous peer review - Accurate unified sentence)",
-            "ምንም መረጃ የለም (Target expression (Amharic))",
-            "ማጣቀሻ አያስፈልግም (Target expression (Amharic))",
-            "ስርቆት ይፈቀዳል (Target expression (Amharic))"
+            "ምንም መረጃ የለም) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )",
+            "ማጣቀሻ አያስፈልግም) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )",
+            "ስርቆት ይፈቀዳል) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የአካዳሚክ ታማኝነትንና ሳይንሳዊ ግኝቶችን በትክክል ያዛምዳል።"
@@ -14570,9 +14570,9 @@
           "prompt": "የክፍል 31 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የምርምር ዘዴዎችና መላምት፣ የመረጃ አሰባሰብና ስታትስቲክስ፣ ግኝቶችና ምክረ-ሀሳቦች፣ እንዲሁም አካዳሚክ ስነ-ምግባርና የአቻ ግምገማ ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 31ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand Synthesis & Scholarly Research Defense))",
-            "ይህ ክፍል ስለ ንግድ ብቻ ነው። (Target expression (Amharic))",
-            "በሳይንስ መረጃ አያስፈልግም። (Target expression (Amharic))",
-            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ንግድ ብቻ ነው።) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )",
+            "በሳይንስ መረጃ አያስፈልግም።) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )",
+            "ሁሉም ዘዴዎች ተመሳሳይ ናቸው።) (Context: የክፍል 31 አጠቃላይ ማጠቃለያ (Unit 31 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 31ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -14629,9 +14629,9 @@
           "prompt": "አንድን ሀገር ወክሎ በሌላ ሀገር ውስጥ በቋሚነት የሚሰራ ከፍተኛ የዲፕሎማሲ መሪ ማን ይባላል?",
           "options": [
             "አምባሳደር (Ambassador - Highest diplomatic envoy)",
-            "ነጋዴ (Target expression (Amharic))",
-            "ተጓዥ (Target expression (Amharic))",
-            "ጋዜጠኛ (Target expression (Amharic))"
+            "ነጋዴ) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)",
+            "ተጓዥ) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)",
+            "ጋዜጠኛ) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)"
           ],
           "answerIndex": 0,
           "explanation": "«አምባሳደር» የሀገርን የውጭ ግንኙነት እና ጥቅም የሚመራ ዋና ዲፕሎማት ነው።"
@@ -14644,9 +14644,9 @@
           "prompt": "'Foreign policy' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የውጭ ጉዳይ ፖሊሲ (Foreign policy / international strategic doctrine)",
-            "የቤት ውስጥ ደንብ (Target expression (Amharic))",
-            "የትራፊክ መመሪያ (Target expression (Amharic))",
-            "የከተማ ፕላን (Target expression (Amharic))"
+            "የቤት ውስጥ ደንብ) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)",
+            "የትራፊክ መመሪያ) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)",
+            "የከተማ ፕላን) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)"
           ],
           "answerIndex": 0,
           "explanation": "«የውጭ ጉዳይ ፖሊሲ» አንዲት ሀገር ከሌሎች ሀገራት ጋር ያላትን ግንኙነት የምትመራበት መመሪያ ነው።"
@@ -14660,9 +14660,9 @@
           "prompt": "የዲፕሎማሲ እና የውጭ ጉዳይ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ዲፕሎማሲ፣ አምባሳደር፣ ኤምባሲ፣ የውጭ ጉዳይ ፖሊሲ እና ዲፕሎማት። (የመጀመሪያው አማራጭ የዲፕሎማሲ እና የውጭ ጉዳይ ቁልፍ ቃላትን በሙሉ ይዟል።) (የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Diplomatic Relations & Foreign Policy))",
-            "ወተት፣ ማር፣ ቅቤ እና እርጎ። (Target expression (Amharic))",
-            "ጠረጴዛ፣ አልጋ እና ሶፋ። (Target expression (Amharic))",
-            "በዲፕሎማሲ አምባሳደር የለም። (Target expression (Amharic))"
+            "ወተት፣ ማር፣ ቅቤ እና እርጎ።) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)",
+            "ጠረጴዛ፣ አልጋ እና ሶፋ።) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)",
+            "በዲፕሎማሲ አምባሳደር የለም።) (Context: የዲፕሎማሲያዊ ግንኙነት እና የውጭ ጉዳይ ፖሊሲ (Dipl)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የዲፕሎማሲ እና የውጭ ጉዳይ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -14719,9 +14719,9 @@
           "prompt": "በአዲስ አበባ ከተማ ዋና መቀመጫውን ያደረገውና መላውን አፍሪካ የሚያስተባብረው ታላቅ አህጉራዊ ድርጅት ማን ይባላል?",
           "options": [
             "የአፍሪካ ህብረት (African Union - Continental intergovernmental union)",
-            "የአውሮፓ ህብረት (Target expression (Amharic))",
-            "የእስያ ማህበር (Target expression (Amharic))",
-            "የአሜሪካ ድርጅት (Target expression (Amharic))"
+            "የአውሮፓ ህብረት) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)",
+            "የእስያ ማህበር) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)",
+            "የአሜሪካ ድርጅት) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)"
           ],
           "answerIndex": 0,
           "explanation": "«የአፍሪካ ህብረት» ዋና መቀመጫው በአዲስ አበባ የሆነ አህጉራዊ ተቋም ነው።"
@@ -14734,9 +14734,9 @@
           "prompt": "'Pan-Africanism' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ፓን-አፍሪካኒዝም (Pan-Africanism / continental solidarity & unity movement)",
-            "ብቸኝነት (Target expression (Amharic))",
-            "የጎሳ ክፍፍል (Target expression (Amharic))",
-            "የአካባቢ ጠብ (Target expression (Amharic))"
+            "ብቸኝነት) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)",
+            "የጎሳ ክፍፍል) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)",
+            "የአካባቢ ጠብ) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)"
           ],
           "answerIndex": 0,
           "explanation": "«ፓን-አፍሪካኒዝም» መላው ጥቁር ህዝቦችና አፍሪካውያን በአንድነት እንዲተባበሩ የሚያስተምር እንቅስቃሴ ነው።"
@@ -14750,9 +14750,9 @@
           "prompt": "የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የአፍሪካ ህብረት፣ ፓን-አፍሪካኒዝም፣ አዲስ አበባ፣ አህጉራዊ አንድነት እና ትብብር። (የመጀመሪያው አማራጭ የአፍሪካ ህብረት እና የአህጉራዊ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።) (የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (African Union & Pan-Africanism))",
-            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ። (Target expression (Amharic))",
-            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ። (Target expression (Amharic))",
-            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም። (Target expression (Amharic))"
+            "መኪና፣ ባቡር፣ አውቶቡስ እና ታክሲ።) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)",
+            "ሸሚዝ፣ ሱሪ፣ ካፖርት እና ኮፍያ።) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)",
+            "የአፍሪካ ህብረት አዲስ አበባ ውስጥ የለም።) (Context: የአፍሪካ ህብረት እና የፓን-አፍሪካኒዝም እንቅስቃሴ (A)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአፍሪካ ህብረት እና የአህጉራዊ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
@@ -14900,9 +14900,9 @@
           "prompt": "በተባበሩት መንግስታት ስር በጦርነት ቀጠናዎች ውስጥ ሰላምን እና ደህንነትን ለመጠበቅ የሚሰማራ ኃይል ምን ይባላል?",
           "options": [
             "የሰላም አስከባሪ ኃይል (Peacekeeping force - UN multinational peacekeeping troops)",
-            "የወረራ ኃይል (Target expression (Amharic))",
-            "የሽምቅ ተዋጊ (Target expression (Amharic))",
-            "የንግድ ቡድን (Target expression (Amharic))"
+            "የወረራ ኃይል) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)",
+            "የሽምቅ ተዋጊ) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)",
+            "የንግድ ቡድን) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)"
           ],
           "answerIndex": 0,
           "explanation": "«የሰላም አስከባሪ ኃይል» በዓለም አቀፍ ተልዕኮ ህዝብንና ሰላምን የሚጠብቅ ሰራዊት ነው።"
@@ -14915,9 +14915,9 @@
           "prompt": "'Peacekeeping mission' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የሰላም ማስከበር ተልዕኮ (Peacekeeping mission / multilateral stabilization operation)",
-            "የጦርነት አዋጅ (Target expression (Amharic))",
-            "የዘመቻ ጥሪ (Target expression (Amharic))",
-            "የሽያጭ ማስታወቂያ (Target expression (Amharic))"
+            "የጦርነት አዋጅ) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)",
+            "የዘመቻ ጥሪ) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)",
+            "የሽያጭ ማስታወቂያ) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)"
           ],
           "answerIndex": 0,
           "explanation": "«የሰላም ማስከበር ተልዕኮ» ዓለም አቀፍ ሰላምን ለማረጋገጥ የሚደረግ የተቀናጀ ጥረት ነው።"
@@ -14931,9 +14931,9 @@
           "prompt": "የሰላም ማስከበር እና የዓለም አቀፍ ተልዕኮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የሰላም ማስከበር፣ ተልዕኮ፣ የተባበሩት መንግስታት፣ የጸጥታ ምክር ቤት እና ሰብአዊ እርዳታ። (የመጀመሪያው አማራጭ የሰላም ማስከበር እና የዓለም አቀፍ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።) (የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (Peacekeeping Missions & Global Statecraft))",
-            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም። (Target expression (Amharic))",
-            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን። (Target expression (Amharic))",
-            "በሰላም ማስከበር ተልዕኮ የለም። (Target expression (Amharic))"
+            "ወረቀት፣ ብዕር፣ ደብተር እና ቀለም።) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)",
+            "ጠረጴዛ፣ ወንበር እና ቁምሳጥን።) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)",
+            "በሰላም ማስከበር ተልዕኮ የለም።) (Context: የሰላም ማስከበር ተልዕኮ እና ዓለም አቀፍ ዲፕሎማሲ (P)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የሰላም ማስከበር እና የዓለም አቀፍ ዲፕሎማሲ ቃላትን በሙሉ ይዟል።"
@@ -14991,9 +14991,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ዲፕሎማሲ እና የዓለም አቀፍ ግንኙነት ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "ኢትዮጵያ በአፍሪካ ህብረት መዲናነቷ እና በዓለም አቀፍ የሰላም ማስከበር ተልዕኮዎቿ ታላቅ የዲፕሎማሲ አሻራ አላት። (Complete synthesis combining African Union capital status and peacekeeping missions)",
-            "ምንም ዲፕሎማሲ የለም (Target expression (Amharic))",
-            "ሁሉም ተራ ወሬ ነው (Target expression (Amharic))",
-            "ኤምባሲ የለም (Target expression (Amharic))"
+            "ምንም ዲፕሎማሲ የለም) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )",
+            "ሁሉም ተራ ወሬ ነው) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )",
+            "ኤምባሲ የለም) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የአፍሪካ ህብረትን፣ ዲፕሎማሲንና የሰላም ማስከበርን በአንድነት ያጠቃለለ ነው።"
@@ -15006,9 +15006,9 @@
           "prompt": "የዲፕሎማሲያዊ ግንኙነትን እና ዓለም አቀፍ ስምምነቶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "አምባሳደሮቹ በሁለትዮሽ ድርድር ታሪካዊ የሰላም እና የንግድ ስምምነት ተፈራረሙ። (The ambassadors signed a historic peace and trade treaty in bilateral negotiations - Accurate unified sentence)",
-            "ምንም ውይይት አልተደረገም (Target expression (Amharic))",
-            "ስምምነት አያስፈልግም (Target expression (Amharic))",
-            "ድርድር የለም (Target expression (Amharic))"
+            "ምንም ውይይት አልተደረገም) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )",
+            "ስምምነት አያስፈልግም) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )",
+            "ድርድር የለም) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ዲፕሎማሲያዊ ግንኙነትን እና ህጋዊ ስምምነቶችን በትክክል ያዛምዳል።"
@@ -15022,9 +15022,9 @@
           "prompt": "የክፍል 32 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የዲፕሎማሲያዊ ግንኙነትና ኤምባሲ፣ የአፍሪካ ህብረትና ፓን-አፍሪካኒዝም፣ ዓለም አቀፍ ስምምነቶችና ድርድሮች፣ እንዲሁም የሰላም ማስከበር ተልዕኮዎች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 32ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand Synthesis & Ethiopian Diplomatic History))",
-            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው። (Target expression (Amharic))",
-            "በዓለም አቀፍ ግንኙነት ህግ የለም። (Target expression (Amharic))",
-            "ሁሉም ሀገራት አንድ አይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )",
+            "በዓለም አቀፍ ግንኙነት ህግ የለም።) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )",
+            "ሁሉም ሀገራት አንድ አይነት ናቸው።) (Context: የክፍል 32 አጠቃላይ ማጠቃለያ (Unit 32 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 32ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -15171,9 +15171,9 @@
           "prompt": "«ድር ቢያብር አንበሳ ያስር» የሚለው የአማርኛ አባባል በምን አይነት የስነ-ጽሑፍ ዘውግ ይመደባል?",
           "options": [
             "ምሳሌያዊ አነጋገር (Proverb / maxim of collective wisdom)",
-            "የዜና ዘገባ (Target expression (Amharic))",
-            "የህግ ድንጋጌ (Target expression (Amharic))",
-            "የሂሳብ ቀመር (Target expression (Amharic))"
+            "የዜና ዘገባ) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)",
+            "የህግ ድንጋጌ) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)",
+            "የሂሳብ ቀመር) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አባባል የአንድነትን ጥቅም የሚያስተምር ጥንታዊ ምሳሌያዊ አነጋገር ነው።"
@@ -15186,9 +15186,9 @@
           "prompt": "'Idiomatic expression' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ፈሊጣዊ አነጋገር (Idiomatic expression / metaphorical phrase)",
-            "ቀጥተኛ ትርጉም (Target expression (Amharic))",
-            "የፊደል ስህተት (Target expression (Amharic))",
-            "ተራ ድምፅ (Target expression (Amharic))"
+            "ቀጥተኛ ትርጉም) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)",
+            "የፊደል ስህተት) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)",
+            "ተራ ድምፅ) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)"
           ],
           "answerIndex": 0,
           "explanation": "«ፈሊጣዊ አነጋገር» ቃላቱ ከቀጥተኛ ትርጉማቸው ውጭ ልዩ ባህላዊ መልእክት የሚያስተላልፉበት መንገድ ነው።"
@@ -15202,9 +15202,9 @@
           "prompt": "የፈሊጥ እና የምሳሌያዊ አነጋገር ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ምሳሌያዊ አነጋገር፣ ፈሊጥ፣ ተረትና ምሳሌ፣ ጥበብ እና አባባል። (የመጀመሪያው አማራጭ የምሳሌያዊ አነጋገሮች እና የፈሊጥ ቁልፍ ቃላትን በሙሉ ይዟል።) (የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Proverbs & Idiomatic Expressions))",
-            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ። (Target expression (Amharic))",
-            "ፈረስ፣ በቅሎ እና አህያ። (Target expression (Amharic))",
-            "በአማርኛ ምሳሌያዊ አነጋገር የለም። (Target expression (Amharic))"
+            "ጫማ፣ ካልሲ፣ ኮት እና ቀሚስ።) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)",
+            "ፈረስ፣ በቅሎ እና አህያ።) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)",
+            "በአማርኛ ምሳሌያዊ አነጋገር የለም።) (Context: የላቁ ፈሊጣዊ አነጋገሮች እና ምሳሌያዊ አነጋገሮች (Pr)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የምሳሌያዊ አነጋገሮች እና የፈሊጥ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15261,9 +15261,9 @@
           "prompt": "ንግግርን በሚገባ አሳምሮ የሚናገር፣ ቃላትን የሚያውቅና ህዝብን የማሳመን ችሎታ ያለው ሰው ምን ይባላል?",
           "options": [
             "አንደበተ ርቱዕ (Eloquent orator / articulate speaker)",
-            "ዲዳ (Target expression (Amharic))",
-            "ዝምተኛ (Target expression (Amharic))",
-            "ተመልካች (Target expression (Amharic))"
+            "ዲዳ) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)",
+            "ዝምተኛ) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)",
+            "ተመልካች) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)"
           ],
           "answerIndex": 0,
           "explanation": "«አንደበተ ርቱዕ» በንግግር ችሎታው እና በማሳመን ጥበቡ የተመሰገነ ተናጋሪ ነው።"
@@ -15276,9 +15276,9 @@
           "prompt": "'Persuasive speech' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "አሳማኝ ንግግር (Persuasive speech / compelling oration)",
-            "ተራ ወሬ (Target expression (Amharic))",
-            "የስልክ ጥሪ (Target expression (Amharic))",
-            "ጩኸት (Target expression (Amharic))"
+            "ተራ ወሬ) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)",
+            "የስልክ ጥሪ) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)",
+            "ጩኸት) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)"
           ],
           "answerIndex": 0,
           "explanation": "«አሳማኝ ንግግር» በአድማጮች ልብ እና አእምሮ ላይ ተጽዕኖ የሚያሳድር የተዋቀረ ንግግር ነው።"
@@ -15292,9 +15292,9 @@
           "prompt": "የአደባባይ ንግግር እና የማሳመን ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "አደባባይ ንግግር፣ አንደበተ ርቱዕ፣ ማሳመን፣ ቅላጼ እና አድማጭ። (የመጀመሪያው አማራጭ የአደባባይ ንግግር እና የማሳመን ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።) (የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Oratory & Persuasive Rhetoric))",
-            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ። (Target expression (Amharic))",
-            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ። (Target expression (Amharic))",
-            "በአደባባይ ንግግር አይደረግም። (Target expression (Amharic))"
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ።) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)",
+            "ሰዓት፣ ቴሌቪዥን እና ሬዲዮ።) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)",
+            "በአደባባይ ንግግር አይደረግም።) (Context: የአደባባይ ንግግር እና የማሳመን ጥበብ (Public Or)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የአደባባይ ንግግር እና የማሳመን ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15441,9 +15441,9 @@
           "prompt": "ከሚከተሉት ውስጥ የተሟላ የሰምና ወርቅ፣ የፈሊጥ እና የአደባባይ ንግግር ውህደትን የያዘው የትኛው ነው?",
           "options": [
             "አንደበተ ርቱዕ ተናጋሪው ሰምና ወርቅን፣ ፈሊጦችንና ዘይቤዎችን አዋህዶ ያቀረበው ንግግር የአድማጮቹን ልብ ማረከ። (Complete synthesis combining Wax & Gold, idioms, metaphors, and public eloquence)",
-            "ምንም ንግግር አልተደረገም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ቅኔ የለም (Target expression (Amharic))"
+            "ምንም ንግግር አልተደረገም) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )",
+            "ቅኔ የለም) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ ሰምና ወርቅን፣ ፈሊጦችን፣ ዘይቤዎችንና አንደበተ-ርቱዕነትን በአንድነት ያጠቃለለ ነው።"
@@ -15456,9 +15456,9 @@
           "prompt": "የቅኔ ጥበብን እና ዘይቤያዊ ውበትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "ገጣሚው በሰምና ወርቅ እና በተምሳሌታዊ ዘይቤ የተዋበ ድንቅ ቅኔ ተቀኘ። (The poet composed a wondrous Qene adorned with Wax & Gold and symbolic metaphor - Accurate unified sentence)",
-            "ምንም ግጥም አልተጻፈም (Target expression (Amharic))",
-            "ዘይቤ አያስፈልግም (Target expression (Amharic))",
-            "ቃላት የሉም (Target expression (Amharic))"
+            "ምንም ግጥም አልተጻፈም) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )",
+            "ዘይቤ አያስፈልግም) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )",
+            "ቃላት የሉም) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የሰምና ወርቅ ቅኔን እና ዘይቤያዊ ውበትን በትክክል ያዛምዳል።"
@@ -15472,9 +15472,9 @@
           "prompt": "የክፍል 33 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የሰምና ወርቅ ቅኔ ጥበብ፣ ፈሊጣዊና ምሳሌያዊ አነጋገሮች፣ የአደባባይ ንግግርና ማሳመን፣ እንዲሁም ዘይቤያዊ አገላለጾች ተካተዋል። (የመጀመሪያው አማራጭ የክፍል 33ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።) (የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand Synthesis & Rhetorical Mastery))",
-            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው። (Target expression (Amharic))",
-            "በአማርኛ ስነ-ጽሑፍ የለም። (Target expression (Amharic))",
-            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው። (Target expression (Amharic))"
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው።) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )",
+            "በአማርኛ ስነ-ጽሑፍ የለም።) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )",
+            "ሁሉም ፈሊጦች ተመሳሳይ ናቸው።) (Context: የክፍል 33 አጠቃላይ ማጠቃለያ (Unit 33 Grand )"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የክፍል 33ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
@@ -15531,9 +15531,9 @@
           "prompt": "ዲፕሎማቶች በተልዕኮ ሀገራቸው ውስጥ በሚሰሩበት ወቅት ከህጋዊ ክስ ነፃ የሚያደርጋቸው ዓለም አቀፍ መብት ምን ይባላል?",
           "options": [
             "ያለመከሰስ መብት (Diplomatic immunity - Legal protection from host jurisdiction)",
-            "የጉዞ ፈቃድ (Target expression (Amharic))",
-            "የንግድ ፈቃድ (Target expression (Amharic))",
-            "የቀረጥ ነፃ ካርድ (Target expression (Amharic))"
+            "የጉዞ ፈቃድ) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()",
+            "የንግድ ፈቃድ) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()",
+            "የቀረጥ ነፃ ካርድ) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()"
           ],
           "answerIndex": 0,
           "explanation": "«ያለመከሰስ መብት» ዲፕሎማቶች ስራቸውን ያለ ጫና እንዲያከናውኑ የሚያስችል ዓለም አቀፍ ህጋዊ ጥበቃ ነው።"
@@ -15546,9 +15546,9 @@
           "prompt": "'Vienna Convention' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "የቪየና ስምምነት (Vienna Convention / foundational international diplomatic accord)",
-            "የከተማ ደንብ (Target expression (Amharic))",
-            "የስፖርት ህግ (Target expression (Amharic))",
-            "የትምህርት መመሪያ (Target expression (Amharic))"
+            "የከተማ ደንብ) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()",
+            "የስፖርት ህግ) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()",
+            "የትምህርት መመሪያ) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()"
           ],
           "answerIndex": 0,
           "explanation": "«የቪየና ስምምነት» ዓለም አቀፍ የዲፕሎማሲ እና የውል ግንኙነቶችን የሚገዛ ዋና ስምምነት ነው።"
@@ -15562,9 +15562,9 @@
           "prompt": "የቪየና ስምምነት እና ዓለም አቀፍ ህግጋትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "የቪየና ስምምነት፣ ዓለም አቀፍ ህግ፣ ያለመከሰስ መብት፣ የዲፕሎማሲ ጥበቃ እና ሉዓላዊነት። (የመጀመሪያው አማራጭ የቪየና ስምምነት እና የዲፕሎማሲ ህግጋትን ቁልፍ ቃላት በሙሉ ይዟል።) (የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት (Vienna Convention & Diplomatic Immunity))",
-            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ። (Target expression (Amharic))",
-            "ልብስ፣ ጫማ እና ካፖርት። (Target expression (Amharic))",
-            "በዲፕሎማሲ ህግ የለም። (Target expression (Amharic))"
+            "ቡና፣ ሻይ፣ ስኳር እና ዳቦ።) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()",
+            "ልብስ፣ ጫማ እና ካፖርት።) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()",
+            "በዲፕሎማሲ ህግ የለም።) (Context: የቪየና የዲፕሎማሲ ስምምነት እና ዓለም አቀፍ ህግጋት ()"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የቪየና ስምምነት እና የዲፕሎማሲ ህግጋትን ቁልፍ ቃላት በሙሉ ይዟል።"
@@ -15622,9 +15622,9 @@
           "prompt": "በኢትዮጵያ ስነ-ጽሑፍ ታሪክ ውስጥ በብራና ላይ ይጻፉ የነበሩ የነገሥታት እና የታሪክ መዝገቦች ምን ይባላሉ?",
           "options": [
             "ዜና መዋዕል (Royal chronicles / historical annals)",
-            "የዜና ጋዜጣ (Target expression (Amharic))",
-            "የንግድ ሰነድ (Target expression (Amharic))",
-            "የመንገድ ካርታ (Target expression (Amharic))"
+            "የዜና ጋዜጣ) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)",
+            "የንግድ ሰነድ) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)",
+            "የመንገድ ካርታ) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)"
           ],
           "answerIndex": 0,
           "explanation": "«ዜና መዋዕል» የነገሥታቱን ታሪክና የዘመኑን ክስተቶች የሚመዘግቡ ጥንታዊ የብራና ድርሰቶች ናቸው።"
@@ -15637,9 +15637,9 @@
           "prompt": "'Modern novel' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ዘመናዊ ልብወለድ (Modern novel / narrative fiction)",
-            "ጥንታዊ ዝማሬ (Target expression (Amharic))",
-            "የህግ መመሪያ (Target expression (Amharic))",
-            "የህክምና ማዘዣ (Target expression (Amharic))"
+            "ጥንታዊ ዝማሬ) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)",
+            "የህግ መመሪያ) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)",
+            "የህክምና ማዘዣ) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)"
           ],
           "answerIndex": 0,
           "explanation": "«ዘመናዊ ልብወለድ» ገጸ-ባህሪያትንና ታሪክን አዋቅሮ የሚቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
@@ -15653,9 +15653,9 @@
           "prompt": "የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ስነ-ጽሑፍ፣ ብራና፣ ዜና መዋዕል፣ ልብወለድ እና ድርሰት። (የመጀመሪያው አማራጭ የኢትዮጵያ ስነ-ጽሑፍ ታሪክ ቁልፍ ቃላትን በሙሉ ይዟል።) (የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (History of Amharic Literature))",
-            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን። (Target expression (Amharic))",
-            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር። (Target expression (Amharic))",
-            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም። (Target expression (Amharic))"
+            "ወንበር፣ ጠረጴዛ፣ አልጋ እና ቁምሳጥን።) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)",
+            "ስልክ፣ ሬዲዮ፣ ቴሌቪዥን እና ኮምፒውተር።) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)",
+            "በኢትዮጵያ ስነ-ጽሑፍ አልነበረም።) (Context: የኢትዮጵያ ስነ-ጽሑፍ እና የቋንቋ እድገት ታሪክ (His)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የኢትዮጵያ ስነ-ጽሑፍ ታሪክ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15712,9 +15712,9 @@
           "prompt": "በጽሁፍ ሳይሆን በአፈ-ታሪክ፣ በተረትና በዜማ ከትውልድ ወደ ትውልድ የሚተላለፍ የባህል ሀብት ምን ይባላል?",
           "options": [
             "ስነ-ቃል (Oral tradition / folklore and oral narratives)",
-            "የህግ መጽሐፍ (Target expression (Amharic))",
-            "የባንክ ሰነድ (Target expression (Amharic))",
-            "የሳይንስ መጽሔት (Target expression (Amharic))"
+            "የህግ መጽሐፍ) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)",
+            "የባንክ ሰነድ) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)",
+            "የሳይንስ መጽሔት) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)"
           ],
           "answerIndex": 0,
           "explanation": "«ስነ-ቃል» በአፍ የሚነገሩ ተረቶችን፣ ዘፈኖችንና ምሳሌዎችን የያዘ የባህል ቅርስ ነው።"
@@ -15727,9 +15727,9 @@
           "prompt": "'National heritage' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ብሔራዊ ቅርስ (National heritage / sovereign historical legacy)",
-            "የግል ንብረት (Target expression (Amharic))",
-            "የንግድ እቃ (Target expression (Amharic))",
-            "ተራ ቦታ (Target expression (Amharic))"
+            "የግል ንብረት) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)",
+            "የንግድ እቃ) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)",
+            "ተራ ቦታ) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)"
           ],
           "answerIndex": 0,
           "explanation": "«ብሔራዊ ቅርስ» የመላው ሀገር እና ህዝብ የጋራ ታሪካዊና ባህላዊ ሀብት ነው።"
@@ -15743,9 +15743,9 @@
           "prompt": "የባህል ውህደት እና የብሔራዊ ቅርስ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ብሔራዊ ቅርስ፣ ስነ-ቃል፣ የባህል ብዝሃነት፣ ውህደት እና ጥንታዊ ስልጣኔ። (የመጀመሪያው አማራጭ የባህል ውህደት እና የታሪካዊ ቅርስ ቁልፍ ቃላትን በሙሉ ይዟል።) (የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultural Synthesis & National Heritage))",
-            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ። (Target expression (Amharic))",
-            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ። (Target expression (Amharic))",
-            "በኢትዮጵያ ቅርስ የለም። (Target expression (Amharic))"
+            "መኪና፣ አውሮፕላን፣ ባቡር እና መርከብ።) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)",
+            "እንጨት፣ ድንጋይ፣ አሸዋ እና ሲሚንቶ።) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)",
+            "በኢትዮጵያ ቅርስ የለም።) (Context: የባህል ውህደት፣ ስነ-ቃል እና ብሔራዊ ቅርስ (Cultu)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የባህል ውህደት እና የታሪካዊ ቅርስ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15802,9 +15802,9 @@
           "prompt": "በምክንያትና በማስረጃ ላይ ተመስርቶ እውነትን የማመዛዘን እና የማሰብ ጥበብ ምን ይባላል?",
           "options": [
             "አመክንዮ / ምክንያታዊ አስተሳሰብ (Logic / rational reasoning)",
-            "የዘፈቀደ ግምት (Target expression (Amharic))",
-            "ስሜታዊ ቁጣ (Target expression (Amharic))",
-            "ጭፍን እምነት (Target expression (Amharic))"
+            "የዘፈቀደ ግምት) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)",
+            "ስሜታዊ ቁጣ) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)",
+            "ጭፍን እምነት) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)"
           ],
           "answerIndex": 0,
           "explanation": "«አመክንዮ» በአእምሮ እና በማስረጃ እውነትን የመመርመር ፍልስፍናዊ መንገድ ነው።"
@@ -15817,9 +15817,9 @@
           "prompt": "'Philosophical inquiry, treatise' የሚለውን ፅንሰ-ሀሳብ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
             "ሐተታ / ፍልስፍናዊ ምርመራ (Treatise / critical philosophical discourse)",
-            "የግዢ ዝርዝር (Target expression (Amharic))",
-            "የስልክ ማስታወሻ (Target expression (Amharic))",
-            "ተራ ወሬ (Target expression (Amharic))"
+            "የግዢ ዝርዝር) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)",
+            "የስልክ ማስታወሻ) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)",
+            "ተራ ወሬ) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)"
           ],
           "answerIndex": 0,
           "explanation": "«ሐተታ» በጥልቅ ምርምርና አመክንዮ የተጻፈ ፍልስፍናዊ ድርሰት ነው።"
@@ -15833,9 +15833,9 @@
           "prompt": "የፍልስፍና ክርክር እና የአመክንዮ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
             "ፍልስፍና፣ አመክንዮ፣ ሐተታ፣ ማመዛዘን፣ እውነት እና ክርክር። (የመጀመሪያው አማራጭ የፍልስፍና እና የአመክንዮ ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።) (የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Philosophical Discourse & Logic))",
-            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት። (Target expression (Amharic))",
-            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ። (Target expression (Amharic))",
-            "በፍልስፍና አመክንዮ የለም። (Target expression (Amharic))"
+            "ጨው፣ በርበሬ፣ ዘይት እና ዱቄት።) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)",
+            "ወረቀት፣ እርሳስ፣ ላጲስ እና መቅረጫ።) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)",
+            "በፍልስፍና አመክንዮ የለም።) (Context: የላቀ የፍልስፍና ክርክር እና የአመክንዮ ጥበብ (Phil)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የፍልስፍና እና የአመክንዮ ጥበብ ቁልፍ ቃላትን በሙሉ ይዟል።"
@@ -15892,9 +15892,9 @@
           "prompt": "ከሚከተሉት ውስጥ የመላውን የአማርኛ ቋንቋ ትምህርት (ክፍል 1–34) ፍጹም የብቃት ውህደት የሚያሳየው የትኛው ነው?",
           "options": [
             "ተማሪው የአማርኛ ቋንቋን ሰዋሰዋዊ ውበት፣ ታሪካዊ ቅርስ እና ጥልቅ ፍልስፍና ጠንቅቆ በመረዳት የC2 ፍጹም የብቃት ደረጃን ተቀዳጀ። (Complete synthesis of grammar, heritage, and philosophy achieving full C2 mastery)",
-            "ምንም ትምህርት አልተጠናቀቀም (Target expression (Amharic))",
-            "ሁሉም ተራ ቃላት ናቸው (Target expression (Amharic))",
-            "ቋንቋው አልተጠናም (Target expression (Amharic))"
+            "ምንም ትምህርት አልተጠናቀቀም) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)",
+            "ሁሉም ተራ ቃላት ናቸው) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)",
+            "ቋንቋው አልተጠናም) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ አማራጭ የ34ቱን ክፍሎች አጠቃላይ የቋንቋ፣ የባህልና የፍልስፍና ውህደት ያረጋግጣል።"
@@ -15907,9 +15907,9 @@
           "prompt": "የአማርኛ ቋንቋን ጥልቅ እውቀትና የተሟላ የC2 ብቃት ያረጋገጠ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
             "የአማርኛ ቋንቋ ጥናት ከፊደል ንባብ ጀምሮ እስከ ከፍተኛ ዲፕሎማሲ፣ ቅኔ እና አመክንዮ ድረስ የተዘረጋ ታላቅ የእውቀት ጉዞ ነው። (The study of Amharic is a grand journey spanning from Fidel literacy to diplomacy, Qene, and logic - Accurate unified capstone sentence)",
-            "ምንም እውቀት አልተገኘም (Target expression (Amharic))",
-            "ትምህርት አያስፈልግም (Target expression (Amharic))",
-            "ቃላት የሉም (Target expression (Amharic))"
+            "ምንም እውቀት አልተገኘም) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)",
+            "ትምህርት አያስፈልግም) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)",
+            "ቃላት የሉም) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)"
           ],
           "answerIndex": 0,
           "explanation": "ይህ ምርጫ የካሪኩለሙን አጠቃላይ የትምህርት ጉዞ በትክክል ያጠቃልላል።"
@@ -15923,9 +15923,9 @@
           "prompt": "የአማርኛ ቋንቋ ሙሉ ካሪኩለምን (ክፍል 1 እስከ 34) ፍጹም ይዘት በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
             "የፊደላት ንባብ፣ ሰዋሰውና የግስ እርባታ፣ የዕለት ተዕለት ተግባቦት፣ ሳይንስ፣ ታሪክ፣ ባህላዊና ህጋዊ ፍልስፍና፣ ዓለም አቀፍ ዲፕሎማሲ፣ እንዲሁም የሰምና ወርቅ ቅኔ ጥበብ ሙሉ በሙሉ ተካተዋል። (የመጀመሪያው አማራጭ የ170ዎቹንም ትምህርቶች አጠቃላይ እውቀትና ብቃት ያጠቃልላል።) (የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Capstone Synthesis & Complete C2 Mastery))",
-            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው። (Target expression (Amharic))",
-            "ምንም አይነት ሰዋሰው አልተማርንም። (Target expression (Amharic))",
-            "ሁሉም ክፍሎች አንድ አይነት ናቸው። (Target expression (Amharic))"
+            "ይህ ካሪኩለም ስለ ፊደላት ብቻ ነው።) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)",
+            "ምንም አይነት ሰዋሰው አልተማርንም።) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)",
+            "ሁሉም ክፍሎች አንድ አይነት ናቸው።) (Context: የአማርኛ ቋንቋ ፍጹም የብቃት ማጠቃለያ (Grand Cap)"
           ],
           "answerIndex": 0,
           "explanation": "የመጀመሪያው አማራጭ የ170ዎቹንም ትምህርቶች አጠቃላይ እውቀትና ብቃት ያጠቃልላል።"

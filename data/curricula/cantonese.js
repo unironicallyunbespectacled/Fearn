@@ -679,9 +679,9 @@
           "prompt": "【音高辨析】粵語第2聲（陰上，如「史」si2、「好」hou2）嘅五度音高輪廓係：",
           "options": [
             "高升調 35 (第2聲（陰上）由中音（3度）升至最高音（5度）。) (粵語九聲六調與音高輪廓 (The Six Tones & Pitch Contours))",
-            "高平調 55 (Target expression (Cantonese))",
-            "低降調 21 (Target expression (Cantonese))",
-            "低平調 22 (Target expression (Cantonese))"
+            "高平調 55) (Context: 粵語九聲六調與音高輪廓 (The Six Tones & Pitch )",
+            "低降調 21) (Context: 粵語九聲六調與音高輪廓 (The Six Tones & Pitch )",
+            "低平調 22) (Context: 粵語九聲六調與音高輪廓 (The Six Tones & Pitch )"
           ],
           "answerIndex": 0,
           "explanation": "第2聲（陰上）由中音（3度）升至最高音（5度）。"
@@ -694,9 +694,9 @@
           "prompt": "【詞義辨析】「買」（maai5）同「賣」（maai6）喺聲調與含義上嘅核心差別係：",
           "options": [
             "「買」係第5聲（低升，購進），「賣」係第6聲（低平，售出） (「買」為第5聲（maai5，23低升），「賣」為第6聲（maai6，22低平）。)",
-            "「買」係第6聲（售出），「賣」係第5聲（購進） (Target expression (Cantonese))",
-            "兩者皆為第1聲且意思完全相同 (Target expression (Cantonese))",
-            "「買」係名詞，「賣」係形容詞 (Target expression (Cantonese))"
+            "「買」係第6聲（售出），「賣」係第5聲（購進）) (Context: 粵語九聲六調與音高輪廓 (The Six Tones & Pitch )",
+            "兩者皆為第1聲且意思完全相同) (Context: 粵語九聲六調與音高輪廓 (The Six Tones & Pitch )",
+            "「買」係名詞，「賣」係形容詞) (Context: 粵語九聲六調與音高輪廓 (The Six Tones & Pitch )"
           ],
           "answerIndex": 0,
           "explanation": "「買」為第5聲（maai5，23低升），「賣」為第6聲（maai6，22低平）。"
@@ -1253,9 +1253,9 @@
           "prompt": "【問路表達】欲禮貌向路人詢問「請問巴士總站在哪裡？」，正確粵語句式係：",
           "options": [
             "請問巴士總站喺邊度呀？ (cing2 man6 baa1 si2 zung2 zaam6 hai2 bin1 dou6 aa3?)",
-            "請問巴士總站喺呢度呀？ (Target expression (Cantonese))",
-            "請問巴士總站喺嗰度呀？ (Target expression (Cantonese))",
-            "請問巴士總站係邊個呀？ (Target expression (Cantonese))"
+            "請問巴士總站喺呢度呀？) (Context: 指示詞體系：呢個、嗰個與方位代詞 (Demonstratives)",
+            "請問巴士總站喺嗰度呀？) (Context: 指示詞體系：呢個、嗰個與方位代詞 (Demonstratives)",
+            "請問巴士總站係邊個呀？) (Context: 指示詞體系：呢個、嗰個與方位代詞 (Demonstratives)"
           ],
           "answerIndex": 0,
           "explanation": "詢問方位處所使用疑問代詞「邊度」（bin1 dou6）。"
@@ -1284,9 +1284,9 @@
           "prompt": "【空間對應】「呢度」對應「這裡」，「嗰度」對應「那裡」，則「邊度」對應之現代漢語詞彙係：",
           "options": [
             "哪裡 / 何處 (「邊度」（bin1 dou6）為粵語處所疑問代詞，相當於「哪裡/何處」。)",
-            "這裡 (Target expression (Cantonese))",
-            "那裡 (Target expression (Cantonese))",
-            "到處 (Target expression (Cantonese))"
+            "這裡) (Context: 指示詞體系：呢個、嗰個與方位代詞 (Demonstratives)",
+            "那裡) (Context: 指示詞體系：呢個、嗰個與方位代詞 (Demonstratives)",
+            "到處) (Context: 指示詞體系：呢個、嗰個與方位代詞 (Demonstratives)"
           ],
           "answerIndex": 0,
           "explanation": "「邊度」（bin1 dou6）為粵語處所疑問代詞，相當於「哪裡/何處」。"
@@ -1432,9 +1432,9 @@
           "prompt": "【口語縮合】粵語日常生活中「廿蚊」所代表之具體金額係：",
           "options": [
             "二十元 (「廿」（jaa6）係「二十」之合音字，「廿蚊」即二十元。)",
-            "十二元 (Target expression (Cantonese))",
-            "二百元 (Target expression (Cantonese))",
-            "兩千元 (Target expression (Cantonese))"
+            "十二元) (Context: 百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thous)",
+            "二百元) (Context: 百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thous)",
+            "兩千元) (Context: 百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thous)"
           ],
           "answerIndex": 0,
           "explanation": "「廿」（jaa6）係「二十」之合音字，「廿蚊」即二十元。"
@@ -1448,9 +1448,9 @@
           "prompt": "【語法判斷】以下邊句句子在「二」與「兩」之使用上完全合乎粵語語法規範？",
           "options": [
             "我今日喺書店買咗兩本書同兩支筆。 (修飾量詞「本」、「支」必須使用「兩」（兩本書、兩支筆）。) (百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thousands & ji6 vs loeng5))",
-            "我今日喺書店買咗二本書同二支筆。 (Target expression (Cantonese))",
-            "呢架巴士係第二兩架。 (Target expression (Cantonese))",
-            "我有二個阿哥。 (Target expression (Cantonese))"
+            "我今日喺書店買咗二本書同二支筆。) (Context: 百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thous)",
+            "呢架巴士係第二兩架。) (Context: 百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thous)",
+            "我有二個阿哥。) (Context: 百千萬數詞與「兩」同「二」之量詞搭配 (Hundreds, Thous)"
           ],
           "answerIndex": 0,
           "explanation": "修飾量詞「本」、「支」必須使用「兩」（兩本書、兩支筆）。"
@@ -2893,9 +2893,9 @@
           "prompt": "【結帳用語】在香港食肆用餐完畢欲結帳付款，最地道核心之粵語說法係：",
           "options": [
             "埋單 (maai4 daan1)",
-            "買菜 (Target expression (Cantonese))",
-            "加單 (Target expression (Cantonese))",
-            "開茶 (Target expression (Cantonese))"
+            "買菜) (Context: 食肆結帳與打包禮儀：「埋單」、「搭枱」、「打包 / 外賣」 (Bill)",
+            "加單) (Context: 食肆結帳與打包禮儀：「埋單」、「搭枱」、「打包 / 外賣」 (Bill)",
+            "開茶) (Context: 食肆結帳與打包禮儀：「埋單」、「搭枱」、「打包 / 外賣」 (Bill)"
           ],
           "answerIndex": 0,
           "explanation": "「埋單」（maai4 daan1）係粵語結帳之絕對通用詞。"
@@ -3303,9 +3303,9 @@
           "prompt": "【語境填空】「我＿＿＿（剛才）食＿＿＿（完成）午餐，依家＿＿＿（正在）寫＿＿＿（進行）報告」，應填入：",
           "options": [
             "啱啱 …… 咗 …… 正喺度 …… 緊 (「啱啱……咗」搭配完成貌，「正喺度……緊」搭配進行貌。) (三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (Aspect Synthesis))",
-            "已經 …… 緊 …… 仲未 …… 咗 (Target expression (Cantonese))",
-            "從來 …… 過 …… 已經 …… 住 (Target expression (Cantonese))",
-            "正喺度 …… 住 …… 啱啱 …… 過 (Target expression (Cantonese))"
+            "已經 …… 緊 …… 仲未 …… 咗) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)",
+            "從來 …… 過 …… 已經 …… 住) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)",
+            "正喺度 …… 住 …… 啱啱 …… 過) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)"
           ],
           "answerIndex": 0,
           "explanation": "「啱啱……咗」搭配完成貌，「正喺度……緊」搭配進行貌。"
@@ -3318,9 +3318,9 @@
           "prompt": "【時體辨析】「你睇緊邊套戲？」詢問之焦點在於：",
           "options": [
             "你當下正在觀看哪部電影 (Ongoing Progressive)",
-            "你昨天看完了哪部電影 (Target expression (Cantonese))",
-            "你生平看過哪部電影 (Target expression (Cantonese))",
-            "你打算買哪部電影的票 (Target expression (Cantonese))"
+            "你昨天看完了哪部電影) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)",
+            "你生平看過哪部電影) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)",
+            "你打算買哪部電影的票) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)"
           ],
           "answerIndex": 0,
           "explanation": "「睇緊」標記正在進行之觀影動作。"
@@ -3334,9 +3334,9 @@
           "prompt": "【綜合判斷】以下四個句子中，邊句正確表達「我們邊喝茶邊聊天」？",
           "options": [
             "我哋飲住茶傾偈。 (ngo5 dei6 jam2 zyu6 caa4 king1 gai2.)",
-            "我哋飲咗茶傾偈。 (Target expression (Cantonese))",
-            "我哋飲過茶傾偈。 (Target expression (Cantonese))",
-            "我哋飲緊茶傾咗偈。 (Target expression (Cantonese))"
+            "我哋飲咗茶傾偈。) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)",
+            "我哋飲過茶傾偈。) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)",
+            "我哋飲緊茶傾咗偈。) (Context: 三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (As)"
           ],
           "answerIndex": 0,
           "explanation": "「飲住茶傾偈」（V1住＋V2）正確表達伴隨動作（邊喝茶邊聊天）。"
@@ -3549,9 +3549,9 @@
           "prompt": "【小巴喊話】乘搭香港小巴即將到達目的地紅綠燈處，欲要求司機停車下車，最地道之喊話係：",
           "options": [
             "司機，燈位有落，唔該！ (si1 gei1, dang1 wai2 jau5 lok6, m4 goi1!)",
-            "司機，我想埋單！ (Target expression (Cantonese))",
-            "司機，唔該增值一百蚊！ (Target expression (Cantonese))",
-            "司機，我想食雲吞麵！ (Target expression (Cantonese))"
+            "司機，我想埋單！) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)",
+            "司機，唔該增值一百蚊！) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)",
+            "司機，我想食雲吞麵！) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)"
           ],
           "answerIndex": 0,
           "explanation": "「燈位有落，唔該！」係要求在紅綠燈處下車最標準地道之小巴用語。"
@@ -3564,9 +3564,9 @@
           "prompt": "【語意理解】在小巴上聽到有乘客大嗌「過咗天橋有落」，其準確含義係：",
           "options": [
             "穿過天橋之後靠邊停車讓我下車 (Stopping after passing the bridge)",
-            "在天橋正上方停車跳下去 (Target expression (Cantonese))",
-            "司機開車撞到了天橋 (Target expression (Cantonese))",
-            "天橋上面有人跌落下來 (Target expression (Cantonese))"
+            "在天橋正上方停車跳下去) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)",
+            "司機開車撞到了天橋) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)",
+            "天橋上面有人跌落下來) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)"
           ],
           "answerIndex": 0,
           "explanation": "「過咗天橋有落」指越過天橋後立即停車落客。"
@@ -3580,9 +3580,9 @@
           "prompt": "【文化禮儀】在香港乘搭沒有按鈴裝置之紅色小巴時，乘客要求下車之常規方式係：",
           "options": [
             "提前大聲向司機呼喊「有落」 (aai3 jau5 lok6)",
-            "在座位上默默等待司機主動問每個人 (Target expression (Cantonese))",
-            "直接站起來走到司機身旁拍司機肩膀 (Target expression (Cantonese))",
-            "用手機向運輸署發送下車短信 (Target expression (Cantonese))"
+            "在座位上默默等待司機主動問每個人) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)",
+            "直接站起來走到司機身旁拍司機肩膀) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)",
+            "用手機向運輸署發送下車短信) (Context: 香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shou)"
           ],
           "answerIndex": 0,
           "explanation": "乘搭紅色小巴必須由乘客主動大聲嗌「有落」。"
@@ -4451,9 +4451,9 @@
           "prompt": "【服藥量詞】藥劑師交代「每次吃兩粒藥片」，在粵語中最地道之說法為：",
           "options": [
             "每次食兩粒 (mui5 ci3 sik6 loeng5 nap1)",
-            "每次食兩條 (Target expression (Cantonese))",
-            "每次食兩隻 (Target expression (Cantonese))",
-            "每次食兩間 (Target expression (Cantonese))"
+            "每次食兩條) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)",
+            "每次食兩隻) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)",
+            "每次食兩間) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)"
           ],
           "answerIndex": 0,
           "explanation": "顆粒狀藥丸藥片在粵語中量詞用「粒」（nap1）。"
@@ -4466,9 +4466,9 @@
           "prompt": "【用藥安全】若藥袋上標註「服後可能引起昏睡」，患者在服藥期間應特別避免：",
           "options": [
             "駕駛汽車或操作重型機械 (Driving or operating machinery)",
-            "喝溫開水 (Target expression (Cantonese))",
-            "臥床休息 (Target expression (Cantonese))",
-            "按時按量服藥 (Target expression (Cantonese))"
+            "喝溫開水) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)",
+            "臥床休息) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)",
+            "按時按量服藥) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)"
           ],
           "answerIndex": 0,
           "explanation": "引起嗜睡昏睡之藥物（如傳統抗過敏及感冒藥）服後嚴禁駕駛車輛或高空危險操作。"
@@ -4482,9 +4482,9 @@
           "prompt": "【服藥時機】藥袋標籤註明「飯後服」（faan6 hau6 fuk6），其正確之服用方法係：",
           "options": [
             "吃完飯後十五至三十分鐘內服用 (Take after meals)",
-            "吃早飯前三小時服用 (Target expression (Cantonese))",
-            "只能在不吃飯的那天服用 (Target expression (Cantonese))",
-            "把藥物混合米飯一起吞食 (Target expression (Cantonese))"
+            "吃早飯前三小時服用) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)",
+            "只能在不吃飯的那天服用) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)",
+            "把藥物混合米飯一起吞食) (Context: 用藥指示與服藥劑量：「每日三次」、「每次兩粒」、「飯後服」 (Medi)"
           ],
           "answerIndex": 0,
           "explanation": "「飯後服」指在用餐結束後適當時間服用以減少藥物對胃黏膜之刺激。"
@@ -4615,9 +4615,9 @@
           "prompt": "【情態否定】若主管告知員工明天是公眾假期，「不需要來公司上班」，最地道之粵語表達係：",
           "options": [
             "你聽日唔使返工。 (nei5 ting1 jat6 m4 sai2 faan1 gung1.)",
-            "你聽日唔要返工。 (Target expression (Cantonese))",
-            "你聽日唔想返工。 (Target expression (Cantonese))",
-            "你聽日唔諗住返工。 (Target expression (Cantonese))"
+            "你聽日唔要返工。) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)",
+            "你聽日唔想返工。) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)",
+            "你聽日唔諗住返工。) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)"
           ],
           "answerIndex": 0,
           "explanation": "「要」（必須）之情態否定為「唔使」（不必/不需要）。"
@@ -4630,9 +4630,9 @@
           "prompt": "【意圖表達】欲表達自己「原本打算週末去圖書館看書」，應使用之助動詞係：",
           "options": [
             "我週末諗住去圖書館睇書。 (ngo5 zau1 mut6 lam2 zyu6 heoi3 tou4 syu1 gun2 tai2 syu1.)",
-            "我週末搭去圖書館睇書。 (Target expression (Cantonese))",
-            "我週末轉去圖書館睇書。 (Target expression (Cantonese))",
-            "我週末落去圖書館睇書。 (Target expression (Cantonese))"
+            "我週末搭去圖書館睇書。) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)",
+            "我週末轉去圖書館睇書。) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)",
+            "我週末落去圖書館睇書。) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)"
           ],
           "answerIndex": 0,
           "explanation": "「諗住」（lam2 zyu6）表示心中的打算或計劃。"
@@ -4646,9 +4646,9 @@
           "prompt": "【語義辨析】在粵語中，「你要唔要加糖？」與「你使唔使加糖？」之細微語意差異為：",
           "options": [
             "「要唔要」詢問是否想要具體物品糖，「使唔使」詢問客觀上是否需要進行加糖動作 (Want item vs. Need action)",
-            "兩者完全相反，「要唔要」表示拒絕 (Target expression (Cantonese))",
-            "「使唔使」只能對長輩使用 (Target expression (Cantonese))",
-            "「要唔要」只能在茶餐廳點凍飲時使用 (Target expression (Cantonese))"
+            "兩者完全相反，「要唔要」表示拒絕) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)",
+            "「使唔使」只能對長輩使用) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)",
+            "「要唔要」只能在茶餐廳點凍飲時使用) (Context: 意願與必然助動詞：「想」、「要」、「諗住」 (Volition, Ne)"
           ],
           "answerIndex": 0,
           "explanation": "「要唔要」側重於主觀是否索取物品，「使唔使」側重於客觀是否有必要進行某動作。"
@@ -4697,9 +4697,9 @@
           "prompt": "【技能助動詞】欲表達「他通過後天學習掌握了烹飪與駕駛技術」，正確之粵語助動詞句式係：",
           "options": [
             "佢識煮飯同埋識揸車。 (keoi5 sik1 zyu2 faan6 tung4 maai4 sik1 zaa1 ce1.)",
-            "佢要煮飯同埋要揸車。 (Target expression (Cantonese))",
-            "佢想煮飯同埋想揸車。 (Target expression (Cantonese))",
-            "佢諗住煮飯同埋諗住揸車。 (Target expression (Cantonese))"
+            "佢要煮飯同埋要揸車。) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)",
+            "佢想煮飯同埋想揸車。) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)",
+            "佢諗住煮飯同埋諗住揸車。) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)"
           ],
           "answerIndex": 0,
           "explanation": "「識」（sik1）專門用於表示後天學會之各類技能。"
@@ -4712,9 +4712,9 @@
           "prompt": "【正反問句】向新朋友禮貌詢問「你懂得游泳嗎？」，地道之粵語提問係：",
           "options": [
             "你識唔識游水呀？ (nei5 sik1 m4 sik1 jau4 seoi2 aa3?)",
-            "你搭唔搭游水呀？ (Target expression (Cantonese))",
-            "你轉唔轉游水呀？ (Target expression (Cantonese))",
-            "你落唔落游水呀？ (Target expression (Cantonese))"
+            "你搭唔搭游水呀？) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)",
+            "你轉唔轉游水呀？) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)",
+            "你落唔落游水呀？) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)"
           ],
           "answerIndex": 0,
           "explanation": "技能正反問句結構為「識唔識……？」（Do you know how to...?）。"
@@ -4728,9 +4728,9 @@
           "prompt": "【語義範疇】下列哪一項最準確描述了助動詞「識」（sik1）之核心語言學功能？",
           "options": [
             "表示通過後天學習、培訓而具備之技能或認知 (Learned ability or cognition)",
-            "表示客觀法律或規則之強制義務 (Target expression (Cantonese))",
-            "表示生理構造之本能反應 (Target expression (Cantonese))",
-            "表示瞬時完成之動作體貌 (Target expression (Cantonese))"
+            "表示客觀法律或規則之強制義務) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)",
+            "表示生理構造之本能反應) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)",
+            "表示瞬時完成之動作體貌) (Context: 習得能力與生理潛能助動詞：「識」同「識得」 (Acquired Kno)"
           ],
           "answerIndex": 0,
           "explanation": "「識」在語法上專門表達後天習得之能力或認知識別。"
@@ -4779,9 +4779,9 @@
           "prompt": "【禮貌請求】在會議中欲禮貌請求同事「能否把窗戶關上」，最得體之粵語句式係：",
           "options": [
             "可唔可以唔該你幫手閂埋隻窗？ (ho2 m4 ho2 ji5 m4 goi1 nei5 bong1 sau2 saan1 maai4 zek3 coeng1?)",
-            "你一定要閂埋隻窗！ (Target expression (Cantonese))",
-            "你識唔識閂埋隻窗？ (Target expression (Cantonese))",
-            "你諗住閂埋隻窗未？ (Target expression (Cantonese))"
+            "你一定要閂埋隻窗！) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)",
+            "你識唔識閂埋隻窗？) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)",
+            "你諗住閂埋隻窗未？) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)"
           ],
           "answerIndex": 0,
           "explanation": "「可唔可以唔該你……」係表達禮貌請求之最標準句式。"
@@ -4794,9 +4794,9 @@
           "prompt": "【規則禁令】公共場所張貼告示標明「嚴禁飲食」，口語化之粵語解釋係：",
           "options": [
             "呢度唔可以食嘢同飲水。 (ni1 dou6 m4 ho2 ji5 sik6 je5 tung4 jam2 seoi2.)",
-            "呢度唔識食嘢同飲水。 (Target expression (Cantonese))",
-            "呢度唔諗住食嘢同飲水。 (Target expression (Cantonese))",
-            "呢度唔使食嘢同飲水。 (Target expression (Cantonese))"
+            "呢度唔識食嘢同飲水。) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)",
+            "呢度唔諗住食嘢同飲水。) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)",
+            "呢度唔使食嘢同飲水。) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)"
           ],
           "answerIndex": 0,
           "explanation": "「唔可以」表示規則禁止或不被許可（Not allowed）。"
@@ -4810,9 +4810,9 @@
           "prompt": "【語法辨析】當別人詢問「我可唔可以坐呢度呀？」，若表示「可以，請坐」，最自然之道地回應為：",
           "options": [
             "可以呀，請坐啦！ (ho2 ji5 aa3, cing2 co5 laa1!)",
-            "識得呀，請坐啦！ (Target expression (Cantonese))",
-            "要呀，請坐啦！ (Target expression (Cantonese))",
-            "諗住呀，請坐啦！ (Target expression (Cantonese))"
+            "識得呀，請坐啦！) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)",
+            "要呀，請坐啦！) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)",
+            "諗住呀，請坐啦！) (Context: 許可、客觀條件與能力助動詞：「可以」同「能夠」 (Permission)"
           ],
           "answerIndex": 0,
           "explanation": "回答許可請求正向確認時使用「可以呀」（ho2 ji5 aa3）。"
@@ -4861,9 +4861,9 @@
           "prompt": "【可能補語】主廚把煲仔飯端上桌，告知顧客「飯已經煮熟可以開始吃了」，最地道之粵語表達係：",
           "options": [
             "煲仔飯整好，食得喇！ (bou1 zai2 faan6 zing2 hou2, sik6 dak1 laa3!)",
-            "煲仔飯整好，食識喇！ (Target expression (Cantonese))",
-            "煲仔飯整好，食要喇！ (Target expression (Cantonese))",
-            "煲仔飯整好，食諗住喇！ (Target expression (Cantonese))"
+            "煲仔飯整好，食識喇！) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)",
+            "煲仔飯整好，食要喇！) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)",
+            "煲仔飯整好，食諗住喇！) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)"
           ],
           "answerIndex": 0,
           "explanation": "動詞後加「得」（食得）表示動作已經就緒、可以進行。"
@@ -4876,9 +4876,9 @@
           "prompt": "【協商答問】同事提議「聽日下晝兩點開會，得唔得？」，欲表示「行，沒問題」，應回答：",
           "options": [
             "得，冇問題！ (dak1, mou5 man6 tai4!)",
-            "識，冇問題！ (Target expression (Cantonese))",
-            "要，冇問題！ (Target expression (Cantonese))",
-            "諗住，冇問題！ (Target expression (Cantonese))"
+            "識，冇問題！) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)",
+            "要，冇問題！) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)",
+            "諗住，冇問題！) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)"
           ],
           "answerIndex": 0,
           "explanation": "獨立情態謂語「得」（dak1）表示同意、可行或沒問題。"
@@ -4892,9 +4892,9 @@
           "prompt": "【句法功能】短語「部打印機整好，用得喇」中，「用得」之確切語法含義為：",
           "options": [
             "打印機已經修復完畢，具備正常功能可以使用 (Ready/functional to use)",
-            "打印機必須強制作業 (Target expression (Cantonese))",
-            "打印機很想去工作 (Target expression (Cantonese))",
-            "打印機認識很多文件 (Target expression (Cantonese))"
+            "打印機必須強制作業) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)",
+            "打印機很想去工作) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)",
+            "打印機認識很多文件) (Context: 後置潛能助詞與情態助動詞：「得」之雙重語法功能 (The Versat)"
           ],
           "answerIndex": 0,
           "explanation": "「用得」表示設備處於可正常使用之就緒狀態。"
@@ -4943,9 +4943,9 @@
           "prompt": "【職場交涉】欲向上級表達「員工全體具備該技術（識），只要老闆願意批準（肯），明天就能正式動工（可以/得）」，應講：",
           "options": [
             "我哋個個都識做，只要老細肯批，聽日就開得工！ (ngo5 dei6 go3 go3 dou1 sik1 zou6, zi2 jiu3 lou5 sai3 hang2 pai1, ting1 jat6 zau6 hoi1 dak1 gung1!)",
-            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！ (Target expression (Cantonese))",
-            "我哋個個都搭車，只要老細轉車，聽日就落車！ (Target expression (Cantonese))",
-            "我哋個個都行街，只要老細買衫，聽日就找錢！ (Target expression (Cantonese))"
+            "我哋個個都唔識做，只要老細唔肯批，聽日就開唔到工！) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)",
+            "我哋個個都搭車，只要老細轉車，聽日就落車！) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)",
+            "我哋個個都行街，只要老細買衫，聽日就找錢！) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)"
           ],
           "answerIndex": 0,
           "explanation": "該句精確融合了技能「識」、主觀同意「肯」與就緒狀態「開得工」。"
@@ -4958,9 +4958,9 @@
           "prompt": "【情態辨析】在句子「公司唔准員工喺辦公室食煙」中，「唔准」之精確含義為：",
           "options": [
             "不允許 / 嚴格禁止 (Not permitted / Strictly forbidden)",
-            "不想吸煙 (Target expression (Cantonese))",
-            "不會吸煙 (Target expression (Cantonese))",
-            "不需要吸煙 (Target expression (Cantonese))"
+            "不想吸煙) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)",
+            "不會吸煙) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)",
+            "不需要吸煙) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)"
           ],
           "answerIndex": 0,
           "explanation": "「唔准」（m4 zeon2）表示官方或上級嚴格禁止、不予許可。"
@@ -4974,9 +4974,9 @@
           "prompt": "【綜合判斷】請選出語法結構、情態助動詞搭配完全正確且符合地道粵語表達之句子：",
           "options": [
             "如果老細肯批准呢個計劃，我哋聽日就可以開得工喇。 (If the boss approves, we can start work tomorrow.)",
-            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇。 (Target expression (Cantonese))",
-            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇。 (Target expression (Cantonese))",
-            "如果老細准批准呢個計劃，我哋聽日就使返工喇。 (Target expression (Cantonese))"
+            "如果老細要批准呢個計劃，我哋聽日就唔要返工喇。) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)",
+            "如果老細識批准呢個計劃，我哋聽日就諗住開工喇。) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)",
+            "如果老細准批准呢個計劃，我哋聽日就使返工喇。) (Context: 情態助動詞綜合對比與職場生活實戰交涉 (Comprehensive M)"
           ],
           "answerIndex": 0,
           "explanation": "該句語法邏輯嚴密，正確使用了意願「肯」、許可「可以」與就緒補語「開得工」。"
@@ -5025,9 +5025,9 @@
           "prompt": "【動詞搭配】在粵語中描述「踢足球」與「打籃球」，正確之專屬動詞短語分別係：",
           "options": [
             "踢波、打籃球 (tek3 bo1, daa2 laam4 kau4)",
-            "打波、踢籃球 (Target expression (Cantonese))",
-            "游波、做籃球 (Target expression (Cantonese))",
-            "行波、搭籃球 (Target expression (Cantonese))"
+            "打波、踢籃球) (Context: 球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sp)",
+            "游波、做籃球) (Context: 球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sp)",
+            "行波、搭籃球) (Context: 球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sp)"
           ],
           "answerIndex": 0,
           "explanation": "足球運動量詞動詞用「踢」（踢波），手打球類用「打」（打籃球）。"
@@ -5056,9 +5056,9 @@
           "prompt": "【語法正誤】請選出動詞搭配完全符合粵語規範之運動表達句子：",
           "options": [
             "我同班波友每個星期六都去跑馬地踢波。 (My friends and I play soccer in Happy Valley every Saturday.)",
-            "我同班波友每個星期六都去跑馬地打足球。 (Target expression (Cantonese))",
-            "我同班波友每個星期六都去跑馬地游足球。 (Target expression (Cantonese))",
-            "我同班波友每個星期六都去跑馬地做足球。 (Target expression (Cantonese))"
+            "我同班波友每個星期六都去跑馬地打足球。) (Context: 球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sp)",
+            "我同班波友每個星期六都去跑馬地游足球。) (Context: 球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sp)",
+            "我同班波友每個星期六都去跑馬地做足球。) (Context: 球類與團隊運動動詞搭配：「踢波」、「打波」、「游水」、「跑步」 (Sp)"
           ],
           "answerIndex": 0,
           "explanation": "足球運動在粵語中嚴格搭配動詞「踢」（踢波）。"
@@ -5107,9 +5107,9 @@
           "prompt": "【戶外名詞】在粵語中描述「騎自行車」與「防蚊液/驅蚊水」，地道詞彙分別係：",
           "options": [
             "踩單車、蚊怕水 (caai2 daan1 ce1, man1 paa3 seoi2)",
-            "坐單車、防蚊汁 (Target expression (Cantonese))",
-            "行單車、蚊見愁 (Target expression (Cantonese))",
-            "搭單車、驅蟲油 (Target expression (Cantonese))"
+            "坐單車、防蚊汁) (Context: 戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (O)",
+            "行單車、蚊見愁) (Context: 戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (O)",
+            "搭單車、驅蟲油) (Context: 戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (O)"
           ],
           "answerIndex": 0,
           "explanation": "自行車在粵語中稱為「單車」（動詞用「踩」），驅蚊水俗稱「蚊怕水」。"
@@ -5138,9 +5138,9 @@
           "prompt": "【文化理解】粵語詞彙「蚊怕水」（man1 paa3 seoi2）之字面構詞理據與實際用途為：",
           "options": [
             "塗抹於皮膚上令蚊蟲懼怕不敢靠近之驅蚊液 (Mosquito repellent)",
-            "用來淹死蚊子之污水 (Target expression (Cantonese))",
-            "蚊子產卵喜愛之糖水 (Target expression (Cantonese))",
-            "洗滌登山衣物之清潔劑 (Target expression (Cantonese))"
+            "用來淹死蚊子之污水) (Context: 戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (O)",
+            "蚊子產卵喜愛之糖水) (Context: 戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (O)",
+            "洗滌登山衣物之清潔劑) (Context: 戶外消閒與嶺南特色活動：「行山」、「露營」、「踩單車」、「釣魚」 (O)"
           ],
           "answerIndex": 0,
           "explanation": "「蚊怕水」直譯為「讓蚊子害怕的水」，即驅蚊噴霧/防蚊水。"
@@ -5189,9 +5189,9 @@
           "prompt": "【影視詞彙】在粵語中描述「看電影」、「電影院」與「電影票」，正確之名詞組合係：",
           "options": [
             "睇戲、戲院、戲飛 (tai2 hei3, hei3 jyun2, hei3 fei1)",
-            "看電、電影室、電影券 (Target expression (Cantonese))",
-            "望劇、劇院、劇票 (Target expression (Cantonese))",
-            "瞧影、影城、影紙 (Target expression (Cantonese))"
+            "看電、電影室、電影券) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)",
+            "望劇、劇院、劇票) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)",
+            "瞧影、影城、影紙) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)"
           ],
           "answerIndex": 0,
           "explanation": "看電影在粵語中稱為「睇戲」，電影院為「戲院」，電影票為「戲飛」。"
@@ -5204,9 +5204,9 @@
           "prompt": "【俚語識別】粵語生動口語「煲劇」（bou1 kek6）之確切含義為：",
           "options": [
             "連續長時間追看電視劇集 (Binge-watching TV dramas)",
-            "一邊煮煲仔飯一邊演戲 (Target expression (Cantonese))",
-            "在廚房用砂鍋熬煮中藥 (Target expression (Cantonese))",
-            "批評某部戲劇拍得太差 (Target expression (Cantonese))"
+            "一邊煮煲仔飯一邊演戲) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)",
+            "在廚房用砂鍋熬煮中藥) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)",
+            "批評某部戲劇拍得太差) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)"
           ],
           "answerIndex": 0,
           "explanation": "「煲劇」（bou1 kek6）專指連續狂看追劇（如同文火慢燉）。"
@@ -5220,9 +5220,9 @@
           "prompt": "【麻雀術語】在香港打麻雀牌局中，當某位玩家成功和牌獲勝，口語中宣告之標準說法為：",
           "options": [
             "我食糊喇！ (ngo5 sik6 wu42 laa3! / I won / Mahjong!)",
-            "我買單喇！ (Target expression (Cantonese))",
-            "我搭枱喇！ (Target expression (Cantonese))",
-            "我行街喇！ (Target expression (Cantonese))"
+            "我買單喇！) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)",
+            "我搭枱喇！) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)",
+            "我行街喇！) (Context: 都市娛樂與室內消遣：「睇戲」、「唱K」、「打麻雀」、「打機」 (Urb)"
           ],
           "answerIndex": 0,
           "explanation": "麻將胡牌在粵語中稱為「食糊」（sik6 wu42）。"
@@ -5271,9 +5271,9 @@
           "prompt": "【樂器動詞】在粵語中描述演奏「鋼琴」與演奏「小提琴」，正確之專屬動詞分別係：",
           "options": [
             "彈鋼琴、拉小提琴 (taan4 gong3 kam4, laai1 siu2 tai4 kam4)",
-            "拉鋼琴、彈小提琴 (Target expression (Cantonese))",
-            "吹鋼琴、打小提琴 (Target expression (Cantonese))",
-            "踢鋼琴、做小提琴 (Target expression (Cantonese))"
+            "拉鋼琴、彈小提琴) (Context: 文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 )",
+            "吹鋼琴、打小提琴) (Context: 文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 )",
+            "踢鋼琴、做小提琴) (Context: 文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 )"
           ],
           "answerIndex": 0,
           "explanation": "鍵盤樂器用「彈」（彈鋼琴），弦樂拉弓用「拉」（拉小提琴）。"
@@ -5286,9 +5286,9 @@
           "prompt": "【動詞搭配】欲表達「拿相機在海濱長廊拍照留念」，地道之粵語表達係：",
           "options": [
             "喺海濱長廊影相 (hai2 hoi2 ban1 coeng4 long4 jing2 soeng2)",
-            "喺海濱長廊拍相 (Target expression (Cantonese))",
-            "喺海濱長廊打相 (Target expression (Cantonese))",
-            "喺海濱長廊做相 (Target expression (Cantonese))"
+            "喺海濱長廊拍相) (Context: 文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 )",
+            "喺海濱長廊打相) (Context: 文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 )",
+            "喺海濱長廊做相) (Context: 文化藝術與靜態嗜好：「睇書」、「聽歌」、「彈琴」、「畫畫」、「影相」 )"
           ],
           "answerIndex": 0,
           "explanation": "拍照在粵語中嚴格使用動詞「影」（影相）。"
@@ -5368,9 +5368,9 @@
           "prompt": "【社交邀約】欲向朋友提出「有空時聚在一起去郊外行山」，最熱情得體之粵語句式係：",
           "options": [
             "得閒約埋一齊去行山啦！ (dak1 haan4 joek3 maai4 jat1 cai4 heoi3 haang4 saan1 laa1!)",
-            "你一定要自己去行山！ (Target expression (Cantonese))",
-            "我唔識同你去行山！ (Target expression (Cantonese))",
-            "大家唔好去行山！ (Target expression (Cantonese))"
+            "你一定要自己去行山！) (Context: 喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 ()",
+            "我唔識同你去行山！) (Context: 喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 ()",
+            "大家唔好去行山！) (Context: 喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「得閒約埋一齊去……」係粵語最標準親切之社交聚會邀約語。"
@@ -5384,9 +5384,9 @@
           "prompt": "【頻率副詞】在粵語中，副詞「成日」（seng4 jat6）之確切含義為：",
           "options": [
             "總是、整天、頻繁老是 (Always / All the time)",
-            "僅限於昨天一天 (Target expression (Cantonese))",
-            "從來沒有發生過 (Target expression (Cantonese))",
-            "每年只發生一次 (Target expression (Cantonese))"
+            "僅限於昨天一天) (Context: 喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 ()",
+            "從來沒有發生過) (Context: 喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 ()",
+            "每年只發生一次) (Context: 喜好程度、頻率副詞與邀約會話：「好中意」、「最沉迷」、「得閒約埋」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「成日」（seng4 jat6）在粵語中作為頻率副詞表示總是、老是、整天。"
@@ -5435,9 +5435,9 @@
           "prompt": "【社交詢問】在商務社交場合欲禮貌詢問對方「從事哪個行業」，最地道之粵語提問係：",
           "options": [
             "請問你做邊行呀？ (cing2 man6 nei5 zou6 bin1 hong4 aa3?)",
-            "請問你搭邊架車呀？ (Target expression (Cantonese))",
-            "請問你行邊條路呀？ (Target expression (Cantonese))",
-            "請問你買邊件衫呀？ (Target expression (Cantonese))"
+            "請問你搭邊架車呀？) (Context: 香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀)",
+            "請問你行邊條路呀？) (Context: 香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀)",
+            "請問你買邊件衫呀？) (Context: 香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀)"
           ],
           "answerIndex": 0,
           "explanation": "「做邊行」（zou6 bin1 hong4）係粵語中詢問從事何種行業之標準表達。"
@@ -5466,9 +5466,9 @@
           "prompt": "【商務敬語】在粵語中，禮貌敬語「喺邊度高就呀？」之確切含義為：",
           "options": [
             "請問您在哪裡任職工作？ (Where do you work? - Polite)",
-            "請問您住在哪座高山？ (Target expression (Cantonese))",
-            "請問您爬了多高的山？ (Target expression (Cantonese))",
-            "請問您身材有多高？ (Target expression (Cantonese))"
+            "請問您住在哪座高山？) (Context: 香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀)",
+            "請問您爬了多高的山？) (Context: 香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀)",
+            "請問您身材有多高？) (Context: 香港核心工種與專業職銜：「做邊行」、「工程師」、「會計師」、「地產經紀)"
           ],
           "answerIndex": 0,
           "explanation": "「高就」（gou1 zau6）係商務場合禮貌詢問任職機構之敬語辭令。"
@@ -5681,9 +5681,9 @@
           "prompt": "【福利名詞】在香港職場中，年終固定加發一個月薪水之薪酬制度，口語稱為：",
           "options": [
             "雙糧 (soeng1 loeng4 / 13th Month Pay)",
-            "單糧 (Target expression (Cantonese))",
-            "半糧 (Target expression (Cantonese))",
-            "空糧 (Target expression (Cantonese))"
+            "單糧) (Context: 薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MP)",
+            "半糧) (Context: 薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MP)",
+            "空糧) (Context: 薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MP)"
           ],
           "answerIndex": 0,
           "explanation": "年終加發一個月薪水在香港稱為「雙糧」（soeng1 loeng4）。"
@@ -5712,9 +5712,9 @@
           "prompt": "【假期辨析】香港上班族口語中所講之「放公眾大假」（daai6 gaa3），確切指代：",
           "options": [
             "僱員合同中享有的法定帶薪年假 (Paid Annual Leave)",
-            "週末兩天雙休日 (Target expression (Cantonese))",
-            "因病請假的病假 (Target expression (Cantonese))",
-            "政府規定的颱風假 (Target expression (Cantonese))"
+            "週末兩天雙休日) (Context: 薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MP)",
+            "因病請假的病假) (Context: 薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MP)",
+            "政府規定的颱風假) (Context: 薪酬福利、假期與勞工法例：「人工」、「雙糧」、「花紅」、「強積金 MP)"
           ],
           "answerIndex": 0,
           "explanation": "在香港職場中，「大假」（daai6 gaa3）指代帶薪年假（Annual Leave）。"
@@ -5763,9 +5763,9 @@
           "prompt": "【離職習俗】香港員工在最後一個工作日（Last Day）購買西餅甜品派發給同事以示告別感謝，此傳統稱為：",
           "options": [
             "派散水餅 (paai3 saan2 seoi2 beng2 / Farewell Cakes)",
-            "派月餅 (Target expression (Cantonese))",
-            "派嫁女餅 (Target expression (Cantonese))",
-            "派老婆餅 (Target expression (Cantonese))"
+            "派月餅) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)",
+            "派嫁女餅) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)",
+            "派老婆餅) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)"
           ],
           "answerIndex": 0,
           "explanation": "香港職場離職告別時派發的告別點心稱為「散水餅」（saan2 seoi2 beng2）。"
@@ -5778,9 +5778,9 @@
           "prompt": "【職場動作】在粵語中描述員工「主動向主管提交辭職信」，最標準之口語短語係：",
           "options": [
             "遞信 (dai6 seon3)",
-            "寄信 (Target expression (Cantonese))",
-            "收信 (Target expression (Cantonese))",
-            "印信 (Target expression (Cantonese))"
+            "寄信) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)",
+            "收信) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)",
+            "印信) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)"
           ],
           "answerIndex": 0,
           "explanation": "提交辭職信在粵語中稱為「遞信」（dai6 seon3）。"
@@ -5794,9 +5794,9 @@
           "prompt": "【成語溯源】粵語經典俚語「畀老細炒魷魚」（caau2 jau4 jyu42）之實際含義為：",
           "options": [
             "被老闆解僱開除 (Being dismissed / Fired by the boss)",
-            "被老闆邀請吃海鮮大餐 (Target expression (Cantonese))",
-            "在公司廚房烹飪海鮮 (Target expression (Cantonese))",
-            "獲得老闆升職加薪獎勵 (Target expression (Cantonese))"
+            "被老闆邀請吃海鮮大餐) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)",
+            "在公司廚房烹飪海鮮) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)",
+            "獲得老闆升職加薪獎勵) (Context: 職場升遷、離職與職場俚語實戰：「升職」、「跳槽」、「遞信」、「派散水餅)"
           ],
           "answerIndex": 0,
           "explanation": "「炒魷魚」指被解僱、開除（源於打工者捲起鋪蓋捲行李之形象）。"
@@ -5845,9 +5845,9 @@
           "prompt": "【語序轉換】欲用標準粵語表達「搭地鐵比搭巴士快」，正確之語法語序係：",
           "options": [
             "搭地鐵快過搭巴士。 (daap3 dei6 tit3 faai3 gwo3 daap3 baa1 si6*2.)",
-            "搭地鐵比搭巴士快。 (Target expression (Cantonese))",
-            "搭地鐵過搭巴士快。 (Target expression (Cantonese))",
-            "搭地鐵快比搭巴士。 (Target expression (Cantonese))"
+            "搭地鐵比搭巴士快。) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)",
+            "搭地鐵過搭巴士快。) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)",
+            "搭地鐵快比搭巴士。) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)"
           ],
           "answerIndex": 0,
           "explanation": "粵語超越比較句嚴格採用「形容詞＋過＋比較對象」之後置結構（快過……）。"
@@ -5860,9 +5860,9 @@
           "prompt": "【年齡比較】在粵語中表達「他比我大三歲」，最地道標準之句式係：",
           "options": [
             "佢大過我三歲。 (keoi5 daai6 gwo3 ngo5 saam1 seoi3.)",
-            "佢比我大三歲。 (Target expression (Cantonese))",
-            "佢過我大三歲。 (Target expression (Cantonese))",
-            "佢大三歲比我。 (Target expression (Cantonese))"
+            "佢比我大三歲。) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)",
+            "佢過我大三歲。) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)",
+            "佢大三歲比我。) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)"
           ],
           "answerIndex": 0,
           "explanation": "年齡比較在粵語中同樣遵循「大過＋對象＋差額」之語序。"
@@ -5876,9 +5876,9 @@
           "prompt": "【語法判斷】在粵語口語中，短語「好過冇」之確切含義為：",
           "options": [
             "有總比沒有好 / 聊勝於無 (Better than nothing)",
-            "最好甚麼都沒有 (Target expression (Cantonese))",
-            "非常好而且應有盡有 (Target expression (Cantonese))",
-            "完全沒有任何好處 (Target expression (Cantonese))"
+            "最好甚麼都沒有) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)",
+            "非常好而且應有盡有) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)",
+            "完全沒有任何好處) (Context: 粵語後置超越比較句：「A + 形容詞 + 過 + B」（平過、貴過、快)"
           ],
           "answerIndex": 0,
           "explanation": "「好過冇」（hou2 gwo3 mou5）指比沒有要好，相當於「聊勝於無」。"
@@ -6009,9 +6009,9 @@
           "prompt": "【否定比較】欲用粵語委婉表達「今天沒有昨天那麼冷」，標準之句子係：",
           "options": [
             "今日冇琴日咁凍。 (gam1 jat6 mou5 kam4 jat6 gam3 dung3.)",
-            "今日不比琴日凍。 (Target expression (Cantonese))",
-            "今日冇琴日凍過。 (Target expression (Cantonese))",
-            "今日冇咁凍琴日。 (Target expression (Cantonese))"
+            "今日不比琴日凍。) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)",
+            "今日冇琴日凍過。) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)",
+            "今日冇咁凍琴日。) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)"
           ],
           "answerIndex": 0,
           "explanation": "粵語不及比較句固定結構為「主語＋冇＋對象＋咁＋形容詞」（今日冇琴日咁凍）。"
@@ -6024,9 +6024,9 @@
           "prompt": "【句意轉換】句子「搭地鐵快過搭巴士」轉換為以「搭巴士」為主語之否定比較句，應為：",
           "options": [
             "搭巴士冇搭地鐵咁快。 (daap3 baa1 si6*2 mou5 daap3 dei6 tit3 gam3 faai3.)",
-            "搭巴士快過搭地鐵。 (Target expression (Cantonese))",
-            "搭巴士冇地鐵快過。 (Target expression (Cantonese))",
-            "搭巴士同地鐵一樣快。 (Target expression (Cantonese))"
+            "搭巴士快過搭地鐵。) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)",
+            "搭巴士冇地鐵快過。) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)",
+            "搭巴士同地鐵一樣快。) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)"
           ],
           "answerIndex": 0,
           "explanation": "「Ａ快過Ｂ」之等價否定句為「Ｂ冇Ａ咁快」。"
@@ -6040,9 +6040,9 @@
           "prompt": "【語氣理解】當朋友向你請教某項高難度技能，你回答「件事冇咁易㗎！」，此話含意為：",
           "options": [
             "這件事情沒有想像中那麼容易 (It is not that easy!)",
-            "這件事情非常簡單容易 (Target expression (Cantonese))",
-            "這件事情根本不需要做 (Target expression (Cantonese))",
-            "這件事情已經徹底完成了 (Target expression (Cantonese))"
+            "這件事情非常簡單容易) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)",
+            "這件事情根本不需要做) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)",
+            "這件事情已經徹底完成了) (Context: 隱性否定比較句：「A + 冇 + B + 咁 + 形容詞」（冇咁貴、冇)"
           ],
           "answerIndex": 0,
           "explanation": "「冇咁易」（mou5 gam3 ji6）意為沒有那麼容易。"
@@ -6091,9 +6091,9 @@
           "prompt": "【等同句式】在粵語中表達「這部手機和那部一樣貴」，正確之句子係：",
           "options": [
             "呢部手機同嗰部一樣咁貴。 (ni1 bou6 sau2 gei1 tung4 go2 bou6 jat1 joeng6 gam3 gwai3.)",
-            "呢部手機一樣貴過嗰部。 (Target expression (Cantonese))",
-            "呢部手機同嗰部貴一樣。 (Target expression (Cantonese))",
-            "呢部手機比嗰部一樣貴。 (Target expression (Cantonese))"
+            "呢部手機一樣貴過嗰部。) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)",
+            "呢部手機同嗰部貴一樣。) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)",
+            "呢部手機比嗰部一樣貴。) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)"
           ],
           "answerIndex": 0,
           "explanation": "屬性等同比較句結構為「Ａ＋同＋Ｂ＋一樣咁＋形容詞」。"
@@ -6106,9 +6106,9 @@
           "prompt": "【相仿表達】欲表達「我和他年齡相仿、差不多大」，地道口語係：",
           "options": [
             "我同佢年紀差唔多。 (ngo5 tung4 keoi5 nin4 gei2 caa1 m4 do1.)",
-            "我同佢年紀差不多過。 (Target expression (Cantonese))",
-            "我比佢年紀差唔多大。 (Target expression (Cantonese))",
-            "我過佢年紀差唔多。 (Target expression (Cantonese))"
+            "我同佢年紀差不多過。) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)",
+            "我比佢年紀差唔多大。) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)",
+            "我過佢年紀差唔多。) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)"
           ],
           "answerIndex": 0,
           "explanation": "「差唔多」（caa1 m4 do1）作為謂語表示大體相仿、相差無幾。"
@@ -6122,9 +6122,9 @@
           "prompt": "【否定判斷】句子「我嘅意見同你完全唔同」之確切含義為：",
           "options": [
             "我的意見和你的完全不一樣 / 大相徑庭 (My opinion is completely different from yours)",
-            "我的意見和你的完全一致 (Target expression (Cantonese))",
-            "我沒有任何意見 (Target expression (Cantonese))",
-            "我非常贊成你的觀點 (Target expression (Cantonese))"
+            "我的意見和你的完全一致) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)",
+            "我沒有任何意見) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)",
+            "我非常贊成你的觀點) (Context: 等同與相似比較句：「A + 同 / 同埋 + B + 一樣（咁 + 形)"
           ],
           "answerIndex": 0,
           "explanation": "「唔同」（m4 tung4）在粵語中表示不同、不一樣。"
@@ -6255,9 +6255,9 @@
           "prompt": "【跨海動詞】在香港粵語中描述從九龍或新界前往香港島，最地道專屬之動詞係：",
           "options": [
             "過海 (gwo3 hoi2)",
-            "過河 (Target expression (Cantonese))",
-            "過橋 (Target expression (Cantonese))",
-            "過山 (Target expression (Cantonese))"
+            "過河) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)",
+            "過橋) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)",
+            "過山) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)"
           ],
           "answerIndex": 0,
           "explanation": "往來港島與九龍新界在粵語中專用動詞「過海」（gwo3 hoi2）。"
@@ -6270,9 +6270,9 @@
           "prompt": "【設施簡稱】香港歷史最悠久、連接紅磡與灣仔告士打道之海底隧道，口語簡稱為：",
           "options": [
             "紅隧 (hung4 seoi6 / Cross-Harbour Tunnel)",
-            "東隧 (Target expression (Cantonese))",
-            "西隧 (Target expression (Cantonese))",
-            "大隧 (Target expression (Cantonese))"
+            "東隧) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)",
+            "西隧) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)",
+            "大隧) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)"
           ],
           "answerIndex": 0,
           "explanation": "紅磡海底隧道在香港口語中普遍簡稱為「紅隧」（hung4 seoi6）。"
@@ -6286,9 +6286,9 @@
           "prompt": "【板塊常識】香港地理三大核心組成板塊中，佔全港土地面積八成以上之區域為：",
           "options": [
             "新界同離島 (New Territories & Outlying Islands)",
-            "香港島 (Target expression (Cantonese))",
-            "九龍半島 (Target expression (Cantonese))",
-            "維多利亞港 (Target expression (Cantonese))"
+            "香港島) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)",
+            "九龍半島) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)",
+            "維多利亞港) (Context: 香港三大地理板塊與跨海樞紐：「香港島」、「九龍半島」、「新界同離島」、)"
           ],
           "answerIndex": 0,
           "explanation": "新界連同各個離島佔香港整體陸地面積超過百分之八十。"
@@ -6337,9 +6337,9 @@
           "prompt": "【地標匹配】香港歷史悠久之登山復古纜車，其直達之港島著名俯瞰全港夜景勝地係：",
           "options": [
             "太平山頂 (taai3 ping4 saan1 deng2 / Victoria Peak)",
-            "獅子山 (Target expression (Cantonese))",
-            "大帽山 (Target expression (Cantonese))",
-            "鳳凰山 (Target expression (Cantonese))"
+            "獅子山) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)",
+            "大帽山) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)",
+            "鳳凰山) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)"
           ],
           "answerIndex": 0,
           "explanation": "山頂纜車直達太平山頂（taai3 ping4 saan1 deng2）。"
@@ -6352,9 +6352,9 @@
           "prompt": "【街區識別】位於港島中環、以異國風情特色酒吧、西餐廳與夜生活聞名之街區係：",
           "options": [
             "蘭桂坊 (laan4 gwai3 fong1)",
-            "女人街 (Target expression (Cantonese))",
-            "波鞋街 (Target expression (Cantonese))",
-            "金魚街 (Target expression (Cantonese))"
+            "女人街) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)",
+            "波鞋街) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)",
+            "金魚街) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)"
           ],
           "answerIndex": 0,
           "explanation": "中環著名酒吧與夜生活街區為「蘭桂坊」（laan4 gwai3 fong1）。"
@@ -6368,9 +6368,9 @@
           "prompt": "【古蹟文化】由舊中區警署建築群活化而成之當代文藝古蹟地標，其通稱為：",
           "options": [
             "大館 (daai6 gun2 / Tai Kwun)",
-            "大會堂 (Target expression (Cantonese))",
-            "大劇院 (Target expression (Cantonese))",
-            "大碼頭 (Target expression (Cantonese))"
+            "大會堂) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)",
+            "大劇院) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)",
+            "大碼頭) (Context: 港島核心城區與名勝地標：「中環」、「銅鑼灣」、「太平山頂」、「淺水灣」)"
           ],
           "answerIndex": 0,
           "explanation": "舊中區警署建築群在香港通稱「大館」（daai6 gun2）。"
@@ -6419,9 +6419,9 @@
           "prompt": "【特色街區】位於九龍旺角花園街南段、專門集中售賣各類潮流運動鞋之特色街道稱為：",
           "options": [
             "波鞋街 (bo1 haai4 gaai1 / Sneaker Street)",
-            "金魚街 (Target expression (Cantonese))",
-            "女人街 (Target expression (Cantonese))",
-            "廟街 (Target expression (Cantonese))"
+            "金魚街) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)",
+            "女人街) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)",
+            "廟街) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)"
           ],
           "answerIndex": 0,
           "explanation": "花園街南段因專門售賣運動鞋（波鞋）而通稱「波鞋街」（bo1 haai4 gaai1）。"
@@ -6434,9 +6434,9 @@
           "prompt": "【廟宇民俗】以「有求必應」著稱、每逢農曆新年除夕善信爭插「頭炷香」之著名道教宮觀係：",
           "options": [
             "黃大仙祠 (wong4 daai6 sin1 ci4)",
-            "文武廟 (Target expression (Cantonese))",
-            "車公廟 (Target expression (Cantonese))",
-            "天后廟 (Target expression (Cantonese))"
+            "文武廟) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)",
+            "車公廟) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)",
+            "天后廟) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)"
           ],
           "answerIndex": 0,
           "explanation": "「黃大仙祠」（wong4 daai6 sin1 ci4）以有求必應與新春頭炷香聞名。"
@@ -6450,9 +6450,9 @@
           "prompt": "【市井街區】九龍油麻地擁有百年歷史之著名水果批發交易市場，粵語口語簡稱為：",
           "options": [
             "果欄 (gwo2 laan4 / Yau Ma Tei Fruit Market)",
-            "菜欄 (Target expression (Cantonese))",
-            "魚欄 (Target expression (Cantonese))",
-            "肉欄 (Target expression (Cantonese))"
+            "菜欄) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)",
+            "魚欄) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)",
+            "肉欄) (Context: 九龍繁華商圈與民俗街區：「尖沙咀」、「旺角」、「油麻地果欄」、「黃大仙)"
           ],
           "answerIndex": 0,
           "explanation": "油麻地水果批發市場在香港通稱為「果欄」（gwo2 laan4）。"
@@ -6501,9 +6501,9 @@
           "prompt": "【自然地標】因山清水秀、地質公園景觀優美而素有「香港後花園」美譽之新界地區係：",
           "options": [
             "西貢 (sai1 gung3 / Sai Kung)",
-            "觀塘 (Target expression (Cantonese))",
-            "深水埗 (Target expression (Cantonese))",
-            "油麻地 (Target expression (Cantonese))"
+            "觀塘) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)",
+            "深水埗) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)",
+            "油麻地) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)"
           ],
           "answerIndex": 0,
           "explanation": "「西貢」（sai1 gung3）被譽為「香港後花園」。"
@@ -6516,9 +6516,9 @@
           "prompt": "【非遺美食】元朗原居民圍村在喜慶節日時全村共食、象徵「盆滿缽滿」之傳統特色菜式係：",
           "options": [
             "圍村盆菜 (wai4 cyun1 pun4 coi3 / Poon Choi)",
-            "叉燒包 (Target expression (Cantonese))",
-            "菠蘿包 (Target expression (Cantonese))",
-            "老婆餅 (Target expression (Cantonese))"
+            "叉燒包) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)",
+            "菠蘿包) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)",
+            "老婆餅) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)"
           ],
           "answerIndex": 0,
           "explanation": "新界原居民圍村最具代表性之喜慶盛宴為「盆菜」（pun4 coi3）。"
@@ -6532,9 +6532,9 @@
           "prompt": "【民俗祈福】沙田車公廟每年新春吸引大量善信前往祈福，信眾通常透過轉動何種吉祥物象徵轉運：",
           "options": [
             "銅風車 (Windmills)",
-            "轉經筒 (Target expression (Cantonese))",
-            "大銅鐘 (Target expression (Cantonese))",
-            "八卦鏡 (Target expression (Cantonese))"
+            "轉經筒) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)",
+            "大銅鐘) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)",
+            "八卦鏡) (Context: 新界自然生態與傳統古村：「西貢」、「大埔 / 大美督」、「沙田 / 車)"
           ],
           "answerIndex": 0,
           "explanation": "車公廟信眾透過轉動銅風車（zyun3 fung1 ce1）祈求轉運轉吉。"
@@ -6583,9 +6583,9 @@
           "prompt": "【非遺盛事】每年農曆四月在長洲舉行、以「搶包山」與「飄色巡遊」聞名全港之傳統節慶係：",
           "options": [
             "長洲太平清醮 (Cheung Chau Bun Festival)",
-            "大坑舞火龍 (Target expression (Cantonese))",
-            "中秋綵燈會 (Target expression (Cantonese))",
-            "天后誕巡遊 (Target expression (Cantonese))"
+            "大坑舞火龍) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)",
+            "中秋綵燈會) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)",
+            "天后誕巡遊) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)"
           ],
           "answerIndex": 0,
           "explanation": "長洲最負盛名之國家級非遺民俗節慶為「太平清醮」（taai3 ping4 cing1 ziu3）。"
@@ -6598,9 +6598,9 @@
           "prompt": "【名勝景觀】大嶼山寶蓮禪寺旁著名之世界級戶外青銅坐佛，其正式名稱係：",
           "options": [
             "天壇大佛 (tin1 taan4 daai6 fat6 / Big Buddha)",
-            "樂山大佛 (Target expression (Cantonese))",
-            "雲岡大佛 (Target expression (Cantonese))",
-            "龍門大佛 (Target expression (Cantonese))"
+            "樂山大佛) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)",
+            "雲岡大佛) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)",
+            "龍門大佛) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)"
           ],
           "answerIndex": 0,
           "explanation": "大嶼山著名青銅坐佛為「天壇大佛」（tin1 taan4 daai6 fat6）。"
@@ -6614,9 +6614,9 @@
           "prompt": "【水鄉景觀】被譽為「東方威尼斯」之大澳漁村，其搭建在水面潮汐之上的標誌性民居建築稱為：",
           "options": [
             "棚屋 (paang4 uk1 / Stilt Houses)",
-            "石屋 (Target expression (Cantonese))",
-            "竹樓 (Target expression (Cantonese))",
-            "碉堡 (Target expression (Cantonese))"
+            "石屋) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)",
+            "竹樓) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)",
+            "碉堡) (Context: 離島風情與文化景觀：「大嶼山 / 天壇大佛」、「長洲 / 搶包山」、「)"
           ],
           "answerIndex": 0,
           "explanation": "大澳水鄉建於水面木柱之上的傳統民居稱為「棚屋」（paang4 uk1）。"
@@ -6665,9 +6665,9 @@
           "prompt": "【公文句式】在正式商務或公務場合表達「請把這份文件交給陳經理」，最得體之粵語處置句係：",
           "options": [
             "請將呢份文件交畀陳經理。 (cing2 zoeng1 ni1 fan6 man4 gin62 gaau1 bei2 can4 ging1 lei5.)",
-            "請交呢份文件畀陳經理。 (Target expression (Cantonese))",
-            "請將陳經理交畀呢份文件。 (Target expression (Cantonese))",
-            "請呢份文件將交畀陳經理。 (Target expression (Cantonese))"
+            "請交呢份文件畀陳經理。) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)",
+            "請將陳經理交畀呢份文件。) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)",
+            "請呢份文件將交畀陳經理。) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)"
           ],
           "answerIndex": 0,
           "explanation": "標準處置句公式為「主語＋將＋賓語＋動詞補語」（請將呢份文件交畀……）。"
@@ -6680,9 +6680,9 @@
           "prompt": "【語法結構】在粵語「將」字句中，動詞謂語後方必須具備之語法要素係：",
           "options": [
             "結果補語、趨向補語或體貌助詞 (Resultative/Directional Complements)",
-            "形容詞最高級標記 (Target expression (Cantonese))",
-            "疑問代名詞 (Target expression (Cantonese))",
-            "否定副詞「唔」 (Target expression (Cantonese))"
+            "形容詞最高級標記) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)",
+            "疑問代名詞) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)",
+            "否定副詞「唔」) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)"
           ],
           "answerIndex": 0,
           "explanation": "處置句要求動詞後方必須帶有結果、趨向補語或體態助詞，以交代處置之終結狀態。"
@@ -6696,9 +6696,9 @@
           "prompt": "【句意解析】港鐵廣播詞「請將座位讓畀有需要嘅乘客」，其句法結構屬於：",
           "options": [
             "「將」字受事處置祈使句 (Disposal Imperative Sentence)",
-            "否定比較句 (Target expression (Cantonese))",
-            "被動被字句 (Target expression (Cantonese))",
-            "可能態疑問句 (Target expression (Cantonese))"
+            "否定比較句) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)",
+            "被動被字句) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)",
+            "可能態疑問句) (Context: 粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng)"
           ],
           "answerIndex": 0,
           "explanation": "此句通過「將＋受事（座位）＋動詞（讓畀）＋對象」構成標準處置祈使句。"
@@ -6747,9 +6747,9 @@
           "prompt": "【口語處置】在粵語日常生活中欲催促對方「把這碗湯喝了它」，最地道之口語說法係：",
           "options": [
             "快啲飲咗碗湯佢！ (faai3 di1 jam2 zo2 wun2 tong1 keoi5!)",
-            "快啲把碗湯喝！ (Target expression (Cantonese))",
-            "快啲飲碗湯把！ (Target expression (Cantonese))",
-            "快啲將碗湯喝！ (Target expression (Cantonese))"
+            "快啲把碗湯喝！) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )",
+            "快啲飲碗湯把！) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )",
+            "快啲將碗湯喝！) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )"
           ],
           "answerIndex": 0,
           "explanation": "粵語口語處置句典型結構為「動詞＋賓語＋佢」（飲咗碗湯佢）。"
@@ -6762,9 +6762,9 @@
           "prompt": "【動作識別】當看見桌上有過期壞掉之食物，媽媽吩咐孩子「把它扔掉」，口語常講：",
           "options": [
             "抌咗佢！ (dam2 zo2 keoi5!)",
-            "食咗佢！ (Target expression (Cantonese))",
-            "買咗佢！ (Target expression (Cantonese))",
-            "睇咗佢！ (Target expression (Cantonese))"
+            "食咗佢！) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )",
+            "買咗佢！) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )",
+            "睇咗佢！) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )"
           ],
           "answerIndex": 0,
           "explanation": "「抌」（dam2）在粵語中表示扔掉、丟棄。「抌咗佢」即把它扔掉。"
@@ -6778,9 +6778,9 @@
           "prompt": "【語法功能】在粵語短語「搞掂佢」（gaau2 dim6 keoi5）中，字尾「佢」之主要語法功能係：",
           "options": [
             "作為後置虛指處置代詞，強化完成處置之語氣 (Resumptive Disposal Marker)",
-            "專門特指某一位男性長輩 (Target expression (Cantonese))",
-            "表示疑問語氣助詞 (Target expression (Cantonese))",
-            "表示否定副詞 (Target expression (Cantonese))"
+            "專門特指某一位男性長輩) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )",
+            "表示疑問語氣助詞) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )",
+            "表示否定副詞) (Context: 粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 )"
           ],
           "answerIndex": 0,
           "explanation": "「佢」在處置短語中虛化為處置了結之代詞標記。"
@@ -6829,9 +6829,9 @@
           "prompt": "【位置轉移】欲表達「請把這份文件放在我的辦公桌上」，標準粵語處置句係：",
           "options": [
             "請將呢份文件擺喺我張寫字枱上面。 (cing2 zoeng1 ni1 fan6 man4 gin62 baai2 hai2 ngo5 zoeng1 se2 zi6 toi4*2 soeng6 min6.)",
-            "請將我張寫字枱擺喺呢份文件。 (Target expression (Cantonese))",
-            "請擺喺呢份文件我張寫字枱。 (Target expression (Cantonese))",
-            "請呢份文件擺喺將我張寫字枱。 (Target expression (Cantonese))"
+            "請將我張寫字枱擺喺呢份文件。) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)",
+            "請擺喺呢份文件我張寫字枱。) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)",
+            "請呢份文件擺喺將我張寫字枱。) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)"
           ],
           "answerIndex": 0,
           "explanation": "「將＋賓語（呢份文件）＋動詞補語（擺喺……）」為正確結構。"
@@ -6844,9 +6844,9 @@
           "prompt": "【對象轉移】快遞員將物品親手送達並轉移給接收者，動詞短語應選用：",
           "options": [
             "遞畀 (dai6 bei2 / Hand over to)",
-            "食畀 (Target expression (Cantonese))",
-            "行畀 (Target expression (Cantonese))",
-            "睇畀 (Target expression (Cantonese))"
+            "食畀) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)",
+            "行畀) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)",
+            "睇畀) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)"
           ],
           "answerIndex": 0,
           "explanation": "「遞畀」（dai6 bei2）表示親手遞交、傳遞給某人。"
@@ -6860,9 +6860,9 @@
           "prompt": "【趨向理解】句子「記得將部手提電腦帶返屋企」中，「帶返」之核心語義為：",
           "options": [
             "把筆記本電腦帶回到家中原處 (Take it back home)",
-            "把筆記本電腦丟棄在家中 (Target expression (Cantonese))",
-            "在家中購買一台新電腦 (Target expression (Cantonese))",
-            "在家中修理筆記本電腦 (Target expression (Cantonese))"
+            "把筆記本電腦丟棄在家中) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)",
+            "在家中購買一台新電腦) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)",
+            "在家中修理筆記本電腦) (Context: 處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (R)"
           ],
           "answerIndex": 0,
           "explanation": "補語「返」表示回歸原處，「帶返屋企」即帶回家中。"
@@ -6911,9 +6911,9 @@
           "prompt": "【使成動詞】在粵語中描述不小心把鑰匙「弄丟、搞丟了」，最標準之動詞搭配係：",
           "options": [
             "整唔見咗 (zing2 m4 gin3 zo2)",
-            "行唔見咗 (Target expression (Cantonese))",
-            "睇唔見咗 (Target expression (Cantonese))",
-            "聽唔見咗 (Target expression (Cantonese))"
+            "行唔見咗) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()",
+            "睇唔見咗) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()",
+            "聽唔見咗) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「整唔見」（zing2 m4 gin3）係粵語中表達把物品搞丟、遺失之標準說法。"
@@ -6926,9 +6926,9 @@
           "prompt": "【體貌補語】欲表達「把桌上剩餘之飯菜全部吃完」，動詞短語應使用助詞：",
           "options": [
             "食埋佢 (sik6 maai4 keoi5)",
-            "食起佢 (Target expression (Cantonese))",
-            "食落佢 (Target expression (Cantonese))",
-            "食過佢 (Target expression (Cantonese))"
+            "食起佢) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()",
+            "食落佢) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()",
+            "食過佢) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()"
           ],
           "answerIndex": 0,
           "explanation": "補語「埋」（maai4）表示將剩餘部分徹底做完、了結。"
@@ -6942,9 +6942,9 @@
           "prompt": "【語意理解】句子「將架私家車揸走」中，「揸走」之確切含義為：",
           "options": [
             "開車離開現場 (Drive the car away)",
-            "把車停放在原地 (Target expression (Cantonese))",
-            "在車裡休息睡覺 (Target expression (Cantonese))",
-            "把車輛徹底拆解 (Target expression (Cantonese))"
+            "把車停放在原地) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()",
+            "在車裡休息睡覺) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()",
+            "把車輛徹底拆解) (Context: 處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「揸」（zaa1）為開車，「揸走」即開車離開移走。"
@@ -6993,9 +6993,9 @@
           "prompt": "【句式轉換】將主動句「同事借咗我部相機」轉換為強調「我部相機」之受事主題化句，應為：",
           "options": [
             "我部相機，同事借咗。 (ngo5 bou6 soeng2 gei1, tung4 si6 ze3 zo2.)",
-            "我部相機借咗同事。 (Target expression (Cantonese))",
-            "同事我部相機借咗。 (Target expression (Cantonese))",
-            "借咗我部相機同事。 (Target expression (Cantonese))"
+            "我部相機借咗同事。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)",
+            "同事我部相機借咗。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)",
+            "借咗我部相機同事。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)"
           ],
           "answerIndex": 0,
           "explanation": "受事主題化將受事焦點「我部相機」提至句首作為話題。"
@@ -7008,9 +7008,9 @@
           "prompt": "【被動結構】在粵語中表達「杯子被弟弟打破了」，正確之「畀」字被動句係：",
           "options": [
             "隻杯畀細佬整爛咗。 (zek3 bui1 bei2 sai3 lou2 zing2 laan6 zo2.)",
-            "隻杯將細佬整爛咗。 (Target expression (Cantonese))",
-            "細佬畀隻杯整爛咗。 (Target expression (Cantonese))",
-            "隻杯過細佬整爛咗。 (Target expression (Cantonese))"
+            "隻杯將細佬整爛咗。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)",
+            "細佬畀隻杯整爛咗。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)",
+            "隻杯過細佬整爛咗。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)"
           ],
           "answerIndex": 0,
           "explanation": "粵語被動句結構為「受事＋畀＋施事＋動詞補語」（隻杯畀細佬整爛咗）。"
@@ -7024,9 +7024,9 @@
           "prompt": "【語用選擇】在向客戶交代工作完成進度時，欲展現最高之專業度與責任感，最推薦之句式係：",
           "options": [
             "我已經將所有資料核對好並寄出咗。 (I have verified and dispatched all data.)",
-            "資料畀我寄出咗。 (Target expression (Cantonese))",
-            "資料寄出咗佢。 (Target expression (Cantonese))",
-            "唔知邊個寄咗資料。 (Target expression (Cantonese))"
+            "資料畀我寄出咗。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)",
+            "資料寄出咗佢。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)",
+            "唔知邊個寄咗資料。) (Context: 處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, T)"
           ],
           "answerIndex": 0,
           "explanation": "「將」字處置句在商務交流中展現出最高之主動性與嚴謹規範性。"
@@ -7075,9 +7075,9 @@
           "prompt": "【語法正誤】在粵語中表達「手機被摔壞了（未知是誰摔的）」，符合粵語語法規範之句子係：",
           "options": [
             "部手機畀人整爛咗。 (bou6 sau2 gei1 bei2 jan4 zing2 laan6 zo2.)",
-            "部手機畀整爛咗。 (Target expression (Cantonese))",
-            "部手機整爛咗畀人。 (Target expression (Cantonese))",
-            "部手機被整爛咗。 (Target expression (Cantonese))"
+            "部手機畀整爛咗。) (Context: 粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 +)",
+            "部手機整爛咗畀人。) (Context: 粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 +)",
+            "部手機被整爛咗。) (Context: 粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 +)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「畀」字後方不可懸空，施事者未知時必須補入泛指代詞「人」（畀人整爛咗）。"
@@ -7106,9 +7106,9 @@
           "prompt": "【特徵對比】相較於現代標準漢語「被」字句，粵語「畀」字句最顯著之句法約束係：",
           "options": [
             "「畀」字後方之施事主體不可省略，泛指時須填補「人」 (Agent cannot be omitted)",
-            "「畀」字句不能使用任何結果補語 (Target expression (Cantonese))",
-            "「畀」字句只能用於祈使語氣 (Target expression (Cantonese))",
-            "「畀」字句不能含有時間副詞 (Target expression (Cantonese))"
+            "「畀」字句不能使用任何結果補語) (Context: 粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 +)",
+            "「畀」字句只能用於祈使語氣) (Context: 粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 +)",
+            "「畀」字句不能含有時間副詞) (Context: 粵語被動句標記「畀」之語義本質與核心結構：「受事 + 畀 + 施事 +)"
           ],
           "answerIndex": 0,
           "explanation": "粵語「畀」字後方施事不可懸空，無定施事時必須補入「人」（如「畀人偷咗」）。"
@@ -7157,9 +7157,9 @@
           "prompt": "【語意匹配】在廣東話中描述自己遭受了詐騙分子之欺騙，最地道之口語被動說法係：",
           "options": [
             "我畀人呃咗。 (ngo5 bei2 jan4 aak1 zo2.)",
-            "我畀人炒咗。 (Target expression (Cantonese))",
-            "我畀人屈咗。 (Target expression (Cantonese))",
-            "我畀人蝦咗。 (Target expression (Cantonese))"
+            "我畀人炒咗。) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)",
+            "我畀人屈咗。) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)",
+            "我畀人蝦咗。) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)"
           ],
           "answerIndex": 0,
           "explanation": "「呃」（aak1）為欺騙，「畀人呃咗」表示被人欺騙上當。"
@@ -7172,9 +7172,9 @@
           "prompt": "【職場俚語】在香港職場中，若某員工不幸遭到公司開除解僱，其口語被動表達為：",
           "options": [
             "畀老細炒魷魚 (Fired by the boss)",
-            "畀老細請食飯 (Target expression (Cantonese))",
-            "畀老細加人工 (Target expression (Cantonese))",
-            "畀老細升職 (Target expression (Cantonese))"
+            "畀老細請食飯) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)",
+            "畀老細加人工) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)",
+            "畀老細升職) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)"
           ],
           "answerIndex": 0,
           "explanation": "「畀……炒魷魚」係粵語中被解僱開除之經典被動表達。"
@@ -7188,9 +7188,9 @@
           "prompt": "【詞義辨析】句子「佢個人好老實，喺學校成日畀人蝦」中，「畀人蝦」之含義係：",
           "options": [
             "被人欺負、霸凌 (Bullied by others)",
-            "被人請吃海鮮大蝦 (Target expression (Cantonese))",
-            "被人誇獎表揚 (Target expression (Cantonese))",
-            "被人邀請去旅遊 (Target expression (Cantonese))"
+            "被人請吃海鮮大蝦) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)",
+            "被人誇獎表揚) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)",
+            "被人邀請去旅遊) (Context: 「畀人 + V」無定施事被動句與職場/市井高頻遭遇：「畀人呃」、「畀人)"
           ],
           "answerIndex": 0,
           "explanation": "「蝦」（haa1）在粵語中作動詞時表示欺負、霸凌，「畀人蝦」即被人欺負。"
@@ -7239,9 +7239,9 @@
           "prompt": "【功能辨析】句子「媽咪唔畀我睇電視」中，「畀」字所承擔之語法功能係：",
           "options": [
             "使役動詞（表示准許、允許） (Causative / Allow)",
-            "被動標記（表示被動承受） (Target expression (Cantonese))",
-            "給予動詞（表示交付物品） (Target expression (Cantonese))",
-            "形容詞最高級標記 (Target expression (Cantonese))"
+            "被動標記（表示被動承受）) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)",
+            "給予動詞（表示交付物品）) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)",
+            "形容詞最高級標記) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)"
           ],
           "answerIndex": 0,
           "explanation": "「唔畀我睇」表示不允許我看，此處「畀」為使役動詞。"
@@ -7254,9 +7254,9 @@
           "prompt": "【功能辨析】句子「我個銀包尋晚畀小偷扒咗」中，「畀」字所承擔之語法功能係：",
           "options": [
             "被動標記（表示遭受被盜） (Passive Marker)",
-            "使役動詞（表示准許小偷） (Target expression (Cantonese))",
-            "給予動詞（表示送給小偷） (Target expression (Cantonese))",
-            "疑問代名詞 (Target expression (Cantonese))"
+            "使役動詞（表示准許小偷）) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)",
+            "給予動詞（表示送給小偷）) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)",
+            "疑問代名詞) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)"
           ],
           "answerIndex": 0,
           "explanation": "「銀包畀小偷扒咗」表示錢包被小偷偷走，此處「畀」為被動標記。"
@@ -7270,9 +7270,9 @@
           "prompt": "【綜合判斷】下列四個含有「畀」字之粵語句子中，屬於典型「雙賓語給予動詞」用法嘅係：",
           "options": [
             "叔叔畀咗一百蚊利是阿明。 (Uncle gave a 100-dollar red packet to Ah Ming.)",
-            "部電腦畀細佬整爛咗。 (Target expression (Cantonese))",
-            "經理唔畀員工請假。 (Target expression (Cantonese))",
-            "佢尋日畀雨淋濕咗。 (Target expression (Cantonese))"
+            "部電腦畀細佬整爛咗。) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)",
+            "經理唔畀員工請假。) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)",
+            "佢尋日畀雨淋濕咗。) (Context: 被動標記「畀」與使役標記「畀」之歧義消除與多功能語義辨析 (Disam)"
           ],
           "answerIndex": 0,
           "explanation": "選項A中「畀＋一百蚊（物）＋阿明（人）」為標準給予雙賓語用法。"
@@ -7321,9 +7321,9 @@
           "prompt": "【受傷補語】在粵語中描述不小心被滾燙之開水燙傷了手，正確之動詞補語組合係：",
           "options": [
             "畀滾水淥親手 (bei2 gwan2 seoi2 luk6 can1 sau2)",
-            "畀滾水食親手 (Target expression (Cantonese))",
-            "畀滾水行親手 (Target expression (Cantonese))",
-            "畀滾水睇親手 (Target expression (Cantonese))"
+            "畀滾水食親手) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()",
+            "畀滾水行親手) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()",
+            "畀滾水睇親手) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「淥」（luk6）表示燙，「淥親」表示被熱水燙傷。"
@@ -7336,9 +7336,9 @@
           "prompt": "【氣候被動】下雨天出門未帶雨具導致衣服全部濕透，地道粵語表達係：",
           "options": [
             "畀雨淋到濕晒 (bei2 jyu5 lam4 dou3 sap1 saai3)",
-            "畀雨曬到乾晒 (Target expression (Cantonese))",
-            "畀雨吹到飛晒 (Target expression (Cantonese))",
-            "畀雨煮到熟晒 (Target expression (Cantonese))"
+            "畀雨曬到乾晒) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()",
+            "畀雨吹到飛晒) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()",
+            "畀雨煮到熟晒) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「畀雨淋到濕晒」表示被雨水淋得全身濕透。"
@@ -7352,9 +7352,9 @@
           "prompt": "【字義理解】句子「食魚小心畀魚骨鯁親」中，「鯁」（gang2）之具體意思係：",
           "options": [
             "卡在喉嚨中咽不下去 (Choked / Stuck in throat)",
-            "把魚骨咬碎 (Target expression (Cantonese))",
-            "把魚骨吐出來 (Target expression (Cantonese))",
-            "把魚骨煮成湯 (Target expression (Cantonese))"
+            "把魚骨咬碎) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()",
+            "把魚骨吐出來) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()",
+            "把魚骨煮成湯) (Context: 自然界與意外事件被動句：「畀雨淋濕」、「畀太陽曬傷」、「畀車撞倒」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「鯁」（gang2）在粵語中指骨頭或異物卡在食道咽喉。"
@@ -7403,9 +7403,9 @@
           "prompt": "【語用得體】在日常生活中向朋友分享「我升職了」之喜訊，最地道自然之口語表達係：",
           "options": [
             "老細升咗我職！ (The boss promoted me! / Active SVO)",
-            "我畀老細升職咗。 (Target expression (Cantonese))",
-            "我畀人升咗職。 (Target expression (Cantonese))",
-            "職畀老細升咗我。 (Target expression (Cantonese))"
+            "我畀老細升職咗。) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)",
+            "我畀人升咗職。) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)",
+            "職畀老細升咗我。) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)"
           ],
           "answerIndex": 0,
           "explanation": "粵語口語表達正向喜事時，首選主動句「老細升咗我職」，避免生硬被動態。"
@@ -7418,9 +7418,9 @@
           "prompt": "【公文語體】在正式公司公告中表彰某位傑出員工，規範之現代公務被動句係：",
           "options": [
             "李經理畀全體同仁推選為本年度模範員工。 (Manager Li was elected by all colleagues...)",
-            "李經理畀全體同仁整爛咗。 (Target expression (Cantonese))",
-            "全體同仁畀李經理推選咗。 (Target expression (Cantonese))",
-            "李經理推選咗畀全體同仁。 (Target expression (Cantonese))"
+            "李經理畀全體同仁整爛咗。) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)",
+            "全體同仁畀李經理推選咗。) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)",
+            "李經理推選咗畀全體同仁。) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)"
           ],
           "answerIndex": 0,
           "explanation": "正式公文中可使用「受事＋畀＋施事＋推選為……」表達客觀推選表彰。"
@@ -7434,9 +7434,9 @@
           "prompt": "【語言學常識】傳統純口語粵語中，「畀」字被動句最核心之語義特徵係：",
           "options": [
             "強烈之「被害義」與遭受不幸色彩 (Adverse / Victim Valence)",
-            "專門用於表達強烈祝賀 (Target expression (Cantonese))",
-            "只能用於天氣預報 (Target expression (Cantonese))",
-            "只能用於醫學診斷 (Target expression (Cantonese))"
+            "專門用於表達強烈祝賀) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)",
+            "只能用於天氣預報) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)",
+            "只能用於醫學診斷) (Context: 粵語被動句之情感色彩、被害義與中性/正向被動語態實戰 (Valence)"
           ],
           "answerIndex": 0,
           "explanation": "傳統粵語口語被動句主要用於表達遭受損害、挫折、委屈等被害語義。"
@@ -7485,9 +7485,9 @@
           "prompt": "【補語匹配】在廣東話中表達「所有任務都已經圓滿辦妥、解決了」，動詞短語應為：",
           "options": [
             "搞掂 (gaau2 dim6)",
-            "搞齊 (Target expression (Cantonese))",
-            "搞錯 (Target expression (Cantonese))",
-            "搞爛 (Target expression (Cantonese))"
+            "搞齊) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )",
+            "搞錯) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )",
+            "搞爛) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )"
           ],
           "answerIndex": 0,
           "explanation": "「搞掂」（gaau2 dim6）表示順利辦妥、圓滿解決。"
@@ -7500,9 +7500,9 @@
           "prompt": "【窮盡語義】當麵包店所有新鮮出爐之蛋撻全部售罄，店員會向客人解釋：",
           "options": [
             "蛋撻已經賣晒喇。 (Egg tarts are completely sold out.)",
-            "蛋撻已經賣齊喇。 (Target expression (Cantonese))",
-            "蛋撻已經賣錯喇。 (Target expression (Cantonese))",
-            "蛋撻已經賣掂喇。 (Target expression (Cantonese))"
+            "蛋撻已經賣齊喇。) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )",
+            "蛋撻已經賣錯喇。) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )",
+            "蛋撻已經賣掂喇。) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )"
           ],
           "answerIndex": 0,
           "explanation": "「賣晒」（maai6 saai3）表示全部售罄、賣光。"
@@ -7516,9 +7516,9 @@
           "prompt": "【語序規則】下列關於粵語結果補語與賓語位置關係之敘述，正確嘅係：",
           "options": [
             "結果補語必須緊貼動詞，置於賓語之前（如「食晒啲飯」） (Complement precedes object)",
-            "結果補語必須放在賓語最後方（如「食啲飯晒」） (Target expression (Cantonese))",
-            "結果補語必須放在句首主語前面 (Target expression (Cantonese))",
-            "結果補語不能與及物動詞連用 (Target expression (Cantonese))"
+            "結果補語必須放在賓語最後方（如「食啲飯晒」）) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )",
+            "結果補語必須放在句首主語前面) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )",
+            "結果補語不能與及物動詞連用) (Context: 粵語核心結果補語：「V + 掂 / 齊 / 晒 / 錯」 (Core )"
           ],
           "answerIndex": 0,
           "explanation": "粵語語法規範要求結果補語緊隨動詞謂語，置於名詞賓語之前（動＋補＋賓）。"
@@ -7567,9 +7567,9 @@
           "prompt": "【創傷補語】在廣東話中詢問對方摔倒後「有沒有摔傷、受傷」，最關切之問句係：",
           "options": [
             "你有冇跌親呀？ (Did you get hurt from falling?)",
-            "你有冇跌爛呀？ (Target expression (Cantonese))",
-            "你有冇跌斷呀？ (Target expression (Cantonese))",
-            "你有冇跌死呀？ (Target expression (Cantonese))"
+            "你有冇跌爛呀？) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()",
+            "你有冇跌斷呀？) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()",
+            "你有冇跌死呀？) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「跌親」（tit3 can1）為跌倒受傷之專屬表達，「有冇跌親」為最標準慰問語。"
@@ -7582,9 +7582,9 @@
           "prompt": "【骨骼損傷】若滑雪時不幸造成手臂骨骼折斷，動詞短語應表達為：",
           "options": [
             "跌斷手 (tit3 tyun5 sau2 / Broke arm bone)",
-            "跌爛手 (Target expression (Cantonese))",
-            "跌碎手 (Target expression (Cantonese))",
-            "跌裂手 (Target expression (Cantonese))"
+            "跌爛手) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()",
+            "跌碎手) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()",
+            "跌裂手) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()"
           ],
           "answerIndex": 0,
           "explanation": "骨骼折斷在粵語中專用結果補語「斷」（跌斷手）。"
@@ -7598,9 +7598,9 @@
           "prompt": "【程度修辭】短語「攰死」（gui6 sei2）在粵語中之實際語義為：",
           "options": [
             "極度疲倦、累得要命 (Extremely exhausted)",
-            "已經死亡 (Target expression (Cantonese))",
-            "感到非常寒冷 (Target expression (Cantonese))",
-            "感到非常憤怒 (Target expression (Cantonese))"
+            "已經死亡) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()",
+            "感到非常寒冷) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()",
+            "感到非常憤怒) (Context: 身體感受與意外受損結果補語：「V + 親 / 死 / 爛 / 斷」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「攰死」中「死」為極致程度補語，表示極度疲勞勞累。"
@@ -7649,9 +7649,9 @@
           "prompt": "【空間視角】說話者站在辦公室內部，欲招呼門外之同事「走進辦公室來」，應講：",
           "options": [
             "快啲行入嚟啦！ (haang4 jap6 lai4 / Walk in towards here)",
-            "快啲行入去啦！ (Target expression (Cantonese))",
-            "快啲行出去啦！ (Target expression (Cantonese))",
-            "快啲行出嚟啦！ (Target expression (Cantonese))"
+            "快啲行入去啦！) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)",
+            "快啲行出去啦！) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)",
+            "快啲行出嚟啦！) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)"
           ],
           "answerIndex": 0,
           "explanation": "由外向內且朝向說話者位置移動，使用趨向補語「入嚟」（jap6 lai4）。"
@@ -7664,9 +7664,9 @@
           "prompt": "【視角轉換】說話者在樓下，看見朋友正從樓下走向頂樓（遠離說話者），應描述為：",
           "options": [
             "佢行咗上去。 (haang4 zo2 soeng5 heoi3 / Walked up away)",
-            "佢行咗上嚟。 (Target expression (Cantonese))",
-            "佢行咗落嚟。 (Target expression (Cantonese))",
-            "佢行咗入嚟。 (Target expression (Cantonese))"
+            "佢行咗上嚟。) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)",
+            "佢行咗落嚟。) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)",
+            "佢行咗入嚟。) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)"
           ],
           "answerIndex": 0,
           "explanation": "由低向高且背離說話者移動，使用趨向補語「上去」（soeng5 heoi3）。"
@@ -7680,9 +7680,9 @@
           "prompt": "【跨越維度】在街道一側向對面之朋友揮手示意「走過來我這邊」，正確之趨向動詞係：",
           "options": [
             "行過嚟 (haang4 gwo3 lai4 / Walk over here)",
-            "行過去 (Target expression (Cantonese))",
-            "行落去 (Target expression (Cantonese))",
-            "行入去 (Target expression (Cantonese))"
+            "行過去) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)",
+            "行落去) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)",
+            "行入去) (Context: 基礎與複合空間趨向補語：「入嚟 / 出去」、「上嚟 / 落去」、「過嚟)"
           ],
           "answerIndex": 0,
           "explanation": "橫向跨越並朝向說話者走近，使用「過嚟」（gwo3 lai4）。"
@@ -7731,9 +7731,9 @@
           "prompt": "【狀態回歸】生病發燒數天後，欲表達身體「已經痊癒、恢復健康」，最地道之口語說法係：",
           "options": [
             "我已經好返喇。 (ngo5 ji5 ging1 hou2 faan1 laa3.)",
-            "我已經好去喇。 (Target expression (Cantonese))",
-            "我已經好落喇。 (Target expression (Cantonese))",
-            "我已經好上喇。 (Target expression (Cantonese))"
+            "我已經好去喇。) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )",
+            "我已經好落喇。) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )",
+            "我已經好上喇。) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )"
           ],
           "answerIndex": 0,
           "explanation": "「好返」（hou2 faan1）表示病癒、身體恢復健康。"
@@ -7746,9 +7746,9 @@
           "prompt": "【動作延續】在會議上鼓勵發言者「請繼續往下講」，地道粵語表達係：",
           "options": [
             "請你繼續講落去。 (cing2 nei5 gai3 zuk6 gong2 lok6 heoi3.)",
-            "請你繼續講上去。 (Target expression (Cantonese))",
-            "請你繼續講入嚟。 (Target expression (Cantonese))",
-            "請你繼續講出嚟。 (Target expression (Cantonese))"
+            "請你繼續講上去。) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )",
+            "請你繼續講入嚟。) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )",
+            "請你繼續講出嚟。) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )"
           ],
           "answerIndex": 0,
           "explanation": "「講落去」（gong2 lok6 heoi3）表示繼續往下講述。"
@@ -7762,9 +7762,9 @@
           "prompt": "【語意評估】短語「睇起上嚟好後生」中，「起上嚟」之主要語法功能係：",
           "options": [
             "表示主觀觀察、感知與評估 (Subjective Perception / Evaluation)",
-            "表示身體意外受傷 (Target expression (Cantonese))",
-            "表示方位向低處移動 (Target expression (Cantonese))",
-            "表示動作徹底完成 (Target expression (Cantonese))"
+            "表示身體意外受傷) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )",
+            "表示方位向低處移動) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )",
+            "表示動作徹底完成) (Context: 回歸與延續特徵趨向補語：「V + 返 / 返嚟」、「V + 落去 / )"
           ],
           "answerIndex": 0,
           "explanation": "「睇起上嚟」表示看起來、在視覺評估上。"
@@ -7895,9 +7895,9 @@
           "prompt": "【否定可能】在廣東話中表達「聽不懂對方所說的話」，最地道之動詞可能補語短語係：",
           "options": [
             "聽唔明 (teng1 m4 ming4 / Cannot understand)",
-            "聽得明 (Target expression (Cantonese))",
-            "聽唔好 (Target expression (Cantonese))",
-            "聽唔晒 (Target expression (Cantonese))"
+            "聽得明) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )",
+            "聽唔好) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )",
+            "聽唔晒) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )"
           ],
           "answerIndex": 0,
           "explanation": "否定可能式使用中綴「唔」，「聽唔明」表示聽不懂。"
@@ -7910,9 +7910,9 @@
           "prompt": "【肯定可能】欲向對方確認「我看得清楚你寫的字」，肯定式可能補語應講：",
           "options": [
             "我睇得清楚 (ngo5 tai2 dak1 cing1 co2)",
-            "我睇唔清楚 (Target expression (Cantonese))",
-            "我睇得晒 (Target expression (Cantonese))",
-            "我睇唔到 (Target expression (Cantonese))"
+            "我睇唔清楚) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )",
+            "我睇得晒) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )",
+            "我睇唔到) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )"
           ],
           "answerIndex": 0,
           "explanation": "肯定可能式使用中綴「得」，「睇得清楚」表示能夠看清。"
@@ -7926,9 +7926,9 @@
           "prompt": "【語法結構】短語「做唔到」（zou6 m4 dou2）之核心語法性質係：",
           "options": [
             "可能補語否定式 (Negative Potential Complement)",
-            "處置式祈使句 (Target expression (Cantonese))",
-            "被動態肯定句 (Target expression (Cantonese))",
-            "形容詞最高級 (Target expression (Cantonese))"
+            "處置式祈使句) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )",
+            "被動態肯定句) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )",
+            "形容詞最高級) (Context: 粵語可能補語基本肯定與否定式：「V + 得 + 補語」與「V + 唔 )"
           ],
           "answerIndex": 0,
           "explanation": "動詞「做」＋否定中綴「唔」＋結果補語「到」構成典型否定可能補語。"
@@ -7977,9 +7977,9 @@
           "prompt": "【空間容量】升降機內已經站滿了人，欲向外面等待的人表示「站不下了」，地道粵語表達係：",
           "options": [
             "企唔落喇！ (kei5 m4 lok6 laa3 / Cannot fit standing!)",
-            "企得落喇！ (Target expression (Cantonese))",
-            "企唔明喇！ (Target expression (Cantonese))",
-            "企唔晒喇！ (Target expression (Cantonese))"
+            "企得落喇！) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)",
+            "企唔明喇！) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)",
+            "企唔晒喇！) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)"
           ],
           "answerIndex": 0,
           "explanation": "「企唔落」（kei5 m4 lok6）表示站立空間已滿，容納不下更多人站立。"
@@ -7992,9 +7992,9 @@
           "prompt": "【食慾表達】已經吃得非常飽足、無法再吃下甜品時，應向朋友表示：",
           "options": [
             "我太飽，真係食唔落喇。 (I'm too full, really can't eat more.)",
-            "我太飽，真係食得落喇。 (Target expression (Cantonese))",
-            "我太飽，真係食得切喇。 (Target expression (Cantonese))",
-            "我太飽，真係食唔切喇。 (Target expression (Cantonese))"
+            "我太飽，真係食得落喇。) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)",
+            "我太飽，真係食得切喇。) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)",
+            "我太飽，真係食唔切喇。) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)"
           ],
           "answerIndex": 0,
           "explanation": "「食唔落」（sik6 m4 lok6）表示胃部容量已滿或無胃口吃下。"
@@ -8008,9 +8008,9 @@
           "prompt": "【容器容量】短語「裝得落」（zong1 dak1 lok6）在粵語中之確切語義為：",
           "options": [
             "容器空間充足，能夠容納裝得下 (Can fit / accommodate inside)",
-            "容器已經破裂漏水 (Target expression (Cantonese))",
-            "容器外觀非常精美 (Target expression (Cantonese))",
-            "容器重量非常沉重 (Target expression (Cantonese))"
+            "容器已經破裂漏水) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)",
+            "容器外觀非常精美) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)",
+            "容器重量非常沉重) (Context: 容量與空間容納可能補語：「V + 得落 / 唔落」與「坐/企/裝/食」)"
           ],
           "answerIndex": 0,
           "explanation": "「裝得落」表示容器具備足夠容量裝入物件。"
@@ -8059,9 +8059,9 @@
           "prompt": "【負擔能力】在香港買房時表達「樓價太高，普通家庭根本負擔不起、買不起」，應講：",
           "options": [
             "普通家庭買唔起 (maai5 m4 hei2 / Cannot afford to buy)",
-            "普通家庭買得起 (Target expression (Cantonese))",
-            "普通家庭買唔落 (Target expression (Cantonese))",
-            "普通家庭買唔明 (Target expression (Cantonese))"
+            "普通家庭買得起) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )",
+            "普通家庭買唔落) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )",
+            "普通家庭買唔明) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )"
           ],
           "answerIndex": 0,
           "explanation": "「買唔起」（maai5 m4 hei2）表示經濟能力上無法負擔購買。"
@@ -8074,9 +8074,9 @@
           "prompt": "【社交評價】形容一個人性格豁達、輸得起且經得起朋友開玩笑，廣東話讚揚為：",
           "options": [
             "玩得起 (waan2 dak1 hei2 / Sporting / Can take a joke)",
-            "玩唔起 (Target expression (Cantonese))",
-            "玩唔落 (Target expression (Cantonese))",
-            "玩唔明 (Target expression (Cantonese))"
+            "玩唔起) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )",
+            "玩唔落) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )",
+            "玩唔明) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )"
           ],
           "answerIndex": 0,
           "explanation": "「玩得起」（waan2 dak1 hei2）表示經得起開玩笑、輸得起。"
@@ -8090,9 +8090,9 @@
           "prompt": "【人際評價】句子「老細好睇得起你」中，「睇得起」之實際含義為：",
           "options": [
             "老闆非常賞識、看重你 (Thinks highly of / Respects you)",
-            "老闆看不起你 (Target expression (Cantonese))",
-            "老闆看不清楚你 (Target expression (Cantonese))",
-            "老闆監視你 (Target expression (Cantonese))"
+            "老闆看不起你) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )",
+            "老闆看不清楚你) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )",
+            "老闆監視你) (Context: 物理承受與力量負載可能補語：「V + 得起 / 唔起」與「經受得住」 )"
           ],
           "answerIndex": 0,
           "explanation": "「睇得起」（tai2 dak1 hei2）表示器重、賞識、看得起。"
@@ -8141,9 +8141,9 @@
           "prompt": "【人際投緣】形容自己與新朋友「非常聊得來、志趣相投」，最地道之粵語短語係：",
           "options": [
             "好傾得嚟 (hou2 king1 dak1 lai4 / Click well in conversation)",
-            "好傾唔嚟 (Target expression (Cantonese))",
-            "好傾得落 (Target expression (Cantonese))",
-            "好傾得起 (Target expression (Cantonese))"
+            "好傾唔嚟) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)",
+            "好傾得落) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)",
+            "好傾得起) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)"
           ],
           "answerIndex": 0,
           "explanation": "「傾得嚟」（king1 dak1 lai4）表示交談投契、聊得來。"
@@ -8156,9 +8156,9 @@
           "prompt": "【工作勝任】面對繁重工作任務，欲向主管表示自己「完全能夠勝任應付」，應講：",
           "options": [
             "我應付得嚟 (ngo5 jing3 fu6 dak1 lai4 / I can manage/cope)",
-            "我應付唔嚟 (Target expression (Cantonese))",
-            "我應付得落 (Target expression (Cantonese))",
-            "我應付唔起 (Target expression (Cantonese))"
+            "我應付唔嚟) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)",
+            "我應付得落) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)",
+            "我應付唔起) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)"
           ],
           "answerIndex": 0,
           "explanation": "「應付得嚟」（jing3 fu6 dak1 lai4）表示能夠勝任處理。"
@@ -8172,9 +8172,9 @@
           "prompt": "【語意理解】餐廳經理講「客人太多，樓面招呼唔嚟」，「招呼唔嚟」之意思是：",
           "options": [
             "人手不足，無法把所有客人接待周全 (Cannot cope with serving all guests)",
-            "客人不願意進來餐廳 (Target expression (Cantonese))",
-            "經理不認識客人 (Target expression (Cantonese))",
-            "餐廳菜式已經售罄 (Target expression (Cantonese))"
+            "客人不願意進來餐廳) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)",
+            "經理不認識客人) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)",
+            "餐廳菜式已經售罄) (Context: 勝任與熟練程度可能補語：「V + 得嚟 / 唔嚟」與「做得嚟、應付得嚟)"
           ],
           "answerIndex": 0,
           "explanation": "「招呼唔嚟」表示接待服務能力超出負荷，無法應付。"
@@ -8223,9 +8223,9 @@
           "prompt": "【正反疑問】欲向對方詢問「你能不能聽得懂我說的粵語」，最標準之正反問句係：",
           "options": [
             "你聽唔聽得明我講嘅廣東話？ (Can you understand my Cantonese?)",
-            "你聽得明聽唔明我廣東話？ (Target expression (Cantonese))",
-            "你廣東話聽唔聽？ (Target expression (Cantonese))",
-            "你明唔明聽廣東話？ (Target expression (Cantonese))"
+            "你聽得明聽唔明我廣東話？) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)",
+            "你廣東話聽唔聽？) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)",
+            "你明唔明聽廣東話？) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)"
           ],
           "answerIndex": 0,
           "explanation": "「聽唔聽得明」（動＋唔＋動＋得＋補）為標準正反疑問句式。"
@@ -8238,9 +8238,9 @@
           "prompt": "【情態對比】詢問對方是否具備「開車、駕駛這項技術本領」，應選用之情態動詞係：",
           "options": [
             "你識唔識揸車？ (Do you know how to drive? / Learned skill)",
-            "你揸得落車嗎？ (Target expression (Cantonese))",
-            "你揸得起車嗎？ (Target expression (Cantonese))",
-            "你揸唔揸得明？ (Target expression (Cantonese))"
+            "你揸得落車嗎？) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)",
+            "你揸得起車嗎？) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)",
+            "你揸唔揸得明？) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)"
           ],
           "answerIndex": 0,
           "explanation": "表示後天習得之技能本領，專用能願動詞「識」（識唔識）。"
@@ -8254,9 +8254,9 @@
           "prompt": "【綜合辨析】下列三句話中，分別強調「許可准許」、「習得技能」與「客觀完成可能」之排列順序係：",
           "options": [
             "可唔可以入去（許可） / 識唔識游水（技能） / 睇唔睇得見（可能） (「可以」表許可准許，「識」表習得技能，「睇得見」表客觀結果達成之可能性。) (可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potential Questions & Modals))",
-            "睇唔睇得見（許可） / 可唔可以入去（技能） / 識唔識游水（可能） (Target expression (Cantonese))",
-            "識唔識游水（許可） / 睇唔睇得見（技能） / 可唔可以入去（可能） (Target expression (Cantonese))",
-            "可唔可以入去（技能） / 識唔識游水（許可） / 睇唔睇得見（可能） (Target expression (Cantonese))"
+            "睇唔睇得見（許可） / 可唔可以入去（技能） / 識唔識游水（可能）) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)",
+            "識唔識游水（許可） / 睇唔睇得見（技能） / 可唔可以入去（可能）) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)",
+            "可唔可以入去（技能） / 識唔識游水（許可） / 睇唔睇得見（可能）) (Context: 可能態之情態助詞問答與「得唔得 / 能唔能夠」對比實戰 (Potent)"
           ],
           "answerIndex": 0,
           "explanation": "「可以」表許可准許，「識」表習得技能，「睇得見」表客觀結果達成之可能性。"
@@ -8305,9 +8305,9 @@
           "prompt": "【存在句構造】欲向客人介紹「會議室裡面有十張旋轉椅」，標準粵語存在句句式係：",
           "options": [
             "會議室入面有十張旋轉椅。 (There are 10 swivel chairs in the meeting room.)",
-            "十張旋轉椅喺會議室入面有。 (Target expression (Cantonese))",
-            "有十張旋轉椅喺會議室入面度。 (Target expression (Cantonese))",
-            "會議室入面喺十張旋轉椅。 (Target expression (Cantonese))"
+            "十張旋轉椅喺會議室入面有。) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )",
+            "有十張旋轉椅喺會議室入面度。) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )",
+            "會議室入面喺十張旋轉椅。) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )"
           ],
           "answerIndex": 0,
           "explanation": "存在句標準句序為【處所 ＋ 有 ＋ 數量名詞】（會議室入面有……）。"
@@ -8320,9 +8320,9 @@
           "prompt": "【處所定位】回答「我部手機去咗邊？」，指出「你的手機在沙發上面」，應講：",
           "options": [
             "你部手機喺梳化上面。 (Your mobile is on the sofa.)",
-            "梳化上面有你部手機。 (Target expression (Cantonese))",
-            "你部手機有梳化上面。 (Target expression (Cantonese))",
-            "梳化上面喺你部手機。 (Target expression (Cantonese))"
+            "梳化上面有你部手機。) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )",
+            "你部手機有梳化上面。) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )",
+            "梳化上面喺你部手機。) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )"
           ],
           "answerIndex": 0,
           "explanation": "交代已知特定物品之具體坐標，使用處所定位句【名詞 ＋ 喺 ＋ 處所】。"
@@ -8336,9 +8336,9 @@
           "prompt": "【語法辨析】句子「雪櫃入面冇晒雞蛋」中，「冇」之主要語法功能係：",
           "options": [
             "存在句否定標記，表示某空間內不存在某實體 (Negative Existential Marker)",
-            "動態進行體標記 (Target expression (Cantonese))",
-            "被動態引介詞 (Target expression (Cantonese))",
-            "比較級介詞 (Target expression (Cantonese))"
+            "動態進行體標記) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )",
+            "被動態引介詞) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )",
+            "比較級介詞) (Context: 粵語存在句核心結構：「處所 + 有 / 冇 + 實體」對比「實體 + )"
           ],
           "answerIndex": 0,
           "explanation": "「冇」在存在句中作為否定核心謂語，表示處所內目標物之缺失。"
@@ -8387,9 +8387,9 @@
           "prompt": "【空間存現句】欲描寫「會議室牆上掛著一張世界地圖」，最地道之粵語存現句係：",
           "options": [
             "會議室牆上面掛住一張世界地圖。 (On the wall hangs a world map.)",
-            "會議室牆上面掛緊一張世界地圖。 (Target expression (Cantonese))",
-            "會議室牆上面掛咗一張世界地圖晒。 (Target expression (Cantonese))",
-            "一張世界地圖掛住會議室牆上面。 (Target expression (Cantonese))"
+            "會議室牆上面掛緊一張世界地圖。) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()",
+            "會議室牆上面掛咗一張世界地圖晒。) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()",
+            "一張世界地圖掛住會議室牆上面。) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()"
           ],
           "answerIndex": 0,
           "explanation": "靜態存現持續句公式為【處所 ＋ 動詞 ＋ 住 ＋ 實體】（牆上面掛住……）。"
@@ -8402,9 +8402,9 @@
           "prompt": "【姿態存現】描寫「大門兩旁站著兩位接待員」，應選用之姿態動詞短語係：",
           "options": [
             "企住兩位接待員 (kei5 zyu6 loeng5 wai62 / Two receptionists standing)",
-            "坐住兩位接待員 (Target expression (Cantonese))",
-            "擺住兩位接待員 (Target expression (Cantonese))",
-            "掛住兩位接待員 (Target expression (Cantonese))"
+            "坐住兩位接待員) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()",
+            "擺住兩位接待員) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()",
+            "掛住兩位接待員) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()"
           ],
           "answerIndex": 0,
           "explanation": "人物站立姿態在粵語中專用動詞「企」（企住）。"
@@ -8418,9 +8418,9 @@
           "prompt": "【語態對比】「掛住」（kwaa3 zyu6）與「掛緊」（kwaa3 gan2）在空間描寫中之核心語法差別係：",
           "options": [
             "「掛住」表示物體靜態懸掛之持續狀態，「掛緊」表示正在進行懸掛之動態過程 (「住」標註狀態之靜態延續（存現態），「緊」標註動作正處於進行過程中（進行態）。) (動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 (Durative Existential Complements))",
-            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成 (Target expression (Cantonese))",
-            "「掛住」只能用於人體，「掛緊」只能用於建築物 (Target expression (Cantonese))",
-            "兩者在語法與語義上完全等同無差別 (Target expression (Cantonese))"
+            "「掛住」表示動作已經失敗，「掛緊」表示動作順利完成) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()",
+            "「掛住」只能用於人體，「掛緊」只能用於建築物) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()",
+            "兩者在語法與語義上完全等同無差別) (Context: 動詞持續態存在句：「處所 + 擺住 / 掛住 / 坐住 / 企住」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「住」標註狀態之靜態延續（存現態），「緊」標註動作正處於進行過程中（進行態）。"
@@ -8469,9 +8469,9 @@
           "prompt": "【人稱處所化】欲向同事表示「那份重要文件由我保管、在我這裡」，最地道粵語表達係：",
           "options": [
             "份文件喺我度。 (fan6 man4 gin62 hai2 ngo5 dou6 / The document is with me.)",
-            "份文件喺我邊。 (Target expression (Cantonese))",
-            "份文件喺我面。 (Target expression (Cantonese))",
-            "份文件喺我處。 (Target expression (Cantonese))"
+            "份文件喺我邊。) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)",
+            "份文件喺我面。) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)",
+            "份文件喺我處。) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)"
           ],
           "answerIndex": 0,
           "explanation": "人稱代詞後加「度」（喺我度）表示在某人處/由某人保管。"
@@ -8484,9 +8484,9 @@
           "prompt": "【方位指向】指示方向「向右側看、在右手側」，應選用之方位短語係：",
           "options": [
             "右手邊 (jau6 sau2 bin1 / Right-hand side)",
-            "右手度 (Target expression (Cantonese))",
-            "右手面 (Target expression (Cantonese))",
-            "右手處 (Target expression (Cantonese))"
+            "右手度) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)",
+            "右手面) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)",
+            "右手處) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)"
           ],
           "answerIndex": 0,
           "explanation": "左右側向維度專用標記「邊」（右手邊、左手邊）。"
@@ -8500,9 +8500,9 @@
           "prompt": "【拓撲辨析】指示代詞「邊度」（bin1 dou6）在粵語中之標準語法语義為：",
           "options": [
             "何處、哪裡（處所疑問代詞） (Where / What place)",
-            "什麼時候（時間疑問代詞） (Target expression (Cantonese))",
-            "為什麼（原因疑問代詞） (Target expression (Cantonese))",
-            "多少錢（價格疑問代詞） (Target expression (Cantonese))"
+            "什麼時候（時間疑問代詞）) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)",
+            "為什麼（原因疑問代詞）) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)",
+            "多少錢（價格疑問代詞）) (Context: 嶺南特色空間方位詞與指代標記：「……度」、「……邊」、「……面」 (S)"
           ],
           "answerIndex": 0,
           "explanation": "「邊度」為粵語標準處所疑問詞，相當於「哪裡/何處」。"
@@ -8551,9 +8551,9 @@
           "prompt": "【相鄰關係】在香港街頭指引「隔壁那家店舖」，最地道之拓撲方位詞係：",
           "options": [
             "隔離舖頭 (gaak3 lei4 pou3 tau4*2 / Next-door shop)",
-            "對面舖頭 (Target expression (Cantonese))",
-            "斜對面舖頭 (Target expression (Cantonese))",
-            "天橋底舖頭 (Target expression (Cantonese))"
+            "對面舖頭) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)",
+            "斜對面舖頭) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)",
+            "天橋底舖頭) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)"
           ],
           "answerIndex": 0,
           "explanation": "「隔離」（gaak3 lei4）專門表示相鄰、隔壁。"
@@ -8566,9 +8566,9 @@
           "prompt": "【拐角拓撲】形容商店坐落於「街道轉角拐彎處」，標準名詞短語係：",
           "options": [
             "轉角位 (zyun3 gok3 wai6*2 / Street corner / Turning corner)",
-            "天橋底 (Target expression (Cantonese))",
-            "後巷位 (Target expression (Cantonese))",
-            "對面海 (Target expression (Cantonese))"
+            "天橋底) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)",
+            "後巷位) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)",
+            "對面海) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)"
           ],
           "answerIndex": 0,
           "explanation": "「轉角位」表示道路轉折拐角處之位置。"
@@ -8582,9 +8582,9 @@
           "prompt": "【空間幾何】建築物Ａ與建築物Ｂ位於十字路口之對角線兩側，彼此之空間拓撲關係係：",
           "options": [
             "斜對面 (ce4 deoi3 min6 / Diagonally opposite)",
-            "隔離 (Target expression (Cantonese))",
-            "正對面 (Target expression (Cantonese))",
-            "天橋底 (Target expression (Cantonese))"
+            "隔離) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)",
+            "正對面) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)",
+            "天橋底) (Context: 微觀與宏觀城市空間拓撲描寫：「隔離」、「對面」、「轉角位」、「斜對面」)"
           ],
           "answerIndex": 0,
           "explanation": "十字路口斜對角位置在粵語中嚴格稱為「斜對面」（ce4 deoi3 min6）。"
@@ -8633,9 +8633,9 @@
           "prompt": "【路線指引】指引「走出手鐵站出口後一直往前走」，地道粵語語句係：",
           "options": [
             "行出地鐵站出口之後一路直行。 (haang4 ceot1 ... jat1 lou6 zik6 haang4)",
-            "行入地鐵站出口之後一路轉左。 (Target expression (Cantonese))",
-            "行過地鐵站出口之後一路坐低。 (Target expression (Cantonese))",
-            "行落地鐵站出口之後一路停低。 (Target expression (Cantonese))"
+            "行入地鐵站出口之後一路轉左。) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)",
+            "行過地鐵站出口之後一路坐低。) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)",
+            "行落地鐵站出口之後一路停低。) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)"
           ],
           "answerIndex": 0,
           "explanation": "「行出……之後一路直行」為標準出發直線位移引導句式。"
@@ -8648,9 +8648,9 @@
           "prompt": "【室內樓層轉換】在大型商場引導顧客「乘搭手扶電梯上二樓」，應講：",
           "options": [
             "搭扶手電梯上二樓 (daap3 fu4 sau2 din6 tai1 soeng5 ji6 lau4)",
-            "搭扶手電梯落二樓 (Target expression (Cantonese))",
-            "搭扶手電梯出二樓 (Target expression (Cantonese))",
-            "搭扶手電梯入二樓 (Target expression (Cantonese))"
+            "搭扶手電梯落二樓) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)",
+            "搭扶手電梯出二樓) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)",
+            "搭扶手電梯入二樓) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)"
           ],
           "answerIndex": 0,
           "explanation": "由低層前往高層，使用趨向動詞「上」（上一樓、上二樓）。"
@@ -8664,9 +8664,9 @@
           "prompt": "【綜合指引】句子「過咗交通燈位轉右，診所就喺你右手邊」，其中各成分之指引邏輯為：",
           "options": [
             "地標參照（交通燈位）＋ 動作轉向（轉右）＋ 終點方位定位（右手邊） (該句完整展示了路標參照、方向轉折與目標終點坐標之完整導覽結構。) (複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route Navigation Mastery))",
-            "時間判斷 ＋ 速度限制 ＋ 費用計算 (Target expression (Cantonese))",
-            "人物介紹 ＋ 年齡說明 ＋ 職業交代 (Target expression (Cantonese))",
-            "菜單推薦 ＋ 價格說明 ＋ 口味評估 (Target expression (Cantonese))"
+            "時間判斷 ＋ 速度限制 ＋ 費用計算) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)",
+            "人物介紹 ＋ 年齡說明 ＋ 職業交代) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)",
+            "菜單推薦 ＋ 價格說明 ＋ 口味評估) (Context: 複雜空間指引與路線拓撲綜合實戰：從室內導覽到街區尋路 (Route N)"
           ],
           "answerIndex": 0,
           "explanation": "該句完整展示了路標參照、方向轉折與目標終點坐標之完整導覽結構。"
@@ -8715,9 +8715,9 @@
           "prompt": "【理所當然】欲表達「如果你努力工作，自然就能賺到錢，這是理所當然的」，結尾語氣詞應為：",
           "options": [
             "自然就賺到錢囉！ (lo1 / Naturally / Obviously)",
-            "自然就賺到錢咩？ (Target expression (Cantonese))",
-            "自然就賺到錢啫？ (Target expression (Cantonese))",
-            "自然就賺到錢喎？ (Target expression (Cantonese))"
+            "自然就賺到錢咩？) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)",
+            "自然就賺到錢啫？) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)",
+            "自然就賺到錢喎？) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)"
           ],
           "answerIndex": 0,
           "explanation": "「囉」（lo1）表示理所當然、顯而易見之因果必然性。"
@@ -8730,9 +8730,9 @@
           "prompt": "【常識提醒】提醒朋友「今天是公眾假期，銀行不開門是大家都知道的事實」，應講：",
           "options": [
             "今日係假期，銀行唔開門㗎嘛。 (aa3 maa3 / As you well know)",
-            "今日係假期，銀行唔開門囉。 (Target expression (Cantonese))",
-            "今日係假期，銀行唔開門咩。 (Target expression (Cantonese))",
-            "今日係假期，銀行唔開門喎。 (Target expression (Cantonese))"
+            "今日係假期，銀行唔開門囉。) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)",
+            "今日係假期，銀行唔開門咩。) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)",
+            "今日係假期，銀行唔開門喎。) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎嘛 / 呀嘛」用以提醒對方共有之常識或背景信息。"
@@ -8746,9 +8746,9 @@
           "prompt": "【語氣功能】短語「時間到喇」（si4 gaan3 dou3 laa3）中，「喇」之核心語法功能係：",
           "options": [
             "標註新事態之成立與實現 (Realization of New State)",
-            "表示強烈質疑反問 (Target expression (Cantonese))",
-            "表示主觀輕視與忽略 (Target expression (Cantonese))",
-            "表示引用他人傳聞 (Target expression (Cantonese))"
+            "表示強烈質疑反問) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)",
+            "表示主觀輕視與忽略) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)",
+            "表示引用他人傳聞) (Context: 申明、提醒與既成事態助詞：「喇 / 啦」、「囉」、「呀嘛」 (Evid)"
           ],
           "answerIndex": 0,
           "explanation": "「喇」（laa3）作為句尾助詞，核心功能為標註事態轉變或階段性完成。"
@@ -8797,9 +8797,9 @@
           "prompt": "【驚訝反問】聽到令人難以置信的消息時，反問「真的是這樣嗎？！難道真的會這樣？」，應講：",
           "options": [
             "真係噉咩？！ (me1 / Rhetorical surprise)",
-            "真係噉囉？！ (Target expression (Cantonese))",
-            "真係噉啫？！ (Target expression (Cantonese))",
-            "真係噉可？！ (Target expression (Cantonese))"
+            "真係噉囉？！) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)",
+            "真係噉啫？！) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)",
+            "真係噉可？！) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)"
           ],
           "answerIndex": 0,
           "explanation": "「咩」（me1）表示出乎意料之強烈反問與懷疑。"
@@ -8812,9 +8812,9 @@
           "prompt": "【轉述傳聞】向朋友轉達「我聽經理說下星期要全體加班」，客觀轉述助詞應為：",
           "options": [
             "經理話下個禮拜要加班喎。 (wo3 / Hearsay reporting)",
-            "經理話下個禮拜要加班咩。 (Target expression (Cantonese))",
-            "經理話下個禮拜要加班啫。 (Target expression (Cantonese))",
-            "經理話下個禮拜要加班可。 (Target expression (Cantonese))"
+            "經理話下個禮拜要加班咩。) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)",
+            "經理話下個禮拜要加班啫。) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)",
+            "經理話下個禮拜要加班可。) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)"
           ],
           "answerIndex": 0,
           "explanation": "「喎」（wo3）用於轉述第三方言論或傳聞消息。"
@@ -8828,9 +8828,9 @@
           "prompt": "【求證附加問】句子「份報告聽日交嘅，可？」（ho2）中，「可」之功能相當於英語中之：",
           "options": [
             "附加疑問句標記（Tag Question，如 '..., right?'） (Seeking confirmation)",
-            "動態完成標記（如 'already'） (Target expression (Cantonese))",
-            "條件連詞（如 'if'） (Target expression (Cantonese))",
-            "否定副詞（如 'never'） (Target expression (Cantonese))"
+            "動態完成標記（如 'already'）) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)",
+            "條件連詞（如 'if'）) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)",
+            "否定副詞（如 'never'）) (Context: 疑問、確證與探詢反問助詞：「咩」、「喎」、「可」 (Inquisiti)"
           ],
           "answerIndex": 0,
           "explanation": "「可」（ho2）置於句尾，功能為向對方尋求肯定與確認（..., right?）。"
@@ -8879,9 +8879,9 @@
           "prompt": "【輕描淡寫】安慰朋友「這只是一件微不足道的小事，別放在心上」，地道結尾語氣詞係：",
           "options": [
             "小事嚟啫。 (ze1 / Merely / Just a small matter)",
-            "小事嚟㗎。 (Target expression (Cantonese))",
-            "小事嚟咩。 (Target expression (Cantonese))",
-            "小事嚟囉。 (Target expression (Cantonese))"
+            "小事嚟㗎。) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)",
+            "小事嚟咩。) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)",
+            "小事嚟囉。) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)"
           ],
           "answerIndex": 0,
           "explanation": "「啫」（ze1）用於輕描淡寫、主觀縮小嚴重性。"
@@ -8894,9 +8894,9 @@
           "prompt": "【本質特徵】向外地朋友解釋「香港夏天向來都非常炎熱多雨（固有規律）」，應講：",
           "options": [
             "香港夏天好熱㗎。 (gaa3 / Inherent permanent fact)",
-            "香港夏天好熱啫。 (Target expression (Cantonese))",
-            "香港夏天好熱咩。 (Target expression (Cantonese))",
-            "香港夏天好熱可。 (Target expression (Cantonese))"
+            "香港夏天好熱啫。) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)",
+            "香港夏天好熱咩。) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)",
+            "香港夏天好熱可。) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)"
           ],
           "answerIndex": 0,
           "explanation": "「㗎」（gaa3）表示本質固有事實與規律。"
@@ -8910,9 +8910,9 @@
           "prompt": "【對比辨析】句子Ａ「我問下啫」與句子Ｂ「我問下㗎」之語法語氣核心差別係：",
           "options": [
             "句子Ａ強調『只是隨口問問、別介意』，句子Ｂ強調『問問題是我的固有習慣或職責』 (「啫」表縮小輕描淡寫，「㗎」表固有特徵或慣常做法。) (主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitative & Inherent Particles))",
-            "句子Ａ表示憤怒，句子Ｂ表示高興 (Target expression (Cantonese))",
-            "句子Ａ是疑問句，句子Ｂ是祈使句 (Target expression (Cantonese))",
-            "兩者毫無語義差別 (Target expression (Cantonese))"
+            "句子Ａ表示憤怒，句子Ｂ表示高興) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)",
+            "句子Ａ是疑問句，句子Ｂ是祈使句) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)",
+            "兩者毫無語義差別) (Context: 主觀限止、輕描淡寫與強調本質助詞：「啫」、「㗎」 (Limitativ)"
           ],
           "answerIndex": 0,
           "explanation": "「啫」表縮小輕描淡寫，「㗎」表固有特徵或慣常做法。"
@@ -8961,9 +8961,9 @@
           "prompt": "【緊迫警示】提醒朋友「末班地鐵快要開走了，再不跑就趕不上了」，應講：",
           "options": [
             "尾班車就嚟開走喇喎！ (laa3 wo3 / Imminent warning)",
-            "尾班車就嚟開走罷啦！ (Target expression (Cantonese))",
-            "尾班車就嚟開走啫！ (Target expression (Cantonese))",
-            "尾班車就嚟開走可！ (Target expression (Cantonese))"
+            "尾班車就嚟開走罷啦！) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)",
+            "尾班車就嚟開走啫！) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)",
+            "尾班車就嚟開走可！) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)"
           ],
           "answerIndex": 0,
           "explanation": "「喇喎」（laa3 wo3）用於發出事態迫近之警告。"
@@ -8976,9 +8976,9 @@
           "prompt": "【放棄妥協】面對無法挽回之失敗局面，表達「算了，別再糾結了」，最地道粵語表達係：",
           "options": [
             "算罷啦。 (syun3 baa6 laa1 / Forget it / Let it be)",
-            "算喇喎。 (Target expression (Cantonese))",
-            "算咩啦。 (Target expression (Cantonese))",
-            "算㗎喎。 (Target expression (Cantonese))"
+            "算喇喎。) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)",
+            "算咩啦。) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)",
+            "算㗎喎。) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)"
           ],
           "answerIndex": 0,
           "explanation": "「算罷啦」（syun3 baa6 laa1）表示無奈放棄、不再計較。"
@@ -8992,9 +8992,9 @@
           "prompt": "【語氣對比】祈請助詞「啦」（laa1）與事態助詞「喇」（laa3）之核心語音與語義差異係：",
           "options": [
             "「啦」（laa1，高平調）表請求建議，「喇」（laa3，中平調）表事態完成轉變 (第一聲「啦」（laa1）為祈使祈請助詞，第三聲「喇」（laa3）為既成事態助詞。)",
-            "「啦」表否定，「喇」表肯定 (Target expression (Cantonese))",
-            "「啦」只能用於書面語，「喇」只能用於口語 (Target expression (Cantonese))",
-            "兩者聲調與用法完全相同 (Target expression (Cantonese))"
+            "「啦」表否定，「喇」表肯定) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)",
+            "「啦」只能用於書面語，「喇」只能用於口語) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)",
+            "兩者聲調與用法完全相同) (Context: 規勸、催促與商榷請求助詞：「啦」、「喇喎」、「罷啦」 (Directi)"
           ],
           "answerIndex": 0,
           "explanation": "第一聲「啦」（laa1）為祈使祈請助詞，第三聲「喇」（laa3）為既成事態助詞。"
@@ -9125,9 +9125,9 @@
           "prompt": "【防騙俗語】面對聲稱「零風險、高回報」之可疑投資宣傳，廣東人最常用之警惕俗語係：",
           "options": [
             "邊有咁大隻蛤乸隨街跳 (No such thing as a free lunch)",
-            "食得鹹魚抵得渴 (Target expression (Cantonese))",
-            "執輸行頭慘過敗家 (Target expression (Cantonese))",
-            "扮豬食老虎 (Target expression (Cantonese))"
+            "食得鹹魚抵得渴) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()",
+            "執輸行頭慘過敗家) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()",
+            "扮豬食老虎) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「邊有咁大隻蛤乸隨街跳」比喻天下沒有免費午餐，警惕提防被騙。"
@@ -9140,9 +9140,9 @@
           "prompt": "【承擔後果】告誡他人「既然選擇了高風險高回報之路，就要勇於承受隨之而來的壓力」，應引用：",
           "options": [
             "食得鹹魚抵得渴 (If you eat salted fish, endure the thirst)",
-            "邊有咁大隻蛤乸隨街跳 (Target expression (Cantonese))",
-            "水過鴨背 (Target expression (Cantonese))",
-            "阿茂整餅 (Target expression (Cantonese))"
+            "邊有咁大隻蛤乸隨街跳) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()",
+            "水過鴨背) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()",
+            "阿茂整餅) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「食得鹹魚抵得渴」比喻敢作敢當、承擔自己選擇所帶來的必然代價。"
@@ -9156,9 +9156,9 @@
           "prompt": "【商戰心態】俗語「執輸行頭慘過敗家」（zap1 syu1 haang4 tau4 caam2 gwo3 baai6 gaa1）所體現之核心精神係：",
           "options": [
             "強烈之搶佔商機與爭先恐後競爭意識 (Urgent competitiveness to seize first-mover advantage)",
-            "安貧樂道、與世無爭 (Target expression (Cantonese))",
-            "崇尚奢侈浪費之敗家行為 (Target expression (Cantonese))",
-            "消極放棄所有投資機會 (Target expression (Cantonese))"
+            "安貧樂道、與世無爭) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()",
+            "崇尚奢侈浪費之敗家行為) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()",
+            "消極放棄所有投資機會) (Context: 四大嶺南市井哲學俗語：「食得鹹魚抵得渴」、「邊有咁大隻蛤乸隨街跳」 ()"
           ],
           "answerIndex": 0,
           "explanation": "該俗語強調商場競爭中錯失先機之痛心，體現出積極進取、爭分奪秒之搶佔商機意識。"
@@ -9207,9 +9207,9 @@
           "prompt": "【職場隱喻】在公司中被無辜栽贓、替他人頂罪受過，地道飲食成語係：",
           "options": [
             "食死貓 (sik6 sei2 maau1 / Take the blame / Scapegoated)",
-            "炒魷魚 (Target expression (Cantonese))",
-            "食檸檬 (Target expression (Cantonese))",
-            "飲頭啖湯 (Target expression (Cantonese))"
+            "炒魷魚) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )",
+            "食檸檬) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )",
+            "飲頭啖湯) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )"
           ],
           "answerIndex": 0,
           "explanation": "「食死貓」比喻背黑鍋、含冤受屈。"
@@ -9222,9 +9222,9 @@
           "prompt": "【商業先機】形容企業搶先進入新市場、最先享受豐厚紅利，應選用之成語係：",
           "options": [
             "飲頭啖湯 (jam2 tau4 daam6 tong1 / First-mover advantage)",
-            "食死貓 (Target expression (Cantonese))",
-            "炒魷魚 (Target expression (Cantonese))",
-            "食軟飯 (Target expression (Cantonese))"
+            "食死貓) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )",
+            "炒魷魚) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )",
+            "食軟飯) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )"
           ],
           "answerIndex": 0,
           "explanation": "「飲頭啖湯」比喻第一批搶先獲取最大利益者。"
@@ -9238,9 +9238,9 @@
           "prompt": "【社交隱喻】短語「畀人請食檸檬」在廣東話中之真正含義為：",
           "options": [
             "遭到對方的拒絕或冷落回絕 (Rejected / Turned down)",
-            "獲贈新鮮美味的水果禮品 (Target expression (Cantonese))",
-            "被邀請參加豪華宴會 (Target expression (Cantonese))",
-            "在餐廳免費獲得檸檬茶飲品 (Target expression (Cantonese))"
+            "獲贈新鮮美味的水果禮品) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )",
+            "被邀請參加豪華宴會) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )",
+            "在餐廳免費獲得檸檬茶飲品) (Context: 經典嶺南飲食文化成語：「炒魷魚」、「食死貓」、「食檸檬」、「食軟飯」 )"
           ],
           "answerIndex": 0,
           "explanation": "「食檸檬」為遭到求愛拒絕或請求碰釘子之經典隱喻。"
@@ -9289,9 +9289,9 @@
           "prompt": "【歇後匹配】歇後語「水過鴨背」之後半段對應謎底係：",
           "options": [
             "唔入心 / 冇痕跡 (In one ear and out the other / No trace)",
-            "心中有數 (Target expression (Cantonese))",
-            "冇嗰樣整嗰樣 (Target expression (Cantonese))",
-            "冇安好心 (Target expression (Cantonese))"
+            "心中有數) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)",
+            "冇嗰樣整嗰樣) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)",
+            "冇安好心) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)"
           ],
           "answerIndex": 0,
           "explanation": "「水過鴨背」比喻說話如過眼雲煙、聽不進去（唔入心）。"
@@ -9304,9 +9304,9 @@
           "prompt": "【多此一舉】形容人無事生非、多此一舉做無用功，對應之歇後語前半句係：",
           "options": [
             "阿茂整餅 (aa3 mau6 zing2 beng2 / Making unnecessary trouble)",
-            "盲人食湯圓 (Target expression (Cantonese))",
-            "黃鼠狼畀雞拜年 (Target expression (Cantonese))",
-            "泥菩薩過江 (Target expression (Cantonese))"
+            "盲人食湯圓) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)",
+            "黃鼠狼畀雞拜年) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)",
+            "泥菩薩過江) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)"
           ],
           "answerIndex": 0,
           "explanation": "「阿茂整餅 —— 冇嗰樣整嗰樣」比喻多此一舉、自找麻煩。"
@@ -9320,9 +9320,9 @@
           "prompt": "【心知肚明】歇後語「盲人食湯圓」（maang4 jan4 sik6 tong1 jyun4*2）所表達之真實寓意係：",
           "options": [
             "心中有數、內心對底細清清楚楚 (Knowing clearly in one's heart)",
-            "完全不知道吃了多少 (Target expression (Cantonese))",
-            "湯圓味道非常甜美 (Target expression (Cantonese))",
-            "雙眼視力突然恢復 (Target expression (Cantonese))"
+            "完全不知道吃了多少) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)",
+            "湯圓味道非常甜美) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)",
+            "雙眼視力突然恢復) (Context: 經典粵語俏皮歇後語（一）：日常生活與市井幽默 (Everyday Xi)"
           ],
           "answerIndex": 0,
           "explanation": "「盲人食湯圓 —— 心中有數」比喻內心對事情來龍去脈與數字底細極為清楚。"
@@ -9371,9 +9371,9 @@
           "prompt": "【萬無一失】形容事情有十足把握、絕對安全穩妥，對應之歇後語前半句係：",
           "options": [
             "神仙過鐵橋 (san4 sin1 gwo3 tit3 kiu4 / Absolutely guaranteed)",
-            "泥菩薩過江 (Target expression (Cantonese))",
-            "風吹雞蛋殼 (Target expression (Cantonese))",
-            "單眼佬睇榜 (Target expression (Cantonese))"
+            "泥菩薩過江) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )",
+            "風吹雞蛋殼) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )",
+            "單眼佬睇榜) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )"
           ],
           "answerIndex": 0,
           "explanation": "「神仙過鐵橋 —— 包穩陣」比喻萬無一失、極其穩妥。"
@@ -9386,9 +9386,9 @@
           "prompt": "【自身難保】比喻連自己都難以自保、無力顧及他人，歇後語前半句係：",
           "options": [
             "泥菩薩過江 (nai4 pou4 saat3 gwo3 gong1 / Cannot even save oneself)",
-            "神仙過鐵橋 (Target expression (Cantonese))",
-            "風吹雞蛋殼 (Target expression (Cantonese))",
-            "阿茂整餅 (Target expression (Cantonese))"
+            "神仙過鐵橋) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )",
+            "風吹雞蛋殼) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )",
+            "阿茂整餅) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )"
           ],
           "answerIndex": 0,
           "explanation": "「泥菩薩過江 —— 自身難保」形容自身處境危殆、無力助人。"
@@ -9402,9 +9402,9 @@
           "prompt": "【雙關諧音】歇後語「單眼佬睇榜 —— 一目了然」中，「一目」所運用的修辭手法係：",
           "options": [
             "雙關諧音（一隻眼睛 vs 一目了然） (Punning / Double Entendre)",
-            "誇張修辭 (Target expression (Cantonese))",
-            "借代修辭 (Target expression (Cantonese))",
-            "擬人修辭 (Target expression (Cantonese))"
+            "誇張修辭) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )",
+            "借代修辭) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )",
+            "擬人修辭) (Context: 經典粵語俏皮歇後語（二）：人物傳奇與歷史諧音 (Historical )"
           ],
           "answerIndex": 0,
           "explanation": "單眼人只有一隻眼（一目），與成語「一目了然」形成絕妙雙關諧音。"
@@ -9535,9 +9535,9 @@
           "prompt": "【新聞引述】新聞主播引述可靠內部情報時，最權威客觀之開篇信源詞係：",
           "options": [
             "消息指 (Sources indicate)",
-            "有人講 (Target expression (Cantonese))",
-            "聽講話 (Target expression (Cantonese))",
-            "街坊話 (Target expression (Cantonese))"
+            "有人講) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)",
+            "聽講話) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)",
+            "街坊話) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)"
           ],
           "answerIndex": 0,
           "explanation": "「消息指 / 據悉」為新聞傳媒最權威標準之客觀信源引述詞。"
@@ -9550,9 +9550,9 @@
           "prompt": "【官方表態】在正式新聞稿中表述主管部門對某項政策的鄭重說明，地道表達係：",
           "options": [
             "當局發言人指出並重申方針 (Spokesperson pointed out & reaffirmed)",
-            "老細隨便講兩句 (Target expression (Cantonese))",
-            "阿茂整餅式通知 (Target expression (Cantonese))",
-            "街坊私下傾計 (Target expression (Cantonese))"
+            "老細隨便講兩句) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)",
+            "阿茂整餅式通知) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)",
+            "街坊私下傾計) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)"
           ],
           "answerIndex": 0,
           "explanation": "「發言人指出 / 重申」為官方新聞語體之標準莊重表達。"
@@ -9566,9 +9566,9 @@
           "prompt": "【語體轉換】日常口語「警察叫大家千祈唔好犯法」轉換為莊重新聞語體應為：",
           "options": [
             "警方呼籲市民切勿以身試法 (Police appeal to citizens not to defy law)",
-            "差人叫大家唔好做壞事 (Target expression (Cantonese))",
-            "警察話大家小心啲啦 (Target expression (Cantonese))",
-            "警署發明咗新規矩 (Target expression (Cantonese))"
+            "差人叫大家唔好做壞事) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)",
+            "警察話大家小心啲啦) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)",
+            "警署發明咗新規矩) (Context: 新聞傳媒與香港社會論題：新聞播報語體與信源引述 (Formal Bro)"
           ],
           "answerIndex": 0,
           "explanation": "「警方呼籲市民切勿以身試法」體現了新聞語體之規範性、典雅性與客觀性。"
@@ -9617,9 +9617,9 @@
           "prompt": "【房屋類型】指稱將住宅單位分間為多個極微小空間獨立出租之住房形態，專用術語係：",
           "options": [
             "劏房 (tong1 fong4*2 / Subdivided flats)",
-            "居屋 (Target expression (Cantonese))",
-            "村屋 (Target expression (Cantonese))",
-            "豪宅 (Target expression (Cantonese))"
+            "居屋) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)",
+            "村屋) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)",
+            "豪宅) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)"
           ],
           "answerIndex": 0,
           "explanation": "「劏房」指將單位分間出租之極端微型居住形態。"
@@ -9632,9 +9632,9 @@
           "prompt": "【置業術語】廣東話中指稱「按月償還房屋貸款本金與利息」，地道動詞短語係：",
           "options": [
             "供樓 (gung1 lau4*2 / Paying mortgage)",
-            "炒樓 (Target expression (Cantonese))",
-            "租樓 (Target expression (Cantonese))",
-            "睇樓 (Target expression (Cantonese))"
+            "炒樓) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)",
+            "租樓) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)",
+            "睇樓) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)"
           ],
           "answerIndex": 0,
           "explanation": "「供樓」指每月按期向銀行繳付按揭貸款。"
@@ -9648,9 +9648,9 @@
           "prompt": "【金融術語】在香港購買私人物業時，買家首先必須自行支付之初始訂金額度稱為：",
           "options": [
             "首期 (sau2 kei4 / Down payment)",
-            "利息 (Target expression (Cantonese))",
-            "差餉 (Target expression (Cantonese))",
-            "管理費 (Target expression (Cantonese))"
+            "利息) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)",
+            "差餉) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)",
+            "管理費) (Context: 房屋、物業與城市規劃深度論題：「納米樓 / 劏房」、「供樓負擔」、「市)"
           ],
           "answerIndex": 0,
           "explanation": "「首期」指置業時買家自備並先行繳付之首期款項（Down Payment）。"
@@ -9699,9 +9699,9 @@
           "prompt": "【股指術語】形容恒生指數跌破重要心理支持點位，專業廣東話術語係：",
           "options": [
             "跌穿 (tit3 cyun1 / Fell below / Breached)",
-            "跌入 (Target expression (Cantonese))",
-            "跌埋 (Target expression (Cantonese))",
-            "跌醒 (Target expression (Cantonese))"
+            "跌入) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)",
+            "跌埋) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)",
+            "跌醒) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)"
           ],
           "answerIndex": 0,
           "explanation": "「跌穿」（如跌穿萬八點）為財經新聞描寫指數跌破關口之專屬動補結構。"
@@ -9714,9 +9714,9 @@
           "prompt": "【節省開支】市井口語中生動形容「節約花銷、省錢守住錢包」，地道動賓短語係：",
           "options": [
             "慳荷包 (haan1 ho4 baau1 / Save money / Tighten purse strings)",
-            "炒荷包 (Target expression (Cantonese))",
-            "供荷包 (Target expression (Cantonese))",
-            "買荷包 (Target expression (Cantonese))"
+            "炒荷包) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)",
+            "供荷包) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)",
+            "買荷包) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)"
           ],
           "answerIndex": 0,
           "explanation": "「慳荷包」（慳錢）比喻節省開銷、精打細算。"
@@ -9730,9 +9730,9 @@
           "prompt": "【宏觀經濟】術語「加息週期」（gaa1 sik1 zau1 kei4）對普通置業家庭最直接之影響為：",
           "options": [
             "銀行物業按揭月供款項隨利率上升而增加 (Monthly mortgage repayment burdens increase)",
-            "超市物價立刻全部免費 (Target expression (Cantonese))",
-            "水電費賬單徹底免除 (Target expression (Cantonese))",
-            "公共交通工具全面停止收費 (Target expression (Cantonese))"
+            "超市物價立刻全部免費) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)",
+            "水電費賬單徹底免除) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)",
+            "公共交通工具全面停止收費) (Context: 經濟金融、股市波動與民生通脹：「恒指升跌」、「加息週期」、「通脹壓力」)"
           ],
           "answerIndex": 0,
           "explanation": "加息週期下銀行利率上升，直接導致浮動利率按揭家庭之「供樓」負擔顯著加重。"
@@ -9781,9 +9781,9 @@
           "prompt": "【環保生活】在香港餐廳點餐外賣時，表達「不要一次性即棄塑膠餐具和吸管」，地道術語係：",
           "options": [
             "走塑 / 走餐具 (Plastic-free / No disposable cutlery)",
-            "走甜 (Target expression (Cantonese))",
-            "走冰 (Target expression (Cantonese))",
-            "走油 (Target expression (Cantonese))"
+            "走甜) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)",
+            "走冰) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)",
+            "走油) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)"
           ],
           "answerIndex": 0,
           "explanation": "「走塑」（如同走甜、走冰）指不索取即棄塑膠餐具之環保倡議。"
@@ -9796,9 +9796,9 @@
           "prompt": "【政策理念】環保宣傳中強調「在消費與生產最前端就減少廢棄物產生」，核心標語係：",
           "options": [
             "源頭減廢 (Waste reduction at source)",
-            "炒魷魚 (Target expression (Cantonese))",
-            "食死貓 (Target expression (Cantonese))",
-            "邊有蛤乸跳 (Target expression (Cantonese))"
+            "炒魷魚) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)",
+            "食死貓) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)",
+            "邊有蛤乸跳) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)"
           ],
           "answerIndex": 0,
           "explanation": "「源頭減廢」為可持續固體廢物管理之核心政策理念。"
@@ -9812,9 +9812,9 @@
           "prompt": "【社區網絡】遍佈全港十八區、鼓勵市民將廢紙塑膠玻璃回收換取生活日用品之社區環保網絡名稱為：",
           "options": [
             "綠在區區 (Green@Community)",
-            "紅在街市 (Target expression (Cantonese))",
-            "藍在碼頭 (Target expression (Cantonese))",
-            "黃在地鐵 (Target expression (Cantonese))"
+            "紅在街市) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)",
+            "藍在碼頭) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)",
+            "黃在地鐵) (Context: 環保政策、廢物徵費與可持續綠色生活：「垃圾徵費」、「走塑政策」、「源頭)"
           ],
           "answerIndex": 0,
           "explanation": "「綠在區區」為香港環保署推動之全港性社區回收環保站網絡。"
@@ -9863,9 +9863,9 @@
           "prompt": "【社論銜接】在政策評論中客觀表述「這項措施對緩解短期問題有幫助，但無法從根本上徹底解決」，應使用之論證句式係：",
           "options": [
             "固然有助於……然而難以徹底解決…… (Certainly helps... however difficult to completely solve)",
-            "完全冇用兼阿茂整餅 (Target expression (Cantonese))",
-            "一目了然唔使諗 (Target expression (Cantonese))",
-            "神仙過鐵橋包解決 (Target expression (Cantonese))"
+            "完全冇用兼阿茂整餅) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)",
+            "一目了然唔使諗) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)",
+            "神仙過鐵橋包解決) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)"
           ],
           "answerIndex": 0,
           "explanation": "「固然有助於……然而難以徹底解決……」為政策社論中辨析局部效益與深層局限之經典平衡句式。"
@@ -9878,9 +9878,9 @@
           "prompt": "【宏觀視角】引導讀者跳出當前微觀局部爭拗、從未來整體戰略視角評估政策，應引出之書面銜接詞係：",
           "options": [
             "從宏觀角度審視，長遠而言…… (Examined macroscopically, in the long run...)",
-            "即刻執輸行頭慘過敗家 (Target expression (Cantonese))",
-            "大家算罷啦 (Target expression (Cantonese))",
-            "食死貓算數 (Target expression (Cantonese))"
+            "即刻執輸行頭慘過敗家) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)",
+            "大家算罷啦) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)",
+            "食死貓算數) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)"
           ],
           "answerIndex": 0,
           "explanation": "「從宏觀角度審視 / 長遠而言」為高階社論評論之專業視角轉換標記。"
@@ -9894,9 +9894,9 @@
           "prompt": "【政策論辯架構】優秀公共政策社論的核心論述特徵在於：",
           "options": [
             "邏輯嚴密、視角宏觀，既肯定政策正面效益，又辯證指出執行局限並提出建設性平衡方案 (Rigorous logic, macro perspective & constructive balance)",
-            "盲目情緒化宣洩或人身攻擊 (Target expression (Cantonese))",
-            "只堆砌市井歇後語而無實質數據支持 (Target expression (Cantonese))",
-            "全盤否定所有公共治理措施 (Target expression (Cantonese))"
+            "盲目情緒化宣洩或人身攻擊) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)",
+            "只堆砌市井歇後語而無實質數據支持) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)",
+            "全盤否定所有公共治理措施) (Context: 公共政策辯論與社論評論高階表達：「有助於……但難以……」、「長遠而言」)"
           ],
           "answerIndex": 0,
           "explanation": "專業社論依託嚴謹的邏輯論證、宏觀辯證視角以及兼顧多方利益之平衡建設性。"
@@ -9945,9 +9945,9 @@
           "prompt": "【財務流程】在廣東話商業語境中，指稱「向客戶開具收費單據或發票」，標準動賓短語係：",
           "options": [
             "開單 (hoi1 daan1 / Issue invoice or bill)",
-            "炒單 (Target expression (Cantonese))",
-            "食單 (Target expression (Cantonese))",
-            "走單 (Target expression (Cantonese))"
+            "炒單) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )",
+            "食單) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )",
+            "走單) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )"
           ],
           "answerIndex": 0,
           "explanation": "「開單 / 出單」指開立商業收費發票或賬單。"
@@ -9960,9 +9960,9 @@
           "prompt": "【審批敬語】將方案文件呈交主管請其審閱時，最得體禮貌之敬語詞彙係：",
           "options": [
             "請主管過目 (Please review / inspect)",
-            "請主管食死貓 (Target expression (Cantonese))",
-            "請主管算罷啦 (Target expression (Cantonese))",
-            "請主管邊度跳 (Target expression (Cantonese))"
+            "請主管食死貓) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )",
+            "請主管算罷啦) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )",
+            "請主管邊度跳) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )"
           ],
           "answerIndex": 0,
           "explanation": "「過目」為商務公文中懇請對方審閱之莊重敬語。"
@@ -9976,9 +9976,9 @@
           "prompt": "【商業結算】短語「找清貨款」（zaau2 cing1 fo3 fun2）在粵語商業活動中之準確含義為：",
           "options": [
             "全額結清應付貨物款項 (Settling all outstanding merchandise payments)",
-            "尋找丟失的貨物 (Target expression (Cantonese))",
-            "給予客戶折扣優惠 (Target expression (Cantonese))",
-            "拒絕支付貨款 (Target expression (Cantonese))"
+            "尋找丟失的貨物) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )",
+            "給予客戶折扣優惠) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )",
+            "拒絕支付貨款) (Context: 商務粵語與公文寫作：會議協調、審批流程與財務跟進 (Business )"
           ],
           "answerIndex": 0,
           "explanation": "「找數 / 找清」為粵語商業傳統中結清賬目之核心術語。"
@@ -10027,9 +10027,9 @@
           "prompt": "【商務電郵結尾】正式商務書信最標準典雅之結尾祝頌語係：",
           "options": [
             "祝 商祺 (Wishing business prosperity)",
-            "祝 算罷啦 (Target expression (Cantonese))",
-            "祝 炒魷魚 (Target expression (Cantonese))",
-            "祝 泥菩薩 (Target expression (Cantonese))"
+            "祝 算罷啦) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)",
+            "祝 炒魷魚) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)",
+            "祝 泥菩薩) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)"
           ],
           "answerIndex": 0,
           "explanation": "「祝 商祺」為中文正式商務往來公函之標準祝福語。"
@@ -10042,9 +10042,9 @@
           "prompt": "【公函發端】公函開頭鄭重告知各方某項官方決議，傳統標準起首語係：",
           "options": [
             "茲特函告 / 茲通知 (Hereby notify)",
-            "聽講話通知大家 (Target expression (Cantonese))",
-            "阿茂話畀你知 (Target expression (Cantonese))",
-            "食死貓式通知 (Target expression (Cantonese))"
+            "聽講話通知大家) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)",
+            "阿茂話畀你知) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)",
+            "食死貓式通知) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)"
           ],
           "answerIndex": 0,
           "explanation": "「茲通知 / 茲特函告」為正式公文起首之標準法定用語。"
@@ -10058,9 +10058,9 @@
           "prompt": "【附件提示】商務電郵中提請對方查看附隨合同草案時，最得體之表達為：",
           "options": [
             "隨電郵附呈合作協議，敬請 查照 (Agreement attached, respectfully invite review)",
-            "隨便睇下個協議啦 (Target expression (Cantonese))",
-            "協議放喺度你愛理不理 (Target expression (Cantonese))",
-            "協議唔准睇 (Target expression (Cantonese))"
+            "隨便睇下個協議啦) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)",
+            "協議放喺度你愛理不理) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)",
+            "協議唔准睇) (Context: 商務公文、書信函件與電郵得體格式：「茲通知」、「承蒙支持」、「敬請查照)"
           ],
           "answerIndex": 0,
           "explanation": "「隨電郵附呈……敬請查照」結合了精準格式與高度商業禮儀。"
@@ -10109,9 +10109,9 @@
           "prompt": "【談判妥協】形容談判雙方各自作出讓步以消除分歧、達成共識，經典短語係：",
           "options": [
             "各讓一步 (Each take a step back / Mutual concession)",
-            "邊有蛤乸跳 (Target expression (Cantonese))",
-            "食得鹹魚渴 (Target expression (Cantonese))",
-            "阿茂整餅式 (Target expression (Cantonese))"
+            "邊有蛤乸跳) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)",
+            "食得鹹魚渴) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)",
+            "阿茂整餅式) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)"
           ],
           "answerIndex": 0,
           "explanation": "「各讓一步」指雙方互相妥協、尋求利益平衡點。"
@@ -10124,9 +10124,9 @@
           "prompt": "【法律意向】在正式合同簽署前，雙方先行簽訂之初步合作意向文件名稱係：",
           "options": [
             "諒解備忘錄（MOU） (Memorandum of Understanding)",
-            "炒魷魚協議 (Target expression (Cantonese))",
-            "食檸檬保證書 (Target expression (Cantonese))",
-            "水過鴨背記錄 (Target expression (Cantonese))"
+            "炒魷魚協議) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)",
+            "食檸檬保證書) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)",
+            "水過鴨背記錄) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)"
           ],
           "answerIndex": 0,
           "explanation": "「諒解備忘錄（MOU）」為商務談判初步階段確立合作框架之法定意向書。"
@@ -10140,9 +10140,9 @@
           "prompt": "【底線定義】在商業合約洽商中，「我方底線」所指的具體含義為：",
           "options": [
             "我方在談判中所能接受之最低限度利益條件，逾此則寧可放棄合作 (The non-negotiable minimum acceptable terms)",
-            "辦公室最底層的地板線 (Target expression (Cantonese))",
-            "合同最下方的一條橫線 (Target expression (Cantonese))",
-            "無條件答應對方所有苛刻要求 (Target expression (Cantonese))"
+            "辦公室最底層的地板線) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)",
+            "合同最下方的一條橫線) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)",
+            "無條件答應對方所有苛刻要求) (Context: 商務談判、合同條款與讓步博弈：「傾條件」、「底線」、「各讓一步」 (N)"
           ],
           "answerIndex": 0,
           "explanation": "「底線」指談判中不可逾越之最低利益與原則邊界。"
@@ -10191,9 +10191,9 @@
           "prompt": "【同理致歉】面對憤怒投訴的客戶，第一時間平息其情緒之最得體粵語話術係：",
           "options": [
             "真係唔好意思畀您添咗咁多麻煩！ (Truly sorry for causing you so much trouble!)",
-            "你算罷啦唔好鬧啦 (Target expression (Cantonese))",
-            "邊有蛤乸跳你咪鬧啦 (Target expression (Cantonese))",
-            "食死貓都唔關我事 (Target expression (Cantonese))"
+            "你算罷啦唔好鬧啦) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)",
+            "邊有蛤乸跳你咪鬧啦) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)",
+            "食死貓都唔關我事) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)"
           ],
           "answerIndex": 0,
           "explanation": "「唔好意思畀您添咗咁多麻煩」真誠認同客戶困擾，能迅速化解對抗情緒。"
@@ -10206,9 +10206,9 @@
           "prompt": "【責任認領】向客戶保證會由專屬人員負責追蹤解決問題，地道商務承諾係：",
           "options": [
             "我哋會即時安排專人跟進 (Immediately arrange dedicated staff to follow up)",
-            "我哋會當水過鴨背 (Target expression (Cantonese))",
-            "我哋會阿茂整餅 (Target expression (Cantonese))",
-            "我哋會炒魷魚 (Target expression (Cantonese))"
+            "我哋會當水過鴨背) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)",
+            "我哋會阿茂整餅) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)",
+            "我哋會炒魷魚) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)"
           ],
           "answerIndex": 0,
           "explanation": "「安排專人跟進」展現高度專業性與負責態度。"
@@ -10222,9 +10222,9 @@
           "prompt": "【危機公關】處理重大客戶投訴時，最關鍵之首要原則係：",
           "options": [
             "展現同理心傾聽並真誠致歉，迅速鎖定問題並安排具體補救措施 (Demonstrating empathy, apologizing & providing concrete remediation)",
-            "推卸責任並指責客戶操作不當 (Target expression (Cantonese))",
-            "直接掛斷電話置之不理 (Target expression (Cantonese))",
-            "向客戶發出法律威脅 (Target expression (Cantonese))"
+            "推卸責任並指責客戶操作不當) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)",
+            "直接掛斷電話置之不理) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)",
+            "向客戶發出法律威脅) (Context: 客戶服務、客訴處理與危機公關化解：「添麻煩」、「專人跟進」、「妥善解決)"
           ],
           "answerIndex": 0,
           "explanation": "及時共情致歉、認領責任並提供切實補救方案係危機公關的核心法則。"
@@ -10273,9 +10273,9 @@
           "prompt": "【簡報架構】在項目演報開篇引介簡報大綱時，最標準之引導句式係：",
           "options": [
             "今日嘅簡報主要分為三個核心部分 (Today's presentation is mainly divided into 3 core parts)",
-            "大家隨便聽下算罷啦 (Target expression (Cantonese))",
-            "我都唔知講乜好 (Target expression (Cantonese))",
-            "阿茂整餅式簡報開始 (Target expression (Cantonese))"
+            "大家隨便聽下算罷啦) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)",
+            "我都唔知講乜好) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)",
+            "阿茂整餅式簡報開始) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)"
           ],
           "answerIndex": 0,
           "explanation": "「今日嘅簡報主要分為……」為商務演報最標準之結構導引句式。"
@@ -10288,9 +10288,9 @@
           "prompt": "【問答過渡】簡報結束後禮貌邀請在場投資人或董事提問，標準專業話術係：",
           "options": [
             "簡報到此為止，依家歡迎大家提問 (Presentation ends here, now welcome questions)",
-            "簡報講完，千祈咪問問題 (Target expression (Cantonese))",
-            "邊有蛤乸跳問乜鬼 (Target expression (Cantonese))",
-            "食死貓問答開始 (Target expression (Cantonese))"
+            "簡報講完，千祈咪問問題) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)",
+            "邊有蛤乸跳問乜鬼) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)",
+            "食死貓問答開始) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)"
           ],
           "answerIndex": 0,
           "explanation": "「簡報到此為止，依家歡迎大家提問」為演報過渡至Q&A之標準禮貌話術。"
@@ -10304,9 +10304,9 @@
           "prompt": "【演報價值主張】在項目提案中，闡述「核心競爭優勢」（Core Competitive Advantage）之關鍵目的在於：",
           "options": [
             "向投資人清晰展示本產品相比市場競品不可替代之獨特價值與技術門檻 (Highlighting unique, irreplaceable value and barriers to entry)",
-            "故意隱瞞所有財務數據 (Target expression (Cantonese))",
-            "向評審抱怨行業艱辛 (Target expression (Cantonese))",
-            "單純展示漂亮的幻燈片動畫 (Target expression (Cantonese))"
+            "故意隱瞞所有財務數據) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)",
+            "向評審抱怨行業艱辛) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)",
+            "單純展示漂亮的幻燈片動畫) (Context: 高階商務口頭演報與項目提案綜合實戰：「簡報結構」、「核心優勢」、「答辯)"
           ],
           "answerIndex": 0,
           "explanation": "核心競爭優勢之剖析係說服投資人與決策者採納提案的最核心商業依據。"
@@ -10437,9 +10437,9 @@
           "prompt": "【入聲韻尾】漢字「八（baat3）」與「月（jyut6）」在粵語中共同具備之中古塞音韻尾係：",
           "options": [
             "舌尖塞音韻尾【-t】 (Alveolar stop coda -t)",
-            "雙唇塞音韻尾【-p】 (Target expression (Cantonese))",
-            "舌根塞音韻尾【-k】 (Target expression (Cantonese))",
-            "鼻音韻尾【-m】 (Target expression (Cantonese))"
+            "雙唇塞音韻尾【-p】) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)",
+            "舌根塞音韻尾【-k】) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)",
+            "鼻音韻尾【-m】) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)"
           ],
           "answerIndex": 0,
           "explanation": "「八（baat3）」與「月（jyut6）」均以舌尖塞音【-t】收尾。"
@@ -10452,9 +10452,9 @@
           "prompt": "【古詩格律】用粵語吟誦岳飛《滿江紅》能完美押韻，其根本原因在於粵語保留了古代之：",
           "options": [
             "入聲韻尾與九聲調類系統 (Middle Chinese entering tones & 9-tone system)",
-            "英語外來借詞 (Target expression (Cantonese))",
-            "現代網絡流行語 (Target expression (Cantonese))",
-            "西方格律詩節奏 (Target expression (Cantonese))"
+            "英語外來借詞) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)",
+            "現代網絡流行語) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)",
+            "西方格律詩節奏) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)"
           ],
           "answerIndex": 0,
           "explanation": "《滿江紅》全篇押入聲韻，粵語完整保留入聲韻尾，因而能完美重現古代詩詞音律。"
@@ -10468,9 +10468,9 @@
           "prompt": "【語音學辨析】漢字「十（sap6）」與「盒（hap6）」在發音結束時之發音部位特徵為：",
           "options": [
             "雙唇緊閉阻斷氣流（-p 塞音尾） (Bilabial stop closure -p)",
-            "舌根頂住軟齶（-k 塞音尾） (Target expression (Cantonese))",
-            "舌尖頂住上齒齦（-t 塞音尾） (Target expression (Cantonese))",
-            "氣流從鼻腔完全釋放 (Target expression (Cantonese))"
+            "舌根頂住軟齶（-k 塞音尾）) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)",
+            "舌尖頂住上齒齦（-t 塞音尾）) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)",
+            "氣流從鼻腔完全釋放) (Context: 中古漢語入聲韻尾（-p, -t, -k）與唐宋詩詞格律之完美契合 (M)"
           ],
           "answerIndex": 0,
           "explanation": "「十（sap6）」與「盒（hap6）」屬於雙唇塞音韻尾【-p】字。"
@@ -10519,9 +10519,9 @@
           "prompt": "【嶺南名著】明末清初學者屈大均所撰、全面記錄廣東地理風俗與早期粵語字彙之百科全書名著係：",
           "options": [
             "《廣東新語》 (Guangdong Xinyu)",
-            "《全唐詩》 (Target expression (Cantonese))",
-            "《文心雕龍》 (Target expression (Cantonese))",
-            "《粵曲大辭典》 (Target expression (Cantonese))"
+            "《全唐詩》) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()",
+            "《文心雕龍》) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()",
+            "《粵曲大辭典》) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()"
           ],
           "answerIndex": 0,
           "explanation": "《廣東新語》為屈大均撰寫之嶺南歷史地理與民俗語言百科全書。"
@@ -10534,9 +10534,9 @@
           "prompt": "【名篇作者】名作《崖門竭》（山川浩劫動神明）之作者、「嶺南三大家」之一係：",
           "options": [
             "陳恭尹 (Chan Gung-wan)",
-            "蘇軾 (Target expression (Cantonese))",
-            "屈大均 (Target expression (Cantonese))",
-            "李白 (Target expression (Cantonese))"
+            "蘇軾) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()",
+            "屈大均) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()",
+            "李白) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()"
           ],
           "answerIndex": 0,
           "explanation": "《崖門竭》為清初嶺南詩冠陳恭尹之代表詩作。"
@@ -10550,9 +10550,9 @@
           "prompt": "【詩壇三大家】在中國文學史上被譽為「嶺南三大家」的三位古典文學巨擘係：",
           "options": [
             "屈大均、陳恭尹、梁佩蘭 (Wat Daai-gwan, Chan Gung-wan, Leung Pui-laan)",
-            "李白、杜甫、白居易 (Target expression (Cantonese))",
-            "蘇軾、蘇洵、蘇轍 (Target expression (Cantonese))",
-            "韓愈、柳宗元、歐陽修 (Target expression (Cantonese))"
+            "李白、杜甫、白居易) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()",
+            "蘇軾、蘇洵、蘇轍) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()",
+            "韓愈、柳宗元、歐陽修) (Context: 嶺南詩壇先驅與經典粵詩名篇深度析讀：「嶺南三大家」與屈大均、陳恭尹 ()"
           ],
           "answerIndex": 0,
           "explanation": "「嶺南三大家」指明末清初嶺南著名詩人屈大均、陳恭尹與梁佩蘭。"
@@ -10601,9 +10601,9 @@
           "prompt": "【民間說唱名篇】開篇為「涼風有信，秋月無邊。虧我思嬌情緒好比度日如年」之著名地水南音曲目係：",
           "options": [
             "《客途秋恨》 (Autumn Regrets on a Traveller's Journey)",
-            "《帝女花》 (Target expression (Cantonese))",
-            "《鳳閣恩仇未了情》 (Target expression (Cantonese))",
-            "《將進酒》 (Target expression (Cantonese))"
+            "《帝女花》) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)",
+            "《鳳閣恩仇未了情》) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)",
+            "《將進酒》) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)"
           ],
           "answerIndex": 0,
           "explanation": "《客途秋恨》為嶺南地水南音最具代表性之千古名篇。"
@@ -10616,9 +10616,9 @@
           "prompt": "【木魚名著】19世紀即被翻譯傳入歐洲、以粵語七言說唱體裁寫成之木魚書經典係：",
           "options": [
             "《花箋記》 (The Flowered Scroll / Faa Zin Gei)",
-            "《水滸傳》 (Target expression (Cantonese))",
-            "《紅樓夢》 (Target expression (Cantonese))",
-            "《廣東新語》 (Target expression (Cantonese))"
+            "《水滸傳》) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)",
+            "《紅樓夢》) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)",
+            "《廣東新語》) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)"
           ],
           "answerIndex": 0,
           "explanation": "《花箋記》為明末清初木魚書之傳世經典。"
@@ -10632,9 +10632,9 @@
           "prompt": "【曲藝特色】嶺南傳統說唱曲藝「龍舟歌」最標誌性之表演形式為：",
           "options": [
             "藝人手持小鑼小鼓與木雕小龍舟，沿街邊敲邊唱即興敘事 (Singing while holding miniature gong, drum and wooden dragon boat)",
-            "百人大型交響樂團伴奏 (Target expression (Cantonese))",
-            "無伴奏純美聲合唱 (Target expression (Cantonese))",
-            "西洋芭蕾舞劇配樂 (Target expression (Cantonese))"
+            "百人大型交響樂團伴奏) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)",
+            "無伴奏純美聲合唱) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)",
+            "西洋芭蕾舞劇配樂) (Context: 木魚書、龍舟歌與粵曲唱詞之民間文學修辭 (Folk Ballads &)"
           ],
           "answerIndex": 0,
           "explanation": "龍舟歌藝人手持小鑼鼓與木龍舟，採用靈動即興之粵語口頭敘事。"
@@ -10683,9 +10683,9 @@
           "prompt": "【古漢語動詞】廣東話中「走（zau2）」字在古漢語及本地方言中的原始本義係：",
           "options": [
             "奔跑、逃跑 (Run / Flee - Pre-Qin original meaning)",
-            "緩慢步行 (Target expression (Cantonese))",
-            "躺臥睡覺 (Target expression (Cantonese))",
-            "跳躍舞蹈 (Target expression (Cantonese))"
+            "緩慢步行) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)",
+            "躺臥睡覺) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)",
+            "跳躍舞蹈) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)"
           ],
           "answerIndex": 0,
           "explanation": "先秦古漢語中「走」為奔跑（如走馬觀花、夸父逐日棄杖而走），粵語完整保留此古義。"
@@ -10698,9 +10698,9 @@
           "prompt": "【語序倒裝】日常表達「你行先」（你先走）所體現的古漢語語法特徵係：",
           "options": [
             "狀語副詞後置倒裝 (Postpositional adverbial inversion)",
-            "賓語前置 (Target expression (Cantonese))",
-            "主謂倒裝 (Target expression (Cantonese))",
-            "定語後置 (Target expression (Cantonese))"
+            "賓語前置) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)",
+            "主謂倒裝) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)",
+            "定語後置) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)"
           ],
           "answerIndex": 0,
           "explanation": "「行先」、「食多啲」體現了狀語副詞後置於動詞之後的古漢語倒裝語法遺存。"
@@ -10714,9 +10714,9 @@
           "prompt": "【比較句淵源】粵語比較句「我大過你」（ngo5 daai6 gwo3 nei5）中，「過」字的古代語法淵源相當於先秦古漢語的：",
           "options": [
             "介詞「於」（相當於『大於汝』） (Preposition 'yu' - greater than you)",
-            "動詞「經過」 (Target expression (Cantonese))",
-            "名詞「過錯」 (Target expression (Cantonese))",
-            "助詞「的」 (Target expression (Cantonese))"
+            "動詞「經過」) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)",
+            "名詞「過錯」) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)",
+            "助詞「的」) (Context: 文言倒裝、古漢語詞彙存古與現代高階文言粵語之融合 (Archaic S)"
           ],
           "answerIndex": 0,
           "explanation": "「大過你」在結構上直接對應先秦漢語之「大於汝」，「過」承擔了比較介詞「於」之功能。"
@@ -10765,9 +10765,9 @@
           "prompt": "【心學開山】明代江門學派宗師陳白沙提倡之核心求知與心性修養原則係：",
           "options": [
             "學貴自得 / 靜中養出端倪 (Learning values self-realization / nurture sprouts in stillness)",
-            "死記硬背註疏 (Target expression (Cantonese))",
-            "盲目遵從教條 (Target expression (Cantonese))",
-            "放棄所有思考 (Target expression (Cantonese))"
+            "死記硬背註疏) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)",
+            "盲目遵從教條) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)",
+            "放棄所有思考) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙江門心學以「學貴自得」與「靜中養出端倪」為核心宗旨。"
@@ -10780,9 +10780,9 @@
           "prompt": "【嶺南名筆】陳獻章（陳白沙）就地取材、以廣東新會圭峰山茅草發明之獨特書法名筆係：",
           "options": [
             "茅龍筆 (Maolong reed brush)",
-            "狼毫筆 (Target expression (Cantonese))",
-            "羊毫筆 (Target expression (Cantonese))",
-            "紫毫筆 (Target expression (Cantonese))"
+            "狼毫筆) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)",
+            "羊毫筆) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)",
+            "紫毫筆) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙以圭峰山茅草創製「茅龍筆」，書法獨具古拙蒼勁之美。"
@@ -10796,9 +10796,9 @@
           "prompt": "【哲學史地位】陳白沙（陳獻章）在中國思想史上的崇高地位在於：",
           "options": [
             "開創明代江門心學，打破程朱理學教條束縛，為後續陽明心學之崛起奠定先聲 (Pioneering Ming School of Mind and laying foundations for Yangming philosophy)",
-            "主張全盤否定儒家道德體系 (Target expression (Cantonese))",
-            "只專注於海外貿易而無學術建樹 (Target expression (Cantonese))",
-            "禁止弟子進行任何哲學思考 (Target expression (Cantonese))"
+            "主張全盤否定儒家道德體系) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)",
+            "只專注於海外貿易而無學術建樹) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)",
+            "禁止弟子進行任何哲學思考) (Context: 陳白沙與江門心學：「靜中養出端倪」、「自得之學」 (Chan Baak)"
           ],
           "answerIndex": 0,
           "explanation": "陳白沙被尊為明代心學之先驅，打破了宋儒註疏之錮蔽，開啟了主體自得心學之新紀元。"
@@ -10847,9 +10847,9 @@
           "prompt": "【哲學核心】明代思想家湛若水（湛甘泉）所創立之甘泉學派，其最高哲學命題係：",
           "options": [
             "隨處體認天理 (Realizing Heavenly Principle in all places)",
-            "存天理滅人欲 (Target expression (Cantonese))",
-            "唯物辯證法 (Target expression (Cantonese))",
-            "因果報應說 (Target expression (Cantonese))"
+            "存天理滅人欲) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)",
+            "唯物辯證法) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)",
+            "因果報應說) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)"
           ],
           "answerIndex": 0,
           "explanation": "湛甘泉哲學之核心綱領為「隨處體認天理」。"
@@ -10862,9 +10862,9 @@
           "prompt": "【並稱巨擘】在明代心學發展史上，與王陽明齊名並稱「王湛之學」的嶺南大儒係：",
           "options": [
             "湛若水（湛甘泉） (Zaam Joek-seoi / Zaam Ganquan)",
-            "屈大均 (Target expression (Cantonese))",
-            "梁啟超 (Target expression (Cantonese))",
-            "康有為 (Target expression (Cantonese))"
+            "屈大均) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)",
+            "梁啟超) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)",
+            "康有為) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)"
           ],
           "answerIndex": 0,
           "explanation": "湛若水（湛甘泉）與王陽明齊名，被明代學術界並稱為「王湛之學」。"
@@ -10878,9 +10878,9 @@
           "prompt": "【心物關係】湛甘泉「心包萬物」命題所闡發之核心宇宙心性觀為：",
           "options": [
             "心體無邊無界，萬物皆涵容於心體之中，主體與世界渾然一體 (Mind encapsulates all myriad things without internal/external divide)",
-            "物質完全獨立於意識之外且彼此隔絕 (Target expression (Cantonese))",
-            "只有看得見的具體物件才算存在 (Target expression (Cantonese))",
-            "心靈與外界毫無關聯 (Target expression (Cantonese))"
+            "物質完全獨立於意識之外且彼此隔絕) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)",
+            "只有看得見的具體物件才算存在) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)",
+            "心靈與外界毫無關聯) (Context: 湛若水（甘泉先生）與隨處體認天理：「心包萬物」、「格物致知」 (Zaa)"
           ],
           "answerIndex": 0,
           "explanation": "「心包萬物」強調心體博大無外，萬事萬物皆在心體之中涵融貫通。"
@@ -10929,9 +10929,9 @@
           "prompt": "【啟蒙名作】近代思想家梁啟超所著、主張「欲維新吾國，當先維新吾民」之核心啟蒙著作係：",
           "options": [
             "《新民說》 (On the New Citizenry)",
-            "《廣東新語》 (Target expression (Cantonese))",
-            "《花箋記》 (Target expression (Cantonese))",
-            "《大同書》 (Target expression (Cantonese))"
+            "《廣東新語》) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)",
+            "《花箋記》) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)",
+            "《大同書》) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)"
           ],
           "answerIndex": 0,
           "explanation": "《新民說》為梁啟超系統闡述現代國民品格與公民意識重塑之經典名篇。"
@@ -10944,9 +10944,9 @@
           "prompt": "【維新搖籃】康有為在廣州創辦、培養了梁啟超等維新變法核心骨幹之著名學堂係：",
           "options": [
             "萬木草堂 (Wanmu Caotang Academy)",
-            "白鹿洞書院 (Target expression (Cantonese))",
-            "嶽麓書院 (Target expression (Cantonese))",
-            "應天書院 (Target expression (Cantonese))"
+            "白鹿洞書院) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)",
+            "嶽麓書院) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)",
+            "應天書院) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)"
           ],
           "answerIndex": 0,
           "explanation": "萬木草堂為康有為於廣州設立、推動近代維新變法思想之著名講學聖地。"
@@ -10960,9 +10960,9 @@
           "prompt": "【思想烏托邦】康有為晚年所著、描繪消除國家階級界限與實現人類世界大同理想之著作係：",
           "options": [
             "《大同書》 (The Book of Great Unity)",
-            "《新學偽經考》 (Target expression (Cantonese))",
-            "《孔子改制考》 (Target expression (Cantonese))",
-            "《變法通議》 (Target expression (Cantonese))"
+            "《新學偽經考》) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)",
+            "《孔子改制考》) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)",
+            "《變法通議》) (Context: 康有為、梁啟超與萬木草堂維新思想：「變法圖強」、「新民說」 (Kang)"
           ],
           "answerIndex": 0,
           "explanation": "《大同書》勾勒出康有為對未來世界大同社會之宏偉哲學構想。"
@@ -11011,9 +11011,9 @@
           "prompt": "【留學之父】1854年畢業於美國耶魯大學、被尊為「中國留學生之父」並推動留美幼童計劃之嶺南先驅係：",
           "options": [
             "容閎 (Yung Wing)",
-            "詹天佑 (Target expression (Cantonese))",
-            "林則徐 (Target expression (Cantonese))",
-            "魏源 (Target expression (Cantonese))"
+            "詹天佑) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)",
+            "林則徐) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)",
+            "魏源) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)"
           ],
           "answerIndex": 0,
           "explanation": "容閎為首位留美中國大學畢業生，一生致力於推動中國教育現代化。"
@@ -11026,9 +11026,9 @@
           "prompt": "【近代工程】由留美幼童出身之傑出工程師、主持修建京張鐵路並被譽為「中國鐵路之父」之名家係：",
           "options": [
             "詹天佑 (Jeme Tien Yow)",
-            "容閎 (Target expression (Cantonese))",
-            "唐紹儀 (Target expression (Cantonese))",
-            "梁敦彥 (Target expression (Cantonese))"
+            "容閎) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)",
+            "唐紹儀) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)",
+            "梁敦彥) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)"
           ],
           "answerIndex": 0,
           "explanation": "詹天佑為第一批留美幼童優秀代表，主持修建了著名的京張鐵路。"
@@ -11042,9 +11042,9 @@
           "prompt": "【地理樞紐】嶺南地區在中國近代「西學東漸」進程中扮演核心角色之根本優勢在於：",
           "options": [
             "毗鄰港澳與海外通商口岸之海洋地理優勢，孕育出勇於革新、開眼看世界的重商與留學傳統 (Maritime gateway advantage adjacent to HK/Macau with reformist traditions)",
-            "地理位置封閉偏僻遠離所有海外航線 (Target expression (Cantonese))",
-            "嚴格禁止任何外國人與外來技術進入 (Target expression (Cantonese))",
-            "完全缺乏商業與航海歷史 (Target expression (Cantonese))"
+            "地理位置封閉偏僻遠離所有海外航線) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)",
+            "嚴格禁止任何外國人與外來技術進入) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)",
+            "完全缺乏商業與航海歷史) (Context: 容閎、留美幼童與嶺南近代西學東漸：「開眼看世界之先驅」 (Yung W)"
           ],
           "answerIndex": 0,
           "explanation": "嶺南得天獨厚之海洋口岸優勢使其成為近代西方思想與科學技術傳入中國之首要樞紐。"
@@ -11093,9 +11093,9 @@
           "prompt": "【立論設問】在學術政論文中，引導讀者探尋事件根本原因之標準設疑過渡句係：",
           "options": [
             "何以見得？究其根源…… (How is this evident? Probing its root cause...)",
-            "你問我我問邊個 (Target expression (Cantonese))",
-            "大家隨便估下啦 (Target expression (Cantonese))",
-            "算罷啦唔好問 (Target expression (Cantonese))"
+            "你問我我問邊個) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)",
+            "大家隨便估下啦) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)",
+            "算罷啦唔好問) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)"
           ],
           "answerIndex": 0,
           "explanation": "「何以見得？究其根源……」為經典政論文剖析因果機制之高階設問句式。"
@@ -11108,9 +11108,9 @@
           "prompt": "【駁論謬誤】指出對手論證顛倒因果關係之專業邏輯術語係：",
           "options": [
             "倒果為因 (Inverting cause and effect)",
-            "阿茂整餅 (Target expression (Cantonese))",
-            "斷章取義 (Target expression (Cantonese))",
-            "食死貓 (Target expression (Cantonese))"
+            "阿茂整餅) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)",
+            "斷章取義) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)",
+            "食死貓) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)"
           ],
           "answerIndex": 0,
           "explanation": "「倒果為因」為駁論文中精確指出邏輯因果顛倒之標準術語。"
@@ -11124,9 +11124,9 @@
           "prompt": "【政論修辭架構】一篇高水平思想政論文的核心論述架構應包含：",
           "options": [
             "立論鮮明、論據充分，運用嚴謹邏輯反駁對立觀點，並在宏觀層面提出辯證建設性方案 (Clear proposition, rigorous refutation, and dialectical constructive synthesis)",
-            "單純情緒化謾罵而無任何事實論據 (Target expression (Cantonese))",
-            "全盤抄襲他人觀點並拼湊網絡段子 (Target expression (Cantonese))",
-            "前後自相矛盾且邏輯混亂 (Target expression (Cantonese))"
+            "單純情緒化謾罵而無任何事實論據) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)",
+            "全盤抄襲他人觀點並拼湊網絡段子) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)",
+            "前後自相矛盾且邏輯混亂) (Context: 近代嶺南政論文與現代粵語思想論辯之修辭架構：「立論」、「駁論」、「辨證)"
           ],
           "answerIndex": 0,
           "explanation": "優秀政論文依託立論、駁論與辯證綜合三位一體之嚴謹修辭架構。"
@@ -11175,9 +11175,9 @@
           "prompt": "【粵劇行當】在廣東大戲中，負責飾演劇團第一首席女主角之核心行當稱謂係：",
           "options": [
             "正印花旦 (Principal Leading Actress / Prima Donna)",
-            "文武生 (Target expression (Cantonese))",
-            "丑生 (Target expression (Cantonese))",
-            "大花面 (Target expression (Cantonese))"
+            "文武生) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)",
+            "丑生) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)",
+            "大花面) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)"
           ],
           "answerIndex": 0,
           "explanation": "「正印花旦」為粵劇劇團中地位最高之首席女主角行當。"
@@ -11190,9 +11190,9 @@
           "prompt": "【戲曲熟語】形容演出排場宏大、準備工作極為隆重浩大之粵語熟語係：",
           "options": [
             "大陣仗 (Huge elaborate spectacle / Massive scale)",
-            "細場仔 (Target expression (Cantonese))",
-            "草草收場 (Target expression (Cantonese))",
-            "靜英英 (Target expression (Cantonese))"
+            "細場仔) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)",
+            "草草收場) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)",
+            "靜英英) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)"
           ],
           "answerIndex": 0,
           "explanation": "「大陣仗」源自古代戲曲大排場武打陣勢，現泛指聲勢浩大之場面。"
@@ -11206,9 +11206,9 @@
           "prompt": "【戲劇名篇】被譽為粵劇黃金時代巔峰代表作、由劇作家唐滌生編撰之傳世名劇係：",
           "options": [
             "《帝女花》與《紫釵記》 (Princess Changping & The Purple Hairpin)",
-            "《哈姆雷特》 (Target expression (Cantonese))",
-            "《天鵝湖》 (Target expression (Cantonese))",
-            "《等待戈多》 (Target expression (Cantonese))"
+            "《哈姆雷特》) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)",
+            "《天鵝湖》) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)",
+            "《等待戈多》) (Context: 傳統藝術：粵劇行當、鑼鼓經與生旦淨丑舞台術語 (Cantonese O)"
           ],
           "answerIndex": 0,
           "explanation": "《帝女花》與《紫釵記》為粵劇編劇泰斗唐滌生最負盛名之傳世經典。"
@@ -11257,9 +11257,9 @@
           "prompt": "【畫派宗旨在於】二十世紀初嶺南畫派（高劍父、高奇峰、陳樹人）的核心藝術綱領係：",
           "options": [
             "折衷中西，融匯古今 (Compromise Chinese & Western, blend ancient & modern)",
-            "全盤模仿古代文人畫 (Target expression (Cantonese))",
-            "徹底放棄中國傳統筆墨 (Target expression (Cantonese))",
-            "單純追求西洋抽象藝術 (Target expression (Cantonese))"
+            "全盤模仿古代文人畫) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)",
+            "徹底放棄中國傳統筆墨) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)",
+            "單純追求西洋抽象藝術) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)"
           ],
           "answerIndex": 0,
           "explanation": "「折衷中西，融匯古今」為嶺南畫派最核心之藝術革新旗幟。"
@@ -11272,9 +11272,9 @@
           "prompt": "【水墨技法】在花鳥設色未乾時注入清水或白蛤粉以形成生動光影與濕潤質感之嶺南畫派技法係：",
           "options": [
             "撞水法與撞粉法 (Colliding water & powder techniques)",
-            "油畫厚塗法 (Target expression (Cantonese))",
-            "版畫刻線法 (Target expression (Cantonese))",
-            "水彩拓印法 (Target expression (Cantonese))"
+            "油畫厚塗法) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)",
+            "版畫刻線法) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)",
+            "水彩拓印法) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)"
           ],
           "answerIndex": 0,
           "explanation": "「撞水撞粉」為嶺南畫派先驅居廉所獨創之標誌性繪畫技法。"
@@ -11288,9 +11288,9 @@
           "prompt": "【畫派三傑】在中國近代美術史上被尊稱為「嶺南三傑（二高一陳）」的三位畫壇宗師係：",
           "options": [
             "高劍父、高奇峰、陳樹人 (Gao Jianfu, Gao Qifeng, Chen Shuren)",
-            "齊白石、張大千、徐悲鴻 (Target expression (Cantonese))",
-            "任伯年、吳昌碩、虛谷 (Target expression (Cantonese))",
-            "黃賓虹、傅抱石、李可染 (Target expression (Cantonese))"
+            "齊白石、張大千、徐悲鴻) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)",
+            "任伯年、吳昌碩、虛谷) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)",
+            "黃賓虹、傅抱石、李可染) (Context: 嶺南畫派「折衷中西，融匯古今」與撞水撞粉技法 (Lingnan Sch)"
           ],
           "answerIndex": 0,
           "explanation": "「嶺南三傑（二高一陳）」指創立嶺南畫派之高劍父、高奇峰與陳樹人。"
@@ -11339,9 +11339,9 @@
           "prompt": "【工藝總稱】代表廣州傳統手工藝最高成就、享譽海內外之「三雕一彩一繡」中之「一彩」指：",
           "options": [
             "廣彩（廣州織金彩瓷） (Guangzhou Polychrome Enamel Porcelain)",
-            "彩色玻璃 (Target expression (Cantonese))",
-            "油畫色彩 (Target expression (Cantonese))",
-            "皮影彩繪 (Target expression (Cantonese))"
+            "彩色玻璃) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)",
+            "油畫色彩) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)",
+            "皮影彩繪) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)"
           ],
           "answerIndex": 0,
           "explanation": "「一彩」指創立於廣州、以金碧輝煌著稱之「廣彩（廣州織金彩瓷）」。"
@@ -11354,9 +11354,9 @@
           "prompt": "【名繡特點】中國四大名繡之一的「廣繡」（廣東刺繡）最顯著之風格特色係：",
           "options": [
             "色彩富麗鮮艷、構圖緊密飽滿、善用釘金繡法 (Rich brilliant colors, dense composition & gold couching)",
-            "純黑白素色單調 (Target expression (Cantonese))",
-            "完全不使用任何絲線 (Target expression (Cantonese))",
-            "無任何刺繡圖案 (Target expression (Cantonese))"
+            "純黑白素色單調) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)",
+            "完全不使用任何絲線) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)",
+            "無任何刺繡圖案) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)"
           ],
           "answerIndex": 0,
           "explanation": "廣繡以色彩鮮濃熱烈、針法多變、構圖豐滿繁茂為標誌性藝術特徵。"
@@ -11370,9 +11370,9 @@
           "prompt": "【象牙透雕】廣州傳統牙雕工藝中，最能體現「鬼斧神工」高超技藝之代表性經典工藝品係：",
           "options": [
             "多層透雕象牙套球 (Multilayer Concentric Hollowed Ivory Ball)",
-            "普通實心象牙筷子 (Target expression (Cantonese))",
-            "未經雕琢的象牙原料 (Target expression (Cantonese))",
-            "平面象牙印章 (Target expression (Cantonese))"
+            "普通實心象牙筷子) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)",
+            "未經雕琢的象牙原料) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)",
+            "平面象牙印章) (Context: 廣彩瓷器（織金彩瓷）與廣繡、牙雕之「三雕一彩一繡」嶺南工藝 (Guan)"
           ],
           "answerIndex": 0,
           "explanation": "多層透雕象牙球內外各層均可靈活轉動，層層透雕精美花紋，為廣州牙雕技冠全球之絕活。"
@@ -11421,9 +11421,9 @@
           "prompt": "【醒獅儀軌】廣府醒獅表演中，獅子歷經艱險騰躍採摘生菜以寓意「生財」之核心高潮動作係：",
           "options": [
             "採青 (Plucking the greens / Coi cing)",
-            "出洞 (Target expression (Cantonese))",
-            "睡獅 (Target expression (Cantonese))",
-            "洗鬚 (Target expression (Cantonese))"
+            "出洞) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)",
+            "睡獅) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)",
+            "洗鬚) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)"
           ],
           "answerIndex": 0,
           "explanation": "「採青」為醒獅表演中寓意生財大吉、技藝難度最高之核心環節。"
@@ -11436,9 +11436,9 @@
           "prompt": "【武術器械】詠春拳門派進行貼身攻防、走位與卸力發力訓練所使用之專屬木製器械係：",
           "options": [
             "木人樁 (Wooden dummy / Muk jan zong)",
-            "石鎖 (Target expression (Cantonese))",
-            "沙包 (Target expression (Cantonese))",
-            "大刀 (Target expression (Cantonese))"
+            "石鎖) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)",
+            "沙包) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)",
+            "大刀) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)"
           ],
           "answerIndex": 0,
           "explanation": "「木人樁」為詠春拳精煉寸勁、黐手與近身走位之標誌性專屬訓練器具。"
@@ -11452,9 +11452,9 @@
           "prompt": "【武學名家】在嶺南武術史上集洪拳之大成、兼擅醒獅且被眾多香港影視作品廣泛歌頌之一代宗師係：",
           "options": [
             "黃飛鴻 (Wong Fei-hung)",
-            "陳真 (Target expression (Cantonese))",
-            "霍元甲 (Target expression (Cantonese))",
-            "張三丰 (Target expression (Cantonese))"
+            "陳真) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)",
+            "霍元甲) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)",
+            "張三丰) (Context: 廣府醒獅、嶺南武術（洪拳、詠春）與非遺體育文化 (Southern L)"
           ],
           "answerIndex": 0,
           "explanation": "黃飛鴻為嶺南洪拳宗師與醒獅名家，其武德傳奇深深融入了省港澳文化歷史之中。"
@@ -11503,9 +11503,9 @@
           "prompt": "【遺產活化】將歷史古建築或傳統工藝賦予現代生活功能與文創新活力之保護理念稱為：",
           "options": [
             "活化保育 (Heritage Revitalization / Adaptive Reuse)",
-            "全盤拆除重建 (Target expression (Cantonese))",
-            "徹底封閉禁止參觀 (Target expression (Cantonese))",
-            "任由風化廢棄 (Target expression (Cantonese))"
+            "全盤拆除重建) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)",
+            "徹底封閉禁止參觀) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)",
+            "任由風化廢棄) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)"
           ],
           "answerIndex": 0,
           "explanation": "「活化保育」強調在妥善保護歷史真實性的前提下，注入當代文化與社區活力。"
@@ -11518,9 +11518,9 @@
           "prompt": "【藝術評論】形容藝術作品構思極為精妙、具備高度原創性與精湛技藝之高階評論成語係：",
           "options": [
             "匠心獨運 (Ingenious and original conception)",
-            "千篇一律 (Target expression (Cantonese))",
-            "粗製濫造 (Target expression (Cantonese))",
-            "生搬硬套 (Target expression (Cantonese))"
+            "千篇一律) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)",
+            "粗製濫造) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)",
+            "生搬硬套) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)"
           ],
           "answerIndex": 0,
           "explanation": "「匠心獨運」為文藝評論中讚美創作者構思獨特奇妙之高階成語。"
@@ -11534,9 +11534,9 @@
           "prompt": "【非遺真諦】現代非物質文化遺產保護所秉持之「見人、見物、見生活」核心理念意指：",
           "options": [
             "非遺保護必須依托傳承人（人）、技藝載體（物）並深植於當代大眾日常生活（生活）之中 (Heritage protection must rely on master artisans, physical vessels & daily living)",
-            "將所有傳統工藝品只鎖入博物館庫房 (Target expression (Cantonese))",
-            "禁止任何商業文創改編 (Target expression (Cantonese))",
-            "強迫所有人完全按古代生活方式生活 (Target expression (Cantonese))"
+            "將所有傳統工藝品只鎖入博物館庫房) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)",
+            "禁止任何商業文創改編) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)",
+            "強迫所有人完全按古代生活方式生活) (Context: 文化遺產保護、現代文創活化與藝術評論高階論述：「活化保育」、「傳承創新)"
           ],
           "answerIndex": 0,
           "explanation": "「見人、見物、見生活」強調非物質文化遺產作為活態文化之動態傳承本質。"
@@ -11585,9 +11585,9 @@
           "prompt": "【武俠精神】金庸小說《射鵰英雄傳》中郭靖所道出、代表中華俠義文化至高境界之名言係：",
           "options": [
             "俠之大者，為國為民 (The greatest chivalry lies in serving the nation & people)",
-            "事不關己，己不勞心 (Target expression (Cantonese))",
-            "人不為己，天誅地滅 (Target expression (Cantonese))",
-            "得過且過，逍遙快活 (Target expression (Cantonese))"
+            "事不關己，己不勞心) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)",
+            "人不為己，天誅地滅) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)",
+            "得過且過，逍遙快活) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)"
           ],
           "answerIndex": 0,
           "explanation": "「俠之大者，為國為民」為金庸武俠哲學中將個人武藝昇華至家國擔當之核心綱領。"
@@ -11600,9 +11600,9 @@
           "prompt": "【武學哲理】形容超越一切固定招式套路、順應對手形勢直達武學與思維化境之經典成語係：",
           "options": [
             "無招勝有招 (No moves surpass fixed moves / Supreme formlessness)",
-            "生搬硬套 (Target expression (Cantonese))",
-            "墨守成規 (Target expression (Cantonese))",
-            "按部就班 (Target expression (Cantonese))"
+            "生搬硬套) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)",
+            "墨守成規) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)",
+            "按部就班) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)"
           ],
           "answerIndex": 0,
           "explanation": "「無招勝有招」為獨孤九劍與太極拳哲學中破除形式拘泥之至高境地。"
@@ -11616,9 +11616,9 @@
           "prompt": "【文學宗師】在香港創辦《明報》並著有《天龍八部》、《笑傲江湖》、《鹿鼎記》等經典武俠巨作之大師係：",
           "options": [
             "金庸（查良鏞） (Louis Cha / Jin Yong)",
-            "魯迅 (Target expression (Cantonese))",
-            "張愛玲 (Target expression (Cantonese))",
-            "老舍 (Target expression (Cantonese))"
+            "魯迅) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)",
+            "張愛玲) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)",
+            "老舍) (Context: 香港新派武俠文學：金庸、梁羽生之俠義世界與文白相間敘事體 (New S)"
           ],
           "answerIndex": 0,
           "explanation": "金庸（查良鏞）為二十世紀華語文學界最負盛名之武俠小說泰斗。"
@@ -11667,9 +11667,9 @@
           "prompt": "【現代主義】被公認為華語文學史上第一部意識流長篇小說之香港經典名作係：",
           "options": [
             "劉以鬯《酒徒》 (The Drunkard by Liu Yichang)",
-            "《紅樓夢》 (Target expression (Cantonese))",
-            "《三國演義》 (Target expression (Cantonese))",
-            "《水滸傳》 (Target expression (Cantonese))"
+            "《紅樓夢》) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)",
+            "《三國演義》) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)",
+            "《水滸傳》) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)"
           ],
           "answerIndex": 0,
           "explanation": "劉以鬯於1963年出版之《酒徒》為中國第一部意識流長篇小說。"
@@ -11682,9 +11682,9 @@
           "prompt": "【我城自覺】以童稚純真視角描寫七十年代香港草根市民日常生活、開創「我城」本土敘事之作家係：",
           "options": [
             "西西 (Xi Xi)",
-            "冰心 (Target expression (Cantonese))",
-            "茅盾 (Target expression (Cantonese))",
-            "朱自清 (Target expression (Cantonese))"
+            "冰心) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)",
+            "茅盾) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)",
+            "朱自清) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)"
           ],
           "answerIndex": 0,
           "explanation": "著名香港女作家西西於1974年發表小說《我城》，奠定了香港本土文學之重要基石。"
@@ -11698,9 +11698,9 @@
           "prompt": "【電影靈感】王家衛執導之經典電影《花樣年華》，其文學構思主要靈感來源於劉以鬯先生之邊部小說：",
           "options": [
             "《對倒》 (Tête-bêche)",
-            "《狂人日記》 (Target expression (Cantonese))",
-            "《雷雨》 (Target expression (Cantonese))",
-            "《駱駝祥子》 (Target expression (Cantonese))"
+            "《狂人日記》) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)",
+            "《雷雨》) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)",
+            "《駱駝祥子》) (Context: 香港現代都市文學：劉以鬯《對倒》、西西《我城》與意識流本土書寫 (Mo)"
           ],
           "answerIndex": 0,
           "explanation": "《花樣年華》片尾特別鳴謝劉以鬯，其雙線交叉之時空氛圍深受小說《對倒》之啟發。"
@@ -11749,9 +11749,9 @@
           "prompt": "【經典金句】在周星馳電影《少林足球》中，激勵小人物勇於追求夢想之傳世金句係：",
           "options": [
             "做人如果冇夢想，同條鹹魚有咩分別？ (If a person has no dreams, what difference is there with a salted fish?)",
-            "我都係聽日先諗啦 (Target expression (Cantonese))",
-            "大家千祈唔好努力 (Target expression (Cantonese))",
-            "算數啦返去訓覺 (Target expression (Cantonese))"
+            "我都係聽日先諗啦) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)",
+            "大家千祈唔好努力) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)",
+            "算數啦返去訓覺) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)"
           ],
           "answerIndex": 0,
           "explanation": "「做人如果冇夢想，同條鹹魚有咩分別」為周星馳電影最膾炙人口之勵志名言。"
@@ -11764,9 +11764,9 @@
           "prompt": "【電影名篇】以梁朝偉、劉德華飾演之雙重臥底身分困境為核心、被荷里活翻拍並獲奧斯卡最佳影片之香港神作係：",
           "options": [
             "《無間道》 (Infernal Affairs)",
-            "《哈利波特》 (Target expression (Cantonese))",
-            "《鐵達尼號》 (Target expression (Cantonese))",
-            "《侏羅紀公園》 (Target expression (Cantonese))"
+            "《哈利波特》) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)",
+            "《鐵達尼號》) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)",
+            "《侏羅紀公園》) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)"
           ],
           "answerIndex": 0,
           "explanation": "《無間道》為香港警匪臥底題材之經典巔峰，獲全球廣泛讚譽。"
@@ -11780,9 +11780,9 @@
           "prompt": "【文藝大師】執導《阿飛正傳》、《重慶森林》、《花樣年華》，榮獲康城影展最佳導演獎之香港文藝片泰斗係：",
           "options": [
             "王家衛 (Wong Kar-wai)",
-            "希治閣 (Target expression (Cantonese))",
-            "史匹堡 (Target expression (Cantonese))",
-            "諾蘭 (Target expression (Cantonese))"
+            "希治閣) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)",
+            "史匹堡) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)",
+            "諾蘭) (Context: 香港電影黃金時代（港產片）：周星馳無厘頭文化、王家衛文藝美學與警匪類型)"
           ],
           "answerIndex": 0,
           "explanation": "王家衛為享譽國際影壇之香港殿堂級電影大師。"
@@ -11831,9 +11831,9 @@
           "prompt": "【填詞術語】粵語流行曲創作中，歌詞字音聲調必須嚴格契合曲譜旋律音高走勢之語言學要求稱為：",
           "options": [
             "依聲填詞 / 協音（啱音） (Matching lyrics tone to melody pitch / Hip jam)",
-            "隨便亂填 (Target expression (Cantonese))",
-            "完全不看曲譜 (Target expression (Cantonese))",
-            "單純拼湊英文單詞 (Target expression (Cantonese))"
+            "隨便亂填) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)",
+            "完全不看曲譜) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)",
+            "單純拼湊英文單詞) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)"
           ],
           "answerIndex": 0,
           "explanation": "「協音（依聲填詞）」為粵語流行歌曲確保不出現「倒字」現象之核心創作法則。"
@@ -11846,9 +11846,9 @@
           "prompt": "【經典名曲】由黃霑填詞、羅文演唱，深刻凝聚香港草根同舟共濟與逆境拼搏精神之代表歌曲係：",
           "options": [
             "《獅子山下》 (Below the Lion Rock)",
-            "《兩隻老虎》 (Target expression (Cantonese))",
-            "《小星星》 (Target expression (Cantonese))",
-            "《生日快樂》 (Target expression (Cantonese))"
+            "《兩隻老虎》) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)",
+            "《小星星》) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)",
+            "《生日快樂》) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)"
           ],
           "answerIndex": 0,
           "explanation": "《獅子山下》為黃霑填詞之不朽名作，被視為香港奮鬥精神之精神像徵。"
@@ -11862,9 +11862,9 @@
           "prompt": "【詞壇宗師】創作逾三千首歌詞、將佛學禪理與現代都市情感完美融合、寫下《約定》《富士山下》之詞壇泰斗係：",
           "options": [
             "林夕 (Lin Xi)",
-            "徐志摩 (Target expression (Cantonese))",
-            "戴望舒 (Target expression (Cantonese))",
-            "海子 (Target expression (Cantonese))"
+            "徐志摩) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)",
+            "戴望舒) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)",
+            "海子) (Context: 粵語流行曲（Cantopop）經典填詞藝術：黃霑、林夕、黃偉文之詩化修)"
           ],
           "answerIndex": 0,
           "explanation": "林夕為當代華語樂壇最具影響力與文學深度之填詞大家。"
@@ -11913,9 +11913,9 @@
           "prompt": "【核心精神】象徵香港草根大眾同舟共濟、勤勞勇敢、在逆境中互助拼搏之核心精神象徵係：",
           "options": [
             "獅子山精神 (Lion Rock Spirit)",
-            "逃避主義 (Target expression (Cantonese))",
-            "拜金主義 (Target expression (Cantonese))",
-            "得過且過 (Target expression (Cantonese))"
+            "逃避主義) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)",
+            "拜金主義) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)",
+            "得過且過) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)"
           ],
           "answerIndex": 0,
           "explanation": "「獅子山精神」為香港社會最核心、最受推崇之集體拼搏與互助精神象徵。"
@@ -11928,9 +11928,9 @@
           "prompt": "【文化特質】形容香港流行文化既具備高雅深刻之藝術品味，又能被廣大普通市民大眾所喜愛欣賞之成語係：",
           "options": [
             "雅俗共賞 (Appealing to both refined and popular tastes)",
-            "孤芳自賞 (Target expression (Cantonese))",
-            "曲高和寡 (Target expression (Cantonese))",
-            "庸俗不堪 (Target expression (Cantonese))"
+            "孤芳自賞) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)",
+            "曲高和寡) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)",
+            "庸俗不堪) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)"
           ],
           "answerIndex": 0,
           "explanation": "「雅俗共賞」精確概括了香港武俠文學、電影與粵語金曲跨越階層之傳播魅力。"
@@ -11944,9 +11944,9 @@
           "prompt": "【文化研究】當代文化研究中，用以描述香港文化兼具嶺南底蘊、西方制度與全球流行元素之理論概念係：",
           "options": [
             "文化雜糅性 / 混血性 (Cultural Hybridity)",
-            "單一封閉性 (Target expression (Cantonese))",
-            "完全同質化 (Target expression (Cantonese))",
-            "原始未開化 (Target expression (Cantonese))"
+            "單一封閉性) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)",
+            "完全同質化) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)",
+            "原始未開化) (Context: 香港本土文化身分認同、獅子山精神與當代流行文化研究：「雅俗共賞」、「香)"
           ],
           "answerIndex": 0,
           "explanation": "「文化雜糅性（Cultural Hybridity）」為香港文化研究中最核心之理論闡釋架構。"
@@ -11995,9 +11995,9 @@
           "prompt": "【前沿科技】以海量數據為基礎、能夠進行複雜語言生成與邏輯推理之核心AI技術架構稱為：",
           "options": [
             "大語言模型 (Large Language Model / LLM)",
-            "算盤珠心算 (Target expression (Cantonese))",
-            "打字機打字 (Target expression (Cantonese))",
-            "機械發條鐘 (Target expression (Cantonese))"
+            "算盤珠心算) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)",
+            "打字機打字) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)",
+            "機械發條鐘) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)"
           ],
           "answerIndex": 0,
           "explanation": "「大語言模型（LLM）」為當代生成式人工智能之核心技術基石。"
@@ -12010,9 +12010,9 @@
           "prompt": "【技術工程】為使預訓練AI模型更貼合特定領域專業知識或具體應用場景所進行之針對性參數調整過程係：",
           "options": [
             "微調 (Fine-tuning / Mei4 tiu4)",
-            "格式化全盤清空 (Target expression (Cantonese))",
-            "拔掉電源關機 (Target expression (Cantonese))",
-            "隨機猜測 (Target expression (Cantonese))"
+            "格式化全盤清空) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)",
+            "拔掉電源關機) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)",
+            "隨機猜測) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)"
           ],
           "answerIndex": 0,
           "explanation": "「微調（Fine-tuning）」係在大模型基礎上調整權重參數以適配專屬垂直領域之核心工藝。"
@@ -12026,9 +12026,9 @@
           "prompt": "【深度學習】深度學習（Deep Learning）之所以具備強大表徵學習能力，主要歸功於其採用咗邊種核心架構：",
           "options": [
             "多層人工神經網絡 (Multilayer Artificial Neural Networks)",
-            "單純手工規則枚舉 (Target expression (Cantonese))",
-            "隨機亂數生成器 (Target expression (Cantonese))",
-            "機械指針齒輪 (Target expression (Cantonese))"
+            "單純手工規則枚舉) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)",
+            "隨機亂數生成器) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)",
+            "機械指針齒輪) (Context: 人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型)"
           ],
           "answerIndex": 0,
           "explanation": "深度學習依托多層人工神經網絡實現對高維非線性特徵之自主提取與擬合。"
@@ -12077,9 +12077,9 @@
           "prompt": "【區塊鏈應用】在區塊鏈上部署、當預設條件被觸發時自動無偏差執行之程序代碼稱為：",
           "options": [
             "智能合約 (Smart Contracts / Zi3 nang4 hap6 joek3)",
-            "口頭協議 (Target expression (Cantonese))",
-            "手寫收據 (Target expression (Cantonese))",
-            "傳真文件 (Target expression (Cantonese))"
+            "口頭協議) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)",
+            "手寫收據) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)",
+            "傳真文件) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)"
           ],
           "answerIndex": 0,
           "explanation": "「智能合約（Smart Contracts）」為去中心化應用中自動執行條款之核心技術。"
@@ -12092,9 +12092,9 @@
           "prompt": "【金融監管】允許金融科技初創企業在真實市場環境但受限範圍內測試創新產品之監管機制稱為：",
           "options": [
             "監管沙盒 (Regulatory Sandbox / Gaam1 gun2 saa1 haap6)",
-            "全面禁止創新 (Target expression (Cantonese))",
-            "放任自流不予監管 (Target expression (Cantonese))",
-            "強制關閉業務 (Target expression (Cantonese))"
+            "全面禁止創新) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)",
+            "放任自流不予監管) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)",
+            "強制關閉業務) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)"
           ],
           "answerIndex": 0,
           "explanation": "「監管沙盒（Regulatory Sandbox）」為平衡金融創新與風險防控之標誌性監管制度。"
@@ -12108,9 +12108,9 @@
           "prompt": "【合規義務】金融機構為防止不法資金透過金融體系合法化，必須強制嚴格落實之合規審查條例係：",
           "options": [
             "反洗黑錢條例（AML）與認識你的客戶（KYC） (Anti-Money Laundering & KYC)",
-            "單純登記用戶暱稱 (Target expression (Cantonese))",
-            "免除一切身分核實 (Target expression (Cantonese))",
-            "允許匿名大額跨境轉賬 (Target expression (Cantonese))"
+            "單純登記用戶暱稱) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)",
+            "免除一切身分核實) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)",
+            "允許匿名大額跨境轉賬) (Context: 金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中)"
           ],
           "answerIndex": 0,
           "explanation": "AML（反洗黑錢）與KYC（客戶身分識別）為全球金融機構營運之法定底線。"
@@ -12159,9 +12159,9 @@
           "prompt": "【臨床試驗】在醫學實驗中，為徹底消除受試患者同醫生雙方之主觀心理暗示所採用之標準科研方法係：",
           "options": [
             "雙盲測試 (Double-blind test / Soeng1 mong4 cak1 si3)",
-            "隨意公開測試 (Target expression (Cantonese))",
-            "單純問卷調查 (Target expression (Cantonese))",
-            "口頭訪問 (Target expression (Cantonese))"
+            "隨意公開測試) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)",
+            "單純問卷調查) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)",
+            "口頭訪問) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)"
           ],
           "answerIndex": 0,
           "explanation": "「雙盲測試（Double-blind trial）」為國際醫學臨床試驗最高標準之黃金準則。"
@@ -12174,9 +12174,9 @@
           "prompt": "【精準醫療】針對癌細胞特定突變基因或受體分子進行精準打擊、對正常組織損傷極小之現代療法係：",
           "options": [
             "標靶治療 (Targeted therapy / Biu1 baa3 zi6 liu4)",
-            "大劑量普通化療 (Target expression (Cantonese))",
-            "傳統放血療法 (Target expression (Cantonese))",
-            "單純休息靜養 (Target expression (Cantonese))"
+            "大劑量普通化療) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)",
+            "傳統放血療法) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)",
+            "單純休息靜養) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)"
           ],
           "answerIndex": 0,
           "explanation": "「標靶治療（Targeted Therapy）」為現代精準腫瘤醫學之重大突破。"
@@ -12190,9 +12190,9 @@
           "prompt": "【前沿生物】利用CRISPR分子剪刀對生物基因組特定序列進行精確修改之尖端生物技術係：",
           "options": [
             "基因編輯 (Gene editing / CRISPR-Cas9)",
-            "普通血液透析 (Target expression (Cantonese))",
-            "X光骨骼透視 (Target expression (Cantonese))",
-            "心電圖檢查 (Target expression (Cantonese))"
+            "普通血液透析) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)",
+            "X光骨骼透視) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)",
+            "心電圖檢查) (Context: 生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編)"
           ],
           "answerIndex": 0,
           "explanation": "「基因編輯（Gene Editing）」為當代分子生物學中革命性之基因操作工具。"
@@ -12241,9 +12241,9 @@
           "prompt": "【學術寫作】在論文開篇部分，系統梳理前人研究成果並精確指出既有研究不足之章節稱為：",
           "options": [
             "文獻探討 / 文獻綜述 (Literature Review / Man4 hin3 taam3 tou2)",
-            "隨手日記 (Target expression (Cantonese))",
-            "純個人抒情 (Target expression (Cantonese))",
-            "小說創作 (Target expression (Cantonese))"
+            "隨手日記) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)",
+            "純個人抒情) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)",
+            "小說創作) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)"
           ],
           "answerIndex": 0,
           "explanation": "「文獻探討（Literature Review）」為確立研究價值與理論起點之必備核心章節。"
@@ -12256,9 +12256,9 @@
           "prompt": "【統計分析】在定量實證研究中，用以表明研究結果並非出於隨機偶然、具備科學可靠性之核心概念係：",
           "options": [
             "統計顯著性 (Statistical Significance / Tung2 gai3 hin2 zoek3 sing3)",
-            "主觀直覺感應 (Target expression (Cantonese))",
-            "個人偏好猜測 (Target expression (Cantonese))",
-            "拋硬幣決定 (Target expression (Cantonese))"
+            "主觀直覺感應) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)",
+            "個人偏好猜測) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)",
+            "拋硬幣決定) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)"
           ],
           "answerIndex": 0,
           "explanation": "「統計顯著性（Statistical Significance）」為實證定量分析中驗證假說之標準科學判據。"
@@ -12272,9 +12272,9 @@
           "prompt": "【審稿機制】國際權威學術期刊為確保論文學術質量與客觀公正所普遍採用的審稿機制係：",
           "options": [
             "雙向匿名同行評審 (Double-blind Peer Review)",
-            "作者自審自發 (Target expression (Cantonese))",
-            "商業廣告競價排名 (Target expression (Cantonese))",
-            "社交媒體投票 (Target expression (Cantonese))"
+            "作者自審自發) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)",
+            "商業廣告競價排名) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)",
+            "社交媒體投票) (Context: 高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計)"
           ],
           "answerIndex": 0,
           "explanation": "「同行評審（Peer Review）」為現代國際學術出版與科學共同體驗證學術成果之基石。"
@@ -12323,9 +12323,9 @@
           "prompt": "【科技倫理】因訓練數據存在偏頗而導致AI決策系統對特定群體產生不公評判之現象稱為：",
           "options": [
             "算法偏見 (Algorithmic Bias / Syun3 faat3 pin1 gin3)",
-            "完全客觀公正 (Target expression (Cantonese))",
-            "絕對完美無瑕 (Target expression (Cantonese))",
-            "硬件電路故障 (Target expression (Cantonese))"
+            "完全客觀公正) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)",
+            "絕對完美無瑕) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)",
+            "硬件電路故障) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)"
           ],
           "answerIndex": 0,
           "explanation": "「算法偏見（Algorithmic Bias）」為當前人工智能倫理治理中最關鍵之核心議題。"
@@ -12338,9 +12338,9 @@
           "prompt": "【公共政策】在重大科技風險或危機發生前預先制定防範對策與監管法規之成語係：",
           "options": [
             "未雨綢繆 (Preparing in advance / Mei6 jyu5 cau4 mau4)",
-            "臨渴掘井 (Target expression (Cantonese))",
-            "亡羊補牢 (Target expression (Cantonese))",
-            "坐以待斃 (Target expression (Cantonese))"
+            "臨渴掘井) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)",
+            "亡羊補牢) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)",
+            "坐以待斃) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)"
           ],
           "answerIndex": 0,
           "explanation": "「未雨綢繆」常用於科技政策前瞻性制定與前沿風險防範語境。"
@@ -12354,9 +12354,9 @@
           "prompt": "【科技治理】現代科技創新與數字化轉型必須恪守之核心倫理指導原則係：",
           "options": [
             "以人為本、科技向善 (Human-centered & Technology for Good)",
-            "利潤至上不顧後果 (Target expression (Cantonese))",
-            "肆意侵犯個人私隱 (Target expression (Cantonese))",
-            "全面推行算法壟斷 (Target expression (Cantonese))"
+            "利潤至上不顧後果) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)",
+            "肆意侵犯個人私隱) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)",
+            "全面推行算法壟斷) (Context: 科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「)"
           ],
           "answerIndex": 0,
           "explanation": "「以人為本、科技向善」為全球公認之科技治理與可持續發展最高準則。"
@@ -12405,9 +12405,9 @@
           "prompt": "【電影運動】二十世紀七十年代末在香港興起、由許鞍華徐克等年輕導演推動之視聽美學革命稱為：",
           "options": [
             "香港電影新浪潮 (Hong Kong New Wave Cinema / San1 long6 ciu4)",
-            "黑白默片運動 (Target expression (Cantonese))",
-            "皮影戲巡演 (Target expression (Cantonese))",
-            "純商業廣告片潮 (Target expression (Cantonese))"
+            "黑白默片運動) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )",
+            "皮影戲巡演) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )",
+            "純商業廣告片潮) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )"
           ],
           "answerIndex": 0,
           "explanation": "「香港電影新浪潮」為香港電影邁向現代主義與作者電影美學之關鍵里程碑。"
@@ -12420,9 +12420,9 @@
           "prompt": "【影壇巨匠】執導《投奔怒海》、《女人四十》、《桃姐》，榮獲威尼斯影展終身成就金獅獎之香港女導演係：",
           "options": [
             "許鞍華 (Ann Hui)",
-            "宮崎駿 (Target expression (Cantonese))",
-            "黑澤明 (Target expression (Cantonese))",
-            "奉俊昊 (Target expression (Cantonese))"
+            "宮崎駿) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )",
+            "黑澤明) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )",
+            "奉俊昊) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )"
           ],
           "answerIndex": 0,
           "explanation": "許鞍華為香港新浪潮領軍人物及享譽全球之電影大師。"
@@ -12436,9 +12436,9 @@
           "prompt": "【美學風格】香港新浪潮電影在製作手法上最顯著區別於傳統片場電影之核心特點係：",
           "options": [
             "走出攝影棚、大量採用真實街頭社區進行菲林實景拍攝 (On-location street shooting in authentic communities)",
-            "全片只在單一綠幕前用電腦合成 (Target expression (Cantonese))",
-            "完全不使用任何真實演員 (Target expression (Cantonese))",
-            "禁止在香港本地取景 (Target expression (Cantonese))"
+            "全片只在單一綠幕前用電腦合成) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )",
+            "完全不使用任何真實演員) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )",
+            "禁止在香港本地取景) (Context: 香港新浪潮電影運動：許鞍華、徐克、譚家明之紀實美學與視聽革新 (HK )"
           ],
           "answerIndex": 0,
           "explanation": "深入香港本土社區進行實景拍攝為新浪潮紀實寫實美學之標誌性特徵。"
@@ -12487,9 +12487,9 @@
           "prompt": "【剪接手法】在電影中將兩條或多條在不同空間同時發生的劇情線索交替剪接在一起之蒙太奇手法係：",
           "options": [
             "交叉剪接 / 平行蒙太奇 (Cross-cutting / Gaau1 caa1 zin2 zip3)",
-            "單純黑屏暫停 (Target expression (Cantonese))",
-            "快進十倍播放 (Target expression (Cantonese))",
-            "隨意刪除素材 (Target expression (Cantonese))"
+            "單純黑屏暫停) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)",
+            "快進十倍播放) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)",
+            "隨意刪除素材) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)"
           ],
           "answerIndex": 0,
           "explanation": "「交叉剪接（Cross-cutting）」為電影營造緊迫懸念與時空交織感最經典之剪接語法。"
@@ -12502,9 +12502,9 @@
           "prompt": "【視聽修辭】電影中背景聲音（如歡快音樂）與畫面內容（如悲慘處境）形成鮮明反差與諷刺效果之手法稱為：",
           "options": [
             "聲畫對位 (Audiovisual Counterpoint / Seng1 waa2 deoi3 wai6)",
-            "無聲靜音 (Target expression (Cantonese))",
-            "噪聲干擾 (Target expression (Cantonese))",
-            "設備短路 (Target expression (Cantonese))"
+            "無聲靜音) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)",
+            "噪聲干擾) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)",
+            "設備短路) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)"
           ],
           "answerIndex": 0,
           "explanation": "「聲畫對位」透過視聽反差營造深刻之象徵寓意與哲學思辨空間。"
@@ -12518,9 +12518,9 @@
           "prompt": "【攝影技術】在電影拍攝中，攝影機不中斷且持續跟隨角色運動或場景流轉之單一鏡頭稱為：",
           "options": [
             "長鏡頭 (Long Take / Coeng4 geng3 tau4)",
-            "定格照片 (Target expression (Cantonese))",
-            "幻燈片切換 (Target expression (Cantonese))",
-            "一秒快速閃爍 (Target expression (Cantonese))"
+            "定格照片) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)",
+            "幻燈片切換) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)",
+            "一秒快速閃爍) (Context: 電影視聽語言：鏡頭調度、蒙太奇剪接與光影色彩美學 (Cinematog)"
           ],
           "answerIndex": 0,
           "explanation": "「長鏡頭（Long Take）」能夠完整保留時空連續性與現場氛圍之真實張力。"
@@ -12569,9 +12569,9 @@
           "prompt": "【紀錄片流派】強調攝影機盡可能不干預被拍攝對象、客觀真實記錄事件自然生長之紀錄片流派係：",
           "options": [
             "直接電影 (Direct Cinema / Zik6 zip3 din6 jing2)",
-            "荷里活特效科幻片 (Target expression (Cantonese))",
-            "舞台情景喜劇 (Target expression (Cantonese))",
-            "劇本虛構電影 (Target expression (Cantonese))"
+            "荷里活特效科幻片) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()",
+            "舞台情景喜劇) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()",
+            "劇本虛構電影) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()"
           ],
           "answerIndex": 0,
           "explanation": "「直接電影（Direct Cinema）」主張客觀觀察，被譽為紀錄片真實性之核心範式。"
@@ -12584,9 +12584,9 @@
           "prompt": "【影壇名作】榮獲金馬獎最佳紀錄片、由張經緯導演深入跟拍音樂少年黃家正成長困惑之香港名片係：",
           "options": [
             "《音樂人生》 (KJ: Music and Life / Jam1 ngok6 jan4 sang1)",
-            "《阿凡達》 (Target expression (Cantonese))",
-            "《變形金剛》 (Target expression (Cantonese))",
-            "《復仇者聯盟》 (Target expression (Cantonese))"
+            "《阿凡達》) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()",
+            "《變形金剛》) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()",
+            "《復仇者聯盟》) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()"
           ],
           "answerIndex": 0,
           "explanation": "《音樂人生》為香港紀錄片史上口碑與藝術成就極高之經典代表作。"
@@ -12600,9 +12600,9 @@
           "prompt": "【非虛構價值】優秀紀錄片之所以具備跨越時空之震撼力量，其最根本之核心價值在於：",
           "options": [
             "真實記錄社會現實、作為時代見證並傳遞深厚之人文關懷 (Authentic witness of era & profound humanist empathy)",
-            "純粹追求商業票房最大化 (Target expression (Cantonese))",
-            "完全脫離現實虛構劇情 (Target expression (Cantonese))",
-            "使用炫目電腦特效掩蓋內容空洞 (Target expression (Cantonese))"
+            "純粹追求商業票房最大化) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()",
+            "完全脫離現實虛構劇情) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()",
+            "使用炫目電腦特效掩蓋內容空洞) (Context: 香港紀錄片與社會現實關懷：「時代見證」、「真實呈現」、「人文溫度」 ()"
           ],
           "answerIndex": 0,
           "explanation": "真實呈現歷史變遷與人文關懷係紀錄片最核心之精神內核。"
@@ -12651,9 +12651,9 @@
           "prompt": "【影視分發】打破傳統實體電影院排片限制、透過互聯網向全球用戶提供即時影音點播之平台形式稱為：",
           "options": [
             "網絡串流平台 (Streaming Platforms / Cyun3 lau4 ping4 toi4)",
-            "錄影帶租賃小店 (Target expression (Cantonese))",
-            "露天黑白放映隊 (Target expression (Cantonese))",
-            "實體光盤售賣攤 (Target expression (Cantonese))"
+            "錄影帶租賃小店) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)",
+            "露天黑白放映隊) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)",
+            "實體光盤售賣攤) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)"
           ],
           "answerIndex": 0,
           "explanation": "「網絡串流平台（Streaming Platforms）」為數字時代全球影視分發之主導形態。"
@@ -12666,9 +12666,9 @@
           "prompt": "【產業模式】香港電影製作團隊與內地資本及市場深度合作、在CEPA框架下共同投資拍攝之電影類型稱為：",
           "options": [
             "合拍片 (Coproductions / Hap6 paak3 pin3)",
-            "純個人家庭錄像 (Target expression (Cantonese))",
-            "未經授權盜版片 (Target expression (Cantonese))",
-            "單純進口引進片 (Target expression (Cantonese))"
+            "純個人家庭錄像) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)",
+            "未經授權盜版片) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)",
+            "單純進口引進片) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)"
           ],
           "answerIndex": 0,
           "explanation": "「合拍片」為二十一世紀華語電影產業規模化與跨地域合作之核心模式。"
@@ -12682,9 +12682,9 @@
           "prompt": "【文創戰略】以核心文學或動漫角色世界觀為基礎、進行全產業鏈多維度影視與衍生產品開發之過程稱為：",
           "options": [
             "IP孵化與衍生開發 (IP Incubation & Derivative Development)",
-            "隨意抄襲翻拍 (Target expression (Cantonese))",
-            "一次性短期投機 (Target expression (Cantonese))",
-            "徹底封存版權 (Target expression (Cantonese))"
+            "隨意抄襲翻拍) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)",
+            "一次性短期投機) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)",
+            "徹底封存版權) (Context: 串流平台時代之影視轉型與跨國合拍片策略：「網絡串流」、「合拍片」、「I)"
           ],
           "answerIndex": 0,
           "explanation": "「IP孵化」為文創產業實現長期品牌價值積累與商業變現之重要戰略。"
@@ -12733,9 +12733,9 @@
           "prompt": "【批評理論】在電影評論中，用以分析影片如何與其他經典文學名著或影視文本產生跨時空對話與引申之理論概念係：",
           "options": [
             "互文性 (Intertextuality / Wu6 man4 sing3)",
-            "完全抄襲 (Target expression (Cantonese))",
-            "毫無關聯 (Target expression (Cantonese))",
-            "偶然巧合 (Target expression (Cantonese))"
+            "完全抄襲) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)",
+            "毫無關聯) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)",
+            "偶然巧合) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)"
           ],
           "answerIndex": 0,
           "explanation": "「互文性（Intertextuality）」為當代文藝理論中揭示文本間對話與文化引申之核心範式。"
@@ -12748,9 +12748,9 @@
           "prompt": "【符號分析】將電影中的鏡頭、光線、色彩與道具作為具備特定隱喻含義之符號體系進行嚴密剖析之學術方法係：",
           "options": [
             "視聽符號學 (Film Semiotics / Si6 ting1 fu4 hou4 hok6)",
-            "隨意主觀猜謎 (Target expression (Cantonese))",
-            "單純八卦緋聞 (Target expression (Cantonese))",
-            "票房商業統計 (Target expression (Cantonese))"
+            "隨意主觀猜謎) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)",
+            "單純八卦緋聞) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)",
+            "票房商業統計) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)"
           ],
           "answerIndex": 0,
           "explanation": "「視聽符號學（Film Semiotics）」為電影美學分析中精確解讀影像深層隱喻之科學工具。"
@@ -12764,9 +12764,9 @@
           "prompt": "【影評高度】一篇具備高度學術價值與思想深度之高階電影評論，其核心評價維度應聚焦於：",
           "options": [
             "視聽語言創新性、思想哲學厚度及對人性與時代命題之深刻剖析 (Audiovisual innovation, philosophical depth & profound inquiry into humanity & era)",
-            "單純宣洩個人追星情緒 (Target expression (Cantonese))",
-            "只複述電影官方劇情簡介 (Target expression (Cantonese))",
-            "完全按照商業利益評分 (Target expression (Cantonese))"
+            "單純宣洩個人追星情緒) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)",
+            "只複述電影官方劇情簡介) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)",
+            "完全按照商業利益評分) (Context: 高階影評寫作、美學思辨與電影哲學：「互文性」、「視聽符號學」、「解構主)"
           ],
           "answerIndex": 0,
           "explanation": "高階影評依托嚴謹之視聽語法與思想厚度，實現對作品之哲學級審美昇華。"
@@ -12815,9 +12815,9 @@
           "prompt": "【法律體系】普通法體系中下級法院在裁判同類案件時必須嚴格遵從上級法院既有判例之核心司法原則稱為：",
           "options": [
             "遵循先例原則 (Doctrine of Precedent / Stare Decisis)",
-            "隨意自行裁量 (Target expression (Cantonese))",
-            "每年重新立法 (Target expression (Cantonese))",
-            "由當事人抽籤決定 (Target expression (Cantonese))"
+            "隨意自行裁量) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)",
+            "每年重新立法) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)",
+            "由當事人抽籤決定) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)"
           ],
           "answerIndex": 0,
           "explanation": "「遵循先例原則（Stare Decisis）」為普通法體系確定性與連續性之最核心基石。"
@@ -12830,9 +12830,9 @@
           "prompt": "【司法架構】香港特區法院體系中享有最高司法審判權與最終裁決權之司法機構係：",
           "options": [
             "香港終審法院 (Hong Kong Court of Final Appeal / Zung1 sam2 faat3 jyun6)",
-            "裁判法院 (Target expression (Cantonese))",
-            "勞資審裁處 (Target expression (Cantonese))",
-            "淫褻物品審裁處 (Target expression (Cantonese))"
+            "裁判法院) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)",
+            "勞資審裁處) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)",
+            "淫褻物品審裁處) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)"
           ],
           "answerIndex": 0,
           "explanation": "香港終審法院為香港特別行政區最高級別之終審司法機構。"
@@ -12846,9 +12846,9 @@
           "prompt": "【憲制地位】香港特別行政區之所以能夠在中國境內保持普通法制度，其最根本之憲制法律依據係：",
           "options": [
             "《中華人民共和國香港特別行政區基本法》 (The Basic Law of the HKSAR)",
-            "中世紀大憲章 (Target expression (Cantonese))",
-            "外國商會協議 (Target expression (Cantonese))",
-            "民間習慣法 (Target expression (Cantonese))"
+            "中世紀大憲章) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)",
+            "外國商會協議) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)",
+            "民間習慣法) (Context: 香港普通法體系之源流與憲制基礎：「判例法」、「遵循先例」、「司法獨立」)"
           ],
           "answerIndex": 0,
           "explanation": "《香港基本法》在憲制層面確立並保障了香港維持普通法制度與司法獨立。"
@@ -12897,9 +12897,9 @@
           "prompt": "【刑事原則】普通法刑事訴訟中，在法院依法審測定罪前將一切被告人假定為無罪之黃金原則係：",
           "options": [
             "無罪推定原則 (Presumption of Innocence / Mou4 zeoi6 teoi1 ding6)",
-            "有罪推定 (Target expression (Cantonese))",
-            "先入為主定罪 (Target expression (Cantonese))",
-            "以口供為唯一依據 (Target expression (Cantonese))"
+            "有罪推定) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)",
+            "先入為主定罪) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)",
+            "以口供為唯一依據) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)"
           ],
           "answerIndex": 0,
           "explanation": "「無罪推定」為文明司法制度中保障人身權利與防止冤假錯案之底線基石。"
@@ -12912,9 +12912,9 @@
           "prompt": "【律師分工】在香港法律體系中，獲專門認可出庭進行高級別訴訟辯護與口頭陳詞之法律專家係：",
           "options": [
             "大律師 / 大狀 (Barrister / Daai6 leot6 si1)",
-            "房地產經紀 (Target expression (Cantonese))",
-            "物業管理員 (Target expression (Cantonese))",
-            "會計記賬員 (Target expression (Cantonese))"
+            "房地產經紀) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)",
+            "物業管理員) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)",
+            "會計記賬員) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)"
           ],
           "answerIndex": 0,
           "explanation": "香港大律師（Barrister）專精於法庭訴訟、盤問與法律論辯。"
@@ -12928,9 +12928,9 @@
           "prompt": "【證明標準】在普通法刑事案件中，控方欲指控被告有罪所必須達到的最高法律證明標準係：",
           "options": [
             "排除合理疑點 (Beyond Reasonable Doubt / Paai4 ceoi4 hap6 lei5 ji4 dim2)",
-            "五成可能性的蓋然性權衡 (Target expression (Cantonese))",
-            "主觀直覺懷疑 (Target expression (Cantonese))",
-            "媒體輿論傾向 (Target expression (Cantonese))"
+            "五成可能性的蓋然性權衡) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)",
+            "主觀直覺懷疑) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)",
+            "媒體輿論傾向) (Context: 法庭審訊程序與訴訟話語：「大律師與事務律師」、「無罪推定」、「舉證責任)"
           ],
           "answerIndex": 0,
           "explanation": "「排除合理疑點（Beyond Reasonable Doubt）」為普通法刑事定罪之法定唯一證明門檻。"
@@ -12979,9 +12979,9 @@
           "prompt": "【侵權法】普通法中規定每個人在行動時對周圍可合理預見會受其行為影響之人負有防範損害義務之核心概念係：",
           "options": [
             "謹慎責任 (Duty of Care / Gan2 san6 zaak3 jam6)",
-            "無限絕對責任 (Target expression (Cantonese))",
-            "互不相干免責 (Target expression (Cantonese))",
-            "純粹道德倡議 (Target expression (Cantonese))"
+            "無限絕對責任) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)",
+            "互不相干免責) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)",
+            "純粹道德倡議) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)"
           ],
           "answerIndex": 0,
           "explanation": "「謹慎責任（Duty of Care）」為侵權法中疏忽責任（Negligence）成立之核心前提。"
@@ -12994,9 +12994,9 @@
           "prompt": "【爭議解決】跨國商業交易中雙方約定由獨立中立之專業第三方機構作出具終局法律效力裁決之非訴訟爭議解決途徑係：",
           "options": [
             "國際商事仲裁 (International Commercial Arbitration / Gwok3 zai3 zung6 coi4)",
-            "網上公開罵戰 (Target expression (Cantonese))",
-            "單方面武力威脅 (Target expression (Cantonese))",
-            "無休止街頭爭吵 (Target expression (Cantonese))"
+            "網上公開罵戰) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)",
+            "單方面武力威脅) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)",
+            "無休止街頭爭吵) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)"
           ],
           "answerIndex": 0,
           "explanation": "「國際商事仲裁（Commercial Arbitration）」為全球商業貿易中首選之爭議解決機制。"
@@ -13010,9 +13010,9 @@
           "prompt": "【違約救濟】當金錢賠償不足以彌補受害方損失時，法院依據衡平法原則命令違約方必須按照原約定履行義務之司法命令稱為：",
           "options": [
             "強制履行令 (Specific Performance / Koeng4 zai3 luk6 hang4 ling6)",
-            "罰款警告信 (Target expression (Cantonese))",
-            "撤銷法庭設立 (Target expression (Cantonese))",
-            "免除全部合同責任 (Target expression (Cantonese))"
+            "罰款警告信) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)",
+            "撤銷法庭設立) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)",
+            "免除全部合同責任) (Context: 民商事法與國際仲裁：「違約損害賠償」、「謹慎責任」、「侵權行為」 (C)"
           ],
           "answerIndex": 0,
           "explanation": "「強制履行令（Specific Performance）」為普通法衡平法體系下極具約束力之違約特殊救濟手段。"
@@ -13061,9 +13061,9 @@
           "prompt": "【法例詮釋】在法例解釋中，法官不局限於法條死板字面、而是探求立法背後整體政策目的與社會宗旨之詮釋方法係：",
           "options": [
             "目的性詮釋法 (Purposive Approach / Muk6 dik1 sing3 kyun4 sik1)",
-            "隨便曲解法條 (Target expression (Cantonese))",
-            "機械字面死扣 (Target expression (Cantonese))",
-            "抽籤決定含義 (Target expression (Cantonese))"
+            "隨便曲解法條) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)",
+            "機械字面死扣) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)",
+            "抽籤決定含義) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)"
           ],
           "answerIndex": 0,
           "explanation": "「目的性詮釋法（Purposive Approach）」為現代普通法法官探求法例精神實質最主流之詮釋準則。"
@@ -13076,9 +13076,9 @@
           "prompt": "【雙語制度】香港《法定語文條例》對香港法例文本法律效力作出的核心規定係：",
           "options": [
             "中文本與英文本同具真準效力 (Chinese and English texts are equally authentic)",
-            "英文本效力永遠高於中文本 (Target expression (Cantonese))",
-            "中文本僅供參考無法律效力 (Target expression (Cantonese))",
-            "只以口頭聲明為準 (Target expression (Cantonese))"
+            "英文本效力永遠高於中文本) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)",
+            "中文本僅供參考無法律效力) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)",
+            "只以口頭聲明為準) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)"
           ],
           "answerIndex": 0,
           "explanation": "香港特區法律規定中英兩種語言文本同具真準法定效力。"
@@ -13092,9 +13092,9 @@
           "prompt": "【法例文本】在法例草擬中，為精確界定特定專有名詞在該部法律中之具體適用範圍所專門設置的法條章節稱為：",
           "options": [
             "釋義與定義條款 (Interpretation and Definition Clauses / Sik1 ji6 tiu4 fun2)",
-            "作者簡介 (Target expression (Cantonese))",
-            "廣告宣傳頁 (Target expression (Cantonese))",
-            "感謝名單 (Target expression (Cantonese))"
+            "作者簡介) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)",
+            "廣告宣傳頁) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)",
+            "感謝名單) (Context: 法律草擬、雙語立法與法庭語言學：「法例詮釋條例」、「字義規則」、「雙語)"
           ],
           "answerIndex": 0,
           "explanation": "「釋義條款（Interpretation Clauses）」為法例起草中鎖定法律術語內涵與外延之核心技術手段。"
@@ -13143,9 +13143,9 @@
           "prompt": "【司法倫理】自然公正原則（Natural Justice）中嚴格規定法官絕不能審理與自己存在利益關聯案件之拉丁法諺係：",
           "options": [
             "任何人不得在自己的案件中擔任法官 (Nemo judex in causa sua)",
-            "法官可以任意接受饋贈 (Target expression (Cantonese))",
-            "法官可以自告自審 (Target expression (Cantonese))",
-            "法官無須迴避利益衝突 (Target expression (Cantonese))"
+            "法官可以任意接受饋贈) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)",
+            "法官可以自告自審) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)",
+            "法官無須迴避利益衝突) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)"
           ],
           "answerIndex": 0,
           "explanation": "「Nemo judex in causa sua」為確保司法公正無偏頗之第一自然正義鐵律。"
@@ -13158,9 +13158,9 @@
           "prompt": "【法學流派】主張法律之上存在著永恆客觀之道德與理性法則、非正義之法律並非真正法律之學派係：",
           "options": [
             "自然法學派 (Natural Law School / Zi6 jin4 faat3 hok6 paai3)",
-            "純粹強權論 (Target expression (Cantonese))",
-            "虛無主義派 (Target expression (Cantonese))",
-            "商業至上派 (Target expression (Cantonese))"
+            "純粹強權論) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)",
+            "虛無主義派) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)",
+            "商業至上派) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)"
           ],
           "answerIndex": 0,
           "explanation": "「自然法學派（Natural Law）」將道德正義與理性視為檢驗法律正當性之最高標準。"
@@ -13174,9 +13174,9 @@
           "prompt": "【法治名言】普通法體系中強調審判程序必須公開透明、公眾必須能夠直觀感受正義得以落實之世界名言係：",
           "options": [
             "正義不僅要得到實現，而且要以讓人看得見的方式實現 (Justice must not only be done, but must also be seen to be done)",
-            "正義可以秘密暗中達成 (Target expression (Cantonese))",
-            "審判結果無須向公眾說明 (Target expression (Cantonese))",
-            "只要目的正確可以不擇手段 (Target expression (Cantonese))"
+            "正義可以秘密暗中達成) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)",
+            "審判結果無須向公眾說明) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)",
+            "只要目的正確可以不擇手段) (Context: 法理學、司法倫理與當代法治思辨：「自然法與實證法」、「實體正義」、「程)"
           ],
           "answerIndex": 0,
           "explanation": "此名言精闢闡明了程序正義（Procedural Justice）對於公眾建立法治信心之不可替代價值。"
@@ -13225,9 +13225,9 @@
           "prompt": "【辯論策略】在辯論中利用對方所提出的論據推導出對方自身論點自相矛盾之經典反駁技法係：",
           "options": [
             "以子之矛，攻子之盾 (Using opponent's spear against their shield)",
-            "直接人身攻擊 (Target expression (Cantonese))",
-            "大聲喧嘩打斷 (Target expression (Cantonese))",
-            "承認對方全對 (Target expression (Cantonese))"
+            "直接人身攻擊) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )",
+            "大聲喧嘩打斷) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )",
+            "承認對方全對) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )"
           ],
           "answerIndex": 0,
           "explanation": "「以子之矛，攻子之盾」為辯論攻防中直擊對方邏輯自洽性漏洞之最高效招式。"
@@ -13240,9 +13240,9 @@
           "prompt": "【立論架構】在辯論開篇環節，確立全場論辯評判依據與核心價值導向之環節稱為：",
           "options": [
             "確立評判標準 (Establishing Evaluation Criteria / Biu1 zeon2)",
-            "隨意講笑話 (Target expression (Cantonese))",
-            "朗讀課文 (Target expression (Cantonese))",
-            "宣布比賽結束 (Target expression (Cantonese))"
+            "隨意講笑話) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )",
+            "朗讀課文) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )",
+            "宣布比賽結束) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )"
           ],
           "answerIndex": 0,
           "explanation": "「評判標準（Criteria）」為政策與價值辯論中決定勝負判定之核心坐標軸。"
@@ -13256,9 +13256,9 @@
           "prompt": "【反駁方法】假定對方荒謬的主張為真、進而順著其邏輯推導出顯然荒謬絕倫之結論以反證其錯誤之邏輯方法係：",
           "options": [
             "歸謬法 (Reductio ad absurdum / Gwai1 mau6 faat3)",
-            "循環論證 (Target expression (Cantonese))",
-            "強詞奪理 (Target expression (Cantonese))",
-            "無效枚舉 (Target expression (Cantonese))"
+            "循環論證) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )",
+            "強詞奪理) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )",
+            "無效枚舉) (Context: 高階辯論架構與立論駁論策略：「立論破題」、「界定概念」、「防守反擊」 )"
           ],
           "answerIndex": 0,
           "explanation": "「歸謬法（Reductio ad absurdum）」為邏輯學與辯論學中極具殺傷力之反駁利器。"
@@ -13307,9 +13307,9 @@
           "prompt": "【邏輯謬誤】曲解或誇大對方觀點、樹立一個虛假極端靶子進行猛烈抨擊之邏輯謬誤稱為：",
           "options": [
             "稻草人謬誤 (Straw Man Fallacy / Dou6 cou2 jan4 mau6 ng6)",
-            "嚴密三段論 (Target expression (Cantonese))",
-            "客觀全面分析 (Target expression (Cantonese))",
-            "實事求是舉證 (Target expression (Cantonese))"
+            "嚴密三段論) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)",
+            "客觀全面分析) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)",
+            "實事求是舉證) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)"
           ],
           "answerIndex": 0,
           "explanation": "「稻草人謬誤（Straw Man Fallacy）」為論辯中歪曲對手立場最常見之形式。"
@@ -13322,9 +13322,9 @@
           "prompt": "【批判思維】在論證中不反駁對方論點論據、而是直接針對論者個人道德人品或出身背景進行攻擊之謬誤係：",
           "options": [
             "訴諸人身謬誤 (Ad Hominem Fallacy / Sou3 zyu1 jan4 san1)",
-            "歸納邏輯 (Target expression (Cantonese))",
-            "演繹推理 (Target expression (Cantonese))",
-            "實證檢驗 (Target expression (Cantonese))"
+            "歸納邏輯) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)",
+            "演繹推理) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)",
+            "實證檢驗) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)"
           ],
           "answerIndex": 0,
           "explanation": "「訴諸人身（Ad Hominem）」屬於典型的轉移論題與關聯性謬誤。"
@@ -13338,9 +13338,9 @@
           "prompt": "【邏輯推演】無合理中間因果鏈條支持、斷言採取微小一步必然導致極端崩潰毀滅之後果之謬誤係：",
           "options": [
             "滑坡謬誤 (Slippery Slope Fallacy / Waat6 bo1 mau6 ng6)",
-            "精確數學模型 (Target expression (Cantonese))",
-            "嚴謹概率統計 (Target expression (Cantonese))",
-            "反證法推理 (Target expression (Cantonese))"
+            "精確數學模型) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)",
+            "嚴謹概率統計) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)",
+            "反證法推理) (Context: 邏輯謬誤批判辨析：「偷換概念」、「稻草人謬誤」、「滑坡謬誤」 (Log)"
           ],
           "answerIndex": 0,
           "explanation": "「滑坡謬誤（Slippery Slope）」透過無限誇大因果連鎖反應製造非理性恐慌。"
@@ -13389,9 +13389,9 @@
           "prompt": "【修辭三要素】亞里士多德修辭學中指演說者透過自身誠信、專業聲譽與道德威望贏得聽眾信任之要素係：",
           "options": [
             "品格說服力 (Ethos / Ban2 gaak3 seoi3 fuk6)",
-            "單純靠聲音大 (Target expression (Cantonese))",
-            "炫耀財富 (Target expression (Cantonese))",
-            "威脅恐嚇 (Target expression (Cantonese))"
+            "單純靠聲音大) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)",
+            "炫耀財富) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)",
+            "威脅恐嚇) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)"
           ],
           "answerIndex": 0,
           "explanation": "「Ethos（品格說服力）」為確立演說者信譽與道德正當性之第一基石。"
@@ -13404,9 +13404,9 @@
           "prompt": "【演說技藝】公共演講中連用三個或以上結構相同、語氣一致的對稱句子以增強說服氣勢之修辭手法係：",
           "options": [
             "排比 (Parallelism / Paai4 bei2)",
-            "語無倫次 (Target expression (Cantonese))",
-            "重複單詞十次 (Target expression (Cantonese))",
-            "小聲耳語 (Target expression (Cantonese))"
+            "語無倫次) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)",
+            "重複單詞十次) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)",
+            "小聲耳語) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)"
           ],
           "answerIndex": 0,
           "explanation": "「排比（Parallelism）」為演說中營造磅礴氣勢與鮮明節奏之標誌性修辭工具。"
@@ -13420,9 +13420,9 @@
           "prompt": "【演講要素】在古典修辭學中，主要透過無可辯駁的客觀數據、實證事實與嚴密邏輯推理進行說服之要素係：",
           "options": [
             "理性邏輯 (Logos / Lei5 sing3 lo4 cap1)",
-            "虛構謠言 (Target expression (Cantonese))",
-            "盲目迷信 (Target expression (Cantonese))",
-            "純粹情緒宣洩 (Target expression (Cantonese))"
+            "虛構謠言) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)",
+            "盲目迷信) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)",
+            "純粹情緒宣洩) (Context: 亞里士多德修辭學三要素：品格（Ethos）、情感（Pathos）與邏輯)"
           ],
           "answerIndex": 0,
           "explanation": "「Logos（理性邏輯）」為一切嚴謹論證與演說中最不可撼動之理性支柱。"
@@ -13471,9 +13471,9 @@
           "prompt": "【危機溝通】在突發公共危機中，機構新聞發言人所必須恪守的第一核心原則係：",
           "options": [
             "第一時間主動公開透明通報真實情況 (Immediate, proactive & transparent disclosure)",
-            "封鎖一切消息 (Target expression (Cantonese))",
-            "長期保持沉默不予理睬 (Target expression (Cantonese))",
-            "推卸責任給受害者 (Target expression (Cantonese))"
+            "封鎖一切消息) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)",
+            "長期保持沉默不予理睬) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)",
+            "推卸責任給受害者) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)"
           ],
           "answerIndex": 0,
           "explanation": "「第一時間主動公開」為危機公關中贏得公眾信任、遏制謠言蔓延之第一黃金鐵律。"
@@ -13486,9 +13486,9 @@
           "prompt": "【答問技巧】發言人在面對偏頗或陷阱提問時、將話題順暢引導回機構核心信息與關鍵事實之公關技巧係：",
           "options": [
             "橋接法 (Bridging Technique / Kiu4 zip3 gei2 hiu2)",
-            "憤怒離場 (Target expression (Cantonese))",
-            "當場辱罵記者 (Target expression (Cantonese))",
-            "編造虛假謊言 (Target expression (Cantonese))"
+            "憤怒離場) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)",
+            "當場辱罵記者) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)",
+            "編造虛假謊言) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)"
           ],
           "answerIndex": 0,
           "explanation": "「橋接法（Bridging）」為新聞發言人掌控發布會主導權之核心專業技能。"
@@ -13502,9 +13502,9 @@
           "prompt": "【公關目的】高水平公共政策溝通與危機新聞發布會之最終核心歸宿在於：",
           "options": [
             "化解公眾疑慮、保障市民知情權並凝聚全社會廣泛共識 (Dispel concerns, ensure public right to know & consolidate social consensus)",
-            "單純掩蓋機構失誤 (Target expression (Cantonese))",
-            "忽悠欺騙公眾 (Target expression (Cantonese))",
-            "展示官僚傲慢 (Target expression (Cantonese))"
+            "單純掩蓋機構失誤) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)",
+            "忽悠欺騙公眾) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)",
+            "展示官僚傲慢) (Context: 公共政策危機溝通與新聞發布會答問：「風險通報」、「澄清謬誤」、「凝聚共)"
           ],
           "answerIndex": 0,
           "explanation": "保障公眾知情權與凝聚社會共識係現代公共政策溝通之根本價值。"
@@ -13635,9 +13635,9 @@
           "prompt": "【廣府建築】嶺南傳統民居中狀如鑊耳、具備防火防風實用功能且象徵獨佔鰲頭之特色山牆稱為：",
           "options": [
             "鑊耳屋 / 鑊耳封火山牆 (Wok-ear gable wall / Wok6 ji5 uk1)",
-            "哥特式尖頂 (Target expression (Cantonese))",
-            "羅馬圓形穹頂 (Target expression (Cantonese))",
-            "茅草圓錐頂 (Target expression (Cantonese))"
+            "哥特式尖頂) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)",
+            "羅馬圓形穹頂) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)",
+            "茅草圓錐頂) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)"
           ],
           "answerIndex": 0,
           "explanation": "「鑊耳封火山牆」為嶺南廣府民居最具標誌性與辨識度之傳統建築符號。"
@@ -13650,9 +13650,9 @@
           "prompt": "【通風智慧】嶺南民居利用狹窄通道與天井高差加速室內熱空氣排出、引入涼風之生態通風構造係：",
           "options": [
             "天井與冷巷 (Courtyards and Cold Alleys / Tin1 zeng2 jyu5 laang5 hong6)",
-            "全封閉玻璃幕牆 (Target expression (Cantonese))",
-            "地下密閉地窖 (Target expression (Cantonese))",
-            "加厚實心牆體 (Target expression (Cantonese))"
+            "全封閉玻璃幕牆) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)",
+            "地下密閉地窖) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)",
+            "加厚實心牆體) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)"
           ],
           "answerIndex": 0,
           "explanation": "「冷巷」利用狹管效應（Venturi Effect）與拔風對流，為濕熱嶺南提供天然降溫空調。"
@@ -13666,9 +13666,9 @@
           "prompt": "【生態適應】嶺南傳統民居建築在構造上最核心之整體設計指導哲學係：",
           "options": [
             "因地制宜、遮陽隔熱、導風散熱與防潮排濕 (Contextual adaptation, sun shading, natural ventilation & moisture removal)",
-            "單純模仿北方防寒厚牆 (Target expression (Cantonese))",
-            "完全忽略本地濕熱氣候 (Target expression (Cantonese))",
-            "只追求形式奢華浪費 (Target expression (Cantonese))"
+            "單純模仿北方防寒厚牆) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)",
+            "完全忽略本地濕熱氣候) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)",
+            "只追求形式奢華浪費) (Context: 嶺南廣府民居建築特徵：鑊耳屋、天井採光與防潮散熱智慧 (Cantone)"
           ],
           "answerIndex": 0,
           "explanation": "因地制宜適應濕熱氣候係嶺南傳統建築最寶貴之生態建築智慧。"
@@ -13717,9 +13717,9 @@
           "prompt": "【名園名言】番禺餘蔭山房在有限的三畝土地內創造出極其開闊深遠之山水層次，其最著名之造園格言係：",
           "options": [
             "縮龍成寸，小中見大 (Condensing dragon to an inch, seeing the great in the small)",
-            "大興土木，耗資巨萬 (Target expression (Cantonese))",
-            "全盤西化，照抄洋樓 (Target expression (Cantonese))",
-            "寸草不生，鋪滿水泥 (Target expression (Cantonese))"
+            "大興土木，耗資巨萬) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)",
+            "全盤西化，照抄洋樓) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)",
+            "寸草不生，鋪滿水泥) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)"
           ],
           "answerIndex": 0,
           "explanation": "「縮龍成寸，小中見大」為嶺南園林在方寸之間營造萬千氣象之核心造園哲學。"
@@ -13732,9 +13732,9 @@
           "prompt": "【園林構件】嶺南園林中將西洋彩色玻璃與傳統木格扇巧妙結合、呈現絢麗光影效果之標誌性窗櫺裝飾係：",
           "options": [
             "滿洲窗 (Manchu Stained-glass Windows / Mun5 zau1 coeng1)",
-            "普通塑料窗 (Target expression (Cantonese))",
-            "鋁合金推拉窗 (Target expression (Cantonese))",
-            "鋼化防盜窗 (Target expression (Cantonese))"
+            "普通塑料窗) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)",
+            "鋁合金推拉窗) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)",
+            "鋼化防盜窗) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)"
           ],
           "answerIndex": 0,
           "explanation": "「滿洲窗」為嶺南園林中西文化交融與光影美學之璀璨明珠。"
@@ -13748,9 +13748,9 @@
           "prompt": "【名園總攬】以下哪一組完全屬於中國著名的「嶺南四大名園」：",
           "options": [
             "順德清暉園、番禺餘蔭山房、佛山梁園、東莞可園 (Qinghui, Yuyin, Liangyuan, Keyuan)",
-            "拙政園、留園、網師園、滄浪亭 (Target expression (Cantonese))",
-            "頤和園、圓明園、避暑山莊、北海公園 (Target expression (Cantonese))",
-            "凡爾賽宮、楓丹白露、無憂宮、冬宮 (Target expression (Cantonese))"
+            "拙政園、留園、網師園、滄浪亭) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)",
+            "頤和園、圓明園、避暑山莊、北海公園) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)",
+            "凡爾賽宮、楓丹白露、無憂宮、冬宮) (Context: 嶺南四大名園：清暉園、餘蔭山房、梁園、可園之造園藝術)"
           ],
           "answerIndex": 0,
           "explanation": "清暉園、餘蔭山房、梁園、可園合稱為嶺南古典園林之四大代表瑰寶。"
@@ -13799,9 +13799,9 @@
           "prompt": "【建築工藝】以石灰、礦物顏料及植物纖維為原料、在嶺南古建築屋脊與山牆上立體堆塑之耐風雨傳統工藝係：",
           "options": [
             "灰塑 / 灰批 (Lime Plaster Relief / Fui1 sok3)",
-            "普通水泥塗抹 (Target expression (Cantonese))",
-            "油漆塗鴉 (Target expression (Cantonese))",
-            "石膏翻模 (Target expression (Cantonese))"
+            "普通水泥塗抹) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)",
+            "油漆塗鴉) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)",
+            "石膏翻模) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)"
           ],
           "answerIndex": 0,
           "explanation": "「灰塑」為嶺南古建屋脊抵禦亞熱帶狂風暴雨侵蝕之獨門傳統工藝。"
@@ -13814,9 +13814,9 @@
           "prompt": "【古建明珠】匯聚木雕、石雕、磚雕、灰塑、陶塑、嵌瓷等全部工藝精華、被譽為嶺南建築裝飾藝術明珠之廣州古蹟係：",
           "options": [
             "陳家祠 / 陳氏書院 (Chen Clan Ancestral Hall / Can4 gaa1 ci4)",
-            "黃埔軍校舊址 (Target expression (Cantonese))",
-            "廣州電視塔 (Target expression (Cantonese))",
-            "天河體育中心 (Target expression (Cantonese))"
+            "黃埔軍校舊址) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)",
+            "廣州電視塔) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)",
+            "天河體育中心) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)"
           ],
           "answerIndex": 0,
           "explanation": "廣州陳家祠為嶺南傳統民間建築裝飾藝術最高成就之集大成者。"
@@ -13830,9 +13830,9 @@
           "prompt": "【工藝特點】將廢棄或特製的彩色瓷片精確剪裁後拼貼於屋脊龍鳳花鳥飾物上之傳統屋頂裝飾工藝稱為：",
           "options": [
             "嵌瓷 / 剪瓷雕 (Ceramic Mosaic / Ham3 ci4)",
-            "單純玻璃鋼翻制 (Target expression (Cantonese))",
-            "普通彩繪木板 (Target expression (Cantonese))",
-            "金屬鍍膜 (Target expression (Cantonese))"
+            "單純玻璃鋼翻制) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)",
+            "普通彩繪木板) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)",
+            "金屬鍍膜) (Context: 嶺南「三雕一塑」古建裝飾藝術：木雕、石雕、磚雕與灰塑、嵌瓷 (Ling)"
           ],
           "answerIndex": 0,
           "explanation": "「嵌瓷（剪瓷雕）」為潮汕及嶺南地區傲立屋頂風雨百年不褪色之精湛非遺工藝。"
@@ -13881,9 +13881,9 @@
           "prompt": "【香港建築】香港近代典型街道景觀中下層形成通廊人行步道、上居下舖之嶺南中西混合商住建築稱為：",
           "options": [
             "唐樓與騎樓底 (Tong Lau Shophouses & Verandahs / Tong4 lau4)",
-            "現代玻璃超高層 (Target expression (Cantonese))",
-            "野營帆布帳篷 (Target expression (Cantonese))",
-            "單純地下防空洞 (Target expression (Cantonese))"
+            "現代玻璃超高層) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)",
+            "野營帆布帳篷) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)",
+            "單純地下防空洞) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)"
           ],
           "answerIndex": 0,
           "explanation": "「唐樓與騎樓底」為香港十九世紀末至戰前最核心之城市街區形態特徵。"
@@ -13896,9 +13896,9 @@
           "prompt": "【古蹟活化】香港深水埗荔枝角道交界、由雷氏家族捐出並成功活化為浸會大學中醫藥保健中心之名建築係：",
           "options": [
             "雷生春 (Lui Seng Chun / Leoi4 sang1 ceon1)",
-            "中環怡和大廈 (Target expression (Cantonese))",
-            "環球貿易廣場ICC (Target expression (Cantonese))",
-            "香港摩天輪 (Target expression (Cantonese))"
+            "中環怡和大廈) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)",
+            "環球貿易廣場ICC) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)",
+            "香港摩天輪) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)"
           ],
           "answerIndex": 0,
           "explanation": "「雷生春堂」為香港歷史建築活化保育最著名的成功示範標杆之一。"
@@ -13912,9 +13912,9 @@
           "prompt": "【保育理念】現代城市可持續規劃中對待老舊歷史建築群最進步之保護保育理念係：",
           "options": [
             "有機活化、保留歷史肌理並注入現代社區生命力 (Adaptive reuse, preserving urban fabric & community revitalization)",
-            "全盤推倒夷為平地起豪宅 (Target expression (Cantonese))",
-            "全封閉鎖死禁止任何人進入 (Target expression (Cantonese))",
-            "塗抹劣質油漆遮蓋所有痕跡 (Target expression (Cantonese))"
+            "全盤推倒夷為平地起豪宅) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)",
+            "全封閉鎖死禁止任何人進入) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)",
+            "塗抹劣質油漆遮蓋所有痕跡) (Context: 香港近代中西合璧歷史建築：唐樓、騎樓底與法定古蹟活化 (HK Hist)"
           ],
           "answerIndex": 0,
           "explanation": "「有機活化保育」在保留歷史記憶與文脈的同時賦予古建築現代實用功能。"
@@ -13963,9 +13963,9 @@
           "prompt": "【現代建築】廣州白天鵝賓館在中庭內首創、將嶺南傳統水石園林搬入現代五星級酒店之著名室內景觀係：",
           "options": [
             "故鄉水 (Hometown Waters / Gu3 hoeng1 seoi2)",
-            "人工真雪滑雪場 (Target expression (Cantonese))",
-            "室內高速賽車道 (Target expression (Cantonese))",
-            "巨型金屬旋轉木馬 (Target expression (Cantonese))"
+            "人工真雪滑雪場) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)",
+            "室內高速賽車道) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)",
+            "巨型金屬旋轉木馬) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)"
           ],
           "answerIndex": 0,
           "explanation": "白天鵝賓館「故鄉水」室內園林為現代嶺南建築與鄉愁意象融合之世界經典。"
@@ -13978,9 +13978,9 @@
           "prompt": "【建築大師】設計上海世博會中國館（東方之冠）、侵華日軍南京大屠殺遇難同胞紀念館擴建之現代嶺南學派院士建築師係：",
           "options": [
             "何鏡堂院士 (Academician He Jingtang)",
-            "貝聿銘 (Target expression (Cantonese))",
-            "梁思成 (Target expression (Cantonese))",
-            "林徽因 (Target expression (Cantonese))"
+            "貝聿銘) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)",
+            "梁思成) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)",
+            "林徽因) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)"
           ],
           "answerIndex": 0,
           "explanation": "何鏡堂院士為當代嶺南建築學派旗幟性人物及中國工程院院士。"
@@ -13994,9 +13994,9 @@
           "prompt": "【規劃哲學】現代嶺南建築學派在城市空間與建築設計中最核心之空間哲學特徵係：",
           "options": [
             "空間通透、庭園交融、在地氣候主動適應與天人合一 (Spatial permeability, courtyard integration, climate adaptability & harmony with nature)",
-            "全封閉單一火柴盒結構 (Target expression (Cantonese))",
-            "完全脫離周圍自然環境 (Target expression (Cantonese))",
-            "徹底封閉不通風無採光 (Target expression (Cantonese))"
+            "全封閉單一火柴盒結構) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)",
+            "完全脫離周圍自然環境) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)",
+            "徹底封閉不通風無採光) (Context: 現代嶺南建築流派與城市空間可持續規劃哲學：「空間通透」、「在地適應」、)"
           ],
           "answerIndex": 0,
           "explanation": "空間通透、庭園交融與在地氣候適應係現代嶺南建築學派立足世界建築之林的根本靈魂。"
@@ -14045,9 +14045,9 @@
           "prompt": "【國際法原則】《維也納條約法公約》中規定有效條約對締約國具有絕對法律約束力、必須善意履行之拉丁法諺係：",
           "options": [
             "約定必須遵守 (Pacta sunt servanda / Joek3 ding6 bit1 seoi1 zeon1 sau2)",
-            "強權即是真理 (Target expression (Cantonese))",
-            "條約隨時可以單方作廢 (Target expression (Cantonese))",
-            "口頭承諾無須遵守 (Target expression (Cantonese))"
+            "強權即是真理) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)",
+            "條約隨時可以單方作廢) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)",
+            "口頭承諾無須遵守) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)"
           ],
           "answerIndex": 0,
           "explanation": "「約定必須遵守（Pacta sunt servanda）」為國際公法與國際條約法體系中最高級別之根本鐵律。"
@@ -14060,9 +14060,9 @@
           "prompt": "【締約程序】國家元首或外長出具證明代表享有合法權限談判並簽署國際條約之法定權力憑證係：",
           "options": [
             "全權證書 (Full Powers / Cyun4 kyun4 zing3 syu1)",
-            "普通商業名片 (Target expression (Cantonese))",
-            "私人推薦信 (Target expression (Cantonese))",
-            "口頭自我介紹 (Target expression (Cantonese))"
+            "普通商業名片) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)",
+            "私人推薦信) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)",
+            "口頭自我介紹) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)"
           ],
           "answerIndex": 0,
           "explanation": "「全權證書（Full Powers）」為代表主權國家締結國際條約之法定必要憑證。"
@@ -14076,9 +14076,9 @@
           "prompt": "【條約生效】一項多邊國際公約在完成簽署後、在國際法層面正式對締約國產生法律約束力之關鍵法律行為係：",
           "options": [
             "批准並交存批准書 (Ratification and deposit of instrument of ratification)",
-            "單純在新聞上口頭宣布 (Target expression (Cantonese))",
-            "未經批准私下存放 (Target expression (Cantonese))",
-            "拒絕履行任何手續 (Target expression (Cantonese))"
+            "單純在新聞上口頭宣布) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)",
+            "未經批准私下存放) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)",
+            "拒絕履行任何手續) (Context: 維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草)"
           ],
           "answerIndex": 0,
           "explanation": "國內立法機關批准並向條約保存機關交存批准書係多邊條約對國家正式生效之法定要件。"
@@ -14127,9 +14127,9 @@
           "prompt": "【多邊外交】在國際會議中當本國立場遭到他國代表歪曲指責時、代表團請求大會主席給予發言機會進行反駁之法定外交權利係：",
           "options": [
             "答辯權 (Right of Reply / Daap3 bin6 kyun4)",
-            "直接離場抗議 (Target expression (Cantonese))",
-            "當場大聲喧嘩 (Target expression (Cantonese))",
-            "永久保持沉默 (Target expression (Cantonese))"
+            "直接離場抗議) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)",
+            "當場大聲喧嘩) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)",
+            "永久保持沉默) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)"
           ],
           "answerIndex": 0,
           "explanation": "「答辯權（Right of Reply）」為聯合國大會及各大多邊外交論壇中捍衛國家尊嚴與立場之標準法定程序權利。"
@@ -14142,9 +14142,9 @@
           "prompt": "【表決機制】聯合國大會決議草案在無任何代表團提出異議、無需付諸投票表決而一致通過之最高級別通過方式係：",
           "options": [
             "協商一致通過 (Adoption by Consensus / Cyun4 tai2 jat1 zi3 hip3 soeng1)",
-            "少數服從多數勉強通過 (Target expression (Cantonese))",
-            "抽籤決定 (Target expression (Cantonese))",
-            "主席一人專斷 (Target expression (Cantonese))"
+            "少數服從多數勉強通過) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)",
+            "抽籤決定) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)",
+            "主席一人專斷) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)"
           ],
           "answerIndex": 0,
           "explanation": "「協商一致（Consensus）」代表了國際社會全體成員之最高政治共識。"
@@ -14158,9 +14158,9 @@
           "prompt": "【議事規則】在多邊會議進行中代表針對主持程序或發言規則是否合規當場打斷並要求主席裁決之程序工具係：",
           "options": [
             "程序問題 (Point of Order / Cing4 zeoi6 man6 tai4)",
-            "私人聊天 (Target expression (Cantonese))",
-            "廣告宣傳 (Target expression (Cantonese))",
-            "無效抱怨 (Target expression (Cantonese))"
+            "私人聊天) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)",
+            "廣告宣傳) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)",
+            "無效抱怨) (Context: 聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致)"
           ],
           "answerIndex": 0,
           "explanation": "「程序問題（Point of Order）」為各國代表糾正會議偏離議事規則之有力法定手段。"
@@ -14209,9 +14209,9 @@
           "prompt": "【國際訴訟】在海牙國際法院訴訟中，被告國在實體問題辯論前主張法院無權審理該案之法定抗辯稱為：",
           "options": [
             "先決抗辯 / 管轄權異議 (Preliminary Objections / Sin1 kyut3 kong3 bin6)",
-            "直接認罪認罰 (Target expression (Cantonese))",
-            "要求法官全部辭職 (Target expression (Cantonese))",
-            "拒絕出庭並撕毀卷宗 (Target expression (Cantonese))"
+            "直接認罪認罰) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)",
+            "要求法官全部辭職) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)",
+            "拒絕出庭並撕毀卷宗) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)"
           ],
           "answerIndex": 0,
           "explanation": "「先決抗辯（Preliminary Objections）」為阻斷不當國際訴訟、質疑法院管轄權之第一道關鍵司法防線。"
@@ -14224,9 +14224,9 @@
           "prompt": "【判決效力】法院判決一經依法終局作出即具有不容反悔、同一訴訟標的不得重複再審之司法效力稱為：",
           "options": [
             "確定力 / 既判力 (Res Judicata / Kok3 ding6 lik6)",
-            "臨時參考效力 (Target expression (Cantonese))",
-            "隨意撤銷權 (Target expression (Cantonese))",
-            "無效通知 (Target expression (Cantonese))"
+            "臨時參考效力) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)",
+            "隨意撤銷權) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)",
+            "無效通知) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)"
           ],
           "answerIndex": 0,
           "explanation": "「確定力（Res Judicata）」為保障司法判決權威性與終局性之根本法律基石。"
@@ -14240,9 +14240,9 @@
           "prompt": "【法院職能】國際法院除審理國家間爭端外、應聯大或安理會請求就重大法律難題發布權威法律闡釋之形式係：",
           "options": [
             "諮詢意見 (Advisory Opinion / Zi1 seon1 ji3 gin3)",
-            "非公開私人信件 (Target expression (Cantonese))",
-            "新聞評論員文章 (Target expression (Cantonese))",
-            "匿名社交媒體帖文 (Target expression (Cantonese))"
+            "非公開私人信件) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)",
+            "新聞評論員文章) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)",
+            "匿名社交媒體帖文) (Context: 國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先)"
           ],
           "answerIndex": 0,
           "explanation": "國際法院發布之「諮詢意見（Advisory Opinion）」在國際公法領域享有崇高的權威性與指導價值。"
@@ -14291,9 +14291,9 @@
           "prompt": "【安理會決議】聯合國安理會為應對和平之威脅而採取強制性非軍事制裁或授權軍事行動所依據之《憲章》章節係：",
           "options": [
             "第七章 (Chapter VII / Dai6 cat1 zoeng1)",
-            "第一章 (Target expression (Cantonese))",
-            "附錄目錄 (Target expression (Cantonese))",
-            "隨機章節 (Target expression (Cantonese))"
+            "第一章) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)",
+            "附錄目錄) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)",
+            "隨機章節) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)"
           ],
           "answerIndex": 0,
           "explanation": "《聯合國憲章》第七章為安理會採取具有強制法律效力維和與制裁行動之唯一憲章授權來源。"
@@ -14306,9 +14306,9 @@
           "prompt": "【制裁保護】安理會實施經濟制裁時特意豁免食品、醫療藥品等基本人道物資以保護無辜平民之機制稱為：",
           "options": [
             "人道主義豁免 (Humanitarian Exemption / Jan4 dou6 zyu2 ji6 kut3 min5)",
-            "全面封鎖飢餓政策 (Target expression (Cantonese))",
-            "無差別懲罰 (Target expression (Cantonese))",
-            "取消一切醫療援助 (Target expression (Cantonese))"
+            "全面封鎖飢餓政策) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)",
+            "無差別懲罰) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)",
+            "取消一切醫療援助) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)"
           ],
           "answerIndex": 0,
           "explanation": "「人道主義豁免」為現代定向精準制裁避免殃及無辜平民生存權益之必備文明條款。"
@@ -14322,9 +14322,9 @@
           "prompt": "【和平使命】聯合國維持和平部隊（藍盔部隊）在執行維和任務時所必須嚴格恪守之三大傳統核心原則係：",
           "options": [
             "當事國同意、保持嚴格中立、非自衛不使用武力 (Consent of parties, impartiality & non-use of force except in self-defence)",
-            "主動發動侵略戰爭 (Target expression (Cantonese))",
-            "全面偏袒單一參戰方 (Target expression (Cantonese))",
-            "隨意掠奪當地資源 (Target expression (Cantonese))"
+            "主動發動侵略戰爭) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)",
+            "全面偏袒單一參戰方) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)",
+            "隨意掠奪當地資源) (Context: 聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、)"
           ],
           "answerIndex": 0,
           "explanation": "「當事國同意、中立、自衛使用武力」為聯合國維和行動享譽全球之三大黃金基石。"
@@ -14373,9 +14373,9 @@
           "prompt": "【外交草擬】在國際公報草擬中為化解暫時無法完全調和之分歧、採用兼具多重解讀空間之精妙措辭推動協議簽署之高階技巧係：",
           "options": [
             "建構性模糊 (Constructive Ambiguity / Gin3 gau3 sing3 mou4 hu4)",
-            "直接掀翻談判桌 (Target expression (Cantonese))",
-            "當場辱罵外國元首 (Target expression (Cantonese))",
-            "完全放棄談判 (Target expression (Cantonese))"
+            "直接掀翻談判桌) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)",
+            "當場辱罵外國元首) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)",
+            "完全放棄談判) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)"
           ],
           "answerIndex": 0,
           "explanation": "「建構性模糊（Constructive Ambiguity）」為基辛格等外交巨匠在國際條約與公報草擬中化解死結之經典外交藝術。"
@@ -14388,9 +14388,9 @@
           "prompt": "【文本承諾】在國際公報草擬中代表最高級別國家政治與法律義務承諾之標準表述係：",
           "options": [
             "堅定重申承諾 (Reiterate firm commitment / Gin1 ding6 sung1 nok6)",
-            "隨便聽聽 (Target expression (Cantonese))",
-            "表示完全不在乎 (Target expression (Cantonese))",
-            "拒絕做任何表態 (Target expression (Cantonese))"
+            "隨便聽聽) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)",
+            "表示完全不在乎) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)",
+            "拒絕做任何表態) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)"
           ],
           "answerIndex": 0,
           "explanation": "「堅定重申承諾（Reiterate firm commitment）」為多邊公報中表達最高國家決心之嚴肅外交辭令。"
@@ -14404,9 +14404,9 @@
           "prompt": "【課程大成】完成全部一百七十課粵語課程後，學習者所具備之核心語言能力境界係：",
           "options": [
             "融匯日常市井生活、文史哲學術、法庭辯論及國際多邊外交之全維度高階語言藝術 (Holistic mastery from daily vernacular to peak jurisprudence & multilateral diplomacy)",
-            "只會說兩句問候語 (Target expression (Cantonese))",
-            "完全無法進行任何專業對話 (Target expression (Cantonese))",
-            "只能閱讀幼兒識字卡片 (Target expression (Cantonese))"
+            "只會說兩句問候語) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)",
+            "完全無法進行任何專業對話) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)",
+            "只能閱讀幼兒識字卡片) (Context: 高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、)"
           ],
           "answerIndex": 0,
           "explanation": "恭喜！您已成功解鎖全部170課粵語高階全域語言學之崇高殿堂！"

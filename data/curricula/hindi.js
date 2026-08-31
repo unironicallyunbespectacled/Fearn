@@ -641,8 +641,8 @@
           "prompt": "In the Devanagari 5-Varga system, what articulatory feature distinguishes «क» [ka] from «ख» [kha]?",
           "options": [
             "Aspiration: «क» is unaspirated, while «ख» is strongly aspirated (accompanied by a burst of breath)",
-            "«क» is voiced, while «ख» is voiceless (Target expression (Hindi))",
-            "«क» is nasal, while «ख» is a vowel (Target expression (Hindi))",
+            "«क» is voiced, while «ख» is voiceless) (Context: व्यंजन और पाँच वर्ग)",
+            "«क» is nasal, while «ख» is a vowel) (Context: व्यंजन और पाँच वर्ग)",
             "There is no difference"
           ],
           "answerIndex": 0,
@@ -874,8 +874,8 @@
           "options": [
             "आप कैसी हैं? (Āp kaisī hain? - to female)",
             "आप कैसे हैं? (Āp kaise hain? - to male)",
-            "तुम कौन हो? (Target expression (Hindi))",
-            "शुभ रात्रि (Target expression (Hindi))"
+            "तुम कौन हो?) (Context: पारंपरिक व दैनिक अभिवादन)",
+            "शुभ रात्रि) (Context: पारंपरिक व दैनिक अभिवादन)"
           ],
           "answerIndex": 0,
           "explanation": "«आप कैसी हैं?» (*Āp kaisī hain?*) uses the feminine agreement «कैसी» (*kaisī*)."
@@ -901,7 +901,7 @@
             "शुभ प्रभात (Shubh prabhāt - Good morning)",
             "शुभ रात्रि (Shubh rātri - Good night)",
             "नमस्ते (Hello)",
-            "अलविalgebra (Target expression (Hindi))"
+            "अलविदा (Alvidā - Goodbye)"
           ],
           "answerIndex": 0,
           "explanation": "«शुभ प्रभात» (*Shubh prabhāt*) means \"Good morning\"."
@@ -989,9 +989,9 @@
           "prompt": "How do you introduce yourself and state \"My name is Rahul\" in Hindi?",
           "options": [
             "मेरा नाम राहुल है (Merā nām Rāhul hai)",
-            "आपका नाम राहुल है (Target expression (Hindi))",
-            "मैं राहुल जाता हूँ (Target expression (Hindi))",
-            "राहुल घर है (Target expression (Hindi))"
+            "आपका नाम राहुल है) (Context: परिचय, शिष्टाचार, धन्यवाद और विदाई )",
+            "मैं राहुल जाता हूँ) (Context: परिचय, शिष्टाचार, धन्यवाद और विदाई )",
+            "राहुल घर है) (Context: परिचय, शिष्टाचार, धन्यवाद और विदाई )"
           ],
           "answerIndex": 0,
           "explanation": "«मेरा नाम [नाम] है» (*Merā nām [Name] hai*) is the standard phrase for stating your name."
@@ -1017,7 +1017,7 @@
             "आपसे मिलकर बहुत खुशी हुई (Āpse milkar bahut khushī huī)",
             "कोई बात नहीं (No problem)",
             "आपका नाम क्या है? (Āpkā nām kyā hai? — What is your name? (polite / formal))",
-            "माफ़ कीजिए (Target expression (Hindi))"
+            "माफ़ कीजिए) (Incorrect distractor meaning for: माफ़ कीजिए))"
           ],
           "answerIndex": 0,
           "explanation": "«आपसे मिलकर बहुत खुशी हुई» expresses pleasure upon meeting someone."
@@ -1027,7 +1027,7 @@
           "options": [
             "कोई बात नहीं (Koī bāt nahī̃ - You're welcome / No problem)",
             "फिर मिलेंगे (See you again)",
-            "मेरा नाम है (Target expression (Hindi))",
+            "मेरा नाम है) (Incorrect distractor meaning for: मेरा नाम है))",
             "शुभ रात्रि (Good night)"
           ],
           "answerIndex": 0,
@@ -1042,9 +1042,9 @@
           "prompt": "How do you ask someone their name politely in Hindi?",
           "options": [
             "आपका नाम क्या है? (Āpkā nām kyā hai?)",
-            "तुम कौन हो? (Target expression (Hindi))",
-            "घर कहाँ है? (Target expression (Hindi))",
-            "कैसे हो? (Target expression (Hindi))"
+            "तुम कौन हो?) (Context: परिचय, शिष्टाचार, धन्यवाद और विदाई )",
+            "घर कहाँ है?) (Context: परिचय, शिष्टाचार, धन्यवाद और विदाई )",
+            "कैसे हो?) (Context: परिचय, शिष्टाचार, धन्यवाद और विदाई )"
           ],
           "answerIndex": 0,
           "explanation": "«आपका नाम क्या है?» (*Āpkā nām kyā hai?*) is the respectful polite question."
@@ -1101,9 +1101,9 @@
           "prompt": "हिंदी में सामान्यतः '-ई' (ईकारांत) पर समाप्त होने वाली संज्ञाएं (जैसे: कुर्सी, खिड़की, गाड़ी) किस लिंग की होती हैं?",
           "options": [
             "स्त्रीलिंग (Feminine gender)",
-            "पुल्लिंग (Target expression (Hindi))",
-            "नपुंसकलिंग (Target expression (Hindi))",
-            "उभयलिंग (Target expression (Hindi))"
+            "पुल्लिंग) (Context: संज्ञा और व्याकरणिक लिंग)",
+            "नपुंसकलिंग) (Context: संज्ञा और व्याकरणिक लिंग)",
+            "उभयलिंग) (Context: संज्ञा और व्याकरणिक लिंग)"
           ],
           "answerIndex": 0,
           "explanation": "'-ई' पर समाप्त होने वाले अधिकांश शब्द (कुर्सी, खिड़की, गाड़ी आदि) स्त्रीलिंग होते हैं।"
@@ -1116,9 +1116,9 @@
           "prompt": "इनमें से कौन-सा शब्द अपवाद स्वरूप '-ई' पर समाप्त होने के बावजूद 'पुल्लिंग' है?",
           "options": [
             "पानी (Water - Masculine noun ending in -ee)",
-            "नदी (Target expression (Hindi))",
-            "रोटी (Target expression (Hindi))",
-            "गाड़ी (Target expression (Hindi))"
+            "नदी) (Context: संज्ञा और व्याकरणिक लिंग)",
+            "रोटी) (Context: संज्ञा और व्याकरणिक लिंग)",
+            "गाड़ी) (Context: संज्ञा और व्याकरणिक लिंग)"
           ],
           "answerIndex": 0,
           "explanation": "«पानी» (Water) हिंदी में एक प्रमुख अपवाद है जो ईकारांत होने पर भी पुल्लिंग माना जाता है।"
@@ -1132,9 +1132,9 @@
           "prompt": "संज्ञा और लिंग की दृष्टि से सही वाक्य का चयन कीजिए:",
           "options": [
             "यह किताब बहुत अच्छी है और यह कमरा बहुत साफ़ है। (This book is very good and this room is very clean.)",
-            "यह किताब बहुत अच्छा है और कमरा साफ़ी है। (Target expression (Hindi))",
-            "यह कमरा अच्छी है और किताब बड़ा है। (Target expression (Hindi))",
-            "किताब कमरा में सोता है। (Target expression (Hindi))"
+            "यह किताब बहुत अच्छा है और कमरा साफ़ी है।) (Context: संज्ञा और व्याकरणिक लिंग)",
+            "यह कमरा अच्छी है और किताब बड़ा है।) (Context: संज्ञा और व्याकरणिक लिंग)",
+            "किताब कमरा में सोता है।) (Context: संज्ञा और व्याकरणिक लिंग)"
           ],
           "answerIndex": 0,
           "explanation": "«किताब» स्त्रीलिंग है (अच्छी है) और «कमरा» पुल्लिंग है (साफ़ है)।"
@@ -1183,9 +1183,9 @@
           "prompt": "आकारांत पुल्लिंग संज्ञा 'कमरा' का प्रत्यक्ष बहुवचन (Direct Plural) रूप क्या होगा?",
           "options": [
             "कमरे (Kamre - Rooms)",
-            "कमराएं (Target expression (Hindi))",
-            "कमरियां (Target expression (Hindi))",
-            "कमराओं (Target expression (Hindi))"
+            "कमराएं) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)",
+            "कमरियां) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)",
+            "कमराओं) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)"
           ],
           "answerIndex": 0,
           "explanation": "आकारांत पुल्लिंग संज्ञा में '-आ' बदलकर '-ए' हो जाता है, अतः 'कमरा' का बहुवचन «कमरे» होगा।"
@@ -1198,9 +1198,9 @@
           "prompt": "पुल्लिंग संज्ञा 'पेड़' का बहुवचन रूप तीन की संख्या के साथ क्या होगा?",
           "options": [
             "तीन पेड़ (Three trees - Unchanged masculine plural)",
-            "तीन पेड़ें (Target expression (Hindi))",
-            "तीन पेड़ों (Target expression (Hindi))",
-            "तीन पेड़े (Target expression (Hindi))"
+            "तीन पेड़ें) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)",
+            "तीन पेड़ों) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)",
+            "तीन पेड़े) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)"
           ],
           "answerIndex": 0,
           "explanation": "व्यंजनांत पुल्लिंग संज्ञाएं प्रत्यक्ष बहुवचन में नहीं बदलतीं, अतः «तीन पेड़» सही रूप है।"
@@ -1214,9 +1214,9 @@
           "prompt": "पुल्लिंग बहुवचन के नियमों के अनुसार कौन-सा वाक्य पूर्णतः शुद्ध है?",
           "options": [
             "मैदान में कई लड़के खेल रहे हैं और रास्ते साफ़ हैं। (Many boys are playing in the field and the paths are clean.)",
-            "मैदान में कई लड़काएं खेल रहे हैं और रास्ताएं साफ़ हैं। (Target expression (Hindi))",
-            "मैदान में कई लड़कियां खेलता है। (Target expression (Hindi))",
-            "मैदान में लड़के खेलती है। (Target expression (Hindi))"
+            "मैदान में कई लड़काएं खेल रहे हैं और रास्ताएं साफ़ हैं।) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)",
+            "मैदान में कई लड़कियां खेलता है।) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)",
+            "मैदान में लड़के खेलती है।) (Context: पुल्लिंग संज्ञाओं के एकवचन और बहुवच)"
           ],
           "answerIndex": 0,
           "explanation": "«लड़के» (लड़का का बहुवचन) और «रास्ते» (रास्ता का बहुवचन) दोनों मानक पुल्लिंग बहुवचन रूप हैं।"
@@ -1347,9 +1347,9 @@
           "prompt": "स्त्रीलिंग बहुवचन संज्ञा 'किताबें' के साथ विकारी विशेषण 'नया' का कौन-सा रूप प्रयुक्त होगा?",
           "options": [
             "नई (Nayi kitabein - New books [fem. plural])",
-            "नए (Target expression (Hindi))",
-            "नया (Target expression (Hindi))",
-            "नयों (Target expression (Hindi))"
+            "नए) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)",
+            "नया) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)",
+            "नयों) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग संज्ञाओं (एकवचन व बहुवचन दोनों) के साथ विकारी विशेषण का रूप «नई» (ईकारांत) रहता है।"
@@ -1363,8 +1363,8 @@
           "options": [
             "अच्छे (Achhe ladke - Good boys [masc. plural])",
             "अच्छा (acchā — good / fine (अ [a] + च्छ [cch] + ा [aa]))",
-            "अच्छी (Target expression (Hindi))",
-            "अच्छों (Target expression (Hindi))"
+            "अच्छी) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)",
+            "अच्छों) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन संज्ञा के साथ आकारांत विशेषण बदलकर '-ए' (अच्छे) हो जाता है।"
@@ -1378,9 +1378,9 @@
           "prompt": "विशेषण-संज्ञा समन्वय की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
             "हमारे पास बड़े कमरे और अच्छी कुर्सियाँ हैं। (We have large rooms and good chairs.)",
-            "हमारे पास बड़ा कमरे और अच्छा कुर्सियाँ हैं। (Target expression (Hindi))",
-            "हमारे पास बड़ी कमरे और अच्छे कुर्सियाँ हैं। (Target expression (Hindi))",
-            "कमरे बड़ी है और कुर्सियाँ बड़ा है। (Target expression (Hindi))"
+            "हमारे पास बड़ा कमरे और अच्छा कुर्सियाँ हैं।) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)",
+            "हमारे पास बड़ी कमरे और अच्छे कुर्सियाँ हैं।) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)",
+            "कमरे बड़ी है और कुर्सियाँ बड़ा है।) (Context: विशेषण-संज्ञा अन्वय और लिंग-वचन समन)"
           ],
           "answerIndex": 0,
           "explanation": "«बड़े कमरे» (पुल्लिंग बहुवचन) और «अच्छी कुर्सियाँ» (स्त्रीलिंग बहुवचन) में विशेषण का सटीक समन्वय है।"
@@ -1429,8 +1429,8 @@
           "prompt": "किसी अनजान व्यक्ति (सजीव प्राणी) के लिए किस अनिश्चयवाचक सर्वनाम का प्रयोग किया जाता है?",
           "options": [
             "कोई (Koi - Someone / Anyone for persons)",
-            "कुछ (Target expression (Hindi))",
-            "कौन (Target expression (Hindi))",
+            "कुछ) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)",
+            "कौन) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)",
             "क्या (kyā — what (क् [k] + या [yaa]))"
           ],
           "answerIndex": 0,
@@ -1444,9 +1444,9 @@
           "prompt": "दूर स्थित बहुवचन वस्तुओं (जैसे: पुस्तकें) की ओर संकेत करने के लिए कौन-सा सर्वनाम उपयुक्त है?",
           "options": [
             "वे (Ve - Those / Distant plural)",
-            "यह (Target expression (Hindi))",
-            "ये (Target expression (Hindi))",
-            "वह (Target expression (Hindi))"
+            "यह) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)",
+            "ये) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)",
+            "वह) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)"
           ],
           "answerIndex": 0,
           "explanation": "दूर स्थित बहुवचन वस्तुओं के लिए «वे» (Those) का प्रयोग किया जाता है।"
@@ -1460,9 +1460,9 @@
           "prompt": "सर्वनाम के सही प्रयोग वाला प्रामाणिक वाक्य चुनिए:",
           "options": [
             "ये मेरे मित्र हैं और बाहर कोई आपका इंतज़ार कर रहा है। (These are my friends and someone outside is waiting for you.)",
-            "यह मेरे मित्र हैं और बाहर कुछ इंतज़ार कर रहा है। (Target expression (Hindi))",
-            "वे मेरा कलम है और कोई किताबें हैं। (Target expression (Hindi))",
-            "कुछ लोग वे है और कोई पानी पीता है। (Target expression (Hindi))"
+            "यह मेरे मित्र हैं और बाहर कुछ इंतज़ार कर रहा है।) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)",
+            "वे मेरा कलम है और कोई किताबें हैं।) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)",
+            "कुछ लोग वे है और कोई पानी पीता है।) (Context: निश्चयवाचक व अनिश्चयवाचक सर्वनाम)"
           ],
           "answerIndex": 0,
           "explanation": "«ये मेरे मित्र हैं» (बहुवचन निकटवर्ती) और «कोई आपका इंतज़ार कर रहा है» (सजीव अनिश्चित) व्याकरण की दृष्टि से पूर्णतः शुद्ध है।"
@@ -1511,9 +1511,9 @@
           "prompt": "किसी सतह के ऊपर स्थित होने का भाव (जैसे: On the table) व्यक्त करने के लिए कौन-सा परसर्ग प्रयुक्त होता है?",
           "options": [
             "पर (Par - On / Upon)",
-            "में (Target expression (Hindi))",
-            "से (Target expression (Hindi))",
-            "को (Target expression (Hindi))"
+            "में) (Context: मूल स्थानिक परसर्ग)",
+            "से) (Context: मूल स्थानिक परसर्ग)",
+            "को) (Context: मूल स्थानिक परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "सतह या ऊपर की स्थिति दर्शाने के लिए «पर» (On) का प्रयोग किया जाता है।"
@@ -1526,9 +1526,9 @@
           "prompt": "वाक्य «मेरी कलम बस्ते ___ है» में सही परसर्ग भरिए:",
           "options": [
             "में (Mein - In / Inside the bag)",
-            "पर (Target expression (Hindi))",
-            "तक (Target expression (Hindi))",
-            "से (Target expression (Hindi))"
+            "पर) (Context: मूल स्थानिक परसर्ग)",
+            "तक) (Context: मूल स्थानिक परसर्ग)",
+            "से) (Context: मूल स्थानिक परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "बस्ते के भीतर होने का भाव व्यक्त करने हेतु «में» (In) सही परसर्ग है।"
@@ -1542,9 +1542,9 @@
           "prompt": "स्थानिक परसर्गों के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
             "सभी छात्र कक्षा में बैठे हैं और पुस्तकें मेज़ पर रखी हैं। (All students are sitting in the class and books are kept on the table.)",
-            "सभी छात्र कक्षा पर बैठे हैं और पुस्तकें मेज़ में रखी हैं। (Target expression (Hindi))",
-            "सभी छात्र कक्षा तक बैठा है। (Target expression (Hindi))",
-            "पुस्तकें मेज़ से सोती हैं। (Target expression (Hindi))"
+            "सभी छात्र कक्षा पर बैठे हैं और पुस्तकें मेज़ में रखी हैं।) (Context: मूल स्थानिक परसर्ग)",
+            "सभी छात्र कक्षा तक बैठा है।) (Context: मूल स्थानिक परसर्ग)",
+            "पुस्तकें मेज़ से सोती हैं।) (Context: मूल स्थानिक परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "«कक्षा में» (In the class) और «मेज़ पर» (On the table) परसर्गों का सर्वथा उपयुक्त और प्रामाणिक प्रयोग है।"
@@ -1675,9 +1675,9 @@
           "prompt": "किसी व्यक्ति के हित या उद्देश्य (जैसे: For you) को दर्शाने के लिए किस संयुक्त परसर्ग का प्रयोग होता है?",
           "options": [
             "के लिए (Ke liye - For / For the sake of)",
-            "के पास (Target expression (Hindi))",
-            "के ऊपर (Target expression (Hindi))",
-            "के साथ (Target expression (Hindi))"
+            "के पास) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)",
+            "के ऊपर) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)",
+            "के साथ) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "उद्देश्य या हित दर्शाने के लिए «के लिए» (For) का प्रयोग किया जाता है।"
@@ -1690,9 +1690,9 @@
           "prompt": "सजीव विशिष्ट कर्म वाले वाक्य «अध्यापक ने छात्र ___ बुलाया» में उपयुक्त परसर्ग क्या होगा?",
           "options": [
             "को (Ko - Direct object marker for animate nouns)",
-            "में (Target expression (Hindi))",
-            "पर (Target expression (Hindi))",
-            "तक (Target expression (Hindi))"
+            "में) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)",
+            "पर) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)",
+            "तक) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "विशिष्ट सजीव कर्म के साथ «को» परसर्ग आता है (छात्र को बुलाया)।"
@@ -1706,9 +1706,9 @@
           "prompt": "परसर्ग 'को' और 'के लिए' के सटीक प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
             "मैंने अपने मित्र को जन्मदिन पर बधाई दी और उसके लिए उपहार खरीदा। (I congratulated my friend on his birthday and bought a gift for him.)",
-            "मैंने मित्र में बधाई दी और उसके पर उपहार खरीदा। (Target expression (Hindi))",
-            "मैंने मित्र तक उपहार दिया। (Target expression (Hindi))",
-            "उपहार मित्र से खाता है। (Target expression (Hindi))"
+            "मैंने मित्र में बधाई दी और उसके पर उपहार खरीदा।) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)",
+            "मैंने मित्र तक उपहार दिया।) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)",
+            "उपहार मित्र से खाता है।) (Context: लक्ष्य, कर्म और संप्रदान परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "«मित्र को बधाई दी» और «उसके लिए उपहार खरीदा» दोनों व्याकरण और अर्थ की दृष्टि से पूर्णतः शुद्ध हैं।"
@@ -1757,9 +1757,9 @@
           "prompt": "आकारांत पुल्लिंग शब्द 'कमरा' के बाद परसर्ग 'में' आने पर उसका शुद्ध तिर्यक् एकवचन रूप क्या बनेगा?",
           "options": [
             "कमरे में (Kamre mein - In the room [oblique singular])",
-            "कमरा में (Target expression (Hindi))",
-            "कमरी में (Target expression (Hindi))",
-            "कमरों में (Target expression (Hindi))"
+            "कमरा में) (Context: तिर्यक् रूप (Oblique Case) के नियम)",
+            "कमरी में) (Context: तिर्यक् रूप (Oblique Case) के नियम)",
+            "कमरों में) (Context: तिर्यक् रूप (Oblique Case) के नियम)"
           ],
           "answerIndex": 0,
           "explanation": "परसर्ग 'में' लगने पर आकारांत संज्ञा 'कमरा' तिर्यक् रूप में बदलकर «कमरे में» हो जाती है।"
@@ -1772,9 +1772,9 @@
           "prompt": "स्त्रीलिंग संज्ञा 'किताब' का परसर्ग 'में' के साथ तिर्यक् बहुवचन (Oblique Plural) रूप क्या होगा?",
           "options": [
             "किताबों में (Kitaabon mein - In the books [oblique plural])",
-            "किताबें में (Target expression (Hindi))",
-            "किताब में (Target expression (Hindi))",
-            "किताबियों में (Target expression (Hindi))"
+            "किताबें में) (Context: तिर्यक् रूप (Oblique Case) के नियम)",
+            "किताब में) (Context: तिर्यक् रूप (Oblique Case) के नियम)",
+            "किताबियों में) (Context: तिर्यक् रूप (Oblique Case) के नियम)"
           ],
           "answerIndex": 0,
           "explanation": "परसर्ग के साथ बहुवचन में '-ओं' जुड़ता है, अतः शुद्ध रूप «किताबों में» है।"
@@ -1788,9 +1788,9 @@
           "prompt": "तिर्यक् रूप और विशेषण अन्वय की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
             "उस बड़े कमरे में दो नए पंखे चल रहे हैं। (In that big room two new fans are running.)",
-            "उस बड़ा कमरा में दो नया पंखे चल रहे हैं। (Target expression (Hindi))",
-            "उस बड़े कमरा में दो नए पंखा चलता है। (Target expression (Hindi))",
-            "कमरा में पंखे सोता है। (Target expression (Hindi))"
+            "उस बड़ा कमरा में दो नया पंखे चल रहे हैं।) (Context: तिर्यक् रूप (Oblique Case) के नियम)",
+            "उस बड़े कमरा में दो नए पंखा चलता है।) (Context: तिर्यक् रूप (Oblique Case) के नियम)",
+            "कमरा में पंखे सोता है।) (Context: तिर्यक् रूप (Oblique Case) के नियम)"
           ],
           "answerIndex": 0,
           "explanation": "«उस बड़े कमरे में» में सर्वनाम, विशेषण और संज्ञा तीनों का तिर्यक् रूप पूर्णतः शुद्ध है।"
@@ -1839,9 +1839,9 @@
           "prompt": "सर्वनाम 'वह' के साथ परसर्ग 'को' जुड़ने पर कौन-सा संक्षिप्त संयुक्त रूप बनता है?",
           "options": [
             "उसे / उसको (Use / Usko - To him / To her / To that)",
-            "इसे (Target expression (Hindi))",
-            "मुझे (Target expression (Hindi))",
-            "तुम्हें (Target expression (Hindi))"
+            "इसे) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)",
+            "मुझे) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)",
+            "तुम्हें) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)"
           ],
           "answerIndex": 0,
           "explanation": "वह + को मिलकर «उसे» या «उसको» रूप बनता है।"
@@ -1854,9 +1854,9 @@
           "prompt": "आदरणीय या बहुवचन व्यक्तियों के लिए 'वे' + 'को' का संयुक्त रूप क्या होगा?",
           "options": [
             "उन्हें / उनको (Unhein / Unko - To them / Honorific to him/her)",
-            "इन्हें (Target expression (Hindi))",
-            "उसे (Target expression (Hindi))",
-            "किसे (Target expression (Hindi))"
+            "इन्हें) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)",
+            "उसे) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)",
+            "किसे) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)"
           ],
           "answerIndex": 0,
           "explanation": "वे + को का संयुक्त रूप «उन्हें» अथवा «उनको» होता है।"
@@ -1870,9 +1870,9 @@
           "prompt": "तिर्यक् सर्वनाम के सही प्रयोग वाला मानक वाक्य चुनिए:",
           "options": [
             "मुझे यह बात अच्छी लगी और मैंने उन्हें धन्यवाद दिया। (I liked this thing and I thanked them.)",
-            "मैं को यह बात अच्छा लगा और मैंने वह को धन्यवाद दिया। (Target expression (Hindi))",
-            "मुझ यह बात अच्छी लगी और उन धन्यवाद दिया। (Target expression (Hindi))",
-            "मुझे वह में धन्यवाद है। (Target expression (Hindi))"
+            "मैं को यह बात अच्छा लगा और मैंने वह को धन्यवाद दिया।) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)",
+            "मुझ यह बात अच्छी लगी और उन धन्यवाद दिया।) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)",
+            "मुझे वह में धन्यवाद है।) (Context: सर्वनामों का तिर्यक् रूप और संयुक्त)"
           ],
           "answerIndex": 0,
           "explanation": "«मुझे» (मैं+को) और «उन्हें» (वे+को) दोनों मानक संयुक्त सर्वनाम रूप हैं।"
@@ -1921,9 +1921,9 @@
           "prompt": "स्त्रीलिंग कर्ता 'प्रिया' के साथ क्रिया 'पढ़ना' का सामान्य वर्तमान काल रूप क्या होगा?",
           "options": [
             "प्रिया पढ़ती है (Priya padhti hai - Priya studies [fem. sing.])",
-            "प्रिया पढ़ता है (Target expression (Hindi))",
-            "प्रिया पढ़ते हैं (Target expression (Hindi))",
-            "प्रिया पढ़ती हूँ (Target expression (Hindi))"
+            "प्रिया पढ़ता है) (Context: सामान्य वर्तमान काल की संरचना)",
+            "प्रिया पढ़ते हैं) (Context: सामान्य वर्तमान काल की संरचना)",
+            "प्रिया पढ़ती हूँ) (Context: सामान्य वर्तमान काल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग एकवचन कर्ता के साथ धातु + 'ती' + 'है' (पढ़ती है) आता है।"
@@ -1936,9 +1936,9 @@
           "prompt": "सर्वनाम 'हम' (पुल्लिंग/मिश्रित बहुवचन) के साथ 'बोलना' क्रिया का सही रूप क्या है?",
           "options": [
             "हम बोलते हैं (Hum bolte hain - We speak)",
-            "हम बोलता हूँ (Target expression (Hindi))",
-            "हम बोलती हो (Target expression (Hindi))",
-            "हम बोलते हो (Target expression (Hindi))"
+            "हम बोलता हूँ) (Context: सामान्य वर्तमान काल की संरचना)",
+            "हम बोलती हो) (Context: सामान्य वर्तमान काल की संरचना)",
+            "हम बोलते हो) (Context: सामान्य वर्तमान काल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "«हम» के साथ धातु + '-ते' + 'हैं' (बोलते हैं) का प्रयोग होता है।"
@@ -1952,9 +1952,9 @@
           "prompt": "सामान्य वर्तमान काल के सही लिंग-वचन समन्वय वाला वाक्य चुनिए:",
           "options": [
             "लड़के मैदान में फुटबॉल खेलते हैं और लड़कियाँ गीत गाती हैं। (Boys play football in the field and girls sing songs.)",
-            "लड़के मैदान में फुटबॉल खेलता है और लड़कियाँ गाते हैं। (Target expression (Hindi))",
-            "लड़के खेलती हैं और लड़की खेलता है। (Target expression (Hindi))",
-            "लड़कियाँ गाता हूँ। (Target expression (Hindi))"
+            "लड़के मैदान में फुटबॉल खेलता है और लड़कियाँ गाते हैं।) (Context: सामान्य वर्तमान काल की संरचना)",
+            "लड़के खेलती हैं और लड़की खेलता है।) (Context: सामान्य वर्तमान काल की संरचना)",
+            "लड़कियाँ गाता हूँ।) (Context: सामान्य वर्तमान काल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "«लड़के खेलते हैं» (पुल्लिंग बहुवचन) और «लड़कियाँ गाती हैं» (स्त्रीलिंग बहुवचन) व्याकरणसम्मत है।"
@@ -2003,9 +2003,9 @@
           "prompt": "अंग्रेजी शब्द 'Always' (सदा) के लिए सबसे प्रामाणिक हिंदी क्रिया-विशेषण कौन-सा है?",
           "options": [
             "हमेशा / सदा (Hamesha / Sada - Always)",
-            "कभी-कभी (Target expression (Hindi))",
-            "कभी नहीं (Target expression (Hindi))",
-            "अक्सर (Target expression (Hindi))"
+            "कभी-कभी) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)",
+            "कभी नहीं) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)",
+            "अक्सर) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)"
           ],
           "answerIndex": 0,
           "explanation": "'Always' के लिए «हमेशा» अथवा «सदा» का प्रयोग किया जाता है।"
@@ -2018,9 +2018,9 @@
           "prompt": "वाक्य «वह ___ शाम को पुस्तकालय जाती है» में 'Often' के अर्थ हेतु कौन-सा शब्द उपयुक्त है?",
           "options": [
             "अक्सर (Aksar - Often / Frequently)",
-            "कभी नहीं (Target expression (Hindi))",
-            "कल (Target expression (Hindi))",
-            "परसों (Target expression (Hindi))"
+            "कभी नहीं) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)",
+            "कल) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)",
+            "परसों) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)"
           ],
           "answerIndex": 0,
           "explanation": "'Often' (प्रायः) का अर्थ व्यक्त करने के लिए «अक्सर» सही शब्द है।"
@@ -2034,9 +2034,9 @@
           "prompt": "दैनिक दिनचर्या और बारंबारता का शुद्ध वाक्य पहचानिए:",
           "options": [
             "मैं प्रतिदिन सुबह सात बजे नाश्ता करता हूँ और समय पर दफ़्तर पहुँचता हूँ। (I have breakfast at seven every morning and reach office on time.)",
-            "मैं कभी नहीं नाश्ता खाता हूँ और रोज़ देर से पहुँचती है। (Target expression (Hindi))",
-            "पिताजी अक्सर नाश्ता करती हैं। (Target expression (Hindi))",
-            "हम हमेशा नाश्ता करता हूँ। (Target expression (Hindi))"
+            "मैं कभी नहीं नाश्ता खाता हूँ और रोज़ देर से पहुँचती है।) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)",
+            "पिताजी अक्सर नाश्ता करती हैं।) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)",
+            "हम हमेशा नाश्ता करता हूँ।) (Context: दैनिक दिनचर्या और बारंबारता क्रिया-)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रतिदिन सुबह सात बजे नाश्ता करता हूँ» में समय, क्रिया-विशेषण और क्रिया का पूर्ण समन्वय है।"
@@ -2085,9 +2085,9 @@
           "prompt": "सकारात्मक वाक्य «वह चाय पीती है» का सबसे स्वाभाविक मानक नकारात्मक रूप क्या होगा?",
           "options": [
             "वह चाय नहीं पीती (Vah chaay nahin peeti - She does not drink tea)",
-            "वह नहीं चाय पीती है (Target expression (Hindi))",
-            "वह चाय पीती नहीं है (Target expression (Hindi))",
-            "वह चाय मत पीती (Target expression (Hindi))"
+            "वह नहीं चाय पीती है) (Context: नकारात्मक वाक्य संरचना)",
+            "वह चाय पीती नहीं है) (Context: नकारात्मक वाक्य संरचना)",
+            "वह चाय मत पीती) (Context: नकारात्मक वाक्य संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "'नहीं' मुख्य क्रिया से पूर्व आता है और 'है' का लोप मानक रूप से «वह चाय नहीं पीती» बनता है।"
@@ -2100,9 +2100,9 @@
           "prompt": "नकारात्मक वाक्य में 'नहीं' का सही स्थान कहाँ होता है?",
           "options": [
             "मुख्य क्रिया (कृदंत) के ठीक पहले (Immediately before the main verb)",
-            "वाक्य के सबसे अंत में (Target expression (Hindi))",
-            "कर्ता के ठीक पहले (Target expression (Hindi))",
-            "कर्म के ठीक बाद (Target expression (Hindi))"
+            "वाक्य के सबसे अंत में) (Context: नकारात्मक वाक्य संरचना)",
+            "कर्ता के ठीक पहले) (Context: नकारात्मक वाक्य संरचना)",
+            "कर्म के ठीक बाद) (Context: नकारात्मक वाक्य संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "'नहीं' हमेशा मुख्य कृदंत क्रिया (जैसे: नहीं खाता, नहीं जाता) के ठीक पहले आता है।"
@@ -2116,9 +2116,9 @@
           "prompt": "नकारात्मक वाक्य रचना की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
             "हम कभी किसी का दिल नहीं दुखाते और झूठ नहीं बोलते। (We never hurt anyone's heart and do not speak lies.)",
-            "हम कभी किसी का दिल दुखाते नहीं हैं और झूठ मत बोलते। (Target expression (Hindi))",
-            "हम नहीं दिल दुखाते हैं। (Target expression (Hindi))",
-            "झूठ नहीं हम बोलते। (Target expression (Hindi))"
+            "हम कभी किसी का दिल दुखाते नहीं हैं और झूठ मत बोलते।) (Context: नकारात्मक वाक्य संरचना)",
+            "हम नहीं दिल दुखाते हैं।) (Context: नकारात्मक वाक्य संरचना)",
+            "झूठ नहीं हम बोलते।) (Context: नकारात्मक वाक्य संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "«दिल नहीं दुखाते» और «झूठ नहीं बोलते» में 'नहीं' का स्थान और क्रिया-संयोजन पूर्णतः मानक है।"
@@ -2167,9 +2167,9 @@
           "prompt": "यदि आप किसी से पूछना चाहते हैं 'Where do you live?', तो शुद्ध हिंदी वाक्य क्या होगा?",
           "options": [
             "आप कहाँ रहते हैं? (Aap kahaan rahte hain? - Where do you live?)",
-            "आप क्या रहते हैं? (Target expression (Hindi))",
-            "कहाँ आप रहते हो? (Target expression (Hindi))",
-            "आप कब रहते हैं? (Target expression (Hindi))"
+            "आप क्या रहते हैं?) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)",
+            "कहाँ आप रहते हो?) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)",
+            "आप कब रहते हैं?) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)"
           ],
           "answerIndex": 0,
           "explanation": "स्थान पूछने के लिए «कहाँ» क्रिया के पहले आता है: «आप कहाँ रहते हैं?»।"
@@ -2182,9 +2182,9 @@
           "prompt": "वाक्य «क्या आप हिंदी बोलते हैं?» का आदरपूर्वक स्वीकारात्मक उत्तर क्या होगा?",
           "options": [
             "जी हाँ, मैं हिंदी बोलता हूँ। (Yes, I speak Hindi.)",
-            "जी नहीं, आप बोलते हैं। (Target expression (Hindi))",
-            "कहाँ, मैं जाता हूँ। (Target expression (Hindi))",
-            "अलविदा, मैं बोलता हूँ। (Target expression (Hindi))"
+            "जी नहीं, आप बोलते हैं।) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)",
+            "कहाँ, मैं जाता हूँ।) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)",
+            "अलविदा, मैं बोलता हूँ।) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)"
           ],
           "answerIndex": 0,
           "explanation": "«जी हाँ, मैं हिंदी बोलता हूँ» पूर्णतः शिष्ट और व्याकरणसम्मत उत्तर है।"
@@ -2198,9 +2198,9 @@
           "prompt": "प्रश्नवाचक पदक्रम की दृष्टि से सही और मानक वाक्य चुनिए:",
           "options": [
             "आप सुबह कितने बजे उठते हैं और नाश्ते में क्या लेते हैं? (At what time do you wake up in the morning and what do you take for breakfast?)",
-            "आप कितने बजे सुबह उठते हैं क्या और नाश्ते में? (Target expression (Hindi))",
-            "क्या आप उठते हैं कितने बजे? (Target expression (Hindi))",
-            "नाश्ते में लेते हैं क्या आप? (Target expression (Hindi))"
+            "आप कितने बजे सुबह उठते हैं क्या और नाश्ते में?) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)",
+            "क्या आप उठते हैं कितने बजे?) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)",
+            "नाश्ते में लेते हैं क्या आप?) (Context: हाँ/नहीं और सूचनात्मक प्रश्नवाचक वा)"
           ],
           "answerIndex": 0,
           "explanation": "«कितने बजे उठते हैं» और «क्या लेते हैं» में प्रश्नवाचक पदक्रम सर्वथा शुद्ध है।"
@@ -2249,9 +2249,9 @@
           "prompt": "सार्वभौमिक स्वभाव बताने वाले वाक्य «चीनी मीठी ___» में कौन-सी क्रिया उपयुक्त होगी?",
           "options": [
             "होती है (Hoti hai - Is inherently / naturally sweet)",
-            "है (Target expression (Hindi))",
-            "करता है (Target expression (Hindi))",
-            "लेता है (Target expression (Hindi))"
+            "है) (Context: अनियमित क्रियाएं और विशेष धातुएं)",
+            "करता है) (Context: अनियमित क्रियाएं और विशेष धातुएं)",
+            "लेता है) (Context: अनियमित क्रियाएं और विशेष धातुएं)"
           ],
           "answerIndex": 0,
           "explanation": "प्राकृतिक या सार्वभौमिक गुण बताने के लिए «होती है» (Habitual to be) का प्रयोग होता है।"
@@ -2264,9 +2264,9 @@
           "prompt": "क्रिया 'देना' (To give) का पुल्लिंग बहुवचन आदतन रूप क्या होगा?",
           "options": [
             "देते हैं (Dete hain - They give)",
-            "देता हूँ (Target expression (Hindi))",
-            "देती है (Target expression (Hindi))",
-            "देंगे (Target expression (Hindi))"
+            "देता हूँ) (Context: अनियमित क्रियाएं और विशेष धातुएं)",
+            "देती है) (Context: अनियमित क्रियाएं और विशेष धातुएं)",
+            "देंगे) (Context: अनियमित क्रियाएं और विशेष धातुएं)"
           ],
           "answerIndex": 0,
           "explanation": "'देना' धातु (दे-) + '-ते' + 'हैं' मिलकर «देते हैं» बनता है।"
@@ -2280,9 +2280,9 @@
           "prompt": "विशेष धातुओं के आदतन प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
             "सूरज पूर्व से निकलता है और दूध सफ़ेद होता है। (The sun rises from the east and milk is white.)",
-            "सूरज पूर्व से निकलती है और दूध सफ़ेद है। (Target expression (Hindi))",
-            "सूरज निकलता हूँ और दूध होती है। (Target expression (Hindi))",
-            "दूध सफ़ेद करते हैं। (Target expression (Hindi))"
+            "सूरज पूर्व से निकलती है और दूध सफ़ेद है।) (Context: अनियमित क्रियाएं और विशेष धातुएं)",
+            "सूरज निकलता हूँ और दूध होती है।) (Context: अनियमित क्रियाएं और विशेष धातुएं)",
+            "दूध सफ़ेद करते हैं।) (Context: अनियमित क्रियाएं और विशेष धातुएं)"
           ],
           "answerIndex": 0,
           "explanation": "«सूरज पूर्व से निकलता है» और «दूध सफ़ेद होता है» दोनों सार्वभौमिक सत्यों की शुद्ध व्याकरणिक अभिव्यक्ति हैं।"
@@ -2331,9 +2331,9 @@
           "prompt": "स्त्रीलिंग बहुवचन कर्ता 'लड़कियाँ' के साथ 'गीत गाना' का अपूर्ण वर्तमान काल रूप क्या होगा?",
           "options": [
             "लड़कियाँ गीत गा रही हैं (Girls are singing songs [fem. plural continuous])",
-            "लड़कियाँ गीत गा रहे हैं (Target expression (Hindi))",
-            "लड़कियाँ गीत गाता है (Target expression (Hindi))",
-            "लड़कियाँ गीत गा रही हो (Target expression (Hindi))"
+            "लड़कियाँ गीत गा रहे हैं) (Context: अपूर्ण वर्तमान काल की संरचना)",
+            "लड़कियाँ गीत गाता है) (Context: अपूर्ण वर्तमान काल की संरचना)",
+            "लड़कियाँ गीत गा रही हो) (Context: अपूर्ण वर्तमान काल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन के साथ 'गा रही हैं' (रही + अनुनासिक सहायक क्रिया हैं) आता है।"
@@ -2346,9 +2346,9 @@
           "prompt": "सर्वनाम 'आप' (आदरसूचक पुल्लिंग) के साथ 'जाना' क्रिया का सही अपूर्ण वर्तमान रूप क्या है?",
           "options": [
             "आप जा रहे हैं (Aap ja rahe hain - You are going)",
-            "आप जा रहा है (Target expression (Hindi))",
-            "आप जा रही हो (Target expression (Hindi))",
-            "आप जाते हो (Target expression (Hindi))"
+            "आप जा रहा है) (Context: अपूर्ण वर्तमान काल की संरचना)",
+            "आप जा रही हो) (Context: अपूर्ण वर्तमान काल की संरचना)",
+            "आप जाते हो) (Context: अपूर्ण वर्तमान काल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "आदरसूचक 'आप' के साथ 'धातु + रहे + हैं' (जा रहे हैं) प्रयुक्त होता है।"
@@ -2362,9 +2362,9 @@
           "prompt": "अपूर्ण वर्तमान काल के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
             "पिताजी समाचार देख रहे हैं और माताजी भोजन परोस रही हैं। (Father is watching news and mother is serving food.)",
-            "पिताजी समाचार देख रहा है और माताजी परोस रहे हैं। (Target expression (Hindi))",
-            "माताजी भोजन परोसता है। (Target expression (Hindi))",
-            "पिताजी देख रही हैं। (Target expression (Hindi))"
+            "पिताजी समाचार देख रहा है और माताजी परोस रहे हैं।) (Context: अपूर्ण वर्तमान काल की संरचना)",
+            "माताजी भोजन परोसता है।) (Context: अपूर्ण वर्तमान काल की संरचना)",
+            "पिताजी देख रही हैं।) (Context: अपूर्ण वर्तमान काल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "«पिताजी देख रहे हैं» (आदरसूचक पुल्लिंग) और «माताजी परोस रही हैं» (आदरसूचक स्त्रीलिंग) दोनों का व्याकरणिक समन्वय पूर्णतः शुद्ध है।"
@@ -2413,9 +2413,9 @@
           "prompt": "वर्तमान में ठीक इसी क्षण हो रही क्रिया (Right now) दर्शाने के लिए कौन-सा काल-वाचक अव्यय सबसे उपयुक्त है?",
           "options": [
             "अभी / इस समय (Abhi / Is samay - Right now / At this moment)",
-            "कल (Target expression (Hindi))",
-            "परसों (Target expression (Hindi))",
-            "रोज़ (Target expression (Hindi))"
+            "कल) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)",
+            "परसों) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)",
+            "रोज़) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)"
           ],
           "answerIndex": 0,
           "explanation": "ठीक वर्तमान क्षण दर्शाने के लिए «अभी» अथवा «इस समय» का प्रयोग किया जाता है।"
@@ -2428,9 +2428,9 @@
           "prompt": "वाक्य «बाहर तेज़ हवा ___ रही है» में उचित क्रिया-रूप भरिए:",
           "options": [
             "चल (Chal rahi hai - Wind is blowing [fem.])",
-            "दौड़ (Target expression (Hindi))",
-            "उड़ (Target expression (Hindi))",
-            "सो (Target expression (Hindi))"
+            "दौड़) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)",
+            "उड़) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)",
+            "सो) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)"
           ],
           "answerIndex": 0,
           "explanation": "हवा के बहने के लिए हिंदी में मानक मुहावरेदार क्रिया «चलना» (हवा चल रही है) प्रयुक्त होती है।"
@@ -2444,9 +2444,9 @@
           "prompt": "तात्कालिक क्रिया और समय-अव्यय का शुद्ध वाक्य चुनिए:",
           "options": [
             "हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है। (We are reaching the office right now and the meeting is starting.)",
-            "हम अभी दफ़्तर पहुँचता है और बैठक शुरू होती है। (Target expression (Hindi))",
-            "बैठक शुरू हो रहा है अभी। (Target expression (Hindi))",
-            "हम रोज़ अभी पहुँच रहे हैं। (Target expression (Hindi))"
+            "हम अभी दफ़्तर पहुँचता है और बैठक शुरू होती है।) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)",
+            "बैठक शुरू हो रहा है अभी।) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)",
+            "हम रोज़ अभी पहुँच रहे हैं।) (Context: तात्कालिक क्रियाएं और काल-वाचक अव्य)"
           ],
           "answerIndex": 0,
           "explanation": "«हम अभी दफ़्तर पहुँच रहे हैं और बैठक शुरू हो रही है» तात्कालिक वर्तमान का पूर्णतः मानक वाक्य है।"
@@ -2495,9 +2495,9 @@
           "prompt": "वाक्य «वह नहीं पढ़ रहा ___» में अपूर्ण वर्तमान काल की पूर्णता हेतु कौन-सी सहायक क्रिया आएगी?",
           "options": [
             "है (Vah nahin padh raha hai - He is not studying)",
-            "था (Target expression (Hindi))",
-            "हूँ (Target expression (Hindi))",
-            "होगा (Target expression (Hindi))"
+            "था) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)",
+            "हूँ) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)",
+            "होगा) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)"
           ],
           "answerIndex": 0,
           "explanation": "एकवचन अन्य पुरुष कर्ता 'वह' के साथ वर्तमान सहायक क्रिया «है» आती है।"
@@ -2510,9 +2510,9 @@
           "prompt": "सकारात्मक वाक्य «वे खेल रहे हैं» का शुद्ध नकारात्मक रूप क्या होगा?",
           "options": [
             "वे नहीं खेल रहे हैं (Ve nahin khel rahe hain - They are not playing)",
-            "वे खेल नहीं हैं रहे (Target expression (Hindi))",
-            "वे मत खेल रहे हैं (Target expression (Hindi))",
-            "वे नहीं खेलते हैं (Target expression (Hindi))"
+            "वे खेल नहीं हैं रहे) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)",
+            "वे मत खेल रहे हैं) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)",
+            "वे नहीं खेलते हैं) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)"
           ],
           "answerIndex": 0,
           "explanation": "मानक नकारात्मक रूप «वे नहीं खेल रहे हैं» है।"
@@ -2526,9 +2526,9 @@
           "prompt": "अपूर्ण वर्तमान नकारात्मक की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "छात्र शोर नहीं मचा रहे हैं और शांतिपूर्वक अपना काम कर रहे हैं। (Students are not making noise and are peacefully doing their work.)",
-            "छात्र शोर मचा नहीं रहे हैं मत। (Target expression (Hindi))",
-            "छात्र शोर नहीं मचाता हैं। (Target expression (Hindi))",
-            "छात्र नहीं मचा रहा है शोर। (Target expression (Hindi))"
+            "छात्र शोर मचा नहीं रहे हैं मत।) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)",
+            "छात्र शोर नहीं मचाता हैं।) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)",
+            "छात्र नहीं मचा रहा है शोर।) (Context: अपूर्ण वर्तमान काल में नकारात्मक वा)"
           ],
           "answerIndex": 0,
           "explanation": "«शोर नहीं मचा रहे हैं» में 'नहीं' का स्थान और बहुवचन क्रिया का प्रयोग पूर्णतः शुद्ध है।"
@@ -2577,9 +2577,9 @@
           "prompt": "दैनिक बातचीत में 'What are you doing?' पूछने के लिए सबसे मानक और शिष्ट हिंदी वाक्य कौन-सा है?",
           "options": [
             "आप क्या कर रहे हैं? (Aap kya kar rahe hain? - What are you doing?)",
-            "आप कहाँ जाते हो? (Target expression (Hindi))",
-            "क्या आप करते हैं? (Target expression (Hindi))",
-            "आप क्यों कर रहे हैं? (Target expression (Hindi))"
+            "आप कहाँ जाते हो?) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)",
+            "क्या आप करते हैं?) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)",
+            "आप क्यों कर रहे हैं?) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)"
           ],
           "answerIndex": 0,
           "explanation": "'What are you doing?' के लिए मानक वाक्य «आप क्या कर रहे हैं?» है।"
@@ -2592,9 +2592,9 @@
           "prompt": "वाक्य «तुम इतनी तेज़ क्यों दौड़ ___ हो?» में रिक्त स्थान भरिए:",
           "options": [
             "रहे (Tum itni tez kyon daud rahe ho? - Why are you running so fast?)",
-            "रहा (Target expression (Hindi))",
-            "रही (Target expression (Hindi))",
-            "हैं (Target expression (Hindi))"
+            "रहा) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)",
+            "रही) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)",
+            "हैं) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)"
           ],
           "answerIndex": 0,
           "explanation": "सर्वनाम 'तुम' (पुल्लिंग) के साथ 'रहे हो' का प्रयोग होता है।"
@@ -2608,9 +2608,9 @@
           "prompt": "अपूर्ण वर्तमान प्रश्नवाचक वाक्य का सर्वथा शुद्ध रूप चुनिए:",
           "options": [
             "आप आज रात को कहाँ ठहर रहे हैं और कल कब निकल रहे हैं? (Where are you staying tonight and when are you leaving tomorrow?)",
-            "आप कहाँ ठहरता है और कब निकलती है? (Target expression (Hindi))",
-            "कहाँ आप ठहर रहे हैं क्या? (Target expression (Hindi))",
-            "निकल रहे हैं कब आप? (Target expression (Hindi))"
+            "आप कहाँ ठहरता है और कब निकलती है?) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)",
+            "कहाँ आप ठहर रहे हैं क्या?) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)",
+            "निकल रहे हैं कब आप?) (Context: अपूर्ण वर्तमान में प्रश्नवाचक संरचन)"
           ],
           "answerIndex": 0,
           "explanation": "«कहाँ ठहर रहे हैं» और «कब निकल रहे हैं» में प्रश्नवाचक पदक्रम और निरंतरता का समन्वय सटीक है।"
@@ -2659,9 +2659,9 @@
           "prompt": "यदि कोई व्यक्ति पहले से कुर्सी पर विराजमान (Seated) है, तो उसके लिए शुद्ध हिंदी अभिव्यक्ति क्या होगी?",
           "options": [
             "वह कुर्सी पर बैठा है (Vah kursi par baitha hai - He is seated/sitting on the chair)",
-            "वह कुर्सी पर बैठ रहा है (Target expression (Hindi))",
-            "वह कुर्सी पर बैठता हूँ (Target expression (Hindi))",
-            "वह कुर्सी पर बैठेगा (Target expression (Hindi))"
+            "वह कुर्सी पर बैठ रहा है) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)",
+            "वह कुर्सी पर बैठता हूँ) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)",
+            "वह कुर्सी पर बैठेगा) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "बैठने की निरंतर अवस्था (Stative posture) के लिए «बैठा है» का प्रयोग किया जाता है।"
@@ -2674,9 +2674,9 @@
           "prompt": "स्त्रीलिंग कर्ता 'सीमा' के पहले से खड़े होने की स्थिति को बताने वाला वाक्य कौन-सा है?",
           "options": [
             "सीमा दरवाजे पर खड़ी है (Seema darvaaje par khadi hai - Seema is standing at the door)",
-            "सीमा दरवाजे पर खड़ा है (Target expression (Hindi))",
-            "सीमा दरवाजे पर खड़े हैं (Target expression (Hindi))",
-            "सीमा दरवाजे पर खड़ी हो रही है (Target expression (Hindi))"
+            "सीमा दरवाजे पर खड़ा है) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)",
+            "सीमा दरवाजे पर खड़े हैं) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)",
+            "सीमा दरवाजे पर खड़ी हो रही है) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग एकवचन की स्थैतिक अवस्था के लिए «खड़ी है» का प्रयोग होता है।"
@@ -2690,9 +2690,9 @@
           "prompt": "स्थैतिक अवस्था और पहनावे के सही व्याकरणिक प्रयोग वाला वाक्य चुनिए:",
           "options": [
             "वह लाल कुरता पहने हुए मंच पर खड़ा है और लोग सामने बैठे हैं। (He is standing on the stage wearing a red kurta and people are seated in front.)",
-            "वह लाल कुरता पहन रहा है मंच पर खड़ा रहा है और लोग बैठ रहे हैं। (Target expression (Hindi))",
-            "लोग खड़ा है और वह बैठी है। (Target expression (Hindi))",
-            "मंच पर लेटा हुआ गाता है। (Target expression (Hindi))"
+            "वह लाल कुरता पहन रहा है मंच पर खड़ा रहा है और लोग बैठ रहे हैं।) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)",
+            "लोग खड़ा है और वह बैठी है।) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)",
+            "मंच पर लेटा हुआ गाता है।) (Context: स्थैतिक अवस्था बनाम गतिशील क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "«पहने हुए» (पहनावा), «खड़ा है» (खड़े होने की अवस्था) और «बैठे हैं» (बैठने की अवस्था) तीनों का प्रयोग पूर्णतः प्रामाणिक है।"
@@ -2741,9 +2741,9 @@
           "prompt": "स्त्रीलिंग कर्ता 'सीता' के साथ अकर्मक क्रिया 'जाना' का शुद्ध सामान्य भूतकाल रूप क्या होगा?",
           "options": [
             "सीता घर गई (Seeta ghar gayi - Sita went home)",
-            "सीता ने घर गया (Target expression (Hindi))",
-            "सीता घर जाया (Target expression (Hindi))",
-            "सीता ने घर गई (Target expression (Hindi))"
+            "सीता ने घर गया) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()",
+            "सीता घर जाया) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()",
+            "सीता ने घर गई) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()"
           ],
           "answerIndex": 0,
           "explanation": "अकर्मक क्रिया में 'ने' नहीं लगता और 'जाना' स्त्रीलिंग में «गई» बनता है।"
@@ -2756,9 +2756,9 @@
           "prompt": "पुल्लिंग बहुवचन कर्ता 'लड़के' के साथ 'आना' क्रिया का सही भूतकाल रूप क्या है?",
           "options": [
             "लड़के समय पर आए (Boys came on time)",
-            "लड़कों ने आया (Target expression (Hindi))",
-            "लड़के आई (Target expression (Hindi))",
-            "लड़के आया (Target expression (Hindi))"
+            "लड़कों ने आया) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()",
+            "लड़के आई) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()",
+            "लड़के आया) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन में अकर्मक क्रिया का रूप «आए» (धातु + -ए) होता है।"
@@ -2772,9 +2772,9 @@
           "prompt": "अकर्मक भूतकाल की दृष्टि से व्याकरणसम्मत शुद्ध वाक्य चुनिए:",
           "options": [
             "कल सभी छात्राएं समय पर विद्यालय पहुँचीं और प्रार्थना में बैठीं। (All girl students reached school on time yesterday and sat in prayer.)",
-            "कल सभी छात्राओं ने विद्यालय पहुँचा। (Target expression (Hindi))",
-            "छात्राएं पहुँचे और बैठा। (Target expression (Hindi))",
-            "छात्राओं ने बैठीं। (Target expression (Hindi))"
+            "कल सभी छात्राओं ने विद्यालय पहुँचा।) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()",
+            "छात्राएं पहुँचे और बैठा।) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()",
+            "छात्राओं ने बैठीं।) (Context: अकर्मक क्रियाओं का सामान्य भूतकाल ()"
           ],
           "answerIndex": 0,
           "explanation": "«पहुँचीं» और «बैठीं» दोनों स्त्रीलिंग बहुवचन अकर्मक क्रियाएं हैं और इनमें 'ने' का प्रयोग नहीं हुआ है।"
@@ -2823,9 +2823,9 @@
           "prompt": "सर्वनाम 'वह' के साथ भूतकाल में सकर्मक क्रिया के लिए कौन-सा कर्ता रूप बनेगा?",
           "options": [
             "उसने (Usne - He/She in ergative past)",
-            "वह ने (Target expression (Hindi))",
-            "उसको (Target expression (Hindi))",
-            "उससे (Target expression (Hindi))"
+            "वह ने) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)",
+            "उसको) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)",
+            "उससे) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)"
           ],
           "answerIndex": 0,
           "explanation": "वह + ने का मानक संयुक्त रूप «उसने» बनता है।"
@@ -2838,9 +2838,9 @@
           "prompt": "सर्वनाम 'वे' (आदरसूचक/बहुवचन) के साथ 'ने' का शुद्ध रूप क्या है?",
           "options": [
             "उन्होंने (Unhonne - They in ergative past)",
-            "वे ने (Target expression (Hindi))",
-            "उनने (Target expression (Hindi))",
-            "इनने (Target expression (Hindi))"
+            "वे ने) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)",
+            "उनने) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)",
+            "इनने) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)"
           ],
           "answerIndex": 0,
           "explanation": "वे + ने का प्रामाणिक मानक रूप «उन्होंने» है।"
@@ -2854,9 +2854,9 @@
           "prompt": "कर्ता कारक 'ने' के सही रूप वाला मानक वाक्य चुनिए:",
           "options": [
             "मैंने अपना काम समाप्त किया और उन्होंने मेरी प्रशंसा की। (I finished my work and they praised me.)",
-            "मैं ने काम समाप्त किया और वे ने प्रशंसा किया। (Target expression (Hindi))",
-            "मुझने काम किया और उनने देखा। (Target expression (Hindi))",
-            "मैंने काम सो गया। (Target expression (Hindi))"
+            "मैं ने काम समाप्त किया और वे ने प्रशंसा किया।) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)",
+            "मुझने काम किया और उनने देखा।) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)",
+            "मैंने काम सो गया।) (Context: सकर्मक क्रियाएं और कर्ता कारक परसर्)"
           ],
           "answerIndex": 0,
           "explanation": "«मैंने» और «उन्होंने» दोनों मानक 'ने'-युक्त सर्वनाम रूप हैं।"
@@ -2905,9 +2905,9 @@
           "prompt": "वाक्य «राहुल ने दो किताबें ___» में कर्म 'किताबें' (स्त्रीलिंग बहुवचन) के अनुसार कौन-सी क्रिया आएगी?",
           "options": [
             "पढ़ीं (Padheen - Read [fem. plural agreement])",
-            "पढ़ा (Target expression (Hindi))",
-            "पढ़े (Target expression (Hindi))",
-            "पढ़ी (Target expression (Hindi))"
+            "पढ़ा) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)",
+            "पढ़े) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)",
+            "पढ़ी) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्म 'किताबें' के अनुसार क्रिया अनुनासिक रूप «पढ़ीं» होगी।"
@@ -2920,9 +2920,9 @@
           "prompt": "वाक्य «सीता ने एक बड़ा मकान ___» में कर्म 'मकान' (पुल्लिंग एकवचन) के अनुसार सही क्रिया चुनिए:",
           "options": [
             "देखा (Dekha - Saw [masc. singular agreement])",
-            "देखी (Target expression (Hindi))",
-            "देखे (Target expression (Hindi))",
-            "देखीं (Target expression (Hindi))"
+            "देखी) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)",
+            "देखे) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)",
+            "देखीं) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)"
           ],
           "answerIndex": 0,
           "explanation": "कर्म 'मकान' पुल्लिंग एकवचन है, अतः कर्ता स्त्रीलिंग होने पर भी क्रिया «देखा» होगी।"
@@ -2936,9 +2936,9 @@
           "prompt": "कर्म-अन्वय के नियमों के अनुसार सर्वथा शुद्ध वाक्य का चयन कीजिए:",
           "options": [
             "लड़कों ने चाय पी और लड़कियों ने फल खाए। (Boys drank tea and girls ate fruits.)",
-            "लड़कों ने चाय पिया और लड़कियों ने फल खाई। (Target expression (Hindi))",
-            "लड़कों ने चाय पिए। (Target expression (Hindi))",
-            "लड़कियों ने फल खाया। (Target expression (Hindi))"
+            "लड़कों ने चाय पिया और लड़कियों ने फल खाई।) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)",
+            "लड़कों ने चाय पिए।) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)",
+            "लड़कियों ने फल खाया।) (Context: कर्म-अन्वय नियम (Object-Verb Agreem)"
           ],
           "answerIndex": 0,
           "explanation": "«चाय पी» (चाय स्त्रीलिंग है) और «फल खाए» (फल बहुवचन पुल्लिंग है) में कर्म-अन्वय पूर्णतः सटीक है।"
@@ -2987,9 +2987,9 @@
           "prompt": "वाक्य «अध्यापक ने छात्राओं को ___» में शुद्ध क्रिया रूप क्या होगा?",
           "options": [
             "बुलाया (Bulaya - Neutral masculine singular default)",
-            "बुलाईं (Target expression (Hindi))",
-            "बुलाई (Target expression (Hindi))",
-            "बुलाए (Target expression (Hindi))"
+            "बुलाईं) (Context: तटस्थ अन्वय / भावे प्रयोग)",
+            "बुलाई) (Context: तटस्थ अन्वय / भावे प्रयोग)",
+            "बुलाए) (Context: तटस्थ अन्वय / भावे प्रयोग)"
           ],
           "answerIndex": 0,
           "explanation": "कर्म 'छात्राओं' के साथ 'को' लगा है, अतः तटस्थ अन्वय के नियमानुसार क्रिया पुल्लिंग एकवचन «बुलाया» होगी।"
@@ -3002,9 +3002,9 @@
           "prompt": "वाक्य «पुलिस ने उस महिला को ___» में सही क्रिया रूप भरिए:",
           "options": [
             "बचाया (Bachaya - Saved [neutral default])",
-            "बचाई (Target expression (Hindi))",
-            "बचाए (Target expression (Hindi))",
-            "बचाईं (Target expression (Hindi))"
+            "बचाई) (Context: तटस्थ अन्वय / भावे प्रयोग)",
+            "बचाए) (Context: तटस्थ अन्वय / भावे प्रयोग)",
+            "बचाईं) (Context: तटस्थ अन्वय / भावे प्रयोग)"
           ],
           "answerIndex": 0,
           "explanation": "'महिला को' में 'को' परसर्ग के कारण क्रिया तटस्थ रूप «बचाया» में रहेगी।"
@@ -3018,9 +3018,9 @@
           "prompt": "तटस्थ अन्वय (भावे प्रयोग) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "माताजी ने अपनी बेटियों को प्यार से समझाया। (Mother affectionately explained to her daughters.)",
-            "माताजी ने अपनी बेटियों को समझाईं। (Target expression (Hindi))",
-            "माताजी ने बेटियों को समझाई। (Target expression (Hindi))",
-            "माताजी बेटियों समझाई। (Target expression (Hindi))"
+            "माताजी ने अपनी बेटियों को समझाईं।) (Context: तटस्थ अन्वय / भावे प्रयोग)",
+            "माताजी ने बेटियों को समझाई।) (Context: तटस्थ अन्वय / भावे प्रयोग)",
+            "माताजी बेटियों समझाई।) (Context: तटस्थ अन्वय / भावे प्रयोग)"
           ],
           "answerIndex": 0,
           "explanation": "«बेटियों को समझाया» में 'को' के कारण क्रिया का तटस्थ रूप 'समझाया' व्याकरणसम्मत है।"
@@ -3069,9 +3069,9 @@
           "prompt": "सकर्मक क्रिया 'लाना' (To bring) के भूतकाल का शुद्ध प्रयोग कौन-सा है?",
           "options": [
             "रोहन फल लाया (Rohan brought fruits [No 'ने'])",
-            "रोहन ने फल लाया (Target expression (Hindi))",
-            "रोहन ने फल लाई (Target expression (Hindi))",
-            "रोहन ने लाया फल (Target expression (Hindi))"
+            "रोहन ने फल लाया) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)",
+            "रोहन ने फल लाई) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)",
+            "रोहन ने लाया फल) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)"
           ],
           "answerIndex": 0,
           "explanation": "'लाना' क्रिया अपवाद स्वरूप 'ने' नहीं लेती, अतः «रोहन फल लाया» शुद्ध है।"
@@ -3084,9 +3084,9 @@
           "prompt": "क्रिया 'देना' का स्त्रीलिंग एकवचन भूतकालिक रूप क्या है?",
           "options": [
             "दी (Dee - Gave [fem. singular])",
-            "दिया (Target expression (Hindi))",
-            "दिए (Target expression (Hindi))",
-            "दीं (Target expression (Hindi))"
+            "दिया) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)",
+            "दिए) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)",
+            "दीं) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)"
           ],
           "answerIndex": 0,
           "explanation": "'देना' का स्त्रीलिंग एकवचन भूतकालिक रूप «दी» होता है (जैसे: पुस्तक दी)।"
@@ -3100,9 +3100,9 @@
           "prompt": "अनियमित कृदंत और 'ने' के अपवादों की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "सीता बाज़ार से मिठाई लाई और हमने चाय पी। (Sita brought sweets from the market and we drank tea.)",
-            "सीता ने मिठाई लाई और हमने चाय पिया। (Target expression (Hindi))",
-            "सीता ने मिठाई लाया। (Target expression (Hindi))",
-            "हम चाय पी। (Target expression (Hindi))"
+            "सीता ने मिठाई लाई और हमने चाय पिया।) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)",
+            "सीता ने मिठाई लाया।) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)",
+            "हम चाय पी।) (Context: 'ने' के अपवाद और अनियमित भूतकालिक क)"
           ],
           "answerIndex": 0,
           "explanation": "«सीता मिठाई लाई» ('लाना' में 'ने' नहीं) और «हमने चाय पी» ('पीना' में कर्म-अन्वय) पूर्णतः शुद्ध हैं।"
@@ -3151,9 +3151,9 @@
           "prompt": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ सकर्मक पूर्ण भूतकाल का कौन-सा रूप शुद्ध होगा?",
           "options": [
             "लिखी थीं (Likhi theen - Had written [fem. plural agreement])",
-            "लिखा था (Target expression (Hindi))",
-            "लिखे थे (Target expression (Hindi))",
-            "लिखी थी (Target expression (Hindi))"
+            "लिखा था) (Context: पूर्ण भूतकाल की संरचना)",
+            "लिखे थे) (Context: पूर्ण भूतकाल की संरचना)",
+            "लिखी थी) (Context: पूर्ण भूतकाल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ 'लिखी थीं' (कृदंत व सहायक क्रिया दोनों अनुनासिक) आएगा।"
@@ -3166,9 +3166,9 @@
           "prompt": "अकर्मक कर्ता 'वे' (पुल्लिंग बहुवचन) के साथ 'आना' का पूर्ण भूतकाल क्या होगा?",
           "options": [
             "आए थे (Aaye the - Had come [masc. plural])",
-            "आया था (Target expression (Hindi))",
-            "आई थी (Target expression (Hindi))",
-            "आए हैं (Target expression (Hindi))"
+            "आया था) (Context: पूर्ण भूतकाल की संरचना)",
+            "आई थी) (Context: पूर्ण भूतकाल की संरचना)",
+            "आए हैं) (Context: पूर्ण भूतकाल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन अकर्मक पूर्ण भूतकाल में «आए थे» बनता है।"
@@ -3182,9 +3182,9 @@
           "prompt": "पूर्ण भूतकाल के नियमों के अनुसार पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "अमित ने नया मकान खरीदा था और हम सब वहाँ गए थे। (Amit had bought a new house and we all had gone there.)",
-            "अमित ने नया मकान खरीदी थी और हम गया था। (Target expression (Hindi))",
-            "अमित नया मकान खरीदा था। (Target expression (Hindi))",
-            "हम सब वहाँ गई थीं। (Target expression (Hindi))"
+            "अमित ने नया मकान खरीदी थी और हम गया था।) (Context: पूर्ण भूतकाल की संरचना)",
+            "अमित नया मकान खरीदा था।) (Context: पूर्ण भूतकाल की संरचना)",
+            "हम सब वहाँ गई थीं।) (Context: पूर्ण भूतकाल की संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "«मकान खरीदा था» (सकर्मक पु.एक.) और «हम सब गए थे» (अकर्मक पु.बहु.) दोनों पूर्णतः शुद्ध हैं।"
@@ -3233,9 +3233,9 @@
           "prompt": "सकर्मक वाक्य «मैंने अपना काम पूरा कर ___» में आसन्न भूतकाल (Present Perfect) की पूर्ति कीजिए:",
           "options": [
             "लिया है (Liya hai - Have completed [immediate past])",
-            "लिया था (Target expression (Hindi))",
-            "लिया होगा (Target expression (Hindi))",
-            "लेता हूँ (Target expression (Hindi))"
+            "लिया था) (Context: आसन्न भूतकाल (Present Perfect)",
+            "लिया होगा) (Context: आसन्न भूतकाल (Present Perfect)",
+            "लेता हूँ) (Context: आसन्न भूतकाल (Present Perfect)"
           ],
           "answerIndex": 0,
           "explanation": "आसन्न भूतकाल में भूतकालिक कृदंत के साथ 'है' का प्रयोग होकर «कर लिया है» बनता है।"
@@ -3248,9 +3248,9 @@
           "prompt": "स्त्रीलिंग बहुवचन कर्म 'मिठाइयाँ' के साथ आसन्न भूतकाल की सही क्रिया क्या होगी?",
           "options": [
             "बनाई हैं (Banayee hain - Have made [fem. plural])",
-            "बनाया है (Target expression (Hindi))",
-            "बनाए हैं (Target expression (Hindi))",
-            "बनाई थी (Target expression (Hindi))"
+            "बनाया है) (Context: आसन्न भूतकाल (Present Perfect)",
+            "बनाए हैं) (Context: आसन्न भूतकाल (Present Perfect)",
+            "बनाई थी) (Context: आसन्न भूतकाल (Present Perfect)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्म के साथ 'बनाई हैं' (अनुनासिक 'हैं') प्रयुक्त होता है।"
@@ -3264,9 +3264,9 @@
           "prompt": "आसन्न भूतकाल (Present Perfect) का सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
             "गाड़ी स्टेशन पर पहुँच गई है और सभी यात्री उतर रहे हैं। (The train has arrived at the station and all passengers are getting down.)",
-            "गाड़ी स्टेशन पर पहुँच गई थी और उतर रहे हैं। (Target expression (Hindi))",
-            "गाड़ी पहुँची है और उतरता है। (Target expression (Hindi))",
-            "यात्री ने उतरा है। (Target expression (Hindi))"
+            "गाड़ी स्टेशन पर पहुँच गई थी और उतर रहे हैं।) (Context: आसन्न भूतकाल (Present Perfect)",
+            "गाड़ी पहुँची है और उतरता है।) (Context: आसन्न भूतकाल (Present Perfect)",
+            "यात्री ने उतरा है।) (Context: आसन्न भूतकाल (Present Perfect)"
           ],
           "answerIndex": 0,
           "explanation": "«पहुँच गई है» हाल ही में पूरी हुई क्रिया है जिसका वर्तमान स्थिति से सीधा संबंध है।"
@@ -3315,9 +3315,9 @@
           "prompt": "स्त्रीलिंग बहुवचन कर्ता 'महिलाएं' के साथ 'बातचीत करना' का अपूर्ण भूतकाल रूप क्या होगा?",
           "options": [
             "बातचीत कर रही थीं (Were conversing [fem. plural continuous past])",
-            "बातचीत कर रही थी (Target expression (Hindi))",
-            "बातचीत कर रहे थे (Target expression (Hindi))",
-            "बातचीत करी थीं (Target expression (Hindi))"
+            "बातचीत कर रही थी) (Context: अपूर्ण भूतकाल (Past Continuous)",
+            "बातचीत कर रहे थे) (Context: अपूर्ण भूतकाल (Past Continuous)",
+            "बातचीत करी थीं) (Context: अपूर्ण भूतकाल (Past Continuous)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्ता के साथ 'रही थीं' (अनुनासिक 'थीं') आता है।"
@@ -3330,9 +3330,9 @@
           "prompt": "वाक्य «हम कल शाम को टीवी ___» में सही क्रिया रूप भरिए:",
           "options": [
             "देख रहे थे (Dekh rahe the - We were watching TV)",
-            "देख रहा था (Target expression (Hindi))",
-            "देखे थे (Target expression (Hindi))",
-            "देख रही थी (Target expression (Hindi))"
+            "देख रहा था) (Context: अपूर्ण भूतकाल (Past Continuous)",
+            "देखे थे) (Context: अपूर्ण भूतकाल (Past Continuous)",
+            "देख रही थी) (Context: अपूर्ण भूतकाल (Past Continuous)"
           ],
           "answerIndex": 0,
           "explanation": "सर्वनाम 'हम' (पुल्लिंग बहुवचन) के साथ अपूर्ण भूतकाल में «देख रहे थे» प्रयुक्त होता है।"
@@ -3346,9 +3346,9 @@
           "prompt": "अपूर्ण भूतकाल की दृष्टि से व्याकरणसम्मत शुद्ध वाक्य चुनिए:",
           "options": [
             "जब बिजली गई, तब पिताजी समाचार पढ़ रहे थे और माताजी खाना बना रही थीं। (When power went off, father was reading news and mother was cooking food.)",
-            "पिताजी समाचार पढ़ रहा था और माताजी बना रहे थे। (Target expression (Hindi))",
-            "पिताजी ने समाचार पढ़ रहे थे। (Target expression (Hindi))",
-            "माताजी ने खाना बना रही थीं। (Target expression (Hindi))"
+            "पिताजी समाचार पढ़ रहा था और माताजी बना रहे थे।) (Context: अपूर्ण भूतकाल (Past Continuous)",
+            "पिताजी ने समाचार पढ़ रहे थे।) (Context: अपूर्ण भूतकाल (Past Continuous)",
+            "माताजी ने खाना बना रही थीं।) (Context: अपूर्ण भूतकाल (Past Continuous)"
           ],
           "answerIndex": 0,
           "explanation": "«पिताजी पढ़ रहे थे» (पु.आदर) और «माताजी बना रही थीं» (स्त्री.आदर) दोनों में बिना 'ने' के सही अन्वय है।"
@@ -3397,9 +3397,9 @@
           "prompt": "अतीत की नियमित आदत बताने वाले वाक्य «हम बचपन में रोज़ फुटबॉल ___» में कौन-सा क्रिया रूप आएगा?",
           "options": [
             "खेलते थे (Khelte the - Used to play [past habitual])",
-            "खेला था (Target expression (Hindi))",
-            "खेल रहे थे (Target expression (Hindi))",
-            "खेलेंगे (Target expression (Hindi))"
+            "खेला था) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)",
+            "खेल रहे थे) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)",
+            "खेलेंगे) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)"
           ],
           "answerIndex": 0,
           "explanation": "अतीत की नियमित आदत (Used to play) के लिए «खेलते थे» का प्रयोग होता है।"
@@ -3412,9 +3412,9 @@
           "prompt": "स्त्रीलिंग एकवचन कर्ता के साथ 'गाना गाना' का भूतकालिक अभ्यस्त रूप क्या होगा?",
           "options": [
             "गाती थी (Gaati thi - Used to sing [fem. singular])",
-            "गाता था (Target expression (Hindi))",
-            "गाते थे (Target expression (Hindi))",
-            "गाया था (Target expression (Hindi))"
+            "गाता था) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)",
+            "गाते थे) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)",
+            "गाया था) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग एकवचन में अभ्यस्त क्रिया रूप «गाती थी» बनता है।"
@@ -3428,9 +3428,9 @@
           "prompt": "भूतकालिक आदत (Past Habitual) को व्यक्त करने वाला शुद्ध वाक्य चुनिए:",
           "options": [
             "वह रोज़ सुबह पुस्तकालय जाती थी और कई घंटे पढ़ती थी। (She used to go to the library every morning and study for many hours.)",
-            "उसने रोज़ पुस्तकालय जाती थी और पढ़ती थी। (Target expression (Hindi))",
-            "वह पुस्तकालय गई थी रोज़। (Target expression (Hindi))",
-            "पुस्तकालय जा रही थी रोज़ पढ़ती थी। (Target expression (Hindi))"
+            "उसने रोज़ पुस्तकालय जाती थी और पढ़ती थी।) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)",
+            "वह पुस्तकालय गई थी रोज़।) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)",
+            "पुस्तकालय जा रही थी रोज़ पढ़ती थी।) (Context: भूतकालिक अभ्यस्त काल / भूतकालिक आदत)"
           ],
           "answerIndex": 0,
           "explanation": "«जाती थी» और «पढ़ती थी» दोनों भूतकाल की नियमित दिनचर्या का शुद्ध प्रतिनिधित्व करते हैं।"
@@ -3494,9 +3494,9 @@
           "prompt": "वाक्य «वह गाना गा रहा था» किस भूतकालिक रूप का उदाहरण है?",
           "options": [
             "अपूर्ण भूतकाल (Past Continuous)",
-            "सामान्य भूतकाल (Target expression (Hindi))",
-            "पूर्ण भूतकाल (Target expression (Hindi))",
-            "आसन्न भूतकाल (Target expression (Hindi))"
+            "सामान्य भूतकाल) (Context: भूतकाल के सभी रूपों का समेकन व तुलन)",
+            "पूर्ण भूतकाल) (Context: भूतकाल के सभी रूपों का समेकन व तुलन)",
+            "आसन्न भूतकाल) (Context: भूतकाल के सभी रूपों का समेकन व तुलन)"
           ],
           "answerIndex": 0,
           "explanation": "'रहा था' भूतकाल में क्रिया के जारी रहने (अपूर्ण भूतकाल) को दर्शाता है।"
@@ -3510,9 +3510,9 @@
           "prompt": "भूतकाल के विभिन्न रूपों के समन्वय वाला पूर्णतः शुद्ध और सुसंगत वाक्य चुनिए:",
           "options": [
             "कल जब मैं बाज़ार गया था, तब उसने मुझे देखा और हमने साथ में चाय पी। (Yesterday when I had gone to the market, he saw me and we drank tea together.)",
-            "कल जब मैंने गया था तब उसने मुझे देखा था और हम चाय पी। (Target expression (Hindi))",
-            "जब मैं गया था उसने चाय पिया। (Target expression (Hindi))",
-            "हम चाय पीते थे अभी। (Target expression (Hindi))"
+            "कल जब मैंने गया था तब उसने मुझे देखा था और हम चाय पी।) (Context: भूतकाल के सभी रूपों का समेकन व तुलन)",
+            "जब मैं गया था उसने चाय पिया।) (Context: भूतकाल के सभी रूपों का समेकन व तुलन)",
+            "हम चाय पीते थे अभी।) (Context: भूतकाल के सभी रूपों का समेकन व तुलन)"
           ],
           "answerIndex": 0,
           "explanation": "«मैं गया था» (अकर्मक पूर्ण भूत), «उसने मुझे देखा» (तटस्थ अन्वय), और «हमने चाय पी» (कर्म-अन्वय) तीनों का व्याकरणिक संयोजन उत्कृष्ट है।"
@@ -3561,9 +3561,9 @@
           "prompt": "सर्वनाम 'मैं' (स्त्रीलिंग) के साथ 'लिखना' क्रिया का सामान्य भविष्यत् काल क्या होगा?",
           "options": [
             "लिखूँगी (Likhoongi - I will write [fem. singular])",
-            "लिखूँगा (Target expression (Hindi))",
-            "लिखेगी (Target expression (Hindi))",
-            "लिखोगी (Target expression (Hindi))"
+            "लिखूँगा) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)",
+            "लिखेगी) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)",
+            "लिखोगी) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)"
           ],
           "answerIndex": 0,
           "explanation": "प्रथम पुरुष स्त्रीलिंग एकवचन 'मैं' के साथ 'धातु + -ऊँगी' (लिखूँगी) प्रयुक्त होता है।"
@@ -3576,9 +3576,9 @@
           "prompt": "सर्वनाम 'तुम' (पुल्लिंग) के साथ 'गाना गाना' का सही भविष्यत् रूप क्या है?",
           "options": [
             "गाओगे (Gaaoge - You will sing [fam. masc.])",
-            "गाएगा (Target expression (Hindi))",
-            "गाएँगे (Target expression (Hindi))",
-            "गाऊँगा (Target expression (Hindi))"
+            "गाएगा) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)",
+            "गाएँगे) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)",
+            "गाऊँगा) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)"
           ],
           "answerIndex": 0,
           "explanation": "'तुम' पुल्लिंग के साथ 'धातु + -ओगे' (गाओगे) आता है।"
@@ -3592,9 +3592,9 @@
           "prompt": "सामान्य भविष्यत् काल के लिंग-वचन समन्वय वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "कल सभी छात्राएं पुरस्कार वितरण समारोह में भाग लेंगी और गीत गाएँगी। (All girl students will participate in the prize distribution ceremony and sing songs tomorrow.)",
-            "कल सभी छात्राएं भाग लेंगे और गाएगा। (Target expression (Hindi))",
-            "छात्राओं ने भाग लेंगी। (Target expression (Hindi))",
-            "छात्राएं भाग लेगा। (Target expression (Hindi))"
+            "कल सभी छात्राएं भाग लेंगे और गाएगा।) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)",
+            "छात्राओं ने भाग लेंगी।) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)",
+            "छात्राएं भाग लेगा।) (Context: सामान्य भविष्यत् काल के प्रत्यय (-ऊ)"
           ],
           "answerIndex": 0,
           "explanation": "«भाग लेंगी» और «गाएँगी» दोनों स्त्रीलिंग बहुवचन भविष्यत् रूप हैं और कर्ता के साथ पूर्णतः संगत हैं।"
@@ -3643,9 +3643,9 @@
           "prompt": "सर्वनाम 'हम' के साथ 'करना' क्रिया का शुद्ध भविष्यत् रूप क्या है?",
           "options": [
             "करेंगे (Karenge - We will do [masc. plural])",
-            "करूँगा (Target expression (Hindi))",
-            "करेगा (Target expression (Hindi))",
-            "करोगे (Target expression (Hindi))"
+            "करूँगा) (Context: अनियमित भविष्यत् धातुएं)",
+            "करेगा) (Context: अनियमित भविष्यत् धातुएं)",
+            "करोगे) (Context: अनियमित भविष्यत् धातुएं)"
           ],
           "answerIndex": 0,
           "explanation": "'हम' (पुल्लिंग बहुवचन) के साथ 'करना' का रूप «करेंगे» बनता है।"
@@ -3658,9 +3658,9 @@
           "prompt": "वाक्य «मैं कल आपको उत्तर ___» में 'देना' (पुल्लिंग एकवचन) का सही रूप भरिए:",
           "options": [
             "दूँगा (Doonga - I will give [masc. singular])",
-            "देंगे (Target expression (Hindi))",
-            "देगा (Target expression (Hindi))",
-            "दोगे (Target expression (Hindi))"
+            "देंगे) (Context: अनियमित भविष्यत् धातुएं)",
+            "देगा) (Context: अनियमित भविष्यत् धातुएं)",
+            "दोगे) (Context: अनियमित भविष्यत् धातुएं)"
           ],
           "answerIndex": 0,
           "explanation": "'मैं' के साथ 'देना' का पुल्लिंग एकवचन रूप «दूँगा» होता है।"
@@ -3674,9 +3674,9 @@
           "prompt": "अनियमित भविष्यत् धातुओं का शुद्ध वाक्य पहचानिए:",
           "options": [
             "हम आपकी पूरी सहायता करेंगे और आपको सही मार्गदर्शन देंगे। (We will do all your help and will give you right guidance.)",
-            "हम सहायता करूँगा और दूँगा। (Target expression (Hindi))",
-            "हम ने सहायता करेंगे। (Target expression (Hindi))",
-            "सहायता करोगे हम। (Target expression (Hindi))"
+            "हम सहायता करूँगा और दूँगा।) (Context: अनियमित भविष्यत् धातुएं)",
+            "हम ने सहायता करेंगे।) (Context: अनियमित भविष्यत् धातुएं)",
+            "सहायता करोगे हम।) (Context: अनियमित भविष्यत् धातुएं)"
           ],
           "answerIndex": 0,
           "explanation": "«सहायता करेंगे» और «मार्गदर्शन देंगे» दोनों 'हम' के साथ पूर्णतः शुद्ध अनियमित भविष्यत् रूप हैं।"
@@ -3725,9 +3725,9 @@
           "prompt": "किसी से विनम्रतापूर्वक विदा माँगते समय 'Shall we leave now?' के लिए कौन-सा वाक्य प्रयुक्त होता है?",
           "options": [
             "क्या अब हम चलें? (Kya ab hum chalein? - Shall we leave now? [subjunctive proposal])",
-            "हम चलेंगे क्या? (Target expression (Hindi))",
-            "हम चले थे क्या? (Target expression (Hindi))",
-            "हम जा रहे हैं क्या? (Target expression (Hindi))"
+            "हम चलेंगे क्या?) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)",
+            "हम चले थे क्या?) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)",
+            "हम जा रहे हैं क्या?) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)"
           ],
           "answerIndex": 0,
           "explanation": "विनम्र प्रस्ताव या अनुमति के लिए उपशामक रूप «क्या अब हम चलें?» का प्रयोग होता है।"
@@ -3740,9 +3740,9 @@
           "prompt": "वाक्य «शायद वह आज न ___» में संभाव्य क्रिया रूप भरिए:",
           "options": [
             "आए (Aaye - May come [subjunctive 3rd sing])",
-            "आएगा (Target expression (Hindi))",
-            "आया (Target expression (Hindi))",
-            "आता है (Target expression (Hindi))"
+            "आएगा) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)",
+            "आया) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)",
+            "आता है) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)"
           ],
           "answerIndex": 0,
           "explanation": "'शायद' के साथ संभावना दर्शाने के लिए उपशामक रूप «आए» प्रयुक्त होता है।"
@@ -3756,9 +3756,9 @@
           "prompt": "संभाव्य रूप (Subjunctive Mood) का शुद्ध वाक्य चुनिए:",
           "options": [
             "हो सकता है कि कल बर्फ़बारी हो और रास्ते बंद हो जाएँ। (It is possible that snowfall may occur tomorrow and roads may get blocked.)",
-            "हो सकता है कि कल बर्फ़बारी होगा और बंद होंगे। (Target expression (Hindi))",
-            "हो सकता है बर्फ़बारी हुई थी। (Target expression (Hindi))",
-            "शायद बर्फ़बारी होती है। (Target expression (Hindi))"
+            "हो सकता है कि कल बर्फ़बारी होगा और बंद होंगे।) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)",
+            "हो सकता है बर्फ़बारी हुई थी।) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)",
+            "शायद बर्फ़बारी होती है।) (Context: संभाव्य भविष्यत् काल / उपशामक क्रिय)"
           ],
           "answerIndex": 0,
           "explanation": "«हो» और «हो जाएँ» दोनों 'हो सकता है कि' के साथ शुद्ध उपशामक रूप हैं।"
@@ -3807,9 +3807,9 @@
           "prompt": "अति-विनम्रतापूर्वक भविष्य के लिए निमंत्रण देने हेतु कौन-सा क्रिया रूप सबसे उपयुक्त है?",
           "options": [
             "आइएगा (Aayiyega - Super-polite future request)",
-            "आओ (Target expression (Hindi))",
-            "आ (Target expression (Hindi))",
-            "आएगा (Target expression (Hindi))"
+            "आओ) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)",
+            "आ) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)",
+            "आएगा) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)"
           ],
           "answerIndex": 0,
           "explanation": "भविष्य के आदरयुक्त एवं स्नेहपूर्ण निमंत्रण हेतु «आइएगा» (धातु + -इएगा) सर्वश्रेष्ठ रूप है।"
@@ -3822,9 +3822,9 @@
           "prompt": "वाक्य «यहाँ शोर ___ करो» में मानक निषेधात्मक शब्द भरिए:",
           "options": [
             "मत (Mat - Prohibitive marker for imperatives)",
-            "नहीं (Target expression (Hindi))",
-            "नाहीं (Target expression (Hindi))",
-            "बिना (Target expression (Hindi))"
+            "नहीं) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)",
+            "नाहीं) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)",
+            "बिना) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)"
           ],
           "answerIndex": 0,
           "explanation": "आज्ञार्थक वाक्यों में निषेध के लिए मानक शब्द «मत» प्रयुक्त होता है।"
@@ -3838,9 +3838,9 @@
           "prompt": "आदरसूचक और शिष्ट अनुरोध का सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
             "कृपया यह महत्वपूर्ण प्रपत्र भर दीजिए और हस्ताक्षर कर दीजिएगा। (Please fill this important form and kindly sign it.)",
-            "यह प्रपत्र भरो और हस्ताक्षर करो तुम। (Target expression (Hindi))",
-            "कृपया नहीं शोर कीजिए। (Target expression (Hindi))",
-            "प्रपत्र भरिए नहीं। (Target expression (Hindi))"
+            "यह प्रपत्र भरो और हस्ताक्षर करो तुम।) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)",
+            "कृपया नहीं शोर कीजिए।) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)",
+            "प्रपत्र भरिए नहीं।) (Context: आज्ञार्थक और विनम्र अनुरोध के स्तर)"
           ],
           "answerIndex": 0,
           "explanation": "«भर दीजिए» और «कर दीजिएगा» शिष्ट और अति-विनम्र अनुरोध के सटीक रूप हैं।"
@@ -3889,9 +3889,9 @@
           "prompt": "शर्त-वाक्य «अगर आप परिश्रम करेंगे, ___ अवश्य सफल होंगे» में उचित नित्य-संबंधी योजक क्या होगा?",
           "options": [
             "तो (To - Then [correlative to agar/yadi])",
-            "तब (Target expression (Hindi))",
-            "परंतु (Target expression (Hindi))",
-            "क्योंकि (Target expression (Hindi))"
+            "तब) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)",
+            "परंतु) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)",
+            "क्योंकि) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)"
           ],
           "answerIndex": 0,
           "explanation": "'अगर / यदि' के साथ परिणाम उपवाक्य में नित्य-संबंधी योजक «तो» आता है।"
@@ -3904,9 +3904,9 @@
           "prompt": "वाक्य «जब घंटी बजेगी, तब सभी छात्र कक्षा में ___» में उचित भविष्यत् क्रिया भरिए:",
           "options": [
             "जाएँगे (Jaayenge - Will go [masc. plural])",
-            "जाएगा (Target expression (Hindi))",
-            "गए थे (Target expression (Hindi))",
-            "जाता है (Target expression (Hindi))"
+            "जाएगा) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)",
+            "गए थे) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)",
+            "जाता है) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)"
           ],
           "answerIndex": 0,
           "explanation": "छात्र (पुल्लिंग बहुवचन) के साथ भविष्यत् काल में «जाएँगे» आता है।"
@@ -3920,9 +3920,9 @@
           "prompt": "शर्त-सूचक भविष्यत् वाक्य का सर्वथा शुद्ध और सुसंगत रूप चुनिए:",
           "options": [
             "अगर आप समय पर स्टेशन पहुँचेंगे, तो आपको गाड़ी मिल जाएगी। (If you reach the station on time, you will get the train.)",
-            "अगर आप पहुँचेंगे तब गाड़ी मिली थी। (Target expression (Hindi))",
-            "जब आप पहुँचेंगे तो गाड़ी मिल जाएगी। (Target expression (Hindi))",
-            "अगर आप पहुँचा तो गाड़ी मिलेगी। (Target expression (Hindi))"
+            "अगर आप पहुँचेंगे तब गाड़ी मिली थी।) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)",
+            "जब आप पहुँचेंगे तो गाड़ी मिल जाएगी।) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)",
+            "अगर आप पहुँचा तो गाड़ी मिलेगी।) (Context: भविष्यत् काल में शर्त-वाक्य (Condit)"
           ],
           "answerIndex": 0,
           "explanation": "«अगर... पहुँचेंगे, तो... मिल जाएगी» में शर्त और परिणाम का व्याकरणिक संबंध पूर्णतः शुद्ध है।"
@@ -3971,9 +3971,9 @@
           "prompt": "वाक्य «I need a pen» के लिए शुद्ध व्याकरणिक हिंदी अनुवाद क्या होगा?",
           "options": [
             "मुझे एक कलम चाहिए (Mujhe ek kalam chaahiye - I need a pen)",
-            "मैं एक कलम चाहिए (Target expression (Hindi))",
-            "मुझको कलम चाहती हूँ (Target expression (Hindi))",
-            "मेरा एक कलम चाहिए (Target expression (Hindi))"
+            "मैं एक कलम चाहिए) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)",
+            "मुझको कलम चाहती हूँ) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)",
+            "मेरा एक कलम चाहिए) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "'I need' के लिए संप्रदान कारक «मुझे» और क्रिया «चाहिए» का प्रयोग होता है।"
@@ -3986,9 +3986,9 @@
           "prompt": "सर्वनाम 'हम' के साथ 'चाहिए' का सही कर्ता रूप क्या है?",
           "options": [
             "हमें (Humein - We in dative)",
-            "हम (Target expression (Hindi))",
-            "हमारा (Target expression (Hindi))",
-            "हमको ने (Target expression (Hindi))"
+            "हम) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)",
+            "हमारा) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)",
+            "हमको ने) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "'हम + को' का मानक संप्रदान रूप «हमें» होता है।"
@@ -4002,9 +4002,9 @@
           "prompt": "संज्ञा के साथ 'चाहिए' की सही संरचना वाला वाक्य पहचानिए:",
           "options": [
             "पुस्तकालय से सभी छात्रों को अध्ययन के लिए नई पुस्तकें चाहिए। (All students need new books for study from the library.)",
-            "सभी छात्र नई पुस्तकें चाहिए। (Target expression (Hindi))",
-            "छात्रों ने पुस्तकें चाहिए। (Target expression (Hindi))",
-            "छात्रों का पुस्तकें चाहिए। (Target expression (Hindi))"
+            "सभी छात्र नई पुस्तकें चाहिए।) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)",
+            "छात्रों ने पुस्तकें चाहिए।) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)",
+            "छात्रों का पुस्तकें चाहिए।) (Context: संज्ञा के साथ 'चाहिए' की मूल संरचना)"
           ],
           "answerIndex": 0,
           "explanation": "«छात्रों को नई पुस्तकें चाहिए» में कर्ता के साथ 'को' और आवश्यक वस्तु के साथ 'चाहिए' का समन्वय शुद्ध है।"
@@ -4053,9 +4053,9 @@
           "prompt": "स्त्रीलिंग कर्म 'भाषा' के साथ 'सीखना चाहिए' का शुद्ध व्याकरणिक रूप क्या होगा?",
           "options": [
             "भाषा सीखनी चाहिए (Bhasha seekhni chaahiye - Should learn the language)",
-            "भाषा सीखना चाहिए (Target expression (Hindi))",
-            "भाषा सीखने चाहिए (Target expression (Hindi))",
-            "भाषा सीखता चाहिए (Target expression (Hindi))"
+            "भाषा सीखना चाहिए) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)",
+            "भाषा सीखने चाहिए) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)",
+            "भाषा सीखता चाहिए) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'भाषा' के साथ क्रियार्थक संज्ञा का रूप «सीखनी चाहिए» बनता है।"
@@ -4068,9 +4068,9 @@
           "prompt": "वाक्य «आपको समय पर घर ___ चाहिए» में उचित अकर्मक क्रिया भरिए:",
           "options": [
             "पहुँचना (Pahunchna chaahiye - You should reach home on time)",
-            "पहुँचनी (Target expression (Hindi))",
-            "पहुँचने (Target expression (Hindi))",
-            "पहुँचता (Target expression (Hindi))"
+            "पहुँचनी) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)",
+            "पहुँचने) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)",
+            "पहुँचता) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)"
           ],
           "answerIndex": 0,
           "explanation": "अकर्मक क्रिया में क्रियार्थक संज्ञा का मानक रूप «पहुँचना चाहिए» (तटस्थ पुल्लिंग एकवचन) होता है।"
@@ -4084,9 +4084,9 @@
           "prompt": "क्रियार्थक संज्ञा के सही अन्वय वाला नैतिक सलाह का वाक्य चुनिए:",
           "options": [
             "हमें सदैव सच बोलना चाहिए और सबकी सहायता करनी चाहिए। (We should always speak the truth and help everyone.)",
-            "हमको सच बोलनी चाहिए और सहायता करना चाहिए। (Target expression (Hindi))",
-            "हम सच बोलना चाहिए। (Target expression (Hindi))",
-            "हमें सच बोलता चाहिए। (Target expression (Hindi))"
+            "हमको सच बोलनी चाहिए और सहायता करना चाहिए।) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)",
+            "हम सच बोलना चाहिए।) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)",
+            "हमें सच बोलता चाहिए।) (Context: क्रियार्थक संज्ञा के साथ 'चाहिए' (क)"
           ],
           "answerIndex": 0,
           "explanation": "«सच बोलना चाहिए» (सच पु.) और «सहायता करनी चाहिए» (सहायता स्त्री.) दोनों का अन्वय पूर्णतः शुद्ध है।"
@@ -4135,9 +4135,9 @@
           "prompt": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ भूतकालिक पछतावे का कौन-सा रूप शुद्ध होगा?",
           "options": [
             "भेजनी चाहिए थीं (Bhejni chaahiye theen - Should have sent [fem. plural])",
-            "भेजना चाहिए था (Target expression (Hindi))",
-            "भेजने चाहिए थे (Target expression (Hindi))",
-            "भेजनी चाहिए थी (Target expression (Hindi))"
+            "भेजना चाहिए था) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)",
+            "भेजने चाहिए थे) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)",
+            "भेजनी चाहिए थी) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ «भेजनी चाहिए थीं» (अनुनासिक 'थीं') आता है।"
@@ -4150,9 +4150,9 @@
           "prompt": "वाक्य «उसे यह बात पहले ही ___ चाहिए थी» में सही क्रियार्थक संज्ञा भरिए:",
           "options": [
             "बतानी (Bataani chaahiye thi - Should have told [fem. singular agreement with baat])",
-            "बताना (Target expression (Hindi))",
-            "बताने (Target expression (Hindi))",
-            "बताता (Target expression (Hindi))"
+            "बताना) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)",
+            "बताने) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)",
+            "बताता) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)"
           ],
           "answerIndex": 0,
           "explanation": "कर्म 'बात' स्त्रीलिंग एकवचन है, अतः «बतानी चाहिए थी» रूप होगा।"
@@ -4166,9 +4166,9 @@
           "prompt": "भूतकालिक कर्तव्य (Should have done) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "आपको स्टेशन समय पर पहुँचना चाहिए था ताकि गाड़ी न छूटती। (You should have reached the station on time so that the train was not missed.)",
-            "आप स्टेशन पहुँचना चाहिए था। (Target expression (Hindi))",
-            "आपको पहुँचना चाहिए थी। (Target expression (Hindi))",
-            "आपको पहुँचे चाहिए थे। (Target expression (Hindi))"
+            "आप स्टेशन पहुँचना चाहिए था।) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)",
+            "आपको पहुँचना चाहिए थी।) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)",
+            "आपको पहुँचे चाहिए थे।) (Context: अतीत में कर्तव्य / पछतावा (चाहिए था)"
           ],
           "answerIndex": 0,
           "explanation": "«आपको पहुँचना चाहिए था» में संप्रदान कर्ता और अकर्मक क्रिया का तटस्थ भूतकालिक अन्वय पूर्णतः शुद्ध है।"
@@ -4217,9 +4217,9 @@
           "prompt": "नकारात्मक नैतिक सलाह «झूठ नहीं बोलना चाहिए» में 'नहीं' का स्थान कहाँ होना चाहिए?",
           "options": [
             "क्रियार्थक संज्ञा से ठीक पहले (झूठ नहीं बोलना चाहिए - Should not tell lies)",
-            "वाक्य के सबसे अंत में (Target expression (Hindi))",
-            "कर्ता से पहले (Target expression (Hindi))",
-            "चाहिए के बाद (Target expression (Hindi))"
+            "वाक्य के सबसे अंत में) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)",
+            "कर्ता से पहले) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)",
+            "चाहिए के बाद) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)"
           ],
           "answerIndex": 0,
           "explanation": "मानक हिंदी में 'नहीं' क्रियार्थक संज्ञा के ठीक पहले («झूठ नहीं बोलना चाहिए») आता है।"
@@ -4232,9 +4232,9 @@
           "prompt": "वाक्य «I do not want this book» का शुद्ध अनुवाद चुनिए:",
           "options": [
             "मुझे यह पुस्तक नहीं चाहिए (Mujhe yah pustak nahin chaahiye)",
-            "मैं यह पुस्तक नहीं चाहता चाहिए (Target expression (Hindi))",
-            "मुझको पुस्तक मत चाहिए (Target expression (Hindi))",
-            "मेरी पुस्तक नहीं चाहिए (Target expression (Hindi))"
+            "मैं यह पुस्तक नहीं चाहता चाहिए) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)",
+            "मुझको पुस्तक मत चाहिए) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)",
+            "मेरी पुस्तक नहीं चाहिए) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)"
           ],
           "answerIndex": 0,
           "explanation": "वस्तु की अस्वीकृति हेतु «मुझे यह पुस्तक नहीं चाहिए» शुद्ध रूप है।"
@@ -4248,9 +4248,9 @@
           "prompt": "नकारात्मक अनिवार्यता और निषेध का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "किसी को भी किसी असहाय व्यक्ति का मज़ाक नहीं उड़ाना चाहिए। (No one should make fun of any helpless person.)",
-            "किसी को भी मज़ाक मत उड़ाना चाहिए। (Target expression (Hindi))",
-            "किसी को मज़ाक नहीं उड़ानी चाहिए था। (Target expression (Hindi))",
-            "कोई मज़ाक नहीं उड़ाना चाहिए। (Target expression (Hindi))"
+            "किसी को भी मज़ाक मत उड़ाना चाहिए।) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)",
+            "किसी को मज़ाक नहीं उड़ानी चाहिए था।) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)",
+            "कोई मज़ाक नहीं उड़ाना चाहिए।) (Context: नकारात्मक अनिवार्यता और निषेध (नहीं)"
           ],
           "answerIndex": 0,
           "explanation": "«किसी को भी... मज़ाक नहीं उड़ाना चाहिए» में संप्रदान कारक और निषेध का प्रयोग व्याकरणसम्मत है।"
@@ -4299,9 +4299,9 @@
           "prompt": "औपचारिक विज्ञापनों में 'Wanted / Required' के लिए सबसे मानक हिंदी पद कौन-सा है?",
           "options": [
             "आवश्यकता है (Aavashyakta hai - Formally required / wanted)",
-            "चाहिए (Target expression (Hindi))",
-            "ज़रूरत है (Target expression (Hindi))",
-            "माँग है (Target expression (Hindi))"
+            "चाहिए) (Context: आवश्यकता और अनिवार्यता के विविध रूप)",
+            "ज़रूरत है) (Context: आवश्यकता और अनिवार्यता के विविध रूप)",
+            "माँग है) (Context: आवश्यकता और अनिवार्यता के विविध रूप)"
           ],
           "answerIndex": 0,
           "explanation": "औपचारिक और प्रशासनिक संदर्भ में «आवश्यकता है» सबसे प्रामाणिक शब्द है।"
@@ -4314,9 +4314,9 @@
           "prompt": "वाक्य «मुझे इस समय आपकी सहायता ___ ज़रूरत है» में सही परसर्ग भरिए:",
           "options": [
             "की (Ki zaroorat hai - Need of [fem. noun zaroorat])",
-            "का (Target expression (Hindi))",
-            "के (Target expression (Hindi))",
-            "को (Target expression (Hindi))"
+            "का) (Context: आवश्यकता और अनिवार्यता के विविध रूप)",
+            "के) (Context: आवश्यकता और अनिवार्यता के विविध रूप)",
+            "को) (Context: आवश्यकता और अनिवार्यता के विविध रूप)"
           ],
           "answerIndex": 0,
           "explanation": "'ज़रूरत' स्त्रीलिंग संज्ञा है, अतः इसके साथ संबंध परसर्ग «की» (की ज़रूरत है) आता है।"
@@ -4330,9 +4330,9 @@
           "prompt": "आवश्यकता और सलाह के विविध रूपों वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "यदि आपको समय की ज़रूरत हो तो बताइएगा, परंतु काम समय पर समाप्त होना चाहिए। (If you need time please let me know, but the work should be finished on time.)",
-            "यदि आपको समय का ज़रूरत हो तो बताइएगा। (Target expression (Hindi))",
-            "काम समाप्त होना चाहिए था अभी। (Target expression (Hindi))",
-            "समय की आवश्यकता है तुमको। (Target expression (Hindi))"
+            "यदि आपको समय का ज़रूरत हो तो बताइएगा।) (Context: आवश्यकता और अनिवार्यता के विविध रूप)",
+            "काम समाप्त होना चाहिए था अभी।) (Context: आवश्यकता और अनिवार्यता के विविध रूप)",
+            "समय की आवश्यकता है तुमको।) (Context: आवश्यकता और अनिवार्यता के विविध रूप)"
           ],
           "answerIndex": 0,
           "explanation": "«समय की ज़रूरत हो» (सटीक संबंध परसर्ग) और «समाप्त होना चाहिए» (सटीक अनिवार्यता) दोनों का समन्वय पूर्णतः शुद्ध है।"
@@ -4381,9 +4381,9 @@
           "prompt": "स्त्रीलिंग कर्म 'बात' के साथ 'कहना है' का शुद्ध व्याकरणिक रूप क्या होगा?",
           "options": [
             "मुझे आपसे एक बात कहनी है (Mujhe aapse ek baat kahni hai - I have to tell you something [fem. agreement])",
-            "मुझे बात कहना है (Target expression (Hindi))",
-            "मैं बात कहनी है (Target expression (Hindi))",
-            "मुझे बात कहने हैं (Target expression (Hindi))"
+            "मुझे बात कहना है) (Context: सामान्य बाध्यता / आंतरिक दायित्व)",
+            "मैं बात कहनी है) (Context: सामान्य बाध्यता / आंतरिक दायित्व)",
+            "मुझे बात कहने हैं) (Context: सामान्य बाध्यता / आंतरिक दायित्व)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'बात' के अनुसार क्रियार्थक संज्ञा «कहनी है» बनेगी।"
@@ -4396,9 +4396,9 @@
           "prompt": "वाक्य «हमें आज शाम कई कपड़े ___ हैं» में उचित क्रियार्थक संज्ञा भरिए:",
           "options": [
             "धोने (Dhone hain - Have to wash [masc. plural agreement with kapde])",
-            "धोना (Target expression (Hindi))",
-            "धोनी (Target expression (Hindi))",
-            "धोता (Target expression (Hindi))"
+            "धोना) (Context: सामान्य बाध्यता / आंतरिक दायित्व)",
+            "धोनी) (Context: सामान्य बाध्यता / आंतरिक दायित्व)",
+            "धोता) (Context: सामान्य बाध्यता / आंतरिक दायित्व)"
           ],
           "answerIndex": 0,
           "explanation": "पुल्लिंग बहुवचन कर्म 'कपड़े' के साथ क्रियार्थक संज्ञा का रूप «धोने हैं» होगा।"
@@ -4412,9 +4412,9 @@
           "prompt": "योजना/कार्यक्रम (Have to do) की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "आज दोपहर मुझे बैंक जाकर ज़रूरी दस्तावेज़ जमा करने हैं। (Today afternoon I have to go to the bank and submit important documents.)",
-            "आज दोपहर मैं बैंक जाना है। (Target expression (Hindi))",
-            "मुझे दस्तावेज़ जमा करना हैं। (Target expression (Hindi))",
-            "मुझको दस्तावेज़ जमा करनी है। (Target expression (Hindi))"
+            "आज दोपहर मैं बैंक जाना है।) (Context: सामान्य बाध्यता / आंतरिक दायित्व)",
+            "मुझे दस्तावेज़ जमा करना हैं।) (Context: सामान्य बाध्यता / आंतरिक दायित्व)",
+            "मुझको दस्तावेज़ जमा करनी है।) (Context: सामान्य बाध्यता / आंतरिक दायित्व)"
           ],
           "answerIndex": 0,
           "explanation": "«मुझे... दस्तावेज़ जमा करने हैं» में संप्रदान कर्ता और पुल्लिंग बहुवचन कर्म का अन्वय शुद्ध है।"
@@ -4463,9 +4463,9 @@
           "prompt": "स्त्रीलिंग कर्म 'मेहनत' के साथ मजबूरी का वर्तमान रूप क्या होगा?",
           "options": [
             "मेहनत करनी पड़ती है (Mehnat karni padti hai - Has to work hard [fem. agreement])",
-            "मेहनत करना पड़ता है (Target expression (Hindi))",
-            "मेहनत करने पड़ते हैं (Target expression (Hindi))",
-            "मेहनत करती पड़ती है (Target expression (Hindi))"
+            "मेहनत करना पड़ता है) (Context: बाह्य मजबूरी और विवशता)",
+            "मेहनत करने पड़ते हैं) (Context: बाह्य मजबूरी और विवशता)",
+            "मेहनत करती पड़ती है) (Context: बाह्य मजबूरी और विवशता)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'मेहनत' के अनुसार «करनी पड़ती है» रूप प्रयुक्त होगा।"
@@ -4478,9 +4478,9 @@
           "prompt": "वाक्य «उसे हर महीने भारी टैक्स ___» में सही मजबूरी रूप भरिए:",
           "options": [
             "देना पड़ता है (Dena padta hai - Has to pay [masc. tax])",
-            "देनी पड़ती है (Target expression (Hindi))",
-            "देने पड़ते हैं (Target expression (Hindi))",
-            "देना पड़ते हैं (Target expression (Hindi))"
+            "देनी पड़ती है) (Context: बाह्य मजबूरी और विवशता)",
+            "देने पड़ते हैं) (Context: बाह्य मजबूरी और विवशता)",
+            "देना पड़ते हैं) (Context: बाह्य मजबूरी और विवशता)"
           ],
           "answerIndex": 0,
           "explanation": "टैक्स (पुल्लिंग एकवचन) के साथ «देना पड़ता है» आएगा।"
@@ -4494,9 +4494,9 @@
           "prompt": "वर्तमान मजबूरी (Habitual Compulsion) का पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "समय की कमी के कारण हमें रात में देर तक जागना पड़ता है। (Due to lack of time we have to stay awake late at night.)",
-            "हम रात में जागना पड़ता है। (Target expression (Hindi))",
-            "हमें जागनी पड़ती है था। (Target expression (Hindi))",
-            "हमको रात में जागते पड़ता है। (Target expression (Hindi))"
+            "हम रात में जागना पड़ता है।) (Context: बाह्य मजबूरी और विवशता)",
+            "हमें जागनी पड़ती है था।) (Context: बाह्य मजबूरी और विवशता)",
+            "हमको रात में जागते पड़ता है।) (Context: बाह्य मजबूरी और विवशता)"
           ],
           "answerIndex": 0,
           "explanation": "«हमें... जागना पड़ता है» में संप्रदान कर्ता और अकर्मक मजबूरी का वर्तमान अन्वय पूर्णतः शुद्ध है।"
@@ -4545,9 +4545,9 @@
           "prompt": "वाक्य «I had to buy a ticket» का शुद्ध हिंदी अनुवाद क्या होगा?",
           "options": [
             "मुझे टिकट खरीदना पड़ा (Mujhe ticket khareedna pada - I had to buy a ticket)",
-            "मैंने टिकट खरीदा पड़ा (Target expression (Hindi))",
-            "मुझको टिकट खरीदनी पड़ी (Target expression (Hindi))",
-            "मैं टिकट खरीदना पड़ा (Target expression (Hindi))"
+            "मैंने टिकट खरीदा पड़ा) (Context: भूतकालिक मजबूरी)",
+            "मुझको टिकट खरीदनी पड़ी) (Context: भूतकालिक मजबूरी)",
+            "मैं टिकट खरीदना पड़ा) (Context: भूतकालिक मजबूरी)"
           ],
           "answerIndex": 0,
           "explanation": "भूतकालिक मजबूरी में कर्ता के साथ 'को' («मुझे») और क्रिया «खरीदना पड़ा» (टिकट पु.) आता है।"
@@ -4560,9 +4560,9 @@
           "prompt": "स्त्रीलिंग कर्म 'माफ़ी' के साथ भूतकालिक मजबूरी का रूप क्या होगा?",
           "options": [
             "माँगनी पड़ी (Maangni padi - Had to apologize [fem. agreement])",
-            "माँगना पड़ा (Target expression (Hindi))",
-            "माँगने पड़े (Target expression (Hindi))",
-            "माँगती पड़ी (Target expression (Hindi))"
+            "माँगना पड़ा) (Context: भूतकालिक मजबूरी)",
+            "माँगने पड़े) (Context: भूतकालिक मजबूरी)",
+            "माँगती पड़ी) (Context: भूतकालिक मजबूरी)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग कर्म 'माफ़ी' के अनुसार रूप «माँगनी पड़ी» बनेगा।"
@@ -4576,9 +4576,9 @@
           "prompt": "भूतकालिक मजबूरी (Had to do) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
             "विमान निरस्त होने के कारण यात्रियों को पूरी रात हवाई अड्डे पर ही रुकना पड़ा। (Due to flight cancellation, passengers had to stay at the airport all night.)",
-            "यात्रियों ने हवाई अड्डे पर रुकना पड़ा। (Target expression (Hindi))",
-            "यात्री हवाई अड्डे रुकना पड़ा था। (Target expression (Hindi))",
-            "यात्रियों को रुकनी पड़ी। (Target expression (Hindi))"
+            "यात्रियों ने हवाई अड्डे पर रुकना पड़ा।) (Context: भूतकालिक मजबूरी)",
+            "यात्री हवाई अड्डे रुकना पड़ा था।) (Context: भूतकालिक मजबूरी)",
+            "यात्रियों को रुकनी पड़ी।) (Context: भूतकालिक मजबूरी)"
           ],
           "answerIndex": 0,
           "explanation": "«यात्रियों को... रुकना पड़ा» में संप्रदान कारक और अकर्मक क्रिया का भूतकालिक मजबूरी अन्वय पूर्णतः शुद्ध है।"
@@ -4627,9 +4627,9 @@
           "prompt": "स्त्रीलिंग बहुवचन कर्म 'दवाइयाँ' के साथ भविष्यकालिक मजबूरी का सही रूप क्या होगा?",
           "options": [
             "लेनी पड़ेंगी (Leni padengi - Will have to take [fem. plural])",
-            "लेना पड़ेगा (Target expression (Hindi))",
-            "लेने पड़ेंगे (Target expression (Hindi))",
-            "लेनी पड़ेगी (Target expression (Hindi))"
+            "लेना पड़ेगा) (Context: भविष्यकालिक मजबूरी)",
+            "लेने पड़ेंगे) (Context: भविष्यकालिक मजबूरी)",
+            "लेनी पड़ेगी) (Context: भविष्यकालिक मजबूरी)"
           ],
           "answerIndex": 0,
           "explanation": "स्त्रीलिंग बहुवचन कर्म 'दवाइयाँ' के साथ अनुनासिक युक्त «लेनी पड़ेंगी» आएगा।"
@@ -4642,9 +4642,9 @@
           "prompt": "वाक्य «कल आपको इस मामले पर निर्णय ___» में सही भविष्यत् मजबूरी भरिए:",
           "options": [
             "लेना पड़ेगा (Lena padega - Will have to take [masc. decision])",
-            "लेनी पड़ेगी (Target expression (Hindi))",
-            "लेने पड़ेंगे (Target expression (Hindi))",
-            "लेता पड़ेगा (Target expression (Hindi))"
+            "लेनी पड़ेगी) (Context: भविष्यकालिक मजबूरी)",
+            "लेने पड़ेंगे) (Context: भविष्यकालिक मजबूरी)",
+            "लेता पड़ेगा) (Context: भविष्यकालिक मजबूरी)"
           ],
           "answerIndex": 0,
           "explanation": "निर्णय (पुल्लिंग एकवचन) के साथ «लेना पड़ेगा» प्रयुक्त होता है।"
@@ -4658,9 +4658,9 @@
           "prompt": "भविष्यकालिक मजबूरी (Will have to do) का व्याकरणसम्मत शुद्ध वाक्य चुनिए:",
           "options": [
             "यदि आप देर से आएँगे, तो आपको बाहर ही प्रतीक्षा करनी पड़ेगी। (If you come late, you will have to wait outside.)",
-            "आपको बाहर प्रतीक्षा करना पड़ेगा। (Target expression (Hindi))",
-            "आप बाहर प्रतीक्षा करनी पड़ेगी। (Target expression (Hindi))",
-            "आपको बाहर प्रतीक्षा करेंगे पड़ेगा। (Target expression (Hindi))"
+            "आपको बाहर प्रतीक्षा करना पड़ेगा।) (Context: भविष्यकालिक मजबूरी)",
+            "आप बाहर प्रतीक्षा करनी पड़ेगी।) (Context: भविष्यकालिक मजबूरी)",
+            "आपको बाहर प्रतीक्षा करेंगे पड़ेगा।) (Context: भविष्यकालिक मजबूरी)"
           ],
           "answerIndex": 0,
           "explanation": "प्रतीक्षा (स्त्री.) के अनुसार «प्रतीक्षा करनी पड़ेगी» और संप्रदान कर्ता «आपको» पूर्णतः शुद्ध हैं।"
@@ -4709,9 +4709,9 @@
           "prompt": "व्यक्तिगत योजना/कार्यसूची (Scheduled Plan) व्यक्त करने हेतु कौन-सा वाक्य उपयुक्त है?",
           "options": [
             "मुझे आज बाज़ार जाना है (Mujhe aaj baazaar jaana hai - I have to go to the market today [plan])",
-            "मुझे बाज़ार जाना पड़ता है (Target expression (Hindi))",
-            "मुझे बाज़ार जाना चाहिए था (Target expression (Hindi))",
-            "मैं बाज़ार जाना पड़ा (Target expression (Hindi))"
+            "मुझे बाज़ार जाना पड़ता है) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)",
+            "मुझे बाज़ार जाना चाहिए था) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)",
+            "मैं बाज़ार जाना पड़ा) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)"
           ],
           "answerIndex": 0,
           "explanation": "व्यक्तिगत योजना या कार्यक्रम हेतु «मुझे जाना है» (Infinitive + होना) का प्रयोग होता है।"
@@ -4724,9 +4724,9 @@
           "prompt": "बाह्य दबाव या मजबूरी (External Compulsion) व्यक्त करने वाला वाक्य पहचानिए:",
           "options": [
             "मुझे अनिच्छा से यह काम करना पड़ता है (Mujhe anichha se yah kaam karna padta hai - I am forced to do this work reluctantly)",
-            "मुझे यह काम करना है (Target expression (Hindi))",
-            "मुझे यह काम करना चाहिए (Target expression (Hindi))",
-            "मैं यह काम करूँगा (Target expression (Hindi))"
+            "मुझे यह काम करना है) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)",
+            "मुझे यह काम करना चाहिए) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)",
+            "मैं यह काम करूँगा) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)"
           ],
           "answerIndex": 0,
           "explanation": "बाह्य दबाव और मजबूरी के लिए «करना पड़ता है» का प्रयोग होता है।"
@@ -4740,9 +4740,9 @@
           "prompt": "बाध्यता और मजबूरी के तीनों रूपों के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
             "हमें सच बोलना चाहिए, पर कभी-कभी परिस्थितियों के कारण चुप रहना पड़ता है। (We should speak truth, but sometimes due to circumstances we have to remain silent.)",
-            "हम सच बोलना चाहिए पर चुप रहना पड़ता है। (Target expression (Hindi))",
-            "हमें सच बोलना है पर चुप रहना पड़ा था अभी। (Target expression (Hindi))",
-            "हमें सच बोलना पड़ता है और चुप रहना चाहिए। (Target expression (Hindi))"
+            "हम सच बोलना चाहिए पर चुप रहना पड़ता है।) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)",
+            "हमें सच बोलना है पर चुप रहना पड़ा था अभी।) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)",
+            "हमें सच बोलना पड़ता है और चुप रहना चाहिए।) (Context: बाध्यता और अनिवार्यता का समग्र तुलन)"
           ],
           "answerIndex": 0,
           "explanation": "«सच बोलना चाहिए» (नैतिक सलाह) और «चुप रहना पड़ता है» (परिस्थितिजन्य मजबूरी) का समन्वय अर्थ और व्याकरण दोनों से पूर्णतः शुद्ध है।"
@@ -4791,9 +4791,9 @@
           "prompt": "भौतिक वस्तु 'कंप्यूटर' के स्वामित्व के लिए कौन-सा वाक्य पूर्णतः शुद्ध है?",
           "options": [
             "मेरे पास एक नया कंप्यूटर है (Mere paas ek naya computer hai - I have a new computer)",
-            "मेरा एक नया कंप्यूटर है (अस्वाभाविक स्वामित्व) (Target expression (Hindi))",
-            "मुझको एक नया कंप्यूटर है (रोग/अनुभूति का अशुद्ध परसर्ग) (Target expression (Hindi))",
-            "मुझमें एक नया कंप्यूटर है (आंतरिक गुण का अनुपयुक्त प्रयोग) (Target expression (Hindi))"
+            "मेरा एक नया कंप्यूटर है (अस्वाभाविक स्वामित्व)) (Context: मूर्त एवं चल संपत्तियों का स्वामित्)",
+            "मुझको एक नया कंप्यूटर है (रोग/अनुभूति का अशुद्ध परसर्ग)) (Context: मूर्त एवं चल संपत्तियों का स्वामित्)",
+            "मुझमें एक नया कंप्यूटर है (आंतरिक गुण का अनुपयुक्त प्रयोग)) (Context: मूर्त एवं चल संपत्तियों का स्वामित्)"
           ],
           "answerIndex": 0,
           "explanation": "भौतिक और चल वस्तु के स्वामित्व हेतु «मेरे पास» का प्रयोग शुद्ध है।"
@@ -4822,9 +4822,9 @@
           "prompt": "मूर्त वस्तु के स्वामित्व (Physical Possession) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
             "रोहन के पास परीक्षा की तैयारी के लिए सभी आवश्यक पुस्तकें और नोट्स हैं। (Rohan has all necessary books and notes for exam preparation.)",
-            "रोहन का परीक्षा की पुस्तकें हैं। (Target expression (Hindi))",
-            "रोहन को पुस्तकें हैं। (Target expression (Hindi))",
-            "रोहन में पुस्तकें हैं। (Target expression (Hindi))"
+            "रोहन का परीक्षा की पुस्तकें हैं।) (Context: मूर्त एवं चल संपत्तियों का स्वामित्)",
+            "रोहन को पुस्तकें हैं।) (Context: मूर्त एवं चल संपत्तियों का स्वामित्)",
+            "रोहन में पुस्तकें हैं।) (Context: मूर्त एवं चल संपत्तियों का स्वामित्)"
           ],
           "answerIndex": 0,
           "explanation": "«रोहन के पास... पुस्तकें और नोट्स हैं» में मूर्त स्वामित्व की संरचना पूर्णतः शुद्ध है।"
@@ -4873,9 +4873,9 @@
           "prompt": "वाक्य «I have two sisters» का प्रामाणिक व्याकरणिक हिंदी अनुवाद क्या होगा?",
           "options": [
             "मेरी दो बहनें हैं (Meri do bahnein hain - I have two sisters)",
-            "मेरे पास दो बहनें हैं (पारिवारिक रिश्ते में 'के पास' का अमानक प्रयोग) (Target expression (Hindi))",
-            "मुझको दो बहनें हैं (अनुभूति सूचक परसर्ग की अशुद्धि) (Target expression (Hindi))",
-            "मेरे में दो बहनें हैं (स्थान/गुण सूचक परसर्ग का गलत रूप) (Target expression (Hindi))"
+            "मेरे पास दो बहनें हैं (पारिवारिक रिश्ते में 'के पास' का अमानक प्रयोग)) (Context: पारिवारिक संबंध एवं मित्र)",
+            "मुझको दो बहनें हैं (अनुभूति सूचक परसर्ग की अशुद्धि)) (Context: पारिवारिक संबंध एवं मित्र)",
+            "मेरे में दो बहनें हैं (स्थान/गुण सूचक परसर्ग का गलत रूप)) (Context: पारिवारिक संबंध एवं मित्र)"
           ],
           "answerIndex": 0,
           "explanation": "पारिवारिक रिश्तों के लिए 'के पास' नहीं बल्कि संबंध कारक «मेरी दो बहनें हैं» आता है।"
@@ -4904,9 +4904,9 @@
           "prompt": "पारिवारिक संबंधों के अन्वय वाला सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
             "मेरे चाचा जी के तीन बच्चे हैं जो सब डॉक्टर हैं। (My uncle has three children who are all doctors.)",
-            "मेरे चाचा जी के पास तीन बच्चे हैं। (Target expression (Hindi))",
-            "मेरे चाचा जी को तीन बच्चे हैं। (Target expression (Hindi))",
-            "चाचा जी में तीन बच्चे हैं। (Target expression (Hindi))"
+            "मेरे चाचा जी के पास तीन बच्चे हैं।) (Context: पारिवारिक संबंध एवं मित्र)",
+            "मेरे चाचा जी को तीन बच्चे हैं।) (Context: पारिवारिक संबंध एवं मित्र)",
+            "चाचा जी में तीन बच्चे हैं।) (Context: पारिवारिक संबंध एवं मित्र)"
           ],
           "answerIndex": 0,
           "explanation": "«चाचा जी के तीन बच्चे हैं» में पारिवारिक संबंध का मानक अन्वय पूर्णतः शुद्ध है।"
@@ -4955,9 +4955,9 @@
           "prompt": "अमूर्त गुण 'प्रतिभा' के संदर्भ में कौन-सा वाक्य शुद्ध है?",
           "options": [
             "आपमें बहुत प्रतिभा है (Aapmein bahut pratibha hai - You have immense talent [internal quality])",
-            "आपके पास बहुत प्रतिभा है (आंतरिक गुण में 'के पास' का अनुचित रूप) (Target expression (Hindi))",
-            "आपका बहुत प्रतिभा है (लिंग-कारक की असंगत रचना) (Target expression (Hindi))",
-            "आपको बहुत प्रतिभा है (अनुभूति कारक का अनुपयुक्त प्रयोग) (Target expression (Hindi))"
+            "आपके पास बहुत प्रतिभा है (आंतरिक गुण में 'के पास' का अनुचित रूप)) (Context: शारीरिक अंग एवं अमूर्त विशेषताएं)",
+            "आपका बहुत प्रतिभा है (लिंग-कारक की असंगत रचना)) (Context: शारीरिक अंग एवं अमूर्त विशेषताएं)",
+            "आपको बहुत प्रतिभा है (अनुभूति कारक का अनुपयुक्त प्रयोग)) (Context: शारीरिक अंग एवं अमूर्त विशेषताएं)"
           ],
           "answerIndex": 0,
           "explanation": "आंतरिक सद्गुणों और प्रतिभा के लिए «आपमें» (में परसर्ग) का प्रयोग मानक है।"
@@ -4986,9 +4986,9 @@
           "prompt": "शारीरिक अंग व आंतरिक गुणों के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
             "मोर के पंख बहुत सुंदर होते हैं और उस पक्षी में अद्भुत आकर्षण होता है। (Peacock has very beautiful feathers and that bird has wonderful charm.)",
-            "मोर के पास पंख बहुत सुंदर होते हैं। (Target expression (Hindi))",
-            "मोर को पंख होते हैं। (Target expression (Hindi))",
-            "मोर में पंख सुंदर होते हैं। (Target expression (Hindi))"
+            "मोर के पास पंख बहुत सुंदर होते हैं।) (Context: शारीरिक अंग एवं अमूर्त विशेषताएं)",
+            "मोर को पंख होते हैं।) (Context: शारीरिक अंग एवं अमूर्त विशेषताएं)",
+            "मोर में पंख सुंदर होते हैं।) (Context: शारीरिक अंग एवं अमूर्त विशेषताएं)"
           ],
           "answerIndex": 0,
           "explanation": "«मोर के पंख» (शारीरिक अंग) और «पक्षी में आकर्षण» (आंतरिक गुण) दोनों का प्रयोग व्याकरणिक रूप से उत्कृष्ट है।"
@@ -5037,9 +5037,9 @@
           "prompt": "वाक्य «I have a headache» का शुद्ध व्याकरणिक अनुवाद क्या है?",
           "options": [
             "मुझे सिरदर्द है (Mujhe sirdard hai - I have a headache [dative experiencer])",
-            "मेरे पास सिरदर्द है (शारीरिक कष्ट में 'के पास' का अमानक प्रयोग) (Target expression (Hindi))",
-            "मेरा सिरदर्द है (स्वामित्व परसर्ग का असंगत रूप) (Target expression (Hindi))",
-            "मुझमें सिरदर्द है (गुण सूचक परसर्ग की अशुद्धि) (Target expression (Hindi))"
+            "मेरे पास सिरदर्द है (शारीरिक कष्ट में 'के पास' का अमानक प्रयोग)) (Context: बीमारियाँ, अनुभूतियाँ और संवेदनाएं)",
+            "मेरा सिरदर्द है (स्वामित्व परसर्ग का असंगत रूप)) (Context: बीमारियाँ, अनुभूतियाँ और संवेदनाएं)",
+            "मुझमें सिरदर्द है (गुण सूचक परसर्ग की अशुद्धि)) (Context: बीमारियाँ, अनुभूतियाँ और संवेदनाएं)"
           ],
           "answerIndex": 0,
           "explanation": "शारीरिक पीड़ा और रोग के लिए संप्रदान कर्ता «मुझे सिरदर्द है» का प्रयोग होता है।"
@@ -5068,9 +5068,9 @@
           "prompt": "संवेदना और रोग की दृष्टि से पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "मरीज़ को कल रात से तेज़ जुकाम और खाँसी है। (The patient has severe cold and cough since last night.)",
-            "मरीज़ के पास तेज़ जुकाम और खाँसी है। (Target expression (Hindi))",
-            "मरीज़ का तेज़ जुकाम है। (Target expression (Hindi))",
-            "मरीज़ में जुकाम है। (Target expression (Hindi))"
+            "मरीज़ के पास तेज़ जुकाम और खाँसी है।) (Context: बीमारियाँ, अनुभूतियाँ और संवेदनाएं)",
+            "मरीज़ का तेज़ जुकाम है।) (Context: बीमारियाँ, अनुभूतियाँ और संवेदनाएं)",
+            "मरीज़ में जुकाम है।) (Context: बीमारियाँ, अनुभूतियाँ और संवेदनाएं)"
           ],
           "answerIndex": 0,
           "explanation": "«मरीज़ को... जुकाम और खाँसी है» में रोग के अनुभविता कर्ता की संरचना पूर्णतः शुद्ध है।"
@@ -5150,9 +5150,9 @@
           "prompt": "स्वामित्व और अधिकार के सभी पाँचों रूपों के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
             "मेरे पास पर्याप्त साधन हैं, मेरी एक बहन है, मुझमें आत्मविश्वास है और मुझे कोई बीमारी नहीं है। (I have sufficient means, I have a sister, I have self-confidence, and I have no illness.)",
-            "मेरे पास एक बहन है और मेरे पास आत्मविश्वास है। (Target expression (Hindi))",
-            "मुझको साधन हैं और मेरी बीमारी है। (Target expression (Hindi))",
-            "मुझमें साधन हैं और मेरे पास बीमारी है। (Target expression (Hindi))"
+            "मेरे पास एक बहन है और मेरे पास आत्मविश्वास है।) (Context: स्वामित्व और अधिकार के सभी रूपों का)",
+            "मुझको साधन हैं और मेरी बीमारी है।) (Context: स्वामित्व और अधिकार के सभी रूपों का)",
+            "मुझमें साधन हैं और मेरे पास बीमारी है।) (Context: स्वामित्व और अधिकार के सभी रूपों का)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरे पास साधन हैं» (मूर्त), «मेरी बहन है» (रिश्ता), «मुझमें आत्मविश्वास है» (गुण), और «मुझे बीमारी नहीं है» (अनुभूति) चारों का समन्वय शत-प्रतिशत शुद्ध है।"
@@ -5216,9 +5216,9 @@
           "prompt": "सकर्मक धातु 'खाना' और रंजक 'जाना' के भूतकाल का शुद्ध रूप पहचानिए:",
           "options": [
             "अमित सारा सेब खा गया (Amit saara seb kha gaya - Amit ate up the whole apple)",
-            "अमित ने सारा सेब खा गया (अशुद्ध 'ने' का प्रयोग) (Target expression (Hindi))",
-            "अमित सेब को खा दिया (अनुचित रंजक धातु) (Target expression (Hindi))",
-            "अमित सेब खा बैठा था (अनुचित पछतावा भाव) (Target expression (Hindi))"
+            "अमित ने सारा सेब खा गया (अशुद्ध 'ने' का प्रयोग)) (Context: समाप्ति और निश्चितता)",
+            "अमित सेब को खा दिया (अनुचित रंजक धातु)) (Context: समाप्ति और निश्चितता)",
+            "अमित सेब खा बैठा था (अनुचित पछतावा भाव)) (Context: समाप्ति और निश्चितता)"
           ],
           "answerIndex": 0,
           "explanation": "'जाना' रंजक क्रिया लगने से भूतकाल में 'ने' का प्रयोग वर्जित है, अतः «अमित सारा सेब खा गया» शुद्ध है।"
@@ -5232,9 +5232,9 @@
           "prompt": "'जाना' रंजक क्रिया (Completion) के सटीक प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
             "दवा की कड़वी गोली पानी के साथ निगलते ही मरीज़ तुरंत सो गया। (As soon as he swallowed the bitter medicine pill with water, the patient fell asleep immediately.)",
-            "दवा निगलते ही मरीज़ ने तुरंत सो गया। (Target expression (Hindi))",
-            "मरीज़ सो दिया दवा खाकर। (Target expression (Hindi))",
-            "मरीज़ नींद में सो बैठा। (Target expression (Hindi))"
+            "दवा निगलते ही मरीज़ ने तुरंत सो गया।) (Context: समाप्ति और निश्चितता)",
+            "मरीज़ सो दिया दवा खाकर।) (Context: समाप्ति और निश्चितता)",
+            "मरीज़ नींद में सो बैठा।) (Context: समाप्ति और निश्चितता)"
           ],
           "answerIndex": 0,
           "explanation": "«मरीज़ तुरंत सो गया» में 'सो जाना' का मानक प्रयोग है जहाँ 'ने' का सर्वथा अभाव है।"
@@ -5283,9 +5283,9 @@
           "prompt": "स्व-लाभ (Internal understanding) के लिए 'पढ़ना + लेना' का शुद्ध भूतकालिक वाक्य चुनिए:",
           "options": [
             "छात्र ने सारा पाठ पढ़ लिया (Chhaatr ne saara paath padh liya - The student read the whole lesson for himself)",
-            "छात्र सारा पाठ पढ़ गया (अकर्मक भाव विहीन) (Target expression (Hindi))",
-            "छात्र ने पाठ पढ़ दिया (पर-लाभ का गलत प्रयोग) (Target expression (Hindi))",
-            "छात्र पाठ पढ़ बैठा (अनुचित पश्चाताप) (Target expression (Hindi))"
+            "छात्र सारा पाठ पढ़ गया (अकर्मक भाव विहीन)) (Context: स्व-लाभ और अंतर्मुखी क्रिया)",
+            "छात्र ने पाठ पढ़ दिया (पर-लाभ का गलत प्रयोग)) (Context: स्व-लाभ और अंतर्मुखी क्रिया)",
+            "छात्र पाठ पढ़ बैठा (अनुचित पश्चाताप)) (Context: स्व-लाभ और अंतर्मुखी क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "आत्म-लाभ और सकर्मक भूतकाल हेतु «छात्र ने... पढ़ लिया» पूर्णतः शुद्ध है।"
@@ -5314,9 +5314,9 @@
           "prompt": "'लेना' रंजक क्रिया (Self-Benefaction) के शुद्ध प्रयोग वाला वाक्य कौन-सा है?",
           "options": [
             "वकील ने मुवक्किल के सभी महत्वपूर्ण कागज़ात अपने पास रख लिए। (The lawyer kept all important documents of the client with himself.)",
-            "वकील कागज़ात रख गया था। (Target expression (Hindi))",
-            "वकील ने कागज़ात रख दिया अपने पास। (Target expression (Hindi))",
-            "वकील कागज़ात रख बैठा। (Target expression (Hindi))"
+            "वकील कागज़ात रख गया था।) (Context: स्व-लाभ और अंतर्मुखी क्रिया)",
+            "वकील ने कागज़ात रख दिया अपने पास।) (Context: स्व-लाभ और अंतर्मुखी क्रिया)",
+            "वकील कागज़ात रख बैठा।) (Context: स्व-लाभ और अंतर्मुखी क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "«वकील ने... रख लिए» में स्व-हित में कार्य संपन्न करने का सटीक प्रयोग है।"
@@ -5365,9 +5365,9 @@
           "prompt": "दूसरों को सूचित करने (Other-directed action) हेतु कौन-सा वाक्य व्याकरणिक रूप से सही है?",
           "options": [
             "मैंने सबको सूचना दे दी (Maine sabko soochna de di - I gave/conveyed the information to all)",
-            "मैंने सबको सूचना ले ली (अर्थ का अनर्थ: खुद सूचना ले ली) (Target expression (Hindi))",
-            "मैं सबको सूचना दे गया (अस्वाभाविक प्रयोग) (Target expression (Hindi))",
-            "मैंने सबको सूचना दे पड़ा (असंगत आकस्मिकता) (Target expression (Hindi))"
+            "मैंने सबको सूचना ले ली (अर्थ का अनर्थ: खुद सूचना ले ली)) (Context: पर-लाभ और बहिर्मुखी क्रिया)",
+            "मैं सबको सूचना दे गया (अस्वाभाविक प्रयोग)) (Context: पर-लाभ और बहिर्मुखी क्रिया)",
+            "मैंने सबको सूचना दे पड़ा (असंगत आकस्मिकता)) (Context: पर-लाभ और बहिर्मुखी क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "दूसरों को सूचना देने के लिए 'देना' रंजक क्रिया «दे दी» प्रयुक्त होती है।"
@@ -5396,9 +5396,9 @@
           "prompt": "'देना' रंजक क्रिया (Other-Benefaction) के सटीक अन्वय वाला वाक्य पहचानिए:",
           "options": [
             "अधिकारी ने क्लर्क को सभी पत्राचार तुरंत डाक से भेजने का आदेश दे दिया। (The officer gave the order to the clerk to send all correspondence by post immediately.)",
-            "अधिकारी ने आदेश ले लिया क्लर्क को। (Target expression (Hindi))",
-            "अधिकारी आदेश दे गया क्लर्क को। (Target expression (Hindi))",
-            "अधिकारी आदेश दे बैठा क्लर्क को। (Target expression (Hindi))"
+            "अधिकारी ने आदेश ले लिया क्लर्क को।) (Context: पर-लाभ और बहिर्मुखी क्रिया)",
+            "अधिकारी आदेश दे गया क्लर्क को।) (Context: पर-लाभ और बहिर्मुखी क्रिया)",
+            "अधिकारी आदेश दे बैठा क्लर्क को।) (Context: पर-लाभ और बहिर्मुखी क्रिया)"
           ],
           "answerIndex": 0,
           "explanation": "«अधिकारी ने... आदेश दे दिया» में बहिर्मुखी निर्देशन का शुद्ध प्रयोग है।"
@@ -5462,9 +5462,9 @@
           "prompt": "क्रोध में बिना सोचे-समझे किए गए अविवेकपूर्ण कार्य (Rash/Regrettable act) वाला वाक्य पहचानिए:",
           "options": [
             "वह आवेश में आकर कड़वी बात कह बैठा (Vah aavesh mein aakar katu baat kah baitha - In anger, he rashly blurted out a bitter remark)",
-            "वह कड़वी बात कह दिया (सामान्य कथन) (Target expression (Hindi))",
-            "वह कड़वी बात कह लिया (आत्म-लाभ का अशुद्ध रूप) (Target expression (Hindi))",
-            "वह कड़वी बात कह गया (तटस्थ रूप) (Target expression (Hindi))"
+            "वह कड़वी बात कह दिया (सामान्य कथन)) (Context: आकस्मिकता और भावोद्रेक)",
+            "वह कड़वी बात कह लिया (आत्म-लाभ का अशुद्ध रूप)) (Context: आकस्मिकता और भावोद्रेक)",
+            "वह कड़वी बात कह गया (तटस्थ रूप)) (Context: आकस्मिकता और भावोद्रेक)"
           ],
           "answerIndex": 0,
           "explanation": "अविवेकपूर्ण या पछतावे वाले कार्य के लिए 'बैठना' रंजक धातु «कह बैठा» प्रयुक्त होती है।"
@@ -5478,9 +5478,9 @@
           "prompt": "आकस्मिकता और अविवेक के रंजक रूपों वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "दुखद समाचार सुनते ही वह अचानक रो पड़ी और अपने भाग्य को कोस बैठी। (Upon hearing the sad news she suddenly burst into tears and rashly blamed her fate.)",
-            "दुखद समाचार सुनकर वह रो दी और कोस ली। (Target expression (Hindi))",
-            "समाचार सुनकर उसने रो पड़ी। (Target expression (Hindi))",
-            "समाचार सुनकर वह रो गया। (Target expression (Hindi))"
+            "दुखद समाचार सुनकर वह रो दी और कोस ली।) (Context: आकस्मिकता और भावोद्रेक)",
+            "समाचार सुनकर उसने रो पड़ी।) (Context: आकस्मिकता और भावोद्रेक)",
+            "समाचार सुनकर वह रो गया।) (Context: आकस्मिकता और भावोद्रेक)"
           ],
           "answerIndex": 0,
           "explanation": "«रो पड़ी» (आकस्मिक रोना) और «कोस बैठी» (अविवेकपूर्ण कृत्य) दोनों का समन्वय व्याकरणिक और संवेदनात्मक दृष्टि से पूर्णतः शुद्ध है।"
@@ -5529,9 +5529,9 @@
           "prompt": "सकारात्मक वाक्य «उसने खाना खा लिया» का मानक नकारात्मक रूप क्या होगा?",
           "options": [
             "उसने खाना नहीं खाया (Usne khaana nahin khaaya - Standard negative drops the vector verb)",
-            "उसने खाना नहीं खा लिया (अमानक नकारात्मक रचना) (Target expression (Hindi))",
-            "उसने खाना नहीं खा दिया (अनुचित रंजक धातु) (Target expression (Hindi))",
-            "उसने खाना नहीं खा गया (अकर्मक दोष) (Target expression (Hindi))"
+            "उसने खाना नहीं खा लिया (अमानक नकारात्मक रचना)) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)",
+            "उसने खाना नहीं खा दिया (अनुचित रंजक धातु)) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)",
+            "उसने खाना नहीं खा गया (अकर्मक दोष)) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)"
           ],
           "answerIndex": 0,
           "explanation": "मानक हिंदी में नकारात्मक वाक्यों में रंजक क्रिया हटकर मुख्य क्रिया का सामान्य भूतकाल «उसने खाना नहीं खाया» बनता है।"
@@ -5544,9 +5544,9 @@
           "prompt": "रंजक क्रियाओं के सही मिलान वाला वाक्य पहचानिए:",
           "options": [
             "मैंने पत्र लिख लिया और डाकिया को दे दिया (Maine patr likh liya aur daakiya ko de diya - I wrote the letter for myself and gave it to the postman)",
-            "मैंने पत्र लिख दिया खुद के लिए (स्व-लाभ में 'देना' का गलत प्रयोग) (Target expression (Hindi))",
-            "मैंने डाकिया को पत्र ले लिया (बहिर्मुखी में 'लेना' का गलत प्रयोग) (Target expression (Hindi))",
-            "मैं पत्र लिख बैठा शांति से (शांतिपूर्ण कार्य में 'बैठना' का अनुपयुक्त प्रयोग) (Target expression (Hindi))"
+            "मैंने पत्र लिख दिया खुद के लिए (स्व-लाभ में 'देना' का गलत प्रयोग)) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)",
+            "मैंने डाकिया को पत्र ले लिया (बहिर्मुखी में 'लेना' का गलत प्रयोग)) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)",
+            "मैं पत्र लिख बैठा शांति से (शांतिपूर्ण कार्य में 'बैठना' का अनुपयुक्त प्रयोग)) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)"
           ],
           "answerIndex": 0,
           "explanation": "खुद लिखने के लिए «लिख लिया» (स्व-लाभ) और डाकिया को देने के लिए «दे दिया» (पर-लाभ) का समन्वय पूर्णतः शुद्ध है।"
@@ -5560,9 +5560,9 @@
           "prompt": "संयुक्त क्रियाओं की संपूर्ण संरचना का प्रामाणिक वाक्य चुनिए:",
           "options": [
             "अध्यापक ने पाठ समझा दिया, छात्रों ने उसे समझ लिया, और घंटी बजते ही सब बाहर चले गए। (Teacher explained the lesson, students understood it, and as bell rang all went outside.)",
-            "अध्यापक ने पाठ समझा लिया छात्रों को। (Target expression (Hindi))",
-            "छात्रों ने पाठ समझ दिया अपने लिए। (Target expression (Hindi))",
-            "घंटी बजते ही सब बाहर चल दिए बिना कारण। (Target expression (Hindi))"
+            "अध्यापक ने पाठ समझा लिया छात्रों को।) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)",
+            "छात्रों ने पाठ समझ दिया अपने लिए।) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)",
+            "घंटी बजते ही सब बाहर चल दिए बिना कारण।) (Context: संयुक्त क्रियाओं का समेकन व रंजक क्)"
           ],
           "answerIndex": 0,
           "explanation": "«समझा दिया» (पर-लाभ), «समझ लिया» (स्व-लाभ), और «चले गए» (पूर्णता) तीनों का समन्वय व्याकरणिक रूप से आदर्श है।"
@@ -5724,9 +5724,9 @@
           "prompt": "'से' (मध्यस्थ) और 'को' (अनुभविता) के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
             "अधिकारी ने टाइपिस्ट से पत्र लिखवाया और मंत्री जी को दिखाया। (The officer got the letter typed by the typist and showed it to the minister.)",
-            "अधिकारी ने टाइपिस्ट को पत्र लिखवाया और मंत्री जी से दिखाया। (Target expression (Hindi))",
-            "अधिकारी ने टाइपिस्ट में पत्र लिखवाया। (Target expression (Hindi))",
-            "अधिकारी ने टाइपिस्ट का पत्र दिखाया। (Target expression (Hindi))"
+            "अधिकारी ने टाइपिस्ट को पत्र लिखवाया और मंत्री जी से दिखाया।) (Context: प्रेरणार्थक वाक्यों में मध्यस्थ कार)",
+            "अधिकारी ने टाइपिस्ट में पत्र लिखवाया।) (Context: प्रेरणार्थक वाक्यों में मध्यस्थ कार)",
+            "अधिकारी ने टाइपिस्ट का पत्र दिखाया।) (Context: प्रेरणार्थक वाक्यों में मध्यस्थ कार)"
           ],
           "answerIndex": 0,
           "explanation": "«टाइपिस्ट से लिखवाया» (मध्यस्थ) और «मंत्री जी को दिखाया» (अनुभविता) दोनों का कारक-विधान शत-प्रतिशत शुद्ध है।"
@@ -5806,9 +5806,9 @@
           "prompt": "संभावना और इच्छा (Subjunctive Mood) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
             "मेरी दिली इच्छा है कि आप अपने जीवन के प्रत्येक लक्ष्य में अवश्य सफल हों। (It is my heartfelt wish that you certainly become successful in every goal of your life.)",
-            "मेरी इच्छा है कि आप सफल होंगे कल। (Target expression (Hindi))",
-            "मेरी इच्छा है कि आप सफल हुए थे। (Target expression (Hindi))",
-            "मेरी इच्छा है कि आप सफल होते हैं। (Target expression (Hindi))"
+            "मेरी इच्छा है कि आप सफल होंगे कल।) (Context: संभावनार्थ क्रिया और मनोभाव)",
+            "मेरी इच्छा है कि आप सफल हुए थे।) (Context: संभावनार्थ क्रिया और मनोभाव)",
+            "मेरी इच्छा है कि आप सफल होते हैं।) (Context: संभावनार्थ क्रिया और मनोभाव)"
           ],
           "answerIndex": 0,
           "explanation": "«मेरी इच्छा है कि आप... सफल हों» में संभावनार्थ क्रिया का आदर्श शिष्ट प्रयोग है।"
@@ -5888,9 +5888,9 @@
           "prompt": "आशीर्वाद और शिष्ट अनुमति दोनों के शुद्ध संभावनार्थ समन्वय वाला वाक्य पहचानिए:",
           "options": [
             "ईश्वर आपका मार्ग प्रशस्त करे, क्या अब हम सब प्रस्थान करें? (May God make your path clear, shall we all depart now?)",
-            "ईश्वर आपका मार्ग प्रशस्त करेगा क्या हम प्रस्थान करेंगे? (Target expression (Hindi))",
-            "ईश्वर ने मार्ग प्रशस्त किया था क्या हम चलें? (Target expression (Hindi))",
-            "ईश्वर मार्ग प्रशस्त करता है हम चलते हैं। (Target expression (Hindi))"
+            "ईश्वर आपका मार्ग प्रशस्त करेगा क्या हम प्रस्थान करेंगे?) (Context: आशीर्वाद, अभिलाषा और शिष्ट अनुमति)",
+            "ईश्वर ने मार्ग प्रशस्त किया था क्या हम चलें?) (Context: आशीर्वाद, अभिलाषा और शिष्ट अनुमति)",
+            "ईश्वर मार्ग प्रशस्त करता है हम चलते हैं।) (Context: आशीर्वाद, अभिलाषा और शिष्ट अनुमति)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रशस्त करे» (आशीर्वाद) और «प्रस्थान करें» (शिष्ट अनुमति) दोनों संभावनार्थ रूप व्याकरणिक दृष्टि से सर्वथा शुद्ध हैं।"
@@ -5970,9 +5970,9 @@
           "prompt": "प्रेरणार्थक और संभावनार्थ के संश्लिष्ट समन्वय वाला सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
             "हम प्रबंधक से नई व्यवस्था लागू करवाएँ ताकि सभी कर्मचारियों को सुविधा हो। (Let us have the new system implemented by the manager so that all employees may have convenience.)",
-            "हम प्रबंधक को नई व्यवस्था लागू करेंगे ताकि कर्मचारियों को सुविधा होगी। (Target expression (Hindi))",
-            "हम प्रबंधक से व्यवस्था लागू किया था सुविधा हुई थी। (Target expression (Hindi))",
-            "हम प्रबंधक में व्यवस्था लागू करवाते हैं सुविधा होती है। (Target expression (Hindi))"
+            "हम प्रबंधक को नई व्यवस्था लागू करेंगे ताकि कर्मचारियों को सुविधा होगी।) (Context: प्रेरणार्थक एवं संभावनार्थ संरचनाओं)",
+            "हम प्रबंधक से व्यवस्था लागू किया था सुविधा हुई थी।) (Context: प्रेरणार्थक एवं संभावनार्थ संरचनाओं)",
+            "हम प्रबंधक में व्यवस्था लागू करवाते हैं सुविधा होती है।) (Context: प्रेरणार्थक एवं संभावनार्थ संरचनाओं)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रबंधक से लागू करवाएँ» (मध्यस्थ प्रेरणार्थक संभावनार्थ) और «ताकि... सुविधा हो» (उद्देश्य संभावनार्थ) का संश्लेषण व्याकरणिक दृष्टि से उत्कृष्ट है।"
@@ -6021,9 +6021,9 @@
           "prompt": "दो क्रियाओं «रोहन ने खाना खाया» और «रोहन सो गया» को पूर्वकालिक क्रिया से जोड़ने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "रोहन खाना खाकर सो गया (Rohan khaana khaakar so gaya - Having eaten, Rohan fell asleep [no 'ne' with so gaya])",
-            "रोहन ने खाना खाकर सो गया (अंतिम अकर्मक क्रिया में अशुद्ध 'ने') (Target expression (Hindi))",
-            "रोहन खाना खाया और सो दिया (अमानक संयोजक) (Target expression (Hindi))",
-            "रोहन खाकर ने सो गया (पदक्रम दोष) (Target expression (Hindi))"
+            "रोहन ने खाना खाकर सो गया (अंतिम अकर्मक क्रिया में अशुद्ध 'ने')) (Context: पूर्वकालिक क्रिया का आधारभूत निर्मा)",
+            "रोहन खाना खाया और सो दिया (अमानक संयोजक)) (Context: पूर्वकालिक क्रिया का आधारभूत निर्मा)",
+            "रोहन खाकर ने सो गया (पदक्रम दोष)) (Context: पूर्वकालिक क्रिया का आधारभूत निर्मा)"
           ],
           "answerIndex": 0,
           "explanation": "चूँकि अंतिम क्रिया 'सो जाना' अकर्मक है, अतः पूरे वाक्य में कर्ता बिना 'ने' के «रोहन खाना खाकर सो गया» रहेगा।"
@@ -6052,9 +6052,9 @@
           "prompt": "पूर्वकालिक क्रिया और अंतिम क्रिया के 'ने' समन्वय वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "अमित ने बाज़ार जाकर फल खरीदे और घर आकर सबको खिलाए। (Amit went to the market and bought fruits, and having come home fed them to all.)",
-            "अमित बाज़ार जाकर फल खरीदा और खिला दिया। (Target expression (Hindi))",
-            "अमित ने घर जाकर ने सो गया। (Target expression (Hindi))",
-            "अमित जाकर फल खरीद लिया था। (Target expression (Hindi))"
+            "अमित बाज़ार जाकर फल खरीदा और खिला दिया।) (Context: पूर्वकालिक क्रिया का आधारभूत निर्मा)",
+            "अमित ने घर जाकर ने सो गया।) (Context: पूर्वकालिक क्रिया का आधारभूत निर्मा)",
+            "अमित जाकर फल खरीद लिया था।) (Context: पूर्वकालिक क्रिया का आधारभूत निर्मा)"
           ],
           "answerIndex": 0,
           "explanation": "«अमित ने बाज़ार जाकर... फल खरीदे और घर आकर... खिलाए» में 'खरीदना' और 'खिलाना' सकर्मक क्रियाओं के अनुसार 'ने' का प्रयोग शत-प्रतिशत शुद्ध है।"
@@ -6103,9 +6103,9 @@
           "prompt": "रीतिवाचक क्रिया-विशेषण (Manner: to speak with a smile) व्यक्त करने वाला वाक्य कौन-सा है?",
           "options": [
             "उसने मुस्कुराकर मेरा स्वागत किया (Usne muskuraakar mera svaagat kiya - He welcomed me smilingly)",
-            "उसने मुस्कुराया और स्वागत हुआ (असंगत वाक्य रचना) (Target expression (Hindi))",
-            "वह मुस्कुराते स्वागत करता है (अमानक रूप) (Target expression (Hindi))",
-            "मुस्कुराना से स्वागत किया (विभक्ति दोष) (Target expression (Hindi))"
+            "उसने मुस्कुराया और स्वागत हुआ (असंगत वाक्य रचना)) (Context: कारण, साधन और रीति का बोध)",
+            "वह मुस्कुराते स्वागत करता है (अमानक रूप)) (Context: कारण, साधन और रीति का बोध)",
+            "मुस्कुराना से स्वागत किया (विभक्ति दोष)) (Context: कारण, साधन और रीति का बोध)"
           ],
           "answerIndex": 0,
           "explanation": "रीति (ढंग) दर्शाने हेतु 'मुस्कुराना' में 'कर' जोड़कर «मुस्कुराकर स्वागत किया» शुद्ध है।"
@@ -6118,9 +6118,9 @@
           "prompt": "कारण (Cause) व्यक्त करने वाला वाक्य पहचानिए:",
           "options": [
             "अचानक शेर की दहाड़ सुनकर शिकारी चौंक उठा (Hearing the lion's roar suddenly, the hunter was startled)",
-            "शिकारी शेर को देखा और दौड़ा (साधारण संयुक्त वाक्य) (Target expression (Hindi))",
-            "शिकारी दौड़ता हुआ गया (कृदंत रूप) (Target expression (Hindi))",
-            "शिकारी ने शेर से डर गया (कारक अशुद्धि) (Target expression (Hindi))"
+            "शिकारी शेर को देखा और दौड़ा (साधारण संयुक्त वाक्य)) (Context: कारण, साधन और रीति का बोध)",
+            "शिकारी दौड़ता हुआ गया (कृदंत रूप)) (Context: कारण, साधन और रीति का बोध)",
+            "शिकारी ने शेर से डर गया (कारक अशुद्धि)) (Context: कारण, साधन और रीति का बोध)"
           ],
           "answerIndex": 0,
           "explanation": "«शेर की दहाड़ सुनकर» क्रिया के कारण (Reason) का सटीक बोध कराती है।"
@@ -6134,9 +6134,9 @@
           "prompt": "'साधन' (Means: by doing hard work) के अर्थ में 'कर' का शुद्ध प्रयोग चुनिए:",
           "options": [
             "सच्ची लगन से अभ्यास करके ही किसी भी कला में प्रवीणता पाई जा सकती है। (Only by practicing with true dedication can proficiency be attained in any art.)",
-            "अभ्यास करते ही कला पाई जाती है। (Target expression (Hindi))",
-            "अभ्यास करने के बिना कला आती है। (Target expression (Hindi))",
-            "अभ्यास किया तो कला खो गई। (Target expression (Hindi))"
+            "अभ्यास करते ही कला पाई जाती है।) (Context: कारण, साधन और रीति का बोध)",
+            "अभ्यास करने के बिना कला आती है।) (Context: कारण, साधन और रीति का बोध)",
+            "अभ्यास किया तो कला खो गई।) (Context: कारण, साधन और रीति का बोध)"
           ],
           "answerIndex": 0,
           "explanation": "«अभ्यास करके ही... प्रवीणता पाई जा सकती है» में 'करके' साधन (Means) का सर्वथा मानक रूप प्रस्तुत करता है।"
@@ -6185,9 +6185,9 @@
           "prompt": "समान कर्ता नियम (Same Subject Constraint) के आधार पर व्याकरणिक रूप से शुद्ध वाक्य पहचानिए:",
           "options": [
             "मैंने स्टेशन पहुँचकर टिकट खरीदी (Maine station pahunchkar ticket khareedi - Reaching station I bought ticket [same subject 'I'])",
-            "स्टेशन पहुँचकर ट्रेन छूट गई (अशुद्ध: ट्रेन स्टेशन नहीं पहुँची) (Target expression (Hindi))",
-            "दवा खाकर बुखार कम हो गया (अशुद्ध: बुखार ने दवा नहीं खाई) (Target expression (Hindi))",
-            "पत्र लिखकर डाकिया ले गया (अशुद्ध: डाकिया ने पत्र नहीं लिखा) (Target expression (Hindi))"
+            "स्टेशन पहुँचकर ट्रेन छूट गई (अशुद्ध: ट्रेन स्टेशन नहीं पहुँची)) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)",
+            "दवा खाकर बुखार कम हो गया (अशुद्ध: बुखार ने दवा नहीं खाई)) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)",
+            "पत्र लिखकर डाकिया ले गया (अशुद्ध: डाकिया ने पत्र नहीं लिखा)) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)"
           ],
           "answerIndex": 0,
           "explanation": "«मैंने स्टेशन पहुँचकर टिकट खरीदी» में दोनों क्रियाओं (पहुँचना और खरीदना) का कर्ता एक ही ('मैं') होने से वाक्य शुद्ध है।"
@@ -6200,9 +6200,9 @@
           "prompt": "अशुद्ध वाक्य «घंटी बजकर कक्षा समाप्त हो गई» का मानक शुद्ध रूपांतरण क्या होगा?",
           "options": [
             "घंटी बजते ही कक्षा समाप्त हो गई (Ghanti bajte hi kaksha samaapt ho gayi - As soon as bell rang, class ended)",
-            "घंटी ने बजकर कक्षा समाप्त की (अस्वाभाविक कर्ता) (Target expression (Hindi))",
-            "कक्षा घंटी बजाकर समाप्त हुई (विपरीत अर्थ) (Target expression (Hindi))",
-            "घंटी बजा तो कक्षा हो गई (अमानक संरचना) (Target expression (Hindi))"
+            "घंटी ने बजकर कक्षा समाप्त की (अस्वाभाविक कर्ता)) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)",
+            "कक्षा घंटी बजाकर समाप्त हुई (विपरीत अर्थ)) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)",
+            "घंटी बजा तो कक्षा हो गई (अमानक संरचना)) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)"
           ],
           "answerIndex": 0,
           "explanation": "अलग-अलग कर्ता (घंटी और कक्षा) होने पर पूर्वकालिक 'कर' के स्थान पर तत्कालिक कृदंत «घंटी बजते ही» का प्रयोग शुद्ध है।"
@@ -6216,9 +6216,9 @@
           "prompt": "समान कर्ता नियम का पूर्ण पालन करने वाला मानक वाक्य चुनिए:",
           "options": [
             "वैज्ञानिक ने प्रयोगशाला में प्रवेश करके नए उपकरण चालू किए। (The scientist entered the lab and turned on the new instruments.)",
-            "प्रयोगशाला में प्रवेश करके उपकरण चालू हो गए। (Target expression (Hindi))",
-            "दरवाज़ा खोलकर हवा अंदर आई। (Target expression (Hindi))",
-            "किताब पढ़कर पृष्ठ फट गया। (Target expression (Hindi))"
+            "प्रयोगशाला में प्रवेश करके उपकरण चालू हो गए।) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)",
+            "दरवाज़ा खोलकर हवा अंदर आई।) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)",
+            "किताब पढ़कर पृष्ठ फट गया।) (Context: समान कर्ता नियम और कर्ता-अन्वय (Sam)"
           ],
           "answerIndex": 0,
           "explanation": "«वैज्ञानिक ने... प्रवेश करके... उपकरण चालू किए» में प्रवेश करने और चालू करने वाला कर्ता एक ही ('वैज्ञानिक') है।"
@@ -6267,9 +6267,9 @@
           "prompt": "शून्य समय-अंतराल (Instant action: As soon as the lightning flashed...) व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "बिजली चमकते ही मूसलाधार बारिश शुरू हो गई (Bijli chamakte hi mooslaadhaar varsha shuru ho gayi - As soon as lightning flashed, torrential rain began)",
-            "बिजली चमककर बारिश शुरू हुई (दोषपूर्ण कर्ता अन्वय) (Target expression (Hindi))",
-            "बिजली चमकने के बाद ही बारिश थी (विलंब भाव) (Target expression (Hindi))",
-            "बिजली चमकी और बारिश हो गई (साधारण वाक्य) (Target expression (Hindi))"
+            "बिजली चमककर बारिश शुरू हुई (दोषपूर्ण कर्ता अन्वय)) (Context: 'कर' बनाम 'ते ही' (तत्कालिकता) एवं )",
+            "बिजली चमकने के बाद ही बारिश थी (विलंब भाव)) (Context: 'कर' बनाम 'ते ही' (तत्कालिकता) एवं )",
+            "बिजली चमकी और बारिश हो गई (साधारण वाक्य)) (Context: 'कर' बनाम 'ते ही' (तत्कालिकता) एवं )"
           ],
           "answerIndex": 0,
           "explanation": "तत्कालिकता और भिन्न कर्ता (बिजली और बारिश) हेतु «चमकते ही» का प्रयोग शत-प्रतिशत शुद्ध है।"
@@ -6298,9 +6298,9 @@
           "prompt": "तीनों समयावधियों ('कर', 'ते ही', 'के बाद') के सटीक प्रयोग वाला वाक्य पहचानिए:",
           "options": [
             "वह पत्र लिखकर, लिफाफा बंद करने के बाद डाकघर गया और वहाँ पहुँचते ही पत्र पोस्ट कर दिया। (Having written letter, after sealing envelope he went to post office and as soon as he reached there posted it.)",
-            "वह पत्र लिखते ही लिफाफा करके डाकघर के बाद गया। (Target expression (Hindi))",
-            "वह पत्र लिखकर डाकघर पहुँचने के बाद पोस्ट करते ही गया। (Target expression (Hindi))",
-            "पत्र के बाद लिफाफा पहुँचते ही लिखा। (Target expression (Hindi))"
+            "वह पत्र लिखते ही लिफाफा करके डाकघर के बाद गया।) (Context: 'कर' बनाम 'ते ही' (तत्कालिकता) एवं )",
+            "वह पत्र लिखकर डाकघर पहुँचने के बाद पोस्ट करते ही गया।) (Context: 'कर' बनाम 'ते ही' (तत्कालिकता) एवं )",
+            "पत्र के बाद लिफाफा पहुँचते ही लिखा।) (Context: 'कर' बनाम 'ते ही' (तत्कालिकता) एवं )"
           ],
           "answerIndex": 0,
           "explanation": "«लिखकर» (पूर्वकालिक), «करने के बाद» (समय अंतराल), और «पहुँचते ही» (तत्कालिकता) तीनों का समन्वय व्याकरणिक रूप से आदर्श है।"
@@ -6349,9 +6349,9 @@
           "prompt": "कृदंतों के संश्लिष्ट संयोजन वाला व्याकरणिक रूप से आदर्श वाक्य चुनिए:",
           "options": [
             "रोहन ने समाचार सुनकर, मित्रों से विचार-विमर्श करके उचित कदम उठाया (Rohan, hearing news and consulting friends, took appropriate step)",
-            "रोहन समाचार सुनते ही मित्रों से विचार के बाद कदम उठा लिया (अव्यवस्थित संयोजन) (Target expression (Hindi))",
-            "रोहन ने समाचार सुन लिया और मित्रों को विचार दिया (सामान्य शिथिल वाक्य) (Target expression (Hindi))",
-            "रोहन समाचार सुनकर मित्रों से विचार करके ने कदम उठाया (पदक्रम दोष) (Target expression (Hindi))"
+            "रोहन समाचार सुनते ही मित्रों से विचार के बाद कदम उठा लिया (अव्यवस्थित संयोजन)) (Context: पूर्वकालिक और कृदंत संरचनाओं का समग)",
+            "रोहन ने समाचार सुन लिया और मित्रों को विचार दिया (सामान्य शिथिल वाक्य)) (Context: पूर्वकालिक और कृदंत संरचनाओं का समग)",
+            "रोहन समाचार सुनकर मित्रों से विचार करके ने कदम उठाया (पदक्रम दोष)) (Context: पूर्वकालिक और कृदंत संरचनाओं का समग)"
           ],
           "answerIndex": 0,
           "explanation": "«समाचार सुनकर» और «विचार-विमर्श करके» का पूर्वकालिक संयोजन वाक्य को सुगठित और मानक बनाता है।"
@@ -6380,9 +6380,9 @@
           "prompt": "कृदंत एवं पूर्वकालिक संरचनाओं का समग्र रूप से शुद्ध वाक्य पहचानिए:",
           "options": [
             "यात्री ने टिकट खरीदकर, सामान जाँच करवाने के बाद गाड़ी में प्रवेश किया और बैठते ही खिड़की खोल दी। (The passenger, having bought ticket and after getting luggage checked, entered the train and as soon as he sat opened the window.)",
-            "यात्री टिकट खरीदते ही सामान करके गाड़ी के बाद खिड़की खोल दिया। (Target expression (Hindi))",
-            "यात्री ने टिकट के बाद सामान खरीदते ही खिड़की खोलकर गया। (Target expression (Hindi))",
-            "यात्री टिकट खरीदा और सामान के बाद खिड़की खोल दी। (Target expression (Hindi))"
+            "यात्री टिकट खरीदते ही सामान करके गाड़ी के बाद खिड़की खोल दिया।) (Context: पूर्वकालिक और कृदंत संरचनाओं का समग)",
+            "यात्री ने टिकट के बाद सामान खरीदते ही खिड़की खोलकर गया।) (Context: पूर्वकालिक और कृदंत संरचनाओं का समग)",
+            "यात्री टिकट खरीदा और सामान के बाद खिड़की खोल दी।) (Context: पूर्वकालिक और कृदंत संरचनाओं का समग)"
           ],
           "answerIndex": 0,
           "explanation": "«खरीदकर» (पूर्वकालिक), «जाँच करवाने के बाद» (समय अंतराल), और «बैठते ही» (तत्कालिकता) का समन्वय शत-प्रतिशत त्रुटिहीन है।"
@@ -6462,9 +6462,9 @@
           "prompt": "संबंधवाचक और नित्यसंबंधी सर्वनाम के शुद्ध समन्वय वाला वाक्य पहचानिए:",
           "options": [
             "जिन्होंने कठिन परिस्थितियों में देश की रक्षा की, उन वीर सैनिकों को राष्ट्र नमन करता है। (Those brave soldiers who defended the country in harsh conditions, the nation bows to them.)",
-            "जिन्होंने देश की रक्षा की वे सैनिकों को नमन करता है। (Target expression (Hindi))",
-            "जो देश की रक्षा की उसने नमन करता है। (Target expression (Hindi))",
-            "जिसने रक्षा किया उनको नमन है। (Target expression (Hindi))"
+            "जिन्होंने देश की रक्षा की वे सैनिकों को नमन करता है।) (Context: संज्ञा और सर्वनाम का संबंधवाचक युग्)",
+            "जो देश की रक्षा की उसने नमन करता है।) (Context: संज्ञा और सर्वनाम का संबंधवाचक युग्)",
+            "जिसने रक्षा किया उनको नमन है।) (Context: संज्ञा और सर्वनाम का संबंधवाचक युग्)"
           ],
           "answerIndex": 0,
           "explanation": "«जिन्होंने... रक्षा की» (बहुवचन संबंधवाचक) और «उन वीर सैनिकों को...» (बहुवचन नित्यसंबंधी कर्म) का अन्वय पूर्णतः शुद्ध है।"
@@ -6544,9 +6544,9 @@
           "prompt": "स्थान और दिशा के संबंधवाचक युग्मों का शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
             "जहाँ सत्य और अहिंसा का वास होता है, वहाँ शांति स्वतः स्थापित होती है। (Where truth and non-violence reside, there peace is established automatically.)",
-            "जहाँ सत्य होता है उधर शांति होती है। (Target expression (Hindi))",
-            "जिधर स्वच्छता है वहाँ रोग नहीं होता। (Target expression (Hindi))",
-            "जहाँ तक चलो त्यों ही शांति मिलेगी। (Target expression (Hindi))"
+            "जहाँ सत्य होता है उधर शांति होती है।) (Context: स्थान और दिशा के संबंधवाचक युग्म)",
+            "जिधर स्वच्छता है वहाँ रोग नहीं होता।) (Context: स्थान और दिशा के संबंधवाचक युग्म)",
+            "जहाँ तक चलो त्यों ही शांति मिलेगी।) (Context: स्थान और दिशा के संबंधवाचक युग्म)"
           ],
           "answerIndex": 0,
           "explanation": "«जहाँ...वहाँ» का स्थानवाचक युग्म पूर्णतः संगत और त्रुटिहीन है।"
@@ -6595,9 +6595,9 @@
           "prompt": "स्त्रीलिंग संज्ञा 'करनी' (actions) के अनुसार सही संबंधवाचक-नित्यसंबंधी युग्म क्या होगा?",
           "options": [
             "जैसी करनी, वैसी भरनी (Jaisi karni, vaisi bharni - As the deed, so the consequence [fem. sing. agreement])",
-            "जैसा करनी, वैसा भरनी (पुंलिंग दोष) (Target expression (Hindi))",
-            "जैसे करनी, वैसे भरनी (बहुवचन दोष) (Target expression (Hindi))",
-            "जितना करनी, उतना भरनी (परिमाण दोष) (Target expression (Hindi))"
+            "जैसा करनी, वैसा भरनी (पुंलिंग दोष)) (Context: रीति और परिमाण के संबंधवाचक युग्म)",
+            "जैसे करनी, वैसे भरनी (बहुवचन दोष)) (Context: रीति और परिमाण के संबंधवाचक युग्म)",
+            "जितना करनी, उतना भरनी (परिमाण दोष)) (Context: रीति और परिमाण के संबंधवाचक युग्म)"
           ],
           "answerIndex": 0,
           "explanation": "'करनी' और 'भरनी' दोनों स्त्रीलिंग होने से «जैसी...वैसी» का रूप शुद्ध है।"
@@ -6626,9 +6626,9 @@
           "prompt": "रीति और परिमाण के सही लिंग-वचन समन्वय वाला वाक्य चुनिए:",
           "options": [
             "जितनी अधिक पुस्तकें तुम पढ़ोगे, उतना ही अधिक तुम्हारा ज्ञान समृद्ध होगा। (The more books you read, that much more your knowledge will be enriched.)",
-            "जितना पुस्तकें तुम पढ़ोगे वैसा ज्ञान होगा। (Target expression (Hindi))",
-            "जैसे पुस्तकें पढ़ोगे उतनी ज्ञान होगा। (Target expression (Hindi))",
-            "जितने पुस्तक पढ़ोगे उतना ही ज्ञान होगा। (Target expression (Hindi))"
+            "जितना पुस्तकें तुम पढ़ोगे वैसा ज्ञान होगा।) (Context: रीति और परिमाण के संबंधवाचक युग्म)",
+            "जैसे पुस्तकें पढ़ोगे उतनी ज्ञान होगा।) (Context: रीति और परिमाण के संबंधवाचक युग्म)",
+            "जितने पुस्तक पढ़ोगे उतना ही ज्ञान होगा।) (Context: रीति और परिमाण के संबंधवाचक युग्म)"
           ],
           "answerIndex": 0,
           "explanation": "«जितनी अधिक पुस्तकें...» (स्त्रीलिंग बहुवचन कर्म) और «उतना ही अधिक तुम्हारा ज्ञान...» (पुंलिंग एकवचन भाव) का समन्वय शत-प्रतिशत त्रुटिहीन है।"
@@ -6677,9 +6677,9 @@
           "prompt": "तत्कालिक समय (As soon as the bell rang...) के लिए सही संबंधवाचक युग्म कौन-सा है?",
           "options": [
             "ज्यों ही घंटी बजी, त्यों ही छात्र आए (Jyon hi ghanti baji, tyon hi chhaatr aaye - As soon as bell rang, students arrived)",
-            "जब घंटी बजी वैसा छात्र आए (असंगत युग्म) (Target expression (Hindi))",
-            "जहाँ घंटी बजी वहाँ छात्र आए (स्थान दोष) (Target expression (Hindi))",
-            "जितनी घंटी बजी उतना छात्र आए (परिमाण दोष) (Target expression (Hindi))"
+            "जब घंटी बजी वैसा छात्र आए (असंगत युग्म)) (Context: समय के संबंधवाचक युग्म)",
+            "जहाँ घंटी बजी वहाँ छात्र आए (स्थान दोष)) (Context: समय के संबंधवाचक युग्म)",
+            "जितनी घंटी बजी उतना छात्र आए (परिमाण दोष)) (Context: समय के संबंधवाचक युग्म)"
           ],
           "answerIndex": 0,
           "explanation": "तत्कालिकता के लिए «ज्यों ही...त्यों ही» का समकालिक युग्म आदर्श है।"
@@ -6708,9 +6708,9 @@
           "prompt": "कालिक संबंधवाचक युग्म (जब...तब) का शुद्ध वाक्य चुनिए:",
           "options": [
             "जब तक व्यक्ति स्वयं प्रयास नहीं करता, तब तक उसे सफलता नहीं मिल सकती। (As long as a person does not make effort himself, until then he cannot get success.)",
-            "जब तक व्यक्ति प्रयास करता है जहाँ तक सफलता मिलती है। (Target expression (Hindi))",
-            "ज्यों ही प्रयास करता है वैसा फल मिलता है। (Target expression (Hindi))",
-            "जब व्यक्ति प्रयास किया था त्यों ही सफल हुआ था। (Target expression (Hindi))"
+            "जब तक व्यक्ति प्रयास करता है जहाँ तक सफलता मिलती है।) (Context: समय के संबंधवाचक युग्म)",
+            "ज्यों ही प्रयास करता है वैसा फल मिलता है।) (Context: समय के संबंधवाचक युग्म)",
+            "जब व्यक्ति प्रयास किया था त्यों ही सफल हुआ था।) (Context: समय के संबंधवाचक युग्म)"
           ],
           "answerIndex": 0,
           "explanation": "«जब तक...तब तक» (सीमा/अवधि बोधक) का प्रयोग व्याकरणिक दृष्टि से सर्वथा शुद्ध है।"
@@ -6759,9 +6759,9 @@
           "prompt": "सरल वाक्य «सच्चे देशभक्त राष्ट्र के लिए बलिदान देते हैं» का मानक मिश्र वाक्य रूपांतरण क्या होगा?",
           "options": [
             "जो सच्चे देशभक्त होते हैं, वे राष्ट्र के लिए बलिदान देते हैं (Jo sachche deshbhakt hote hain, ve rashtr ke liye balidaan dete hain - Complex correlative transformation)",
-            "सच्चे देशभक्त जहाँ होते हैं वहाँ बलिदान देते हैं (स्थान दोष) (Target expression (Hindi))",
-            "सच्चे देशभक्त जितना होते हैं उतना बलिदान देते हैं (परिमाण दोष) (Target expression (Hindi))",
-            "सच्चे देशभक्त जब बलिदान देते हैं तब देशभक्त होते हैं (कालिक विपर्यय) (Target expression (Hindi))"
+            "सच्चे देशभक्त जहाँ होते हैं वहाँ बलिदान देते हैं (स्थान दोष)) (Context: संबंधवाचक-नित्यसंबंधी संरचनाओं का स)",
+            "सच्चे देशभक्त जितना होते हैं उतना बलिदान देते हैं (परिमाण दोष)) (Context: संबंधवाचक-नित्यसंबंधी संरचनाओं का स)",
+            "सच्चे देशभक्त जब बलिदान देते हैं तब देशभक्त होते हैं (कालिक विपर्यय)) (Context: संबंधवाचक-नित्यसंबंधी संरचनाओं का स)"
           ],
           "answerIndex": 0,
           "explanation": "सरल विशेषण 'सच्चे देशभक्त' को संबंधवाचक उपवाक्य «जो सच्चे देशभक्त होते हैं, वे...» में बदलना मानक रूपांतरण है।"
@@ -6790,9 +6790,9 @@
           "prompt": "संबंधवाचक और नित्यसंबंधी उपवाक्यों का समग्र रूप से शुद्ध व सुगठित वाक्य पहचानिए:",
           "options": [
             "जो व्यक्ति जितना अधिक शांत और धैर्यवान रहता है, वह जीवन की हर कठिन चुनौती को उतनी ही सुगमता से पार कर लेता है। (The person who remains that much more calm and patient, he overcomes every tough challenge of life with equal ease.)",
-            "जो व्यक्ति जहाँ शांत रहता है वह जब चुनौती पार करता है। (Target expression (Hindi))",
-            "जैसा व्यक्ति शांत रहता है उतना ही चुनौती पार करता है। (Target expression (Hindi))",
-            "जिसने शांत रहा उसने सुगमता से पार किया था। (Target expression (Hindi))"
+            "जो व्यक्ति जहाँ शांत रहता है वह जब चुनौती पार करता है।) (Context: संबंधवाचक-नित्यसंबंधी संरचनाओं का स)",
+            "जैसा व्यक्ति शांत रहता है उतना ही चुनौती पार करता है।) (Context: संबंधवाचक-नित्यसंबंधी संरचनाओं का स)",
+            "जिसने शांत रहा उसने सुगमता से पार किया था।) (Context: संबंधवाचक-नित्यसंबंधी संरचनाओं का स)"
           ],
           "answerIndex": 0,
           "explanation": "«जो व्यक्ति जितना अधिक शांत... वह... उतनी ही सुगमता से...» में सर्वनाम (जो...वह) और परिमाण (जितना...उतनी) दोनों का संश्लेषण व्याकरणिक रूप से परिपूर्ण है।"
@@ -6841,9 +6841,9 @@
           "prompt": "सकर्मक वाक्य «अध्यापक ने कॉपियाँ जाँचीं» का मानक कर्मवाच्य रूप क्या होगा?",
           "options": [
             "अध्यापक द्वारा कॉपियाँ जाँची गईं (Adhyaapak dvaara copy-aan jaanchi gayin - Notebooks were checked by the teacher [fem. plur. agreement])",
-            "अध्यापक द्वारा कॉपियाँ जाँचा गया (पुंलिंग एकवचन दोष) (Target expression (Hindi))",
-            "अध्यापक से कॉपियाँ जाँचना था (असमर्थता भ्रम) (Target expression (Hindi))",
-            "कॉपियाँ अध्यापक को जाँची गईं (कारक दोष) (Target expression (Hindi))"
+            "अध्यापक द्वारा कॉपियाँ जाँचा गया (पुंलिंग एकवचन दोष)) (Context: कर्मवाच्य का आधारभूत निर्माण)",
+            "अध्यापक से कॉपियाँ जाँचना था (असमर्थता भ्रम)) (Context: कर्मवाच्य का आधारभूत निर्माण)",
+            "कॉपियाँ अध्यापक को जाँची गईं (कारक दोष)) (Context: कर्मवाच्य का आधारभूत निर्माण)"
           ],
           "answerIndex": 0,
           "explanation": "'कॉपियाँ' स्त्रीलिंग बहुवचन होने के कारण क्रिया का कर्मवाच्य रूप «जाँची गईं» शुद्ध है।"
@@ -6856,9 +6856,9 @@
           "prompt": "वाक्य «भारत में कई सुंदर त्यौहार ___» में कर्मवाच्य का सही वर्तमान काल रूप भरिए:",
           "options": [
             "मनाए जाते हैं (Manaaye jaate hain - Are celebrated [masc. plur. agreement with tyauhaar])",
-            "मनाया जाता है (एकवचन त्रुटि) (Target expression (Hindi))",
-            "मनाते हैं लोग (कर्तृवाच्य रूप) (Target expression (Hindi))",
-            "मनाया गया था (भूतकाल भ्रम) (Target expression (Hindi))"
+            "मनाया जाता है (एकवचन त्रुटि)) (Context: कर्मवाच्य का आधारभूत निर्माण)",
+            "मनाते हैं लोग (कर्तृवाच्य रूप)) (Context: कर्मवाच्य का आधारभूत निर्माण)",
+            "मनाया गया था (भूतकाल भ्रम)) (Context: कर्मवाच्य का आधारभूत निर्माण)"
           ],
           "answerIndex": 0,
           "explanation": "'त्यौहार' पुंलिंग बहुवचन कर्म होने से वर्तमान काल कर्मवाच्य «मनाए जाते हैं» शुद्ध है।"
@@ -6872,9 +6872,9 @@
           "prompt": "कर्मवाच्य (Passive Voice) का लिंग-वचन समन्वय वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "पुस्तकालय में विद्यार्थियों द्वारा अनेक दुर्लभ पुस्तकें पढ़ी जाती हैं। (In the library many rare books are read by students.)",
-            "पुस्तकालय में विद्यार्थियों द्वारा अनेक पुस्तकें पढ़ा जाता है। (Target expression (Hindi))",
-            "पुस्तकालय में पुस्तकें पढ़ी जाता हैं। (Target expression (Hindi))",
-            "पुस्तकालय में पुस्तकें पढ़े जाते हैं। (Target expression (Hindi))"
+            "पुस्तकालय में विद्यार्थियों द्वारा अनेक पुस्तकें पढ़ा जाता है।) (Context: कर्मवाच्य का आधारभूत निर्माण)",
+            "पुस्तकालय में पुस्तकें पढ़ी जाता हैं।) (Context: कर्मवाच्य का आधारभूत निर्माण)",
+            "पुस्तकालय में पुस्तकें पढ़े जाते हैं।) (Context: कर्मवाच्य का आधारभूत निर्माण)"
           ],
           "answerIndex": 0,
           "explanation": "«पुस्तकें» स्त्रीलिंग बहुवचन कर्म के साथ कर्मवाच्य क्रिया «पढ़ी जाती हैं» का अन्वय शत-प्रतिशत शुद्ध है।"
@@ -6954,9 +6954,9 @@
           "prompt": "'के द्वारा' परसर्ग के साथ कर्मवाच्य का शुद्ध वाक्य चुनिए:",
           "options": [
             "प्रधानमंत्री द्वारा नए अंतरराष्ट्रीय हवाई अड्डे का विधिवत उद्घाटन किया गया। (The new international airport was formally inaugurated by the Prime Minister.)",
-            "प्रधानमंत्री को हवाई अड्डे का उद्घाटन किया गया। (Target expression (Hindi))",
-            "प्रधानमंत्री में हवाई अड्डा का उद्घाटन हुआ था। (Target expression (Hindi))",
-            "प्रधानमंत्री से हवाई अड्डा खोला गया था। (Target expression (Hindi))"
+            "प्रधानमंत्री को हवाई अड्डे का उद्घाटन किया गया।) (Context: कर्मवाच्य में कर्ता-परसर्ग)",
+            "प्रधानमंत्री में हवाई अड्डा का उद्घाटन हुआ था।) (Context: कर्मवाच्य में कर्ता-परसर्ग)",
+            "प्रधानमंत्री से हवाई अड्डा खोला गया था।) (Context: कर्मवाच्य में कर्ता-परसर्ग)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रधानमंत्री द्वारा... उद्घाटन किया गया» कर्मवाच्य का सर्वथा शुद्ध और मानक आधिकारिक रूप है।"
@@ -7005,9 +7005,9 @@
           "prompt": "शारीरिक असमर्थता (Inability: I cannot walk anymore) को व्यक्त करने वाला शुद्ध भाववाच्य वाक्य कौन-सा है?",
           "options": [
             "मुझसे अब और नहीं चला जाता (Mujhse ab aur nahin chala jaata - I am unable to walk any further [impersonal incapacity])",
-            "मैं अब और नहीं चलूँगा (दृढ़ संकल्प/इनकार) (Target expression (Hindi))",
-            "मुझको चलना नहीं चाहिए (कर्तव्य का निषेध) (Target expression (Hindi))",
-            "मेरे से चलना बंद हुआ (अमानक हिंदी) (Target expression (Hindi))"
+            "मैं अब और नहीं चलूँगा (दृढ़ संकल्प/इनकार)) (Context: असमर्थता और विवशता का कर्मवाच्य)",
+            "मुझको चलना नहीं चाहिए (कर्तव्य का निषेध)) (Context: असमर्थता और विवशता का कर्मवाच्य)",
+            "मेरे से चलना बंद हुआ (अमानक हिंदी)) (Context: असमर्थता और विवशता का कर्मवाच्य)"
           ],
           "answerIndex": 0,
           "explanation": "शारीरिक असमर्थता दर्शाने के लिए कर्ता 'मुझसे' + 'नहीं चला जाता' का भाववाच्य रूप सर्वथा मानक है।"
@@ -7036,9 +7036,9 @@
           "prompt": "असमर्थता और विवशता (Incapacity Passive) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "गले में तीव्र संक्रमण के कारण रोगी से कुछ भी ठोस भोजन नहीं खाया जा रहा है। (Due to severe throat infection the patient is unable to eat any solid food.)",
-            "रोगी ठोस भोजन नहीं खाता है गले के कारण। (Target expression (Hindi))",
-            "रोगी को भोजन नहीं खाया जाता है। (Target expression (Hindi))",
-            "रोगी में भोजन नहीं खाना हुआ। (Target expression (Hindi))"
+            "रोगी ठोस भोजन नहीं खाता है गले के कारण।) (Context: असमर्थता और विवशता का कर्मवाच्य)",
+            "रोगी को भोजन नहीं खाया जाता है।) (Context: असमर्थता और विवशता का कर्मवाच्य)",
+            "रोगी में भोजन नहीं खाना हुआ।) (Context: असमर्थता और विवशता का कर्मवाच्य)"
           ],
           "answerIndex": 0,
           "explanation": "«रोगी से... भोजन नहीं खाया जा रहा है» में शारीरिक असमर्थता का कर्मवाच्य प्रयोग व्याकरण की दृष्टि से आदर्श है।"
@@ -7087,9 +7087,9 @@
           "prompt": "सार्वजनिक सूचना (Public Notice: English is taught here) का शुद्ध कर्तृहीन कर्मवाच्य वाक्य कौन-सा है?",
           "options": [
             "यहाँ अंग्रेज़ी सिखाई जाती है (Yahaan angrezi sikhaayi jaati hai - English is taught here [agentless passive])",
-            "यहाँ अंग्रेज़ी सीखता है कोई (अनिश्चित कर्ता त्रुटि) (Target expression (Hindi))",
-            "यहाँ अंग्रेज़ी को सिखाते हैं (अशुद्ध कारक) (Target expression (Hindi))",
-            "यहाँ अंग्रेज़ी सिखाया जाता है (लिंग असंगति) (Target expression (Hindi))"
+            "यहाँ अंग्रेज़ी सीखता है कोई (अनिश्चित कर्ता त्रुटि)) (Context: अज्ञात कर्ता और औपचारिक/शासकीय सूचन)",
+            "यहाँ अंग्रेज़ी को सिखाते हैं (अशुद्ध कारक)) (Context: अज्ञात कर्ता और औपचारिक/शासकीय सूचन)",
+            "यहाँ अंग्रेज़ी सिखाया जाता है (लिंग असंगति)) (Context: अज्ञात कर्ता और औपचारिक/शासकीय सूचन)"
           ],
           "answerIndex": 0,
           "explanation": "'अंग्रेज़ी' स्त्रीलिंग होने से कर्तृहीन कर्मवाच्य रूप «सिखाई जाती है» सर्वथा शुद्ध है।"
@@ -7118,9 +7118,9 @@
           "prompt": "कर्तृहीन शासकीय कर्मवाच्य का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "नियमों का उल्लंघन करने वाले वाहनों का चालान काटा जाएगा। (Vehicles violating rules will be challaned/fined.)",
-            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटेंगे कोई। (Target expression (Hindi))",
-            "नियम उल्लंघन वाहनों को चालान काट दिया। (Target expression (Hindi))",
-            "चालान वाहनों में काटा जाता होगा। (Target expression (Hindi))"
+            "नियमों का उल्लंघन करने वाले वाहनों का चालान काटेंगे कोई।) (Context: अज्ञात कर्ता और औपचारिक/शासकीय सूचन)",
+            "नियम उल्लंघन वाहनों को चालान काट दिया।) (Context: अज्ञात कर्ता और औपचारिक/शासकीय सूचन)",
+            "चालान वाहनों में काटा जाता होगा।) (Context: अज्ञात कर्ता और औपचारिक/शासकीय सूचन)"
           ],
           "answerIndex": 0,
           "explanation": "«वाहनों का चालान काटा जाएगा» भविष्यत् काल का आदर्श कर्तृहीन कर्मवाच्य वाक्य है।"
@@ -7169,9 +7169,9 @@
           "prompt": "कर्तृवाच्य वाक्य «माली पौधों को पानी देता है» का शुद्ध कर्मवाच्य रूपांतरण क्या होगा?",
           "options": [
             "माली द्वारा पौधों को पानी दिया जाता है (Maali dvaara paudhon ko paani diya jaata hai - Plants are watered by the gardener)",
-            "माली से पौधों को पानी देना था (असमर्थता भ्रम) (Target expression (Hindi))",
-            "माली पानी देता हुआ पौधों को गया (कृदंत भ्रम) (Target expression (Hindi))",
-            "पौधों ने माली से पानी पाया (कर्तृवाच्य रूपांतरण) (Target expression (Hindi))"
+            "माली से पौधों को पानी देना था (असमर्थता भ्रम)) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )",
+            "माली पानी देता हुआ पौधों को गया (कृदंत भ्रम)) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )",
+            "पौधों ने माली से पानी पाया (कर्तृवाच्य रूपांतरण)) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )"
           ],
           "answerIndex": 0,
           "explanation": "«माली द्वारा... पानी दिया जाता है» कर्मवाच्य का सटीक रूपांतरण है।"
@@ -7184,9 +7184,9 @@
           "prompt": "सामूहिक इच्छा/प्रस्ताव (Let us rest now) व्यक्त करने वाला भाववाच्य वाक्य कौन-सा है?",
           "options": [
             "अब विश्राम किया जाए (Ab vishraam kiya jaaye - Let rest be taken now [impersonal subjunctive])",
-            "हम विश्राम करेंगे (निश्चयात्मक भविष्य) (Target expression (Hindi))",
-            "हमको विश्राम करना है (अनिवार्यता) (Target expression (Hindi))",
-            "विश्राम कर दिया था हमने (सामान्य भूत) (Target expression (Hindi))"
+            "हम विश्राम करेंगे (निश्चयात्मक भविष्य)) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )",
+            "हमको विश्राम करना है (अनिवार्यता)) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )",
+            "विश्राम कर दिया था हमने (सामान्य भूत)) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )"
           ],
           "answerIndex": 0,
           "explanation": "शिष्ट प्रस्ताव और इच्छा हेतु भाववाच्य रूप «अब विश्राम किया जाए» प्रयुक्त होता है।"
@@ -7200,9 +7200,9 @@
           "prompt": "तीनों वाच्यों (कर्तृवाच्य, कर्मवाच्य, भाववाच्य) के नियमों का संपूर्ण पालन करने वाला शुद्ध वाक्य पहचानिए:",
           "options": [
             "जब घायल सिपाही से और आगे नहीं चला गया, तब साथी सैनिकों द्वारा उसे सुरक्षित शिविर में पहुँचाया गया। (When the injured soldier was unable to walk any further, he was transported to the safe camp by fellow soldiers.)",
-            "जब घायल सिपाही को नहीं चला गया सैनिकों ने शिविर पहुँचाया गया। (Target expression (Hindi))",
-            "घायल सिपाही से नहीं चला सैनिकों द्वारा शिविर में पहुँचाया। (Target expression (Hindi))",
-            "सिपाही नहीं चला गया साथी सैनिकों में पहुँचाया था। (Target expression (Hindi))"
+            "जब घायल सिपाही को नहीं चला गया सैनिकों ने शिविर पहुँचाया गया।) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )",
+            "घायल सिपाही से नहीं चला सैनिकों द्वारा शिविर में पहुँचाया।) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )",
+            "सिपाही नहीं चला गया साथी सैनिकों में पहुँचाया था।) (Context: कर्तृवाच्य, कर्मवाच्य एवं भाववाच्य )"
           ],
           "answerIndex": 0,
           "explanation": "«सिपाही से... नहीं चला गया» (असमर्थता भाववाच्य) और «सैनिकों द्वारा... पहुँचाया गया» (सकर्मक कर्मवाच्य) दोनों का संश्लेषण व्याकरणिक दृष्टि से उत्कृष्ट है।"
@@ -7251,9 +7251,9 @@
           "prompt": "प्रत्यक्ष कथन «अमित ने कहा, \"मेरी पुस्तक खो गई है।\"» का मानक अप्रत्यक्ष रूपांतरण क्या होगा?",
           "options": [
             "अमित ने कहा कि उसकी पुस्तक खो गई है (Amit ne kaha ki uski pustak kho gayi hai - Amit said that his book has been lost [pronoun shift to 3rd person])",
-            "अमित ने कहा कि मेरी पुस्तक खो गई है (सर्वनाम अपरिवर्तित दोष) (Target expression (Hindi))",
-            "अमित ने कहा मैं पुस्तक खो दिया हूँ (अमानक रचना) (Target expression (Hindi))",
-            "अमित कहा पुस्तक उसकी खो गई (परसर्ग लोप दोष) (Target expression (Hindi))"
+            "अमित ने कहा कि मेरी पुस्तक खो गई है (सर्वनाम अपरिवर्तित दोष)) (Context: अप्रत्यक्ष कथन का बुनियादी नियम)",
+            "अमित ने कहा मैं पुस्तक खो दिया हूँ (अमानक रचना)) (Context: अप्रत्यक्ष कथन का बुनियादी नियम)",
+            "अमित कहा पुस्तक उसकी खो गई (परसर्ग लोप दोष)) (Context: अप्रत्यक्ष कथन का बुनियादी नियम)"
           ],
           "answerIndex": 0,
           "explanation": "अप्रत्यक्ष कथन में वक्ता के सर्वनाम 'मेरी' का रूपांतरण तृतीय पुरुष «उसकी» में होना व्याकरण का अनिवार्य नियम है।"
@@ -7282,9 +7282,9 @@
           "prompt": "अप्रत्यक्ष कथन (Indirect Speech) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
             "मंत्री जी ने अधिकारियों को निर्देश दिया कि वे जनहित के सभी कार्य प्राथमिकता के आधार पर पूर्ण करें। (The minister instructed the officers that they should complete all public welfare works on a priority basis.)",
-            "मंत्री जी ने कहा कि तुम सब काम करो। (Target expression (Hindi))",
-            "मंत्री जी ने निर्देश दिया की वे काम करेंगे। (Target expression (Hindi))",
-            "मंत्री जी बोले कि हम काम पूरा कर रहे हैं। (Target expression (Hindi))"
+            "मंत्री जी ने कहा कि तुम सब काम करो।) (Context: अप्रत्यक्ष कथन का बुनियादी नियम)",
+            "मंत्री जी ने निर्देश दिया की वे काम करेंगे।) (Context: अप्रत्यक्ष कथन का बुनियादी नियम)",
+            "मंत्री जी बोले कि हम काम पूरा कर रहे हैं।) (Context: अप्रत्यक्ष कथन का बुनियादी नियम)"
           ],
           "answerIndex": 0,
           "explanation": "«निर्देश दिया कि वे... पूर्ण करें» में योजक 'कि', सर्वनाम 'वे' और संभावनार्थ क्रिया 'करें' का समन्वय शत-प्रतिशत शुद्ध है।"
@@ -7364,9 +7364,9 @@
           "prompt": "कारण और परिणाम के पूर्णतः शुद्ध समन्वय वाला वाक्य पहचानिए:",
           "options": [
             "चूँकि उसने परीक्षा के लिए निष्ठापूर्वक तैयारी की थी, इसलिए उसे उत्कृष्ट सफलता प्राप्त हुई। (Since he had prepared faithfully for the exam, therefore he achieved excellent success.)",
-            "चूँकि उसने तैयारी की क्योंकि सफलता मिली। (Target expression (Hindi))",
-            "उसने तैयारी की ताकि सफलता मिली थी। (Target expression (Hindi))",
-            "चूँकि तैयारी किया इसलिए सफल हो गया था वह। (Target expression (Hindi))"
+            "चूँकि उसने तैयारी की क्योंकि सफलता मिली।) (Context: कारण और परिणाम योजक)",
+            "उसने तैयारी की ताकि सफलता मिली थी।) (Context: कारण और परिणाम योजक)",
+            "चूँकि तैयारी किया इसलिए सफल हो गया था वह।) (Context: कारण और परिणाम योजक)"
           ],
           "answerIndex": 0,
           "explanation": "«चूँकि... इसलिए» का कारण-परिणाम संबंध व्याकरणिक दृष्टि से सर्वथा त्रुटिहीन है।"
@@ -7415,9 +7415,9 @@
           "prompt": "उद्देश्य (Purpose: so that you may succeed) व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "नियमित अभ्यास करो ताकि तुम परीक्षा में सफल हो सको (Niyamit abhyaas karo taaki tum pareeksha mein safal ho sako - Practice regularly so that you may succeed)",
-            "नियमित अभ्यास करो क्योंकि सफल हो गए (कारण विपर्यय) (Target expression (Hindi))",
-            "नियमित अभ्यास करो इसलिए सफल हुए (परिणाम दोष) (Target expression (Hindi))",
-            "नियमित अभ्यास करो तथापि सफल हो (वैषम्य दोष) (Target expression (Hindi))"
+            "नियमित अभ्यास करो क्योंकि सफल हो गए (कारण विपर्यय)) (Context: उद्देश्य और परिणाम योजक)",
+            "नियमित अभ्यास करो इसलिए सफल हुए (परिणाम दोष)) (Context: उद्देश्य और परिणाम योजक)",
+            "नियमित अभ्यास करो तथापि सफल हो (वैषम्य दोष)) (Context: उद्देश्य और परिणाम योजक)"
           ],
           "answerIndex": 0,
           "explanation": "उद्देश्य दर्शाने के लिए «ताकि... सफल हो सको» का प्रयोग व्याकरणिक दृष्टि से शुद्ध है।"
@@ -7446,9 +7446,9 @@
           "prompt": "उद्देश्य (ताकि) और परिणाम की तीव्रता (इतना...कि) का शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
             "वक्ता ने इतनी मधुर वाणी में समझाया कि सभी श्रोता मंत्रमुग्ध हो गए और शांति बनाए रखी ताकि कोई व्यवधान न हो। (The speaker explained in so sweet a voice that all listeners were enchanted and maintained silence so that there was no disruption.)",
-            "वक्ता ने ताकि समझाया कि श्रोता इतने हो गए। (Target expression (Hindi))",
-            "वक्ता इतना समझाया क्योंकि व्यवधान न हो। (Target expression (Hindi))",
-            "वक्ता ने समझाया इसलिए ताकि शांति हो गई थी। (Target expression (Hindi))"
+            "वक्ता ने ताकि समझाया कि श्रोता इतने हो गए।) (Context: उद्देश्य और परिणाम योजक)",
+            "वक्ता इतना समझाया क्योंकि व्यवधान न हो।) (Context: उद्देश्य और परिणाम योजक)",
+            "वक्ता ने समझाया इसलिए ताकि शांति हो गई थी।) (Context: उद्देश्य और परिणाम योजक)"
           ],
           "answerIndex": 0,
           "explanation": "«इतनी मधुर वाणी में... कि सभी मंत्रमुग्ध हो गए» (तीव्रता) और «ताकि कोई व्यवधान न हो» (उद्देश्य) दोनों का समन्वय सर्वथा मानक है।"
@@ -7528,9 +7528,9 @@
           "prompt": "वैषम्य और रियायत योजकों (यद्यपि...तथापि एवं बल्कि) का शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
             "यद्यपि परिस्थितियाँ अत्यंत प्रतिकूल थीं, तथापि उसने धैर्य नहीं खोया, बल्कि दुगुने उत्साह से कार्य में जुट गया। (Although circumstances were extremely adverse, nevertheless he did not lose patience, but rather immersed in work with redoubled zeal.)",
-            "यद्यपि परिस्थितियाँ प्रतिकूल थीं इसलिए धैर्य खो दिया। (Target expression (Hindi))",
-            "हालाँकि परिस्थितियाँ थीं ताकि उत्साह बढ़ गया। (Target expression (Hindi))",
-            "परिस्थितियाँ प्रतिकूल थीं तथापि क्योंकि उसने काम किया। (Target expression (Hindi))"
+            "यद्यपि परिस्थितियाँ प्रतिकूल थीं इसलिए धैर्य खो दिया।) (Context: वैषम्य और रियायत योजक)",
+            "हालाँकि परिस्थितियाँ थीं ताकि उत्साह बढ़ गया।) (Context: वैषम्य और रियायत योजक)",
+            "परिस्थितियाँ प्रतिकूल थीं तथापि क्योंकि उसने काम किया।) (Context: वैषम्य और रियायत योजक)"
           ],
           "answerIndex": 0,
           "explanation": "«यद्यपि... तथापि» (रियायत) और «बल्कि» (संशोधन) का संश्लिष्ट प्रयोग व्याकरणिक दृष्टि से सर्वथा आदर्श है।"
@@ -7579,9 +7579,9 @@
           "prompt": "योजकों के संश्लिष्ट संयोजन वाला व्याकरणिक रूप से आदर्श वाक्य चुनिए:",
           "options": [
             "उसने बताया कि यद्यपि कार्य कठिन था, तथापि उसने पूरा किया ताकि सभी को लाभ मिले (He told that although work was tough, still he completed it so that all may benefit)",
-            "उसने बताया क्योंकि कार्य कठिन था तथापि ताकि पूरा हुआ (अव्यवस्थित योजक दोष) (Target expression (Hindi))",
-            "उसने कहा इसलिए यद्यपि कार्य था ताकि पूरा हुआ (असंगत संयोजन) (Target expression (Hindi))",
-            "उसने बताया कि कार्य कठिन था क्योंकि पूरा किया (तार्किक विपर्यय) (Target expression (Hindi))"
+            "उसने बताया क्योंकि कार्य कठिन था तथापि ताकि पूरा हुआ (अव्यवस्थित योजक दोष)) (Context: जटिल मिश्रित वाक्यों का समेकन व वाक)",
+            "उसने कहा इसलिए यद्यपि कार्य था ताकि पूरा हुआ (असंगत संयोजन)) (Context: जटिल मिश्रित वाक्यों का समेकन व वाक)",
+            "उसने बताया कि कार्य कठिन था क्योंकि पूरा किया (तार्किक विपर्यय)) (Context: जटिल मिश्रित वाक्यों का समेकन व वाक)"
           ],
           "answerIndex": 0,
           "explanation": "«कि» (कथन), «यद्यपि... तथापि» (रियायत), और «ताकि» (उद्देश्य) का संयोजन वाक्य को सुगठित और प्रामाणिक बनाता है।"
@@ -7610,9 +7610,9 @@
           "prompt": "पाँचों योजक वर्गों का समग्र रूप से शुद्ध व तार्किक वाक्य पहचानिए:",
           "options": [
             "शिक्षक ने समझाया कि चूँकि समय अमूल्य है, इसलिए हमें व्यर्थ समय नहीं गँवाना चाहिए, बल्कि निरंतर परिश्रम करना चाहिए ताकि भविष्य उज्ज्वल हो। (The teacher explained that since time is invaluable, therefore we should not waste time, but rather work hard continuously so that future may be bright.)",
-            "शिक्षक ने समझाया की समय अमूल्य है क्योंकि व्यर्थ गँवाते हैं ताकि भविष्य हो। (Target expression (Hindi))",
-            "शिक्षक ने कहा इसलिए समय अमूल्य है यद्यपि परिश्रम करें। (Target expression (Hindi))",
-            "समय अमूल्य है ताकि शिक्षक ने समझाया इसलिए भविष्य हो गया था। (Target expression (Hindi))"
+            "शिक्षक ने समझाया की समय अमूल्य है क्योंकि व्यर्थ गँवाते हैं ताकि भविष्य हो।) (Context: जटिल मिश्रित वाक्यों का समेकन व वाक)",
+            "शिक्षक ने कहा इसलिए समय अमूल्य है यद्यपि परिश्रम करें।) (Context: जटिल मिश्रित वाक्यों का समेकन व वाक)",
+            "समय अमूल्य है ताकि शिक्षक ने समझाया इसलिए भविष्य हो गया था।) (Context: जटिल मिश्रित वाक्यों का समेकन व वाक)"
           ],
           "answerIndex": 0,
           "explanation": "«कि» (कथन) + «चूँकि... इसलिए» (कारण) + «बल्कि» (संशोधन) + «ताकि» (उद्देश्य) का यह संश्लेषण हिंदी वाक्य रचना का शिखर मानक है।"
@@ -7661,9 +7661,9 @@
           "prompt": "भविष्योन्मुख शर्त (Future Conditional: If you call me, I will come) का मानक वाक्य कौन-सा है?",
           "options": [
             "अगर तुम मुझे बुलाओगे, तो मैं अवश्य आऊँगा (Agar tum mujhe bulaaoge, to main avashya aaoonga - If you call me, I will surely come)",
-            "अगर तुम मुझे बुलाओगे तब मैं आऊँगा ('तब' का अमानक प्रयोग) (Target expression (Hindi))",
-            "यदि तुम बुलाए तो मैं आया (भूतकाल असंगति) (Target expression (Hindi))",
-            "बुलाओगे अगर तो मैं आता था (अव्यवस्थित पदक्रम) (Target expression (Hindi))"
+            "अगर तुम मुझे बुलाओगे तब मैं आऊँगा ('तब' का अमानक प्रयोग)) (Context: वास्तविक व भविष्योन्मुख शर्त)",
+            "यदि तुम बुलाए तो मैं आया (भूतकाल असंगति)) (Context: वास्तविक व भविष्योन्मुख शर्त)",
+            "बुलाओगे अगर तो मैं आता था (अव्यवस्थित पदक्रम)) (Context: वास्तविक व भविष्योन्मुख शर्त)"
           ],
           "answerIndex": 0,
           "explanation": "शर्त में «अगर... तो» का भविष्यत् कालीन समन्वय व्याकरणिक दृष्टि से सर्वथा मानक है।"
@@ -7692,9 +7692,9 @@
           "prompt": "वास्तविक भविष्योन्मुख शर्त (Real Future Conditional) का पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
             "यदि समय रहते उचित उपचार मिल जाएगा, तो रोगी शीघ्र ही पूर्ण स्वस्थ हो जाएगा। (If proper treatment is received in time, the patient will recover fully very soon.)",
-            "यदि उचित उपचार मिला तब रोगी स्वस्थ होता था। (Target expression (Hindi))",
-            "अगर उपचार मिलेगा इसलिए स्वस्थ होगा। (Target expression (Hindi))",
-            "उपचार मिलता है ताकि स्वस्थ हो जाएगा। (Target expression (Hindi))"
+            "यदि उचित उपचार मिला तब रोगी स्वस्थ होता था।) (Context: वास्तविक व भविष्योन्मुख शर्त)",
+            "अगर उपचार मिलेगा इसलिए स्वस्थ होगा।) (Context: वास्तविक व भविष्योन्मुख शर्त)",
+            "उपचार मिलता है ताकि स्वस्थ हो जाएगा।) (Context: वास्तविक व भविष्योन्मुख शर्त)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... मिल जाएगा, तो... स्वस्थ हो जाएगा» भविष्योन्मुख शर्त का शत-प्रतिशत शुद्ध और मानक रूप है।"
@@ -7743,9 +7743,9 @@
           "prompt": "संभाव्य शर्त (Hypothetical: If he should ask, tell him the truth) का शुद्ध वाक्य पहचानिए:",
           "options": [
             "यदि वह पूछे, तो उसे सच बता देना (Yadi vah poochhe, to use sach bata dena - If he should ask, tell him the truth [subjunctive condition + imperative])",
-            "यदि वह पूछेगा तब सच बता देना ('तब' दोष) (Target expression (Hindi))",
-            "अगर वह पूछता इसलिए सच बताया (काल असंगति) (Target expression (Hindi))",
-            "वह पूछे यदि ताकि सच बोलो (अव्यवस्थित पदक्रम) (Target expression (Hindi))"
+            "यदि वह पूछेगा तब सच बता देना ('तब' दोष)) (Context: संभाव्य शर्त)",
+            "अगर वह पूछता इसलिए सच बताया (काल असंगति)) (Context: संभाव्य शर्त)",
+            "वह पूछे यदि ताकि सच बोलो (अव्यवस्थित पदक्रम)) (Context: संभाव्य शर्त)"
           ],
           "answerIndex": 0,
           "explanation": "संभाव्य क्रिया «पूछे» के साथ परिणाम उपवाक्य «तो उसे सच बता देना» व्याकरणिक रूप से आदर्श है।"
@@ -7774,9 +7774,9 @@
           "prompt": "संभाव्य शर्त (Subjunctive Conditional) का सर्वथा मानक वाक्य चुनिए:",
           "options": [
             "यदि कोई संकट उत्पन्न हो, तो घबराने के बजाय धैर्यपूर्वक उपाय खोजना चाहिए। (If any crisis should arise, one should patiently seek solutions rather than panicking.)",
-            "यदि संकट उत्पन्न होगा इसलिए घबराएँ। (Target expression (Hindi))",
-            "अगर संकट हुआ था तो उपाय खोजते। (Target expression (Hindi))",
-            "संकट उत्पन्न हो ताकि घबराना चाहिए। (Target expression (Hindi))"
+            "यदि संकट उत्पन्न होगा इसलिए घबराएँ।) (Context: संभाव्य शर्त)",
+            "अगर संकट हुआ था तो उपाय खोजते।) (Context: संभाव्य शर्त)",
+            "संकट उत्पन्न हो ताकि घबराना चाहिए।) (Context: संभाव्य शर्त)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... उत्पन्न हो, तो... खोजना चाहिए» में संभाव्य शर्त और उपदेशात्मक परिणाम का अन्वय सर्वथा शुद्ध है।"
@@ -7825,9 +7825,9 @@
           "prompt": "अवास्तविक भूतकालिक शर्त (Past Counterfactual: Had he run fast, he would have won) का शुद्ध रूप क्या है?",
           "options": [
             "यदि वह तेज़ दौड़ता, तो प्रतियोगिता जीत जाता (Yadi vah tez daudta, to pratiyogita jeet jaata - Had he run fast, he would have won the competition)",
-            "यदि वह तेज़ दौड़ता था तो जीत गया था (अशुद्ध 'था' का प्रयोग) (Target expression (Hindi))",
-            "अगर वह तेज़ दौड़ेगा तो जीत जाता (काल संकर दोष) (Target expression (Hindi))",
-            "वह तेज़ दौड़ता ताकि जीत जाता था (उद्देश्य दोष) (Target expression (Hindi))"
+            "यदि वह तेज़ दौड़ता था तो जीत गया था (अशुद्ध 'था' का प्रयोग)) (Context: हेतुहेतुमद् भूतकाल)",
+            "अगर वह तेज़ दौड़ेगा तो जीत जाता (काल संकर दोष)) (Context: हेतुहेतुमद् भूतकाल)",
+            "वह तेज़ दौड़ता ताकि जीत जाता था (उद्देश्य दोष)) (Context: हेतुहेतुमद् भूतकाल)"
           ],
           "answerIndex": 0,
           "explanation": "हेतुहेतुमद् भूतकाल में दोनों ओर केवल अपूर्ण कृदंत «दौड़ता... जीत जाता» का प्रयोग शुद्ध है।"
@@ -7856,9 +7856,9 @@
           "prompt": "हेतुहेतुमद् भूतकाल (Past Counterfactual) का शत-प्रतिशत मानक वाक्य पहचानिए:",
           "options": [
             "यदि किसान समय पर खाद और पानी देते, तो इस वर्ष खेतों में रिकॉर्ड फसल पैदा होती। (Had the farmers given fertilizer and water on time, a record crop would have been produced in the fields this year.)",
-            "यदि किसान खाद देते थे तो फसल पैदा होती थी। (Target expression (Hindi))",
-            "अगर किसान खाद देंगे तो फसल पैदा होती। (Target expression (Hindi))",
-            "किसान खाद देते ताकि फसल पैदा हुई थी। (Target expression (Hindi))"
+            "यदि किसान खाद देते थे तो फसल पैदा होती थी।) (Context: हेतुहेतुमद् भूतकाल)",
+            "अगर किसान खाद देंगे तो फसल पैदा होती।) (Context: हेतुहेतुमद् भूतकाल)",
+            "किसान खाद देते ताकि फसल पैदा हुई थी।) (Context: हेतुहेतुमद् भूतकाल)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... देते, तो... पैदा होती» हेतुहेतुमद् भूतकाल का व्याकरणिक नियमों के अनुसार पूर्णतः त्रुटिहीन रूप है।"
@@ -7907,9 +7907,9 @@
           "prompt": "असंभव इच्छा (Wish: Would that I were rich!) को व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "काश मैं धनी होता! (Kaash main dhani hota! - Would that I were wealthy! [optative with kaash + imperfective])",
-            "काश मैं धनी हूँ! (वर्तमान सत्य दोष) (Target expression (Hindi))",
-            "काश मैं धनी होऊंगा! (भविष्यत् काल दोष) (Target expression (Hindi))",
-            "काश मैं धनी हो गया था! (अशुद्ध भूतकाल) (Target expression (Hindi))"
+            "काश मैं धनी हूँ! (वर्तमान सत्य दोष)) (Context: इच्छा, काश और असंभव कामनाएं)",
+            "काश मैं धनी होऊंगा! (भविष्यत् काल दोष)) (Context: इच्छा, काश और असंभव कामनाएं)",
+            "काश मैं धनी हो गया था! (अशुद्ध भूतकाल)) (Context: इच्छा, काश और असंभव कामनाएं)"
           ],
           "answerIndex": 0,
           "explanation": "'काश' के साथ असंभव कामना व्यक्त करने हेतु अपूर्ण कृदंत «होता» शुद्ध है।"
@@ -7938,9 +7938,9 @@
           "prompt": "'काश' और मिश्रित शर्तपरक वाक्य का पूर्णतः शुद्ध उदाहरण चुनिए:",
           "options": [
             "काश हमने समय रहते पर्यावरण संरक्षण पर ध्यान दिया होता, तो आज हमें इस गंभीर जलवायु संकट का सामना न करना पड़ता। (If only we had paid attention to environment conservation in time, today we wouldn't have had to face this severe climate crisis.)",
-            "काश हम ध्यान देते थे इसलिए संकट न होता। (Target expression (Hindi))",
-            "काश हम ध्यान देंगे ताकि संकट नहीं हो। (Target expression (Hindi))",
-            "हम ध्यान दिए होते काश तो संकट था। (Target expression (Hindi))"
+            "काश हम ध्यान देते थे इसलिए संकट न होता।) (Context: इच्छा, काश और असंभव कामनाएं)",
+            "काश हम ध्यान देंगे ताकि संकट नहीं हो।) (Context: इच्छा, काश और असंभव कामनाएं)",
+            "हम ध्यान दिए होते काश तो संकट था।) (Context: इच्छा, काश और असंभव कामनाएं)"
           ],
           "answerIndex": 0,
           "explanation": "«काश... ध्यान दिया होता, तो आज... न करना पड़ता» में पश्चाताप और वर्तमान परिणाम का संश्लेषण सर्वथा निर्दोष है।"
@@ -7989,9 +7989,9 @@
           "prompt": "शर्तपरक संरचनाओं के सभी नियमों का पालन करने वाला सुगठित वाक्य पहचानिए:",
           "options": [
             "यदि हम आज संयम और अनुशासन का पालन करेंगे, तो कल हमारा भविष्य सुरक्षित और समृद्ध होगा (If we observe restraint and discipline today, tomorrow our future will be secure and prosperous)",
-            "यदि हम आज अनुशासन पालन करते तब कल भविष्य होगा (असंगत काल) (Target expression (Hindi))",
-            "अगर अनुशासन पालन करेंगे इसलिए भविष्य समृद्ध था (तार्किक दोष) (Target expression (Hindi))",
-            "अनुशासन पालन करें ताकि अगर भविष्य होगा (अव्यवस्थित संयोजन) (Target expression (Hindi))"
+            "यदि हम आज अनुशासन पालन करते तब कल भविष्य होगा (असंगत काल)) (Context: शर्तपरक संरचनाओं का समग्र समेकन व स)",
+            "अगर अनुशासन पालन करेंगे इसलिए भविष्य समृद्ध था (तार्किक दोष)) (Context: शर्तपरक संरचनाओं का समग्र समेकन व स)",
+            "अनुशासन पालन करें ताकि अगर भविष्य होगा (अव्यवस्थित संयोजन)) (Context: शर्तपरक संरचनाओं का समग्र समेकन व स)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... करेंगे, तो... होगा» भविष्योन्मुख शर्त का परिपूर्ण और सुगठित वाक्य है।"
@@ -8020,9 +8020,9 @@
           "prompt": "शर्तपरक वाक्यों (Conditionals) के चारों प्रकारों का संपूर्ण तार्किक समन्वय वाला वाक्य पहचानिए:",
           "options": [
             "यदि समाज का प्रत्येक वर्ग एकजुट होकर प्रयास करे, तो कोई भी लक्ष्य असंभव नहीं है; किंतु अगर हमने आलस्य किया, तो हमें भारी मूल्य चुकाना पड़ेगा। (If every section of society strives together, no goal is impossible; but if we act lazy, we will have to pay a heavy price.)",
-            "यदि समाज प्रयास करता है तब कोई लक्ष्य असंभव था। (Target expression (Hindi))",
-            "अगर समाज प्रयास करेगा ताकि मूल्य चुकाया था। (Target expression (Hindi))",
-            "समाज प्रयास करे इसलिए अगर लक्ष्य असंभव होगा। (Target expression (Hindi))"
+            "यदि समाज प्रयास करता है तब कोई लक्ष्य असंभव था।) (Context: शर्तपरक संरचनाओं का समग्र समेकन व स)",
+            "अगर समाज प्रयास करेगा ताकि मूल्य चुकाया था।) (Context: शर्तपरक संरचनाओं का समग्र समेकन व स)",
+            "समाज प्रयास करे इसलिए अगर लक्ष्य असंभव होगा।) (Context: शर्तपरक संरचनाओं का समग्र समेकन व स)"
           ],
           "answerIndex": 0,
           "explanation": "«यदि... करे, तो... असंभव नहीं है» (संभाव्य) तथा «अगर... किया, तो... चुकाना पड़ेगा» (वास्तविक परिणाम) का संश्लेषण व्याकरणिक और तार्किक दृष्टि से अप्रतिम है।"
@@ -8071,9 +8071,9 @@
           "prompt": "रीतिवाचक क्रिया-विशेषण (Manner Adverb: patiently) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "उसने मेरी पूरी बात धैर्यपूर्वक सुनी (Usne meri poori baat dhairyapoorvak suni - He heard my whole talk patiently [manner adverb with -poorvak])",
-            "उसने मेरी बात कल सुनी (कालवाचक भेद) (Target expression (Hindi))",
-            "उसने मेरी बात वहाँ सुनी (स्थानवाचक भेद) (Target expression (Hindi))",
-            "उसने मेरी बात बहुत सुनी (परिमाणवाचक भेद) (Target expression (Hindi))"
+            "उसने मेरी बात कल सुनी (कालवाचक भेद)) (Context: रीतिवाचक क्रिया-विशेषण)",
+            "उसने मेरी बात वहाँ सुनी (स्थानवाचक भेद)) (Context: रीतिवाचक क्रिया-विशेषण)",
+            "उसने मेरी बात बहुत सुनी (परिमाणवाचक भेद)) (Context: रीतिवाचक क्रिया-विशेषण)"
           ],
           "answerIndex": 0,
           "explanation": "कार्य के ढंग या रीति को दर्शाने वाला शब्द «धैर्यपूर्वक» रीतिवाचक क्रिया-विशेषण है।"
@@ -8102,9 +8102,9 @@
           "prompt": "रीतिवाचक क्रिया-विशेषण (Manner Adverb) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
             "सुरक्षाकर्मियों ने वीआईपी काफिले को बड़ी कुशलता और तत्परता से सुरक्षित बाहर निकाला। (The security personnel skillfully and promptly evacuated the VIP convoy safely.)",
-            "सुरक्षाकर्मियों ने काफिले को कल बाहर निकाला। (Target expression (Hindi))",
-            "सुरक्षाकर्मियों ने काफिले को बहुत बाहर निकाला। (Target expression (Hindi))",
-            "सुरक्षाकर्मियों ने काफिले को दिल्ली में निकाला। (Target expression (Hindi))"
+            "सुरक्षाकर्मियों ने काफिले को कल बाहर निकाला।) (Context: रीतिवाचक क्रिया-विशेषण)",
+            "सुरक्षाकर्मियों ने काफिले को बहुत बाहर निकाला।) (Context: रीतिवाचक क्रिया-विशेषण)",
+            "सुरक्षाकर्मियों ने काफिले को दिल्ली में निकाला।) (Context: रीतिवाचक क्रिया-विशेषण)"
           ],
           "answerIndex": 0,
           "explanation": "«बड़ी कुशलता और तत्परता से» क्रिया के निष्पादन की रीति (Manner) को शत-प्रतिशत स्पष्ट करता है।"
@@ -8153,9 +8153,9 @@
           "prompt": "आवृत्तिवाचक क्रिया-विशेषण (Frequency Adverb: often/usually) वाला मानक वाक्य चुनिए:",
           "options": [
             "वह प्रायः शाम को टहलने जाता है (Vah praayah shaam ko tahalne jaata hai - He often goes for a walk in the evening [frequency adverb praayah])",
-            "वह बाहर टहलने जाता है (स्थानवाचक भेद) (Target expression (Hindi))",
-            "वह तेज़ टहलने जाता है (रीतिवाचक भेद) (Target expression (Hindi))",
-            "वह बहुत टहलता है (परिमाणवाचक भेद) (Target expression (Hindi))"
+            "वह बाहर टहलने जाता है (स्थानवाचक भेद)) (Context: कालवाचक एवं आवृत्तिवाचक क्रिया-विशे)",
+            "वह तेज़ टहलने जाता है (रीतिवाचक भेद)) (Context: कालवाचक एवं आवृत्तिवाचक क्रिया-विशे)",
+            "वह बहुत टहलता है (परिमाणवाचक भेद)) (Context: कालवाचक एवं आवृत्तिवाचक क्रिया-विशे)"
           ],
           "answerIndex": 0,
           "explanation": "क्रिया की आवृत्ति दर्शाने वाला तत्सम शब्द «प्रायः» आवृत्तिवाचक क्रिया-विशेषण है।"
@@ -8184,9 +8184,9 @@
           "prompt": "कालवाचक और आवृत्तिवाचक क्रिया-विशेषण का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "वैज्ञानिक दल ने प्रयोगशाला में निरंतर और बार-बार प्रयोग करके नवीन निष्कर्ष निकाले। (The scientific team drew novel conclusions by experimenting continuously and repeatedly in the lab.)",
-            "वैज्ञानिक दल ने ध्यानपूर्वक प्रयोग निकाला था। (Target expression (Hindi))",
-            "वैज्ञानिक दल ने बहुत दूर प्रयोग किया। (Target expression (Hindi))",
-            "वैज्ञानिक दल ने प्रयोग को अंदर रखा था। (Target expression (Hindi))"
+            "वैज्ञानिक दल ने ध्यानपूर्वक प्रयोग निकाला था।) (Context: कालवाचक एवं आवृत्तिवाचक क्रिया-विशे)",
+            "वैज्ञानिक दल ने बहुत दूर प्रयोग किया।) (Context: कालवाचक एवं आवृत्तिवाचक क्रिया-विशे)",
+            "वैज्ञानिक दल ने प्रयोग को अंदर रखा था।) (Context: कालवाचक एवं आवृत्तिवाचक क्रिया-विशे)"
           ],
           "answerIndex": 0,
           "explanation": "«निरंतर» (अवधि) और «बार-बार» (आवृत्ति) दोनों कालवाचक क्रिया-विशेषण के आदर्श उदाहरण हैं।"
@@ -8235,9 +8235,9 @@
           "prompt": "स्थानवाचक क्रिया-विशेषण (Locative Adverb: around/nearby) वाला शुद्ध वाक्य पहचानिए:",
           "options": [
             "घर के आस-पास अनेक छायादार वृक्ष लगे हैं (Ghar ke aas-paas anek chhaayaadaar vriksh lage hain - Many shady trees are planted around the house [locative aas-paas])",
-            "घर में कल वृक्ष लगे थे (कालवाचक भेद) (Target expression (Hindi))",
-            "घर में ध्यानपूर्वक वृक्ष लगे (रीतिवाचक भेद) (Target expression (Hindi))",
-            "घर में बहुत वृक्ष लगे (परिमाणवाचक भेद) (Target expression (Hindi))"
+            "घर में कल वृक्ष लगे थे (कालवाचक भेद)) (Context: स्थानवाचक और दिशावाचक क्रिया-विशेषण)",
+            "घर में ध्यानपूर्वक वृक्ष लगे (रीतिवाचक भेद)) (Context: स्थानवाचक और दिशावाचक क्रिया-विशेषण)",
+            "घर में बहुत वृक्ष लगे (परिमाणवाचक भेद)) (Context: स्थानवाचक और दिशावाचक क्रिया-विशेषण)"
           ],
           "answerIndex": 0,
           "explanation": "स्थान और निकटता का बोध कराने वाला पद «आस-पास» स्थानवाचक क्रिया-विशेषण है।"
@@ -8266,9 +8266,9 @@
           "prompt": "स्थानवाचक और दिशावाचक क्रिया-विशेषण का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "सुरक्षा बल सीमा के चारों ओर मुस्तैदी से पहरा दे रहे हैं और समीप ही गश्ती वाहन तैनात हैं। (Security forces are guarding alertly all around the border and patrol vehicles are deployed nearby.)",
-            "सुरक्षा बल कल पहरा दे रहे हैं सीमा में। (Target expression (Hindi))",
-            "सुरक्षा बल बहुत पहरा दे रहे हैं। (Target expression (Hindi))",
-            "सुरक्षा बल पहरा धीरे-धीरे दे रहे हैं सीमा। (Target expression (Hindi))"
+            "सुरक्षा बल कल पहरा दे रहे हैं सीमा में।) (Context: स्थानवाचक और दिशावाचक क्रिया-विशेषण)",
+            "सुरक्षा बल बहुत पहरा दे रहे हैं।) (Context: स्थानवाचक और दिशावाचक क्रिया-विशेषण)",
+            "सुरक्षा बल पहरा धीरे-धीरे दे रहे हैं सीमा।) (Context: स्थानवाचक और दिशावाचक क्रिया-विशेषण)"
           ],
           "answerIndex": 0,
           "explanation": "«चारों ओर» (दिशा) और «समीप ही» (स्थान) का संश्लेषण स्थानवाचक व्याकरण के अनुसार सर्वथा त्रुटिहीन है।"
@@ -8317,9 +8317,9 @@
           "prompt": "तुलनात्मक परिमाण (Comparative Degree: comparatively easier) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "यह कार्य पिछले कार्य से अपेक्षाकृत सरल है (Yah kaary pichhle kaary se apekshaakrit saral hai - This work is comparatively easier than the previous one)",
-            "यह कार्य कल सरल है (कालवाचक भेद) (Target expression (Hindi))",
-            "यह कार्य ध्यानपूर्वक सरल है (रीतिवाचक भेद) (Target expression (Hindi))",
-            "यह कार्य चारों ओर सरल है (स्थानवाचक भेद) (Target expression (Hindi))"
+            "यह कार्य कल सरल है (कालवाचक भेद)) (Context: परिमाणवाचक और तुलनात्मक क्रिया-विशे)",
+            "यह कार्य ध्यानपूर्वक सरल है (रीतिवाचक भेद)) (Context: परिमाणवाचक और तुलनात्मक क्रिया-विशे)",
+            "यह कार्य चारों ओर सरल है (स्थानवाचक भेद)) (Context: परिमाणवाचक और तुलनात्मक क्रिया-विशे)"
           ],
           "answerIndex": 0,
           "explanation": "तुलनात्मक मात्रा या कोटि दर्शाने के लिए तत्सम अव्यय «अपेक्षाकृत» परिमाणवाचक क्रिया-विशेषण है।"
@@ -8348,9 +8348,9 @@
           "prompt": "परिमाणवाचक और तुलनात्मक क्रिया-विशेषण का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "नई तकनीक अपनाने के बाद कारखाने का उत्पादन अपेक्षाकृत अत्यधिक बढ़ गया है। (After adopting new technology the factory's production has increased comparatively substantially.)",
-            "कारखाने का उत्पादन कल ध्यानपूर्वक बढ़ गया। (Target expression (Hindi))",
-            "कारखाने का उत्पादन चारों ओर बढ़ गया था। (Target expression (Hindi))",
-            "उत्पादन बढ़ गया ताकि कारखाना चला था। (Target expression (Hindi))"
+            "कारखाने का उत्पादन कल ध्यानपूर्वक बढ़ गया।) (Context: परिमाणवाचक और तुलनात्मक क्रिया-विशे)",
+            "कारखाने का उत्पादन चारों ओर बढ़ गया था।) (Context: परिमाणवाचक और तुलनात्मक क्रिया-विशे)",
+            "उत्पादन बढ़ गया ताकि कारखाना चला था।) (Context: परिमाणवाचक और तुलनात्मक क्रिया-विशे)"
           ],
           "answerIndex": 0,
           "explanation": "«अपेक्षाकृत» (तुलना) और «अत्यधिक» (मात्रा की तीव्रता) का संश्लेषण परिमाणवाचक व्याकरण का उत्कृष्ट उदाहरण है।"
@@ -8399,9 +8399,9 @@
           "prompt": "मानक पदक्रम (Time → Place → Manner → Verb) वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
             "अमित ने कल विद्यालय में ध्यानपूर्वक पाठ पढ़ा (Amit ne kal vidyaalay mein dhyaanpoorvak paath padha - Amit read the lesson attentively at school yesterday [canonical order: Time (kal) -> Place (vidyaalay mein) -> Manner (dhyaanpoorvak)])",
-            "अमित ने ध्यानपूर्वक कल पढ़ा विद्यालय में (अव्यवस्थित पदक्रम दोष) (Target expression (Hindi))",
-            "अमित ने विद्यालय में पढ़ा कल ध्यानपूर्वक (पदक्रम विपर्यय) (Target expression (Hindi))",
-            "कल पढ़ा अमित ने ध्यानपूर्वक विद्यालय में (अमानक रचना) (Target expression (Hindi))"
+            "अमित ने ध्यानपूर्वक कल पढ़ा विद्यालय में (अव्यवस्थित पदक्रम दोष)) (Context: क्रिया-विशेषणों का समग्र समन्वय व प)",
+            "अमित ने विद्यालय में पढ़ा कल ध्यानपूर्वक (पदक्रम विपर्यय)) (Context: क्रिया-विशेषणों का समग्र समन्वय व प)",
+            "कल पढ़ा अमित ने ध्यानपूर्वक विद्यालय में (अमानक रचना)) (Context: क्रिया-विशेषणों का समग्र समन्वय व प)"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी का मानक पदक्रम: कर्ता (अमित) + काल (कल) + स्थान (विद्यालय में) + रीति (ध्यानपूर्वक) + क्रिया (पढ़ा) है।"
@@ -8430,9 +8430,9 @@
           "prompt": "चारों क्रिया-विशेषण वर्गों और मानक पदक्रम (Time-Place-Manner-Verb) का समग्र रूप से शुद्ध वाक्य चुनिए:",
           "options": [
             "चिकित्सकों ने आज प्रातःकाल अस्पताल में अत्यंत कुशलता और लगन से जटिल ऑपरेशन सफलतापूर्वक संपन्न किया। (Doctors successfully accomplished the complex operation with extreme skill and dedication in the hospital this morning.)",
-            "चिकित्सकों ने कुशलता से आज अस्पताल में किया ऑपरेशन। (Target expression (Hindi))",
-            "अस्पताल में आज कुशलता से डॉक्टरों ने ऑपरेशन संपन्न किया था बहुत। (Target expression (Hindi))",
-            "ऑपरेशन संपन्न किया आज डॉक्टरों ने अस्पताल में कुशलता से। (Target expression (Hindi))"
+            "चिकित्सकों ने कुशलता से आज अस्पताल में किया ऑपरेशन।) (Context: क्रिया-विशेषणों का समग्र समन्वय व प)",
+            "अस्पताल में आज कुशलता से डॉक्टरों ने ऑपरेशन संपन्न किया था बहुत।) (Context: क्रिया-विशेषणों का समग्र समन्वय व प)",
+            "ऑपरेशन संपन्न किया आज डॉक्टरों ने अस्पताल में कुशलता से।) (Context: क्रिया-विशेषणों का समग्र समन्वय व प)"
           ],
           "answerIndex": 0,
           "explanation": "«आज प्रातःकाल» (काल) + «अस्पताल में» (स्थान) + «अत्यंत कुशलता और लगन से» (रीति) + «सफलतापूर्वक संपन्न किया» (क्रिया) का पदक्रम शत-प्रतिशत आदर्श है।"
@@ -8481,9 +8481,9 @@
           "prompt": "औपचारिक शासकीय पत्र (Formal Letter Opening) का मानक आरंभिक वाक्य चुनिए:",
           "options": [
             "सविनय निवेदन है कि (Savinay nivedan hai ki - It is respectfully submitted that... [standard formal letter opening])",
-            "अरे सुनिए भाई (अनौपचारिक ग्रामीण बोली) (Target expression (Hindi))",
-            "तुमको बताता हूँ कि (अशिष्ट वार्तालाप शैली) (Target expression (Hindi))",
-            "बात यह है यार (मित्रवत अनौपचारिक दोष) (Target expression (Hindi))"
+            "अरे सुनिए भाई (अनौपचारिक ग्रामीण बोली)) (Context: औपचारिक पत्राचार)",
+            "तुमको बताता हूँ कि (अशिष्ट वार्तालाप शैली)) (Context: औपचारिक पत्राचार)",
+            "बात यह है यार (मित्रवत अनौपचारिक दोष)) (Context: औपचारिक पत्राचार)"
           ],
           "answerIndex": 0,
           "explanation": "औपचारिक पत्रों में आदरसूचक और मानक शुरुआत «सविनय निवेदन है कि» से की जाती है।"
@@ -8512,9 +8512,9 @@
           "prompt": "औपचारिक पत्राचार (Formal Correspondence) का पूर्णतः प्रामाणिक और मानक वाक्य पहचानिए:",
           "options": [
             "उपर्युक्त विषयांतर्गत सादर निवेदन है कि हमारे आवेदन पर सहानुभूतिपूर्वक विचार कर त्वरित कार्रवाई करने की कृपा करें। (With reference to the subject above, it is respectfully requested to kindly consider our application sympathetically and take prompt action.)",
-            "उपर्युक्त विषय में तू जल्दी काम कर ले। (Target expression (Hindi))",
-            "आवेदन पर हम सब मिलकर हँस रहे थे। (Target expression (Hindi))",
-            "सहानुभूतिपूर्वक विचार करो ताकि पत्र खत्म हो। (Target expression (Hindi))"
+            "उपर्युक्त विषय में तू जल्दी काम कर ले।) (Context: औपचारिक पत्राचार)",
+            "आवेदन पर हम सब मिलकर हँस रहे थे।) (Context: औपचारिक पत्राचार)",
+            "सहानुभूतिपूर्वक विचार करो ताकि पत्र खत्म हो।) (Context: औपचारिक पत्राचार)"
           ],
           "answerIndex": 0,
           "explanation": "«उपर्युक्त विषयांतर्गत सादर निवेदन है कि... विचार कर त्वरित कार्रवाई करने की कृपा करें» पूर्ण शासकीय शिष्टाचार और व्याकरणिक शुद्धता का उदाहरण है।"
@@ -8563,9 +8563,9 @@
           "prompt": "उच्चाधिकारी की स्वीकृति प्राप्त करने हेतु टिप्पणी में कौन-सा मानक पद लिखा जाता है?",
           "options": [
             "अनुमोदनार्थ प्रस्तुत (Anumodanaarth prastut - Submitted for approval [standard official noting term])",
-            "घर ले जाने हेतु (असंगत निजी प्रयोग) (Target expression (Hindi))",
-            "रद्दी में डालने हेतु (अवांछित अमानक रूप) (Target expression (Hindi))",
-            "गाना गाने हेतु (हास्यास्पद अनुपयुक्त विकल्प) (Target expression (Hindi))"
+            "घर ले जाने हेतु (असंगत निजी प्रयोग)) (Context: कार्यालयी टिप्पण और प्रारूपण (Admin)",
+            "रद्दी में डालने हेतु (अवांछित अमानक रूप)) (Context: कार्यालयी टिप्पण और प्रारूपण (Admin)",
+            "गाना गाने हेतु (हास्यास्पद अनुपयुक्त विकल्प)) (Context: कार्यालयी टिप्पण और प्रारूपण (Admin)"
           ],
           "answerIndex": 0,
           "explanation": "अंतिम निर्णय या मंजूरी प्राप्त करने के लिए फाइल पर «अनुमोदनार्थ प्रस्तुत» लिखना मानक प्रशासनिक मुहावरा है।"
@@ -8594,9 +8594,9 @@
           "prompt": "कार्यालयी टिप्पण एवं प्रारूपण (Administrative Drafting) का सर्वथा मानक वाक्य पहचानिए:",
           "options": [
             "सक्षम प्राधिकारी के निर्देशानुसार उपर्युक्त प्रस्ताव को नियमानुसार वित्तीय स्वीकृति प्रदान की जाती है। (In accordance with the directive of the competent authority, financial sanction is accorded to the above proposal as per rules.)",
-            "सक्षम प्राधिकारी कल शाम को चाय पी रहे थे। (Target expression (Hindi))",
-            "प्रस्ताव को किसी ने फेंक दिया था बाहर। (Target expression (Hindi))",
-            "वित्तीय स्वीकृति मिली ताकि सब भाग जाएं। (Target expression (Hindi))"
+            "सक्षम प्राधिकारी कल शाम को चाय पी रहे थे।) (Context: कार्यालयी टिप्पण और प्रारूपण (Admin)",
+            "प्रस्ताव को किसी ने फेंक दिया था बाहर।) (Context: कार्यालयी टिप्पण और प्रारूपण (Admin)",
+            "वित्तीय स्वीकृति मिली ताकि सब भाग जाएं।) (Context: कार्यालयी टिप्पण और प्रारूपण (Admin)"
           ],
           "answerIndex": 0,
           "explanation": "«सक्षम प्राधिकारी के निर्देशानुसार... वित्तीय स्वीकृति प्रदान की जाती है» प्रशासनिक शब्दावली और वाक्य-रचना का आदर्श उदाहरण है।"
@@ -8645,9 +8645,9 @@
           "prompt": "व्यावसायिक अनुबंध में ठेके या बोली हेतु आवश्यक 'Earnest Money' के लिए शुद्ध हिंदी पारिभाषिक शब्द कौन-सा है?",
           "options": [
             "धरोहर राशि (Dharohar raashi - Earnest Money Deposit [official commercial legal term])",
-            "जेब खर्च (अनौपचारिक निजी धन) (Target expression (Hindi))",
-            "उपहार धन (दान या भेंट) (Target expression (Hindi))",
-            "किराया शुल्क (साधारण भाड़ा) (Target expression (Hindi))"
+            "जेब खर्च (अनौपचारिक निजी धन)) (Context: व्यावसायिक अनुबंध और शर्तें (Commer)",
+            "उपहार धन (दान या भेंट)) (Context: व्यावसायिक अनुबंध और शर्तें (Commer)",
+            "किराया शुल्क (साधारण भाड़ा)) (Context: व्यावसायिक अनुबंध और शर्तें (Commer)"
           ],
           "answerIndex": 0,
           "explanation": "सरकारी और व्यावसायिक निविदाओं में सुरक्षा जमा राशि को «धरोहर राशि» (Earnest Money) कहा जाता है।"
@@ -8676,9 +8676,9 @@
           "prompt": "व्यावसायिक अनुबंध और निविदा (Commercial Contract & Tender) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "सफल बोलीदाता को अनुबंध पर हस्ताक्षर करने से पूर्व निर्धारित अनुबंधीय बैंक गारंटी जमा कराना अनिवार्य होगा। (The successful bidder will be required to deposit the stipulated contractual bank guarantee prior to signing the contract.)",
-            "बोलीदाता कल बाज़ार में घूम रहा था। (Target expression (Hindi))",
-            "अनुबंध पर किसी ने चाय गिरा दी थी। (Target expression (Hindi))",
-            "गारंटी जमा करो ताकि हम सब घर जाएं। (Target expression (Hindi))"
+            "बोलीदाता कल बाज़ार में घूम रहा था।) (Context: व्यावसायिक अनुबंध और शर्तें (Commer)",
+            "अनुबंध पर किसी ने चाय गिरा दी थी।) (Context: व्यावसायिक अनुबंध और शर्तें (Commer)",
+            "गारंटी जमा करो ताकि हम सब घर जाएं।) (Context: व्यावसायिक अनुबंध और शर्तें (Commer)"
           ],
           "answerIndex": 0,
           "explanation": "«सफल बोलीदाता को... बैंक गारंटी जमा कराना अनिवार्य होगा» वाणिज्यिक अनुबंध का परिष्कृत और त्रुटिहीन वाक्य है।"
@@ -8727,9 +8727,9 @@
           "prompt": "ईमेल में फ़ाइल जोड़ने (Attachment) के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
             "संलग्नक / संलग्न फ़ाइल (Sanlagnak / Sanlagn file - Attachment / Attached file [standard email terminology])",
-            "चिपकाई हुई फ़ोटो (अनौपचारिक घरेलू शब्द) (Target expression (Hindi))",
-            "बाँधा हुआ कागज़ (अनुपयुक्त देहाती मुहावरा) (Target expression (Hindi))",
-            "खोया हुआ पत्र (भ्रामक विपरीतार्थक) (Target expression (Hindi))"
+            "चिपकाई हुई फ़ोटो (अनौपचारिक घरेलू शब्द)) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)",
+            "बाँधा हुआ कागज़ (अनुपयुक्त देहाती मुहावरा)) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)",
+            "खोया हुआ पत्र (भ्रामक विपरीतार्थक)) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)"
           ],
           "answerIndex": 0,
           "explanation": "ईमेल और पत्राचार में अटैचमेंट के लिए मानक पारिभाषिक शब्द «संलग्नक» या «संलग्न फ़ाइल» है।"
@@ -8742,9 +8742,9 @@
           "prompt": "कॉरपोरेट ईमेल के अंत में 'Looking forward to your reply' का मानक हिंदी अनुवाद चुनिए:",
           "options": [
             "आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में (Aapke sheeghr pratyuttar ki prateeksha mein - Looking forward to your prompt response)",
-            "तुम जल्दी बोलो (अशिष्ट आज्ञावाचक दोष) (Target expression (Hindi))",
-            "हम कल सो रहे हैं (असंगत निरर्थक वाक्य) (Target expression (Hindi))",
-            "जवाब मत देना (नकारात्मक निषेधात्मक) (Target expression (Hindi))"
+            "तुम जल्दी बोलो (अशिष्ट आज्ञावाचक दोष)) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)",
+            "हम कल सो रहे हैं (असंगत निरर्थक वाक्य)) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)",
+            "जवाब मत देना (नकारात्मक निषेधात्मक)) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)"
           ],
           "answerIndex": 0,
           "explanation": "व्यावसायिक पत्राचार में उत्तर की प्रतीक्षा दर्शाने हेतु «आपके शीघ्र प्रत्युत्तर की प्रतीक्षा में» मानक समापन वाक्य है।"
@@ -8758,9 +8758,9 @@
           "prompt": "कॉरपोरेट ईमेल और संचार (Corporate Email & Communication) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "कृपया संलग्न परियोजना रिपोर्ट का अवलोकन करें और अपने बहुमूल्य सुझाव शुक्रवार तक साझा करने की कृपा करें। (Please review the attached project report and kindly share your valuable feedback by Friday.)",
-            "रिपोर्ट को कल किसी ने देखा नहीं था ईमेल में। (Target expression (Hindi))",
-            "परियोजना रिपोर्ट बंद है ताकि कोई न पढ़े। (Target expression (Hindi))",
-            "शुक्रवार को हम सब मिलकर खेलेंगे। (Target expression (Hindi))"
+            "रिपोर्ट को कल किसी ने देखा नहीं था ईमेल में।) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)",
+            "परियोजना रिपोर्ट बंद है ताकि कोई न पढ़े।) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)",
+            "शुक्रवार को हम सब मिलकर खेलेंगे।) (Context: कॉरपोरेट संचार, प्रस्तुति और ईमेल श)"
           ],
           "answerIndex": 0,
           "explanation": "«कृपया संलग्न... अवलोकन करें और अपने बहुमूल्य सुझाव... साझा करने की कृपा करें» शिष्ट और मानक कॉरपोरेट भाषा का परिचायक है।"
@@ -8809,9 +8809,9 @@
           "prompt": "व्यावसायिक सहमति पत्र (Memorandum of Understanding) के लिए मानक हिंदी पारिभाषिक पद कौन-सा है?",
           "options": [
             "सहमति पत्र (Sahamati patr - Memorandum of Understanding / MoU [official legal term])",
-            "दावत का निमंत्रण (उत्सव निमंत्रण) (Target expression (Hindi))",
-            "धमकी भरा खत (आपराधिक पत्र) (Target expression (Hindi))",
-            "रंग-बिरंगी पत्रिका (पत्रिका प्रकाशन) (Target expression (Hindi))"
+            "दावत का निमंत्रण (उत्सव निमंत्रण)) (Context: व्यावसायिक और कार्यालयी हिंदी का सम)",
+            "धमकी भरा खत (आपराधिक पत्र)) (Context: व्यावसायिक और कार्यालयी हिंदी का सम)",
+            "रंग-बिरंगी पत्रिका (पत्रिका प्रकाशन)) (Context: व्यावसायिक और कार्यालयी हिंदी का सम)"
           ],
           "answerIndex": 0,
           "explanation": "व्यावसायिक साझेदारियों में प्राथमिक समझौते को «सहमति पत्र» (MoU) कहा जाता है।"
@@ -8840,9 +8840,9 @@
           "prompt": "कॉरपोरेट संवाद एवं प्रशासनिक समेकन (Corporate Synthesis & Discourse) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "निदेशक मंडल ने वार्षिक वित्तीय रिपोर्ट की समीक्षा के उपरांत शेयरधारकों के लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया। (Following the review of the annual financial report, the Board of Directors unanimously approved the proposal for shareholders' dividend distribution.)",
-            "निदेशक मंडल कल शाम को क्रिकेट खेल रहा था। (Target expression (Hindi))",
-            "वित्तीय रिपोर्ट को किसी ने जला दिया था। (Target expression (Hindi))",
-            "लाभांश वितरण मत करो ताकि सब रोएं। (Target expression (Hindi))"
+            "निदेशक मंडल कल शाम को क्रिकेट खेल रहा था।) (Context: व्यावसायिक और कार्यालयी हिंदी का सम)",
+            "वित्तीय रिपोर्ट को किसी ने जला दिया था।) (Context: व्यावसायिक और कार्यालयी हिंदी का सम)",
+            "लाभांश वितरण मत करो ताकि सब रोएं।) (Context: व्यावसायिक और कार्यालयी हिंदी का सम)"
           ],
           "answerIndex": 0,
           "explanation": "«निदेशक मंडल ने... लाभांश वितरण के प्रस्ताव को सर्वसम्मति से अनुमोदित किया» परिपक्व और प्रामाणिक कॉरपोरेट हिंदी का सर्वोत्तम उदाहरण है।"
@@ -8891,9 +8891,9 @@
           "prompt": "शारीरिक वेदना (Physical Pain) दर्शाने वाला मानक 'को' परसर्ग युक्त वाक्य कौन-सा है?",
           "options": [
             "रोगी को सुबह से तीव्र पेट दर्द हो रहा है (Rogi ko subah se teevr pet dard ho raha hai - The patient has been having severe stomach ache since morning [dative experiencer structure])",
-            "रोगी ने पेट दर्द किया (अशुद्ध कर्ता कारक दोष) (Target expression (Hindi))",
-            "रोगी से पेट दर्द हुआ (असंगत करण कारक) (Target expression (Hindi))",
-            "रोगी का पेट दर्द गया था (अशुद्ध संबंध कारक) (Target expression (Hindi))"
+            "रोगी ने पेट दर्द किया (अशुद्ध कर्ता कारक दोष)) (Context: शारीरिक लक्षण, वेदना और रोग निदान ()",
+            "रोगी से पेट दर्द हुआ (असंगत करण कारक)) (Context: शारीरिक लक्षण, वेदना और रोग निदान ()",
+            "रोगी का पेट दर्द गया था (अशुद्ध संबंध कारक)) (Context: शारीरिक लक्षण, वेदना और रोग निदान ()"
           ],
           "answerIndex": 0,
           "explanation": "रोग या शारीरिक कष्ट की अनुभूति व्यक्त करने के लिए कर्ता के साथ «को» (रोगी को) परसर्ग लगता है।"
@@ -8922,9 +8922,9 @@
           "prompt": "चिकित्सीय रोग निदान एवं शारीरिक लक्षण का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "मरीज़ को सीने में तीव्र जलन और साँस फूलने की निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया। (Upon the patient having continuous complaint of acute heartburn and shortness of breath, doctors immediately advised getting an ECG done.)",
-            "मरीज़ ने सीने में जलन खाया था कल। (Target expression (Hindi))",
-            "ईसीजी हुआ ताकि मरीज़ बाज़ार में जाए। (Target expression (Hindi))",
-            "साँस फूलने पर मरीज़ क्रिकेट खेल रहा था। (Target expression (Hindi))"
+            "मरीज़ ने सीने में जलन खाया था कल।) (Context: शारीरिक लक्षण, वेदना और रोग निदान ()",
+            "ईसीजी हुआ ताकि मरीज़ बाज़ार में जाए।) (Context: शारीरिक लक्षण, वेदना और रोग निदान ()",
+            "साँस फूलने पर मरीज़ क्रिकेट खेल रहा था।) (Context: शारीरिक लक्षण, वेदना और रोग निदान ()"
           ],
           "answerIndex": 0,
           "explanation": "«मरीज़ को... निरंतर शिकायत होने पर चिकित्सकों ने तुरंत ईसीजी कराने का परामर्श दिया» चिकित्सीय भाषा और व्याकरण का त्रुटिहीन उदाहरण है।"
@@ -8973,9 +8973,9 @@
           "prompt": "चिकित्सीय रिपोर्ट में 'Normal Range' के लिए मानक हिंदी पारिभाषिक पद कौन-सा है?",
           "options": [
             "सामान्य सीमा / मानक स्तर (Saamaanya seema / Maanak star - Normal Range [clinical reference range])",
-            "खतरनाक खाई (असंगत भौगोलिक शब्द) (Target expression (Hindi))",
-            "अनंत आकाश (काल्पनिक रूपक) (Target expression (Hindi))",
-            "बाज़ार का भाव (आर्थिक शब्दावली) (Target expression (Hindi))"
+            "खतरनाक खाई (असंगत भौगोलिक शब्द)) (Context: नैदानिक परीक्षण और रिपोर्ट व्याख्या)",
+            "अनंत आकाश (काल्पनिक रूपक)) (Context: नैदानिक परीक्षण और रिपोर्ट व्याख्या)",
+            "बाज़ार का भाव (आर्थिक शब्दावली)) (Context: नैदानिक परीक्षण और रिपोर्ट व्याख्या)"
           ],
           "answerIndex": 0,
           "explanation": "पैथोलॉजी रिपोर्ट में संदर्भ मानदण्ड को «सामान्य सीमा» (Normal Range) कहा जाता है।"
@@ -9004,9 +9004,9 @@
           "prompt": "नैदानिक परीक्षण और रिपोर्ट व्याख्या का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "एमआरआई रिपोर्ट में रीढ़ की हड्डी में हल्का खिंचाव पाए जाने पर फिजियोथेरेपिस्ट ने नियमित व्यायाम और विश्राम का परामर्श दिया। (Upon mild sprain being found in the spine in the MRI report, the physiotherapist advised regular exercise and rest.)",
-            "एमआरआई रिपोर्ट में रीढ़ की हड्डी नाच रही थी। (Target expression (Hindi))",
-            "फिजियोथेरेपिस्ट कल शाम को बाज़ार में मिठाई खरीद रहा था। (Target expression (Hindi))",
-            "हड्डी में खिंचाव था ताकि सब लोग हँसें। (Target expression (Hindi))"
+            "एमआरआई रिपोर्ट में रीढ़ की हड्डी नाच रही थी।) (Context: नैदानिक परीक्षण और रिपोर्ट व्याख्या)",
+            "फिजियोथेरेपिस्ट कल शाम को बाज़ार में मिठाई खरीद रहा था।) (Context: नैदानिक परीक्षण और रिपोर्ट व्याख्या)",
+            "हड्डी में खिंचाव था ताकि सब लोग हँसें।) (Context: नैदानिक परीक्षण और रिपोर्ट व्याख्या)"
           ],
           "answerIndex": 0,
           "explanation": "«एमआरआई रिपोर्ट में... हल्का खिंचाव पाए जाने पर फिजियोथेरेपिस्ट ने नियमित व्यायाम और विश्राम का परामर्श दिया» चिकित्सा जगत का मानक वाक्य है।"
@@ -9055,9 +9055,9 @@
           "prompt": "दवा के सेवन में 'भोजन के बाद' के लिए मानक तत्सम शब्द कौन-सा है?",
           "options": [
             "भोजनोपरांत (Bhojanoparaant - After meals / Post-prandial [standard medical term])",
-            "भोजन से पहले (विपरीतार्थक शब्द) (Target expression (Hindi))",
-            "बिना भोजन के (निराहार) (Target expression (Hindi))",
-            "भोजन पकाते समय (अनुपयुक्त पाककला संदर्भ) (Target expression (Hindi))"
+            "भोजन से पहले (विपरीतार्थक शब्द)) (Context: औषधि सेवन निर्देश और सावधानियाँ (Do)",
+            "बिना भोजन के (निराहार)) (Context: औषधि सेवन निर्देश और सावधानियाँ (Do)",
+            "भोजन पकाते समय (अनुपयुक्त पाककला संदर्भ)) (Context: औषधि सेवन निर्देश और सावधानियाँ (Do)"
           ],
           "answerIndex": 0,
           "explanation": "दवा पर्चे पर खाने के बाद दवा लेने हेतु मानक शब्द «भोजनोपरांत» लिखा जाता है।"
@@ -9086,9 +9086,9 @@
           "prompt": "औषधि सेवन निर्देश और सावधानियों (Medical Dosage & Regimen) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "चिकित्सक के निर्देशानुसार सिरप की दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए। (As directed by the doctor, a two-spoon dose of syrup should regularly be taken thrice daily with lukewarm water.)",
-            "सिरप की बोतल को कल शाम बाज़ार में फेंक देना चाहिए। (Target expression (Hindi))",
-            "दवा मत लो ताकि बुख़ार बहुत बढ़ जाए। (Target expression (Hindi))",
-            "गुनगुने पानी में दवा बहाकर हम सब सो गए। (Target expression (Hindi))"
+            "सिरप की बोतल को कल शाम बाज़ार में फेंक देना चाहिए।) (Context: औषधि सेवन निर्देश और सावधानियाँ (Do)",
+            "दवा मत लो ताकि बुख़ार बहुत बढ़ जाए।) (Context: औषधि सेवन निर्देश और सावधानियाँ (Do)",
+            "गुनगुने पानी में दवा बहाकर हम सब सो गए।) (Context: औषधि सेवन निर्देश और सावधानियाँ (Do)"
           ],
           "answerIndex": 0,
           "explanation": "«चिकित्सक के निर्देशानुसार... दो चम्मच मात्रा दिन में तीन बार गुनगुने पानी के साथ नियमित रूप से लेनी चाहिए» आदर्श चिकित्सकीय भाषा है।"
@@ -9137,9 +9137,9 @@
           "prompt": "अस्पताल में 'Intensive Care Unit (ICU)' के लिए शुद्ध मानक हिंदी पारिभाषिक नाम क्या है?",
           "options": [
             "सघन चिकित्सा कक्ष (Saghan chikitsa kaksh - Intensive Care Unit / ICU [official medical term])",
-            "हँसी-मज़ाक कक्ष (हास्यास्पद अनुपयुक्त शब्द) (Target expression (Hindi))",
-            "भोजन विश्राम कक्ष (कैंटीन संदर्भ) (Target expression (Hindi))",
-            "खिलौना भंडार कक्ष (असंगत बाल संदर्भ) (Target expression (Hindi))"
+            "हँसी-मज़ाक कक्ष (हास्यास्पद अनुपयुक्त शब्द)) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)",
+            "भोजन विश्राम कक्ष (कैंटीन संदर्भ)) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)",
+            "खिलौना भंडार कक्ष (असंगत बाल संदर्भ)) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)"
           ],
           "answerIndex": 0,
           "explanation": "अति गंभीर रोगियों के लिए विशेष निगरानी वाले कक्ष को «सघन चिकित्सा कक्ष» (ICU) कहा जाता है।"
@@ -9152,9 +9152,9 @@
           "prompt": "ऑपरेशन से पूर्व रोगी के परिजनों से भरवाए जाने वाले विधिक प्रपत्र (Consent Form) को क्या कहते हैं?",
           "options": [
             "सहमति प्रपत्र (Sahamati prapatr - Consent Form [legal medical consent form])",
-            "रेलवे टिकट (यात्रा टिकट) (Target expression (Hindi))",
-            "शादी का कार्ड (विवाह निमंत्रण) (Target expression (Hindi))",
-            "बिजली का बिल (उपयोगिता बिल) (Target expression (Hindi))"
+            "रेलवे टिकट (यात्रा टिकट)) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)",
+            "शादी का कार्ड (विवाह निमंत्रण)) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)",
+            "बिजली का बिल (उपयोगिता बिल)) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)"
           ],
           "answerIndex": 0,
           "explanation": "शल्यक्रिया या गंभीर उपचार की कानूनी स्वीकृति के दस्तावेज़ को «सहमति प्रपत्र» (Consent Form) कहते हैं।"
@@ -9168,9 +9168,9 @@
           "prompt": "अस्पताल और शल्य चिकित्सा प्रक्रियाओं का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने मरीज़ के होश में आने की पुष्टि की और उसे वार्ड में स्थानांतरित किया गया। (Following the successful execution of surgery, the anesthesiologist confirmed the patient regaining consciousness and he was shifted to the ward.)",
-            "शल्यक्रिया में सब लोग ताली बजा रहे थे। (Target expression (Hindi))",
-            "निश्चेतना विशेषज्ञ कल मैच खेल रहा था। (Target expression (Hindi))",
-            "मरीज़ होश में आया ताकि अस्पताल बंद हो। (Target expression (Hindi))"
+            "शल्यक्रिया में सब लोग ताली बजा रहे थे।) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)",
+            "निश्चेतना विशेषज्ञ कल मैच खेल रहा था।) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)",
+            "मरीज़ होश में आया ताकि अस्पताल बंद हो।) (Context: अस्पताल प्रक्रियाएं, आपातकालीन व शल)"
           ],
           "answerIndex": 0,
           "explanation": "«शल्यक्रिया के सफल निष्पादनोपरांत निश्चेतना विशेषज्ञ ने... स्थानांतरित किया गया» परिष्कृत अस्पताल शब्दावली का आदर्श वाक्य है।"
@@ -9219,9 +9219,9 @@
           "prompt": "रोग के पूर्व इतिहास (Medical Case History) के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
             "रोग इतिहास / पूर्व चिकित्सीय वृत्त (Rog itihaas / Poorva chikitseey vritt - Medical Case History [clinical term])",
-            "भूतकाल की कहानी (काल्पनिक गल्प) (Target expression (Hindi))",
-            "पुराना उपन्यास (साहित्यिक पुस्तक) (Target expression (Hindi))",
-            "बीता हुआ नाटक (रंगमंच अभिनय) (Target expression (Hindi))"
+            "भूतकाल की कहानी (काल्पनिक गल्प)) (Context: स्वास्थ्य व नैदानिक संवाद का समग्र )",
+            "पुराना उपन्यास (साहित्यिक पुस्तक)) (Context: स्वास्थ्य व नैदानिक संवाद का समग्र )",
+            "बीता हुआ नाटक (रंगमंच अभिनय)) (Context: स्वास्थ्य व नैदानिक संवाद का समग्र )"
           ],
           "answerIndex": 0,
           "explanation": "रोगी के पूर्व रोगों और पारिवारिक स्वास्थ्य विवरण को «रोग इतिहास» (Case History) कहा जाता है।"
@@ -9250,9 +9250,9 @@
           "prompt": "चिकित्सा और स्वास्थ्य परामर्श (Medical Consultation Synthesis) का समग्र शुद्ध वाक्य चुनिए:",
           "options": [
             "चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास और प्रयोगशाला रिपोर्टों के आधार पर दीर्घकालिक उपचार योजना का निर्धारण किया। (The physician determined a long-term treatment plan on the basis of the patient's past health history and laboratory reports.)",
-            "चिकित्सक कल दोपहर बाज़ार में पतंग उड़ा रहा था। (Target expression (Hindi))",
-            "प्रयोगशाला रिपोर्ट को किसी ने नदी में बहा दिया था। (Target expression (Hindi))",
-            "उपचार योजना बंद कर दो ताकि सब बीमार रहें। (Target expression (Hindi))"
+            "चिकित्सक कल दोपहर बाज़ार में पतंग उड़ा रहा था।) (Context: स्वास्थ्य व नैदानिक संवाद का समग्र )",
+            "प्रयोगशाला रिपोर्ट को किसी ने नदी में बहा दिया था।) (Context: स्वास्थ्य व नैदानिक संवाद का समग्र )",
+            "उपचार योजना बंद कर दो ताकि सब बीमार रहें।) (Context: स्वास्थ्य व नैदानिक संवाद का समग्र )"
           ],
           "answerIndex": 0,
           "explanation": "«चिकित्सक ने रोगी के पूर्व स्वास्थ्य इतिहास... उपचार योजना का निर्धारण किया» नैदानिक हिंदी का परिपूर्ण वाक्य है।"
@@ -9301,9 +9301,9 @@
           "prompt": "गर्म तेल या घी में जीरा, हींग और राई डालकर स्वाद बढ़ाने की भारतीय पाक विधि को क्या कहते हैं?",
           "options": [
             "तड़का लगाना / छौंकना (Tadka lagaana / Chhaunkna - Tempering / Sputtering spices [authentic culinary term])",
-            "पानी फेंकना (असंगत पाक क्रिया) (Target expression (Hindi))",
-            "आटा गूँथना (रोटी बनाने की क्रिया) (Target expression (Hindi))",
-            "चावल धोना (सफाई की प्रारंभिक क्रिया) (Target expression (Hindi))"
+            "पानी फेंकना (असंगत पाक क्रिया)) (Context: भारतीय पाक विधियाँ, मसाले और छौंक ()",
+            "आटा गूँथना (रोटी बनाने की क्रिया)) (Context: भारतीय पाक विधियाँ, मसाले और छौंक ()",
+            "चावल धोना (सफाई की प्रारंभिक क्रिया)) (Context: भारतीय पाक विधियाँ, मसाले और छौंक ()"
           ],
           "answerIndex": 0,
           "explanation": "गर्म वसा में खड़े मसालों को चटकाकर भोजन में मिलाने की विधि को «तड़का लगाना» या «छौंकना» कहा जाता है।"
@@ -9332,9 +9332,9 @@
           "prompt": "भारतीय पाककला और तड़का विधि का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "पनीर की तरीदार सब्जी में कस्तूरी मेथी और गरम मसाला डालकर धीमी आँच पर दो मिनट पकाने से अत्यंत मनभावन सुगंध आती है। (Adding dried fenugreek leaves and garam masala to the paneer curry and cooking on low flame for two minutes produces a delightful aroma.)",
-            "पनीर की सब्जी में कल किसी ने पत्थर डाला था। (Target expression (Hindi))",
-            "कस्तूरी मेथी को फेंक दिया ताकि सब्जी कड़वी हो। (Target expression (Hindi))",
-            "धीमी आँच पर सब लोग बाज़ार में सो रहे थे। (Target expression (Hindi))"
+            "पनीर की सब्जी में कल किसी ने पत्थर डाला था।) (Context: भारतीय पाक विधियाँ, मसाले और छौंक ()",
+            "कस्तूरी मेथी को फेंक दिया ताकि सब्जी कड़वी हो।) (Context: भारतीय पाक विधियाँ, मसाले और छौंक ()",
+            "धीमी आँच पर सब लोग बाज़ार में सो रहे थे।) (Context: भारतीय पाक विधियाँ, मसाले और छौंक ()"
           ],
           "answerIndex": 0,
           "explanation": "«पनीर की तरीदार सब्जी में... अत्यंत मनभावन सुगंध आती है» पाककला की सटीक शब्दावली और व्याकरण का सर्वोत्तम उदाहरण है।"
@@ -9383,9 +9383,9 @@
           "prompt": "दाल-बाटी-चूरमा किस भारतीय राज्य का विश्वप्रसिद्ध पारंपरिक व्यंजन है?",
           "options": [
             "राजस्थान (Rajasthan - Traditional cuisine of Rajasthan [regional food identity])",
-            "केरल (दक्षिण तटीय राज्य) (Target expression (Hindi))",
-            "असम (पूर्वोत्तर चाय राज्य) (Target expression (Hindi))",
-            "कश्मीर (शीत पर्वतीय राज्य) (Target expression (Hindi))"
+            "केरल (दक्षिण तटीय राज्य)) (Context: क्षेत्रीय भोजन विविधता और पारंपरिक )",
+            "असम (पूर्वोत्तर चाय राज्य)) (Context: क्षेत्रीय भोजन विविधता और पारंपरिक )",
+            "कश्मीर (शीत पर्वतीय राज्य)) (Context: क्षेत्रीय भोजन विविधता और पारंपरिक )"
           ],
           "answerIndex": 0,
           "explanation": "दाल-बाटी-चूरमा राजस्थान की पारंपरिक थाली का मुख्य और प्रतिष्ठित व्यंजन है।"
@@ -9414,9 +9414,9 @@
           "prompt": "क्षेत्रीय भारतीय खानपान और थाली संस्कृति का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "पारंपरिक गुजराती थाली में खट्टे-मीठे ढोकले और कढ़ी के साथ गरमा-गरम पूरियाँ और श्रीखंड बड़े प्रेम से परोसा जाता है। (In a traditional Gujarati thali, sweet and savory dhokla and kadhi are served with great affection alongside piping hot pooris and shrikhand.)",
-            "गुजराती थाली कल रात को सड़क पर गिर गई थी। (Target expression (Hindi))",
-            "ढोकला किसी ने नहीं खाया क्योंकि सब सो रहे थे। (Target expression (Hindi))",
-            "श्रीखंड फेंक दो ताकि कोई भोजन न करे। (Target expression (Hindi))"
+            "गुजराती थाली कल रात को सड़क पर गिर गई थी।) (Context: क्षेत्रीय भोजन विविधता और पारंपरिक )",
+            "ढोकला किसी ने नहीं खाया क्योंकि सब सो रहे थे।) (Context: क्षेत्रीय भोजन विविधता और पारंपरिक )",
+            "श्रीखंड फेंक दो ताकि कोई भोजन न करे।) (Context: क्षेत्रीय भोजन विविधता और पारंपरिक )"
           ],
           "answerIndex": 0,
           "explanation": "«पारंपरिक गुजराती थाली में... श्रीखंड बड़े प्रेम से परोसा जाता है» क्षेत्रीय खानपान का प्रामाणिक और सुंदर वाक्य है।"
@@ -9496,9 +9496,9 @@
           "prompt": "स्वाद और संवेदी बनावट (Flavor & Texture) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "मसाला डोसा बाहर से एकदम कुरकुरा है और इसके भीतर भरा आलू का मिश्रण बहुत ही स्वादिष्ट व सुगंधित है। (The masala dosa is completely crunchy on the outside and the spiced potato filling inside is very delicious and fragrant.)",
-            "मसाला डोसा कल रात रो रहा था। (Target expression (Hindi))",
-            "कुरकुरा होने के कारण डोसा भाग गया था। (Target expression (Hindi))",
-            "आलू का मिश्रण फेंक दो ताकि कोई न खाए। (Target expression (Hindi))"
+            "मसाला डोसा कल रात रो रहा था।) (Context: स्वाद, बनावट और संवेदी शब्दावली (Fl)",
+            "कुरकुरा होने के कारण डोसा भाग गया था।) (Context: स्वाद, बनावट और संवेदी शब्दावली (Fl)",
+            "आलू का मिश्रण फेंक दो ताकि कोई न खाए।) (Context: स्वाद, बनावट और संवेदी शब्दावली (Fl)"
           ],
           "answerIndex": 0,
           "explanation": "«मसाला डोसा बाहर से एकदम कुरकुरा है और... स्वादिष्ट व सुगंधित है» संवेदी पाक शब्दावली का मानक वाक्य है।"
@@ -9547,9 +9547,9 @@
           "prompt": "भारतीय संस्कृति में मेहमान के सत्कार का मूल आदर्श वाक्य क्या है?",
           "options": [
             "अतिथि देवो भव (Atithi Devo Bhava - Guest is equivalent to God [foundational hospitality motto])",
-            "अतिथि को भगाओ (अशिष्ट असांस्कृतिक दोष) (Target expression (Hindi))",
-            "दरवाज़ा बंद रखो (अनुदार व्यवहार) (Target expression (Hindi))",
-            "भोजन मत दो (अवांछित अमानक रूप) (Target expression (Hindi))"
+            "अतिथि को भगाओ (अशिष्ट असांस्कृतिक दोष)) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)",
+            "दरवाज़ा बंद रखो (अनुदार व्यवहार)) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)",
+            "भोजन मत दो (अवांछित अमानक रूप)) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)"
           ],
           "answerIndex": 0,
           "explanation": "भारतीय संस्कृति में अतिथि को ईश्वर तुल्य मानने वाला उपनिषद वाक्य «अतिथि देवो भव» है।"
@@ -9562,9 +9562,9 @@
           "prompt": "रेस्तरां में उपलब्ध पकवानों की सूची (Menu Card) के लिए मानक शुद्ध हिंदी पद कौन-सा है?",
           "options": [
             "व्यंजन सूची (Vyanjan soochi - Menu card / List of dishes [culinary term])",
-            "दवा पर्चा (चिकित्सा पर्चा) (Target expression (Hindi))",
-            "परीक्षा परिणाम (शैक्षणिक परिणाम) (Target expression (Hindi))",
-            "क्रिकेट स्कोर (खेल स्कोर) (Target expression (Hindi))"
+            "दवा पर्चा (चिकित्सा पर्चा)) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)",
+            "परीक्षा परिणाम (शैक्षणिक परिणाम)) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)",
+            "क्रिकेट स्कोर (खेल स्कोर)) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)"
           ],
           "answerIndex": 0,
           "explanation": "रेस्तरां में परोसे जाने वाले सभी व्यंजनों की सूची को «व्यंजन सूची» कहा जाता है।"
@@ -9578,9 +9578,9 @@
           "prompt": "रेस्तरां संवाद और आतिथ्य शिष्टाचार का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "कृपया हमारे लिए दो थाली भोजन और कम मिर्च वाला रायता लाने का कष्ट करें। (Please take the trouble to bring two thali meals and mild raita with less chili for us.)",
-            "भोजन की थाली को ज़मीन पर फेंक दो जल्दी। (Target expression (Hindi))",
-            "रायता में किसी ने पत्थर मिला दिया था। (Target expression (Hindi))",
-            "कम मिर्च होने पर हम सब चिल्लाएंगे। (Target expression (Hindi))"
+            "भोजन की थाली को ज़मीन पर फेंक दो जल्दी।) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)",
+            "रायता में किसी ने पत्थर मिला दिया था।) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)",
+            "कम मिर्च होने पर हम सब चिल्लाएंगे।) (Context: रेस्तरां संवाद, भोजन आदेश और आतिथ्य)"
           ],
           "answerIndex": 0,
           "explanation": "«कृपया हमारे लिए दो थाली भोजन और कम मिर्च वाला रायता लाने का कष्ट करें» शिष्ट और मानक रेस्तरां संवाद का उदाहरण है।"
@@ -9629,9 +9629,9 @@
           "prompt": "आयुर्वेद के अनुसार भोजन में कितने मूल रसों ( षड्रस - Six Tastes) का संतुलन होना चाहिए?",
           "options": [
             "छह रस - षड्रस (Chhah ras / Shadras - Six primary tastes [Ayurvedic dietary balance])",
-            "केवल दो रस (अधूरा आहार) (Target expression (Hindi))",
-            "सौ रस (अतिशयोक्तिपूर्ण) (Target expression (Hindi))",
-            "शून्य रस (स्वादहीन) (Target expression (Hindi))"
+            "केवल दो रस (अधूरा आहार)) (Context: खानपान संस्कृति व पाककला विमर्श का )",
+            "सौ रस (अतिशयोक्तिपूर्ण)) (Context: खानपान संस्कृति व पाककला विमर्श का )",
+            "शून्य रस (स्वादहीन)) (Context: खानपान संस्कृति व पाककला विमर्श का )"
           ],
           "answerIndex": 0,
           "explanation": "आयुर्वेद में मधुर, अम्ल, लवण, कटु, तिक्त और कषाय इन 6 रसों का संतुलन अनिवार्य माना गया है।"
@@ -9660,9 +9660,9 @@
           "prompt": "भारतीय खानपान संस्कृति व पाककला दर्शन का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "भारतीय भोजन में मसालों के औषधीय गुणों और ऋतु-अनुकूल आहार का समन्वय स्वास्थ्य और दीर्घायु का मूल आधार है। (The harmony of medicinal properties of spices and seasonally appropriate diet in Indian food is the fundamental basis of health and longevity.)",
-            "मसालों को आग में जला दो ताकि सब बीमार हों। (Target expression (Hindi))",
-            "ऋतु-अनुकूल आहार कल शाम को बाज़ार में बिक रहा था। (Target expression (Hindi))",
-            "स्वास्थ्य और दीर्घायु भोजन न करने से मिलती है। (Target expression (Hindi))"
+            "मसालों को आग में जला दो ताकि सब बीमार हों।) (Context: खानपान संस्कृति व पाककला विमर्श का )",
+            "ऋतु-अनुकूल आहार कल शाम को बाज़ार में बिक रहा था।) (Context: खानपान संस्कृति व पाककला विमर्श का )",
+            "स्वास्थ्य और दीर्घायु भोजन न करने से मिलती है।) (Context: खानपान संस्कृति व पाककला विमर्श का )"
           ],
           "answerIndex": 0,
           "explanation": "«भारतीय भोजन में मसालों के औषधीय गुणों... स्वास्थ्य और दीर्घायु का मूल आधार है» भारतीय खानपान दर्शन का आदर्श वाक्य है।"
@@ -9711,9 +9711,9 @@
           "prompt": "फिल्म की लिखित कहानी और संवादों के पूर्ण प्रारूप (Screenplay) को हिंदी में क्या कहते हैं?",
           "options": [
             "पटकथा (Patkatha - Screenplay [cinematic script term])",
-            "समाचार पत्र (दैनिक समाचार) (Target expression (Hindi))",
-            "पोस्टर (विज्ञापन चित्र) (Target expression (Hindi))",
-            "टिकट (प्रवेश पर्ची) (Target expression (Hindi))"
+            "समाचार पत्र (दैनिक समाचार)) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)",
+            "पोस्टर (विज्ञापन चित्र)) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)",
+            "टिकट (प्रवेश पर्ची)) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)"
           ],
           "answerIndex": 0,
           "explanation": "फिल्म के दृश्यवार दृश्य-संवाद विवरण और आलेख को «पटकथा» (Screenplay) कहा जाता है।"
@@ -9726,9 +9726,9 @@
           "prompt": "कैमरे द्वारा दृश्य संयोजन और प्रकाश व्यवस्था (Cinematography) के लिए मानक हिंदी शब्द चुनिए:",
           "options": [
             "छायांकन (Chhaayaankan - Cinematography [camera and visual lighting craft])",
-            "रंगाई (साधारण रंगाई) (Target expression (Hindi))",
-            "सिलाई (कपड़ों की सिलाई) (Target expression (Hindi))",
-            "धुलाई (कपड़े धोना) (Target expression (Hindi))"
+            "रंगाई (साधारण रंगाई)) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)",
+            "सिलाई (कपड़ों की सिलाई)) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)",
+            "धुलाई (कपड़े धोना)) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)"
           ],
           "answerIndex": 0,
           "explanation": "सिनेमा में कैमरावर्क और दृश्यों के फिल्मांकन को «छायांकन» कहा जाता है।"
@@ -9742,9 +9742,9 @@
           "prompt": "सिनेमा और अभिनय समीक्षा (Film & Acting Criticism) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "समीक्षकों के अनुसार निर्देशक का नवाचारी दृष्टिकोण और कलाकारों का सधा हुआ अभिनय इस फिल्म को एक उत्कृष्ट कलाकृति बनाते हैं। (According to critics, the director's innovative vision and the artists' poised acting make this film an outstanding masterpiece.)",
-            "निर्देशक ने कल शाम को टॉफ़ी खाई थी। (Target expression (Hindi))",
-            "फिल्म में सभी कलाकार भाग रहे थे ताकि हॉल खाली हो। (Target expression (Hindi))",
-            "पटकथा को नदी में फेंक देना चाहिए। (Target expression (Hindi))"
+            "निर्देशक ने कल शाम को टॉफ़ी खाई थी।) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)",
+            "फिल्म में सभी कलाकार भाग रहे थे ताकि हॉल खाली हो।) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)",
+            "पटकथा को नदी में फेंक देना चाहिए।) (Context: भारतीय सिनेमा, पटकथा और अभिनय समीक्)"
           ],
           "answerIndex": 0,
           "explanation": "«समीक्षकों के अनुसार... उत्कृष्ट कलाकृति बनाते हैं» कला समीक्षा की परिपक्व और प्रामाणिक भाषा का उदाहरण है।"
@@ -9793,9 +9793,9 @@
           "prompt": "शास्त्रीय गायन में राग के स्वरों को बिना ताल के मंद्र व गंभीर गति से विस्तार करने की विधि को क्या कहते हैं?",
           "options": [
             "आलाप (Aalaap - Slow unmetered improvisational exposition of a Raga [fundamental classical music form])",
-            "शोर मचाना (असंगत अशिष्ट क्रिया) (Target expression (Hindi))",
-            "भाषण देना (राजनीतिक वक्तव्य) (Target expression (Hindi))",
-            "सीटी बजाना (अमानक क्रिया) (Target expression (Hindi))"
+            "शोर मचाना (असंगत अशिष्ट क्रिया)) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)",
+            "भाषण देना (राजनीतिक वक्तव्य)) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)",
+            "सीटी बजाना (अमानक क्रिया)) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)"
           ],
           "answerIndex": 0,
           "explanation": "राग के स्वरूप और भाव को स्थापित करने वाले प्रारंभिक धीमे गायन विस्तार को «आलाप» कहा जाता है।"
@@ -9808,9 +9808,9 @@
           "prompt": "शास्त्रीय संगीत की विशिष्ट परंपरा और शिक्षण शैली की गुरु-शिष्य वंश-परंपरा को क्या कहते हैं?",
           "options": [
             "घराना (Gharaana - Musical lineage / Tradition [classical stylistic school])",
-            "दुकान (व्यावसायिक प्रतिष्ठान) (Target expression (Hindi))",
-            "होटल (आतिथ्य गृह) (Target expression (Hindi))",
-            "स्टेशन (रेलवे संदर्भ) (Target expression (Hindi))"
+            "दुकान (व्यावसायिक प्रतिष्ठान)) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)",
+            "होटल (आतिथ्य गृह)) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)",
+            "स्टेशन (रेलवे संदर्भ)) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)"
           ],
           "answerIndex": 0,
           "explanation": "भारतीय संगीत में विशिष्ट गायकी या वादन परंपरा वाले परिवार/शैली को «घराना» (जैसे किराना घराना) कहा जाता है।"
@@ -9824,9 +9824,9 @@
           "prompt": "भारतीय शास्त्रीय संगीत और राग प्रणाली का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "सितार वादक ने राग दरबारी में विलंबित लय से प्रारंभ कर द्रुत झाला बजाकर संपूर्ण वातावरण को संगीतमय बना दिया। (The sitar player, starting with slow tempo in Raga Darbari and playing fast Jhala, filled the entire ambiance with music.)",
-            "सितार को कल रात को तोड़ दिया था। (Target expression (Hindi))",
-            "राग दरबारी में सब लोग सो रहे थे ताकि गाना बंद हो। (Target expression (Hindi))",
-            "तबला वादक ने ढोलक बजाकर फुटबॉल मैच जीता। (Target expression (Hindi))"
+            "सितार को कल रात को तोड़ दिया था।) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)",
+            "राग दरबारी में सब लोग सो रहे थे ताकि गाना बंद हो।) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)",
+            "तबला वादक ने ढोलक बजाकर फुटबॉल मैच जीता।) (Context: शास्त्रीय संगीत, राग प्रणाली और वाद)"
           ],
           "answerIndex": 0,
           "explanation": "«सितार वादक ने राग दरबारी में विलंबित लय... संगीतमय बना दिया» शास्त्रीय संगीत की प्रामाणिक शब्दावली का आदर्श वाक्य है।"
@@ -9875,9 +9875,9 @@
           "prompt": "कथक नृत्य में पैरों की तालबद्ध गति और थिरकन (Footwork) को क्या कहते हैं?",
           "options": [
             "तत्कार / पदचाप (Tatkaar / Padchaap - Rhythmic footwork in Kathak [classical dance technique])",
-            "दौड़ना (साधारण खेल क्रिया) (Target expression (Hindi))",
-            "कूदना (व्यायाम क्रिया) (Target expression (Hindi))",
-            "फिसलना (दुर्घटना) (Target expression (Hindi))"
+            "दौड़ना (साधारण खेल क्रिया)) (Context: पारंपरिक लोक नृत्य, शास्त्रीय नृत्य)",
+            "कूदना (व्यायाम क्रिया)) (Context: पारंपरिक लोक नृत्य, शास्त्रीय नृत्य)",
+            "फिसलना (दुर्घटना)) (Context: पारंपरिक लोक नृत्य, शास्त्रीय नृत्य)"
           ],
           "answerIndex": 0,
           "explanation": "कथक में घुँघरुओं के साथ पैरों द्वारा लयबद्ध आघात करने को «तत्कार» या «पदचाप» कहा जाता है।"
@@ -9906,9 +9906,9 @@
           "prompt": "शास्त्रीय नृत्य और नाट्य मंचन का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने शांत रस की अलौकिक अनुभूति करा दी। (The dancer's expressive eyes and subtle hand gestures brought about the transcendent experience of the Shanta Rasa.)",
-            "नृत्यांगना कल सुबह सड़क पर कार चला रही थी। (Target expression (Hindi))",
-            "हस्तमुद्रा बंद कर दो ताकि कोई न देखे। (Target expression (Hindi))",
-            "शांत रस के कारण सब लोग बाज़ार भाग गए। (Target expression (Hindi))"
+            "नृत्यांगना कल सुबह सड़क पर कार चला रही थी।) (Context: पारंपरिक लोक नृत्य, शास्त्रीय नृत्य)",
+            "हस्तमुद्रा बंद कर दो ताकि कोई न देखे।) (Context: पारंपरिक लोक नृत्य, शास्त्रीय नृत्य)",
+            "शांत रस के कारण सब लोग बाज़ार भाग गए।) (Context: पारंपरिक लोक नृत्य, शास्त्रीय नृत्य)"
           ],
           "answerIndex": 0,
           "explanation": "«नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने... अलौकिक अनुभूति करा दी» शास्त्रीय नृत्य समीक्षा का परिपूर्ण वाक्य है।"
@@ -9957,9 +9957,9 @@
           "prompt": "प्राकृतिक रंगों और बाँस की तीलियों से बनाई जाने वाली बिहार की विश्वविख्यात लोक चित्रकला कौन-सी है?",
           "options": [
             "मधुबनी / मिथिला चित्रकला (Madhubani / Mithila Painting - Traditional folk art of Bihar [indigenous painting school])",
-            "डिजिटल ग्राफ़िक्स (आधुनिक कंप्यूटर कला) (Target expression (Hindi))",
-            "ऑयल स्प्रे पेंटिंग (आधुनिक स्प्रे) (Target expression (Hindi))",
-            "चाक ड्राइंग (अस्थायी कक्षा कला) (Target expression (Hindi))"
+            "डिजिटल ग्राफ़िक्स (आधुनिक कंप्यूटर कला)) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)",
+            "ऑयल स्प्रे पेंटिंग (आधुनिक स्प्रे)) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)",
+            "चाक ड्राइंग (अस्थायी कक्षा कला)) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)"
           ],
           "answerIndex": 0,
           "explanation": "बिहार के मिथिलांचल की पारंपरिक लोक चित्रकला को «मधुबनी चित्रकला» कहा जाता है।"
@@ -9972,9 +9972,9 @@
           "prompt": "सोने के वर्क और उभरी हुई कारीगरी वाली तमिलनाडु की पारंपरिक चित्रकला को क्या कहते हैं?",
           "options": [
             "तंजौर चित्रकला (Tanjore Painting - Classical South Indian painting featuring gold leaf)",
-            "कार्टून कला (हास्य चित्र) (Target expression (Hindi))",
-            "फ़ोटोकॉपी (दस्तावेज़ प्रतिलिपि) (Target expression (Hindi))",
-            "सिनेमा पोस्टर (प्रचार चित्र) (Target expression (Hindi))"
+            "कार्टून कला (हास्य चित्र)) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)",
+            "फ़ोटोकॉपी (दस्तावेज़ प्रतिलिपि)) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)",
+            "सिनेमा पोस्टर (प्रचार चित्र)) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)"
           ],
           "answerIndex": 0,
           "explanation": "तंजौर (तंजावुर) की स्वर्ण-पत्र जड़ी चित्रकला को «तंजौर चित्रकला» कहा जाता है।"
@@ -9988,9 +9988,9 @@
           "prompt": "दृश्य कला, चित्रकला और शिल्प का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "प्रस्तर मूर्तियों पर बारीक नक्काशी और शास्त्रीय अनुपात का यह बेजोड़ संगम प्राचीन भारतीय मूर्तिकला की पराकाष्ठा है। (This unmatched confluence of intricate carving and classical proportions on stone sculptures is the pinnacle of ancient Indian sculpture.)",
-            "मूर्तियों को कल सुबह नदी में फेंक देना चाहिए। (Target expression (Hindi))",
-            "नक्काशी मत करो ताकि पत्थर टूट जाए। (Target expression (Hindi))",
-            "प्राचीन काल में कोई चित्र नहीं बनाता था। (Target expression (Hindi))"
+            "मूर्तियों को कल सुबह नदी में फेंक देना चाहिए।) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)",
+            "नक्काशी मत करो ताकि पत्थर टूट जाए।) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)",
+            "प्राचीन काल में कोई चित्र नहीं बनाता था।) (Context: दृश्य कला, चित्रकला शैलियाँ और शिल्)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रस्तर मूर्तियों पर बारीक नक्काशी... मूर्तिकला की पराकाष्ठा है» दृश्य कला समीक्षा का परिपक्व वाक्य है।"
@@ -10039,9 +10039,9 @@
           "prompt": "भारतीय सौंदर्यशास्त्र में 'नाट्यशास्त्र' और 'रस सिद्धांत' के प्रणेता आचार्य कौन हैं?",
           "options": [
             "आचार्य भरतमुनि (Acharya Bharata Muni - Sage Bharata, founder of Natyashastra and Rasa Theory)",
-            "पाणिनी (संस्कृत व्याकरणकार) (Target expression (Hindi))",
-            "चाणक्य (अर्थशास्त्रकार) (Target expression (Hindi))",
-            "आर्यभट्ट (गणितज्ञ) (Target expression (Hindi))"
+            "पाणिनी (संस्कृत व्याकरणकार)) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)",
+            "चाणक्य (अर्थशास्त्रकार)) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)",
+            "आर्यभट्ट (गणितज्ञ)) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)"
           ],
           "answerIndex": 0,
           "explanation": "नाट्यशास्त्र और रस सूत्र के मूल रचयिता आचार्य «भरतमुनि» हैं।"
@@ -10054,9 +10054,9 @@
           "prompt": "कला के अनुभव में जब व्यक्तिगत संकीर्णता समाप्त होकर सार्वभौमिक आनंद मिलता है, तो उस प्रक्रिया को क्या कहते हैं?",
           "options": [
             "साधारणीकरण (Saadhaaranikaran - Universalization of aesthetic experience [classical Rasa doctrine])",
-            "निजीकरण (आर्थिक प्रक्रिया) (Target expression (Hindi))",
-            "लड़ाई-झगड़ा (विवाद) (Target expression (Hindi))",
-            "क्रोध (नकारात्मक विकार) (Target expression (Hindi))"
+            "निजीकरण (आर्थिक प्रक्रिया)) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)",
+            "लड़ाई-झगड़ा (विवाद)) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)",
+            "क्रोध (नकारात्मक विकार)) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)"
           ],
           "answerIndex": 0,
           "explanation": "रस निष्पत्ति में व्यक्तिगत बंधनों से मुक्त होकर सार्वजनीन रसानुभूति को «साधारणीकरण» कहते हैं।"
@@ -10070,9 +10070,9 @@
           "prompt": "कला, संगीत व सौंदर्यशास्त्र (Aesthetics & Art Criticism) का समग्र मानक वाक्य पहचानिए:",
           "options": [
             "नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण दर्शकों को साधारणीकरण के माध्यम से परम रसानुभूति प्रदान करता है। (The vivid manifestation of the nine rasas in the theatrical performance provides supreme aesthetic bliss to the audience through universalization.)",
-            "नाट्य प्रस्तुति के समय सब लोग चाय पीने चले गए थे। (Target expression (Hindi))",
-            "नवरस को पानी में घोलकर पी लेना चाहिए। (Target expression (Hindi))",
-            "रसानुभूति मत करो ताकि कोई खुश न हो। (Target expression (Hindi))"
+            "नाट्य प्रस्तुति के समय सब लोग चाय पीने चले गए थे।) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)",
+            "नवरस को पानी में घोलकर पी लेना चाहिए।) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)",
+            "रसानुभूति मत करो ताकि कोई खुश न हो।) (Context: कला, संगीत व नाट्य समीक्षा का समग्र)"
           ],
           "answerIndex": 0,
           "explanation": "«नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण... परम रसानुभूति प्रदान करता है» भारतीय सौंदर्यशास्त्र का परिष्कृत और प्रामाणिक वाक्य है।"
@@ -10121,9 +10121,9 @@
           "prompt": "एक निश्चित समय अवधि के लिए बैंक में जमा की जाने वाली राशि (Fixed Deposit) को हिंदी में क्या कहते हैं?",
           "options": [
             "सावधि जमा खाता (Saavadhi jama khaata - Fixed Deposit Account [standard banking term])",
-            "हवाई टिकट (यात्रा टिकट) (Target expression (Hindi))",
-            "दुकान का बिल (खरीद रसीद) (Target expression (Hindi))",
-            "सिनेमा पास (मनोरंजन पास) (Target expression (Hindi))"
+            "हवाई टिकट (यात्रा टिकट)) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)",
+            "दुकान का बिल (खरीद रसीद)) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)",
+            "सिनेमा पास (मनोरंजन पास)) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)"
           ],
           "answerIndex": 0,
           "explanation": "एक तय अवधि के लिए ब्याज अर्जित करने वाले खाते को «सावधि जमा खाता» (FD) कहा जाता है।"
@@ -10136,9 +10136,9 @@
           "prompt": "बैंक से लिए गए ऋण के मासिक भुगतान (Monthly Installment) के लिए मानक शब्द चुनिए:",
           "options": [
             "मासिक किश्त / ईएमआई (Maasik kisht / EMI - Monthly installment [loan repayment unit])",
-            "दान दक्षिणा (धार्मिक दान) (Target expression (Hindi))",
-            "उपहार राशि (भेंट) (Target expression (Hindi))",
-            "जेब खर्च (व्यक्तिगत व्यय) (Target expression (Hindi))"
+            "दान दक्षिणा (धार्मिक दान)) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)",
+            "उपहार राशि (भेंट)) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)",
+            "जेब खर्च (व्यक्तिगत व्यय)) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)"
           ],
           "answerIndex": 0,
           "explanation": "ऋण चुकता करने के लिए प्रतिमाह दी जाने वाली निर्धारित राशि को «मासिक किश्त» (EMI) कहते हैं।"
@@ -10152,9 +10152,9 @@
           "prompt": "बैंकिंग, खाता प्रबंधन और ऋण (Banking & Loans) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "खाताधारक ने अपने बचत खाते में धनराशि जमा कर सावधि जमा पर मिलने वाले वार्षिक ब्याज की जानकारी प्राप्त की। (The account holder, having deposited funds in his savings account, obtained information regarding the annual interest receivable on the fixed deposit.)",
-            "खाताधारक कल शाम को बाज़ार में फल बेच रहा था। (Target expression (Hindi))",
-            "बचत खाता बंद कर दो ताकि बैंक गिर जाए। (Target expression (Hindi))",
-            "वार्षिक ब्याज मिलने पर हम सब रोएंगे। (Target expression (Hindi))"
+            "खाताधारक कल शाम को बाज़ार में फल बेच रहा था।) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)",
+            "बचत खाता बंद कर दो ताकि बैंक गिर जाए।) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)",
+            "वार्षिक ब्याज मिलने पर हम सब रोएंगे।) (Context: बैंक खाते, ऋण और सावधि जमा (Bank Ac)"
           ],
           "answerIndex": 0,
           "explanation": "«खाताधारक ने अपने बचत खाते में... वार्षिक ब्याज की जानकारी प्राप्त की» बैंकिंग शब्दावली का त्रुटिहीन वाक्य है।"
@@ -10203,9 +10203,9 @@
           "prompt": "ऑनलाइन वित्तीय लेन-देन प्रमाणित करने हेतु मोबाइल पर आने वाले गुप्त सुरक्षा कोड (OTP) को क्या कहते हैं?",
           "options": [
             "एकबारीय पासवर्ड / ओटीपी (Ekbaareey password / OTP - One-Time Password [digital authentication code])",
-            "सार्वजनिक इश्तिहार (विज्ञापन) (Target expression (Hindi))",
-            "अखबार की खबर (समाचार) (Target expression (Hindi))",
-            "किताब का पृष्ठ (पुस्तक पृष्ठ) (Target expression (Hindi))"
+            "सार्वजनिक इश्तिहार (विज्ञापन)) (Context: डिजिटल भुगतान, यूपीआई और साइबर सुरक)",
+            "अखबार की खबर (समाचार)) (Context: डिजिटल भुगतान, यूपीआई और साइबर सुरक)",
+            "किताब का पृष्ठ (पुस्तक पृष्ठ)) (Context: डिजिटल भुगतान, यूपीआई और साइबर सुरक)"
           ],
           "answerIndex": 0,
           "explanation": "एक ही बार प्रयोग होने वाले सुरक्षा कोड को «एकबारीय पासवर्ड» (One-Time Password / OTP) कहा जाता है।"
@@ -10234,9 +10234,9 @@
           "prompt": "डिजिटल भुगतान और साइबर सुरक्षा (Digital Payments & Cyber Security) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "डिजिटल लेन-देन करते समय हमेशा सुरक्षित नेटवर्क का उपयोग करना चाहिए और किसी भी अनजान लिंक पर क्लिक करने से बचना चाहिए। (While conducting digital transactions, one should always use a secure network and avoid clicking on any unknown links.)",
-            "डिजिटल लेन-देन के समय अपना पासवर्ड सबको बता देना चाहिए। (Target expression (Hindi))",
-            "अनजान लिंक पर क्लिक करो ताकि खाता खाली हो जाए। (Target expression (Hindi))",
-            "सुरक्षित नेटवर्क को बंद कर देना चाहिए। (Target expression (Hindi))"
+            "डिजिटल लेन-देन के समय अपना पासवर्ड सबको बता देना चाहिए।) (Context: डिजिटल भुगतान, यूपीआई और साइबर सुरक)",
+            "अनजान लिंक पर क्लिक करो ताकि खाता खाली हो जाए।) (Context: डिजिटल भुगतान, यूपीआई और साइबर सुरक)",
+            "सुरक्षित नेटवर्क को बंद कर देना चाहिए।) (Context: डिजिटल भुगतान, यूपीआई और साइबर सुरक)"
           ],
           "answerIndex": 0,
           "explanation": "«डिजिटल लेन-देन करते समय... अनजान लिंक पर क्लिक करने से बचना चाहिए» साइबर सुरक्षा का मानक और विवेकपूर्ण वाक्य है।"
@@ -10300,9 +10300,9 @@
           "prompt": "म्यूचुअल फंड में प्रतिमाह तय राशि निवेश करने की योजना (SIP) को क्या कहते हैं?",
           "options": [
             "व्यवस्थित निवेश योजना (Vyavasthit nivesh yojana - Systematic Investment Plan / SIP)",
-            "आकस्मिक लाटरी (जुआ संदर्भ) (Target expression (Hindi))",
-            "मुफ्त उपहार (दान संदर्भ) (Target expression (Hindi))",
-            "अनियमित खर्चा (फिजूलखर्ची) (Target expression (Hindi))"
+            "आकस्मिक लाटरी (जुआ संदर्भ)) (Context: पूँजी बाज़ार, शेयर और म्यूचुअल फंड )",
+            "मुफ्त उपहार (दान संदर्भ)) (Context: पूँजी बाज़ार, शेयर और म्यूचुअल फंड )",
+            "अनियमित खर्चा (फिजूलखर्ची)) (Context: पूँजी बाज़ार, शेयर और म्यूचुअल फंड )"
           ],
           "answerIndex": 0,
           "explanation": "SIP का मानक हिंदी रूपांतरण «व्यवस्थित निवेश योजना» (Systematic Investment Plan) है।"
@@ -10316,9 +10316,9 @@
           "prompt": "पूँजी बाज़ार और म्यूचुअल फंड निवेश का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "निवेशकों को बाज़ार जोखिमों का आकलन करने के उपरांत ही विभिन्न प्रतिभूतियों में सोच-समझकर पूँजी निवेश करनी चाहिए। (Investors should thoughtfully invest capital in diverse securities only after evaluating market risks.)",
-            "निवेशकों ने कल रात को शेयर बाज़ार को आग लगा दी थी। (Target expression (Hindi))",
-            "म्यूचुअल फंड में निवेश मत करो ताकि सारा धन खो जाए। (Target expression (Hindi))",
-            "बाज़ार जोखिम के कारण सब लोग घर छोड़कर भाग गए। (Target expression (Hindi))"
+            "निवेशकों ने कल रात को शेयर बाज़ार को आग लगा दी थी।) (Context: पूँजी बाज़ार, शेयर और म्यूचुअल फंड )",
+            "म्यूचुअल फंड में निवेश मत करो ताकि सारा धन खो जाए।) (Context: पूँजी बाज़ार, शेयर और म्यूचुअल फंड )",
+            "बाज़ार जोखिम के कारण सब लोग घर छोड़कर भाग गए।) (Context: पूँजी बाज़ार, शेयर और म्यूचुअल फंड )"
           ],
           "answerIndex": 0,
           "explanation": "«निवेशकों को बाज़ार जोखिमों का आकलन करने के उपरांत ही... पूँजी निवेश करनी चाहिए» वित्तीय निवेश का प्रामाणिक वाक्य है।"
@@ -10367,9 +10367,9 @@
           "prompt": "आयकर विभाग में अपनी वार्षिक आय का ब्यौरा देने वाले विधिक दस्तावेज़ (Income Tax Return) को क्या कहते हैं?",
           "options": [
             "आयकर विवरणी / आईटीआर (Aaykar vivarani / ITR - Income Tax Return [official tax filing document])",
-            "रेलवे आरक्षण प्रपत्र (टिकट फॉर्म) (Target expression (Hindi))",
-            "पासपोर्ट आवेदन (विदेश यात्रा फॉर्म) (Target expression (Hindi))",
-            "राशन कार्ड (राशन प्रपत्र) (Target expression (Hindi))"
+            "रेलवे आरक्षण प्रपत्र (टिकट फॉर्म)) (Context: कराधान, आयकर और जीएसटी (Taxation, I)",
+            "पासपोर्ट आवेदन (विदेश यात्रा फॉर्म)) (Context: कराधान, आयकर और जीएसटी (Taxation, I)",
+            "राशन कार्ड (राशन प्रपत्र)) (Context: कराधान, आयकर और जीएसटी (Taxation, I)"
           ],
           "answerIndex": 0,
           "explanation": "वार्षिक आय का ब्यौरा सरकार को दाखिल करने के प्रपत्र को «आयकर विवरणी» (ITR) कहा जाता है।"
@@ -10382,9 +10382,9 @@
           "prompt": "वस्तुओं और सेवाओं पर लगने वाले एकीकृत अप्रत्यक्ष कर (GST) का पूर्ण हिंदी नाम क्या है?",
           "options": [
             "वस्तु एवं सेवा कर (Vastu evam Seva Kar - Goods and Services Tax / GST [comprehensive indirect tax])",
-            "सड़क निर्माण कर (रोड टैक्स) (Target expression (Hindi))",
-            "जल संरक्षण कर (जल कर) (Target expression (Hindi))",
-            "मनोरंजन कर (पुराना कर) (Target expression (Hindi))"
+            "सड़क निर्माण कर (रोड टैक्स)) (Context: कराधान, आयकर और जीएसटी (Taxation, I)",
+            "जल संरक्षण कर (जल कर)) (Context: कराधान, आयकर और जीएसटी (Taxation, I)",
+            "मनोरंजन कर (पुराना कर)) (Context: कराधान, आयकर और जीएसटी (Taxation, I)"
           ],
           "answerIndex": 0,
           "explanation": "GST का आधिकारिक मानक हिंदी नाम «वस्तु एवं सेवा कर» है।"
@@ -10398,9 +10398,9 @@
           "prompt": "कराधान और वित्तीय अनुपालन (Taxation & Compliance) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "समय पर आयकर विवरणी दाखिल करने और करों का विधिवत भुगतान करने से देश के आर्थिक विकास और अवसंरचना निर्माण को मजबूती मिलती है। (Filing income tax returns on time and duly paying taxes strengthens the economic development and infrastructure building of the country.)",
-            "आयकर कभी मत दो ताकि देश रुक जाए। (Target expression (Hindi))",
-            "कर विवरणी को फाड़कर फेंक देना चाहिए। (Target expression (Hindi))",
-            "वित्तीय वर्ष के अंत में सब लोग सो रहे थे। (Target expression (Hindi))"
+            "आयकर कभी मत दो ताकि देश रुक जाए।) (Context: कराधान, आयकर और जीएसटी (Taxation, I)",
+            "कर विवरणी को फाड़कर फेंक देना चाहिए।) (Context: कराधान, आयकर और जीएसटी (Taxation, I)",
+            "वित्तीय वर्ष के अंत में सब लोग सो रहे थे।) (Context: कराधान, आयकर और जीएसटी (Taxation, I)"
           ],
           "answerIndex": 0,
           "explanation": "«समय पर आयकर विवरणी दाखिल करने... अवसंरचना निर्माण को मजबूती मिलती है» कराधान विषयक नागरिक दायित्व का श्रेष्ठ वाक्य है।"
@@ -10449,9 +10449,9 @@
           "prompt": "देश में बैंकों के नियमन और मौद्रिक नीति संचालन का केंद्रीय सर्वोच्च बैंक कौन-सा है?",
           "options": [
             "भारतीय रिज़र्व बैंक - आरबीआई (Bhaarteey Reserve Bank / RBI - Reserve Bank of India [central banking authority])",
-            "डाकघर बचत बैंक (डाकघर सेवा) (Target expression (Hindi))",
-            "रेलवे बैंक (रेलवे प्रभाग) (Target expression (Hindi))",
-            "सिनेमा बैंक (काल्पनिक संस्था) (Target expression (Hindi))"
+            "डाकघर बचत बैंक (डाकघर सेवा)) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )",
+            "रेलवे बैंक (रेलवे प्रभाग)) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )",
+            "सिनेमा बैंक (काल्पनिक संस्था)) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )"
           ],
           "answerIndex": 0,
           "explanation": "भारत का केंद्रीय बैंक और मौद्रिक नियामक «भारतीय रिज़र्व बैंक» (RBI) है।"
@@ -10464,9 +10464,9 @@
           "prompt": "समाज के अंतिम व्यक्ति तक बैंकिंग और वित्तीय सेवाएं पहुँचाने की प्रक्रिया को क्या कहते हैं?",
           "options": [
             "वित्तीय समावेशन (Vitteey samaaveshan - Financial Inclusion [extending banking access])",
-            "वित्तीय बहिष्कार (विपरीतार्थी शब्द) (Target expression (Hindi))",
-            "धन की बर्बादी (अपव्यय) (Target expression (Hindi))",
-            "चोरी-डकैती (अपराध) (Target expression (Hindi))"
+            "वित्तीय बहिष्कार (विपरीतार्थी शब्द)) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )",
+            "धन की बर्बादी (अपव्यय)) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )",
+            "चोरी-डकैती (अपराध)) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )"
           ],
           "answerIndex": 0,
           "explanation": "सभी नागरिकों तक औपचारिक बैंकिंग सेवाओं के विस्तार को «वित्तीय समावेशन» (Financial Inclusion) कहा जाता है।"
@@ -10480,9 +10480,9 @@
           "prompt": "वित्तीय प्रबंधन और समष्टिगत अर्थशास्त्र (Financial Economics Synthesis) का समग्र शुद्ध वाक्य चुनिए:",
           "options": [
             "सुलभ डिजिटल बैंकिंग और वित्तीय साक्षरता से देश के ग्रामीण क्षेत्रों में आर्थिक सशक्तीकरण और सतत विकास को नई गति मिली है। (Accessible digital banking and financial literacy have given fresh momentum to economic empowerment and sustainable development in rural areas of the country.)",
-            "वित्तीय साक्षरता से लोग पैसे जलाना सीख गए हैं। (Target expression (Hindi))",
-            "ग्रामीण क्षेत्रों में बैंक बंद कर देने चाहिए। (Target expression (Hindi))",
-            "सतत विकास के लिए कोई काम मत करो। (Target expression (Hindi))"
+            "वित्तीय साक्षरता से लोग पैसे जलाना सीख गए हैं।) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )",
+            "ग्रामीण क्षेत्रों में बैंक बंद कर देने चाहिए।) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )",
+            "सतत विकास के लिए कोई काम मत करो।) (Context: वित्तीय प्रबंधन व बैंकिंग संवाद का )"
           ],
           "answerIndex": 0,
           "explanation": "«सुलभ डिजिटल बैंकिंग और वित्तीय साक्षरता से... सतत विकास को नई गति मिली है» वित्तीय अर्थशास्त्र का श्रेष्ठ और प्रामाणिक वाक्य है।"
@@ -10531,9 +10531,9 @@
           "prompt": "किसी भौगोलिक क्षेत्र में विभिन्न प्रकार के जीव-जंतुओं और वनस्पतियों की प्रचुरता को क्या कहते हैं?",
           "options": [
             "जैव विविधता (Jaiv vividhata - Biodiversity [variety of plant and animal life])",
-            "रेत का टीला (मरुस्थल संरचना) (Target expression (Hindi))",
-            "कारखाना क्षेत्र (औद्योगिक क्षेत्र) (Target expression (Hindi))",
-            "सड़क जाल (परिवहन नेटवर्क) (Target expression (Hindi))"
+            "रेत का टीला (मरुस्थल संरचना)) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)",
+            "कारखाना क्षेत्र (औद्योगिक क्षेत्र)) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)",
+            "सड़क जाल (परिवहन नेटवर्क)) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)"
           ],
           "answerIndex": 0,
           "explanation": "जीव-जंतुओं और वनस्पतियों की प्रजातीय विविधता को «जैव विविधता» (Biodiversity) कहा जाता है।"
@@ -10546,9 +10546,9 @@
           "prompt": "वन्यजीवों की सुरक्षा और प्राकृतिक संवर्धन हेतु सरकार द्वारा घोषित सुरक्षित क्षेत्र को क्या कहते हैं?",
           "options": [
             "वन्यजीव अभयारण्य (Vanyajeev abhayaaranya - Wildlife Sanctuary [protected wildlife habitat])",
-            "क्रिकेट स्टेडियम (खेल मैदान) (Target expression (Hindi))",
-            "बस टर्मिनल (यात्री स्टेशन) (Target expression (Hindi))",
-            "खरीदारी केंद्र (मॉल) (Target expression (Hindi))"
+            "क्रिकेट स्टेडियम (खेल मैदान)) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)",
+            "बस टर्मिनल (यात्री स्टेशन)) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)",
+            "खरीदारी केंद्र (मॉल)) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)"
           ],
           "answerIndex": 0,
           "explanation": "वन्यजीवों के लिए आरक्षित एवं संरक्षित प्राकृतिक क्षेत्र को «अभयारण्य» (Sanctuary) कहा जाता है।"
@@ -10562,9 +10562,9 @@
           "prompt": "पारिस्थितिकी, पर्यावरण और वन्यजीव संरक्षण (Ecology & Wildlife Conservation) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "प्राकृतिक पर्यावासों का संरक्षण और जैव विविधता की सुरक्षा मानव जाति के सतत अस्तित्व और पर्यावरणीय संतुलन का मूल आधार है। (The conservation of natural habitats and the protection of biodiversity is the fundamental basis of humanity's sustainable existence and ecological balance.)",
-            "जंगल के सारे पेड़ कल रात को बाज़ार में बिक रहे थे। (Target expression (Hindi))",
-            "वन्यजीवों को मार डालो ताकि जंगल खाली हो जाए। (Target expression (Hindi))",
-            "पर्यावरण संतुलन के लिए प्रदूषण बढ़ाना चाहिए। (Target expression (Hindi))"
+            "जंगल के सारे पेड़ कल रात को बाज़ार में बिक रहे थे।) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)",
+            "वन्यजीवों को मार डालो ताकि जंगल खाली हो जाए।) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)",
+            "पर्यावरण संतुलन के लिए प्रदूषण बढ़ाना चाहिए।) (Context: पारिस्थितिकी, जैव विविधता और वन्यजी)"
           ],
           "answerIndex": 0,
           "explanation": "«प्राकृतिक पर्यावासों का संरक्षण और जैव विविधता की सुरक्षा... मूल आधार है» पारिस्थितिकी विज्ञान का परिपक्व और प्रामाणिक वाक्य है।"
@@ -10613,9 +10613,9 @@
           "prompt": "मानसून के समय बोई जाने वाली फसलें (जैसे धान, मक्का) किस कृषि ऋतु के अंतर्गत आती हैं?",
           "options": [
             "ख़रीफ़ की फसलें (Khareef ki faslen - Kharif crops [monsoon crop cycle])",
-            "रबी की फसलें (शीतकालीन चक्र) (Target expression (Hindi))",
-            "जायद की फसलें (ग्रीष्मकालीन चक्र) (Target expression (Hindi))",
-            "शीतगृह फसलें (भंडारण फसलें) (Target expression (Hindi))"
+            "रबी की फसलें (शीतकालीन चक्र)) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)",
+            "जायद की फसलें (ग्रीष्मकालीन चक्र)) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)",
+            "शीतगृह फसलें (भंडारण फसलें)) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)"
           ],
           "answerIndex": 0,
           "explanation": "मानसून के आरंभ में बोई जाने वाली मानसूनी फसलों को «ख़रीफ़ की फसलें» कहा जाता है।"
@@ -10628,9 +10628,9 @@
           "prompt": "मिट्टी की उर्वरता बनाए रखने के लिए केंचुओं द्वारा तैयार की गई जैविक खाद (Vermicompost) को क्या कहते हैं?",
           "options": [
             "वर्मीकम्पोस्ट / केंचुआ खाद (Vermicompost / Kenchua khaad - Earthworm-based organic fertilizer)",
-            "प्लास्टिक चूर्ण (हानिकारक अपशिष्ट) (Target expression (Hindi))",
-            "सीमेंट लेप (निर्माण सामग्री) (Target expression (Hindi))",
-            "कीटनाशक ज़हर (रासायनिक विष) (Target expression (Hindi))"
+            "प्लास्टिक चूर्ण (हानिकारक अपशिष्ट)) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)",
+            "सीमेंट लेप (निर्माण सामग्री)) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)",
+            "कीटनाशक ज़हर (रासायनिक विष)) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)"
           ],
           "answerIndex": 0,
           "explanation": "केंचुओं के माध्यम से कार्बनिक कचरे से बनाई गई उत्तम जैविक खाद को «केंचुआ खाद» या «वर्मीकम्पोस्ट» कहते हैं।"
@@ -10644,9 +10644,9 @@
           "prompt": "भारतीय कृषि और जैविक खेती (Indian Agriculture & Organic Farming) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग भूमि की उर्वरा शक्ति और किसानों की आर्थिक समृद्धि का मूल मंत्र है। (Scientific adherence to crop rotation and the use of natural organic manure is the fundamental key to soil fertility and farmers' economic prosperity.)",
-            "किसान खेतों में पेट्रोल डालकर फसल जला रहे हैं। (Target expression (Hindi))",
-            "फसल चक्र बंद कर दो ताकि खेत बंजर हो जाएं। (Target expression (Hindi))",
-            "गेहूँ की बुआई केवल समुद्र के पानी में होती है। (Target expression (Hindi))"
+            "किसान खेतों में पेट्रोल डालकर फसल जला रहे हैं।) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)",
+            "फसल चक्र बंद कर दो ताकि खेत बंजर हो जाएं।) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)",
+            "गेहूँ की बुआई केवल समुद्र के पानी में होती है।) (Context: भारतीय कृषि, फसल चक्र और जैविक खेती)"
           ],
           "answerIndex": 0,
           "explanation": "«फसल चक्र का वैज्ञानिक अनुपालन और प्राकृतिक जैविक खाद का प्रयोग... मूल मंत्र है» कृषि विज्ञान का परिपूर्ण वाक्य है।"
@@ -10695,9 +10695,9 @@
           "prompt": "वर्षा के पानी को टंकियों, तालाबों या भूमिगत ढांचों में सुरक्षित एकत्र करने की विधि को क्या कहते हैं?",
           "options": [
             "वर्षा जल संचयन (Varsha jal sanchayan - Rainwater Harvesting [water conservation technique])",
-            "जल का अपव्यय (पानी बहाना) (Target expression (Hindi))",
-            "बाढ़ का प्रकोप (प्राकृतिक आपदा) (Target expression (Hindi))",
-            "सूखा पड़ना (वर्षा का अभाव) (Target expression (Hindi))"
+            "जल का अपव्यय (पानी बहाना)) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )",
+            "बाढ़ का प्रकोप (प्राकृतिक आपदा)) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )",
+            "सूखा पड़ना (वर्षा का अभाव)) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )"
           ],
           "answerIndex": 0,
           "explanation": "वर्षा के जल को एकत्र कर उपयोग हेतु सुरक्षित रखने को «वर्षा जल संचयन» (Rainwater Harvesting) कहते हैं।"
@@ -10710,9 +10710,9 @@
           "prompt": "राजस्थान व गुजरात की ऐतिहासिक सीढ़ीदार जल संरचना (Stepwell) को क्या कहा जाता है?",
           "options": [
             "बावड़ी / झालरा (Baawadi / Jhaalra - Historic Stepwell [traditional water storage architecture])",
-            "पानी का नल (आधुनिक नल) (Target expression (Hindi))",
-            "प्लास्टिक की बाल्टी (घरेलू पात्र) (Target expression (Hindi))",
-            "फव्वारा (उद्यान सजावट) (Target expression (Hindi))"
+            "पानी का नल (आधुनिक नल)) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )",
+            "प्लास्टिक की बाल्टी (घरेलू पात्र)) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )",
+            "फव्वारा (उद्यान सजावट)) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )"
           ],
           "answerIndex": 0,
           "explanation": "सीढ़ियों द्वारा जल स्तर तक पहुँचने वाले पारंपरिक कुओं को «बावड़ी» (Stepwell) कहा जाता है।"
@@ -10726,9 +10726,9 @@
           "prompt": "मानसून जलवायु और जल संरक्षण (Monsoon & Water Harvesting) का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार गिरते भूजल संकट का स्थायी और प्रभावी समाधान प्रस्तुत करता है। (Widespread adoption of rainwater harvesting and modern micro-irrigation systems offers a permanent and effective solution to the depleting groundwater crisis.)",
-            "भूजल को पूरा खाली कर दो ताकि कोई पानी न पी सके। (Target expression (Hindi))",
-            "वर्षा जल संचयन करने से बादल नाराज़ हो जाते हैं। (Target expression (Hindi))",
-            "मानसून के समय सभी नदियाँ सूख जाती हैं। (Target expression (Hindi))"
+            "भूजल को पूरा खाली कर दो ताकि कोई पानी न पी सके।) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )",
+            "वर्षा जल संचयन करने से बादल नाराज़ हो जाते हैं।) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )",
+            "मानसून के समय सभी नदियाँ सूख जाती हैं।) (Context: मानसून जलवायु, जल संरक्षण और वर्षा )"
           ],
           "answerIndex": 0,
           "explanation": "«वर्षा जल संचयन और आधुनिक सूक्ष्म सिंचाई प्रणालियों का व्यापक प्रसार... स्थायी और प्रभावी समाधान प्रस्तुत करता है» जल विज्ञान का मानक वाक्य है।"
@@ -10777,9 +10777,9 @@
           "prompt": "ग्रीनहाउस गैसों के उत्सर्जन से पृथ्वी के औसत तापमान में होने वाली वैश्विक वृद्धि को क्या कहते हैं?",
           "options": [
             "भूमंडलीय तापन / ग्लोबल वॉर्मिंग (Bhoomandaleey taapan / Global Warming [climate change warming trend])",
-            "हिमयुग का आगमन (शीतलन प्रक्रिया) (Target expression (Hindi))",
-            "समुद्र का सूखना (काल्पनिक घटना) (Target expression (Hindi))",
-            "दिन-रात का चक्र (दैनिक घूर्णन) (Target expression (Hindi))"
+            "हिमयुग का आगमन (शीतलन प्रक्रिया)) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )",
+            "समुद्र का सूखना (काल्पनिक घटना)) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )",
+            "दिन-रात का चक्र (दैनिक घूर्णन)) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )"
           ],
           "answerIndex": 0,
           "explanation": "ग्रीनहाउस प्रभाव के कारण धरती के तापमान में निरंतर वृद्धि को «भूमंडलीय तापन» (Global Warming) कहा जाता है।"
@@ -10792,9 +10792,9 @@
           "prompt": "उत्पादित वस्तुओं के पुनः उपयोग, मरम्मत और पुनर्चक्रण पर आधारित आर्थिक मॉडल को क्या कहते हैं?",
           "options": [
             "चक्रीय अर्थव्यवस्था (Chakreey arthavyavastha - Circular Economy [zero-waste regenerative economy])",
-            "कचरा फेंकने की प्रणाली (अपव्ययी व्यवस्था) (Target expression (Hindi))",
-            "विनाशकारी अर्थव्यवस्था (हानिकारक मॉडल) (Target expression (Hindi))",
-            "स्थानीय हाट बाज़ार (साधारण बाज़ार) (Target expression (Hindi))"
+            "कचरा फेंकने की प्रणाली (अपव्ययी व्यवस्था)) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )",
+            "विनाशकारी अर्थव्यवस्था (हानिकारक मॉडल)) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )",
+            "स्थानीय हाट बाज़ार (साधारण बाज़ार)) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )"
           ],
           "answerIndex": 0,
           "explanation": "अपशिष्ट को समाप्त कर संसाधनों के निरंतर पुनर्चक्रण पर आधारित मॉडल को «चक्रीय अर्थव्यवस्था» (Circular Economy) कहते हैं।"
@@ -10808,9 +10808,9 @@
           "prompt": "जलवायु परिवर्तन और नवीकरणीय ऊर्जा (Climate Action & Green Energy) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "जीवाश्म ईंधनों पर निर्भरता कम करके नवीकरणीय ऊर्जा और सतत जीवनशैली अपनाना भावी पीढ़ियों के सुरक्षित भविष्य के लिए अपरिहार्य है। (Reducing dependence on fossil fuels and adopting renewable energy and sustainable lifestyles is imperative for the secure future of coming generations.)",
-            "कोयले और पेट्रोल का धुआं बढ़ाओ ताकि वातावरण काला हो जाए। (Target expression (Hindi))",
-            "सौर ऊर्जा का प्रयोग मत करो ताकि बिजली बंद हो जाए। (Target expression (Hindi))",
-            "पर्यावरण प्रदूषण से मनुष्य अमर हो जाता है। (Target expression (Hindi))"
+            "कोयले और पेट्रोल का धुआं बढ़ाओ ताकि वातावरण काला हो जाए।) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )",
+            "सौर ऊर्जा का प्रयोग मत करो ताकि बिजली बंद हो जाए।) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )",
+            "पर्यावरण प्रदूषण से मनुष्य अमर हो जाता है।) (Context: जलवायु परिवर्तन, नवीकरणीय ऊर्जा और )"
           ],
           "answerIndex": 0,
           "explanation": "«जीवाश्म ईंधनों पर निर्भरता कम करके... अपरिहार्य है» जलवायु नीति और पर्यावरण दर्शन का श्रेष्ठ वाक्य है।"
@@ -10859,9 +10859,9 @@
           "prompt": "भारतीय वैदिक दर्शन के अनुसार संपूर्ण सृष्टि का निर्माण किन पाँच मूलभूत तत्वों (पंचमहाभूत) से हुआ है?",
           "options": [
             "पृथ्वी, जल, अग्नि, वायु और आकाश (Prithvi, Jal, Agni, Vayu aur Aakash - Earth, Water, Fire, Air and Space [Five Sacred Cosmic Elements])",
-            "सोना, चाँदी, ताँबा, लोहा और पीतल (धातु वर्ग) (Target expression (Hindi))",
-            "प्लास्टिक, काँच, सीमेंट, ईंट और रेत (भवन सामग्री) (Target expression (Hindi))",
-            "चावल, गेहूँ, दाल, चीनी और नमक (खाद्य सामग्री) (Target expression (Hindi))"
+            "सोना, चाँदी, ताँबा, लोहा और पीतल (धातु वर्ग)) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)",
+            "प्लास्टिक, काँच, सीमेंट, ईंट और रेत (भवन सामग्री)) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)",
+            "चावल, गेहूँ, दाल, चीनी और नमक (खाद्य सामग्री)) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)"
           ],
           "answerIndex": 0,
           "explanation": "वैदिक दर्शन में सृष्टि के पाँच मूल तत्वों को «पंचमहाभूत» (पृथ्वी, जल, अग्नि, वायु, आकाश) कहा जाता है।"
@@ -10874,9 +10874,9 @@
           "prompt": "कम पानी और विपरीत मौसम में भी उगने वाले पौष्टिक मोटे अनाजों (जैसे ज्वार, बाजरा, रागी) को क्या नाम दिया गया है?",
           "options": [
             "श्री अन्न / मिलेट्स (Shree Anna / Millets - Nutri-cereals / Climate-resilient traditional coarse grains)",
-            "जंक फ़ूड (अस्वास्थ्यकर भोजन) (Target expression (Hindi))",
-            "फास्ट फ़ूड (शीघ्र भोजन) (Target expression (Hindi))",
-            "शीतल पेय (कोल्ड ड्रिंक) (Target expression (Hindi))"
+            "जंक फ़ूड (अस्वास्थ्यकर भोजन)) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)",
+            "फास्ट फ़ूड (शीघ्र भोजन)) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)",
+            "शीतल पेय (कोल्ड ड्रिंक)) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)"
           ],
           "answerIndex": 0,
           "explanation": "जलवायु-सहिष्णु और अत्यधिक पोषक मोटे अनाजों को भारत में आधिकारिक रूप से «श्री अन्न» (Millets) कहा गया है।"
@@ -10890,9 +10890,9 @@
           "prompt": "पर्यावरण दर्शन, कृषि नीति और जलवायु संतुलन (Ecological Policy & Agro-synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "प्रकृति के पंचमहाभूतों का आदर, जैविक कृषि का विस्तार और नवीकरणीय ऊर्जा का अंगीकार ही मानवता और पृथ्वी के सुरक्षित सह-अस्तित्व की अंतिम गारंटी है। (Reverence for the Five Elements of nature, expansion of organic farming, and adoption of renewable energy is the ultimate guarantee of the secure coexistence of humanity and the Earth.)",
-            "प्रकृति को नष्ट कर दो ताकि कोई जीवित न रहे। (Target expression (Hindi))",
-            "श्री अन्न को ज़मीन में दबाकर भूल जाना चाहिए। (Target expression (Hindi))",
-            "पंचमहाभूतों से पर्यावरण खराब होता है। (Target expression (Hindi))"
+            "प्रकृति को नष्ट कर दो ताकि कोई जीवित न रहे।) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)",
+            "श्री अन्न को ज़मीन में दबाकर भूल जाना चाहिए।) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)",
+            "पंचमहाभूतों से पर्यावरण खराब होता है।) (Context: पर्यावरण नीति व कृषि समेकन का समग्र)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रकृति के पंचमहाभूतों का आदर, जैविक कृषि का विस्तार... सुरक्षित सह-अस्तित्व की अंतिम गारंटी है» वैदिक व आधुनिक पर्यावरण दर्शन का सर्वोच्च संश्लेषण है।"
@@ -10941,9 +10941,9 @@
           "prompt": "भारतीय संविधान के भाग 3 में नागरिकों को प्रदान किए गए अपरिहार्य अधिकारों को क्या कहते हैं?",
           "options": [
             "मौलिक अधिकार / मूल अधिकार (Maulik adhikaar / Mool adhikaar - Fundamental Rights [constitutional civil liberties])",
-            "निजी समझौते (व्यक्तिगत अनुबंध) (Target expression (Hindi))",
-            "व्यापारिक छूट (दुकान छूट) (Target expression (Hindi))",
-            "सैलानी विशेषाधिकार (पर्यटक नियम) (Target expression (Hindi))"
+            "निजी समझौते (व्यक्तिगत अनुबंध)) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)",
+            "व्यापारिक छूट (दुकान छूट)) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)",
+            "सैलानी विशेषाधिकार (पर्यटक नियम)) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)"
           ],
           "answerIndex": 0,
           "explanation": "संविधान द्वारा गारंटीकृत नागरिक अधिकारों को «मौलिक अधिकार» (Fundamental Rights) कहा जाता है।"
@@ -10956,9 +10956,9 @@
           "prompt": "संविधान के अनुच्छेद 51-क में नागरिकों के लिए क्या निर्धारित किया गया है?",
           "options": [
             "मूल कर्तव्य (Mool kartavya - Fundamental Duties [civic and patriotic responsibilities])",
-            "व्यापारिक कर (टैक्स दरें) (Target expression (Hindi))",
-            "वेतन मान (सैलरी सूची) (Target expression (Hindi))",
-            "रेलवे किराया (यात्रा शुल्क) (Target expression (Hindi))"
+            "व्यापारिक कर (टैक्स दरें)) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)",
+            "वेतन मान (सैलरी सूची)) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)",
+            "रेलवे किराया (यात्रा शुल्क)) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)"
           ],
           "answerIndex": 0,
           "explanation": "अनुच्छेद 51-क में भारतीय नागरिकों के 11 «मूल कर्तव्य» (Fundamental Duties) संकलित हैं।"
@@ -10972,9 +10972,9 @@
           "prompt": "संवैधानिक प्रस्तावना और नागरिक अधिकारों (Constitutional Law & Civil Rights) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "मौलिक अधिकारों की सुरक्षा और संवैधानिक कर्तव्यों का निष्ठापूर्वक पालन ही एक सशक्त, समतामूलक और लोकतांत्रिक गणराज्य का सुदृढ़ आधार है। (The protection of fundamental rights and the faithful discharge of constitutional duties is the solid foundation of a strong, egalitarian, and democratic republic.)",
-            "संविधान की प्रस्तावना को फाड़कर नदी में बहा देना चाहिए। (Target expression (Hindi))",
-            "मौलिक अधिकार केवल राजाओं के लिए होते हैं। (Target expression (Hindi))",
-            "कर्तव्यों का पालन करने से देश कमजोर होता है। (Target expression (Hindi))"
+            "संविधान की प्रस्तावना को फाड़कर नदी में बहा देना चाहिए।) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)",
+            "मौलिक अधिकार केवल राजाओं के लिए होते हैं।) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)",
+            "कर्तव्यों का पालन करने से देश कमजोर होता है।) (Context: संवैधानिक प्रस्तावना, मूल अधिकार और)"
           ],
           "answerIndex": 0,
           "explanation": "«मौलिक अधिकारों की सुरक्षा और संवैधानिक कर्तव्यों का निष्ठापूर्वक पालन... सुदृढ़ आधार है» संवैधानिक शासन का आदर्श और परिपूर्ण वाक्य है।"
@@ -11023,9 +11023,9 @@
           "prompt": "संसद द्वारा पारित किसी कानून की संवैधानिकता की जांच करने के न्यायालय के अधिकार को क्या कहते हैं?",
           "options": [
             "न्यायिक समीक्षा (Nyaayik sameeksha - Judicial Review [constitutional power of courts])",
-            "व्यापारिक समीक्षा (बाज़ार विश्लेषण) (Target expression (Hindi))",
-            "वित्तीय लेखांकन (बजट ऑडिट) (Target expression (Hindi))",
-            "पुलिस जांच (अपराध अनुसंधान) (Target expression (Hindi))"
+            "व्यापारिक समीक्षा (बाज़ार विश्लेषण)) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)",
+            "वित्तीय लेखांकन (बजट ऑडिट)) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)",
+            "पुलिस जांच (अपराध अनुसंधान)) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)"
           ],
           "answerIndex": 0,
           "explanation": "विधायिका के कानूनों को संविधान की कसौटी पर परखने की शक्ति को «न्यायिक समीक्षा» (Judicial Review) कहते हैं।"
@@ -11038,9 +11038,9 @@
           "prompt": "संसद द्वारा संविधान के मूलभूत सिद्धांतों में बदलाव न कर सकने वाले विधिक सिद्धांत को क्या कहते हैं?",
           "options": [
             "मूल ढाँचा सिद्धांत (Mool dhaancha siddhaant - Basic Structure Doctrine [Kesavananda Bharati precedent])",
-            "असीमित शक्ति नियम (तानाशाही सिद्धांत) (Target expression (Hindi))",
-            "आकस्मिक परिवर्तन नियम (अस्थिरता) (Target expression (Hindi))",
-            "स्थानीय निकाय कानून (नगरपालिका नियम) (Target expression (Hindi))"
+            "असीमित शक्ति नियम (तानाशाही सिद्धांत)) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)",
+            "आकस्मिक परिवर्तन नियम (अस्थिरता)) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)",
+            "स्थानीय निकाय कानून (नगरपालिका नियम)) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)"
           ],
           "answerIndex": 0,
           "explanation": "संविधान के आधारभूत तत्वों की रक्षा करने वाले नियम को «मूल ढाँचा सिद्धांत» (Basic Structure Doctrine) कहा जाता है।"
@@ -11054,9 +11054,9 @@
           "prompt": "स्वतंत्र न्यायपालिका और न्यायिक समीक्षा (Judiciary & Constitutional Adjudication) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "एक स्वतंत्र और निष्पक्ष न्यायपालिका ही संविधान के मूल ढाँचे की रक्षा कर नागरिकों के मौलिक अधिकारों की वास्तविक संरक्षक बन सकती है। (Only an independent and impartial judiciary can safeguard the basic structure of the Constitution and serve as the true protector of citizens' fundamental rights.)",
-            "न्यायालयों को बंद कर दो ताकि कोई कानून न बचे। (Target expression (Hindi))",
-            "न्यायिक समीक्षा केवल सिनेमा देखने के लिए होती है। (Target expression (Hindi))",
-            "सर्वोच्च न्यायालय के आदेशों को नदी में फेंक देना चाहिए। (Target expression (Hindi))"
+            "न्यायालयों को बंद कर दो ताकि कोई कानून न बचे।) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)",
+            "न्यायिक समीक्षा केवल सिनेमा देखने के लिए होती है।) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)",
+            "सर्वोच्च न्यायालय के आदेशों को नदी में फेंक देना चाहिए।) (Context: न्यायपालिका, सर्वोच्च न्यायालय और न)"
           ],
           "answerIndex": 0,
           "explanation": "«एक स्वतंत्र और निष्पक्ष न्यायपालिका ही संविधान के मूल ढाँचे की रक्षा कर... वास्तविक संरक्षक बन सकती है» न्यायशास्त्र का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -11105,9 +11105,9 @@
           "prompt": "अवैध रूप से कैद किए गए व्यक्ति को न्यायालय के सामने तुरंत प्रस्तुत कराने वाली संवैधानिक रिट कौन-सी है?",
           "options": [
             "बंदी प्रत्यक्षीकरण (Bandee pratyaksheekaran - Habeas Corpus [writ against unlawful detention])",
-            "चालान रसीद (यातायात दंड) (Target expression (Hindi))",
-            "भूमि पट्टा (ज़मीन दस्तावेज़) (Target expression (Hindi))",
-            "परीक्षा प्रवेश पत्र (प्रवेश पत्र) (Target expression (Hindi))"
+            "चालान रसीद (यातायात दंड)) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)",
+            "भूमि पट्टा (ज़मीन दस्तावेज़)) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)",
+            "परीक्षा प्रवेश पत्र (प्रवेश पत्र)) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)"
           ],
           "answerIndex": 0,
           "explanation": "अवैध रूप से बंदी व्यक्ति को सदेह अदालत में प्रस्तुत कराने की रिट को «बंदी प्रत्यक्षीकरण» (Habeas Corpus) कहते हैं।"
@@ -11120,9 +11120,9 @@
           "prompt": "सार्वजनिक हित और मानवाधिकारों की रक्षा हेतु अदालत में दायर की जाने वाली याचिका (PIL) को क्या कहते हैं?",
           "options": [
             "जनहित याचिका (Janahit yaachika - Public Interest Litigation / PIL [legal advocacy for public good])",
-            "निजी दीवानी मुकदमा (व्यक्तिगत संपत्ति वाद) (Target expression (Hindi))",
-            "व्यापारिक बिल (खरीद रसीद) (Target expression (Hindi))",
-            "पारिवारिक वसीयत (उत्तराधिकार पत्र) (Target expression (Hindi))"
+            "निजी दीवानी मुकदमा (व्यक्तिगत संपत्ति वाद)) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)",
+            "व्यापारिक बिल (खरीद रसीद)) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)",
+            "पारिवारिक वसीयत (उत्तराधिकार पत्र)) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)"
           ],
           "answerIndex": 0,
           "explanation": "व्यापक जनहित के मुद्दों पर अदालत का ध्यान आकर्षित करने वाली याचिका को «जनहित याचिका» (PIL) कहा जाता है।"
@@ -11136,9 +11136,9 @@
           "prompt": "संवैधानिक उपचार और जनहित याचिका (Constitutional Remedies & Writs) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
             "संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं भारतीय न्यायिक व्यवस्था में आम नागरिकों के अधिकारों की रक्षा का सबसे प्रभावी माध्यम हैं। (The right to constitutional remedies and public interest litigations are the most effective medium for protecting the rights of common citizens in the Indian judicial system.)",
-            "जनहित याचिका दायर करने वाले को जेल में डाल देना चाहिए। (Target expression (Hindi))",
-            "बंदी प्रत्यक्षीकरण का अर्थ है सबको बंदी बना लो। (Target expression (Hindi))",
-            "मौलिक अधिकार छीनने के लिए अनुच्छेद 32 बनाया गया था। (Target expression (Hindi))"
+            "जनहित याचिका दायर करने वाले को जेल में डाल देना चाहिए।) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)",
+            "बंदी प्रत्यक्षीकरण का अर्थ है सबको बंदी बना लो।) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)",
+            "मौलिक अधिकार छीनने के लिए अनुच्छेद 32 बनाया गया था।) (Context: संवैधानिक उपचार, रिट याचिकाएं और जन)"
           ],
           "answerIndex": 0,
           "explanation": "«संवैधानिक उपचारों का अधिकार और जनहित याचिकाएं... सबसे प्रभावी माध्यम हैं» विधिक उपचार प्रणाली का प्रामाणिक वाक्य है।"
@@ -11187,9 +11187,9 @@
           "prompt": "संसद में प्रस्तुत कानूनी प्रस्ताव जब राष्ट्रपति की सहमति प्राप्त कर लेता है, तो उसे क्या कहते हैं?",
           "options": [
             "अधिनियम / कानून (Adhiniyam / Kaanoon - Act of Parliament / Statutory Law [enacted legislation])",
-            "समाचार विज्ञापन (अखबार विज्ञापन) (Target expression (Hindi))",
-            "दुकान का अनुबंध (व्यापार पर्ची) (Target expression (Hindi))",
-            "रेलवे समय सारणी (टाइम टेबल) (Target expression (Hindi))"
+            "समाचार विज्ञापन (अखबार विज्ञापन)) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)",
+            "दुकान का अनुबंध (व्यापार पर्ची)) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)",
+            "रेलवे समय सारणी (टाइम टेबल)) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)"
           ],
           "answerIndex": 0,
           "explanation": "संसद से पारित और राष्ट्रपति द्वारा हस्ताक्षरित विधेयक को «अधिनियम» (Act) कहा जाता है।"
@@ -11202,9 +11202,9 @@
           "prompt": "भारतीय संविधान में केंद्र और राज्य दोनों द्वारा कानून बनाने वाली सूची को क्या कहते हैं?",
           "options": [
             "समवर्ती सूची (Samavartee Soochi - Concurrent List [joint legislative jurisdiction])",
-            "गुप्त सूची (गोपनीय सूची) (Target expression (Hindi))",
-            "रद्द सूची (अमान्य सूची) (Target expression (Hindi))",
-            "अंतर्राष्ट्रीय सूची (वैश्विक सूची) (Target expression (Hindi))"
+            "गुप्त सूची (गोपनीय सूची)) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)",
+            "रद्द सूची (अमान्य सूची)) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)",
+            "अंतर्राष्ट्रीय सूची (वैश्विक सूची)) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)"
           ],
           "answerIndex": 0,
           "explanation": "जिस सूची पर केंद्र और राज्य दोनों कानून बना सकते हैं, उसे «समवर्ती सूची» (Concurrent List) कहते हैं।"
@@ -11218,9 +11218,9 @@
           "prompt": "संसदीय लोकतंत्र और संघीय व्यवस्था (Parliamentary Democracy & Federalism) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "संसदीय मर्यादाओं का पालन और केंद्र-राज्य शक्तियों का संतुलित समन्वय भारतीय संघीय गणराज्य की लोकतांत्रिक स्थिरता का मूल स्तंभ है। (Adherence to parliamentary decorum and the balanced coordination of Union-State powers is the foundational pillar of the democratic stability of the Indian Federal Republic.)",
-            "संसद में केवल कुश्ती प्रतियोगिता होनी चाहिए। (Target expression (Hindi))",
-            "संविधान की सातवीं अनुसूची को फाड़कर फेंक देना चाहिए। (Target expression (Hindi))",
-            "चुनाव आयोग को बंद कर देना चाहिए ताकि मतदान रुक जाए। (Target expression (Hindi))"
+            "संसद में केवल कुश्ती प्रतियोगिता होनी चाहिए।) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)",
+            "संविधान की सातवीं अनुसूची को फाड़कर फेंक देना चाहिए।) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)",
+            "चुनाव आयोग को बंद कर देना चाहिए ताकि मतदान रुक जाए।) (Context: संसदीय लोकतंत्र, विधि निर्माण और के)"
           ],
           "answerIndex": 0,
           "explanation": "«संसदीय मर्यादाओं का पालन और केंद्र-राज्य शक्तियों का संतुलित समन्वय... मूल स्तंभ है» संसदीय शासन का आदर्श वाक्य है।"
@@ -11269,9 +11269,9 @@
           "prompt": "किसी भी व्यक्ति या सरकार से ऊपर केवल कानून की सर्वोच्चता होने के सिद्धांत को क्या कहते हैं?",
           "options": [
             "विधि का शासन / कानून का राज (Vidhi ka shaasan - Rule of Law [supremacy of law over arbitrary power])",
-            "जंगल राज (अराजकता) (Target expression (Hindi))",
-            "तानाशाही शासन (निरंकुश शासन) (Target expression (Hindi))",
-            "मनमाना आदेश (अवैध आदेश) (Target expression (Hindi))"
+            "जंगल राज (अराजकता)) (Context: संवैधानिक नैतिकता व विधि के शासन का)",
+            "तानाशाही शासन (निरंकुश शासन)) (Context: संवैधानिक नैतिकता व विधि के शासन का)",
+            "मनमाना आदेश (अवैध आदेश)) (Context: संवैधानिक नैतिकता व विधि के शासन का)"
           ],
           "answerIndex": 0,
           "explanation": "कानून के समक्ष सबकी समानता और कानून की सर्वोच्चता को «विधि का शासन» (Rule of Law) कहते हैं।"
@@ -11284,9 +11284,9 @@
           "prompt": "संविधान के मूल्यों, सहिष्णुता और समावेशी लोकतांत्रिक भावना के प्रति निष्ठा को क्या कहते हैं?",
           "options": [
             "संवैधानिक नैतिकता (Samvaidhaanik naitikata - Constitutional Morality [ethical adherence to constitutional ethos])",
-            "व्यापारिक लाभ (मुनाफा) (Target expression (Hindi))",
-            "दलीय स्वार्थ (राजनीतिक लाभ) (Target expression (Hindi))",
-            "व्यक्तिगत क्रोध (निजी विकार) (Target expression (Hindi))"
+            "व्यापारिक लाभ (मुनाफा)) (Context: संवैधानिक नैतिकता व विधि के शासन का)",
+            "दलीय स्वार्थ (राजनीतिक लाभ)) (Context: संवैधानिक नैतिकता व विधि के शासन का)",
+            "व्यक्तिगत क्रोध (निजी विकार)) (Context: संवैधानिक नैतिकता व विधि के शासन का)"
           ],
           "answerIndex": 0,
           "explanation": "संविधान की आत्मा और लोकतांत्रिक मर्यादाओं के प्रति सम्मान को «संवैधानिक नैतिकता» (Constitutional Morality) कहा जाता है।"
@@ -11300,9 +11300,9 @@
           "prompt": "विधि का शासन और संवैधानिक नैतिकता (Jurisprudence & Constitutional Morality) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "संवैधानिक नैतिकता, विधि का शासन और सामाजिक न्याय का समन्वय ही भारतीय गणराज्य की संप्रभुता और लोकतांत्रिक जीवंतता का शाश्वत संवाहक है। (The synthesis of constitutional morality, the rule of law, and social justice is the eternal bearer of the sovereignty and democratic vitality of the Indian Republic.)",
-            "संविधान को ताक पर रखकर केवल लाठी का राज चलना चाहिए। (Target expression (Hindi))",
-            "संवैधानिक नैतिकता से समाज में लड़ाई होती है। (Target expression (Hindi))",
-            "विधि के शासन को समाप्त कर देना चाहिए। (Target expression (Hindi))"
+            "संविधान को ताक पर रखकर केवल लाठी का राज चलना चाहिए।) (Context: संवैधानिक नैतिकता व विधि के शासन का)",
+            "संवैधानिक नैतिकता से समाज में लड़ाई होती है।) (Context: संवैधानिक नैतिकता व विधि के शासन का)",
+            "विधि के शासन को समाप्त कर देना चाहिए।) (Context: संवैधानिक नैतिकता व विधि के शासन का)"
           ],
           "answerIndex": 0,
           "explanation": "«संवैधानिक नैतिकता, विधि का शासन और सामाजिक न्याय का समन्वय... शाश्वत संवाहक है» विधिक न्यायशास्त्र का सर्वोच्च परिष्कृत वाक्य है।"
@@ -11351,9 +11351,9 @@
           "prompt": "हिंदी साहित्य के किस कालखंड को आध्यात्मिक और नैतिक समृद्धि के कारण 'स्वर्ण युग' कहा जाता है?",
           "options": [
             "भक्तिकाल (Bhaktikaal - Devotional Era [Golden Age of Hindi Literature])",
-            "सिनेमा काल (चलचित्र युग) (Target expression (Hindi))",
-            "इंटरनेट काल (डिजिटल युग) (Target expression (Hindi))",
-            "मशीनी युग (यांत्रिक काल) (Target expression (Hindi))"
+            "सिनेमा काल (चलचित्र युग)) (Context: हिंदी साहित्य का इतिहास व काल विभाज)",
+            "इंटरनेट काल (डिजिटल युग)) (Context: हिंदी साहित्य का इतिहास व काल विभाज)",
+            "मशीनी युग (यांत्रिक काल)) (Context: हिंदी साहित्य का इतिहास व काल विभाज)"
           ],
           "answerIndex": 0,
           "explanation": "कबीर, सूर, तुलसी और जायसी जैसे महान संतों के युग को «भक्तिकाल» (स्वर्ण युग) कहा जाता है।"
@@ -11366,9 +11366,9 @@
           "prompt": "आधुनिक हिंदी साहित्य और खड़ी बोली गद्य का जनक किसे माना जाता है?",
           "options": [
             "भारतेंदु हरिश्चंद्र (Bharatendu Harishchandra - Father of Modern Hindi Prose & Renaissance)",
-            "सिकंदर महान (ग्रीक विजेता) (Target expression (Hindi))",
-            "कालिदास (संस्कृत महाकवि) (Target expression (Hindi))",
-            "बाणभट्ट (हर्षचरित लेखक) (Target expression (Hindi))"
+            "सिकंदर महान (ग्रीक विजेता)) (Context: हिंदी साहित्य का इतिहास व काल विभाज)",
+            "कालिदास (संस्कृत महाकवि)) (Context: हिंदी साहित्य का इतिहास व काल विभाज)",
+            "बाणभट्ट (हर्षचरित लेखक)) (Context: हिंदी साहित्य का इतिहास व काल विभाज)"
           ],
           "answerIndex": 0,
           "explanation": "खड़ी बोली गद्य और आधुनिक हिंदी नवजागरण के अग्रदूत «भारतेंदु हरिश्चंद्र» हैं।"
@@ -11382,9 +11382,9 @@
           "prompt": "हिंदी साहित्य के इतिहास व काल विभाजन (History of Hindi Literature) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "आदिकाल की शौर्य गाथाओं से लेकर भक्तिकाल के लोकमंगल और आधुनिक काल के नवजागरण तक हिंदी साहित्य भारतीय संस्कृति का दर्पण है। (From the heroic epics of the Early Era to the popular welfare of the Devotional Era and the Renaissance of the Modern Era, Hindi literature is the living mirror of Indian culture.)",
-            "साहित्य के सारे ग्रंथ चूल्हे में जला देने चाहिए। (Target expression (Hindi))",
-            "तुलसीदास ने केवल क्रिकेट मैच पर कविताएं लिखी थीं। (Target expression (Hindi))",
-            "भक्तिकाल में कोई कवि नहीं था। (Target expression (Hindi))"
+            "साहित्य के सारे ग्रंथ चूल्हे में जला देने चाहिए।) (Context: हिंदी साहित्य का इतिहास व काल विभाज)",
+            "तुलसीदास ने केवल क्रिकेट मैच पर कविताएं लिखी थीं।) (Context: हिंदी साहित्य का इतिहास व काल विभाज)",
+            "भक्तिकाल में कोई कवि नहीं था।) (Context: हिंदी साहित्य का इतिहास व काल विभाज)"
           ],
           "answerIndex": 0,
           "explanation": "«आदिकाल की शौर्य गाथाओं से लेकर... भारतीय संस्कृति का दर्पण है» साहित्य इतिहास का अत्यंत मानक और परिपक्व वाक्य है।"
@@ -11433,9 +11433,9 @@
           "prompt": "छायावाद के अमर महाकाव्य 'कामायनी' के रचयिता कौन हैं?",
           "options": [
             "जयशंकर प्रसाद (Jaishankar Prasad - Author of Kamayani & Pioneer of Chhayavad)",
-            "प्रेमचंद (उपन्यासकार) (Target expression (Hindi))",
-            "रामधारी सिंह दिनकर (राष्ट्रकवि) (Target expression (Hindi))",
-            "मैथिलीशरण गुप्त (द्विवेदी युग कवि) (Target expression (Hindi))"
+            "प्रेमचंद (उपन्यासकार)) (Context: छायावादी काव्य धारा और प्रमुख कवि च)",
+            "रामधारी सिंह दिनकर (राष्ट्रकवि)) (Context: छायावादी काव्य धारा और प्रमुख कवि च)",
+            "मैथिलीशरण गुप्त (द्विवेदी युग कवि)) (Context: छायावादी काव्य धारा और प्रमुख कवि च)"
           ],
           "answerIndex": 0,
           "explanation": "कामायनी के अमर रचयिता छायावादी महाकवि «जयशंकर प्रसाद» हैं।"
@@ -11448,9 +11448,9 @@
           "prompt": "छायावादी कवयित्री जिन्हें 'आधुनिक युग की मीरा' भी कहा जाता है, वे कौन हैं?",
           "options": [
             "महादेवी वर्मा (Mahadevi Varma - The Modern Meera / Mystic Poetic Genius)",
-            "सुभद्रा कुमारी चौहान (झांसी की रानी कवयित्री) (Target expression (Hindi))",
-            "सरोजिनी नायडू (नाइटिंगेल ऑफ इंडिया) (Target expression (Hindi))",
-            "अमृता प्रीतम (पंजाबी साहित्यकार) (Target expression (Hindi))"
+            "सुभद्रा कुमारी चौहान (झांसी की रानी कवयित्री)) (Context: छायावादी काव्य धारा और प्रमुख कवि च)",
+            "सरोजिनी नायडू (नाइटिंगेल ऑफ इंडिया)) (Context: छायावादी काव्य धारा और प्रमुख कवि च)",
+            "अमृता प्रीतम (पंजाबी साहित्यकार)) (Context: छायावादी काव्य धारा और प्रमुख कवि च)"
           ],
           "answerIndex": 0,
           "explanation": "अलौकिक वेदना और विरह के गीतों के कारण «महादेवी वर्मा» को आधुनिक युग की मीरा कहा जाता है।"
@@ -11464,9 +11464,9 @@
           "prompt": "छायावादी काव्य धारा और सौंदर्यबोध (Chhayavadi Poetics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति छायावादी युग को हिंदी कविता का अनुपम उत्कर्ष बनाती है। (Vibrant personification of nature and subtle expression of human emotions make the Chhayavadi era an incomparable pinnacle of Hindi poetry.)",
-            "कामायनी को बाज़ार में रद्दी के भाव बेच देना चाहिए। (Target expression (Hindi))",
-            "छायावाद केवल भूतों की कहानियों को कहते हैं। (Target expression (Hindi))",
-            "निराला ने केवल गणित के सूत्र लिखे थे। (Target expression (Hindi))"
+            "कामायनी को बाज़ार में रद्दी के भाव बेच देना चाहिए।) (Context: छायावादी काव्य धारा और प्रमुख कवि च)",
+            "छायावाद केवल भूतों की कहानियों को कहते हैं।) (Context: छायावादी काव्य धारा और प्रमुख कवि च)",
+            "निराला ने केवल गणित के सूत्र लिखे थे।) (Context: छायावादी काव्य धारा और प्रमुख कवि च)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रकृति का सजीव मानवीकरण और मानवीय संवेदनाओं की सूक्ष्म अभिव्यक्ति... अनुपम उत्कर्ष बनाती है» छायावादी काव्यशास्त्र का शुद्धतम वाक्य है।"
@@ -11515,9 +11515,9 @@
           "prompt": "भारतीय किसान के जीवन की अमर महाकाव्यात्मक त्रासदी प्रस्तुत करने वाले उपन्यास 'गोदान' के लेखक कौन हैं?",
           "options": [
             "मुंशी प्रेमचंद (Munshi Premchand - Novelist Laureate / Upanyas Samrat)",
-            "रवींद्रनाथ ठाकुर (गीतांजलि रचनाकार) (Target expression (Hindi))",
-            "बंकिम चंद्र चट्टोपाध्याय (आनंदमठ लेखक) (Target expression (Hindi))",
-            "शरदचंद्र चट्टोपाध्याय (देवदास रचयिता) (Target expression (Hindi))"
+            "रवींद्रनाथ ठाकुर (गीतांजलि रचनाकार)) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)",
+            "बंकिम चंद्र चट्टोपाध्याय (आनंदमठ लेखक)) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)",
+            "शरदचंद्र चट्टोपाध्याय (देवदास रचयिता)) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी उपन्यास सम्राट «मुंशी प्रेमचंद» ने कालजयी उपन्यास 'गोदान' की रचना की।"
@@ -11530,9 +11530,9 @@
           "prompt": "प्रेमचंद की प्रसिद्ध कहानी 'ईदगाह' का बाल पात्र हामिद मेले से अपनी दादी अमीना के लिए क्या खरीदता है?",
           "options": [
             "लोहे का चिमटा (Chimta - Iron tongs [symbol of child empathy and maturity])",
-            "खिलौना बंदूक (मिट्टी का खिलौना) (Target expression (Hindi))",
-            "मीठी जलेबी (मिठाई) (Target expression (Hindi))",
-            "रेशमी कुरता (वस्त्र) (Target expression (Hindi))"
+            "खिलौना बंदूक (मिट्टी का खिलौना)) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)",
+            "मीठी जलेबी (मिठाई)) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)",
+            "रेशमी कुरता (वस्त्र)) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)"
           ],
           "answerIndex": 0,
           "explanation": "हामिद अपनी दादी के हाथ रोटी बनाते समय जलने से बचाने के लिए मेले से «चिमटा» खरीदता है।"
@@ -11546,9 +11546,9 @@
           "prompt": "मुंशी प्रेमचंद और यथार्थवादी कथा साहित्य (Premchand & Realist Fiction) का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर सामाजिक न्याय और मानवीय गरिमा की वकालत करता है। (Premchand's fiction gives voice to the agony of the exploited, oppressed, and neglected common folk, championing social justice and human dignity.)",
-            "प्रेमचंद ने केवल मंगल ग्रह के एलियंस पर उपन्यास लिखे थे। (Target expression (Hindi))",
-            "गोदान के पात्र होरी को राजा बनाकर महल में रख दिया गया। (Target expression (Hindi))",
-            "कहानियों में किसानों का नाम लेना पाप है। (Target expression (Hindi))"
+            "प्रेमचंद ने केवल मंगल ग्रह के एलियंस पर उपन्यास लिखे थे।) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)",
+            "गोदान के पात्र होरी को राजा बनाकर महल में रख दिया गया।) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)",
+            "कहानियों में किसानों का नाम लेना पाप है।) (Context: उपन्यास सम्राट प्रेमचंद और यथार्थवा)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रेमचंद का कथा साहित्य शोषित, पीड़ित और उपेक्षित जनसामान्य की पीड़ा को स्वर देकर... वकालत करता है» प्रेमचंद साहित्य का सर्वोत्तम और परिपक्व वाक्य है।"
@@ -11597,9 +11597,9 @@
           "prompt": "कालिदास के जीवन पर आधारित आधुनिक हिंदी नाटक 'आषाढ़ का एक दिन' के रचनाकार कौन हैं?",
           "options": [
             "मोहन राकेश (Mohan Rakesh - Playwright of Ashadh Ka Ek Din & Aadhe Adhure)",
-            "भारतेंदु हरिश्चंद्र (अंधेर नगरी नाटककार) (Target expression (Hindi))",
-            "जयशंकर प्रसाद (स्कंदगुप्त नाटककार) (Target expression (Hindi))",
-            "लक्ष्मीनारायण मिश्र (सिंदूर की होली) (Target expression (Hindi))"
+            "भारतेंदु हरिश्चंद्र (अंधेर नगरी नाटककार)) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )",
+            "जयशंकर प्रसाद (स्कंदगुप्त नाटककार)) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )",
+            "लक्ष्मीनारायण मिश्र (सिंदूर की होली)) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )"
           ],
           "answerIndex": 0,
           "explanation": "आधुनिक रंगमंच के युगांतरकारी नाटक 'आषाढ़ का एक दिन' के लेखक «मोहन राकेश» हैं।"
@@ -11612,9 +11612,9 @@
           "prompt": "हिंदी साहित्य में व्यवस्था की विसंगतियों पर चोट करने वाले मूर्धन्य व्यंग्यकार (Satirist) कौन हैं?",
           "options": [
             "हरिशंकर परसाई (Harishankar Parsai - Master of Sharp Political & Social Satire)",
-            "मैथिलीशरण गुप्त (राष्ट्रीय कवि) (Target expression (Hindi))",
-            "सुभद्रा कुमारी चौहान (वीर रस कवयित्री) (Target expression (Hindi))",
-            "अयोध्या सिंह उपाध्याय 'हरिऔध' (प्रियप्रवास रचयिता) (Target expression (Hindi))"
+            "मैथिलीशरण गुप्त (राष्ट्रीय कवि)) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )",
+            "सुभद्रा कुमारी चौहान (वीर रस कवयित्री)) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )",
+            "अयोध्या सिंह उपाध्याय 'हरिऔध' (प्रियप्रवास रचयिता)) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी में सामाजिक और राजनीतिक व्यंग्य के सर्वोच्च शिखर «हरिशंकर परसाई» हैं।"
@@ -11628,9 +11628,9 @@
           "prompt": "आधुनिक गद्य, नाटक और व्यंग्य विधाएं (Modern Prose & Drama) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार समाज को आत्ममंथन और नैतिक परिष्कार की नई दृष्टि देते हैं। (In modern Hindi prose, dramatic inner conflicts and the sharp thrusts of satire grant society a fresh perspective of introspection and moral refinement.)",
-            "नाटक देखने वाले को जेल भेज देना चाहिए। (Target expression (Hindi))",
-            "व्यंग्य का अर्थ केवल लोगों को गाली देना है। (Target expression (Hindi))",
-            "निबंध केवल खाली पन्नों को कहते हैं। (Target expression (Hindi))"
+            "नाटक देखने वाले को जेल भेज देना चाहिए।) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )",
+            "व्यंग्य का अर्थ केवल लोगों को गाली देना है।) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )",
+            "निबंध केवल खाली पन्नों को कहते हैं।) (Context: आधुनिक हिंदी गद्य, नाटक और व्यंग्य )"
           ],
           "answerIndex": 0,
           "explanation": "«आधुनिक हिंदी गद्य में नाटक के अंतर्द्वंद्व और व्यंग्य के तीखे प्रहार... नई दृष्टि देते हैं» आधुनिक गद्य विधाओं का आदर्श वाक्य है।"
@@ -11679,9 +11679,9 @@
           "prompt": "हिंदी कविता में 'प्रयोगवाद' का सूत्रपात करने वाले प्रसिद्ध काव्य संकलन 'तार सप्तक' (1943) के संपादक कौन थे?",
           "options": [
             "सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' (Sachchidananda Hirananda Vatsyayan 'Agyeya' - Editor of Taar Saptak & Pioneer of Prayogvad)",
-            "रामविलास शर्मा (मार्क्सवादी आलोचक) (Target expression (Hindi))",
-            "नामवर सिंह (आधुनिक आलोचक) (Target expression (Hindi))",
-            "हजारी प्रसाद द्विवेदी (निबंधकार) (Target expression (Hindi))"
+            "रामविलास शर्मा (मार्क्सवादी आलोचक)) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)",
+            "नामवर सिंह (आधुनिक आलोचक)) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)",
+            "हजारी प्रसाद द्विवेदी (निबंधकार)) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)"
           ],
           "answerIndex": 0,
           "explanation": "'तार सप्तक' के संपादक और प्रयोगवाद के जनक «अज्ञेय» थे।"
@@ -11694,9 +11694,9 @@
           "prompt": "प्रसिद्ध लंबी कविता 'अंधेरे में' और 'ब्रह्मराक्षस' के विख्यात कवि कौन हैं?",
           "options": [
             "गजानन माधव 'मुक्तिबोध' (Gajanan Madhav 'Muktibodh' - Master of Fantasy & Modern Poetic Struggle)",
-            "सुमित्रानंदन पंत (छायावादी कवि) (Target expression (Hindi))",
-            "माखनलाल चतुर्वेदी (एक भारतीय आत्मा) (Target expression (Hindi))",
-            "सोहनलाल द्विवेदी (बाल कवि) (Target expression (Hindi))"
+            "सुमित्रानंदन पंत (छायावादी कवि)) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)",
+            "माखनलाल चतुर्वेदी (एक भारतीय आत्मा)) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)",
+            "सोहनलाल द्विवेदी (बाल कवि)) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)"
           ],
           "answerIndex": 0,
           "explanation": "'अंधेरे में' और 'ब्रह्मराक्षस' जैसी कालजयी कविताओं के रचयिता «मुक्तिबोध» हैं।"
@@ -11710,9 +11710,9 @@
           "prompt": "हिंदी साहित्य चिंतन व सौंदर्यशास्त्र (Literary Theory & Aesthetics) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "भारतीय रस सिद्धांत, सौंदर्यबोध और प्रगतिशील सामाजिक चेतना का समन्वय ही हिंदी साहित्य को सार्वभौमिक मानवीय संवेदना का अमर वाहक बनाता है। (The synthesis of Indian Rasa theory, aesthetics, and progressive social consciousness makes Hindi literature the immortal bearer of universal human sensibility.)",
-            "काव्यशास्त्र को रद्दी की टोकरी में फेंक देना चाहिए। (Target expression (Hindi))",
-            "तार सप्तक केवल रेलगाड़ी का टाइम टेबल है। (Target expression (Hindi))",
-            "मुक्तिबोध ने केवल गणित के सवाल हल किए थे। (Target expression (Hindi))"
+            "काव्यशास्त्र को रद्दी की टोकरी में फेंक देना चाहिए।) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)",
+            "तार सप्तक केवल रेलगाड़ी का टाइम टेबल है।) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)",
+            "मुक्तिबोध ने केवल गणित के सवाल हल किए थे।) (Context: हिंदी साहित्य चिंतन व सौंदर्यशास्त्)"
           ],
           "answerIndex": 0,
           "explanation": "«भारतीय रस सिद्धांत, सौंदर्यबोध और प्रगतिशील सामाजिक चेतना का समन्वय... अमर वाहक बनाता है» साहित्य सौंदर्यशास्त्र का सर्वोच्च मानक वाक्य है।"
@@ -11761,9 +11761,9 @@
           "prompt": "लोकतांत्रिक व्यवस्था में विधायिका, कार्यपालिका और न्यायपालिका के बाद प्रेस को क्या संज्ञा दी गई है?",
           "options": [
             "लोकतंत्र का चौथा स्तंभ (Loktantr ka chautha stambh - The Fourth Pillar / Fourth Estate of Democracy)",
-            "खेल का मैदान (स्टेडियम) (Target expression (Hindi))",
-            "मनोरंजन पार्क (एम्यूजमेंट पार्क) (Target expression (Hindi))",
-            "खरीदारी बाज़ार (शॉपिंग कॉम्प्लेक्स) (Target expression (Hindi))"
+            "खेल का मैदान (स्टेडियम)) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)",
+            "मनोरंजन पार्क (एम्यूजमेंट पार्क)) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)",
+            "खरीदारी बाज़ार (शॉपिंग कॉम्प्लेक्स)) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)"
           ],
           "answerIndex": 0,
           "explanation": "लोकतंत्र के तीन संवैधानिक अंगों के बाद स्वतंत्र प्रेस को «चौथा स्तंभ» (Fourth Pillar) कहा जाता है।"
@@ -11776,9 +11776,9 @@
           "prompt": "गोपनीय तथ्यों, भ्रष्टाचार और घोटालों को खोजकर जनता के सामने लाने वाली विशेष पत्रकारिता को क्या कहते हैं?",
           "options": [
             "खोजी पत्रकारिता (Khoji patrakaarita - Investigative Journalism [in-depth exposé reporting])",
-            "मौसम बुलेटिन (दैनिक मौसम) (Target expression (Hindi))",
-            "सिनेमा गपशप (मनोरंजन समाचार) (Target expression (Hindi))",
-            "राशिफल वाचन (ज्योतिष रिपोर्ट) (Target expression (Hindi))"
+            "मौसम बुलेटिन (दैनिक मौसम)) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)",
+            "सिनेमा गपशप (मनोरंजन समाचार)) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)",
+            "राशिफल वाचन (ज्योतिष रिपोर्ट)) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)"
           ],
           "answerIndex": 0,
           "explanation": "गहन छानबीन और दस्तावेजी प्रमाणों पर आधारित रिपोर्टिंग को «खोजी पत्रकारिता» (Investigative Journalism) कहते हैं।"
@@ -11792,9 +11792,9 @@
           "prompt": "खोजी पत्रकारिता और प्रेस की स्वतंत्रता (Press Freedom & Journalistic Ethics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "प्रेस की स्वतंत्रता, सत्यनिष्ठा और आचार संहिता का कठोर अनुपालन ही पत्रकारिता को जनविश्वास और लोकतांत्रिक मूल्यों का रक्षक बनाता है। (Press freedom, integrity, and strict adherence to ethics make journalism the guardian of public trust and democratic values.)",
-            "पत्रकारों को केवल अफवाहें फैलाकर झूठ लिखना चाहिए। (Target expression (Hindi))",
-            "समाचार पत्र में केवल सफेद कोरे कागज छापने चाहिए। (Target expression (Hindi))",
-            "प्रेस की स्वतंत्रता को पूरी तरह नष्ट कर देना चाहिए। (Target expression (Hindi))"
+            "पत्रकारों को केवल अफवाहें फैलाकर झूठ लिखना चाहिए।) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)",
+            "समाचार पत्र में केवल सफेद कोरे कागज छापने चाहिए।) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)",
+            "प्रेस की स्वतंत्रता को पूरी तरह नष्ट कर देना चाहिए।) (Context: खोजी पत्रकारिता, प्रेस की स्वतंत्रत)"
           ],
           "answerIndex": 0,
           "explanation": "«प्रेस की स्वतंत्रता, सत्यनिष्ठा और आचार संहिता का कठोर अनुपालन... रक्षक बनाता है» पत्रकारिता दर्शन का परिपक्व वाक्य है।"
@@ -11843,9 +11843,9 @@
           "prompt": "समाचार पत्र के संपादकीय पृष्ठ पर प्रकाशित होने वाले मुख्य संस्थागत नीतिगत लेख को क्या कहते हैं?",
           "options": [
             "अग्रलेख / मुख्य संपादकीय (Agrlekh / Mukhya Sampaadakeey - Lead Editorial [institutional voice of newspaper])",
-            "दुकान का पर्चा (विज्ञापन पर्ची) (Target expression (Hindi))",
-            "खेल का स्कोर (स्कोरकार्ड) (Target expression (Hindi))",
-            "सिनेमा पोस्टर (प्रचार चित्र) (Target expression (Hindi))"
+            "दुकान का पर्चा (विज्ञापन पर्ची)) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)",
+            "खेल का स्कोर (स्कोरकार्ड)) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)",
+            "सिनेमा पोस्टर (प्रचार चित्र)) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)"
           ],
           "answerIndex": 0,
           "explanation": "समाचार पत्र की आधिकारिक राय प्रस्तुत करने वाले प्रमुख लेख को «अग्रलेख» (Lead Editorial) कहा जाता है।"
@@ -11858,9 +11858,9 @@
           "prompt": "समाचार पत्र में किसी विशिष्ट विषय पर विशेषज्ञ लेखक द्वारा नियमित रूप से लिखे जाने वाले लेख को क्या कहते हैं?",
           "options": [
             "स्तंभ लेखन / कॉलम (Stambh lekhan / Column - Regular opinion column by specialized analysts)",
-            "क्रॉसवेर्ड पहेली (शब्द पहेली) (Target expression (Hindi))",
-            "मौसम तालिका (दैनिक तापमान) (Target expression (Hindi))",
-            "विवाह विज्ञापन (मैट्रिमोनियल) (Target expression (Hindi))"
+            "क्रॉसवेर्ड पहेली (शब्द पहेली)) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)",
+            "मौसम तालिका (दैनिक तापमान)) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)",
+            "विवाह विज्ञापन (मैट्रिमोनियल)) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)"
           ],
           "answerIndex": 0,
           "explanation": "नियमित रूप से प्रकाशित होने वाले विश्लेषणात्मक वैचारिक आलेख को «स्तंभ लेखन» (Column Writing) कहते हैं।"
@@ -11874,9 +11874,9 @@
           "prompt": "संपादकीय लेखन और जनमत निर्माण (Editorial Writing & Public Discourse) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "तथ्यात्मक अग्रलेख और प्रबुद्ध स्तंभ लेखन समाज में स्वस्थ वैचारिक विमर्श और सुदृढ़ जनमत के निर्माण की रीढ़ हैं। (Factual lead editorials and enlightened column writing are the backbone of healthy ideological discourse and the formation of robust public opinion.)",
-            "संपादकीय पृष्ठ पर केवल लूडो का खेल छापना चाहिए। (Target expression (Hindi))",
-            "जनमत निर्माण के लिए जनता से सोचना बंद करने को कहो। (Target expression (Hindi))",
-            "अग्रलेख में केवल खाली बिंदु लगाने चाहिए। (Target expression (Hindi))"
+            "संपादकीय पृष्ठ पर केवल लूडो का खेल छापना चाहिए।) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)",
+            "जनमत निर्माण के लिए जनता से सोचना बंद करने को कहो।) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)",
+            "अग्रलेख में केवल खाली बिंदु लगाने चाहिए।) (Context: संपादकीय लेखन, वैचारिक स्तंभ और जनम)"
           ],
           "answerIndex": 0,
           "explanation": "«तथ्यात्मक अग्रलेख और प्रबुद्ध स्तंभ लेखन... जनमत के निर्माण की रीढ़ हैं» संपादकीय विधा का प्रामाणिक वाक्य है।"
@@ -11925,9 +11925,9 @@
           "prompt": "टेलीविज़न स्टूडियो से समाचारों और बहसों का मुख्य संचालन करने वाले प्रस्तोता को क्या कहते हैं?",
           "options": [
             "समाचार वाचक / एंकर (Samaachaar vaachak / Anchor - Television News Presenter)",
-            "फिल्म अभिनेता (सिनेमा कलाकार) (Target expression (Hindi))",
-            "गाड़ी चालक (ड्राइवर) (Target expression (Hindi))",
-            "स्टेडियम अंपायर (खेल निर्णायक) (Target expression (Hindi))"
+            "फिल्म अभिनेता (सिनेमा कलाकार)) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)",
+            "गाड़ी चालक (ड्राइवर)) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)",
+            "स्टेडियम अंपायर (खेल निर्णायक)) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)"
           ],
           "answerIndex": 0,
           "explanation": "समाचार बुलेटिन और परिचर्चा का संचालन करने वाले को «समाचार एंकर» या «समाचार वाचक» कहते हैं।"
@@ -11940,9 +11940,9 @@
           "prompt": "घटनास्थल से बिना किसी देरी के वास्तविक समय में दर्शकों तक दृश्य-ध्वनि पहुँचाने को क्या कहते हैं?",
           "options": [
             "सीधा प्रसारण / लाइव टेलीकास्ट (Seedha prasaaran / Live Telecast - Real-time on-site broadcasting)",
-            "रिकॉर्डेड कैसेट (पुरानी रिकॉर्डिंग) (Target expression (Hindi))",
-            "डाक चिट्ठी (पारंपरिक पत्र) (Target expression (Hindi))",
-            "गुप्त संदेश (गोपनीय कोड) (Target expression (Hindi))"
+            "रिकॉर्डेड कैसेट (पुरानी रिकॉर्डिंग)) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)",
+            "डाक चिट्ठी (पारंपरिक पत्र)) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)",
+            "गुप्त संदेश (गोपनीय कोड)) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)"
           ],
           "answerIndex": 0,
           "explanation": "वास्तविक समय में घटना के सीधे प्रसारण को «सीधा प्रसारण» (Live Telecast) कहा जाता है।"
@@ -11956,9 +11956,9 @@
           "prompt": "इलेक्ट्रॉनिक मीडिया और प्रसारण पत्रकारिता (Broadcast Journalism) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "संयमित भाषा, निष्पक्ष एंकरिंग और तथ्यात्मक लाइव रिपोर्टिंग ही प्रसारण पत्रकारिता की साख और जनता में उसकी विश्वसनीयता बनाए रखती है। (Restrained language, impartial anchoring, and factual live reporting alone maintain the credibility of broadcast journalism and its trust among the public.)",
-            "प्राइम टाइम में केवल माइक तोड़कर लड़ाई करनी चाहिए। (Target expression (Hindi))",
-            "लाइव रिपोर्टिंग में झूठ बोलना कानूनन अनिवार्य है। (Target expression (Hindi))",
-            "टेलीविज़न चैनलों को बंद कर देना चाहिए ताकि कोई समाचार न देखे। (Target expression (Hindi))"
+            "प्राइम टाइम में केवल माइक तोड़कर लड़ाई करनी चाहिए।) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)",
+            "लाइव रिपोर्टिंग में झूठ बोलना कानूनन अनिवार्य है।) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)",
+            "टेलीविज़न चैनलों को बंद कर देना चाहिए ताकि कोई समाचार न देखे।) (Context: इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रका)"
           ],
           "answerIndex": 0,
           "explanation": "«संयमित भाषा, निष्पक्ष एंकरिंग और तथ्यात्मक लाइव रिपोर्टिंग... विश्वसनीयता बनाए रखती है» प्रसारण पत्रकारिता का मानक वाक्य है।"
@@ -12007,9 +12007,9 @@
           "prompt": "सोशल मीडिया पर वायरल हो रही किसी खबर की सत्यता और प्रामाणिकता की जांच करने की प्रक्रिया को क्या कहते हैं?",
           "options": [
             "तथ्य-जाँच / फ़ैक्ट चेकिंग (Tathya-jaanch / Fact-Checking [verifying claims against primary evidence])",
-            "अफवाह फैलाना (झूठ बढ़ाना) (Target expression (Hindi))",
-            "फोटो संपादन (चित्र सजाना) (Target expression (Hindi))",
-            "खेल कमेंट्री (मैच विवरण) (Target expression (Hindi))"
+            "अफवाह फैलाना (झूठ बढ़ाना)) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)",
+            "फोटो संपादन (चित्र सजाना)) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)",
+            "खेल कमेंट्री (मैच विवरण)) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)"
           ],
           "answerIndex": 0,
           "explanation": "सोशल मीडिया पर प्रसारित दावों की सच्चाई परखने को «तथ्य-जाँच» (Fact-Checking) कहते हैं।"
@@ -12022,9 +12022,9 @@
           "prompt": "कृत्रिम बुद्धिमत्ता (AI) द्वारा बनाए गए किसी व्यक्ति के चेहरे और आवाज़ वाले अत्यधिक भ्रामक फर्जी वीडियो को क्या कहा जाता है?",
           "options": [
             "डीपफेक (Deepfake - AI-generated synthetic media impersonation)",
-            "सिनेमा ट्रेलर (फिल्म झलक) (Target expression (Hindi))",
-            "पारिवारिक फोटो (पारिवारिक चित्र) (Target expression (Hindi))",
-            "कार्टून चित्र (एनिमेशन ड्राइंग) (Target expression (Hindi))"
+            "सिनेमा ट्रेलर (फिल्म झलक)) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)",
+            "पारिवारिक फोटो (पारिवारिक चित्र)) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)",
+            "कार्टून चित्र (एनिमेशन ड्राइंग)) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)"
           ],
           "answerIndex": 0,
           "explanation": "एआई तकनीक से बनाए गए हूबहू दिखने वाले फर्जी वीडियो को «डीपफेक» (Deepfake) कहा जाता है।"
@@ -12038,9 +12038,9 @@
           "prompt": "डिजिटल पत्रकारिता और फेक न्यूज़ चुनौती (Digital Media & Misinformation) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "डिजिटल युग में तथ्य-जाँच का संस्थागत विस्तार और नागरिकों की डिजिटल साक्षरता ही भ्रामक दुष्प्रचार से निपटने का सबसे कारगर हथियार है। (In the digital age, the institutional expansion of fact-checking and digital literacy among citizens is the most potent weapon against misinformation.)",
-            "फेक न्यूज़ को सच मानकर तुरंत दंगा शुरू कर देना चाहिए। (Target expression (Hindi))",
-            "इंटरनेट पर जो भी लिखा हो, वह 100% भगवान का आदेश होता है। (Target expression (Hindi))",
-            "तथ्य-जाँच करने वाले सभी लोगों को जेल में डाल देना चाहिए। (Target expression (Hindi))"
+            "फेक न्यूज़ को सच मानकर तुरंत दंगा शुरू कर देना चाहिए।) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)",
+            "इंटरनेट पर जो भी लिखा हो, वह 100% भगवान का आदेश होता है।) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)",
+            "तथ्य-जाँच करने वाले सभी लोगों को जेल में डाल देना चाहिए।) (Context: डिजिटल पत्रकारिता, सोशल मीडिया और फ)"
           ],
           "answerIndex": 0,
           "explanation": "«डिजिटल युग में तथ्य-जाँच का संस्थागत विस्तार... सबसे कारगर हथियार है» डिजिटल मीडिया नैतिकता का सर्वोत्तम वाक्य है।"
@@ -12089,9 +12089,9 @@
           "prompt": "भारत में प्रिंट मीडिया की स्वतंत्रता की रक्षा और पत्रकारिता के नैतिक मानकों के नियमन हेतु गठित सांविधिक संस्था कौन-सी है?",
           "options": [
             "प्रेस काउंसिल ऑफ इंडिया / भारतीय प्रेस परिषद (Press Council of India - Statutory media ombudsman and standards regulator)",
-            "रेलवे बोर्ड (रेलवे प्रशासन) (Target expression (Hindi))",
-            "क्रिकेट नियंत्रण बोर्ड (खेल संस्था) (Target expression (Hindi))",
-            "सिनेमा सेंसर बोर्ड (फिल्म प्रमाणन) (Target expression (Hindi))"
+            "रेलवे बोर्ड (रेलवे प्रशासन)) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)",
+            "क्रिकेट नियंत्रण बोर्ड (खेल संस्था)) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)",
+            "सिनेमा सेंसर बोर्ड (फिल्म प्रमाणन)) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)"
           ],
           "answerIndex": 0,
           "explanation": "प्रेस की स्वतंत्रता और पत्रकारिता के मानकों की रक्षा करने वाली संस्था «भारतीय प्रेस परिषद» (Press Council of India) है।"
@@ -12104,9 +12104,9 @@
           "prompt": "अदालत के अंतिम फैसले से पहले ही मीडिया द्वारा किसी आरोपी को दोषी करार देने की अनुचित प्रवृत्ति को क्या कहते हैं?",
           "options": [
             "मीडिया ट्रायल (Media Trial - Prejudging cases through sensational media coverage before judicial verdict)",
-            "न्यायिक समीक्षा (अदालती जांच) (Target expression (Hindi))",
-            "विधिक सहायता (मुफ्त कानूनी मदद) (Target expression (Hindi))",
-            "संसद का सत्र (संसदीय बैठक) (Target expression (Hindi))"
+            "न्यायिक समीक्षा (अदालती जांच)) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)",
+            "विधिक सहायता (मुफ्त कानूनी मदद)) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)",
+            "संसद का सत्र (संसदीय बैठक)) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)"
           ],
           "answerIndex": 0,
           "explanation": "अदालत के निर्णय से पूर्व टीवी पर किसी को अपराधी घोषित करने की प्रवृत्ति को «मीडिया ट्रायल» (Media Trial) कहा जाता है।"
@@ -12120,9 +12120,9 @@
           "prompt": "मीडिया विमर्श और जनसंचार नीति (Mass Media & Democratic Ethics) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण ही स्वतंत्र पत्रकारिता को लोकतांत्रिक गणराज्य की अमर चेतना बनाता है। (Integrity, fearless investigative perspective, and dedication to public concerns make free journalism the immortal consciousness of a democratic republic.)",
-            "पत्रकारिता का काम केवल झूठ और नफरत फैलाना है। (Target expression (Hindi))",
-            "प्रेस काउंसिल को बंद कर देना चाहिए ताकि कोई नियम न रहे। (Target expression (Hindi))",
-            "मीडिया ट्रायल करके बिना सबूत सबको फांसी दे देनी चाहिए। (Target expression (Hindi))"
+            "पत्रकारिता का काम केवल झूठ और नफरत फैलाना है।) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)",
+            "प्रेस काउंसिल को बंद कर देना चाहिए ताकि कोई नियम न रहे।) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)",
+            "मीडिया ट्रायल करके बिना सबूत सबको फांसी दे देनी चाहिए।) (Context: मीडिया विमर्श, जन-संचार नीति व महा-)"
           ],
           "answerIndex": 0,
           "explanation": "«सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण... अमर चेतना बनाता है» मीडिया नैतिकता का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -12171,9 +12171,9 @@
           "prompt": "भारतीय षड्दर्शन में 'चित्त की वृत्तियों के निरोध' को लक्ष्य मानने वाले योग दर्शन के प्रणेता कौन हैं?",
           "options": [
             "महर्षि पतंजलि (Maharshi Patanjali - Author of Yoga Sutras & Founder of Yoga Philosophy)",
-            "चाणक्य (राजनीतिज्ञ) (Target expression (Hindi))",
-            "आर्यभट्ट (खगोलशास्त्री) (Target expression (Hindi))",
-            "कालिदास (महाकवि) (Target expression (Hindi))"
+            "चाणक्य (राजनीतिज्ञ)) (Context: षड्दर्शन)",
+            "आर्यभट्ट (खगोलशास्त्री)) (Context: षड्दर्शन)",
+            "कालिदास (महाकवि)) (Context: षड्दर्शन)"
           ],
           "answerIndex": 0,
           "explanation": "योग सूत्र के रचयिता और योग दर्शन के प्रवर्तक «महर्षि पतंजलि» हैं।"
@@ -12186,9 +12186,9 @@
           "prompt": "न्याय दर्शन में ज्ञान प्राप्ति के साधनों को क्या कहा जाता है?",
           "options": [
             "प्रमाण (Pramana - Means of valid knowledge: Pratyaksha, Anumana, Upamana, Shabda)",
-            "उपहार (तोहफा) (Target expression (Hindi))",
-            "मुद्रा (सिक्का) (Target expression (Hindi))",
-            "व्यापार (दुकानदारी) (Target expression (Hindi))"
+            "उपहार (तोहफा)) (Context: षड्दर्शन)",
+            "मुद्रा (सिक्का)) (Context: षड्दर्शन)",
+            "व्यापार (दुकानदारी)) (Context: षड्दर्शन)"
           ],
           "answerIndex": 0,
           "explanation": "यथार्थ ज्ञान प्राप्त करने के वैध साधनों को न्याय दर्शन में «प्रमाण» (Pramana) कहा जाता है।"
@@ -12202,9 +12202,9 @@
           "prompt": "भारतीय षड्दर्शन परंपरा (Six Schools of Indian Philosophy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "सांख्य, योग, न्याय, वैशेषिक, मीमांसा और वेदांत का समन्वित चिंतन भारतीय तत्वमीमांसा और आध्यात्मिक ज्ञान का शाश्वत शिखर है। (The synthesized contemplation of Sankhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta is the eternal pinnacle of Indian metaphysics and spiritual wisdom.)",
-            "दर्शनशास्त्र में केवल बाज़ार के आलू-प्याज के भाव लिखे हैं। (Target expression (Hindi))",
-            "षड्दर्शन का अर्थ छह प्रकार की मिठाइयां खाना है। (Target expression (Hindi))",
-            "पतंजलि केवल एक किराने की दुकान का नाम है। (Target expression (Hindi))"
+            "दर्शनशास्त्र में केवल बाज़ार के आलू-प्याज के भाव लिखे हैं।) (Context: षड्दर्शन)",
+            "षड्दर्शन का अर्थ छह प्रकार की मिठाइयां खाना है।) (Context: षड्दर्शन)",
+            "पतंजलि केवल एक किराने की दुकान का नाम है।) (Context: षड्दर्शन)"
           ],
           "answerIndex": 0,
           "explanation": "«सांख्य, योग, न्याय, वैशेषिक, मीमांसा और वेदांत का समन्वित चिंतन... शाश्वत शिखर है» षड्दर्शन का शास्त्रीय वाक्य है।"
@@ -12253,9 +12253,9 @@
           "prompt": "अद्वैत वेदांत (Non-dualism) के महानतम दार्शनिक और व्याख्याकार कौन हैं?",
           "options": [
             "आदि शंकराचार्य (Adi Shankaracharya - Proponent of Advaita Vedanta and Monism)",
-            "तानसेन (संगीतकार) (Target expression (Hindi))",
-            "बीरबल (दरबारी) (Target expression (Hindi))",
-            "तुलसीदास (रामचरितमानस रचयिता) (Target expression (Hindi))"
+            "तानसेन (संगीतकार)) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)",
+            "बीरबल (दरबारी)) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)",
+            "तुलसीदास (रामचरितमानस रचयिता)) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)"
           ],
           "answerIndex": 0,
           "explanation": "अद्वैत वेदांत के प्रमुख आचार्य और प्रस्थानत्रयी के भाष्यकार «आदि शंकराचार्य» हैं।"
@@ -12268,9 +12268,9 @@
           "prompt": "उपनिषद, श्रीमद्भगवद्गीता और ब्रह्मसूत्र को सम्मिलित रूप से वेदांत में क्या कहा जाता है?",
           "options": [
             "प्रस्थानत्रयी (Prasthanatrayi - The Three Canonical Foundations of Vedanta Philosophy)",
-            "त्रिफला चूर्ण (आयुर्वेदिक औषधि) (Target expression (Hindi))",
-            "तीन नदियां (त्रिवेणी संगम) (Target expression (Hindi))",
-            "तीन पहिए (त्रिपहिया गाड़ी) (Target expression (Hindi))"
+            "त्रिफला चूर्ण (आयुर्वेदिक औषधि)) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)",
+            "तीन नदियां (त्रिवेणी संगम)) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)",
+            "तीन पहिए (त्रिपहिया गाड़ी)) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)"
           ],
           "answerIndex": 0,
           "explanation": "वेदांत दर्शन के तीन आधारभूत ग्रंथों के समूह को «प्रस्थानत्रयी» (Prasthanatrayi) कहते हैं।"
@@ -12284,9 +12284,9 @@
           "prompt": "अद्वैत वेदांत और उपनिषद दर्शन (Advaita Vedanta & Upanishads) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "उपनिषदों का अद्वैत दर्शन जीव और ब्रह्म की तात्विक एकता का प्रतिपादन कर सर्वत्र एक ही सच्चिदानंद चेतना का साक्षात्कार कराता है। (The Advaita philosophy of the Upanishads expounds the fundamental oneness of the individual soul and Brahman, realizing the single Sat-Chit-Ananda consciousness everywhere.)",
-            "वेदांत में लिखा है कि आत्मा केवल मिट्टी का एक खिलौना है। (Target expression (Hindi))",
-            "मायावाद का अर्थ जादू का खेल दिखाना होता है। (Target expression (Hindi))",
-            "शंकराचार्य ने कहा कि पढ़ाई-लिखाई छोड़ दो। (Target expression (Hindi))"
+            "वेदांत में लिखा है कि आत्मा केवल मिट्टी का एक खिलौना है।) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)",
+            "मायावाद का अर्थ जादू का खेल दिखाना होता है।) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)",
+            "शंकराचार्य ने कहा कि पढ़ाई-लिखाई छोड़ दो।) (Context: अद्वैत वेदांत, उपनिषद और मायावाद (A)"
           ],
           "answerIndex": 0,
           "explanation": "«उपनिषदों का अद्वैत दर्शन जीव और ब्रह्म की तात्विक एकता का प्रतिपादन... साक्षात्कार कराता है» अद्वैत वेदांत का मानक वाक्य है।"
@@ -12335,9 +12335,9 @@
           "prompt": "श्रीमद्भगवद्गीता में फल की इच्छा के बिना केवल कर्तव्य भाव से कर्म करने को क्या कहा गया है?",
           "options": [
             "निष्काम कर्मयोग (Nishkama Karma Yoga - Selfless action performed without attachment to results)",
-            "सकाम व्यापार (व्यापारिक लाभ) (Target expression (Hindi))",
-            "आलस्य निद्रा (सोना) (Target expression (Hindi))",
-            "मनोरंजन खेल (खेलकूद) (Target expression (Hindi))"
+            "सकाम व्यापार (व्यापारिक लाभ)) (Context: श्रीमद्भगवद्गीता)",
+            "आलस्य निद्रा (सोना)) (Context: श्रीमद्भगवद्गीता)",
+            "मनोरंजन खेल (खेलकूद)) (Context: श्रीमद्भगवद्गीता)"
           ],
           "answerIndex": 0,
           "explanation": "फल की आसक्ति से रहित होकर कर्तव्य कर्म करने को «निष्काम कर्मयोग» कहा जाता है।"
@@ -12350,9 +12350,9 @@
           "prompt": "गीता के अनुसार जो व्यक्ति सुख-दुःख और मान-अपमान में स्थिर बुद्धि और समता बनाए रखता है, उसे क्या कहते हैं?",
           "options": [
             "स्थितप्रज्ञ (Sthitaprajna - Person of steadfast wisdom and unwavering equanimity)",
-            "लोभी व्यापारी (धनलोलुप) (Target expression (Hindi))",
-            "सैनिक कैदी (बंदी) (Target expression (Hindi))",
-            "अधीर बालक (चंचल बच्चा) (Target expression (Hindi))"
+            "लोभी व्यापारी (धनलोलुप)) (Context: श्रीमद्भगवद्गीता)",
+            "सैनिक कैदी (बंदी)) (Context: श्रीमद्भगवद्गीता)",
+            "अधीर बालक (चंचल बच्चा)) (Context: श्रीमद्भगवद्गीता)"
           ],
           "answerIndex": 0,
           "explanation": "सुख-दुःख में अविचल और समत्व भाव में रहने वाले प्रबुद्ध साधक को «स्थितप्रज्ञ» कहते हैं।"
@@ -12366,9 +12366,9 @@
           "prompt": "श्रीमद्भगवद्गीता के दर्शन (Bhagavad Gita Philosophy & Ethics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "निष्काम कर्म, स्थितप्रज्ञता और स्वधर्म का पालन ही गीता का वह सार्वकालिक दर्शन है जो मनुष्य को कर्तव्यनिष्ठा और आंतरिक शांति प्रदान करता है। (Nishkama Karma, steadfast wisdom, and the practice of Svadharma constitute the timeless philosophy of the Gita that bestows dedication to duty and inner peace upon humanity.)",
-            "गीता का उपदेश है कि हमेशा युद्ध करते रहो और शांति कभी मत चाहो। (Target expression (Hindi))",
-            "निष्काम कर्म का अर्थ है कि कोई काम मत करो और सो जाओ। (Target expression (Hindi))",
-            "स्थितप्रज्ञ का अर्थ है जो केवल एक पैर पर खड़ा रहे। (Target expression (Hindi))"
+            "गीता का उपदेश है कि हमेशा युद्ध करते रहो और शांति कभी मत चाहो।) (Context: श्रीमद्भगवद्गीता)",
+            "निष्काम कर्म का अर्थ है कि कोई काम मत करो और सो जाओ।) (Context: श्रीमद्भगवद्गीता)",
+            "स्थितप्रज्ञ का अर्थ है जो केवल एक पैर पर खड़ा रहे।) (Context: श्रीमद्भगवद्गीता)"
           ],
           "answerIndex": 0,
           "explanation": "«निष्काम कर्म, स्थितप्रज्ञता और स्वधर्म का पालन... शांति प्रदान करता है» गीता दर्शन का प्रामाणिक वाक्य है।"
@@ -12417,9 +12417,9 @@
           "prompt": "जैन दर्शन में सत्य के बहुआयामी स्वरूप और सहिष्णु दृष्टिकोण के सिद्धांत को क्या कहते हैं?",
           "options": [
             "अनेकांतवाद (Anekantavada - Doctrine of the manifold and multi-dimensional nature of reality)",
-            "हठयोग (कठिन शारीरिक आसन) (Target expression (Hindi))",
-            "भौतिकवाद (केवल धन की इच्छा) (Target expression (Hindi))",
-            "एकाधिकार (केवल एक का शासन) (Target expression (Hindi))"
+            "हठयोग (कठिन शारीरिक आसन)) (Context: जैन व बौद्ध दर्शन)",
+            "भौतिकवाद (केवल धन की इच्छा)) (Context: जैन व बौद्ध दर्शन)",
+            "एकाधिकार (केवल एक का शासन)) (Context: जैन व बौद्ध दर्शन)"
           ],
           "answerIndex": 0,
           "explanation": "सत्य के बहुआयामी दृष्टिकोण को जैन दर्शन में «अनेकांतवाद» (Anekantavada) कहा जाता है।"
@@ -12432,9 +12432,9 @@
           "prompt": "भगवान बुद्ध द्वारा प्रतिपादित दुःख निवारण के आठ व्यावहारिक चरणों को क्या कहा जाता है?",
           "options": [
             "अष्टांगिक मार्ग (Ashtangika Marga - The Noble Eightfold Path: Right View, Resolve, Speech, etc.)",
-            "आठ ग्रह (सौरमंडल) (Target expression (Hindi))",
-            "अष्टधातु (आठ धातुएं) (Target expression (Hindi))",
-            "आठ दिशाएं (दिशा चक्र) (Target expression (Hindi))"
+            "आठ ग्रह (सौरमंडल)) (Context: जैन व बौद्ध दर्शन)",
+            "अष्टधातु (आठ धातुएं)) (Context: जैन व बौद्ध दर्शन)",
+            "आठ दिशाएं (दिशा चक्र)) (Context: जैन व बौद्ध दर्शन)"
           ],
           "answerIndex": 0,
           "explanation": "दुःख निरोध के आठ अंगों वाले बौद्ध मार्ग को «अष्टांगिक मार्ग» (Eightfold Path) कहते हैं।"
@@ -12448,9 +12448,9 @@
           "prompt": "जैन व बौद्ध दर्शन (Jain & Buddhist Philosophy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन विश्व में शांति और सद्भाव स्थापित करने के शाश्वत आधार हैं। (The ideological tolerance of Anekantavada and the balanced life philosophy of the Middle Path are the eternal foundations for establishing peace and harmony in the world.)",
-            "जैन दर्शन में लिखा है कि प्रतिदिन झगड़ा करना चाहिए। (Target expression (Hindi))",
-            "मध्यम मार्ग का अर्थ सड़क के बीच में सोना होता है। (Target expression (Hindi))",
-            "चार आर्य सत्य केवल गणित के चार अंक हैं। (Target expression (Hindi))"
+            "जैन दर्शन में लिखा है कि प्रतिदिन झगड़ा करना चाहिए।) (Context: जैन व बौद्ध दर्शन)",
+            "मध्यम मार्ग का अर्थ सड़क के बीच में सोना होता है।) (Context: जैन व बौद्ध दर्शन)",
+            "चार आर्य सत्य केवल गणित के चार अंक हैं।) (Context: जैन व बौद्ध दर्शन)"
           ],
           "answerIndex": 0,
           "explanation": "«अनेकांतवाद की वैचारिक सहिष्णुता और मध्यम प्रतिपदा का संतुलित जीवन-दर्शन... शाश्वत आधार हैं» श्रमण दर्शन का मानक वाक्य है।"
@@ -12499,9 +12499,9 @@
           "prompt": "भारतीय जीवन दर्शन में धर्म, अर्थ, काम और मोक्ष के चार सार्वभौमिक लक्ष्यों को क्या संज्ञा दी गई है?",
           "options": [
             "पुरुषार्थ-चतुष्टय (Purushartha-Chatushtaya - The Fourfold Ultimate Aims of Human Life)",
-            "चार वेद (ऋग, यजुः, साम, अथर्व) (Target expression (Hindi))",
-            "चार वर्ण (सामाजिक व्यवस्था) (Target expression (Hindi))",
-            "चार धाम (तीर्थ स्थल) (Target expression (Hindi))"
+            "चार वेद (ऋग, यजुः, साम, अथर्व)) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)",
+            "चार वर्ण (सामाजिक व्यवस्था)) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)",
+            "चार धाम (तीर्थ स्थल)) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)"
           ],
           "answerIndex": 0,
           "explanation": "धर्म, अर्थ, काम और मोक्ष के चार लक्ष्यों को «पुरुषार्थ-चतुष्टय» कहा जाता है।"
@@ -12514,9 +12514,9 @@
           "prompt": "'उदारचरितानां तु वसुधैव कुटुम्बकम्' (उदार हृदय वालों के लिए संपूर्ण पृथ्वी ही परिवार है) किस प्राचीन ग्रंथ का अमर सूत्र है?",
           "options": [
             "महोपनिषद / हितोपदेश (Mahopanishad / Hitopadesha - Sanskrit ancient philosophical texts)",
-            "रेलवे गाइड (यात्रा पुस्तिका) (Target expression (Hindi))",
-            "गणित बीजगणित (गणितीय सूत्र) (Target expression (Hindi))",
-            "दुकान बहीखाता (लेखा-जोखा) (Target expression (Hindi))"
+            "रेलवे गाइड (यात्रा पुस्तिका)) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)",
+            "गणित बीजगणित (गणितीय सूत्र)) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)",
+            "दुकान बहीखाता (लेखा-जोखा)) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)"
           ],
           "answerIndex": 0,
           "explanation": "«वसुधैव कुटुम्बकम्» का उद्घोष महोपनिषद और हितोपदेश का प्रसिद्ध श्लोक है।"
@@ -12530,9 +12530,9 @@
           "prompt": "भारतीय दर्शन, नीतिशास्त्र व पुरुषार्थ चिंतन (Indian Philosophy & Ethical Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "पुरुषार्थ-चतुष्टय का संतुलित संतुलन, आत्मज्ञान की खोज और 'वसुधैव कुटुम्बकम्' का नैतिक आदर्श ही भारतीय दर्शन को मानवता का शाश्वत पथप्रदर्शक बनाता है। (The harmonious balance of the Purusharthas, the quest for self-realization, and the ethical ideal of 'Vasudhaiva Kutumbakam' make Indian philosophy the eternal guide of humanity.)",
-            "भारतीय दर्शन का एकमात्र उद्देश्य लोगों को मूर्ख बनाना है। (Target expression (Hindi))",
-            "मोक्ष का अर्थ है कि किसी परीक्षा में नकल करके भाग जाना। (Target expression (Hindi))",
-            "नीतिशास्त्र को भूलकर केवल स्वार्थ साधना चाहिए। (Target expression (Hindi))"
+            "भारतीय दर्शन का एकमात्र उद्देश्य लोगों को मूर्ख बनाना है।) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)",
+            "मोक्ष का अर्थ है कि किसी परीक्षा में नकल करके भाग जाना।) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)",
+            "नीतिशास्त्र को भूलकर केवल स्वार्थ साधना चाहिए।) (Context: भारतीय नीतिशास्त्र, पुरुषार्थ-चतुष्)"
           ],
           "answerIndex": 0,
           "explanation": "«पुरुषार्थ-चतुष्टय का संतुलित संतुलन, आत्मज्ञान की खोज और 'वसुधैव कुटुम्बकम्'... शाश्वत पथप्रदर्शक बनाता है» भारतीय दर्शन का सर्वोत्कृष्ट वाक्य है।"
@@ -12581,9 +12581,9 @@
           "prompt": "भारत की राष्ट्रीय अंतरिक्ष एजेंसी का पूरा नाम क्या है?",
           "options": [
             "भारतीय अंतरिक्ष अनुसंधान संगठन / इसरो (ISRO - Indian Space Research Organisation)",
-            "भारतीय खाद्य निगम (अनाज भंडारण) (Target expression (Hindi))",
-            "भारतीय रेलवे निगम (ट्रेन संचालन) (Target expression (Hindi))",
-            "भारतीय डाक विभाग (डाक सेवा) (Target expression (Hindi))"
+            "भारतीय खाद्य निगम (अनाज भंडारण)) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)",
+            "भारतीय रेलवे निगम (ट्रेन संचालन)) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)",
+            "भारतीय डाक विभाग (डाक सेवा)) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)"
           ],
           "answerIndex": 0,
           "explanation": "भारत के अंतरिक्ष अभियानों और उपग्रह प्रक्षेपण का संचालन «भारतीय अंतरिक्ष अनुसंधान संगठन» (ISRO) करता है।"
@@ -12596,9 +12596,9 @@
           "prompt": "रॉकेट में अत्यधिक निम्न तापमान पर तरल हाइड्रोजन और तरल ऑक्सीजन ईंधन का उपयोग करने वाले इंजन को क्या कहते हैं?",
           "options": [
             "क्रायोजेनिक इंजन (Cryogenic Rocket Engine - Liquid hydrogen/oxygen super-cooled propellant system)",
-            "डीजल इंजन (ट्रक इंजन) (Target expression (Hindi))",
-            "भाप इंजन (कोयला इंजन) (Target expression (Hindi))",
-            "पेट्रोल इंजन (स्कूटर इंजन) (Target expression (Hindi))"
+            "डीजल इंजन (ट्रक इंजन)) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)",
+            "भाप इंजन (कोयला इंजन)) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)",
+            "पेट्रोल इंजन (स्कूटर इंजन)) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)"
           ],
           "answerIndex": 0,
           "explanation": "अत्यधिक शीतलन तापमान पर कार्य करने वाले उच्च दक्षता रॉकेट इंजन को «क्रायोजेनिक इंजन» (Cryogenic Engine) कहा जाता है।"
@@ -12612,9 +12612,9 @@
           "prompt": "भारतीय अंतरिक्ष अनुसंधान और रॉकेट विज्ञान (Space Research & Rocket Science) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "स्वदेशी प्रक्षेपण यानों, क्रायोजेनिक तकनीक और चंद्रयान-गगनयान अभियानों ने भारत को वैश्विक अंतरिक्ष अर्थव्यवस्था में अग्रणी शक्ति बना दिया है। (Indigenous launch vehicles, cryogenic technology, and the Chandrayaan-Gaganyaan missions have made India a leading power in the global space economy.)",
-            "रॉकेट केवल दीवाली पर चलाने वाले पटाखे होते हैं। (Target expression (Hindi))",
-            "इसरो का काम केवल सिनेमा हॉल के टिकट बेचना है। (Target expression (Hindi))",
-            "चंद्रमा पर पानी केवल नल खोलकर बहाया गया था। (Target expression (Hindi))"
+            "रॉकेट केवल दीवाली पर चलाने वाले पटाखे होते हैं।) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)",
+            "इसरो का काम केवल सिनेमा हॉल के टिकट बेचना है।) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)",
+            "चंद्रमा पर पानी केवल नल खोलकर बहाया गया था।) (Context: भारतीय अंतरिक्ष अनुसंधान (ISRO), चं)"
           ],
           "answerIndex": 0,
           "explanation": "«स्वदेशी प्रक्षेपण यानों, क्रायोजेनिक तकनीक और चंद्रयान-गगनयान अभियानों... अग्रणी शक्ति बना दिया है» अंतरिक्ष विज्ञान का मानक वाक्य है।"
@@ -12663,9 +12663,9 @@
           "prompt": "मानव मस्तिष्क के न्यूरॉन्स की कार्यप्रणाली से प्रेरित होकर बनाए गए कंप्यूटर एल्गोरिदम को क्या कहते हैं?",
           "options": [
             "कृत्रिम तंत्रिका नेटवर्क (Artificial Neural Networks - Multi-layered computational learning models)",
-            "टेलीफोन केबल नेटवर्क (तार कनेक्शन) (Target expression (Hindi))",
-            "सड़क परिवहन नेटवर्क (सड़कें) (Target expression (Hindi))",
-            "रेडियो प्रसारण नेटवर्क (रेडियो स्टेशन) (Target expression (Hindi))"
+            "टेलीफोन केबल नेटवर्क (तार कनेक्शन)) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)",
+            "सड़क परिवहन नेटवर्क (सड़कें)) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)",
+            "रेडियो प्रसारण नेटवर्क (रेडियो स्टेशन)) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)"
           ],
           "answerIndex": 0,
           "explanation": "मानव मस्तिष्क की भांति सीखने वाले कम्प्यूटेशनल मॉडल को «कृत्रिम तंत्रिका नेटवर्क» (Neural Network) कहते हैं।"
@@ -12678,9 +12678,9 @@
           "prompt": "क्वांटम कंप्यूटर में सूचना की मूल इकाई क्या होती है, जो सुपरपोजिशन में 0 और 1 दोनों अवस्थाओं में रह सकती है?",
           "options": [
             "क्यूबिट (Qubit / Quantum Bit - Fundamental unit of quantum computing information)",
-            "बाइनरी बाइट (पारंपरिक मेमोरी) (Target expression (Hindi))",
-            "किलोग्राम (वजन माप) (Target expression (Hindi))",
-            "सेंटीमीटर (दूरी माप) (Target expression (Hindi))"
+            "बाइनरी बाइट (पारंपरिक मेमोरी)) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)",
+            "किलोग्राम (वजन माप)) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)",
+            "सेंटीमीटर (दूरी माप)) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)"
           ],
           "answerIndex": 0,
           "explanation": "क्वांटम कंप्यूटिंग की आधारभूत सूचना इकाई को «क्यूबिट» (Qubit) कहा जाता है।"
@@ -12694,9 +12694,9 @@
           "prompt": "कृत्रिम बुद्धिमत्ता और क्वांटम तकनीक (AI & Quantum Computing) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान मानव जीवन को सुगम बनाने और जटिल वैज्ञानिक चुनौतियों को हल करने का नया क्षितिज है। (Research in responsible artificial intelligence and quantum computing is a new horizon for simplifying human life and solving complex scientific challenges.)",
-            "एआई का काम केवल रोबोट बनाकर लोगों से झगड़ा कराना है। (Target expression (Hindi))",
-            "क्वांटम का अर्थ केवल टीवी पर कार्टून देखना होता है। (Target expression (Hindi))",
-            "कंप्यूटर को पानी में डुबोकर धोना ही क्वांटम कंप्यूटिंग है। (Target expression (Hindi))"
+            "एआई का काम केवल रोबोट बनाकर लोगों से झगड़ा कराना है।) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)",
+            "क्वांटम का अर्थ केवल टीवी पर कार्टून देखना होता है।) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)",
+            "कंप्यूटर को पानी में डुबोकर धोना ही क्वांटम कंप्यूटिंग है।) (Context: कृत्रिम बुद्धिमत्ता, मशीन लर्निंग औ)"
           ],
           "answerIndex": 0,
           "explanation": "«जिम्मेदार कृत्रिम बुद्धिमत्ता और क्वांटम कंप्यूटिंग का अनुसंधान... नया क्षितिज है» आधुनिक प्रौद्योगिकी का प्रामाणिक वाक्य है।"
@@ -12745,9 +12745,9 @@
           "prompt": "डीएनए के किसी विशिष्ट खंड को सटीकता से काटने और बदलने वाली आणविक कैंची तकनीक का नाम क्या है?",
           "options": [
             "क्रिस्पर-कैस9 (CRISPR-Cas9 - Precision molecular gene editing tool)",
-            "दर्जी की कैंची (कपड़ा काटना) (Target expression (Hindi))",
-            "घास काटने की मशीन (बागवानी) (Target expression (Hindi))",
-            "लकड़ी की आरी (बढ़ई का औजार) (Target expression (Hindi))"
+            "दर्जी की कैंची (कपड़ा काटना)) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)",
+            "घास काटने की मशीन (बागवानी)) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)",
+            "लकड़ी की आरी (बढ़ई का औजार)) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)"
           ],
           "answerIndex": 0,
           "explanation": "सटीक जीन संपादन करने वाली आणविक तकनीक को «क्रिस्पर-कैस9» (CRISPR-Cas9) कहा जाता है।"
@@ -12760,9 +12760,9 @@
           "prompt": "किसी जीव के डीएनए में मौजूद सभी जीनों के क्रम का पूर्ण अध्ययन और मानचित्रण करने को क्या कहते हैं?",
           "options": [
             "जीनोम अनुक्रमण (Genome Sequencing - Complete mapping of an organism's DNA base pairs)",
-            "रक्तचाप नापना (दबाव जांच) (Target expression (Hindi))",
-            "आंखों का चश्मा (दृष्टि जांच) (Target expression (Hindi))",
-            "वजन तोलना (शारीरिक भार) (Target expression (Hindi))"
+            "रक्तचाप नापना (दबाव जांच)) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)",
+            "आंखों का चश्मा (दृष्टि जांच)) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)",
+            "वजन तोलना (शारीरिक भार)) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)"
           ],
           "answerIndex": 0,
           "explanation": "डीएनए के सभी क्षारों का क्रम निर्धारित करने की विधि को «जीनोम अनुक्रमण» (Genome Sequencing) कहते हैं।"
@@ -12776,9 +12776,9 @@
           "prompt": "जैव प्रौद्योगिकी और जीन संपादन (Biotechnology & Genetics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "जीन संपादन और पुनः संयोजक डीएनए तकनीक आनुवंशिक व्याधियों के उन्मूलन और कृषि उत्पादकता बढ़ाने में क्रांतिकारी वरदान सिद्ध हो रही हैं। (Gene editing and recombinant DNA technology are proving to be revolutionary boons in eradicating genetic disorders and enhancing agricultural productivity.)",
-            "बायोटेक्नोलॉजी का मतलब जंगल के पेड़ काटकर आग लगाना है। (Target expression (Hindi))",
-            "जीनोम सीक्वेंसिंग केवल जादू का मंतर पढ़ना होता है। (Target expression (Hindi))",
-            "टीकाकरण से हमेशा बचना चाहिए ताकि बीमारियां फैल सकें। (Target expression (Hindi))"
+            "बायोटेक्नोलॉजी का मतलब जंगल के पेड़ काटकर आग लगाना है।) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)",
+            "जीनोम सीक्वेंसिंग केवल जादू का मंतर पढ़ना होता है।) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)",
+            "टीकाकरण से हमेशा बचना चाहिए ताकि बीमारियां फैल सकें।) (Context: जैव प्रौद्योगिकी, जीन संपादन और संक)"
           ],
           "answerIndex": 0,
           "explanation": "«जीन संपादन और पुनः संयोजक डीएनए तकनीक... क्रांतिकारी वरदान सिद्ध हो रही हैं» जैव प्रौद्योगिकी का मानक वाक्य है।"
@@ -12827,9 +12827,9 @@
           "prompt": "सौर अथवा पवन ऊर्जा से पानी के इलेक्ट्रोलिसिस द्वारा उत्पादित प्रदूषण-मुक्त स्वच्छ हाइड्रोजन को क्या कहते हैं?",
           "options": [
             "हरित हाइड्रोजन / ग्रीन हाइड्रोजन (Green Hydrogen - Zero-carbon fuel produced via water electrolysis using renewables)",
-            "काला कोयला (जीवाश्म ईंधन) (Target expression (Hindi))",
-            "मिट्टी का तेल (केरोसिन) (Target expression (Hindi))",
-            "लकड़ी का बुरादा (चूल्हे का ईंधन) (Target expression (Hindi))"
+            "काला कोयला (जीवाश्म ईंधन)) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )",
+            "मिट्टी का तेल (केरोसिन)) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )",
+            "लकड़ी का बुरादा (चूल्हे का ईंधन)) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )"
           ],
           "answerIndex": 0,
           "explanation": "अक्षय ऊर्जा से जल के विद्युत अपघटन द्वारा बनने वाली स्वच्छ हाइड्रोजन को «हरित हाइड्रोजन» (Green Hydrogen) कहते हैं।"
@@ -12842,9 +12842,9 @@
           "prompt": "अति-सूक्ष्म पैमाने (1 से 100 नैनोमीटर) पर पदार्थों के हेरफेर और अनुप्रयोग के विज्ञान को क्या कहा जाता है?",
           "options": [
             "नैनो-प्रौद्योगिकी / नैनोटेक्नोलॉजी (Nanotechnology - Manipulation of matter at the nanoscale)",
-            "भवन निर्माण (सिविल इंजीनियरिंग) (Target expression (Hindi))",
-            "लकड़ी की नक्काशी (काष्ठ कला) (Target expression (Hindi))",
-            "कपड़ा सिलाई (दर्जी विज्ञान) (Target expression (Hindi))"
+            "भवन निर्माण (सिविल इंजीनियरिंग)) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )",
+            "लकड़ी की नक्काशी (काष्ठ कला)) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )",
+            "कपड़ा सिलाई (दर्जी विज्ञान)) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )"
           ],
           "answerIndex": 0,
           "explanation": "परमाणु और आणविक स्तर पर काम करने वाली सूक्ष्म तकनीक को «नैनो-प्रौद्योगिकी» (Nanotechnology) कहा जाता है।"
@@ -12858,9 +12858,9 @@
           "prompt": "नवीकरणीय ऊर्जा और नैनो-प्रौद्योगिकी (Green Energy & Nanotechnology) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "हरित हाइड्रोजन, सेमीकंडक्टर निर्माण और नैनो-प्रौद्योगिकी का समन्वय ही 21वीं सदी में सतत आर्थिक विकास और ऊर्जा आत्मनिर्भरता की कुंजी है। (The synthesis of green hydrogen, semiconductor manufacturing, and nanotechnology is the key to sustainable economic development and energy independence in the 21st century.)",
-            "ऊर्जा बचाने के लिए सभी फैक्ट्रियां बंद कर देनी चाहिए। (Target expression (Hindi))",
-            "ग्रीन हाइड्रोजन केवल हरे रंग का एक कपड़ा होता है। (Target expression (Hindi))",
-            "नैनो-प्रौद्योगिकी का अर्थ केवल खिलौना बनाना है। (Target expression (Hindi))"
+            "ऊर्जा बचाने के लिए सभी फैक्ट्रियां बंद कर देनी चाहिए।) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )",
+            "ग्रीन हाइड्रोजन केवल हरे रंग का एक कपड़ा होता है।) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )",
+            "नैनो-प्रौद्योगिकी का अर्थ केवल खिलौना बनाना है।) (Context: नवीकरणीय ऊर्जा, हाइड्रोजन फ्यूल और )"
           ],
           "answerIndex": 0,
           "explanation": "«हरित हाइड्रोजन, सेमीकंडक्टर निर्माण और नैनो-प्रौद्योगिकी का समन्वय... ऊर्जा आत्मनिर्भरता की कुंजी है» हरित ऊर्जा का मानक वाक्य है।"
@@ -12909,9 +12909,9 @@
           "prompt": "भारतीय संविधान के किस अनुच्छेद में वैज्ञानिक दृष्टिकोण, मानवतावाद और सुधार की भावना के विकास को नागरिकों का मूल कर्तव्य बताया गया है?",
           "options": [
             "अनुच्छेद 51(क)(ज) (Article 51A(h) - Fundamental duty to develop scientific temper and humanism)",
-            "अनुच्छेद 1 (संघ का नाम) (Target expression (Hindi))",
-            "अनुच्छेद 14 (समानता का अधिकार) (Target expression (Hindi))",
-            "अनुच्छेद 21 (प्राण व दैहिक स्वतंत्रता) (Target expression (Hindi))"
+            "अनुच्छेद 1 (संघ का नाम)) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )",
+            "अनुच्छेद 14 (समानता का अधिकार)) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )",
+            "अनुच्छेद 21 (प्राण व दैहिक स्वतंत्रता)) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )"
           ],
           "answerIndex": 0,
           "explanation": "संविधान के «अनुच्छेद 51(क)(ज)» में वैज्ञानिक दृष्टिकोण का विकास प्रत्येक नागरिक का मूल कर्तव्य है।"
@@ -12924,9 +12924,9 @@
           "prompt": "प्रकाश प्रकीर्णन के विख्यात 'रमन प्रभाव' (Raman Effect) की खोज हेतु भौतिकी का नोबेल पुरस्कार प्राप्त करने वाले प्रथम भारतीय वैज्ञानिक कौन थे?",
           "options": [
             "सर सी. वी. रमन (Sir C. V. Raman - Nobel Laureate in Physics 1930 for Raman Scattering)",
-            "रवींद्रनाथ टैगोर (साहित्य नोबेल) (Target expression (Hindi))",
-            "अमर्त्य सेन (अर्थशास्त्र नोबेल) (Target expression (Hindi))",
-            "कैलाश सत्यार्थी (शांति नोबेल) (Target expression (Hindi))"
+            "रवींद्रनाथ टैगोर (साहित्य नोबेल)) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )",
+            "अमर्त्य सेन (अर्थशास्त्र नोबेल)) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )",
+            "कैलाश सत्यार्थी (शांति नोबेल)) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )"
           ],
           "answerIndex": 0,
           "explanation": "1930 में भौतिकी का नोबेल पुरस्कार जीतने वाले महान भारतीय वैज्ञानिक «सर सी. वी. रमन» थे।"
@@ -12940,9 +12940,9 @@
           "prompt": "वैज्ञानिक अनुसंधान और नवाचार नीति (Scientific Research & Innovation Policy) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण और अत्याधुनिक नवाचार ही भारत को आत्मनिर्भर व विश्वगुरु बनाने का सशक्त आधार हैं। (The national proliferation of scientific temperament, consolidation of fundamental research, and cutting-edge innovation are the potent foundations for making India self-reliant and a global leader.)",
-            "वैज्ञानिक अनुसंधान पर पैसा खर्च करना समय और धन की बर्बादी है। (Target expression (Hindi))",
-            "विज्ञान की पुस्तकों को जलाकर केवल अंधविश्वास मानना चाहिए। (Target expression (Hindi))",
-            "राष्ट्रीय विज्ञान दिवस पर वैज्ञानिकों का उपहास उड़ाना चाहिए। (Target expression (Hindi))"
+            "वैज्ञानिक अनुसंधान पर पैसा खर्च करना समय और धन की बर्बादी है।) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )",
+            "विज्ञान की पुस्तकों को जलाकर केवल अंधविश्वास मानना चाहिए।) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )",
+            "राष्ट्रीय विज्ञान दिवस पर वैज्ञानिकों का उपहास उड़ाना चाहिए।) (Context: वैज्ञानिक दृष्टिकोण, अनुसंधान नीति )"
           ],
           "answerIndex": 0,
           "explanation": "«वैज्ञानिक दृष्टिकोण का राष्ट्रीय प्रसार, मौलिक अनुसंधान का सुदृढ़ीकरण... सशक्त आधार हैं» वैज्ञानिक चेतना का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -12991,9 +12991,9 @@
           "prompt": "1954 में भारत और चीन के मध्य हुए शांतिपूर्ण सह-अस्तित्व और अहस्तक्षेप के पांच सिद्धांतों को क्या नाम दिया गया?",
           "options": [
             "पंचशील सिद्धांत (Panchsheel Principles - Five Principles of Peaceful Coexistence)",
-            "पंचतंत्र की कहानियां (कथा साहित्य) (Target expression (Hindi))",
-            "पंचामृत (धार्मिक भोग) (Target expression (Hindi))",
-            "पंचायती राज (ग्राम शासन) (Target expression (Hindi))"
+            "पंचतंत्र की कहानियां (कथा साहित्य)) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)",
+            "पंचामृत (धार्मिक भोग)) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)",
+            "पंचायती राज (ग्राम शासन)) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)"
           ],
           "answerIndex": 0,
           "explanation": "शांतिपूर्ण सह-अस्तित्व और संप्रभुता के पांच विदेश नीति सिद्धांतों को «पंचशील» (Panchsheel) कहा जाता है।"
@@ -13006,9 +13006,9 @@
           "prompt": "किसी भी महाशक्ति गुट का पिछलग्गू बने बिना स्वतंत्र रूप से अपने राष्ट्रीय हित में विदेश नीति संचालित करने को क्या कहते हैं?",
           "options": [
             "सामरिक स्वायत्तता (Strategic Autonomy - Independent strategic decision-making in national interest)",
-            "सैन्य अधीनता (गुलामी) (Target expression (Hindi))",
-            "विदेशी गुलामी (परतंत्रता) (Target expression (Hindi))",
-            "आर्थिक दिवालियापन (कंगाली) (Target expression (Hindi))"
+            "सैन्य अधीनता (गुलामी)) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)",
+            "विदेशी गुलामी (परतंत्रता)) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)",
+            "आर्थिक दिवालियापन (कंगाली)) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)"
           ],
           "answerIndex": 0,
           "explanation": "स्वतंत्र निर्णय लेने की भू-राजनीतिक संप्रभुता को «सामरिक स्वायत्तता» (Strategic Autonomy) कहते हैं।"
@@ -13022,9 +13022,9 @@
           "prompt": "गुटनिरपेक्षता और सामरिक स्वायत्तता (NAM & Strategic Autonomy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "पंचशील के आदर्श, गुटनिरपेक्षता की विरासत और सामरिक स्वायत्तता का दृढ़ संकल्प ही भारत को बहुध्रुवीय विश्व में एक स्वतंत्र व सम्मानित महाशक्ति बनाता है। (The ideals of Panchsheel, the legacy of non-alignment, and the steadfast resolve for strategic autonomy make India an independent and respected power in a multipolar world.)",
-            "विदेश नीति का अर्थ केवल विदेशों में जाकर छुट्टियां मनाना है। (Target expression (Hindi))",
-            "भारत को अपनी सारी जमीन दूसरे देशों को दान कर देनी चाहिए। (Target expression (Hindi))",
-            "सामरिक स्वायत्तता को समाप्त करके किसी का गुलाम बन जाना चाहिए। (Target expression (Hindi))"
+            "विदेश नीति का अर्थ केवल विदेशों में जाकर छुट्टियां मनाना है।) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)",
+            "भारत को अपनी सारी जमीन दूसरे देशों को दान कर देनी चाहिए।) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)",
+            "सामरिक स्वायत्तता को समाप्त करके किसी का गुलाम बन जाना चाहिए।) (Context: गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत)"
           ],
           "answerIndex": 0,
           "explanation": "«पंचशील के आदर्श, गुटनिरपेक्षता की विरासत और सामरिक स्वायत्तता... सम्मानित महाशक्ति बनाता है» विदेश नीति का मानक वाक्य है।"
@@ -13073,9 +13073,9 @@
           "prompt": "बंगाल की खाड़ी के तटीय देशों के बीच आर्थिक और तकनीकी सहयोग को बढ़ावा देने वाले सात-सदस्यीय संगठन का क्या नाम है?",
           "options": [
             "बिम्सटेक / BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)",
-            "नाटो (सैन्य संगठन) (Target expression (Hindi))",
-            "यूरोपीय संघ (यूरोप का संघ) (Target expression (Hindi))",
-            "ओपेक (तेल निर्यातक देश) (Target expression (Hindi))"
+            "नाटो (सैन्य संगठन)) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)",
+            "यूरोपीय संघ (यूरोप का संघ)) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)",
+            "ओपेक (तेल निर्यातक देश)) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)"
           ],
           "answerIndex": 0,
           "explanation": "बंगाल की खाड़ी के तटीय दक्षिण और दक्षिण-पूर्व एशियाई देशों के संगठन को «बिम्सटेक» (BIMSTEC) कहते हैं।"
@@ -13088,9 +13088,9 @@
           "prompt": "संकट और आपदा के समय पड़ोसी देशों को सर्वप्रथम सहायता पहुंचाने की भारतीय विदेश नीति की प्राथमिकता को क्या कहते हैं?",
           "options": [
             "पड़ोसी प्रथम नीति (Neighbourhood First Policy - Priority development partnership and disaster aid for immediate neighbors)",
-            "दूरस्थ तटस्थता (दूरी बनाए रखना) (Target expression (Hindi))",
-            "आक्रामक घेराबंदी (घेरा डालना) (Target expression (Hindi))",
-            "सीमा सील नीति (सीमा बंद करना) (Target expression (Hindi))"
+            "दूरस्थ तटस्थता (दूरी बनाए रखना)) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)",
+            "आक्रामक घेराबंदी (घेरा डालना)) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)",
+            "सीमा सील नीति (सीमा बंद करना)) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)"
           ],
           "answerIndex": 0,
           "explanation": "निकटवर्ती पड़ोसियों को सर्वोच्च प्राथमिकता देने की नीति को «पड़ोसी प्रथम नीति» (Neighbourhood First Policy) कहा जाता है।"
@@ -13104,9 +13104,9 @@
           "prompt": "पड़ोसी प्रथम नीति और क्षेत्रीय मंच (Neighbourhood First & Regional Diplomacy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "पड़ोसी प्रथम नीति, बिम्सटेक सहयोग और मजबूत संपर्क परियोजनाएं दक्षिण एशिया में शांति, समृद्धि और साझा विकास की आधारशिला हैं। (The Neighbourhood First policy, BIMSTEC cooperation, and robust connectivity projects are the cornerstone of peace, prosperity, and shared development in South Asia.)",
-            "पड़ोसी देशों से सभी प्रकार के रिश्ते तोड़कर युद्ध करना चाहिए। (Target expression (Hindi))",
-            "बिम्सटेक का अर्थ केवल नाव चलाने का खेल होता है। (Target expression (Hindi))",
-            "सार्क का काम केवल समुद्र में मछलियां पकड़ना है। (Target expression (Hindi))"
+            "पड़ोसी देशों से सभी प्रकार के रिश्ते तोड़कर युद्ध करना चाहिए।) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)",
+            "बिम्सटेक का अर्थ केवल नाव चलाने का खेल होता है।) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)",
+            "सार्क का काम केवल समुद्र में मछलियां पकड़ना है।) (Context: पड़ोसी प्रथम नीति, बिम्सटेक और सार्)"
           ],
           "answerIndex": 0,
           "explanation": "«पड़ोसी प्रथम नीति, बिम्सटेक सहयोग और मजबूत संपर्क परियोजनाएं... आधारशिला हैं» क्षेत्रीय विदेश नीति का मानक वाक्य है।"
@@ -13237,9 +13237,9 @@
           "prompt": "एशिया, अफ्रीका और लैटिन अमेरिका के विकासशील और अल्पविकसित देशों के समूह को वैश्विक कूटनीति में क्या संज्ञा दी गई है?",
           "options": [
             "ग्लोबल साउथ (Global South - Developing, emerging, and under-represented nations of the world)",
-            "उत्तरी ध्रुव (आर्कटिक क्षेत्र) (Target expression (Hindi))",
-            "अंतरिक्ष केंद्र (नासा प्रयोगशाला) (Target expression (Hindi))",
-            "अंटार्कटिका महाद्वीप (बर्फ का इलाका) (Target expression (Hindi))"
+            "उत्तरी ध्रुव (आर्कटिक क्षेत्र)) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)",
+            "अंतरिक्ष केंद्र (नासा प्रयोगशाला)) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)",
+            "अंटार्कटिका महाद्वीप (बर्फ का इलाका)) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)"
           ],
           "answerIndex": 0,
           "explanation": "विकासशील और उभरते देशों के समूह को अंतरराष्ट्रीय कूटनीति में «ग्लोबल साउथ» (Global South) कहा जाता है।"
@@ -13252,9 +13252,9 @@
           "prompt": "ब्राजील, रूस, भारत, चीन और दक्षिण अफ्रीका के नेतृत्व वाले उभरती अर्थव्यवस्थाओं के शक्तिशाली आर्थिक-राजनीतिक मंच का क्या नाम है?",
           "options": [
             "ब्रिक्स / BRICS (Grouping of major emerging national economies)",
-            "इंटरपोल (अंतरराष्ट्रीय पुलिस) (Target expression (Hindi))",
-            "फीफा (फुटबॉल संस्था) (Target expression (Hindi))",
-            "नाटो (पश्चिमी सैन्य गठबंधन) (Target expression (Hindi))"
+            "इंटरपोल (अंतरराष्ट्रीय पुलिस)) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)",
+            "फीफा (फुटबॉल संस्था)) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)",
+            "नाटो (पश्चिमी सैन्य गठबंधन)) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)"
           ],
           "answerIndex": 0,
           "explanation": "उभरती प्रमुख अर्थव्यवस्थाओं के समूह को «ब्रिक्स» (BRICS) कहा जाता है।"
@@ -13268,9 +13268,9 @@
           "prompt": "ग्लोबल साउथ और बहुपक्षीय सुधार (Global South & Multilateral Reform) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "ग्लोबल साउथ का सशक्त नेतृत्व, समावेशी बहुपक्षवाद और संयुक्त राष्ट्र सुरक्षा परिषद में सुधार ही एक न्यायसंगत व संतुलित विश्व व्यवस्था की गारंटी हैं। (Empowered leadership of the Global South, inclusive multilateralism, and UNSC reform are the guarantee of a just and balanced world order.)",
-            "विकासशील देशों पर भारी कर्ज लादकर उन्हें बर्बाद कर देना चाहिए। (Target expression (Hindi))",
-            "ब्रिक्स का काम केवल एक दूसरे पर बम गिराना है। (Target expression (Hindi))",
-            "संयुक्त राष्ट्र को बंद कर देना चाहिए ताकि पूरी दुनिया में अराजकता फैले। (Target expression (Hindi))"
+            "विकासशील देशों पर भारी कर्ज लादकर उन्हें बर्बाद कर देना चाहिए।) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)",
+            "ब्रिक्स का काम केवल एक दूसरे पर बम गिराना है।) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)",
+            "संयुक्त राष्ट्र को बंद कर देना चाहिए ताकि पूरी दुनिया में अराजकता फैले।) (Context: ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच)"
           ],
           "answerIndex": 0,
           "explanation": "«ग्लोबल साउथ का सशक्त नेतृत्व, समावेशी बहुपक्षवाद और संयुक्त राष्ट्र सुरक्षा परिषद में सुधार... न्यायसंगत व्यवस्था की गारंटी हैं» बहुपक्षीय कूटनीति का मानक वाक्य है।"
@@ -13319,9 +13319,9 @@
           "prompt": "प्राचीन भारतीय कूटनीतिज्ञ कौटिल्य द्वारा प्रतिपादित पड़ोसी राज्यों के भू-राजनीतिक संबंधों के सिद्धांत को क्या कहते हैं?",
           "options": [
             "मंडल सिद्धांत (Mandala Theory - Ancient geopolitical doctrine of circle of neighboring and distant states)",
-            "सौर मंडल (ग्रह-नक्षत्र) (Target expression (Hindi))",
-            "वायु मंडल (हवा की परत) (Target expression (Hindi))",
-            "तारामंडल (आकाशगंगा) (Target expression (Hindi))"
+            "सौर मंडल (ग्रह-नक्षत्र)) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)",
+            "वायु मंडल (हवा की परत)) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)",
+            "तारामंडल (आकाशगंगा)) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)"
           ],
           "answerIndex": 0,
           "explanation": "कौटिल्य के अर्थशास्त्र में राज्यों के आपसी भू-राजनीतिक संबंधों के सिद्धांत को «मंडल सिद्धांत» (Mandala Theory) कहा जाता है।"
@@ -13334,9 +13334,9 @@
           "prompt": "समकालीन अंतरराष्ट्रीय कूटनीति में भारत की सार्वभौमिक मित्रता, शांतिदूत और संकटमोचक की छवि को किस शब्द से व्यक्त किया गया है?",
           "options": [
             "विश्वबंधु (Vishwa-Bandhu - Global Friend / Trusted bridge-builder and partner to all humanity)",
-            "युद्धोन्मादी (लड़ाकू) (Target expression (Hindi))",
-            "साम्राज्यवादी (विस्तारवादी) (Target expression (Hindi))",
-            "अलगाववादी (तन्हाई पसंद) (Target expression (Hindi))"
+            "युद्धोन्मादी (लड़ाकू)) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)",
+            "साम्राज्यवादी (विस्तारवादी)) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)",
+            "अलगाववादी (तन्हाई पसंद)) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)"
           ],
           "answerIndex": 0,
           "explanation": "समस्त विश्व के कल्याणकारी मित्र और निष्पक्ष सेतु के रूप में भारत की कूटनीतिक भूमिका को «विश्वबंधु» कहा जाता है।"
@@ -13350,9 +13350,9 @@
           "prompt": "भारतीय विदेश नीति और कूटनीतिक दर्शन (Foreign Policy & Diplomatic Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "कौटिल्य के यथार्थवाद, पंचशील के शांति आदर्शों, सामरिक स्वायत्तता और 'विश्वबंधु' भावना का समन्वय ही भारतीय विदेश नीति को वैश्विक व्यवस्था का मार्गदर्शक स्तंभ बनाता है। (The synthesis of Kautilyan realism, Panchsheel peace ideals, strategic autonomy, and the 'Vishwa-Bandhu' spirit makes Indian foreign policy a guiding pillar of the global order.)",
-            "कूटनीति का अर्थ केवल दूसरे देशों के राजदूतों को अपमानित करना है। (Target expression (Hindi))",
-            "भारत को सभी अंतरराष्ट्रीय संधियां फाड़कर युद्ध की घोषणा कर देनी चाहिए। (Target expression (Hindi))",
-            "अर्थशास्त्र पुस्तक को जला देना चाहिए। (Target expression (Hindi))"
+            "कूटनीति का अर्थ केवल दूसरे देशों के राजदूतों को अपमानित करना है।) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)",
+            "भारत को सभी अंतरराष्ट्रीय संधियां फाड़कर युद्ध की घोषणा कर देनी चाहिए।) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)",
+            "अर्थशास्त्र पुस्तक को जला देना चाहिए।) (Context: विदेश नीति सिद्धांत, कूटनीतिक संतुल)"
           ],
           "answerIndex": 0,
           "explanation": "«कौटिल्य के यथार्थवाद, पंचशील के शांति आदर्शों, सामरिक स्वायत्तता और 'विश्वबंधु' भावना का समन्वय... मार्गदर्शक स्तंभ बनाता है» भारतीय कूटनीति का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -13401,9 +13401,9 @@
           "prompt": "राजनयिकों को मेजबान देश में कानूनी मुकदमों और गिरफ्तारी से सुरक्षा प्रदान करने वाले अंतरराष्ट्रीय सिद्धांत को क्या कहते हैं?",
           "options": [
             "राजनयिक उन्मुक्ति (Diplomatic Immunity - Protection granted to diplomats under Vienna Convention)",
-            "स्थानीय नागरिकता (नागरिक अधिकार) (Target expression (Hindi))",
-            "जमानत याचिका (अदालत अर्जी) (Target expression (Hindi))",
-            "ड्राइविंग लाइसेंस (गाड़ी चलाने की अनुमति) (Target expression (Hindi))"
+            "स्थानीय नागरिकता (नागरिक अधिकार)) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )",
+            "जमानत याचिका (अदालत अर्जी)) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )",
+            "ड्राइविंग लाइसेंस (गाड़ी चलाने की अनुमति)) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )"
           ],
           "answerIndex": 0,
           "explanation": "कूटनीतिज्ञों को मेजबान देश के मुकदमों से मिलने वाले विधिक संरक्षण को «राजनयिक उन्मुक्ति» (Diplomatic Immunity) कहते हैं।"
@@ -13416,9 +13416,9 @@
           "prompt": "नवनियुक्त राजदूत द्वारा मेजबान राष्ट्र के राष्ट्रपति को सौंपा जाने वाला आधिकारिक नियुक्ति-पत्र क्या कहलाता है?",
           "options": [
             "प्रत्यय-पत्र (Letter of Credence / Credentials - Formal ambassadorial letter of appointment)",
-            "पासपोर्ट (यात्रा दस्तावेज) (Target expression (Hindi))",
-            "राशन कार्ड (अनाज वितरण पत्र) (Target expression (Hindi))",
-            "विवाह प्रमाण पत्र (वैवाहिक दस्तावेज) (Target expression (Hindi))"
+            "पासपोर्ट (यात्रा दस्तावेज)) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )",
+            "राशन कार्ड (अनाज वितरण पत्र)) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )",
+            "विवाह प्रमाण पत्र (वैवाहिक दस्तावेज)) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )"
           ],
           "answerIndex": 0,
           "explanation": "राजदूत की नियुक्ति और आधिकारिक अधिकार के पत्र को «प्रत्यय-पत्र» (Credentials) कहा जाता है।"
@@ -13432,9 +13432,9 @@
           "prompt": "राजनयिक शिष्टाचार और वियना अभिसमय (Diplomatic Protocols & Immunity) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "वियना अभिसमय के नियमों, राजनयिक उन्मुक्ति और दूतावास परिसर की संप्रभु मर्यादा का निष्ठापूर्वक पालन ही संप्रभु राष्ट्रों के पारस्परिक विश्वास का आधार है। (Faithful observance of the rules of the Vienna Convention, diplomatic immunity, and the sovereign sanctity of embassy premises is the foundation of mutual trust among sovereign nations.)",
-            "विदेशी दूतावासों पर हमला करके उनके राजनयिकों को बंदी बना लेना चाहिए। (Target expression (Hindi))",
-            "प्रत्यय-पत्र का अर्थ केवल एक सादा खाली कागज होता है। (Target expression (Hindi))",
-            "राजनयिक उन्मुक्ति का मतलब है कि राजनयिक को कहीं भी जाने की मनाही है। (Target expression (Hindi))"
+            "विदेशी दूतावासों पर हमला करके उनके राजनयिकों को बंदी बना लेना चाहिए।) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )",
+            "प्रत्यय-पत्र का अर्थ केवल एक सादा खाली कागज होता है।) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )",
+            "राजनयिक उन्मुक्ति का मतलब है कि राजनयिक को कहीं भी जाने की मनाही है।) (Context: राजनयिक उन्मुक्ति, वियना अभिसमय और )"
           ],
           "answerIndex": 0,
           "explanation": "«वियना अभिसमय के नियमों, राजनयिक उन्मुक्ति और दूतावास परिसर की संप्रभु मर्यादा का निष्ठापूर्वक पालन... पारस्परिक विश्वास का आधार है» राजनयिक शिष्टाचार का मानक वाक्य है।"
@@ -13483,9 +13483,9 @@
           "prompt": "दूसरे देश में भागे हुए अपराधी को मुकदमे हेतु स्वदेश वापस लाने के द्विपक्षीय कानूनी समझौते को क्या कहते हैं?",
           "options": [
             "प्रत्यर्पण संधि (Extradition Treaty - Bilateral legal agreement for handing over fugitive offenders)",
-            "पर्यटन समझौता (घूमने-फिरने की संधि) (Target expression (Hindi))",
-            "सांस्कृतिक आदान-प्रदान (नृत्य-संगीत समझौता) (Target expression (Hindi))",
-            "खेल प्रतियोगिता समझौता (मैच आयोजन) (Target expression (Hindi))"
+            "पर्यटन समझौता (घूमने-फिरने की संधि)) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)",
+            "सांस्कृतिक आदान-प्रदान (नृत्य-संगीत समझौता)) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)",
+            "खेल प्रतियोगिता समझौता (मैच आयोजन)) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)"
           ],
           "answerIndex": 0,
           "explanation": "विदेशी भूमि से अपराधियों को कानूनी तौर पर वापस बुलाने की संधि को «प्रत्यर्पण संधि» (Extradition Treaty) कहते हैं।"
@@ -13498,9 +13498,9 @@
           "prompt": "किसी अंतरराष्ट्रीय संधि को देश में पूर्णतः वैध और बाध्यकारी बनाने हेतु संसद अथवा राष्ट्राध्यक्ष की आधिकारिक स्वीकृति को क्या कहते हैं?",
           "options": [
             "अनुसमर्थन / पुष्टि (Ratification - Official legal confirmation of an international treaty by head of state/legislature)",
-            "अस्वीकृति पत्र (खारिज करना) (Target expression (Hindi))",
-            "त्याग पत्र (इस्तीफा) (Target expression (Hindi))",
-            "विज्ञापन पत्र (प्रचार सामग्री) (Target expression (Hindi))"
+            "अस्वीकृति पत्र (खारिज करना)) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)",
+            "त्याग पत्र (इस्तीफा)) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)",
+            "विज्ञापन पत्र (प्रचार सामग्री)) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)"
           ],
           "answerIndex": 0,
           "explanation": "संधि को लागू करने की औपचारिक संवैधानिक पुष्टि को «अनुसमर्थन» (Ratification) कहा जाता है।"
@@ -13514,9 +13514,9 @@
           "prompt": "द्विपक्षीय संधियों और प्रत्यर्पण (Treaties & Extradition) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "द्विपक्षीय संधियों का समयबद्ध अनुसमर्थन, सुदृढ़ प्रत्यर्पण समझौते और द्वैध कराधान निवारण तंत्र अंतरराष्ट्रीय कानून के अंतर्गत आर्थिक व सुरक्षा सहयोग को सशक्त बनाते हैं। (Timely ratification of bilateral treaties, robust extradition pacts, and DTAA mechanisms strengthen economic and security cooperation under international law.)",
-            "संधियों पर हस्ताक्षर करके तुरंत उन्हें फाड़कर फेंक देना चाहिए। (Target expression (Hindi))",
-            "प्रत्यर्पण का अर्थ है कि अपराधी को विदेश में मुफ्त होटल में ठहराना। (Target expression (Hindi))",
-            "टैक्स चोरी करने वाले अपराधियों को इनाम देना चाहिए। (Target expression (Hindi))"
+            "संधियों पर हस्ताक्षर करके तुरंत उन्हें फाड़कर फेंक देना चाहिए।) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)",
+            "प्रत्यर्पण का अर्थ है कि अपराधी को विदेश में मुफ्त होटल में ठहराना।) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)",
+            "टैक्स चोरी करने वाले अपराधियों को इनाम देना चाहिए।) (Context: द्विपक्षीय संधियां, प्रत्यर्पण समझौ)"
           ],
           "answerIndex": 0,
           "explanation": "«द्विपक्षीय संधियों का समयबद्ध अनुसमर्थन, सुदृढ़ प्रत्यर्पण समझौते और द्वैध कराधान निवारण तंत्र... सशक्त बनाते हैं» अंतरराष्ट्रीय कानून का मानक वाक्य है।"
@@ -13565,9 +13565,9 @@
           "prompt": "तट से 200 समुद्री मील (Nautical Miles) तक के क्षेत्र को क्या कहते हैं, जहाँ तटीय देश को संसाधनों के दोहन का विशेष अधिकार होता है?",
           "options": [
             "अनन्य आर्थिक क्षेत्र / ईईजेड (EEZ - Exclusive Economic Zone under UNCLOS)",
-            "शहरी नगर निगम क्षेत्र (नगरपालिका) (Target expression (Hindi))",
-            "राष्ट्रीय राजमार्ग (सड़क क्षेत्र) (Target expression (Hindi))",
-            "जंगल सफारी क्षेत्र (वन्यजीव अभयारण्य) (Target expression (Hindi))"
+            "शहरी नगर निगम क्षेत्र (नगरपालिका)) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)",
+            "राष्ट्रीय राजमार्ग (सड़क क्षेत्र)) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)",
+            "जंगल सफारी क्षेत्र (वन्यजीव अभयारण्य)) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)"
           ],
           "answerIndex": 0,
           "explanation": "200 नॉटिकल मील तक के विशेष समुद्री आर्थिक क्षेत्र को «अनन्य आर्थिक क्षेत्र» (EEZ) कहा जाता है।"
@@ -13580,9 +13580,9 @@
           "prompt": "संयुक्त राष्ट्र का प्रमुख न्यायिक अंग कौन सा है, जो हेग (नीदरलैंड) में स्थित है और संप्रभु राष्ट्रों के विधिक विवादों का फैसला करता है?",
           "options": [
             "अंतरराष्ट्रीय न्यायालय (ICJ - International Court of Justice at The Hague)",
-            "जिला सत्र न्यायालय (स्थानीय अदालत) (Target expression (Hindi))",
-            "उपभोक्ता फोरम (ग्राहक शिकायत मंच) (Target expression (Hindi))",
-            "ग्राम पंचायत (ग्रामीण सभा) (Target expression (Hindi))"
+            "जिला सत्र न्यायालय (स्थानीय अदालत)) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)",
+            "उपभोक्ता फोरम (ग्राहक शिकायत मंच)) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)",
+            "ग्राम पंचायत (ग्रामीण सभा)) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)"
           ],
           "answerIndex": 0,
           "explanation": "हेग स्थित संयुक्त राष्ट्र की सर्वोच्च अदालत को «अंतरराष्ट्रीय न्यायालय» (ICJ) कहा जाता है।"
@@ -13596,9 +13596,9 @@
           "prompt": "अंतरराष्ट्रीय न्यायालय और समुद्री कानून (ICJ & Maritime Law) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "संयुक्त राष्ट्र समुद्री कानून अभिसमय (अनक्लॉस) और अंतरराष्ट्रीय न्यायालय के विधिक निर्णयों का निष्ठावान सम्मान ही वैश्विक सागरों में शांति, सुरक्षा और नौवहन स्वतंत्रता का आधार है। (Faithful respect for UNCLOS and the legal rulings of the International Court of Justice is the basis of peace, security, and freedom of navigation across global oceans.)",
-            "समुद्र में समुद्री डाकुओं को बढ़ावा देना चाहिए। (Target expression (Hindi))",
-            "अंतरराष्ट्रीय न्यायालय के आदेशों को रद्दी की टोकरी में फेंक देना चाहिए। (Target expression (Hindi))",
-            "अनक्लॉस का मतलब समुद्र में प्लास्टिक फेंकने की अनुमति है। (Target expression (Hindi))"
+            "समुद्र में समुद्री डाकुओं को बढ़ावा देना चाहिए।) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)",
+            "अंतरराष्ट्रीय न्यायालय के आदेशों को रद्दी की टोकरी में फेंक देना चाहिए।) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)",
+            "अनक्लॉस का मतलब समुद्र में प्लास्टिक फेंकने की अनुमति है।) (Context: अंतर्राष्ट्रीय न्यायालय, हेग न्याया)"
           ],
           "answerIndex": 0,
           "explanation": "«संयुक्त राष्ट्र समुद्री कानून अभिसमय (अनक्लॉस) और अंतरराष्ट्रीय न्यायालय के विधिक निर्णयों का निष्ठावान सम्मान... स्वतंत्रता का आधार है» समुद्री न्यायशास्त्र का मानक वाक्य है।"
@@ -13647,9 +13647,9 @@
           "prompt": "वैश्विक तापमान वृद्धि को 1.5 डिग्री सेल्सियस तक सीमित रखने हेतु 2015 में हुआ ऐतिहासिक अंतरराष्ट्रीय जलवायु समझौता कौन सा है?",
           "options": [
             "पेरिस जलवायु समझौता / कॉप-21 (Paris Climate Agreement - Historic 2015 global climate treaty under UNFCCC)",
-            "वर्साय की संधि (प्रथम विश्व युद्ध समाप्ति) (Target expression (Hindi))",
-            "शिमला समझौता (युद्धविराम) (Target expression (Hindi))",
-            "ताशकंद समझौता (शांति संधि) (Target expression (Hindi))"
+            "वर्साय की संधि (प्रथम विश्व युद्ध समाप्ति)) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)",
+            "शिमला समझौता (युद्धविराम)) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)",
+            "ताशकंद समझौता (शांति संधि)) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)"
           ],
           "answerIndex": 0,
           "explanation": "2015 के ऐतिहासिक अंतरराष्ट्रीय जलवायु परिवर्तन समझौते को «पेरिस समझौता» (Paris Agreement) कहा जाता है।"
@@ -13662,9 +13662,9 @@
           "prompt": "भारत और फ्रांस की संयुक्त पहल से स्थापित अंतरराष्ट्रीय संगठन जिसका मुख्यालय गुरुग्राम (भारत) में है, उसका क्या नाम है?",
           "options": [
             "अंतरराष्ट्रीय सौर गठबंधन / आईएसए (International Solar Alliance - Global platform promoting solar energy)",
-            "अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी) (Target expression (Hindi))",
-            "विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) (Target expression (Hindi))",
-            "अंतरराष्ट्रीय श्रम संगठन (आईएलओ) (Target expression (Hindi))"
+            "अंतरराष्ट्रीय क्रिकेट परिषद (आईसीसी)) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)",
+            "विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ)) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)",
+            "अंतरराष्ट्रीय श्रम संगठन (आईएलओ)) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)"
           ],
           "answerIndex": 0,
           "explanation": "भारत में मुख्यालय वाले सौर ऊर्जा संवर्धन के वैश्विक संगठन को «अंतरराष्ट्रीय सौर गठबंधन» (ISA) कहते हैं।"
@@ -13678,9 +13678,9 @@
           "prompt": "जलवायु कूटनीति और पेरिस समझौता (Climate Diplomacy & Paris Accord) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "पेरिस समझौते के लक्ष्यों की पूर्ति, जलवायु न्याय की वकालत और अंतरराष्ट्रीय सौर गठबंधन का नेतृत्व भारत को हरित ऊर्जा संक्रमण का वैश्विक अग्रदूत बनाता है। (Fulfillment of Paris Agreement targets, advocacy for climate justice, and leadership of the International Solar Alliance make India a global vanguard of green energy transition.)",
-            "पर्यावरण प्रदूषण को बढ़ाकर जंगलों को जला देना चाहिए। (Target expression (Hindi))",
-            "पेरिस समझौते का उद्देश्य केवल बर्फ को गर्म करके पिघलाना है। (Target expression (Hindi))",
-            "सौर ऊर्जा के बजाय केवल धुआं फैलाने वाले कारखाने लगाने चाहिए। (Target expression (Hindi))"
+            "पर्यावरण प्रदूषण को बढ़ाकर जंगलों को जला देना चाहिए।) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)",
+            "पेरिस समझौते का उद्देश्य केवल बर्फ को गर्म करके पिघलाना है।) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)",
+            "सौर ऊर्जा के बजाय केवल धुआं फैलाने वाले कारखाने लगाने चाहिए।) (Context: जलवायु कूटनीति, पेरिस समझौता और कार)"
           ],
           "answerIndex": 0,
           "explanation": "«पेरिस समझौते के लक्ष्यों की पूर्ति, जलवायु न्याय की वकालत... वैश्विक अग्रदूत बनाता है» जलवायु कूटनीति का मानक वाक्य है।"
@@ -13729,9 +13729,9 @@
           "prompt": "दो या दो से अधिक देशों के राष्ट्राध्यक्षों की उच्चस्तरीय रणनीतिक बैठक के समापन पर जारी आधिकारिक दस्तावेज को क्या कहते हैं?",
           "options": [
             "संयुक्त घोषणापत्र / संयुक्त विज्ञप्ति (Joint Communiqué / Joint Declaration of summit conclusions)",
-            "दैनिक समाचार पत्र (अखबार) (Target expression (Hindi))",
-            "साप्ताहिक पत्रिका (मैगजीन) (Target expression (Hindi))",
-            "विज्ञापन पर्चा (हैंडबिल) (Target expression (Hindi))"
+            "दैनिक समाचार पत्र (अखबार)) (Context: संधि वार्ता, शांति समझौते व राजनयिक)",
+            "साप्ताहिक पत्रिका (मैगजीन)) (Context: संधि वार्ता, शांति समझौते व राजनयिक)",
+            "विज्ञापन पर्चा (हैंडबिल)) (Context: संधि वार्ता, शांति समझौते व राजनयिक)"
           ],
           "answerIndex": 0,
           "explanation": "शिखर सम्मेलन के आधिकारिक निष्कर्षों के दस्तावेज को «संयुक्त घोषणापत्र» (Joint Communiqué) कहा जाता है।"
@@ -13744,9 +13744,9 @@
           "prompt": "युद्ध अथवा सशस्त्र संघर्ष को रोकने हेतु दोनों पक्षों के मध्य होने वाले अस्थायी अथवा स्थायी सैन्य समझौते को क्या कहते हैं?",
           "options": [
             "युद्धविराम / संघर्ष-विराम (Ceasefire / Truce - Formal cessation of armed hostilities between warring factions)",
-            "युद्ध की घोषणा (लड़ाई का ऐलान) (Target expression (Hindi))",
-            "हथियारों की बिक्री (शस्त्र व्यापार) (Target expression (Hindi))",
-            "सैन्य परेड (परेड प्रदर्शन) (Target expression (Hindi))"
+            "युद्ध की घोषणा (लड़ाई का ऐलान)) (Context: संधि वार्ता, शांति समझौते व राजनयिक)",
+            "हथियारों की बिक्री (शस्त्र व्यापार)) (Context: संधि वार्ता, शांति समझौते व राजनयिक)",
+            "सैन्य परेड (परेड प्रदर्शन)) (Context: संधि वार्ता, शांति समझौते व राजनयिक)"
           ],
           "answerIndex": 0,
           "explanation": "लड़ाई और सैन्य हमलों को औपचारिक रूप से रोकने के समझौते को «युद्धविराम» (Ceasefire) कहते हैं।"
@@ -13760,9 +13760,9 @@
           "prompt": "राजनयिक शिष्टाचार और राज्यशिल्प (Diplomatic Protocols & Statecraft) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "अंतरराष्ट्रीय संधियों का निष्ठावान सम्मान, शांति समझौतों का दृढ़ क्रियान्वयन और कूटनीतिक मर्यादा ही संप्रभु राज्यशिल्प का सर्वोच्च शिखर हैं। (Faithful adherence to international treaties, steadfast execution of peace accords, and diplomatic dignity are the pinnacle of sovereign statecraft.)",
-            "राज्यशिल्प का अर्थ केवल पड़ोसी देशों के साथ गाली-गलौज करना है। (Target expression (Hindi))",
-            "युद्धविराम का अर्थ है कि दोनों सेनाएं मिलकर ताश खेलें। (Target expression (Hindi))",
-            "संयुक्त घोषणापत्र को कूड़ेदान में फेंक देना चाहिए। (Target expression (Hindi))"
+            "राज्यशिल्प का अर्थ केवल पड़ोसी देशों के साथ गाली-गलौज करना है।) (Context: संधि वार्ता, शांति समझौते व राजनयिक)",
+            "युद्धविराम का अर्थ है कि दोनों सेनाएं मिलकर ताश खेलें।) (Context: संधि वार्ता, शांति समझौते व राजनयिक)",
+            "संयुक्त घोषणापत्र को कूड़ेदान में फेंक देना चाहिए।) (Context: संधि वार्ता, शांति समझौते व राजनयिक)"
           ],
           "answerIndex": 0,
           "explanation": "«अंतरराष्ट्रीय संधियों का निष्ठावान सम्मान, शांति समझौतों का दृढ़ क्रियान्वयन और कूटनीतिक मर्यादा... सर्वोच्च शिखर हैं» राज्यशिल्प का सर्वोत्कृष्ट प्रामाणिक वाक्य है।"
@@ -13811,9 +13811,9 @@
           "prompt": "अत्यंत संक्षिप्त शब्दों में अगाध और व्यापक ज्ञान को व्यक्त करने के लिए कौन सा मुहावरा प्रयुक्त होता है?",
           "options": [
             "गागर में सागर भरना (To convey vast, profound wisdom in concise words)",
-            "पानी में आग लगाना (असंभव कार्य) (Target expression (Hindi))",
-            "हवा में तीर चलाना (अंधेरे में प्रयास) (Target expression (Hindi))",
-            "रेत से तेल निकालना (व्यर्थ श्रम) (Target expression (Hindi))"
+            "पानी में आग लगाना (असंभव कार्य)) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()",
+            "हवा में तीर चलाना (अंधेरे में प्रयास)) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()",
+            "रेत से तेल निकालना (व्यर्थ श्रम)) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()"
           ],
           "answerIndex": 0,
           "explanation": "संक्षिप्त उक्तियों में विशाल अर्थ समाहित करने को «गागर में सागर भरना» कहा जाता है।"
@@ -13826,9 +13826,9 @@
           "prompt": "किसी असाधारण और अविश्वसनीय चमत्कार को देखकर अत्यधिक आश्चर्यचकित होने पर किस मुहावरे का प्रयोग किया जाता है?",
           "options": [
             "दांतों तले उंगली दबाना (To be struck with utter wonder and astonishment)",
-            "आंखों में धूल झोंकना (धोखा देना) (Target expression (Hindi))",
-            "कान पर जूं न रेंगना (अनसुना करना) (Target expression (Hindi))",
-            "हाथ पर हाथ धरकर बैठना (आलस्य करना) (Target expression (Hindi))"
+            "आंखों में धूल झोंकना (धोखा देना)) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()",
+            "कान पर जूं न रेंगना (अनसुना करना)) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()",
+            "हाथ पर हाथ धरकर बैठना (आलस्य करना)) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()"
           ],
           "answerIndex": 0,
           "explanation": "अत्यधिक विस्मय और आश्चर्यचकित होने की स्थिति को «दांतों तले उंगली दबाना» कहते हैं।"
@@ -13842,9 +13842,9 @@
           "prompt": "दार्शनिक मुहावरों के शुद्ध और अलंकारिक प्रयोग (Philosophical Idioms) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "महापुरुषों की सूक्तियां गागर में सागर भरकर मानवता को अंधकार से प्रकाश की ओर ले जाने का शाश्वत मार्ग प्रशस्त करती हैं। (The maxims of great sages pour oceans into pitchers, paving the eternal pathway leading humanity from darkness toward light.)",
-            "गागर में सागर भरने का मतलब है कि मटके में समुद्र का खारा पानी भर लाना। (Target expression (Hindi))",
-            "अंगारों पर पैर रखने का अर्थ केवल जूते पहनकर किचन में खाना पकाना है। (Target expression (Hindi))",
-            "आकाश-पाताल एक करने का अर्थ है हवाई जहाज में बैठकर जमीन देखना। (Target expression (Hindi))"
+            "गागर में सागर भरने का मतलब है कि मटके में समुद्र का खारा पानी भर लाना।) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()",
+            "अंगारों पर पैर रखने का अर्थ केवल जूते पहनकर किचन में खाना पकाना है।) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()",
+            "आकाश-पाताल एक करने का अर्थ है हवाई जहाज में बैठकर जमीन देखना।) (Context: गूढ़ दार्शनिक व साहित्यिक मुहावरे ()"
           ],
           "answerIndex": 0,
           "explanation": "«महापुरुषों की सूक्तियां गागर में सागर भरकर... शाश्वत मार्ग प्रशस्त करती हैं» मुहावरों का मानक साहित्यिक वाक्य है।"
@@ -13893,9 +13893,9 @@
           "prompt": "अल्प ज्ञान और कम योग्यता वाले व्यक्ति द्वारा अत्यधिक घमंड और दिखावा करने पर कौन सी लोकोक्ति उपयुक्त है?",
           "options": [
             "अधजल गगरी छलकत जाए (A half-filled pitcher spills over / Shallow knowledge boasts the most)",
-            "दूध का दूध पानी का पानी (सच्चा न्याय) (Target expression (Hindi))",
-            "चोर की दाढ़ी में तिनका (दोषी का डर) (Target expression (Hindi))",
-            "आसमान से गिरा खजूर में अटका (एक विपत्ति से दूसरी में पड़ना) (Target expression (Hindi))"
+            "दूध का दूध पानी का पानी (सच्चा न्याय)) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)",
+            "चोर की दाढ़ी में तिनका (दोषी का डर)) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)",
+            "आसमान से गिरा खजूर में अटका (एक विपत्ति से दूसरी में पड़ना)) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)"
           ],
           "answerIndex": 0,
           "explanation": "अधूरे ज्ञान के व्यर्थ अहंकार पर «अधजल गगरी छलकत जाए» लोकोक्ति सटीक बैठती है।"
@@ -13908,9 +13908,9 @@
           "prompt": "मूर्खों की सभा में किसी कम ज्ञान वाले व्यक्ति को भी सर्वज्ञानी मान लेने पर कौन सी कहावत चरितार्थ होती है?",
           "options": [
             "अंधों में काना राजा (A one-eyed man is king among the blind)",
-            "घर का भेदी लंका ढाए (आंतरिक विश्वासघात) (Target expression (Hindi))",
-            "बंदर क्या जाने अदरक का स्वाद (मूर्ख द्वारा गुण न पहचानना) (Target expression (Hindi))",
-            "काला अक्षर भैंस बराबर (निरक्षर होना) (Target expression (Hindi))"
+            "घर का भेदी लंका ढाए (आंतरिक विश्वासघात)) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)",
+            "बंदर क्या जाने अदरक का स्वाद (मूर्ख द्वारा गुण न पहचानना)) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)",
+            "काला अक्षर भैंस बराबर (निरक्षर होना)) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)"
           ],
           "answerIndex": 0,
           "explanation": "मूर्खों के बीच अल्पज्ञानी के सम्मानित होने को «अंधों में काना राजा» कहा जाता है।"
@@ -13924,9 +13924,9 @@
           "prompt": "नीतिपरक लोकोक्तियों (Proverbs & Moral Wisdom) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना' की भांति व्यर्थ अहंकार में लीन रहता है। (A true scholar is humbled by knowledge, whereas the ignorant remains absorbed in vain pride like 'empty vessels sound loudest'.)",
-            "अधजल गगरी का अर्थ है कि घड़े में आधा लीटर दूध डालकर पीना चाहिए। (Target expression (Hindi))",
-            "लोकोक्तियों का उपयोग केवल परीक्षा में फेल होने के लिए किया जाता है। (Target expression (Hindi))",
-            "काना राजा का अर्थ है कि आंखों पर चश्मा लगाकर सो जाना। (Target expression (Hindi))"
+            "अधजल गगरी का अर्थ है कि घड़े में आधा लीटर दूध डालकर पीना चाहिए।) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)",
+            "लोकोक्तियों का उपयोग केवल परीक्षा में फेल होने के लिए किया जाता है।) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)",
+            "काना राजा का अर्थ है कि आंखों पर चश्मा लगाकर सो जाना।) (Context: नीतिपरक लोकोक्तियां और जन-श्रुतियां)"
           ],
           "answerIndex": 0,
           "explanation": "«सच्चा विद्वान ज्ञानार्जन से विनम्र बनता है, जबकि अज्ञानी 'थोथा चना बाजे घना'... लीन रहता है» लोकोक्ति का मानक प्रयोग है।"
@@ -13975,9 +13975,9 @@
           "prompt": "मुंडकोपनिषद का वह अमर सूत्र कौन सा है जो भारत का राष्ट्रीय आदर्श वाक्य भी है?",
           "options": [
             "सत्यमेव जयते (Truth alone triumphs - Mundakopanishad national motto of India)",
-            "तमसो मा ज्योतिर्गमय (अंधकार से प्रकाश की ओर) (Target expression (Hindi))",
-            "सर्वे भवन्तु सुखिनः (सभी सुखी हों) (Target expression (Hindi))",
-            "मातृ देवो भव (माता भगवान स्वरूप हैं) (Target expression (Hindi))"
+            "तमसो मा ज्योतिर्गमय (अंधकार से प्रकाश की ओर)) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)",
+            "सर्वे भवन्तु सुखिनः (सभी सुखी हों)) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)",
+            "मातृ देवो भव (माता भगवान स्वरूप हैं)) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)"
           ],
           "answerIndex": 0,
           "explanation": "भारत का राष्ट्रीय आदर्श वाक्य «सत्यमेव जयते» (सत्य की ही जीत होती है) है।"
@@ -13990,9 +13990,9 @@
           "prompt": "रामायण का वह अमर श्लोकांश कौन सा है जो मातृभूमि के प्रति सर्वोच्च सम्मान और देशभक्ति को व्यक्त करता है?",
           "options": [
             "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी (Mother and motherland are far superior even to heaven itself)",
-            "अहिंसा परमो धर्मः (अहिंसा सर्वोच्च धर्म है) (Target expression (Hindi))",
-            "वसुधैव कुटुम्बकम् (संपूर्ण पृथ्वी एक परिवार है) (Target expression (Hindi))",
-            "यतो धर्मस्ततो जयः (जहाँ धर्म है वहीं विजय है) (Target expression (Hindi))"
+            "अहिंसा परमो धर्मः (अहिंसा सर्वोच्च धर्म है)) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)",
+            "वसुधैव कुटुम्बकम् (संपूर्ण पृथ्वी एक परिवार है)) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)",
+            "यतो धर्मस्ततो जयः (जहाँ धर्म है वहीं विजय है)) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)"
           ],
           "answerIndex": 0,
           "explanation": "माता और मातृभूमि की स्वर्ग से भी उच्च महत्ता को «जननी जन्मभूमिश्च स्वर्गादपि गरीयसी» व्यक्त करता है।"
@@ -14006,9 +14006,9 @@
           "prompt": "संस्कृत सूक्तियों और दार्शनिक अमर वचनों (Immortal Sanskrit Maxims) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां भारतीय संस्कृति के शाश्वत नैतिक मूल्य और चरित्र निर्माण की आधारशिला हैं। (Immortal maxims like 'Satyameva Jayate' and 'Vidya Dadati Vinayam' are the eternal ethical values and cornerstone of character building in Indian culture.)",
-            "संस्कृत सूक्तियों का अर्थ है कि किसी को कोई बात समझ में न आए। (Target expression (Hindi))",
-            "विद्या प्राप्त करने के बाद केवल दूसरों का अपमान करना चाहिए। (Target expression (Hindi))",
-            "सत्य की जगह हमेशा झूठ बोलने का अभ्यास करना चाहिए। (Target expression (Hindi))"
+            "संस्कृत सूक्तियों का अर्थ है कि किसी को कोई बात समझ में न आए।) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)",
+            "विद्या प्राप्त करने के बाद केवल दूसरों का अपमान करना चाहिए।) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)",
+            "सत्य की जगह हमेशा झूठ बोलने का अभ्यास करना चाहिए।) (Context: संस्कृत सूक्तियां और अमर वचन (Immor)"
           ],
           "answerIndex": 0,
           "explanation": "«'सत्यमेव जयते' और 'विद्या ददाति विनयं' जैसी अमर सूक्तियां... आधारशिला हैं» सूक्तियों का मानक वाक्य है।"
@@ -14057,9 +14057,9 @@
           "prompt": "शास्त्रार्थ परंपरा में किसी सिद्धांत की स्थापना से पूर्व विरोधी पक्ष के तर्कों के निष्पक्ष अध्ययन और प्रस्तुति को क्या कहते हैं?",
           "options": [
             "पूर्वपक्ष (Poorvapaksha - Objective presentation of opponent's argument before logical refutation)",
-            "उत्तर पुस्तिका (परीक्षा कॉपी) (Target expression (Hindi))",
-            "प्रवेश पत्र (एडमिट कार्ड) (Target expression (Hindi))",
-            "समाचार सार (न्यूज ब्रीफ) (Target expression (Hindi))"
+            "उत्तर पुस्तिका (परीक्षा कॉपी)) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )",
+            "प्रवेश पत्र (एडमिट कार्ड)) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )",
+            "समाचार सार (न्यूज ब्रीफ)) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )"
           ],
           "answerIndex": 0,
           "explanation": "विरोधी मत के प्रामाणिक अध्ययन और प्रस्तुतीकरण को «पूर्वपक्ष» (Poorvapaksha) कहा जाता है।"
@@ -14072,9 +14072,9 @@
           "prompt": "भारतीय न्याय दर्शन में 'हेतु' (तार्किक कारण) की सत्यता प्रमाणित करने के लिए दिए जाने वाले व्यावहारिक उदाहरण को क्या कहते हैं?",
           "options": [
             "दृष्टांत / उदाहरण (Drishtaanta - Concrete empirical illustration validating logical premises)",
-            "तस्वीर (चित्र) (Target expression (Hindi))",
-            "चलचित्र (सिनेमा) (Target expression (Hindi))",
-            "मुहावरा (कहावत) (Target expression (Hindi))"
+            "तस्वीर (चित्र)) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )",
+            "चलचित्र (सिनेमा)) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )",
+            "मुहावरा (कहावत)) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )"
           ],
           "answerIndex": 0,
           "explanation": "तर्क के प्रमाण स्वरूप प्रस्तुत दृष्टांत या उदाहरण को न्याय दर्शन में «दृष्टांत» कहा जाता है।"
@@ -14088,9 +14088,9 @@
           "prompt": "शास्त्रार्थ परंपरा और तार्किक वाक्-चातुर्य (Shastrartha & Logic) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "पूर्वपक्ष का निष्पक्ष विवेचन, अकाट्य तर्कों से युक्त हेतु-दृष्टांत और शास्त्रार्थ की मर्यादित परंपरा ही सत्य के अन्वेषण का सर्वोत्कृष्ट मार्ग है। (Impartial analysis of Poorvapaksha, irrefutable logical premises and illustrations, and the dignified tradition of Shastrartha are the supreme path for the inquiry of truth.)",
-            "शास्त्रार्थ का अर्थ है कि एक-दूसरे पर लाठी-डंडों से हमला करना। (Target expression (Hindi))",
-            "तर्कशास्त्र का उपयोग केवल लोगों से झूठ बोलने के लिए किया जाता है। (Target expression (Hindi))",
-            "पूर्वपक्ष को बिना समझे तुरंत गाली देना शुरू कर देना चाहिए। (Target expression (Hindi))"
+            "शास्त्रार्थ का अर्थ है कि एक-दूसरे पर लाठी-डंडों से हमला करना।) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )",
+            "तर्कशास्त्र का उपयोग केवल लोगों से झूठ बोलने के लिए किया जाता है।) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )",
+            "पूर्वपक्ष को बिना समझे तुरंत गाली देना शुरू कर देना चाहिए।) (Context: शास्त्रार्थ परंपरा, तर्कशास्त्र और )"
           ],
           "answerIndex": 0,
           "explanation": "«पूर्वपक्ष का निष्पक्ष विवेचन, अकाट्य तर्कों से युक्त हेतु-दृष्टांत और शास्त्रार्थ की मर्यादित परंपरा... सर्वोत्कृष्ट मार्ग है» शास्त्रार्थ का मानक वाक्य है।"
@@ -14139,9 +14139,9 @@
           "prompt": "काव्य अथवा गद्य में जहाँ एक ही शब्द के एक से अधिक अर्थ निकलकर चमत्कार उत्पन्न करते हों, वहाँ कौन सा अलंकार होता है?",
           "options": [
             "श्लेष अलंकार (Shlesha Alankara - Figure of speech involving pun or double entendre)",
-            "अनुप्रास अलंकार (वर्णों की आवृत्ति) (Target expression (Hindi))",
-            "यमक अलंकार (शब्द दोहराव भिन्न अर्थ) (Target expression (Hindi))",
-            "संदेह अलंकार (दुविधा) (Target expression (Hindi))"
+            "अनुप्रास अलंकार (वर्णों की आवृत्ति)) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )",
+            "यमक अलंकार (शब्द दोहराव भिन्न अर्थ)) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )",
+            "संदेह अलंकार (दुविधा)) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )"
           ],
           "answerIndex": 0,
           "explanation": "एक ही शब्द में एक से अधिक अर्थ चिपके होने पर «श्लेष अलंकार» होता है।"
@@ -14154,9 +14154,9 @@
           "prompt": "जहाँ उपमेय में उपमान की संभावना व्यक्त की जाए (मनु, मानहु, जनु, जानहु शब्दों द्वारा), वहाँ कौन सा अलंकार होता है?",
           "options": [
             "उत्प्रेक्षा अलंकार (Utpreksha Alankara - Figure of speech expressing poetic probability/conceit)",
-            "उपमा अलंकार (समानता) (Target expression (Hindi))",
-            "रूपक अलंकार (अभेद आरोप) (Target expression (Hindi))",
-            "अतिशयोक्ति अलंकार (बढ़ा-चढ़ाकर कहना) (Target expression (Hindi))"
+            "उपमा अलंकार (समानता)) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )",
+            "रूपक अलंकार (अभेद आरोप)) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )",
+            "अतिशयोक्ति अलंकार (बढ़ा-चढ़ाकर कहना)) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )"
           ],
           "answerIndex": 0,
           "explanation": "उपमेय में उपमान की संभावना प्रकट करने वाले अलंकार को «उत्प्रेक्षा अलंकार» कहते हैं।"
@@ -14170,9 +14170,9 @@
           "prompt": "अलंकार, वाग्मिता और शास्त्रार्थ (Rhetorical Mastery & Grand Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता ही हिंदी भाषा को अभिव्यक्ति की सर्वोच्च पराकाष्ठा प्रदान करते हैं। (The sublime elegance of figures of speech, the poignancy of idiomatic lore, and the logical eloquence of Shastrartha bestow the supreme zenith of expression upon the Hindi language.)",
-            "अलंकार केवल महिलाओं के सोने के गहनों को कहते हैं और भाषा से इनका कोई संबंध नहीं है। (Target expression (Hindi))",
-            "वाग्मिता का अर्थ है कि बिना सोचे-समझे केवल जोर-जोर से चिल्लाना। (Target expression (Hindi))",
-            "हिंदी भाषा में मुहावरों का प्रयोग करना अपराध है। (Target expression (Hindi))"
+            "अलंकार केवल महिलाओं के सोने के गहनों को कहते हैं और भाषा से इनका कोई संबंध नहीं है।) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )",
+            "वाग्मिता का अर्थ है कि बिना सोचे-समझे केवल जोर-जोर से चिल्लाना।) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )",
+            "हिंदी भाषा में मुहावरों का प्रयोग करना अपराध है।) (Context: अलंकार, वाग्मिता व मुहावरा-शास्त्र )"
           ],
           "answerIndex": 0,
           "explanation": "«काव्यालंकारों का भव्य लालित्य, मुहावरा-शास्त्र की मार्मिकता और शास्त्रार्थ की तार्किक वाग्मिता... सर्वोच्च पराकाष्ठा प्रदान करते हैं» वाग्मिता और मुहावरा-शास्त्र का सर्वोच्च प्रामाणिक वाक्य है।"
@@ -14221,9 +14221,9 @@
           "prompt": "अंतरराष्ट्रीय सम्मेलन में सभी सदस्य देशों की उपस्थिति वाले मुख्य आधिकारिक सत्र को क्या कहा जाता है?",
           "options": [
             "पूर्ण सत्र / प्लेनरी सत्र (Plenary Session - Main formal assembly of all official delegates)",
-            "चाय-नाश्ता सत्र (अल्पाहार) (Target expression (Hindi))",
-            "सांस्कृतिक संध्या (संगीत संध्या) (Target expression (Hindi))",
-            "अनौपचारिक भ्रमण (सैर-सपाटा) (Target expression (Hindi))"
+            "चाय-नाश्ता सत्र (अल्पाहार)) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)",
+            "सांस्कृतिक संध्या (संगीत संध्या)) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)",
+            "अनौपचारिक भ्रमण (सैर-सपाटा)) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)"
           ],
           "answerIndex": 0,
           "explanation": "सम्मेलन के सर्वोच्च आधिकारिक मुख्य सत्र को «पूर्ण सत्र» (Plenary Session) कहा जाता है।"
@@ -14236,9 +14236,9 @@
           "prompt": "शिखर सम्मेलन के सभी सदस्य राष्ट्रों की पूर्ण सहमति से अंगीकार किए जाने वाले साझा आधिकारिक दस्तावेज को क्या कहते हैं?",
           "options": [
             "सर्वसम्मत घोषणापत्र (Consensus Declaration - Unanimously adopted official summit communiqué)",
-            "समाचार पत्र की प्रति (न्यूज पेपर) (Target expression (Hindi))",
-            "व्यक्तिगत डायरी (निजी नोट) (Target expression (Hindi))",
-            "टिकट रसीद (यात्रा पर्ची) (Target expression (Hindi))"
+            "समाचार पत्र की प्रति (न्यूज पेपर)) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)",
+            "व्यक्तिगत डायरी (निजी नोट)) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)",
+            "टिकट रसीद (यात्रा पर्ची)) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)"
           ],
           "answerIndex": 0,
           "explanation": "सभी देशों की सहमति से जारी आधिकारिक दस्तावेज को «सर्वसम्मत घोषणापत्र» (Consensus Declaration) कहते हैं।"
@@ -14252,9 +14252,9 @@
           "prompt": "वैश्विक शिखर सम्मेलन और बहुपक्षीय नीति (Global Summitry & Statecraft) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "शिखर सम्मेलनों में सर्वसम्मत घोषणापत्रों का अंगीकरण, समावेशी बहुपक्षवाद और 'वसुधैव कुटुम्बकम्' की भावना ही समकालीन विश्व को युद्ध और विभाजन से बचाकर शांति का पथ दिखाती है। (The adoption of consensus declarations at summits, inclusive multilateralism, and the spirit of 'Vasudhaiva Kutumbakam' steer the contemporary world away from war and division toward peace.)",
-            "शिखर सम्मेलन का उद्देश्य केवल महंगे होटलों में भोजन करना है। (Target expression (Hindi))",
-            "घोषणापत्र को तुरंत फाड़कर अंतरराष्ट्रीय अराजकता फैलाना ही कूटनीति है। (Target expression (Hindi))",
-            "पूर्ण सत्र में किसी को भी बोलने की अनुमति नहीं दी जानी चाहिए। (Target expression (Hindi))"
+            "शिखर सम्मेलन का उद्देश्य केवल महंगे होटलों में भोजन करना है।) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)",
+            "घोषणापत्र को तुरंत फाड़कर अंतरराष्ट्रीय अराजकता फैलाना ही कूटनीति है।) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)",
+            "पूर्ण सत्र में किसी को भी बोलने की अनुमति नहीं दी जानी चाहिए।) (Context: वैश्विक शिखर सम्मेलन और बहुपक्षीय न)"
           ],
           "answerIndex": 0,
           "explanation": "«शिखर सम्मेलनों में सर्वसम्मत घोषणापत्रों का अंगीकरण, समावेशी बहुपक्षवाद और 'वसुधैव कुटुम्बकम्'... शांति का पथ दिखाती है» शिखर कूटनीति का मानक वाक्य है।"
@@ -14303,9 +14303,9 @@
           "prompt": "दो देशों के बीच व्यापारिक वस्तुओं और सेवाओं पर सीमा शुल्क घटाने या समाप्त करने वाले समझौते को क्या कहते हैं?",
           "options": [
             "मुक्त व्यापार समझौता / एफटीए (Free Trade Agreement - Pact eliminating tariffs and trade barriers between nations)",
-            "सीमा सील समझौता (बॉर्डर बंद करना) (Target expression (Hindi))",
-            "जेल बंदी समझौता (कैदी नियम) (Target expression (Hindi))",
-            "सड़क मरम्मत समझौता (सड़क बनाना) (Target expression (Hindi))"
+            "सीमा सील समझौता (बॉर्डर बंद करना)) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)",
+            "जेल बंदी समझौता (कैदी नियम)) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)",
+            "सड़क मरम्मत समझौता (सड़क बनाना)) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)"
           ],
           "answerIndex": 0,
           "explanation": "व्यापारिक बाधाओं और शुल्कों को घटाने की संधि को «मुक्त व्यापार समझौता» (FTA) कहा जाता है।"
@@ -14318,9 +14318,9 @@
           "prompt": "दो संप्रभु राष्ट्रों के रक्षा, विदेश नीति और सुरक्षा दृष्टिकोण में गहरी समानता होने को कूटनीति में क्या कहते हैं?",
           "options": [
             "रणनीतिक अभिसरण (Strategic Convergence - Alignment of geopolitical, defense, and foreign policy perspectives)",
-            "व्यापारिक झगड़ा (व्यापार विवाद) (Target expression (Hindi))",
-            "सीमा विवाद (क्षेत्रीय तनाव) (Target expression (Hindi))",
-            "आंतरिक अशांति (दंगे-फसाद) (Target expression (Hindi))"
+            "व्यापारिक झगड़ा (व्यापार विवाद)) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)",
+            "सीमा विवाद (क्षेत्रीय तनाव)) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)",
+            "आंतरिक अशांति (दंगे-फसाद)) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)"
           ],
           "answerIndex": 0,
           "explanation": "सुरक्षा और कूटनीतिक दृष्टिकोण की समानता को «रणनीतिक अभिसरण» (Strategic Convergence) कहते हैं।"
@@ -14334,9 +14334,9 @@
           "prompt": "रणनीतिक साझेदारी और उच्चस्तरीय कूटनीति (Strategic Partnerships & Diplomacy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "व्यापक रणनीतिक साझेदारी, मुक्त व्यापार समझौतों का विस्तार और लोकतांत्रिक मूल्यों का रणनीतिक अभिसरण ही 21वीं सदी में संप्रभु राष्ट्रों के पारस्परिक विकास की आधारशिला हैं। (Comprehensive strategic partnership, expansion of free trade agreements, and strategic convergence of democratic values are the cornerstone of mutual development for sovereign nations in the 21st century.)",
-            "सभी विदेशी राजदूतों को जेल में बंद करके व्यापार बंद कर देना चाहिए। (Target expression (Hindi))",
-            "मुक्त व्यापार का मतलब है कि बिना पैसे दिए सामान लूट लेना। (Target expression (Hindi))",
-            "रणनीतिक साझेदारी केवल युद्ध का नाटक करने के लिए की जाती है। (Target expression (Hindi))"
+            "सभी विदेशी राजदूतों को जेल में बंद करके व्यापार बंद कर देना चाहिए।) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)",
+            "मुक्त व्यापार का मतलब है कि बिना पैसे दिए सामान लूट लेना।) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)",
+            "रणनीतिक साझेदारी केवल युद्ध का नाटक करने के लिए की जाती है।) (Context: उच्चस्तरीय राजनयिक वार्ताएं और रणनी)"
           ],
           "answerIndex": 0,
           "explanation": "«व्यापक रणनीतिक साझेदारी, मुक्त व्यापार समझौतों का विस्तार और... आधारशिला हैं» रणनीतिक कूटनीति का मानक वाक्य है।"
@@ -14385,9 +14385,9 @@
           "prompt": "युद्ध अथवा प्राकृतिक आपदा के समय नागरिकों को सुरक्षित निकालने हेतु स्थापित किए जाने वाले सुरक्षित मार्ग को क्या कहते हैं?",
           "options": [
             "मानवीय गलियारा (Humanitarian Corridor - Safe demilitarized transit route for civilians in conflict zones)",
-            "भूमिगत सुरंग (गुप्त रास्ता) (Target expression (Hindi))",
-            "रेलवे प्लेटफॉर्म (ट्रेन पटरी) (Target expression (Hindi))",
-            "खेल मैदान (स्टेडियम) (Target expression (Hindi))"
+            "भूमिगत सुरंग (गुप्त रास्ता)) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)",
+            "रेलवे प्लेटफॉर्म (ट्रेन पटरी)) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)",
+            "खेल मैदान (स्टेडियम)) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)"
           ],
           "answerIndex": 0,
           "explanation": "युद्ध क्षेत्र में नागरिकों की सुरक्षित निकासी के तटस्थ मार्ग को «मानवीय गलियारा» (Humanitarian Corridor) कहते हैं।"
@@ -14400,9 +14400,9 @@
           "prompt": "किसी देश में आपदा या संकट आने पर सबसे पहले बिना देरी किए राहत और सहायता पहुंचाने वाले देश को क्या कहा जाता है?",
           "options": [
             "प्रथम प्रत्युत्तरदाता (First Responder - Nation providing immediate initial humanitarian disaster assistance)",
-            "तटस्थ मूकदर्शक (चुपचाप देखने वाला) (Target expression (Hindi))",
-            "कड़ा विरोधी (शत्रु देश) (Target expression (Hindi))",
-            "उदासीन दर्शक (लापरवाह देश) (Target expression (Hindi))"
+            "तटस्थ मूकदर्शक (चुपचाप देखने वाला)) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)",
+            "कड़ा विरोधी (शत्रु देश)) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)",
+            "उदासीन दर्शक (लापरवाह देश)) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)"
           ],
           "answerIndex": 0,
           "explanation": "आपदा के समय तत्काल सहायता करने वाले देश को अंतरराष्ट्रीय कूटनीति में «प्रथम प्रत्युत्तरदाता» (First Responder) कहा जाता है।"
@@ -14416,9 +14416,9 @@
           "prompt": "अंतरराष्ट्रीय संकट प्रबंधन और मानवीय सहायता (Crisis Management & Humanitarian Aid) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता' के रूप में मानवीय सहायता प्रदान करना ही भारत को विश्व का विश्वसनीय कल्याणकारी स्तंभ बनाता है। (Skilled crisis management, swift evacuation operations, and providing humanitarian aid as a 'first responder' during disasters make India a trusted welfare pillar of the world.)",
-            "संकट के समय पीड़ितों को छोड़कर भाग जाना ही संकट प्रबंधन है। (Target expression (Hindi))",
-            "ऑपरेशन दोस्त का अर्थ केवल दोस्तों के साथ पिकनिक मनाना है। (Target expression (Hindi))",
-            "मानवीय सहायता पर रोक लगाकर लोगों को भूख से मरने देना चाहिए। (Target expression (Hindi))"
+            "संकट के समय पीड़ितों को छोड़कर भाग जाना ही संकट प्रबंधन है।) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)",
+            "ऑपरेशन दोस्त का अर्थ केवल दोस्तों के साथ पिकनिक मनाना है।) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)",
+            "मानवीय सहायता पर रोक लगाकर लोगों को भूख से मरने देना चाहिए।) (Context: अंतर्राष्ट्रीय संकट प्रबंधन और मानव)"
           ],
           "answerIndex": 0,
           "explanation": "«कुशल संकट प्रबंधन, त्वरित निकासी अभियान और आपदा के समय 'प्रथम प्रत्युत्तरदाता'... विश्वसनीय कल्याणकारी स्तंभ बनाता है» संकट प्रबंधन का मानक वाक्य है।"
@@ -14467,9 +14467,9 @@
           "prompt": "1973 के विख्यात केशवानंद भारती मामले में सर्वोच्च न्यायालय द्वारा प्रतिपादित उस ऐतिहासिक सिद्धांत को क्या कहते हैं, जो संसद को संविधान के बुनियादी स्वरूप को बदलने से रोकता है?",
           "options": [
             "मूल ढांचा सिद्धांत (Basic Structure Doctrine - Constitutional doctrine preserving foundational pillars)",
-            "आपातकाल सिद्धांत (इमरजेंसी नियम) (Target expression (Hindi))",
-            "राष्ट्रपति शासन (अनुच्छेद 356) (Target expression (Hindi))",
-            "संसद का विशेषाधिकार (संसदीय नियम) (Target expression (Hindi))"
+            "आपातकाल सिद्धांत (इमरजेंसी नियम)) (Context: संविधान, न्यायपालिका और संप्रभु शास)",
+            "राष्ट्रपति शासन (अनुच्छेद 356)) (Context: संविधान, न्यायपालिका और संप्रभु शास)",
+            "संसद का विशेषाधिकार (संसदीय नियम)) (Context: संविधान, न्यायपालिका और संप्रभु शास)"
           ],
           "answerIndex": 0,
           "explanation": "संविधान की आधारभूत संरचना की रक्षा करने वाले सिद्धांत को «मूल ढांचा सिद्धांत» (Basic Structure Doctrine) कहते हैं।"
@@ -14482,9 +14482,9 @@
           "prompt": "समाज के अंतिम पंक्ति में खड़े निर्धनतम व्यक्ति के कल्याण और उत्थान के भारतीय दार्शनिक संकल्प को क्या संज्ञा दी गई है?",
           "options": [
             "अंत्योदय (Antyodaya - Welfare and empowerment of the last and poorest person in society)",
-            "सूर्योदय (सूर्य का निकलना) (Target expression (Hindi))",
-            "चंद्रोदय (चंद्रमा का निकलना) (Target expression (Hindi))",
-            "मध्याह्न (दोपहर का समय) (Target expression (Hindi))"
+            "सूर्योदय (सूर्य का निकलना)) (Context: संविधान, न्यायपालिका और संप्रभु शास)",
+            "चंद्रोदय (चंद्रमा का निकलना)) (Context: संविधान, न्यायपालिका और संप्रभु शास)",
+            "मध्याह्न (दोपहर का समय)) (Context: संविधान, न्यायपालिका और संप्रभु शास)"
           ],
           "answerIndex": 0,
           "explanation": "समाज के निर्धनतम व्यक्ति तक विकास का लाभ पहुंचाने के दर्शन को «अंत्योदय» कहा जाता है।"
@@ -14498,9 +14498,9 @@
           "prompt": "संविधान, न्यायपालिका और संप्रभु शासन (Constitutionalism & Governance) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
             "संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प ही भारत को एक सशक्त, न्यायप्रिय और संप्रभु लोकतांत्रिक गणराज्य बनाते हैं। (Constitutional supremacy, the rule of law, an independent judiciary, and the welfare resolve of Antyodaya make India a potent, just, and sovereign democratic republic.)",
-            "संविधान को फाड़कर फेंक देना चाहिए और तानाशाही लागू करनी चाहिए। (Target expression (Hindi))",
-            "विधि के शासन का मतलब है कि कानून केवल अमीरों के लिए काम करेगा। (Target expression (Hindi))",
-            "मूल ढांचा सिद्धांत केवल भवन निर्माण करने का नियम है। (Target expression (Hindi))"
+            "संविधान को फाड़कर फेंक देना चाहिए और तानाशाही लागू करनी चाहिए।) (Context: संविधान, न्यायपालिका और संप्रभु शास)",
+            "विधि के शासन का मतलब है कि कानून केवल अमीरों के लिए काम करेगा।) (Context: संविधान, न्यायपालिका और संप्रभु शास)",
+            "मूल ढांचा सिद्धांत केवल भवन निर्माण करने का नियम है।) (Context: संविधान, न्यायपालिका और संप्रभु शास)"
           ],
           "answerIndex": 0,
           "explanation": "«संवैधानिक सर्वोच्चता, विधि का शासन, स्वतंत्र न्यायपालिका और अंत्योदय का कल्याणकारी संकल्प... गणराज्य बनाते हैं» संवैधानिक विधि का मानक वाक्य है।"
@@ -14549,9 +14549,9 @@
           "prompt": "हिंदी भाषा किस प्राचीन एवं सर्वाधिक वैज्ञानिक लिपि में लिखी जाती है?",
           "options": [
             "देवनागरी लिपि (Devanagari Script - Scientific phonetic writing system of Hindi and Sanskrit)",
-            "रोमन लिपि (अंग्रेजी वर्णमाला) (Target expression (Hindi))",
-            "अरबी लिपि (दाएं से बाएं लिपि) (Target expression (Hindi))",
-            "रूसी सिरिलिक लिपि (रूसी वर्णमाला) (Target expression (Hindi))"
+            "रोमन लिपि (अंग्रेजी वर्णमाला)) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)",
+            "अरबी लिपि (दाएं से बाएं लिपि)) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)",
+            "रूसी सिरिलिक लिपि (रूसी वर्णमाला)) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)"
           ],
           "answerIndex": 0,
           "explanation": "हिंदी भाषा की आधिकारिक और वैज्ञानिक लिपि «देवनागरी» है।"
@@ -14564,9 +14564,9 @@
           "prompt": "भारत में प्रतिवर्ष 14 सितंबर को कौन सा राष्ट्रीय दिवस हर्षोल्लास से मनाया जाता है?",
           "options": [
             "राष्ट्रीय हिंदी दिवस (National Hindi Day - Commemorating Hindi's adoption as official language in 1949)",
-            "राष्ट्रीय विज्ञान दिवस (28 फरवरी) (Target expression (Hindi))",
-            "शिक्षक दिवस (5 सितंबर) (Target expression (Hindi))",
-            "बाल दिवस (14 नवंबर) (Target expression (Hindi))"
+            "राष्ट्रीय विज्ञान दिवस (28 फरवरी)) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)",
+            "शिक्षक दिवस (5 सितंबर)) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)",
+            "बाल दिवस (14 नवंबर)) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)"
           ],
           "answerIndex": 0,
           "explanation": "14 सितंबर को पूरे देश में «राष्ट्रीय हिंदी दिवस» मनाया जाता है।"
@@ -14580,9 +14580,9 @@
           "prompt": "हिंदी पाठ्यक्रम और महा-समेकन (Hindi Curriculum & C2 Grand Capstone Synthesis) का सर्वोत्कृष्ट प्रामाणिक वाक्य पहचानिए:",
           "options": [
             "देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प का यह 170 पाठों का समग्र समेकन हिंदी भाषा को विश्व मंच पर मानवता के शाश्वत ज्ञान का आलोकस्तंभ बनाता है। (This comprehensive synthesis of 170 lessons across Devanagari scientific phonetics, rich grammatical beauty, sublime literature, Advaita philosophy, cutting-edge science, and sovereign statecraft makes the Hindi language an eternal beacon of humanity's knowledge on the world stage.)",
-            "हिंदी भाषा सीखने का कोई लाभ नहीं है क्योंकि यह बहुत पुरानी भाषा है। (Target expression (Hindi))",
-            "170 पाठ पूरे करने के बाद भी हिंदी में केवल दो शब्द ही सीखे जा सकते हैं। (Target expression (Hindi))",
-            "देवनागरी लिपि को समाप्त करके केवल चित्र बनाकर बातें करनी चाहिए। (Target expression (Hindi))"
+            "हिंदी भाषा सीखने का कोई लाभ नहीं है क्योंकि यह बहुत पुरानी भाषा है।) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)",
+            "170 पाठ पूरे करने के बाद भी हिंदी में केवल दो शब्द ही सीखे जा सकते हैं।) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)",
+            "देवनागरी लिपि को समाप्त करके केवल चित्र बनाकर बातें करनी चाहिए।) (Context: हिंदी भाषा, संस्कृति व समग्र राष्ट्)"
           ],
           "answerIndex": 0,
           "explanation": "«देवनागरी लिपि की वैज्ञानिकता, समृद्ध व्याकरणिक सौंदर्य, उत्कृष्ट साहित्य, अद्वैत दर्शन, अत्याधुनिक विज्ञान और संप्रभु राज्यशिल्प... आलोकस्तंभ बनाता है» C2 स्तर की पूर्ण हिंदी प्रवीणता का सर्वोत्कृष्ट महा-समेकन वाक्य है।"

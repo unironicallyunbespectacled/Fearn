@@ -888,8 +888,8 @@
           "options": [
             "آپ کَیسی ہَیں؟ (Aap kaisi hain? - to female)",
             "آپ کَیسے ہَیں؟ (Aap kaise hain? - to male)",
-            "تُم کَون ہو؟ (Target expression (Urdu))",
-            "شَب بَخَیْر (Target expression (Urdu))"
+            "تُم کَون ہو؟) (Context: اسلامی و تہذیبی آداب اور خیریت دریا)",
+            "شَب بَخَیْر) (Context: اسلامی و تہذیبی آداب اور خیریت دریا)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کَیسی ہَیں؟» (*Aap kaisi hain?*) uses the feminine agreement «کیسی» (*kaisi*)."
@@ -929,8 +929,8 @@
           "prompt": "Which elegant secular greeting is traditionally accompanied by raising the right hand gracefully to the forehead?",
           "options": [
             "آدَاب (Aadaab - Respectful regards)",
-            "صُبْح بَخَیْر (Target expression (Urdu))",
-            "شُکْرِیَہ (Target expression (Urdu))",
+            "صُبْح بَخَیْر) (Context: اسلامی و تہذیبی آداب اور خیریت دریا)",
+            "شُکْرِیَہ) (Context: اسلامی و تہذیبی آداب اور خیریت دریا)",
             "پَانِی (paani — water (پـ [p] + ا [aa] + نـ [n] + ی [ee]))"
           ],
           "answerIndex": 0,
@@ -993,9 +993,9 @@
           "prompt": "How do you introduce yourself and state \"My name is Tariq\" in Urdu?",
           "options": [
             "مِیرا نَام طَارِق ہَے (Mera naam Tariq hai)",
-            "آپ کا نَام طَارِق ہَے (Target expression (Urdu))",
-            "مَیں طَارِق جا رہا ہوں (Target expression (Urdu))",
-            "طَارِق گَھر ہَے (Target expression (Urdu))"
+            "آپ کا نَام طَارِق ہَے) (Context: تعارف، شکریہ، معذرت اور رخصت (Self-)",
+            "مَیں طَارِق جا رہا ہوں) (Context: تعارف، شکریہ، معذرت اور رخصت (Self-)",
+            "طَارِق گَھر ہَے) (Context: تعارف، شکریہ، معذرت اور رخصت (Self-)"
           ],
           "answerIndex": 0,
           "explanation": "«مِیرا نَام [نَام] ہَے» (*Mera naam [name] hai*) is the standard construction for stating your name."
@@ -1031,8 +1031,8 @@
           "options": [
             "کَوئی بَات نَہِیں (Koi baat nahin - You're welcome / No problem)",
             "اَللہ حَافِظ (Goodbye)",
-            "مِیرا نَام ہَے (Target expression (Urdu))",
-            "شَب بَخَیْر (Target expression (Urdu))"
+            "مِیرا نَام ہَے) (Incorrect distractor meaning for: مِیرا نَام ہَے))",
+            "شَب بَخَیْر) (Incorrect distractor meaning for: شَب بَخَیْر))"
           ],
           "answerIndex": 0,
           "explanation": "«کَوئی بَات نَہِیں» (*Koi baat nahin*) is the standard graceful response."
@@ -1046,9 +1046,9 @@
           "prompt": "How do you ask someone their name respectfully in formal Urdu?",
           "options": [
             "آپ کا نَام کِیا ہَے؟ (Aap ka naam kya hai?)",
-            "تُم کَون ہو؟ (Target expression (Urdu))",
-            "گَھر کَہاں ہَے؟ (Target expression (Urdu))",
-            "کَیسے ہو؟ (Target expression (Urdu))"
+            "تُم کَون ہو؟) (Context: تعارف، شکریہ، معذرت اور رخصت (Self-)",
+            "گَھر کَہاں ہَے؟) (Context: تعارف، شکریہ، معذرت اور رخصت (Self-)",
+            "کَیسے ہو؟) (Context: تعارف، شکریہ، معذرت اور رخصت (Self-)"
           ],
           "answerIndex": 0,
           "explanation": "«آپ کا نَام کِیا ہَے؟» (*Aap ka naam kya hai?*) is the respectful polite question."
@@ -1120,9 +1120,9 @@
           "prompt": "مندرجہ ذیل میں سے خالص مؤنث اسم کی درست مثال کون سی ہے؟",
           "options": [
             "گاڑی / کتاب (Vehicle / Book - Authentic feminine inanimate nouns in Urdu)",
-            "کمرہ / دروازہ (مذکر اسماء) (Target expression (Urdu))",
-            "پنکھا / پردہ (مذکر اسماء) (Target expression (Urdu))",
-            "راستہ / میدان (مذکر اسماء) (Target expression (Urdu))"
+            "کمرہ / دروازہ (مذکر اسماء)) (Context: اسم کی اقسام اور تذکیر و تانیث کی ب)",
+            "پنکھا / پردہ (مذکر اسماء)) (Context: اسم کی اقسام اور تذکیر و تانیث کی ب)",
+            "راستہ / میدان (مذکر اسماء)) (Context: اسم کی اقسام اور تذکیر و تانیث کی ب)"
           ],
           "answerIndex": 0,
           "explanation": "«گاڑی» اور «کتاب» دونوں اردو میں مؤنث بولے جاتے ہیں۔"
@@ -1136,9 +1136,9 @@
           "prompt": "اسم کی جنس اور تذکیر و تانیث (Noun Gender) کا مکمل اور درست جملہ پہچانیے:",
           "options": [
             "یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔ (This spacious room and bright lamp are masculine, while that beautiful window and long road are feminine.)",
-            "اردو میں تمام جاندار اور بے جان اشیاء صرف مؤنث ہوتی ہیں۔ (Target expression (Urdu))",
-            "کمرہ مؤنث ہے اس لیے 'بڑی کمرہ' کہنا چاہیے۔ (Target expression (Urdu))",
-            "تذکیر و تانیث کا مطلب الٹا لکھنا ہوتا ہے۔ (Target expression (Urdu))"
+            "اردو میں تمام جاندار اور بے جان اشیاء صرف مؤنث ہوتی ہیں۔) (Context: اسم کی اقسام اور تذکیر و تانیث کی ب)",
+            "کمرہ مؤنث ہے اس لیے 'بڑی کمرہ' کہنا چاہیے۔) (Context: اسم کی اقسام اور تذکیر و تانیث کی ب)",
+            "تذکیر و تانیث کا مطلب الٹا لکھنا ہوتا ہے۔) (Context: اسم کی اقسام اور تذکیر و تانیث کی ب)"
           ],
           "answerIndex": 0,
           "explanation": "«یہ کشادہ کمرہ اور روشن چراغ مذکر ہیں جبکہ وہ خوبصورت کھڑکی اور لمبی سڑک مؤنث ہیں۔» جنس کا درست جملہ ہے۔"
@@ -1202,9 +1202,9 @@
           "prompt": "لفظ «ہوا» اور «دوا» کے ساتھ صفت کا درست استعمال کیا ہوگا؟",
           "options": [
             "ٹھنڈی ہوا / کڑوی دوا (Cold breeze / Bitter medicine - Correct feminine adjective agreement)",
-            "ٹھنڈا ہوا / کڑوا دوا (مذکر صفت کی غلطی) (Target expression (Urdu))",
-            "ٹھنڈے ہوا / کڑوے دوا (جمع کی غلطی) (Target expression (Urdu))",
-            "ٹھنڈوں ہوا / کڑووں دوا (غیر معیاری) (Target expression (Urdu))"
+            "ٹھنڈا ہوا / کڑوا دوا (مذکر صفت کی غلطی)) (Context: تذکیر و تانیث کے قواعد اور استثناء )",
+            "ٹھنڈے ہوا / کڑوے دوا (جمع کی غلطی)) (Context: تذکیر و تانیث کے قواعد اور استثناء )",
+            "ٹھنڈوں ہوا / کڑووں دوا (غیر معیاری)) (Context: تذکیر و تانیث کے قواعد اور استثناء )"
           ],
           "answerIndex": 0,
           "explanation": "«ہوا» اور «دوا» مؤنث ہیں، لہٰذا ان کے ساتھ «ٹھنڈی ہوا» اور «کڑوی دوا» درست ہے۔"
@@ -1218,9 +1218,9 @@
           "prompt": "تذکیر و تانیث کے استثناء (Gender Exceptions & Concord) کا فصیح جملہ پہچانیے:",
           "options": [
             "گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے ڈاکٹر کی دی ہوئی مفید دوا پی لی ہے۔ (The glass is filled with cold water [masculine], and the patient drank the beneficial medicine [feminine] given by the doctor.)",
-            "پانی بہت میٹھی ہے اور ہوا بہت تیز چلتا ہے۔ (Target expression (Urdu))",
-            "دہی کھٹی ہو گئی ہے اس لیے پھینک دو۔ (Target expression (Urdu))",
-            "دوا اچھا تھا لیکن گھی خراب تھی۔ (Target expression (Urdu))"
+            "پانی بہت میٹھی ہے اور ہوا بہت تیز چلتا ہے۔) (Context: تذکیر و تانیث کے قواعد اور استثناء )",
+            "دہی کھٹی ہو گئی ہے اس لیے پھینک دو۔) (Context: تذکیر و تانیث کے قواعد اور استثناء )",
+            "دوا اچھا تھا لیکن گھی خراب تھی۔) (Context: تذکیر و تانیث کے قواعد اور استثناء )"
           ],
           "answerIndex": 0,
           "explanation": "«گلاس میں ٹھنڈا پانی بھرا ہے اور مریض نے... مفید دوا پی لی ہے۔» پانی (مذکر) اور دوا (مؤنث) کا بالکل درست استعمال ہے۔"
@@ -1269,9 +1269,9 @@
           "prompt": "اردو لفظ «کتاب» (مؤنث اسم) کی درست جمع کیا ہے؟",
           "options": [
             "کتابیں (Kitaabein - Correct plural of consonant-ending feminine noun)",
-            "کتابوں (حالت مغیرہ) (Target expression (Urdu))",
-            "کتابات (غیر فصیح) (Target expression (Urdu))",
-            "کتابیاں (غلط لاحقہ) (Target expression (Urdu))"
+            "کتابوں (حالت مغیرہ)) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)",
+            "کتابات (غیر فصیح)) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)",
+            "کتابیاں (غلط لاحقہ)) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)"
           ],
           "answerIndex": 0,
           "explanation": "صامت پر ختم ہونے والے مؤنث اسم کی جمع «یں» لگا کر بنتی ہے: کتاب -> «کتابیں»۔"
@@ -1284,9 +1284,9 @@
           "prompt": "اردو لفظ «کھڑکی» (مؤنث اسم) کی درست جمع کیا ہوگی؟",
           "options": [
             "کھڑکیاں (Khidkiyaan - Plural of feminine noun ending in 'ye')",
-            "کھڑکے (مذکر لاحقہ) (Target expression (Urdu))",
-            "کھڑکیں (صامت لاحقہ) (Target expression (Urdu))",
-            "کھڑکیوں (مغیرہ جمع) (Target expression (Urdu))"
+            "کھڑکے (مذکر لاحقہ)) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)",
+            "کھڑکیں (صامت لاحقہ)) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)",
+            "کھڑکیوں (مغیرہ جمع)) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)"
           ],
           "answerIndex": 0,
           "explanation": "چھوٹی یے پر ختم ہونے والے مؤنث اسم کی جمع «یاں» کے ساتھ «کھڑکیاں» ہوتی ہے۔"
@@ -1300,9 +1300,9 @@
           "prompt": "واحد اور جمع کے درست امتزاج (Pluralization Syntax) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
             "سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔ (All rooms [kamray] of the school are clean, and new notebooks [kaapiyaan] and books [kitaabein] are placed on the desks.)",
-            "ایک لڑکا کھیل رہے ہیں اور بہت سی لڑکیاں بھاگتا ہے۔ (Target expression (Urdu))",
-            "کتاب کی جمع کتابا ہوتی ہے اور دروازہ کی جمع دروازیاں ہے۔ (Target expression (Urdu))",
-            "تمام کمرہ کو تالا لگا دیجیے۔ (Target expression (Urdu))"
+            "ایک لڑکا کھیل رہے ہیں اور بہت سی لڑکیاں بھاگتا ہے۔) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)",
+            "کتاب کی جمع کتابا ہوتی ہے اور دروازہ کی جمع دروازیاں ہے۔) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)",
+            "تمام کمرہ کو تالا لگا دیجیے۔) (Context: واحد سے جمع بنانے کے بنیادی اردو اص)"
           ],
           "answerIndex": 0,
           "explanation": "«سکول کے تمام کمرے صاف ہیں، اور میزوں پر نئی کاپیاں اور کتابیں رکھی ہوئی ہیں۔» تمام جمع اشکال کا درست جملہ ہے۔"
@@ -1351,9 +1351,9 @@
           "prompt": "عربی قاعدے کے تحت لفظ «ملک» (Country) کی باوقار جمع مکسر کیا ہے؟",
           "options": [
             "ممالک (Mamaalik - Arabic broken plural of 'mulk')",
-            "ملکوں (اردو عام جمع) (Target expression (Urdu))",
-            "ملکات (غلط لاحقہ) (Target expression (Urdu))",
-            "ملکان (فارسی لاحقہ) (Target expression (Urdu))"
+            "ملکوں (اردو عام جمع)) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)",
+            "ملکات (غلط لاحقہ)) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)",
+            "ملکان (فارسی لاحقہ)) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ ملک کی عربی جمع مکسر «ممالک» ہے۔"
@@ -1366,9 +1366,9 @@
           "prompt": "عربی لاحقہ «-ات» (-aat) کے ذریعے بننے والی جمع کی درست مثال پہچانیے:",
           "options": [
             "معلومات / دستاویزات (Information / Documents - Authentic plural forms with Arabic suffix -aat)",
-            "لڑکیات / کرسیات (غلط ساخت) (Target expression (Urdu))",
-            "شہرات / گاؤںات (غیر مانوس) (Target expression (Urdu))",
-            "درختات / پودات (غلط ساخت) (Target expression (Urdu))"
+            "لڑکیات / کرسیات (غلط ساخت)) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)",
+            "شہرات / گاؤںات (غیر مانوس)) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)",
+            "درختات / پودات (غلط ساخت)) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)"
           ],
           "answerIndex": 0,
           "explanation": "«معلومات» اور «دستاویزات» لاحقہ -ات کے ساتھ فصیح جمع کی مثالیں ہیں۔"
@@ -1382,9 +1382,9 @@
           "prompt": "عربی و فارسی جمع کے اوزان (Arabic & Persian Plural Usage) کا مکمل فصیح جملہ پہچانیے:",
           "options": [
             "اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔ (In this academic seminar, delegates arriving from various countries [mamaalik] presented their research papers [maqaalaat] and key theories [nazriyaat].)",
-            "ممالک کی جمع ممالکات ہوتی ہے اور یہ دونوں غلط ہیں۔ (Target expression (Urdu))",
-            "کاغذات کو صرف آگ میں جلانے کے لیے جمع کہا جاتا ہے۔ (Target expression (Urdu))",
-            "صاحبان کا مطلب اکیلا فقیر آدمی ہوتا ہے۔ (Target expression (Urdu))"
+            "ممالک کی جمع ممالکات ہوتی ہے اور یہ دونوں غلط ہیں۔) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)",
+            "کاغذات کو صرف آگ میں جلانے کے لیے جمع کہا جاتا ہے۔) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)",
+            "صاحبان کا مطلب اکیلا فقیر آدمی ہوتا ہے۔) (Context: عربی و فارسی طرز کی باقاعدہ و بے قا)"
           ],
           "answerIndex": 0,
           "explanation": "«اس علمی سیمینار میں مختلف ممالک سے آئے ہوئے مندوبین نے اپنے تحقیقی مقالات اور اہم نظریات پیش کیے۔» عربی جمع کا فصیح جملہ ہے۔"
@@ -1433,9 +1433,9 @@
           "prompt": "مؤنث جمع اسم «لڑکیاں» کے ساتھ صفت «اچھا» کی درست شکل کیا ہوگی؟",
           "options": [
             "اچھی لڑکیاں (Good girls - Feminine adjective form remains 'achhi' for both singular and plural)",
-            "اچھیاں لڑکیاں (غلط تانیث جمع) (Target expression (Urdu))",
-            "اچھے لڑکیاں (مذکر جمع کی غلطی) (Target expression (Urdu))",
-            "اچھوں لڑکیاں (مغیرہ غلطی) (Target expression (Urdu))"
+            "اچھیاں لڑکیاں (غلط تانیث جمع)) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)",
+            "اچھے لڑکیاں (مذکر جمع کی غلطی)) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)",
+            "اچھوں لڑکیاں (مغیرہ غلطی)) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)"
           ],
           "answerIndex": 0,
           "explanation": "اردو میں مؤنث کی صفت واحد اور جمع دونوں کے ساتھ «اچھی» ہی رہتی ہے (جیسے: اچھی لڑکی، اچھی لڑکیاں)۔"
@@ -1448,9 +1448,9 @@
           "prompt": "کسی محترم بزرگ یا استاد کے لیے واحد ہوتے ہوئے بھی کون سا صیغہ بولنا شائستہ اور لازمی ہے؟",
           "options": [
             "تعظیمی جمع کا صیغہ (Honorific Plural - Using plural verb and pronoun 'aap/unhon' for singular elders)",
-            "واحد حقارت کا صیغہ (تو/وہ) (Target expression (Urdu))",
-            "صرف اشارے کا صیغہ (یہ/وہ) (Target expression (Urdu))",
-            "مجہول صیغہ (بے نام) (Target expression (Urdu))"
+            "واحد حقارت کا صیغہ (تو/وہ)) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)",
+            "صرف اشارے کا صیغہ (یہ/وہ)) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)",
+            "مجہول صیغہ (بے نام)) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)"
           ],
           "answerIndex": 0,
           "explanation": "بزرگوں کے احترام کے لیے واحد کے بجائے «تعظیمی جمع» (Honorific Plural) استعمال کی جاتی ہے۔"
@@ -1464,9 +1464,9 @@
           "prompt": "اسم، جنس، صفت اور جمع کی کامل مطابقت (Grand Concord & Agreement) کا جامع جملہ پہچانیے:",
           "options": [
             "ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔ (Our respected teachers arrived [honorific plural], and they awarded splendid prizes to talented male students and hardworking female students.)",
-            "استاد آیا اور اس نے بولا کہ سب چپ بیٹھ جا۔ (Target expression (Urdu))",
-            "اچھیاں لڑکے اور اچھے لڑکیاں سب مل کر شور مچاتی ہے۔ (Target expression (Urdu))",
-            "تمام باغات میں پرانی کتاب کھل گئی ہے۔ (Target expression (Urdu))"
+            "استاد آیا اور اس نے بولا کہ سب چپ بیٹھ جا۔) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)",
+            "اچھیاں لڑکے اور اچھے لڑکیاں سب مل کر شور مچاتی ہے۔) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)",
+            "تمام باغات میں پرانی کتاب کھل گئی ہے۔) (Context: اسم، جنس، صفت اور جمع کا ہم آہنگ تر)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمارے محترم اساتذہ کرام تشریف لائے ہیں اور انہوں نے ہونہار طلبہ اور محنتی طالبات کو شاندار انعامات عطا کیے۔» مطابقت اور تعظیم کا مکمل اور فصیح جملہ ہے۔"
@@ -1515,9 +1515,9 @@
           "prompt": "اردو زبان میں کسی معزز اجنبی، استاد یا بزرگ کو مخاطب کرنے کے لیے سب سے باوقار ضمیر کون سی ہے؟",
           "options": [
             "آپ (Aap - Highest polite honorific second-person pronoun in Urdu)",
-            "تو (بے تکلفی) (Target expression (Urdu))",
-            "تم (غیر رسمی) (Target expression (Urdu))",
-            "وہ (غائب) (Target expression (Urdu))"
+            "تو (بے تکلفی)) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)",
+            "تم (غیر رسمی)) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)",
+            "وہ (غائب)) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)"
           ],
           "answerIndex": 0,
           "explanation": "بزرگوں اور معززین کے لیے تعظیمی ضمیر «آپ» استعمال ہوتی ہے۔"
@@ -1530,9 +1530,9 @@
           "prompt": "اپنے ذاتی وجود اور جمع کے لیے ضمیرِ متکلم کے درست جوڑے کی شناخت کیجیے:",
           "options": [
             "میں (واحد) اور ہم (جمع) (Main [singular I] and Hum [plural We] - Core first-person pronouns)",
-            "تو اور تم (حاضر ضمائر) (Target expression (Urdu))",
-            "یہ اور وہ (غائب ضمائر) (Target expression (Urdu))",
-            "اپنا اور اس کا (ملکیتی) (Target expression (Urdu))"
+            "تو اور تم (حاضر ضمائر)) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)",
+            "یہ اور وہ (غائب ضمائر)) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)",
+            "اپنا اور اس کا (ملکیتی)) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)"
           ],
           "answerIndex": 0,
           "explanation": "ضمیر متکلم میں واحد «میں» اور جمع «ہم» ہے۔"
@@ -1546,9 +1546,9 @@
           "prompt": "ضمائر اور درجاتِ تخاطب (Personal Pronouns & Politeness) کا مکمل فصیح جملہ پہچانیے:",
           "options": [
             "میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔ (I am grateful from the heart for your guidance, and we all together will follow the path you showed.)",
-            "استاد کو تو بول کر مذاق اڑانا چاہیے تاکہ وہ خوش ہو۔ (Target expression (Urdu))",
-            "ضمیر غائب صرف چھپنے والے چوروں کے لیے استعمال ہوتی ہے۔ (Target expression (Urdu))",
-            "ہم کا مطلب صرف اکیلی بلی ہوتا ہے۔ (Target expression (Urdu))"
+            "استاد کو تو بول کر مذاق اڑانا چاہیے تاکہ وہ خوش ہو۔) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)",
+            "ضمیر غائب صرف چھپنے والے چوروں کے لیے استعمال ہوتی ہے۔) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)",
+            "ہم کا مطلب صرف اکیلی بلی ہوتا ہے۔) (Context: ضمائرِ شخصی اور درجاتِ تخاطب (Perso)"
           ],
           "answerIndex": 0,
           "explanation": "«میں آپ کی رہنمائی کا دل سے شکر گزار ہوں اور ہم سب مل کر آپ کے بتائے ہوئے راستے پر چلیں گے۔» ضمائر کا فصیح جملہ ہے۔"
@@ -1597,9 +1597,9 @@
           "prompt": "اردو جملے «احمد ... خط لکھا» میں فاعل کے بعد کون سا حرفِ ربط آئے گا؟",
           "options": [
             "نے (Ne - Ergative postposition marking subject in transitive past tense)",
-            "کو (مفعولی علامت) (Target expression (Urdu))",
-            "سے (ذریعہ علامت) (Target expression (Urdu))",
-            "پر (ظرفی علامت) (Target expression (Urdu))"
+            "کو (مفعولی علامت)) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()",
+            "سے (ذریعہ علامت)) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()",
+            "پر (ظرفی علامت)) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()"
           ],
           "answerIndex": 0,
           "explanation": "ماضی متعدی میں فاعل کے ساتھ «نے» کا استعمال ہوتا ہے: «احمد نے خط لکھا»۔"
@@ -1612,9 +1612,9 @@
           "prompt": "کسی مقام کے اندر موجودگی ظاہر کرنے کے لیے کون سا پرسرگ استعمال ہوتا ہے؟",
           "options": [
             "میں (In / Inside - Locative postposition expressing containment or location within)",
-            "سے (دوری) (Target expression (Urdu))",
-            "کو (ہدف) (Target expression (Urdu))",
-            "تک (انتہا) (Target expression (Urdu))"
+            "سے (دوری)) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()",
+            "کو (ہدف)) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()",
+            "تک (انتہا)) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()"
           ],
           "answerIndex": 0,
           "explanation": "اندرونی مقام کے لیے «میں» بولا جاتا ہے (جیسے: کمرے میں، دل میں)۔"
@@ -1628,9 +1628,9 @@
           "prompt": "حروفِ ربط (Postpositions) کے درست استعمال کا مکمل جملہ پہچانیے:",
           "options": [
             "استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔ (The teacher read out an interesting story from the book to the student.)",
-            "طالب علم نے استاد سے کو کتاب میں پھینک دیا۔ (Target expression (Urdu))",
-            "پر کا مطلب صرف چڑیا کے پر ہوتے ہیں اور کوئی معنی نہیں۔ (Target expression (Urdu))",
-            "نے کو جملے کے شروع میں بغیر اسم کے لگانا چاہیے۔ (Target expression (Urdu))"
+            "طالب علم نے استاد سے کو کتاب میں پھینک دیا۔) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()",
+            "پر کا مطلب صرف چڑیا کے پر ہوتے ہیں اور کوئی معنی نہیں۔) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()",
+            "نے کو جملے کے شروع میں بغیر اسم کے لگانا چاہیے۔) (Context: حروفِ ربط (پرسرگ) اور ان کے معانی ()"
           ],
           "answerIndex": 0,
           "explanation": "«استاد نے طالب علم کو کتاب سے ایک دلچسپ کہانی پڑھ کر سنائی۔» حروفِ ربط کا بالکل درست اور مربوط جملہ ہے۔"
@@ -1679,9 +1679,9 @@
           "prompt": "جب لفظ «کمرہ» کے بعد حرفِ ربط «میں» آئے تو اسم کی کون سی شکل درست ہوگی؟",
           "options": [
             "کمرے میں (Kamre mein - Correct oblique singular form ending in -e)",
-            "کمرہ میں (غیر مغیرہ فاش غلطی) (Target expression (Urdu))",
-            "کمروں میں (جمع مغیرہ) (Target expression (Urdu))",
-            "کمریاں میں (غلط ساخت) (Target expression (Urdu))"
+            "کمرہ میں (غیر مغیرہ فاش غلطی)) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)",
+            "کمروں میں (جمع مغیرہ)) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)",
+            "کمریاں میں (غلط ساخت)) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)"
           ],
           "answerIndex": 0,
           "explanation": "الف/ہ والے مذکر اسم کے بعد پرسرگ آنے پر وہ 'ے' میں بدلتا ہے: «کمرے میں»۔"
@@ -1694,9 +1694,9 @@
           "prompt": "جمع اسم «لڑکیاں» کے بعد حرفِ ربط «کو» لگانے پر کیا صورت بنے گی؟",
           "options": [
             "لڑکیوں کو (Ladkiyon ko - Oblique plural form ending in -on with postposition)",
-            "لڑکیاں کو (غیر مغیرہ غلطی) (Target expression (Urdu))",
-            "لڑکے کو (واحد مذکر) (Target expression (Urdu))",
-            "لڑکوں کو (مذکر جمع) (Target expression (Urdu))"
+            "لڑکیاں کو (غیر مغیرہ غلطی)) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)",
+            "لڑکے کو (واحد مذکر)) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)",
+            "لڑکوں کو (مذکر جمع)) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع اسم کے بعد پرسرگ آنے پر وہ «لڑکیوں کو» بن جاتا ہے۔"
@@ -1710,9 +1710,9 @@
           "prompt": "اسماء کی حالتِ مغیرہ (Oblique Noun Case) کا مکمل معیاری جملہ پہچانیے:",
           "options": [
             "باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔ (Sitting in the shade of the dense trees [darakhton] of the garden, the children [bachchon] enjoyed the sweet fruits [phalon].)",
-            "باغ کا درختیں میں بیٹھ کر بچہ نے پھلیں کھایا۔ (Target expression (Urdu))",
-            "حالت مغیرہ صرف نیند میں بولنے والے جملوں کو کہتے ہیں۔ (Target expression (Urdu))",
-            "کتابوں کو کے بعد ہمیشہ تالا لگانا چاہیے۔ (Target expression (Urdu))"
+            "باغ کا درختیں میں بیٹھ کر بچہ نے پھلیں کھایا۔) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)",
+            "حالت مغیرہ صرف نیند میں بولنے والے جملوں کو کہتے ہیں۔) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)",
+            "کتابوں کو کے بعد ہمیشہ تالا لگانا چاہیے۔) (Context: اسماء کی حالتِ مغیرہ / حالتِ مفعولی)"
           ],
           "answerIndex": 0,
           "explanation": "«باغ کے گھنے درختوں کی چھاؤں میں بیٹھ کر بچوں نے میٹھے پھلوں کا لطف اٹھایا۔» حالتِ مغیرہ کے تمام قواعد پر پورا اترتا ہے۔"
@@ -1761,9 +1761,9 @@
           "prompt": "ضمیر «میں» کے ساتھ جب حرفِ ربط «سے» ملایا جائے تو درست مغیرہ شکل کیا ہوگی؟",
           "options": [
             "مجھ سے (Mujh se - Correct oblique first-person pronoun with postposition)",
-            "میں سے (فاش نحوی غلطی) (Target expression (Urdu))",
-            "مرا سے (غلط شکل) (Target expression (Urdu))",
-            "ہم سے کو (بے معنی) (Target expression (Urdu))"
+            "میں سے (فاش نحوی غلطی)) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)",
+            "مرا سے (غلط شکل)) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)",
+            "ہم سے کو (بے معنی)) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)"
           ],
           "answerIndex": 0,
           "explanation": "«میں» کی حالتِ مغیرہ «مجھ» ہے، لہٰذا درست ترکیب «مجھ سے» ہے۔"
@@ -1776,9 +1776,9 @@
           "prompt": "ترکیب «اس کو» کی فصیح مختصر شکل کیا ہے؟",
           "options": [
             "اسے (Use - Contracted dative/accusative third-person pronoun)",
-            "اسیں (غلط لاحقہ) (Target expression (Urdu))",
-            "اسوں (بے معنی) (Target expression (Urdu))",
-            "اسکا (ملکیتی) (Target expression (Urdu))"
+            "اسیں (غلط لاحقہ)) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)",
+            "اسوں (بے معنی)) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)",
+            "اسکا (ملکیتی)) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)"
           ],
           "answerIndex": 0,
           "explanation": "«اس کو» کی فصیح مختصر شکل «اسے» ہے۔"
@@ -1792,9 +1792,9 @@
           "prompt": "ضمائر کی حالتِ مغیرہ اور مفعولی اشکال (Oblique Pronouns) کا فصیح جملہ پہچانیے:",
           "options": [
             "انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔ (They gave me [mujhe] their valuable pen, and I kept it [use] safely with gratitude.)",
-            "میں نے اس کو کو بولا کہ تم میں سے بھاگ جا۔ (Target expression (Urdu))",
-            "انہیں کا مطلب صرف گھوڑے کی لگام ہوتا ہے۔ (Target expression (Urdu))",
-            "مجھ سے کے بجائے ہمیشہ 'میں سے' کہنا چاہیے۔ (Target expression (Urdu))"
+            "میں نے اس کو کو بولا کہ تم میں سے بھاگ جا۔) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)",
+            "انہیں کا مطلب صرف گھوڑے کی لگام ہوتا ہے۔) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)",
+            "مجھ سے کے بجائے ہمیشہ 'میں سے' کہنا چاہیے۔) (Context: ضمائر کی حالتِ مغیرہ اور ترکیبی اشک)"
           ],
           "answerIndex": 0,
           "explanation": "«انہوں نے مجھے اپنا قیمتی قلم دیا اور میں نے اسے شکریے کے ساتھ سنبھال کر رکھ لیا۔» ضمائر کی مفعولی اشکال کا درست جملہ ہے۔"
@@ -1843,9 +1843,9 @@
           "prompt": "جملے «عائشہ نے ... گاڑی صاف کی» میں جب عائشہ اپنی ہی گاڑی صاف کر رہی ہو تو کون سا لفظ آئے گا؟",
           "options": [
             "اپنی (Apni - Reflexive possessive pronoun matching subject Aisha and feminine noun gaadi)",
-            "اس کی (کسی دوسری عورت کی) (Target expression (Urdu))",
-            "تمہاری (دوسرے کی) (Target expression (Urdu))",
-            "ان کی (جمع غیر کی) (Target expression (Urdu))"
+            "اس کی (کسی دوسری عورت کی)) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')",
+            "تمہاری (دوسرے کی)) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')",
+            "ان کی (جمع غیر کی)) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')"
           ],
           "answerIndex": 0,
           "explanation": "فاعل کی اپنی ملکیت کے لیے ضمیرِ مشترک «اپنی» آئے گی: «عائشہ نے اپنی گاڑی صاف کی»۔"
@@ -1858,9 +1858,9 @@
           "prompt": "مذکر واحد اسم «گھر» کے ساتھ فاعل 'میں' کے لیے ضمیرِ مشترک کیا ہوگی؟",
           "options": [
             "اپنا گھر (My own house - Reflexive pronoun 'apna' matching masculine singular noun)",
-            "میری گھر (تانیث کی غلطی) (Target expression (Urdu))",
-            "اپنے گھر (جمع صیغہ) (Target expression (Urdu))",
-            "اس کا گھر (دوسرے کا گھر) (Target expression (Urdu))"
+            "میری گھر (تانیث کی غلطی)) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')",
+            "اپنے گھر (جمع صیغہ)) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')",
+            "اس کا گھر (دوسرے کا گھر)) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد اسم کے ساتھ ضمیرِ مشترک «اپنا» (جیسے: اپنا گھر) ہوگی۔"
@@ -1874,9 +1874,9 @@
           "prompt": "ملکیتی اور مشترک ضمائر (Possessive & Reflexive Pronouns) کا کامل فصیح جملہ پہچانیے:",
           "options": [
             "ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔ (Every person ought to discharge their own [apne] duties honestly so that our [hamaara] society may become a cradle of peace and prosperity.)",
-            "احمد اس کا کتاب پڑھتا ہے جب وہ خود کی پڑھائی کرتا ہے۔ (Target expression (Urdu))",
-            "اپنا کا مطلب صرف بازار سے خریدا ہوا سیب ہوتا ہے۔ (Target expression (Urdu))",
-            "تمام لوگ تمہارا گھر چلے گئے اپنے گھر کے بجائے۔ (Target expression (Urdu))"
+            "احمد اس کا کتاب پڑھتا ہے جب وہ خود کی پڑھائی کرتا ہے۔) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')",
+            "اپنا کا مطلب صرف بازار سے خریدا ہوا سیب ہوتا ہے۔) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')",
+            "تمام لوگ تمہارا گھر چلے گئے اپنے گھر کے بجائے۔) (Context: ملکیتی ضمائر اور ضمیرِ مشترک 'اپنا')"
           ],
           "answerIndex": 0,
           "explanation": "«ہر انسان کو اپنے فرائض دیانتداری سے ادا کرنے چاہئیں تاکہ ہمارا معاشرہ امن اور خوشحالی کا گہوارہ بن سکے۔» ملکیتی اور مشترک ضمائر کا بالکل درست استعمال ہے۔"
@@ -1925,9 +1925,9 @@
           "prompt": "مذکر واحد فاعل «احمد» کے ساتھ فعل «پڑھنا» کا حال مطلق کیا ہوگا؟",
           "options": [
             "پڑھتا ہے (Parhta hai - Masculine singular habitual present tense)",
-            "پڑھتی ہے (تانیث صیغہ) (Target expression (Urdu))",
-            "پڑھتے ہیں (جمع صیغہ) (Target expression (Urdu))",
-            "پڑھتا تھا (ماضی صیغہ) (Target expression (Urdu))"
+            "پڑھتی ہے (تانیث صیغہ)) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)",
+            "پڑھتے ہیں (جمع صیغہ)) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)",
+            "پڑھتا تھا (ماضی صیغہ)) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد کے ساتھ فعل حال مطلق «پڑھتا ہے» بنتا ہے۔"
@@ -1940,9 +1940,9 @@
           "prompt": "مؤنث واحد فاعل «عائشہ» کے ساتھ فعل «لکھنا» کا درست صیغہ کیا ہے؟",
           "options": [
             "لکھتی ہے (Likhti hai - Feminine singular habitual present tense)",
-            "لکھتا ہے (مذکر صیغہ) (Target expression (Urdu))",
-            "لکھتے ہیں (جمع صیغہ) (Target expression (Urdu))",
-            "لکھتیں ہیں (غیر فصیح) (Target expression (Urdu))"
+            "لکھتا ہے (مذکر صیغہ)) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)",
+            "لکھتے ہیں (جمع صیغہ)) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)",
+            "لکھتیں ہیں (غیر فصیح)) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث واحد کے ساتھ «لکھتی ہے» درست ہے۔"
@@ -1956,9 +1956,9 @@
           "prompt": "فعل حال مطلق کی درست گردان (Present Habitual Morphology) کا مکمل جملہ پہچانیے:",
           "options": [
             "باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔ (The gardener waters the plants every morning [paani deta hai] and plucks beautiful flowers.)",
-            "باغبان پودوں کو پانی دیتیں ہیں اور مالی پھول کھاتی ہے۔ (Target expression (Urdu))",
-            "حال مطلق کا مطلب صرف سال میں ایک بار ہنسنا ہوتا ہے۔ (Target expression (Urdu))",
-            "سورج مغرب سے نکلتا ہے اور رات کو دوپہر ہوتی ہے۔ (Target expression (Urdu))"
+            "باغبان پودوں کو پانی دیتیں ہیں اور مالی پھول کھاتی ہے۔) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)",
+            "حال مطلق کا مطلب صرف سال میں ایک بار ہنسنا ہوتا ہے۔) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)",
+            "سورج مغرب سے نکلتا ہے اور رات کو دوپہر ہوتی ہے۔) (Context: فعل حال مطلق کی ساخت اور گردان (Pre)"
           ],
           "answerIndex": 0,
           "explanation": "«باغبان روزانہ صبح پودوں کو پانی دیتا ہے اور مالی خوبصورت پھول چنتا ہے۔» حال مطلق کی درست اور فصیح گردان ہے۔"
@@ -2007,9 +2007,9 @@
           "prompt": "جملے «میری بہن روزانہ شام کو کتاب ...» میں درست فعل کیا آئے گا؟",
           "options": [
             "پڑھتی ہے (Parhti hai - Correct feminine singular verb matching sister)",
-            "پڑھتا ہے (مذکر صیغہ) (Target expression (Urdu))",
-            "پڑھتے ہیں (مذکر جمع) (Target expression (Urdu))",
-            "پڑھا تھا (ماضی) (Target expression (Urdu))"
+            "پڑھتا ہے (مذکر صیغہ)) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)",
+            "پڑھتے ہیں (مذکر جمع)) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)",
+            "پڑھا تھا (ماضی)) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل 'بہن' مؤنث واحد ہے، اس لیے فعل «پڑھتی ہے» آئے گا۔"
@@ -2022,9 +2022,9 @@
           "prompt": "تعظیمی فاعل «والد صاحب» کے ساتھ معمول کے فعل کی درست شکل کیا ہوگی؟",
           "options": [
             "تشریف لاتے ہیں (Tashreef laate hain - Respectful plural agreement for singular father)",
-            "تشریف لاتا ہے (غیر مؤدب) (Target expression (Urdu))",
-            "تشریف لاتی ہے (تانیث کی غلطی) (Target expression (Urdu))",
-            "تشریف لائی تھی (ماضی) (Target expression (Urdu))"
+            "تشریف لاتا ہے (غیر مؤدب)) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)",
+            "تشریف لاتی ہے (تانیث کی غلطی)) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)",
+            "تشریف لائی تھی (ماضی)) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)"
           ],
           "answerIndex": 0,
           "explanation": "والد صاحب کے لیے تعظیمی جمع «تشریف لاتے ہیں» بولا جاتا ہے۔"
@@ -2038,9 +2038,9 @@
           "prompt": "معمولات اور جنس کی مطابقت (Daily Routines & Agreement) کا فصیح جملہ پہچانیے:",
           "options": [
             "محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔ (The hardworking teacher arrives on time in class, and all students study their lesson attentively.)",
-            "استاد کلاس میں آتی ہے اور سب لڑکے بھاگتا ہے۔ (Target expression (Urdu))",
-            "روزمرہ معمول کا مطلب صرف جھوٹ بول کر سونا ہے۔ (Target expression (Urdu))",
-            "گاڑی پانی پیتی ہے اور انسان پٹرول کھاتا ہے۔ (Target expression (Urdu))"
+            "استاد کلاس میں آتی ہے اور سب لڑکے بھاگتا ہے۔) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)",
+            "روزمرہ معمول کا مطلب صرف جھوٹ بول کر سونا ہے۔) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)",
+            "گاڑی پانی پیتی ہے اور انسان پٹرول کھاتا ہے۔) (Context: روزمرہ معمولات اور فاعل کے مطابق تا)"
           ],
           "answerIndex": 0,
           "explanation": "«محنتی استاد وقت پر کلاس میں آتے ہیں اور تمام طلبہ دل لگا کر اپنا سبق پڑھتے ہیں۔» مطابقت کا مکمل اور درست جملہ ہے۔"
@@ -2089,9 +2089,9 @@
           "prompt": "جملے «وہ سگریٹ ... پیتا» میں منفی مفہوم ادا کرنے کے لیے کیا لگایا جائے گا؟",
           "options": [
             "نہیں (Nahin - Standard negation particle placed before verb)",
-            "مت (حکم میں استعمال) (Target expression (Urdu))",
-            "نہ کہ (موازنہ) (Target expression (Urdu))",
-            "کبھی (مثبت) (Target expression (Urdu))"
+            "مت (حکم میں استعمال)) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)",
+            "نہ کہ (موازنہ)) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)",
+            "کبھی (مثبت)) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)"
           ],
           "answerIndex": 0,
           "explanation": "حال مطلق میں نفی کے لیے فعل سے پہلے «نہیں» لگایا جاتا ہے: «وہ سگریٹ نہیں پیتا»۔"
@@ -2104,9 +2104,9 @@
           "prompt": "اردو جملے «ہم جھوٹ نہیں ...» کا فصیح اختتام کیا ہوگا؟",
           "options": [
             "بولتے (Bolte - Habitual masculine plural negative verb)",
-            "بولتا (واحد مذکر) (Target expression (Urdu))",
-            "بولتی (واحد مؤنث) (Target expression (Urdu))",
-            "بولیں گے (مستقبل) (Target expression (Urdu))"
+            "بولتا (واحد مذکر)) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)",
+            "بولتی (واحد مؤنث)) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)",
+            "بولیں گے (مستقبل)) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل 'ہم' کے ساتھ منفی فعل «بولتے» (یا 'بولتے ہیں') آئے گا۔"
@@ -2120,9 +2120,9 @@
           "prompt": "حال مطلق کے منفی جملے (Negative Present Habitual) کا فصیح معیار پہچانیے:",
           "options": [
             "دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔ (An honest merchant never falls short in weights and measures [kami nahin karta], nor deceives customers.)",
-            "دیانتدار تاجر مت تولتا ہے اور مت بیچتا ہے۔ (Target expression (Urdu))",
-            "منفی جملے صرف برے خواب دیکھنے پر بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "نہیں کو ہمیشہ جملے کے آخری لفظ کے بعد لگانا چاہیے۔ (Target expression (Urdu))"
+            "دیانتدار تاجر مت تولتا ہے اور مت بیچتا ہے۔) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)",
+            "منفی جملے صرف برے خواب دیکھنے پر بولے جاتے ہیں۔) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)",
+            "نہیں کو ہمیشہ جملے کے آخری لفظ کے بعد لگانا چاہیے۔) (Context: فعل حال مطلق میں نفی کی ساخت (Negat)"
           ],
           "answerIndex": 0,
           "explanation": "«دیانتدار تاجر کبھی ناپ تول میں کمی نہیں کرتا اور نہ خریداروں کو دھوکہ دیتا ہے۔» منفی حال مطلق کا مکمل اور درست جملہ ہے۔"
@@ -2171,9 +2171,9 @@
           "prompt": "کسی سے وقت معلوم کرنے کے لیے کون سا سوالیہ کلمہ استعمال کیا جاتا ہے؟",
           "options": [
             "کب (Kab - Interrogative word for 'when' inquiring about time)",
-            "کہاں (مقام) (Target expression (Urdu))",
-            "کیوں (سبب) (Target expression (Urdu))",
-            "کون (شخص) (Target expression (Urdu))"
+            "کہاں (مقام)) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)",
+            "کیوں (سبب)) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)",
+            "کون (شخص)) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)"
           ],
           "answerIndex": 0,
           "explanation": "وقت دریافت کرنے کے لیے «کب» بولا جاتا ہے (جیسے: «آپ کب آتے ہیں؟»)۔"
@@ -2186,9 +2186,9 @@
           "prompt": "ہاں یا نہ میں جواب طلب کرنے کے لیے جملے کے آغاز میں کیا لگایا جاتا ہے؟",
           "options": [
             "کیا (Kya - Question particle placed at sentence beginning for yes/no query)",
-            "کیوں (وجہ) (Target expression (Urdu))",
-            "کیسے (طریقہ) (Target expression (Urdu))",
-            "کس کا (ملکیت) (Target expression (Urdu))"
+            "کیوں (وجہ)) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)",
+            "کیسے (طریقہ)) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)",
+            "کس کا (ملکیت)) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)"
           ],
           "answerIndex": 0,
           "explanation": "ہاں/نہ والے سوالات جملے کے شروع میں «کیا» سے بنتے ہیں۔"
@@ -2202,9 +2202,9 @@
           "prompt": "حال مطلق کے سوالیہ جملوں (Interrogative Sentences) کا مکمل مستند جملہ پہچانیے:",
           "options": [
             "کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟ (Do you go to the library every morning and study books on academic subjects there?)",
-            "کیوں کہاں کب آپ پانی پیتا ہے؟ (Target expression (Urdu))",
-            "سوالیہ جملے کا مطلب صرف غصے میں چیخنا ہوتا ہے۔ (Target expression (Urdu))",
-            "کیا کو صرف جملے کے اندر چھپا کر رکھنا چاہیے۔ (Target expression (Urdu))"
+            "کیوں کہاں کب آپ پانی پیتا ہے؟) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)",
+            "سوالیہ جملے کا مطلب صرف غصے میں چیخنا ہوتا ہے۔) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)",
+            "کیا کو صرف جملے کے اندر چھپا کر رکھنا چاہیے۔) (Context: فعل حال مطلق میں سوالیہ جملے (Inter)"
           ],
           "answerIndex": 0,
           "explanation": "«کیا آپ روزانہ صبح لائبریری جاتے ہیں اور وہاں علمی موضوعات پر کتب کا مطالعہ کرتے ہیں؟» سوالیہ حال مطلق کا مکمل جملہ ہے۔"
@@ -2253,9 +2253,9 @@
           "prompt": "مختلف فاعلوں کے ساتھ حال مطلق کا کون سا مجموعہ مکمل درست ہے؟",
           "options": [
             "لڑکا کھیلتا ہے، لڑکی پڑھتی ہے، بزرگ فرماتے ہیں (Boy plays, girl studies, elder speaks - Perfect gender & honorific concord)",
-            "لڑکا کھیلتی ہے، لڑکی پڑھتا ہے (الٹی جنس) (Target expression (Urdu))",
-            "بزرگ فرماتا ہے (بے ادبی) (Target expression (Urdu))",
-            "سب بھاگیں گے (مستقبل) (Target expression (Urdu))"
+            "لڑکا کھیلتی ہے، لڑکی پڑھتا ہے (الٹی جنس)) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )",
+            "بزرگ فرماتا ہے (بے ادبی)) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )",
+            "سب بھاگیں گے (مستقبل)) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )"
           ],
           "answerIndex": 0,
           "explanation": "مذکر (کھیلتا ہے)، مؤنث (پڑھتی ہے) اور تعظیم (فرماتے ہیں) کی بالکل درست مطابقت ہے۔"
@@ -2268,9 +2268,9 @@
           "prompt": "شائستہ روزمرہ زندگی کے بیانیہ میں فعل حال مطلق کا بنیادی کردار کیا ہے؟",
           "options": [
             "دائمی عادات اور باقاعدہ معمولات کا فصیح اظہار (Expressing habitual routines, facts, and permanent traits)",
-            "صرف ماضی کی کہانیاں سنانا (Target expression (Urdu))",
-            "صرف آنے والے کل کے خواب دیکھنا (Target expression (Urdu))",
-            "بغیر معنی کے الفاظ جوڑنا (Target expression (Urdu))"
+            "صرف ماضی کی کہانیاں سنانا) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )",
+            "صرف آنے والے کل کے خواب دیکھنا) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )",
+            "بغیر معنی کے الفاظ جوڑنا) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )"
           ],
           "answerIndex": 0,
           "explanation": "فعل حال مطلق دائمی معمولات، عادات اور سچائیوں کے بیان کے لیے مستعمل ہے۔"
@@ -2284,9 +2284,9 @@
           "prompt": "فعل حال مطلق کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔ (He who values knowledge [qadr karta hai], studies daily with diligence [parhta hai], and respects teachers [ehtiram karta hai], achieves success [kaamyaabi haasil karta hai] in every field of life.)",
-            "جو شخص علم کا قدر کرتی ہیں وہ ہمیشہ روتا ہے۔ (Target expression (Urdu))",
-            "حال مطلق کو صرف فارسی میں لکھنا چاہیے اردو میں منع ہے۔ (Target expression (Urdu))",
-            "تمام اساتذہ کلاس میں نہیں پڑھاتی تھیں۔ (Target expression (Urdu))"
+            "جو شخص علم کا قدر کرتی ہیں وہ ہمیشہ روتا ہے۔) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )",
+            "حال مطلق کو صرف فارسی میں لکھنا چاہیے اردو میں منع ہے۔) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )",
+            "تمام اساتذہ کلاس میں نہیں پڑھاتی تھیں۔) (Context: فعل حال مطلق کا جامع اطلاق و سمیکن )"
           ],
           "answerIndex": 0,
           "explanation": "«جو شخص علم کی قدر کرتا ہے، روزانہ محنت سے پڑھتا ہے اور اساتذہ کا احترام کرتا ہے، وہ زندگی کے ہر میدان میں کامیابی حاصل کرتا ہے۔» حال مطلق کا جامع اور شاہکار جملہ ہے۔"
@@ -2335,9 +2335,9 @@
           "prompt": "مذکر واحد فاعل «علی» کے ساتھ فعل «لکھنا» کا حال جاری کیا ہوگا؟",
           "options": [
             "لکھ رہا ہے (Likh raha hai - Masculine singular present continuous tense)",
-            "لکھ رہی ہے (تانیث صیغہ) (Target expression (Urdu))",
-            "لکھ رہے ہیں (جمع صیغہ) (Target expression (Urdu))",
-            "لکھتا ہے (حال مطلق) (Target expression (Urdu))"
+            "لکھ رہی ہے (تانیث صیغہ)) (Context: فعل حال جاری کی ساخت اور گردان (Pre)",
+            "لکھ رہے ہیں (جمع صیغہ)) (Context: فعل حال جاری کی ساخت اور گردان (Pre)",
+            "لکھتا ہے (حال مطلق)) (Context: فعل حال جاری کی ساخت اور گردان (Pre)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد کے ساتھ فعل حال جاری «لکھ رہا ہے» بنتا ہے۔"
@@ -2350,9 +2350,9 @@
           "prompt": "مؤنث جمع فاعل «لڑکیاں» کے ساتھ فعل «پڑھنا» کا حال جاری کیا بنے گا؟",
           "options": [
             "پڑھ رہی ہیں (Parh rahi hain - Feminine plural present continuous tense)",
-            "پڑھ رہا ہے (مذکر واحد) (Target expression (Urdu))",
-            "پڑھ رہے ہیں (مذکر جمع) (Target expression (Urdu))",
-            "پڑھا تھا (ماضی) (Target expression (Urdu))"
+            "پڑھ رہا ہے (مذکر واحد)) (Context: فعل حال جاری کی ساخت اور گردان (Pre)",
+            "پڑھ رہے ہیں (مذکر جمع)) (Context: فعل حال جاری کی ساخت اور گردان (Pre)",
+            "پڑھا تھا (ماضی)) (Context: فعل حال جاری کی ساخت اور گردان (Pre)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع کے ساتھ «پڑھ رہی ہیں» درست ہے۔"
@@ -2366,9 +2366,9 @@
           "prompt": "فعل حال جاری کی ساخت (Present Continuous Morphology) کا مکمل جملہ پہچانیے:",
           "options": [
             "اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔ (At this time the farmer is plowing the fields [hal chala raha hai] and birds are flying in the air.)",
-            "کسان ہل چلا رہی ہیں اور پرندے روتا ہے۔ (Target expression (Urdu))",
-            "حال جاری کا مطلب صرف سوتے ہوئے خراٹے لینا ہے۔ (Target expression (Urdu))",
-            "رہا ہے کو جملے کے شروع میں اسم سے پہلے لگانا چاہیے۔ (Target expression (Urdu))"
+            "کسان ہل چلا رہی ہیں اور پرندے روتا ہے۔) (Context: فعل حال جاری کی ساخت اور گردان (Pre)",
+            "حال جاری کا مطلب صرف سوتے ہوئے خراٹے لینا ہے۔) (Context: فعل حال جاری کی ساخت اور گردان (Pre)",
+            "رہا ہے کو جملے کے شروع میں اسم سے پہلے لگانا چاہیے۔) (Context: فعل حال جاری کی ساخت اور گردان (Pre)"
           ],
           "answerIndex": 0,
           "explanation": "«اس وقت کسان کھیتوں میں ہل چلا رہا ہے اور پرندے فضا میں اڑ رہے ہیں۔» حال جاری کا بالکل درست جملہ ہے۔"
@@ -2417,9 +2417,9 @@
           "prompt": "مؤنث فاعل «استانی صاحبہ» کے ساتھ حال جاری کا کون سا صیغہ درست ہے؟",
           "options": [
             "پڑھا رہی ہیں (Parha rahi hain - Respectful feminine plural continuous verb)",
-            "پڑھا رہا ہے (مذکر واحد) (Target expression (Urdu))",
-            "پڑھا رہے ہیں (مذکر تعظیمی) (Target expression (Urdu))",
-            "پڑھایا تھا (ماضی) (Target expression (Urdu))"
+            "پڑھا رہا ہے (مذکر واحد)) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)",
+            "پڑھا رہے ہیں (مذکر تعظیمی)) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)",
+            "پڑھایا تھا (ماضی)) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)"
           ],
           "answerIndex": 0,
           "explanation": "محترمہ استانی صاحبہ کے لیے تعظیمی تانیث «پڑھا رہی ہیں» بولا جاتا ہے۔"
@@ -2432,9 +2432,9 @@
           "prompt": "مذکر جمع فاعل «طلبہ» کے ساتھ جاری فعل کی درست صورت کیا ہوگی؟",
           "options": [
             "کھیل رہے ہیں (Khel rahe hain - Masculine plural present continuous verb)",
-            "کھیل رہا ہے (واحد مذکر) (Target expression (Urdu))",
-            "کھیل رہی ہیں (مؤنث جمع) (Target expression (Urdu))",
-            "کھیلتا ہے (حال مطلق) (Target expression (Urdu))"
+            "کھیل رہا ہے (واحد مذکر)) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)",
+            "کھیل رہی ہیں (مؤنث جمع)) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)",
+            "کھیلتا ہے (حال مطلق)) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع فاعل کے ساتھ «کھیل رہے ہیں» درست ہے۔"
@@ -2448,9 +2448,9 @@
           "prompt": "جاری سرگرمیوں اور تذکیر و تانیث کی مطابقت (Ongoing Actions & Concord) کا فصیح جملہ پہچانیے:",
           "options": [
             "باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔ (The cook is cooking food [paka raha hai] in the kitchen, and the guests are taking their seats [tashreef rakh rahe hain] in the dining room.)",
-            "باورچی کھانا پکا رہی تھیں اور سب مہمان بھاگ رہا ہے۔ (Target expression (Urdu))",
-            "تذکیر و تانیث کا جاری فعل میں کوئی تعلق نہیں۔ (Target expression (Urdu))",
-            "تشریف رکھ رہے ہیں کا مطلب تالا توڑنا ہوتا ہے۔ (Target expression (Urdu))"
+            "باورچی کھانا پکا رہی تھیں اور سب مہمان بھاگ رہا ہے۔) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)",
+            "تذکیر و تانیث کا جاری فعل میں کوئی تعلق نہیں۔) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)",
+            "تشریف رکھ رہے ہیں کا مطلب تالا توڑنا ہوتا ہے۔) (Context: جاری سرگرمیاں اور فاعل کے مطابق مطا)"
           ],
           "answerIndex": 0,
           "explanation": "«باورچی باورچی خانے میں کھانا پکا رہا ہے اور مہمان کھانے کے کمرے میں تشریف رکھ رہے ہیں۔» جاری فعل اور مطابقت کا مکمل جملہ ہے۔"
@@ -2499,9 +2499,9 @@
           "prompt": "جملے «وہ کھانا ... کھا رہا ہے» میں نفی کا فصیح لفظ کیا ہوگا؟",
           "options": [
             "نہیں (Nahin - Standard negation particle placed before verb in continuous tense)",
-            "مت (حکم کی نفی) (Target expression (Urdu))",
-            "نا (غیر فصیح) (Target expression (Urdu))",
-            "بغیر (حرفِ جار) (Target expression (Urdu))"
+            "مت (حکم کی نفی)) (Context: فعل حال جاری میں نفی اور استمرار (N)",
+            "نا (غیر فصیح)) (Context: فعل حال جاری میں نفی اور استمرار (N)",
+            "بغیر (حرفِ جار)) (Context: فعل حال جاری میں نفی اور استمرار (N)"
           ],
           "answerIndex": 0,
           "explanation": "حال جاری میں نفی کے لیے فعل سے پہلے «نہیں» لگایا جاتا ہے: «وہ کھانا نہیں کھا رہا ہے»۔"
@@ -2514,9 +2514,9 @@
           "prompt": "فاعل 'ہم' کے ساتھ منفی حال جاری کا درست جملہ منتخب کیجیے:",
           "options": [
             "ہم وقت ضائع نہیں کر رہے ہیں (We are not wasting time - Correct plural negative continuous sentence)",
-            "ہم وقت ضائع مت کر رہے ہیں (غلط حرفِ نفی) (Target expression (Urdu))",
-            "ہم وقت ضائع نہیں کر رہا ہے (واحد مذکر غلطی) (Target expression (Urdu))",
-            "ہم وقت ضائع نہیں کرتا ہے (حال مطلق) (Target expression (Urdu))"
+            "ہم وقت ضائع مت کر رہے ہیں (غلط حرفِ نفی)) (Context: فعل حال جاری میں نفی اور استمرار (N)",
+            "ہم وقت ضائع نہیں کر رہا ہے (واحد مذکر غلطی)) (Context: فعل حال جاری میں نفی اور استمرار (N)",
+            "ہم وقت ضائع نہیں کرتا ہے (حال مطلق)) (Context: فعل حال جاری میں نفی اور استمرار (N)"
           ],
           "answerIndex": 0,
           "explanation": "فاعل 'ہم' کے ساتھ منفی حال جاری «ہم وقت ضائع نہیں کر رہے ہیں» درست ہے۔"
@@ -2530,9 +2530,9 @@
           "prompt": "فعل حال جاری میں منفی ساخت (Negative Present Continuous) کا مستند جملہ پہچانیے:",
           "options": [
             "ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔ (We are not causing any obstacle [rukaawat nahin daal rahe hain] in any respected citizen's work, but rather helping them.)",
-            "ہم رکاوٹ مت ڈال رہے ہیں اور نہ مدد کرتا ہے۔ (Target expression (Urdu))",
-            "منفی جاری فعل کا مطلب ہمیشہ کے لیے بولنا بند کرنا ہے۔ (Target expression (Urdu))",
-            "نہیں کو صرف فاعل سے پہلے لگانا لازمی ہے۔ (Target expression (Urdu))"
+            "ہم رکاوٹ مت ڈال رہے ہیں اور نہ مدد کرتا ہے۔) (Context: فعل حال جاری میں نفی اور استمرار (N)",
+            "منفی جاری فعل کا مطلب ہمیشہ کے لیے بولنا بند کرنا ہے۔) (Context: فعل حال جاری میں نفی اور استمرار (N)",
+            "نہیں کو صرف فاعل سے پہلے لگانا لازمی ہے۔) (Context: فعل حال جاری میں نفی اور استمرار (N)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم کسی معزز شہری کے کام میں رکاوٹ نہیں ڈال رہے ہیں بلکہ ان کی مدد کر رہے ہیں۔» منفی حال جاری کا جامع اور فصیح جملہ ہے۔"
@@ -2581,9 +2581,9 @@
           "prompt": "کسی شخص کے جاری کام کو دریافت کرنے کے لیے کون سا سوالیہ جملہ درست ہے؟",
           "options": [
             "آپ اس وقت کیا کر رہے ہیں؟ (What are you doing right now? - Authentic standard continuous question)",
-            "آپ کیوں کرتا ہے؟ (غیر معیاری) (Target expression (Urdu))",
-            "کیا آپ کھانا کھایا؟ (ماضی) (Target expression (Urdu))",
-            "کب آپ جائیں گے؟ (مستقبل) (Target expression (Urdu))"
+            "آپ کیوں کرتا ہے؟ (غیر معیاری)) (Context: فعل حال جاری میں سوالیہ جملے (Inter)",
+            "کیا آپ کھانا کھایا؟ (ماضی)) (Context: فعل حال جاری میں سوالیہ جملے (Inter)",
+            "کب آپ جائیں گے؟ (مستقبل)) (Context: فعل حال جاری میں سوالیہ جملے (Inter)"
           ],
           "answerIndex": 0,
           "explanation": "جاری کام کے بارے میں پوچھنے کے لیے «آپ اس وقت کیا کر رہے ہیں؟» بولا جاتا ہے۔"
@@ -2596,9 +2596,9 @@
           "prompt": "مقام دریافت کرنے کے لیے سوالیہ کلمہ «کہاں» کے ساتھ حال جاری کا درست جملہ کیا ہے؟",
           "options": [
             "وہ کہاں جا رہی ہے؟ (Where is she going? - Correct feminine continuous locative question)",
-            "وہ کہاں جاتا ہے؟ (حال مطلق) (Target expression (Urdu))",
-            "وہ کیوں جاتی ہے؟ (سبب) (Target expression (Urdu))",
-            "وہ کہاں گئی تھی؟ (ماضی بعید) (Target expression (Urdu))"
+            "وہ کہاں جاتا ہے؟ (حال مطلق)) (Context: فعل حال جاری میں سوالیہ جملے (Inter)",
+            "وہ کیوں جاتی ہے؟ (سبب)) (Context: فعل حال جاری میں سوالیہ جملے (Inter)",
+            "وہ کہاں گئی تھی؟ (ماضی بعید)) (Context: فعل حال جاری میں سوالیہ جملے (Inter)"
           ],
           "answerIndex": 0,
           "explanation": "جاری مقام کے لیے «وہ کہاں جا رہی ہے؟» درست ہے۔"
@@ -2612,9 +2612,9 @@
           "prompt": "فعل حال جاری میں سوالیہ جملوں (Interrogative Present Continuous) کا فصیح جملہ پہچانیے:",
           "options": [
             "کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟ (Are the respected teachers holding a detailed discussion [tabadla-e-khayaal kar rahe hain] on the new curriculum in the conference hall?)",
-            "کیوں اساتذہ رو رہا ہے؟ (Target expression (Urdu))",
-            "سوالیہ حال جاری کا مطلب صرف طوفان میں چھتری کھولنا ہے۔ (Target expression (Urdu))",
-            "کیا کو صرف خط کے لفافے پر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "کیوں اساتذہ رو رہا ہے؟) (Context: فعل حال جاری میں سوالیہ جملے (Inter)",
+            "سوالیہ حال جاری کا مطلب صرف طوفان میں چھتری کھولنا ہے۔) (Context: فعل حال جاری میں سوالیہ جملے (Inter)",
+            "کیا کو صرف خط کے لفافے پر لکھنا چاہیے۔) (Context: فعل حال جاری میں سوالیہ جملے (Inter)"
           ],
           "answerIndex": 0,
           "explanation": "«کیا اساتذہ کرام کانفرنس ہال میں نئے تعلیمی نصاب پر تفصیلی تبادلۂ خیال کر رہے ہیں؟» سوالیہ حال جاری کا مستند جملہ ہے۔"
@@ -2663,9 +2663,9 @@
           "prompt": "ادبی منظر کشی کے لیے حال جاری کا کون سا جملہ سب سے فصیح اور متحرک ہے؟",
           "options": [
             "باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں (Flowers are smiling and butterflies are flying - Vivid figurative continuous syntax)",
-            "پھول اڑتا ہے اور تتلی مسکراتا ہے (بے معنی) (Target expression (Urdu))",
-            "پھول کھلیں گے (مستقبل) (Target expression (Urdu))",
-            "پھول سوکھ گیا تھا (ماضی) (Target expression (Urdu))"
+            "پھول اڑتا ہے اور تتلی مسکراتا ہے (بے معنی)) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)",
+            "پھول کھلیں گے (مستقبل)) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)",
+            "پھول سوکھ گیا تھا (ماضی)) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«باغ میں رنگ برنگے پھول مسکرا رہے ہیں اور تتلیاں اڑ رہی ہیں» حال جاری کی خوبصورت منظر کشی ہے۔"
@@ -2678,9 +2678,9 @@
           "prompt": "حال مطلق اور حال جاری کے باہمی فرق کی درست وضاحت کیا ہے؟",
           "options": [
             "حال مطلق عادت کو ظاہر کرتا ہے جبکہ حال جاری اس وقت کے وقتی عمل کو (Habitual vs. currently ongoing action)",
-            "دونوں میں کوئی فرق نہیں (Target expression (Urdu))",
-            "حال جاری صرف پرانے زمانے کے لیے ہے (Target expression (Urdu))",
-            "حال مطلق میں فعل نہیں ہوتا (Target expression (Urdu))"
+            "دونوں میں کوئی فرق نہیں) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)",
+            "حال جاری صرف پرانے زمانے کے لیے ہے) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)",
+            "حال مطلق میں فعل نہیں ہوتا) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)"
           ],
           "answerIndex": 0,
           "explanation": "حال مطلق عادات و معمولات کو ظاہر کرتا ہے جبکہ حال جاری لمحۂ گفتگو میں جاری عمل کو۔"
@@ -2694,9 +2694,9 @@
           "prompt": "فعل حال جاری کے جامع سمیکن (Grand Synthesis & Imagery) کا شاہکار جملہ پہچانیے:",
           "options": [
             "آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے جس سے ہر چہرہ کھل اٹھا ہے۔ (Dark clouds are gathering across the sky [chaa rahe hain], cool breezes are blowing [chal rahi hain], and rains of mercy are falling [baras rahi hai].)",
-            "آسمان پر بادل روتا تھا اور پانی بھاگتا ہے۔ (Target expression (Urdu))",
-            "حال جاری صرف خواب میں لکھا جاتا ہے۔ (Target expression (Urdu))",
-            "تمام بادل پانی نہیں پیتے تھے ہمیشہ۔ (Target expression (Urdu))"
+            "آسمان پر بادل روتا تھا اور پانی بھاگتا ہے۔) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)",
+            "حال جاری صرف خواب میں لکھا جاتا ہے۔) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)",
+            "تمام بادل پانی نہیں پیتے تھے ہمیشہ۔) (Context: فعل حال جاری کا جامع سمیکن و ادبی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«آسمان پر کالے بادل چھا رہے ہیں، ٹھنڈی ہوائیں چل رہی ہیں اور رحمت کی بارش برس رہی ہے...» حال جاری کی فصیح اور مکمل منظر کشی ہے۔"
@@ -2745,9 +2745,9 @@
           "prompt": "مؤنث واحد فاعل «عائشہ» کے ساتھ فعل لازم «جانا» کا ماضی مطلق کیا ہوگا؟",
           "options": [
             "گئی (Gayi - Irregular feminine singular past of intransitive verb jaana)",
-            "گیا (مذکر صیغہ) (Target expression (Urdu))",
-            "گئیں (جمع صیغہ) (Target expression (Urdu))",
-            "جاتی ہے (حال مطلق) (Target expression (Urdu))"
+            "گیا (مذکر صیغہ)) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)",
+            "گئیں (جمع صیغہ)) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)",
+            "جاتی ہے (حال مطلق)) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)"
           ],
           "answerIndex": 0,
           "explanation": "فعل لازم 'جانا' کی مؤنث واحد ماضی شکل «گئی» ہے: «عائشہ گئی»۔"
@@ -2760,9 +2760,9 @@
           "prompt": "فعل لازم «آنا» کے ساتھ کون سا جملہ نحوی طور پر بالکل درست ہے؟",
           "options": [
             "والد صاحب تشریف لائے (Father arrived - Respectful plural past of intransitive verb without 'ne')",
-            "والد صاحب نے تشریف لائے (غلط استعمال نے) (Target expression (Urdu))",
-            "والد صاحب نے آیا (فاش نحوی غلطی) (Target expression (Urdu))",
-            "والد صاحب آتا ہے (حال) (Target expression (Urdu))"
+            "والد صاحب نے تشریف لائے (غلط استعمال نے)) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)",
+            "والد صاحب نے آیا (فاش نحوی غلطی)) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)",
+            "والد صاحب آتا ہے (حال)) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)"
           ],
           "answerIndex": 0,
           "explanation": "فعل لازم میں 'نے' نہیں آتا، لہٰذا «والد صاحب تشریف لائے» درست ہے۔"
@@ -2776,9 +2776,9 @@
           "prompt": "فعل ماضی مطلق لازم (Intransitive Past Tense) کا درست جملہ پہچانیے:",
           "options": [
             "شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔ (As evening fell, all birds returned to their nests [waapas laut aaye] and sat upon the trees.)",
-            "پرندوں نے گھونسلوں میں واپس لوٹا۔ (Target expression (Urdu))",
-            "ماضی لازم میں ہمیشہ نے لگانا فرض ہے۔ (Target expression (Urdu))",
-            "لوٹ آئے کا مطلب صرف پیسہ لوٹنا ہوتا ہے۔ (Target expression (Urdu))"
+            "پرندوں نے گھونسلوں میں واپس لوٹا۔) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)",
+            "ماضی لازم میں ہمیشہ نے لگانا فرض ہے۔) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)",
+            "لوٹ آئے کا مطلب صرف پیسہ لوٹنا ہوتا ہے۔) (Context: فعل ماضی مطلق لازم اور متعدی کی تقس)"
           ],
           "answerIndex": 0,
           "explanation": "«شام ہوتے ہی تمام پرندے اپنے گھونسلوں میں واپس لوٹ آئے اور درختوں پر بیٹھ گئے۔» ماضی لازم کا مکمل اور فصیح جملہ ہے۔"
@@ -2827,9 +2827,9 @@
           "prompt": "جملے «احمد نے چائے (مؤنث) ...» میں درست فعل کیا آئے گا؟",
           "options": [
             "پی (Pee - Feminine singular past verb agreeing with feminine object chaaye)",
-            "پیا (مذکر صیغہ) (Target expression (Urdu))",
-            "پیے (جمع مذکر) (Target expression (Urdu))",
-            "پیتا ہے (حال) (Target expression (Urdu))"
+            "پیا (مذکر صیغہ)) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)",
+            "پیے (جمع مذکر)) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)",
+            "پیتا ہے (حال)) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)"
           ],
           "answerIndex": 0,
           "explanation": "مفعول 'چائے' مؤنث ہے، اس لیے فعل «پی» آئے گا: «احمد نے چائے پی»۔"
@@ -2842,9 +2842,9 @@
           "prompt": "جملے «عائشہ نے سبق (مذکر) ...» میں درست فعل کیا ہوگا؟",
           "options": [
             "پڑھا (Parha - Masculine singular past verb agreeing with masculine object sabaq)",
-            "پڑھی (تانیث فاعل سے مغالطہ) (Target expression (Urdu))",
-            "پڑھے (جمع صیغہ) (Target expression (Urdu))",
-            "پڑھتی ہے (حال) (Target expression (Urdu))"
+            "پڑھی (تانیث فاعل سے مغالطہ)) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)",
+            "پڑھے (جمع صیغہ)) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)",
+            "پڑھتی ہے (حال)) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)"
           ],
           "answerIndex": 0,
           "explanation": "مفعول 'سبق' مذکر ہے، اس لیے فعل «پڑھا» آئے گا: «عائشہ نے سبق پڑھا»۔"
@@ -2858,9 +2858,9 @@
           "prompt": "علامتِ فاعل 'نے' اور مفعولی مطابقت (Ergative Object Agreement) کا فصیح جملہ پہچانیے:",
           "options": [
             "ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔ (We bought several rare books [kitaabein - feminine plural -> khareedeen] from the book fair and presented them as gifts to the respected teacher.)",
-            "ہم نے کتاب خریدا اور پیش کیا تھا۔ (Target expression (Urdu))",
-            "نے کا مطلب صرف نفی کرنا ہوتا ہے۔ (Target expression (Urdu))",
-            "احمد نے عائشہ نے دونوں نے خط لکھی۔ (Target expression (Urdu))"
+            "ہم نے کتاب خریدا اور پیش کیا تھا۔) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)",
+            "نے کا مطلب صرف نفی کرنا ہوتا ہے۔) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)",
+            "احمد نے عائشہ نے دونوں نے خط لکھی۔) (Context: علامتِ فاعل 'نے' اور مفعول کے مطابق)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے کتب میلے سے چند نایاب کتابیں خریدیں اور استاد محترم کو تحفے میں پیش کیں۔» مفعولی مطابقت کا مکمل اور مستند جملہ ہے۔"
@@ -2909,9 +2909,9 @@
           "prompt": "مؤنث اسم «بات» کے ساتھ فعل «کرنا» کا ماضی مطلق کیا ہوگا؟",
           "options": [
             "کی (Kee - Feminine past of irregular verb karna agreeing with feminine object baat)",
-            "کیا (مذکر صیغہ) (Target expression (Urdu))",
-            "کیے (جمع صیغہ) (Target expression (Urdu))",
-            "کرتا تھا (ماضی استمراری) (Target expression (Urdu))"
+            "کیا (مذکر صیغہ)) (Context: بے قاعدہ ماضی افعال (Irregular Past)",
+            "کیے (جمع صیغہ)) (Context: بے قاعدہ ماضی افعال (Irregular Past)",
+            "کرتا تھا (ماضی استمراری)) (Context: بے قاعدہ ماضی افعال (Irregular Past)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'بات' مؤنث ہے، اس لیے فعل کی درست شکل «کی» ہے: «اس نے بات کی»۔"
@@ -2924,9 +2924,9 @@
           "prompt": "مذکر جمع اسم «پیسے» کے ساتھ فعل «دینا» کی ماضی شکل کیا بنے گی؟",
           "options": [
             "دیے (Diye - Masculine plural past of irregular verb dena)",
-            "دیا (واحد مذکر) (Target expression (Urdu))",
-            "دی (واحد مؤنث) (Target expression (Urdu))",
-            "دیں (مؤنث جمع) (Target expression (Urdu))"
+            "دیا (واحد مذکر)) (Context: بے قاعدہ ماضی افعال (Irregular Past)",
+            "دی (واحد مؤنث)) (Context: بے قاعدہ ماضی افعال (Irregular Past)",
+            "دیں (مؤنث جمع)) (Context: بے قاعدہ ماضی افعال (Irregular Past)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع اسم 'پیسے' کے ساتھ فعل «دیے» آئے گا: «اس نے پیسے دیے»۔"
@@ -2940,9 +2940,9 @@
           "prompt": "بے قاعدہ ماضی افعال (Irregular Past Verbs) کا جامع اور درست جملہ پہچانیے:",
           "options": [
             "انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔ (They generously helped [madad kee - feminine] the poor financially and gave educational scholarships [wazaaif diye - masculine plural] to their children.)",
-            "انہوں نے مدد کیا اور وظائف دیا تھا۔ (Target expression (Urdu))",
-            "بے قاعدہ کا مطلب بے وقوف افعال ہوتا ہے۔ (Target expression (Urdu))",
-            "گیا اور کیا کو صرف الٹا پڑھنا چاہیے۔ (Target expression (Urdu))"
+            "انہوں نے مدد کیا اور وظائف دیا تھا۔) (Context: بے قاعدہ ماضی افعال (Irregular Past)",
+            "بے قاعدہ کا مطلب بے وقوف افعال ہوتا ہے۔) (Context: بے قاعدہ ماضی افعال (Irregular Past)",
+            "گیا اور کیا کو صرف الٹا پڑھنا چاہیے۔) (Context: بے قاعدہ ماضی افعال (Irregular Past)"
           ],
           "answerIndex": 0,
           "explanation": "«انہوں نے غریبوں کی دل کھول کر مالی مدد کی اور ان کے بچوں کو تعلیمی وظائف دیے۔» بے قاعدہ ماضی افعال کا بالکل فصیح جملہ ہے۔"
@@ -2991,9 +2991,9 @@
           "prompt": "جملے «علی نے فاطمہ کو ...» میں 'کو' کی موجودگی کی وجہ سے فعل «دیکھنا» کی کون سی شکل آئے گی؟",
           "options": [
             "دیکھا (Dekha - Neutral masculine singular verb form blocked by postposition 'ko')",
-            "دیکھی (تانیث کی غلطی) (Target expression (Urdu))",
-            "دیکھے (جمع کی غلطی) (Target expression (Urdu))",
-            "دیکھتی تھی (ماضی استمراری) (Target expression (Urdu))"
+            "دیکھی (تانیث کی غلطی)) (Context: ماضی متعدی میں 'کو' کا استعمال اور )",
+            "دیکھے (جمع کی غلطی)) (Context: ماضی متعدی میں 'کو' کا استعمال اور )",
+            "دیکھتی تھی (ماضی استمراری)) (Context: ماضی متعدی میں 'کو' کا استعمال اور )"
           ],
           "answerIndex": 0,
           "explanation": "جب مفعول کے بعد 'کو' ہو تو فعل لازماً مذکر واحد «دیکھا» ہوگا: «علی نے فاطمہ کو دیکھا»۔"
@@ -3006,9 +3006,9 @@
           "prompt": "جملے «ہم نے اپنے اساتذہ کو ...» میں درست غیر شخصی فعل منتخب کیجیے:",
           "options": [
             "بلایا (Bulaaya - Impersonal masculine singular verb with object marked by 'ko')",
-            "بلائے (جمع کی غلطی) (Target expression (Urdu))",
-            "بلائی (تانیث غلطی) (Target expression (Urdu))",
-            "بلاتے ہیں (حال) (Target expression (Urdu))"
+            "بلائے (جمع کی غلطی)) (Context: ماضی متعدی میں 'کو' کا استعمال اور )",
+            "بلائی (تانیث غلطی)) (Context: ماضی متعدی میں 'کو' کا استعمال اور )",
+            "بلاتے ہیں (حال)) (Context: ماضی متعدی میں 'کو' کا استعمال اور )"
           ],
           "answerIndex": 0,
           "explanation": "'کو' کی موجودگی کی وجہ سے فعل ہمیشہ مذکر واحد «بلایا» رہے گا۔"
@@ -3022,9 +3022,9 @@
           "prompt": "ماضی متعدی میں 'کو' اور غیر شخصی فعل (Past Transitive with 'Ko') کا فصیح جملہ پہچانیے:",
           "options": [
             "صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔ (The president of the gathering called [bulaaya - neutral masculine singular] all respected guests and delegates to the stage and distributed prizes.)",
-            "صدر نے تمام مہمانوں کو بلائے تھے اور روئی۔ (Target expression (Urdu))",
-            "نے اور کو ایک ساتھ آنا اردو میں ممنوع ہے۔ (Target expression (Urdu))",
-            "بلایا کا مطلب صرف بلی کی آواز نکالنا ہے۔ (Target expression (Urdu))"
+            "صدر نے تمام مہمانوں کو بلائے تھے اور روئی۔) (Context: ماضی متعدی میں 'کو' کا استعمال اور )",
+            "نے اور کو ایک ساتھ آنا اردو میں ممنوع ہے۔) (Context: ماضی متعدی میں 'کو' کا استعمال اور )",
+            "بلایا کا مطلب صرف بلی کی آواز نکالنا ہے۔) (Context: ماضی متعدی میں 'کو' کا استعمال اور )"
           ],
           "answerIndex": 0,
           "explanation": "«صدرِ محفل نے تمام معزز مہمانوں اور مندوبین کو اسٹیج پر بلایا اور انعامات تقسیم کیے۔» نے اور کو کے غیر شخصی قاعدے کا مکمل اور مستند جملہ ہے۔"
@@ -3073,9 +3073,9 @@
           "prompt": "لازم اور متعدی ماضی کے ملاپ کا کون سا جملہ بالکل فصیح ہے؟",
           "options": [
             "وہ لاہور گئے اور انہوں نے تاریخی قلعہ دیکھا (He went to Lahore [intransitive] and saw the historic fort [transitive])",
-            "انہوں نے لاہور گئے اور قلعہ دیکھی (فاش غلطیاں) (Target expression (Urdu))",
-            "وہ نے قلعہ دیکھے (غلط ارگیٹو) (Target expression (Urdu))",
-            "وہ قلعہ دیکھا تھا (ماضی بعید) (Target expression (Urdu))"
+            "انہوں نے لاہور گئے اور قلعہ دیکھی (فاش غلطیاں)) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)",
+            "وہ نے قلعہ دیکھے (غلط ارگیٹو)) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)",
+            "وہ قلعہ دیکھا تھا (ماضی بعید)) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "«وہ لاہور گئے» (لازم بغیر نے) اور «انہوں نے قلعہ دیکھا» (متعدی مع نے) کا امتزاج بالکل درست ہے۔"
@@ -3088,9 +3088,9 @@
           "prompt": "ماضی مطلق میں مفعولی مطابقت کا بنیادی اصول کیا ہے؟",
           "options": [
             "فاعل کے ساتھ 'نے' ہو اور مفعول کے بعد 'کو' نہ ہو تو فعل مفعول کے مطابق ہوگا (Verb agrees with unmarked object in ergative past)",
-            "فعل ہمیشہ فاعل کے مطابق رہے گا (Target expression (Urdu))",
-            "فعل ہمیشہ مؤنث ہوگا (Target expression (Urdu))",
-            "کوئی اصول نہیں ہے (Target expression (Urdu))"
+            "فعل ہمیشہ فاعل کے مطابق رہے گا) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)",
+            "فعل ہمیشہ مؤنث ہوگا) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)",
+            "کوئی اصول نہیں ہے) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "جب فاعل کے ساتھ 'نے' ہو اور مفعول بغیر 'کو' کے ہو تو فعل مفعول کی تذکیر و تانیث کے مطابق بدلتا ہے۔"
@@ -3104,9 +3104,9 @@
           "prompt": "فعل ماضی مطلق اور 'نے' کے جامع سمیکن (Past Ergative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔ (Our team showed splendid performance [kaarkardagi dikhaai - feminine], defeated the rival team [hareef team ko shikast dee], and claimed the golden trophy of victory [trophy apne naam kee].)",
-            "ہماری ٹیم نے میچ جیتا اور سب بھاگ گئی۔ (Target expression (Urdu))",
-            "ماضی مطلق میں صرف گھوڑے کی سواری لکھی جاتی ہے۔ (Target expression (Urdu))",
-            "شاندار کارکردگی دکھایا اور ٹرافی جیتی تھا غلط ہے۔ (Target expression (Urdu))"
+            "ہماری ٹیم نے میچ جیتا اور سب بھاگ گئی۔) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)",
+            "ماضی مطلق میں صرف گھوڑے کی سواری لکھی جاتی ہے۔) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)",
+            "شاندار کارکردگی دکھایا اور ٹرافی جیتی تھا غلط ہے۔) (Context: فعل ماضی مطلق اور 'نے' کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "«ہماری ٹیم نے فائنل میچ میں شاندار کارکردگی دکھائی، حریف ٹیم کو شکست دی اور فتح کی سنہری ٹرافی اپنے نام کی۔» ماضی مطلق اور نے کے تمام قواعد کا شاہکار اور فصیح جملہ ہے۔"
@@ -3155,9 +3155,9 @@
           "prompt": "مؤنث جمع فاعل «طالبات» کے ساتھ ماضی استمراری کا درست صیغہ کیا ہوگا؟",
           "options": [
             "لکھ رہی تھیں (Likh rahi theen - Feminine plural past continuous auxiliary concord)",
-            "لکھ رہا تھا (مذکر واحد) (Target expression (Urdu))",
-            "لکھ رہے تھے (مذکر جمع) (Target expression (Urdu))",
-            "لکھتی ہیں (حال) (Target expression (Urdu))"
+            "لکھ رہا تھا (مذکر واحد)) (Context: فعل ماضی استمراری کی ساخت اور گردان)",
+            "لکھ رہے تھے (مذکر جمع)) (Context: فعل ماضی استمراری کی ساخت اور گردان)",
+            "لکھتی ہیں (حال)) (Context: فعل ماضی استمراری کی ساخت اور گردان)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع کے لیے «لکھ رہی تھیں» فصیح ترین ہے۔"
@@ -3170,9 +3170,9 @@
           "prompt": "مذکر تعظیمی فاعل «استاد محترم» کے ساتھ ماضی استمراری کی صحیح شکل کیا ہے؟",
           "options": [
             "سمجھا رہے تھے (Samjha rahe thay - Respectful masculine past continuous auxiliary)",
-            "سمجھا رہا تھا (بے ادبی واحد) (Target expression (Urdu))",
-            "سمجھا رہی تھی (تانیث) (Target expression (Urdu))",
-            "سمجھاتے ہیں (حال) (Target expression (Urdu))"
+            "سمجھا رہا تھا (بے ادبی واحد)) (Context: فعل ماضی استمراری کی ساخت اور گردان)",
+            "سمجھا رہی تھی (تانیث)) (Context: فعل ماضی استمراری کی ساخت اور گردان)",
+            "سمجھاتے ہیں (حال)) (Context: فعل ماضی استمراری کی ساخت اور گردان)"
           ],
           "answerIndex": 0,
           "explanation": "استاد محترم کے ادب و احترام کے لیے جمع تعظیمی «سمجھا رہے تھے» استعمال ہوتا ہے۔"
@@ -3186,9 +3186,9 @@
           "prompt": "فعل ماضی استمراری (Past Continuous Tense) کا مکمل جملہ پہچانیے:",
           "options": [
             "جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔ (While the caravan was passing through the valley [guzar raha tha], golden rays of the sun were shining [chamak rahi theen] upon the distant mountains.)",
-            "قافلہ گزر رہی تھا اور کرنیں چمکتا تھا۔ (Target expression (Urdu))",
-            "ماضی استمراری میں صرف ندی میں تیرنا ہوتا ہے۔ (Target expression (Urdu))",
-            "رہا تھا کو لفظ کے اوپر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "قافلہ گزر رہی تھا اور کرنیں چمکتا تھا۔) (Context: فعل ماضی استمراری کی ساخت اور گردان)",
+            "ماضی استمراری میں صرف ندی میں تیرنا ہوتا ہے۔) (Context: فعل ماضی استمراری کی ساخت اور گردان)",
+            "رہا تھا کو لفظ کے اوپر لکھنا چاہیے۔) (Context: فعل ماضی استمراری کی ساخت اور گردان)"
           ],
           "answerIndex": 0,
           "explanation": "«جب قافلہ وادی سے گزر رہا تھا، تو دور پہاڑوں پر سورج کی سنہری کرنیں چمک رہی تھیں۔» ماضی استمراری کا جامع اور فصیح جملہ ہے۔"
@@ -3237,9 +3237,9 @@
           "prompt": "ماضی میں باقاعدہ عادت کو ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
             "وہ روزانہ کتب خانے جایا کرتا تھا (He used to go to the library daily - Authentic habitual past syntax)",
-            "وہ کل گیا تھا (ماضی بعید وقتی) (Target expression (Urdu))",
-            "وہ جا رہا ہے (حال جاری) (Target expression (Urdu))",
-            "وہ جائے گا (مستقبل) (Target expression (Urdu))"
+            "وہ کل گیا تھا (ماضی بعید وقتی)) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)",
+            "وہ جا رہا ہے (حال جاری)) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)",
+            "وہ جائے گا (مستقبل)) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کی مستقل عادت کے لیے «جایا کرتا تھا» یا «جاتا تھا» مستعمل ہے۔"
@@ -3252,9 +3252,9 @@
           "prompt": "محترمہ دادی جان کے لیے ماضی معطوف کا درست تعظیمی صیغہ کیا ہوگا؟",
           "options": [
             "کہانیاں سناتی تھیں (Used to tell stories - Respectful feminine plural habitual past)",
-            "کہانی سناتا تھا (مذکر واحد) (Target expression (Urdu))",
-            "کہانی سنائی (ماضی مطلق) (Target expression (Urdu))",
-            "کہانی سنائے گی (مستقبل) (Target expression (Urdu))"
+            "کہانی سناتا تھا (مذکر واحد)) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)",
+            "کہانی سنائی (ماضی مطلق)) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)",
+            "کہانی سنائے گی (مستقبل)) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)"
           ],
           "answerIndex": 0,
           "explanation": "دادی جان کے لیے تعظیمی تانیث «سناتی تھیں» درست ہے۔"
@@ -3268,9 +3268,9 @@
           "prompt": "ماضی معطوف و دوامی (Past Habitual Narrative) کا فصیح جملہ پہچانیے:",
           "options": [
             "ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔ (The elders of our neighborhood used to distribute food [taqseem kiya kartay thay] among the poor every Friday and support orphans.)",
-            "بزرگ کھانا تقسیم کرتا تھا اور روتی تھیں۔ (Target expression (Urdu))",
-            "ماضی معطوف کا مطلب صرف گھڑی کی سوئیاں توڑنا ہے۔ (Target expression (Urdu))",
-            "کرتے تھے کو جملے کے شروع میں لکھنا چاہیے۔ (Target expression (Urdu))"
+            "بزرگ کھانا تقسیم کرتا تھا اور روتی تھیں۔) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)",
+            "ماضی معطوف کا مطلب صرف گھڑی کی سوئیاں توڑنا ہے۔) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)",
+            "کرتے تھے کو جملے کے شروع میں لکھنا چاہیے۔) (Context: ماضی معطوف و استمراری کا بیانیہ (Pa)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمارے محلے کے بزرگ ہر جمعہ کو غریبوں میں کھانا تقسیم کیا کرتے تھے اور یتیموں کی کفالت کرتے تھے۔» ماضی معطوف کا بہترین جملہ ہے۔"
@@ -3319,9 +3319,9 @@
           "prompt": "مؤنث اسم «عمارت» کے ساتھ فعل متعدی «تعمیر کرنا» کا ماضی بعید کیا ہوگا؟",
           "options": [
             "تعمیر کی تھی (Ta'meer kee thee - Feminine singular past perfect agreeing with feminine object imaarat)",
-            "تعمیر کیا تھا (مذکر صیغہ) (Target expression (Urdu))",
-            "تعمیر کیے تھے (جمع صیغہ) (Target expression (Urdu))",
-            "تعمیر کرتے ہیں (حال) (Target expression (Urdu))"
+            "تعمیر کیا تھا (مذکر صیغہ)) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)",
+            "تعمیر کیے تھے (جمع صیغہ)) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)",
+            "تعمیر کرتے ہیں (حال)) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'عمارت' مؤنث ہے، اس لیے ماضی بعید «تعمیر کی تھی» آئے گا۔"
@@ -3334,9 +3334,9 @@
           "prompt": "مذکر جمع اسم «خطوط» کے ساتھ فعل «لکھنا» کا ماضی بعید کیا بنے گا؟",
           "options": [
             "لکھے تھے (Likhay thay - Masculine plural past perfect agreeing with masculine plural k خطوط)",
-            "لکھا تھا (واحد مذکر) (Target expression (Urdu))",
-            "لکھی تھی (واحد مؤنث) (Target expression (Urdu))",
-            "لکھیں تھیں (مؤنث جمع) (Target expression (Urdu))"
+            "لکھا تھا (واحد مذکر)) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)",
+            "لکھی تھی (واحد مؤنث)) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)",
+            "لکھیں تھیں (مؤنث جمع)) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع اسم 'خطوط' کے ساتھ «لکھے تھے» درست ہے۔"
@@ -3350,9 +3350,9 @@
           "prompt": "فعل ماضی بعید اور 'نے' کے ساتھ مطابقت (Past Perfect with 'Ne') کا فصیح جملہ پہچانیے:",
           "options": [
             "ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔ (We had planted a large sapling [pauda lagaaya tha] in our village last year, which has now become a robust tree.)",
-            "ہم نے پودا لگائی تھیں اور درخت رویا تھا۔ (Target expression (Urdu))",
-            "ماضی بعید میں نے لگانا سخت منع ہے۔ (Target expression (Urdu))",
-            "لگایا تھا کا مطلب صرف دیوار پر تصویر لگانا ہوتا ہے۔ (Target expression (Urdu))"
+            "ہم نے پودا لگائی تھیں اور درخت رویا تھا۔) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)",
+            "ماضی بعید میں نے لگانا سخت منع ہے۔) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)",
+            "لگایا تھا کا مطلب صرف دیوار پر تصویر لگانا ہوتا ہے۔) (Context: فعل ماضی بعید اور 'نے' کے ساتھ استع)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے پچھلے سال اپنے گاؤں میں ایک بڑا پودا لگایا تھا جو اب ایک تناور درخت بن چکا ہے۔» ماضی بعید کا مکمل اور درست جملہ ہے۔"
@@ -3401,9 +3401,9 @@
           "prompt": "آج صبح ہوئے عمل کے لیے جس کا تعلق حال سے ہے، کون سا صیغہ آئے گا؟",
           "options": [
             "خط لکھا ہے (Has written a letter - Present perfect indicating recent completion connected to present)",
-            "خط لکھا تھا (ماضی بعید) (Target expression (Urdu))",
-            "خط لکھتا تھا (ماضی معطوف) (Target expression (Urdu))",
-            "خط لکھے گا (مستقبل) (Target expression (Urdu))"
+            "خط لکھا تھا (ماضی بعید)) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)",
+            "خط لکھتا تھا (ماضی معطوف)) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)",
+            "خط لکھے گا (مستقبل)) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)"
           ],
           "answerIndex": 0,
           "explanation": "حالیہ تکمیل کے لیے ماضی قریب «خط لکھا ہے» استعمال ہوتا ہے۔"
@@ -3416,9 +3416,9 @@
           "prompt": "ماضی قریب اور ماضی بعید کے بنیادی فرق کی درست وضاحت کیا ہے؟",
           "options": [
             "ماضی قریب میں امدادی فعل 'ہے' آتا ہے اور ماضی بعید میں 'تھا' (Present auxiliary 'hai' vs. Past auxiliary 'tha')",
-            "دونوں زمانوں میں کوئی نحوی فرق نہیں (غلط نظریہ) (Target expression (Urdu))",
-            "ماضی قریب میں نے نہیں آتا (Target expression (Urdu))",
-            "ماضی بعید صرف کل کے لیے ہے (Target expression (Urdu))"
+            "دونوں زمانوں میں کوئی نحوی فرق نہیں (غلط نظریہ)) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)",
+            "ماضی قریب میں نے نہیں آتا) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)",
+            "ماضی بعید صرف کل کے لیے ہے) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی قریب میں 'ہے/ہیں' اور ماضی بعید میں 'تھا/تھی/تھے' امدادی فعل آتا ہے۔"
@@ -3432,9 +3432,9 @@
           "prompt": "ماضی قریب اور ماضی بعید کے تقابل کا مستند و بلیغ جملہ پہچانیے:",
           "options": [
             "ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔ (We had prepared all documents last night [past perfect: tayyaar kar lee theen], and have submitted them [present perfect: jama kara dee hain] in the authorized officer's office this morning.)",
-            "ہم نے کل تیار کر لی ہیں اور آج جمع کرا دی تھیں۔ (Target expression (Urdu))",
-            "ماضی قریب کا مطلب صرف قریبی رشتہ دار ہوتا ہے۔ (Target expression (Urdu))",
-            "دستاویزات کو صرف جلانا چاہیے تھا۔ (Target expression (Urdu))"
+            "ہم نے کل تیار کر لی ہیں اور آج جمع کرا دی تھیں۔) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)",
+            "ماضی قریب کا مطلب صرف قریبی رشتہ دار ہوتا ہے۔) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)",
+            "دستاویزات کو صرف جلانا چاہیے تھا۔) (Context: ماضی قریب اور ماضی بعید کا تقابل (P)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے کل رات تمام دستاویزات تیار کر لی تھیں اور آج صبح افسرِ مجاز کے دفتر میں جمع کرا دی ہیں۔» ماضی بعید اور ماضی قریب کے امتزاج کا شاندار جملہ ہے۔"
@@ -3483,9 +3483,9 @@
           "prompt": "ادبی سوانح میں منظر کشی اور پس منظر کے امتزاج کا فصیح ترین جملہ کون سا ہے؟",
           "options": [
             "جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی (While they were coming [continuous], we had completed the book [perfect])",
-            "وہ آتا تھا اور ہم نے کتاب خریدا ہے (بے جوڑ صیغے) (Target expression (Urdu))",
-            "وہ آئے گا اور ہم پڑھیں گے (مستقبل) (Target expression (Urdu))",
-            "کوئی جملہ درست نہیں (Target expression (Urdu))"
+            "وہ آتا تھا اور ہم نے کتاب خریدا ہے (بے جوڑ صیغے)) (Context: ماضی استمراری و بعید کا جامع سمیکن )",
+            "وہ آئے گا اور ہم پڑھیں گے (مستقبل)) (Context: ماضی استمراری و بعید کا جامع سمیکن )",
+            "کوئی جملہ درست نہیں) (Context: ماضی استمراری و بعید کا جامع سمیکن )"
           ],
           "answerIndex": 0,
           "explanation": "«جب وہ آ رہے تھے، ہم نے کتاب مکمل کر لی تھی» ماضی استمراری اور بعید کا بہترین مرکب جملہ ہے۔"
@@ -3498,9 +3498,9 @@
           "prompt": "ماضی استمراری، معطوف اور بعید کے جملوں کا باہمی ربط کیا کہلاتا ہے؟",
           "options": [
             "کثیر زمانی بیانیہ اور ماضی کا جامع سمیکن (Multi-tense narrative and past grand synthesis)",
-            "صرف غلط بیانی (Target expression (Urdu))",
-            "مستقبل کی منصوبہ بندی (Target expression (Urdu))",
-            "صرف قواعد کی خرابی (Target expression (Urdu))"
+            "صرف غلط بیانی) (Context: ماضی استمراری و بعید کا جامع سمیکن )",
+            "مستقبل کی منصوبہ بندی) (Context: ماضی استمراری و بعید کا جامع سمیکن )",
+            "صرف قواعد کی خرابی) (Context: ماضی استمراری و بعید کا جامع سمیکن )"
           ],
           "answerIndex": 0,
           "explanation": "یہ کثیر زمانی بیانیہ اور ماضی کے مختلف مدارج کا فصیح سمیکن کہلاتا ہے۔"
@@ -3514,9 +3514,9 @@
           "prompt": "ماضی استمراری، معطوف اور بعید کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔ (While clouds were thundering [past continuous: garaj rahe thay] and rain was falling, we had completed all safety measures [past perfect: mukammal kar liye thay] which our elders always used to order [past habitual: hukm diya kartay thay].)",
-            "بادل گرجتا تھا اور بارش روتی تھیں ہم نے حکم دیا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف آسمان پر ستارے گننے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "ماضی میں صرف پانی پینا درست مانا جاتا ہے۔ (Target expression (Urdu))"
+            "بادل گرجتا تھا اور بارش روتی تھیں ہم نے حکم دیا تھا۔) (Context: ماضی استمراری و بعید کا جامع سمیکن )",
+            "جامع سمیکن صرف آسمان پر ستارے گننے کو کہتے ہیں۔) (Context: ماضی استمراری و بعید کا جامع سمیکن )",
+            "ماضی میں صرف پانی پینا درست مانا جاتا ہے۔) (Context: ماضی استمراری و بعید کا جامع سمیکن )"
           ],
           "answerIndex": 0,
           "explanation": "«جب بادل گرج رہے تھے اور بارش برس رہی تھی، تو ہم نے وہ تمام حفاظتی انتظامات مکمل کر لیے تھے جن کا ہمارے بزرگ ہمیشہ حکم دیا کرتے تھے۔» ماضی کے تمام مدارج کا شاہکار سمیکن ہے۔"
@@ -3565,9 +3565,9 @@
           "prompt": "مذکر تعظیمی فاعل «آپ» کے ساتھ فعل «آنا» کا مستقبل صیغہ کیا ہوگا؟",
           "options": [
             "آئیں گے (Aayen gay - Respectful masculine plural future verb form)",
-            "آئے گا (مذکر واحد بے تکلف) (Target expression (Urdu))",
-            "آؤں گا (متکلم) (Target expression (Urdu))",
-            "آئے تھے (ماضی بعید) (Target expression (Urdu))"
+            "آئے گا (مذکر واحد بے تکلف)) (Context: فعل مستقبل کی گردان اور ساخت (Futur)",
+            "آؤں گا (متکلم)) (Context: فعل مستقبل کی گردان اور ساخت (Futur)",
+            "آئے تھے (ماضی بعید)) (Context: فعل مستقبل کی گردان اور ساخت (Futur)"
           ],
           "answerIndex": 0,
           "explanation": "تعظیمی تخاطب 'آپ' کے ساتھ مستقبل میں «آئیں گے» مستعمل ہے۔"
@@ -3580,9 +3580,9 @@
           "prompt": "مؤنث واحد فاعل «وہ» کے ساتھ فعل «لکھنا» کی درست مستقبل شکل کیا ہے؟",
           "options": [
             "لکھے گی (Likhay gee - Feminine singular future verb form)",
-            "لکھے گا (مذکر واحد) (Target expression (Urdu))",
-            "لکھیں گے (مذکر جمع) (Target expression (Urdu))",
-            "لکھتی تھی (ماضی استمراری) (Target expression (Urdu))"
+            "لکھے گا (مذکر واحد)) (Context: فعل مستقبل کی گردان اور ساخت (Futur)",
+            "لکھیں گے (مذکر جمع)) (Context: فعل مستقبل کی گردان اور ساخت (Futur)",
+            "لکھتی تھی (ماضی استمراری)) (Context: فعل مستقبل کی گردان اور ساخت (Futur)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث واحد کے ساتھ فعل مستقبل «لکھے گی» بنے گا۔"
@@ -3596,9 +3596,9 @@
           "prompt": "فعل مستقبل کی گردان (Future Tense Morphology) کا درست جملہ پہچانیے:",
           "options": [
             "ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔ (We will formally inaugurate [aaghaaz/iftetaah karein gay] the new project tomorrow morning with our entire team.)",
-            "ہم افتتاح کرے گا اور سب بھاگ جائے گی۔ (Target expression (Urdu))",
-            "مستقبل صرف گزری ہوئی کہانیوں کے لیے مخصوص ہے۔ (Target expression (Urdu))",
-            "کریں گے کو جملے کے درمیان میں اسم کے اوپر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "ہم افتتاح کرے گا اور سب بھاگ جائے گی۔) (Context: فعل مستقبل کی گردان اور ساخت (Futur)",
+            "مستقبل صرف گزری ہوئی کہانیوں کے لیے مخصوص ہے۔) (Context: فعل مستقبل کی گردان اور ساخت (Futur)",
+            "کریں گے کو جملے کے درمیان میں اسم کے اوپر لکھنا چاہیے۔) (Context: فعل مستقبل کی گردان اور ساخت (Futur)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم کل صبح اپنی پوری ٹیم کے ساتھ نئے پراجیکٹ کا باقاعدہ افتتاح کریں گے۔» فعل مستقبل کا فصیح اور مستند جملہ ہے۔"
@@ -3647,9 +3647,9 @@
           "prompt": "کسی محترم مہمان کو بیٹھنے کی التجا کے لیے شائستہ ترین جملہ کون سا ہے؟",
           "options": [
             "تشریف رکھیے (Tashreef rakhiye - Most refined high-honorific request to take a seat)",
-            "بیٹھ جا (بے ادبی) (Target expression (Urdu))",
-            "بیٹھو (دوستانہ امر) (Target expression (Urdu))",
-            "بیٹھے گا (مستقبل) (Target expression (Urdu))"
+            "بیٹھ جا (بے ادبی)) (Context: شائستہ احکامات اور التجا کے درجات ()",
+            "بیٹھو (دوستانہ امر)) (Context: شائستہ احکامات اور التجا کے درجات ()",
+            "بیٹھے گا (مستقبل)) (Context: شائستہ احکامات اور التجا کے درجات ()"
           ],
           "answerIndex": 0,
           "explanation": "مہمانِ گرامی کے احترام کے لیے «تشریف رکھیے» سب سے فصیح جملہ ہے۔"
@@ -3662,9 +3662,9 @@
           "prompt": "فعل «کرنا» کا شائستہ اور باوقار امر کیا ہوگا؟",
           "options": [
             "کیجیے (Keejiye - Standard polite imperative for aap)",
-            "کر (تو کے لیے) (Target expression (Urdu))",
-            "کرو (تم کے لیے) (Target expression (Urdu))",
-            "کرتا تھا (ماضی) (Target expression (Urdu))"
+            "کر (تو کے لیے)) (Context: شائستہ احکامات اور التجا کے درجات ()",
+            "کرو (تم کے لیے)) (Context: شائستہ احکامات اور التجا کے درجات ()",
+            "کرتا تھا (ماضی)) (Context: شائستہ احکامات اور التجا کے درجات ()"
           ],
           "answerIndex": 0,
           "explanation": "آپ کے ساتھ فعل 'کرنا' کا شائستہ امر «کیجیے» ہے۔"
@@ -3678,9 +3678,9 @@
           "prompt": "شائستہ احکامات اور التجا (Polite Imperatives) کا فصیح جملہ پہچانیے:",
           "options": [
             "براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔ (Please study this important educational document carefully [mutaala'a farmaaiye] and write your valuable recommendations [tajaweez tehreer keejiye].)",
-            "دستاویز پڑھ اور جلدی لکھ۔ (Target expression (Urdu))",
-            "شائستہ احکامات صرف غصے میں بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "فرمائیے کا مطلب کھانا چھیننا ہوتا ہے۔ (Target expression (Urdu))"
+            "دستاویز پڑھ اور جلدی لکھ۔) (Context: شائستہ احکامات اور التجا کے درجات ()",
+            "شائستہ احکامات صرف غصے میں بولے جاتے ہیں۔) (Context: شائستہ احکامات اور التجا کے درجات ()",
+            "فرمائیے کا مطلب کھانا چھیننا ہوتا ہے۔) (Context: شائستہ احکامات اور التجا کے درجات ()"
           ],
           "answerIndex": 0,
           "explanation": "«براہِ کرم اس اہم تعلیمی دستاویز کا بغور مطالعہ فرمائیے اور اپنی قیمتی تجاویز تحریر کیجیے۔» شائستہ التجا اور امر کا مکمل جملہ ہے۔"
@@ -3729,9 +3729,9 @@
           "prompt": "آئندہ وقت میں تشریف لانے کی شائستہ التجا کے لیے کون سا لفظ آئے گا؟",
           "options": [
             "تشریف لائیے گا (Tashreef laaiye ga - Future polite imperative requesting attendance later)",
-            "آ (غیر رسمی) (Target expression (Urdu))",
-            "آئے تھے (ماضی) (Target expression (Urdu))",
-            "آ رہا ہے (حال) (Target expression (Urdu))"
+            "آ (غیر رسمی)) (Context: مستقبل کے شائستہ احکامات (Future Po)",
+            "آئے تھے (ماضی)) (Context: مستقبل کے شائستہ احکامات (Future Po)",
+            "آ رہا ہے (حال)) (Context: مستقبل کے شائستہ احکامات (Future Po)"
           ],
           "answerIndex": 0,
           "explanation": "مستقبل میں آنے کی شائستہ التجا کے لیے «تشریف لائیے گا» بولا جاتا ہے۔"
@@ -3744,9 +3744,9 @@
           "prompt": "مستقبل کے شائستہ امر «دیجیے گا» کا درست نحوی استعمال کس جملے میں ہے؟",
           "options": [
             "پہنچ کر اطلاع دیجیے گا (Please give information after reaching - Correct future polite imperative)",
-            "کل اطلاع دی تھی (ماضی) (Target expression (Urdu))",
-            "اطلاع دیتا ہے (حال) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کل اطلاع دی تھی (ماضی)) (Context: مستقبل کے شائستہ احکامات (Future Po)",
+            "اطلاع دیتا ہے (حال)) (Context: مستقبل کے شائستہ احکامات (Future Po)",
+            "کوئی نہیں) (Context: مستقبل کے شائستہ احکامات (Future Po)"
           ],
           "answerIndex": 0,
           "explanation": "«پہنچ کر اطلاع دیجیے گا» مستقبل کے شائستہ امر کا بہترین نمونہ ہے۔"
@@ -3760,9 +3760,9 @@
           "prompt": "مستقبل کے شائستہ احکامات (Future Polite Imperatives) کا فصیح جملہ پہچانیے:",
           "options": [
             "جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔ (When you attend the ceremony next month, please do bring along the draft of your valuable research paper [zaroor laaiye ga].)",
-            "کل مسودہ مت لایا تھا اور روئی۔ (Target expression (Urdu))",
-            "لائیے گا صرف گانے میں استعمال ہوتا ہے۔ (Target expression (Urdu))",
-            "مستقبل کے امر میں ہمیشہ نفی کرنا لازمی ہے۔ (Target expression (Urdu))"
+            "کل مسودہ مت لایا تھا اور روئی۔) (Context: مستقبل کے شائستہ احکامات (Future Po)",
+            "لائیے گا صرف گانے میں استعمال ہوتا ہے۔) (Context: مستقبل کے شائستہ احکامات (Future Po)",
+            "مستقبل کے امر میں ہمیشہ نفی کرنا لازمی ہے۔) (Context: مستقبل کے شائستہ احکامات (Future Po)"
           ],
           "answerIndex": 0,
           "explanation": "«جب آپ اگلے ماہ تقریب میں تشریف لائیں تو اپنے ہمراہ اپنے قیمتی تحقیقی مقالے کا مسودہ ضرور لائیے گا۔» مستقبل کے شائستہ امر کا شاہکار جملہ ہے۔"
@@ -3811,9 +3811,9 @@
           "prompt": "شائستہ انداز میں وقت ضائع نہ کرنے کی التجا کے لیے کون سا جملہ سب سے فصیح ہے؟",
           "options": [
             "وقت ضائع نہ کیجیے (Please do not waste time - Most elegant polite negative imperative)",
-            "وقت ضائع نہیں کیجیے (نحوی غلطی) (Target expression (Urdu))",
-            "وقت ضائع نہ کیا تھا (ماضی) (Target expression (Urdu))",
-            "وقت ضائع کرو (مثبت امر) (Target expression (Urdu))"
+            "وقت ضائع نہیں کیجیے (نحوی غلطی)) (Context: منفی احکامات)",
+            "وقت ضائع نہ کیا تھا (ماضی)) (Context: منفی احکامات)",
+            "وقت ضائع کرو (مثبت امر)) (Context: منفی احکامات)"
           ],
           "answerIndex": 0,
           "explanation": "شائستہ منفی امر کے لیے «نہ کیجیے» بالکل درست ہے۔"
@@ -3826,9 +3826,9 @@
           "prompt": "احکامات کی نفی میں کون سا لفظ لگانا غیر فصیح مانا جاتا ہے؟",
           "options": [
             "نہیں (Nahin - Negation particle inappropriate for imperative prohibition)",
-            "نہ (درست حرفِ نہی) (Target expression (Urdu))",
-            "مت (درست حرفِ نہی) (Target expression (Urdu))",
-            "ہرگز نہ (تاکیدی نہی) (Target expression (Urdu))"
+            "نہ (درست حرفِ نہی)) (Context: منفی احکامات)",
+            "مت (درست حرفِ نہی)) (Context: منفی احکامات)",
+            "ہرگز نہ (تاکیدی نہی)) (Context: منفی احکامات)"
           ],
           "answerIndex": 0,
           "explanation": "امر کی نفی میں 'نہیں' کے بجائے صرف 'نہ' یا 'مت' آنا چاہیے۔"
@@ -3842,9 +3842,9 @@
           "prompt": "منفی احکامات اور شائستہ نہی (Negative Commands) کا مستند جملہ پہچانیے:",
           "options": [
             "مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔ (Never become despondent [mayoos na hooiye] in fear of hardships, but keep advancing toward your destination with perseverance.)",
-            "مشکلات سے نہیں گھبرائیے اور بھاگ جائیے۔ (Target expression (Urdu))",
-            "منفی احکامات صرف جنگ کے میدان میں دیے جاتے ہیں۔ (Target expression (Urdu))",
-            "مت کا مطلب ہمیشہ تالی بجانا ہوتا ہے۔ (Target expression (Urdu))"
+            "مشکلات سے نہیں گھبرائیے اور بھاگ جائیے۔) (Context: منفی احکامات)",
+            "منفی احکامات صرف جنگ کے میدان میں دیے جاتے ہیں۔) (Context: منفی احکامات)",
+            "مت کا مطلب ہمیشہ تالی بجانا ہوتا ہے۔) (Context: منفی احکامات)"
           ],
           "answerIndex": 0,
           "explanation": "«مشکلات سے گھبرا کر کبھی مایوس نہ ہوئیے بلکہ مستقل مزاجی کے ساتھ اپنی منزل کی جانب پیش قدمی جاری رکھیے۔» شائستہ منفی امر کا بہترین اور بلیغ جملہ ہے۔"
@@ -3893,9 +3893,9 @@
           "prompt": "مستقبل کے عزم اور شائستہ التجا کے امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
             "ہم محنت کریں گے، آپ رہنمائی فرمائیے (We will work hard, please guide us - Harmonious combination of future pledge and polite imperative)",
-            "ہم محنت کرے گا اور تم سکھاؤ (غیر فصیح) (Target expression (Urdu))",
-            "ہم نے محنت کی تھی (ماضی بعید) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم محنت کرے گا اور تم سکھاؤ (غیر فصیح)) (Context: فعل مستقبل اور شائستہ احکامات کا جا)",
+            "ہم نے محنت کی تھی (ماضی بعید)) (Context: فعل مستقبل اور شائستہ احکامات کا جا)",
+            "کوئی نہیں) (Context: فعل مستقبل اور شائستہ احکامات کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم محنت کریں گے، آپ رہنمائی فرمائیے» مستقبل کے عزم اور التجا کا پروقار جملہ ہے۔"
@@ -3908,9 +3908,9 @@
           "prompt": "شائستہ مستقبل امر «کیجیے گا» اور مستقبل فعل کا باہمی تعلق کیا ظاہر کرتا ہے؟",
           "options": [
             "آئندہ کے مربوط لائحۂ عمل اور باہمی تعاون کا باوقار اظہار (Coordinated future plan and mutual cooperation)",
-            "صرف غصہ اور جھگڑا (Target expression (Urdu))",
-            "صرف پرانی یادیں (Target expression (Urdu))",
-            "بے معنی الفاظ (Target expression (Urdu))"
+            "صرف غصہ اور جھگڑا) (Context: فعل مستقبل اور شائستہ احکامات کا جا)",
+            "صرف پرانی یادیں) (Context: فعل مستقبل اور شائستہ احکامات کا جا)",
+            "بے معنی الفاظ) (Context: فعل مستقبل اور شائستہ احکامات کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ آئندہ کے لائحۂ عمل اور باہمی احترام و تعاون کو ظاہر کرتا ہے۔"
@@ -3924,9 +3924,9 @@
           "prompt": "فعل مستقبل اور شائستہ احکامات کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔ (Together we will light the lamps of knowledge and wisdom [roshan karein gay]; please support us [saath deejiye] in this mission and never become despondent [mayoos na hooiye ga].)",
-            "ہم چراغ جلائے گا اور سب بھاگ جائے گی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف اندھیرے میں بیٹھنے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "مستقبل اور امر ایک ساتھ آنا ممنوع ہے۔ (Target expression (Urdu))"
+            "ہم چراغ جلائے گا اور سب بھاگ جائے گی۔) (Context: فعل مستقبل اور شائستہ احکامات کا جا)",
+            "جامع سمیکن صرف اندھیرے میں بیٹھنے کو کہتے ہیں۔) (Context: فعل مستقبل اور شائستہ احکامات کا جا)",
+            "مستقبل اور امر ایک ساتھ آنا ممنوع ہے۔) (Context: فعل مستقبل اور شائستہ احکامات کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم سب مل کر علم و حکمت کے چراغ روشن کریں گے؛ آپ اس تعلیمی مشن میں ہمارا ساتھ دیجیے اور کبھی مایوس نہ ہوئیے گا۔» مستقبل اور شائستہ احکامات کا کامل سمیکن ہے۔"
@@ -3975,9 +3975,9 @@
           "prompt": "مؤنث اسم «مدد» کے ساتھ چاہیے کا فصیح جملہ کیا ہوگا؟",
           "options": [
             "ہمیں غریبوں کی مدد کرنی چاہیے (We ought to help the poor - Correct feminine infinitive agreement with madad)",
-            "ہمیں مدد کرنا چاہیے (تذکیر کی غلطی) (Target expression (Urdu))",
-            "ہمیں مدد کیا تھا (ماضی) (Target expression (Urdu))",
-            "ہمیں مدد کرو (غیر معیاری) (Target expression (Urdu))"
+            "ہمیں مدد کرنا چاہیے (تذکیر کی غلطی)) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)",
+            "ہمیں مدد کیا تھا (ماضی)) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)",
+            "ہمیں مدد کرو (غیر معیاری)) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'مدد' مؤنث ہے، اس لیے مصدر «کرنی چاہیے» آئے گا۔"
@@ -3990,9 +3990,9 @@
           "prompt": "چاہیے کے جملوں میں فاعل کے ساتھ کون سا پرسرگ آنا لازمی ہے؟",
           "options": [
             "کو (Ko - Dative postposition required on the logical subject with chaahiye)",
-            "نے (ارگیٹو) (Target expression (Urdu))",
-            "سے (آلہ) (Target expression (Urdu))",
-            "پر (مقام) (Target expression (Urdu))"
+            "نے (ارگیٹو)) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)",
+            "سے (آلہ)) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)",
+            "پر (مقام)) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)"
           ],
           "answerIndex": 0,
           "explanation": "چاہیے کی ساخت میں فاعل ہمیشہ 'کو' کے ساتھ مفعولی حالت میں آتا ہے (جیسے: آپ کو، مجھے)۔"
@@ -4006,9 +4006,9 @@
           "prompt": "لفظ 'چاہیے' کی نحوی ساخت (Obligation Syntax) کا درست جملہ پہچانیے:",
           "options": [
             "ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔ (Every human ought to respect their teachers and parents [ehtiram karna chaahiye] from the heart.)",
-            "انسان نے احترام کرنا چاہیے تھا اور رویا۔ (Target expression (Urdu))",
-            "چاہیے کا مطلب صرف بازار سے چائے خریدنا ہے۔ (Target expression (Urdu))",
-            "کو کو فاعل سے دس لفظ پہلے لکھنا چاہیے۔ (Target expression (Urdu))"
+            "انسان نے احترام کرنا چاہیے تھا اور رویا۔) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)",
+            "چاہیے کا مطلب صرف بازار سے چائے خریدنا ہے۔) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)",
+            "کو کو فاعل سے دس لفظ پہلے لکھنا چاہیے۔) (Context: لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور)"
           ],
           "answerIndex": 0,
           "explanation": "«ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔» چاہیے کی نحوی ساخت کا بالکل درست اور فصیح جملہ ہے۔"
@@ -4057,9 +4057,9 @@
           "prompt": "جمع اسم «کتابیں» کے ساتھ کون سا لفظ درست ہے؟",
           "options": [
             "چاہئیں (Chaahein - Plural form of chaahiye agreeing with plural noun kitaabein)",
-            "چاہیے (واحد صیغہ) (Target expression (Urdu))",
-            "چاہتا تھا (ماضی) (Target expression (Urdu))",
-            "چاہیں گے (مستقبل) (Target expression (Urdu))"
+            "چاہیے (واحد صیغہ)) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)",
+            "چاہتا تھا (ماضی)) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)",
+            "چاہیں گے (مستقبل)) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)"
           ],
           "answerIndex": 0,
           "explanation": "جمع اسم کے ساتھ فصیح اردو میں نون غنہ والا صیغہ «چاہئیں» بولا جاتا ہے۔"
@@ -4072,9 +4072,9 @@
           "prompt": "واحد اسم «قلم» کے ساتھ ضرورت کا درست جملہ کیا بنے گا؟",
           "options": [
             "مجھے ایک نیا قلم چاہیے (I need a new pen - Correct singular noun agreement with chaahiye)",
-            "مجھے قلم چاہئیں (جمع کی غلطی) (Target expression (Urdu))",
-            "مجھے قلم چاہا (غیر فصیح) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مجھے قلم چاہئیں (جمع کی غلطی)) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)",
+            "مجھے قلم چاہا (غیر فصیح)) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)",
+            "کوئی نہیں) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)"
           ],
           "answerIndex": 0,
           "explanation": "واحد اسم 'قلم' کے ساتھ «چاہیے» درست ہے۔"
@@ -4088,9 +4088,9 @@
           "prompt": "اسم کی ضرورت اور جمع صیغے 'چاہئیں' کا فصیح جملہ پہچانیے:",
           "options": [
             "اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔ (To complete this new school, we need competent teachers and modern science laboratories [chaahein].)",
-            "ہمیں اساتذہ چاہیے تھا اور پانی پیتا تھا۔ (Target expression (Urdu))",
-            "چاہئیں کا لفظ صرف شاعری میں گایا جاتا ہے۔ (Target expression (Urdu))",
-            "جمع کے ساتھ ہمیشہ چاہیے ہی لکھنا چاہیے۔ (Target expression (Urdu))"
+            "ہمیں اساتذہ چاہیے تھا اور پانی پیتا تھا۔) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)",
+            "چاہئیں کا لفظ صرف شاعری میں گایا جاتا ہے۔) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)",
+            "جمع کے ساتھ ہمیشہ چاہیے ہی لکھنا چاہیے۔) (Context: اسم کی ضرورت کے لیے 'چاہیے' اور جمع)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔» چاہئیں کا بالکل فصیح جملہ ہے۔"
@@ -4139,9 +4139,9 @@
           "prompt": "مؤنث مفعول «کتاب» کے ساتھ ماضی وجوب کا درست صیغہ کیا ہوگا؟",
           "options": [
             "پڑھنی چاہیے تھی (Parhni chaahiye thee - Feminine past obligation concord)",
-            "پڑھنا چاہیے تھا (مذکر صیغہ) (Target expression (Urdu))",
-            "پڑھنے چاہیے تھے (جمع مذکر) (Target expression (Urdu))",
-            "پڑھنی چاہیے (حال) (Target expression (Urdu))"
+            "پڑھنا چاہیے تھا (مذکر صیغہ)) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)",
+            "پڑھنے چاہیے تھے (جمع مذکر)) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)",
+            "پڑھنی چاہیے (حال)) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث اسم 'کتاب' کے ساتھ ماضی وجوب «پڑھنی چاہیے تھی» درست ہے۔"
@@ -4154,9 +4154,9 @@
           "prompt": "مذکر جمع مفعول «اسباق» کے ساتھ ماضی وجوب کا کون سا صیغہ آئے گا؟",
           "options": [
             "یاد کرنے چاہیے تھے (Yaad karnay chaahiye thay - Masculine plural past obligation)",
-            "یاد کرنا چاہیے تھا (واحد مذکر) (Target expression (Urdu))",
-            "یاد کرنی چاہیے تھی (مؤنث واحد) (Target expression (Urdu))",
-            "یاد کرنی چاہیے تھیں (مؤنث جمع) (Target expression (Urdu))"
+            "یاد کرنا چاہیے تھا (واحد مذکر)) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)",
+            "یاد کرنی چاہیے تھی (مؤنث واحد)) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)",
+            "یاد کرنی چاہیے تھیں (مؤنث جمع)) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)"
           ],
           "answerIndex": 0,
           "explanation": "مذکر جمع اسم 'اسباق' کے ساتھ «یاد کرنے چاہیے تھے» درست ہے۔"
@@ -4170,9 +4170,9 @@
           "prompt": "ماضی کے وجوب اور پچھتاوے (Past Obligation & Regret) کا فصیح جملہ پہچانیے:",
           "options": [
             "ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔ (The driver ought to have kept the vehicle speed very slow [raftaar dheemi rakhni chaahiye thee - feminine] during fog.)",
-            "ڈرائیور کو رفتار دھیما رکھنا چاہیے تھا اور الٹ گئی۔ (Target expression (Urdu))",
-            "چاہیے تھا صرف گرمیوں میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "تھی کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔ (Target expression (Urdu))"
+            "ڈرائیور کو رفتار دھیما رکھنا چاہیے تھا اور الٹ گئی۔) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)",
+            "چاہیے تھا صرف گرمیوں میں بولا جاتا ہے۔) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)",
+            "تھی کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔) (Context: ماضی کا پچھتاوا اور وجوبِ فوت شدہ)"
           ],
           "answerIndex": 0,
           "explanation": "«ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔» ماضی کے وجوب کا مکمل اور مستند جملہ ہے۔"
@@ -4221,9 +4221,9 @@
           "prompt": "ماضی میں غلط فیصلے پر شائستہ تنبیہ کا کون سا جملہ درست ہے؟",
           "options": [
             "آپ کو ایسا فیصلہ نہیں کرنا چاہیے تھا (You ought not to have made such a decision - Polite past negative obligation)",
-            "آپ نے ایسا فیصلہ مت کیا (غیر معیاری) (Target expression (Urdu))",
-            "آپ کو ایسا فیصلہ نہیں چاہیے (موجودہ شے کی نفی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "آپ نے ایسا فیصلہ مت کیا (غیر معیاری)) (Context: نفی اور ممانعت)",
+            "آپ کو ایسا فیصلہ نہیں چاہیے (موجودہ شے کی نفی)) (Context: نفی اور ممانعت)",
+            "کوئی نہیں) (Context: نفی اور ممانعت)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کے منفی وجوب کے لیے «نہیں کرنا چاہیے تھا» بالکل درست ہے۔"
@@ -4236,9 +4236,9 @@
           "prompt": "حال میں اخلاقی ممانعت کے لیے کون سا جملہ فصیح ہے؟",
           "options": [
             "کسی کا دل نہیں دکھانا چاہیے (One ought not to hurt anyone's heart - Correct present negative obligation)",
-            "کسی کا دل مت دکھانا تھا (بے جوڑ) (Target expression (Urdu))",
-            "کسی کا دل نہیں دکھایا (ماضی مطلق) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کسی کا دل مت دکھانا تھا (بے جوڑ)) (Context: نفی اور ممانعت)",
+            "کسی کا دل نہیں دکھایا (ماضی مطلق)) (Context: نفی اور ممانعت)",
+            "کوئی نہیں) (Context: نفی اور ممانعت)"
           ],
           "answerIndex": 0,
           "explanation": "«کسی کا دل نہیں دکھانا چاہیے» اخلاقی ممانعت کا بہترین جملہ ہے۔"
@@ -4252,9 +4252,9 @@
           "prompt": "منفی وجوب اور اخلاقی ممانعت (Negative Obligation) کا مستند جملہ پہچانیے:",
           "options": [
             "کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔ (No dignified person ought to compromise national interests for personal gain [samjhauta nahin karna chaahiye].)",
-            "انسان کو قومی مفاد پر سمجھوتہ مت کرتا تھا۔ (Target expression (Urdu))",
-            "منفی وجوب صرف جیل کے اندر بولا جاتا ہے۔ (Target expression (Urdu))",
-            "نہیں کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔ (Target expression (Urdu))"
+            "انسان کو قومی مفاد پر سمجھوتہ مت کرتا تھا۔) (Context: نفی اور ممانعت)",
+            "منفی وجوب صرف جیل کے اندر بولا جاتا ہے۔) (Context: نفی اور ممانعت)",
+            "نہیں کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔) (Context: نفی اور ممانعت)"
           ],
           "answerIndex": 0,
           "explanation": "«کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔» منفی وجوب کا مکمل اور جامع جملہ ہے۔"
@@ -4303,9 +4303,9 @@
           "prompt": "اخلاقی منشور میں حال کے وجوب اور جمع کی ضرورت کے امتزاج کا فصیح جملہ کیا ہے؟",
           "options": [
             "ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں (We ought to work hard and we need good resources - Harmonious combination of obligation and plural noun requirement)",
-            "ہمیں محنت کرنا چاہئیں اور وسائل چاہیے تھا (بے جوڑ غلطیاں) (Target expression (Urdu))",
-            "ہم نے محنت کی تھی (ماضی بعید) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہمیں محنت کرنا چاہئیں اور وسائل چاہیے تھا (بے جوڑ غلطیاں)) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)",
+            "ہم نے محنت کی تھی (ماضی بعید)) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)",
+            "کوئی نہیں) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں» وجوب اور ضرورت کا بہترین اور فصیح جملہ ہے۔"
@@ -4318,9 +4318,9 @@
           "prompt": "اخلاقی و سماجی وجوب کے جامع سمیکن کا بنیادی مقصد کیا ہے؟",
           "options": [
             "فرد اور معاشرے کی اخلاقی اصلاح اور فصیح طرزِ بیان کا فروغ (Moral reform of individual and society with eloquent expression)",
-            "صرف زبانی بحث و تکرار (Target expression (Urdu))",
-            "صرف پرانی یادیں تازہ کرنا (Target expression (Urdu))",
-            "بے معنی جملے بنانا (Target expression (Urdu))"
+            "صرف زبانی بحث و تکرار) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)",
+            "صرف پرانی یادیں تازہ کرنا) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)",
+            "بے معنی جملے بنانا) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)"
           ],
           "answerIndex": 0,
           "explanation": "اس کا مقصد معاشرتی اصلاح اور اخلاقی شعور کو فصیح پیرائے میں اجاگر کرنا ہے۔"
@@ -4334,9 +4334,9 @@
           "prompt": "اخلاقی و سماجی وجوب کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔ (We ought to value knowledge [qadr karni chaahiye], keep high the banner of truth [buland rakhna chaahiye], and never sell our conscience [sauda nahin karna chaahiye] out of any greed.)",
-            "ہمیں علم کی قدر کرنا چاہئیں اور ضمیر بیچ دیا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "چاہیے کو صرف فارسی کتاب میں لکھنا چاہیے۔ (Target expression (Urdu))"
+            "ہمیں علم کی قدر کرنا چاہئیں اور ضمیر بیچ دیا تھا۔) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)",
+            "چاہیے کو صرف فارسی کتاب میں لکھنا چاہیے۔) (Context: اخلاقی و سماجی وجوب کا جامع سمیکن و)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔» اخلاقی وجوب کے جامع سمیکن کا شاہکار اور مستند جملہ ہے۔"
@@ -4385,9 +4385,9 @@
           "prompt": "مجبوری ظاہر کرنے کے لیے کون سا امدادی فعل مستعمل ہوتا ہے؟",
           "options": [
             "پڑنا (Parna - Auxiliary verb denoting involuntary external compulsion)",
-            "چاہنا (خواہش) (Target expression (Urdu))",
-            "سکنا (صلاحیت) (Target expression (Urdu))",
-            "چکنا (تکمیل) (Target expression (Urdu))"
+            "چاہنا (خواہش)) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)",
+            "سکنا (صلاحیت)) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)",
+            "چکنا (تکمیل)) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)"
           ],
           "answerIndex": 0,
           "explanation": "بیرونی دباؤ اور مجبوری کے لیے امدادی فعل «پڑنا» استعمال ہوتا ہے۔"
@@ -4400,9 +4400,9 @@
           "prompt": "مؤنث اسم «بات» کے ساتھ مجبوری کا درست جملہ کیا بنے گا؟",
           "options": [
             "مجھے ان کی بات ماننی پڑتی ہے (I have to accept their word - Feminine compulsion agreement with baat)",
-            "مجھے بات ماننا پڑتا ہے (تذکیر کی غلطی) (Target expression (Urdu))",
-            "مجھے بات مانا تھا (ماضی مطلق) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مجھے بات ماننا پڑتا ہے (تذکیر کی غلطی)) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)",
+            "مجھے بات مانا تھا (ماضی مطلق)) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)",
+            "کوئی نہیں) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث اسم 'بات' کے ساتھ «ماننی پڑتی ہے» درست ہے۔"
@@ -4416,9 +4416,9 @@
           "prompt": "بیرونی مجبوری (External Compulsion with پڑنا) کا مستند جملہ پہچانیے:",
           "options": [
             "طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔ (Due to torrential rain and power outage, students had to prepare [tayyaari karni pari - feminine] for the exam in candlelight.)",
-            "طلبہ نے موم بتی کو امتحان کرایا تھا۔ (Target expression (Urdu))",
-            "پڑنا کا مطلب صرف بستر پر سونا ہوتا ہے۔ (Target expression (Urdu))",
-            "پڑی کو ہمیشہ فاعل کے نام کے اوپر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "طلبہ نے موم بتی کو امتحان کرایا تھا۔) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)",
+            "پڑنا کا مطلب صرف بستر پر سونا ہوتا ہے۔) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)",
+            "پڑی کو ہمیشہ فاعل کے نام کے اوپر لکھنا چاہیے۔) (Context: بیرونی مجبوری کے لیے 'پڑنا' کی گردا)"
           ],
           "answerIndex": 0,
           "explanation": "«طوفانی بارش اور بجلی کی بندش کی وجہ سے طلبہ کو موم بتی کی روشنی میں امتحان کی تیاری کرنی پڑی۔» بیرونی مجبوری کا فصیح اور درست جملہ ہے۔"
@@ -4467,9 +4467,9 @@
           "prompt": "طے شدہ شیڈول اور ارادے کے اظہار کا کون سا جملہ درست ہے؟",
           "options": [
             "مجھے کل لاہور جانا ہے (I have to go to Lahore tomorrow - Pre-arranged planned obligation with hona)",
-            "مجھے کل لاہور جانا پڑا (ماضی کی مجبوری) (Target expression (Urdu))",
-            "میں کل لاہور گیا تھا (ماضی بعید) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مجھے کل لاہور جانا پڑا (ماضی کی مجبوری)) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)",
+            "میں کل لاہور گیا تھا (ماضی بعید)) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)",
+            "کوئی نہیں) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)"
           ],
           "answerIndex": 0,
           "explanation": "طے شدہ منصوبے کے لیے «جانا ہے» فصیح ترین تعبیر ہے۔"
@@ -4482,9 +4482,9 @@
           "prompt": "جمع مفعول «معاملات» کے ساتھ فعل «ہونا» کا درست صیغہ کیا ہوگا؟",
           "options": [
             "نمٹانے ہیں (Nimtaane hain - Plural masculine agreement with maamlaat)",
-            "نمٹانا ہے (واحد مذکر) (Target expression (Urdu))",
-            "نمٹانی ہے (مؤنث واحد) (Target expression (Urdu))",
-            "نمٹائی تھیں (ماضی) (Target expression (Urdu))"
+            "نمٹانا ہے (واحد مذکر)) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)",
+            "نمٹانی ہے (مؤنث واحد)) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)",
+            "نمٹائی تھیں (ماضی)) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر اسم 'معاملات' کے ساتھ «نمٹانے ہیں» آئے گا۔"
@@ -4498,9 +4498,9 @@
           "prompt": "ارادی و منصوبی وجوب (Planned Obligation with ہونا) کا فصیح جملہ پہچانیے:",
           "options": [
             "ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔ (We are scheduled to meet [mulaaqaat karni hai - feminine] the President of the State with the delegation tomorrow morning.)",
-            "ہم نے صدر سے ملاقات پڑتا ہے اور بھاگا۔ (Target expression (Urdu))",
-            "ہونا کا مطلب صرف دودھ پینا ہوتا ہے۔ (Target expression (Urdu))",
-            "ہے کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔ (Target expression (Urdu))"
+            "ہم نے صدر سے ملاقات پڑتا ہے اور بھاگا۔) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)",
+            "ہونا کا مطلب صرف دودھ پینا ہوتا ہے۔) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)",
+            "ہے کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔) (Context: ذاتی عزم و پہلے سے طے شدہ وجوب)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں کل صبح دس بجے وفد کے ہمراہ صدرِ مملکت سے ملاقات کرنی ہے تاکہ نئے منصوبے کی منظوری لی جا سکے۔» منصوبی وجوب کا مستند جملہ ہے۔"
@@ -4549,9 +4549,9 @@
           "prompt": "مؤنث جمع اسم «کتابیں» کے ساتھ ماضی کی مجبوری کا درست صیغہ کیا ہوگا؟",
           "options": [
             "خریدنی پڑیں (Khareedni pareen - Feminine plural past compulsion concord)",
-            "خریدنا پڑا (مذکر واحد) (Target expression (Urdu))",
-            "خریدنے پڑے (مذکر جمع) (Target expression (Urdu))",
-            "خریدنی پڑی (مؤنث واحد) (Target expression (Urdu))"
+            "خریدنا پڑا (مذکر واحد)) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )",
+            "خریدنے پڑے (مذکر جمع)) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )",
+            "خریدنی پڑی (مؤنث واحد)) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث جمع اسم کے ساتھ نون غنہ والا صیغہ «خریدنی پڑیں» مستعمل ہے۔"
@@ -4564,9 +4564,9 @@
           "prompt": "مذکر واحد مفعول «مکان» کے ساتھ ماضی کی مجبوری کیا بنے گی؟",
           "options": [
             "خالی کرنا پڑا (Khaali karna para - Masculine singular past compulsion)",
-            "خالی کرنی پڑی (مؤنث واحد) (Target expression (Urdu))",
-            "خالی کرنے پڑے (مذکر جمع) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خالی کرنی پڑی (مؤنث واحد)) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )",
+            "خالی کرنے پڑے (مذکر جمع)) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )",
+            "کوئی نہیں) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )"
           ],
           "answerIndex": 0,
           "explanation": "مذکر واحد اسم 'مکان' کے ساتھ «خالی کرنا پڑا» درست ہے۔"
@@ -4580,9 +4580,9 @@
           "prompt": "ماضی کی مجبوری اور صیغوں کی مطابقت (Past Compulsion) کا فصیح جملہ پہچانیے:",
           "options": [
             "سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔ (Due to the sudden flood, all villagers had to abandon their ancestral homes [ghar baar chhornay paray - masculine plural] and had to take shelter [panaah leni pari - feminine singular] in safe places.)",
-            "سیلاب نے گاؤں کو گھر بار چھوڑنا پڑیں تھا۔ (Target expression (Urdu))",
-            "ماضی کی مجبوری صرف سکول میں ہوتی ہے۔ (Target expression (Urdu))",
-            "پڑیں کو ہمیشہ جملے کے شروع میں لکھنا چاہیے۔ (Target expression (Urdu))"
+            "سیلاب نے گاؤں کو گھر بار چھوڑنا پڑیں تھا۔) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )",
+            "ماضی کی مجبوری صرف سکول میں ہوتی ہے۔) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )",
+            "پڑیں کو ہمیشہ جملے کے شروع میں لکھنا چاہیے۔) (Context: ماضی کی مجبوری اور صیغوں کی مطابقت )"
           ],
           "answerIndex": 0,
           "explanation": "«سیلاب کے اچانک آ جانے کی وجہ سے گاؤں کے تمام باسیوں کو اپنے آبائی گھر بار چھوڑنے پڑے اور محفوظ مقامات پر پناہ لینی پڑی۔» ماضی کی مجبوری کا کامل جملہ ہے۔"
@@ -4631,9 +4631,9 @@
           "prompt": "مؤنث اسم «فیس» کے ساتھ مستقبل کی مجبوری کیا بنے گی؟",
           "options": [
             "فیس ادا کرنی پڑے گی (Will have to pay fees - Feminine singular future compulsion)",
-            "فیس ادا کرنا پڑے گا (تذکیر کی غلطی) (Target expression (Urdu))",
-            "فیس ادا کرنے پڑیں گے (جمع مذکر) (Target expression (Urdu))",
-            "فیس ادا کی تھی (ماضی) (Target expression (Urdu))"
+            "فیس ادا کرنا پڑے گا (تذکیر کی غلطی)) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)",
+            "فیس ادا کرنے پڑیں گے (جمع مذکر)) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)",
+            "فیس ادا کی تھی (ماضی)) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)"
           ],
           "answerIndex": 0,
           "explanation": "مؤنث اسم 'فیس' کے ساتھ «ادا کرنی پڑے گی» درست ہے۔"
@@ -4646,9 +4646,9 @@
           "prompt": "مشروط جملے میں مستقبل کی مجبوری کا فصیح آغاز کس لفظ سے ہوتا ہے؟",
           "options": [
             "اگر (Agar - Conditional conjunction introducing future conditional clause)",
-            "کاش (تمنا) (Target expression (Urdu))",
-            "کیونکہ (علت) (Target expression (Urdu))",
-            "تاکہ (مقصد) (Target expression (Urdu))"
+            "کاش (تمنا)) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)",
+            "کیونکہ (علت)) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)",
+            "تاکہ (مقصد)) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)"
           ],
           "answerIndex": 0,
           "explanation": "مشروط جملے کا آغاز لفظ 'اگر' سے ہوتا ہے۔"
@@ -4662,9 +4662,9 @@
           "prompt": "مستقبل کی مجبوری اور مشروط جملوں (Future Compulsion in Conditionals) کا درست جملہ پہچانیے:",
           "options": [
             "اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔ (If you do not work hard today, you will have to regret your shortcomings [pachtana paray ga] for the rest of your life.)",
-            "اگر آپ نے محنت کیا تو پچھتایا تھا اور رویا۔ (Target expression (Urdu))",
-            "پڑے گا صرف بارش میں آتا ہے۔ (Target expression (Urdu))",
-            "مستقبل کے جملے میں تو کا استعمال ممنوع ہے۔ (Target expression (Urdu))"
+            "اگر آپ نے محنت کیا تو پچھتایا تھا اور رویا۔) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)",
+            "پڑے گا صرف بارش میں آتا ہے۔) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)",
+            "مستقبل کے جملے میں تو کا استعمال ممنوع ہے۔) (Context: مستقبل کی مجبوری اور مشروط جملے (Fu)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر آپ نے آج محنت نہ کی تو کل آپ کو اپنی کوتاہیوں پر زندگی بھر پچھتانا پڑے گا۔» مشروط مستقبل کی مجبوری کا بہترین جملہ ہے۔"
@@ -4713,9 +4713,9 @@
           "prompt": "عزم (ہونا) اور مجبوری (پڑنا) کے متوازن امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
             "مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے (I have to do work [hona] no matter what difficulty I must face [parna] - Balanced synthesis)",
-            "مجھے کام پڑنا ہے چاہے مشکل ہونا ہے (بے جوڑ صیغے) (Target expression (Urdu))",
-            "کام ختم ہوا تھا (ماضی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مجھے کام پڑنا ہے چاہے مشکل ہونا ہے (بے جوڑ صیغے)) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)",
+            "کام ختم ہوا تھا (ماضی)) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)",
+            "کوئی نہیں) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)"
           ],
           "answerIndex": 0,
           "explanation": "«مجھے کام کرنا ہے چاہے مشکل اٹھانی پڑے» عزم اور مجبوری کا فصیح امتزاج ہے۔"
@@ -4728,9 +4728,9 @@
           "prompt": "جامع سمیکن میں 'ہونا' اور 'پڑنا' کا تقابل کیا ظاہر کرتا ہے؟",
           "options": [
             "ارادے اور بیرونی حالات کے درمیان انسانی کشمکش اور عزم کا اظہار (Human struggle and resolve between intent and circumstance)",
-            "صرف وقت کا ضیاع (Target expression (Urdu))",
-            "صرف پرانی یادوں کا اعادہ (محدود مفہوم) (Target expression (Urdu))",
-            "بے معنی الفاظ (Target expression (Urdu))"
+            "صرف وقت کا ضیاع) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)",
+            "صرف پرانی یادوں کا اعادہ (محدود مفہوم)) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)",
+            "بے معنی الفاظ) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ ارادے اور حالات کے درمیان انسانی عزم و جدوجہد کو ظاہر کرتا ہے۔"
@@ -4744,9 +4744,9 @@
           "prompt": "مجبوری و عزم (Compulsion & Obligation Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔ (We have to make every sacrifice [qurbaani deni hai] for the defense of our homeland, even if we have to shed our last drop of blood [bahaana paray] and bear the harshest hardships [jheelne parain].)",
-            "ہمیں حفاظت کرنا پڑا ہے اور خون بہا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف کھانا کھانے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "پڑنا اور ہونا ایک زبان میں نہیں بولے جاتے۔ (Target expression (Urdu))"
+            "ہمیں حفاظت کرنا پڑا ہے اور خون بہا تھا۔) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)",
+            "جامع سمیکن صرف کھانا کھانے کو کہتے ہیں۔) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)",
+            "پڑنا اور ہونا ایک زبان میں نہیں بولے جاتے۔) (Context: مجبوری و عزم (پڑنا بمقابلہ ہونا) کا)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں اپنے وطن کی حفاظت کے لیے ہر قربانی دینی ہے، خواہ اس راہ میں ہمیں اپنے خون کا آخری قطرہ تک بہانا پڑے اور سخت ترین مصائب جھیلنے پڑیں۔» مجبوری و عزم کے جامع سمیکن کا شاہکار جملہ ہے۔"
@@ -4795,9 +4795,9 @@
           "prompt": "مؤنث اسم «کتاب» کے ساتھ درست ملکیتی پرسرگ کون سا ہوگا؟",
           "options": [
             "کی (Kee - Feminine genitive postposition agreeing with kitaab)",
-            "کا (مذکر واحد) (Target expression (Urdu))",
-            "کے (مذکر جمع) (Target expression (Urdu))",
-            "کو (مفعولی) (Target expression (Urdu))"
+            "کا (مذکر واحد)) (Context: اضافت و ملکیتی پرسرگ)",
+            "کے (مذکر جمع)) (Context: اضافت و ملکیتی پرسرگ)",
+            "کو (مفعولی)) (Context: اضافت و ملکیتی پرسرگ)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'کتاب' مؤنث ہے، اس لیے ملکیتی پرسرگ «کی» آئے گا۔"
@@ -4810,9 +4810,9 @@
           "prompt": "مذکر جمع اسم «مضامین» کے ساتھ درست اضافت کیا ہوگی؟",
           "options": [
             "مصنف کے مضامین (The author's essays - Correct masculine plural genitive agreement)",
-            "مصنف کا مضامین (واحد کی غلطی) (Target expression (Urdu))",
-            "مصنف کی مضامین (تانیث کی غلطی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مصنف کا مضامین (واحد کی غلطی)) (Context: اضافت و ملکیتی پرسرگ)",
+            "مصنف کی مضامین (تانیث کی غلطی)) (Context: اضافت و ملکیتی پرسرگ)",
+            "کوئی نہیں) (Context: اضافت و ملکیتی پرسرگ)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر اسم 'مضامین' کے ساتھ «مصنف کے مضامین» درست ہے۔"
@@ -4826,9 +4826,9 @@
           "prompt": "اضافت اور ملکیتی پرسرگ (کا / کے / کی) کا فصیح جملہ پہچانیے:",
           "options": [
             "شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔ (The poetry of the Poet of the East [ki shaayiri] and his philosophical thoughts [ke afkaar] awakened the passion for freedom [aazaadi ka jazba].)",
-            "علامہ اقبال کا شاعری اور ان کی افکار روتی تھی۔ (Target expression (Urdu))",
-            "کا/کے/کی صرف انگریزی میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "کی کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔ (Target expression (Urdu))"
+            "علامہ اقبال کا شاعری اور ان کی افکار روتی تھی۔) (Context: اضافت و ملکیتی پرسرگ)",
+            "کا/کے/کی صرف انگریزی میں بولا جاتا ہے۔) (Context: اضافت و ملکیتی پرسرگ)",
+            "کی کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔) (Context: اضافت و ملکیتی پرسرگ)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔» اضافت کے تمام اصولوں پر پورا اترتا ہے۔"
@@ -4877,9 +4877,9 @@
           "prompt": "خاندانی رشتے (بھائی) کے لیے درست جملہ کون سا ہے؟",
           "options": [
             "میرا ایک بھائی ہے (I have a brother - Inalienable kinship with mera)",
-            "میرے پاس ایک بھائی ہے (غیر فصیح اور غلط) (Target expression (Urdu))",
-            "مجھ کو بھائی ملا تھا (ماضی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "میرے پاس ایک بھائی ہے (غیر فصیح اور غلط)) (Context: منقولہ مادی ملکیت)",
+            "مجھ کو بھائی ملا تھا (ماضی)) (Context: منقولہ مادی ملکیت)",
+            "کوئی نہیں) (Context: منقولہ مادی ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "خاندانی رشتوں کے لیے 'کے پاس' کے بجائے «میرا / میری / میرے» مستعمل ہے۔"
@@ -4892,9 +4892,9 @@
           "prompt": "منقولہ مادی شے (گاڑی) کے لیے درست ملکیتی جملہ کیا ہوگا؟",
           "options": [
             "احمد کے پاس ایک نئی گاڑی ہے (Ahmad has a new car - Correct alienable possession with ke paas)",
-            "احمد کا گاڑی ہے (تذکیر کی غلطی) (Target expression (Urdu))",
-            "احمد نے گاڑی رکھا تھا (ارگیٹو) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "احمد کا گاڑی ہے (تذکیر کی غلطی)) (Context: منقولہ مادی ملکیت)",
+            "احمد نے گاڑی رکھا تھا (ارگیٹو)) (Context: منقولہ مادی ملکیت)",
+            "کوئی نہیں) (Context: منقولہ مادی ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "مادی منقولہ شے کے پاس ہونے کے لیے «کے پاس» درست ہے۔"
@@ -4908,9 +4908,9 @@
           "prompt": "منقولہ اور غیر منقولہ ملکیت (Alienable vs Inalienable Possession) کا مستند جملہ پہچانیے:",
           "options": [
             "اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔ (This senior scholar has three promising sons [ke teen betay - kinship] and their personal library possesses rare historical manuscripts [ke paas makhtoote].)",
-            "اس بزرگ کے پاس تین بیٹے اور ایک ناک ہے اور رویا۔ (Target expression (Urdu))",
-            "کے پاس کا استعمال صرف جانوروں کے لیے ہوتا ہے۔ (Target expression (Urdu))",
-            "رشتوں کے ساتھ ہمیشہ کے پاس لگانا واجب ہے۔ (Target expression (Urdu))"
+            "اس بزرگ کے پاس تین بیٹے اور ایک ناک ہے اور رویا۔) (Context: منقولہ مادی ملکیت)",
+            "کے پاس کا استعمال صرف جانوروں کے لیے ہوتا ہے۔) (Context: منقولہ مادی ملکیت)",
+            "رشتوں کے ساتھ ہمیشہ کے پاس لگانا واجب ہے۔) (Context: منقولہ مادی ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "«اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔» ملکیت کے دونوں دائروں کا فصیح جملہ ہے۔"
@@ -4959,9 +4959,9 @@
           "prompt": "کسی شخص کی اندرونی صلاحیت اور ذہانت ظاہر کرنے کے لیے کون سا پرسرگ آئے گا؟",
           "options": [
             "میں (Mein - Locative postposition for inherent qualities: us mein salaahiyat hai)",
-            "کے پاس (مادی منقولہ شے) (Target expression (Urdu))",
-            "سے (ذریعہ) (Target expression (Urdu))",
-            "پر (اوپر) (Target expression (Urdu))"
+            "کے پاس (مادی منقولہ شے)) (Context: علم و خوبی اور صفات کی ملکیت)",
+            "سے (ذریعہ)) (Context: علم و خوبی اور صفات کی ملکیت)",
+            "پر (اوپر)) (Context: علم و خوبی اور صفات کی ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "باطنی اوصاف اور صلاحیتوں کے لیے پرسرگ «میں» استعمال ہوتا ہے (جیسے: اس میں قابلیت ہے)۔"
@@ -4974,9 +4974,9 @@
           "prompt": "علم اور شعور کے لیے فصیح ملکیتی جملہ کون سا ہے؟",
           "options": [
             "ہمیں اس حقیقت کا پورا علم ہے (We have complete knowledge of this truth - Correct cognitive possession)",
-            "ہمارے پاس حقیقت کا علم رہتا ہے (غیر فصیح) (Target expression (Urdu))",
-            "ہم نے حقیقت جانا تھا (ماضی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہمارے پاس حقیقت کا علم رہتا ہے (غیر فصیح)) (Context: علم و خوبی اور صفات کی ملکیت)",
+            "ہم نے حقیقت جانا تھا (ماضی)) (Context: علم و خوبی اور صفات کی ملکیت)",
+            "کوئی نہیں) (Context: علم و خوبی اور صفات کی ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمیں اس حقیقت کا پورا علم ہے» علمی و شعوری ملکیت کا فصیح جملہ ہے۔"
@@ -4990,9 +4990,9 @@
           "prompt": "باطنی اوصاف اور علم کی ملکیت (Abstract Qualities & Knowledge) کا فصیح جملہ پہچانیے:",
           "options": [
             "اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔ (In this diligent teacher there is a deep passion [jazba hai] for moral education, and he has complete grasp [idraak hai] of modern methods.)",
-            "استاد کے پاس جذبہ کھڑا تھا اور رویا۔ (Target expression (Urdu))",
-            "اوصاف کی ملکیت صرف پہاڑوں میں پائی جاتی ہے۔ (Target expression (Urdu))",
-            "ادراک کو ہمیشہ فعل سے دس لفظ بعد لکھنا چاہیے۔ (Target expression (Urdu))"
+            "استاد کے پاس جذبہ کھڑا تھا اور رویا۔) (Context: علم و خوبی اور صفات کی ملکیت)",
+            "اوصاف کی ملکیت صرف پہاڑوں میں پائی جاتی ہے۔) (Context: علم و خوبی اور صفات کی ملکیت)",
+            "ادراک کو ہمیشہ فعل سے دس لفظ بعد لکھنا چاہیے۔) (Context: علم و خوبی اور صفات کی ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "«اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔» باطنی اوصاف کا بہترین اور فصیح جملہ ہے۔"
@@ -5041,9 +5041,9 @@
           "prompt": "مؤنث اسم «سوچ» کے ساتھ متکلم کا درست ملکیتی ضمیر کیا ہوگا؟",
           "options": [
             "میری سوچ (Meri soch - Feminine 1st person possessive agreement)",
-            "میرا سوچ (تذکیر کی غلطی) (Target expression (Urdu))",
-            "میرے سوچ (جمع کی غلطی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "میرا سوچ (تذکیر کی غلطی)) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)",
+            "میرے سوچ (جمع کی غلطی)) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)",
+            "کوئی نہیں) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'سوچ' مؤنث ہے، اس لیے «میری سوچ» درست ہے۔"
@@ -5056,9 +5056,9 @@
           "prompt": "جمع مذکر اسم «خیالات» کے ساتھ تعظیمی مخاطب کی درست ترکیب کیا ہوگی؟",
           "options": [
             "آپ کے خیالات (Aap ke khayaalaat - Masculine plural respectful possessive)",
-            "آپ کا خیالات (واحد کی غلطی) (Target expression (Urdu))",
-            "آپ کی خیالات (تانیث کی غلطی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "آپ کا خیالات (واحد کی غلطی)) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)",
+            "آپ کی خیالات (تانیث کی غلطی)) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)",
+            "کوئی نہیں) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "جمع مذکر اسم 'خیالات' کے ساتھ «آپ کے خیالات» درست ہے۔"
@@ -5072,9 +5072,9 @@
           "prompt": "ضمائرِ ملکیت اور اضافی تراکیب (Possessive Pronouns) کا فصیح جملہ پہچانیے:",
           "options": [
             "ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔ (Our objective [hamaara nasb-ul-ain], our struggle [hamaari jadd-o-jehad], and our collective decisions [hamaare faislay] are the guarantee of our bright future.)",
-            "ہمارا جدوجہد اور ہمارے نصب العین روتے تھے۔ (Target expression (Urdu))",
-            "ضمائرِ ملکیت صرف ریڈیو پر بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "میرا کو ہمیشہ مؤنث اسم کے ساتھ لگانا چاہیے۔ (Target expression (Urdu))"
+            "ہمارا جدوجہد اور ہمارے نصب العین روتے تھے۔) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)",
+            "ضمائرِ ملکیت صرف ریڈیو پر بولے جاتے ہیں۔) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)",
+            "میرا کو ہمیشہ مؤنث اسم کے ساتھ لگانا چاہیے۔) (Context: اضافتِ مقلوب اور ضمائرِ ملکیت)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔» ضمائرِ ملکیت کے مکمل مطابقت کا شاہکار جملہ ہے۔"
@@ -5123,9 +5123,9 @@
           "prompt": "مادی ملکیت (کے پاس) اور خاندانی تعلق (کا/کے/کی) کے امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
             "ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے (He has a son [kinship] and possesses a car [movable] - Harmonious authentic synthesis)",
-            "ان کے پاس بیٹا ہے اور ان کا گاڑی ہے (فاش غلطیاں) (Target expression (Urdu))",
-            "بیٹا گاڑی میں گیا تھا (ماضی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ان کے پاس بیٹا ہے اور ان کا گاڑی ہے (فاش غلطیاں)) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)",
+            "بیٹا گاڑی میں گیا تھا (ماضی)) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)",
+            "کوئی نہیں) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "«ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے» دونوں ساختوں کا درست ترین امتزاج ہے۔"
@@ -5138,9 +5138,9 @@
           "prompt": "اضافت اور باطنی اوصاف کے جامع سمیکن کا اصل ادبی حسن کیا ہے؟",
           "options": [
             "مادی اور باطنی حقیقتوں کو فصیح نحوی اوزان میں خوبصورتی سے پرو دینا (Articulating material and internal realities in eloquent syntax)",
-            "صرف الفاظ کی لمبائی بڑھانا (Target expression (Urdu))",
-            "پرانی کہانیوں کو دہرانا (Target expression (Urdu))",
-            "بے معنی بحث کرنا (Target expression (Urdu))"
+            "صرف الفاظ کی لمبائی بڑھانا) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)",
+            "پرانی کہانیوں کو دہرانا) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)",
+            "بے معنی بحث کرنا) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "اس کا حسن مادی اور باطنی اوصاف کو فصیح نحوی اوزان میں یکجا کرنا ہے۔"
@@ -5154,9 +5154,9 @@
           "prompt": "ملکیت، اوصاف اور اضافت کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔ (The scholarly prestige of our university teachers is exemplary [ka ilmi waqaar], they possess extensive libraries [ke paas kutub khaane], and in their hearts there is true passion [dilon mein jazba].)",
-            "اساتذہ کے پاس وقار روتا تھا اور کتابیں بھاگیں۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف رات کے اندھیرے میں لکھا جاتا ہے۔ (Target expression (Urdu))",
-            "اضافت کا استعمال صرف اشعار میں جائز ہے۔ (Target expression (Urdu))"
+            "اساتذہ کے پاس وقار روتا تھا اور کتابیں بھاگیں۔) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)",
+            "جامع سمیکن صرف رات کے اندھیرے میں لکھا جاتا ہے۔) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)",
+            "اضافت کا استعمال صرف اشعار میں جائز ہے۔) (Context: ملکیت، اوصاف اور اضافت کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "«ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔» اضافت اور ملکیت کے جامع سمیکن کا کامل جملہ ہے۔"
@@ -5205,9 +5205,9 @@
           "prompt": "کسی دوسرے شخص کو رقم دینے کے عمل میں کون سا مرکب فعل درست ہے؟",
           "options": [
             "لوٹا دیا (Lautaa diya - Outward completion with dena for returning money to another)",
-            "لوٹا لیا (اپنے پاس واپس لینا) (Target expression (Urdu))",
-            "لوٹتا تھا (ماضی استمراری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "لوٹا لیا (اپنے پاس واپس لینا)) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)",
+            "لوٹتا تھا (ماضی استمراری)) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)",
+            "کوئی نہیں) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)"
           ],
           "answerIndex": 0,
           "explanation": "دوسرے کو واپس کرنے کے لیے امدادی فعل 'دینا' («لوٹا دیا») آئے گا۔"
@@ -5220,9 +5220,9 @@
           "prompt": "اپنے ذاتی فائدے کے لیے کتاب کا مطالعہ مکمل کرنے کا فصیح صیغہ کیا ہے؟",
           "options": [
             "پڑھ لی (Parh lee - Self-benefactive completion with lena agreeing with feminine kitaab)",
-            "پڑھ دی (دوسرے کے لیے) (Target expression (Urdu))",
-            "پڑھی تھی (ماضی بعید) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "پڑھ دی (دوسرے کے لیے)) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)",
+            "پڑھی تھی (ماضی بعید)) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)",
+            "کوئی نہیں) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)"
           ],
           "answerIndex": 0,
           "explanation": "اپنی ذات کے مطالعے کے لیے «پڑھ لی» مستعمل ہے۔"
@@ -5236,9 +5236,9 @@
           "prompt": "امدادی افعال (لینا بمقابلہ دینا) کا فصیح اور مستند جملہ پہچانیے:",
           "options": [
             "میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔ (I solved all my exam questions [hal kar liye] and handed the solved paper to the invigilator [thama diya].)",
-            "میں نے سوالات حل کر دیا اور پرچہ اپنے پاس رکھ لیا۔ (Target expression (Urdu))",
-            "لینا اور دینا صرف مارکیٹ میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "امدادی فعل کو جملے کے شروع میں اسم کے بدلے لکھنا چاہیے۔ (Target expression (Urdu))"
+            "میں نے سوالات حل کر دیا اور پرچہ اپنے پاس رکھ لیا۔) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)",
+            "لینا اور دینا صرف مارکیٹ میں بولا جاتا ہے۔) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)",
+            "امدادی فعل کو جملے کے شروع میں اسم کے بدلے لکھنا چاہیے۔) (Context: امدادی فعل 'لینا' بمقابلہ 'دینا' (S)"
           ],
           "answerIndex": 0,
           "explanation": "«میں نے اپنے تمام ضروری امتحانی سوالات حل کر لیے اور حل شدہ پرچہ نگرانِ امتحان کو تھما دیا۔» لینا اور دینا کے دونوں رخنوں کا بہترین جملہ ہے۔"
@@ -5287,9 +5287,9 @@
           "prompt": "غصے میں خط کو ٹکڑے ٹکڑے کرنے کے لیے کون سا مرکب فعل بلیغ ہے؟",
           "options": [
             "پھاڑ ڈالا (Phaar daala - Forceful destructive completion with daalna)",
-            "پھاڑ گیا (غیر فصیح) (Target expression (Urdu))",
-            "پھاڑ دیا (معمولی انداز) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "پھاڑ گیا (غیر فصیح)) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)",
+            "پھاڑ دیا (معمولی انداز)) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)",
+            "کوئی نہیں) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)"
           ],
           "answerIndex": 0,
           "explanation": "شدت اور غصے میں ٹکڑے کرنے کے لیے «پھاڑ ڈالا» سب سے زیادہ اثر انگیز ہے۔"
@@ -5302,9 +5302,9 @@
           "prompt": "تھکن سے نیند آ جانے کی قدرتی تبدیلی کے لیے کون سا فعل درست ہے؟",
           "options": [
             "سو گیا (So gaya - Natural transition into sleep with jaana)",
-            "سو ڈالا (نامناسب اور غلط) (Target expression (Urdu))",
-            "سو لیا (محدود نیند) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "سو ڈالا (نامناسب اور غلط)) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)",
+            "سو لیا (محدود نیند)) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)",
+            "کوئی نہیں) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)"
           ],
           "answerIndex": 0,
           "explanation": "نیند کی حالت میں چلے جانے کے لیے «سو گیا» درست ہے۔"
@@ -5318,9 +5318,9 @@
           "prompt": "امدادی فعل 'جانا' اور 'ڈالنا' کا فصیح جملہ پہچانیے:",
           "options": [
             "عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔ (As soon as the court verdict was heard, all uproar ceased [khatam ho gaya] and the crowd wiped away [mita daalay] all old grievances.)",
-            "ہنگامہ ختم ڈال دیا اور لوگ رویا۔ (Target expression (Urdu))",
-            "ڈالنا صرف چائے میں چینی ڈالنے کے لیے آتا ہے۔ (Target expression (Urdu))",
-            "جانا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "ہنگامہ ختم ڈال دیا اور لوگ رویا۔) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)",
+            "ڈالنا صرف چائے میں چینی ڈالنے کے لیے آتا ہے۔) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)",
+            "جانا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔) (Context: امدادی فعل 'جانا' اور 'ڈالنا' (Comp)"
           ],
           "answerIndex": 0,
           "explanation": "«عدالت کا باضابطہ فیصلہ سنتے ہی تمام ہنگامہ ختم ہو گیا اور مشتعل ہجوم نے اپنے تمام پرانے شکوے مٹا ڈالے۔» دونوں امدادی افعال کا شاہکار جملہ ہے۔"
@@ -5369,9 +5369,9 @@
           "prompt": "بے وقوفی میں دولت کھو دینے کے لیے کون سا امدادی فعل مستعمل ہوگا؟",
           "options": [
             "گنوا بیٹھا (Ganwa baitha - Regretful blunder of losing wealth with baithna)",
-            "گنوا دیا (معمولی انداز) (Target expression (Urdu))",
-            "گنوا گیا (غیر فصیح) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "گنوا دیا (معمولی انداز)) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)",
+            "گنوا گیا (غیر فصیح)) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)",
+            "کوئی نہیں) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)"
           ],
           "answerIndex": 0,
           "explanation": "حسرت اور نادانی سے کھو دینے کے لیے «گنوا بیٹھا» فصیح ترین ہے۔"
@@ -5384,9 +5384,9 @@
           "prompt": "بے ساختہ ہنسی امڈ آنے کے لیے کون سا مرکب فعل آئے گا؟",
           "options": [
             "ہنس پڑا (Hans para - Spontaneous eruption of laughter with parna)",
-            "ہنس بیٹھا (غلط معنی) (Target expression (Urdu))",
-            "ہنس ڈالا (غیر موزوں) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہنس بیٹھا (غلط معنی)) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)",
+            "ہنس ڈالا (غیر موزوں)) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)",
+            "کوئی نہیں) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)"
           ],
           "answerIndex": 0,
           "explanation": "بے ساختہ ہنسی کے لیے «ہنس پڑا / ہنس پڑی» مستعمل ہے۔"
@@ -5400,9 +5400,9 @@
           "prompt": "امدادی فعل 'بیٹھنا' اور 'پڑنا' کا فصیح جملہ پہچانیے:",
           "options": [
             "وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔ (In anger he severed relations with his sincerest friend [tor baitha - blunder], and when truth emerged, he broke into tears from regret [ro para - outburst].)",
-            "اس نے تعلقات توڑ گیا اور ہنس ڈالا۔ (Target expression (Urdu))",
-            "بیٹھنا صرف کرسی پر بیٹھنے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "پڑنا اور بیٹھنا ایک ساتھ بولنا خلافِ قانون ہے۔ (Target expression (Urdu))"
+            "اس نے تعلقات توڑ گیا اور ہنس ڈالا۔) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)",
+            "بیٹھنا صرف کرسی پر بیٹھنے کو کہتے ہیں۔) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)",
+            "پڑنا اور بیٹھنا ایک ساتھ بولنا خلافِ قانون ہے۔) (Context: امدادی فعل 'بیٹھنا' اور 'پڑنا' (Reg)"
           ],
           "answerIndex": 0,
           "explanation": "«وہ غصے کے عالم میں اپنے مخلص ترین دوست سے تعلقات توڑ بیٹھا اور جب حقیقت کھلی تو پچھتاوے سے رو پڑا۔» دونوں امدادی افعال کا کامل اور مربوط نمونہ ہے۔"
@@ -5451,9 +5451,9 @@
           "prompt": "کسی اہم کام کی پیشگی تیاری ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
             "ہم نے بندوبست کر رکھا ہے (We have made arrangements in advance - Prior arrangement with rakhna)",
-            "ہم نے بندوبست کر چھوڑا (حتمی انجام) (Target expression (Urdu))",
-            "ہم بندوبست کرتا ہے (حال مطلق کی خامی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے بندوبست کر چھوڑا (حتمی انجام)) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)",
+            "ہم بندوبست کرتا ہے (حال مطلق کی خامی)) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)",
+            "کوئی نہیں) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)"
           ],
           "answerIndex": 0,
           "explanation": "پیشگی تیاری کے لیے امدادی فعل «کر رکھا ہے» درست ہے۔"
@@ -5466,9 +5466,9 @@
           "prompt": "فولادی عزم کے ساتھ کام مکمل کر کے دم لینے کے لیے کون سا امدادی فعل آئے گا؟",
           "options": [
             "کر چھوڑیں گے (Kar chhorain gay - Resolute decisive completion with chhorna)",
-            "کر سوئیں گے (غیر فصیح) (Target expression (Urdu))",
-            "کر بیٹھیں گے (غلطی کا صیغہ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کر سوئیں گے (غیر فصیح)) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)",
+            "کر بیٹھیں گے (غلطی کا صیغہ)) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)",
+            "کوئی نہیں) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)"
           ],
           "answerIndex": 0,
           "explanation": "پختہ عزم کے لیے «کر چھوڑیں گے» مستعمل ہے۔"
@@ -5482,9 +5482,9 @@
           "prompt": "امدادی فعل 'رکھنا' اور 'چھوڑنا' کا فصیح جملہ پہچانیے:",
           "options": [
             "ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔ (We have gathered all our resources in advance [jama kar rakhay hain] and we will see this scholarly mission through to completion [pohancha kar chhorain gay].)",
-            "ہم نے وسائل کو بھگا رکھا ہے اور رو چھوڑا تھا۔ (Target expression (Urdu))",
-            "چھوڑنا کا مطلب صرف چڑیا اڑانا ہوتا ہے۔ (Target expression (Urdu))",
-            "رکھنا کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔ (Target expression (Urdu))"
+            "ہم نے وسائل کو بھگا رکھا ہے اور رو چھوڑا تھا۔) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)",
+            "چھوڑنا کا مطلب صرف چڑیا اڑانا ہوتا ہے۔) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)",
+            "رکھنا کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔) (Context: امدادی فعل 'رکھنا' اور 'چھوڑنا' (Pr)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے اپنے تمام وسائل پہلے سے جمع کر رکھے ہیں اور ہم اس علمی مشن کو پایۂ تکمیل تک پہنچا کر چھوڑیں گے۔» دونوں امدادی افعال کا فصیح اور مستند مرکب جملہ ہے۔"
@@ -5533,9 +5533,9 @@
           "prompt": "امدادی افعال کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
             "ہم نے بات سمجھ لی اور سب کو بتا دی (We understood the matter [lena] and told everyone [dena] - Harmonious authentic synthesis)",
-            "ہم نے بات سمجھ دی اور بتا لی (الٹی ساختیں) (Target expression (Urdu))",
-            "ہم نے بات جانا تھا (ماضی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے بات سمجھ دی اور بتا لی (الٹی ساختیں)) (Context: امدادی و مرکب افعال کا جامع سمیکن ()",
+            "ہم نے بات جانا تھا (ماضی)) (Context: امدادی و مرکب افعال کا جامع سمیکن ()",
+            "کوئی نہیں) (Context: امدادی و مرکب افعال کا جامع سمیکن ()"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے بات سمجھ لی اور سب کو بتا دی» لینا اور دینا کے درست امتزاج کا نمونہ ہے۔"
@@ -5548,9 +5548,9 @@
           "prompt": "مرکب افعال کا اردو زبان کی فصاحت میں بنیادی کردار کیا ہے؟",
           "options": [
             "افعال کو حتمیت، سمت، جذباتی حرارت اور بے مثال نفاست بخشنا (Imparting completeness, direction, emotional nuance and elegance to verbs)",
-            "صرف جملے کو بلاوجہ لمبا کرنا (Target expression (Urdu))",
-            "صرف قواعدی الجھن پیدا کرنا (Target expression (Urdu))",
-            "بے معنی الفاظ کا اضافہ کرنا (Target expression (Urdu))"
+            "صرف جملے کو بلاوجہ لمبا کرنا) (Context: امدادی و مرکب افعال کا جامع سمیکن ()",
+            "صرف قواعدی الجھن پیدا کرنا) (Context: امدادی و مرکب افعال کا جامع سمیکن ()",
+            "بے معنی الفاظ کا اضافہ کرنا) (Context: امدادی و مرکب افعال کا جامع سمیکن ()"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کو سمت، جذباتی گہرائی اور بلاغت عطا کرتے ہیں۔"
@@ -5564,9 +5564,9 @@
           "prompt": "امدادی و مرکب افعال کے جامع سمیکن (Compound Verbs Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔ (We recognized the truth [pehchan liya], awakened the nation [bedaar kar diya], wiped out false ideologies [mita daala], and we will lead the homeland to progress [pohancha kar chhorain gay].)",
-            "ہم نے سچائی پہچان دیا اور قوم کو مٹا چھوڑا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "مرکب افعال صرف بازار میں بولے جاتے ہیں۔ (Target expression (Urdu))"
+            "ہم نے سچائی پہچان دیا اور قوم کو مٹا چھوڑا تھا۔) (Context: امدادی و مرکب افعال کا جامع سمیکن ()",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔) (Context: امدادی و مرکب افعال کا جامع سمیکن ()",
+            "مرکب افعال صرف بازار میں بولے جاتے ہیں۔) (Context: امدادی و مرکب افعال کا جامع سمیکن ()"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے سچائی کو پہچان لیا، قوم کو بیدار کر دیا، تمام باطل نظریات کو مٹا ڈالا اور ہم وطن کو ترقی کی منزل تک پہنچا کر چھوڑیں گے۔» مرکب افعال کے تمام پہلوؤں کا شاہکار سمیکن ہے۔"
@@ -5615,9 +5615,9 @@
           "prompt": "متکلم واحد (میں) کے لیے اجازت طلب کرنے کا درست صیغہ کون سا ہے؟",
           "options": [
             "کیا میں اندر آؤں؟ (Kya main andar aaoon? - Correct 1st person singular subjunctive for seeking permission)",
-            "کیا میں اندر آؤں گا؟ (مستقبل مطلق) (Target expression (Urdu))",
-            "کیا میں اندر آیا تھا؟ (ماضی بعید) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کیا میں اندر آؤں گا؟ (مستقبل مطلق)) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()",
+            "کیا میں اندر آیا تھا؟ (ماضی بعید)) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()",
+            "کوئی نہیں) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()"
           ],
           "answerIndex": 0,
           "explanation": "اجازت طلبی کے لیے متکلم واحد کا مضارع صیغہ «آؤں» مستعمل ہے۔"
@@ -5630,9 +5630,9 @@
           "prompt": "دعا و تمنا کے اظہار کے لیے فصیح جملہ کیا ہوگا؟",
           "options": [
             "خدا کرے تم ہمیشہ خوش رہو (May God grant that you always remain happy - Subjunctive of blessing/wish)",
-            "خدا کرے تم خوش رہتا تھا (ماضی استمراری کی خامی) (Target expression (Urdu))",
-            "خدا کرے تم خوش روئے (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خدا کرے تم خوش رہتا تھا (ماضی استمراری کی خامی)) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()",
+            "خدا کرے تم خوش روئے (بے معنی)) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()",
+            "کوئی نہیں) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()"
           ],
           "answerIndex": 0,
           "explanation": "دعائیہ جملے میں مضارع کا صیغہ «خوش رہو / رہے» درست ہے۔"
@@ -5646,9 +5646,9 @@
           "prompt": "فعل مضارع برائے تمنا و دعا (Subjunctive Mood) کا فصیح جملہ پہچانیے:",
           "options": [
             "خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔ (May God grant that the youth of our country prove their mettle worldwide [manwaa'ein] and open new paths of progress [kholein].)",
-            "خدا کرے نوجوان نے امتحان دیا تھا اور رویا۔ (Target expression (Urdu))",
-            "فعل مضارع صرف پرانی کہانیوں میں لکھا جاتا ہے۔ (Target expression (Urdu))",
-            "مضارع کے آخر میں ہمیشہ لفظ 'گا' لگانا لازمی ہے۔ (Target expression (Urdu))"
+            "خدا کرے نوجوان نے امتحان دیا تھا اور رویا۔) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()",
+            "فعل مضارع صرف پرانی کہانیوں میں لکھا جاتا ہے۔) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()",
+            "مضارع کے آخر میں ہمیشہ لفظ 'گا' لگانا لازمی ہے۔) (Context: فعل مضارع کی ساخت اور خواہش/اجازت ()"
           ],
           "answerIndex": 0,
           "explanation": "«خدا کرے کہ ہمارے ملک کے نوجوان علم و ہنر کے میدان میں دنیا بھر میں اپنا لوہا منوائیں اور ترقی کی نئی راہیں کھولیں۔» فعل مضارع کے دعائیہ اسلوب کا کامل جملہ ہے۔"
@@ -5697,9 +5697,9 @@
           "prompt": "کلمۂ امکان «ممکن ہے کہ» کے بعد کون سا صیغہ فصیح ہے؟",
           "options": [
             "وہ سچ بولے (Woh sach bolay - Correct subjunctive mood following mumkin hai ke)",
-            "وہ سچ بولتا تھا (ماضی استمراری) (Target expression (Urdu))",
-            "وہ سچ بولے گا روئے گا (بے ربط الفاظ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "وہ سچ بولتا تھا (ماضی استمراری)) (Context: احتمال اور امکان)",
+            "وہ سچ بولے گا روئے گا (بے ربط الفاظ)) (Context: احتمال اور امکان)",
+            "کوئی نہیں) (Context: احتمال اور امکان)"
           ],
           "answerIndex": 0,
           "explanation": "«ممکن ہے کہ» کے بعد فعل مضارع «وہ سچ بولے» فصیح ترین ہے۔"
@@ -5712,9 +5712,9 @@
           "prompt": "احتمال ظاہر کرنے والے لفظ «شاید» کے ساتھ درست جملہ کون سا ہے؟",
           "options": [
             "شاید آج رات بارش ہو (Shaayad aaj raat baarish ho - Natural subjunctive possibility with shaayad)",
-            "شاید آج رات بارش ہوئی تھی (ماضی بعید) (Target expression (Urdu))",
-            "شاید بارش روتا ہے (تذکیر و تانیث کی غلطی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "شاید آج رات بارش ہوئی تھی (ماضی بعید)) (Context: احتمال اور امکان)",
+            "شاید بارش روتا ہے (تذکیر و تانیث کی غلطی)) (Context: احتمال اور امکان)",
+            "کوئی نہیں) (Context: احتمال اور امکان)"
           ],
           "answerIndex": 0,
           "explanation": "«شاید آج رات بارش ہو» احتمال و امکان کا فصیح جملہ ہے۔"
@@ -5728,9 +5728,9 @@
           "prompt": "امکان و احتمال (Probability & Possibility with Subjunctive) کا فصیح جملہ پہچانیے:",
           "options": [
             "ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔ (It is possible that the heads of state of both countries agree [muttafiq ho jaa'ein] to resolve border disputes through peaceful talks.)",
-            "ممکن ہے کہ سربراہان کل رویا تھا اور گھر گیا۔ (Target expression (Urdu))",
-            "شاید اور ممکن ہے صرف سائنسدان بولتے ہیں۔ (Target expression (Urdu))",
-            "احتمالی جملوں میں ہمیشہ فعل ماضی لگانا چاہیے۔ (Target expression (Urdu))"
+            "ممکن ہے کہ سربراہان کل رویا تھا اور گھر گیا۔) (Context: احتمال اور امکان)",
+            "شاید اور ممکن ہے صرف سائنسدان بولتے ہیں۔) (Context: احتمال اور امکان)",
+            "احتمالی جملوں میں ہمیشہ فعل ماضی لگانا چاہیے۔) (Context: احتمال اور امکان)"
           ],
           "answerIndex": 0,
           "explanation": "«ممکن ہے کہ دونوں ممالک کے سربراہانِ مملکت سرحدی تنازعات کو پرامن مذاکرات کے ذریعے حل کرنے پر متفق ہو جائیں۔» کلمۂ امکان اور مضارع کا مستند ترین جملہ ہے۔"
@@ -5779,9 +5779,9 @@
           "prompt": "مشورے کے لیے درست صیغۂ مضارع کیا ہوگا؟",
           "options": [
             "اب ہم کیا کریں؟ (Ab hum kya karein? - Correct deliberative 1st person plural subjunctive)",
-            "اب ہم کیا کرتے تھے؟ (ماضی استمراری) (Target expression (Urdu))",
-            "اب ہم کیا کریں گے روئیں گے؟ (بے ربط) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اب ہم کیا کرتے تھے؟ (ماضی استمراری)) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)",
+            "اب ہم کیا کریں گے روئیں گے؟ (بے ربط)) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)",
+            "کوئی نہیں) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)"
           ],
           "answerIndex": 0,
           "explanation": "باہمی مشورے اور رائے مانگنے کے لیے «اب ہم کیا کریں؟» درست ہے۔"
@@ -5794,9 +5794,9 @@
           "prompt": "شرطیہ جملے «اگر وہ محنت...» کا فصیح صیغہ منتخب کیجیے:",
           "options": [
             "کرے تو کامیاب ہوگا (Karay to kaamyaab hoga - Conditional subjunctive protasis)",
-            "کرتا تھا تو رویا تھا (ماضی کی بے ربطی) (Target expression (Urdu))",
-            "کرے گا تو کیا ہوگا (غیر فصیح تکرار) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کرتا تھا تو رویا تھا (ماضی کی بے ربطی)) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)",
+            "کرے گا تو کیا ہوگا (غیر فصیح تکرار)) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)",
+            "کوئی نہیں) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)"
           ],
           "answerIndex": 0,
           "explanation": "شرط کے حصے میں مضارع «اگر وہ محنت کرے تو کامیاب ہوگا» مستعمل ہے۔"
@@ -5810,9 +5810,9 @@
           "prompt": "مشروط مضارع اور صلاح و مشورہ (Conditional & Deliberative Subjunctive) کا فصیح جملہ پہچانیے:",
           "options": [
             "اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔ (If we follow in the footsteps of our ancestors [chalein] and maintain mutual unity [rakhein], we can steadfastly face every international challenge.)",
-            "اگر ہم چلتا تھا تو کھانا کھایا تھا اور سویا۔ (Target expression (Urdu))",
-            "مشروط جملے صرف خواب میں بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "صلاح و مشورہ کے لیے ہمیشہ صیغۂ امر استعمال کرنا چاہیے۔ (Target expression (Urdu))"
+            "اگر ہم چلتا تھا تو کھانا کھایا تھا اور سویا۔) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)",
+            "مشروط جملے صرف خواب میں بولے جاتے ہیں۔) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)",
+            "صلاح و مشورہ کے لیے ہمیشہ صیغۂ امر استعمال کرنا چاہیے۔) (Context: مشروط مضارع اور صلاح و مشورہ (Condi)"
           ],
           "answerIndex": 0,
           "explanation": "«اگر ہم اپنے اسلاف کے نقوشِ قدم پر چلیں اور باہمی اتحاد قائم رکھیں تو ہم ہر بین الاقوامی چیلنج کا ڈٹ کر مقابلہ کر سکتے ہیں۔» مشروط مضارع کا فصیح اور مستند جملہ ہے۔"
@@ -5861,9 +5861,9 @@
           "prompt": "ماضی میں کسی کام کی تکمیل کا قیاس ظاہر کرنے کے لیے کون سا جملہ درست ہے؟",
           "options": [
             "اس نے کھانا کھا لیا ہوگا (He must have eaten food - Correct past presumptive)",
-            "وہ کھانا کھاتا تھا (ماضی استمراری) (Target expression (Urdu))",
-            "اس نے کھانا کھایا ہوگا رویا ہوگا (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "وہ کھانا کھاتا تھا (ماضی استمراری)) (Context: فعل حال احتمالی اور ماضی احتمالی (P)",
+            "اس نے کھانا کھایا ہوگا رویا ہوگا (بے معنی)) (Context: فعل حال احتمالی اور ماضی احتمالی (P)",
+            "کوئی نہیں) (Context: فعل حال احتمالی اور ماضی احتمالی (P)"
           ],
           "answerIndex": 0,
           "explanation": "ماضی کے قیاس کے لیے «کھا لیا ہوگا» درست ہے۔"
@@ -5876,9 +5876,9 @@
           "prompt": "موجودہ وقت میں کام جاری ہونے کے قیاس (حال احتمالی) کا فصیح صیغہ کیا ہے؟",
           "options": [
             "وہ اس وقت پڑھ رہا ہوگا (He must be studying right now - Present continuous presumptive)",
-            "وہ پڑھ چکا تھا (ماضی بعید) (Target expression (Urdu))",
-            "وہ پڑھتا ہے (حال مطلق) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "وہ پڑھ چکا تھا (ماضی بعید)) (Context: فعل حال احتمالی اور ماضی احتمالی (P)",
+            "وہ پڑھتا ہے (حال مطلق)) (Context: فعل حال احتمالی اور ماضی احتمالی (P)",
+            "کوئی نہیں) (Context: فعل حال احتمالی اور ماضی احتمالی (P)"
           ],
           "answerIndex": 0,
           "explanation": "حال کے قیاس کے لیے «پڑھ رہا ہوگا / پڑھتا ہوگا» مستعمل ہے۔"
@@ -5892,9 +5892,9 @@
           "prompt": "حال و ماضی احتمالی (Presumptive Mood) کا فصیح جملہ پہچانیے:",
           "options": [
             "تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔ (The inquiry committee must have gathered all evidence by now [past presumptive: ikatthay kar liye hon gay] and must be compiling its report [present presumptive: murattab kar rahi hogi].)",
-            "کمیٹی نے ثبوت کھایا تھا اور روتی تھی۔ (Target expression (Urdu))",
-            "احتمالی صیغے صرف بچوں کی کہانیوں میں آتے ہیں۔ (Target expression (Urdu))",
-            "ہوگا کو ہمیشہ جملے کے بالکل درمیان میں لکھنا چاہیے۔ (Target expression (Urdu))"
+            "کمیٹی نے ثبوت کھایا تھا اور روتی تھی۔) (Context: فعل حال احتمالی اور ماضی احتمالی (P)",
+            "احتمالی صیغے صرف بچوں کی کہانیوں میں آتے ہیں۔) (Context: فعل حال احتمالی اور ماضی احتمالی (P)",
+            "ہوگا کو ہمیشہ جملے کے بالکل درمیان میں لکھنا چاہیے۔) (Context: فعل حال احتمالی اور ماضی احتمالی (P)"
           ],
           "answerIndex": 0,
           "explanation": "«تحقیقاتی کمیٹی نے اب تک تمام ثبوت اور شواہد اکٹھے کر لیے ہوں گے اور وہ اس وقت اپنی حتمی رپورٹ مرتب کر رہی ہوگی۔» ماضی اور حال احتمالی کا بہترین مرکب جملہ ہے۔"
@@ -5943,9 +5943,9 @@
           "prompt": "مضارع اور احتمالی صورتوں کے فصیح جامع امتزاج کا جملہ منتخب کیجیے:",
           "options": [
             "شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا (Perhaps he comes [subjunctive] and if he comes, we must have resolved the problem [past presumptive] - Masterful synthesis)",
-            "شاید وہ آیا تھا اور رویا تھا (ماضی کی بے ربطی) (Target expression (Urdu))",
-            "وہ آوے گا کھاوے گا (غیر معیاری بولی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "شاید وہ آیا تھا اور رویا تھا (ماضی کی بے ربطی)) (Context: فعل مضارع اور احتمالی صورتوں کا جام)",
+            "وہ آوے گا کھاوے گا (غیر معیاری بولی)) (Context: فعل مضارع اور احتمالی صورتوں کا جام)",
+            "کوئی نہیں) (Context: فعل مضارع اور احتمالی صورتوں کا جام)"
           ],
           "answerIndex": 0,
           "explanation": "«شاید وہ آئے اور اگر وہ آئے تو ہم نے مسئلہ حل کر لیا ہوگا» مضارع اور ماضی احتمالی کا فصیح نمونہ ہے۔"
@@ -5958,9 +5958,9 @@
           "prompt": "فعل مضارع اور احتمالی صورتوں کا اردو ادب میں کیا فکری مقام ہے؟",
           "options": [
             "انسانی فکر، امید، دعا، امکان اور مستقبل کے گمان کو شگفتہ فصاحت کے ساتھ بیان کرنا (Expressing human thought, hope, prayer, possibility, and presumption with eloquent nuance)",
-            "صرف وقت گزاری کے لیے بولنا (Target expression (Urdu))",
-            "صرف پرانے قصے سنانا (Target expression (Urdu))",
-            "بے معنی قیاس آرائیاں کرنا (Target expression (Urdu))"
+            "صرف وقت گزاری کے لیے بولنا) (Context: فعل مضارع اور احتمالی صورتوں کا جام)",
+            "صرف پرانے قصے سنانا) (Context: فعل مضارع اور احتمالی صورتوں کا جام)",
+            "بے معنی قیاس آرائیاں کرنا) (Context: فعل مضارع اور احتمالی صورتوں کا جام)"
           ],
           "answerIndex": 0,
           "explanation": "یہ امید، دعا اور امکانات کو اعلیٰ ادبی پیرائے میں بیان کرنے کا فصیح ترین ذریعہ ہے۔"
@@ -5974,9 +5974,9 @@
           "prompt": "فعل مضارع اور احتمالی صورتوں کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔ (May God grant that we recognize the value of knowledge [pehchanein], perhaps this awakening will transform society [badal day], and if we stand by truth, we will have hoisted the flag of success [lehraaya hoga].)",
-            "خدا کرے کہ ہم نے چائے پیا تھا اور گاڑی بھاگی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف اخبار کے اشتہار میں آتا ہے۔ (Target expression (Urdu))",
-            "مضارع کا استعمال صرف اشعار میں جائز ہے۔ (Target expression (Urdu))"
+            "خدا کرے کہ ہم نے چائے پیا تھا اور گاڑی بھاگی تھی۔) (Context: فعل مضارع اور احتمالی صورتوں کا جام)",
+            "جامع سمیکن صرف اخبار کے اشتہار میں آتا ہے۔) (Context: فعل مضارع اور احتمالی صورتوں کا جام)",
+            "مضارع کا استعمال صرف اشعار میں جائز ہے۔) (Context: فعل مضارع اور احتمالی صورتوں کا جام)"
           ],
           "answerIndex": 0,
           "explanation": "«خدا کرے کہ ہم علم کی قدر پہچانیں، شاید یہ فکری بیداری معاشرے کو بدل دے اور اگر ہم سچائی پر قائم رہیں تو انشاء اللہ ہم نے کامیابی کا پرچم لہرایا ہوگا۔» فعل مضارع اور احتمالی صورتوں کے تمام پہلوؤں کا جامع شاہکار جملہ ہے۔"
@@ -6107,9 +6107,9 @@
           "prompt": "فعل «کرنا» کے ساتھ درست معطوفہ ساخت کیا ہے؟",
           "options": [
             "کام کر کے (Kaam kar ke - Correct irregular conjunctive form of karna)",
-            "کام کر کر (فاش نحوی غلطی) (Target expression (Urdu))",
-            "کام کرتا کر (غیر فصیح) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کام کر کر (فاش نحوی غلطی)) (Context: فعل 'کرنا' کا استثناء)",
+            "کام کرتا کر (غیر فصیح)) (Context: فعل 'کرنا' کا استثناء)",
+            "کوئی نہیں) (Context: فعل 'کرنا' کا استثناء)"
           ],
           "answerIndex": 0,
           "explanation": "فعل 'کرنا' کے ساتھ 'کر کے' کہنا مستند اور درست ہے۔"
@@ -6122,9 +6122,9 @@
           "prompt": "ارادتاً کوئی کام کرنے کا فصیح محاوراتی معطوفہ کیا ہے؟",
           "options": [
             "جان بوجھ کر (Jaan boojh kar - Idiomatic intentional participle)",
-            "جان بو جھتے (غیر مستعمل) (Target expression (Urdu))",
-            "جان کے رو کر (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "جان بو جھتے (غیر مستعمل)) (Context: فعل 'کرنا' کا استثناء)",
+            "جان کے رو کر (بے معنی)) (Context: فعل 'کرنا' کا استثناء)",
+            "کوئی نہیں) (Context: فعل 'کرنا' کا استثناء)"
           ],
           "answerIndex": 0,
           "explanation": "ارادتاً کے لیے محاورہ «جان بوجھ کر» بولا جاتا ہے۔"
@@ -6138,9 +6138,9 @@
           "prompt": "استثنائی ساخت 'کر کے' اور محاوراتی معطوفات کا فصیح جملہ پہچانیے:",
           "options": [
             "جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔ (The judge announced a verdict based on justice only after studying all witnesses' statements [mutaala'a kar ke] and scrutinizing all evidence [dekh bhaal kar].)",
-            "جج صاحب نے مطالعہ کر کر رویا تھا۔ (Target expression (Urdu))",
-            "کر کے کہنا اردو میں منع ہے۔ (Target expression (Urdu))",
-            "سوچ سمجھ کر صرف دکان پر بولا جاتا ہے۔ (Target expression (Urdu))"
+            "جج صاحب نے مطالعہ کر کر رویا تھا۔) (Context: فعل 'کرنا' کا استثناء)",
+            "کر کے کہنا اردو میں منع ہے۔) (Context: فعل 'کرنا' کا استثناء)",
+            "سوچ سمجھ کر صرف دکان پر بولا جاتا ہے۔) (Context: فعل 'کرنا' کا استثناء)"
           ],
           "answerIndex": 0,
           "explanation": "«جج صاحب نے تمام گواہوں کے بیانات کا تفصیلی مطالعہ کر کے اور تمام شواہد کو دیکھ بھال کر ہی انصاف پر مبنی فیصلہ سنایا۔» استثناء اور محاوراتی معطوفات کا شاہکار جملہ ہے۔"
@@ -6189,9 +6189,9 @@
           "prompt": "خبر سن کر ہونے والے جذباتی ردِ عمل کے لیے کون سا جملہ درست ہے؟",
           "options": [
             "خوشخبری سن کر سب جھوم اٹھے (Hearing the good news everyone danced with joy - Causal participle sun kar)",
-            "خوشخبری سنتے تھے اور جھومے (ماضی کی خامی) (Target expression (Urdu))",
-            "خوشخبری سن کر رویا رویا (بے ربط) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خوشخبری سنتے تھے اور جھومے (ماضی کی خامی)) (Context: سبب اور نتیجے کا معطوفہ اظہار)",
+            "خوشخبری سن کر رویا رویا (بے ربط)) (Context: سبب اور نتیجے کا معطوفہ اظہار)",
+            "کوئی نہیں) (Context: سبب اور نتیجے کا معطوفہ اظہار)"
           ],
           "answerIndex": 0,
           "explanation": "«خوشخبری سن کر سب جھوم اٹھے» سببی معطوفہ کا درست جملہ ہے۔"
@@ -6204,9 +6204,9 @@
           "prompt": "حیرت کا سبب بننے والے معطوفہ فعل کا درست صیغہ کیا ہے؟",
           "options": [
             "حقیقت جان کر دنگ رہ گیا (Knowing the truth he was astonished - Causal jaan kar)",
-            "حقیقت جانتے کر (غلط ساخت) (Target expression (Urdu))",
-            "حقیقت جانتا تھا (سادہ ماضی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "حقیقت جانتے کر (غلط ساخت)) (Context: سبب اور نتیجے کا معطوفہ اظہار)",
+            "حقیقت جانتا تھا (سادہ ماضی)) (Context: سبب اور نتیجے کا معطوفہ اظہار)",
+            "کوئی نہیں) (Context: سبب اور نتیجے کا معطوفہ اظہار)"
           ],
           "answerIndex": 0,
           "explanation": "«حقیقت جان کر دنگ رہ گیا» میں 'جان کر' حیرت کا سبب ہے۔"
@@ -6220,9 +6220,9 @@
           "prompt": "سبب اور نتیجے کے معطوفہ اظہار (Causal Conjunctive Participles) کا فصیح جملہ پہچانیے:",
           "options": [
             "غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔ (Hearing the tragic tale of the poor orphan child [sun kar] and seeing his helplessness [dekh kar], all attendees of the gathering were moved to tears.)",
-            "بچے کی بپتا سنا تھا اور کھانا کھایا تھا۔ (Target expression (Urdu))",
-            "دیکھ کر صرف عینک لگا کر بولا جاتا ہے۔ (Target expression (Urdu))",
-            "سن کر کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔ (Target expression (Urdu))"
+            "بچے کی بپتا سنا تھا اور کھانا کھایا تھا۔) (Context: سبب اور نتیجے کا معطوفہ اظہار)",
+            "دیکھ کر صرف عینک لگا کر بولا جاتا ہے۔) (Context: سبب اور نتیجے کا معطوفہ اظہار)",
+            "سن کر کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔) (Context: سبب اور نتیجے کا معطوفہ اظہار)"
           ],
           "answerIndex": 0,
           "explanation": "«غریب یتیم بچے کی المناک بپتا سن کر اور اس کی بے بسی دیکھ کر پوری محفل کے حاضرین اشکبار ہو گئے۔» سببی معطوفہ افعال کا مکمل اور اثر انگیز جملہ ہے۔"
@@ -6271,9 +6271,9 @@
           "prompt": "سلسلہ وار تین افعال (اٹھنا، نہانا، نکلنا) کا فصیح زنجیری جملہ کون سا ہے؟",
           "options": [
             "وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا (Chained participles: bedaar ho kar, ghusl kar ke, naashta kar ke)",
-            "وہ بیدار ہوا اور نہایا اور نکلا تھا (بے ہنگم تکرار) (Target expression (Urdu))",
-            "وہ بیدار ہوتے نہاتے نکلتا تھا (غیر موزوں) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "وہ بیدار ہوا اور نہایا اور نکلا تھا (بے ہنگم تکرار)) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)",
+            "وہ بیدار ہوتے نہاتے نکلتا تھا (غیر موزوں)) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)",
+            "کوئی نہیں) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)"
           ],
           "answerIndex": 0,
           "explanation": "«وہ صبح بیدار ہو کر، غسل کر کے اور ناشتہ کر کے دفتر روانہ ہو گیا» زنجیری معطوفہ افعال کا شاہکار نمونہ ہے۔"
@@ -6286,9 +6286,9 @@
           "prompt": "زنجیری معطوفہ افعال کا اردو تحریر میں سب سے بڑا فائدہ کیا ہے؟",
           "options": [
             "بار بار 'اور' کی تکرار ختم کر کے جملے میں دریا جیسی نثری روانی پیدا کرنا (Eliminating repetitive conjunctions and creating flowing prose)",
-            "جملے کو مشکل بنانا (Target expression (Urdu))",
-            "صرف صفحات کو بھرنا (Target expression (Urdu))",
-            "بے معنی بحث پیدا کرنا (Target expression (Urdu))"
+            "جملے کو مشکل بنانا) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)",
+            "صرف صفحات کو بھرنا) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)",
+            "بے معنی بحث پیدا کرنا) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)"
           ],
           "answerIndex": 0,
           "explanation": "یہ غیر ضروری تکرار ختم کر کے نثری روانی اور ربط پیدا کرتے ہیں۔"
@@ -6302,9 +6302,9 @@
           "prompt": "زنجیری معطوفہ افعال (Chained Participles) کا فصیح و بلیغ جملہ پہچانیے:",
           "options": [
             "محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔ (Having reviewed the old documents [jaa'iza le kar], compared them closely [muwaazna kar ke], and evaluated facts [parakh kar], the researcher formed his final opinion.)",
-            "محقق نے دستاویز دیکھا تھا اور رویا تھا اور گھر گیا۔ (Target expression (Urdu))",
-            "زنجیری افعال صرف پہاڑی راستوں پر بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "تین سے زیادہ افعال ایک جملے میں لانا ممنوع ہے۔ (Target expression (Urdu))"
+            "محقق نے دستاویز دیکھا تھا اور رویا تھا اور گھر گیا۔) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)",
+            "زنجیری افعال صرف پہاڑی راستوں پر بولے جاتے ہیں۔) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)",
+            "تین سے زیادہ افعال ایک جملے میں لانا ممنوع ہے۔) (Context: زنجیری معطوفہ افعال اور طویل نثری ر)"
           ],
           "answerIndex": 0,
           "explanation": "«محقق نے پرانے دستاویزات کا جائزہ لے کر، ان کا باریک بینی سے موازنہ کر کے اور حقائق کو پرکھ کر اپنی حتمی رائے قائم کی۔» زنجیری معطوفہ افعال کا فصیح نمونہ ہے۔"
@@ -6353,9 +6353,9 @@
           "prompt": "معطوفہ افعال کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
             "اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا (Masterful synthesis: jaan kar [causal], soch samajh kar [idiom], faisla kar ke [irregular])",
-            "اس نے حقیقت جانا تھا اور فیصلہ کیا تھا رویا تھا (بے ربط ماضی) (Target expression (Urdu))",
-            "وہ جانتا کرتا رہتا تھا (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اس نے حقیقت جانا تھا اور فیصلہ کیا تھا رویا تھا (بے ربط ماضی)) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)",
+            "وہ جانتا کرتا رہتا تھا (غیر معیاری)) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)",
+            "کوئی نہیں) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نے حقیقت جان کر، خوب سوچ سمجھ کر اور فیصلہ کر کے سب کو آگاہ کیا» معطوفہ افعال کے تمام پہلوؤں کا شاہکار نمونہ ہے۔"
@@ -6368,9 +6368,9 @@
           "prompt": "معطوفہ افعال کا جامع سمیکن اردو نثر کو کیا حسن بخشتا ہے؟",
           "options": [
             "افعال کی زنجیر کو مربوط، رواں، پرتاثیر اور فصیح ادبی پیرائے میں ڈھال دینا (Transforming chains of actions into coherent, flowing, powerful, and eloquent prose)",
-            "صرف الفاظ کی گنتی بڑھانا (Target expression (Urdu))",
-            "صرف لغت کے مادہ الفاظ کی تکرار (محدود افادیت) (Target expression (Urdu))",
-            "بے معنی تکرار کرنا (Target expression (Urdu))"
+            "صرف الفاظ کی گنتی بڑھانا) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)",
+            "صرف لغت کے مادہ الفاظ کی تکرار (محدود افادیت)) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)",
+            "بے معنی تکرار کرنا) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کو مربوط، شگفتہ اور رواں ادبی پیرائے میں ڈھالتا ہے۔"
@@ -6384,9 +6384,9 @@
           "prompt": "معطوفہ افعال کے جامع سمیکن (Conjunctive Participles Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔ (Having remembered our ancestors' sacrifices [yaad kar ke], evaluated all challenges [jaa'iza le kar], and established mutual unity [qaa'im kar ke], we defended our sovereignty.)",
-            "ہم نے قربانی دیکھا تھا اور گاڑی روتی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف خط و کتابت میں آتا ہے۔ (Target expression (Urdu))",
-            "معطوفہ افعال کا استعمال صرف شاعری میں جائز ہے۔ (Target expression (Urdu))"
+            "ہم نے قربانی دیکھا تھا اور گاڑی روتی تھی۔) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)",
+            "جامع سمیکن صرف خط و کتابت میں آتا ہے۔) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)",
+            "معطوفہ افعال کا استعمال صرف شاعری میں جائز ہے۔) (Context: معطوفہ افعال کا جامع سمیکن (Conjunc)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے اپنے اسلاف کی قربانیوں کو یاد کر کے، تمام چیلنجوں کا جائزہ لے کر اور باہمی اتحاد قائم کر کے وطن کی خود مختاری کا دفاع کیا۔» معطوفہ افعال کے جامع سمیکن کا کامل ترین جملہ ہے۔"
@@ -6435,9 +6435,9 @@
           "prompt": "موصولہ ضمیر «جو» کے بعد جوابِ موصولہ کا درست لفظ کون سا ہے؟",
           "options": [
             "وہ (Woh - Standard correlative pronoun answering jo)",
-            "تم (غیر مطابقت) (Target expression (Urdu))",
-            "میں (متکلم) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "تم (غیر مطابقت)) (Context: موصولہ اسمائے ضمیر)",
+            "میں (متکلم)) (Context: موصولہ اسمائے ضمیر)",
+            "کوئی نہیں) (Context: موصولہ اسمائے ضمیر)"
           ],
           "answerIndex": 0,
           "explanation": "«جو» کے جواب میں ہمیشہ جوابِ موصولہ «وہ» آتا ہے (جیسے: جو محنت کرے گا وہ پھل پائے گا)۔"
@@ -6450,9 +6450,9 @@
           "prompt": "مغیرہ حالت «جس نے...» کے جواب کا فصیح صیغہ کیا ہوگا؟",
           "options": [
             "اس نے صلہ پایا (Us ne sila paaya - Correct correlative answering jis ne)",
-            "تم نے صلہ پایا (بے ربط) (Target expression (Urdu))",
-            "ہم نے صلہ پایا تھا (ماضی کی بے جوڑ ساخت) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "تم نے صلہ پایا (بے ربط)) (Context: موصولہ اسمائے ضمیر)",
+            "ہم نے صلہ پایا تھا (ماضی کی بے جوڑ ساخت)) (Context: موصولہ اسمائے ضمیر)",
+            "کوئی نہیں) (Context: موصولہ اسمائے ضمیر)"
           ],
           "answerIndex": 0,
           "explanation": "«جس نے...» کے جواب میں «اس نے...» آتا ہے۔"
@@ -6466,9 +6466,9 @@
           "prompt": "موصولہ اور جوابِ موصولہ ضمیروں (جو...وہ / جس...اس) کا فصیح جملہ پہچانیے:",
           "options": [
             "جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔ (Whichever courageous human held fast to patience [jis baa-himmat insaan ne], nature opened all closed doors of success for him [us ke liye].)",
-            "جس انسان نے کھانا کھایا تھا اور وہ گاڑی بھاگی۔ (Target expression (Urdu))",
-            "جو اور وہ صرف بچوں کے سبق میں بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "موصولہ جملے میں جوابِ موصولہ کا حذف کرنا لازم ہے۔ (Target expression (Urdu))"
+            "جس انسان نے کھانا کھایا تھا اور وہ گاڑی بھاگی۔) (Context: موصولہ اسمائے ضمیر)",
+            "جو اور وہ صرف بچوں کے سبق میں بولے جاتے ہیں۔) (Context: موصولہ اسمائے ضمیر)",
+            "موصولہ جملے میں جوابِ موصولہ کا حذف کرنا لازم ہے۔) (Context: موصولہ اسمائے ضمیر)"
           ],
           "answerIndex": 0,
           "explanation": "«جس باہمت انسان نے ہر مشکل میں صبر اور استقامت کا دامن تھامے رکھا، قدرت نے اس کے لیے کامیابی کے تمام بند دروازے کھول دیے۔» موصولہ اور جوابِ موصولہ ضمیروں کا شاہکار جملہ ہے۔"
@@ -6517,9 +6517,9 @@
           "prompt": "مکانی موصولہ «جہاں...» کے ساتھ درست جوابِ موصولہ کیا ہوگا؟",
           "options": [
             "وہاں (Wahaan - Correct spatial correlative paired with jahaan)",
-            "تب (زمانی) (Target expression (Urdu))",
-            "ویسا (کیفیتی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "تب (زمانی)) (Context: مکانی موصولہ)",
+            "ویسا (کیفیتی)) (Context: مکانی موصولہ)",
+            "کوئی نہیں) (Context: مکانی موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "مکانی موصولہ 'جہاں' کا جوڑا ہمیشہ «وہاں» ہوتا ہے۔"
@@ -6532,9 +6532,9 @@
           "prompt": "سمت کا اشارہ کرنے والے لفظ «جدھر...» کا فصیح جوڑا کیا ہے؟",
           "options": [
             "ادھر (Udhar - Correct directional correlative for jidhar)",
-            "ادھر سے ادھر تک (غیر موزوں) (Target expression (Urdu))",
-            "وہاں پر رویا (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ادھر سے ادھر تک (غیر موزوں)) (Context: مکانی موصولہ)",
+            "وہاں پر رویا (بے معنی)) (Context: مکانی موصولہ)",
+            "کوئی نہیں) (Context: مکانی موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "سمت کے لیے «جدھر... ادھر» مستعمل ہے۔"
@@ -6548,9 +6548,9 @@
           "prompt": "مکانی موصولہ جملوں (Spatial Correlatives: جہاں...وہاں) کا فصیح جملہ پہچانیے:",
           "options": [
             "جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔ (Where truth and honesty are valued [jahaan], there society remains forever safe from moral decay [wahaan].)",
-            "جہاں سچائی تھی وہاں کھانا کھایا تھا اور رویا۔ (Target expression (Urdu))",
-            "جہاں اور وہاں صرف جنگل کے راستوں پر بولا جاتا ہے۔ (Target expression (Urdu))",
-            "وہاں کو ہمیشہ جملے کے بالکل پہلے لفظ کے طور پر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "جہاں سچائی تھی وہاں کھانا کھایا تھا اور رویا۔) (Context: مکانی موصولہ)",
+            "جہاں اور وہاں صرف جنگل کے راستوں پر بولا جاتا ہے۔) (Context: مکانی موصولہ)",
+            "وہاں کو ہمیشہ جملے کے بالکل پہلے لفظ کے طور پر لکھنا چاہیے۔) (Context: مکانی موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "«جہاں سچائی اور دیانت داری کی قدر کی جاتی ہے، وہاں معاشرہ فکری اور اخلاقی پستی کے عذاب سے ہمیشہ محفوظ رہتا ہے۔» مکانی موصولہ کا مکمل اور فصیح جملہ ہے۔"
@@ -6599,9 +6599,9 @@
           "prompt": "مدت ظاہر کرنے والے موصولہ «جب تک...» کا درست جوڑا کون سا ہے؟",
           "options": [
             "تب تک (Tab tak - Correct duration correlative answering jab tak)",
-            "وہاں تک (مکانی) (Target expression (Urdu))",
-            "جیسے تک (غلط ترکیب) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "وہاں تک (مکانی)) (Context: زمانی موصولہ)",
+            "جیسے تک (غلط ترکیب)) (Context: زمانی موصولہ)",
+            "کوئی نہیں) (Context: زمانی موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "«جب تک...» کا صحیح نحوی جوڑا «تب تک» ہے۔"
@@ -6614,9 +6614,9 @@
           "prompt": "فوری واقعے کے لیے «جونہی...» کا فصیح جوابِ موصولہ کیا ہے؟",
           "options": [
             "تیونہی (Tyonhi - Exact correlative pairing with instantaneous joonhi)",
-            "تب ہی (عام انداز) (Target expression (Urdu))",
-            "جہاں ہی (بے جوڑ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "تب ہی (عام انداز)) (Context: زمانی موصولہ)",
+            "جہاں ہی (بے جوڑ)) (Context: زمانی موصولہ)",
+            "کوئی نہیں) (Context: زمانی موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "«جونہی... تیونہی» ادبی اور فصیح اردو کا کلاسیکی جوڑا ہے۔"
@@ -6630,9 +6630,9 @@
           "prompt": "زمانی موصولہ جملوں (Temporal Correlatives) کا فصیح جملہ پہچانیے:",
           "options": [
             "جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔ (When the rights of the oppressed are trampled [jab], then the current of history moves to overturn the thrones of tyrants [tab].)",
-            "جب حقوق پامال ہوا تھا تب چائے پیا تھا۔ (Target expression (Urdu))",
-            "جب اور تب صرف گھڑی کی سوئیوں کے لیے بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "تیونہی کو ہمیشہ جملے کے بالکل درمیان میں دو بار لکھنا چاہیے۔ (Target expression (Urdu))"
+            "جب حقوق پامال ہوا تھا تب چائے پیا تھا۔) (Context: زمانی موصولہ)",
+            "جب اور تب صرف گھڑی کی سوئیوں کے لیے بولے جاتے ہیں۔) (Context: زمانی موصولہ)",
+            "تیونہی کو ہمیشہ جملے کے بالکل درمیان میں دو بار لکھنا چاہیے۔) (Context: زمانی موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "«جب مظلوموں کے حقوق پامال کیے جاتے ہیں، تب تاریخ کا دھارا ظالموں کے تخت و تاج الٹنے کے لیے حرکت میں آتا ہے۔» زمانی موصولہ کا فصیح اور اثر انگیز جملہ ہے۔"
@@ -6681,9 +6681,9 @@
           "prompt": "مؤنث اسم «محنت» کے ساتھ درست مقداری موصولہ جوڑا کیا ہوگا؟",
           "options": [
             "جتنی محنت اتنی کامیابی (Jitni mehnat itni kaamyaabi - Correct feminine quantitative agreement)",
-            "جتنا محنت اتنا کامیابی (تذکیر کی خامی) (Target expression (Urdu))",
-            "جتنے محنت اتنے کامیابی (جمع کی غلطی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "جتنا محنت اتنا کامیابی (تذکیر کی خامی)) (Context: کیفیتی اور مقداری موصولہ)",
+            "جتنے محنت اتنے کامیابی (جمع کی غلطی)) (Context: کیفیتی اور مقداری موصولہ)",
+            "کوئی نہیں) (Context: کیفیتی اور مقداری موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'محنت' اور 'کامیابی' مؤنث ہیں، اس لیے «جتنی... اتنی» درست ہے۔"
@@ -6696,9 +6696,9 @@
           "prompt": "کیفیت کے موازنے کا فصیح محاوراتی جملہ کون سا ہے؟",
           "options": [
             "جیسا کرو گے ویسا بھرو گے (As you do, so shall you reap - Classic manner correlative pairing)",
-            "جیسا کرو گے تب روؤ گے (بے جوڑ ساخت) (Target expression (Urdu))",
-            "جیسا کرو گے وہاں جاؤ گے (مکانی بے ربطی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "جیسا کرو گے تب روؤ گے (بے جوڑ ساخت)) (Context: کیفیتی اور مقداری موصولہ)",
+            "جیسا کرو گے وہاں جاؤ گے (مکانی بے ربطی)) (Context: کیفیتی اور مقداری موصولہ)",
+            "کوئی نہیں) (Context: کیفیتی اور مقداری موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "«جیسا کرو گے ویسا بھرو گے» کیفیتی موصولہ کا معروف ترین جملہ ہے۔"
@@ -6712,9 +6712,9 @@
           "prompt": "کیفیتی اور مقداری موصولہ جملوں (Manner & Quantitative Correlatives) کا فصیح جملہ پہچانیے:",
           "options": [
             "جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔ (The greater a person's life goal is [jitna bara], of such exceptional sacrifice and patience [waisi hi qurbaani] does his destination demand.)",
-            "جتنا بڑا نصب العین تھا اتنی روٹی کھایا تھا۔ (Target expression (Urdu))",
-            "جیسا اور ویسا صرف بازار میں تولنے کے لیے بولے جاتے ہیں۔ (Target expression (Urdu))",
-            "اتنا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا لازم ہے۔ (Target expression (Urdu))"
+            "جتنا بڑا نصب العین تھا اتنی روٹی کھایا تھا۔) (Context: کیفیتی اور مقداری موصولہ)",
+            "جیسا اور ویسا صرف بازار میں تولنے کے لیے بولے جاتے ہیں۔) (Context: کیفیتی اور مقداری موصولہ)",
+            "اتنا کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا لازم ہے۔) (Context: کیفیتی اور مقداری موصولہ)"
           ],
           "answerIndex": 0,
           "explanation": "«جتنا بڑا اور بلند انسان کا نصب العین ہوتا ہے، ویسی ہی غیر معمولی قربانی اور صبر اس کی منزل کا تقاضا بنتی ہے۔» مقدار اور کیفیت کے موصولہ امتزاج کا فصیح جملہ ہے۔"
@@ -6763,9 +6763,9 @@
           "prompt": "موصولہ جملوں کے جامع امتزاج کا فصیح ترین جملہ منتخب کیجیے:",
           "options": [
             "جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا (Masterful synthesis of jo, jahaan, jab tak, waisa)",
-            "جو شخص جہاں تھا وہاں رویا تھا تب سویا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ جہاں سے جتنا آیا تھا (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "جو شخص جہاں تھا وہاں رویا تھا تب سویا (بے ربط الفاظ)) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)",
+            "وہ جہاں سے جتنا آیا تھا (غیر معیاری)) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)",
+            "کوئی نہیں) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«جو شخص جہاں بھی رہے، جب تک سچ پر قائم رہے گا ویسا ہی صلہ پائے گا» تمام موصولاتی پہلوؤں کا متوازن امتزاج ہے۔"
@@ -6778,9 +6778,9 @@
           "prompt": "موصولہ اور جوابِ موصولہ جملوں کا جامع سمیکن اردو زبان کو کیا وقار بخشتا ہے؟",
           "options": [
             "فکری شرائط، زمانی و مکانی تناظر اور نتائج کو ایک ہی متوازن اور پرشکوہ سانچے میں بیان کرنا (Articulating philosophical conditions, spatio-temporal contexts and outcomes in grand balanced prose)",
-            "صرف جملوں کی لمبائی بڑھانا (Target expression (Urdu))",
-            "صرف لغت کو دہرانا (Target expression (Urdu))",
-            "بے معنی قیاس آرائیاں کرنا (Target expression (Urdu))"
+            "صرف جملوں کی لمبائی بڑھانا) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)",
+            "صرف لغت کو دہرانا) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)",
+            "بے معنی قیاس آرائیاں کرنا) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ فکری شرائط، زمانی و مکانی تناظر اور نتائج کو پرشکوہ سانچے میں سمو دیتا ہے۔"
@@ -6794,9 +6794,9 @@
           "prompt": "موصولہ اور جوابِ موصولہ جملوں کے جامع سمیکن (Correlative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔ (The nations who [jo], wherever settled [jahaan], as long as they held fast to knowledge [jab tak], as much sacrifice as they gave [jitna], of such historic leadership and victory did their destiny partake [waisi hi].)",
-            "جو قومیں چائے پیا تھا وہاں گاڑی روتی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف عدالت کے فیصلے میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "موصولہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔ (Target expression (Urdu))"
+            "جو قومیں چائے پیا تھا وہاں گاڑی روتی تھی۔) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)",
+            "جامع سمیکن صرف عدالت کے فیصلے میں بولا جاتا ہے۔) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)",
+            "موصولہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔) (Context: موصولہ اور جوابِ موصولہ جملوں کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«جو قومیں جہاں بھی آباد رہیں، جب تک انہوں نے علم و ہنر کا دامن تھامے رکھا، جتنا انہوں نے قربانی دی، ویسی ہی تاریخ ساز قیادت اور فتح ان کا مقدر بنی۔» موصولہ جملوں کے تمام رخنوں کا شاہکار سمیکن ہے۔"
@@ -6927,9 +6927,9 @@
           "prompt": "مستقبل مجہول (Future Passive) کا درست جملہ منتخب کیجیے:",
           "options": [
             "کل نیا ہسپتال کھولا جائے گا (Kal naya haspataal khola jaaye ga - Correct future passive)",
-            "کل نیا ہسپتال کھولا تھا (ماضی بعید) (Target expression (Urdu))",
-            "کل نیا ہسپتال کھولتا ہے (حال معروف) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کل نیا ہسپتال کھولا تھا (ماضی بعید)) (Context: فعلِ مجہول کے مختلف زمانے)",
+            "کل نیا ہسپتال کھولتا ہے (حال معروف)) (Context: فعلِ مجہول کے مختلف زمانے)",
+            "کوئی نہیں) (Context: فعلِ مجہول کے مختلف زمانے)"
           ],
           "answerIndex": 0,
           "explanation": "«کل نیا ہسپتال کھولا جائے گا» مستقبل مجہول کی مستند ساخت ہے۔"
@@ -6942,9 +6942,9 @@
           "prompt": "ماضی مجہول (Past Passive) کی درست مثال کون سی ہے؟",
           "options": [
             "مسئلہ حل کیا گیا (Mas'ala hal kiya gaya - Correct past passive absolute)",
-            "مسئلہ حل کرے گا (معروف مستقبل) (Target expression (Urdu))",
-            "مسئلہ حل کرتا رہا تھا (استمراری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مسئلہ حل کرے گا (معروف مستقبل)) (Context: فعلِ مجہول کے مختلف زمانے)",
+            "مسئلہ حل کرتا رہا تھا (استمراری)) (Context: فعلِ مجہول کے مختلف زمانے)",
+            "کوئی نہیں) (Context: فعلِ مجہول کے مختلف زمانے)"
           ],
           "answerIndex": 0,
           "explanation": "«مسئلہ حل کیا گیا» ماضی مطلق مجہول کا فصیح جملہ ہے۔"
@@ -6958,9 +6958,9 @@
           "prompt": "فعلِ مجہول کے زمانوں (Passive Tenses) کا فصیح جملہ پہچانیے:",
           "options": [
             "شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔ (All old gardens are protected [ki jaati hai], many new saplings were planted [lagaaye gaye thay], and next year a lake will be built [ta'meer ki jaaye gi].)",
-            "باغات دیکھا تھا اور کھانا کھایا تھا۔ (Target expression (Urdu))",
-            "مستقبل مجہول کا استعمال صرف نظموں میں ہوتا ہے۔ (Target expression (Urdu))",
-            "ماضی مجہول میں 'تھا' لگانا ہمیشہ لازمی ہے۔ (Target expression (Urdu))"
+            "باغات دیکھا تھا اور کھانا کھایا تھا۔) (Context: فعلِ مجہول کے مختلف زمانے)",
+            "مستقبل مجہول کا استعمال صرف نظموں میں ہوتا ہے۔) (Context: فعلِ مجہول کے مختلف زمانے)",
+            "ماضی مجہول میں 'تھا' لگانا ہمیشہ لازمی ہے۔) (Context: فعلِ مجہول کے مختلف زمانے)"
           ],
           "answerIndex": 0,
           "explanation": "«شہر کے تمام قدیم باغات کی حفاظت کی جاتی ہے، پچھلے سال کئی نئے پودے لگائے گئے تھے اور اگلے برس ایک خوبصورت جھیل تعمیر کی جائے گی۔» حال، ماضی اور مستقبل مجہول کا شاندار متوازن امتزاج ہے۔"
@@ -7009,9 +7009,9 @@
           "prompt": "سرکاری اعلامیے میں بالواسطہ فاعل کا فصیح صیغہ کون سا ہے؟",
           "options": [
             "وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا (Notification was issued on behalf of the ministry - Formal agentive passive)",
-            "وزارت نے نوٹیفکیشن کو رویا تھا (غیر معقول) (Target expression (Urdu))",
-            "وزارت سے نوٹیفکیشن نکلتا تھا (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "وزارت نے نوٹیفکیشن کو رویا تھا (غیر معقول)) (Context: فاعل کا بالواسطہ ذکر)",
+            "وزارت سے نوٹیفکیشن نکلتا تھا (غیر معیاری)) (Context: فاعل کا بالواسطہ ذکر)",
+            "کوئی نہیں) (Context: فاعل کا بالواسطہ ذکر)"
           ],
           "answerIndex": 0,
           "explanation": "«وزارت کی جانب سے نوٹیفکیشن جاری کیا گیا» دفتری اردو کا فصیح صیغہ ہے۔"
@@ -7024,9 +7024,9 @@
           "prompt": "تحقیقی دریافت کے لیے مجہول میں وسیلے کا درست لاحقہ کیا ہے؟",
           "options": [
             "ماہرین کے ذریعے دریافت کی گئی (Discovered by means of experts - Correct instrumental agentive)",
-            "ماہرین کے اوپر دریافت ہوئی (بے معنی) (Target expression (Urdu))",
-            "ماہرین کے ساتھ کھانا کھایا (بے جوڑ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ماہرین کے اوپر دریافت ہوئی (بے معنی)) (Context: فاعل کا بالواسطہ ذکر)",
+            "ماہرین کے ساتھ کھانا کھایا (بے جوڑ)) (Context: فاعل کا بالواسطہ ذکر)",
+            "کوئی نہیں) (Context: فاعل کا بالواسطہ ذکر)"
           ],
           "answerIndex": 0,
           "explanation": "وسیلے اور فاعل کے لیے «کے ذریعے» مستعمل ہے۔"
@@ -7040,9 +7040,9 @@
           "prompt": "بالواسطہ فاعل والے فعلِ مجہول (Agentive Passive Voice) کا فصیح جملہ پہچانیے:",
           "options": [
             "محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔ (Modern computer labs were established by the education department [ki jaanib se] and students were trained by expert teachers [ke zariye].)",
-            "محکمے کی جانب سے کھانا کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "کی جانب سے صرف بازار میں سودا خریدتے وقت بولا جاتا ہے۔ (Target expression (Urdu))",
-            "کے ذریعے کو ہمیشہ جملے کے آخر میں لگانا چاہیے۔ (Target expression (Urdu))"
+            "محکمے کی جانب سے کھانا کھایا تھا اور رویا تھا۔) (Context: فاعل کا بالواسطہ ذکر)",
+            "کی جانب سے صرف بازار میں سودا خریدتے وقت بولا جاتا ہے۔) (Context: فاعل کا بالواسطہ ذکر)",
+            "کے ذریعے کو ہمیشہ جملے کے آخر میں لگانا چاہیے۔) (Context: فاعل کا بالواسطہ ذکر)"
           ],
           "answerIndex": 0,
           "explanation": "«محکمہ تعلیم کی جانب سے تمام اسکولوں میں جدید کمپیوٹر لیبز قائم کی گئیں اور ماہر اساتذہ کے ذریعے طلبہ کی تربیت کی گئی۔» بالواسطہ فاعل کے ساتھ مجہول کا مکمل نمونہ ہے۔"
@@ -7091,9 +7091,9 @@
           "prompt": "جسمانی مجبوری اور عدمِ استطاعت کا درست جملہ منتخب کیجیے:",
           "options": [
             "درد کی وجہ سے مجھ سے بیٹھا نہیں جاتا (Dard ki wajah se mujh se baitha nahin jaata - Correct passive of incapacity)",
-            "درد کی وجہ سے میں نہیں بیٹھتا (ارادی فیصلہ) (Target expression (Urdu))",
-            "درد کی وجہ سے بیٹھیں گے نہیں (مستقبل کا عزم) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "درد کی وجہ سے میں نہیں بیٹھتا (ارادی فیصلہ)) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)",
+            "درد کی وجہ سے بیٹھیں گے نہیں (مستقبل کا عزم)) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)",
+            "کوئی نہیں) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)"
           ],
           "answerIndex": 0,
           "explanation": "«مجھ سے بیٹھا نہیں جاتا» لاچاری اور عدمِ استطاعت کا فصیح منفی مجہول ہے۔"
@@ -7106,9 +7106,9 @@
           "prompt": "اخلاقی مجبوری میں خاموش نہ رہ سکنے کا فصیح صیغہ کیا ہوگا؟",
           "options": [
             "ہم سے خاموش رہا نہیں گیا (Hum se khaamosh raha nahin gaya - Could not bear to remain silent)",
-            "ہم خاموش نہیں رہے تھے (سادہ ماضی) (Target expression (Urdu))",
-            "ہم خاموش رہتے کر (غلط ساخت) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم خاموش نہیں رہے تھے (سادہ ماضی)) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)",
+            "ہم خاموش رہتے کر (غلط ساخت)) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)",
+            "کوئی نہیں) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم سے خاموش رہا نہیں گیا» اخلاقی عجز کا فصیح صیغہ ہے۔"
@@ -7122,9 +7122,9 @@
           "prompt": "عدمِ استطاعت کے منفی مجہول (Passive of Incapacity) کا فصیح جملہ پہچانیے:",
           "options": [
             "مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔ (Seeing the helplessness of the oppressed, a true human cannot bear to remain silent [sachchay insaan se chup nahin raha jaata].)",
-            "مظلوم سے کھانا نہیں کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "عدمِ استطاعت صرف کھیل کے میدان میں بولی جاتی ہے۔ (Target expression (Urdu))",
-            "مجھ سے کے بعد ہمیشہ فعل معروف آتا ہے۔ (Target expression (Urdu))"
+            "مظلوم سے کھانا نہیں کھایا تھا اور رویا تھا۔) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)",
+            "عدمِ استطاعت صرف کھیل کے میدان میں بولی جاتی ہے۔) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)",
+            "مجھ سے کے بعد ہمیشہ فعل معروف آتا ہے۔) (Context: عاجزی و عدمِ استطاعت کا منفی مجہول)"
           ],
           "answerIndex": 0,
           "explanation": "«مظلوموں کی بے بسی دیکھ کر سچے انسان سے چپ نہیں رہا جاتا اور حق کی خاطر آواز اٹھانا اس کا ایمانی تقاضا بن جاتا ہے۔» عدمِ استطاعت کے منفی مجہول کا شاہکار نمونہ ہے۔"
@@ -7173,9 +7173,9 @@
           "prompt": "فعلِ مجہول کی مختلف صورتوں کے فصیح جامع امتزاج کا جملہ منتخب کیجیے:",
           "options": [
             "حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی (Masterful synthesis of agentive, past, present, and future passive)",
-            "حکومت نے قانون بنایا تھا رویا تھا اور سو گیا (بے ربط معروف) (Target expression (Urdu))",
-            "وہ قانون سے جاتا کرتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "حکومت نے قانون بنایا تھا رویا تھا اور سو گیا (بے ربط معروف)) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)",
+            "وہ قانون سے جاتا کرتا رہتا ہے (غیر معیاری)) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)",
+            "کوئی نہیں) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)"
           ],
           "answerIndex": 0,
           "explanation": "«حکومت کی جانب سے نئے قوانین بنائے گئے، جن پر عمل کیا جاتا ہے اور مستقبل میں مزید اصلاحات کی جائیں گی» فعلِ مجہول کے تمام اوزان کا متوازن سمیکن ہے۔"
@@ -7188,9 +7188,9 @@
           "prompt": "فعلِ مجہول کا جامع سمیکن اردو نثر کو کیا اسلوب عطا کرتا ہے؟",
           "options": [
             "سرکاری، قانونی اور اخلاقی بیانات کو فاعل کے غیر ضروری ذکر سے آزاد کر کے باوقار اور متوازن بنانا (Giving formal, legal, and moral prose dignified balance without unnecessary agent mention)",
-            "فقط جملوں کی طوالت میں غیر ضروری اضافہ کرنا (بے مقصد) (Target expression (Urdu))",
-            "ادبی اصطلاحات کو محض دکھاوے کے لیے استعمال کرنا (کمزور فہم) (Target expression (Urdu))",
-            "غیر معیاری اور بازاری الفاظ کا انتخاب کرنا (Target expression (Urdu))"
+            "فقط جملوں کی طوالت میں غیر ضروری اضافہ کرنا (بے مقصد)) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)",
+            "ادبی اصطلاحات کو محض دکھاوے کے لیے استعمال کرنا (کمزور فہم)) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)",
+            "غیر معیاری اور بازاری الفاظ کا انتخاب کرنا) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)"
           ],
           "answerIndex": 0,
           "explanation": "یہ بیانیے کو غیر ذاتی، باوقار، قانونی اور متوازن ادبی حسن بخشتا ہے۔"
@@ -7204,9 +7204,9 @@
           "prompt": "فعلِ مجہول کے جامع سمیکن (Passive Voice Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔ (Truth is always highlighted by writers [ujaagar kiya jaata hai], sacrifices were rendered in past [di gayeen], silence cannot be maintained by conscientious writers [chup nahin raha jaata], and truth will always be supported [saath diya jaaye ga].)",
-            "اہلِ قلم نے قلم دیکھا تھا اور گاڑی روتی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف عدالت کے کٹہرے میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "مجہول ساختیں صرف ترجمے کی کتب میں جائز ہیں۔ (Target expression (Urdu))"
+            "اہلِ قلم نے قلم دیکھا تھا اور گاڑی روتی تھی۔) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)",
+            "جامع سمیکن صرف عدالت کے کٹہرے میں بولا جاتا ہے۔) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)",
+            "مجہول ساختیں صرف ترجمے کی کتب میں جائز ہیں۔) (Context: فعلِ مجہول کا جامع سمیکن (Passive V)"
           ],
           "answerIndex": 0,
           "explanation": "«اہلِ قلم کی جانب سے سچائی کو ہمیشہ اجاگر کیا جاتا ہے، ماضی میں بھی قربانیاں دی گئیں، باضمیر ادیب سے ناانصافی پر چپ نہیں رہا جاتا اور ہمیشہ حق کا ساتھ دیا جائے گا۔» فعلِ مجہول کے تمام پہلوؤں کا کامل ترین سمیکن ہے۔"
@@ -7255,9 +7255,9 @@
           "prompt": "فعلِ لازم «رکنا» کا فصیح متعدی صیغہ کون سا ہے؟",
           "options": [
             "روکنا (Rokna - Transitive via internal vowel shift from rukna)",
-            "رکانا (غیر فصیح) (Target expression (Urdu))",
-            "رکوانا (متعدی المتعدی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "رکانا (غیر فصیح)) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)",
+            "رکوانا (متعدی المتعدی)) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)",
+            "کوئی نہیں) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)"
           ],
           "answerIndex": 0,
           "explanation": "«رکنا» سے حرفِ علت بدل کر متعدی «روکنا» بنتا ہے۔"
@@ -7270,9 +7270,9 @@
           "prompt": "فعلِ لازم «گرنا» سے براہِ راست متعدی بنانے کا درست طریقہ کیا ہے؟",
           "options": [
             "گرانا (Giraana - Direct transitive by adding 'aa' suffix)",
-            "گرنا کرنا (غلط ترکیب) (Target expression (Urdu))",
-            "گرونا (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "گرنا کرنا (غلط ترکیب)) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)",
+            "گرونا (بے معنی)) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)",
+            "کوئی نہیں) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)"
           ],
           "answerIndex": 0,
           "explanation": "مادہ 'گر' کے ساتھ الف لگا کر «گرانا» بنتا ہے۔"
@@ -7286,9 +7286,9 @@
           "prompt": "فعلِ لازم اور فعلِ متعدی کے فصیح فرق کا جملہ پہچانیے:",
           "options": [
             "باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔ (The gardener cut the dry trees [transitive kaata] so that path could open [intransitive khul sakay].)",
-            "باغبان درخت کٹا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "متعدی فعل کے ساتھ نے کا استعمال ممنوع ہے۔ (Target expression (Urdu))",
-            "لازم فعل میں ہمیشہ دو مفعول ہوتے ہیں۔ (Target expression (Urdu))"
+            "باغبان درخت کٹا تھا اور رویا تھا۔) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)",
+            "متعدی فعل کے ساتھ نے کا استعمال ممنوع ہے۔) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)",
+            "لازم فعل میں ہمیشہ دو مفعول ہوتے ہیں۔) (Context: فعلِ لازم بمقابلہ فعلِ متعدی (Intra)"
           ],
           "answerIndex": 0,
           "explanation": "«باغبان نے سوکھے درختوں کو کاٹا تاکہ نئے پودوں کے لیے راستہ کھل سکے اور روشنی پہنچ سکے۔» میں متعدی (کاٹا) اور لازم (کھل سکے) کا کامل استعمال ہے۔"
@@ -7419,9 +7419,9 @@
           "prompt": "فعل «پینا» کا درست متعدی صیغہ کیا ہوگا؟",
           "options": [
             "پلانا (Pilaana - Irregular vowel-shortened causative of peena)",
-            "پینا کرنا (غیر فصیح) (Target expression (Urdu))",
-            "پیاونا (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "پینا کرنا (غیر فصیح)) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)",
+            "پیاونا (بے معنی)) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)",
+            "کوئی نہیں) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)"
           ],
           "answerIndex": 0,
           "explanation": "«پینا» سے بے قاعدہ متعدی صیغہ «پلانا» بنتا ہے۔"
@@ -7434,9 +7434,9 @@
           "prompt": "بچے کو نیند لانے کے لیے فعل «سونا» کا متعدی صیغہ کیا ہے؟",
           "options": [
             "سلانا (Sulaana - Correct irregular causative of sona)",
-            "سوانا (غیر معیاری) (Target expression (Urdu))",
-            "سوتے کرنا (غلط ترکیب) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "سوانا (غیر معیاری)) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)",
+            "سوتے کرنا (غلط ترکیب)) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)",
+            "کوئی نہیں) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)"
           ],
           "answerIndex": 0,
           "explanation": "«سونا» سے متعدی «سلانا» بنتا ہے۔"
@@ -7450,9 +7450,9 @@
           "prompt": "بے قاعدہ متعدی افعال (Irregular Causatives) کا فصیح جملہ پہچانیے:",
           "options": [
             "ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔ (The mother put the child to sleep by singing a lullaby [sulaaya] and fed milk in the morning [pilaaya].)",
-            "ماں نے بچے کو سویا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "کھلانا اور پلانا صرف دوا کے لیے بولا جاتا ہے۔ (Target expression (Urdu))",
-            "بے قاعدہ افعال اردو میں استعمال نہیں ہوتے۔ (Target expression (Urdu))"
+            "ماں نے بچے کو سویا تھا اور رویا تھا۔) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)",
+            "کھلانا اور پلانا صرف دوا کے لیے بولا جاتا ہے۔) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)",
+            "بے قاعدہ افعال اردو میں استعمال نہیں ہوتے۔) (Context: بے قاعدہ متعدی اور متعدی المتعدی او)"
           ],
           "answerIndex": 0,
           "explanation": "«ماں نے رات کو بچے کو لوری سنا کر پیار سے سلایا اور صبح سویرے اٹھا کر دودھ پلایا۔» سلانا اور پلانا جیسے بے قاعدہ متعدی افعال کی خوبصورت اور فصیح مثال ہے۔"
@@ -7501,9 +7501,9 @@
           "prompt": "مؤنث جمع مفعول «تصویریں» کے ساتھ فعل «دکھانا» کا درست ماضی صیغہ کیا ہوگا؟",
           "options": [
             "اس نے تصویریں دکھائیں (Us ne tasweerein dikhaayein - Correct feminine plural object agreement)",
-            "اس نے تصویریں دکھایا (مذکر کی غلطی) (Target expression (Urdu))",
-            "اس نے تصویریں دکھائے (مذکر جمع کی خامی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اس نے تصویریں دکھایا (مذکر کی غلطی)) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )",
+            "اس نے تصویریں دکھائے (مذکر جمع کی خامی)) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )",
+            "کوئی نہیں) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )"
           ],
           "answerIndex": 0,
           "explanation": "لفظ 'تصویریں' مؤنث جمع ہے، اس لیے فعل «دکھائیں» ہوگا۔"
@@ -7516,9 +7516,9 @@
           "prompt": "جب مفعول کے ساتھ 'کو' آئے (جیسے: بچوں کو) تو فعل کا کیا صیغہ ہوگا؟",
           "options": [
             "ہمیشہ مذکر واحد: کھلایا (Always neutral masculine singular when object has ko)",
-            "ہمیشہ مؤنث جمع: کھلائیں (غلط مطابقت) (Target expression (Urdu))",
-            "مفعول کے مطابق بدلتا رہے گا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہمیشہ مؤنث جمع: کھلائیں (غلط مطابقت)) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )",
+            "مفعول کے مطابق بدلتا رہے گا) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )",
+            "کوئی نہیں) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )"
           ],
           "answerIndex": 0,
           "explanation": "علامتِ مفعول 'کو' آنے پر فعل ہمیشہ مذکر واحد (کھلایا / پڑھایا) رہتا ہے۔"
@@ -7532,9 +7532,9 @@
           "prompt": "متعدی افعال کی ارگیٹو نحوی مطابقت (Ergative Syntax with 'Ne') کا فصیح جملہ پہچانیے:",
           "options": [
             "محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔ (The researcher had important historical truths discovered [daryaaft karwaayein] and presented [pesh keen].)",
-            "محقق نے سچائیاں دریافت کروایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "علامۂ فاعل نے صرف سوالیہ جملوں میں آتا ہے۔ (Target expression (Urdu))",
-            "متعدی افعال میں فعل ہمیشہ فاعل کے مطابق رہتا ہے۔ (Target expression (Urdu))"
+            "محقق نے سچائیاں دریافت کروایا تھا رویا تھا۔) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )",
+            "علامۂ فاعل نے صرف سوالیہ جملوں میں آتا ہے۔) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )",
+            "متعدی افعال میں فعل ہمیشہ فاعل کے مطابق رہتا ہے۔) (Context: متعدی ساختوں کی علامۂ فاعل 'نے' کے )"
           ],
           "answerIndex": 0,
           "explanation": "«محقق نے پرانے دستاویزات سے اہم تاریخی سچائیاں دریافت کروائیں اور قوم کے سامنے پیش کیں۔» مؤنث جمع مفعول کے ساتھ ارگیٹو مطابقت کا کامل شاہکار ہے۔"
@@ -7583,9 +7583,9 @@
           "prompt": "متعدی اور متعدی المتعدی افعال کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
             "اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی (Masterful synthesis: parhi [transitive], parhaayi [1st caus], likhwaayi [2nd caus])",
-            "اس نے کتاب پڑھا تھا رویا تھا اور سو گیا (بے ربط ماضی) (Target expression (Urdu))",
-            "وہ پڑھتا کرتا رہتا تھا (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اس نے کتاب پڑھا تھا رویا تھا اور سو گیا (بے ربط ماضی)) (Context: متعدی اور متعدی المتعدی افعال کا جا)",
+            "وہ پڑھتا کرتا رہتا تھا (غیر معیاری)) (Context: متعدی اور متعدی المتعدی افعال کا جا)",
+            "کوئی نہیں) (Context: متعدی اور متعدی المتعدی افعال کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«اس نے خود کتاب پڑھی، طلبہ کو پڑھائی اور ماہرین سے اس کی شرح لکھوائی» تینوں درجات کا کامل امتزاج ہے۔"
@@ -7598,9 +7598,9 @@
           "prompt": "متعدی افعال کا جامع سمیکن اردو بیانیے کو کیا خوبی عطا کرتا ہے؟",
           "options": [
             "فاعل، مفعول اور واسطہ فاعل کے باہمی تعلق کو مکمل وضاحت اور ادبی روانی کے ساتھ بیان کرنا (Expressing relationships between subject, object, and intermediary agent with full clarity and flowing eloquence)",
-            "صرف جملے کو طویل کرنا (لا حاصل) (Target expression (Urdu))",
-            "صرف سببی افعال کے اوزان رٹنا (محدود دائرہ) (Target expression (Urdu))",
-            "بے معنی بحث پیدا کرنا (غیر موزوں) (Target expression (Urdu))"
+            "صرف جملے کو طویل کرنا (لا حاصل)) (Context: متعدی اور متعدی المتعدی افعال کا جا)",
+            "صرف سببی افعال کے اوزان رٹنا (محدود دائرہ)) (Context: متعدی اور متعدی المتعدی افعال کا جا)",
+            "بے معنی بحث پیدا کرنا (غیر موزوں)) (Context: متعدی اور متعدی المتعدی افعال کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ افعال کے باہمی رشتوں اور واسطہ فاعل کے کردار کو فصاحت سے واضح کرتا ہے۔"
@@ -7614,9 +7614,9 @@
           "prompt": "متعدی اور متعدی المتعدی افعال کے جامع سمیکن (Causative Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔ (We recited the message of hope [sunaaya], had historic buildings constructed by youth [banwaayein], fed the poor [khilaaya], and hoisted the flag [lehraaya].)",
-            "ہم نے عمارت دیکھا تھا اور گاڑی روتی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف گرامر کی کتاب میں آتا ہے۔ (Target expression (Urdu))",
-            "متعدی افعال صرف اخبارات میں بولے جاتے ہیں۔ (Target expression (Urdu))"
+            "ہم نے عمارت دیکھا تھا اور گاڑی روتی تھی۔) (Context: متعدی اور متعدی المتعدی افعال کا جا)",
+            "جامع سمیکن صرف گرامر کی کتاب میں آتا ہے۔) (Context: متعدی اور متعدی المتعدی افعال کا جا)",
+            "متعدی افعال صرف اخبارات میں بولے جاتے ہیں۔) (Context: متعدی اور متعدی المتعدی افعال کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نے قوم کو امید کا پیغام سنایا، نوجوانوں سے تاریخی عمارتیں بنوائیں، غریبوں کو کھانا کھلایا اور وطن کی عزت کا پرچم لہرایا۔» متعدی اور متعدی المتعدی افعال کے تمام پہلوؤں کا شاہکار سمیکن ہے۔"
@@ -7829,9 +7829,9 @@
           "prompt": "کسی لازمی شرط کے لیے فصیح ترین لفظ کیا ہے؟",
           "options": [
             "بشرطیکہ (Bashartay-keh - Provided that / On condition that)",
-            "شاید کہ (احتمال) (Target expression (Urdu))",
-            "حالانکہ (استدراک) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "شاید کہ (احتمال)) (Context: استثنائی اور حاصرہ شرائط)",
+            "حالانکہ (استدراک)) (Context: استثنائی اور حاصرہ شرائط)",
+            "کوئی نہیں) (Context: استثنائی اور حاصرہ شرائط)"
           ],
           "answerIndex": 0,
           "explanation": "لازمی اور حاصرہ شرط کے لیے «بشرطیکہ» بولا جاتا ہے۔"
@@ -7844,9 +7844,9 @@
           "prompt": "انتباہ ظاہر کرنے والے لفظ «ورنہ» کا رسمی اور دفتری متبادل کیا ہے؟",
           "options": [
             "بصورتِ دیگر (Ba-soorat-e-deegar - Formal / legal equivalent of otherwise)",
-            "اگر نہیں تو (غیر رسمی) (Target expression (Urdu))",
-            "پھر بھی (تسلیمی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اگر نہیں تو (غیر رسمی)) (Context: استثنائی اور حاصرہ شرائط)",
+            "پھر بھی (تسلیمی)) (Context: استثنائی اور حاصرہ شرائط)",
+            "کوئی نہیں) (Context: استثنائی اور حاصرہ شرائط)"
           ],
           "answerIndex": 0,
           "explanation": "دفتری و قانونی اردو میں 'ورنہ' کے لیے «بصورتِ دیگر» لکھا جاتا ہے۔"
@@ -7860,9 +7860,9 @@
           "prompt": "حاصرہ و استثنائی شرائط (Restricted Conditionals) کا فصیح جملہ پہچانیے:",
           "options": [
             "ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔ (We will bear all training expenses provided that they seek knowledge sincerely [bashartay-keh], otherwise national capital will be wasted [warna].)",
-            "ہم نے خرچ کیا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "بشرطیکہ صرف بازار کے سودوں میں لکھا جاتا ہے۔ (Target expression (Urdu))",
-            "ورنہ کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔ (Target expression (Urdu))"
+            "ہم نے خرچ کیا تھا اور رویا تھا۔) (Context: استثنائی اور حاصرہ شرائط)",
+            "بشرطیکہ صرف بازار کے سودوں میں لکھا جاتا ہے۔) (Context: استثنائی اور حاصرہ شرائط)",
+            "ورنہ کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔) (Context: استثنائی اور حاصرہ شرائط)"
           ],
           "answerIndex": 0,
           "explanation": "«ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔» بشرطیکہ اور ورنہ کا شاہکار مربوط جملہ ہے۔"
@@ -7993,9 +7993,9 @@
           "prompt": "شرطیہ اور امتناعی صورتوں کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
             "اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے (Masterful synthesis of agarchay, agar...to, bashartay-keh, warna, and kaash)",
-            "اگرچہ تھا اگر رویا تھا تو سو گیا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ اگر سے ورنہ کرتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اگرچہ تھا اگر رویا تھا تو سو گیا تھا (بے ربط الفاظ)) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)",
+            "وہ اگر سے ورنہ کرتا رہتا ہے (غیر معیاری)) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)",
+            "کوئی نہیں) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)"
           ],
           "answerIndex": 0,
           "explanation": "«اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے» شرطیہ تمام اصناف کا کامل سمیکن ہے۔"
@@ -8008,9 +8008,9 @@
           "prompt": "شرطیہ اور امتناعی جملوں کا جامع سمیکن اردو نثر کو کیا فکری حسن عطا کرتا ہے؟",
           "options": [
             "امکانات، شرائط، رکاوٹوں، انتباہات اور تاریخی حسرتوں کو ایک ہی شاندار اور پرشکوہ بیانیے میں سمو دینا (Integrating possibilities, conditions, obstacles, warnings, and regrets in grand eloquent prose)",
-            "صرف جملے کو لمبا بنانا (بے مقصد) (Target expression (Urdu))",
-            "صرف فرضی شرائط کی دہرائی کرنا (محدود فہم) (Target expression (Urdu))",
-            "بے معنی قیاسات میں الجھنا (غیر منطقی) (Target expression (Urdu))"
+            "صرف جملے کو لمبا بنانا (بے مقصد)) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)",
+            "صرف فرضی شرائط کی دہرائی کرنا (محدود فہم)) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)",
+            "بے معنی قیاسات میں الجھنا (غیر منطقی)) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)"
           ],
           "answerIndex": 0,
           "explanation": "یہ امکانات، شرائط، رکاوٹوں اور تاریخی حسرتوں کو پرشکوہ بیانیے میں سمو دیتا ہے۔"
@@ -8024,9 +8024,9 @@
           "prompt": "شرطیہ اور امتناعی جملوں کے جامع سمیکن (Conditionals Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔ (Although tough times exist [agarchay], if we stay united we will win [agar...to], provided sincerity remains [bashartay-keh], otherwise history will not forgive [warna] and world will say: would that they had valued [kaash]!)",
-            "اگرچہ کڑا وقت تھا کھانا کھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف عدالت میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "شرطیہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔ (Target expression (Urdu))"
+            "اگرچہ کڑا وقت تھا کھانا کھایا تھا رویا تھا۔) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)",
+            "جامع سمیکن صرف عدالت میں بولا جاتا ہے۔) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)",
+            "شرطیہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔) (Context: شرطیہ اور امتناعی جملوں کا جامع سمی)"
           ],
           "answerIndex": 0,
           "explanation": "«اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔» شرطیہ اور امتناعی جملوں کے جامع سمیکن کا کامل ترین شاہکار ہے۔"
@@ -8157,9 +8157,9 @@
           "prompt": "«اس نے کہا: میں کل آؤں گا» کا درست بالواسطہ (Indirect) جملہ کیا ہے؟",
           "options": [
             "اس نے کہا کہ وہ کل آئے گا (Us ne kaha keh woh kal aaye ga - Correct indirect shift from mein to woh)",
-            "اس نے کہا کہ میں کل آتا تھا (غلط ضمیر اور زمانہ) (Target expression (Urdu))",
-            "اس نے کہا کہ ہم روئیں گے (بے جوڑ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اس نے کہا کہ میں کل آتا تھا (غلط ضمیر اور زمانہ)) (Context: بالواسطہ کلام)",
+            "اس نے کہا کہ ہم روئیں گے (بے جوڑ)) (Context: بالواسطہ کلام)",
+            "کوئی نہیں) (Context: بالواسطہ کلام)"
           ],
           "answerIndex": 0,
           "explanation": "بالواسطہ کلام میں متکلم کی ضمیر 'میں' بدل کر 'وہ' ہو جاتی ہے۔"
@@ -8172,9 +8172,9 @@
           "prompt": "اردو میں بالواسطہ کلام کی سب سے نمایاں خصوصیت کیا ہے؟",
           "options": [
             "مفہوم کو متکلم کے بجائے تیسرے شخص (وہ/اس) کی زبان میں روانی سے بیان کرنا (Conveying essence through 3rd person perspective with fluent cohesion)",
-            "صرف جملے کے الفاظ الٹ دینا (Target expression (Urdu))",
-            "ہمیشہ ماضی بعید کا لانا لازمی ہونا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف جملے کے الفاظ الٹ دینا) (Context: بالواسطہ کلام)",
+            "ہمیشہ ماضی بعید کا لانا لازمی ہونا) (Context: بالواسطہ کلام)",
+            "کوئی نہیں) (Context: بالواسطہ کلام)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تیسرے شخص کی ضمیروں کے ساتھ مفہوم کی باوقار ترسیل کرتا ہے۔"
@@ -8188,9 +8188,9 @@
           "prompt": "بالواسطہ کلام (Indirect Speech) کا فصیح جملہ پہچانیے:",
           "options": [
             "سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔ (The political leader assured his workers that they would continue every possible struggle [jaari rakhein gay] for national progress.)",
-            "سیاسی رہنما نے بولا تھا میں روتا تھا۔ (Target expression (Urdu))",
-            "بالواسطہ کلام میں واوین کا لگانا لازمی ہے۔ (Target expression (Urdu))",
-            "اردو میں بالواسطہ بیان کا کوئی وجود نہیں۔ (Target expression (Urdu))"
+            "سیاسی رہنما نے بولا تھا میں روتا تھا۔) (Context: بالواسطہ کلام)",
+            "بالواسطہ کلام میں واوین کا لگانا لازمی ہے۔) (Context: بالواسطہ کلام)",
+            "اردو میں بالواسطہ بیان کا کوئی وجود نہیں۔) (Context: بالواسطہ کلام)"
           ],
           "answerIndex": 0,
           "explanation": "«سیاسی رہنما نے اپنے کارکنوں کو یقین دلایا کہ وہ ملک کی ترقی اور عوامی خوشحالی کے لیے ہر ممکن جدوجہد جاری رکھیں گے۔» بالواسطہ کلام کا کامل و فصیح نمونہ ہے۔"
@@ -8239,9 +8239,9 @@
           "prompt": "کسی سوال کی بالواسطہ ترسیل کے لیے درست ترکیب کیا ہے؟",
           "options": [
             "اس نے دریافت کیا کہ کیا وہ آئے گا (Us ne daryaaft kiya keh kya woh aaye ga - Correct reported question with keh kya)",
-            "اس نے حکم دیا کہ وہ آیا تھا (غلط فعلِ قول) (Target expression (Urdu))",
-            "اس نے بتایا کہ کیوں وہ رویا (بے ربط) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اس نے حکم دیا کہ وہ آیا تھا (غلط فعلِ قول)) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)",
+            "اس نے بتایا کہ کیوں وہ رویا (بے ربط)) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)",
+            "کوئی نہیں) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)"
           ],
           "answerIndex": 0,
           "explanation": "سوال کی بالواسطہ رپورٹنگ کے لیے «دریافت کیا کہ کیا...» فصیح ترین اسلوب ہے۔"
@@ -8254,9 +8254,9 @@
           "prompt": "کسی سرکاری ہدایت یا حکم کو بالواسطہ بیان کرنے کا درست انداز کیا ہے؟",
           "options": [
             "حکم دیا کہ تمام ملازمین وقت پر حاضر ہوں (Hukm diya keh tamaam mulaazmeen waqt par haazir hon - Correct reported imperative with subjunctive)",
-            "حکم دیا کہ تمام ملازمین وقت پر آتے تھے (بے جوڑ زمانہ) (Target expression (Urdu))",
-            "کہا کہ ملازمین روئے تھے (بے معنی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "حکم دیا کہ تمام ملازمین وقت پر آتے تھے (بے جوڑ زمانہ)) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)",
+            "کہا کہ ملازمین روئے تھے (بے معنی)) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)",
+            "کوئی نہیں) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)"
           ],
           "answerIndex": 0,
           "explanation": "حکم کے بعد جملہ مضارع/التزامی (حاضر ہوں) میں آتا ہے۔"
@@ -8270,9 +8270,9 @@
           "prompt": "استفساری و حکمی جملوں کی بالواسطہ ترسیل کا فصیح جملہ پہچانیے:",
           "options": [
             "پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔ (The principal issued instructions to teachers that they maintain transparency of exams [bar-qaraar rakhein] and prepare results in time.)",
-            "پرنسپل نے بولا تھا کھانا کھایا تھا۔ (Target expression (Urdu))",
-            "حکمیہ جملوں میں کہ کا آنا گرامر کے خلاف ہے۔ (Target expression (Urdu))",
-            "استفساری جملے بالواسطہ نہیں بنائے جا سکتے۔ (Target expression (Urdu))"
+            "پرنسپل نے بولا تھا کھانا کھایا تھا۔) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)",
+            "حکمیہ جملوں میں کہ کا آنا گرامر کے خلاف ہے۔) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)",
+            "استفساری جملے بالواسطہ نہیں بنائے جا سکتے۔) (Context: استفساری و حکمی جملوں کی بالواسطہ ت)"
           ],
           "answerIndex": 0,
           "explanation": "«پرنسپل نے اساتذہ کو ہدایت جاری کی کہ وہ امتحانات کی شفافیت کو ہر قیمت پر برقرار رکھیں اور نتائج بروقت تیار کریں۔» حکمیہ و ہدایتی بالواسطہ کلام کی شاندار مثال ہے۔"
@@ -8321,9 +8321,9 @@
           "prompt": "سفارتی یا دفتری بیان میں کسی موقف کو بیان کرنے کا فصیح ترین انداز کیا ہے؟",
           "options": [
             "ترجمان نے دو ٹوک مؤقف اختیار کیا کہ... (The spokesperson adopted an unequivocal stance that - Standard diplomatic Urdu)",
-            "ترجمان نے بولا تھا کہ... (غیر رسمی) (Target expression (Urdu))",
-            "ترجمان چپ تھا اور رویا (بے جوڑ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ترجمان نے بولا تھا کہ... (غیر رسمی)) (Context: ادبی و صحافتی بالواسطہ اسلوب)",
+            "ترجمان چپ تھا اور رویا (بے جوڑ)) (Context: ادبی و صحافتی بالواسطہ اسلوب)",
+            "کوئی نہیں) (Context: ادبی و صحافتی بالواسطہ اسلوب)"
           ],
           "answerIndex": 0,
           "explanation": "سفارتی اور صحافتی اردو میں «مؤقف اختیار کیا کہ...» فصیح ترین تعبیر ہے۔"
@@ -8336,9 +8336,9 @@
           "prompt": "کسی پرانے عزم کو دوبارہ دہرانے کے لیے صحافتی اصطلاح کیا ہے؟",
           "options": [
             "عزم کا اعادہ کیا (Azm ka i'aada kiya - Reiterated the resolve)",
-            "عزم کو دوبارہ بولا (غیر معیاری) (Target expression (Urdu))",
-            "عزم کا نام لیا (سادہ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "عزم کو دوبارہ بولا (غیر معیاری)) (Context: ادبی و صحافتی بالواسطہ اسلوب)",
+            "عزم کا نام لیا (سادہ)) (Context: ادبی و صحافتی بالواسطہ اسلوب)",
+            "کوئی نہیں) (Context: ادبی و صحافتی بالواسطہ اسلوب)"
           ],
           "answerIndex": 0,
           "explanation": "عزم کو دوبارہ پختہ کرنے کے لیے «عزم کا اعادہ کیا» لکھا جاتا ہے۔"
@@ -8352,9 +8352,9 @@
           "prompt": "ادبی و صحافتی بالواسطہ اسلوب (Journalistic Discourse) کا فصیح جملہ پہچانیے:",
           "options": [
             "ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔ (Environmental experts adopted a firm stance that without immediate reduction in carbon emissions, the earth cannot be saved from disaster.)",
-            "ماہرین نے گاڑی دیکھا تھا رویا تھا۔ (Target expression (Urdu))",
-            "صحافتی جملوں میں مؤقف کا لفظ آنا گرامر کی غلطی ہے۔ (Target expression (Urdu))",
-            "رپورٹنگ کے تمام الفاظ انگریزی سے ترجمہ ہوتے ہیں۔ (Target expression (Urdu))"
+            "ماہرین نے گاڑی دیکھا تھا رویا تھا۔) (Context: ادبی و صحافتی بالواسطہ اسلوب)",
+            "صحافتی جملوں میں مؤقف کا لفظ آنا گرامر کی غلطی ہے۔) (Context: ادبی و صحافتی بالواسطہ اسلوب)",
+            "رپورٹنگ کے تمام الفاظ انگریزی سے ترجمہ ہوتے ہیں۔) (Context: ادبی و صحافتی بالواسطہ اسلوب)"
           ],
           "answerIndex": 0,
           "explanation": "«ماہرینِ ماحولیات نے عالمی کانفرنس میں دو ٹوک مؤقف اختیار کیا کہ کاربن کے اخراج میں فوری کمی لائے بغیر کرۂ ارض کو موسمیاتی تباہی سے نہیں بچایا جا سکتا۔» صحافتی بالواسطہ کلام کا شاندار شاہکار ہے۔"
@@ -8403,9 +8403,9 @@
           "prompt": "بلاواسطہ اور بالواسطہ کلام کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
             "قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں (Masterful synthesis of direct quote, indirect statement, and reported instruction)",
-            "قائد نے بولا تھا کھانا کھایا تھا رویا تھا اور سو گیا (بے ربط ماضی) (Target expression (Urdu))",
-            "وہ کہتا رہتا کرتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "قائد نے بولا تھا کھانا کھایا تھا رویا تھا اور سو گیا (بے ربط ماضی)) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )",
+            "وہ کہتا رہتا کرتا رہتا ہے (غیر معیاری)) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )",
+            "کوئی نہیں) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )"
           ],
           "answerIndex": 0,
           "explanation": "«قائد نے فرمایا کہ ”سچ بولو“، ترجمان نے واضح کیا کہ قوم عمل کرے اور ہدایت کی کہ متحد رہیں» بلاواسطہ، بالواسطہ اور حکمیہ کلام کا کامل سمیکن ہے۔"
@@ -8418,9 +8418,9 @@
           "prompt": "بلاواسطہ اور بالواسطہ کلام کا جامع سمیکن تاریخی بیانیے کو کیا خوبی بخشتا ہے؟",
           "options": [
             "اصل تاریخی اقوال کی حرمت کو برقرار رکھتے ہوئے ان کی عصری تشریح اور انتظامی احکامات کو ایک باوقار تسلسل میں پیش کرنا (Preserving original quotes while integrating contemporary analysis and directives seamlessly)",
-            "صرف صفحات بھرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف اقوال کی زبانی تکرار کرنا (محدود بیانیہ) (Target expression (Urdu))",
-            "بے معنی تکرار پیدا کرنا (غیر معیاری) (Target expression (Urdu))"
+            "صرف صفحات بھرنا (بے فائدہ مشق)) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )",
+            "صرف اقوال کی زبانی تکرار کرنا (محدود بیانیہ)) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )",
+            "بے معنی تکرار پیدا کرنا (غیر معیاری)) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )"
           ],
           "answerIndex": 0,
           "explanation": "یہ اصل اقوال کی حرمت کے ساتھ تجزیاتی و انتظامی تسلسل قائم کرتا ہے۔"
@@ -8434,9 +8434,9 @@
           "prompt": "بلاواسطہ اور بالواسطہ کلام کے جامع سمیکن (Reported Speech Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔ (The scholar said: \"Knowledge is light\" [direct], experts confirming explained that in modern era nations focusing on research will survive [indirect], and demanded that budget be increased [reported directive].)",
-            "دانشور نے کہا تھا اور گاڑی روتی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف عدالت کے فیصلے میں جائز ہے۔ (Target expression (Urdu))",
-            "بلاواسطہ اور بالواسطہ جملے ایک پیرا گراف میں اکٹھے نہیں آ سکتے۔ (Target expression (Urdu))"
+            "دانشور نے کہا تھا اور گاڑی روتی تھی۔) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )",
+            "جامع سمیکن صرف عدالت کے فیصلے میں جائز ہے۔) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )",
+            "بلاواسطہ اور بالواسطہ جملے ایک پیرا گراف میں اکٹھے نہیں آ سکتے۔) (Context: بلاواسطہ اور بالواسطہ کلام کا جامع )"
           ],
           "answerIndex": 0,
           "explanation": "«دانشور نے تقریر میں فرمایا کہ ”علم روشنی ہے“، ماہرین نے اس کی تصدیق کرتے ہوئے واضح کیا کہ جدید دور میں وہی قومیں زندہ رہیں گی جو تحقیق پر توجہ دیں اور حکومت سے مطالبہ کیا کہ تعلیمی بجٹ میں اضافہ کیا جائے۔» کلام کے تمام اسالیب کا شاہکار سمیکن ہے۔"
@@ -8485,9 +8485,9 @@
           "prompt": "سرکاری خط کے آغاز میں مکتوب الیہ کے لیے فصیح ترین دفتری تعبیر کیا ہے؟",
           "options": [
             "بخدمت جناب... (Bakhidmat janaab - Standard formal administrative Urdu salutation)",
-            "ارے صاحب سنیں (غیر شائستہ) (Target expression (Urdu))",
-            "تم کو خط لکھا ہے (غیر رسمی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ارے صاحب سنیں (غیر شائستہ)) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)",
+            "تم کو خط لکھا ہے (غیر رسمی)) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)",
+            "کوئی نہیں) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)"
           ],
           "answerIndex": 0,
           "explanation": "سرکاری و دفتری خطوط کے آغاز کے لیے «بخدمت جناب...» فصیح ترین تعبیر ہے۔"
@@ -8500,9 +8500,9 @@
           "prompt": "کسی سرکاری درخواست کا مقصد بیان کرنے کے لیے کون سا لفظ لکھا جاتا ہے؟",
           "options": [
             "عنوان: درخواست برائے... (Unwaan: Darkhwaast baraay - Subject line header)",
-            "قصہ: ہم بتاتے ہیں کہ (غیر معیاری) (Target expression (Urdu))",
-            "شاید کہ ہم کہیں (بے ربط) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "قصہ: ہم بتاتے ہیں کہ (غیر معیاری)) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)",
+            "شاید کہ ہم کہیں (بے ربط)) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)",
+            "کوئی نہیں) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)"
           ],
           "answerIndex": 0,
           "explanation": "درخواست کے موضوع کے لیے «عنوان: درخواست برائے...» لکھا جاتا ہے۔"
@@ -8516,9 +8516,9 @@
           "prompt": "دفتری خطوط اور رسمی آغاز (Official Letters & Salutations) کا فصیح جملہ پہچانیے:",
           "options": [
             "بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔ (To Chief Executive Officer, Subject: Project Report for Approval, it is submitted with great respect that quarterly review report is presented.)",
-            "بخدمت صاحب گاڑی روتی تھی کھانا کھایا تھا۔ (Target expression (Urdu))",
-            "دفتری خطوط میں عنوان کا لکھنا منع ہے۔ (Target expression (Urdu))",
-            "القاب صرف نجی خطوط میں لکھے جاتے ہیں۔ (Target expression (Urdu))"
+            "بخدمت صاحب گاڑی روتی تھی کھانا کھایا تھا۔) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)",
+            "دفتری خطوط میں عنوان کا لکھنا منع ہے۔) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)",
+            "القاب صرف نجی خطوط میں لکھے جاتے ہیں۔) (Context: دفتری خطوط، القاب و آداب اور رسمی آ)"
           ],
           "answerIndex": 0,
           "explanation": "«بخدمت جناب چیف ایگزیکٹو آفیسر، عنوان: پراجیکٹ رپورٹ برائے منظوری، نہایت احترام کے ساتھ گزارش ہے کہ رواں سہ ماہی کی مفصل جائزہ رپورٹ ملاحظے کے لیے پیش کی جاتی ہے۔» دفتری مراسلت کا مکمل اور باوقار نمونہ ہے۔"
@@ -8567,9 +8567,9 @@
           "prompt": "معاہدے میں دوسری پارٹی کے لیے مستند قانونی اصطلاح کیا ہے؟",
           "options": [
             "فریقِ ثانی / فریقِ دوم (Fareeq-e-saani / Fareeq-e-dom - Party of the second part in legal Urdu)",
-            "دوسرا آدمی (غیر رسمی) (Target expression (Urdu))",
-            "سامنے والا خریدار (عام بول چال) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "دوسرا آدمی (غیر رسمی)) (Context: کاروباری معاہدات، شراکت داری اور شر)",
+            "سامنے والا خریدار (عام بول چال)) (Context: کاروباری معاہدات، شراکت داری اور شر)",
+            "کوئی نہیں) (Context: کاروباری معاہدات، شراکت داری اور شر)"
           ],
           "answerIndex": 0,
           "explanation": "قانونی اردو میں دوسری پارٹی کے لیے «فریقِ ثانی» یا «فریقِ دوم» لکھا جاتا ہے۔"
@@ -8582,9 +8582,9 @@
           "prompt": "کسی معاہدے کی دفعہ یا شق کے لیے قانونی لفظ کیا ہے؟",
           "options": [
             "شق نمبر... (Shiqq number - Clause number in contracts)",
-            "بات نمبر... (Target expression (Urdu))",
-            "سطر نمبر... (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "بات نمبر...) (Context: کاروباری معاہدات، شراکت داری اور شر)",
+            "سطر نمبر...) (Context: کاروباری معاہدات، شراکت داری اور شر)",
+            "کوئی نہیں) (Context: کاروباری معاہدات، شراکت داری اور شر)"
           ],
           "answerIndex": 0,
           "explanation": "معاہدے کی دفعات کو «شق» (Clause) کہا جاتا ہے۔"
@@ -8598,9 +8598,9 @@
           "prompt": "کاروباری معاہدات اور شرائطِ نامہ (Contracts & Agreements) کا فصیح جملہ پہچانیے:",
           "options": [
             "معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔ (According to contract terms, if second party fails to complete construction in time, first party will have full legal right to forfeit security deposit.)",
-            "معاہدے نے کھانا کھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "فریق کا لفظ صرف فوج کے لیے بولا جاتا ہے۔ (Target expression (Urdu))",
-            "اردو معاہدوں میں دستخط کی ضرورت نہیں ہوتی۔ (Target expression (Urdu))"
+            "معاہدے نے کھانا کھایا تھا رویا تھا۔) (Context: کاروباری معاہدات، شراکت داری اور شر)",
+            "فریق کا لفظ صرف فوج کے لیے بولا جاتا ہے۔) (Context: کاروباری معاہدات، شراکت داری اور شر)",
+            "اردو معاہدوں میں دستخط کی ضرورت نہیں ہوتی۔) (Context: کاروباری معاہدات، شراکت داری اور شر)"
           ],
           "answerIndex": 0,
           "explanation": "«معاہدے کی شرائط کے مطابق اگر فریقِ ثانی نے مقررہ مدت میں تعمیراتی کام مکمل نہ کیا تو فریقِ اول کو زرِ ضمانت ضبط کرنے کا مکمل قانونی حق حاصل ہوگا۔» قانونی و معاہداتی اردو کا فصیح شاہکار ہے۔"
@@ -8649,9 +8649,9 @@
           "prompt": "سرکاری نوٹیفکیشن میں «اگلے حکم تک» کے لیے فصیح ترین اصطلاح کیا ہے؟",
           "options": [
             "تا حکمِ ثانی (Taa hukm-e-saani - Until further notice / orders in official Urdu)",
-            "جب تک نیا آرڈر نہ آئے (غیر رسمی) (Target expression (Urdu))",
-            "کل تک کے لیے (محدود) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "جب تک نیا آرڈر نہ آئے (غیر رسمی)) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )",
+            "کل تک کے لیے (محدود)) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )",
+            "کوئی نہیں) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )"
           ],
           "answerIndex": 0,
           "explanation": "دفتری اردو میں 'اگلے حکم تک' کے لیے «تا حکمِ ثانی» بولا اور لکھا جاتا ہے۔"
@@ -8664,9 +8664,9 @@
           "prompt": "کسی سرکاری حکم کی خلاف ورزی پر کی جانے والی قانونی کارروائی کو کیا کہتے ہیں؟",
           "options": [
             "تادیبی کارروائی (Ta'deebi kaar-rawaai - Disciplinary action)",
-            "دوستی کی بات (Target expression (Urdu))",
-            "سادہ کارروائی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "دوستی کی بات) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )",
+            "سادہ کارروائی) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )",
+            "کوئی نہیں) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )"
           ],
           "answerIndex": 0,
           "explanation": "قواعد کی خلاف ورزی پر «تادیبی کارروائی» کی جاتی ہے۔"
@@ -8680,9 +8680,9 @@
           "prompt": "دفتری احکامات اور نوٹیفکیشن (Office Memorandums & Orders) کا فصیح جملہ پہچانیے:",
           "options": [
             "دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔ (It is notified via office memorandum that annual leaves are canceled until further orders and disciplinary action will be taken for non-compliance.)",
-            "دفتری یادداشت نے کھانا کھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "تا حکمِ ثانی صرف کرکٹ میچ میں بولا جاتا ہے۔ (Target expression (Urdu))",
-            "دفتری نوٹیفکیشن زبانی جاری ہوتے ہیں۔ (Target expression (Urdu))"
+            "دفتری یادداشت نے کھانا کھایا تھا رویا تھا۔) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )",
+            "تا حکمِ ثانی صرف کرکٹ میچ میں بولا جاتا ہے۔) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )",
+            "دفتری نوٹیفکیشن زبانی جاری ہوتے ہیں۔) (Context: دفتری احکامات، نوٹیفکیشن اور دفتری )"
           ],
           "answerIndex": 0,
           "explanation": "«دفتری یادداشت کے تحت مطلع کیا جاتا ہے کہ تمام ملازمین کی سالانہ تعطیلات تا حکمِ ثانی منسوخ کر دی گئی ہیں اور عدمِ تعمیل پر تادیبی کارروائی عمل میں لائی جائے گی۔» دفتری نوٹیفکیشن کا مکمل نمونہ ہے۔"
@@ -8731,9 +8731,9 @@
           "prompt": "سرکاری درخواست کے آخر میں درخواست گزار کے لیے فصیح ترین اصطلاح کیا ہے؟",
           "options": [
             "العارض (Al-aariz - The petitioner / applicant in official Urdu petitions)",
-            "خط والا (عام بول چال) (Target expression (Urdu))",
-            "پیچھے والا بندہ (غیر شائستہ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خط والا (عام بول چال)) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)",
+            "پیچھے والا بندہ (غیر شائستہ)) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)",
+            "کوئی نہیں) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)"
           ],
           "answerIndex": 0,
           "explanation": "درخواست گزار کے لیے درخواست کے آخر میں «العارض» یا «نیازمند» لکھا جاتا ہے۔"
@@ -8746,9 +8746,9 @@
           "prompt": "رسمی اور کاروباری خطوط کا فصیح روایتی اختتامیہ کیا ہے؟",
           "options": [
             "فقط والسلام، آپ کا مخلص (Faqat was-salaam, aap ka mukhlis - Classic formal closing)",
-            "چلو اب خط ختم (غیر مناسب) (Target expression (Urdu))",
-            "پھر ملیں گے روئیں گے (بے جوڑ) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "چلو اب خط ختم (غیر مناسب)) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)",
+            "پھر ملیں گے روئیں گے (بے جوڑ)) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)",
+            "کوئی نہیں) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)"
           ],
           "answerIndex": 0,
           "explanation": "خط کے باوقار اختتام کے لیے «فقط والسلام، آپ کا مخلص» لکھا جاتا ہے۔"
@@ -8762,9 +8762,9 @@
           "prompt": "اختتامیہ اور دستخطی آداب (Formal Closings & Signatures) کا فصیح جملہ پہچانیے:",
           "options": [
             "امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔ (Hope you will grant approval of financial aid; with best regards, your humble well-wisher, signature and seal: Principal.)",
-            "امید ہے خط پڑھا تھا رویا تھا۔ (Target expression (Urdu))",
-            "العارض کا لفظ صرف شعر کے آخر میں لکھا جاتا ہے۔ (Target expression (Urdu))",
-            "دستخط ہمیشہ خط کے اوپر لکھے جاتے ہیں۔ (Target expression (Urdu))"
+            "امید ہے خط پڑھا تھا رویا تھا۔) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)",
+            "العارض کا لفظ صرف شعر کے آخر میں لکھا جاتا ہے۔) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)",
+            "دستخط ہمیشہ خط کے اوپر لکھے جاتے ہیں۔) (Context: اختتامیہ، دعائیہ کلمات اور دستخطی آ)"
           ],
           "answerIndex": 0,
           "explanation": "«امید ہے کہ آپ ادارے کی مالی معاونت کی منظوری مرحمت فرمائیں گے، فقط والسلام، آپ کا نیازمند و خیر اندیش، دستخط و مہر: پرنسپل پبلک کالج۔» دفتری خطوط کے اختتامیہ کا کامل اور مستند شاہکار ہے۔"
@@ -8813,9 +8813,9 @@
           "prompt": "دفتری مراسلت کے جامع امتزاج کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام (Masterful synthesis of salutation, subject, contractual clauses, administrative order, and formal closing)",
-            "جناب ہم نے خط لکھا تھا اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ دفتری کام کرتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "جناب ہم نے خط لکھا تھا اور رویا تھا (بے ربط الفاظ)) (Context: دفتری اور کاروباری خط و کتابت کا جا)",
+            "وہ دفتری کام کرتا رہتا ہے (غیر معیاری)) (Context: دفتری اور کاروباری خط و کتابت کا جا)",
+            "کوئی نہیں) (Context: دفتری اور کاروباری خط و کتابت کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«بخدمت جناب، عنوان، فریقین کی شقیں، تا حکمِ ثانی اور فقط والسلام» تمام دفتری اسالیب کا کامل سمیکن ہے۔"
@@ -8828,9 +8828,9 @@
           "prompt": "دفتری اردو کا جامع سمیکن سرکاری اور کاروباری امور کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
             "انتظامی فیصلوں، معاہداتی حقوق اور دفتری احکامات کو انتہائی باوقار، قطعی اور شفاف قانونی پیرائے میں محفوظ کرنا (Preserving administrative decisions, contractual rights, and orders with dignified clarity)",
-            "صرف دفتری فائلوں کا بوجھ بڑھانا (غیر تعمیری) (Target expression (Urdu))",
-            "صرف دفتری لغت کے الفاظ یاد کرنا (محدود دائرہ) (Target expression (Urdu))",
-            "بے معنی بیانات جاری کرنا (غیر ذمہ دارانہ) (Target expression (Urdu))"
+            "صرف دفتری فائلوں کا بوجھ بڑھانا (غیر تعمیری)) (Context: دفتری اور کاروباری خط و کتابت کا جا)",
+            "صرف دفتری لغت کے الفاظ یاد کرنا (محدود دائرہ)) (Context: دفتری اور کاروباری خط و کتابت کا جا)",
+            "بے معنی بیانات جاری کرنا (غیر ذمہ دارانہ)) (Context: دفتری اور کاروباری خط و کتابت کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ فیصلوں، حقوق اور احکامات کو شفاف اور باوقار قانونی پیرائے میں محفوظ کرتا ہے۔"
@@ -8844,9 +8844,9 @@
           "prompt": "دفتری اور کاروباری خط و کتابت کے جامع سمیکن (Corporate Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔ (To Director General, Subject: Commercial Agreement Validation, under agreed terms between parties all matters are complete, requested for approval so work continues until further orders; regards, petitioner.)",
-            "بخدمت ڈائریکٹر کھانا کھایا تھا گاڑی روتی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانے خطوط میں ہوتا تھا۔ (Target expression (Urdu))",
-            "دفتری زبان میں انگریزی کے بغیر خط نہیں لکھا جا سکتا۔ (Target expression (Urdu))"
+            "بخدمت ڈائریکٹر کھانا کھایا تھا گاڑی روتی تھی۔) (Context: دفتری اور کاروباری خط و کتابت کا جا)",
+            "جامع سمیکن صرف پرانے خطوط میں ہوتا تھا۔) (Context: دفتری اور کاروباری خط و کتابت کا جا)",
+            "دفتری زبان میں انگریزی کے بغیر خط نہیں لکھا جا سکتا۔) (Context: دفتری اور کاروباری خط و کتابت کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«بخدمت جناب ڈائریکٹر جنرل، عنوان: تجارتی معاہدے کی توثیق بابت، فریقِ اول و دوم کے مابین طے شدہ شرائط کے تحت تمام امور مکمل ہیں، استدعا ہے کہ حتمی منظوری صادر فرمائیں تاکہ تا حکمِ ثانی کام جاری رہے، فقط والسلام العارض۔» دفتری و کاروباری خط و کتابت کا مکمل ترین شاہکار ہے۔"
@@ -8895,9 +8895,9 @@
           "prompt": "مریض کی جسمانی کمزوری کو طبی زبان میں کیا کہتے ہیں؟",
           "options": [
             "نقاہت (Naqaahat - Medical weakness / fatigue / debility)",
-            "چالاکی (طاقت) (Target expression (Urdu))",
-            "صرف سستی (غیر طبی) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "چالاکی (طاقت)) (Context: طبی علامات، کیفیات اور تشخیص (Medic)",
+            "صرف سستی (غیر طبی)) (Context: طبی علامات، کیفیات اور تشخیص (Medic)",
+            "کوئی نہیں) (Context: طبی علامات، کیفیات اور تشخیص (Medic)"
           ],
           "answerIndex": 0,
           "explanation": "طبی اصطلاح میں شدید جسمانی کمزوری کو «نقاہت» کہا جاتا ہے۔"
@@ -8910,9 +8910,9 @@
           "prompt": "طبی علامات کی بنیاد پر بیماری معلوم کرنے کے عمل کو کیا کہتے ہیں؟",
           "options": [
             "تشخیص (Tashkhees - Clinical diagnosis / identifying the nature of disease)",
-            "تفریح (سیر و تفریح) (Target expression (Urdu))",
-            "تجارت (کاروبار) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "تفریح (سیر و تفریح)) (Context: طبی علامات، کیفیات اور تشخیص (Medic)",
+            "تجارت (کاروبار)) (Context: طبی علامات، کیفیات اور تشخیص (Medic)",
+            "کوئی نہیں) (Context: طبی علامات، کیفیات اور تشخیص (Medic)"
           ],
           "answerIndex": 0,
           "explanation": "بیماری کی شناخت کے عمل کو «تشخیص» (Diagnosis) کہا جاتا ہے۔"
@@ -8926,9 +8926,9 @@
           "prompt": "طبی علامات اور تشخیص (Medical Symptoms & Diagnosis) کا فصیح جملہ پہچانیے:",
           "options": [
             "طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔ (The skilled physician examined blood pressure and symptoms carefully and diagnosed that the patient suffers from weakness due to seasonal fever.)",
-            "طبیب نے بخار کو کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "تشخیص کا لفظ صرف موٹر کار کے لیے استعمال ہوتا ہے۔ (Target expression (Urdu))",
-            "اردو میں بیماری کا نام لینا منع ہے۔ (Target expression (Urdu))"
+            "طبیب نے بخار کو کھایا تھا اور رویا تھا۔) (Context: طبی علامات، کیفیات اور تشخیص (Medic)",
+            "تشخیص کا لفظ صرف موٹر کار کے لیے استعمال ہوتا ہے۔) (Context: طبی علامات، کیفیات اور تشخیص (Medic)",
+            "اردو میں بیماری کا نام لینا منع ہے۔) (Context: طبی علامات، کیفیات اور تشخیص (Medic)"
           ],
           "answerIndex": 0,
           "explanation": "«طبیبِ حاذق نے مریض کے بلڈ پریشر اور علامات کا بغور معائنہ کر کے فوری تشخیص کی کہ مریض کو موسمی بخار کی وجہ سے نقاہت لاحق ہے۔» طبی زبان کا کامل و فصیح نمونہ ہے۔"
@@ -8977,9 +8977,9 @@
           "prompt": "لیبارٹری میں تجزیے کے لیے لیے جانے والے خون کے حصے کو کیا کہتے ہیں؟",
           "options": [
             "خون کا نمونہ (Khoon ka namoona - Blood sample for clinical analysis)",
-            "خون کی بوندیں (غیر اصطلاحی) (Target expression (Urdu))",
-            "پورا خون (غلط) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خون کی بوندیں (غیر اصطلاحی)) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)",
+            "پورا خون (غلط)) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)",
+            "کوئی نہیں) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)"
           ],
           "answerIndex": 0,
           "explanation": "طبی اصطلاح میں اسے «خون کا نمونہ» (Blood Sample) کہا جاتا ہے۔"
@@ -8992,9 +8992,9 @@
           "prompt": "ہڈیوں کے معائنے کے لیے کروائی جانے والی تشخیصی تصویر کو کیا کہتے ہیں؟",
           "options": [
             "ایکسرے (X-ray - Radiographic imaging for bones)",
-            "عام تصویر (Target expression (Urdu))",
-            "ویڈیو ریکارڈنگ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "عام تصویر) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)",
+            "ویڈیو ریکارڈنگ) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)",
+            "کوئی نہیں) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)"
           ],
           "answerIndex": 0,
           "explanation": "ہڈیوں کے اندرونی معائنے کے لیے «ایکسرے» کروایا جاتا ہے۔"
@@ -9008,9 +9008,9 @@
           "prompt": "طبی ٹیسٹ اور لیبارٹری رپورٹس (Lab Investigations) کا مستند جملہ پہچانیے:",
           "options": [
             "لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔ (Lab reports and X-ray results clarified that the patient's infection is subsiding and diagnostic indicators are improving.)",
-            "ایکسرے نے کھانا کھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "لیبارٹری ٹیسٹ صرف جانوروں کے لیے ہوتے ہیں۔ (Target expression (Urdu))",
-            "رپورٹ کو ہمیشہ جلا دینا چاہیے۔ (Target expression (Urdu))"
+            "ایکسرے نے کھانا کھایا تھا رویا تھا۔) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)",
+            "لیبارٹری ٹیسٹ صرف جانوروں کے لیے ہوتے ہیں۔) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)",
+            "رپورٹ کو ہمیشہ جلا دینا چاہیے۔) (Context: طبی ٹیسٹ، لیبارٹری رپورٹس اور تفتیش)"
           ],
           "answerIndex": 0,
           "explanation": "«لیبارٹری رپورٹس اور ایکسرے کے نتائج سے واضح ہوا ہے کہ مریض کا انفیکشن کم ہو رہا ہے اور تمام تشخیصی اشاریے بہتری کی طرف گامزن ہیں۔» تشخیصی اردو کا درست ترین نمونہ ہے۔"
@@ -9059,9 +9059,9 @@
           "prompt": "مضرِ صحت غذاؤں سے رکنے اور بچنے کے عمل کو طبی زبان میں کیا کہتے ہیں؟",
           "options": [
             "پرہیز (Parheiz - Dietary abstention / avoidance of contraindicated foods)",
-            "ضیافت (دعوت) (Target expression (Urdu))",
-            "خریداری (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ضیافت (دعوت)) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)",
+            "خریداری) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)",
+            "کوئی نہیں) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)"
           ],
           "answerIndex": 0,
           "explanation": "طبی زبان میں بیماری پیدا کرنے والی غذاؤں سے بچنے کو «پرہیز» کہا جاتا ہے۔"
@@ -9074,9 +9074,9 @@
           "prompt": "ڈاکٹر کی طرف سے ادویات کی لکھی گئی باضابطہ تحریر کو کیا کہتے ہیں؟",
           "options": [
             "نسخہ / نسخۂ ادویات (Nuskha - Medical prescription)",
-            "اخبار (Target expression (Urdu))",
-            "رسالہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اخبار) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)",
+            "رسالہ) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)",
+            "کوئی نہیں) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)"
           ],
           "answerIndex": 0,
           "explanation": "ادویات کی تحریری ہدایت کو «نسخہ» (Prescription) کہتے ہیں۔"
@@ -9090,9 +9090,9 @@
           "prompt": "نسخۂ ادویات اور پرہیز (Prescriptions & Diet) کا فصیح جملہ پہچانیے:",
           "options": [
             "معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔ (The physician instructed that antibiotic course be completed without break for seven days and strict avoidance of sour and fried foods be practiced.)",
-            "معالج نے نسخہ پیا تھا اور گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "پرہیز صرف خواب میں کیا جاتا ہے۔ (Target expression (Urdu))",
-            "ادویات کا وقت پر لینا منع ہے۔ (Target expression (Urdu))"
+            "معالج نے نسخہ پیا تھا اور گاڑی روئی تھی۔) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)",
+            "پرہیز صرف خواب میں کیا جاتا ہے۔) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)",
+            "ادویات کا وقت پر لینا منع ہے۔) (Context: نسخۂ ادویات، خوراک اور پرہیز (Presc)"
           ],
           "answerIndex": 0,
           "explanation": "«معالج نے ہدایت کی کہ اینٹی بائیوٹک کا کورس سات دن تک بلا ناغہ مکمل کیا جائے اور ترش و تلی ہوئی اشیاء سے سخت پرہیز برتا جائے۔» طبی ہدایات کا کامل جملہ ہے۔"
@@ -9141,9 +9141,9 @@
           "prompt": "مریض کی خدمت اور دیکھ بھال کرنے والے شخص کو کیا کہتے ہیں؟",
           "options": [
             "تیمار دار (Teemaardaar - Patient attendant / caregiver)",
-            "خریدار (گاہک) (Target expression (Urdu))",
-            "دکاندار (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خریدار (گاہک)) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)",
+            "دکاندار) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)",
+            "کوئی نہیں) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)"
           ],
           "answerIndex": 0,
           "explanation": "مریض کی نگہداشت کرنے والے کو «تیمار دار» کہا جاتا ہے۔"
@@ -9156,9 +9156,9 @@
           "prompt": "ہسپتال میں شدید نگہداشت کے خصوصی وارڈ کو اردو میں کیا کہتے ہیں؟",
           "options": [
             "شعبۂ انتہائی نگہداشت (Shu'ba-e-intehaai nigahdaasht - Intensive Care Unit / ICU)",
-            "عام انتظار گاہ (Target expression (Urdu))",
-            "طعام خانہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "عام انتظار گاہ) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)",
+            "طعام خانہ) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)",
+            "کوئی نہیں) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)"
           ],
           "answerIndex": 0,
           "explanation": "آئی سی یو کو اردو میں «شعبۂ انتہائی نگہداشت» کہا جاتا ہے۔"
@@ -9172,9 +9172,9 @@
           "prompt": "سرجری اور بعد از آپریشن نگہداشت (Surgical & Post-Op Care) کا فصیح جملہ پہچانیے:",
           "options": [
             "کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔ (After successful surgery the patient is kept in ICU where due to regular dressing and medical supervision his condition is out of danger.)",
-            "سرجری نے کھانا کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "آئی سی یو میں شادی کی تقریب ہوتی ہے۔ (Target expression (Urdu))",
-            "مرہم پٹی صرف پودوں کی کی جاتی ہے۔ (Target expression (Urdu))"
+            "سرجری نے کھانا کھایا تھا اور رویا تھا۔) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)",
+            "آئی سی یو میں شادی کی تقریب ہوتی ہے۔) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)",
+            "مرہم پٹی صرف پودوں کی کی جاتی ہے۔) (Context: سرجری، نگہداشتِ بعد از آپریشن اور ہ)"
           ],
           "answerIndex": 0,
           "explanation": "«کامیاب سرجری کے بعد مریض کو شعبۂ انتہائی نگہداشت میں رکھا گیا ہے جہاں باقاعدہ مرہم پٹی اور معالجاتی نگرانی کے باعث اس کی حالت اب خطرے سے باہر ہے۔» سرجیکل اور ہسپتالی پروٹوکول کا شاندار جملہ ہے۔"
@@ -9223,9 +9223,9 @@
           "prompt": "طبی مشاورت، تشخیص اور علاج کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات (Masterful synthesis of symptoms, lab investigations, prescription, dietary avoidance, and post-op rehabilitation)",
-            "ڈاکٹر نے دوا دیا تھا رویا تھا اور گاڑی چلی تھی (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ ہسپتال میں چائے پیتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ڈاکٹر نے دوا دیا تھا رویا تھا اور گاڑی چلی تھی (بے ربط الفاظ)) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)",
+            "وہ ہسپتال میں چائے پیتا رہتا ہے (غیر معیاری)) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)",
+            "کوئی نہیں) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)"
           ],
           "answerIndex": 0,
           "explanation": "«علامات کا جائزہ، لیبارٹری ٹیسٹ، نسخۂ ادویات، پرہیز اور بحالی کی ہدایات» تمام طبی مراحل کا جامع امتزاج ہے۔"
@@ -9238,9 +9238,9 @@
           "prompt": "طبی مشاورت کا جامع سمیکن مریض اور ڈاکٹر کے تعلق کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
             "مرض کی درست فہم، تشخیصی شواہد اور منظم علاج کے ذریعے مریض کو شفا اور ذہنی اطمینان فراہم کرنا (Ensuring accurate disease comprehension, diagnostic evidence, and cure with mental peace)",
-            "صرف میڈیکل رپورٹس کے صفحات بڑھانا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف طبی لغت کے الفاظ دہرانا (محدود دائرہ) (Target expression (Urdu))",
-            "بے بنیاد دوائیاں تجویز کرنا (غیر ذمہ دارانہ) (Target expression (Urdu))"
+            "صرف میڈیکل رپورٹس کے صفحات بڑھانا (بے فائدہ مشق)) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)",
+            "صرف طبی لغت کے الفاظ دہرانا (محدود دائرہ)) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)",
+            "بے بنیاد دوائیاں تجویز کرنا (غیر ذمہ دارانہ)) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تشخیصی شواہد اور منظم علاج کے ذریعے شفا اور ذہنی سکون فراہم کرتا ہے۔"
@@ -9254,9 +9254,9 @@
           "prompt": "طبی مشاورت، تشخیص و علاج کے جامع سمیکن (Medical Discourse Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔ (The physician established accurate diagnosis based on symptoms and blood reports, prescribed medication dosage, ordered avoidance of fats, and after successful surgery patient is recovering rapidly.)",
-            "طبیب نے رپورٹ دیکھا تھا اور کھانا کھایا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف کتاب میں ہوتا ہے ہسپتال میں نہیں۔ (Target expression (Urdu))",
-            "پرہیز کے بغیر دوا لینا ہمیشہ درست ہوتا ہے۔ (Target expression (Urdu))"
+            "طبیب نے رپورٹ دیکھا تھا اور کھانا کھایا تھا۔) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)",
+            "جامع سمیکن صرف کتاب میں ہوتا ہے ہسپتال میں نہیں۔) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)",
+            "پرہیز کے بغیر دوا لینا ہمیشہ درست ہوتا ہے۔) (Context: طبی مشاورت، تشخیص و علاج کا جامع سم)"
           ],
           "answerIndex": 0,
           "explanation": "«طبیب نے مریض کی علامات اور خون کی رپورٹس کی بنیاد پر درست تشخیص قائم کی، نسخے میں ادویات کی خوراک متعین کی، چکنائی سے پرہیز کا حکم دیا اور کامیاب سرجری کے بعد مریض اب تیزی سے روبہ صحت ہے۔» طبی زبان کا مکمل ترین شاہکار ہے۔"
@@ -9305,9 +9305,9 @@
           "prompt": "ہانڈی کو بھاپ میں ہلکی آنچ پر پکانے کے عمل کو کیا کہتے ہیں؟",
           "options": [
             "دم دینا (Dam dena - Slow cooking / simmering sealed under steam)",
-            "پانی بہانا (غیر متعلق) (Target expression (Urdu))",
-            "تیز جلانا (خراب کرنا) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "پانی بہانا (غیر متعلق)) (Context: مغلائی دسترخوان، روایتی تراکیب اور )",
+            "تیز جلانا (خراب کرنا)) (Context: مغلائی دسترخوان، روایتی تراکیب اور )",
+            "کوئی نہیں) (Context: مغلائی دسترخوان، روایتی تراکیب اور )"
           ],
           "answerIndex": 0,
           "explanation": "پکوان کو بھاپ میں ہلکی آنچ پر پکانے کو «دم دینا» کہتے ہیں۔"
@@ -9320,9 +9320,9 @@
           "prompt": "مغلائی کھانوں میں خوشبو اور سنہری رنگت کے لیے کون سا قیمتی مصالحہ استعمال ہوتا ہے؟",
           "options": [
             "زعفران (Za'fraan - Saffron used for royal aroma and golden color)",
-            "صرف نمک (Target expression (Urdu))",
-            "صرف لال مرچ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف نمک) (Context: مغلائی دسترخوان، روایتی تراکیب اور )",
+            "صرف لال مرچ) (Context: مغلائی دسترخوان، روایتی تراکیب اور )",
+            "کوئی نہیں) (Context: مغلائی دسترخوان، روایتی تراکیب اور )"
           ],
           "answerIndex": 0,
           "explanation": "شاہی کھانوں میں خوشبو اور رنگت کے لیے «زعفران» استعمال کیا جاتا ہے۔"
@@ -9336,9 +9336,9 @@
           "prompt": "مغلائی دسترخوان اور پکوان (Mughlai Cuisine) کا فصیح جملہ پہچانیے:",
           "options": [
             "شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔ (The royal chef prepared qorma blending saffron, mace, and green cardamom and simmered under steam on low heat so aromas permeate the meat.)",
-            "شاہی باورچی نے ہانڈی کو پانی میں ڈبو کر گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "دم دینا صرف موٹر سائیکل میں ہوتا ہے۔ (Target expression (Urdu))",
-            "مغلائی کھانوں میں مصالحوں کا استعمال منع ہے۔ (Target expression (Urdu))"
+            "شاہی باورچی نے ہانڈی کو پانی میں ڈبو کر گاڑی چلائی تھی۔) (Context: مغلائی دسترخوان، روایتی تراکیب اور )",
+            "دم دینا صرف موٹر سائیکل میں ہوتا ہے۔) (Context: مغلائی دسترخوان، روایتی تراکیب اور )",
+            "مغلائی کھانوں میں مصالحوں کا استعمال منع ہے۔) (Context: مغلائی دسترخوان، روایتی تراکیب اور )"
           ],
           "answerIndex": 0,
           "explanation": "«شاہی باورچی نے زعفران، جاوتری اور چھوٹی الائچی کے امتزاج سے قورمہ تیار کر کے دھیمی آنچ پر دم دیا تاکہ تمام مصالحوں کی خوشبو گوشت میں رچ بس جائے۔» مغلائی پکوان کے اسلوب کا کامل جملہ ہے۔"
@@ -9387,9 +9387,9 @@
           "prompt": "بلوچستان کا وہ کون سا روایتی پکوان ہے جو انگاروں پر بغیر گھی کے بھونا جاتا ہے؟",
           "options": [
             "سجی (Sajji - Traditional roasted meat of Balochistan)",
-            "قورمہ (Target expression (Urdu))",
-            "نہاری (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "قورمہ) (Context: علاقائی ذائقے)",
+            "نہاری) (Context: علاقائی ذائقے)",
+            "کوئی نہیں) (Context: علاقائی ذائقے)"
           ],
           "answerIndex": 0,
           "explanation": "انگاروں کے گرد بھون کر تیار کی جانے والی بلوچی سوغات کو «سجی» کہتے ہیں۔"
@@ -9402,9 +9402,9 @@
           "prompt": "پنجاب میں سرسوں کے ساگ کے ساتھ روایتی طور پر کون سی روٹی اور چیز پیش کی جاتی ہے؟",
           "options": [
             "مکئی کی روٹی اور تازہ مکھن (Makai ki roti aur taaza makhan - Cornbread and fresh butter)",
-            "ڈبل روٹی اور کیچپ (Target expression (Urdu))",
-            "صرف چاول (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ڈبل روٹی اور کیچپ) (Context: علاقائی ذائقے)",
+            "صرف چاول) (Context: علاقائی ذائقے)",
+            "کوئی نہیں) (Context: علاقائی ذائقے)"
           ],
           "answerIndex": 0,
           "explanation": "سرسوں کے ساگ کے ساتھ «مکئی کی روٹی اور تازہ مکھن» پیش کیا جاتا ہے۔"
@@ -9418,9 +9418,9 @@
           "prompt": "پاکستان کے علاقائی پکوانوں (Regional Cuisines) کا مستند جملہ پہچانیے:",
           "options": [
             "پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔ (Peshawar's delicious chapli kababs, Balochistan's traditional sajji, and Punjab's mustard greens are masterpieces of Pakistani culinary diversity.)",
-            "سجی نے کھانا کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "ساگ صرف سمندر کے کنارے اگتا ہے۔ (Target expression (Urdu))",
-            "چپلی کباب کا تعلق مٹھائی سے ہے۔ (Target expression (Urdu))"
+            "سجی نے کھانا کھایا تھا اور رویا تھا۔) (Context: علاقائی ذائقے)",
+            "ساگ صرف سمندر کے کنارے اگتا ہے۔) (Context: علاقائی ذائقے)",
+            "چپلی کباب کا تعلق مٹھائی سے ہے۔) (Context: علاقائی ذائقے)"
           ],
           "answerIndex": 0,
           "explanation": "«پشاور کے لذیذ چپلی کباب، بلوچستان کی روایتی سجی اور پنجاب کا سرسوں کا ساگ پاکستانی ثقافت کے عظیم الشان غذائی تنوع کا شاہکار ہیں۔» علاقائی پکوانوں کا مکمل فصیح جملہ ہے۔"
@@ -9469,9 +9469,9 @@
           "prompt": "کشمیر کی روایتی گلابی چائے پر گارنش کے طور پر کون سے میوہ جات ڈالے جاتے ہیں؟",
           "options": [
             "پستہ اور بادام (Pista aur baadaam - Pistachios and almonds for Kashmiri pink tea)",
-            "کدو کے بیج (Target expression (Urdu))",
-            "صرف نمک (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کدو کے بیج) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)",
+            "صرف نمک) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)",
+            "کوئی نہیں) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)"
           ],
           "answerIndex": 0,
           "explanation": "کشمیری چائے کو «پستہ اور بادام» کی کترن سے سجایا جاتا ہے۔"
@@ -9484,9 +9484,9 @@
           "prompt": "اردو ادب میں دانشوروں کے روایتی اجتماع کے مقام کو کیا کہا جاتا ہے؟",
           "options": [
             "ادبی چائے خانہ / ٹی ہاؤس (Adabi chaaye-khaana / Tea house - Literary gathering hub)",
-            "شاپنگ مال (Target expression (Urdu))",
-            "سنیما گھر (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "شاپنگ مال) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)",
+            "سنیما گھر) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)",
+            "کوئی نہیں) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)"
           ],
           "answerIndex": 0,
           "explanation": "ادبی مباحثوں اور دانشورانہ نشستوں کے لیے «چائے خانہ / ٹی ہاؤس» مشہور ہے۔"
@@ -9500,9 +9500,9 @@
           "prompt": "روایتی مٹھائیاں اور چائے خانے کی ثقافت (Sweets & Tea Culture) کا فصیح جملہ پہچانیے:",
           "options": [
             "سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔ (On winter evenings enjoying strong milk tea and hot gulab jamun, intellectuals kindle the magic of philosophical and literary discussions in tea houses.)",
-            "چائے خانے نے چائے پی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "گلاب جامن صرف نمک میں تل کر کھایا جاتا ہے۔ (Target expression (Urdu))",
-            "چائے پینا اردو ادب میں منع ہے۔ (Target expression (Urdu))"
+            "چائے خانے نے چائے پی تھی اور رویا تھا۔) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)",
+            "گلاب جامن صرف نمک میں تل کر کھایا جاتا ہے۔) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)",
+            "چائے پینا اردو ادب میں منع ہے۔) (Context: روایتی مٹھائیاں، مشروبات اور چائے خ)"
           ],
           "answerIndex": 0,
           "explanation": "«سردیوں کی شاموں میں کڑک دودھ پتی چائے اور گرما گرم گلاب جامن کا لطف لیتے ہوئے اہل علم چائے خانوں میں فکری اور ادبی گفتگو کا جادو جگاتے ہیں۔» اردو کی ثقافتی و ادبی محفل کا بہترین جملہ ہے۔"
@@ -9551,9 +9551,9 @@
           "prompt": "مہمان کو کھانا شروع کرنے کی شائستہ ترین دعوت دینے کے لیے کون سا کلمہ بولا جاتا ہے؟",
           "options": [
             "نوش فرمائیے / بسم اللہ کیجیے (Nosh farmaaiye / Bismillah keejiye - Please partake of the meal)",
-            "کھاؤ جلدی کرو (غیر شائستہ) (Target expression (Urdu))",
-            "اب ختم کرو (نامناسب) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کھاؤ جلدی کرو (غیر شائستہ)) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)",
+            "اب ختم کرو (نامناسب)) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)",
+            "کوئی نہیں) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)"
           ],
           "answerIndex": 0,
           "explanation": "کھانے کی شائستہ ترین پیشکش کے لیے «نوش فرمائیے» یا «بسم اللہ کیجیے» کہا جاتا ہے۔"
@@ -9566,9 +9566,9 @@
           "prompt": "مہمان کے تردد اور جھجک کو دور کرنے کے لیے میزبان کیا جملہ کہتا ہے؟",
           "options": [
             "تکلف برطرف، یہ آپ ہی کا گھر ہے (Takalluf bar-taraf - Set formality aside, consider this your home)",
-            "آپ خاموش رہیں (Target expression (Urdu))",
-            "یہاں بیٹھنا منع ہے (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "آپ خاموش رہیں) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)",
+            "یہاں بیٹھنا منع ہے) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)",
+            "کوئی نہیں) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)"
           ],
           "answerIndex": 0,
           "explanation": "مہمان کو بے تکلف کرنے کے لیے «تکلف برطرف، یہ آپ ہی کا گھر ہے» کہا جاتا ہے۔"
@@ -9582,9 +9582,9 @@
           "prompt": "ضیافت اور دسترخوان کے آداب (Hospitality & Table Etiquette) کا فصیح ترین جملہ پہچانیے:",
           "options": [
             "صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔ (The host smiled saying: Set formality aside and please partake, this spread is yours, and guests enjoying the delicious food prayed for blessings.)",
-            "صاحب خانہ نے دسترخوان اٹھا کر گاڑی پر پھینکا تھا رویا تھا۔ (Target expression (Urdu))",
-            "تکلف برطرف کا مطلب کھانا نہ دینا ہوتا ہے۔ (Target expression (Urdu))",
-            "دسترخوان پر بات کرنا قانوناً جرم ہے۔ (Target expression (Urdu))"
+            "صاحب خانہ نے دسترخوان اٹھا کر گاڑی پر پھینکا تھا رویا تھا۔) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)",
+            "تکلف برطرف کا مطلب کھانا نہ دینا ہوتا ہے۔) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)",
+            "دسترخوان پر بات کرنا قانوناً جرم ہے۔) (Context: ضیافت، دسترخوان کے آداب اور مہمان ن)"
           ],
           "answerIndex": 0,
           "explanation": "«صاحبِ خانہ نے مسکرا کر فرمایا کہ تکلف برطرف نوش فرمائیے، یہ دسترخوان آپ ہی کا ہے، اور مہمانوں نے لذیذ کھانوں سے لطف اندوز ہو کر دعائے خیر کی۔» اردو میزبانی اور دسترخوان کے آداب کا کامل ترین شاہکار ہے۔"
@@ -9633,9 +9633,9 @@
           "prompt": "روایتی پکوانوں اور مہمان نوازی کے جامع امتزاج کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی (Masterful synthesis of Mughlai delicacies, regional sajji/saag, sweets/tea, and gracious hospitality)",
-            "ہم نے ہوٹل پر کھانا کھایا تھا اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ چائے پیتا رہتا ہے اور سو جاتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے ہوٹل پر کھانا کھایا تھا اور رویا تھا (بے ربط الفاظ)) (Context: پاکستانی پکوان اور میزبانی کا جامع )",
+            "وہ چائے پیتا رہتا ہے اور سو جاتا ہے (غیر معیاری)) (Context: پاکستانی پکوان اور میزبانی کا جامع )",
+            "کوئی نہیں) (Context: پاکستانی پکوان اور میزبانی کا جامع )"
           ],
           "answerIndex": 0,
           "explanation": "«مغلائی پکوان، علاقائی سجی و ساگ، روایتی ربڑی و چائے اور تکلف برطرف کی میزبانی» تمام ثقافتی و روایتی اسالیب کا کامل سمیکن ہے۔"
@@ -9648,9 +9648,9 @@
           "prompt": "پاکستانی اور مغلائی دسترخوان کا جامع سمیکن معاشرتی زندگی کو کیا خوبصورتی بخشتا ہے؟",
           "options": [
             "علاقائی تنوع، لذتِ کام و دہن اور پرخلوص مہمان نوازی کو باوقار ثقافتی پیرائے میں مربوط کرنا (Uniting regional diversity, exquisite flavors, and hospitality in dignified cultural harmony)",
-            "صرف ہوٹلوں کے مینو کارڈ کی فہرست بنانا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف باورچی خانے کے برتن گنوانا (محدود دائرہ) (Target expression (Urdu))",
-            "بے ذائقہ کھانوں کی تشہیر کرنا (غیر مناسب) (Target expression (Urdu))"
+            "صرف ہوٹلوں کے مینو کارڈ کی فہرست بنانا (بے فائدہ مشق)) (Context: پاکستانی پکوان اور میزبانی کا جامع )",
+            "صرف باورچی خانے کے برتن گنوانا (محدود دائرہ)) (Context: پاکستانی پکوان اور میزبانی کا جامع )",
+            "بے ذائقہ کھانوں کی تشہیر کرنا (غیر مناسب)) (Context: پاکستانی پکوان اور میزبانی کا جامع )"
           ],
           "answerIndex": 0,
           "explanation": "یہ تنوع، لذیذ کھانوں اور پرخلوص میزبانی کو باوقار ثقافتی پیرائے میں یکجا کرتا ہے۔"
@@ -9664,9 +9664,9 @@
           "prompt": "پاکستانی پکوان اور میزبانی کے جامع سمیکن (Cuisine & Hospitality Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔ (The host served saffron biryani, Pakhtun dam-pukht, and Balochi sajji saying: Set formality aside and please partake, making gathering memorable with Kashmiri pink tea.)",
-            "صاحب خانہ نے بریانی دیکھا تھا اور گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "کھانے کے بعد چائے پینا سخت ممنوع ہے۔ (Target expression (Urdu))"
+            "صاحب خانہ نے بریانی دیکھا تھا اور گاڑی روئی تھی۔) (Context: پاکستانی پکوان اور میزبانی کا جامع )",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔) (Context: پاکستانی پکوان اور میزبانی کا جامع )",
+            "کھانے کے بعد چائے پینا سخت ممنوع ہے۔) (Context: پاکستانی پکوان اور میزبانی کا جامع )"
           ],
           "answerIndex": 0,
           "explanation": "«صاحبِ خانہ نے شاہی دسترخوان پر زعفرانی بریانی، پختون دم پخت اور بلوچی سجی پیش کر کے فرمایا کہ تکلف برطرف نوش فرمائیے، اور کھانے کے بعد کشمیری گلابی چائے کے ساتھ محفل کو یادگار بنا دیا۔» پکوان اور میزبانی کا مکمل ترین شاہکار ہے۔"
@@ -9715,9 +9715,9 @@
           "prompt": "غزل کے آخری شعر کو جس میں شاعر کا تخلص موجود ہو کیا کہا جاتا ہے؟",
           "options": [
             "مقطع (Maqta - Closing couplet containing the poet's pen-name)",
-            "مطلع (پہلا شعر) (Target expression (Urdu))",
-            "قافیہ (صرف آواز) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مطلع (پہلا شعر)) (Context: غزل کے ارکان)",
+            "قافیہ (صرف آواز)) (Context: غزل کے ارکان)",
+            "کوئی نہیں) (Context: غزل کے ارکان)"
           ],
           "answerIndex": 0,
           "explanation": "تخلص پر مشتمل غزل کے آخری شعر کو «مقطع» کہا جاتا ہے۔"
@@ -9730,9 +9730,9 @@
           "prompt": "شعر کے آخر میں بار بار دہرائے جانے والے ہو بہو کلمے کو کیا کہتے ہیں؟",
           "options": [
             "ردیف (Radeef - Exact repeated refrain following the rhyme words)",
-            "مصرع (Target expression (Urdu))",
-            "بحر (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مصرع) (Context: غزل کے ارکان)",
+            "بحر) (Context: غزل کے ارکان)",
+            "کوئی نہیں) (Context: غزل کے ارکان)"
           ],
           "answerIndex": 0,
           "explanation": "ہو بہو دہرائے جانے والے کلمے کو «ردیف» (Refrain) کہتے ہیں۔"
@@ -9746,9 +9746,9 @@
           "prompt": "غزل کے ارکان (Ghazal Elements) کا فصیح جملہ پہچانیے:",
           "options": [
             "شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔ (The poet made a captivating start in the opening couplet with rhyming and refrain lines and brought his pen-name in the closing couplet reaching heights of eloquence.)",
-            "مطلع نے کھانا کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "تخلص صرف سبزیوں کے ناموں کے لیے استعمال ہوتا ہے۔ (Target expression (Urdu))",
-            "غزل میں ردیف کا ہونا سختی سے منع ہے۔ (Target expression (Urdu))"
+            "مطلع نے کھانا کھایا تھا اور رویا تھا۔) (Context: غزل کے ارکان)",
+            "تخلص صرف سبزیوں کے ناموں کے لیے استعمال ہوتا ہے۔) (Context: غزل کے ارکان)",
+            "غزل میں ردیف کا ہونا سختی سے منع ہے۔) (Context: غزل کے ارکان)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعر نے مطلع میں ہم قافیہ و ہم ردیف مصرعوں سے غزل کا پرکشش آغاز کیا اور مقطع میں اپنا تخلص لا کر کلام کو کمالِ فصاحت پر پہنچا دیا۔» غزل کے ارکان کا درست ترین نمونہ ہے۔"
@@ -9797,9 +9797,9 @@
           "prompt": "شعر میں کسی مشہور تاریخی یا قرآنی واقعے کی طرف اشارہ کرنے کو کیا کہتے ہیں؟",
           "options": [
             "تلمیح (Talmeeh - Allusion to historical, Quranic, or legendary events)",
-            "قافیہ (Target expression (Urdu))",
-            "مطلع (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "قافیہ) (Context: علمِ بیان و بدیع)",
+            "مطلع) (Context: علمِ بیان و بدیع)",
+            "کوئی نہیں) (Context: علمِ بیان و بدیع)"
           ],
           "answerIndex": 0,
           "explanation": "تاریخی یا مذہبی واقعے کے حوالے کو ادبی اصطلاح میں «تلمیح» کہا جاتا ہے۔"
@@ -9812,9 +9812,9 @@
           "prompt": "حرفِ تشبیہ کے بغیر کسی شے کو براہِ راست دوسری شے قرار دینے کو کیا کہتے ہیں؟",
           "options": [
             "استعارہ (Isti'aara - Metaphor / direct transference of identity)",
-            "کنایہ (صرف اشارہ) (Target expression (Urdu))",
-            "ردیف (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کنایہ (صرف اشارہ)) (Context: علمِ بیان و بدیع)",
+            "ردیف) (Context: علمِ بیان و بدیع)",
+            "کوئی نہیں) (Context: علمِ بیان و بدیع)"
           ],
           "answerIndex": 0,
           "explanation": "براہ راست دوسری شے قرار دینے کو «استعارہ» (Metaphor) کہتے ہیں۔"
@@ -9828,9 +9828,9 @@
           "prompt": "علمِ بیان اور صنائع بدائع (Figures of Speech) کا مستند جملہ پہچانیے:",
           "options": [
             "شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔ (The poet likened the cheek to the moon, used metaphor of lion for the brave warrior, and imparted spiritual breadth with allusion to Sinai Valley.)",
-            "استعارہ نے چائے پی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "تلمیح صرف ریاضی کے سوالات میں استعمال ہوتی ہے۔ (Target expression (Urdu))",
-            "شاعری میں تشبیہ کا استعمال مکمل ممنوع ہے۔ (Target expression (Urdu))"
+            "استعارہ نے چائے پی تھی اور رویا تھا۔) (Context: علمِ بیان و بدیع)",
+            "تلمیح صرف ریاضی کے سوالات میں استعمال ہوتی ہے۔) (Context: علمِ بیان و بدیع)",
+            "شاعری میں تشبیہ کا استعمال مکمل ممنوع ہے۔) (Context: علمِ بیان و بدیع)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعر نے محبوب کے رخسار کو چاند سے تشبیہ دی، بہادر مجاہد کے لیے شیر کا استعارہ برتا اور وادیِ سینا کی تلمیح سے کلام کو روحانی وسعت بخشی۔» علمِ بیان کا فصیح ترین شاہکار ہے۔"
@@ -9879,9 +9879,9 @@
           "prompt": "اردو شاعری میں 'فلسفۂ خودی' کس عظیم شاعر کی پہچان ہے؟",
           "options": [
             "علامہ محمد اقبال (Allama Muhammad Iqbal - Philosopher-poet of Khudi / Selfhood)",
-            "داغ دہلوی (Target expression (Urdu))",
-            "ذوق (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "داغ دہلوی) (Context: اساتذۂ سخن)",
+            "ذوق) (Context: اساتذۂ سخن)",
+            "کوئی نہیں) (Context: اساتذۂ سخن)"
           ],
           "answerIndex": 0,
           "explanation": "فلسفۂ خودی اور انقلابی فکر «علامہ محمد اقبال» کا امتیازی نشان ہے۔"
@@ -9894,9 +9894,9 @@
           "prompt": "سوز و گداز اور سہلِ ممتنع کی بدولت کس شاعر کو 'خدائے سخن' کہا جاتا ہے؟",
           "options": [
             "میر تقی میر (Mir Taqi Mir - Khuda-e-Sukhan / Master of Pathos and Simple Elegance)",
-            "آتش لکھنوی (Target expression (Urdu))",
-            "ناسخ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "آتش لکھنوی) (Context: اساتذۂ سخن)",
+            "ناسخ) (Context: اساتذۂ سخن)",
+            "کوئی نہیں) (Context: اساتذۂ سخن)"
           ],
           "answerIndex": 0,
           "explanation": "سہل ممتنع اور غم کے لافانی اظہار کی بدولت «میر تقی میر» کو خدائے سخن کہا جاتا ہے۔"
@@ -9910,9 +9910,9 @@
           "prompt": "اساتذۂ سخن اور ان کے اسالیب (Masters of Poetry) کا فصیح جملہ پہچانیے:",
           "options": [
             "اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔ (In Urdu classical poetry, Mir's pathos, Ghalib's philosophical innovation, and Iqbal's message of selfhood are the most radiant treasures of our intellectual civilization.)",
-            "غالب نے شاعری چھوڑ کر گاڑی چلائی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "میر تقی میر صرف انگریزی میں لکھتے تھے۔ (Target expression (Urdu))",
-            "شاعری کا تعلق فکری تہذیب سے کبھی نہیں رہا۔ (Target expression (Urdu))"
+            "غالب نے شاعری چھوڑ کر گاڑی چلائی تھی اور رویا تھا۔) (Context: اساتذۂ سخن)",
+            "میر تقی میر صرف انگریزی میں لکھتے تھے۔) (Context: اساتذۂ سخن)",
+            "شاعری کا تعلق فکری تہذیب سے کبھی نہیں رہا۔) (Context: اساتذۂ سخن)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو کلاسیکی شاعری میں میر کا سوز و درد، غالب کی فلسفیانہ جدت پسندی اور اقبال کا پیامِ خودی ہماری فکری و ادبی تہذیب کا سب سے تابناک سرمایہ ہیں۔» اساتذۂ سخن کے اسلوب کا کامل جملہ ہے۔"
@@ -9961,9 +9961,9 @@
           "prompt": "بحر کے اراکین کی کمی و بیشی والی جدید شعری صنف کو کیا کہتے ہیں؟",
           "options": [
             "آزاد نظم (Aazaad Nazm - Free Verse with variable metrical foot lengths)",
-            "مطلع (Target expression (Urdu))",
-            "قصیدہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مطلع) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)",
+            "قصیدہ) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)",
+            "کوئی نہیں) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)"
           ],
           "answerIndex": 0,
           "explanation": "مصرعوں میں ارکان کی آزادی والی صنف کو «آزاد نظم» (Free Verse) کہتے ہیں۔"
@@ -9976,9 +9976,9 @@
           "prompt": "ادبی تنقید میں رعایتِ لفظی اور خارجی سجاوٹ کس دبستان کا خاصہ مانی جاتی ہے؟",
           "options": [
             "دبستانِ لکھنؤ (Dabistaan-e-Lucknow - Lucknow School of external polish and wordplay)",
-            "دبستانِ دہلی (Target expression (Urdu))",
-            "دبستانِ لاہور (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "دبستانِ دہلی) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)",
+            "دبستانِ لاہور) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)",
+            "کوئی نہیں) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)"
           ],
           "answerIndex": 0,
           "explanation": "رعایتِ لفظی اور تکلف و تصنع «دبستانِ لکھنؤ» کی نمایاں خصوصیت ہے۔"
@@ -9992,9 +9992,9 @@
           "prompt": "ادبی تنقید اور جدید شعری تحریکات (Literary Criticism & Modern Poetics) کا فصیح جملہ پہچانیے:",
           "options": [
             "ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔ (Pioneers of Progressive Movement and modern free verse granted Urdu literature new horizons of realism and intellectual breadth beyond romance.)",
-            "ترقی پسند تحریک نے شاعری کو تالا لگا دیا تھا رویا تھا۔ (Target expression (Urdu))",
-            "آزاد نظم صرف گانے گانے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "تنقید کا مقصد کتابیں جلانا ہوتا ہے۔ (Target expression (Urdu))"
+            "ترقی پسند تحریک نے شاعری کو تالا لگا دیا تھا رویا تھا۔) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)",
+            "آزاد نظم صرف گانے گانے کو کہتے ہیں۔) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)",
+            "تنقید کا مقصد کتابیں جلانا ہوتا ہے۔) (Context: ادبی تنقید، دبستانِ دہلی و لکھنؤ او)"
           ],
           "answerIndex": 0,
           "explanation": "«ترقی پسند تحریک اور جدید آزاد نظم کے بانیوں نے اردو ادب کو روایتی عشقیہ دائرے سے نکال کر حقیقت پسندی اور فکری وسعتوں کے نئے افق عطا کیے۔» تنقیدی شعور کا کامل ترین جملہ ہے۔"
@@ -10043,9 +10043,9 @@
           "prompt": "اردو غزل، علمِ بیان اور ادبی تنقید کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ (Masterful synthesis of ghazal structure, poetic tropes, masters' styles, and modern critical movements)",
-            "شاعر نے کاغذ پھاڑ دیا تھا اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف شعر گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "شاعر نے کاغذ پھاڑ دیا تھا اور رویا تھا (بے ربط الفاظ)) (Context: اردو غزل، شاعری اور تنقید کا جامع س)",
+            "وہ صرف شعر گنتا رہتا ہے (غیر معیاری)) (Context: اردو غزل، شاعری اور تنقید کا جامع س)",
+            "کوئی نہیں) (Context: اردو غزل، شاعری اور تنقید کا جامع س)"
           ],
           "answerIndex": 0,
           "explanation": "«مطلع و مقطع، تشبیہ و استعارہ، اساتذۂ سخن کا اسلوب اور جدید تنقیدی تحریکات کا مربوط مطالعہ» شاعری کا مکمل سمیکن ہے۔"
@@ -10058,9 +10058,9 @@
           "prompt": "اردو شاعری اور ادبی تنقید کا جامع سمیکن قاری کو کیا شعور بخشتا ہے؟",
           "options": [
             "کلاسیکی فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم (Comprehending classical eloquence, depth of figures of speech, and aesthetics of modern movements)",
-            "صرف تخلص کی فہرست یاد کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف شاعری کی کتابیں الماری میں رکھنا (محدود دائرہ) (Target expression (Urdu))",
-            "بے تکی شاعری کی تائید کرنا (غیر تنقیدی) (Target expression (Urdu))"
+            "صرف تخلص کی فہرست یاد کرنا (بے فائدہ مشق)) (Context: اردو غزل، شاعری اور تنقید کا جامع س)",
+            "صرف شاعری کی کتابیں الماری میں رکھنا (محدود دائرہ)) (Context: اردو غزل، شاعری اور تنقید کا جامع س)",
+            "بے تکی شاعری کی تائید کرنا (غیر تنقیدی)) (Context: اردو غزل، شاعری اور تنقید کا جامع س)"
           ],
           "answerIndex": 0,
           "explanation": "یہ فصاحت، صنائع بدائع کی معنوی وسعت اور جدید فکری تحریکات کی جمالیاتی فہم فراہم کرتا ہے۔"
@@ -10074,9 +10074,9 @@
           "prompt": "اردو غزل، شاعری اور ادبی تنقید کے جامع سمیکن (Ghazal & Poetics Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔ (Urdu poetry is the greatest masterpiece of rhyme and refrain harmony from opening to closing, aesthetics of tropes, passion of Mir and Ghalib, and critical consciousness of modern verse.)",
-            "شاعر نے مقطع میں مچھلی پکائی تھی اور گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف کتاب کا سرورق ہوتا ہے۔ (Target expression (Urdu))",
-            "غزل میں قافیہ استعمال کرنا جرم ہے۔ (Target expression (Urdu))"
+            "شاعر نے مقطع میں مچھلی پکائی تھی اور گاڑی روئی تھی۔) (Context: اردو غزل، شاعری اور تنقید کا جامع س)",
+            "جامع سمیکن صرف کتاب کا سرورق ہوتا ہے۔) (Context: اردو غزل، شاعری اور تنقید کا جامع س)",
+            "غزل میں قافیہ استعمال کرنا جرم ہے۔) (Context: اردو غزل، شاعری اور تنقید کا جامع س)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو شاعری مطلع سے مقطع تک قافیہ و ردیف کی ہم آہنگی، تشبیہ و استعارہ کی جمالیات، میر و غالب کے فکری سوز و ساز اور جدید آزاد نظم کے تنقیدی شعور کا عظیم ترین شاہکار ہے۔» غزل و شاعری کا کامل ترین شاہکار ہے۔"
@@ -10125,9 +10125,9 @@
           "prompt": "بینک سے رقم نکلوانے کے لیے استعمال ہونے والی باضابطہ مالیاتی دستاویز کو کیا کہتے ہیں؟",
           "options": [
             "چیک / چیک بک (Cheque / Cheque book - Official payment order slip)",
-            "دعوت نامہ (Target expression (Urdu))",
-            "رسالہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "دعوت نامہ) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)",
+            "رسالہ) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)",
+            "کوئی نہیں) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)"
           ],
           "answerIndex": 0,
           "explanation": "بینک سے رقم نکلوانے یا ادائیگی کے لیے «چیک» استعمال کیا جاتا ہے۔"
@@ -10140,9 +10140,9 @@
           "prompt": "وہ کھاتہ جس میں عام طور پر کاروباری لین دین کے لیے روزانہ لامحدود ادائیگیاں کی جاتی ہیں کیا کہلاتا ہے؟",
           "options": [
             "کرنٹ اکاؤنٹ / جاری کھاتہ (Current Account - Non-interest commercial operating account)",
-            "صرف فکسڈ ڈپازٹ (Target expression (Urdu))",
-            "پنشن فنڈ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف فکسڈ ڈپازٹ) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)",
+            "پنشن فنڈ) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)",
+            "کوئی نہیں) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)"
           ],
           "answerIndex": 0,
           "explanation": "روزمرہ کاروباری لین دین کے لیے «کرنٹ اکاؤنٹ» کھولا جاتا ہے۔"
@@ -10156,9 +10156,9 @@
           "prompt": "بینک اکاؤنٹ اور چیک بک کے لین دین (Bank Accounts) کا فصیح جملہ پہچانیے:",
           "options": [
             "کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔ (The account holder went to the bank branch, withdrew money from the account via verified cheque, and obtained a receipt from the cashier.)",
-            "چیک نے رقم پی تھی اور گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "بینک اکاؤنٹ صرف خواب میں کھولا جاتا ہے۔ (Target expression (Urdu))",
-            "چیک بک کو دریا میں پھینکنا لازمی ہوتا ہے۔ (Target expression (Urdu))"
+            "چیک نے رقم پی تھی اور گاڑی روئی تھی۔) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)",
+            "بینک اکاؤنٹ صرف خواب میں کھولا جاتا ہے۔) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)",
+            "چیک بک کو دریا میں پھینکنا لازمی ہوتا ہے۔) (Context: بینک اکاؤنٹ، کھاتے کی اقسام اور چیک)"
           ],
           "answerIndex": 0,
           "explanation": "«کھاتہ دار نے بینک شاخ میں جا کر اپنے تصدیق شدہ چیک کے ذریعے اکاؤنٹ سے رقم نکلوائی اور کیشیئر سے وصولی کی رسید حاصل کی۔» بینکنگ کا کامل فصیح جملہ ہے۔"
@@ -10207,9 +10207,9 @@
           "prompt": "بیرونِ ملک سے اپنے ملک بھیجی جانے والی رقوم کو معاشی اصطلاح میں کیا کہتے ہیں؟",
           "options": [
             "ترسیلاتِ زر (Tarseelaat-e-zar - Foreign worker remittances)",
-            "عطیات (غیر اصطلاحی) (Target expression (Urdu))",
-            "انعامات (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "عطیات (غیر اصطلاحی)) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)",
+            "انعامات) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)",
+            "کوئی نہیں) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)"
           ],
           "answerIndex": 0,
           "explanation": "غیر ملکی رقوم کی قانونی منتقلی کو «ترسیلاتِ زر» (Remittances) کہا جاتا ہے۔"
@@ -10222,9 +10222,9 @@
           "prompt": "ایک ملک کی کرنسی کی دوسرے ملک کی کرنسی کے مقابلے میں قیمت کو کیا کہتے ہیں؟",
           "options": [
             "شرحِ تبادلہ (Sharah-e-tabaadila - Currency exchange rate)",
-            "شرحِ سود (Target expression (Urdu))",
-            "ٹیکس کی شرح (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "شرحِ سود) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)",
+            "ٹیکس کی شرح) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)",
+            "کوئی نہیں) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)"
           ],
           "answerIndex": 0,
           "explanation": "کرنسیوں کے باہمی تبادلے کی قیمت کو «شرحِ تبادلہ» (Exchange Rate) کہتے ہیں۔"
@@ -10238,9 +10238,9 @@
           "prompt": "ترسیلاتِ زر اور زرِ مبادلہ (Remittances & Forex) کا فصیح جملہ پہچانیے:",
           "options": [
             "تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔ (Remittances sent by expatriates via legal banking channels imparted extraordinary stability to national forex reserves and rupee exchange rate.)",
-            "زر مبادلہ نے بازار میں چائے پی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "ترسیلات زر صرف کبوتر کے ذریعے بھیجی جاتی ہیں۔ (Target expression (Urdu))",
-            "شرح تبادلہ معلوم کرنا قانوناً منع ہے۔ (Target expression (Urdu))"
+            "زر مبادلہ نے بازار میں چائے پی تھی اور رویا تھا۔) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)",
+            "ترسیلات زر صرف کبوتر کے ذریعے بھیجی جاتی ہیں۔) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)",
+            "شرح تبادلہ معلوم کرنا قانوناً منع ہے۔) (Context: ترسیلاتِ زر، زرِ مبادلہ اور شرحِ تب)"
           ],
           "answerIndex": 0,
           "explanation": "«تارکینِ وطن کی جانب سے قانونی بینکنگ چینلز کے ذریعے بھیجی گئی ترسیلاتِ زر نے قومی زرِ مبادلہ کے ذخائر اور روپے کی شرحِ تبادلہ کو غیر معمولی استحکام بخشا۔» ترسیلاتِ زر کا کامل جملہ ہے۔"
@@ -10289,9 +10289,9 @@
           "prompt": "بینک کی طرف سے سیکیورٹی تصدیق کے لیے بھیجے جانے والے عارضی کوڈ کو کیا کہتے ہیں؟",
           "options": [
             "او ٹی پی / ون ٹائم پاس ورڈ (OTP / One-Time Password - Temporary verification code)",
-            "مستقل اشتہار (Target expression (Urdu))",
-            "بینک کا نام (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مستقل اشتہار) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)",
+            "بینک کا نام) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)",
+            "کوئی نہیں) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)"
           ],
           "answerIndex": 0,
           "explanation": "عارضی تصدیقی کوڈ کو «او ٹی پی» (OTP) کہا جاتا ہے۔"
@@ -10304,9 +10304,9 @@
           "prompt": "پاکستان میں مرکزی بینک کا فوری اور مفت ڈیجیٹل ادائیگیوں کا نظام کس نام سے معروف ہے؟",
           "options": [
             "راست (Raast - Pakistan's instant digital payment system)",
-            "ڈاک خانہ (Target expression (Urdu))",
-            "ریلوے (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ڈاک خانہ) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)",
+            "ریلوے) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)",
+            "کوئی نہیں) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)"
           ],
           "answerIndex": 0,
           "explanation": "فوری ڈیجیٹل ادائیگیوں کے قومی نظام کو «راست» (Raast) کہا جاتا ہے۔"
@@ -10320,9 +10320,9 @@
           "prompt": "ڈیجیٹل بینکنگ اور موبائل والٹ (Digital Banking & Fintech) کا فصیح جملہ پہچانیے:",
           "options": [
             "صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔ (The user entered Raast ID on mobile banking app, completed instant funds transfer, and obtained instant digital receipt after OTP verification.)",
-            "موبائل ایپ نے پیسے کھائے تھے اور روئی تھی۔ (Target expression (Urdu))",
-            "او ٹی پی کوڈ سب کو بتا دینا لازمی ہوتا ہے۔ (Target expression (Urdu))",
-            "ڈیجیٹل والٹ صرف کاغذ پر پرنٹ کر کے کام کرتا ہے۔ (Target expression (Urdu))"
+            "موبائل ایپ نے پیسے کھائے تھے اور روئی تھی۔) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)",
+            "او ٹی پی کوڈ سب کو بتا دینا لازمی ہوتا ہے۔) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)",
+            "ڈیجیٹل والٹ صرف کاغذ پر پرنٹ کر کے کام کرتا ہے۔) (Context: ڈیجیٹل بینکنگ، موبائل والٹ اور آن ل)"
           ],
           "answerIndex": 0,
           "explanation": "«صارف نے موبائل بینکنگ ایپ پر راست آئی ڈی درج کر کے فوری فنڈز ٹرانسفر مکمل کیا اور او ٹی پی کی تصدیق کے بعد فوری ڈیجیٹل رسید حاصل کی۔» ڈیجیٹل بینکنگ کا فصیح ترین جملہ ہے۔"
@@ -10371,9 +10371,9 @@
           "prompt": "اسلامی بینکاری میں ایک فریق کے سرمائے اور دوسرے کی محنت پر مبنی شراکت کو کیا کہتے ہیں؟",
           "options": [
             "مضاربہ (Mudarabah - Partnership where one provides capital and the other manages/works)",
-            "قرضِ حسنہ (Target expression (Urdu))",
-            "سود (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "قرضِ حسنہ) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)",
+            "سود) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)",
+            "کوئی نہیں) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)"
           ],
           "answerIndex": 0,
           "explanation": "سرمائے اور محنت کی باہمی شراکت کو «مضاربہ» (Mudarabah) کہتے ہیں۔"
@@ -10386,9 +10386,9 @@
           "prompt": "روایتی انشورنس کے متبادل اسلامی باہمی تحفظ کے نظام کو کیا کہا جاتا ہے؟",
           "options": [
             "تکافل (Takaful - Shariah-compliant mutual insurance system)",
-            "لاٹری (Target expression (Urdu))",
-            "بینک ڈرافٹ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "لاٹری) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)",
+            "بینک ڈرافٹ) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)",
+            "کوئی نہیں) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)"
           ],
           "answerIndex": 0,
           "explanation": "شریعت کے مطابق باہمی بیمہ کاری کو «تکافل» (Takaful) کہتے ہیں۔"
@@ -10402,9 +10402,9 @@
           "prompt": "اسلامی بینکاری اور تکافل (Islamic Banking & Takaful) کا فصیح جملہ پہچانیے:",
           "options": [
             "اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔ (Islamic banking under Shariah board supervision provides halal financial services via usury-free Mudarabah, Musharakah, and Takaful systems.)",
-            "مضاربہ نے حلوہ کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "اسلامی بینکنگ میں سود لینا لازمی ہوتا ہے۔ (Target expression (Urdu))",
-            "تکافل صرف پانی کے جہاز کا نام ہے۔ (Target expression (Urdu))"
+            "مضاربہ نے حلوہ کھایا تھا اور رویا تھا۔) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)",
+            "اسلامی بینکنگ میں سود لینا لازمی ہوتا ہے۔) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)",
+            "تکافل صرف پانی کے جہاز کا نام ہے۔) (Context: اسلامی بینکنگ، مضاربہ، مشارکہ اور ت)"
           ],
           "answerIndex": 0,
           "explanation": "«اسلامی بینکاری شریعہ بورڈ کی زیرِ نگرانی ربا سے پاک مضاربہ و مشارکہ کے منصفانہ اصولوں اور تکافل کے نظام کے ذریعے حلال مالیاتی خدمات فراہم کرتی ہے۔» اسلامی فنانس کا کامل ترین جملہ ہے۔"
@@ -10453,9 +10453,9 @@
           "prompt": "بینکنگ، ترسیلاتِ زر اور ڈیجیٹل معیشت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ (Masterful synthesis of account operations, legal remittances, Raast fintech, and Islamic banking)",
-            "ہم نے بینک کے سامنے چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف نقد نوٹ گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے بینک کے سامنے چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)",
+            "وہ صرف نقد نوٹ گنتا رہتا ہے (غیر معیاری)) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)",
+            "کوئی نہیں) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)"
           ],
           "answerIndex": 0,
           "explanation": "«کھاتہ داری، قانونی ترسیلاتِ زر، راست فنڈز منتقلی اور اسلامی بینکاری کا مربوط مطالعہ» تمام مالیاتی اسالیب کا کامل سمیکن ہے۔"
@@ -10468,9 +10468,9 @@
           "prompt": "ڈیجیٹل معیشت اور اسلامی بینکاری کا جامع سمیکن قومی معیشت کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
             "شفاف اور فوری لین دین، زرِ مبادلہ کا استحکام، اور سود سے پاک منصفانہ مالیاتی نظام کا قیام (Transparent instant transactions, forex stability, and equitable interest-free financial system)",
-            "صرف کاغذی رسیدوں کا انبار لگانا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف اے ٹی ایم کارڈ کی تصویریں بنانا (محدود دائرہ) (Target expression (Urdu))",
-            "غیر قانونی ہنڈی کو فروغ دینا (تباہ کن) (Target expression (Urdu))"
+            "صرف کاغذی رسیدوں کا انبار لگانا (بے فائدہ مشق)) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)",
+            "صرف اے ٹی ایم کارڈ کی تصویریں بنانا (محدود دائرہ)) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)",
+            "غیر قانونی ہنڈی کو فروغ دینا (تباہ کن)) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)"
           ],
           "answerIndex": 0,
           "explanation": "یہ شفاف لین دین، زرِ مبادلہ کے استحکام اور سود سے پاک نظام کا قیام یقینی بناتا ہے۔"
@@ -10484,9 +10484,9 @@
           "prompt": "بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت کے جامع سمیکن (Banking & Finance Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔ (Modern banking from cheque books to Raast digital wallets, remittances, and Islamic Musharakah/Mudarabah structured the economy on secure foundations.)",
-            "بینک نے والٹ کو پانی میں دھویا تھا اور گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف بینک کے تالے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "بینکنگ میں ڈیجیٹل ٹیکنالوجی کا استعمال غیر قانونی ہے۔ (Target expression (Urdu))"
+            "بینک نے والٹ کو پانی میں دھویا تھا اور گاڑی روئی تھی۔) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)",
+            "جامع سمیکن صرف بینک کے تالے کو کہتے ہیں۔) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)",
+            "بینکنگ میں ڈیجیٹل ٹیکنالوجی کا استعمال غیر قانونی ہے۔) (Context: بینکنگ، ترسیلات زر اور ڈیجیٹل معیشت)"
           ],
           "answerIndex": 0,
           "explanation": "«جدید بینکنگ نے روایتی چیک بک سے لے کر راست ڈیجیٹل والٹس، قانونی ترسیلاتِ زر اور سود سے پاک اسلامی مشارکہ و مضاربہ کے ذریعے معیشت کو محفوظ اور مستحکم بنیادوں پر استوار کیا۔» بینکاری کا کامل ترین شاہکار ہے۔"
@@ -10535,9 +10535,9 @@
           "prompt": "پاکستان کے سب سے بڑے دریا کے بہاؤ اور اس کے معاون دریاؤں کے پورے خطے کو کیا کہا جاتا ہے؟",
           "options": [
             "دریائے سندھ کا طاس (Indus River Basin - River catchment and hydrological drainage system)",
-            "صرف ایک نہر (Target expression (Urdu))",
-            "صرف ایک تالاب (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ایک نہر) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)",
+            "صرف ایک تالاب) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)",
+            "کوئی نہیں) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)"
           ],
           "answerIndex": 0,
           "explanation": "پورے دریا اور اس کے معاون آبی نظام کو «دریائے سندھ کا طاس» (Indus Basin) کہا جاتا ہے۔"
@@ -10550,9 +10550,9 @@
           "prompt": "زمین کے نیچے موجود پانی کی قدرتی سطح کو سائنسی زبان میں کیا کہا جاتا ہے؟",
           "options": [
             "واٹر ٹیبل / زیرِ زمین آبی سطح (Water Table - Depth below which the ground is saturated with water)",
-            "بارش کا پانی (Target expression (Urdu))",
-            "ندی نالے (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "بارش کا پانی) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)",
+            "ندی نالے) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)",
+            "کوئی نہیں) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)"
           ],
           "answerIndex": 0,
           "explanation": "زیرِ زمین پانی کی سطح کو «واٹر ٹیبل» (Water Table) کہتے ہیں۔"
@@ -10566,9 +10566,9 @@
           "prompt": "دریائے سندھ کے طاس اور آبی وسائل (Indus Basin & Hydrology) کا فصیح جملہ پہچانیے:",
           "options": [
             "ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔ (The melting of Himalayan glaciers directly controls the water storage and Tarbela Dam's irrigation and hydroelectric capacity in Indus Basin.)",
-            "گلیشیئر نے کھانا کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "دریائے سندھ صرف صحرا میں خشک ہو کر گاڑی بن جاتا ہے۔ (Target expression (Urdu))",
-            "ڈیم میں پانی جمع کرنا قانوناً منع ہے۔ (Target expression (Urdu))"
+            "گلیشیئر نے کھانا کھایا تھا اور رویا تھا۔) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)",
+            "دریائے سندھ صرف صحرا میں خشک ہو کر گاڑی بن جاتا ہے۔) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)",
+            "ڈیم میں پانی جمع کرنا قانوناً منع ہے۔) (Context: دریائے سندھ کا طاس، گلیشیئرز کا پگھ)"
           ],
           "answerIndex": 0,
           "explanation": "«ہمالیائی گلیشیئرز کا پگھلاؤ دریائے سندھ کے طاس میں آبی ذخائر اور تربیلا ڈیم کی آبپاشی و پن بجلی کی صلاحیت کو براہِ راست کنٹرول کرتا ہے۔» ہائیڈرولوجیکل فصاحت کا کامل نمونہ ہے۔"
@@ -10617,9 +10617,9 @@
           "prompt": "پانی کی زیادتی اور نمکیات کے باعث زمین کے بنجر ہونے کے مرض کو اردو میں کیا کہتے ہیں؟",
           "options": [
             "سیم و تھور (Seim-o-thoor - Waterlogging and Soil Salinity)",
-            "صرف جنگل (Target expression (Urdu))",
-            "صرف پہاڑ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف جنگل) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)",
+            "صرف پہاڑ) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)",
+            "کوئی نہیں) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)"
           ],
           "answerIndex": 0,
           "explanation": "پانی اور نمکیات کے بگاڑ سے زمین کے بنجر ہونے کو «سیم و تھور» کہا جاتا ہے۔"
@@ -10632,9 +10632,9 @@
           "prompt": "پانی کی بچت کے لیے پودوں کی جڑوں میں براہ راست پانی پہنچانے کے جدید طریقے کو کیا کہتے ہیں؟",
           "options": [
             "قطرہ قطرہ آبپاشی / ڈرپ اریگیشن (Drip Irrigation - Micro-irrigation conserving water at roots)",
-            "سیلاب کا پانی (Target expression (Urdu))",
-            "بارش کا انتظار (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "سیلاب کا پانی) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)",
+            "بارش کا انتظار) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)",
+            "کوئی نہیں) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)"
           ],
           "answerIndex": 0,
           "explanation": "جڑوں تک قطرہ قطرہ پانی پہنچانے کے جدید طریقے کو «ڈرپ اریگیشن» کہتے ہیں۔"
@@ -10648,9 +10648,9 @@
           "prompt": "نظامِ آبپاشی اور سیم و تھور (Irrigation & Salinity) کا فصیح جملہ پہچانیے:",
           "options": [
             "نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔ (By lining canal watercourses and scientific drainage management, salinity/waterlogging can be eliminated and soil productivity restored.)",
-            "نہر نے چائے پی تھی اور روئی تھی۔ (Target expression (Urdu))",
-            "سیم و تھور صرف چاند پر ہوتا ہے۔ (Target expression (Urdu))",
-            "ڈرپ اریگیشن کا مطلب دریا کو سکھا دینا ہے۔ (Target expression (Urdu))"
+            "نہر نے چائے پی تھی اور روئی تھی۔) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)",
+            "سیم و تھور صرف چاند پر ہوتا ہے۔) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)",
+            "ڈرپ اریگیشن کا مطلب دریا کو سکھا دینا ہے۔) (Context: نظامِ آبپاشی، سیم و تھور اور زرعی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«نہری کھالوں کی پختگی اور نکاسیِ آب کے سائنسی انتظام کے ذریعے سیم و تھور کا خاتمہ کر کے زرعی اراضی کی پیداواری صلاحیت کو بحال کیا جا سکتا ہے۔» زرعی و نہری اصطلاحات کا کامل جملہ ہے۔"
@@ -10699,9 +10699,9 @@
           "prompt": "سردیوں میں دھوئیں اور دھند کے زہریلے آمیزے سے پیدا ہونے والی فضائی آلودگی کو کیا کہتے ہیں؟",
           "options": [
             "سموگ (Smog - Toxic blend of smoke, fog, and particulate matter)",
-            "صاف بارش (Target expression (Urdu))",
-            "برفباری (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صاف بارش) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)",
+            "برفباری) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)",
+            "کوئی نہیں) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)"
           ],
           "answerIndex": 0,
           "explanation": "دھوئیں اور دھند کے آلودہ آمیزے کو «سموگ» (Smog) کہتے ہیں۔"
@@ -10714,9 +10714,9 @@
           "prompt": "ماحولیات کو بچانے کے لیے وسیع پیمانے پر درخت لگانے کے عمل کو اردو میں کیا کہتے ہیں؟",
           "options": [
             "شجرکاری / شجرکاری مہم (Shajar-kaari - Tree plantation / Afforestation drive)",
-            "درخت کاٹنا (Target expression (Urdu))",
-            "فیکٹری لگانا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "درخت کاٹنا) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)",
+            "فیکٹری لگانا) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)",
+            "کوئی نہیں) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)"
           ],
           "answerIndex": 0,
           "explanation": "درخت لگانے کی مہم کو «شجرکاری» کہا جاتا ہے۔"
@@ -10730,9 +10730,9 @@
           "prompt": "موسمیاتی تبدیلی اور ماحولیات (Climate Change & Smog) کا مستند جملہ پہچانیے:",
           "options": [
             "موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔ (To overcome climate change and toxic effects of smog, reduction in carbon emissions and sustained countrywide tree plantation are imperative.)",
-            "سموگ نے گرم چائے پی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "شجرکاری صرف پینٹنگ بنانے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "موسمیاتی تبدیلی کا ماحول پر کوئی اثر نہیں ہوتا۔ (Target expression (Urdu))"
+            "سموگ نے گرم چائے پی تھی اور رویا تھا۔) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)",
+            "شجرکاری صرف پینٹنگ بنانے کو کہتے ہیں۔) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)",
+            "موسمیاتی تبدیلی کا ماحول پر کوئی اثر نہیں ہوتا۔) (Context: موسمیاتی تبدیلیاں، سموگ، آلودگی اور)"
           ],
           "answerIndex": 0,
           "explanation": "«موسمیاتی تبدیلیوں اور سموگ کے زہریلے اثرات کو شکست دینے کے لیے کاربن کے اخراج میں کمی اور ملک گیر شجرکاری کا پائیدار تسلسل ناگزیر ہے۔» ماحولیاتی فصاحت کا کامل ترین جملہ ہے۔"
@@ -10781,9 +10781,9 @@
           "prompt": "موسمِ سرما میں کاشت کی جانے والی زرعی فصلوں (جیسے گندم اور سرسوں) کو کیا کہتے ہیں؟",
           "options": [
             "ربیع کی فصلیں (Rabi crops - Winter sown crops like wheat, barley, and mustard)",
-            "خریف کی فصلیں (گرما) (Target expression (Urdu))",
-            "صرف باغبانی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "خریف کی فصلیں (گرما)) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)",
+            "صرف باغبانی) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)",
+            "کوئی نہیں) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)"
           ],
           "answerIndex": 0,
           "explanation": "موسم سرما کی فصلوں کو «ربیع کی فصلیں» (Rabi crops) کہا جاتا ہے۔"
@@ -10796,9 +10796,9 @@
           "prompt": "ملک کے تمام شہریوں کو سستی اور غذائیت سے بھرپور خوراک کی مسلسل دستیابی کو کیا کہتے ہیں؟",
           "options": [
             "غذائی تحفظ / فوڈ سیکیورٹی (Food Security - Constant access to sufficient, safe, and nutritious food)",
-            "صرف راشن کارڈ (Target expression (Urdu))",
-            "ہوٹلنگ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف راشن کارڈ) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)",
+            "ہوٹلنگ) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)",
+            "کوئی نہیں) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)"
           ],
           "answerIndex": 0,
           "explanation": "خوراک کی یقینی فراہمی کو «غذائی تحفظ» (Food Security) کہتے ہیں۔"
@@ -10812,9 +10812,9 @@
           "prompt": "زرعی سیزن اور غذائی تحفظ (Crop Cycles & Food Security) کا فصیح جملہ پہچانیے:",
           "options": [
             "ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔ (Timely sowing of Rabi and Kharif crops, use of certified seeds, and agronomic research are foundational pillars of national food security.)",
-            "گندم نے چاول کو کھایا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "کپاس صرف سردیوں میں کھائی جانے والی مٹھائی ہے۔ (Target expression (Urdu))",
-            "غذائی تحفظ کا تعلق زراعت سے نہیں ہوتا۔ (Target expression (Urdu))"
+            "گندم نے چاول کو کھایا تھا اور رویا تھا۔) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)",
+            "کپاس صرف سردیوں میں کھائی جانے والی مٹھائی ہے۔) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)",
+            "غذائی تحفظ کا تعلق زراعت سے نہیں ہوتا۔) (Context: فصلیں، پیداواری سائیکل اور غذائی تح)"
           ],
           "answerIndex": 0,
           "explanation": "«ربیع اور خریف کی فصلوں کی بروقت کاشت، جدید بیجوں کا استعمال اور زرعی تحقیق ملک کے غذائی تحفظ اور معاشی خودمختاری کے بنیادی ستون ہیں۔» زرعی معاشیات کا مستند جملہ ہے۔"
@@ -10863,9 +10863,9 @@
           "prompt": "ماحولیات، وادیِ سندھ کی زراعت اور آبی وسائل کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ (Masterful synthesis of Indus basin, glaciers, canal drainage, anti-smog afforestation, and food security)",
-            "ہم نے کھیت میں بیٹھ کر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف درختوں کے پتے گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے کھیت میں بیٹھ کر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)",
+            "وہ صرف درختوں کے پتے گنتا رہتا ہے (غیر معیاری)) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)",
+            "کوئی نہیں) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«انڈس بیسن، گلیشیئرز، نہری نظام، سیم و تھور کا تدارک، شجرکاری اور غذائی تحفظ کا مربوط مطالعہ» تمام ماحولیاتی و زرعی اسالیب کا کامل سمیکن ہے۔"
@@ -10878,9 +10878,9 @@
           "prompt": "ماحولیاتی توازن اور جدید زرعی انتظام کا جامع سمیکن معاشرے کو کیا تحفظ فراہم کرتا ہے؟",
           "options": [
             "آبی وسائل کی بقا، سموگ و آلودگی کا خاتمہ، اور پائیدار زرعی پیداوار کے ذریعے خودکفالت (Preserving water resources, eradicating smog, and securing self-reliance via sustainable agriculture)",
-            "صرف خشک سالی کا انتظار کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف ٹیوب ویل کے پمپ کی تصاویر جمع کرنا (محدود دائرہ) (Target expression (Urdu))",
-            "جنگلات کی کٹائی کی حمایت کرنا (ماحولیاتی تباہی) (Target expression (Urdu))"
+            "صرف خشک سالی کا انتظار کرنا (بے فائدہ مشق)) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)",
+            "صرف ٹیوب ویل کے پمپ کی تصاویر جمع کرنا (محدود دائرہ)) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)",
+            "جنگلات کی کٹائی کی حمایت کرنا (ماحولیاتی تباہی)) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ آبی بقا، سموگ کا خاتمہ اور پائیدار زرعی پیداوار کے ذریعے خودکفالت فراہم کرتا ہے۔"
@@ -10894,9 +10894,9 @@
           "prompt": "ماحولیات، زراعت اور آبی وسائل کے جامع سمیکن (Ecology & Agriculture Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔ (The agricultural survival of Indus Valley rests upon glacier stewardship, scientific canal management, anti-smog afforestation, and Rabi-Kharif food security.)",
-            "کسان نے گلیشیئر کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانی نہر کے پل کو کہتے ہیں۔ (Target expression (Urdu))",
-            "پانی اور خوراک کے تحفظ کا آپس میں کوئی تعلق نہیں۔ (Target expression (Urdu))"
+            "کسان نے گلیشیئر کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)",
+            "جامع سمیکن صرف پرانی نہر کے پل کو کہتے ہیں۔) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)",
+            "پانی اور خوراک کے تحفظ کا آپس میں کوئی تعلق نہیں۔) (Context: ماحولیات، زراعت اور آبی وسائل کا جا)"
           ],
           "answerIndex": 0,
           "explanation": "«وادیِ سندھ کی زرعی بقا اور ماحولیاتی تحفظ کا انحصار ہمالیائی گلیشیئرز کی نگہداشت، نہری نظام کے سائنسی انتظام، سموگ کے تدارک کے لیے شجرکاری اور ربیع و خریف کے غذائی تحفظ پر ہے۔» ماحولیاتی اور زرعی سمیکن کا کامل ترین شاہکار ہے۔"
@@ -10945,9 +10945,9 @@
           "prompt": "افسانے کی اس بنیادی خوبی کو کیا کہتے ہیں جس کی وجہ سے پوری کہانی ایک واحد اور گہرا تاثر قائم کرتی ہے؟",
           "options": [
             "وحدتِ تاثر (Wahdat-e-ta'assur - Unity of impression / Singular emotional effect)",
-            "صرف اخبار کی خبر (Target expression (Urdu))",
-            "صرف خط لکھنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف اخبار کی خبر) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)",
+            "صرف خط لکھنا) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)",
+            "کوئی نہیں) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)"
           ],
           "answerIndex": 0,
           "explanation": "افسانے کی روح کو «وحدتِ تاثر» (Unity of Effect) کہا جاتا ہے۔"
@@ -10960,9 +10960,9 @@
           "prompt": "افسانے یا ڈرامے کے اس انتہائی ہیجان انگیز موڑ کو کیا کہتے ہیں جہاں کہانی اپنے عروج پر پہنچتی ہے؟",
           "options": [
             "نکتۂ عروج / کلائمیکس (Nuqta-e-urooj - Narrative Climax / Peak of dramatic tension)",
-            "دیباچہ (Target expression (Urdu))",
-            "فہرست (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "دیباچہ) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)",
+            "فہرست) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)",
+            "کوئی نہیں) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)"
           ],
           "answerIndex": 0,
           "explanation": "کہانی کے جذباتی اور ڈرامائی انتہا کو «نکتۂ عروج» (Climax) کہتے ہیں۔"
@@ -10976,9 +10976,9 @@
           "prompt": "اردو افسانہ نگاری کے فنی ارکان (Urdu Short Story Technique) کا فصیح جملہ پہچانیے:",
           "options": [
             "اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔ (The Urdu short story, via unity of impression, realistic characterization, and natural dialogues, takes human psychology to a climax leaving an immortal impact.)",
-            "افسانے نے چائے میں بسکٹ ڈبو کر گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "وحدت تاثر صرف بازار کی دکان کو کہتے ہیں۔ (Target expression (Urdu))",
-            "افسانے میں کردار نگاری کرنا منع ہے۔ (Target expression (Urdu))"
+            "افسانے نے چائے میں بسکٹ ڈبو کر گاڑی چلائی تھی۔) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)",
+            "وحدت تاثر صرف بازار کی دکان کو کہتے ہیں۔) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)",
+            "افسانے میں کردار نگاری کرنا منع ہے۔) (Context: افسانہ نگاری کے ارکان، پلاٹ اور کرد)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔» افسانوی تنقید کا مستند ترین جملہ ہے۔"
@@ -11027,9 +11027,9 @@
           "prompt": "ناول میں انسانی ذہن کے خیالات کے بے ساختہ اور مسلسل بہاؤ کو پیش کرنے والی جدید تکنیک کو کیا کہتے ہیں؟",
           "options": [
             "شعور کی رو (Shu'oor ki raw - Stream of Consciousness technique)",
-            "صرف سیدھا قصہ (Target expression (Urdu))",
-            "صرف مزاحیہ نظم (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف سیدھا قصہ) (Context: اردو ناول کی روایت، طویل بیانیہ اور)",
+            "صرف مزاحیہ نظم) (Context: اردو ناول کی روایت، طویل بیانیہ اور)",
+            "کوئی نہیں) (Context: اردو ناول کی روایت، طویل بیانیہ اور)"
           ],
           "answerIndex": 0,
           "explanation": "خیالات کے اندرونی بہاؤ کی تکنیک کو «شعور کی رو» (Stream of Consciousness) کہتے ہیں۔"
@@ -11042,9 +11042,9 @@
           "prompt": "برصغیر کی تقسیم اور تحریکِ آزادی کے المیے پر لکھا گیا عبداللہ حسین کا شہرۂ آفاق ناول کون سا ہے؟",
           "options": [
             "اداس نسلیں (Udaas Naslein - Masterpiece novel on Partition and generation of turmoil)",
-            "علی پور کا ایلی (Target expression (Urdu))",
-            "راجہ گدھ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "علی پور کا ایلی) (Context: اردو ناول کی روایت، طویل بیانیہ اور)",
+            "راجہ گدھ) (Context: اردو ناول کی روایت، طویل بیانیہ اور)",
+            "کوئی نہیں) (Context: اردو ناول کی روایت، طویل بیانیہ اور)"
           ],
           "answerIndex": 0,
           "explanation": "تقسیم کے المیے پر عبداللہ حسین کا ناول «اداس نسلیں» ہے۔"
@@ -11058,9 +11058,9 @@
           "prompt": "اردو ناول اور طویل بیانیے کی روایت (Urdu Novel & Evolution) کا مستند جملہ پہچانیے:",
           "options": [
             "اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔ (The Urdu novel from Umrao Jan Ada's Lakhnawi culture to Qurratulain's Aag Ka Darya and Abdullah Hussain's Udaas Naslein is an epic chronicle of socio-cultural tragedies.)",
-            "ناول نے اخبار کو پانی میں ڈالا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "ناول صرف دس سطروں پر مشتمل ہوتا ہے۔ (Target expression (Urdu))",
-            "شعور کی رو کا تعلق ادبی تکنیک سے بالکل نہیں ہے۔ (Target expression (Urdu))"
+            "ناول نے اخبار کو پانی میں ڈالا تھا اور رویا تھا۔) (Context: اردو ناول کی روایت، طویل بیانیہ اور)",
+            "ناول صرف دس سطروں پر مشتمل ہوتا ہے۔) (Context: اردو ناول کی روایت، طویل بیانیہ اور)",
+            "شعور کی رو کا تعلق ادبی تکنیک سے بالکل نہیں ہے۔) (Context: اردو ناول کی روایت، طویل بیانیہ اور)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔» ناول کی روایت کا کامل ترین جملہ ہے۔"
@@ -11109,9 +11109,9 @@
           "prompt": "ترقی پسند تحریک کا بنیادی فلسفہ اور منشور کیا تھا؟",
           "options": [
             "ادب برائے زندگی اور سماجی حقیقت پسندی (Literature for life and social realism - Fighting inequality)",
-            "ادب برائے تفریح (Target expression (Urdu))",
-            "صرف شاہی دربار کی تعریف (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ادب برائے تفریح) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)",
+            "صرف شاہی دربار کی تعریف) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)",
+            "کوئی نہیں) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)"
           ],
           "answerIndex": 0,
           "explanation": "ترقی پسند تحریک کا بنیادی نعرہ «ادب برائے زندگی» (Literature for Life) تھا۔"
@@ -11124,9 +11124,9 @@
           "prompt": "ترقی پسند مصنفین کے پہلے صدارتی خطبے میں 'ہمیں حسن کا معیار بدلنا ہوگا' کا تاریخی جملہ کس نے کہا تھا؟",
           "options": [
             "منشی پریم چند (Munshi Premchand - Iconic address at first Progressive Writers Conference 1936)",
-            "غالب (Target expression (Urdu))",
-            "میر تقی میر (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "غالب) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)",
+            "میر تقی میر) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)",
+            "کوئی نہیں) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تاریخی صدارتی خطبہ «منشی پریم چند» نے دیا تھا۔"
@@ -11140,9 +11140,9 @@
           "prompt": "ترقی پسند تحریک اور حقیقت نگاری (Progressive Realism) کا مستند جملہ پہچانیے:",
           "options": [
             "ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔ (The Progressive Movement, through Literature for Life manifesto and realism of Premchand, Manto, and Chughtai, shook feudalism and social disparity.)",
-            "ترقی پسند تحریک نے حلوہ کھا کر درخت پر چھلانگ لگائی تھی اور روئی تھی۔ (Target expression (Urdu))",
-            "انگارے صرف باورچی خانے کے کوئلوں کا نام ہوتا ہے۔ (Target expression (Urdu))",
-            "ترقی پسند ادب صرف پریوں کے قصے سناتا ہے۔ (Target expression (Urdu))"
+            "ترقی پسند تحریک نے حلوہ کھا کر درخت پر چھلانگ لگائی تھی اور روئی تھی۔) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)",
+            "انگارے صرف باورچی خانے کے کوئلوں کا نام ہوتا ہے۔) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)",
+            "ترقی پسند ادب صرف پریوں کے قصے سناتا ہے۔) (Context: ترقی پسند تحریک، انگارے اور حقیقت ن)"
           ],
           "answerIndex": 0,
           "explanation": "«ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔» ترقی پسند ادب کا فصیح جملہ ہے۔"
@@ -11191,9 +11191,9 @@
           "prompt": "اردو کے کس عظیم افسانہ نگار نے داستانوی اسلوب اور بدھ مت کی جاتک کتھاؤں کو علامت کے طور پر برتا؟",
           "options": [
             "انتظار حسین (Intizar Hussain - Master of mythological, parabolic, and nostalgic short fiction)",
-            "ڈپٹی نذیر احمد (Target expression (Urdu))",
-            "میر امن (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ڈپٹی نذیر احمد) (Context: جدید علامتی، تجریدی افسانہ اور وجود)",
+            "میر امن) (Context: جدید علامتی، تجریدی افسانہ اور وجود)",
+            "کوئی نہیں) (Context: جدید علامتی، تجریدی افسانہ اور وجود)"
           ],
           "answerIndex": 0,
           "explanation": "اساطیری اور داستانوی علامت نگاری کے امام «انتظار حسین» ہیں۔"
@@ -11206,9 +11206,9 @@
           "prompt": "انسانی وجود کی تنہائی، خوف اور لایعنیت کے فلسفے پر مبنی ادبی دبستان کو کیا کہتے ہیں؟",
           "options": [
             "وجودیت / وجودی فلسفہ (Existentialism - Literary and philosophical focus on individual existence and absurdity)",
-            "صرف خطابت (Target expression (Urdu))",
-            "صرف مزاح (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف خطابت) (Context: جدید علامتی، تجریدی افسانہ اور وجود)",
+            "صرف مزاح) (Context: جدید علامتی، تجریدی افسانہ اور وجود)",
+            "کوئی نہیں) (Context: جدید علامتی، تجریدی افسانہ اور وجود)"
           ],
           "answerIndex": 0,
           "explanation": "انسان کی داخلی تنہائی اور وجود کے مطالعے کو «وجودیت» (Existentialism) کہتے ہیں۔"
@@ -11222,9 +11222,9 @@
           "prompt": "علامتی اور تجریدی اردو افسانے (Symbolic & Abstract Urdu Fiction) کا مستند جملہ پہچانیے:",
           "options": [
             "جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔ (Modern Urdu short story, through Intizar Hussain's mythological style and symbolic techniques, is a profound interpreter of existential angst and nostalgia.)",
-            "علامتی افسانے نے روٹی کھائی تھی اور گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "تجریدی افسانہ صرف تصویروں کی کتاب ہوتا ہے۔ (Target expression (Urdu))",
-            "انتظار حسین صرف بچوں کے کارٹون لکھتے تھے۔ (Target expression (Urdu))"
+            "علامتی افسانے نے روٹی کھائی تھی اور گاڑی روئی تھی۔) (Context: جدید علامتی، تجریدی افسانہ اور وجود)",
+            "تجریدی افسانہ صرف تصویروں کی کتاب ہوتا ہے۔) (Context: جدید علامتی، تجریدی افسانہ اور وجود)",
+            "انتظار حسین صرف بچوں کے کارٹون لکھتے تھے۔) (Context: جدید علامتی، تجریدی افسانہ اور وجود)"
           ],
           "answerIndex": 0,
           "explanation": "«جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔» علامتی فکشن کا شاہکار جملہ ہے۔"
@@ -11273,9 +11273,9 @@
           "prompt": "اردو افسانہ، ناول اور نثری شاہکاروں کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ (Masterful synthesis of short story elements, novels, Progressive realism, and symbolic existentialism)",
-            "ہم نے کتاب کے اوراق پر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے کتاب کے اوراق پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)",
+            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (غیر معیاری)) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)",
+            "کوئی نہیں) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)"
           ],
           "answerIndex": 0,
           "explanation": "«افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ» فکشن کا کامل سمیکن ہے۔"
@@ -11288,9 +11288,9 @@
           "prompt": "اردو فکشن اور نثری شاہکاروں کا جامع سمیکن قاری میں کیا صلاحیت پیدا کرتا ہے؟",
           "options": [
             "اعلیٰ نثری جمالیات، اسلوبیاتی تنوع کی تفہیم، اور سماجی و وجودی حقیقتوں کا تنقیدی شعور (Appreciating advanced prose aesthetics, stylistic diversity, and critical understanding of socio-existential realities)",
-            "صرف کتابوں کے نام حفظ کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف پرانے کاغذات جمع کرنا (محدود دائرہ) (Target expression (Urdu))",
-            "فکشن کو غیر سنجیدہ سمجھنا (سطحی رویہ) (Target expression (Urdu))"
+            "صرف کتابوں کے نام حفظ کرنا (بے فائدہ مشق)) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)",
+            "صرف پرانے کاغذات جمع کرنا (محدود دائرہ)) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)",
+            "فکشن کو غیر سنجیدہ سمجھنا (سطحی رویہ)) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)"
           ],
           "answerIndex": 0,
           "explanation": "یہ نثری جمالیات، اسلوبیاتی تنوع اور سماجی و وجودی حقیقتوں کا تنقیدی شعور بخشتا ہے۔"
@@ -11304,9 +11304,9 @@
           "prompt": "اردو فکشن اور نثری شاہکاروں کے جامع سمیکن (Urdu Fiction Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔ (Urdu fiction through Manto/Premchand's realism, epic narratives of Aag Ka Darya/Udaas Naslein, and Intizar's mythic symbolism is a grand masterpiece of socio-existential realities.)",
-            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانی جلد بندی کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اردو میں نثر نگاری کا کوئی باقاعدہ وجود نہیں ہے۔ (Target expression (Urdu))"
+            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)",
+            "جامع سمیکن صرف پرانی جلد بندی کو کہتے ہیں۔) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)",
+            "اردو میں نثر نگاری کا کوئی باقاعدہ وجود نہیں ہے۔) (Context: اردو افسانہ، ناول اور نثری شاہکار ک)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔» اردو نثری سمیکن کا کامل ترین شاہکار ہے۔"
@@ -11355,9 +11355,9 @@
           "prompt": "کسی ملک کے اعلیٰ ترین اور بنیادی قانونی ڈھانچے کو اردو میں کیا کہتے ہیں؟",
           "options": [
             "دستور / آئین (Constitution - Supreme foundational legal document of the state)",
-            "صرف بلدیاتی اشتہار (Target expression (Urdu))",
-            "صرف اخبار کا اداریہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف بلدیاتی اشتہار) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)",
+            "صرف اخبار کا اداریہ) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)",
+            "کوئی نہیں) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)"
           ],
           "answerIndex": 0,
           "explanation": "ملک کے سپریم لا کو «دستور» یا «آئین» (Constitution) کہتے ہیں۔"
@@ -11370,9 +11370,9 @@
           "prompt": "آئین کی رو سے ہر شہری کو حاصل ناقابلِ تنسیخ حقوق (جیسے آزادیِ رائے اور مساوات) کو کیا کہا جاتا ہے؟",
           "options": [
             "بنیادی حقوق (Fundamental Rights - Inalienable constitutionally protected liberties)",
-            "صرف تجارتی مراعات (Target expression (Urdu))",
-            "صرف پاسپورٹ کی فیس (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف تجارتی مراعات) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)",
+            "صرف پاسپورٹ کی فیس) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)",
+            "کوئی نہیں) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)"
           ],
           "answerIndex": 0,
           "explanation": "دستور میں درج ناقابلِ تنسیخ حقوق کو «بنیادی حقوق» (Fundamental Rights) کہتے ہیں۔"
@@ -11386,9 +11386,9 @@
           "prompt": "دستورِ پاکستان اور بنیادی حقوق (Constitution & Fundamental Rights) کا فصیح جملہ پہچانیے:",
           "options": [
             "آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔ (The Constitution of Pakistan 1973 is founded on a federal parliamentary republic and guarantees fundamental rights of fair trial, free speech, and equality to every citizen.)",
-            "آئین نے صبح ناشتہ کر کے بازار میں چائے پی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "بنیادی حقوق صرف امیر لوگوں کے لیے مخصوص ہوتے ہیں۔ (Target expression (Urdu))",
-            "دستور میں تبدیلی صرف خواب دیکھ کر کی جاتی ہے۔ (Target expression (Urdu))"
+            "آئین نے صبح ناشتہ کر کے بازار میں چائے پی تھی اور رویا تھا۔) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)",
+            "بنیادی حقوق صرف امیر لوگوں کے لیے مخصوص ہوتے ہیں۔) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)",
+            "دستور میں تبدیلی صرف خواب دیکھ کر کی جاتی ہے۔) (Context: دستورِ پاکستان، بنیادی حقوق اور وفا)"
           ],
           "answerIndex": 0,
           "explanation": "«آئینِ پاکستان 1973ء وفاقی پارلیمانی جمہوریہ کی بنیاد پر استوار ہے اور ہر شہری کو منصفانہ سماعت، آزادیِ رائے اور برابری کے بنیادی حقوق کی ضمانت دیتا ہے۔» آئینی و قانونی فصاحت کا کامل جملہ ہے۔"
@@ -11437,9 +11437,9 @@
           "prompt": "پاکستان کی پارلیمان کے ایوانِ بالا کو کیا کہا جاتا ہے جو تمام صوبوں کو مساوی نمائندگی دیتا ہے؟",
           "options": [
             "سینیٹ / ایوانِ بالا (Senate - Upper house providing equal provincial representation)",
-            "میونسپل کمیٹی (Target expression (Urdu))",
-            "صوبائی کونسل (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "میونسپل کمیٹی) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )",
+            "صوبائی کونسل) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )",
+            "کوئی نہیں) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )"
           ],
           "answerIndex": 0,
           "explanation": "وفاقی ایوانِ بالا کو «سینیٹ» (Senate) کہا جاتا ہے۔"
@@ -11452,9 +11452,9 @@
           "prompt": "قانون بننے سے قبل پارلیمان میں پیش کی جانے والی باضابطہ تجویز یا مسودے کو کیا کہتے ہیں؟",
           "options": [
             "مسودۂ قانون / بل (Bill / Draft legislation presented before enactment into Act)",
-            "صرف اخباری خبر (Target expression (Urdu))",
-            "صرف حلف نامہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف اخباری خبر) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )",
+            "صرف حلف نامہ) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )",
+            "کوئی نہیں) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )"
           ],
           "answerIndex": 0,
           "explanation": "قانون کے ابتدائی مسودے کو «مسودۂ قانون» یا «بل» (Bill) کہا جاتا ہے۔"
@@ -11468,9 +11468,9 @@
           "prompt": "مجلسِ شوریٰ اور قانون سازی (Parliament & Legislation) کا فصیح جملہ پہچانیے:",
           "options": [
             "قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔ (After detailed parliamentary debate and amendments in the National Assembly and Senate, the bill was passed by majority and sent for presidential assent.)",
-            "پارلیمان نے بل کو سمندر میں پھینک کر گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "سینیٹ میں صوبوں کو نمائندگی دینا قانوناً جرم ہے۔ (Target expression (Urdu))",
-            "مسودۂ قانون صرف کاغذ کا جہاز بنانے کے لیے ہوتا ہے۔ (Target expression (Urdu))"
+            "پارلیمان نے بل کو سمندر میں پھینک کر گاڑی چلائی تھی۔) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )",
+            "سینیٹ میں صوبوں کو نمائندگی دینا قانوناً جرم ہے۔) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )",
+            "مسودۂ قانون صرف کاغذ کا جہاز بنانے کے لیے ہوتا ہے۔) (Context: مجلسِ شوریٰ / پارلیمان، قانون سازی )"
           ],
           "answerIndex": 0,
           "explanation": "«قومی اسمبلی اور سینیٹ میں تفصیلی پارلیمانی بحث اور ترامیم کے بعد مسودۂ قانون کو کثرتِ رائے سے منظور کر کے صدارتی توثیق کے لیے بھیجا گیا۔» پارلیمانی بیانیے کا مستند ترین جملہ ہے۔"
@@ -11519,9 +11519,9 @@
           "prompt": "بنیادی حقوق کے نفاذ اور انتظامی اختیارات کے ناجائز استعمال کے خلاف ہائی کورٹ میں دائر کی جانے والی آئینی درخواست کو کیا کہتے ہیں؟",
           "options": [
             "رٹ پٹیشن / آئینی درخواست (Writ Petition - Constitutional petition filed under Article 199)",
-            "صرف اخباری اشتہار (Target expression (Urdu))",
-            "صرف رسید (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف اخباری اشتہار) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)",
+            "صرف رسید) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)",
+            "کوئی نہیں) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)"
           ],
           "answerIndex": 0,
           "explanation": "ہائی کورٹ میں آئینی داد رسی کے لیے «رٹ پٹیشن» (Writ Petition) دائر کی جاتی ہے۔"
@@ -11534,9 +11534,9 @@
           "prompt": "پاکستان میں آئین کے تحفظ اور اس کی حتمی تشریح کا اختیار کس عدالت کے پاس ہے؟",
           "options": [
             "عدالتِ عظمیٰ / سپریم کورٹ (Supreme Court of Pakistan - Apex court and ultimate constitutional interpreter)",
-            "مجسٹریٹ عدالت (Target expression (Urdu))",
-            "ٹریفک عدالت (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مجسٹریٹ عدالت) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)",
+            "ٹریفک عدالت) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)",
+            "کوئی نہیں) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)"
           ],
           "answerIndex": 0,
           "explanation": "آئین کی حتمی محافظ «عدالتِ عظمیٰ» (Supreme Court) ہے۔"
@@ -11550,9 +11550,9 @@
           "prompt": "عدالتی نظام اور آئینی رٹ (Judiciary & Supreme Court) کا فصیح جملہ پہچانیے:",
           "options": [
             "سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔ (Hearing the writ petition, the Supreme Court struck down the law violating fundamental rights, upholding judicial independence and rule of law.)",
-            "سپریم کورٹ نے رٹ پٹیشن کو تیل میں تل کر گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "عدالت میں رٹ پٹیشن دائر کرنا قانوناً ممنوع ہے۔ (Target expression (Urdu))",
-            "ہائی کورٹ کو مقدمات سننے کا کوئی اختیار نہیں ہوتا۔ (Target expression (Urdu))"
+            "سپریم کورٹ نے رٹ پٹیشن کو تیل میں تل کر گاڑی چلائی تھی۔) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)",
+            "عدالت میں رٹ پٹیشن دائر کرنا قانوناً ممنوع ہے۔) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)",
+            "ہائی کورٹ کو مقدمات سننے کا کوئی اختیار نہیں ہوتا۔) (Context: عدالتی نظام، سپریم کورٹ، ہائی کورٹس)"
           ],
           "answerIndex": 0,
           "explanation": "«سپریم کورٹ نے رٹ پٹیشن پر سماعت کرتے ہوئے بنیادی حقوق کے خلاف بنائے گئے قانون کو کالعدم قرار دے کر عدلیہ کی آزادی اور قانون کی بالادستی قائم رکھی۔» اعلیٰ عدالتی اسلوب کا مستند نمونہ ہے۔"
@@ -11601,9 +11601,9 @@
           "prompt": "عدالت میں گواہ کی سچائی پرکھنے کے لیے مخالف فریق کے وکیل کی سوال و جواب کی کارروائی کو کیا کہتے ہیں؟",
           "options": [
             "جرح (Jarah - Cross-examination of witnesses in court)",
-            "صرف حلف نامہ (Target expression (Urdu))",
-            "صرف وکالت نامہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف حلف نامہ) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)",
+            "صرف وکالت نامہ) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)",
+            "کوئی نہیں) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)"
           ],
           "answerIndex": 0,
           "explanation": "گواہوں سے تفصیلی سوالات کرنے کو عدالتی زبان میں «جرح» (Cross-examination) کہتے ہیں۔"
@@ -11616,9 +11616,9 @@
           "prompt": "عدالت کی جانب سے کسی ملزم پر جرم ثابت نہ ہونے پر اسے تمام الزامات سے آزاد قرار دینے کو کیا کہتے ہیں؟",
           "options": [
             "باعزت بریت / بریت (Acquittal - Legal clearance and release of accused due to lack of proof)",
-            "سزا کا حکم (Target expression (Urdu))",
-            "جرمانہ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "سزا کا حکم) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)",
+            "جرمانہ) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)",
+            "کوئی نہیں) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)"
           ],
           "answerIndex": 0,
           "explanation": "الزامات سے بری کیے جانے کو «بریت» (Acquittal) کہا جاتا ہے۔"
@@ -11632,9 +11632,9 @@
           "prompt": "ضابطۂ فوجداری اور عدالتی کارروائی (Criminal Procedure & Law) کا مستند جملہ پہچانیے:",
           "options": [
             "وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔ (The defense counsel conducted effective cross-examination on prosecution witnesses highlighting doubts, based on which the Sessions Court honorably acquitted the accused.)",
-            "ملزم نے وکیل کو پانی میں ڈبو کر گاڑی چلائی تھی اور رویا تھا۔ (Target expression (Urdu))",
-            "جرح صرف عدالت کے کمرے کا دروازہ بند کرنے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "فوجداری مقدمے میں گواہ پیش کرنا قانوناً منع ہے۔ (Target expression (Urdu))"
+            "ملزم نے وکیل کو پانی میں ڈبو کر گاڑی چلائی تھی اور رویا تھا۔) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)",
+            "جرح صرف عدالت کے کمرے کا دروازہ بند کرنے کو کہتے ہیں۔) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)",
+            "فوجداری مقدمے میں گواہ پیش کرنا قانوناً منع ہے۔) (Context: ضابطۂ فوجداری، وکالت، شہادت اور است)"
           ],
           "answerIndex": 0,
           "explanation": "«وکیلِ صفائی نے استغاثہ کے گواہوں پر مؤثر جرح کر کے شکوک و شبہات کو اجاگر کیا جس کی بنیاد پر سیشن عدالت نے ملزم کو باعزت بری کر دیا۔» فوجداری عدالتی اسلوب کا مکمل ترین جملہ ہے۔"
@@ -11683,9 +11683,9 @@
           "prompt": "آئین، پارلیمان اور عدالتی نظام کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ (Masterful synthesis of constitutional supremacy, parliamentary legislation, judicial independence, and rule of law)",
-            "ہم نے پارلیمان کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف قانون کی کتابیں گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے پارلیمان کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)",
+            "وہ صرف قانون کی کتابیں گنتا رہتا ہے (غیر معیاری)) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)",
+            "کوئی نہیں) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)"
           ],
           "answerIndex": 0,
           "explanation": "«آئین کی بالادستی، پارلیمانی قانون سازی، عدلیہ کی آزادی اور قانون کی یکساں حکمرانی کا مربوط مطالعہ» قانونی و دستوری نظام کا کامل سمیکن ہے۔"
@@ -11698,9 +11698,9 @@
           "prompt": "آئینی بالادستی اور آزاد عدالتی نظام کا جامع سمیکن معاشرے میں کیا قائم کرتا ہے؟",
           "options": [
             "بنیادی حقوق کا مکمل تحفظ، انصاف کی بلا تفریق فراہمی اور جمہوری استحکام (Complete protection of fundamental rights, impartial justice, and democratic stability)",
-            "صرف کاغذی فائلیں تیار کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "صرف عدالت کی عمارت دیکھنا (محدود دائرہ) (Target expression (Urdu))",
-            "قانون توڑنے والوں کی حمایت کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف کاغذی فائلیں تیار کرنا (بے فائدہ مشق)) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)",
+            "صرف عدالت کی عمارت دیکھنا (محدود دائرہ)) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)",
+            "قانون توڑنے والوں کی حمایت کرنا (تباہ کن)) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)"
           ],
           "answerIndex": 0,
           "explanation": "یہ بنیادی حقوق کا تحفظ، بلا تفریق انصاف اور جمہوری استحکام قائم کرتا ہے۔"
@@ -11714,9 +11714,9 @@
           "prompt": "آئین، پارلیمان اور عدالتی نظام کے جامع سمیکن (Constitutional & Legal Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔ (The supremacy of the Constitution, independent parliamentary legislation, and impartial judicial verdicts ensure fundamental rights and rule of law.)",
-            "آئین نے سینیٹ کو گاڑی پر بٹھا کر رویا تھا اور چائے پی تھی۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پولیس اسٹیشن کے رجسٹر کو کہتے ہیں۔ (Target expression (Urdu))",
-            "آئین اور قانون کا انسانی زندگی سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "آئین نے سینیٹ کو گاڑی پر بٹھا کر رویا تھا اور چائے پی تھی۔) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)",
+            "جامع سمیکن صرف پولیس اسٹیشن کے رجسٹر کو کہتے ہیں۔) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)",
+            "آئین اور قانون کا انسانی زندگی سے کوئی تعلق نہیں ہے۔) (Context: آئین، پارلیمان اور عدالتی نظام کا ج)"
           ],
           "answerIndex": 0,
           "explanation": "«دستورِ پاکستان کی بالادستی، پارلیمان کی آزادانہ قانون سازی اور اعلیٰ عدلیہ کے غیر جانبدارانہ فیصلوں کا ہم آہنگ توازن ہی ملک میں بنیادی حقوق اور قانون کی حکمرانی کو یقینی بناتا ہے۔» قانونی و دستوری سمیکن کا شاہکار ترین جملہ ہے۔"
@@ -11765,9 +11765,9 @@
           "prompt": "اردو زبان کے پہلے باضابطہ اخبار کا کیا نام تھا جو 1822ء میں کلکتہ سے جاری ہوا؟",
           "options": [
             "جامِ جہاں نما (Jaam-e-Jahan-Numa - First historical Urdu newspaper launched in 1822)",
-            "روزنامہ جنگ (Target expression (Urdu))",
-            "نوائے وقت (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "روزنامہ جنگ) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )",
+            "نوائے وقت) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )",
+            "کوئی نہیں) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )"
           ],
           "answerIndex": 0,
           "explanation": "اردو کے پہلے اخبار کا نام «جامِ جہاں نما» (1822ء) تھا۔"
@@ -11780,9 +11780,9 @@
           "prompt": "مولانا ابوالکلام آزاد کا شہرۂ آفاق اخبار کون سا تھا جس نے آزادی کی تحریک میں تاریخ رقم کی؟",
           "options": [
             "الہلال (Al-Hilal - Iconic revolutionary literary newspaper by Maulana Abul Kalam Azad)",
-            "پیسہ اخبار (Target expression (Urdu))",
-            "اودھ پنچ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "پیسہ اخبار) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )",
+            "اودھ پنچ) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )",
+            "کوئی نہیں) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )"
           ],
           "answerIndex": 0,
           "explanation": "مولانا آزاد کا تاریخی اخبار «الہلال» تھا۔"
@@ -11796,9 +11796,9 @@
           "prompt": "اردو صحافت کی تاریخی روایت (History of Urdu Journalism) کا فصیح جملہ پہچانیے:",
           "options": [
             "اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔ (Urdu journalism is the immortal legacy of Sir Syed's intellectual gravity, Azad's Al-Hilal eloquence, and Zafar Ali Khan's revolutionary voice.)",
-            "اخبار نے چائے پی کر قلم کو دریا میں پھینکا تھا اور رویا تھا۔ (Target expression (Urdu))",
-            "جامِ جہاں نما صرف گاڑی کا شیشہ ہوتا ہے۔ (Target expression (Urdu))",
-            "الہلال اخبار صرف فلمی اشتہار چھاپتا تھا۔ (Target expression (Urdu))"
+            "اخبار نے چائے پی کر قلم کو دریا میں پھینکا تھا اور رویا تھا۔) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )",
+            "جامِ جہاں نما صرف گاڑی کا شیشہ ہوتا ہے۔) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )",
+            "الہلال اخبار صرف فلمی اشتہار چھاپتا تھا۔) (Context: اردو صحافت کی تاریخ، سرسید، الہلال )"
           ],
           "answerIndex": 0,
           "explanation": "«اردو صحافت سرسید کے 'تہذیب الاخلاق' کی علمی سنجیدگی، مولانا آزاد کے 'الہلال' کی ادبی فصاحت اور مولانا ظفر علی خان کے 'زمیندار' کی انقلابی للکار کا لافانی تاریخی ورثہ ہے۔» صحافتی تاریخ کا کامل جملہ ہے۔"
@@ -11847,9 +11847,9 @@
           "prompt": "اخبار کے اس باضابطہ مضمون کو کیا کہتے ہیں جو بغیر مصنف کے نام کے اخبار کی پالیسی اور رائے کو ظاہر کرتا ہے؟",
           "options": [
             "اداریہ (Idariya / Editorial - Official institutional commentary of the newspaper)",
-            "اشتہار (Target expression (Urdu))",
-            "کھیلوں کا اسکور (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "اشتہار) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)",
+            "کھیلوں کا اسکور) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)",
+            "کوئی نہیں) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)"
           ],
           "answerIndex": 0,
           "explanation": "اخبار کی باضابطہ رائے کو «اداریہ» (Editorial) کہتے ہیں۔"
@@ -11862,9 +11862,9 @@
           "prompt": "کسی اہم واقعے یا انسانی المیے پر گہری تحقیق، پس منظر اور اعداد و شمار کے ساتھ لکھے جانے والے طویل صحافتی مضمون کو کیا کہتے ہیں؟",
           "options": [
             "فیچر / فیچر نگاری (Feature Writing - In-depth narrative and background journalistic report)",
-            "صرف ایک سطر کی خبر (Target expression (Urdu))",
-            "ریسیپی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ایک سطر کی خبر) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)",
+            "ریسیپی) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)",
+            "کوئی نہیں) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)"
           ],
           "answerIndex": 0,
           "explanation": "تفصیلی تحقیقی اور پس منظری مضمون کو «فیچر» (Feature) کہا جاتا ہے۔"
@@ -11878,9 +11878,9 @@
           "prompt": "ادارتی تحریر اور کالم نگاری (Editorials & Columns) کا فصیح جملہ پہچانیے:",
           "options": [
             "اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔ (A newspaper editorial represents reasoned institutional policy while column writing guides public opinion through witty style and political analysis.)",
-            "کالم نے چائے میں بسکٹ ڈبو کر رویا تھا اور گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "اداریہ صرف بازار کے بھاؤ بتانے کے لیے لکھا جاتا ہے۔ (Target expression (Urdu))",
-            "فیچر رائٹنگ میں کسی قسم کی تحقیق نہیں کی جاتی۔ (Target expression (Urdu))"
+            "کالم نے چائے میں بسکٹ ڈبو کر رویا تھا اور گاڑی چلائی تھی۔) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)",
+            "اداریہ صرف بازار کے بھاؤ بتانے کے لیے لکھا جاتا ہے۔) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)",
+            "فیچر رائٹنگ میں کسی قسم کی تحقیق نہیں کی جاتی۔) (Context: ادارتی تحریر، کالم نگاری اور فیچر ن)"
           ],
           "answerIndex": 0,
           "explanation": "«اخبار کا اداریہ سنجیدہ اور مدلل فکری مؤقف کا ترجمان ہوتا ہے جبکہ کالم نگاری اپنے شگفتہ اسلوب اور سیاسی تجزیے کے ذریعے عوامی رائے عامہ کی رہنمائی کرتی ہے۔» صحافتی اصناف کا کامل جملہ ہے۔"
@@ -11929,9 +11929,9 @@
           "prompt": "ٹیلی ویژن پر کسی ہنگامی یا غیر معمولی واقعے کی فوری نشریات کو کیا کہا جاتا ہے؟",
           "options": [
             "بریکنگ نیوز (Breaking News - Urgent broadcast interruption for developing news)",
-            "ڈراما سیریل (Target expression (Urdu))",
-            "موسمی گیت (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ڈراما سیریل) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )",
+            "موسمی گیت) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )",
+            "کوئی نہیں) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )"
           ],
           "answerIndex": 0,
           "explanation": "فوری ہنگامی خبر کو «بریکنگ نیوز» (Breaking News) کہا جاتا ہے۔"
@@ -11944,9 +11944,9 @@
           "prompt": "ٹیلی ویژن ٹاک شو کی میزبانی اور مہمانوں سے مباحثہ کروانے والے صحافی کو کیا کہتے ہیں؟",
           "options": [
             "اینکر پرسن / اینکر (Anchorperson - Current affairs program host and debate moderator)",
-            "کیمرہ مین (Target expression (Urdu))",
-            "موسیقار (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "کیمرہ مین) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )",
+            "موسیقار) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )",
+            "کوئی نہیں) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )"
           ],
           "answerIndex": 0,
           "explanation": "پروگرام کے میزبان صحافی کو «اینکر پرسن» (Anchorperson) کہتے ہیں۔"
@@ -11960,9 +11960,9 @@
           "prompt": "نشریاتی میڈیا اور لائیو کوریج (Broadcast Journalism & Breaking News) کا فصیح جملہ پہچانیے:",
           "options": [
             "نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔ (The newsroom broadcast breaking news tickers while the anchor person took a live beeper from field reporter providing verified details.)",
-            "اینکر پرسن نے مائیک کو ہانڈی میں پکا کر گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "بریکنگ نیوز صرف اخبار کے آخری صفحے پر چھپتی ہے۔ (Target expression (Urdu))",
-            "لائیو کوریج کا مطلب ریکارڈ شدہ گانے سننا ہے۔ (Target expression (Urdu))"
+            "اینکر پرسن نے مائیک کو ہانڈی میں پکا کر گاڑی روئی تھی۔) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )",
+            "بریکنگ نیوز صرف اخبار کے آخری صفحے پر چھپتی ہے۔) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )",
+            "لائیو کوریج کا مطلب ریکارڈ شدہ گانے سننا ہے۔) (Context: نشریاتی میڈیا، بریکنگ نیوز اور ٹاک )"
           ],
           "answerIndex": 0,
           "explanation": "«نیوز روم نے بریکنگ نیوز کے ٹکرز نشر کیے جبکہ اینکر پرسن نے فیلڈ رپورٹر سے براہِ راست بیپر لے کر ناظرین کو صورتِ حال کی مصدقہ تفصیلات فراہم کیں۔» الیکٹرانک میڈیا کا مستند ترین جملہ ہے۔"
@@ -12011,9 +12011,9 @@
           "prompt": "سوشل میڈیا پر پھیلنے والی افواہوں اور جعلی خبروں کی تصدیق اور جانچ پڑتال کے عمل کو کیا کہتے ہیں؟",
           "options": [
             "حقائق کی جانچ / فیکٹ چیکنگ (Fact-checking - Verifying truthfulness and accuracy of news)",
-            "صرف وائرل کرنا (Target expression (Urdu))",
-            "صرف لائک کرنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف وائرل کرنا) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )",
+            "صرف لائک کرنا) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )",
+            "کوئی نہیں) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )"
           ],
           "answerIndex": 0,
           "explanation": "خبروں کی صداقت پرکھنے کو «فیکٹ چیکنگ» (Fact-checking) کہا جاتا ہے۔"
@@ -12026,9 +12026,9 @@
           "prompt": "پاکستان میں الیکٹرانک میڈیا اور نجی ٹی وی چینلز کے قواعد و ضوابط کی نگرانی کرنے والے ادارے کو کیا کہتے ہیں؟",
           "options": [
             "پیمرا / PEMRA (Pakistan Electronic Media Regulatory Authority)",
-            "واپڈا (Target expression (Urdu))",
-            "ریلوے بورڈ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "واپڈا) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )",
+            "ریلوے بورڈ) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )",
+            "کوئی نہیں) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )"
           ],
           "answerIndex": 0,
           "explanation": "میڈیا کے نگراں ادارے کو «پیمرا» (PEMRA) کہا جاتا ہے۔"
@@ -12042,9 +12042,9 @@
           "prompt": "ڈیجیٹل میڈیا اور صحافتی اخلاقیات (Digital Journalism & Ethics) کا مستند جملہ پہچانیے:",
           "options": [
             "ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔ (In digital journalism, adhering strictly to fact-checking and the journalistic code of ethics is imperative to counter fake news and propaganda.)",
-            "فیک نیوز نے کیمرے کو دھو کر گاڑی چلائی تھی اور روئی تھی۔ (Target expression (Urdu))",
-            "صحافتی اخلاقیات کا مطلب صرف جھوٹی کہانیاں بنانا ہوتا ہے۔ (Target expression (Urdu))",
-            "ڈیجیٹل میڈیا پر فیکٹ چیکنگ کرنا قانوناً جرم ہے۔ (Target expression (Urdu))"
+            "فیک نیوز نے کیمرے کو دھو کر گاڑی چلائی تھی اور روئی تھی۔) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )",
+            "صحافتی اخلاقیات کا مطلب صرف جھوٹی کہانیاں بنانا ہوتا ہے۔) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )",
+            "ڈیجیٹل میڈیا پر فیکٹ چیکنگ کرنا قانوناً جرم ہے۔) (Context: ڈیجیٹل جرنلزم، فیک نیوز اور صحافتی )"
           ],
           "answerIndex": 0,
           "explanation": "«ڈیجیٹل صحافت میں فیک نیوز اور گمراہ کن پروپیگنڈے کے تدارک کے لیے فیکٹ چیکنگ اور صحافتی ضابطۂ اخلاق پر سختی سے عمل پیرا ہونا ناگزیر ہے۔» میڈیا اخلاقیات کا کامل جملہ ہے۔"
@@ -12093,9 +12093,9 @@
           "prompt": "میڈیا، صحافت اور ابلاغیات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ (Masterful synthesis of historic journalism, editorials/columns, broadcast breaking news, and digital fact-checking)",
-            "ہم نے ٹی وی اسٹوڈیو کے سامنے چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف مائیک کی تاریں لپیٹتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے ٹی وی اسٹوڈیو کے سامنے چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)",
+            "وہ صرف مائیک کی تاریں لپیٹتا رہتا ہے (غیر معیاری)) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)",
+            "کوئی نہیں) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)"
           ],
           "answerIndex": 0,
           "explanation": "«تاریخی صحافت، اداریہ و کالم نگاری، نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کا مربوط مطالعہ» تمام صحافتی اسالیب کا کامل سمیکن ہے۔"
@@ -12108,9 +12108,9 @@
           "prompt": "میڈیا، نشریات اور ڈیجیٹل صحافت کا جامع سمیکن معاشرے کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
             "عوامی شعور کی بیداری، مصدقہ حقائق کی بروقت فراہمی اور جمہوری احتساب کا قیام (Fostering public awareness, providing timely verified facts, and establishing democratic accountability)",
-            "صرف سنسنی پھیلانا (منفی رویہ) (Target expression (Urdu))",
-            "صرف کیمرے کے ماڈل یاد کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "جعلی خبروں کو فروغ دینا (تباہ کن) (Target expression (Urdu))"
+            "صرف سنسنی پھیلانا (منفی رویہ)) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)",
+            "صرف کیمرے کے ماڈل یاد کرنا (بے فائدہ مشق)) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)",
+            "جعلی خبروں کو فروغ دینا (تباہ کن)) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)"
           ],
           "answerIndex": 0,
           "explanation": "یہ عوامی شعور کی بیداری، مصدقہ حقائق کی فراہمی اور جمہوری احتساب کا قیام یقینی بناتا ہے۔"
@@ -12124,9 +12124,9 @@
           "prompt": "میڈیا، صحافت اور ابلاغیات کے جامع سمیکن (Media & Journalism Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔ (Urdu journalism from Al-Hilal's eloquence to editorial columns, broadcast breaking news, and digital fact-checking is a grand masterpiece of public awareness.)",
-            "اخبار نے ٹی وی کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانے کیمرے کے لینز کو کہتے ہیں۔ (Target expression (Urdu))",
-            "صحافت اور خبر کا سچائی سے کوئی تعلق نہیں ہوتا۔ (Target expression (Urdu))"
+            "اخبار نے ٹی وی کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)",
+            "جامع سمیکن صرف پرانے کیمرے کے لینز کو کہتے ہیں۔) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)",
+            "صحافت اور خبر کا سچائی سے کوئی تعلق نہیں ہوتا۔) (Context: میڈیا، صحافت اور ابلاغیات کا جامع س)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو صحافت 'الہلال' کی فکری فصاحت سے لے کر ادارتی کالم نگاری، لائیو نشریاتی بریکنگ نیوز اور ڈیجیٹل فیکٹ چیکنگ کے ذریعے عوامی شعور اور قومی بیداری کا عظیم الشان شاہکار ہے۔» ابلاغیات کا کامل ترین شاہکار ہے۔"
@@ -12175,9 +12175,9 @@
           "prompt": "کمپیوٹر سسٹمز کے ذریعے انسانی فہم و دانش اور فیصلہ سازی کے مطالعے اور اطلاق کو کیا کہتے ہیں؟",
           "options": [
             "مصنوعی ذہانت / AI (Artificial Intelligence - Simulation of human intelligence in machines)",
-            "صرف ٹائپنگ کرنا (Target expression (Urdu))",
-            "صرف کیبل جوڑنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ٹائپنگ کرنا) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)",
+            "صرف کیبل جوڑنا) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)",
+            "کوئی نہیں) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)"
           ],
           "answerIndex": 0,
           "explanation": "انسانی مشابہ سمارٹ صلاحیت کو «مصنوعی ذہانت» (Artificial Intelligence) کہتے ہیں۔"
@@ -12190,9 +12190,9 @@
           "prompt": "کسی حسابی یا منطقی مسئلے کو حل کرنے کے لیے ترتیب دی گئی مرحلہ وار ہدایات کو کیا کہتے ہیں؟",
           "options": [
             "الگورتھم (Algorithm - Step-by-step logical computational procedure)",
-            "صرف ایک تصویر (Target expression (Urdu))",
-            "صرف فائل کا نام (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ایک تصویر) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)",
+            "صرف فائل کا نام) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)",
+            "کوئی نہیں) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)"
           ],
           "answerIndex": 0,
           "explanation": "مرحلہ وار حسابی ہدایات کو «الگورتھم» (Algorithm) کہا جاتا ہے۔"
@@ -12206,9 +12206,9 @@
           "prompt": "مصنوعی ذہانت اور مشین لرننگ (Artificial Intelligence & ML) کا سائنسی جملہ پہچانیے:",
           "options": [
             "مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔ (Advanced neural networks and LLMs in artificial intelligence are revolutionizing complex data analysis and automated decision-making.)",
-            "الگورتھم نے باورچی خانے میں کھانا پکا کر گاڑی روئی تھی۔ (Target expression (Urdu))",
-            "مصنوعی ذہانت کا مطلب صرف اسکرین کا رنگ تبدیل کرنا ہے۔ (Target expression (Urdu))",
-            "مشین لرننگ میں ڈیٹا کا کوئی کردار نہیں ہوتا۔ (Target expression (Urdu))"
+            "الگورتھم نے باورچی خانے میں کھانا پکا کر گاڑی روئی تھی۔) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)",
+            "مصنوعی ذہانت کا مطلب صرف اسکرین کا رنگ تبدیل کرنا ہے۔) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)",
+            "مشین لرننگ میں ڈیٹا کا کوئی کردار نہیں ہوتا۔) (Context: مصنوعی ذہانت، مشین لرننگ اور الگورت)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے جدید نیورل نیٹ ورکس اور بڑے لسانی ماڈلز پیچیدہ سائنسی ڈیٹا کے تجزیے اور خود کار فیصلہ سازی میں انقلاب برپا کر رہے ہیں۔» سائنسی بیانیے کا مستند ترین جملہ ہے۔"
@@ -12257,9 +12257,9 @@
           "prompt": "ڈیٹا کو غیر مجاز رسائی سے بچانے کے لیے خفیہ کوڈ میں تبدیل کرنے کے سائنسی عمل کو کیا کہتے ہیں؟",
           "options": [
             "ڈیٹا انکرپشن (Data Encryption - Converting information into secure unreadable code)",
-            "صرف فائل ڈیلیٹ کرنا (Target expression (Urdu))",
-            "صرف اسکرین بند کرنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف فائل ڈیلیٹ کرنا) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )",
+            "صرف اسکرین بند کرنا) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )",
+            "کوئی نہیں) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )"
           ],
           "answerIndex": 0,
           "explanation": "ڈیٹا کو محفوظ بنانے کے خفیہ کاری کے عمل کو «ڈیٹا انکرپشن» (Data Encryption) کہتے ہیں۔"
@@ -12272,9 +12272,9 @@
           "prompt": "انٹرنیٹ کے ذریعے ریموٹ سرورز پر ڈیٹا کو محفوظ کرنے اور پروسیسنگ پاور حاصل کرنے کی ٹیکنالوجی کو کیا کہتے ہیں؟",
           "options": [
             "کلاؤڈ کمپیوٹنگ (Cloud Computing - Delivering computing services over internet remote servers)",
-            "صرف یو ایس بی فلیش ڈرائیو (Target expression (Urdu))",
-            "صرف سی ڈی روم (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف یو ایس بی فلیش ڈرائیو) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )",
+            "صرف سی ڈی روم) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )",
+            "کوئی نہیں) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )"
           ],
           "answerIndex": 0,
           "explanation": "انٹرنیٹ سرورز کے ذریعے ڈیٹا اسٹوریج کو «کلاؤڈ کمپیوٹنگ» (Cloud Computing) کہا جاتا ہے۔"
@@ -12288,9 +12288,9 @@
           "prompt": "سائبر سیکیورٹی اور کلاؤڈ سسٹمز (Cybersecurity & Cloud Computing) کا فصیح جملہ پہچانیے:",
           "options": [
             "مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔ (Implementing robust data encryption, active firewalls, and secure cloud infrastructure is essential to protect financial data.)",
-            "فائر وال نے تار کو توڑ کر چائے پی تھی اور روئی تھی۔ (Target expression (Urdu))",
-            "انکرپشن کا مطلب ڈیٹا کو انٹرنیٹ پر سب کے سامنے رکھنا ہے۔ (Target expression (Urdu))",
-            "کلاؤڈ کمپیوٹنگ صرف بادلوں کی تصویر لینے کو کہتے ہیں۔ (Target expression (Urdu))"
+            "فائر وال نے تار کو توڑ کر چائے پی تھی اور روئی تھی۔) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )",
+            "انکرپشن کا مطلب ڈیٹا کو انٹرنیٹ پر سب کے سامنے رکھنا ہے۔) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )",
+            "کلاؤڈ کمپیوٹنگ صرف بادلوں کی تصویر لینے کو کہتے ہیں۔) (Context: سائبر سیکیورٹی، ڈیٹا پرائیویسی اور )"
           ],
           "answerIndex": 0,
           "explanation": "«مالیاتی اداروں کے حساس ڈیٹا کے تحفظ کے لیے مضبوط ڈیٹا انکرپشن، فعال فائر وال اور محفوظ کلاؤڈ انفراسٹرکچر کا نفاذ ناگزیر ہے۔» سائبر سیکیورٹی کا کامل ترین جملہ ہے۔"
@@ -12339,9 +12339,9 @@
           "prompt": "جانداروں کے خلیات میں ڈی این اے کی جینیاتی ساخت کو تبدیل کرنے کے جدید سائنسی عمل کو کیا کہتے ہیں؟",
           "options": [
             "جینیاتی انجینئرنگ / جین ایڈیٹنگ (Genetic Engineering / CRISPR - Modifying genetic material of organisms)",
-            "صرف خون کا ٹیسٹ (Target expression (Urdu))",
-            "صرف دوا کی گولی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف خون کا ٹیسٹ) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )",
+            "صرف دوا کی گولی) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )",
+            "کوئی نہیں) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )"
           ],
           "answerIndex": 0,
           "explanation": "ڈی این اے کی ترمیم کو «جینیاتی انجینئرنگ» (Genetic Engineering) کہتے ہیں۔"
@@ -12354,9 +12354,9 @@
           "prompt": "پاکستان کے قومی خلائی اور بالائی فضا کے تحقیقی ادارے کو کس نام سے جانا جاتا ہے؟",
           "options": [
             "سپارکو / SUPARCO (Space and Upper Atmosphere Research Commission of Pakistan)",
-            "او جی ڈی سی ایل (Target expression (Urdu))",
-            "پی ٹی اے (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "او جی ڈی سی ایل) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )",
+            "پی ٹی اے) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )",
+            "کوئی نہیں) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )"
           ],
           "answerIndex": 0,
           "explanation": "خلائی تحقیقاتی ادارے کو «سپارکو» (SUPARCO) کہتے ہیں۔"
@@ -12370,9 +12370,9 @@
           "prompt": "بائیو ٹیکنالوجی اور خلائی تحقیق (Biotech & Space Exploration) کا مستند جملہ پہچانیے:",
           "options": [
             "جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔ (Genetic engineering and CRISPR are opening medical discoveries while SUPARCO satellites enable space exploration and geological monitoring.)",
-            "سیٹلائٹ نے سمندر میں غوطہ لگا کر گاڑی روئی تھی اور چائے پی تھی۔ (Target expression (Urdu))",
-            "جینیاتی انجینئرنگ صرف کمپیوٹر کے بٹن دبانے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "سپارکو صرف سڑکوں پر جھاڑو دینے والا ادارہ ہے۔ (Target expression (Urdu))"
+            "سیٹلائٹ نے سمندر میں غوطہ لگا کر گاڑی روئی تھی اور چائے پی تھی۔) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )",
+            "جینیاتی انجینئرنگ صرف کمپیوٹر کے بٹن دبانے کو کہتے ہیں۔) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )",
+            "سپارکو صرف سڑکوں پر جھاڑو دینے والا ادارہ ہے۔) (Context: بائیو ٹیکنالوجی، جینیاتی انجینئرنگ )"
           ],
           "answerIndex": 0,
           "explanation": "«جینیاتی انجینئرنگ اور کرسپر ٹیکنالوجی کے ذریعے طبی علاج میں نئی دریافتیں ہو رہی ہیں جبکہ سپارکو کے سیٹلائٹس خلائی تحقیق اور ارضیاتی نگرانی کو ممکن بنا رہے ہیں۔» جدید سائنسی تحقیق کا کامل نمونہ ہے۔"
@@ -12421,9 +12421,9 @@
           "prompt": "سورج کی روشنی اور ہوا جیسے قدرتی ذرائع سے حاصل ہونے والی کبھی ختم نہ ہونے والی توانائی کو کیا کہتے ہیں؟",
           "options": [
             "تجدید پذیر توانائی (Renewable Energy - Infinite sustainable energy from sun and wind)",
-            "صرف کوئلہ جلانا (Target expression (Urdu))",
-            "صرف لکڑیاں کاٹنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف کوئلہ جلانا) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)",
+            "صرف لکڑیاں کاٹنا) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)",
+            "کوئی نہیں) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)"
           ],
           "answerIndex": 0,
           "explanation": "قدرتی پائیدار توانائی کو «تجدید پذیر توانائی» (Renewable Energy) کہتے ہیں۔"
@@ -12436,9 +12436,9 @@
           "prompt": "فوسل فیولز (پیٹرول و ڈیزل) کی بجائے بیٹری اور برقی موٹر سے چلنے والی ماحول دوست گاڑیوں کو کیا کہا جاتا ہے؟",
           "options": [
             "الیکٹرک گاڑیاں / EVs (Electric Vehicles - Battery-powered eco-friendly automobiles)",
-            "بھاپ کا پرانا انجن (Target expression (Urdu))",
-            "بیل گاڑی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "بھاپ کا پرانا انجن) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)",
+            "بیل گاڑی) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)",
+            "کوئی نہیں) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)"
           ],
           "answerIndex": 0,
           "explanation": "بیٹری سے چلنے والی جدید سواریوں کو «الیکٹرک گاڑیاں» (Electric Vehicles) کہا جاتا ہے۔"
@@ -12452,9 +12452,9 @@
           "prompt": "تجدید پذیر توانائی اور روبوٹکس (Renewable Energy & Robotics) کا مستند جملہ پہچانیے:",
           "options": [
             "شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔ (Solar and wind renewable energy projects and EV adoption reduce carbon emissions, making industrial growth eco-friendly.)",
-            "روبوٹ نے سولر پینل کو پانی میں ابال کر رویا تھا اور گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "تجدید پذیر توانائی سے ماحول میں زہریلا دھواں پیدا ہوتا ہے۔ (Target expression (Urdu))",
-            "الیکٹرک گاڑیاں صرف لکڑی کے کوئلے سے چلتی ہیں۔ (Target expression (Urdu))"
+            "روبوٹ نے سولر پینل کو پانی میں ابال کر رویا تھا اور گاڑی چلائی تھی۔) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)",
+            "تجدید پذیر توانائی سے ماحول میں زہریلا دھواں پیدا ہوتا ہے۔) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)",
+            "الیکٹرک گاڑیاں صرف لکڑی کے کوئلے سے چلتی ہیں۔) (Context: تجدید پذیر توانائی، روبوٹکس اور الی)"
           ],
           "answerIndex": 0,
           "explanation": "«شمسی اور ہوائی توانائی پر مبنی تجدید پذیر منصوبے اور الیکٹرک گاڑیوں کا پھیلاؤ کاربن کے اخراج کو کم کر کے صنعتی ترقی کو ماحول دوست بنا رہے ہیں۔» گرین ٹیکنالوجی کا مستند ترین جملہ ہے۔"
@@ -12503,9 +12503,9 @@
           "prompt": "سائنس، مصنوعی ذہانت اور جدید ٹیکنالوجی کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ (Masterful synthesis of AI, cybersecurity, biotechnology, space research, and renewable energy)",
-            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف کمپیوٹر کی تاریں گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)",
+            "وہ صرف کمپیوٹر کی تاریں گنتا رہتا ہے (غیر معیاری)) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)",
+            "کوئی نہیں) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت، سائبر سیکیورٹی، بائیو ٹیک، خلائی تحقیق اور تجدید پذیر توانائی کا مربوط سائنسی مطالعہ» سائنسی علوم کا کامل ترین سمیکن ہے۔"
@@ -12518,9 +12518,9 @@
           "prompt": "مصنوعی ذہانت اور جدید ٹیکنالوجی کا جامع سمیکن انسانیت کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
             "پیچیدہ بیماریوں کا علاج، پائیدار ماحول، خود کار صنعتی ترقی اور کائناتی تسخیر (Curing complex diseases, sustainable environment, automated industrial growth, and cosmic exploration)",
-            "صرف روبوٹ کے کھلونے بنانا (محدود دائرہ) (Target expression (Urdu))",
-            "صرف انٹرنیٹ کا بل ادا کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "سائنسی تحقیق کو روکنا (تباہ کن) (Target expression (Urdu))"
+            "صرف روبوٹ کے کھلونے بنانا (محدود دائرہ)) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)",
+            "صرف انٹرنیٹ کا بل ادا کرنا (بے فائدہ مشق)) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)",
+            "سائنسی تحقیق کو روکنا (تباہ کن)) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)"
           ],
           "answerIndex": 0,
           "explanation": "یہ پیچیدہ بیماریوں کے علاج، پائیدار ماحول، صنعتی ترقی اور کائناتی تسخیر کو ممکن بناتا ہے۔"
@@ -12534,9 +12534,9 @@
           "prompt": "سائنس، مصنوعی ذہانت اور ٹیکنالوجی کے جامع سمیکن (Science & Tech Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔ (AI algorithms, genetic CRISPR, space satellites, and renewable energy solutions guarantee 21st-century progress.)",
-            "سائنس نے روبوٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانے کیلکولیٹر کی بیٹری کو کہتے ہیں۔ (Target expression (Urdu))",
-            "سائنس اور ٹیکنالوجی کا انسانی زندگی سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "سائنس نے روبوٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)",
+            "جامع سمیکن صرف پرانے کیلکولیٹر کی بیٹری کو کہتے ہیں۔) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)",
+            "سائنس اور ٹیکنالوجی کا انسانی زندگی سے کوئی تعلق نہیں ہے۔) (Context: سائنس، مصنوعی ذہانت اور ٹیکنالوجی ک)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے الگورتھمز، جینیاتی کرسپر ٹیکنالوجی، خلائی سیٹلائٹس اور تجدید پذیر توانائی کے جدید حل اکیسویں صدی میں سائنسی ترقی اور پائیدار مستقبل کے ضامن ہیں۔» جدید سائنس اور ٹیکنالوجی کا شاہکار ترین جملہ ہے۔"
@@ -12585,9 +12585,9 @@
           "prompt": "کسی دوسرے ملک میں ریاست کی باضابطہ نمائندگی کرنے والے اعلیٰ ترین سفارت کار کو کیا کہتے ہیں؟",
           "options": [
             "سفیر / ہائی کمشنر (Ambassador / High Commissioner - Highest accredited diplomatic envoy)",
-            "صرف کلرک (Target expression (Urdu))",
-            "صرف چوکیدار (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف کلرک) (Context: سفارت کاری، سفارتی آداب اور کونسلر )",
+            "صرف چوکیدار) (Context: سفارت کاری، سفارتی آداب اور کونسلر )",
+            "کوئی نہیں) (Context: سفارت کاری، سفارتی آداب اور کونسلر )"
           ],
           "answerIndex": 0,
           "explanation": "ریاست کے اعلیٰ ترین نمائندے کو «سفیر» (Ambassador) کہتے ہیں۔"
@@ -12600,9 +12600,9 @@
           "prompt": "بین الاقوامی قانون (ویانا کنونشن) کے تحت سفارت کاروں کو حاصل قانونی تحفظ کو کیا کہا جاتا ہے؟",
           "options": [
             "سفارتی استثنا (Diplomatic Immunity - Legal protections and exemptions granted under Vienna Convention)",
-            "صرف ٹول ٹیکس کی چھوٹ (Target expression (Urdu))",
-            "صرف بس کا ٹکٹ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ٹول ٹیکس کی چھوٹ) (Context: سفارت کاری، سفارتی آداب اور کونسلر )",
+            "صرف بس کا ٹکٹ) (Context: سفارت کاری، سفارتی آداب اور کونسلر )",
+            "کوئی نہیں) (Context: سفارت کاری، سفارتی آداب اور کونسلر )"
           ],
           "answerIndex": 0,
           "explanation": "سفارت کاروں کے قانونی تحفظ کو «سفارتی استثنا» (Diplomatic Immunity) کہا جاتا ہے۔"
@@ -12616,9 +12616,9 @@
           "prompt": "سفارت کاری اور سفارتی آداب (Diplomacy & Consular Affairs) کا فصیح جملہ پہچانیے:",
           "options": [
             "سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔ (The ambassador presented credentials while diplomatic immunity under Vienna Convention and consular services strengthen bilateral ties.)",
-            "سفیر نے سفارت خانے کو کڑاہی میں پکا کر گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "اسنادِ سفارت صرف بس کا پاس ہوتا ہے۔ (Target expression (Urdu))",
-            "سفارتی استثنا کا مطلب کسی کو سلام نہ کرنا ہے۔ (Target expression (Urdu))"
+            "سفیر نے سفارت خانے کو کڑاہی میں پکا کر گاڑی چلائی تھی۔) (Context: سفارت کاری، سفارتی آداب اور کونسلر )",
+            "اسنادِ سفارت صرف بس کا پاس ہوتا ہے۔) (Context: سفارت کاری، سفارتی آداب اور کونسلر )",
+            "سفارتی استثنا کا مطلب کسی کو سلام نہ کرنا ہے۔) (Context: سفارت کاری، سفارتی آداب اور کونسلر )"
           ],
           "answerIndex": 0,
           "explanation": "«سفیر نے ریاست کے سربراہ کو اسنادِ سفارت پیش کیں جبکہ ویانا کنونشن کے تحت سفارتی استثنا اور قونصلر خدمات دو طرفہ تعلقات کو مستحکم بناتی ہیں۔» سفارتی بیانیے کا کامل جملہ ہے۔"
@@ -12667,9 +12667,9 @@
           "prompt": "اقوامِ متحدہ کے اس بااختیار ادارے کو کیا کہتے ہیں جو بین الاقوامی امن و سلامتی برقرار رکھنے کا ذمہ دار ہے؟",
           "options": [
             "سلامتی کونسل (UN Security Council - Principal organ responsible for international peace)",
-            "صرف سیاحتی کلب (Target expression (Urdu))",
-            "صرف بلدیاتی کمیٹی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف سیاحتی کلب) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)",
+            "صرف بلدیاتی کمیٹی) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)",
+            "کوئی نہیں) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)"
           ],
           "answerIndex": 0,
           "explanation": "عالمی امن کی ضامن باڈی کو «سلامتی کونسل» (Security Council) کہا جاتا ہے۔"
@@ -12682,9 +12682,9 @@
           "prompt": "سلامتی کونسل کے پانچ مستقل ارکان کو حاصل کسی بھی فیصلے کو روکنے کے خصوصی اختیار کو کیا کہتے ہیں؟",
           "options": [
             "ویٹو پاور / حقِ استرداد (Veto Power - Power of permanent members to block substantive resolutions)",
-            "صرف ووٹ کی رسید (Target expression (Urdu))",
-            "صرف شناختی کارڈ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ووٹ کی رسید) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)",
+            "صرف شناختی کارڈ) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)",
+            "کوئی نہیں) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)"
           ],
           "answerIndex": 0,
           "explanation": "کسی قرارداد کو مسترد کرنے کی خصوصی طاقت کو «ویٹو پاور» (Veto Power) کہتے ہیں۔"
@@ -12698,9 +12698,9 @@
           "prompt": "اقوامِ متحدہ اور سلامتی کونسل (United Nations & Security Council) کا فصیح جملہ پہچانیے:",
           "options": [
             "اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔ (UN General Assembly and Security Council resolutions form the milestone for peaceful conflict resolution and global peace.)",
-            "سلامتی کونسل نے چائے پی کر قلم کو سمندر میں پھینکا تھا اور روئی تھی۔ (Target expression (Urdu))",
-            "ویٹو پاور صرف اسکول کے مانیٹر کو ملتی ہے۔ (Target expression (Urdu))",
-            "اقوامِ متحدہ میں کسی ملک کو بولنے کی اجازت نہیں ہوتی۔ (Target expression (Urdu))"
+            "سلامتی کونسل نے چائے پی کر قلم کو سمندر میں پھینکا تھا اور روئی تھی۔) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)",
+            "ویٹو پاور صرف اسکول کے مانیٹر کو ملتی ہے۔) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)",
+            "اقوامِ متحدہ میں کسی ملک کو بولنے کی اجازت نہیں ہوتی۔) (Context: اقوامِ متحدہ، کثیر القومی معاہدات ا)"
           ],
           "answerIndex": 0,
           "explanation": "«اقوامِ متحدہ کی جنرل اسمبلی اور سلامتی کونسل کی قراردادیں عالمی تنازعات کے پرامن حل، خودمختاری کے احترام اور بین الاقوامی امن کے قیام کا سنگِ میل ہیں۔» عالمی امور کا جامع ترین جملہ ہے۔"
@@ -12749,9 +12749,9 @@
           "prompt": "پاکستان اور چین کے مابین اربوں ڈالر کے تاریخی تجارتی اور انفراسٹرکچر منصوبے کا کیا نام ہے؟",
           "options": [
             "پاک چین اقتصادی راہداری / سی پیک (CPEC - China-Pakistan Economic Corridor)",
-            "صرف مقامی شاہراہ (Target expression (Urdu))",
-            "صرف رکشہ اسکیم (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف مقامی شاہراہ) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)",
+            "صرف رکشہ اسکیم) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)",
+            "کوئی نہیں) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)"
           ],
           "answerIndex": 0,
           "explanation": "اس فلیگ شپ منصوبے کو «سی پیک» (CPEC) کہا جاتا ہے۔"
@@ -12764,9 +12764,9 @@
           "prompt": "خارجہ پالیسی میں طاقت کی سیاست (Geopolitics) کے مقابلے میں تجارتی اور معاشی ترقی کو ترجیح دینے کے تصور کو کیا کہتے ہیں؟",
           "options": [
             "جغرافیائی معیشت / جیو اکنامکس (Geoeconomics - Prioritizing economic connectivity and trade over political rivalry)",
-            "صرف زرعی منڈی (Target expression (Urdu))",
-            "صرف ریلوے ٹکٹ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف زرعی منڈی) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)",
+            "صرف ریلوے ٹکٹ) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)",
+            "کوئی نہیں) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)"
           ],
           "answerIndex": 0,
           "explanation": "معاشی مفادات پر مبنی سفارت کاری کو «جیو اکنامکس» (Geoeconomics) کہتے ہیں۔"
@@ -12780,9 +12780,9 @@
           "prompt": "خارجہ پالیسی اور اقتصادی سفارت کاری (Foreign Policy & CPEC) کا مستند جملہ پہچانیے:",
           "options": [
             "پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔ (Pakistan's foreign policy focuses on peaceful coexistence, non-interference, and geoeconomic projects like CPEC for regional prosperity.)",
-            "خارجہ پالیسی نے سی پیک کو ہانڈی میں پکا کر گاڑی چلائی تھی۔ (Target expression (Urdu))",
-            "سی پیک کا مطلب صرف سائیکل کی مرمت کرنا ہے۔ (Target expression (Urdu))",
-            "عدم مداخلت کا مطلب ہر ملک پر حملہ کرنا ہوتا ہے۔ (Target expression (Urdu))"
+            "خارجہ پالیسی نے سی پیک کو ہانڈی میں پکا کر گاڑی چلائی تھی۔) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)",
+            "سی پیک کا مطلب صرف سائیکل کی مرمت کرنا ہے۔) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)",
+            "عدم مداخلت کا مطلب ہر ملک پر حملہ کرنا ہوتا ہے۔) (Context: خارجہ پالیسی، دو طرفہ تعلقات اور سی)"
           ],
           "answerIndex": 0,
           "explanation": "«پاکستان کی خارجہ پالیسی پرامن بقائے باہمی، عدم مداخلت اور سی پیک جیسے جیو اکنامک منصوبوں کے ذریعے علاقائی رابطوں اور معاشی خوشحالی کے فروغ پر مرکوز ہے۔» خارجہ پالیسی کا کامل ترین جملہ ہے۔"
@@ -12831,9 +12831,9 @@
           "prompt": "کسی بین الاقوامی سربراہی کانفرنس کے اختتام پر تمام ممالک کی طرف سے جاری کردہ متفقہ دستاویز کو کیا کہتے ہیں؟",
           "options": [
             "مشترکہ اعلامیہ (Joint Communiqué - Official agreed declaration issued after a diplomatic summit)",
-            "صرف اخباری اشتہار (Target expression (Urdu))",
-            "صرف رسید (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف اخباری اشتہار) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)",
+            "صرف رسید) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)",
+            "کوئی نہیں) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)"
           ],
           "answerIndex": 0,
           "explanation": "متفقہ باضابطہ بیان کو «مشترکہ اعلامیہ» (Joint Communiqué) کہتے ہیں۔"
@@ -12846,9 +12846,9 @@
           "prompt": "دنیا بھر کی 57 مسلم ریاستوں کی نمائندگی کرنے والی بااثر بین الاقوامی تنظیم کا کیا نام ہے؟",
           "options": [
             "اسلامی تعاون تنظیم / او آئی سی (OIC - Organisation of Islamic Cooperation)",
-            "ناٹو (Target expression (Urdu))",
-            "یورپی یونین (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ناٹو) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)",
+            "یورپی یونین) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)",
+            "کوئی نہیں) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)"
           ],
           "answerIndex": 0,
           "explanation": "مسلم ممالک کے بلاک کو «او آئی سی» (OIC) کہا جاتا ہے۔"
@@ -12862,9 +12862,9 @@
           "prompt": "علاقائی تنظیموں اور کثیر الجہتی سمٹس (Regional Blocs & SCO/OIC) کا فصیح جملہ پہچانیے:",
           "options": [
             "شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔ (Summit meetings of SCO and OIC issued joint communiqués affirming regional security, trade corridors, and peaceful coexistence.)",
-            "او آئی سی نے سمٹ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔ (Target expression (Urdu))",
-            "مشترکہ اعلامیہ صرف اسکول کے بچوں کا ہوم ورک ہوتا ہے۔ (Target expression (Urdu))",
-            "شنگھائی تنظیم میں کسی قسم کے مذاکرات نہیں ہوتے۔ (Target expression (Urdu))"
+            "او آئی سی نے سمٹ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)",
+            "مشترکہ اعلامیہ صرف اسکول کے بچوں کا ہوم ورک ہوتا ہے۔) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)",
+            "شنگھائی تنظیم میں کسی قسم کے مذاکرات نہیں ہوتے۔) (Context: علاقائی تنظیمیں، سارک، شنگھائی تعاو)"
           ],
           "answerIndex": 0,
           "explanation": "«شنگھائی تعاون تنظیم اور او آئی سی کے سربراہی اجلاسوں میں مشترکہ اعلامیہ جاری کر کے علاقائی سلامتی، تجارتی راہداریوں اور پرامن بقائے باہمی کی توثیق کی گئی۔» بین الاقوامی کانفرنسوں کا مستند ترین جملہ ہے۔"
@@ -12913,9 +12913,9 @@
           "prompt": "سفارت کاری، خارجہ پالیسی اور بین الاقوامی تعلقات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ (Masterful synthesis of diplomacy, UN Charter, peaceful foreign policy, CPEC, and regional blocs)",
-            "ہم نے سفارت خانے کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف جھنڈے گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے سفارت خانے کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)",
+            "وہ صرف جھنڈے گنتا رہتا ہے (غیر معیاری)) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)",
+            "کوئی نہیں) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)"
           ],
           "answerIndex": 0,
           "explanation": "«سفارت کاری، اقوامِ متحدہ کا منشور، پرامن خارجہ پالیسی، سی پیک اور علاقائی بلاکس کا مربوط مطالعہ» عالمی تعلقات کا کامل ترین سمیکن ہے۔"
@@ -12928,9 +12928,9 @@
           "prompt": "ایک باوقار اور متحرک خارجہ پالیسی اور سفارت کاری کا جامع سمیکن ریاست کے لیے کیا حاصل کرتا ہے؟",
           "options": [
             "قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار (Protecting national sovereignty, economic growth, regional peace, and high global standing)",
-            "صرف سفارتی دعوتیں اڑانا (محدود دائرہ) (Target expression (Urdu))",
-            "صرف ویزا کی فیس وصول کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "عالمی قوانین کی خلاف ورزی کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف سفارتی دعوتیں اڑانا (محدود دائرہ)) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)",
+            "صرف ویزا کی فیس وصول کرنا (بے فائدہ مشق)) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)",
+            "عالمی قوانین کی خلاف ورزی کرنا (تباہ کن)) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)"
           ],
           "answerIndex": 0,
           "explanation": "یہ قومی خود مختاری کا تحفظ، اقتصادی ترقی، علاقائی امن اور بلند بین الاقوامی وقار حاصل کرتا ہے۔"
@@ -12944,9 +12944,9 @@
           "prompt": "سفارت کاری اور خارجہ تعلقات کے جامع سمیکن (Diplomacy & Foreign Affairs Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔ (Independent foreign policy based on UN Charter, Vienna diplomatic protocol, and economic ties via CPEC and SCO guarantee global peace.)",
-            "خارجہ پالیسی نے پاسپورٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانے ویزا اسٹیمپ کو کہتے ہیں۔ (Target expression (Urdu))",
-            "سفارت کاری کا ریاست کے مفادات سے کوئی تعلق نہیں ہوتا۔ (Target expression (Urdu))"
+            "خارجہ پالیسی نے پاسپورٹ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)",
+            "جامع سمیکن صرف پرانے ویزا اسٹیمپ کو کہتے ہیں۔) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)",
+            "سفارت کاری کا ریاست کے مفادات سے کوئی تعلق نہیں ہوتا۔) (Context: سفارت کاری، خارجہ پالیسی اور بین ال)"
           ],
           "answerIndex": 0,
           "explanation": "«اقوامِ متحدہ کے منشور پر مبنی آزاد خارجہ پالیسی، ویانا کنونشن کے سفارتی آداب، اور سی پیک و شنگھائی تعاون تنظیم کے ذریعے اقتصادی روابط ہی عالمی امن اور ملکی ترقی کے ضامن ہیں۔» سفارت کاری کا کامل ترین شاہکار جملہ ہے۔"
@@ -12995,9 +12995,9 @@
           "prompt": "شیخ اکبر ابنِ عربی کے اس مشہور فلسفے کو کیا کہتے ہیں جس کے مطابق کائنات کا واحد حقیقی وجود صرف ذاتِ حق ہے؟",
           "options": [
             "وحدت الوجود (Wahdat-ul-Wujood - Ontological monism / Unity of Being by Ibn Arabi)",
-            "مادہ پرستی (Target expression (Urdu))",
-            "خام عقلیت پسندی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "مادہ پرستی) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)",
+            "خام عقلیت پسندی) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)",
+            "کوئی نہیں) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)"
           ],
           "answerIndex": 0,
           "explanation": "ابنِ عربی کے نظریۂ وجود کو «وحدت الوجود» (Unity of Being) کہتے ہیں۔"
@@ -13010,9 +13010,9 @@
           "prompt": "صوفیانہ سلوک میں نفسانی خواہشات کے خاتمے اور ذاتِ حق میں گم ہو جانے کی کیفیت کو کیا کہا جاتا ہے؟",
           "options": [
             "فنا فی اللہ / فنا (Fana-fillah - Mystical annihilation of ego in the Divine)",
-            "صرف دنیاوی نیند (Target expression (Urdu))",
-            "صرف بھوک لگنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف دنیاوی نیند) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)",
+            "صرف بھوک لگنا) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)",
+            "کوئی نہیں) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)"
           ],
           "answerIndex": 0,
           "explanation": "انا اور نفس کی تحلیل کو تصوف میں «فنا فی اللہ» (Fana) کہتے ہیں۔"
@@ -13026,9 +13026,9 @@
           "prompt": "تصوف اور مابعد الطبیعیات (Sufi Metaphysics & Ontology) کا عمیق و فصیح جملہ پہچانیے:",
           "options": [
             "ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔ (Ibn Arabi's Wahdat-ul-Wujood and Mujaddid's Wahdat-ush-Shahood made metaphysics and mystical ascension luminous jewels of Islamic thought.)",
-            "تصوف نے کڑاہی میں حلوہ پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "وحدت الوجود کا مطلب صرف بازار سے سودا سلف لانا ہے۔ (Target expression (Urdu))",
-            "مابعد الطبیعیات کا فلسفے سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "تصوف نے کڑاہی میں حلوہ پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)",
+            "وحدت الوجود کا مطلب صرف بازار سے سودا سلف لانا ہے۔) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)",
+            "مابعد الطبیعیات کا فلسفے سے کوئی تعلق نہیں ہے۔) (Context: وجودیت، وحدت الوجود اور وحدت الشہود)"
           ],
           "answerIndex": 0,
           "explanation": "«ابنِ عربی کے فلسفۂ وحدت الوجود اور مجدد الف ثانی کے نظریہ وحدت الشہود نے مابعد الطبیعیات، فنا و بقا اور روحانی سلوک کو اسلامی فکر کا تابندہ نگینہ بنا دیا۔» مابعد الطبیعیات کا شاہکار جملہ ہے۔"
@@ -13077,9 +13077,9 @@
           "prompt": "علامہ اقبال کے اس بنیادی فلسفیانہ نظریے کو کیا کہتے ہیں جو خود شناسی اور خود انحصاری کا درس دیتا ہے؟",
           "options": [
             "فلسفۂ خودی (Philosophy of Khudi / Selfhood - Iqbalian concept of spiritual self-realization)",
-            "صرف کاہلی (Target expression (Urdu))",
-            "صرف تقدیر پرستی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف کاہلی) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )",
+            "صرف تقدیر پرستی) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )",
+            "کوئی نہیں) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )"
           ],
           "answerIndex": 0,
           "explanation": "علامہ اقبال کے بنیادی فکری نظریے کو «فلسفۂ خودی» (Selfhood) کہتے ہیں۔"
@@ -13092,9 +13092,9 @@
           "prompt": "علامہ اقبال کے نزدیک عقل کی محتاط مصلحت پسندی کے مقابلے میں کون سا باطنی جذبہ انقلابی تخلیقی قوت رکھتا ہے؟",
           "options": [
             "عشق / عشقِ حقیقی (Ishq - Intuitive, passionate spiritual dynamic and revolutionary love)",
-            "صرف کاغذی حساب کتاب (Target expression (Urdu))",
-            "صرف سستی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف کاغذی حساب کتاب) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )",
+            "صرف سستی) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )",
+            "کوئی نہیں) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )"
           ],
           "answerIndex": 0,
           "explanation": "اقبال کے ہاں عقل سے برتر تخلیقی قوت کو «عشق» کہا جاتا ہے۔"
@@ -13108,9 +13108,9 @@
           "prompt": "علامہ اقبال کے فلسفۂ خودی اور الہیات (Iqbal's Philosophy of Khudi) کا فصیح جملہ پہچانیے:",
           "options": [
             "علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔ (Iqbal's philosophy of Khudi, synthesis of reason and love, and concept of Mard-e-Momin illuminate cosmic conquest and moral excellence.)",
-            "اقبال نے خودی کو پلیٹ میں رکھ کر گاڑی روئی تھی اور چائے پی تھی۔ (Target expression (Urdu))",
-            "خودی کا مطلب صرف اپنے آپ پر مغرور ہونا ہے۔ (Target expression (Urdu))",
-            "تشکیلِ جدید الہیات صرف کہانیوں کی کتاب ہے۔ (Target expression (Urdu))"
+            "اقبال نے خودی کو پلیٹ میں رکھ کر گاڑی روئی تھی اور چائے پی تھی۔) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )",
+            "خودی کا مطلب صرف اپنے آپ پر مغرور ہونا ہے۔) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )",
+            "تشکیلِ جدید الہیات صرف کہانیوں کی کتاب ہے۔) (Context: علامہ اقبال کا فلسفۂ خودی، عشق اور )"
           ],
           "answerIndex": 0,
           "explanation": "«علامہ اقبال کا فلسفۂ خودی، عقل و عشق کا تخلیقی امتزاج اور مردِ مومن کا تصور انسان کو کائنات کی تسخیر اور اخلاقی بلندیوں کا روشن راستہ دکھاتا ہے۔» فکرِ اقبال کا شاہکار ترین جملہ ہے۔"
@@ -13159,9 +13159,9 @@
           "prompt": "اسلامی عقائد کو عقلی و منطقی دلائل کے ذریعے ثابت کرنے اور شکوک کا جواب دینے والے علم کو کیا کہتے ہیں؟",
           "options": [
             "علمِ کلام (Ilm-ul-Kalam - Islamic Scholastic Theology defending faith through rational discourse)",
-            "صرف علمِ اعداد (Target expression (Urdu))",
-            "صرف صرف و نحو (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف علمِ اعداد) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)",
+            "صرف صرف و نحو) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)",
+            "کوئی نہیں) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)"
           ],
           "answerIndex": 0,
           "explanation": "عقائد کے عقلی دفاع کو «علمِ کلام» (Ilm-ul-Kalam) کہتے ہیں۔"
@@ -13174,9 +13174,9 @@
           "prompt": "امام غزالی کی اس مشہور فلسفیانہ و کلامی کتاب کا کیا نام ہے جس میں انہوں نے یونانی فلاسفہ کے مابعد الطبیعیاتی دلائل کا رد کیا؟",
           "options": [
             "تہافت الفلاسفہ (Tahafut al-Falasifa - The Incoherence of the Philosophers by Imam Ghazali)",
-            "گلستانِ سعدی (Target expression (Urdu))",
-            "دیوانِ غالب (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "گلستانِ سعدی) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)",
+            "دیوانِ غالب) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)",
+            "کوئی نہیں) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)"
           ],
           "answerIndex": 0,
           "explanation": "امام غزالی کی شہرۂ آفاق تصنیف «تہافت الفلاسفہ» ہے۔"
@@ -13190,9 +13190,9 @@
           "prompt": "کلاسیکی علمِ کلام اور متکلمین (Scholastic Theology & Kalam) کا فصیح جملہ پہچانیے:",
           "options": [
             "کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔ (Debates between Ash'arites and Mu'tazilites, Ghazali's Tahafut, and the doctrine of Kasb fortified Islamic theology.)",
-            "علمِ کلام نے چائے میں بسکٹ بھگو کر گاڑی پر ڈالا تھا رویا تھا۔ (Target expression (Urdu))",
-            "تہافت الفلاسفہ صرف کھانوں کی ریسیپی کی کتاب ہے۔ (Target expression (Urdu))",
-            "معتزلہ کا تعلق صرف کپڑے سلائی کرنے سے تھا۔ (Target expression (Urdu))"
+            "علمِ کلام نے چائے میں بسکٹ بھگو کر گاڑی پر ڈالا تھا رویا تھا۔) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)",
+            "تہافت الفلاسفہ صرف کھانوں کی ریسیپی کی کتاب ہے۔) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)",
+            "معتزلہ کا تعلق صرف کپڑے سلائی کرنے سے تھا۔) (Context: کلاسیکی علمِ کلام، معتزلہ، اشاعرہ ا)"
           ],
           "answerIndex": 0,
           "explanation": "«کلاسیکی علمِ کلام میں اشاعرہ اور معتزلہ کے مناظرات، امام غزالی کی تہافت الفلاسفہ اور نظریۂ کسب نے اسلامی الہیات کو عقلی و فلسفیانہ مضبوطی عطا کی۔» علمِ کلام کا جامع ترین جملہ ہے۔"
@@ -13241,9 +13241,9 @@
           "prompt": "اس فلسفیانہ مکتب کو کیا کہتے ہیں جو انسان کے انفرادی وجود، آزادی اور زندگی کے معنی خود تلاش کرنے پر زور دیتا ہے؟",
           "options": [
             "وجودیت / فلسفۂ وجودیت (Existentialism - Philosophy emphasizing individual existence, freedom, and choice)",
-            "صرف میکانیکی نظریہ (Target expression (Urdu))",
-            "صرف نحو و قواعد (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف میکانیکی نظریہ) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)",
+            "صرف نحو و قواعد) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)",
+            "کوئی نہیں) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)"
           ],
           "answerIndex": 0,
           "explanation": "انفرادی آزادی اور وجودی انتخاب کے فلسفے کو «وجودیت» (Existentialism) کہتے ہیں۔"
@@ -13256,9 +13256,9 @@
           "prompt": "عقل اور حواس کے علاوہ انسان کے اندر موجود اس باطنی فہم کو کیا کہتے ہیں جو حقائق کو براہِ راست محسوس کرتا ہے؟",
           "options": [
             "وجدان / باطنی بصیرت (Intuition / Wijdaan - Immediate spiritual cognition and inner moral insight)",
-            "صرف گنتی گننا (Target expression (Urdu))",
-            "صرف کتاب کا سرورق (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف گنتی گننا) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)",
+            "صرف کتاب کا سرورق) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)",
+            "کوئی نہیں) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)"
           ],
           "answerIndex": 0,
           "explanation": "باطنی بصیرت کو فلسفے اور تصوف میں «وجدان» (Intuition) کہتے ہیں۔"
@@ -13272,9 +13272,9 @@
           "prompt": "وجودیت اور اخلاقی فلسفہ (Existentialism & Meaning of Life) کا مستند جملہ پہچانیے:",
           "options": [
             "وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔ (The synthesis of existential moral autonomy and mystical intuition made the quest for meaning humanity's highest journey.)",
-            "وجودیت نے قلم کو چولہے پر جلا کر گاڑی روئی تھی اور چائے پی تھی۔ (Target expression (Urdu))",
-            "وجدان صرف آنکھیں بند کر کے سو جانے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اخلاقی فلسفے کا نیکی اور بدی سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "وجودیت نے قلم کو چولہے پر جلا کر گاڑی روئی تھی اور چائے پی تھی۔) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)",
+            "وجدان صرف آنکھیں بند کر کے سو جانے کو کہتے ہیں۔) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)",
+            "اخلاقی فلسفے کا نیکی اور بدی سے کوئی تعلق نہیں ہے۔) (Context: وجودیت، جدید اخلاقی فلسفہ اور معنیِ)"
           ],
           "answerIndex": 0,
           "explanation": "«وجودی فلسفے کی اخلاقی خود مختاری اور صوفیانہ وجدان کے امتزاج نے معنیِ حیات کی تلاش کو انسانی شعور کا بلند ترین فکری سفر بنا دیا۔» وجودی فلسفے کا کامل ترین جملہ ہے۔"
@@ -13323,9 +13323,9 @@
           "prompt": "فلسفہ، تصوف اور الہیات کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ (Masterful synthesis of ontology, Iqbalian Khudi, Scholastic theology, and existential ethics)",
-            "ہم نے فلسفے کی کتاب کے اوپر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف صوفیانہ تسبیح کے دانے گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے فلسفے کی کتاب کے اوپر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)",
+            "وہ صرف صوفیانہ تسبیح کے دانے گنتا رہتا ہے (غیر معیاری)) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)",
+            "کوئی نہیں) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "«وحدت الوجود و الشہود، اقبال کے فلسفۂ خودی، علمِ کلام اور وجودی اخلاقیات کا مربوط فلسفیانہ مطالعہ» مابعد الطبیعیات کا کامل سمیکن ہے۔"
@@ -13338,9 +13338,9 @@
           "prompt": "فلسفہ، تصوف اور الہیات کا جامع سمیکن انسان کے اندر کس فکری و روحانی کیفیت کو بیدار کرتا ہے؟",
           "options": [
             "عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی (Self-realization, spiritual peace, intellectual insight, and harmony with the cosmos)",
-            "صرف الجھنوں میں مبتلا رہنا (منفی رویہ) (Target expression (Urdu))",
-            "صرف پرانی بحثیں دہرانا (بے فائدہ مشق) (Target expression (Urdu))",
-            "اخلاقی اقدار کو فراموش کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف الجھنوں میں مبتلا رہنا (منفی رویہ)) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)",
+            "صرف پرانی بحثیں دہرانا (بے فائدہ مشق)) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)",
+            "اخلاقی اقدار کو فراموش کرنا (تباہ کن)) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "یہ عرفانِ ذات، قلبی تسکین، عقلی بصیرت اور کائنات کے ساتھ ہم آہنگی پیدا کرتا ہے۔"
@@ -13354,9 +13354,9 @@
           "prompt": "فلسفہ، تصوف اور الہیات کے جامع سمیکن (Philosophy & Sufi Metaphysics Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔ (Ibn Arabi's Wujood, Mujaddid's Shahood, Iqbal's Khudi, and Ghazali's Kalam are grand masterpieces of human thought.)",
-            "فلسفے نے تصوف کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانی درگاہ کی دیوار کو کہتے ہیں۔ (Target expression (Urdu))",
-            "فلسفہ اور تصوف کا عقل و شعور سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "فلسفے نے تصوف کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)",
+            "جامع سمیکن صرف پرانی درگاہ کی دیوار کو کہتے ہیں۔) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)",
+            "فلسفہ اور تصوف کا عقل و شعور سے کوئی تعلق نہیں ہے۔) (Context: فلسفہ، تصوف اور الہیات کا جامع سمیک)"
           ],
           "answerIndex": 0,
           "explanation": "«ابنِ عربی کی وحدت الوجود، مجدد الف ثانی کی وحدت الشہود، اقبال کا فلسفۂ خودی اور امام غزالی کا علمِ کلام انسانی فکر، اخلاقیات اور روحانی بصیرت کا عظیم الشان شاہکار ہے۔» فلسفیانہ سمیکن کا کامل ترین جملہ ہے۔"
@@ -13487,9 +13487,9 @@
           "prompt": "کلام میں ایسے الفاظ لانا جو ایک دوسرے کے ساتھ باہمی تعلق رکھتے ہوں (جیسے تیر، کمان، شکار) کیا کہلاتا ہے؟",
           "options": [
             "مراعاۃ النظیر / تناسب (Mura'at-un-Nazeer - Semantic congruence of interrelated words)",
-            "صرف جھگڑا (Target expression (Urdu))",
-            "صرف غلط بیانی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف جھگڑا) (Context: علمِ بدیع)",
+            "صرف غلط بیانی) (Context: علمِ بدیع)",
+            "کوئی نہیں) (Context: علمِ بدیع)"
           ],
           "answerIndex": 0,
           "explanation": "ہم رشتہ الفاظ لانے کو «مراعاۃ النظیر» کہتے ہیں۔"
@@ -13502,9 +13502,9 @@
           "prompt": "کسی قدرتی امر کی شاعرانہ اور دلکش خیالی وجہ تراشنے کی صنعت کو کیا کہتے ہیں؟",
           "options": [
             "حسنِ تعلیل (Husn-e-Ta'leel - Poetic ascription of imaginative causality to a natural event)",
-            "صرف شکایت کرنا (Target expression (Urdu))",
-            "صرف خواب دیکھنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف شکایت کرنا) (Context: علمِ بدیع)",
+            "صرف خواب دیکھنا) (Context: علمِ بدیع)",
+            "کوئی نہیں) (Context: علمِ بدیع)"
           ],
           "answerIndex": 0,
           "explanation": "شاعرانہ سبب بیان کرنے کو «حسنِ تعلیل» کہا جاتا ہے۔"
@@ -13518,9 +13518,9 @@
           "prompt": "علمِ بدیع اور صنائعِ لفظی و معنوی (Ilm-ul-Badee' & Embellishments) کا مستند جملہ پہچانیے:",
           "options": [
             "علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔ (Embellishments of Ilm-ul-Badee' like paronomasia, antithesis, and poetic causality enrich Urdu with cadence and novelty.)",
-            "علمِ بدیع نے کھڑکی کھول کر گاڑی پر چائے گرائی تھی رویا تھا۔ (Target expression (Urdu))",
-            "تجنیس کا مطلب صرف بازار سے پھل خریدنا ہوتا ہے۔ (Target expression (Urdu))",
-            "حسنِ تعلیل صرف گاڑی کے انجن کی خرابی کو کہتے ہیں۔ (Target expression (Urdu))"
+            "علمِ بدیع نے کھڑکی کھول کر گاڑی پر چائے گرائی تھی رویا تھا۔) (Context: علمِ بدیع)",
+            "تجنیس کا مطلب صرف بازار سے پھل خریدنا ہوتا ہے۔) (Context: علمِ بدیع)",
+            "حسنِ تعلیل صرف گاڑی کے انجن کی خرابی کو کہتے ہیں۔) (Context: علمِ بدیع)"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بدیع کی صنایع جیسے تجنیس، تضاد، مراعاۃ النظیر اور حسنِ تعلیل کلاسیکی اردو نثر و نظم کو نغمگی، توازن اور ندرتِ خیال سے مالامال کرتی ہیں۔» علمِ بدیع کا کامل جملہ ہے۔"
@@ -13569,9 +13569,9 @@
           "prompt": "اس نثری انداز کو کیا کہتے ہیں جس میں جملوں کے ٹکڑے ہم قافیہ اور ہم وزن ہوں؟",
           "options": [
             "مسجع و مقفیٰ نثر (Rhymed and rhythmic cadenced prose - Musajja and Muqaffa)",
-            "صرف عام روزمرہ بات چیت (Target expression (Urdu))",
-            "صرف خاموشی (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف عام روزمرہ بات چیت) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)",
+            "صرف خاموشی) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)",
+            "کوئی نہیں) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)"
           ],
           "answerIndex": 0,
           "explanation": "ہم قافیہ اور ہم وزن نثر کو «مسجع و مقفیٰ نثر» کہتے ہیں۔"
@@ -13584,9 +13584,9 @@
           "prompt": "دلائل اور منطق کے زور پر مخالف فریق کے اعتراضات کا لاجواب رد کرنے والے اسلوبِ بیان کو کیا کہتے ہیں؟",
           "options": [
             "مناظرانہ اسلوب / مسکت استدلال (Polemical discourse / Conclusive debate style)",
-            "صرف جھگڑا کرنا (Target expression (Urdu))",
-            "صرف میدان چھوڑنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف جھگڑا کرنا) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)",
+            "صرف میدان چھوڑنا) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)",
+            "کوئی نہیں) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)"
           ],
           "answerIndex": 0,
           "explanation": "دلائل سے مخالف کو قائل کرنے کو «مناظرانہ اسلوب» کہا جاتا ہے۔"
@@ -13600,9 +13600,9 @@
           "prompt": "کلاسیکی خطابت اور مناظرانہ اسلوب (Classical Oratory & Polemics) کا فصیح جملہ پہچانیے:",
           "options": [
             "کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔ (Maulana Azad's magnificent style, cadenced prose, and polemical reasoning in classical oratory conquer minds.)",
-            "خطابت نے لاؤڈ اسپیکر کو کڑاہی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔ (Target expression (Urdu))",
-            "مناظرانہ اسلوب صرف گلی محلے کے شور شرابے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "مسجع نثر میں کوئی قافیہ یا وزن نہیں ہوتا۔ (Target expression (Urdu))"
+            "خطابت نے لاؤڈ اسپیکر کو کڑاہی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)",
+            "مناظرانہ اسلوب صرف گلی محلے کے شور شرابے کو کہتے ہیں۔) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)",
+            "مسجع نثر میں کوئی قافیہ یا وزن نہیں ہوتا۔) (Context: کلاسیکی خطابت اور مناظرانہ اسلوب (C)"
           ],
           "answerIndex": 0,
           "explanation": "«کلاسیکی خطابت میں مولانا ابوالکلام آزاد کا پرشکوہ اسلوب، مسجع و مقفیٰ کلام اور مناظرانہ استدلال مجمع کو مسحور اور فکری طور پر مسخر کر دیتا ہے۔» خطابت کا کامل ترین جملہ ہے۔"
@@ -13651,9 +13651,9 @@
           "prompt": "کلاسیکی دور میں شاہی خطوط، فرامین اور ادبی مراسلت تحریر کرنے کے باقاعدہ فن کو کیا کہتے ہیں؟",
           "options": [
             "انشا پردازی / انشا نویسی (Insha-pardazi - Classical art of ornate epistolography and drafting royal edicts)",
-            "صرف خاکہ کشی (Target expression (Urdu))",
-            "صرف ٹائپنگ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف خاکہ کشی) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)",
+            "صرف ٹائپنگ) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)",
+            "کوئی نہیں) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)"
           ],
           "answerIndex": 0,
           "explanation": "شائستہ و پرشکوہ خطوط اور فرامین کے فن کو «انشا پردازی» کہتے ہیں۔"
@@ -13666,9 +13666,9 @@
           "prompt": "تاریخ کے روزمرہ واقعات اور درباری حالات کو باضابطہ قلمبند کرنے والے مؤرخ کو کیا کہا جاتا تھا؟",
           "options": [
             "وقائع نگار / وقائع نویس (Waqai-nigar - Official court chronicler recording historical events)",
-            "صرف گاہک (Target expression (Urdu))",
-            "صرف ڈاکیا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف گاہک) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)",
+            "صرف ڈاکیا) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)",
+            "کوئی نہیں) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)"
           ],
           "answerIndex": 0,
           "explanation": "تاریخی احوال قلمبند کرنے والے کو «وقائع نگار» کہتے ہیں۔"
@@ -13682,9 +13682,9 @@
           "prompt": "عہدِ مغلیہ کی انشا پردازی اور تاریخ نویسی (Mughal Insha & Historiography) کا فصیح جملہ پہچانیے:",
           "options": [
             "مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔ (Mughal Insha, royal edicts, and Abul Fazl's historiography endowed Urdu prose with grandeur of honorifics.)",
-            "انشا پردازی نے قلم کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔ (Target expression (Urdu))",
-            "وقائع نگار صرف اخبار بیچنے والے لڑکے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "مغلیہ نثر میں کوئی ادبی یا لسانی خوبی نہیں تھی۔ (Target expression (Urdu))"
+            "انشا پردازی نے قلم کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)",
+            "وقائع نگار صرف اخبار بیچنے والے لڑکے کو کہتے ہیں۔) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)",
+            "مغلیہ نثر میں کوئی ادبی یا لسانی خوبی نہیں تھی۔) (Context: عہدِ اکبری و مغلیہ انشا اور تاریخ ن)"
           ],
           "answerIndex": 0,
           "explanation": "«مغلیہ عہد کی انشا پردازی، شاہی فرامین اور ابوالفضل کی تاریخ نویسی نے اردو نثری اسلوب کو القاب و آداب کا شکوہ اور الفاظ کی نادر رفعت عطا کی۔» انشا پردازی کا مستند ترین جملہ ہے۔"
@@ -13733,9 +13733,9 @@
           "prompt": "اعلیٰ نثری بلاغت، صنایعِ بدیع اور کلاسیکی خطابت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ (Masterful synthesis of rhetoric, stylistic embellishments, cadenced oratory, and Mughal Insha)",
-            "ہم نے بلاغت کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف پرانے مائیک کی تاریں گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے بلاغت کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )",
+            "وہ صرف پرانے مائیک کی تاریں گنتا رہتا ہے (غیر معیاری)) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )",
+            "کوئی نہیں) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بیان، علمِ بدیع کی صنایع، مسجع خطابت اور مغلیہ انشا پردازی کا مربوط بلاغتی مطالعہ» بلاغت کا کامل سمیکن ہے۔"
@@ -13748,9 +13748,9 @@
           "prompt": "اعلیٰ نثری بلاغت اور خطابت کا جامع سمیکن اردو کے ادیب یا طالب علم کو کیا فائدہ پہنچاتا ہے؟",
           "options": [
             "پرتاثیر اندازِ تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور (Impactful writing, fiery oratory, literary elegance, and mastery over lexical grandeur)",
-            "صرف شور مچانا (منفی رویہ) (Target expression (Urdu))",
-            "صرف غلط تلفظ بولنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "ادبی قواعد کو ترک کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف شور مچانا (منفی رویہ)) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )",
+            "صرف غلط تلفظ بولنا (بے فائدہ مشق)) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )",
+            "ادبی قواعد کو ترک کرنا (تباہ کن)) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )"
           ],
           "answerIndex": 0,
           "explanation": "یہ پرتاثیر تحریر، شعلہ نوا خطابت، ادبی نفاست اور شکوہِ الفاظ پر عبور بخشتا ہے۔"
@@ -13764,9 +13764,9 @@
           "prompt": "اعلیٰ نثری بلاغت اور کلاسیکی خطابت کے جامع سمیکن (Classical Rhetoric & High Oratory Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔ (Rare metaphors, embellishments of Badee', cadenced oratory, and Mughal Insha are the luminous Taj Mahal of Urdu prose.)",
-            "بلاغت نے خطابت کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانے لاؤڈ اسپیکر کی بیٹری کو کہتے ہیں۔ (Target expression (Urdu))",
-            "نثری بلاغت کا اردو ادب کی تاریخ سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "بلاغت نے خطابت کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )",
+            "جامع سمیکن صرف پرانے لاؤڈ اسپیکر کی بیٹری کو کہتے ہیں۔) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )",
+            "نثری بلاغت کا اردو ادب کی تاریخ سے کوئی تعلق نہیں ہے۔) (Context: اعلیٰ نثری بلاغت اور کلاسیکی خطابت )"
           ],
           "answerIndex": 0,
           "explanation": "«علمِ بیان کے نادر استعارے، علمِ بدیع کی دلکش صنایع، ابوالکلام آزاد کی مسجع خطابت اور مغلیہ انشا پردازی اردو نثر و ادب کا تابندہ اور پرشکوہ تاج محل ہیں۔» نثری بلاغت کا شاہکار ترین جملہ ہے۔"
@@ -13815,9 +13815,9 @@
           "prompt": "اردو زبان کی بنیادی نحوی اور صرفی ساخت کس ہند آریائی بولی سے براہِ راست تعلق رکھتی ہے؟",
           "options": [
             "کھڑی بولی / شورسینی اپ بھرنش (Khari Boli / Shauraseni Apabhramsha - Direct ancestral dialect of Urdu)",
-            "صرف لاطینی زبان (Target expression (Urdu))",
-            "صرف جاپانی زبان (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف لاطینی زبان) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )",
+            "صرف جاپانی زبان) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )",
+            "کوئی نہیں) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )"
           ],
           "answerIndex": 0,
           "explanation": "اردو کی بنیادی ساخت «کھڑی بولی» (Khari Boli) سے ماخوذ ہے۔"
@@ -13830,9 +13830,9 @@
           "prompt": "اردو زبان کی صوتیات میں 'ٹ، ڈ، ڑ' جیسی آوازوں کو صوتیاتی اعتبار سے کیا کہا جاتا ہے؟",
           "options": [
             "معکوسی آوازیں / حروفِ معکوسی (Retroflex phonemes - Produced by curling the tip of the tongue back)",
-            "صرف سرگوشی (Target expression (Urdu))",
-            "صرف سیٹی کی آواز (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف سرگوشی) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )",
+            "صرف سیٹی کی آواز) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )",
+            "کوئی نہیں) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )"
           ],
           "answerIndex": 0,
           "explanation": "ان آوازوں کو صوتیات میں «معکوسی آوازیں» (Retroflex) کہا جاتا ہے۔"
@@ -13846,9 +13846,9 @@
           "prompt": "اردو لسانیات اور آریائی جڑوں (Urdu Linguistics & Indo-Aryan Roots) کا مستند جملہ پہچانیے:",
           "options": [
             "اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔ (Urdu's linguistic structure rests on Shauraseni Apabhramsha and Khari Boli with rich retroflex phonology.)",
-            "اردو زبان نے صرف سائیکل کے پہیے سے جنم لیا تھا رویا تھا۔ (Target expression (Urdu))",
-            "کھڑی بولی کا مطلب صرف کھڑے ہو کر باتیں کرنا ہوتا ہے۔ (Target expression (Urdu))",
-            "اردو کی کوئی تاریخی یا لسانی جڑیں نہیں ہیں۔ (Target expression (Urdu))"
+            "اردو زبان نے صرف سائیکل کے پہیے سے جنم لیا تھا رویا تھا۔) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )",
+            "کھڑی بولی کا مطلب صرف کھڑے ہو کر باتیں کرنا ہوتا ہے۔) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )",
+            "اردو کی کوئی تاریخی یا لسانی جڑیں نہیں ہیں۔) (Context: اردو لسانیات کی تاریخ، آریائی جڑیں )"
           ],
           "answerIndex": 0,
           "explanation": "«اردو کی لسانی ساخت شورسینی اپ بھرنش اور کھڑی بولی پر استوار ہے جبکہ اس کی معکوسی اور ہکاری صوتیات اسے ایک منفرد اور باوقار پہچان عطا کرتی ہیں۔» لسانیات کا مستند ترین جملہ ہے۔"
@@ -13897,9 +13897,9 @@
           "prompt": "الفاظ کی اصل، تاریخ اور مادہ معلوم کرنے کے علم کو کیا کہتے ہیں؟",
           "options": [
             "اشتقاق / علمِ اشتقاق (Ishtiqaq / Etymology - Study of word origins and morphological derivation)",
-            "صرف کہانی سننا (Target expression (Urdu))",
-            "صرف املا کی مشق (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف کہانی سننا) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)",
+            "صرف املا کی مشق) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)",
+            "کوئی نہیں) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)"
           ],
           "answerIndex": 0,
           "explanation": "الفاظ کے مادے اور ماخذ کے علم کو «اشتقاق» (Etymology) کہتے ہیں۔"
@@ -13912,9 +13912,9 @@
           "prompt": "جدید سائنسی اور تکنیکی مفاہیم کے لیے نئے اردو الفاظ تراشنے کے عمل کو کیا کہا جاتا ہے؟",
           "options": [
             "وضعِ اصطلاحات / اصطلاح سازی (Terminology Coinage - Systematic creation of standardized technical terms)",
-            "صرف گیت گانا (Target expression (Urdu))",
-            "صرف اخبار پڑھنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف گیت گانا) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)",
+            "صرف اخبار پڑھنا) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)",
+            "کوئی نہیں) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)"
           ],
           "answerIndex": 0,
           "explanation": "نئی علمی اصطلاحات بنانے کو «اصطلاح سازی» کہتے ہیں۔"
@@ -13928,9 +13928,9 @@
           "prompt": "لغت نویسی اور اصطلاح سازی (Lexicography & Terminology Coinage) کا فصیح جملہ پہچانیے:",
           "options": [
             "اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔ (The 22-volume historical lexicon and etymological terminology coinage made Urdu self-sufficient for modern sciences.)",
-            "لغت نویسی نے ڈکشنری کو چولہے پر جلا کر گاڑی چلائی تھی رویا تھا۔ (Target expression (Urdu))",
-            "اشتقاق کا مطلب صرف ڈکشنری کا سرورق دیکھنا ہے۔ (Target expression (Urdu))",
-            "اصطلاح سازی کا اردو کے الفاظ سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "لغت نویسی نے ڈکشنری کو چولہے پر جلا کر گاڑی چلائی تھی رویا تھا۔) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)",
+            "اشتقاق کا مطلب صرف ڈکشنری کا سرورق دیکھنا ہے۔) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)",
+            "اصطلاح سازی کا اردو کے الفاظ سے کوئی تعلق نہیں ہے۔) (Context: لغت نویسی، اصطلاح سازی اور قومی لغت)"
           ],
           "answerIndex": 0,
           "explanation": "«اردو لغت بورڈ کی بائیس جلدوں پر مشتمل تاریخ وار لغتِ کبیر اور اشتقاقی اصولوں پر مبنی اصطلاح سازی نے اردو کو جدید سائنسی علوم کے لیے خود کفیل بنا دیا۔» لغت نویسی کا مستند ترین جملہ ہے۔"
@@ -13979,9 +13979,9 @@
           "prompt": "اردو تاریخ میں اعلیٰ سائنسی اور فلسفیانہ کتابوں کے منظم ترین ترجمے کا مرکز کون سا ادارہ تھا؟",
           "options": [
             "دار الترجمہ جامعہ عثمانیہ حیدرآباد (Dar-ut-Tarjuma Osmania - Historic translation bureau of Osmania University)",
-            "صرف ریلوے بک اسٹال (Target expression (Urdu))",
-            "صرف فوٹو کاپی کی دکان (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ریلوے بک اسٹال) (Context: فنِ ترجمہ نگاری)",
+            "صرف فوٹو کاپی کی دکان) (Context: فنِ ترجمہ نگاری)",
+            "کوئی نہیں) (Context: فنِ ترجمہ نگاری)"
           ],
           "answerIndex": 0,
           "explanation": "تاریخی مرکز «دار الترجمہ جامعہ عثمانیہ» تھا۔"
@@ -13994,9 +13994,9 @@
           "prompt": "ترجمہ نگاری میں لفظ بہ لفظ ترجمے کی بجائے مفہوم اور ادبی خوبصورتی کو ترجیح دینے کو کیا کہتے ہیں؟",
           "options": [
             "آزاد و معنوی ترجمہ (Free / Semantic Translation - Conveying conceptual meaning and literary elegance)",
-            "صرف غلط بیانی (Target expression (Urdu))",
-            "صرف کاغذ ضائع کرنا (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف غلط بیانی) (Context: فنِ ترجمہ نگاری)",
+            "صرف کاغذ ضائع کرنا) (Context: فنِ ترجمہ نگاری)",
+            "کوئی نہیں) (Context: فنِ ترجمہ نگاری)"
           ],
           "answerIndex": 0,
           "explanation": "مفہومی ترجمے کو «آزاد یا معنوی ترجمہ» (Free Translation) کہتے ہیں۔"
@@ -14010,9 +14010,9 @@
           "prompt": "فنِ ترجمہ نگاری اور دار الترجمہ عثمانیہ (Translation Studies & Osmania Bureau) کا فصیح جملہ پہچانیے:",
           "options": [
             "دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔ (Dar-ut-Tarjuma Osmania's historic achievements made global scientific and classical works a grand asset of Urdu.)",
-            "ترجمہ نگاری نے کتاب کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔ (Target expression (Urdu))",
-            "دار الترجمہ صرف پرانے اخبار فروخت کرنے کی دکان تھی۔ (Target expression (Urdu))",
-            "ترجمہ کرتے وقت اصل مصنف کی بات بدلنا لازمی ہوتا ہے۔ (Target expression (Urdu))"
+            "ترجمہ نگاری نے کتاب کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔) (Context: فنِ ترجمہ نگاری)",
+            "دار الترجمہ صرف پرانے اخبار فروخت کرنے کی دکان تھی۔) (Context: فنِ ترجمہ نگاری)",
+            "ترجمہ کرتے وقت اصل مصنف کی بات بدلنا لازمی ہوتا ہے۔) (Context: فنِ ترجمہ نگاری)"
           ],
           "answerIndex": 0,
           "explanation": "«دار الترجمہ عثمانیہ کے تاریخی کارنامے اور ترجمے کے معنوی و اسلوباتی اصولوں نے دنیا کے کلاسیکی و سائنسی علوم کو اردو کا شاندار اثاثہ بنا دیا۔» فنِ ترجمہ کا کامل ترین جملہ ہے۔"
@@ -14061,9 +14061,9 @@
           "prompt": "کمپیوٹر اور انٹرنیٹ پر اردو خطِ نستعلیق کے معیاری اور باوقار ڈیجیٹل کوڈنگ نظام کو کیا کہتے ہیں؟",
           "options": [
             "اردو یونی کوڈ اور اوپن ٹائپ نستعلیق فونٹس (Urdu Unicode and OpenType Nastaliq rendering engines)",
-            "صرف ڈاٹ میٹرکس پرنٹر (Target expression (Urdu))",
-            "صرف مائیکرو فلم (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف ڈاٹ میٹرکس پرنٹر) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)",
+            "صرف مائیکرو فلم) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)",
+            "کوئی نہیں) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)"
           ],
           "answerIndex": 0,
           "explanation": "ڈیجیٹل کوڈنگ کے عالمی نظام کو «یونی کوڈ» (Unicode) کہتے ہیں۔"
@@ -14076,9 +14076,9 @@
           "prompt": "زبان کے الفاظ کے معانی، مفاہیم اور ان کے تاریخی تغیر و تبدل کے سائنسی مطالعے کو کیا کہتے ہیں؟",
           "options": [
             "معنیات / علمِ معنیات (Semantics - Scientific study of linguistic meaning and semantic shift)",
-            "صرف املا چیکر (Target expression (Urdu))",
-            "صرف کی بورڈ (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "صرف املا چیکر) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)",
+            "صرف کی بورڈ) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)",
+            "کوئی نہیں) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)"
           ],
           "answerIndex": 0,
           "explanation": "معانی کے سائنسی مطالعے کو «معنیات» (Semantics) کہا جاتا ہے۔"
@@ -14092,9 +14092,9 @@
           "prompt": "جدید لسانیات، معنیات اور ڈیجیٹل اردو (Semantics & Digital Urdu) کا مستند جملہ پہچانیے:",
           "options": [
             "لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔ (Semantics, sociolinguistic diversity, Unicode, and Nastaliq have placed Urdu at the forefront of AI.)",
-            "معنیات نے کی بورڈ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔ (Target expression (Urdu))",
-            "یونی کوڈ صرف کمپیوٹر کا ماؤس خراب ہونے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اردو کا کمپیوٹر اور انٹرنیٹ سے کوئی واسطہ نہیں ہے۔ (Target expression (Urdu))"
+            "معنیات نے کی بورڈ کو پانی میں دھو کر گاڑی پر بٹھایا تھا روئی تھی۔) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)",
+            "یونی کوڈ صرف کمپیوٹر کا ماؤس خراب ہونے کو کہتے ہیں۔) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)",
+            "اردو کا کمپیوٹر اور انٹرنیٹ سے کوئی واسطہ نہیں ہے۔) (Context: جدید لسانیات، معنیات اور صوتیاتی تب)"
           ],
           "answerIndex": 0,
           "explanation": "«لسانی معنیات کی گہرائی، سماجی لہجوں کے تنوع، اور یونی کوڈ و نفیس نستعلیق فونٹس نے اردو کو اکیسویں صدی کے ڈیجیٹل دور اور مصنوعی ذہانت کی صفِ اوّل میں شامل کر دیا ہے۔» جدید لسانیات کا شاہکار ترین جملہ ہے۔"
@@ -14143,9 +14143,9 @@
           "prompt": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ نگاری کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ (Masterful synthesis of Indo-Aryan roots, lexicographical etymology, Osmania translation, and computational linguistics)",
-            "ہم نے لسانیات کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے لسانیات کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: جدید اردو زبان و لسانیات اور تراجم )",
+            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (غیر معیاری)) (Context: جدید اردو زبان و لسانیات اور تراجم )",
+            "کوئی نہیں) (Context: جدید اردو زبان و لسانیات اور تراجم )"
           ],
           "answerIndex": 0,
           "explanation": "«ہند آریائی ماخذ، لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ اور ڈیجیٹل کمپیوٹیشنل لسانیات کا مربوط مطالعہ» لسانیات کا کامل سمیکن ہے۔"
@@ -14158,9 +14158,9 @@
           "prompt": "اردو لسانیات، لغت نگاری اور ترجمہ نگاری کا جامع سمیکن طلباء میں کس قابلیت کو پروان چڑھاتا ہے؟",
           "options": [
             "سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت (Scientific terminology coinage, lexical research, authentic translation, and digital Urdu mastery)",
-            "صرف پرانے تلفظ بھول جانا (منفی رویہ) (Target expression (Urdu))",
-            "صرف کاغذی کارروائی کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "زبان کے اصولوں کو مسخ کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف پرانے تلفظ بھول جانا (منفی رویہ)) (Context: جدید اردو زبان و لسانیات اور تراجم )",
+            "صرف کاغذی کارروائی کرنا (بے فائدہ مشق)) (Context: جدید اردو زبان و لسانیات اور تراجم )",
+            "زبان کے اصولوں کو مسخ کرنا (تباہ کن)) (Context: جدید اردو زبان و لسانیات اور تراجم )"
           ],
           "answerIndex": 0,
           "explanation": "یہ سائنسی اصطلاح سازی، لغوی تحقیق، مستند ترجمہ نگاری اور ڈیجیٹل اردو پر مہارت پیدا کرتا ہے۔"
@@ -14174,9 +14174,9 @@
           "prompt": "اردو لسانیات، لغت نویسی اور فنِ ترجمہ کے جامع سمیکن (Urdu Linguistics & Translation Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
             "شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔ (From Shauraseni to Lughat-e-Kabeer, Dar-ut-Tarjuma, and computational linguistics, Urdu's evolution proves its timeless prestige.)",
-            "لسانیات نے دار الترجمہ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانے کی بورڈ کی تار کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اردو زبان کا سائنسی تحقیق اور کمپیوٹر ٹیکنالوجی سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "لسانیات نے دار الترجمہ کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: جدید اردو زبان و لسانیات اور تراجم )",
+            "جامع سمیکن صرف پرانے کی بورڈ کی تار کو کہتے ہیں۔) (Context: جدید اردو زبان و لسانیات اور تراجم )",
+            "اردو زبان کا سائنسی تحقیق اور کمپیوٹر ٹیکنالوجی سے کوئی تعلق نہیں ہے۔) (Context: جدید اردو زبان و لسانیات اور تراجم )"
           ],
           "answerIndex": 0,
           "explanation": "«شورسینی اپ بھرنش سے لے کر لغتِ کبیر کی اشتقاقیات، دار الترجمہ عثمانیہ کے سائنسی تراجم اور جدید ڈیجیٹل کمپیوٹیشنل لسانیات تک اردو کا ارتقا اس کے لازوال علمی وقار کا ثبوت ہے۔» لسانی سمیکن کا کامل ترین جملہ ہے۔"
@@ -14225,9 +14225,9 @@
           "prompt": "اردو غزل کی روایات اور کلاسیکی و جدید شاعری کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ (Masterful synthesis of Mir's pathos, Ghalib's thought, Iqbal's Khudi, and Faiz's lyricism)",
-            "ہم نے مشاعرے کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف مائیک کی تاریں گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے مشاعرے کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )",
+            "وہ صرف مائیک کی تاریں گنتا رہتا ہے (غیر معیاری)) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )",
+            "کوئی نہیں) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )"
           ],
           "answerIndex": 0,
           "explanation": "«میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ» شاعری کا کامل سمیکن ہے۔"
@@ -14240,9 +14240,9 @@
           "prompt": "اردو شاعری کا آخری جامع سمیکن طالب علم کو کس صلاحیت سے ہمکنار کرتا ہے؟",
           "options": [
             "عروضی اوزان کا فہم، استعاراتی بصیرت، کلاسیکی و جدید کلام کی تفہیم اور ادبی ذوق (Mastery of poetic meters, metaphoric insight, textual comprehension, and sublime literary taste)",
-            "صرف قافیہ ملا کر وقت ضائع کرنا (منفی رویہ) (Target expression (Urdu))",
-            "صرف شور مچانا (بے فائدہ مشق) (Target expression (Urdu))",
-            "شاعری کے قواعد کو نظر انداز کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف قافیہ ملا کر وقت ضائع کرنا (منفی رویہ)) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )",
+            "صرف شور مچانا (بے فائدہ مشق)) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )",
+            "شاعری کے قواعد کو نظر انداز کرنا (تباہ کن)) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )"
           ],
           "answerIndex": 0,
           "explanation": "یہ عروضی اوزان کا فہم، استعاراتی بصیرت اور ادبی ذوق بخشتا ہے۔"
@@ -14256,9 +14256,9 @@
           "prompt": "کلاسیکی و جدید شاعری کے جامع سمیکن (Master Capstone: Poetry & Ghazal) کا شاہکار جملہ پہچانیے:",
           "options": [
             "میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔ (Mir's pathos, Ghalib's intellect, Iqbal's Khudi, and Faiz's lyricism made Urdu poetry the crown jewel of world literature.)",
-            "غزل نے مشاعرے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔ (Target expression (Urdu))",
-            "شاعری صرف پرانی ڈائری کے خالی صفحات کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اردو شاعری کا انسانی جذبات اور تہذیب سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "غزل نے مشاعرے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )",
+            "شاعری صرف پرانی ڈائری کے خالی صفحات کو کہتے ہیں۔) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )",
+            "اردو شاعری کا انسانی جذبات اور تہذیب سے کوئی تعلق نہیں ہے۔) (Context: کلاسیکی و جدید شاعری اور غزل و نظم )"
           ],
           "answerIndex": 0,
           "explanation": "«میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔» شاعری کا کامل ترین شاہکار جملہ ہے۔"
@@ -14307,9 +14307,9 @@
           "prompt": "اردو فکشن، ناول، افسانے اور ادبی تنقید کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ (Masterful synthesis of classic prose, novels, Manto's fiction, and Hali's literary criticism)",
-            "ہم نے فکشن کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف پرانے رسالوں کے صفحات الٹتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے فکشن کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)",
+            "وہ صرف پرانے رسالوں کے صفحات الٹتا رہتا ہے (غیر معیاری)) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)",
+            "کوئی نہیں) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ» فکشن کا کامل سمیکن ہے۔"
@@ -14322,9 +14322,9 @@
           "prompt": "اردو نثری شاہکاروں اور تنقیدی اسالیب کا جامع سمیکن قاری میں کس فکری بصیرت کو بیدار کرتا ہے؟",
           "options": [
             "تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم، نثری تخلیقی صلاحیت اور مدلل تنقیدی شعور (Understanding cultural tragedies, human psychology, creative prose, and reasoned critical judgment)",
-            "صرف جھوٹی کہانیاں سنانا (منفی رویہ) (Target expression (Urdu))",
-            "صرف کتابوں کے نام یاد رکھنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "نثری اصولوں کو نظر انداز کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف جھوٹی کہانیاں سنانا (منفی رویہ)) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)",
+            "صرف کتابوں کے نام یاد رکھنا (بے فائدہ مشق)) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)",
+            "نثری اصولوں کو نظر انداز کرنا (تباہ کن)) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم اور مدلل تنقیدی شعور بخشتا ہے۔"
@@ -14338,9 +14338,9 @@
           "prompt": "اردو نثری شاہکاروں اور فکشن کے جامع سمیکن (Master Capstone: Prose & Fiction) کا شاہکار جملہ پہچانیے:",
           "options": [
             "پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔ (Premchand's realism, Hyder's historical novel, Manto's fiction, and Hali's criticism endow Urdu prose with immortal elevation.)",
-            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "تنقید صرف دوسروں پر غصہ نکالنے کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اردو فکشن کا انسانی زندگی اور معاشرے سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)",
+            "تنقید صرف دوسروں پر غصہ نکالنے کو کہتے ہیں۔) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)",
+            "اردو فکشن کا انسانی زندگی اور معاشرے سے کوئی تعلق نہیں ہے۔) (Context: اردو نثری شاہکار، فکشن اور تنقیدی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔» فکشن کا کامل ترین جملہ ہے۔"
@@ -14389,9 +14389,9 @@
           "prompt": "دستور، قانون، ریاستی نظام اور باوقار صحافت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ (Masterful synthesis of Constitution of Pakistan, judicial powers, and fearless Urdu journalism)",
-            "ہم نے پارلیمنٹ کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف پریس کانفرنس کی کرسیاں گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے پارلیمنٹ کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: دستور، قانون، ریاست اور صحافتی قیاد)",
+            "وہ صرف پریس کانفرنس کی کرسیاں گنتا رہتا ہے (غیر معیاری)) (Context: دستور، قانون، ریاست اور صحافتی قیاد)",
+            "کوئی نہیں) (Context: دستور، قانون، ریاست اور صحافتی قیاد)"
           ],
           "answerIndex": 0,
           "explanation": "«آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ» دستوری امور کا کامل سمیکن ہے۔"
@@ -14404,9 +14404,9 @@
           "prompt": "دستور، قانون اور صحافتی قیادت کا جامع سمیکن معاشرے میں کس بنیادی قدر کو مستحکم کرتا ہے؟",
           "options": [
             "قانون کی بالادستی، بنیادی شہری حقوق کا تحفظ، جمہوری احتساب اور بیدار رائے عامہ (Rule of law, protection of fundamental rights, democratic accountability, and enlightened public opinion)",
-            "صرف مقدمہ بازی میں وقت ضائع کرنا (منفی رویہ) (Target expression (Urdu))",
-            "صرف اخباری سرخیوں پر بحث کرنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "دستوری اصولوں کی خلاف ورزی کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف مقدمہ بازی میں وقت ضائع کرنا (منفی رویہ)) (Context: دستور، قانون، ریاست اور صحافتی قیاد)",
+            "صرف اخباری سرخیوں پر بحث کرنا (بے فائدہ مشق)) (Context: دستور، قانون، ریاست اور صحافتی قیاد)",
+            "دستوری اصولوں کی خلاف ورزی کرنا (تباہ کن)) (Context: دستور، قانون، ریاست اور صحافتی قیاد)"
           ],
           "answerIndex": 0,
           "explanation": "یہ قانون کی بالادستی، بنیادی حقوق کا تحفظ اور جمہوری احتساب قائم کرتا ہے۔"
@@ -14420,9 +14420,9 @@
           "prompt": "دستور، قانون اور صحافتی قیادت کے جامع سمیکن (Master Capstone: Law & Media) کا شاہکار جملہ پہچانیے:",
           "options": [
             "آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔ (The Constitution of Pakistan, Supreme Court judicial authority, and Urdu journalism guard democratic society.)",
-            "دستور نے اخبار کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "سپریم کورٹ صرف پرانی عمارت کی چھت کو کہتے ہیں۔ (Target expression (Urdu))",
-            "صحافت اور قانون کا انسانی حقوق سے کوئی تعلق نہیں ہوتا۔ (Target expression (Urdu))"
+            "دستور نے اخبار کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: دستور، قانون، ریاست اور صحافتی قیاد)",
+            "سپریم کورٹ صرف پرانی عمارت کی چھت کو کہتے ہیں۔) (Context: دستور، قانون، ریاست اور صحافتی قیاد)",
+            "صحافت اور قانون کا انسانی حقوق سے کوئی تعلق نہیں ہوتا۔) (Context: دستور، قانون، ریاست اور صحافتی قیاد)"
           ],
           "answerIndex": 0,
           "explanation": "«آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔» دستوری بیانیے کا کامل ترین شاہکار جملہ ہے۔"
@@ -14471,9 +14471,9 @@
           "prompt": "سائنس، مصنوعی ذہانت، بین الاقوامی سفارت اور فلسفے کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
             "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ (Masterful synthesis of AI algorithms, UN diplomacy, CPEC corridor, and Iqbal's philosophy of Khudi)",
-            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف سیٹلائٹ کی تصویریں دیکھتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)",
+            "وہ صرف سیٹلائٹ کی تصویریں دیکھتا رہتا ہے (غیر معیاری)) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)",
+            "کوئی نہیں) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ» سائنس و خارجہ کا کامل سمیکن ہے۔"
@@ -14486,9 +14486,9 @@
           "prompt": "سائنس، مصنوعی ذہانت، سفارت کاری اور فلسفے کا جامع سمیکن اردو زبان کے بارے میں کیا ثابت کرتا ہے؟",
           "options": [
             "زبان کی علمی ہمہ گیری، سائنسی اظہار کی مکمل صلاحیت، فلسفیانہ بلندی اور بین الاقوامی وقار (Linguistic universality, scientific adequacy, philosophical elevation, and international prestige)",
-            "صرف پرانی باتیں دہرانا (منفی رویہ) (Target expression (Urdu))",
-            "صرف کمپیوٹر کے پرزے بیچنا (بے فائدہ مشق) (Target expression (Urdu))",
-            "سائنسی ترقی کی مخالفت کرنا (تباہ کن) (Target expression (Urdu))"
+            "صرف پرانی باتیں دہرانا (منفی رویہ)) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)",
+            "صرف کمپیوٹر کے پرزے بیچنا (بے فائدہ مشق)) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)",
+            "سائنسی ترقی کی مخالفت کرنا (تباہ کن)) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ اردو کی علمی ہمہ گیری، سائنسی اظہار کی صلاحیت اور فلسفیانہ بلندی کو ثابت کرتا ہے۔"
@@ -14502,9 +14502,9 @@
           "prompt": "سائنس، مصنوعی ذہانت، خارجہ پالیسی اور فلسفے کے جامع سمیکن (Master Capstone: Science & Global Diplomacy) کا شاہکار جملہ پہچانیے:",
           "options": [
             "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔ (AI algorithms, UN diplomacy, CPEC, and Iqbal's Khudi embody Urdu's timeless intellectual prestige in the 21st century.)",
-            "سائنس نے الگورتھم کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "سی پیک صرف ایک عام موٹر سائیکل کا نام ہے۔ (Target expression (Urdu))",
-            "مصنوعی ذہانت اور فلسفے کا اردو زبان سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "سائنس نے الگورتھم کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)",
+            "سی پیک صرف ایک عام موٹر سائیکل کا نام ہے۔) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)",
+            "مصنوعی ذہانت اور فلسفے کا اردو زبان سے کوئی تعلق نہیں ہے۔) (Context: سائنس، مصنوعی ذہانت، خارجہ پالیسی ا)"
           ],
           "answerIndex": 0,
           "explanation": "«مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔» سائنس و خارجہ کا کامل ترین جملہ ہے۔"
@@ -14553,9 +14553,9 @@
           "prompt": "اردو زبان، ادب اور فصاحت و بلاغت کے حتمی جامع سمیکن (Ultimate Grand Synthesis) کا فصیح ترین شاہکار کون سا ہے؟",
           "options": [
             "شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ (The supreme grand synthesis of Urdu poetry, fiction, law, journalism, science & AI, diplomacy, philosophy, and linguistics)",
-            "ہم نے اردو کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ) (Target expression (Urdu))",
-            "وہ صرف حرف تہجی گنتا رہتا ہے (غیر معیاری) (Target expression (Urdu))",
-            "کوئی نہیں (Target expression (Urdu))"
+            "ہم نے اردو کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)",
+            "وہ صرف حرف تہجی گنتا رہتا ہے (غیر معیاری)) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)",
+            "کوئی نہیں) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ» اردو کا حتمی جامع سمیکن ہے۔"
@@ -14568,9 +14568,9 @@
           "prompt": "اردو نصاب کے تمام 170 اسباق کی کامیاب تکمیل طالب علم کو کس درجے پر فائز کرتی ہے؟",
           "options": [
             "اردو زبان، فصاحت و بلاغت، کلاسیکی و جدید ادب، اور سائنسی و دستوری مضامین پر مکمل خود مختار مہارت (Complete native-level mastery over Urdu language, rhetoric, literature, law, and scientific discourse)",
-            "صرف چند محاورے رٹنا (محدود دائرہ) (Target expression (Urdu))",
-            "صرف املا کی درستی (بے فائدہ مشق) (Target expression (Urdu))",
-            "کلاسیکی ادب سے ناواقف رہنا (تباہ کن) (Target expression (Urdu))"
+            "صرف چند محاورے رٹنا (محدود دائرہ)) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)",
+            "صرف املا کی درستی (بے فائدہ مشق)) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)",
+            "کلاسیکی ادب سے ناواقف رہنا (تباہ کن)) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)"
           ],
           "answerIndex": 0,
           "explanation": "یہ اردو زبان، ادب، فصاحت و بلاغت اور سائنسی و دستوری مضامین پر مکمل مہارت بخشتی ہے۔"
@@ -14584,9 +14584,9 @@
           "prompt": "اردو زبان، ادب اور فصاحت و بلاغت کے حتمی جامع سمیکن (Ultimate Grand Synthesis & Master Capstone) کا شاہکار جملہ پہچانیے:",
           "options": [
             "شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔ (With poetic subtlety, realistic fiction, legal prestige, scientific AI terms, diplomacy, Khudi, and linguistic evolution, Urdu is an immortal masterpiece of civilization.)",
-            "اردو زبان نے سمیکن کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔ (Target expression (Urdu))",
-            "جامع سمیکن صرف پرانی کتاب کی جلد کو کہتے ہیں۔ (Target expression (Urdu))",
-            "اردو زبان کا عالمی ادب اور جدید سائنس سے کوئی تعلق نہیں ہے۔ (Target expression (Urdu))"
+            "اردو زبان نے سمیکن کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)",
+            "جامع سمیکن صرف پرانی کتاب کی جلد کو کہتے ہیں۔) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)",
+            "اردو زبان کا عالمی ادب اور جدید سائنس سے کوئی تعلق نہیں ہے۔) (Context: اردو زبان، ادب اور فصاحت و بلاغت کا)"
           ],
           "answerIndex": 0,
           "explanation": "«شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔» اردو نصاب کا کامل ترین اور حتمی شاہکار جملہ ہے۔"
