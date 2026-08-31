@@ -503,7 +503,7 @@ files.forEach(f => {
 });
 
 console.log('================================================================================================================================');
-console.log(`GRAND TOTAL LESSONS VERIFIED: ${totalLessons} / 3740`);
+console.log(`GRAND TOTAL LESSONS VERIFIED: ${totalLessons} (Open-Ended Minimum Floor: 3,740)`);
 console.log('================================================================================================================================');
 
 if (hasFailure) {
