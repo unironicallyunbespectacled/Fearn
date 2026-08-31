@@ -639,9 +639,12 @@ body[data-env="solar"] .fearn-progress-card {
 }
 
 body.env-solar .fearn-srs-card-box,
-body[data-env="solar"] .fearn-srs-card-box {
+body.env-solar .fearn-srs-deck-card,
+body[data-env="solar"] .fearn-srs-card-box,
+body[data-env="solar"] .fearn-srs-deck-card {
   background: #f8fafc !important;
   border: 1.5px solid #cbd5e1 !important;
+  color: #0f172a !important;
 }
 
 body.env-solar .fearn-srs-header,
@@ -682,9 +685,12 @@ body[data-env="sepia"] .fearn-progress-card {
 }
 
 body.env-sepia .fearn-srs-card-box,
-body[data-env="sepia"] .fearn-srs-card-box {
+body.env-sepia .fearn-srs-deck-card,
+body[data-env="sepia"] .fearn-srs-card-box,
+body[data-env="sepia"] .fearn-srs-deck-card {
   background: #fbf0d9 !important;
   border: 1.5px solid #d8c399 !important;
+  color: #433422 !important;
 }
 
 body.env-sepia .fearn-srs-header,
@@ -711,13 +717,15 @@ body.env-cabin .fearn-library-panel,
 body.env-cabin .fearn-dossier-panel,
 body.env-cabin .fearn-entry-modal,
 body.env-cabin .fearn-progress-card,
+body.env-cabin .fearn-srs-deck-card,
 body[data-env="cabin"] .fearn-modal,
 body[data-env="cabin"] .fearn-card,
 body[data-env="cabin"] .fearn-srs-container,
 body[data-env="cabin"] .fearn-library-panel,
 body[data-env="cabin"] .fearn-dossier-panel,
 body[data-env="cabin"] .fearn-entry-modal,
-body[data-env="cabin"] .fearn-progress-card {
+body[data-env="cabin"] .fearn-progress-card,
+body[data-env="cabin"] .fearn-srs-deck-card {
   background: #080503 !important;
   color: #ffbe98 !important;
   border: 1px solid rgba(255, 130, 60, 0.35) !important;
@@ -731,13 +739,15 @@ body.env-dark .fearn-library-panel,
 body.env-dark .fearn-dossier-panel,
 body.env-dark .fearn-entry-modal,
 body.env-dark .fearn-progress-card,
+body.env-dark .fearn-srs-deck-card,
 body:not([data-env]) .fearn-modal,
 body:not([data-env]) .fearn-card,
 body:not([data-env]) .fearn-srs-container,
 body:not([data-env]) .fearn-library-panel,
 body:not([data-env]) .fearn-dossier-panel,
 body:not([data-env]) .fearn-entry-modal,
-body:not([data-env]) .fearn-progress-card {
+body:not([data-env]) .fearn-progress-card,
+body:not([data-env]) .fearn-srs-deck-card {
   background: #0b1120 !important;
   color: #f8fafc !important;
   border: 1px solid rgba(56, 189, 248, 0.25) !important;

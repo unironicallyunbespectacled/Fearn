@@ -4177,37 +4177,122 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   background: var(--glass-bg-soft, rgba(255,255,255,0.1));
 }
 
-.fearn-srs-tabs {
-  display: flex;
-  gap: 6px;
-  padding: 10px 16px;
-  background: var(--glass-bg-soft, rgba(0,0,0,0.2));
-  overflow-x: auto;
-  border-bottom: 1px solid var(--glass-border, rgba(255,255,255,0.08));
-  scrollbar-width: thin;
+/* Deck Grid Picker Architecture */
+.fearn-srs-deck-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+  max-height: 62vh;
+  overflow-y: auto;
+  padding: 4px;
 }
 
-.fearn-srs-tab-btn {
-  padding: 6px 14px;
-  border-radius: 20px;
-  font-size: 0.76rem;
+.fearn-srs-deck-card {
+  background: var(--glass-bg, #111a33);
+  border: 1px solid var(--glass-border, rgba(255, 255, 255, 0.12));
+  border-radius: 14px;
+  padding: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+  text-align: left;
+  user-select: none;
+}
+
+.fearn-srs-deck-card:hover {
+  border-color: var(--lang-1, #38bdf8);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(56, 189, 248, 0.2);
+  background: var(--glass-bg-strong, #16223f);
+}
+
+.fearn-srs-deck-card-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.fearn-srs-deck-icon {
+  font-size: 1.6rem;
+}
+
+.fearn-srs-deck-name {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: var(--text-main, #f8fafc);
+  line-height: 1.25;
+}
+
+.fearn-srs-deck-counts-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.fearn-srs-deck-pill {
+  font-size: 0.7rem;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+
+.fearn-srs-search-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.fearn-srs-search-input {
+  width: 100%;
+  padding: 10px 16px;
+  border-radius: var(--radius-pill, 999px);
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg-soft);
+  color: var(--text-main);
+  font-size: 0.88rem;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.fearn-srs-search-input:focus {
+  border-color: var(--lang-1, #38bdf8);
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+
+.fearn-srs-filter-bar {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  padding-bottom: 4px;
+}
+
+.fearn-srs-filter-btn {
+  padding: 5px 12px;
+  border-radius: 16px;
+  font-size: 0.74rem;
   font-weight: 700;
   cursor: pointer;
   white-space: nowrap;
-  border: 1px solid var(--glass-border, rgba(255,255,255,0.12));
-  background: var(--glass-bg, rgba(255,255,255,0.04));
-  color: var(--text-sub, #94a3b8);
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg);
+  color: var(--text-sub);
   transition: all 0.15s ease;
 }
 
-.fearn-srs-tab-btn:hover {
-  color: var(--text-main, #ffffff);
-  border-color: var(--glass-border-strong, rgba(255,255,255,0.3));
+.fearn-srs-filter-btn:hover {
+  color: var(--text-main);
+  border-color: var(--glass-border-strong);
 }
 
-.fearn-srs-tab-btn.is-active {
+.fearn-srs-filter-btn.is-active {
   border-color: var(--lang-1, #38bdf8);
-  background: var(--glass-bg-strong, rgba(56,189,248,0.2));
+  background: var(--glass-bg-strong);
   color: var(--lang-1, #38bdf8);
   font-weight: 800;
 }

@@ -391,10 +391,12 @@
     if (availableSubjects.length === 0) return;
 
     var activeSubject = selectedSubject && subjectDecks[selectedSubject] ? selectedSubject : availableSubjects[0];
-    var currentView = 'overview'; // 'overview' | 'study' | 'options' | 'custom_study'
-      var activeStudyCards = [];
+    var currentView = selectedSubject ? 'overview' : 'deck_select'; // 'deck_select' | 'overview' | 'study' | 'options' | 'custom_study'
+    var activeStudyCards = [];
     var currentCardIndex = 0;
     var isCardFlipped = false;
+    var deckFilterCategory = 'all';
+    var deckSearchQuery = '';
 
     var overlay = doc.createElement('div');
     overlay.className = 'fearn-srs-overlay';
@@ -403,47 +405,67 @@
     var container = doc.createElement('div');
     container.className = 'fearn-srs-container fearn-glass';
 
+    function getSubjectIcon(sKey) {
+      var icons = {
+        'korean': '🇰🇷', 'japanese': '🇯🇵', 'mandarin': '🇨🇳', 'cantonese': '🇭🇰', 'vietnamese': '🇻🇳',
+        'spanish': '🇪🇸', 'argentine-spanish': '🇦🇷', 'french': '🇫🇷', 'german': '🇩🇪', 'brazilian-portuguese': '🇧🇷',
+        'romanian': '🇷🇴', 'turkish': '🇹🇷', 'swahili': '🇹🇿', 'russian': '🇷🇺', 'ukrainian': '🇺🇦',
+        'arabic': '🇸🇦', 'urdu': '🇵🇰', 'hindi': '🇮🇳', 'amharic': '🇪🇹', 'english': '🇬🇧',
+        'cs110': '💻', 'b110': '📊', 'b111': '🧾',
+        'mentalmath': '⚡', 'typing': '⌨️', 'songwriting': '🎵', 'scrabble': '🔠', 'morse': '📡', 'chess': '♟️',
+        'fitness': '🏋️'
+      };
+      return icons[sKey] || '🎴';
+    }
+
+    function getSubjectCategory(sKey) {
+      if (['cs110', 'b110', 'b111'].indexOf(sKey) !== -1) return 'university';
+      if (['mentalmath', 'typing', 'songwriting', 'scrabble', 'morse', 'chess'].indexOf(sKey) !== -1) return 'skills';
+      if (sKey === 'fitness') return 'fitness';
+      return 'languages';
+    }
+
     function renderView() {
       container.innerHTML = '';
 
       // --- TOP HEADER BAR ---
       var headerBar = doc.createElement('div');
       headerBar.className = 'fearn-srs-header';
+      
+      var isDeckSelect = (currentView === 'deck_select');
+      var leftHeaderHTML = isDeckSelect
+        ? `<div style="display:flex; align-items:center; gap:10px;">
+             <div style="font-size:1.25rem;">🎴</div>
+             <div class="fearn-srs-title">Fearn Flashcard Decks</div>
+           </div>`
+        : `<div style="display:flex; align-items:center; gap:10px;">
+             <button id="fearn-srs-nav-all-decks" class="fearn-srs-ghost-btn" style="padding:4px 10px; font-size:0.75rem;">← All Decks</button>
+             <div class="fearn-srs-title">\${escapeHtml(subjectDecks[activeSubject] ? subjectDecks[activeSubject].name : 'Deck')}</div>
+           </div>`;
+
       headerBar.innerHTML = `
-        <div style="display:flex; align-items:center; gap:10px;">
-          <div style="font-size:1.25rem;">🎴</div>
-          <div class="fearn-srs-title">Fearn Anki/FSRS Suite (DSR Model)</div>
-        </div>
+        \${leftHeaderHTML}
         <div style="display:flex; align-items:center; gap:12px;">
-          <span class="fearn-srs-retention-badge">Target: ${Math.round(FSRS_CONFIG.desiredRetention * 100)}% Ret</span>
+          <span class="fearn-srs-retention-badge">Target: \${Math.round(FSRS_CONFIG.desiredRetention * 100)}% Ret</span>
           <button id="fearn-srs-close-btn" class="fearn-srs-close-btn" aria-label="Close Flashcards">&times;</button>
         </div>
       `;
       container.appendChild(headerBar);
 
-      // --- SUBJECT SELECTOR TABS ---
-      var tabContainer = doc.createElement('div');
-      tabContainer.className = 'fearn-srs-tabs';
-
-      availableSubjects.forEach(function (sKey) {
-        var sDeck = subjectDecks[sKey];
-        var tabBtn = doc.createElement('button');
-        var isActive = sKey === activeSubject;
-        tabBtn.className = 'fearn-srs-tab-btn' + (isActive ? ' is-active' : '');
-        tabBtn.textContent = sDeck.name + ' (' + sDeck.cards.length + ')';
-        tabBtn.onclick = function () {
-          activeSubject = sKey;
-          currentView = 'overview';
+      var allDecksBtn = headerBar.querySelector('#fearn-srs-nav-all-decks');
+      if (allDecksBtn) {
+        allDecksBtn.onclick = function () {
+          currentView = 'deck_select';
           renderView();
         };
-        tabContainer.appendChild(tabBtn);
-      });
-      container.appendChild(tabContainer);
+      }
 
       var curDeck = subjectDecks[activeSubject] || { name: activeSubject, cards: [], newCount: 0, learningCount: 0, reviewCount: 0 };
 
       // --- BODY ROUTER ---
-      if (currentView === 'overview') {
+      if (currentView === 'deck_select') {
+        renderDeckPicker();
+      } else if (currentView === 'overview') {
         renderOverview(curDeck);
       } else if (currentView === 'study') {
         renderStudy(curDeck);
@@ -472,6 +494,9 @@
         e.preventDefault();
         if (currentView === 'study' || currentView === 'options' || currentView === 'custom_study') {
           currentView = 'overview';
+          renderView();
+        } else if (currentView === 'overview') {
+          currentView = 'deck_select';
           renderView();
         } else {
           if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
@@ -504,6 +529,95 @@
       window.addEventListener('keydown', handleGlobalSRSKey);
     }
 
+    function renderDeckPicker() {
+      var body = doc.createElement('div');
+      body.className = 'fearn-srs-body';
+
+      var filteredKeys = availableSubjects.filter(function (sKey) {
+        var d = subjectDecks[sKey];
+        var cat = getSubjectCategory(sKey);
+        if (deckFilterCategory !== 'all' && cat !== deckFilterCategory) return false;
+        if (deckSearchQuery) {
+          var q = deckSearchQuery.toLowerCase();
+          return d.name.toLowerCase().indexOf(q) !== -1 || sKey.toLowerCase().indexOf(q) !== -1;
+        }
+        return true;
+      });
+
+      body.innerHTML = `
+        <div class="fearn-srs-search-bar">
+          <input type="search" id="fearn-srs-deck-search" class="fearn-srs-search-input" placeholder="Search across all 30 Fronds & Subject Decks…" value="\${escapeHtml(deckSearchQuery)}" />
+          <div class="fearn-srs-filter-bar">
+            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'all' ? ' is-active' : ''}" data-cat="all">All (30)</button>
+            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'languages' ? ' is-active' : ''}" data-cat="languages">Languages (20)</button>
+            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'university' ? ' is-active' : ''}" data-cat="university">University (3)</button>
+            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'skills' ? ' is-active' : ''}" data-cat="skills">Skills (6)</button>
+            <button class="fearn-srs-filter-btn\${deckFilterCategory === 'fitness' ? ' is-active' : ''}" data-cat="fitness">Fitness (1)</button>
+          </div>
+        </div>
+
+        <div class="fearn-srs-deck-grid" id="fearn-srs-deck-grid-container"></div>
+      `;
+
+      container.appendChild(body);
+
+      // Bind search input
+      var searchInp = body.querySelector('#fearn-srs-deck-search');
+      if (searchInp) {
+        searchInp.oninput = function () {
+          deckSearchQuery = searchInp.value.trim();
+          renderView();
+          var newSearch = container.querySelector('#fearn-srs-deck-search');
+          if (newSearch) {
+            newSearch.focus();
+            newSearch.setSelectionRange(newSearch.value.length, newSearch.value.length);
+          }
+        };
+      }
+
+      // Bind category filter buttons
+      body.querySelectorAll('.fearn-srs-filter-btn').forEach(function (btn) {
+        btn.onclick = function () {
+          deckFilterCategory = btn.getAttribute('data-cat') || 'all';
+          renderView();
+        };
+      });
+
+      // Render Deck Cards Grid
+      var gridContainer = body.querySelector('#fearn-srs-deck-grid-container');
+      if (gridContainer) {
+        if (filteredKeys.length === 0) {
+          gridContainer.innerHTML = '<div style="grid-column: 1 / -1; text-align:center; padding:32px; color:var(--text-sub);">No flashcard decks match your search filter.</div>';
+        } else {
+          filteredKeys.forEach(function (sKey) {
+            var sDeck = subjectDecks[sKey];
+            var cardEl = doc.createElement('div');
+            cardEl.className = 'fearn-srs-deck-card';
+            cardEl.innerHTML = `
+              <div class="fearn-srs-deck-card-top">
+                <span class="fearn-srs-deck-icon">\${getSubjectIcon(sKey)}</span>
+                <div>
+                  <div class="fearn-srs-deck-name">\${escapeHtml(sDeck.name)}</div>
+                  <div style="font-size:0.72rem; color:var(--text-faint);">\${sDeck.cards.length} Total Cards</div>
+                </div>
+              </div>
+              <div class="fearn-srs-deck-counts-row">
+                <span class="fearn-srs-deck-pill" style="background:rgba(56,189,248,0.15); color:var(--lang-1, #38bdf8); border:1px solid rgba(56,189,248,0.3);">\${sDeck.newCount} New</span>
+                <span class="fearn-srs-deck-pill" style="background:rgba(251,191,36,0.15); color:var(--fit-1, #fbbf24); border:1px solid rgba(251,191,36,0.3);">\${sDeck.learningCount} Lrn</span>
+                <span class="fearn-srs-deck-pill" style="background:rgba(52,211,153,0.15); color:var(--success, #34d399); border:1px solid rgba(52,211,153,0.3);">\${sDeck.reviewCount} Due</span>
+              </div>
+            `;
+            cardEl.onclick = function () {
+              activeSubject = sKey;
+              currentView = 'overview';
+              renderView();
+            };
+            gridContainer.appendChild(cardEl);
+          });
+        }
+      }
+    }
+
     function renderOverview(deck) {
       var body = doc.createElement('div');
       body.className = 'fearn-srs-body';
@@ -514,30 +628,31 @@
 
       body.innerHTML = `
         <div style="display:flex; flex-direction:column; gap:6px;">
-          <div class="fearn-srs-deck-title">${escapeHtml(deck.name)} Mastery Deck</div>
+          <div style="font-size:2.2rem;">\${getSubjectIcon(activeSubject)}</div>
+          <div class="fearn-srs-deck-title">\${escapeHtml(deck.name)} Mastery Deck</div>
           <div style="font-size:0.85rem; color:var(--text-faint, #64748b);">DSR Dynamic Memory Model &bull; Free Spaced Repetition Scheduler</div>
-          <div class="fearn-srs-deck-desc" style="max-width:520px; margin-top:2px;">${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
+          <div class="fearn-srs-deck-desc" style="max-width:520px; margin-top:2px;">\${escapeHtml(deck.description || 'Comprehensive curriculum & spaced repetition vocabulary.')}</div>
         </div>
 
         <div class="fearn-srs-counts-grid" style="width:100%; max-width:460px;">
           <div class="fearn-srs-count-col" style="flex:1;">
             <span class="fearn-srs-count-label" style="color:var(--lang-1, #38bdf8);">New</span>
-            <span class="fearn-srs-count-num" style="color:var(--lang-1, #38bdf8);">${cappedNew}</span>
+            <span class="fearn-srs-count-num" style="color:var(--lang-1, #38bdf8);">\${cappedNew}</span>
           </div>
           <div style="width:1px; background:var(--glass-border);"></div>
           <div class="fearn-srs-count-col" style="flex:1;">
             <span class="fearn-srs-count-label" style="color:var(--fit-1, #fbbf24);">Learning</span>
-            <span class="fearn-srs-count-num" style="color:var(--fit-1, #fbbf24);">${deck.learningCount}</span>
+            <span class="fearn-srs-count-num" style="color:var(--fit-1, #fbbf24);">\${deck.learningCount}</span>
           </div>
           <div style="width:1px; background:var(--glass-border);"></div>
           <div class="fearn-srs-count-col" style="flex:1;">
             <span class="fearn-srs-count-label" style="color:var(--success, #34d399);">To Review</span>
-            <span class="fearn-srs-count-num" style="color:var(--success, #34d399);">${toReview}</span>
+            <span class="fearn-srs-count-num" style="color:var(--success, #34d399);">\${toReview}</span>
           </div>
         </div>
 
         <button id="fearn-srs-study-btn" class="fearn-srs-primary-btn" style="width:100%; max-width:360px;">
-          Study Now (${cappedNew + toReview} Cards)
+          Study Now (\${cappedNew + toReview} Cards)
         </button>
 
         <div style="display:flex; justify-content:center; gap:18px; margin-top:6px;">
